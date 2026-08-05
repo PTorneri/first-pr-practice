@@ -1,0 +1,241 @@
+{
+  "subtopic": "geografia",
+  "questoes": [
+    {
+      "id": "geografia-20",
+      "texto_apoio": "A escala cartográfica indica a relação entre as distâncias representadas em um mapa e as distâncias reais no terreno.",
+      "formato": "direta",
+      "enunciado": "Um mapa de escala 1:1.000.000 é considerado de pequena escala em relação a um mapa de escala 1:10.000 porque:",
+      "alternativas": {
+        "a": "Cada centímetro corresponde a um milhão de centímetros, o que amplia o detalhe",
+        "b": "É fisicamente maior em tamanho de papel que um mapa de escala 1:10.000",
+        "c": "Utiliza projeção diferente, o que alteraria a relação entre as distâncias",
+        "d": "Representa a mesma área que o de 1:10.000, com legenda de cores distinta",
+        "e": "Representa área maior com menos detalhe, ao contrário do mapa de 1:10.000"
+      },
+      "resposta": "e",
+      "explicacao": "A escala é uma fração: quanto maior o denominador, mais o terreno foi reduzido, e menos cabe de detalhe — daí um milionésimo ser pequena escala e um décimo-milésimo, grande. Em (a) está o distrator que a questão existe para pegar: a correspondência de um milhão de centímetros está certa, e a conclusão está invertida, porque reduzir mais significa detalhar menos. Em (b), o tamanho da folha nada tem a ver com a escala. Em (c), a projeção trata da forma de representar a esfera, não da razão de redução. Em (d), as áreas representadas são diferentes."
+    },
+    {
+      "id": "geografia-22",
+      "texto_apoio": "O Cerrado é o segundo maior bioma brasileiro em extensão, ocupando parte significativa do Centro-Oeste do país.",
+      "formato": "direta",
+      "enunciado": "Esse bioma caracteriza-se por:",
+      "alternativas": {
+        "a": "Campos abertos, com gramíneas baixas e ausência de estrato arbóreo, típicos das serras do Sul",
+        "b": "Floresta tropical densa, com dossel contínuo, semelhante à vegetação amazônica",
+        "c": "Savana tropical, com árvores baixas e tortuosas, e estações seca e chuvosa marcadas",
+        "d": "Vegetação de mangue, adaptada ao encontro de rios com o mar, em solo encharcado",
+        "e": "Clima subtropical úmido, com geadas frequentes, como no extremo Sul do país"
+      },
+      "resposta": "c",
+      "explicacao": "O Cerrado é a savana brasileira: árvores de porte baixo e tronco retorcido sobre um tapete de gramíneas, com casca grossa e raiz profunda que respondem ao fogo e à estação seca prolongada. Em (a) está o distrator mais próximo, porque o Cerrado também tem gramíneas — o que o separa dos campos é justamente o estrato arbóreo, que a alternativa nega. Em (b), a floresta densa de dossel contínuo é a Amazônia. Em (d), o mangue é costeiro e o Cerrado é interior. Em (e), o clima subtropical com geadas descreve o Sul, e não o Centro-Oeste."
+    },
+    {
+      "id": "geografia-33",
+      "texto_apoio": "A pirâmide etária brasileira vem se transformando nas últimas décadas, refletindo a chamada transição demográfica.",
+      "formato": "direta",
+      "enunciado": "Essa transição caracteriza-se, sobretudo, pela:",
+      "alternativas": {
+        "a": "Redução da população total do país, observada de forma contínua desde os anos 1980",
+        "b": "Redução da natalidade e da mortalidade, com envelhecimento e topo mais largo",
+        "c": "Estabilidade da estrutura etária, comparável à do Japão desde o início do século XX",
+        "d": "Elevação simultânea da natalidade e da mortalidade, pelo crescimento urbano",
+        "e": "Manutenção de natalidade alta, compensada por queda na expectativa de vida"
+      },
+      "resposta": "b",
+      "explicacao": "As duas taxas caem, e não na mesma hora: a mortalidade desce primeiro, a natalidade depois, e o resultado é uma pirâmide que perde base e ganha topo. Em (a) está a confusão mais comum — transição demográfica não é queda da população, que no Brasil seguiu crescendo enquanto a estrutura etária mudava. Em (d), a elevação das duas taxas é o quadro pré-transição. Em (e), a expectativa de vida subiu. Em (c), a estrutura etária brasileira é das que mais mudaram no mundo nas últimas décadas."
+    },
+    {
+      "id": "geografia-48",
+      "texto_apoio": "Cidades como Foz do Iguaçu (Brasil) e Ciudad del Este (Paraguai), separadas apenas pela fronteira internacional, formam o que a geografia chama de 'cidades-gêmeas fronteiriças'.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse tipo de conurbação internacional favorece, entre outros fenômenos:",
+      "alternativas": {
+        "a": "O fim da necessidade de controle aduaneiro entre os dois países vizinhos",
+        "b": "A adoção de moeda comum na faixa de fronteira, por acordo entre os países",
+        "c": "Uma redução do fluxo entre os dois lados, pela presença de moedas e leis distintas",
+        "d": "A fusão jurídica dos dois municípios num território administrado em conjunto",
+        "e": "Fluxos diários de trabalhadores, estudantes e consumidores entre os dois lados"
+      },
+      "resposta": "e",
+      "explicacao": "A fronteira continua existindo no papel e deixa de organizar a vida cotidiana: mora-se de um lado, trabalha-se ou estuda-se do outro, e a diferença de preço e de câmbio vira, ela própria, motor de comércio. Em (c) está a inversão do fenômeno — a diferença entre moedas e legislações aumenta o fluxo em vez de reduzi-lo, porque cria a vantagem de atravessar. Em (a) e (d), controle aduaneiro e soberania municipal permanecem, já que a conurbação é urbana e não jurídica. Em (b), não há moeda comum, e é justamente a coexistência de duas que move o comércio local."
+    },
+    {
+      "id": "geografia-50",
+      "texto_apoio": "",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Diante do grande fluxo de imigrantes venezuelanos concentrado em Roraima, o governo brasileiro implementou a chamada 'interiorização', por meio da Operação Acolhida. Essa política teve como principal objetivo:",
+      "alternativas": {
+        "a": "Restringir a permanência dos imigrantes a Roraima, impedindo o deslocamento",
+        "b": "Redistribuir voluntariamente imigrantes a outros estados, aliviando Roraima",
+        "c": "Financiar o retorno definitivo dos imigrantes ao país de origem com auxílio",
+        "d": "Conceder cidadania brasileira a quem aceitasse mudar para outro estado",
+        "e": "Concentrar o atendimento em abrigos federais instalados na faixa de fronteira"
+      },
+      "resposta": "b",
+      "explicacao": "Roraima é um estado pequeno recebendo um fluxo grande, e a interiorização atacou exatamente essa desproporção: transporte para outras unidades da federação, com vaga de acolhimento ou emprego na ponta, mediante adesão do próprio imigrante. Em (e) está o distrator mais forte, porque os abrigos de fronteira existem de fato e são a primeira etapa da operação — mas são o ponto de partida, e não o objetivo. Em (a), o programa facilita o deslocamento em vez de impedi-lo. Em (c), não se trata de retorno ao país de origem. Em (d), não há concessão automática de cidadania."
+    },
+    {
+      "id": "geografia-51",
+      "texto_apoio": "",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "A descoberta e exploração das reservas de petróleo do pré-sal, localizadas em águas profundas do litoral brasileiro, representou:",
+      "alternativas": {
+        "a": "Ampliação das reservas provadas de petróleo, reforçando o país como produtor",
+        "b": "A viabilização da exportação de petróleo refinado, com fim da importação de derivados",
+        "c": "A confirmação de que as reservas brasileiras estão concentradas na Bacia Amazônica",
+        "d": "Uma redução da participação do petróleo na matriz, em favor de renováveis e gás",
+        "e": "A descoberta de gás de xisto em substituição às reservas convencionais do país"
+      },
+      "resposta": "a",
+      "explicacao": "O pré-sal multiplicou as reservas provadas e colocou o Brasil entre os maiores produtores, com petróleo de boa qualidade extraído a milhares de metros abaixo de uma camada de sal. Em (b) está a distinção que a questão cobra: o país exporta óleo cru e segue importando derivados, porque a capacidade de refino não acompanhou a produção. Em (d), a participação do petróleo cresceu com o pré-sal. Em (c), as reservas estão na costa do Sudeste, e não na Bacia Amazônica. Em (e), gás de xisto é outra coisa, extraído em rocha continental por fraturamento."
+    },
+    {
+      "id": "geografia-57",
+      "texto_apoio": "",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "A produção brasileira de etanol a partir da cana-de-açúcar é apontada como um exemplo de:",
+      "alternativas": {
+        "a": "Combustível fóssil, obtido da destilação de subprodutos do petróleo brasileiro",
+        "b": "Combustível de origem vegetal cuja queima não libera dióxido de carbono em etapa alguma",
+        "c": "Biocombustível renovável, alternativo ao fóssil, usado na frota de veículos flex",
+        "d": "Fonte usada apenas na geração de eletricidade em termelétricas a gás natural",
+        "e": "Insumo cuja produção foi proibida no país após a chegada dos veículos elétricos"
+      },
+      "resposta": "c",
+      "explicacao": "O etanol é renovável porque a matéria-prima se replanta a cada safra, e a frota flex deu ao Brasil uma escala de uso que nenhum outro país alcançou. Em (b) está o erro mais fino: a queima do etanol libera dióxido de carbono como qualquer combustão — o que muda é o ciclo, já que a cana reabsorve na safra seguinte parte do carbono emitido. Em (a), etanol não vem do petróleo. Em (d), o uso principal é veicular, e o bagaço, quando gera eletricidade, é queimado em termelétrica a biomassa. Em (e), a produção segue crescendo."
+    },
+    {
+      "id": "geografia-66",
+      "texto_apoio": "",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Cientistas do clima costumam afirmar que eventos climáticos extremos isolados (como uma única onda de calor ou uma enchente específica) não podem ser atribuídos, de forma direta e simples, ao aquecimento global, mas que:",
+      "alternativas": {
+        "a": "O aquecimento aumenta a probabilidade e a intensidade média dos eventos extremos",
+        "b": "Eventos extremos se tornam mais raros à medida que a temperatura média sobe",
+        "c": "A frequência desses eventos varia ao acaso, sem relação com o aquecimento global",
+        "d": "A ciência do clima trata apenas de médias, sem inferir nada sobre eventos individuais",
+        "e": "Todo evento extremo recente decorre do aquecimento, sem outro fator meteorológico"
+      },
+      "resposta": "a",
+      "explicacao": "A afirmação correta é probabilística: o aquecimento carrega os dados a favor do extremo, tornando certos eventos mais prováveis e mais intensos, sem que cada ocorrência tenha causa única. Em (d) está o distrator mais sofisticado e o mais errado por pouco — a ciência de atribuição justamente calcula quanto o aquecimento alterou a probabilidade de um evento específico, de modo que a cautela do enunciado não equivale a silêncio sobre casos individuais. Em (e) e (c) estão os dois excessos opostos, atribuir tudo e não atribuir nada. Em (b), a direção é contrária à observada."
+    },
+    {
+      "id": "geografia-76",
+      "texto_apoio": "Dados aproximados do Sistema Nacional de Informações sobre Saneamento (SNIS) indicam que, embora a cobertura de abastecimento de água tratada no Brasil ultrapasse 85% da população, a cobertura de coleta de esgoto é significativamente menor, ficando perto de 55% da população, com disparidades regionais ainda maiores.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Considerando esses dados aproximados, é correto afirmar que:",
+      "alternativas": {
+        "a": "O avanço do esgoto depende do município e o da água, da União, o que explicaria a diferença",
+        "b": "A defasagem histórica é maior no esgoto do que no abastecimento de água tratada",
+        "c": "As disparidades regionais se distribuem de forma idêntica entre todos os estados",
+        "d": "A cobertura de coleta de esgoto supera a de água tratada em todas as regiões",
+        "e": "As duas coberturas avançam no mesmo ritmo, já que dependem da mesma tubulação"
+      },
+      "resposta": "b",
+      "explicacao": "Os números do enunciado dizem isso diretamente: mais de 85% contra cerca de 55%, uma diferença de trinta pontos que se traduz em esgoto lançado sem tratamento em rios e praias. Em (a) está o distrator mais plausível, porque a divisão de competências é assunto real do setor — mas água e esgoto são ambos serviços de titularidade municipal, e a alternativa inventa uma repartição que não existe. Em (d) e (c), os dados são invertidos e a homogeneidade é negada pelo próprio enunciado. Em (e), o descompasso de ritmo é exatamente o que os números mostram."
+    },
+    {
+      "id": "geografia-78",
+      "texto_apoio": "O Código Florestal brasileiro estabelece a exigência de manutenção de uma parcela de vegetação nativa em propriedades rurais, conhecida como Reserva Legal, cujo percentual mínimo varia conforme o bioma e a localização do imóvel.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esse instrumento tem como principal objetivo:",
+      "alternativas": {
+        "a": "Assegurar que a vegetação nativa remanescente vire unidade de conservação de proteção integral",
+        "b": "Restringir a atividade agropecuária a imóveis de até um módulo fiscal",
+        "c": "Aplicar o mesmo percentual mínimo em todos os biomas, seja qual for o local",
+        "d": "Conciliar o uso produtivo da terra com a conservação de parte da vegetação nativa",
+        "e": "Transferir as áreas de Reserva Legal para o patrimônio da União automaticamente"
+      },
+      "resposta": "d",
+      "explicacao": "A Reserva Legal é um arranjo de convivência: a terra continua privada e produtiva, e uma fração dela permanece com vegetação nativa, podendo inclusive admitir manejo sustentável. Em (a) está o distrator mais próximo, porque também protege vegetação — mas unidade de conservação de proteção integral é área pública, com uso indireto, e a Reserva Legal não muda a titularidade nem o regime do imóvel. Em (e), a propriedade segue do particular. Em (c), o enunciado registra que o percentual varia conforme bioma e localização. Em (b), não há restrição por tamanho do imóvel."
+    },
+    {
+      "id": "geografia-92",
+      "texto_apoio": "Um gráfico mostra a evolução da produção de grãos no Brasil entre duas décadas: a área plantada cresceu 40%, enquanto a produção total de grãos cresceu 150% no mesmo período.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "A partir desses dados, é correto concluir que o principal fator explicativo do crescimento da produção de grãos no Brasil nesse período foi:",
+      "alternativas": {
+        "a": "O ganho de produtividade por hectare, já que a produção cresceu mais que a área",
+        "b": "A incorporação de novas áreas, com produtividade por hectare estável no período",
+        "c": "Um erro de medição, já que produção e área deveriam crescer na mesma proporção",
+        "d": "A expansão da área plantada, já que o aumento decorre do tamanho da área cultivada",
+        "e": "Uma redução da área plantada, compensada por importação recorde de grãos"
+      },
+      "resposta": "a",
+      "explicacao": "Área subiu 40% e produção 150%: se cada hectare rendesse o mesmo de antes, a produção teria crescido também 40%, e o excedente só pode vir de mais grão colhido no mesmo espaço. Em (b) e (d) está a mesma leitura, que atribui tudo à área e é aritmeticamente incompatível com a diferença entre os dois percentuais. Em (c), não há erro: produção e área crescerem em proporções distintas é o esperado quando a produtividade muda. Em (e), a área cresceu, e o Brasil é exportador líquido de grãos no período."
+    },
+    {
+      "id": "geografia-115",
+      "texto_apoio": "",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Embora o agronegócio de grandes propriedades seja o principal responsável pelas exportações agrícolas brasileiras, estudos apontam que a agricultura familiar tem papel central em outro aspecto da produção agropecuária nacional, relacionado, sobretudo, a:",
+      "alternativas": {
+        "a": "Produção majoritária das commodities exportadas, como soja e milho",
+        "b": "Domínio do mercado de commodities financeiras negociadas em bolsas internacionais",
+        "c": "Exportação da maior parte dos grãos produzidos no país, superando o agronegócio",
+        "d": "Produção de boa parte dos alimentos do mercado interno: frutas, feijão e leite",
+        "e": "Concentração da produção mineral do país, sobretudo minério de ferro e nióbio"
+      },
+      "resposta": "d",
+      "explicacao": "A divisão de papéis é essa: a grande propriedade produz o que embarca no navio, e a agricultura familiar produz boa parte do que chega à mesa — mandioca, feijão, hortaliças, leite. Em (a) e (c) está o mesmo equívoco em duas formas, atribuindo à agricultura familiar a exportação de commodities, que é justamente o campo em que o enunciado reconhece o predomínio da grande propriedade. Em (b), commodity financeira é contrato de bolsa, e não produção agrícola. Em (e), mineração não é atividade agropecuária."
+    },
+    {
+      "id": "geografia-132",
+      "texto_apoio": "Estudos do Ministério do Meio Ambiente identificam, no semiárido brasileiro, 'núcleos de desertificação' — áreas mais críticas de degradação do solo —, entre os quais se destacam regiões como o Seridó (Rio Grande do Norte e Paraíba), Gilbués (Piauí) e Cabrobó (Pernambuco).",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "A identificação desses núcleos específicos, em vez de se referir à desertificação de todo o semiárido de forma homogênea, evidencia que esse processo:",
+      "alternativas": {
+        "a": "Já foi revertido em Seridó, Gilbués e Cabrobó, restando áreas preservadas",
+        "b": "Não guarda relação com uso do solo, decorrendo de variações climáticas naturais",
+        "c": "Distribui-se de modo homogêneo pelo semiárido, que partilha as mesmas condições",
+        "d": "Ocorre de maneira uniforme em toda a extensão do semiárido, sem variação espacial",
+        "e": "Tem distribuição desigual, concentrando-se onde clima e uso do solo se combinam"
+      },
+      "resposta": "e",
+      "explicacao": "Delimitar núcleos é afirmar que o processo tem geografia: o clima semiárido é condição comum a toda a região, e o que produz os pontos críticos é a combinação dele com sobrepastejo, retirada de lenha e manejo inadequado em áreas determinadas. Em (b) está o distrator que a própria existência dos núcleos desmente — se fosse só clima, a degradação seria uniforme, já que o clima é regional. Em (c) e (d), a homogeneidade contraria o recorte apresentado no enunciado. Em (a), os núcleos são identificados por serem críticos, e não por estarem recuperados."
+    },
+    {
+      "id": "geografia-142",
+      "texto_apoio": "",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Enquanto grandes metrópoles enfrentam desafios ligados ao crescimento urbano acelerado, muitos pequenos municípios do interior do Brasil, sobretudo em áreas rurais menos dinâmicas economicamente, enfrentam o problema inverso, relacionado a:",
+      "alternativas": {
+        "a": "A ausência de conexão entre esses municípios e a urbanização do restante do país",
+        "b": "Crescimento populacional acelerado, pela chegada de moradores vindos das capitais",
+        "c": "Excesso de oferta de emprego industrial, que atrai mais gente do que a cidade absorve",
+        "d": "Esvaziamento populacional pela saída de jovens, com envelhecimento dos que ficam",
+        "e": "Crescimento acelerado, pelo retorno de famílias que deixaram as metrópoles"
+      },
+      "resposta": "d",
+      "explicacao": "Quem sai são os que estão em idade de estudar e trabalhar, e por isso o município não perde apenas população: perde a faixa etária que sustenta natalidade, arrecadação e serviços, e envelhece por subtração. Em (e) está o distrator mais atual, porque a contramigração para cidades pequenas existe e cresceu depois de 2020 — mas atinge sobretudo municípios turísticos e próximos a metrópoles, e não as áreas rurais pouco dinâmicas do enunciado. Em (b) e (c), crescimento e emprego industrial descrevem o oposto do problema. Em (a), esses municípios estão integrados à rede urbana, e é o que permite a saída."
+    },
+    {
+      "id": "geografia-157",
+      "texto_apoio": "Uma figura ilustra a determinação da posição de um receptor na superfície terrestre a partir de sinais emitidos por uma constelação de satélites.",
+      "formato": "lacunas",
+      "enunciado": "A tecnologia representada é ____________ , e ela se distingue de um Sistema de Informação Geográfica porque este último ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "a aerofotogrametria - integra, armazena e analisa dados espaciais diversos",
+        "b": "o Sistema de Posicionamento Global - capta imagens da superfície por sensores em órbita",
+        "c": "o sensoriamento remoto - integra, armazena e analisa dados espaciais diversos",
+        "d": "o Sistema de Posicionamento Global - registra o relevo a partir de fotografias aéreas sobrepostas",
+        "e": "o Sistema de Posicionamento Global - integra, armazena e analisa dados espaciais diversos"
+      },
+      "resposta": "e",
+      "explicacao": "As duas lacunas cobram tecnologias diferentes. Determinar coordenadas por triangulação de sinais de satélite é o GPS; o SIG não localiza nada por conta própria — ele recebe camadas de origens variadas, inclusive do GPS, e as cruza para análise. Em (b) e (d), a primeira lacuna está certa e a segunda troca o SIG por sensoriamento remoto e por aerofotogrametria, que produzem dado em vez de integrá-lo. Em (a) e (c), a segunda lacuna está certa e a primeira confunde o GPS com técnicas de imageamento, que registram a superfície mas não fornecem posição do receptor."
+    }
+  ]
+}

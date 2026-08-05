@@ -1,0 +1,36 @@
+{
+  "subtopic": "filosofia-sociologia",
+  "questoes": [
+    {
+      "id": "filosofia-sociologia-18",
+      "texto_apoio": "O liberalismo político clássico defende um Estado limitado, cuja função principal é assegurar as liberdades individuais e os direitos fundamentais dos cidadãos.",
+      "formato": "direta",
+      "enunciado": "Esse princípio liberal ajuda a situar qual posição no debate contemporâneo sobre regulação estatal de grandes plataformas digitais?",
+      "alternativas": {
+        "a": "a que defende a estatização das plataformas de maior alcance, tratadas como serviço essencial",
+        "b": "a que dispensa o Estado de agir mesmo diante de fraude comprovada contra o consumidor",
+        "c": "a que subordina a atuação das plataformas a um plano central de oferta de serviços digitais",
+        "d": "a que limita a intervenção do Estado a coibir abusos concretos contra direitos dos usuários",
+        "e": "a que condiciona a operação das plataformas à aprovação prévia de todo conteúdo publicado nelas"
+      },
+      "resposta": "d",
+      "explicacao": "O liberalismo clássico não é ausência de Estado: é Estado limitado a garantir liberdades e direitos, o que autoriza intervenção pontual contra abusos e a interdita quando ela vira controle da atividade. Em (b) está o erro mais comum — confundir Estado limitado com Estado omisso; coibir fraude é exatamente a função que a doutrina reserva a ele. Em (a) e (c), estatização e plano central são posições estatistas, opostas à limitação do papel do Estado. Em (e), a aprovação prévia de conteúdo é censura, incompatível com a proteção das liberdades individuais que o liberalismo põe no centro."
+    },
+    {
+      "id": "filosofia-sociologia-78",
+      "texto_apoio": "O neoliberalismo defende a redução da intervenção estatal na economia, a privatização de empresas públicas e a desregulamentação de mercados.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esse conjunto de ideias ajuda a situar qual posição em debates contemporâneos sobre a privatização de serviços públicos como saneamento e distribuição de energia?",
+      "alternativas": {
+        "a": "a que defende ampliar o investimento público em infraestrutura como motor do crescimento",
+        "b": "a que privatiza o serviço e dispensa a existência de uma agência que regule tarifa, qualidade e investimento",
+        "c": "a que mantém a operação estatal e apenas terceiriza a execução de obras a empresas privadas",
+        "d": "a que transfere esses serviços à iniciativa privada, esperando ganho de eficiência pela concorrência",
+        "e": "a que condiciona a privatização à aprovação prévia dos usuários em consulta popular vinculante"
+      },
+      "resposta": "d",
+      "explicacao": "A posição neoliberal aposta que a exposição à concorrência disciplina o prestador melhor do que o controle estatal direto, e é esse o argumento mobilizado a favor da privatização de saneamento e energia. Em (b) está o distrator mais fino: privatizar sem regulação não é a posição corrente dessa corrente, que trata a agência reguladora como condição para que a concorrência funcione em setores de rede. Em (a) e (c), ampliar investimento público e manter a operação estatal são posições opostas ao programa descrito. Em (e), a consulta vinculante é um critério de legitimidade democrática, alheio ao argumento econômico em questão."
+    }
+  ]
+}

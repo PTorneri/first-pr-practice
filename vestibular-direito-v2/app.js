@@ -5,7 +5,17 @@
   // uma cópia estável pra voltar. Por isso toda chave do v2 vive em "v2_".
   // A primeira entrada copia o progresso do v1 uma única vez (ver sync.js),
   // então ninguém começa do zero — mas a partir daí os dois são independentes.
-  const NS = "v2_";
+  //
+  // Desde 2026-08 o prefixo tem uma SEGUNDA parte: a trilha. Direito grava em
+  // "v2_dir_" e Medicina em "v2_med_". Sem isso, quem estudasse os dois cursos
+  // teria um sobrescrevendo o progresso do outro — a mesma classe de problema
+  // que o "v2_" resolveu entre as versões, um nível abaixo.
+  //
+  // Consequência prática: NENHUMA outra linha deste arquivo precisou mudar,
+  // porque todas as chaves já derivavam de NS.
+  const TRILHA = (window.VD_TRILHA && window.VD_TRILHA.atual()) || "direito";
+  const TRILHA_CFG = (window.VD_TRILHAS && window.VD_TRILHAS[TRILHA]) || null;
+  const NS = "v2_" + (TRILHA_CFG ? TRILHA_CFG.prefixo : "dir_");
   const LS_START = NS + "vd_startDate";
   const LS_ANSWERS = NS + "vd_answers"; // { "<subtopicId>::<questionId>": "a" } — última resposta, GLOBAL (usada pra stats de frente/Caderno de Erros, "vale a mais recente")
   const LS_DAY_ANSWERS = NS + "vd_dayAnswers"; // { "<day>::<subtopicId>::<questionId>": "a" } — resposta ESPECÍFICA daquela ocorrência do dia, corrige bug de bancos maiores fazendo a mesma questão reaparecer em dias diferentes
@@ -40,9 +50,24 @@
     LS_SIMULADO_MODO,
   ];
 
+  // Lista de sufixos (chave sem o prefixo de trilha). É o que a migração de
+  // 2026-08 usa para renomear "v2_vd_answers" -> "v2_dir_vd_answers" sem ter
+  // que repetir os nomes num segundo lugar e deixá-los saírem de sincronia.
+  const BASE_KEYS = SYNCABLE_KEYS.map((k) => k.slice(NS.length));
+
   // sync.js precisa saber exatamente quais chaves sobem pra nuvem, e a
   // estratégia de mesclagem de cada uma quando dois aparelhos divergem.
-  window.VD_KEYS = { NS: NS, SYNCABLE: SYNCABLE_KEYS, START: LS_START };
+  //
+  // TRILHA entra em SYNCABLE porque a escolha do curso precisa viajar entre
+  // aparelhos: quem escolheu Medicina no celular não pode ser perguntado de
+  // novo ao abrir no computador. Ela é a única chave fora do namespace.
+  window.VD_KEYS = {
+    NS: NS,
+    SYNCABLE: SYNCABLE_KEYS.concat([window.VD_TRILHA ? window.VD_TRILHA.CHAVE : "v2_trilha"]),
+    START: LS_START,
+    TRILHA: window.VD_TRILHA ? window.VD_TRILHA.CHAVE : "v2_trilha",
+    BASES: BASE_KEYS,
+  };
 
   const DISSERT_WEEK_TARGET = 4;
   const DISSERT_WEEK_SIZE = 7;
@@ -285,6 +310,115 @@
     renderCalendar();
     renderProgress();
     renderStreak();
+  }
+
+  // ---------- Trilha na interface ----------
+
+  // Tudo o que era texto de Direito cravado no HTML passa por aqui. É chamado
+  // uma vez, no boot, antes de qualquer render — se rodasse depois, a pessoa
+  // veria "Rumo à FGV & Insper" piscar numa trilha de Medicina.
+  function aplicarTrilhaNaUI() {
+    const cfg = TRILHA_CFG;
+    if (!cfg) return;
+
+    document.title = cfg.nome + " — Plano de 90 dias";
+
+    const marca = document.querySelector(".brand span");
+    if (marca) marca.innerHTML = cfg.marca;
+
+    // Login e onboarding compartilham o mesmo par título/subtítulo.
+    document.querySelectorAll("#view-login h1, #view-onboarding h1").forEach((h) => {
+      h.innerHTML = cfg.titulo;
+    });
+    document.querySelectorAll(".onboarding-logo").forEach((img) => {
+      if (img.alt) img.alt = cfg.logoAlt;
+    });
+
+    const subOnb = document.querySelector("#view-onboarding .subtitle");
+    if (subOnb) {
+      subOnb.innerHTML = "Plano de estudos de " + cfg.plano.totalDias +
+        " dias baseado no formato real das provas de <strong>" + cfg.subtitulo + "</strong>. " +
+        cfg.resumo;
+    }
+
+    // Abas que não existem nesta trilha somem — botão e painel. Em Medicina é o
+    // caso de "Obras": obras obrigatórias são um instrumento da FGV.
+    document.querySelectorAll(".tab-btn").forEach((btn) => {
+      const usa = cfg.abas.indexOf(btn.dataset.tab) !== -1;
+      btn.hidden = !usa;
+      const painel = document.getElementById("tab-" + btn.dataset.tab);
+      if (painel && !usa) painel.classList.remove("active");
+    });
+
+    const hint = document.getElementById("progresso-hint");
+    if (hint) {
+      hint.textContent = "Acompanhe seu desempenho em cada uma das " +
+        (window.SUBTOPICS || []).length + " frentes cobradas pelas provas.";
+    }
+
+    const links = document.getElementById("provas-oficiais-links");
+    if (links) {
+      links.innerHTML = "";
+      (cfg.provasOficiais || []).forEach((p) => {
+        const a = document.createElement("a");
+        a.className = "btn-link";
+        a.target = "_blank";
+        a.rel = "noopener";
+        a.href = p.url;
+        a.textContent = "▶ Provas e gabaritos oficiais — " + p.nome;
+        links.appendChild(a);
+      });
+    }
+  }
+
+  // ---------- Troca de trilha ----------
+
+  function initTrocarTrilha() {
+    const container = document.getElementById("trocar-trilha-container");
+    if (!container || !window.VD_TRILHA) return;
+
+    const outras = window.VD_TRILHA.lista().filter((t) => t.id !== TRILHA);
+    if (outras.length === 0) return;
+
+    const card = document.createElement("div");
+    card.className = "card";
+    card.innerHTML =
+      "<h3>Trocar de trilha</h3>" +
+      '<p class="lesson-desc">Você está estudando para <strong>' + TRILHA_CFG.nome +
+      "</strong>. Trocar não apaga nada: seu progresso em cada trilha fica guardado em separado, " +
+      "e voltar devolve o plano no dia em que você parou.</p>";
+
+    outras.forEach((t) => {
+      const btn = document.createElement("button");
+      btn.className = "btn btn-secondary";
+      btn.textContent = "Ir para " + t.nome;
+      btn.addEventListener("click", async () => {
+        const ok = confirm(
+          "Você vai para o plano de " + t.nome + ".\n\n" +
+          "Seu progresso em " + TRILHA_CFG.nome + " fica guardado — é só voltar " +
+          "para encontrá-lo no mesmo dia em que parou."
+        );
+        if (!ok) return;
+
+        btn.disabled = true;
+        btn.textContent = "Trocando…";
+        window.VD_TRILHA.definir(t.id);
+        // Sobe antes de recarregar: se a pessoa fechar o app agora, a escolha
+        // já está na conta.
+        try {
+          if (window.VD_SYNC) await window.VD_SYNC.pushNow();
+        } catch (e) {
+          /* o boot seguinte tenta de novo pelo caminho normal */
+        }
+        // O reload é obrigatório, não cosmético: o prefixo do localStorage e os
+        // dados da trilha são resolvidos no carregamento da página. Seguir sem
+        // recarregar gravaria o progresso da trilha nova no espaço da antiga.
+        location.reload();
+      });
+      card.appendChild(btn);
+    });
+
+    container.appendChild(card);
   }
 
   // ---------- Tabs ----------
@@ -2888,9 +3022,11 @@
   window.VD_BOOT = function bootApp() {
     if (booted) return;
     booted = true;
+    aplicarTrilhaNaUI(); // antes de qualquer render: troca textos e some com abas
     initOnboarding();
     initTabs();
     initDayNav();
     initReset();
+    initTrocarTrilha();
   };
 })();

@@ -66,14 +66,14 @@
                          "formato":  "direta",
                          "enunciado":  "A relação entre a ascensão de João Romão e o destino de Bertoleza permite afirmar que o romance",
                          "alternativas":  {
-                                              "a":  "mostra que a riqueza do português foi construída sobre o trabalho e o dinheiro de uma mulher negra descartada quando ele chega ao topo.",
-                                              "b":  "apresenta Bertoleza como sócia formal do negócio, cuja parte lhe é negada por falha de registro.",
-                                              "c":  "atribui à convivência com Bertoleza a decadência econômica de João Romão.",
-                                              "d":  "trata o enriquecimento como resultado exclusivo da disciplina individual do protagonista.",
-                                              "e":  "situa a ruptura entre os dois antes do início da construção das casinhas."
+                                              "a":  "mostra que a riqueza do português se ergueu sobre o trabalho de uma mulher negra depois descartada.",
+                                              "b":  "apresenta Bertoleza como sócia formal cuja parte lhe é negada por uma falha de registro.",
+                                              "c":  "faz da convivência com Bertoleza a causa da decadência econômica de João Romão.",
+                                              "d":  "trata o enriquecimento como fruto da disciplina individual do protagonista, à maneira de uma parábola de esforço.",
+                                              "e":  "situa a ruptura entre os dois antes do início da construção das casinhas do cortiço."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O segundo parágrafo diz que o dinheiro e a força de trabalho de Bertoleza sustentam a construção das casinhas e que ela nunca aparece como sócia; quando a ascensão exige o casamento com Zulmira, João Romão a entrega a quem a reclamava como escrava. A falha de registro inverte isso, porque não havia sociedade nenhuma a registrar; a trajetória do português é de ascensão, não de decadência; a disciplina individual é justamente o que o texto desmonta ao mostrar de onde veio o capital; e a ruptura ocorre no fim, e não antes da construção."
+                         "explicacao":  "O capital inicial e a força de trabalho que sustentam a taverna e as casinhas vêm de Bertoleza, e o desfecho apenas liquida uma sociedade que nunca foi reconhecida. Em (d) está a leitura que o romance constrói para desmentir: a disciplina de João Romão é real, mas o livro insiste em mostrar de onde veio o que ele acumulou. Em (b), não há sociedade formal a ser desfeita por falha de registro — a exploração é justamente extralegal. Em (c), não há decadência: ele termina rico. Em (e), a ruptura é o desfecho, e não o ponto de partida."
                      },
                      {
                          "id":  "literatura-03",
@@ -114,14 +114,14 @@
                          "formato":  "direta",
                          "enunciado":  "A data de publicação do romance situa-o",
                          "alternativas":  {
-                                              "a":  "antes da Lei do Ventre Livre.",
-                                              "b":  "durante a Guerra do Paraguai.",
-                                              "c":  "na década anterior à Abolição.",
-                                              "d":  "dois anos depois da Abolição e um ano depois da Proclamação da República.",
-                                              "e":  "já no período do Estado Novo."
+                                              "a":  "na década seguinte à Guerra do Paraguai, ainda sob o Segundo Reinado",
+                                              "b":  "dois anos antes da Abolição e um ano antes da Proclamação da República",
+                                              "c":  "entre a Lei do Ventre Livre e a Lei dos Sexagenários, no auge do debate abolicionista",
+                                              "d":  "dois anos depois da Abolição e um ano depois da Proclamação da República",
+                                              "e":  "já sob a República Velha consolidada, cerca de três décadas depois da Abolição"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A primeira frase do texto data a publicação em 1890 e a situa exatamente assim, o que importa para a leitura: o romance encena a entrega de uma mulher negra a quem a reclamava como escrava dois anos depois de a escravidão ter sido abolida. A Lei do Ventre Livre é de 1871 e a Guerra do Paraguai terminou em 1870, ambas anteriores; a década anterior à Abolição terminaria em 1888; e o Estado Novo é de quase meio século depois."
+                         "explicacao":  "A primeira frase do texto data a publicação em 1890, e a posição importa para a leitura: o romance encena a entrega de uma mulher negra a quem a reclamava como escrava dois anos depois de a escravidão ter sido abolida. Em (b) a relação está invertida — as mesmas duas datas, na ordem errada, o que colocaria o livro em 1886. Em (a), a década seguinte à Guerra do Paraguai (encerrada em 1870) é a de 1870, ainda Segundo Reinado, mas o romance é posterior à queda da monarquia. Em (c), a Lei do Ventre Livre (1871) e a dos Sexagenários (1885) são ambas anteriores à Abolição, e o livro vem depois dela. Em (e), três décadas depois de 1888 seria 1918, já na República Velha."
                      },
                      {
                          "id":  "literatura-06",
@@ -178,14 +178,14 @@
                          "formato":  "direta",
                          "enunciado":  "A caracterização das personagens no romance apoia-se principalmente",
                          "alternativas":  {
-                                              "a":  "na descrição minuciosa de seus conflitos interiores.",
-                                              "b":  "em hábitos, posição social e artimanhas, e não em vida psicológica desenvolvida.",
-                                              "c":  "em longos monólogos que revelam suas motivações.",
-                                              "d":  "na correspondência que trocam ao longo da narrativa.",
-                                              "e":  "na comparação constante com figuras da mitologia clássica."
+                                              "a":  "na descrição minuciosa dos conflitos interiores de cada uma delas.",
+                                              "b":  "em hábitos, posição social e artimanhas, mais que em vida psicológica.",
+                                              "c":  "em longos monólogos por meio dos quais revelam suas motivações.",
+                                              "d":  "na correspondência que trocam ao longo da narrativa, reproduzida no texto.",
+                                              "e":  "na comparação com figuras da mitologia clássica, retomada a cada capítulo."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O segundo parágrafo é explícito: trata-se de romance de costumes e não de análise psicológica, e as personagens são apresentadas por hábitos, posição na engrenagem da cidade e artimanhas. Conflitos interiores e monólogos supõem justamente a vida interior que o texto diz não existir ali; cartas não estruturam a narrativa; e a referência mitológica não é mencionada em nenhum momento."
+                         "explicacao":  "As personagens se definem pelo que fazem e pelo lugar que ocupam, não pelo que sentem: o romance as apresenta de fora, por gesto e por manha. Em (a) e (c) está o mesmo equívoco em duas formas — atribuir ao livro um interesse pela interioridade que só apareceria na prosa brasileira décadas depois. Em (d), não há troca de cartas na narrativa. Em (e), a referência mitológica é ocasional e irônica, e não princípio de caracterização."
                      },
                      {
                          "id":  "literatura-10",
@@ -226,14 +226,14 @@
                          "formato":  "direta",
                          "enunciado":  "A dedicatória que abre o romance produz efeito de sentido porque",
                          "alternativas":  {
-                                              "a":  "dirige a homenagem, reservada por convenção a pessoas ilustres, ao agente da decomposição do próprio autor.",
-                                              "b":  "revela o nome do inimigo que perseguiu o protagonista em vida.",
-                                              "c":  "antecipa que o romance tratará de temas de investigação científica.",
-                                              "d":  "indica que o livro foi escrito por encomenda de um patrono.",
-                                              "e":  "obedece a uma convenção corrente nas dedicatórias do período."
+                                              "a":  "dirige ao agente da decomposição do autor a homenagem que a convenção reserva a pessoas ilustres.",
+                                              "b":  "inverte a ordem habitual do romance, começando pelo fim da vida do protagonista.",
+                                              "c":  "antecipa o tom sentimental que o narrador manterá ao longo de toda a sua narrativa.",
+                                              "d":  "filia o livro à tradição científica do período, que fazia da observação da matéria o seu método próprio.",
+                                              "e":  "cumpre a convenção das dedicatórias do período, apenas com destinatário incomum."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O efeito nasce do desvio: o lugar da dedicatória, ocupado por protetores e figuras ilustres, é dado ao verme que roeu as carnes do cadáver do autor, e é esse gesto que instala o humor que trata a morte sem solenidade. O verme não é personagem nem inimigo do enredo; não há proposta de investigação científica; a encomenda de patrono é justamente a convenção que está sendo invertida; e obedecer à convenção anularia o efeito descrito."
+                         "explicacao":  "A dedicatória mantém intacta a fórmula da homenagem e troca só o destinatário, e é desse desencaixe que vem o efeito. Em (e) está o erro mais fino: a convenção é citada, não cumprida — cumpri-la seria escolher um destinatário ilustre, e o gesto do livro é justamente o oposto. Em (c), o tom da abertura é irônico e macabro, não sentimental. Em (b), a inversão temporal existe no romance, mas é obra do narrador defunto, não da dedicatória. Em (d), a decomposição aparece como matéria de deboche, e não como objeto de observação científica."
                      },
                      {
                          "id":  "literatura-13",
@@ -418,14 +418,14 @@
                          "formato":  "direta",
                          "enunciado":  "A escolha da antropofagia como emblema é polêmica por construção porque",
                          "alternativas":  {
-                                              "a":  "atribui ao Modernismo uma origem religiosa que o movimento recusava.",
-                                              "b":  "contraria a data convencionalmente aceita para o início do movimento.",
-                                              "c":  "exige o abandono do verso livre adotado em 1922.",
-                                              "d":  "restringe o programa modernista à literatura, excluindo as demais artes.",
-                                              "e":  "adota como marca de identidade nacional justamente a prática que a colonização usou para classificar o indígena como bárbaro."
+                                              "a":  "propõe devorar a cultura estrangeira, o que na prática repõe a imitação do modelo europeu que o movimento combatia",
+                                              "b":  "recorre a um ritual indígena sem que o Modernismo tivesse interesse real pela cultura originária",
+                                              "c":  "desloca o marco do movimento de 1922 para 1928, esvaziando a Semana de Arte Moderna",
+                                              "d":  "sustenta ao mesmo tempo a recusa do nacionalismo fechado e a do colonialismo cultural, posições incompatíveis entre si",
+                                              "e":  "adota como emblema nacional a prática que a colonização usou para chamar o indígena de bárbaro"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O terceiro parágrafo aponta essa inversão, e o último a explicita: o manifesto converte em programa aquilo que a tradição tratava como acusação. A origem religiosa não está em causa, já que o ritual é mobilizado como metáfora cultural; a data de 1922 permanece intacta, e o manifesto é de 1928; o verso livre não é revogado; e a Semana reuniu música e artes plásticas ao lado da literatura, o que afasta a restrição a um só campo."
+                         "explicacao":  "O terceiro parágrafo aponta a inversão e o último a explicita: o manifesto converte em programa aquilo que a tradição tratava como acusação. Em (a), devorar é o oposto de copiar — o texto define o gesto como digerir e devolver transformado, não como imitar. Em (b), o ritual é mobilizado como metáfora cultural, e o interesse pela cultura originária é justamente o que sustenta a escolha. Em (c), a data de 1922 permanece como marco da Semana; 1928 é a do manifesto, e uma coisa não anula a outra. Em (d), as duas recusas não são incompatíveis: o texto mostra que a antropofagia responde às duas ao mesmo tempo, e é essa dupla resposta que a define."
                      },
                      {
                          "id":  "literatura-25",
@@ -514,14 +514,14 @@
                          "formato":  "direta",
                          "enunciado":  "A data de publicação do romance é significativa porque",
                          "alternativas":  {
-                                              "a":  "coincide com a realização da Semana de Arte Moderna.",
-                                              "b":  "antecede em poucos meses a Independência do Brasil.",
-                                              "c":  "situa o livro no auge do Romantismo brasileiro.",
-                                              "d":  "marca o início do Estado Novo.",
-                                              "e":  "o coloca no ano da Abolição e às vésperas da República, quando a elite retratada se reorganizava."
+                                              "a":  "o situa no mesmo ano da Proclamação da República, cujo ideário o internato já encenava",
+                                              "b":  "o inscreve no auge do Naturalismo, escola a que o romance adere sem reservas",
+                                              "c":  "antecede em um ano a Abolição, o que explica a ausência de escravizados no internato",
+                                              "d":  "o afasta do Realismo, então em declínio, e o aproxima da geração simbolista que se formava naqueles anos",
+                                              "e":  "o coloca no ano da Abolição e às vésperas da República, quando a elite retratada se reorganizava"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O último parágrafo faz essa ligação: publicado em 1888 e a um ano da Proclamação, o romance retrata a formação da elite brasileira exatamente no momento em que essa elite se reorganizava. A Semana de Arte Moderna é de 1922; a Independência, de 1822; o auge do Romantismo ficou nas décadas de 1850 e 1860, já superado pelo Realismo em 1888; e o Estado Novo começa em 1937."
+                         "explicacao":  "O último parágrafo faz essa ligação: publicado em 1888 e a um ano da Proclamação, o romance retrata a formação da elite brasileira exatamente quando essa elite se reorganizava. Em (a), a Proclamação é de 1889, um ano depois. Em (c), a inversão troca o ano da Abolição pelo anterior a ela. Em (b) e (d), o problema é de escola: 1888 fica no período realista-naturalista, e o Simbolismo brasileiro só se firma a partir de 1893 — além disso, o romance não adere ao Naturalismo sem reservas, já que a análise do internato é mais moral e social que determinista."
                      },
                      {
                          "id":  "literatura-31",
@@ -586,17 +586,17 @@
                      {
                          "id":  "literatura-35",
                          "texto_apoio":  "A crítica costuma dividir a obra de Machado de Assis em duas fases, tomando Memórias Póstumas de Brás Cubas (1881) como marco divisor.",
+                         "formato":  "direta",
                          "enunciado":  "O traço que melhor caracteriza a passagem de uma fase à outra é",
                          "alternativas":  {
-                                              "a":  "a substituição do romance pelo conto como gênero preferencial",
-                                              "b":  "a troca do português culto pela linguagem coloquial e regional",
-                                              "c":  "a passagem de enredos de convenção romântica para a análise irônica e desiludida das motivações humanas",
-                                              "d":  "o abandono do ambiente carioca em favor de cenários europeus",
-                                              "e":  "a adoção do determinismo biológico como chave de explicação das personagens"
+                                              "a":  "a substituição do romance pelo conto como gênero preferencial do autor",
+                                              "b":  "a troca do português culto pela linguagem coloquial e regional brasileira",
+                                              "c":  "a passagem do enredo de convenção romântica à análise irônica das motivações",
+                                              "d":  "o abandono do ambiente carioca em favor de cenários europeus e cosmopolitas",
+                                              "e":  "a adoção do determinismo biológico como chave de explicação do comportamento das personagens"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O que muda não é gênero, cenário nem registro: é o olhar. Sai a moldura romântica, entra a desconfiança sistemática das razões que as pessoas dão para o que fazem. Note que o determinismo biológico pertence ao Naturalismo, que Machado nunca abraçou.",
-                         "formato":  "direta"
+                         "explicacao":  "A virada não é de assunto nem de cenário: é de posição do narrador, que deixa de conduzir o enredo pelas convenções e passa a desmontar o que as personagens dizem de si. Em (e) está a confusão mais frequente — o determinismo é o programa naturalista, e a segunda fase de Machado faz o oposto, tratando a conduta como matéria de análise e não de lei biológica. Em (d), o Rio permanece o cenário. Em (b), a prosa continua culta, e a coloquialidade é recurso, não substituição. Em (a), Machado escreve romances e contos nas duas fases."
                      },
                      {
                          "id":  "literatura-36",
@@ -736,17 +736,17 @@
                      {
                          "id":  "literatura-45",
                          "texto_apoio":  "Um poema de Cecília Meireles emprega versos curtos, vocabulário simples, imagens de água, vento e espelho, e trata da fugacidade das coisas sem nomear diretamente a morte.",
+                         "formato":  "direta",
                          "enunciado":  "A relação entre a forma escolhida e o assunto do poema pode ser descrita como",
                          "alternativas":  {
-                                              "a":  "ruptura modernista, pois o poema recusa qualquer regularidade rítmica",
-                                              "b":  "convergência, pois a fluidez das imagens e a leveza do verso encenam a própria transitoriedade de que o poema fala",
-                                              "c":  "subordinação da forma à mensagem, que é enunciada de modo direto e explícito",
-                                              "d":  "contraste deliberado, pois a leveza formal contradiz o peso do tema",
-                                              "e":  "indiferença, pois a forma é convenção do gênero e não dialoga com o assunto"
+                                              "a":  "ruptura modernista, já que o poema recusa a regularidade rítmica herdada",
+                                              "b":  "convergência, pois a fluidez das imagens e a leveza do verso encenam a transitoriedade",
+                                              "c":  "subordinação da forma à mensagem, enunciada de modo direto pelo eu lírico",
+                                              "d":  "contraste deliberado, pois a leveza da forma contradiz o peso do tema e produz estranhamento no leitor",
+                                              "e":  "alternância, pois forma e tema se aproximam e se afastam ao longo das estrofes"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Água, vento e espelho são imagens do que não se fixa, e o verso curto passa depressa. Forma e assunto dizem a mesma coisa por meios diferentes — não há contraste entre leveza e peso, há coincidência.",
-                         "formato":  "direta"
+                         "explicacao":  "Água, vento e espelho são imagens do que não se fixa, e o verso curto passa depressa: a forma faz o que o poema diz, em vez de comentá-lo. Em (d) está a leitura simétrica e errada — haveria contraste se o tema fosse tratado como peso, e o poema evita justamente isso, inclusive ao não nomear a morte. Em (c), nada é enunciado de modo direto. Em (a), versos curtos e regulares não constituem recusa da regularidade. Em (e), não há oscilação: a convergência se mantém do começo ao fim."
                      },
                      {
                          "id":  "literatura-46",
@@ -931,17 +931,17 @@
                      {
                          "id":  "literatura-58",
                          "texto_apoio":  "A crítica de Antonio Candido propõe ler a forma literária como algo que internaliza o processo social, em vez de tratar forma e conteúdo social como planos separados.",
+                         "formato":  "direta",
                          "enunciado":  "Aplicar esse método à leitura de um romance significa",
                          "alternativas":  {
-                                              "a":  "descartar a análise formal e concentrar-se na biografia do autor",
-                                              "b":  "investigar como procedimentos formais — ponto de vista, estrutura, ritmo — carregam em si a estrutura social de que a obra nasce",
-                                              "c":  "avaliar a obra exclusivamente pelo grau de engajamento político declarado do escritor",
-                                              "d":  "comparar a obra apenas com outras do mesmo gênero, sem referência à história",
-                                              "e":  "buscar no texto apenas os temas sociais explicitamente mencionados pelas personagens"
+                                              "a":  "descartar a análise formal e concentrar-se no contexto histórico em que a obra nasceu",
+                                              "b":  "investigar como ponto de vista, estrutura e ritmo carregam em si a estrutura social",
+                                              "c":  "verificar se os temas sociais estão mencionados explicitamente pelas personagens do livro",
+                                              "d":  "medir a obra pelo grau de engajamento político declarado por seu autor em vida",
+                                              "e":  "tratar forma e conteúdo social como planos que a análise deve percorrer separadamente"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A proposta não é procurar o social no assunto, e sim na construção. Ponto de vista, ritmo e estrutura já são, eles próprios, matéria histórica — e é por isso que o método dispensa tanto o resumo temático quanto a biografia do autor.",
-                         "formato":  "direta"
+                         "explicacao":  "O método não acrescenta o social à análise formal: encontra o social dentro dela, no ponto de vista escolhido, na estrutura, no ritmo. Em (c) está o erro mais comum — procurar o social no que as personagens dizem é ficar no conteúdo temático, exatamente o que a proposta desloca. Em (e), a separação entre os planos é o que o enunciado descarta. Em (a), abandonar a forma desfaz o método pela outra ponta. Em (d), o engajamento declarado do autor é biografia, não estrutura da obra."
                      },
                      {
                          "id":  "literatura-59",
@@ -1186,17 +1186,17 @@
                      {
                          "id":  "literatura-75",
                          "texto_apoio":  "Ao estudar uma obra literária, é possível considerar o momento em que foi escrita, o momento em que é lida e as transformações de sentido que ocorrem entre um e outro.",
+                         "formato":  "direta",
                          "enunciado":  "Levar em conta essa distância entre produção e recepção permite ao leitor",
                          "alternativas":  {
-                                              "a":  "avaliar a obra apenas pelos critérios estéticos vigentes hoje",
-                                              "b":  "descartar o contexto histórico como irrelevante para a leitura",
-                                              "c":  "concluir que obras antigas não podem ser lidas no presente",
-                                              "d":  "reconhecer que obras continuam a produzir sentido em contextos novos, sem que isso anule o contexto em que nasceram",
-                                              "e":  "concluir que o sentido de uma obra é fixado definitivamente por seu autor"
+                                              "a":  "avaliar a obra pelos critérios estéticos vigentes hoje, que são os do leitor real",
+                                              "b":  "descartar o contexto de origem, já que o sentido se refaz a cada nova leitura",
+                                              "c":  "concluir que o sentido de uma obra foi fixado por seu autor e se mantém estável",
+                                              "d":  "reconhecer que obras seguem produzindo sentido em contextos novos sem que o de origem se anule",
+                                              "e":  "restituir a leitura que os contemporâneos da obra fizeram dela, tida como a única historicamente válida"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Os dois extremos falham: congelar o sentido na intenção do autor e julgar tudo só por critérios de hoje. Sustentar as duas pontas — o contexto de origem e o de leitura — é o que mantém a obra viva sem torná-la anacrônica.",
-                         "formato":  "direta"
+                         "explicacao":  "A obra não fica presa ao momento em que nasceu nem se desprende dele: os dois contextos operam juntos, e é a tensão entre eles que a leitura examina. Em (b) e (e) estão os dois erros simétricos — um abole a origem, o outro abole o presente, e cada um desliga metade da questão. Em (c), o sentido fixado pelo autor tornaria a distância irrelevante, quando é ela o objeto. Em (a), julgar só por critérios de hoje é o que a consideração histórica serve para corrigir."
                      },
                      {
                          "id":  "literatura-76",
@@ -1231,62 +1231,62 @@
                      {
                          "id":  "literatura-78",
                          "texto_apoio":  "O teatro de Gil Vicente, produzido no início do século XVI, coloca em cena tipos sociais reconhecíveis — o fidalgo, o frade, o sapateiro, a alcoviteira — e os submete a julgamento numa situação alegórica.",
+                         "formato":  "direta",
                          "enunciado":  "Esse procedimento serve para",
                          "alternativas":  {
-                                              "a":  "satirizar os vícios de cada camada social por meio de tipos representativos, sob a proteção da moldura alegórica",
-                                              "b":  "restringir a crítica exclusivamente ao clero, poupando as demais camadas",
-                                              "c":  "defender a ordem social existente, mostrando que cada grupo cumpre bem sua função",
-                                              "d":  "documentar com precisão histórica a biografia de figuras reais da corte",
-                                              "e":  "abandonar o teatro religioso em favor da tragédia clássica greco-latina"
+                                              "a":  "satirizar os vícios de cada camada por meio de tipos, sob a proteção da alegoria",
+                                              "b":  "restringir a crítica ao clero, poupando as demais camadas representadas em cena",
+                                              "c":  "confirmar a ordem social existente, mostrando cada grupo no cumprimento de sua função",
+                                              "d":  "reconstituir com precisão histórica a biografia de figuras reais da corte portuguesa",
+                                              "e":  "substituir o teatro religioso pela tragédia clássica de modelo greco-latino"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O tipo funciona como atalho: quem vê o fidalgo em cena reconhece a classe inteira. E a alegoria dá a cobertura necessária — pode-se julgar todo mundo se o julgamento acontece num plano simbólico. Note que a sátira não poupa camada alguma, inclusive a popular.",
-                         "formato":  "direta"
+                         "explicacao":  "O tipo permite atingir a camada inteira sem acusar ninguém em particular, e a moldura alegórica do julgamento dá à crítica um enquadramento aceitável para a época. Em (c) está a leitura que mais divide a crítica e que a questão pede para descartar: a peça não mostra cada grupo cumprindo bem sua função, e sim cada um falhando à sua maneira. Em (b), o clero é alvo, mas não o único — a nobreza e os ofícios também comparecem. Em (d), os tipos não são indivíduos históricos. Em (e), a matriz continua religiosa e alegórica, não trágica."
                      },
                      {
                          "id":  "literatura-79",
                          "texto_apoio":  "Nos romances de Eça de Queirós, personagens da burguesia e do clero portugueses do século XIX são apresentadas com detalhamento de hábitos, discursos e ambientes, e o narrador expõe a distância entre o que elas dizem professar e o que efetivamente fazem.",
+                         "formato":  "direta",
                          "enunciado":  "Essa distância, explorada sistematicamente, caracteriza a obra como",
                          "alternativas":  {
                                               "a":  "realista, pela crítica de costumes assentada na observação da sociedade",
-                                              "b":  "romântica, pela idealização das personagens",
-                                              "c":  "árcade, pelo elogio da vida simples",
-                                              "d":  "simbolista, pela dissolução dos contornos objetivos",
-                                              "e":  "trovadoresca, pela convenção do amor cortês"
+                                              "b":  "romântica, pela idealização das personagens e pela exaltação do sentimento",
+                                              "c":  "naturalista, pela explicação das condutas por hereditariedade e meio físico",
+                                              "d":  "simbolista, pela dissolução dos contornos objetivos em sugestão e música",
+                                              "e":  "árcade, pelo elogio da vida simples em oposição à corrupção da corte"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Observar de perto para expor a hipocrisia é o programa realista, e Eça o aplica à burguesia e ao clero. A distância entre discurso e prática só se torna visível porque o narrador acumulou antes o detalhe do cotidiano — método, não maldade.",
-                         "formato":  "direta"
+                         "explicacao":  "Observar os costumes e apontar o desencontro entre discurso e prática é o programa realista, e é o que sustenta a ironia do narrador. Em (c) está o distrator que exige a distinção mais fina: Eça flerta com o Naturalismo, mas o enunciado descreve exposição de hipocrisia, não explicação das condutas por hereditariedade e meio. Em (b), a idealização é o oposto do procedimento. Em (d), os contornos são nítidos e detalhados. Em (e), não há elogio da vida simples nem o quadro rural do Arcadismo."
                      },
                      {
                          "id":  "literatura-80",
                          "texto_apoio":  "A poesia de Cesário Verde, na segunda metade do século XIX, toma como matéria a cidade de Lisboa — o comércio, as ruas, os trabalhadores, o cansaço do corpo urbano — em vez dos temas líricos convencionais.",
+                         "formato":  "direta",
                          "enunciado":  "Essa escolha temática faz do poeta um precursor porque",
                          "alternativas":  {
-                                              "a":  "recupera a tradição épica portuguesa das navegações",
-                                              "b":  "abandona a poesia em favor da crônica jornalística",
-                                              "c":  "retoma o vocabulário e as formas do Trovadorismo medieval",
-                                              "d":  "restringe sua obra à paisagem rural do interior português",
-                                              "e":  "antecipa a atenção modernista ao cotidiano urbano e ao olhar do observador na rua"
+                                              "a":  "recupera a tradição épica das navegações, atualizada para o século XIX",
+                                              "b":  "troca o verso pela crônica de jornal, gênero então em expansão em Lisboa",
+                                              "c":  "antecipa o Simbolismo português, pela musicalidade e pela sugestão",
+                                              "d":  "transporta para a cidade o repertório bucólico da poesia rural, sem alterar-lhe os temas",
+                                              "e":  "antecipa a atenção modernista ao cotidiano urbano e ao olhar de quem anda na rua"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A cidade como assunto legítimo da poesia, vista por quem caminha nela, é o que várias vanguardas do século seguinte tomariam como ponto de partida. Daí a posição de precursor — a matéria já está lá antes de haver programa que a justifique.",
-                         "formato":  "direta"
+                         "explicacao":  "Olhar a rua como matéria de poema, com o corpo cansado de quem a percorre, é o gesto que o Modernismo recolheria décadas depois — daí a condição de precursor. Em (d) está o erro mais fino: o campo aparece na obra, mas em tensão com a cidade, e não como repertório transposto intacto. Em (c), a antecipação simbolista se apoiaria em musicalidade e sugestão, e o traço aqui é a concretude do observado. Em (a), não há retomada épica. Em (b), o poeta permanece no verso."
                      },
                      {
                          "id":  "literatura-81",
                          "texto_apoio":  "Fernando Pessoa criou heterônimos — Alberto Caeiro, Ricardo Reis, Álvaro de Campos — atribuindo a cada um biografia, estilo e visão de mundo próprios, por vezes incompatíveis entre si.",
+                         "formato":  "direta",
                          "enunciado":  "A heteronímia distingue-se do simples uso de pseudônimo porque",
                          "alternativas":  {
-                                              "a":  "consiste apenas em assinar as obras com nome falso para escapar da censura",
-                                              "b":  "cria autores fictícios com poética autônoma, de modo que a própria obra encena a multiplicidade do sujeito",
-                                              "c":  "atribui a um autor real a autoria de textos apócrifos",
-                                              "d":  "traduz para o português obras originalmente escritas em outras línguas",
-                                              "e":  "reúne sob um nome único textos escritos por vários autores reais"
+                                              "a":  "consiste em assinar as obras com nome falso, sem alterar a poética do autor",
+                                              "b":  "cria autores fictícios de poética autônoma, e faz da obra a encenação de um sujeito múltiplo",
+                                              "c":  "atribui a autores reais textos que eles não escreveram, à maneira dos apócrifos",
+                                              "d":  "distribui entre vários nomes uma obra que obedece, no fundo, a um projeto estético único e coerente",
+                                              "e":  "reúne sob assinatura única textos de autores reais distintos, à maneira de uma antologia"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Pseudônimo troca a assinatura; heterônimo cria outro poeta, com estilo e ideias que podem contradizer os do criador. É por isso que a heteronímia não é truque biográfico, e sim uma tese sobre a impossibilidade de um eu único.",
-                         "formato":  "direta"
+                         "explicacao":  "O pseudônimo troca a assinatura e conserva o escritor; o heterônimo inventa outro escritor, com poética que pode contradizer a dos demais, e é essa incompatibilidade que vira assunto da obra. Em (d) está o distrator mais forte, porque descreve algo verdadeiro em parte — há um projeto por trás de tudo —, mas erra ao supor unidade estética, quando o enunciado registra visões de mundo incompatíveis. Em (a), a poética inalterada é exatamente o caso do pseudônimo. Em (c) e (e), os autores em jogo são reais, e na heteronímia são inventados."
                      },
                      {
                          "id":  "literatura-82",
@@ -1306,17 +1306,17 @@
                      {
                          "id":  "literatura-83",
                          "texto_apoio":  "Outro heterônimo de Pessoa escreve odes de métrica regular, evoca deuses pagãos e prega a aceitação serena do destino e o gozo moderado do instante presente.",
+                         "formato":  "direta",
                          "enunciado":  "Essa poética filia-se a uma tradição",
                          "alternativas":  {
-                                              "a":  "romântica, pela efusão sentimental",
-                                              "b":  "surrealista, pela escrita automática",
-                                              "c":  "clássica e epicurista, pela contenção formal e pela aceitação do que não se pode mudar",
-                                              "d":  "naturalista, pela análise das determinações biológicas",
-                                              "e":  "futurista, pela exaltação da velocidade e da máquina"
+                                              "a":  "romântica, pela efusão sentimental e pelo culto da natureza selvagem",
+                                              "b":  "barroca, pela tensão entre o gozo terreno e a consciência da morte",
+                                              "c":  "clássica e epicurista, pela contenção formal e pela aceitação do destino",
+                                              "d":  "simbolista, pela busca de correspondências entre o sensível e o espiritual",
+                                              "e":  "futurista, pela exaltação da máquina e pela ruptura com a métrica herdada"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Métrica regular, deuses pagãos e gozo moderado do instante compõem a herança clássica passada pelo estoicismo e pelo epicurismo. É o polo oposto ao do heterônimo que celebra máquina e excesso, e a distância entre os dois é deliberada.",
-                         "formato":  "direta"
+                         "explicacao":  "Métrica regular, deuses pagãos e aceitação serena compõem o programa clássico, e o gozo moderado do instante é o epicurismo em sua versão contida. Em (b) está o distrator mais próximo: o Barroco também junta prazer terreno e morte, mas por tensão e conflito, e aqui o traço definidor é a serenidade, que dissolve exatamente essa tensão. Em (a), a efusão sentimental contraria a contenção descrita. Em (d), não há busca de um plano espiritual por trás do sensível. Em (e), a métrica regular exclui a ruptura formal futurista."
                      },
                      {
                          "id":  "literatura-84",
@@ -1336,17 +1336,17 @@
                      {
                          "id":  "literatura-85",
                          "texto_apoio":  "Na prosa de José Saramago, os diálogos costumam vir integrados ao parágrafo, sem travessão nem aspas, separados apenas por vírgulas e por maiúsculas que marcam a mudança de falante.",
+                         "formato":  "direta",
                          "enunciado":  "Esse procedimento de pontuação produz o efeito de",
                          "alternativas":  {
-                                              "a":  "dificultar deliberadamente a leitura, sem função além do experimentalismo gratuito",
-                                              "b":  "converter o romance em texto teatral destinado à encenação",
-                                              "c":  "indicar que os diálogos foram acrescentados posteriormente ao texto",
-                                              "d":  "fundir a voz do narrador às vozes das personagens num fluxo contínuo, aproximando a prosa do ritmo da fala e da tradição oral",
-                                              "e":  "eliminar as personagens, restando apenas a voz do narrador"
+                                              "a":  "dificultar a leitura como experimento formal sem consequência para o sentido",
+                                              "b":  "aproximar o romance do texto teatral, feito para ser dito em cena por atores",
+                                              "c":  "marcar que as falas são reconstituições do narrador, e não citações fiéis",
+                                              "d":  "fundir a voz do narrador às das personagens num fluxo contínuo, próximo da fala",
+                                              "e":  "apagar a hierarquia entre as personagens, que passam a falar com uma só voz indistinta"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Sem travessão, não há fronteira nítida entre quem narra e quem fala, e o texto ganha o andamento de alguém contando em voz alta. O efeito é de continuidade, não de apagamento das personagens — elas continuam lá, apenas sem moldura tipográfica.",
-                         "formato":  "direta"
+                         "explicacao":  "Sem os sinais que isolam a fala, o diálogo não é interrompido nem cedido: continua na mesma respiração do narrador, e o texto ganha o andamento de quem conta em voz alta. Em (e) está o distrator mais próximo — as vozes se fundem no fluxo, mas continuam distinguíveis pelas maiúsculas e pelo conteúdo, e o efeito não é indistinção. Em (c), as falas seguem sendo das personagens. Em (b), o texto teatral separa os falantes com rigor, ao contrário deste. Em (a), a dificuldade é real e tem função, o que a alternativa nega."
                      },
                      {
                          "id":  "literatura-86",
@@ -1366,62 +1366,62 @@
                      {
                          "id":  "literatura-87",
                          "texto_apoio":  "Boa parte da ficção angolana e moçambicana produzida após as independências, alcançadas em 1975, trata da guerra, da reconstrução nacional e da distância entre as promessas da libertação e a vida cotidiana que se seguiu.",
+                         "formato":  "direta",
                          "enunciado":  "Esse conjunto temático caracteriza uma literatura que",
                          "alternativas":  {
-                                              "a":  "se dedica exclusivamente à reconstituição de mitos pré-coloniais",
-                                              "b":  "examina criticamente o próprio projeto nacional que ajudou a construir, sem por isso defender o retorno colonial",
-                                              "c":  "celebra sem reservas os governos surgidos após a independência",
-                                              "d":  "foi produzida integralmente antes das independências",
-                                              "e":  "evita qualquer referência ao período colonial e à guerra"
+                                              "a":  "rompe com a geração da luta armada e recusa à literatura qualquer função política",
+                                              "b":  "examina criticamente o projeto nacional que ajudou a construir, sem defender o retorno colonial",
+                                              "c":  "transfere ao romance a função de documentar a guerra, em detrimento da elaboração formal que marcara a geração anterior",
+                                              "d":  "celebra a independência conquistada e adia para depois a avaliação de seus resultados",
+                                              "e":  "substitui o tema nacional pelo cosmopolitismo, já que a nação deixara de ser uma questão em aberto"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A crítica ao que veio depois da independência não é nostalgia do colonialismo — é cobrança das promessas feitas. Sustentar as duas coisas ao mesmo tempo é o que dá a essa literatura sua posição difícil e sua força.",
-                         "formato":  "direta"
+                         "explicacao":  "A crítica ao que veio depois da independência não é nostalgia do colonialismo — é cobrança das promessas feitas, e sustentar as duas coisas ao mesmo tempo é o que dá a essa literatura sua posição difícil. Em (a), a crítica ao projeto nacional é ela própria um gesto político, não uma recusa da política. Em (d), o enunciado diz o contrário: a avaliação dos resultados é justamente o tema. Em (e), a nação segue sendo a questão central — é o balanço dela que ocupa os livros. Em (c), o registro da guerra convive com a invenção formal, e não a substitui."
                      },
                      {
                          "id":  "literatura-88",
                          "texto_apoio":  "Escritoras africanas de língua portuguesa têm tratado da condição feminina articulando questões de gênero a heranças coloniais, a tradições locais e a transformações econômicas recentes.",
+                         "formato":  "direta",
                          "enunciado":  "Essa articulação mostra que, nessas obras, a opressão de gênero é apresentada como",
                          "alternativas":  {
-                                              "a":  "fenômeno isolado, sem relação com a história colonial ou com a economia",
-                                              "b":  "assunto importado, sem correspondência nas sociedades retratadas",
-                                              "c":  "problema já integralmente resolvido pelas independências nacionais",
-                                              "d":  "questão atravessada por outras — raça, classe, colonização —, que não se explica por um fator único",
-                                              "e":  "tema secundário, subordinado à narrativa de guerra"
+                                              "a":  "fenômeno isolado, sem relação com a história colonial ou com a economia local",
+                                              "b":  "assunto importado, sem correspondência nas sociedades efetivamente retratadas",
+                                              "c":  "problema resolvido pelas independências, que igualaram homens e mulheres",
+                                              "d":  "questão atravessada por raça, classe e colonização, sem explicação por fator único",
+                                              "e":  "efeito direto das tradições locais, que a herança colonial teria apenas conservado sem alterar"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Ler gênero isoladamente nessas obras é perder o essencial: as personagens são atravessadas ao mesmo tempo por tradição, colonização e economia. É a interseção, e não um fator único, que dá forma à experiência narrada.",
-                         "formato":  "direta"
+                         "explicacao":  "As obras recusam a explicação por uma causa só: gênero aparece amarrado a raça, a classe e à herança colonial, e é o cruzamento que produz a situação descrita. Em (e) está o distrator mais tentador, porque atribuir tudo à tradição local parece explicar — e é justamente a simplificação que essas autoras desmontam, ao mostrar que a colonização reorganizou aquelas relações em vez de apenas conservá-las. Em (a), o isolamento contraria a articulação do enunciado. Em (b), o tema nasce das sociedades retratadas. Em (c), a persistência do problema é o que motiva os livros."
                      },
                      {
                          "id":  "literatura-89",
                          "texto_apoio":  "Um poema de autor africano de língua portuguesa reivindica a identidade negra e africana usando a língua do colonizador, e faz dessa escolha um tema explícito do próprio texto.",
+                         "formato":  "direta",
                          "enunciado":  "A tensão produzida por essa escolha consiste em",
                          "alternativas":  {
-                                              "a":  "eliminar qualquer traço de conflito entre colonizador e colonizado",
-                                              "b":  "demonstrar que o autor desconhecia as línguas locais",
-                                              "c":  "indicar que o poema foi escrito antes da colonização",
-                                              "d":  "provar que a identidade africana só pode ser expressa em português",
-                                              "e":  "afirmar uma identidade recorrendo ao idioma imposto por quem a negou, transformando a contradição em matéria do poema"
+                                              "a":  "denunciar a colonização por meio de uma língua que o colonizado domina melhor que o colonizador",
+                                              "b":  "recusar as línguas locais por julgá-las insuficientes para a expressão poética moderna",
+                                              "c":  "demonstrar que a língua portuguesa se tornou neutra depois das independências, desvinculada de quem a impôs",
+                                              "d":  "reservar o poema a um público europeu, o único capaz de reconhecer a referência colonial",
+                                              "e":  "afirmar uma identidade no idioma imposto por quem a negou, fazendo da contradição matéria do poema"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A contradição não é resolvida nem escondida: ela vira assunto. Usar a língua do colonizador para afirmar o que ele negou é um gesto que o poema realiza e comenta ao mesmo tempo.",
-                         "formato":  "direta"
+                         "explicacao":  "A contradição não é resolvida nem escondida: ela vira assunto, e o poema realiza e comenta o gesto ao mesmo tempo. Em (c), dizer que o vínculo se desfez desativa a tensão que o poema faz questão de manter viva. Em (b), nada no enunciado indica juízo sobre as línguas locais; a escolha é tematizada, não justificada por insuficiência. Em (a), o eixo é a identidade reivindicada, não uma disputa de proficiência. Em (d), o público implicado é primeiro o próprio, que partilha a língua imposta — supor um leitor europeu exclusivo inverte o endereçamento."
                      },
                      {
                          "id":  "literatura-90",
                          "texto_apoio":  "Em narrativas africanas de língua portuguesa é frequente a presença de um contador de histórias, de fórmulas de abertura e fechamento e de repetições rítmicas que remetem à performance oral.",
+                         "formato":  "direta",
                          "enunciado":  "A incorporação desses elementos à obra escrita cumpre a função de",
                          "alternativas":  {
-                                              "a":  "sinalizar que o texto é transcrição literal de uma gravação de campo",
-                                              "b":  "simplificar a narrativa para leitores iniciantes",
-                                              "c":  "substituir a autoria individual pela autoria anônima e coletiva",
-                                              "d":  "demonstrar que a literatura escrita é superior à tradição oral",
-                                              "e":  "inscrever na forma escrita uma tradição de transmissão do saber que a colonização tratou como inferior"
+                                              "a":  "sinalizar que o texto é transcrição literal de uma gravação feita em campo",
+                                              "b":  "recuperar a autoria coletiva e anônima, dispensando a assinatura do escritor",
+                                              "c":  "facilitar a leitura de um público ainda pouco familiarizado com o romance",
+                                              "d":  "marcar distância crítica em relação à oralidade, que o texto escrito trataria como estágio superado",
+                                              "e":  "inscrever na forma escrita uma tradição de saber que a colonização tratou como inferior"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Trazer o contador, as fórmulas e o ritmo para dentro do livro é reconhecer valor literário a um modo de transmissão que foi historicamente desqualificado. Não se trata de transcrição documental nem de simplificação: é estilização deliberada.",
-                         "formato":  "direta"
+                         "explicacao":  "Levar as marcas da performance para dentro do livro é afirmar que aquele modo de transmitir saber tem estatuto literário, contra a hierarquia que a colonização impôs entre escrita e oralidade. Em (b) está o erro mais fino: a tradição é convocada, mas a obra continua assinada e autoral — não há renúncia à autoria, e sim incorporação de um repertório. Em (d), a relação é de filiação, não de distância crítica. Em (a), a estilização literária não é transcrição. Em (c), o procedimento adensa a leitura em vez de simplificá-la."
                      },
                      {
                          "id":  "literatura-91",
@@ -1441,32 +1441,32 @@
                      {
                          "id":  "literatura-92",
                          "texto_apoio":  "Em Vidas Secas, um dos capítulos é narrado da perspectiva da cadela Baleia, e sua morte recebe tratamento tão detido quanto o dado às personagens humanas.",
+                         "formato":  "direta",
                          "enunciado":  "Essa escolha narrativa produz o efeito de",
                          "alternativas":  {
-                                              "a":  "introduzir elemento fantástico que rompe com o realismo da obra",
-                                              "b":  "indicar que a cadela é a verdadeira protagonista da narrativa",
-                                              "c":  "aliviar o tom do romance com um episódio de ternura sem consequências",
-                                              "d":  "aproximar humanos e animais numa mesma condição de precariedade, sem rebaixar as personagens nem humanizar artificialmente o animal",
-                                              "e":  "demonstrar que os animais possuem linguagem articulada igual à humana"
+                                              "a":  "introduzir uma pausa lírica que suspende por um capítulo o realismo do romance",
+                                              "b":  "atribuir à cadela uma consciência de si equivalente à humana, invertendo a hierarquia entre elas",
+                                              "c":  "deslocar o foco para o animal a fim de poupar o leitor do sofrimento das personagens humanas",
+                                              "d":  "aproximar humanos e animais numa mesma condição de precariedade, sem humanizar o animal",
+                                              "e":  "demonstrar que o narrador domina igualmente o discurso indireto livre de humanos e de animais"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A equivalência de tratamento não transforma Baleia em gente nem os retirantes em bichos: coloca todos sob a mesma escassez. É o procedimento que torna o capítulo devastador sem precisar de nenhum comentário do narrador.",
-                         "formato":  "direta"
+                         "explicacao":  "A equivalência de tratamento não transforma Baleia em gente nem os retirantes em bichos: coloca todos sob a mesma escassez, e é isso que torna o capítulo devastador sem nenhum comentário do narrador. Em (b) está a distinção que a questão cobra: igualar a condição não é igualar a consciência, e o capítulo evita justamente esse passo. Em (a), o capítulo não suspende o realismo — o estende ao animal. Em (c), a cena intensifica o sofrimento em vez de poupar o leitor dele. Em (e), a proeza técnica existe, mas descreve o meio, não o efeito que o enunciado pede."
                      },
                      {
                          "id":  "literatura-93",
                          "texto_apoio":  "Em Vidas Secas, as personagens têm vocabulário reduzido, e o narrador frequentemente descreve pensamentos que elas não conseguiriam formular em palavras.",
+                         "formato":  "direta",
                          "enunciado":  "Essa relação entre narrador e personagens indica que",
                          "alternativas":  {
-                                              "a":  "o romance é narrado em primeira pessoa por uma das personagens",
-                                              "b":  "os pensamentos descritos pertencem exclusivamente ao narrador, sem relação com as personagens",
-                                              "c":  "o narrador desconhece o modo de falar do sertão que descreve",
-                                              "d":  "as personagens são cultas e dissimulam ignorância por conveniência",
-                                              "e":  "o narrador empresta às personagens uma articulação que elas não possuem, tornando visível uma interioridade que a própria condição social lhes impede de expressar"
+                                              "a":  "o discurso indireto livre apaga a distância entre narrador e personagem, igualando os dois registros",
+                                              "b":  "o narrador contradiz a caracterização das personagens, comprometendo a verossimilhança do romance",
+                                              "c":  "os pensamentos atribuídos às personagens são projeções do narrador, sem correspondência no que sentem",
+                                              "d":  "a pobreza de vocabulário é recurso de estilo, e não traço das personagens, que dominam a norma culta",
+                                              "e":  "o narrador empresta às personagens a articulação que lhes falta, dando a ver o que não sabem dizer"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Há um desnível deliberado entre o que as personagens sentem e o que conseguem dizer, e o narrador ocupa exatamente essa lacuna. Não é falha de verossimilhança: é o modo de mostrar que a pobreza também é pobreza de palavra.",
-                         "formato":  "direta"
+                         "explicacao":  "Há um desnível deliberado entre o que as personagens sentem e o que conseguem dizer, e o narrador ocupa exatamente essa lacuna: não é falha de verossimilhança, é o modo de mostrar que a pobreza também é pobreza de palavra. Em (a) está o erro mais tentador: o discurso indireto livre aproxima os registros, mas aqui a distância é preservada de propósito, e é dela que vem o efeito. Em (c), os pensamentos são das personagens — o que é do narrador é só a forma de enunciá-los. Em (b), a verossimilhança não é ferida, porque o romance nunca atribui a fala elaborada às personagens. Em (d), o vocabulário reduzido caracteriza as personagens, e não há indício de norma culta dissimulada."
                      },
                      {
                          "id":  "literatura-94",
@@ -1486,92 +1486,92 @@
                      {
                          "id":  "literatura-95",
                          "texto_apoio":  "Na obra de Mário de Andrade, um mesmo protagonista transita entre regiões distantes do Brasil, acumula traços culturais de origens diversas e não se fixa em nenhuma identidade estável.",
+                         "formato":  "direta",
                          "enunciado":  "Essa construção da personagem serve ao projeto modernista de",
                          "alternativas":  {
-                                              "a":  "documentar com rigor etnográfico os costumes de uma única comunidade",
-                                              "b":  "recusar qualquer preocupação com a identidade nacional",
-                                              "c":  "propor o retorno a um Brasil anterior à colonização",
-                                              "d":  "propor uma identidade nacional feita de mistura e contradição, em vez de uma essência única e fixa",
-                                              "e":  "defender a superioridade de uma das regiões brasileiras sobre as demais"
+                                              "a":  "documentar com rigor etnográfico os costumes de uma comunidade determinada",
+                                              "b":  "recusar a questão da identidade nacional como problema literário legítimo",
+                                              "c":  "propor o retorno a um Brasil anterior à colonização, tomado como origem pura",
+                                              "d":  "propor uma identidade feita de mistura e contradição, e não de essência fixa",
+                                              "e":  "eleger uma das regiões brasileiras como síntese capaz de representar as demais"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A personagem sem caráter fixo é o argumento: o país que ela atravessa também não tem essência única. A proposta modernista aqui é substituir a busca de uma raiz pura pela aceitação da mistura como forma.",
-                         "formato":  "direta"
+                         "explicacao":  "A personagem que não se fixa é o argumento: a identidade nacional aparece como composto instável, não como núcleo a ser encontrado. Em (c) está o erro que a questão cobra, porque é o projeto romântico — buscar uma origem pura anterior à colonização é exatamente o que o Modernismo substitui pela mistura. Em (e), eleger uma região como síntese repõe a essência por outro caminho. Em (a), o material etnográfico é usado, mas recombinado, e não documentado. Em (b), a identidade nacional é o tema central, e não uma questão recusada."
                      },
                      {
                          "id":  "literatura-96",
                          "texto_apoio":  "A produção literária brasileira da terceira geração modernista, a partir dos anos 1940, retoma o cuidado com a construção do verso e da frase, sem abandonar as conquistas de liberdade formal de 1922.",
+                         "formato":  "direta",
                          "enunciado":  "Essa combinação caracteriza-se por",
                          "alternativas":  {
-                                              "a":  "renunciar a qualquer preocupação com a forma em nome do conteúdo social",
-                                              "b":  "restaurar integralmente a métrica parnasiana e abandonar o verso livre",
-                                              "c":  "abandonar a literatura brasileira em favor de modelos estrangeiros",
-                                              "d":  "conciliar rigor construtivo com liberdade formal, tratando a forma como problema a ser resolvido em cada obra",
-                                              "e":  "repetir sem alterações o programa da primeira geração modernista"
+                                              "a":  "renunciar à preocupação formal em nome da urgência do conteúdo social",
+                                              "b":  "restaurar a métrica parnasiana e abandonar as conquistas do verso livre",
+                                              "c":  "transferir para a literatura brasileira modelos estrangeiros sem adaptação",
+                                              "d":  "conciliar rigor construtivo e liberdade formal, tratando a forma como problema",
+                                              "e":  "repetir o programa da primeira geração, agora com o prestígio institucional que lhe faltava"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Não é volta ao parnasianismo nem repetição de 1922: é a forma reaberta como questão. A liberdade conquistada permanece, mas deixa de ser bandeira e passa a ser material de trabalho consciente.",
-                         "formato":  "direta"
+                         "explicacao":  "A geração de 1945 recupera o rigor sem revogar a liberdade conquistada: a forma deixa de ser regra herdada e passa a ser problema que cada obra resolve por conta própria. Em (b) está o erro mais tentador, porque o retorno ao rigor é real — mas rigor construtivo não é métrica parnasiana, e o verso livre permanece disponível. Em (a), a renúncia à forma descreve parte da geração de 1930, não esta. Em (e), repetir o programa de 1922 seria justamente dispensar o cuidado construtivo que o enunciado registra. Em (c), a questão é de construção, não de origem dos modelos."
                      },
                      {
                          "id":  "literatura-97",
                          "texto_apoio":  "Comparam-se dois momentos do Modernismo brasileiro: no primeiro, predominam o manifesto, a paródia e o escândalo público; no segundo, a investigação social e a densidade psicológica em romances e poemas.",
+                         "formato":  "direta",
                          "enunciado":  "A diferença entre os dois momentos pode ser explicada porque",
                          "alternativas":  {
-                                              "a":  "a primeira fase precisou romper com a estética anterior, e a seguinte, já com a ruptura consolidada, pôde dedicar-se a construir com os meios conquistados",
-                                              "b":  "a segunda fase abandonou o Modernismo e retornou ao Realismo do século XIX",
-                                              "c":  "os autores da segunda fase desconheciam a produção da primeira",
-                                              "d":  "a primeira fase não teve qualquer repercussão pública",
-                                              "e":  "as duas fases foram produzidas pelos mesmos autores, sem mudança de projeto"
+                                              "a":  "a primeira fase precisou romper com a estética anterior, e a seguinte construiu com os meios já conquistados",
+                                              "b":  "a segunda fase reagiu ao experimentalismo da primeira, retomando o verso metrificado e o vocabulário seleto",
+                                              "c":  "as duas fases responderam a programas distintos, sem que a segunda dependesse do terreno aberto pela primeira",
+                                              "d":  "a mudança decorre do deslocamento geográfico do movimento de São Paulo para o Nordeste, sem alteração de projeto",
+                                              "e":  "a primeira fase concentrou-se na prosa e a segunda na poesia, invertendo o gênero dominante do período"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Manifesto e escândalo servem para abrir espaço; uma vez aberto, a energia se desloca para o que construir nele. Ver a segunda fase como retorno ao século XIX confunde o interesse social renovado com a estética que o Modernismo havia superado.",
-                         "formato":  "direta"
+                         "explicacao":  "Manifesto e escândalo servem para abrir espaço; uma vez aberto, a energia se desloca para o que construir nele. Em (c) está a alternativa que mais engana, porque descreve corretamente a diferença de programa e erra só na conclusão: a segunda fase pôde ser o que foi porque a ruptura já estava feita. Em (b), a segunda geração não restaura métrica fixa nem vocabulário parnasiano — o que muda é o objeto, não o retorno à norma anterior. Em (d), o deslocamento para o Nordeste é real na prosa de 1930, mas seria efeito, não causa, e o projeto de fato se altera. Em (e), a inversão de gêneros não se sustenta: há poesia decisiva na primeira fase e romance decisivo na segunda."
                      },
                      {
                          "id":  "literatura-98",
                          "texto_apoio":  "Um texto modernista brasileiro incorpora erros de concordância, marcas de oralidade e construções da fala popular, mantendo-as deliberadamente na versão publicada.",
+                         "formato":  "direta",
                          "enunciado":  "Essa decisão deve ser lida como",
                          "alternativas":  {
-                                              "a":  "tentativa de imitar a sintaxe da língua portuguesa de Portugal",
-                                              "b":  "descuido de revisão editorial",
-                                              "c":  "posição estética e política que reconhece a fala brasileira como matéria literária legítima",
-                                              "d":  "limitação do autor, que desconhecia a norma culta",
-                                              "e":  "exigência da censura do período"
+                                              "a":  "tentativa de aproximar a escrita da sintaxe do português europeu",
+                                              "b":  "descuido de revisão que a edição posterior deveria corrigir",
+                                              "c":  "posição estética e política que toma a fala brasileira como matéria literária",
+                                              "d":  "recurso de caracterização restrito às falas das personagens populares",
+                                              "e":  "registro documental da língua falada à época, sem intenção de fazer dela matéria literária"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Manter o desvio é escolha, não falha: afirma que a língua falada no Brasil tem estatuto literário. A decisão é estética e política ao mesmo tempo, e é indissociável do projeto de repensar a identidade nacional.",
-                         "formato":  "direta"
+                         "explicacao":  "Manter na publicação o que a norma corrigiria é decidir que aquela fala tem direito à página — gesto que é estético e político ao mesmo tempo. Em (e) está o distrator que mais engana: o registro existe, mas descrevê-lo como documentação sem intenção literária retira dele justamente a decisão que o define. Em (d), as marcas atravessam o texto e não se limitam às falas das personagens. Em (a), a sintaxe buscada é a brasileira, e o modelo europeu é o que se recusa. Em (b), o enunciado diz que a manutenção é deliberada."
                      },
                      {
                          "id":  "literatura-99",
-                         "texto_apoio":  "Comparam-se uma obra do Romantismo brasileiro e uma do Modernismo, ambas empenhadas em definir o que seria a identidade nacional.",
+                         "texto_apoio":  "Compara-se o projeto de identidade nacional do Romantismo brasileiro com o do Modernismo de 1922.",
+                         "formato":  "direta",
                          "enunciado":  "A diferença essencial entre os dois projetos está em que",
                          "alternativas":  {
-                                              "a":  "o Romantismo busca uma origem pura e nobre a ser exaltada, enquanto o Modernismo assume a mistura e a contradição como o próprio material da identidade",
-                                              "b":  "apenas o Modernismo se interessa pela identidade nacional",
-                                              "c":  "apenas o Romantismo emprega a língua portuguesa",
-                                              "d":  "os dois projetos são idênticos, diferindo apenas na data de publicação",
-                                              "e":  "o Modernismo defende o retorno aos modelos coloniais portugueses"
+                                              "a":  "o Romantismo idealiza uma origem nobre a ser exaltada, e o Modernismo toma a mistura como material",
+                                              "b":  "o Romantismo recorre ao indígena como símbolo, e o Modernismo o abandona em favor do tema urbano",
+                                              "c":  "o Romantismo escreve para o leitor europeu, e o Modernismo, para um público brasileiro recém-alfabetizado",
+                                              "d":  "o Romantismo trata a identidade como problema em aberto, e o Modernismo a considera já resolvida",
+                                              "e":  "o Romantismo trabalha com formas herdadas e o Modernismo apenas transpõe o mesmo projeto para o verso livre"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Os dois se ocupam da mesma pergunta e respondem de modos opostos: um funda um mito de origem elevado, o outro trabalha com o que existe, misturado e contraditório. Dizer que só um deles se interessa pelo tema apaga a continuidade do problema.",
-                         "formato":  "direta"
+                         "explicacao":  "Os dois se ocupam da mesma pergunta e respondem de modos opostos: um funda um mito de origem elevado, o outro trabalha com o que existe, misturado e contraditório. Em (b), o Modernismo não abandona o indígena — reelabora-o, e a antropofagia é a prova disso. Em (d), a relação está invertida: é o Romantismo que oferece uma resposta fechada, e o Modernismo que mantém a questão em disputa. Em (e), reduzir a diferença à forma apaga o que muda de fato, que é a concepção de origem. Em (c), ambos escrevem para um público brasileiro letrado, e o recorte de leitor não separa os dois projetos."
                      },
                      {
                          "id":  "literatura-100",
                          "texto_apoio":  "Um poema modernista brasileiro trata de um objeto banal — uma pedra, um relógio, uma cadeira — sem atribuir-lhe valor simbólico elevado, mantendo-o na sua concretude.",
+                         "formato":  "direta",
                          "enunciado":  "Essa recusa da elevação simbólica indica",
                          "alternativas":  {
-                                              "a":  "a intenção de escrever um manual técnico em versos",
-                                              "b":  "pobreza de imaginação do poeta, incapaz de construir metáforas",
-                                              "c":  "a adesão ao Simbolismo, que dissolve os objetos em correspondências",
-                                              "d":  "a valorização do objeto comum como matéria poética suficiente, sem necessidade de transfiguração",
-                                              "e":  "o retorno à alegoria barroca, em que todo objeto representa outra coisa"
+                                              "a":  "a intenção de compor um manual técnico em forma de versos",
+                                              "b":  "a adesão ao Simbolismo, para o qual o objeto concreto se dissolve em correspondências espirituais",
+                                              "c":  "o retorno à alegoria barroca, em que o objeto remete a outra coisa",
+                                              "d":  "a valorização do objeto comum como matéria poética suficiente, sem transfiguração",
+                                              "e":  "uma crítica ao consumo, denunciada pela escolha de objetos industriais banais"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O objeto não precisa virar símbolo para entrar no poema. Essa suficiência do comum é uma conquista modernista, e é o oposto tanto da dissolução simbolista quanto da alegoria barroca, em que nada vale por si.",
-                         "formato":  "direta"
+                         "explicacao":  "O objeto não precisa virar símbolo para entrar no poema: basta que o olhar se detenha nele, e é essa suficiência que o Modernismo afirma. Em (b) e (c) estão as duas operações contrárias, cada uma à sua maneira — o Simbolismo dissolve o objeto em correspondências, a alegoria o faz representar outra coisa, e o poema descrito recusa as duas. Em (e), a crítica ao consumo exigiria um juízo que o poema não formula. Em (a), a descrição poética não se confunde com instrução técnica."
                      },
                      {
                          "id":  "literatura-101",
@@ -1621,62 +1621,62 @@
                      {
                          "id":  "literatura-104",
                          "texto_apoio":  "Ao longo de O Cortiço, personagens são reiteradamente descritas por meio de comparações com animais, e o próprio cortiço é apresentado como algo que se reproduz e se alastra.",
+                         "formato":  "direta",
                          "enunciado":  "O efeito acumulado desse procedimento sobre a leitura é",
                          "alternativas":  {
-                                              "a":  "reforçar a tese de que o comportamento humano ali descrito obedece a determinações biológicas, e não a escolhas",
-                                              "b":  "aproximar o romance da fábula, com moral explícita ao final",
-                                              "c":  "indicar que as personagens são, literalmente, animais dentro da ficção",
-                                              "d":  "suavizar a dureza das condições de vida por meio da ternura das imagens",
-                                              "e":  "sugerir que o autor desconhecia o vocabulário adequado para descrever pessoas"
+                                              "a":  "reforçar a tese de que o comportamento ali descrito obedece a determinações biológicas",
+                                              "b":  "aproximar o romance da fábula, gênero em que animais encenam vícios humanos",
+                                              "c":  "marcar a distância social entre o narrador culto e as personagens que ele observa de fora",
+                                              "d":  "suavizar a dureza das condições de vida pela ternura que as imagens carregam",
+                                              "e":  "indicar que a degradação descrita é efeito do cortiço e se desfaria num meio diferente dele"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A comparação animal, repetida sistematicamente, não é imagem isolada: é argumento. Quanto mais o texto insiste, mais firme fica a tese determinista — o que é diferente de dizer que as personagens sejam bichos na ficção.",
-                         "formato":  "direta"
+                         "explicacao":  "A insistência da comparação é o próprio argumento naturalista: repetida capítulo após capítulo, ela naturaliza a ideia de que aquelas condutas vêm do organismo e do meio, e não de decisões. Em (c) está uma leitura defensável em parte — a distância entre narrador e personagens existe —, mas ela descreve a posição de quem narra, e não a tese que o acúmulo de imagens sustenta. Em (e), o determinismo do romance não se limita ao cortiço, e sim ao meio como categoria. Em (b), não há moral final nem animais que falam. Em (d), as imagens endurecem o retrato, não o adoçam."
                      },
                      {
                          "id":  "literatura-105",
                          "texto_apoio":  "Em O Cortiço, o desfecho reserva a João Romão o casamento vantajoso e a ascensão social definitiva, enquanto Bertoleza, ao ser cercada pelos agentes que a levariam de volta ao cativeiro, se mata.",
+                         "formato":  "direta",
                          "enunciado":  "A justaposição desses dois desfechos funciona como",
                          "alternativas":  {
-                                              "a":  "demonstração de que a ascensão de um se completa exatamente com a eliminação da outra, expondo o custo humano do enriquecimento",
-                                              "b":  "epílogo otimista, que aponta para a superação das desigualdades retratadas",
-                                              "c":  "prova de que a personagem escravizada era responsável pela própria situação",
-                                              "d":  "recompensa da virtude e punição do vício, conforme a convenção moralizante",
-                                              "e":  "coincidência sem relação de causa entre os dois acontecimentos"
+                                              "a":  "demonstração de que a ascensão de um se completa com a eliminação da outra, e não à revelia dela",
+                                              "b":  "desfecho moralizante, em que a virtude é premiada e o vício recebe seu castigo",
+                                              "c":  "contraste irônico entre dois destinos que a narrativa faz questão de apresentar como independentes um do outro",
+                                              "d":  "aplicação do determinismo naturalista, que faria de Bertoleza vítima apenas do meio",
+                                              "e":  "recurso de suspense, que adia para o último capítulo a revelação do caráter de João Romão"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Os dois desfechos são o mesmo acontecimento visto de dois lados: ele sobe porque ela é descartada. Ler como recompensa da virtude inverteria o romance, que não trata João Romão como virtuoso em momento algum.",
-                         "formato":  "direta"
+                         "explicacao":  "Os dois desfechos são o mesmo acontecimento visto de dois lados: o capital que ergue João Romão é o trabalho de Bertoleza, e livrar-se dela é a última operação da ascensão. Em (c) está o erro central — tomar por contraste o que é relação de causa esvazia a crítica do romance. Em (b), a moral está invertida: quem prospera é quem age pior. Em (d), o meio não explica o desfecho, que resulta de uma decisão deliberada de João Romão. Em (e), o caráter dele já se revelou muito antes, e não há suspense a resolver."
                      },
                      {
                          "id":  "literatura-106",
                          "texto_apoio":  "O Cortiço foi publicado em 1890, dois anos após a Abolição e um ano após a Proclamação da República, num Rio de Janeiro que recebia levas de imigrantes e de ex-escravizados em busca de trabalho urbano.",
+                         "formato":  "direta",
                          "enunciado":  "A relação entre esse contexto e a matéria do romance pode ser descrita assim:",
                          "alternativas":  {
                                               "a":  "o romance celebra a República como solução para os problemas que descreve",
-                                              "b":  "o romance foi escrito antes da Abolição e não pôde considerá-la",
-                                              "c":  "o romance restringe-se à vida das famílias proprietárias, sem retratar trabalhadores",
-                                              "d":  "o romance toma como matéria a formação de uma população urbana pobre e heterogênea, produzida por esses processos recentes",
-                                              "e":  "o romance ignora o contexto e ambienta-se num passado colonial remoto"
+                                              "b":  "o romance situa a ação antes da Abolição, e por isso não chega a considerá-la",
+                                              "c":  "o romance restringe-se às famílias proprietárias, sem retratar trabalhadores",
+                                              "d":  "o romance toma como matéria a população urbana pobre produzida por esses processos",
+                                              "e":  "o romance aborda os mesmos processos, mas transpostos para uma cidade europeia do mesmo período"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A habitação coletiva reúne exatamente quem esses processos jogaram na cidade: imigrantes, libertos, trabalhadores sem posse. O romance não celebra nem ignora o contexto — ele o toma como assunto.",
-                         "formato":  "direta"
+                         "explicacao":  "O cortiço é o lugar onde imigrantes e ex-escravizados se encontram à procura de trabalho: a matéria do romance é exatamente a população que esses processos acabavam de produzir. Em (a), o livro não celebra nada — a República aparece como pano de fundo de uma ordem que reproduz a exploração anterior. Em (c), os proprietários existem na trama, mas o centro é quem mora e trabalha no cortiço. Em (b), a ação é contemporânea da publicação. Em (e), a cidade retratada é o Rio de Janeiro, e a ambientação local é constitutiva do romance."
                      },
                      {
                          "id":  "literatura-107",
                          "texto_apoio":  "Comparam-se dois romances brasileiros do fim do século XIX: um investiga as motivações íntimas de um narrador que se contradiz; o outro descreve uma coletividade cujas ações são explicadas por meio, raça e clima.",
+                         "formato":  "direta",
                          "enunciado":  "A diferença entre os dois corresponde à distinção entre",
                          "alternativas":  {
-                                              "a":  "Modernismo e Pré-Modernismo, separados pela liberdade formal",
-                                              "b":  "Romantismo e Arcadismo, separados pelo tratamento da natureza",
-                                              "c":  "Barroco e Classicismo, separados pelo uso da antítese",
-                                              "d":  "Simbolismo e Parnasianismo, separados pela musicalidade",
-                                              "e":  "Realismo e Naturalismo, que compartilham a recusa do Romantismo mas divergem no grau de determinismo"
+                                              "a":  "Modernismo e Pré-Modernismo, que compartilham a crítica social mas divergem na liberdade formal",
+                                              "b":  "Romantismo e Realismo, que compartilham o interesse pelo indivíduo mas divergem na idealização",
+                                              "c":  "Naturalismo e Parnasianismo, que compartilham o rigor descritivo mas divergem no objeto",
+                                              "d":  "Simbolismo e Impressionismo, que compartilham a sugestão mas divergem no tratamento da cor",
+                                              "e":  "Realismo e Naturalismo, que compartilham a recusa do Romantismo mas divergem no determinismo"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Os dois recusam a idealização romântica, mas o Naturalismo vai além: aplica ao humano um determinismo de laboratório. Guardar essa distinção evita tratar como sinônimos duas estéticas contemporâneas e vizinhas.",
-                         "formato":  "direta"
+                         "explicacao":  "Análise da consciência individual de um lado, explicação da coletividade por meio, raça e clima do outro: é a divisão entre Realismo e Naturalismo, que partem da mesma recusa ao Romantismo e se separam no peso dado à determinação. Em (b) está a oposição mais conhecida e por isso a mais tentadora, mas nenhum dos dois romances descritos idealiza, e a idealização é o traço romântico que o enunciado não menciona. Em (a), as duas escolas são do século XX. Em (c), o Parnasianismo é poesia. Em (d), o Impressionismo não é escola literária brasileira do período."
                      },
                      {
                          "id":  "literatura-108",
@@ -1711,17 +1711,17 @@
                      {
                          "id":  "literatura-110",
                          "texto_apoio":  "O protagonista de Memórias de um sargento de milícias passa a infância aprontando travessuras, foge de estudos e obrigações, e ainda assim termina o romance empregado, casado e socialmente acomodado.",
+                         "formato":  "direta",
                          "enunciado":  "Esse desfecho, sem punição nem arrependimento, indica que a narrativa",
                          "alternativas":  {
-                                              "a":  "adota a moral edificante, premiando a virtude e punindo o desvio",
+                                              "a":  "adota a moral edificante, premiando a virtude e punindo o desvio de conduta",
                                               "b":  "sugere que o protagonista se converteu à disciplina e ao trabalho regular",
-                                              "c":  "dispensa a moralização e mostra um mundo em que a acomodação se dá pelo jeito e pela proteção, não pelo mérito",
-                                              "d":  "termina de forma trágica, com a ruína completa do protagonista",
-                                              "e":  "deixa o destino do protagonista indefinido, sem desfecho"
+                                              "c":  "dispensa a moralização e mostra um mundo em que se acomoda pelo jeito, não pelo mérito",
+                                              "d":  "suspende o julgamento moral por incapacidade do narrador de tomar posição diante dos fatos",
+                                              "e":  "transfere ao leitor a tarefa de condenar o protagonista, que o texto evita explicitar"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O malandro não é corrigido nem castigado: ele se acomoda. A ausência de moral da história é a própria posição do livro sobre como aquela sociedade funciona — por arranjo e proteção, não por mérito.",
-                         "formato":  "direta"
+                         "explicacao":  "A acomodação vem de rede de favores e da simpatia que o protagonista desperta, não de emenda nem de esforço — e o romance apresenta isso como o funcionamento normal daquele mundo. Em (d) e (e) estão as duas tentações: uma trata a ausência de moral como falha do narrador, a outra como delegação ao leitor, e ambas supõem que a condenação deveria existir em algum lugar. Ela simplesmente não é o assunto. Em (a), não há prêmio à virtude, já que virtude não é o que se premia. Em (b), não há conversão nenhuma no texto."
                      },
                      {
                          "id":  "literatura-111",
@@ -1771,77 +1771,77 @@
                      {
                          "id":  "literatura-114",
                          "texto_apoio":  "Comparam-se dois romances brasileiros do século XIX: em um, o protagonista pobre se acomoda por meio de favores e esperteza; em outro, o protagonista imigrante enriquece explorando trabalho não pago.",
+                         "formato":  "direta",
                          "enunciado":  "A aproximação entre as duas trajetórias mostra que ambos os romances tratam de",
                          "alternativas":  {
-                                              "a":  "personagens da aristocracia rural em decadência",
-                                              "b":  "caminhos de sobrevivência e ascensão que dispensam o trabalho assalariado regular, numa sociedade onde ele não era a norma",
-                                              "c":  "trajetórias idênticas, sem qualquer diferença de condição social entre os protagonistas",
-                                              "d":  "a vida monástica e a renúncia aos bens materiais",
-                                              "e":  "conflitos entre nações europeias transpostos para o Brasil"
+                                              "a":  "personagens da aristocracia rural em decadência diante da economia urbana",
+                                              "b":  "caminhos de ascensão que dispensam o trabalho assalariado regular, então não hegemônico",
+                                              "c":  "trajetórias equivalentes, sem que haja diferença de condição social entre os dois protagonistas",
+                                              "d":  "o conflito entre projeto individual e vocação religiosa nas sociedades ibéricas",
+                                              "e":  "tensões entre nações europeias transpostas para o cenário brasileiro do Império"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Um se arranja pelo favor, o outro acumula pela exploração — mas nenhum dos dois ascende pelo salário, porque o salário não era o mecanismo dominante. A comparação ilumina a estrutura comum por baixo de trajetórias distintas.",
-                         "formato":  "direta"
+                         "explicacao":  "Favor e exploração de trabalho não pago são duas rotas para o mesmo lugar, numa sociedade em que o emprego assalariado ainda não organizava a vida — é essa condição comum que a comparação revela. Em (c) está o erro de leitura: aproximar as trajetórias não é igualá-las, e as duas partem de posições sociais bem distintas. Em (a), nenhum dos protagonistas pertence à aristocracia rural. Em (d) e (e), nem a vocação religiosa nem o conflito entre nações europeias comparecem nos enredos descritos."
                      },
                      {
                          "id":  "literatura-115",
                          "texto_apoio":  "Em Memórias de um sargento de milícias, cenas de conflito doméstico e de violência física são narradas em tom leve, com atenção ao ridículo dos gestos e sem que o narrador se detenha no sofrimento das vítimas.",
+                         "formato":  "direta",
                          "enunciado":  "Esse tratamento produz no leitor contemporâneo",
                          "alternativas":  {
-                                              "a":  "um desconforto produtivo, que expõe a distância entre o que era tratado como cômico na época e o que hoje se reconhece como violência",
-                                              "b":  "indiferença, por se tratar de um texto sem qualquer relação com o presente",
-                                              "c":  "a certeza de que tais episódios não ocorriam de fato na sociedade retratada",
-                                              "d":  "adesão imediata ao ponto de vista do narrador, sem qualquer desconforto",
-                                              "e":  "a impressão de que o romance é uma denúncia explícita da violência doméstica"
+                                              "a":  "um desconforto que expõe a distância entre o cômico de então e o que hoje se nomeia violência",
+                                              "b":  "a impressão de que o narrador condena os episódios pelo próprio exagero com que os descreve",
+                                              "c":  "a certeza de que tais cenas eram raras, já que o tom leve indicaria excepcionalidade",
+                                              "d":  "a percepção de que o romance antecipa a denúncia da violência doméstica como problema público",
+                                              "e":  "uma adesão ao ponto de vista do narrador, partilhada pelo leitor de hoje sem atrito"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O riso do narrador não é o nosso, e é justamente aí que a leitura fica interessante: percebe-se historicamente o que uma época tratava como episódio engraçado. Ler o livro como denúncia explícita seria projetar sobre ele uma intenção que não tem.",
-                         "formato":  "direta"
+                         "explicacao":  "O riso do narrador não é o nosso, e é aí que a leitura fica interessante: percebe-se historicamente o que uma época tratava como episódio engraçado. Em (d), ler o livro como denúncia projeta sobre ele uma intenção que não tem — o incômodo é do leitor de hoje, não um propósito do texto. Em (b), a ironia do narrador incide sobre o ridículo dos gestos, não sobre a violência, e tomar exagero por condenação é atribuir-lhe uma posição moral que ele evita. Em (c), a leveza do tom indica normalização, e não raridade. Em (e), a adesão sem atrito é justamente o que não acontece."
                      },
                      {
                          "id":  "literatura-116",
                          "texto_apoio":  "Antonio Candido observa que, em Memórias de um sargento de milícias, quase não aparecem escravizados em primeiro plano, embora a ação transcorra numa cidade escravista.",
+                         "formato":  "direta",
                          "enunciado":  "Essa ausência é significativa porque",
                          "alternativas":  {
-                                              "a":  "prova que o autor era favorável à escravidão",
-                                              "b":  "resulta de censura imposta à publicação em folhetim",
-                                              "c":  "demonstra que não havia escravizados no Rio de Janeiro do período retratado",
-                                              "d":  "revela que o romance foca a camada dos homens livres pobres, cuja existência depende justamente de não se confundir com os escravizados",
-                                              "e":  "indica que o romance se passa em outro país"
+                                              "a":  "confirma que o folhetim, por ser gênero de entretenimento, evitava temas capazes de desagradar ao assinante",
+                                              "b":  "indica que a escravidão urbana era pouco visível no Rio de Janeiro da primeira metade do século",
+                                              "c":  "resulta da opção por um narrador que só registra aquilo que a personagem principal poderia ter visto",
+                                              "d":  "revela o foco na camada dos homens livres pobres, que se define por contraste com os escravizados",
+                                              "e":  "mostra que o autor situou a ação num período anterior à consolidação do tráfico atlântico"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O que o romance não mostra também informa: seu foco é a camada intermediária, livre e pobre, cuja identidade se define por contraste com quem está abaixo. A ausência não nega a escravidão — delimita o recorte.",
-                         "formato":  "direta"
+                         "explicacao":  "O que o romance não mostra também informa: o foco é a camada intermediária, livre e pobre, cuja identidade se define por contraste com quem está abaixo — a ausência não nega a escravidão, delimita o recorte. Em (b), a escravidão urbana era altamente visível no Rio da época, e é essa visibilidade que torna a omissão significativa. Em (e), a ação transcorre no início do século XIX, com o tráfico em pleno funcionamento. Em (a), o argumento do folhetim explicaria uma omissão qualquer, mas não por que o romance escolhe precisamente essa camada. Em (c), o narrador do livro é onisciente e circula à vontade pela cidade."
                      },
                      {
                          "id":  "literatura-117",
                          "texto_apoio":  "Num conto, o desfecho é apresentado numa única frase final que reinterpreta retroativamente tudo o que foi narrado antes.",
+                         "formato":  "direta",
                          "enunciado":  "Esse procedimento corresponde ao que se costuma chamar de",
                          "alternativas":  {
-                                              "a":  "prolepse, antecipação de acontecimentos futuros",
-                                              "b":  "moldura narrativa, história que contém outra história",
+                                              "a":  "prolepse, antecipação de acontecimentos que só se realizarão adiante",
+                                              "b":  "moldura narrativa, história que contém outra contada dentro dela",
                                               "c":  "desfecho de virada, em que a informação final reorganiza o sentido do conjunto",
-                                              "d":  "epígrafe, citação colocada antes do texto",
-                                              "e":  "clímax dilatado, distribuído ao longo de toda a narrativa"
+                                              "d":  "anticlímax, resolução deliberadamente banal de um conflito longamente construído antes",
+                                              "e":  "clímax dilatado, tensão distribuída por igual ao longo de toda a narrativa"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A frase final não acrescenta um episódio: ela obriga a reler o que já se leu. É o efeito de virada, e depende da economia do conto — num romance, a distância entre início e fim dissolveria o impacto.",
-                         "formato":  "direta"
+                         "explicacao":  "A virada não acrescenta um episódio: ela obriga a reler o que já foi lido, e é dessa retroação que vem o efeito. Em (d) está o distrator que também depende do final, mas em sentido oposto — o anticlímax frustra a expectativa com uma resolução banal, enquanto aqui o desfecho a reorganiza. Em (a), a prolepse aponta para a frente, e a operação descrita olha para trás. Em (b), não há narrativa dentro de narrativa. Em (e), a tensão distribuída por igual é o contrário de uma frase final decisiva."
                      },
                      {
                          "id":  "literatura-118",
                          "texto_apoio":  "Num conto brasileiro contemporâneo ambientado numa periferia urbana, a violência é narrada em primeira pessoa, com vocabulário e sintaxe da fala local, sem que o narrador explique os termos ao leitor de fora.",
+                         "formato":  "direta",
                          "enunciado":  "A recusa em explicar produz o efeito de",
                          "alternativas":  {
-                                              "a":  "transformar o conto em glossário de gírias",
-                                              "b":  "garantir que o texto seja lido apenas por quem vive naquele lugar",
-                                              "c":  "tornar o texto ininteligível, impedindo qualquer leitura",
-                                              "d":  "indicar que o narrador desconhece a norma culta",
-                                              "e":  "afirmar a legitimidade daquele modo de falar, colocando o leitor de fora na posição de quem precisa se aproximar"
+                                              "a":  "restringir o alcance do conto ao público que já domina aquele repertório",
+                                              "b":  "sinalizar que o narrador não domina a norma culta e escreve como fala",
+                                              "c":  "exigir do leitor de fora um trabalho de inferência que o conto deliberadamente não recompensa com explicações",
+                                              "d":  "aproximar o conto do registro documental, em que a fala é transcrita sem edição nem tradução",
+                                              "e":  "afirmar a legitimidade daquele modo de falar, pondo o leitor de fora na posição de quem se aproxima"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Explicar seria colocar o leitor de fora no centro e a comunidade narrada na posição de objeto. Ao não explicar, o conto inverte a hierarquia: quem não conhece é que se desloca. É decisão de forma com consequência política.",
-                         "formato":  "direta"
+                         "explicacao":  "Não explicar é tratar aquela fala como língua plena, que não precisa de autorização externa — e o efeito recai sobre quem lê de fora, deslocado da posição confortável de destinatário previsto. Em (c) está o distrator mais próximo, porque o trabalho de inferência de fato existe; ele erra ao descrevê-lo como recusa, quando é convite. Em (a), o conto não se fecha ao leitor de fora: reposiciona-o. Em (b), a escolha é do autor e é deliberada, não sinal de deficiência do narrador. Em (d), a transcrição documental supõe um observador externo, e aqui a voz é de dentro."
                      },
                      {
                          "id":  "literatura-119",
@@ -1861,32 +1861,32 @@
                      {
                          "id":  "literatura-120",
                          "texto_apoio":  "Um conto apresenta acontecimentos sobrenaturais sem que o narrador ou as personagens manifestem espanto, tratando-os com a mesma naturalidade dos fatos cotidianos.",
+                         "formato":  "direta",
                          "enunciado":  "Esse procedimento caracteriza",
                          "alternativas":  {
-                                              "a":  "o realismo documental, comprometido com a verificação dos fatos",
-                                              "b":  "o texto didático, que explica ao leitor cada evento narrado",
-                                              "c":  "o insólito naturalizado, em que o extraordinário é incorporado ao cotidiano sem ruptura de tom",
-                                              "d":  "a paródia, que retoma um texto anterior para ridicularizá-lo",
-                                              "e":  "a crônica jornalística, presa ao acontecimento do dia"
+                                              "a":  "o realismo documental, comprometido com a verificação dos fatos narrados",
+                                              "b":  "o fantástico tradicional, em que a irrupção do sobrenatural provoca hesitação e espanto nas personagens",
+                                              "c":  "o insólito naturalizado, em que o extraordinário entra no cotidiano sem ruptura de tom",
+                                              "d":  "a alegoria moral, em que cada elemento remete a um sentido segundo estabelecido",
+                                              "e":  "a paródia, que retoma um gênero anterior para expor suas convenções ao ridículo"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O que define o procedimento não é o sobrenatural em si, mas a ausência de espanto diante dele. Se o narrador se surpreendesse, o efeito seria fantástico; como não se surpreende, o extraordinário passa a integrar a ordem das coisas.",
-                         "formato":  "direta"
+                         "explicacao":  "O traço decisivo é a ausência de espanto: o extraordinário não abre fissura no mundo narrado, porque ninguém o trata como exceção. Em (b) está o distrator que a questão existe para cobrar — o fantástico depende justamente da hesitação diante do sobrenatural, e é essa hesitação que o conto suprime. Em (a), o sobrenatural é incompatível com o compromisso documental. Em (d), não há correspondência ponto a ponto com um sentido segundo. Em (e), não há gênero anterior sendo retomado nem intenção de ridículo."
                      },
                      {
                          "id":  "literatura-121",
                          "texto_apoio":  "Num conto, o narrador afirma, no meio da narrativa, que talvez esteja se enganando quanto a um detalhe importante, e prossegue sem esclarecê-lo.",
+                         "formato":  "direta",
                          "enunciado":  "Essa admissão de incerteza serve para",
                          "alternativas":  {
-                                              "a":  "indicar que o conto foi escrito por mais de um autor",
-                                              "b":  "encerrar a narrativa antecipadamente",
-                                              "c":  "instalar a dúvida como parte da experiência de leitura, transferindo ao leitor a tarefa de decidir",
-                                              "d":  "corrigir um erro factual da primeira versão publicada",
-                                              "e":  "provar que o narrador é integralmente confiável, já que admite limites"
+                                              "a":  "indicar que o conto foi composto a partir de versões de autores diferentes",
+                                              "b":  "preparar um desfecho que esclarecerá o detalhe deixado em suspenso",
+                                              "c":  "instalar a dúvida na leitura, transferindo ao leitor a tarefa de decidir",
+                                              "d":  "reforçar a confiabilidade do narrador, que ganha crédito ao reconhecer os próprios limites",
+                                              "e":  "sinalizar que o detalhe é irrelevante para a compreensão daquilo que se narra"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Admitir dúvida não restaura a confiança — instala a incerteza no centro da leitura. O leitor deixa de receber a história pronta e passa a ter de julgá-la, que é exatamente o efeito buscado.",
-                         "formato":  "direta"
+                         "explicacao":  "O narrador abre uma falha e não a fecha: a partir dali, tudo o que ele conta passa a ser lido sob suspeita, e é o leitor quem decide o que sustentar. Em (d) está o raciocínio que parece bom senso e não se aplica — admitir limites reforçaria a confiança num relato que depois se confirma, e aqui a incerteza fica sem solução. Em (b), o enunciado diz que ele prossegue sem esclarecer. Em (e), o próprio texto qualifica o detalhe como importante. Em (a), a hesitação é procedimento de composição, não vestígio de autorias diversas."
                      },
                      {
                          "id":  "literatura-122",
@@ -1921,32 +1921,32 @@
                      {
                          "id":  "literatura-124",
                          "texto_apoio":  "Num poema, versos curtos e cortados alternam-se com versos longos e fluidos, acompanhando a alternância entre momentos de tensão e momentos de distensão no que é dito.",
+                         "formato":  "direta",
                          "enunciado":  "Essa correspondência entre ritmo e conteúdo é um exemplo de",
                          "alternativas":  {
                                               "a":  "indiferença da forma em relação ao conteúdo, própria da poesia moderna",
                                               "b":  "adoção de forma fixa tradicional, com metro regular do início ao fim",
-                                              "c":  "convergência entre forma e sentido, em que o andamento do verso encena aquilo de que o poema fala",
-                                              "d":  "ruptura entre forma e sentido, procedimento típico da vanguarda",
-                                              "e":  "erro de composição, que deveria ter sido uniformizado na revisão"
+                                              "c":  "convergência entre forma e sentido, com o andamento do verso encenando o que se diz",
+                                              "d":  "ruptura entre forma e sentido, procedimento corrente nas vanguardas históricas",
+                                              "e":  "alternância entre dois metros fixos, procedimento herdado da canção trovadoresca medieval"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Verso curto para a tensão, verso longo para a distensão: o poema não descreve o ritmo do que sente, ele o executa. Reconhecer essa convergência é o que separa a leitura formal da simples paráfrase do conteúdo.",
-                         "formato":  "direta"
+                         "explicacao":  "O verso curto corta a respiração onde o texto tensiona e se alonga onde ele distende: o ritmo faz o que o poema diz, em vez de acompanhá-lo por fora. Em (e) está o distrator mais próximo, porque também descreve alternância — mas entre dois metros fixos, e o enunciado registra variação livre governada pelo sentido. Em (b), não há regularidade do início ao fim. Em (d), a ruptura suporia descompasso entre forma e conteúdo, e há coincidência. Em (a), a indiferença é justamente o que o poema desmente."
                      },
                      {
                          "id":  "literatura-125",
-                         "texto_apoio":  "Um poema retoma explicitamente versos conhecidos de outro poema, alterando-lhes o contexto e produzindo sentido diverso do original.",
+                         "texto_apoio":  "Um poema retoma versos reconhecíveis de um poema anterior, alterando-lhes o contexto, e o efeito pretendido depende de o leitor identificar a fonte.",
+                         "formato":  "direta",
                          "enunciado":  "Esse procedimento denomina-se",
                          "alternativas":  {
-                                              "a":  "pleonasmo, repetição redundante de uma ideia",
-                                              "b":  "intertextualidade, relação deliberada entre textos que produz sentido novo a partir do reconhecimento do anterior",
-                                              "c":  "hipérbole, exagero deliberado de uma qualidade",
-                                              "d":  "tradução, transposição de um texto entre línguas",
-                                              "e":  "plágio, apropriação indevida sem indicação da fonte"
+                                              "a":  "paródia, retomada de um texto anterior com inversão cômica ou crítica do sentido original",
+                                              "b":  "intertextualidade, diálogo deliberado com texto anterior cujo reconhecimento produz o sentido",
+                                              "c":  "plágio, apropriação de texto alheio que depende de a origem não ser percebida pelo leitor",
+                                              "d":  "epígrafe, citação destacada na abertura que anuncia um tema sem integrar o corpo do texto",
+                                              "e":  "paráfrase, reescrita de um texto em outras palavras, com manutenção integral do sentido original"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A retomada é assumida e conta com o reconhecimento do leitor: sem ele, o efeito não acontece. Isso separa a intertextualidade do plágio, que depende justamente de a origem não ser percebida.",
-                         "formato":  "direta"
+                         "explicacao":  "A retomada é assumida e conta com o reconhecimento do leitor: sem ele, o efeito não acontece. Em (a) está o distrator mais próximo — a paródia é uma espécie de intertextualidade, e seria a resposta se houvesse inversão cômica ou crítica; o enunciado fala apenas em mudança de contexto, o que mantém o caso no gênero, não na espécie. Em (c), o plágio é o caso inverso: depende de a origem não ser percebida. Em (d), a epígrafe fica fora do corpo do texto, e aqui os versos são incorporados. Em (e), a paráfrase preserva o sentido em outras palavras, enquanto aqui as palavras é que se preservam, deslocadas para outro contexto."
                      },
                      {
                          "id":  "literatura-126",
@@ -1966,62 +1966,62 @@
                      {
                          "id":  "literatura-127",
                          "texto_apoio":  "Num poema, a mesma palavra encerra vários versos consecutivos, sempre com sentido ligeiramente deslocado em relação à ocorrência anterior.",
+                         "formato":  "direta",
                          "enunciado":  "O efeito produzido por essa repetição com deslocamento é",
                          "alternativas":  {
-                                              "a":  "indicar que o poema é uma tradução malfeita",
-                                              "b":  "revelar que uma mesma palavra carrega sentidos distintos, e fazer dessa instabilidade a matéria do poema",
-                                              "c":  "converter o poema em texto narrativo",
-                                              "d":  "empobrecer o vocabulário do poema, por falta de sinônimos",
-                                              "e":  "garantir a rima regular exigida pelas formas fixas"
+                                              "a":  "reforçar por insistência um sentido único, fixando-o na memória do leitor",
+                                              "b":  "expor que a mesma palavra carrega sentidos distintos, e fazer disso a matéria do poema",
+                                              "c":  "construir um refrão que organiza o poema em estrofes de igual medida",
+                                              "d":  "marcar a hesitação do eu lírico, que não encontra a palavra exata e volta sempre à mesma",
+                                              "e":  "produzir uma cadeia sonora em que o sentido cede lugar inteiramente à musicalidade do verso"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A palavra volta e não é mais a mesma: cada retorno a desloca. O poema não repete por pobreza, e sim para mostrar que o sentido não está fixo na palavra — está no lugar que ela ocupa.",
-                         "formato":  "direta"
+                         "explicacao":  "A palavra volta e não é mais a mesma: cada retorno a desloca, e o poema mostra que o sentido não está fixo na palavra, e sim no lugar que ela ocupa. Em (a) está o contrário do que ocorre: a repetição aqui desestabiliza em vez de fixar. Em (d), a hesitação suporia uma palavra certa a ser encontrada, quando o procedimento explora a variação como resultado buscado. Em (c), o refrão repete o mesmo sentido em posição regular, e o enunciado registra deslocamento a cada ocorrência. Em (e), o som participa do efeito, mas o enunciado localiza a mudança no sentido, não na sonoridade."
                      },
                      {
                          "id":  "literatura-128",
                          "texto_apoio":  "Num poema, o eu lírico fala no plural — \"nós\" — e assume a posição de quem enuncia em nome de um grupo, e não de si próprio.",
+                         "formato":  "direta",
                          "enunciado":  "Essa escolha de pessoa gramatical indica que o poema",
                          "alternativas":  {
-                                              "a":  "abandona qualquer subjetividade, tornando-se puramente descritivo",
-                                              "b":  "renuncia à dimensão lírica e se converte em texto jornalístico",
-                                              "c":  "se dirige a um interlocutor específico e nomeado",
-                                              "d":  "desloca a experiência do individual para o coletivo, tratando o sentimento como partilhado",
-                                              "e":  "foi escrito por vários autores em conjunto"
+                                              "a":  "abandona a subjetividade e se torna registro puramente descritivo",
+                                              "b":  "renuncia à dimensão lírica e se aproxima do texto jornalístico",
+                                              "c":  "se dirige a um interlocutor específico, nomeado no corpo do poema",
+                                              "d":  "desloca a experiência do individual para o coletivo, e trata o sentimento como partilhado",
+                                              "e":  "apaga as diferenças internas do grupo, que passa a falar por uma única voz uniforme e sem fissura"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Trocar o eu pelo nós não elimina o lirismo: reposiciona-o. O sentimento deixa de ser propriedade de um sujeito e passa a ser condição de um grupo, o que costuma vir acompanhado de intenção social.",
-                         "formato":  "direta"
+                         "explicacao":  "O plural não suprime a experiência: amplia quem a vive, e o que era sentimento de um passa a ser condição de muitos. Em (e) está o distrator mais forte, porque falar em nome de um grupo de fato corre esse risco — mas o enunciado registra apenas a posição de quem enuncia, e daí não decorre a supressão das diferenças internas. Em (a) e (b), a subjetividade permanece e o poema segue lírico; muda a escala, não o gênero. Em (c), o \"nós\" define quem fala, e não a quem se fala."
                      },
                      {
                          "id":  "literatura-129",
                          "texto_apoio":  "Compara-se um poema de forma fixa e metro regular com outro em verso livre, ambos tratando do mesmo tema.",
+                         "formato":  "direta",
                          "enunciado":  "A escolha entre uma forma e outra é significativa porque",
                          "alternativas":  {
-                                              "a":  "apenas a forma fixa permite alcançar valor literário",
-                                              "b":  "apenas o verso livre permite tratar de temas contemporâneos",
-                                              "c":  "a forma escolhida participa da construção do sentido, e a regularidade ou a liberdade do verso já dizem algo sobre o modo de tratar o tema",
-                                              "d":  "a forma é neutra e não interfere no sentido, sendo mera convenção do gênero",
-                                              "e":  "a escolha depende exclusivamente da editora que publica o poema"
+                                              "a":  "a forma fixa impõe ao poeta uma disciplina que o verso livre dispensa, o que a torna superior",
+                                              "b":  "o verso livre nasce da recusa da métrica e por isso só comporta temas de ruptura",
+                                              "c":  "a forma escolhida participa da construção do sentido, e a regularidade ou a liberdade já dizem algo",
+                                              "d":  "a forma é escolha posterior ao conteúdo, ajustada ao que o poema já tinha a dizer",
+                                              "e":  "a diferença entre as duas é histórica e não estética: cada época dispõe de um repertório único de formas"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Metro rigoroso e verso livre não são embalagens intercambiáveis para um mesmo conteúdo: cada um impõe um andamento e uma relação com a tradição. Tratar a forma como neutra é justamente o que a análise literária existe para evitar.",
-                         "formato":  "direta"
+                         "explicacao":  "Metro rigoroso e verso livre não são embalagens intercambiáveis para um mesmo conteúdo: cada um impõe um andamento e uma relação com a tradição. Em (d) está a inversão que mais aparece em prova — supor que a forma se aplica depois, a um sentido já pronto, é exatamente o que a análise literária existe para evitar. Em (e), o repertório de uma época é amplo e o poeta escolhe dentro dele, tanto que o enunciado apresenta as duas formas convivendo. Em (a), disciplina não estabelece hierarquia de valor. Em (b), o verso livre trata de qualquer tema, inclusive dos mais tradicionais."
                      },
                      {
                          "id":  "literatura-130",
                          "texto_apoio":  "Num poema, o eu lírico afirma que escreve para não esquecer, e ao longo do texto vai corrigindo as próprias lembranças, substituindo detalhes já enunciados.",
+                         "formato":  "direta",
                          "enunciado":  "Esse movimento de correção sugere que, no poema, a memória é apresentada como",
                          "alternativas":  {
-                                              "a":  "registro fiel e estável do que aconteceu",
-                                              "b":  "construção instável, refeita no ato de lembrar e por isso inseparável do presente de quem lembra",
-                                              "c":  "documento verificável por terceiros",
-                                              "d":  "obstáculo à criação poética, que exigiria esquecimento total",
-                                              "e":  "faculdade exclusiva da velhice"
+                                              "a":  "registro fiel do que aconteceu, que o poema se limita a transcrever em versos",
+                                              "b":  "construção instável, refeita no ato de lembrar e presa ao presente de quem lembra",
+                                              "c":  "matéria verificável, que o poema submete à conferência de quem testemunhou os mesmos fatos",
+                                              "d":  "obstáculo à criação, já que a exatidão do detalhe limitaria a invenção do poeta",
+                                              "e":  "acúmulo de camadas em que a lembrança mais recente recobre as anteriores e as deixa intactas"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Se a lembrança precisa ser corrigida enquanto é dita, ela não estava guardada pronta: está sendo feita agora. O poema encena a memória como processo, não como arquivo.",
-                         "formato":  "direta"
+                         "explicacao":  "A correção acontece dentro do poema e não é apresentada como conserto de um erro: cada retomada refaz a lembrança, o que situa a memória no presente de quem escreve. Em (e) está o distrator mais próximo, e ele erra num ponto só — supor que as camadas anteriores permanecem intactas, quando o poema substitui detalhes já enunciados. Em (a) e (c), a fidelidade e a verificabilidade são exatamente o que a correção sucessiva desmente. Em (d), o poema não trata a memória como estorvo: faz dela o seu procedimento."
                      },
                      {
                          "id":  "literatura-131",
@@ -2041,62 +2041,62 @@
                      {
                          "id":  "literatura-132",
                          "texto_apoio":  "Num poema, o eu lírico compara sua própria situação à de um objeto inanimado — uma porta, um trilho, um copo — e desenvolve a comparação ao longo de todo o texto.",
+                         "formato":  "direta",
                          "enunciado":  "Uma comparação assim sustentada ao longo de um texto inteiro denomina-se",
                          "alternativas":  {
-                                              "a":  "hipérbato, inversão da ordem sintática usual",
-                                              "b":  "metáfora filada, ou alegoria, em que a imagem se desdobra e organiza o poema",
-                                              "c":  "elipse, omissão de termo recuperável pelo contexto",
-                                              "d":  "aliteração, repetição de sons consonantais",
-                                              "e":  "onomatopeia, reprodução de sons do mundo real"
+                                              "a":  "hipérbato, inversão da ordem sintática habitual do período",
+                                              "b":  "alegoria, ou metáfora filada, em que a imagem se desdobra e organiza o poema",
+                                              "c":  "sinédoque, designação do todo pela parte que o representa",
+                                              "d":  "comparação simples, aproximação pontual entre dois termos por meio de conectivo",
+                                              "e":  "antítese, aproximação de dois termos de sentido oposto no mesmo verso"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Uma comparação isolada é figura pontual; sustentada do início ao fim, ela vira estrutura e passa a organizar o poema inteiro. É a diferença entre usar uma imagem e construir sobre ela.",
-                         "formato":  "direta"
+                         "explicacao":  "O que define o caso não é haver comparação, e sim ela se estender e estruturar o texto inteiro — a imagem deixa de ser ornamento e passa a ser a arquitetura do poema. Em (d) está a distinção que a questão cobra: a comparação simples é pontual e se esgota no verso em que aparece. Em (a), (c) e (e), as figuras nomeadas operam dentro de um verso ou de um período e não organizam a composição: hipérbato altera a ordem das palavras, sinédoque troca todo por parte, e antítese aproxima contrários."
                      },
                      {
                          "id":  "literatura-133",
                          "texto_apoio":  "Num poema, versos que descrevem cenas de trabalho pesado alternam-se, sem transição, com versos de vocabulário delicado sobre flores e luz.",
+                         "formato":  "direta",
                          "enunciado":  "O choque entre os dois registros produz",
                          "alternativas":  {
-                                              "a":  "incoerência que compromete a unidade do poema",
-                                              "b":  "obediência às regras de composição do soneto clássico",
-                                              "c":  "tensão significativa, em que o contraste entre os registros diz algo que nenhum deles diria sozinho",
-                                              "d":  "indicação de que o poema reúne fragmentos de dois textos distintos",
-                                              "e":  "efeito puramente decorativo, sem consequência para o sentido"
+                                              "a":  "incoerência que compromete a unidade de tom exigida pelo poema lírico",
+                                              "b":  "alternância métrica regular, procedimento de composição do soneto clássico",
+                                              "c":  "tensão significativa, em que o contraste diz algo que nenhum registro diria sozinho",
+                                              "d":  "indício de que o poema reúne fragmentos de dois textos de origens distintas",
+                                              "e":  "efeito de ironia, pelo qual o registro delicado serve para ridicularizar a cena de trabalho pesado"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O contraste não é falha de unidade: é o argumento. Colocar a delicadeza ao lado do trabalho duro produz um sentido que nenhum dos dois registros alcançaria isolado — e ler isso como incoerência é perder o poema.",
-                         "formato":  "direta"
+                         "explicacao":  "Os dois registros não se anulam nem se somam: o atrito entre eles é que produz sentido, e cada um passa a ser lido à luz do outro. Em (e) está o distrator mais tentador, porque a ironia também nasce de choque — mas ela exigiria que um registro desqualificasse o outro, e aqui os dois se mantêm em pé. Em (a), unidade de tom não é exigência do gênero, e a quebra é deliberada. Em (b), não há regularidade métrica em jogo. Em (d), a alternância é procedimento de composição, não vestígio de colagem."
                      },
                      {
                          "id":  "literatura-134",
                          "texto_apoio":  "Num poema, o eu lírico dirige perguntas a si mesmo e responde a algumas delas, deixando outras em aberto.",
+                         "formato":  "direta",
                          "enunciado":  "Esse diálogo interno caracteriza",
                          "alternativas":  {
-                                              "a":  "uma narrativa em terceira pessoa",
-                                              "b":  "um monólogo em que o sujeito se desdobra, expondo o conflito em vez de apresentá-lo resolvido",
-                                              "c":  "um texto argumentativo com tese e conclusão explícitas",
-                                              "d":  "uma entrevista transcrita em versos",
-                                              "e":  "um diálogo teatral entre duas personagens distintas"
+                                              "a":  "um diálogo teatral entre duas personagens que o poema não chega a nomear",
+                                              "b":  "um monólogo em que o sujeito se desdobra, expondo o conflito em vez de resolvê-lo",
+                                              "c":  "uma narrativa em terceira pessoa disfarçada de discurso em primeira",
+                                              "d":  "um texto argumentativo, já que há perguntas encadeadas e respostas parciais",
+                                              "e":  "uma apóstrofe, em que o eu lírico interpela um interlocutor que permanece ausente do texto"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Não há duas personagens: há um sujeito dividido, e o poema mostra a divisão em vez de escondê-la sob uma conclusão. Deixar perguntas sem resposta é parte do procedimento, não descuido.",
-                         "formato":  "direta"
+                         "explicacao":  "Pergunta e resposta partem do mesmo sujeito, que se divide para se interrogar — e as perguntas sem resposta mantêm o conflito aberto em vez de encerrá-lo. Em (e) está o erro mais fino: a apóstrofe também interpela, mas dirige-se a um outro, e aqui o destinatário é o próprio eu. Em (a), não há duas personagens, e sim uma cindida. Em (d), a argumentação caminha para uma conclusão, e o poema recusa fechá-la. Em (c), a primeira pessoa não é disfarce: é a condição do procedimento."
                      },
                      {
                          "id":  "literatura-135",
                          "texto_apoio":  "Um poema descreve com atenção minuciosa um objeto — sua superfície, seu peso, o modo como reflete a luz — sem em nenhum momento declarar sentimentos do eu lírico.",
+                         "formato":  "direta",
                          "enunciado":  "Nesse tipo de construção, a emoção",
                          "alternativas":  {
-                                              "a":  "é declarada explicitamente na última estrofe",
-                                              "b":  "está ausente do poema, que se limita ao registro técnico",
-                                              "c":  "depende de nota explicativa fora do poema",
+                                              "a":  "é declarada pelo eu lírico numa estrofe final que o poema reserva para isso",
+                                              "b":  "está ausente, e o poema se limita ao registro técnico das propriedades do objeto",
+                                              "c":  "depende de nota explicativa que situe o leitor fora do texto do poema",
                                               "d":  "é transferida para o objeto e para o modo de olhá-lo, chegando ao leitor sem ser nomeada",
-                                              "e":  "é substituída por argumentação lógica"
+                                              "e":  "cede lugar à argumentação, já que descrever seria operação do entendimento e não da sensibilidade"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Não dizer o sentimento não é não tê-lo: a demora do olhar sobre o objeto já é a emoção. O poema desloca o afeto do enunciado para o modo de enunciar, o que costuma torná-lo mais eficaz do que a declaração direta.",
-                         "formato":  "direta"
+                         "explicacao":  "O que carrega a emoção é a escolha do que olhar e da demora com que se olha: o objeto recebe o afeto que o eu lírico não enuncia. Em (b) está a leitura apressada que a questão quer flagrar — não nomear não é não haver, e confundir as duas coisas é ler a descrição como inventário. Em (a), o enunciado exclui qualquer declaração de sentimento. Em (c), o poema se basta, e a nota externa seria confissão de fracasso. Em (e), não há tese nem encadeamento argumentativo, e sim demora descritiva."
                      },
                      {
                          "id":  "literatura-136",
@@ -2116,32 +2116,32 @@
                      {
                          "id":  "literatura-137",
                          "texto_apoio":  "A crítica literária brasileira consolidou-se como disciplina universitária a partir de meados do século XX, produzindo interpretações que passaram a orientar a leitura escolar do cânone nacional.",
+                         "formato":  "direta",
                          "enunciado":  "Reconhecer que uma interpretação consagrada é fruto de trabalho crítico datado permite ao leitor",
                          "alternativas":  {
-                                              "a":  "prescindir da leitura da obra, bastando conhecer a crítica",
-                                              "b":  "tratar a leitura consagrada como verdade definitiva e encerrada",
-                                              "c":  "descartar toda a crítica como opinião sem valor",
-                                              "d":  "concluir que a obra não admite leitura alguma",
-                                              "e":  "usar a interpretação como ferramenta, sabendo que ela ilumina certos aspectos da obra e deixa outros na sombra"
+                                              "a":  "substituir a leitura consagrada por outra igualmente definitiva, formada em contexto histórico mais recente",
+                                              "b":  "concluir que toda interpretação vale o mesmo, já que todas são igualmente datadas",
+                                              "c":  "separar a crítica universitária da leitura escolar, que independeria de interpretação prévia",
+                                              "d":  "reconstituir a intenção original do autor, que a crítica posterior teria encoberto",
+                                              "e":  "usar a interpretação como ferramenta que ilumina certos aspectos da obra e deixa outros na sombra"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Uma interpretação forte não é nem dogma nem opinião descartável: é instrumento com alcance e limite. Saber de onde veio permite usá-la sem ser usado por ela — e sem confundir o comentário com a obra.",
-                         "formato":  "direta"
+                         "explicacao":  "Uma interpretação forte não é nem dogma nem opinião descartável: é instrumento com alcance e limite, e saber de onde veio permite usá-la sem confundir o comentário com a obra. Em (b) está o erro simétrico ao dogmatismo — do fato de toda leitura ser datada não decorre que todas valham o mesmo, já que umas dão conta de mais do texto que outras. Em (a), trocar um dogma por outro mantém o problema. Em (d), a datação da crítica não devolve acesso direto à intenção do autor, que é outro problema. Em (c), a leitura escolar é precisamente onde as interpretações consagradas circulam."
                      },
                      {
                          "id":  "literatura-138",
                          "texto_apoio":  "Obras literárias de um mesmo período histórico podem apresentar posições divergentes sobre os mesmos processos sociais — a escravidão, a industrialização, a urbanização.",
+                         "formato":  "direta",
                          "enunciado":  "Essa divergência mostra que a literatura de um período",
                          "alternativas":  {
-                                              "a":  "deve ser lida exclusivamente pela biografia de cada autor",
-                                              "b":  "só adquire valor quando todos os autores concordam entre si",
-                                              "c":  "constitui um campo de disputa, em que diferentes posições sobre o mesmo processo coexistem e se enfrentam",
-                                              "d":  "reflete de forma unívoca a mentalidade dominante de sua época",
-                                              "e":  "é sempre alheia aos processos sociais de seu tempo"
+                                              "a":  "reproduz a mentalidade dominante da época, ainda que por vozes de autores diferentes",
+                                              "b":  "revela mais sobre a trajetória individual de cada autor que sobre o processo social em causa",
+                                              "c":  "constitui um campo de disputa, em que posições divergentes sobre o mesmo processo se enfrentam",
+                                              "d":  "só se torna documento histórico depois que a crítica posterior decide qual das posições prevaleceu",
+                                              "e":  "acompanha o processo social com atraso, registrando apenas o que já se tornou consenso"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Uma época não tem uma voz só. Tratar a literatura de um período como espelho de uma mentalidade única apaga exatamente o que ela tem de mais informativo: o desacordo entre quem viveu o mesmo processo.",
-                         "formato":  "direta"
+                         "explicacao":  "Se o mesmo processo produz posições opostas, a época não fala por uma voz só: a literatura é o lugar onde essas posições se confrontam. Em (a) está o erro que a divergência desmente de imediato — uma mentalidade única não geraria leituras incompatíveis. Em (b), reduzir a divergência a biografia dissolve o processo social, que é o que está em disputa. Em (d), o valor documental não depende de a crítica escolher um vencedor; a disputa registrada já é o documento. Em (e), o consenso é justamente o que não existe no caso descrito."
                      },
                      {
                          "id":  "literatura-139",
@@ -2161,17 +2161,17 @@
                      {
                          "id":  "literatura-140",
                          "texto_apoio":  "Ao longo do século XX, obras literárias brasileiras foram adaptadas para cinema, televisão e teatro, alcançando públicos muito maiores do que os do livro.",
+                         "formato":  "direta",
                          "enunciado":  "Do ponto de vista dos estudos literários, essas adaptações",
                          "alternativas":  {
-                                              "a":  "tornam desnecessária a leitura do texto original",
-                                              "b":  "sempre empobrecem a obra de partida",
-                                              "c":  "são irrelevantes, por não pertencerem ao campo da literatura",
-                                              "d":  "devem ser avaliadas apenas pelo grau de fidelidade literal ao texto de origem",
-                                              "e":  "constituem leituras da obra, com escolhas próprias de linguagem, que dialogam com o original em vez de substituí-lo"
+                                              "a":  "tornam dispensável a leitura do texto de origem para quem já viu a versão adaptada",
+                                              "b":  "empobrecem necessariamente a obra de partida, por reduzirem sua complexidade verbal a imagens",
+                                              "c":  "situam-se fora do campo literário e por isso não interessam aos estudos da obra",
+                                              "d":  "devem ser julgadas pelo grau de fidelidade literal ao texto de origem que adaptam",
+                                              "e":  "constituem leituras da obra, com linguagem própria, que dialogam com o original"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Cobrar fidelidade literal ignora que cinema e teatro têm linguagem própria, com recursos que o livro não tem e sem os que ele tem. A adaptação é uma interpretação materializada — e vale ser lida como tal.",
-                         "formato":  "direta"
+                         "explicacao":  "Adaptar é interpretar com outros meios: a versão em imagem ou em cena faz escolhas que revelam o que se leu no livro, e por isso interessa aos estudos literários como leitura, não como substituto. Em (d) está o critério que mais aparece em conversa comum e que a crítica abandonou: fidelidade literal mediria a adaptação por aquilo que ela não se propõe. Em (b), a perda existe em alguns casos, mas há ganhos em outros, e a generalização não se sustenta. Em (a), a adaptação não dispensa o original. Em (c), o diálogo entre as versões é matéria de estudo."
                      },
                      {
                          "id":  "literatura-141",
@@ -2191,107 +2191,107 @@
                      {
                          "id":  "literatura-142",
                          "texto_apoio":  "Um texto literário apresenta enredo linear, narrador onisciente que tudo explica, personagens de caráter definido desde o início e desfecho que resolve todos os conflitos.",
+                         "formato":  "direta",
                          "enunciado":  "Esse conjunto de traços aproxima o texto da",
                          "alternativas":  {
-                                              "a":  "poesia concreta, centrada no arranjo visual",
-                                              "b":  "prosa do século XIX de convenção realista-romântica, anterior às rupturas do século XX",
-                                              "c":  "crônica jornalística contemporânea",
-                                              "d":  "escrita automática de vanguarda",
-                                              "e":  "prosa modernista, marcada pela fragmentação e pela ambiguidade"
+                                              "a":  "poesia concreta, centrada no arranjo visual da palavra na página",
+                                              "b":  "prosa do século XIX, de convenção realista-romântica, anterior às rupturas do século XX",
+                                              "c":  "crônica jornalística, presa ao acontecimento imediato do dia",
+                                              "d":  "escrita automática de vanguarda, guiada pela associação livre",
+                                              "e":  "prosa modernista, marcada pela fragmentação, pela ambiguidade e pelo narrador pouco confiável"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Linearidade, onisciência plena, caráter fixo e conflito resolvido formam o modelo que o século XX desmonta. Reconhecer esse conjunto é o que permite datar um texto pela construção, sem precisar da data de publicação.",
-                         "formato":  "direta"
+                         "explicacao":  "Linearidade, onisciência sem fissura, caráter fixo e desfecho que fecha tudo formam o pacote da prosa oitocentista, anterior às dúvidas que o século XX introduziria no narrador. Em (e) está o contrário ponto a ponto, e reconhecê-lo é o que a questão pede: fragmentação contra linearidade, ambiguidade contra explicação, narrador incerto contra onisciência. Em (a) e (d), trata-se de procedimentos de vanguarda incompatíveis com enredo e desfecho resolvidos. Em (c), a crônica não se define por essa arquitetura narrativa."
                      },
                      {
                          "id":  "literatura-143",
                          "texto_apoio":  "Um texto narrativo alterna, sem aviso, entre o tempo presente da ação e episódios do passado das personagens, exigindo do leitor a reconstrução da ordem cronológica.",
+                         "formato":  "direta",
                          "enunciado":  "Esse procedimento de organização temporal denomina-se",
                          "alternativas":  {
-                                              "a":  "quebra da linearidade, que subordina a cronologia à lógica da memória ou do sentido",
-                                              "b":  "resumo, condensação de longo período em poucas linhas",
-                                              "c":  "narrativa linear, que segue a ordem dos acontecimentos",
-                                              "d":  "narração simultânea, feita no exato momento dos fatos",
-                                              "e":  "moldura narrativa, história que contém outra história"
+                                              "a":  "quebra da linearidade, que subordina a ordem cronológica à lógica da memória",
+                                              "b":  "narrativa em moldura, história que enquadra outra contada por uma personagem",
+                                              "c":  "narração simultânea, feita no mesmo instante em que os fatos acontecem",
+                                              "d":  "elipse temporal, supressão de um período que o leitor deduz pelo que vem depois",
+                                              "e":  "prolepse, antecipação de um fato que só se realizará adiante na narrativa"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Quando o texto abandona a ordem dos fatos, ele passa a obedecer a outra: a da memória ou a do sentido que quer construir. Cabe ao leitor remontar a cronologia, e esse trabalho é parte do que a obra pede.",
-                         "formato":  "direta"
+                         "explicacao":  "A alternância sem aviso entre presente e passado dissolve a ordem cronológica e a substitui por outra, ditada pela associação e pela memória. Em (e) está o distrator mais próximo: a prolepse também rompe a cronologia, mas só para a frente, e o enunciado descreve idas ao passado. Em (d), a elipse suprime um trecho do tempo sem alternar entre dois planos. Em (b), a moldura exige uma narrativa que contenha outra, o que não é o caso. Em (c), a narração simultânea coincide com os fatos e por isso não comporta retornos."
                      },
                      {
                          "id":  "literatura-144",
                          "texto_apoio":  "Um texto literário do século XX apresenta frases longas, sem pontuação convencional, acompanhando o encadeamento associativo dos pensamentos de uma personagem.",
+                         "formato":  "direta",
                          "enunciado":  "Esse procedimento é conhecido como",
                          "alternativas":  {
-                                              "a":  "diálogo teatral, com indicação de falante a cada réplica",
-                                              "b":  "descrição objetiva, restrita ao que é visível de fora",
-                                              "c":  "discurso direto, transcrição literal da fala entre aspas",
-                                              "d":  "fluxo de consciência, que busca reproduzir o movimento do pensamento antes de sua organização em discurso",
-                                              "e":  "narração onisciente neutra, que se mantém fora das personagens"
+                                              "a":  "discurso indireto livre, em que a voz do narrador se contamina da fala da personagem",
+                                              "b":  "monólogo interior direto, transcrição da fala que a personagem dirige a si em voz alta",
+                                              "c":  "descrição objetiva, restrita ao que um observador externo poderia registrar da cena",
+                                              "d":  "fluxo de consciência, que reproduz o movimento do pensamento antes de sua organização",
+                                              "e":  "narração onisciente neutra, que relata os fatos sem aderir ao ponto de vista de nenhuma personagem"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A pontuação convencional organiza o pensamento depois de pensado; abrir mão dela é tentar apanhá-lo antes disso. O fluxo de consciência é essa aposta — e é o oposto da narração que observa de fora.",
-                         "formato":  "direta"
+                         "explicacao":  "Frase longa, pontuação abolida e encadeamento associativo são as marcas da tentativa de acompanhar o pensamento antes que ele vire discurso organizado. Em (a) e (b) estão as duas técnicas vizinhas, e a diferença é de grau: o discurso indireto livre mantém a mediação do narrador, e o monólogo interior direto supõe fala já articulada — o traço aqui é a dissolução da sintaxe, anterior às duas. Em (c) e (e), o ponto de observação é externo, incompatível com o registro de dentro que o enunciado descreve."
                      },
                      {
                          "id":  "literatura-145",
                          "texto_apoio":  "Numa crônica, um acontecimento trivial do cotidiano — uma fila, um encontro casual, um atraso — serve de ponto de partida para uma reflexão de alcance mais amplo.",
+                         "formato":  "direta",
                          "enunciado":  "Esse movimento caracteriza o gênero crônica porque",
                          "alternativas":  {
-                                              "a":  "a crônica parte do miúdo e do imediato para alcançar uma reflexão maior, mantendo tom leve e proximidade com o leitor",
-                                              "b":  "a crônica se distingue por sua extensão, sempre superior à do conto",
-                                              "c":  "a crônica não admite qualquer marca de subjetividade do autor",
-                                              "d":  "a crônica exige sempre a narração de fatos históricos de grande relevância",
-                                              "e":  "a crônica é um gênero exclusivamente ficcional, sem relação com o cotidiano"
+                                              "a":  "parte do miúdo e do imediato para alcançar uma reflexão maior, em tom leve",
+                                              "b":  "distingue-se do conto pela extensão maior e pela ausência de enredo ficcional",
+                                              "c":  "recusa a marca subjetiva do autor, aproximando-se do texto jornalístico informativo",
+                                              "d":  "exige que o fato narrado tenha relevância histórica reconhecida pelo leitor",
+                                              "e":  "opera no sentido inverso, partindo de uma tese geral para ilustrá-la com um caso miúdo"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O gênero vive dessa desproporção entre o pretexto pequeno e o alcance da reflexão, e do tom de conversa que a torna possível. Exigir dela fato histórico relevante seria confundi-la com o registro cronístico antigo.",
-                         "formato":  "direta"
+                         "explicacao":  "A crônica trabalha na escala do dia e ganha alcance sem trocar de tom: é do detalhe banal que ela extrai a reflexão, mantendo a conversa com o leitor. Em (e) está a inversão exata do procedimento — sair da tese para o exemplo é o movimento do artigo de opinião, não o da crônica. Em (d), a exigência de relevância histórica elimina justamente a matéria do gênero, que é o trivial. Em (c), a voz pessoal é constitutiva da crônica. Em (b), a crônica costuma ser mais curta que o conto, e a comparação não define o movimento descrito."
                      },
                      {
                          "id":  "literatura-146",
                          "texto_apoio":  "Em Machado de Assis, é frequente que o narrador atribua a uma personagem uma qualidade elogiosa e, na frase seguinte, apresente um fato que a desmente.",
+                         "formato":  "direta",
                          "enunciado":  "Esse arranjo produz",
                          "alternativas":  {
-                                              "a":  "ironia, em que o elogio é desfeito pelo próprio texto sem que o narrador precise negá-lo",
-                                              "b":  "eufemismo, atenuação de um julgamento severo",
-                                              "c":  "prosopopeia, atribuição de traços humanos a seres inanimados",
-                                              "d":  "hipérbole, exagero deliberado da qualidade elogiada",
-                                              "e":  "contradição involuntária, resultante de descuido na composição"
+                                              "a":  "ironia, em que o elogio é desfeito pelo próprio texto sem que o narrador o negue",
+                                              "b":  "eufemismo, atenuação de um julgamento severo por meio de termo mais brando",
+                                              "c":  "paradoxo, afirmação que reúne no mesmo enunciado dois sentidos logicamente incompatíveis",
+                                              "d":  "hipérbole, exagero deliberado da qualidade que se atribui à personagem",
+                                              "e":  "contradição involuntária, resultante de descuido na composição do período"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O narrador não retira o elogio: apenas coloca ao lado dele o fato que o desmonta, e deixa o leitor concluir. Essa demolição por justaposição é a forma mais característica da ironia machadiana.",
-                         "formato":  "direta"
+                         "explicacao":  "O narrador não retira o elogio: deixa que o fato seguinte o desminta, e é o leitor quem faz a conta. Em (c) está o distrator mais próximo — o paradoxo reúne os contrários num mesmo enunciado e permanece sem solução, enquanto aqui a contradição se distribui entre duas frases e tem sentido claro. Em (e), o descuido é o oposto do procedimento, que é sistemático na obra. Em (b), não há atenuação: o elogio é integral, e o desmentido também. Em (d), não há exagero na qualidade atribuída, e sim desmentido factual."
                      },
                      {
                          "id":  "literatura-147",
                          "texto_apoio":  "Em contos e romances de Machado, personagens explicam suas ações por motivos nobres, e o desenrolar da narrativa revela interesses bem menos elevados operando por baixo.",
+                         "formato":  "direta",
                          "enunciado":  "Essa recorrência indica que a obra se interessa, sobretudo, por",
                          "alternativas":  {
-                                              "a":  "defender a superioridade moral de determinada classe social",
-                                              "b":  "documentar os costumes materiais da sociedade do Segundo Reinado",
-                                              "c":  "investigar a distância entre as razões que as pessoas alegam e os interesses que efetivamente as movem",
-                                              "d":  "explicar o comportamento humano por hereditariedade e clima",
-                                              "e":  "reproduzir o modelo do romance de aventuras"
+                                              "a":  "documentar os costumes materiais da sociedade do Segundo Reinado em seus detalhes",
+                                              "b":  "denunciar a hipocrisia de uma classe social específica, poupando as demais",
+                                              "c":  "investigar a distância entre as razões que se alegam e os interesses que de fato movem",
+                                              "d":  "explicar o comportamento das personagens pela hereditariedade e pelo meio social em que vivem",
+                                              "e":  "demonstrar que as personagens mentem deliberadamente sobre as próprias intenções"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O assunto não é o costume nem a hereditariedade: é o descompasso entre motivo alegado e motivo real. Note que explicar a conduta por hereditariedade e clima seria Naturalismo, caminho que Machado recusou.",
-                         "formato":  "direta"
+                         "explicacao":  "O interesse da obra está na fresta entre o motivo alegado e o que de fato move — e ela permanece aberta, sem que o narrador feche o julgamento. Em (e) está a leitura que mais engana: mentira supõe que a personagem saiba a verdade e a esconda, e o procedimento machadiano é mais cruel porque ela costuma acreditar na própria versão. Em (b), a hipocrisia não é privilégio de uma classe no conjunto da obra. Em (d), hereditariedade e meio são o programa naturalista, que Machado recusa. Em (a), os costumes aparecem, mas como cenário do que se investiga."
                      },
                      {
                          "id":  "literatura-148",
                          "texto_apoio":  "Numa obra modernista brasileira, elementos de cultura popular — festas, ritmos, provérbios, narrativas orais — são incorporados a uma composição de estrutura complexa e deliberadamente artificial.",
+                         "formato":  "direta",
                          "enunciado":  "Essa combinação indica que, para o projeto modernista,",
                          "alternativas":  {
-                                              "a":  "a elaboração formal deve ser abandonada em favor da espontaneidade",
-                                              "b":  "a cultura popular deve ser transcrita sem qualquer intervenção do artista",
-                                              "c":  "cultura popular e elaboração formal são incompatíveis entre si",
-                                              "d":  "a matéria popular é material legítimo de alta elaboração artística, e não folclore a ser preservado intacto",
-                                              "e":  "a cultura popular é objeto de estudo apenas para a antropologia"
+                                              "a":  "a elaboração formal deve ceder lugar à espontaneidade da matéria popular",
+                                              "b":  "a cultura popular deve ser transcrita sem intervenção do artista que a recolhe",
+                                              "c":  "cultura popular e elaboração formal ocupam campos que não se comunicam",
+                                              "d":  "a matéria popular é material legítimo de alta elaboração, e não folclore a preservar",
+                                              "e":  "a forma complexa serve para dignificar uma matéria considerada menor pelo próprio artista"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Não é coleta folclórica nem recusa da forma: é uso da matéria popular como matéria-prima de construção sofisticada. A tensão entre origem popular e elaboração erudita é justamente o que o projeto busca.",
-                         "formato":  "direta"
+                         "explicacao":  "A matéria popular entra na obra para ser trabalhada, e não conservada: é isso que a distingue do inventário folclórico e a coloca no mesmo plano de qualquer outro material artístico. Em (e) está a leitura paternalista que a questão quer flagrar — supor que a forma dignifica implica que a matéria valia menos antes, e o projeto parte do contrário. Em (b), a transcrição sem intervenção é exatamente a atitude folclorista recusada. Em (a) e (c), a combinação descrita no enunciado desmente tanto o abandono da forma quanto a incompatibilidade entre os dois planos."
                      },
                      {
                          "id":  "literatura-149",

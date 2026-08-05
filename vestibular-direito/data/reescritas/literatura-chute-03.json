@@ -1,0 +1,230 @@
+{
+  "subtopic": "literatura",
+  "questoes": [
+    {
+      "id": "literatura-45",
+      "texto_apoio": "Um poema de Cecília Meireles emprega versos curtos, vocabulário simples, imagens de água, vento e espelho, e trata da fugacidade das coisas sem nomear diretamente a morte.",
+      "formato": "direta",
+      "enunciado": "A relação entre a forma escolhida e o assunto do poema pode ser descrita como",
+      "alternativas": {
+        "a": "ruptura modernista, já que o poema recusa a regularidade rítmica herdada",
+        "b": "convergência, pois a fluidez das imagens e a leveza do verso encenam a transitoriedade",
+        "c": "subordinação da forma à mensagem, enunciada de modo direto pelo eu lírico",
+        "d": "contraste deliberado, pois a leveza da forma contradiz o peso do tema e produz estranhamento no leitor",
+        "e": "alternância, pois forma e tema se aproximam e se afastam ao longo das estrofes"
+      },
+      "resposta": "b",
+      "explicacao": "Água, vento e espelho são imagens do que não se fixa, e o verso curto passa depressa: a forma faz o que o poema diz, em vez de comentá-lo. Em (d) está a leitura simétrica e errada — haveria contraste se o tema fosse tratado como peso, e o poema evita justamente isso, inclusive ao não nomear a morte. Em (c), nada é enunciado de modo direto. Em (a), versos curtos e regulares não constituem recusa da regularidade. Em (e), não há oscilação: a convergência se mantém do começo ao fim."
+    },
+    {
+      "id": "literatura-58",
+      "texto_apoio": "A crítica de Antonio Candido propõe ler a forma literária como algo que internaliza o processo social, em vez de tratar forma e conteúdo social como planos separados.",
+      "formato": "direta",
+      "enunciado": "Aplicar esse método à leitura de um romance significa",
+      "alternativas": {
+        "a": "descartar a análise formal e concentrar-se no contexto histórico em que a obra nasceu",
+        "b": "investigar como ponto de vista, estrutura e ritmo carregam em si a estrutura social",
+        "c": "verificar se os temas sociais estão mencionados explicitamente pelas personagens do livro",
+        "d": "medir a obra pelo grau de engajamento político declarado por seu autor em vida",
+        "e": "tratar forma e conteúdo social como planos que a análise deve percorrer separadamente"
+      },
+      "resposta": "b",
+      "explicacao": "O método não acrescenta o social à análise formal: encontra o social dentro dela, no ponto de vista escolhido, na estrutura, no ritmo. Em (c) está o erro mais comum — procurar o social no que as personagens dizem é ficar no conteúdo temático, exatamente o que a proposta desloca. Em (e), a separação entre os planos é o que o enunciado descarta. Em (a), abandonar a forma desfaz o método pela outra ponta. Em (d), o engajamento declarado do autor é biografia, não estrutura da obra."
+    },
+    {
+      "id": "literatura-81",
+      "texto_apoio": "Fernando Pessoa criou heterônimos — Alberto Caeiro, Ricardo Reis, Álvaro de Campos — atribuindo a cada um biografia, estilo e visão de mundo próprios, por vezes incompatíveis entre si.",
+      "formato": "direta",
+      "enunciado": "A heteronímia distingue-se do simples uso de pseudônimo porque",
+      "alternativas": {
+        "a": "consiste em assinar as obras com nome falso, sem alterar a poética do autor",
+        "b": "cria autores fictícios de poética autônoma, e faz da obra a encenação de um sujeito múltiplo",
+        "c": "atribui a autores reais textos que eles não escreveram, à maneira dos apócrifos",
+        "d": "distribui entre vários nomes uma obra que obedece, no fundo, a um projeto estético único e coerente",
+        "e": "reúne sob assinatura única textos de autores reais distintos, à maneira de uma antologia"
+      },
+      "resposta": "b",
+      "explicacao": "O pseudônimo troca a assinatura e conserva o escritor; o heterônimo inventa outro escritor, com poética que pode contradizer a dos demais, e é essa incompatibilidade que vira assunto da obra. Em (d) está o distrator mais forte, porque descreve algo verdadeiro em parte — há um projeto por trás de tudo —, mas erra ao supor unidade estética, quando o enunciado registra visões de mundo incompatíveis. Em (a), a poética inalterada é exatamente o caso do pseudônimo. Em (c) e (e), os autores em jogo são reais, e na heteronímia são inventados."
+    },
+    {
+      "id": "literatura-85",
+      "texto_apoio": "Na prosa de José Saramago, os diálogos costumam vir integrados ao parágrafo, sem travessão nem aspas, separados apenas por vírgulas e por maiúsculas que marcam a mudança de falante.",
+      "formato": "direta",
+      "enunciado": "Esse procedimento de pontuação produz o efeito de",
+      "alternativas": {
+        "a": "dificultar a leitura como experimento formal sem consequência para o sentido",
+        "b": "aproximar o romance do texto teatral, feito para ser dito em cena por atores",
+        "c": "marcar que as falas são reconstituições do narrador, e não citações fiéis",
+        "d": "fundir a voz do narrador às das personagens num fluxo contínuo, próximo da fala",
+        "e": "apagar a hierarquia entre as personagens, que passam a falar com uma só voz indistinta"
+      },
+      "resposta": "d",
+      "explicacao": "Sem os sinais que isolam a fala, o diálogo não é interrompido nem cedido: continua na mesma respiração do narrador, e o texto ganha o andamento de quem conta em voz alta. Em (e) está o distrator mais próximo — as vozes se fundem no fluxo, mas continuam distinguíveis pelas maiúsculas e pelo conteúdo, e o efeito não é indistinção. Em (c), as falas seguem sendo das personagens. Em (b), o texto teatral separa os falantes com rigor, ao contrário deste. Em (a), a dificuldade é real e tem função, o que a alternativa nega."
+    },
+    {
+      "id": "literatura-90",
+      "texto_apoio": "Em narrativas africanas de língua portuguesa é frequente a presença de um contador de histórias, de fórmulas de abertura e fechamento e de repetições rítmicas que remetem à performance oral.",
+      "formato": "direta",
+      "enunciado": "A incorporação desses elementos à obra escrita cumpre a função de",
+      "alternativas": {
+        "a": "sinalizar que o texto é transcrição literal de uma gravação feita em campo",
+        "b": "recuperar a autoria coletiva e anônima, dispensando a assinatura do escritor",
+        "c": "facilitar a leitura de um público ainda pouco familiarizado com o romance",
+        "d": "marcar distância crítica em relação à oralidade, que o texto escrito trataria como estágio superado",
+        "e": "inscrever na forma escrita uma tradição de saber que a colonização tratou como inferior"
+      },
+      "resposta": "e",
+      "explicacao": "Levar as marcas da performance para dentro do livro é afirmar que aquele modo de transmitir saber tem estatuto literário, contra a hierarquia que a colonização impôs entre escrita e oralidade. Em (b) está o erro mais fino: a tradição é convocada, mas a obra continua assinada e autoral — não há renúncia à autoria, e sim incorporação de um repertório. Em (d), a relação é de filiação, não de distância crítica. Em (a), a estilização literária não é transcrição. Em (c), o procedimento adensa a leitura em vez de simplificá-la."
+    },
+    {
+      "id": "literatura-98",
+      "texto_apoio": "Um texto modernista brasileiro incorpora erros de concordância, marcas de oralidade e construções da fala popular, mantendo-as deliberadamente na versão publicada.",
+      "formato": "direta",
+      "enunciado": "Essa decisão deve ser lida como",
+      "alternativas": {
+        "a": "tentativa de aproximar a escrita da sintaxe do português europeu",
+        "b": "descuido de revisão que a edição posterior deveria corrigir",
+        "c": "posição estética e política que toma a fala brasileira como matéria literária",
+        "d": "recurso de caracterização restrito às falas das personagens populares",
+        "e": "registro documental da língua falada à época, sem intenção de fazer dela matéria literária"
+      },
+      "resposta": "c",
+      "explicacao": "Manter na publicação o que a norma corrigiria é decidir que aquela fala tem direito à página — gesto que é estético e político ao mesmo tempo. Em (e) está o distrator que mais engana: o registro existe, mas descrevê-lo como documentação sem intenção literária retira dele justamente a decisão que o define. Em (d), as marcas atravessam o texto e não se limitam às falas das personagens. Em (a), a sintaxe buscada é a brasileira, e o modelo europeu é o que se recusa. Em (b), o enunciado diz que a manutenção é deliberada."
+    },
+    {
+      "id": "literatura-104",
+      "texto_apoio": "Ao longo de O Cortiço, personagens são reiteradamente descritas por meio de comparações com animais, e o próprio cortiço é apresentado como algo que se reproduz e se alastra.",
+      "formato": "direta",
+      "enunciado": "O efeito acumulado desse procedimento sobre a leitura é",
+      "alternativas": {
+        "a": "reforçar a tese de que o comportamento ali descrito obedece a determinações biológicas",
+        "b": "aproximar o romance da fábula, gênero em que animais encenam vícios humanos",
+        "c": "marcar a distância social entre o narrador culto e as personagens que ele observa de fora",
+        "d": "suavizar a dureza das condições de vida pela ternura que as imagens carregam",
+        "e": "indicar que a degradação descrita é efeito do cortiço e se desfaria num meio diferente dele"
+      },
+      "resposta": "a",
+      "explicacao": "A insistência da comparação é o próprio argumento naturalista: repetida capítulo após capítulo, ela naturaliza a ideia de que aquelas condutas vêm do organismo e do meio, e não de decisões. Em (c) está uma leitura defensável em parte — a distância entre narrador e personagens existe —, mas ela descreve a posição de quem narra, e não a tese que o acúmulo de imagens sustenta. Em (e), o determinismo do romance não se limita ao cortiço, e sim ao meio como categoria. Em (b), não há moral final nem animais que falam. Em (d), as imagens endurecem o retrato, não o adoçam."
+    },
+    {
+      "id": "literatura-106",
+      "texto_apoio": "O Cortiço foi publicado em 1890, dois anos após a Abolição e um ano após a Proclamação da República, num Rio de Janeiro que recebia levas de imigrantes e de ex-escravizados em busca de trabalho urbano.",
+      "formato": "direta",
+      "enunciado": "A relação entre esse contexto e a matéria do romance pode ser descrita assim:",
+      "alternativas": {
+        "a": "o romance celebra a República como solução para os problemas que descreve",
+        "b": "o romance situa a ação antes da Abolição, e por isso não chega a considerá-la",
+        "c": "o romance restringe-se às famílias proprietárias, sem retratar trabalhadores",
+        "d": "o romance toma como matéria a população urbana pobre produzida por esses processos",
+        "e": "o romance aborda os mesmos processos, mas transpostos para uma cidade europeia do mesmo período"
+      },
+      "resposta": "d",
+      "explicacao": "O cortiço é o lugar onde imigrantes e ex-escravizados se encontram à procura de trabalho: a matéria do romance é exatamente a população que esses processos acabavam de produzir. Em (a), o livro não celebra nada — a República aparece como pano de fundo de uma ordem que reproduz a exploração anterior. Em (c), os proprietários existem na trama, mas o centro é quem mora e trabalha no cortiço. Em (b), a ação é contemporânea da publicação. Em (e), a cidade retratada é o Rio de Janeiro, e a ambientação local é constitutiva do romance."
+    },
+    {
+      "id": "literatura-110",
+      "texto_apoio": "O protagonista de Memórias de um sargento de milícias passa a infância aprontando travessuras, foge de estudos e obrigações, e ainda assim termina o romance empregado, casado e socialmente acomodado.",
+      "formato": "direta",
+      "enunciado": "Esse desfecho, sem punição nem arrependimento, indica que a narrativa",
+      "alternativas": {
+        "a": "adota a moral edificante, premiando a virtude e punindo o desvio de conduta",
+        "b": "sugere que o protagonista se converteu à disciplina e ao trabalho regular",
+        "c": "dispensa a moralização e mostra um mundo em que se acomoda pelo jeito, não pelo mérito",
+        "d": "suspende o julgamento moral por incapacidade do narrador de tomar posição diante dos fatos",
+        "e": "transfere ao leitor a tarefa de condenar o protagonista, que o texto evita explicitar"
+      },
+      "resposta": "c",
+      "explicacao": "A acomodação vem de rede de favores e da simpatia que o protagonista desperta, não de emenda nem de esforço — e o romance apresenta isso como o funcionamento normal daquele mundo. Em (d) e (e) estão as duas tentações: uma trata a ausência de moral como falha do narrador, a outra como delegação ao leitor, e ambas supõem que a condenação deveria existir em algum lugar. Ela simplesmente não é o assunto. Em (a), não há prêmio à virtude, já que virtude não é o que se premia. Em (b), não há conversão nenhuma no texto."
+    },
+    {
+      "id": "literatura-120",
+      "texto_apoio": "Um conto apresenta acontecimentos sobrenaturais sem que o narrador ou as personagens manifestem espanto, tratando-os com a mesma naturalidade dos fatos cotidianos.",
+      "formato": "direta",
+      "enunciado": "Esse procedimento caracteriza",
+      "alternativas": {
+        "a": "o realismo documental, comprometido com a verificação dos fatos narrados",
+        "b": "o fantástico tradicional, em que a irrupção do sobrenatural provoca hesitação e espanto nas personagens",
+        "c": "o insólito naturalizado, em que o extraordinário entra no cotidiano sem ruptura de tom",
+        "d": "a alegoria moral, em que cada elemento remete a um sentido segundo estabelecido",
+        "e": "a paródia, que retoma um gênero anterior para expor suas convenções ao ridículo"
+      },
+      "resposta": "c",
+      "explicacao": "O traço decisivo é a ausência de espanto: o extraordinário não abre fissura no mundo narrado, porque ninguém o trata como exceção. Em (b) está o distrator que a questão existe para cobrar — o fantástico depende justamente da hesitação diante do sobrenatural, e é essa hesitação que o conto suprime. Em (a), o sobrenatural é incompatível com o compromisso documental. Em (d), não há correspondência ponto a ponto com um sentido segundo. Em (e), não há gênero anterior sendo retomado nem intenção de ridículo."
+    },
+    {
+      "id": "literatura-132",
+      "texto_apoio": "Num poema, o eu lírico compara sua própria situação à de um objeto inanimado — uma porta, um trilho, um copo — e desenvolve a comparação ao longo de todo o texto.",
+      "formato": "direta",
+      "enunciado": "Uma comparação assim sustentada ao longo de um texto inteiro denomina-se",
+      "alternativas": {
+        "a": "hipérbato, inversão da ordem sintática habitual do período",
+        "b": "alegoria, ou metáfora filada, em que a imagem se desdobra e organiza o poema",
+        "c": "sinédoque, designação do todo pela parte que o representa",
+        "d": "comparação simples, aproximação pontual entre dois termos por meio de conectivo",
+        "e": "antítese, aproximação de dois termos de sentido oposto no mesmo verso"
+      },
+      "resposta": "b",
+      "explicacao": "O que define o caso não é haver comparação, e sim ela se estender e estruturar o texto inteiro — a imagem deixa de ser ornamento e passa a ser a arquitetura do poema. Em (d) está a distinção que a questão cobra: a comparação simples é pontual e se esgota no verso em que aparece. Em (a), (c) e (e), as figuras nomeadas operam dentro de um verso ou de um período e não organizam a composição: hipérbato altera a ordem das palavras, sinédoque troca todo por parte, e antítese aproxima contrários."
+    },
+    {
+      "id": "literatura-133",
+      "texto_apoio": "Num poema, versos que descrevem cenas de trabalho pesado alternam-se, sem transição, com versos de vocabulário delicado sobre flores e luz.",
+      "formato": "direta",
+      "enunciado": "O choque entre os dois registros produz",
+      "alternativas": {
+        "a": "incoerência que compromete a unidade de tom exigida pelo poema lírico",
+        "b": "alternância métrica regular, procedimento de composição do soneto clássico",
+        "c": "tensão significativa, em que o contraste diz algo que nenhum registro diria sozinho",
+        "d": "indício de que o poema reúne fragmentos de dois textos de origens distintas",
+        "e": "efeito de ironia, pelo qual o registro delicado serve para ridicularizar a cena de trabalho pesado"
+      },
+      "resposta": "c",
+      "explicacao": "Os dois registros não se anulam nem se somam: o atrito entre eles é que produz sentido, e cada um passa a ser lido à luz do outro. Em (e) está o distrator mais tentador, porque a ironia também nasce de choque — mas ela exigiria que um registro desqualificasse o outro, e aqui os dois se mantêm em pé. Em (a), unidade de tom não é exigência do gênero, e a quebra é deliberada. Em (b), não há regularidade métrica em jogo. Em (d), a alternância é procedimento de composição, não vestígio de colagem."
+    },
+    {
+      "id": "literatura-140",
+      "texto_apoio": "Ao longo do século XX, obras literárias brasileiras foram adaptadas para cinema, televisão e teatro, alcançando públicos muito maiores do que os do livro.",
+      "formato": "direta",
+      "enunciado": "Do ponto de vista dos estudos literários, essas adaptações",
+      "alternativas": {
+        "a": "tornam dispensável a leitura do texto de origem para quem já viu a versão adaptada",
+        "b": "empobrecem necessariamente a obra de partida, por reduzirem sua complexidade verbal a imagens",
+        "c": "situam-se fora do campo literário e por isso não interessam aos estudos da obra",
+        "d": "devem ser julgadas pelo grau de fidelidade literal ao texto de origem que adaptam",
+        "e": "constituem leituras da obra, com linguagem própria, que dialogam com o original"
+      },
+      "resposta": "e",
+      "explicacao": "Adaptar é interpretar com outros meios: a versão em imagem ou em cena faz escolhas que revelam o que se leu no livro, e por isso interessa aos estudos literários como leitura, não como substituto. Em (d) está o critério que mais aparece em conversa comum e que a crítica abandonou: fidelidade literal mediria a adaptação por aquilo que ela não se propõe. Em (b), a perda existe em alguns casos, mas há ganhos em outros, e a generalização não se sustenta. Em (a), a adaptação não dispensa o original. Em (c), o diálogo entre as versões é matéria de estudo."
+    },
+    {
+      "id": "literatura-146",
+      "texto_apoio": "Em Machado de Assis, é frequente que o narrador atribua a uma personagem uma qualidade elogiosa e, na frase seguinte, apresente um fato que a desmente.",
+      "formato": "direta",
+      "enunciado": "Esse arranjo produz",
+      "alternativas": {
+        "a": "ironia, em que o elogio é desfeito pelo próprio texto sem que o narrador o negue",
+        "b": "eufemismo, atenuação de um julgamento severo por meio de termo mais brando",
+        "c": "paradoxo, afirmação que reúne no mesmo enunciado dois sentidos logicamente incompatíveis",
+        "d": "hipérbole, exagero deliberado da qualidade que se atribui à personagem",
+        "e": "contradição involuntária, resultante de descuido na composição do período"
+      },
+      "resposta": "a",
+      "explicacao": "O narrador não retira o elogio: deixa que o fato seguinte o desminta, e é o leitor quem faz a conta. Em (c) está o distrator mais próximo — o paradoxo reúne os contrários num mesmo enunciado e permanece sem solução, enquanto aqui a contradição se distribui entre duas frases e tem sentido claro. Em (e), o descuido é o oposto do procedimento, que é sistemático na obra. Em (b), não há atenuação: o elogio é integral, e o desmentido também. Em (d), não há exagero na qualidade atribuída, e sim desmentido factual."
+    },
+    {
+      "id": "literatura-148",
+      "texto_apoio": "Numa obra modernista brasileira, elementos de cultura popular — festas, ritmos, provérbios, narrativas orais — são incorporados a uma composição de estrutura complexa e deliberadamente artificial.",
+      "formato": "direta",
+      "enunciado": "Essa combinação indica que, para o projeto modernista,",
+      "alternativas": {
+        "a": "a elaboração formal deve ceder lugar à espontaneidade da matéria popular",
+        "b": "a cultura popular deve ser transcrita sem intervenção do artista que a recolhe",
+        "c": "cultura popular e elaboração formal ocupam campos que não se comunicam",
+        "d": "a matéria popular é material legítimo de alta elaboração, e não folclore a preservar",
+        "e": "a forma complexa serve para dignificar uma matéria considerada menor pelo próprio artista"
+      },
+      "resposta": "d",
+      "explicacao": "A matéria popular entra na obra para ser trabalhada, e não conservada: é isso que a distingue do inventário folclórico e a coloca no mesmo plano de qualquer outro material artístico. Em (e) está a leitura paternalista que a questão quer flagrar — supor que a forma dignifica implica que a matéria valia menos antes, e o projeto parte do contrário. Em (b), a transcrição sem intervenção é exatamente a atitude folclorista recusada. Em (a) e (c), a combinação descrita no enunciado desmente tanto o abandono da forma quanto a incompatibilidade entre os dois planos."
+    }
+  ]
+}

@@ -7384,17 +7384,17 @@ window.QUESTION_BANKS = {
                                    {
                                        "id":  "atualidades-tecnologia-22",
                                        "texto_apoio":  "Plataformas digitais de ensino têm permitido que estudantes acessem aulas, materiais e avaliações sem a necessidade de presença física em uma sala de aula tradicional.",
+                                       "formato":  "direta",
                                        "enunciado":  "Um desafio frequentemente associado à expansão do ensino a distância mediado por tecnologia é:",
                                        "alternativas":  {
-                                                            "a":  "a desigualdade de acesso a internet e dispositivos, que pode ampliar diferenças educacionais entre estudantes",
-                                                            "b":  "a eliminação completa da necessidade de qualquer interação entre professores e estudantes no processo pedagógico",
-                                                            "c":  "a impossibilidade de emitir prescrição médica válida sem exame presencial",
-                                                            "d":  "a garantia automática de acesso igualitário à internet e a dispositivos adequados para todos os estudantes",
-                                                            "e":  "a impossibilidade técnica de qualquer forma de avaliação de aprendizagem a distância, hipótese sem respaldo prático"
+                                                            "a":  "a desigualdade de acesso a internet e dispositivos entre os estudantes",
+                                                            "b":  "a eliminação da interação entre professores e estudantes no processo",
+                                                            "c":  "a dificuldade de reproduzir atividades práticas de laboratório a distância",
+                                                            "d":  "a garantia de acesso igualitário à internet e a dispositivos adequados",
+                                                            "e":  "a impossibilidade técnica de avaliar a aprendizagem a distância"
                                                         },
                                        "resposta":  "a",
-                                       "explicacao":  "Apesar de ampliar o acesso à educação em determinados contextos, o ensino a distância mediado por tecnologia pode aprofundar desigualdades educacionais quando parte dos estudantes não possui acesso adequado a internet, dispositivos ou ambiente propício ao estudo, fenômeno associado à exclusão digital.",
-                                       "formato":  "direta"
+                                       "explicacao":  "A modalidade só funciona para quem tem banda, aparelho e um canto silencioso em casa, de modo que ela tende a alargar a distância entre quem já estava à frente e quem não estava. Em (c) está o distrator mais legítimo, porque a limitação prática é real — mas atinge cursos específicos, enquanto a barreira de acesso atravessa todos eles. Em (d), a garantia de acesso igualitário é o oposto do que se observa. Em (b), a interação muda de forma sem desaparecer. Em (e), avaliação a distância é praticada em larga escala, ainda que com problemas próprios."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-23",
@@ -7474,47 +7474,47 @@ window.QUESTION_BANKS = {
                                    {
                                        "id":  "atualidades-tecnologia-28",
                                        "texto_apoio":  "Serviços de streaming de música geram listas de reprodução personalizadas para cada usuário com base em seu histórico de audição, o que molda, em grande medida, quais artistas e gêneros musicais o usuário passa a descobrir.",
+                                       "formato":  "direta",
                                        "enunciado":  "Uma crítica frequente a esse modelo de curadoria musical automatizada é que ele pode:",
                                        "alternativas":  {
-                                                            "a":  "eliminar totalmente a existência de gêneros musicais menos populares em todas as plataformas de streaming",
-                                                            "b":  "garantir automaticamente que todo artista independente alcance o mesmo alcance de audiência que artistas já consagrados",
-                                                            "c":  "privilegiar conteúdos recém-publicados em detrimento de acervos consolidados",
-                                                            "d":  "reforçar preferências já existentes do usuário e reduzir sua exposição a gêneros musicais menos convencionais",
-                                                            "e":  "impedir, por determinação legal, que qualquer usuário altere manualmente sua lista de reprodução pessoal"
+                                                            "a":  "suprimir os gêneros menos populares dos catálogos das plataformas",
+                                                            "b":  "garantir que o artista independente alcance a mesma audiência dos consagrados",
+                                                            "c":  "privilegiar lançamentos recentes em detrimento de acervos consolidados",
+                                                            "d":  "reforçar preferências já existentes e reduzir a exposição a outros gêneros",
+                                                            "e":  "impedir que o usuário altere manualmente sua própria lista de reprodução"
                                                         },
                                        "resposta":  "d",
-                                       "explicacao":  "A curadoria musical automatizada, ao se basear no histórico de audição do usuário, tende a reforçar preferências já existentes e priorizar conteúdos já populares, o que pode reduzir a exposição a artistas e gêneros musicais menos convencionais — fenômeno análogo à bolha de filtro observada em outras plataformas digitais, discutido no debate sobre diversidade cultural na era do streaming.",
-                                       "formato":  "direta"
+                                       "explicacao":  "O sistema aprende com o que já se ouviu e recomenda mais do mesmo, o que estreita o repertório justamente onde a promessa era ampliá-lo — a descoberta acaba confinada ao que o histórico já indicava. Em (c) está a crítica vizinha e mais estreita: o viés de novidade existe em algumas plataformas, mas é uma preferência de catálogo, e não o fechamento do gosto que o enunciado descreve. Em (a), o acervo permanece disponível; o que muda é a chance de ser encontrado. Em (b), a personalização tende a concentrar audiência, não a igualá-la. Em (e), a edição manual continua possível."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-29",
                                        "texto_apoio":  "Instituições financeiras têm utilizado modelos automatizados, baseados em dados como histórico de pagamentos e renda, para decidir se um indivíduo terá ou não acesso a crédito e em quais condições.",
+                                       "formato":  "direta",
                                        "enunciado":  "Uma preocupação frequentemente associada ao uso desses modelos automatizados de concessão de crédito é:",
                                        "alternativas":  {
-                                                            "a":  "a obrigatoriedade legal de dispensarem qualquer forma de auditoria ou fiscalização externa",
-                                                            "b":  "o custo computacional elevado, que restringe o uso a instituições de grande porte",
-                                                            "c":  "a garantia automática de que todas as decisões de crédito serão isentas de qualquer viés",
-                                                            "d":  "o risco de reproduzirem discriminações históricas presentes nos dados de treinamento",
-                                                            "e":  "a impossibilidade técnica de esses modelos processarem qualquer tipo de dado financeiro sensível"
+                                                            "a":  "a dispensa legal de auditoria ou fiscalização externa sobre o modelo",
+                                                            "b":  "o custo computacional elevado, que restringe o uso a instituições grandes",
+                                                            "c":  "a garantia de que as decisões de crédito ficam isentas de viés",
+                                                            "d":  "o risco de reproduzirem discriminações históricas presentes nos dados",
+                                                            "e":  "a impossibilidade de processar dados financeiros sensíveis nesses modelos"
                                                         },
                                        "resposta":  "d",
-                                       "explicacao":  "Modelos automatizados de concessão de crédito, quando treinados com dados históricos que refletem desigualdades sociais, podem reproduzir ou amplificar discriminações contra grupos já marginalizados, o que tem motivado debates sobre transparência e auditoria desses sistemas.",
-                                       "formato":  "direta"
+                                       "explicacao":  "O modelo aprende com decisões passadas, e se o crédito foi historicamente negado a certos bairros ou perfis, ele reproduz o padrão como se fosse regularidade estatística neutra — a discriminação sobrevive sem que ninguém a programe. Em (c) está a suposição que a preocupação desmente: automatizar não elimina o viés, apenas o torna menos visível. Em (b), o custo caiu e o uso é generalizado. Em (a), esses modelos estão sujeitos a fiscalização do regulador. Em (e), processar dado financeiro é precisamente o que eles fazem."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-30",
                                        "texto_apoio":  "Determinados veículos são equipados com sensores, câmeras e sistemas de processamento capazes de conduzir o automóvel com intervenção humana reduzida ou nula em determinadas condições.",
+                                       "formato":  "direta",
                                        "enunciado":  "Um dos principais desafios técnicos e éticos associados ao desenvolvimento de veículos autônomos é:",
                                        "alternativas":  {
-                                                            "a":  "garantir segurança em situações imprevistas do trânsito e definir responsabilidades em caso de acidentes",
-                                                            "b":  "a impossibilidade técnica de esses veículos utilizarem qualquer tipo de sensor ou câmera",
-                                                            "c":  "a inexistência de qualquer debate regulatório sobre o tema em qualquer país do mundo",
-                                                            "d":  "a ausência de padronização entre fabricantes quanto aos protocolos de comunicação entre veículos",
-                                                            "e":  "a ausência completa de qualquer risco em seu funcionamento, mesmo em condições adversas"
+                                                            "a":  "garantir segurança no imprevisto e definir responsabilidade por acidentes",
+                                                            "b":  "a impossibilidade técnica de esses veículos usarem sensores e câmeras",
+                                                            "c":  "a inexistência de debate regulatório sobre o tema nos países onde circulam",
+                                                            "d":  "a ausência de padronização entre fabricantes nos protocolos de comunicação",
+                                                            "e":  "a ausência de risco em seu funcionamento, mesmo em condições adversas"
                                                         },
                                        "resposta":  "a",
-                                       "explicacao":  "O desenvolvimento de veículos autônomos enfrenta desafios relacionados à segurança em situações imprevistas do trânsito, além de questões éticas e jurídicas sobre a responsabilidade em caso de acidentes causados por decisões tomadas pelo próprio sistema, e não por um motorista humano.",
-                                       "formato":  "direta"
+                                       "explicacao":  "O desafio é duplo e por isso técnico e ético ao mesmo tempo: o sistema precisa decidir bem diante do que não foi previsto, e alguém precisa responder quando a decisão dá errado — fabricante, programador ou ocupante. Em (d) está o distrator mais consistente, porque a falta de padrão de comunicação entre veículos é problema real de engenharia; ele é, porém, obstáculo de implantação, e não o dilema ético que a questão pede. Em (b), sensores e câmeras são a base da tecnologia. Em (c), o debate regulatório é intenso. Em (e), a ausência de risco é o contrário do desafio."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-31",
@@ -7534,17 +7534,17 @@ window.QUESTION_BANKS = {
                                    {
                                        "id":  "atualidades-tecnologia-32",
                                        "texto_apoio":  "No modelo de remuneração das plataformas de streaming musical, a receita gerada pelas assinaturas e pela publicidade é distribuída entre os artistas, em geral, de forma proporcional ao número total de reproduções que cada faixa musical recebe na plataforma.",
+                                       "formato":  "direta",
                                        "enunciado":  "Uma crítica frequente a esse modelo de remuneração por streaming, sobretudo por parte de artistas independentes e de nicho, é que ele tende a:",
                                        "alternativas":  {
-                                                            "a":  "eliminar por completo a necessidade de as plataformas de streaming pagarem qualquer valor aos artistas",
-                                                            "b":  "concentrar a maior parte da receita nos artistas e faixas com maior volume de reproduções, prejudicando artistas de nicho",
-                                                            "c":  "garantir renda mínima igual à da venda física de discos para qualquer artista cadastrado na plataforma",
-                                                            "d":  "vincular a remuneração ao tempo total de reprodução, e não ao número de execuções",
-                                                            "e":  "distribuir a receita de forma idêntica entre todos os artistas da plataforma, independentemente do número de reproduções"
+                                                            "a":  "dispensar as plataformas de pagar qualquer valor aos artistas cadastrados",
+                                                            "b":  "concentrar a receita nos artistas de maior volume, prejudicando os de nicho",
+                                                            "c":  "garantir renda mínima equivalente à da venda física de disco a todo artista",
+                                                            "d":  "vincular a remuneração ao tempo de reprodução, e não ao número de execuções",
+                                                            "e":  "distribuir a receita igualmente entre os artistas, seja qual for a audiência"
                                                         },
                                        "resposta":  "b",
-                                       "explicacao":  "O modelo de remuneração proporcional ao número total de reproduções tende a concentrar a maior parte da receita das plataformas de streaming nos artistas e faixas mais ouvidos, o que é criticado por artistas independentes e de nicho, que recebem parcela proporcionalmente menor mesmo tendo um público fiel, ainda que numericamente menor.",
-                                       "formato":  "direta"
+                                       "explicacao":  "Como o bolo é único e rateado pela participação no total de execuções, a assinatura de quem só ouve um artista de nicho vai quase inteira para os campeões de audição da plataforma — o dinheiro do ouvinte não segue o ouvinte. Em (d) está justamente o modelo alternativo proposto para corrigir isso, o rateio centrado no usuário: descreve a solução em discussão, e não a crítica ao modelo vigente. Em (e), a distribuição igualitária não existe em nenhum dos dois modelos. Em (a) e (c), há pagamento, e ele não garante piso equivalente à venda física."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-33",
@@ -7626,18 +7626,18 @@ window.QUESTION_BANKS = {
                                    {
                                        "id":  "atualidades-tecnologia-38",
                                        "texto_apoio":  "Empresas de diversos setores têm substituído parte do atendimento telefônico e por chat, antes realizado por atendentes humanos, por sistemas automatizados de conversação capazes de responder perguntas frequentes.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "media",
                                        "enunciado":  "Esse processo de substituição de tarefas de atendimento por sistemas automatizados ilustra, de forma concreta, o debate sobre:",
                                        "alternativas":  {
-                                                            "a":  "a ausência total de qualquer impacto da tecnologia sobre o mercado de trabalho atual",
-                                                            "b":  "a impossibilidade técnica de automatizar qualquer forma de interação com o consumidor final",
-                                                            "c":  "a exigência legal de manutenção de quadro mínimo de atendentes humanos em cada canal",
-                                                            "d":  "os efeitos da automação sobre ocupações rotineiras e a necessidade de requalificação da força de trabalho",
-                                                            "e":  "a obrigatoriedade legal universal de manter atendimento humano em qualquer empresa privada"
+                                                            "a":  "a ausência de impacto da tecnologia sobre o mercado de trabalho atual",
+                                                            "b":  "a impossibilidade técnica de automatizar a interação com o consumidor",
+                                                            "c":  "a exigência legal de manter quadro mínimo de atendentes humanos por canal",
+                                                            "d":  "os efeitos da automação sobre ocupações rotineiras e a requalificação",
+                                                            "e":  "a obrigação de manter atendimento humano em toda empresa privada do país"
                                                         },
                                        "resposta":  "d",
-                                       "explicacao":  "A substituição de atendentes humanos por chatbots em tarefas rotineiras e padronizáveis é um exemplo concreto do debate sobre automação e mercado de trabalho, que discute tanto a eliminação de postos de trabalho quanto a necessidade de requalificação profissional para novas funções.",
-                                       "dificuldade":  "media",
-                                       "formato":  "direta"
+                                       "explicacao":  "O atendimento de perguntas frequentes é o caso-modelo da tarefa rotineira e roteirizável, a primeira a ser absorvida, e o que resta ao trabalhador humano é o atendimento complexo — que exige outra formação. Em (c) e (e) está a mesma confusão entre debate e norma: existe regulação setorial sobre canais de atendimento, mas o enunciado pede o debate econômico que o caso ilustra, não a regra vigente. Em (a), o impacto é o próprio objeto da discussão. Em (b), a automação descrita já está em operação."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-39",
@@ -7674,18 +7674,18 @@ window.QUESTION_BANKS = {
                                    {
                                        "id":  "atualidades-tecnologia-41",
                                        "texto_apoio":  "Grandes plataformas de redes sociais contratam, muitas vezes por meio de empresas terceirizadas, equipes responsáveis por analisar manualmente conteúdos denunciados, incluindo materiais violentos ou de abuso, para decidir sua remoção.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "media",
                                        "enunciado":  "Esse trabalho de análise manual de conteúdo, essencial para complementar sistemas automatizados de moderação, tem sido associado a:",
                                        "alternativas":  {
-                                                            "a":  "remuneração uniformemente elevada em todos os países onde esse trabalho é atualmente realizado",
-                                                            "b":  "eliminação completa da necessidade de qualquer supervisão humana sobre sistemas automatizados",
-                                                            "c":  "condições de trabalho isentas de qualquer risco, dado o caráter puramente digital da atividade",
-                                                            "d":  "necessidade de qualificação técnica avançada, comparável à de desenvolvedores de software",
-                                                            "e":  "impactos significativos à saúde mental dos trabalhadores, expostos repetidamente a conteúdos extremos"
+                                                            "a":  "remuneração elevada e uniforme nos países onde esse trabalho é realizado",
+                                                            "b":  "dispensa da supervisão humana sobre os sistemas automatizados de filtragem",
+                                                            "c":  "condições de trabalho sem risco, dado o caráter digital da atividade",
+                                                            "d":  "exigência de qualificação técnica comparável à de desenvolvedores de software",
+                                                            "e":  "impacto à saúde mental dos trabalhadores, expostos a conteúdos extremos"
                                                         },
                                        "resposta":  "e",
-                                       "explicacao":  "Moderadores de conteúdo, muitas vezes contratados por empresas terceirizadas em condições de trabalho precárias, são expostos repetidamente a materiais extremos durante a análise manual de denúncias, o que tem sido associado a impactos significativos à saúde mental, evidenciando um custo humano pouco visível da moderação de plataformas digitais.",
-                                       "dificuldade":  "media",
-                                       "formato":  "direta"
+                                       "explicacao":  "A exposição repetida a violência e abuso, sob meta de segundos por item, produz adoecimento documentado e já levou a ações judiciais em vários países — é o custo humano que a moderação automatizada não elimina. Em (c) está a suposição que a questão desfaz: o trabalho ser digital não o torna inócuo, porque o dano é psíquico e não físico. Em (b), a análise humana existe justamente porque a automação não basta. Em (a), a terceirização busca países de salário baixo. Em (d), a exigência é de julgamento contextual, não de qualificação em programação."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-42",
@@ -7738,34 +7738,34 @@ window.QUESTION_BANKS = {
                                    {
                                        "id":  "atualidades-tecnologia-45",
                                        "texto_apoio":  "Nas últimas edições de premiações cinematográficas de grande visibilidade internacional, a composição das categorias de indicados tem sido frequentemente analisada quanto à diversidade de gênero, raça e nacionalidade dos indicados e vencedores.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "media",
                                        "enunciado":  "Esse tipo de debate em torno de premiações cinematográficas evidencia, sobretudo, que tais prêmios:",
                                        "alternativas":  {
-                                                            "a":  "funcionam como instituições que refletem e são objeto de disputas sobre representatividade e diversidade",
-                                                            "b":  "perderam relevância comercial diante do alcance direto das plataformas de streaming",
-                                                            "c":  "são escolhidos por critérios exclusivamente técnicos, sem qualquer influência de fatores sociais ou culturais",
-                                                            "d":  "deixaram de ter qualquer relevância cultural desde o surgimento das plataformas de streaming digital",
-                                                            "e":  "não exercem qualquer influência sobre a legitimação cultural das obras premiadas em nenhum contexto"
+                                                            "a":  "refletem e são objeto de disputas sobre representatividade e diversidade",
+                                                            "b":  "perderam relevância comercial diante do alcance direto do streaming",
+                                                            "c":  "são escolhidos por critérios técnicos, sem influência de fatores sociais",
+                                                            "d":  "deixaram de ter relevância cultural desde o surgimento do streaming digital",
+                                                            "e":  "não influenciam a legitimação cultural das obras que premiam"
                                                         },
                                        "resposta":  "a",
-                                       "explicacao":  "Premiações cinematográficas de grande visibilidade funcionam não apenas como reconhecimento de qualidade artística, mas também como instituições culturais cujos critérios de indicação e escolha são objeto de disputas sobre representatividade de gênero, raça e nacionalidade, refletindo debates mais amplos da sociedade sobre diversidade no meio audiovisual.",
-                                       "dificuldade":  "media",
-                                       "formato":  "direta"
+                                       "explicacao":  "Que a composição dos indicados vire notícia é a prova de que o prêmio importa: disputa-se o que ele consagra porque a consagração tem efeito sobre carreira, distribuição e público. Em (c) está a leitura que o próprio debate desmente — se o critério fosse apenas técnico, a composição social dos indicados não seria matéria de discussão pública. Em (d) e (e), o argumento é circular: um prêmio sem relevância não geraria a controvérsia descrita no enunciado. Em (b), a relevância comercial mudou de forma, mas não é do que trata o debate apresentado."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-46",
                                        "texto_apoio":  "Empresas que armazenam dados pessoais de seus clientes podem sofrer invasões que resultam na exposição não autorizada dessas informações a terceiros, seja por falha técnica, seja por ataque cibernético.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "media",
                                        "enunciado":  "De acordo com a legislação brasileira de proteção de dados, quando ocorre um incidente desse tipo, a empresa responsável pelo tratamento dos dados deve, entre outras obrigações:",
                                        "alternativas":  {
-                                                            "a":  "comunicar o incidente à autoridade nacional de proteção de dados e aos titulares afetados",
-                                                            "b":  "manter sigilo absoluto sobre o incidente, sem qualquer obrigação legal de comunicação",
-                                                            "c":  "ser dispensada de qualquer responsabilidade caso o vazamento tenha decorrido de ataque externo",
-                                                            "d":  "notificar exclusivamente os titulares afetados, dispensada a comunicação à autoridade nacional",
-                                                            "e":  "transferir automaticamente toda a responsabilidade civil ao usuário cujos dados foram vazados"
+                                                            "a":  "comunicar o incidente à autoridade nacional e aos titulares afetados",
+                                                            "b":  "manter sigilo sobre o incidente até a conclusão da apuração interna",
+                                                            "c":  "responder apenas se ficar comprovada negligência na guarda dos dados",
+                                                            "d":  "notificar somente os titulares afetados, dispensada a autoridade nacional",
+                                                            "e":  "repassar a responsabilidade civil ao provedor de hospedagem contratado"
                                                         },
                                        "resposta":  "a",
-                                       "explicacao":  "A LGPD estabelece o dever de comunicar incidentes de segurança que possam acarretar risco ou dano relevante aos titulares, tanto à autoridade nacional de proteção de dados quanto aos próprios titulares afetados, além de prever a possibilidade de responsabilização civil da empresa pelos danos causados, independentemente da origem do ataque.",
-                                       "dificuldade":  "media",
-                                       "formato":  "direta"
+                                       "explicacao":  "A comunicação é dupla e em prazo razoável: vai à autoridade nacional, que fiscaliza, e a quem teve o dado exposto, que precisa se proteger. Em (c) está o distrator mais fino, porque a responsabilidade do controlador não depende de provar negligência — ela decorre do próprio tratamento, e a demonstração de que se adotou segurança adequada serve para reduzir a sanção, não para afastar o dever de comunicar. Em (d), notificar só o titular deixa a autoridade sem informação para fiscalizar. Em (b) e (e), o silêncio e a transferência de responsabilidade ao hospedeiro contrariam o dever legal."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-47",
@@ -7802,18 +7802,18 @@ window.QUESTION_BANKS = {
                                    {
                                        "id":  "atualidades-tecnologia-49",
                                        "texto_apoio":  "Governos de diferentes países têm adotado sistemas de câmeras, sensores e análise de dados para monitorar, em maior ou menor grau, o comportamento e os deslocamentos da população em espaços públicos e, em alguns casos, também em ambientes digitais.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "dificil",
                                        "enunciado":  "Uma preocupação central levantada por organizações de direitos humanos em relação à expansão desses sistemas de vigilância estatal apoiados por tecnologia é:",
                                        "alternativas":  {
-                                                            "a":  "o risco de uso desses sistemas para monitorar e reprimir opositores políticos, jornalistas e ativistas",
-                                                            "b":  "o consumo energético dos centros de processamento necessários para operar esses sistemas",
-                                                            "c":  "a garantia de que tais sistemas jamais poderiam ser usados para fins diferentes daqueles inicialmente declarados",
-                                                            "d":  "a impossibilidade técnica de essas informações serem armazenadas por mais de 24 horas em qualquer servidor",
-                                                            "e":  "a inexistência de qualquer tecnologia capaz de realizar esse tipo de monitoramento em larga escala atualmente"
+                                                            "a":  "o risco de uso para monitorar e reprimir opositores, jornalistas e ativistas",
+                                                            "b":  "o consumo energético dos centros de processamento que operam esses sistemas de vigilância",
+                                                            "c":  "a garantia de que tais sistemas não serão usados para fins não declarados",
+                                                            "d":  "a impossibilidade de armazenar essas informações por mais de 24 horas",
+                                                            "e":  "a inexistência de tecnologia capaz de monitorar em larga escala hoje"
                                                         },
                                        "resposta":  "a",
-                                       "explicacao":  "A expansão de sistemas de vigilância estatal apoiados por tecnologia levanta preocupações sobre o risco de uso desproporcional ou desviado desses sistemas para monitorar e reprimir opositores, jornalistas e ativistas, além dos efeitos de autocensura sobre a população em geral diante da sensação de vigilância constante, tema central do debate sobre direitos humanos e tecnologia.",
-                                       "dificuldade":  "dificil",
-                                       "formato":  "direta"
+                                       "explicacao":  "A objeção das organizações de direitos humanos é sobre o desvio de finalidade: uma capacidade instalada para segurança pública serve, sem alteração técnica alguma, para identificar quem protesta, quem apura e quem organiza. Em (c) está exatamente a garantia que elas afirmam inexistir, e reconhecer isso é o que a questão cobra. Em (b), o consumo energético é crítica ambiental de outra ordem. Em (d) e (e), tanto o armazenamento prolongado quanto o monitoramento em escala são tecnicamente viáveis e já praticados."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-50",
@@ -7834,34 +7834,34 @@ window.QUESTION_BANKS = {
                                    {
                                        "id":  "atualidades-tecnologia-51",
                                        "texto_apoio":  "Estudos têm associado o uso intenso de redes sociais por adolescentes a indicadores como ansiedade, comparação social constante e insatisfação com a própria imagem corporal, ainda que a relação de causalidade seja objeto de debate entre pesquisadores.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "media",
                                        "enunciado":  "Diante dessas evidências, algumas plataformas e legisladores têm discutido medidas como:",
                                        "alternativas":  {
-                                                            "a":  "a eliminação total e definitiva de qualquer interação social mediada por tecnologia entre jovens",
-                                                            "b":  "a exigência de verificação biométrica facial para criação de qualquer conta em rede social",
-                                                            "c":  "restrições de idade mínima, limites de tempo de uso e ajustes em recursos de engajamento voltados a adolescentes",
-                                                            "d":  "a obrigatoriedade de uso irrestrito de redes sociais por todos os estudantes durante o horário escolar",
-                                                            "e":  "a proibição total e permanente de qualquer rede social em todos os países do mundo democrático"
+                                                            "a":  "a exigência de verificação biométrica facial para criar conta em rede social",
+                                                            "b":  "a responsabilização penal dos pais pelo tempo de tela dos filhos menores",
+                                                            "c":  "restrições de idade, limites de tempo e ajustes nos recursos de engajamento",
+                                                            "d":  "a obrigatoriedade do uso de redes sociais nas atividades escolares regulares",
+                                                            "e":  "o bloqueio das redes sociais no país durante todo o período letivo do ano"
                                                         },
                                        "resposta":  "c",
-                                       "explicacao":  "Diante de evidências que associam o uso intenso de redes sociais a impactos na saúde mental de adolescentes, tem crescido o debate sobre medidas regulatórias e de design de produto, como restrições de idade mínima, limites de tempo de uso e ajustes em recursos que incentivam o engajamento contínuo voltados a esse público.",
-                                       "dificuldade":  "media",
-                                       "formato":  "direta"
+                                       "explicacao":  "As medidas em discussão atacam três frentes ao mesmo tempo: quem entra, por quanto tempo fica e o que o produto faz para prender a atenção de quem é menor de idade. Em (a) está o distrator mais atual, porque verificação de idade é de fato parte do debate — mas a biometria facial obrigatória é uma solução específica e controversa por criar outro problema de privacidade, e não a linha geral das propostas. Em (b), a via penal contra os pais não figura entre as medidas discutidas. Em (d) e (e), tornar o uso obrigatório ou bloquear o acesso no país inteiro vão em direções opostas às evidências."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-52",
                                        "texto_apoio":  "Recursos como notificações constantes, rolagem infinita de conteúdo e reprodução automática do próximo vídeo são incorporados deliberadamente ao design de diversos aplicativos, com o objetivo de prolongar o tempo de uso do usuário.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "dificil",
                                        "enunciado":  "Esse conjunto de técnicas de design voltadas a capturar e prolongar a atenção do usuário, muitas vezes explorando mecanismos psicológicos de recompensa, é criticado por parte dos próprios profissionais que atuaram em seu desenvolvimento sob o argumento de que:",
                                        "alternativas":  {
-                                                            "a":  "são utilizados exclusivamente em aplicativos de uso profissional, sem relação com o entretenimento",
-                                                            "b":  "priorizam o tempo de tela e o engajamento em detrimento do bem-estar do usuário, com efeitos análogos a jogos de azar",
-                                                            "c":  "foram todos banidos legalmente em escala global antes de sua efetiva implementação comercial",
-                                                            "d":  "reduzem o custo de aquisição de novos usuários por meio de indicação entre pares",
-                                                            "e":  "esses recursos não têm qualquer efeito mensurável sobre o comportamento dos usuários finais"
+                                                            "a":  "são usados apenas em aplicativos profissionais, sem relação com entretenimento",
+                                                            "b":  "priorizam tempo de tela em detrimento do bem-estar, com efeito análogo ao jogo",
+                                                            "c":  "elevam o custo de manutenção da plataforma sem retorno correspondente em receita publicitária",
+                                                            "d":  "reduzem o custo de aquisição de usuários por indicação entre pares",
+                                                            "e":  "não têm efeito mensurável sobre o comportamento dos usuários finais"
                                                         },
                                        "resposta":  "b",
-                                       "explicacao":  "Técnicas de design persuasivo, como rolagem infinita e notificações constantes, têm sido criticadas por explorar mecanismos psicológicos de recompensa semelhantes aos de jogos de azar, priorizando o tempo de tela e o engajamento do usuário em detrimento de seu bem-estar, crítica levantada inclusive por ex-profissionais que atuaram no design dessas plataformas.",
-                                       "dificuldade":  "dificil",
-                                       "formato":  "direta"
+                                       "explicacao":  "A crítica vem de dentro e é sobre o critério de sucesso: o produto é otimizado para a métrica de tempo de uso, e a recompensa variável — não se sabe o que vem na próxima rolagem — é o mesmo mecanismo que sustenta a máquina caça-níqueis. Em (c) e (d) está a inversão do interesse comercial: engajamento é o que gera receita publicitária, e por isso a crítica não é de custo, é de efeito sobre quem usa. Em (e), a eficácia desses recursos é justamente o que os torna problemáticos. Em (a), eles predominam em aplicativos de entretenimento e rede social."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-53",
@@ -7914,34 +7914,34 @@ window.QUESTION_BANKS = {
                                    {
                                        "id":  "atualidades-tecnologia-56",
                                        "texto_apoio":  "Discute-se, em diferentes países, até que ponto uma plataforma digital deve responder juridicamente por conteúdos ilícitos publicados por seus usuários, e em que medida essa responsabilização poderia incentivar a remoção excessiva de conteúdos legítimos por precaução.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "dificil",
                                        "enunciado":  "Esse debate sobre a responsabilidade de plataformas por conteúdo de terceiros envolve, sobretudo, a tensão entre:",
                                        "alternativas":  {
-                                                            "a":  "a impossibilidade técnica de qualquer plataforma identificar conteúdo ilícito publicado por usuários",
-                                                            "b":  "uniformizar internacionalmente as regras de responsabilidade civil dos provedores",
-                                                            "c":  "a garantia de que toda responsabilidade recai exclusivamente sobre o autor do conteúdo publicado",
-                                                            "d":  "a inexistência de qualquer legislação no mundo sobre esse tema, mesmo em blocos regulatórios avançados como a União Europeia",
-                                                            "e":  "coibir danos causados por conteúdos ilícitos e evitar incentivos à remoção excessiva de conteúdo lícito (efeito silenciador)"
+                                                            "a":  "a dificuldade técnica de identificar conteúdo ilícito em escala de milhões de posts",
+                                                            "b":  "a necessidade de uniformizar internacionalmente as regras de responsabilidade civil",
+                                                            "c":  "a atribuição da responsabilidade integral ao autor do conteúdo publicado",
+                                                            "d":  "a ausência de legislação sobre o tema, mesmo em blocos como a União Europeia",
+                                                            "e":  "coibir dano por conteúdo ilícito e evitar a remoção excessiva de conteúdo lícito"
                                                         },
                                        "resposta":  "e",
-                                       "explicacao":  "O debate sobre a responsabilidade de plataformas por conteúdo de terceiros busca equilibrar a necessidade de coibir danos causados por conteúdo ilícito, como discurso de ódio ou desinformação, com o risco de que uma responsabilização excessivamente ampla incentive a remoção preventiva de conteúdo legítimo, efeito conhecido como silenciamento (chilling effect) sobre a liberdade de expressão.",
-                                       "dificuldade":  "dificil",
-                                       "formato":  "direta"
+                                       "explicacao":  "A tensão é entre dois erros de sinal contrário: responsabilizar de menos deixa o dano circular, responsabilizar demais faz a plataforma remover por precaução tudo o que parecer arriscado, inclusive o que é legítimo. Em (a) está o distrator mais forte, porque a dificuldade de moderar em escala é real e alimenta o debate — só que é um obstáculo prático, e não um dos dois polos do conflito. Em (c), atribuir tudo ao autor é uma das posições, não a tensão. Em (b), a uniformização internacional é outro debate. Em (d), há legislação em vigor, inclusive na União Europeia."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-57",
                                        "texto_apoio":  "Plataformas digitais privadas definem, em seus próprios termos de uso, regras sobre quais conteúdos podem ser publicados, podendo remover postagens ou suspender contas mesmo quando o conteúdo não seria necessariamente ilegal segundo a legislação do país.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "dificil",
                                        "enunciado":  "Essa possibilidade de remoção de conteúdo por decisão exclusivamente contratual, e não apenas legal, evidencia que a liberdade de expressão em ambientes digitais privados é:",
                                        "alternativas":  {
-                                                            "a":  "absolutamente irrestrita em qualquer plataforma digital, sem qualquer possibilidade de remoção de conteúdo",
-                                                            "b":  "vinculada exclusivamente a ordem judicial prévia, sem margem para políticas próprias",
-                                                            "c":  "também condicionada por políticas privadas de moderação de conteúdo definidas pelas próprias plataformas",
-                                                            "d":  "idêntica, em todos os aspectos jurídicos, à liberdade de expressão exercida no espaço público estatal",
-                                                            "e":  "regulada exclusivamente por tratados internacionais vinculantes específicos para redes sociais globais"
+                                                            "a":  "irrestrita na plataforma, que não pode remover conteúdo lícito do usuário",
+                                                            "b":  "vinculada a ordem judicial prévia, sem margem para política própria da empresa",
+                                                            "c":  "condicionada também pelas políticas privadas de moderação de cada plataforma",
+                                                            "d":  "idêntica, no plano jurídico, à liberdade exercida em praça pública estatal",
+                                                            "e":  "regulada por tratados internacionais vinculantes específicos para as redes sociais"
                                                         },
                                        "resposta":  "c",
-                                       "explicacao":  "Como plataformas digitais são empresas privadas que definem suas próprias políticas de moderação, a liberdade de expressão nesses ambientes é também condicionada por regras contratuais, e não apenas pela legislação estatal, o que tem levado ao debate sobre até que ponto essas plataformas exercem, na prática, um papel quase público na regulação do discurso e sobre os limites dessa autonomia privada.",
-                                       "dificuldade":  "dificil",
-                                       "formato":  "direta"
+                                       "explicacao":  "Além do limite legal, existe o limite contratual: ao aceitar os termos de uso, o usuário se submete a regras que a empresa escreveu e pode aplicar sem passar pelo Judiciário. Em (d) está o erro conceitual que a questão testa — a praça pública sujeita o Estado a um dever de neutralidade que não se transfere automaticamente a um espaço privado, por mais que ele funcione como praça. Em (a) e (b), a plataforma remove sem ordem judicial e sem depender da ilicitude. Em (e), não há tratado vinculante que discipline a matéria."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-58",
@@ -7978,18 +7978,18 @@ window.QUESTION_BANKS = {
                                    {
                                        "id":  "atualidades-tecnologia-60",
                                        "texto_apoio":  "Empresas de tecnologia frequentemente prestam serviços digitais a usuários localizados em determinado país sem manter presença física ou estrutura tributável tradicional nesse território, o que dificulta a aplicação das regras usuais de tributação sobre o lucro.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "dificil",
                                        "enunciado":  "Essa dificuldade tem levado organismos internacionais e governos a discutir novas regras de tributação de empresas digitais baseadas, sobretudo, em:",
                                        "alternativas":  {
-                                                            "a":  "considerar também o local de geração de valor a partir dos usuários e dos dados, não apenas a presença física",
-                                                            "b":  "tributar exclusivamente o país onde a empresa mantém sua sede administrativa, sem considerar os usuários",
-                                                            "c":  "isentar permanentemente qualquer empresa digital de tributação em qualquer país do mundo atual",
-                                                            "d":  "eliminar totalmente a cobrança de qualquer imposto sobre lucros de empresas multinacionais digitais",
-                                                            "e":  "tributar exclusivamente o país de residência fiscal da empresa controladora do grupo"
+                                                            "a":  "considerar o local de geração de valor pelos usuários, além da presença física",
+                                                            "b":  "tributar apenas o país onde a empresa mantém sua sede administrativa",
+                                                            "c":  "fixar uma alíquota mínima global, cobrada pelo país de origem do capital",
+                                                            "d":  "transferir a arrecadação para um fundo administrado por organismo multilateral",
+                                                            "e":  "tributar a receita bruta do serviço no país de residência da controladora"
                                                         },
                                        "resposta":  "a",
-                                       "explicacao":  "A tributação de empresas digitais tem sido discutida internacionalmente com base na ideia de considerar o local de geração de valor a partir da atividade dos usuários e dos dados, e não apenas o critério tradicional de presença física da empresa em um território, buscando adaptar regras tributárias concebidas para uma economia menos digitalizada.",
-                                       "dificuldade":  "dificil",
-                                       "formato":  "direta"
+                                       "explicacao":  "O eixo da reforma é deslocar o critério: se o valor nasce da atenção e dos dados de usuários situados num país, esse país passa a ter direito de tributar parte do lucro, mesmo sem escritório da empresa em seu território. Em (c) está o distrator mais informado, porque a alíquota mínima global é de fato parte do pacote em negociação — mas ela resolve outro problema, o da corrida para o fundo do poço entre jurisdições, e não o da ausência de presença física. Em (b) e (e), tributar só na sede ou na controladora é exatamente a regra antiga. Em (d), não há fundo multilateral arrecadador em discussão."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-61",
@@ -8058,18 +8058,18 @@ window.QUESTION_BANKS = {
                                    {
                                        "id":  "atualidades-tecnologia-65",
                                        "texto_apoio":  "Estudantes têm utilizado ferramentas de inteligência artificial generativa para auxiliar na elaboração de textos e trabalhos acadêmicos, o que tem levado instituições de ensino a rever suas políticas de avaliação e integridade acadêmica.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "media",
                                        "enunciado":  "Diante desse cenário, o debate educacional sobre o uso de IA generativa por estudantes tende a se concentrar, sobretudo, em:",
                                        "alternativas":  {
-                                                            "a":  "eliminar totalmente a necessidade de qualquer forma de avaliação escrita nas escolas brasileiras",
-                                                            "b":  "como distinguir o uso da ferramenta como apoio ao aprendizado do uso que substitui o esforço intelectual do estudante",
-                                                            "c":  "como impedir tecnicamente o acesso a essas ferramentas dentro do ambiente escolar",
-                                                            "d":  "garantir que toda produção textual de estudantes seja, obrigatoriamente, gerada por inteligência artificial",
-                                                            "e":  "proibir de forma unânime e definitiva qualquer uso de tecnologia digital em ambiente escolar formal"
+                                                            "a":  "eliminar a necessidade de avaliação escrita nas escolas do país",
+                                                            "b":  "distinguir o uso como apoio ao aprendizado do uso que substitui o esforço",
+                                                            "c":  "impedir tecnicamente o acesso a essas ferramentas no ambiente escolar",
+                                                            "d":  "desenvolver detectores automáticos capazes de identificar texto gerado por máquina",
+                                                            "e":  "tornar obrigatório o uso da ferramenta nas disciplinas do currículo escolar"
                                                         },
                                        "resposta":  "b",
-                                       "explicacao":  "O debate sobre IA generativa na educação concentra-se em distinguir usos que apoiam o processo de aprendizagem daqueles que substituem integralmente o esforço intelectual do estudante, levando instituições a repensar métodos de avaliação, como maior peso a avaliações orais ou presenciais, diante da dificuldade de detectar com segurança textos gerados por IA.",
-                                       "dificuldade":  "media",
-                                       "formato":  "direta"
+                                       "explicacao":  "O problema pedagógico não é a ferramenta, é onde ela entra: usar para revisar um argumento próprio ensina, usar para produzir o argumento no lugar do estudante não. Em (d) está o distrator mais realista, porque escolas realmente tentaram esse caminho — os detectores, porém, erram nos dois sentidos e acusam texto humano, de modo que o debate se deslocou da fiscalização para o desenho da avaliação. Em (c), bloquear o acesso na escola não alcança o uso em casa. Em (a) e (e), abolir a escrita ou torná-la obrigatoriamente assistida são extremos ausentes do debate."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-66",
@@ -8106,34 +8106,34 @@ window.QUESTION_BANKS = {
                                    {
                                        "id":  "atualidades-tecnologia-68",
                                        "texto_apoio":  "Braços robóticos e sistemas automatizados de montagem têm substituído, em diversas linhas de produção industrial, tarefas repetitivas antes realizadas por trabalhadores humanos.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "media",
                                        "enunciado":  "Um dos principais desafios de política pública associados à automação industrial em larga escala é:",
                                        "alternativas":  {
-                                                            "a":  "a impossibilidade técnica de qualquer robô executar tarefas de montagem industrial complexas",
-                                                            "b":  "a garantia automática de que nenhum trabalhador jamais será afetado pela automação industrial",
-                                                            "c":  "viabilizar programas de requalificação profissional para realocar trabalhadores deslocados",
-                                                            "d":  "a definição de um piso salarial específico para ocupações expostas à automação",
-                                                            "e":  "a proibição legal e definitiva de qualquer uso de robótica na indústria automotiva"
+                                                            "a":  "a dificuldade técnica de o robô executar montagem industrial complexa",
+                                                            "b":  "a garantia de que nenhum trabalhador será afetado pela automação",
+                                                            "c":  "viabilizar requalificação profissional para realocar trabalhadores deslocados",
+                                                            "d":  "a definição de um piso salarial específico para as ocupações expostas à automação",
+                                                            "e":  "tributar o robô para compensar a arrecadação previdenciária perdida"
                                                         },
                                        "resposta":  "c",
-                                       "explicacao":  "Diante da substituição de tarefas repetitivas por sistemas automatizados na indústria, um dos principais desafios de política pública é viabilizar programas de requalificação profissional que permitam a realocação de trabalhadores deslocados para funções que exijam competências distintas, muitas vezes ligadas à supervisão e manutenção dos próprios sistemas automatizados.",
-                                       "dificuldade":  "media",
-                                       "formato":  "direta"
+                                       "explicacao":  "O emprego perdido e o emprego criado pela automação raramente cabem na mesma pessoa: exigem outra qualificação, muitas vezes em outro setor, e é essa travessia que a política pública precisa financiar. Em (e) está o distrator mais interessante, porque a tributação do robô é proposta séria e discutida — mas endereça a receita do Estado, e não a recolocação de quem perdeu o posto. Em (b), nenhuma política garante ausência de impacto. Em (d), piso salarial setorial não responde ao deslocamento. Em (a), a capacidade técnica dos robôs é a premissa do problema, não o desafio."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-69",
                                        "texto_apoio":  "Museus, universidades e festivais culturais têm passado a reconhecer jogos eletrônicos como objeto de estudo e de exposição, ao lado de outras formas tradicionais de expressão artística e de entretenimento de massa.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "media",
                                        "enunciado":  "Esse reconhecimento crescente dos jogos eletrônicos evidencia, sobretudo, que essa forma de entretenimento:",
                                        "alternativas":  {
-                                                            "a":  "depende do reconhecimento formal dessas competições como modalidade esportiva olímpica",
-                                                            "b":  "permanece restrita a um público extremamente reduzido, sem qualquer relevância cultural ou econômica",
-                                                            "c":  "é reconhecida exclusivamente como ferramenta educacional, sem qualquer dimensão de entretenimento",
-                                                            "d":  "deixou de gerar qualquer receita comercial relevante para a indústria do entretenimento atual",
-                                                            "e":  "tem sido incorporada ao debate sobre cultura de massa contemporânea, ao lado do cinema, da televisão e da música"
+                                                            "a":  "depende do reconhecimento dessas competições como modalidade esportiva de nível olímpico",
+                                                            "b":  "permanece restrita a público reduzido, sem relevância cultural ou econômica",
+                                                            "c":  "é reconhecida como ferramenta educacional, sem dimensão de entretenimento",
+                                                            "d":  "deixou de gerar receita relevante para a indústria do entretenimento",
+                                                            "e":  "foi incorporada ao debate sobre cultura de massa, ao lado do cinema e da TV"
                                                         },
                                        "resposta":  "e",
-                                       "explicacao":  "O reconhecimento crescente de jogos eletrônicos por instituições culturais evidencia sua incorporação ao debate sobre cultura de massa contemporânea, ao lado de formas mais tradicionais como cinema, televisão e música, tanto pelo alcance de público global quanto pelo potencial narrativo e artístico reconhecido em parte da produção do setor.",
-                                       "dificuldade":  "media",
-                                       "formato":  "direta"
+                                       "explicacao":  "Entrar em museu e em universidade é o trajeto que o cinema e a fotografia já percorreram: deixar de ser passatempo menor e virar objeto legítimo de análise e de acervo. Em (a) está a confusão entre duas discussões distintas — o reconhecimento cultural descrito no enunciado independe de os e-sports serem ou não modalidade olímpica, que é debate esportivo. Em (b) e (d), o setor é hoje o de maior receita do entretenimento. Em (c), o reconhecimento é justamente como forma cultural e de entretenimento, não apenas como recurso didático."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-70",
@@ -8218,18 +8218,18 @@ window.QUESTION_BANKS = {
                                    {
                                        "id":  "atualidades-tecnologia-75",
                                        "texto_apoio":  "Diversos jogos eletrônicos, inclusive alguns voltados a públicos infantis e adolescentes, oferecem compras dentro do próprio jogo, incluindo pacotes de itens com conteúdo aleatório e desconhecido no momento da compra.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "dificil",
                                        "enunciado":  "Esse mecanismo de compra de itens com resultado aleatório dentro de jogos eletrônicos, conhecido como loot box, tem sido comparado por parte de legisladores e pesquisadores a:",
                                        "alternativas":  {
-                                                            "a":  "prática já uniformemente proibida em todos os países do mundo ocidental e oriental",
-                                                            "b":  "mecanismos de apostas, dado o elemento de aleatoriedade associado a uma recompensa incerta",
-                                                            "c":  "microtransações de personalização estética, sem efeito sobre o desempenho no jogo",
-                                                            "d":  "mecanismo isento de qualquer forma de regulação ou debate público em qualquer país do mundo",
-                                                            "e":  "conteúdo exclusivamente educativo, sem qualquer componente financeiro ou de risco associado"
+                                                            "a":  "prática já proibida por lei na maior parte dos países europeus",
+                                                            "b":  "mecanismos de aposta, pela aleatoriedade associada a recompensa incerta",
+                                                            "c":  "microtransação estética, sem efeito sobre o desempenho dentro do jogo",
+                                                            "d":  "publicidade infantil dirigida, sujeita às regras do Código de Defesa do Consumidor",
+                                                            "e":  "conteúdo educativo, sem componente financeiro ou de risco para o jogador"
                                                         },
                                        "resposta":  "b",
-                                       "explicacao":  "As loot boxes, por envolverem pagamento em troca de um resultado aleatório e incerto, têm sido comparadas por parte de legisladores e pesquisadores a mecanismos de apostas, o que motivou debates em diferentes países sobre sua regulação, sobretudo em jogos acessados por crianças e adolescentes.",
-                                       "dificuldade":  "dificil",
-                                       "formato":  "direta"
+                                       "explicacao":  "Paga-se antes de saber o que se leva, e a recompensa variável é o traço que define o jogo de azar — daí a comparação, que sustentou a proibição em alguns países e a exigência de exibir probabilidades em outros. Em (d) está o enquadramento alternativo mais forte, e ele é real na discussão brasileira, mas trata do modo de anunciar a criança, e não do mecanismo aleatório em si. Em (a), a proibição existe em poucos países, e não na maior parte. Em (c) e (e), a compra estética sem sorteio e o conteúdo educativo são justamente os casos que ficam fora da comparação."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-76",
@@ -8250,50 +8250,50 @@ window.QUESTION_BANKS = {
                                    {
                                        "id":  "atualidades-tecnologia-77",
                                        "texto_apoio":  "Relógios e pulseiras inteligentes registram continuamente dados como frequência cardíaca, padrões de sono e nível de atividade física do usuário, muitas vezes sincronizados com aplicativos que armazenam esse histórico em servidores remotos.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "media",
                                        "enunciado":  "Do ponto de vista da proteção de dados, as informações coletadas por esses dispositivos vestíveis (wearables) são consideradas, em geral:",
                                        "alternativas":  {
-                                                            "a":  "dados exclusivamente de propriedade do fabricante do dispositivo, sem direito do titular",
-                                                            "b":  "dados sensíveis relacionados à saúde, com exigências mais rigorosas de proteção",
-                                                            "c":  "dados irrelevantes, sem qualquer proteção jurídica específica prevista em lei",
-                                                            "d":  "dados de identificação, categoria comum que dispensa base legal específica",
-                                                            "e":  "dados de domínio público, livremente comercializáveis sem qualquer restrição"
+                                                            "a":  "dados de propriedade do fabricante, sem direito de acesso pelo titular",
+                                                            "b":  "dados sensíveis de saúde, com exigências mais rigorosas de proteção",
+                                                            "c":  "dados anonimizados, fora do alcance da lei de proteção de dados",
+                                                            "d":  "dados de identificação, categoria comum que dispensa base legal própria",
+                                                            "e":  "dados de domínio público, comercializáveis sem restrição pelo aplicativo"
                                                         },
                                        "resposta":  "b",
-                                       "explicacao":  "Dados de saúde coletados por dispositivos vestíveis, como frequência cardíaca e padrões de sono, são classificados como dados sensíveis por legislações de proteção de dados, sujeitos a exigências mais rigorosas de tratamento, dado seu maior potencial de gerar discriminação ou dano ao titular caso sejam utilizados de forma inadequada.",
-                                       "dificuldade":  "media",
-                                       "formato":  "direta"
+                                       "explicacao":  "Batimento, sono e esforço físico dizem respeito à saúde, e a lei reserva a essa categoria um regime mais estrito, com hipóteses de tratamento reduzidas e consentimento destacado. Em (c) está o distrator mais técnico e o mais tentador: dado verdadeiramente anonimizado fica mesmo fora da lei, só que o histórico contínuo de um mesmo pulso é identificável por natureza, e não se anonimiza sem perder utilidade. Em (d), tratá-los como dado comum é o que a classificação como sensível impede. Em (a) e (e), o titular conserva direitos sobre eles, que não são mercadoria livre."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-78",
                                        "texto_apoio":  "Veículos modernos equipados com conectividade à internet registram continuamente dados como localização, velocidade, padrões de frenagem e, em alguns casos, até gravações de câmeras internas e externas.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "dificil",
                                        "enunciado":  "A coleta contínua desses dados por veículos conectados levanta questões jurídicas relevantes sobre:",
                                        "alternativas":  {
-                                                            "a":  "a inexistência de qualquer diferença entre veículos conectados e veículos sem qualquer sistema eletrônico",
-                                                            "b":  "a impossibilidade técnica de qualquer veículo registrar dados de localização via GPS ou telemetria",
-                                                            "c":  "a obrigatoriedade automática de compartilhamento de todos os dados do veículo com qualquer terceiro interessado, sem exceção",
-                                                            "d":  "a propriedade e o controle sobre os dados gerados pelo veículo, e quem pode acessá-los em quais condições",
-                                                            "e":  "a exigência de homologação prévia de cada software embarcado por autoridade de trânsito"
+                                                            "a":  "a inexistência de diferença entre veículo conectado e veículo sem eletrônica",
+                                                            "b":  "a impossibilidade técnica de registrar localização por GPS ou telemetria",
+                                                            "c":  "a obrigação de compartilhar os dados do veículo com terceiros interessados",
+                                                            "d":  "a propriedade e o controle sobre esses dados, e quem pode acessá-los",
+                                                            "e":  "a homologação prévia de cada software embarcado pela autoridade de trânsito"
                                                         },
                                        "resposta":  "d",
-                                       "explicacao":  "A coleta contínua de dados por veículos conectados levanta questões jurídicas sobre a propriedade e o controle desses dados, e sobre em que condições fabricantes, seguradoras ou autoridades públicas podem acessá-los, tema que se conecta diretamente ao debate mais amplo sobre proteção de dados pessoais e privacidade na era digital.",
-                                       "dificuldade":  "dificil",
-                                       "formato":  "direta"
+                                       "explicacao":  "A pergunta jurídica que o caso abre é de titularidade: o dado é do motorista, do proprietário, da montadora ou da seguradora, e em que hipóteses a polícia ou um tribunal pode acessá-lo. Em (c) está a inversão do problema — o compartilhamento indiscriminado é o risco a ser disciplinado, e não uma obrigação existente. Em (e), a homologação de software é questão regulatória distinta, sobre segurança veicular. Em (a) e (b), a diferença entre os veículos e a capacidade de registro são a premissa do enunciado."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-79",
                                        "texto_apoio":  "Sistemas de controle de usinas de energia, estações de tratamento de água e redes de distribuição elétrica têm sido cada vez mais informatizados e conectados a redes digitais, o que amplia a eficiência operacional, mas também a superfície de ataque a esses sistemas.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "dificil",
                                        "enunciado":  "A crescente digitalização de infraestruturas críticas, como energia e saneamento, torna a cibersegurança desses setores uma questão de:",
                                        "alternativas":  {
-                                                            "a":  "importância apenas para empresas privadas, sem qualquer interesse do poder público federal",
-                                                            "b":  "questão exclusivamente contratual entre concessionária e órgão regulador do setor",
-                                                            "c":  "risco meramente hipotético, sem qualquer caso documentado de ataque a infraestrutura crítica no mundo",
-                                                            "d":  "segurança nacional e continuidade de serviços essenciais à população, sujeitos a ataques com efeitos amplos",
-                                                            "e":  "relevância exclusivamente técnica, sem qualquer conexão com a segurança pública ou nacional"
+                                                            "a":  "relevância apenas para as empresas privadas que operam as concessões",
+                                                            "b":  "matéria contratual entre a concessionária e o órgão regulador do setor",
+                                                            "c":  "risco hipotético, sem caso documentado de ataque a infraestrutura crítica",
+                                                            "d":  "segurança nacional e continuidade de serviços essenciais à população",
+                                                            "e":  "problema técnico a ser resolvido pela equipe de informática de cada operadora"
                                                         },
                                        "resposta":  "d",
-                                       "explicacao":  "A digitalização de infraestruturas críticas, como energia, água e saneamento, torna a cibersegurança desses setores uma questão de segurança nacional e de continuidade de serviços essenciais, já que um ataque bem-sucedido pode interromper o fornecimento desses serviços a grandes contingentes populacionais, com efeitos que extrapolam o âmbito puramente técnico.",
-                                       "dificuldade":  "dificil",
-                                       "formato":  "direta"
+                                       "explicacao":  "Quando o alvo é a rede elétrica ou o tratamento de água, a falha não fica na empresa: atinge hospital, semáforo e abastecimento, e por isso o tema saiu do departamento de tecnologia e entrou na pauta de defesa nacional. Em (e) está a leitura que a questão quer corrigir — tratar como assunto de equipe de informática é o enquadramento que a interdependência dos serviços tornou insuficiente. Em (a) e (b), o interesse público excede a relação entre concessionária e regulador. Em (c), há casos documentados de ataque a usinas e a sistemas de água."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-80",
@@ -8314,50 +8314,50 @@ window.QUESTION_BANKS = {
                                    {
                                        "id":  "atualidades-tecnologia-81",
                                        "texto_apoio":  "Diversos países dependem, em grande medida, de serviços de nuvem, cabos de comunicação submarinos e componentes de hardware fornecidos por um número reduzido de empresas ou países estrangeiros para operar sua infraestrutura digital essencial.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "dificil",
                                        "enunciado":  "Essa dependência tem levado governos a debater políticas voltadas ao fortalecimento da chamada soberania digital, que busca, sobretudo:",
                                        "alternativas":  {
-                                                            "a":  "transferir toda a infraestrutura digital mundial para um único país soberano e centralizado",
-                                                            "b":  "eliminar totalmente qualquer forma de cooperação internacional em tecnologia e inovação",
-                                                            "c":  "proibir de forma permanente o uso de qualquer tecnologia desenvolvida fora do território nacional",
-                                                            "d":  "eliminar a dependência de energia elétrica dos centros de processamento de dados",
-                                                            "e":  "reduzir vulnerabilidades estratégicas ligadas à dependência de infraestrutura digital estrangeira"
+                                                            "a":  "transferir a infraestrutura digital mundial para um único país centralizador de dados",
+                                                            "b":  "eliminar a cooperação internacional em tecnologia e inovação entre países",
+                                                            "c":  "proibir o uso de tecnologia desenvolvida fora do território nacional",
+                                                            "d":  "desenvolver capacidade própria de fabricação de semicondutores de ponta",
+                                                            "e":  "reduzir vulnerabilidades ligadas à dependência de infraestrutura estrangeira"
                                                         },
                                        "resposta":  "e",
-                                       "explicacao":  "O conceito de soberania digital envolve políticas voltadas a reduzir vulnerabilidades estratégicas associadas à dependência de infraestrutura digital controlada por um número reduzido de atores estrangeiros — como serviços de nuvem e hardware —, sem que isso implique necessariamente o rompimento completo da cooperação e integração tecnológica internacional.",
-                                       "dificuldade":  "dificil",
-                                       "formato":  "direta"
+                                       "explicacao":  "Soberania digital não é autarquia: é reduzir o poder que um fornecedor ou um governo estrangeiro tem de interromper, vigiar ou condicionar serviços dos quais o país não consegue prescindir. Em (d) está o distrator mais forte, porque a fabricação de semicondutores é de fato um dos caminhos perseguidos — mas é um item da agenda, e não o objetivo, que abarca também data centers locais, rotas de cabo alternativas e regras de armazenamento. Em (b) e (c), autossuficiência total e proibição de tecnologia estrangeira são inviáveis e não constam das políticas. Em (a), centralizar em um país é o oposto do conceito."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-82",
                                        "texto_apoio":  "Com a expansão das plataformas de streaming, tornou-se comum que o espectador brasileiro escolha entre assistir a uma produção estrangeira dublada em português ou legendada, mantendo o áudio original.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "dificil",
                                        "enunciado":  "Do ponto de vista da adaptação cultural de conteúdo audiovisual, a dublagem se diferencia da legendagem, sobretudo, por:",
                                        "alternativas":  {
-                                                            "a":  "envolver um processo de tradução e adaptação mais completo, com ajustes culturais e troca integral do áudio",
-                                                            "b":  "restringir-se à tradução literal dos diálogos, preservando integralmente as referências originais",
-                                                            "c":  "ser tecnicamente idêntica à legendagem, sem qualquer diferença de processo de adaptação",
-                                                            "d":  "eliminar totalmente qualquer perda de nuance do áudio e do roteiro original da obra",
-                                                            "e":  "ser exigida por lei em todos os países que consomem produções estrangeiras atualmente"
+                                                            "a":  "envolver tradução e adaptação mais completas, com troca integral do áudio",
+                                                            "b":  "restringir-se à tradução literal dos diálogos, preservando as referências originais",
+                                                            "c":  "ser tecnicamente idêntica à legendagem, sem diferença de processo",
+                                                            "d":  "evitar a perda de nuance do áudio e do roteiro original da obra",
+                                                            "e":  "ser exigida por lei nos países que consomem produção estrangeira"
                                                         },
                                        "resposta":  "a",
-                                       "explicacao":  "A dublagem envolve um processo de tradução e adaptação cultural mais amplo do que a legendagem, podendo incluir ajustes de piadas, expressões idiomáticas e referências culturais ao contexto do público local, além da substituição integral do áudio original, o que gera debates sobre fidelidade à obra original e sobre as preferências de consumo do público em diferentes países.",
-                                       "dificuldade":  "dificil",
-                                       "formato":  "direta"
+                                       "explicacao":  "Dublar é refazer a faixa sonora: a fala precisa caber no movimento da boca e no tempo da cena, o que obriga a reescrever piada, gíria e referência local — trabalho de adaptação que a legenda, sobreposta ao áudio original, não realiza. Em (b) está a inversão dos dois processos, já que é a legenda que fica mais presa ao literal. Em (d), a dublagem substitui a interpretação original e por isso perde nuance, em vez de preservá-la. Em (c), os processos são distintos em custo e método. Em (e), não há exigência legal desse tipo."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-83",
                                        "texto_apoio":  "Documentários e séries sobre crimes reais, muitas vezes explorando casos de grande repercussão pública, tornaram-se um dos gêneros de maior audiência em plataformas de streaming nos últimos anos.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "media",
                                        "enunciado":  "O crescimento desse gênero, conhecido como true crime, tem sido acompanhado de um debate ético sobre:",
                                        "alternativas":  {
-                                                            "a":  "a garantia de que esse tipo de produção nunca influencia a opinião pública sobre processos judiciais em andamento",
-                                                            "b":  "a impossibilidade técnica de produzir qualquer conteúdo documental sobre casos criminais reais atuais",
-                                                            "c":  "a proibição legal, em qualquer país democrático, de produções audiovisuais sobre crimes reais",
-                                                            "d":  "a dificuldade técnica de verificar a autenticidade de gravações usadas como fonte",
-                                                            "e":  "os limites entre o interesse jornalístico do gênero e o risco de exploração sensacionalista das vítimas"
+                                                            "a":  "a garantia de que o gênero não influencia processos judiciais em andamento",
+                                                            "b":  "a impossibilidade técnica de produzir documentário sobre caso criminal real",
+                                                            "c":  "a proibição legal de produções audiovisuais sobre crimes reais no país",
+                                                            "d":  "a dificuldade técnica de verificar a autenticidade das gravações usadas",
+                                                            "e":  "os limites entre o interesse jornalístico e a exploração das vítimas"
                                                         },
                                        "resposta":  "e",
-                                       "explicacao":  "O crescimento do gênero true crime nas plataformas de streaming tem sido acompanhado de debate ético sobre os limites entre seu potencial interesse jornalístico e educativo e o risco de exploração sensacionalista do sofrimento de vítimas e familiares, além de preocupações sobre a possível influência desse tipo de produção sobre a percepção pública de processos judiciais ainda em curso.",
-                                       "dificuldade":  "media",
-                                       "formato":  "direta"
+                                       "explicacao":  "A questão ética do gênero é de medida: o mesmo caso pode ser tratado como apuração de interesse público ou como espetáculo que reexpõe vítimas e familiares para render audiência, e a fronteira entre as duas coisas nem sempre é nítida. Em (a) está uma preocupação real do debate apresentada com o sinal invertido — o problema é justamente a influência sobre processos em curso, e não a garantia de que ela não ocorre. Em (d), a verificação de fontes é exigência jornalística geral. Em (b) e (c), o gênero é produzido em escala e não é proibido."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-84",
@@ -8410,18 +8410,18 @@ window.QUESTION_BANKS = {
                                    {
                                        "id":  "atualidades-tecnologia-87",
                                        "texto_apoio":  "Alguns sistemas, implementados em diferentes contextos ao redor do mundo, atribuem a cada indivíduo uma pontuação numérica baseada em seu comportamento observado — incluindo hábitos de consumo, cumprimento de obrigações e interações sociais —, que pode influenciar seu acesso a determinados serviços ou benefícios.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "dificil",
                                        "enunciado":  "Entre as principais críticas a esse tipo de sistema de pontuação social apoiado em tecnologia está o risco de:",
                                        "alternativas":  {
-                                                            "a":  "eliminar totalmente qualquer forma de desigualdade social entre os indivíduos avaliados no sistema",
+                                                            "a":  "reduzir a desigualdade social entre os indivíduos avaliados pelo sistema",
                                                             "b":  "depender de infraestrutura de conectividade indisponível em áreas rurais",
-                                                            "c":  "não gerar qualquer forma de discriminação, já que se baseia exclusivamente em dados objetivos",
-                                                            "d":  "ampliar a eficiência do Estado sem qualquer efeito colateral sobre a liberdade individual dos cidadãos",
-                                                            "e":  "criar mecanismos de controle social e vigilância comportamental que restringem direitos individuais"
+                                                            "c":  "reproduzir vieses já presentes nos dados que alimentam a pontuação",
+                                                            "d":  "ampliar a eficiência estatal sem efeito colateral sobre a liberdade individual",
+                                                            "e":  "criar mecanismos de controle e vigilância que restringem direitos individuais"
                                                         },
                                        "resposta":  "e",
-                                       "explicacao":  "Sistemas de pontuação social apoiados em tecnologia são criticados por criarem mecanismos de controle e vigilância comportamental que podem restringir direitos e liberdades individuais com base em critérios pouco transparentes, levantando preocupações sobre privacidade, devido processo e o risco de uso político ou discriminatório dessas avaliações.",
-                                       "dificuldade":  "dificil",
-                                       "formato":  "direta"
+                                       "explicacao":  "A crítica central é política: quando a nota decide acesso a crédito, transporte ou emprego, ela vira instrumento de conformação de conduta, e a vigilância deixa de observar para passar a dirigir o comportamento. Em (c) está a objeção correta e mais estreita — o viés dos dados é problema real desses sistemas, mas descreve uma falha técnica corrigível, enquanto a crítica principal atinge o desenho mesmo do mecanismo. Em (a) e (d), reduzir desigualdade e não ter efeito sobre a liberdade são o contrário do risco apontado. Em (b), conectividade é obstáculo de implantação."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-88",
@@ -8474,18 +8474,18 @@ window.QUESTION_BANKS = {
                                    {
                                        "id":  "atualidades-tecnologia-91",
                                        "texto_apoio":  "Grupos musicais originários da Coreia do Sul conquistaram audiência expressiva em diferentes continentes, impulsionados fortemente pela divulgação de conteúdo e pela mobilização de fãs em redes sociais, e não apenas pelos meios tradicionais de distribuição musical.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "media",
                                        "enunciado":  "Esse fenômeno de alcance global de um produto cultural originado fora dos tradicionais centros de produção da indústria do entretenimento ilustra, sobretudo:",
                                        "alternativas":  {
-                                                            "a":  "como redes sociais e plataformas digitais podem reconfigurar os fluxos tradicionais de circulação da cultura de massa",
-                                                            "b":  "a impossibilidade de qualquer produto cultural não ocidental alcançar audiência internacional relevante hoje",
-                                                            "c":  "a padronização internacional dos catálogos das plataformas, idênticos em todos os países",
-                                                            "d":  "a substituição definitiva da indústria musical norte-americana e europeia por produções asiáticas em todo o mundo",
-                                                            "e":  "a exigência de que toda produção cultural asiática seja obrigatoriamente cantada em inglês para alcançar audiência internacional"
+                                                            "a":  "como plataformas digitais reconfiguram os fluxos de circulação da cultura de massa",
+                                                            "b":  "a impossibilidade de produto cultural não ocidental alcançar público internacional",
+                                                            "c":  "a padronização dos catálogos das plataformas, iguais em todos os países",
+                                                            "d":  "a substituição da indústria musical norte-americana por produções asiáticas",
+                                                            "e":  "a exigência de que a produção asiática seja cantada em inglês para exportar"
                                                         },
                                        "resposta":  "a",
-                                       "explicacao":  "O sucesso internacional de grupos musicais originados fora dos tradicionais centros da indústria do entretenimento, impulsionado por redes sociais e plataformas digitais, ilustra como essas tecnologias podem reconfigurar os fluxos tradicionais de circulação da cultura de massa, ampliando o alcance internacional de produções culturais de diferentes origens sem depender exclusivamente dos meios de distribuição tradicionais.",
-                                       "dificuldade":  "media",
-                                       "formato":  "direta"
+                                       "explicacao":  "O que mudou foi o caminho: a distribuição deixou de depender de gravadora e rádio dos centros tradicionais, e a mobilização organizada de fãs em rede passou a produzir alcance internacional a partir da periferia do sistema. Em (d) está o excesso mais tentador — reconhecer a reconfiguração dos fluxos não significa substituição, e as indústrias norte-americana e europeia seguem dominantes em receita. Em (b), o próprio fenômeno desmente a impossibilidade. Em (c), os catálogos variam por país. Em (e), boa parte do repertório é cantada em coreano."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-92",
@@ -8570,18 +8570,18 @@ window.QUESTION_BANKS = {
                                    {
                                        "id":  "atualidades-tecnologia-97",
                                        "texto_apoio":  "Uma grande plataforma digital já estabelecida acumula, ao longo do tempo, um volume expressivo de dados sobre o comportamento de seus usuários, o que lhe permite oferecer produtos mais personalizados e eficientes do que uma nova empresa entrante, que ainda não dispõe desse histórico.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "dificil",
                                        "enunciado":  "Esse acúmulo de dados como vantagem competitiva, somado ao efeito de rede, é apontado por analistas de concorrência como um fator que pode:",
                                        "alternativas":  {
-                                                            "a":  "não ter qualquer relação com o debate sobre concentração de mercado na economia digital atual",
-                                                            "b":  "elevar as barreiras de entrada para novos concorrentes em mercados digitais dominados por poucas plataformas",
-                                                            "c":  "facilitar a entrada de novos concorrentes no mercado digital em igualdade de condições plenas",
-                                                            "d":  "eliminar totalmente qualquer relevância dos dados para o funcionamento de plataformas digitais",
-                                                            "e":  "reduzir o custo de aquisição de clientes por meio de recomendação personalizada"
+                                                            "a":  "não ter relação com o debate sobre concentração de mercado na economia digital",
+                                                            "b":  "elevar as barreiras de entrada em mercados dominados por poucas plataformas",
+                                                            "c":  "facilitar a entrada de novos concorrentes em igualdade de condições",
+                                                            "d":  "eliminar a relevância dos dados para o funcionamento dessas plataformas",
+                                                            "e":  "reduzir o custo de aquisição de clientes por recomendação personalizada"
                                                         },
                                        "resposta":  "b",
-                                       "explicacao":  "O acúmulo de dados por grandes plataformas já estabelecidas, combinado ao efeito de rede, é apontado como fator que eleva as barreiras de entrada para novos concorrentes, dificultando a competição em mercados digitais e reforçando a concentração de poder econômico em poucas grandes empresas de tecnologia, tema central do debate antitruste contemporâneo.",
-                                       "dificuldade":  "dificil",
-                                       "formato":  "direta"
+                                       "explicacao":  "A vantagem se retroalimenta: mais usuários geram mais dados, que melhoram o produto, que atrai mais usuários — e o entrante precisa competir sem o histórico que só o tempo de operação fornece. Em (e) está o efeito verdadeiro, mas visto do lado errado: a recomendação personalizada de fato barateia a captação de clientes para quem já tem os dados, e é justamente por isso que ela funciona como barreira para quem não tem. Em (c), a assimetria impede a igualdade de condições. Em (a) e (d), o acúmulo de dados é o centro do debate concorrencial, não algo alheio a ele."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-98",
@@ -8602,34 +8602,34 @@ window.QUESTION_BANKS = {
                                    {
                                        "id":  "atualidades-tecnologia-99",
                                        "texto_apoio":  "Mecanismos de busca utilizam critérios próprios, não totalmente públicos, para decidir a ordem em que exibem resultados a partir de uma pesquisa, o que influencia diretamente quais fontes de informação um usuário tende a acessar primeiro.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "media",
                                        "enunciado":  "Essa capacidade de mecanismos de busca de influenciar a visibilidade relativa de diferentes fontes de informação é discutida, no debate sobre governança da informação, como um exemplo de:",
                                        "alternativas":  {
-                                                            "a":  "otimização para mecanismos de busca, conjunto de técnicas para elevar a posição de um site",
-                                                            "b":  "ausência total de qualquer influência sobre o comportamento informacional dos usuários",
-                                                            "c":  "neutralidade absoluta e comprovada de todo mecanismo de busca existente no mundo atual",
-                                                            "d":  "obrigatoriedade legal universal de exibir resultados em ordem estritamente alfabética",
-                                                            "e":  "poder de guardião da informação (gatekeeping), que levanta questões sobre transparência de critérios de busca"
+                                                            "a":  "otimização para mecanismos de busca, técnicas para elevar a posição de um site",
+                                                            "b":  "ausência de influência sobre o comportamento informacional dos usuários",
+                                                            "c":  "neutralidade comprovada dos mecanismos de busca em operação hoje",
+                                                            "d":  "obrigação legal de exibir os resultados em ordem estritamente alfabética",
+                                                            "e":  "poder de guardião da informação, que suscita questões de transparência"
                                                         },
                                        "resposta":  "e",
-                                       "explicacao":  "Mecanismos de busca exercem um papel de guardião da informação (gatekeeping) ao decidir, por critérios próprios e não totalmente públicos, a ordem de exibição de resultados, o que influencia diretamente quais fontes os usuários tendem a acessar primeiro, levantando questões sobre transparência algorítmica e eventual favorecimento comercial de determinados conteúdos.",
-                                       "dificuldade":  "media",
-                                       "formato":  "direta"
+                                       "explicacao":  "Quem decide a ordem decide o que será lido, já que a atenção se concentra nos primeiros resultados — e como o critério não é público, o poder se exerce sem que se possa auditá-lo. Em (a) está o conceito espelhado e o distrator mais forte: a otimização é o que os sites fazem para subir no ranking, movimento de quem se submete ao critério, enquanto o enunciado descreve o poder de quem define o critério. Em (b) e (c), a influência e a ausência de neutralidade são a premissa da questão. Em (d), não existe obrigação de ordenação alfabética."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-100",
                                        "texto_apoio":  "Diferentes países têm adotado abordagens distintas para regular o desenvolvimento e o uso de sistemas de inteligência artificial, variando desde regras mais detalhadas e restritivas até abordagens mais flexíveis, voltadas a não frear a inovação tecnológica.",
+                                       "formato":  "direta",
+                                       "dificuldade":  "dificil",
                                        "enunciado":  "Essa divergência internacional na regulação da inteligência artificial cria um desafio adicional relacionado a:",
                                        "alternativas":  {
-                                                            "a":  "empresas que operam globalmente terem de lidar com exigências regulatórias distintas conforme o país",
-                                                            "b":  "impossibilidade técnica de qualquer país regular o desenvolvimento de inteligência artificial",
-                                                            "c":  "a legislação do país de origem do modelo prevalece sobre a do país onde ele é utilizado",
-                                                            "d":  "inexistência de qualquer diferença prática entre as abordagens regulatórias adotadas por diferentes países",
-                                                            "e":  "obrigatoriedade automática de adoção de uma regra internacional única e vinculante para todos os países do mundo"
+                                                            "a":  "empresas globais terem de atender exigências distintas conforme o país",
+                                                            "b":  "a impossibilidade técnica de um país regular o desenvolvimento de IA",
+                                                            "c":  "a lei do país de origem do modelo prevalecer automaticamente sobre a do país de uso",
+                                                            "d":  "a inexistência de diferença prática entre as abordagens regulatórias",
+                                                            "e":  "a adoção de uma regra internacional única e vinculante para os países"
                                                         },
                                        "resposta":  "a",
-                                       "explicacao":  "A divergência entre modelos regulatórios de inteligência artificial adotados por diferentes países cria desafios para empresas que operam globalmente, que precisam se adaptar a exigências distintas conforme a jurisdição, além do risco de que diferenças regulatórias afetem de forma desigual a competitividade das empresas e a proteção de direitos dos cidadãos entre regiões com regras mais ou menos rigorosas.",
-                                       "dificuldade":  "dificil",
-                                       "formato":  "direta"
+                                       "explicacao":  "Um mesmo modelo, oferecido em dezenas de países, passa a ter de cumprir requisitos incompatíveis entre si, o que produz custo de conformidade e, em alguns casos, versões diferentes do produto por jurisdição. Em (c) está a suposição jurídica errada que a questão testa: não há prevalência automática da lei de origem, e é precisamente por isso que a divergência gera problema. Em (e), a regra internacional única é a solução hipotética que não existe. Em (d), a diferença entre as abordagens é a premissa. Em (b), vários países já legislaram sobre o tema."
                                    }
                                ],
     "ciencias-natureza":  [
@@ -12054,17 +12054,17 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "filosofia-sociologia-05",
                                      "texto_apoio":  "O utilitarismo avalia a moralidade de uma ação pelos seus efeitos, buscando maximizar o bem-estar do maior número de pessoas afetadas.",
+                                     "formato":  "direta",
                                      "enunciado":  "Esse princípio ajuda a compreender a lógica por trás de qual dos seguintes debates contemporâneos sobre inteligência artificial?",
                                      "alternativas":  {
-                                                          "a":  "qualquer decisão tomada por um carro autônomo, mesmo quando não há escolha entre cursos de ação com consequências distintas para vidas humanas, hipótese que dispensa a existência de consequências diferenciadas, justamente o que o utilitarismo exige para orientar a escolha",
-                                                          "b":  "a exigência legal de que veículos autônomos registrem em vídeo todas as decisões tomadas em situação de emergência",
-                                                          "c":  "a defesa de que carros autônomos devem seguir regras fixas e universais, sem qualquer consideração pelas consequências práticas de cada situação, proposta que se aproxima antes de uma ética deontológica de regras fixas do que do cálculo utilitarista de consequências",
-                                                          "d":  "a ideia de que toda decisão algorítmica é, do ponto de vista utilitarista, igualmente correta, independentemente de seu resultado, indiferença que contraria o núcleo utilitarista, para o qual o resultado de cada decisão é justamente o que determina seu valor moral",
-                                                          "e":  "a discussão sobre como programar carros autônomos para escolher, em acidentes inevitáveis, a ação que minimize o número total de vítimas, mesmo que isso implique sacrificar ocupantes do próprio veículo"
+                                                          "a":  "a exigência de que o fabricante publique o código-fonte do sistema de direção autônoma",
+                                                          "b":  "a proposta de que o carro autônomo siga apenas regras fixas de trânsito, sem ponderar consequências",
+                                                          "c":  "a discussão sobre quem responde civilmente pelos danos causados por um veículo sem condutor",
+                                                          "d":  "a exigência legal de que veículos autônomos registrem em vídeo as decisões de emergência",
+                                                          "e":  "a discussão sobre programar o carro para, em acidente inevitável, minimizar o total de vítimas"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "O utilitarismo julga ações por seus resultados, buscando o maior saldo de bem-estar coletivo; essa lógica orienta debates sobre como programar carros autônomos diante de acidentes inevitáveis — diferente de aplicá-la a decisões sem consequências diferenciadas, de atribuir ao utilitarismo um critério de regras fixas (deontológico), ou de esvaziar sua exigência de avaliar resultados.",
-                                     "formato":  "direta"
+                                     "explicacao":  "O utilitarismo julga a ação pelo resultado agregado, e o dilema do acidente inevitável é a forma mais direta desse cálculo: escolhe-se o curso que produz menos dano no total, ainda que isso sacrifique o ocupante. Em (b) está o distrator que exige a distinção mais fina — seguir regra fixa sem ponderar consequências é o procedimento deontológico, o oposto do utilitarista. Em (c), a responsabilidade civil é questão jurídica de imputação, não de maximização de bem-estar. Em (a) e (d), transparência de código e registro em vídeo são exigências de auditoria: dizem respeito a como verificar a decisão, não a que critério moral escolhê-la."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-06",
@@ -12249,17 +12249,17 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "filosofia-sociologia-18",
                                      "texto_apoio":  "O liberalismo político clássico defende um Estado limitado, cuja função principal é assegurar as liberdades individuais e os direitos fundamentais dos cidadãos.",
+                                     "formato":  "direta",
                                      "enunciado":  "Esse princípio liberal ajuda a situar qual posição no debate contemporâneo sobre regulação estatal de grandes plataformas digitais?",
                                      "alternativas":  {
-                                                          "a":  "a posição que sustenta que o Estado deve garantir renda mínima a todos os cidadãos",
-                                                          "b":  "a ideia de que o liberalismo político clássico é incompatível com qualquer forma de proteção de direitos individuais, contradição direta, já que essa proteção é justamente o núcleo da doutrina liberal clássica",
-                                                          "c":  "a ideia de que o liberalismo clássico defende, em qualquer circunstância, a ausência total de regras estatais sobre qualquer atividade econômica, ignorando que ele admite intervenção pontual para coibir abusos concretos, como fraude ou concorrência desleal",
-                                                          "d":  "a posição que defende que a intervenção do Estado sobre empresas de tecnologia deve se limitar a evitar abusos concretos contra direitos dos usuários, sem assumir o controle direto da atividade econômica das plataformas",
-                                                          "e":  "a defesa de que o Estado deveria planejar centralizadamente toda a oferta de serviços digitais no país, posição estatista diametralmente oposta à limitação do papel do Estado defendida pelo liberalismo clássico"
+                                                          "a":  "a que defende a estatização das plataformas de maior alcance, tratadas como serviço essencial",
+                                                          "b":  "a que dispensa o Estado de agir mesmo diante de fraude comprovada contra o consumidor",
+                                                          "c":  "a que subordina a atuação das plataformas a um plano central de oferta de serviços digitais",
+                                                          "d":  "a que limita a intervenção do Estado a coibir abusos concretos contra direitos dos usuários",
+                                                          "e":  "a que condiciona a operação das plataformas à aprovação prévia de todo conteúdo publicado nelas"
                                                       },
                                      "resposta":  "d",
-                                     "explicacao":  "O liberalismo clássico defende um Estado limitado, cuja função é assegurar liberdades e direitos individuais; esse princípio situa a posição que restringe a intervenção estatal sobre plataformas a evitar abusos concretos — diferente de generalizar para ausência total de regras, de propor planejamento estatal centralizado, ou de opor liberalismo à proteção de direitos individuais.",
-                                     "formato":  "direta"
+                                     "explicacao":  "O liberalismo clássico não é ausência de Estado: é Estado limitado a garantir liberdades e direitos, o que autoriza intervenção pontual contra abusos e a interdita quando ela vira controle da atividade. Em (b) está o erro mais comum — confundir Estado limitado com Estado omisso; coibir fraude é exatamente a função que a doutrina reserva a ele. Em (a) e (c), estatização e plano central são posições estatistas, opostas à limitação do papel do Estado. Em (e), a aprovação prévia de conteúdo é censura, incompatível com a proteção das liberdades individuais que o liberalismo põe no centro."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-19",
@@ -12489,17 +12489,17 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "filosofia-sociologia-34",
                                      "texto_apoio":  "Foucault desenvolveu o conceito de \"governamentalidade\" para descrever o conjunto de instituições, saberes e técnicas que permitem governar a população como alvo específico do poder.",
+                                     "formato":  "direta",
                                      "enunciado":  "Esse conceito ajuda a analisar qual aspecto da gestão de \"cidades inteligentes\", que usam sensores e dados urbanos para orientar decisões de trânsito, segurança e serviços públicos?",
                                      "alternativas":  {
-                                                          "a":  "a defesa de que esse conceito descreve exclusivamente técnicas de tortura empregadas por Estados absolutistas, ignorando que designa técnicas modernas de gestão populacional, não práticas punitivas do Antigo Regime",
-                                                          "b":  "a ideia de que a governamentalidade se refere unicamente à eleição direta de prefeitos em regimes democráticos, restrição que ignora seu alcance mais amplo sobre a condução da população",
-                                                          "c":  "a transferência da gestão de serviços urbanos a concessionárias privadas mediante licitação",
-                                                          "d":  "a ideia de que a governamentalidade implica a eliminação de qualquer forma de administração estatal na sociedade contemporânea, inversão que contraria a ampliação das técnicas administrativas de governo",
-                                                          "e":  "a articulação entre estatística, tecnologia e gestão administrativa para conduzir o comportamento coletivo da população urbana, ampliando as técnicas modernas de governo da vida em sociedade"
+                                                          "a":  "o emprego de técnicas de tortura por Estados absolutistas contra a população",
+                                                          "b":  "a eleição direta dos prefeitos responsáveis pela gestão urbana em regime democrático",
+                                                          "c":  "a transferência da gestão de serviços urbanos a concessionárias privadas por licitação",
+                                                          "d":  "a eliminação da administração estatal das cidades pela automação dos serviços",
+                                                          "e":  "a articulação entre estatística, tecnologia e gestão para conduzir a população"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "A governamentalidade designa o conjunto de saberes e técnicas que permitem governar a população como alvo; essa chave ilumina a gestão de cidades inteligentes baseada em dados urbanos — diferente de restringi-la à eleição de prefeitos, de confundi-la com técnicas de tortura, ou de supor a eliminação da administração estatal.",
-                                     "formato":  "direta"
+                                     "explicacao":  "Governamentalidade nomeia o poder que age sobre a população como conjunto — contando, medindo, prevendo — e a cidade instrumentada por sensores é uma versão contemporânea dessa técnica. Em (c) está o distrator mais próximo, porque também trata de gestão urbana: a concessão redistribui quem executa o serviço, e o conceito descreve como se conduz o comportamento coletivo, seja quem for o executor. Em (a), a punição espetacular pertence ao regime que Foucault mostra ter sido superado. Em (b), a eleição é mecanismo de representação, não técnica de governo da população. Em (d), o conceito descreve a ampliação das técnicas administrativas, não seu desaparecimento."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-35",
@@ -12566,82 +12566,82 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "filosofia-sociologia-39",
                                      "texto_apoio":  "Ao cobrir o julgamento do nazista Adolf Eichmann, Hannah Arendt cunhou a expressão \"banalidade do mal\" para descrever atrocidades cometidas por um burocrata que executava ordens sem refletir sobre suas consequências morais.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse conceito ajuda a interpretar qual argumento levantado em escândalos corporativos contemporâneos, quando funcionários alegam ter apenas seguido normas internas da empresa ao participar de práticas lesivas a terceiros?",
                                      "alternativas":  {
-                                                          "a":  "a ideia de que qualquer funcionário que siga normas de uma empresa está automaticamente cometendo um crime equivalente ao de Eichmann, ignorando que a gravidade concreta de cada ação, sua extensão e o grau de conhecimento sobre as consequências são decisivos nessa comparação",
-                                                          "b":  "a ideia de que a banalidade do mal descreve um fenômeno raro, restrito a personalidades identificáveis previamente como psicopatas, quando Arendt via nesse mecanismo algo banal e potencialmente presente em qualquer burocrata",
-                                                          "c":  "o de que decisões corporativas tomadas coletivamente diluem a responsabilidade penal individual",
-                                                          "d":  "a defesa de que todo crime corporativo exige necessariamente executores movidos por ódio ou convicções ideológicas extremas, exigência que contraria o diagnóstico de Arendt sobre a ausência de reflexão de Eichmann",
-                                                          "e":  "o de que a alegação de mera obediência a protocolos internos, sem reflexão crítica sobre as consequências dessas práticas, pode reproduzir o mecanismo de ausência de pensamento associado por Arendt à banalidade do mal, ainda que em escala distinta do caso Eichmann"
+                                                          "a":  "o de que qualquer funcionário que siga normas comete crime equivalente ao de Eichmann",
+                                                          "b":  "o de que o fenômeno é raro e restrito a personalidades identificáveis como psicopatas",
+                                                          "c":  "o de que decisões coletivas diluem a responsabilidade penal de cada indivíduo",
+                                                          "d":  "o de que o crime corporativo exige executores movidos por ódio ou ideologia extrema",
+                                                          "e":  "o de que alegar mera obediência a protocolos reproduz a ausência de pensamento"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "Arendt observa que Eichmann agia por ausência de reflexão crítica e obediência burocrática, não por convicção fanática; esse mecanismo ilumina alegações de mera obediência a normas internas em escândalos corporativos — diferente de equiparar qualquer obediência a normas a um crime da gravidade de Eichmann, de exigir ódio fanático em todo crime corporativo, ou de tratar a banalidade do mal como traço de personalidade rara.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O que Arendt observa em Eichmann não é crueldade, é a recusa de pensar no que se faz — mecanismo que reaparece sempre que alguém se abriga na norma interna para não examinar as consequências do próprio ato. Em (a) está o excesso na direção oposta: reconhecer o mecanismo não iguala a gravidade dos casos, que variam em escala e em conhecimento das consequências. Em (b) e (d), o ponto do conceito é justamente que não se precisa de psicopatia nem de ódio ideológico. Em (c), a diluição da responsabilidade penal é argumento jurídico de imputação, e o conceito trata da atitude moral do agente."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-40",
                                      "texto_apoio":  "Em \"A Condição Humana\", Arendt distingue labor, trabalho e ação, sendo esta última a única atividade genuinamente política, realizada entre os homens no espaço público.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Essa distinção arendtiana entre ação e mero labor ajuda a problematizar qual crítica ao chamado \"ativismo de sofá\" (curtir ou compartilhar uma causa nas redes sem qualquer outra forma de engajamento)?",
                                      "alternativas":  {
-                                                          "a":  "a ideia de que a ação política, para Arendt, pode ser exercida em isolamento total, sem qualquer relação com outros indivíduos, inversão que contraria a pluralidade constitutiva do espaço público",
-                                                          "b":  "a defesa de que a ação, para Arendt, é a atividade voltada exclusivamente à produção de bens duráveis, como obras de arte, confundindo-a com o trabalho, categoria distinta em sua análise",
-                                                          "c":  "a ideia de que qualquer manifestação de apoio a uma causa nas redes sociais já configura, por si só, ação política plena no sentido arendtiano, dispensando presença e deliberação entre cidadãos, elementos que Arendt considera constitutivos da esfera pública",
-                                                          "d":  "a de que a participação política exige dedicação de tempo incompatível com jornadas longas de trabalho",
-                                                          "e":  "a de que compartilhar uma postagem, embora possa expressar solidariedade, não substitui integralmente a ação política arendtiana, que supõe presença, discurso e deliberação efetiva entre os cidadãos no espaço público"
+                                                          "a":  "a de que a ação política, para Arendt, pode ser exercida em isolamento completo",
+                                                          "b":  "a de que a ação é a atividade voltada à produção de bens duráveis, como obras",
+                                                          "c":  "a de que apoiar uma causa nas redes já configura ação política plena e suficiente",
+                                                          "d":  "a de que a participação política exige tempo incompatível com jornadas longas",
+                                                          "e":  "a de que compartilhar não substitui a ação, que supõe presença e deliberação"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "Para Arendt, a ação é a atividade que se desenrola diretamente entre os homens no espaço público, associada à pluralidade e ao discurso; essa distinção problematiza o ativismo de sofá, que pode não envolver essa presença e deliberação efetivas — diferente de equiparar qualquer postagem à ação política plena, de confundir ação com produção de bens (trabalho), ou de supor que a ação ocorre em isolamento, o que contraria sua definição.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "A ação, em Arendt, exige aparecer diante de outros e deliberar com eles: é a pluralidade que a distingue tanto do labor quanto do trabalho, e um clique isolado não a realiza. Em (c) está o oposto simétrico, que dissolveria a distinção ao chamar qualquer manifestação de ação política. Em (a), a ação só existe entre homens, nunca em isolamento. Em (b), a produção de bens duráveis define o trabalho, categoria vizinha que Arendt separa da ação. Em (d), a falta de tempo é obstáculo prático real, mas não é o critério conceitual que a distinção fornece."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-41",
                                      "texto_apoio":  "Segundo o materialismo histórico de Marx, é a estrutura econômica de uma sociedade que condiciona historicamente suas instituições jurídicas, políticas e formas de consciência social.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Essa tese ajuda a explicar qual leitura frequente sobre a relação entre a crise financeira de 2008 e o crescimento posterior de discursos políticos que questionam as instituições tradicionais em diversos países?",
                                      "alternativas":  {
-                                                          "a":  "a defesa de que apenas ideias e valores culturais, sem qualquer base econômica, explicam mudanças políticas de longo prazo, inversão que aproxima a tese antes do idealismo hegeliano do que do materialismo histórico",
-                                                          "b":  "a ideia de que o materialismo histórico nega qualquer relação entre economia e política em sociedades capitalistas, quando na verdade é essa relação de condicionamento que a teoria de Marx busca justamente evidenciar",
-                                                          "c":  "a ideia de que crises econômicas jamais produzem qualquer efeito sobre a política ou a cultura de uma sociedade, negação que contraria o próprio núcleo do materialismo histórico, segundo o qual a infraestrutura econômica condiciona a superestrutura política e cultural",
-                                                          "d":  "a de que crises econômicas são causadas, sobretudo, por decisões equivocadas de autoridades monetárias",
-                                                          "e":  "a de que transformações profundas na estrutura econômica, como uma crise financeira de grande escala, tendem a repercutir sobre a legitimidade das instituições políticas e sobre o tipo de discurso político que ganha força na sociedade"
+                                                          "a":  "a de que apenas ideias e valores culturais explicam mudanças políticas de longo prazo",
+                                                          "b":  "a de que o materialismo histórico nega relação entre economia e política",
+                                                          "c":  "a de que crises econômicas não produzem efeito sobre a política de uma sociedade",
+                                                          "d":  "a de que crises econômicas decorrem sobretudo de erros das autoridades monetárias",
+                                                          "e":  "a de que uma crise de grande escala repercute na legitimidade das instituições"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "Para Marx, a infraestrutura econômica condiciona a superestrutura política e cultural; essa tese ajuda a interpretar como a crise de 2008 repercutiu sobre a legitimidade de instituições políticas tradicionais — diferente de negar qualquer efeito de crises econômicas sobre a política, de atribuir mudanças políticas apenas a valores culturais, ou de negar a relação entre economia e política que é central à tese marxista.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "A tese prevê exatamente esse encadeamento: abalada a base econômica, as formas políticas e a consciência social que dela dependiam entram em disputa, e discursos antes marginais ganham audiência. Em (a) está a posição inversa, que explica a política só por ideias — o idealismo que o materialismo histórico foi formulado para contestar. Em (b) e (c), negar a relação entre economia e política seria abandonar a própria tese. Em (d), atribuir a crise a erros de autoridade monetária é uma explicação conjuntural, que não usa a relação entre estrutura e superestrutura."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-42",
                                      "texto_apoio":  "Para Marx e Engels, a sociedade capitalista se estrutura em torno do antagonismo entre a burguesia, proprietária dos meios de produção, e o proletariado, que vende sua força de trabalho para sobreviver.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Essa tese sobre o conflito de classes ajuda a interpretar qual disputa recorrente entre motoristas e entregadores de aplicativo e as empresas de tecnologia que os contratam?",
                                      "alternativas":  {
                                                           "a":  "a disputa entre plataformas concorrentes pela preferência do mesmo grupo de consumidores",
-                                                          "b":  "a ideia de que esse conflito opõe apenas moradores urbanos e rurais, disputando o mesmo território de atuação, leitura territorial alheia ao antagonismo entre capital e trabalho descrito por Marx",
-                                                          "c":  "a defesa de que o conflito central nesse setor se dá entre gerações mais velhas e mais novas de trabalhadores, leitura etária que desloca o antagonismo marxista de classe para um critério que Marx não privilegia",
-                                                          "d":  "a disputa sobre quem detém o controle dos meios essenciais à atividade (a plataforma e seu algoritmo) e quem depende da venda de sua força de trabalho para sobreviver, o que gera conflitos sobre remuneração e condições de trabalho",
-                                                          "e":  "a ideia de que a disputa entre motoristas e plataformas se resume a uma competição entre consumidores e produtores de bens de luxo, deslocamento que ignora o antagonismo de classe entre burguesia e proletariado"
+                                                          "b":  "a disputa entre trabalhadores mais antigos e recém-chegados pelas rotas mais rentáveis do dia",
+                                                          "c":  "a disputa entre usuários e trabalhadores sobre quem arca com a taxa que a plataforma cobra por corrida",
+                                                          "d":  "a disputa entre quem controla a plataforma e seu algoritmo e quem depende de vender seu trabalho",
+                                                          "e":  "a disputa entre municípios sobre qual deles pode tributar a receita gerada pelos aplicativos"
                                                       },
                                      "resposta":  "d",
-                                     "explicacao":  "Para Marx, o antagonismo central do capitalismo opõe quem detém os meios de produção a quem depende da venda de sua força de trabalho; essa chave ilumina a disputa entre plataformas de aplicativo e seus trabalhadores — diferente de reduzi-la a uma disputa territorial urbano-rural, de tratá-la como conflito geracional, ou de associá-la ao consumo de bens de luxo.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "O antagonismo marxista se define pela posição em relação aos meios de produção, e no trabalho por aplicativo o meio decisivo é a plataforma com seu algoritmo, que distribui corridas, fixa preços e desativa contas. Em (b) e (c) estão conflitos reais do setor, e é isso que os torna tentadores: ambos ocorrem entre pessoas que ocupam a mesma posição na produção, e por isso não são conflitos de classe no sentido do texto. Em (a), a concorrência entre empresas é disputa intraburguesa. Em (e), a disputa tributária opõe entes federativos, e não capital e trabalho."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-43",
                                      "texto_apoio":  "O conceito marxista de \"fetichismo da mercadoria\" descreve como, no capitalismo, as relações sociais de produção entre trabalhadores aparecem disfarçadas como relações entre as próprias coisas.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse conceito ajuda a interpretar qual fenômeno associado à valorização extrema de tênis de edição limitada e outros itens de revenda (\"hype\") no mercado de streetwear?",
                                      "alternativas":  {
-                                                          "a":  "a ideia de que o preço de mercado desses produtos reflete sempre, de forma transparente, a quantidade exata de trabalho empregada em sua fabricação, negando justamente a opacidade que o fetichismo da mercadoria descreve",
-                                                          "b":  "o modo como o preço e o prestígio desses itens parecem emanar do próprio objeto e de sua raridade, ocultando o trabalho humano concreto de produção e a lógica de marketing por trás de sua valorização",
-                                                          "c":  "a defesa de que consumidores desses itens deixam de atribuir qualquer valor simbólico aos produtos que compram, contrariando a lógica de distinção social que movimenta o mercado de streetwear",
-                                                          "d":  "a ideia de que o valor desses itens é determinado exclusivamente por rituais tradicionais praticados por seus fabricantes, explicação alheia ao conceito marxista de fetichismo da mercadoria",
-                                                          "e":  "o modo como a escassez deliberada de unidades produzidas eleva o preço de revenda no mercado secundário"
+                                                          "a":  "o modo como o preço reflete de forma transparente o trabalho gasto na fabricação",
+                                                          "b":  "o modo como preço e prestígio parecem emanar do objeto, ocultando o trabalho",
+                                                          "c":  "o modo como os consumidores deixam de atribuir valor simbólico ao que compram",
+                                                          "d":  "o modo como o valor decorre de rituais tradicionais praticados pelos fabricantes",
+                                                          "e":  "o modo como a escassez deliberada de unidades eleva o preço na revenda"
                                                       },
                                      "resposta":  "b",
-                                     "explicacao":  "O fetichismo da mercadoria descreve como o valor parece emanar do próprio objeto, ocultando o trabalho humano por trás dele; esse conceito ilumina a valorização de itens de revenda como se seu prestígio fosse intrínseco ao objeto — diferente de supor transparência entre preço e trabalho empregado, de negar qualquer valor simbólico ao consumo, ou de atribuir o valor a rituais tradicionais.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O fetichismo consiste nisto: a mercadoria parece valer por si, como se o preço brotasse de uma qualidade do objeto, e o trabalho que a produziu desaparece de vista. Em (e) está o distrator mais forte, porque descreve corretamente o mecanismo de mercado — a escassez programada eleva o preço —, mas explicar o preço pela oferta é ficar na superfície que o conceito quer atravessar. Em (a), a transparência entre preço e trabalho é exatamente o que o fetichismo impede. Em (c), o valor simbólico é intensificado, não abandonado. Em (d), o ritual do fabricante é explicação alheia ao conceito."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-44",
@@ -12662,18 +12662,18 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "filosofia-sociologia-45",
                                      "texto_apoio":  "Estudos clássicos de sociologia descrevem a organização burocrática ideal como aquela baseada em hierarquia impessoal, regras escritas e seleção por competência, e não por vínculos pessoais.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Esse modelo de organização burocrática ajuda a avaliar qual promessa comum de sistemas de atendimento digital do setor público, como portais de agendamento on-line?",
                                      "alternativas":  {
-                                                          "a":  "a promessa de reduzir a influência de relações pessoais e de favorecimentos no acesso a serviços públicos, substituindo-a por critérios padronizados e impessoais definidos previamente por regras",
-                                                          "b":  "a promessa de reduzir o número de servidores públicos necessários para operar o serviço",
-                                                          "c":  "a ideia de que a digitalização de serviços públicos elimina, por si só, qualquer forma de hierarquia administrativa nas instituições, hipótese que ignora a persistência de estruturas hierárquicas formais",
-                                                          "d":  "a ideia de que a digitalização de serviços públicos implica a ausência total de qualquer registro documental dos atos administrativos, negando justamente o formalismo escrito típico da burocracia weberiana",
-                                                          "e":  "a defesa de que a burocracia ideal se caracteriza pela ocupação de cargos por critérios exclusivamente hereditários, inversão que contraria o princípio weberiano de seleção por competência técnica"
+                                                          "a":  "reduzir a influência de relações pessoais no acesso, com critérios padronizados",
+                                                          "b":  "reduzir o número de servidores necessários para operar o serviço público",
+                                                          "c":  "eliminar a hierarquia administrativa das instituições que prestam o serviço",
+                                                          "d":  "dispensar o registro documental dos atos praticados pela administração",
+                                                          "e":  "preencher os cargos do órgão por critérios de confiança e indicação pessoal do gestor"
                                                       },
                                      "resposta":  "a",
-                                     "explicacao":  "O modelo burocrático ideal se baseia em regras impessoais e critérios padronizados; essa chave ajuda a avaliar a promessa de sistemas digitais de reduzir favorecimentos pessoais no acesso a serviços públicos — diferente de supor que a digitalização elimina toda hierarquia, de associar a burocracia a critérios hereditários, ou de negar o registro documental, que é justamente uma característica burocrática.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "A promessa do agendamento on-line é tipicamente burocrática no sentido weberiano: a fila passa a obedecer a uma regra escrita e igual para todos, no lugar do acesso mediado por conhecidos. Em (b) está o distrator mais tentador, porque a economia de pessoal costuma ser prometida junto — mas é ganho de eficiência administrativa, e não o traço que define o tipo ideal. Em (c) e (d), hierarquia impessoal e formalismo escrito são componentes do modelo, e não coisas que ele elimine. Em (e), a indicação pessoal é o oposto da seleção por competência."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-46",
@@ -12694,34 +12694,34 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "filosofia-sociologia-47",
                                      "texto_apoio":  "A reflexão política distingue uma ética voltada à fidelidade incondicional a princípios, independentemente das consequências, de uma ética que exige avaliar antecipadamente os efeitos práticos das decisões.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Essa distinção entre ética da convicção e ética da responsabilidade ajuda a analisar qual tensão enfrentada por governantes ao decidir sobre medidas restritivas durante uma pandemia?",
                                      "alternativas":  {
-                                                          "a":  "a tensão entre manter-se fiel a um princípio absoluto (como a liberdade individual irrestrita) e avaliar as consequências práticas previsíveis de uma decisão sobre a saúde coletiva, mesmo que isso implique flexibilizar esse princípio",
-                                                          "b":  "a ideia de que apenas uma dessas éticas é levada em conta por qualquer governante em qualquer decisão de política pública, generalização que ignora a tensão simultânea entre as duas, central ao dilema weberiano",
-                                                          "c":  "a ideia de que a ética da convicção nunca leva em conta princípios morais em sua formulação, quando na verdade ela se define justamente pela fidelidade incondicional a princípios, como a defesa irrestrita da liberdade individual por certas correntes libertárias",
-                                                          "d":  "a defesa de que a ética da responsabilidade considera irrelevante qualquer forma de responsabilidade perante a sociedade, inversão que contraria seu próprio nome e seu compromisso com as consequências",
-                                                          "e":  "a tensão entre decidir rapidamente e reunir informação suficiente antes de agir"
+                                                          "a":  "a tensão entre a fidelidade a um princípio e a avaliação das consequências previsíveis",
+                                                          "b":  "a ideia de que um governante se orienta por apenas uma dessas éticas em cada decisão",
+                                                          "c":  "a tensão entre decidir rapidamente e reunir informação suficiente antes de agir",
+                                                          "d":  "a tensão entre a opinião do especialista técnico e a do eleitorado que sustenta o governo",
+                                                          "e":  "a ideia de que a ética da responsabilidade dispensa qualquer compromisso com a sociedade"
                                                       },
                                      "resposta":  "a",
-                                     "explicacao":  "A ética da convicção prioriza a fidelidade a princípios independentemente das consequências, enquanto a ética da responsabilidade exige avaliar os efeitos previsíveis das decisões; essa distinção ilumina a tensão de governantes entre liberdade individual e saúde coletiva em uma pandemia — diferente de supor que apenas uma ética orienta qualquer decisão, ou de inverter o sentido de cada uma das duas éticas.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O dilema é exatamente esse: manter um princípio como inegociável ou responder pelos efeitos previsíveis da decisão, sabendo que a segunda via cobra flexibilizar o primeiro. Em (d) está o distrator mais realista e por isso o mais perigoso — a tensão entre técnico e eleitorado existe na pandemia, mas é conflito de legitimidade, e não a oposição entre os dois tipos de ética. Em (c), a urgência versus informação é dilema de procedimento decisório. Em (b), o próprio dilema supõe as duas éticas operando ao mesmo tempo. Em (e), responder pelas consequências é o compromisso que define a segunda."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-48",
                                      "texto_apoio":  "A sociologia clássica distingue formas de coesão social baseadas na semelhança entre os membros de um grupo daquelas baseadas na interdependência entre indivíduos diferentes entre si.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Essa distinção entre coesão por semelhança e coesão por interdependência ajuda a caracterizar qual traço de pequenas comunidades tradicionais em contraste com grandes centros urbanos?",
                                      "alternativas":  {
-                                                          "a":  "a ideia de que a coesão social em qualquer tipo de comunidade depende unicamente da liderança de uma única figura religiosa, redução que ignora a base de crenças e costumes compartilhados entre sociedades pouco diferenciadas",
-                                                          "b":  "a ideia de que grandes centros urbanos dependem exclusivamente da coesão baseada na semelhança de crenças entre seus habitantes, invertendo a distinção clássica entre solidariedade mecânica e orgânica, proposta pelo sociólogo Émile Durkheim",
-                                                          "c":  "o fato de pequenas comunidades tradicionais tenderem a se manter unidas por crenças, valores e costumes amplamente compartilhados entre seus membros, diferente da coesão baseada na especialização e na interdependência funcional típica das metrópoles",
-                                                          "d":  "a defesa de que pequenas comunidades tradicionais se organizam a partir de acordos jurídicos individuais formalizados, traço associado antes à interdependência funcional das metrópoles do que à coesão por semelhança",
-                                                          "e":  "o fato de comunidades tradicionais apresentarem menor desigualdade de renda que os grandes centros urbanos"
+                                                          "a":  "o fato de a coesão em comunidades pequenas depender de uma única liderança religiosa",
+                                                          "b":  "o fato de os grandes centros dependerem da semelhança de crenças entre seus habitantes",
+                                                          "c":  "o fato de comunidades tradicionais se unirem por crenças e costumes compartilhados",
+                                                          "d":  "o fato de comunidades tradicionais se organizarem por acordos jurídicos individuais",
+                                                          "e":  "o fato de comunidades tradicionais terem menor desigualdade de renda que as metrópoles"
                                                       },
                                      "resposta":  "c",
-                                     "explicacao":  "A coesão por semelhança de crenças caracteriza comunidades pouco diferenciadas, enquanto a coesão por interdependência funcional caracteriza sociedades complexas; essa distinção ilumina o contraste entre pequenas comunidades tradicionais e metrópoles — diferente de atribuir às metrópoles a coesão por semelhança, de reduzir a coesão comunitária a acordos jurídicos, ou de vinculá-la sempre a uma liderança religiosa única.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "A coesão por semelhança — a solidariedade mecânica de Durkheim — apoia-se num fundo comum de crenças e costumes que dispensa especialização; a metrópole, ao contrário, une pessoas diferentes pela dependência recíproca entre funções. Em (b) está a inversão exata dos dois polos. Em (d), o acordo jurídico individual formalizado é traço da sociedade diferenciada, não da tradicional. Em (a), a coesão por semelhança repousa em valores partilhados por todos, e não na autoridade de uma figura. Em (e), a desigualdade de renda é outra variável, que a distinção clássica não usa para separar os dois tipos."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-49",
@@ -12758,18 +12758,18 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "filosofia-sociologia-51",
                                      "texto_apoio":  "Em \"Leviatã\", Hobbes descreve o Estado como um \"homem artificial\", ao qual os súditos transferem seu direito de autogoverno para garantir a paz coletiva.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Essa lógica hobbesiana da concentração de poder em troca de ordem e proteção ajuda a problematizar qual crítica ao poder de mercado concentrado por grandes plataformas de tecnologia sobre setores inteiros da economia digital?",
                                      "alternativas":  {
-                                                          "a":  "a ideia de que qualquer empresa de tecnologia com muitos usuários exerce, por definição, poder equivalente ao de um Estado soberano, generalização que ignora as diferenças entre poder econômico privado e soberania política",
-                                                          "b":  "a de que a competição entre plataformas rivais impede que qualquer uma delas concentre poder duradouro",
-                                                          "c":  "a de que, embora ofereçam serviços que organizam e dão previsibilidade a mercados antes fragmentados, essas plataformas concentram um poder de decisão sobre regras, preços e acesso que se assemelha, em escala privada, à concentração de poder que Hobbes atribuía ao soberano",
-                                                          "d":  "a ideia de que a concentração de poder em plataformas digitais é sempre idêntica, em natureza e consequências, à soberania política descrita por Hobbes, equiparação que ultrapassa o alcance da analogia, já que poder de mercado e poder soberano estatal operam por mecanismos distintos",
-                                                          "e":  "a defesa de que Hobbes recomendava a divisão do poder econômico entre múltiplas empresas concorrentes, eliminando qualquer concentração, tese oposta à defesa hobbesiana da concentração do poder soberano"
+                                                          "a":  "a de que a competição entre plataformas rivais impede qualquer concentração duradoura de poder",
+                                                          "b":  "a de que uma empresa com muitos usuários exerce, por definição, poder equivalente ao de um Estado",
+                                                          "c":  "a de que elas dão previsibilidade a mercados antes dispersos e, em troca, decidem regras e acesso",
+                                                          "d":  "a de que o poder das plataformas se sustenta apenas no volume de capital que elas conseguem captar",
+                                                          "e":  "a de que Hobbes recomendaria dividir o poder econômico entre várias empresas concorrentes"
                                                       },
                                      "resposta":  "c",
-                                     "explicacao":  "Hobbes descreve a concentração de poder no soberano como forma de garantir ordem; essa lógica ilumina, por analogia, a crítica à concentração de poder de mercado em grandes plataformas digitais — diferente de igualar qualquer empresa grande a um Estado soberano, de inverter a posição de Hobbes (que não defende a fragmentação do poder), ou de tratar a analogia como identidade exata entre os dois fenômenos.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "A analogia é de estrutura, não de identidade: assim como os súditos trocam autogoverno por paz, os participantes de um mercado aceitam regras privadas em troca da ordem e da previsibilidade que a plataforma organiza. Em (b) está o passo que a analogia não autoriza — equiparar poder econômico privado a soberania política apaga a diferença entre os dois, e é o excesso que a leitura hobbesiana serve para problematizar, não para endossar. Em (e), Hobbes defende a concentração do poder soberano, não sua divisão. Em (a), a premissa da questão é o poder já concentrado. Em (d), o que a analogia destaca é o poder de estabelecer regras, não o volume de capital."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-52",
@@ -12790,34 +12790,34 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "filosofia-sociologia-53",
                                      "texto_apoio":  "Ao duvidar metodicamente de tudo, Descartes conclui que não pode duvidar de que está pensando, o que fundamenta a certeza expressa na fórmula \"penso, logo existo\".",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Esse raciocínio cartesiano ajuda a esclarecer por que argumentos que atribuem consciência ou pensamento genuíno a chatbots de inteligência artificial, apenas por produzirem respostas fluentes, costumam ser considerados filosoficamente insuficientes?",
                                      "alternativas":  {
-                                                          "a":  "porque, diferentemente do sujeito pensante cartesiano, que tem acesso direto ao próprio ato de duvidar e pensar, um chatbot processa padrões estatísticos de linguagem, sem que a fluência de suas respostas demonstre a existência de um sujeito que efetivamente pensa e duvida de si mesmo",
-                                                          "b":  "a ideia de que os sentidos oferecem, segundo Descartes, a prova mais confiável da existência de um sujeito pensante, quando é justamente da dúvida sobre os sentidos que nasce o cogito cartesiano, dúvida metódica levada ao extremo antes de encontrar certeza no ato de pensar",
-                                                          "c":  "a defesa de que, para Descartes, a existência de Deus é o único ponto de partida possível para qualquer investigação sobre consciência artificial, quando o ponto de partida do sistema cartesiano é o cogito, isto é, a certeza imediata do sujeito que pensa",
-                                                          "d":  "a ideia de que qualquer sistema capaz de produzir texto coerente já demonstra, por si só, possuir uma consciência equivalente à humana, inferência que a fluência textual isolada não sustenta, já que coerência linguística não implica necessariamente um sujeito que pensa e duvida de si mesmo, no sentido cartesiano do termo",
-                                                          "e":  "porque tais sistemas ainda não atingiram velocidade de processamento comparável à do cérebro humano"
+                                                          "a":  "porque o chatbot processa padrões estatísticos, sem que a fluência revele um sujeito pensante",
+                                                          "b":  "porque, para Descartes, os sentidos oferecem a prova mais confiável da existência do sujeito",
+                                                          "c":  "porque tais sistemas ainda não alcançaram a velocidade de processamento do cérebro humano",
+                                                          "d":  "porque produzir texto coerente já demonstraria, por si só, uma consciência equivalente à humana",
+                                                          "e":  "porque a existência de Deus seria o único ponto de partida cartesiano para o problema"
                                                       },
                                      "resposta":  "a",
-                                     "explicacao":  "O cogito cartesiano funda a certeza da existência no próprio ato de pensar e duvidar de si mesmo; esse raciocínio esclarece por que a fluência textual de um chatbot não basta para demonstrar que nele exista, de fato, um sujeito pensante — diferente de aceitar a fluência textual como prova de consciência, de partir da existência de Deus (etapa posterior do sistema cartesiano), ou de atribuir aos sentidos, e não ao pensamento, a primeira certeza cartesiana.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "O cogito não se apoia no que o sujeito diz, e sim no acesso direto ao próprio ato de duvidar — critério que a fluência verbal, por definição, não fornece. Em (d) está a inferência que a questão pede para recusar: coerência linguística não implica um sujeito que se apreenda pensando. Em (b), é da dúvida sobre os sentidos que nasce o cogito, de modo que a alternativa inverte o percurso. Em (c), velocidade de processamento é critério quantitativo, alheio ao argumento. Em (e), Deus aparece depois no sistema cartesiano; o ponto de partida é a certeza do sujeito que pensa."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-54",
                                      "texto_apoio":  "Hume argumenta que a crença de que o futuro se assemelhará ao padrão observado no passado não pode ser demonstrada apenas pela razão, dependendo de um hábito psicológico.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse \"problema da indução\" ajuda a explicar qual limitação discutida a respeito de modelos preditivos de inteligência artificial usados em mercados financeiros?",
                                      "alternativas":  {
-                                                          "a":  "a ideia de que o problema da indução demonstra a incapacidade humana de observar qualquer regularidade na natureza, quando Hume admite a observação de padrões, apenas nega sua garantia lógica futura",
-                                                          "b":  "a de que tais modelos exigem volumes de dados que apenas grandes empresas conseguem reunir",
-                                                          "c":  "a ideia de que modelos preditivos baseados em dados históricos são, por definição, sempre corretos em suas previsões futuras, certeza que o próprio problema da indução humeano justamente nega, já que a repetição de padrões passados não tem garantia lógica, apenas hábito psicológico",
-                                                          "d":  "a de que tais modelos, por identificarem padrões em dados históricos, podem falhar diante de eventos inéditos ou rupturas estruturais que não seguem os padrões observados no passado, já que a repetição futura desses padrões não pode ser logicamente garantida",
-                                                          "e":  "a defesa humeana de que apenas o raciocínio dedutivo, e não a observação de padrões, deve orientar previsões em mercados financeiros, posição estranha a Hume, que via a indução como hábito psicológico inescapável"
+                                                          "a":  "a de que o problema da indução nega a possibilidade de observar regularidades na natureza",
+                                                          "b":  "a de que tais modelos exigem volumes de dados que só grandes empresas conseguem reunir",
+                                                          "c":  "a de que modelos treinados em dados históricos acertam por definição suas previsões futuras",
+                                                          "d":  "a de que tais modelos podem falhar diante de eventos inéditos e rupturas estruturais",
+                                                          "e":  "a de que Hume recomendaria usar apenas raciocínio dedutivo para prever mercados"
                                                       },
                                      "resposta":  "d",
-                                     "explicacao":  "Hume mostra que a crença na repetição de padrões passados não tem garantia lógica, dependendo de hábito; essa chave explica por que modelos preditivos baseados em dados históricos podem falhar diante de eventos inéditos nos mercados — diferente de supor que tais modelos são sempre corretos, de propor o raciocínio dedutivo como alternativa (Hume não o defende para esse fim), ou de negar toda observação de regularidades.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "Um modelo treinado no passado só vale enquanto o futuro se parecer com ele, e é exatamente essa continuidade que Hume mostra não ter garantia lógica — daí a vulnerabilidade a rupturas sem precedente na série. Em (c) está a certeza que o problema da indução dissolve. Em (a), Hume não nega que se observem padrões: nega que a observação os projete necessariamente adiante. Em (e), ele trata a indução como hábito inescapável, e não como erro a substituir por dedução. Em (b), a barreira de dados é um obstáculo prático de mercado, sem relação com o argumento epistemológico."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-55",
@@ -12838,82 +12838,82 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "filosofia-sociologia-56",
                                      "texto_apoio":  "Ao proclamar a \"morte de Deus\", Nietzsche pretende diagnosticar o esgotamento histórico dos fundamentos metafísicos e religiosos que davam sentido último aos valores ocidentais.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse diagnóstico ajuda a interpretar qual leitura sociológica sobre o crescimento de comunidades de fãs extremamente engajadas em torno de artistas, franquias ou ideologias como estruturas quase religiosas de sentido?",
                                      "alternativas":  {
-                                                          "a":  "a ideia de que a morte de Deus, em Nietzsche, fortalece definitivamente a fé religiosa tradicional nas sociedades contemporâneas, invertendo o diagnóstico nietzschiano de esgotamento metafísico e religioso do Ocidente moderno, quando na verdade Nietzsche diagnostica seu colapso",
-                                                          "b":  "a de que a redução da frequência a igrejas decorre principalmente da concorrência por tempo livre",
-                                                          "c":  "a ideia de que a morte de Deus, em Nietzsche, implica a irrelevância total de qualquer busca humana por sentido e valores, quando o diagnóstico abre espaço justamente para a criação de novos valores a partir da vontade de potência",
-                                                          "d":  "a defesa de que a morte de Deus representa um evento cósmico literal, comprovável cientificamente, sobre a inexistência de qualquer divindade, leitura que ignora seu caráter de diagnóstico cultural e filosófico",
-                                                          "e":  "a de que, em um contexto de enfraquecimento de referências religiosas tradicionais, alguns indivíduos passam a buscar em comunidades de fãs ou em causas seculares um sentido de pertencimento e de significado antes fornecido por sistemas de crença tradicionais"
+                                                          "a":  "a de que a morte de Deus fortalece a fé religiosa tradicional nas sociedades atuais",
+                                                          "b":  "a de que a queda na frequência a igrejas decorre da concorrência por tempo livre",
+                                                          "c":  "a de que o diagnóstico nietzschiano implica a irrelevância da busca humana por sentido e valor",
+                                                          "d":  "a de que a morte de Deus é um evento cósmico literal, comprovável cientificamente",
+                                                          "e":  "a de que alguns buscam em comunidades de fãs o pertencimento antes dado pela religião"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "A morte de Deus simboliza o colapso das certezas metafísicas tradicionais, abrindo espaço para a criação de novos valores; esse diagnóstico ilumina a busca de sentido em comunidades de fãs como possível substituto secular — diferente de negar toda busca humana por sentido, de tratar a expressão como afirmação cosmológica literal, ou de inverter seu efeito sobre a fé religiosa tradicional.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O diagnóstico não é sobre religião apenas: é sobre a perda de um fundamento último de sentido, e a leitura sociológica observa que a necessidade permanece e migra para outras estruturas de pertencimento. Em (c) está o passo em falso mais tentador — o esgotamento dos fundamentos antigos abre espaço para a criação de novos valores, e não para a indiferença. Em (a), o diagnóstico é de colapso, não de fortalecimento. Em (d), trata-se de um evento cultural, não de uma tese cosmológica verificável. Em (b), a explicação pela concorrência de tempo livre descreve um dado de comportamento, sem tocar na questão do sentido."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-57",
                                      "texto_apoio":  "Gramsci desenvolveu o conceito de \"hegemonia\" para explicar como a dominação de uma classe se sustenta também pela capacidade de fazer seus valores serem aceitos como naturais pela sociedade.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse conceito de hegemonia cultural ajuda a analisar qual crítica frequente ao papel de grandes plataformas de streaming na formação do gosto e dos valores culturais do público?",
                                      "alternativas":  {
-                                                          "a":  "a defesa de que a hegemonia cultural se sustenta exclusivamente pela imposição de leis penais mais rígidas contra a população, confundindo-a com a coerção estatal direta, distinta do consentimento cultural construído por persuasão que Gramsci situa no centro da hegemonia, e não pela repressão",
-                                                          "b":  "a de que a assinatura mensal exclui do acesso quem não dispõe de renda para pagá-la",
-                                                          "c":  "a de que a escolha de quais produções são produzidas, promovidas e recomendadas por essas plataformas contribui para naturalizar determinados valores, estéticas e visões de mundo como se fossem simplesmente o que o público \"prefere\", e não o resultado de uma curadoria específica",
-                                                          "d":  "a ideia de que a hegemonia cultural implica a ausência completa de qualquer disputa ideológica na sociedade civil, quando é justamente nessa disputa contínua entre classes e grupos sociais que Gramsci situa a construção da hegemonia",
-                                                          "e":  "a ideia de que qualquer produção disponível em uma plataforma de streaming representa, por si só, hegemonia cultural no sentido gramsciano, ignorando a seletividade da curadoria editorial que o conceito pressupõe"
+                                                          "a":  "a de que a hegemonia se sustenta pela imposição de leis penais mais rígidas",
+                                                          "b":  "a de que a assinatura mensal exclui do acesso quem não tem renda para pagá-la",
+                                                          "c":  "a de que a curadoria naturaliza certos valores como se fossem preferência do público",
+                                                          "d":  "a de que a hegemonia implica ausência de disputa ideológica na sociedade civil",
+                                                          "e":  "a de que o catálogo disponível numa plataforma de streaming já constitui, por si, hegemonia cultural"
                                                       },
                                      "resposta":  "c",
-                                     "explicacao":  "Gramsci mostra que a dominação se sustenta pela naturalização de valores da classe ou grupo dominante como universais; esse conceito ilumina a crítica ao papel curatorial de plataformas de streaming na formação do gosto — diferente de tratar qualquer conteúdo disponível como hegemonia automática, de reduzi-la à coerção penal, ou de negar a disputa ideológica que a hegemonia, para Gramsci, sempre pressupõe.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "A hegemonia opera por consentimento: o que foi escolhido e promovido passa a ser lido como gosto espontâneo do público, e a decisão editorial desaparece atrás do resultado. Em (e) está o excesso que a questão quer flagrar — o conceito depende da seletividade da curadoria, e não do simples fato de haver catálogo. Em (a), a imposição por lei penal é coerção estatal direta, que Gramsci distingue da hegemonia construída por persuasão. Em (d), a hegemonia se constrói na disputa contínua da sociedade civil, e não na ausência dela. Em (b), a barreira de renda é problema de acesso, não de formação do gosto."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-58",
                                      "texto_apoio":  "Gramsci distingue o intelectual tradicional, que se apresenta como neutro, do \"intelectual orgânico\", que emerge vinculado a uma classe ou grupo social, articulando sua visão de mundo.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse conceito de intelectual orgânico ajuda a interpretar qual papel social frequentemente atribuído a criadores de conteúdo que se tornam vozes de referência de determinada subcultura ou movimento social nas redes?",
                                      "alternativas":  {
-                                                          "a":  "o de articular e difundir, a partir de sua vivência dentro do próprio grupo, os valores, a linguagem e as pautas dessa subcultura ou movimento, contribuindo para sua organização e visibilidade pública",
-                                                          "b":  "o de manter independência em relação a qualquer grupo social, condição da imparcialidade analítica",
-                                                          "c":  "a defesa de que o intelectual orgânico permanece isolado da vida social, dedicando-se à pesquisa teórica desvinculada de qualquer classe, traço que Gramsci atribui ao intelectual tradicional",
-                                                          "d":  "a ideia de que o intelectual orgânico rejeita, por definição, qualquer engajamento político em sua produção de conteúdo, quando esse engajamento é justamente sua marca distintiva na teoria gramsciana",
-                                                          "e":  "a ideia de que qualquer criador de conteúdo com muitos seguidores exerce a função de intelectual orgânico de um grupo social, ignorando o vínculo orgânico com uma classe que o conceito exige"
+                                                          "a":  "o de articular, a partir da vivência dentro do grupo, os valores e as pautas dessa subcultura",
+                                                          "b":  "o de manter independência diante de qualquer grupo, condição da imparcialidade analítica",
+                                                          "c":  "o de traduzir para o grande público um saber técnico produzido fora do grupo por especialistas",
+                                                          "d":  "o de qualquer criador com muitos seguidores, cuja audiência já o converte em porta-voz do grupo",
+                                                          "e":  "o de mediar conflitos entre grupos rivais, sem se identificar com as pautas de nenhum deles"
                                                       },
                                      "resposta":  "a",
-                                     "explicacao":  "O intelectual orgânico emerge vinculado a um grupo, articulando e difundindo sua visão de mundo; esse conceito ilumina o papel de criadores de conteúdo que se tornam vozes de referência de uma subcultura — diferente de atribuir essa função a qualquer criador popular, de descrevê-lo como isolado da vida social (traço do intelectual tradicional), ou de negar seu engajamento político, que é justamente sua marca distintiva.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O intelectual orgânico não é o especialista que chega de fora nem o mediador neutro: ele nasce dentro do grupo e dá forma pública à visão de mundo que já circulava ali. Em (d) está o distrator mais forte, porque descreve algo comum nas redes — mas audiência não é vínculo orgânico, e o conceito exige a ligação com uma classe ou grupo, não o número de seguidores. Em (b) e (e), a neutralidade e a mediação sem identificação correspondem ao intelectual tradicional, que Gramsci opõe ao orgânico. Em (c), a tradução de saber técnico externo mantém o intelectual fora do grupo, que é justamente o que o conceito nega."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-59",
                                      "texto_apoio":  "Habermas descreve a formação histórica de uma esfera pública burguesa, espaço de debate racional entre particulares que permitia formar uma opinião pública capaz de pressionar o poder político.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse conceito ajuda a fundamentar qual crítica frequente ao debate político em redes sociais, marcado por polarização e disseminação de conteúdos falsos?",
                                      "alternativas":  {
-                                                          "a":  "a defesa de que a esfera pública burguesa, para Habermas, era controlada diretamente pelo Estado absolutista, sem qualquer participação de particulares, invertendo sua origem como espaço de debate entre privados, tal como Habermas a situa no contexto europeu do século XVIII",
-                                                          "b":  "a de que, embora ampliem o alcance da participação, ambientes digitais marcados por polarização extrema e desinformação podem enfraquecer as condições de debate racional e crítico que caracterizavam o ideal habermasiano de esfera pública",
-                                                          "c":  "a ideia de que qualquer discussão política em redes sociais já reproduz integralmente o ideal habermasiano de esfera pública burguesa, ignorando os efeitos da polarização e da desinformação sobre a racionalidade do debate público",
-                                                          "d":  "a de que a moderação de conteúdo por empresas privadas substitui o julgamento do Poder Judiciário",
-                                                          "e":  "a ideia de que a esfera pública burguesa jamais existiu de fato, sendo apenas uma construção teórica sem qualquer base histórica, quando Habermas a situa em um contexto histórico concreto, ligado à ascensão da imprensa e dos cafés literários do século XVIII"
+                                                          "a":  "a de que a esfera pública burguesa era controlada pelo Estado absolutista, sem particulares",
+                                                          "b":  "a de que polarização e desinformação enfraquecem as condições de debate racional e crítico",
+                                                          "c":  "a de que qualquer discussão política em rede já realiza o ideal habermasiano de esfera pública",
+                                                          "d":  "a de que a moderação por empresas privadas substitui o julgamento do Poder Judiciário",
+                                                          "e":  "a de que a ampliação do acesso, por si só, já basta para constituir uma esfera pública"
                                                       },
                                      "resposta":  "b",
-                                     "explicacao":  "Habermas descreve a esfera pública burguesa como espaço de debate racional entre particulares; esse conceito fundamenta a crítica a ambientes digitais polarizados e tomados por desinformação, que enfraquecem essa racionalidade — diferente de equiparar qualquer debate on-line ao ideal habermasiano, de atribuir a esfera pública ao controle estatal absolutista, ou de negar sua existência histórica.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O critério habermasiano não é quantidade de participação, e sim qualidade do procedimento: troca de razões orientada ao entendimento. Ampliar o alcance e degradar a argumentação move as duas variáveis em sentidos opostos, e a crítica incide sobre a segunda. Em (e) está a confusão exata entre alcance e qualidade do debate. Em (c), o oposto: supor que toda discussão em rede já realiza o ideal apaga o critério. Em (a), a esfera pública burguesa nasce entre particulares, fora do controle estatal. Em (d), a moderação privada é problema institucional distinto do que o conceito ilumina."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-60",
                                      "texto_apoio":  "Para Habermas, a \"ação comunicativa\" busca o entendimento mútuo entre participantes de um diálogo por meio de argumentos racionalmente sustentáveis, e não pela imposição unilateral de interesses.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse conceito ajuda a fundamentar qual crítica ao ambiente de debate público nas redes sociais, quando dominado por descontextualização de falas e ataques pessoais em vez de argumentação?",
                                      "alternativas":  {
-                                                          "a":  "a de que a substituição da troca argumentativa por descontextualizações e ataques pessoais afasta o debate público do ideal de entendimento mútuo baseado em razões que a ação comunicativa habermasiana valoriza",
-                                                          "b":  "a ideia de que a ação comunicativa implica a eliminação de qualquer forma de linguagem verbal nas interações sociais, quando é justamente por meio da linguagem que ela busca o entendimento mútuo racionalmente motivado entre os falantes",
-                                                          "c":  "a defesa de que a ação comunicativa se caracteriza pela manipulação estratégica do interlocutor para obter vantagens pessoais na negociação, traço que Habermas atribui à ação estratégica, não à comunicativa",
-                                                          "d":  "a ideia de que qualquer discussão acalorada em redes sociais já configura, por si só, ação comunicativa no sentido habermasiano, ignorando a ausência de argumentação racional que a caracteriza",
-                                                          "e":  "a de que o volume de mensagens torna impossível acompanhar todas as discussões em curso"
+                                                          "a":  "a de que a troca de razões cede lugar a ataques pessoais, afastando o debate do entendimento",
+                                                          "b":  "a de que o volume de mensagens torna inviável acompanhar todas as discussões simultâneas",
+                                                          "c":  "a de que o debate se converte em negociação estratégica, em que cada lado busca vantagem própria",
+                                                          "d":  "a de que a mediação por telas elimina os sinais não verbais de que o entendimento depende",
+                                                          "e":  "a de que discussões acaloradas já constituem, por si sós, exercício de ação comunicativa"
                                                       },
                                      "resposta":  "a",
-                                     "explicacao":  "A ação comunicativa busca entendimento mútuo por meio de argumentos sustentáveis; esse conceito fundamenta a crítica a debates dominados por ataques pessoais e descontextualização, que se afastam desse ideal — diferente de equiparar qualquer discussão acalorada à ação comunicativa, de confundi-la com ação estratégica manipuladora, ou de negar seu caráter linguístico e dialógico.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "A ação comunicativa se define pela orientação ao entendimento por meio de razões, de modo que substituí-la por descontextualização e ataque pessoal é abandonar a própria condição do diálogo. Em (c) está a distinção que Habermas mais insiste em marcar: agir para obter vantagem é ação estratégica, e o problema descrito no enunciado não é cálculo de interesse, é ausência de argumento. Em (e), a intensidade da discussão não substitui a argumentação racional que o conceito exige. Em (b) e (d), volume de mensagens e ausência de sinais não verbais são limitações do meio, e o critério habermasiano incide sobre a forma da interação, não sobre o suporte."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-61",
@@ -12934,18 +12934,18 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "filosofia-sociologia-62",
                                      "texto_apoio":  "O conceito de \"capitalismo de vigilância\" descreve a lógica pela qual dados comportamentais de usuários são extraídos e transformados em previsões vendáveis sobre seu comportamento futuro.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse conceito ajuda a explicar qual modelo de negócios predominante entre aplicativos gratuitos de redes sociais e de mensagens?",
                                      "alternativas":  {
-                                                          "a":  "a defesa de que esse modelo de negócios atua apenas em regimes autoritários, sendo inexistente em democracias liberais, quando o capitalismo de vigilância se difunde amplamente também nestas últimas, inclusive nos Estados Unidos e na União Europeia",
-                                                          "b":  "o modelo em que o uso gratuito do serviço é sustentado pela coleta contínua de dados comportamentais dos usuários, posteriormente analisados e comercializados sobretudo para fins de publicidade direcionada",
-                                                          "c":  "a ideia de que esses aplicativos dependem exclusivamente da venda direta de produtos físicos, sem qualquer relação com dados digitais, deslocando o modelo de negócio para um setor econômico distinto",
-                                                          "d":  "o modelo em que a empresa cobra assinatura mensal e, em troca, não exibe publicidade ao usuário",
-                                                          "e":  "a ideia de que aplicativos gratuitos, por definição, nunca coletam qualquer dado comportamental de seus usuários, negando o próprio mecanismo central do capitalismo de vigilância descrito por Zuboff"
+                                                          "a":  "o modelo em que a empresa cobra assinatura mensal e, em troca, não exibe publicidade",
+                                                          "b":  "o uso gratuito sustentado pela coleta de dados comportamentais vendidos para publicidade",
+                                                          "c":  "o modelo em que a receita vem da venda direta de produtos físicos aos próprios usuários",
+                                                          "d":  "o modelo em que o serviço cobra do anunciante por espaço fixo, sem uso de dados do usuário",
+                                                          "e":  "o modelo em que o usuário licencia seus dados e recebe parte da receita publicitária gerada"
                                                       },
                                      "resposta":  "b",
-                                     "explicacao":  "O capitalismo de vigilância descreve a extração de dados comportamentais transformados em previsões vendáveis, sobretudo para publicidade; esse conceito explica o modelo de negócios de aplicativos gratuitos de redes sociais — diferente de negar a coleta de dados por serviços gratuitos, de restringir o fenômeno a regimes autoritários, ou de atribuir o modelo à venda de produtos físicos.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O gratuito é o preço de entrada: o produto vendido é a previsão sobre o comportamento de quem usa, e a publicidade direcionada é o comprador principal dessa previsão. Em (d) está o distrator mais instrutivo, porque descreve a publicidade da mídia tradicional — espaço vendido sem extração de dados —, que é precisamente o modelo anterior ao que o conceito nomeia. Em (e), o licenciamento com repasse de receita é uma proposta de reforma, não a prática corrente. Em (a), a assinatura sem anúncios é o modelo alternativo. Em (c), a venda de produtos físicos pertence a outro setor."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-63",
@@ -12998,34 +12998,34 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "filosofia-sociologia-66",
                                      "texto_apoio":  "Byung-Chul Han contrapõe a \"sociedade disciplinar\" analisada por Foucault a uma \"sociedade do desempenho\", na qual o indivíduo se autoexplora em busca de produtividade ilimitada.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse conceito ajuda a interpretar qual crítica frequente à \"cultura da hustle\" (glorificação do trabalho incessante) difundida em conteúdos motivacionais nas redes sociais?",
                                      "alternativas":  {
-                                                          "a":  "a de que essa cultura decorre da pressão exercida por chefias sobre trabalhadores subordinados",
-                                                          "b":  "a ideia de que a sociedade do desempenho, para Byung-Chul Han, elimina completamente qualquer forma de trabalho, substituído inteiramente por lazer, quando o autor descreve justamente sua intensificação autoexplorada",
-                                                          "c":  "a de que essa cultura pode levar o indivíduo a internalizar o imperativo de produtividade ilimitada como exigência própria, e não externa, tornando-se ao mesmo tempo cobrador e cobrado de si mesmo, o que favorece quadros de exaustão e esgotamento",
-                                                          "d":  "a ideia de que a sociedade do desempenho descrita pelo autor implica ausência de qualquer forma de exigência sobre os indivíduos, quando essa exigência apenas se desloca de externa para autoimposta, tornando o indivíduo seu maior cobrador",
-                                                          "e":  "a defesa de que essa cultura se caracteriza pela predominância de punições físicas visíveis, exercidas por instituições estatais, traço que Byung-Chul Han associa à sociedade disciplinar de Foucault, e não à do desempenho"
+                                                          "a":  "a de que essa cultura decorre da pressão que as chefias exercem sobre seus subordinados diretos",
+                                                          "b":  "a de que ela se impõe por vigilância constante do empregador sobre o ritmo de cada trabalhador",
+                                                          "c":  "a de que o indivíduo internaliza o imperativo de produtividade e vira cobrador de si mesmo",
+                                                          "d":  "a de que a exigência de produtividade desaparece quando o trabalho se torna remoto e flexível",
+                                                          "e":  "a de que essa cultura se sustenta em punições visíveis aplicadas por instituições formais"
                                                       },
                                      "resposta":  "c",
-                                     "explicacao":  "Byung-Chul Han descreve a autoexploração do indivíduo que internaliza o imperativo de desempenho ilimitado; esse conceito ilumina a crítica à cultura da hustle, que pode gerar exaustão e esgotamento — diferente de supor a eliminação do trabalho, de atribuir a essa cultura punições físicas estatais, ou de negar qualquer forma de exigência sobre o indivíduo.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O deslocamento que Han descreve é da coação externa para a autocoação: ninguém precisa vigiar quem já se cobra sozinho, e daí a exaustão típica do desempenho. Em (a), (b) e (e) estão três versões do mesmo equívoco — chefia, vigilância e punição institucional descrevem a sociedade disciplinar de Foucault, que é justamente o termo contra o qual Han define o seu. Em (d), a flexibilidade não dissolve a exigência: ela a torna permanente, porque some o limite que separava o expediente do resto do dia."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-67",
                                      "texto_apoio":  "Historiadores do feminismo distinguem diferentes \"ondas\" do movimento, cada uma com pautas predominantes distintas ao longo do tempo.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "A ampliação de pauta da chamada \"segunda onda\" feminista, que passou a discutir temas como sexualidade, trabalho doméstico e relações de poder no âmbito privado, ajuda a situar historicamente qual característica de movimentos como o #MeToo, organizados sobretudo em redes digitais?",
                                      "alternativas":  {
-                                                          "a":  "a ideia de que movimentos como o #MeToo se concentram exclusivamente na luta pelo direito ao voto, pauta associada antes à primeira onda feminista do que à segunda, que ampliou o debate para sexualidade e trabalho doméstico",
-                                                          "b":  "a ideia de que esses movimentos digitais retomam exclusivamente pautas de austeridade econômica, sem relação com sexualidade ou trabalho, deslocamento alheio às pautas de poder privado ampliadas pela segunda onda",
-                                                          "c":  "a continuidade do deslocamento do debate feminista para além dos direitos formais, incluindo relações de poder antes tratadas como estritamente privadas, agora tornadas públicas e coletivas por meio do compartilhamento em massa de relatos pessoais",
-                                                          "d":  "a defesa de que esses movimentos rejeitam qualquer forma de organização coletiva entre mulheres, quando o compartilhamento em massa de relatos é justamente uma forma de ação coletiva digital",
-                                                          "e":  "a de que esses movimentos concentraram suas pautas na conquista de direitos políticos formais"
+                                                          "a":  "a concentração da pauta na conquista do direito ao voto e dos direitos políticos formais",
+                                                          "b":  "o deslocamento da pauta feminista para questões de austeridade e política econômica",
+                                                          "c":  "a passagem do debate para relações de poder antes tidas como privadas, agora tornadas públicas",
+                                                          "d":  "a recusa de formas coletivas de organização em favor da denúncia estritamente individual e anônima",
+                                                          "e":  "a substituição da mobilização de rua pela atuação exclusiva em instâncias judiciais"
                                                       },
                                      "resposta":  "c",
-                                     "explicacao":  "A segunda onda feminista ampliou o debate para relações de poder no espaço privado, popularizando o lema \"o pessoal é político\"; essa chave situa a continuidade desse deslocamento em movimentos como o #MeToo, que tornam públicos relatos antes privados — diferente de reduzir esses movimentos ao sufrágio, de negar sua organização coletiva, ou de associá-los a pautas de austeridade econômica.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "O #MeToo dá continuidade ao movimento que a segunda onda iniciou: levar para o espaço público relações antes protegidas pelo rótulo de assunto privado, agora expostas pela soma de relatos individuais. Em (a) está a pauta da primeira onda, e reconhecer a diferença entre as duas é o que a questão cobra. Em (d), o compartilhamento em massa de relatos é ele próprio uma forma de ação coletiva, e não sua recusa. Em (b), austeridade econômica não é pauta característica de nenhuma das ondas descritas. Em (e), a atuação em rede não substituiu a mobilização de rua, que seguiu ocorrendo."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-68",
@@ -13046,66 +13046,66 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "filosofia-sociologia-69",
                                      "texto_apoio":  "Judith Butler sustenta que o gênero se constitui pela repetição estilizada de atos, gestos e discursos socialmente reconhecidos, e não como expressão de uma essência interior fixa.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse conceito de \"performatividade de gênero\" ajuda a interpretar qual leitura acadêmica sobre práticas de drag queens em apresentações artísticas e midiáticas?",
                                      "alternativas":  {
-                                                          "a":  "a de que essas apresentações demonstram que a identidade de gênero é escolhida livremente a cada dia",
-                                                          "b":  "a defesa de que o conceito é irrelevante para compreender expressões artísticas contemporâneas relacionadas a gênero, quando o drag é justamente um dos exemplos privilegiados por Butler",
-                                                          "c":  "a ideia de que o gênero é, segundo Butler, uma essência biológica fixa e determinada integralmente no nascimento, tese essencialista que sua noção de performatividade rejeita expressamente, pois para ela o gênero é performado, não dado",
-                                                          "d":  "a ideia de que a performatividade de gênero, para Butler, depende exclusivamente de decisões jurídicas tomadas pelo Estado sobre identidade civil, deslocando o conceito para uma esfera institucional distinta",
-                                                          "e":  "a de que essas apresentações, ao exagerar deliberadamente convenções de gênero, evidenciam justamente o caráter construído e repetido dessas convenções, expondo o que normalmente passa despercebido como natural no cotidiano"
+                                                          "a":  "a de que essas apresentações mostram que a identidade de gênero é escolhida a cada dia",
+                                                          "b":  "a de que o conceito não ajuda a compreender expressões artísticas ligadas a gênero",
+                                                          "c":  "a de que o gênero, para Butler, é uma essência biológica determinada no nascimento",
+                                                          "d":  "a de que a performatividade depende de decisões jurídicas do Estado sobre identidade civil",
+                                                          "e":  "a de que o exagero das convenções expõe o caráter construído e repetido dessas convenções"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "Butler argumenta que o gênero se constrói pela repetição de atos e gestos socialmente reconhecidos, não por uma essência interior; esse conceito ilumina como apresentações de drag expõem, por exagero deliberado, o caráter construído dessas convenções — diferente de vincular a performatividade a decisões jurídicas estatais, de negar sua relevância para a análise artística, ou de atribuir a Butler a defesa de uma essência biológica fixa, que ela nega.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O drag torna visível o que a repetição cotidiana esconde: ao exagerar gestos e signos de gênero, mostra que eles são convenção reiterada e não expressão de uma natureza. Em (a) está a leitura equivocada mais difundida — performatividade não é escolha voluntária e diária, e sim reiteração de normas que antecedem o sujeito. Em (c), a essência biológica fixa é a tese que o conceito recusa. Em (d), o registro civil é questão jurídica, e a performatividade opera no plano dos atos e discursos. Em (b), o drag é um dos exemplos que a própria autora privilegia."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-70",
                                      "texto_apoio":  "A antropologia distingue o relativismo cultural do \"etnocentrismo\", que consiste em julgar outras culturas a partir dos valores da própria cultura do observador, tomados como referência universal.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Esse conceito de etnocentrismo ajuda a identificar qual viés comum em coberturas internacionais que descrevem tradições de outros países como \"atrasadas\" ou \"exóticas\", sem considerar seu contexto próprio?",
                                      "alternativas":  {
-                                                          "a":  "a ideia de que o etnocentrismo consiste em recusar qualquer forma de comparação entre culturas distintas, quando na verdade consiste em julgá-las a partir de um único padrão tomado como universal",
-                                                          "b":  "a ideia de que reconhecer a igual validade de todas as práticas culturais, sem hierarquizá-las, já configura, por si só, etnocentrismo, quando essa postura define justamente o relativismo cultural, seu oposto",
-                                                          "c":  "o viés de tomar os valores e costumes do próprio país ou da própria cultura como parâmetro universal para avaliar práticas de outras sociedades, frequentemente classificando-as como inferiores quando divergem desse padrão",
-                                                          "d":  "o viés de descrever culturas distantes recorrendo a fontes secundárias em vez de pesquisa de campo",
-                                                          "e":  "a defesa de que compreender uma cultura exclusivamente a partir de seus próprios códigos internos, sem qualquer julgamento externo, é a definição de etnocentrismo, quando essa descrição corresponde na verdade ao relativismo cultural"
+                                                          "a":  "o de recusar comparações entre culturas, por considerá-las incomensuráveis entre si",
+                                                          "b":  "o de descrever culturas distantes com base em fontes secundárias, sem pesquisa de campo",
+                                                          "c":  "o de tomar os valores da própria cultura como parâmetro universal para avaliar as demais",
+                                                          "d":  "o de reconhecer validade equivalente às práticas de cada cultura, sem hierarquizá-las entre si",
+                                                          "e":  "o de descrever uma cultura apenas por seus códigos internos, sem qualquer juízo externo"
                                                       },
                                      "resposta":  "c",
-                                     "explicacao":  "O etnocentrismo consiste em tomar os valores da própria cultura como parâmetro universal para julgar outras; esse conceito identifica o viés de coberturas que classificam tradições estrangeiras como \"atrasadas\" a partir de padrões próprios — diferente de confundir etnocentrismo com relativismo cultural (que reconhece validade das práticas em seu contexto), ou de tratá-lo como recusa de qualquer comparação.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "Etnocentrismo é adotar o próprio padrão como medida universal e ler o diferente como desvio — é o que produz os rótulos de atrasado e exótico. Em (d) e (e) está a inversão que a questão cobra: reconhecer validade própria a cada cultura e descrevê-la por seus códigos internos define o relativismo cultural, o polo oposto. Em (a), recusar toda comparação seria outra posição ainda, e o etnocentrismo compara o tempo inteiro, só que com uma régua fixa. Em (b), apoiar-se em fonte secundária é falha de método, que pode ocorrer com ou sem viés etnocêntrico."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-71",
                                      "texto_apoio":  "Clifford Geertz propõe o método da \"descrição densa\", que busca interpretar ações e símbolos culturais no contexto específico de significado atribuído pelos próprios sujeitos que os praticam.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse método ajuda a justificar qual abordagem recomendada a pesquisadores que estudam o significado de memes e gírias específicas de comunidades on-line?",
                                      "alternativas":  {
-                                                          "a":  "a ideia de que qualquer descrição estatística da frequência de uso de um meme já constitui, por si só, uma descrição densa no sentido geertziano, quando esta exige interpretar o significado atribuído pelos próprios sujeitos, não apenas contar ocorrências",
-                                                          "b":  "a ideia de que esse método recomenda aplicar exclusivamente métodos experimentais de laboratório ao estudo de comunidades on-line, abordagem estranha ao método interpretativo e etnográfico de Geertz",
-                                                          "c":  "a de investigar o sentido que esses códigos têm para os próprios membros da comunidade em seu contexto de uso, em vez de apenas descrever ou traduzir literalmente a imagem ou a expressão sem considerar seu significado interno ao grupo",
-                                                          "d":  "a de mapear a frequência com que cada código aparece, estabelecendo sua distribuição estatística",
-                                                          "e":  "a defesa de que a descrição densa consiste em ignorar completamente o contexto histórico e social em que uma prática cultural ocorre, quando Geertz a define justamente como interpretação atenta a esse contexto de significado"
+                                                          "a":  "a de contar a frequência com que cada meme aparece, estabelecendo sua distribuição",
+                                                          "b":  "a de aplicar métodos experimentais de laboratório ao estudo de comunidades on-line",
+                                                          "c":  "a de investigar o sentido que esses códigos têm para os próprios membros da comunidade",
+                                                          "d":  "a de traduzir literalmente a imagem ou a expressão para o vocabulário do pesquisador",
+                                                          "e":  "a de descrever a prática sem considerar o contexto histórico e social em que ela é produzida"
                                                       },
                                      "resposta":  "c",
-                                     "explicacao":  "A descrição densa busca interpretar o significado que símbolos culturais têm para os próprios sujeitos que os praticam; esse método justifica investigar o sentido interno de memes e gírias de comunidades on-line em seu contexto de uso — diferente de reduzir a descrição densa a dados estatísticos de frequência, de ignorar o contexto histórico e social, ou de propor métodos experimentais de laboratório, alheios ao método interpretativo de Geertz.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "A descrição densa se define pela reconstrução do significado do ponto de vista de quem pratica: um piscar de olhos e uma piscadela são o mesmo movimento e coisas diferentes, e só o contexto de sentido separa os dois. Em (a) e (d) estão as duas formas de descrição rala — contar ocorrências e traduzir literalmente registram o comportamento sem alcançar o sentido, que é o corte que Geertz introduz. Em (e), ignorar o contexto contraria a definição do método. Em (b), o experimento de laboratório retira a prática do ambiente de que ela depende."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-72",
                                      "texto_apoio":  "Claude Lévi-Strauss interpreta o tabu do incesto, presente de forma quase universal entre as culturas humanas, como a fronteira estrutural entre natureza e cultura, por obrigar a troca de parceiros entre grupos.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Essa leitura estruturalista ajuda a entender por que Lévi-Strauss considerava as regras de aliança matrimonial entre diferentes grupos familiares um elemento fundador da vida social, e não apenas uma norma moral arbitrária?",
                                      "alternativas":  {
-                                                          "a":  "a ideia de que o tabu do incesto seria, para Lévi-Strauss, um fenômeno puramente biológico, sem qualquer dimensão social ou simbólica, quando o autor o situa justamente na fronteira estrutural entre natureza e cultura",
-                                                          "b":  "porque a proibição evita a transmissão de doenças hereditárias, o que garante a sobrevivência do grupo",
-                                                          "c":  "a defesa de que essa regra seria uma norma exclusiva das sociedades ocidentais modernas, ausente em sociedades tradicionais, quando Lévi-Strauss a descreve como quase universal entre as culturas humanas",
-                                                          "d":  "porque, ao obrigar a troca de parceiros entre grupos distintos, essa regra estabelece redes de aliança e reciprocidade entre famílias diferentes, fundando a própria organização social para além dos laços de parentesco imediato",
-                                                          "e":  "a ideia de que o tabu do incesto seria, nessa leitura, uma regra arbitrária, sem qualquer função social identificável, quando Lévi-Strauss lhe atribui a função de fundar alianças entre grupos distintos, condição da própria organização social"
+                                                          "a":  "porque a proibição evita a transmissão de doenças hereditárias e protege a saúde do grupo",
+                                                          "b":  "porque a regra reflete uma repugnância instintiva que precede qualquer elaboração cultural",
+                                                          "c":  "porque a norma foi codificada de modo semelhante nos sistemas jurídicos dos Estados modernos",
+                                                          "d":  "porque, ao obrigar a troca de parceiros, ela funda redes de aliança entre famílias distintas",
+                                                          "e":  "porque cada sociedade fixa livremente seus próprios graus de parentesco proibidos ao casamento"
                                                       },
                                      "resposta":  "d",
-                                     "explicacao":  "Para Lévi-Strauss, o tabu do incesto obriga trocas entre grupos, fundando alianças e a própria organização social; essa leitura explica por que ele via essa regra como estruturalmente fundadora, e não meramente arbitrária — diferente de reduzi-la a um fenômeno puramente biológico, de restringi-la ao Ocidente moderno, ou de negar-lhe qualquer função social identificável.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O argumento de Lévi-Strauss é positivo, não proibitivo: ao vedar o parceiro de dentro, a regra obriga a buscar o de fora, e é essa troca que amarra grupos separados numa rede de reciprocidade — daí ser fundadora da vida social. Em (a) e (b) estão as duas explicações naturalistas que o estruturalismo recusa; a saúde genética e o instinto situariam o tabu na natureza, e o ponto do autor é que ele marca a passagem para a cultura. Em (e), a variação dos graus proibidos existe, mas é o que faria da regra uma convenção arbitrária, e a tese sustenta o contrário. Em (c), a codificação jurídica moderna é posterior e não explica a universalidade."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-73",
@@ -13126,82 +13126,82 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "filosofia-sociologia-74",
                                      "texto_apoio":  "Diferentemente do consequencialismo e da deontologia, a ética das virtudes, de inspiração aristotélica, concentra-se no caráter e nas disposições estáveis do agente moral.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Essa abordagem ajuda a explicar por que parte do debate público sobre lideranças políticas avalia não apenas resultados de políticas específicas, mas também o caráter e a consistência de conduta dos governantes ao longo do tempo?",
                                      "alternativas":  {
-                                                          "a":  "a ideia de que a ética das virtudes nega qualquer critério racional para avaliar a conduta de agentes públicos, quando na verdade propõe o caráter estável como critério racional de avaliação",
-                                                          "b":  "porque a avaliação de uma liderança deve considerar apenas os resultados alcançados durante o mandato",
-                                                          "c":  "a defesa de que essa abordagem se baseia no cálculo exato de custos e benefícios de cada decisão política isolada, traço próprio do consequencialismo, e não da ética das virtudes aristotélica",
-                                                          "d":  "porque, na perspectiva da ética das virtudes, a confiabilidade de um agente moral depende de disposições estáveis de caráter, e não apenas de resultados pontuais de decisões isoladas, o que torna a avaliação de consistência de conduta um critério moral relevante",
-                                                          "e":  "a ideia de que a ética das virtudes recomenda avaliar lideranças exclusivamente pela obediência literal a códigos legais escritos, quando o critério relevante é antes a disposição estável de caráter do agente do que sua conformidade formal à letra da lei"
+                                                          "a":  "porque a avaliação de uma liderança deve considerar apenas os resultados do mandato",
+                                                          "b":  "porque o caráter só importa quando os resultados da gestão são ruins ou insuficientes",
+                                                          "c":  "porque a ética das virtudes se apoia no cálculo de custos e benefícios de cada decisão isolada",
+                                                          "d":  "porque a confiabilidade do agente depende de disposições estáveis, não de atos isolados",
+                                                          "e":  "porque o critério relevante é a conformidade da conduta à letra da lei vigente"
                                                       },
                                      "resposta":  "d",
-                                     "explicacao":  "A ética das virtudes avalia o caráter e as disposições estáveis do agente, e não apenas resultados isolados; essa abordagem explica por que o debate público sobre lideranças considera a consistência de conduta ao longo do tempo — diferente de restringir a avaliação à obediência legal, de reduzi-la a cálculo de custo-benefício (traço consequencialista), ou de negar todo critério racional de avaliação.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "A ética das virtudes desloca a pergunta de o que fazer para quem se é: o que se avalia é a disposição consolidada, que permite prever conduta em situações ainda não ocorridas. Em (c) e (e) estão as duas abordagens rivais nomeadas no próprio enunciado — o cálculo de consequências e a conformidade à regra —, e distingui-las é o que a questão cobra. Em (a), avaliar só resultados é a posição consequencialista. Em (b), fazer o caráter importar apenas quando o resultado é ruim o converteria em critério auxiliar, e não em critério próprio."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-75",
                                      "texto_apoio":  "Segundo o \"princípio do dano\" (harm principle) de John Stuart Mill, o único fundamento legítimo para restringir a liberdade de um indivíduo, contra sua vontade, é prevenir dano a terceiros.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse princípio ajuda a fundamentar qual posição no debate contemporâneo sobre moderação de conteúdo considerado ofensivo, mas que não incita diretamente violência ou dano concreto a terceiros, em redes sociais?",
                                      "alternativas":  {
-                                                          "a":  "a ideia de que, para Mill, toda opinião divergente da maioria deveria ser impedida de circular publicamente, quando o princípio do dano defende justamente a livre circulação de opiniões impopulares",
-                                                          "b":  "a posição que distingue entre restringir discursos que causam dano concreto a terceiros e restringir discursos apenas por serem considerados incômodos ou desagradáveis ao público, sendo apenas o primeiro caso razão legítima de restrição",
-                                                          "c":  "a posição que sustenta que plataformas privadas não podem restringir qualquer conteúdo legal",
-                                                          "d":  "a defesa de que o Estado deveria impedir qualquer conduta que prejudique o próprio indivíduo, mesmo sem afetar terceiros, posição que Mill rejeita ao restringir a intervenção legítima a casos de dano efetivo a outros",
-                                                          "e":  "a ideia de que o princípio do dano exige que todos os usuários compartilhem as mesmas crenças e opiniões, quando Mill defende a livre circulação de opiniões divergentes, mesmo as consideradas ofensivas por parte do público"
+                                                          "a":  "a que autoriza restringir o discurso quando ele contraria a opinião majoritária dos usuários",
+                                                          "b":  "a que separa restringir discurso que causa dano concreto de restringi-lo por ser incômodo",
+                                                          "c":  "a que impede plataformas privadas de restringir qualquer conteúdo que seja legal no país",
+                                                          "d":  "a que autoriza o Estado a impedir condutas nocivas ao próprio indivíduo que as pratica",
+                                                          "e":  "a que condiciona a permanência de um conteúdo à sua veracidade verificada por terceiros"
                                                       },
                                      "resposta":  "b",
-                                     "explicacao":  "Mill defende que restringir a liberdade só se justifica para prevenir dano a terceiros, não bastando que uma conduta seja considerada imoral ou incômoda; esse princípio fundamenta a distinção entre discursos que causam dano concreto e discursos apenas desagradáveis em debates sobre moderação de conteúdo — diferente de defender a supressão de opiniões divergentes, de estender a restrição a condutas que afetam só o próprio agente, ou de exigir uniformidade de crenças.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O princípio do dano fornece exatamente esse corte: dano a terceiros justifica restrição, desconforto ou ofensa não justificam, e conteúdo apenas incômodo fica protegido. Em (d) está o paternalismo que Mill recusa de modo explícito, ao limitar a intervenção legítima aos casos de dano a outros. Em (a), a opinião da maioria é o critério que o princípio serve para neutralizar, já que Mill defende a circulação de opiniões impopulares. Em (c), o princípio orienta a coerção sobre indivíduos e não converte plataforma privada em espaço obrigatoriamente aberto. Em (e), a verificação de veracidade introduz um critério diferente do dano."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-76",
                                      "texto_apoio":  "Parte da doutrina contemporânea amplia a classificação clássica de direitos (civis, políticos e sociais) propondo novas gerações associadas a temas emergentes, como bioética e identidade cultural coletiva.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Essa ampliação da classificação de direitos ajuda a situar qual debate atual sobre o uso de tecnologias de edição genética em seres humanos?",
                                      "alternativas":  {
-                                                          "a":  "a ideia de que esse debate deve ser enquadrado como uma questão de direitos trabalhistas de segunda geração, quando na verdade se relaciona a uma nova geração de direitos ligada à bioética e à identidade cultural e coletiva",
-                                                          "b":  "a ideia de que esse tema não se enquadra em qualquer classificação doutrinária de direitos, por ser demasiado recente, quando parte da doutrina o enquadra justamente como nova geração de direitos ligada à bioética",
-                                                          "c":  "a defesa de que apenas direitos de primeira geração, voltados à limitação do poder estatal, são relevantes para regular tecnologias genéticas, quando o tema se associa antes a uma nova geração ligada à bioética",
-                                                          "d":  "o debate sobre o direito de acesso gratuito a tratamentos de alto custo no sistema público de saúde",
-                                                          "e":  "o debate sobre limites éticos e jurídicos à manipulação do patrimônio genético humano, frequentemente enquadrado como uma nova geração de direitos ligada à bioética, distinta das gerações clássicas de direitos civis, políticos e sociais"
+                                                          "a":  "o debate sobre o enquadramento do tema como direito trabalhista de segunda geração",
+                                                          "b":  "o debate sobre a impossibilidade de enquadrar o tema em qualquer classificação doutrinária",
+                                                          "c":  "o debate sobre limitar o poder estatal, próprio dos direitos de primeira geração",
+                                                          "d":  "o debate sobre o direito de acesso gratuito a tratamentos de alto custo na rede pública",
+                                                          "e":  "o debate sobre limites éticos à manipulação do patrimônio genético, ligado à bioética"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "Parte da doutrina propõe gerações adicionais de direitos ligadas a temas emergentes, como bioética; essa chave situa o debate sobre edição genética humana como uma dessas novas dimensões de direitos — diferente de reduzi-lo a direitos trabalhistas, de restringi-lo a direitos de primeira geração, ou de negar-lhe qualquer enquadramento doutrinário.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "A edição genética é o caso típico que motiva a proposta de uma nova geração de direitos: o bem protegido não é a liberdade diante do Estado nem uma prestação social, e sim a integridade do patrimônio genético, inclusive de quem ainda não nasceu. Em (d) está o distrator mais próximo, porque também trata de saúde — mas acesso a tratamento é direito social de segunda geração, categoria clássica. Em (a) e (c), o enquadramento como direito trabalhista ou como limitação do poder estatal recorre a gerações que não abarcam o problema. Em (b), a doutrina justamente propõe uma classificação para ele."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-77",
                                      "texto_apoio":  "O modelo de Estado de bem-estar social (welfare state) se caracteriza pela provisão pública de serviços universais como saúde, educação e previdência, financiados por tributação.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Essa concepção ajuda a situar qual argumento central na defesa contemporânea de programas de renda básica universal?",
                                      "alternativas":  {
-                                                          "a":  "a defesa de que esse modelo exige a privatização integral de todos os serviços sociais anteriormente públicos, quando na verdade se caracteriza pela provisão pública e universal desses serviços, financiada coletivamente por meio de tributação",
-                                                          "b":  "o de que, assim como o welfare state clássico busca garantir patamares mínimos de bem-estar por meio de serviços públicos, a renda básica universal buscaria garantir um patamar mínimo de segurança econômica direta, financiado coletivamente, para reduzir desigualdades",
-                                                          "c":  "a ideia de que o welfare state se caracteriza pela eliminação de qualquer intervenção estatal na economia e na proteção social, quando na verdade se define pela ampla provisão pública de saúde, educação e previdência, financiada coletivamente por tributação",
-                                                          "d":  "o de que a proteção social deve ser condicionada à contrapartida de trabalho ou capacitação",
-                                                          "e":  "a ideia de que o welfare state concentra exclusivamente recursos públicos em investimentos militares, quando na verdade prioriza serviços universais de saúde, educação e previdência, financiados coletivamente por meio de tributação progressiva"
+                                                          "a":  "o de que o modelo exige privatizar integralmente os serviços sociais públicos",
+                                                          "b":  "o de que a renda básica garantiria patamar mínimo de segurança econômica direta",
+                                                          "c":  "o de que o welfare state elimina a intervenção estatal na proteção social",
+                                                          "d":  "o de que a proteção social deve ser condicionada à contrapartida de trabalho",
+                                                          "e":  "o de que o financiamento deve vir de contribuição individual, não de tributação geral"
                                                       },
                                      "resposta":  "b",
-                                     "explicacao":  "O Estado de bem-estar social provê serviços universais financiados por tributação para reduzir desigualdades; essa concepção situa o argumento de programas de renda básica universal como extensão dessa lógica de segurança econômica mínima — diferente de inverter o sentido do conceito (eliminação da intervenção estatal), de associá-lo à privatização de serviços, ou de reduzi-lo a gastos militares.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "A renda básica prolonga a lógica do welfare state trocando o serviço pela transferência: em vez de garantir o mínimo por meio de saúde e educação públicas, garante-o em dinheiro, mantidos a universalidade e o financiamento coletivo. Em (d) está a posição rival que de fato disputa esse debate — condicionar o benefício a contrapartida é o que a proposta universal recusa, e reconhecer a oposição é o que a questão cobra. Em (e), o custeio por contribuição individual descaracteriza a universalidade. Em (a) e (c), privatização e ausência de intervenção contrariam a definição do modelo."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-78",
                                      "texto_apoio":  "O neoliberalismo defende a redução da intervenção estatal na economia, a privatização de empresas públicas e a desregulamentação de mercados.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Esse conjunto de ideias ajuda a situar qual posição em debates contemporâneos sobre a privatização de serviços públicos como saneamento e distribuição de energia?",
                                      "alternativas":  {
-                                                          "a":  "a defesa de que essa corrente propõe a ampliação dos gastos públicos sociais e a estatização de setores estratégicos, quando na verdade defende a redução do gasto público e a privatização",
-                                                          "b":  "a ideia de que o neoliberalismo defende a eliminação completa do comércio internacional entre países, quando na verdade defende a abertura e a desregulamentação dos mercados",
-                                                          "c":  "a ideia de que o neoliberalismo implica o fim de qualquer forma de propriedade privada dos meios de produção, quando na verdade defende justamente sua ampliação pela privatização",
-                                                          "d":  "a posição que defende que a transferência desses serviços à iniciativa privada, sujeita à concorrência de mercado, tenderia a gerar maior eficiência do que sua gestão sob controle estatal direto",
-                                                          "e":  "a posição que defende o aumento do investimento público em infraestrutura como motor do crescimento"
+                                                          "a":  "a que defende ampliar o investimento público em infraestrutura como motor do crescimento",
+                                                          "b":  "a que privatiza o serviço e dispensa a existência de uma agência que regule tarifa, qualidade e investimento",
+                                                          "c":  "a que mantém a operação estatal e apenas terceiriza a execução de obras a empresas privadas",
+                                                          "d":  "a que transfere esses serviços à iniciativa privada, esperando ganho de eficiência pela concorrência",
+                                                          "e":  "a que condiciona a privatização à aprovação prévia dos usuários em consulta popular vinculante"
                                                       },
                                      "resposta":  "d",
-                                     "explicacao":  "O neoliberalismo defende privatização e desregulamentação como caminho para maior eficiência de mercado; essa chave situa a posição favorável à privatização de serviços públicos de saneamento e energia — diferente de atribuir-lhe a eliminação do comércio internacional, de inverter sua posição sobre gasto público e estatização, ou de associá-lo ao fim da propriedade privada, o oposto de sua tese central.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "A posição neoliberal aposta que a exposição à concorrência disciplina o prestador melhor do que o controle estatal direto, e é esse o argumento mobilizado a favor da privatização de saneamento e energia. Em (b) está o distrator mais fino: privatizar sem regulação não é a posição corrente dessa corrente, que trata a agência reguladora como condição para que a concorrência funcione em setores de rede. Em (a) e (c), ampliar investimento público e manter a operação estatal são posições opostas ao programa descrito. Em (e), a consulta vinculante é um critério de legitimidade democrática, alheio ao argumento econômico em questão."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-79",
@@ -13222,66 +13222,66 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "filosofia-sociologia-80",
                                      "texto_apoio":  "Diferentemente de uma concepção puramente eleitoral, a \"democracia deliberativa\" enfatiza a legitimidade das decisões políticas fundada em processos amplos de debate público e troca de razões entre cidadãos.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Esse conceito ajuda a situar qual justificativa para a adoção de orçamentos participativos e assembleias de cidadãos sorteados para debater políticas públicas específicas, como as climáticas?",
                                      "alternativas":  {
-                                                          "a":  "a ideia de que a democracia deliberativa exige a substituição das eleições por sorteios aleatórios de representantes, quando na verdade complementa, sem substituir, o processo eleitoral representativo tradicional",
-                                                          "b":  "a defesa de que esse modelo concentra todo o poder decisório exclusivamente no Poder Judiciário, quando na verdade distribui esse poder entre cidadãos comuns e representantes eleitos",
-                                                          "c":  "a ideia de que a democracia deliberativa exclui a opinião pública de qualquer etapa do processo de decisão política, quando na verdade a valoriza como fonte central de legitimidade deliberativa",
-                                                          "d":  "a de que a participação direta reduz o custo administrativo da execução orçamentária",
-                                                          "e":  "a de que a legitimidade dessas decisões deriva não apenas da eleição prévia de representantes, mas de processos de discussão direta e argumentação entre cidadãos comuns sobre o próprio conteúdo das políticas em debate"
+                                                          "a":  "a de que a participação direta reduz o custo administrativo da execução orçamentária",
+                                                          "b":  "a de que o sorteio dos participantes produz uma amostra estatisticamente representativa do país inteiro",
+                                                          "c":  "a de que essas assembleias devem substituir as eleições como forma de escolher governantes",
+                                                          "d":  "a de que a decisão técnica sobre clima deve caber a especialistas, e não a cidadãos comuns",
+                                                          "e":  "a de que a legitimidade vem também da discussão direta entre cidadãos sobre o conteúdo das políticas"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "A democracia deliberativa valoriza processos de debate público e argumentação como fonte de legitimidade; essa chave situa a justificativa de orçamentos participativos e assembleias de cidadãos sorteados sobre políticas específicas — diferente de propor a substituição total das eleições, de concentrar poder no Judiciário, ou de excluir a opinião pública da decisão.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "A tese deliberativa desloca a fonte da legitimidade: além do mandato conferido na eleição, conta o processo de troca de razões sobre o mérito da política, e é isso que orçamentos participativos e assembleias sorteadas tentam institucionalizar. Em (c) está o excesso mais comum — esses arranjos complementam o processo representativo e não o substituem. Em (b), a representatividade estatística é um argumento de método do sorteio, não a justificativa deliberativa. Em (d), entregar a decisão a especialistas é a concepção tecnocrática, oposta à deliberativa. Em (a), a economia administrativa é efeito eventual, não fundamento de legitimidade."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-81",
                                      "texto_apoio":  "A ciência política costuma caracterizar o populismo pela construção discursiva de uma oposição entre um \"povo\" homogêneo e virtuoso e uma \"elite\" corrupta e distante dos interesses populares.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Essa caracterização ajuda a analisar qual estratégia discursiva recorrente em campanhas políticas que se apresentam como vozes diretas e autênticas do povo contra instituições tradicionais?",
                                      "alternativas":  {
-                                                          "a":  "a ideia de que essa estratégia opõe apenas partidos políticos de esquerda entre si, sem qualquer referência a elites ou instituições, quando na verdade mobiliza a oposição entre um povo idealizado e uma elite corrupta, independentemente do espectro ideológico dos partidos envolvidos",
-                                                          "b":  "a defesa de que essa retórica se dá entre diferentes setores empresariais, sem qualquer menção ao \"povo\" ou às \"elites\", quando essa oposição entre um povo idealizado e uma elite corrupta é justamente o núcleo do discurso populista contemporâneo",
-                                                          "c":  "a ideia de que essa estratégia se organiza exclusivamente em torno de uma oposição entre instituições internacionais e organizações não governamentais, quando na verdade opõe um povo idealizado a elites e instituições políticas, partidárias e midiáticas tradicionais",
-                                                          "d":  "a construção de uma narrativa técnica que apresenta as decisões como resultado de cálculo especializado",
-                                                          "e":  "a construção retórica de uma oposição entre um povo idealizado, cujos interesses seriam representados diretamente pelo líder, e instituições, partidos ou meios de comunicação tradicionais, apresentados como corruptos ou desconectados desses interesses"
+                                                          "a":  "a construção de uma narrativa técnica, que apresenta decisões como resultado de cálculo especializado",
+                                                          "b":  "a construção de uma disputa entre partidos de um mesmo campo ideológico pela liderança do bloco",
+                                                          "c":  "a construção de uma oposição entre organismos internacionais e organizações não governamentais",
+                                                          "d":  "a construção de um programa setorial detalhado, dirigido a categorias profissionais específicas",
+                                                          "e":  "a construção de uma oposição entre um povo idealizado e instituições apresentadas como corruptas"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "O populismo é caracterizado pela oposição retórica entre um povo idealizado e uma elite corrupta ou distante; essa chave analisa a estratégia discursiva de campanhas que se apresentam como vozes diretas do povo contra instituições tradicionais — diferente de restringir a oposição a organismos internacionais, de descrevê-la como disputa entre empresas, ou de limitá-la a uma disputa interna à esquerda.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O núcleo do discurso populista é essa dicotomia, somada à pretensão de que o líder representa o povo diretamente, sem a mediação de partidos, parlamento ou imprensa. Em (a) está o distrator mais instrutivo, porque descreve o discurso tecnocrático, que é o oposto simétrico: um funda a legitimidade na vontade popular imediata, o outro na competência especializada. Em (d), o programa setorial detalhado dirige-se a categorias e não a um povo homogêneo. Em (b) e (c), disputas intrapartidárias e conflitos entre organismos internacionais podem existir, mas nenhuma delas mobiliza a oposição povo-elite que define o fenômeno."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-82",
                                      "texto_apoio":  "Bourdieu descreve a \"violência simbólica\" como uma forma de dominação imposta e, ao mesmo tempo, reconhecida como legítima pelos próprios dominados, que a incorporam sem percebê-la como imposição arbitrária.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse conceito ajuda a analisar qual efeito do uso generalizado de filtros de beleza em fotos e vídeos publicados em redes sociais?",
                                      "alternativas":  {
-                                                          "a":  "o modo como certos padrões estéticos, amplamente reforçados por esses filtros, podem ser internalizados por usuários como parâmetro natural e desejável de beleza, sem que percebam esse padrão como uma construção social imposta e reforçada tecnologicamente",
-                                                          "b":  "o modo como o uso prolongado de telas afeta a qualidade do sono e a capacidade de concentração",
-                                                          "c":  "a ideia de que esse fenômeno se manifesta exclusivamente por meio de coerção física direta sobre os usuários, quando a violência simbólica descrita por Bourdieu opera pela internalização de padrões, não pela coerção física",
-                                                          "d":  "a ideia de que o uso de filtros de beleza depende exclusivamente de leis formais para se manifestar na sociedade, quando opera de modo informal e simbólico, por meio de padrões estéticos naturalizados e internalizados sem qualquer imposição legal",
-                                                          "e":  "a defesa de que esse efeito não guarda qualquer relação com desigualdades de gênero ou capital cultural, quando Bourdieu associa esse padrão a hierarquias sociais e a um capital que molda também disposições de gosto e autoimagem"
+                                                          "a":  "o de padrões estéticos serem internalizados como naturais, sem serem vistos como construção",
+                                                          "b":  "o de o uso prolongado de telas afetar a qualidade do sono e a capacidade de concentração ao longo do dia",
+                                                          "c":  "o de plataformas coagirem diretamente os usuários a editar as imagens que publicam",
+                                                          "d":  "o de o padrão de beleza depender de lei formal para se impor ao conjunto dos usuários",
+                                                          "e":  "o de usuários reconhecerem o filtro como artifício e ainda assim optarem por empregá-lo"
                                                       },
                                      "resposta":  "a",
-                                     "explicacao":  "A violência simbólica opera pela internalização, como natural, de padrões impostos por grupos dominantes; esse conceito ilumina como filtros de beleza reforçam padrões estéticos internalizados sem percepção de imposição — diferente de vincular o fenômeno a leis formais, de negar sua relação com desigualdades de gênero, ou de reduzi-lo a coerção física direta.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "A violência simbólica opera por reconhecimento, não por coação: o padrão é adotado como se fosse evidente por si, e é essa naturalização que o torna eficaz sem precisar de imposição visível. Em (e) está o distrator mais difícil, porque descreve algo verdadeiro sobre o uso de filtros — mas reconhecer o artifício é o oposto do desconhecimento que o conceito exige, e por isso o caso escapa da definição. Em (c) e (d), coerção direta e lei formal são as formas explícitas de imposição que Bourdieu contrapõe à simbólica. Em (b), o efeito sobre sono e concentração é fisiológico, sem relação com dominação simbólica."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-83",
                                      "texto_apoio":  "Segundo a perspectiva \"dramatúrgica\" de Goffman, os indivíduos administram ativamente a impressão que desejam causar em uma \"plateia\", adaptando sua apresentação conforme o contexto social.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Essa perspectiva ajuda a analisar qual crítica frequente à diferença entre a imagem de vida cuidadosamente editada por usuários em redes sociais e sua rotina cotidiana real?",
                                      "alternativas":  {
-                                                          "a":  "a defesa de que redes sociais eliminam qualquer forma de gerenciamento consciente da própria imagem por parte dos usuários, quando esse gerenciamento é justamente o núcleo da perspectiva dramatúrgica de Goffman",
-                                                          "b":  "a ideia de que perfis em redes sociais revelam sempre, de forma espontânea e integral, a verdadeira personalidade de cada usuário, quando Goffman descreve a interação social como administração seletiva da própria imagem perante uma plateia",
-                                                          "c":  "a ideia de que os indivíduos seguem, em redes sociais, roteiros idênticos e imutáveis em todas as situações, independentemente do contexto, quando Goffman descreve a adaptação da apresentação conforme cada plateia",
-                                                          "d":  "a de que perfis em redes sociais expõem dados pessoais a empresas sem consentimento informado",
-                                                          "e":  "a de que perfis em redes sociais funcionam como uma espécie de \"palco\" no qual os usuários selecionam e editam ativamente quais aspectos de sua vida apresentar a uma audiência, deixando de fora o que consideram menos favorável"
+                                                          "a":  "a de que perfis em redes expõem dados pessoais a empresas sem consentimento informado",
+                                                          "b":  "a de que o perfil revela de forma espontânea e integral a personalidade de cada usuário",
+                                                          "c":  "a de que os usuários seguem um mesmo roteiro em todas as situações, seja qual for a plateia",
+                                                          "d":  "a de que a edição da imagem é fenômeno novo, sem equivalente na sociabilidade fora das redes",
+                                                          "e":  "a de que o perfil funciona como palco em que se seleciona o que apresentar à audiência"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "Goffman compara a interação social a uma representação teatral, em que se administra a impressão causada em uma plateia; essa perspectiva ilumina a curadoria de imagem em redes sociais, que seleciona o que apresentar a uma audiência — diferente de supor roteiros fixos e idênticos, de negar o gerenciamento consciente da imagem, ou de afirmar que perfis revelam a personalidade integral do usuário.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "Goffman descreve a interação como apresentação diante de uma plateia, com um palco onde se mostra o que convém e um bastidor onde fica o resto — o perfil editado é essa estrutura transposta para a rede. Em (d) está o erro que a perspectiva dramatúrgica serve para corrigir: a administração da própria imagem não nasce com as redes, é traço geral da vida social, e a rede apenas lhe dá novos recursos. Em (b), a espontaneidade integral contraria a seleção que define o conceito. Em (c), a adaptação conforme a plateia é justamente o que Goffman descreve. Em (a), a exposição de dados é questão de privacidade, não de apresentação de si."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-84",
@@ -13302,50 +13302,50 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "filosofia-sociologia-85",
                                      "texto_apoio":  "Norbert Elias descreve o \"processo civilizador\" como a interiorização crescente de normas de autocontrole sobre impulsos e comportamentos corporais ao longo da história ocidental.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse conceito ajuda a analisar qual transformação observada nas normas de conduta profissional após a disseminação do trabalho remoto, quando hábitos antes reservados ao ambiente privado passaram a aparecer em videochamadas de trabalho?",
                                      "alternativas":  {
-                                                          "a":  "a padronização internacional de regras de etiqueta em ambientes corporativos multinacionais",
-                                                          "b":  "a renegociação de fronteiras entre comportamentos considerados adequados ao espaço público (profissional) e ao espaço privado (doméstico), revelando que os padrões de autocontrole e formalidade não são fixos, mas historicamente variáveis conforme o contexto social",
-                                                          "c":  "a defesa de que esse processo corresponde a uma diminuição da complexidade das interdependências sociais entre os indivíduos, quando Elias associa a civilização a uma complexidade crescente dessas interdependências",
-                                                          "d":  "a ideia de que o processo civilizador levou a uma liberação total dos impulsos e emoções, sem qualquer padrão de autocontrole social, quando Elias descreve justamente a interiorização crescente de normas de autocontrole sobre impulsos e comportamentos",
-                                                          "e":  "a ideia de que o processo civilizador implica ausência de qualquer relação entre transformações de comportamento individual e mudanças nas estruturas sociais, relação que é justamente central à análise de Elias sobre o autocontrole"
+                                                          "a":  "a padronização internacional de regras de etiqueta em ambientes corporativos",
+                                                          "b":  "a renegociação das fronteiras entre o que cabe ao espaço profissional e ao doméstico",
+                                                          "c":  "a diminuição da complexidade das interdependências sociais entre os indivíduos",
+                                                          "d":  "a liberação total dos impulsos, sem qualquer padrão de autocontrole social",
+                                                          "e":  "a fixação definitiva dos padrões de formalidade profissional, agora imunes à mudança histórica"
                                                       },
                                      "resposta":  "b",
-                                     "explicacao":  "Elias mostra que os padrões de autocontrole sobre o comportamento variam historicamente conforme transformações sociais; esse conceito ilumina a renegociação de fronteiras entre o profissional e o doméstico no trabalho remoto — diferente de negar a relação entre comportamento individual e estrutura social, de supor menor interdependência social, ou de descrever o processo como liberação total dos impulsos, o oposto de sua tese.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "Elias mostra que os limiares de pudor e formalidade se deslocam historicamente, e a videochamada tornou visível um deslocamento em curso: a fronteira entre casa e trabalho está sendo refeita, não abolida. Em (e) está a leitura oposta — supor os padrões fixos é o que o conceito de processo, por definição, nega. Em (d), a mudança de fronteira não é liberação sem regra: novas convenções surgem no lugar das antigas. Em (c), Elias associa a civilização ao aumento das interdependências, não à sua redução. Em (a), a padronização internacional de etiqueta é outro fenômeno, sem relação com o deslocamento descrito."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-86",
                                      "texto_apoio":  "A \"teoria da tensão\" (strain theory) explica comportamentos desviantes a partir da tensão entre metas culturalmente valorizadas, como o sucesso material, e a desigual disponibilidade de meios legítimos para alcançá-las.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Essa teoria ajuda a analisar qual crítica sociológica ao apelo de esquemas de enriquecimento rápido e discursos que prometem sucesso financeiro imediato, populares em redes sociais entre jovens de bairros com poucas oportunidades formais de ascensão econômica?",
                                      "alternativas":  {
-                                                          "a":  "a defesa de que não existe qualquer forma de desigualdade social relacionada ao apelo desses discursos, quando é justamente essa desigualdade de acesso a meios legítimos que a teoria da tensão coloca no centro da explicação do desvio",
-                                                          "b":  "a ideia de que o Estado, ao adotar essa teoria, elimina completamente a meta cultural de sucesso material compartilhada pela sociedade, quando essa meta é descrita como amplamente compartilhada, e não eliminável por decreto",
-                                                          "c":  "a de que esses esquemas se sustentam apenas enquanto houver entrada contínua de novos participantes",
-                                                          "d":  "a ideia de que essa teoria pressupõe que todos os indivíduos de uma sociedade compartilham igualmente tanto as metas quanto os meios legítimos para alcançá-las, quando a teoria da tensão explica o desvio justamente pela desigualdade estrutural no acesso a esses meios entre diferentes classes e grupos sociais",
-                                                          "e":  "a de que esses discursos exploram a tensão entre a forte valorização social do sucesso material e a escassez de meios legítimos disponíveis para alcançá-lo, o que pode levar alguns indivíduos a recorrer a meios ilegítimos ou arriscados na busca pelas mesmas metas culturalmente valorizadas"
+                                                          "a":  "a de que não há desigualdade social relacionada ao apelo desses discursos",
+                                                          "b":  "a de que a teoria propõe eliminar por decreto a meta cultural de sucesso material",
+                                                          "c":  "a de que esses esquemas se sustentam apenas enquanto houver entrada de novos participantes",
+                                                          "d":  "a de que todos partilham igualmente as metas e os meios legítimos de alcançá-las",
+                                                          "e":  "a de que exploram a tensão entre valorizar o sucesso e a escassez de meios legítimos"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "A teoria da tensão explica o desvio a partir do descompasso entre metas valorizadas e meios legítimos disponíveis; essa chave ilumina o apelo de esquemas de enriquecimento rápido entre jovens com poucas oportunidades formais — diferente de supor igualdade de acesso a metas e meios, de negar a desigualdade social envolvida, ou de atribuir ao Estado a eliminação da meta cultural de sucesso.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "A teoria explica o desvio pelo descompasso entre uma meta que a cultura distribui a todos e meios legítimos que a estrutura distribui de forma desigual — e é nesse vão que promessas de enriquecimento rápido encontram público. Em (c) está o distrator mais forte: descrever a mecânica financeira do esquema é correto e não é sociologia, porque não explica por que ele atrai justamente quem atrai. Em (d), a igualdade de acesso aos meios é a premissa que a teoria rejeita. Em (a), a desigualdade é o centro da explicação. Em (b), a teoria descreve a meta cultural, sem propor suprimi-la."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-87",
                                      "texto_apoio":  "Diferentemente do fordismo, baseado na rígida padronização de tarefas em linha de montagem, o toyotismo se caracteriza por maior flexibilidade produtiva e multifuncionalidade dos trabalhadores.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Essa distinção entre modelos de organização do trabalho ajuda a situar qual característica do modelo de trabalho por aplicativo (motoristas e entregadores), organizado por demanda e sem jornada fixa?",
                                      "alternativas":  {
-                                                          "a":  "a ideia de que o trabalho por aplicativo mantém exatamente a mesma lógica de produção em massa padronizada e rígida do fordismo, sem qualquer alteração, quando na verdade se aproxima da flexibilização toyotista, e não da rigidez fordista",
-                                                          "b":  "a manutenção de uma hierarquia rígida de supervisão, com chefias diretas acompanhando cada tarefa",
-                                                          "c":  "a defesa de que esse modelo se caracteriza pela rejeição total do uso de tecnologia e automação nos processos produtivos, quando na verdade depende amplamente de aplicativos, algoritmos e geolocalização",
-                                                          "d":  "a ideia de que esse modelo elimina completamente a divisão do trabalho em qualquer etapa da atividade, quando na verdade mantém alguma divisão de tarefas, ainda que mais flexível que no fordismo",
-                                                          "e":  "a aproximação com uma lógica flexível, orientada pela demanda momentânea e por múltiplas tarefas adaptáveis, em contraste com a rigidez de postos de trabalho fixos e padronizados típica do modelo fordista clássico"
+                                                          "a":  "a manutenção da produção em massa padronizada e rígida típica do modelo fordista clássico",
+                                                          "b":  "a manutenção de hierarquia rígida, com chefias acompanhando cada tarefa",
+                                                          "c":  "a rejeição do uso de tecnologia e automação nos processos produtivos",
+                                                          "d":  "a eliminação da divisão do trabalho em todas as etapas da atividade",
+                                                          "e":  "a lógica flexível, orientada pela demanda momentânea e por tarefas adaptáveis"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "O toyotismo se caracteriza pela flexibilização da produção e pela multifuncionalidade dos trabalhadores, em contraste com a rigidez fordista; essa chave situa o trabalho por aplicativo, organizado por demanda e sem jornada fixa, como próximo dessa lógica flexível — diferente de igualá-lo à rigidez fordista, de negar o uso de tecnologia nesse modelo, ou de supor a eliminação da divisão do trabalho.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "Produção puxada pela demanda, sem estoque de horas nem posto fixo, é a lógica que o toyotismo introduziu e que o trabalho por aplicativo leva ao extremo, transferindo ao trabalhador o risco da oscilação. Em (b) está o ponto mais interessante da questão: há supervisão intensa nesse modelo, mas exercida pelo algoritmo e não por uma chefia direta, de modo que a alternativa acerta o fato e erra a forma. Em (a), a rigidez fordista é o termo de contraste. Em (c), o modelo depende de tecnologia. Em (d), a divisão de tarefas persiste, apenas mais fluida."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-88",
@@ -13414,18 +13414,18 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "filosofia-sociologia-92",
                                      "texto_apoio":  "Boaventura de Sousa Santos propõe as \"epistemologias do Sul\" para valorizar saberes produzidos por povos historicamente subalternizados pelo colonialismo, questionando a hegemonia epistemológica dos países do Norte global.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse conceito ajuda a fundamentar qual argumento em debates sobre a inclusão de saberes indígenas e tradicionais em currículos escolares e universitários brasileiros?",
                                      "alternativas":  {
-                                                          "a":  "o de que reconhecer formalmente saberes indígenas e tradicionais como conhecimento legítimo, ao lado da ciência moderna, contribui para corrigir uma hierarquia histórica que desvalorizou essas formas de conhecimento em razão do colonialismo",
-                                                          "b":  "o de que saberes tradicionais devem ser validados pelos métodos da ciência moderna antes de serem ensinados",
-                                                          "c":  "a ideia de que as epistemologias do Sul sustentam o predomínio exclusivo do conhecimento científico ocidental sobre quaisquer outras formas de saber, quando Boaventura de Sousa Santos propõe justamente o contrário desse predomínio",
-                                                          "d":  "a ideia de que as epistemologias do Sul defendem a eliminação completa da ciência moderna como forma legítima de conhecimento nos currículos escolares, quando propõem sua convivência com outros saberes, e não sua eliminação",
-                                                          "e":  "a defesa de que esse conceito nega qualquer relevância ao diálogo entre diferentes tradições de conhecimento no mundo contemporâneo, quando o conceito valoriza justamente esse diálogo entre tradições de saber"
+                                                          "a":  "o de reconhecer saberes indígenas como conhecimento legítimo ao lado da ciência",
+                                                          "b":  "o de validar os saberes tradicionais pelos métodos da ciência moderna antes de ensiná-los",
+                                                          "c":  "o de sustentar o predomínio do conhecimento científico ocidental sobre os demais",
+                                                          "d":  "o de eliminar a ciência moderna dos currículos escolares e universitários",
+                                                          "e":  "o de negar relevância ao diálogo entre diferentes tradições de conhecimento"
                                                       },
                                      "resposta":  "a",
-                                     "explicacao":  "Boaventura de Sousa Santos propõe valorizar saberes historicamente marginalizados ao lado da ciência moderna; esse conceito fundamenta a defesa da inclusão de saberes indígenas em currículos escolares — diferente de propor a eliminação da ciência moderna, de negar o diálogo entre tradições de conhecimento, ou de defender o predomínio exclusivo do conhecimento ocidental, o oposto de sua proposta.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "A proposta é de convivência entre formas de saber, corrigindo uma hierarquia herdada do colonialismo — não de substituir uma supremacia por outra. Em (b) está o distrator mais sutil de todos: exigir que o saber tradicional passe pelo crivo do método científico para valer parece razoável e reinstala exatamente a hierarquia que o conceito questiona, porque mantém o Norte como tribunal do que conta como conhecimento. Em (d), eliminar a ciência moderna é o excesso oposto, que a proposta não sustenta. Em (c) e (e), predomínio ocidental e recusa do diálogo contrariam o conceito de frente."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-93",
@@ -13446,98 +13446,98 @@ window.QUESTION_BANKS = {
                                  {
                                      "id":  "filosofia-sociologia-94",
                                      "texto_apoio":  "Thomas Kuhn descreve o desenvolvimento científico como marcado por rupturas chamadas \"revoluções científicas\", em que um paradigma dominante é substituído por outro após uma crise gerada por anomalias inexplicáveis.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse modelo kuhniano ajuda a situar qual debate sobre se o desenvolvimento acelerado da inteligência artificial representa uma mudança meramente incremental ou uma verdadeira ruptura de paradigma nas ciências da computação?",
                                      "alternativas":  {
-                                                          "a":  "a ideia de que a ciência, segundo Kuhn, deixa de utilizar qualquer forma de consenso entre pesquisadores após uma revolução científica, quando o consenso da comunidade científica é justamente o mecanismo que consolida a adoção de um novo paradigma dominante",
-                                                          "b":  "a ideia de que, para Kuhn, todo conhecimento científico acumulado anteriormente é preservado sem qualquer alteração diante de uma revolução científica, quando o autor descreve justamente rupturas que reorganizam o conhecimento prévio",
-                                                          "c":  "o debate sobre se os modelos atuais resolvem anomalias que os paradigmas computacionais anteriores não conseguiam explicar de forma satisfatória, o que justificaria falar em uma revolução de paradigma, e não apenas em avanço técnico incremental dentro do paradigma vigente",
-                                                          "d":  "a defesa de que não existe qualquer influência de fatores sociais ou históricos na produção do conhecimento científico, segundo Kuhn, quando o autor destaca o papel da comunidade científica na consolidação de paradigmas",
-                                                          "e":  "o debate sobre se o financiamento privado da pesquisa compromete a independência dos resultados"
+                                                          "a":  "o debate sobre se a ciência dispensa o consenso da comunidade após uma revolução",
+                                                          "b":  "o debate sobre se o conhecimento anterior é preservado intacto após uma revolução",
+                                                          "c":  "o debate sobre se os modelos atuais resolvem anomalias que o paradigma anterior não resolvia",
+                                                          "d":  "o debate sobre se fatores sociais e históricos influenciam a produção do conhecimento científico",
+                                                          "e":  "o debate sobre se o financiamento privado compromete a independência dos resultados"
                                                       },
                                      "resposta":  "c",
-                                     "explicacao":  "Kuhn descreve revoluções científicas como substituição de paradigmas após crises geradas por anomalias inexplicáveis; esse modelo situa o debate sobre se a IA atual representa uma ruptura de paradigma ou avanço incremental — diferente de supor preservação integral do conhecimento anterior, de negar a influência de fatores sociais na ciência, ou de negar o papel do consenso entre pesquisadores na formação de um novo paradigma.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O critério kuhniano de ruptura é a anomalia: fala-se em novo paradigma quando o anterior deixa de dar conta de problemas que o novo resolve, e não quando apenas se acumulam melhorias. Em (b) está o traço que Kuhn nega — a revolução reorganiza o conhecimento prévio em vez de preservá-lo intacto —, mas isso descreve o modelo, e não o debate sobre a IA. Em (a), o consenso da comunidade é o que consolida o paradigma novo. Em (d), o peso de fatores sociais é tese de Kuhn, não objeto da controvérsia. Em (e), o financiamento é questão de política científica, alheia ao critério de ruptura."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-95",
                                      "texto_apoio":  "A crítica relativista à pretensão de universalidade dos direitos humanos pondera que a formulação de determinados direitos pode refletir valores específicos de certas tradições culturais, sobretudo ocidentais.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Essa crítica ajuda a situar qual tensão presente em debates internacionais sobre a aplicação de normas globais de direitos humanos a práticas culturais específicas de diferentes países?",
                                      "alternativas":  {
-                                                          "a":  "a defesa de que todos os povos do mundo compartilham exatamente os mesmos valores morais em qualquer época histórica, quando a crítica relativista destaca justamente a diversidade de valores entre tradições culturais",
-                                                          "b":  "a ideia de que não existe qualquer fundamento possível para a defesa de direitos humanos em nenhuma cultura, quando a crítica relativista apenas pondera a origem cultural de certas formulações normativas, sem negar sua importância prática",
-                                                          "c":  "a tensão entre a aspiração de proteções universais mínimas e a necessidade de diálogo intercultural na definição de normas que, embora se pretendam globais, podem carregar concepções específicas de determinadas tradições",
-                                                          "d":  "a ideia de que apenas países ocidentais deveriam ser signatários de tratados internacionais de direitos humanos, quando o debate discute justamente a legitimidade global dessas normas para todos os países e culturas",
-                                                          "e":  "a tensão entre a proteção de direitos individuais e o custo orçamentário de sua implementação"
+                                                          "a":  "a de que todos os povos compartilham os mesmos valores morais em qualquer época",
+                                                          "b":  "a de que não existe fundamento possível para direitos humanos em nenhuma cultura",
+                                                          "c":  "a tensão entre proteções universais mínimas e o diálogo intercultural na sua definição",
+                                                          "d":  "a de que apenas países ocidentais deveriam assinar tratados de direitos humanos",
+                                                          "e":  "a tensão entre proteger direitos individuais e o custo orçamentário de sua implementação plena"
                                                       },
                                      "resposta":  "c",
-                                     "explicacao":  "A crítica relativista pondera que normas de direitos humanos podem carregar valores de tradições específicas, sugerindo a necessidade de diálogo intercultural, sem negar a importância de proteções mínimas; essa chave situa a tensão em debates internacionais sobre normas globais aplicadas a práticas culturais específicas — diferente de restringir a titularidade de tratados a países ocidentais, de supor uniformidade moral entre povos, ou de negar todo fundamento à defesa de direitos humanos.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "A crítica relativista não pede o abandono dos direitos humanos: pede que a construção das normas seja intercultural, para que a pretensão de universalidade não se confunda com a generalização de uma tradição. A tensão está entre esses dois polos. Em (b) está o excesso a que a crítica é frequentemente reduzida, e que ela não sustenta. Em (a), a homogeneidade de valores é a premissa que a crítica questiona. Em (d), restringir os tratados ao Ocidente inverteria o problema, que é a legitimidade global das normas. Em (e), o custo orçamentário é uma tensão real, porém de outra ordem."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-96",
                                      "texto_apoio":  "Nancy Fraser argumenta que uma teoria da justiça social adequada deve articular, simultaneamente, demandas por redistribuição econômica e por reconhecimento cultural de identidades.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse argumento ajuda a criticar qual limitação de políticas públicas que buscam reduzir desigualdades considerando apenas a dimensão econômica, sem qualquer atenção a hierarquias de status baseadas em raça ou gênero — ou, inversamente, apenas a dimensão de reconhecimento cultural, sem qualquer atenção à redistribuição de renda?",
                                      "alternativas":  {
-                                                          "a":  "a ideia de que nenhuma forma de intervenção estatal em questões econômicas ou culturais seria compatível com a teoria de Fraser, quando a autora defende políticas públicas que articulem redistribuição econômica e reconhecimento cultural simultaneamente",
-                                                          "b":  "a de que reduzir a justiça social a apenas uma dessas dimensões, isoladamente, deixa de captar como desigualdades de classe e hierarquias de status por identidade se combinam e se reforçam mutuamente na produção da injustiça social",
-                                                          "c":  "a de que políticas de transferência de renda desestimulam a busca por trabalho formal",
-                                                          "d":  "a ideia de que, para Fraser, apenas a redistribuição econômica importa, sem qualquer consideração sobre reconhecimento cultural de identidades, quando a autora defende a articulação simultânea das duas dimensões",
-                                                          "e":  "a defesa de que, para Fraser, apenas o reconhecimento cultural importa, sem qualquer consideração sobre desigualdades econômicas, quando a autora exige também a redistribuição como dimensão indispensável da justiça"
+                                                          "a":  "a de que nenhuma intervenção estatal seria compatível com a teoria de Fraser",
+                                                          "b":  "a de que reduzir a justiça a uma só dimensão não capta como elas se reforçam",
+                                                          "c":  "a de que políticas de transferência de renda desestimulam o trabalho formal",
+                                                          "d":  "a de que, para Fraser, apenas a redistribuição econômica importa de fato",
+                                                          "e":  "a de que a redistribuição deve preceder o reconhecimento na ordem das políticas"
                                                       },
                                      "resposta":  "b",
-                                     "explicacao":  "Fraser argumenta que redistribuição e reconhecimento são dimensões complementares e igualmente necessárias da justiça social; esse argumento critica políticas que isolam apenas uma dessas dimensões — diferente de atribuir a Fraser a defesa de apenas uma delas isoladamente (seja só redistribuição, seja só reconhecimento), ou de negar toda intervenção estatal em sua teoria.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "O argumento de Fraser é de simultaneidade: classe e status produzem injustiça em conjunto, e uma política que ataque só um dos eixos deixa o outro reproduzindo o resultado que ela pretendia corrigir. Em (e) está o distrator mais fino, porque não nega nenhuma das duas dimensões — apenas as põe em sequência, e é justamente a ordenação que a autora recusa. Em (d), atribuir-lhe o primado da redistribuição desfaz a tese. Em (a), ela defende políticas públicas, não sua impossibilidade. Em (c), o desestímulo ao trabalho formal é objeção econômica de outra literatura."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-97",
                                      "texto_apoio":  "Georg Simmel descreve a \"atitude blasé\", uma espécie de indiferença e embotamento emocional que o habitante das grandes metrópoles desenvolve como defesa psíquica diante do excesso de estímulos sensoriais.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "dificil",
                                      "enunciado":  "Esse conceito ajuda a interpretar qual efeito comumente relatado do recebimento constante de notificações e estímulos de aplicativos digitais ao longo do dia?",
                                      "alternativas":  {
-                                                          "a":  "a defesa de que esse fenômeno corresponde a um entusiasmo diante de cada novo estímulo oferecido pela vida digital, quando Simmel descreve justamente o embotamento defensivo diante do excesso de estímulos",
-                                                          "b":  "a tendência a desenvolver uma espécie de indiferença defensiva diante do volume constante de notificações e estímulos digitais, semelhante ao mecanismo psíquico de proteção que Simmel associava à vida nas metrópoles",
-                                                          "c":  "a ideia de que a atitude blasé implica isolamento físico total, sem qualquer contato do indivíduo com outras pessoas, quando descreve antes uma defesa psíquica que mantém o convívio, ainda que indiferente",
-                                                          "d":  "a ideia de que essa \"atitude blasé\" seria, para Simmel, uma característica presente exclusivamente em pequenas comunidades rurais tradicionais, quando o autor a associa justamente à vida nas grandes metrópoles",
-                                                          "e":  "a tendência a memorizar apenas o conteúdo repetido com maior frequência ao longo do dia"
+                                                          "a":  "o entusiasmo diante de cada novo estímulo oferecido pela vida digital cotidiana",
+                                                          "b":  "a indiferença defensiva diante do volume constante de notificações e estímulos",
+                                                          "c":  "o isolamento físico completo, sem contato do indivíduo com outras pessoas",
+                                                          "d":  "a presença dessa atitude apenas em pequenas comunidades rurais tradicionais",
+                                                          "e":  "a tendência a memorizar apenas o conteúdo repetido com maior frequência no dia"
                                                       },
                                      "resposta":  "b",
-                                     "explicacao":  "Simmel descreve a atitude blasé como defesa psíquica diante do excesso de estímulos da vida metropolitana; esse conceito ilumina a indiferença desenvolvida diante do volume constante de notificações digitais — diferente de atribuir essa atitude a comunidades rurais tradicionais (o oposto do contexto de Simmel), de descrevê-la como entusiasmo, ou de reduzi-la a isolamento físico total.",
-                                     "dificuldade":  "dificil",
-                                     "formato":  "direta"
+                                     "explicacao":  "A atitude blasé é economia psíquica: diante de mais estímulo do que se pode processar, o indivíduo baixa a sensibilidade a todos eles, e a notificação constante reproduz essa condição. Em (c) está o erro que a questão testa — a indiferença descrita por Simmel convive com o contato intenso, e é dele que nasce; não há retirada do convívio. Em (a), o entusiasmo permanente é o oposto do embotamento. Em (d), o fenômeno é associado por Simmel justamente à metrópole. Em (e), a retenção seletiva do que se repete é hipótese de memória, não a resposta afetiva que o conceito descreve."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-98",
                                      "texto_apoio":  "Ferdinand Tönnies contrapõe a \"comunidade\" (Gemeinschaft), fundada em laços afetivos e pessoais de pequenos grupos, à \"sociedade\" (Gesellschaft), de relações mais impessoais e contratuais típicas de grandes centros urbanos.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Essa distinção ajuda a problematizar qual expectativa comum de que comunidades on-line de interesse compartilhado (como grupos de jogos ou fóruns de nicho) substituam integralmente os vínculos de proximidade típicos de comunidades tradicionais?",
                                      "alternativas":  {
-                                                          "a":  "a de que vínculos formados em torno de interesses comuns em ambientes digitais, embora possam gerar identificação e afeto, costumam ter uma base diferente da proximidade física, cotidiana e duradoura característica das comunidades tradicionais analisadas por Tönnies",
-                                                          "b":  "a ideia de que a distinção de Tönnies contrapõe formas de organização econômica capitalista a formas de organização econômica socialista, quando na verdade contrapõe comunidade (Gemeinschaft) e sociedade (Gesellschaft) como tipos de vínculo social, e não sistemas econômicos",
-                                                          "c":  "a ideia de que comunidades on-line reproduzem, sem qualquer diferença relevante, os mesmos laços afetivos e de proximidade das comunidades tradicionais, quando Tönnies associa essa proximidade à convivência física cotidiana e duradoura",
-                                                          "d":  "a defesa de que essa distinção contrapõe regimes políticos democráticos a regimes exclusivamente autoritários, quando na verdade contrapõe laços afetivos comunitários a relações impessoais e contratuais de grandes centros urbanos",
-                                                          "e":  "a de que comunidades on-line reúnem pessoas geograficamente dispersas, o que amplia sua diversidade interna"
+                                                          "a":  "a de que vínculos digitais têm base diferente da proximidade física e cotidiana",
+                                                          "b":  "a de que a distinção contrapõe organização capitalista a organização socialista",
+                                                          "c":  "a de que comunidades on-line reproduzem sem diferença os laços tradicionais",
+                                                          "d":  "a de que a distinção contrapõe regimes democráticos a regimes autoritários",
+                                                          "e":  "a de que comunidades on-line reúnem pessoas dispersas, o que amplia sua diversidade"
                                                       },
                                      "resposta":  "a",
-                                     "explicacao":  "Tönnies contrapõe laços afetivos e de proximidade física (comunidade) a relações mais impessoais e contratuais (sociedade); essa distinção problematiza a expectativa de que comunidades on-line substituam integralmente vínculos tradicionais de proximidade — diferente de associar a distinção a regimes econômicos ou políticos, ou de igualar sem ressalvas comunidades digitais e tradicionais.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "O laço comunitário de Tönnies se apoia em convivência física, cotidiana e prolongada, que não se escolhe; o grupo on-line reúne quem partilha um interesse e pode ser deixado a qualquer momento — há afeto, com outra base. Em (c) está a expectativa que o enunciado pede para problematizar, e afirmá-la é responder o contrário do que se pergunta. Em (e), a dispersão geográfica é uma característica real desses grupos, mas descreve a composição e não o tipo de vínculo. Em (b) e (d), a distinção não trata de sistemas econômicos nem de regimes políticos."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-99",
                                      "texto_apoio":  "Segundo C. Wright Mills, a \"imaginação sociológica\" é a capacidade de relacionar experiências pessoais aparentemente privadas a estruturas e processos sociais e históricos mais amplos.",
+                                     "formato":  "direta",
+                                     "dificuldade":  "media",
                                      "enunciado":  "Esse conceito ajuda a fundamentar qual crítica a discursos que atribuem o desemprego ou o endividamento de trabalhadores de aplicativo exclusivamente a escolhas ou falhas individuais desses trabalhadores?",
                                      "alternativas":  {
                                                           "a":  "a de que tais discursos ignoram as diferenças de aptidão individual entre as pessoas",
-                                                          "b":  "a defesa de que esse conceito propõe ignorar completamente a dimensão histórica na análise de fenômenos sociais contemporâneos, quando Mills valoriza justamente a conexão entre biografia individual e história social",
-                                                          "c":  "a ideia de que a imaginação sociológica recomenda explicar todo problema pessoal exclusivamente por características individuais e psicológicas, sem qualquer relação com o contexto social, quando Mills propõe justamente conectar biografia individual e processos históricos e sociais mais amplos",
-                                                          "d":  "a ideia de que a imaginação sociológica restringe a análise social exclusivamente a dados estatísticos, sem qualquer interpretação qualitativa, quando o conceito valoriza justamente a interpretação qualitativa de experiências pessoais",
-                                                          "e":  "a de que tais discursos ignoram como esses problemas, aparentemente privados, também podem refletir transformações estruturais mais amplas no mercado de trabalho, como a precarização e a flexibilização crescente de vínculos empregatícios"
+                                                          "b":  "a de que o conceito propõe deixar de lado a dimensão histórica na análise dos fenômenos",
+                                                          "c":  "a de que a imaginação sociológica explica o problema pessoal por traços psicológicos",
+                                                          "d":  "a de que a imaginação sociológica restringe a análise social apenas a dados estatísticos agregados",
+                                                          "e":  "a de que ignoram como esses problemas refletem mudanças estruturais no mercado de trabalho"
                                                       },
                                      "resposta":  "e",
-                                     "explicacao":  "Mills define a imaginação sociológica como a capacidade de conectar biografia e história, isto é, problemas pessoais a processos sociais mais amplos; esse conceito fundamenta a crítica a discursos que atribuem o desemprego apenas a falhas individuais, ignorando a precarização estrutural do mercado de trabalho — diferente de reduzir toda explicação a fatores individuais (o oposto da proposta de Mills), de ignorar a dimensão histórica, ou de restringir a análise a dados estatísticos.",
-                                     "dificuldade":  "media",
-                                     "formato":  "direta"
+                                     "explicacao":  "Mills chama de inquietação pessoal o que o indivíduo vive e de questão pública o processo que produz milhares de casos iguais; ler o endividamento de entregadores apenas como falha de escolha é ficar no primeiro termo e perder o segundo. Em (c) está a inversão do conceito, que existe justamente para não explicar tudo por características individuais. Em (b), a dimensão histórica é metade da definição. Em (d), o conceito valoriza a interpretação de experiências, e não só a estatística. Em (a), invocar aptidão individual reforça a explicação que a crítica quer desmontar."
                                  },
                                  {
                                      "id":  "filosofia-sociologia-100",
@@ -13770,17 +13770,17 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-15",
                           "texto_apoio":  "",
+                          "formato":  "direta",
                           "enunciado":  "A expansão do agronegócio no Centro-Oeste brasileiro, a partir das últimas décadas do século XX, foi possibilitada, entre outros fatores, por:",
                           "alternativas":  {
-                                               "a":  "A descoberta de reservas de petróleo no subsolo do Cerrado, que teriam financiado diretamente toda a infraestrutura agrícola da região",
-                                               "b":  "A proibição de expansão do agronegócio em outras regiões do país a partir da década de 1970, o que teria concentrado os investimentos no Centro-Oeste",
-                                               "c":  "O desenvolvimento de tecnologias agrícolas, como a correção de solo e novas variedades de sementes, somado a investimentos em infraestrutura e incentivos governamentais",
-                                               "d":  "A transferência compulsória de pequenos agricultores do Sul do país para o Centro-Oeste, determinada por lei federal de colonização dirigida",
-                                               "e":  "A abundância natural de solos férteis no Cerrado, que dispensou correção química do solo e permitiu o cultivo imediato em larga escala"
+                                               "a":  "A descoberta de reservas de petróleo no Cerrado, que financiou a infraestrutura agrícola",
+                                               "b":  "A proibição de expandir o agronegócio nas demais regiões a partir dos anos 1970",
+                                               "c":  "A correção do solo e novas sementes, somadas a infraestrutura e incentivos públicos",
+                                               "d":  "A transferência compulsória de agricultores do Sul determinada por lei federal",
+                                               "e":  "A fertilidade natural do Cerrado, que dispensou correção química e permitiu cultivo imediato"
                                            },
                           "resposta":  "c",
-                          "explicacao":  "A ocupação agrícola do Cerrado foi viabilizada por avanços tecnológicos, como a correção da acidez do solo, além de investimentos em infraestrutura e incentivos governamentais. Não houve transferência compulsória de agricultores, nem relação com reservas de petróleo no Cerrado, nem proibição de expansão em outras regiões — fatores que não correspondem ao processo histórico real.",
-                          "formato":  "direta"
+                          "explicacao":  "O Cerrado só entrou na fronteira agrícola depois que a pesquisa resolveu dois problemas: a acidez do solo, corrigida com calagem, e a adaptação de cultivares ao clima — tudo isso apoiado por crédito e por estradas. Em (e) está a inversão que a questão cobra: o solo do Cerrado é naturalmente ácido e pobre, e é justamente por isso que a correção química foi a condição da expansão. Em (a), não há petróleo financiando a agricultura na região. Em (b), nenhuma proibição desse tipo existiu. Em (d), a migração de sulistas foi expressiva, mas espontânea, e não determinada por lei."
                       },
                       {
                           "id":  "geografia-16",
@@ -13845,17 +13845,17 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-20",
                           "texto_apoio":  "A escala cartográfica indica a relação entre as distâncias representadas em um mapa e as distâncias reais no terreno.",
+                          "formato":  "direta",
                           "enunciado":  "Um mapa de escala 1:1.000.000 é considerado de pequena escala em relação a um mapa de escala 1:10.000 porque:",
                           "alternativas":  {
-                                               "a":  "Indica que cada centímetro do mapa corresponde a um milhão de centímetros no terreno, o que amplia o detalhamento em relação ao mapa de escala 1:10.000",
-                                               "b":  "É sempre fisicamente maior em tamanho de papel do que um mapa de escala 1:10.000, independentemente da área representada em cada um deles",
-                                               "c":  "Utiliza uma projeção cartográfica diferente, o que alteraria a relação entre distância representada e distância real no terreno",
-                                               "d":  "Representa a mesma área que o mapa de escala 1:10.000, porém com uma legenda de cores distinta e uma paleta cartográfica mais simplificada",
-                                               "e":  "Representa uma área maior do território com menor nível de detalhamento, ao contrário do mapa de escala 1:10.000, que detalha uma área menor com mais precisão"
+                                               "a":  "Cada centímetro corresponde a um milhão de centímetros, o que amplia o detalhe",
+                                               "b":  "É fisicamente maior em tamanho de papel que um mapa de escala 1:10.000",
+                                               "c":  "Utiliza projeção diferente, o que alteraria a relação entre as distâncias",
+                                               "d":  "Representa a mesma área que o de 1:10.000, com legenda de cores distinta",
+                                               "e":  "Representa área maior com menos detalhe, ao contrário do mapa de 1:10.000"
                                            },
                           "resposta":  "e",
-                          "explicacao":  "Quanto maior o denominador da escala, menor a escala e maior a área representada, com menos detalhes; o inverso vale para denominadores menores. O tamanho físico do papel não determina a escala, a diferença não decorre de projeções cartográficas distintas, e as duas escalas normalmente representam áreas de tamanhos diferentes, não a mesma área.",
-                          "formato":  "direta"
+                          "explicacao":  "A escala é uma fração: quanto maior o denominador, mais o terreno foi reduzido, e menos cabe de detalhe — daí um milionésimo ser pequena escala e um décimo-milésimo, grande. Em (a) está o distrator que a questão existe para pegar: a correspondência de um milhão de centímetros está certa, e a conclusão está invertida, porque reduzir mais significa detalhar menos. Em (b), o tamanho da folha nada tem a ver com a escala. Em (c), a projeção trata da forma de representar a esfera, não da razão de redução. Em (d), as áreas representadas são diferentes."
                       },
                       {
                           "id":  "geografia-21",
@@ -13875,17 +13875,17 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-22",
                           "texto_apoio":  "O Cerrado é o segundo maior bioma brasileiro em extensão, ocupando parte significativa do Centro-Oeste do país.",
+                          "formato":  "direta",
                           "enunciado":  "Esse bioma caracteriza-se por:",
                           "alternativas":  {
-                                               "a":  "Vegetação de campos abertos, com gramíneas baixas e ausência de estrato arbóreo, típica das áreas de maior altitude do Sul do país",
-                                               "b":  "Floresta tropical densa e fechada, com dossel contínuo, em tudo semelhante à vegetação amazônica de alta umidade",
-                                               "c":  "Vegetação de savana tropical, com árvores baixas e tortuosas, gramíneas e regime climático com estações seca e chuvosa bem definidas",
-                                               "d":  "Vegetação de mangue, adaptada a áreas de encontro entre rios e o mar, com solo permanentemente encharcado pela maré",
-                                               "e":  "Clima subtropical úmido, com ocorrência frequente de geadas ao longo de todo o ano, semelhante ao observado no extremo Sul do país"
+                                               "a":  "Campos abertos, com gramíneas baixas e ausência de estrato arbóreo, típicos das serras do Sul",
+                                               "b":  "Floresta tropical densa, com dossel contínuo, semelhante à vegetação amazônica",
+                                               "c":  "Savana tropical, com árvores baixas e tortuosas, e estações seca e chuvosa marcadas",
+                                               "d":  "Vegetação de mangue, adaptada ao encontro de rios com o mar, em solo encharcado",
+                                               "e":  "Clima subtropical úmido, com geadas frequentes, como no extremo Sul do país"
                                            },
                           "resposta":  "c",
-                          "explicacao":  "O Cerrado é caracterizado por uma vegetação de savana tropical, com árvores de troncos tortuosos, arbustos e gramíneas, adaptada a um clima com estação seca e chuvosa bem definidas. As demais alternativas descrevem outros biomas ou formações vegetais (floresta amazônica, mangue) ou um regime climático incompatível com o Cerrado.",
-                          "formato":  "direta"
+                          "explicacao":  "O Cerrado é a savana brasileira: árvores de porte baixo e tronco retorcido sobre um tapete de gramíneas, com casca grossa e raiz profunda que respondem ao fogo e à estação seca prolongada. Em (a) está o distrator mais próximo, porque o Cerrado também tem gramíneas — o que o separa dos campos é justamente o estrato arbóreo, que a alternativa nega. Em (b), a floresta densa de dossel contínuo é a Amazônia. Em (d), o mangue é costeiro e o Cerrado é interior. Em (e), o clima subtropical com geadas descreve o Sul, e não o Centro-Oeste."
                       },
                       {
                           "id":  "geografia-23",
@@ -13950,32 +13950,32 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-27",
                           "texto_apoio":  "Nas últimas décadas, observa-se um processo de desconcentração industrial no Brasil, com a expansão de polos industriais fora do eixo tradicional Sudeste.",
+                          "formato":  "direta",
                           "enunciado":  "Esse processo de desconcentração relaciona-se, entre outros fatores, a:",
                           "alternativas":  {
-                                               "a":  "A concentração de universidades técnicas apenas fora do eixo Sudeste, o que teria deslocado a mão de obra qualificada para outras regiões",
-                                               "b":  "O esgotamento das reservas de matéria-prima disponíveis no estado de São Paulo, que teria inviabilizado a manutenção das indústrias já instaladas",
-                                               "c":  "A saturação do mercado consumidor paulista, que teria deixado de absorver a produção industrial e forçado a busca por consumidores em outras regiões",
-                                               "d":  "Incentivos fiscais oferecidos por estados e municípios (guerra fiscal), custos menores de mão de obra e terrenos, e melhoria da infraestrutura de transportes",
-                                               "e":  "Uma decisão do governo federal de fechar parques industriais em São Paulo para redistribuir empregos entre as regiões do país"
+                                               "a":  "A concentração de universidades técnicas fora do eixo Sudeste, o que deslocaria a mão de obra qualificada",
+                                               "b":  "O esgotamento das reservas de matéria-prima disponíveis no estado de São Paulo",
+                                               "c":  "A saturação do mercado consumidor paulista, que deixou de absorver a produção",
+                                               "d":  "Guerra fiscal entre estados, custos menores de mão de obra e terrenos e melhor logística",
+                                               "e":  "Decisão federal de fechar parques industriais em São Paulo para redistribuir empregos"
                                            },
                           "resposta":  "d",
-                          "explicacao":  "A desconcentração industrial no Brasil foi impulsionada pela guerra fiscal entre estados e municípios, por custos menores de terra e mão de obra em outras regiões e pela melhoria da infraestrutura de transportes. Não houve fechamento decretado de indústrias em São Paulo, nem esgotamento de matéria-prima, nem uma concentração de universidades técnicas fora do Sudeste como causa do fenômeno.",
-                          "formato":  "direta"
+                          "explicacao":  "A desconcentração foi puxada por vantagem de custo — renúncia fiscal disputada entre estados, salários e terra mais baratos — e viabilizada por rodovias e portos que encurtaram a distância até o mercado. Em (c) está o distrator mais plausível, porque saturação de mercado é causa real de deslocamento industrial em outros contextos; aqui não se aplica, já que São Paulo segue sendo o maior mercado consumidor do país. Em (b), a indústria paulista não depende de matéria-prima local. Em (a), as universidades técnicas continuam concentradas no Sudeste. Em (e), não houve decisão federal de fechar parques industriais."
                       },
                       {
                           "id":  "geografia-28",
                           "texto_apoio":  "A segurança alimentar e nutricional é um conceito central nos estudos sobre geografia da fome, como os de Josué de Castro.",
+                          "formato":  "direta",
                           "enunciado":  "Esse conceito refere-se ao direito de todas as pessoas a:",
                           "alternativas":  {
-                                               "a":  "Receber cestas básicas doadas pelo Estado como única forma legítima de acesso à alimentação para toda a população",
-                                               "b":  "Escolher livremente sua dieta segundo preferências culturais, sem que o poder público interfira na oferta ou no preço dos alimentos",
-                                               "c":  "Acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer o acesso a outras necessidades essenciais",
-                                               "d":  "Consumir apenas alimentos de origem nacional, independentemente de seu preço ou disponibilidade regional em cada época do ano",
-                                               "e":  "Produzir seus próprios alimentos em regime de agricultura de subsistência, sem depender do mercado ou de programas públicos"
+                                               "a":  "Receber cestas básicas do Estado como forma legítima de acesso à alimentação",
+                                               "b":  "Escolher livremente sua dieta, sem que o poder público interfira na oferta ou no preço",
+                                               "c":  "Acesso regular e permanente a alimento de qualidade, sem comprometer outras necessidades",
+                                               "d":  "Consumir apenas alimentos de origem nacional, seja qual for o preço ou a disponibilidade regional",
+                                               "e":  "Produzir os próprios alimentos em regime de subsistência, sem depender do mercado"
                                            },
                           "resposta":  "c",
-                          "explicacao":  "A segurança alimentar e nutricional é definida como o direito ao acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer outras necessidades essenciais, conceito estudado por Josué de Castro. As demais alternativas restringem esse direito a formas específicas de obtenção de alimento (nacional, doação, subsistência) que não esgotam o conceito mais amplo de segurança alimentar.",
-                          "formato":  "direta"
+                          "explicacao":  "A definição tem três partes que precisam valer juntas: regularidade, qualidade e o fato de comer não custar o acesso a moradia, saúde ou transporte — é por isso que o conceito é de segurança, e não apenas de disponibilidade de comida. Em (a) está o distrator mais próximo, porque a cesta básica é um instrumento real de política pública, mas descreve uma forma de atendimento emergencial, e não o direito que a define. Em (e), a autoprodução é uma via entre outras. Em (b) e (d), liberdade de escolha e origem nacional do alimento não integram o conceito."
                       },
                       {
                           "id":  "geografia-29",
@@ -14040,17 +14040,17 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-33",
                           "texto_apoio":  "A pirâmide etária brasileira vem se transformando nas últimas décadas, refletindo a chamada transição demográfica.",
+                          "formato":  "direta",
                           "enunciado":  "Essa transição caracteriza-se, sobretudo, pela:",
                           "alternativas":  {
-                                               "a":  "Redução simultânea da população total do país, fenômeno já observado de forma contínua desde a década de 1980",
-                                               "b":  "Redução das taxas de natalidade e de mortalidade, resultando em envelhecimento da população e alargamento do topo da pirâmide etária",
-                                               "c":  "Estabilidade da estrutura etária brasileira, comparável à observada no Japão desde o início do século XX, sem mudanças relevantes",
-                                               "d":  "Elevação simultânea das taxas de natalidade e de mortalidade, resultado do crescimento urbano acelerado das últimas décadas",
-                                               "e":  "Manutenção de taxas de natalidade elevadas, compensada por uma queda ainda maior na expectativa de vida da população brasileira"
+                                               "a":  "Redução da população total do país, observada de forma contínua desde os anos 1980",
+                                               "b":  "Redução da natalidade e da mortalidade, com envelhecimento e topo mais largo",
+                                               "c":  "Estabilidade da estrutura etária, comparável à do Japão desde o início do século XX",
+                                               "d":  "Elevação simultânea da natalidade e da mortalidade, pelo crescimento urbano",
+                                               "e":  "Manutenção de natalidade alta, compensada por queda na expectativa de vida"
                                            },
                           "resposta":  "b",
-                          "explicacao":  "A transição demográfica brasileira envolve queda das taxas de natalidade e de mortalidade e aumento da expectativa de vida, resultando em uma pirâmide etária mais larga no topo. Não há manutenção de natalidade elevada com queda na expectativa de vida, a população brasileira ainda não está em redução total, e sua estrutura etária é bem mais jovem do que a japonesa.",
-                          "formato":  "direta"
+                          "explicacao":  "As duas taxas caem, e não na mesma hora: a mortalidade desce primeiro, a natalidade depois, e o resultado é uma pirâmide que perde base e ganha topo. Em (a) está a confusão mais comum — transição demográfica não é queda da população, que no Brasil seguiu crescendo enquanto a estrutura etária mudava. Em (d), a elevação das duas taxas é o quadro pré-transição. Em (e), a expectativa de vida subiu. Em (c), a estrutura etária brasileira é das que mais mudaram no mundo nas últimas décadas."
                       },
                       {
                           "id":  "geografia-34",
@@ -14085,18 +14085,18 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-36",
                           "texto_apoio":  "A geografia eleitoral estuda a distribuição espacial do comportamento e dos resultados eleitorais em um território.",
+                          "formato":  "direta",
+                          "dificuldade":  "media",
                           "enunciado":  "Esse campo de estudo busca, sobretudo, analisar:",
                           "alternativas":  {
-                                               "a":  "A relação entre a distribuição espacial dos votos e fatores socioeconômicos, culturais e regionais, identificando padrões territoriais no comportamento eleitoral",
-                                               "b":  "Exclusivamente a trajetória pessoal de candidatos a cargos eletivos, sem relação com a distribuição territorial dos votos ou fatores regionais",
-                                               "c":  "A previsão de resultados eleitorais a partir de modelos estatísticos nacionais, sem considerar recortes territoriais do eleitorado",
-                                               "d":  "A localização física das sedes administrativas dos partidos políticos registrados no Tribunal Superior Eleitoral, sem relação com o eleitorado",
-                                               "e":  "Apenas os aspectos jurídicos da legislação eleitoral, sem qualquer dimensão espacial ou territorial na análise do comportamento dos eleitores"
+                                               "a":  "A relação entre a distribuição espacial dos votos e fatores socioeconômicos e regionais",
+                                               "b":  "A trajetória pessoal dos candidatos a cargos eletivos e sua biografia política",
+                                               "c":  "A previsão de resultados eleitorais por modelos estatísticos nacionais, sem recorte territorial",
+                                               "d":  "A localização das sedes administrativas dos partidos registrados no país",
+                                               "e":  "Os aspectos jurídicos da legislação eleitoral e das regras de propaganda partidária"
                                            },
                           "resposta":  "a",
-                          "explicacao":  "A geografia eleitoral analisa como fatores socioeconômicos, culturais e regionais se relacionam com a distribuição espacial dos votos, identificando padrões territoriais do comportamento eleitoral. Não se limita a aspectos jurídicos, não trata da localização de sedes partidárias, nem se resume à biografia de candidatos.",
-                          "dificuldade":  "media",
-                          "formato":  "direta"
+                          "explicacao":  "O objeto é o padrão territorial: onde cada candidatura vai bem, e o que na composição social, econômica e cultural daquele recorte ajuda a explicar o resultado. Em (c) está o distrator mais próximo, porque projeção eleitoral também trabalha com dados de voto — mas um modelo agregado no nível nacional descarta exatamente a variação espacial que define o campo. Em (b), a biografia do candidato pertence à ciência política, sem dimensão territorial. Em (d), a sede do partido nada informa sobre o eleitorado. Em (e), o direito eleitoral estuda as regras, não a distribuição dos votos."
                       },
                       {
                           "id":  "geografia-37",
@@ -14165,18 +14165,18 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-41",
                           "texto_apoio":  "",
+                          "formato":  "direta",
+                          "dificuldade":  "media",
                           "enunciado":  "O movimento pendular, estudado pela geografia urbana, refere-se a:",
                           "alternativas":  {
-                                               "a":  "Deslocamento definitivo de uma pessoa de uma cidade para outra, sem intenção de retorno ao município de origem em momento algum",
-                                               "b":  "Migração sazonal de trabalhadores rurais entre diferentes regiões do país conforme o calendário de colheitas de cada safra agrícola",
-                                               "c":  "Ocupação progressiva de áreas periféricas por moradores deslocados das áreas centrais em razão da valorização imobiliária",
-                                               "d":  "Deslocamento diário de trabalhadores e estudantes entre o município onde residem e outro onde trabalham ou estudam, retornando no mesmo dia",
-                                               "e":  "Deslocamento de refugiados entre países vizinhos em razão de conflitos armados, sem intenção de retornar ao país de origem"
+                                               "a":  "Deslocamento definitivo de uma pessoa de uma cidade para outra, sem retorno",
+                                               "b":  "Migração sazonal de trabalhadores rurais conforme o calendário de colheitas",
+                                               "c":  "Ocupação de áreas periféricas por moradores expulsos do centro pela valorização",
+                                               "d":  "Deslocamento diário entre o município de residência e o de trabalho ou estudo",
+                                               "e":  "Deslocamento de refugiados entre países vizinhos em razão de conflitos armados"
                                            },
                           "resposta":  "d",
-                          "explicacao":  "O movimento pendular caracteriza-se pelo deslocamento diário (ida e volta) de pessoas entre seu município de residência e outro, geralmente para trabalho ou estudo. As demais alternativas descrevem outros fenômenos migratórios (migração definitiva, migração sazonal agrícola, deslocamento de refugiados) que não envolvem o retorno diário característico do movimento pendular.",
-                          "dificuldade":  "media",
-                          "formato":  "direta"
+                          "explicacao":  "O nome vem do vaivém: a pessoa sai e volta no mesmo dia, sem mudar de residência, e é esse retorno que separa o pendular de qualquer migração. Em (b) está o distrator mais fino, porque a migração sazonal também é cíclica — mas o ciclo é anual e implica morar fora por meses, e não o retorno diário. Em (a) e (e), o traço comum é a ausência de retorno, o que descarta as duas. Em (c), a periferização é mudança de residência, e costuma ser a causa do movimento pendular, não o movimento em si."
                       },
                       {
                           "id":  "geografia-42",
@@ -14229,34 +14229,34 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-45",
                           "texto_apoio":  "",
+                          "formato":  "direta",
+                          "dificuldade":  "media",
                           "enunciado":  "Nas últimas décadas, observa-se no Brasil um crescimento relativamente maior das chamadas \u0027cidades médias\u0027 (com população entre cerca de 100 mil e 500 mil habitantes) em comparação com as grandes metrópoles. Esse fenômeno está relacionado, entre outros fatores, a:",
                           "alternativas":  {
-                                               "a":  "Uma queda da população total do país, que reduziu proporcionalmente o tamanho de todas as cidades, tanto grandes quanto pequenas",
-                                               "b":  "Uma redução da oferta de empregos industriais nas cidades médias, que passaram a depender exclusivamente do setor primário e do comércio local",
-                                               "c":  "Uma determinação legal que limita o crescimento populacional das capitais estaduais brasileiras desde meados da década de 1990",
-                                               "d":  "Busca por melhor qualidade de vida, menor custo e problemas de mobilidade e segurança nas grandes metrópoles, associada à desconcentração de atividades econômicas",
-                                               "e":  "A transferência de capitais estaduais para cidades do interior, política adotada por diversos estados a partir dos anos 2000"
+                                               "a":  "Queda da população total do país, que reduziu o tamanho de todas as cidades",
+                                               "b":  "Redução da oferta de empregos industriais nas cidades médias, hoje dependentes do setor primário",
+                                               "c":  "Determinação legal que limita o crescimento populacional das capitais estaduais",
+                                               "d":  "Busca por qualidade de vida e menor custo, com desconcentração de atividades econômicas",
+                                               "e":  "Transferência de capitais estaduais para cidades do interior a partir dos anos 2000"
                                            },
                           "resposta":  "d",
-                          "explicacao":  "Cidades médias vêm atraindo moradores e empresas que buscam fugir de problemas típicos das grandes metrópoles, como trânsito e alto custo de vida, ao mesmo tempo em que a desconcentração de atividades amplia oportunidades nesses centros. Não existe limite legal ao crescimento das capitais, as cidades médias não perderam empregos industriais em favor do setor primário, e a população total do país não está em queda.",
-                          "dificuldade":  "media",
-                          "formato":  "direta"
+                          "explicacao":  "As cidades médias crescem porque recebem dois movimentos ao mesmo tempo: gente saindo da metrópole em busca de custo e mobilidade melhores, e atividade econômica se desconcentrando para perto de insumos e mercados regionais. Em (b) está a inversão do processo — o emprego industrial vem crescendo nessas cidades, e é parte do que as atrai. Em (a), a população do país seguiu crescendo no período. Em (c), não existe limite legal ao crescimento de capitais. Em (e), transferências de capital estadual são raríssimas no Brasil e não explicam um fenômeno nacional."
                       },
                       {
                           "id":  "geografia-46",
                           "texto_apoio":  "",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil",
                           "enunciado":  "Embora frequentemente associados, \u0027favela\u0027 e \u0027loteamento irregular\u0027 não são sinônimos na geografia urbana. A principal diferença conceitual entre eles está no fato de que:",
                           "alternativas":  {
-                                               "a":  "A favela resulta de programas habitacionais públicos interrompidos antes da entrega das unidades, e o loteamento irregular, de ocupações espontâneas",
-                                               "b":  "O loteamento irregular ocorre exclusivamente em áreas já classificadas como de proteção ambiental, nunca em zonas urbanas comuns e regulares",
-                                               "c":  "Os dois termos se aplicam apenas a áreas rurais, nunca a contextos urbanos ou a regiões metropolitanas mais densamente povoadas e industrializadas",
-                                               "d":  "A favela é sempre formada a partir de um parcelamento legal do solo, posteriormente revogado pela prefeitura por decisão administrativa arbitrária",
-                                               "e":  "A favela caracteriza-se pela ocupação espontânea de terrenos sem propriedade formal, enquanto o loteamento irregular envolve venda de lotes sem registro urbanístico"
+                                               "a":  "A favela resulta de programas habitacionais públicos interrompidos antes da entrega das casas",
+                                               "b":  "O loteamento irregular ocorre apenas em áreas classificadas como de proteção ambiental",
+                                               "c":  "Os dois termos se aplicam a áreas rurais, e não a contextos urbanos ou metropolitanos",
+                                               "d":  "A favela nasce de um parcelamento legal do solo, depois revogado pela prefeitura",
+                                               "e":  "A favela é ocupação de terreno sem propriedade formal, e o loteamento, venda sem registro"
                                            },
                           "resposta":  "e",
-                          "explicacao":  "A favela resulta de ocupação espontânea de terrenos, sem processo formal de parcelamento; o loteamento irregular refere-se a áreas cujo parcelamento (venda de lotes) não seguiu as exigências legais, mesmo havendo transação comercial. A favela não decorre de revogação de um parcelamento antes legal, o loteamento irregular não se limita a áreas de proteção ambiental, e ambos os termos são tipicamente urbanos, não rurais.",
-                          "dificuldade":  "dificil",
-                          "formato":  "direta"
+                          "explicacao":  "A distinção é de origem jurídica: na favela não houve transação, houve ocupação; no loteamento irregular houve compra e venda, só que de lotes que o parcelamento nunca registrou no município. Em (a) está o distrator mais plausível, porque conjuntos habitacionais inacabados de fato existem e às vezes são ocupados — mas isso descreve um terceiro caso, não a favela como categoria. Em (d), a inversão é direta: o parcelamento legal é o que falta. Em (b), loteamentos irregulares aparecem em qualquer zona urbana. Em (c), os dois termos são urbanos por definição."
                       },
                       {
                           "id":  "geografia-47",
@@ -14277,66 +14277,66 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-48",
                           "texto_apoio":  "Cidades como Foz do Iguaçu (Brasil) e Ciudad del Este (Paraguai), separadas apenas pela fronteira internacional, formam o que a geografia chama de \u0027cidades-gêmeas fronteiriças\u0027.",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil",
                           "enunciado":  "Esse tipo de conurbação internacional favorece, entre outros fenômenos:",
                           "alternativas":  {
-                                               "a":  "O fim da necessidade de qualquer controle aduaneiro entre os dois países, dada a simples proximidade física entre as duas cidades-gêmeas",
-                                               "b":  "A adoção de uma moeda comum nas áreas de fronteira, autorizada por acordo entre os países para facilitar o comércio local",
-                                               "c":  "Uma redução do fluxo de pessoas e mercadorias entre os dois lados, em razão da presença de duas moedas e legislações distintas",
-                                               "d":  "A fusão jurídica dos dois municípios em um único território soberano, administrado conjuntamente pelos dois países vizinhos",
-                                               "e":  "Intensos fluxos diários de trabalhadores, estudantes e consumidores entre os dois lados da fronteira, além de dinâmicas econômicas de fronteira"
+                                               "a":  "O fim da necessidade de controle aduaneiro entre os dois países vizinhos",
+                                               "b":  "A adoção de moeda comum na faixa de fronteira, por acordo entre os países",
+                                               "c":  "Uma redução do fluxo entre os dois lados, pela presença de moedas e leis distintas",
+                                               "d":  "A fusão jurídica dos dois municípios num território administrado em conjunto",
+                                               "e":  "Fluxos diários de trabalhadores, estudantes e consumidores entre os dois lados"
                                            },
                           "resposta":  "e",
-                          "explicacao":  "Cidades-gêmeas fronteiriças mantêm intensos fluxos cotidianos de pessoas, mercadorias e serviços através da fronteira, gerando dinâmicas econômicas integradas, sem que isso implique fusão jurídica dos municípios ou fim do controle aduaneiro. A existência de moedas distintas não impede, e frequentemente estimula, o comércio de fronteira entre as duas cidades.",
-                          "dificuldade":  "dificil",
-                          "formato":  "direta"
+                          "explicacao":  "A fronteira continua existindo no papel e deixa de organizar a vida cotidiana: mora-se de um lado, trabalha-se ou estuda-se do outro, e a diferença de preço e de câmbio vira, ela própria, motor de comércio. Em (c) está a inversão do fenômeno — a diferença entre moedas e legislações aumenta o fluxo em vez de reduzi-lo, porque cria a vantagem de atravessar. Em (a) e (d), controle aduaneiro e soberania municipal permanecem, já que a conurbação é urbana e não jurídica. Em (b), não há moeda comum, e é justamente a coexistência de duas que move o comércio local."
                       },
                       {
                           "id":  "geografia-49",
                           "texto_apoio":  "",
+                          "formato":  "direta",
+                          "dificuldade":  "media",
                           "enunciado":  "A partir da década de 2010, o Brasil recebeu fluxos significativos de imigrantes haitianos e, posteriormente, venezuelanos, este último grupo sobretudo pela fronteira com Roraima. Esses movimentos migratórios foram motivados, entre outros fatores, por:",
                           "alternativas":  {
-                                               "a":  "A assinatura do Acordo de Residência do Mercosul, que passaria a garantir livre circulação a cidadãos haitianos e venezuelanos no Brasil",
-                                               "b":  "Uma campanha de recrutamento de mão de obra promovida por empresas brasileiras diretamente no Haiti e na Venezuela após os desastres locais",
-                                               "c":  "Um acordo bilateral entre Brasil e Venezuela que garantiu cidadania automática a venezuelanos que cruzassem a fronteira em Roraima a partir de 2010",
-                                               "d":  "Crises políticas, econômicas e humanitárias nos países de origem, como o terremoto no Haiti e o colapso econômico na Venezuela, que impulsionaram a migração",
-                                               "e":  "A busca por melhores condições climáticas por parte dos imigrantes, já que Roraima apresentaria clima semelhante ao caribenho de origem"
+                                               "a":  "A assinatura do Acordo de Residência do Mercosul, que garantiria livre circulação",
+                                               "b":  "Campanha de recrutamento de mão de obra por empresas brasileiras nos países de origem",
+                                               "c":  "Acordo bilateral que teria garantido cidadania automática a venezuelanos que cruzassem a fronteira",
+                                               "d":  "Crises políticas e humanitárias na origem, como o terremoto no Haiti e o colapso venezuelano",
+                                               "e":  "Busca por clima melhor, já que Roraima teria clima semelhante ao caribenho de origem"
                                            },
                           "resposta":  "d",
-                          "explicacao":  "A migração haitiana intensificou-se após o terremoto de 2010, enquanto a migração venezuelana decorreu do colapso econômico e da crise política no país, levando à busca por refúgio e melhores condições no Brasil. Não houve acordo de cidadania automática, nem campanha de recrutamento direto por empresas brasileiras, e a motivação central não foi climática.",
-                          "dificuldade":  "media",
-                          "formato":  "direta"
+                          "explicacao":  "Os dois fluxos são de expulsão, não de atração: o terremoto de 2010 e a crise econômica venezuelana produziram deslocamentos que o Brasil recebeu por proximidade e por acolhida humanitária. Em (a) está o distrator mais informado, porque o Acordo de Residência do Mercosul existe e facilita a regularização — só que o Haiti não é signatário, e a Venezuela estava suspensa do bloco no período. Em (c), não houve concessão automática de cidadania. Em (b), não houve recrutamento organizado por empresas. Em (e), o clima não figura entre as causas documentadas desses fluxos."
                       },
                       {
                           "id":  "geografia-50",
                           "texto_apoio":  "",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil",
                           "enunciado":  "Diante do grande fluxo de imigrantes venezuelanos concentrado em Roraima, o governo brasileiro implementou a chamada \u0027interiorização\u0027, por meio da Operação Acolhida. Essa política teve como principal objetivo:",
                           "alternativas":  {
-                                               "a":  "Restringir a permanência de imigrantes venezuelanos apenas ao estado de Roraima, impedindo seu deslocamento a outras unidades da federação",
-                                               "b":  "Redistribuir voluntariamente imigrantes venezuelanos para outros estados brasileiros, reduzindo a pressão sobre os serviços públicos de Roraima",
-                                               "c":  "Financiar o retorno definitivo dos imigrantes venezuelanos ao seu país de origem por meio de auxílio-viagem custeado pelo governo federal",
-                                               "d":  "Conceder automaticamente cidadania brasileira a todo imigrante venezuelano que aceitasse se mudar para outro estado da federação brasileira",
-                                               "e":  "Concentrar o atendimento aos imigrantes em abrigos federais instalados na faixa de fronteira, sem deslocamento para outros estados"
+                                               "a":  "Restringir a permanência dos imigrantes a Roraima, impedindo o deslocamento",
+                                               "b":  "Redistribuir voluntariamente imigrantes a outros estados, aliviando Roraima",
+                                               "c":  "Financiar o retorno definitivo dos imigrantes ao país de origem com auxílio",
+                                               "d":  "Conceder cidadania brasileira a quem aceitasse mudar para outro estado",
+                                               "e":  "Concentrar o atendimento em abrigos federais instalados na faixa de fronteira"
                                            },
                           "resposta":  "b",
-                          "explicacao":  "A Operação Acolhida, iniciada em 2018, buscou prestar assistência humanitária e promover a interiorização voluntária de imigrantes venezuelanos para outros estados, aliviando a sobrecarga sobre Roraima e ampliando as chances de inserção social e no mercado de trabalho. A política não restringiu a permanência a Roraima, não concedeu cidadania automática, nem teve como objetivo o retorno ao país de origem.",
-                          "dificuldade":  "dificil",
-                          "formato":  "direta"
+                          "explicacao":  "Roraima é um estado pequeno recebendo um fluxo grande, e a interiorização atacou exatamente essa desproporção: transporte para outras unidades da federação, com vaga de acolhimento ou emprego na ponta, mediante adesão do próprio imigrante. Em (e) está o distrator mais forte, porque os abrigos de fronteira existem de fato e são a primeira etapa da operação — mas são o ponto de partida, e não o objetivo. Em (a), o programa facilita o deslocamento em vez de impedi-lo. Em (c), não se trata de retorno ao país de origem. Em (d), não há concessão automática de cidadania."
                       },
                       {
                           "id":  "geografia-51",
                           "texto_apoio":  "",
+                          "formato":  "direta",
+                          "dificuldade":  "media",
                           "enunciado":  "A descoberta e exploração das reservas de petróleo do pré-sal, localizadas em águas profundas do litoral brasileiro, representou:",
                           "alternativas":  {
-                                               "a":  "Uma ampliação significativa das reservas provadas de petróleo do Brasil, reforçando seu papel de produtor relevante no cenário internacional",
-                                               "b":  "A viabilização da exportação de petróleo refinado em larga escala, com o país deixando de importar derivados a partir da década de 2010",
-                                               "c":  "A confirmação de que as reservas brasileiras de petróleo estavam concentradas exclusivamente na Bacia Amazônica",
-                                               "d":  "Uma redução da participação do petróleo na matriz energética brasileira, em favor de fontes renováveis e do gás natural",
-                                               "e":  "A descoberta de reservas de gás de xisto em substituição às reservas convencionais de petróleo do país, alterando a matriz energética"
+                                               "a":  "Ampliação das reservas provadas de petróleo, reforçando o país como produtor",
+                                               "b":  "A viabilização da exportação de petróleo refinado, com fim da importação de derivados",
+                                               "c":  "A confirmação de que as reservas brasileiras estão concentradas na Bacia Amazônica",
+                                               "d":  "Uma redução da participação do petróleo na matriz, em favor de renováveis e gás",
+                                               "e":  "A descoberta de gás de xisto em substituição às reservas convencionais do país"
                                            },
                           "resposta":  "a",
-                          "explicacao":  "O pré-sal corresponde a reservas de petróleo e gás natural em águas muito profundas do litoral brasileiro, cuja exploração ampliou significativamente as reservas provadas do país. Não se trata de gás de xisto, não reduziu a participação do petróleo na matriz energética (ao contrário, reforçou-a), e as reservas do pré-sal estão concentradas no litoral sudeste, não na Bacia Amazônica.",
-                          "dificuldade":  "media",
-                          "formato":  "direta"
+                          "explicacao":  "O pré-sal multiplicou as reservas provadas e colocou o Brasil entre os maiores produtores, com petróleo de boa qualidade extraído a milhares de metros abaixo de uma camada de sal. Em (b) está a distinção que a questão cobra: o país exporta óleo cru e segue importando derivados, porque a capacidade de refino não acompanhou a produção. Em (d), a participação do petróleo cresceu com o pré-sal. Em (c), as reservas estão na costa do Sudeste, e não na Bacia Amazônica. Em (e), gás de xisto é outra coisa, extraído em rocha continental por fraturamento."
                       },
                       {
                           "id":  "geografia-52",
@@ -14421,34 +14421,34 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-57",
                           "texto_apoio":  "",
+                          "formato":  "direta",
+                          "dificuldade":  "media",
                           "enunciado":  "A produção brasileira de etanol a partir da cana-de-açúcar é apontada como um exemplo de:",
                           "alternativas":  {
-                                               "a":  "Combustível fóssil, obtido a partir da destilação de subprodutos do petróleo extraído no litoral brasileiro",
-                                               "b":  "Combustível de origem vegetal cuja queima não libera dióxido de carbono em nenhuma etapa do seu ciclo de uso",
-                                               "c":  "Biocombustível renovável, alternativo aos combustíveis fósseis, amplamente utilizado na frota de veículos flex",
-                                               "d":  "Fonte de energia utilizada exclusivamente na geração de eletricidade em usinas termelétricas a gás",
-                                               "e":  "Insumo cuja produção foi oficialmente proibida no Brasil após a popularização dos veículos elétricos"
+                                               "a":  "Combustível fóssil, obtido da destilação de subprodutos do petróleo brasileiro",
+                                               "b":  "Combustível de origem vegetal cuja queima não libera dióxido de carbono em etapa alguma",
+                                               "c":  "Biocombustível renovável, alternativo ao fóssil, usado na frota de veículos flex",
+                                               "d":  "Fonte usada apenas na geração de eletricidade em termelétricas a gás natural",
+                                               "e":  "Insumo cuja produção foi proibida no país após a chegada dos veículos elétricos"
                                            },
                           "resposta":  "c",
-                          "explicacao":  "O etanol produzido a partir da cana-de-açúcar é um biocombustível renovável, alternativo à gasolina, amplamente utilizado no Brasil, sobretudo após a popularização dos veículos flex. Não é um combustível fóssil, não se restringe à geração termelétrica de eletricidade, e sua produção não foi proibida com a chegada dos veículos elétricos.",
-                          "dificuldade":  "media",
-                          "formato":  "direta"
+                          "explicacao":  "O etanol é renovável porque a matéria-prima se replanta a cada safra, e a frota flex deu ao Brasil uma escala de uso que nenhum outro país alcançou. Em (b) está o erro mais fino: a queima do etanol libera dióxido de carbono como qualquer combustão — o que muda é o ciclo, já que a cana reabsorve na safra seguinte parte do carbono emitido. Em (a), etanol não vem do petróleo. Em (d), o uso principal é veicular, e o bagaço, quando gera eletricidade, é queimado em termelétrica a biomassa. Em (e), a produção segue crescendo."
                       },
                       {
                           "id":  "geografia-58",
                           "texto_apoio":  "",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil",
                           "enunciado":  "O chamado \u0027hidrogênio verde\u0027, produzido a partir da eletrólise da água utilizando energia renovável (como a eólica e a solar), tem sido apontado como uma tecnologia promissora para a transição energética porque:",
                           "alternativas":  {
-                                               "a":  "Pode ser utilizado como vetor energético em setores de difícil eletrificação, como a indústria pesada e o transporte marítimo, sem emitir carbono",
-                                               "b":  "É obtido como subproduto do refino de petróleo, o que reduz seu custo de produção em relação às demais rotas tecnológicas",
-                                               "c":  "Depende exclusivamente de reservas de gás natural para sua obtenção em escala industrial, dispensando o processo de eletrólise",
-                                               "d":  "Substitui integralmente a necessidade de qualquer fonte de energia elétrica em todos os setores da economia nacional e industrial",
-                                               "e":  "É produzido a partir da queima direta de carvão mineral em altas temperaturas, sem qualquer uso de eletricidade no processo"
+                                               "a":  "Serve como vetor energético em setores de difícil eletrificação, como a indústria pesada",
+                                               "b":  "É obtido como subproduto do refino de petróleo, o que reduz muito seu custo de produção",
+                                               "c":  "Depende de reservas de gás natural para a obtenção em escala, dispensando a eletrólise",
+                                               "d":  "Substitui a necessidade de energia elétrica em todos os setores da economia nacional",
+                                               "e":  "Resulta da queima direta de carvão mineral em altas temperaturas, sem uso de eletricidade"
                                            },
                           "resposta":  "a",
-                          "explicacao":  "O hidrogênio verde é obtido pela eletrólise da água usando eletricidade de fontes renováveis, sem emitir gases de efeito estufa, podendo ser usado em setores difíceis de eletrificar diretamente, como a indústria pesada e o transporte marítimo. Não substitui toda fonte elétrica, não decorre da queima de carvão, e não depende de gás natural para sua produção característica.",
-                          "dificuldade":  "dificil",
-                          "formato":  "direta"
+                          "explicacao":  "A eletricidade renovável resolve bem o que se pode eletrificar; o hidrogênio serve para o resto — siderurgia, fertilizantes, navegação de longo curso —, onde o calor intenso ou a densidade energética inviabilizam a bateria. Em (b) e (c) estão as rotas cinza e azul, produzidas a partir de combustível fóssil: são as tecnologias das quais o hidrogênio verde se distingue, e confundi-las é o erro que a questão testa. Em (d), o hidrogênio complementa a eletricidade e não a substitui, já que é produzido com ela. Em (e), a queima de carvão contraria a definição de verde."
                       },
                       {
                           "id":  "geografia-59",
@@ -14565,18 +14565,18 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-66",
                           "texto_apoio":  "",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil",
                           "enunciado":  "Cientistas do clima costumam afirmar que eventos climáticos extremos isolados (como uma única onda de calor ou uma enchente específica) não podem ser atribuídos, de forma direta e simples, ao aquecimento global, mas que:",
                           "alternativas":  {
-                                               "a":  "O aquecimento global aumenta a probabilidade e a intensidade média de eventos extremos, mesmo que um evento isolado tenha múltiplas causas",
-                                               "b":  "Eventos extremos estão se tornando cada vez mais raros à medida que a temperatura média do planeta aumenta globalmente",
-                                               "c":  "A frequência de eventos extremos varia de forma aleatória, sem qualquer relação estatística com o aquecimento global",
-                                               "d":  "A ciência do clima relaciona o aquecimento apenas a médias de longo prazo, sem fazer inferências sobre eventos individuais",
-                                               "e":  "Todo evento climático extremo recente decorre exclusivamente do aquecimento global, sem qualquer outro fator meteorológico envolvido"
+                                               "a":  "O aquecimento aumenta a probabilidade e a intensidade média dos eventos extremos",
+                                               "b":  "Eventos extremos se tornam mais raros à medida que a temperatura média sobe",
+                                               "c":  "A frequência desses eventos varia ao acaso, sem relação com o aquecimento global",
+                                               "d":  "A ciência do clima trata apenas de médias, sem inferir nada sobre eventos individuais",
+                                               "e":  "Todo evento extremo recente decorre do aquecimento, sem outro fator meteorológico"
                                            },
                           "resposta":  "a",
-                          "explicacao":  "A relação entre um evento extremo isolado e o aquecimento global é estatística: o aquecimento aumenta a probabilidade e, em muitos casos, a intensidade média de eventos como ondas de calor e chuvas extremas ao longo do tempo, ainda que um evento específico possa ter múltiplas causas locais. Não é correto afirmar causa exclusiva, nem que eventos extremos estão ficando mais raros, nem que não há relação estatística alguma com o aquecimento.",
-                          "dificuldade":  "dificil",
-                          "formato":  "direta"
+                          "explicacao":  "A afirmação correta é probabilística: o aquecimento carrega os dados a favor do extremo, tornando certos eventos mais prováveis e mais intensos, sem que cada ocorrência tenha causa única. Em (d) está o distrator mais sofisticado e o mais errado por pouco — a ciência de atribuição justamente calcula quanto o aquecimento alterou a probabilidade de um evento específico, de modo que a cautela do enunciado não equivale a silêncio sobre casos individuais. Em (e) e (c) estão os dois excessos opostos, atribuir tudo e não atribuir nada. Em (b), a direção é contrária à observada."
                       },
                       {
                           "id":  "geografia-67",
@@ -14645,34 +14645,34 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-71",
                           "texto_apoio":  "",
+                          "formato":  "direta",
+                          "dificuldade":  "media",
                           "enunciado":  "Embora frequentemente associados, \u0027desmatamento\u0027 e \u0027queimada\u0027 não são sinônimos. A distinção entre esses dois conceitos está no fato de que:",
                           "alternativas":  {
-                                               "a":  "A queimada é sempre um fenômeno espontâneo da vegetação nativa, sem qualquer intervenção humana direta ou indireta local",
-                                               "b":  "Os dois processos ocorrem exclusivamente em biomas de vegetação rasteira, como o Cerrado e o Pampa gaúcho, nunca em florestas",
-                                               "c":  "O desmatamento só pode ser identificado por satélite quando acompanhado simultaneamente de queimada visível no mesmo local",
-                                               "d":  "A queimada corresponde à etapa que antecede a remoção mecânica da vegetação, sendo ambas fases de um mesmo processo produtivo",
-                                               "e":  "O desmatamento é a remoção completa da cobertura florestal, enquanto a queimada é o uso do fogo, que ocorre também em floresta ainda em pé"
+                                               "a":  "A queimada é fenômeno espontâneo da vegetação nativa, sem intervenção humana",
+                                               "b":  "Os dois processos ocorrem apenas em vegetação rasteira, como Cerrado e Pampa",
+                                               "c":  "O desmatamento só pode ser identificado por satélite quando acompanhado de queimada visível",
+                                               "d":  "A queimada antecede a remoção mecânica, sendo as duas fases de um mesmo processo",
+                                               "e":  "O desmatamento remove a cobertura florestal; a queimada é o uso do fogo, mesmo em pé"
                                            },
                           "resposta":  "e",
-                          "explicacao":  "O desmatamento é a remoção completa e geralmente definitiva da cobertura florestal; a queimada é o uso do fogo, que pode ocorrer em áreas já desmatadas (manejo de pastagens) ou, ilegalmente, para acelerar o próprio desmatamento de floresta em pé. Queimadas nem sempre são espontâneas (muitas são criminosas), o desmatamento pode ser monitorado por satélite mesmo sem queimada simultânea, e ambos os processos ocorrem também em florestas densas, como a Amazônia.",
-                          "dificuldade":  "media",
-                          "formato":  "direta"
+                          "explicacao":  "São coisas que se cruzam sem coincidir: derrubar sem queimar acontece, e o fogo também avança por floresta de pé, degradando-a sem removê-la — daí a Amazônia registrar áreas queimadas maiores que as desmatadas em certos anos. Em (d) está o distrator mais forte, porque a sequência derruba-queima-planta é real na abertura de área; ela descreve um caso frequente, e não a distinção entre os conceitos. Em (a), a maior parte das queimadas brasileiras tem origem humana. Em (b), ambos ocorrem em floresta. Em (c), os sistemas do INPE detectam corte raso sem fogo."
                       },
                       {
                           "id":  "geografia-72",
                           "texto_apoio":  "Um gráfico de linhas mostra a taxa anual de desmatamento na Amazônia Legal brasileira (em km² desmatados por ano), medida pelo sistema de monitoramento do INPE, ao longo de 4 anos consecutivos: Ano 1: 10.000 km²; Ano 2: 8.000 km²; Ano 3: 7.000 km²; Ano 4: 9.000 km².",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil",
                           "enunciado":  "Com base nesse gráfico, é correto afirmar que:",
                           "alternativas":  {
-                                               "a":  "A soma dos quatro anos supera 40.000 km², o que indica média anual acima de 10.000 km² no período analisado",
-                                               "b":  "O valor do Ano 3 (7.000 km²) representa o menor patamar de desmatamento já registrado na série histórica da Amazônia Legal",
-                                               "c":  "A queda registrada entre o Ano 1 e o Ano 3 garante que a tendência de redução do desmatamento se manterá nos anos seguintes",
-                                               "d":  "A área total de floresta desmatada ao longo desses 4 anos foi de 34.000 km², e houve novo aumento no Ano 4 após a redução até o Ano 3",
-                                               "e":  "A área de floresta amazônica aumentou ao longo desses 4 anos, já que todos os valores do gráfico são positivos"
+                                               "a":  "A soma dos quatro anos supera 40.000 km², com média anual acima de 10.000 km²",
+                                               "b":  "O Ano 3 representa o menor patamar já registrado na série histórica da Amazônia",
+                                               "c":  "A queda entre o Ano 1 e o Ano 3 garante que a redução se manterá nos anos seguintes",
+                                               "d":  "O total desmatado nos quatro anos foi de 34.000 km², com novo aumento no Ano 4",
+                                               "e":  "A área de floresta aumentou no período, já que todos os valores são positivos"
                                            },
                           "resposta":  "d",
-                          "explicacao":  "Somando os valores anuais: 10.000+8.000+7.000+9.000=34.000 km² de área desmatada. Embora a taxa tenha caído do Ano 1 ao Ano 3, ela voltou a subir no Ano 4, mostrando que uma tendência recente de queda não garante continuidade — o que invalida a alternativa que assume continuidade automática da tendência. O gráfico mostra desmatamento positivo em todos os anos, não crescimento florestal, e nada nos dados apresentados permite afirmar que o Ano 3 é o menor valor de toda a série histórica, apenas dessa amostra de 4 anos.",
-                          "dificuldade":  "dificil",
-                          "formato":  "direta"
+                          "explicacao":  "Somando 10.000, 8.000, 7.000 e 9.000 chega-se a 34.000 km², e a série sobe de novo no último ano, depois de dois anos de queda. Em (e) está o erro de leitura que a questão testa: a taxa é de área desmatada por ano, de modo que valor positivo significa floresta perdida, e não ganha — só um valor zero interromperia a perda. Em (a), a soma é 34.000 e a média, 8.500. Em (b), o gráfico traz quatro anos e não autoriza afirmação sobre a série histórica. Em (c), tendência observada não garante comportamento futuro, como o próprio Ano 4 demonstra."
                       },
                       {
                           "id":  "geografia-73",
@@ -14693,50 +14693,50 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-74",
                           "texto_apoio":  "",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil",
                           "enunciado":  "Cientistas climáticos alertam para o risco de a Amazônia atingir um \u0027ponto de não retorno\u0027 (tipping point), a partir do qual grande parte da floresta poderia se transformar irreversivelmente em um ecossistema semelhante a uma savana. Esse cenário está associado, sobretudo, a:",
                           "alternativas":  {
-                                               "a":  "Um ciclo natural e cíclico de savanização que independe totalmente do nível de desmatamento e ocorre a cada poucos séculos",
-                                               "b":  "Uma mudança plenamente reversível em curto prazo, bastando a suspensão do desmatamento por um único ano, desde que não haja novos focos na região",
-                                               "c":  "Um patamar de desmatamento e degradação florestal que comprometeria a capacidade da floresta de reciclar umidade suficiente para manter seu próprio regime de chuvas",
-                                               "d":  "Um processo que afetaria exclusivamente a fauna da região, sem qualquer relação com o regime de chuvas ou a vegetação",
-                                               "e":  "Um limite de temperatura média global definido pelo Acordo de Paris, a partir do qual a floresta perderia proteção jurídica"
+                                               "a":  "Um ciclo natural de savanização que ocorre a cada poucos séculos, independente do desmatamento",
+                                               "b":  "Uma mudança reversível em curto prazo, bastando suspender o desmatamento por um ano",
+                                               "c":  "Um patamar de desmatamento que comprometeria a reciclagem de umidade pela própria floresta",
+                                               "d":  "Um processo restrito à fauna da região, sem relação com o regime de chuvas ou a vegetação",
+                                               "e":  "Um limite de temperatura fixado no Acordo de Paris, além do qual cessa a proteção jurídica"
                                            },
                           "resposta":  "c",
-                          "explicacao":  "O ponto de não retorno da Amazônia refere-se a um limiar de desmatamento a partir do qual a floresta perderia sua capacidade de reciclar umidade suficiente para sustentar seu próprio regime de chuvas, desencadeando um ciclo autoperpetuado de savanização. Não é um ciclo natural independente do desmatamento, não afeta apenas a fauna, e sua reversão, caso ultrapassado o limiar, não seria simples nem rápida.",
-                          "dificuldade":  "dificil",
-                          "formato":  "direta"
+                          "explicacao":  "A floresta produz boa parte da própria chuva pela evapotranspiração; abaixo de certa área contínua, esse ciclo deixa de se sustentar e o clima local seca por conta própria — daí a irreversibilidade. Em (b) está a leitura que o conceito de tipping point exclui: passado o limiar, retirar a pressão não devolve o sistema ao estado anterior. Em (a), a savanização em causa é induzida pelo desmatamento, não cíclica. Em (d), a mudança é da vegetação e do regime de chuvas, com a fauna sofrendo por consequência. Em (e), o limiar é ecológico e físico, não uma cláusula jurídica."
                       },
                       {
                           "id":  "geografia-75",
                           "texto_apoio":  "",
+                          "formato":  "direta",
+                          "dificuldade":  "media",
                           "enunciado":  "A poluição do ar em grandes centros urbanos, causada principalmente pela emissão de gases por veículos automotores e indústrias, está associada a:",
                           "alternativas":  {
-                                               "a":  "Uma redução da incidência de doenças infecciosas, já que os poluentes atmosféricos inibiriam a proliferação de vetores urbanos",
-                                               "b":  "Um fenômeno restrito a cidades de clima frio, sem relevância em centros urbanos de clima tropical",
-                                               "c":  "Aumento de doenças respiratórias e cardiovasculares na população exposta, além de contribuir para o efeito estufa e o aquecimento global",
-                                               "d":  "Uma redução da temperatura média das cidades, já que partículas em suspensão bloqueiam parte da radiação solar durante todo o ano",
-                                               "e":  "Uma melhoria geral da qualidade do ar em áreas centrais, em comparação às áreas rurais adjacentes"
+                                               "a":  "Redução das doenças infecciosas, já que os poluentes inibiriam vetores urbanos",
+                                               "b":  "Fenômeno restrito a cidades de clima frio, sem relevância em clima tropical",
+                                               "c":  "Aumento de doenças respiratórias e cardiovasculares, além de agravar o efeito estufa",
+                                               "d":  "Redução da temperatura média das cidades, já que as partículas em suspensão bloqueiam a radiação",
+                                               "e":  "Melhoria geral da qualidade do ar nas áreas centrais em relação às áreas rurais"
                                            },
                           "resposta":  "c",
-                          "explicacao":  "A poluição atmosférica urbana está associada ao aumento de doenças respiratórias e cardiovasculares, além de conter gases de efeito estufa que contribuem para o aquecimento global. O efeito de resfriamento por aerossóis é local e temporário, não um padrão geral; a qualidade do ar em centros urbanos costuma ser pior, não melhor, do que em áreas rurais; e o problema afeta cidades de clima tropical tanto quanto as de clima frio.",
-                          "dificuldade":  "media",
-                          "formato":  "direta"
+                          "explicacao":  "O material particulado fino atinge as vias respiratórias e a corrente sanguínea, elevando internações por asma, bronquite e eventos cardíacos, e parte dos gases emitidos é a mesma que intensifica o efeito estufa. Em (d) está o distrator com mais fundo de verdade: partículas em suspensão de fato refletem radiação e podem produzir resfriamento regional, mas na cidade prevalece a ilha de calor, e o efeito líquido é de aquecimento. Em (a), poluição não reduz doença infecciosa. Em (b), o fenômeno é intenso em metrópoles tropicais. Em (e), o ar central costuma ser pior que o rural."
                       },
                       {
                           "id":  "geografia-76",
                           "texto_apoio":  "Dados aproximados do Sistema Nacional de Informações sobre Saneamento (SNIS) indicam que, embora a cobertura de abastecimento de água tratada no Brasil ultrapasse 85% da população, a cobertura de coleta de esgoto é significativamente menor, ficando perto de 55% da população, com disparidades regionais ainda maiores.",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil",
                           "enunciado":  "Considerando esses dados aproximados, é correto afirmar que:",
                           "alternativas":  {
-                                               "a":  "O avanço do esgoto depende apenas de investimento municipal, enquanto o da água tratada é atribuição federal, o que explicaria a diferença observada",
-                                               "b":  "O Brasil apresenta uma defasagem histórica maior no saneamento de esgoto do que no abastecimento de água tratada, o que resulta em impactos ambientais e sanitários relevantes",
-                                               "c":  "As disparidades regionais de saneamento se distribuem de forma idêntica entre todos os estados brasileiros, sem qualquer variação, sobretudo nos estados do Norte e Nordeste",
-                                               "d":  "A cobertura de coleta de esgoto no Brasil é maior do que a de abastecimento de água tratada em todas as regiões do país, sobretudo nas regiões metropolitanas",
-                                               "e":  "A cobertura de água tratada e a de esgoto avançam sempre no mesmo ritmo, já que dependem da mesma rede de tubulação, ainda que exijam fontes de financiamento distintas"
+                                               "a":  "O avanço do esgoto depende do município e o da água, da União, o que explicaria a diferença",
+                                               "b":  "A defasagem histórica é maior no esgoto do que no abastecimento de água tratada",
+                                               "c":  "As disparidades regionais se distribuem de forma idêntica entre todos os estados",
+                                               "d":  "A cobertura de coleta de esgoto supera a de água tratada em todas as regiões",
+                                               "e":  "As duas coberturas avançam no mesmo ritmo, já que dependem da mesma tubulação"
                                            },
                           "resposta":  "b",
-                          "explicacao":  "Os dados evidenciam uma defasagem histórica maior no saneamento de esgoto em comparação ao abastecimento de água tratada, contribuindo para contaminação de corpos d\u0027água e doenças de veiculação hídrica. A cobertura de esgoto é, na verdade, menor que a de água (não maior), há disparidades regionais expressivas (não distribuição idêntica), e as duas redes não avançam necessariamente no mesmo ritmo, já que exigem investimentos e tecnologias distintas.",
-                          "dificuldade":  "dificil",
-                          "formato":  "direta"
+                          "explicacao":  "Os números do enunciado dizem isso diretamente: mais de 85% contra cerca de 55%, uma diferença de trinta pontos que se traduz em esgoto lançado sem tratamento em rios e praias. Em (a) está o distrator mais plausível, porque a divisão de competências é assunto real do setor — mas água e esgoto são ambos serviços de titularidade municipal, e a alternativa inventa uma repartição que não existe. Em (d) e (c), os dados são invertidos e a homogeneidade é negada pelo próprio enunciado. Em (e), o descompasso de ritmo é exatamente o que os números mostram."
                       },
                       {
                           "id":  "geografia-77",
@@ -14757,18 +14757,18 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-78",
                           "texto_apoio":  "O Código Florestal brasileiro estabelece a exigência de manutenção de uma parcela de vegetação nativa em propriedades rurais, conhecida como Reserva Legal, cujo percentual mínimo varia conforme o bioma e a localização do imóvel.",
+                          "formato":  "direta",
+                          "dificuldade":  "media",
                           "enunciado":  "Esse instrumento tem como principal objetivo:",
                           "alternativas":  {
-                                               "a":  "Assegurar que a vegetação nativa remanescente seja convertida em unidades de conservação de proteção integral",
-                                               "b":  "Restringir a atividade agropecuária a propriedades de até um módulo fiscal, vedando-a em imóveis de maior porte, independentemente do bioma em que estejam situadas",
-                                               "c":  "Aplicar exatamente o mesmo percentual mínimo de vegetação nativa em todos os biomas do país, independentemente da localização do imóvel",
-                                               "d":  "Conciliar o uso produtivo da terra pelos proprietários rurais com a conservação de parte da vegetação nativa, equilibrando produção agropecuária e proteção ambiental",
-                                               "e":  "Transferir automaticamente a propriedade das áreas de Reserva Legal para o patrimônio da União, medida prevista para áreas de preservação permanente"
+                                               "a":  "Assegurar que a vegetação nativa remanescente vire unidade de conservação de proteção integral",
+                                               "b":  "Restringir a atividade agropecuária a imóveis de até um módulo fiscal",
+                                               "c":  "Aplicar o mesmo percentual mínimo em todos os biomas, seja qual for o local",
+                                               "d":  "Conciliar o uso produtivo da terra com a conservação de parte da vegetação nativa",
+                                               "e":  "Transferir as áreas de Reserva Legal para o patrimônio da União automaticamente"
                                            },
                           "resposta":  "d",
-                          "explicacao":  "A Reserva Legal exige a manutenção de vegetação nativa dentro das propriedades rurais, com percentuais que variam conforme o bioma, buscando conciliar produção com conservação. O percentual não é idêntico em todos os biomas (é maior na Amazônia Legal, por exemplo), a área de Reserva Legal permanece de propriedade do titular do imóvel, e o instrumento não veda a atividade agropecuária em grandes propriedades, apenas exige a reserva de parte da área.",
-                          "dificuldade":  "media",
-                          "formato":  "direta"
+                          "explicacao":  "A Reserva Legal é um arranjo de convivência: a terra continua privada e produtiva, e uma fração dela permanece com vegetação nativa, podendo inclusive admitir manejo sustentável. Em (a) está o distrator mais próximo, porque também protege vegetação — mas unidade de conservação de proteção integral é área pública, com uso indireto, e a Reserva Legal não muda a titularidade nem o regime do imóvel. Em (e), a propriedade segue do particular. Em (c), o enunciado registra que o percentual varia conforme bioma e localização. Em (b), não há restrição por tamanho do imóvel."
                       },
                       {
                           "id":  "geografia-79",
@@ -14789,18 +14789,18 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-80",
                           "texto_apoio":  "O Porto de Santos (SP) é o maior porto da América Latina em movimentação de cargas, respondendo por parcela expressiva das exportações brasileiras, incluindo commodities agrícolas como soja e açúcar.",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil",
                           "enunciado":  "A centralidade do Porto de Santos na logística de exportação brasileira evidencia, sobretudo, um desafio estrutural da economia do país, relacionado a:",
                           "alternativas":  {
-                                               "a":  "A concentração de grande parte do fluxo logístico de exportação em poucos portos, o que pode gerar congestionamentos e elevar custos para produtores distantes do litoral",
-                                               "b":  "A ausência completa de outros portos de grande porte no litoral brasileiro além de Santos, ainda que o Brasil tenha extenso litoral navegável",
-                                               "c":  "A vantagem competitiva de concentrar a exportação em poucos terminais, o que reduziria o custo unitário de operação portuária",
-                                               "d":  "A exclusividade do Porto de Santos na exportação de produtos industrializados, sem qualquer participação de commodities agrícolas em sua movimentação",
-                                               "e":  "Uma distribuição já equilibrada do fluxo de exportação entre os portos das cinco regiões brasileiras, modelo distinto do observado em países como os EUA"
+                                               "a":  "A concentração do fluxo de exportação em poucos portos, que eleva custos e gera gargalos",
+                                               "b":  "A ausência de outros portos de grande porte no litoral brasileiro fora de Santos",
+                                               "c":  "A vantagem de concentrar a exportação em poucos terminais, o que reduziria o custo unitário",
+                                               "d":  "A exclusividade de Santos na exportação de industrializados, sem commodities agrícolas",
+                                               "e":  "Uma distribuição já equilibrada do fluxo entre os portos das cinco regiões brasileiras"
                                            },
                           "resposta":  "a",
-                          "explicacao":  "A forte concentração do fluxo de exportação em poucos portos, como Santos, evidencia um desafio logístico: produtores distantes do litoral, como os do Centro-Oeste, enfrentam longos percursos até os portos, elevando custos. Santos não é exclusivo de industrializados (movimenta grande volume de commodities agrícolas), o fluxo logístico brasileiro está longe de equilibrado entre regiões, e existem outros portos relevantes, como os do Arco Norte.",
-                          "dificuldade":  "dificil",
-                          "formato":  "direta"
+                          "explicacao":  "O problema não é Santos ser grande, e sim a malha depender demais dele: o produtor do Centro-Oeste roda mais de mil quilômetros de caminhão até o litoral, e o gargalo do corredor vira custo embutido em cada saca. Em (c) está o distrator mais interessante, porque a economia de escala portuária é real — o que a alternativa ignora é o custo do transporte interno, que cresce mais do que a escala economiza. Em (b), há outros portos grandes, como Paranaguá e Itaqui. Em (d), Santos movimenta sobretudo commodities. Em (e), o equilíbrio entre regiões é justamente o que não existe."
                       },
                       {
                           "id":  "geografia-81",
@@ -14901,18 +14901,18 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-87",
                           "texto_apoio":  "",
+                          "formato":  "direta",
+                          "dificuldade":  "media",
                           "enunciado":  "O conceito de \u0027agronegócio\u0027, usado pela geografia econômica, refere-se não apenas à produção agropecuária em si, mas também:",
                           "alternativas":  {
-                                               "a":  "Exclusivamente às atividades de agricultura familiar de subsistência, sem relação com grandes cadeias produtivas, realidade que descreve apenas uma pequena parte do setor",
-                                               "b":  "Ao conjunto de atividades que envolvem, além da produção no campo, os setores de insumos, processamento industrial, armazenamento, transporte e distribuição dos produtos agropecuários",
-                                               "c":  "Unicamente ao segmento financeiro que negocia contratos futuros de commodities agrícolas em bolsas de valores, conforme ocorre em algumas bolsas internacionais",
-                                               "d":  "Apenas à exportação de produtos agrícolas in natura, sem qualquer etapa de processamento industrial, prática típica de economias exportadoras de commodities",
-                                               "e":  "Ao conjunto das propriedades rurais com área superior a quinze módulos fiscais, independentemente da atividade nelas desenvolvida"
+                                               "a":  "Às atividades de agricultura familiar de subsistência, fora das grandes cadeias",
+                                               "b":  "Ao conjunto que inclui insumos, processamento, armazenamento, transporte e distribuição",
+                                               "c":  "Ao segmento financeiro que negocia contratos futuros de commodities em bolsa",
+                                               "d":  "À exportação de produtos agrícolas in natura, sem etapa de processamento industrial",
+                                               "e":  "Às propriedades rurais com área superior a quinze módulos fiscais, seja qual for a atividade"
                                            },
                           "resposta":  "b",
-                          "explicacao":  "O conceito de agronegócio abrange toda a cadeia produtiva relacionada à agropecuária, do fornecimento de insumos ao processamento, armazenamento, transporte e distribuição. Não se limita à exportação in natura sem processamento, não se restringe à agricultura familiar de subsistência, e vai muito além do segmento financeiro de contratos futuros, que é apenas uma faceta do setor.",
-                          "dificuldade":  "media",
-                          "formato":  "direta"
+                          "explicacao":  "O conceito é de cadeia: o que acontece antes da porteira (semente, fertilizante, máquina) e depois dela (esmagamento, armazém, ferrovia, exportação) pesa tanto quanto a lavoura, e é essa integração que o termo nomeia. Em (c) e (d) estão dois elos verdadeiros da cadeia apresentados como se fossem o todo — o mercado futuro e a exportação in natura existem, mas reduzir o agronegócio a qualquer um deles perde a definição. Em (e), o tamanho da propriedade é critério fundiário, de outra classificação. Em (a), a agricultura familiar é justamente o termo de contraste."
                       },
                       {
                           "id":  "geografia-88",
@@ -14981,18 +14981,18 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-92",
                           "texto_apoio":  "Um gráfico mostra a evolução da produção de grãos no Brasil entre duas décadas: a área plantada cresceu 40%, enquanto a produção total de grãos cresceu 150% no mesmo período.",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil",
                           "enunciado":  "A partir desses dados, é correto concluir que o principal fator explicativo do crescimento da produção de grãos no Brasil nesse período foi:",
                           "alternativas":  {
-                                               "a":  "Principalmente o ganho de produtividade por hectare (mais grãos produzidos na mesma área), já que a produção cresceu proporcionalmente muito mais do que a área plantada",
-                                               "b":  "Principalmente a incorporação de novas áreas de plantio, já que a produtividade por hectare teria permanecido estável no período",
-                                               "c":  "Um erro de medição do IBGE, já que produção e área plantada deveriam crescer sempre na mesma proporção",
-                                               "d":  "Exclusivamente a expansão da área plantada, já que todo aumento de produção agrícola decorre apenas do tamanho da área cultivada, padrão repetido em todas as safras",
-                                               "e":  "Uma redução da área plantada, compensada por uma importação recorde de grãos nesse período"
+                                               "a":  "O ganho de produtividade por hectare, já que a produção cresceu mais que a área",
+                                               "b":  "A incorporação de novas áreas, com produtividade por hectare estável no período",
+                                               "c":  "Um erro de medição, já que produção e área deveriam crescer na mesma proporção",
+                                               "d":  "A expansão da área plantada, já que o aumento decorre do tamanho da área cultivada",
+                                               "e":  "Uma redução da área plantada, compensada por importação recorde de grãos"
                                            },
                           "resposta":  "a",
-                          "explicacao":  "Se a área plantada cresceu 40% e a produção 150%, o crescimento não pode ser explicado apenas pela expansão da área — decorre principalmente do aumento de produtividade por hectare, via melhoramento genético, fertilizantes e técnicas mais avançadas. Produção e área não crescem necessariamente na mesma proporção (não há erro de medição nisso), e os dados não mencionam redução de área nem importação de grãos.",
-                          "dificuldade":  "dificil",
-                          "formato":  "direta"
+                          "explicacao":  "Área subiu 40% e produção 150%: se cada hectare rendesse o mesmo de antes, a produção teria crescido também 40%, e o excedente só pode vir de mais grão colhido no mesmo espaço. Em (b) e (d) está a mesma leitura, que atribui tudo à área e é aritmeticamente incompatível com a diferença entre os dois percentuais. Em (c), não há erro: produção e área crescerem em proporções distintas é o esperado quando a produtividade muda. Em (e), a área cresceu, e o Brasil é exportador líquido de grãos no período."
                       },
                       {
                           "id":  "geografia-93",
@@ -15157,34 +15157,34 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-103",
                           "texto_apoio":  "",
+                          "formato":  "direta",
+                          "dificuldade":  "media",
                           "enunciado":  "O conceito de \u0027bônus demográfico\u0027 refere-se a um período em que:",
                           "alternativas":  {
-                                               "a":  "Toda a população de um país passa a estar em idade ativa, sem a presença de nenhuma criança ou idoso na pirâmide etária, hipótese incompatível com qualquer pirâmide real",
-                                               "b":  "A população total do país cresce em ritmo acelerado, ampliando simultaneamente todas as faixas etárias da pirâmide",
-                                               "c":  "A proporção de pessoas em idade ativa é proporcionalmente maior em relação à população dependente, o que pode favorecer o crescimento econômico se acompanhado de investimentos adequados",
-                                               "d":  "A população de um país entra necessariamente em declínio absoluto, independentemente de sua estrutura etária, cenário observado em países de fecundidade elevada",
-                                               "e":  "A proporção de crianças e idosos supera, de forma permanente e crescente, a proporção de pessoas em idade ativa"
+                                               "a":  "Toda a população passa a estar em idade ativa, sem crianças nem idosos",
+                                               "b":  "A população total do país cresce em ritmo acelerado, ampliando todas as faixas etárias da pirâmide",
+                                               "c":  "A proporção em idade ativa supera a de dependentes, o que pode favorecer o crescimento",
+                                               "d":  "A população entra em declínio absoluto, independentemente da estrutura etária",
+                                               "e":  "A proporção de crianças e idosos supera de forma crescente a de pessoas em idade ativa"
                                            },
                           "resposta":  "c",
-                          "explicacao":  "O bônus demográfico é o período em que a proporção de pessoas em idade ativa é maior em relação à população dependente, criando uma janela de oportunidade para o crescimento econômico, se acompanhada de investimentos adequados. Não implica ausência total de crianças e idosos, não corresponde a um cenário de predomínio permanente da população dependente, e não implica declínio populacional absoluto.",
-                          "dificuldade":  "media",
-                          "formato":  "direta"
+                          "explicacao":  "O bônus é uma relação, não um tamanho: com a fecundidade já em queda e o envelhecimento ainda por vir, a fatia em idade de trabalhar fica temporariamente maior que a de dependentes. Em (b) está a confusão mais comum — crescimento populacional acelerado não é bônus, e o bônus surge justamente quando o crescimento desacelera. Em (e), o quadro descrito é o posterior, de envelhecimento. Em (d), declínio absoluto é outro fenômeno. Em (a), nenhuma pirâmide etária real elimina crianças e idosos."
                       },
                       {
                           "id":  "geografia-104",
                           "texto_apoio":  "O Brasil atravessou, nas últimas décadas, seu período de bônus demográfico, com elevada proporção de população em idade ativa.",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil",
                           "enunciado":  "Entretanto, estudiosos alertam que esse bônus demográfico:",
                           "alternativas":  {
-                                               "a":  "Garante, por si só, crescimento econômico automático e duradouro, independentemente de investimentos em educação ou emprego",
-                                               "b":  "Representa apenas uma janela de oportunidade temporária, que precisa ser aproveitada por meio de investimentos em educação, qualificação profissional e geração de empregos",
-                                               "c":  "Tende a se manter de forma permanente uma vez alcançado, já que decorre da estrutura etária consolidada do país",
-                                               "d":  "Já se encerrou definitivamente no Brasil na década de 1980, muito antes do início da transição demográfica avançada do país",
-                                               "e":  "É um fenômeno permanente, que se repete identicamente a cada geração, sem qualquer relação com a estrutura etária, equívoco comum antes da transição demográfica"
+                                               "a":  "Garante crescimento econômico automático, independentemente de investimento em educação",
+                                               "b":  "É janela temporária, que precisa ser aproveitada com educação, qualificação e emprego",
+                                               "c":  "Tende a se manter de forma permanente, já que decorre da estrutura etária consolidada",
+                                               "d":  "Já se encerrou no Brasil na década de 1980, antes da transição demográfica avançada",
+                                               "e":  "É fenômeno permanente, que se repete a cada geração, sem relação com a estrutura etária"
                                            },
                           "resposta":  "b",
-                          "explicacao":  "O bônus demográfico não garante, por si só, desenvolvimento econômico: é uma janela temporária que depende de políticas públicas adequadas, sob risco de o país \u0027envelhecer antes de enriquecer\u0027. Ele não é permanente nem se repete identicamente, e no Brasil seu período mais favorável já está em processo de estreitamento nas décadas recentes, não encerrado desde os anos 1980.",
-                          "dificuldade":  "dificil",
-                          "formato":  "direta"
+                          "explicacao":  "A janela se fecha sozinha: a mesma queda de fecundidade que a abriu produz, décadas depois, uma população idosa numerosa, e o ganho só se converte em renda se houver escolaridade e emprego enquanto ela está aberta. Em (a) está o alerta invertido — o bônus é oportunidade, não garantia, e países que não investiram envelheceram sem enriquecer. Em (c) e (e), a permanência contraria a própria dinâmica etária que define o fenômeno. Em (d), o bônus brasileiro se estendeu bem além dos anos 1980 e se encerra por volta desta década."
                       },
                       {
                           "id":  "geografia-105",
@@ -15269,18 +15269,18 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-110",
                           "texto_apoio":  "",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil",
                           "enunciado":  "O aumento da frequência e intensidade de enchentes em diversas cidades brasileiras, mesmo em episódios de chuva que não seriam considerados excepcionais décadas atrás, está relacionado, entre outros fatores, a:",
                           "alternativas":  {
-                                               "a":  "Uma redução comprovada e generalizada do volume total de chuvas nas regiões metropolitanas brasileiras nas últimas décadas",
-                                               "b":  "A impermeabilização crescente do solo urbano (por asfalto e construções), a ocupação de áreas de várzea e encostas, e a insuficiência ou obstrução dos sistemas de drenagem urbana",
-                                               "c":  "Uma queda na taxa de urbanização das grandes cidades brasileiras, que reduziu a manutenção dos sistemas de drenagem existentes, tendência observada apenas no interior",
-                                               "d":  "Um aumento da vegetação nativa em áreas urbanas, que passou a reter água em excesso e a sobrecarregar a drenagem",
-                                               "e":  "O aumento isolado do volume de chuvas nas últimas décadas, sem relação com a forma de ocupação do solo urbano"
+                                               "a":  "Redução comprovada do volume total de chuvas nas regiões metropolitanas brasileiras",
+                                               "b":  "Impermeabilização do solo, ocupação de várzeas e encostas e drenagem insuficiente",
+                                               "c":  "Queda na taxa de urbanização das grandes cidades, que reduziu a manutenção da drenagem",
+                                               "d":  "Aumento da vegetação nativa nas cidades, que passou a reter água e sobrecarregar a rede",
+                                               "e":  "Aumento isolado do volume de chuvas, sem relação com a forma de ocupação do solo urbano"
                                            },
                           "resposta":  "b",
-                          "explicacao":  "A impermeabilização do solo urbano, a ocupação de várzeas e encostas e a insuficiência de drenagem reduzem a capacidade das cidades de absorver e escoar a água da chuva, tornando as enchentes mais frequentes. Não houve redução geral do volume de chuvas, o problema não decorre de excesso de vegetação (que ajudaria a absorver água), e a taxa de urbanização das grandes cidades brasileiras não está em queda.",
-                          "dificuldade":  "dificil",
-                          "formato":  "direta"
+                          "explicacao":  "A chave está no enunciado: a chuva não precisou aumentar para a enchente piorar. Asfalto e telhado impedem a infiltração, a várzea que armazenaria a cheia virou bairro, e o que sobra escoa para uma rede subdimensionada. Em (e) está o distrator mais tentador, porque eventos extremos realmente têm se intensificado — mas atribuir tudo à chuva ignora que a mesma precipitação de antes hoje alaga. Em (a) e (c), redução de chuva e queda de urbanização não se verificam. Em (d), a vegetação urbana favorece a infiltração e reduz o escoamento."
                       },
                       {
                           "id":  "geografia-111",
@@ -15301,18 +15301,18 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-112",
                           "texto_apoio":  "Uma tabela comparativa apresenta dados aproximados de dois municípios hipotéticos: Município X, com 90% de cobertura de saneamento básico, registrou 5 casos de doenças de veiculação hídrica por 10 mil habitantes no ano; Município Y, com 40% de cobertura de saneamento básico, registrou 45 casos de doenças de veiculação hídrica por 10 mil habitantes no mesmo ano.",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil",
                           "enunciado":  "Com base nesses dados, qual conclusão é mais adequada do ponto de vista da geografia da saúde?",
                           "alternativas":  {
-                                               "a":  "Os dados de dois municípios isolados provam, de forma definitiva e sem exceção, uma relação de causa e efeito entre saneamento e saúde, conclusão amplamente aceita pela literatura epidemiológica atual",
-                                               "b":  "A diferença expressiva na incidência de doenças (9 vezes maior no Município Y) é consistente com a hipótese de que a menor cobertura de saneamento básico está associada a maior risco de doenças de veiculação hídrica",
-                                               "c":  "O Município X tem cobertura de saneamento pior do que o Município Y, já que registrou um número absoluto menor de casos",
-                                               "d":  "A diferença observada decorre apenas do acaso amostral, não sendo possível relacioná-la às condições de saneamento",
-                                               "e":  "A diferença de 40 casos entre os municípios não tem qualquer relevância estatística ou sanitária"
+                                               "a":  "Os dados de dois municípios isolados provam de forma definitiva uma relação de causa e efeito",
+                                               "b":  "A diferença de nove vezes é consistente com a hipótese de associação entre os dois fatores",
+                                               "c":  "O Município X tem cobertura pior, já que registrou número absoluto menor de casos",
+                                               "d":  "A diferença observada decorre do acaso, sem relação com as condições de saneamento",
+                                               "e":  "A diferença de 40 casos por 10 mil habitantes não tem relevância sanitária alguma"
                                            },
                           "resposta":  "b",
-                          "explicacao":  "A incidência de doenças no Município Y é 45÷5=9 vezes maior que no Município X, o que é consistente com a associação, documentada pela geografia da saúde, entre menor cobertura de saneamento e maior risco de doenças hídricas, sem que isso configure prova definitiva e universal de causalidade (fatores socioeconômicos também influenciam). A cobertura do Município X é maior, não menor, e a diferença de 40 casos por 10 mil habitantes é estatisticamente relevante, não desprezível.",
-                          "dificuldade":  "dificil",
-                          "formato":  "direta"
+                          "explicacao":  "A formulação prudente é a correta: dois municípios sustentam uma associação compatível com a hipótese, e não uma demonstração de causalidade, que exigiria controlar renda, densidade e acesso a serviço de saúde. Em (a) está o excesso simétrico ao de (d) — um conclui causa a partir de dois pontos, o outro descarta qualquer relação diante de uma diferença de nove vezes, e ambos erram na calibragem da inferência. Em (c), a leitura inverte os dados. Em (e), quarenta casos por dez mil habitantes é diferença sanitariamente expressiva."
                       },
                       {
                           "id":  "geografia-113",
@@ -15333,34 +15333,34 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-114",
                           "texto_apoio":  "A Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010) instituiu o conceito de \u0027logística reversa\u0027 e de \u0027responsabilidade compartilhada pelo ciclo de vida dos produtos\u0027.",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil",
                           "enunciado":  "Esses conceitos estabelecem que:",
                           "alternativas":  {
-                                               "a":  "A responsabilidade pelo destino final dos resíduos cabe ao poder público municipal, sem obrigações para fabricantes e comerciantes",
-                                               "b":  "Apenas o consumidor final é legalmente responsável pela destinação adequada de qualquer resíduo que produza, isentando fabricantes e distribuidores, interpretação equivocada que ainda hoje gera controvérsia entre especialistas",
-                                               "c":  "Fabricantes, importadores, distribuidores, comerciantes, consumidores e o poder público compartilham responsabilidades quanto ao ciclo de vida dos produtos, incluindo o retorno de resíduos às empresas para reaproveitamento ou descarte adequado",
-                                               "d":  "Compete unicamente ao poder público municipal arcar com todos os custos de destinação final de qualquer resíduo gerado no país, leitura que contraria o princípio da responsabilidade compartilhada",
-                                               "e":  "A logística reversa se aplica somente a resíduos orgânicos, não incluindo pilhas, eletrônicos ou embalagens, engano frequente sobre o alcance real da norma"
+                                               "a":  "A responsabilidade pelo destino final cabe ao município, sem obrigação para fabricantes",
+                                               "b":  "Apenas o consumidor final responde pela destinação do resíduo que produz",
+                                               "c":  "Fabricantes, comerciantes, consumidores e poder público compartilham responsabilidades",
+                                               "d":  "Compete ao município arcar com todos os custos de destinação final dos resíduos do país",
+                                               "e":  "A logística reversa se aplica a resíduos orgânicos, não a pilhas, eletrônicos ou embalagens"
                                            },
                           "resposta":  "c",
-                          "explicacao":  "A Política Nacional de Resíduos Sólidos estabelece responsabilidade compartilhada entre fabricantes, importadores, distribuidores, comerciantes, consumidores e poder público, incluindo a logística reversa de itens como pilhas, eletrônicos e embalagens. A responsabilidade não recai apenas sobre o consumidor, a logística reversa se aplica especialmente a resíduos não orgânicos, como os citados, e o custo não é assumido isoladamente pelo poder público municipal.",
-                          "dificuldade":  "dificil",
-                          "formato":  "direta"
+                          "explicacao":  "A lei distribui a responsabilidade ao longo da cadeia e cria o caminho de volta: o produto retorna ao fabricante ou ao importador para reaproveitamento ou descarte adequado, e o consumidor participa entregando-o nos pontos de recolhimento. Em (a) e (d) está a mesma leitura antiga, de que lixo é problema exclusivo da prefeitura, e é justamente o que a norma alterou. Em (b), o consumidor tem deveres, não a responsabilidade inteira. Em (e), a inversão é completa: pilhas, eletrônicos, pneus, óleos e embalagens são precisamente os grupos sujeitos à logística reversa."
                       },
                       {
                           "id":  "geografia-115",
                           "texto_apoio":  "",
+                          "formato":  "direta",
+                          "dificuldade":  "media",
                           "enunciado":  "Embora o agronegócio de grandes propriedades seja o principal responsável pelas exportações agrícolas brasileiras, estudos apontam que a agricultura familiar tem papel central em outro aspecto da produção agropecuária nacional, relacionado, sobretudo, a:",
                           "alternativas":  {
-                                               "a":  "Produção majoritária das commodities agrícolas exportadas pelo país, como soja e milho destinados ao mercado externo",
-                                               "b":  "Domínio do mercado de commodities financeiras negociadas em bolsas de valores internacionais, papel majoritariamente exercido pelo agronegócio de grande escala",
-                                               "c":  "Exportação da maior parte dos grãos produzidos no país, como soja e milho, atividade em que supera o agronegócio de grande escala, segundo dados recentes do setor",
-                                               "d":  "Produção de significativa parcela dos alimentos que abastecem o mercado interno brasileiro, como frutas, verduras, legumes, feijão e boa parte da produção leiteira",
-                                               "e":  "Concentração da produção mineral do país, sobretudo minério de ferro e nióbio, atividade concentrada em grandes empresas de mineração"
+                                               "a":  "Produção majoritária das commodities exportadas, como soja e milho",
+                                               "b":  "Domínio do mercado de commodities financeiras negociadas em bolsas internacionais",
+                                               "c":  "Exportação da maior parte dos grãos produzidos no país, superando o agronegócio",
+                                               "d":  "Produção de boa parte dos alimentos do mercado interno: frutas, feijão e leite",
+                                               "e":  "Concentração da produção mineral do país, sobretudo minério de ferro e nióbio"
                                            },
                           "resposta":  "d",
-                          "explicacao":  "Apesar de o agronegócio de grande escala liderar as exportações de commodities como soja e carne bovina, a agricultura familiar responde por parcela significativa da produção de alimentos voltados ao mercado interno. A exportação de grãos como soja e milho é liderada pelo agronegócio de grande escala, não pela agricultura familiar, que tampouco tem relação com produção mineral ou mercado financeiro de commodities.",
-                          "dificuldade":  "media",
-                          "formato":  "direta"
+                          "explicacao":  "A divisão de papéis é essa: a grande propriedade produz o que embarca no navio, e a agricultura familiar produz boa parte do que chega à mesa — mandioca, feijão, hortaliças, leite. Em (a) e (c) está o mesmo equívoco em duas formas, atribuindo à agricultura familiar a exportação de commodities, que é justamente o campo em que o enunciado reconhece o predomínio da grande propriedade. Em (b), commodity financeira é contrato de bolsa, e não produção agrícola. Em (e), mineração não é atividade agropecuária."
                       },
                       {
                           "id":  "geografia-116",
@@ -15621,18 +15621,18 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-132",
                           "texto_apoio":  "Estudos do Ministério do Meio Ambiente identificam, no semiárido brasileiro, \u0027núcleos de desertificação\u0027 — áreas mais críticas de degradação do solo —, entre os quais se destacam regiões como o Seridó (Rio Grande do Norte e Paraíba), Gilbués (Piauí) e Cabrobó (Pernambuco).",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil",
                           "enunciado":  "A identificação desses núcleos específicos, em vez de se referir à desertificação de todo o semiárido de forma homogênea, evidencia que esse processo:",
                           "alternativas":  {
-                                               "a":  "Já foi totalmente revertido em Seridó, Gilbués e Cabrobó, restando apenas áreas preservadas nessas três regiões, conclusão que contraria os próprios dados de monitoramento ambiental apresentados no mapa",
-                                               "b":  "Não guarda qualquer relação com práticas humanas de uso do solo, decorrendo apenas de variações climáticas naturais e cíclicas",
-                                               "c":  "Distribui-se de maneira homogênea por todo o semiárido, já que a região partilha as mesmas condições climáticas em toda a sua extensão",
-                                               "d":  "Ocorre de maneira absolutamente uniforme em toda a extensão do semiárido nordestino, sem qualquer variação espacial entre os núcleos e o restante da região",
-                                               "e":  "Apresenta uma distribuição espacial desigual dentro do semiárido, concentrando-se com maior intensidade em áreas específicas onde a combinação de fatores climáticos e práticas de uso do solo é mais crítica"
+                                               "a":  "Já foi revertido em Seridó, Gilbués e Cabrobó, restando áreas preservadas",
+                                               "b":  "Não guarda relação com uso do solo, decorrendo de variações climáticas naturais",
+                                               "c":  "Distribui-se de modo homogêneo pelo semiárido, que partilha as mesmas condições",
+                                               "d":  "Ocorre de maneira uniforme em toda a extensão do semiárido, sem variação espacial",
+                                               "e":  "Tem distribuição desigual, concentrando-se onde clima e uso do solo se combinam"
                                            },
                           "resposta":  "e",
-                          "explicacao":  "A identificação de núcleos específicos evidencia que a desertificação não ocorre de forma homogênea, mas se concentra em áreas onde a combinação de fatores climáticos e práticas de uso do solo é mais crítica, exigindo políticas focalizadas. O processo não é uniforme em toda a região, não foi revertido nesses núcleos (ao contrário, são as áreas mais críticas), e envolve, sim, práticas humanas de uso do solo, não apenas fatores climáticos naturais.",
-                          "dificuldade":  "dificil",
-                          "formato":  "direta"
+                          "explicacao":  "Delimitar núcleos é afirmar que o processo tem geografia: o clima semiárido é condição comum a toda a região, e o que produz os pontos críticos é a combinação dele com sobrepastejo, retirada de lenha e manejo inadequado em áreas determinadas. Em (b) está o distrator que a própria existência dos núcleos desmente — se fosse só clima, a degradação seria uniforme, já que o clima é regional. Em (c) e (d), a homogeneidade contraria o recorte apresentado no enunciado. Em (a), os núcleos são identificados por serem críticos, e não por estarem recuperados."
                       },
                       {
                           "id":  "geografia-133",
@@ -15685,18 +15685,18 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-136",
                           "texto_apoio":  "",
+                          "formato":  "direta",
+                          "dificuldade":  "media",
                           "enunciado":  "Além das favelas, outra forma de habitação precária historicamente presente em grandes cidades brasileiras, sobretudo em áreas centrais, é o cortiço. A principal diferença entre favela e cortiço está no fato de que o cortiço:",
                           "alternativas":  {
-                                               "a":  "É uma denominação usada exclusivamente para construções rurais, nunca aplicada a imóveis localizados em áreas urbanas, confusão comum mas incorreta sobre a origem do termo",
-                                               "b":  "É uma forma de moradia adotada preferencialmente por famílias de alta renda em bairros nobres das grandes cidades, engano que inverte o perfil socioeconômico típico dessa habitação",
-                                               "c":  "Consiste geralmente em uma edificação já existente (como um antigo casarão ou prédio) subdividida em vários cômodos alugados para famílias diferentes, que compartilham áreas comuns, como banheiro e cozinha",
-                                               "d":  "Está livre de qualquer problema de superlotação ou de infraestrutura precária, ao contrário das favelas, equívoco que ignora as condições reais de habitação nesses locais",
-                                               "e":  "Consiste no parcelamento de glebas periféricas vendidas em lotes sem registro urbanístico regular junto ao município"
+                                               "a":  "É denominação usada apenas para construções rurais, e não para imóveis urbanos",
+                                               "b":  "É forma de moradia adotada por famílias de alta renda em bairros nobres da cidade",
+                                               "c":  "É uma edificação antiga subdividida em cômodos alugados, com áreas comuns partilhadas",
+                                               "d":  "Está livre de problemas de superlotação e de infraestrutura, ao contrário da favela",
+                                               "e":  "É o parcelamento de glebas periféricas vendidas em lotes sem registro urbanístico no município"
                                            },
                           "resposta":  "c",
-                          "explicacao":  "O cortiço consiste no aproveitamento de uma edificação já existente, subdividida em cômodos alugados a famílias distintas que compartilham áreas comuns, diferentemente da favela, formada por construções autônomas em terrenos ocupados irregularmente. Não é uma moradia de alta renda, frequentemente apresenta superlotação e infraestrutura precária, e é tipicamente urbano, não rural.",
-                          "dificuldade":  "media",
-                          "formato":  "direta"
+                          "explicacao":  "O cortiço não é construção nova nem ocupação de terreno vazio: é um imóvel já existente, quase sempre central e antigo, repartido em quartos alugados que dividem banheiro e cozinha — e é o aluguel, não a posse, que define a relação do morador com ele. Em (e) está o distrator mais forte, porque descreve o loteamento irregular, outra forma precária de moradia, só que periférica e baseada em venda. Em (a), o cortiço é fenômeno urbano e central. Em (b), o perfil é de baixa renda. Em (d), superlotação é traço característico, e não algo de que ele esteja livre."
                       },
                       {
                           "id":  "geografia-137",
@@ -15733,18 +15733,18 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-139",
                           "texto_apoio":  "Um gráfico compara a repartição modal das viagens diárias em duas cidades: na Cidade A, 60% das viagens são feitas de automóvel particular, 25% de transporte coletivo e 15% a pé ou de bicicleta; na Cidade B, 25% das viagens são feitas de automóvel particular, 55% de transporte coletivo e 20% a pé ou de bicicleta.",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil",
                           "enunciado":  "Considerando apenas esses dados de repartição modal, é correto afirmar que:",
                           "alternativas":  {
-                                               "a":  "A Cidade A tende a apresentar menores níveis de emissão, já que a maior participação do transporte individual reduz o número de viagens",
-                                               "b":  "A Cidade A tende a apresentar, proporcionalmente, maiores níveis de congestionamento e emissão de poluentes por deslocamento, devido à maior dependência do automóvel particular",
-                                               "c":  "A Cidade B depende mais do automóvel particular do que a Cidade A, conforme os percentuais apresentados",
-                                               "d":  "Não é possível comparar padrões de mobilidade urbana entre cidades diferentes com base em dados de repartição modal",
-                                               "e":  "As duas cidades apresentam exatamente o mesmo padrão de mobilidade urbana, apenas com rótulos de porcentagem invertidos, hipótese que os dados claramente desmentem"
+                                               "a":  "A Cidade A tende a emitir menos, já que o transporte individual reduz o número de viagens",
+                                               "b":  "A Cidade A tende a ter mais congestionamento e emissão por deslocamento, pelo automóvel",
+                                               "c":  "A Cidade B depende mais do automóvel particular do que a Cidade A, conforme os dados",
+                                               "d":  "Não é possível comparar padrões de mobilidade entre cidades com dados de repartição modal",
+                                               "e":  "As duas cidades apresentam o mesmo padrão, apenas com os rótulos de porcentagem invertidos"
                                            },
                           "resposta":  "b",
-                          "explicacao":  "Com 60% das viagens de automóvel particular, a Cidade A apresenta padrão de mobilidade mais dependente de veículos individuais, tendendo a maior congestionamento e emissão de poluentes; a Cidade B, com 25% de automóvel e 55% de transporte coletivo, apresenta padrão mais sustentável. As duas cidades não têm o mesmo padrão, é a Cidade A, não a B, que depende mais do automóvel, e a comparação entre cidades com base em repartição modal é exatamente o tipo de análise feita pela geografia dos transportes urbanos.",
-                          "dificuldade":  "dificil",
-                          "formato":  "direta"
+                          "explicacao":  "O automóvel ocupa muito mais via e emite muito mais por passageiro transportado do que o ônibus, de modo que 60% das viagens em carro particular produzem, por deslocamento, mais congestionamento e mais poluente. Em (e) está o distrator que parece inteligente e não fecha: os números não são simétricos, já que a pé ou de bicicleta responde por 15% em A e 20% em B. Em (c), a leitura inverte as cidades. Em (a), transporte individual multiplica veículos em circulação. Em (d), repartição modal é exatamente o indicador criado para essa comparação."
                       },
                       {
                           "id":  "geografia-140",
@@ -15781,18 +15781,18 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-142",
                           "texto_apoio":  "",
+                          "formato":  "direta",
+                          "dificuldade":  "media",
                           "enunciado":  "Enquanto grandes metrópoles enfrentam desafios ligados ao crescimento urbano acelerado, muitos pequenos municípios do interior do Brasil, sobretudo em áreas rurais menos dinâmicas economicamente, enfrentam o problema inverso, relacionado a:",
                           "alternativas":  {
-                                               "a":  "A ausência de qualquer conexão entre esses municípios e o processo geral de urbanização observado no restante do país",
-                                               "b":  "Um crescimento populacional acelerado, motivado pela chegada constante de novos moradores vindos das capitais estaduais",
-                                               "c":  "Um excesso de oferta de emprego industrial, que atrai mais moradores do que a cidade consegue absorver em sua infraestrutura, cenário oposto ao que de fato ocorre nesses municípios",
-                                               "d":  "Esvaziamento populacional, causado pela saída de jovens em busca de emprego, educação e serviços em cidades maiores, o que pode gerar envelhecimento acentuado da população remanescente",
-                                               "e":  "Crescimento populacional acelerado, decorrente do retorno de famílias que deixaram as metrópoles em busca de menor custo de vida"
+                                               "a":  "A ausência de conexão entre esses municípios e a urbanização do restante do país",
+                                               "b":  "Crescimento populacional acelerado, pela chegada de moradores vindos das capitais",
+                                               "c":  "Excesso de oferta de emprego industrial, que atrai mais gente do que a cidade absorve",
+                                               "d":  "Esvaziamento populacional pela saída de jovens, com envelhecimento dos que ficam",
+                                               "e":  "Crescimento acelerado, pelo retorno de famílias que deixaram as metrópoles"
                                            },
                           "resposta":  "d",
-                          "explicacao":  "Muitos pequenos municípios enfrentam esvaziamento populacional, causado pela saída de jovens em busca de oportunidades em cidades maiores, o que acentua o envelhecimento da população remanescente. Não há, nesses municípios, crescimento populacional acelerado nem excesso de oferta de emprego industrial — pelo contrário, a escassez de oportunidades é a causa do esvaziamento, fenômeno que ocorre em paralelo, e não isolado, do processo geral de urbanização do país.",
-                          "dificuldade":  "media",
-                          "formato":  "direta"
+                          "explicacao":  "Quem sai são os que estão em idade de estudar e trabalhar, e por isso o município não perde apenas população: perde a faixa etária que sustenta natalidade, arrecadação e serviços, e envelhece por subtração. Em (e) está o distrator mais atual, porque a contramigração para cidades pequenas existe e cresceu depois de 2020 — mas atinge sobretudo municípios turísticos e próximos a metrópoles, e não as áreas rurais pouco dinâmicas do enunciado. Em (b) e (c), crescimento e emprego industrial descrevem o oposto do problema. Em (a), esses municípios estão integrados à rede urbana, e é o que permite a saída."
                       },
                       {
                           "id":  "geografia-143",
@@ -15861,18 +15861,18 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-147",
                           "texto_apoio":  "",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil",
                           "enunciado":  "Apesar de ser uma solução tecnicamente viável para a escassez de água doce, a dessalinização da água do mar ainda não é amplamente adotada em todas as regiões costeiras do mundo com problemas hídricos, principalmente porque:",
                           "alternativas":  {
-                                               "a":  "O descarte da salmoura resultante exige transporte terrestre a longas distâncias, sendo esse o principal componente do custo",
-                                               "b":  "O processo demanda grande quantidade de energia, o que eleva significativamente seu custo em comparação com fontes tradicionais de água doce, tornando sua adoção em larga escala mais viável em países ricos em energia",
-                                               "c":  "A água do mar dessalinizada não pode, em nenhuma hipótese, ser utilizada para irrigação agrícola, afirmação que contraria projetos de irrigação já em operação no Oriente Médio",
-                                               "d":  "A tecnologia de dessalinização ainda está em fase experimental, sem nenhuma aplicação comercial em operação no mundo, equívoco sobre uma tecnologia já consolidada comercialmente",
-                                               "e":  "Tratados internacionais de proteção aos oceanos vedam expressamente a instalação de usinas de dessalinização em qualquer país costeiro, restrição inexistente em qualquer acordo ambiental vigente"
+                                               "a":  "O descarte da salmoura exige transporte terrestre a longas distâncias, principal item do custo",
+                                               "b":  "O processo demanda muita energia, o que eleva o custo diante das fontes de água doce",
+                                               "c":  "A água dessalinizada não pode ser utilizada para irrigação agrícola de nenhuma cultura",
+                                               "d":  "A tecnologia segue em fase experimental, sem aplicação comercial em operação no mundo",
+                                               "e":  "Tratados de proteção aos oceanos vedam a instalação de usinas em países costeiros"
                                            },
                           "resposta":  "b",
-                          "explicacao":  "A dessalinização exige grande quantidade de energia, o que eleva seu custo frente a fontes tradicionais, tornando sua adoção em larga escala mais viável em países com energia abundante e barata, como os do Golfo Pérsico. A tecnologia já está em operação comercial há décadas (não é experimental), não há tratado internacional que a proíba, e a água dessalinizada pode, sim, ser usada para irrigação, ainda que com custo elevado.",
-                          "dificuldade":  "dificil",
-                          "formato":  "direta"
+                          "explicacao":  "Dessalinizar é, no fundo, comprar água com energia: o custo por metro cúbico acompanha a tarifa elétrica, e por isso a técnica se difundiu onde a energia é barata, como no Golfo, e não onde a água é apenas escassa. Em (a) está o distrator mais fino — a salmoura é de fato um problema ambiental sério, mas costuma ser devolvida ao mar por emissário, e não transportada por terra, de modo que não é o item dominante do custo. Em (c) e (d), a irrigação com água dessalinizada já opera e a tecnologia é comercialmente madura. Em (e), não existe tratado com essa vedação."
                       },
                       {
                           "id":  "geografia-148",
@@ -16015,17 +16015,17 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-157",
                           "texto_apoio":  "Uma figura ilustra a determinação da posição de um receptor na superfície terrestre a partir de sinais emitidos por uma constelação de satélites.",
+                          "formato":  "lacunas",
                           "enunciado":  "A tecnologia representada é ____________ , e ela se distingue de um Sistema de Informação Geográfica porque este último ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
                           "alternativas":  {
-                                               "a":  "a aerofotogrametria - integra, armazena e analisa dados espaciais de fontes diversas",
-                                               "b":  "o Sistema de Posicionamento Global - capta imagens da superfície por sensores orbitais",
-                                               "c":  "o sensoriamento remoto - integra, armazena e analisa dados espaciais de fontes diversas",
+                                               "a":  "a aerofotogrametria - integra, armazena e analisa dados espaciais diversos",
+                                               "b":  "o Sistema de Posicionamento Global - capta imagens da superfície por sensores em órbita",
+                                               "c":  "o sensoriamento remoto - integra, armazena e analisa dados espaciais diversos",
                                                "d":  "o Sistema de Posicionamento Global - registra o relevo a partir de fotografias aéreas sobrepostas",
-                                               "e":  "o Sistema de Posicionamento Global - integra, armazena e analisa dados espaciais de fontes diversas"
+                                               "e":  "o Sistema de Posicionamento Global - integra, armazena e analisa dados espaciais diversos"
                                            },
                           "resposta":  "e",
-                          "explicacao":  "O GPS determina posição; o SIG integra e analisa camadas de dados espaciais. Duas opções acertam o GPS e descrevem, na segunda lacuna, sensoriamento remoto e aerofotogrametria — tecnologias vizinhas que costumam ser confundidas com o SIG.",
-                          "formato":  "lacunas"
+                          "explicacao":  "As duas lacunas cobram tecnologias diferentes. Determinar coordenadas por triangulação de sinais de satélite é o GPS; o SIG não localiza nada por conta própria — ele recebe camadas de origens variadas, inclusive do GPS, e as cruza para análise. Em (b) e (d), a primeira lacuna está certa e a segunda troca o SIG por sensoriamento remoto e por aerofotogrametria, que produzem dado em vez de integrá-lo. Em (a) e (c), a segunda lacuna está certa e a primeira confunde o GPS com técnicas de imageamento, que registram a superfície mas não fornecem posição do receptor."
                       },
                       {
                           "id":  "geografia-158",
@@ -16045,47 +16045,47 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-159",
                           "texto_apoio":  "Um mapa do IBGE mostra o percentual de domicílios ligados à rede geral de abastecimento de água, com desempenho mais baixo na região Norte.",
+                          "formato":  "lacunas",
                           "enunciado":  "O padrão observado indica que a cobertura de saneamento no Brasil é ____________ , e o caso do Norte mostra que ela ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
                           "alternativas":  {
-                                               "a":  "desigual entre as regiões - acompanha diretamente a disponibilidade de água superficial de cada região",
+                                               "a":  "desigual entre as regiões - acompanha a disponibilidade de água superficial de cada região",
                                                "b":  "homogênea entre as regiões - não decorre automaticamente da abundância de recursos hídricos",
                                                "c":  "determinada pelo clima - não decorre automaticamente da abundância de recursos hídricos",
                                                "d":  "desigual entre as regiões - é maior onde a densidade demográfica é menor",
-                                               "e":  "desigual entre as regiões - não decorre automaticamente da abundância de recursos hídricos, e sim de investimento em infraestrutura"
+                                               "e":  "desigual entre as regiões - não decorre automaticamente da abundância de recursos hídricos"
                                            },
                           "resposta":  "e",
-                          "explicacao":  "A região com maior disponibilidade hídrica do país tem a menor cobertura de rede: água disponível não é o mesmo que água distribuída. Duas opções acertam \"desigual\" e depois afirmam justamente a correlação que o mapa desmente.",
-                          "formato":  "lacunas"
+                          "explicacao":  "As duas lacunas precisam fechar juntas: o mapa mostra disparidade regional, e o Norte é o contraexemplo que separa água disponível de água encanada — a região com mais recurso hídrico do país tem a pior cobertura, porque o que falta é rede, não rio. Em (a), a primeira lacuna está correta e a segunda inverte o argumento, afirmando o que o caso do Norte desmente. Em (b), a cobertura não é homogênea, como o próprio mapa evidencia. Em (c), o clima não determina a cobertura, e sim o investimento. Em (d), a relação com densidade é oposta: o Norte é o menos denso e o menos atendido."
                       },
                       {
                           "id":  "geografia-160",
                           "texto_apoio":  "Um projeto saudita prevê erguer uma megacidade ultratecnológica em área desértica, com aeroportos, marinas, trens de alta velocidade e centros de negócios voltados a atrair capital internacional.",
+                          "formato":  "lacunas",
                           "enunciado":  "O empreendimento é expressão de ____________ , e seu objetivo econômico central é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
                           "alternativas":  {
-                                               "a":  "uma reestruturação produtiva associada à globalização - coletivizar os meios de produção do país",
-                                               "b":  "uma industrialização clássica de concentração fabril - reduzir a dependência da renda do petróleo",
-                                               "c":  "uma reestruturação produtiva associada à globalização - conter o crescimento urbano desordenado já existente",
-                                               "d":  "uma reestruturação produtiva associada à globalização - reduzir a dependência da renda do petróleo diversificando a economia",
-                                               "e":  "uma retração dos investimentos estatais - reduzir a dependência da renda do petróleo"
+                                               "a":  "uma reestruturação produtiva associada à globalização - coletivizar os meios de produção",
+                                               "b":  "uma industrialização clássica de concentração fabril - reduzir a dependência do petróleo",
+                                               "c":  "uma reestruturação produtiva associada à globalização - conter o crescimento urbano desordenado",
+                                               "d":  "uma reestruturação produtiva associada à globalização - reduzir a dependência do petróleo",
+                                               "e":  "uma retração dos investimentos estatais - reduzir a dependência do petróleo"
                                            },
                           "resposta":  "d",
-                          "explicacao":  "Cidades planejadas para atrair capital e serviços são típicas da reestruturação produtiva sob globalização, e o objetivo declarado é diversificar uma economia dependente do petróleo. Note que o projeto envolve investimento estatal massivo, e não retração.",
-                          "formato":  "lacunas"
+                          "explicacao":  "O projeto é um lance clássico de inserção competitiva na economia global — aeroporto, porto, trem e escritórios para atrair capital — a serviço de trocar a renda de um recurso finito por atividades diversificadas. Em (b) está o erro mais tentador: há investimento pesado, mas o alvo são serviços e tecnologia, e não a concentração fabril que caracterizou a industrialização clássica. Em (e), o Estado saudita é o financiador, e não um investidor em retração. Em (a), coletivizar meios de produção é o oposto do que se busca. Em (c), a cidade é erguida do zero no deserto, e não para conter expansão existente."
                       },
                       {
                           "id":  "geografia-161",
                           "texto_apoio":  "Em municípios de Porto Rico, microrredes solares mantêm casas e serviços funcionando durante os frequentes apagões provocados por furacões e por problemas de gestão do setor elétrico.",
+                          "formato":  "lacunas",
                           "enunciado":  "A característica natural que favorece essa solução é ____________ , e a vantagem técnica da microrrede em relação ao sistema centralizado é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
                           "alternativas":  {
-                                               "a":  "a alta amplitude térmica anual - continuar operando de forma autônoma quando a rede principal falha",
-                                               "b":  "a elevada incidência de radiação solar no clima tropical - eliminar a necessidade de manutenção dos equipamentos",
-                                               "c":  "a elevada incidência de radiação solar no clima tropical - continuar operando de forma autônoma quando a rede principal falha",
-                                               "d":  "a intensa atuação de massas polares - continuar operando de forma autônoma quando a rede principal falha",
-                                               "e":  "a elevada incidência de radiação solar no clima tropical - dispensar qualquer forma de armazenamento de energia"
+                                               "a":  "a alta amplitude térmica anual - continuar operando de forma autônoma quando a rede falha",
+                                               "b":  "a elevada radiação solar do clima tropical - eliminar a necessidade de manutenção periódica do sistema",
+                                               "c":  "a elevada radiação solar do clima tropical - continuar operando de forma autônoma quando a rede falha",
+                                               "d":  "a intensa atuação de massas polares - continuar operando de forma autônoma quando a rede falha",
+                                               "e":  "a elevada radiação solar do clima tropical - dispensar o armazenamento da energia gerada"
                                            },
                           "resposta":  "c",
-                          "explicacao":  "A ilha está em latitude tropical, com radiação alta e constante, e a vantagem da microrrede é a autonomia diante da queda da rede principal. Duas opções acertam a causa natural e atribuem à microrrede virtudes que ela não tem — armazenamento é justamente o que a torna viável à noite.",
-                          "formato":  "lacunas"
+                          "explicacao":  "As duas lacunas descrevem coisas independentes, e a questão exige acertar as duas: o recurso disponível é a radiação solar abundante da baixa latitude, e o ganho da microrrede é operar ilhada quando a rede principal cai. Em (a) e (d), a primeira lacuna descreve climas que não são o de Porto Rico — amplitude térmica alta e massas polares pertencem a latitudes médias e altas. Em (b), painéis exigem limpeza e manutenção como qualquer instalação. Em (e), é justamente a bateria que permite manter o fornecimento à noite e durante o apagão."
                       },
                       {
                           "id":  "geografia-162",
@@ -16105,47 +16105,47 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-163",
                           "texto_apoio":  "A Região Metropolitana de São Paulo passou, desde os anos 1980, a integrar um conjunto urbano de limites imprecisos que se estende por cerca de 200 km a partir da capital, articulando várias regiões metropolitanas.",
+                          "formato":  "lacunas",
                           "enunciado":  "Essa configuração é designada como ____________ , e ela resulta sobretudo de ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
                           "alternativas":  {
                                                "a":  "macrometrópole - retorno da indústria ao centro da capital",
-                                               "b":  "macrometrópole - reestruturação econômica e intensificação dos fluxos de pessoas, mercadorias e informações",
+                                               "b":  "macrometrópole - reestruturação econômica e intensificação dos fluxos regionais",
                                                "c":  "macrometrópole - crescimento vegetativo da população da capital",
-                                               "d":  "conurbação simples - reestruturação econômica e intensificação dos fluxos",
-                                               "e":  "megalópole litorânea - reestruturação econômica e intensificação dos fluxos"
+                                               "d":  "conurbação simples - reestruturação econômica e intensificação dos fluxos regionais",
+                                               "e":  "megalópole litorânea - reestruturação econômica e intensificação dos fluxos regionais"
                                            },
                           "resposta":  "b",
-                          "explicacao":  "Macrometrópole descreve o território descontínuo e de limites imprecisos formado pela articulação de várias regiões metropolitanas, e o motor é a reestruturação econômica com intensificação de fluxos. Duas opções acertam o termo e apontam causas que não sustentam a escala descrita.",
-                          "formato":  "lacunas"
+                          "explicacao":  "O que articula esse conjunto não é a mancha urbana contínua, e sim o fluxo: a desconcentração industrial para o interior paulista e a integração por rodovias e serviços criaram uma rede de metrópoles que funciona junto — a macrometrópole. Em (d) está o distrator mais próximo: conurbação descreve duas manchas urbanas que se encostam, escala muito menor que a de 200 quilômetros articulando várias regiões metropolitanas. Em (e), megalópole é o termo usado para eixos como o do nordeste dos EUA, e o caso paulista não é litorâneo. Em (a) e (c), a indústria saiu do centro e o crescimento vegetativo desacelerou no período."
                       },
                       {
                           "id":  "geografia-164",
                           "texto_apoio":  "Um sistema agrícola caracteriza-se por grandes extensões cultivadas com um único produto, substituição intensiva de trabalho por máquinas e aplicação localizada de insumos, com alta produtividade por trabalhador.",
+                          "formato":  "lacunas",
                           "enunciado":  "O sistema descrito é ____________ , e o traço que melhor o distingue da agricultura de subsistência é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
                           "alternativas":  {
-                                               "a":  "a agricultura empresarial - a rotação de culturas em pequenas parcelas",
-                                               "b":  "a rizicultura submersa - a produção ser orientada pelo lucro e pela inserção em mercados",
-                                               "c":  "a agricultura empresarial - o uso exclusivo de mão de obra familiar",
-                                               "d":  "a agricultura empresarial - a produção ser orientada pelo lucro e pela inserção em mercados, e não pelo consumo da própria unidade produtora",
+                                               "a":  "a agricultura empresarial - a rotação de culturas em pequenas parcelas de terra",
+                                               "b":  "a rizicultura submersa asiática - a produção ser orientada pelo lucro e pela inserção em mercados",
+                                               "c":  "a agricultura empresarial - o uso de mão de obra predominantemente familiar",
+                                               "d":  "a agricultura empresarial - a produção ser orientada pelo lucro e pela inserção em mercados",
                                                "e":  "a plantation colonial - a produção ser orientada pelo lucro e pela inserção em mercados"
                                            },
                           "resposta":  "d",
-                          "explicacao":  "Monocultura extensiva, mecanização e alta produtividade por trabalhador caracterizam a agricultura empresarial, cuja lógica é o mercado. Duas opções acertam o sistema e descrevem traços da agricultura familiar ou de subsistência, que é justamente o contraponto pedido.",
-                          "formato":  "lacunas"
+                          "explicacao":  "Monocultura extensa, mecanização e insumos de precisão compõem o retrato da agricultura empresarial, e o que a separa da subsistência é o destino da produção: mercado, não consumo próprio. Em (e) está o distrator mais instrutivo, porque a plantation também produz para o mercado — o que a distingue é ser colonial, voltada à exportação de um produto tropical e apoiada em trabalho compulsório, sem a mecanização descrita. Em (b), a rizicultura submersa é intensiva em trabalho, não em máquina. Em (a) e (c), rotação em pequenas parcelas e mão de obra familiar são traços da própria agricultura de subsistência."
                       },
                       {
                           "id":  "geografia-165",
                           "texto_apoio":  "O Pantanal ocupa parte dos estados de Mato Grosso e Mato Grosso do Sul e constitui a maior área úmida continental do planeta, com dinâmica governada pelo pulso anual de inundação.",
+                          "formato":  "lacunas",
                           "enunciado":  "A principal ameaça antrópica ao bioma, entre as listadas, é ____________ , e o dano mais direto que ela provoca é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
                           "alternativas":  {
-                                               "a":  "a pecuária não sustentável associada ao desmatamento das cabeceiras - a elevação do nível do mar na região",
-                                               "b":  "a expansão de polos industriais de base pesada - a alteração do regime de inundação da planície",
-                                               "c":  "a pecuária não sustentável associada ao desmatamento das cabeceiras - a alteração do regime de inundação da planície",
-                                               "d":  "a pecuária não sustentável associada ao desmatamento das cabeceiras - a salinização dos solos por irrigação",
-                                               "e":  "a extração de petróleo em alto-mar - a alteração do regime de inundação da planície"
+                                               "a":  "a pecuária não sustentável nas cabeceiras dos rios - a elevação do nível do mar na região",
+                                               "b":  "a expansão de polos industriais de base pesada na planície - a alteração do regime de inundação",
+                                               "c":  "a pecuária não sustentável nas cabeceiras dos rios - a alteração do regime de inundação",
+                                               "d":  "a pecuária não sustentável nas cabeceiras dos rios - a salinização dos solos por irrigação",
+                                               "e":  "a extração de petróleo em águas profundas - a alteração do regime de inundação da planície"
                                            },
                           "resposta":  "c",
-                          "explicacao":  "O que sustenta o Pantanal é o pulso de inundação, e ele depende das nascentes no planalto do entorno: desmatá-las altera todo o regime. Duas opções acertam a ameaça e apontam danos que não se aplicam a um bioma continental e sem irrigação intensiva.",
-                          "formato":  "lacunas"
+                          "explicacao":  "As duas lacunas precisam fechar juntas. A pressão decisiva vem de cima: o desmatamento nas cabeceiras do planalto altera a chegada da água à planície, e como toda a vida do Pantanal se organiza em torno do pulso de cheia e seca, é esse ritmo que se desregula. Em (a), o Pantanal é interior e fica a mais de mil quilômetros do mar. Em (d), salinização por irrigação é problema de região semiárida irrigada, não de área úmida. Em (b) e (e), nem polo industrial pesado na planície nem extração de petróleo em alto-mar descrevem a ameaça ao bioma."
                       },
                       {
                           "id":  "geografia-166",
@@ -16165,17 +16165,17 @@ window.QUESTION_BANKS = {
                       {
                           "id":  "geografia-167",
                           "texto_apoio":  "O relevo brasileiro apresenta estruturas geológicas antigas, mas formas de relevo relativamente recentes, produzidas e continuamente refeitas por processos erosivos.",
+                          "formato":  "lacunas",
                           "enunciado":  "A unidade de relevo de maior extensão no território nacional é ____________ , e a aparente contradição entre estruturas antigas e formas recentes explica-se porque ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
                           "alternativas":  {
                                                "a":  "a Planície Litorânea - a erosão remodela continuamente a superfície de rochas antigas",
                                                "b":  "o conjunto dos planaltos - as rochas brasileiras se formaram em período geológico recente",
                                                "c":  "o conjunto dos planaltos - o território passou por intensa atividade tectônica no Quaternário",
-                                               "d":  "o conjunto dos planaltos - a erosão remodela continuamente a superfície de rochas formadas há muito mais tempo",
+                                               "d":  "o conjunto dos planaltos - a erosão remodela continuamente a superfície de rochas antigas",
                                                "e":  "a Planície Amazônica - a erosão remodela continuamente a superfície de rochas antigas"
                                            },
                           "resposta":  "d",
-                          "explicacao":  "Planaltos ocupam a maior parte do território, e a chave está em separar estrutura de forma: a rocha é antiga, o modelado é recente porque a erosão nunca para. Duas opções acertam a unidade e explicam a contradição negando a antiguidade das rochas ou inventando tectonismo recente.",
-                          "formato":  "lacunas"
+                          "explicacao":  "Planaltos ocupam a maior parte do território, e a contradição é só aparente: a rocha é pré-cambriana, mas a forma que se vê é obra da erosão, que trabalha a superfície sem parar e a refaz em escala de tempo muito menor. Em (b) e (c) estão as duas explicações alternativas, ambas falsas para o caso brasileiro — as rochas do embasamento são das mais antigas do planeta, e o país está no meio de uma placa, sem tectonismo intenso recente. Em (a) e (e), as planícies existem e são pequenas diante dos planaltos: a Amazônica, que parece imensa no mapa, é sobretudo planalto rebaixado."
                       }
                   ],
     "gramatica":  [
@@ -21835,14 +21835,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "inferencia",
                        "enunciado":  "The text most likely supports which of the following claims?",
                        "alternativas":  {
-                                            "a":  "A sentence is more likely to be misattributed to a figure the public already admires than to an obscure one.",
-                                            "b":  "Most false quotations are created deliberately by people who profit from spreading them.",
-                                            "c":  "Readers who share a false quotation are usually aware that its source has never been verified.",
-                                            "d":  "Corrections published by researchers normally put an end to a false attribution.",
-                                            "e":  "The sentences that circulate falsely tend to contradict what their audience already believes."
+                                            "a":  "A sentence is likelier to be misattributed to an admired figure than to an obscure one.",
+                                            "b":  "Most false quotations are created deliberately by people who profit from them.",
+                                            "c":  "Readers who share a false quotation usually know its source was never verified.",
+                                            "d":  "Corrections published by researchers normally end a false attribution for good.",
+                                            "e":  "The sentences that circulate falsely tend to contradict the ideas their audience already holds."
                                         },
                        "resposta":  "a",
-                       "explicacao":  "O texto diz que os nomes que atraem citações falsas quase nunca são obscuros e que as frases atribuídas a eles costumam expressar ideias que o público já sustenta. A opção sobre lucro contraria o terceiro parágrafo, que afirma não haver indústria nem proveito na falsificação; a opção sobre leitores conscientes contraria a explicação de que ninguém gasta os quatro minutos da verificação; a opção sobre correções contraria o caso do bibliotecário, em que a versão falsa voltou depois de uma semana; e a opção sobre contradizer o público inverte exatamente o que o primeiro parágrafo observa."
+                       "explicacao":  "O primeiro parágrafo é explícito: os nomes que atraem citações falsas quase nunca são obscuros, e pertencem a autores em quem o público já confia. Em (e) está a inversão exata da segunda metade da mesma frase, que diz que as sentenças exprimem ideias que o público já sustenta. Em (b), o terceiro parágrafo afirma que quase ninguém lucra com o engano e que não há indústria de falsificação. Em (c), o mesmo parágrafo diz que verificar levaria quatro minutos que ninguém tem. Em (d), a correção circulou por uma semana e a versão falsa voltou."
                    },
                    {
                        "id":  "ingles-02",
@@ -21853,13 +21853,13 @@ window.QUESTION_BANKS = {
                        "enunciado":  "In the last paragraph, \u0027the phenomenon\u0027 most likely refers to",
                        "alternativas":  {
                                             "a":  "the practice of tracing a quotation back to the wrong source on purpose.",
-                                            "b":  "the habit of assigning appealing sentences to admired figures without checking them.",
+                                            "b":  "the habit of assigning appealing sentences to admired figures unchecked.",
                                             "c":  "the reluctance of historians to comment on material that circulates online.",
                                             "d":  "the disappearance of obscure writers from public memory over time.",
                                             "e":  "the commercial market that has grown around invented quotations."
                                         },
                        "resposta":  "b",
-                       "explicacao":  "O termo retoma o que os três parágrafos anteriores descrevem: frases agradáveis atribuídas a figuras admiradas sem verificação — o que a historiadora chama de \u0027erro afetuoso\u0027. Rastrear a origem é justamente o oposto do fenômeno, e o texto trata disso como correção, não como o problema; a relutância de historiadores não aparece em lugar nenhum; o esquecimento de autores obscuros é mencionado só de passagem, como consequência, não como o objeto da análise; e o mercado comercial é explicitamente negado, já que o texto afirma não haver lucro na prática."
+                       "explicacao":  "A expressão retoma tudo o que o texto vinha descrevendo: sentenças atraentes atribuídas a nomes admirados por gente que não verifica, o que a historiadora chama de erro afetuoso. Em (a) está a inversão do que o texto afirma — o erro é feito por apreço, não de propósito. Em (e), o terceiro parágrafo diz que não há indústria nem lucro na falsificação de citações. Em (d), o esquecimento da fonte original é etapa do processo, não o fenômeno que ela analisa. Em (c), a historiadora comenta justamente o material que circula, e não se recusa a fazê-lo."
                    },
                    {
                        "id":  "ingles-03",
@@ -21886,14 +21886,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "inferencia",
                        "enunciado":  "The text most likely suggests that, before the currency was allowed to float,",
                        "alternativas":  {
-                                            "a":  "the cost of an overvalued currency was borne by no one in particular.",
-                                            "b":  "imported goods were unavailable to households at any price.",
-                                            "c":  "the official exchange rate was kept secret from private traders.",
-                                            "d":  "a transfer of wealth was already taking place, with victims who were harder to see.",
-                                            "e":  "central banks in these countries were already formally independent."
+                                            "a":  "the cost of an overvalued currency was borne by nobody in particular at the time.",
+                                            "b":  "imported goods were unavailable to households at almost any price.",
+                                            "c":  "the official exchange rate was kept secret from most private traders.",
+                                            "d":  "a transfer of wealth was already taking place, with victims harder to see.",
+                                            "e":  "the central banks of these countries were already formally independent."
                                         },
                        "resposta":  "d",
-                       "explicacao":  "O texto afirma que a diferença entre a taxa oficial e a paralela funcionava como subsídio a quem tinha acesso ao banco central e que essa transferência acontecia \u0027num balcão, em silêncio, ao longo de anos\u0027. A ideia de que ninguém arcava com o custo contraria diretamente essa passagem; a indisponibilidade total de importados não é afirmada, já que havia mercado paralelo funcionando; o próprio texto diz que a diferença não era segredo; e a independência formal do banco central aparece como condição imposta depois pelos credores, não como situação anterior."
+                       "explicacao":  "O segundo parágrafo diz que a transferência anterior de riqueza para os bem relacionados aconteceu num balcão, em silêncio, ao longo de anos, e que o aumento de preços já estava sendo pago por gente sem posição para reclamar. Em (a) está a leitura que o texto existe para desmentir: o custo tinha quem o pagasse, apenas não era visível. Em (c), o primeiro parágrafo afirma que a diferença de câmbio não era segredo. Em (e), a independência formal do banco central aparece como condição imposta depois, junto aos empréstimos. Em (b), havia importação, a preços do mercado paralelo."
                    },
                    {
                        "id":  "ingles-05",
@@ -21906,11 +21906,11 @@ window.QUESTION_BANKS = {
                                             "a":  "They fail whenever the correction to the exchange rate is a large one.",
                                             "b":  "The removal of fuel subsidies is what determines whether a programme survives.",
                                             "c":  "Cash transfers work only in countries that are holding an election.",
-                                            "d":  "An independent central bank makes devaluation unnecessary.",
-                                            "e":  "A reform lasts longer when the population is given something it can identify in return."
+                                            "d":  "An independent central bank makes a devaluation unnecessary.",
+                                            "e":  "A reform lasts longer when the population is shown something in return."
                                         },
                        "resposta":  "e",
-                       "explicacao":  "O terceiro parágrafo diz textualmente que a variável decisiva não é o tamanho da correção, mas se a população recebe algo em troca — e cita transferências de renda como o que separou as reformas que sobreviveram das que a rua reverteu. Isso já descarta a opção sobre o tamanho da correção, negada na mesma frase. A retirada dos subsídios é listada como condição dos credores, não como o fator de sobrevivência; nada associa transferências a anos eleitorais, que aparecem no texto por outro motivo, o do momento da desvalorização; e a independência do banco central é uma exigência que acompanha a desvalorização, não um substituto dela."
+                       "explicacao":  "O terceiro parágrafo é explícito: a variável que parece importar não é o tamanho da correção, e sim se a população pode receber algo em troca — onde houve transferência de renda, a reforma sobreviveu. Em (a) está exatamente o que essa frase descarta, o tamanho da correção. Em (b), a retirada dos subsídios ao combustível é condição imposta pelos credores, e não o que decide a sobrevivência do programa. Em (d), a independência do banco central acompanha a desvalorização, não a substitui. Em (c), o ano eleitoral aparece no último parágrafo como questão de oportunidade, sem relação com as transferências."
                    },
                    {
                        "id":  "ingles-06",
@@ -21971,14 +21971,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "referencia",
                        "enunciado":  "In the third paragraph, \u0027the safe window\u0027 most likely refers to",
                        "alternativas":  {
-                                            "a":  "the period during which a population census is carried out.",
-                                            "b":  "the number of days a footpath stays closed for repairs.",
-                                            "c":  "the area of a park that camera traps are able to cover.",
-                                            "d":  "the interval between the arrival of two competing species.",
+                                            "a":  "the period during which researchers carry out a population census inside the reserve.",
+                                            "b":  "the eleven days for which a footpath stayed closed for repairs.",
+                                            "c":  "the area of a park that a set of camera traps is able to cover.",
+                                            "d":  "the interval between the arrival of two competing nocturnal species.",
                                             "e":  "the part of the night in which the animal can feed without meeting people."
                                         },
                        "resposta":  "e",
-                       "explicacao":  "A expressão fecha a explicação de por que vários herbívoros passam menos tempo total se alimentando: a faixa segura é mais curta que o dia que ela substituiu — ou seja, as horas de escuro em que não há gente. O censo aparece na frase seguinte, com outro propósito, o de mostrar que a população parece estável enquanto cada indivíduo come menos; a duração do reparo da trilha e o alcance das armadilhas fotográficas são dados de outros parágrafos; e o intervalo entre espécies competidoras não é uma medida de tempo que o texto chegue a mencionar."
+                       "explicacao":  "A expressão fecha a frase sobre herbívoros que passam menos tempo total se alimentando, porque a janela segura é mais curta do que o dia que ela substituiu — trata-se, portanto, do trecho da noite em que dá para comer sem encontrar gente. Em (b) e (c), a trilha fechada e as armadilhas fotográficas aparecem no texto, mas em outros parágrafos e sem relação com a duração da alimentação. Em (d), as espécies noturnas concorrentes são citadas como custo adicional, não como intervalo de tempo. Em (a), o censo entra no argumento seguinte, sobre uma população parecer estável enquanto cada indivíduo come menos."
                    },
                    {
                        "id":  "ingles-10",
@@ -21988,14 +21988,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "inferencia",
                        "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
-                                            "a":  "Administrative and legal measures can shut down an organisation while remaining defensible in court.",
-                                            "b":  "Governments adopt these methods mainly because they are cheaper than police action.",
+                                            "a":  "Administrative measures can shut an organisation down while remaining defensible.",
+                                            "b":  "Governments adopt these methods mainly because they cost less than police action.",
                                             "c":  "International sanctions have been redesigned to respond to gradual processes.",
                                             "d":  "Courts in these countries have generally refused to apply the rules described.",
                                             "e":  "Jailing a journalist is the least costly option available to such a government."
                                         },
                        "resposta":  "a",
-                       "explicacao":  "O primeiro parágrafo descreve a sequência inteira — exigência de declaração, atraso, multa acima do orçamento, fechamento — e conclui que nada nela parece repressão vista de fora e que cada passo pode ser defendido num tribunal. A opção do custo inverte o texto, que diz explicitamente que a vantagem não é eficiência e que processar um tesoureiro sai mais caro e mais lento; as sanções são descritas como talhadas para um evento e sem vocabulário para um processo longo; os tribunais são caracterizados como complacentes, e não como resistentes; e prender um jornalista é apresentado como o caminho que cria problema internacional, isto é, o mais caro."
+                       "explicacao":  "O primeiro parágrafo descreve a sequência inteira — registro, auditoria, multa, fechamento — e conclui que nada nela parece repressão de fora e que cada passo pode ser defendido em tribunal. Em (b) está o distrator mais tentador, e o segundo parágrafo o nega na abertura: a vantagem do método não é eficiência, e processar um tesoureiro é mais lento e mais caro que prender um organizador. Em (e), prender um jornalista é apresentado como o caminho que gera problema internacional. Em (c), as sanções pressupõem um evento e não sabem lidar com processos. Em (d), o método depende de tribunais complacentes que ainda funcionam."
                    },
                    {
                        "id":  "ingles-11",
@@ -22022,14 +22022,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "inferencia",
                        "enunciado":  "The author most likely regards the long-term stability of the method as",
                        "alternativas":  {
-                                            "a":  "assured, since the constitution itself is never altered.",
+                                            "a":  "assured, since the constitution itself is never altered by the method.",
                                             "b":  "uncertain, since it depends on courts and officials continuing to cooperate.",
-                                            "c":  "impossible, since no legal system can be used in this way for long.",
-                                            "d":  "irrelevant, since foreign ministries will intervene in any case.",
-                                            "e":  "proven, since no government using it has yet been challenged."
+                                            "c":  "impossible, since no legal system can be used in this way for very long.",
+                                            "d":  "irrelevant, since foreign ministries can be expected to intervene in any case.",
+                                            "e":  "proven, since no government that has used the method was ever seriously challenged."
                                         },
                        "resposta":  "b",
-                       "explicacao":  "O último parágrafo trata a estabilidade como questão em aberto e nomeia a fraqueza: o método depende de tribunais complacentes mas ainda funcionando e de funcionários dispostos a aplicar regras que sabem ser pretextos — duas coisas que se mostraram mais difíceis de sustentar do que se esperava. Dizer que é garantida ignora essa ressalva; dizer que é impossível vai além dela, já que o texto abre o artigo justamente reconhecendo governos duradouros; a intervenção estrangeira é descrita como impotente, não como certa; e o texto não afirma ausência de contestação, e sim ausência de resposta eficaz."
+                       "explicacao":  "O último parágrafo trata a estabilidade como questão em aberto e nomeia a fraqueza: o método depende de tribunais complacentes mas ainda funcionais e de funcionários dispostos a aplicar regras que sabem ser pretextos, e ambos se mostraram mais difíceis de sustentar do que se esperava. Em (c) está o excesso na direção oposta — o texto aponta fragilidade, não impossibilidade. Em (a), a constituição intacta é o que torna o método difícil de denunciar, e não o que o garante. Em (d), o terceiro parágrafo mostra chancelarias sem vocabulário para responder. Em (e), nada no texto afirma ausência de contestação."
                    },
                    {
                        "id":  "ingles-13",
@@ -22040,13 +22040,13 @@ window.QUESTION_BANKS = {
                        "enunciado":  "The third paragraph most likely serves to",
                        "alternativas":  {
                                             "a":  "explain the procedure by which a state board sets the price paid to farmers.",
-                                            "b":  "show that chocolate manufacturers have been breaking labelling rules.",
+                                            "b":  "show that chocolate manufacturers have been breaking the labelling rules.",
                                             "c":  "compare the cocoa market in West Africa with the one in South America.",
                                             "d":  "argue that shoppers ought to pay closer attention to the weight of a bar.",
-                                            "e":  "show that manufacturers absorb part of a price rise in ways the package does not state."
+                                            "e":  "show that manufacturers absorb part of a rise in ways the package omits."
                                         },
                        "resposta":  "e",
-                       "explicacao":  "O parágrafo lista três ajustes — cinco gramas a menos, dois pontos percentuais de cacau a menos, mais recheio — sob a observação de que a resposta vem \u0027de maneiras que o rótulo não anuncia\u0027, e fecha dizendo que o comprador percebe o preço com mais confiabilidade do que qualquer uma dessas mudanças. O funcionamento do conselho estatal é assunto do parágrafo anterior; nada no texto afirma ilegalidade, e sim que a mudança não é anunciada; não há mercado sul-americano em comparação, apenas São Paulo citada como ponto de venda; e o texto descreve o comportamento do consumidor sem prescrever o que ele deveria fazer."
+                       "explicacao":  "O parágrafo lista o que muda sem ser anunciado — a barra encolhe cinco gramas, a proporção de cacau cai dois pontos, o recheio cresce — e acrescenta que o consumidor registra o preço muito melhor que qualquer dessas alterações. Em (b) está a leitura que vai além do texto: reduzir o peso e declará-lo na embalagem não é infração, e nada indica descumprimento de regra. Em (d), o texto observa o comportamento do consumidor sem recomendar nada a ele. Em (a), o conselho estatal de preços pertence ao segundo parágrafo. Em (c), a América do Sul aparece só como local de venda."
                    },
                    {
                        "id":  "ingles-14",
@@ -22209,14 +22209,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "detalhe",
                        "enunciado":  "According to the text, one of the weaknesses the reviewers found in the studies they examined was that",
                        "alternativas":  {
-                                            "a":  "the species of fungus involved had been misidentified.",
-                                            "b":  "the trees studied were too old to transfer carbon at all.",
+                                            "a":  "the species of fungus involved had been misidentified in the field.",
+                                            "b":  "the trees studied were too old to transfer any carbon at all.",
                                             "c":  "the direction of the carbon movement had often not been established.",
-                                            "d":  "the quantities of carbon involved were impossible to measure.",
-                                            "e":  "the studies had never been published in scientific journals."
+                                            "d":  "the quantities of carbon involved proved impossible to measure in the field.",
+                                            "e":  "the studies had never been published in peer-reviewed journals."
                                         },
                        "resposta":  "c",
-                       "explicacao":  "O segundo parágrafo lista três falhas, e esta é a terceira: detectou-se carbono no vizinho sem evidência de que a primeira árvore o tivesse enviado em vez de simplesmente perdido. Erro de identificação de espécie não é mencionado; a crítica sobre árvores é o oposto, já que os estudos foram feitos em vaso e não em floresta madura; as quantidades foram medidas, e o problema apontado é serem pequenas diante do que a árvore produz para si; e o texto se refere ao percurso do achado \u0027do periódico ao documentário\u0027, o que pressupõe publicação."
+                       "explicacao":  "O segundo parágrafo lista três falhas, e a terceira é literalmente esta: em vários casos a direção do movimento nunca foi estabelecida, porque se detectou carbono num vizinho sem prova de que a primeira árvore o tivesse enviado em vez de simplesmente perdido. Em (d) está o distrator mais próximo, e ele distorce a segunda falha — as quantidades foram medidas e eram pequenas, não immensuráveis. Em (b), o problema apontado é o estudo em vasos em lugar de floresta madura, não a idade das árvores. Em (a) e (e), nem identificação de espécie nem ausência de publicação são mencionadas."
                    },
                    {
                        "id":  "ingles-24",
@@ -22226,14 +22226,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "referencia",
                        "enunciado":  "In the last paragraph, \u0027the very problem they were describing\u0027 most likely refers to",
                        "alternativas":  {
-                                            "a":  "the tendency of a memorable account to spread faster than the evidence behind it.",
-                                            "b":  "the difficulty of measuring carbon transfer in a mature forest.",
+                                            "a":  "the tendency of a memorable account to spread faster than its evidence.",
+                                            "b":  "the difficulty of measuring carbon transfer in a mature forest rather than pots.",
                                             "c":  "the reluctance of documentary makers to interview working researchers.",
-                                            "d":  "the absence of fungal networks in certain kinds of soil.",
+                                            "d":  "the absence of fungal networks in certain kinds of forest soil.",
                                             "e":  "the cost of repeating a field study in several different locations."
                                         },
                        "resposta":  "a",
-                       "explicacao":  "O problema que os autores descreviam é o do parágrafo anterior: uma hipótese vira fato no caminho entre o periódico e o documentário, e um achado com nome memorável fica difícil de testar. A ironia é que a própria crítica virou uma história memorável que circula mais do que a questão científica. A dificuldade de medir em floresta madura é uma das falhas metodológicas, não o problema de comunicação; a relutância de documentaristas não é afirmada; a ausência de redes é explicitamente negada; e custo de replicação não aparece no texto."
+                       "explicacao":  "A ironia é que o episódio virou ele próprio um caso célebre e memorável, repetido mais pela história que conta do que pela evidência que reúne — exatamente o mecanismo denunciado no terceiro parágrafo, quando uma hipótese vira fato entre o periódico e o documentário. Em (b) está o distrator mais próximo, porque a medição em floresta madura é de fato uma crítica dos autores, mas é o conteúdo da objeção, não o problema que eles reencenam sem querer. Em (d), os críticos afirmam o contrário: não negam a existência das redes. Em (c) e (e), nem a recusa de documentaristas nem o custo de replicação são mencionados."
                    },
                    {
                        "id":  "ingles-25",
@@ -22532,14 +22532,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "funcao-paragrafo",
                        "enunciado":  "The second paragraph most likely serves to",
                        "alternativas":  {
-                                            "a":  "identify the countries most exposed to a simultaneous failure.",
-                                            "b":  "explain how information is converted for transmission by cable.",
-                                            "c":  "argue that fishing along cable routes ought to be prohibited.",
-                                            "d":  "describe the design of the vessels used to carry out repairs.",
-                                            "e":  "establish that faults are routine and that the system is built to absorb them."
+                                            "a":  "identify the countries most exposed to a simultaneous cable failure.",
+                                            "b":  "explain how information is converted for transmission along a cable.",
+                                            "c":  "argue that fishing along established cable routes ought to be prohibited.",
+                                            "d":  "describe the design of the vessels used to carry out the repairs.",
+                                            "e":  "establish that faults are routine and that the system absorbs them."
                                         },
                        "resposta":  "e",
-                       "explicacao":  "O parágrafo informa que ocorrem mais de cem falhas por ano, quase sempre por rede de pesca ou âncora arrastada, que existe uma frota especializada para consertá-las e que o tráfego se redireciona sozinho, de modo que uma quebra isolada costuma passar despercebida. A identificação dos mais expostos é assunto do parágrafo seguinte; a conversão técnica do sinal não é explicada em lugar nenhum; o texto não propõe proibir a pesca, apenas registra a causa; e os navios são citados pela existência, não pelo projeto."
+                       "explicacao":  "O parágrafo informa que ocorrem mais de cem falhas por ano, quase todas por pesca ou âncora, e que o tráfego se redireciona sozinho — a função é justamente desfazer a impressão de fragilidade que o primeiro parágrafo cria. Em (a) está o distrator mais próximo, porque a exposição desigual é de fato tratada no texto, mas no terceiro parágrafo, e é a informação que o segundo prepara. Em (d), os navios de reparo são mencionados de passagem, sem descrição de projeto. Em (b), a conversão do sinal não aparece. Em (c), o texto atribui falhas à pesca sem propor proibi-la."
                    },
                    {
                        "id":  "ingles-43",
@@ -22566,14 +22566,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "referencia",
                        "enunciado":  "In the third paragraph, \u0027without addressing that\u0027 most likely refers to",
                        "alternativas":  {
-                                            "a":  "the cost of the equipment installed at an automated terminal.",
-                                            "b":  "the claim that automation cannot deliver the productivity promised.",
-                                            "c":  "the loss of one of the few remaining routes to a middle-class wage without a degree.",
-                                            "d":  "the schedule that a shipping line promises to its customers.",
-                                            "e":  "the delay before a new terminal reaches full productivity."
+                                            "a":  "the cost of the equipment installed at an automated container terminal.",
+                                            "b":  "the claim that automation cannot deliver the productivity it promised.",
+                                            "c":  "the loss of a route to a middle-class wage that requires no degree.",
+                                            "d":  "the schedule that a shipping line is able to promise its customers.",
+                                            "e":  "the delay before a new terminal reaches the productivity of the old."
                                         },
                        "resposta":  "c",
-                       "explicacao":  "O parágrafo apresenta duas questões dos sindicatos, e a segunda é essa: o ofício é uma das últimas portas para um salário de classe média sem diploma. Um acordo que protege quem já está empregado e deixa a próxima geração desses postos desaparecer encerra a greve sem tocar justamente nessa segunda questão. Custo do equipamento e prazo até a produtividade plena aparecem só no último parágrafo, depois da frase; a alegação de que a automação não funciona é explicitamente negada como posição sindical; e a escala prometida pelo armador é um efeito da previsibilidade, não uma demanda em disputa."
+                       "explicacao":  "O \u0027that\u0027 retoma o ponto imediatamente anterior: o ofício é uma das poucas rotas restantes para um salário de classe média sem diploma, e um acordo que protege quem já está lá e deixa a próxima geração desaparecer não resolve isso. Em (b), o parágrafo diz o contrário — os sindicatos raramente sustentam que a automação não funcione. Em (a) e (e), o custo do equipamento e o atraso de produtividade só aparecem no quarto parágrafo, depois da frase em questão. Em (d), a previsibilidade do cronograma é apresentada como ganho do sistema, não como o que o acordo deixa de enfrentar."
                    },
                    {
                        "id":  "ingles-45",
@@ -22617,14 +22617,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "referencia",
                        "enunciado":  "In the second paragraph, \u0027that habit of attention\u0027 most likely refers to",
                        "alternativas":  {
-                                            "a":  "the practice of collecting terms for snow in a dictionary.",
-                                            "b":  "the continuous tracking of the terrain that the language\u0027s spatial terms require.",
-                                            "c":  "the effort of naming a cousin on the mother\u0027s side differently.",
+                                            "a":  "the practice of collecting a language\u0027s terms for snow in a dictionary.",
+                                            "b":  "the continuous tracking of terrain that the language\u0027s spatial terms require.",
+                                            "c":  "the effort of naming a cousin on the mother\u0027s side differently from one on the father\u0027s.",
                                             "d":  "the decision to teach a child the language that will get them work.",
-                                            "e":  "the reading of old texts by a community that has revived a language."
+                                            "e":  "the reading of old texts by a community that has revived its language."
                                         },
                        "resposta":  "b",
-                       "explicacao":  "A expressão retoma a frase imediatamente anterior: obrigados a marcar \u0027acima\u0027 e \u0027abaixo\u0027 no terreno em vez de \u0027esquerda\u0027 e \u0027direita\u0027, os falantes acompanham o relevo o tempo todo sem perceber. Os termos para neve e o sistema de parentesco são os exemplos \u0027famosos\u0027 que o texto cita para contrastar com esse, mais silencioso; a escolha da língua que dá emprego é assunto do parágrafo seguinte; e a leitura de textos antigos aparece no último parágrafo justamente como o efeito que NÃO é o mais relatado."
+                       "explicacao":  "A expressão retoma a frase imediatamente anterior: falantes obrigados a dizer se um objeto está acima ou abaixo na encosta acompanham o terreno continuamente, na conversa comum e sem esforço — e é esse hábito que nenhum dicionário preserva. Em (c) está o distrator mais próximo, porque o sistema de parentesco também é uma distinção codificada pela língua, mas o texto o cita como exemplo célebre, e não como hábito de atenção contínua. Em (a), os termos para neve entram na mesma lista de exemplos famosos. Em (d) e (e), a decisão dos pais e a leitura de textos antigos pertencem aos parágrafos seguintes."
                    },
                    {
                        "id":  "ingles-48",
@@ -22651,14 +22651,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "inferencia",
                        "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
-                                            "a":  "The cost of producing power and the cost of supplying it on demand are different things.",
+                                            "a":  "The cost of producing power and of supplying it on demand are different.",
                                             "b":  "The transition is likely to prove expensive over a period of decades.",
                                             "c":  "Transmission and storage are included in the cost figures usually quoted.",
                                             "d":  "Bills have fallen in most of the countries that adopted these sources.",
-                                            "e":  "Consumers can readily identify infrastructure charges on their bills."
+                                            "e":  "Consumers can readily identify infrastructure charges on their own bills."
                                         },
                        "resposta":  "a",
-                       "explicacao":  "É a frase que abre o segundo parágrafo e organiza o texto inteiro: gerar uma unidade de energia e entregá-la na hora em que ela é desejada são coisas de custo diferente. O terceiro parágrafo diz que a maioria das análises encontra o oposto de \u0027cara\u0027 no horizonte de duas décadas; transmissão e armazenamento são apresentados como exatamente o que o número citado deixa de fora; a primeira frase do texto registra contas que não caíram; e o mesmo terceiro parágrafo diz que a parte cara fica enterrada em encargos que o consumidor não conseguiria identificar."
+                       "explicacao":  "O segundo parágrafo abre exatamente com essa distinção e a desdobra em transmissão, armazenamento e desenho de mercado — três custos reais que não entram no número citado. Em (c) está a negação direta dessa frase. Em (b), o texto afirma o oposto: a maioria das análises considera a transição mais barata ao longo de décadas, e a discussão é de sequência, não de custo final. Em (d), o ponto de partida do texto é que as contas não caíram. Em (e), o terceiro parágrafo diz que os encargos ficam enterrados em rubricas que o consumidor não saberia identificar."
                    },
                    {
                        "id":  "ingles-50",
@@ -22755,12 +22755,12 @@ window.QUESTION_BANKS = {
                        "alternativas":  {
                                             "a":  "International students are usually charged the same fee as domestic ones.",
                                             "b":  "Universities were unaware of how far they depended on this income.",
-                                            "c":  "Decisions taken outside education ministries can alter university finances quickly.",
+                                            "c":  "Decisions taken outside education ministries can alter finances quickly.",
                                             "d":  "The cuts generally fell on the courses the international students attended.",
-                                            "e":  "The dependency was concealed from the public."
+                                            "e":  "The dependency was concealed from the public by the universities."
                                         },
                        "resposta":  "c",
-                       "explicacao":  "O segundo parágrafo diz que o subsídio cruzado depende de regras de visto, de trabalho após a formatura e de tratamento do cônjuge, decididas por política doméstica em meses, enquanto a universidade planeja em anos — e que um anúncio na primavera derruba as inscrições em um terço no outono. O primeiro parágrafo informa que o estudante estrangeiro paga várias vezes a mensalidade doméstica; o último diz que ninguém escondeu a dependência e que ela constava de todo relatório anual, o que derruba tanto o desconhecimento quanto a ocultação; e o terceiro afirma que os cortes não caíram sobre os cursos que esses estudantes frequentavam."
+                       "explicacao":  "O segundo parágrafo mostra que o subsídio cruzado repousa em decisões de ministérios sem relação com educação — vistos, direito de trabalhar, tratamento do cônjuge — tomadas em meses, e que um anúncio na primavera pode derrubar um terço das candidaturas até o outono. Em (b) e (e) está a mesma suposição de ignorância ou ocultação, que o último parágrafo nega ao dizer que a dependência constava de todo relatório anual. Em (d), os cortes recaem sobre línguas, clássicos e ciências menores, e não sobre os cursos que os estrangeiros faziam. Em (a), eles pagam várias vezes a mensalidade local."
                    },
                    {
                        "id":  "ingles-56",
@@ -22787,14 +22787,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "funcao-paragrafo",
                        "enunciado":  "The last paragraph most likely serves to",
                        "alternativas":  {
-                                            "a":  "locate the failure in the absence of any mechanism that made a known risk costly to ignore.",
-                                            "b":  "accuse the universities of having hidden their true financial position.",
+                                            "a":  "locate the failure in the absence of a mechanism making a known risk costly to ignore.",
+                                            "b":  "accuse the universities of having concealed a financial position they knew to be fragile.",
                                             "c":  "propose that the fees charged to international students be reduced.",
-                                            "d":  "summarise the visa rules that caused applications to fall.",
-                                            "e":  "compare the finances of two different national systems."
+                                            "d":  "summarise the visa rules that caused applications to fall by a third.",
+                                            "e":  "compare the finances of two national systems that grew at different rates."
                                         },
                        "resposta":  "a",
-                       "explicacao":  "O parágrafo observa que o modelo funcionava como projetado e que a dependência constava de todo relatório anual — o que faltava era algum mecanismo que tornasse caro ignorar a exposição enquanto o dinheiro ainda entrava. É justamente por dizer que ninguém escondeu nada que ele não pode ser lido como acusação de ocultação; nenhuma redução de mensalidade é proposta; as regras de visto são citadas no segundo parágrafo, sem serem resumidas aqui; e não há dois sistemas nacionais em comparação."
+                       "explicacao":  "O parágrafo diz que o modelo funcionava como projetado e que ninguém escondeu a dependência: o que faltava era um mecanismo que tornasse caro ignorar a exposição enquanto o dinheiro ainda entrava. Em (b) está a leitura que o próprio parágrafo antecipa e nega — a dependência aparecia em todo relatório anual, de modo que não houve ocultação. Em (d), as regras de visto foram tratadas no segundo parágrafo. Em (c) e (e), nem a redução de mensalidades nem a comparação entre dois sistemas nacionais chegam a ser propostas no texto."
                    },
                    {
                        "id":  "ingles-58",
@@ -22872,14 +22872,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "referencia",
                        "enunciado":  "In the second paragraph, \u0027which relocates the problem\u0027 most likely refers to the effect of",
                        "alternativas":  {
-                                            "a":  "naming the act that the institution has committed.",
-                                            "b":  "offering a change or a reparation to those who were harmed.",
+                                            "a":  "naming the act that the institution has actually committed.",
+                                            "b":  "offering a change or a reparation to the people who were harmed.",
                                             "c":  "making the feelings of other people, rather than the act, the subject.",
-                                            "d":  "obtaining approval from the institution\u0027s legal counsel.",
-                                            "e":  "publishing a disclosure policy within a health system."
+                                            "d":  "obtaining approval for the statement from the institution\u0027s legal counsel.",
+                                            "e":  "publishing a disclosure policy of the kind adopted by health systems."
                                         },
                        "resposta":  "c",
-                       "explicacao":  "A oração relativa se prende à frase imediatamente anterior: o sujeito da declaração não é a instituição, e sim o sentimento alheio — e é essa troca de sujeito que transfere o problema para quem percebeu o ato. Nomear o ato e oferecer reparação são justamente as operações que o texto diz que a fórmula NÃO executa; a aprovação do advogado é consequência tratada no parágrafo seguinte; e as políticas de divulgação em sistemas de saúde aparecem só no fecho, como evidência a favor do pedido de desculpas real."
+                       "explicacao":  "A oração relativa comenta a frase imediatamente anterior: o sujeito da sentença não é a instituição, e sim os sentimentos de outras pessoas, e é essa troca de sujeito que desloca o problema para quem o notou. Em (a) e (b) estão duas operações que o parágrafo lista como próprias de um pedido de desculpas de verdade, e que a fórmula analisada justamente não realiza. Em (d), a aprovação jurídica aparece no terceiro parágrafo, como razão da sobrevivência da fórmula. Em (e), a política de divulgação pertence ao quarto parágrafo, sobre o que a pesquisa mostra."
                    },
                    {
                        "id":  "ingles-63",
@@ -22924,13 +22924,13 @@ window.QUESTION_BANKS = {
                        "enunciado":  "The text most likely supports which of the following about flood cover?",
                        "alternativas":  {
                                             "a":  "It is hard to insure because the losses are not independent of one another.",
-                                            "b":  "It is the line in which private companies compete most fiercely.",
-                                            "c":  "It has historically been left entirely to the private market.",
-                                            "d":  "It became difficult only after state schemes were introduced.",
-                                            "e":  "It is priced in the same way as cover against fire."
+                                            "b":  "It is the line in which private companies compete most fiercely of all.",
+                                            "c":  "It has historically been left entirely to the private market in most countries.",
+                                            "d":  "It became difficult to write only after state schemes were introduced.",
+                                            "e":  "It is priced in exactly the same way as cover against a house fire."
                                         },
                        "resposta":  "a",
-                       "explicacao":  "O primeiro parágrafo constrói a oposição: o seguro funciona reunindo riscos independentes, e a enchente chega a todos de uma vez — por isso é a modalidade mais difícil de subscrever e por isso o Estado participa dela em quase todo país. Isso já descarta a concorrência feroz e o abandono ao mercado privado; a dificuldade é atribuída à natureza correlacionada da perda, anterior a qualquer esquema estatal; e o incêndio é apresentado como o caso oposto, o dos eventos não relacionados entre si."
+                       "explicacao":  "O primeiro parágrafo estabelece o princípio — o seguro reúne riscos independentes — e mostra que a enchente chega a todos ao mesmo tempo, o que a torna a linha mais difícil de subscrever. Em (c) está a inversão da frase seguinte, que diz que o Estado participa dessa linha em quase todos os países. Em (d), a dificuldade é anterior e é o que motiva os esquemas estatais. Em (e), o incêndio é justamente o contraexemplo de risco independente. Em (b), o texto descreve a retirada das seguradoras privadas das áreas de maior risco, não competição acirrada."
                    },
                    {
                        "id":  "ingles-66",
@@ -23110,14 +23110,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "inferencia",
                        "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
-                                            "a":  "A writer\u0027s name shapes how a text is received rather than merely identifying its author.",
-                                            "b":  "Most writers who adopt pseudonyms are escaping political danger.",
+                                            "a":  "A writer\u0027s name shapes how a text is received rather than merely identifying it.",
+                                            "b":  "Most writers who adopt a pseudonym are escaping some form of political danger at home.",
                                             "c":  "Established writers publishing under new names have generally sold well.",
-                                            "d":  "Knowing an author\u0027s record is of no use to a reader.",
-                                            "e":  "The author recommends anonymity as a general practice."
+                                            "d":  "Knowing an author\u0027s previous record is of no real use to a reader.",
+                                            "e":  "The author recommends anonymity as a general practice for writers."
                                         },
                        "resposta":  "a",
-                       "explicacao":  "O fecho enuncia a tese: a assinatura não é um rótulo neutro pregado num texto pronto, é parte do texto e é lida primeiro. O texto diz que muitos pseudônimos foram adotados por pessoas sem perigo nenhum, e que os casos de fuga, embora existam e sejam os graves, não são a regra que interessa ali; o terceiro parágrafo relata que as obras sob nome novo venderam mal; o segundo concede que o histórico do autor é útil, pois é assim que o leitor decide em que confiar; e o último parágrafo nega expressamente que o anonimato seja recomendado como regra."
+                       "explicacao":  "O último parágrafo formula a tese: a assinatura não é rótulo neutro colado a um texto pronto, é parte do texto e é lida primeiro. Em (d) está o excesso que o texto evita — o registro do autor é dito útil, porque é assim que o leitor decide em quem confiar; negar isso vai além do que se afirma. Em (b), o texto separa esses casos justamente para tratar dos demais, que são muitos. Em (c), o experimento resultou em vendas fracas e resenhas descuidadas. Em (e), o quarto parágrafo recusa explicitamente o anonimato como regra."
                    },
                    {
                        "id":  "ingles-77",
@@ -23127,14 +23127,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "referencia",
                        "enunciado":  "In the second paragraph, \u0027the name has become a genre\u0027 most likely means that",
                        "alternativas":  {
-                                            "a":  "readers can no longer remember which books an author has written.",
-                                            "b":  "publishers refuse to print books outside a fixed category.",
-                                            "c":  "a pseudonym has to be chosen to match the kind of book.",
-                                            "d":  "the author\u0027s name now leads readers to expect a particular kind of book.",
-                                            "e":  "reviewers have stopped reading the work of established writers."
+                                            "a":  "readers can no longer remember which books the author has written.",
+                                            "b":  "publishers refuse to print books outside a fixed commercial category.",
+                                            "c":  "a pseudonym has to be chosen so as to match the kind of book being written.",
+                                            "d":  "the author\u0027s name leads readers to expect a particular kind of book.",
+                                            "e":  "reviewers have stopped reading the work of well-established writers."
                                         },
                        "resposta":  "d",
-                       "explicacao":  "A frase encerra o raciocínio de que o nome fixa o autor num lugar: o romancista conhecido por um tipo de livro que quer escrever outro descobre que o próprio nome passou a funcionar como rótulo de gênero, criando expectativa antes da leitura. A opção do esquecimento inverte o ponto, que é excesso de memória e não falta; recusa das editoras e escolha do pseudônimo não são afirmadas em lugar nenhum; e a resenha desatenta aparece no parágrafo seguinte, e justamente para as obras publicadas sob nome novo."
+                       "explicacao":  "A frase fecha o raciocínio sobre o nome que fixa o escritor num lugar: o romancista conhecido por um tipo de livro que quer escrever outro descobre que a assinatura já criou uma expectativa de gênero. Em (b) está o deslocamento mais tentador — a restrição descrita opera no leitor, não numa recusa das editoras, que o texto não menciona. Em (a), o problema é o oposto: os leitores lembram bem demais. Em (c), a escolha do pseudônimo não é tratada como ajuste ao tipo de livro. Em (e), o terceiro parágrafo diz que a obra sob nome novo foi resenhada com descuido, e não que resenhistas abandonaram os autores estabelecidos."
                    },
                    {
                        "id":  "ingles-78",
@@ -23161,14 +23161,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "inferencia",
                        "enunciado":  "The text most likely suggests that formalisation drives have failed because they",
                        "alternativas":  {
-                                            "a":  "offered benefits too generous to be sustained over time.",
-                                            "b":  "were applied only to the largest firms in each sector.",
-                                            "c":  "relied on credit programmes that never reached small businesses.",
-                                            "d":  "were introduced before any amnesty had been announced.",
+                                            "a":  "offered benefits too generous for a public budget to sustain over time.",
+                                            "b":  "were applied only to the largest firms in each sector rather than to small ones.",
+                                            "c":  "relied on credit programmes that never reached the smallest businesses.",
+                                            "d":  "were introduced before any amnesty had been announced to owners.",
                                             "e":  "treated the behaviour as the problem rather than the calculation behind it."
                                         },
                        "resposta":  "e",
-                       "explicacao":  "O terceiro parágrafo abre exatamente com essa distinção: os programas que funcionaram trataram o cálculo como o que devia mudar, em vez da conduta — o que implica que os anteriores, montados sobre fiscalização e multa, atacaram o comportamento. Benefícios generosos demais não são mencionados; as campanhas foram dirigidas justamente às pequenas, e não às maiores; o crédito é listado como um dos benefícios lentos do registro, não como programa fracassado; e a anistia é citada como um dos instrumentos usados, sem qualquer questão de ordem cronológica."
+                       "explicacao":  "O terceiro parágrafo abre dizendo que os programas bem-sucedidos trataram o cálculo como aquilo que precisava mudar, em vez do comportamento — o que implica que fiscalização, multas e campanhas falharam por atacar o comportamento. Em (c) está o distrator mais próximo, porque o crédito é mesmo citado, mas como benefício lento que o dono pesa contra o custo imediato, não como o programa que falhou. Em (a), o problema não foi generosidade dos benefícios. Em (b), a fiscalização não se limitou às grandes empresas. Em (d), a anistia aparece na lista de medidas de fiscalização já tentadas."
                    },
                    {
                        "id":  "ingles-80",
@@ -23179,13 +23179,13 @@ window.QUESTION_BANKS = {
                        "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
                                             "a":  "Street vendors are the group that has been formalised most successfully.",
-                                            "b":  "Tying formality to something the owner already wants has proved most effective.",
+                                            "b":  "Tying formality to something the owner already wants has worked best.",
                                             "c":  "The costs of registering are distant while its benefits are immediate.",
-                                            "d":  "Rules designed for large firms suit small ones equally well.",
-                                            "e":  "No formalisation policy has produced any measurable result."
+                                            "d":  "Rules designed for large firms suit the smallest ones equally well.",
+                                            "e":  "No formalisation policy has produced any measurable result at all."
                                         },
                        "resposta":  "b",
-                       "explicacao":  "O terceiro parágrafo destaca essa medida como a mais eficaz de todas: tornar a formalidade condição para algo que o dono já quer, como vender ao poder público ou aceitar o cartão que os clientes preferem. O vendedor ambulante é citado no último parágrafo entre os casos que ninguém resolveu; a relação entre custo e benefício é a inversa da apresentada na opção, com custo imediato e benefício distante; o texto diz que as regras foram escritas para empresas cinquenta vezes maiores; e o fecho registra que o meio da distribuição se moveu onde a aritmética mudou."
+                       "explicacao":  "O terceiro parágrafo classifica essa medida como a mais eficaz de todas: tornar a formalidade condição para algo que o dono já quer, como vender a um comprador público ou aceitar cartão. Em (c) está a inversão exata do segundo parágrafo, em que o custo é imediato e certo e o benefício, distante e provável. Em (a), o último parágrafo diz que o vendedor ambulante está entre os casos mais difíceis, ainda não resolvidos. Em (d), as regras escritas para firmas cinquenta vezes maiores são apontadas como parte do custo. Em (e), o texto registra avanço no meio da distribuição."
                    },
                    {
                        "id":  "ingles-81",
@@ -23212,14 +23212,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "inferencia",
                        "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
-                                            "a":  "Extracting these metals requires drilling into the seabed.",
-                                            "b":  "The sediment disturbed by the machines disperses quickly.",
-                                            "c":  "The regulatory code was agreed shortly after negotiations began.",
-                                            "d":  "The environmental cost of collection lies mainly in the sediment it disturbs.",
-                                            "e":  "Demand for every one of these metals has continued to rise."
+                                            "a":  "Extracting these metals requires drilling and blasting into the seabed.",
+                                            "b":  "The sediment disturbed by the machines disperses quickly and settles close by.",
+                                            "c":  "The regulatory code was agreed shortly after the negotiations began.",
+                                            "d":  "The environmental cost lies mainly in the sediment the collection disturbs.",
+                                            "e":  "Demand for each of these metals has continued to rise since the deposits were surveyed."
                                         },
                        "resposta":  "d",
-                       "explicacao":  "O segundo parágrafo é dedicado a isso: o que a descrição simpática omite é a pluma, que se desloca devagar por falta de corrente, assenta sobre área muito ampla e atinge organismos adaptados a um lugar onde nada muda há muitíssimo tempo. O primeiro parágrafo diz que a coleta não exige perfuração nem detonação; a mesma passagem sobre a pluma nega a dispersão rápida; o terceiro parágrafo informa que o código está em negociação há anos; e o último diz que mais de um desses metais é hoje usado em quantidade menor."
+                       "explicacao":  "O segundo parágrafo é inteiro sobre a pluma: a máquina revolve a camada superior, a nuvem viaja devagar por falta de corrente e se deposita numa área muito ampla, com recuperação medida em décadas. Em (b) está a negação direta dessa passagem — o sedimento se dispersa lentamente e longe, e é isso que cria o problema. Em (a), o primeiro parágrafo diz que a coleta não exige perfuração nem detonação. Em (c), o código está em negociação há anos. Em (e), o último parágrafo afirma o contrário: mais de um dos metais é hoje usado em quantidade menor."
                    },
                    {
                        "id":  "ingles-83",
@@ -23229,14 +23229,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "detalhe",
                        "enunciado":  "According to the text, tracks cut on the seabed in the 1980s",
                        "alternativas":  {
-                                            "a":  "have been fully recolonised by the original organisms.",
-                                            "b":  "were erased by ocean currents within a few years.",
+                                            "a":  "have been fully recolonised by the organisms originally present.",
+                                            "b":  "were erased by ocean currents within a few years of being cut.",
                                             "c":  "remain visible and less populated than the ground beside them.",
-                                            "d":  "were never located again by later expeditions.",
-                                            "e":  "produced no measurable disturbance at the time."
+                                            "d":  "were never located again by any of the later expeditions.",
+                                            "e":  "produced no disturbance that could be measured at the time."
                                         },
                        "resposta":  "c",
-                       "explicacao":  "É a última frase do segundo parágrafo, e ela serve de medida concreta para os tempos de recuperação contados em décadas. A recolonização completa é o oposto do que o texto registra; o apagamento por correntes contraria a explicação de que quase não há corrente ali, o que é justamente o motivo de a pluma assentar tão longe; as trilhas seguem visíveis, o que exclui não terem sido reencontradas; e o distúrbio foi medido, tanto que dele saíram os tempos de recuperação."
+                       "explicacao":  "A informação está na última frase do segundo parágrafo, e é literal: algumas trilhas abertas nos anos 1980 continuam visíveis e continuam menos povoadas que o terreno ao lado. Em (a) está o oposto do que se afirma, e é a leitura que a questão quer flagrar, porque décadas soariam suficientes para uma recuperação. Em (b), a ausência de corrente no fundo é justamente o que impede a dispersão. Em (d), as trilhas foram reencontradas, o que é a base da medição. Em (e), o distúrbio foi medido, e os tempos de recuperação vieram dessas medições."
                    },
                    {
                        "id":  "ingles-84",
@@ -23246,14 +23246,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "referencia",
                        "enunciado":  "In the last paragraph, \u0027A resource can lose its case by becoming unnecessary\u0027 most likely refers to",
                        "alternativas":  {
-                                            "a":  "the moratorium requested by several member states.",
+                                            "a":  "the moratorium requested by member states until the ecology is understood.",
                                             "b":  "the fall in the quantities of these metals that batteries now require.",
-                                            "c":  "the money that companies have already spent on equipment.",
-                                            "d":  "the slow recovery of the organisms living in the sediment.",
-                                            "e":  "the years spent negotiating an international mining code."
+                                            "c":  "the money that mining companies have already spent on specialised equipment.",
+                                            "d":  "the slow recovery of the organisms living in the disturbed sediment.",
+                                            "e":  "the years already spent negotiating an international mining code."
                                         },
                        "resposta":  "b",
-                       "explicacao":  "A frase conclui o parágrafo que acaba de dizer que as químicas de bateria mudaram depressa e que mais de um dos metais valorizados nesses nódulos é hoje usado em quantidade menor do que quando os depósitos foram levantados. É por isso que o argumento decisivo pode não ser ecológico. Moratória, gasto das empresas e anos de negociação pertencem ao parágrafo anterior, o da situação regulatória; e a recuperação lenta dos organismos é justamente o argumento ecológico que a frase diz poder não ser o decisivo."
+                       "explicacao":  "A frase conclui o parágrafo que informa que as químicas de bateria mudaram depressa e que mais de um dos metais é hoje usado em quantidade menor do que quando os depósitos foram levantados — perder a causa por se tornar desnecessário é isso. Em (d) está o distrator mais forte, porque a recuperação lenta é de fato um argumento contra a mineração; mas é um argumento ecológico, e o parágrafo abre dizendo que o argumento decisivo pode não ser ecológico. Em (a), (c) e (e), moratória, equipamento e negociação pertencem ao parágrafo anterior, sobre o impasse regulatório."
                    },
                    {
                        "id":  "ingles-85",
@@ -23297,14 +23297,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "funcao-paragrafo",
                        "enunciado":  "The last paragraph most likely serves to",
                        "alternativas":  {
-                                            "a":  "recommend closing the new plants until demand recovers.",
+                                            "a":  "recommend closing the new plants until demand has recovered.",
                                             "b":  "explain the technical requirements of a sterile production line.",
                                             "c":  "describe the contracts signed during the last health emergency.",
-                                            "d":  "defend a payment that looks like waste in every year nothing goes wrong.",
-                                            "e":  "compare the prices charged by regional and established suppliers."
+                                            "d":  "defend a payment that looks like waste when nothing goes wrong.",
+                                            "e":  "compare the prices charged by regional and by established suppliers."
                                         },
                        "resposta":  "d",
-                       "explicacao":  "O parágrafo apresenta o volume mínimo garantido e a taxa por prontidão, admite que o instrumento é sem glamour e que parece desperdício na planilha sempre que nada dá errado, e responde a essa objeção lembrando que era exatamente o que se dizia dos estoques estratégicos até o momento em que fizeram falta. Fechar as fábricas é o oposto do que se defende; a linha estéril é citada no segundo parágrafo, pelo tempo de formação da equipe; os contratos aqui são os novos, não os da emergência passada; e a comparação de preços está no terceiro parágrafo."
+                       "explicacao":  "O parágrafo apresenta o volume mínimo garantido e a taxa de prontidão, reconhece que parecem desperdício em toda planilha de ano tranquilo e fecha lembrando que a mesma objeção foi feita aos estoques estratégicos até o dia em que fizeram falta — o movimento é de defesa. Em (a) está o oposto: o texto quer que as fábricas ociosas recebam encomendas, não que fechem. Em (b), o treinamento da linha estéril pertence ao segundo parágrafo. Em (e), a comparação de preços está no terceiro. Em (c), os contratos citados são propostas atuais, não acordos da emergência passada."
                    },
                    {
                        "id":  "ingles-88",
@@ -23331,14 +23331,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "referencia",
                        "enunciado":  "In the third paragraph, \u0027exactly what the arrangement fails to retain\u0027 most likely refers to",
                        "alternativas":  {
-                                            "a":  "the automated systems that flag material for review.",
+                                            "a":  "the automated systems that flag or miss the material sent for review.",
                                             "b":  "the judgement accumulated by moderators who stay in the job for years.",
-                                            "c":  "the litigation brought in several different countries.",
-                                            "d":  "the rulebook of several hundred pages.",
-                                            "e":  "the wage paid by the contracting firms."
+                                            "c":  "the litigation brought against platforms in several different countries.",
+                                            "d":  "the rulebook of several hundred pages applied to ambiguous material.",
+                                            "e":  "the wage paid by the firms to which the work is contracted out."
                                         },
                        "resposta":  "b",
-                       "explicacao":  "A frase encerra o raciocínio sobre rotatividade: como quase todos são novos nas regras, o discernimento acumulado por quem faz o trabalho há anos — apresentado ali mesmo como aquilo que mais melhoraria as decisões — é justamente o que o arranjo não consegue reter. Os sistemas automáticos, os processos judiciais, o manual e o salário aparecem no entorno como elementos do quadro, mas nenhum deles é descrito como algo que a estrutura deixe de reter."
+                       "explicacao":  "A frase encerra o raciocínio sobre rotatividade: como quase todos são novos nas regras, o discernimento de quem faz o trabalho há anos — apresentado ali mesmo como aquilo que mais melhoraria as decisões — é justamente o que o arranjo não retém. Em (d) está o distrator mais próximo, porque o manual é o que o moderador aplica; mas o manual é retido pelo arranjo, e o que se perde é a experiência de aplicá-lo. Em (c), os processos judiciais aparecem como custo psicológico documentado, não como algo que se deixe de reter. Em (a) e (e), sistemas automáticos e salário pertencem a outros parágrafos."
                    },
                    {
                        "id":  "ingles-90",
@@ -23365,14 +23365,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "inferencia",
                        "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
-                                            "a":  "A skilled translator is able to preserve every effect of the original.",
-                                            "b":  "Translating requires choosing which effects to keep, and those choices are interpretive.",
-                                            "c":  "Two competent translators ought to arrive at the same text.",
+                                            "a":  "A sufficiently skilled translator can preserve every effect the original produces.",
+                                            "b":  "Translating means choosing which effects to keep, and the choices are interpretive.",
+                                            "c":  "Two competent translators working from one original ought to arrive at the same text.",
                                             "d":  "English offers a translator a wider set of choices than Portuguese does.",
-                                            "e":  "A translation is best understood as a window onto the original."
+                                            "e":  "A translation is best understood as a window onto the original text."
                                         },
                        "resposta":  "b",
-                       "explicacao":  "O terceiro parágrafo enuncia isso como condição normal do ofício: toda tradução é uma série de decisões sobre o que preservar quando preservar tudo é impossível, e essas decisões são interpretativas. Preservar tudo é justamente o que o texto diz ser impossível; o mesmo parágrafo afirma que dois tradutores competentes produzem livros diferentes e nenhum está errado; o exemplo do segundo parágrafo mostra o inglês com MENOS opção, não mais, já que ali não há escolha alguma; e o último parágrafo rejeita expressamente a imagem da janela, propondo a de uma execução musical."
+                       "explicacao":  "O terceiro parágrafo enuncia a tese: toda tradução é uma série de decisões sobre o que preservar quando preservar tudo é impossível, e essas decisões são interpretativas. Em (a) e (c) estão as duas consequências que o texto nega no mesmo parágrafo — preservar tudo é impossível, e dois tradutores competentes produzem livros diferentes sem que nenhum esteja errado. Em (e), o quarto parágrafo troca a metáfora da janela pela da performance. Em (d), o exemplo do tratamento formal mostra o inverso: em inglês não há escolha errada porque não há escolha alguma."
                    },
                    {
                        "id":  "ingles-92",
@@ -23399,14 +23399,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "funcao-paragrafo",
                        "enunciado":  "The second paragraph most likely serves to",
                        "alternativas":  {
-                                            "a":  "explain why the costs and the benefits of a new building are represented so unequally.",
+                                            "a":  "explain why the costs and benefits of a new building are represented unequally.",
                                             "b":  "demonstrate that a new building imposes no real costs on existing residents.",
-                                            "c":  "describe the procedure by which a city grants a building permit.",
-                                            "d":  "argue that developers ought to be required to pay compensation.",
-                                            "e":  "compare the housing markets of two different cities."
+                                            "c":  "describe the procedure by which a city grants a building permit to a developer.",
+                                            "d":  "argue that developers ought to be required to compensate the neighbours.",
+                                            "e":  "compare the housing markets of two cities with different rules."
                                         },
                        "resposta":  "a",
-                       "explicacao":  "O parágrafo opõe custos concentrados, imediatos e legíveis, sentidos por poucos moradores atuais, a benefícios difusos, adiados e invisíveis, destinados a quem ainda não mora ali — e fecha observando que um desses grupos está na sala e o outro nunca estará. Os custos são reconhecidos como reais, e não negados; o procedimento de licenciamento não é descrito; nenhuma compensação é proposta; e não há duas cidades em comparação."
+                       "explicacao":  "O parágrafo opõe custos concentrados, imediatos e legíveis a benefícios difusos, adiados e invisíveis, e conclui que um dos grupos está na sala e o outro nem existe como eleitorado — é a explicação da representação desigual. Em (b) está a distorção mais tentadora: o texto afirma que os custos são reais, e apenas mostra que recaem sobre poucos. Em (d), a compensação não é proposta em nenhum ponto; as reformas discutidas mudam o nível da decisão. Em (c), o procedimento de licenciamento é o assunto do primeiro parágrafo. Em (e), nenhuma cidade específica é comparada a outra."
                    },
                    {
                        "id":  "ingles-94",
@@ -23416,14 +23416,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "inferencia",
                        "enunciado":  "The text most likely suggests that the contradiction it describes",
                        "alternativas":  {
-                                            "a":  "results from residents concealing what they actually prefer.",
-                                            "b":  "shows that support for building in the abstract is insincere.",
+                                            "a":  "results from residents concealing the preferences they actually hold.",
+                                            "b":  "shows that support for building in the abstract was never sincere.",
                                             "c":  "follows from different groups answering the general and the particular question.",
-                                            "d":  "has been resolved in most cities by holding more meetings.",
-                                            "e":  "arises because the proposals submitted are too large."
+                                            "d":  "has been resolved in most cities by holding a greater number of meetings.",
+                                            "e":  "arises because the specific proposals brought forward are too large for the street."
                                         },
                        "resposta":  "c",
-                       "explicacao":  "O terceiro parágrafo resolve a aparente hipocrisia com uma frase: a pergunta geral é respondida por todos, e a particular, só pelos vizinhos — sem que ninguém mude de opinião. Isso exclui tanto a ocultação de preferências quanto a insinceridade do apoio. Mais reuniões agravariam o problema, já que a reunião é justamente o lugar onde o lado ausente nunca aparece; e o tamanho das propostas não é apontado como causa."
+                       "explicacao":  "O terceiro parágrafo resolve a aparente hipocrisia numa frase: a pergunta geral é respondida por todos e a particular só pelos vizinhos, sem que ninguém mude de opinião. Em (a) e (b) estão as duas explicações por má-fé que o texto descarta ao dizer que nenhuma opinião muda — não há ocultação nem insinceridade, e sim públicos diferentes. Em (d), mais reuniões agravariam o problema, já que a reunião é o único lugar onde o lado ausente nunca aparece. Em (e), o tamanho das propostas não é apontado como causa em nenhum momento."
                    },
                    {
                        "id":  "ingles-95",
@@ -23467,14 +23467,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "inferencia",
                        "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
-                                            "a":  "The placebo effect depends on the patient being deceived.",
+                                            "a":  "The placebo effect depends on the patient being deceived about the pill.",
                                             "b":  "Open-label trials found no difference from giving no pill at all.",
-                                            "c":  "Placebos have been shown to reduce the size of tumours.",
+                                            "c":  "Placebos have been shown to reduce the size of tumours in patients.",
                                             "d":  "The effect appears most clearly in measurements taken by instruments.",
-                                            "e":  "The ritual around a treatment may matter independently of belief in the pill."
+                                            "e":  "The ritual around a treatment may matter independently of belief."
                                         },
                        "resposta":  "e",
-                       "explicacao":  "O terceiro parágrafo diz que as explicações principais envolvem o ritual e não a crença: tomar algo em hora fixa, a atenção do profissional, a expectativa embutida numa rotina — e o segundo parágrafo já havia mostrado melhora em pacientes que sabiam não haver princípio ativo. Isso derruba a explicação pelo engano; os ensaios relataram melhora em relação a não tomar pílula alguma; o texto afirma que o placebo não encolhe tumor; e diz que o efeito aparece sobretudo no que o paciente relata, não no que o instrumento registra."
+                       "explicacao":  "O terceiro parágrafo diz que as explicações principais envolvem o ritual e não a crença: tomar algo em hora fixa, a atenção do clínico, a expectativa embutida na rotina. Em (a) está a explicação que o texto abre justamente para corrigir, e o ensaio aberto a desmente porque ninguém foi enganado. Em (b), esses ensaios relataram melhora sobre quem não recebeu pílula. Em (d), o mesmo parágrafo afirma o contrário: o efeito aparece sobretudo no que o paciente relata, não no que um instrumento registra. Em (c), a frase sobre o tumor nega isso diretamente."
                    },
                    {
                        "id":  "ingles-98",
@@ -23484,14 +23484,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "detalhe",
                        "enunciado":  "According to the text, in an open-label placebo trial the patients are",
                        "alternativas":  {
-                                            "a":  "given an active drug without being informed.",
-                                            "b":  "asked to guess which pill they have received.",
-                                            "c":  "treated without receiving any pill at all.",
+                                            "a":  "given an active drug without being informed that they are.",
+                                            "b":  "asked to guess which of the pills they have received.",
+                                            "c":  "treated without receiving any pill at all during the trial.",
                                             "d":  "told explicitly that the pill contains no active ingredient.",
-                                            "e":  "monitored by instruments rather than by self-report."
+                                            "e":  "monitored by instruments rather than by their own self-report."
                                         },
                        "resposta":  "d",
-                       "explicacao":  "É a definição dada na primeira frase do segundo parágrafo, e é o que torna o experimento interessante: ninguém foi enganado e ainda assim houve efeito. Receber princípio ativo sem saber é o desenho oposto; adivinhar qual pílula recebeu não é pedido em momento algum; não receber pílula nenhuma é a condição do grupo de comparação; e a medição por relato do paciente é uma característica das condições em que o efeito aparece, não do procedimento do ensaio."
+                       "explicacao":  "O segundo parágrafo define o desenho do ensaio numa frase: os pacientes são informados explicitamente de que a pílula não contém princípio ativo, e ainda assim pedem-se a eles que a tomem no horário. Em (c) está o distrator mais próximo, porque o grupo de comparação é justamente o que não recebe pílula alguma — trocar um grupo pelo outro é o erro que a questão testa. Em (a), a ausência de engano é o ponto do experimento. Em (b), não há adivinhação, já que nada é ocultado. Em (e), o terceiro parágrafo diz que o efeito aparece sobretudo no que o paciente relata."
                    },
                    {
                        "id":  "ingles-99",
@@ -23671,14 +23671,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "inferencia",
                        "enunciado":  "The text most likely suggests that minimum efficiency standards have spread slowly because",
                        "alternativas":  {
-                                            "a":  "the least efficient units are also the most expensive to buy.",
+                                            "a":  "the least efficient units on sale are also the most expensive ones to buy.",
                                             "b":  "the buyer pays the higher price at once and recovers it only later.",
-                                            "c":  "they raise the total cost of a unit across its lifetime.",
+                                            "c":  "they raise the total cost of a unit across its whole lifetime.",
                                             "d":  "they would push the most efficient models out of the market.",
-                                            "e":  "grids are unable to supply the units that comply with them."
+                                            "e":  "grids are unable to supply the units that would comply with them."
                                         },
                        "resposta":  "b",
-                       "explicacao":  "O terceiro parágrafo dá exatamente essa razão: a economia se acumula para o comprador ao longo dos anos, enquanto o preço mais alto é pago no balcão. O texto diz que a eficiência varia por um fator de três a preços semelhantes, o que exclui que os piores modelos sejam os mais caros; afirma que os padrões não custam nada ao consumidor ao longo da vida útil, o que exclui aumento do custo total; e o efeito pretendido é tirar do mercado os piores modelos, não os melhores."
+                       "explicacao":  "O terceiro parágrafo encerra com a razão: a economia se acumula para o comprador ao longo de anos, enquanto o preço mais alto é pago no balcão. Em (c) está a negação da frase anterior, que diz que as normas não custam nada ao consumidor ao longo da vida útil do aparelho. Em (d), quem sairia do mercado seriam os piores modelos, não os melhores. Em (a), o texto diz que a eficiência varia por um fator de três a preços semelhantes, o que desfaz a correlação entre ineficiência e preço alto. Em (e), a capacidade da rede não é apresentada como obstáculo à adoção das normas."
                    },
                    {
                        "id":  "ingles-110",
@@ -23790,14 +23790,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "inferencia",
                        "enunciado":  "The text most likely suggests that the greatest threat to the arrangement is",
                        "alternativas":  {
-                                            "a":  "the emergence of a rival currency with deeper markets.",
-                                            "b":  "the continued decline in the dollar\u0027s share of reserves.",
+                                            "a":  "the emergence of a rival currency whose markets are of comparable depth and liquidity.",
+                                            "b":  "the continued decline in the dollar\u0027s share of official reserves.",
                                             "c":  "the perception that access to the system has become a political instrument.",
-                                            "d":  "the cost of settling transactions in local currencies.",
-                                            "e":  "the volume of international borrowing denominated in dollars."
+                                            "d":  "the cost of settling transactions bilaterally in local currencies.",
+                                            "e":  "the volume of international borrowing that is denominated in dollars."
                                         },
                        "resposta":  "c",
-                       "explicacao":  "O terceiro parágrafo nomeia o candidato mais plausível ao choque capaz de tornar a troca coordenada digna de tentativa, e diz expressamente que não é uma moeda rival: é a percepção de que o acesso ao sistema virou instrumento político em vez de utilidade pública. A moeda rival é a hipótese descartada na mesma frase; a queda das reservas é tratada no segundo parágrafo como o número errado para se discutir; o custo do pagamento em moeda local é característica das alternativas, não ameaça ao dólar; e o volume de dívida em dólar é um dos pilares do arranjo."
+                       "explicacao":  "O terceiro parágrafo nomeia o candidato mais plausível a choque capaz de tornar a troca coordenada vantajosa, e diz que ele não é uma moeda rival, e sim a percepção de que o acesso virou instrumento político. Em (a) está a resposta que o texto antecipa e descarta na mesma frase. Em (b), as reservas são chamadas de a função menos importante da moeda. Em (e), o volume de endividamento em dólar é o que sustenta o arranjo, não o que o ameaça. Em (d), o custo dos arranjos alternativos é reconhecido pelos próprios patrocinadores, que os tratam como seguro."
                    },
                    {
                        "id":  "ingles-117",
@@ -23841,14 +23841,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "referencia",
                        "enunciado":  "In the second paragraph, \u0027The system performed as advertised\u0027 most likely means that",
                        "alternativas":  {
-                                            "a":  "the wanted individual was not in fact found in the crowd.",
+                                            "a":  "the wanted individual was not in fact found anywhere in the crowd.",
                                             "b":  "the hundred false matches are consistent with the accuracy claimed.",
-                                            "c":  "the officer received a list that contained no errors.",
-                                            "d":  "the supplier had overstated the accuracy of the system.",
-                                            "e":  "the crowd was smaller than the system had been designed for."
+                                            "c":  "the officer received a list that contained no errors of any kind.",
+                                            "d":  "the supplier had overstated the accuracy of the system it sold.",
+                                            "e":  "the crowd scanned was smaller than the system had been designed for."
                                         },
                        "resposta":  "b",
-                       "explicacao":  "A frase vem logo depois da conta: um por cento de dez mil é cem, então os cem falsos positivos são exatamente o que a acurácia anunciada previa. É por isso que a frase seguinte pode dizer que a lista entregue ao agente segue noventa e nove por cento errada. O texto diz que a pessoa procurada provavelmente será encontrada; a lista está cheia de erros; a acurácia não foi exagerada, e sim mal interpretada; e o tamanho da multidão é o dado da hipótese, não uma falha de dimensionamento."
+                       "explicacao":  "A frase é irônica e literal ao mesmo tempo: um por cento de dez mil são cem, de modo que as cem coincidências falsas são precisamente o que noventa e nove por cento de acurácia prevê. Em (d) está a leitura contrária — o argumento do texto é que o fornecedor não exagerou, e que o número anunciado é que diz pouco. Em (c), a lista entregue ao policial está errada em noventa e nove por cento dos nomes. Em (a), o texto diz que o sistema provavelmente encontrará a pessoa procurada. Em (e), o tamanho da multidão é o que produz o resultado, não uma condição fora do projeto."
                    },
                    {
                        "id":  "ingles-120",
@@ -23876,13 +23876,13 @@ window.QUESTION_BANKS = {
                        "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
                                             "a":  "Curators generally resist returning objects traced to a specific act.",
-                                            "b":  "The documentation of the period rarely records how objects were taken.",
-                                            "c":  "A strict rule can be written that avoids both kinds of error.",
-                                            "d":  "Recent agreements have moved from ownership towards shared authority over decisions.",
+                                            "b":  "The documentation of the period rarely records how the objects were taken.",
+                                            "c":  "A strict rule can be written that avoids both kinds of error at once.",
+                                            "d":  "Recent agreements have moved from ownership towards shared authority.",
                                             "e":  "Most people working in the field hold one of the two absolute positions."
                                         },
                        "resposta":  "d",
-                       "explicacao":  "O último parágrafo descreve exatamente esse deslocamento: em vez de perguntar quem é dono, passou-se a perguntar quem deve decidir — pergunta que admite custódia compartilhada, comodatos longos nos dois sentidos, acesso digital e veto sobre a forma de exposição —, e quase todo acordo dos últimos anos foi desse tipo. O segundo parágrafo diz que, havendo rastro até um ato específico, a devolução em geral não é contestada pelos curadores, e que a documentação registrava a tomada sem constrangimento; o terceiro afirma que nenhuma versão da regra estrita evita os dois erros; e o primeiro diz que quase ninguém da área sustenta os absolutos."
+                       "explicacao":  "O último parágrafo descreve a mudança de pergunta — de quem é dono para quem decide — e conclui que quase todo acordo dos últimos anos foi desse tipo. Em (c) está a afirmação que o terceiro parágrafo nega palavra por palavra: nenhuma versão da regra evita os dois erros. Em (b), a documentação da época registra a tomada sem constrangimento. Em (a), os curadores em geral não contestam a devolução quando o objeto é rastreável a um ato específico. Em (e), a abertura do texto diz que quase ninguém da área sustenta qualquer das duas posições absolutas."
                    },
                    {
                        "id":  "ingles-122",
@@ -23910,13 +23910,13 @@ window.QUESTION_BANKS = {
                        "enunciado":  "The second paragraph most likely serves to",
                        "alternativas":  {
                                             "a":  "show that the quality of care has declined over the past century.",
-                                            "b":  "compare the wages of factory workers with those of care workers.",
-                                            "c":  "argue that pensions are harder to reform than care.",
-                                            "d":  "describe the training required to work in care.",
-                                            "e":  "explain why the cost of care rises even when nothing about it gets worse."
+                                            "b":  "compare the wages of factory workers with those of care workers today.",
+                                            "c":  "argue that pensions are harder to reform than the provision of care.",
+                                            "d":  "describe the training required to work in the care professions.",
+                                            "e":  "explain why the cost of care rises even when nothing gets worse."
                                         },
                        "resposta":  "e",
-                       "explicacao":  "O parágrafo contrapõe o operário de fábrica, que hoje produz muitas vezes mais do que há um século, à pessoa que ajuda alguém a se vestir, que produz quase exatamente o mesmo — e conclui que é essa distância que faz o custo do cuidado subir mais rápido que tudo, mesmo sem piora, e um país ficar mais rico e achar o cuidado menos acessível. Não se afirma queda de qualidade; salários são tratados no parágrafo seguinte; o primeiro diz que a previdência é a parte fácil, não a difícil; e formação profissional não é mencionada."
+                       "explicacao":  "O parágrafo contrapõe o operário de fábrica, que hoje produz muitas vezes mais, à pessoa que ajuda alguém a se vestir, que produz quase o mesmo de um século atrás — e conclui que essa distância explica por que o custo do cuidado sobe mais rápido que tudo, mesmo sem piorar. Em (a) está a confusão que o parágrafo antecipa: produtividade estagnada não é qualidade em queda. Em (b), a comparação é de produtividade, não de salários. Em (c), a inversão é evidente, já que o texto abre dizendo que a aposentadoria é a parte fácil. Em (d), a formação não é tratada."
                    },
                    {
                        "id":  "ingles-124",
@@ -23927,13 +23927,13 @@ window.QUESTION_BANKS = {
                        "enunciado":  "The text most likely suggests that a country reporting low public spending on care",
                        "alternativas":  {
                                             "a":  "may have transferred the cost to households rather than reduced it.",
-                                            "b":  "has generally found a more efficient way of delivering it.",
-                                            "c":  "depends mainly on migration to fill its workforce gap.",
-                                            "d":  "has raised its retirement age faster than its neighbours.",
-                                            "e":  "pays its care workers more than comparable countries do."
+                                            "b":  "has generally found a more efficient way of delivering that care.",
+                                            "c":  "depends mainly on migration to fill the gap in its workforce.",
+                                            "d":  "has raised its retirement age faster than its neighbours have.",
+                                            "e":  "pays its care workers more than comparable countries do on average."
                                         },
                        "resposta":  "a",
-                       "explicacao":  "O último parágrafo diz que é aí que a contabilidade engana: o país que se apoia no cuidado familiar registra gasto público baixo e trata isso como conquista, quando apenas transferiu o custo da rubrica orçamentária para um conjunto de domicílios, onde ele reaparece como renda não auferida, carreira interrompida e, vinte anos depois, aposentadoria menor. Eficiência maior é justamente o que o texto nega; migração é a outra saída, apresentada em paralelo à familiar; idade de aposentadoria pertence ao problema previdenciário; e nada se diz sobre salário comparado entre países."
+                       "explicacao":  "O último parágrafo diz exatamente isso: o país trata a cifra baixa como conquista, quando apenas moveu o custo de uma rubrica orçamentária para um conjunto de domicílios, onde ele reaparece como salários não auferidos e carreiras interrompidas. Em (b) está a leitura que o parágrafo chama de contabilidade enganosa. Em (c), a migração é uma das saídas descritas, mas o texto a associa a sistemas que gastam, e não aos de gasto baixo. Em (d), a idade de aposentadoria é a parte que o texto separa como facilmente ajustável. Em (e), o cuidado é descrito como trabalho mal pago em toda parte."
                    },
                    {
                        "id":  "ingles-125",
@@ -24045,14 +24045,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "inferencia",
                        "enunciado":  "The text most likely suggests that describing poorer countries as having weak project pipelines",
                        "alternativas":  {
-                                            "a":  "accurately reflects the quality of the proposals they submit.",
-                                            "b":  "explains why parametric insurance has not grown.",
-                                            "c":  "is a judgement shared by the authors of adaptation plans.",
+                                            "a":  "accurately reflects the quality of the proposals that those countries have submitted for funding.",
+                                            "b":  "explains why parametric insurance has not yet grown to scale.",
+                                            "c":  "restates a judgement that the authors of the adaptation plans themselves have accepted.",
                                             "d":  "attributes to those countries a limitation that belongs to the financing instruments.",
-                                            "e":  "applies only to projects that reduce emissions."
+                                            "e":  "applies to projects that reduce emissions rather than to adaptation."
                                         },
                        "resposta":  "d",
-                       "explicacao":  "A frase aparece no fim do terceiro parágrafo, depois de o texto mostrar que se pede a esses países que tomem emprestado para algo que não paga o empréstimo — e o último parágrafo fecha dizendo que o problema nunca foi escassez de bons projetos de adaptação, e sim dinheiro moldado para outro tipo de projeto. Isso derruba a leitura de que a descrição seja acurada ou compartilhada por quem escreve os planos; o seguro paramétrico é apresentado como tentativa de solução ainda pequena; e a expressão se refere justamente aos projetos de adaptação."
+                       "explicacao":  "A expressão fecha o terceiro parágrafo depois de o texto mostrar que se pede a esses países que tomem emprestado para algo que não paga o empréstimo, e o último parágrafo conclui que o problema nunca foi escassez de bons projetos de adaptação, e sim dinheiro moldado para outro tipo de projeto. Em (a) e (c) estão as duas formas de aceitar o rótulo, uma como descrição acurada e outra como juízo compartilhado, e o fecho do texto derruba as duas. Em (b), o seguro paramétrico é apresentado como tentativa de solução ainda pequena. Em (e), a expressão se refere justamente aos projetos de adaptação."
                    },
                    {
                        "id":  "ingles-132",
@@ -24079,14 +24079,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "inferencia",
                        "enunciado":  "The text most likely supports which of the following?",
                        "alternativas":  {
-                                            "a":  "Avoidance is driven by a judgement about usefulness rather than by disbelief.",
-                                            "b":  "People who avoid the news generally believe that it is inaccurate.",
+                                            "a":  "Avoidance is driven by a judgement about usefulness rather than disbelief.",
+                                            "b":  "People who avoid the news generally believe that what it reports is inaccurate.",
                                             "c":  "A single outlet could change the industry\u0027s equilibrium on its own.",
-                                            "d":  "Correcting false claims addresses the reason that avoiders give.",
-                                            "e":  "Attention is rewarded slowly and over long periods."
+                                            "d":  "Correcting false claims addresses the reason that the avoiders give.",
+                                            "e":  "Attention is rewarded slowly and over comparatively long periods."
                                         },
                        "resposta":  "a",
-                       "explicacao":  "O primeiro parágrafo registra o motivo que aparece em toda pesquisa — não que a notícia seja falsa, mas que é implacável e não muda nada sobre o que o leitor possa agir —, e o último confirma que a audiência perdida não está saindo por descrer. O segundo parágrafo diz que dizer a essa pessoa que a apuração está correta não responde ao que ela disse; o terceiro afirma que o veículo que resistisse perderia para o que não resistisse, o que exclui a mudança por iniciativa isolada; e a atenção é medida continuamente e recompensada de imediato."
+                       "explicacao":  "O primeiro parágrafo já registra o motivo declarado nas pesquisas — não que a notícia seja falsa, mas que é implacável e não muda nada sobre o que o leitor possa agir — e a última frase do texto o repete. Em (b) e (d) está a confusão com desinformação que o segundo parágrafo desfaz: quem evita não descrê, de modo que corrigir não responde ao que foi dito. Em (c), o terceiro parágrafo mostra que um veículo isolado que resistisse perderia audiência. Em (e), a atenção é medida continuamente e recompensada de imediato."
                    },
                    {
                        "id":  "ingles-134",
@@ -24096,14 +24096,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "referencia",
                        "enunciado":  "In the last paragraph, \u0027something with a shape\u0027 most likely refers to",
                        "alternativas":  {
-                                            "a":  "a measurement of how long readers remain on a page.",
-                                            "b":  "the urgent feeling that the best-performing material produces.",
-                                            "c":  "the audience that an outlet has already lost.",
-                                            "d":  "the evidence used to correct a false belief.",
-                                            "e":  "an account in which events are connected to what follows and to who decides."
+                                            "a":  "a continuous measurement of the time each reader spends on a given page.",
+                                            "b":  "the urgent feeling produced by the best-performing material.",
+                                            "c":  "the share of the audience that an outlet has already lost.",
+                                            "d":  "the evidence that would be used to correct a false belief.",
+                                            "e":  "an account connecting events to what follows and to who decides."
                                         },
                        "resposta":  "e",
-                       "explicacao":  "A expressão nomeia o resultado da prática descrita na mesma frase: contar o que aconteceu, o que provavelmente vem depois e o que está sendo decidido e por quem transforma um fluxo de eventos em algo com forma. A medição de tempo de página e o sentimento de urgência pertencem ao parágrafo anterior, o dos incentivos que pioram o problema; a audiência perdida é citada na última frase, como consequência; e a evidência corretiva é do segundo parágrafo, sobre desinformação."
+                       "explicacao":  "A expressão nomeia o resultado do procedimento descrito na frase anterior: contar o que aconteceu, o que provavelmente vem depois e o que está sendo decidido e por quem transforma um fluxo de acontecimentos em algo com forma. Em (b) está o contrário — o sentimento de urgência é o produto da métrica de atenção, apresentado no parágrafo anterior como parte do problema. Em (a), a medição contínua é a causa do equilíbrio que o texto critica. Em (d), a evidência que corrige uma crença falsa pertence ao segundo parágrafo, sobre desinformação. Em (c), o público perdido é o efeito, não o formato."
                    },
                    {
                        "id":  "ingles-135",
@@ -24147,14 +24147,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "referencia",
                        "enunciado":  "In the third paragraph, saying that \u0027turned out\u0027 is doing the work in that sentence most likely means that",
                        "alternativas":  {
-                                            "a":  "the intention of the author determines what a work will come to mean.",
+                                            "a":  "the intention of the author determines what a work will eventually come to mean.",
                                             "b":  "the phrase ought to be removed for the sentence to be accurate.",
                                             "c":  "durable works are those whose meaning was fixed at publication.",
-                                            "d":  "the phrase points to a process that occurs in readers rather than in the book.",
+                                            "d":  "the phrase points to a process occurring in readers, not in the book.",
                                             "e":  "repeated reading adds nothing to a text that was thin to begin with."
                                         },
                        "resposta":  "d",
-                       "explicacao":  "A frase seguinte explica a observação: a expressão nomeia um processo que acontece nos leitores, ao longo de gerações, e não no livro. Isso já exclui a intenção do autor, que o próprio trecho diz ser excedida, e o sentido fixado na publicação, que é o oposto de um processo geracional. O texto não sugere suprimir a expressão, e sim reparar nela; e a leitura repetida é citada no mesmo parágrafo como o que distingue o livro que resiste, não como esforço inútil."
+                       "explicacao":  "A frase seguinte explicita o ponto: \u0027turned out\u0027 nomeia um processo que acontece nos leitores, ao longo de gerações, e não no livro. Em (a) e (c) estão as duas versões da tese contrária, uma pela intenção do autor e outra pelo sentido fixado na publicação, e o parágrafo diz justamente que as obras duráveis vieram a ser sobre mais do que seus autores poderiam pretender. Em (b), a expressão não é um defeito a corrigir, e sim o termo em que está a carga do argumento. Em (e), a leitura repetida é apresentada como aquilo que distingue um texto durável, e o texto fino é o contraexemplo."
                    },
                    {
                        "id":  "ingles-138",
@@ -24165,13 +24165,13 @@ window.QUESTION_BANKS = {
                        "enunciado":  "The second paragraph most likely serves to",
                        "alternativas":  {
                                             "a":  "explain why electrification adds up sooner for two-wheelers than for cars.",
-                                            "b":  "describe the design of a battery-swapping station.",
-                                            "c":  "argue that motorcycles ought to replace cars in cities.",
-                                            "d":  "compare the emissions of motorcycles with those of cars.",
-                                            "e":  "list the countries in which two-wheelers are most common."
+                                            "b":  "describe how a battery-swapping station is designed and operated.",
+                                            "c":  "argue that motorcycles ought to replace cars in the most congested cities.",
+                                            "d":  "compare the lifetime emissions of motorcycles with those of cars.",
+                                            "e":  "list the regions of the world in which two-wheelers carry most passenger trips."
                                         },
                        "resposta":  "a",
-                       "explicacao":  "O parágrafo alinha três razões — bateria pequena, distância diária curta e previsível, combustível comprado todo dia em dinheiro — e conclui apontando onde está o obstáculo real: o preço de compra, e não o custo de rodagem. A estação de troca é descrita no parágrafo seguinte; o texto não defende substituir carros por motos, apenas observa que o debate ignora a moto; emissões não são comparadas; e as regiões aparecem no primeiro parágrafo, sem lista de países."
+                       "explicacao":  "O parágrafo enumera três razões pelas quais a conta fecha antes para as duas rodas — bateria pequena, distância curta e previsível, combustível pago em dinheiro todo dia — e termina isolando o obstáculo, que é o preço de compra. Em (b) está o distrator mais próximo, porque a troca de bateria é mesmo assunto do texto, mas do terceiro parágrafo, que resolve o problema que o segundo formula. Em (e), as regiões aparecem no primeiro parágrafo. Em (d), emissões não são comparadas em nenhum ponto. Em (c), o texto não defende substituir carros por motos."
                    },
                    {
                        "id":  "ingles-139",
@@ -24198,14 +24198,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "inferencia",
                        "enunciado":  "The text most likely supports which of the following about battery swapping?",
                        "alternativas":  {
-                                            "a":  "It has been adopted mainly by the owners of private cars.",
-                                            "b":  "It raises the purchase price of the machine.",
-                                            "c":  "It requires the rider to wait while a battery charges.",
-                                            "d":  "It makes the daily cost less predictable than buying fuel.",
+                                            "a":  "It has been adopted mainly by the owners of privately used cars.",
+                                            "b":  "It raises the purchase price of the machine the rider buys.",
+                                            "c":  "It requires the rider to wait at the station while a depleted battery charges.",
+                                            "d":  "It makes the daily cost less predictable than buying fuel in cash.",
                                             "e":  "It turns an upfront cost into a recurring payment the rider already makes."
                                         },
                        "resposta":  "e",
-                       "explicacao":  "O terceiro parágrafo descreve exatamente essa conversão: comprar a máquina sem bateria derruba o preço, e pagar por troca faz a economia se parecer com a compra de combustível que o motociclista já faz todo dia. O último parágrafo diz que nada disso se transfere automaticamente para carros; o preço de compra cai, não sobe; a espera pela recarga desaparece, porque ninguém espera bateria carregar; e o custo diário fica mais parecido com o que já era, não menos previsível."
+                       "explicacao":  "O terceiro parágrafo descreve exatamente essa conversão: comprar a máquina sem bateria derruba o preço, e o pagamento por troca passa a se parecer com a compra de combustível que o piloto já fazia. Em (b) está a inversão do que o texto diz, já que separar a bateria corta o preço. Em (c), o mesmo parágrafo afirma que o tempo de recarga desaparece porque ninguém espera bateria carregar. Em (d), a economia passa a se assemelhar a um gasto que o piloto já conhece, o que aumenta a previsibilidade. Em (a), o último parágrafo diz que nada disso se transfere automaticamente aos carros."
                    },
                    {
                        "id":  "ingles-141",
@@ -24368,14 +24368,14 @@ window.QUESTION_BANKS = {
                        "tipoItem":  "excecao",
                        "enunciado":  "The text most likely supports all of the following EXCEPT:",
                        "alternativas":  {
-                                            "a":  "Funding decisions shape which material becomes searchable.",
+                                            "a":  "Funding decisions shape which of the material becomes searchable at all.",
                                             "b":  "A document that cannot be found by a search is effectively absent.",
                                             "c":  "Institutional papers are over-represented relative to personal ones.",
-                                            "d":  "Some projects scan the least visible collections first.",
-                                            "e":  "Digitisation has preserved the different kinds of holding in equal proportion."
+                                            "d":  "Some recent projects have chosen to scan the least visible collections first.",
+                                            "e":  "Digitisation has preserved the different kinds of holding in equal measure."
                                         },
                        "resposta":  "e",
-                       "explicacao":  "É a tese que o texto desmonta na primeira frase: a digitalização se apresenta como forma de preservar tudo e virou, discretamente, uma forma de selecionar — com distorção que corre por linhas previsíveis. As demais estão sustentadas: o que é digitalizado é o que alguém financia; o documento que a busca não encontra está, na prática, ausente; material produzido por instituições é sobrerrepresentado diante do produzido por indivíduos; e alguns projetos recentes inverteram a ordem, começando pelos acervos menos visíveis."
+                       "explicacao":  "A tese do texto é a oposta de (e): a digitalização virou um modo de selecionar, e o terceiro parágrafo lista as linhas previsíveis da distorção — línguas faladas por muitos, países ricos, instituições em vez de indivíduos. As outras quatro estão sustentadas: (a) e (c) vêm do primeiro e do terceiro parágrafos, (b) é a frase sobre o pesquisador que busca em vez de folhear, e (d) descreve os projetos do último parágrafo, que invertem a prioridade e digitalizam primeiro os acervos menos visíveis."
                    }
                ],
     "interpretacao-texto":  [
@@ -26768,14 +26768,14 @@ window.QUESTION_BANKS = {
                            "formato":  "direta",
                            "enunciado":  "A relação entre a ascensão de João Romão e o destino de Bertoleza permite afirmar que o romance",
                            "alternativas":  {
-                                                "a":  "mostra que a riqueza do português foi construída sobre o trabalho e o dinheiro de uma mulher negra descartada quando ele chega ao topo.",
-                                                "b":  "apresenta Bertoleza como sócia formal do negócio, cuja parte lhe é negada por falha de registro.",
-                                                "c":  "atribui à convivência com Bertoleza a decadência econômica de João Romão.",
-                                                "d":  "trata o enriquecimento como resultado exclusivo da disciplina individual do protagonista.",
-                                                "e":  "situa a ruptura entre os dois antes do início da construção das casinhas."
+                                                "a":  "mostra que a riqueza do português se ergueu sobre o trabalho de uma mulher negra depois descartada.",
+                                                "b":  "apresenta Bertoleza como sócia formal cuja parte lhe é negada por uma falha de registro.",
+                                                "c":  "faz da convivência com Bertoleza a causa da decadência econômica de João Romão.",
+                                                "d":  "trata o enriquecimento como fruto da disciplina individual do protagonista, à maneira de uma parábola de esforço.",
+                                                "e":  "situa a ruptura entre os dois antes do início da construção das casinhas do cortiço."
                                             },
                            "resposta":  "a",
-                           "explicacao":  "O segundo parágrafo diz que o dinheiro e a força de trabalho de Bertoleza sustentam a construção das casinhas e que ela nunca aparece como sócia; quando a ascensão exige o casamento com Zulmira, João Romão a entrega a quem a reclamava como escrava. A falha de registro inverte isso, porque não havia sociedade nenhuma a registrar; a trajetória do português é de ascensão, não de decadência; a disciplina individual é justamente o que o texto desmonta ao mostrar de onde veio o capital; e a ruptura ocorre no fim, e não antes da construção."
+                           "explicacao":  "O capital inicial e a força de trabalho que sustentam a taverna e as casinhas vêm de Bertoleza, e o desfecho apenas liquida uma sociedade que nunca foi reconhecida. Em (d) está a leitura que o romance constrói para desmentir: a disciplina de João Romão é real, mas o livro insiste em mostrar de onde veio o que ele acumulou. Em (b), não há sociedade formal a ser desfeita por falha de registro — a exploração é justamente extralegal. Em (c), não há decadência: ele termina rico. Em (e), a ruptura é o desfecho, e não o ponto de partida."
                        },
                        {
                            "id":  "literatura-03",
@@ -26816,14 +26816,14 @@ window.QUESTION_BANKS = {
                            "formato":  "direta",
                            "enunciado":  "A data de publicação do romance situa-o",
                            "alternativas":  {
-                                                "a":  "antes da Lei do Ventre Livre.",
-                                                "b":  "durante a Guerra do Paraguai.",
-                                                "c":  "na década anterior à Abolição.",
-                                                "d":  "dois anos depois da Abolição e um ano depois da Proclamação da República.",
-                                                "e":  "já no período do Estado Novo."
+                                                "a":  "na década seguinte à Guerra do Paraguai, ainda sob o Segundo Reinado",
+                                                "b":  "dois anos antes da Abolição e um ano antes da Proclamação da República",
+                                                "c":  "entre a Lei do Ventre Livre e a Lei dos Sexagenários, no auge do debate abolicionista",
+                                                "d":  "dois anos depois da Abolição e um ano depois da Proclamação da República",
+                                                "e":  "já sob a República Velha consolidada, cerca de três décadas depois da Abolição"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "A primeira frase do texto data a publicação em 1890 e a situa exatamente assim, o que importa para a leitura: o romance encena a entrega de uma mulher negra a quem a reclamava como escrava dois anos depois de a escravidão ter sido abolida. A Lei do Ventre Livre é de 1871 e a Guerra do Paraguai terminou em 1870, ambas anteriores; a década anterior à Abolição terminaria em 1888; e o Estado Novo é de quase meio século depois."
+                           "explicacao":  "A primeira frase do texto data a publicação em 1890, e a posição importa para a leitura: o romance encena a entrega de uma mulher negra a quem a reclamava como escrava dois anos depois de a escravidão ter sido abolida. Em (b) a relação está invertida — as mesmas duas datas, na ordem errada, o que colocaria o livro em 1886. Em (a), a década seguinte à Guerra do Paraguai (encerrada em 1870) é a de 1870, ainda Segundo Reinado, mas o romance é posterior à queda da monarquia. Em (c), a Lei do Ventre Livre (1871) e a dos Sexagenários (1885) são ambas anteriores à Abolição, e o livro vem depois dela. Em (e), três décadas depois de 1888 seria 1918, já na República Velha."
                        },
                        {
                            "id":  "literatura-06",
@@ -26880,14 +26880,14 @@ window.QUESTION_BANKS = {
                            "formato":  "direta",
                            "enunciado":  "A caracterização das personagens no romance apoia-se principalmente",
                            "alternativas":  {
-                                                "a":  "na descrição minuciosa de seus conflitos interiores.",
-                                                "b":  "em hábitos, posição social e artimanhas, e não em vida psicológica desenvolvida.",
-                                                "c":  "em longos monólogos que revelam suas motivações.",
-                                                "d":  "na correspondência que trocam ao longo da narrativa.",
-                                                "e":  "na comparação constante com figuras da mitologia clássica."
+                                                "a":  "na descrição minuciosa dos conflitos interiores de cada uma delas.",
+                                                "b":  "em hábitos, posição social e artimanhas, mais que em vida psicológica.",
+                                                "c":  "em longos monólogos por meio dos quais revelam suas motivações.",
+                                                "d":  "na correspondência que trocam ao longo da narrativa, reproduzida no texto.",
+                                                "e":  "na comparação com figuras da mitologia clássica, retomada a cada capítulo."
                                             },
                            "resposta":  "b",
-                           "explicacao":  "O segundo parágrafo é explícito: trata-se de romance de costumes e não de análise psicológica, e as personagens são apresentadas por hábitos, posição na engrenagem da cidade e artimanhas. Conflitos interiores e monólogos supõem justamente a vida interior que o texto diz não existir ali; cartas não estruturam a narrativa; e a referência mitológica não é mencionada em nenhum momento."
+                           "explicacao":  "As personagens se definem pelo que fazem e pelo lugar que ocupam, não pelo que sentem: o romance as apresenta de fora, por gesto e por manha. Em (a) e (c) está o mesmo equívoco em duas formas — atribuir ao livro um interesse pela interioridade que só apareceria na prosa brasileira décadas depois. Em (d), não há troca de cartas na narrativa. Em (e), a referência mitológica é ocasional e irônica, e não princípio de caracterização."
                        },
                        {
                            "id":  "literatura-10",
@@ -26928,14 +26928,14 @@ window.QUESTION_BANKS = {
                            "formato":  "direta",
                            "enunciado":  "A dedicatória que abre o romance produz efeito de sentido porque",
                            "alternativas":  {
-                                                "a":  "dirige a homenagem, reservada por convenção a pessoas ilustres, ao agente da decomposição do próprio autor.",
-                                                "b":  "revela o nome do inimigo que perseguiu o protagonista em vida.",
-                                                "c":  "antecipa que o romance tratará de temas de investigação científica.",
-                                                "d":  "indica que o livro foi escrito por encomenda de um patrono.",
-                                                "e":  "obedece a uma convenção corrente nas dedicatórias do período."
+                                                "a":  "dirige ao agente da decomposição do autor a homenagem que a convenção reserva a pessoas ilustres.",
+                                                "b":  "inverte a ordem habitual do romance, começando pelo fim da vida do protagonista.",
+                                                "c":  "antecipa o tom sentimental que o narrador manterá ao longo de toda a sua narrativa.",
+                                                "d":  "filia o livro à tradição científica do período, que fazia da observação da matéria o seu método próprio.",
+                                                "e":  "cumpre a convenção das dedicatórias do período, apenas com destinatário incomum."
                                             },
                            "resposta":  "a",
-                           "explicacao":  "O efeito nasce do desvio: o lugar da dedicatória, ocupado por protetores e figuras ilustres, é dado ao verme que roeu as carnes do cadáver do autor, e é esse gesto que instala o humor que trata a morte sem solenidade. O verme não é personagem nem inimigo do enredo; não há proposta de investigação científica; a encomenda de patrono é justamente a convenção que está sendo invertida; e obedecer à convenção anularia o efeito descrito."
+                           "explicacao":  "A dedicatória mantém intacta a fórmula da homenagem e troca só o destinatário, e é desse desencaixe que vem o efeito. Em (e) está o erro mais fino: a convenção é citada, não cumprida — cumpri-la seria escolher um destinatário ilustre, e o gesto do livro é justamente o oposto. Em (c), o tom da abertura é irônico e macabro, não sentimental. Em (b), a inversão temporal existe no romance, mas é obra do narrador defunto, não da dedicatória. Em (d), a decomposição aparece como matéria de deboche, e não como objeto de observação científica."
                        },
                        {
                            "id":  "literatura-13",
@@ -27120,14 +27120,14 @@ window.QUESTION_BANKS = {
                            "formato":  "direta",
                            "enunciado":  "A escolha da antropofagia como emblema é polêmica por construção porque",
                            "alternativas":  {
-                                                "a":  "atribui ao Modernismo uma origem religiosa que o movimento recusava.",
-                                                "b":  "contraria a data convencionalmente aceita para o início do movimento.",
-                                                "c":  "exige o abandono do verso livre adotado em 1922.",
-                                                "d":  "restringe o programa modernista à literatura, excluindo as demais artes.",
-                                                "e":  "adota como marca de identidade nacional justamente a prática que a colonização usou para classificar o indígena como bárbaro."
+                                                "a":  "propõe devorar a cultura estrangeira, o que na prática repõe a imitação do modelo europeu que o movimento combatia",
+                                                "b":  "recorre a um ritual indígena sem que o Modernismo tivesse interesse real pela cultura originária",
+                                                "c":  "desloca o marco do movimento de 1922 para 1928, esvaziando a Semana de Arte Moderna",
+                                                "d":  "sustenta ao mesmo tempo a recusa do nacionalismo fechado e a do colonialismo cultural, posições incompatíveis entre si",
+                                                "e":  "adota como emblema nacional a prática que a colonização usou para chamar o indígena de bárbaro"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "O terceiro parágrafo aponta essa inversão, e o último a explicita: o manifesto converte em programa aquilo que a tradição tratava como acusação. A origem religiosa não está em causa, já que o ritual é mobilizado como metáfora cultural; a data de 1922 permanece intacta, e o manifesto é de 1928; o verso livre não é revogado; e a Semana reuniu música e artes plásticas ao lado da literatura, o que afasta a restrição a um só campo."
+                           "explicacao":  "O terceiro parágrafo aponta a inversão e o último a explicita: o manifesto converte em programa aquilo que a tradição tratava como acusação. Em (a), devorar é o oposto de copiar — o texto define o gesto como digerir e devolver transformado, não como imitar. Em (b), o ritual é mobilizado como metáfora cultural, e o interesse pela cultura originária é justamente o que sustenta a escolha. Em (c), a data de 1922 permanece como marco da Semana; 1928 é a do manifesto, e uma coisa não anula a outra. Em (d), as duas recusas não são incompatíveis: o texto mostra que a antropofagia responde às duas ao mesmo tempo, e é essa dupla resposta que a define."
                        },
                        {
                            "id":  "literatura-25",
@@ -27216,14 +27216,14 @@ window.QUESTION_BANKS = {
                            "formato":  "direta",
                            "enunciado":  "A data de publicação do romance é significativa porque",
                            "alternativas":  {
-                                                "a":  "coincide com a realização da Semana de Arte Moderna.",
-                                                "b":  "antecede em poucos meses a Independência do Brasil.",
-                                                "c":  "situa o livro no auge do Romantismo brasileiro.",
-                                                "d":  "marca o início do Estado Novo.",
-                                                "e":  "o coloca no ano da Abolição e às vésperas da República, quando a elite retratada se reorganizava."
+                                                "a":  "o situa no mesmo ano da Proclamação da República, cujo ideário o internato já encenava",
+                                                "b":  "o inscreve no auge do Naturalismo, escola a que o romance adere sem reservas",
+                                                "c":  "antecede em um ano a Abolição, o que explica a ausência de escravizados no internato",
+                                                "d":  "o afasta do Realismo, então em declínio, e o aproxima da geração simbolista que se formava naqueles anos",
+                                                "e":  "o coloca no ano da Abolição e às vésperas da República, quando a elite retratada se reorganizava"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "O último parágrafo faz essa ligação: publicado em 1888 e a um ano da Proclamação, o romance retrata a formação da elite brasileira exatamente no momento em que essa elite se reorganizava. A Semana de Arte Moderna é de 1922; a Independência, de 1822; o auge do Romantismo ficou nas décadas de 1850 e 1860, já superado pelo Realismo em 1888; e o Estado Novo começa em 1937."
+                           "explicacao":  "O último parágrafo faz essa ligação: publicado em 1888 e a um ano da Proclamação, o romance retrata a formação da elite brasileira exatamente quando essa elite se reorganizava. Em (a), a Proclamação é de 1889, um ano depois. Em (c), a inversão troca o ano da Abolição pelo anterior a ela. Em (b) e (d), o problema é de escola: 1888 fica no período realista-naturalista, e o Simbolismo brasileiro só se firma a partir de 1893 — além disso, o romance não adere ao Naturalismo sem reservas, já que a análise do internato é mais moral e social que determinista."
                        },
                        {
                            "id":  "literatura-31",
@@ -27288,17 +27288,17 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-35",
                            "texto_apoio":  "A crítica costuma dividir a obra de Machado de Assis em duas fases, tomando Memórias Póstumas de Brás Cubas (1881) como marco divisor.",
+                           "formato":  "direta",
                            "enunciado":  "O traço que melhor caracteriza a passagem de uma fase à outra é",
                            "alternativas":  {
-                                                "a":  "a substituição do romance pelo conto como gênero preferencial",
-                                                "b":  "a troca do português culto pela linguagem coloquial e regional",
-                                                "c":  "a passagem de enredos de convenção romântica para a análise irônica e desiludida das motivações humanas",
-                                                "d":  "o abandono do ambiente carioca em favor de cenários europeus",
-                                                "e":  "a adoção do determinismo biológico como chave de explicação das personagens"
+                                                "a":  "a substituição do romance pelo conto como gênero preferencial do autor",
+                                                "b":  "a troca do português culto pela linguagem coloquial e regional brasileira",
+                                                "c":  "a passagem do enredo de convenção romântica à análise irônica das motivações",
+                                                "d":  "o abandono do ambiente carioca em favor de cenários europeus e cosmopolitas",
+                                                "e":  "a adoção do determinismo biológico como chave de explicação do comportamento das personagens"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "O que muda não é gênero, cenário nem registro: é o olhar. Sai a moldura romântica, entra a desconfiança sistemática das razões que as pessoas dão para o que fazem. Note que o determinismo biológico pertence ao Naturalismo, que Machado nunca abraçou.",
-                           "formato":  "direta"
+                           "explicacao":  "A virada não é de assunto nem de cenário: é de posição do narrador, que deixa de conduzir o enredo pelas convenções e passa a desmontar o que as personagens dizem de si. Em (e) está a confusão mais frequente — o determinismo é o programa naturalista, e a segunda fase de Machado faz o oposto, tratando a conduta como matéria de análise e não de lei biológica. Em (d), o Rio permanece o cenário. Em (b), a prosa continua culta, e a coloquialidade é recurso, não substituição. Em (a), Machado escreve romances e contos nas duas fases."
                        },
                        {
                            "id":  "literatura-36",
@@ -27438,17 +27438,17 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-45",
                            "texto_apoio":  "Um poema de Cecília Meireles emprega versos curtos, vocabulário simples, imagens de água, vento e espelho, e trata da fugacidade das coisas sem nomear diretamente a morte.",
+                           "formato":  "direta",
                            "enunciado":  "A relação entre a forma escolhida e o assunto do poema pode ser descrita como",
                            "alternativas":  {
-                                                "a":  "ruptura modernista, pois o poema recusa qualquer regularidade rítmica",
-                                                "b":  "convergência, pois a fluidez das imagens e a leveza do verso encenam a própria transitoriedade de que o poema fala",
-                                                "c":  "subordinação da forma à mensagem, que é enunciada de modo direto e explícito",
-                                                "d":  "contraste deliberado, pois a leveza formal contradiz o peso do tema",
-                                                "e":  "indiferença, pois a forma é convenção do gênero e não dialoga com o assunto"
+                                                "a":  "ruptura modernista, já que o poema recusa a regularidade rítmica herdada",
+                                                "b":  "convergência, pois a fluidez das imagens e a leveza do verso encenam a transitoriedade",
+                                                "c":  "subordinação da forma à mensagem, enunciada de modo direto pelo eu lírico",
+                                                "d":  "contraste deliberado, pois a leveza da forma contradiz o peso do tema e produz estranhamento no leitor",
+                                                "e":  "alternância, pois forma e tema se aproximam e se afastam ao longo das estrofes"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Água, vento e espelho são imagens do que não se fixa, e o verso curto passa depressa. Forma e assunto dizem a mesma coisa por meios diferentes — não há contraste entre leveza e peso, há coincidência.",
-                           "formato":  "direta"
+                           "explicacao":  "Água, vento e espelho são imagens do que não se fixa, e o verso curto passa depressa: a forma faz o que o poema diz, em vez de comentá-lo. Em (d) está a leitura simétrica e errada — haveria contraste se o tema fosse tratado como peso, e o poema evita justamente isso, inclusive ao não nomear a morte. Em (c), nada é enunciado de modo direto. Em (a), versos curtos e regulares não constituem recusa da regularidade. Em (e), não há oscilação: a convergência se mantém do começo ao fim."
                        },
                        {
                            "id":  "literatura-46",
@@ -27633,17 +27633,17 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-58",
                            "texto_apoio":  "A crítica de Antonio Candido propõe ler a forma literária como algo que internaliza o processo social, em vez de tratar forma e conteúdo social como planos separados.",
+                           "formato":  "direta",
                            "enunciado":  "Aplicar esse método à leitura de um romance significa",
                            "alternativas":  {
-                                                "a":  "descartar a análise formal e concentrar-se na biografia do autor",
-                                                "b":  "investigar como procedimentos formais — ponto de vista, estrutura, ritmo — carregam em si a estrutura social de que a obra nasce",
-                                                "c":  "avaliar a obra exclusivamente pelo grau de engajamento político declarado do escritor",
-                                                "d":  "comparar a obra apenas com outras do mesmo gênero, sem referência à história",
-                                                "e":  "buscar no texto apenas os temas sociais explicitamente mencionados pelas personagens"
+                                                "a":  "descartar a análise formal e concentrar-se no contexto histórico em que a obra nasceu",
+                                                "b":  "investigar como ponto de vista, estrutura e ritmo carregam em si a estrutura social",
+                                                "c":  "verificar se os temas sociais estão mencionados explicitamente pelas personagens do livro",
+                                                "d":  "medir a obra pelo grau de engajamento político declarado por seu autor em vida",
+                                                "e":  "tratar forma e conteúdo social como planos que a análise deve percorrer separadamente"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "A proposta não é procurar o social no assunto, e sim na construção. Ponto de vista, ritmo e estrutura já são, eles próprios, matéria histórica — e é por isso que o método dispensa tanto o resumo temático quanto a biografia do autor.",
-                           "formato":  "direta"
+                           "explicacao":  "O método não acrescenta o social à análise formal: encontra o social dentro dela, no ponto de vista escolhido, na estrutura, no ritmo. Em (c) está o erro mais comum — procurar o social no que as personagens dizem é ficar no conteúdo temático, exatamente o que a proposta desloca. Em (e), a separação entre os planos é o que o enunciado descarta. Em (a), abandonar a forma desfaz o método pela outra ponta. Em (d), o engajamento declarado do autor é biografia, não estrutura da obra."
                        },
                        {
                            "id":  "literatura-59",
@@ -27888,17 +27888,17 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-75",
                            "texto_apoio":  "Ao estudar uma obra literária, é possível considerar o momento em que foi escrita, o momento em que é lida e as transformações de sentido que ocorrem entre um e outro.",
+                           "formato":  "direta",
                            "enunciado":  "Levar em conta essa distância entre produção e recepção permite ao leitor",
                            "alternativas":  {
-                                                "a":  "avaliar a obra apenas pelos critérios estéticos vigentes hoje",
-                                                "b":  "descartar o contexto histórico como irrelevante para a leitura",
-                                                "c":  "concluir que obras antigas não podem ser lidas no presente",
-                                                "d":  "reconhecer que obras continuam a produzir sentido em contextos novos, sem que isso anule o contexto em que nasceram",
-                                                "e":  "concluir que o sentido de uma obra é fixado definitivamente por seu autor"
+                                                "a":  "avaliar a obra pelos critérios estéticos vigentes hoje, que são os do leitor real",
+                                                "b":  "descartar o contexto de origem, já que o sentido se refaz a cada nova leitura",
+                                                "c":  "concluir que o sentido de uma obra foi fixado por seu autor e se mantém estável",
+                                                "d":  "reconhecer que obras seguem produzindo sentido em contextos novos sem que o de origem se anule",
+                                                "e":  "restituir a leitura que os contemporâneos da obra fizeram dela, tida como a única historicamente válida"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Os dois extremos falham: congelar o sentido na intenção do autor e julgar tudo só por critérios de hoje. Sustentar as duas pontas — o contexto de origem e o de leitura — é o que mantém a obra viva sem torná-la anacrônica.",
-                           "formato":  "direta"
+                           "explicacao":  "A obra não fica presa ao momento em que nasceu nem se desprende dele: os dois contextos operam juntos, e é a tensão entre eles que a leitura examina. Em (b) e (e) estão os dois erros simétricos — um abole a origem, o outro abole o presente, e cada um desliga metade da questão. Em (c), o sentido fixado pelo autor tornaria a distância irrelevante, quando é ela o objeto. Em (a), julgar só por critérios de hoje é o que a consideração histórica serve para corrigir."
                        },
                        {
                            "id":  "literatura-76",
@@ -27933,62 +27933,62 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-78",
                            "texto_apoio":  "O teatro de Gil Vicente, produzido no início do século XVI, coloca em cena tipos sociais reconhecíveis — o fidalgo, o frade, o sapateiro, a alcoviteira — e os submete a julgamento numa situação alegórica.",
+                           "formato":  "direta",
                            "enunciado":  "Esse procedimento serve para",
                            "alternativas":  {
-                                                "a":  "satirizar os vícios de cada camada social por meio de tipos representativos, sob a proteção da moldura alegórica",
-                                                "b":  "restringir a crítica exclusivamente ao clero, poupando as demais camadas",
-                                                "c":  "defender a ordem social existente, mostrando que cada grupo cumpre bem sua função",
-                                                "d":  "documentar com precisão histórica a biografia de figuras reais da corte",
-                                                "e":  "abandonar o teatro religioso em favor da tragédia clássica greco-latina"
+                                                "a":  "satirizar os vícios de cada camada por meio de tipos, sob a proteção da alegoria",
+                                                "b":  "restringir a crítica ao clero, poupando as demais camadas representadas em cena",
+                                                "c":  "confirmar a ordem social existente, mostrando cada grupo no cumprimento de sua função",
+                                                "d":  "reconstituir com precisão histórica a biografia de figuras reais da corte portuguesa",
+                                                "e":  "substituir o teatro religioso pela tragédia clássica de modelo greco-latino"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "O tipo funciona como atalho: quem vê o fidalgo em cena reconhece a classe inteira. E a alegoria dá a cobertura necessária — pode-se julgar todo mundo se o julgamento acontece num plano simbólico. Note que a sátira não poupa camada alguma, inclusive a popular.",
-                           "formato":  "direta"
+                           "explicacao":  "O tipo permite atingir a camada inteira sem acusar ninguém em particular, e a moldura alegórica do julgamento dá à crítica um enquadramento aceitável para a época. Em (c) está a leitura que mais divide a crítica e que a questão pede para descartar: a peça não mostra cada grupo cumprindo bem sua função, e sim cada um falhando à sua maneira. Em (b), o clero é alvo, mas não o único — a nobreza e os ofícios também comparecem. Em (d), os tipos não são indivíduos históricos. Em (e), a matriz continua religiosa e alegórica, não trágica."
                        },
                        {
                            "id":  "literatura-79",
                            "texto_apoio":  "Nos romances de Eça de Queirós, personagens da burguesia e do clero portugueses do século XIX são apresentadas com detalhamento de hábitos, discursos e ambientes, e o narrador expõe a distância entre o que elas dizem professar e o que efetivamente fazem.",
+                           "formato":  "direta",
                            "enunciado":  "Essa distância, explorada sistematicamente, caracteriza a obra como",
                            "alternativas":  {
                                                 "a":  "realista, pela crítica de costumes assentada na observação da sociedade",
-                                                "b":  "romântica, pela idealização das personagens",
-                                                "c":  "árcade, pelo elogio da vida simples",
-                                                "d":  "simbolista, pela dissolução dos contornos objetivos",
-                                                "e":  "trovadoresca, pela convenção do amor cortês"
+                                                "b":  "romântica, pela idealização das personagens e pela exaltação do sentimento",
+                                                "c":  "naturalista, pela explicação das condutas por hereditariedade e meio físico",
+                                                "d":  "simbolista, pela dissolução dos contornos objetivos em sugestão e música",
+                                                "e":  "árcade, pelo elogio da vida simples em oposição à corrupção da corte"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Observar de perto para expor a hipocrisia é o programa realista, e Eça o aplica à burguesia e ao clero. A distância entre discurso e prática só se torna visível porque o narrador acumulou antes o detalhe do cotidiano — método, não maldade.",
-                           "formato":  "direta"
+                           "explicacao":  "Observar os costumes e apontar o desencontro entre discurso e prática é o programa realista, e é o que sustenta a ironia do narrador. Em (c) está o distrator que exige a distinção mais fina: Eça flerta com o Naturalismo, mas o enunciado descreve exposição de hipocrisia, não explicação das condutas por hereditariedade e meio. Em (b), a idealização é o oposto do procedimento. Em (d), os contornos são nítidos e detalhados. Em (e), não há elogio da vida simples nem o quadro rural do Arcadismo."
                        },
                        {
                            "id":  "literatura-80",
                            "texto_apoio":  "A poesia de Cesário Verde, na segunda metade do século XIX, toma como matéria a cidade de Lisboa — o comércio, as ruas, os trabalhadores, o cansaço do corpo urbano — em vez dos temas líricos convencionais.",
+                           "formato":  "direta",
                            "enunciado":  "Essa escolha temática faz do poeta um precursor porque",
                            "alternativas":  {
-                                                "a":  "recupera a tradição épica portuguesa das navegações",
-                                                "b":  "abandona a poesia em favor da crônica jornalística",
-                                                "c":  "retoma o vocabulário e as formas do Trovadorismo medieval",
-                                                "d":  "restringe sua obra à paisagem rural do interior português",
-                                                "e":  "antecipa a atenção modernista ao cotidiano urbano e ao olhar do observador na rua"
+                                                "a":  "recupera a tradição épica das navegações, atualizada para o século XIX",
+                                                "b":  "troca o verso pela crônica de jornal, gênero então em expansão em Lisboa",
+                                                "c":  "antecipa o Simbolismo português, pela musicalidade e pela sugestão",
+                                                "d":  "transporta para a cidade o repertório bucólico da poesia rural, sem alterar-lhe os temas",
+                                                "e":  "antecipa a atenção modernista ao cotidiano urbano e ao olhar de quem anda na rua"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "A cidade como assunto legítimo da poesia, vista por quem caminha nela, é o que várias vanguardas do século seguinte tomariam como ponto de partida. Daí a posição de precursor — a matéria já está lá antes de haver programa que a justifique.",
-                           "formato":  "direta"
+                           "explicacao":  "Olhar a rua como matéria de poema, com o corpo cansado de quem a percorre, é o gesto que o Modernismo recolheria décadas depois — daí a condição de precursor. Em (d) está o erro mais fino: o campo aparece na obra, mas em tensão com a cidade, e não como repertório transposto intacto. Em (c), a antecipação simbolista se apoiaria em musicalidade e sugestão, e o traço aqui é a concretude do observado. Em (a), não há retomada épica. Em (b), o poeta permanece no verso."
                        },
                        {
                            "id":  "literatura-81",
                            "texto_apoio":  "Fernando Pessoa criou heterônimos — Alberto Caeiro, Ricardo Reis, Álvaro de Campos — atribuindo a cada um biografia, estilo e visão de mundo próprios, por vezes incompatíveis entre si.",
+                           "formato":  "direta",
                            "enunciado":  "A heteronímia distingue-se do simples uso de pseudônimo porque",
                            "alternativas":  {
-                                                "a":  "consiste apenas em assinar as obras com nome falso para escapar da censura",
-                                                "b":  "cria autores fictícios com poética autônoma, de modo que a própria obra encena a multiplicidade do sujeito",
-                                                "c":  "atribui a um autor real a autoria de textos apócrifos",
-                                                "d":  "traduz para o português obras originalmente escritas em outras línguas",
-                                                "e":  "reúne sob um nome único textos escritos por vários autores reais"
+                                                "a":  "consiste em assinar as obras com nome falso, sem alterar a poética do autor",
+                                                "b":  "cria autores fictícios de poética autônoma, e faz da obra a encenação de um sujeito múltiplo",
+                                                "c":  "atribui a autores reais textos que eles não escreveram, à maneira dos apócrifos",
+                                                "d":  "distribui entre vários nomes uma obra que obedece, no fundo, a um projeto estético único e coerente",
+                                                "e":  "reúne sob assinatura única textos de autores reais distintos, à maneira de uma antologia"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Pseudônimo troca a assinatura; heterônimo cria outro poeta, com estilo e ideias que podem contradizer os do criador. É por isso que a heteronímia não é truque biográfico, e sim uma tese sobre a impossibilidade de um eu único.",
-                           "formato":  "direta"
+                           "explicacao":  "O pseudônimo troca a assinatura e conserva o escritor; o heterônimo inventa outro escritor, com poética que pode contradizer a dos demais, e é essa incompatibilidade que vira assunto da obra. Em (d) está o distrator mais forte, porque descreve algo verdadeiro em parte — há um projeto por trás de tudo —, mas erra ao supor unidade estética, quando o enunciado registra visões de mundo incompatíveis. Em (a), a poética inalterada é exatamente o caso do pseudônimo. Em (c) e (e), os autores em jogo são reais, e na heteronímia são inventados."
                        },
                        {
                            "id":  "literatura-82",
@@ -28008,17 +28008,17 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-83",
                            "texto_apoio":  "Outro heterônimo de Pessoa escreve odes de métrica regular, evoca deuses pagãos e prega a aceitação serena do destino e o gozo moderado do instante presente.",
+                           "formato":  "direta",
                            "enunciado":  "Essa poética filia-se a uma tradição",
                            "alternativas":  {
-                                                "a":  "romântica, pela efusão sentimental",
-                                                "b":  "surrealista, pela escrita automática",
-                                                "c":  "clássica e epicurista, pela contenção formal e pela aceitação do que não se pode mudar",
-                                                "d":  "naturalista, pela análise das determinações biológicas",
-                                                "e":  "futurista, pela exaltação da velocidade e da máquina"
+                                                "a":  "romântica, pela efusão sentimental e pelo culto da natureza selvagem",
+                                                "b":  "barroca, pela tensão entre o gozo terreno e a consciência da morte",
+                                                "c":  "clássica e epicurista, pela contenção formal e pela aceitação do destino",
+                                                "d":  "simbolista, pela busca de correspondências entre o sensível e o espiritual",
+                                                "e":  "futurista, pela exaltação da máquina e pela ruptura com a métrica herdada"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Métrica regular, deuses pagãos e gozo moderado do instante compõem a herança clássica passada pelo estoicismo e pelo epicurismo. É o polo oposto ao do heterônimo que celebra máquina e excesso, e a distância entre os dois é deliberada.",
-                           "formato":  "direta"
+                           "explicacao":  "Métrica regular, deuses pagãos e aceitação serena compõem o programa clássico, e o gozo moderado do instante é o epicurismo em sua versão contida. Em (b) está o distrator mais próximo: o Barroco também junta prazer terreno e morte, mas por tensão e conflito, e aqui o traço definidor é a serenidade, que dissolve exatamente essa tensão. Em (a), a efusão sentimental contraria a contenção descrita. Em (d), não há busca de um plano espiritual por trás do sensível. Em (e), a métrica regular exclui a ruptura formal futurista."
                        },
                        {
                            "id":  "literatura-84",
@@ -28038,17 +28038,17 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-85",
                            "texto_apoio":  "Na prosa de José Saramago, os diálogos costumam vir integrados ao parágrafo, sem travessão nem aspas, separados apenas por vírgulas e por maiúsculas que marcam a mudança de falante.",
+                           "formato":  "direta",
                            "enunciado":  "Esse procedimento de pontuação produz o efeito de",
                            "alternativas":  {
-                                                "a":  "dificultar deliberadamente a leitura, sem função além do experimentalismo gratuito",
-                                                "b":  "converter o romance em texto teatral destinado à encenação",
-                                                "c":  "indicar que os diálogos foram acrescentados posteriormente ao texto",
-                                                "d":  "fundir a voz do narrador às vozes das personagens num fluxo contínuo, aproximando a prosa do ritmo da fala e da tradição oral",
-                                                "e":  "eliminar as personagens, restando apenas a voz do narrador"
+                                                "a":  "dificultar a leitura como experimento formal sem consequência para o sentido",
+                                                "b":  "aproximar o romance do texto teatral, feito para ser dito em cena por atores",
+                                                "c":  "marcar que as falas são reconstituições do narrador, e não citações fiéis",
+                                                "d":  "fundir a voz do narrador às das personagens num fluxo contínuo, próximo da fala",
+                                                "e":  "apagar a hierarquia entre as personagens, que passam a falar com uma só voz indistinta"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Sem travessão, não há fronteira nítida entre quem narra e quem fala, e o texto ganha o andamento de alguém contando em voz alta. O efeito é de continuidade, não de apagamento das personagens — elas continuam lá, apenas sem moldura tipográfica.",
-                           "formato":  "direta"
+                           "explicacao":  "Sem os sinais que isolam a fala, o diálogo não é interrompido nem cedido: continua na mesma respiração do narrador, e o texto ganha o andamento de quem conta em voz alta. Em (e) está o distrator mais próximo — as vozes se fundem no fluxo, mas continuam distinguíveis pelas maiúsculas e pelo conteúdo, e o efeito não é indistinção. Em (c), as falas seguem sendo das personagens. Em (b), o texto teatral separa os falantes com rigor, ao contrário deste. Em (a), a dificuldade é real e tem função, o que a alternativa nega."
                        },
                        {
                            "id":  "literatura-86",
@@ -28068,62 +28068,62 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-87",
                            "texto_apoio":  "Boa parte da ficção angolana e moçambicana produzida após as independências, alcançadas em 1975, trata da guerra, da reconstrução nacional e da distância entre as promessas da libertação e a vida cotidiana que se seguiu.",
+                           "formato":  "direta",
                            "enunciado":  "Esse conjunto temático caracteriza uma literatura que",
                            "alternativas":  {
-                                                "a":  "se dedica exclusivamente à reconstituição de mitos pré-coloniais",
-                                                "b":  "examina criticamente o próprio projeto nacional que ajudou a construir, sem por isso defender o retorno colonial",
-                                                "c":  "celebra sem reservas os governos surgidos após a independência",
-                                                "d":  "foi produzida integralmente antes das independências",
-                                                "e":  "evita qualquer referência ao período colonial e à guerra"
+                                                "a":  "rompe com a geração da luta armada e recusa à literatura qualquer função política",
+                                                "b":  "examina criticamente o projeto nacional que ajudou a construir, sem defender o retorno colonial",
+                                                "c":  "transfere ao romance a função de documentar a guerra, em detrimento da elaboração formal que marcara a geração anterior",
+                                                "d":  "celebra a independência conquistada e adia para depois a avaliação de seus resultados",
+                                                "e":  "substitui o tema nacional pelo cosmopolitismo, já que a nação deixara de ser uma questão em aberto"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "A crítica ao que veio depois da independência não é nostalgia do colonialismo — é cobrança das promessas feitas. Sustentar as duas coisas ao mesmo tempo é o que dá a essa literatura sua posição difícil e sua força.",
-                           "formato":  "direta"
+                           "explicacao":  "A crítica ao que veio depois da independência não é nostalgia do colonialismo — é cobrança das promessas feitas, e sustentar as duas coisas ao mesmo tempo é o que dá a essa literatura sua posição difícil. Em (a), a crítica ao projeto nacional é ela própria um gesto político, não uma recusa da política. Em (d), o enunciado diz o contrário: a avaliação dos resultados é justamente o tema. Em (e), a nação segue sendo a questão central — é o balanço dela que ocupa os livros. Em (c), o registro da guerra convive com a invenção formal, e não a substitui."
                        },
                        {
                            "id":  "literatura-88",
                            "texto_apoio":  "Escritoras africanas de língua portuguesa têm tratado da condição feminina articulando questões de gênero a heranças coloniais, a tradições locais e a transformações econômicas recentes.",
+                           "formato":  "direta",
                            "enunciado":  "Essa articulação mostra que, nessas obras, a opressão de gênero é apresentada como",
                            "alternativas":  {
-                                                "a":  "fenômeno isolado, sem relação com a história colonial ou com a economia",
-                                                "b":  "assunto importado, sem correspondência nas sociedades retratadas",
-                                                "c":  "problema já integralmente resolvido pelas independências nacionais",
-                                                "d":  "questão atravessada por outras — raça, classe, colonização —, que não se explica por um fator único",
-                                                "e":  "tema secundário, subordinado à narrativa de guerra"
+                                                "a":  "fenômeno isolado, sem relação com a história colonial ou com a economia local",
+                                                "b":  "assunto importado, sem correspondência nas sociedades efetivamente retratadas",
+                                                "c":  "problema resolvido pelas independências, que igualaram homens e mulheres",
+                                                "d":  "questão atravessada por raça, classe e colonização, sem explicação por fator único",
+                                                "e":  "efeito direto das tradições locais, que a herança colonial teria apenas conservado sem alterar"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Ler gênero isoladamente nessas obras é perder o essencial: as personagens são atravessadas ao mesmo tempo por tradição, colonização e economia. É a interseção, e não um fator único, que dá forma à experiência narrada.",
-                           "formato":  "direta"
+                           "explicacao":  "As obras recusam a explicação por uma causa só: gênero aparece amarrado a raça, a classe e à herança colonial, e é o cruzamento que produz a situação descrita. Em (e) está o distrator mais tentador, porque atribuir tudo à tradição local parece explicar — e é justamente a simplificação que essas autoras desmontam, ao mostrar que a colonização reorganizou aquelas relações em vez de apenas conservá-las. Em (a), o isolamento contraria a articulação do enunciado. Em (b), o tema nasce das sociedades retratadas. Em (c), a persistência do problema é o que motiva os livros."
                        },
                        {
                            "id":  "literatura-89",
                            "texto_apoio":  "Um poema de autor africano de língua portuguesa reivindica a identidade negra e africana usando a língua do colonizador, e faz dessa escolha um tema explícito do próprio texto.",
+                           "formato":  "direta",
                            "enunciado":  "A tensão produzida por essa escolha consiste em",
                            "alternativas":  {
-                                                "a":  "eliminar qualquer traço de conflito entre colonizador e colonizado",
-                                                "b":  "demonstrar que o autor desconhecia as línguas locais",
-                                                "c":  "indicar que o poema foi escrito antes da colonização",
-                                                "d":  "provar que a identidade africana só pode ser expressa em português",
-                                                "e":  "afirmar uma identidade recorrendo ao idioma imposto por quem a negou, transformando a contradição em matéria do poema"
+                                                "a":  "denunciar a colonização por meio de uma língua que o colonizado domina melhor que o colonizador",
+                                                "b":  "recusar as línguas locais por julgá-las insuficientes para a expressão poética moderna",
+                                                "c":  "demonstrar que a língua portuguesa se tornou neutra depois das independências, desvinculada de quem a impôs",
+                                                "d":  "reservar o poema a um público europeu, o único capaz de reconhecer a referência colonial",
+                                                "e":  "afirmar uma identidade no idioma imposto por quem a negou, fazendo da contradição matéria do poema"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "A contradição não é resolvida nem escondida: ela vira assunto. Usar a língua do colonizador para afirmar o que ele negou é um gesto que o poema realiza e comenta ao mesmo tempo.",
-                           "formato":  "direta"
+                           "explicacao":  "A contradição não é resolvida nem escondida: ela vira assunto, e o poema realiza e comenta o gesto ao mesmo tempo. Em (c), dizer que o vínculo se desfez desativa a tensão que o poema faz questão de manter viva. Em (b), nada no enunciado indica juízo sobre as línguas locais; a escolha é tematizada, não justificada por insuficiência. Em (a), o eixo é a identidade reivindicada, não uma disputa de proficiência. Em (d), o público implicado é primeiro o próprio, que partilha a língua imposta — supor um leitor europeu exclusivo inverte o endereçamento."
                        },
                        {
                            "id":  "literatura-90",
                            "texto_apoio":  "Em narrativas africanas de língua portuguesa é frequente a presença de um contador de histórias, de fórmulas de abertura e fechamento e de repetições rítmicas que remetem à performance oral.",
+                           "formato":  "direta",
                            "enunciado":  "A incorporação desses elementos à obra escrita cumpre a função de",
                            "alternativas":  {
-                                                "a":  "sinalizar que o texto é transcrição literal de uma gravação de campo",
-                                                "b":  "simplificar a narrativa para leitores iniciantes",
-                                                "c":  "substituir a autoria individual pela autoria anônima e coletiva",
-                                                "d":  "demonstrar que a literatura escrita é superior à tradição oral",
-                                                "e":  "inscrever na forma escrita uma tradição de transmissão do saber que a colonização tratou como inferior"
+                                                "a":  "sinalizar que o texto é transcrição literal de uma gravação feita em campo",
+                                                "b":  "recuperar a autoria coletiva e anônima, dispensando a assinatura do escritor",
+                                                "c":  "facilitar a leitura de um público ainda pouco familiarizado com o romance",
+                                                "d":  "marcar distância crítica em relação à oralidade, que o texto escrito trataria como estágio superado",
+                                                "e":  "inscrever na forma escrita uma tradição de saber que a colonização tratou como inferior"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Trazer o contador, as fórmulas e o ritmo para dentro do livro é reconhecer valor literário a um modo de transmissão que foi historicamente desqualificado. Não se trata de transcrição documental nem de simplificação: é estilização deliberada.",
-                           "formato":  "direta"
+                           "explicacao":  "Levar as marcas da performance para dentro do livro é afirmar que aquele modo de transmitir saber tem estatuto literário, contra a hierarquia que a colonização impôs entre escrita e oralidade. Em (b) está o erro mais fino: a tradição é convocada, mas a obra continua assinada e autoral — não há renúncia à autoria, e sim incorporação de um repertório. Em (d), a relação é de filiação, não de distância crítica. Em (a), a estilização literária não é transcrição. Em (c), o procedimento adensa a leitura em vez de simplificá-la."
                        },
                        {
                            "id":  "literatura-91",
@@ -28143,32 +28143,32 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-92",
                            "texto_apoio":  "Em Vidas Secas, um dos capítulos é narrado da perspectiva da cadela Baleia, e sua morte recebe tratamento tão detido quanto o dado às personagens humanas.",
+                           "formato":  "direta",
                            "enunciado":  "Essa escolha narrativa produz o efeito de",
                            "alternativas":  {
-                                                "a":  "introduzir elemento fantástico que rompe com o realismo da obra",
-                                                "b":  "indicar que a cadela é a verdadeira protagonista da narrativa",
-                                                "c":  "aliviar o tom do romance com um episódio de ternura sem consequências",
-                                                "d":  "aproximar humanos e animais numa mesma condição de precariedade, sem rebaixar as personagens nem humanizar artificialmente o animal",
-                                                "e":  "demonstrar que os animais possuem linguagem articulada igual à humana"
+                                                "a":  "introduzir uma pausa lírica que suspende por um capítulo o realismo do romance",
+                                                "b":  "atribuir à cadela uma consciência de si equivalente à humana, invertendo a hierarquia entre elas",
+                                                "c":  "deslocar o foco para o animal a fim de poupar o leitor do sofrimento das personagens humanas",
+                                                "d":  "aproximar humanos e animais numa mesma condição de precariedade, sem humanizar o animal",
+                                                "e":  "demonstrar que o narrador domina igualmente o discurso indireto livre de humanos e de animais"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "A equivalência de tratamento não transforma Baleia em gente nem os retirantes em bichos: coloca todos sob a mesma escassez. É o procedimento que torna o capítulo devastador sem precisar de nenhum comentário do narrador.",
-                           "formato":  "direta"
+                           "explicacao":  "A equivalência de tratamento não transforma Baleia em gente nem os retirantes em bichos: coloca todos sob a mesma escassez, e é isso que torna o capítulo devastador sem nenhum comentário do narrador. Em (b) está a distinção que a questão cobra: igualar a condição não é igualar a consciência, e o capítulo evita justamente esse passo. Em (a), o capítulo não suspende o realismo — o estende ao animal. Em (c), a cena intensifica o sofrimento em vez de poupar o leitor dele. Em (e), a proeza técnica existe, mas descreve o meio, não o efeito que o enunciado pede."
                        },
                        {
                            "id":  "literatura-93",
                            "texto_apoio":  "Em Vidas Secas, as personagens têm vocabulário reduzido, e o narrador frequentemente descreve pensamentos que elas não conseguiriam formular em palavras.",
+                           "formato":  "direta",
                            "enunciado":  "Essa relação entre narrador e personagens indica que",
                            "alternativas":  {
-                                                "a":  "o romance é narrado em primeira pessoa por uma das personagens",
-                                                "b":  "os pensamentos descritos pertencem exclusivamente ao narrador, sem relação com as personagens",
-                                                "c":  "o narrador desconhece o modo de falar do sertão que descreve",
-                                                "d":  "as personagens são cultas e dissimulam ignorância por conveniência",
-                                                "e":  "o narrador empresta às personagens uma articulação que elas não possuem, tornando visível uma interioridade que a própria condição social lhes impede de expressar"
+                                                "a":  "o discurso indireto livre apaga a distância entre narrador e personagem, igualando os dois registros",
+                                                "b":  "o narrador contradiz a caracterização das personagens, comprometendo a verossimilhança do romance",
+                                                "c":  "os pensamentos atribuídos às personagens são projeções do narrador, sem correspondência no que sentem",
+                                                "d":  "a pobreza de vocabulário é recurso de estilo, e não traço das personagens, que dominam a norma culta",
+                                                "e":  "o narrador empresta às personagens a articulação que lhes falta, dando a ver o que não sabem dizer"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Há um desnível deliberado entre o que as personagens sentem e o que conseguem dizer, e o narrador ocupa exatamente essa lacuna. Não é falha de verossimilhança: é o modo de mostrar que a pobreza também é pobreza de palavra.",
-                           "formato":  "direta"
+                           "explicacao":  "Há um desnível deliberado entre o que as personagens sentem e o que conseguem dizer, e o narrador ocupa exatamente essa lacuna: não é falha de verossimilhança, é o modo de mostrar que a pobreza também é pobreza de palavra. Em (a) está o erro mais tentador: o discurso indireto livre aproxima os registros, mas aqui a distância é preservada de propósito, e é dela que vem o efeito. Em (c), os pensamentos são das personagens — o que é do narrador é só a forma de enunciá-los. Em (b), a verossimilhança não é ferida, porque o romance nunca atribui a fala elaborada às personagens. Em (d), o vocabulário reduzido caracteriza as personagens, e não há indício de norma culta dissimulada."
                        },
                        {
                            "id":  "literatura-94",
@@ -28188,92 +28188,92 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-95",
                            "texto_apoio":  "Na obra de Mário de Andrade, um mesmo protagonista transita entre regiões distantes do Brasil, acumula traços culturais de origens diversas e não se fixa em nenhuma identidade estável.",
+                           "formato":  "direta",
                            "enunciado":  "Essa construção da personagem serve ao projeto modernista de",
                            "alternativas":  {
-                                                "a":  "documentar com rigor etnográfico os costumes de uma única comunidade",
-                                                "b":  "recusar qualquer preocupação com a identidade nacional",
-                                                "c":  "propor o retorno a um Brasil anterior à colonização",
-                                                "d":  "propor uma identidade nacional feita de mistura e contradição, em vez de uma essência única e fixa",
-                                                "e":  "defender a superioridade de uma das regiões brasileiras sobre as demais"
+                                                "a":  "documentar com rigor etnográfico os costumes de uma comunidade determinada",
+                                                "b":  "recusar a questão da identidade nacional como problema literário legítimo",
+                                                "c":  "propor o retorno a um Brasil anterior à colonização, tomado como origem pura",
+                                                "d":  "propor uma identidade feita de mistura e contradição, e não de essência fixa",
+                                                "e":  "eleger uma das regiões brasileiras como síntese capaz de representar as demais"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "A personagem sem caráter fixo é o argumento: o país que ela atravessa também não tem essência única. A proposta modernista aqui é substituir a busca de uma raiz pura pela aceitação da mistura como forma.",
-                           "formato":  "direta"
+                           "explicacao":  "A personagem que não se fixa é o argumento: a identidade nacional aparece como composto instável, não como núcleo a ser encontrado. Em (c) está o erro que a questão cobra, porque é o projeto romântico — buscar uma origem pura anterior à colonização é exatamente o que o Modernismo substitui pela mistura. Em (e), eleger uma região como síntese repõe a essência por outro caminho. Em (a), o material etnográfico é usado, mas recombinado, e não documentado. Em (b), a identidade nacional é o tema central, e não uma questão recusada."
                        },
                        {
                            "id":  "literatura-96",
                            "texto_apoio":  "A produção literária brasileira da terceira geração modernista, a partir dos anos 1940, retoma o cuidado com a construção do verso e da frase, sem abandonar as conquistas de liberdade formal de 1922.",
+                           "formato":  "direta",
                            "enunciado":  "Essa combinação caracteriza-se por",
                            "alternativas":  {
-                                                "a":  "renunciar a qualquer preocupação com a forma em nome do conteúdo social",
-                                                "b":  "restaurar integralmente a métrica parnasiana e abandonar o verso livre",
-                                                "c":  "abandonar a literatura brasileira em favor de modelos estrangeiros",
-                                                "d":  "conciliar rigor construtivo com liberdade formal, tratando a forma como problema a ser resolvido em cada obra",
-                                                "e":  "repetir sem alterações o programa da primeira geração modernista"
+                                                "a":  "renunciar à preocupação formal em nome da urgência do conteúdo social",
+                                                "b":  "restaurar a métrica parnasiana e abandonar as conquistas do verso livre",
+                                                "c":  "transferir para a literatura brasileira modelos estrangeiros sem adaptação",
+                                                "d":  "conciliar rigor construtivo e liberdade formal, tratando a forma como problema",
+                                                "e":  "repetir o programa da primeira geração, agora com o prestígio institucional que lhe faltava"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Não é volta ao parnasianismo nem repetição de 1922: é a forma reaberta como questão. A liberdade conquistada permanece, mas deixa de ser bandeira e passa a ser material de trabalho consciente.",
-                           "formato":  "direta"
+                           "explicacao":  "A geração de 1945 recupera o rigor sem revogar a liberdade conquistada: a forma deixa de ser regra herdada e passa a ser problema que cada obra resolve por conta própria. Em (b) está o erro mais tentador, porque o retorno ao rigor é real — mas rigor construtivo não é métrica parnasiana, e o verso livre permanece disponível. Em (a), a renúncia à forma descreve parte da geração de 1930, não esta. Em (e), repetir o programa de 1922 seria justamente dispensar o cuidado construtivo que o enunciado registra. Em (c), a questão é de construção, não de origem dos modelos."
                        },
                        {
                            "id":  "literatura-97",
                            "texto_apoio":  "Comparam-se dois momentos do Modernismo brasileiro: no primeiro, predominam o manifesto, a paródia e o escândalo público; no segundo, a investigação social e a densidade psicológica em romances e poemas.",
+                           "formato":  "direta",
                            "enunciado":  "A diferença entre os dois momentos pode ser explicada porque",
                            "alternativas":  {
-                                                "a":  "a primeira fase precisou romper com a estética anterior, e a seguinte, já com a ruptura consolidada, pôde dedicar-se a construir com os meios conquistados",
-                                                "b":  "a segunda fase abandonou o Modernismo e retornou ao Realismo do século XIX",
-                                                "c":  "os autores da segunda fase desconheciam a produção da primeira",
-                                                "d":  "a primeira fase não teve qualquer repercussão pública",
-                                                "e":  "as duas fases foram produzidas pelos mesmos autores, sem mudança de projeto"
+                                                "a":  "a primeira fase precisou romper com a estética anterior, e a seguinte construiu com os meios já conquistados",
+                                                "b":  "a segunda fase reagiu ao experimentalismo da primeira, retomando o verso metrificado e o vocabulário seleto",
+                                                "c":  "as duas fases responderam a programas distintos, sem que a segunda dependesse do terreno aberto pela primeira",
+                                                "d":  "a mudança decorre do deslocamento geográfico do movimento de São Paulo para o Nordeste, sem alteração de projeto",
+                                                "e":  "a primeira fase concentrou-se na prosa e a segunda na poesia, invertendo o gênero dominante do período"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Manifesto e escândalo servem para abrir espaço; uma vez aberto, a energia se desloca para o que construir nele. Ver a segunda fase como retorno ao século XIX confunde o interesse social renovado com a estética que o Modernismo havia superado.",
-                           "formato":  "direta"
+                           "explicacao":  "Manifesto e escândalo servem para abrir espaço; uma vez aberto, a energia se desloca para o que construir nele. Em (c) está a alternativa que mais engana, porque descreve corretamente a diferença de programa e erra só na conclusão: a segunda fase pôde ser o que foi porque a ruptura já estava feita. Em (b), a segunda geração não restaura métrica fixa nem vocabulário parnasiano — o que muda é o objeto, não o retorno à norma anterior. Em (d), o deslocamento para o Nordeste é real na prosa de 1930, mas seria efeito, não causa, e o projeto de fato se altera. Em (e), a inversão de gêneros não se sustenta: há poesia decisiva na primeira fase e romance decisivo na segunda."
                        },
                        {
                            "id":  "literatura-98",
                            "texto_apoio":  "Um texto modernista brasileiro incorpora erros de concordância, marcas de oralidade e construções da fala popular, mantendo-as deliberadamente na versão publicada.",
+                           "formato":  "direta",
                            "enunciado":  "Essa decisão deve ser lida como",
                            "alternativas":  {
-                                                "a":  "tentativa de imitar a sintaxe da língua portuguesa de Portugal",
-                                                "b":  "descuido de revisão editorial",
-                                                "c":  "posição estética e política que reconhece a fala brasileira como matéria literária legítima",
-                                                "d":  "limitação do autor, que desconhecia a norma culta",
-                                                "e":  "exigência da censura do período"
+                                                "a":  "tentativa de aproximar a escrita da sintaxe do português europeu",
+                                                "b":  "descuido de revisão que a edição posterior deveria corrigir",
+                                                "c":  "posição estética e política que toma a fala brasileira como matéria literária",
+                                                "d":  "recurso de caracterização restrito às falas das personagens populares",
+                                                "e":  "registro documental da língua falada à época, sem intenção de fazer dela matéria literária"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Manter o desvio é escolha, não falha: afirma que a língua falada no Brasil tem estatuto literário. A decisão é estética e política ao mesmo tempo, e é indissociável do projeto de repensar a identidade nacional.",
-                           "formato":  "direta"
+                           "explicacao":  "Manter na publicação o que a norma corrigiria é decidir que aquela fala tem direito à página — gesto que é estético e político ao mesmo tempo. Em (e) está o distrator que mais engana: o registro existe, mas descrevê-lo como documentação sem intenção literária retira dele justamente a decisão que o define. Em (d), as marcas atravessam o texto e não se limitam às falas das personagens. Em (a), a sintaxe buscada é a brasileira, e o modelo europeu é o que se recusa. Em (b), o enunciado diz que a manutenção é deliberada."
                        },
                        {
                            "id":  "literatura-99",
-                           "texto_apoio":  "Comparam-se uma obra do Romantismo brasileiro e uma do Modernismo, ambas empenhadas em definir o que seria a identidade nacional.",
+                           "texto_apoio":  "Compara-se o projeto de identidade nacional do Romantismo brasileiro com o do Modernismo de 1922.",
+                           "formato":  "direta",
                            "enunciado":  "A diferença essencial entre os dois projetos está em que",
                            "alternativas":  {
-                                                "a":  "o Romantismo busca uma origem pura e nobre a ser exaltada, enquanto o Modernismo assume a mistura e a contradição como o próprio material da identidade",
-                                                "b":  "apenas o Modernismo se interessa pela identidade nacional",
-                                                "c":  "apenas o Romantismo emprega a língua portuguesa",
-                                                "d":  "os dois projetos são idênticos, diferindo apenas na data de publicação",
-                                                "e":  "o Modernismo defende o retorno aos modelos coloniais portugueses"
+                                                "a":  "o Romantismo idealiza uma origem nobre a ser exaltada, e o Modernismo toma a mistura como material",
+                                                "b":  "o Romantismo recorre ao indígena como símbolo, e o Modernismo o abandona em favor do tema urbano",
+                                                "c":  "o Romantismo escreve para o leitor europeu, e o Modernismo, para um público brasileiro recém-alfabetizado",
+                                                "d":  "o Romantismo trata a identidade como problema em aberto, e o Modernismo a considera já resolvida",
+                                                "e":  "o Romantismo trabalha com formas herdadas e o Modernismo apenas transpõe o mesmo projeto para o verso livre"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Os dois se ocupam da mesma pergunta e respondem de modos opostos: um funda um mito de origem elevado, o outro trabalha com o que existe, misturado e contraditório. Dizer que só um deles se interessa pelo tema apaga a continuidade do problema.",
-                           "formato":  "direta"
+                           "explicacao":  "Os dois se ocupam da mesma pergunta e respondem de modos opostos: um funda um mito de origem elevado, o outro trabalha com o que existe, misturado e contraditório. Em (b), o Modernismo não abandona o indígena — reelabora-o, e a antropofagia é a prova disso. Em (d), a relação está invertida: é o Romantismo que oferece uma resposta fechada, e o Modernismo que mantém a questão em disputa. Em (e), reduzir a diferença à forma apaga o que muda de fato, que é a concepção de origem. Em (c), ambos escrevem para um público brasileiro letrado, e o recorte de leitor não separa os dois projetos."
                        },
                        {
                            "id":  "literatura-100",
                            "texto_apoio":  "Um poema modernista brasileiro trata de um objeto banal — uma pedra, um relógio, uma cadeira — sem atribuir-lhe valor simbólico elevado, mantendo-o na sua concretude.",
+                           "formato":  "direta",
                            "enunciado":  "Essa recusa da elevação simbólica indica",
                            "alternativas":  {
-                                                "a":  "a intenção de escrever um manual técnico em versos",
-                                                "b":  "pobreza de imaginação do poeta, incapaz de construir metáforas",
-                                                "c":  "a adesão ao Simbolismo, que dissolve os objetos em correspondências",
-                                                "d":  "a valorização do objeto comum como matéria poética suficiente, sem necessidade de transfiguração",
-                                                "e":  "o retorno à alegoria barroca, em que todo objeto representa outra coisa"
+                                                "a":  "a intenção de compor um manual técnico em forma de versos",
+                                                "b":  "a adesão ao Simbolismo, para o qual o objeto concreto se dissolve em correspondências espirituais",
+                                                "c":  "o retorno à alegoria barroca, em que o objeto remete a outra coisa",
+                                                "d":  "a valorização do objeto comum como matéria poética suficiente, sem transfiguração",
+                                                "e":  "uma crítica ao consumo, denunciada pela escolha de objetos industriais banais"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "O objeto não precisa virar símbolo para entrar no poema. Essa suficiência do comum é uma conquista modernista, e é o oposto tanto da dissolução simbolista quanto da alegoria barroca, em que nada vale por si.",
-                           "formato":  "direta"
+                           "explicacao":  "O objeto não precisa virar símbolo para entrar no poema: basta que o olhar se detenha nele, e é essa suficiência que o Modernismo afirma. Em (b) e (c) estão as duas operações contrárias, cada uma à sua maneira — o Simbolismo dissolve o objeto em correspondências, a alegoria o faz representar outra coisa, e o poema descrito recusa as duas. Em (e), a crítica ao consumo exigiria um juízo que o poema não formula. Em (a), a descrição poética não se confunde com instrução técnica."
                        },
                        {
                            "id":  "literatura-101",
@@ -28323,62 +28323,62 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-104",
                            "texto_apoio":  "Ao longo de O Cortiço, personagens são reiteradamente descritas por meio de comparações com animais, e o próprio cortiço é apresentado como algo que se reproduz e se alastra.",
+                           "formato":  "direta",
                            "enunciado":  "O efeito acumulado desse procedimento sobre a leitura é",
                            "alternativas":  {
-                                                "a":  "reforçar a tese de que o comportamento humano ali descrito obedece a determinações biológicas, e não a escolhas",
-                                                "b":  "aproximar o romance da fábula, com moral explícita ao final",
-                                                "c":  "indicar que as personagens são, literalmente, animais dentro da ficção",
-                                                "d":  "suavizar a dureza das condições de vida por meio da ternura das imagens",
-                                                "e":  "sugerir que o autor desconhecia o vocabulário adequado para descrever pessoas"
+                                                "a":  "reforçar a tese de que o comportamento ali descrito obedece a determinações biológicas",
+                                                "b":  "aproximar o romance da fábula, gênero em que animais encenam vícios humanos",
+                                                "c":  "marcar a distância social entre o narrador culto e as personagens que ele observa de fora",
+                                                "d":  "suavizar a dureza das condições de vida pela ternura que as imagens carregam",
+                                                "e":  "indicar que a degradação descrita é efeito do cortiço e se desfaria num meio diferente dele"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "A comparação animal, repetida sistematicamente, não é imagem isolada: é argumento. Quanto mais o texto insiste, mais firme fica a tese determinista — o que é diferente de dizer que as personagens sejam bichos na ficção.",
-                           "formato":  "direta"
+                           "explicacao":  "A insistência da comparação é o próprio argumento naturalista: repetida capítulo após capítulo, ela naturaliza a ideia de que aquelas condutas vêm do organismo e do meio, e não de decisões. Em (c) está uma leitura defensável em parte — a distância entre narrador e personagens existe —, mas ela descreve a posição de quem narra, e não a tese que o acúmulo de imagens sustenta. Em (e), o determinismo do romance não se limita ao cortiço, e sim ao meio como categoria. Em (b), não há moral final nem animais que falam. Em (d), as imagens endurecem o retrato, não o adoçam."
                        },
                        {
                            "id":  "literatura-105",
                            "texto_apoio":  "Em O Cortiço, o desfecho reserva a João Romão o casamento vantajoso e a ascensão social definitiva, enquanto Bertoleza, ao ser cercada pelos agentes que a levariam de volta ao cativeiro, se mata.",
+                           "formato":  "direta",
                            "enunciado":  "A justaposição desses dois desfechos funciona como",
                            "alternativas":  {
-                                                "a":  "demonstração de que a ascensão de um se completa exatamente com a eliminação da outra, expondo o custo humano do enriquecimento",
-                                                "b":  "epílogo otimista, que aponta para a superação das desigualdades retratadas",
-                                                "c":  "prova de que a personagem escravizada era responsável pela própria situação",
-                                                "d":  "recompensa da virtude e punição do vício, conforme a convenção moralizante",
-                                                "e":  "coincidência sem relação de causa entre os dois acontecimentos"
+                                                "a":  "demonstração de que a ascensão de um se completa com a eliminação da outra, e não à revelia dela",
+                                                "b":  "desfecho moralizante, em que a virtude é premiada e o vício recebe seu castigo",
+                                                "c":  "contraste irônico entre dois destinos que a narrativa faz questão de apresentar como independentes um do outro",
+                                                "d":  "aplicação do determinismo naturalista, que faria de Bertoleza vítima apenas do meio",
+                                                "e":  "recurso de suspense, que adia para o último capítulo a revelação do caráter de João Romão"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Os dois desfechos são o mesmo acontecimento visto de dois lados: ele sobe porque ela é descartada. Ler como recompensa da virtude inverteria o romance, que não trata João Romão como virtuoso em momento algum.",
-                           "formato":  "direta"
+                           "explicacao":  "Os dois desfechos são o mesmo acontecimento visto de dois lados: o capital que ergue João Romão é o trabalho de Bertoleza, e livrar-se dela é a última operação da ascensão. Em (c) está o erro central — tomar por contraste o que é relação de causa esvazia a crítica do romance. Em (b), a moral está invertida: quem prospera é quem age pior. Em (d), o meio não explica o desfecho, que resulta de uma decisão deliberada de João Romão. Em (e), o caráter dele já se revelou muito antes, e não há suspense a resolver."
                        },
                        {
                            "id":  "literatura-106",
                            "texto_apoio":  "O Cortiço foi publicado em 1890, dois anos após a Abolição e um ano após a Proclamação da República, num Rio de Janeiro que recebia levas de imigrantes e de ex-escravizados em busca de trabalho urbano.",
+                           "formato":  "direta",
                            "enunciado":  "A relação entre esse contexto e a matéria do romance pode ser descrita assim:",
                            "alternativas":  {
                                                 "a":  "o romance celebra a República como solução para os problemas que descreve",
-                                                "b":  "o romance foi escrito antes da Abolição e não pôde considerá-la",
-                                                "c":  "o romance restringe-se à vida das famílias proprietárias, sem retratar trabalhadores",
-                                                "d":  "o romance toma como matéria a formação de uma população urbana pobre e heterogênea, produzida por esses processos recentes",
-                                                "e":  "o romance ignora o contexto e ambienta-se num passado colonial remoto"
+                                                "b":  "o romance situa a ação antes da Abolição, e por isso não chega a considerá-la",
+                                                "c":  "o romance restringe-se às famílias proprietárias, sem retratar trabalhadores",
+                                                "d":  "o romance toma como matéria a população urbana pobre produzida por esses processos",
+                                                "e":  "o romance aborda os mesmos processos, mas transpostos para uma cidade europeia do mesmo período"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "A habitação coletiva reúne exatamente quem esses processos jogaram na cidade: imigrantes, libertos, trabalhadores sem posse. O romance não celebra nem ignora o contexto — ele o toma como assunto.",
-                           "formato":  "direta"
+                           "explicacao":  "O cortiço é o lugar onde imigrantes e ex-escravizados se encontram à procura de trabalho: a matéria do romance é exatamente a população que esses processos acabavam de produzir. Em (a), o livro não celebra nada — a República aparece como pano de fundo de uma ordem que reproduz a exploração anterior. Em (c), os proprietários existem na trama, mas o centro é quem mora e trabalha no cortiço. Em (b), a ação é contemporânea da publicação. Em (e), a cidade retratada é o Rio de Janeiro, e a ambientação local é constitutiva do romance."
                        },
                        {
                            "id":  "literatura-107",
                            "texto_apoio":  "Comparam-se dois romances brasileiros do fim do século XIX: um investiga as motivações íntimas de um narrador que se contradiz; o outro descreve uma coletividade cujas ações são explicadas por meio, raça e clima.",
+                           "formato":  "direta",
                            "enunciado":  "A diferença entre os dois corresponde à distinção entre",
                            "alternativas":  {
-                                                "a":  "Modernismo e Pré-Modernismo, separados pela liberdade formal",
-                                                "b":  "Romantismo e Arcadismo, separados pelo tratamento da natureza",
-                                                "c":  "Barroco e Classicismo, separados pelo uso da antítese",
-                                                "d":  "Simbolismo e Parnasianismo, separados pela musicalidade",
-                                                "e":  "Realismo e Naturalismo, que compartilham a recusa do Romantismo mas divergem no grau de determinismo"
+                                                "a":  "Modernismo e Pré-Modernismo, que compartilham a crítica social mas divergem na liberdade formal",
+                                                "b":  "Romantismo e Realismo, que compartilham o interesse pelo indivíduo mas divergem na idealização",
+                                                "c":  "Naturalismo e Parnasianismo, que compartilham o rigor descritivo mas divergem no objeto",
+                                                "d":  "Simbolismo e Impressionismo, que compartilham a sugestão mas divergem no tratamento da cor",
+                                                "e":  "Realismo e Naturalismo, que compartilham a recusa do Romantismo mas divergem no determinismo"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Os dois recusam a idealização romântica, mas o Naturalismo vai além: aplica ao humano um determinismo de laboratório. Guardar essa distinção evita tratar como sinônimos duas estéticas contemporâneas e vizinhas.",
-                           "formato":  "direta"
+                           "explicacao":  "Análise da consciência individual de um lado, explicação da coletividade por meio, raça e clima do outro: é a divisão entre Realismo e Naturalismo, que partem da mesma recusa ao Romantismo e se separam no peso dado à determinação. Em (b) está a oposição mais conhecida e por isso a mais tentadora, mas nenhum dos dois romances descritos idealiza, e a idealização é o traço romântico que o enunciado não menciona. Em (a), as duas escolas são do século XX. Em (c), o Parnasianismo é poesia. Em (d), o Impressionismo não é escola literária brasileira do período."
                        },
                        {
                            "id":  "literatura-108",
@@ -28413,17 +28413,17 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-110",
                            "texto_apoio":  "O protagonista de Memórias de um sargento de milícias passa a infância aprontando travessuras, foge de estudos e obrigações, e ainda assim termina o romance empregado, casado e socialmente acomodado.",
+                           "formato":  "direta",
                            "enunciado":  "Esse desfecho, sem punição nem arrependimento, indica que a narrativa",
                            "alternativas":  {
-                                                "a":  "adota a moral edificante, premiando a virtude e punindo o desvio",
+                                                "a":  "adota a moral edificante, premiando a virtude e punindo o desvio de conduta",
                                                 "b":  "sugere que o protagonista se converteu à disciplina e ao trabalho regular",
-                                                "c":  "dispensa a moralização e mostra um mundo em que a acomodação se dá pelo jeito e pela proteção, não pelo mérito",
-                                                "d":  "termina de forma trágica, com a ruína completa do protagonista",
-                                                "e":  "deixa o destino do protagonista indefinido, sem desfecho"
+                                                "c":  "dispensa a moralização e mostra um mundo em que se acomoda pelo jeito, não pelo mérito",
+                                                "d":  "suspende o julgamento moral por incapacidade do narrador de tomar posição diante dos fatos",
+                                                "e":  "transfere ao leitor a tarefa de condenar o protagonista, que o texto evita explicitar"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "O malandro não é corrigido nem castigado: ele se acomoda. A ausência de moral da história é a própria posição do livro sobre como aquela sociedade funciona — por arranjo e proteção, não por mérito.",
-                           "formato":  "direta"
+                           "explicacao":  "A acomodação vem de rede de favores e da simpatia que o protagonista desperta, não de emenda nem de esforço — e o romance apresenta isso como o funcionamento normal daquele mundo. Em (d) e (e) estão as duas tentações: uma trata a ausência de moral como falha do narrador, a outra como delegação ao leitor, e ambas supõem que a condenação deveria existir em algum lugar. Ela simplesmente não é o assunto. Em (a), não há prêmio à virtude, já que virtude não é o que se premia. Em (b), não há conversão nenhuma no texto."
                        },
                        {
                            "id":  "literatura-111",
@@ -28473,77 +28473,77 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-114",
                            "texto_apoio":  "Comparam-se dois romances brasileiros do século XIX: em um, o protagonista pobre se acomoda por meio de favores e esperteza; em outro, o protagonista imigrante enriquece explorando trabalho não pago.",
+                           "formato":  "direta",
                            "enunciado":  "A aproximação entre as duas trajetórias mostra que ambos os romances tratam de",
                            "alternativas":  {
-                                                "a":  "personagens da aristocracia rural em decadência",
-                                                "b":  "caminhos de sobrevivência e ascensão que dispensam o trabalho assalariado regular, numa sociedade onde ele não era a norma",
-                                                "c":  "trajetórias idênticas, sem qualquer diferença de condição social entre os protagonistas",
-                                                "d":  "a vida monástica e a renúncia aos bens materiais",
-                                                "e":  "conflitos entre nações europeias transpostos para o Brasil"
+                                                "a":  "personagens da aristocracia rural em decadência diante da economia urbana",
+                                                "b":  "caminhos de ascensão que dispensam o trabalho assalariado regular, então não hegemônico",
+                                                "c":  "trajetórias equivalentes, sem que haja diferença de condição social entre os dois protagonistas",
+                                                "d":  "o conflito entre projeto individual e vocação religiosa nas sociedades ibéricas",
+                                                "e":  "tensões entre nações europeias transpostas para o cenário brasileiro do Império"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Um se arranja pelo favor, o outro acumula pela exploração — mas nenhum dos dois ascende pelo salário, porque o salário não era o mecanismo dominante. A comparação ilumina a estrutura comum por baixo de trajetórias distintas.",
-                           "formato":  "direta"
+                           "explicacao":  "Favor e exploração de trabalho não pago são duas rotas para o mesmo lugar, numa sociedade em que o emprego assalariado ainda não organizava a vida — é essa condição comum que a comparação revela. Em (c) está o erro de leitura: aproximar as trajetórias não é igualá-las, e as duas partem de posições sociais bem distintas. Em (a), nenhum dos protagonistas pertence à aristocracia rural. Em (d) e (e), nem a vocação religiosa nem o conflito entre nações europeias comparecem nos enredos descritos."
                        },
                        {
                            "id":  "literatura-115",
                            "texto_apoio":  "Em Memórias de um sargento de milícias, cenas de conflito doméstico e de violência física são narradas em tom leve, com atenção ao ridículo dos gestos e sem que o narrador se detenha no sofrimento das vítimas.",
+                           "formato":  "direta",
                            "enunciado":  "Esse tratamento produz no leitor contemporâneo",
                            "alternativas":  {
-                                                "a":  "um desconforto produtivo, que expõe a distância entre o que era tratado como cômico na época e o que hoje se reconhece como violência",
-                                                "b":  "indiferença, por se tratar de um texto sem qualquer relação com o presente",
-                                                "c":  "a certeza de que tais episódios não ocorriam de fato na sociedade retratada",
-                                                "d":  "adesão imediata ao ponto de vista do narrador, sem qualquer desconforto",
-                                                "e":  "a impressão de que o romance é uma denúncia explícita da violência doméstica"
+                                                "a":  "um desconforto que expõe a distância entre o cômico de então e o que hoje se nomeia violência",
+                                                "b":  "a impressão de que o narrador condena os episódios pelo próprio exagero com que os descreve",
+                                                "c":  "a certeza de que tais cenas eram raras, já que o tom leve indicaria excepcionalidade",
+                                                "d":  "a percepção de que o romance antecipa a denúncia da violência doméstica como problema público",
+                                                "e":  "uma adesão ao ponto de vista do narrador, partilhada pelo leitor de hoje sem atrito"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "O riso do narrador não é o nosso, e é justamente aí que a leitura fica interessante: percebe-se historicamente o que uma época tratava como episódio engraçado. Ler o livro como denúncia explícita seria projetar sobre ele uma intenção que não tem.",
-                           "formato":  "direta"
+                           "explicacao":  "O riso do narrador não é o nosso, e é aí que a leitura fica interessante: percebe-se historicamente o que uma época tratava como episódio engraçado. Em (d), ler o livro como denúncia projeta sobre ele uma intenção que não tem — o incômodo é do leitor de hoje, não um propósito do texto. Em (b), a ironia do narrador incide sobre o ridículo dos gestos, não sobre a violência, e tomar exagero por condenação é atribuir-lhe uma posição moral que ele evita. Em (c), a leveza do tom indica normalização, e não raridade. Em (e), a adesão sem atrito é justamente o que não acontece."
                        },
                        {
                            "id":  "literatura-116",
                            "texto_apoio":  "Antonio Candido observa que, em Memórias de um sargento de milícias, quase não aparecem escravizados em primeiro plano, embora a ação transcorra numa cidade escravista.",
+                           "formato":  "direta",
                            "enunciado":  "Essa ausência é significativa porque",
                            "alternativas":  {
-                                                "a":  "prova que o autor era favorável à escravidão",
-                                                "b":  "resulta de censura imposta à publicação em folhetim",
-                                                "c":  "demonstra que não havia escravizados no Rio de Janeiro do período retratado",
-                                                "d":  "revela que o romance foca a camada dos homens livres pobres, cuja existência depende justamente de não se confundir com os escravizados",
-                                                "e":  "indica que o romance se passa em outro país"
+                                                "a":  "confirma que o folhetim, por ser gênero de entretenimento, evitava temas capazes de desagradar ao assinante",
+                                                "b":  "indica que a escravidão urbana era pouco visível no Rio de Janeiro da primeira metade do século",
+                                                "c":  "resulta da opção por um narrador que só registra aquilo que a personagem principal poderia ter visto",
+                                                "d":  "revela o foco na camada dos homens livres pobres, que se define por contraste com os escravizados",
+                                                "e":  "mostra que o autor situou a ação num período anterior à consolidação do tráfico atlântico"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "O que o romance não mostra também informa: seu foco é a camada intermediária, livre e pobre, cuja identidade se define por contraste com quem está abaixo. A ausência não nega a escravidão — delimita o recorte.",
-                           "formato":  "direta"
+                           "explicacao":  "O que o romance não mostra também informa: o foco é a camada intermediária, livre e pobre, cuja identidade se define por contraste com quem está abaixo — a ausência não nega a escravidão, delimita o recorte. Em (b), a escravidão urbana era altamente visível no Rio da época, e é essa visibilidade que torna a omissão significativa. Em (e), a ação transcorre no início do século XIX, com o tráfico em pleno funcionamento. Em (a), o argumento do folhetim explicaria uma omissão qualquer, mas não por que o romance escolhe precisamente essa camada. Em (c), o narrador do livro é onisciente e circula à vontade pela cidade."
                        },
                        {
                            "id":  "literatura-117",
                            "texto_apoio":  "Num conto, o desfecho é apresentado numa única frase final que reinterpreta retroativamente tudo o que foi narrado antes.",
+                           "formato":  "direta",
                            "enunciado":  "Esse procedimento corresponde ao que se costuma chamar de",
                            "alternativas":  {
-                                                "a":  "prolepse, antecipação de acontecimentos futuros",
-                                                "b":  "moldura narrativa, história que contém outra história",
+                                                "a":  "prolepse, antecipação de acontecimentos que só se realizarão adiante",
+                                                "b":  "moldura narrativa, história que contém outra contada dentro dela",
                                                 "c":  "desfecho de virada, em que a informação final reorganiza o sentido do conjunto",
-                                                "d":  "epígrafe, citação colocada antes do texto",
-                                                "e":  "clímax dilatado, distribuído ao longo de toda a narrativa"
+                                                "d":  "anticlímax, resolução deliberadamente banal de um conflito longamente construído antes",
+                                                "e":  "clímax dilatado, tensão distribuída por igual ao longo de toda a narrativa"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "A frase final não acrescenta um episódio: ela obriga a reler o que já se leu. É o efeito de virada, e depende da economia do conto — num romance, a distância entre início e fim dissolveria o impacto.",
-                           "formato":  "direta"
+                           "explicacao":  "A virada não acrescenta um episódio: ela obriga a reler o que já foi lido, e é dessa retroação que vem o efeito. Em (d) está o distrator que também depende do final, mas em sentido oposto — o anticlímax frustra a expectativa com uma resolução banal, enquanto aqui o desfecho a reorganiza. Em (a), a prolepse aponta para a frente, e a operação descrita olha para trás. Em (b), não há narrativa dentro de narrativa. Em (e), a tensão distribuída por igual é o contrário de uma frase final decisiva."
                        },
                        {
                            "id":  "literatura-118",
                            "texto_apoio":  "Num conto brasileiro contemporâneo ambientado numa periferia urbana, a violência é narrada em primeira pessoa, com vocabulário e sintaxe da fala local, sem que o narrador explique os termos ao leitor de fora.",
+                           "formato":  "direta",
                            "enunciado":  "A recusa em explicar produz o efeito de",
                            "alternativas":  {
-                                                "a":  "transformar o conto em glossário de gírias",
-                                                "b":  "garantir que o texto seja lido apenas por quem vive naquele lugar",
-                                                "c":  "tornar o texto ininteligível, impedindo qualquer leitura",
-                                                "d":  "indicar que o narrador desconhece a norma culta",
-                                                "e":  "afirmar a legitimidade daquele modo de falar, colocando o leitor de fora na posição de quem precisa se aproximar"
+                                                "a":  "restringir o alcance do conto ao público que já domina aquele repertório",
+                                                "b":  "sinalizar que o narrador não domina a norma culta e escreve como fala",
+                                                "c":  "exigir do leitor de fora um trabalho de inferência que o conto deliberadamente não recompensa com explicações",
+                                                "d":  "aproximar o conto do registro documental, em que a fala é transcrita sem edição nem tradução",
+                                                "e":  "afirmar a legitimidade daquele modo de falar, pondo o leitor de fora na posição de quem se aproxima"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Explicar seria colocar o leitor de fora no centro e a comunidade narrada na posição de objeto. Ao não explicar, o conto inverte a hierarquia: quem não conhece é que se desloca. É decisão de forma com consequência política.",
-                           "formato":  "direta"
+                           "explicacao":  "Não explicar é tratar aquela fala como língua plena, que não precisa de autorização externa — e o efeito recai sobre quem lê de fora, deslocado da posição confortável de destinatário previsto. Em (c) está o distrator mais próximo, porque o trabalho de inferência de fato existe; ele erra ao descrevê-lo como recusa, quando é convite. Em (a), o conto não se fecha ao leitor de fora: reposiciona-o. Em (b), a escolha é do autor e é deliberada, não sinal de deficiência do narrador. Em (d), a transcrição documental supõe um observador externo, e aqui a voz é de dentro."
                        },
                        {
                            "id":  "literatura-119",
@@ -28563,32 +28563,32 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-120",
                            "texto_apoio":  "Um conto apresenta acontecimentos sobrenaturais sem que o narrador ou as personagens manifestem espanto, tratando-os com a mesma naturalidade dos fatos cotidianos.",
+                           "formato":  "direta",
                            "enunciado":  "Esse procedimento caracteriza",
                            "alternativas":  {
-                                                "a":  "o realismo documental, comprometido com a verificação dos fatos",
-                                                "b":  "o texto didático, que explica ao leitor cada evento narrado",
-                                                "c":  "o insólito naturalizado, em que o extraordinário é incorporado ao cotidiano sem ruptura de tom",
-                                                "d":  "a paródia, que retoma um texto anterior para ridicularizá-lo",
-                                                "e":  "a crônica jornalística, presa ao acontecimento do dia"
+                                                "a":  "o realismo documental, comprometido com a verificação dos fatos narrados",
+                                                "b":  "o fantástico tradicional, em que a irrupção do sobrenatural provoca hesitação e espanto nas personagens",
+                                                "c":  "o insólito naturalizado, em que o extraordinário entra no cotidiano sem ruptura de tom",
+                                                "d":  "a alegoria moral, em que cada elemento remete a um sentido segundo estabelecido",
+                                                "e":  "a paródia, que retoma um gênero anterior para expor suas convenções ao ridículo"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "O que define o procedimento não é o sobrenatural em si, mas a ausência de espanto diante dele. Se o narrador se surpreendesse, o efeito seria fantástico; como não se surpreende, o extraordinário passa a integrar a ordem das coisas.",
-                           "formato":  "direta"
+                           "explicacao":  "O traço decisivo é a ausência de espanto: o extraordinário não abre fissura no mundo narrado, porque ninguém o trata como exceção. Em (b) está o distrator que a questão existe para cobrar — o fantástico depende justamente da hesitação diante do sobrenatural, e é essa hesitação que o conto suprime. Em (a), o sobrenatural é incompatível com o compromisso documental. Em (d), não há correspondência ponto a ponto com um sentido segundo. Em (e), não há gênero anterior sendo retomado nem intenção de ridículo."
                        },
                        {
                            "id":  "literatura-121",
                            "texto_apoio":  "Num conto, o narrador afirma, no meio da narrativa, que talvez esteja se enganando quanto a um detalhe importante, e prossegue sem esclarecê-lo.",
+                           "formato":  "direta",
                            "enunciado":  "Essa admissão de incerteza serve para",
                            "alternativas":  {
-                                                "a":  "indicar que o conto foi escrito por mais de um autor",
-                                                "b":  "encerrar a narrativa antecipadamente",
-                                                "c":  "instalar a dúvida como parte da experiência de leitura, transferindo ao leitor a tarefa de decidir",
-                                                "d":  "corrigir um erro factual da primeira versão publicada",
-                                                "e":  "provar que o narrador é integralmente confiável, já que admite limites"
+                                                "a":  "indicar que o conto foi composto a partir de versões de autores diferentes",
+                                                "b":  "preparar um desfecho que esclarecerá o detalhe deixado em suspenso",
+                                                "c":  "instalar a dúvida na leitura, transferindo ao leitor a tarefa de decidir",
+                                                "d":  "reforçar a confiabilidade do narrador, que ganha crédito ao reconhecer os próprios limites",
+                                                "e":  "sinalizar que o detalhe é irrelevante para a compreensão daquilo que se narra"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Admitir dúvida não restaura a confiança — instala a incerteza no centro da leitura. O leitor deixa de receber a história pronta e passa a ter de julgá-la, que é exatamente o efeito buscado.",
-                           "formato":  "direta"
+                           "explicacao":  "O narrador abre uma falha e não a fecha: a partir dali, tudo o que ele conta passa a ser lido sob suspeita, e é o leitor quem decide o que sustentar. Em (d) está o raciocínio que parece bom senso e não se aplica — admitir limites reforçaria a confiança num relato que depois se confirma, e aqui a incerteza fica sem solução. Em (b), o enunciado diz que ele prossegue sem esclarecer. Em (e), o próprio texto qualifica o detalhe como importante. Em (a), a hesitação é procedimento de composição, não vestígio de autorias diversas."
                        },
                        {
                            "id":  "literatura-122",
@@ -28623,32 +28623,32 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-124",
                            "texto_apoio":  "Num poema, versos curtos e cortados alternam-se com versos longos e fluidos, acompanhando a alternância entre momentos de tensão e momentos de distensão no que é dito.",
+                           "formato":  "direta",
                            "enunciado":  "Essa correspondência entre ritmo e conteúdo é um exemplo de",
                            "alternativas":  {
                                                 "a":  "indiferença da forma em relação ao conteúdo, própria da poesia moderna",
                                                 "b":  "adoção de forma fixa tradicional, com metro regular do início ao fim",
-                                                "c":  "convergência entre forma e sentido, em que o andamento do verso encena aquilo de que o poema fala",
-                                                "d":  "ruptura entre forma e sentido, procedimento típico da vanguarda",
-                                                "e":  "erro de composição, que deveria ter sido uniformizado na revisão"
+                                                "c":  "convergência entre forma e sentido, com o andamento do verso encenando o que se diz",
+                                                "d":  "ruptura entre forma e sentido, procedimento corrente nas vanguardas históricas",
+                                                "e":  "alternância entre dois metros fixos, procedimento herdado da canção trovadoresca medieval"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Verso curto para a tensão, verso longo para a distensão: o poema não descreve o ritmo do que sente, ele o executa. Reconhecer essa convergência é o que separa a leitura formal da simples paráfrase do conteúdo.",
-                           "formato":  "direta"
+                           "explicacao":  "O verso curto corta a respiração onde o texto tensiona e se alonga onde ele distende: o ritmo faz o que o poema diz, em vez de acompanhá-lo por fora. Em (e) está o distrator mais próximo, porque também descreve alternância — mas entre dois metros fixos, e o enunciado registra variação livre governada pelo sentido. Em (b), não há regularidade do início ao fim. Em (d), a ruptura suporia descompasso entre forma e conteúdo, e há coincidência. Em (a), a indiferença é justamente o que o poema desmente."
                        },
                        {
                            "id":  "literatura-125",
-                           "texto_apoio":  "Um poema retoma explicitamente versos conhecidos de outro poema, alterando-lhes o contexto e produzindo sentido diverso do original.",
+                           "texto_apoio":  "Um poema retoma versos reconhecíveis de um poema anterior, alterando-lhes o contexto, e o efeito pretendido depende de o leitor identificar a fonte.",
+                           "formato":  "direta",
                            "enunciado":  "Esse procedimento denomina-se",
                            "alternativas":  {
-                                                "a":  "pleonasmo, repetição redundante de uma ideia",
-                                                "b":  "intertextualidade, relação deliberada entre textos que produz sentido novo a partir do reconhecimento do anterior",
-                                                "c":  "hipérbole, exagero deliberado de uma qualidade",
-                                                "d":  "tradução, transposição de um texto entre línguas",
-                                                "e":  "plágio, apropriação indevida sem indicação da fonte"
+                                                "a":  "paródia, retomada de um texto anterior com inversão cômica ou crítica do sentido original",
+                                                "b":  "intertextualidade, diálogo deliberado com texto anterior cujo reconhecimento produz o sentido",
+                                                "c":  "plágio, apropriação de texto alheio que depende de a origem não ser percebida pelo leitor",
+                                                "d":  "epígrafe, citação destacada na abertura que anuncia um tema sem integrar o corpo do texto",
+                                                "e":  "paráfrase, reescrita de um texto em outras palavras, com manutenção integral do sentido original"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "A retomada é assumida e conta com o reconhecimento do leitor: sem ele, o efeito não acontece. Isso separa a intertextualidade do plágio, que depende justamente de a origem não ser percebida.",
-                           "formato":  "direta"
+                           "explicacao":  "A retomada é assumida e conta com o reconhecimento do leitor: sem ele, o efeito não acontece. Em (a) está o distrator mais próximo — a paródia é uma espécie de intertextualidade, e seria a resposta se houvesse inversão cômica ou crítica; o enunciado fala apenas em mudança de contexto, o que mantém o caso no gênero, não na espécie. Em (c), o plágio é o caso inverso: depende de a origem não ser percebida. Em (d), a epígrafe fica fora do corpo do texto, e aqui os versos são incorporados. Em (e), a paráfrase preserva o sentido em outras palavras, enquanto aqui as palavras é que se preservam, deslocadas para outro contexto."
                        },
                        {
                            "id":  "literatura-126",
@@ -28668,62 +28668,62 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-127",
                            "texto_apoio":  "Num poema, a mesma palavra encerra vários versos consecutivos, sempre com sentido ligeiramente deslocado em relação à ocorrência anterior.",
+                           "formato":  "direta",
                            "enunciado":  "O efeito produzido por essa repetição com deslocamento é",
                            "alternativas":  {
-                                                "a":  "indicar que o poema é uma tradução malfeita",
-                                                "b":  "revelar que uma mesma palavra carrega sentidos distintos, e fazer dessa instabilidade a matéria do poema",
-                                                "c":  "converter o poema em texto narrativo",
-                                                "d":  "empobrecer o vocabulário do poema, por falta de sinônimos",
-                                                "e":  "garantir a rima regular exigida pelas formas fixas"
+                                                "a":  "reforçar por insistência um sentido único, fixando-o na memória do leitor",
+                                                "b":  "expor que a mesma palavra carrega sentidos distintos, e fazer disso a matéria do poema",
+                                                "c":  "construir um refrão que organiza o poema em estrofes de igual medida",
+                                                "d":  "marcar a hesitação do eu lírico, que não encontra a palavra exata e volta sempre à mesma",
+                                                "e":  "produzir uma cadeia sonora em que o sentido cede lugar inteiramente à musicalidade do verso"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "A palavra volta e não é mais a mesma: cada retorno a desloca. O poema não repete por pobreza, e sim para mostrar que o sentido não está fixo na palavra — está no lugar que ela ocupa.",
-                           "formato":  "direta"
+                           "explicacao":  "A palavra volta e não é mais a mesma: cada retorno a desloca, e o poema mostra que o sentido não está fixo na palavra, e sim no lugar que ela ocupa. Em (a) está o contrário do que ocorre: a repetição aqui desestabiliza em vez de fixar. Em (d), a hesitação suporia uma palavra certa a ser encontrada, quando o procedimento explora a variação como resultado buscado. Em (c), o refrão repete o mesmo sentido em posição regular, e o enunciado registra deslocamento a cada ocorrência. Em (e), o som participa do efeito, mas o enunciado localiza a mudança no sentido, não na sonoridade."
                        },
                        {
                            "id":  "literatura-128",
                            "texto_apoio":  "Num poema, o eu lírico fala no plural — \"nós\" — e assume a posição de quem enuncia em nome de um grupo, e não de si próprio.",
+                           "formato":  "direta",
                            "enunciado":  "Essa escolha de pessoa gramatical indica que o poema",
                            "alternativas":  {
-                                                "a":  "abandona qualquer subjetividade, tornando-se puramente descritivo",
-                                                "b":  "renuncia à dimensão lírica e se converte em texto jornalístico",
-                                                "c":  "se dirige a um interlocutor específico e nomeado",
-                                                "d":  "desloca a experiência do individual para o coletivo, tratando o sentimento como partilhado",
-                                                "e":  "foi escrito por vários autores em conjunto"
+                                                "a":  "abandona a subjetividade e se torna registro puramente descritivo",
+                                                "b":  "renuncia à dimensão lírica e se aproxima do texto jornalístico",
+                                                "c":  "se dirige a um interlocutor específico, nomeado no corpo do poema",
+                                                "d":  "desloca a experiência do individual para o coletivo, e trata o sentimento como partilhado",
+                                                "e":  "apaga as diferenças internas do grupo, que passa a falar por uma única voz uniforme e sem fissura"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Trocar o eu pelo nós não elimina o lirismo: reposiciona-o. O sentimento deixa de ser propriedade de um sujeito e passa a ser condição de um grupo, o que costuma vir acompanhado de intenção social.",
-                           "formato":  "direta"
+                           "explicacao":  "O plural não suprime a experiência: amplia quem a vive, e o que era sentimento de um passa a ser condição de muitos. Em (e) está o distrator mais forte, porque falar em nome de um grupo de fato corre esse risco — mas o enunciado registra apenas a posição de quem enuncia, e daí não decorre a supressão das diferenças internas. Em (a) e (b), a subjetividade permanece e o poema segue lírico; muda a escala, não o gênero. Em (c), o \"nós\" define quem fala, e não a quem se fala."
                        },
                        {
                            "id":  "literatura-129",
                            "texto_apoio":  "Compara-se um poema de forma fixa e metro regular com outro em verso livre, ambos tratando do mesmo tema.",
+                           "formato":  "direta",
                            "enunciado":  "A escolha entre uma forma e outra é significativa porque",
                            "alternativas":  {
-                                                "a":  "apenas a forma fixa permite alcançar valor literário",
-                                                "b":  "apenas o verso livre permite tratar de temas contemporâneos",
-                                                "c":  "a forma escolhida participa da construção do sentido, e a regularidade ou a liberdade do verso já dizem algo sobre o modo de tratar o tema",
-                                                "d":  "a forma é neutra e não interfere no sentido, sendo mera convenção do gênero",
-                                                "e":  "a escolha depende exclusivamente da editora que publica o poema"
+                                                "a":  "a forma fixa impõe ao poeta uma disciplina que o verso livre dispensa, o que a torna superior",
+                                                "b":  "o verso livre nasce da recusa da métrica e por isso só comporta temas de ruptura",
+                                                "c":  "a forma escolhida participa da construção do sentido, e a regularidade ou a liberdade já dizem algo",
+                                                "d":  "a forma é escolha posterior ao conteúdo, ajustada ao que o poema já tinha a dizer",
+                                                "e":  "a diferença entre as duas é histórica e não estética: cada época dispõe de um repertório único de formas"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Metro rigoroso e verso livre não são embalagens intercambiáveis para um mesmo conteúdo: cada um impõe um andamento e uma relação com a tradição. Tratar a forma como neutra é justamente o que a análise literária existe para evitar.",
-                           "formato":  "direta"
+                           "explicacao":  "Metro rigoroso e verso livre não são embalagens intercambiáveis para um mesmo conteúdo: cada um impõe um andamento e uma relação com a tradição. Em (d) está a inversão que mais aparece em prova — supor que a forma se aplica depois, a um sentido já pronto, é exatamente o que a análise literária existe para evitar. Em (e), o repertório de uma época é amplo e o poeta escolhe dentro dele, tanto que o enunciado apresenta as duas formas convivendo. Em (a), disciplina não estabelece hierarquia de valor. Em (b), o verso livre trata de qualquer tema, inclusive dos mais tradicionais."
                        },
                        {
                            "id":  "literatura-130",
                            "texto_apoio":  "Num poema, o eu lírico afirma que escreve para não esquecer, e ao longo do texto vai corrigindo as próprias lembranças, substituindo detalhes já enunciados.",
+                           "formato":  "direta",
                            "enunciado":  "Esse movimento de correção sugere que, no poema, a memória é apresentada como",
                            "alternativas":  {
-                                                "a":  "registro fiel e estável do que aconteceu",
-                                                "b":  "construção instável, refeita no ato de lembrar e por isso inseparável do presente de quem lembra",
-                                                "c":  "documento verificável por terceiros",
-                                                "d":  "obstáculo à criação poética, que exigiria esquecimento total",
-                                                "e":  "faculdade exclusiva da velhice"
+                                                "a":  "registro fiel do que aconteceu, que o poema se limita a transcrever em versos",
+                                                "b":  "construção instável, refeita no ato de lembrar e presa ao presente de quem lembra",
+                                                "c":  "matéria verificável, que o poema submete à conferência de quem testemunhou os mesmos fatos",
+                                                "d":  "obstáculo à criação, já que a exatidão do detalhe limitaria a invenção do poeta",
+                                                "e":  "acúmulo de camadas em que a lembrança mais recente recobre as anteriores e as deixa intactas"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Se a lembrança precisa ser corrigida enquanto é dita, ela não estava guardada pronta: está sendo feita agora. O poema encena a memória como processo, não como arquivo.",
-                           "formato":  "direta"
+                           "explicacao":  "A correção acontece dentro do poema e não é apresentada como conserto de um erro: cada retomada refaz a lembrança, o que situa a memória no presente de quem escreve. Em (e) está o distrator mais próximo, e ele erra num ponto só — supor que as camadas anteriores permanecem intactas, quando o poema substitui detalhes já enunciados. Em (a) e (c), a fidelidade e a verificabilidade são exatamente o que a correção sucessiva desmente. Em (d), o poema não trata a memória como estorvo: faz dela o seu procedimento."
                        },
                        {
                            "id":  "literatura-131",
@@ -28743,62 +28743,62 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-132",
                            "texto_apoio":  "Num poema, o eu lírico compara sua própria situação à de um objeto inanimado — uma porta, um trilho, um copo — e desenvolve a comparação ao longo de todo o texto.",
+                           "formato":  "direta",
                            "enunciado":  "Uma comparação assim sustentada ao longo de um texto inteiro denomina-se",
                            "alternativas":  {
-                                                "a":  "hipérbato, inversão da ordem sintática usual",
-                                                "b":  "metáfora filada, ou alegoria, em que a imagem se desdobra e organiza o poema",
-                                                "c":  "elipse, omissão de termo recuperável pelo contexto",
-                                                "d":  "aliteração, repetição de sons consonantais",
-                                                "e":  "onomatopeia, reprodução de sons do mundo real"
+                                                "a":  "hipérbato, inversão da ordem sintática habitual do período",
+                                                "b":  "alegoria, ou metáfora filada, em que a imagem se desdobra e organiza o poema",
+                                                "c":  "sinédoque, designação do todo pela parte que o representa",
+                                                "d":  "comparação simples, aproximação pontual entre dois termos por meio de conectivo",
+                                                "e":  "antítese, aproximação de dois termos de sentido oposto no mesmo verso"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Uma comparação isolada é figura pontual; sustentada do início ao fim, ela vira estrutura e passa a organizar o poema inteiro. É a diferença entre usar uma imagem e construir sobre ela.",
-                           "formato":  "direta"
+                           "explicacao":  "O que define o caso não é haver comparação, e sim ela se estender e estruturar o texto inteiro — a imagem deixa de ser ornamento e passa a ser a arquitetura do poema. Em (d) está a distinção que a questão cobra: a comparação simples é pontual e se esgota no verso em que aparece. Em (a), (c) e (e), as figuras nomeadas operam dentro de um verso ou de um período e não organizam a composição: hipérbato altera a ordem das palavras, sinédoque troca todo por parte, e antítese aproxima contrários."
                        },
                        {
                            "id":  "literatura-133",
                            "texto_apoio":  "Num poema, versos que descrevem cenas de trabalho pesado alternam-se, sem transição, com versos de vocabulário delicado sobre flores e luz.",
+                           "formato":  "direta",
                            "enunciado":  "O choque entre os dois registros produz",
                            "alternativas":  {
-                                                "a":  "incoerência que compromete a unidade do poema",
-                                                "b":  "obediência às regras de composição do soneto clássico",
-                                                "c":  "tensão significativa, em que o contraste entre os registros diz algo que nenhum deles diria sozinho",
-                                                "d":  "indicação de que o poema reúne fragmentos de dois textos distintos",
-                                                "e":  "efeito puramente decorativo, sem consequência para o sentido"
+                                                "a":  "incoerência que compromete a unidade de tom exigida pelo poema lírico",
+                                                "b":  "alternância métrica regular, procedimento de composição do soneto clássico",
+                                                "c":  "tensão significativa, em que o contraste diz algo que nenhum registro diria sozinho",
+                                                "d":  "indício de que o poema reúne fragmentos de dois textos de origens distintas",
+                                                "e":  "efeito de ironia, pelo qual o registro delicado serve para ridicularizar a cena de trabalho pesado"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "O contraste não é falha de unidade: é o argumento. Colocar a delicadeza ao lado do trabalho duro produz um sentido que nenhum dos dois registros alcançaria isolado — e ler isso como incoerência é perder o poema.",
-                           "formato":  "direta"
+                           "explicacao":  "Os dois registros não se anulam nem se somam: o atrito entre eles é que produz sentido, e cada um passa a ser lido à luz do outro. Em (e) está o distrator mais tentador, porque a ironia também nasce de choque — mas ela exigiria que um registro desqualificasse o outro, e aqui os dois se mantêm em pé. Em (a), unidade de tom não é exigência do gênero, e a quebra é deliberada. Em (b), não há regularidade métrica em jogo. Em (d), a alternância é procedimento de composição, não vestígio de colagem."
                        },
                        {
                            "id":  "literatura-134",
                            "texto_apoio":  "Num poema, o eu lírico dirige perguntas a si mesmo e responde a algumas delas, deixando outras em aberto.",
+                           "formato":  "direta",
                            "enunciado":  "Esse diálogo interno caracteriza",
                            "alternativas":  {
-                                                "a":  "uma narrativa em terceira pessoa",
-                                                "b":  "um monólogo em que o sujeito se desdobra, expondo o conflito em vez de apresentá-lo resolvido",
-                                                "c":  "um texto argumentativo com tese e conclusão explícitas",
-                                                "d":  "uma entrevista transcrita em versos",
-                                                "e":  "um diálogo teatral entre duas personagens distintas"
+                                                "a":  "um diálogo teatral entre duas personagens que o poema não chega a nomear",
+                                                "b":  "um monólogo em que o sujeito se desdobra, expondo o conflito em vez de resolvê-lo",
+                                                "c":  "uma narrativa em terceira pessoa disfarçada de discurso em primeira",
+                                                "d":  "um texto argumentativo, já que há perguntas encadeadas e respostas parciais",
+                                                "e":  "uma apóstrofe, em que o eu lírico interpela um interlocutor que permanece ausente do texto"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Não há duas personagens: há um sujeito dividido, e o poema mostra a divisão em vez de escondê-la sob uma conclusão. Deixar perguntas sem resposta é parte do procedimento, não descuido.",
-                           "formato":  "direta"
+                           "explicacao":  "Pergunta e resposta partem do mesmo sujeito, que se divide para se interrogar — e as perguntas sem resposta mantêm o conflito aberto em vez de encerrá-lo. Em (e) está o erro mais fino: a apóstrofe também interpela, mas dirige-se a um outro, e aqui o destinatário é o próprio eu. Em (a), não há duas personagens, e sim uma cindida. Em (d), a argumentação caminha para uma conclusão, e o poema recusa fechá-la. Em (c), a primeira pessoa não é disfarce: é a condição do procedimento."
                        },
                        {
                            "id":  "literatura-135",
                            "texto_apoio":  "Um poema descreve com atenção minuciosa um objeto — sua superfície, seu peso, o modo como reflete a luz — sem em nenhum momento declarar sentimentos do eu lírico.",
+                           "formato":  "direta",
                            "enunciado":  "Nesse tipo de construção, a emoção",
                            "alternativas":  {
-                                                "a":  "é declarada explicitamente na última estrofe",
-                                                "b":  "está ausente do poema, que se limita ao registro técnico",
-                                                "c":  "depende de nota explicativa fora do poema",
+                                                "a":  "é declarada pelo eu lírico numa estrofe final que o poema reserva para isso",
+                                                "b":  "está ausente, e o poema se limita ao registro técnico das propriedades do objeto",
+                                                "c":  "depende de nota explicativa que situe o leitor fora do texto do poema",
                                                 "d":  "é transferida para o objeto e para o modo de olhá-lo, chegando ao leitor sem ser nomeada",
-                                                "e":  "é substituída por argumentação lógica"
+                                                "e":  "cede lugar à argumentação, já que descrever seria operação do entendimento e não da sensibilidade"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Não dizer o sentimento não é não tê-lo: a demora do olhar sobre o objeto já é a emoção. O poema desloca o afeto do enunciado para o modo de enunciar, o que costuma torná-lo mais eficaz do que a declaração direta.",
-                           "formato":  "direta"
+                           "explicacao":  "O que carrega a emoção é a escolha do que olhar e da demora com que se olha: o objeto recebe o afeto que o eu lírico não enuncia. Em (b) está a leitura apressada que a questão quer flagrar — não nomear não é não haver, e confundir as duas coisas é ler a descrição como inventário. Em (a), o enunciado exclui qualquer declaração de sentimento. Em (c), o poema se basta, e a nota externa seria confissão de fracasso. Em (e), não há tese nem encadeamento argumentativo, e sim demora descritiva."
                        },
                        {
                            "id":  "literatura-136",
@@ -28818,32 +28818,32 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-137",
                            "texto_apoio":  "A crítica literária brasileira consolidou-se como disciplina universitária a partir de meados do século XX, produzindo interpretações que passaram a orientar a leitura escolar do cânone nacional.",
+                           "formato":  "direta",
                            "enunciado":  "Reconhecer que uma interpretação consagrada é fruto de trabalho crítico datado permite ao leitor",
                            "alternativas":  {
-                                                "a":  "prescindir da leitura da obra, bastando conhecer a crítica",
-                                                "b":  "tratar a leitura consagrada como verdade definitiva e encerrada",
-                                                "c":  "descartar toda a crítica como opinião sem valor",
-                                                "d":  "concluir que a obra não admite leitura alguma",
-                                                "e":  "usar a interpretação como ferramenta, sabendo que ela ilumina certos aspectos da obra e deixa outros na sombra"
+                                                "a":  "substituir a leitura consagrada por outra igualmente definitiva, formada em contexto histórico mais recente",
+                                                "b":  "concluir que toda interpretação vale o mesmo, já que todas são igualmente datadas",
+                                                "c":  "separar a crítica universitária da leitura escolar, que independeria de interpretação prévia",
+                                                "d":  "reconstituir a intenção original do autor, que a crítica posterior teria encoberto",
+                                                "e":  "usar a interpretação como ferramenta que ilumina certos aspectos da obra e deixa outros na sombra"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Uma interpretação forte não é nem dogma nem opinião descartável: é instrumento com alcance e limite. Saber de onde veio permite usá-la sem ser usado por ela — e sem confundir o comentário com a obra.",
-                           "formato":  "direta"
+                           "explicacao":  "Uma interpretação forte não é nem dogma nem opinião descartável: é instrumento com alcance e limite, e saber de onde veio permite usá-la sem confundir o comentário com a obra. Em (b) está o erro simétrico ao dogmatismo — do fato de toda leitura ser datada não decorre que todas valham o mesmo, já que umas dão conta de mais do texto que outras. Em (a), trocar um dogma por outro mantém o problema. Em (d), a datação da crítica não devolve acesso direto à intenção do autor, que é outro problema. Em (c), a leitura escolar é precisamente onde as interpretações consagradas circulam."
                        },
                        {
                            "id":  "literatura-138",
                            "texto_apoio":  "Obras literárias de um mesmo período histórico podem apresentar posições divergentes sobre os mesmos processos sociais — a escravidão, a industrialização, a urbanização.",
+                           "formato":  "direta",
                            "enunciado":  "Essa divergência mostra que a literatura de um período",
                            "alternativas":  {
-                                                "a":  "deve ser lida exclusivamente pela biografia de cada autor",
-                                                "b":  "só adquire valor quando todos os autores concordam entre si",
-                                                "c":  "constitui um campo de disputa, em que diferentes posições sobre o mesmo processo coexistem e se enfrentam",
-                                                "d":  "reflete de forma unívoca a mentalidade dominante de sua época",
-                                                "e":  "é sempre alheia aos processos sociais de seu tempo"
+                                                "a":  "reproduz a mentalidade dominante da época, ainda que por vozes de autores diferentes",
+                                                "b":  "revela mais sobre a trajetória individual de cada autor que sobre o processo social em causa",
+                                                "c":  "constitui um campo de disputa, em que posições divergentes sobre o mesmo processo se enfrentam",
+                                                "d":  "só se torna documento histórico depois que a crítica posterior decide qual das posições prevaleceu",
+                                                "e":  "acompanha o processo social com atraso, registrando apenas o que já se tornou consenso"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "Uma época não tem uma voz só. Tratar a literatura de um período como espelho de uma mentalidade única apaga exatamente o que ela tem de mais informativo: o desacordo entre quem viveu o mesmo processo.",
-                           "formato":  "direta"
+                           "explicacao":  "Se o mesmo processo produz posições opostas, a época não fala por uma voz só: a literatura é o lugar onde essas posições se confrontam. Em (a) está o erro que a divergência desmente de imediato — uma mentalidade única não geraria leituras incompatíveis. Em (b), reduzir a divergência a biografia dissolve o processo social, que é o que está em disputa. Em (d), o valor documental não depende de a crítica escolher um vencedor; a disputa registrada já é o documento. Em (e), o consenso é justamente o que não existe no caso descrito."
                        },
                        {
                            "id":  "literatura-139",
@@ -28863,17 +28863,17 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-140",
                            "texto_apoio":  "Ao longo do século XX, obras literárias brasileiras foram adaptadas para cinema, televisão e teatro, alcançando públicos muito maiores do que os do livro.",
+                           "formato":  "direta",
                            "enunciado":  "Do ponto de vista dos estudos literários, essas adaptações",
                            "alternativas":  {
-                                                "a":  "tornam desnecessária a leitura do texto original",
-                                                "b":  "sempre empobrecem a obra de partida",
-                                                "c":  "são irrelevantes, por não pertencerem ao campo da literatura",
-                                                "d":  "devem ser avaliadas apenas pelo grau de fidelidade literal ao texto de origem",
-                                                "e":  "constituem leituras da obra, com escolhas próprias de linguagem, que dialogam com o original em vez de substituí-lo"
+                                                "a":  "tornam dispensável a leitura do texto de origem para quem já viu a versão adaptada",
+                                                "b":  "empobrecem necessariamente a obra de partida, por reduzirem sua complexidade verbal a imagens",
+                                                "c":  "situam-se fora do campo literário e por isso não interessam aos estudos da obra",
+                                                "d":  "devem ser julgadas pelo grau de fidelidade literal ao texto de origem que adaptam",
+                                                "e":  "constituem leituras da obra, com linguagem própria, que dialogam com o original"
                                             },
                            "resposta":  "e",
-                           "explicacao":  "Cobrar fidelidade literal ignora que cinema e teatro têm linguagem própria, com recursos que o livro não tem e sem os que ele tem. A adaptação é uma interpretação materializada — e vale ser lida como tal.",
-                           "formato":  "direta"
+                           "explicacao":  "Adaptar é interpretar com outros meios: a versão em imagem ou em cena faz escolhas que revelam o que se leu no livro, e por isso interessa aos estudos literários como leitura, não como substituto. Em (d) está o critério que mais aparece em conversa comum e que a crítica abandonou: fidelidade literal mediria a adaptação por aquilo que ela não se propõe. Em (b), a perda existe em alguns casos, mas há ganhos em outros, e a generalização não se sustenta. Em (a), a adaptação não dispensa o original. Em (c), o diálogo entre as versões é matéria de estudo."
                        },
                        {
                            "id":  "literatura-141",
@@ -28893,107 +28893,107 @@ window.QUESTION_BANKS = {
                        {
                            "id":  "literatura-142",
                            "texto_apoio":  "Um texto literário apresenta enredo linear, narrador onisciente que tudo explica, personagens de caráter definido desde o início e desfecho que resolve todos os conflitos.",
+                           "formato":  "direta",
                            "enunciado":  "Esse conjunto de traços aproxima o texto da",
                            "alternativas":  {
-                                                "a":  "poesia concreta, centrada no arranjo visual",
-                                                "b":  "prosa do século XIX de convenção realista-romântica, anterior às rupturas do século XX",
-                                                "c":  "crônica jornalística contemporânea",
-                                                "d":  "escrita automática de vanguarda",
-                                                "e":  "prosa modernista, marcada pela fragmentação e pela ambiguidade"
+                                                "a":  "poesia concreta, centrada no arranjo visual da palavra na página",
+                                                "b":  "prosa do século XIX, de convenção realista-romântica, anterior às rupturas do século XX",
+                                                "c":  "crônica jornalística, presa ao acontecimento imediato do dia",
+                                                "d":  "escrita automática de vanguarda, guiada pela associação livre",
+                                                "e":  "prosa modernista, marcada pela fragmentação, pela ambiguidade e pelo narrador pouco confiável"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "Linearidade, onisciência plena, caráter fixo e conflito resolvido formam o modelo que o século XX desmonta. Reconhecer esse conjunto é o que permite datar um texto pela construção, sem precisar da data de publicação.",
-                           "formato":  "direta"
+                           "explicacao":  "Linearidade, onisciência sem fissura, caráter fixo e desfecho que fecha tudo formam o pacote da prosa oitocentista, anterior às dúvidas que o século XX introduziria no narrador. Em (e) está o contrário ponto a ponto, e reconhecê-lo é o que a questão pede: fragmentação contra linearidade, ambiguidade contra explicação, narrador incerto contra onisciência. Em (a) e (d), trata-se de procedimentos de vanguarda incompatíveis com enredo e desfecho resolvidos. Em (c), a crônica não se define por essa arquitetura narrativa."
                        },
                        {
                            "id":  "literatura-143",
                            "texto_apoio":  "Um texto narrativo alterna, sem aviso, entre o tempo presente da ação e episódios do passado das personagens, exigindo do leitor a reconstrução da ordem cronológica.",
+                           "formato":  "direta",
                            "enunciado":  "Esse procedimento de organização temporal denomina-se",
                            "alternativas":  {
-                                                "a":  "quebra da linearidade, que subordina a cronologia à lógica da memória ou do sentido",
-                                                "b":  "resumo, condensação de longo período em poucas linhas",
-                                                "c":  "narrativa linear, que segue a ordem dos acontecimentos",
-                                                "d":  "narração simultânea, feita no exato momento dos fatos",
-                                                "e":  "moldura narrativa, história que contém outra história"
+                                                "a":  "quebra da linearidade, que subordina a ordem cronológica à lógica da memória",
+                                                "b":  "narrativa em moldura, história que enquadra outra contada por uma personagem",
+                                                "c":  "narração simultânea, feita no mesmo instante em que os fatos acontecem",
+                                                "d":  "elipse temporal, supressão de um período que o leitor deduz pelo que vem depois",
+                                                "e":  "prolepse, antecipação de um fato que só se realizará adiante na narrativa"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Quando o texto abandona a ordem dos fatos, ele passa a obedecer a outra: a da memória ou a do sentido que quer construir. Cabe ao leitor remontar a cronologia, e esse trabalho é parte do que a obra pede.",
-                           "formato":  "direta"
+                           "explicacao":  "A alternância sem aviso entre presente e passado dissolve a ordem cronológica e a substitui por outra, ditada pela associação e pela memória. Em (e) está o distrator mais próximo: a prolepse também rompe a cronologia, mas só para a frente, e o enunciado descreve idas ao passado. Em (d), a elipse suprime um trecho do tempo sem alternar entre dois planos. Em (b), a moldura exige uma narrativa que contenha outra, o que não é o caso. Em (c), a narração simultânea coincide com os fatos e por isso não comporta retornos."
                        },
                        {
                            "id":  "literatura-144",
                            "texto_apoio":  "Um texto literário do século XX apresenta frases longas, sem pontuação convencional, acompanhando o encadeamento associativo dos pensamentos de uma personagem.",
+                           "formato":  "direta",
                            "enunciado":  "Esse procedimento é conhecido como",
                            "alternativas":  {
-                                                "a":  "diálogo teatral, com indicação de falante a cada réplica",
-                                                "b":  "descrição objetiva, restrita ao que é visível de fora",
-                                                "c":  "discurso direto, transcrição literal da fala entre aspas",
-                                                "d":  "fluxo de consciência, que busca reproduzir o movimento do pensamento antes de sua organização em discurso",
-                                                "e":  "narração onisciente neutra, que se mantém fora das personagens"
+                                                "a":  "discurso indireto livre, em que a voz do narrador se contamina da fala da personagem",
+                                                "b":  "monólogo interior direto, transcrição da fala que a personagem dirige a si em voz alta",
+                                                "c":  "descrição objetiva, restrita ao que um observador externo poderia registrar da cena",
+                                                "d":  "fluxo de consciência, que reproduz o movimento do pensamento antes de sua organização",
+                                                "e":  "narração onisciente neutra, que relata os fatos sem aderir ao ponto de vista de nenhuma personagem"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "A pontuação convencional organiza o pensamento depois de pensado; abrir mão dela é tentar apanhá-lo antes disso. O fluxo de consciência é essa aposta — e é o oposto da narração que observa de fora.",
-                           "formato":  "direta"
+                           "explicacao":  "Frase longa, pontuação abolida e encadeamento associativo são as marcas da tentativa de acompanhar o pensamento antes que ele vire discurso organizado. Em (a) e (b) estão as duas técnicas vizinhas, e a diferença é de grau: o discurso indireto livre mantém a mediação do narrador, e o monólogo interior direto supõe fala já articulada — o traço aqui é a dissolução da sintaxe, anterior às duas. Em (c) e (e), o ponto de observação é externo, incompatível com o registro de dentro que o enunciado descreve."
                        },
                        {
                            "id":  "literatura-145",
                            "texto_apoio":  "Numa crônica, um acontecimento trivial do cotidiano — uma fila, um encontro casual, um atraso — serve de ponto de partida para uma reflexão de alcance mais amplo.",
+                           "formato":  "direta",
                            "enunciado":  "Esse movimento caracteriza o gênero crônica porque",
                            "alternativas":  {
-                                                "a":  "a crônica parte do miúdo e do imediato para alcançar uma reflexão maior, mantendo tom leve e proximidade com o leitor",
-                                                "b":  "a crônica se distingue por sua extensão, sempre superior à do conto",
-                                                "c":  "a crônica não admite qualquer marca de subjetividade do autor",
-                                                "d":  "a crônica exige sempre a narração de fatos históricos de grande relevância",
-                                                "e":  "a crônica é um gênero exclusivamente ficcional, sem relação com o cotidiano"
+                                                "a":  "parte do miúdo e do imediato para alcançar uma reflexão maior, em tom leve",
+                                                "b":  "distingue-se do conto pela extensão maior e pela ausência de enredo ficcional",
+                                                "c":  "recusa a marca subjetiva do autor, aproximando-se do texto jornalístico informativo",
+                                                "d":  "exige que o fato narrado tenha relevância histórica reconhecida pelo leitor",
+                                                "e":  "opera no sentido inverso, partindo de uma tese geral para ilustrá-la com um caso miúdo"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "O gênero vive dessa desproporção entre o pretexto pequeno e o alcance da reflexão, e do tom de conversa que a torna possível. Exigir dela fato histórico relevante seria confundi-la com o registro cronístico antigo.",
-                           "formato":  "direta"
+                           "explicacao":  "A crônica trabalha na escala do dia e ganha alcance sem trocar de tom: é do detalhe banal que ela extrai a reflexão, mantendo a conversa com o leitor. Em (e) está a inversão exata do procedimento — sair da tese para o exemplo é o movimento do artigo de opinião, não o da crônica. Em (d), a exigência de relevância histórica elimina justamente a matéria do gênero, que é o trivial. Em (c), a voz pessoal é constitutiva da crônica. Em (b), a crônica costuma ser mais curta que o conto, e a comparação não define o movimento descrito."
                        },
                        {
                            "id":  "literatura-146",
                            "texto_apoio":  "Em Machado de Assis, é frequente que o narrador atribua a uma personagem uma qualidade elogiosa e, na frase seguinte, apresente um fato que a desmente.",
+                           "formato":  "direta",
                            "enunciado":  "Esse arranjo produz",
                            "alternativas":  {
-                                                "a":  "ironia, em que o elogio é desfeito pelo próprio texto sem que o narrador precise negá-lo",
-                                                "b":  "eufemismo, atenuação de um julgamento severo",
-                                                "c":  "prosopopeia, atribuição de traços humanos a seres inanimados",
-                                                "d":  "hipérbole, exagero deliberado da qualidade elogiada",
-                                                "e":  "contradição involuntária, resultante de descuido na composição"
+                                                "a":  "ironia, em que o elogio é desfeito pelo próprio texto sem que o narrador o negue",
+                                                "b":  "eufemismo, atenuação de um julgamento severo por meio de termo mais brando",
+                                                "c":  "paradoxo, afirmação que reúne no mesmo enunciado dois sentidos logicamente incompatíveis",
+                                                "d":  "hipérbole, exagero deliberado da qualidade que se atribui à personagem",
+                                                "e":  "contradição involuntária, resultante de descuido na composição do período"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "O narrador não retira o elogio: apenas coloca ao lado dele o fato que o desmonta, e deixa o leitor concluir. Essa demolição por justaposição é a forma mais característica da ironia machadiana.",
-                           "formato":  "direta"
+                           "explicacao":  "O narrador não retira o elogio: deixa que o fato seguinte o desminta, e é o leitor quem faz a conta. Em (c) está o distrator mais próximo — o paradoxo reúne os contrários num mesmo enunciado e permanece sem solução, enquanto aqui a contradição se distribui entre duas frases e tem sentido claro. Em (e), o descuido é o oposto do procedimento, que é sistemático na obra. Em (b), não há atenuação: o elogio é integral, e o desmentido também. Em (d), não há exagero na qualidade atribuída, e sim desmentido factual."
                        },
                        {
                            "id":  "literatura-147",
                            "texto_apoio":  "Em contos e romances de Machado, personagens explicam suas ações por motivos nobres, e o desenrolar da narrativa revela interesses bem menos elevados operando por baixo.",
+                           "formato":  "direta",
                            "enunciado":  "Essa recorrência indica que a obra se interessa, sobretudo, por",
                            "alternativas":  {
-                                                "a":  "defender a superioridade moral de determinada classe social",
-                                                "b":  "documentar os costumes materiais da sociedade do Segundo Reinado",
-                                                "c":  "investigar a distância entre as razões que as pessoas alegam e os interesses que efetivamente as movem",
-                                                "d":  "explicar o comportamento humano por hereditariedade e clima",
-                                                "e":  "reproduzir o modelo do romance de aventuras"
+                                                "a":  "documentar os costumes materiais da sociedade do Segundo Reinado em seus detalhes",
+                                                "b":  "denunciar a hipocrisia de uma classe social específica, poupando as demais",
+                                                "c":  "investigar a distância entre as razões que se alegam e os interesses que de fato movem",
+                                                "d":  "explicar o comportamento das personagens pela hereditariedade e pelo meio social em que vivem",
+                                                "e":  "demonstrar que as personagens mentem deliberadamente sobre as próprias intenções"
                                             },
                            "resposta":  "c",
-                           "explicacao":  "O assunto não é o costume nem a hereditariedade: é o descompasso entre motivo alegado e motivo real. Note que explicar a conduta por hereditariedade e clima seria Naturalismo, caminho que Machado recusou.",
-                           "formato":  "direta"
+                           "explicacao":  "O interesse da obra está na fresta entre o motivo alegado e o que de fato move — e ela permanece aberta, sem que o narrador feche o julgamento. Em (e) está a leitura que mais engana: mentira supõe que a personagem saiba a verdade e a esconda, e o procedimento machadiano é mais cruel porque ela costuma acreditar na própria versão. Em (b), a hipocrisia não é privilégio de uma classe no conjunto da obra. Em (d), hereditariedade e meio são o programa naturalista, que Machado recusa. Em (a), os costumes aparecem, mas como cenário do que se investiga."
                        },
                        {
                            "id":  "literatura-148",
                            "texto_apoio":  "Numa obra modernista brasileira, elementos de cultura popular — festas, ritmos, provérbios, narrativas orais — são incorporados a uma composição de estrutura complexa e deliberadamente artificial.",
+                           "formato":  "direta",
                            "enunciado":  "Essa combinação indica que, para o projeto modernista,",
                            "alternativas":  {
-                                                "a":  "a elaboração formal deve ser abandonada em favor da espontaneidade",
-                                                "b":  "a cultura popular deve ser transcrita sem qualquer intervenção do artista",
-                                                "c":  "cultura popular e elaboração formal são incompatíveis entre si",
-                                                "d":  "a matéria popular é material legítimo de alta elaboração artística, e não folclore a ser preservado intacto",
-                                                "e":  "a cultura popular é objeto de estudo apenas para a antropologia"
+                                                "a":  "a elaboração formal deve ceder lugar à espontaneidade da matéria popular",
+                                                "b":  "a cultura popular deve ser transcrita sem intervenção do artista que a recolhe",
+                                                "c":  "cultura popular e elaboração formal ocupam campos que não se comunicam",
+                                                "d":  "a matéria popular é material legítimo de alta elaboração, e não folclore a preservar",
+                                                "e":  "a forma complexa serve para dignificar uma matéria considerada menor pelo próprio artista"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "Não é coleta folclórica nem recusa da forma: é uso da matéria popular como matéria-prima de construção sofisticada. A tensão entre origem popular e elaboração erudita é justamente o que o projeto busca.",
-                           "formato":  "direta"
+                           "explicacao":  "A matéria popular entra na obra para ser trabalhada, e não conservada: é isso que a distingue do inventário folclórico e a coloca no mesmo plano de qualquer outro material artístico. Em (e) está a leitura paternalista que a questão quer flagrar — supor que a forma dignifica implica que a matéria valia menos antes, e o projeto parte do contrário. Em (b), a transcrição sem intervenção é exatamente a atitude folclorista recusada. Em (a) e (c), a combinação descrita no enunciado desmente tanto o abandono da forma quanto a incompatibilidade entre os dois planos."
                        },
                        {
                            "id":  "literatura-149",

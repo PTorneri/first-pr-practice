@@ -1,0 +1,12 @@
+# Cadernos oficiais baixados das bancas e o texto extraído deles.
+#
+# São 143 MB de material de ORIGEM: serviram para escrever
+# vestibular-medicina/estudo-anatomia-provas-medicina-sp-2025-2026.md e não têm
+# função no app. O git guarda tudo para sempre — uma vez commitados, sairiam do
+# histórico só com reescrita. Como são públicos e rebaixáveis a qualquer
+# momento pelos sites das bancas, ficam fora.
+#
+# Para reconstruir: os links de cada arquivo estão no próprio estudo, e o texto
+# em txt/ sai de `pdftotext -layout -enc UTF-8`.
+vestibular-medicina/provas/
+vestibular-medicina/txt/

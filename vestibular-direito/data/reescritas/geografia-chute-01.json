@@ -1,0 +1,238 @@
+{
+  "subtopic": "geografia",
+  "questoes": [
+    {
+      "id": "geografia-15",
+      "texto_apoio": "",
+      "formato": "direta",
+      "enunciado": "A expansão do agronegócio no Centro-Oeste brasileiro, a partir das últimas décadas do século XX, foi possibilitada, entre outros fatores, por:",
+      "alternativas": {
+        "a": "A descoberta de reservas de petróleo no Cerrado, que financiou a infraestrutura agrícola",
+        "b": "A proibição de expandir o agronegócio nas demais regiões a partir dos anos 1970",
+        "c": "A correção do solo e novas sementes, somadas a infraestrutura e incentivos públicos",
+        "d": "A transferência compulsória de agricultores do Sul determinada por lei federal",
+        "e": "A fertilidade natural do Cerrado, que dispensou correção química e permitiu cultivo imediato"
+      },
+      "resposta": "c",
+      "explicacao": "O Cerrado só entrou na fronteira agrícola depois que a pesquisa resolveu dois problemas: a acidez do solo, corrigida com calagem, e a adaptação de cultivares ao clima — tudo isso apoiado por crédito e por estradas. Em (e) está a inversão que a questão cobra: o solo do Cerrado é naturalmente ácido e pobre, e é justamente por isso que a correção química foi a condição da expansão. Em (a), não há petróleo financiando a agricultura na região. Em (b), nenhuma proibição desse tipo existiu. Em (d), a migração de sulistas foi expressiva, mas espontânea, e não determinada por lei."
+    },
+    {
+      "id": "geografia-36",
+      "texto_apoio": "A geografia eleitoral estuda a distribuição espacial do comportamento e dos resultados eleitorais em um território.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esse campo de estudo busca, sobretudo, analisar:",
+      "alternativas": {
+        "a": "A relação entre a distribuição espacial dos votos e fatores socioeconômicos e regionais",
+        "b": "A trajetória pessoal dos candidatos a cargos eletivos e sua biografia política",
+        "c": "A previsão de resultados eleitorais por modelos estatísticos nacionais, sem recorte territorial",
+        "d": "A localização das sedes administrativas dos partidos registrados no país",
+        "e": "Os aspectos jurídicos da legislação eleitoral e das regras de propaganda partidária"
+      },
+      "resposta": "a",
+      "explicacao": "O objeto é o padrão territorial: onde cada candidatura vai bem, e o que na composição social, econômica e cultural daquele recorte ajuda a explicar o resultado. Em (c) está o distrator mais próximo, porque projeção eleitoral também trabalha com dados de voto — mas um modelo agregado no nível nacional descarta exatamente a variação espacial que define o campo. Em (b), a biografia do candidato pertence à ciência política, sem dimensão territorial. Em (d), a sede do partido nada informa sobre o eleitorado. Em (e), o direito eleitoral estuda as regras, não a distribuição dos votos."
+    },
+    {
+      "id": "geografia-45",
+      "texto_apoio": "",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Nas últimas décadas, observa-se no Brasil um crescimento relativamente maior das chamadas 'cidades médias' (com população entre cerca de 100 mil e 500 mil habitantes) em comparação com as grandes metrópoles. Esse fenômeno está relacionado, entre outros fatores, a:",
+      "alternativas": {
+        "a": "Queda da população total do país, que reduziu o tamanho de todas as cidades",
+        "b": "Redução da oferta de empregos industriais nas cidades médias, hoje dependentes do setor primário",
+        "c": "Determinação legal que limita o crescimento populacional das capitais estaduais",
+        "d": "Busca por qualidade de vida e menor custo, com desconcentração de atividades econômicas",
+        "e": "Transferência de capitais estaduais para cidades do interior a partir dos anos 2000"
+      },
+      "resposta": "d",
+      "explicacao": "As cidades médias crescem porque recebem dois movimentos ao mesmo tempo: gente saindo da metrópole em busca de custo e mobilidade melhores, e atividade econômica se desconcentrando para perto de insumos e mercados regionais. Em (b) está a inversão do processo — o emprego industrial vem crescendo nessas cidades, e é parte do que as atrai. Em (a), a população do país seguiu crescendo no período. Em (c), não existe limite legal ao crescimento de capitais. Em (e), transferências de capital estadual são raríssimas no Brasil e não explicam um fenômeno nacional."
+    },
+    {
+      "id": "geografia-46",
+      "texto_apoio": "",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Embora frequentemente associados, 'favela' e 'loteamento irregular' não são sinônimos na geografia urbana. A principal diferença conceitual entre eles está no fato de que:",
+      "alternativas": {
+        "a": "A favela resulta de programas habitacionais públicos interrompidos antes da entrega das casas",
+        "b": "O loteamento irregular ocorre apenas em áreas classificadas como de proteção ambiental",
+        "c": "Os dois termos se aplicam a áreas rurais, e não a contextos urbanos ou metropolitanos",
+        "d": "A favela nasce de um parcelamento legal do solo, depois revogado pela prefeitura",
+        "e": "A favela é ocupação de terreno sem propriedade formal, e o loteamento, venda sem registro"
+      },
+      "resposta": "e",
+      "explicacao": "A distinção é de origem jurídica: na favela não houve transação, houve ocupação; no loteamento irregular houve compra e venda, só que de lotes que o parcelamento nunca registrou no município. Em (a) está o distrator mais plausível, porque conjuntos habitacionais inacabados de fato existem e às vezes são ocupados — mas isso descreve um terceiro caso, não a favela como categoria. Em (d), a inversão é direta: o parcelamento legal é o que falta. Em (b), loteamentos irregulares aparecem em qualquer zona urbana. Em (c), os dois termos são urbanos por definição."
+    },
+    {
+      "id": "geografia-58",
+      "texto_apoio": "",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "O chamado 'hidrogênio verde', produzido a partir da eletrólise da água utilizando energia renovável (como a eólica e a solar), tem sido apontado como uma tecnologia promissora para a transição energética porque:",
+      "alternativas": {
+        "a": "Serve como vetor energético em setores de difícil eletrificação, como a indústria pesada",
+        "b": "É obtido como subproduto do refino de petróleo, o que reduz muito seu custo de produção",
+        "c": "Depende de reservas de gás natural para a obtenção em escala, dispensando a eletrólise",
+        "d": "Substitui a necessidade de energia elétrica em todos os setores da economia nacional",
+        "e": "Resulta da queima direta de carvão mineral em altas temperaturas, sem uso de eletricidade"
+      },
+      "resposta": "a",
+      "explicacao": "A eletricidade renovável resolve bem o que se pode eletrificar; o hidrogênio serve para o resto — siderurgia, fertilizantes, navegação de longo curso —, onde o calor intenso ou a densidade energética inviabilizam a bateria. Em (b) e (c) estão as rotas cinza e azul, produzidas a partir de combustível fóssil: são as tecnologias das quais o hidrogênio verde se distingue, e confundi-las é o erro que a questão testa. Em (d), o hidrogênio complementa a eletricidade e não a substitui, já que é produzido com ela. Em (e), a queima de carvão contraria a definição de verde."
+    },
+    {
+      "id": "geografia-74",
+      "texto_apoio": "",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Cientistas climáticos alertam para o risco de a Amazônia atingir um 'ponto de não retorno' (tipping point), a partir do qual grande parte da floresta poderia se transformar irreversivelmente em um ecossistema semelhante a uma savana. Esse cenário está associado, sobretudo, a:",
+      "alternativas": {
+        "a": "Um ciclo natural de savanização que ocorre a cada poucos séculos, independente do desmatamento",
+        "b": "Uma mudança reversível em curto prazo, bastando suspender o desmatamento por um ano",
+        "c": "Um patamar de desmatamento que comprometeria a reciclagem de umidade pela própria floresta",
+        "d": "Um processo restrito à fauna da região, sem relação com o regime de chuvas ou a vegetação",
+        "e": "Um limite de temperatura fixado no Acordo de Paris, além do qual cessa a proteção jurídica"
+      },
+      "resposta": "c",
+      "explicacao": "A floresta produz boa parte da própria chuva pela evapotranspiração; abaixo de certa área contínua, esse ciclo deixa de se sustentar e o clima local seca por conta própria — daí a irreversibilidade. Em (b) está a leitura que o conceito de tipping point exclui: passado o limiar, retirar a pressão não devolve o sistema ao estado anterior. Em (a), a savanização em causa é induzida pelo desmatamento, não cíclica. Em (d), a mudança é da vegetação e do regime de chuvas, com a fauna sofrendo por consequência. Em (e), o limiar é ecológico e físico, não uma cláusula jurídica."
+    },
+    {
+      "id": "geografia-80",
+      "texto_apoio": "O Porto de Santos (SP) é o maior porto da América Latina em movimentação de cargas, respondendo por parcela expressiva das exportações brasileiras, incluindo commodities agrícolas como soja e açúcar.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "A centralidade do Porto de Santos na logística de exportação brasileira evidencia, sobretudo, um desafio estrutural da economia do país, relacionado a:",
+      "alternativas": {
+        "a": "A concentração do fluxo de exportação em poucos portos, que eleva custos e gera gargalos",
+        "b": "A ausência de outros portos de grande porte no litoral brasileiro fora de Santos",
+        "c": "A vantagem de concentrar a exportação em poucos terminais, o que reduziria o custo unitário",
+        "d": "A exclusividade de Santos na exportação de industrializados, sem commodities agrícolas",
+        "e": "Uma distribuição já equilibrada do fluxo entre os portos das cinco regiões brasileiras"
+      },
+      "resposta": "a",
+      "explicacao": "O problema não é Santos ser grande, e sim a malha depender demais dele: o produtor do Centro-Oeste roda mais de mil quilômetros de caminhão até o litoral, e o gargalo do corredor vira custo embutido em cada saca. Em (c) está o distrator mais interessante, porque a economia de escala portuária é real — o que a alternativa ignora é o custo do transporte interno, que cresce mais do que a escala economiza. Em (b), há outros portos grandes, como Paranaguá e Itaqui. Em (d), Santos movimenta sobretudo commodities. Em (e), o equilíbrio entre regiões é justamente o que não existe."
+    },
+    {
+      "id": "geografia-136",
+      "texto_apoio": "",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Além das favelas, outra forma de habitação precária historicamente presente em grandes cidades brasileiras, sobretudo em áreas centrais, é o cortiço. A principal diferença entre favela e cortiço está no fato de que o cortiço:",
+      "alternativas": {
+        "a": "É denominação usada apenas para construções rurais, e não para imóveis urbanos",
+        "b": "É forma de moradia adotada por famílias de alta renda em bairros nobres da cidade",
+        "c": "É uma edificação antiga subdividida em cômodos alugados, com áreas comuns partilhadas",
+        "d": "Está livre de problemas de superlotação e de infraestrutura, ao contrário da favela",
+        "e": "É o parcelamento de glebas periféricas vendidas em lotes sem registro urbanístico no município"
+      },
+      "resposta": "c",
+      "explicacao": "O cortiço não é construção nova nem ocupação de terreno vazio: é um imóvel já existente, quase sempre central e antigo, repartido em quartos alugados que dividem banheiro e cozinha — e é o aluguel, não a posse, que define a relação do morador com ele. Em (e) está o distrator mais forte, porque descreve o loteamento irregular, outra forma precária de moradia, só que periférica e baseada em venda. Em (a), o cortiço é fenômeno urbano e central. Em (b), o perfil é de baixa renda. Em (d), superlotação é traço característico, e não algo de que ele esteja livre."
+    },
+    {
+      "id": "geografia-147",
+      "texto_apoio": "",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Apesar de ser uma solução tecnicamente viável para a escassez de água doce, a dessalinização da água do mar ainda não é amplamente adotada em todas as regiões costeiras do mundo com problemas hídricos, principalmente porque:",
+      "alternativas": {
+        "a": "O descarte da salmoura exige transporte terrestre a longas distâncias, principal item do custo",
+        "b": "O processo demanda muita energia, o que eleva o custo diante das fontes de água doce",
+        "c": "A água dessalinizada não pode ser utilizada para irrigação agrícola de nenhuma cultura",
+        "d": "A tecnologia segue em fase experimental, sem aplicação comercial em operação no mundo",
+        "e": "Tratados de proteção aos oceanos vedam a instalação de usinas em países costeiros"
+      },
+      "resposta": "b",
+      "explicacao": "Dessalinizar é, no fundo, comprar água com energia: o custo por metro cúbico acompanha a tarifa elétrica, e por isso a técnica se difundiu onde a energia é barata, como no Golfo, e não onde a água é apenas escassa. Em (a) está o distrator mais fino — a salmoura é de fato um problema ambiental sério, mas costuma ser devolvida ao mar por emissário, e não transportada por terra, de modo que não é o item dominante do custo. Em (c) e (d), a irrigação com água dessalinizada já opera e a tecnologia é comercialmente madura. Em (e), não existe tratado com essa vedação."
+    },
+    {
+      "id": "geografia-159",
+      "texto_apoio": "Um mapa do IBGE mostra o percentual de domicílios ligados à rede geral de abastecimento de água, com desempenho mais baixo na região Norte.",
+      "formato": "lacunas",
+      "enunciado": "O padrão observado indica que a cobertura de saneamento no Brasil é ____________ , e o caso do Norte mostra que ela ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "desigual entre as regiões - acompanha a disponibilidade de água superficial de cada região",
+        "b": "homogênea entre as regiões - não decorre automaticamente da abundância de recursos hídricos",
+        "c": "determinada pelo clima - não decorre automaticamente da abundância de recursos hídricos",
+        "d": "desigual entre as regiões - é maior onde a densidade demográfica é menor",
+        "e": "desigual entre as regiões - não decorre automaticamente da abundância de recursos hídricos"
+      },
+      "resposta": "e",
+      "explicacao": "As duas lacunas precisam fechar juntas: o mapa mostra disparidade regional, e o Norte é o contraexemplo que separa água disponível de água encanada — a região com mais recurso hídrico do país tem a pior cobertura, porque o que falta é rede, não rio. Em (a), a primeira lacuna está correta e a segunda inverte o argumento, afirmando o que o caso do Norte desmente. Em (b), a cobertura não é homogênea, como o próprio mapa evidencia. Em (c), o clima não determina a cobertura, e sim o investimento. Em (d), a relação com densidade é oposta: o Norte é o menos denso e o menos atendido."
+    },
+    {
+      "id": "geografia-160",
+      "texto_apoio": "Um projeto saudita prevê erguer uma megacidade ultratecnológica em área desértica, com aeroportos, marinas, trens de alta velocidade e centros de negócios voltados a atrair capital internacional.",
+      "formato": "lacunas",
+      "enunciado": "O empreendimento é expressão de ____________ , e seu objetivo econômico central é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "uma reestruturação produtiva associada à globalização - coletivizar os meios de produção",
+        "b": "uma industrialização clássica de concentração fabril - reduzir a dependência do petróleo",
+        "c": "uma reestruturação produtiva associada à globalização - conter o crescimento urbano desordenado",
+        "d": "uma reestruturação produtiva associada à globalização - reduzir a dependência do petróleo",
+        "e": "uma retração dos investimentos estatais - reduzir a dependência do petróleo"
+      },
+      "resposta": "d",
+      "explicacao": "O projeto é um lance clássico de inserção competitiva na economia global — aeroporto, porto, trem e escritórios para atrair capital — a serviço de trocar a renda de um recurso finito por atividades diversificadas. Em (b) está o erro mais tentador: há investimento pesado, mas o alvo são serviços e tecnologia, e não a concentração fabril que caracterizou a industrialização clássica. Em (e), o Estado saudita é o financiador, e não um investidor em retração. Em (a), coletivizar meios de produção é o oposto do que se busca. Em (c), a cidade é erguida do zero no deserto, e não para conter expansão existente."
+    },
+    {
+      "id": "geografia-161",
+      "texto_apoio": "Em municípios de Porto Rico, microrredes solares mantêm casas e serviços funcionando durante os frequentes apagões provocados por furacões e por problemas de gestão do setor elétrico.",
+      "formato": "lacunas",
+      "enunciado": "A característica natural que favorece essa solução é ____________ , e a vantagem técnica da microrrede em relação ao sistema centralizado é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "a alta amplitude térmica anual - continuar operando de forma autônoma quando a rede falha",
+        "b": "a elevada radiação solar do clima tropical - eliminar a necessidade de manutenção periódica do sistema",
+        "c": "a elevada radiação solar do clima tropical - continuar operando de forma autônoma quando a rede falha",
+        "d": "a intensa atuação de massas polares - continuar operando de forma autônoma quando a rede falha",
+        "e": "a elevada radiação solar do clima tropical - dispensar o armazenamento da energia gerada"
+      },
+      "resposta": "c",
+      "explicacao": "As duas lacunas descrevem coisas independentes, e a questão exige acertar as duas: o recurso disponível é a radiação solar abundante da baixa latitude, e o ganho da microrrede é operar ilhada quando a rede principal cai. Em (a) e (d), a primeira lacuna descreve climas que não são o de Porto Rico — amplitude térmica alta e massas polares pertencem a latitudes médias e altas. Em (b), painéis exigem limpeza e manutenção como qualquer instalação. Em (e), é justamente a bateria que permite manter o fornecimento à noite e durante o apagão."
+    },
+    {
+      "id": "geografia-163",
+      "texto_apoio": "A Região Metropolitana de São Paulo passou, desde os anos 1980, a integrar um conjunto urbano de limites imprecisos que se estende por cerca de 200 km a partir da capital, articulando várias regiões metropolitanas.",
+      "formato": "lacunas",
+      "enunciado": "Essa configuração é designada como ____________ , e ela resulta sobretudo de ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "macrometrópole - retorno da indústria ao centro da capital",
+        "b": "macrometrópole - reestruturação econômica e intensificação dos fluxos regionais",
+        "c": "macrometrópole - crescimento vegetativo da população da capital",
+        "d": "conurbação simples - reestruturação econômica e intensificação dos fluxos regionais",
+        "e": "megalópole litorânea - reestruturação econômica e intensificação dos fluxos regionais"
+      },
+      "resposta": "b",
+      "explicacao": "O que articula esse conjunto não é a mancha urbana contínua, e sim o fluxo: a desconcentração industrial para o interior paulista e a integração por rodovias e serviços criaram uma rede de metrópoles que funciona junto — a macrometrópole. Em (d) está o distrator mais próximo: conurbação descreve duas manchas urbanas que se encostam, escala muito menor que a de 200 quilômetros articulando várias regiões metropolitanas. Em (e), megalópole é o termo usado para eixos como o do nordeste dos EUA, e o caso paulista não é litorâneo. Em (a) e (c), a indústria saiu do centro e o crescimento vegetativo desacelerou no período."
+    },
+    {
+      "id": "geografia-164",
+      "texto_apoio": "Um sistema agrícola caracteriza-se por grandes extensões cultivadas com um único produto, substituição intensiva de trabalho por máquinas e aplicação localizada de insumos, com alta produtividade por trabalhador.",
+      "formato": "lacunas",
+      "enunciado": "O sistema descrito é ____________ , e o traço que melhor o distingue da agricultura de subsistência é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "a agricultura empresarial - a rotação de culturas em pequenas parcelas de terra",
+        "b": "a rizicultura submersa asiática - a produção ser orientada pelo lucro e pela inserção em mercados",
+        "c": "a agricultura empresarial - o uso de mão de obra predominantemente familiar",
+        "d": "a agricultura empresarial - a produção ser orientada pelo lucro e pela inserção em mercados",
+        "e": "a plantation colonial - a produção ser orientada pelo lucro e pela inserção em mercados"
+      },
+      "resposta": "d",
+      "explicacao": "Monocultura extensa, mecanização e insumos de precisão compõem o retrato da agricultura empresarial, e o que a separa da subsistência é o destino da produção: mercado, não consumo próprio. Em (e) está o distrator mais instrutivo, porque a plantation também produz para o mercado — o que a distingue é ser colonial, voltada à exportação de um produto tropical e apoiada em trabalho compulsório, sem a mecanização descrita. Em (b), a rizicultura submersa é intensiva em trabalho, não em máquina. Em (a) e (c), rotação em pequenas parcelas e mão de obra familiar são traços da própria agricultura de subsistência."
+    },
+    {
+      "id": "geografia-167",
+      "texto_apoio": "O relevo brasileiro apresenta estruturas geológicas antigas, mas formas de relevo relativamente recentes, produzidas e continuamente refeitas por processos erosivos.",
+      "formato": "lacunas",
+      "enunciado": "A unidade de relevo de maior extensão no território nacional é ____________ , e a aparente contradição entre estruturas antigas e formas recentes explica-se porque ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "a Planície Litorânea - a erosão remodela continuamente a superfície de rochas antigas",
+        "b": "o conjunto dos planaltos - as rochas brasileiras se formaram em período geológico recente",
+        "c": "o conjunto dos planaltos - o território passou por intensa atividade tectônica no Quaternário",
+        "d": "o conjunto dos planaltos - a erosão remodela continuamente a superfície de rochas antigas",
+        "e": "a Planície Amazônica - a erosão remodela continuamente a superfície de rochas antigas"
+      },
+      "resposta": "d",
+      "explicacao": "Planaltos ocupam a maior parte do território, e a contradição é só aparente: a rocha é pré-cambriana, mas a forma que se vê é obra da erosão, que trabalha a superfície sem parar e a refaz em escala de tempo muito menor. Em (b) e (c) estão as duas explicações alternativas, ambas falsas para o caso brasileiro — as rochas do embasamento são das mais antigas do planeta, e o país está no meio de uma placa, sem tectonismo intenso recente. Em (a) e (e), as planícies existem e são pequenas diante dos planaltos: a Amazônica, que parece imensa no mapa, é sobretudo planalto rebaixado."
+    }
+  ]
+}

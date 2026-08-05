@@ -13,7 +13,7 @@
 // dado — descritas em MERGE_STRATEGY logo abaixo.
 
 import { doc, getDoc, setDoc, deleteDoc } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js";
-import { db } from "./firebase-init.js?v=7";
+import { db } from "./firebase-init.js?v=8";
 
 const META_KEY = "v2_syncMeta"; // { "<chave>": <ms da última escrita local> } — não sobe pra nuvem
 const PUSH_DEBOUNCE_MS = 2500;
@@ -48,8 +48,12 @@ const MERGE_STRATEGY = {
   vd_topicState: "maisProgresso",
 };
 
+// Tira o prefixo completo ("v2_dir_", "v2_med_" ou só "v2_") para achar a
+// estratégia de mesclagem em MERGE_STRATEGY, que é indexada pelo nome puro.
+// Sem tratar o prefixo de trilha aqui, TODAS as chaves cairiam na estratégia
+// padrão e a ofensiva voltaria a se perder entre aparelhos.
 function baseName(key) {
-  return key.replace(/^v2_/, "");
+  return key.replace(/^v2_(dir_|med_)?/, "");
 }
 
 function loadMeta() {
@@ -165,8 +169,69 @@ function friendlySyncError(err) {
 // prefixo "v2_" pra não mexer nos dados do v1. Na primeira entrada, copiamos
 // o progresso do v1 pro espaço do v2 — assim ninguém recomeça do zero — e o
 // v1 continua exatamente como estava, servindo de cópia de segurança.
+// ---------- Migração única para o namespace de trilha (2026-08) ----------
+
+// Antes das trilhas, todo o progresso do v2 vivia em "v2_vd_*" e era sempre de
+// Direito. Esta função renomeia essas chaves para "v2_dir_vd_*" e marca a
+// trilha como "direito", pra que quem já usava o app nem veja a tela de
+// escolha e continue exatamente no dia em que parou.
+//
+// DIFERENÇA CRÍTICA em relação a migrateFromV1(): lá o carimbo vira 1 de
+// propósito, porque o dado do v1 é velho. Aqui é o MESMO dado, com a MESMA
+// idade — o carimbo original tem que ser preservado. Carimbar com 1 faria o
+// progresso real perder para qualquer aparelho desatualizado; carimbar com
+// Date.now() faria o contrário. Os dois erros são silenciosos e destroem
+// progresso de verdade.
+//
+// As chaves "v2_vd_*" ficam onde estão, como cópia de segurança — mesma
+// decisão que foi tomada com as do v1.
+function migrarParaTrilha() {
+  const chaveTrilha = window.VD_KEYS.TRILHA;
+  if (localStorage.getItem(chaveTrilha) !== null) return false; // já migrou
+
+  const meta = loadMeta();
+  let copiou = 0;
+  window.VD_KEYS.BASES.forEach((base) => {
+    const antiga = "v2_" + base;      // v2_vd_answers
+    const nova = window.VD_KEYS.NS + base; // v2_dir_vd_answers
+    const valor = localStorage.getItem(antiga);
+    if (valor !== null && localStorage.getItem(nova) === null) {
+      localStorage.setItem(nova, valor);
+      meta[nova] = meta[antiga] || 1; // preserva a idade original
+      copiou++;
+    }
+  });
+
+  // Grava a trilha mesmo que não haja nada a copiar: uma conta nova precisa
+  // passar pela tela de escolha, e é a AUSÊNCIA desta chave que a dispara.
+  // Só marcamos "direito" automaticamente quando havia progresso antigo.
+  if (copiou > 0) {
+    localStorage.setItem(chaveTrilha, "direito");
+    meta[chaveTrilha] = Date.now();
+    saveMeta(meta);
+  }
+  return copiou > 0;
+}
+
 function migrateFromV1() {
-  const keys = window.VD_KEYS.SYNCABLE;
+  const chaveTrilha = window.VD_KEYS.TRILHA;
+
+  // TRAVA DE TRILHA. O v1 só existiu para Direito, então este resgate só faz
+  // sentido no espaço de Direito.
+  //
+  // Sem esta linha havia um bug destrutivo e nada óbvio: ao trocar para
+  // Medicina, o espaço "v2_med_" estaria legitimamente vazio, a checagem
+  // `jaTemV2` daria falso, e o progresso de DIREITO guardado no v1 seria
+  // copiado para dentro da trilha de Medicina — inventando um plano de
+  // Medicina já pela metade, feito de respostas de outro curso. O mesmo
+  // aconteceria com quem criasse a conta e escolhesse Medicina de cara.
+  const trilhaAtiva = (window.VD_TRILHA && window.VD_TRILHA.atual()) || "direito";
+  if (trilhaAtiva !== "direito") return false;
+
+  // Só as chaves de progresso. A chave da trilha entra em SYNCABLE mas NÃO
+  // participa desta cópia: ela não existe no v1, e baseName() a reduziria a
+  // "trilha", um nome que não é de ninguém.
+  const keys = window.VD_KEYS.SYNCABLE.filter((k) => k !== chaveTrilha);
   const jaTemV2 = keys.some((k) => localStorage.getItem(k) !== null);
   if (jaTemV2) return false;
 
@@ -185,7 +250,17 @@ function migrateFromV1() {
       copiou++;
     }
   });
-  if (copiou) saveMeta(meta);
+  if (copiou) {
+    // Quem vem do v1 estudava Direito — o v1 nunca teve outra trilha. Sem
+    // isto, essa pessoa cairia na tela de escolha com o plano já montado
+    // atrás, o que sugeriria que ela pode escolher Medicina e manter o
+    // progresso. Não pode: são espaços diferentes.
+    if (localStorage.getItem(chaveTrilha) === null) {
+      localStorage.setItem(chaveTrilha, "direito");
+      meta[chaveTrilha] = Date.now();
+    }
+    saveMeta(meta);
+  }
   return copiou > 0;
 }
 
@@ -278,7 +353,17 @@ async function start(user) {
   podeEscrever = false; // só libera depois de ler a nuvem com sucesso
   setStatus("saving", "Sincronizando…");
 
-  const migrou = migrateFromV1();
+  // ORDEM OBRIGATÓRIA: as duas migrações são locais e têm que acontecer ANTES
+  // de ler a nuvem, para que a mesclagem já veja as chaves com o nome novo.
+  // Rodar qualquer uma delas depois do pull faria o dado migrado nascer sem
+  // par do outro lado e sobrescrever o que veio da conta.
+  //
+  // migrarParaTrilha() primeiro: ela renomeia v2_vd_* -> v2_dir_vd_*. Se
+  // migrateFromV1() rodasse antes, veria o espaço da trilha vazio e copiaria o
+  // v1 por cima de um progresso do v2 que só ainda não tinha sido renomeado.
+  const migrouTrilha = migrarParaTrilha();
+  const migrouV1 = migrateFromV1();
+  const migrou = migrouTrilha || migrouV1;
   const resultado = await pullAndMerge();
 
   if (!resultado.ok) {
@@ -302,7 +387,13 @@ async function start(user) {
 }
 
 function markDirty(key) {
-  if (!key || key.indexOf(window.VD_KEYS.NS) !== 0) return;
+  // Aceita as chaves da trilha ativa (v2_dir_* / v2_med_*) e também a chave da
+  // trilha em si, que vive fora do namespace justamente por ser quem decide
+  // qual namespace usar.
+  if (!key) return;
+  const daTrilhaAtiva = key.indexOf(window.VD_KEYS.NS) === 0;
+  const ehChaveDeTrilha = key === window.VD_KEYS.TRILHA;
+  if (!daTrilhaAtiva && !ehChaveDeTrilha) return;
   const meta = loadMeta();
   meta[key] = Date.now();
   saveMeta(meta);
@@ -371,4 +462,13 @@ window.VD_SYNC = {
   },
   // exposto pra teste: permite verificar a mesclagem sem tocar na rede
   _merge: mergeValue,
+  // exposto pra teste: a migração para o namespace de trilha é a operação de
+  // maior risco do app (renomeia todas as chaves de progresso de quem já
+  // usava). Poder rodá-la isolada, sem login e sem rede, é o que torna
+  // possível verificar que ela preserva o carimbo original em vez de
+  // envelhecer ou rejuvenescer o progresso.
+  _migrarParaTrilha: migrarParaTrilha,
+  // exposto pra teste: verifica a trava que impede o progresso de Direito
+  // guardado no v1 de ser copiado para dentro da trilha de Medicina.
+  _migrarDoV1: migrateFromV1,
 };

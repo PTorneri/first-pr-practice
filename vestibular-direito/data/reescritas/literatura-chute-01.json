@@ -1,0 +1,233 @@
+{
+  "subtopic": "literatura",
+  "questoes": [
+    {
+      "id": "literatura-05",
+      "textoId": "lit-c1-cortico",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A data de publicação do romance situa-o",
+      "alternativas": {
+        "a": "na década seguinte à Guerra do Paraguai, ainda sob o Segundo Reinado",
+        "b": "dois anos antes da Abolição e um ano antes da Proclamação da República",
+        "c": "entre a Lei do Ventre Livre e a Lei dos Sexagenários, no auge do debate abolicionista",
+        "d": "dois anos depois da Abolição e um ano depois da Proclamação da República",
+        "e": "já sob a República Velha consolidada, cerca de três décadas depois da Abolição"
+      },
+      "resposta": "d",
+      "explicacao": "A primeira frase do texto data a publicação em 1890, e a posição importa para a leitura: o romance encena a entrega de uma mulher negra a quem a reclamava como escrava dois anos depois de a escravidão ter sido abolida. Em (b) a relação está invertida — as mesmas duas datas, na ordem errada, o que colocaria o livro em 1886. Em (a), a década seguinte à Guerra do Paraguai (encerrada em 1870) é a de 1870, ainda Segundo Reinado, mas o romance é posterior à queda da monarquia. Em (c), a Lei do Ventre Livre (1871) e a dos Sexagenários (1885) são ambas anteriores à Abolição, e o livro vem depois dela. Em (e), três décadas depois de 1888 seria 1918, já na República Velha."
+    },
+    {
+      "id": "literatura-24",
+      "textoId": "lit-c6-modernismo",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A escolha da antropofagia como emblema é polêmica por construção porque",
+      "alternativas": {
+        "a": "propõe devorar a cultura estrangeira, o que na prática repõe a imitação do modelo europeu que o movimento combatia",
+        "b": "recorre a um ritual indígena sem que o Modernismo tivesse interesse real pela cultura originária",
+        "c": "desloca o marco do movimento de 1922 para 1928, esvaziando a Semana de Arte Moderna",
+        "d": "sustenta ao mesmo tempo a recusa do nacionalismo fechado e a do colonialismo cultural, posições incompatíveis entre si",
+        "e": "adota como emblema nacional a prática que a colonização usou para chamar o indígena de bárbaro"
+      },
+      "resposta": "e",
+      "explicacao": "O terceiro parágrafo aponta a inversão e o último a explicita: o manifesto converte em programa aquilo que a tradição tratava como acusação. Em (a), devorar é o oposto de copiar — o texto define o gesto como digerir e devolver transformado, não como imitar. Em (b), o ritual é mobilizado como metáfora cultural, e o interesse pela cultura originária é justamente o que sustenta a escolha. Em (c), a data de 1922 permanece como marco da Semana; 1928 é a do manifesto, e uma coisa não anula a outra. Em (d), as duas recusas não são incompatíveis: o texto mostra que a antropofagia responde às duas ao mesmo tempo, e é essa dupla resposta que a define."
+    },
+    {
+      "id": "literatura-30",
+      "textoId": "lit-c8-ateneu",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A data de publicação do romance é significativa porque",
+      "alternativas": {
+        "a": "o situa no mesmo ano da Proclamação da República, cujo ideário o internato já encenava",
+        "b": "o inscreve no auge do Naturalismo, escola a que o romance adere sem reservas",
+        "c": "antecede em um ano a Abolição, o que explica a ausência de escravizados no internato",
+        "d": "o afasta do Realismo, então em declínio, e o aproxima da geração simbolista que se formava naqueles anos",
+        "e": "o coloca no ano da Abolição e às vésperas da República, quando a elite retratada se reorganizava"
+      },
+      "resposta": "e",
+      "explicacao": "O último parágrafo faz essa ligação: publicado em 1888 e a um ano da Proclamação, o romance retrata a formação da elite brasileira exatamente quando essa elite se reorganizava. Em (a), a Proclamação é de 1889, um ano depois. Em (c), a inversão troca o ano da Abolição pelo anterior a ela. Em (b) e (d), o problema é de escola: 1888 fica no período realista-naturalista, e o Simbolismo brasileiro só se firma a partir de 1893 — além disso, o romance não adere ao Naturalismo sem reservas, já que a análise do internato é mais moral e social que determinista."
+    },
+    {
+      "id": "literatura-87",
+      "texto_apoio": "Boa parte da ficção angolana e moçambicana produzida após as independências, alcançadas em 1975, trata da guerra, da reconstrução nacional e da distância entre as promessas da libertação e a vida cotidiana que se seguiu.",
+      "formato": "direta",
+      "enunciado": "Esse conjunto temático caracteriza uma literatura que",
+      "alternativas": {
+        "a": "rompe com a geração da luta armada e recusa à literatura qualquer função política",
+        "b": "examina criticamente o projeto nacional que ajudou a construir, sem defender o retorno colonial",
+        "c": "transfere ao romance a função de documentar a guerra, em detrimento da elaboração formal que marcara a geração anterior",
+        "d": "celebra a independência conquistada e adia para depois a avaliação de seus resultados",
+        "e": "substitui o tema nacional pelo cosmopolitismo, já que a nação deixara de ser uma questão em aberto"
+      },
+      "resposta": "b",
+      "explicacao": "A crítica ao que veio depois da independência não é nostalgia do colonialismo — é cobrança das promessas feitas, e sustentar as duas coisas ao mesmo tempo é o que dá a essa literatura sua posição difícil. Em (a), a crítica ao projeto nacional é ela própria um gesto político, não uma recusa da política. Em (d), o enunciado diz o contrário: a avaliação dos resultados é justamente o tema. Em (e), a nação segue sendo a questão central — é o balanço dela que ocupa os livros. Em (c), o registro da guerra convive com a invenção formal, e não a substitui."
+    },
+    {
+      "id": "literatura-89",
+      "texto_apoio": "Um poema de autor africano de língua portuguesa reivindica a identidade negra e africana usando a língua do colonizador, e faz dessa escolha um tema explícito do próprio texto.",
+      "formato": "direta",
+      "enunciado": "A tensão produzida por essa escolha consiste em",
+      "alternativas": {
+        "a": "denunciar a colonização por meio de uma língua que o colonizado domina melhor que o colonizador",
+        "b": "recusar as línguas locais por julgá-las insuficientes para a expressão poética moderna",
+        "c": "demonstrar que a língua portuguesa se tornou neutra depois das independências, desvinculada de quem a impôs",
+        "d": "reservar o poema a um público europeu, o único capaz de reconhecer a referência colonial",
+        "e": "afirmar uma identidade no idioma imposto por quem a negou, fazendo da contradição matéria do poema"
+      },
+      "resposta": "e",
+      "explicacao": "A contradição não é resolvida nem escondida: ela vira assunto, e o poema realiza e comenta o gesto ao mesmo tempo. Em (c), dizer que o vínculo se desfez desativa a tensão que o poema faz questão de manter viva. Em (b), nada no enunciado indica juízo sobre as línguas locais; a escolha é tematizada, não justificada por insuficiência. Em (a), o eixo é a identidade reivindicada, não uma disputa de proficiência. Em (d), o público implicado é primeiro o próprio, que partilha a língua imposta — supor um leitor europeu exclusivo inverte o endereçamento."
+    },
+    {
+      "id": "literatura-92",
+      "texto_apoio": "Em Vidas Secas, um dos capítulos é narrado da perspectiva da cadela Baleia, e sua morte recebe tratamento tão detido quanto o dado às personagens humanas.",
+      "formato": "direta",
+      "enunciado": "Essa escolha narrativa produz o efeito de",
+      "alternativas": {
+        "a": "introduzir uma pausa lírica que suspende por um capítulo o realismo do romance",
+        "b": "atribuir à cadela uma consciência de si equivalente à humana, invertendo a hierarquia entre elas",
+        "c": "deslocar o foco para o animal a fim de poupar o leitor do sofrimento das personagens humanas",
+        "d": "aproximar humanos e animais numa mesma condição de precariedade, sem humanizar o animal",
+        "e": "demonstrar que o narrador domina igualmente o discurso indireto livre de humanos e de animais"
+      },
+      "resposta": "d",
+      "explicacao": "A equivalência de tratamento não transforma Baleia em gente nem os retirantes em bichos: coloca todos sob a mesma escassez, e é isso que torna o capítulo devastador sem nenhum comentário do narrador. Em (b) está a distinção que a questão cobra: igualar a condição não é igualar a consciência, e o capítulo evita justamente esse passo. Em (a), o capítulo não suspende o realismo — o estende ao animal. Em (c), a cena intensifica o sofrimento em vez de poupar o leitor dele. Em (e), a proeza técnica existe, mas descreve o meio, não o efeito que o enunciado pede."
+    },
+    {
+      "id": "literatura-93",
+      "texto_apoio": "Em Vidas Secas, as personagens têm vocabulário reduzido, e o narrador frequentemente descreve pensamentos que elas não conseguiriam formular em palavras.",
+      "formato": "direta",
+      "enunciado": "Essa relação entre narrador e personagens indica que",
+      "alternativas": {
+        "a": "o discurso indireto livre apaga a distância entre narrador e personagem, igualando os dois registros",
+        "b": "o narrador contradiz a caracterização das personagens, comprometendo a verossimilhança do romance",
+        "c": "os pensamentos atribuídos às personagens são projeções do narrador, sem correspondência no que sentem",
+        "d": "a pobreza de vocabulário é recurso de estilo, e não traço das personagens, que dominam a norma culta",
+        "e": "o narrador empresta às personagens a articulação que lhes falta, dando a ver o que não sabem dizer"
+      },
+      "resposta": "e",
+      "explicacao": "Há um desnível deliberado entre o que as personagens sentem e o que conseguem dizer, e o narrador ocupa exatamente essa lacuna: não é falha de verossimilhança, é o modo de mostrar que a pobreza também é pobreza de palavra. Em (a) está o erro mais tentador: o discurso indireto livre aproxima os registros, mas aqui a distância é preservada de propósito, e é dela que vem o efeito. Em (c), os pensamentos são das personagens — o que é do narrador é só a forma de enunciá-los. Em (b), a verossimilhança não é ferida, porque o romance nunca atribui a fala elaborada às personagens. Em (d), o vocabulário reduzido caracteriza as personagens, e não há indício de norma culta dissimulada."
+    },
+    {
+      "id": "literatura-97",
+      "texto_apoio": "Comparam-se dois momentos do Modernismo brasileiro: no primeiro, predominam o manifesto, a paródia e o escândalo público; no segundo, a investigação social e a densidade psicológica em romances e poemas.",
+      "formato": "direta",
+      "enunciado": "A diferença entre os dois momentos pode ser explicada porque",
+      "alternativas": {
+        "a": "a primeira fase precisou romper com a estética anterior, e a seguinte construiu com os meios já conquistados",
+        "b": "a segunda fase reagiu ao experimentalismo da primeira, retomando o verso metrificado e o vocabulário seleto",
+        "c": "as duas fases responderam a programas distintos, sem que a segunda dependesse do terreno aberto pela primeira",
+        "d": "a mudança decorre do deslocamento geográfico do movimento de São Paulo para o Nordeste, sem alteração de projeto",
+        "e": "a primeira fase concentrou-se na prosa e a segunda na poesia, invertendo o gênero dominante do período"
+      },
+      "resposta": "a",
+      "explicacao": "Manifesto e escândalo servem para abrir espaço; uma vez aberto, a energia se desloca para o que construir nele. Em (c) está a alternativa que mais engana, porque descreve corretamente a diferença de programa e erra só na conclusão: a segunda fase pôde ser o que foi porque a ruptura já estava feita. Em (b), a segunda geração não restaura métrica fixa nem vocabulário parnasiano — o que muda é o objeto, não o retorno à norma anterior. Em (d), o deslocamento para o Nordeste é real na prosa de 1930, mas seria efeito, não causa, e o projeto de fato se altera. Em (e), a inversão de gêneros não se sustenta: há poesia decisiva na primeira fase e romance decisivo na segunda."
+    },
+    {
+      "id": "literatura-115",
+      "texto_apoio": "Em Memórias de um sargento de milícias, cenas de conflito doméstico e de violência física são narradas em tom leve, com atenção ao ridículo dos gestos e sem que o narrador se detenha no sofrimento das vítimas.",
+      "formato": "direta",
+      "enunciado": "Esse tratamento produz no leitor contemporâneo",
+      "alternativas": {
+        "a": "um desconforto que expõe a distância entre o cômico de então e o que hoje se nomeia violência",
+        "b": "a impressão de que o narrador condena os episódios pelo próprio exagero com que os descreve",
+        "c": "a certeza de que tais cenas eram raras, já que o tom leve indicaria excepcionalidade",
+        "d": "a percepção de que o romance antecipa a denúncia da violência doméstica como problema público",
+        "e": "uma adesão ao ponto de vista do narrador, partilhada pelo leitor de hoje sem atrito"
+      },
+      "resposta": "a",
+      "explicacao": "O riso do narrador não é o nosso, e é aí que a leitura fica interessante: percebe-se historicamente o que uma época tratava como episódio engraçado. Em (d), ler o livro como denúncia projeta sobre ele uma intenção que não tem — o incômodo é do leitor de hoje, não um propósito do texto. Em (b), a ironia do narrador incide sobre o ridículo dos gestos, não sobre a violência, e tomar exagero por condenação é atribuir-lhe uma posição moral que ele evita. Em (c), a leveza do tom indica normalização, e não raridade. Em (e), a adesão sem atrito é justamente o que não acontece."
+    },
+    {
+      "id": "literatura-116",
+      "texto_apoio": "Antonio Candido observa que, em Memórias de um sargento de milícias, quase não aparecem escravizados em primeiro plano, embora a ação transcorra numa cidade escravista.",
+      "formato": "direta",
+      "enunciado": "Essa ausência é significativa porque",
+      "alternativas": {
+        "a": "confirma que o folhetim, por ser gênero de entretenimento, evitava temas capazes de desagradar ao assinante",
+        "b": "indica que a escravidão urbana era pouco visível no Rio de Janeiro da primeira metade do século",
+        "c": "resulta da opção por um narrador que só registra aquilo que a personagem principal poderia ter visto",
+        "d": "revela o foco na camada dos homens livres pobres, que se define por contraste com os escravizados",
+        "e": "mostra que o autor situou a ação num período anterior à consolidação do tráfico atlântico"
+      },
+      "resposta": "d",
+      "explicacao": "O que o romance não mostra também informa: o foco é a camada intermediária, livre e pobre, cuja identidade se define por contraste com quem está abaixo — a ausência não nega a escravidão, delimita o recorte. Em (b), a escravidão urbana era altamente visível no Rio da época, e é essa visibilidade que torna a omissão significativa. Em (e), a ação transcorre no início do século XIX, com o tráfico em pleno funcionamento. Em (a), o argumento do folhetim explicaria uma omissão qualquer, mas não por que o romance escolhe precisamente essa camada. Em (c), o narrador do livro é onisciente e circula à vontade pela cidade."
+    },
+    {
+      "id": "literatura-125",
+      "texto_apoio": "Um poema retoma versos reconhecíveis de um poema anterior, alterando-lhes o contexto, e o efeito pretendido depende de o leitor identificar a fonte.",
+      "formato": "direta",
+      "enunciado": "Esse procedimento denomina-se",
+      "alternativas": {
+        "a": "paródia, retomada de um texto anterior com inversão cômica ou crítica do sentido original",
+        "b": "intertextualidade, diálogo deliberado com texto anterior cujo reconhecimento produz o sentido",
+        "c": "plágio, apropriação de texto alheio que depende de a origem não ser percebida pelo leitor",
+        "d": "epígrafe, citação destacada na abertura que anuncia um tema sem integrar o corpo do texto",
+        "e": "paráfrase, reescrita de um texto em outras palavras, com manutenção integral do sentido original"
+      },
+      "resposta": "b",
+      "explicacao": "A retomada é assumida e conta com o reconhecimento do leitor: sem ele, o efeito não acontece. Em (a) está o distrator mais próximo — a paródia é uma espécie de intertextualidade, e seria a resposta se houvesse inversão cômica ou crítica; o enunciado fala apenas em mudança de contexto, o que mantém o caso no gênero, não na espécie. Em (c), o plágio é o caso inverso: depende de a origem não ser percebida. Em (d), a epígrafe fica fora do corpo do texto, e aqui os versos são incorporados. Em (e), a paráfrase preserva o sentido em outras palavras, enquanto aqui as palavras é que se preservam, deslocadas para outro contexto."
+    },
+    {
+      "id": "literatura-127",
+      "texto_apoio": "Num poema, a mesma palavra encerra vários versos consecutivos, sempre com sentido ligeiramente deslocado em relação à ocorrência anterior.",
+      "formato": "direta",
+      "enunciado": "O efeito produzido por essa repetição com deslocamento é",
+      "alternativas": {
+        "a": "reforçar por insistência um sentido único, fixando-o na memória do leitor",
+        "b": "expor que a mesma palavra carrega sentidos distintos, e fazer disso a matéria do poema",
+        "c": "construir um refrão que organiza o poema em estrofes de igual medida",
+        "d": "marcar a hesitação do eu lírico, que não encontra a palavra exata e volta sempre à mesma",
+        "e": "produzir uma cadeia sonora em que o sentido cede lugar inteiramente à musicalidade do verso"
+      },
+      "resposta": "b",
+      "explicacao": "A palavra volta e não é mais a mesma: cada retorno a desloca, e o poema mostra que o sentido não está fixo na palavra, e sim no lugar que ela ocupa. Em (a) está o contrário do que ocorre: a repetição aqui desestabiliza em vez de fixar. Em (d), a hesitação suporia uma palavra certa a ser encontrada, quando o procedimento explora a variação como resultado buscado. Em (c), o refrão repete o mesmo sentido em posição regular, e o enunciado registra deslocamento a cada ocorrência. Em (e), o som participa do efeito, mas o enunciado localiza a mudança no sentido, não na sonoridade."
+    },
+    {
+      "id": "literatura-129",
+      "texto_apoio": "Compara-se um poema de forma fixa e metro regular com outro em verso livre, ambos tratando do mesmo tema.",
+      "formato": "direta",
+      "enunciado": "A escolha entre uma forma e outra é significativa porque",
+      "alternativas": {
+        "a": "a forma fixa impõe ao poeta uma disciplina que o verso livre dispensa, o que a torna superior",
+        "b": "o verso livre nasce da recusa da métrica e por isso só comporta temas de ruptura",
+        "c": "a forma escolhida participa da construção do sentido, e a regularidade ou a liberdade já dizem algo",
+        "d": "a forma é escolha posterior ao conteúdo, ajustada ao que o poema já tinha a dizer",
+        "e": "a diferença entre as duas é histórica e não estética: cada época dispõe de um repertório único de formas"
+      },
+      "resposta": "c",
+      "explicacao": "Metro rigoroso e verso livre não são embalagens intercambiáveis para um mesmo conteúdo: cada um impõe um andamento e uma relação com a tradição. Em (d) está a inversão que mais aparece em prova — supor que a forma se aplica depois, a um sentido já pronto, é exatamente o que a análise literária existe para evitar. Em (e), o repertório de uma época é amplo e o poeta escolhe dentro dele, tanto que o enunciado apresenta as duas formas convivendo. Em (a), disciplina não estabelece hierarquia de valor. Em (b), o verso livre trata de qualquer tema, inclusive dos mais tradicionais."
+    },
+    {
+      "id": "literatura-137",
+      "texto_apoio": "A crítica literária brasileira consolidou-se como disciplina universitária a partir de meados do século XX, produzindo interpretações que passaram a orientar a leitura escolar do cânone nacional.",
+      "formato": "direta",
+      "enunciado": "Reconhecer que uma interpretação consagrada é fruto de trabalho crítico datado permite ao leitor",
+      "alternativas": {
+        "a": "substituir a leitura consagrada por outra igualmente definitiva, formada em contexto histórico mais recente",
+        "b": "concluir que toda interpretação vale o mesmo, já que todas são igualmente datadas",
+        "c": "separar a crítica universitária da leitura escolar, que independeria de interpretação prévia",
+        "d": "reconstituir a intenção original do autor, que a crítica posterior teria encoberto",
+        "e": "usar a interpretação como ferramenta que ilumina certos aspectos da obra e deixa outros na sombra"
+      },
+      "resposta": "e",
+      "explicacao": "Uma interpretação forte não é nem dogma nem opinião descartável: é instrumento com alcance e limite, e saber de onde veio permite usá-la sem confundir o comentário com a obra. Em (b) está o erro simétrico ao dogmatismo — do fato de toda leitura ser datada não decorre que todas valham o mesmo, já que umas dão conta de mais do texto que outras. Em (a), trocar um dogma por outro mantém o problema. Em (d), a datação da crítica não devolve acesso direto à intenção do autor, que é outro problema. Em (c), a leitura escolar é precisamente onde as interpretações consagradas circulam."
+    },
+    {
+      "id": "literatura-99",
+      "texto_apoio": "Compara-se o projeto de identidade nacional do Romantismo brasileiro com o do Modernismo de 1922.",
+      "formato": "direta",
+      "enunciado": "A diferença essencial entre os dois projetos está em que",
+      "alternativas": {
+        "a": "o Romantismo idealiza uma origem nobre a ser exaltada, e o Modernismo toma a mistura como material",
+        "b": "o Romantismo recorre ao indígena como símbolo, e o Modernismo o abandona em favor do tema urbano",
+        "c": "o Romantismo escreve para o leitor europeu, e o Modernismo, para um público brasileiro recém-alfabetizado",
+        "d": "o Romantismo trata a identidade como problema em aberto, e o Modernismo a considera já resolvida",
+        "e": "o Romantismo trabalha com formas herdadas e o Modernismo apenas transpõe o mesmo projeto para o verso livre"
+      },
+      "resposta": "a",
+      "explicacao": "Os dois se ocupam da mesma pergunta e respondem de modos opostos: um funda um mito de origem elevado, o outro trabalha com o que existe, misturado e contraditório. Em (b), o Modernismo não abandona o indígena — reelabora-o, e a antropofagia é a prova disso. Em (d), a relação está invertida: é o Romantismo que oferece uma resposta fechada, e o Modernismo que mantém a questão em disputa. Em (e), reduzir a diferença à forma apaga o que muda de fato, que é a concepção de origem. Em (c), ambos escrevem para um público brasileiro letrado, e o recorte de leitor não separa os dois projetos."
+    }
+  ]
+}

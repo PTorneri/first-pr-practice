@@ -20,13 +20,32 @@
 // (dependem das respostas do usuário, que moram no localStorage);
 // schedule.js só sabe consumir um "cycleWeightsOverride" já pronto.
 
-const TOTAL_DAYS = 90;
-const TOPICS_PER_DAY = 2;
-const MIN_EXERCISES_PER_TOPIC = 12;
-const MAX_EXERCISES_PER_TOPIC = 15;
-const SIMULADO_TOTAL_QUESTIONS = 45;
-const SIMULADO_MIN_PER_TOPIC = 1;
-const SCHEDULE_SEED = 20260101;
+// Parâmetros do plano. Desde 2026-08 vêm da trilha ativa (ver trilhas.js), e
+// não são mais fixos: o simulado de Direito tem 45 questões e o de Medicina
+// tem 50, porque o menor caderno objetivo entre as sete bancas de Medicina
+// (Einstein e PUC-SP) tem 50.
+//
+// O fallback existe para o caso de este arquivo ser carregado sem trilhas.js
+// — hoje só acontece nos testes.
+const PLANO_CFG = (function () {
+  const padrao = {
+    totalDias: 90, frentesPorDia: 2, exerciciosMin: 12, exerciciosMax: 15,
+    simuladoQtd: 45, simuladoMinPorFrente: 1, seed: 20260101,
+  };
+  const cfg = window.VD_TRILHA && window.VD_TRILHA.config();
+  return cfg && cfg.plano ? cfg.plano : padrao;
+})();
+
+const TOTAL_DAYS = PLANO_CFG.totalDias;
+const TOPICS_PER_DAY = PLANO_CFG.frentesPorDia;
+const MIN_EXERCISES_PER_TOPIC = PLANO_CFG.exerciciosMin;
+const MAX_EXERCISES_PER_TOPIC = PLANO_CFG.exerciciosMax;
+const SIMULADO_TOTAL_QUESTIONS = PLANO_CFG.simuladoQtd;
+const SIMULADO_MIN_PER_TOPIC = PLANO_CFG.simuladoMinPorFrente;
+// Semente diferente por trilha: com a mesma, Direito e Medicina produziriam a
+// mesma ordem de frentes ao longo dos 90 dias, o que é inofensivo mas denuncia
+// que o plano é um molde só.
+const SCHEDULE_SEED = PLANO_CFG.seed;
 
 function mulberry32(seed) {
   return function () {

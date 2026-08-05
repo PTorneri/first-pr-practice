@@ -261,14 +261,14 @@
                          "tipoItem":  "inferencia",
                          "enunciado":  "The text most likely supports which of the following claims?",
                          "alternativas":  {
-                                              "a":  "A sentence is more likely to be misattributed to a figure the public already admires than to an obscure one.",
-                                              "b":  "Most false quotations are created deliberately by people who profit from spreading them.",
-                                              "c":  "Readers who share a false quotation are usually aware that its source has never been verified.",
-                                              "d":  "Corrections published by researchers normally put an end to a false attribution.",
-                                              "e":  "The sentences that circulate falsely tend to contradict what their audience already believes."
+                                              "a":  "A sentence is likelier to be misattributed to an admired figure than to an obscure one.",
+                                              "b":  "Most false quotations are created deliberately by people who profit from them.",
+                                              "c":  "Readers who share a false quotation usually know its source was never verified.",
+                                              "d":  "Corrections published by researchers normally end a false attribution for good.",
+                                              "e":  "The sentences that circulate falsely tend to contradict the ideas their audience already holds."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto diz que os nomes que atraem citações falsas quase nunca são obscuros e que as frases atribuídas a eles costumam expressar ideias que o público já sustenta. A opção sobre lucro contraria o terceiro parágrafo, que afirma não haver indústria nem proveito na falsificação; a opção sobre leitores conscientes contraria a explicação de que ninguém gasta os quatro minutos da verificação; a opção sobre correções contraria o caso do bibliotecário, em que a versão falsa voltou depois de uma semana; e a opção sobre contradizer o público inverte exatamente o que o primeiro parágrafo observa."
+                         "explicacao":  "O primeiro parágrafo é explícito: os nomes que atraem citações falsas quase nunca são obscuros, e pertencem a autores em quem o público já confia. Em (e) está a inversão exata da segunda metade da mesma frase, que diz que as sentenças exprimem ideias que o público já sustenta. Em (b), o terceiro parágrafo afirma que quase ninguém lucra com o engano e que não há indústria de falsificação. Em (c), o mesmo parágrafo diz que verificar levaria quatro minutos que ninguém tem. Em (d), a correção circulou por uma semana e a versão falsa voltou."
                      },
                      {
                          "id":  "ingles-02",
@@ -279,13 +279,13 @@
                          "enunciado":  "In the last paragraph, \u0027the phenomenon\u0027 most likely refers to",
                          "alternativas":  {
                                               "a":  "the practice of tracing a quotation back to the wrong source on purpose.",
-                                              "b":  "the habit of assigning appealing sentences to admired figures without checking them.",
+                                              "b":  "the habit of assigning appealing sentences to admired figures unchecked.",
                                               "c":  "the reluctance of historians to comment on material that circulates online.",
                                               "d":  "the disappearance of obscure writers from public memory over time.",
                                               "e":  "the commercial market that has grown around invented quotations."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O termo retoma o que os três parágrafos anteriores descrevem: frases agradáveis atribuídas a figuras admiradas sem verificação — o que a historiadora chama de \u0027erro afetuoso\u0027. Rastrear a origem é justamente o oposto do fenômeno, e o texto trata disso como correção, não como o problema; a relutância de historiadores não aparece em lugar nenhum; o esquecimento de autores obscuros é mencionado só de passagem, como consequência, não como o objeto da análise; e o mercado comercial é explicitamente negado, já que o texto afirma não haver lucro na prática."
+                         "explicacao":  "A expressão retoma tudo o que o texto vinha descrevendo: sentenças atraentes atribuídas a nomes admirados por gente que não verifica, o que a historiadora chama de erro afetuoso. Em (a) está a inversão do que o texto afirma — o erro é feito por apreço, não de propósito. Em (e), o terceiro parágrafo diz que não há indústria nem lucro na falsificação de citações. Em (d), o esquecimento da fonte original é etapa do processo, não o fenômeno que ela analisa. Em (c), a historiadora comenta justamente o material que circula, e não se recusa a fazê-lo."
                      },
                      {
                          "id":  "ingles-03",
@@ -312,14 +312,14 @@
                          "tipoItem":  "inferencia",
                          "enunciado":  "The text most likely suggests that, before the currency was allowed to float,",
                          "alternativas":  {
-                                              "a":  "the cost of an overvalued currency was borne by no one in particular.",
-                                              "b":  "imported goods were unavailable to households at any price.",
-                                              "c":  "the official exchange rate was kept secret from private traders.",
-                                              "d":  "a transfer of wealth was already taking place, with victims who were harder to see.",
-                                              "e":  "central banks in these countries were already formally independent."
+                                              "a":  "the cost of an overvalued currency was borne by nobody in particular at the time.",
+                                              "b":  "imported goods were unavailable to households at almost any price.",
+                                              "c":  "the official exchange rate was kept secret from most private traders.",
+                                              "d":  "a transfer of wealth was already taking place, with victims harder to see.",
+                                              "e":  "the central banks of these countries were already formally independent."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto afirma que a diferença entre a taxa oficial e a paralela funcionava como subsídio a quem tinha acesso ao banco central e que essa transferência acontecia \u0027num balcão, em silêncio, ao longo de anos\u0027. A ideia de que ninguém arcava com o custo contraria diretamente essa passagem; a indisponibilidade total de importados não é afirmada, já que havia mercado paralelo funcionando; o próprio texto diz que a diferença não era segredo; e a independência formal do banco central aparece como condição imposta depois pelos credores, não como situação anterior."
+                         "explicacao":  "O segundo parágrafo diz que a transferência anterior de riqueza para os bem relacionados aconteceu num balcão, em silêncio, ao longo de anos, e que o aumento de preços já estava sendo pago por gente sem posição para reclamar. Em (a) está a leitura que o texto existe para desmentir: o custo tinha quem o pagasse, apenas não era visível. Em (c), o primeiro parágrafo afirma que a diferença de câmbio não era segredo. Em (e), a independência formal do banco central aparece como condição imposta depois, junto aos empréstimos. Em (b), havia importação, a preços do mercado paralelo."
                      },
                      {
                          "id":  "ingles-05",
@@ -332,11 +332,11 @@
                                               "a":  "They fail whenever the correction to the exchange rate is a large one.",
                                               "b":  "The removal of fuel subsidies is what determines whether a programme survives.",
                                               "c":  "Cash transfers work only in countries that are holding an election.",
-                                              "d":  "An independent central bank makes devaluation unnecessary.",
-                                              "e":  "A reform lasts longer when the population is given something it can identify in return."
+                                              "d":  "An independent central bank makes a devaluation unnecessary.",
+                                              "e":  "A reform lasts longer when the population is shown something in return."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O terceiro parágrafo diz textualmente que a variável decisiva não é o tamanho da correção, mas se a população recebe algo em troca — e cita transferências de renda como o que separou as reformas que sobreviveram das que a rua reverteu. Isso já descarta a opção sobre o tamanho da correção, negada na mesma frase. A retirada dos subsídios é listada como condição dos credores, não como o fator de sobrevivência; nada associa transferências a anos eleitorais, que aparecem no texto por outro motivo, o do momento da desvalorização; e a independência do banco central é uma exigência que acompanha a desvalorização, não um substituto dela."
+                         "explicacao":  "O terceiro parágrafo é explícito: a variável que parece importar não é o tamanho da correção, e sim se a população pode receber algo em troca — onde houve transferência de renda, a reforma sobreviveu. Em (a) está exatamente o que essa frase descarta, o tamanho da correção. Em (b), a retirada dos subsídios ao combustível é condição imposta pelos credores, e não o que decide a sobrevivência do programa. Em (d), a independência do banco central acompanha a desvalorização, não a substitui. Em (c), o ano eleitoral aparece no último parágrafo como questão de oportunidade, sem relação com as transferências."
                      },
                      {
                          "id":  "ingles-06",
@@ -397,14 +397,14 @@
                          "tipoItem":  "referencia",
                          "enunciado":  "In the third paragraph, \u0027the safe window\u0027 most likely refers to",
                          "alternativas":  {
-                                              "a":  "the period during which a population census is carried out.",
-                                              "b":  "the number of days a footpath stays closed for repairs.",
-                                              "c":  "the area of a park that camera traps are able to cover.",
-                                              "d":  "the interval between the arrival of two competing species.",
+                                              "a":  "the period during which researchers carry out a population census inside the reserve.",
+                                              "b":  "the eleven days for which a footpath stayed closed for repairs.",
+                                              "c":  "the area of a park that a set of camera traps is able to cover.",
+                                              "d":  "the interval between the arrival of two competing nocturnal species.",
                                               "e":  "the part of the night in which the animal can feed without meeting people."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A expressão fecha a explicação de por que vários herbívoros passam menos tempo total se alimentando: a faixa segura é mais curta que o dia que ela substituiu — ou seja, as horas de escuro em que não há gente. O censo aparece na frase seguinte, com outro propósito, o de mostrar que a população parece estável enquanto cada indivíduo come menos; a duração do reparo da trilha e o alcance das armadilhas fotográficas são dados de outros parágrafos; e o intervalo entre espécies competidoras não é uma medida de tempo que o texto chegue a mencionar."
+                         "explicacao":  "A expressão fecha a frase sobre herbívoros que passam menos tempo total se alimentando, porque a janela segura é mais curta do que o dia que ela substituiu — trata-se, portanto, do trecho da noite em que dá para comer sem encontrar gente. Em (b) e (c), a trilha fechada e as armadilhas fotográficas aparecem no texto, mas em outros parágrafos e sem relação com a duração da alimentação. Em (d), as espécies noturnas concorrentes são citadas como custo adicional, não como intervalo de tempo. Em (a), o censo entra no argumento seguinte, sobre uma população parecer estável enquanto cada indivíduo come menos."
                      },
                      {
                          "id":  "ingles-10",
@@ -414,14 +414,14 @@
                          "tipoItem":  "inferencia",
                          "enunciado":  "The text most likely supports which of the following?",
                          "alternativas":  {
-                                              "a":  "Administrative and legal measures can shut down an organisation while remaining defensible in court.",
-                                              "b":  "Governments adopt these methods mainly because they are cheaper than police action.",
+                                              "a":  "Administrative measures can shut an organisation down while remaining defensible.",
+                                              "b":  "Governments adopt these methods mainly because they cost less than police action.",
                                               "c":  "International sanctions have been redesigned to respond to gradual processes.",
                                               "d":  "Courts in these countries have generally refused to apply the rules described.",
                                               "e":  "Jailing a journalist is the least costly option available to such a government."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O primeiro parágrafo descreve a sequência inteira — exigência de declaração, atraso, multa acima do orçamento, fechamento — e conclui que nada nela parece repressão vista de fora e que cada passo pode ser defendido num tribunal. A opção do custo inverte o texto, que diz explicitamente que a vantagem não é eficiência e que processar um tesoureiro sai mais caro e mais lento; as sanções são descritas como talhadas para um evento e sem vocabulário para um processo longo; os tribunais são caracterizados como complacentes, e não como resistentes; e prender um jornalista é apresentado como o caminho que cria problema internacional, isto é, o mais caro."
+                         "explicacao":  "O primeiro parágrafo descreve a sequência inteira — registro, auditoria, multa, fechamento — e conclui que nada nela parece repressão de fora e que cada passo pode ser defendido em tribunal. Em (b) está o distrator mais tentador, e o segundo parágrafo o nega na abertura: a vantagem do método não é eficiência, e processar um tesoureiro é mais lento e mais caro que prender um organizador. Em (e), prender um jornalista é apresentado como o caminho que gera problema internacional. Em (c), as sanções pressupõem um evento e não sabem lidar com processos. Em (d), o método depende de tribunais complacentes que ainda funcionam."
                      },
                      {
                          "id":  "ingles-11",
@@ -448,14 +448,14 @@
                          "tipoItem":  "inferencia",
                          "enunciado":  "The author most likely regards the long-term stability of the method as",
                          "alternativas":  {
-                                              "a":  "assured, since the constitution itself is never altered.",
+                                              "a":  "assured, since the constitution itself is never altered by the method.",
                                               "b":  "uncertain, since it depends on courts and officials continuing to cooperate.",
-                                              "c":  "impossible, since no legal system can be used in this way for long.",
-                                              "d":  "irrelevant, since foreign ministries will intervene in any case.",
-                                              "e":  "proven, since no government using it has yet been challenged."
+                                              "c":  "impossible, since no legal system can be used in this way for very long.",
+                                              "d":  "irrelevant, since foreign ministries can be expected to intervene in any case.",
+                                              "e":  "proven, since no government that has used the method was ever seriously challenged."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O último parágrafo trata a estabilidade como questão em aberto e nomeia a fraqueza: o método depende de tribunais complacentes mas ainda funcionando e de funcionários dispostos a aplicar regras que sabem ser pretextos — duas coisas que se mostraram mais difíceis de sustentar do que se esperava. Dizer que é garantida ignora essa ressalva; dizer que é impossível vai além dela, já que o texto abre o artigo justamente reconhecendo governos duradouros; a intervenção estrangeira é descrita como impotente, não como certa; e o texto não afirma ausência de contestação, e sim ausência de resposta eficaz."
+                         "explicacao":  "O último parágrafo trata a estabilidade como questão em aberto e nomeia a fraqueza: o método depende de tribunais complacentes mas ainda funcionais e de funcionários dispostos a aplicar regras que sabem ser pretextos, e ambos se mostraram mais difíceis de sustentar do que se esperava. Em (c) está o excesso na direção oposta — o texto aponta fragilidade, não impossibilidade. Em (a), a constituição intacta é o que torna o método difícil de denunciar, e não o que o garante. Em (d), o terceiro parágrafo mostra chancelarias sem vocabulário para responder. Em (e), nada no texto afirma ausência de contestação."
                      },
                      {
                          "id":  "ingles-13",
@@ -466,13 +466,13 @@
                          "enunciado":  "The third paragraph most likely serves to",
                          "alternativas":  {
                                               "a":  "explain the procedure by which a state board sets the price paid to farmers.",
-                                              "b":  "show that chocolate manufacturers have been breaking labelling rules.",
+                                              "b":  "show that chocolate manufacturers have been breaking the labelling rules.",
                                               "c":  "compare the cocoa market in West Africa with the one in South America.",
                                               "d":  "argue that shoppers ought to pay closer attention to the weight of a bar.",
-                                              "e":  "show that manufacturers absorb part of a price rise in ways the package does not state."
+                                              "e":  "show that manufacturers absorb part of a rise in ways the package omits."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O parágrafo lista três ajustes — cinco gramas a menos, dois pontos percentuais de cacau a menos, mais recheio — sob a observação de que a resposta vem \u0027de maneiras que o rótulo não anuncia\u0027, e fecha dizendo que o comprador percebe o preço com mais confiabilidade do que qualquer uma dessas mudanças. O funcionamento do conselho estatal é assunto do parágrafo anterior; nada no texto afirma ilegalidade, e sim que a mudança não é anunciada; não há mercado sul-americano em comparação, apenas São Paulo citada como ponto de venda; e o texto descreve o comportamento do consumidor sem prescrever o que ele deveria fazer."
+                         "explicacao":  "O parágrafo lista o que muda sem ser anunciado — a barra encolhe cinco gramas, a proporção de cacau cai dois pontos, o recheio cresce — e acrescenta que o consumidor registra o preço muito melhor que qualquer dessas alterações. Em (b) está a leitura que vai além do texto: reduzir o peso e declará-lo na embalagem não é infração, e nada indica descumprimento de regra. Em (d), o texto observa o comportamento do consumidor sem recomendar nada a ele. Em (a), o conselho estatal de preços pertence ao segundo parágrafo. Em (c), a América do Sul aparece só como local de venda."
                      },
                      {
                          "id":  "ingles-14",
@@ -635,14 +635,14 @@
                          "tipoItem":  "detalhe",
                          "enunciado":  "According to the text, one of the weaknesses the reviewers found in the studies they examined was that",
                          "alternativas":  {
-                                              "a":  "the species of fungus involved had been misidentified.",
-                                              "b":  "the trees studied were too old to transfer carbon at all.",
+                                              "a":  "the species of fungus involved had been misidentified in the field.",
+                                              "b":  "the trees studied were too old to transfer any carbon at all.",
                                               "c":  "the direction of the carbon movement had often not been established.",
-                                              "d":  "the quantities of carbon involved were impossible to measure.",
-                                              "e":  "the studies had never been published in scientific journals."
+                                              "d":  "the quantities of carbon involved proved impossible to measure in the field.",
+                                              "e":  "the studies had never been published in peer-reviewed journals."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O segundo parágrafo lista três falhas, e esta é a terceira: detectou-se carbono no vizinho sem evidência de que a primeira árvore o tivesse enviado em vez de simplesmente perdido. Erro de identificação de espécie não é mencionado; a crítica sobre árvores é o oposto, já que os estudos foram feitos em vaso e não em floresta madura; as quantidades foram medidas, e o problema apontado é serem pequenas diante do que a árvore produz para si; e o texto se refere ao percurso do achado \u0027do periódico ao documentário\u0027, o que pressupõe publicação."
+                         "explicacao":  "O segundo parágrafo lista três falhas, e a terceira é literalmente esta: em vários casos a direção do movimento nunca foi estabelecida, porque se detectou carbono num vizinho sem prova de que a primeira árvore o tivesse enviado em vez de simplesmente perdido. Em (d) está o distrator mais próximo, e ele distorce a segunda falha — as quantidades foram medidas e eram pequenas, não immensuráveis. Em (b), o problema apontado é o estudo em vasos em lugar de floresta madura, não a idade das árvores. Em (a) e (e), nem identificação de espécie nem ausência de publicação são mencionadas."
                      },
                      {
                          "id":  "ingles-24",
@@ -652,14 +652,14 @@
                          "tipoItem":  "referencia",
                          "enunciado":  "In the last paragraph, \u0027the very problem they were describing\u0027 most likely refers to",
                          "alternativas":  {
-                                              "a":  "the tendency of a memorable account to spread faster than the evidence behind it.",
-                                              "b":  "the difficulty of measuring carbon transfer in a mature forest.",
+                                              "a":  "the tendency of a memorable account to spread faster than its evidence.",
+                                              "b":  "the difficulty of measuring carbon transfer in a mature forest rather than pots.",
                                               "c":  "the reluctance of documentary makers to interview working researchers.",
-                                              "d":  "the absence of fungal networks in certain kinds of soil.",
+                                              "d":  "the absence of fungal networks in certain kinds of forest soil.",
                                               "e":  "the cost of repeating a field study in several different locations."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O problema que os autores descreviam é o do parágrafo anterior: uma hipótese vira fato no caminho entre o periódico e o documentário, e um achado com nome memorável fica difícil de testar. A ironia é que a própria crítica virou uma história memorável que circula mais do que a questão científica. A dificuldade de medir em floresta madura é uma das falhas metodológicas, não o problema de comunicação; a relutância de documentaristas não é afirmada; a ausência de redes é explicitamente negada; e custo de replicação não aparece no texto."
+                         "explicacao":  "A ironia é que o episódio virou ele próprio um caso célebre e memorável, repetido mais pela história que conta do que pela evidência que reúne — exatamente o mecanismo denunciado no terceiro parágrafo, quando uma hipótese vira fato entre o periódico e o documentário. Em (b) está o distrator mais próximo, porque a medição em floresta madura é de fato uma crítica dos autores, mas é o conteúdo da objeção, não o problema que eles reencenam sem querer. Em (d), os críticos afirmam o contrário: não negam a existência das redes. Em (c) e (e), nem a recusa de documentaristas nem o custo de replicação são mencionados."
                      },
                      {
                          "id":  "ingles-25",
@@ -958,14 +958,14 @@
                          "tipoItem":  "funcao-paragrafo",
                          "enunciado":  "The second paragraph most likely serves to",
                          "alternativas":  {
-                                              "a":  "identify the countries most exposed to a simultaneous failure.",
-                                              "b":  "explain how information is converted for transmission by cable.",
-                                              "c":  "argue that fishing along cable routes ought to be prohibited.",
-                                              "d":  "describe the design of the vessels used to carry out repairs.",
-                                              "e":  "establish that faults are routine and that the system is built to absorb them."
+                                              "a":  "identify the countries most exposed to a simultaneous cable failure.",
+                                              "b":  "explain how information is converted for transmission along a cable.",
+                                              "c":  "argue that fishing along established cable routes ought to be prohibited.",
+                                              "d":  "describe the design of the vessels used to carry out the repairs.",
+                                              "e":  "establish that faults are routine and that the system absorbs them."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O parágrafo informa que ocorrem mais de cem falhas por ano, quase sempre por rede de pesca ou âncora arrastada, que existe uma frota especializada para consertá-las e que o tráfego se redireciona sozinho, de modo que uma quebra isolada costuma passar despercebida. A identificação dos mais expostos é assunto do parágrafo seguinte; a conversão técnica do sinal não é explicada em lugar nenhum; o texto não propõe proibir a pesca, apenas registra a causa; e os navios são citados pela existência, não pelo projeto."
+                         "explicacao":  "O parágrafo informa que ocorrem mais de cem falhas por ano, quase todas por pesca ou âncora, e que o tráfego se redireciona sozinho — a função é justamente desfazer a impressão de fragilidade que o primeiro parágrafo cria. Em (a) está o distrator mais próximo, porque a exposição desigual é de fato tratada no texto, mas no terceiro parágrafo, e é a informação que o segundo prepara. Em (d), os navios de reparo são mencionados de passagem, sem descrição de projeto. Em (b), a conversão do sinal não aparece. Em (c), o texto atribui falhas à pesca sem propor proibi-la."
                      },
                      {
                          "id":  "ingles-43",
@@ -992,14 +992,14 @@
                          "tipoItem":  "referencia",
                          "enunciado":  "In the third paragraph, \u0027without addressing that\u0027 most likely refers to",
                          "alternativas":  {
-                                              "a":  "the cost of the equipment installed at an automated terminal.",
-                                              "b":  "the claim that automation cannot deliver the productivity promised.",
-                                              "c":  "the loss of one of the few remaining routes to a middle-class wage without a degree.",
-                                              "d":  "the schedule that a shipping line promises to its customers.",
-                                              "e":  "the delay before a new terminal reaches full productivity."
+                                              "a":  "the cost of the equipment installed at an automated container terminal.",
+                                              "b":  "the claim that automation cannot deliver the productivity it promised.",
+                                              "c":  "the loss of a route to a middle-class wage that requires no degree.",
+                                              "d":  "the schedule that a shipping line is able to promise its customers.",
+                                              "e":  "the delay before a new terminal reaches the productivity of the old."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O parágrafo apresenta duas questões dos sindicatos, e a segunda é essa: o ofício é uma das últimas portas para um salário de classe média sem diploma. Um acordo que protege quem já está empregado e deixa a próxima geração desses postos desaparecer encerra a greve sem tocar justamente nessa segunda questão. Custo do equipamento e prazo até a produtividade plena aparecem só no último parágrafo, depois da frase; a alegação de que a automação não funciona é explicitamente negada como posição sindical; e a escala prometida pelo armador é um efeito da previsibilidade, não uma demanda em disputa."
+                         "explicacao":  "O \u0027that\u0027 retoma o ponto imediatamente anterior: o ofício é uma das poucas rotas restantes para um salário de classe média sem diploma, e um acordo que protege quem já está lá e deixa a próxima geração desaparecer não resolve isso. Em (b), o parágrafo diz o contrário — os sindicatos raramente sustentam que a automação não funcione. Em (a) e (e), o custo do equipamento e o atraso de produtividade só aparecem no quarto parágrafo, depois da frase em questão. Em (d), a previsibilidade do cronograma é apresentada como ganho do sistema, não como o que o acordo deixa de enfrentar."
                      },
                      {
                          "id":  "ingles-45",
@@ -1043,14 +1043,14 @@
                          "tipoItem":  "referencia",
                          "enunciado":  "In the second paragraph, \u0027that habit of attention\u0027 most likely refers to",
                          "alternativas":  {
-                                              "a":  "the practice of collecting terms for snow in a dictionary.",
-                                              "b":  "the continuous tracking of the terrain that the language\u0027s spatial terms require.",
-                                              "c":  "the effort of naming a cousin on the mother\u0027s side differently.",
+                                              "a":  "the practice of collecting a language\u0027s terms for snow in a dictionary.",
+                                              "b":  "the continuous tracking of terrain that the language\u0027s spatial terms require.",
+                                              "c":  "the effort of naming a cousin on the mother\u0027s side differently from one on the father\u0027s.",
                                               "d":  "the decision to teach a child the language that will get them work.",
-                                              "e":  "the reading of old texts by a community that has revived a language."
+                                              "e":  "the reading of old texts by a community that has revived its language."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A expressão retoma a frase imediatamente anterior: obrigados a marcar \u0027acima\u0027 e \u0027abaixo\u0027 no terreno em vez de \u0027esquerda\u0027 e \u0027direita\u0027, os falantes acompanham o relevo o tempo todo sem perceber. Os termos para neve e o sistema de parentesco são os exemplos \u0027famosos\u0027 que o texto cita para contrastar com esse, mais silencioso; a escolha da língua que dá emprego é assunto do parágrafo seguinte; e a leitura de textos antigos aparece no último parágrafo justamente como o efeito que NÃO é o mais relatado."
+                         "explicacao":  "A expressão retoma a frase imediatamente anterior: falantes obrigados a dizer se um objeto está acima ou abaixo na encosta acompanham o terreno continuamente, na conversa comum e sem esforço — e é esse hábito que nenhum dicionário preserva. Em (c) está o distrator mais próximo, porque o sistema de parentesco também é uma distinção codificada pela língua, mas o texto o cita como exemplo célebre, e não como hábito de atenção contínua. Em (a), os termos para neve entram na mesma lista de exemplos famosos. Em (d) e (e), a decisão dos pais e a leitura de textos antigos pertencem aos parágrafos seguintes."
                      },
                      {
                          "id":  "ingles-48",
@@ -1077,14 +1077,14 @@
                          "tipoItem":  "inferencia",
                          "enunciado":  "The text most likely supports which of the following?",
                          "alternativas":  {
-                                              "a":  "The cost of producing power and the cost of supplying it on demand are different things.",
+                                              "a":  "The cost of producing power and of supplying it on demand are different.",
                                               "b":  "The transition is likely to prove expensive over a period of decades.",
                                               "c":  "Transmission and storage are included in the cost figures usually quoted.",
                                               "d":  "Bills have fallen in most of the countries that adopted these sources.",
-                                              "e":  "Consumers can readily identify infrastructure charges on their bills."
+                                              "e":  "Consumers can readily identify infrastructure charges on their own bills."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "É a frase que abre o segundo parágrafo e organiza o texto inteiro: gerar uma unidade de energia e entregá-la na hora em que ela é desejada são coisas de custo diferente. O terceiro parágrafo diz que a maioria das análises encontra o oposto de \u0027cara\u0027 no horizonte de duas décadas; transmissão e armazenamento são apresentados como exatamente o que o número citado deixa de fora; a primeira frase do texto registra contas que não caíram; e o mesmo terceiro parágrafo diz que a parte cara fica enterrada em encargos que o consumidor não conseguiria identificar."
+                         "explicacao":  "O segundo parágrafo abre exatamente com essa distinção e a desdobra em transmissão, armazenamento e desenho de mercado — três custos reais que não entram no número citado. Em (c) está a negação direta dessa frase. Em (b), o texto afirma o oposto: a maioria das análises considera a transição mais barata ao longo de décadas, e a discussão é de sequência, não de custo final. Em (d), o ponto de partida do texto é que as contas não caíram. Em (e), o terceiro parágrafo diz que os encargos ficam enterrados em rubricas que o consumidor não saberia identificar."
                      },
                      {
                          "id":  "ingles-50",
@@ -1181,12 +1181,12 @@
                          "alternativas":  {
                                               "a":  "International students are usually charged the same fee as domestic ones.",
                                               "b":  "Universities were unaware of how far they depended on this income.",
-                                              "c":  "Decisions taken outside education ministries can alter university finances quickly.",
+                                              "c":  "Decisions taken outside education ministries can alter finances quickly.",
                                               "d":  "The cuts generally fell on the courses the international students attended.",
-                                              "e":  "The dependency was concealed from the public."
+                                              "e":  "The dependency was concealed from the public by the universities."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O segundo parágrafo diz que o subsídio cruzado depende de regras de visto, de trabalho após a formatura e de tratamento do cônjuge, decididas por política doméstica em meses, enquanto a universidade planeja em anos — e que um anúncio na primavera derruba as inscrições em um terço no outono. O primeiro parágrafo informa que o estudante estrangeiro paga várias vezes a mensalidade doméstica; o último diz que ninguém escondeu a dependência e que ela constava de todo relatório anual, o que derruba tanto o desconhecimento quanto a ocultação; e o terceiro afirma que os cortes não caíram sobre os cursos que esses estudantes frequentavam."
+                         "explicacao":  "O segundo parágrafo mostra que o subsídio cruzado repousa em decisões de ministérios sem relação com educação — vistos, direito de trabalhar, tratamento do cônjuge — tomadas em meses, e que um anúncio na primavera pode derrubar um terço das candidaturas até o outono. Em (b) e (e) está a mesma suposição de ignorância ou ocultação, que o último parágrafo nega ao dizer que a dependência constava de todo relatório anual. Em (d), os cortes recaem sobre línguas, clássicos e ciências menores, e não sobre os cursos que os estrangeiros faziam. Em (a), eles pagam várias vezes a mensalidade local."
                      },
                      {
                          "id":  "ingles-56",
@@ -1213,14 +1213,14 @@
                          "tipoItem":  "funcao-paragrafo",
                          "enunciado":  "The last paragraph most likely serves to",
                          "alternativas":  {
-                                              "a":  "locate the failure in the absence of any mechanism that made a known risk costly to ignore.",
-                                              "b":  "accuse the universities of having hidden their true financial position.",
+                                              "a":  "locate the failure in the absence of a mechanism making a known risk costly to ignore.",
+                                              "b":  "accuse the universities of having concealed a financial position they knew to be fragile.",
                                               "c":  "propose that the fees charged to international students be reduced.",
-                                              "d":  "summarise the visa rules that caused applications to fall.",
-                                              "e":  "compare the finances of two different national systems."
+                                              "d":  "summarise the visa rules that caused applications to fall by a third.",
+                                              "e":  "compare the finances of two national systems that grew at different rates."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O parágrafo observa que o modelo funcionava como projetado e que a dependência constava de todo relatório anual — o que faltava era algum mecanismo que tornasse caro ignorar a exposição enquanto o dinheiro ainda entrava. É justamente por dizer que ninguém escondeu nada que ele não pode ser lido como acusação de ocultação; nenhuma redução de mensalidade é proposta; as regras de visto são citadas no segundo parágrafo, sem serem resumidas aqui; e não há dois sistemas nacionais em comparação."
+                         "explicacao":  "O parágrafo diz que o modelo funcionava como projetado e que ninguém escondeu a dependência: o que faltava era um mecanismo que tornasse caro ignorar a exposição enquanto o dinheiro ainda entrava. Em (b) está a leitura que o próprio parágrafo antecipa e nega — a dependência aparecia em todo relatório anual, de modo que não houve ocultação. Em (d), as regras de visto foram tratadas no segundo parágrafo. Em (c) e (e), nem a redução de mensalidades nem a comparação entre dois sistemas nacionais chegam a ser propostas no texto."
                      },
                      {
                          "id":  "ingles-58",
@@ -1298,14 +1298,14 @@
                          "tipoItem":  "referencia",
                          "enunciado":  "In the second paragraph, \u0027which relocates the problem\u0027 most likely refers to the effect of",
                          "alternativas":  {
-                                              "a":  "naming the act that the institution has committed.",
-                                              "b":  "offering a change or a reparation to those who were harmed.",
+                                              "a":  "naming the act that the institution has actually committed.",
+                                              "b":  "offering a change or a reparation to the people who were harmed.",
                                               "c":  "making the feelings of other people, rather than the act, the subject.",
-                                              "d":  "obtaining approval from the institution\u0027s legal counsel.",
-                                              "e":  "publishing a disclosure policy within a health system."
+                                              "d":  "obtaining approval for the statement from the institution\u0027s legal counsel.",
+                                              "e":  "publishing a disclosure policy of the kind adopted by health systems."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A oração relativa se prende à frase imediatamente anterior: o sujeito da declaração não é a instituição, e sim o sentimento alheio — e é essa troca de sujeito que transfere o problema para quem percebeu o ato. Nomear o ato e oferecer reparação são justamente as operações que o texto diz que a fórmula NÃO executa; a aprovação do advogado é consequência tratada no parágrafo seguinte; e as políticas de divulgação em sistemas de saúde aparecem só no fecho, como evidência a favor do pedido de desculpas real."
+                         "explicacao":  "A oração relativa comenta a frase imediatamente anterior: o sujeito da sentença não é a instituição, e sim os sentimentos de outras pessoas, e é essa troca de sujeito que desloca o problema para quem o notou. Em (a) e (b) estão duas operações que o parágrafo lista como próprias de um pedido de desculpas de verdade, e que a fórmula analisada justamente não realiza. Em (d), a aprovação jurídica aparece no terceiro parágrafo, como razão da sobrevivência da fórmula. Em (e), a política de divulgação pertence ao quarto parágrafo, sobre o que a pesquisa mostra."
                      },
                      {
                          "id":  "ingles-63",
@@ -1350,13 +1350,13 @@
                          "enunciado":  "The text most likely supports which of the following about flood cover?",
                          "alternativas":  {
                                               "a":  "It is hard to insure because the losses are not independent of one another.",
-                                              "b":  "It is the line in which private companies compete most fiercely.",
-                                              "c":  "It has historically been left entirely to the private market.",
-                                              "d":  "It became difficult only after state schemes were introduced.",
-                                              "e":  "It is priced in the same way as cover against fire."
+                                              "b":  "It is the line in which private companies compete most fiercely of all.",
+                                              "c":  "It has historically been left entirely to the private market in most countries.",
+                                              "d":  "It became difficult to write only after state schemes were introduced.",
+                                              "e":  "It is priced in exactly the same way as cover against a house fire."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O primeiro parágrafo constrói a oposição: o seguro funciona reunindo riscos independentes, e a enchente chega a todos de uma vez — por isso é a modalidade mais difícil de subscrever e por isso o Estado participa dela em quase todo país. Isso já descarta a concorrência feroz e o abandono ao mercado privado; a dificuldade é atribuída à natureza correlacionada da perda, anterior a qualquer esquema estatal; e o incêndio é apresentado como o caso oposto, o dos eventos não relacionados entre si."
+                         "explicacao":  "O primeiro parágrafo estabelece o princípio — o seguro reúne riscos independentes — e mostra que a enchente chega a todos ao mesmo tempo, o que a torna a linha mais difícil de subscrever. Em (c) está a inversão da frase seguinte, que diz que o Estado participa dessa linha em quase todos os países. Em (d), a dificuldade é anterior e é o que motiva os esquemas estatais. Em (e), o incêndio é justamente o contraexemplo de risco independente. Em (b), o texto descreve a retirada das seguradoras privadas das áreas de maior risco, não competição acirrada."
                      },
                      {
                          "id":  "ingles-66",
@@ -1536,14 +1536,14 @@
                          "tipoItem":  "inferencia",
                          "enunciado":  "The text most likely supports which of the following?",
                          "alternativas":  {
-                                              "a":  "A writer\u0027s name shapes how a text is received rather than merely identifying its author.",
-                                              "b":  "Most writers who adopt pseudonyms are escaping political danger.",
+                                              "a":  "A writer\u0027s name shapes how a text is received rather than merely identifying it.",
+                                              "b":  "Most writers who adopt a pseudonym are escaping some form of political danger at home.",
                                               "c":  "Established writers publishing under new names have generally sold well.",
-                                              "d":  "Knowing an author\u0027s record is of no use to a reader.",
-                                              "e":  "The author recommends anonymity as a general practice."
+                                              "d":  "Knowing an author\u0027s previous record is of no real use to a reader.",
+                                              "e":  "The author recommends anonymity as a general practice for writers."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O fecho enuncia a tese: a assinatura não é um rótulo neutro pregado num texto pronto, é parte do texto e é lida primeiro. O texto diz que muitos pseudônimos foram adotados por pessoas sem perigo nenhum, e que os casos de fuga, embora existam e sejam os graves, não são a regra que interessa ali; o terceiro parágrafo relata que as obras sob nome novo venderam mal; o segundo concede que o histórico do autor é útil, pois é assim que o leitor decide em que confiar; e o último parágrafo nega expressamente que o anonimato seja recomendado como regra."
+                         "explicacao":  "O último parágrafo formula a tese: a assinatura não é rótulo neutro colado a um texto pronto, é parte do texto e é lida primeiro. Em (d) está o excesso que o texto evita — o registro do autor é dito útil, porque é assim que o leitor decide em quem confiar; negar isso vai além do que se afirma. Em (b), o texto separa esses casos justamente para tratar dos demais, que são muitos. Em (c), o experimento resultou em vendas fracas e resenhas descuidadas. Em (e), o quarto parágrafo recusa explicitamente o anonimato como regra."
                      },
                      {
                          "id":  "ingles-77",
@@ -1553,14 +1553,14 @@
                          "tipoItem":  "referencia",
                          "enunciado":  "In the second paragraph, \u0027the name has become a genre\u0027 most likely means that",
                          "alternativas":  {
-                                              "a":  "readers can no longer remember which books an author has written.",
-                                              "b":  "publishers refuse to print books outside a fixed category.",
-                                              "c":  "a pseudonym has to be chosen to match the kind of book.",
-                                              "d":  "the author\u0027s name now leads readers to expect a particular kind of book.",
-                                              "e":  "reviewers have stopped reading the work of established writers."
+                                              "a":  "readers can no longer remember which books the author has written.",
+                                              "b":  "publishers refuse to print books outside a fixed commercial category.",
+                                              "c":  "a pseudonym has to be chosen so as to match the kind of book being written.",
+                                              "d":  "the author\u0027s name leads readers to expect a particular kind of book.",
+                                              "e":  "reviewers have stopped reading the work of well-established writers."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A frase encerra o raciocínio de que o nome fixa o autor num lugar: o romancista conhecido por um tipo de livro que quer escrever outro descobre que o próprio nome passou a funcionar como rótulo de gênero, criando expectativa antes da leitura. A opção do esquecimento inverte o ponto, que é excesso de memória e não falta; recusa das editoras e escolha do pseudônimo não são afirmadas em lugar nenhum; e a resenha desatenta aparece no parágrafo seguinte, e justamente para as obras publicadas sob nome novo."
+                         "explicacao":  "A frase fecha o raciocínio sobre o nome que fixa o escritor num lugar: o romancista conhecido por um tipo de livro que quer escrever outro descobre que a assinatura já criou uma expectativa de gênero. Em (b) está o deslocamento mais tentador — a restrição descrita opera no leitor, não numa recusa das editoras, que o texto não menciona. Em (a), o problema é o oposto: os leitores lembram bem demais. Em (c), a escolha do pseudônimo não é tratada como ajuste ao tipo de livro. Em (e), o terceiro parágrafo diz que a obra sob nome novo foi resenhada com descuido, e não que resenhistas abandonaram os autores estabelecidos."
                      },
                      {
                          "id":  "ingles-78",
@@ -1587,14 +1587,14 @@
                          "tipoItem":  "inferencia",
                          "enunciado":  "The text most likely suggests that formalisation drives have failed because they",
                          "alternativas":  {
-                                              "a":  "offered benefits too generous to be sustained over time.",
-                                              "b":  "were applied only to the largest firms in each sector.",
-                                              "c":  "relied on credit programmes that never reached small businesses.",
-                                              "d":  "were introduced before any amnesty had been announced.",
+                                              "a":  "offered benefits too generous for a public budget to sustain over time.",
+                                              "b":  "were applied only to the largest firms in each sector rather than to small ones.",
+                                              "c":  "relied on credit programmes that never reached the smallest businesses.",
+                                              "d":  "were introduced before any amnesty had been announced to owners.",
                                               "e":  "treated the behaviour as the problem rather than the calculation behind it."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O terceiro parágrafo abre exatamente com essa distinção: os programas que funcionaram trataram o cálculo como o que devia mudar, em vez da conduta — o que implica que os anteriores, montados sobre fiscalização e multa, atacaram o comportamento. Benefícios generosos demais não são mencionados; as campanhas foram dirigidas justamente às pequenas, e não às maiores; o crédito é listado como um dos benefícios lentos do registro, não como programa fracassado; e a anistia é citada como um dos instrumentos usados, sem qualquer questão de ordem cronológica."
+                         "explicacao":  "O terceiro parágrafo abre dizendo que os programas bem-sucedidos trataram o cálculo como aquilo que precisava mudar, em vez do comportamento — o que implica que fiscalização, multas e campanhas falharam por atacar o comportamento. Em (c) está o distrator mais próximo, porque o crédito é mesmo citado, mas como benefício lento que o dono pesa contra o custo imediato, não como o programa que falhou. Em (a), o problema não foi generosidade dos benefícios. Em (b), a fiscalização não se limitou às grandes empresas. Em (d), a anistia aparece na lista de medidas de fiscalização já tentadas."
                      },
                      {
                          "id":  "ingles-80",
@@ -1605,13 +1605,13 @@
                          "enunciado":  "The text most likely supports which of the following?",
                          "alternativas":  {
                                               "a":  "Street vendors are the group that has been formalised most successfully.",
-                                              "b":  "Tying formality to something the owner already wants has proved most effective.",
+                                              "b":  "Tying formality to something the owner already wants has worked best.",
                                               "c":  "The costs of registering are distant while its benefits are immediate.",
-                                              "d":  "Rules designed for large firms suit small ones equally well.",
-                                              "e":  "No formalisation policy has produced any measurable result."
+                                              "d":  "Rules designed for large firms suit the smallest ones equally well.",
+                                              "e":  "No formalisation policy has produced any measurable result at all."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O terceiro parágrafo destaca essa medida como a mais eficaz de todas: tornar a formalidade condição para algo que o dono já quer, como vender ao poder público ou aceitar o cartão que os clientes preferem. O vendedor ambulante é citado no último parágrafo entre os casos que ninguém resolveu; a relação entre custo e benefício é a inversa da apresentada na opção, com custo imediato e benefício distante; o texto diz que as regras foram escritas para empresas cinquenta vezes maiores; e o fecho registra que o meio da distribuição se moveu onde a aritmética mudou."
+                         "explicacao":  "O terceiro parágrafo classifica essa medida como a mais eficaz de todas: tornar a formalidade condição para algo que o dono já quer, como vender a um comprador público ou aceitar cartão. Em (c) está a inversão exata do segundo parágrafo, em que o custo é imediato e certo e o benefício, distante e provável. Em (a), o último parágrafo diz que o vendedor ambulante está entre os casos mais difíceis, ainda não resolvidos. Em (d), as regras escritas para firmas cinquenta vezes maiores são apontadas como parte do custo. Em (e), o texto registra avanço no meio da distribuição."
                      },
                      {
                          "id":  "ingles-81",
@@ -1638,14 +1638,14 @@
                          "tipoItem":  "inferencia",
                          "enunciado":  "The text most likely supports which of the following?",
                          "alternativas":  {
-                                              "a":  "Extracting these metals requires drilling into the seabed.",
-                                              "b":  "The sediment disturbed by the machines disperses quickly.",
-                                              "c":  "The regulatory code was agreed shortly after negotiations began.",
-                                              "d":  "The environmental cost of collection lies mainly in the sediment it disturbs.",
-                                              "e":  "Demand for every one of these metals has continued to rise."
+                                              "a":  "Extracting these metals requires drilling and blasting into the seabed.",
+                                              "b":  "The sediment disturbed by the machines disperses quickly and settles close by.",
+                                              "c":  "The regulatory code was agreed shortly after the negotiations began.",
+                                              "d":  "The environmental cost lies mainly in the sediment the collection disturbs.",
+                                              "e":  "Demand for each of these metals has continued to rise since the deposits were surveyed."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O segundo parágrafo é dedicado a isso: o que a descrição simpática omite é a pluma, que se desloca devagar por falta de corrente, assenta sobre área muito ampla e atinge organismos adaptados a um lugar onde nada muda há muitíssimo tempo. O primeiro parágrafo diz que a coleta não exige perfuração nem detonação; a mesma passagem sobre a pluma nega a dispersão rápida; o terceiro parágrafo informa que o código está em negociação há anos; e o último diz que mais de um desses metais é hoje usado em quantidade menor."
+                         "explicacao":  "O segundo parágrafo é inteiro sobre a pluma: a máquina revolve a camada superior, a nuvem viaja devagar por falta de corrente e se deposita numa área muito ampla, com recuperação medida em décadas. Em (b) está a negação direta dessa passagem — o sedimento se dispersa lentamente e longe, e é isso que cria o problema. Em (a), o primeiro parágrafo diz que a coleta não exige perfuração nem detonação. Em (c), o código está em negociação há anos. Em (e), o último parágrafo afirma o contrário: mais de um dos metais é hoje usado em quantidade menor."
                      },
                      {
                          "id":  "ingles-83",
@@ -1655,14 +1655,14 @@
                          "tipoItem":  "detalhe",
                          "enunciado":  "According to the text, tracks cut on the seabed in the 1980s",
                          "alternativas":  {
-                                              "a":  "have been fully recolonised by the original organisms.",
-                                              "b":  "were erased by ocean currents within a few years.",
+                                              "a":  "have been fully recolonised by the organisms originally present.",
+                                              "b":  "were erased by ocean currents within a few years of being cut.",
                                               "c":  "remain visible and less populated than the ground beside them.",
-                                              "d":  "were never located again by later expeditions.",
-                                              "e":  "produced no measurable disturbance at the time."
+                                              "d":  "were never located again by any of the later expeditions.",
+                                              "e":  "produced no disturbance that could be measured at the time."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "É a última frase do segundo parágrafo, e ela serve de medida concreta para os tempos de recuperação contados em décadas. A recolonização completa é o oposto do que o texto registra; o apagamento por correntes contraria a explicação de que quase não há corrente ali, o que é justamente o motivo de a pluma assentar tão longe; as trilhas seguem visíveis, o que exclui não terem sido reencontradas; e o distúrbio foi medido, tanto que dele saíram os tempos de recuperação."
+                         "explicacao":  "A informação está na última frase do segundo parágrafo, e é literal: algumas trilhas abertas nos anos 1980 continuam visíveis e continuam menos povoadas que o terreno ao lado. Em (a) está o oposto do que se afirma, e é a leitura que a questão quer flagrar, porque décadas soariam suficientes para uma recuperação. Em (b), a ausência de corrente no fundo é justamente o que impede a dispersão. Em (d), as trilhas foram reencontradas, o que é a base da medição. Em (e), o distúrbio foi medido, e os tempos de recuperação vieram dessas medições."
                      },
                      {
                          "id":  "ingles-84",
@@ -1672,14 +1672,14 @@
                          "tipoItem":  "referencia",
                          "enunciado":  "In the last paragraph, \u0027A resource can lose its case by becoming unnecessary\u0027 most likely refers to",
                          "alternativas":  {
-                                              "a":  "the moratorium requested by several member states.",
+                                              "a":  "the moratorium requested by member states until the ecology is understood.",
                                               "b":  "the fall in the quantities of these metals that batteries now require.",
-                                              "c":  "the money that companies have already spent on equipment.",
-                                              "d":  "the slow recovery of the organisms living in the sediment.",
-                                              "e":  "the years spent negotiating an international mining code."
+                                              "c":  "the money that mining companies have already spent on specialised equipment.",
+                                              "d":  "the slow recovery of the organisms living in the disturbed sediment.",
+                                              "e":  "the years already spent negotiating an international mining code."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A frase conclui o parágrafo que acaba de dizer que as químicas de bateria mudaram depressa e que mais de um dos metais valorizados nesses nódulos é hoje usado em quantidade menor do que quando os depósitos foram levantados. É por isso que o argumento decisivo pode não ser ecológico. Moratória, gasto das empresas e anos de negociação pertencem ao parágrafo anterior, o da situação regulatória; e a recuperação lenta dos organismos é justamente o argumento ecológico que a frase diz poder não ser o decisivo."
+                         "explicacao":  "A frase conclui o parágrafo que informa que as químicas de bateria mudaram depressa e que mais de um dos metais é hoje usado em quantidade menor do que quando os depósitos foram levantados — perder a causa por se tornar desnecessário é isso. Em (d) está o distrator mais forte, porque a recuperação lenta é de fato um argumento contra a mineração; mas é um argumento ecológico, e o parágrafo abre dizendo que o argumento decisivo pode não ser ecológico. Em (a), (c) e (e), moratória, equipamento e negociação pertencem ao parágrafo anterior, sobre o impasse regulatório."
                      },
                      {
                          "id":  "ingles-85",
@@ -1723,14 +1723,14 @@
                          "tipoItem":  "funcao-paragrafo",
                          "enunciado":  "The last paragraph most likely serves to",
                          "alternativas":  {
-                                              "a":  "recommend closing the new plants until demand recovers.",
+                                              "a":  "recommend closing the new plants until demand has recovered.",
                                               "b":  "explain the technical requirements of a sterile production line.",
                                               "c":  "describe the contracts signed during the last health emergency.",
-                                              "d":  "defend a payment that looks like waste in every year nothing goes wrong.",
-                                              "e":  "compare the prices charged by regional and established suppliers."
+                                              "d":  "defend a payment that looks like waste when nothing goes wrong.",
+                                              "e":  "compare the prices charged by regional and by established suppliers."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O parágrafo apresenta o volume mínimo garantido e a taxa por prontidão, admite que o instrumento é sem glamour e que parece desperdício na planilha sempre que nada dá errado, e responde a essa objeção lembrando que era exatamente o que se dizia dos estoques estratégicos até o momento em que fizeram falta. Fechar as fábricas é o oposto do que se defende; a linha estéril é citada no segundo parágrafo, pelo tempo de formação da equipe; os contratos aqui são os novos, não os da emergência passada; e a comparação de preços está no terceiro parágrafo."
+                         "explicacao":  "O parágrafo apresenta o volume mínimo garantido e a taxa de prontidão, reconhece que parecem desperdício em toda planilha de ano tranquilo e fecha lembrando que a mesma objeção foi feita aos estoques estratégicos até o dia em que fizeram falta — o movimento é de defesa. Em (a) está o oposto: o texto quer que as fábricas ociosas recebam encomendas, não que fechem. Em (b), o treinamento da linha estéril pertence ao segundo parágrafo. Em (e), a comparação de preços está no terceiro. Em (c), os contratos citados são propostas atuais, não acordos da emergência passada."
                      },
                      {
                          "id":  "ingles-88",
@@ -1757,14 +1757,14 @@
                          "tipoItem":  "referencia",
                          "enunciado":  "In the third paragraph, \u0027exactly what the arrangement fails to retain\u0027 most likely refers to",
                          "alternativas":  {
-                                              "a":  "the automated systems that flag material for review.",
+                                              "a":  "the automated systems that flag or miss the material sent for review.",
                                               "b":  "the judgement accumulated by moderators who stay in the job for years.",
-                                              "c":  "the litigation brought in several different countries.",
-                                              "d":  "the rulebook of several hundred pages.",
-                                              "e":  "the wage paid by the contracting firms."
+                                              "c":  "the litigation brought against platforms in several different countries.",
+                                              "d":  "the rulebook of several hundred pages applied to ambiguous material.",
+                                              "e":  "the wage paid by the firms to which the work is contracted out."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A frase encerra o raciocínio sobre rotatividade: como quase todos são novos nas regras, o discernimento acumulado por quem faz o trabalho há anos — apresentado ali mesmo como aquilo que mais melhoraria as decisões — é justamente o que o arranjo não consegue reter. Os sistemas automáticos, os processos judiciais, o manual e o salário aparecem no entorno como elementos do quadro, mas nenhum deles é descrito como algo que a estrutura deixe de reter."
+                         "explicacao":  "A frase encerra o raciocínio sobre rotatividade: como quase todos são novos nas regras, o discernimento de quem faz o trabalho há anos — apresentado ali mesmo como aquilo que mais melhoraria as decisões — é justamente o que o arranjo não retém. Em (d) está o distrator mais próximo, porque o manual é o que o moderador aplica; mas o manual é retido pelo arranjo, e o que se perde é a experiência de aplicá-lo. Em (c), os processos judiciais aparecem como custo psicológico documentado, não como algo que se deixe de reter. Em (a) e (e), sistemas automáticos e salário pertencem a outros parágrafos."
                      },
                      {
                          "id":  "ingles-90",
@@ -1791,14 +1791,14 @@
                          "tipoItem":  "inferencia",
                          "enunciado":  "The text most likely supports which of the following?",
                          "alternativas":  {
-                                              "a":  "A skilled translator is able to preserve every effect of the original.",
-                                              "b":  "Translating requires choosing which effects to keep, and those choices are interpretive.",
-                                              "c":  "Two competent translators ought to arrive at the same text.",
+                                              "a":  "A sufficiently skilled translator can preserve every effect the original produces.",
+                                              "b":  "Translating means choosing which effects to keep, and the choices are interpretive.",
+                                              "c":  "Two competent translators working from one original ought to arrive at the same text.",
                                               "d":  "English offers a translator a wider set of choices than Portuguese does.",
-                                              "e":  "A translation is best understood as a window onto the original."
+                                              "e":  "A translation is best understood as a window onto the original text."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O terceiro parágrafo enuncia isso como condição normal do ofício: toda tradução é uma série de decisões sobre o que preservar quando preservar tudo é impossível, e essas decisões são interpretativas. Preservar tudo é justamente o que o texto diz ser impossível; o mesmo parágrafo afirma que dois tradutores competentes produzem livros diferentes e nenhum está errado; o exemplo do segundo parágrafo mostra o inglês com MENOS opção, não mais, já que ali não há escolha alguma; e o último parágrafo rejeita expressamente a imagem da janela, propondo a de uma execução musical."
+                         "explicacao":  "O terceiro parágrafo enuncia a tese: toda tradução é uma série de decisões sobre o que preservar quando preservar tudo é impossível, e essas decisões são interpretativas. Em (a) e (c) estão as duas consequências que o texto nega no mesmo parágrafo — preservar tudo é impossível, e dois tradutores competentes produzem livros diferentes sem que nenhum esteja errado. Em (e), o quarto parágrafo troca a metáfora da janela pela da performance. Em (d), o exemplo do tratamento formal mostra o inverso: em inglês não há escolha errada porque não há escolha alguma."
                      },
                      {
                          "id":  "ingles-92",
@@ -1825,14 +1825,14 @@
                          "tipoItem":  "funcao-paragrafo",
                          "enunciado":  "The second paragraph most likely serves to",
                          "alternativas":  {
-                                              "a":  "explain why the costs and the benefits of a new building are represented so unequally.",
+                                              "a":  "explain why the costs and benefits of a new building are represented unequally.",
                                               "b":  "demonstrate that a new building imposes no real costs on existing residents.",
-                                              "c":  "describe the procedure by which a city grants a building permit.",
-                                              "d":  "argue that developers ought to be required to pay compensation.",
-                                              "e":  "compare the housing markets of two different cities."
+                                              "c":  "describe the procedure by which a city grants a building permit to a developer.",
+                                              "d":  "argue that developers ought to be required to compensate the neighbours.",
+                                              "e":  "compare the housing markets of two cities with different rules."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O parágrafo opõe custos concentrados, imediatos e legíveis, sentidos por poucos moradores atuais, a benefícios difusos, adiados e invisíveis, destinados a quem ainda não mora ali — e fecha observando que um desses grupos está na sala e o outro nunca estará. Os custos são reconhecidos como reais, e não negados; o procedimento de licenciamento não é descrito; nenhuma compensação é proposta; e não há duas cidades em comparação."
+                         "explicacao":  "O parágrafo opõe custos concentrados, imediatos e legíveis a benefícios difusos, adiados e invisíveis, e conclui que um dos grupos está na sala e o outro nem existe como eleitorado — é a explicação da representação desigual. Em (b) está a distorção mais tentadora: o texto afirma que os custos são reais, e apenas mostra que recaem sobre poucos. Em (d), a compensação não é proposta em nenhum ponto; as reformas discutidas mudam o nível da decisão. Em (c), o procedimento de licenciamento é o assunto do primeiro parágrafo. Em (e), nenhuma cidade específica é comparada a outra."
                      },
                      {
                          "id":  "ingles-94",
@@ -1842,14 +1842,14 @@
                          "tipoItem":  "inferencia",
                          "enunciado":  "The text most likely suggests that the contradiction it describes",
                          "alternativas":  {
-                                              "a":  "results from residents concealing what they actually prefer.",
-                                              "b":  "shows that support for building in the abstract is insincere.",
+                                              "a":  "results from residents concealing the preferences they actually hold.",
+                                              "b":  "shows that support for building in the abstract was never sincere.",
                                               "c":  "follows from different groups answering the general and the particular question.",
-                                              "d":  "has been resolved in most cities by holding more meetings.",
-                                              "e":  "arises because the proposals submitted are too large."
+                                              "d":  "has been resolved in most cities by holding a greater number of meetings.",
+                                              "e":  "arises because the specific proposals brought forward are too large for the street."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O terceiro parágrafo resolve a aparente hipocrisia com uma frase: a pergunta geral é respondida por todos, e a particular, só pelos vizinhos — sem que ninguém mude de opinião. Isso exclui tanto a ocultação de preferências quanto a insinceridade do apoio. Mais reuniões agravariam o problema, já que a reunião é justamente o lugar onde o lado ausente nunca aparece; e o tamanho das propostas não é apontado como causa."
+                         "explicacao":  "O terceiro parágrafo resolve a aparente hipocrisia numa frase: a pergunta geral é respondida por todos e a particular só pelos vizinhos, sem que ninguém mude de opinião. Em (a) e (b) estão as duas explicações por má-fé que o texto descarta ao dizer que nenhuma opinião muda — não há ocultação nem insinceridade, e sim públicos diferentes. Em (d), mais reuniões agravariam o problema, já que a reunião é o único lugar onde o lado ausente nunca aparece. Em (e), o tamanho das propostas não é apontado como causa em nenhum momento."
                      },
                      {
                          "id":  "ingles-95",
@@ -1893,14 +1893,14 @@
                          "tipoItem":  "inferencia",
                          "enunciado":  "The text most likely supports which of the following?",
                          "alternativas":  {
-                                              "a":  "The placebo effect depends on the patient being deceived.",
+                                              "a":  "The placebo effect depends on the patient being deceived about the pill.",
                                               "b":  "Open-label trials found no difference from giving no pill at all.",
-                                              "c":  "Placebos have been shown to reduce the size of tumours.",
+                                              "c":  "Placebos have been shown to reduce the size of tumours in patients.",
                                               "d":  "The effect appears most clearly in measurements taken by instruments.",
-                                              "e":  "The ritual around a treatment may matter independently of belief in the pill."
+                                              "e":  "The ritual around a treatment may matter independently of belief."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O terceiro parágrafo diz que as explicações principais envolvem o ritual e não a crença: tomar algo em hora fixa, a atenção do profissional, a expectativa embutida numa rotina — e o segundo parágrafo já havia mostrado melhora em pacientes que sabiam não haver princípio ativo. Isso derruba a explicação pelo engano; os ensaios relataram melhora em relação a não tomar pílula alguma; o texto afirma que o placebo não encolhe tumor; e diz que o efeito aparece sobretudo no que o paciente relata, não no que o instrumento registra."
+                         "explicacao":  "O terceiro parágrafo diz que as explicações principais envolvem o ritual e não a crença: tomar algo em hora fixa, a atenção do clínico, a expectativa embutida na rotina. Em (a) está a explicação que o texto abre justamente para corrigir, e o ensaio aberto a desmente porque ninguém foi enganado. Em (b), esses ensaios relataram melhora sobre quem não recebeu pílula. Em (d), o mesmo parágrafo afirma o contrário: o efeito aparece sobretudo no que o paciente relata, não no que um instrumento registra. Em (c), a frase sobre o tumor nega isso diretamente."
                      },
                      {
                          "id":  "ingles-98",
@@ -1910,14 +1910,14 @@
                          "tipoItem":  "detalhe",
                          "enunciado":  "According to the text, in an open-label placebo trial the patients are",
                          "alternativas":  {
-                                              "a":  "given an active drug without being informed.",
-                                              "b":  "asked to guess which pill they have received.",
-                                              "c":  "treated without receiving any pill at all.",
+                                              "a":  "given an active drug without being informed that they are.",
+                                              "b":  "asked to guess which of the pills they have received.",
+                                              "c":  "treated without receiving any pill at all during the trial.",
                                               "d":  "told explicitly that the pill contains no active ingredient.",
-                                              "e":  "monitored by instruments rather than by self-report."
+                                              "e":  "monitored by instruments rather than by their own self-report."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "É a definição dada na primeira frase do segundo parágrafo, e é o que torna o experimento interessante: ninguém foi enganado e ainda assim houve efeito. Receber princípio ativo sem saber é o desenho oposto; adivinhar qual pílula recebeu não é pedido em momento algum; não receber pílula nenhuma é a condição do grupo de comparação; e a medição por relato do paciente é uma característica das condições em que o efeito aparece, não do procedimento do ensaio."
+                         "explicacao":  "O segundo parágrafo define o desenho do ensaio numa frase: os pacientes são informados explicitamente de que a pílula não contém princípio ativo, e ainda assim pedem-se a eles que a tomem no horário. Em (c) está o distrator mais próximo, porque o grupo de comparação é justamente o que não recebe pílula alguma — trocar um grupo pelo outro é o erro que a questão testa. Em (a), a ausência de engano é o ponto do experimento. Em (b), não há adivinhação, já que nada é ocultado. Em (e), o terceiro parágrafo diz que o efeito aparece sobretudo no que o paciente relata."
                      },
                      {
                          "id":  "ingles-99",
@@ -2097,14 +2097,14 @@
                          "tipoItem":  "inferencia",
                          "enunciado":  "The text most likely suggests that minimum efficiency standards have spread slowly because",
                          "alternativas":  {
-                                              "a":  "the least efficient units are also the most expensive to buy.",
+                                              "a":  "the least efficient units on sale are also the most expensive ones to buy.",
                                               "b":  "the buyer pays the higher price at once and recovers it only later.",
-                                              "c":  "they raise the total cost of a unit across its lifetime.",
+                                              "c":  "they raise the total cost of a unit across its whole lifetime.",
                                               "d":  "they would push the most efficient models out of the market.",
-                                              "e":  "grids are unable to supply the units that comply with them."
+                                              "e":  "grids are unable to supply the units that would comply with them."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O terceiro parágrafo dá exatamente essa razão: a economia se acumula para o comprador ao longo dos anos, enquanto o preço mais alto é pago no balcão. O texto diz que a eficiência varia por um fator de três a preços semelhantes, o que exclui que os piores modelos sejam os mais caros; afirma que os padrões não custam nada ao consumidor ao longo da vida útil, o que exclui aumento do custo total; e o efeito pretendido é tirar do mercado os piores modelos, não os melhores."
+                         "explicacao":  "O terceiro parágrafo encerra com a razão: a economia se acumula para o comprador ao longo de anos, enquanto o preço mais alto é pago no balcão. Em (c) está a negação da frase anterior, que diz que as normas não custam nada ao consumidor ao longo da vida útil do aparelho. Em (d), quem sairia do mercado seriam os piores modelos, não os melhores. Em (a), o texto diz que a eficiência varia por um fator de três a preços semelhantes, o que desfaz a correlação entre ineficiência e preço alto. Em (e), a capacidade da rede não é apresentada como obstáculo à adoção das normas."
                      },
                      {
                          "id":  "ingles-110",
@@ -2216,14 +2216,14 @@
                          "tipoItem":  "inferencia",
                          "enunciado":  "The text most likely suggests that the greatest threat to the arrangement is",
                          "alternativas":  {
-                                              "a":  "the emergence of a rival currency with deeper markets.",
-                                              "b":  "the continued decline in the dollar\u0027s share of reserves.",
+                                              "a":  "the emergence of a rival currency whose markets are of comparable depth and liquidity.",
+                                              "b":  "the continued decline in the dollar\u0027s share of official reserves.",
                                               "c":  "the perception that access to the system has become a political instrument.",
-                                              "d":  "the cost of settling transactions in local currencies.",
-                                              "e":  "the volume of international borrowing denominated in dollars."
+                                              "d":  "the cost of settling transactions bilaterally in local currencies.",
+                                              "e":  "the volume of international borrowing that is denominated in dollars."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O terceiro parágrafo nomeia o candidato mais plausível ao choque capaz de tornar a troca coordenada digna de tentativa, e diz expressamente que não é uma moeda rival: é a percepção de que o acesso ao sistema virou instrumento político em vez de utilidade pública. A moeda rival é a hipótese descartada na mesma frase; a queda das reservas é tratada no segundo parágrafo como o número errado para se discutir; o custo do pagamento em moeda local é característica das alternativas, não ameaça ao dólar; e o volume de dívida em dólar é um dos pilares do arranjo."
+                         "explicacao":  "O terceiro parágrafo nomeia o candidato mais plausível a choque capaz de tornar a troca coordenada vantajosa, e diz que ele não é uma moeda rival, e sim a percepção de que o acesso virou instrumento político. Em (a) está a resposta que o texto antecipa e descarta na mesma frase. Em (b), as reservas são chamadas de a função menos importante da moeda. Em (e), o volume de endividamento em dólar é o que sustenta o arranjo, não o que o ameaça. Em (d), o custo dos arranjos alternativos é reconhecido pelos próprios patrocinadores, que os tratam como seguro."
                      },
                      {
                          "id":  "ingles-117",
@@ -2267,14 +2267,14 @@
                          "tipoItem":  "referencia",
                          "enunciado":  "In the second paragraph, \u0027The system performed as advertised\u0027 most likely means that",
                          "alternativas":  {
-                                              "a":  "the wanted individual was not in fact found in the crowd.",
+                                              "a":  "the wanted individual was not in fact found anywhere in the crowd.",
                                               "b":  "the hundred false matches are consistent with the accuracy claimed.",
-                                              "c":  "the officer received a list that contained no errors.",
-                                              "d":  "the supplier had overstated the accuracy of the system.",
-                                              "e":  "the crowd was smaller than the system had been designed for."
+                                              "c":  "the officer received a list that contained no errors of any kind.",
+                                              "d":  "the supplier had overstated the accuracy of the system it sold.",
+                                              "e":  "the crowd scanned was smaller than the system had been designed for."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A frase vem logo depois da conta: um por cento de dez mil é cem, então os cem falsos positivos são exatamente o que a acurácia anunciada previa. É por isso que a frase seguinte pode dizer que a lista entregue ao agente segue noventa e nove por cento errada. O texto diz que a pessoa procurada provavelmente será encontrada; a lista está cheia de erros; a acurácia não foi exagerada, e sim mal interpretada; e o tamanho da multidão é o dado da hipótese, não uma falha de dimensionamento."
+                         "explicacao":  "A frase é irônica e literal ao mesmo tempo: um por cento de dez mil são cem, de modo que as cem coincidências falsas são precisamente o que noventa e nove por cento de acurácia prevê. Em (d) está a leitura contrária — o argumento do texto é que o fornecedor não exagerou, e que o número anunciado é que diz pouco. Em (c), a lista entregue ao policial está errada em noventa e nove por cento dos nomes. Em (a), o texto diz que o sistema provavelmente encontrará a pessoa procurada. Em (e), o tamanho da multidão é o que produz o resultado, não uma condição fora do projeto."
                      },
                      {
                          "id":  "ingles-120",
@@ -2302,13 +2302,13 @@
                          "enunciado":  "The text most likely supports which of the following?",
                          "alternativas":  {
                                               "a":  "Curators generally resist returning objects traced to a specific act.",
-                                              "b":  "The documentation of the period rarely records how objects were taken.",
-                                              "c":  "A strict rule can be written that avoids both kinds of error.",
-                                              "d":  "Recent agreements have moved from ownership towards shared authority over decisions.",
+                                              "b":  "The documentation of the period rarely records how the objects were taken.",
+                                              "c":  "A strict rule can be written that avoids both kinds of error at once.",
+                                              "d":  "Recent agreements have moved from ownership towards shared authority.",
                                               "e":  "Most people working in the field hold one of the two absolute positions."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O último parágrafo descreve exatamente esse deslocamento: em vez de perguntar quem é dono, passou-se a perguntar quem deve decidir — pergunta que admite custódia compartilhada, comodatos longos nos dois sentidos, acesso digital e veto sobre a forma de exposição —, e quase todo acordo dos últimos anos foi desse tipo. O segundo parágrafo diz que, havendo rastro até um ato específico, a devolução em geral não é contestada pelos curadores, e que a documentação registrava a tomada sem constrangimento; o terceiro afirma que nenhuma versão da regra estrita evita os dois erros; e o primeiro diz que quase ninguém da área sustenta os absolutos."
+                         "explicacao":  "O último parágrafo descreve a mudança de pergunta — de quem é dono para quem decide — e conclui que quase todo acordo dos últimos anos foi desse tipo. Em (c) está a afirmação que o terceiro parágrafo nega palavra por palavra: nenhuma versão da regra evita os dois erros. Em (b), a documentação da época registra a tomada sem constrangimento. Em (a), os curadores em geral não contestam a devolução quando o objeto é rastreável a um ato específico. Em (e), a abertura do texto diz que quase ninguém da área sustenta qualquer das duas posições absolutas."
                      },
                      {
                          "id":  "ingles-122",
@@ -2336,13 +2336,13 @@
                          "enunciado":  "The second paragraph most likely serves to",
                          "alternativas":  {
                                               "a":  "show that the quality of care has declined over the past century.",
-                                              "b":  "compare the wages of factory workers with those of care workers.",
-                                              "c":  "argue that pensions are harder to reform than care.",
-                                              "d":  "describe the training required to work in care.",
-                                              "e":  "explain why the cost of care rises even when nothing about it gets worse."
+                                              "b":  "compare the wages of factory workers with those of care workers today.",
+                                              "c":  "argue that pensions are harder to reform than the provision of care.",
+                                              "d":  "describe the training required to work in the care professions.",
+                                              "e":  "explain why the cost of care rises even when nothing gets worse."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O parágrafo contrapõe o operário de fábrica, que hoje produz muitas vezes mais do que há um século, à pessoa que ajuda alguém a se vestir, que produz quase exatamente o mesmo — e conclui que é essa distância que faz o custo do cuidado subir mais rápido que tudo, mesmo sem piora, e um país ficar mais rico e achar o cuidado menos acessível. Não se afirma queda de qualidade; salários são tratados no parágrafo seguinte; o primeiro diz que a previdência é a parte fácil, não a difícil; e formação profissional não é mencionada."
+                         "explicacao":  "O parágrafo contrapõe o operário de fábrica, que hoje produz muitas vezes mais, à pessoa que ajuda alguém a se vestir, que produz quase o mesmo de um século atrás — e conclui que essa distância explica por que o custo do cuidado sobe mais rápido que tudo, mesmo sem piorar. Em (a) está a confusão que o parágrafo antecipa: produtividade estagnada não é qualidade em queda. Em (b), a comparação é de produtividade, não de salários. Em (c), a inversão é evidente, já que o texto abre dizendo que a aposentadoria é a parte fácil. Em (d), a formação não é tratada."
                      },
                      {
                          "id":  "ingles-124",
@@ -2353,13 +2353,13 @@
                          "enunciado":  "The text most likely suggests that a country reporting low public spending on care",
                          "alternativas":  {
                                               "a":  "may have transferred the cost to households rather than reduced it.",
-                                              "b":  "has generally found a more efficient way of delivering it.",
-                                              "c":  "depends mainly on migration to fill its workforce gap.",
-                                              "d":  "has raised its retirement age faster than its neighbours.",
-                                              "e":  "pays its care workers more than comparable countries do."
+                                              "b":  "has generally found a more efficient way of delivering that care.",
+                                              "c":  "depends mainly on migration to fill the gap in its workforce.",
+                                              "d":  "has raised its retirement age faster than its neighbours have.",
+                                              "e":  "pays its care workers more than comparable countries do on average."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O último parágrafo diz que é aí que a contabilidade engana: o país que se apoia no cuidado familiar registra gasto público baixo e trata isso como conquista, quando apenas transferiu o custo da rubrica orçamentária para um conjunto de domicílios, onde ele reaparece como renda não auferida, carreira interrompida e, vinte anos depois, aposentadoria menor. Eficiência maior é justamente o que o texto nega; migração é a outra saída, apresentada em paralelo à familiar; idade de aposentadoria pertence ao problema previdenciário; e nada se diz sobre salário comparado entre países."
+                         "explicacao":  "O último parágrafo diz exatamente isso: o país trata a cifra baixa como conquista, quando apenas moveu o custo de uma rubrica orçamentária para um conjunto de domicílios, onde ele reaparece como salários não auferidos e carreiras interrompidas. Em (b) está a leitura que o parágrafo chama de contabilidade enganosa. Em (c), a migração é uma das saídas descritas, mas o texto a associa a sistemas que gastam, e não aos de gasto baixo. Em (d), a idade de aposentadoria é a parte que o texto separa como facilmente ajustável. Em (e), o cuidado é descrito como trabalho mal pago em toda parte."
                      },
                      {
                          "id":  "ingles-125",
@@ -2471,14 +2471,14 @@
                          "tipoItem":  "inferencia",
                          "enunciado":  "The text most likely suggests that describing poorer countries as having weak project pipelines",
                          "alternativas":  {
-                                              "a":  "accurately reflects the quality of the proposals they submit.",
-                                              "b":  "explains why parametric insurance has not grown.",
-                                              "c":  "is a judgement shared by the authors of adaptation plans.",
+                                              "a":  "accurately reflects the quality of the proposals that those countries have submitted for funding.",
+                                              "b":  "explains why parametric insurance has not yet grown to scale.",
+                                              "c":  "restates a judgement that the authors of the adaptation plans themselves have accepted.",
                                               "d":  "attributes to those countries a limitation that belongs to the financing instruments.",
-                                              "e":  "applies only to projects that reduce emissions."
+                                              "e":  "applies to projects that reduce emissions rather than to adaptation."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A frase aparece no fim do terceiro parágrafo, depois de o texto mostrar que se pede a esses países que tomem emprestado para algo que não paga o empréstimo — e o último parágrafo fecha dizendo que o problema nunca foi escassez de bons projetos de adaptação, e sim dinheiro moldado para outro tipo de projeto. Isso derruba a leitura de que a descrição seja acurada ou compartilhada por quem escreve os planos; o seguro paramétrico é apresentado como tentativa de solução ainda pequena; e a expressão se refere justamente aos projetos de adaptação."
+                         "explicacao":  "A expressão fecha o terceiro parágrafo depois de o texto mostrar que se pede a esses países que tomem emprestado para algo que não paga o empréstimo, e o último parágrafo conclui que o problema nunca foi escassez de bons projetos de adaptação, e sim dinheiro moldado para outro tipo de projeto. Em (a) e (c) estão as duas formas de aceitar o rótulo, uma como descrição acurada e outra como juízo compartilhado, e o fecho do texto derruba as duas. Em (b), o seguro paramétrico é apresentado como tentativa de solução ainda pequena. Em (e), a expressão se refere justamente aos projetos de adaptação."
                      },
                      {
                          "id":  "ingles-132",
@@ -2505,14 +2505,14 @@
                          "tipoItem":  "inferencia",
                          "enunciado":  "The text most likely supports which of the following?",
                          "alternativas":  {
-                                              "a":  "Avoidance is driven by a judgement about usefulness rather than by disbelief.",
-                                              "b":  "People who avoid the news generally believe that it is inaccurate.",
+                                              "a":  "Avoidance is driven by a judgement about usefulness rather than disbelief.",
+                                              "b":  "People who avoid the news generally believe that what it reports is inaccurate.",
                                               "c":  "A single outlet could change the industry\u0027s equilibrium on its own.",
-                                              "d":  "Correcting false claims addresses the reason that avoiders give.",
-                                              "e":  "Attention is rewarded slowly and over long periods."
+                                              "d":  "Correcting false claims addresses the reason that the avoiders give.",
+                                              "e":  "Attention is rewarded slowly and over comparatively long periods."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O primeiro parágrafo registra o motivo que aparece em toda pesquisa — não que a notícia seja falsa, mas que é implacável e não muda nada sobre o que o leitor possa agir —, e o último confirma que a audiência perdida não está saindo por descrer. O segundo parágrafo diz que dizer a essa pessoa que a apuração está correta não responde ao que ela disse; o terceiro afirma que o veículo que resistisse perderia para o que não resistisse, o que exclui a mudança por iniciativa isolada; e a atenção é medida continuamente e recompensada de imediato."
+                         "explicacao":  "O primeiro parágrafo já registra o motivo declarado nas pesquisas — não que a notícia seja falsa, mas que é implacável e não muda nada sobre o que o leitor possa agir — e a última frase do texto o repete. Em (b) e (d) está a confusão com desinformação que o segundo parágrafo desfaz: quem evita não descrê, de modo que corrigir não responde ao que foi dito. Em (c), o terceiro parágrafo mostra que um veículo isolado que resistisse perderia audiência. Em (e), a atenção é medida continuamente e recompensada de imediato."
                      },
                      {
                          "id":  "ingles-134",
@@ -2522,14 +2522,14 @@
                          "tipoItem":  "referencia",
                          "enunciado":  "In the last paragraph, \u0027something with a shape\u0027 most likely refers to",
                          "alternativas":  {
-                                              "a":  "a measurement of how long readers remain on a page.",
-                                              "b":  "the urgent feeling that the best-performing material produces.",
-                                              "c":  "the audience that an outlet has already lost.",
-                                              "d":  "the evidence used to correct a false belief.",
-                                              "e":  "an account in which events are connected to what follows and to who decides."
+                                              "a":  "a continuous measurement of the time each reader spends on a given page.",
+                                              "b":  "the urgent feeling produced by the best-performing material.",
+                                              "c":  "the share of the audience that an outlet has already lost.",
+                                              "d":  "the evidence that would be used to correct a false belief.",
+                                              "e":  "an account connecting events to what follows and to who decides."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A expressão nomeia o resultado da prática descrita na mesma frase: contar o que aconteceu, o que provavelmente vem depois e o que está sendo decidido e por quem transforma um fluxo de eventos em algo com forma. A medição de tempo de página e o sentimento de urgência pertencem ao parágrafo anterior, o dos incentivos que pioram o problema; a audiência perdida é citada na última frase, como consequência; e a evidência corretiva é do segundo parágrafo, sobre desinformação."
+                         "explicacao":  "A expressão nomeia o resultado do procedimento descrito na frase anterior: contar o que aconteceu, o que provavelmente vem depois e o que está sendo decidido e por quem transforma um fluxo de acontecimentos em algo com forma. Em (b) está o contrário — o sentimento de urgência é o produto da métrica de atenção, apresentado no parágrafo anterior como parte do problema. Em (a), a medição contínua é a causa do equilíbrio que o texto critica. Em (d), a evidência que corrige uma crença falsa pertence ao segundo parágrafo, sobre desinformação. Em (c), o público perdido é o efeito, não o formato."
                      },
                      {
                          "id":  "ingles-135",
@@ -2573,14 +2573,14 @@
                          "tipoItem":  "referencia",
                          "enunciado":  "In the third paragraph, saying that \u0027turned out\u0027 is doing the work in that sentence most likely means that",
                          "alternativas":  {
-                                              "a":  "the intention of the author determines what a work will come to mean.",
+                                              "a":  "the intention of the author determines what a work will eventually come to mean.",
                                               "b":  "the phrase ought to be removed for the sentence to be accurate.",
                                               "c":  "durable works are those whose meaning was fixed at publication.",
-                                              "d":  "the phrase points to a process that occurs in readers rather than in the book.",
+                                              "d":  "the phrase points to a process occurring in readers, not in the book.",
                                               "e":  "repeated reading adds nothing to a text that was thin to begin with."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A frase seguinte explica a observação: a expressão nomeia um processo que acontece nos leitores, ao longo de gerações, e não no livro. Isso já exclui a intenção do autor, que o próprio trecho diz ser excedida, e o sentido fixado na publicação, que é o oposto de um processo geracional. O texto não sugere suprimir a expressão, e sim reparar nela; e a leitura repetida é citada no mesmo parágrafo como o que distingue o livro que resiste, não como esforço inútil."
+                         "explicacao":  "A frase seguinte explicita o ponto: \u0027turned out\u0027 nomeia um processo que acontece nos leitores, ao longo de gerações, e não no livro. Em (a) e (c) estão as duas versões da tese contrária, uma pela intenção do autor e outra pelo sentido fixado na publicação, e o parágrafo diz justamente que as obras duráveis vieram a ser sobre mais do que seus autores poderiam pretender. Em (b), a expressão não é um defeito a corrigir, e sim o termo em que está a carga do argumento. Em (e), a leitura repetida é apresentada como aquilo que distingue um texto durável, e o texto fino é o contraexemplo."
                      },
                      {
                          "id":  "ingles-138",
@@ -2591,13 +2591,13 @@
                          "enunciado":  "The second paragraph most likely serves to",
                          "alternativas":  {
                                               "a":  "explain why electrification adds up sooner for two-wheelers than for cars.",
-                                              "b":  "describe the design of a battery-swapping station.",
-                                              "c":  "argue that motorcycles ought to replace cars in cities.",
-                                              "d":  "compare the emissions of motorcycles with those of cars.",
-                                              "e":  "list the countries in which two-wheelers are most common."
+                                              "b":  "describe how a battery-swapping station is designed and operated.",
+                                              "c":  "argue that motorcycles ought to replace cars in the most congested cities.",
+                                              "d":  "compare the lifetime emissions of motorcycles with those of cars.",
+                                              "e":  "list the regions of the world in which two-wheelers carry most passenger trips."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O parágrafo alinha três razões — bateria pequena, distância diária curta e previsível, combustível comprado todo dia em dinheiro — e conclui apontando onde está o obstáculo real: o preço de compra, e não o custo de rodagem. A estação de troca é descrita no parágrafo seguinte; o texto não defende substituir carros por motos, apenas observa que o debate ignora a moto; emissões não são comparadas; e as regiões aparecem no primeiro parágrafo, sem lista de países."
+                         "explicacao":  "O parágrafo enumera três razões pelas quais a conta fecha antes para as duas rodas — bateria pequena, distância curta e previsível, combustível pago em dinheiro todo dia — e termina isolando o obstáculo, que é o preço de compra. Em (b) está o distrator mais próximo, porque a troca de bateria é mesmo assunto do texto, mas do terceiro parágrafo, que resolve o problema que o segundo formula. Em (e), as regiões aparecem no primeiro parágrafo. Em (d), emissões não são comparadas em nenhum ponto. Em (c), o texto não defende substituir carros por motos."
                      },
                      {
                          "id":  "ingles-139",
@@ -2624,14 +2624,14 @@
                          "tipoItem":  "inferencia",
                          "enunciado":  "The text most likely supports which of the following about battery swapping?",
                          "alternativas":  {
-                                              "a":  "It has been adopted mainly by the owners of private cars.",
-                                              "b":  "It raises the purchase price of the machine.",
-                                              "c":  "It requires the rider to wait while a battery charges.",
-                                              "d":  "It makes the daily cost less predictable than buying fuel.",
+                                              "a":  "It has been adopted mainly by the owners of privately used cars.",
+                                              "b":  "It raises the purchase price of the machine the rider buys.",
+                                              "c":  "It requires the rider to wait at the station while a depleted battery charges.",
+                                              "d":  "It makes the daily cost less predictable than buying fuel in cash.",
                                               "e":  "It turns an upfront cost into a recurring payment the rider already makes."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O terceiro parágrafo descreve exatamente essa conversão: comprar a máquina sem bateria derruba o preço, e pagar por troca faz a economia se parecer com a compra de combustível que o motociclista já faz todo dia. O último parágrafo diz que nada disso se transfere automaticamente para carros; o preço de compra cai, não sobe; a espera pela recarga desaparece, porque ninguém espera bateria carregar; e o custo diário fica mais parecido com o que já era, não menos previsível."
+                         "explicacao":  "O terceiro parágrafo descreve exatamente essa conversão: comprar a máquina sem bateria derruba o preço, e o pagamento por troca passa a se parecer com a compra de combustível que o piloto já fazia. Em (b) está a inversão do que o texto diz, já que separar a bateria corta o preço. Em (c), o mesmo parágrafo afirma que o tempo de recarga desaparece porque ninguém espera bateria carregar. Em (d), a economia passa a se assemelhar a um gasto que o piloto já conhece, o que aumenta a previsibilidade. Em (a), o último parágrafo diz que nada disso se transfere automaticamente aos carros."
                      },
                      {
                          "id":  "ingles-141",
@@ -2794,14 +2794,14 @@
                          "tipoItem":  "excecao",
                          "enunciado":  "The text most likely supports all of the following EXCEPT:",
                          "alternativas":  {
-                                              "a":  "Funding decisions shape which material becomes searchable.",
+                                              "a":  "Funding decisions shape which of the material becomes searchable at all.",
                                               "b":  "A document that cannot be found by a search is effectively absent.",
                                               "c":  "Institutional papers are over-represented relative to personal ones.",
-                                              "d":  "Some projects scan the least visible collections first.",
-                                              "e":  "Digitisation has preserved the different kinds of holding in equal proportion."
+                                              "d":  "Some recent projects have chosen to scan the least visible collections first.",
+                                              "e":  "Digitisation has preserved the different kinds of holding in equal measure."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "É a tese que o texto desmonta na primeira frase: a digitalização se apresenta como forma de preservar tudo e virou, discretamente, uma forma de selecionar — com distorção que corre por linhas previsíveis. As demais estão sustentadas: o que é digitalizado é o que alguém financia; o documento que a busca não encontra está, na prática, ausente; material produzido por instituições é sobrerrepresentado diante do produzido por indivíduos; e alguns projetos recentes inverteram a ordem, começando pelos acervos menos visíveis."
+                         "explicacao":  "A tese do texto é a oposta de (e): a digitalização virou um modo de selecionar, e o terceiro parágrafo lista as linhas previsíveis da distorção — línguas faladas por muitos, países ricos, instituições em vez de indivíduos. As outras quatro estão sustentadas: (a) e (c) vêm do primeiro e do terceiro parágrafos, (b) é a frase sobre o pesquisador que busca em vez de folhear, e (d) descreve os projetos do último parágrafo, que invertem a prioridade e digitalizam primeiro os acervos menos visíveis."
                      }
                  ]
 }

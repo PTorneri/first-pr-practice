@@ -64,17 +64,17 @@
                      {
                          "id":  "filosofia-sociologia-05",
                          "texto_apoio":  "O utilitarismo avalia a moralidade de uma ação pelos seus efeitos, buscando maximizar o bem-estar do maior número de pessoas afetadas.",
+                         "formato":  "direta",
                          "enunciado":  "Esse princípio ajuda a compreender a lógica por trás de qual dos seguintes debates contemporâneos sobre inteligência artificial?",
                          "alternativas":  {
-                                              "a":  "qualquer decisão tomada por um carro autônomo, mesmo quando não há escolha entre cursos de ação com consequências distintas para vidas humanas, hipótese que dispensa a existência de consequências diferenciadas, justamente o que o utilitarismo exige para orientar a escolha",
-                                              "b":  "a exigência legal de que veículos autônomos registrem em vídeo todas as decisões tomadas em situação de emergência",
-                                              "c":  "a defesa de que carros autônomos devem seguir regras fixas e universais, sem qualquer consideração pelas consequências práticas de cada situação, proposta que se aproxima antes de uma ética deontológica de regras fixas do que do cálculo utilitarista de consequências",
-                                              "d":  "a ideia de que toda decisão algorítmica é, do ponto de vista utilitarista, igualmente correta, independentemente de seu resultado, indiferença que contraria o núcleo utilitarista, para o qual o resultado de cada decisão é justamente o que determina seu valor moral",
-                                              "e":  "a discussão sobre como programar carros autônomos para escolher, em acidentes inevitáveis, a ação que minimize o número total de vítimas, mesmo que isso implique sacrificar ocupantes do próprio veículo"
+                                              "a":  "a exigência de que o fabricante publique o código-fonte do sistema de direção autônoma",
+                                              "b":  "a proposta de que o carro autônomo siga apenas regras fixas de trânsito, sem ponderar consequências",
+                                              "c":  "a discussão sobre quem responde civilmente pelos danos causados por um veículo sem condutor",
+                                              "d":  "a exigência legal de que veículos autônomos registrem em vídeo as decisões de emergência",
+                                              "e":  "a discussão sobre programar o carro para, em acidente inevitável, minimizar o total de vítimas"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O utilitarismo julga ações por seus resultados, buscando o maior saldo de bem-estar coletivo; essa lógica orienta debates sobre como programar carros autônomos diante de acidentes inevitáveis — diferente de aplicá-la a decisões sem consequências diferenciadas, de atribuir ao utilitarismo um critério de regras fixas (deontológico), ou de esvaziar sua exigência de avaliar resultados.",
-                         "formato":  "direta"
+                         "explicacao":  "O utilitarismo julga a ação pelo resultado agregado, e o dilema do acidente inevitável é a forma mais direta desse cálculo: escolhe-se o curso que produz menos dano no total, ainda que isso sacrifique o ocupante. Em (b) está o distrator que exige a distinção mais fina — seguir regra fixa sem ponderar consequências é o procedimento deontológico, o oposto do utilitarista. Em (c), a responsabilidade civil é questão jurídica de imputação, não de maximização de bem-estar. Em (a) e (d), transparência de código e registro em vídeo são exigências de auditoria: dizem respeito a como verificar a decisão, não a que critério moral escolhê-la."
                      },
                      {
                          "id":  "filosofia-sociologia-06",
@@ -259,17 +259,17 @@
                      {
                          "id":  "filosofia-sociologia-18",
                          "texto_apoio":  "O liberalismo político clássico defende um Estado limitado, cuja função principal é assegurar as liberdades individuais e os direitos fundamentais dos cidadãos.",
+                         "formato":  "direta",
                          "enunciado":  "Esse princípio liberal ajuda a situar qual posição no debate contemporâneo sobre regulação estatal de grandes plataformas digitais?",
                          "alternativas":  {
-                                              "a":  "a posição que sustenta que o Estado deve garantir renda mínima a todos os cidadãos",
-                                              "b":  "a ideia de que o liberalismo político clássico é incompatível com qualquer forma de proteção de direitos individuais, contradição direta, já que essa proteção é justamente o núcleo da doutrina liberal clássica",
-                                              "c":  "a ideia de que o liberalismo clássico defende, em qualquer circunstância, a ausência total de regras estatais sobre qualquer atividade econômica, ignorando que ele admite intervenção pontual para coibir abusos concretos, como fraude ou concorrência desleal",
-                                              "d":  "a posição que defende que a intervenção do Estado sobre empresas de tecnologia deve se limitar a evitar abusos concretos contra direitos dos usuários, sem assumir o controle direto da atividade econômica das plataformas",
-                                              "e":  "a defesa de que o Estado deveria planejar centralizadamente toda a oferta de serviços digitais no país, posição estatista diametralmente oposta à limitação do papel do Estado defendida pelo liberalismo clássico"
+                                              "a":  "a que defende a estatização das plataformas de maior alcance, tratadas como serviço essencial",
+                                              "b":  "a que dispensa o Estado de agir mesmo diante de fraude comprovada contra o consumidor",
+                                              "c":  "a que subordina a atuação das plataformas a um plano central de oferta de serviços digitais",
+                                              "d":  "a que limita a intervenção do Estado a coibir abusos concretos contra direitos dos usuários",
+                                              "e":  "a que condiciona a operação das plataformas à aprovação prévia de todo conteúdo publicado nelas"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O liberalismo clássico defende um Estado limitado, cuja função é assegurar liberdades e direitos individuais; esse princípio situa a posição que restringe a intervenção estatal sobre plataformas a evitar abusos concretos — diferente de generalizar para ausência total de regras, de propor planejamento estatal centralizado, ou de opor liberalismo à proteção de direitos individuais.",
-                         "formato":  "direta"
+                         "explicacao":  "O liberalismo clássico não é ausência de Estado: é Estado limitado a garantir liberdades e direitos, o que autoriza intervenção pontual contra abusos e a interdita quando ela vira controle da atividade. Em (b) está o erro mais comum — confundir Estado limitado com Estado omisso; coibir fraude é exatamente a função que a doutrina reserva a ele. Em (a) e (c), estatização e plano central são posições estatistas, opostas à limitação do papel do Estado. Em (e), a aprovação prévia de conteúdo é censura, incompatível com a proteção das liberdades individuais que o liberalismo põe no centro."
                      },
                      {
                          "id":  "filosofia-sociologia-19",
@@ -499,17 +499,17 @@
                      {
                          "id":  "filosofia-sociologia-34",
                          "texto_apoio":  "Foucault desenvolveu o conceito de \"governamentalidade\" para descrever o conjunto de instituições, saberes e técnicas que permitem governar a população como alvo específico do poder.",
+                         "formato":  "direta",
                          "enunciado":  "Esse conceito ajuda a analisar qual aspecto da gestão de \"cidades inteligentes\", que usam sensores e dados urbanos para orientar decisões de trânsito, segurança e serviços públicos?",
                          "alternativas":  {
-                                              "a":  "a defesa de que esse conceito descreve exclusivamente técnicas de tortura empregadas por Estados absolutistas, ignorando que designa técnicas modernas de gestão populacional, não práticas punitivas do Antigo Regime",
-                                              "b":  "a ideia de que a governamentalidade se refere unicamente à eleição direta de prefeitos em regimes democráticos, restrição que ignora seu alcance mais amplo sobre a condução da população",
-                                              "c":  "a transferência da gestão de serviços urbanos a concessionárias privadas mediante licitação",
-                                              "d":  "a ideia de que a governamentalidade implica a eliminação de qualquer forma de administração estatal na sociedade contemporânea, inversão que contraria a ampliação das técnicas administrativas de governo",
-                                              "e":  "a articulação entre estatística, tecnologia e gestão administrativa para conduzir o comportamento coletivo da população urbana, ampliando as técnicas modernas de governo da vida em sociedade"
+                                              "a":  "o emprego de técnicas de tortura por Estados absolutistas contra a população",
+                                              "b":  "a eleição direta dos prefeitos responsáveis pela gestão urbana em regime democrático",
+                                              "c":  "a transferência da gestão de serviços urbanos a concessionárias privadas por licitação",
+                                              "d":  "a eliminação da administração estatal das cidades pela automação dos serviços",
+                                              "e":  "a articulação entre estatística, tecnologia e gestão para conduzir a população"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A governamentalidade designa o conjunto de saberes e técnicas que permitem governar a população como alvo; essa chave ilumina a gestão de cidades inteligentes baseada em dados urbanos — diferente de restringi-la à eleição de prefeitos, de confundi-la com técnicas de tortura, ou de supor a eliminação da administração estatal.",
-                         "formato":  "direta"
+                         "explicacao":  "Governamentalidade nomeia o poder que age sobre a população como conjunto — contando, medindo, prevendo — e a cidade instrumentada por sensores é uma versão contemporânea dessa técnica. Em (c) está o distrator mais próximo, porque também trata de gestão urbana: a concessão redistribui quem executa o serviço, e o conceito descreve como se conduz o comportamento coletivo, seja quem for o executor. Em (a), a punição espetacular pertence ao regime que Foucault mostra ter sido superado. Em (b), a eleição é mecanismo de representação, não técnica de governo da população. Em (d), o conceito descreve a ampliação das técnicas administrativas, não seu desaparecimento."
                      },
                      {
                          "id":  "filosofia-sociologia-35",
@@ -576,82 +576,82 @@
                      {
                          "id":  "filosofia-sociologia-39",
                          "texto_apoio":  "Ao cobrir o julgamento do nazista Adolf Eichmann, Hannah Arendt cunhou a expressão \"banalidade do mal\" para descrever atrocidades cometidas por um burocrata que executava ordens sem refletir sobre suas consequências morais.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse conceito ajuda a interpretar qual argumento levantado em escândalos corporativos contemporâneos, quando funcionários alegam ter apenas seguido normas internas da empresa ao participar de práticas lesivas a terceiros?",
                          "alternativas":  {
-                                              "a":  "a ideia de que qualquer funcionário que siga normas de uma empresa está automaticamente cometendo um crime equivalente ao de Eichmann, ignorando que a gravidade concreta de cada ação, sua extensão e o grau de conhecimento sobre as consequências são decisivos nessa comparação",
-                                              "b":  "a ideia de que a banalidade do mal descreve um fenômeno raro, restrito a personalidades identificáveis previamente como psicopatas, quando Arendt via nesse mecanismo algo banal e potencialmente presente em qualquer burocrata",
-                                              "c":  "o de que decisões corporativas tomadas coletivamente diluem a responsabilidade penal individual",
-                                              "d":  "a defesa de que todo crime corporativo exige necessariamente executores movidos por ódio ou convicções ideológicas extremas, exigência que contraria o diagnóstico de Arendt sobre a ausência de reflexão de Eichmann",
-                                              "e":  "o de que a alegação de mera obediência a protocolos internos, sem reflexão crítica sobre as consequências dessas práticas, pode reproduzir o mecanismo de ausência de pensamento associado por Arendt à banalidade do mal, ainda que em escala distinta do caso Eichmann"
+                                              "a":  "o de que qualquer funcionário que siga normas comete crime equivalente ao de Eichmann",
+                                              "b":  "o de que o fenômeno é raro e restrito a personalidades identificáveis como psicopatas",
+                                              "c":  "o de que decisões coletivas diluem a responsabilidade penal de cada indivíduo",
+                                              "d":  "o de que o crime corporativo exige executores movidos por ódio ou ideologia extrema",
+                                              "e":  "o de que alegar mera obediência a protocolos reproduz a ausência de pensamento"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Arendt observa que Eichmann agia por ausência de reflexão crítica e obediência burocrática, não por convicção fanática; esse mecanismo ilumina alegações de mera obediência a normas internas em escândalos corporativos — diferente de equiparar qualquer obediência a normas a um crime da gravidade de Eichmann, de exigir ódio fanático em todo crime corporativo, ou de tratar a banalidade do mal como traço de personalidade rara.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O que Arendt observa em Eichmann não é crueldade, é a recusa de pensar no que se faz — mecanismo que reaparece sempre que alguém se abriga na norma interna para não examinar as consequências do próprio ato. Em (a) está o excesso na direção oposta: reconhecer o mecanismo não iguala a gravidade dos casos, que variam em escala e em conhecimento das consequências. Em (b) e (d), o ponto do conceito é justamente que não se precisa de psicopatia nem de ódio ideológico. Em (c), a diluição da responsabilidade penal é argumento jurídico de imputação, e o conceito trata da atitude moral do agente."
                      },
                      {
                          "id":  "filosofia-sociologia-40",
                          "texto_apoio":  "Em \"A Condição Humana\", Arendt distingue labor, trabalho e ação, sendo esta última a única atividade genuinamente política, realizada entre os homens no espaço público.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Essa distinção arendtiana entre ação e mero labor ajuda a problematizar qual crítica ao chamado \"ativismo de sofá\" (curtir ou compartilhar uma causa nas redes sem qualquer outra forma de engajamento)?",
                          "alternativas":  {
-                                              "a":  "a ideia de que a ação política, para Arendt, pode ser exercida em isolamento total, sem qualquer relação com outros indivíduos, inversão que contraria a pluralidade constitutiva do espaço público",
-                                              "b":  "a defesa de que a ação, para Arendt, é a atividade voltada exclusivamente à produção de bens duráveis, como obras de arte, confundindo-a com o trabalho, categoria distinta em sua análise",
-                                              "c":  "a ideia de que qualquer manifestação de apoio a uma causa nas redes sociais já configura, por si só, ação política plena no sentido arendtiano, dispensando presença e deliberação entre cidadãos, elementos que Arendt considera constitutivos da esfera pública",
-                                              "d":  "a de que a participação política exige dedicação de tempo incompatível com jornadas longas de trabalho",
-                                              "e":  "a de que compartilhar uma postagem, embora possa expressar solidariedade, não substitui integralmente a ação política arendtiana, que supõe presença, discurso e deliberação efetiva entre os cidadãos no espaço público"
+                                              "a":  "a de que a ação política, para Arendt, pode ser exercida em isolamento completo",
+                                              "b":  "a de que a ação é a atividade voltada à produção de bens duráveis, como obras",
+                                              "c":  "a de que apoiar uma causa nas redes já configura ação política plena e suficiente",
+                                              "d":  "a de que a participação política exige tempo incompatível com jornadas longas",
+                                              "e":  "a de que compartilhar não substitui a ação, que supõe presença e deliberação"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Para Arendt, a ação é a atividade que se desenrola diretamente entre os homens no espaço público, associada à pluralidade e ao discurso; essa distinção problematiza o ativismo de sofá, que pode não envolver essa presença e deliberação efetivas — diferente de equiparar qualquer postagem à ação política plena, de confundir ação com produção de bens (trabalho), ou de supor que a ação ocorre em isolamento, o que contraria sua definição.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A ação, em Arendt, exige aparecer diante de outros e deliberar com eles: é a pluralidade que a distingue tanto do labor quanto do trabalho, e um clique isolado não a realiza. Em (c) está o oposto simétrico, que dissolveria a distinção ao chamar qualquer manifestação de ação política. Em (a), a ação só existe entre homens, nunca em isolamento. Em (b), a produção de bens duráveis define o trabalho, categoria vizinha que Arendt separa da ação. Em (d), a falta de tempo é obstáculo prático real, mas não é o critério conceitual que a distinção fornece."
                      },
                      {
                          "id":  "filosofia-sociologia-41",
                          "texto_apoio":  "Segundo o materialismo histórico de Marx, é a estrutura econômica de uma sociedade que condiciona historicamente suas instituições jurídicas, políticas e formas de consciência social.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Essa tese ajuda a explicar qual leitura frequente sobre a relação entre a crise financeira de 2008 e o crescimento posterior de discursos políticos que questionam as instituições tradicionais em diversos países?",
                          "alternativas":  {
-                                              "a":  "a defesa de que apenas ideias e valores culturais, sem qualquer base econômica, explicam mudanças políticas de longo prazo, inversão que aproxima a tese antes do idealismo hegeliano do que do materialismo histórico",
-                                              "b":  "a ideia de que o materialismo histórico nega qualquer relação entre economia e política em sociedades capitalistas, quando na verdade é essa relação de condicionamento que a teoria de Marx busca justamente evidenciar",
-                                              "c":  "a ideia de que crises econômicas jamais produzem qualquer efeito sobre a política ou a cultura de uma sociedade, negação que contraria o próprio núcleo do materialismo histórico, segundo o qual a infraestrutura econômica condiciona a superestrutura política e cultural",
-                                              "d":  "a de que crises econômicas são causadas, sobretudo, por decisões equivocadas de autoridades monetárias",
-                                              "e":  "a de que transformações profundas na estrutura econômica, como uma crise financeira de grande escala, tendem a repercutir sobre a legitimidade das instituições políticas e sobre o tipo de discurso político que ganha força na sociedade"
+                                              "a":  "a de que apenas ideias e valores culturais explicam mudanças políticas de longo prazo",
+                                              "b":  "a de que o materialismo histórico nega relação entre economia e política",
+                                              "c":  "a de que crises econômicas não produzem efeito sobre a política de uma sociedade",
+                                              "d":  "a de que crises econômicas decorrem sobretudo de erros das autoridades monetárias",
+                                              "e":  "a de que uma crise de grande escala repercute na legitimidade das instituições"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Para Marx, a infraestrutura econômica condiciona a superestrutura política e cultural; essa tese ajuda a interpretar como a crise de 2008 repercutiu sobre a legitimidade de instituições políticas tradicionais — diferente de negar qualquer efeito de crises econômicas sobre a política, de atribuir mudanças políticas apenas a valores culturais, ou de negar a relação entre economia e política que é central à tese marxista.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A tese prevê exatamente esse encadeamento: abalada a base econômica, as formas políticas e a consciência social que dela dependiam entram em disputa, e discursos antes marginais ganham audiência. Em (a) está a posição inversa, que explica a política só por ideias — o idealismo que o materialismo histórico foi formulado para contestar. Em (b) e (c), negar a relação entre economia e política seria abandonar a própria tese. Em (d), atribuir a crise a erros de autoridade monetária é uma explicação conjuntural, que não usa a relação entre estrutura e superestrutura."
                      },
                      {
                          "id":  "filosofia-sociologia-42",
                          "texto_apoio":  "Para Marx e Engels, a sociedade capitalista se estrutura em torno do antagonismo entre a burguesia, proprietária dos meios de produção, e o proletariado, que vende sua força de trabalho para sobreviver.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Essa tese sobre o conflito de classes ajuda a interpretar qual disputa recorrente entre motoristas e entregadores de aplicativo e as empresas de tecnologia que os contratam?",
                          "alternativas":  {
                                               "a":  "a disputa entre plataformas concorrentes pela preferência do mesmo grupo de consumidores",
-                                              "b":  "a ideia de que esse conflito opõe apenas moradores urbanos e rurais, disputando o mesmo território de atuação, leitura territorial alheia ao antagonismo entre capital e trabalho descrito por Marx",
-                                              "c":  "a defesa de que o conflito central nesse setor se dá entre gerações mais velhas e mais novas de trabalhadores, leitura etária que desloca o antagonismo marxista de classe para um critério que Marx não privilegia",
-                                              "d":  "a disputa sobre quem detém o controle dos meios essenciais à atividade (a plataforma e seu algoritmo) e quem depende da venda de sua força de trabalho para sobreviver, o que gera conflitos sobre remuneração e condições de trabalho",
-                                              "e":  "a ideia de que a disputa entre motoristas e plataformas se resume a uma competição entre consumidores e produtores de bens de luxo, deslocamento que ignora o antagonismo de classe entre burguesia e proletariado"
+                                              "b":  "a disputa entre trabalhadores mais antigos e recém-chegados pelas rotas mais rentáveis do dia",
+                                              "c":  "a disputa entre usuários e trabalhadores sobre quem arca com a taxa que a plataforma cobra por corrida",
+                                              "d":  "a disputa entre quem controla a plataforma e seu algoritmo e quem depende de vender seu trabalho",
+                                              "e":  "a disputa entre municípios sobre qual deles pode tributar a receita gerada pelos aplicativos"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Para Marx, o antagonismo central do capitalismo opõe quem detém os meios de produção a quem depende da venda de sua força de trabalho; essa chave ilumina a disputa entre plataformas de aplicativo e seus trabalhadores — diferente de reduzi-la a uma disputa territorial urbano-rural, de tratá-la como conflito geracional, ou de associá-la ao consumo de bens de luxo.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O antagonismo marxista se define pela posição em relação aos meios de produção, e no trabalho por aplicativo o meio decisivo é a plataforma com seu algoritmo, que distribui corridas, fixa preços e desativa contas. Em (b) e (c) estão conflitos reais do setor, e é isso que os torna tentadores: ambos ocorrem entre pessoas que ocupam a mesma posição na produção, e por isso não são conflitos de classe no sentido do texto. Em (a), a concorrência entre empresas é disputa intraburguesa. Em (e), a disputa tributária opõe entes federativos, e não capital e trabalho."
                      },
                      {
                          "id":  "filosofia-sociologia-43",
                          "texto_apoio":  "O conceito marxista de \"fetichismo da mercadoria\" descreve como, no capitalismo, as relações sociais de produção entre trabalhadores aparecem disfarçadas como relações entre as próprias coisas.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse conceito ajuda a interpretar qual fenômeno associado à valorização extrema de tênis de edição limitada e outros itens de revenda (\"hype\") no mercado de streetwear?",
                          "alternativas":  {
-                                              "a":  "a ideia de que o preço de mercado desses produtos reflete sempre, de forma transparente, a quantidade exata de trabalho empregada em sua fabricação, negando justamente a opacidade que o fetichismo da mercadoria descreve",
-                                              "b":  "o modo como o preço e o prestígio desses itens parecem emanar do próprio objeto e de sua raridade, ocultando o trabalho humano concreto de produção e a lógica de marketing por trás de sua valorização",
-                                              "c":  "a defesa de que consumidores desses itens deixam de atribuir qualquer valor simbólico aos produtos que compram, contrariando a lógica de distinção social que movimenta o mercado de streetwear",
-                                              "d":  "a ideia de que o valor desses itens é determinado exclusivamente por rituais tradicionais praticados por seus fabricantes, explicação alheia ao conceito marxista de fetichismo da mercadoria",
-                                              "e":  "o modo como a escassez deliberada de unidades produzidas eleva o preço de revenda no mercado secundário"
+                                              "a":  "o modo como o preço reflete de forma transparente o trabalho gasto na fabricação",
+                                              "b":  "o modo como preço e prestígio parecem emanar do objeto, ocultando o trabalho",
+                                              "c":  "o modo como os consumidores deixam de atribuir valor simbólico ao que compram",
+                                              "d":  "o modo como o valor decorre de rituais tradicionais praticados pelos fabricantes",
+                                              "e":  "o modo como a escassez deliberada de unidades eleva o preço na revenda"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O fetichismo da mercadoria descreve como o valor parece emanar do próprio objeto, ocultando o trabalho humano por trás dele; esse conceito ilumina a valorização de itens de revenda como se seu prestígio fosse intrínseco ao objeto — diferente de supor transparência entre preço e trabalho empregado, de negar qualquer valor simbólico ao consumo, ou de atribuir o valor a rituais tradicionais.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O fetichismo consiste nisto: a mercadoria parece valer por si, como se o preço brotasse de uma qualidade do objeto, e o trabalho que a produziu desaparece de vista. Em (e) está o distrator mais forte, porque descreve corretamente o mecanismo de mercado — a escassez programada eleva o preço —, mas explicar o preço pela oferta é ficar na superfície que o conceito quer atravessar. Em (a), a transparência entre preço e trabalho é exatamente o que o fetichismo impede. Em (c), o valor simbólico é intensificado, não abandonado. Em (d), o ritual do fabricante é explicação alheia ao conceito."
                      },
                      {
                          "id":  "filosofia-sociologia-44",
@@ -672,18 +672,18 @@
                      {
                          "id":  "filosofia-sociologia-45",
                          "texto_apoio":  "Estudos clássicos de sociologia descrevem a organização burocrática ideal como aquela baseada em hierarquia impessoal, regras escritas e seleção por competência, e não por vínculos pessoais.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Esse modelo de organização burocrática ajuda a avaliar qual promessa comum de sistemas de atendimento digital do setor público, como portais de agendamento on-line?",
                          "alternativas":  {
-                                              "a":  "a promessa de reduzir a influência de relações pessoais e de favorecimentos no acesso a serviços públicos, substituindo-a por critérios padronizados e impessoais definidos previamente por regras",
-                                              "b":  "a promessa de reduzir o número de servidores públicos necessários para operar o serviço",
-                                              "c":  "a ideia de que a digitalização de serviços públicos elimina, por si só, qualquer forma de hierarquia administrativa nas instituições, hipótese que ignora a persistência de estruturas hierárquicas formais",
-                                              "d":  "a ideia de que a digitalização de serviços públicos implica a ausência total de qualquer registro documental dos atos administrativos, negando justamente o formalismo escrito típico da burocracia weberiana",
-                                              "e":  "a defesa de que a burocracia ideal se caracteriza pela ocupação de cargos por critérios exclusivamente hereditários, inversão que contraria o princípio weberiano de seleção por competência técnica"
+                                              "a":  "reduzir a influência de relações pessoais no acesso, com critérios padronizados",
+                                              "b":  "reduzir o número de servidores necessários para operar o serviço público",
+                                              "c":  "eliminar a hierarquia administrativa das instituições que prestam o serviço",
+                                              "d":  "dispensar o registro documental dos atos praticados pela administração",
+                                              "e":  "preencher os cargos do órgão por critérios de confiança e indicação pessoal do gestor"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O modelo burocrático ideal se baseia em regras impessoais e critérios padronizados; essa chave ajuda a avaliar a promessa de sistemas digitais de reduzir favorecimentos pessoais no acesso a serviços públicos — diferente de supor que a digitalização elimina toda hierarquia, de associar a burocracia a critérios hereditários, ou de negar o registro documental, que é justamente uma característica burocrática.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "A promessa do agendamento on-line é tipicamente burocrática no sentido weberiano: a fila passa a obedecer a uma regra escrita e igual para todos, no lugar do acesso mediado por conhecidos. Em (b) está o distrator mais tentador, porque a economia de pessoal costuma ser prometida junto — mas é ganho de eficiência administrativa, e não o traço que define o tipo ideal. Em (c) e (d), hierarquia impessoal e formalismo escrito são componentes do modelo, e não coisas que ele elimine. Em (e), a indicação pessoal é o oposto da seleção por competência."
                      },
                      {
                          "id":  "filosofia-sociologia-46",
@@ -704,34 +704,34 @@
                      {
                          "id":  "filosofia-sociologia-47",
                          "texto_apoio":  "A reflexão política distingue uma ética voltada à fidelidade incondicional a princípios, independentemente das consequências, de uma ética que exige avaliar antecipadamente os efeitos práticos das decisões.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Essa distinção entre ética da convicção e ética da responsabilidade ajuda a analisar qual tensão enfrentada por governantes ao decidir sobre medidas restritivas durante uma pandemia?",
                          "alternativas":  {
-                                              "a":  "a tensão entre manter-se fiel a um princípio absoluto (como a liberdade individual irrestrita) e avaliar as consequências práticas previsíveis de uma decisão sobre a saúde coletiva, mesmo que isso implique flexibilizar esse princípio",
-                                              "b":  "a ideia de que apenas uma dessas éticas é levada em conta por qualquer governante em qualquer decisão de política pública, generalização que ignora a tensão simultânea entre as duas, central ao dilema weberiano",
-                                              "c":  "a ideia de que a ética da convicção nunca leva em conta princípios morais em sua formulação, quando na verdade ela se define justamente pela fidelidade incondicional a princípios, como a defesa irrestrita da liberdade individual por certas correntes libertárias",
-                                              "d":  "a defesa de que a ética da responsabilidade considera irrelevante qualquer forma de responsabilidade perante a sociedade, inversão que contraria seu próprio nome e seu compromisso com as consequências",
-                                              "e":  "a tensão entre decidir rapidamente e reunir informação suficiente antes de agir"
+                                              "a":  "a tensão entre a fidelidade a um princípio e a avaliação das consequências previsíveis",
+                                              "b":  "a ideia de que um governante se orienta por apenas uma dessas éticas em cada decisão",
+                                              "c":  "a tensão entre decidir rapidamente e reunir informação suficiente antes de agir",
+                                              "d":  "a tensão entre a opinião do especialista técnico e a do eleitorado que sustenta o governo",
+                                              "e":  "a ideia de que a ética da responsabilidade dispensa qualquer compromisso com a sociedade"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A ética da convicção prioriza a fidelidade a princípios independentemente das consequências, enquanto a ética da responsabilidade exige avaliar os efeitos previsíveis das decisões; essa distinção ilumina a tensão de governantes entre liberdade individual e saúde coletiva em uma pandemia — diferente de supor que apenas uma ética orienta qualquer decisão, ou de inverter o sentido de cada uma das duas éticas.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O dilema é exatamente esse: manter um princípio como inegociável ou responder pelos efeitos previsíveis da decisão, sabendo que a segunda via cobra flexibilizar o primeiro. Em (d) está o distrator mais realista e por isso o mais perigoso — a tensão entre técnico e eleitorado existe na pandemia, mas é conflito de legitimidade, e não a oposição entre os dois tipos de ética. Em (c), a urgência versus informação é dilema de procedimento decisório. Em (b), o próprio dilema supõe as duas éticas operando ao mesmo tempo. Em (e), responder pelas consequências é o compromisso que define a segunda."
                      },
                      {
                          "id":  "filosofia-sociologia-48",
                          "texto_apoio":  "A sociologia clássica distingue formas de coesão social baseadas na semelhança entre os membros de um grupo daquelas baseadas na interdependência entre indivíduos diferentes entre si.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Essa distinção entre coesão por semelhança e coesão por interdependência ajuda a caracterizar qual traço de pequenas comunidades tradicionais em contraste com grandes centros urbanos?",
                          "alternativas":  {
-                                              "a":  "a ideia de que a coesão social em qualquer tipo de comunidade depende unicamente da liderança de uma única figura religiosa, redução que ignora a base de crenças e costumes compartilhados entre sociedades pouco diferenciadas",
-                                              "b":  "a ideia de que grandes centros urbanos dependem exclusivamente da coesão baseada na semelhança de crenças entre seus habitantes, invertendo a distinção clássica entre solidariedade mecânica e orgânica, proposta pelo sociólogo Émile Durkheim",
-                                              "c":  "o fato de pequenas comunidades tradicionais tenderem a se manter unidas por crenças, valores e costumes amplamente compartilhados entre seus membros, diferente da coesão baseada na especialização e na interdependência funcional típica das metrópoles",
-                                              "d":  "a defesa de que pequenas comunidades tradicionais se organizam a partir de acordos jurídicos individuais formalizados, traço associado antes à interdependência funcional das metrópoles do que à coesão por semelhança",
-                                              "e":  "o fato de comunidades tradicionais apresentarem menor desigualdade de renda que os grandes centros urbanos"
+                                              "a":  "o fato de a coesão em comunidades pequenas depender de uma única liderança religiosa",
+                                              "b":  "o fato de os grandes centros dependerem da semelhança de crenças entre seus habitantes",
+                                              "c":  "o fato de comunidades tradicionais se unirem por crenças e costumes compartilhados",
+                                              "d":  "o fato de comunidades tradicionais se organizarem por acordos jurídicos individuais",
+                                              "e":  "o fato de comunidades tradicionais terem menor desigualdade de renda que as metrópoles"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A coesão por semelhança de crenças caracteriza comunidades pouco diferenciadas, enquanto a coesão por interdependência funcional caracteriza sociedades complexas; essa distinção ilumina o contraste entre pequenas comunidades tradicionais e metrópoles — diferente de atribuir às metrópoles a coesão por semelhança, de reduzir a coesão comunitária a acordos jurídicos, ou de vinculá-la sempre a uma liderança religiosa única.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "A coesão por semelhança — a solidariedade mecânica de Durkheim — apoia-se num fundo comum de crenças e costumes que dispensa especialização; a metrópole, ao contrário, une pessoas diferentes pela dependência recíproca entre funções. Em (b) está a inversão exata dos dois polos. Em (d), o acordo jurídico individual formalizado é traço da sociedade diferenciada, não da tradicional. Em (a), a coesão por semelhança repousa em valores partilhados por todos, e não na autoridade de uma figura. Em (e), a desigualdade de renda é outra variável, que a distinção clássica não usa para separar os dois tipos."
                      },
                      {
                          "id":  "filosofia-sociologia-49",
@@ -768,18 +768,18 @@
                      {
                          "id":  "filosofia-sociologia-51",
                          "texto_apoio":  "Em \"Leviatã\", Hobbes descreve o Estado como um \"homem artificial\", ao qual os súditos transferem seu direito de autogoverno para garantir a paz coletiva.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Essa lógica hobbesiana da concentração de poder em troca de ordem e proteção ajuda a problematizar qual crítica ao poder de mercado concentrado por grandes plataformas de tecnologia sobre setores inteiros da economia digital?",
                          "alternativas":  {
-                                              "a":  "a ideia de que qualquer empresa de tecnologia com muitos usuários exerce, por definição, poder equivalente ao de um Estado soberano, generalização que ignora as diferenças entre poder econômico privado e soberania política",
-                                              "b":  "a de que a competição entre plataformas rivais impede que qualquer uma delas concentre poder duradouro",
-                                              "c":  "a de que, embora ofereçam serviços que organizam e dão previsibilidade a mercados antes fragmentados, essas plataformas concentram um poder de decisão sobre regras, preços e acesso que se assemelha, em escala privada, à concentração de poder que Hobbes atribuía ao soberano",
-                                              "d":  "a ideia de que a concentração de poder em plataformas digitais é sempre idêntica, em natureza e consequências, à soberania política descrita por Hobbes, equiparação que ultrapassa o alcance da analogia, já que poder de mercado e poder soberano estatal operam por mecanismos distintos",
-                                              "e":  "a defesa de que Hobbes recomendava a divisão do poder econômico entre múltiplas empresas concorrentes, eliminando qualquer concentração, tese oposta à defesa hobbesiana da concentração do poder soberano"
+                                              "a":  "a de que a competição entre plataformas rivais impede qualquer concentração duradoura de poder",
+                                              "b":  "a de que uma empresa com muitos usuários exerce, por definição, poder equivalente ao de um Estado",
+                                              "c":  "a de que elas dão previsibilidade a mercados antes dispersos e, em troca, decidem regras e acesso",
+                                              "d":  "a de que o poder das plataformas se sustenta apenas no volume de capital que elas conseguem captar",
+                                              "e":  "a de que Hobbes recomendaria dividir o poder econômico entre várias empresas concorrentes"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Hobbes descreve a concentração de poder no soberano como forma de garantir ordem; essa lógica ilumina, por analogia, a crítica à concentração de poder de mercado em grandes plataformas digitais — diferente de igualar qualquer empresa grande a um Estado soberano, de inverter a posição de Hobbes (que não defende a fragmentação do poder), ou de tratar a analogia como identidade exata entre os dois fenômenos.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "A analogia é de estrutura, não de identidade: assim como os súditos trocam autogoverno por paz, os participantes de um mercado aceitam regras privadas em troca da ordem e da previsibilidade que a plataforma organiza. Em (b) está o passo que a analogia não autoriza — equiparar poder econômico privado a soberania política apaga a diferença entre os dois, e é o excesso que a leitura hobbesiana serve para problematizar, não para endossar. Em (e), Hobbes defende a concentração do poder soberano, não sua divisão. Em (a), a premissa da questão é o poder já concentrado. Em (d), o que a analogia destaca é o poder de estabelecer regras, não o volume de capital."
                      },
                      {
                          "id":  "filosofia-sociologia-52",
@@ -800,34 +800,34 @@
                      {
                          "id":  "filosofia-sociologia-53",
                          "texto_apoio":  "Ao duvidar metodicamente de tudo, Descartes conclui que não pode duvidar de que está pensando, o que fundamenta a certeza expressa na fórmula \"penso, logo existo\".",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Esse raciocínio cartesiano ajuda a esclarecer por que argumentos que atribuem consciência ou pensamento genuíno a chatbots de inteligência artificial, apenas por produzirem respostas fluentes, costumam ser considerados filosoficamente insuficientes?",
                          "alternativas":  {
-                                              "a":  "porque, diferentemente do sujeito pensante cartesiano, que tem acesso direto ao próprio ato de duvidar e pensar, um chatbot processa padrões estatísticos de linguagem, sem que a fluência de suas respostas demonstre a existência de um sujeito que efetivamente pensa e duvida de si mesmo",
-                                              "b":  "a ideia de que os sentidos oferecem, segundo Descartes, a prova mais confiável da existência de um sujeito pensante, quando é justamente da dúvida sobre os sentidos que nasce o cogito cartesiano, dúvida metódica levada ao extremo antes de encontrar certeza no ato de pensar",
-                                              "c":  "a defesa de que, para Descartes, a existência de Deus é o único ponto de partida possível para qualquer investigação sobre consciência artificial, quando o ponto de partida do sistema cartesiano é o cogito, isto é, a certeza imediata do sujeito que pensa",
-                                              "d":  "a ideia de que qualquer sistema capaz de produzir texto coerente já demonstra, por si só, possuir uma consciência equivalente à humana, inferência que a fluência textual isolada não sustenta, já que coerência linguística não implica necessariamente um sujeito que pensa e duvida de si mesmo, no sentido cartesiano do termo",
-                                              "e":  "porque tais sistemas ainda não atingiram velocidade de processamento comparável à do cérebro humano"
+                                              "a":  "porque o chatbot processa padrões estatísticos, sem que a fluência revele um sujeito pensante",
+                                              "b":  "porque, para Descartes, os sentidos oferecem a prova mais confiável da existência do sujeito",
+                                              "c":  "porque tais sistemas ainda não alcançaram a velocidade de processamento do cérebro humano",
+                                              "d":  "porque produzir texto coerente já demonstraria, por si só, uma consciência equivalente à humana",
+                                              "e":  "porque a existência de Deus seria o único ponto de partida cartesiano para o problema"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O cogito cartesiano funda a certeza da existência no próprio ato de pensar e duvidar de si mesmo; esse raciocínio esclarece por que a fluência textual de um chatbot não basta para demonstrar que nele exista, de fato, um sujeito pensante — diferente de aceitar a fluência textual como prova de consciência, de partir da existência de Deus (etapa posterior do sistema cartesiano), ou de atribuir aos sentidos, e não ao pensamento, a primeira certeza cartesiana.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O cogito não se apoia no que o sujeito diz, e sim no acesso direto ao próprio ato de duvidar — critério que a fluência verbal, por definição, não fornece. Em (d) está a inferência que a questão pede para recusar: coerência linguística não implica um sujeito que se apreenda pensando. Em (b), é da dúvida sobre os sentidos que nasce o cogito, de modo que a alternativa inverte o percurso. Em (c), velocidade de processamento é critério quantitativo, alheio ao argumento. Em (e), Deus aparece depois no sistema cartesiano; o ponto de partida é a certeza do sujeito que pensa."
                      },
                      {
                          "id":  "filosofia-sociologia-54",
                          "texto_apoio":  "Hume argumenta que a crença de que o futuro se assemelhará ao padrão observado no passado não pode ser demonstrada apenas pela razão, dependendo de um hábito psicológico.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse \"problema da indução\" ajuda a explicar qual limitação discutida a respeito de modelos preditivos de inteligência artificial usados em mercados financeiros?",
                          "alternativas":  {
-                                              "a":  "a ideia de que o problema da indução demonstra a incapacidade humana de observar qualquer regularidade na natureza, quando Hume admite a observação de padrões, apenas nega sua garantia lógica futura",
-                                              "b":  "a de que tais modelos exigem volumes de dados que apenas grandes empresas conseguem reunir",
-                                              "c":  "a ideia de que modelos preditivos baseados em dados históricos são, por definição, sempre corretos em suas previsões futuras, certeza que o próprio problema da indução humeano justamente nega, já que a repetição de padrões passados não tem garantia lógica, apenas hábito psicológico",
-                                              "d":  "a de que tais modelos, por identificarem padrões em dados históricos, podem falhar diante de eventos inéditos ou rupturas estruturais que não seguem os padrões observados no passado, já que a repetição futura desses padrões não pode ser logicamente garantida",
-                                              "e":  "a defesa humeana de que apenas o raciocínio dedutivo, e não a observação de padrões, deve orientar previsões em mercados financeiros, posição estranha a Hume, que via a indução como hábito psicológico inescapável"
+                                              "a":  "a de que o problema da indução nega a possibilidade de observar regularidades na natureza",
+                                              "b":  "a de que tais modelos exigem volumes de dados que só grandes empresas conseguem reunir",
+                                              "c":  "a de que modelos treinados em dados históricos acertam por definição suas previsões futuras",
+                                              "d":  "a de que tais modelos podem falhar diante de eventos inéditos e rupturas estruturais",
+                                              "e":  "a de que Hume recomendaria usar apenas raciocínio dedutivo para prever mercados"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Hume mostra que a crença na repetição de padrões passados não tem garantia lógica, dependendo de hábito; essa chave explica por que modelos preditivos baseados em dados históricos podem falhar diante de eventos inéditos nos mercados — diferente de supor que tais modelos são sempre corretos, de propor o raciocínio dedutivo como alternativa (Hume não o defende para esse fim), ou de negar toda observação de regularidades.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "Um modelo treinado no passado só vale enquanto o futuro se parecer com ele, e é exatamente essa continuidade que Hume mostra não ter garantia lógica — daí a vulnerabilidade a rupturas sem precedente na série. Em (c) está a certeza que o problema da indução dissolve. Em (a), Hume não nega que se observem padrões: nega que a observação os projete necessariamente adiante. Em (e), ele trata a indução como hábito inescapável, e não como erro a substituir por dedução. Em (b), a barreira de dados é um obstáculo prático de mercado, sem relação com o argumento epistemológico."
                      },
                      {
                          "id":  "filosofia-sociologia-55",
@@ -848,82 +848,82 @@
                      {
                          "id":  "filosofia-sociologia-56",
                          "texto_apoio":  "Ao proclamar a \"morte de Deus\", Nietzsche pretende diagnosticar o esgotamento histórico dos fundamentos metafísicos e religiosos que davam sentido último aos valores ocidentais.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse diagnóstico ajuda a interpretar qual leitura sociológica sobre o crescimento de comunidades de fãs extremamente engajadas em torno de artistas, franquias ou ideologias como estruturas quase religiosas de sentido?",
                          "alternativas":  {
-                                              "a":  "a ideia de que a morte de Deus, em Nietzsche, fortalece definitivamente a fé religiosa tradicional nas sociedades contemporâneas, invertendo o diagnóstico nietzschiano de esgotamento metafísico e religioso do Ocidente moderno, quando na verdade Nietzsche diagnostica seu colapso",
-                                              "b":  "a de que a redução da frequência a igrejas decorre principalmente da concorrência por tempo livre",
-                                              "c":  "a ideia de que a morte de Deus, em Nietzsche, implica a irrelevância total de qualquer busca humana por sentido e valores, quando o diagnóstico abre espaço justamente para a criação de novos valores a partir da vontade de potência",
-                                              "d":  "a defesa de que a morte de Deus representa um evento cósmico literal, comprovável cientificamente, sobre a inexistência de qualquer divindade, leitura que ignora seu caráter de diagnóstico cultural e filosófico",
-                                              "e":  "a de que, em um contexto de enfraquecimento de referências religiosas tradicionais, alguns indivíduos passam a buscar em comunidades de fãs ou em causas seculares um sentido de pertencimento e de significado antes fornecido por sistemas de crença tradicionais"
+                                              "a":  "a de que a morte de Deus fortalece a fé religiosa tradicional nas sociedades atuais",
+                                              "b":  "a de que a queda na frequência a igrejas decorre da concorrência por tempo livre",
+                                              "c":  "a de que o diagnóstico nietzschiano implica a irrelevância da busca humana por sentido e valor",
+                                              "d":  "a de que a morte de Deus é um evento cósmico literal, comprovável cientificamente",
+                                              "e":  "a de que alguns buscam em comunidades de fãs o pertencimento antes dado pela religião"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A morte de Deus simboliza o colapso das certezas metafísicas tradicionais, abrindo espaço para a criação de novos valores; esse diagnóstico ilumina a busca de sentido em comunidades de fãs como possível substituto secular — diferente de negar toda busca humana por sentido, de tratar a expressão como afirmação cosmológica literal, ou de inverter seu efeito sobre a fé religiosa tradicional.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O diagnóstico não é sobre religião apenas: é sobre a perda de um fundamento último de sentido, e a leitura sociológica observa que a necessidade permanece e migra para outras estruturas de pertencimento. Em (c) está o passo em falso mais tentador — o esgotamento dos fundamentos antigos abre espaço para a criação de novos valores, e não para a indiferença. Em (a), o diagnóstico é de colapso, não de fortalecimento. Em (d), trata-se de um evento cultural, não de uma tese cosmológica verificável. Em (b), a explicação pela concorrência de tempo livre descreve um dado de comportamento, sem tocar na questão do sentido."
                      },
                      {
                          "id":  "filosofia-sociologia-57",
                          "texto_apoio":  "Gramsci desenvolveu o conceito de \"hegemonia\" para explicar como a dominação de uma classe se sustenta também pela capacidade de fazer seus valores serem aceitos como naturais pela sociedade.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse conceito de hegemonia cultural ajuda a analisar qual crítica frequente ao papel de grandes plataformas de streaming na formação do gosto e dos valores culturais do público?",
                          "alternativas":  {
-                                              "a":  "a defesa de que a hegemonia cultural se sustenta exclusivamente pela imposição de leis penais mais rígidas contra a população, confundindo-a com a coerção estatal direta, distinta do consentimento cultural construído por persuasão que Gramsci situa no centro da hegemonia, e não pela repressão",
-                                              "b":  "a de que a assinatura mensal exclui do acesso quem não dispõe de renda para pagá-la",
-                                              "c":  "a de que a escolha de quais produções são produzidas, promovidas e recomendadas por essas plataformas contribui para naturalizar determinados valores, estéticas e visões de mundo como se fossem simplesmente o que o público \"prefere\", e não o resultado de uma curadoria específica",
-                                              "d":  "a ideia de que a hegemonia cultural implica a ausência completa de qualquer disputa ideológica na sociedade civil, quando é justamente nessa disputa contínua entre classes e grupos sociais que Gramsci situa a construção da hegemonia",
-                                              "e":  "a ideia de que qualquer produção disponível em uma plataforma de streaming representa, por si só, hegemonia cultural no sentido gramsciano, ignorando a seletividade da curadoria editorial que o conceito pressupõe"
+                                              "a":  "a de que a hegemonia se sustenta pela imposição de leis penais mais rígidas",
+                                              "b":  "a de que a assinatura mensal exclui do acesso quem não tem renda para pagá-la",
+                                              "c":  "a de que a curadoria naturaliza certos valores como se fossem preferência do público",
+                                              "d":  "a de que a hegemonia implica ausência de disputa ideológica na sociedade civil",
+                                              "e":  "a de que o catálogo disponível numa plataforma de streaming já constitui, por si, hegemonia cultural"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Gramsci mostra que a dominação se sustenta pela naturalização de valores da classe ou grupo dominante como universais; esse conceito ilumina a crítica ao papel curatorial de plataformas de streaming na formação do gosto — diferente de tratar qualquer conteúdo disponível como hegemonia automática, de reduzi-la à coerção penal, ou de negar a disputa ideológica que a hegemonia, para Gramsci, sempre pressupõe.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A hegemonia opera por consentimento: o que foi escolhido e promovido passa a ser lido como gosto espontâneo do público, e a decisão editorial desaparece atrás do resultado. Em (e) está o excesso que a questão quer flagrar — o conceito depende da seletividade da curadoria, e não do simples fato de haver catálogo. Em (a), a imposição por lei penal é coerção estatal direta, que Gramsci distingue da hegemonia construída por persuasão. Em (d), a hegemonia se constrói na disputa contínua da sociedade civil, e não na ausência dela. Em (b), a barreira de renda é problema de acesso, não de formação do gosto."
                      },
                      {
                          "id":  "filosofia-sociologia-58",
                          "texto_apoio":  "Gramsci distingue o intelectual tradicional, que se apresenta como neutro, do \"intelectual orgânico\", que emerge vinculado a uma classe ou grupo social, articulando sua visão de mundo.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse conceito de intelectual orgânico ajuda a interpretar qual papel social frequentemente atribuído a criadores de conteúdo que se tornam vozes de referência de determinada subcultura ou movimento social nas redes?",
                          "alternativas":  {
-                                              "a":  "o de articular e difundir, a partir de sua vivência dentro do próprio grupo, os valores, a linguagem e as pautas dessa subcultura ou movimento, contribuindo para sua organização e visibilidade pública",
-                                              "b":  "o de manter independência em relação a qualquer grupo social, condição da imparcialidade analítica",
-                                              "c":  "a defesa de que o intelectual orgânico permanece isolado da vida social, dedicando-se à pesquisa teórica desvinculada de qualquer classe, traço que Gramsci atribui ao intelectual tradicional",
-                                              "d":  "a ideia de que o intelectual orgânico rejeita, por definição, qualquer engajamento político em sua produção de conteúdo, quando esse engajamento é justamente sua marca distintiva na teoria gramsciana",
-                                              "e":  "a ideia de que qualquer criador de conteúdo com muitos seguidores exerce a função de intelectual orgânico de um grupo social, ignorando o vínculo orgânico com uma classe que o conceito exige"
+                                              "a":  "o de articular, a partir da vivência dentro do grupo, os valores e as pautas dessa subcultura",
+                                              "b":  "o de manter independência diante de qualquer grupo, condição da imparcialidade analítica",
+                                              "c":  "o de traduzir para o grande público um saber técnico produzido fora do grupo por especialistas",
+                                              "d":  "o de qualquer criador com muitos seguidores, cuja audiência já o converte em porta-voz do grupo",
+                                              "e":  "o de mediar conflitos entre grupos rivais, sem se identificar com as pautas de nenhum deles"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O intelectual orgânico emerge vinculado a um grupo, articulando e difundindo sua visão de mundo; esse conceito ilumina o papel de criadores de conteúdo que se tornam vozes de referência de uma subcultura — diferente de atribuir essa função a qualquer criador popular, de descrevê-lo como isolado da vida social (traço do intelectual tradicional), ou de negar seu engajamento político, que é justamente sua marca distintiva.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O intelectual orgânico não é o especialista que chega de fora nem o mediador neutro: ele nasce dentro do grupo e dá forma pública à visão de mundo que já circulava ali. Em (d) está o distrator mais forte, porque descreve algo comum nas redes — mas audiência não é vínculo orgânico, e o conceito exige a ligação com uma classe ou grupo, não o número de seguidores. Em (b) e (e), a neutralidade e a mediação sem identificação correspondem ao intelectual tradicional, que Gramsci opõe ao orgânico. Em (c), a tradução de saber técnico externo mantém o intelectual fora do grupo, que é justamente o que o conceito nega."
                      },
                      {
                          "id":  "filosofia-sociologia-59",
                          "texto_apoio":  "Habermas descreve a formação histórica de uma esfera pública burguesa, espaço de debate racional entre particulares que permitia formar uma opinião pública capaz de pressionar o poder político.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse conceito ajuda a fundamentar qual crítica frequente ao debate político em redes sociais, marcado por polarização e disseminação de conteúdos falsos?",
                          "alternativas":  {
-                                              "a":  "a defesa de que a esfera pública burguesa, para Habermas, era controlada diretamente pelo Estado absolutista, sem qualquer participação de particulares, invertendo sua origem como espaço de debate entre privados, tal como Habermas a situa no contexto europeu do século XVIII",
-                                              "b":  "a de que, embora ampliem o alcance da participação, ambientes digitais marcados por polarização extrema e desinformação podem enfraquecer as condições de debate racional e crítico que caracterizavam o ideal habermasiano de esfera pública",
-                                              "c":  "a ideia de que qualquer discussão política em redes sociais já reproduz integralmente o ideal habermasiano de esfera pública burguesa, ignorando os efeitos da polarização e da desinformação sobre a racionalidade do debate público",
-                                              "d":  "a de que a moderação de conteúdo por empresas privadas substitui o julgamento do Poder Judiciário",
-                                              "e":  "a ideia de que a esfera pública burguesa jamais existiu de fato, sendo apenas uma construção teórica sem qualquer base histórica, quando Habermas a situa em um contexto histórico concreto, ligado à ascensão da imprensa e dos cafés literários do século XVIII"
+                                              "a":  "a de que a esfera pública burguesa era controlada pelo Estado absolutista, sem particulares",
+                                              "b":  "a de que polarização e desinformação enfraquecem as condições de debate racional e crítico",
+                                              "c":  "a de que qualquer discussão política em rede já realiza o ideal habermasiano de esfera pública",
+                                              "d":  "a de que a moderação por empresas privadas substitui o julgamento do Poder Judiciário",
+                                              "e":  "a de que a ampliação do acesso, por si só, já basta para constituir uma esfera pública"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Habermas descreve a esfera pública burguesa como espaço de debate racional entre particulares; esse conceito fundamenta a crítica a ambientes digitais polarizados e tomados por desinformação, que enfraquecem essa racionalidade — diferente de equiparar qualquer debate on-line ao ideal habermasiano, de atribuir a esfera pública ao controle estatal absolutista, ou de negar sua existência histórica.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O critério habermasiano não é quantidade de participação, e sim qualidade do procedimento: troca de razões orientada ao entendimento. Ampliar o alcance e degradar a argumentação move as duas variáveis em sentidos opostos, e a crítica incide sobre a segunda. Em (e) está a confusão exata entre alcance e qualidade do debate. Em (c), o oposto: supor que toda discussão em rede já realiza o ideal apaga o critério. Em (a), a esfera pública burguesa nasce entre particulares, fora do controle estatal. Em (d), a moderação privada é problema institucional distinto do que o conceito ilumina."
                      },
                      {
                          "id":  "filosofia-sociologia-60",
                          "texto_apoio":  "Para Habermas, a \"ação comunicativa\" busca o entendimento mútuo entre participantes de um diálogo por meio de argumentos racionalmente sustentáveis, e não pela imposição unilateral de interesses.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse conceito ajuda a fundamentar qual crítica ao ambiente de debate público nas redes sociais, quando dominado por descontextualização de falas e ataques pessoais em vez de argumentação?",
                          "alternativas":  {
-                                              "a":  "a de que a substituição da troca argumentativa por descontextualizações e ataques pessoais afasta o debate público do ideal de entendimento mútuo baseado em razões que a ação comunicativa habermasiana valoriza",
-                                              "b":  "a ideia de que a ação comunicativa implica a eliminação de qualquer forma de linguagem verbal nas interações sociais, quando é justamente por meio da linguagem que ela busca o entendimento mútuo racionalmente motivado entre os falantes",
-                                              "c":  "a defesa de que a ação comunicativa se caracteriza pela manipulação estratégica do interlocutor para obter vantagens pessoais na negociação, traço que Habermas atribui à ação estratégica, não à comunicativa",
-                                              "d":  "a ideia de que qualquer discussão acalorada em redes sociais já configura, por si só, ação comunicativa no sentido habermasiano, ignorando a ausência de argumentação racional que a caracteriza",
-                                              "e":  "a de que o volume de mensagens torna impossível acompanhar todas as discussões em curso"
+                                              "a":  "a de que a troca de razões cede lugar a ataques pessoais, afastando o debate do entendimento",
+                                              "b":  "a de que o volume de mensagens torna inviável acompanhar todas as discussões simultâneas",
+                                              "c":  "a de que o debate se converte em negociação estratégica, em que cada lado busca vantagem própria",
+                                              "d":  "a de que a mediação por telas elimina os sinais não verbais de que o entendimento depende",
+                                              "e":  "a de que discussões acaloradas já constituem, por si sós, exercício de ação comunicativa"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A ação comunicativa busca entendimento mútuo por meio de argumentos sustentáveis; esse conceito fundamenta a crítica a debates dominados por ataques pessoais e descontextualização, que se afastam desse ideal — diferente de equiparar qualquer discussão acalorada à ação comunicativa, de confundi-la com ação estratégica manipuladora, ou de negar seu caráter linguístico e dialógico.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A ação comunicativa se define pela orientação ao entendimento por meio de razões, de modo que substituí-la por descontextualização e ataque pessoal é abandonar a própria condição do diálogo. Em (c) está a distinção que Habermas mais insiste em marcar: agir para obter vantagem é ação estratégica, e o problema descrito no enunciado não é cálculo de interesse, é ausência de argumento. Em (e), a intensidade da discussão não substitui a argumentação racional que o conceito exige. Em (b) e (d), volume de mensagens e ausência de sinais não verbais são limitações do meio, e o critério habermasiano incide sobre a forma da interação, não sobre o suporte."
                      },
                      {
                          "id":  "filosofia-sociologia-61",
@@ -944,18 +944,18 @@
                      {
                          "id":  "filosofia-sociologia-62",
                          "texto_apoio":  "O conceito de \"capitalismo de vigilância\" descreve a lógica pela qual dados comportamentais de usuários são extraídos e transformados em previsões vendáveis sobre seu comportamento futuro.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse conceito ajuda a explicar qual modelo de negócios predominante entre aplicativos gratuitos de redes sociais e de mensagens?",
                          "alternativas":  {
-                                              "a":  "a defesa de que esse modelo de negócios atua apenas em regimes autoritários, sendo inexistente em democracias liberais, quando o capitalismo de vigilância se difunde amplamente também nestas últimas, inclusive nos Estados Unidos e na União Europeia",
-                                              "b":  "o modelo em que o uso gratuito do serviço é sustentado pela coleta contínua de dados comportamentais dos usuários, posteriormente analisados e comercializados sobretudo para fins de publicidade direcionada",
-                                              "c":  "a ideia de que esses aplicativos dependem exclusivamente da venda direta de produtos físicos, sem qualquer relação com dados digitais, deslocando o modelo de negócio para um setor econômico distinto",
-                                              "d":  "o modelo em que a empresa cobra assinatura mensal e, em troca, não exibe publicidade ao usuário",
-                                              "e":  "a ideia de que aplicativos gratuitos, por definição, nunca coletam qualquer dado comportamental de seus usuários, negando o próprio mecanismo central do capitalismo de vigilância descrito por Zuboff"
+                                              "a":  "o modelo em que a empresa cobra assinatura mensal e, em troca, não exibe publicidade",
+                                              "b":  "o uso gratuito sustentado pela coleta de dados comportamentais vendidos para publicidade",
+                                              "c":  "o modelo em que a receita vem da venda direta de produtos físicos aos próprios usuários",
+                                              "d":  "o modelo em que o serviço cobra do anunciante por espaço fixo, sem uso de dados do usuário",
+                                              "e":  "o modelo em que o usuário licencia seus dados e recebe parte da receita publicitária gerada"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O capitalismo de vigilância descreve a extração de dados comportamentais transformados em previsões vendáveis, sobretudo para publicidade; esse conceito explica o modelo de negócios de aplicativos gratuitos de redes sociais — diferente de negar a coleta de dados por serviços gratuitos, de restringir o fenômeno a regimes autoritários, ou de atribuir o modelo à venda de produtos físicos.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O gratuito é o preço de entrada: o produto vendido é a previsão sobre o comportamento de quem usa, e a publicidade direcionada é o comprador principal dessa previsão. Em (d) está o distrator mais instrutivo, porque descreve a publicidade da mídia tradicional — espaço vendido sem extração de dados —, que é precisamente o modelo anterior ao que o conceito nomeia. Em (e), o licenciamento com repasse de receita é uma proposta de reforma, não a prática corrente. Em (a), a assinatura sem anúncios é o modelo alternativo. Em (c), a venda de produtos físicos pertence a outro setor."
                      },
                      {
                          "id":  "filosofia-sociologia-63",
@@ -1008,34 +1008,34 @@
                      {
                          "id":  "filosofia-sociologia-66",
                          "texto_apoio":  "Byung-Chul Han contrapõe a \"sociedade disciplinar\" analisada por Foucault a uma \"sociedade do desempenho\", na qual o indivíduo se autoexplora em busca de produtividade ilimitada.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse conceito ajuda a interpretar qual crítica frequente à \"cultura da hustle\" (glorificação do trabalho incessante) difundida em conteúdos motivacionais nas redes sociais?",
                          "alternativas":  {
-                                              "a":  "a de que essa cultura decorre da pressão exercida por chefias sobre trabalhadores subordinados",
-                                              "b":  "a ideia de que a sociedade do desempenho, para Byung-Chul Han, elimina completamente qualquer forma de trabalho, substituído inteiramente por lazer, quando o autor descreve justamente sua intensificação autoexplorada",
-                                              "c":  "a de que essa cultura pode levar o indivíduo a internalizar o imperativo de produtividade ilimitada como exigência própria, e não externa, tornando-se ao mesmo tempo cobrador e cobrado de si mesmo, o que favorece quadros de exaustão e esgotamento",
-                                              "d":  "a ideia de que a sociedade do desempenho descrita pelo autor implica ausência de qualquer forma de exigência sobre os indivíduos, quando essa exigência apenas se desloca de externa para autoimposta, tornando o indivíduo seu maior cobrador",
-                                              "e":  "a defesa de que essa cultura se caracteriza pela predominância de punições físicas visíveis, exercidas por instituições estatais, traço que Byung-Chul Han associa à sociedade disciplinar de Foucault, e não à do desempenho"
+                                              "a":  "a de que essa cultura decorre da pressão que as chefias exercem sobre seus subordinados diretos",
+                                              "b":  "a de que ela se impõe por vigilância constante do empregador sobre o ritmo de cada trabalhador",
+                                              "c":  "a de que o indivíduo internaliza o imperativo de produtividade e vira cobrador de si mesmo",
+                                              "d":  "a de que a exigência de produtividade desaparece quando o trabalho se torna remoto e flexível",
+                                              "e":  "a de que essa cultura se sustenta em punições visíveis aplicadas por instituições formais"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Byung-Chul Han descreve a autoexploração do indivíduo que internaliza o imperativo de desempenho ilimitado; esse conceito ilumina a crítica à cultura da hustle, que pode gerar exaustão e esgotamento — diferente de supor a eliminação do trabalho, de atribuir a essa cultura punições físicas estatais, ou de negar qualquer forma de exigência sobre o indivíduo.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O deslocamento que Han descreve é da coação externa para a autocoação: ninguém precisa vigiar quem já se cobra sozinho, e daí a exaustão típica do desempenho. Em (a), (b) e (e) estão três versões do mesmo equívoco — chefia, vigilância e punição institucional descrevem a sociedade disciplinar de Foucault, que é justamente o termo contra o qual Han define o seu. Em (d), a flexibilidade não dissolve a exigência: ela a torna permanente, porque some o limite que separava o expediente do resto do dia."
                      },
                      {
                          "id":  "filosofia-sociologia-67",
                          "texto_apoio":  "Historiadores do feminismo distinguem diferentes \"ondas\" do movimento, cada uma com pautas predominantes distintas ao longo do tempo.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "A ampliação de pauta da chamada \"segunda onda\" feminista, que passou a discutir temas como sexualidade, trabalho doméstico e relações de poder no âmbito privado, ajuda a situar historicamente qual característica de movimentos como o #MeToo, organizados sobretudo em redes digitais?",
                          "alternativas":  {
-                                              "a":  "a ideia de que movimentos como o #MeToo se concentram exclusivamente na luta pelo direito ao voto, pauta associada antes à primeira onda feminista do que à segunda, que ampliou o debate para sexualidade e trabalho doméstico",
-                                              "b":  "a ideia de que esses movimentos digitais retomam exclusivamente pautas de austeridade econômica, sem relação com sexualidade ou trabalho, deslocamento alheio às pautas de poder privado ampliadas pela segunda onda",
-                                              "c":  "a continuidade do deslocamento do debate feminista para além dos direitos formais, incluindo relações de poder antes tratadas como estritamente privadas, agora tornadas públicas e coletivas por meio do compartilhamento em massa de relatos pessoais",
-                                              "d":  "a defesa de que esses movimentos rejeitam qualquer forma de organização coletiva entre mulheres, quando o compartilhamento em massa de relatos é justamente uma forma de ação coletiva digital",
-                                              "e":  "a de que esses movimentos concentraram suas pautas na conquista de direitos políticos formais"
+                                              "a":  "a concentração da pauta na conquista do direito ao voto e dos direitos políticos formais",
+                                              "b":  "o deslocamento da pauta feminista para questões de austeridade e política econômica",
+                                              "c":  "a passagem do debate para relações de poder antes tidas como privadas, agora tornadas públicas",
+                                              "d":  "a recusa de formas coletivas de organização em favor da denúncia estritamente individual e anônima",
+                                              "e":  "a substituição da mobilização de rua pela atuação exclusiva em instâncias judiciais"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A segunda onda feminista ampliou o debate para relações de poder no espaço privado, popularizando o lema \"o pessoal é político\"; essa chave situa a continuidade desse deslocamento em movimentos como o #MeToo, que tornam públicos relatos antes privados — diferente de reduzir esses movimentos ao sufrágio, de negar sua organização coletiva, ou de associá-los a pautas de austeridade econômica.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O #MeToo dá continuidade ao movimento que a segunda onda iniciou: levar para o espaço público relações antes protegidas pelo rótulo de assunto privado, agora expostas pela soma de relatos individuais. Em (a) está a pauta da primeira onda, e reconhecer a diferença entre as duas é o que a questão cobra. Em (d), o compartilhamento em massa de relatos é ele próprio uma forma de ação coletiva, e não sua recusa. Em (b), austeridade econômica não é pauta característica de nenhuma das ondas descritas. Em (e), a atuação em rede não substituiu a mobilização de rua, que seguiu ocorrendo."
                      },
                      {
                          "id":  "filosofia-sociologia-68",
@@ -1056,66 +1056,66 @@
                      {
                          "id":  "filosofia-sociologia-69",
                          "texto_apoio":  "Judith Butler sustenta que o gênero se constitui pela repetição estilizada de atos, gestos e discursos socialmente reconhecidos, e não como expressão de uma essência interior fixa.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse conceito de \"performatividade de gênero\" ajuda a interpretar qual leitura acadêmica sobre práticas de drag queens em apresentações artísticas e midiáticas?",
                          "alternativas":  {
-                                              "a":  "a de que essas apresentações demonstram que a identidade de gênero é escolhida livremente a cada dia",
-                                              "b":  "a defesa de que o conceito é irrelevante para compreender expressões artísticas contemporâneas relacionadas a gênero, quando o drag é justamente um dos exemplos privilegiados por Butler",
-                                              "c":  "a ideia de que o gênero é, segundo Butler, uma essência biológica fixa e determinada integralmente no nascimento, tese essencialista que sua noção de performatividade rejeita expressamente, pois para ela o gênero é performado, não dado",
-                                              "d":  "a ideia de que a performatividade de gênero, para Butler, depende exclusivamente de decisões jurídicas tomadas pelo Estado sobre identidade civil, deslocando o conceito para uma esfera institucional distinta",
-                                              "e":  "a de que essas apresentações, ao exagerar deliberadamente convenções de gênero, evidenciam justamente o caráter construído e repetido dessas convenções, expondo o que normalmente passa despercebido como natural no cotidiano"
+                                              "a":  "a de que essas apresentações mostram que a identidade de gênero é escolhida a cada dia",
+                                              "b":  "a de que o conceito não ajuda a compreender expressões artísticas ligadas a gênero",
+                                              "c":  "a de que o gênero, para Butler, é uma essência biológica determinada no nascimento",
+                                              "d":  "a de que a performatividade depende de decisões jurídicas do Estado sobre identidade civil",
+                                              "e":  "a de que o exagero das convenções expõe o caráter construído e repetido dessas convenções"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Butler argumenta que o gênero se constrói pela repetição de atos e gestos socialmente reconhecidos, não por uma essência interior; esse conceito ilumina como apresentações de drag expõem, por exagero deliberado, o caráter construído dessas convenções — diferente de vincular a performatividade a decisões jurídicas estatais, de negar sua relevância para a análise artística, ou de atribuir a Butler a defesa de uma essência biológica fixa, que ela nega.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O drag torna visível o que a repetição cotidiana esconde: ao exagerar gestos e signos de gênero, mostra que eles são convenção reiterada e não expressão de uma natureza. Em (a) está a leitura equivocada mais difundida — performatividade não é escolha voluntária e diária, e sim reiteração de normas que antecedem o sujeito. Em (c), a essência biológica fixa é a tese que o conceito recusa. Em (d), o registro civil é questão jurídica, e a performatividade opera no plano dos atos e discursos. Em (b), o drag é um dos exemplos que a própria autora privilegia."
                      },
                      {
                          "id":  "filosofia-sociologia-70",
                          "texto_apoio":  "A antropologia distingue o relativismo cultural do \"etnocentrismo\", que consiste em julgar outras culturas a partir dos valores da própria cultura do observador, tomados como referência universal.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Esse conceito de etnocentrismo ajuda a identificar qual viés comum em coberturas internacionais que descrevem tradições de outros países como \"atrasadas\" ou \"exóticas\", sem considerar seu contexto próprio?",
                          "alternativas":  {
-                                              "a":  "a ideia de que o etnocentrismo consiste em recusar qualquer forma de comparação entre culturas distintas, quando na verdade consiste em julgá-las a partir de um único padrão tomado como universal",
-                                              "b":  "a ideia de que reconhecer a igual validade de todas as práticas culturais, sem hierarquizá-las, já configura, por si só, etnocentrismo, quando essa postura define justamente o relativismo cultural, seu oposto",
-                                              "c":  "o viés de tomar os valores e costumes do próprio país ou da própria cultura como parâmetro universal para avaliar práticas de outras sociedades, frequentemente classificando-as como inferiores quando divergem desse padrão",
-                                              "d":  "o viés de descrever culturas distantes recorrendo a fontes secundárias em vez de pesquisa de campo",
-                                              "e":  "a defesa de que compreender uma cultura exclusivamente a partir de seus próprios códigos internos, sem qualquer julgamento externo, é a definição de etnocentrismo, quando essa descrição corresponde na verdade ao relativismo cultural"
+                                              "a":  "o de recusar comparações entre culturas, por considerá-las incomensuráveis entre si",
+                                              "b":  "o de descrever culturas distantes com base em fontes secundárias, sem pesquisa de campo",
+                                              "c":  "o de tomar os valores da própria cultura como parâmetro universal para avaliar as demais",
+                                              "d":  "o de reconhecer validade equivalente às práticas de cada cultura, sem hierarquizá-las entre si",
+                                              "e":  "o de descrever uma cultura apenas por seus códigos internos, sem qualquer juízo externo"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O etnocentrismo consiste em tomar os valores da própria cultura como parâmetro universal para julgar outras; esse conceito identifica o viés de coberturas que classificam tradições estrangeiras como \"atrasadas\" a partir de padrões próprios — diferente de confundir etnocentrismo com relativismo cultural (que reconhece validade das práticas em seu contexto), ou de tratá-lo como recusa de qualquer comparação.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "Etnocentrismo é adotar o próprio padrão como medida universal e ler o diferente como desvio — é o que produz os rótulos de atrasado e exótico. Em (d) e (e) está a inversão que a questão cobra: reconhecer validade própria a cada cultura e descrevê-la por seus códigos internos define o relativismo cultural, o polo oposto. Em (a), recusar toda comparação seria outra posição ainda, e o etnocentrismo compara o tempo inteiro, só que com uma régua fixa. Em (b), apoiar-se em fonte secundária é falha de método, que pode ocorrer com ou sem viés etnocêntrico."
                      },
                      {
                          "id":  "filosofia-sociologia-71",
                          "texto_apoio":  "Clifford Geertz propõe o método da \"descrição densa\", que busca interpretar ações e símbolos culturais no contexto específico de significado atribuído pelos próprios sujeitos que os praticam.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse método ajuda a justificar qual abordagem recomendada a pesquisadores que estudam o significado de memes e gírias específicas de comunidades on-line?",
                          "alternativas":  {
-                                              "a":  "a ideia de que qualquer descrição estatística da frequência de uso de um meme já constitui, por si só, uma descrição densa no sentido geertziano, quando esta exige interpretar o significado atribuído pelos próprios sujeitos, não apenas contar ocorrências",
-                                              "b":  "a ideia de que esse método recomenda aplicar exclusivamente métodos experimentais de laboratório ao estudo de comunidades on-line, abordagem estranha ao método interpretativo e etnográfico de Geertz",
-                                              "c":  "a de investigar o sentido que esses códigos têm para os próprios membros da comunidade em seu contexto de uso, em vez de apenas descrever ou traduzir literalmente a imagem ou a expressão sem considerar seu significado interno ao grupo",
-                                              "d":  "a de mapear a frequência com que cada código aparece, estabelecendo sua distribuição estatística",
-                                              "e":  "a defesa de que a descrição densa consiste em ignorar completamente o contexto histórico e social em que uma prática cultural ocorre, quando Geertz a define justamente como interpretação atenta a esse contexto de significado"
+                                              "a":  "a de contar a frequência com que cada meme aparece, estabelecendo sua distribuição",
+                                              "b":  "a de aplicar métodos experimentais de laboratório ao estudo de comunidades on-line",
+                                              "c":  "a de investigar o sentido que esses códigos têm para os próprios membros da comunidade",
+                                              "d":  "a de traduzir literalmente a imagem ou a expressão para o vocabulário do pesquisador",
+                                              "e":  "a de descrever a prática sem considerar o contexto histórico e social em que ela é produzida"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A descrição densa busca interpretar o significado que símbolos culturais têm para os próprios sujeitos que os praticam; esse método justifica investigar o sentido interno de memes e gírias de comunidades on-line em seu contexto de uso — diferente de reduzir a descrição densa a dados estatísticos de frequência, de ignorar o contexto histórico e social, ou de propor métodos experimentais de laboratório, alheios ao método interpretativo de Geertz.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A descrição densa se define pela reconstrução do significado do ponto de vista de quem pratica: um piscar de olhos e uma piscadela são o mesmo movimento e coisas diferentes, e só o contexto de sentido separa os dois. Em (a) e (d) estão as duas formas de descrição rala — contar ocorrências e traduzir literalmente registram o comportamento sem alcançar o sentido, que é o corte que Geertz introduz. Em (e), ignorar o contexto contraria a definição do método. Em (b), o experimento de laboratório retira a prática do ambiente de que ela depende."
                      },
                      {
                          "id":  "filosofia-sociologia-72",
                          "texto_apoio":  "Claude Lévi-Strauss interpreta o tabu do incesto, presente de forma quase universal entre as culturas humanas, como a fronteira estrutural entre natureza e cultura, por obrigar a troca de parceiros entre grupos.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Essa leitura estruturalista ajuda a entender por que Lévi-Strauss considerava as regras de aliança matrimonial entre diferentes grupos familiares um elemento fundador da vida social, e não apenas uma norma moral arbitrária?",
                          "alternativas":  {
-                                              "a":  "a ideia de que o tabu do incesto seria, para Lévi-Strauss, um fenômeno puramente biológico, sem qualquer dimensão social ou simbólica, quando o autor o situa justamente na fronteira estrutural entre natureza e cultura",
-                                              "b":  "porque a proibição evita a transmissão de doenças hereditárias, o que garante a sobrevivência do grupo",
-                                              "c":  "a defesa de que essa regra seria uma norma exclusiva das sociedades ocidentais modernas, ausente em sociedades tradicionais, quando Lévi-Strauss a descreve como quase universal entre as culturas humanas",
-                                              "d":  "porque, ao obrigar a troca de parceiros entre grupos distintos, essa regra estabelece redes de aliança e reciprocidade entre famílias diferentes, fundando a própria organização social para além dos laços de parentesco imediato",
-                                              "e":  "a ideia de que o tabu do incesto seria, nessa leitura, uma regra arbitrária, sem qualquer função social identificável, quando Lévi-Strauss lhe atribui a função de fundar alianças entre grupos distintos, condição da própria organização social"
+                                              "a":  "porque a proibição evita a transmissão de doenças hereditárias e protege a saúde do grupo",
+                                              "b":  "porque a regra reflete uma repugnância instintiva que precede qualquer elaboração cultural",
+                                              "c":  "porque a norma foi codificada de modo semelhante nos sistemas jurídicos dos Estados modernos",
+                                              "d":  "porque, ao obrigar a troca de parceiros, ela funda redes de aliança entre famílias distintas",
+                                              "e":  "porque cada sociedade fixa livremente seus próprios graus de parentesco proibidos ao casamento"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Para Lévi-Strauss, o tabu do incesto obriga trocas entre grupos, fundando alianças e a própria organização social; essa leitura explica por que ele via essa regra como estruturalmente fundadora, e não meramente arbitrária — diferente de reduzi-la a um fenômeno puramente biológico, de restringi-la ao Ocidente moderno, ou de negar-lhe qualquer função social identificável.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O argumento de Lévi-Strauss é positivo, não proibitivo: ao vedar o parceiro de dentro, a regra obriga a buscar o de fora, e é essa troca que amarra grupos separados numa rede de reciprocidade — daí ser fundadora da vida social. Em (a) e (b) estão as duas explicações naturalistas que o estruturalismo recusa; a saúde genética e o instinto situariam o tabu na natureza, e o ponto do autor é que ele marca a passagem para a cultura. Em (e), a variação dos graus proibidos existe, mas é o que faria da regra uma convenção arbitrária, e a tese sustenta o contrário. Em (c), a codificação jurídica moderna é posterior e não explica a universalidade."
                      },
                      {
                          "id":  "filosofia-sociologia-73",
@@ -1136,82 +1136,82 @@
                      {
                          "id":  "filosofia-sociologia-74",
                          "texto_apoio":  "Diferentemente do consequencialismo e da deontologia, a ética das virtudes, de inspiração aristotélica, concentra-se no caráter e nas disposições estáveis do agente moral.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Essa abordagem ajuda a explicar por que parte do debate público sobre lideranças políticas avalia não apenas resultados de políticas específicas, mas também o caráter e a consistência de conduta dos governantes ao longo do tempo?",
                          "alternativas":  {
-                                              "a":  "a ideia de que a ética das virtudes nega qualquer critério racional para avaliar a conduta de agentes públicos, quando na verdade propõe o caráter estável como critério racional de avaliação",
-                                              "b":  "porque a avaliação de uma liderança deve considerar apenas os resultados alcançados durante o mandato",
-                                              "c":  "a defesa de que essa abordagem se baseia no cálculo exato de custos e benefícios de cada decisão política isolada, traço próprio do consequencialismo, e não da ética das virtudes aristotélica",
-                                              "d":  "porque, na perspectiva da ética das virtudes, a confiabilidade de um agente moral depende de disposições estáveis de caráter, e não apenas de resultados pontuais de decisões isoladas, o que torna a avaliação de consistência de conduta um critério moral relevante",
-                                              "e":  "a ideia de que a ética das virtudes recomenda avaliar lideranças exclusivamente pela obediência literal a códigos legais escritos, quando o critério relevante é antes a disposição estável de caráter do agente do que sua conformidade formal à letra da lei"
+                                              "a":  "porque a avaliação de uma liderança deve considerar apenas os resultados do mandato",
+                                              "b":  "porque o caráter só importa quando os resultados da gestão são ruins ou insuficientes",
+                                              "c":  "porque a ética das virtudes se apoia no cálculo de custos e benefícios de cada decisão isolada",
+                                              "d":  "porque a confiabilidade do agente depende de disposições estáveis, não de atos isolados",
+                                              "e":  "porque o critério relevante é a conformidade da conduta à letra da lei vigente"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A ética das virtudes avalia o caráter e as disposições estáveis do agente, e não apenas resultados isolados; essa abordagem explica por que o debate público sobre lideranças considera a consistência de conduta ao longo do tempo — diferente de restringir a avaliação à obediência legal, de reduzi-la a cálculo de custo-benefício (traço consequencialista), ou de negar todo critério racional de avaliação.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A ética das virtudes desloca a pergunta de o que fazer para quem se é: o que se avalia é a disposição consolidada, que permite prever conduta em situações ainda não ocorridas. Em (c) e (e) estão as duas abordagens rivais nomeadas no próprio enunciado — o cálculo de consequências e a conformidade à regra —, e distingui-las é o que a questão cobra. Em (a), avaliar só resultados é a posição consequencialista. Em (b), fazer o caráter importar apenas quando o resultado é ruim o converteria em critério auxiliar, e não em critério próprio."
                      },
                      {
                          "id":  "filosofia-sociologia-75",
                          "texto_apoio":  "Segundo o \"princípio do dano\" (harm principle) de John Stuart Mill, o único fundamento legítimo para restringir a liberdade de um indivíduo, contra sua vontade, é prevenir dano a terceiros.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse princípio ajuda a fundamentar qual posição no debate contemporâneo sobre moderação de conteúdo considerado ofensivo, mas que não incita diretamente violência ou dano concreto a terceiros, em redes sociais?",
                          "alternativas":  {
-                                              "a":  "a ideia de que, para Mill, toda opinião divergente da maioria deveria ser impedida de circular publicamente, quando o princípio do dano defende justamente a livre circulação de opiniões impopulares",
-                                              "b":  "a posição que distingue entre restringir discursos que causam dano concreto a terceiros e restringir discursos apenas por serem considerados incômodos ou desagradáveis ao público, sendo apenas o primeiro caso razão legítima de restrição",
-                                              "c":  "a posição que sustenta que plataformas privadas não podem restringir qualquer conteúdo legal",
-                                              "d":  "a defesa de que o Estado deveria impedir qualquer conduta que prejudique o próprio indivíduo, mesmo sem afetar terceiros, posição que Mill rejeita ao restringir a intervenção legítima a casos de dano efetivo a outros",
-                                              "e":  "a ideia de que o princípio do dano exige que todos os usuários compartilhem as mesmas crenças e opiniões, quando Mill defende a livre circulação de opiniões divergentes, mesmo as consideradas ofensivas por parte do público"
+                                              "a":  "a que autoriza restringir o discurso quando ele contraria a opinião majoritária dos usuários",
+                                              "b":  "a que separa restringir discurso que causa dano concreto de restringi-lo por ser incômodo",
+                                              "c":  "a que impede plataformas privadas de restringir qualquer conteúdo que seja legal no país",
+                                              "d":  "a que autoriza o Estado a impedir condutas nocivas ao próprio indivíduo que as pratica",
+                                              "e":  "a que condiciona a permanência de um conteúdo à sua veracidade verificada por terceiros"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Mill defende que restringir a liberdade só se justifica para prevenir dano a terceiros, não bastando que uma conduta seja considerada imoral ou incômoda; esse princípio fundamenta a distinção entre discursos que causam dano concreto e discursos apenas desagradáveis em debates sobre moderação de conteúdo — diferente de defender a supressão de opiniões divergentes, de estender a restrição a condutas que afetam só o próprio agente, ou de exigir uniformidade de crenças.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O princípio do dano fornece exatamente esse corte: dano a terceiros justifica restrição, desconforto ou ofensa não justificam, e conteúdo apenas incômodo fica protegido. Em (d) está o paternalismo que Mill recusa de modo explícito, ao limitar a intervenção legítima aos casos de dano a outros. Em (a), a opinião da maioria é o critério que o princípio serve para neutralizar, já que Mill defende a circulação de opiniões impopulares. Em (c), o princípio orienta a coerção sobre indivíduos e não converte plataforma privada em espaço obrigatoriamente aberto. Em (e), a verificação de veracidade introduz um critério diferente do dano."
                      },
                      {
                          "id":  "filosofia-sociologia-76",
                          "texto_apoio":  "Parte da doutrina contemporânea amplia a classificação clássica de direitos (civis, políticos e sociais) propondo novas gerações associadas a temas emergentes, como bioética e identidade cultural coletiva.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Essa ampliação da classificação de direitos ajuda a situar qual debate atual sobre o uso de tecnologias de edição genética em seres humanos?",
                          "alternativas":  {
-                                              "a":  "a ideia de que esse debate deve ser enquadrado como uma questão de direitos trabalhistas de segunda geração, quando na verdade se relaciona a uma nova geração de direitos ligada à bioética e à identidade cultural e coletiva",
-                                              "b":  "a ideia de que esse tema não se enquadra em qualquer classificação doutrinária de direitos, por ser demasiado recente, quando parte da doutrina o enquadra justamente como nova geração de direitos ligada à bioética",
-                                              "c":  "a defesa de que apenas direitos de primeira geração, voltados à limitação do poder estatal, são relevantes para regular tecnologias genéticas, quando o tema se associa antes a uma nova geração ligada à bioética",
-                                              "d":  "o debate sobre o direito de acesso gratuito a tratamentos de alto custo no sistema público de saúde",
-                                              "e":  "o debate sobre limites éticos e jurídicos à manipulação do patrimônio genético humano, frequentemente enquadrado como uma nova geração de direitos ligada à bioética, distinta das gerações clássicas de direitos civis, políticos e sociais"
+                                              "a":  "o debate sobre o enquadramento do tema como direito trabalhista de segunda geração",
+                                              "b":  "o debate sobre a impossibilidade de enquadrar o tema em qualquer classificação doutrinária",
+                                              "c":  "o debate sobre limitar o poder estatal, próprio dos direitos de primeira geração",
+                                              "d":  "o debate sobre o direito de acesso gratuito a tratamentos de alto custo na rede pública",
+                                              "e":  "o debate sobre limites éticos à manipulação do patrimônio genético, ligado à bioética"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Parte da doutrina propõe gerações adicionais de direitos ligadas a temas emergentes, como bioética; essa chave situa o debate sobre edição genética humana como uma dessas novas dimensões de direitos — diferente de reduzi-lo a direitos trabalhistas, de restringi-lo a direitos de primeira geração, ou de negar-lhe qualquer enquadramento doutrinário.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "A edição genética é o caso típico que motiva a proposta de uma nova geração de direitos: o bem protegido não é a liberdade diante do Estado nem uma prestação social, e sim a integridade do patrimônio genético, inclusive de quem ainda não nasceu. Em (d) está o distrator mais próximo, porque também trata de saúde — mas acesso a tratamento é direito social de segunda geração, categoria clássica. Em (a) e (c), o enquadramento como direito trabalhista ou como limitação do poder estatal recorre a gerações que não abarcam o problema. Em (b), a doutrina justamente propõe uma classificação para ele."
                      },
                      {
                          "id":  "filosofia-sociologia-77",
                          "texto_apoio":  "O modelo de Estado de bem-estar social (welfare state) se caracteriza pela provisão pública de serviços universais como saúde, educação e previdência, financiados por tributação.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Essa concepção ajuda a situar qual argumento central na defesa contemporânea de programas de renda básica universal?",
                          "alternativas":  {
-                                              "a":  "a defesa de que esse modelo exige a privatização integral de todos os serviços sociais anteriormente públicos, quando na verdade se caracteriza pela provisão pública e universal desses serviços, financiada coletivamente por meio de tributação",
-                                              "b":  "o de que, assim como o welfare state clássico busca garantir patamares mínimos de bem-estar por meio de serviços públicos, a renda básica universal buscaria garantir um patamar mínimo de segurança econômica direta, financiado coletivamente, para reduzir desigualdades",
-                                              "c":  "a ideia de que o welfare state se caracteriza pela eliminação de qualquer intervenção estatal na economia e na proteção social, quando na verdade se define pela ampla provisão pública de saúde, educação e previdência, financiada coletivamente por tributação",
-                                              "d":  "o de que a proteção social deve ser condicionada à contrapartida de trabalho ou capacitação",
-                                              "e":  "a ideia de que o welfare state concentra exclusivamente recursos públicos em investimentos militares, quando na verdade prioriza serviços universais de saúde, educação e previdência, financiados coletivamente por meio de tributação progressiva"
+                                              "a":  "o de que o modelo exige privatizar integralmente os serviços sociais públicos",
+                                              "b":  "o de que a renda básica garantiria patamar mínimo de segurança econômica direta",
+                                              "c":  "o de que o welfare state elimina a intervenção estatal na proteção social",
+                                              "d":  "o de que a proteção social deve ser condicionada à contrapartida de trabalho",
+                                              "e":  "o de que o financiamento deve vir de contribuição individual, não de tributação geral"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O Estado de bem-estar social provê serviços universais financiados por tributação para reduzir desigualdades; essa concepção situa o argumento de programas de renda básica universal como extensão dessa lógica de segurança econômica mínima — diferente de inverter o sentido do conceito (eliminação da intervenção estatal), de associá-lo à privatização de serviços, ou de reduzi-lo a gastos militares.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "A renda básica prolonga a lógica do welfare state trocando o serviço pela transferência: em vez de garantir o mínimo por meio de saúde e educação públicas, garante-o em dinheiro, mantidos a universalidade e o financiamento coletivo. Em (d) está a posição rival que de fato disputa esse debate — condicionar o benefício a contrapartida é o que a proposta universal recusa, e reconhecer a oposição é o que a questão cobra. Em (e), o custeio por contribuição individual descaracteriza a universalidade. Em (a) e (c), privatização e ausência de intervenção contrariam a definição do modelo."
                      },
                      {
                          "id":  "filosofia-sociologia-78",
                          "texto_apoio":  "O neoliberalismo defende a redução da intervenção estatal na economia, a privatização de empresas públicas e a desregulamentação de mercados.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Esse conjunto de ideias ajuda a situar qual posição em debates contemporâneos sobre a privatização de serviços públicos como saneamento e distribuição de energia?",
                          "alternativas":  {
-                                              "a":  "a defesa de que essa corrente propõe a ampliação dos gastos públicos sociais e a estatização de setores estratégicos, quando na verdade defende a redução do gasto público e a privatização",
-                                              "b":  "a ideia de que o neoliberalismo defende a eliminação completa do comércio internacional entre países, quando na verdade defende a abertura e a desregulamentação dos mercados",
-                                              "c":  "a ideia de que o neoliberalismo implica o fim de qualquer forma de propriedade privada dos meios de produção, quando na verdade defende justamente sua ampliação pela privatização",
-                                              "d":  "a posição que defende que a transferência desses serviços à iniciativa privada, sujeita à concorrência de mercado, tenderia a gerar maior eficiência do que sua gestão sob controle estatal direto",
-                                              "e":  "a posição que defende o aumento do investimento público em infraestrutura como motor do crescimento"
+                                              "a":  "a que defende ampliar o investimento público em infraestrutura como motor do crescimento",
+                                              "b":  "a que privatiza o serviço e dispensa a existência de uma agência que regule tarifa, qualidade e investimento",
+                                              "c":  "a que mantém a operação estatal e apenas terceiriza a execução de obras a empresas privadas",
+                                              "d":  "a que transfere esses serviços à iniciativa privada, esperando ganho de eficiência pela concorrência",
+                                              "e":  "a que condiciona a privatização à aprovação prévia dos usuários em consulta popular vinculante"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O neoliberalismo defende privatização e desregulamentação como caminho para maior eficiência de mercado; essa chave situa a posição favorável à privatização de serviços públicos de saneamento e energia — diferente de atribuir-lhe a eliminação do comércio internacional, de inverter sua posição sobre gasto público e estatização, ou de associá-lo ao fim da propriedade privada, o oposto de sua tese central.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "A posição neoliberal aposta que a exposição à concorrência disciplina o prestador melhor do que o controle estatal direto, e é esse o argumento mobilizado a favor da privatização de saneamento e energia. Em (b) está o distrator mais fino: privatizar sem regulação não é a posição corrente dessa corrente, que trata a agência reguladora como condição para que a concorrência funcione em setores de rede. Em (a) e (c), ampliar investimento público e manter a operação estatal são posições opostas ao programa descrito. Em (e), a consulta vinculante é um critério de legitimidade democrática, alheio ao argumento econômico em questão."
                      },
                      {
                          "id":  "filosofia-sociologia-79",
@@ -1232,66 +1232,66 @@
                      {
                          "id":  "filosofia-sociologia-80",
                          "texto_apoio":  "Diferentemente de uma concepção puramente eleitoral, a \"democracia deliberativa\" enfatiza a legitimidade das decisões políticas fundada em processos amplos de debate público e troca de razões entre cidadãos.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Esse conceito ajuda a situar qual justificativa para a adoção de orçamentos participativos e assembleias de cidadãos sorteados para debater políticas públicas específicas, como as climáticas?",
                          "alternativas":  {
-                                              "a":  "a ideia de que a democracia deliberativa exige a substituição das eleições por sorteios aleatórios de representantes, quando na verdade complementa, sem substituir, o processo eleitoral representativo tradicional",
-                                              "b":  "a defesa de que esse modelo concentra todo o poder decisório exclusivamente no Poder Judiciário, quando na verdade distribui esse poder entre cidadãos comuns e representantes eleitos",
-                                              "c":  "a ideia de que a democracia deliberativa exclui a opinião pública de qualquer etapa do processo de decisão política, quando na verdade a valoriza como fonte central de legitimidade deliberativa",
-                                              "d":  "a de que a participação direta reduz o custo administrativo da execução orçamentária",
-                                              "e":  "a de que a legitimidade dessas decisões deriva não apenas da eleição prévia de representantes, mas de processos de discussão direta e argumentação entre cidadãos comuns sobre o próprio conteúdo das políticas em debate"
+                                              "a":  "a de que a participação direta reduz o custo administrativo da execução orçamentária",
+                                              "b":  "a de que o sorteio dos participantes produz uma amostra estatisticamente representativa do país inteiro",
+                                              "c":  "a de que essas assembleias devem substituir as eleições como forma de escolher governantes",
+                                              "d":  "a de que a decisão técnica sobre clima deve caber a especialistas, e não a cidadãos comuns",
+                                              "e":  "a de que a legitimidade vem também da discussão direta entre cidadãos sobre o conteúdo das políticas"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A democracia deliberativa valoriza processos de debate público e argumentação como fonte de legitimidade; essa chave situa a justificativa de orçamentos participativos e assembleias de cidadãos sorteados sobre políticas específicas — diferente de propor a substituição total das eleições, de concentrar poder no Judiciário, ou de excluir a opinião pública da decisão.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "A tese deliberativa desloca a fonte da legitimidade: além do mandato conferido na eleição, conta o processo de troca de razões sobre o mérito da política, e é isso que orçamentos participativos e assembleias sorteadas tentam institucionalizar. Em (c) está o excesso mais comum — esses arranjos complementam o processo representativo e não o substituem. Em (b), a representatividade estatística é um argumento de método do sorteio, não a justificativa deliberativa. Em (d), entregar a decisão a especialistas é a concepção tecnocrática, oposta à deliberativa. Em (a), a economia administrativa é efeito eventual, não fundamento de legitimidade."
                      },
                      {
                          "id":  "filosofia-sociologia-81",
                          "texto_apoio":  "A ciência política costuma caracterizar o populismo pela construção discursiva de uma oposição entre um \"povo\" homogêneo e virtuoso e uma \"elite\" corrupta e distante dos interesses populares.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Essa caracterização ajuda a analisar qual estratégia discursiva recorrente em campanhas políticas que se apresentam como vozes diretas e autênticas do povo contra instituições tradicionais?",
                          "alternativas":  {
-                                              "a":  "a ideia de que essa estratégia opõe apenas partidos políticos de esquerda entre si, sem qualquer referência a elites ou instituições, quando na verdade mobiliza a oposição entre um povo idealizado e uma elite corrupta, independentemente do espectro ideológico dos partidos envolvidos",
-                                              "b":  "a defesa de que essa retórica se dá entre diferentes setores empresariais, sem qualquer menção ao \"povo\" ou às \"elites\", quando essa oposição entre um povo idealizado e uma elite corrupta é justamente o núcleo do discurso populista contemporâneo",
-                                              "c":  "a ideia de que essa estratégia se organiza exclusivamente em torno de uma oposição entre instituições internacionais e organizações não governamentais, quando na verdade opõe um povo idealizado a elites e instituições políticas, partidárias e midiáticas tradicionais",
-                                              "d":  "a construção de uma narrativa técnica que apresenta as decisões como resultado de cálculo especializado",
-                                              "e":  "a construção retórica de uma oposição entre um povo idealizado, cujos interesses seriam representados diretamente pelo líder, e instituições, partidos ou meios de comunicação tradicionais, apresentados como corruptos ou desconectados desses interesses"
+                                              "a":  "a construção de uma narrativa técnica, que apresenta decisões como resultado de cálculo especializado",
+                                              "b":  "a construção de uma disputa entre partidos de um mesmo campo ideológico pela liderança do bloco",
+                                              "c":  "a construção de uma oposição entre organismos internacionais e organizações não governamentais",
+                                              "d":  "a construção de um programa setorial detalhado, dirigido a categorias profissionais específicas",
+                                              "e":  "a construção de uma oposição entre um povo idealizado e instituições apresentadas como corruptas"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O populismo é caracterizado pela oposição retórica entre um povo idealizado e uma elite corrupta ou distante; essa chave analisa a estratégia discursiva de campanhas que se apresentam como vozes diretas do povo contra instituições tradicionais — diferente de restringir a oposição a organismos internacionais, de descrevê-la como disputa entre empresas, ou de limitá-la a uma disputa interna à esquerda.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O núcleo do discurso populista é essa dicotomia, somada à pretensão de que o líder representa o povo diretamente, sem a mediação de partidos, parlamento ou imprensa. Em (a) está o distrator mais instrutivo, porque descreve o discurso tecnocrático, que é o oposto simétrico: um funda a legitimidade na vontade popular imediata, o outro na competência especializada. Em (d), o programa setorial detalhado dirige-se a categorias e não a um povo homogêneo. Em (b) e (c), disputas intrapartidárias e conflitos entre organismos internacionais podem existir, mas nenhuma delas mobiliza a oposição povo-elite que define o fenômeno."
                      },
                      {
                          "id":  "filosofia-sociologia-82",
                          "texto_apoio":  "Bourdieu descreve a \"violência simbólica\" como uma forma de dominação imposta e, ao mesmo tempo, reconhecida como legítima pelos próprios dominados, que a incorporam sem percebê-la como imposição arbitrária.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse conceito ajuda a analisar qual efeito do uso generalizado de filtros de beleza em fotos e vídeos publicados em redes sociais?",
                          "alternativas":  {
-                                              "a":  "o modo como certos padrões estéticos, amplamente reforçados por esses filtros, podem ser internalizados por usuários como parâmetro natural e desejável de beleza, sem que percebam esse padrão como uma construção social imposta e reforçada tecnologicamente",
-                                              "b":  "o modo como o uso prolongado de telas afeta a qualidade do sono e a capacidade de concentração",
-                                              "c":  "a ideia de que esse fenômeno se manifesta exclusivamente por meio de coerção física direta sobre os usuários, quando a violência simbólica descrita por Bourdieu opera pela internalização de padrões, não pela coerção física",
-                                              "d":  "a ideia de que o uso de filtros de beleza depende exclusivamente de leis formais para se manifestar na sociedade, quando opera de modo informal e simbólico, por meio de padrões estéticos naturalizados e internalizados sem qualquer imposição legal",
-                                              "e":  "a defesa de que esse efeito não guarda qualquer relação com desigualdades de gênero ou capital cultural, quando Bourdieu associa esse padrão a hierarquias sociais e a um capital que molda também disposições de gosto e autoimagem"
+                                              "a":  "o de padrões estéticos serem internalizados como naturais, sem serem vistos como construção",
+                                              "b":  "o de o uso prolongado de telas afetar a qualidade do sono e a capacidade de concentração ao longo do dia",
+                                              "c":  "o de plataformas coagirem diretamente os usuários a editar as imagens que publicam",
+                                              "d":  "o de o padrão de beleza depender de lei formal para se impor ao conjunto dos usuários",
+                                              "e":  "o de usuários reconhecerem o filtro como artifício e ainda assim optarem por empregá-lo"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A violência simbólica opera pela internalização, como natural, de padrões impostos por grupos dominantes; esse conceito ilumina como filtros de beleza reforçam padrões estéticos internalizados sem percepção de imposição — diferente de vincular o fenômeno a leis formais, de negar sua relação com desigualdades de gênero, ou de reduzi-lo a coerção física direta.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A violência simbólica opera por reconhecimento, não por coação: o padrão é adotado como se fosse evidente por si, e é essa naturalização que o torna eficaz sem precisar de imposição visível. Em (e) está o distrator mais difícil, porque descreve algo verdadeiro sobre o uso de filtros — mas reconhecer o artifício é o oposto do desconhecimento que o conceito exige, e por isso o caso escapa da definição. Em (c) e (d), coerção direta e lei formal são as formas explícitas de imposição que Bourdieu contrapõe à simbólica. Em (b), o efeito sobre sono e concentração é fisiológico, sem relação com dominação simbólica."
                      },
                      {
                          "id":  "filosofia-sociologia-83",
                          "texto_apoio":  "Segundo a perspectiva \"dramatúrgica\" de Goffman, os indivíduos administram ativamente a impressão que desejam causar em uma \"plateia\", adaptando sua apresentação conforme o contexto social.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Essa perspectiva ajuda a analisar qual crítica frequente à diferença entre a imagem de vida cuidadosamente editada por usuários em redes sociais e sua rotina cotidiana real?",
                          "alternativas":  {
-                                              "a":  "a defesa de que redes sociais eliminam qualquer forma de gerenciamento consciente da própria imagem por parte dos usuários, quando esse gerenciamento é justamente o núcleo da perspectiva dramatúrgica de Goffman",
-                                              "b":  "a ideia de que perfis em redes sociais revelam sempre, de forma espontânea e integral, a verdadeira personalidade de cada usuário, quando Goffman descreve a interação social como administração seletiva da própria imagem perante uma plateia",
-                                              "c":  "a ideia de que os indivíduos seguem, em redes sociais, roteiros idênticos e imutáveis em todas as situações, independentemente do contexto, quando Goffman descreve a adaptação da apresentação conforme cada plateia",
-                                              "d":  "a de que perfis em redes sociais expõem dados pessoais a empresas sem consentimento informado",
-                                              "e":  "a de que perfis em redes sociais funcionam como uma espécie de \"palco\" no qual os usuários selecionam e editam ativamente quais aspectos de sua vida apresentar a uma audiência, deixando de fora o que consideram menos favorável"
+                                              "a":  "a de que perfis em redes expõem dados pessoais a empresas sem consentimento informado",
+                                              "b":  "a de que o perfil revela de forma espontânea e integral a personalidade de cada usuário",
+                                              "c":  "a de que os usuários seguem um mesmo roteiro em todas as situações, seja qual for a plateia",
+                                              "d":  "a de que a edição da imagem é fenômeno novo, sem equivalente na sociabilidade fora das redes",
+                                              "e":  "a de que o perfil funciona como palco em que se seleciona o que apresentar à audiência"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Goffman compara a interação social a uma representação teatral, em que se administra a impressão causada em uma plateia; essa perspectiva ilumina a curadoria de imagem em redes sociais, que seleciona o que apresentar a uma audiência — diferente de supor roteiros fixos e idênticos, de negar o gerenciamento consciente da imagem, ou de afirmar que perfis revelam a personalidade integral do usuário.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "Goffman descreve a interação como apresentação diante de uma plateia, com um palco onde se mostra o que convém e um bastidor onde fica o resto — o perfil editado é essa estrutura transposta para a rede. Em (d) está o erro que a perspectiva dramatúrgica serve para corrigir: a administração da própria imagem não nasce com as redes, é traço geral da vida social, e a rede apenas lhe dá novos recursos. Em (b), a espontaneidade integral contraria a seleção que define o conceito. Em (c), a adaptação conforme a plateia é justamente o que Goffman descreve. Em (a), a exposição de dados é questão de privacidade, não de apresentação de si."
                      },
                      {
                          "id":  "filosofia-sociologia-84",
@@ -1312,50 +1312,50 @@
                      {
                          "id":  "filosofia-sociologia-85",
                          "texto_apoio":  "Norbert Elias descreve o \"processo civilizador\" como a interiorização crescente de normas de autocontrole sobre impulsos e comportamentos corporais ao longo da história ocidental.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse conceito ajuda a analisar qual transformação observada nas normas de conduta profissional após a disseminação do trabalho remoto, quando hábitos antes reservados ao ambiente privado passaram a aparecer em videochamadas de trabalho?",
                          "alternativas":  {
-                                              "a":  "a padronização internacional de regras de etiqueta em ambientes corporativos multinacionais",
-                                              "b":  "a renegociação de fronteiras entre comportamentos considerados adequados ao espaço público (profissional) e ao espaço privado (doméstico), revelando que os padrões de autocontrole e formalidade não são fixos, mas historicamente variáveis conforme o contexto social",
-                                              "c":  "a defesa de que esse processo corresponde a uma diminuição da complexidade das interdependências sociais entre os indivíduos, quando Elias associa a civilização a uma complexidade crescente dessas interdependências",
-                                              "d":  "a ideia de que o processo civilizador levou a uma liberação total dos impulsos e emoções, sem qualquer padrão de autocontrole social, quando Elias descreve justamente a interiorização crescente de normas de autocontrole sobre impulsos e comportamentos",
-                                              "e":  "a ideia de que o processo civilizador implica ausência de qualquer relação entre transformações de comportamento individual e mudanças nas estruturas sociais, relação que é justamente central à análise de Elias sobre o autocontrole"
+                                              "a":  "a padronização internacional de regras de etiqueta em ambientes corporativos",
+                                              "b":  "a renegociação das fronteiras entre o que cabe ao espaço profissional e ao doméstico",
+                                              "c":  "a diminuição da complexidade das interdependências sociais entre os indivíduos",
+                                              "d":  "a liberação total dos impulsos, sem qualquer padrão de autocontrole social",
+                                              "e":  "a fixação definitiva dos padrões de formalidade profissional, agora imunes à mudança histórica"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Elias mostra que os padrões de autocontrole sobre o comportamento variam historicamente conforme transformações sociais; esse conceito ilumina a renegociação de fronteiras entre o profissional e o doméstico no trabalho remoto — diferente de negar a relação entre comportamento individual e estrutura social, de supor menor interdependência social, ou de descrever o processo como liberação total dos impulsos, o oposto de sua tese.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "Elias mostra que os limiares de pudor e formalidade se deslocam historicamente, e a videochamada tornou visível um deslocamento em curso: a fronteira entre casa e trabalho está sendo refeita, não abolida. Em (e) está a leitura oposta — supor os padrões fixos é o que o conceito de processo, por definição, nega. Em (d), a mudança de fronteira não é liberação sem regra: novas convenções surgem no lugar das antigas. Em (c), Elias associa a civilização ao aumento das interdependências, não à sua redução. Em (a), a padronização internacional de etiqueta é outro fenômeno, sem relação com o deslocamento descrito."
                      },
                      {
                          "id":  "filosofia-sociologia-86",
                          "texto_apoio":  "A \"teoria da tensão\" (strain theory) explica comportamentos desviantes a partir da tensão entre metas culturalmente valorizadas, como o sucesso material, e a desigual disponibilidade de meios legítimos para alcançá-las.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Essa teoria ajuda a analisar qual crítica sociológica ao apelo de esquemas de enriquecimento rápido e discursos que prometem sucesso financeiro imediato, populares em redes sociais entre jovens de bairros com poucas oportunidades formais de ascensão econômica?",
                          "alternativas":  {
-                                              "a":  "a defesa de que não existe qualquer forma de desigualdade social relacionada ao apelo desses discursos, quando é justamente essa desigualdade de acesso a meios legítimos que a teoria da tensão coloca no centro da explicação do desvio",
-                                              "b":  "a ideia de que o Estado, ao adotar essa teoria, elimina completamente a meta cultural de sucesso material compartilhada pela sociedade, quando essa meta é descrita como amplamente compartilhada, e não eliminável por decreto",
-                                              "c":  "a de que esses esquemas se sustentam apenas enquanto houver entrada contínua de novos participantes",
-                                              "d":  "a ideia de que essa teoria pressupõe que todos os indivíduos de uma sociedade compartilham igualmente tanto as metas quanto os meios legítimos para alcançá-las, quando a teoria da tensão explica o desvio justamente pela desigualdade estrutural no acesso a esses meios entre diferentes classes e grupos sociais",
-                                              "e":  "a de que esses discursos exploram a tensão entre a forte valorização social do sucesso material e a escassez de meios legítimos disponíveis para alcançá-lo, o que pode levar alguns indivíduos a recorrer a meios ilegítimos ou arriscados na busca pelas mesmas metas culturalmente valorizadas"
+                                              "a":  "a de que não há desigualdade social relacionada ao apelo desses discursos",
+                                              "b":  "a de que a teoria propõe eliminar por decreto a meta cultural de sucesso material",
+                                              "c":  "a de que esses esquemas se sustentam apenas enquanto houver entrada de novos participantes",
+                                              "d":  "a de que todos partilham igualmente as metas e os meios legítimos de alcançá-las",
+                                              "e":  "a de que exploram a tensão entre valorizar o sucesso e a escassez de meios legítimos"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A teoria da tensão explica o desvio a partir do descompasso entre metas valorizadas e meios legítimos disponíveis; essa chave ilumina o apelo de esquemas de enriquecimento rápido entre jovens com poucas oportunidades formais — diferente de supor igualdade de acesso a metas e meios, de negar a desigualdade social envolvida, ou de atribuir ao Estado a eliminação da meta cultural de sucesso.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A teoria explica o desvio pelo descompasso entre uma meta que a cultura distribui a todos e meios legítimos que a estrutura distribui de forma desigual — e é nesse vão que promessas de enriquecimento rápido encontram público. Em (c) está o distrator mais forte: descrever a mecânica financeira do esquema é correto e não é sociologia, porque não explica por que ele atrai justamente quem atrai. Em (d), a igualdade de acesso aos meios é a premissa que a teoria rejeita. Em (a), a desigualdade é o centro da explicação. Em (b), a teoria descreve a meta cultural, sem propor suprimi-la."
                      },
                      {
                          "id":  "filosofia-sociologia-87",
                          "texto_apoio":  "Diferentemente do fordismo, baseado na rígida padronização de tarefas em linha de montagem, o toyotismo se caracteriza por maior flexibilidade produtiva e multifuncionalidade dos trabalhadores.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Essa distinção entre modelos de organização do trabalho ajuda a situar qual característica do modelo de trabalho por aplicativo (motoristas e entregadores), organizado por demanda e sem jornada fixa?",
                          "alternativas":  {
-                                              "a":  "a ideia de que o trabalho por aplicativo mantém exatamente a mesma lógica de produção em massa padronizada e rígida do fordismo, sem qualquer alteração, quando na verdade se aproxima da flexibilização toyotista, e não da rigidez fordista",
-                                              "b":  "a manutenção de uma hierarquia rígida de supervisão, com chefias diretas acompanhando cada tarefa",
-                                              "c":  "a defesa de que esse modelo se caracteriza pela rejeição total do uso de tecnologia e automação nos processos produtivos, quando na verdade depende amplamente de aplicativos, algoritmos e geolocalização",
-                                              "d":  "a ideia de que esse modelo elimina completamente a divisão do trabalho em qualquer etapa da atividade, quando na verdade mantém alguma divisão de tarefas, ainda que mais flexível que no fordismo",
-                                              "e":  "a aproximação com uma lógica flexível, orientada pela demanda momentânea e por múltiplas tarefas adaptáveis, em contraste com a rigidez de postos de trabalho fixos e padronizados típica do modelo fordista clássico"
+                                              "a":  "a manutenção da produção em massa padronizada e rígida típica do modelo fordista clássico",
+                                              "b":  "a manutenção de hierarquia rígida, com chefias acompanhando cada tarefa",
+                                              "c":  "a rejeição do uso de tecnologia e automação nos processos produtivos",
+                                              "d":  "a eliminação da divisão do trabalho em todas as etapas da atividade",
+                                              "e":  "a lógica flexível, orientada pela demanda momentânea e por tarefas adaptáveis"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O toyotismo se caracteriza pela flexibilização da produção e pela multifuncionalidade dos trabalhadores, em contraste com a rigidez fordista; essa chave situa o trabalho por aplicativo, organizado por demanda e sem jornada fixa, como próximo dessa lógica flexível — diferente de igualá-lo à rigidez fordista, de negar o uso de tecnologia nesse modelo, ou de supor a eliminação da divisão do trabalho.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "Produção puxada pela demanda, sem estoque de horas nem posto fixo, é a lógica que o toyotismo introduziu e que o trabalho por aplicativo leva ao extremo, transferindo ao trabalhador o risco da oscilação. Em (b) está o ponto mais interessante da questão: há supervisão intensa nesse modelo, mas exercida pelo algoritmo e não por uma chefia direta, de modo que a alternativa acerta o fato e erra a forma. Em (a), a rigidez fordista é o termo de contraste. Em (c), o modelo depende de tecnologia. Em (d), a divisão de tarefas persiste, apenas mais fluida."
                      },
                      {
                          "id":  "filosofia-sociologia-88",
@@ -1424,18 +1424,18 @@
                      {
                          "id":  "filosofia-sociologia-92",
                          "texto_apoio":  "Boaventura de Sousa Santos propõe as \"epistemologias do Sul\" para valorizar saberes produzidos por povos historicamente subalternizados pelo colonialismo, questionando a hegemonia epistemológica dos países do Norte global.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse conceito ajuda a fundamentar qual argumento em debates sobre a inclusão de saberes indígenas e tradicionais em currículos escolares e universitários brasileiros?",
                          "alternativas":  {
-                                              "a":  "o de que reconhecer formalmente saberes indígenas e tradicionais como conhecimento legítimo, ao lado da ciência moderna, contribui para corrigir uma hierarquia histórica que desvalorizou essas formas de conhecimento em razão do colonialismo",
-                                              "b":  "o de que saberes tradicionais devem ser validados pelos métodos da ciência moderna antes de serem ensinados",
-                                              "c":  "a ideia de que as epistemologias do Sul sustentam o predomínio exclusivo do conhecimento científico ocidental sobre quaisquer outras formas de saber, quando Boaventura de Sousa Santos propõe justamente o contrário desse predomínio",
-                                              "d":  "a ideia de que as epistemologias do Sul defendem a eliminação completa da ciência moderna como forma legítima de conhecimento nos currículos escolares, quando propõem sua convivência com outros saberes, e não sua eliminação",
-                                              "e":  "a defesa de que esse conceito nega qualquer relevância ao diálogo entre diferentes tradições de conhecimento no mundo contemporâneo, quando o conceito valoriza justamente esse diálogo entre tradições de saber"
+                                              "a":  "o de reconhecer saberes indígenas como conhecimento legítimo ao lado da ciência",
+                                              "b":  "o de validar os saberes tradicionais pelos métodos da ciência moderna antes de ensiná-los",
+                                              "c":  "o de sustentar o predomínio do conhecimento científico ocidental sobre os demais",
+                                              "d":  "o de eliminar a ciência moderna dos currículos escolares e universitários",
+                                              "e":  "o de negar relevância ao diálogo entre diferentes tradições de conhecimento"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Boaventura de Sousa Santos propõe valorizar saberes historicamente marginalizados ao lado da ciência moderna; esse conceito fundamenta a defesa da inclusão de saberes indígenas em currículos escolares — diferente de propor a eliminação da ciência moderna, de negar o diálogo entre tradições de conhecimento, ou de defender o predomínio exclusivo do conhecimento ocidental, o oposto de sua proposta.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A proposta é de convivência entre formas de saber, corrigindo uma hierarquia herdada do colonialismo — não de substituir uma supremacia por outra. Em (b) está o distrator mais sutil de todos: exigir que o saber tradicional passe pelo crivo do método científico para valer parece razoável e reinstala exatamente a hierarquia que o conceito questiona, porque mantém o Norte como tribunal do que conta como conhecimento. Em (d), eliminar a ciência moderna é o excesso oposto, que a proposta não sustenta. Em (c) e (e), predomínio ocidental e recusa do diálogo contrariam o conceito de frente."
                      },
                      {
                          "id":  "filosofia-sociologia-93",
@@ -1456,98 +1456,98 @@
                      {
                          "id":  "filosofia-sociologia-94",
                          "texto_apoio":  "Thomas Kuhn descreve o desenvolvimento científico como marcado por rupturas chamadas \"revoluções científicas\", em que um paradigma dominante é substituído por outro após uma crise gerada por anomalias inexplicáveis.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse modelo kuhniano ajuda a situar qual debate sobre se o desenvolvimento acelerado da inteligência artificial representa uma mudança meramente incremental ou uma verdadeira ruptura de paradigma nas ciências da computação?",
                          "alternativas":  {
-                                              "a":  "a ideia de que a ciência, segundo Kuhn, deixa de utilizar qualquer forma de consenso entre pesquisadores após uma revolução científica, quando o consenso da comunidade científica é justamente o mecanismo que consolida a adoção de um novo paradigma dominante",
-                                              "b":  "a ideia de que, para Kuhn, todo conhecimento científico acumulado anteriormente é preservado sem qualquer alteração diante de uma revolução científica, quando o autor descreve justamente rupturas que reorganizam o conhecimento prévio",
-                                              "c":  "o debate sobre se os modelos atuais resolvem anomalias que os paradigmas computacionais anteriores não conseguiam explicar de forma satisfatória, o que justificaria falar em uma revolução de paradigma, e não apenas em avanço técnico incremental dentro do paradigma vigente",
-                                              "d":  "a defesa de que não existe qualquer influência de fatores sociais ou históricos na produção do conhecimento científico, segundo Kuhn, quando o autor destaca o papel da comunidade científica na consolidação de paradigmas",
-                                              "e":  "o debate sobre se o financiamento privado da pesquisa compromete a independência dos resultados"
+                                              "a":  "o debate sobre se a ciência dispensa o consenso da comunidade após uma revolução",
+                                              "b":  "o debate sobre se o conhecimento anterior é preservado intacto após uma revolução",
+                                              "c":  "o debate sobre se os modelos atuais resolvem anomalias que o paradigma anterior não resolvia",
+                                              "d":  "o debate sobre se fatores sociais e históricos influenciam a produção do conhecimento científico",
+                                              "e":  "o debate sobre se o financiamento privado compromete a independência dos resultados"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Kuhn descreve revoluções científicas como substituição de paradigmas após crises geradas por anomalias inexplicáveis; esse modelo situa o debate sobre se a IA atual representa uma ruptura de paradigma ou avanço incremental — diferente de supor preservação integral do conhecimento anterior, de negar a influência de fatores sociais na ciência, ou de negar o papel do consenso entre pesquisadores na formação de um novo paradigma.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O critério kuhniano de ruptura é a anomalia: fala-se em novo paradigma quando o anterior deixa de dar conta de problemas que o novo resolve, e não quando apenas se acumulam melhorias. Em (b) está o traço que Kuhn nega — a revolução reorganiza o conhecimento prévio em vez de preservá-lo intacto —, mas isso descreve o modelo, e não o debate sobre a IA. Em (a), o consenso da comunidade é o que consolida o paradigma novo. Em (d), o peso de fatores sociais é tese de Kuhn, não objeto da controvérsia. Em (e), o financiamento é questão de política científica, alheia ao critério de ruptura."
                      },
                      {
                          "id":  "filosofia-sociologia-95",
                          "texto_apoio":  "A crítica relativista à pretensão de universalidade dos direitos humanos pondera que a formulação de determinados direitos pode refletir valores específicos de certas tradições culturais, sobretudo ocidentais.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Essa crítica ajuda a situar qual tensão presente em debates internacionais sobre a aplicação de normas globais de direitos humanos a práticas culturais específicas de diferentes países?",
                          "alternativas":  {
-                                              "a":  "a defesa de que todos os povos do mundo compartilham exatamente os mesmos valores morais em qualquer época histórica, quando a crítica relativista destaca justamente a diversidade de valores entre tradições culturais",
-                                              "b":  "a ideia de que não existe qualquer fundamento possível para a defesa de direitos humanos em nenhuma cultura, quando a crítica relativista apenas pondera a origem cultural de certas formulações normativas, sem negar sua importância prática",
-                                              "c":  "a tensão entre a aspiração de proteções universais mínimas e a necessidade de diálogo intercultural na definição de normas que, embora se pretendam globais, podem carregar concepções específicas de determinadas tradições",
-                                              "d":  "a ideia de que apenas países ocidentais deveriam ser signatários de tratados internacionais de direitos humanos, quando o debate discute justamente a legitimidade global dessas normas para todos os países e culturas",
-                                              "e":  "a tensão entre a proteção de direitos individuais e o custo orçamentário de sua implementação"
+                                              "a":  "a de que todos os povos compartilham os mesmos valores morais em qualquer época",
+                                              "b":  "a de que não existe fundamento possível para direitos humanos em nenhuma cultura",
+                                              "c":  "a tensão entre proteções universais mínimas e o diálogo intercultural na sua definição",
+                                              "d":  "a de que apenas países ocidentais deveriam assinar tratados de direitos humanos",
+                                              "e":  "a tensão entre proteger direitos individuais e o custo orçamentário de sua implementação plena"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A crítica relativista pondera que normas de direitos humanos podem carregar valores de tradições específicas, sugerindo a necessidade de diálogo intercultural, sem negar a importância de proteções mínimas; essa chave situa a tensão em debates internacionais sobre normas globais aplicadas a práticas culturais específicas — diferente de restringir a titularidade de tratados a países ocidentais, de supor uniformidade moral entre povos, ou de negar todo fundamento à defesa de direitos humanos.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A crítica relativista não pede o abandono dos direitos humanos: pede que a construção das normas seja intercultural, para que a pretensão de universalidade não se confunda com a generalização de uma tradição. A tensão está entre esses dois polos. Em (b) está o excesso a que a crítica é frequentemente reduzida, e que ela não sustenta. Em (a), a homogeneidade de valores é a premissa que a crítica questiona. Em (d), restringir os tratados ao Ocidente inverteria o problema, que é a legitimidade global das normas. Em (e), o custo orçamentário é uma tensão real, porém de outra ordem."
                      },
                      {
                          "id":  "filosofia-sociologia-96",
                          "texto_apoio":  "Nancy Fraser argumenta que uma teoria da justiça social adequada deve articular, simultaneamente, demandas por redistribuição econômica e por reconhecimento cultural de identidades.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse argumento ajuda a criticar qual limitação de políticas públicas que buscam reduzir desigualdades considerando apenas a dimensão econômica, sem qualquer atenção a hierarquias de status baseadas em raça ou gênero — ou, inversamente, apenas a dimensão de reconhecimento cultural, sem qualquer atenção à redistribuição de renda?",
                          "alternativas":  {
-                                              "a":  "a ideia de que nenhuma forma de intervenção estatal em questões econômicas ou culturais seria compatível com a teoria de Fraser, quando a autora defende políticas públicas que articulem redistribuição econômica e reconhecimento cultural simultaneamente",
-                                              "b":  "a de que reduzir a justiça social a apenas uma dessas dimensões, isoladamente, deixa de captar como desigualdades de classe e hierarquias de status por identidade se combinam e se reforçam mutuamente na produção da injustiça social",
-                                              "c":  "a de que políticas de transferência de renda desestimulam a busca por trabalho formal",
-                                              "d":  "a ideia de que, para Fraser, apenas a redistribuição econômica importa, sem qualquer consideração sobre reconhecimento cultural de identidades, quando a autora defende a articulação simultânea das duas dimensões",
-                                              "e":  "a defesa de que, para Fraser, apenas o reconhecimento cultural importa, sem qualquer consideração sobre desigualdades econômicas, quando a autora exige também a redistribuição como dimensão indispensável da justiça"
+                                              "a":  "a de que nenhuma intervenção estatal seria compatível com a teoria de Fraser",
+                                              "b":  "a de que reduzir a justiça a uma só dimensão não capta como elas se reforçam",
+                                              "c":  "a de que políticas de transferência de renda desestimulam o trabalho formal",
+                                              "d":  "a de que, para Fraser, apenas a redistribuição econômica importa de fato",
+                                              "e":  "a de que a redistribuição deve preceder o reconhecimento na ordem das políticas"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Fraser argumenta que redistribuição e reconhecimento são dimensões complementares e igualmente necessárias da justiça social; esse argumento critica políticas que isolam apenas uma dessas dimensões — diferente de atribuir a Fraser a defesa de apenas uma delas isoladamente (seja só redistribuição, seja só reconhecimento), ou de negar toda intervenção estatal em sua teoria.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O argumento de Fraser é de simultaneidade: classe e status produzem injustiça em conjunto, e uma política que ataque só um dos eixos deixa o outro reproduzindo o resultado que ela pretendia corrigir. Em (e) está o distrator mais fino, porque não nega nenhuma das duas dimensões — apenas as põe em sequência, e é justamente a ordenação que a autora recusa. Em (d), atribuir-lhe o primado da redistribuição desfaz a tese. Em (a), ela defende políticas públicas, não sua impossibilidade. Em (c), o desestímulo ao trabalho formal é objeção econômica de outra literatura."
                      },
                      {
                          "id":  "filosofia-sociologia-97",
                          "texto_apoio":  "Georg Simmel descreve a \"atitude blasé\", uma espécie de indiferença e embotamento emocional que o habitante das grandes metrópoles desenvolve como defesa psíquica diante do excesso de estímulos sensoriais.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse conceito ajuda a interpretar qual efeito comumente relatado do recebimento constante de notificações e estímulos de aplicativos digitais ao longo do dia?",
                          "alternativas":  {
-                                              "a":  "a defesa de que esse fenômeno corresponde a um entusiasmo diante de cada novo estímulo oferecido pela vida digital, quando Simmel descreve justamente o embotamento defensivo diante do excesso de estímulos",
-                                              "b":  "a tendência a desenvolver uma espécie de indiferença defensiva diante do volume constante de notificações e estímulos digitais, semelhante ao mecanismo psíquico de proteção que Simmel associava à vida nas metrópoles",
-                                              "c":  "a ideia de que a atitude blasé implica isolamento físico total, sem qualquer contato do indivíduo com outras pessoas, quando descreve antes uma defesa psíquica que mantém o convívio, ainda que indiferente",
-                                              "d":  "a ideia de que essa \"atitude blasé\" seria, para Simmel, uma característica presente exclusivamente em pequenas comunidades rurais tradicionais, quando o autor a associa justamente à vida nas grandes metrópoles",
-                                              "e":  "a tendência a memorizar apenas o conteúdo repetido com maior frequência ao longo do dia"
+                                              "a":  "o entusiasmo diante de cada novo estímulo oferecido pela vida digital cotidiana",
+                                              "b":  "a indiferença defensiva diante do volume constante de notificações e estímulos",
+                                              "c":  "o isolamento físico completo, sem contato do indivíduo com outras pessoas",
+                                              "d":  "a presença dessa atitude apenas em pequenas comunidades rurais tradicionais",
+                                              "e":  "a tendência a memorizar apenas o conteúdo repetido com maior frequência no dia"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Simmel descreve a atitude blasé como defesa psíquica diante do excesso de estímulos da vida metropolitana; esse conceito ilumina a indiferença desenvolvida diante do volume constante de notificações digitais — diferente de atribuir essa atitude a comunidades rurais tradicionais (o oposto do contexto de Simmel), de descrevê-la como entusiasmo, ou de reduzi-la a isolamento físico total.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A atitude blasé é economia psíquica: diante de mais estímulo do que se pode processar, o indivíduo baixa a sensibilidade a todos eles, e a notificação constante reproduz essa condição. Em (c) está o erro que a questão testa — a indiferença descrita por Simmel convive com o contato intenso, e é dele que nasce; não há retirada do convívio. Em (a), o entusiasmo permanente é o oposto do embotamento. Em (d), o fenômeno é associado por Simmel justamente à metrópole. Em (e), a retenção seletiva do que se repete é hipótese de memória, não a resposta afetiva que o conceito descreve."
                      },
                      {
                          "id":  "filosofia-sociologia-98",
                          "texto_apoio":  "Ferdinand Tönnies contrapõe a \"comunidade\" (Gemeinschaft), fundada em laços afetivos e pessoais de pequenos grupos, à \"sociedade\" (Gesellschaft), de relações mais impessoais e contratuais típicas de grandes centros urbanos.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Essa distinção ajuda a problematizar qual expectativa comum de que comunidades on-line de interesse compartilhado (como grupos de jogos ou fóruns de nicho) substituam integralmente os vínculos de proximidade típicos de comunidades tradicionais?",
                          "alternativas":  {
-                                              "a":  "a de que vínculos formados em torno de interesses comuns em ambientes digitais, embora possam gerar identificação e afeto, costumam ter uma base diferente da proximidade física, cotidiana e duradoura característica das comunidades tradicionais analisadas por Tönnies",
-                                              "b":  "a ideia de que a distinção de Tönnies contrapõe formas de organização econômica capitalista a formas de organização econômica socialista, quando na verdade contrapõe comunidade (Gemeinschaft) e sociedade (Gesellschaft) como tipos de vínculo social, e não sistemas econômicos",
-                                              "c":  "a ideia de que comunidades on-line reproduzem, sem qualquer diferença relevante, os mesmos laços afetivos e de proximidade das comunidades tradicionais, quando Tönnies associa essa proximidade à convivência física cotidiana e duradoura",
-                                              "d":  "a defesa de que essa distinção contrapõe regimes políticos democráticos a regimes exclusivamente autoritários, quando na verdade contrapõe laços afetivos comunitários a relações impessoais e contratuais de grandes centros urbanos",
-                                              "e":  "a de que comunidades on-line reúnem pessoas geograficamente dispersas, o que amplia sua diversidade interna"
+                                              "a":  "a de que vínculos digitais têm base diferente da proximidade física e cotidiana",
+                                              "b":  "a de que a distinção contrapõe organização capitalista a organização socialista",
+                                              "c":  "a de que comunidades on-line reproduzem sem diferença os laços tradicionais",
+                                              "d":  "a de que a distinção contrapõe regimes democráticos a regimes autoritários",
+                                              "e":  "a de que comunidades on-line reúnem pessoas dispersas, o que amplia sua diversidade"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Tönnies contrapõe laços afetivos e de proximidade física (comunidade) a relações mais impessoais e contratuais (sociedade); essa distinção problematiza a expectativa de que comunidades on-line substituam integralmente vínculos tradicionais de proximidade — diferente de associar a distinção a regimes econômicos ou políticos, ou de igualar sem ressalvas comunidades digitais e tradicionais.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O laço comunitário de Tönnies se apoia em convivência física, cotidiana e prolongada, que não se escolhe; o grupo on-line reúne quem partilha um interesse e pode ser deixado a qualquer momento — há afeto, com outra base. Em (c) está a expectativa que o enunciado pede para problematizar, e afirmá-la é responder o contrário do que se pergunta. Em (e), a dispersão geográfica é uma característica real desses grupos, mas descreve a composição e não o tipo de vínculo. Em (b) e (d), a distinção não trata de sistemas econômicos nem de regimes políticos."
                      },
                      {
                          "id":  "filosofia-sociologia-99",
                          "texto_apoio":  "Segundo C. Wright Mills, a \"imaginação sociológica\" é a capacidade de relacionar experiências pessoais aparentemente privadas a estruturas e processos sociais e históricos mais amplos.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Esse conceito ajuda a fundamentar qual crítica a discursos que atribuem o desemprego ou o endividamento de trabalhadores de aplicativo exclusivamente a escolhas ou falhas individuais desses trabalhadores?",
                          "alternativas":  {
                                               "a":  "a de que tais discursos ignoram as diferenças de aptidão individual entre as pessoas",
-                                              "b":  "a defesa de que esse conceito propõe ignorar completamente a dimensão histórica na análise de fenômenos sociais contemporâneos, quando Mills valoriza justamente a conexão entre biografia individual e história social",
-                                              "c":  "a ideia de que a imaginação sociológica recomenda explicar todo problema pessoal exclusivamente por características individuais e psicológicas, sem qualquer relação com o contexto social, quando Mills propõe justamente conectar biografia individual e processos históricos e sociais mais amplos",
-                                              "d":  "a ideia de que a imaginação sociológica restringe a análise social exclusivamente a dados estatísticos, sem qualquer interpretação qualitativa, quando o conceito valoriza justamente a interpretação qualitativa de experiências pessoais",
-                                              "e":  "a de que tais discursos ignoram como esses problemas, aparentemente privados, também podem refletir transformações estruturais mais amplas no mercado de trabalho, como a precarização e a flexibilização crescente de vínculos empregatícios"
+                                              "b":  "a de que o conceito propõe deixar de lado a dimensão histórica na análise dos fenômenos",
+                                              "c":  "a de que a imaginação sociológica explica o problema pessoal por traços psicológicos",
+                                              "d":  "a de que a imaginação sociológica restringe a análise social apenas a dados estatísticos agregados",
+                                              "e":  "a de que ignoram como esses problemas refletem mudanças estruturais no mercado de trabalho"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Mills define a imaginação sociológica como a capacidade de conectar biografia e história, isto é, problemas pessoais a processos sociais mais amplos; esse conceito fundamenta a crítica a discursos que atribuem o desemprego apenas a falhas individuais, ignorando a precarização estrutural do mercado de trabalho — diferente de reduzir toda explicação a fatores individuais (o oposto da proposta de Mills), de ignorar a dimensão histórica, ou de restringir a análise a dados estatísticos.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "Mills chama de inquietação pessoal o que o indivíduo vive e de questão pública o processo que produz milhares de casos iguais; ler o endividamento de entregadores apenas como falha de escolha é ficar no primeiro termo e perder o segundo. Em (c) está a inversão do conceito, que existe justamente para não explicar tudo por características individuais. Em (b), a dimensão histórica é metade da definição. Em (d), o conceito valoriza a interpretação de experiências, e não só a estatística. Em (a), invocar aptidão individual reforça a explicação que a crítica quer desmontar."
                      },
                      {
                          "id":  "filosofia-sociologia-100",

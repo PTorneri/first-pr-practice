@@ -1,0 +1,245 @@
+{
+  "subtopic": "atualidades-tecnologia",
+  "questoes": [
+    {
+      "id": "atualidades-tecnologia-46",
+      "texto_apoio": "Empresas que armazenam dados pessoais de seus clientes podem sofrer invasões que resultam na exposição não autorizada dessas informações a terceiros, seja por falha técnica, seja por ataque cibernético.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "De acordo com a legislação brasileira de proteção de dados, quando ocorre um incidente desse tipo, a empresa responsável pelo tratamento dos dados deve, entre outras obrigações:",
+      "alternativas": {
+        "a": "comunicar o incidente à autoridade nacional e aos titulares afetados",
+        "b": "manter sigilo sobre o incidente até a conclusão da apuração interna",
+        "c": "responder apenas se ficar comprovada negligência na guarda dos dados",
+        "d": "notificar somente os titulares afetados, dispensada a autoridade nacional",
+        "e": "repassar a responsabilidade civil ao provedor de hospedagem contratado"
+      },
+      "resposta": "a",
+      "explicacao": "A comunicação é dupla e em prazo razoável: vai à autoridade nacional, que fiscaliza, e a quem teve o dado exposto, que precisa se proteger. Em (c) está o distrator mais fino, porque a responsabilidade do controlador não depende de provar negligência — ela decorre do próprio tratamento, e a demonstração de que se adotou segurança adequada serve para reduzir a sanção, não para afastar o dever de comunicar. Em (d), notificar só o titular deixa a autoridade sem informação para fiscalizar. Em (b) e (e), o silêncio e a transferência de responsabilidade ao hospedeiro contrariam o dever legal."
+    },
+    {
+      "id": "atualidades-tecnologia-51",
+      "texto_apoio": "Estudos têm associado o uso intenso de redes sociais por adolescentes a indicadores como ansiedade, comparação social constante e insatisfação com a própria imagem corporal, ainda que a relação de causalidade seja objeto de debate entre pesquisadores.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Diante dessas evidências, algumas plataformas e legisladores têm discutido medidas como:",
+      "alternativas": {
+        "a": "a exigência de verificação biométrica facial para criar conta em rede social",
+        "b": "a responsabilização penal dos pais pelo tempo de tela dos filhos menores",
+        "c": "restrições de idade, limites de tempo e ajustes nos recursos de engajamento",
+        "d": "a obrigatoriedade do uso de redes sociais nas atividades escolares regulares",
+        "e": "o bloqueio das redes sociais no país durante todo o período letivo do ano"
+      },
+      "resposta": "c",
+      "explicacao": "As medidas em discussão atacam três frentes ao mesmo tempo: quem entra, por quanto tempo fica e o que o produto faz para prender a atenção de quem é menor de idade. Em (a) está o distrator mais atual, porque verificação de idade é de fato parte do debate — mas a biometria facial obrigatória é uma solução específica e controversa por criar outro problema de privacidade, e não a linha geral das propostas. Em (b), a via penal contra os pais não figura entre as medidas discutidas. Em (d) e (e), tornar o uso obrigatório ou bloquear o acesso no país inteiro vão em direções opostas às evidências."
+    },
+    {
+      "id": "atualidades-tecnologia-52",
+      "texto_apoio": "Recursos como notificações constantes, rolagem infinita de conteúdo e reprodução automática do próximo vídeo são incorporados deliberadamente ao design de diversos aplicativos, com o objetivo de prolongar o tempo de uso do usuário.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse conjunto de técnicas de design voltadas a capturar e prolongar a atenção do usuário, muitas vezes explorando mecanismos psicológicos de recompensa, é criticado por parte dos próprios profissionais que atuaram em seu desenvolvimento sob o argumento de que:",
+      "alternativas": {
+        "a": "são usados apenas em aplicativos profissionais, sem relação com entretenimento",
+        "b": "priorizam tempo de tela em detrimento do bem-estar, com efeito análogo ao jogo",
+        "c": "elevam o custo de manutenção da plataforma sem retorno correspondente em receita publicitária",
+        "d": "reduzem o custo de aquisição de usuários por indicação entre pares",
+        "e": "não têm efeito mensurável sobre o comportamento dos usuários finais"
+      },
+      "resposta": "b",
+      "explicacao": "A crítica vem de dentro e é sobre o critério de sucesso: o produto é otimizado para a métrica de tempo de uso, e a recompensa variável — não se sabe o que vem na próxima rolagem — é o mesmo mecanismo que sustenta a máquina caça-níqueis. Em (c) e (d) está a inversão do interesse comercial: engajamento é o que gera receita publicitária, e por isso a crítica não é de custo, é de efeito sobre quem usa. Em (e), a eficácia desses recursos é justamente o que os torna problemáticos. Em (a), eles predominam em aplicativos de entretenimento e rede social."
+    },
+    {
+      "id": "atualidades-tecnologia-56",
+      "texto_apoio": "Discute-se, em diferentes países, até que ponto uma plataforma digital deve responder juridicamente por conteúdos ilícitos publicados por seus usuários, e em que medida essa responsabilização poderia incentivar a remoção excessiva de conteúdos legítimos por precaução.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse debate sobre a responsabilidade de plataformas por conteúdo de terceiros envolve, sobretudo, a tensão entre:",
+      "alternativas": {
+        "a": "a dificuldade técnica de identificar conteúdo ilícito em escala de milhões de posts",
+        "b": "a necessidade de uniformizar internacionalmente as regras de responsabilidade civil",
+        "c": "a atribuição da responsabilidade integral ao autor do conteúdo publicado",
+        "d": "a ausência de legislação sobre o tema, mesmo em blocos como a União Europeia",
+        "e": "coibir dano por conteúdo ilícito e evitar a remoção excessiva de conteúdo lícito"
+      },
+      "resposta": "e",
+      "explicacao": "A tensão é entre dois erros de sinal contrário: responsabilizar de menos deixa o dano circular, responsabilizar demais faz a plataforma remover por precaução tudo o que parecer arriscado, inclusive o que é legítimo. Em (a) está o distrator mais forte, porque a dificuldade de moderar em escala é real e alimenta o debate — só que é um obstáculo prático, e não um dos dois polos do conflito. Em (c), atribuir tudo ao autor é uma das posições, não a tensão. Em (b), a uniformização internacional é outro debate. Em (d), há legislação em vigor, inclusive na União Europeia."
+    },
+    {
+      "id": "atualidades-tecnologia-57",
+      "texto_apoio": "Plataformas digitais privadas definem, em seus próprios termos de uso, regras sobre quais conteúdos podem ser publicados, podendo remover postagens ou suspender contas mesmo quando o conteúdo não seria necessariamente ilegal segundo a legislação do país.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Essa possibilidade de remoção de conteúdo por decisão exclusivamente contratual, e não apenas legal, evidencia que a liberdade de expressão em ambientes digitais privados é:",
+      "alternativas": {
+        "a": "irrestrita na plataforma, que não pode remover conteúdo lícito do usuário",
+        "b": "vinculada a ordem judicial prévia, sem margem para política própria da empresa",
+        "c": "condicionada também pelas políticas privadas de moderação de cada plataforma",
+        "d": "idêntica, no plano jurídico, à liberdade exercida em praça pública estatal",
+        "e": "regulada por tratados internacionais vinculantes específicos para as redes sociais"
+      },
+      "resposta": "c",
+      "explicacao": "Além do limite legal, existe o limite contratual: ao aceitar os termos de uso, o usuário se submete a regras que a empresa escreveu e pode aplicar sem passar pelo Judiciário. Em (d) está o erro conceitual que a questão testa — a praça pública sujeita o Estado a um dever de neutralidade que não se transfere automaticamente a um espaço privado, por mais que ele funcione como praça. Em (a) e (b), a plataforma remove sem ordem judicial e sem depender da ilicitude. Em (e), não há tratado vinculante que discipline a matéria."
+    },
+    {
+      "id": "atualidades-tecnologia-60",
+      "texto_apoio": "Empresas de tecnologia frequentemente prestam serviços digitais a usuários localizados em determinado país sem manter presença física ou estrutura tributável tradicional nesse território, o que dificulta a aplicação das regras usuais de tributação sobre o lucro.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Essa dificuldade tem levado organismos internacionais e governos a discutir novas regras de tributação de empresas digitais baseadas, sobretudo, em:",
+      "alternativas": {
+        "a": "considerar o local de geração de valor pelos usuários, além da presença física",
+        "b": "tributar apenas o país onde a empresa mantém sua sede administrativa",
+        "c": "fixar uma alíquota mínima global, cobrada pelo país de origem do capital",
+        "d": "transferir a arrecadação para um fundo administrado por organismo multilateral",
+        "e": "tributar a receita bruta do serviço no país de residência da controladora"
+      },
+      "resposta": "a",
+      "explicacao": "O eixo da reforma é deslocar o critério: se o valor nasce da atenção e dos dados de usuários situados num país, esse país passa a ter direito de tributar parte do lucro, mesmo sem escritório da empresa em seu território. Em (c) está o distrator mais informado, porque a alíquota mínima global é de fato parte do pacote em negociação — mas ela resolve outro problema, o da corrida para o fundo do poço entre jurisdições, e não o da ausência de presença física. Em (b) e (e), tributar só na sede ou na controladora é exatamente a regra antiga. Em (d), não há fundo multilateral arrecadador em discussão."
+    },
+    {
+      "id": "atualidades-tecnologia-65",
+      "texto_apoio": "Estudantes têm utilizado ferramentas de inteligência artificial generativa para auxiliar na elaboração de textos e trabalhos acadêmicos, o que tem levado instituições de ensino a rever suas políticas de avaliação e integridade acadêmica.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Diante desse cenário, o debate educacional sobre o uso de IA generativa por estudantes tende a se concentrar, sobretudo, em:",
+      "alternativas": {
+        "a": "eliminar a necessidade de avaliação escrita nas escolas do país",
+        "b": "distinguir o uso como apoio ao aprendizado do uso que substitui o esforço",
+        "c": "impedir tecnicamente o acesso a essas ferramentas no ambiente escolar",
+        "d": "desenvolver detectores automáticos capazes de identificar texto gerado por máquina",
+        "e": "tornar obrigatório o uso da ferramenta nas disciplinas do currículo escolar"
+      },
+      "resposta": "b",
+      "explicacao": "O problema pedagógico não é a ferramenta, é onde ela entra: usar para revisar um argumento próprio ensina, usar para produzir o argumento no lugar do estudante não. Em (d) está o distrator mais realista, porque escolas realmente tentaram esse caminho — os detectores, porém, erram nos dois sentidos e acusam texto humano, de modo que o debate se deslocou da fiscalização para o desenho da avaliação. Em (c), bloquear o acesso na escola não alcança o uso em casa. Em (a) e (e), abolir a escrita ou torná-la obrigatoriamente assistida são extremos ausentes do debate."
+    },
+    {
+      "id": "atualidades-tecnologia-68",
+      "texto_apoio": "Braços robóticos e sistemas automatizados de montagem têm substituído, em diversas linhas de produção industrial, tarefas repetitivas antes realizadas por trabalhadores humanos.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Um dos principais desafios de política pública associados à automação industrial em larga escala é:",
+      "alternativas": {
+        "a": "a dificuldade técnica de o robô executar montagem industrial complexa",
+        "b": "a garantia de que nenhum trabalhador será afetado pela automação",
+        "c": "viabilizar requalificação profissional para realocar trabalhadores deslocados",
+        "d": "a definição de um piso salarial específico para as ocupações expostas à automação",
+        "e": "tributar o robô para compensar a arrecadação previdenciária perdida"
+      },
+      "resposta": "c",
+      "explicacao": "O emprego perdido e o emprego criado pela automação raramente cabem na mesma pessoa: exigem outra qualificação, muitas vezes em outro setor, e é essa travessia que a política pública precisa financiar. Em (e) está o distrator mais interessante, porque a tributação do robô é proposta séria e discutida — mas endereça a receita do Estado, e não a recolocação de quem perdeu o posto. Em (b), nenhuma política garante ausência de impacto. Em (d), piso salarial setorial não responde ao deslocamento. Em (a), a capacidade técnica dos robôs é a premissa do problema, não o desafio."
+    },
+    {
+      "id": "atualidades-tecnologia-69",
+      "texto_apoio": "Museus, universidades e festivais culturais têm passado a reconhecer jogos eletrônicos como objeto de estudo e de exposição, ao lado de outras formas tradicionais de expressão artística e de entretenimento de massa.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esse reconhecimento crescente dos jogos eletrônicos evidencia, sobretudo, que essa forma de entretenimento:",
+      "alternativas": {
+        "a": "depende do reconhecimento dessas competições como modalidade esportiva de nível olímpico",
+        "b": "permanece restrita a público reduzido, sem relevância cultural ou econômica",
+        "c": "é reconhecida como ferramenta educacional, sem dimensão de entretenimento",
+        "d": "deixou de gerar receita relevante para a indústria do entretenimento",
+        "e": "foi incorporada ao debate sobre cultura de massa, ao lado do cinema e da TV"
+      },
+      "resposta": "e",
+      "explicacao": "Entrar em museu e em universidade é o trajeto que o cinema e a fotografia já percorreram: deixar de ser passatempo menor e virar objeto legítimo de análise e de acervo. Em (a) está a confusão entre duas discussões distintas — o reconhecimento cultural descrito no enunciado independe de os e-sports serem ou não modalidade olímpica, que é debate esportivo. Em (b) e (d), o setor é hoje o de maior receita do entretenimento. Em (c), o reconhecimento é justamente como forma cultural e de entretenimento, não apenas como recurso didático."
+    },
+    {
+      "id": "atualidades-tecnologia-75",
+      "texto_apoio": "Diversos jogos eletrônicos, inclusive alguns voltados a públicos infantis e adolescentes, oferecem compras dentro do próprio jogo, incluindo pacotes de itens com conteúdo aleatório e desconhecido no momento da compra.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse mecanismo de compra de itens com resultado aleatório dentro de jogos eletrônicos, conhecido como loot box, tem sido comparado por parte de legisladores e pesquisadores a:",
+      "alternativas": {
+        "a": "prática já proibida por lei na maior parte dos países europeus",
+        "b": "mecanismos de aposta, pela aleatoriedade associada a recompensa incerta",
+        "c": "microtransação estética, sem efeito sobre o desempenho dentro do jogo",
+        "d": "publicidade infantil dirigida, sujeita às regras do Código de Defesa do Consumidor",
+        "e": "conteúdo educativo, sem componente financeiro ou de risco para o jogador"
+      },
+      "resposta": "b",
+      "explicacao": "Paga-se antes de saber o que se leva, e a recompensa variável é o traço que define o jogo de azar — daí a comparação, que sustentou a proibição em alguns países e a exigência de exibir probabilidades em outros. Em (d) está o enquadramento alternativo mais forte, e ele é real na discussão brasileira, mas trata do modo de anunciar a criança, e não do mecanismo aleatório em si. Em (a), a proibição existe em poucos países, e não na maior parte. Em (c) e (e), a compra estética sem sorteio e o conteúdo educativo são justamente os casos que ficam fora da comparação."
+    },
+    {
+      "id": "atualidades-tecnologia-77",
+      "texto_apoio": "Relógios e pulseiras inteligentes registram continuamente dados como frequência cardíaca, padrões de sono e nível de atividade física do usuário, muitas vezes sincronizados com aplicativos que armazenam esse histórico em servidores remotos.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Do ponto de vista da proteção de dados, as informações coletadas por esses dispositivos vestíveis (wearables) são consideradas, em geral:",
+      "alternativas": {
+        "a": "dados de propriedade do fabricante, sem direito de acesso pelo titular",
+        "b": "dados sensíveis de saúde, com exigências mais rigorosas de proteção",
+        "c": "dados anonimizados, fora do alcance da lei de proteção de dados",
+        "d": "dados de identificação, categoria comum que dispensa base legal própria",
+        "e": "dados de domínio público, comercializáveis sem restrição pelo aplicativo"
+      },
+      "resposta": "b",
+      "explicacao": "Batimento, sono e esforço físico dizem respeito à saúde, e a lei reserva a essa categoria um regime mais estrito, com hipóteses de tratamento reduzidas e consentimento destacado. Em (c) está o distrator mais técnico e o mais tentador: dado verdadeiramente anonimizado fica mesmo fora da lei, só que o histórico contínuo de um mesmo pulso é identificável por natureza, e não se anonimiza sem perder utilidade. Em (d), tratá-los como dado comum é o que a classificação como sensível impede. Em (a) e (e), o titular conserva direitos sobre eles, que não são mercadoria livre."
+    },
+    {
+      "id": "atualidades-tecnologia-79",
+      "texto_apoio": "Sistemas de controle de usinas de energia, estações de tratamento de água e redes de distribuição elétrica têm sido cada vez mais informatizados e conectados a redes digitais, o que amplia a eficiência operacional, mas também a superfície de ataque a esses sistemas.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "A crescente digitalização de infraestruturas críticas, como energia e saneamento, torna a cibersegurança desses setores uma questão de:",
+      "alternativas": {
+        "a": "relevância apenas para as empresas privadas que operam as concessões",
+        "b": "matéria contratual entre a concessionária e o órgão regulador do setor",
+        "c": "risco hipotético, sem caso documentado de ataque a infraestrutura crítica",
+        "d": "segurança nacional e continuidade de serviços essenciais à população",
+        "e": "problema técnico a ser resolvido pela equipe de informática de cada operadora"
+      },
+      "resposta": "d",
+      "explicacao": "Quando o alvo é a rede elétrica ou o tratamento de água, a falha não fica na empresa: atinge hospital, semáforo e abastecimento, e por isso o tema saiu do departamento de tecnologia e entrou na pauta de defesa nacional. Em (e) está a leitura que a questão quer corrigir — tratar como assunto de equipe de informática é o enquadramento que a interdependência dos serviços tornou insuficiente. Em (a) e (b), o interesse público excede a relação entre concessionária e regulador. Em (c), há casos documentados de ataque a usinas e a sistemas de água."
+    },
+    {
+      "id": "atualidades-tecnologia-81",
+      "texto_apoio": "Diversos países dependem, em grande medida, de serviços de nuvem, cabos de comunicação submarinos e componentes de hardware fornecidos por um número reduzido de empresas ou países estrangeiros para operar sua infraestrutura digital essencial.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Essa dependência tem levado governos a debater políticas voltadas ao fortalecimento da chamada soberania digital, que busca, sobretudo:",
+      "alternativas": {
+        "a": "transferir a infraestrutura digital mundial para um único país centralizador de dados",
+        "b": "eliminar a cooperação internacional em tecnologia e inovação entre países",
+        "c": "proibir o uso de tecnologia desenvolvida fora do território nacional",
+        "d": "desenvolver capacidade própria de fabricação de semicondutores de ponta",
+        "e": "reduzir vulnerabilidades ligadas à dependência de infraestrutura estrangeira"
+      },
+      "resposta": "e",
+      "explicacao": "Soberania digital não é autarquia: é reduzir o poder que um fornecedor ou um governo estrangeiro tem de interromper, vigiar ou condicionar serviços dos quais o país não consegue prescindir. Em (d) está o distrator mais forte, porque a fabricação de semicondutores é de fato um dos caminhos perseguidos — mas é um item da agenda, e não o objetivo, que abarca também data centers locais, rotas de cabo alternativas e regras de armazenamento. Em (b) e (c), autossuficiência total e proibição de tecnologia estrangeira são inviáveis e não constam das políticas. Em (a), centralizar em um país é o oposto do conceito."
+    },
+    {
+      "id": "atualidades-tecnologia-87",
+      "texto_apoio": "Alguns sistemas, implementados em diferentes contextos ao redor do mundo, atribuem a cada indivíduo uma pontuação numérica baseada em seu comportamento observado — incluindo hábitos de consumo, cumprimento de obrigações e interações sociais —, que pode influenciar seu acesso a determinados serviços ou benefícios.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Entre as principais críticas a esse tipo de sistema de pontuação social apoiado em tecnologia está o risco de:",
+      "alternativas": {
+        "a": "reduzir a desigualdade social entre os indivíduos avaliados pelo sistema",
+        "b": "depender de infraestrutura de conectividade indisponível em áreas rurais",
+        "c": "reproduzir vieses já presentes nos dados que alimentam a pontuação",
+        "d": "ampliar a eficiência estatal sem efeito colateral sobre a liberdade individual",
+        "e": "criar mecanismos de controle e vigilância que restringem direitos individuais"
+      },
+      "resposta": "e",
+      "explicacao": "A crítica central é política: quando a nota decide acesso a crédito, transporte ou emprego, ela vira instrumento de conformação de conduta, e a vigilância deixa de observar para passar a dirigir o comportamento. Em (c) está a objeção correta e mais estreita — o viés dos dados é problema real desses sistemas, mas descreve uma falha técnica corrigível, enquanto a crítica principal atinge o desenho mesmo do mecanismo. Em (a) e (d), reduzir desigualdade e não ter efeito sobre a liberdade são o contrário do risco apontado. Em (b), conectividade é obstáculo de implantação."
+    },
+    {
+      "id": "atualidades-tecnologia-91",
+      "texto_apoio": "Grupos musicais originários da Coreia do Sul conquistaram audiência expressiva em diferentes continentes, impulsionados fortemente pela divulgação de conteúdo e pela mobilização de fãs em redes sociais, e não apenas pelos meios tradicionais de distribuição musical.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esse fenômeno de alcance global de um produto cultural originado fora dos tradicionais centros de produção da indústria do entretenimento ilustra, sobretudo:",
+      "alternativas": {
+        "a": "como plataformas digitais reconfiguram os fluxos de circulação da cultura de massa",
+        "b": "a impossibilidade de produto cultural não ocidental alcançar público internacional",
+        "c": "a padronização dos catálogos das plataformas, iguais em todos os países",
+        "d": "a substituição da indústria musical norte-americana por produções asiáticas",
+        "e": "a exigência de que a produção asiática seja cantada em inglês para exportar"
+      },
+      "resposta": "a",
+      "explicacao": "O que mudou foi o caminho: a distribuição deixou de depender de gravadora e rádio dos centros tradicionais, e a mobilização organizada de fãs em rede passou a produzir alcance internacional a partir da periferia do sistema. Em (d) está o excesso mais tentador — reconhecer a reconfiguração dos fluxos não significa substituição, e as indústrias norte-americana e europeia seguem dominantes em receita. Em (b), o próprio fenômeno desmente a impossibilidade. Em (c), os catálogos variam por país. Em (e), boa parte do repertório é cantada em coreano."
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "subtopic": "ingles",
+  "questoes": [
+    {
+      "id": "ingles-02",
+      "textoId": "ing-c01-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the last paragraph, 'the phenomenon' most likely refers to",
+      "alternativas": {
+        "a": "the practice of tracing a quotation back to the wrong source on purpose.",
+        "b": "the habit of assigning appealing sentences to admired figures unchecked.",
+        "c": "the reluctance of historians to comment on material that circulates online.",
+        "d": "the disappearance of obscure writers from public memory over time.",
+        "e": "the commercial market that has grown around invented quotations."
+      },
+      "resposta": "b",
+      "explicacao": "A expressão retoma tudo o que o texto vinha descrevendo: sentenças atraentes atribuídas a nomes admirados por gente que não verifica, o que a historiadora chama de erro afetuoso. Em (a) está a inversão do que o texto afirma — o erro é feito por apreço, não de propósito. Em (e), o terceiro parágrafo diz que não há indústria nem lucro na falsificação de citações. Em (d), o esquecimento da fonte original é etapa do processo, não o fenômeno que ela analisa. Em (c), a historiadora comenta justamente o material que circula, e não se recusa a fazê-lo."
+    },
+    {
+      "id": "ingles-05",
+      "textoId": "ing-c01-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following about reform programmes?",
+      "alternativas": {
+        "a": "They fail whenever the correction to the exchange rate is a large one.",
+        "b": "The removal of fuel subsidies is what determines whether a programme survives.",
+        "c": "Cash transfers work only in countries that are holding an election.",
+        "d": "An independent central bank makes a devaluation unnecessary.",
+        "e": "A reform lasts longer when the population is shown something in return."
+      },
+      "resposta": "e",
+      "explicacao": "O terceiro parágrafo é explícito: a variável que parece importar não é o tamanho da correção, e sim se a população pode receber algo em troca — onde houve transferência de renda, a reforma sobreviveu. Em (a) está exatamente o que essa frase descarta, o tamanho da correção. Em (b), a retirada dos subsídios ao combustível é condição imposta pelos credores, e não o que decide a sobrevivência do programa. Em (d), a independência do banco central acompanha a desvalorização, não a substitui. Em (c), o ano eleitoral aparece no último parágrafo como questão de oportunidade, sem relação com as transferências."
+    },
+    {
+      "id": "ingles-12",
+      "textoId": "ing-c01-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The author most likely regards the long-term stability of the method as",
+      "alternativas": {
+        "a": "assured, since the constitution itself is never altered by the method.",
+        "b": "uncertain, since it depends on courts and officials continuing to cooperate.",
+        "c": "impossible, since no legal system can be used in this way for very long.",
+        "d": "irrelevant, since foreign ministries can be expected to intervene in any case.",
+        "e": "proven, since no government that has used the method was ever seriously challenged."
+      },
+      "resposta": "b",
+      "explicacao": "O último parágrafo trata a estabilidade como questão em aberto e nomeia a fraqueza: o método depende de tribunais complacentes mas ainda funcionais e de funcionários dispostos a aplicar regras que sabem ser pretextos, e ambos se mostraram mais difíceis de sustentar do que se esperava. Em (c) está o excesso na direção oposta — o texto aponta fragilidade, não impossibilidade. Em (a), a constituição intacta é o que torna o método difícil de denunciar, e não o que o garante. Em (d), o terceiro parágrafo mostra chancelarias sem vocabulário para responder. Em (e), nada no texto afirma ausência de contestação."
+    },
+    {
+      "id": "ingles-13",
+      "textoId": "ing-c01-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The third paragraph most likely serves to",
+      "alternativas": {
+        "a": "explain the procedure by which a state board sets the price paid to farmers.",
+        "b": "show that chocolate manufacturers have been breaking the labelling rules.",
+        "c": "compare the cocoa market in West Africa with the one in South America.",
+        "d": "argue that shoppers ought to pay closer attention to the weight of a bar.",
+        "e": "show that manufacturers absorb part of a rise in ways the package omits."
+      },
+      "resposta": "e",
+      "explicacao": "O parágrafo lista o que muda sem ser anunciado — a barra encolhe cinco gramas, a proporção de cacau cai dois pontos, o recheio cresce — e acrescenta que o consumidor registra o preço muito melhor que qualquer dessas alterações. Em (b) está a leitura que vai além do texto: reduzir o peso e declará-lo na embalagem não é infração, e nada indica descumprimento de regra. Em (d), o texto observa o comportamento do consumidor sem recomendar nada a ele. Em (a), o conselho estatal de preços pertence ao segundo parágrafo. Em (c), a América do Sul aparece só como local de venda."
+    },
+    {
+      "id": "ingles-23",
+      "textoId": "ing-c02-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "detalhe",
+      "enunciado": "According to the text, one of the weaknesses the reviewers found in the studies they examined was that",
+      "alternativas": {
+        "a": "the species of fungus involved had been misidentified in the field.",
+        "b": "the trees studied were too old to transfer any carbon at all.",
+        "c": "the direction of the carbon movement had often not been established.",
+        "d": "the quantities of carbon involved proved impossible to measure in the field.",
+        "e": "the studies had never been published in peer-reviewed journals."
+      },
+      "resposta": "c",
+      "explicacao": "O segundo parágrafo lista três falhas, e a terceira é literalmente esta: em vários casos a direção do movimento nunca foi estabelecida, porque se detectou carbono num vizinho sem prova de que a primeira árvore o tivesse enviado em vez de simplesmente perdido. Em (d) está o distrator mais próximo, e ele distorce a segunda falha — as quantidades foram medidas e eram pequenas, não immensuráveis. Em (b), o problema apontado é o estudo em vasos em lugar de floresta madura, não a idade das árvores. Em (a) e (e), nem identificação de espécie nem ausência de publicação são mencionadas."
+    },
+    {
+      "id": "ingles-55",
+      "textoId": "ing-c04-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "International students are usually charged the same fee as domestic ones.",
+        "b": "Universities were unaware of how far they depended on this income.",
+        "c": "Decisions taken outside education ministries can alter finances quickly.",
+        "d": "The cuts generally fell on the courses the international students attended.",
+        "e": "The dependency was concealed from the public by the universities."
+      },
+      "resposta": "c",
+      "explicacao": "O segundo parágrafo mostra que o subsídio cruzado repousa em decisões de ministérios sem relação com educação — vistos, direito de trabalhar, tratamento do cônjuge — tomadas em meses, e que um anúncio na primavera pode derrubar um terço das candidaturas até o outono. Em (b) e (e) está a mesma suposição de ignorância ou ocultação, que o último parágrafo nega ao dizer que a dependência constava de todo relatório anual. Em (d), os cortes recaem sobre línguas, clássicos e ciências menores, e não sobre os cursos que os estrangeiros faziam. Em (a), eles pagam várias vezes a mensalidade local."
+    },
+    {
+      "id": "ingles-77",
+      "textoId": "ing-c06-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the second paragraph, 'the name has become a genre' most likely means that",
+      "alternativas": {
+        "a": "readers can no longer remember which books the author has written.",
+        "b": "publishers refuse to print books outside a fixed commercial category.",
+        "c": "a pseudonym has to be chosen so as to match the kind of book being written.",
+        "d": "the author's name leads readers to expect a particular kind of book.",
+        "e": "reviewers have stopped reading the work of well-established writers."
+      },
+      "resposta": "d",
+      "explicacao": "A frase fecha o raciocínio sobre o nome que fixa o escritor num lugar: o romancista conhecido por um tipo de livro que quer escrever outro descobre que a assinatura já criou uma expectativa de gênero. Em (b) está o deslocamento mais tentador — a restrição descrita opera no leitor, não numa recusa das editoras, que o texto não menciona. Em (a), o problema é o oposto: os leitores lembram bem demais. Em (c), a escolha do pseudônimo não é tratada como ajuste ao tipo de livro. Em (e), o terceiro parágrafo diz que a obra sob nome novo foi resenhada com descuido, e não que resenhistas abandonaram os autores estabelecidos."
+    },
+    {
+      "id": "ingles-80",
+      "textoId": "ing-c06-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "Street vendors are the group that has been formalised most successfully.",
+        "b": "Tying formality to something the owner already wants has worked best.",
+        "c": "The costs of registering are distant while its benefits are immediate.",
+        "d": "Rules designed for large firms suit the smallest ones equally well.",
+        "e": "No formalisation policy has produced any measurable result at all."
+      },
+      "resposta": "b",
+      "explicacao": "O terceiro parágrafo classifica essa medida como a mais eficaz de todas: tornar a formalidade condição para algo que o dono já quer, como vender a um comprador público ou aceitar cartão. Em (c) está a inversão exata do segundo parágrafo, em que o custo é imediato e certo e o benefício, distante e provável. Em (a), o último parágrafo diz que o vendedor ambulante está entre os casos mais difíceis, ainda não resolvidos. Em (d), as regras escritas para firmas cinquenta vezes maiores são apontadas como parte do custo. Em (e), o texto registra avanço no meio da distribuição."
+    },
+    {
+      "id": "ingles-87",
+      "textoId": "ing-c06-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The last paragraph most likely serves to",
+      "alternativas": {
+        "a": "recommend closing the new plants until demand has recovered.",
+        "b": "explain the technical requirements of a sterile production line.",
+        "c": "describe the contracts signed during the last health emergency.",
+        "d": "defend a payment that looks like waste when nothing goes wrong.",
+        "e": "compare the prices charged by regional and by established suppliers."
+      },
+      "resposta": "d",
+      "explicacao": "O parágrafo apresenta o volume mínimo garantido e a taxa de prontidão, reconhece que parecem desperdício em toda planilha de ano tranquilo e fecha lembrando que a mesma objeção foi feita aos estoques estratégicos até o dia em que fizeram falta — o movimento é de defesa. Em (a) está o oposto: o texto quer que as fábricas ociosas recebam encomendas, não que fechem. Em (b), o treinamento da linha estéril pertence ao segundo parágrafo. Em (e), a comparação de preços está no terceiro. Em (c), os contratos citados são propostas atuais, não acordos da emergência passada."
+    },
+    {
+      "id": "ingles-93",
+      "textoId": "ing-c07-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The second paragraph most likely serves to",
+      "alternativas": {
+        "a": "explain why the costs and benefits of a new building are represented unequally.",
+        "b": "demonstrate that a new building imposes no real costs on existing residents.",
+        "c": "describe the procedure by which a city grants a building permit to a developer.",
+        "d": "argue that developers ought to be required to compensate the neighbours.",
+        "e": "compare the housing markets of two cities with different rules."
+      },
+      "resposta": "a",
+      "explicacao": "O parágrafo opõe custos concentrados, imediatos e legíveis a benefícios difusos, adiados e invisíveis, e conclui que um dos grupos está na sala e o outro nem existe como eleitorado — é a explicação da representação desigual. Em (b) está a distorção mais tentadora: o texto afirma que os custos são reais, e apenas mostra que recaem sobre poucos. Em (d), a compensação não é proposta em nenhum ponto; as reformas discutidas mudam o nível da decisão. Em (c), o procedimento de licenciamento é o assunto do primeiro parágrafo. Em (e), nenhuma cidade específica é comparada a outra."
+    },
+    {
+      "id": "ingles-97",
+      "textoId": "ing-c07-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "The placebo effect depends on the patient being deceived about the pill.",
+        "b": "Open-label trials found no difference from giving no pill at all.",
+        "c": "Placebos have been shown to reduce the size of tumours in patients.",
+        "d": "The effect appears most clearly in measurements taken by instruments.",
+        "e": "The ritual around a treatment may matter independently of belief."
+      },
+      "resposta": "e",
+      "explicacao": "O terceiro parágrafo diz que as explicações principais envolvem o ritual e não a crença: tomar algo em hora fixa, a atenção do clínico, a expectativa embutida na rotina. Em (a) está a explicação que o texto abre justamente para corrigir, e o ensaio aberto a desmente porque ninguém foi enganado. Em (b), esses ensaios relataram melhora sobre quem não recebeu pílula. Em (d), o mesmo parágrafo afirma o contrário: o efeito aparece sobretudo no que o paciente relata, não no que um instrumento registra. Em (c), a frase sobre o tumor nega isso diretamente."
+    },
+    {
+      "id": "ingles-109",
+      "textoId": "ing-c08-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that minimum efficiency standards have spread slowly because",
+      "alternativas": {
+        "a": "the least efficient units on sale are also the most expensive ones to buy.",
+        "b": "the buyer pays the higher price at once and recovers it only later.",
+        "c": "they raise the total cost of a unit across its whole lifetime.",
+        "d": "they would push the most efficient models out of the market.",
+        "e": "grids are unable to supply the units that would comply with them."
+      },
+      "resposta": "b",
+      "explicacao": "O terceiro parágrafo encerra com a razão: a economia se acumula para o comprador ao longo de anos, enquanto o preço mais alto é pago no balcão. Em (c) está a negação da frase anterior, que diz que as normas não custam nada ao consumidor ao longo da vida útil do aparelho. Em (d), quem sairia do mercado seriam os piores modelos, não os melhores. Em (a), o texto diz que a eficiência varia por um fator de três a preços semelhantes, o que desfaz a correlação entre ineficiência e preço alto. Em (e), a capacidade da rede não é apresentada como obstáculo à adoção das normas."
+    },
+    {
+      "id": "ingles-119",
+      "textoId": "ing-c08-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the second paragraph, 'The system performed as advertised' most likely means that",
+      "alternativas": {
+        "a": "the wanted individual was not in fact found anywhere in the crowd.",
+        "b": "the hundred false matches are consistent with the accuracy claimed.",
+        "c": "the officer received a list that contained no errors of any kind.",
+        "d": "the supplier had overstated the accuracy of the system it sold.",
+        "e": "the crowd scanned was smaller than the system had been designed for."
+      },
+      "resposta": "b",
+      "explicacao": "A frase é irônica e literal ao mesmo tempo: um por cento de dez mil são cem, de modo que as cem coincidências falsas são precisamente o que noventa e nove por cento de acurácia prevê. Em (d) está a leitura contrária — o argumento do texto é que o fornecedor não exagerou, e que o número anunciado é que diz pouco. Em (c), a lista entregue ao policial está errada em noventa e nove por cento dos nomes. Em (a), o texto diz que o sistema provavelmente encontrará a pessoa procurada. Em (e), o tamanho da multidão é o que produz o resultado, não uma condição fora do projeto."
+    },
+    {
+      "id": "ingles-123",
+      "textoId": "ing-c09-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The second paragraph most likely serves to",
+      "alternativas": {
+        "a": "show that the quality of care has declined over the past century.",
+        "b": "compare the wages of factory workers with those of care workers today.",
+        "c": "argue that pensions are harder to reform than the provision of care.",
+        "d": "describe the training required to work in the care professions.",
+        "e": "explain why the cost of care rises even when nothing gets worse."
+      },
+      "resposta": "e",
+      "explicacao": "O parágrafo contrapõe o operário de fábrica, que hoje produz muitas vezes mais, à pessoa que ajuda alguém a se vestir, que produz quase o mesmo de um século atrás — e conclui que essa distância explica por que o custo do cuidado sobe mais rápido que tudo, mesmo sem piorar. Em (a) está a confusão que o parágrafo antecipa: produtividade estagnada não é qualidade em queda. Em (b), a comparação é de produtividade, não de salários. Em (c), a inversão é evidente, já que o texto abre dizendo que a aposentadoria é a parte fácil. Em (d), a formação não é tratada."
+    },
+    {
+      "id": "ingles-137",
+      "textoId": "ing-c10-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the third paragraph, saying that 'turned out' is doing the work in that sentence most likely means that",
+      "alternativas": {
+        "a": "the intention of the author determines what a work will eventually come to mean.",
+        "b": "the phrase ought to be removed for the sentence to be accurate.",
+        "c": "durable works are those whose meaning was fixed at publication.",
+        "d": "the phrase points to a process occurring in readers, not in the book.",
+        "e": "repeated reading adds nothing to a text that was thin to begin with."
+      },
+      "resposta": "d",
+      "explicacao": "A frase seguinte explicita o ponto: 'turned out' nomeia um processo que acontece nos leitores, ao longo de gerações, e não no livro. Em (a) e (c) estão as duas versões da tese contrária, uma pela intenção do autor e outra pelo sentido fixado na publicação, e o parágrafo diz justamente que as obras duráveis vieram a ser sobre mais do que seus autores poderiam pretender. Em (b), a expressão não é um defeito a corrigir, e sim o termo em que está a carga do argumento. Em (e), a leitura repetida é apresentada como aquilo que distingue um texto durável, e o texto fino é o contraexemplo."
+    }
+  ]
+}

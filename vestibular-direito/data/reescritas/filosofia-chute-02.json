@@ -1,0 +1,245 @@
+{
+  "subtopic": "filosofia-sociologia",
+  "questoes": [
+    {
+      "id": "filosofia-sociologia-48",
+      "texto_apoio": "A sociologia clássica distingue formas de coesão social baseadas na semelhança entre os membros de um grupo daquelas baseadas na interdependência entre indivíduos diferentes entre si.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa distinção entre coesão por semelhança e coesão por interdependência ajuda a caracterizar qual traço de pequenas comunidades tradicionais em contraste com grandes centros urbanos?",
+      "alternativas": {
+        "a": "o fato de a coesão em comunidades pequenas depender de uma única liderança religiosa",
+        "b": "o fato de os grandes centros dependerem da semelhança de crenças entre seus habitantes",
+        "c": "o fato de comunidades tradicionais se unirem por crenças e costumes compartilhados",
+        "d": "o fato de comunidades tradicionais se organizarem por acordos jurídicos individuais",
+        "e": "o fato de comunidades tradicionais terem menor desigualdade de renda que as metrópoles"
+      },
+      "resposta": "c",
+      "explicacao": "A coesão por semelhança — a solidariedade mecânica de Durkheim — apoia-se num fundo comum de crenças e costumes que dispensa especialização; a metrópole, ao contrário, une pessoas diferentes pela dependência recíproca entre funções. Em (b) está a inversão exata dos dois polos. Em (d), o acordo jurídico individual formalizado é traço da sociedade diferenciada, não da tradicional. Em (a), a coesão por semelhança repousa em valores partilhados por todos, e não na autoridade de uma figura. Em (e), a desigualdade de renda é outra variável, que a distinção clássica não usa para separar os dois tipos."
+    },
+    {
+      "id": "filosofia-sociologia-53",
+      "texto_apoio": "Ao duvidar metodicamente de tudo, Descartes conclui que não pode duvidar de que está pensando, o que fundamenta a certeza expressa na fórmula \"penso, logo existo\".",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esse raciocínio cartesiano ajuda a esclarecer por que argumentos que atribuem consciência ou pensamento genuíno a chatbots de inteligência artificial, apenas por produzirem respostas fluentes, costumam ser considerados filosoficamente insuficientes?",
+      "alternativas": {
+        "a": "porque o chatbot processa padrões estatísticos, sem que a fluência revele um sujeito pensante",
+        "b": "porque, para Descartes, os sentidos oferecem a prova mais confiável da existência do sujeito",
+        "c": "porque tais sistemas ainda não alcançaram a velocidade de processamento do cérebro humano",
+        "d": "porque produzir texto coerente já demonstraria, por si só, uma consciência equivalente à humana",
+        "e": "porque a existência de Deus seria o único ponto de partida cartesiano para o problema"
+      },
+      "resposta": "a",
+      "explicacao": "O cogito não se apoia no que o sujeito diz, e sim no acesso direto ao próprio ato de duvidar — critério que a fluência verbal, por definição, não fornece. Em (d) está a inferência que a questão pede para recusar: coerência linguística não implica um sujeito que se apreenda pensando. Em (b), é da dúvida sobre os sentidos que nasce o cogito, de modo que a alternativa inverte o percurso. Em (c), velocidade de processamento é critério quantitativo, alheio ao argumento. Em (e), Deus aparece depois no sistema cartesiano; o ponto de partida é a certeza do sujeito que pensa."
+    },
+    {
+      "id": "filosofia-sociologia-54",
+      "texto_apoio": "Hume argumenta que a crença de que o futuro se assemelhará ao padrão observado no passado não pode ser demonstrada apenas pela razão, dependendo de um hábito psicológico.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse \"problema da indução\" ajuda a explicar qual limitação discutida a respeito de modelos preditivos de inteligência artificial usados em mercados financeiros?",
+      "alternativas": {
+        "a": "a de que o problema da indução nega a possibilidade de observar regularidades na natureza",
+        "b": "a de que tais modelos exigem volumes de dados que só grandes empresas conseguem reunir",
+        "c": "a de que modelos treinados em dados históricos acertam por definição suas previsões futuras",
+        "d": "a de que tais modelos podem falhar diante de eventos inéditos e rupturas estruturais",
+        "e": "a de que Hume recomendaria usar apenas raciocínio dedutivo para prever mercados"
+      },
+      "resposta": "d",
+      "explicacao": "Um modelo treinado no passado só vale enquanto o futuro se parecer com ele, e é exatamente essa continuidade que Hume mostra não ter garantia lógica — daí a vulnerabilidade a rupturas sem precedente na série. Em (c) está a certeza que o problema da indução dissolve. Em (a), Hume não nega que se observem padrões: nega que a observação os projete necessariamente adiante. Em (e), ele trata a indução como hábito inescapável, e não como erro a substituir por dedução. Em (b), a barreira de dados é um obstáculo prático de mercado, sem relação com o argumento epistemológico."
+    },
+    {
+      "id": "filosofia-sociologia-56",
+      "texto_apoio": "Ao proclamar a \"morte de Deus\", Nietzsche pretende diagnosticar o esgotamento histórico dos fundamentos metafísicos e religiosos que davam sentido último aos valores ocidentais.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse diagnóstico ajuda a interpretar qual leitura sociológica sobre o crescimento de comunidades de fãs extremamente engajadas em torno de artistas, franquias ou ideologias como estruturas quase religiosas de sentido?",
+      "alternativas": {
+        "a": "a de que a morte de Deus fortalece a fé religiosa tradicional nas sociedades atuais",
+        "b": "a de que a queda na frequência a igrejas decorre da concorrência por tempo livre",
+        "c": "a de que o diagnóstico nietzschiano implica a irrelevância da busca humana por sentido e valor",
+        "d": "a de que a morte de Deus é um evento cósmico literal, comprovável cientificamente",
+        "e": "a de que alguns buscam em comunidades de fãs o pertencimento antes dado pela religião"
+      },
+      "resposta": "e",
+      "explicacao": "O diagnóstico não é sobre religião apenas: é sobre a perda de um fundamento último de sentido, e a leitura sociológica observa que a necessidade permanece e migra para outras estruturas de pertencimento. Em (c) está o passo em falso mais tentador — o esgotamento dos fundamentos antigos abre espaço para a criação de novos valores, e não para a indiferença. Em (a), o diagnóstico é de colapso, não de fortalecimento. Em (d), trata-se de um evento cultural, não de uma tese cosmológica verificável. Em (b), a explicação pela concorrência de tempo livre descreve um dado de comportamento, sem tocar na questão do sentido."
+    },
+    {
+      "id": "filosofia-sociologia-57",
+      "texto_apoio": "Gramsci desenvolveu o conceito de \"hegemonia\" para explicar como a dominação de uma classe se sustenta também pela capacidade de fazer seus valores serem aceitos como naturais pela sociedade.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse conceito de hegemonia cultural ajuda a analisar qual crítica frequente ao papel de grandes plataformas de streaming na formação do gosto e dos valores culturais do público?",
+      "alternativas": {
+        "a": "a de que a hegemonia se sustenta pela imposição de leis penais mais rígidas",
+        "b": "a de que a assinatura mensal exclui do acesso quem não tem renda para pagá-la",
+        "c": "a de que a curadoria naturaliza certos valores como se fossem preferência do público",
+        "d": "a de que a hegemonia implica ausência de disputa ideológica na sociedade civil",
+        "e": "a de que o catálogo disponível numa plataforma de streaming já constitui, por si, hegemonia cultural"
+      },
+      "resposta": "c",
+      "explicacao": "A hegemonia opera por consentimento: o que foi escolhido e promovido passa a ser lido como gosto espontâneo do público, e a decisão editorial desaparece atrás do resultado. Em (e) está o excesso que a questão quer flagrar — o conceito depende da seletividade da curadoria, e não do simples fato de haver catálogo. Em (a), a imposição por lei penal é coerção estatal direta, que Gramsci distingue da hegemonia construída por persuasão. Em (d), a hegemonia se constrói na disputa contínua da sociedade civil, e não na ausência dela. Em (b), a barreira de renda é problema de acesso, não de formação do gosto."
+    },
+    {
+      "id": "filosofia-sociologia-59",
+      "texto_apoio": "Habermas descreve a formação histórica de uma esfera pública burguesa, espaço de debate racional entre particulares que permitia formar uma opinião pública capaz de pressionar o poder político.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse conceito ajuda a fundamentar qual crítica frequente ao debate político em redes sociais, marcado por polarização e disseminação de conteúdos falsos?",
+      "alternativas": {
+        "a": "a de que a esfera pública burguesa era controlada pelo Estado absolutista, sem particulares",
+        "b": "a de que polarização e desinformação enfraquecem as condições de debate racional e crítico",
+        "c": "a de que qualquer discussão política em rede já realiza o ideal habermasiano de esfera pública",
+        "d": "a de que a moderação por empresas privadas substitui o julgamento do Poder Judiciário",
+        "e": "a de que a ampliação do acesso, por si só, já basta para constituir uma esfera pública"
+      },
+      "resposta": "b",
+      "explicacao": "O critério habermasiano não é quantidade de participação, e sim qualidade do procedimento: troca de razões orientada ao entendimento. Ampliar o alcance e degradar a argumentação move as duas variáveis em sentidos opostos, e a crítica incide sobre a segunda. Em (e) está a confusão exata entre alcance e qualidade do debate. Em (c), o oposto: supor que toda discussão em rede já realiza o ideal apaga o critério. Em (a), a esfera pública burguesa nasce entre particulares, fora do controle estatal. Em (d), a moderação privada é problema institucional distinto do que o conceito ilumina."
+    },
+    {
+      "id": "filosofia-sociologia-62",
+      "texto_apoio": "O conceito de \"capitalismo de vigilância\" descreve a lógica pela qual dados comportamentais de usuários são extraídos e transformados em previsões vendáveis sobre seu comportamento futuro.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse conceito ajuda a explicar qual modelo de negócios predominante entre aplicativos gratuitos de redes sociais e de mensagens?",
+      "alternativas": {
+        "a": "o modelo em que a empresa cobra assinatura mensal e, em troca, não exibe publicidade",
+        "b": "o uso gratuito sustentado pela coleta de dados comportamentais vendidos para publicidade",
+        "c": "o modelo em que a receita vem da venda direta de produtos físicos aos próprios usuários",
+        "d": "o modelo em que o serviço cobra do anunciante por espaço fixo, sem uso de dados do usuário",
+        "e": "o modelo em que o usuário licencia seus dados e recebe parte da receita publicitária gerada"
+      },
+      "resposta": "b",
+      "explicacao": "O gratuito é o preço de entrada: o produto vendido é a previsão sobre o comportamento de quem usa, e a publicidade direcionada é o comprador principal dessa previsão. Em (d) está o distrator mais instrutivo, porque descreve a publicidade da mídia tradicional — espaço vendido sem extração de dados —, que é precisamente o modelo anterior ao que o conceito nomeia. Em (e), o licenciamento com repasse de receita é uma proposta de reforma, não a prática corrente. Em (a), a assinatura sem anúncios é o modelo alternativo. Em (c), a venda de produtos físicos pertence a outro setor."
+    },
+    {
+      "id": "filosofia-sociologia-67",
+      "texto_apoio": "Historiadores do feminismo distinguem diferentes \"ondas\" do movimento, cada uma com pautas predominantes distintas ao longo do tempo.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "A ampliação de pauta da chamada \"segunda onda\" feminista, que passou a discutir temas como sexualidade, trabalho doméstico e relações de poder no âmbito privado, ajuda a situar historicamente qual característica de movimentos como o #MeToo, organizados sobretudo em redes digitais?",
+      "alternativas": {
+        "a": "a concentração da pauta na conquista do direito ao voto e dos direitos políticos formais",
+        "b": "o deslocamento da pauta feminista para questões de austeridade e política econômica",
+        "c": "a passagem do debate para relações de poder antes tidas como privadas, agora tornadas públicas",
+        "d": "a recusa de formas coletivas de organização em favor da denúncia estritamente individual e anônima",
+        "e": "a substituição da mobilização de rua pela atuação exclusiva em instâncias judiciais"
+      },
+      "resposta": "c",
+      "explicacao": "O #MeToo dá continuidade ao movimento que a segunda onda iniciou: levar para o espaço público relações antes protegidas pelo rótulo de assunto privado, agora expostas pela soma de relatos individuais. Em (a) está a pauta da primeira onda, e reconhecer a diferença entre as duas é o que a questão cobra. Em (d), o compartilhamento em massa de relatos é ele próprio uma forma de ação coletiva, e não sua recusa. Em (b), austeridade econômica não é pauta característica de nenhuma das ondas descritas. Em (e), a atuação em rede não substituiu a mobilização de rua, que seguiu ocorrendo."
+    },
+    {
+      "id": "filosofia-sociologia-69",
+      "texto_apoio": "Judith Butler sustenta que o gênero se constitui pela repetição estilizada de atos, gestos e discursos socialmente reconhecidos, e não como expressão de uma essência interior fixa.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse conceito de \"performatividade de gênero\" ajuda a interpretar qual leitura acadêmica sobre práticas de drag queens em apresentações artísticas e midiáticas?",
+      "alternativas": {
+        "a": "a de que essas apresentações mostram que a identidade de gênero é escolhida a cada dia",
+        "b": "a de que o conceito não ajuda a compreender expressões artísticas ligadas a gênero",
+        "c": "a de que o gênero, para Butler, é uma essência biológica determinada no nascimento",
+        "d": "a de que a performatividade depende de decisões jurídicas do Estado sobre identidade civil",
+        "e": "a de que o exagero das convenções expõe o caráter construído e repetido dessas convenções"
+      },
+      "resposta": "e",
+      "explicacao": "O drag torna visível o que a repetição cotidiana esconde: ao exagerar gestos e signos de gênero, mostra que eles são convenção reiterada e não expressão de uma natureza. Em (a) está a leitura equivocada mais difundida — performatividade não é escolha voluntária e diária, e sim reiteração de normas que antecedem o sujeito. Em (c), a essência biológica fixa é a tese que o conceito recusa. Em (d), o registro civil é questão jurídica, e a performatividade opera no plano dos atos e discursos. Em (b), o drag é um dos exemplos que a própria autora privilegia."
+    },
+    {
+      "id": "filosofia-sociologia-71",
+      "texto_apoio": "Clifford Geertz propõe o método da \"descrição densa\", que busca interpretar ações e símbolos culturais no contexto específico de significado atribuído pelos próprios sujeitos que os praticam.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse método ajuda a justificar qual abordagem recomendada a pesquisadores que estudam o significado de memes e gírias específicas de comunidades on-line?",
+      "alternativas": {
+        "a": "a de contar a frequência com que cada meme aparece, estabelecendo sua distribuição",
+        "b": "a de aplicar métodos experimentais de laboratório ao estudo de comunidades on-line",
+        "c": "a de investigar o sentido que esses códigos têm para os próprios membros da comunidade",
+        "d": "a de traduzir literalmente a imagem ou a expressão para o vocabulário do pesquisador",
+        "e": "a de descrever a prática sem considerar o contexto histórico e social em que ela é produzida"
+      },
+      "resposta": "c",
+      "explicacao": "A descrição densa se define pela reconstrução do significado do ponto de vista de quem pratica: um piscar de olhos e uma piscadela são o mesmo movimento e coisas diferentes, e só o contexto de sentido separa os dois. Em (a) e (d) estão as duas formas de descrição rala — contar ocorrências e traduzir literalmente registram o comportamento sem alcançar o sentido, que é o corte que Geertz introduz. Em (e), ignorar o contexto contraria a definição do método. Em (b), o experimento de laboratório retira a prática do ambiente de que ela depende."
+    },
+    {
+      "id": "filosofia-sociologia-74",
+      "texto_apoio": "Diferentemente do consequencialismo e da deontologia, a ética das virtudes, de inspiração aristotélica, concentra-se no caráter e nas disposições estáveis do agente moral.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Essa abordagem ajuda a explicar por que parte do debate público sobre lideranças políticas avalia não apenas resultados de políticas específicas, mas também o caráter e a consistência de conduta dos governantes ao longo do tempo?",
+      "alternativas": {
+        "a": "porque a avaliação de uma liderança deve considerar apenas os resultados do mandato",
+        "b": "porque o caráter só importa quando os resultados da gestão são ruins ou insuficientes",
+        "c": "porque a ética das virtudes se apoia no cálculo de custos e benefícios de cada decisão isolada",
+        "d": "porque a confiabilidade do agente depende de disposições estáveis, não de atos isolados",
+        "e": "porque o critério relevante é a conformidade da conduta à letra da lei vigente"
+      },
+      "resposta": "d",
+      "explicacao": "A ética das virtudes desloca a pergunta de o que fazer para quem se é: o que se avalia é a disposição consolidada, que permite prever conduta em situações ainda não ocorridas. Em (c) e (e) estão as duas abordagens rivais nomeadas no próprio enunciado — o cálculo de consequências e a conformidade à regra —, e distingui-las é o que a questão cobra. Em (a), avaliar só resultados é a posição consequencialista. Em (b), fazer o caráter importar apenas quando o resultado é ruim o converteria em critério auxiliar, e não em critério próprio."
+    },
+    {
+      "id": "filosofia-sociologia-76",
+      "texto_apoio": "Parte da doutrina contemporânea amplia a classificação clássica de direitos (civis, políticos e sociais) propondo novas gerações associadas a temas emergentes, como bioética e identidade cultural coletiva.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa ampliação da classificação de direitos ajuda a situar qual debate atual sobre o uso de tecnologias de edição genética em seres humanos?",
+      "alternativas": {
+        "a": "o debate sobre o enquadramento do tema como direito trabalhista de segunda geração",
+        "b": "o debate sobre a impossibilidade de enquadrar o tema em qualquer classificação doutrinária",
+        "c": "o debate sobre limitar o poder estatal, próprio dos direitos de primeira geração",
+        "d": "o debate sobre o direito de acesso gratuito a tratamentos de alto custo na rede pública",
+        "e": "o debate sobre limites éticos à manipulação do patrimônio genético, ligado à bioética"
+      },
+      "resposta": "e",
+      "explicacao": "A edição genética é o caso típico que motiva a proposta de uma nova geração de direitos: o bem protegido não é a liberdade diante do Estado nem uma prestação social, e sim a integridade do patrimônio genético, inclusive de quem ainda não nasceu. Em (d) está o distrator mais próximo, porque também trata de saúde — mas acesso a tratamento é direito social de segunda geração, categoria clássica. Em (a) e (c), o enquadramento como direito trabalhista ou como limitação do poder estatal recorre a gerações que não abarcam o problema. Em (b), a doutrina justamente propõe uma classificação para ele."
+    },
+    {
+      "id": "filosofia-sociologia-94",
+      "texto_apoio": "Thomas Kuhn descreve o desenvolvimento científico como marcado por rupturas chamadas \"revoluções científicas\", em que um paradigma dominante é substituído por outro após uma crise gerada por anomalias inexplicáveis.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse modelo kuhniano ajuda a situar qual debate sobre se o desenvolvimento acelerado da inteligência artificial representa uma mudança meramente incremental ou uma verdadeira ruptura de paradigma nas ciências da computação?",
+      "alternativas": {
+        "a": "o debate sobre se a ciência dispensa o consenso da comunidade após uma revolução",
+        "b": "o debate sobre se o conhecimento anterior é preservado intacto após uma revolução",
+        "c": "o debate sobre se os modelos atuais resolvem anomalias que o paradigma anterior não resolvia",
+        "d": "o debate sobre se fatores sociais e históricos influenciam a produção do conhecimento científico",
+        "e": "o debate sobre se o financiamento privado compromete a independência dos resultados"
+      },
+      "resposta": "c",
+      "explicacao": "O critério kuhniano de ruptura é a anomalia: fala-se em novo paradigma quando o anterior deixa de dar conta de problemas que o novo resolve, e não quando apenas se acumulam melhorias. Em (b) está o traço que Kuhn nega — a revolução reorganiza o conhecimento prévio em vez de preservá-lo intacto —, mas isso descreve o modelo, e não o debate sobre a IA. Em (a), o consenso da comunidade é o que consolida o paradigma novo. Em (d), o peso de fatores sociais é tese de Kuhn, não objeto da controvérsia. Em (e), o financiamento é questão de política científica, alheia ao critério de ruptura."
+    },
+    {
+      "id": "filosofia-sociologia-95",
+      "texto_apoio": "A crítica relativista à pretensão de universalidade dos direitos humanos pondera que a formulação de determinados direitos pode refletir valores específicos de certas tradições culturais, sobretudo ocidentais.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Essa crítica ajuda a situar qual tensão presente em debates internacionais sobre a aplicação de normas globais de direitos humanos a práticas culturais específicas de diferentes países?",
+      "alternativas": {
+        "a": "a de que todos os povos compartilham os mesmos valores morais em qualquer época",
+        "b": "a de que não existe fundamento possível para direitos humanos em nenhuma cultura",
+        "c": "a tensão entre proteções universais mínimas e o diálogo intercultural na sua definição",
+        "d": "a de que apenas países ocidentais deveriam assinar tratados de direitos humanos",
+        "e": "a tensão entre proteger direitos individuais e o custo orçamentário de sua implementação plena"
+      },
+      "resposta": "c",
+      "explicacao": "A crítica relativista não pede o abandono dos direitos humanos: pede que a construção das normas seja intercultural, para que a pretensão de universalidade não se confunda com a generalização de uma tradição. A tensão está entre esses dois polos. Em (b) está o excesso a que a crítica é frequentemente reduzida, e que ela não sustenta. Em (a), a homogeneidade de valores é a premissa que a crítica questiona. Em (d), restringir os tratados ao Ocidente inverteria o problema, que é a legitimidade global das normas. Em (e), o custo orçamentário é uma tensão real, porém de outra ordem."
+    },
+    {
+      "id": "filosofia-sociologia-99",
+      "texto_apoio": "Segundo C. Wright Mills, a \"imaginação sociológica\" é a capacidade de relacionar experiências pessoais aparentemente privadas a estruturas e processos sociais e históricos mais amplos.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esse conceito ajuda a fundamentar qual crítica a discursos que atribuem o desemprego ou o endividamento de trabalhadores de aplicativo exclusivamente a escolhas ou falhas individuais desses trabalhadores?",
+      "alternativas": {
+        "a": "a de que tais discursos ignoram as diferenças de aptidão individual entre as pessoas",
+        "b": "a de que o conceito propõe deixar de lado a dimensão histórica na análise dos fenômenos",
+        "c": "a de que a imaginação sociológica explica o problema pessoal por traços psicológicos",
+        "d": "a de que a imaginação sociológica restringe a análise social apenas a dados estatísticos agregados",
+        "e": "a de que ignoram como esses problemas refletem mudanças estruturais no mercado de trabalho"
+      },
+      "resposta": "e",
+      "explicacao": "Mills chama de inquietação pessoal o que o indivíduo vive e de questão pública o processo que produz milhares de casos iguais; ler o endividamento de entregadores apenas como falha de escolha é ficar no primeiro termo e perder o segundo. Em (c) está a inversão do conceito, que existe justamente para não explicar tudo por características individuais. Em (b), a dimensão histórica é metade da definição. Em (d), o conceito valoriza a interpretação de experiências, e não só a estatística. Em (a), invocar aptidão individual reforça a explicação que a crítica quer desmontar."
+    }
+  ]
+}

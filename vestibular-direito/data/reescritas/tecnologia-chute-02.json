@@ -1,0 +1,240 @@
+{
+  "subtopic": "atualidades-tecnologia",
+  "questoes": [
+    {
+      "id": "atualidades-tecnologia-22",
+      "texto_apoio": "Plataformas digitais de ensino têm permitido que estudantes acessem aulas, materiais e avaliações sem a necessidade de presença física em uma sala de aula tradicional.",
+      "formato": "direta",
+      "enunciado": "Um desafio frequentemente associado à expansão do ensino a distância mediado por tecnologia é:",
+      "alternativas": {
+        "a": "a desigualdade de acesso a internet e dispositivos entre os estudantes",
+        "b": "a eliminação da interação entre professores e estudantes no processo",
+        "c": "a dificuldade de reproduzir atividades práticas de laboratório a distância",
+        "d": "a garantia de acesso igualitário à internet e a dispositivos adequados",
+        "e": "a impossibilidade técnica de avaliar a aprendizagem a distância"
+      },
+      "resposta": "a",
+      "explicacao": "A modalidade só funciona para quem tem banda, aparelho e um canto silencioso em casa, de modo que ela tende a alargar a distância entre quem já estava à frente e quem não estava. Em (c) está o distrator mais legítimo, porque a limitação prática é real — mas atinge cursos específicos, enquanto a barreira de acesso atravessa todos eles. Em (d), a garantia de acesso igualitário é o oposto do que se observa. Em (b), a interação muda de forma sem desaparecer. Em (e), avaliação a distância é praticada em larga escala, ainda que com problemas próprios."
+    },
+    {
+      "id": "atualidades-tecnologia-28",
+      "texto_apoio": "Serviços de streaming de música geram listas de reprodução personalizadas para cada usuário com base em seu histórico de audição, o que molda, em grande medida, quais artistas e gêneros musicais o usuário passa a descobrir.",
+      "formato": "direta",
+      "enunciado": "Uma crítica frequente a esse modelo de curadoria musical automatizada é que ele pode:",
+      "alternativas": {
+        "a": "suprimir os gêneros menos populares dos catálogos das plataformas",
+        "b": "garantir que o artista independente alcance a mesma audiência dos consagrados",
+        "c": "privilegiar lançamentos recentes em detrimento de acervos consolidados",
+        "d": "reforçar preferências já existentes e reduzir a exposição a outros gêneros",
+        "e": "impedir que o usuário altere manualmente sua própria lista de reprodução"
+      },
+      "resposta": "d",
+      "explicacao": "O sistema aprende com o que já se ouviu e recomenda mais do mesmo, o que estreita o repertório justamente onde a promessa era ampliá-lo — a descoberta acaba confinada ao que o histórico já indicava. Em (c) está a crítica vizinha e mais estreita: o viés de novidade existe em algumas plataformas, mas é uma preferência de catálogo, e não o fechamento do gosto que o enunciado descreve. Em (a), o acervo permanece disponível; o que muda é a chance de ser encontrado. Em (b), a personalização tende a concentrar audiência, não a igualá-la. Em (e), a edição manual continua possível."
+    },
+    {
+      "id": "atualidades-tecnologia-29",
+      "texto_apoio": "Instituições financeiras têm utilizado modelos automatizados, baseados em dados como histórico de pagamentos e renda, para decidir se um indivíduo terá ou não acesso a crédito e em quais condições.",
+      "formato": "direta",
+      "enunciado": "Uma preocupação frequentemente associada ao uso desses modelos automatizados de concessão de crédito é:",
+      "alternativas": {
+        "a": "a dispensa legal de auditoria ou fiscalização externa sobre o modelo",
+        "b": "o custo computacional elevado, que restringe o uso a instituições grandes",
+        "c": "a garantia de que as decisões de crédito ficam isentas de viés",
+        "d": "o risco de reproduzirem discriminações históricas presentes nos dados",
+        "e": "a impossibilidade de processar dados financeiros sensíveis nesses modelos"
+      },
+      "resposta": "d",
+      "explicacao": "O modelo aprende com decisões passadas, e se o crédito foi historicamente negado a certos bairros ou perfis, ele reproduz o padrão como se fosse regularidade estatística neutra — a discriminação sobrevive sem que ninguém a programe. Em (c) está a suposição que a preocupação desmente: automatizar não elimina o viés, apenas o torna menos visível. Em (b), o custo caiu e o uso é generalizado. Em (a), esses modelos estão sujeitos a fiscalização do regulador. Em (e), processar dado financeiro é precisamente o que eles fazem."
+    },
+    {
+      "id": "atualidades-tecnologia-30",
+      "texto_apoio": "Determinados veículos são equipados com sensores, câmeras e sistemas de processamento capazes de conduzir o automóvel com intervenção humana reduzida ou nula em determinadas condições.",
+      "formato": "direta",
+      "enunciado": "Um dos principais desafios técnicos e éticos associados ao desenvolvimento de veículos autônomos é:",
+      "alternativas": {
+        "a": "garantir segurança no imprevisto e definir responsabilidade por acidentes",
+        "b": "a impossibilidade técnica de esses veículos usarem sensores e câmeras",
+        "c": "a inexistência de debate regulatório sobre o tema nos países onde circulam",
+        "d": "a ausência de padronização entre fabricantes nos protocolos de comunicação",
+        "e": "a ausência de risco em seu funcionamento, mesmo em condições adversas"
+      },
+      "resposta": "a",
+      "explicacao": "O desafio é duplo e por isso técnico e ético ao mesmo tempo: o sistema precisa decidir bem diante do que não foi previsto, e alguém precisa responder quando a decisão dá errado — fabricante, programador ou ocupante. Em (d) está o distrator mais consistente, porque a falta de padrão de comunicação entre veículos é problema real de engenharia; ele é, porém, obstáculo de implantação, e não o dilema ético que a questão pede. Em (b), sensores e câmeras são a base da tecnologia. Em (c), o debate regulatório é intenso. Em (e), a ausência de risco é o contrário do desafio."
+    },
+    {
+      "id": "atualidades-tecnologia-32",
+      "texto_apoio": "No modelo de remuneração das plataformas de streaming musical, a receita gerada pelas assinaturas e pela publicidade é distribuída entre os artistas, em geral, de forma proporcional ao número total de reproduções que cada faixa musical recebe na plataforma.",
+      "formato": "direta",
+      "enunciado": "Uma crítica frequente a esse modelo de remuneração por streaming, sobretudo por parte de artistas independentes e de nicho, é que ele tende a:",
+      "alternativas": {
+        "a": "dispensar as plataformas de pagar qualquer valor aos artistas cadastrados",
+        "b": "concentrar a receita nos artistas de maior volume, prejudicando os de nicho",
+        "c": "garantir renda mínima equivalente à da venda física de disco a todo artista",
+        "d": "vincular a remuneração ao tempo de reprodução, e não ao número de execuções",
+        "e": "distribuir a receita igualmente entre os artistas, seja qual for a audiência"
+      },
+      "resposta": "b",
+      "explicacao": "Como o bolo é único e rateado pela participação no total de execuções, a assinatura de quem só ouve um artista de nicho vai quase inteira para os campeões de audição da plataforma — o dinheiro do ouvinte não segue o ouvinte. Em (d) está justamente o modelo alternativo proposto para corrigir isso, o rateio centrado no usuário: descreve a solução em discussão, e não a crítica ao modelo vigente. Em (e), a distribuição igualitária não existe em nenhum dos dois modelos. Em (a) e (c), há pagamento, e ele não garante piso equivalente à venda física."
+    },
+    {
+      "id": "atualidades-tecnologia-38",
+      "texto_apoio": "Empresas de diversos setores têm substituído parte do atendimento telefônico e por chat, antes realizado por atendentes humanos, por sistemas automatizados de conversação capazes de responder perguntas frequentes.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esse processo de substituição de tarefas de atendimento por sistemas automatizados ilustra, de forma concreta, o debate sobre:",
+      "alternativas": {
+        "a": "a ausência de impacto da tecnologia sobre o mercado de trabalho atual",
+        "b": "a impossibilidade técnica de automatizar a interação com o consumidor",
+        "c": "a exigência legal de manter quadro mínimo de atendentes humanos por canal",
+        "d": "os efeitos da automação sobre ocupações rotineiras e a requalificação",
+        "e": "a obrigação de manter atendimento humano em toda empresa privada do país"
+      },
+      "resposta": "d",
+      "explicacao": "O atendimento de perguntas frequentes é o caso-modelo da tarefa rotineira e roteirizável, a primeira a ser absorvida, e o que resta ao trabalhador humano é o atendimento complexo — que exige outra formação. Em (c) e (e) está a mesma confusão entre debate e norma: existe regulação setorial sobre canais de atendimento, mas o enunciado pede o debate econômico que o caso ilustra, não a regra vigente. Em (a), o impacto é o próprio objeto da discussão. Em (b), a automação descrita já está em operação."
+    },
+    {
+      "id": "atualidades-tecnologia-41",
+      "texto_apoio": "Grandes plataformas de redes sociais contratam, muitas vezes por meio de empresas terceirizadas, equipes responsáveis por analisar manualmente conteúdos denunciados, incluindo materiais violentos ou de abuso, para decidir sua remoção.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esse trabalho de análise manual de conteúdo, essencial para complementar sistemas automatizados de moderação, tem sido associado a:",
+      "alternativas": {
+        "a": "remuneração elevada e uniforme nos países onde esse trabalho é realizado",
+        "b": "dispensa da supervisão humana sobre os sistemas automatizados de filtragem",
+        "c": "condições de trabalho sem risco, dado o caráter digital da atividade",
+        "d": "exigência de qualificação técnica comparável à de desenvolvedores de software",
+        "e": "impacto à saúde mental dos trabalhadores, expostos a conteúdos extremos"
+      },
+      "resposta": "e",
+      "explicacao": "A exposição repetida a violência e abuso, sob meta de segundos por item, produz adoecimento documentado e já levou a ações judiciais em vários países — é o custo humano que a moderação automatizada não elimina. Em (c) está a suposição que a questão desfaz: o trabalho ser digital não o torna inócuo, porque o dano é psíquico e não físico. Em (b), a análise humana existe justamente porque a automação não basta. Em (a), a terceirização busca países de salário baixo. Em (d), a exigência é de julgamento contextual, não de qualificação em programação."
+    },
+    {
+      "id": "atualidades-tecnologia-45",
+      "texto_apoio": "Nas últimas edições de premiações cinematográficas de grande visibilidade internacional, a composição das categorias de indicados tem sido frequentemente analisada quanto à diversidade de gênero, raça e nacionalidade dos indicados e vencedores.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esse tipo de debate em torno de premiações cinematográficas evidencia, sobretudo, que tais prêmios:",
+      "alternativas": {
+        "a": "refletem e são objeto de disputas sobre representatividade e diversidade",
+        "b": "perderam relevância comercial diante do alcance direto do streaming",
+        "c": "são escolhidos por critérios técnicos, sem influência de fatores sociais",
+        "d": "deixaram de ter relevância cultural desde o surgimento do streaming digital",
+        "e": "não influenciam a legitimação cultural das obras que premiam"
+      },
+      "resposta": "a",
+      "explicacao": "Que a composição dos indicados vire notícia é a prova de que o prêmio importa: disputa-se o que ele consagra porque a consagração tem efeito sobre carreira, distribuição e público. Em (c) está a leitura que o próprio debate desmente — se o critério fosse apenas técnico, a composição social dos indicados não seria matéria de discussão pública. Em (d) e (e), o argumento é circular: um prêmio sem relevância não geraria a controvérsia descrita no enunciado. Em (b), a relevância comercial mudou de forma, mas não é do que trata o debate apresentado."
+    },
+    {
+      "id": "atualidades-tecnologia-49",
+      "texto_apoio": "Governos de diferentes países têm adotado sistemas de câmeras, sensores e análise de dados para monitorar, em maior ou menor grau, o comportamento e os deslocamentos da população em espaços públicos e, em alguns casos, também em ambientes digitais.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Uma preocupação central levantada por organizações de direitos humanos em relação à expansão desses sistemas de vigilância estatal apoiados por tecnologia é:",
+      "alternativas": {
+        "a": "o risco de uso para monitorar e reprimir opositores, jornalistas e ativistas",
+        "b": "o consumo energético dos centros de processamento que operam esses sistemas de vigilância",
+        "c": "a garantia de que tais sistemas não serão usados para fins não declarados",
+        "d": "a impossibilidade de armazenar essas informações por mais de 24 horas",
+        "e": "a inexistência de tecnologia capaz de monitorar em larga escala hoje"
+      },
+      "resposta": "a",
+      "explicacao": "A objeção das organizações de direitos humanos é sobre o desvio de finalidade: uma capacidade instalada para segurança pública serve, sem alteração técnica alguma, para identificar quem protesta, quem apura e quem organiza. Em (c) está exatamente a garantia que elas afirmam inexistir, e reconhecer isso é o que a questão cobra. Em (b), o consumo energético é crítica ambiental de outra ordem. Em (d) e (e), tanto o armazenamento prolongado quanto o monitoramento em escala são tecnicamente viáveis e já praticados."
+    },
+    {
+      "id": "atualidades-tecnologia-78",
+      "texto_apoio": "Veículos modernos equipados com conectividade à internet registram continuamente dados como localização, velocidade, padrões de frenagem e, em alguns casos, até gravações de câmeras internas e externas.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "A coleta contínua desses dados por veículos conectados levanta questões jurídicas relevantes sobre:",
+      "alternativas": {
+        "a": "a inexistência de diferença entre veículo conectado e veículo sem eletrônica",
+        "b": "a impossibilidade técnica de registrar localização por GPS ou telemetria",
+        "c": "a obrigação de compartilhar os dados do veículo com terceiros interessados",
+        "d": "a propriedade e o controle sobre esses dados, e quem pode acessá-los",
+        "e": "a homologação prévia de cada software embarcado pela autoridade de trânsito"
+      },
+      "resposta": "d",
+      "explicacao": "A pergunta jurídica que o caso abre é de titularidade: o dado é do motorista, do proprietário, da montadora ou da seguradora, e em que hipóteses a polícia ou um tribunal pode acessá-lo. Em (c) está a inversão do problema — o compartilhamento indiscriminado é o risco a ser disciplinado, e não uma obrigação existente. Em (e), a homologação de software é questão regulatória distinta, sobre segurança veicular. Em (a) e (b), a diferença entre os veículos e a capacidade de registro são a premissa do enunciado."
+    },
+    {
+      "id": "atualidades-tecnologia-82",
+      "texto_apoio": "Com a expansão das plataformas de streaming, tornou-se comum que o espectador brasileiro escolha entre assistir a uma produção estrangeira dublada em português ou legendada, mantendo o áudio original.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Do ponto de vista da adaptação cultural de conteúdo audiovisual, a dublagem se diferencia da legendagem, sobretudo, por:",
+      "alternativas": {
+        "a": "envolver tradução e adaptação mais completas, com troca integral do áudio",
+        "b": "restringir-se à tradução literal dos diálogos, preservando as referências originais",
+        "c": "ser tecnicamente idêntica à legendagem, sem diferença de processo",
+        "d": "evitar a perda de nuance do áudio e do roteiro original da obra",
+        "e": "ser exigida por lei nos países que consomem produção estrangeira"
+      },
+      "resposta": "a",
+      "explicacao": "Dublar é refazer a faixa sonora: a fala precisa caber no movimento da boca e no tempo da cena, o que obriga a reescrever piada, gíria e referência local — trabalho de adaptação que a legenda, sobreposta ao áudio original, não realiza. Em (b) está a inversão dos dois processos, já que é a legenda que fica mais presa ao literal. Em (d), a dublagem substitui a interpretação original e por isso perde nuance, em vez de preservá-la. Em (c), os processos são distintos em custo e método. Em (e), não há exigência legal desse tipo."
+    },
+    {
+      "id": "atualidades-tecnologia-83",
+      "texto_apoio": "Documentários e séries sobre crimes reais, muitas vezes explorando casos de grande repercussão pública, tornaram-se um dos gêneros de maior audiência em plataformas de streaming nos últimos anos.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "O crescimento desse gênero, conhecido como true crime, tem sido acompanhado de um debate ético sobre:",
+      "alternativas": {
+        "a": "a garantia de que o gênero não influencia processos judiciais em andamento",
+        "b": "a impossibilidade técnica de produzir documentário sobre caso criminal real",
+        "c": "a proibição legal de produções audiovisuais sobre crimes reais no país",
+        "d": "a dificuldade técnica de verificar a autenticidade das gravações usadas",
+        "e": "os limites entre o interesse jornalístico e a exploração das vítimas"
+      },
+      "resposta": "e",
+      "explicacao": "A questão ética do gênero é de medida: o mesmo caso pode ser tratado como apuração de interesse público ou como espetáculo que reexpõe vítimas e familiares para render audiência, e a fronteira entre as duas coisas nem sempre é nítida. Em (a) está uma preocupação real do debate apresentada com o sinal invertido — o problema é justamente a influência sobre processos em curso, e não a garantia de que ela não ocorre. Em (d), a verificação de fontes é exigência jornalística geral. Em (b) e (c), o gênero é produzido em escala e não é proibido."
+    },
+    {
+      "id": "atualidades-tecnologia-97",
+      "texto_apoio": "Uma grande plataforma digital já estabelecida acumula, ao longo do tempo, um volume expressivo de dados sobre o comportamento de seus usuários, o que lhe permite oferecer produtos mais personalizados e eficientes do que uma nova empresa entrante, que ainda não dispõe desse histórico.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse acúmulo de dados como vantagem competitiva, somado ao efeito de rede, é apontado por analistas de concorrência como um fator que pode:",
+      "alternativas": {
+        "a": "não ter relação com o debate sobre concentração de mercado na economia digital",
+        "b": "elevar as barreiras de entrada em mercados dominados por poucas plataformas",
+        "c": "facilitar a entrada de novos concorrentes em igualdade de condições",
+        "d": "eliminar a relevância dos dados para o funcionamento dessas plataformas",
+        "e": "reduzir o custo de aquisição de clientes por recomendação personalizada"
+      },
+      "resposta": "b",
+      "explicacao": "A vantagem se retroalimenta: mais usuários geram mais dados, que melhoram o produto, que atrai mais usuários — e o entrante precisa competir sem o histórico que só o tempo de operação fornece. Em (e) está o efeito verdadeiro, mas visto do lado errado: a recomendação personalizada de fato barateia a captação de clientes para quem já tem os dados, e é justamente por isso que ela funciona como barreira para quem não tem. Em (c), a assimetria impede a igualdade de condições. Em (a) e (d), o acúmulo de dados é o centro do debate concorrencial, não algo alheio a ele."
+    },
+    {
+      "id": "atualidades-tecnologia-99",
+      "texto_apoio": "Mecanismos de busca utilizam critérios próprios, não totalmente públicos, para decidir a ordem em que exibem resultados a partir de uma pesquisa, o que influencia diretamente quais fontes de informação um usuário tende a acessar primeiro.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa capacidade de mecanismos de busca de influenciar a visibilidade relativa de diferentes fontes de informação é discutida, no debate sobre governança da informação, como um exemplo de:",
+      "alternativas": {
+        "a": "otimização para mecanismos de busca, técnicas para elevar a posição de um site",
+        "b": "ausência de influência sobre o comportamento informacional dos usuários",
+        "c": "neutralidade comprovada dos mecanismos de busca em operação hoje",
+        "d": "obrigação legal de exibir os resultados em ordem estritamente alfabética",
+        "e": "poder de guardião da informação, que suscita questões de transparência"
+      },
+      "resposta": "e",
+      "explicacao": "Quem decide a ordem decide o que será lido, já que a atenção se concentra nos primeiros resultados — e como o critério não é público, o poder se exerce sem que se possa auditá-lo. Em (a) está o conceito espelhado e o distrator mais forte: a otimização é o que os sites fazem para subir no ranking, movimento de quem se submete ao critério, enquanto o enunciado descreve o poder de quem define o critério. Em (b) e (c), a influência e a ausência de neutralidade são a premissa da questão. Em (d), não existe obrigação de ordenação alfabética."
+    },
+    {
+      "id": "atualidades-tecnologia-100",
+      "texto_apoio": "Diferentes países têm adotado abordagens distintas para regular o desenvolvimento e o uso de sistemas de inteligência artificial, variando desde regras mais detalhadas e restritivas até abordagens mais flexíveis, voltadas a não frear a inovação tecnológica.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Essa divergência internacional na regulação da inteligência artificial cria um desafio adicional relacionado a:",
+      "alternativas": {
+        "a": "empresas globais terem de atender exigências distintas conforme o país",
+        "b": "a impossibilidade técnica de um país regular o desenvolvimento de IA",
+        "c": "a lei do país de origem do modelo prevalecer automaticamente sobre a do país de uso",
+        "d": "a inexistência de diferença prática entre as abordagens regulatórias",
+        "e": "a adoção de uma regra internacional única e vinculante para os países"
+      },
+      "resposta": "a",
+      "explicacao": "Um mesmo modelo, oferecido em dezenas de países, passa a ter de cumprir requisitos incompatíveis entre si, o que produz custo de conformidade e, em alguns casos, versões diferentes do produto por jurisdição. Em (c) está a suposição jurídica errada que a questão testa: não há prevalência automática da lei de origem, e é precisamente por isso que a divergência gera problema. Em (e), a regra internacional única é a solução hipotética que não existe. Em (d), a diferença entre as abordagens é a premissa. Em (b), vários países já legislaram sobre o tema."
+    }
+  ]
+}

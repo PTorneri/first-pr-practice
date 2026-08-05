@@ -1,0 +1,260 @@
+{
+  "subtopic": "ingles",
+  "questoes": [
+    {
+      "id": "ingles-09",
+      "textoId": "ing-c01-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the third paragraph, 'the safe window' most likely refers to",
+      "alternativas": {
+        "a": "the period during which researchers carry out a population census inside the reserve.",
+        "b": "the eleven days for which a footpath stayed closed for repairs.",
+        "c": "the area of a park that a set of camera traps is able to cover.",
+        "d": "the interval between the arrival of two competing nocturnal species.",
+        "e": "the part of the night in which the animal can feed without meeting people."
+      },
+      "resposta": "e",
+      "explicacao": "A expressão fecha a frase sobre herbívoros que passam menos tempo total se alimentando, porque a janela segura é mais curta do que o dia que ela substituiu — trata-se, portanto, do trecho da noite em que dá para comer sem encontrar gente. Em (b) e (c), a trilha fechada e as armadilhas fotográficas aparecem no texto, mas em outros parágrafos e sem relação com a duração da alimentação. Em (d), as espécies noturnas concorrentes são citadas como custo adicional, não como intervalo de tempo. Em (a), o censo entra no argumento seguinte, sobre uma população parecer estável enquanto cada indivíduo come menos."
+    },
+    {
+      "id": "ingles-42",
+      "textoId": "ing-c03-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The second paragraph most likely serves to",
+      "alternativas": {
+        "a": "identify the countries most exposed to a simultaneous cable failure.",
+        "b": "explain how information is converted for transmission along a cable.",
+        "c": "argue that fishing along established cable routes ought to be prohibited.",
+        "d": "describe the design of the vessels used to carry out the repairs.",
+        "e": "establish that faults are routine and that the system absorbs them."
+      },
+      "resposta": "e",
+      "explicacao": "O parágrafo informa que ocorrem mais de cem falhas por ano, quase todas por pesca ou âncora, e que o tráfego se redireciona sozinho — a função é justamente desfazer a impressão de fragilidade que o primeiro parágrafo cria. Em (a) está o distrator mais próximo, porque a exposição desigual é de fato tratada no texto, mas no terceiro parágrafo, e é a informação que o segundo prepara. Em (d), os navios de reparo são mencionados de passagem, sem descrição de projeto. Em (b), a conversão do sinal não aparece. Em (c), o texto atribui falhas à pesca sem propor proibi-la."
+    },
+    {
+      "id": "ingles-44",
+      "textoId": "ing-c03-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the third paragraph, 'without addressing that' most likely refers to",
+      "alternativas": {
+        "a": "the cost of the equipment installed at an automated container terminal.",
+        "b": "the claim that automation cannot deliver the productivity it promised.",
+        "c": "the loss of a route to a middle-class wage that requires no degree.",
+        "d": "the schedule that a shipping line is able to promise its customers.",
+        "e": "the delay before a new terminal reaches the productivity of the old."
+      },
+      "resposta": "c",
+      "explicacao": "O 'that' retoma o ponto imediatamente anterior: o ofício é uma das poucas rotas restantes para um salário de classe média sem diploma, e um acordo que protege quem já está lá e deixa a próxima geração desaparecer não resolve isso. Em (b), o parágrafo diz o contrário — os sindicatos raramente sustentam que a automação não funcione. Em (a) e (e), o custo do equipamento e o atraso de produtividade só aparecem no quarto parágrafo, depois da frase em questão. Em (d), a previsibilidade do cronograma é apresentada como ganho do sistema, não como o que o acordo deixa de enfrentar."
+    },
+    {
+      "id": "ingles-49",
+      "textoId": "ing-c04-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "The cost of producing power and of supplying it on demand are different.",
+        "b": "The transition is likely to prove expensive over a period of decades.",
+        "c": "Transmission and storage are included in the cost figures usually quoted.",
+        "d": "Bills have fallen in most of the countries that adopted these sources.",
+        "e": "Consumers can readily identify infrastructure charges on their own bills."
+      },
+      "resposta": "a",
+      "explicacao": "O segundo parágrafo abre exatamente com essa distinção e a desdobra em transmissão, armazenamento e desenho de mercado — três custos reais que não entram no número citado. Em (c) está a negação direta dessa frase. Em (b), o texto afirma o oposto: a maioria das análises considera a transição mais barata ao longo de décadas, e a discussão é de sequência, não de custo final. Em (d), o ponto de partida do texto é que as contas não caíram. Em (e), o terceiro parágrafo diz que os encargos ficam enterrados em rubricas que o consumidor não saberia identificar."
+    },
+    {
+      "id": "ingles-57",
+      "textoId": "ing-c04-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The last paragraph most likely serves to",
+      "alternativas": {
+        "a": "locate the failure in the absence of a mechanism making a known risk costly to ignore.",
+        "b": "accuse the universities of having concealed a financial position they knew to be fragile.",
+        "c": "propose that the fees charged to international students be reduced.",
+        "d": "summarise the visa rules that caused applications to fall by a third.",
+        "e": "compare the finances of two national systems that grew at different rates."
+      },
+      "resposta": "a",
+      "explicacao": "O parágrafo diz que o modelo funcionava como projetado e que ninguém escondeu a dependência: o que faltava era um mecanismo que tornasse caro ignorar a exposição enquanto o dinheiro ainda entrava. Em (b) está a leitura que o próprio parágrafo antecipa e nega — a dependência aparecia em todo relatório anual, de modo que não houve ocultação. Em (d), as regras de visto foram tratadas no segundo parágrafo. Em (c) e (e), nem a redução de mensalidades nem a comparação entre dois sistemas nacionais chegam a ser propostas no texto."
+    },
+    {
+      "id": "ingles-76",
+      "textoId": "ing-c06-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "A writer's name shapes how a text is received rather than merely identifying it.",
+        "b": "Most writers who adopt a pseudonym are escaping some form of political danger at home.",
+        "c": "Established writers publishing under new names have generally sold well.",
+        "d": "Knowing an author's previous record is of no real use to a reader.",
+        "e": "The author recommends anonymity as a general practice for writers."
+      },
+      "resposta": "a",
+      "explicacao": "O último parágrafo formula a tese: a assinatura não é rótulo neutro colado a um texto pronto, é parte do texto e é lida primeiro. Em (d) está o excesso que o texto evita — o registro do autor é dito útil, porque é assim que o leitor decide em quem confiar; negar isso vai além do que se afirma. Em (b), o texto separa esses casos justamente para tratar dos demais, que são muitos. Em (c), o experimento resultou em vendas fracas e resenhas descuidadas. Em (e), o quarto parágrafo recusa explicitamente o anonimato como regra."
+    },
+    {
+      "id": "ingles-84",
+      "textoId": "ing-c06-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the last paragraph, 'A resource can lose its case by becoming unnecessary' most likely refers to",
+      "alternativas": {
+        "a": "the moratorium requested by member states until the ecology is understood.",
+        "b": "the fall in the quantities of these metals that batteries now require.",
+        "c": "the money that mining companies have already spent on specialised equipment.",
+        "d": "the slow recovery of the organisms living in the disturbed sediment.",
+        "e": "the years already spent negotiating an international mining code."
+      },
+      "resposta": "b",
+      "explicacao": "A frase conclui o parágrafo que informa que as químicas de bateria mudaram depressa e que mais de um dos metais é hoje usado em quantidade menor do que quando os depósitos foram levantados — perder a causa por se tornar desnecessário é isso. Em (d) está o distrator mais forte, porque a recuperação lenta é de fato um argumento contra a mineração; mas é um argumento ecológico, e o parágrafo abre dizendo que o argumento decisivo pode não ser ecológico. Em (a), (c) e (e), moratória, equipamento e negociação pertencem ao parágrafo anterior, sobre o impasse regulatório."
+    },
+    {
+      "id": "ingles-89",
+      "textoId": "ing-c06-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the third paragraph, 'exactly what the arrangement fails to retain' most likely refers to",
+      "alternativas": {
+        "a": "the automated systems that flag or miss the material sent for review.",
+        "b": "the judgement accumulated by moderators who stay in the job for years.",
+        "c": "the litigation brought against platforms in several different countries.",
+        "d": "the rulebook of several hundred pages applied to ambiguous material.",
+        "e": "the wage paid by the firms to which the work is contracted out."
+      },
+      "resposta": "b",
+      "explicacao": "A frase encerra o raciocínio sobre rotatividade: como quase todos são novos nas regras, o discernimento de quem faz o trabalho há anos — apresentado ali mesmo como aquilo que mais melhoraria as decisões — é justamente o que o arranjo não retém. Em (d) está o distrator mais próximo, porque o manual é o que o moderador aplica; mas o manual é retido pelo arranjo, e o que se perde é a experiência de aplicá-lo. Em (c), os processos judiciais aparecem como custo psicológico documentado, não como algo que se deixe de reter. Em (a) e (e), sistemas automáticos e salário pertencem a outros parágrafos."
+    },
+    {
+      "id": "ingles-91",
+      "textoId": "ing-c07-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "A sufficiently skilled translator can preserve every effect the original produces.",
+        "b": "Translating means choosing which effects to keep, and the choices are interpretive.",
+        "c": "Two competent translators working from one original ought to arrive at the same text.",
+        "d": "English offers a translator a wider set of choices than Portuguese does.",
+        "e": "A translation is best understood as a window onto the original text."
+      },
+      "resposta": "b",
+      "explicacao": "O terceiro parágrafo enuncia a tese: toda tradução é uma série de decisões sobre o que preservar quando preservar tudo é impossível, e essas decisões são interpretativas. Em (a) e (c) estão as duas consequências que o texto nega no mesmo parágrafo — preservar tudo é impossível, e dois tradutores competentes produzem livros diferentes sem que nenhum esteja errado. Em (e), o quarto parágrafo troca a metáfora da janela pela da performance. Em (d), o exemplo do tratamento formal mostra o inverso: em inglês não há escolha errada porque não há escolha alguma."
+    },
+    {
+      "id": "ingles-94",
+      "textoId": "ing-c07-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that the contradiction it describes",
+      "alternativas": {
+        "a": "results from residents concealing the preferences they actually hold.",
+        "b": "shows that support for building in the abstract was never sincere.",
+        "c": "follows from different groups answering the general and the particular question.",
+        "d": "has been resolved in most cities by holding a greater number of meetings.",
+        "e": "arises because the specific proposals brought forward are too large for the street."
+      },
+      "resposta": "c",
+      "explicacao": "O terceiro parágrafo resolve a aparente hipocrisia numa frase: a pergunta geral é respondida por todos e a particular só pelos vizinhos, sem que ninguém mude de opinião. Em (a) e (b) estão as duas explicações por má-fé que o texto descarta ao dizer que nenhuma opinião muda — não há ocultação nem insinceridade, e sim públicos diferentes. Em (d), mais reuniões agravariam o problema, já que a reunião é o único lugar onde o lado ausente nunca aparece. Em (e), o tamanho das propostas não é apontado como causa em nenhum momento."
+    },
+    {
+      "id": "ingles-116",
+      "textoId": "ing-c08-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that the greatest threat to the arrangement is",
+      "alternativas": {
+        "a": "the emergence of a rival currency whose markets are of comparable depth and liquidity.",
+        "b": "the continued decline in the dollar's share of official reserves.",
+        "c": "the perception that access to the system has become a political instrument.",
+        "d": "the cost of settling transactions bilaterally in local currencies.",
+        "e": "the volume of international borrowing that is denominated in dollars."
+      },
+      "resposta": "c",
+      "explicacao": "O terceiro parágrafo nomeia o candidato mais plausível a choque capaz de tornar a troca coordenada vantajosa, e diz que ele não é uma moeda rival, e sim a percepção de que o acesso virou instrumento político. Em (a) está a resposta que o texto antecipa e descarta na mesma frase. Em (b), as reservas são chamadas de a função menos importante da moeda. Em (e), o volume de endividamento em dólar é o que sustenta o arranjo, não o que o ameaça. Em (d), o custo dos arranjos alternativos é reconhecido pelos próprios patrocinadores, que os tratam como seguro."
+    },
+    {
+      "id": "ingles-131",
+      "textoId": "ing-c09-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that describing poorer countries as having weak project pipelines",
+      "alternativas": {
+        "a": "accurately reflects the quality of the proposals that those countries have submitted for funding.",
+        "b": "explains why parametric insurance has not yet grown to scale.",
+        "c": "restates a judgement that the authors of the adaptation plans themselves have accepted.",
+        "d": "attributes to those countries a limitation that belongs to the financing instruments.",
+        "e": "applies to projects that reduce emissions rather than to adaptation."
+      },
+      "resposta": "d",
+      "explicacao": "A expressão fecha o terceiro parágrafo depois de o texto mostrar que se pede a esses países que tomem emprestado para algo que não paga o empréstimo, e o último parágrafo conclui que o problema nunca foi escassez de bons projetos de adaptação, e sim dinheiro moldado para outro tipo de projeto. Em (a) e (c) estão as duas formas de aceitar o rótulo, uma como descrição acurada e outra como juízo compartilhado, e o fecho do texto derruba as duas. Em (b), o seguro paramétrico é apresentado como tentativa de solução ainda pequena. Em (e), a expressão se refere justamente aos projetos de adaptação."
+    },
+    {
+      "id": "ingles-134",
+      "textoId": "ing-c09-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the last paragraph, 'something with a shape' most likely refers to",
+      "alternativas": {
+        "a": "a continuous measurement of the time each reader spends on a given page.",
+        "b": "the urgent feeling produced by the best-performing material.",
+        "c": "the share of the audience that an outlet has already lost.",
+        "d": "the evidence that would be used to correct a false belief.",
+        "e": "an account connecting events to what follows and to who decides."
+      },
+      "resposta": "e",
+      "explicacao": "A expressão nomeia o resultado do procedimento descrito na frase anterior: contar o que aconteceu, o que provavelmente vem depois e o que está sendo decidido e por quem transforma um fluxo de acontecimentos em algo com forma. Em (b) está o contrário — o sentimento de urgência é o produto da métrica de atenção, apresentado no parágrafo anterior como parte do problema. Em (a), a medição contínua é a causa do equilíbrio que o texto critica. Em (d), a evidência que corrige uma crença falsa pertence ao segundo parágrafo, sobre desinformação. Em (c), o público perdido é o efeito, não o formato."
+    },
+    {
+      "id": "ingles-138",
+      "textoId": "ing-c10-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "funcao-paragrafo",
+      "enunciado": "The second paragraph most likely serves to",
+      "alternativas": {
+        "a": "explain why electrification adds up sooner for two-wheelers than for cars.",
+        "b": "describe how a battery-swapping station is designed and operated.",
+        "c": "argue that motorcycles ought to replace cars in the most congested cities.",
+        "d": "compare the lifetime emissions of motorcycles with those of cars.",
+        "e": "list the regions of the world in which two-wheelers carry most passenger trips."
+      },
+      "resposta": "a",
+      "explicacao": "O parágrafo enumera três razões pelas quais a conta fecha antes para as duas rodas — bateria pequena, distância curta e previsível, combustível pago em dinheiro todo dia — e termina isolando o obstáculo, que é o preço de compra. Em (b) está o distrator mais próximo, porque a troca de bateria é mesmo assunto do texto, mas do terceiro parágrafo, que resolve o problema que o segundo formula. Em (e), as regiões aparecem no primeiro parágrafo. Em (d), emissões não são comparadas em nenhum ponto. Em (c), o texto não defende substituir carros por motos."
+    },
+    {
+      "id": "ingles-140",
+      "textoId": "ing-c10-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following about battery swapping?",
+      "alternativas": {
+        "a": "It has been adopted mainly by the owners of privately used cars.",
+        "b": "It raises the purchase price of the machine the rider buys.",
+        "c": "It requires the rider to wait at the station while a depleted battery charges.",
+        "d": "It makes the daily cost less predictable than buying fuel in cash.",
+        "e": "It turns an upfront cost into a recurring payment the rider already makes."
+      },
+      "resposta": "e",
+      "explicacao": "O terceiro parágrafo descreve exatamente essa conversão: comprar a máquina sem bateria derruba o preço, e o pagamento por troca passa a se parecer com a compra de combustível que o piloto já fazia. Em (b) está a inversão do que o texto diz, já que separar a bateria corta o preço. Em (c), o mesmo parágrafo afirma que o tempo de recarga desaparece porque ninguém espera bateria carregar. Em (d), a economia passa a se assemelhar a um gasto que o piloto já conhece, o que aumenta a previsibilidade. Em (a), o último parágrafo diz que nada disso se transfere automaticamente aos carros."
+    }
+  ]
+}

@@ -12,9 +12,9 @@
 //   Firebase Console > Authentication > Settings > Authorized domains
 //     -> incluir "ptorneri.github.io" (e "localhost" pra testar na sua máquina)
 
-import { auth } from "./firebase-init.js?v=7";
-import "./sync.js?v=7"; // define window.VD_SYNC
-import "./feedback.js?v=7"; // define window.VD_FEEDBACK
+import { auth } from "./firebase-init.js?v=8";
+import "./sync.js?v=8"; // define window.VD_SYNC
+import "./feedback.js?v=8"; // define window.VD_FEEDBACK
 import {
   GoogleAuthProvider,
   signInWithPopup,
@@ -32,6 +32,7 @@ const viewLogin = document.getElementById("view-login");
 const viewOnboarding = document.getElementById("view-onboarding");
 const viewMain = document.getElementById("view-main");
 const viewSyncError = document.getElementById("view-sync-error");
+const viewEscolhaTrilha = document.getElementById("view-escolha-trilha");
 const btnLogin = document.getElementById("btn-login-google");
 const btnLogout = document.getElementById("btn-logout");
 const errorBox = document.getElementById("login-error");
@@ -149,11 +150,90 @@ async function showLoggedIn(user) {
     return;
   }
 
+  // A trilha só pode ser lida DEPOIS do sync. Quem já escolheu Medicina no
+  // celular tem essa escolha guardada na conta, não neste aparelho — perguntar
+  // antes de baixar faria a pessoa escolher de novo, e escolher diferente
+  // abriria um plano vazio por cima de um plano que existe.
+  const trilha = window.VD_TRILHA.atual();
+
+  if (!trilha) {
+    mostrarEscolhaDeTrilha();
+    return;
+  }
+
+  await abrirTrilha(trilha);
+}
+
+// Carrega os dados da trilha e sobe o app.
+async function abrirTrilha(trilha) {
+  try {
+    await window.VD_TRILHA.carregar(trilha);
+  } catch (err) {
+    // Sem os dados não há plano. Falhar aqui é melhor do que abrir um app com
+    // dias vazios, que pareceria progresso perdido.
+    console.warn("[auth] falha ao carregar a trilha:", err);
+    mostrarFalhaDeSync();
+    return;
+  }
+
   viewLogin.hidden = true;
   viewSyncError.hidden = true;
+  viewEscolhaTrilha.hidden = true;
   viewOnboarding.hidden = false;
 
   window.VD_BOOT();
+}
+
+// Tela de escolha do curso — só para quem ainda não tem trilha na conta.
+function mostrarEscolhaDeTrilha() {
+  viewLogin.hidden = true;
+  viewSyncError.hidden = true;
+  viewOnboarding.hidden = true;
+  viewMain.hidden = true;
+  viewEscolhaTrilha.hidden = false;
+
+  const container = document.getElementById("trilha-cards");
+  container.innerHTML = "";
+
+  window.VD_TRILHA.lista().forEach((cfg) => {
+    const card = document.createElement("button");
+    card.className = "trilha-card";
+    card.type = "button";
+    card.innerHTML =
+      '<span class="trilha-card-nome">' + cfg.nome + "</span>" +
+      '<span class="trilha-card-bancas">' + cfg.subtitulo + "</span>" +
+      '<span class="trilha-card-resumo">' + cfg.resumo + "</span>";
+    card.addEventListener("click", () => escolherTrilha(cfg.id, container));
+    container.appendChild(card);
+  });
+}
+
+async function escolherTrilha(id, container) {
+  const erro = document.getElementById("trilha-erro");
+  erro.hidden = true;
+  container.querySelectorAll(".trilha-card").forEach((b) => (b.disabled = true));
+
+  if (!window.VD_TRILHA.definir(id)) {
+    erro.textContent = "Não reconheci essa trilha. Recarregue a página e tente de novo.";
+    erro.hidden = false;
+    container.querySelectorAll(".trilha-card").forEach((b) => (b.disabled = false));
+    return;
+  }
+
+  // Sobe a escolha antes de recarregar. Se a pessoa fechar o app agora, a
+  // trilha já está na conta e ela não será perguntada de novo.
+  try {
+    await window.VD_SYNC.pushNow();
+  } catch (e) {
+    /* o reload abaixo tenta de novo pelo caminho normal */
+  }
+
+  // Recarrega em vez de seguir na mesma página: o app.js já calculou o prefixo
+  // do localStorage quando carregou, com o padrão "dir_". Continuar daqui
+  // gravaria o progresso de Medicina dentro do espaço de Direito. O reload é a
+  // forma barata e segura de refazer esse cálculo — e é o mesmo caminho usado
+  // na troca de trilha.
+  location.reload();
 }
 
 // Tela de bloqueio: não conseguimos ler o progresso da conta. Só oferece tentar
@@ -162,6 +242,7 @@ function mostrarFalhaDeSync() {
   viewLogin.hidden = true;
   viewOnboarding.hidden = true;
   viewMain.hidden = true;
+  viewEscolhaTrilha.hidden = true;
   viewSyncError.hidden = false;
   userChip.hidden = true;
 }
@@ -172,6 +253,7 @@ function showLoggedOut() {
   viewOnboarding.hidden = true;
   viewMain.hidden = true;
   viewSyncError.hidden = true;
+  viewEscolhaTrilha.hidden = true;
   userChip.hidden = true;
   setLoading(false);
 }

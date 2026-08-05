@@ -650,3 +650,48 @@ body {
 .redacao-grade-wrap .dissert-gabarito label {
   display: flex; gap: 8px; align-items: flex-start; cursor: pointer;
 }
+/* ---------- Escolha de trilha (Direito / Medicina) ---------- */
+/* Cartões grandes e clicáveis: é a primeira decisão que a pessoa toma no app,
+   e escolher errado custa um replanejamento inteiro. Por isso cada cartão diz
+   não só o nome do curso, mas o que a prova daquele curso mede. */
+.trilha-cards {
+  display: grid;
+  gap: 12px;
+  margin: 4px 0 8px;
+}
+.trilha-card {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  text-align: left;
+  padding: 18px 20px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  cursor: pointer;
+  font: inherit;
+  color: inherit;
+  transition: border-color .15s, box-shadow .15s, transform .15s;
+}
+.trilha-card:hover:not(:disabled) {
+  border-color: var(--accent);
+  box-shadow: 0 2px 10px rgba(30, 64, 175, .12);
+  transform: translateY(-1px);
+}
+.trilha-card:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+.trilha-card:disabled { opacity: .55; cursor: default; }
+.trilha-card-nome { font-size: 1.15rem; font-weight: 700; color: var(--ink); }
+.trilha-card-bancas { font-size: .82rem; font-weight: 600; color: var(--accent); }
+.trilha-card-resumo { font-size: .9rem; color: var(--ink-soft); line-height: 1.45; }
+
+/* O card de troca de trilha fica na aba de progresso, acima da zona de perigo,
+   e NÃO é destrutivo — por isso usa o botão secundário, não o vermelho. */
+#trocar-trilha-container .card { padding: 20px; margin-top: 18px; }
+#trocar-trilha-container .btn { margin-right: 8px; }
+
+/* Aba escondida por não existir na trilha ativa. O [hidden] sozinho perde para
+   o `display:flex` que a barra de abas aplica nos botões. */
+.tab-btn[hidden] { display: none !important; }

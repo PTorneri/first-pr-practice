@@ -1,0 +1,244 @@
+{
+  "subtopic": "filosofia-sociologia",
+  "questoes": [
+    {
+      "id": "filosofia-sociologia-34",
+      "texto_apoio": "Foucault desenvolveu o conceito de \"governamentalidade\" para descrever o conjunto de instituições, saberes e técnicas que permitem governar a população como alvo específico do poder.",
+      "formato": "direta",
+      "enunciado": "Esse conceito ajuda a analisar qual aspecto da gestão de \"cidades inteligentes\", que usam sensores e dados urbanos para orientar decisões de trânsito, segurança e serviços públicos?",
+      "alternativas": {
+        "a": "o emprego de técnicas de tortura por Estados absolutistas contra a população",
+        "b": "a eleição direta dos prefeitos responsáveis pela gestão urbana em regime democrático",
+        "c": "a transferência da gestão de serviços urbanos a concessionárias privadas por licitação",
+        "d": "a eliminação da administração estatal das cidades pela automação dos serviços",
+        "e": "a articulação entre estatística, tecnologia e gestão para conduzir a população"
+      },
+      "resposta": "e",
+      "explicacao": "Governamentalidade nomeia o poder que age sobre a população como conjunto — contando, medindo, prevendo — e a cidade instrumentada por sensores é uma versão contemporânea dessa técnica. Em (c) está o distrator mais próximo, porque também trata de gestão urbana: a concessão redistribui quem executa o serviço, e o conceito descreve como se conduz o comportamento coletivo, seja quem for o executor. Em (a), a punição espetacular pertence ao regime que Foucault mostra ter sido superado. Em (b), a eleição é mecanismo de representação, não técnica de governo da população. Em (d), o conceito descreve a ampliação das técnicas administrativas, não seu desaparecimento."
+    },
+    {
+      "id": "filosofia-sociologia-39",
+      "texto_apoio": "Ao cobrir o julgamento do nazista Adolf Eichmann, Hannah Arendt cunhou a expressão \"banalidade do mal\" para descrever atrocidades cometidas por um burocrata que executava ordens sem refletir sobre suas consequências morais.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse conceito ajuda a interpretar qual argumento levantado em escândalos corporativos contemporâneos, quando funcionários alegam ter apenas seguido normas internas da empresa ao participar de práticas lesivas a terceiros?",
+      "alternativas": {
+        "a": "o de que qualquer funcionário que siga normas comete crime equivalente ao de Eichmann",
+        "b": "o de que o fenômeno é raro e restrito a personalidades identificáveis como psicopatas",
+        "c": "o de que decisões coletivas diluem a responsabilidade penal de cada indivíduo",
+        "d": "o de que o crime corporativo exige executores movidos por ódio ou ideologia extrema",
+        "e": "o de que alegar mera obediência a protocolos reproduz a ausência de pensamento"
+      },
+      "resposta": "e",
+      "explicacao": "O que Arendt observa em Eichmann não é crueldade, é a recusa de pensar no que se faz — mecanismo que reaparece sempre que alguém se abriga na norma interna para não examinar as consequências do próprio ato. Em (a) está o excesso na direção oposta: reconhecer o mecanismo não iguala a gravidade dos casos, que variam em escala e em conhecimento das consequências. Em (b) e (d), o ponto do conceito é justamente que não se precisa de psicopatia nem de ódio ideológico. Em (c), a diluição da responsabilidade penal é argumento jurídico de imputação, e o conceito trata da atitude moral do agente."
+    },
+    {
+      "id": "filosofia-sociologia-40",
+      "texto_apoio": "Em \"A Condição Humana\", Arendt distingue labor, trabalho e ação, sendo esta última a única atividade genuinamente política, realizada entre os homens no espaço público.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Essa distinção arendtiana entre ação e mero labor ajuda a problematizar qual crítica ao chamado \"ativismo de sofá\" (curtir ou compartilhar uma causa nas redes sem qualquer outra forma de engajamento)?",
+      "alternativas": {
+        "a": "a de que a ação política, para Arendt, pode ser exercida em isolamento completo",
+        "b": "a de que a ação é a atividade voltada à produção de bens duráveis, como obras",
+        "c": "a de que apoiar uma causa nas redes já configura ação política plena e suficiente",
+        "d": "a de que a participação política exige tempo incompatível com jornadas longas",
+        "e": "a de que compartilhar não substitui a ação, que supõe presença e deliberação"
+      },
+      "resposta": "e",
+      "explicacao": "A ação, em Arendt, exige aparecer diante de outros e deliberar com eles: é a pluralidade que a distingue tanto do labor quanto do trabalho, e um clique isolado não a realiza. Em (c) está o oposto simétrico, que dissolveria a distinção ao chamar qualquer manifestação de ação política. Em (a), a ação só existe entre homens, nunca em isolamento. Em (b), a produção de bens duráveis define o trabalho, categoria vizinha que Arendt separa da ação. Em (d), a falta de tempo é obstáculo prático real, mas não é o critério conceitual que a distinção fornece."
+    },
+    {
+      "id": "filosofia-sociologia-41",
+      "texto_apoio": "Segundo o materialismo histórico de Marx, é a estrutura econômica de uma sociedade que condiciona historicamente suas instituições jurídicas, políticas e formas de consciência social.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Essa tese ajuda a explicar qual leitura frequente sobre a relação entre a crise financeira de 2008 e o crescimento posterior de discursos políticos que questionam as instituições tradicionais em diversos países?",
+      "alternativas": {
+        "a": "a de que apenas ideias e valores culturais explicam mudanças políticas de longo prazo",
+        "b": "a de que o materialismo histórico nega relação entre economia e política",
+        "c": "a de que crises econômicas não produzem efeito sobre a política de uma sociedade",
+        "d": "a de que crises econômicas decorrem sobretudo de erros das autoridades monetárias",
+        "e": "a de que uma crise de grande escala repercute na legitimidade das instituições"
+      },
+      "resposta": "e",
+      "explicacao": "A tese prevê exatamente esse encadeamento: abalada a base econômica, as formas políticas e a consciência social que dela dependiam entram em disputa, e discursos antes marginais ganham audiência. Em (a) está a posição inversa, que explica a política só por ideias — o idealismo que o materialismo histórico foi formulado para contestar. Em (b) e (c), negar a relação entre economia e política seria abandonar a própria tese. Em (d), atribuir a crise a erros de autoridade monetária é uma explicação conjuntural, que não usa a relação entre estrutura e superestrutura."
+    },
+    {
+      "id": "filosofia-sociologia-43",
+      "texto_apoio": "O conceito marxista de \"fetichismo da mercadoria\" descreve como, no capitalismo, as relações sociais de produção entre trabalhadores aparecem disfarçadas como relações entre as próprias coisas.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse conceito ajuda a interpretar qual fenômeno associado à valorização extrema de tênis de edição limitada e outros itens de revenda (\"hype\") no mercado de streetwear?",
+      "alternativas": {
+        "a": "o modo como o preço reflete de forma transparente o trabalho gasto na fabricação",
+        "b": "o modo como preço e prestígio parecem emanar do objeto, ocultando o trabalho",
+        "c": "o modo como os consumidores deixam de atribuir valor simbólico ao que compram",
+        "d": "o modo como o valor decorre de rituais tradicionais praticados pelos fabricantes",
+        "e": "o modo como a escassez deliberada de unidades eleva o preço na revenda"
+      },
+      "resposta": "b",
+      "explicacao": "O fetichismo consiste nisto: a mercadoria parece valer por si, como se o preço brotasse de uma qualidade do objeto, e o trabalho que a produziu desaparece de vista. Em (e) está o distrator mais forte, porque descreve corretamente o mecanismo de mercado — a escassez programada eleva o preço —, mas explicar o preço pela oferta é ficar na superfície que o conceito quer atravessar. Em (a), a transparência entre preço e trabalho é exatamente o que o fetichismo impede. Em (c), o valor simbólico é intensificado, não abandonado. Em (d), o ritual do fabricante é explicação alheia ao conceito."
+    },
+    {
+      "id": "filosofia-sociologia-45",
+      "texto_apoio": "Estudos clássicos de sociologia descrevem a organização burocrática ideal como aquela baseada em hierarquia impessoal, regras escritas e seleção por competência, e não por vínculos pessoais.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esse modelo de organização burocrática ajuda a avaliar qual promessa comum de sistemas de atendimento digital do setor público, como portais de agendamento on-line?",
+      "alternativas": {
+        "a": "reduzir a influência de relações pessoais no acesso, com critérios padronizados",
+        "b": "reduzir o número de servidores necessários para operar o serviço público",
+        "c": "eliminar a hierarquia administrativa das instituições que prestam o serviço",
+        "d": "dispensar o registro documental dos atos praticados pela administração",
+        "e": "preencher os cargos do órgão por critérios de confiança e indicação pessoal do gestor"
+      },
+      "resposta": "a",
+      "explicacao": "A promessa do agendamento on-line é tipicamente burocrática no sentido weberiano: a fila passa a obedecer a uma regra escrita e igual para todos, no lugar do acesso mediado por conhecidos. Em (b) está o distrator mais tentador, porque a economia de pessoal costuma ser prometida junto — mas é ganho de eficiência administrativa, e não o traço que define o tipo ideal. Em (c) e (d), hierarquia impessoal e formalismo escrito são componentes do modelo, e não coisas que ele elimine. Em (e), a indicação pessoal é o oposto da seleção por competência."
+    },
+    {
+      "id": "filosofia-sociologia-47",
+      "texto_apoio": "A reflexão política distingue uma ética voltada à fidelidade incondicional a princípios, independentemente das consequências, de uma ética que exige avaliar antecipadamente os efeitos práticos das decisões.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Essa distinção entre ética da convicção e ética da responsabilidade ajuda a analisar qual tensão enfrentada por governantes ao decidir sobre medidas restritivas durante uma pandemia?",
+      "alternativas": {
+        "a": "a tensão entre a fidelidade a um princípio e a avaliação das consequências previsíveis",
+        "b": "a ideia de que um governante se orienta por apenas uma dessas éticas em cada decisão",
+        "c": "a tensão entre decidir rapidamente e reunir informação suficiente antes de agir",
+        "d": "a tensão entre a opinião do especialista técnico e a do eleitorado que sustenta o governo",
+        "e": "a ideia de que a ética da responsabilidade dispensa qualquer compromisso com a sociedade"
+      },
+      "resposta": "a",
+      "explicacao": "O dilema é exatamente esse: manter um princípio como inegociável ou responder pelos efeitos previsíveis da decisão, sabendo que a segunda via cobra flexibilizar o primeiro. Em (d) está o distrator mais realista e por isso o mais perigoso — a tensão entre técnico e eleitorado existe na pandemia, mas é conflito de legitimidade, e não a oposição entre os dois tipos de ética. Em (c), a urgência versus informação é dilema de procedimento decisório. Em (b), o próprio dilema supõe as duas éticas operando ao mesmo tempo. Em (e), responder pelas consequências é o compromisso que define a segunda."
+    },
+    {
+      "id": "filosofia-sociologia-77",
+      "texto_apoio": "O modelo de Estado de bem-estar social (welfare state) se caracteriza pela provisão pública de serviços universais como saúde, educação e previdência, financiados por tributação.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa concepção ajuda a situar qual argumento central na defesa contemporânea de programas de renda básica universal?",
+      "alternativas": {
+        "a": "o de que o modelo exige privatizar integralmente os serviços sociais públicos",
+        "b": "o de que a renda básica garantiria patamar mínimo de segurança econômica direta",
+        "c": "o de que o welfare state elimina a intervenção estatal na proteção social",
+        "d": "o de que a proteção social deve ser condicionada à contrapartida de trabalho",
+        "e": "o de que o financiamento deve vir de contribuição individual, não de tributação geral"
+      },
+      "resposta": "b",
+      "explicacao": "A renda básica prolonga a lógica do welfare state trocando o serviço pela transferência: em vez de garantir o mínimo por meio de saúde e educação públicas, garante-o em dinheiro, mantidos a universalidade e o financiamento coletivo. Em (d) está a posição rival que de fato disputa esse debate — condicionar o benefício a contrapartida é o que a proposta universal recusa, e reconhecer a oposição é o que a questão cobra. Em (e), o custeio por contribuição individual descaracteriza a universalidade. Em (a) e (c), privatização e ausência de intervenção contrariam a definição do modelo."
+    },
+    {
+      "id": "filosofia-sociologia-85",
+      "texto_apoio": "Norbert Elias descreve o \"processo civilizador\" como a interiorização crescente de normas de autocontrole sobre impulsos e comportamentos corporais ao longo da história ocidental.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse conceito ajuda a analisar qual transformação observada nas normas de conduta profissional após a disseminação do trabalho remoto, quando hábitos antes reservados ao ambiente privado passaram a aparecer em videochamadas de trabalho?",
+      "alternativas": {
+        "a": "a padronização internacional de regras de etiqueta em ambientes corporativos",
+        "b": "a renegociação das fronteiras entre o que cabe ao espaço profissional e ao doméstico",
+        "c": "a diminuição da complexidade das interdependências sociais entre os indivíduos",
+        "d": "a liberação total dos impulsos, sem qualquer padrão de autocontrole social",
+        "e": "a fixação definitiva dos padrões de formalidade profissional, agora imunes à mudança histórica"
+      },
+      "resposta": "b",
+      "explicacao": "Elias mostra que os limiares de pudor e formalidade se deslocam historicamente, e a videochamada tornou visível um deslocamento em curso: a fronteira entre casa e trabalho está sendo refeita, não abolida. Em (e) está a leitura oposta — supor os padrões fixos é o que o conceito de processo, por definição, nega. Em (d), a mudança de fronteira não é liberação sem regra: novas convenções surgem no lugar das antigas. Em (c), Elias associa a civilização ao aumento das interdependências, não à sua redução. Em (a), a padronização internacional de etiqueta é outro fenômeno, sem relação com o deslocamento descrito."
+    },
+    {
+      "id": "filosofia-sociologia-86",
+      "texto_apoio": "A \"teoria da tensão\" (strain theory) explica comportamentos desviantes a partir da tensão entre metas culturalmente valorizadas, como o sucesso material, e a desigual disponibilidade de meios legítimos para alcançá-las.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Essa teoria ajuda a analisar qual crítica sociológica ao apelo de esquemas de enriquecimento rápido e discursos que prometem sucesso financeiro imediato, populares em redes sociais entre jovens de bairros com poucas oportunidades formais de ascensão econômica?",
+      "alternativas": {
+        "a": "a de que não há desigualdade social relacionada ao apelo desses discursos",
+        "b": "a de que a teoria propõe eliminar por decreto a meta cultural de sucesso material",
+        "c": "a de que esses esquemas se sustentam apenas enquanto houver entrada de novos participantes",
+        "d": "a de que todos partilham igualmente as metas e os meios legítimos de alcançá-las",
+        "e": "a de que exploram a tensão entre valorizar o sucesso e a escassez de meios legítimos"
+      },
+      "resposta": "e",
+      "explicacao": "A teoria explica o desvio pelo descompasso entre uma meta que a cultura distribui a todos e meios legítimos que a estrutura distribui de forma desigual — e é nesse vão que promessas de enriquecimento rápido encontram público. Em (c) está o distrator mais forte: descrever a mecânica financeira do esquema é correto e não é sociologia, porque não explica por que ele atrai justamente quem atrai. Em (d), a igualdade de acesso aos meios é a premissa que a teoria rejeita. Em (a), a desigualdade é o centro da explicação. Em (b), a teoria descreve a meta cultural, sem propor suprimi-la."
+    },
+    {
+      "id": "filosofia-sociologia-87",
+      "texto_apoio": "Diferentemente do fordismo, baseado na rígida padronização de tarefas em linha de montagem, o toyotismo se caracteriza por maior flexibilidade produtiva e multifuncionalidade dos trabalhadores.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa distinção entre modelos de organização do trabalho ajuda a situar qual característica do modelo de trabalho por aplicativo (motoristas e entregadores), organizado por demanda e sem jornada fixa?",
+      "alternativas": {
+        "a": "a manutenção da produção em massa padronizada e rígida típica do modelo fordista clássico",
+        "b": "a manutenção de hierarquia rígida, com chefias acompanhando cada tarefa",
+        "c": "a rejeição do uso de tecnologia e automação nos processos produtivos",
+        "d": "a eliminação da divisão do trabalho em todas as etapas da atividade",
+        "e": "a lógica flexível, orientada pela demanda momentânea e por tarefas adaptáveis"
+      },
+      "resposta": "e",
+      "explicacao": "Produção puxada pela demanda, sem estoque de horas nem posto fixo, é a lógica que o toyotismo introduziu e que o trabalho por aplicativo leva ao extremo, transferindo ao trabalhador o risco da oscilação. Em (b) está o ponto mais interessante da questão: há supervisão intensa nesse modelo, mas exercida pelo algoritmo e não por uma chefia direta, de modo que a alternativa acerta o fato e erra a forma. Em (a), a rigidez fordista é o termo de contraste. Em (c), o modelo depende de tecnologia. Em (d), a divisão de tarefas persiste, apenas mais fluida."
+    },
+    {
+      "id": "filosofia-sociologia-92",
+      "texto_apoio": "Boaventura de Sousa Santos propõe as \"epistemologias do Sul\" para valorizar saberes produzidos por povos historicamente subalternizados pelo colonialismo, questionando a hegemonia epistemológica dos países do Norte global.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse conceito ajuda a fundamentar qual argumento em debates sobre a inclusão de saberes indígenas e tradicionais em currículos escolares e universitários brasileiros?",
+      "alternativas": {
+        "a": "o de reconhecer saberes indígenas como conhecimento legítimo ao lado da ciência",
+        "b": "o de validar os saberes tradicionais pelos métodos da ciência moderna antes de ensiná-los",
+        "c": "o de sustentar o predomínio do conhecimento científico ocidental sobre os demais",
+        "d": "o de eliminar a ciência moderna dos currículos escolares e universitários",
+        "e": "o de negar relevância ao diálogo entre diferentes tradições de conhecimento"
+      },
+      "resposta": "a",
+      "explicacao": "A proposta é de convivência entre formas de saber, corrigindo uma hierarquia herdada do colonialismo — não de substituir uma supremacia por outra. Em (b) está o distrator mais sutil de todos: exigir que o saber tradicional passe pelo crivo do método científico para valer parece razoável e reinstala exatamente a hierarquia que o conceito questiona, porque mantém o Norte como tribunal do que conta como conhecimento. Em (d), eliminar a ciência moderna é o excesso oposto, que a proposta não sustenta. Em (c) e (e), predomínio ocidental e recusa do diálogo contrariam o conceito de frente."
+    },
+    {
+      "id": "filosofia-sociologia-96",
+      "texto_apoio": "Nancy Fraser argumenta que uma teoria da justiça social adequada deve articular, simultaneamente, demandas por redistribuição econômica e por reconhecimento cultural de identidades.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse argumento ajuda a criticar qual limitação de políticas públicas que buscam reduzir desigualdades considerando apenas a dimensão econômica, sem qualquer atenção a hierarquias de status baseadas em raça ou gênero — ou, inversamente, apenas a dimensão de reconhecimento cultural, sem qualquer atenção à redistribuição de renda?",
+      "alternativas": {
+        "a": "a de que nenhuma intervenção estatal seria compatível com a teoria de Fraser",
+        "b": "a de que reduzir a justiça a uma só dimensão não capta como elas se reforçam",
+        "c": "a de que políticas de transferência de renda desestimulam o trabalho formal",
+        "d": "a de que, para Fraser, apenas a redistribuição econômica importa de fato",
+        "e": "a de que a redistribuição deve preceder o reconhecimento na ordem das políticas"
+      },
+      "resposta": "b",
+      "explicacao": "O argumento de Fraser é de simultaneidade: classe e status produzem injustiça em conjunto, e uma política que ataque só um dos eixos deixa o outro reproduzindo o resultado que ela pretendia corrigir. Em (e) está o distrator mais fino, porque não nega nenhuma das duas dimensões — apenas as põe em sequência, e é justamente a ordenação que a autora recusa. Em (d), atribuir-lhe o primado da redistribuição desfaz a tese. Em (a), ela defende políticas públicas, não sua impossibilidade. Em (c), o desestímulo ao trabalho formal é objeção econômica de outra literatura."
+    },
+    {
+      "id": "filosofia-sociologia-97",
+      "texto_apoio": "Georg Simmel descreve a \"atitude blasé\", uma espécie de indiferença e embotamento emocional que o habitante das grandes metrópoles desenvolve como defesa psíquica diante do excesso de estímulos sensoriais.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse conceito ajuda a interpretar qual efeito comumente relatado do recebimento constante de notificações e estímulos de aplicativos digitais ao longo do dia?",
+      "alternativas": {
+        "a": "o entusiasmo diante de cada novo estímulo oferecido pela vida digital cotidiana",
+        "b": "a indiferença defensiva diante do volume constante de notificações e estímulos",
+        "c": "o isolamento físico completo, sem contato do indivíduo com outras pessoas",
+        "d": "a presença dessa atitude apenas em pequenas comunidades rurais tradicionais",
+        "e": "a tendência a memorizar apenas o conteúdo repetido com maior frequência no dia"
+      },
+      "resposta": "b",
+      "explicacao": "A atitude blasé é economia psíquica: diante de mais estímulo do que se pode processar, o indivíduo baixa a sensibilidade a todos eles, e a notificação constante reproduz essa condição. Em (c) está o erro que a questão testa — a indiferença descrita por Simmel convive com o contato intenso, e é dele que nasce; não há retirada do convívio. Em (a), o entusiasmo permanente é o oposto do embotamento. Em (d), o fenômeno é associado por Simmel justamente à metrópole. Em (e), a retenção seletiva do que se repete é hipótese de memória, não a resposta afetiva que o conceito descreve."
+    },
+    {
+      "id": "filosofia-sociologia-98",
+      "texto_apoio": "Ferdinand Tönnies contrapõe a \"comunidade\" (Gemeinschaft), fundada em laços afetivos e pessoais de pequenos grupos, à \"sociedade\" (Gesellschaft), de relações mais impessoais e contratuais típicas de grandes centros urbanos.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa distinção ajuda a problematizar qual expectativa comum de que comunidades on-line de interesse compartilhado (como grupos de jogos ou fóruns de nicho) substituam integralmente os vínculos de proximidade típicos de comunidades tradicionais?",
+      "alternativas": {
+        "a": "a de que vínculos digitais têm base diferente da proximidade física e cotidiana",
+        "b": "a de que a distinção contrapõe organização capitalista a organização socialista",
+        "c": "a de que comunidades on-line reproduzem sem diferença os laços tradicionais",
+        "d": "a de que a distinção contrapõe regimes democráticos a regimes autoritários",
+        "e": "a de que comunidades on-line reúnem pessoas dispersas, o que amplia sua diversidade"
+      },
+      "resposta": "a",
+      "explicacao": "O laço comunitário de Tönnies se apoia em convivência física, cotidiana e prolongada, que não se escolhe; o grupo on-line reúne quem partilha um interesse e pode ser deixado a qualquer momento — há afeto, com outra base. Em (c) está a expectativa que o enunciado pede para problematizar, e afirmá-la é responder o contrário do que se pergunta. Em (e), a dispersão geográfica é uma característica real desses grupos, mas descreve a composição e não o tipo de vínculo. Em (b) e (d), a distinção não trata de sistemas econômicos nem de regimes políticos."
+    }
+  ]
+}

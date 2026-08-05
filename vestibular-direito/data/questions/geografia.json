@@ -214,17 +214,17 @@
                      {
                          "id":  "geografia-15",
                          "texto_apoio":  "",
+                         "formato":  "direta",
                          "enunciado":  "A expansão do agronegócio no Centro-Oeste brasileiro, a partir das últimas décadas do século XX, foi possibilitada, entre outros fatores, por:",
                          "alternativas":  {
-                                              "a":  "A descoberta de reservas de petróleo no subsolo do Cerrado, que teriam financiado diretamente toda a infraestrutura agrícola da região",
-                                              "b":  "A proibição de expansão do agronegócio em outras regiões do país a partir da década de 1970, o que teria concentrado os investimentos no Centro-Oeste",
-                                              "c":  "O desenvolvimento de tecnologias agrícolas, como a correção de solo e novas variedades de sementes, somado a investimentos em infraestrutura e incentivos governamentais",
-                                              "d":  "A transferência compulsória de pequenos agricultores do Sul do país para o Centro-Oeste, determinada por lei federal de colonização dirigida",
-                                              "e":  "A abundância natural de solos férteis no Cerrado, que dispensou correção química do solo e permitiu o cultivo imediato em larga escala"
+                                              "a":  "A descoberta de reservas de petróleo no Cerrado, que financiou a infraestrutura agrícola",
+                                              "b":  "A proibição de expandir o agronegócio nas demais regiões a partir dos anos 1970",
+                                              "c":  "A correção do solo e novas sementes, somadas a infraestrutura e incentivos públicos",
+                                              "d":  "A transferência compulsória de agricultores do Sul determinada por lei federal",
+                                              "e":  "A fertilidade natural do Cerrado, que dispensou correção química e permitiu cultivo imediato"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A ocupação agrícola do Cerrado foi viabilizada por avanços tecnológicos, como a correção da acidez do solo, além de investimentos em infraestrutura e incentivos governamentais. Não houve transferência compulsória de agricultores, nem relação com reservas de petróleo no Cerrado, nem proibição de expansão em outras regiões — fatores que não correspondem ao processo histórico real.",
-                         "formato":  "direta"
+                         "explicacao":  "O Cerrado só entrou na fronteira agrícola depois que a pesquisa resolveu dois problemas: a acidez do solo, corrigida com calagem, e a adaptação de cultivares ao clima — tudo isso apoiado por crédito e por estradas. Em (e) está a inversão que a questão cobra: o solo do Cerrado é naturalmente ácido e pobre, e é justamente por isso que a correção química foi a condição da expansão. Em (a), não há petróleo financiando a agricultura na região. Em (b), nenhuma proibição desse tipo existiu. Em (d), a migração de sulistas foi expressiva, mas espontânea, e não determinada por lei."
                      },
                      {
                          "id":  "geografia-16",
@@ -289,17 +289,17 @@
                      {
                          "id":  "geografia-20",
                          "texto_apoio":  "A escala cartográfica indica a relação entre as distâncias representadas em um mapa e as distâncias reais no terreno.",
+                         "formato":  "direta",
                          "enunciado":  "Um mapa de escala 1:1.000.000 é considerado de pequena escala em relação a um mapa de escala 1:10.000 porque:",
                          "alternativas":  {
-                                              "a":  "Indica que cada centímetro do mapa corresponde a um milhão de centímetros no terreno, o que amplia o detalhamento em relação ao mapa de escala 1:10.000",
-                                              "b":  "É sempre fisicamente maior em tamanho de papel do que um mapa de escala 1:10.000, independentemente da área representada em cada um deles",
-                                              "c":  "Utiliza uma projeção cartográfica diferente, o que alteraria a relação entre distância representada e distância real no terreno",
-                                              "d":  "Representa a mesma área que o mapa de escala 1:10.000, porém com uma legenda de cores distinta e uma paleta cartográfica mais simplificada",
-                                              "e":  "Representa uma área maior do território com menor nível de detalhamento, ao contrário do mapa de escala 1:10.000, que detalha uma área menor com mais precisão"
+                                              "a":  "Cada centímetro corresponde a um milhão de centímetros, o que amplia o detalhe",
+                                              "b":  "É fisicamente maior em tamanho de papel que um mapa de escala 1:10.000",
+                                              "c":  "Utiliza projeção diferente, o que alteraria a relação entre as distâncias",
+                                              "d":  "Representa a mesma área que o de 1:10.000, com legenda de cores distinta",
+                                              "e":  "Representa área maior com menos detalhe, ao contrário do mapa de 1:10.000"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Quanto maior o denominador da escala, menor a escala e maior a área representada, com menos detalhes; o inverso vale para denominadores menores. O tamanho físico do papel não determina a escala, a diferença não decorre de projeções cartográficas distintas, e as duas escalas normalmente representam áreas de tamanhos diferentes, não a mesma área.",
-                         "formato":  "direta"
+                         "explicacao":  "A escala é uma fração: quanto maior o denominador, mais o terreno foi reduzido, e menos cabe de detalhe — daí um milionésimo ser pequena escala e um décimo-milésimo, grande. Em (a) está o distrator que a questão existe para pegar: a correspondência de um milhão de centímetros está certa, e a conclusão está invertida, porque reduzir mais significa detalhar menos. Em (b), o tamanho da folha nada tem a ver com a escala. Em (c), a projeção trata da forma de representar a esfera, não da razão de redução. Em (d), as áreas representadas são diferentes."
                      },
                      {
                          "id":  "geografia-21",
@@ -319,17 +319,17 @@
                      {
                          "id":  "geografia-22",
                          "texto_apoio":  "O Cerrado é o segundo maior bioma brasileiro em extensão, ocupando parte significativa do Centro-Oeste do país.",
+                         "formato":  "direta",
                          "enunciado":  "Esse bioma caracteriza-se por:",
                          "alternativas":  {
-                                              "a":  "Vegetação de campos abertos, com gramíneas baixas e ausência de estrato arbóreo, típica das áreas de maior altitude do Sul do país",
-                                              "b":  "Floresta tropical densa e fechada, com dossel contínuo, em tudo semelhante à vegetação amazônica de alta umidade",
-                                              "c":  "Vegetação de savana tropical, com árvores baixas e tortuosas, gramíneas e regime climático com estações seca e chuvosa bem definidas",
-                                              "d":  "Vegetação de mangue, adaptada a áreas de encontro entre rios e o mar, com solo permanentemente encharcado pela maré",
-                                              "e":  "Clima subtropical úmido, com ocorrência frequente de geadas ao longo de todo o ano, semelhante ao observado no extremo Sul do país"
+                                              "a":  "Campos abertos, com gramíneas baixas e ausência de estrato arbóreo, típicos das serras do Sul",
+                                              "b":  "Floresta tropical densa, com dossel contínuo, semelhante à vegetação amazônica",
+                                              "c":  "Savana tropical, com árvores baixas e tortuosas, e estações seca e chuvosa marcadas",
+                                              "d":  "Vegetação de mangue, adaptada ao encontro de rios com o mar, em solo encharcado",
+                                              "e":  "Clima subtropical úmido, com geadas frequentes, como no extremo Sul do país"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O Cerrado é caracterizado por uma vegetação de savana tropical, com árvores de troncos tortuosos, arbustos e gramíneas, adaptada a um clima com estação seca e chuvosa bem definidas. As demais alternativas descrevem outros biomas ou formações vegetais (floresta amazônica, mangue) ou um regime climático incompatível com o Cerrado.",
-                         "formato":  "direta"
+                         "explicacao":  "O Cerrado é a savana brasileira: árvores de porte baixo e tronco retorcido sobre um tapete de gramíneas, com casca grossa e raiz profunda que respondem ao fogo e à estação seca prolongada. Em (a) está o distrator mais próximo, porque o Cerrado também tem gramíneas — o que o separa dos campos é justamente o estrato arbóreo, que a alternativa nega. Em (b), a floresta densa de dossel contínuo é a Amazônia. Em (d), o mangue é costeiro e o Cerrado é interior. Em (e), o clima subtropical com geadas descreve o Sul, e não o Centro-Oeste."
                      },
                      {
                          "id":  "geografia-23",
@@ -394,32 +394,32 @@
                      {
                          "id":  "geografia-27",
                          "texto_apoio":  "Nas últimas décadas, observa-se um processo de desconcentração industrial no Brasil, com a expansão de polos industriais fora do eixo tradicional Sudeste.",
+                         "formato":  "direta",
                          "enunciado":  "Esse processo de desconcentração relaciona-se, entre outros fatores, a:",
                          "alternativas":  {
-                                              "a":  "A concentração de universidades técnicas apenas fora do eixo Sudeste, o que teria deslocado a mão de obra qualificada para outras regiões",
-                                              "b":  "O esgotamento das reservas de matéria-prima disponíveis no estado de São Paulo, que teria inviabilizado a manutenção das indústrias já instaladas",
-                                              "c":  "A saturação do mercado consumidor paulista, que teria deixado de absorver a produção industrial e forçado a busca por consumidores em outras regiões",
-                                              "d":  "Incentivos fiscais oferecidos por estados e municípios (guerra fiscal), custos menores de mão de obra e terrenos, e melhoria da infraestrutura de transportes",
-                                              "e":  "Uma decisão do governo federal de fechar parques industriais em São Paulo para redistribuir empregos entre as regiões do país"
+                                              "a":  "A concentração de universidades técnicas fora do eixo Sudeste, o que deslocaria a mão de obra qualificada",
+                                              "b":  "O esgotamento das reservas de matéria-prima disponíveis no estado de São Paulo",
+                                              "c":  "A saturação do mercado consumidor paulista, que deixou de absorver a produção",
+                                              "d":  "Guerra fiscal entre estados, custos menores de mão de obra e terrenos e melhor logística",
+                                              "e":  "Decisão federal de fechar parques industriais em São Paulo para redistribuir empregos"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A desconcentração industrial no Brasil foi impulsionada pela guerra fiscal entre estados e municípios, por custos menores de terra e mão de obra em outras regiões e pela melhoria da infraestrutura de transportes. Não houve fechamento decretado de indústrias em São Paulo, nem esgotamento de matéria-prima, nem uma concentração de universidades técnicas fora do Sudeste como causa do fenômeno.",
-                         "formato":  "direta"
+                         "explicacao":  "A desconcentração foi puxada por vantagem de custo — renúncia fiscal disputada entre estados, salários e terra mais baratos — e viabilizada por rodovias e portos que encurtaram a distância até o mercado. Em (c) está o distrator mais plausível, porque saturação de mercado é causa real de deslocamento industrial em outros contextos; aqui não se aplica, já que São Paulo segue sendo o maior mercado consumidor do país. Em (b), a indústria paulista não depende de matéria-prima local. Em (a), as universidades técnicas continuam concentradas no Sudeste. Em (e), não houve decisão federal de fechar parques industriais."
                      },
                      {
                          "id":  "geografia-28",
                          "texto_apoio":  "A segurança alimentar e nutricional é um conceito central nos estudos sobre geografia da fome, como os de Josué de Castro.",
+                         "formato":  "direta",
                          "enunciado":  "Esse conceito refere-se ao direito de todas as pessoas a:",
                          "alternativas":  {
-                                              "a":  "Receber cestas básicas doadas pelo Estado como única forma legítima de acesso à alimentação para toda a população",
-                                              "b":  "Escolher livremente sua dieta segundo preferências culturais, sem que o poder público interfira na oferta ou no preço dos alimentos",
-                                              "c":  "Acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer o acesso a outras necessidades essenciais",
-                                              "d":  "Consumir apenas alimentos de origem nacional, independentemente de seu preço ou disponibilidade regional em cada época do ano",
-                                              "e":  "Produzir seus próprios alimentos em regime de agricultura de subsistência, sem depender do mercado ou de programas públicos"
+                                              "a":  "Receber cestas básicas do Estado como forma legítima de acesso à alimentação",
+                                              "b":  "Escolher livremente sua dieta, sem que o poder público interfira na oferta ou no preço",
+                                              "c":  "Acesso regular e permanente a alimento de qualidade, sem comprometer outras necessidades",
+                                              "d":  "Consumir apenas alimentos de origem nacional, seja qual for o preço ou a disponibilidade regional",
+                                              "e":  "Produzir os próprios alimentos em regime de subsistência, sem depender do mercado"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A segurança alimentar e nutricional é definida como o direito ao acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer outras necessidades essenciais, conceito estudado por Josué de Castro. As demais alternativas restringem esse direito a formas específicas de obtenção de alimento (nacional, doação, subsistência) que não esgotam o conceito mais amplo de segurança alimentar.",
-                         "formato":  "direta"
+                         "explicacao":  "A definição tem três partes que precisam valer juntas: regularidade, qualidade e o fato de comer não custar o acesso a moradia, saúde ou transporte — é por isso que o conceito é de segurança, e não apenas de disponibilidade de comida. Em (a) está o distrator mais próximo, porque a cesta básica é um instrumento real de política pública, mas descreve uma forma de atendimento emergencial, e não o direito que a define. Em (e), a autoprodução é uma via entre outras. Em (b) e (d), liberdade de escolha e origem nacional do alimento não integram o conceito."
                      },
                      {
                          "id":  "geografia-29",
@@ -484,17 +484,17 @@
                      {
                          "id":  "geografia-33",
                          "texto_apoio":  "A pirâmide etária brasileira vem se transformando nas últimas décadas, refletindo a chamada transição demográfica.",
+                         "formato":  "direta",
                          "enunciado":  "Essa transição caracteriza-se, sobretudo, pela:",
                          "alternativas":  {
-                                              "a":  "Redução simultânea da população total do país, fenômeno já observado de forma contínua desde a década de 1980",
-                                              "b":  "Redução das taxas de natalidade e de mortalidade, resultando em envelhecimento da população e alargamento do topo da pirâmide etária",
-                                              "c":  "Estabilidade da estrutura etária brasileira, comparável à observada no Japão desde o início do século XX, sem mudanças relevantes",
-                                              "d":  "Elevação simultânea das taxas de natalidade e de mortalidade, resultado do crescimento urbano acelerado das últimas décadas",
-                                              "e":  "Manutenção de taxas de natalidade elevadas, compensada por uma queda ainda maior na expectativa de vida da população brasileira"
+                                              "a":  "Redução da população total do país, observada de forma contínua desde os anos 1980",
+                                              "b":  "Redução da natalidade e da mortalidade, com envelhecimento e topo mais largo",
+                                              "c":  "Estabilidade da estrutura etária, comparável à do Japão desde o início do século XX",
+                                              "d":  "Elevação simultânea da natalidade e da mortalidade, pelo crescimento urbano",
+                                              "e":  "Manutenção de natalidade alta, compensada por queda na expectativa de vida"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A transição demográfica brasileira envolve queda das taxas de natalidade e de mortalidade e aumento da expectativa de vida, resultando em uma pirâmide etária mais larga no topo. Não há manutenção de natalidade elevada com queda na expectativa de vida, a população brasileira ainda não está em redução total, e sua estrutura etária é bem mais jovem do que a japonesa.",
-                         "formato":  "direta"
+                         "explicacao":  "As duas taxas caem, e não na mesma hora: a mortalidade desce primeiro, a natalidade depois, e o resultado é uma pirâmide que perde base e ganha topo. Em (a) está a confusão mais comum — transição demográfica não é queda da população, que no Brasil seguiu crescendo enquanto a estrutura etária mudava. Em (d), a elevação das duas taxas é o quadro pré-transição. Em (e), a expectativa de vida subiu. Em (c), a estrutura etária brasileira é das que mais mudaram no mundo nas últimas décadas."
                      },
                      {
                          "id":  "geografia-34",
@@ -529,18 +529,18 @@
                      {
                          "id":  "geografia-36",
                          "texto_apoio":  "A geografia eleitoral estuda a distribuição espacial do comportamento e dos resultados eleitorais em um território.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Esse campo de estudo busca, sobretudo, analisar:",
                          "alternativas":  {
-                                              "a":  "A relação entre a distribuição espacial dos votos e fatores socioeconômicos, culturais e regionais, identificando padrões territoriais no comportamento eleitoral",
-                                              "b":  "Exclusivamente a trajetória pessoal de candidatos a cargos eletivos, sem relação com a distribuição territorial dos votos ou fatores regionais",
-                                              "c":  "A previsão de resultados eleitorais a partir de modelos estatísticos nacionais, sem considerar recortes territoriais do eleitorado",
-                                              "d":  "A localização física das sedes administrativas dos partidos políticos registrados no Tribunal Superior Eleitoral, sem relação com o eleitorado",
-                                              "e":  "Apenas os aspectos jurídicos da legislação eleitoral, sem qualquer dimensão espacial ou territorial na análise do comportamento dos eleitores"
+                                              "a":  "A relação entre a distribuição espacial dos votos e fatores socioeconômicos e regionais",
+                                              "b":  "A trajetória pessoal dos candidatos a cargos eletivos e sua biografia política",
+                                              "c":  "A previsão de resultados eleitorais por modelos estatísticos nacionais, sem recorte territorial",
+                                              "d":  "A localização das sedes administrativas dos partidos registrados no país",
+                                              "e":  "Os aspectos jurídicos da legislação eleitoral e das regras de propaganda partidária"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A geografia eleitoral analisa como fatores socioeconômicos, culturais e regionais se relacionam com a distribuição espacial dos votos, identificando padrões territoriais do comportamento eleitoral. Não se limita a aspectos jurídicos, não trata da localização de sedes partidárias, nem se resume à biografia de candidatos.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O objeto é o padrão territorial: onde cada candidatura vai bem, e o que na composição social, econômica e cultural daquele recorte ajuda a explicar o resultado. Em (c) está o distrator mais próximo, porque projeção eleitoral também trabalha com dados de voto — mas um modelo agregado no nível nacional descarta exatamente a variação espacial que define o campo. Em (b), a biografia do candidato pertence à ciência política, sem dimensão territorial. Em (d), a sede do partido nada informa sobre o eleitorado. Em (e), o direito eleitoral estuda as regras, não a distribuição dos votos."
                      },
                      {
                          "id":  "geografia-37",
@@ -609,18 +609,18 @@
                      {
                          "id":  "geografia-41",
                          "texto_apoio":  "",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "O movimento pendular, estudado pela geografia urbana, refere-se a:",
                          "alternativas":  {
-                                              "a":  "Deslocamento definitivo de uma pessoa de uma cidade para outra, sem intenção de retorno ao município de origem em momento algum",
-                                              "b":  "Migração sazonal de trabalhadores rurais entre diferentes regiões do país conforme o calendário de colheitas de cada safra agrícola",
-                                              "c":  "Ocupação progressiva de áreas periféricas por moradores deslocados das áreas centrais em razão da valorização imobiliária",
-                                              "d":  "Deslocamento diário de trabalhadores e estudantes entre o município onde residem e outro onde trabalham ou estudam, retornando no mesmo dia",
-                                              "e":  "Deslocamento de refugiados entre países vizinhos em razão de conflitos armados, sem intenção de retornar ao país de origem"
+                                              "a":  "Deslocamento definitivo de uma pessoa de uma cidade para outra, sem retorno",
+                                              "b":  "Migração sazonal de trabalhadores rurais conforme o calendário de colheitas",
+                                              "c":  "Ocupação de áreas periféricas por moradores expulsos do centro pela valorização",
+                                              "d":  "Deslocamento diário entre o município de residência e o de trabalho ou estudo",
+                                              "e":  "Deslocamento de refugiados entre países vizinhos em razão de conflitos armados"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O movimento pendular caracteriza-se pelo deslocamento diário (ida e volta) de pessoas entre seu município de residência e outro, geralmente para trabalho ou estudo. As demais alternativas descrevem outros fenômenos migratórios (migração definitiva, migração sazonal agrícola, deslocamento de refugiados) que não envolvem o retorno diário característico do movimento pendular.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O nome vem do vaivém: a pessoa sai e volta no mesmo dia, sem mudar de residência, e é esse retorno que separa o pendular de qualquer migração. Em (b) está o distrator mais fino, porque a migração sazonal também é cíclica — mas o ciclo é anual e implica morar fora por meses, e não o retorno diário. Em (a) e (e), o traço comum é a ausência de retorno, o que descarta as duas. Em (c), a periferização é mudança de residência, e costuma ser a causa do movimento pendular, não o movimento em si."
                      },
                      {
                          "id":  "geografia-42",
@@ -673,34 +673,34 @@
                      {
                          "id":  "geografia-45",
                          "texto_apoio":  "",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Nas últimas décadas, observa-se no Brasil um crescimento relativamente maior das chamadas \u0027cidades médias\u0027 (com população entre cerca de 100 mil e 500 mil habitantes) em comparação com as grandes metrópoles. Esse fenômeno está relacionado, entre outros fatores, a:",
                          "alternativas":  {
-                                              "a":  "Uma queda da população total do país, que reduziu proporcionalmente o tamanho de todas as cidades, tanto grandes quanto pequenas",
-                                              "b":  "Uma redução da oferta de empregos industriais nas cidades médias, que passaram a depender exclusivamente do setor primário e do comércio local",
-                                              "c":  "Uma determinação legal que limita o crescimento populacional das capitais estaduais brasileiras desde meados da década de 1990",
-                                              "d":  "Busca por melhor qualidade de vida, menor custo e problemas de mobilidade e segurança nas grandes metrópoles, associada à desconcentração de atividades econômicas",
-                                              "e":  "A transferência de capitais estaduais para cidades do interior, política adotada por diversos estados a partir dos anos 2000"
+                                              "a":  "Queda da população total do país, que reduziu o tamanho de todas as cidades",
+                                              "b":  "Redução da oferta de empregos industriais nas cidades médias, hoje dependentes do setor primário",
+                                              "c":  "Determinação legal que limita o crescimento populacional das capitais estaduais",
+                                              "d":  "Busca por qualidade de vida e menor custo, com desconcentração de atividades econômicas",
+                                              "e":  "Transferência de capitais estaduais para cidades do interior a partir dos anos 2000"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Cidades médias vêm atraindo moradores e empresas que buscam fugir de problemas típicos das grandes metrópoles, como trânsito e alto custo de vida, ao mesmo tempo em que a desconcentração de atividades amplia oportunidades nesses centros. Não existe limite legal ao crescimento das capitais, as cidades médias não perderam empregos industriais em favor do setor primário, e a população total do país não está em queda.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "As cidades médias crescem porque recebem dois movimentos ao mesmo tempo: gente saindo da metrópole em busca de custo e mobilidade melhores, e atividade econômica se desconcentrando para perto de insumos e mercados regionais. Em (b) está a inversão do processo — o emprego industrial vem crescendo nessas cidades, e é parte do que as atrai. Em (a), a população do país seguiu crescendo no período. Em (c), não existe limite legal ao crescimento de capitais. Em (e), transferências de capital estadual são raríssimas no Brasil e não explicam um fenômeno nacional."
                      },
                      {
                          "id":  "geografia-46",
                          "texto_apoio":  "",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Embora frequentemente associados, \u0027favela\u0027 e \u0027loteamento irregular\u0027 não são sinônimos na geografia urbana. A principal diferença conceitual entre eles está no fato de que:",
                          "alternativas":  {
-                                              "a":  "A favela resulta de programas habitacionais públicos interrompidos antes da entrega das unidades, e o loteamento irregular, de ocupações espontâneas",
-                                              "b":  "O loteamento irregular ocorre exclusivamente em áreas já classificadas como de proteção ambiental, nunca em zonas urbanas comuns e regulares",
-                                              "c":  "Os dois termos se aplicam apenas a áreas rurais, nunca a contextos urbanos ou a regiões metropolitanas mais densamente povoadas e industrializadas",
-                                              "d":  "A favela é sempre formada a partir de um parcelamento legal do solo, posteriormente revogado pela prefeitura por decisão administrativa arbitrária",
-                                              "e":  "A favela caracteriza-se pela ocupação espontânea de terrenos sem propriedade formal, enquanto o loteamento irregular envolve venda de lotes sem registro urbanístico"
+                                              "a":  "A favela resulta de programas habitacionais públicos interrompidos antes da entrega das casas",
+                                              "b":  "O loteamento irregular ocorre apenas em áreas classificadas como de proteção ambiental",
+                                              "c":  "Os dois termos se aplicam a áreas rurais, e não a contextos urbanos ou metropolitanos",
+                                              "d":  "A favela nasce de um parcelamento legal do solo, depois revogado pela prefeitura",
+                                              "e":  "A favela é ocupação de terreno sem propriedade formal, e o loteamento, venda sem registro"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A favela resulta de ocupação espontânea de terrenos, sem processo formal de parcelamento; o loteamento irregular refere-se a áreas cujo parcelamento (venda de lotes) não seguiu as exigências legais, mesmo havendo transação comercial. A favela não decorre de revogação de um parcelamento antes legal, o loteamento irregular não se limita a áreas de proteção ambiental, e ambos os termos são tipicamente urbanos, não rurais.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A distinção é de origem jurídica: na favela não houve transação, houve ocupação; no loteamento irregular houve compra e venda, só que de lotes que o parcelamento nunca registrou no município. Em (a) está o distrator mais plausível, porque conjuntos habitacionais inacabados de fato existem e às vezes são ocupados — mas isso descreve um terceiro caso, não a favela como categoria. Em (d), a inversão é direta: o parcelamento legal é o que falta. Em (b), loteamentos irregulares aparecem em qualquer zona urbana. Em (c), os dois termos são urbanos por definição."
                      },
                      {
                          "id":  "geografia-47",
@@ -721,66 +721,66 @@
                      {
                          "id":  "geografia-48",
                          "texto_apoio":  "Cidades como Foz do Iguaçu (Brasil) e Ciudad del Este (Paraguai), separadas apenas pela fronteira internacional, formam o que a geografia chama de \u0027cidades-gêmeas fronteiriças\u0027.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esse tipo de conurbação internacional favorece, entre outros fenômenos:",
                          "alternativas":  {
-                                              "a":  "O fim da necessidade de qualquer controle aduaneiro entre os dois países, dada a simples proximidade física entre as duas cidades-gêmeas",
-                                              "b":  "A adoção de uma moeda comum nas áreas de fronteira, autorizada por acordo entre os países para facilitar o comércio local",
-                                              "c":  "Uma redução do fluxo de pessoas e mercadorias entre os dois lados, em razão da presença de duas moedas e legislações distintas",
-                                              "d":  "A fusão jurídica dos dois municípios em um único território soberano, administrado conjuntamente pelos dois países vizinhos",
-                                              "e":  "Intensos fluxos diários de trabalhadores, estudantes e consumidores entre os dois lados da fronteira, além de dinâmicas econômicas de fronteira"
+                                              "a":  "O fim da necessidade de controle aduaneiro entre os dois países vizinhos",
+                                              "b":  "A adoção de moeda comum na faixa de fronteira, por acordo entre os países",
+                                              "c":  "Uma redução do fluxo entre os dois lados, pela presença de moedas e leis distintas",
+                                              "d":  "A fusão jurídica dos dois municípios num território administrado em conjunto",
+                                              "e":  "Fluxos diários de trabalhadores, estudantes e consumidores entre os dois lados"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Cidades-gêmeas fronteiriças mantêm intensos fluxos cotidianos de pessoas, mercadorias e serviços através da fronteira, gerando dinâmicas econômicas integradas, sem que isso implique fusão jurídica dos municípios ou fim do controle aduaneiro. A existência de moedas distintas não impede, e frequentemente estimula, o comércio de fronteira entre as duas cidades.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A fronteira continua existindo no papel e deixa de organizar a vida cotidiana: mora-se de um lado, trabalha-se ou estuda-se do outro, e a diferença de preço e de câmbio vira, ela própria, motor de comércio. Em (c) está a inversão do fenômeno — a diferença entre moedas e legislações aumenta o fluxo em vez de reduzi-lo, porque cria a vantagem de atravessar. Em (a) e (d), controle aduaneiro e soberania municipal permanecem, já que a conurbação é urbana e não jurídica. Em (b), não há moeda comum, e é justamente a coexistência de duas que move o comércio local."
                      },
                      {
                          "id":  "geografia-49",
                          "texto_apoio":  "",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "A partir da década de 2010, o Brasil recebeu fluxos significativos de imigrantes haitianos e, posteriormente, venezuelanos, este último grupo sobretudo pela fronteira com Roraima. Esses movimentos migratórios foram motivados, entre outros fatores, por:",
                          "alternativas":  {
-                                              "a":  "A assinatura do Acordo de Residência do Mercosul, que passaria a garantir livre circulação a cidadãos haitianos e venezuelanos no Brasil",
-                                              "b":  "Uma campanha de recrutamento de mão de obra promovida por empresas brasileiras diretamente no Haiti e na Venezuela após os desastres locais",
-                                              "c":  "Um acordo bilateral entre Brasil e Venezuela que garantiu cidadania automática a venezuelanos que cruzassem a fronteira em Roraima a partir de 2010",
-                                              "d":  "Crises políticas, econômicas e humanitárias nos países de origem, como o terremoto no Haiti e o colapso econômico na Venezuela, que impulsionaram a migração",
-                                              "e":  "A busca por melhores condições climáticas por parte dos imigrantes, já que Roraima apresentaria clima semelhante ao caribenho de origem"
+                                              "a":  "A assinatura do Acordo de Residência do Mercosul, que garantiria livre circulação",
+                                              "b":  "Campanha de recrutamento de mão de obra por empresas brasileiras nos países de origem",
+                                              "c":  "Acordo bilateral que teria garantido cidadania automática a venezuelanos que cruzassem a fronteira",
+                                              "d":  "Crises políticas e humanitárias na origem, como o terremoto no Haiti e o colapso venezuelano",
+                                              "e":  "Busca por clima melhor, já que Roraima teria clima semelhante ao caribenho de origem"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A migração haitiana intensificou-se após o terremoto de 2010, enquanto a migração venezuelana decorreu do colapso econômico e da crise política no país, levando à busca por refúgio e melhores condições no Brasil. Não houve acordo de cidadania automática, nem campanha de recrutamento direto por empresas brasileiras, e a motivação central não foi climática.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "Os dois fluxos são de expulsão, não de atração: o terremoto de 2010 e a crise econômica venezuelana produziram deslocamentos que o Brasil recebeu por proximidade e por acolhida humanitária. Em (a) está o distrator mais informado, porque o Acordo de Residência do Mercosul existe e facilita a regularização — só que o Haiti não é signatário, e a Venezuela estava suspensa do bloco no período. Em (c), não houve concessão automática de cidadania. Em (b), não houve recrutamento organizado por empresas. Em (e), o clima não figura entre as causas documentadas desses fluxos."
                      },
                      {
                          "id":  "geografia-50",
                          "texto_apoio":  "",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Diante do grande fluxo de imigrantes venezuelanos concentrado em Roraima, o governo brasileiro implementou a chamada \u0027interiorização\u0027, por meio da Operação Acolhida. Essa política teve como principal objetivo:",
                          "alternativas":  {
-                                              "a":  "Restringir a permanência de imigrantes venezuelanos apenas ao estado de Roraima, impedindo seu deslocamento a outras unidades da federação",
-                                              "b":  "Redistribuir voluntariamente imigrantes venezuelanos para outros estados brasileiros, reduzindo a pressão sobre os serviços públicos de Roraima",
-                                              "c":  "Financiar o retorno definitivo dos imigrantes venezuelanos ao seu país de origem por meio de auxílio-viagem custeado pelo governo federal",
-                                              "d":  "Conceder automaticamente cidadania brasileira a todo imigrante venezuelano que aceitasse se mudar para outro estado da federação brasileira",
-                                              "e":  "Concentrar o atendimento aos imigrantes em abrigos federais instalados na faixa de fronteira, sem deslocamento para outros estados"
+                                              "a":  "Restringir a permanência dos imigrantes a Roraima, impedindo o deslocamento",
+                                              "b":  "Redistribuir voluntariamente imigrantes a outros estados, aliviando Roraima",
+                                              "c":  "Financiar o retorno definitivo dos imigrantes ao país de origem com auxílio",
+                                              "d":  "Conceder cidadania brasileira a quem aceitasse mudar para outro estado",
+                                              "e":  "Concentrar o atendimento em abrigos federais instalados na faixa de fronteira"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A Operação Acolhida, iniciada em 2018, buscou prestar assistência humanitária e promover a interiorização voluntária de imigrantes venezuelanos para outros estados, aliviando a sobrecarga sobre Roraima e ampliando as chances de inserção social e no mercado de trabalho. A política não restringiu a permanência a Roraima, não concedeu cidadania automática, nem teve como objetivo o retorno ao país de origem.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "Roraima é um estado pequeno recebendo um fluxo grande, e a interiorização atacou exatamente essa desproporção: transporte para outras unidades da federação, com vaga de acolhimento ou emprego na ponta, mediante adesão do próprio imigrante. Em (e) está o distrator mais forte, porque os abrigos de fronteira existem de fato e são a primeira etapa da operação — mas são o ponto de partida, e não o objetivo. Em (a), o programa facilita o deslocamento em vez de impedi-lo. Em (c), não se trata de retorno ao país de origem. Em (d), não há concessão automática de cidadania."
                      },
                      {
                          "id":  "geografia-51",
                          "texto_apoio":  "",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "A descoberta e exploração das reservas de petróleo do pré-sal, localizadas em águas profundas do litoral brasileiro, representou:",
                          "alternativas":  {
-                                              "a":  "Uma ampliação significativa das reservas provadas de petróleo do Brasil, reforçando seu papel de produtor relevante no cenário internacional",
-                                              "b":  "A viabilização da exportação de petróleo refinado em larga escala, com o país deixando de importar derivados a partir da década de 2010",
-                                              "c":  "A confirmação de que as reservas brasileiras de petróleo estavam concentradas exclusivamente na Bacia Amazônica",
-                                              "d":  "Uma redução da participação do petróleo na matriz energética brasileira, em favor de fontes renováveis e do gás natural",
-                                              "e":  "A descoberta de reservas de gás de xisto em substituição às reservas convencionais de petróleo do país, alterando a matriz energética"
+                                              "a":  "Ampliação das reservas provadas de petróleo, reforçando o país como produtor",
+                                              "b":  "A viabilização da exportação de petróleo refinado, com fim da importação de derivados",
+                                              "c":  "A confirmação de que as reservas brasileiras estão concentradas na Bacia Amazônica",
+                                              "d":  "Uma redução da participação do petróleo na matriz, em favor de renováveis e gás",
+                                              "e":  "A descoberta de gás de xisto em substituição às reservas convencionais do país"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O pré-sal corresponde a reservas de petróleo e gás natural em águas muito profundas do litoral brasileiro, cuja exploração ampliou significativamente as reservas provadas do país. Não se trata de gás de xisto, não reduziu a participação do petróleo na matriz energética (ao contrário, reforçou-a), e as reservas do pré-sal estão concentradas no litoral sudeste, não na Bacia Amazônica.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O pré-sal multiplicou as reservas provadas e colocou o Brasil entre os maiores produtores, com petróleo de boa qualidade extraído a milhares de metros abaixo de uma camada de sal. Em (b) está a distinção que a questão cobra: o país exporta óleo cru e segue importando derivados, porque a capacidade de refino não acompanhou a produção. Em (d), a participação do petróleo cresceu com o pré-sal. Em (c), as reservas estão na costa do Sudeste, e não na Bacia Amazônica. Em (e), gás de xisto é outra coisa, extraído em rocha continental por fraturamento."
                      },
                      {
                          "id":  "geografia-52",
@@ -865,34 +865,34 @@
                      {
                          "id":  "geografia-57",
                          "texto_apoio":  "",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "A produção brasileira de etanol a partir da cana-de-açúcar é apontada como um exemplo de:",
                          "alternativas":  {
-                                              "a":  "Combustível fóssil, obtido a partir da destilação de subprodutos do petróleo extraído no litoral brasileiro",
-                                              "b":  "Combustível de origem vegetal cuja queima não libera dióxido de carbono em nenhuma etapa do seu ciclo de uso",
-                                              "c":  "Biocombustível renovável, alternativo aos combustíveis fósseis, amplamente utilizado na frota de veículos flex",
-                                              "d":  "Fonte de energia utilizada exclusivamente na geração de eletricidade em usinas termelétricas a gás",
-                                              "e":  "Insumo cuja produção foi oficialmente proibida no Brasil após a popularização dos veículos elétricos"
+                                              "a":  "Combustível fóssil, obtido da destilação de subprodutos do petróleo brasileiro",
+                                              "b":  "Combustível de origem vegetal cuja queima não libera dióxido de carbono em etapa alguma",
+                                              "c":  "Biocombustível renovável, alternativo ao fóssil, usado na frota de veículos flex",
+                                              "d":  "Fonte usada apenas na geração de eletricidade em termelétricas a gás natural",
+                                              "e":  "Insumo cuja produção foi proibida no país após a chegada dos veículos elétricos"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O etanol produzido a partir da cana-de-açúcar é um biocombustível renovável, alternativo à gasolina, amplamente utilizado no Brasil, sobretudo após a popularização dos veículos flex. Não é um combustível fóssil, não se restringe à geração termelétrica de eletricidade, e sua produção não foi proibida com a chegada dos veículos elétricos.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O etanol é renovável porque a matéria-prima se replanta a cada safra, e a frota flex deu ao Brasil uma escala de uso que nenhum outro país alcançou. Em (b) está o erro mais fino: a queima do etanol libera dióxido de carbono como qualquer combustão — o que muda é o ciclo, já que a cana reabsorve na safra seguinte parte do carbono emitido. Em (a), etanol não vem do petróleo. Em (d), o uso principal é veicular, e o bagaço, quando gera eletricidade, é queimado em termelétrica a biomassa. Em (e), a produção segue crescendo."
                      },
                      {
                          "id":  "geografia-58",
                          "texto_apoio":  "",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "O chamado \u0027hidrogênio verde\u0027, produzido a partir da eletrólise da água utilizando energia renovável (como a eólica e a solar), tem sido apontado como uma tecnologia promissora para a transição energética porque:",
                          "alternativas":  {
-                                              "a":  "Pode ser utilizado como vetor energético em setores de difícil eletrificação, como a indústria pesada e o transporte marítimo, sem emitir carbono",
-                                              "b":  "É obtido como subproduto do refino de petróleo, o que reduz seu custo de produção em relação às demais rotas tecnológicas",
-                                              "c":  "Depende exclusivamente de reservas de gás natural para sua obtenção em escala industrial, dispensando o processo de eletrólise",
-                                              "d":  "Substitui integralmente a necessidade de qualquer fonte de energia elétrica em todos os setores da economia nacional e industrial",
-                                              "e":  "É produzido a partir da queima direta de carvão mineral em altas temperaturas, sem qualquer uso de eletricidade no processo"
+                                              "a":  "Serve como vetor energético em setores de difícil eletrificação, como a indústria pesada",
+                                              "b":  "É obtido como subproduto do refino de petróleo, o que reduz muito seu custo de produção",
+                                              "c":  "Depende de reservas de gás natural para a obtenção em escala, dispensando a eletrólise",
+                                              "d":  "Substitui a necessidade de energia elétrica em todos os setores da economia nacional",
+                                              "e":  "Resulta da queima direta de carvão mineral em altas temperaturas, sem uso de eletricidade"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O hidrogênio verde é obtido pela eletrólise da água usando eletricidade de fontes renováveis, sem emitir gases de efeito estufa, podendo ser usado em setores difíceis de eletrificar diretamente, como a indústria pesada e o transporte marítimo. Não substitui toda fonte elétrica, não decorre da queima de carvão, e não depende de gás natural para sua produção característica.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A eletricidade renovável resolve bem o que se pode eletrificar; o hidrogênio serve para o resto — siderurgia, fertilizantes, navegação de longo curso —, onde o calor intenso ou a densidade energética inviabilizam a bateria. Em (b) e (c) estão as rotas cinza e azul, produzidas a partir de combustível fóssil: são as tecnologias das quais o hidrogênio verde se distingue, e confundi-las é o erro que a questão testa. Em (d), o hidrogênio complementa a eletricidade e não a substitui, já que é produzido com ela. Em (e), a queima de carvão contraria a definição de verde."
                      },
                      {
                          "id":  "geografia-59",
@@ -1009,18 +1009,18 @@
                      {
                          "id":  "geografia-66",
                          "texto_apoio":  "",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Cientistas do clima costumam afirmar que eventos climáticos extremos isolados (como uma única onda de calor ou uma enchente específica) não podem ser atribuídos, de forma direta e simples, ao aquecimento global, mas que:",
                          "alternativas":  {
-                                              "a":  "O aquecimento global aumenta a probabilidade e a intensidade média de eventos extremos, mesmo que um evento isolado tenha múltiplas causas",
-                                              "b":  "Eventos extremos estão se tornando cada vez mais raros à medida que a temperatura média do planeta aumenta globalmente",
-                                              "c":  "A frequência de eventos extremos varia de forma aleatória, sem qualquer relação estatística com o aquecimento global",
-                                              "d":  "A ciência do clima relaciona o aquecimento apenas a médias de longo prazo, sem fazer inferências sobre eventos individuais",
-                                              "e":  "Todo evento climático extremo recente decorre exclusivamente do aquecimento global, sem qualquer outro fator meteorológico envolvido"
+                                              "a":  "O aquecimento aumenta a probabilidade e a intensidade média dos eventos extremos",
+                                              "b":  "Eventos extremos se tornam mais raros à medida que a temperatura média sobe",
+                                              "c":  "A frequência desses eventos varia ao acaso, sem relação com o aquecimento global",
+                                              "d":  "A ciência do clima trata apenas de médias, sem inferir nada sobre eventos individuais",
+                                              "e":  "Todo evento extremo recente decorre do aquecimento, sem outro fator meteorológico"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A relação entre um evento extremo isolado e o aquecimento global é estatística: o aquecimento aumenta a probabilidade e, em muitos casos, a intensidade média de eventos como ondas de calor e chuvas extremas ao longo do tempo, ainda que um evento específico possa ter múltiplas causas locais. Não é correto afirmar causa exclusiva, nem que eventos extremos estão ficando mais raros, nem que não há relação estatística alguma com o aquecimento.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A afirmação correta é probabilística: o aquecimento carrega os dados a favor do extremo, tornando certos eventos mais prováveis e mais intensos, sem que cada ocorrência tenha causa única. Em (d) está o distrator mais sofisticado e o mais errado por pouco — a ciência de atribuição justamente calcula quanto o aquecimento alterou a probabilidade de um evento específico, de modo que a cautela do enunciado não equivale a silêncio sobre casos individuais. Em (e) e (c) estão os dois excessos opostos, atribuir tudo e não atribuir nada. Em (b), a direção é contrária à observada."
                      },
                      {
                          "id":  "geografia-67",
@@ -1089,34 +1089,34 @@
                      {
                          "id":  "geografia-71",
                          "texto_apoio":  "",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Embora frequentemente associados, \u0027desmatamento\u0027 e \u0027queimada\u0027 não são sinônimos. A distinção entre esses dois conceitos está no fato de que:",
                          "alternativas":  {
-                                              "a":  "A queimada é sempre um fenômeno espontâneo da vegetação nativa, sem qualquer intervenção humana direta ou indireta local",
-                                              "b":  "Os dois processos ocorrem exclusivamente em biomas de vegetação rasteira, como o Cerrado e o Pampa gaúcho, nunca em florestas",
-                                              "c":  "O desmatamento só pode ser identificado por satélite quando acompanhado simultaneamente de queimada visível no mesmo local",
-                                              "d":  "A queimada corresponde à etapa que antecede a remoção mecânica da vegetação, sendo ambas fases de um mesmo processo produtivo",
-                                              "e":  "O desmatamento é a remoção completa da cobertura florestal, enquanto a queimada é o uso do fogo, que ocorre também em floresta ainda em pé"
+                                              "a":  "A queimada é fenômeno espontâneo da vegetação nativa, sem intervenção humana",
+                                              "b":  "Os dois processos ocorrem apenas em vegetação rasteira, como Cerrado e Pampa",
+                                              "c":  "O desmatamento só pode ser identificado por satélite quando acompanhado de queimada visível",
+                                              "d":  "A queimada antecede a remoção mecânica, sendo as duas fases de um mesmo processo",
+                                              "e":  "O desmatamento remove a cobertura florestal; a queimada é o uso do fogo, mesmo em pé"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O desmatamento é a remoção completa e geralmente definitiva da cobertura florestal; a queimada é o uso do fogo, que pode ocorrer em áreas já desmatadas (manejo de pastagens) ou, ilegalmente, para acelerar o próprio desmatamento de floresta em pé. Queimadas nem sempre são espontâneas (muitas são criminosas), o desmatamento pode ser monitorado por satélite mesmo sem queimada simultânea, e ambos os processos ocorrem também em florestas densas, como a Amazônia.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "São coisas que se cruzam sem coincidir: derrubar sem queimar acontece, e o fogo também avança por floresta de pé, degradando-a sem removê-la — daí a Amazônia registrar áreas queimadas maiores que as desmatadas em certos anos. Em (d) está o distrator mais forte, porque a sequência derruba-queima-planta é real na abertura de área; ela descreve um caso frequente, e não a distinção entre os conceitos. Em (a), a maior parte das queimadas brasileiras tem origem humana. Em (b), ambos ocorrem em floresta. Em (c), os sistemas do INPE detectam corte raso sem fogo."
                      },
                      {
                          "id":  "geografia-72",
                          "texto_apoio":  "Um gráfico de linhas mostra a taxa anual de desmatamento na Amazônia Legal brasileira (em km² desmatados por ano), medida pelo sistema de monitoramento do INPE, ao longo de 4 anos consecutivos: Ano 1: 10.000 km²; Ano 2: 8.000 km²; Ano 3: 7.000 km²; Ano 4: 9.000 km².",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Com base nesse gráfico, é correto afirmar que:",
                          "alternativas":  {
-                                              "a":  "A soma dos quatro anos supera 40.000 km², o que indica média anual acima de 10.000 km² no período analisado",
-                                              "b":  "O valor do Ano 3 (7.000 km²) representa o menor patamar de desmatamento já registrado na série histórica da Amazônia Legal",
-                                              "c":  "A queda registrada entre o Ano 1 e o Ano 3 garante que a tendência de redução do desmatamento se manterá nos anos seguintes",
-                                              "d":  "A área total de floresta desmatada ao longo desses 4 anos foi de 34.000 km², e houve novo aumento no Ano 4 após a redução até o Ano 3",
-                                              "e":  "A área de floresta amazônica aumentou ao longo desses 4 anos, já que todos os valores do gráfico são positivos"
+                                              "a":  "A soma dos quatro anos supera 40.000 km², com média anual acima de 10.000 km²",
+                                              "b":  "O Ano 3 representa o menor patamar já registrado na série histórica da Amazônia",
+                                              "c":  "A queda entre o Ano 1 e o Ano 3 garante que a redução se manterá nos anos seguintes",
+                                              "d":  "O total desmatado nos quatro anos foi de 34.000 km², com novo aumento no Ano 4",
+                                              "e":  "A área de floresta aumentou no período, já que todos os valores são positivos"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Somando os valores anuais: 10.000+8.000+7.000+9.000=34.000 km² de área desmatada. Embora a taxa tenha caído do Ano 1 ao Ano 3, ela voltou a subir no Ano 4, mostrando que uma tendência recente de queda não garante continuidade — o que invalida a alternativa que assume continuidade automática da tendência. O gráfico mostra desmatamento positivo em todos os anos, não crescimento florestal, e nada nos dados apresentados permite afirmar que o Ano 3 é o menor valor de toda a série histórica, apenas dessa amostra de 4 anos.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "Somando 10.000, 8.000, 7.000 e 9.000 chega-se a 34.000 km², e a série sobe de novo no último ano, depois de dois anos de queda. Em (e) está o erro de leitura que a questão testa: a taxa é de área desmatada por ano, de modo que valor positivo significa floresta perdida, e não ganha — só um valor zero interromperia a perda. Em (a), a soma é 34.000 e a média, 8.500. Em (b), o gráfico traz quatro anos e não autoriza afirmação sobre a série histórica. Em (c), tendência observada não garante comportamento futuro, como o próprio Ano 4 demonstra."
                      },
                      {
                          "id":  "geografia-73",
@@ -1137,50 +1137,50 @@
                      {
                          "id":  "geografia-74",
                          "texto_apoio":  "",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Cientistas climáticos alertam para o risco de a Amazônia atingir um \u0027ponto de não retorno\u0027 (tipping point), a partir do qual grande parte da floresta poderia se transformar irreversivelmente em um ecossistema semelhante a uma savana. Esse cenário está associado, sobretudo, a:",
                          "alternativas":  {
-                                              "a":  "Um ciclo natural e cíclico de savanização que independe totalmente do nível de desmatamento e ocorre a cada poucos séculos",
-                                              "b":  "Uma mudança plenamente reversível em curto prazo, bastando a suspensão do desmatamento por um único ano, desde que não haja novos focos na região",
-                                              "c":  "Um patamar de desmatamento e degradação florestal que comprometeria a capacidade da floresta de reciclar umidade suficiente para manter seu próprio regime de chuvas",
-                                              "d":  "Um processo que afetaria exclusivamente a fauna da região, sem qualquer relação com o regime de chuvas ou a vegetação",
-                                              "e":  "Um limite de temperatura média global definido pelo Acordo de Paris, a partir do qual a floresta perderia proteção jurídica"
+                                              "a":  "Um ciclo natural de savanização que ocorre a cada poucos séculos, independente do desmatamento",
+                                              "b":  "Uma mudança reversível em curto prazo, bastando suspender o desmatamento por um ano",
+                                              "c":  "Um patamar de desmatamento que comprometeria a reciclagem de umidade pela própria floresta",
+                                              "d":  "Um processo restrito à fauna da região, sem relação com o regime de chuvas ou a vegetação",
+                                              "e":  "Um limite de temperatura fixado no Acordo de Paris, além do qual cessa a proteção jurídica"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O ponto de não retorno da Amazônia refere-se a um limiar de desmatamento a partir do qual a floresta perderia sua capacidade de reciclar umidade suficiente para sustentar seu próprio regime de chuvas, desencadeando um ciclo autoperpetuado de savanização. Não é um ciclo natural independente do desmatamento, não afeta apenas a fauna, e sua reversão, caso ultrapassado o limiar, não seria simples nem rápida.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A floresta produz boa parte da própria chuva pela evapotranspiração; abaixo de certa área contínua, esse ciclo deixa de se sustentar e o clima local seca por conta própria — daí a irreversibilidade. Em (b) está a leitura que o conceito de tipping point exclui: passado o limiar, retirar a pressão não devolve o sistema ao estado anterior. Em (a), a savanização em causa é induzida pelo desmatamento, não cíclica. Em (d), a mudança é da vegetação e do regime de chuvas, com a fauna sofrendo por consequência. Em (e), o limiar é ecológico e físico, não uma cláusula jurídica."
                      },
                      {
                          "id":  "geografia-75",
                          "texto_apoio":  "",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "A poluição do ar em grandes centros urbanos, causada principalmente pela emissão de gases por veículos automotores e indústrias, está associada a:",
                          "alternativas":  {
-                                              "a":  "Uma redução da incidência de doenças infecciosas, já que os poluentes atmosféricos inibiriam a proliferação de vetores urbanos",
-                                              "b":  "Um fenômeno restrito a cidades de clima frio, sem relevância em centros urbanos de clima tropical",
-                                              "c":  "Aumento de doenças respiratórias e cardiovasculares na população exposta, além de contribuir para o efeito estufa e o aquecimento global",
-                                              "d":  "Uma redução da temperatura média das cidades, já que partículas em suspensão bloqueiam parte da radiação solar durante todo o ano",
-                                              "e":  "Uma melhoria geral da qualidade do ar em áreas centrais, em comparação às áreas rurais adjacentes"
+                                              "a":  "Redução das doenças infecciosas, já que os poluentes inibiriam vetores urbanos",
+                                              "b":  "Fenômeno restrito a cidades de clima frio, sem relevância em clima tropical",
+                                              "c":  "Aumento de doenças respiratórias e cardiovasculares, além de agravar o efeito estufa",
+                                              "d":  "Redução da temperatura média das cidades, já que as partículas em suspensão bloqueiam a radiação",
+                                              "e":  "Melhoria geral da qualidade do ar nas áreas centrais em relação às áreas rurais"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A poluição atmosférica urbana está associada ao aumento de doenças respiratórias e cardiovasculares, além de conter gases de efeito estufa que contribuem para o aquecimento global. O efeito de resfriamento por aerossóis é local e temporário, não um padrão geral; a qualidade do ar em centros urbanos costuma ser pior, não melhor, do que em áreas rurais; e o problema afeta cidades de clima tropical tanto quanto as de clima frio.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O material particulado fino atinge as vias respiratórias e a corrente sanguínea, elevando internações por asma, bronquite e eventos cardíacos, e parte dos gases emitidos é a mesma que intensifica o efeito estufa. Em (d) está o distrator com mais fundo de verdade: partículas em suspensão de fato refletem radiação e podem produzir resfriamento regional, mas na cidade prevalece a ilha de calor, e o efeito líquido é de aquecimento. Em (a), poluição não reduz doença infecciosa. Em (b), o fenômeno é intenso em metrópoles tropicais. Em (e), o ar central costuma ser pior que o rural."
                      },
                      {
                          "id":  "geografia-76",
                          "texto_apoio":  "Dados aproximados do Sistema Nacional de Informações sobre Saneamento (SNIS) indicam que, embora a cobertura de abastecimento de água tratada no Brasil ultrapasse 85% da população, a cobertura de coleta de esgoto é significativamente menor, ficando perto de 55% da população, com disparidades regionais ainda maiores.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Considerando esses dados aproximados, é correto afirmar que:",
                          "alternativas":  {
-                                              "a":  "O avanço do esgoto depende apenas de investimento municipal, enquanto o da água tratada é atribuição federal, o que explicaria a diferença observada",
-                                              "b":  "O Brasil apresenta uma defasagem histórica maior no saneamento de esgoto do que no abastecimento de água tratada, o que resulta em impactos ambientais e sanitários relevantes",
-                                              "c":  "As disparidades regionais de saneamento se distribuem de forma idêntica entre todos os estados brasileiros, sem qualquer variação, sobretudo nos estados do Norte e Nordeste",
-                                              "d":  "A cobertura de coleta de esgoto no Brasil é maior do que a de abastecimento de água tratada em todas as regiões do país, sobretudo nas regiões metropolitanas",
-                                              "e":  "A cobertura de água tratada e a de esgoto avançam sempre no mesmo ritmo, já que dependem da mesma rede de tubulação, ainda que exijam fontes de financiamento distintas"
+                                              "a":  "O avanço do esgoto depende do município e o da água, da União, o que explicaria a diferença",
+                                              "b":  "A defasagem histórica é maior no esgoto do que no abastecimento de água tratada",
+                                              "c":  "As disparidades regionais se distribuem de forma idêntica entre todos os estados",
+                                              "d":  "A cobertura de coleta de esgoto supera a de água tratada em todas as regiões",
+                                              "e":  "As duas coberturas avançam no mesmo ritmo, já que dependem da mesma tubulação"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Os dados evidenciam uma defasagem histórica maior no saneamento de esgoto em comparação ao abastecimento de água tratada, contribuindo para contaminação de corpos d\u0027água e doenças de veiculação hídrica. A cobertura de esgoto é, na verdade, menor que a de água (não maior), há disparidades regionais expressivas (não distribuição idêntica), e as duas redes não avançam necessariamente no mesmo ritmo, já que exigem investimentos e tecnologias distintas.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "Os números do enunciado dizem isso diretamente: mais de 85% contra cerca de 55%, uma diferença de trinta pontos que se traduz em esgoto lançado sem tratamento em rios e praias. Em (a) está o distrator mais plausível, porque a divisão de competências é assunto real do setor — mas água e esgoto são ambos serviços de titularidade municipal, e a alternativa inventa uma repartição que não existe. Em (d) e (c), os dados são invertidos e a homogeneidade é negada pelo próprio enunciado. Em (e), o descompasso de ritmo é exatamente o que os números mostram."
                      },
                      {
                          "id":  "geografia-77",
@@ -1201,18 +1201,18 @@
                      {
                          "id":  "geografia-78",
                          "texto_apoio":  "O Código Florestal brasileiro estabelece a exigência de manutenção de uma parcela de vegetação nativa em propriedades rurais, conhecida como Reserva Legal, cujo percentual mínimo varia conforme o bioma e a localização do imóvel.",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Esse instrumento tem como principal objetivo:",
                          "alternativas":  {
-                                              "a":  "Assegurar que a vegetação nativa remanescente seja convertida em unidades de conservação de proteção integral",
-                                              "b":  "Restringir a atividade agropecuária a propriedades de até um módulo fiscal, vedando-a em imóveis de maior porte, independentemente do bioma em que estejam situadas",
-                                              "c":  "Aplicar exatamente o mesmo percentual mínimo de vegetação nativa em todos os biomas do país, independentemente da localização do imóvel",
-                                              "d":  "Conciliar o uso produtivo da terra pelos proprietários rurais com a conservação de parte da vegetação nativa, equilibrando produção agropecuária e proteção ambiental",
-                                              "e":  "Transferir automaticamente a propriedade das áreas de Reserva Legal para o patrimônio da União, medida prevista para áreas de preservação permanente"
+                                              "a":  "Assegurar que a vegetação nativa remanescente vire unidade de conservação de proteção integral",
+                                              "b":  "Restringir a atividade agropecuária a imóveis de até um módulo fiscal",
+                                              "c":  "Aplicar o mesmo percentual mínimo em todos os biomas, seja qual for o local",
+                                              "d":  "Conciliar o uso produtivo da terra com a conservação de parte da vegetação nativa",
+                                              "e":  "Transferir as áreas de Reserva Legal para o patrimônio da União automaticamente"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A Reserva Legal exige a manutenção de vegetação nativa dentro das propriedades rurais, com percentuais que variam conforme o bioma, buscando conciliar produção com conservação. O percentual não é idêntico em todos os biomas (é maior na Amazônia Legal, por exemplo), a área de Reserva Legal permanece de propriedade do titular do imóvel, e o instrumento não veda a atividade agropecuária em grandes propriedades, apenas exige a reserva de parte da área.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "A Reserva Legal é um arranjo de convivência: a terra continua privada e produtiva, e uma fração dela permanece com vegetação nativa, podendo inclusive admitir manejo sustentável. Em (a) está o distrator mais próximo, porque também protege vegetação — mas unidade de conservação de proteção integral é área pública, com uso indireto, e a Reserva Legal não muda a titularidade nem o regime do imóvel. Em (e), a propriedade segue do particular. Em (c), o enunciado registra que o percentual varia conforme bioma e localização. Em (b), não há restrição por tamanho do imóvel."
                      },
                      {
                          "id":  "geografia-79",
@@ -1233,18 +1233,18 @@
                      {
                          "id":  "geografia-80",
                          "texto_apoio":  "O Porto de Santos (SP) é o maior porto da América Latina em movimentação de cargas, respondendo por parcela expressiva das exportações brasileiras, incluindo commodities agrícolas como soja e açúcar.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "A centralidade do Porto de Santos na logística de exportação brasileira evidencia, sobretudo, um desafio estrutural da economia do país, relacionado a:",
                          "alternativas":  {
-                                              "a":  "A concentração de grande parte do fluxo logístico de exportação em poucos portos, o que pode gerar congestionamentos e elevar custos para produtores distantes do litoral",
-                                              "b":  "A ausência completa de outros portos de grande porte no litoral brasileiro além de Santos, ainda que o Brasil tenha extenso litoral navegável",
-                                              "c":  "A vantagem competitiva de concentrar a exportação em poucos terminais, o que reduziria o custo unitário de operação portuária",
-                                              "d":  "A exclusividade do Porto de Santos na exportação de produtos industrializados, sem qualquer participação de commodities agrícolas em sua movimentação",
-                                              "e":  "Uma distribuição já equilibrada do fluxo de exportação entre os portos das cinco regiões brasileiras, modelo distinto do observado em países como os EUA"
+                                              "a":  "A concentração do fluxo de exportação em poucos portos, que eleva custos e gera gargalos",
+                                              "b":  "A ausência de outros portos de grande porte no litoral brasileiro fora de Santos",
+                                              "c":  "A vantagem de concentrar a exportação em poucos terminais, o que reduziria o custo unitário",
+                                              "d":  "A exclusividade de Santos na exportação de industrializados, sem commodities agrícolas",
+                                              "e":  "Uma distribuição já equilibrada do fluxo entre os portos das cinco regiões brasileiras"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A forte concentração do fluxo de exportação em poucos portos, como Santos, evidencia um desafio logístico: produtores distantes do litoral, como os do Centro-Oeste, enfrentam longos percursos até os portos, elevando custos. Santos não é exclusivo de industrializados (movimenta grande volume de commodities agrícolas), o fluxo logístico brasileiro está longe de equilibrado entre regiões, e existem outros portos relevantes, como os do Arco Norte.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O problema não é Santos ser grande, e sim a malha depender demais dele: o produtor do Centro-Oeste roda mais de mil quilômetros de caminhão até o litoral, e o gargalo do corredor vira custo embutido em cada saca. Em (c) está o distrator mais interessante, porque a economia de escala portuária é real — o que a alternativa ignora é o custo do transporte interno, que cresce mais do que a escala economiza. Em (b), há outros portos grandes, como Paranaguá e Itaqui. Em (d), Santos movimenta sobretudo commodities. Em (e), o equilíbrio entre regiões é justamente o que não existe."
                      },
                      {
                          "id":  "geografia-81",
@@ -1345,18 +1345,18 @@
                      {
                          "id":  "geografia-87",
                          "texto_apoio":  "",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "O conceito de \u0027agronegócio\u0027, usado pela geografia econômica, refere-se não apenas à produção agropecuária em si, mas também:",
                          "alternativas":  {
-                                              "a":  "Exclusivamente às atividades de agricultura familiar de subsistência, sem relação com grandes cadeias produtivas, realidade que descreve apenas uma pequena parte do setor",
-                                              "b":  "Ao conjunto de atividades que envolvem, além da produção no campo, os setores de insumos, processamento industrial, armazenamento, transporte e distribuição dos produtos agropecuários",
-                                              "c":  "Unicamente ao segmento financeiro que negocia contratos futuros de commodities agrícolas em bolsas de valores, conforme ocorre em algumas bolsas internacionais",
-                                              "d":  "Apenas à exportação de produtos agrícolas in natura, sem qualquer etapa de processamento industrial, prática típica de economias exportadoras de commodities",
-                                              "e":  "Ao conjunto das propriedades rurais com área superior a quinze módulos fiscais, independentemente da atividade nelas desenvolvida"
+                                              "a":  "Às atividades de agricultura familiar de subsistência, fora das grandes cadeias",
+                                              "b":  "Ao conjunto que inclui insumos, processamento, armazenamento, transporte e distribuição",
+                                              "c":  "Ao segmento financeiro que negocia contratos futuros de commodities em bolsa",
+                                              "d":  "À exportação de produtos agrícolas in natura, sem etapa de processamento industrial",
+                                              "e":  "Às propriedades rurais com área superior a quinze módulos fiscais, seja qual for a atividade"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O conceito de agronegócio abrange toda a cadeia produtiva relacionada à agropecuária, do fornecimento de insumos ao processamento, armazenamento, transporte e distribuição. Não se limita à exportação in natura sem processamento, não se restringe à agricultura familiar de subsistência, e vai muito além do segmento financeiro de contratos futuros, que é apenas uma faceta do setor.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O conceito é de cadeia: o que acontece antes da porteira (semente, fertilizante, máquina) e depois dela (esmagamento, armazém, ferrovia, exportação) pesa tanto quanto a lavoura, e é essa integração que o termo nomeia. Em (c) e (d) estão dois elos verdadeiros da cadeia apresentados como se fossem o todo — o mercado futuro e a exportação in natura existem, mas reduzir o agronegócio a qualquer um deles perde a definição. Em (e), o tamanho da propriedade é critério fundiário, de outra classificação. Em (a), a agricultura familiar é justamente o termo de contraste."
                      },
                      {
                          "id":  "geografia-88",
@@ -1425,18 +1425,18 @@
                      {
                          "id":  "geografia-92",
                          "texto_apoio":  "Um gráfico mostra a evolução da produção de grãos no Brasil entre duas décadas: a área plantada cresceu 40%, enquanto a produção total de grãos cresceu 150% no mesmo período.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "A partir desses dados, é correto concluir que o principal fator explicativo do crescimento da produção de grãos no Brasil nesse período foi:",
                          "alternativas":  {
-                                              "a":  "Principalmente o ganho de produtividade por hectare (mais grãos produzidos na mesma área), já que a produção cresceu proporcionalmente muito mais do que a área plantada",
-                                              "b":  "Principalmente a incorporação de novas áreas de plantio, já que a produtividade por hectare teria permanecido estável no período",
-                                              "c":  "Um erro de medição do IBGE, já que produção e área plantada deveriam crescer sempre na mesma proporção",
-                                              "d":  "Exclusivamente a expansão da área plantada, já que todo aumento de produção agrícola decorre apenas do tamanho da área cultivada, padrão repetido em todas as safras",
-                                              "e":  "Uma redução da área plantada, compensada por uma importação recorde de grãos nesse período"
+                                              "a":  "O ganho de produtividade por hectare, já que a produção cresceu mais que a área",
+                                              "b":  "A incorporação de novas áreas, com produtividade por hectare estável no período",
+                                              "c":  "Um erro de medição, já que produção e área deveriam crescer na mesma proporção",
+                                              "d":  "A expansão da área plantada, já que o aumento decorre do tamanho da área cultivada",
+                                              "e":  "Uma redução da área plantada, compensada por importação recorde de grãos"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Se a área plantada cresceu 40% e a produção 150%, o crescimento não pode ser explicado apenas pela expansão da área — decorre principalmente do aumento de produtividade por hectare, via melhoramento genético, fertilizantes e técnicas mais avançadas. Produção e área não crescem necessariamente na mesma proporção (não há erro de medição nisso), e os dados não mencionam redução de área nem importação de grãos.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "Área subiu 40% e produção 150%: se cada hectare rendesse o mesmo de antes, a produção teria crescido também 40%, e o excedente só pode vir de mais grão colhido no mesmo espaço. Em (b) e (d) está a mesma leitura, que atribui tudo à área e é aritmeticamente incompatível com a diferença entre os dois percentuais. Em (c), não há erro: produção e área crescerem em proporções distintas é o esperado quando a produtividade muda. Em (e), a área cresceu, e o Brasil é exportador líquido de grãos no período."
                      },
                      {
                          "id":  "geografia-93",
@@ -1601,34 +1601,34 @@
                      {
                          "id":  "geografia-103",
                          "texto_apoio":  "",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "O conceito de \u0027bônus demográfico\u0027 refere-se a um período em que:",
                          "alternativas":  {
-                                              "a":  "Toda a população de um país passa a estar em idade ativa, sem a presença de nenhuma criança ou idoso na pirâmide etária, hipótese incompatível com qualquer pirâmide real",
-                                              "b":  "A população total do país cresce em ritmo acelerado, ampliando simultaneamente todas as faixas etárias da pirâmide",
-                                              "c":  "A proporção de pessoas em idade ativa é proporcionalmente maior em relação à população dependente, o que pode favorecer o crescimento econômico se acompanhado de investimentos adequados",
-                                              "d":  "A população de um país entra necessariamente em declínio absoluto, independentemente de sua estrutura etária, cenário observado em países de fecundidade elevada",
-                                              "e":  "A proporção de crianças e idosos supera, de forma permanente e crescente, a proporção de pessoas em idade ativa"
+                                              "a":  "Toda a população passa a estar em idade ativa, sem crianças nem idosos",
+                                              "b":  "A população total do país cresce em ritmo acelerado, ampliando todas as faixas etárias da pirâmide",
+                                              "c":  "A proporção em idade ativa supera a de dependentes, o que pode favorecer o crescimento",
+                                              "d":  "A população entra em declínio absoluto, independentemente da estrutura etária",
+                                              "e":  "A proporção de crianças e idosos supera de forma crescente a de pessoas em idade ativa"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O bônus demográfico é o período em que a proporção de pessoas em idade ativa é maior em relação à população dependente, criando uma janela de oportunidade para o crescimento econômico, se acompanhada de investimentos adequados. Não implica ausência total de crianças e idosos, não corresponde a um cenário de predomínio permanente da população dependente, e não implica declínio populacional absoluto.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O bônus é uma relação, não um tamanho: com a fecundidade já em queda e o envelhecimento ainda por vir, a fatia em idade de trabalhar fica temporariamente maior que a de dependentes. Em (b) está a confusão mais comum — crescimento populacional acelerado não é bônus, e o bônus surge justamente quando o crescimento desacelera. Em (e), o quadro descrito é o posterior, de envelhecimento. Em (d), declínio absoluto é outro fenômeno. Em (a), nenhuma pirâmide etária real elimina crianças e idosos."
                      },
                      {
                          "id":  "geografia-104",
                          "texto_apoio":  "O Brasil atravessou, nas últimas décadas, seu período de bônus demográfico, com elevada proporção de população em idade ativa.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Entretanto, estudiosos alertam que esse bônus demográfico:",
                          "alternativas":  {
-                                              "a":  "Garante, por si só, crescimento econômico automático e duradouro, independentemente de investimentos em educação ou emprego",
-                                              "b":  "Representa apenas uma janela de oportunidade temporária, que precisa ser aproveitada por meio de investimentos em educação, qualificação profissional e geração de empregos",
-                                              "c":  "Tende a se manter de forma permanente uma vez alcançado, já que decorre da estrutura etária consolidada do país",
-                                              "d":  "Já se encerrou definitivamente no Brasil na década de 1980, muito antes do início da transição demográfica avançada do país",
-                                              "e":  "É um fenômeno permanente, que se repete identicamente a cada geração, sem qualquer relação com a estrutura etária, equívoco comum antes da transição demográfica"
+                                              "a":  "Garante crescimento econômico automático, independentemente de investimento em educação",
+                                              "b":  "É janela temporária, que precisa ser aproveitada com educação, qualificação e emprego",
+                                              "c":  "Tende a se manter de forma permanente, já que decorre da estrutura etária consolidada",
+                                              "d":  "Já se encerrou no Brasil na década de 1980, antes da transição demográfica avançada",
+                                              "e":  "É fenômeno permanente, que se repete a cada geração, sem relação com a estrutura etária"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O bônus demográfico não garante, por si só, desenvolvimento econômico: é uma janela temporária que depende de políticas públicas adequadas, sob risco de o país \u0027envelhecer antes de enriquecer\u0027. Ele não é permanente nem se repete identicamente, e no Brasil seu período mais favorável já está em processo de estreitamento nas décadas recentes, não encerrado desde os anos 1980.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A janela se fecha sozinha: a mesma queda de fecundidade que a abriu produz, décadas depois, uma população idosa numerosa, e o ganho só se converte em renda se houver escolaridade e emprego enquanto ela está aberta. Em (a) está o alerta invertido — o bônus é oportunidade, não garantia, e países que não investiram envelheceram sem enriquecer. Em (c) e (e), a permanência contraria a própria dinâmica etária que define o fenômeno. Em (d), o bônus brasileiro se estendeu bem além dos anos 1980 e se encerra por volta desta década."
                      },
                      {
                          "id":  "geografia-105",
@@ -1713,18 +1713,18 @@
                      {
                          "id":  "geografia-110",
                          "texto_apoio":  "",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "O aumento da frequência e intensidade de enchentes em diversas cidades brasileiras, mesmo em episódios de chuva que não seriam considerados excepcionais décadas atrás, está relacionado, entre outros fatores, a:",
                          "alternativas":  {
-                                              "a":  "Uma redução comprovada e generalizada do volume total de chuvas nas regiões metropolitanas brasileiras nas últimas décadas",
-                                              "b":  "A impermeabilização crescente do solo urbano (por asfalto e construções), a ocupação de áreas de várzea e encostas, e a insuficiência ou obstrução dos sistemas de drenagem urbana",
-                                              "c":  "Uma queda na taxa de urbanização das grandes cidades brasileiras, que reduziu a manutenção dos sistemas de drenagem existentes, tendência observada apenas no interior",
-                                              "d":  "Um aumento da vegetação nativa em áreas urbanas, que passou a reter água em excesso e a sobrecarregar a drenagem",
-                                              "e":  "O aumento isolado do volume de chuvas nas últimas décadas, sem relação com a forma de ocupação do solo urbano"
+                                              "a":  "Redução comprovada do volume total de chuvas nas regiões metropolitanas brasileiras",
+                                              "b":  "Impermeabilização do solo, ocupação de várzeas e encostas e drenagem insuficiente",
+                                              "c":  "Queda na taxa de urbanização das grandes cidades, que reduziu a manutenção da drenagem",
+                                              "d":  "Aumento da vegetação nativa nas cidades, que passou a reter água e sobrecarregar a rede",
+                                              "e":  "Aumento isolado do volume de chuvas, sem relação com a forma de ocupação do solo urbano"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A impermeabilização do solo urbano, a ocupação de várzeas e encostas e a insuficiência de drenagem reduzem a capacidade das cidades de absorver e escoar a água da chuva, tornando as enchentes mais frequentes. Não houve redução geral do volume de chuvas, o problema não decorre de excesso de vegetação (que ajudaria a absorver água), e a taxa de urbanização das grandes cidades brasileiras não está em queda.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A chave está no enunciado: a chuva não precisou aumentar para a enchente piorar. Asfalto e telhado impedem a infiltração, a várzea que armazenaria a cheia virou bairro, e o que sobra escoa para uma rede subdimensionada. Em (e) está o distrator mais tentador, porque eventos extremos realmente têm se intensificado — mas atribuir tudo à chuva ignora que a mesma precipitação de antes hoje alaga. Em (a) e (c), redução de chuva e queda de urbanização não se verificam. Em (d), a vegetação urbana favorece a infiltração e reduz o escoamento."
                      },
                      {
                          "id":  "geografia-111",
@@ -1745,18 +1745,18 @@
                      {
                          "id":  "geografia-112",
                          "texto_apoio":  "Uma tabela comparativa apresenta dados aproximados de dois municípios hipotéticos: Município X, com 90% de cobertura de saneamento básico, registrou 5 casos de doenças de veiculação hídrica por 10 mil habitantes no ano; Município Y, com 40% de cobertura de saneamento básico, registrou 45 casos de doenças de veiculação hídrica por 10 mil habitantes no mesmo ano.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Com base nesses dados, qual conclusão é mais adequada do ponto de vista da geografia da saúde?",
                          "alternativas":  {
-                                              "a":  "Os dados de dois municípios isolados provam, de forma definitiva e sem exceção, uma relação de causa e efeito entre saneamento e saúde, conclusão amplamente aceita pela literatura epidemiológica atual",
-                                              "b":  "A diferença expressiva na incidência de doenças (9 vezes maior no Município Y) é consistente com a hipótese de que a menor cobertura de saneamento básico está associada a maior risco de doenças de veiculação hídrica",
-                                              "c":  "O Município X tem cobertura de saneamento pior do que o Município Y, já que registrou um número absoluto menor de casos",
-                                              "d":  "A diferença observada decorre apenas do acaso amostral, não sendo possível relacioná-la às condições de saneamento",
-                                              "e":  "A diferença de 40 casos entre os municípios não tem qualquer relevância estatística ou sanitária"
+                                              "a":  "Os dados de dois municípios isolados provam de forma definitiva uma relação de causa e efeito",
+                                              "b":  "A diferença de nove vezes é consistente com a hipótese de associação entre os dois fatores",
+                                              "c":  "O Município X tem cobertura pior, já que registrou número absoluto menor de casos",
+                                              "d":  "A diferença observada decorre do acaso, sem relação com as condições de saneamento",
+                                              "e":  "A diferença de 40 casos por 10 mil habitantes não tem relevância sanitária alguma"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A incidência de doenças no Município Y é 45÷5=9 vezes maior que no Município X, o que é consistente com a associação, documentada pela geografia da saúde, entre menor cobertura de saneamento e maior risco de doenças hídricas, sem que isso configure prova definitiva e universal de causalidade (fatores socioeconômicos também influenciam). A cobertura do Município X é maior, não menor, e a diferença de 40 casos por 10 mil habitantes é estatisticamente relevante, não desprezível.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A formulação prudente é a correta: dois municípios sustentam uma associação compatível com a hipótese, e não uma demonstração de causalidade, que exigiria controlar renda, densidade e acesso a serviço de saúde. Em (a) está o excesso simétrico ao de (d) — um conclui causa a partir de dois pontos, o outro descarta qualquer relação diante de uma diferença de nove vezes, e ambos erram na calibragem da inferência. Em (c), a leitura inverte os dados. Em (e), quarenta casos por dez mil habitantes é diferença sanitariamente expressiva."
                      },
                      {
                          "id":  "geografia-113",
@@ -1777,34 +1777,34 @@
                      {
                          "id":  "geografia-114",
                          "texto_apoio":  "A Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010) instituiu o conceito de \u0027logística reversa\u0027 e de \u0027responsabilidade compartilhada pelo ciclo de vida dos produtos\u0027.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Esses conceitos estabelecem que:",
                          "alternativas":  {
-                                              "a":  "A responsabilidade pelo destino final dos resíduos cabe ao poder público municipal, sem obrigações para fabricantes e comerciantes",
-                                              "b":  "Apenas o consumidor final é legalmente responsável pela destinação adequada de qualquer resíduo que produza, isentando fabricantes e distribuidores, interpretação equivocada que ainda hoje gera controvérsia entre especialistas",
-                                              "c":  "Fabricantes, importadores, distribuidores, comerciantes, consumidores e o poder público compartilham responsabilidades quanto ao ciclo de vida dos produtos, incluindo o retorno de resíduos às empresas para reaproveitamento ou descarte adequado",
-                                              "d":  "Compete unicamente ao poder público municipal arcar com todos os custos de destinação final de qualquer resíduo gerado no país, leitura que contraria o princípio da responsabilidade compartilhada",
-                                              "e":  "A logística reversa se aplica somente a resíduos orgânicos, não incluindo pilhas, eletrônicos ou embalagens, engano frequente sobre o alcance real da norma"
+                                              "a":  "A responsabilidade pelo destino final cabe ao município, sem obrigação para fabricantes",
+                                              "b":  "Apenas o consumidor final responde pela destinação do resíduo que produz",
+                                              "c":  "Fabricantes, comerciantes, consumidores e poder público compartilham responsabilidades",
+                                              "d":  "Compete ao município arcar com todos os custos de destinação final dos resíduos do país",
+                                              "e":  "A logística reversa se aplica a resíduos orgânicos, não a pilhas, eletrônicos ou embalagens"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A Política Nacional de Resíduos Sólidos estabelece responsabilidade compartilhada entre fabricantes, importadores, distribuidores, comerciantes, consumidores e poder público, incluindo a logística reversa de itens como pilhas, eletrônicos e embalagens. A responsabilidade não recai apenas sobre o consumidor, a logística reversa se aplica especialmente a resíduos não orgânicos, como os citados, e o custo não é assumido isoladamente pelo poder público municipal.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A lei distribui a responsabilidade ao longo da cadeia e cria o caminho de volta: o produto retorna ao fabricante ou ao importador para reaproveitamento ou descarte adequado, e o consumidor participa entregando-o nos pontos de recolhimento. Em (a) e (d) está a mesma leitura antiga, de que lixo é problema exclusivo da prefeitura, e é justamente o que a norma alterou. Em (b), o consumidor tem deveres, não a responsabilidade inteira. Em (e), a inversão é completa: pilhas, eletrônicos, pneus, óleos e embalagens são precisamente os grupos sujeitos à logística reversa."
                      },
                      {
                          "id":  "geografia-115",
                          "texto_apoio":  "",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Embora o agronegócio de grandes propriedades seja o principal responsável pelas exportações agrícolas brasileiras, estudos apontam que a agricultura familiar tem papel central em outro aspecto da produção agropecuária nacional, relacionado, sobretudo, a:",
                          "alternativas":  {
-                                              "a":  "Produção majoritária das commodities agrícolas exportadas pelo país, como soja e milho destinados ao mercado externo",
-                                              "b":  "Domínio do mercado de commodities financeiras negociadas em bolsas de valores internacionais, papel majoritariamente exercido pelo agronegócio de grande escala",
-                                              "c":  "Exportação da maior parte dos grãos produzidos no país, como soja e milho, atividade em que supera o agronegócio de grande escala, segundo dados recentes do setor",
-                                              "d":  "Produção de significativa parcela dos alimentos que abastecem o mercado interno brasileiro, como frutas, verduras, legumes, feijão e boa parte da produção leiteira",
-                                              "e":  "Concentração da produção mineral do país, sobretudo minério de ferro e nióbio, atividade concentrada em grandes empresas de mineração"
+                                              "a":  "Produção majoritária das commodities exportadas, como soja e milho",
+                                              "b":  "Domínio do mercado de commodities financeiras negociadas em bolsas internacionais",
+                                              "c":  "Exportação da maior parte dos grãos produzidos no país, superando o agronegócio",
+                                              "d":  "Produção de boa parte dos alimentos do mercado interno: frutas, feijão e leite",
+                                              "e":  "Concentração da produção mineral do país, sobretudo minério de ferro e nióbio"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Apesar de o agronegócio de grande escala liderar as exportações de commodities como soja e carne bovina, a agricultura familiar responde por parcela significativa da produção de alimentos voltados ao mercado interno. A exportação de grãos como soja e milho é liderada pelo agronegócio de grande escala, não pela agricultura familiar, que tampouco tem relação com produção mineral ou mercado financeiro de commodities.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "A divisão de papéis é essa: a grande propriedade produz o que embarca no navio, e a agricultura familiar produz boa parte do que chega à mesa — mandioca, feijão, hortaliças, leite. Em (a) e (c) está o mesmo equívoco em duas formas, atribuindo à agricultura familiar a exportação de commodities, que é justamente o campo em que o enunciado reconhece o predomínio da grande propriedade. Em (b), commodity financeira é contrato de bolsa, e não produção agrícola. Em (e), mineração não é atividade agropecuária."
                      },
                      {
                          "id":  "geografia-116",
@@ -2065,18 +2065,18 @@
                      {
                          "id":  "geografia-132",
                          "texto_apoio":  "Estudos do Ministério do Meio Ambiente identificam, no semiárido brasileiro, \u0027núcleos de desertificação\u0027 — áreas mais críticas de degradação do solo —, entre os quais se destacam regiões como o Seridó (Rio Grande do Norte e Paraíba), Gilbués (Piauí) e Cabrobó (Pernambuco).",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "A identificação desses núcleos específicos, em vez de se referir à desertificação de todo o semiárido de forma homogênea, evidencia que esse processo:",
                          "alternativas":  {
-                                              "a":  "Já foi totalmente revertido em Seridó, Gilbués e Cabrobó, restando apenas áreas preservadas nessas três regiões, conclusão que contraria os próprios dados de monitoramento ambiental apresentados no mapa",
-                                              "b":  "Não guarda qualquer relação com práticas humanas de uso do solo, decorrendo apenas de variações climáticas naturais e cíclicas",
-                                              "c":  "Distribui-se de maneira homogênea por todo o semiárido, já que a região partilha as mesmas condições climáticas em toda a sua extensão",
-                                              "d":  "Ocorre de maneira absolutamente uniforme em toda a extensão do semiárido nordestino, sem qualquer variação espacial entre os núcleos e o restante da região",
-                                              "e":  "Apresenta uma distribuição espacial desigual dentro do semiárido, concentrando-se com maior intensidade em áreas específicas onde a combinação de fatores climáticos e práticas de uso do solo é mais crítica"
+                                              "a":  "Já foi revertido em Seridó, Gilbués e Cabrobó, restando áreas preservadas",
+                                              "b":  "Não guarda relação com uso do solo, decorrendo de variações climáticas naturais",
+                                              "c":  "Distribui-se de modo homogêneo pelo semiárido, que partilha as mesmas condições",
+                                              "d":  "Ocorre de maneira uniforme em toda a extensão do semiárido, sem variação espacial",
+                                              "e":  "Tem distribuição desigual, concentrando-se onde clima e uso do solo se combinam"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A identificação de núcleos específicos evidencia que a desertificação não ocorre de forma homogênea, mas se concentra em áreas onde a combinação de fatores climáticos e práticas de uso do solo é mais crítica, exigindo políticas focalizadas. O processo não é uniforme em toda a região, não foi revertido nesses núcleos (ao contrário, são as áreas mais críticas), e envolve, sim, práticas humanas de uso do solo, não apenas fatores climáticos naturais.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "Delimitar núcleos é afirmar que o processo tem geografia: o clima semiárido é condição comum a toda a região, e o que produz os pontos críticos é a combinação dele com sobrepastejo, retirada de lenha e manejo inadequado em áreas determinadas. Em (b) está o distrator que a própria existência dos núcleos desmente — se fosse só clima, a degradação seria uniforme, já que o clima é regional. Em (c) e (d), a homogeneidade contraria o recorte apresentado no enunciado. Em (a), os núcleos são identificados por serem críticos, e não por estarem recuperados."
                      },
                      {
                          "id":  "geografia-133",
@@ -2129,18 +2129,18 @@
                      {
                          "id":  "geografia-136",
                          "texto_apoio":  "",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Além das favelas, outra forma de habitação precária historicamente presente em grandes cidades brasileiras, sobretudo em áreas centrais, é o cortiço. A principal diferença entre favela e cortiço está no fato de que o cortiço:",
                          "alternativas":  {
-                                              "a":  "É uma denominação usada exclusivamente para construções rurais, nunca aplicada a imóveis localizados em áreas urbanas, confusão comum mas incorreta sobre a origem do termo",
-                                              "b":  "É uma forma de moradia adotada preferencialmente por famílias de alta renda em bairros nobres das grandes cidades, engano que inverte o perfil socioeconômico típico dessa habitação",
-                                              "c":  "Consiste geralmente em uma edificação já existente (como um antigo casarão ou prédio) subdividida em vários cômodos alugados para famílias diferentes, que compartilham áreas comuns, como banheiro e cozinha",
-                                              "d":  "Está livre de qualquer problema de superlotação ou de infraestrutura precária, ao contrário das favelas, equívoco que ignora as condições reais de habitação nesses locais",
-                                              "e":  "Consiste no parcelamento de glebas periféricas vendidas em lotes sem registro urbanístico regular junto ao município"
+                                              "a":  "É denominação usada apenas para construções rurais, e não para imóveis urbanos",
+                                              "b":  "É forma de moradia adotada por famílias de alta renda em bairros nobres da cidade",
+                                              "c":  "É uma edificação antiga subdividida em cômodos alugados, com áreas comuns partilhadas",
+                                              "d":  "Está livre de problemas de superlotação e de infraestrutura, ao contrário da favela",
+                                              "e":  "É o parcelamento de glebas periféricas vendidas em lotes sem registro urbanístico no município"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O cortiço consiste no aproveitamento de uma edificação já existente, subdividida em cômodos alugados a famílias distintas que compartilham áreas comuns, diferentemente da favela, formada por construções autônomas em terrenos ocupados irregularmente. Não é uma moradia de alta renda, frequentemente apresenta superlotação e infraestrutura precária, e é tipicamente urbano, não rural.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O cortiço não é construção nova nem ocupação de terreno vazio: é um imóvel já existente, quase sempre central e antigo, repartido em quartos alugados que dividem banheiro e cozinha — e é o aluguel, não a posse, que define a relação do morador com ele. Em (e) está o distrator mais forte, porque descreve o loteamento irregular, outra forma precária de moradia, só que periférica e baseada em venda. Em (a), o cortiço é fenômeno urbano e central. Em (b), o perfil é de baixa renda. Em (d), superlotação é traço característico, e não algo de que ele esteja livre."
                      },
                      {
                          "id":  "geografia-137",
@@ -2177,18 +2177,18 @@
                      {
                          "id":  "geografia-139",
                          "texto_apoio":  "Um gráfico compara a repartição modal das viagens diárias em duas cidades: na Cidade A, 60% das viagens são feitas de automóvel particular, 25% de transporte coletivo e 15% a pé ou de bicicleta; na Cidade B, 25% das viagens são feitas de automóvel particular, 55% de transporte coletivo e 20% a pé ou de bicicleta.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Considerando apenas esses dados de repartição modal, é correto afirmar que:",
                          "alternativas":  {
-                                              "a":  "A Cidade A tende a apresentar menores níveis de emissão, já que a maior participação do transporte individual reduz o número de viagens",
-                                              "b":  "A Cidade A tende a apresentar, proporcionalmente, maiores níveis de congestionamento e emissão de poluentes por deslocamento, devido à maior dependência do automóvel particular",
-                                              "c":  "A Cidade B depende mais do automóvel particular do que a Cidade A, conforme os percentuais apresentados",
-                                              "d":  "Não é possível comparar padrões de mobilidade urbana entre cidades diferentes com base em dados de repartição modal",
-                                              "e":  "As duas cidades apresentam exatamente o mesmo padrão de mobilidade urbana, apenas com rótulos de porcentagem invertidos, hipótese que os dados claramente desmentem"
+                                              "a":  "A Cidade A tende a emitir menos, já que o transporte individual reduz o número de viagens",
+                                              "b":  "A Cidade A tende a ter mais congestionamento e emissão por deslocamento, pelo automóvel",
+                                              "c":  "A Cidade B depende mais do automóvel particular do que a Cidade A, conforme os dados",
+                                              "d":  "Não é possível comparar padrões de mobilidade entre cidades com dados de repartição modal",
+                                              "e":  "As duas cidades apresentam o mesmo padrão, apenas com os rótulos de porcentagem invertidos"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Com 60% das viagens de automóvel particular, a Cidade A apresenta padrão de mobilidade mais dependente de veículos individuais, tendendo a maior congestionamento e emissão de poluentes; a Cidade B, com 25% de automóvel e 55% de transporte coletivo, apresenta padrão mais sustentável. As duas cidades não têm o mesmo padrão, é a Cidade A, não a B, que depende mais do automóvel, e a comparação entre cidades com base em repartição modal é exatamente o tipo de análise feita pela geografia dos transportes urbanos.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O automóvel ocupa muito mais via e emite muito mais por passageiro transportado do que o ônibus, de modo que 60% das viagens em carro particular produzem, por deslocamento, mais congestionamento e mais poluente. Em (e) está o distrator que parece inteligente e não fecha: os números não são simétricos, já que a pé ou de bicicleta responde por 15% em A e 20% em B. Em (c), a leitura inverte as cidades. Em (a), transporte individual multiplica veículos em circulação. Em (d), repartição modal é exatamente o indicador criado para essa comparação."
                      },
                      {
                          "id":  "geografia-140",
@@ -2225,18 +2225,18 @@
                      {
                          "id":  "geografia-142",
                          "texto_apoio":  "",
+                         "formato":  "direta",
+                         "dificuldade":  "media",
                          "enunciado":  "Enquanto grandes metrópoles enfrentam desafios ligados ao crescimento urbano acelerado, muitos pequenos municípios do interior do Brasil, sobretudo em áreas rurais menos dinâmicas economicamente, enfrentam o problema inverso, relacionado a:",
                          "alternativas":  {
-                                              "a":  "A ausência de qualquer conexão entre esses municípios e o processo geral de urbanização observado no restante do país",
-                                              "b":  "Um crescimento populacional acelerado, motivado pela chegada constante de novos moradores vindos das capitais estaduais",
-                                              "c":  "Um excesso de oferta de emprego industrial, que atrai mais moradores do que a cidade consegue absorver em sua infraestrutura, cenário oposto ao que de fato ocorre nesses municípios",
-                                              "d":  "Esvaziamento populacional, causado pela saída de jovens em busca de emprego, educação e serviços em cidades maiores, o que pode gerar envelhecimento acentuado da população remanescente",
-                                              "e":  "Crescimento populacional acelerado, decorrente do retorno de famílias que deixaram as metrópoles em busca de menor custo de vida"
+                                              "a":  "A ausência de conexão entre esses municípios e a urbanização do restante do país",
+                                              "b":  "Crescimento populacional acelerado, pela chegada de moradores vindos das capitais",
+                                              "c":  "Excesso de oferta de emprego industrial, que atrai mais gente do que a cidade absorve",
+                                              "d":  "Esvaziamento populacional pela saída de jovens, com envelhecimento dos que ficam",
+                                              "e":  "Crescimento acelerado, pelo retorno de famílias que deixaram as metrópoles"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Muitos pequenos municípios enfrentam esvaziamento populacional, causado pela saída de jovens em busca de oportunidades em cidades maiores, o que acentua o envelhecimento da população remanescente. Não há, nesses municípios, crescimento populacional acelerado nem excesso de oferta de emprego industrial — pelo contrário, a escassez de oportunidades é a causa do esvaziamento, fenômeno que ocorre em paralelo, e não isolado, do processo geral de urbanização do país.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "Quem sai são os que estão em idade de estudar e trabalhar, e por isso o município não perde apenas população: perde a faixa etária que sustenta natalidade, arrecadação e serviços, e envelhece por subtração. Em (e) está o distrator mais atual, porque a contramigração para cidades pequenas existe e cresceu depois de 2020 — mas atinge sobretudo municípios turísticos e próximos a metrópoles, e não as áreas rurais pouco dinâmicas do enunciado. Em (b) e (c), crescimento e emprego industrial descrevem o oposto do problema. Em (a), esses municípios estão integrados à rede urbana, e é o que permite a saída."
                      },
                      {
                          "id":  "geografia-143",
@@ -2305,18 +2305,18 @@
                      {
                          "id":  "geografia-147",
                          "texto_apoio":  "",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil",
                          "enunciado":  "Apesar de ser uma solução tecnicamente viável para a escassez de água doce, a dessalinização da água do mar ainda não é amplamente adotada em todas as regiões costeiras do mundo com problemas hídricos, principalmente porque:",
                          "alternativas":  {
-                                              "a":  "O descarte da salmoura resultante exige transporte terrestre a longas distâncias, sendo esse o principal componente do custo",
-                                              "b":  "O processo demanda grande quantidade de energia, o que eleva significativamente seu custo em comparação com fontes tradicionais de água doce, tornando sua adoção em larga escala mais viável em países ricos em energia",
-                                              "c":  "A água do mar dessalinizada não pode, em nenhuma hipótese, ser utilizada para irrigação agrícola, afirmação que contraria projetos de irrigação já em operação no Oriente Médio",
-                                              "d":  "A tecnologia de dessalinização ainda está em fase experimental, sem nenhuma aplicação comercial em operação no mundo, equívoco sobre uma tecnologia já consolidada comercialmente",
-                                              "e":  "Tratados internacionais de proteção aos oceanos vedam expressamente a instalação de usinas de dessalinização em qualquer país costeiro, restrição inexistente em qualquer acordo ambiental vigente"
+                                              "a":  "O descarte da salmoura exige transporte terrestre a longas distâncias, principal item do custo",
+                                              "b":  "O processo demanda muita energia, o que eleva o custo diante das fontes de água doce",
+                                              "c":  "A água dessalinizada não pode ser utilizada para irrigação agrícola de nenhuma cultura",
+                                              "d":  "A tecnologia segue em fase experimental, sem aplicação comercial em operação no mundo",
+                                              "e":  "Tratados de proteção aos oceanos vedam a instalação de usinas em países costeiros"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A dessalinização exige grande quantidade de energia, o que eleva seu custo frente a fontes tradicionais, tornando sua adoção em larga escala mais viável em países com energia abundante e barata, como os do Golfo Pérsico. A tecnologia já está em operação comercial há décadas (não é experimental), não há tratado internacional que a proíba, e a água dessalinizada pode, sim, ser usada para irrigação, ainda que com custo elevado.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "Dessalinizar é, no fundo, comprar água com energia: o custo por metro cúbico acompanha a tarifa elétrica, e por isso a técnica se difundiu onde a energia é barata, como no Golfo, e não onde a água é apenas escassa. Em (a) está o distrator mais fino — a salmoura é de fato um problema ambiental sério, mas costuma ser devolvida ao mar por emissário, e não transportada por terra, de modo que não é o item dominante do custo. Em (c) e (d), a irrigação com água dessalinizada já opera e a tecnologia é comercialmente madura. Em (e), não existe tratado com essa vedação."
                      },
                      {
                          "id":  "geografia-148",
@@ -2459,17 +2459,17 @@
                      {
                          "id":  "geografia-157",
                          "texto_apoio":  "Uma figura ilustra a determinação da posição de um receptor na superfície terrestre a partir de sinais emitidos por uma constelação de satélites.",
+                         "formato":  "lacunas",
                          "enunciado":  "A tecnologia representada é ____________ , e ela se distingue de um Sistema de Informação Geográfica porque este último ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
                          "alternativas":  {
-                                              "a":  "a aerofotogrametria - integra, armazena e analisa dados espaciais de fontes diversas",
-                                              "b":  "o Sistema de Posicionamento Global - capta imagens da superfície por sensores orbitais",
-                                              "c":  "o sensoriamento remoto - integra, armazena e analisa dados espaciais de fontes diversas",
+                                              "a":  "a aerofotogrametria - integra, armazena e analisa dados espaciais diversos",
+                                              "b":  "o Sistema de Posicionamento Global - capta imagens da superfície por sensores em órbita",
+                                              "c":  "o sensoriamento remoto - integra, armazena e analisa dados espaciais diversos",
                                               "d":  "o Sistema de Posicionamento Global - registra o relevo a partir de fotografias aéreas sobrepostas",
-                                              "e":  "o Sistema de Posicionamento Global - integra, armazena e analisa dados espaciais de fontes diversas"
+                                              "e":  "o Sistema de Posicionamento Global - integra, armazena e analisa dados espaciais diversos"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O GPS determina posição; o SIG integra e analisa camadas de dados espaciais. Duas opções acertam o GPS e descrevem, na segunda lacuna, sensoriamento remoto e aerofotogrametria — tecnologias vizinhas que costumam ser confundidas com o SIG.",
-                         "formato":  "lacunas"
+                         "explicacao":  "As duas lacunas cobram tecnologias diferentes. Determinar coordenadas por triangulação de sinais de satélite é o GPS; o SIG não localiza nada por conta própria — ele recebe camadas de origens variadas, inclusive do GPS, e as cruza para análise. Em (b) e (d), a primeira lacuna está certa e a segunda troca o SIG por sensoriamento remoto e por aerofotogrametria, que produzem dado em vez de integrá-lo. Em (a) e (c), a segunda lacuna está certa e a primeira confunde o GPS com técnicas de imageamento, que registram a superfície mas não fornecem posição do receptor."
                      },
                      {
                          "id":  "geografia-158",
@@ -2489,47 +2489,47 @@
                      {
                          "id":  "geografia-159",
                          "texto_apoio":  "Um mapa do IBGE mostra o percentual de domicílios ligados à rede geral de abastecimento de água, com desempenho mais baixo na região Norte.",
+                         "formato":  "lacunas",
                          "enunciado":  "O padrão observado indica que a cobertura de saneamento no Brasil é ____________ , e o caso do Norte mostra que ela ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
                          "alternativas":  {
-                                              "a":  "desigual entre as regiões - acompanha diretamente a disponibilidade de água superficial de cada região",
+                                              "a":  "desigual entre as regiões - acompanha a disponibilidade de água superficial de cada região",
                                               "b":  "homogênea entre as regiões - não decorre automaticamente da abundância de recursos hídricos",
                                               "c":  "determinada pelo clima - não decorre automaticamente da abundância de recursos hídricos",
                                               "d":  "desigual entre as regiões - é maior onde a densidade demográfica é menor",
-                                              "e":  "desigual entre as regiões - não decorre automaticamente da abundância de recursos hídricos, e sim de investimento em infraestrutura"
+                                              "e":  "desigual entre as regiões - não decorre automaticamente da abundância de recursos hídricos"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A região com maior disponibilidade hídrica do país tem a menor cobertura de rede: água disponível não é o mesmo que água distribuída. Duas opções acertam \"desigual\" e depois afirmam justamente a correlação que o mapa desmente.",
-                         "formato":  "lacunas"
+                         "explicacao":  "As duas lacunas precisam fechar juntas: o mapa mostra disparidade regional, e o Norte é o contraexemplo que separa água disponível de água encanada — a região com mais recurso hídrico do país tem a pior cobertura, porque o que falta é rede, não rio. Em (a), a primeira lacuna está correta e a segunda inverte o argumento, afirmando o que o caso do Norte desmente. Em (b), a cobertura não é homogênea, como o próprio mapa evidencia. Em (c), o clima não determina a cobertura, e sim o investimento. Em (d), a relação com densidade é oposta: o Norte é o menos denso e o menos atendido."
                      },
                      {
                          "id":  "geografia-160",
                          "texto_apoio":  "Um projeto saudita prevê erguer uma megacidade ultratecnológica em área desértica, com aeroportos, marinas, trens de alta velocidade e centros de negócios voltados a atrair capital internacional.",
+                         "formato":  "lacunas",
                          "enunciado":  "O empreendimento é expressão de ____________ , e seu objetivo econômico central é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
                          "alternativas":  {
-                                              "a":  "uma reestruturação produtiva associada à globalização - coletivizar os meios de produção do país",
-                                              "b":  "uma industrialização clássica de concentração fabril - reduzir a dependência da renda do petróleo",
-                                              "c":  "uma reestruturação produtiva associada à globalização - conter o crescimento urbano desordenado já existente",
-                                              "d":  "uma reestruturação produtiva associada à globalização - reduzir a dependência da renda do petróleo diversificando a economia",
-                                              "e":  "uma retração dos investimentos estatais - reduzir a dependência da renda do petróleo"
+                                              "a":  "uma reestruturação produtiva associada à globalização - coletivizar os meios de produção",
+                                              "b":  "uma industrialização clássica de concentração fabril - reduzir a dependência do petróleo",
+                                              "c":  "uma reestruturação produtiva associada à globalização - conter o crescimento urbano desordenado",
+                                              "d":  "uma reestruturação produtiva associada à globalização - reduzir a dependência do petróleo",
+                                              "e":  "uma retração dos investimentos estatais - reduzir a dependência do petróleo"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Cidades planejadas para atrair capital e serviços são típicas da reestruturação produtiva sob globalização, e o objetivo declarado é diversificar uma economia dependente do petróleo. Note que o projeto envolve investimento estatal massivo, e não retração.",
-                         "formato":  "lacunas"
+                         "explicacao":  "O projeto é um lance clássico de inserção competitiva na economia global — aeroporto, porto, trem e escritórios para atrair capital — a serviço de trocar a renda de um recurso finito por atividades diversificadas. Em (b) está o erro mais tentador: há investimento pesado, mas o alvo são serviços e tecnologia, e não a concentração fabril que caracterizou a industrialização clássica. Em (e), o Estado saudita é o financiador, e não um investidor em retração. Em (a), coletivizar meios de produção é o oposto do que se busca. Em (c), a cidade é erguida do zero no deserto, e não para conter expansão existente."
                      },
                      {
                          "id":  "geografia-161",
                          "texto_apoio":  "Em municípios de Porto Rico, microrredes solares mantêm casas e serviços funcionando durante os frequentes apagões provocados por furacões e por problemas de gestão do setor elétrico.",
+                         "formato":  "lacunas",
                          "enunciado":  "A característica natural que favorece essa solução é ____________ , e a vantagem técnica da microrrede em relação ao sistema centralizado é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
                          "alternativas":  {
-                                              "a":  "a alta amplitude térmica anual - continuar operando de forma autônoma quando a rede principal falha",
-                                              "b":  "a elevada incidência de radiação solar no clima tropical - eliminar a necessidade de manutenção dos equipamentos",
-                                              "c":  "a elevada incidência de radiação solar no clima tropical - continuar operando de forma autônoma quando a rede principal falha",
-                                              "d":  "a intensa atuação de massas polares - continuar operando de forma autônoma quando a rede principal falha",
-                                              "e":  "a elevada incidência de radiação solar no clima tropical - dispensar qualquer forma de armazenamento de energia"
+                                              "a":  "a alta amplitude térmica anual - continuar operando de forma autônoma quando a rede falha",
+                                              "b":  "a elevada radiação solar do clima tropical - eliminar a necessidade de manutenção periódica do sistema",
+                                              "c":  "a elevada radiação solar do clima tropical - continuar operando de forma autônoma quando a rede falha",
+                                              "d":  "a intensa atuação de massas polares - continuar operando de forma autônoma quando a rede falha",
+                                              "e":  "a elevada radiação solar do clima tropical - dispensar o armazenamento da energia gerada"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A ilha está em latitude tropical, com radiação alta e constante, e a vantagem da microrrede é a autonomia diante da queda da rede principal. Duas opções acertam a causa natural e atribuem à microrrede virtudes que ela não tem — armazenamento é justamente o que a torna viável à noite.",
-                         "formato":  "lacunas"
+                         "explicacao":  "As duas lacunas descrevem coisas independentes, e a questão exige acertar as duas: o recurso disponível é a radiação solar abundante da baixa latitude, e o ganho da microrrede é operar ilhada quando a rede principal cai. Em (a) e (d), a primeira lacuna descreve climas que não são o de Porto Rico — amplitude térmica alta e massas polares pertencem a latitudes médias e altas. Em (b), painéis exigem limpeza e manutenção como qualquer instalação. Em (e), é justamente a bateria que permite manter o fornecimento à noite e durante o apagão."
                      },
                      {
                          "id":  "geografia-162",
@@ -2549,47 +2549,47 @@
                      {
                          "id":  "geografia-163",
                          "texto_apoio":  "A Região Metropolitana de São Paulo passou, desde os anos 1980, a integrar um conjunto urbano de limites imprecisos que se estende por cerca de 200 km a partir da capital, articulando várias regiões metropolitanas.",
+                         "formato":  "lacunas",
                          "enunciado":  "Essa configuração é designada como ____________ , e ela resulta sobretudo de ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
                          "alternativas":  {
                                               "a":  "macrometrópole - retorno da indústria ao centro da capital",
-                                              "b":  "macrometrópole - reestruturação econômica e intensificação dos fluxos de pessoas, mercadorias e informações",
+                                              "b":  "macrometrópole - reestruturação econômica e intensificação dos fluxos regionais",
                                               "c":  "macrometrópole - crescimento vegetativo da população da capital",
-                                              "d":  "conurbação simples - reestruturação econômica e intensificação dos fluxos",
-                                              "e":  "megalópole litorânea - reestruturação econômica e intensificação dos fluxos"
+                                              "d":  "conurbação simples - reestruturação econômica e intensificação dos fluxos regionais",
+                                              "e":  "megalópole litorânea - reestruturação econômica e intensificação dos fluxos regionais"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Macrometrópole descreve o território descontínuo e de limites imprecisos formado pela articulação de várias regiões metropolitanas, e o motor é a reestruturação econômica com intensificação de fluxos. Duas opções acertam o termo e apontam causas que não sustentam a escala descrita.",
-                         "formato":  "lacunas"
+                         "explicacao":  "O que articula esse conjunto não é a mancha urbana contínua, e sim o fluxo: a desconcentração industrial para o interior paulista e a integração por rodovias e serviços criaram uma rede de metrópoles que funciona junto — a macrometrópole. Em (d) está o distrator mais próximo: conurbação descreve duas manchas urbanas que se encostam, escala muito menor que a de 200 quilômetros articulando várias regiões metropolitanas. Em (e), megalópole é o termo usado para eixos como o do nordeste dos EUA, e o caso paulista não é litorâneo. Em (a) e (c), a indústria saiu do centro e o crescimento vegetativo desacelerou no período."
                      },
                      {
                          "id":  "geografia-164",
                          "texto_apoio":  "Um sistema agrícola caracteriza-se por grandes extensões cultivadas com um único produto, substituição intensiva de trabalho por máquinas e aplicação localizada de insumos, com alta produtividade por trabalhador.",
+                         "formato":  "lacunas",
                          "enunciado":  "O sistema descrito é ____________ , e o traço que melhor o distingue da agricultura de subsistência é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
                          "alternativas":  {
-                                              "a":  "a agricultura empresarial - a rotação de culturas em pequenas parcelas",
-                                              "b":  "a rizicultura submersa - a produção ser orientada pelo lucro e pela inserção em mercados",
-                                              "c":  "a agricultura empresarial - o uso exclusivo de mão de obra familiar",
-                                              "d":  "a agricultura empresarial - a produção ser orientada pelo lucro e pela inserção em mercados, e não pelo consumo da própria unidade produtora",
+                                              "a":  "a agricultura empresarial - a rotação de culturas em pequenas parcelas de terra",
+                                              "b":  "a rizicultura submersa asiática - a produção ser orientada pelo lucro e pela inserção em mercados",
+                                              "c":  "a agricultura empresarial - o uso de mão de obra predominantemente familiar",
+                                              "d":  "a agricultura empresarial - a produção ser orientada pelo lucro e pela inserção em mercados",
                                               "e":  "a plantation colonial - a produção ser orientada pelo lucro e pela inserção em mercados"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Monocultura extensiva, mecanização e alta produtividade por trabalhador caracterizam a agricultura empresarial, cuja lógica é o mercado. Duas opções acertam o sistema e descrevem traços da agricultura familiar ou de subsistência, que é justamente o contraponto pedido.",
-                         "formato":  "lacunas"
+                         "explicacao":  "Monocultura extensa, mecanização e insumos de precisão compõem o retrato da agricultura empresarial, e o que a separa da subsistência é o destino da produção: mercado, não consumo próprio. Em (e) está o distrator mais instrutivo, porque a plantation também produz para o mercado — o que a distingue é ser colonial, voltada à exportação de um produto tropical e apoiada em trabalho compulsório, sem a mecanização descrita. Em (b), a rizicultura submersa é intensiva em trabalho, não em máquina. Em (a) e (c), rotação em pequenas parcelas e mão de obra familiar são traços da própria agricultura de subsistência."
                      },
                      {
                          "id":  "geografia-165",
                          "texto_apoio":  "O Pantanal ocupa parte dos estados de Mato Grosso e Mato Grosso do Sul e constitui a maior área úmida continental do planeta, com dinâmica governada pelo pulso anual de inundação.",
+                         "formato":  "lacunas",
                          "enunciado":  "A principal ameaça antrópica ao bioma, entre as listadas, é ____________ , e o dano mais direto que ela provoca é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
                          "alternativas":  {
-                                              "a":  "a pecuária não sustentável associada ao desmatamento das cabeceiras - a elevação do nível do mar na região",
-                                              "b":  "a expansão de polos industriais de base pesada - a alteração do regime de inundação da planície",
-                                              "c":  "a pecuária não sustentável associada ao desmatamento das cabeceiras - a alteração do regime de inundação da planície",
-                                              "d":  "a pecuária não sustentável associada ao desmatamento das cabeceiras - a salinização dos solos por irrigação",
-                                              "e":  "a extração de petróleo em alto-mar - a alteração do regime de inundação da planície"
+                                              "a":  "a pecuária não sustentável nas cabeceiras dos rios - a elevação do nível do mar na região",
+                                              "b":  "a expansão de polos industriais de base pesada na planície - a alteração do regime de inundação",
+                                              "c":  "a pecuária não sustentável nas cabeceiras dos rios - a alteração do regime de inundação",
+                                              "d":  "a pecuária não sustentável nas cabeceiras dos rios - a salinização dos solos por irrigação",
+                                              "e":  "a extração de petróleo em águas profundas - a alteração do regime de inundação da planície"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O que sustenta o Pantanal é o pulso de inundação, e ele depende das nascentes no planalto do entorno: desmatá-las altera todo o regime. Duas opções acertam a ameaça e apontam danos que não se aplicam a um bioma continental e sem irrigação intensiva.",
-                         "formato":  "lacunas"
+                         "explicacao":  "As duas lacunas precisam fechar juntas. A pressão decisiva vem de cima: o desmatamento nas cabeceiras do planalto altera a chegada da água à planície, e como toda a vida do Pantanal se organiza em torno do pulso de cheia e seca, é esse ritmo que se desregula. Em (a), o Pantanal é interior e fica a mais de mil quilômetros do mar. Em (d), salinização por irrigação é problema de região semiárida irrigada, não de área úmida. Em (b) e (e), nem polo industrial pesado na planície nem extração de petróleo em alto-mar descrevem a ameaça ao bioma."
                      },
                      {
                          "id":  "geografia-166",
@@ -2609,17 +2609,17 @@
                      {
                          "id":  "geografia-167",
                          "texto_apoio":  "O relevo brasileiro apresenta estruturas geológicas antigas, mas formas de relevo relativamente recentes, produzidas e continuamente refeitas por processos erosivos.",
+                         "formato":  "lacunas",
                          "enunciado":  "A unidade de relevo de maior extensão no território nacional é ____________ , e a aparente contradição entre estruturas antigas e formas recentes explica-se porque ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
                          "alternativas":  {
                                               "a":  "a Planície Litorânea - a erosão remodela continuamente a superfície de rochas antigas",
                                               "b":  "o conjunto dos planaltos - as rochas brasileiras se formaram em período geológico recente",
                                               "c":  "o conjunto dos planaltos - o território passou por intensa atividade tectônica no Quaternário",
-                                              "d":  "o conjunto dos planaltos - a erosão remodela continuamente a superfície de rochas formadas há muito mais tempo",
+                                              "d":  "o conjunto dos planaltos - a erosão remodela continuamente a superfície de rochas antigas",
                                               "e":  "a Planície Amazônica - a erosão remodela continuamente a superfície de rochas antigas"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Planaltos ocupam a maior parte do território, e a chave está em separar estrutura de forma: a rocha é antiga, o modelado é recente porque a erosão nunca para. Duas opções acertam a unidade e explicam a contradição negando a antiguidade das rochas ou inventando tectonismo recente.",
-                         "formato":  "lacunas"
+                         "explicacao":  "Planaltos ocupam a maior parte do território, e a contradição é só aparente: a rocha é pré-cambriana, mas a forma que se vê é obra da erosão, que trabalha a superfície sem parar e a refaz em escala de tempo muito menor. Em (b) e (c) estão as duas explicações alternativas, ambas falsas para o caso brasileiro — as rochas do embasamento são das mais antigas do planeta, e o país está no meio de uma placa, sem tectonismo intenso recente. Em (a) e (e), as planícies existem e são pequenas diante dos planaltos: a Amazônica, que parece imensa no mapa, é sobretudo planalto rebaixado."
                      }
                  ]
 }

@@ -1,0 +1,243 @@
+{
+  "subtopic": "filosofia-sociologia",
+  "questoes": [
+    {
+      "id": "filosofia-sociologia-05",
+      "texto_apoio": "O utilitarismo avalia a moralidade de uma ação pelos seus efeitos, buscando maximizar o bem-estar do maior número de pessoas afetadas.",
+      "formato": "direta",
+      "enunciado": "Esse princípio ajuda a compreender a lógica por trás de qual dos seguintes debates contemporâneos sobre inteligência artificial?",
+      "alternativas": {
+        "a": "a exigência de que o fabricante publique o código-fonte do sistema de direção autônoma",
+        "b": "a proposta de que o carro autônomo siga apenas regras fixas de trânsito, sem ponderar consequências",
+        "c": "a discussão sobre quem responde civilmente pelos danos causados por um veículo sem condutor",
+        "d": "a exigência legal de que veículos autônomos registrem em vídeo as decisões de emergência",
+        "e": "a discussão sobre programar o carro para, em acidente inevitável, minimizar o total de vítimas"
+      },
+      "resposta": "e",
+      "explicacao": "O utilitarismo julga a ação pelo resultado agregado, e o dilema do acidente inevitável é a forma mais direta desse cálculo: escolhe-se o curso que produz menos dano no total, ainda que isso sacrifique o ocupante. Em (b) está o distrator que exige a distinção mais fina — seguir regra fixa sem ponderar consequências é o procedimento deontológico, o oposto do utilitarista. Em (c), a responsabilidade civil é questão jurídica de imputação, não de maximização de bem-estar. Em (a) e (d), transparência de código e registro em vídeo são exigências de auditoria: dizem respeito a como verificar a decisão, não a que critério moral escolhê-la."
+    },
+    {
+      "id": "filosofia-sociologia-18",
+      "texto_apoio": "O liberalismo político clássico defende um Estado limitado, cuja função principal é assegurar as liberdades individuais e os direitos fundamentais dos cidadãos.",
+      "formato": "direta",
+      "enunciado": "Esse princípio liberal ajuda a situar qual posição no debate contemporâneo sobre regulação estatal de grandes plataformas digitais?",
+      "alternativas": {
+        "a": "a que defende a estatização das plataformas de maior alcance, tratadas como serviço essencial",
+        "b": "a que limita a intervenção do Estado a coibir abusos concretos contra direitos dos usuários",
+        "c": "a que subordina a atuação das plataformas a um plano central de oferta de serviços digitais",
+        "d": "a que dispensa o Estado de agir mesmo diante de fraude comprovada contra o consumidor",
+        "e": "a que condiciona a operação das plataformas à aprovação prévia de cada conteúdo publicado"
+      },
+      "resposta": "b",
+      "explicacao": "O liberalismo clássico não é ausência de Estado: é Estado limitado a garantir liberdades e direitos, o que autoriza intervenção pontual contra abusos e a interdita quando ela vira controle da atividade. Em (d) está o erro mais comum — confundir Estado limitado com Estado omisso; coibir fraude é exatamente a função que a doutrina reserva a ele. Em (a) e (c), estatização e plano central são posições estatistas, opostas à limitação do papel do Estado. Em (e), a aprovação prévia de conteúdo é censura, incompatível com a proteção das liberdades individuais que o liberalismo põe no centro."
+    },
+    {
+      "id": "filosofia-sociologia-42",
+      "texto_apoio": "Para Marx e Engels, a sociedade capitalista se estrutura em torno do antagonismo entre a burguesia, proprietária dos meios de produção, e o proletariado, que vende sua força de trabalho para sobreviver.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa tese sobre o conflito de classes ajuda a interpretar qual disputa recorrente entre motoristas e entregadores de aplicativo e as empresas de tecnologia que os contratam?",
+      "alternativas": {
+        "a": "a disputa entre plataformas concorrentes pela preferência do mesmo grupo de consumidores",
+        "b": "a disputa entre trabalhadores mais antigos e recém-chegados pelas rotas mais rentáveis do dia",
+        "c": "a disputa entre usuários e trabalhadores sobre quem arca com a taxa que a plataforma cobra por corrida",
+        "d": "a disputa entre quem controla a plataforma e seu algoritmo e quem depende de vender seu trabalho",
+        "e": "a disputa entre municípios sobre qual deles pode tributar a receita gerada pelos aplicativos"
+      },
+      "resposta": "d",
+      "explicacao": "O antagonismo marxista se define pela posição em relação aos meios de produção, e no trabalho por aplicativo o meio decisivo é a plataforma com seu algoritmo, que distribui corridas, fixa preços e desativa contas. Em (b) e (c) estão conflitos reais do setor, e é isso que os torna tentadores: ambos ocorrem entre pessoas que ocupam a mesma posição na produção, e por isso não são conflitos de classe no sentido do texto. Em (a), a concorrência entre empresas é disputa intraburguesa. Em (e), a disputa tributária opõe entes federativos, e não capital e trabalho."
+    },
+    {
+      "id": "filosofia-sociologia-51",
+      "texto_apoio": "Em \"Leviatã\", Hobbes descreve o Estado como um \"homem artificial\", ao qual os súditos transferem seu direito de autogoverno para garantir a paz coletiva.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa lógica hobbesiana da concentração de poder em troca de ordem e proteção ajuda a problematizar qual crítica ao poder de mercado concentrado por grandes plataformas de tecnologia sobre setores inteiros da economia digital?",
+      "alternativas": {
+        "a": "a de que a competição entre plataformas rivais impede qualquer concentração duradoura de poder",
+        "b": "a de que uma empresa com muitos usuários exerce, por definição, poder equivalente ao de um Estado",
+        "c": "a de que elas dão previsibilidade a mercados antes dispersos e, em troca, decidem regras e acesso",
+        "d": "a de que o poder das plataformas se sustenta apenas no volume de capital que elas conseguem captar",
+        "e": "a de que Hobbes recomendaria dividir o poder econômico entre várias empresas concorrentes"
+      },
+      "resposta": "c",
+      "explicacao": "A analogia é de estrutura, não de identidade: assim como os súditos trocam autogoverno por paz, os participantes de um mercado aceitam regras privadas em troca da ordem e da previsibilidade que a plataforma organiza. Em (b) está o passo que a analogia não autoriza — equiparar poder econômico privado a soberania política apaga a diferença entre os dois, e é o excesso que a leitura hobbesiana serve para problematizar, não para endossar. Em (e), Hobbes defende a concentração do poder soberano, não sua divisão. Em (a), a premissa da questão é o poder já concentrado. Em (d), o que a analogia destaca é o poder de estabelecer regras, não o volume de capital."
+    },
+    {
+      "id": "filosofia-sociologia-58",
+      "texto_apoio": "Gramsci distingue o intelectual tradicional, que se apresenta como neutro, do \"intelectual orgânico\", que emerge vinculado a uma classe ou grupo social, articulando sua visão de mundo.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse conceito de intelectual orgânico ajuda a interpretar qual papel social frequentemente atribuído a criadores de conteúdo que se tornam vozes de referência de determinada subcultura ou movimento social nas redes?",
+      "alternativas": {
+        "a": "o de articular, a partir da vivência dentro do grupo, os valores e as pautas dessa subcultura",
+        "b": "o de manter independência diante de qualquer grupo, condição da imparcialidade analítica",
+        "c": "o de traduzir para o grande público um saber técnico produzido fora do grupo por especialistas",
+        "d": "o de qualquer criador com muitos seguidores, cuja audiência já o converte em porta-voz do grupo",
+        "e": "o de mediar conflitos entre grupos rivais, sem se identificar com as pautas de nenhum deles"
+      },
+      "resposta": "a",
+      "explicacao": "O intelectual orgânico não é o especialista que chega de fora nem o mediador neutro: ele nasce dentro do grupo e dá forma pública à visão de mundo que já circulava ali. Em (d) está o distrator mais forte, porque descreve algo comum nas redes — mas audiência não é vínculo orgânico, e o conceito exige a ligação com uma classe ou grupo, não o número de seguidores. Em (b) e (e), a neutralidade e a mediação sem identificação correspondem ao intelectual tradicional, que Gramsci opõe ao orgânico. Em (c), a tradução de saber técnico externo mantém o intelectual fora do grupo, que é justamente o que o conceito nega."
+    },
+    {
+      "id": "filosofia-sociologia-60",
+      "texto_apoio": "Para Habermas, a \"ação comunicativa\" busca o entendimento mútuo entre participantes de um diálogo por meio de argumentos racionalmente sustentáveis, e não pela imposição unilateral de interesses.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse conceito ajuda a fundamentar qual crítica ao ambiente de debate público nas redes sociais, quando dominado por descontextualização de falas e ataques pessoais em vez de argumentação?",
+      "alternativas": {
+        "a": "a de que a troca de razões cede lugar a ataques pessoais, afastando o debate do entendimento",
+        "b": "a de que o volume de mensagens torna inviável acompanhar todas as discussões simultâneas",
+        "c": "a de que o debate se converte em negociação estratégica, em que cada lado busca vantagem própria",
+        "d": "a de que a mediação por telas elimina os sinais não verbais de que o entendimento depende",
+        "e": "a de que discussões acaloradas já constituem, por si sós, exercício de ação comunicativa"
+      },
+      "resposta": "a",
+      "explicacao": "A ação comunicativa se define pela orientação ao entendimento por meio de razões, de modo que substituí-la por descontextualização e ataque pessoal é abandonar a própria condição do diálogo. Em (c) está a distinção que Habermas mais insiste em marcar: agir para obter vantagem é ação estratégica, e o problema descrito no enunciado não é cálculo de interesse, é ausência de argumento. Em (e), a intensidade da discussão não substitui a argumentação racional que o conceito exige. Em (b) e (d), volume de mensagens e ausência de sinais não verbais são limitações do meio, e o critério habermasiano incide sobre a forma da interação, não sobre o suporte."
+    },
+    {
+      "id": "filosofia-sociologia-66",
+      "texto_apoio": "Byung-Chul Han contrapõe a \"sociedade disciplinar\" analisada por Foucault a uma \"sociedade do desempenho\", na qual o indivíduo se autoexplora em busca de produtividade ilimitada.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse conceito ajuda a interpretar qual crítica frequente à \"cultura da hustle\" (glorificação do trabalho incessante) difundida em conteúdos motivacionais nas redes sociais?",
+      "alternativas": {
+        "a": "a de que essa cultura decorre da pressão que as chefias exercem sobre seus subordinados diretos",
+        "b": "a de que ela se impõe por vigilância constante do empregador sobre o ritmo de cada trabalhador",
+        "c": "a de que o indivíduo internaliza o imperativo de produtividade e vira cobrador de si mesmo",
+        "d": "a de que a exigência de produtividade desaparece quando o trabalho se torna remoto e flexível",
+        "e": "a de que essa cultura se sustenta em punições visíveis aplicadas por instituições formais"
+      },
+      "resposta": "c",
+      "explicacao": "O deslocamento que Han descreve é da coação externa para a autocoação: ninguém precisa vigiar quem já se cobra sozinho, e daí a exaustão típica do desempenho. Em (a), (b) e (e) estão três versões do mesmo equívoco — chefia, vigilância e punição institucional descrevem a sociedade disciplinar de Foucault, que é justamente o termo contra o qual Han define o seu. Em (d), a flexibilidade não dissolve a exigência: ela a torna permanente, porque some o limite que separava o expediente do resto do dia."
+    },
+    {
+      "id": "filosofia-sociologia-70",
+      "texto_apoio": "A antropologia distingue o relativismo cultural do \"etnocentrismo\", que consiste em julgar outras culturas a partir dos valores da própria cultura do observador, tomados como referência universal.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esse conceito de etnocentrismo ajuda a identificar qual viés comum em coberturas internacionais que descrevem tradições de outros países como \"atrasadas\" ou \"exóticas\", sem considerar seu contexto próprio?",
+      "alternativas": {
+        "a": "o de recusar comparações entre culturas, por considerá-las incomensuráveis entre si",
+        "b": "o de descrever culturas distantes com base em fontes secundárias, sem pesquisa de campo",
+        "c": "o de tomar os valores da própria cultura como parâmetro universal para avaliar as demais",
+        "d": "o de reconhecer validade equivalente às práticas de cada cultura, sem hierarquizá-las entre si",
+        "e": "o de descrever uma cultura apenas por seus códigos internos, sem qualquer juízo externo"
+      },
+      "resposta": "c",
+      "explicacao": "Etnocentrismo é adotar o próprio padrão como medida universal e ler o diferente como desvio — é o que produz os rótulos de atrasado e exótico. Em (d) e (e) está a inversão que a questão cobra: reconhecer validade própria a cada cultura e descrevê-la por seus códigos internos define o relativismo cultural, o polo oposto. Em (a), recusar toda comparação seria outra posição ainda, e o etnocentrismo compara o tempo inteiro, só que com uma régua fixa. Em (b), apoiar-se em fonte secundária é falha de método, que pode ocorrer com ou sem viés etnocêntrico."
+    },
+    {
+      "id": "filosofia-sociologia-72",
+      "texto_apoio": "Claude Lévi-Strauss interpreta o tabu do incesto, presente de forma quase universal entre as culturas humanas, como a fronteira estrutural entre natureza e cultura, por obrigar a troca de parceiros entre grupos.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Essa leitura estruturalista ajuda a entender por que Lévi-Strauss considerava as regras de aliança matrimonial entre diferentes grupos familiares um elemento fundador da vida social, e não apenas uma norma moral arbitrária?",
+      "alternativas": {
+        "a": "porque a proibição evita a transmissão de doenças hereditárias e protege a saúde do grupo",
+        "b": "porque a regra reflete uma repugnância instintiva que precede qualquer elaboração cultural",
+        "c": "porque a norma foi codificada de modo semelhante nos sistemas jurídicos dos Estados modernos",
+        "d": "porque, ao obrigar a troca de parceiros, ela funda redes de aliança entre famílias distintas",
+        "e": "porque cada sociedade fixa livremente seus próprios graus de parentesco proibidos ao casamento"
+      },
+      "resposta": "d",
+      "explicacao": "O argumento de Lévi-Strauss é positivo, não proibitivo: ao vedar o parceiro de dentro, a regra obriga a buscar o de fora, e é essa troca que amarra grupos separados numa rede de reciprocidade — daí ser fundadora da vida social. Em (a) e (b) estão as duas explicações naturalistas que o estruturalismo recusa; a saúde genética e o instinto situariam o tabu na natureza, e o ponto do autor é que ele marca a passagem para a cultura. Em (e), a variação dos graus proibidos existe, mas é o que faria da regra uma convenção arbitrária, e a tese sustenta o contrário. Em (c), a codificação jurídica moderna é posterior e não explica a universalidade."
+    },
+    {
+      "id": "filosofia-sociologia-75",
+      "texto_apoio": "Segundo o \"princípio do dano\" (harm principle) de John Stuart Mill, o único fundamento legítimo para restringir a liberdade de um indivíduo, contra sua vontade, é prevenir dano a terceiros.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse princípio ajuda a fundamentar qual posição no debate contemporâneo sobre moderação de conteúdo considerado ofensivo, mas que não incita diretamente violência ou dano concreto a terceiros, em redes sociais?",
+      "alternativas": {
+        "a": "a que autoriza restringir o discurso quando ele contraria a opinião majoritária dos usuários",
+        "b": "a que separa restringir discurso que causa dano concreto de restringi-lo por ser incômodo",
+        "c": "a que impede plataformas privadas de restringir qualquer conteúdo que seja legal no país",
+        "d": "a que autoriza o Estado a impedir condutas nocivas ao próprio indivíduo que as pratica",
+        "e": "a que condiciona a permanência de um conteúdo à sua veracidade verificada por terceiros"
+      },
+      "resposta": "b",
+      "explicacao": "O princípio do dano fornece exatamente esse corte: dano a terceiros justifica restrição, desconforto ou ofensa não justificam, e conteúdo apenas incômodo fica protegido. Em (d) está o paternalismo que Mill recusa de modo explícito, ao limitar a intervenção legítima aos casos de dano a outros. Em (a), a opinião da maioria é o critério que o princípio serve para neutralizar, já que Mill defende a circulação de opiniões impopulares. Em (c), o princípio orienta a coerção sobre indivíduos e não converte plataforma privada em espaço obrigatoriamente aberto. Em (e), a verificação de veracidade introduz um critério diferente do dano."
+    },
+    {
+      "id": "filosofia-sociologia-78",
+      "texto_apoio": "O neoliberalismo defende a redução da intervenção estatal na economia, a privatização de empresas públicas e a desregulamentação de mercados.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esse conjunto de ideias ajuda a situar qual posição em debates contemporâneos sobre a privatização de serviços públicos como saneamento e distribuição de energia?",
+      "alternativas": {
+        "a": "a que defende ampliar o investimento público em infraestrutura como motor do crescimento",
+        "b": "a que transfere esses serviços à iniciativa privada, esperando ganho de eficiência pela concorrência",
+        "c": "a que mantém a operação estatal e apenas terceiriza a execução de obras a empresas privadas",
+        "d": "a que privatiza o serviço e dispensa a existência de uma agência que regule tarifa, qualidade e investimento",
+        "e": "a que condiciona a privatização à aprovação prévia dos usuários em consulta popular vinculante"
+      },
+      "resposta": "b",
+      "explicacao": "A posição neoliberal aposta que a exposição à concorrência disciplina o prestador melhor do que o controle estatal direto, e é esse o argumento mobilizado a favor da privatização de saneamento e energia. Em (d) está o distrator mais fino: privatizar sem regulação não é a posição corrente dessa corrente, que trata a agência reguladora como condição para que a concorrência funcione em setores de rede. Em (a) e (c), ampliar investimento público e manter a operação estatal são posições opostas ao programa descrito. Em (e), a consulta vinculante é um critério de legitimidade democrática, alheio ao argumento econômico em questão."
+    },
+    {
+      "id": "filosofia-sociologia-80",
+      "texto_apoio": "Diferentemente de uma concepção puramente eleitoral, a \"democracia deliberativa\" enfatiza a legitimidade das decisões políticas fundada em processos amplos de debate público e troca de razões entre cidadãos.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Esse conceito ajuda a situar qual justificativa para a adoção de orçamentos participativos e assembleias de cidadãos sorteados para debater políticas públicas específicas, como as climáticas?",
+      "alternativas": {
+        "a": "a de que a participação direta reduz o custo administrativo da execução orçamentária",
+        "b": "a de que o sorteio dos participantes produz uma amostra estatisticamente representativa do país inteiro",
+        "c": "a de que essas assembleias devem substituir as eleições como forma de escolher governantes",
+        "d": "a de que a decisão técnica sobre clima deve caber a especialistas, e não a cidadãos comuns",
+        "e": "a de que a legitimidade vem também da discussão direta entre cidadãos sobre o conteúdo das políticas"
+      },
+      "resposta": "e",
+      "explicacao": "A tese deliberativa desloca a fonte da legitimidade: além do mandato conferido na eleição, conta o processo de troca de razões sobre o mérito da política, e é isso que orçamentos participativos e assembleias sorteadas tentam institucionalizar. Em (c) está o excesso mais comum — esses arranjos complementam o processo representativo e não o substituem. Em (b), a representatividade estatística é um argumento de método do sorteio, não a justificativa deliberativa. Em (d), entregar a decisão a especialistas é a concepção tecnocrática, oposta à deliberativa. Em (a), a economia administrativa é efeito eventual, não fundamento de legitimidade."
+    },
+    {
+      "id": "filosofia-sociologia-81",
+      "texto_apoio": "A ciência política costuma caracterizar o populismo pela construção discursiva de uma oposição entre um \"povo\" homogêneo e virtuoso e uma \"elite\" corrupta e distante dos interesses populares.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Essa caracterização ajuda a analisar qual estratégia discursiva recorrente em campanhas políticas que se apresentam como vozes diretas e autênticas do povo contra instituições tradicionais?",
+      "alternativas": {
+        "a": "a construção de uma narrativa técnica, que apresenta decisões como resultado de cálculo especializado",
+        "b": "a construção de uma disputa entre partidos de um mesmo campo ideológico pela liderança do bloco",
+        "c": "a construção de uma oposição entre organismos internacionais e organizações não governamentais",
+        "d": "a construção de um programa setorial detalhado, dirigido a categorias profissionais específicas",
+        "e": "a construção de uma oposição entre um povo idealizado e instituições apresentadas como corruptas"
+      },
+      "resposta": "e",
+      "explicacao": "O núcleo do discurso populista é essa dicotomia, somada à pretensão de que o líder representa o povo diretamente, sem a mediação de partidos, parlamento ou imprensa. Em (a) está o distrator mais instrutivo, porque descreve o discurso tecnocrático, que é o oposto simétrico: um funda a legitimidade na vontade popular imediata, o outro na competência especializada. Em (d), o programa setorial detalhado dirige-se a categorias e não a um povo homogêneo. Em (b) e (c), disputas intrapartidárias e conflitos entre organismos internacionais podem existir, mas nenhuma delas mobiliza a oposição povo-elite que define o fenômeno."
+    },
+    {
+      "id": "filosofia-sociologia-82",
+      "texto_apoio": "Bourdieu descreve a \"violência simbólica\" como uma forma de dominação imposta e, ao mesmo tempo, reconhecida como legítima pelos próprios dominados, que a incorporam sem percebê-la como imposição arbitrária.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esse conceito ajuda a analisar qual efeito do uso generalizado de filtros de beleza em fotos e vídeos publicados em redes sociais?",
+      "alternativas": {
+        "a": "o de padrões estéticos serem internalizados como naturais, sem serem vistos como construção",
+        "b": "o de o uso prolongado de telas afetar a qualidade do sono e a capacidade de concentração ao longo do dia",
+        "c": "o de plataformas coagirem diretamente os usuários a editar as imagens que publicam",
+        "d": "o de o padrão de beleza depender de lei formal para se impor ao conjunto dos usuários",
+        "e": "o de usuários reconhecerem o filtro como artifício e ainda assim optarem por empregá-lo"
+      },
+      "resposta": "a",
+      "explicacao": "A violência simbólica opera por reconhecimento, não por coação: o padrão é adotado como se fosse evidente por si, e é essa naturalização que o torna eficaz sem precisar de imposição visível. Em (e) está o distrator mais difícil, porque descreve algo verdadeiro sobre o uso de filtros — mas reconhecer o artifício é o oposto do desconhecimento que o conceito exige, e por isso o caso escapa da definição. Em (c) e (d), coerção direta e lei formal são as formas explícitas de imposição que Bourdieu contrapõe à simbólica. Em (b), o efeito sobre sono e concentração é fisiológico, sem relação com dominação simbólica."
+    },
+    {
+      "id": "filosofia-sociologia-83",
+      "texto_apoio": "Segundo a perspectiva \"dramatúrgica\" de Goffman, os indivíduos administram ativamente a impressão que desejam causar em uma \"plateia\", adaptando sua apresentação conforme o contexto social.",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Essa perspectiva ajuda a analisar qual crítica frequente à diferença entre a imagem de vida cuidadosamente editada por usuários em redes sociais e sua rotina cotidiana real?",
+      "alternativas": {
+        "a": "a de que perfis em redes expõem dados pessoais a empresas sem consentimento informado",
+        "b": "a de que o perfil revela de forma espontânea e integral a personalidade de cada usuário",
+        "c": "a de que os usuários seguem um mesmo roteiro em todas as situações, seja qual for a plateia",
+        "d": "a de que a edição da imagem é fenômeno novo, sem equivalente na sociabilidade fora das redes",
+        "e": "a de que o perfil funciona como palco em que se seleciona o que apresentar à audiência"
+      },
+      "resposta": "e",
+      "explicacao": "Goffman descreve a interação como apresentação diante de uma plateia, com um palco onde se mostra o que convém e um bastidor onde fica o resto — o perfil editado é essa estrutura transposta para a rede. Em (d) está o erro que a perspectiva dramatúrgica serve para corrigir: a administração da própria imagem não nasce com as redes, é traço geral da vida social, e a rede apenas lhe dá novos recursos. Em (b), a espontaneidade integral contraria a seleção que define o conceito. Em (c), a adaptação conforme a plateia é justamente o que Goffman descreve. Em (a), a exposição de dados é questão de privacidade, não de apresentação de si."
+    }
+  ]
+}

@@ -31,7 +31,7 @@
      admin.html) — sem isso a correção leva até 10 minutos pra chegar em quem
      já visitou, e foi exatamente o que aconteceu na primeira publicação da
      reescrita das alternativas. -->
-<link rel="stylesheet" href="styles.css?v=7">
+<link rel="stylesheet" href="styles.css?v=8">
 </head>
 <body>
 <div id="app">
@@ -80,6 +80,23 @@
       um plano do zero e isso sim bagunçaria o que está salvo.</p>
       <button id="btn-tentar-sync" class="btn btn-primary">Tentar de novo</button>
       <button id="btn-sair-sync" class="btn btn-secondary">Sair da conta</button>
+    </div>
+  </section>
+
+  <!-- ESCOLHA DE TRILHA: só aparece para quem ainda não escolheu.
+       Vem DEPOIS do sync de propósito — quem já escolheu em outro aparelho
+       não pode ser perguntado de novo (ver auth.js). -->
+  <section id="view-escolha-trilha" class="view" hidden>
+    <div class="card onboarding-card">
+      <div class="onboarding-logo-wrap">
+        <img class="onboarding-logo" src="assets/logo.svg" alt="">
+      </div>
+      <h1>Para qual curso você vai estudar?</h1>
+      <p class="subtitle">Cada trilha tem seu próprio plano de 90 dias, montado a partir do formato
+      real das provas daquele curso. Você pode trocar depois — seu progresso em cada trilha fica
+      guardado em separado.</p>
+      <div id="trilha-cards" class="trilha-cards"></div>
+      <p id="trilha-erro" class="login-error" hidden></p>
     </div>
   </section>
 
@@ -203,7 +220,7 @@
       <!-- TAB: PROGRESSO -->
       <section id="tab-progresso" class="tab-panel">
         <h2>Meu progresso por frente de estudo</h2>
-        <p class="hint">Acompanhe seu desempenho em cada uma das 16 frentes cobradas pelas provas.</p>
+        <p class="hint" id="progresso-hint">Acompanhe seu desempenho em cada frente cobrada pelas provas.</p>
         <div id="projected-score-container"></div>
         <div id="progress-list" class="progress-list"></div>
 
@@ -212,11 +229,12 @@
           <p class="lesson-desc">Os exercícios deste app são originais, criados no estilo das provas — não são
           cópias de provas reais (por direitos autorais). Para treinar com o material 100% autêntico, com gabarito
           oficial, acesse diretamente os arquivos publicados pelas próprias instituições:</p>
-          <div class="video-links">
-            <a class="btn-link" target="_blank" rel="noopener" href="https://vestibular.fgv.br/provas-gabaritos">▶ Provas e gabaritos oficiais — FGV</a>
-            <a class="btn-link" target="_blank" rel="noopener" href="https://www.insper.edu.br/content/insper-portal/pt/cursos/vestibular/provas-e-gabaritos.html">▶ Provas e gabaritos oficiais — Insper</a>
-          </div>
+          <!-- Preenchido por app.js a partir de VD_TRILHA.config().provasOficiais -->
+          <div class="video-links" id="provas-oficiais-links"></div>
         </div>
+
+        <!-- Troca de trilha: preenchido por app.js -->
+        <div id="trocar-trilha-container"></div>
 
         <div id="corrigir-inicio-container"></div>
 
@@ -232,20 +250,14 @@
 
 </div>
 
-<!-- Conteúdo compartilhado com o v1: uma base só de questões, teoria, obras e flashcards.
-     Corrigir uma questão no v1 corrige nos dois apps. -->
-<script src="../vestibular-direito/data/subtopics.js?d=13"></script>
-<script src="../vestibular-direito/data/theory.js?d=13"></script>
-<script src="../vestibular-direito/data/obras.js?d=13"></script>
-<script src="../vestibular-direito/data/obras-questoes.js?d=13"></script>
-<script src="../vestibular-direito/data/flashcards.js?d=13"></script>
-<script src="../vestibular-direito/data/priority-weights.js?d=13"></script>
-<script src="../vestibular-direito/data/video-topics.js?d=13"></script>
-<script src="../vestibular-direito/data/bundle.js?d=13"></script>
-<script src="../vestibular-direito/data/dissertativas.js?d=13"></script>
-<script src="../vestibular-direito/data/redacoes.js?d=13"></script>
-<script src="schedule.js?v=7"></script>
-<script src="app.js?v=7"></script>
-<script type="module" src="auth.js?v=7"></script>
+<!-- Os arquivos de dados NÃO são mais carregados aqui.
+     Quem carrega é o trilhas.js, depois do login, sabendo qual curso a pessoa
+     escolheu — só os dados daquela trilha entram no navegador. O conteúdo de
+     Direito continua sendo o mesmo do v1: corrigir uma questão lá corrige nos
+     dois apps. -->
+<script src="trilhas.js?v=8"></script>
+<script src="schedule.js?v=8"></script>
+<script src="app.js?v=8"></script>
+<script type="module" src="auth.js?v=8"></script>
 </body>
 </html>

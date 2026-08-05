@@ -1,0 +1,260 @@
+{
+  "subtopic": "ingles",
+  "questoes": [
+    {
+      "id": "ingles-01",
+      "textoId": "ing-c01-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following claims?",
+      "alternativas": {
+        "a": "A sentence is likelier to be misattributed to an admired figure than to an obscure one.",
+        "b": "Most false quotations are created deliberately by people who profit from them.",
+        "c": "Readers who share a false quotation usually know its source was never verified.",
+        "d": "Corrections published by researchers normally end a false attribution for good.",
+        "e": "The sentences that circulate falsely tend to contradict the ideas their audience already holds."
+      },
+      "resposta": "a",
+      "explicacao": "O primeiro parágrafo é explícito: os nomes que atraem citações falsas quase nunca são obscuros, e pertencem a autores em quem o público já confia. Em (e) está a inversão exata da segunda metade da mesma frase, que diz que as sentenças exprimem ideias que o público já sustenta. Em (b), o terceiro parágrafo afirma que quase ninguém lucra com o engano e que não há indústria de falsificação. Em (c), o mesmo parágrafo diz que verificar levaria quatro minutos que ninguém tem. Em (d), a correção circulou por uma semana e a versão falsa voltou."
+    },
+    {
+      "id": "ingles-04",
+      "textoId": "ing-c01-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that, before the currency was allowed to float,",
+      "alternativas": {
+        "a": "the cost of an overvalued currency was borne by nobody in particular at the time.",
+        "b": "imported goods were unavailable to households at almost any price.",
+        "c": "the official exchange rate was kept secret from most private traders.",
+        "d": "a transfer of wealth was already taking place, with victims harder to see.",
+        "e": "the central banks of these countries were already formally independent."
+      },
+      "resposta": "d",
+      "explicacao": "O segundo parágrafo diz que a transferência anterior de riqueza para os bem relacionados aconteceu num balcão, em silêncio, ao longo de anos, e que o aumento de preços já estava sendo pago por gente sem posição para reclamar. Em (a) está a leitura que o texto existe para desmentir: o custo tinha quem o pagasse, apenas não era visível. Em (c), o primeiro parágrafo afirma que a diferença de câmbio não era segredo. Em (e), a independência formal do banco central aparece como condição imposta depois, junto aos empréstimos. Em (b), havia importação, a preços do mercado paralelo."
+    },
+    {
+      "id": "ingles-10",
+      "textoId": "ing-c01-t4",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "Administrative measures can shut an organisation down while remaining defensible.",
+        "b": "Governments adopt these methods mainly because they cost less than police action.",
+        "c": "International sanctions have been redesigned to respond to gradual processes.",
+        "d": "Courts in these countries have generally refused to apply the rules described.",
+        "e": "Jailing a journalist is the least costly option available to such a government."
+      },
+      "resposta": "a",
+      "explicacao": "O primeiro parágrafo descreve a sequência inteira — registro, auditoria, multa, fechamento — e conclui que nada nela parece repressão de fora e que cada passo pode ser defendido em tribunal. Em (b) está o distrator mais tentador, e o segundo parágrafo o nega na abertura: a vantagem do método não é eficiência, e processar um tesoureiro é mais lento e mais caro que prender um organizador. Em (e), prender um jornalista é apresentado como o caminho que gera problema internacional. Em (c), as sanções pressupõem um evento e não sabem lidar com processos. Em (d), o método depende de tribunais complacentes que ainda funcionam."
+    },
+    {
+      "id": "ingles-24",
+      "textoId": "ing-c02-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the last paragraph, 'the very problem they were describing' most likely refers to",
+      "alternativas": {
+        "a": "the tendency of a memorable account to spread faster than its evidence.",
+        "b": "the difficulty of measuring carbon transfer in a mature forest rather than pots.",
+        "c": "the reluctance of documentary makers to interview working researchers.",
+        "d": "the absence of fungal networks in certain kinds of forest soil.",
+        "e": "the cost of repeating a field study in several different locations."
+      },
+      "resposta": "a",
+      "explicacao": "A ironia é que o episódio virou ele próprio um caso célebre e memorável, repetido mais pela história que conta do que pela evidência que reúne — exatamente o mecanismo denunciado no terceiro parágrafo, quando uma hipótese vira fato entre o periódico e o documentário. Em (b) está o distrator mais próximo, porque a medição em floresta madura é de fato uma crítica dos autores, mas é o conteúdo da objeção, não o problema que eles reencenam sem querer. Em (d), os críticos afirmam o contrário: não negam a existência das redes. Em (c) e (e), nem a recusa de documentaristas nem o custo de replicação são mencionados."
+    },
+    {
+      "id": "ingles-47",
+      "textoId": "ing-c04-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the second paragraph, 'that habit of attention' most likely refers to",
+      "alternativas": {
+        "a": "the practice of collecting a language's terms for snow in a dictionary.",
+        "b": "the continuous tracking of terrain that the language's spatial terms require.",
+        "c": "the effort of naming a cousin on the mother's side differently from one on the father's.",
+        "d": "the decision to teach a child the language that will get them work.",
+        "e": "the reading of old texts by a community that has revived its language."
+      },
+      "resposta": "b",
+      "explicacao": "A expressão retoma a frase imediatamente anterior: falantes obrigados a dizer se um objeto está acima ou abaixo na encosta acompanham o terreno continuamente, na conversa comum e sem esforço — e é esse hábito que nenhum dicionário preserva. Em (c) está o distrator mais próximo, porque o sistema de parentesco também é uma distinção codificada pela língua, mas o texto o cita como exemplo célebre, e não como hábito de atenção contínua. Em (a), os termos para neve entram na mesma lista de exemplos famosos. Em (d) e (e), a decisão dos pais e a leitura de textos antigos pertencem aos parágrafos seguintes."
+    },
+    {
+      "id": "ingles-62",
+      "textoId": "ing-c05-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "referencia",
+      "enunciado": "In the second paragraph, 'which relocates the problem' most likely refers to the effect of",
+      "alternativas": {
+        "a": "naming the act that the institution has actually committed.",
+        "b": "offering a change or a reparation to the people who were harmed.",
+        "c": "making the feelings of other people, rather than the act, the subject.",
+        "d": "obtaining approval for the statement from the institution's legal counsel.",
+        "e": "publishing a disclosure policy of the kind adopted by health systems."
+      },
+      "resposta": "c",
+      "explicacao": "A oração relativa comenta a frase imediatamente anterior: o sujeito da sentença não é a instituição, e sim os sentimentos de outras pessoas, e é essa troca de sujeito que desloca o problema para quem o notou. Em (a) e (b) estão duas operações que o parágrafo lista como próprias de um pedido de desculpas de verdade, e que a fórmula analisada justamente não realiza. Em (d), a aprovação jurídica aparece no terceiro parágrafo, como razão da sobrevivência da fórmula. Em (e), a política de divulgação pertence ao quarto parágrafo, sobre o que a pesquisa mostra."
+    },
+    {
+      "id": "ingles-65",
+      "textoId": "ing-c05-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following about flood cover?",
+      "alternativas": {
+        "a": "It is hard to insure because the losses are not independent of one another.",
+        "b": "It is the line in which private companies compete most fiercely of all.",
+        "c": "It has historically been left entirely to the private market in most countries.",
+        "d": "It became difficult to write only after state schemes were introduced.",
+        "e": "It is priced in exactly the same way as cover against a house fire."
+      },
+      "resposta": "a",
+      "explicacao": "O primeiro parágrafo estabelece o princípio — o seguro reúne riscos independentes — e mostra que a enchente chega a todos ao mesmo tempo, o que a torna a linha mais difícil de subscrever. Em (c) está a inversão da frase seguinte, que diz que o Estado participa dessa linha em quase todos os países. Em (d), a dificuldade é anterior e é o que motiva os esquemas estatais. Em (e), o incêndio é justamente o contraexemplo de risco independente. Em (b), o texto descreve a retirada das seguradoras privadas das áreas de maior risco, não competição acirrada."
+    },
+    {
+      "id": "ingles-79",
+      "textoId": "ing-c06-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that formalisation drives have failed because they",
+      "alternativas": {
+        "a": "offered benefits too generous for a public budget to sustain over time.",
+        "b": "were applied only to the largest firms in each sector rather than to small ones.",
+        "c": "relied on credit programmes that never reached the smallest businesses.",
+        "d": "were introduced before any amnesty had been announced to owners.",
+        "e": "treated the behaviour as the problem rather than the calculation behind it."
+      },
+      "resposta": "e",
+      "explicacao": "O terceiro parágrafo abre dizendo que os programas bem-sucedidos trataram o cálculo como aquilo que precisava mudar, em vez do comportamento — o que implica que fiscalização, multas e campanhas falharam por atacar o comportamento. Em (c) está o distrator mais próximo, porque o crédito é mesmo citado, mas como benefício lento que o dono pesa contra o custo imediato, não como o programa que falhou. Em (a), o problema não foi generosidade dos benefícios. Em (b), a fiscalização não se limitou às grandes empresas. Em (d), a anistia aparece na lista de medidas de fiscalização já tentadas."
+    },
+    {
+      "id": "ingles-82",
+      "textoId": "ing-c06-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "Extracting these metals requires drilling and blasting into the seabed.",
+        "b": "The sediment disturbed by the machines disperses quickly and settles close by.",
+        "c": "The regulatory code was agreed shortly after the negotiations began.",
+        "d": "The environmental cost lies mainly in the sediment the collection disturbs.",
+        "e": "Demand for each of these metals has continued to rise since the deposits were surveyed."
+      },
+      "resposta": "d",
+      "explicacao": "O segundo parágrafo é inteiro sobre a pluma: a máquina revolve a camada superior, a nuvem viaja devagar por falta de corrente e se deposita numa área muito ampla, com recuperação medida em décadas. Em (b) está a negação direta dessa passagem — o sedimento se dispersa lentamente e longe, e é isso que cria o problema. Em (a), o primeiro parágrafo diz que a coleta não exige perfuração nem detonação. Em (c), o código está em negociação há anos. Em (e), o último parágrafo afirma o contrário: mais de um dos metais é hoje usado em quantidade menor."
+    },
+    {
+      "id": "ingles-83",
+      "textoId": "ing-c06-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "detalhe",
+      "enunciado": "According to the text, tracks cut on the seabed in the 1980s",
+      "alternativas": {
+        "a": "have been fully recolonised by the organisms originally present.",
+        "b": "were erased by ocean currents within a few years of being cut.",
+        "c": "remain visible and less populated than the ground beside them.",
+        "d": "were never located again by any of the later expeditions.",
+        "e": "produced no disturbance that could be measured at the time."
+      },
+      "resposta": "c",
+      "explicacao": "A informação está na última frase do segundo parágrafo, e é literal: algumas trilhas abertas nos anos 1980 continuam visíveis e continuam menos povoadas que o terreno ao lado. Em (a) está o oposto do que se afirma, e é a leitura que a questão quer flagrar, porque décadas soariam suficientes para uma recuperação. Em (b), a ausência de corrente no fundo é justamente o que impede a dispersão. Em (d), as trilhas foram reencontradas, o que é a base da medição. Em (e), o distúrbio foi medido, e os tempos de recuperação vieram dessas medições."
+    },
+    {
+      "id": "ingles-98",
+      "textoId": "ing-c07-t3",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "detalhe",
+      "enunciado": "According to the text, in an open-label placebo trial the patients are",
+      "alternativas": {
+        "a": "given an active drug without being informed that they are.",
+        "b": "asked to guess which of the pills they have received.",
+        "c": "treated without receiving any pill at all during the trial.",
+        "d": "told explicitly that the pill contains no active ingredient.",
+        "e": "monitored by instruments rather than by their own self-report."
+      },
+      "resposta": "d",
+      "explicacao": "O segundo parágrafo define o desenho do ensaio numa frase: os pacientes são informados explicitamente de que a pílula não contém princípio ativo, e ainda assim pedem-se a eles que a tomem no horário. Em (c) está o distrator mais próximo, porque o grupo de comparação é justamente o que não recebe pílula alguma — trocar um grupo pelo outro é o erro que a questão testa. Em (a), a ausência de engano é o ponto do experimento. Em (b), não há adivinhação, já que nada é ocultado. Em (e), o terceiro parágrafo diz que o efeito aparece sobretudo no que o paciente relata."
+    },
+    {
+      "id": "ingles-121",
+      "textoId": "ing-c09-t1",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "Curators generally resist returning objects traced to a specific act.",
+        "b": "The documentation of the period rarely records how the objects were taken.",
+        "c": "A strict rule can be written that avoids both kinds of error at once.",
+        "d": "Recent agreements have moved from ownership towards shared authority.",
+        "e": "Most people working in the field hold one of the two absolute positions."
+      },
+      "resposta": "d",
+      "explicacao": "O último parágrafo descreve a mudança de pergunta — de quem é dono para quem decide — e conclui que quase todo acordo dos últimos anos foi desse tipo. Em (c) está a afirmação que o terceiro parágrafo nega palavra por palavra: nenhuma versão da regra evita os dois erros. Em (b), a documentação da época registra a tomada sem constrangimento. Em (a), os curadores em geral não contestam a devolução quando o objeto é rastreável a um ato específico. Em (e), a abertura do texto diz que quase ninguém da área sustenta qualquer das duas posições absolutas."
+    },
+    {
+      "id": "ingles-124",
+      "textoId": "ing-c09-t2",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely suggests that a country reporting low public spending on care",
+      "alternativas": {
+        "a": "may have transferred the cost to households rather than reduced it.",
+        "b": "has generally found a more efficient way of delivering that care.",
+        "c": "depends mainly on migration to fill the gap in its workforce.",
+        "d": "has raised its retirement age faster than its neighbours have.",
+        "e": "pays its care workers more than comparable countries do on average."
+      },
+      "resposta": "a",
+      "explicacao": "O último parágrafo diz exatamente isso: o país trata a cifra baixa como conquista, quando apenas moveu o custo de uma rubrica orçamentária para um conjunto de domicílios, onde ele reaparece como salários não auferidos e carreiras interrompidas. Em (b) está a leitura que o parágrafo chama de contabilidade enganosa. Em (c), a migração é uma das saídas descritas, mas o texto a associa a sistemas que gastam, e não aos de gasto baixo. Em (d), a idade de aposentadoria é a parte que o texto separa como facilmente ajustável. Em (e), o cuidado é descrito como trabalho mal pago em toda parte."
+    },
+    {
+      "id": "ingles-133",
+      "textoId": "ing-c09-t5",
+      "banca": "fgv",
+      "formato": "direta",
+      "tipoItem": "inferencia",
+      "enunciado": "The text most likely supports which of the following?",
+      "alternativas": {
+        "a": "Avoidance is driven by a judgement about usefulness rather than disbelief.",
+        "b": "People who avoid the news generally believe that what it reports is inaccurate.",
+        "c": "A single outlet could change the industry's equilibrium on its own.",
+        "d": "Correcting false claims addresses the reason that the avoiders give.",
+        "e": "Attention is rewarded slowly and over comparatively long periods."
+      },
+      "resposta": "a",
+      "explicacao": "O primeiro parágrafo já registra o motivo declarado nas pesquisas — não que a notícia seja falsa, mas que é implacável e não muda nada sobre o que o leitor possa agir — e a última frase do texto o repete. Em (b) e (d) está a confusão com desinformação que o segundo parágrafo desfaz: quem evita não descrê, de modo que corrigir não responde ao que foi dito. Em (c), o terceiro parágrafo mostra que um veículo isolado que resistisse perderia audiência. Em (e), a atenção é medida continuamente e recompensada de imediato."
+    },
+    {
+      "id": "ingles-150",
+      "textoId": "ing-c10-t5",
+      "banca": "fgv",
+      "formato": "excecao",
+      "tipoItem": "excecao",
+      "enunciado": "The text most likely supports all of the following EXCEPT:",
+      "alternativas": {
+        "a": "Funding decisions shape which of the material becomes searchable at all.",
+        "b": "A document that cannot be found by a search is effectively absent.",
+        "c": "Institutional papers are over-represented relative to personal ones.",
+        "d": "Some recent projects have chosen to scan the least visible collections first.",
+        "e": "Digitisation has preserved the different kinds of holding in equal measure."
+      },
+      "resposta": "e",
+      "explicacao": "A tese do texto é a oposta de (e): a digitalização virou um modo de selecionar, e o terceiro parágrafo lista as linhas previsíveis da distorção — línguas faladas por muitos, países ricos, instituições em vez de indivíduos. As outras quatro estão sustentadas: (a) e (c) vêm do primeiro e do terceiro parágrafos, (b) é a frase sobre o pesquisador que busca em vez de folhear, e (d) descreve os projetos do último parágrafo, que invertem a prioridade e digitalizam primeiro os acervos menos visíveis."
+    }
+  ]
+}

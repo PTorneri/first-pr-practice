@@ -1,0 +1,242 @@
+{
+  "subtopic": "geografia",
+  "questoes": [
+    {
+      "id": "geografia-27",
+      "texto_apoio": "Nas últimas décadas, observa-se um processo de desconcentração industrial no Brasil, com a expansão de polos industriais fora do eixo tradicional Sudeste.",
+      "formato": "direta",
+      "enunciado": "Esse processo de desconcentração relaciona-se, entre outros fatores, a:",
+      "alternativas": {
+        "a": "A concentração de universidades técnicas fora do eixo Sudeste, o que deslocaria a mão de obra qualificada",
+        "b": "O esgotamento das reservas de matéria-prima disponíveis no estado de São Paulo",
+        "c": "A saturação do mercado consumidor paulista, que deixou de absorver a produção",
+        "d": "Guerra fiscal entre estados, custos menores de mão de obra e terrenos e melhor logística",
+        "e": "Decisão federal de fechar parques industriais em São Paulo para redistribuir empregos"
+      },
+      "resposta": "d",
+      "explicacao": "A desconcentração foi puxada por vantagem de custo — renúncia fiscal disputada entre estados, salários e terra mais baratos — e viabilizada por rodovias e portos que encurtaram a distância até o mercado. Em (c) está o distrator mais plausível, porque saturação de mercado é causa real de deslocamento industrial em outros contextos; aqui não se aplica, já que São Paulo segue sendo o maior mercado consumidor do país. Em (b), a indústria paulista não depende de matéria-prima local. Em (a), as universidades técnicas continuam concentradas no Sudeste. Em (e), não houve decisão federal de fechar parques industriais."
+    },
+    {
+      "id": "geografia-28",
+      "texto_apoio": "A segurança alimentar e nutricional é um conceito central nos estudos sobre geografia da fome, como os de Josué de Castro.",
+      "formato": "direta",
+      "enunciado": "Esse conceito refere-se ao direito de todas as pessoas a:",
+      "alternativas": {
+        "a": "Receber cestas básicas do Estado como forma legítima de acesso à alimentação",
+        "b": "Escolher livremente sua dieta, sem que o poder público interfira na oferta ou no preço",
+        "c": "Acesso regular e permanente a alimento de qualidade, sem comprometer outras necessidades",
+        "d": "Consumir apenas alimentos de origem nacional, seja qual for o preço ou a disponibilidade regional",
+        "e": "Produzir os próprios alimentos em regime de subsistência, sem depender do mercado"
+      },
+      "resposta": "c",
+      "explicacao": "A definição tem três partes que precisam valer juntas: regularidade, qualidade e o fato de comer não custar o acesso a moradia, saúde ou transporte — é por isso que o conceito é de segurança, e não apenas de disponibilidade de comida. Em (a) está o distrator mais próximo, porque a cesta básica é um instrumento real de política pública, mas descreve uma forma de atendimento emergencial, e não o direito que a define. Em (e), a autoprodução é uma via entre outras. Em (b) e (d), liberdade de escolha e origem nacional do alimento não integram o conceito."
+    },
+    {
+      "id": "geografia-41",
+      "texto_apoio": "",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "O movimento pendular, estudado pela geografia urbana, refere-se a:",
+      "alternativas": {
+        "a": "Deslocamento definitivo de uma pessoa de uma cidade para outra, sem retorno",
+        "b": "Migração sazonal de trabalhadores rurais conforme o calendário de colheitas",
+        "c": "Ocupação de áreas periféricas por moradores expulsos do centro pela valorização",
+        "d": "Deslocamento diário entre o município de residência e o de trabalho ou estudo",
+        "e": "Deslocamento de refugiados entre países vizinhos em razão de conflitos armados"
+      },
+      "resposta": "d",
+      "explicacao": "O nome vem do vaivém: a pessoa sai e volta no mesmo dia, sem mudar de residência, e é esse retorno que separa o pendular de qualquer migração. Em (b) está o distrator mais fino, porque a migração sazonal também é cíclica — mas o ciclo é anual e implica morar fora por meses, e não o retorno diário. Em (a) e (e), o traço comum é a ausência de retorno, o que descarta as duas. Em (c), a periferização é mudança de residência, e costuma ser a causa do movimento pendular, não o movimento em si."
+    },
+    {
+      "id": "geografia-49",
+      "texto_apoio": "",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "A partir da década de 2010, o Brasil recebeu fluxos significativos de imigrantes haitianos e, posteriormente, venezuelanos, este último grupo sobretudo pela fronteira com Roraima. Esses movimentos migratórios foram motivados, entre outros fatores, por:",
+      "alternativas": {
+        "a": "A assinatura do Acordo de Residência do Mercosul, que garantiria livre circulação",
+        "b": "Campanha de recrutamento de mão de obra por empresas brasileiras nos países de origem",
+        "c": "Acordo bilateral que teria garantido cidadania automática a venezuelanos que cruzassem a fronteira",
+        "d": "Crises políticas e humanitárias na origem, como o terremoto no Haiti e o colapso venezuelano",
+        "e": "Busca por clima melhor, já que Roraima teria clima semelhante ao caribenho de origem"
+      },
+      "resposta": "d",
+      "explicacao": "Os dois fluxos são de expulsão, não de atração: o terremoto de 2010 e a crise econômica venezuelana produziram deslocamentos que o Brasil recebeu por proximidade e por acolhida humanitária. Em (a) está o distrator mais informado, porque o Acordo de Residência do Mercosul existe e facilita a regularização — só que o Haiti não é signatário, e a Venezuela estava suspensa do bloco no período. Em (c), não houve concessão automática de cidadania. Em (b), não houve recrutamento organizado por empresas. Em (e), o clima não figura entre as causas documentadas desses fluxos."
+    },
+    {
+      "id": "geografia-71",
+      "texto_apoio": "",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "Embora frequentemente associados, 'desmatamento' e 'queimada' não são sinônimos. A distinção entre esses dois conceitos está no fato de que:",
+      "alternativas": {
+        "a": "A queimada é fenômeno espontâneo da vegetação nativa, sem intervenção humana",
+        "b": "Os dois processos ocorrem apenas em vegetação rasteira, como Cerrado e Pampa",
+        "c": "O desmatamento só pode ser identificado por satélite quando acompanhado de queimada visível",
+        "d": "A queimada antecede a remoção mecânica, sendo as duas fases de um mesmo processo",
+        "e": "O desmatamento remove a cobertura florestal; a queimada é o uso do fogo, mesmo em pé"
+      },
+      "resposta": "e",
+      "explicacao": "São coisas que se cruzam sem coincidir: derrubar sem queimar acontece, e o fogo também avança por floresta de pé, degradando-a sem removê-la — daí a Amazônia registrar áreas queimadas maiores que as desmatadas em certos anos. Em (d) está o distrator mais forte, porque a sequência derruba-queima-planta é real na abertura de área; ela descreve um caso frequente, e não a distinção entre os conceitos. Em (a), a maior parte das queimadas brasileiras tem origem humana. Em (b), ambos ocorrem em floresta. Em (c), os sistemas do INPE detectam corte raso sem fogo."
+    },
+    {
+      "id": "geografia-72",
+      "texto_apoio": "Um gráfico de linhas mostra a taxa anual de desmatamento na Amazônia Legal brasileira (em km² desmatados por ano), medida pelo sistema de monitoramento do INPE, ao longo de 4 anos consecutivos: Ano 1: 10.000 km²; Ano 2: 8.000 km²; Ano 3: 7.000 km²; Ano 4: 9.000 km².",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Com base nesse gráfico, é correto afirmar que:",
+      "alternativas": {
+        "a": "A soma dos quatro anos supera 40.000 km², com média anual acima de 10.000 km²",
+        "b": "O Ano 3 representa o menor patamar já registrado na série histórica da Amazônia",
+        "c": "A queda entre o Ano 1 e o Ano 3 garante que a redução se manterá nos anos seguintes",
+        "d": "O total desmatado nos quatro anos foi de 34.000 km², com novo aumento no Ano 4",
+        "e": "A área de floresta aumentou no período, já que todos os valores são positivos"
+      },
+      "resposta": "d",
+      "explicacao": "Somando 10.000, 8.000, 7.000 e 9.000 chega-se a 34.000 km², e a série sobe de novo no último ano, depois de dois anos de queda. Em (e) está o erro de leitura que a questão testa: a taxa é de área desmatada por ano, de modo que valor positivo significa floresta perdida, e não ganha — só um valor zero interromperia a perda. Em (a), a soma é 34.000 e a média, 8.500. Em (b), o gráfico traz quatro anos e não autoriza afirmação sobre a série histórica. Em (c), tendência observada não garante comportamento futuro, como o próprio Ano 4 demonstra."
+    },
+    {
+      "id": "geografia-75",
+      "texto_apoio": "",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "A poluição do ar em grandes centros urbanos, causada principalmente pela emissão de gases por veículos automotores e indústrias, está associada a:",
+      "alternativas": {
+        "a": "Redução das doenças infecciosas, já que os poluentes inibiriam vetores urbanos",
+        "b": "Fenômeno restrito a cidades de clima frio, sem relevância em clima tropical",
+        "c": "Aumento de doenças respiratórias e cardiovasculares, além de agravar o efeito estufa",
+        "d": "Redução da temperatura média das cidades, já que as partículas em suspensão bloqueiam a radiação",
+        "e": "Melhoria geral da qualidade do ar nas áreas centrais em relação às áreas rurais"
+      },
+      "resposta": "c",
+      "explicacao": "O material particulado fino atinge as vias respiratórias e a corrente sanguínea, elevando internações por asma, bronquite e eventos cardíacos, e parte dos gases emitidos é a mesma que intensifica o efeito estufa. Em (d) está o distrator com mais fundo de verdade: partículas em suspensão de fato refletem radiação e podem produzir resfriamento regional, mas na cidade prevalece a ilha de calor, e o efeito líquido é de aquecimento. Em (a), poluição não reduz doença infecciosa. Em (b), o fenômeno é intenso em metrópoles tropicais. Em (e), o ar central costuma ser pior que o rural."
+    },
+    {
+      "id": "geografia-87",
+      "texto_apoio": "",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "O conceito de 'agronegócio', usado pela geografia econômica, refere-se não apenas à produção agropecuária em si, mas também:",
+      "alternativas": {
+        "a": "Às atividades de agricultura familiar de subsistência, fora das grandes cadeias",
+        "b": "Ao conjunto que inclui insumos, processamento, armazenamento, transporte e distribuição",
+        "c": "Ao segmento financeiro que negocia contratos futuros de commodities em bolsa",
+        "d": "À exportação de produtos agrícolas in natura, sem etapa de processamento industrial",
+        "e": "Às propriedades rurais com área superior a quinze módulos fiscais, seja qual for a atividade"
+      },
+      "resposta": "b",
+      "explicacao": "O conceito é de cadeia: o que acontece antes da porteira (semente, fertilizante, máquina) e depois dela (esmagamento, armazém, ferrovia, exportação) pesa tanto quanto a lavoura, e é essa integração que o termo nomeia. Em (c) e (d) estão dois elos verdadeiros da cadeia apresentados como se fossem o todo — o mercado futuro e a exportação in natura existem, mas reduzir o agronegócio a qualquer um deles perde a definição. Em (e), o tamanho da propriedade é critério fundiário, de outra classificação. Em (a), a agricultura familiar é justamente o termo de contraste."
+    },
+    {
+      "id": "geografia-103",
+      "texto_apoio": "",
+      "formato": "direta",
+      "dificuldade": "media",
+      "enunciado": "O conceito de 'bônus demográfico' refere-se a um período em que:",
+      "alternativas": {
+        "a": "Toda a população passa a estar em idade ativa, sem crianças nem idosos",
+        "b": "A população total do país cresce em ritmo acelerado, ampliando todas as faixas etárias da pirâmide",
+        "c": "A proporção em idade ativa supera a de dependentes, o que pode favorecer o crescimento",
+        "d": "A população entra em declínio absoluto, independentemente da estrutura etária",
+        "e": "A proporção de crianças e idosos supera de forma crescente a de pessoas em idade ativa"
+      },
+      "resposta": "c",
+      "explicacao": "O bônus é uma relação, não um tamanho: com a fecundidade já em queda e o envelhecimento ainda por vir, a fatia em idade de trabalhar fica temporariamente maior que a de dependentes. Em (b) está a confusão mais comum — crescimento populacional acelerado não é bônus, e o bônus surge justamente quando o crescimento desacelera. Em (e), o quadro descrito é o posterior, de envelhecimento. Em (d), declínio absoluto é outro fenômeno. Em (a), nenhuma pirâmide etária real elimina crianças e idosos."
+    },
+    {
+      "id": "geografia-104",
+      "texto_apoio": "O Brasil atravessou, nas últimas décadas, seu período de bônus demográfico, com elevada proporção de população em idade ativa.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Entretanto, estudiosos alertam que esse bônus demográfico:",
+      "alternativas": {
+        "a": "Garante crescimento econômico automático, independentemente de investimento em educação",
+        "b": "É janela temporária, que precisa ser aproveitada com educação, qualificação e emprego",
+        "c": "Tende a se manter de forma permanente, já que decorre da estrutura etária consolidada",
+        "d": "Já se encerrou no Brasil na década de 1980, antes da transição demográfica avançada",
+        "e": "É fenômeno permanente, que se repete a cada geração, sem relação com a estrutura etária"
+      },
+      "resposta": "b",
+      "explicacao": "A janela se fecha sozinha: a mesma queda de fecundidade que a abriu produz, décadas depois, uma população idosa numerosa, e o ganho só se converte em renda se houver escolaridade e emprego enquanto ela está aberta. Em (a) está o alerta invertido — o bônus é oportunidade, não garantia, e países que não investiram envelheceram sem enriquecer. Em (c) e (e), a permanência contraria a própria dinâmica etária que define o fenômeno. Em (d), o bônus brasileiro se estendeu bem além dos anos 1980 e se encerra por volta desta década."
+    },
+    {
+      "id": "geografia-110",
+      "texto_apoio": "",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "O aumento da frequência e intensidade de enchentes em diversas cidades brasileiras, mesmo em episódios de chuva que não seriam considerados excepcionais décadas atrás, está relacionado, entre outros fatores, a:",
+      "alternativas": {
+        "a": "Redução comprovada do volume total de chuvas nas regiões metropolitanas brasileiras",
+        "b": "Impermeabilização do solo, ocupação de várzeas e encostas e drenagem insuficiente",
+        "c": "Queda na taxa de urbanização das grandes cidades, que reduziu a manutenção da drenagem",
+        "d": "Aumento da vegetação nativa nas cidades, que passou a reter água e sobrecarregar a rede",
+        "e": "Aumento isolado do volume de chuvas, sem relação com a forma de ocupação do solo urbano"
+      },
+      "resposta": "b",
+      "explicacao": "A chave está no enunciado: a chuva não precisou aumentar para a enchente piorar. Asfalto e telhado impedem a infiltração, a várzea que armazenaria a cheia virou bairro, e o que sobra escoa para uma rede subdimensionada. Em (e) está o distrator mais tentador, porque eventos extremos realmente têm se intensificado — mas atribuir tudo à chuva ignora que a mesma precipitação de antes hoje alaga. Em (a) e (c), redução de chuva e queda de urbanização não se verificam. Em (d), a vegetação urbana favorece a infiltração e reduz o escoamento."
+    },
+    {
+      "id": "geografia-112",
+      "texto_apoio": "Uma tabela comparativa apresenta dados aproximados de dois municípios hipotéticos: Município X, com 90% de cobertura de saneamento básico, registrou 5 casos de doenças de veiculação hídrica por 10 mil habitantes no ano; Município Y, com 40% de cobertura de saneamento básico, registrou 45 casos de doenças de veiculação hídrica por 10 mil habitantes no mesmo ano.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Com base nesses dados, qual conclusão é mais adequada do ponto de vista da geografia da saúde?",
+      "alternativas": {
+        "a": "Os dados de dois municípios isolados provam de forma definitiva uma relação de causa e efeito",
+        "b": "A diferença de nove vezes é consistente com a hipótese de associação entre os dois fatores",
+        "c": "O Município X tem cobertura pior, já que registrou número absoluto menor de casos",
+        "d": "A diferença observada decorre do acaso, sem relação com as condições de saneamento",
+        "e": "A diferença de 40 casos por 10 mil habitantes não tem relevância sanitária alguma"
+      },
+      "resposta": "b",
+      "explicacao": "A formulação prudente é a correta: dois municípios sustentam uma associação compatível com a hipótese, e não uma demonstração de causalidade, que exigiria controlar renda, densidade e acesso a serviço de saúde. Em (a) está o excesso simétrico ao de (d) — um conclui causa a partir de dois pontos, o outro descarta qualquer relação diante de uma diferença de nove vezes, e ambos erram na calibragem da inferência. Em (c), a leitura inverte os dados. Em (e), quarenta casos por dez mil habitantes é diferença sanitariamente expressiva."
+    },
+    {
+      "id": "geografia-114",
+      "texto_apoio": "A Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010) instituiu o conceito de 'logística reversa' e de 'responsabilidade compartilhada pelo ciclo de vida dos produtos'.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Esses conceitos estabelecem que:",
+      "alternativas": {
+        "a": "A responsabilidade pelo destino final cabe ao município, sem obrigação para fabricantes",
+        "b": "Apenas o consumidor final responde pela destinação do resíduo que produz",
+        "c": "Fabricantes, comerciantes, consumidores e poder público compartilham responsabilidades",
+        "d": "Compete ao município arcar com todos os custos de destinação final dos resíduos do país",
+        "e": "A logística reversa se aplica a resíduos orgânicos, não a pilhas, eletrônicos ou embalagens"
+      },
+      "resposta": "c",
+      "explicacao": "A lei distribui a responsabilidade ao longo da cadeia e cria o caminho de volta: o produto retorna ao fabricante ou ao importador para reaproveitamento ou descarte adequado, e o consumidor participa entregando-o nos pontos de recolhimento. Em (a) e (d) está a mesma leitura antiga, de que lixo é problema exclusivo da prefeitura, e é justamente o que a norma alterou. Em (b), o consumidor tem deveres, não a responsabilidade inteira. Em (e), a inversão é completa: pilhas, eletrônicos, pneus, óleos e embalagens são precisamente os grupos sujeitos à logística reversa."
+    },
+    {
+      "id": "geografia-139",
+      "texto_apoio": "Um gráfico compara a repartição modal das viagens diárias em duas cidades: na Cidade A, 60% das viagens são feitas de automóvel particular, 25% de transporte coletivo e 15% a pé ou de bicicleta; na Cidade B, 25% das viagens são feitas de automóvel particular, 55% de transporte coletivo e 20% a pé ou de bicicleta.",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "enunciado": "Considerando apenas esses dados de repartição modal, é correto afirmar que:",
+      "alternativas": {
+        "a": "A Cidade A tende a emitir menos, já que o transporte individual reduz o número de viagens",
+        "b": "A Cidade A tende a ter mais congestionamento e emissão por deslocamento, pelo automóvel",
+        "c": "A Cidade B depende mais do automóvel particular do que a Cidade A, conforme os dados",
+        "d": "Não é possível comparar padrões de mobilidade entre cidades com dados de repartição modal",
+        "e": "As duas cidades apresentam o mesmo padrão, apenas com os rótulos de porcentagem invertidos"
+      },
+      "resposta": "b",
+      "explicacao": "O automóvel ocupa muito mais via e emite muito mais por passageiro transportado do que o ônibus, de modo que 60% das viagens em carro particular produzem, por deslocamento, mais congestionamento e mais poluente. Em (e) está o distrator que parece inteligente e não fecha: os números não são simétricos, já que a pé ou de bicicleta responde por 15% em A e 20% em B. Em (c), a leitura inverte as cidades. Em (a), transporte individual multiplica veículos em circulação. Em (d), repartição modal é exatamente o indicador criado para essa comparação."
+    },
+    {
+      "id": "geografia-165",
+      "texto_apoio": "O Pantanal ocupa parte dos estados de Mato Grosso e Mato Grosso do Sul e constitui a maior área úmida continental do planeta, com dinâmica governada pelo pulso anual de inundação.",
+      "formato": "lacunas",
+      "enunciado": "A principal ameaça antrópica ao bioma, entre as listadas, é ____________ , e o dano mais direto que ela provoca é ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "a pecuária não sustentável nas cabeceiras dos rios - a elevação do nível do mar na região",
+        "b": "a expansão de polos industriais de base pesada na planície - a alteração do regime de inundação",
+        "c": "a pecuária não sustentável nas cabeceiras dos rios - a alteração do regime de inundação",
+        "d": "a pecuária não sustentável nas cabeceiras dos rios - a salinização dos solos por irrigação",
+        "e": "a extração de petróleo em águas profundas - a alteração do regime de inundação da planície"
+      },
+      "resposta": "c",
+      "explicacao": "As duas lacunas precisam fechar juntas. A pressão decisiva vem de cima: o desmatamento nas cabeceiras do planalto altera a chegada da água à planície, e como toda a vida do Pantanal se organiza em torno do pulso de cheia e seca, é esse ritmo que se desregula. Em (a), o Pantanal é interior e fica a mais de mil quilômetros do mar. Em (d), salinização por irrigação é problema de região semiárida irrigada, não de área úmida. Em (b) e (e), nem polo industrial pesado na planície nem extração de petróleo em alto-mar descrevem a ameaça ao bioma."
+    }
+  ]
+}

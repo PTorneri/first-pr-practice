@@ -1,4 +1,4 @@
-# AprovAI
+# sagax
 
 Plano de estudos de 90 dias para vestibular, montado a partir do formato real das provas.
 Duas trilhas: **Direito** e **Medicina** (a pessoa escolhe ao criar a conta).
@@ -40,11 +40,37 @@ seguem caminhos separados.
 
 ## A marca
 
-O nome do app é **AprovAI** e vale para as duas trilhas — o curso é o que vem depois do
-travessão ("AprovAI — Direito"). O nome está definido num lugar só,
+O nome do app é **sagax** e vale para as duas trilhas — o curso é o que vem depois do
+travessão ("sagax — Direito"). O nome está definido num lugar só,
 [vestibular-direito-v2/trilhas.js](vestibular-direito-v2/trilhas.js), em duas formas: `html`
-(com o "AI" em azul, como no logo) e `texto` (para `document.title`, `alt` e nome de arquivo
-exportado, onde markup não entra).
+(com o X em dourado, como no logotipo) e `texto` (para `document.title`, `alt` e nome de
+arquivo exportado, onde markup não entra).
+
+O nome é **todo minúsculo**, como na arte — inclusive o x do fim, que parece maior por ser um
+glifo largo e dourado mas medido no pixel tem a mesma altura do "a" (topo 432 contra 429). Um
+X maiúsculo subiria 36% na Montserrat e sairia diferente da imagem.
+
+O que **não** foi reproduzido é o x bicolor da arte (uma diagonal dourada, a outra branca):
+duas cores dentro de um mesmo glifo não existem em texto vivo, precisaria de um SVG desenhado
+no lugar da letra.
+
+A letra da marca é a **Montserrat**, carregada do Google Fonts e declarada em `--font-brand`
+(styles.css). Ela vale no wordmark e nos títulos; o texto corrido segue na pilha do sistema
+(`--font-text`), porque enunciado longo de questão pede leitura e não personalidade — trocar
+uma variável pela outra leva a marca ao corpo inteiro. A geométrica do logotipo de referência
+é a Nexa, da Fontfabric, que é comercial; a Montserrat é o equivalente livre mais próximo
+(mesmo esqueleto geométrico, mesmo "a" de dois andares).
+
+O ouro da marca vem em dois tons da mesma família, um por família de fundo: `--brand-gold-on-navy`
+(`#F4C142`, o do logotipo) sobre azul-marinho e `--brand-gold` (`#96660F`) sobre branco. O
+primeiro foi feito para fundo escuro e dá 1,7:1 de contraste sobre branco — o X desapareceria
+no fim da palavra.
+
+O slogan **"Estude. Evolua. Conquiste."** fica embaixo do wordmark, na tela de login do v2
+(`.brand-tagline`). Vai escrito em caixa normal no HTML e é o CSS que põe em caixa alta, para
+que o texto copiado e o lido por leitor de tela saiam legíveis. Ele **tem que caber numa
+linha** — quebrado no meio, para de ler como assinatura — e por isso o tamanho e o tracking
+caem num degrau abaixo de 400 px de largura.
 
 Os arquivos do logo ficam em `assets/` de cada app — `logo.png` (320 px, usado no onboarding e
 no cabeçalho) e `favicon.png` (64 px). São a marca sobre uma placa arredondada no mesmo

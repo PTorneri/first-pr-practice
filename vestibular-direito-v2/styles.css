@@ -1,6 +1,6 @@
 :root {
-  /* Identidade AprovAI: o cabeçalho fica sempre em azul-marinho — o mesmo azul
-     da placa do logo — independente do modo claro/escuro do restante do app. */
+  /* Identidade sagax: o cabeçalho fica sempre em azul-marinho — o mesmo azul da
+     placa do logo — independente do modo claro/escuro do restante do app. */
   --header-bg: #0A2540;
   --header-ink: #ffffff;
   --header-ink-soft: #9fb2c9;
@@ -21,6 +21,16 @@
   --bad-soft: #FEE2E2;
   --warn: #C9A227;
   --warn-soft: #FBF1D6;
+
+  /* O ouro da marca — o X de sagax e a palavra dourada do slogan. Separado do
+     --warn de propósito: o warn também sinaliza atenção em selo e alerta, e
+     misturar as duas coisas faria a marca herdar mudança feita por outro motivo.
+     Um tom por família de fundo. O do logotipo (--brand-gold-on-navy) foi
+     desenhado pra azul-marinho: sobre branco dá 1,7:1 e o X some no meio da
+     palavra. O tom claro dá 5:1, que é o que o slogan precisa — ele é caixa
+     alta pequena, e aí não vale o limiar de texto grande. */
+  --brand-gold: #96660F;
+  --brand-gold-on-navy: #F4C142;
 
   /* "Capas" ilustrativas das obras obrigatórias, por categoria — só cor e
      ícone, nunca imagem de terceiros (ver comentário em app.js). */
@@ -59,6 +69,9 @@
     --warn: #E0C36B;
     --warn-soft: rgba(201,162,39,0.22);
 
+    /* No cartão escuro cabe o ouro do logotipo, o mesmo do cabeçalho. */
+    --brand-gold: #F4C142;
+
     --cat-ensaio: #A5A0F5;
     --cat-ensaio-soft: rgba(165,160,245,0.16);
     --cat-literatura: #D8B48C;
@@ -76,13 +89,29 @@
 
 * { box-sizing: border-box; }
 
+/* Tipografia. Duas pilhas de propósito:
+   --font-brand é a geométrica do logotipo sagax. Vale no wordmark e nos títulos,
+   que é onde a letra é identidade. Ela vem da rede (Google Fonts) e o
+   display=swap garante que o texto apareça na hora, com a pilha do sistema,
+   se a fonte demorar ou não chegar — o v1 abre por file:// e às vezes offline.
+   --font-text é a pilha do sistema, que segue no texto corrido: o app tem
+   enunciado longo de questão e comentário de gabarito, e aí o que decide é
+   leitura, não personalidade. Pra levar a marca ao corpo também, é trocar
+   --font-text por --font-brand aqui embaixo. */
+:root {
+  --font-brand: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-text: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: var(--font-text);
   background: var(--bg);
   color: var(--ink);
   line-height: 1.5;
 }
+
+.brand, h1, h2, h3 { font-family: var(--font-brand); letter-spacing: -0.01em; }
 
 #app { min-height: 100vh; }
 .view[hidden] { display: none !important; }
@@ -104,15 +133,36 @@ body {
 }
 .onboarding-logo-wrap { text-align: center; margin-bottom: 18px; }
 .onboarding-logo { width: 92px; height: auto; }
-.onboarding-card h1 { margin: 0 0 8px; font-size: 1.6rem; }
+/* 600 e não o 700 padrão de h1: o logotipo de referência é de peso médio, e a
+   Montserrat é larga — em 700 o wordmark fica pesado demais pro tamanho. */
+.onboarding-card h1 { margin: 0 0 8px; font-size: 1.6rem; font-weight: 600; }
 
-/* O "AI" de AprovAI, em azul como no logo. É o único trecho de texto do app
-   em que a cor faz parte do nome, então vale um azul próprio e não var(--accent)
-   — o accent muda com o tema e é usado em botão, o que aqui não se aplica. */
-.brand-ai { color: #2B54C8; }
-@media (prefers-color-scheme: dark) {
-  /* #2B54C8 sobre o cartão escuro fica quase ilegível. */
-  .brand-ai { color: #7AA0F5; }
+/* O X de sagax e a palavra dourada do slogan (ver --brand-gold no :root, que
+   já troca de tom sozinho entre claro e escuro). */
+.brand-x, .tagline-gold { color: var(--brand-gold); }
+
+/* Slogan do logotipo, embaixo do wordmark. Caixa alta e tracking largo vêm da
+   arte da marca; o text-transform faz isso no CSS em vez de no HTML pra que o
+   texto copiado e o lido por leitor de tela saiam em caixa normal.
+   O tracking grande abre um vão à direita do último caractere, que descentraria
+   a linha — o margin-right negativo devolve esse vão. */
+.brand-tagline {
+  margin: 0 -0.22em 18px 0;
+  font-family: var(--font-brand);
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+/* O slogan tem que caber numa linha: quebrado no meio ele para de ler como
+   assinatura da marca e vira uma frase solta. Com o tracking cheio ele precisa
+   de ~234 px, e a área útil do cartão é a largura da tela menos 120 px de
+   margem e padding — num aparelho de 320 px sobram 200 px e ele quebrava.
+   Não uso white-space: nowrap porque aí ele vazaria para fora do cartão e a
+   página passaria a rolar de lado, que é pior. */
+@media (max-width: 400px) {
+  .brand-tagline { font-size: 0.58rem; letter-spacing: 0.1em; margin-right: -0.1em; }
 }
 .subtitle { color: var(--ink-soft); margin: 0 0 20px; }
 .pitch-list { margin: 0 0 24px; padding-left: 20px; color: var(--ink-soft); }
@@ -162,11 +212,11 @@ body {
   padding: 14px 20px;
   flex-wrap: wrap; gap: 10px;
 }
-.brand { display: flex; align-items: center; gap: 10px; font-weight: 700; color: var(--header-ink); }
+.brand { display: flex; align-items: center; gap: 10px; font-weight: 600; color: var(--header-ink); }
 .brand-logo { height: 32px; width: auto; display: block; }
-/* O cabeçalho é sempre azul-marinho, nos dois temas — por isso o "AI" aqui é
-   claro sempre, sem depender do prefers-color-scheme. */
-.brand .brand-ai { color: #7AA0F5; }
+/* O cabeçalho é sempre azul-marinho, nos dois temas — por isso o X aqui leva
+   o ouro do logotipo sempre, sem depender do prefers-color-scheme. */
+.brand .brand-x { color: var(--brand-gold-on-navy); }
 .tabs { display: flex; gap: 4px; background: var(--header-pill-bg); border-radius: 999px; padding: 4px; }
 .tab-btn {
   border: none; background: transparent; padding: 8px 16px; border-radius: 999px;

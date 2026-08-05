@@ -3,9 +3,15 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AprovAI — Plano de 90 dias (v2)</title>
+<title>sagax — Plano de 90 dias (v2)</title>
 <link rel="icon" type="image/png" href="assets/favicon.png">
 <link rel="apple-touch-icon" href="assets/logo.png">
+<!-- Montserrat é a geométrica do logotipo (ver --font-brand em styles.css).
+     display=swap: o texto entra na hora com a pilha do sistema e troca quando a
+     fonte chega, em vez de deixar o título invisível esperando a rede. -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap">
 <!-- O GitHub Pages serve os arquivos com Cache-Control: max-age=600, então quem
      já visitou continua vendo a versão antiga do CSS/JS por até 10 minutos após
      uma publicação. O ?v= abaixo muda a URL do arquivo e força o navegador a
@@ -32,7 +38,7 @@
      admin.html) — sem isso a correção leva até 10 minutos pra chegar em quem
      já visitou, e foi exatamente o que aconteceu na primeira publicação da
      reescrita das alternativas. -->
-<link rel="stylesheet" href="styles.css?v=9">
+<link rel="stylesheet" href="styles.css?v=10">
 </head>
 <body>
 <div id="app">
@@ -41,11 +47,15 @@
   <section id="view-login" class="view">
     <div class="card onboarding-card login-card">
       <div class="onboarding-logo-wrap">
-        <img class="onboarding-logo" src="assets/logo.png" alt="AprovAI">
+        <img class="onboarding-logo" src="assets/logo.png" alt="sagax">
       </div>
       <!-- Sem o curso: nesta tela ainda não se sabe qual trilha é. Quem já
-           escolheu vê "AprovAI — Direito"/"— Medicina", posto por app.js. -->
-      <h1>Aprov<span class="brand-ai">AI</span></h1>
+           escolheu vê "sagax — Direito"/"— Medicina", posto por app.js. -->
+      <h1>saga<span class="brand-x">x</span></h1>
+      <!-- Slogan da marca. Escrito em caixa normal de propósito: quem põe em
+           caixa alta é o CSS, então o texto copiado e o lido por leitor de tela
+           saem legíveis. -->
+      <p class="brand-tagline">Estude. <span class="tagline-gold">Evolua.</span> Conquiste.</p>
       <p class="subtitle">Entre com sua conta Google para salvar seu progresso na nuvem e continuar
       de onde parou em qualquer aparelho — computador, celular ou tablet.</p>
       <ul class="pitch-list">
@@ -107,9 +117,9 @@
   <section id="view-onboarding" class="view" hidden>
     <div class="card onboarding-card">
       <div class="onboarding-logo-wrap">
-        <img class="onboarding-logo" src="assets/logo.png" alt="AprovAI">
+        <img class="onboarding-logo" src="assets/logo.png" alt="sagax">
       </div>
-      <h1>Aprov<span class="brand-ai">AI</span></h1>
+      <h1>saga<span class="brand-x">x</span></h1>
       <p class="subtitle">Plano de estudos de 90 dias baseado no formato real das provas: Português,
       Inglês, Matemática/Raciocínio Lógico e Ciências Humanas (Atualidades, História, Geografia).</p>
       <ul class="pitch-list">
@@ -143,7 +153,7 @@
     <header class="topbar">
       <div class="brand">
         <img class="brand-logo" src="assets/logo.png" alt="">
-        <span>Aprov<span class="brand-ai">AI</span></span>
+        <span>saga<span class="brand-x">x</span></span>
       </div>
       <nav class="tabs">
         <button class="tab-btn active" data-tab="hoje">Hoje</button>
@@ -258,9 +268,9 @@
      escolheu — só os dados daquela trilha entram no navegador. O conteúdo de
      Direito continua sendo o mesmo do v1: corrigir uma questão lá corrige nos
      dois apps. -->
-<script src="trilhas.js?v=9"></script>
-<script src="schedule.js?v=9"></script>
-<script src="app.js?v=9"></script>
-<script type="module" src="auth.js?v=9"></script>
+<script src="trilhas.js?v=10"></script>
+<script src="schedule.js?v=10"></script>
+<script src="app.js?v=10"></script>
+<script type="module" src="auth.js?v=10"></script>
 </body>
 </html>

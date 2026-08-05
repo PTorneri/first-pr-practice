@@ -29,16 +29,21 @@
 
   // ---------- A marca ----------
   //
-  // Uma marca só, para todas as trilhas: o app é o AprovAI, e o curso é o que
-  // vem depois do travessão. Antes cada trilha carregava a sua ("Rumo à FGV &
+  // Uma marca só, para todas as trilhas: o app é o sagax, e o curso é o que vem
+  // depois do travessão. Antes cada trilha carregava a sua ("Rumo à FGV &
   // Insper", "Rumo à Medicina"), o que amarrava o nome do produto às bancas
   // que ele treina — trocar de banca obrigaria a trocar de nome.
   //
+  // Tudo minúsculo, como no logotipo — inclusive o x do fim. Ele parece maior na
+  // arte por ser um glifo largo e dourado, mas medido no pixel tem a mesma
+  // altura do "a" e do "s" (topo 432 contra 429). Um X maiúsculo subiria 36% na
+  // Montserrat e sairia diferente da imagem.
+  //
   // Vem em duas formas porque tem dois destinos: `html` para o cabeçalho e os
-  // títulos, onde o "AI" é azul como no logo, e `texto` para onde markup não
-  // entra (document.title, atributo alt, nome de arquivo exportado).
-  const MARCA_TXT = "AprovAI";
-  const MARCA_HTML = 'Aprov<span class="brand-ai">AI</span>';
+  // títulos, onde o x é dourado como no logotipo, e `texto` para onde markup
+  // não entra (document.title, atributo alt, nome de arquivo exportado).
+  const MARCA_TXT = "sagax";
+  const MARCA_HTML = 'saga<span class="brand-x">x</span>';
 
   window.VD_MARCA = { texto: MARCA_TXT, html: MARCA_HTML };
 

@@ -3,9 +3,16 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AprovAI — Plano de 90 dias</title>
+<title>sagax — Plano de 90 dias</title>
 <link rel="icon" type="image/png" href="assets/favicon.png">
 <link rel="apple-touch-icon" href="assets/logo.png">
+<!-- Montserrat é a geométrica do logotipo (ver --font-brand em styles.css).
+     display=swap: o texto entra na hora com a pilha do sistema e troca quando a
+     fonte chega. O v1 abre por file:// e às vezes offline — nesse caso a fonte
+     não chega e fica a pilha do sistema, que é degradação aceitável. -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -15,9 +22,9 @@
   <section id="view-onboarding" class="view">
     <div class="card onboarding-card">
       <div class="onboarding-logo-wrap">
-        <img class="onboarding-logo" src="assets/logo.png" alt="AprovAI">
+        <img class="onboarding-logo" src="assets/logo.png" alt="sagax">
       </div>
-      <h1>Aprov<span class="brand-ai">AI</span> — Direito</h1>
+      <h1>saga<span class="brand-x">x</span> — Direito</h1>
       <p class="subtitle">Plano de estudos de 90 dias baseado no formato real das provas: Português,
       Inglês, Matemática/Raciocínio Lógico e Ciências Humanas (Atualidades, História, Geografia).</p>
       <ul class="pitch-list">
@@ -51,7 +58,7 @@
     <header class="topbar">
       <div class="brand">
         <img class="brand-logo" src="assets/logo.png" alt="">
-        <span>Aprov<span class="brand-ai">AI</span></span>
+        <span>saga<span class="brand-x">x</span></span>
       </div>
       <nav class="tabs">
         <button class="tab-btn active" data-tab="hoje">Hoje</button>

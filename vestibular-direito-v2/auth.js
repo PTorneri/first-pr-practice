@@ -12,9 +12,9 @@
 //   Firebase Console > Authentication > Settings > Authorized domains
 //     -> incluir "ptorneri.github.io" (e "localhost" pra testar na sua máquina)
 
-import { auth } from "./firebase-init.js?v=3";
-import "./sync.js?v=3"; // define window.VD_SYNC
-import "./feedback.js?v=3"; // define window.VD_FEEDBACK
+import { auth } from "./firebase-init.js?v=7";
+import "./sync.js?v=7"; // define window.VD_SYNC
+import "./feedback.js?v=7"; // define window.VD_FEEDBACK
 import {
   GoogleAuthProvider,
   signInWithPopup,

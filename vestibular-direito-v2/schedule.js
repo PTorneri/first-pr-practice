@@ -47,6 +47,129 @@ function seededShuffle(array, rng) {
   return a;
 }
 
+// ---------- Clusters de texto ----------
+//
+// A prova real agrupa questões em torno de poucos textos longos: na FGV
+// 2026.1 um romance sustentou 6 questões e um artigo de opinião sustentou 5.
+// Isso não é detalhe de apresentação — é o que cria o risco concentrado que o
+// candidato precisa treinar: ler mal um texto custa seis questões de uma vez.
+//
+// Questões de um mesmo cluster apontam para o mesmo `textoId` e são
+// CONTÍGUAS no arquivo de origem (o build-bundle.ps1 recusa o arquivo se não
+// forem). É essa contiguidade que permite tratar cluster como "corrida" de
+// elementos vizinhos, em vez de varrer o banco atrás dos irmãos de cada
+// questão.
+//
+// Com zero clusters nos dados — a situação atual — cada questão vira um grupo
+// de um só elemento, e as três funções abaixo devolvem exatamente o que a
+// versão anterior devolvia, consumindo o mesmo número de sorteios do RNG. Isso
+// é proposital: a mecânica entra antes do conteúdo para que "quebrei a
+// seleção?" possa ser respondido separadamente de "o cluster está bem escrito?".
+
+function clusterKey(q, prefixo) {
+  if (!q || !q.textoId) return null;
+  return prefixo ? prefixo + "::" + q.textoId : q.textoId;
+}
+
+// Agrupa elementos vizinhos que compartilham a mesma chave de cluster.
+// Elementos sem chave viram grupos unitários.
+function groupRuns(list, keyFn) {
+  const grupos = [];
+  let atual = null;
+  let chaveAtual = null;
+  list.forEach((item) => {
+    const k = keyFn(item);
+    if (k !== null && k === chaveAtual) {
+      atual.push(item);
+      return;
+    }
+    atual = [item];
+    chaveAtual = k;
+    grupos.push(atual);
+  });
+  return grupos;
+}
+
+// Embaralha os GRUPOS, preservando a ordem interna de cada um — as questões de
+// um cluster continuam juntas e na sequência em que foram escritas.
+function shuffleGroups(list, rng, keyFn) {
+  const grupos = groupRuns(list, keyFn);
+  const embaralhados = seededShuffle(grupos, rng);
+  const saida = [];
+  embaralhados.forEach((g) => g.forEach((item) => saida.push(item)));
+  return saida;
+}
+
+// Substitui `list.slice(start, start + count)` sem nunca cortar um cluster ao
+// meio: acumula grupos inteiros até atingir a contagem, aceitando ultrapassá-la.
+// Entregar 4 de um cluster de 6 seria pior do que entregar 6 — o candidato leria
+// o texto inteiro e responderia dois terços dele.
+function takeWholeGroups(list, start, count, keyFn) {
+  if (count <= 0) return [];
+  const grupos = groupRuns(list, keyFn);
+  const saida = [];
+  let pos = 0;
+  grupos.forEach((g) => {
+    const fim = pos + g.length;
+    // `start` pode cair no meio de um grupo quando a chamada anterior já
+    // entregou parte dele; nesse caso o grupo inteiro já foi mostrado e é
+    // simplesmente pulado.
+    if (fim <= start) { pos = fim; return; }
+    if (saida.length >= count) { pos = fim; return; }
+    if (pos < start) { pos = fim; return; }
+    g.forEach((item) => saida.push(item));
+    pos = fim;
+  });
+  return saida;
+}
+
+// Empurra o ponto de rotação da janela circular para a frente até ele cair
+// numa fronteira de grupo.
+//
+// Sem isto, `bank[(offset + i) % bank.length]` corta o cluster em dois quando o
+// ponto de rotação cai no meio dele: a cauda vai parar no início da lista
+// girada e a cabeça no fim, e `groupRuns` — que só enxerga corridas contíguas —
+// passa a ver dois grupos legítimos em vez de um partido. O sintoma é discreto
+// e foi assim que apareceu: no dia 17 do plano, uma única questão de um texto
+// de três questões, sozinha, sem o texto irmão por perto. `takeWholeGroups`
+// estava correto; ele apenas recebia uma lista já mutilada.
+function snapOffsetToGroup(bank, offset, keyFn) {
+  const n = bank.length;
+  if (n === 0) return 0;
+  let i = offset % n;
+  const chaveAnterior = keyFn(bank[(i - 1 + n) % n]);
+  if (chaveAnterior === null || chaveAnterior === undefined) return i;
+  // O limite de n passos protege o caso degenerado de um banco inteiro sob um
+  // único textoId, em que não existe fronteira nenhuma para encontrar.
+  for (let passos = 0; passos < n; passos++) {
+    if (keyFn(bank[i]) !== chaveAnterior) return i;
+    i = (i + 1) % n;
+  }
+  return offset % n;
+}
+
+// Toma EXATAMENTE `count` questões, sem nunca partir um cluster e sem nunca
+// ultrapassar a conta.
+//
+// É o oposto da política de takeWholeGroups, e de propósito. Na lição do dia,
+// entregar 4 questões de um cluster de 6 é pior do que entregar 6, porque o
+// candidato leria o texto inteiro e responderia dois terços dele — ali vale
+// ultrapassar. No simulado oficial o invariante é outro: o bloco tem 15
+// questões porque a prova tem 15, e um bloco de 16 deixa de ensaiar a prova.
+// Aqui, então, o cluster que não couber é PULADO inteiro, e a busca segue no
+// grupo seguinte.
+function takeExactly(list, count, keyFn) {
+  if (count <= 0) return [];
+  const grupos = groupRuns(list, keyFn);
+  const saida = [];
+  for (let i = 0; i < grupos.length && saida.length < count; i++) {
+    const g = grupos[i];
+    if (saida.length + g.length > count) continue; // não cabe: pula o grupo inteiro
+    g.forEach((item) => saida.push(item));
+  }
+  return saida;
+}
+
 function hashString(str) {
   let h = 0;
   for (let i = 0; i < str.length; i++) {
@@ -252,16 +375,21 @@ function pickQuestions(subtopicId, visitIndex, day, qOffset) {
   // plano não trouxer o campo — por exemplo, um progresso salvo antes desta
   // mudança, cujo plano em memória ainda não tem qOffset.
   const base = typeof qOffset === "number" ? qOffset : visitIndex * count;
-  const offset = ((base % bank.length) + bank.length) % bank.length;
+  const bruto = ((base % bank.length) + bank.length) % bank.length;
+  // O snap entra DEPOIS da normalização, e não no lugar dela: o qOffset é que
+  // garante a cobertura de 95% do banco, e o snap só empurra o ponto de
+  // rotação até a fronteira de grupo mais próxima para não partir um cluster.
+  // Trocar um pelo outro perderia uma das duas propriedades.
+  const offset = snapOffsetToGroup(bank, bruto, (q) => clusterKey(q));
 
   const circular = [];
   for (let i = 0; i < bank.length; i++) {
     circular.push(bank[(offset + i) % bank.length]);
   }
-  const chosen = circular.slice(0, count);
+  const chosen = takeWholeGroups(circular, 0, count, (q) => clusterKey(q));
 
   const rng = mulberry32(day * 131 + hashString(subtopicId) + visitIndex);
-  return seededShuffle(chosen, rng);
+  return shuffleGroups(chosen, rng, (q) => clusterKey(q));
 }
 
 // Continua a mesma janela circular que pickQuestions já usou para essa
@@ -276,8 +404,13 @@ function pickMoreQuestions(subtopicId, visitIndex, day, alreadyShown, extraCount
   // Precisa começar na MESMA janela que pickQuestions usou, senão o botão
   // "quero mais" repetiria questões já mostradas no dia.
   const baseCount = Math.min(pickExerciseCount(day, subtopicId), bank.length);
+  // Tem de ser exatamente o mesmo offset de pickQuestions, qOffset e snap
+  // incluídos: é o que faz esta chamada continuar a MESMA janela de onde a
+  // outra parou. Qualquer divergência aqui repete no botão "quero mais" as
+  // questões que o dia já mostrou.
   const base = typeof qOffset === "number" ? qOffset : visitIndex * baseCount;
-  const offset = ((base % bank.length) + bank.length) % bank.length;
+  const bruto = ((base % bank.length) + bank.length) % bank.length;
+  const offset = snapOffsetToGroup(bank, bruto, (q) => clusterKey(q));
   const circular = [];
   for (let i = 0; i < bank.length; i++) circular.push(bank[(offset + i) % bank.length]);
 
@@ -285,9 +418,9 @@ function pickMoreQuestions(subtopicId, visitIndex, day, alreadyShown, extraCount
   const count = Math.min(extraCount, Math.max(0, bank.length - start));
   if (count <= 0) return [];
 
-  const chosen = circular.slice(start, start + count);
+  const chosen = takeWholeGroups(circular, start, count, (q) => clusterKey(q));
   const rng = mulberry32(day * 149 + hashString(subtopicId) + visitIndex + alreadyShown);
-  return seededShuffle(chosen, rng);
+  return shuffleGroups(chosen, rng, (q) => clusterKey(q));
 }
 
 // Monta as ~45 questões do simulado de domingo, distribuídas PROPORCIONALMENTE
@@ -312,14 +445,96 @@ function pickSimuladoQuestions(simuladoVisitIndex) {
     const bank = (window.QUESTION_BANKS && window.QUESTION_BANKS[s.id]) || [];
     if (bank.length === 0) return;
     const count = Math.min(counts[i], bank.length);
-    const offset = (simuladoVisitIndex * count) % bank.length;
+    const offset = snapOffsetToGroup(bank, simuladoVisitIndex * count, (q) => clusterKey(q));
     const circular = [];
     for (let j = 0; j < bank.length; j++) circular.push(bank[(offset + j) % bank.length]);
-    circular.slice(0, count).forEach((q) => {
+    takeWholeGroups(circular, 0, count, (q) => clusterKey(q)).forEach((q) => {
       items.push({ question: q, subtopicId: s.id, subtopicNome: s.nome, area: s.area });
     });
   });
-  return seededShuffle(items, rng);
+  // No simulado a chave precisa do prefixo da frente: o array é multifrente e
+  // dois bancos distintos poderiam, por acidente, usar o mesmo textoId.
+  return shuffleGroups(items, rng, (it) => clusterKey(it.question, it.subtopicId));
+}
+
+// ---------------------------------------------------------------- simulado oficial
+//
+// O simulado adaptativo de 45 questões acima serve ao TREINO: ele segue os
+// pesos do estudo e reage ao erro. O que ele não faz é ensaiar a prova.
+//
+// As duas bancas usam o mesmo formato geral -- 60 objetivas em quatro blocos
+// de 15, em ordem fixa -- e composições diferentes dentro dele. Fazer 60 na
+// ordem certa treina três coisas que o adaptativo não alcança: o ritmo (a FGV
+// dá ~3,5 min por questão), a decisão de quando abandonar uma questão, e o
+// cansaço do quarto bloco, que é onde a nota costuma cair.
+//
+// As composições abaixo saíram da contagem dos cadernos, e não do edital. Onde
+// os dois divergem, vale o caderno: em Humanas da Insper o edital prevê
+// Filosofia 2 e Sociologia 2, e os dois cadernos de 2026 trouxeram Filosofia 1
+// e Sociologia 3, sempre nas quatro últimas questões do bloco.
+const SIMULADO_OFICIAL = {
+  fgv: {
+    nome: "FGV Direito SP",
+    duracaoMin: 210,
+    blocos: [
+      { nome: "Matemática", frentes: { "matematica-rlm": 15 } },
+      // Na FGV 2026.1, 9 das 15 questões de Português saíram de dois romances
+      // da lista. É a razão de literatura pesar mais que gramática aqui.
+      { nome: "Língua Portuguesa", frentes: { "literatura": 9, "interpretacao-texto": 3, "gramatica": 3 } },
+      { nome: "Inglês", frentes: { "ingles": 15 } },
+      { nome: "Ciências Humanas", frentes: { "geografia": 5, "historia-brasil": 3, "historia-geral": 3, "atualidades-geopolitica": 2, "atualidades-meioambiente": 1, "artes-cultura": 1 } }
+    ]
+  },
+  insper: {
+    nome: "Insper",
+    duracaoMin: 300,
+    blocos: [
+      { nome: "Linguagens e Códigos", frentes: { "literatura": 8, "interpretacao-texto": 4, "gramatica": 3 } },
+      { nome: "Matemática", frentes: { "matematica-rlm": 15 } },
+      { nome: "Ciências Humanas", frentes: { "geografia": 6, "historia-brasil": 3, "historia-geral": 2, "filosofia-sociologia": 4 } },
+      // 5 de Biologia, 5 de Química e 5 de Física, nessa ordem, nos dois
+      // cadernos de 2026. Não é aproximação, é gabarito de montagem -- mas o
+      // banco tem uma frente única de Natureza, então o bloco sai inteiro dela.
+      { nome: "Ciências da Natureza", frentes: { "ciencias-natureza": 15 } }
+    ]
+  }
+};
+
+// Monta as 60 questões do simulado oficial de uma banca, na ORDEM dos blocos.
+//
+// Diferente do adaptativo, aqui não se embaralha o conjunto: a ordem é parte
+// do que se está treinando. Dentro de cada bloco os grupos são embaralhados,
+// para o cluster não cair sempre na mesma posição, mas o bloco nunca invade o
+// seguinte.
+function pickSimuladoOficial(banca, visitIndex) {
+  const modelo = SIMULADO_OFICIAL[banca];
+  if (!modelo) return [];
+  const nomePorId = {};
+  const areaPorId = {};
+  (window.SUBTOPICS || []).forEach((s) => { nomePorId[s.id] = s.nome; areaPorId[s.id] = s.area; });
+
+  const itens = [];
+  modelo.blocos.forEach((bloco, bIdx) => {
+    const doBloco = [];
+    Object.keys(bloco.frentes).forEach((id) => {
+      const bank = (window.QUESTION_BANKS && window.QUESTION_BANKS[id]) || [];
+      if (bank.length === 0) return;
+      const count = Math.min(bloco.frentes[id], bank.length);
+      // Rotação própria por banca e por bloco: sem o deslocamento, o simulado
+      // oficial e o adaptativo comeriam a mesma janela de cada banco e o
+      // candidato veria as mesmas questões nos dois.
+      const semente = visitIndex * count + (bIdx + 1) * 7 + (banca === "insper" ? 3 : 0);
+      const offset = snapOffsetToGroup(bank, semente, (q) => clusterKey(q));
+      const circular = [];
+      for (let j = 0; j < bank.length; j++) circular.push(bank[(offset + j) % bank.length]);
+      takeExactly(circular, count, (q) => clusterKey(q)).forEach((q) => {
+        doBloco.push({ question: q, subtopicId: id, subtopicNome: nomePorId[id] || id, area: areaPorId[id] || "", bloco: bloco.nome, blocoIndex: bIdx });
+      });
+    });
+    const rng = mulberry32(visitIndex * 613 + bIdx * 29 + (banca === "insper" ? 101 : 0));
+    shuffleGroups(doBloco, rng, (it) => clusterKey(it.question, it.subtopicId)).forEach((it) => itens.push(it));
+  });
+  return itens;
 }
 
 // Monta o conteúdo completo de um dia: lições (vídeos) + exercícios, ou,

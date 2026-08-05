@@ -18,6 +18,7 @@
   const LS_REDACAO_CHECKLIST = NS + "vd_redacaoChecklist"; // { "<redacaoId>::<pointIndex>": true }, autoavaliação pela grade oficial
   const LS_REDACAO_DONE = NS + "vd_redacaoDone"; // { "<redacaoId>": true }, propostas já treinadas
   const LS_CYCLE_WEIGHTS = NS + "vd_cycleWeights"; // { "<cycleIndex>": { "<subtopicId>": peso } }, travado após cada simulado
+  const LS_SIMULADO_MODO = NS + "vd_simuladoModo"; // { "<dia>": "adaptativo" | "fgv" | "insper" }, modo do simulado daquele domingo
   const LS_SCORE_HISTORY = NS + "vd_scoreHistory"; // { "<isoDate>": score 0..1 }, achado 5 (score projetado)
   const LS_TOPIC_LAST_ANSWERED = NS + "vd_topicLastAnswered"; // { "<subtopicId>": isoDate }, achado 6 (índice de prontidão)
   const LS_THEORY_SEEN = NS + "vd_theorySeen"; // { "<subtopicId>": true }, achado 1 (teoria por frente)
@@ -30,6 +31,13 @@
     LS_START, LS_ANSWERS, LS_DAY_ANSWERS, LS_DAY_STATE, LS_TOPIC_STATE, LS_DISSERT_STATUS, LS_DISSERT_ANSWERS,
     LS_DISSERT_CHECKLIST, LS_CYCLE_WEIGHTS, LS_SCORE_HISTORY, LS_TOPIC_LAST_ANSWERED, LS_THEORY_SEEN,
     LS_FLASHCARD_STATE, LS_OBRAS_STUDIED, LS_STUDY_DAYS,
+    // O modo do simulado precisa subir junto com as respostas. As respostas do
+    // dia já sincronizam; se o modo não sincronizasse, escolher o caderno
+    // oficial de 60 no celular e abrir o mesmo domingo no computador mostraria
+    // o adaptativo de 45 — com as respostas das 60 já gravadas naquele dia. A
+    // estratégia padrão ("entrada") serve: por dia, vence a escolha mais
+    // recente, que é a que o usuário acabou de fazer.
+    LS_SIMULADO_MODO,
   ];
 
   // sync.js precisa saber exatamente quais chaves sobem pra nuvem, e a
@@ -86,6 +94,28 @@
   // tela e pro contador de exercícios daquele dia específico.
   function dayAnswerKey(day, subtopicId, questionId) { return day + "::" + subtopicId + "::" + questionId; }
   function dissertKey(day, questionId) { return day + "::" + questionId; }
+
+  // Toda discursiva de Humanas da FGV vem em dois comandos: um enumerativo, quase
+  // sempre com número explícito ("dois episódios", "duas razões", "duas técnicas"),
+  // e um explicativo. Isso é uma rubrica exposta -- a resposta é pontuada por itens
+  // contáveis, e escrever bem sem entregar o número pedido perde ponto.
+  //
+  // O banco nasceu com um comando só por questão. Este normalizador aceita as duas
+  // formas ao mesmo tempo, para que dissertativas.js migre questão a questão em vez
+  // de tudo de uma vez.
+  function dissertItens(q) {
+    if (q.itens && q.itens.length) return q.itens;
+    return [{ id: "a", comando: q.comando, pontosEsperados: q.pontosEsperados }];
+  }
+
+  // O item 'a' fica com a chave LEGADA, sem sufixo: quem já respondeu uma questão
+  // antes da migração continua vendo sua resposta depois dela. Só os itens 'b' em
+  // diante ganham sufixo. Como o sufixo do checklist é numérico ("::0", "::1") e o
+  // do item é uma letra, as duas famílias de chave nunca colidem.
+  function dissertItemKey(day, questionId, itemId) {
+    const base = dissertKey(day, questionId);
+    return itemId === "a" ? base : base + "::" + itemId;
+  }
 
   // ---------- Dissertativas (Humanas/Linguagens/Artes, estilo discursiva FGV) ----------
   function weekNumberForDay(day) { return Math.ceil(day / DISSERT_WEEK_SIZE); }
@@ -393,20 +423,51 @@
     renderDissertSection(day);
   }
 
+  // Modo do simulado do domingo, por dia. O adaptativo de 45 é o padrão porque
+  // é ele que alimenta os pesos do ciclo seguinte; os oficiais de 60 são
+  // ensaio de prova e não realimentam nada.
+  function getSimuladoModo(day) { return loadJSON(LS_SIMULADO_MODO, {})[day] || "adaptativo"; }
+  function setSimuladoModo(day, modo) {
+    const s = loadJSON(LS_SIMULADO_MODO, {});
+    s[day] = modo;
+    saveJSON(LS_SIMULADO_MODO, s);
+  }
+
   function renderSimuladoCard(day, content) {
     const card = document.createElement("div");
     card.className = "lesson-card simulado-card";
+    const modo = getSimuladoModo(day);
+    const oficial = modo === "fgv" || modo === "insper";
+    const modelo = oficial ? SIMULADO_OFICIAL[modo] : null;
+    const items = oficial
+      ? pickSimuladoOficial(modo, content.simuladoNumber - 1)
+      : content.items;
+
+    const abas = [
+      ["adaptativo", "Adaptativo · 45"],
+      ["fgv", "Oficial FGV · 60"],
+      ["insper", "Oficial Insper · 60"]
+    ].map(([id, rotulo]) =>
+      `<button type="button" class="simulado-modo-btn${modo === id ? " ativo" : ""}" data-modo="${id}">${rotulo}</button>`
+    ).join("");
+
+    const descricao = oficial
+      ? `Ensaio da prova real: ${items.length} questões em quatro blocos de 15, na ordem exata do caderno da
+         ${escapeHtml(modelo.nome)}, com ${modelo.duracaoMin} minutos de duração. Fazer nessa ordem treina o que o
+         simulado adaptativo não alcança — o ritmo, a decisão de abandonar uma questão e o cansaço do quarto bloco,
+         que é onde a nota costuma cair. Este modo não altera a programação da próxima semana.`
+      : `Hoje não tem vídeo-aula: são ${items.length} questões, distribuídas entre as 16 frentes por prioridade
+         (pelo menos uma de cada), para revisar tudo o que você já estudou. Os erros daqui pesam mais forte na
+         programação da próxima semana — sem sumir os outros temas.`;
 
     card.innerHTML = `
       <div class="lesson-eyebrow">Domingo · Simulado ${content.simuladoNumber}</div>
-      <h3>Simulado misto — todas as frentes</h3>
-      <p class="lesson-desc">Hoje não tem vídeo-aula: são ${content.items.length} questões, distribuídas entre as 15
-      frentes por prioridade (pelo menos uma de cada), para simular a mistura de assuntos de uma prova real e revisar
-      tudo o que você já estudou. Os erros daqui pesam mais forte na programação da próxima semana — sem sumir os
-      outros temas.</p>
+      <h3>${oficial ? "Simulado oficial — " + escapeHtml(modelo.nome) : "Simulado misto — todas as frentes"}</h3>
+      <div class="simulado-modos">${abas}</div>
+      <p class="lesson-desc">${descricao}</p>
       <div class="exercise-block">
         <div class="exercise-summary">
-          <span>${content.items.length} questões</span>
+          <span>${items.length} questões</span>
           <span class="score-label"></span>
         </div>
         <div class="questions"></div>
@@ -414,15 +475,39 @@
       <div class="simulado-focus"></div>
     `;
 
+    card.querySelectorAll(".simulado-modo-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        setSimuladoModo(day, btn.dataset.modo);
+        renderDay(day);
+      });
+    });
+
     const questionsContainer = card.querySelector(".questions");
-    content.items.forEach((item, idx) => {
-      questionsContainer.appendChild(
+    let blocoAtual = null;
+    items.forEach((item, idx) => {
+      // Cabeçalho de bloco: sem ele, 60 questões em sequência não ensaiam nada
+      // além de resistência. É a fronteira do bloco que o candidato precisa
+      // sentir, porque é onde ele decide se vai voltar às que pulou.
+      if (oficial && item.bloco !== blocoAtual) {
+        blocoAtual = item.bloco;
+        const cab = document.createElement("div");
+        cab.className = "simulado-bloco";
+        const faixa = item.blocoIndex * 15 + 1;
+        cab.textContent = `Bloco ${item.blocoIndex + 1} · ${item.bloco} · questões ${faixa} a ${faixa + 14}`;
+        questionsContainer.appendChild(cab);
+      }
+      appendGrouped(
+        questionsContainer,
+        item.question,
         renderQuestion(day, item.subtopicId, item.question, idx, item.area + " · " + item.subtopicNome)
       );
     });
 
     updateScoreLabel(card);
-    renderSimuladoFocus(card.querySelector(".simulado-focus"), day, content);
+    // O foco adaptativo lê os erros do simulado de 45 para montar o ciclo
+    // seguinte. Nos modos oficiais ele não aparece, porque a composição é fixa
+    // pela banca e não teria o que realimentar.
+    if (!oficial) renderSimuladoFocus(card.querySelector(".simulado-focus"), day, content);
     return card;
   }
 
@@ -567,8 +652,10 @@
     const header = document.createElement("div");
     header.innerHTML = `
       <h2>Todos os simulados</h2>
-      <p class="hint">Todo domingo do seu plano vira um simulado misto de ~45 questões. Clique em um deles para
-      ver o resultado detalhado, com os acertos em cada uma das 15 frentes.</p>
+      <p class="hint">Todo domingo do seu plano vira um simulado. No modo padrão são ~45 questões misturadas entre as
+      16 frentes por prioridade, e os erros pesam na programação da semana seguinte; no card do dia você pode trocar
+      para o caderno oficial de 60 questões da FGV ou da Insper, em quatro blocos de 15, na ordem da prova. Clique em
+      um simulado para ver o resultado detalhado, frente por frente.</p>
     `;
     wrap.appendChild(header);
 
@@ -1348,6 +1435,13 @@
     const cenaHtml = o.cenaOuTrechoChave
       ? `<p class="theory-resumo" style="margin-top:8px;"><strong>Cena/trecho-chave:</strong> ${escapeHtml(o.cenaOuTrechoChave)}</p>`
       : "";
+    // O rótulo sai do banco em vez de ser fixo: quando faltavam as questões das
+    // obras do edital 2027.1, o botão prometia cinco e abria uma div vazia.
+    const bank = (window.OBRAS_QUESTOES && window.OBRAS_QUESTOES[o.id]) || [];
+    const quizHtml = bank.length
+      ? `<button type="button" class="btn-link obra-quiz-toggle">Praticar (${bank.length} ${bank.length === 1 ? "questão" : "questões"})</button>
+      <div class="obra-questoes" hidden></div>`
+      : "";
     const catMeta = OBRA_CATEGORIA_META[o.categoria] || { cls: "cat-default", icon: "" };
     const coverHtml = `
       <div class="obra-cover ${catMeta.cls}">
@@ -1369,8 +1463,7 @@
         ${cenaHtml}
         <p class="theory-resumo" style="margin-top:8px;"><strong>Eixo da banca:</strong> ${escapeHtml(o.analiseEixos)}</p>
       </div>
-      <button type="button" class="btn-link obra-quiz-toggle">Praticar (5 questões)</button>
-      <div class="obra-questoes" hidden></div>
+      ${quizHtml}
       <label class="obra-studied-check">
         <input type="checkbox" ${studied[o.id] ? "checked" : ""}> Já estudei essa obra
       </label>
@@ -1380,8 +1473,7 @@
     });
     const quizBtn = card.querySelector(".obra-quiz-toggle");
     const quizContainer = card.querySelector(".obra-questoes");
-    quizBtn.addEventListener("click", () => {
-      const bank = (window.OBRAS_QUESTOES && window.OBRAS_QUESTOES[o.id]) || [];
+    if (quizBtn) quizBtn.addEventListener("click", () => {
       if (!quizContainer.hidden) {
         quizContainer.hidden = true;
         return;
@@ -1552,6 +1644,19 @@
     `;
   }
 
+  // Avança um índice de corte até o fim do cluster em que ele caiu, para que
+  // questões que compartilham o mesmo texto não sejam separadas. Sem clusters
+  // nos dados, devolve o índice recebido sem alteração.
+  function snapToGroupBoundary(questions, idx) {
+    if (idx <= 0 || idx >= questions.length) return idx;
+    const chave = (q) => (q && q.textoId) || null;
+    const anterior = chave(questions[idx - 1]);
+    if (anterior === null) return idx;
+    let i = idx;
+    while (i < questions.length && chave(questions[i]) === anterior) i++;
+    return i;
+  }
+
   // Achado 9 (essenciais vs. extras): divide as questões da lição num bloco
   // "essencial" (meta realista do dia, ~12) e um bloco "extras" (o resto,
   // opcional, sem culpa se não fizer) — mais um botão "quero mais" que puxa
@@ -1572,7 +1677,15 @@
         </div>`
       : "";
 
-    const essentialCount = Math.min(ESSENTIAL_QUESTIONS_PER_LESSON, lesson.questions.length);
+    // O corte entre essenciais e extras não pode cair no meio de um cluster:
+    // as questões de um mesmo texto ficariam em blocos diferentes da tela, e o
+    // usuário leria o texto duas vezes ou responderia metade dele sem contexto.
+    // O ajuste é sempre PARA A FRENTE — o bloco essencial cresce até fechar o
+    // cluster, em vez de encolher e deixar questões órfãs nos extras.
+    const essentialCount = snapToGroupBoundary(
+      lesson.questions,
+      Math.min(ESSENTIAL_QUESTIONS_PER_LESSON, lesson.questions.length)
+    );
     const essentials = lesson.questions.slice(0, essentialCount);
     const extras = lesson.questions.slice(essentialCount);
     const minutesEstimate = Math.round(essentialCount * MINUTES_PER_QUESTION_ESTIMATE);
@@ -1618,13 +1731,13 @@
 
     const essentialsContainer = card.querySelector(".essentials-questions");
     essentials.forEach((q, idx) => {
-      essentialsContainer.appendChild(renderQuestion(day, lesson.subtopicId, q, idx));
+      appendGrouped(essentialsContainer, q, renderQuestion(day, lesson.subtopicId, q, idx));
     });
 
     const extrasBlock = card.querySelector(".extras-block");
     const extrasContainer = card.querySelector(".extras-questions");
     extras.forEach((q, idx) => {
-      extrasContainer.appendChild(renderQuestion(day, lesson.subtopicId, q, essentialCount + idx));
+      appendGrouped(extrasContainer, q, renderQuestion(day, lesson.subtopicId, q, essentialCount + idx));
     });
 
     const actions = card.querySelector(".extras-actions");
@@ -1665,7 +1778,7 @@
           // hideSavedAnswer=true: sem "dia" pra rastrear por ocorrência, tratamos
           // como prática avulsa — sempre nasce zerada, mesmo critério do
           // Caderno de Erros.
-          extrasContainer.appendChild(renderQuestion(null, lesson.subtopicId, q, alreadyShown + i, undefined, () => { updateScoreLabel(card); }, true));
+          appendGrouped(extrasContainer, q, renderQuestion(null, lesson.subtopicId, q, alreadyShown + i, undefined, () => { updateScoreLabel(card); }, true));
         });
         extraPullCounts[extrasKey] = pulled + more.length;
         renderExtrasActions();
@@ -1697,10 +1810,15 @@
     // global (vd_answers, usado só pras stats de frente) já tenha resposta.
     const saved = (hideSavedAnswer || day == null) ? null : getDayAnswers()[dayAnswerKey(day, subtopicId, q.id)];
 
-    const supportHtml = q.texto_apoio
-      ? `<div class="q-support">${escapeHtml(q.texto_apoio)}</div>`
+    // Texto de apoio: inline na própria questão, ou compartilhado por um
+    // cluster e resolvido por textoId. A ordem importa — `texto_apoio` vence,
+    // para que as questões antigas continuem funcionando sem alteração.
+    const support = resolveSupportText(q);
+    const supportHtml = support
+      ? `<div class="q-support">${escapeHtml(support)}</div>`
       : "";
     const tagHtml = tagLabel ? `<div class="q-tag">${escapeHtml(tagLabel)}</div>` : "";
+    const visualHtml = renderVisual(q.visual);
     // Selo de dificuldade: só questões novas (banco ampliado) têm o campo
     // `dificuldade` ("media"/"dificil") — questões antigas seguem sem selo.
     const difficultyHtml = q.dificuldade
@@ -1718,6 +1836,7 @@
     wrap.innerHTML = `
       ${tagHtml}
       ${supportHtml}
+      ${visualHtml}
       <div class="q-enunciado">${idx + 1}. ${escapeHtml(q.enunciado)} ${difficultyHtml}</div>
       <div class="q-alts">${altsHtml}</div>
       <div class="q-feedback" hidden></div>
@@ -2020,61 +2139,84 @@
     const wrap = document.createElement("div");
     wrap.className = "question dissert-question";
     const savedAnswers = getDissertAnswers();
-    const key = dissertKey(day, q.id);
-    const savedText = savedAnswers[key] || "";
-
     const checklist = getDissertChecklist();
-    const checklistKeyFor = (pointIdx) => dissertKey(day, q.id) + "::" + pointIdx;
-    // Recebe o objeto de checklist explicitamente (em vez de fechar sobre uma
-    // variável só) pra sempre contar a partir da leitura mais recente do
-    // localStorage — evita perder marcações de OUTRA questão dissertativa do
-    // mesmo dia caso o snapshot inicial desta função já esteja desatualizado.
-    const checkedCount = (checklistObj) => q.pontosEsperados.filter((_, i) => checklistObj[checklistKeyFor(i)]).length;
-    const pontosHtml = q.pontosEsperados.map((p, i) => `
-      <li>
-        <label>
-          <input type="checkbox" data-point="${i}" ${checklist[checklistKeyFor(i)] ? "checked" : ""}>
-          <span>${escapeHtml(p)}</span>
-        </label>
-      </li>
-    `).join("");
+    const itens = dissertItens(q);
+
+    const itensHtml = itens.map((item, itemIdx) => {
+      const answerKey = dissertItemKey(day, q.id, item.id);
+      const checklistKeyFor = (pointIdx) => answerKey + "::" + pointIdx;
+      const pontosHtml = item.pontosEsperados.map((p, i) => `
+        <li>
+          <label>
+            <input type="checkbox" data-point="${i}" ${checklist[checklistKeyFor(i)] ? "checked" : ""}>
+            <span>${escapeHtml(p)}</span>
+          </label>
+        </li>
+      `).join("");
+      const marcados = item.pontosEsperados.filter((_, i) => checklist[checklistKeyFor(i)]).length;
+      // Um comando que pede "duas razões" é pontuado contando: o selo existe para
+      // que o candidato veja o número antes de escrever, e não depois de perder
+      // metade do ponto por ter entregado uma só.
+      const selo = item.quantidadeExigida
+        ? `<span class="dissert-quantidade">responder ${item.quantidadeExigida}</span>`
+        : "";
+      // Só numera os itens quando existe mais de um: numa questão de comando único
+      // um "a)" solitário sugeriria um "b)" que não vem.
+      const rotulo = itens.length > 1 ? `<strong>${item.id})</strong> ` : `${itemIdx + idx + 1}. `;
+      return `
+        <div class="dissert-item" data-item="${item.id}">
+          <div class="q-enunciado">${rotulo}${escapeHtml(item.comando)} ${selo}</div>
+          <textarea class="dissert-textarea" rows="6" placeholder="Escreva sua resposta aqui...">${escapeHtml(savedAnswers[answerKey] || "")}</textarea>
+          <button class="btn-link dissert-toggle-gabarito" type="button">Ver pontos esperados na correção</button>
+          <div class="dissert-gabarito-wrap" hidden>
+            <div class="dissert-gabarito-counter">${marcados}/${item.pontosEsperados.length} pontos marcados</div>
+            <p class="hint" style="margin:0 0 8px;">Depois de escrever, releia sua resposta e marque os pontos que você
+            realmente cobriu — é uma autoavaliação, não existe correção automática.</p>
+            <ul class="dissert-gabarito">${pontosHtml}</ul>
+          </div>
+        </div>
+      `;
+    }).join("");
 
     wrap.innerHTML = `
       <div class="lesson-eyebrow">${escapeHtml(q.area)}${q.tempoSugerido ? ` · ~${q.tempoSugerido} min sugeridos` : ""}</div>
       <div class="q-support">${escapeHtml(q.texto_apoio)}</div>
-      <div class="q-enunciado">${idx + 1}. ${escapeHtml(q.comando)}</div>
-      <textarea class="dissert-textarea" rows="6" placeholder="Escreva sua resposta aqui...">${escapeHtml(savedText)}</textarea>
-      <button class="btn-link dissert-toggle-gabarito" type="button">Ver pontos esperados na correção</button>
-      <div class="dissert-gabarito-wrap" hidden>
-        <div class="dissert-gabarito-counter">${checkedCount(checklist)}/${q.pontosEsperados.length} pontos marcados</div>
-        <p class="hint" style="margin:0 0 8px;">Depois de escrever, releia sua resposta e marque os pontos que você
-        realmente cobriu — é uma autoavaliação, não existe correção automática.</p>
-        <ul class="dissert-gabarito">${pontosHtml}</ul>
-      </div>
+      ${itens.length > 1 ? `<div class="q-enunciado dissert-numero">${idx + 1}.</div>` : ""}
+      ${itensHtml}
     `;
 
-    const textarea = wrap.querySelector(".dissert-textarea");
-    textarea.addEventListener("input", () => {
-      const current = getDissertAnswers();
-      current[key] = textarea.value;
-      saveJSON(LS_DISSERT_ANSWERS, current);
-    });
+    wrap.querySelectorAll(".dissert-item").forEach((bloco) => {
+      const item = itens.find((it) => it.id === bloco.dataset.item);
+      const answerKey = dissertItemKey(day, q.id, item.id);
+      const checklistKeyFor = (pointIdx) => answerKey + "::" + pointIdx;
 
-    const toggleBtn = wrap.querySelector(".dissert-toggle-gabarito");
-    const gabaritoWrap = wrap.querySelector(".dissert-gabarito-wrap");
-    toggleBtn.addEventListener("click", () => {
-      gabaritoWrap.hidden = !gabaritoWrap.hidden;
-      toggleBtn.textContent = gabaritoWrap.hidden ? "Ver pontos esperados na correção" : "Ocultar pontos esperados";
-    });
+      const textarea = bloco.querySelector(".dissert-textarea");
+      textarea.addEventListener("input", () => {
+        const current = getDissertAnswers();
+        current[answerKey] = textarea.value;
+        saveJSON(LS_DISSERT_ANSWERS, current);
+      });
 
-    const counterEl = wrap.querySelector(".dissert-gabarito-counter");
-    wrap.querySelectorAll(".dissert-gabarito input[type=checkbox]").forEach((cb) => {
-      cb.addEventListener("change", () => {
-        const state = getDissertChecklist();
-        const key = checklistKeyFor(cb.dataset.point);
-        if (cb.checked) state[key] = true; else delete state[key];
-        saveJSON(LS_DISSERT_CHECKLIST, state);
-        counterEl.textContent = `${checkedCount(state)}/${q.pontosEsperados.length} pontos marcados`;
+      const toggleBtn = bloco.querySelector(".dissert-toggle-gabarito");
+      const gabaritoWrap = bloco.querySelector(".dissert-gabarito-wrap");
+      toggleBtn.addEventListener("click", () => {
+        gabaritoWrap.hidden = !gabaritoWrap.hidden;
+        toggleBtn.textContent = gabaritoWrap.hidden ? "Ver pontos esperados na correção" : "Ocultar pontos esperados";
+      });
+
+      // Conta a partir da leitura mais recente do localStorage, e não de um
+      // snapshot fechado por closure — do contrário, marcar um ponto no item (b)
+      // apagaria o que já estava marcado no item (a) do mesmo dia.
+      const counterEl = bloco.querySelector(".dissert-gabarito-counter");
+      bloco.querySelectorAll(".dissert-gabarito input[type=checkbox]").forEach((cb) => {
+        cb.addEventListener("change", () => {
+          const state = getDissertChecklist();
+          const k = checklistKeyFor(cb.dataset.point);
+          if (cb.checked) state[k] = true; else delete state[k];
+          saveJSON(LS_DISSERT_CHECKLIST, state);
+          const n = item.pontosEsperados.filter((_, i) => state[checklistKeyFor(i)]).length;
+          counterEl.textContent = `${n}/${item.pontosEsperados.length} pontos marcados`;
+        });
       });
     });
 
@@ -2667,6 +2809,75 @@
       .replace(/</g, "&lt;")
       .replace(/>/g, "&gt;")
       .replace(/"/g, "&quot;");
+  }
+
+  // Fontes visuais das questões: charge, tirinha, mapa, gráfico, obra de arte,
+  // esquema. As duas bancas usam muito — só na FGV 2026.1 há tirinha, gravura,
+  // charge, desenho de relatório do IHGB e gráfico do IBGE.
+  //
+  // `descricao` é obrigatória e não é legenda decorativa: é o que faz a questão
+  // continuar respondível enquanto o arquivo de imagem não existe, e é o texto
+  // alternativo quando ele existe. Por isso ela é renderizada mesmo com imagem.
+  //
+  // O caminho passa por uma whitelist estrita em vez de ir direto pro src. Todo
+  // o resto do app escapa os campos de dados (escapeHtml), então este é o único
+  // ponto em que conteúdo de arquivo de dados vira markup — e um caminho que
+  // aceitasse "javascript:" ou um host externo seria um furo aberto pelo
+  // próprio banco de questões.
+  // Resolve o texto de apoio de uma questão. Questões avulsas trazem o texto
+  // inline; questões de cluster apontam para uma entrada de window.QUESTION_TEXTS
+  // por textoId. Passa pelo mesmo escapeHtml do resto, sem caminho novo.
+  function resolveSupportText(q) {
+    if (!q) return "";
+    if (q.texto_apoio) return q.texto_apoio;
+    if (!q.textoId) return "";
+    const t = (window.QUESTION_TEXTS || {})[q.textoId];
+    return (t && t.conteudo) || "";
+  }
+
+  // Anexa uma questão a um container colapsando o texto repetido do cluster.
+  //
+  // Um artigo de 1.900 caracteres impresso de novo em cada uma das quatro
+  // questões que o compartilham não é só feio: empurra as alternativas para
+  // fora da tela e desfaz justamente o que o agrupamento treina, que é
+  // sustentar uma leitura ao longo de várias perguntas.
+  //
+  // O "anterior" sai do DOM, e não de uma variável de closure, porque as
+  // questões extras puxadas pelo botão "puxar mais 10" são acrescentadas ao
+  // mesmo container muito depois, de outra chamada — ler o último filho é o
+  // único jeito de o colapso continuar valendo entre as duas levas.
+  //
+  // Quem anexa sem passar por aqui segue mostrando o texto em cada questão, e
+  // isso está certo: no Caderno de Erros a questão aparece sozinha, sem a
+  // anterior por perto para servir de referência.
+  function appendGrouped(container, q, node) {
+    const tid = (q && q.textoId) || "";
+    node.dataset.textoId = tid;
+    const anterior = container.lastElementChild;
+    if (tid && anterior && anterior.dataset && anterior.dataset.textoId === tid) {
+      const dup = node.querySelector(".q-support");
+      if (dup) {
+        dup.className = "q-support-ref";
+        dup.textContent = "Mesmo texto da questão anterior.";
+      }
+    }
+    container.appendChild(node);
+  }
+
+  const VISUAL_PATH_OK = /^assets\/[A-Za-z0-9._/-]+\.(svg|png|jpg|jpeg|webp)$/;
+
+  function renderVisual(visual) {
+    if (!visual || !visual.descricao) return "";
+    const arquivoOk = visual.arquivo && VISUAL_PATH_OK.test(visual.arquivo) && !visual.arquivo.includes("..");
+    const imgHtml = arquivoOk
+      ? `<img src="${escapeHtml(visual.arquivo)}" alt="${escapeHtml(visual.descricao)}" loading="lazy">`
+      : "";
+    const tipoHtml = visual.tipo ? `<span class="q-visual-tipo">${escapeHtml(visual.tipo)}</span>` : "";
+    return `
+      <figure class="q-visual${arquivoOk ? "" : " q-visual-sem-imagem"}">
+        ${imgHtml}
+        <figcaption>${tipoHtml}${escapeHtml(visual.descricao)}</figcaption>
+      </figure>`;
   }
 
   // ---------- Init ----------

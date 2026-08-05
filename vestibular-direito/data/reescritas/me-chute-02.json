@@ -1,0 +1,165 @@
+{
+  "subtopic": "atualidades-meioambiente",
+  "questoes": [
+    {
+      "id": "atualidades-meioambiente-37",
+      "texto_apoio": "Parte do CO2 emitido pelas atividades humanas é absorvida pelos oceanos, reagindo com a água do mar e formando ácido carbônico.",
+      "enunciado": "Esse processo de absorção de CO2 pelos oceanos provoca, sobretudo, qual efeito sobre a química marinha?",
+      "alternativas": {
+        "a": "a redução do pH da água do mar, a chamada acidificação, que prejudica organismos calcários",
+        "b": "o aumento da estratificação térmica, que reduz a mistura entre as camadas oceânicas",
+        "c": "o aumento da salinidade média dos oceanos, associado ao derretimento das calotas polares árticas",
+        "d": "a eliminação do CO2 dissolvido na água do mar, revertendo a acidificação já documentada",
+        "e": "a elevação do pH da água do mar, tornando-a mais alcalina e favorável aos organismos calcários"
+      },
+      "resposta": "a",
+      "dificuldade": "media",
+      "formato": "direta",
+      "explicacao": "O CO2 dissolvido forma ácido carbônico, o pH cai e corais, moluscos e outros organismos passam a ter dificuldade para formar suas conchas e esqueletos. Em (e) está a inversão exata do processo, e ela engana porque 'mais alcalino' soa como o oposto benigno de poluição — a química é a contrária. Em (d), o oceano absorve o CO2 em vez de eliminá-lo. Em (b) e (c), estratificação e salinidade são efeitos climáticos de outra ordem, ligados a temperatura e degelo."
+    },
+    {
+      "id": "atualidades-meioambiente-40",
+      "texto_apoio": "Vastas áreas de solo nas regiões árticas permanecem congeladas há milênios, armazenando grande quantidade de matéria orgânica e, consequentemente, de carbono.",
+      "enunciado": "O degelo progressivo dessas áreas, provocado pelo aquecimento regional mais acelerado que a média global, preocupa cientistas porque:",
+      "alternativas": {
+        "a": "não tem relação com o ciclo global do carbono, por se tratar de fenômeno regional isolado",
+        "b": "aumenta permanentemente a capacidade de absorção de carbono da região, compensando as emissões liberadas pelo degelo",
+        "c": "reduz permanentemente a concentração de gases de efeito estufa na atmosfera, revertendo o aquecimento observado nas últimas décadas",
+        "d": "aumenta a reflexão da radiação solar, o que compensaria parcialmente o aquecimento regional",
+        "e": "libera metano e CO2 antes retidos na matéria orgânica congelada, num ciclo que intensifica o aquecimento"
+      },
+      "resposta": "e",
+      "dificuldade": "dificil",
+      "formato": "direta",
+      "explicacao": "O permafrost guarda carbono de milênios; ao descongelar, ele o devolve à atmosfera, o que aquece mais, o que descongela mais — retroalimentação positiva, um dos pontos de virada mais temidos do sistema climático. Em (b) está o distrator mais elaborado: a vegetação de fato avança sobre a tundra aquecida e absorve carbono, mas em volume muito inferior ao liberado pelo solo. Em (d), o degelo expõe solo escuro e reduz a reflexão, em vez de aumentá-la. Em (a) e (c), o efeito é global e de sentido oposto."
+    },
+    {
+      "id": "atualidades-meioambiente-43",
+      "texto_apoio": "Secas prolongadas, elevação do nível do mar e eventos climáticos extremos têm levado populações de determinadas regiões, como pequenas ilhas e áreas costeiras de baixa altitude, a deixar seus territórios de origem.",
+      "enunciado": "Pessoas deslocadas nessas condições são frequentemente chamadas, no debate público, de refugiados climáticos, embora esse termo:",
+      "alternativas": {
+        "a": "já garanta, por si só, proteção internacional automática equivalente à de refugiado por perseguição política",
+        "b": "ainda não corresponda a categoria jurídica reconhecida pela Convenção de 1951",
+        "c": "seja aplicado apenas a deslocamentos internos, e não a travessias de fronteira",
+        "d": "seja juridicamente idêntico ao de apátrida nos tratados internacionais vigentes",
+        "e": "corresponda à categoria de apátrida prevista na Convenção de 1954 da ONU"
+      },
+      "resposta": "b",
+      "dificuldade": "media",
+      "formato": "direta",
+      "explicacao": "A Convenção de 1951 define refugiado por perseguição — raça, religião, nacionalidade, grupo social, opinião política — e clima não está na lista, o que deixa essas pessoas sem o estatuto e sem a proteção que ele traria. Em (a) está a suposição que o uso corrente do termo produz: a expressão circula tanto na imprensa que parece já ter efeito jurídico, e é justamente a lacuna entre o nome e o direito que a questão cobra. Em (c), há deslocamento transfronteiriço. Em (d) e (e), apatridia é outra condição."
+    },
+    {
+      "id": "atualidades-meioambiente-51",
+      "texto_apoio": "O uso intensivo de agrotóxicos na agricultura, embora amplie a produtividade de curto prazo, tem sido associado à mortandade de polinizadores, como abelhas, e à contaminação de solos e cursos d'água.",
+      "enunciado": "Esse conjunto de efeitos ilustra, sobretudo, uma tensão entre:",
+      "alternativas": {
+        "a": "produção agrícola e ausência de manejo integrado de pragas nas lavouras de larga escala",
+        "b": "produção de alimentos e produção de biocombustíveis, que disputam a mesma área cultivável",
+        "c": "produtividade agrícola de curto prazo e conservação da biodiversidade no longo prazo",
+        "d": "agricultura familiar e agricultura de subsistência, sem relação com uso de insumos químicos",
+        "e": "exportação de commodities agrícolas e consumo interno de alimentos processados no mercado nacional"
+      },
+      "resposta": "c",
+      "dificuldade": "media",
+      "formato": "direta",
+      "explicacao": "O agrotóxico entrega safra maior agora e cobra depois, em polinizador morto, solo empobrecido e água contaminada — a tensão é entre horizontes de tempo. Em (a) está a alternativa mais próxima e ainda assim deslocada: o manejo integrado é a resposta possível a esse dilema, e não o polo que se opõe à produção. Em (b), alimentos contra biocombustíveis é outra disputa, por área. Em (d) e (e), nem os tipos de agricultura nem o destino da produção explicam o efeito descrito."
+    },
+    {
+      "id": "atualidades-meioambiente-52",
+      "texto_apoio": "O cultivo repetido de uma única espécie na mesma área, ano após ano, sem rotação de culturas nem cobertura vegetal diversificada, é uma prática comum em determinados sistemas agrícolas de larga escala.",
+      "enunciado": "Entre os efeitos associados à monocultura intensiva sem manejo adequado do solo está:",
+      "alternativas": {
+        "a": "o aumento constante e permanente da fertilidade natural do solo, mesmo sem rotação de culturas",
+        "b": "a maior suscetibilidade a pragas específicas e a degradação da fertilidade do solo",
+        "c": "a eliminação total da necessidade de insumos agrícolas externos ao longo dos ciclos produtivos",
+        "d": "a ampliação da retenção de carbono no solo pela ausência de revolvimento mecânico",
+        "e": "o aumento automático da diversidade biológica do solo cultivado repetidamente sem rotação adequada"
+      },
+      "resposta": "b",
+      "dificuldade": "media",
+      "formato": "direta",
+      "explicacao": "A mesma cultura todo ano oferece à praga adaptada um banquete garantido e retira do solo sempre os mesmos nutrientes: a lavoura fica mais vulnerável e o terreno, mais pobre, o que força o uso crescente de insumos. Em (d) está o distrator mais bem informado, porque plantio direto sem revolvimento realmente retém carbono — só que essa é uma técnica de manejo, e o enunciado descreve monocultura sem manejo adequado. Em (a), (c) e (e), fertilidade, dispensa de insumos e diversidade caminham no sentido contrário."
+    },
+    {
+      "id": "atualidades-meioambiente-53",
+      "texto_apoio": "Em regiões de expansão da fronteira agropecuária, é comum a sobreposição entre áreas reivindicadas por grandes produtores rurais, comunidades tradicionais, povos indígenas e, em alguns casos, terras públicas griladas.",
+      "enunciado": "Essa sobreposição de reivindicações territoriais em áreas de expansão agrícola evidencia que o desmatamento nessas regiões está frequentemente ligado a:",
+      "alternativas": {
+        "a": "disputas fundiárias e à fragilidade da regularização de terras públicas",
+        "b": "decisões estritamente climáticas, sem componente fundiário ou econômico envolvido",
+        "c": "ausência total de interesse econômico na terra, incompatível com dados de valorização fundiária",
+        "d": "políticas de reforma agrária plenamente consolidadas e sem conflitos fundiários remanescentes",
+        "e": "ao avanço da fronteira urbana sobre áreas de preservação permanente da região"
+      },
+      "resposta": "a",
+      "dificuldade": "dificil",
+      "formato": "direta",
+      "explicacao": "Derrubar floresta é, em boa parte desses casos, o modo de demonstrar posse sobre terra pública sem título definido — o desmatamento é instrumento de uma disputa fundiária, e não decorrência de cálculo agronômico. Em (e) está o distrator mais plausível, porque a expansão urbana sobre área protegida é problema real: só que ocorre no entorno das cidades, e não na fronteira agropecuária de que trata o enunciado. Em (c) e (d), há forte interesse econômico e conflitos abertos. Em (b), o clima não decide a ocupação."
+    },
+    {
+      "id": "atualidades-meioambiente-54",
+      "texto_apoio": "Barragens utilizadas para conter rejeitos da atividade de mineração já se romperam em diferentes ocasiões, liberando grandes volumes de lama tóxica sobre rios, comunidades e áreas de preservação ambiental.",
+      "enunciado": "Esses desastres evidenciam, sobretudo, a importância de:",
+      "alternativas": {
+        "a": "dispensar o estudo geotécnico prévio à construção de barragens de rejeito",
+        "b": "substituir o monitoramento contínuo por vistorias anuais realizadas pelo próprio empreendedor",
+        "c": "transferir a responsabilidade pela segurança das barragens às comunidades atingidas",
+        "d": "fiscalização técnica rigorosa, auditorias independentes e responsabilização das mineradoras",
+        "e": "eliminar a atividade minerária no território nacional, seja qual for o método de contenção"
+      },
+      "resposta": "d",
+      "dificuldade": "media",
+      "formato": "direta",
+      "explicacao": "Os rompimentos expuseram laudos de estabilidade emitidos por empresas contratadas pela própria mineradora, e daí a ênfase em auditoria independente somada a fiscalização e responsabilização. Em (b) está exatamente o arranjo que falhou: autocontrole com vistoria esparsa é o modelo que os desastres desmentiram, e trocá-lo por monitoramento externo e contínuo é a lição. Em (e), o encerramento da mineração não é a conclusão que se extrai. Em (a) e (c), dispensar estudo e transferir a culpa às vítimas invertem a responsabilidade."
+    },
+    {
+      "id": "atualidades-meioambiente-56",
+      "texto_apoio": "Décadas atrás, um acordo internacional distinto dos acordos climáticos atuais foi firmado para eliminar progressivamente substâncias que destroem a camada de ozônio estratosférico, como certos gases usados em refrigeração e aerossóis.",
+      "enunciado": "A diferença central entre o problema da destruição da camada de ozônio e o do efeito estufa intensificado é que:",
+      "alternativas": {
+        "a": "ambos são causados exatamente pelos mesmos gases, sem distinção entre os CFCs e o dióxido de carbono atmosférico",
+        "b": "a destruição da camada de ozônio decorre apenas da emissão de dióxido de carbono",
+        "c": "o efeito estufa é um fenômeno estratosférico, e não troposférico como o buraco de ozônio",
+        "d": "o problema do ozônio não chegou a ter acordo internacional de enfrentamento",
+        "e": "a camada de ozônio protege da radiação ultravioleta, e o efeito estufa liga-se à retenção de calor"
+      },
+      "resposta": "e",
+      "dificuldade": "dificil",
+      "formato": "direta",
+      "explicacao": "São dois problemas com física distinta: um é filtro de radiação ultravioleta que se rompe, o outro é calor que deixa de escapar. Em (a) está a confusão que sustenta o senso comum de que o buraco de ozônio aquece o planeta — alguns CFCs de fato contribuem para os dois fenômenos, mas o principal gás de efeito estufa é o CO2, que não destrói o ozônio. Em (c), o efeito estufa é troposférico. Em (b), o CO2 não é o agente da destruição do ozônio. Em (d), o Protocolo de Montreal é de 1987."
+    },
+    {
+      "id": "atualidades-meioambiente-57",
+      "texto_apoio": "Diferentemente de fontes como solar e eólica, a energia nuclear não depende da incidência de luz solar ou da intensidade do vento para gerar eletricidade de forma constante, mas gera rejeitos radioativos de longa duração e enfrenta resistência de parte da opinião pública.",
+      "enunciado": "No debate sobre transição energética, a energia nuclear costuma ser discutida como fonte que:",
+      "alternativas": {
+        "a": "é isenta de controvérsia ambiental e de segurança no debate energético atual",
+        "b": "depende de reservas de urânio concentradas em poucos países, o que a torna geopoliticamente sensível",
+        "c": "não emite gases de efeito estufa e é constante, mas levanta questões de segurança e rejeitos",
+        "d": "emite grande volume de gases de efeito estufa durante a geração de eletricidade, tal como os combustíveis fósseis",
+        "e": "depende da intermitência climática do mesmo modo que a energia solar e eólica, exigindo os mesmos sistemas de backup"
+      },
+      "resposta": "c",
+      "dificuldade": "dificil",
+      "formato": "direta",
+      "explicacao": "É o balanço que o debate faz: baixa emissão e geração firme de um lado, risco de acidente e rejeito de meia-vida longa do outro. Em (b) está a afirmação mais defensável entre as erradas — a concentração das reservas de urânio é real e pesa na geopolítica energética, mas não é o eixo pelo qual a fonte é discutida na transição, que é o par emissão e risco. Em (e), a geração nuclear é firme, não intermitente. Em (a) e (d), Chernobyl e Fukushima desmentem a isenção, e a geração não emite carbono."
+    },
+    {
+      "id": "atualidades-meioambiente-65",
+      "texto_apoio": "Estudos comparativos indicam que áreas sob gestão de povos indígenas e comunidades tradicionais frequentemente apresentam taxas de desmatamento menores do que áreas de mesma vocação florestal fora dessas terras.",
+      "enunciado": "Esse dado é frequentemente utilizado para sustentar o argumento de que:",
+      "alternativas": {
+        "a": "a presença humana em um território aumenta o desmatamento, seja qual for a forma de gestão",
+        "b": "a demarcação de terras indígenas e tradicionais pode funcionar como estratégia de conservação",
+        "c": "a criação de unidades de conservação de proteção integral é mais eficaz que a demarcação de terras indígenas",
+        "d": "não existe relação entre posse fundiária e conservação ambiental, sendo fatores independentes",
+        "e": "áreas sob gestão indígena são menos produtivas economicamente, sem benefício ambiental"
+      },
+      "resposta": "b",
+      "dificuldade": "media",
+      "formato": "direta",
+      "explicacao": "O dado liga permanência dessas populações no território a floresta em pé, e é essa associação que sustenta a demarcação como política de conservação, e não apenas como reparação histórica. Em (c) está a leitura mais tentadora para quem já conhece o tema: unidades de proteção integral também conservam, mas o estudo compara terras indígenas com áreas fora delas, e não os dois instrumentos entre si. Em (a) e (d), o dado mostra exatamente o contrário. Em (e), a produtividade econômica não está em questão."
+    }
+  ]
+}

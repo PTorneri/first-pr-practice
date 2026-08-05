@@ -50,9 +50,9 @@
                          "formato":  "direta",
                          "enunciado":  "A comparação recorrente entre personagens e animais, no romance, cumpre principalmente a função de",
                          "alternativas":  {
-                                              "a":  "suavizar pelo humor a violência das cenas descritas.",
+                                              "a":  "suavizar pelo humor a violência das cenas descritas no cortiço.",
                                               "b":  "individualizar cada personagem por um traço físico exclusivo.",
-                                              "c":  "sustentar a tese naturalista de que o comportamento humano tem causas físicas.",
+                                              "c":  "sustentar a tese naturalista de que o comportamento tem causas físicas.",
                                               "d":  "indicar que o narrador adota o ponto de vista das próprias personagens.",
                                               "e":  "marcar a passagem do discurso do narrador para o discurso das personagens."
                                           },
@@ -83,8 +83,8 @@
                          "enunciado":  "Descrever a estalagem como um organismo vivo produz, na economia do romance, o efeito de",
                          "alternativas":  {
                                               "a":  "reduzir as personagens individuais a um detalhe pitoresco do cenário.",
-                                              "b":  "sugerir que o conjunto foi projetado de antemão por um único arquiteto.",
-                                              "c":  "deslocar a narrativa para o terreno do fantástico.",
+                                              "b":  "sugerir que o conjunto foi projetado de antemão por um único arquiteto, segundo um plano.",
+                                              "c":  "deslocar a narrativa para o terreno do fantástico e do sobrenatural.",
                                               "d":  "indicar que o espaço permanece imutável ao longo da narrativa.",
                                               "e":  "converter o espaço em força que age sobre quem vive nele, e não em mero cenário."
                                           },
@@ -98,11 +98,11 @@
                          "formato":  "direta",
                          "enunciado":  "A transformação de Jerônimo ao longo do romance é apresentada como",
                          "alternativas":  {
-                                              "a":  "escolha moral consciente, tomada contra a opinião de quem o cerca.",
-                                              "b":  "efeito do meio sobre o indivíduo, em que clima, música e convívio alteram hábitos e desejos.",
-                                              "c":  "resultado de uma doença diagnosticada no decorrer da trama.",
+                                              "a":  "escolha moral consciente, tomada contra a opinião de quem convive com ele.",
+                                              "b":  "efeito do meio, que altera hábitos, gostos e desejos do imigrante.",
+                                              "c":  "resultado de uma doença diagnosticada no decorrer da trama do romance.",
                                               "d":  "consequência da ascensão econômica que ele obtém dentro da estalagem.",
-                                              "e":  "recuo deliberado a um modo de vida anterior à emigração."
+                                              "e":  "recuo deliberado a um modo de vida anterior à emigração de Portugal."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O terceiro parágrafo descreve a mudança de ritmo, de comida, de música e de mulher e a apresenta como efeito do meio sobre o indivíduo — a mesma lógica determinista que o parágrafo seguinte generaliza para todo o romance. Escolha consciente e recuo deliberado supõem a decisão que o texto nega às personagens; nenhuma doença é diagnosticada; e Jerônimo é caracterizado como trabalhador metódico, sem ascensão econômica que explique a mudança."
@@ -130,11 +130,11 @@
                          "formato":  "excecao",
                          "enunciado":  "O texto sustenta todas as afirmações a seguir sobre O Cortiço, EXCETO:",
                          "alternativas":  {
-                                              "a":  "A estalagem é descrita com traços de organismo vivo.",
+                                              "a":  "A estalagem é descrita com traços de um organismo vivo que cresce.",
                                               "b":  "A trajetória de João Romão depende do trabalho de Bertoleza.",
                                               "c":  "O casamento com Zulmira integra o projeto de ascensão social do protagonista.",
                                               "d":  "A comparação de gente com bicho é procedimento estilístico frequente no livro.",
-                                              "e":  "As personagens agem por deliberação individual, à margem das condições que as cercam."
+                                              "e":  "As personagens agem por deliberação individual, à margem do que as cerca."
                                           },
                          "resposta":  "e",
                          "explicacao":  "O texto afirma o contrário no fecho: as personagens não decidem, são determinadas pelo meio, pela raça e pelo momento. As demais estão sustentadas — a estalagem cresce, fervilha e desperta; o dinheiro e a força de trabalho de Bertoleza sustentam a construção das casinhas; o casamento com a filha do vizinho Miranda é a exigência social que motiva a entrega dela; e a comparação de gente com bicho é apresentada como o procedimento estilístico mais frequente do livro."
@@ -146,11 +146,11 @@
                          "formato":  "direta",
                          "enunciado":  "A ausência de julgamento moral por parte do narrador distingue o romance porque",
                          "alternativas":  {
-                                              "a":  "impede o leitor de identificar quem pratica cada ação narrada.",
+                                              "a":  "impede o leitor de identificar quem pratica cada uma das ações narradas.",
                                               "b":  "transfere o julgamento a uma personagem que funciona como porta-voz do autor.",
-                                              "c":  "suprime o castigo exemplar que o romance romântico contemporâneo costumava reservar à transgressão.",
+                                              "c":  "suprime o castigo exemplar que o romance romântico reservava à transgressão.",
                                               "d":  "elimina do enredo as transgressões, que passam a ser apenas mencionadas.",
-                                              "e":  "submete todas as ações ao critério da autoridade encarnada no major Vidigal."
+                                              "e":  "submete as ações ao critério da autoridade encarnada no major Vidigal."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O último parágrafo diz que não há castigo exemplar nem lição final e que é essa ausência de moral explícita, mais que o enredo, o que separa o livro dos romances românticos contemporâneos. A identificação de quem age não é afetada, já que o narrador continua contando os fatos; nenhuma personagem assume a função de porta-voz moral; furto e briga permanecem na cena, e não apenas mencionados; e a autoridade de Vidigal é um dos polos do mundo narrado, não o critério de julgamento do narrador."
@@ -163,10 +163,10 @@
                          "enunciado":  "A expressão dialética da ordem e da desordem, usada pela crítica a respeito do livro, descreve",
                          "alternativas":  {
                                               "a":  "a alternância entre capítulos narrados por personagens diferentes.",
-                                              "b":  "o contraste entre o Rio de Janeiro e as províncias.",
+                                              "b":  "o contraste entre o Rio de Janeiro da corte e as províncias do interior.",
                                               "c":  "a oposição entre o folhetim e o livro como formas de publicação.",
-                                              "d":  "a disputa entre narrador e protagonista pelo controle da história.",
-                                              "e":  "o trânsito contínuo das personagens entre o que a norma permite e o que ela proíbe."
+                                              "d":  "a disputa entre narrador e protagonista pelo controle da história contada.",
+                                              "e":  "o trânsito das personagens entre o que a norma permite e o que ela proíbe."
                                           },
                          "resposta":  "e",
                          "explicacao":  "O terceiro parágrafo apresenta as duas ordens que se tocam o tempo todo — a autoridade de um lado, o improviso e a rede de favores de outro — e nomeia esse trânsito contínuo com a expressão em questão. A narração é única e em terceira pessoa, o que afasta tanto a alternância de narradores quanto a disputa pelo controle; a oposição capital e províncias não é tematizada; e folhetim e livro são etapas de publicação registradas no primeiro parágrafo, sem relação com o conceito."
@@ -211,10 +211,10 @@
                          "enunciado":  "A escolha de um narrador que escreve depois de morto produz como efeito principal",
                          "alternativas":  {
                                               "a":  "a garantia de que tudo o que ele relata corresponde aos fatos.",
-                                              "b":  "a supressão do humor, incompatível com o tema da morte.",
+                                              "b":  "a supressão do humor, tido como incompatível com o tema da morte.",
                                               "c":  "a limitação do relato ao período final da vida do protagonista.",
-                                              "d":  "a transferência da narração a um herdeiro do protagonista.",
-                                              "e":  "a liberdade de julgar a própria vida sem nada a preservar diante dos vivos."
+                                              "d":  "a transferência da narração a um herdeiro direto do protagonista.",
+                                              "e":  "a liberdade de julgar a própria vida sem nada a preservar."
                                           },
                          "resposta":  "e",
                          "explicacao":  "O texto insiste na distinção que o próprio narrador faz — defunto autor, e não autor defunto — para marcar que ele escreve já do outro lado, e é dessa posição que vêm o humor sem solenidade e o balanço final feito por negativas. A morte não confere veracidade alguma, e o narrador continua sendo parte interessada; o humor é justamente o que a posição libera, não o que ela suprime; a narrativa cobre a vida inteira, e não só o fim; e não há herdeiro assumindo a narração."
@@ -244,9 +244,9 @@
                          "alternativas":  {
                                               "a":  "imposição do espaço disponível no jornal em que o livro teria saído.",
                                               "b":  "marca do Naturalismo, que fragmenta a narrativa em observações isoladas.",
-                                              "c":  "consequência da pouca experiência do autor no gênero romance.",
-                                              "d":  "procedimento deliberado, filiado a uma tradição que o próprio texto assume.",
-                                              "e":  "efeito de revisão feita por terceiros após a morte do autor."
+                                              "c":  "consequência da pouca experiência do autor no gênero do romance.",
+                                              "d":  "procedimento deliberado, filiado a uma tradição que o texto assume.",
+                                              "e":  "efeito de revisão feita por terceiros após a morte do autor do livro."
                                           },
                          "resposta":  "d",
                          "explicacao":  "O terceiro parágrafo diz que o avanço e o recuo da narrativa remetem à tradição do romance digressivo inglês do século XVIII e que Machado assume essa filiação abertamente dentro do próprio livro — logo, é escolha e não acidente. A limitação de espaço em jornal não explica capítulos de poucas linhas ao lado de digressões longas; o Naturalismo trabalha com encadeamento causal, e não com interrupção; a inexperiência é insustentável num autor com décadas de obra publicada; e nenhuma revisão póstuma é mencionada."
@@ -259,10 +259,10 @@
                          "enunciado":  "O balanço final do narrador, formulado por negativas, confere ao romance um sentido",
                          "alternativas":  {
                                               "a":  "consolador, ao apresentar a descendência como forma de sobrevivência.",
-                                              "b":  "épico, ao converter a vida do protagonista em feito exemplar.",
-                                              "c":  "irônico, ao transformar em saldo positivo aquilo que se contaria como fracasso.",
+                                              "b":  "épico, ao converter a vida do protagonista em feito digno de exemplo.",
+                                              "c":  "irônico, ao transformar em saldo positivo o que se contaria como fracasso.",
                                               "d":  "documental, ao registrar com exatidão os fatos de uma existência.",
-                                              "e":  "trágico, ao atribuir a um destino superior o fracasso do protagonista."
+                                              "e":  "trágico, ao atribuir a um destino superior e inescapável o fracasso do protagonista."
                                           },
                          "resposta":  "c",
                          "explicacao":  "O último parágrafo é construído sobre essa inversão: não ter alcançado glória, não ter deixado obra e não ter transmitido a ninguém o legado da própria miséria seriam perdas num romance romântico, e aparecem aqui como pequeno triunfo de contabilidade. O sentido consolador exigiria valorizar a descendência, que é exatamente o que o narrador comemora não ter; o feito exemplar e o destino superior são recusados pela ausência de qualquer grandeza no balanço; e a exatidão documental não se sustenta num relato que se interrompe para digressões."
@@ -274,10 +274,10 @@
                          "formato":  "direta",
                          "enunciado":  "A crítica designa o narrador de Dom Casmurro como não confiável porque",
                          "alternativas":  {
-                                              "a":  "ele confessa, ao final, ter inventado os episódios que narrou.",
-                                              "b":  "o leitor não dispõe de nenhum meio de verificar a acusação que ele sustenta.",
-                                              "c":  "ele demonstra não se lembrar dos fatos que relata.",
-                                              "d":  "o romance apresenta duas versões contraditórias da mesma cena.",
+                                              "a":  "ele confessa, ao final do livro, ter inventado os episódios que narrou.",
+                                              "b":  "o leitor não dispõe de meio algum para verificar a acusação que ele faz.",
+                                              "c":  "ele demonstra não se lembrar com clareza dos fatos que relata.",
+                                              "d":  "o romance apresenta duas versões contraditórias de uma mesma cena decisiva.",
                                               "e":  "sua narração é interrompida e concluída por outra personagem."
                                           },
                          "resposta":  "b",
@@ -307,10 +307,10 @@
                          "enunciado":  "O projeto que Bento Santiago declara na abertura do romance é",
                          "alternativas":  {
                                               "a":  "registrar a história do bairro em que passou a infância.",
-                                              "b":  "responder publicamente a uma acusação que lhe foi feita.",
-                                              "c":  "atar as duas pontas da vida, restituindo na velhice a adolescência.",
-                                              "d":  "escrever um tratado sobre a formação dos seminaristas.",
-                                              "e":  "transmitir ao filho a memória da família."
+                                              "b":  "responder publicamente a uma acusação que lhe foi feita na juventude.",
+                                              "c":  "atar as duas pontas da vida e restituir na velhice a adolescência.",
+                                              "d":  "escrever um tratado sobre a formação dos seminaristas do Império.",
+                                              "e":  "transmitir ao filho a memória da família e da casa de Matacavalos."
                                           },
                          "resposta":  "c",
                          "explicacao":  "É o que o primeiro parágrafo registra, e a casa do Engenho Novo que reproduz a de Matacavalos é a tentativa material de executar esse projeto. O registro do bairro e o tratado sobre seminaristas não são anunciados; o narrador acusa, e não se defende de acusação alheia; e Ezequiel é objeto da suspeita do narrador, não destinatário de uma memória de família."
@@ -322,10 +322,10 @@
                          "formato":  "direta",
                          "enunciado":  "A promessa feita por Dona Glória cumpre, na trama, a função de",
                          "alternativas":  {
-                                              "a":  "revelar ao leitor a origem da fortuna da família.",
-                                              "b":  "explicar o motivo da mudança para o Engenho Novo.",
-                                              "c":  "provocar a ruptura entre Bentinho e Escobar.",
-                                              "d":  "justificar a ausência do narrador durante a juventude de Capitu.",
+                                              "a":  "revelar ao leitor a origem da fortuna acumulada pela família.",
+                                              "b":  "explicar o motivo da mudança da família para o Engenho Novo.",
+                                              "c":  "provocar a ruptura definitiva entre Bentinho e Escobar.",
+                                              "d":  "justificar a ausência do narrador ao longo dos anos de juventude de Capitu.",
                                               "e":  "criar o obstáculo que separa Bentinho de Capitu e põe o enredo em marcha."
                                           },
                          "resposta":  "e",

@@ -30,9 +30,9 @@
                                  "n":  100
                              },
     "atualidades-meioambiente":  {
-                                     "longaPct":  23,
-                                     "absCertaPct":  1.3,
-                                     "indice":  28,
+                                     "longaPct":  15,
+                                     "absCertaPct":  1.7,
+                                     "indice":  18,
                                      "n":  100
                                  },
     "historia-brasil":  {
@@ -54,9 +54,9 @@
                              "n":  100
                          },
     "literatura":  {
-                       "longaPct":  28.7,
-                       "absCertaPct":  15.2,
-                       "indice":  29.3,
+                       "longaPct":  20.7,
+                       "absCertaPct":  15.6,
+                       "indice":  21.3,
                        "n":  150
                    },
     "historia-geral":  {
@@ -102,7 +102,7 @@
                                  "n":  100
                              },
     "_global":  {
-                    "indice":  22.3,
+                    "indice":  21.3,
                     "n":  2149
                 }
 }

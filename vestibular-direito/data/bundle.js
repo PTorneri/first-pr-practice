@@ -4479,16 +4479,16 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "Parte do CO2 emitido pelas atividades humanas é absorvida pelos oceanos, reagindo com a água do mar e formando ácido carbônico.",
                                          "enunciado":  "Esse processo de absorção de CO2 pelos oceanos provoca, sobretudo, qual efeito sobre a química marinha?",
                                          "alternativas":  {
-                                                              "a":  "a redução do pH da água do mar, processo conhecido como acidificação dos oceanos, que prejudica organismos com estruturas calcárias",
-                                                              "b":  "o aumento da estratificação térmica, que reduz a mistura entre camadas oceânicas",
-                                                              "c":  "o aumento da salinidade média dos oceanos, processo associado ao derretimento das calotas polares árticas",
-                                                              "d":  "a eliminação total do CO2 dissolvido na água do mar, revertendo qualquer processo de acidificação já documentado",
-                                                              "e":  "a elevação do pH da água do mar, tornando-a mais alcalina e favorável a organismos calcários marinhos"
+                                                              "a":  "a redução do pH da água do mar, a chamada acidificação, que prejudica organismos calcários",
+                                                              "b":  "o aumento da estratificação térmica, que reduz a mistura entre as camadas oceânicas",
+                                                              "c":  "o aumento da salinidade média dos oceanos, associado ao derretimento das calotas polares árticas",
+                                                              "d":  "a eliminação do CO2 dissolvido na água do mar, revertendo a acidificação já documentada",
+                                                              "e":  "a elevação do pH da água do mar, tornando-a mais alcalina e favorável aos organismos calcários"
                                                           },
                                          "resposta":  "a",
-                                         "explicacao":  "A absorção de CO2 pelos oceanos forma ácido carbônico, reduzindo o pH da água do mar em um processo chamado acidificação dos oceanos, que dificulta a formação de estruturas calcárias por corais, moluscos e outros organismos marinhos.",
                                          "dificuldade":  "media",
-                                         "formato":  "direta"
+                                         "formato":  "direta",
+                                         "explicacao":  "O CO2 dissolvido forma ácido carbônico, o pH cai e corais, moluscos e outros organismos passam a ter dificuldade para formar suas conchas e esqueletos. Em (e) está a inversão exata do processo, e ela engana porque \u0027mais alcalino\u0027 soa como o oposto benigno de poluição — a química é a contrária. Em (d), o oceano absorve o CO2 em vez de eliminá-lo. Em (b) e (c), estratificação e salinidade são efeitos climáticos de outra ordem, ligados a temperatura e degelo."
                                      },
                                      {
                                          "id":  "atualidades-meioambiente-38",
@@ -4527,16 +4527,16 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "Vastas áreas de solo nas regiões árticas permanecem congeladas há milênios, armazenando grande quantidade de matéria orgânica e, consequentemente, de carbono.",
                                          "enunciado":  "O degelo progressivo dessas áreas, provocado pelo aquecimento regional mais acelerado que a média global, preocupa cientistas porque:",
                                          "alternativas":  {
-                                                              "a":  "não tem qualquer relação com o ciclo global do carbono ou com o equilíbrio climático do planeta, sendo um fenômeno isolado",
+                                                              "a":  "não tem relação com o ciclo global do carbono, por se tratar de fenômeno regional isolado",
                                                               "b":  "aumenta permanentemente a capacidade de absorção de carbono da região, compensando as emissões liberadas pelo degelo",
                                                               "c":  "reduz permanentemente a concentração de gases de efeito estufa na atmosfera, revertendo o aquecimento observado nas últimas décadas",
-                                                              "d":  "aumenta a reflexão da radiação solar, o que compensa parcialmente o aquecimento regional",
-                                                              "e":  "libera metano e CO2 antes retidos na matéria orgânica congelada, podendo gerar um ciclo de retroalimentação que intensifica ainda mais o aquecimento"
+                                                              "d":  "aumenta a reflexão da radiação solar, o que compensaria parcialmente o aquecimento regional",
+                                                              "e":  "libera metano e CO2 antes retidos na matéria orgânica congelada, num ciclo que intensifica o aquecimento"
                                                           },
                                          "resposta":  "e",
-                                         "explicacao":  "O degelo do permafrost libera gases de efeito estufa antes retidos na matéria orgânica congelada; como mais aquecimento leva a mais degelo, que libera mais gases, esse processo é considerado um dos principais mecanismos de retroalimentação positiva do sistema climático.",
                                          "dificuldade":  "dificil",
-                                         "formato":  "direta"
+                                         "formato":  "direta",
+                                         "explicacao":  "O permafrost guarda carbono de milênios; ao descongelar, ele o devolve à atmosfera, o que aquece mais, o que descongela mais — retroalimentação positiva, um dos pontos de virada mais temidos do sistema climático. Em (b) está o distrator mais elaborado: a vegetação de fato avança sobre a tundra aquecida e absorve carbono, mas em volume muito inferior ao liberado pelo solo. Em (d), o degelo expõe solo escuro e reduz a reflexão, em vez de aumentá-la. Em (a) e (c), o efeito é global e de sentido oposto."
                                      },
                                      {
                                          "id":  "atualidades-meioambiente-41",
@@ -4576,15 +4576,15 @@ window.QUESTION_BANKS = {
                                          "enunciado":  "Pessoas deslocadas nessas condições são frequentemente chamadas, no debate público, de refugiados climáticos, embora esse termo:",
                                          "alternativas":  {
                                                               "a":  "já garanta, por si só, proteção internacional automática equivalente à de refugiado por perseguição política",
-                                                              "b":  "ainda não corresponda a uma categoria jurídica reconhecida pela Convenção de 1951, o que gera lacunas de proteção internacional",
-                                                              "c":  "seja aplicado exclusivamente a deslocamentos internos, nunca a deslocamentos entre países ou regiões fronteiriças",
-                                                              "d":  "seja juridicamente idêntico ao de apátrida em todos os tratados internacionais vigentes sobre proteção humanitária",
-                                                              "e":  "corresponda à categoria de apátrida prevista na Convenção de 1954"
+                                                              "b":  "ainda não corresponda a categoria jurídica reconhecida pela Convenção de 1951",
+                                                              "c":  "seja aplicado apenas a deslocamentos internos, e não a travessias de fronteira",
+                                                              "d":  "seja juridicamente idêntico ao de apátrida nos tratados internacionais vigentes",
+                                                              "e":  "corresponda à categoria de apátrida prevista na Convenção de 1954 da ONU"
                                                           },
                                          "resposta":  "b",
-                                         "explicacao":  "O termo \u0027refugiados climáticos\u0027 é usado no debate público e acadêmico, mas ainda não corresponde a uma categoria jurídica formalmente reconhecida pela Convenção de 1951, que exige perseguição por motivos específicos, o que gera lacunas de proteção internacional para essas pessoas.",
                                          "dificuldade":  "media",
-                                         "formato":  "direta"
+                                         "formato":  "direta",
+                                         "explicacao":  "A Convenção de 1951 define refugiado por perseguição — raça, religião, nacionalidade, grupo social, opinião política — e clima não está na lista, o que deixa essas pessoas sem o estatuto e sem a proteção que ele traria. Em (a) está a suposição que o uso corrente do termo produz: a expressão circula tanto na imprensa que parece já ter efeito jurídico, e é justamente a lacuna entre o nome e o direito que a questão cobra. Em (c), há deslocamento transfronteiriço. Em (d) e (e), apatridia é outra condição."
                                      },
                                      {
                                          "id":  "atualidades-meioambiente-44",
@@ -4703,16 +4703,16 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "O uso intensivo de agrotóxicos na agricultura, embora amplie a produtividade de curto prazo, tem sido associado à mortandade de polinizadores, como abelhas, e à contaminação de solos e cursos d\u0027água.",
                                          "enunciado":  "Esse conjunto de efeitos ilustra, sobretudo, uma tensão entre:",
                                          "alternativas":  {
-                                                              "a":  "produção agrícola e ausência total de qualquer forma de manejo integrado de pragas e doenças",
+                                                              "a":  "produção agrícola e ausência de manejo integrado de pragas nas lavouras de larga escala",
                                                               "b":  "produção de alimentos e produção de biocombustíveis, que disputam a mesma área cultivável",
-                                                              "c":  "produtividade agrícola de curto prazo e conservação da biodiversidade e dos recursos naturais no médio e longo prazo",
+                                                              "c":  "produtividade agrícola de curto prazo e conservação da biodiversidade no longo prazo",
                                                               "d":  "agricultura familiar e agricultura de subsistência, sem relação com uso de insumos químicos",
                                                               "e":  "exportação de commodities agrícolas e consumo interno de alimentos processados no mercado nacional"
                                                           },
                                          "resposta":  "c",
-                                         "explicacao":  "O uso intensivo de agrotóxicos ilustra a tensão entre ganhos de produtividade agrícola no curto prazo e a conservação da biodiversidade, dos polinizadores e da qualidade do solo e da água no médio e longo prazo, o que tem motivado o desenvolvimento de práticas de manejo integrado de pragas.",
                                          "dificuldade":  "media",
-                                         "formato":  "direta"
+                                         "formato":  "direta",
+                                         "explicacao":  "O agrotóxico entrega safra maior agora e cobra depois, em polinizador morto, solo empobrecido e água contaminada — a tensão é entre horizontes de tempo. Em (a) está a alternativa mais próxima e ainda assim deslocada: o manejo integrado é a resposta possível a esse dilema, e não o polo que se opõe à produção. Em (b), alimentos contra biocombustíveis é outra disputa, por área. Em (d) e (e), nem os tipos de agricultura nem o destino da produção explicam o efeito descrito."
                                      },
                                      {
                                          "id":  "atualidades-meioambiente-52",
@@ -4720,47 +4720,47 @@ window.QUESTION_BANKS = {
                                          "enunciado":  "Entre os efeitos associados à monocultura intensiva sem manejo adequado do solo está:",
                                          "alternativas":  {
                                                               "a":  "o aumento constante e permanente da fertilidade natural do solo, mesmo sem rotação de culturas",
-                                                              "b":  "a maior suscetibilidade a pragas específicas e a degradação progressiva da fertilidade e da estrutura do solo",
+                                                              "b":  "a maior suscetibilidade a pragas específicas e a degradação da fertilidade do solo",
                                                               "c":  "a eliminação total da necessidade de insumos agrícolas externos ao longo dos ciclos produtivos",
-                                                              "d":  "a ampliação da retenção de carbono no solo pela ausência de revolvimento",
+                                                              "d":  "a ampliação da retenção de carbono no solo pela ausência de revolvimento mecânico",
                                                               "e":  "o aumento automático da diversidade biológica do solo cultivado repetidamente sem rotação adequada"
                                                           },
                                          "resposta":  "b",
-                                         "explicacao":  "A monocultura intensiva, sem rotação de culturas ou manejo adequado, tende a aumentar a suscetibilidade a pragas específicas adaptadas àquela cultura e a degradar progressivamente a fertilidade e a estrutura do solo, exigindo uso crescente de insumos externos para manter a produtividade.",
                                          "dificuldade":  "media",
-                                         "formato":  "direta"
+                                         "formato":  "direta",
+                                         "explicacao":  "A mesma cultura todo ano oferece à praga adaptada um banquete garantido e retira do solo sempre os mesmos nutrientes: a lavoura fica mais vulnerável e o terreno, mais pobre, o que força o uso crescente de insumos. Em (d) está o distrator mais bem informado, porque plantio direto sem revolvimento realmente retém carbono — só que essa é uma técnica de manejo, e o enunciado descreve monocultura sem manejo adequado. Em (a), (c) e (e), fertilidade, dispensa de insumos e diversidade caminham no sentido contrário."
                                      },
                                      {
                                          "id":  "atualidades-meioambiente-53",
                                          "texto_apoio":  "Em regiões de expansão da fronteira agropecuária, é comum a sobreposição entre áreas reivindicadas por grandes produtores rurais, comunidades tradicionais, povos indígenas e, em alguns casos, terras públicas griladas.",
                                          "enunciado":  "Essa sobreposição de reivindicações territoriais em áreas de expansão agrícola evidencia que o desmatamento nessas regiões está frequentemente ligado a:",
                                          "alternativas":  {
-                                                              "a":  "disputas fundiárias e à fragilidade da regularização de terras públicas, não apenas a decisões técnicas agrícolas",
-                                                              "b":  "decisões exclusivamente climáticas, sem qualquer componente fundiário ou econômico envolvido",
+                                                              "a":  "disputas fundiárias e à fragilidade da regularização de terras públicas",
+                                                              "b":  "decisões estritamente climáticas, sem componente fundiário ou econômico envolvido",
                                                               "c":  "ausência total de interesse econômico na terra, incompatível com dados de valorização fundiária",
                                                               "d":  "políticas de reforma agrária plenamente consolidadas e sem conflitos fundiários remanescentes",
-                                                              "e":  "ao avanço da fronteira urbana sobre áreas de proteção permanente"
+                                                              "e":  "ao avanço da fronteira urbana sobre áreas de preservação permanente da região"
                                                           },
                                          "resposta":  "a",
-                                         "explicacao":  "A expansão da fronteira agropecuária em áreas de floresta frequentemente envolve disputas fundiárias, grilagem de terras públicas e fragilidade na regularização, o que torna o ordenamento territorial e a governança fundiária elementos centrais para o combate ao desmatamento, além das políticas ambientais propriamente ditas.",
                                          "dificuldade":  "dificil",
-                                         "formato":  "direta"
+                                         "formato":  "direta",
+                                         "explicacao":  "Derrubar floresta é, em boa parte desses casos, o modo de demonstrar posse sobre terra pública sem título definido — o desmatamento é instrumento de uma disputa fundiária, e não decorrência de cálculo agronômico. Em (e) está o distrator mais plausível, porque a expansão urbana sobre área protegida é problema real: só que ocorre no entorno das cidades, e não na fronteira agropecuária de que trata o enunciado. Em (c) e (d), há forte interesse econômico e conflitos abertos. Em (b), o clima não decide a ocupação."
                                      },
                                      {
                                          "id":  "atualidades-meioambiente-54",
                                          "texto_apoio":  "Barragens utilizadas para conter rejeitos da atividade de mineração já se romperam em diferentes ocasiões, liberando grandes volumes de lama tóxica sobre rios, comunidades e áreas de preservação ambiental.",
                                          "enunciado":  "Esses desastres evidenciam, sobretudo, a importância de:",
                                          "alternativas":  {
-                                                              "a":  "dispensar qualquer estudo geotécnico prévio à construção de barragens de rejeito, mesmo em áreas de risco conhecido",
-                                                              "b":  "substituir o monitoramento contínuo por vistorias anuais realizadas pelo empreendedor",
-                                                              "c":  "transferir toda a responsabilidade pela segurança das barragens exclusivamente às comunidades atingidas pelo eventual rompimento",
-                                                              "d":  "fiscalização técnica rigorosa, auditorias independentes e responsabilização das empresas mineradoras pela segurança de suas estruturas de contenção",
-                                                              "e":  "eliminar totalmente a atividade minerária em qualquer território nacional, independentemente do método de contenção"
+                                                              "a":  "dispensar o estudo geotécnico prévio à construção de barragens de rejeito",
+                                                              "b":  "substituir o monitoramento contínuo por vistorias anuais realizadas pelo próprio empreendedor",
+                                                              "c":  "transferir a responsabilidade pela segurança das barragens às comunidades atingidas",
+                                                              "d":  "fiscalização técnica rigorosa, auditorias independentes e responsabilização das mineradoras",
+                                                              "e":  "eliminar a atividade minerária no território nacional, seja qual for o método de contenção"
                                                           },
                                          "resposta":  "d",
-                                         "explicacao":  "Rompimentos de barragens de rejeitos de mineração evidenciam falhas de fiscalização e de segurança estrutural, reforçando a necessidade de auditorias técnicas independentes, monitoramento contínuo e responsabilização civil e penal das empresas mineradoras por danos ambientais e humanos causados.",
                                          "dificuldade":  "media",
-                                         "formato":  "direta"
+                                         "formato":  "direta",
+                                         "explicacao":  "Os rompimentos expuseram laudos de estabilidade emitidos por empresas contratadas pela própria mineradora, e daí a ênfase em auditoria independente somada a fiscalização e responsabilização. Em (b) está exatamente o arranjo que falhou: autocontrole com vistoria esparsa é o modelo que os desastres desmentiram, e trocá-lo por monitoramento externo e contínuo é a lição. Em (e), o encerramento da mineração não é a conclusão que se extrai. Em (a) e (c), dispensar estudo e transferir a culpa às vítimas invertem a responsabilidade."
                                      },
                                      {
                                          "id":  "atualidades-meioambiente-55",
@@ -4783,32 +4783,32 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "Décadas atrás, um acordo internacional distinto dos acordos climáticos atuais foi firmado para eliminar progressivamente substâncias que destroem a camada de ozônio estratosférico, como certos gases usados em refrigeração e aerossóis.",
                                          "enunciado":  "A diferença central entre o problema da destruição da camada de ozônio e o do efeito estufa intensificado é que:",
                                          "alternativas":  {
-                                                              "a":  "ambos são causados exatamente pelos mesmos gases, tese contrariada pela distinção entre CFCs e o CO2 como principal gás de efeito estufa",
-                                                              "b":  "a destruição da camada de ozônio decorre exclusivamente da emissão de dióxido de carbono",
-                                                              "c":  "o efeito estufa é um fenômeno exclusivamente estratosférico, descrição que ignora que ele ocorre principalmente na troposfera",
-                                                              "d":  "o problema do ozônio nunca teve qualquer acordo internacional de enfrentamento, afirmação incorreta diante do Protocolo de Montreal de 1987",
-                                                              "e":  "a camada de ozônio protege a superfície da radiação ultravioleta, enquanto o efeito estufa está ligado à retenção de calor pela atmosfera"
+                                                              "a":  "ambos são causados exatamente pelos mesmos gases, sem distinção entre os CFCs e o dióxido de carbono atmosférico",
+                                                              "b":  "a destruição da camada de ozônio decorre apenas da emissão de dióxido de carbono",
+                                                              "c":  "o efeito estufa é um fenômeno estratosférico, e não troposférico como o buraco de ozônio",
+                                                              "d":  "o problema do ozônio não chegou a ter acordo internacional de enfrentamento",
+                                                              "e":  "a camada de ozônio protege da radiação ultravioleta, e o efeito estufa liga-se à retenção de calor"
                                                           },
                                          "resposta":  "e",
-                                         "explicacao":  "A destruição da camada de ozônio estratosférico, que protege a superfície da radiação ultravioleta, e a intensificação do efeito estufa, associada à retenção de calor pela atmosfera, são problemas ambientais distintos, embora alguns gases, como certos CFCs, contribuam para os dois fenômenos simultaneamente, o que costuma gerar confusão conceitual.",
                                          "dificuldade":  "dificil",
-                                         "formato":  "direta"
+                                         "formato":  "direta",
+                                         "explicacao":  "São dois problemas com física distinta: um é filtro de radiação ultravioleta que se rompe, o outro é calor que deixa de escapar. Em (a) está a confusão que sustenta o senso comum de que o buraco de ozônio aquece o planeta — alguns CFCs de fato contribuem para os dois fenômenos, mas o principal gás de efeito estufa é o CO2, que não destrói o ozônio. Em (c), o efeito estufa é troposférico. Em (b), o CO2 não é o agente da destruição do ozônio. Em (d), o Protocolo de Montreal é de 1987."
                                      },
                                      {
                                          "id":  "atualidades-meioambiente-57",
                                          "texto_apoio":  "Diferentemente de fontes como solar e eólica, a energia nuclear não depende da incidência de luz solar ou da intensidade do vento para gerar eletricidade de forma constante, mas gera rejeitos radioativos de longa duração e enfrenta resistência de parte da opinião pública.",
                                          "enunciado":  "No debate sobre transição energética, a energia nuclear costuma ser discutida como fonte que:",
                                          "alternativas":  {
-                                                              "a":  "é isenta de qualquer controvérsia ambiental ou de segurança, contrariada pelo histórico de acidentes como Chernobyl e Fukushima",
+                                                              "a":  "é isenta de controvérsia ambiental e de segurança no debate energético atual",
                                                               "b":  "depende de reservas de urânio concentradas em poucos países, o que a torna geopoliticamente sensível",
-                                                              "c":  "não emite gases de efeito estufa e oferece fornecimento constante, mas levanta questões de segurança e rejeitos radioativos",
+                                                              "c":  "não emite gases de efeito estufa e é constante, mas levanta questões de segurança e rejeitos",
                                                               "d":  "emite grande volume de gases de efeito estufa durante a geração de eletricidade, tal como os combustíveis fósseis",
                                                               "e":  "depende da intermitência climática do mesmo modo que a energia solar e eólica, exigindo os mesmos sistemas de backup"
                                                           },
                                          "resposta":  "c",
-                                         "explicacao":  "A energia nuclear não emite gases de efeito estufa significativos durante a geração de eletricidade e oferece fornecimento constante, independente de condições climáticas, mas seu uso é debatido devido a questões de segurança, custo de implantação e à necessidade de destinação adequada dos rejeitos radioativos de longa duração.",
                                          "dificuldade":  "dificil",
-                                         "formato":  "direta"
+                                         "formato":  "direta",
+                                         "explicacao":  "É o balanço que o debate faz: baixa emissão e geração firme de um lado, risco de acidente e rejeito de meia-vida longa do outro. Em (b) está a afirmação mais defensável entre as erradas — a concentração das reservas de urânio é real e pesa na geopolítica energética, mas não é o eixo pelo qual a fonte é discutida na transição, que é o par emissão e risco. Em (e), a geração nuclear é firme, não intermitente. Em (a) e (d), Chernobyl e Fukushima desmentem a isenção, e a geração não emite carbono."
                                      },
                                      {
                                          "id":  "atualidades-meioambiente-58",
@@ -4927,16 +4927,16 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "Estudos comparativos indicam que áreas sob gestão de povos indígenas e comunidades tradicionais frequentemente apresentam taxas de desmatamento menores do que áreas de mesma vocação florestal fora dessas terras.",
                                          "enunciado":  "Esse dado é frequentemente utilizado para sustentar o argumento de que:",
                                          "alternativas":  {
-                                                              "a":  "a presença humana em qualquer território necessariamente aumenta o desmatamento, independentemente da forma de gestão",
-                                                              "b":  "a demarcação e proteção de terras indígenas e tradicionais pode funcionar como estratégia eficaz de conservação florestal",
+                                                              "a":  "a presença humana em um território aumenta o desmatamento, seja qual for a forma de gestão",
+                                                              "b":  "a demarcação de terras indígenas e tradicionais pode funcionar como estratégia de conservação",
                                                               "c":  "a criação de unidades de conservação de proteção integral é mais eficaz que a demarcação de terras indígenas",
-                                                              "d":  "não existe qualquer relação entre posse fundiária e conservação ambiental, sendo fatores completamente independentes",
-                                                              "e":  "áreas sob gestão indígena são sempre menos produtivas economicamente, sem qualquer benefício ambiental"
+                                                              "d":  "não existe relação entre posse fundiária e conservação ambiental, sendo fatores independentes",
+                                                              "e":  "áreas sob gestão indígena são menos produtivas economicamente, sem benefício ambiental"
                                                           },
                                          "resposta":  "b",
-                                         "explicacao":  "Dados comparativos que mostram menores taxas de desmatamento em terras indígenas e de comunidades tradicionais são usados para sustentar políticas de demarcação e proteção fundiária como estratégia de conservação, associando a permanência dessas populações em seus territórios à manutenção da cobertura florestal.",
                                          "dificuldade":  "media",
-                                         "formato":  "direta"
+                                         "formato":  "direta",
+                                         "explicacao":  "O dado liga permanência dessas populações no território a floresta em pé, e é essa associação que sustenta a demarcação como política de conservação, e não apenas como reparação histórica. Em (c) está a leitura mais tentadora para quem já conhece o tema: unidades de proteção integral também conservam, mas o estudo compara terras indígenas com áreas fora delas, e não os dois instrumentos entre si. Em (a) e (d), o dado mostra exatamente o contrário. Em (e), a produtividade econômica não está em questão."
                                      },
                                      {
                                          "id":  "atualidades-meioambiente-66",
@@ -26729,9 +26729,9 @@ window.QUESTION_BANKS = {
                            "formato":  "direta",
                            "enunciado":  "A comparação recorrente entre personagens e animais, no romance, cumpre principalmente a função de",
                            "alternativas":  {
-                                                "a":  "suavizar pelo humor a violência das cenas descritas.",
+                                                "a":  "suavizar pelo humor a violência das cenas descritas no cortiço.",
                                                 "b":  "individualizar cada personagem por um traço físico exclusivo.",
-                                                "c":  "sustentar a tese naturalista de que o comportamento humano tem causas físicas.",
+                                                "c":  "sustentar a tese naturalista de que o comportamento tem causas físicas.",
                                                 "d":  "indicar que o narrador adota o ponto de vista das próprias personagens.",
                                                 "e":  "marcar a passagem do discurso do narrador para o discurso das personagens."
                                             },
@@ -26762,8 +26762,8 @@ window.QUESTION_BANKS = {
                            "enunciado":  "Descrever a estalagem como um organismo vivo produz, na economia do romance, o efeito de",
                            "alternativas":  {
                                                 "a":  "reduzir as personagens individuais a um detalhe pitoresco do cenário.",
-                                                "b":  "sugerir que o conjunto foi projetado de antemão por um único arquiteto.",
-                                                "c":  "deslocar a narrativa para o terreno do fantástico.",
+                                                "b":  "sugerir que o conjunto foi projetado de antemão por um único arquiteto, segundo um plano.",
+                                                "c":  "deslocar a narrativa para o terreno do fantástico e do sobrenatural.",
                                                 "d":  "indicar que o espaço permanece imutável ao longo da narrativa.",
                                                 "e":  "converter o espaço em força que age sobre quem vive nele, e não em mero cenário."
                                             },
@@ -26777,11 +26777,11 @@ window.QUESTION_BANKS = {
                            "formato":  "direta",
                            "enunciado":  "A transformação de Jerônimo ao longo do romance é apresentada como",
                            "alternativas":  {
-                                                "a":  "escolha moral consciente, tomada contra a opinião de quem o cerca.",
-                                                "b":  "efeito do meio sobre o indivíduo, em que clima, música e convívio alteram hábitos e desejos.",
-                                                "c":  "resultado de uma doença diagnosticada no decorrer da trama.",
+                                                "a":  "escolha moral consciente, tomada contra a opinião de quem convive com ele.",
+                                                "b":  "efeito do meio, que altera hábitos, gostos e desejos do imigrante.",
+                                                "c":  "resultado de uma doença diagnosticada no decorrer da trama do romance.",
                                                 "d":  "consequência da ascensão econômica que ele obtém dentro da estalagem.",
-                                                "e":  "recuo deliberado a um modo de vida anterior à emigração."
+                                                "e":  "recuo deliberado a um modo de vida anterior à emigração de Portugal."
                                             },
                            "resposta":  "b",
                            "explicacao":  "O terceiro parágrafo descreve a mudança de ritmo, de comida, de música e de mulher e a apresenta como efeito do meio sobre o indivíduo — a mesma lógica determinista que o parágrafo seguinte generaliza para todo o romance. Escolha consciente e recuo deliberado supõem a decisão que o texto nega às personagens; nenhuma doença é diagnosticada; e Jerônimo é caracterizado como trabalhador metódico, sem ascensão econômica que explique a mudança."
@@ -26809,11 +26809,11 @@ window.QUESTION_BANKS = {
                            "formato":  "excecao",
                            "enunciado":  "O texto sustenta todas as afirmações a seguir sobre O Cortiço, EXCETO:",
                            "alternativas":  {
-                                                "a":  "A estalagem é descrita com traços de organismo vivo.",
+                                                "a":  "A estalagem é descrita com traços de um organismo vivo que cresce.",
                                                 "b":  "A trajetória de João Romão depende do trabalho de Bertoleza.",
                                                 "c":  "O casamento com Zulmira integra o projeto de ascensão social do protagonista.",
                                                 "d":  "A comparação de gente com bicho é procedimento estilístico frequente no livro.",
-                                                "e":  "As personagens agem por deliberação individual, à margem das condições que as cercam."
+                                                "e":  "As personagens agem por deliberação individual, à margem do que as cerca."
                                             },
                            "resposta":  "e",
                            "explicacao":  "O texto afirma o contrário no fecho: as personagens não decidem, são determinadas pelo meio, pela raça e pelo momento. As demais estão sustentadas — a estalagem cresce, fervilha e desperta; o dinheiro e a força de trabalho de Bertoleza sustentam a construção das casinhas; o casamento com a filha do vizinho Miranda é a exigência social que motiva a entrega dela; e a comparação de gente com bicho é apresentada como o procedimento estilístico mais frequente do livro."
@@ -26825,11 +26825,11 @@ window.QUESTION_BANKS = {
                            "formato":  "direta",
                            "enunciado":  "A ausência de julgamento moral por parte do narrador distingue o romance porque",
                            "alternativas":  {
-                                                "a":  "impede o leitor de identificar quem pratica cada ação narrada.",
+                                                "a":  "impede o leitor de identificar quem pratica cada uma das ações narradas.",
                                                 "b":  "transfere o julgamento a uma personagem que funciona como porta-voz do autor.",
-                                                "c":  "suprime o castigo exemplar que o romance romântico contemporâneo costumava reservar à transgressão.",
+                                                "c":  "suprime o castigo exemplar que o romance romântico reservava à transgressão.",
                                                 "d":  "elimina do enredo as transgressões, que passam a ser apenas mencionadas.",
-                                                "e":  "submete todas as ações ao critério da autoridade encarnada no major Vidigal."
+                                                "e":  "submete as ações ao critério da autoridade encarnada no major Vidigal."
                                             },
                            "resposta":  "c",
                            "explicacao":  "O último parágrafo diz que não há castigo exemplar nem lição final e que é essa ausência de moral explícita, mais que o enredo, o que separa o livro dos romances românticos contemporâneos. A identificação de quem age não é afetada, já que o narrador continua contando os fatos; nenhuma personagem assume a função de porta-voz moral; furto e briga permanecem na cena, e não apenas mencionados; e a autoridade de Vidigal é um dos polos do mundo narrado, não o critério de julgamento do narrador."
@@ -26842,10 +26842,10 @@ window.QUESTION_BANKS = {
                            "enunciado":  "A expressão dialética da ordem e da desordem, usada pela crítica a respeito do livro, descreve",
                            "alternativas":  {
                                                 "a":  "a alternância entre capítulos narrados por personagens diferentes.",
-                                                "b":  "o contraste entre o Rio de Janeiro e as províncias.",
+                                                "b":  "o contraste entre o Rio de Janeiro da corte e as províncias do interior.",
                                                 "c":  "a oposição entre o folhetim e o livro como formas de publicação.",
-                                                "d":  "a disputa entre narrador e protagonista pelo controle da história.",
-                                                "e":  "o trânsito contínuo das personagens entre o que a norma permite e o que ela proíbe."
+                                                "d":  "a disputa entre narrador e protagonista pelo controle da história contada.",
+                                                "e":  "o trânsito das personagens entre o que a norma permite e o que ela proíbe."
                                             },
                            "resposta":  "e",
                            "explicacao":  "O terceiro parágrafo apresenta as duas ordens que se tocam o tempo todo — a autoridade de um lado, o improviso e a rede de favores de outro — e nomeia esse trânsito contínuo com a expressão em questão. A narração é única e em terceira pessoa, o que afasta tanto a alternância de narradores quanto a disputa pelo controle; a oposição capital e províncias não é tematizada; e folhetim e livro são etapas de publicação registradas no primeiro parágrafo, sem relação com o conceito."
@@ -26890,10 +26890,10 @@ window.QUESTION_BANKS = {
                            "enunciado":  "A escolha de um narrador que escreve depois de morto produz como efeito principal",
                            "alternativas":  {
                                                 "a":  "a garantia de que tudo o que ele relata corresponde aos fatos.",
-                                                "b":  "a supressão do humor, incompatível com o tema da morte.",
+                                                "b":  "a supressão do humor, tido como incompatível com o tema da morte.",
                                                 "c":  "a limitação do relato ao período final da vida do protagonista.",
-                                                "d":  "a transferência da narração a um herdeiro do protagonista.",
-                                                "e":  "a liberdade de julgar a própria vida sem nada a preservar diante dos vivos."
+                                                "d":  "a transferência da narração a um herdeiro direto do protagonista.",
+                                                "e":  "a liberdade de julgar a própria vida sem nada a preservar."
                                             },
                            "resposta":  "e",
                            "explicacao":  "O texto insiste na distinção que o próprio narrador faz — defunto autor, e não autor defunto — para marcar que ele escreve já do outro lado, e é dessa posição que vêm o humor sem solenidade e o balanço final feito por negativas. A morte não confere veracidade alguma, e o narrador continua sendo parte interessada; o humor é justamente o que a posição libera, não o que ela suprime; a narrativa cobre a vida inteira, e não só o fim; e não há herdeiro assumindo a narração."
@@ -26923,9 +26923,9 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "imposição do espaço disponível no jornal em que o livro teria saído.",
                                                 "b":  "marca do Naturalismo, que fragmenta a narrativa em observações isoladas.",
-                                                "c":  "consequência da pouca experiência do autor no gênero romance.",
-                                                "d":  "procedimento deliberado, filiado a uma tradição que o próprio texto assume.",
-                                                "e":  "efeito de revisão feita por terceiros após a morte do autor."
+                                                "c":  "consequência da pouca experiência do autor no gênero do romance.",
+                                                "d":  "procedimento deliberado, filiado a uma tradição que o texto assume.",
+                                                "e":  "efeito de revisão feita por terceiros após a morte do autor do livro."
                                             },
                            "resposta":  "d",
                            "explicacao":  "O terceiro parágrafo diz que o avanço e o recuo da narrativa remetem à tradição do romance digressivo inglês do século XVIII e que Machado assume essa filiação abertamente dentro do próprio livro — logo, é escolha e não acidente. A limitação de espaço em jornal não explica capítulos de poucas linhas ao lado de digressões longas; o Naturalismo trabalha com encadeamento causal, e não com interrupção; a inexperiência é insustentável num autor com décadas de obra publicada; e nenhuma revisão póstuma é mencionada."
@@ -26938,10 +26938,10 @@ window.QUESTION_BANKS = {
                            "enunciado":  "O balanço final do narrador, formulado por negativas, confere ao romance um sentido",
                            "alternativas":  {
                                                 "a":  "consolador, ao apresentar a descendência como forma de sobrevivência.",
-                                                "b":  "épico, ao converter a vida do protagonista em feito exemplar.",
-                                                "c":  "irônico, ao transformar em saldo positivo aquilo que se contaria como fracasso.",
+                                                "b":  "épico, ao converter a vida do protagonista em feito digno de exemplo.",
+                                                "c":  "irônico, ao transformar em saldo positivo o que se contaria como fracasso.",
                                                 "d":  "documental, ao registrar com exatidão os fatos de uma existência.",
-                                                "e":  "trágico, ao atribuir a um destino superior o fracasso do protagonista."
+                                                "e":  "trágico, ao atribuir a um destino superior e inescapável o fracasso do protagonista."
                                             },
                            "resposta":  "c",
                            "explicacao":  "O último parágrafo é construído sobre essa inversão: não ter alcançado glória, não ter deixado obra e não ter transmitido a ninguém o legado da própria miséria seriam perdas num romance romântico, e aparecem aqui como pequeno triunfo de contabilidade. O sentido consolador exigiria valorizar a descendência, que é exatamente o que o narrador comemora não ter; o feito exemplar e o destino superior são recusados pela ausência de qualquer grandeza no balanço; e a exatidão documental não se sustenta num relato que se interrompe para digressões."
@@ -26953,10 +26953,10 @@ window.QUESTION_BANKS = {
                            "formato":  "direta",
                            "enunciado":  "A crítica designa o narrador de Dom Casmurro como não confiável porque",
                            "alternativas":  {
-                                                "a":  "ele confessa, ao final, ter inventado os episódios que narrou.",
-                                                "b":  "o leitor não dispõe de nenhum meio de verificar a acusação que ele sustenta.",
-                                                "c":  "ele demonstra não se lembrar dos fatos que relata.",
-                                                "d":  "o romance apresenta duas versões contraditórias da mesma cena.",
+                                                "a":  "ele confessa, ao final do livro, ter inventado os episódios que narrou.",
+                                                "b":  "o leitor não dispõe de meio algum para verificar a acusação que ele faz.",
+                                                "c":  "ele demonstra não se lembrar com clareza dos fatos que relata.",
+                                                "d":  "o romance apresenta duas versões contraditórias de uma mesma cena decisiva.",
                                                 "e":  "sua narração é interrompida e concluída por outra personagem."
                                             },
                            "resposta":  "b",
@@ -26986,10 +26986,10 @@ window.QUESTION_BANKS = {
                            "enunciado":  "O projeto que Bento Santiago declara na abertura do romance é",
                            "alternativas":  {
                                                 "a":  "registrar a história do bairro em que passou a infância.",
-                                                "b":  "responder publicamente a uma acusação que lhe foi feita.",
-                                                "c":  "atar as duas pontas da vida, restituindo na velhice a adolescência.",
-                                                "d":  "escrever um tratado sobre a formação dos seminaristas.",
-                                                "e":  "transmitir ao filho a memória da família."
+                                                "b":  "responder publicamente a uma acusação que lhe foi feita na juventude.",
+                                                "c":  "atar as duas pontas da vida e restituir na velhice a adolescência.",
+                                                "d":  "escrever um tratado sobre a formação dos seminaristas do Império.",
+                                                "e":  "transmitir ao filho a memória da família e da casa de Matacavalos."
                                             },
                            "resposta":  "c",
                            "explicacao":  "É o que o primeiro parágrafo registra, e a casa do Engenho Novo que reproduz a de Matacavalos é a tentativa material de executar esse projeto. O registro do bairro e o tratado sobre seminaristas não são anunciados; o narrador acusa, e não se defende de acusação alheia; e Ezequiel é objeto da suspeita do narrador, não destinatário de uma memória de família."
@@ -27001,10 +27001,10 @@ window.QUESTION_BANKS = {
                            "formato":  "direta",
                            "enunciado":  "A promessa feita por Dona Glória cumpre, na trama, a função de",
                            "alternativas":  {
-                                                "a":  "revelar ao leitor a origem da fortuna da família.",
-                                                "b":  "explicar o motivo da mudança para o Engenho Novo.",
-                                                "c":  "provocar a ruptura entre Bentinho e Escobar.",
-                                                "d":  "justificar a ausência do narrador durante a juventude de Capitu.",
+                                                "a":  "revelar ao leitor a origem da fortuna acumulada pela família.",
+                                                "b":  "explicar o motivo da mudança da família para o Engenho Novo.",
+                                                "c":  "provocar a ruptura definitiva entre Bentinho e Escobar.",
+                                                "d":  "justificar a ausência do narrador ao longo dos anos de juventude de Capitu.",
                                                 "e":  "criar o obstáculo que separa Bentinho de Capitu e põe o enredo em marcha."
                                             },
                            "resposta":  "e",

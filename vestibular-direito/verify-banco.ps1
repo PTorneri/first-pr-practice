@@ -693,9 +693,13 @@ if (-not $Frente) {
       foreach ($k in $chavesO) { $todasO += @($banco.$k) }
       $chO = Measure-Chutabilidade $todasO
       $chuteNovo["obras"] = @{ indice = $chO.indice; longaPct = $chO.longaPct; absCertaPct = $chO.absCertaPct; n = $chO.n }
+      # Mesmas colunas das frentes, e na mesma ordem: esta linha trazia um
+      # 'AbsCerta' cru que as outras não têm e omitia RefDistr/RefCerta%, o que
+      # deslocava os valores das obras uma coluna à esquerda no Format-Table.
       $chuteResumo += [pscustomobject]@{
         Banco = "obras"; Medidas = $chO.n; "Chute%" = $chO.indice; "MaisLonga%" = $chO.longaPct
-        AbsDistr = $chO.absDistr; AbsCerta = $chO.absCerta; "AbsCerta%" = $chO.absCertaPct
+        AbsDistr = $chO.absDistr; "AbsCerta%" = $chO.absCertaPct
+        RefDistr = $chO.refDistr; "RefCerta%" = $chO.refCertaPct
       }
       $chuteN += $chO.n
       $chuteAcertos += [math]::Round($chO.indice * $chO.n / 100.0)

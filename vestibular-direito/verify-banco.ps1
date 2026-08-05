@@ -636,9 +636,11 @@ if (-not $Frente) {
           $pos++
           $totalO++
 
-          # $false e não [bool]$Estrito: as 225 questões antigas ainda estão em 4
-          # alternativas, e reprovar por elas afogaria a regressão de verdade.
-          $r = Test-Questao $q $false
+          # Rodava com $false enquanto a migração 4->5 estava em curso: as questões
+          # antigas em quatro alternativas reprovariam em bloco e afogariam qualquer
+          # regressão de verdade. As 280 estão em cinco desde o lote 14, então o
+          # rigor volta a valer e uma questão que regredir para quatro é pega aqui.
+          $r = Test-Questao $q ([bool]$Estrito)
           foreach ($e in $r.erros) { $falhas += "obras/$k : $e" }
           foreach ($e in $r.escada) { $avisos += "obras/$k : $e" }
 
@@ -665,6 +667,18 @@ if (-not $Frente) {
         $n = 0
         if ($chavesO -contains $o) { $n = @($banco.$o).Count }
         if ($n -ne 5) { $falhas += "obras : '$o' tem $n questões de fixação, esperava 5" }
+      }
+
+      # Mesma janela das frentes, e pela mesma razão: o gabarito das obras chegou a
+      # ter e=11 em 280 (3,9%) porque só 55 questões tinham cinco alternativas. A
+      # trava não existia aqui — $distO era calculado, impresso e nunca conferido.
+      if ($cincoO -eq $totalO -and $totalO -gt 0) {
+        foreach ($l in $LETRAS) {
+          $pct = 100.0 * $distO[$l] / $totalO
+          if ($pct -lt 12 -or $pct -gt 28) {
+            $avisos += "obras : gabarito '$l' em $([math]::Round($pct,1))% (alvo ~20%)"
+          }
+        }
       }
 
       $resumo += [pscustomobject]@{

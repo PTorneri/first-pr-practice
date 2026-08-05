@@ -1,0 +1,242 @@
+{
+  "questoes": [
+    {
+      "id": "obra-mundo-e-um-moinho-q3",
+      "enunciado": "Antes de se consolidar como intérprete solo já em idade avançada, Cartola teve papel fundamental na história do samba carioca ao:",
+      "alternativas": {
+        "a": "Criar o gênero bossa nova ao lado de João Gilberto, nos anos 1950, movimento que renovou a harmonia do samba urbano.",
+        "b": "Cofundar a Estação Primeira de Mangueira, ainda nas primeiras décadas do século XX.",
+        "c": "Fundar o Teatro Municipal do Rio de Janeiro, palco de suas primeiras apresentações.",
+        "d": "Compor a primeira trilha sonora de um filme brasileiro sonoro, nos anos 1930, início do cinema falado no país.",
+        "e": "Dirigir a primeira gravadora de discos de samba do país, criada por compositores dos morros cariocas."
+      },
+      "resposta": "b",
+      "explicacao": "Cartola está entre os fundadores da Estação Primeira de Mangueira, em 1928, e foi ali que sua obra circulou por décadas antes de chegar a um disco solo. Em (e) está o distrator mais verossímil, porque a distância entre os compositores do morro e a indústria fonográfica é justamente o problema da biografia dele — nenhuma gravadora assim existiu, e é essa ausência que explica a gravação tardia. Em (a), a bossa nova é outra geração. Em (c) e (d), o Teatro Municipal é do século XIX e não há trilha de cinema."
+    },
+    {
+      "id": "obra-mundo-e-um-moinho-q4",
+      "enunciado": "\"O Mundo é um Moinho\", de Cartola, costuma ser comparada, no tema da desilusão e da efemeridade dos sentimentos, a qual outra canção da música popular brasileira?",
+      "alternativas": {
+        "a": "\"Que País é Esse?\", da Legião Urbana, ícone do rock brasiliense dos anos 1980.",
+        "b": "\"Malandragem\", de Cazuza e Cássia Eller, canção também lançada na década de 1980.",
+        "c": "\"Domingo no Parque\", de Gilberto Gil, marco da Tropicália lançado em 1967.",
+        "d": "\"Com que Roupa\", de Noel Rosa, clássico do samba carioca dos anos 1930.",
+        "e": "\"Carinhoso\", de Pixinguinha e João de Barro, um dos maiores clássicos da canção brasileira."
+      },
+      "resposta": "b",
+      "explicacao": "As duas falam do mesmo desencanto amoroso e do mesmo aviso a quem ainda acredita, cada uma no idioma de sua geração — daí a comparação corrente entre elas. Em (e) está a aproximação mais natural pelo repertório, já que \"Carinhoso\" também é um clássico afetivo do mesmo universo musical; o tema ali, porém, é a timidez diante do amor, e não a desilusão com ele. Em (a) e (d), o assunto é político e social. Em (c), \"Domingo no Parque\" é narrativa trágica, não reflexão sobre o tempo."
+    },
+    {
+      "id": "obra-mundo-e-um-moinho-q5",
+      "enunciado": "A escolha da imagem de um moinho como metáfora central da canção de Cartola sugere, sobretudo, que:",
+      "alternativas": {
+        "a": "O eu lírico está descrevendo literalmente um moinho de trigo utilizado em sua infância no interior do Brasil.",
+        "b": "O tempo e a realidade agem sobre os sentimentos e as ilusões humanas de modo contínuo e implacável, desgastando-os progressivamente.",
+        "c": "O moinho representa exclusivamente a cidade do Rio de Janeiro, sem qualquer relação com o tema amoroso da canção.",
+        "d": "A canção pretende celebrar o progresso da industrialização agrícola brasileira do início do século XX, tema alheio à obra de Cartola.",
+        "e": "O moinho alude ao bairro de origem do compositor, referência que reaparece em outras canções de sua autoria."
+      },
+      "resposta": "b",
+      "explicacao": "Moinho é o que mói devagar e não para: a metáfora descreve um desgaste, e o samba é o aviso de alguém que já passou por ele a quem ainda vai passar. Em (e) está a leitura biográfica que a obra de Cartola convida a fazer, porque a Mangueira aparece de fato em muitos de seus sambas — não neste, em que a imagem é abstrata. Em (a), o moinho não é literal. Em (c), o tema é amoroso. Em (d), não há celebração do progresso agrícola."
+    },
+    {
+      "id": "obra-rehab-q1",
+      "texto_apoio": "Considere o processo de produção do álbum 'Back to Black' (2006), de Amy Winehouse, que contém a faixa 'Rehab'.",
+      "enunciado": "A sonoridade de 'Rehab' é frequentemente descrita como um resgate deliberado de um estilo musical anterior. Esse estilo é:",
+      "alternativas": {
+        "a": "O disco music produzido em estúdios europeus no final dos anos 1970, associado a artistas como Donna Summer e à discotecagem europeia.",
+        "b": "O rock progressivo britânico característico do início dos anos 1970, com bandas como Yes e Genesis explorando arranjos instrumentais extensos.",
+        "c": "O funk psicodélico californiano do início dos anos 1970, ligado a grupos como Sly and the Family Stone e George Clinton.",
+        "d": "O soul e o R&B clássicos das gravadoras norte-americanas dos anos 1960, como Motown e Stax.",
+        "e": "O jazz vocal das big bands americanas dos anos 1940, na tradição de Ella Fitzgerald e Billie Holiday."
+      },
+      "resposta": "d",
+      "explicacao": "Mark Ronson gravou o disco com os Dap-Kings e arranjos de metais que imitam deliberadamente o som Motown e Stax dos anos 1960 — o anacronismo é o projeto do álbum. Em (e) está o distrator mais bem informado: Winehouse vinha do jazz vocal e seu primeiro disco, Frank, é devedor dessa tradição; em Back to Black ela troca de referência, e é essa troca que define Rehab. Em (a), (b) e (c), disco, rock progressivo e funk psicodélico são todos dos anos 1970."
+    },
+    {
+      "id": "obra-rehab-q2",
+      "enunciado": "No eixo temático da globalização e da indústria cultural, a canção 'Rehab' é frequentemente associada a qual crítica?",
+      "alternativas": {
+        "a": "A censura estatal a canções que tratam abertamente do consumo de álcool e drogas.",
+        "b": "A transformação de crises pessoais de artistas em produto vendável pela indústria fonográfica globalizada.",
+        "c": "A apropriação de ritmos africanos por artistas pop ocidentais sem crédito aos autores originais.",
+        "d": "A padronização musical imposta por multinacionais do streaming a partir dos anos 2010.",
+        "e": "A concentração do mercado fonográfico mundial em apenas três grandes gravadoras multinacionais desde os anos 1990."
+      },
+      "resposta": "b",
+      "explicacao": "A canção conta a recusa de um tratamento e virou hit mundial: o sofrimento que ela relata é o mesmo que o mercado embalou e vendeu, e a ironia dessa circulação é o que a associa à crítica da indústria cultural. Em (e) está a crítica estrutural mais legítima e ainda assim deslocada, porque descreve a concentração do setor, e não o que Rehab expõe. Em (d), o streaming é posterior. Em (a) e (c), não houve censura nem apropriação de ritmos africanos."
+    },
+    {
+      "id": "obra-rehab-q3",
+      "enunciado": "Sobre a trajetória de Amy Winehouse e a recepção de 'Rehab', é correto afirmar que:",
+      "alternativas": {
+        "a": "A canção foi indicada, mas não venceu nenhum Grammy, e a cantora morreu em 2015, aos 30 anos.",
+        "b": "A canção venceu o Grammy de Gravação do Ano em 2008, e a cantora morreu em 2011, aos 27 anos.",
+        "c": "A canção foi lançada postumamente, após a morte da cantora em 2011, hipótese incompatível com o lançamento do álbum ainda em 2006.",
+        "d": "A canção venceu apenas prêmios britânicos, como o Brit Award, e a cantora segue viva e em atividade, dando shows regularmente.",
+        "e": "A canção venceu o Grammy de Gravação do Ano em 2008, e a cantora morreu em 2011, aos 33 anos de idade."
+      },
+      "resposta": "b",
+      "explicacao": "Rehab levou o Grammy de Gravação do Ano em 2008, e Winehouse morreu em 2011, aos 27 — idade que a inscreveu no chamado Clube dos 27, ao lado de Hendrix, Joplin, Morrison e Cobain. Em (e) está o distrator que acerta prêmio e ano e erra só a idade, e é ela que carrega o sentido histórico do caso. Em (a), houve cinco Grammys em 2008. Em (c), o álbum saiu em 2006, em vida. Em (d), a cantora morreu há mais de uma década."
+    },
+    {
+      "id": "obra-rehab-q4",
+      "texto_apoio": "Compare o procedimento musical de 'Rehab', de Amy Winehouse, e 'Young Americans', de David Bowie.",
+      "enunciado": "Tanto 'Rehab' quanto 'Young Americans' guardam uma semelhança de procedimento musical. Qual?",
+      "alternativas": {
+        "a": "Ambas revisitam e reinterpretam tradições do soul e R&B norte-americanos a partir de uma perspectiva britânica.",
+        "b": "Ambas narram experiências de imigração de músicos europeus para a África do Sul, tema recorrente na obra posterior de Paul Simon dedicada ao continente africano.",
+        "c": "Ambas utilizam exclusivamente instrumentos eletrônicos e sintetizadores, sem gravações ao vivo, recurso típico da música eletrônica alemã dos anos 1970.",
+        "d": "Ambas foram compostas originalmente em português e depois traduzidas para o inglês, prática comum em versões internacionais de canções brasileiras.",
+        "e": "Ambas se constroem sobre sampleamento digital de gravações antigas, técnica que é o centro das duas produções."
+      },
+      "resposta": "a",
+      "explicacao": "Dois artistas britânicos que atravessam o Atlântico pelo repertório: Bowie chamou o resultado de plastic soul em 1975, e Winehouse refez o gesto trinta anos depois com o som das gravadoras dos anos 1960. Em (e) está a hipótese técnica mais plausível, e ela erra o método: as duas gravações são feitas com banda tocando ao vivo em estúdio, não com samples. Em (c), pelo motivo inverso. Em (b) e (d), não há tema sul-africano nem origem em português."
+    },
+    {
+      "id": "obra-rehab-q5",
+      "enunciado": "A postura assumida pela narradora diante da insistência de terceiros para buscar tratamento pode ser interpretada como:",
+      "alternativas": {
+        "a": "Um elogio explícito aos programas de reabilitação como solução definitiva para o vício, extremo oposto ao ceticismo expresso na canção.",
+        "b": "Uma crítica direta às políticas públicas de saúde do Reino Unido na década de 2000, sistema então sob reforma do National Health Service.",
+        "c": "Uma afirmação de autonomia pessoal que, em retrospecto, adquiriu contornos trágicos diante da biografia da artista.",
+        "d": "Uma alegoria sobre a relação entre o Reino Unido e a União Europeia, tema recorrente no debate político britânico das décadas seguintes.",
+        "e": "Uma denúncia da indústria fonográfica, que teria obrigado a artista a recusar tratamento para cumprir a agenda de shows."
+      },
+      "resposta": "c",
+      "explicacao": "A recusa é dita em primeira pessoa e com humor, como afirmação de quem decide sobre a própria vida; a morte quatro anos depois deu a essa bravata um peso que ela não tinha em 2006. Em (e) está a leitura que transfere a responsabilidade para o mercado, e a canção não faz isso — a voz que fala é a dela, e é essa autonomia reivindicada que se torna trágica. Em (a), não há elogio à reabilitação. Em (b) e (d), não há crítica ao sistema de saúde nem alegoria europeia."
+    },
+    {
+      "id": "obra-revolution-q1",
+      "enunciado": "Quantas versões distintas de 'Revolution' os Beatles gravaram e lançaram em 1968?",
+      "alternativas": {
+        "a": "Quatro, incluindo uma versão instrumental composta especialmente para uma trilha sonora de cinema nunca lançada oficialmente.",
+        "b": "Três, incluindo uma versão lenta, uma rápida e uma colagem sonora experimental.",
+        "c": "Duas, sendo a segunda uma versão ao vivo, gravada durante uma turnê europeia dos Beatles no final da década de 1960.",
+        "d": "Apenas uma, lançada exclusivamente como single, sem qualquer outra versão de estúdio registrada pela banda.",
+        "e": "Três, sendo a terceira uma regravação acústica feita por Lennon já em carreira solo."
+      },
+      "resposta": "b",
+      "explicacao": "São 'Revolution 1' (lenta, no Álbum Branco), 'Revolution' (rápida, lado B de 'Hey Jude') e 'Revolution 9' (colagem sonora sem forma de canção). Em (e) está o distrator que acerta o número e erra a terceira peça — e é o mais tentador, porque a existência de três versões é o dado que se costuma lembrar. Em (c), os Beatles haviam parado de fazer turnês em 1966. Em (a) e (d), não há versão de trilha nem lançamento único."
+    },
+    {
+      "id": "obra-revolution-q2",
+      "enunciado": "O debate presente em 'Revolution' sobre o uso da violência como instrumento de transformação social relaciona-se, no eixo modernidade/pós-modernidade, a:",
+      "alternativas": {
+        "a": "A defesa incondicional do progresso tecnológico como solução para todos os problemas sociais.",
+        "b": "A crítica ao consumo de massa promovido pela globalização das últimas décadas do século XX.",
+        "c": "A tensão entre o ideal moderno de mudança radical e as primeiras dúvidas sobre grandes narrativas revolucionárias.",
+        "d": "A valorização da tradição e da hierarquia social como base da ordem política, discurso comum em correntes conservadoras europeias da época.",
+        "e": "A recusa integral da política pela arte pop, que a partir dos anos 1960 se voltaria apenas ao mercado."
+      },
+      "resposta": "c",
+      "explicacao": "Lennon quer a mudança e desconfia do método: é o momento exato em que a fé moderna na revolução começa a rachar sem ser abandonada. Em (e) está o exagero mais convidativo, porque a hesitação da letra pode passar por indiferença — mas hesitar diante do método é participar do debate, não recusá-lo. Em (d), não há defesa da tradição. Em (a) e (b), a tecnologia e o consumo de massa não estão em pauta na canção."
+    },
+    {
+      "id": "obra-revolution-q3",
+      "enunciado": "'Revolution' foi composta em resposta, entre outros eventos, a:",
+      "alternativas": {
+        "a": "Movimentos como o Maio de 68 na França e os protestos contra a Guerra do Vietnã.",
+        "b": "A Revolução Cultural chinesa, iniciada mais de uma década antes, em 1966, sob liderança de Mao Tsé-Tung.",
+        "c": "A independência das colônias africanas, ocorrida majoritariamente na década de 1960, num processo de descolonização mais amplo.",
+        "d": "A queda do Muro de Berlim e o fim da Guerra Fria, eventos que ocorreriam apenas duas décadas mais tarde.",
+        "e": "A Primavera de Praga e a invasão soviética da Tchecoslováquia, ocorridas em agosto de 1968."
+      },
+      "resposta": "a",
+      "explicacao": "A canção é de 1968 e responde ao clima daquele ano: as barricadas de Paris e as manifestações contra o Vietnã, que Lennon acompanhava de perto. Em (e) está o distrator mais forte, porque a Primavera de Praga é do mesmo ano — só que de agosto, e a canção já estava gravada e lançada antes disso. Em (b), a Revolução Cultural aparece citada na letra, mas como referência, não como motivo. Em (c) e (d), a descolonização é anterior e a queda do Muro, vinte anos posterior."
+    },
+    {
+      "id": "obra-revolution-q4",
+      "texto_apoio": "Compare 'Revolution', dos Beatles, e 'Malandragem', associada a Cássia Eller, quanto ao eixo modernidade/pós-modernidade.",
+      "enunciado": "Enquanto 'Revolution' debate diretamente métodos de transformação política, 'Malandragem' aborda esse eixo de que forma?",
+      "alternativas": {
+        "a": "Narrando acontecimentos específicos do Maio de 68 europeu sob perspectiva latino-americana.",
+        "b": "Retomando a figura da malandragem como símbolo ambíguo da sociedade brasileira, sem tomar partido político explícito.",
+        "c": "Criticando o uso de guitarras elétricas como símbolo de alienação cultural, crítica recorrente em setores da MPB engajada dos anos 1960.",
+        "d": "Defendendo abertamente a revolução socialista como única saída para o Brasil, posição comum entre setores da esquerda armada da época.",
+        "e": "Defendendo a via institucional como único caminho de mudança, em oposição direta ao debate proposto por 'Revolution'."
+      },
+      "resposta": "b",
+      "explicacao": "Onde Lennon discute meios de transformar o mundo, a canção brasileira descreve um modo de viver nele: o malandro não propõe projeto nenhum, e é essa ambiguidade que dialoga com a dialética da malandragem de Antonio Candido. Em (e) está a leitura que força a canção a responder à mesma pergunta de 'Revolution' — ela não escolhe entre via armada e via institucional, ela recusa a escolha. Em (d), não há defesa revolucionária. Em (a) e (c), não há Maio de 68 nem crítica à guitarra elétrica."
+    },
+    {
+      "id": "obra-revolution-q5",
+      "enunciado": "A ambiguidade de Lennon diante da revolução, expressa na canção, pode ser interpretada como:",
+      "alternativas": {
+        "a": "Um apoio incondicional e sem ressalvas às revoluções socialistas em curso na época.",
+        "b": "Uma defesa exclusiva da via eleitoral como único caminho legítimo de mudança política.",
+        "c": "Uma rejeição total e explícita a qualquer forma de engajamento político dos artistas.",
+        "d": "Uma tentativa de equilibrar simpatia pelas causas de mudança social e desconfiança quanto a métodos violentos.",
+        "e": "Uma adesão integral à contracultura hippie, com recusa da política institucional em favor da transformação individual."
+      },
+      "resposta": "d",
+      "explicacao": "A letra diz que todos querem mudar o mundo e, em seguida, pede para ser deixado de fora quando se fala em destruição: simpatia pela causa, reserva quanto ao método. Em (e) está a leitura mais próxima e ainda assim excessiva — a saída individual é uma tentação da canção, mas Lennon não abandona o terreno político, ele discute dentro dele. Em (a) e (c), não há adesão incondicional nem recusa do engajamento. Em (b), a via eleitoral não é mencionada."
+    },
+    {
+      "id": "obra-malandragem-q1",
+      "enunciado": "'Malandragem', canção consagrada nas interpretações ao vivo de Cássia Eller, foi originalmente composta e gravada por:",
+      "alternativas": {
+        "a": "Renato Russo e a Legião Urbana, na década de 1990.",
+        "b": "Chico Buarque, em parceria com Tom Jobim, na década de 1970.",
+        "c": "Rita Lee e os Mutantes, no auge do tropicalismo, na década de 1960.",
+        "d": "Cazuza e Frejat, com a banda Barão Vermelho, na década de 1980.",
+        "e": "Gilberto Gil, em disco solo lançado logo depois de seu retorno do exílio em Londres."
+      },
+      "resposta": "d",
+      "explicacao": "A canção é de Cazuza e Roberto Frejat, gravada pelo Barão Vermelho nos anos 1980, e só depois virou marca das apresentações de Cássia Eller. Em (a) está a confusão mais frequente, porque Cássia gravou muito do rock brasileiro daquela geração e a associação com a Legião é imediata. Em (b), (c) e (e), nem Chico e Jobim, nem os Mutantes, nem Gilberto Gil têm relação com a autoria."
+    },
+    {
+      "id": "obra-malandragem-q2",
+      "enunciado": "A retomada da figura do malandro em 'Malandragem' relaciona-se, no eixo modernidade/pós-modernidade, ao seguinte conceito da crítica literária brasileira:",
+      "alternativas": {
+        "a": "A 'dialética da malandragem', de Antonio Candido, sobre a narrativa cômica e picaresca da sociedade brasileira.",
+        "b": "O conceito de 'antropofagia cultural', formulado por Oswald de Andrade na década de 1920.",
+        "c": "A teoria da 'dependência cultural', associada aos estudos de colonialismo do século XX.",
+        "d": "O conceito de 'realismo mágico', típico da literatura latino-americana do século XX.",
+        "e": "A noção de 'homem cordial', de Sérgio Buarque de Holanda em 'Raízes do Brasil', muito usada para descrever o brasileiro."
+      },
+      "resposta": "a",
+      "explicacao": "Antonio Candido formulou a dialética da malandragem a partir de 'Memórias de um Sargento de Milícias' para descrever exatamente isso: uma sociedade narrada sem heróis nem vilões, em que a ordem e a desordem trocam de lugar. Em (e) está o conceito mais próximo e mais confundido — o homem cordial trata da dificuldade brasileira de separar o público do privado, e não do trânsito entre lei e transgressão. Em (b), (c) e (d), antropofagia, dependência e realismo mágico apontam para outros problemas."
+    },
+    {
+      "id": "obra-malandragem-q3",
+      "enunciado": "Sobre Cássia Eller, intérprete que consagrou 'Malandragem', é correto afirmar que:",
+      "alternativas": {
+        "a": "Era conhecida por sua voz grave e potente e por suas regravações de clássicos do rock nacional, tendo falecido em 2001.",
+        "b": "Foi a compositora original da canção, lançada em seu primeiro álbum solo, no início de sua carreira ainda na década de 1980.",
+        "c": "Integrou a banda Barão Vermelho como vocalista principal durante toda a década de 1980, ao lado de Cazuza e Roberto Frejat.",
+        "d": "Iniciou sua carreira internacionalmente, retornando ao Brasil apenas na década de 1990, após anos radicada na Europa.",
+        "e": "Ganhou projeção nacional ao vencer um festival de música da televisão brasileira ainda nos anos 1980."
+      },
+      "resposta": "a",
+      "explicacao": "Cássia Eller construiu a carreira no Brasil como intérprete, com voz grave reconhecível e um repertório feito em boa parte de regravações do rock nacional; morreu em 2001, aos 39 anos. Em (c) está a associação mais fácil de cometer, porque 'Malandragem' é do Barão Vermelho e ela a tornou sua — nunca integrou a banda. Em (b), a autoria é de Cazuza e Frejat. Em (d) e (e), não houve carreira iniciada no exterior nem festival de televisão."
+    },
+    {
+      "id": "obra-malandragem-q4",
+      "texto_apoio": "Compare a abordagem de 'Malandragem' com a de 'Revolution', dos Beatles, quanto à forma de tratar mudança e ordem social.",
+      "enunciado": "Diferentemente de 'Revolution', que debate diretamente métodos de transformação política, 'Malandragem':",
+      "alternativas": {
+        "a": "Propõe a abolição total das instituições formais em favor da desordem completa, ideia associada a correntes anarquistas do início do século XX.",
+        "b": "Retrata a convivência ambígua entre regras formais e práticas informais na sociedade brasileira, sem propor um projeto político.",
+        "c": "Narra acontecimentos históricos específicos do Maio de 68 europeu, movimento estudantil e operário ocorrido na França em 1968.",
+        "d": "Defende explicitamente a revolução armada como forma legítima de mudança social, posição de grupos de esquerda na ditadura militar brasileira.",
+        "e": "Descreve a malandragem como um problema social brasileiro a ser corrigido pela ação firme do Estado e por políticas de educação formal."
+      },
+      "resposta": "b",
+      "explicacao": "A canção não pede reforma nem revolução: ela descreve um jeito de circular entre a regra e o seu contorno, e trata esse trânsito com afeto, não com julgamento. Em (e) está a leitura moralizante que a letra recusa — transformar o malandro em problema a resolver é exatamente o que a tradição de Antonio Candido evita fazer. Em (a), não há defesa da desordem completa. Em (c) e (d), não há Maio de 68 nem apologia da luta armada."
+    },
+    {
+      "id": "obra-malandragem-q5",
+      "enunciado": "A ambiguidade da figura do malandro na canção — nem herói, nem vilão — pode ser interpretada como uma forma de:",
+      "alternativas": {
+        "a": "Questionar visões morais rígidas e binárias sobre a sociedade brasileira, valorizando a complexidade das relações sociais.",
+        "b": "Enaltecer exclusivamente valores ligados à disciplina e ao trabalho formal, em sintonia com discursos moralistas da época.",
+        "c": "Defender a criação de leis mais rígidas contra práticas informais na economia brasileira, pauta debatida em reformas tributárias recentes.",
+        "d": "Condenar moralmente qualquer forma de transgressão às regras sociais estabelecidas, postura comum em discursos conservadores tradicionais.",
+        "e": "Afirmar que a transgressão às regras é preferível ao seu cumprimento na vida social brasileira."
+      },
+      "resposta": "a",
+      "explicacao": "Recusar o julgamento é a operação da canção: o malandro não é exemplo a seguir nem desvio a corrigir, e é essa suspensão que abre espaço para descrever a sociedade como ela funciona. Em (e) está a inversão que apenas troca um juízo por outro — eleger a transgressão como superior seria tão binário quanto condená-la, e a ambiguidade se perderia. Em (b), (c) e (d), enaltecer a disciplina, endurecer as leis ou condenar a transgressão apontam todos para o polo moralista oposto."
+    }
+  ]
+}

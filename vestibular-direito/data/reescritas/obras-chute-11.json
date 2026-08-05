@@ -1,0 +1,238 @@
+{
+  "questoes": [
+    {
+      "id": "obra-mandragora-q2",
+      "enunciado": "O engenho com que Ligurio arquiteta o plano que envolve o falso remédio de mandrágora ilustra, no eixo modernidade, sobretudo",
+      "alternativas": {
+        "a": "a defesa explícita da castidade e da fidelidade conjugal como valores superiores a qualquer interesse pessoal dos personagens.",
+        "b": "o cálculo racional de meios para atingir um fim desejado, antecipando a razão instrumental que caracteriza o pensamento moderno.",
+        "c": "a ideia de que o acaso, e não o cálculo humano, determina inteiramente o desfecho das relações amorosas na comédia renascentista.",
+        "d": "a crença medieval de que apenas a intervenção divina poderia resolver conflitos amorosos entre indivíduos de classes distintas.",
+        "e": "a tese de que a virtude cristã, e não a astúcia, é o que conduz ao êxito nos assuntos humanos e amorosos."
+      },
+      "resposta": "b",
+      "explicacao": "Ligurio monta a trama como quem resolve um problema técnico: identifica o obstáculo, escolhe os instrumentos disponíveis — o marido crédulo, o frade comprável, o falso médico — e os encaixa. É a razão instrumental antes que ela tivesse nome. Em (e) está a moral que a peça encena para desmentir: quem vence é a astúcia, e o frade é justamente a prova disso. Em (c), nada ali é obra do acaso. Em (a) e (d), a comédia não defende castidade nem recorre ao divino."
+    },
+    {
+      "id": "obra-mandragora-q3",
+      "enunciado": "Sobre os personagens e a trama de 'A Mandrágora', assinale a alternativa correta.",
+      "alternativas": {
+        "a": "Nicia é o jovem apaixonado por Lucrezia que arquiteta todo o esquema para conquistá-la, driblando a vigilância do próprio marido dela ao longo da trama.",
+        "b": "Frate Timoteo é o servo de Callimaco e se recusa, ao final, a colaborar com o plano de enganar Nicia, temendo punição das autoridades religiosas locais.",
+        "c": "Lucrezia recusa-se, até a última cena, a aceitar qualquer participação no esquema urdido pelos demais personagens da comédia.",
+        "d": "Callimaco se disfarça de médico para convencer Nicia de que um remédio à base de mandrágora tornará sua esposa fértil.",
+        "e": "Ligurio é o frade que negocia a adesão de Lucrezia ao plano, papel que na peça cabe a Frate Timoteo."
+      },
+      "resposta": "d",
+      "explicacao": "Callimaco se faz passar por médico e vende a Nicia a poção que resolveria a infertilidade do casal — é o disfarce que põe a trama em movimento. Em (e) está a troca de papéis mais fácil de cometer: Ligurio é o estrategista leigo, e quem convence Lucrezia em nome de um suposto bem maior é o frade Timoteo. Em (a), Nicia é o marido enganado. Em (b), Timoteo colabora em vez de recusar. Em (c), Lucrezia acaba aderindo, e conscientemente."
+    },
+    {
+      "id": "obra-mandragora-q5",
+      "enunciado": "O desfecho de 'A Mandrágora', em que Lucrezia aceita conscientemente manter um caso com Callimaco e Nicia permanece alheio ao engano, sugere sobretudo que",
+      "alternativas": {
+        "a": "a comédia satiriza a corrupção moral e religiosa da época, mostrando como interesses pessoais se sobrepõem a princípios supostamente inegociáveis.",
+        "b": "a peça condena moralmente todos os personagens ao final, punindo-os com desgraças públicas por seus enganos diante de toda a comunidade florentina.",
+        "c": "Lucrezia é, do início ao fim da peça, a única personagem plenamente consciente de todos os detalhes do plano armado contra ela pelos demais.",
+        "d": "o público renascentista reagiu ao final da peça exigindo sua proibição imediata pelas autoridades eclesiásticas florentinas, segundo registros da época.",
+        "e": "Callimaco confessa o engano a Nicia na cena final, restaurando a ordem moral que a comédia clássica costuma exigir."
+      },
+      "resposta": "a",
+      "explicacao": "Ninguém é punido: o frade lucra, o marido segue satisfeito, os amantes ficam juntos. A ausência de castigo é o argumento — princípios morais cedem a interesses assim que alguém oferece a justificativa certa. Em (e) está o desfecho que a tradição cômica levaria a esperar, e é justamente por não acontecer que a sátira funciona. Em (b), não há condenação. Em (c), Lucrezia só toma consciência no meio do plano. Em (d), a peça foi encenada sem proibição."
+    },
+    {
+      "id": "obra-1984-q2",
+      "enunciado": "A vigilância constante do Grande Irmão e a reescrita permanente do passado no Ministério da Verdade permitem discutir, nos eixos modernidade/pós-modernidade e globalização, sobretudo",
+      "alternativas": {
+        "a": "a nostalgia de Orwell por regimes autoritários do passado, que o autor considerava mais eficientes do que as democracias liberais de sua própria época.",
+        "b": "a defesa de que o controle estatal da informação é sempre positivo quando aplicado em nome da segurança coletiva e da ordem pública vigente.",
+        "c": "tanto a crítica à razão totalitária moderna quanto a discussão atual sobre vigilância de dados, pós-verdade e manipulação algorítmica da informação.",
+        "d": "a impossibilidade histórica de qualquer sociedade real vir a desenvolver mecanismos de controle da informação semelhantes aos narrados no livro, segundo argumentam alguns críticos.",
+        "e": "que a vigilância imaginada por Orwell só faz sentido num Estado centralizado, sem paralelo possível com as plataformas privadas de dados de hoje."
+      },
+      "resposta": "c",
+      "explicacao": "O romance serve aos dois eixos ao mesmo tempo: denuncia o projeto moderno de organizar a sociedade pela razão administrada e fornece o vocabulário com que hoje se discute vigilância de dados e pós-verdade. Em (e) está a objeção mais séria, e ela erra: a coleta hoje é descentralizada e privada, o que muda o agente, não o mecanismo — e é essa continuidade que mantém o livro em pauta. Em (a) e (b), Orwell é o crítico, não o defensor. Em (d), os mecanismos existem."
+    },
+    {
+      "id": "obra-1984-q3",
+      "enunciado": "Sobre os elementos concretos do enredo de '1984', assinale a alternativa correta.",
+      "alternativas": {
+        "a": "Julia é uma agente da Polícia do Pensamento que finge se apaixonar por Winston para denunciá-lo às autoridades desde o início da trama.",
+        "b": "o Grande Irmão é um personagem que aparece fisicamente ao longo de todo o romance, dialogando diretamente com Winston em diversas cenas.",
+        "c": "Winston Smith trabalha no Ministério da Verdade, onde sua função é alterar registros históricos e jornalísticos para adequá-los às versões oficiais do Partido.",
+        "d": "o Quarto 101 é o nome do apartamento onde Winston e Julia se encontram secretamente, à noite, para ler o livro proibido de Goldstein, longe da vigilância do Partido.",
+        "e": "O'Brien pertence de fato à Irmandade e ajuda Winston a escapar da vigilância do Partido no desfecho do romance."
+      },
+      "resposta": "c",
+      "explicacao": "A função de Winston é reescrever o passado — jornais, estatísticas, registros — para que ele confirme o que o Partido diz hoje. Em (e) está a armadilha que o próprio romance monta: O'Brien se apresenta como membro da Irmandade, e o leitor acredita nele tanto quanto Winston, até descobrir que era o interrogador. Em (b), o Grande Irmão nunca aparece em pessoa. Em (a), Julia não é da Polícia do Pensamento. Em (d), o Quarto 101 é a sala de tortura, não o esconderijo."
+    },
+    {
+      "id": "obra-1984-q4",
+      "enunciado": "Comparando o controle da linguagem pela 'novilíngua' em '1984' com a manipulação da informação nas sociedades contemporâneas conectadas por redes digitais, pode-se afirmar que",
+      "alternativas": {
+        "a": "a novilíngua tinha como único objetivo enriquecer o vocabulário disponível aos cidadãos de Oceania, ampliando suas possibilidades de expressão artística e cotidiana.",
+        "b": "a novilíngua de Orwell e os fenômenos atuais de desinformação digital não guardam qualquer relação conceitual entre si, por pertencerem a contextos tecnológicos incompatíveis.",
+        "c": "as redes digitais contemporâneas eliminaram por completo os riscos de manipulação da informação que Orwell temia em sua época, graças a mecanismos de checagem hoje amplamente adotados.",
+        "d": "ambos os fenômenos exploram como o controle sobre a linguagem e a informação pode restringir a capacidade crítica de pensar e a dissidência.",
+        "e": "a novilíngua atua por subtração de palavras e a desinformação atual por excesso de conteúdo, diferença de método que tornaria a comparação entre as duas improdutiva."
+      },
+      "resposta": "d",
+      "explicacao": "Reduzir o vocabulário até que certos pensamentos não tenham como ser formulados e afogar o leitor em versões contraditórias produzem o mesmo resultado: um sujeito com menos meios para discordar. Em (e) está a observação mais aguda das alternativas erradas — a assimetria entre subtração e excesso é real, mas ela descreve dois caminhos para o mesmo efeito, e não uma razão para abandonar a comparação. Em (b) e (c), nega-se a relação ou o risco. Em (a), a novilíngua empobrece de propósito."
+    },
+    {
+      "id": "obra-1984-q5",
+      "enunciado": "O desfecho de '1984', em que Winston passa a amar o Grande Irmão após ser torturado no Quarto 101, sugere sobretudo que",
+      "alternativas": {
+        "a": "Julia é quem convence Winston, por meio do amor entre os dois, a aceitar finalmente a ideologia do Partido, papel que a personagem assume conscientemente ao final da trama.",
+        "b": "o Partido, ao final do romance, reconhece seus próprios erros e concede liberdade plena aos cidadãos de Oceania, encerrando definitivamente o regime de vigilância.",
+        "c": "o totalitarismo descrito por Orwell é capaz de destruir não apenas a liberdade de ação, mas também a autonomia mais íntima do pensamento e do afeto.",
+        "d": "Winston finge apenas exteriormente sua rendição, mantendo intacta, em segredo, sua capacidade de resistência interior até os créditos finais do romance.",
+        "e": "a tortura no Quarto 101 fracassa em seu objetivo, e o Partido acaba por libertar Winston após considerá-lo inofensivo."
+      },
+      "resposta": "c",
+      "explicacao": "A última frase do livro registra amor sincero, não obediência simulada — e essa sinceridade é o ponto: o regime não se contenta em vencer a ação, ele reorganiza o afeto. Em (d) está a leitura mais consoladora e por isso mais frequente, e o romance a recusa com precisão, porque uma resistência interior secreta ainda seria uma vitória. Em (e), Winston é liberado, mas já convertido. Em (a) e (b), Julia também se rende e o Partido não recua."
+    },
+    {
+      "id": "obra-a-vergonha-q2",
+      "enunciado": "O conceito de 'autossociobiografia', cunhado pela própria Annie Ernaux para descrever sua escrita, permite discutir, no eixo modernidade/pós-modernidade, sobretudo",
+      "alternativas": {
+        "a": "a defesa de que a mobilidade social é sempre um processo linear, harmônico e sem custos emocionais para quem a vivencia ao longo da vida adulta.",
+        "b": "a afirmação de que fatores sociais e de classe não interferem em absoluto na construção da identidade e da memória individual dos sujeitos ao longo da vida, segundo essa leitura.",
+        "c": "a ideia de que a memória pessoal deve ser evitada por escritores comprometidos com a análise objetiva da sociedade em registros formais e acadêmicos.",
+        "d": "a desconfiança em relação à narrativa redentora de ascensão social como progresso linear, ao expor as fissuras íntimas por trás da fachada de mobilidade de classe.",
+        "e": "a ideia de que a escrita autobiográfica precisa isolar a experiência íntima de seu contexto social para preservar a verdade da memória."
+      },
+      "resposta": "d",
+      "explicacao": "O termo junta duas palavras que a tradição mantinha separadas, e a junção é a tese: a vida íntima de Ernaux só se explica pela posição de classe, e a ascensão que a escola lhe deu cobrou o preço de um estranhamento em relação à origem. Em (e) está o oposto exato desse programa, e ele soa razoável porque descreve a autobiografia clássica. Em (c), a memória é o material, não o inimigo. Em (a) e (b), negam-se o custo e a classe."
+    },
+    {
+      "id": "obra-a-vergonha-q3",
+      "enunciado": "Sobre os elementos concretos da narrativa de 'A Vergonha', assinale a alternativa correta.",
+      "alternativas": {
+        "a": "o episódio central do livro ocorre na cidade de Paris, onde a família de Ernaux morava desde o nascimento da autora.",
+        "b": "a narradora tinha vinte anos quando presenciou o episódio de violência do pai contra a mãe, narrado no livro.",
+        "c": "o livro é integralmente narrado em terceira pessoa, sem qualquer relação direta entre a narradora e a autora.",
+        "d": "o episódio central se passa em um domingo de junho de 1952, no café-mercearia da família em Yvetot, na Normandia.",
+        "e": "o episódio central é o abandono do lar pela mãe, quando o livro narra a tentativa de agressão do pai contra ela."
+      },
+      "resposta": "d",
+      "explicacao": "A data e o lugar são dados com precisão de registro logo na abertura: um domingo de junho de 1952, no café-mercearia de Yvetot, com a narradora ainda menina. Em (e) está a troca de acontecimento mais provável para quem lembra vagamente do livro — o episódio é a tentativa do pai de matar a mãe, presenciada pela filha, e não uma partida. Em (b), a idade está errada. Em (a), a família está na Normandia. Em (c), a narrativa é assumidamente em primeira pessoa."
+    },
+    {
+      "id": "obra-a-vergonha-q4",
+      "enunciado": "Comparando o projeto de 'autossociobiografia' de Annie Ernaux com a estrutura fragmentária de 'Dicas da Imensidão', de Margaret Atwood, pode-se afirmar que",
+      "alternativas": {
+        "a": "apenas Atwood recorre à memória pessoal como material de escrita, enquanto Ernaux evita completamente qualquer relação com sua própria biografia.",
+        "b": "as duas obras narram exatamente os mesmos acontecimentos, apenas ambientados em países e décadas completamente diferentes entre si, segundo alguns críticos literários.",
+        "c": "nenhuma das duas obras discute questões relacionadas a família, classe social ou passagem do tempo em qualquer um de seus capítulos ou episódios centrais.",
+        "d": "ambas as obras revisitam o passado familiar de forma não linear, recusando uma narrativa coerente e redentora sobre a trajetória das protagonistas centrais.",
+        "e": "apenas Ernaux rompe a cronologia, ao passo que Atwood mantém uma narrativa contínua e linear do primeiro ao último capítulo."
+      },
+      "resposta": "d",
+      "explicacao": "As duas voltam ao passado familiar por fragmentos e as duas se recusam a costurar esses fragmentos numa história de superação. Em (e) está o erro mais compreensível, porque Ernaux é a mais explícita quanto ao método; a estrutura de Atwood, dividida em episódios que não se encadeiam, é igualmente descontínua. Em (a), a relação está invertida. Em (b), os acontecimentos não coincidem. Em (c), família, classe e tempo são justamente os temas comuns."
+    },
+    {
+      "id": "obra-a-vergonha-q5",
+      "enunciado": "O fato de Ernaux escolher relatar um episódio pontual de 1952 para investigar toda uma vida de vergonha de classe sugere sobretudo que",
+      "alternativas": {
+        "a": "episódios pontuais e específicos nunca são capazes de revelar dinâmicas sociais mais amplas, sendo sempre eventos isolados sem consequência simbólica.",
+        "b": "a autora considera esse episódio o único momento relevante de toda a sua infância, sem qualquer relação com outros aspectos de sua formação.",
+        "c": "o livro tem como objetivo central absolver o pai da autora de qualquer responsabilidade pelo episódio de violência relatado, segundo a interpretação de alguns leitores da obra.",
+        "d": "um único acontecimento, quando investigado com precisão, pode funcionar como uma lente que revela mecanismos sociais e afetivos mais amplos na vida de um indivíduo.",
+        "e": "a autora escolheu esse episódio por ser o mais dramático de sua biografia, e não pelo que ele permite compreender."
+      },
+      "resposta": "d",
+      "explicacao": "Ernaux trata a cena de 1952 como um documento a ser examinado — o que se dizia, o que se vestia, o que a vizinhança pensaria — e é essa lupa que revela a vergonha de classe que organizou décadas. Em (e) está a explicação mais imediata e a que o método desmente: o critério não é a intensidade dramática, e sim o poder de revelação do episódio. Em (b), ele não é o único momento relevante. Em (a), a premissa é contrariada pelo próprio livro. Em (c), não há absolvição do pai."
+    },
+    {
+      "id": "obra-jogadores-cartas-q3",
+      "enunciado": "Qual recurso de composição é característico da versão da série com apenas dois jogadores?",
+      "alternativas": {
+        "a": "Um espelho posicionado ao fundo da cena, que duplica visualmente as figuras dos dois jogadores.",
+        "b": "Um terceiro personagem observando o andamento do jogo por trás dos dois jogadores sentados.",
+        "c": "Uma janela aberta ao fundo, que ilumina de forma desigual apenas um dos dois personagens.",
+        "d": "Uma garrafa posicionada no eixo central da mesa, dividindo a cena em duas metades simétricas.",
+        "e": "Um cachimbo aceso na boca dos dois jogadores, elemento que se repete em todas as versões da série."
+      },
+      "resposta": "d",
+      "explicacao": "Na versão de dois jogadores a garrafa ocupa o centro exato da mesa e funciona como eixo: as duas figuras se equilibram em torno dela, e a cena ganha a simetria que as versões com mais personagens não têm. Em (b) está o distrator ligado às outras versões da série, que de fato incluem espectadores — e é essa presença que a versão de dois suprime. Em (e), o cachimbo aparece em algumas telas, mas não como recurso compositivo. Em (a) e (c), não há espelho nem janela."
+    },
+    {
+      "id": "obra-jogadores-cartas-q4",
+      "enunciado": "A geometrização dos volumes empregada por Cézanne em Jogadores de Cartas é apontada pela crítica de arte como base direta para qual movimento posterior?",
+      "alternativas": {
+        "a": "O expressionismo abstrato norte-americano associado a Jackson Pollock, já no século XX.",
+        "b": "O cubismo desenvolvido por Pablo Picasso e Georges Braque.",
+        "c": "O surrealismo de Salvador Dalí e Joan Miró, desenvolvido a partir da década de 1920.",
+        "d": "O futurismo italiano de Umberto Boccioni, centrado na representação do movimento.",
+        "e": "O fauvismo de Henri Matisse, baseado no uso arbitrário e intenso da cor pura."
+      },
+      "resposta": "b",
+      "explicacao": "Picasso e Braque partem literalmente da lição de Cézanne: reduzir o visível a volumes elementares e depois desmontá-los em planos. Em (e) está o movimento mais próximo no tempo — o fauvismo é praticamente contemporâneo do cubismo e também deve algo a Cézanne, mas o que herda dele é o tratamento da cor, e não a geometrização. Em (a), (c) e (d), o expressionismo abstrato, o surrealismo e o futurismo têm outras filiações."
+    },
+    {
+      "id": "obra-jogadores-cartas-q5",
+      "enunciado": "O clima de silenciosa concentração dos jogadores, sem gestos teatrais ou expressões dramáticas, sugere que a intenção de Cézanne era, sobretudo:",
+      "alternativas": {
+        "a": "Criticar diretamente o vício em jogos de azar entre a população pobre francesa da época.",
+        "b": "Priorizar a construção formal e o equilíbrio da composição sobre qualquer narrativa anedótica.",
+        "c": "Homenagear uma tradição folclórica regional que estaria em vias de desaparecimento.",
+        "d": "Retratar um momento de tensão social explícita entre patrões e trabalhadores rurais.",
+        "e": "Registrar o instante fugidio da luz sobre a cena, conforme o método impressionista que praticara antes."
+      },
+      "resposta": "b",
+      "explicacao": "Cézanne esvazia a cena de anedota justamente para que reste o que lhe interessa: volumes, cores e o equilíbrio entre as massas. O jogo é pretexto para uma arquitetura. Em (e) está o distrator mais informado, porque Cézanne veio do impressionismo — mas ele o abandona exatamente aqui, trocando o instante fugidio por uma construção estável, e essa troca é o que o torna ponte para o século XX. Em (a), (c) e (d), não há denúncia, folclore nem conflito de classe explícito."
+    },
+    {
+      "id": "obra-morte-marat-q1",
+      "enunciado": "A Morte de Marat foi encomendada por qual instância política, logo após o assassinato do revolucionário?",
+      "alternativas": {
+        "a": "A própria família de Marat, sem qualquer vínculo com a política revolucionária.",
+        "b": "A Convenção Nacional, para transformar Marat em símbolo de martírio revolucionário.",
+        "c": "A monarquia inglesa, interessada em desacreditar publicamente a Revolução Francesa.",
+        "d": "O papado romano, buscando reconciliar a Igreja Católica com o novo regime francês.",
+        "e": "O Clube dos Jacobinos, por conta própria e à revelia da Convenção Nacional então reunida."
+      },
+      "resposta": "b",
+      "explicacao": "A encomenda partiu da Convenção Nacional, da qual David era deputado, e o objetivo era declarado: converter o assassinato em imagem de martírio. Em (e) está a confusão mais natural, porque Marat e David eram ambos jacobinos e o clube tinha todo o interesse na obra — a encomenda, contudo, foi oficial, e é isso que faz da tela um ato de Estado. Em (a), a família não teve papel. Em (c) e (d), a monarquia inglesa e o papado eram adversários do regime."
+    },
+    {
+      "id": "obra-morte-marat-q2",
+      "enunciado": "A Morte de Marat relaciona-se ao eixo modernidade e pós-modernidade sobretudo porque:",
+      "alternativas": {
+        "a": "Retrata um evento da Revolução Francesa, marco fundador do ideário político moderno.",
+        "b": "Critica diretamente o avanço da industrialização europeia ao longo do século XIX.",
+        "c": "Rompe com toda a tradição figurativa anterior, antecipando diretamente a arte abstrata.",
+        "d": "Antecipa técnicas fotográficas que só seriam inventadas no século seguinte à sua criação.",
+        "e": "Documenta a industrialização de Paris no exato momento em que ela transformava a cidade."
+      },
+      "resposta": "a",
+      "explicacao": "A Revolução Francesa é o evento com que a modernidade política costuma começar — razão, cidadania, ruptura com o Antigo Regime — e a tela registra um de seus episódios convertendo-o em imagem de fundação. Em (e) está o anacronismo mais discreto: a obra é de 1793, e a industrialização de Paris viria décadas depois. Em (b), pelo mesmo motivo, não há crítica à indústria. Em (c), a pintura é neoclássica e figurativa. Em (d), não há antecipação da fotografia."
+    },
+    {
+      "id": "obra-morte-marat-q3",
+      "enunciado": "Qual elemento compositivo aparece ao lado da banheira na pintura de David, funcionando como mesa de trabalho improvisada de Marat?",
+      "alternativas": {
+        "a": "Um piano utilizado por Marat para compor hinos da causa revolucionária.",
+        "b": "Uma mesa de mármore ricamente decorada com talheres de prata.",
+        "c": "Uma caixa de madeira, sobre a qual há inclusive uma dedicatória do pintor.",
+        "d": "Uma escrivaninha entalhada trazida diretamente do gabinete de trabalho de Marat.",
+        "e": "Um banco de pedra coberto por panos brancos, onde Marat apoiaria os papéis durante o banho."
+      },
+      "resposta": "c",
+      "explicacao": "É um caixote de madeira tosco, e sobre ele David inscreveu a dedicatória ao amigo — o objeto mais humilde da tela carrega a assinatura. Em (e) está o distrator que respeita a lógica da cena, já que há panos brancos na composição; eles cobrem a banheira, e o apoio é a caixa. Em (d), uma escrivaninha entalhada destruiria o efeito de austeridade que a obra constrói. Em (a) e (b), o piano e o mármore contradizem frontalmente a pobreza encenada."
+    },
+    {
+      "id": "obra-morte-marat-q4",
+      "enunciado": "A pose do corpo de Marat na pintura de David é frequentemente comparada, pela crítica de arte, a qual tradição iconográfica?",
+      "alternativas": {
+        "a": "As cenas de banquete típicas da pintura holandesa do século XVII.",
+        "b": "As cenas de caça características da pintura rococó francesa do século XVIII.",
+        "c": "Os retratos equestres de reis absolutistas produzidos durante o Barroco.",
+        "d": "As representações de deposição e martírio de Cristo na tradição cristã.",
+        "e": "As alegorias da Justiça e da República correntes na pintura neoclássica francesa."
+      },
+      "resposta": "d",
+      "explicacao": "O braço pendente, a cabeça inclinada e a luz que desce sobre o corpo reproduzem a iconografia da deposição de Cristo — a Revolução toma emprestada a linguagem da santidade que pretendia substituir. Em (e) está o distrator mais próximo do repertório de David, que pintou alegorias cívicas em outras obras; aqui, porém, a referência é a um corpo martirizado, não a uma figura alegórica. Em (a), (b) e (c), banquete, caça e retrato equestre não têm relação com a pose."
+    }
+  ]
+}

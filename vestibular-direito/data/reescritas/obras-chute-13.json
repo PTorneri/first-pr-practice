@@ -1,0 +1,239 @@
+{
+  "questoes": [
+    {
+      "id": "obra-the-post-q5",
+      "enunciado": "A cena final de The Post, que faz referência ao início da investigação do caso Watergate, tem como efeito",
+      "alternativas": {
+        "a": "encerrar a narrativa sem qualquer relação com outros eventos históricos da mesma década",
+        "b": "sugerir que o jornal Washington Post encerrou suas atividades logo após o caso retratado no filme",
+        "c": "situar o caso dos Pentagon Papers como prenúncio de uma crise institucional ainda maior no governo Nixon",
+        "d": "indicar que o escândalo Watergate já havia sido totalmente resolvido antes da publicação dos Pentagon Papers",
+        "e": "revelar que Nixon renunciou em consequência direta da publicação dos Pentagon Papers pelo jornal"
+      },
+      "resposta": "c",
+      "explicacao": "O plano final mostra o vigia descobrindo a invasão do edifício Watergate: o filme termina onde Todos os Homens do Presidente começa, e o gesto sugere que os Pentagon Papers foram o primeiro capítulo de uma crise maior. Em (e) está o encurtamento mais tentador da cadeia causal — a renúncia veio três anos depois e por outro escândalo, e a cena aponta para o que ainda viria, não para uma consequência já dada. Em (d), Watergate é posterior. Em (a) e (b), há conexão histórica e o jornal seguiu existindo."
+    },
+    {
+      "id": "obra-persepolis-q1",
+      "enunciado": "Sobre a produção de Persépolis (2007), é correto afirmar que",
+      "alternativas": {
+        "a": "foi dirigido exclusivamente por Vincent Paronnaud, sem qualquer participação direta de Marjane Satrapi",
+        "b": "venceu o Oscar de Melhor Filme de Animação na cerimônia realizada naquele ano, superando diversos outros concorrentes fortes",
+        "c": "foi produzido inteiramente nos Estados Unidos, sem qualquer envolvimento de estúdios europeus na animação",
+        "d": "é uma animação majoritariamente em preto e branco, baseada na graphic novel autobiográfica de Marjane Satrapi",
+        "e": "foi rodado em live-action e só depois convertido em desenho, quadro a quadro, pela técnica da rotoscopia"
+      },
+      "resposta": "d",
+      "explicacao": "O filme é uma animação tradicional em preto e branco, codirigida por Satrapi e Paronnaud a partir da graphic novel autobiográfica dela. Em (e) está a hipótese técnica mais plausível para quem vê o traço econômico das figuras — não há rotoscopia, e o desenho vem direto dos quadrinhos originais. Em (a), Satrapi codirige. Em (b), o Oscar de animação foi para Ratatouille; Persépolis levou o Prêmio do Júri em Cannes. Em (c), a produção é francesa."
+    },
+    {
+      "id": "obra-persepolis-q2",
+      "enunciado": "A trajetória da protagonista de Persépolis ilustra o eixo da globalização porque",
+      "alternativas": {
+        "a": "descreve o processo de integração econômica europeia após a criação da União Europeia em 1993",
+        "b": "narra exclusivamente a rotina escolar de uma adolescente, sem qualquer deslocamento geográfico relevante",
+        "c": "mostra a reconstrução identitária de uma jovem dividida entre a cultura iraniana de origem e o exílio europeu",
+        "d": "concentra-se apenas nos combates da guerra Irã-Iraque, sem abordar a vida pessoal da protagonista",
+        "e": "acompanha a expansão das empresas ocidentais no Irã depois da revolução de 1979, tema central da graphic novel"
+      },
+      "resposta": "c",
+      "explicacao": "Marji sai do Irã para Viena, não pertence lá, volta e tampouco pertence aqui — é a identidade partida do migrante que o filme põe no centro, e não um processo econômico. Em (e) está o deslocamento de foco mais plausível para quem associa globalização a comércio: o filme trata da circulação de pessoas e de referências culturais, não de capitais, e a revolução de 1979 na verdade fecha o país ao Ocidente. Em (a), não há integração europeia em pauta. Em (b) e (d), há deslocamento e há vida pessoal."
+    },
+    {
+      "id": "obra-persepolis-q3",
+      "enunciado": "Na trama de Persépolis, os pais de Marji decidem enviá-la para estudar fora do Irã principalmente",
+      "alternativas": {
+        "a": "para que ela pudesse concorrer a uma bolsa em uma universidade europeia de prestígio internacional",
+        "b": "por exigência formal de uma ordem judicial que determinava sua saída imediata do país",
+        "c": "porque a família havia perdido toda a renda e não conseguia mais sustentá-la financeiramente em casa",
+        "d": "como forma de protegê-la dos riscos crescentes da guerra Irã-Iraque e da repressão do regime",
+        "e": "para que ela vivesse com parentes próximos já estabelecidos em Viena desde antes da revolução"
+      },
+      "resposta": "d",
+      "explicacao": "A guerra se agrava, o regime aperta o controle sobre as mulheres e Marji é uma adolescente que não sabe se calar — os pais a mandam embora para protegê-la. Em (e) está o detalhe que a memória costuma inventar: em Viena ela não tem parentes, fica na casa de uma conhecida da mãe e depois em pensão, e é esse desamparo que torna o exílio tão duro. Em (a), não há bolsa. Em (c), a família mantém condições. Em (b), não há ordem judicial."
+    },
+    {
+      "id": "obra-persepolis-q4",
+      "texto_apoio": "Persépolis e Babel integram o eixo globalização da FGV.",
+      "enunciado": "Comparando as duas obras, é correto dizer que",
+      "alternativas": {
+        "a": "Persépolis narra uma experiência individual de exílio, e Babel tece uma rede de histórias ligadas por um só evento",
+        "b": "os dois filmes adotam estrutura coral, com múltiplos protagonistas vindos de diferentes países e continentes ao redor do mundo",
+        "c": "nenhum dos dois filmes aborda barreiras linguísticas ou culturais entre os personagens principais",
+        "d": "os dois filmes se passam majoritariamente em países situados no continente americano, e não na Ásia",
+        "e": "Babel acompanha uma única trajetória de exílio, ao passo que Persépolis conecta histórias em vários continentes"
+      },
+      "resposta": "a",
+      "explicacao": "Persépolis segue uma pessoa ao longo do tempo; Babel segue quatro histórias que um único disparo no Marrocos conecta através de três continentes. Em (e) está a inversão exata dos dois modelos, e ela é fácil de cometer quando se lembra dos temas e não das formas. Em (b), só Babel é coral. Em (c), a barreira de língua é decisiva nos dois. Em (d), a Ásia e a África estão no centro de ambos."
+    },
+    {
+      "id": "obra-persepolis-q5",
+      "enunciado": "O recurso de usar cenas coloridas no presente e animação em preto e branco nas lembranças, em Persépolis, tem como efeito",
+      "alternativas": {
+        "a": "reduzir custos de produção da animação, sem nenhuma intenção narrativa relevante por trás dessa escolha estética",
+        "b": "indicar que as cenas em preto e branco representam eventos que na verdade nunca aconteceram",
+        "c": "demarcar visualmente a fronteira entre o presente da narradora adulta e as lembranças de sua juventude",
+        "d": "sinalizar que a protagonista está sonhando ao longo de toda a narrativa em preto e branco",
+        "e": "distinguir os episódios reais dos trechos ficcionais acrescentados na adaptação da graphic novel ao cinema"
+      },
+      "resposta": "c",
+      "explicacao": "A cor pertence ao aeroporto onde Marji adulta espera; o preto e branco, a tudo o que ela lembra. A troca de paleta é o que separa quem narra de quem é narrada. Em (e) está a hipótese mais engenhosa e falsa: não há divisão entre real e inventado, já que a obra é autobiográfica de ponta a ponta. Em (b), as lembranças aconteceram. Em (d), não há sonho. Em (a), a escolha é narrativa, não orçamentária."
+    },
+    {
+      "id": "obra-calice-chico-gil-q1",
+      "enunciado": "Sobre as circunstâncias de produção e apresentação de \"Cálice\", de Chico Buarque e Gilberto Gil, é correto afirmar que:",
+      "alternativas": {
+        "a": "A canção só foi composta após o fim da ditadura militar, em 1985, como retrospectiva histórica do período, quando Chico Buarque já havia retomado sua carreira no Brasil.",
+        "b": "A canção foi liberada sem qualquer restrição pelos órgãos de censura assim que composta, ainda em 1968, mesmo período em que outros artistas enfrentavam prisão e exílio.",
+        "c": "A canção foi originalmente escrita em inglês e posteriormente traduzida para o português por Chico Buarque, que também compôs canções em parceria com artistas estrangeiros.",
+        "d": "A canção teve uma apresentação ao vivo interrompida por censores em 1973, antes de ser lançada oficialmente em disco anos depois.",
+        "e": "A canção teve apenas a letra censurada, e a melodia circulou livremente em gravação instrumental lançada ainda em 1973."
+      },
+      "resposta": "d",
+      "explicacao": "No show de 1973, os microfones de Chico e Gil foram cortados durante a apresentação, e a canção só saiu em disco em 1978. Em (e) está a versão que quase se ouve contar: a letra era mesmo o alvo da censura, mas não houve lançamento instrumental de contorno, e a música ficou inteira engavetada por cinco anos. Em (a), a composição é do início dos anos 1970. Em (b), não houve liberação. Em (c), a canção nasceu em português."
+    },
+    {
+      "id": "obra-calice-chico-gil-q2",
+      "enunciado": "O recurso central de \"Cálice\" — a exploração da semelhança sonora entre duas palavras de sentidos distintos — deve ser compreendido, no contexto da ditadura militar, como:",
+      "alternativas": {
+        "a": "Homenagem a um poeta clássico português que teria usado o mesmo recurso em obras do século XVI, como Camões, referência maior da literatura em língua portuguesa.",
+        "b": "Simples brincadeira sonora sem qualquer intenção crítica, motivada apenas pelo gosto dos autores por trocadilhos, traço já presente em outras canções de Chico Buarque.",
+        "c": "Estratégia de linguagem cifrada que permitia denunciar a censura driblando os próprios mecanismos de controle sobre a arte.",
+        "d": "Recurso puramente religioso, sem qualquer relação com o momento político vivido pelo país, leitura defendida por poucos críticos de música popular.",
+        "e": "Recurso de vanguarda herdado da poesia concreta dos anos 1950, sem relação com a necessidade de driblar a censura prévia."
+      },
+      "resposta": "c",
+      "explicacao": "\"Cálice\" e \"cale-se\" soam igual, e é essa coincidência que permite pedir silêncio e denunciar o silenciamento na mesma sílaba — uma denúncia que o censor teria de admitir ter entendido para poder proibir. Em (e) está o parentesco formal mais defensável: o jogo é sonoro e a poesia concreta explorava algo próximo, mas aqui a motivação é a censura, não a pesquisa de vanguarda. Em (b) e (d), a intenção crítica é o cerne. Em (a), não há homenagem camoniana."
+    },
+    {
+      "id": "obra-calice-chico-gil-q3",
+      "enunciado": "A imagem do \"cálice\" evocada na canção de Chico Buarque e Gilberto Gil remete diretamente a:",
+      "alternativas": {
+        "a": "Uma taça usada em brindes de Ano Novo, associada apenas a comemorações populares sem simbolismo religioso, tradição típica das festas de fim de ano cariocas.",
+        "b": "Um instrumento musical de percussão usado nos sambas-enredo das escolas de samba cariocas, como o tamborim e a cuíca.",
+        "c": "Um objeto litúrgico típico dos rituais de candomblé, sem qualquer relação com a tradição cristã, religião de matriz africana presente na cultura popular brasileira.",
+        "d": "A narrativa bíblica da Paixão de Cristo, na qual o cálice simboliza o sofrimento que se pede para ser afastado, referência à liturgia católica.",
+        "e": "Ao cálice das missas do Brasil colonial, referência ao passado escravista e ao papel da Igreja naquele período."
+      },
+      "resposta": "d",
+      "explicacao": "O verso ecoa a oração no Getsêmani — afastar de mim esse cálice — e transforma o pedido de Cristo diante do sofrimento em pedido diante da repressão. Em (e) está a leitura histórica que soa erudita e desloca o alvo: a referência é evangélica e imediata, não uma alusão ao período colonial. Em (c), o cálice é cristão, não do candomblé. Em (a) e (b), não há brinde festivo nem instrumento de percussão."
+    },
+    {
+      "id": "obra-calice-chico-gil-q4",
+      "enunciado": "Comparando \"Cálice\", de Chico Buarque e Gilberto Gil, com sua releitura contemporânea feita por Criolo, pode-se afirmar que:",
+      "alternativas": {
+        "a": "A versão de Criolo abandona completamente o tema original da censura, tratando de um assunto totalmente distinto, opção estética comum entre artistas de sua geração.",
+        "b": "A releitura de Criolo atualiza o símbolo de resistência nascido na ditadura, mostrando a circulação do tema entre gerações e gêneros musicais.",
+        "c": "Ambas as versões foram compostas na mesma década, sem qualquer distância histórica entre elas, período de grande efervescência da música popular brasileira.",
+        "d": "A releitura de Criolo é anterior à canção original, servindo de inspiração para Chico Buarque e Gilberto Gil, que já compunham juntos desde o final dos anos 1960.",
+        "e": "A releitura de Criolo reproduz a letra original sem alteração, funcionando como registro fiel de arquivo da canção de 1973."
+      },
+      "resposta": "b",
+      "explicacao": "Criolo mantém o cálice e o cale-se, mas troca o censor pelo cotidiano da periferia — o símbolo migra de uma geração e de um gênero para outros sem perder a função. Em (e) está a leitura que anula o interesse da comparação: se a releitura fosse cópia, não haveria atualização nenhuma a discutir, e é justamente o que Criolo acrescenta que importa. Em (a), o tema permanece. Em (c) e (d), há quase quatro décadas entre as duas, e a ordem em (d) está invertida."
+    },
+    {
+      "id": "obra-calice-chico-gil-q5",
+      "enunciado": "O fato de \"Cálice\" ter se tornado um dos maiores símbolos da censura musical no Brasil, mesmo décadas após seu lançamento oficial, sugere que:",
+      "alternativas": {
+        "a": "A canção só é compreendida corretamente por quem viveu diretamente o período da ditadura militar, perdendo sentido depois.",
+        "b": "O sucesso da canção se deve exclusivamente à melodia, sem qualquer relação com o conteúdo político da letra, ainda que a parceria dos autores fosse reconhecida.",
+        "c": "A linguagem cifrada usada para burlar a repressão manteve força para ser reconhecida como denúncia fora do contexto imediato da ditadura.",
+        "d": "A censura da época impediu definitivamente que a canção alcançasse qualquer relevância cultural posterior, apesar da abertura política dos anos 1980.",
+        "e": "A canção só passou a funcionar como denúncia depois da abertura política, com a censura já sem meios de impedir sua circulação nas rádios do país."
+      },
+      "resposta": "c",
+      "explicacao": "O trocadilho nasceu para escapar do censor e continua legível para quem nunca viu um: a cifra sobreviveu ao contexto que a exigiu, e é isso que faz da canção um símbolo permanente. Em (e) está a inversão cronológica que a história desmente — a canção já era denúncia em 1973, tanto que foi interrompida no palco. Em (a), o sentido não depende de ter vivido o período. Em (b), a letra é o centro. Em (d), a relevância posterior é justamente o fato em discussão."
+    },
+    {
+      "id": "obra-que-pais-e-esse-q1",
+      "enunciado": "Sobre a trajetória de composição e lançamento de \"Que País é Esse?\", da Legião Urbana, é correto afirmar que:",
+      "alternativas": {
+        "a": "A canção nunca foi regravada pela Legião Urbana, permanecendo conhecida apenas pela versão de sua banda anterior.",
+        "b": "A canção foi esboçada por Renato Russo ainda no final dos anos 1970 e relançada com repercussão em 1987, no período de redemocratização.",
+        "c": "A canção foi composta originalmente por Cazuza e posteriormente cedida a Renato Russo para gravação com a Legião Urbana.",
+        "d": "A canção só foi composta após a promulgação da Constituição de 1988, como reação direta ao novo texto constitucional.",
+        "e": "A canção chegou a ser gravada em disco pelo Aborto Elétrico, banda anterior de Renato Russo, antes de a Legião Urbana registrá-la em 1987."
+      },
+      "resposta": "b",
+      "explicacao": "O esboço é de 1978, dos tempos anteriores à Legião, e o lançamento em disco é de 1987 — uma letra escrita sob a ditadura que estoura já na Nova República, e ganha por isso um sentido novo. Em (e) está a confusão mais compreensível: a canção de fato circulou no repertório do Aborto Elétrico, mas a banda nunca gravou um disco. Em (d), ela antecede a Constituição em quase dez anos. Em (a), a Legião a gravou. Em (c), a autoria é de Renato Russo."
+    },
+    {
+      "id": "obra-que-pais-e-esse-q2",
+      "enunciado": "A crítica presente em \"Que País é Esse?\" deve ser compreendida, no eixo modernidade-pós-modernidade, principalmente como expressão de:",
+      "alternativas": {
+        "a": "Crítica exclusiva a questões ambientais, sem qualquer relação com desigualdade social ou política, foco raro nas canções de protesto da época.",
+        "b": "Desconfiança geracional em relação à narrativa oficial de progresso do país após o fim formal da ditadura militar.",
+        "c": "Nostalgia dos anos de ditadura, entendida como período de maior ordem e estabilidade social, leitura contestada pela maioria dos historiadores do período.",
+        "d": "Apoio entusiasmado às reformas econômicas implementadas pelo governo militar durante os anos 1970, medidas associadas ao chamado milagre econômico.",
+        "e": "Adesão ao discurso de modernização do país, tomada como promessa efetivamente cumprida pela Nova República."
+      },
+      "resposta": "b",
+      "explicacao": "A ditadura acabou, o discurso oficial fala em país novo, e a canção responde perguntando que país é esse — a desconfiança diante da grande narrativa de progresso é exatamente o gesto que o eixo cobra. Em (e) está o oposto exato dessa posição, e ele engana porque a canção é contemporânea do otimismo da Nova República. Em (c) e (d), não há nostalgia nem adesão ao regime militar. Em (a), o tema é a desigualdade, não o meio ambiente."
+    },
+    {
+      "id": "obra-que-pais-e-esse-q3",
+      "enunciado": "A Legião Urbana surgiu no contexto de uma cena musical específica do início dos anos 1980, ao lado de outras bandas de tom político e existencial marcante. Essa cena é conhecida como:",
+      "alternativas": {
+        "a": "O tropicalismo baiano, movimento que reunia Caetano Veloso e Gilberto Gil, surgido no final da década de 1960.",
+        "b": "A Bossa Nova carioca, movimento surgido no final dos anos 1950 no Rio de Janeiro, com João Gilberto como expoente.",
+        "c": "O rock de Brasília, movimento que incluiu também bandas como Capital Inicial e Plebe Rude, de forte teor existencial.",
+        "d": "O manguebeat pernambucano, movimento surgido em Recife nos anos 1990, que teve Chico Science como um de seus principais nomes.",
+        "e": "A Jovem Guarda paulistana, cena dos anos 1960 encabeçada por Roberto Carlos e Erasmo Carlos na televisão."
+      },
+      "resposta": "c",
+      "explicacao": "Legião Urbana, Capital Inicial e Plebe Rude saem todas do mesmo circuito de garagem de Brasília no início dos anos 1980, e a proximidade com o poder federal marca as letras. Em (d) está o movimento mais fácil de confundir por também ser regional e de rock, mas o manguebeat é de Recife e uma década posterior. Em (a), (b) e (e), tropicalismo, bossa nova e Jovem Guarda são todos dos anos 1950 e 1960."
+    },
+    {
+      "id": "obra-que-pais-e-esse-q4",
+      "enunciado": "Assim como \"Com que Roupa\", de Noel Rosa, \"Que País é Esse?\" também trata de desigualdade social brasileira, mas se aproxima mais, em tom e contexto histórico, de:",
+      "alternativas": {
+        "a": "Uma canção de amor sem qualquer crítica social, distanciando-se completamente do tema de \"Com que Roupa\".",
+        "b": "Uma crítica direta e inconformada, típica de uma geração frustrada com a redemocratização, diferente do humor irônico de Noel Rosa.",
+        "c": "Uma composição encomendada pelo governo para celebrar avanços sociais do país, prática comum em iniciativas oficiais de propaganda cultural da época.",
+        "d": "Um samba tradicional dos anos 1930, com arranjo idêntico ao de Noel Rosa e mesma instrumentação, época de grande popularização do samba pelo rádio.",
+        "e": "Uma denúncia em tom de deboche, no mesmo registro irônico que Noel Rosa emprega em \"Com que Roupa\"."
+      },
+      "resposta": "b",
+      "explicacao": "Os dois falam de desigualdade, mas Noel Rosa faz rir com a roupa surrada e a Legião não faz rir de nada: o registro é de raiva frontal, e a pergunta do título não espera resposta. Em (e) está a semelhança que o enunciado pede para descartar, e ela é a resposta mais rápida justamente porque o paralelo temático sugere um paralelo de tom que não existe. Em (a), há crítica social. Em (c) e (d), não há encomenda oficial nem samba dos anos 1930."
+    },
+    {
+      "id": "obra-que-pais-e-esse-q5",
+      "enunciado": "A permanência de \"Que País é Esse?\" como referência de crítica política mesmo décadas após seu lançamento sugere que:",
+      "alternativas": {
+        "a": "A canção perdeu completamente seu sentido crítico após a Constituição de 1988, tornando-se apenas peça histórica sem relevância.",
+        "b": "As tensões sociais e políticas denunciadas pela canção continuam ressoando em diferentes momentos da história recente do Brasil.",
+        "c": "A canção é hoje interpretada apenas como manifesto contra a ditadura militar, sem qualquer aplicação a contextos posteriores.",
+        "d": "O sucesso da canção se deve exclusivamente ao talento vocal de Renato Russo, sem qualquer relação com o conteúdo da letra.",
+        "e": "A canção passou a ser lida como retrato datado dos anos 1980, sem nenhum eco nos debates políticos brasileiros das décadas seguintes."
+      },
+      "resposta": "b",
+      "explicacao": "A canção reaparece a cada crise porque o que ela nomeia — corrupção, desigualdade, promessa não cumprida — não ficou nos anos 1980. Em (e) está a leitura que o próprio enunciado contradiz: se ela fosse peça datada, não seria retomada, e é a retomada o fato a ser explicado. Em (c), pelo mesmo motivo, reduzi-la à ditadura não dá conta de seu uso atual. Em (a), o sentido crítico permaneceu. Em (d), a letra é o que se cita."
+    },
+    {
+      "id": "obra-mundo-e-um-moinho-q1",
+      "enunciado": "\"O Mundo é um Moinho\" foi lançada em 1976, no álbum \"Cartola II\", em um momento específico da trajetória artística de Cartola. Esse momento é caracterizado por:",
+      "alternativas": {
+        "a": "Uma tardia retomada de carreira como intérprete e compositor solo, décadas depois de ele já ter fundado a Mangueira.",
+        "b": "O início de sua carreira artística, ainda muito jovem, antes mesmo de fundar qualquer escola de samba, fase pouco documentada por biógrafos.",
+        "c": "Uma parceria exclusiva e contínua com Noel Rosa, com quem teria composto todos os sambas de sua carreira, vínculo citado por poucos biógrafos do samba.",
+        "d": "Um período de exílio na Europa, onde teria composto boa parte de seu repertório solo, trajetória semelhante à de outros músicos brasileiros exilados no período.",
+        "e": "O auge de sua fama nos anos 1940, quando já era o compositor mais gravado das rádios brasileiras."
+      },
+      "resposta": "a",
+      "explicacao": "Cartola fundou a Mangueira em 1928 e só gravou seu primeiro disco solo em 1974, aos 65 anos, depois de anos afastado e trabalhando como lavador de carros — Cartola II sai desse reencontro tardio com a própria obra. Em (e) está a suposição mais natural para um nome dessa estatura, e ela erra por três décadas: nos anos 1940 ele estava fora do circuito. Em (b), a carreira fonográfica começa velha. Em (c) e (d), não houve parceria exclusiva com Noel nem exílio europeu."
+    },
+    {
+      "id": "obra-mundo-e-um-moinho-q2",
+      "enunciado": "O tom melancólico e a reflexão sobre a passagem do tempo em \"O Mundo é um Moinho\" permitem relacionar a canção, no eixo modernidade-pós-modernidade, principalmente a:",
+      "alternativas": {
+        "a": "Uma crítica direta e explícita ao regime político vigente no momento de seu lançamento, tema recorrente em canções de protesto da mesma década.",
+        "b": "Uma reflexão lírica sobre a efemeridade dos sentimentos e das ilusões humanas diante do desgaste inevitável do tempo.",
+        "c": "Um elogio otimista ao progresso tecnológico e à modernização das cidades brasileiras, discurso comum em campanhas oficiais de desenvolvimento da época.",
+        "d": "Uma narrativa histórica sobre a industrialização do Rio de Janeiro no início do século XX, processo que transformou a paisagem urbana carioca.",
+        "e": "Uma alegoria do moinho como máquina industrial, símbolo do trabalho fabril no Rio dos anos 1970."
+      },
+      "resposta": "b",
+      "explicacao": "O moinho da canção é o que mói: a advertência de um homem velho a alguém que ainda acredita, e o tempo aparece como desgaste, não como progresso. Em (e) está a leitura que a palavra do título convida a fazer e que a letra não sustenta — não há fábrica nem trabalho industrial, só a imagem do que tritura devagar. Em (a), não há crítica política explícita. Em (c) e (d), não há elogio ao progresso nem narrativa da industrialização."
+    }
+  ]
+}

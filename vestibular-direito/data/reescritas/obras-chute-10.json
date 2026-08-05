@@ -1,0 +1,239 @@
+{
+  "questoes": [
+    {
+      "id": "obra-ruptura-castells-q1",
+      "enunciado": "\"Ruptura: a crise da democracia liberal\" foi escrito logo após uma sequência de eventos políticos que abalaram análises tradicionais sobre a estabilidade das democracias ocidentais. Esses eventos incluem:",
+      "alternativas": {
+        "a": "a queda do Muro de Berlim e o fim da União Soviética, ocorridos no início dos anos 1990",
+        "b": "a Primavera Árabe e as revoltas populares no Oriente Médio do início dos anos 2010",
+        "c": "o referendo do Brexit e a eleição de Donald Trump, ambos ocorridos em 2016",
+        "d": "a pandemia de Covid-19 e as medidas de isolamento social adotadas globalmente",
+        "e": "a crise financeira de 2008 e os protestos que se seguiram no sul da Europa"
+      },
+      "resposta": "c",
+      "explicacao": "Publicado em 2017, o livro parte do Brexit e da eleição de Trump, ambos de 2016, como os sintomas que tornaram a crise visível. Em (e) está o distrator mais defensável: 2008 e os protestos que se seguiram aparecem de fato na obra, mas como causa de fundo, e não como os eventos que a motivaram a ser escrita. Os demais são anteriores ou posteriores demais — a pandemia é de 2020, três anos depois do livro."
+    },
+    {
+      "id": "obra-ruptura-castells-q2",
+      "enunciado": "A tese de Castells de que \"a mudança cultural/comunicacional em rede precede e viabiliza a mudança institucional\" se relaciona ao eixo da globalização porque:",
+      "alternativas": {
+        "a": "mostra como fluxos globais de informação digital afetam a política interna dos países, superando análises estritamente nacionais",
+        "b": "defende o isolamento das economias e das redes de comunicação nacionais como solução definitiva para a crise democrática",
+        "c": "demonstra que a internet eliminou por completo a possibilidade de crise política, unificando as sociedades em torno de valores comuns",
+        "d": "prova que apenas países emergentes e de democracia mais recente sofrem esse tipo de crise institucional causada pelas redes digitais globais",
+        "e": "atribui a crise a um único fator técnico, a velocidade das conexões, sem considerar a dimensão cultural do fenômeno"
+      },
+      "resposta": "a",
+      "explicacao": "Castells argumenta que fluxos globais de comunicação digital moldam a política doméstica de cada país, o que exige uma análise que ultrapasse o quadro nacional. Em (e) está a redução mais tentadora, porque a tese envolve tecnologia: o argumento é cultural, e a infraestrutura só importa pelo que faz com valores e formas de confiança. Em (c), a rede produz a crise em vez de eliminá-la. Em (d), as democracias antigas são o caso central. Em (b), não há defesa de isolamento."
+    },
+    {
+      "id": "obra-ruptura-castells-q3",
+      "enunciado": "De acordo com o diagnóstico de Manuel Castells em \"Ruptura\", são fatores que contribuem para a crise da democracia liberal contemporânea, EXCETO:",
+      "alternativas": {
+        "a": "a expansão do voto obrigatório para todos os países democráticos do mundo",
+        "b": "a circulação de desinformação e o fenômeno da pós-verdade nas redes digitais",
+        "c": "a crise econômica de 2008 e seus efeitos sociais e políticos duradouros",
+        "d": "a vigilância em larga escala de dados pessoais dos cidadãos por parte de governos e empresas",
+        "e": "o esvaziamento da confiança nos partidos e nas instituições da democracia representativa"
+      },
+      "resposta": "a",
+      "explicacao": "A questão pede o fator que NÃO está no diagnóstico. Vigilância de dados, pós-verdade, os efeitos de 2008 e a perda de confiança nas instituições representativas são os quatro eixos do livro — (e) é, na verdade, o fio que costura os outros três. Resta (a): a expansão do voto obrigatório não é discutida por Castells nem corresponde a um fenômeno real, já que a obrigatoriedade é minoritária entre as democracias e não está em expansão."
+    },
+    {
+      "id": "obra-ruptura-castells-q5",
+      "enunciado": "Ao afirmar que a mudança cultural e comunicacional \"precede e viabiliza\" a mudança institucional, Castells sugere que, para compreender rupturas políticas como o avanço do populismo, é preciso investigar primeiro:",
+      "alternativas": {
+        "a": "as transformações nos valores e nas formas de comunicação da sociedade em rede, anteriores à crise institucional visível",
+        "b": "a atuação de organismos internacionais de crédito, como o Fundo Monetário Internacional, sobre as economias e políticas nacionais",
+        "c": "exclusivamente indicadores econômicos, como taxa de juros e câmbio, sem qualquer relação com fatores culturais",
+        "d": "as reformas constitucionais aprovadas pelos parlamentos nacionais nos anos imediatamente anteriores à crise",
+        "e": "o comportamento dos eleitores na última eleição, tomado isoladamente, sem olhar para a cultura que o antecede"
+      },
+      "resposta": "a",
+      "explicacao": "A palavra que decide a questão é \"precede\": para Castells a mudança cultural vem antes e torna possível a institucional, de modo que investigar a crise pelo seu resultado inverte a ordem explicativa. Em (e) está exatamente essa inversão, e ela é sedutora porque o resultado eleitoral é o dado mais visível. Em (d), reformas legais são efeito, não causa. Em (c) e (b), o econômico e o financeiro entram no quadro, mas nenhum deles é o ponto de partida do autor."
+    },
+    {
+      "id": "obra-bras-cubas-q3",
+      "enunciado": "O narrador-protagonista dedica boa parte de sua vida adulta a um projeto que, segundo ele, traria fama e benefício à humanidade. Esse projeto consiste em:",
+      "alternativas": {
+        "a": "A invenção de um emplasto contra a melancolia, projeto que ele nunca chega a concluir.",
+        "b": "A publicação de uma biografia elogiosa dedicada à memória de seu pai, Damião Cubas.",
+        "c": "A construção de um hospício modelo para tratamento de doentes mentais no Rio de Janeiro.",
+        "d": "A fundação de um jornal literário dedicado a divulgar as ideias do amigo Quincas Borba.",
+        "e": "A redação de um tratado sobre o Humanitismo, doutrina filosófica que ele defende em público."
+      },
+      "resposta": "a",
+      "explicacao": "O 'emplasto Brás Cubas' é a invenção que o narrador persegue a vida toda e jamais conclui — o símbolo exato de sua ambição vazia. Em (e) está o distrator mais fino: o Humanitismo existe no romance, mas é doutrina de Quincas Borba, não projeto de Brás. Em (c), o hospício vem de O Alienista, outro texto de Machado. Em (b) e (d), a biografia do pai e o jornal literário não têm base no enredo."
+    },
+    {
+      "id": "obra-bras-cubas-q4",
+      "enunciado": "Em comparação com romances realistas europeus do século XIX, como os de Balzac ou Zola, Memórias Póstumas de Brás Cubas se distingue por:",
+      "alternativas": {
+        "a": "Substituir o narrador onisciente tradicional por um narrador parcial, irônico e consciente de estar escrevendo um livro.",
+        "b": "Adotar uma linguagem fortemente regional, marcada por dialetos populares do interior do país, recurso típico do regionalismo nordestino.",
+        "c": "Eliminar qualquer crítica social do enredo, concentrando-se somente em descrições minuciosas de ambientes urbanos.",
+        "d": "Aprofundar o determinismo biológico, explicando o comportamento das personagens apenas pela herança genética e o meio.",
+        "e": "Abandonar a crítica ao Segundo Reinado em favor de um retrato idealizado da elite carioca."
+      },
+      "resposta": "a",
+      "explicacao": "A diferença decisiva é de instância narrativa: onde Balzac e Zola instalam um observador que tudo sabe e nada comenta sobre si, Machado põe um morto que interrompe a história para discutir a própria escrita. Em (e) está a leitura que mais engana, porque o narrador de fato pertence à elite; ele a expõe, contudo, com ironia demolidora, e não a idealiza. Em (d), o determinismo é justamente o que Machado recusa em Zola. Em (c), a crítica social permanece. Em (b), não há linguagem regional."
+    },
+    {
+      "id": "obra-bras-cubas-q5",
+      "enunciado": "Ao final do romance, Brás Cubas faz um balanço da própria vida e conclui ter obtido um 'saldo' positivo por não ter deixado filhos que herdassem sua miséria. Essa conclusão pode ser interpretada como:",
+      "alternativas": {
+        "a": "Um elogio à instituição do casamento, da qual Brás Cubas nunca chegou a participar.",
+        "b": "Uma ironia amarga que sugere o vazio e o fracasso por trás da existência da personagem.",
+        "c": "Uma crítica direta às políticas natalistas adotadas durante o período do Segundo Reinado.",
+        "d": "Uma afirmação sincera de que a vida vale a pena ser vivida com plenitude e alegria.",
+        "e": "Um lamento sincero pela ausência de descendentes, tema recorrente nos capítulos finais do livro."
+      },
+      "resposta": "b",
+      "explicacao": "Contabilizar como lucro o fato de não ter transmitido a própria miséria inverte toda a lógica de que a vida é um bem a acumular: é o fracasso convertido em cifra positiva, e a ironia está aí. Em (e) está o distrator mais próximo, porque o tema é mesmo a ausência de filhos — mas o tom é de sarcasmo contábil, não de lamento. Em (d), a sinceridade celebratória é o oposto do que o capítulo faz. Em (a) e (c), não há elogio ao casamento nem debate natalista."
+    },
+    {
+      "id": "obra-hora-estrela-q2",
+      "enunciado": "A escolha de um narrador homem, culto e relativamente privilegiado — Rodrigo S.M. — para contar a história de Macabéa dialoga com qual questão central discutida pela crítica pós-moderna?",
+      "alternativas": {
+        "a": "A ideia de que qualquer narrador, não importa sua origem, representa fielmente a experiência do outro.",
+        "b": "A defesa de que só narradores oniscientes garantem objetividade plena ao texto literário, ideal que Rodrigo S.M. buscaria alcançar como narrador.",
+        "c": "A desconfiança quanto à autoridade de quem narra grupos marginalizados, evidenciando distâncias de classe, gênero e região.",
+        "d": "A ideia de que a ficção deve evitar refletir sobre o próprio ato de narrar, afastando-se da metaficção que marca boa parte da prosa da autora.",
+        "e": "A tese de que a literatura deve calar-se diante da pobreza, por não dispor de meios legítimos para representá-la."
+      },
+      "resposta": "c",
+      "explicacao": "O romance escancara a distância entre quem narra e quem é narrada — classe, gênero, região — e faz dessa distância o próprio assunto. Em (e) está a conclusão que quase se segue, e não se segue: Clarice desconfia da autoridade do narrador, mas escreve o livro assim mesmo, e o gesto está em narrar exibindo o problema, não em silenciar. Em (a), a fidelidade automática é o que a obra nega. Em (b) e (d), Rodrigo não é onisciente nem foge da metaficção."
+    },
+    {
+      "id": "obra-hora-estrela-q3",
+      "enunciado": "Assinale a alternativa correta sobre a personagem Macabéa.",
+      "alternativas": {
+        "a": "É uma datilógrafa nordestina que tem breve relacionamento com Olímpico, trocado por Glória, e morre atropelada ao final.",
+        "b": "É a narradora do romance, contando em primeira pessoa a própria trajetória de vida, papel que cabe, na verdade, a Rodrigo S.M.",
+        "c": "É uma advogada bem-sucedida que decide abandonar a carreira para retornar à sua cidade natal, quando na verdade Macabéa é datilógrafa pobre no Rio.",
+        "d": "É uma datilógrafa nordestina que mantém, ao longo da obra, um relacionamento estável e duradouro com Olímpico.",
+        "e": "É uma migrante nordestina que volta à terra natal depois de romper com Olímpico, quando o romance a mantém no Rio."
+      },
+      "resposta": "a",
+      "explicacao": "Macabéa é datilógrafa, migrante do Nordeste, perde Olímpico para a colega Glória e morre atropelada logo após a consulta à cartomante — o percurso que (a) resume. Em (d) e (e) estão as variações mais plausíveis, porque acertam a origem e a profissão e erram o desfecho: o relacionamento não é estável e ela não retorna ao Nordeste. Em (b), quem narra é Rodrigo S.M. Em (c), a advogada bem-sucedida não tem qualquer relação com a personagem."
+    },
+    {
+      "id": "obra-hora-estrela-q4",
+      "enunciado": "Comparando A Hora da Estrela com Vidas Secas, de Graciliano Ramos, é possível afirmar que ambas as obras têm em comum:",
+      "alternativas": {
+        "a": "A ambientação exclusiva no sertão nordestino durante um longo período de seca, cenário que também define por completo A Hora da Estrela.",
+        "b": "O emprego de uma linguagem rebuscada e repleta de neologismos eruditos em ambas as obras, traço que aproximaria os dois romances.",
+        "c": "O interesse em dar visibilidade literária a personagens pobres, ainda que por estratégias narrativas bem diferentes.",
+        "d": "O uso de um narrador em primeira pessoa que é também o protagonista da própria história, recurso ausente tanto em Vidas Secas quanto na Hora da Estrela.",
+        "e": "A denúncia explícita de uma política agrária, formulada em termos diretos pelo narrador nos dois romances."
+      },
+      "resposta": "c",
+      "explicacao": "As duas obras põem no centro gente que a literatura costuma deixar de fora, e cada uma inventa uma forma para isso: o discurso indireto livre que empresta linguagem a quem tem pouca, num caso; o narrador que se interroga sobre o direito de narrar, no outro. Em (e) está o excesso mais convidativo: há crítica social nos dois livros, mas nenhum dos narradores formula denúncia programática. Em (a), A Hora da Estrela se passa no Rio. Em (b), Vidas Secas é deliberadamente seco. Em (d), nenhum dos dois tem narrador-protagonista."
+    },
+    {
+      "id": "obra-hora-estrela-q5",
+      "texto_apoio": "O narrador Rodrigo S.M. hesita, se corrige e questiona diversas vezes sua própria capacidade de narrar a vida de Macabéa.",
+      "enunciado": "Esse procedimento narrativo tem o efeito de:",
+      "alternativas": {
+        "a": "Tornar o romance mais objetivo, já que a hesitação garante uma descrição neutra dos fatos narrados sobre Macabéa.",
+        "b": "Diminuir a importância de Macabéa, tornando-a mera coadjuvante do próprio narrador, que passaria a ser o verdadeiro centro do romance.",
+        "c": "Evidenciar o processo de construção da narrativa como algo problemático, expondo os limites de quem narra o outro.",
+        "d": "Aproximar o romance do gênero policial, com as hesitações funcionando como pistas de um crime cometido contra a protagonista.",
+        "e": "Garantir a confiança plena do leitor no relato, já que o narrador admite abertamente as próprias limitações."
+      },
+      "resposta": "c",
+      "explicacao": "Ao se corrigir em voz alta, Rodrigo transforma a escrita em objeto do livro: cada hesitação mostra que narrar Macabéa é uma decisão, e uma decisão tomada de fora. Em (e) está a inferência mais razoável e ainda assim errada — admitir limites poderia construir credibilidade, mas aqui produz o efeito inverso, o de manter o leitor desconfiado do que lê. Em (a), a hesitação é o contrário de neutralidade. Em (b), Macabéa segue no centro. Em (d), não há enigma policial."
+    },
+    {
+      "id": "obra-torto-arado-q1",
+      "enunciado": "Torto Arado, de Itamar Vieira Junior, publicado em 2019, tornou-se um dos maiores fenômenos editoriais da literatura brasileira recente. Sobre seu autor e o contexto de produção da obra, é correto afirmar que:",
+      "alternativas": {
+        "a": "Publicou Torto Arado como seu romance de estreia, sem nenhuma obra anterior em prosa, ignorando o livro de contos que já havia lançado antes.",
+        "b": "Escreveu o romance ainda no século XX, texto que ficou inédito até ser publicado postumamente, décadas após a morte do autor.",
+        "c": "Nunca teve contato direto com comunidades rurais, baseando-se apenas em pesquisas bibliográficas estrangeiras sobre o tema.",
+        "d": "É baiano, tem formação em geografia e doutorado em estudos étnicos, experiência que informa o universo rural do romance.",
+        "e": "Escreveu o romance em francês, durante residência na Europa, traduzindo-o ao português apenas depois da premiação."
+      },
+      "resposta": "d",
+      "explicacao": "Itamar Vieira Junior é baiano, geógrafo e doutor em estudos étnicos e africanos, e trabalhou com regularização de territórios quilombolas — a formação está no chão do romance. Em (a) está o erro mais compreensível, porque Torto Arado é seu primeiro romance; ele já havia publicado contos, o que desfaz a ideia de estreia. Em (c), o contato de campo é justamente o que sustenta o livro. Em (b) e (e), o romance é do século XXI e foi escrito em português."
+    },
+    {
+      "id": "obra-torto-arado-q3",
+      "enunciado": "Sobre a estrutura narrativa de Torto Arado, é correto afirmar que:",
+      "alternativas": {
+        "a": "É contada exclusivamente por meio de cartas trocadas entre as personagens ao longo de várias décadas.",
+        "b": "Divide-se em partes narradas por vozes diferentes, incluindo as irmãs e uma voz da religiosidade afro-brasileira.",
+        "c": "Adota uma estrutura em versos, aproximando-se formalmente da poesia épica de tradição oral, recurso frequente na literatura de cordel.",
+        "d": "É narrada inteiramente em terceira pessoa, por um narrador alheio a toda a comunidade retratada na obra.",
+        "e": "Alterna capítulos de ficção com transcrições de documentos oficiais sobre a posse da terra na Bahia."
+      },
+      "resposta": "b",
+      "explicacao": "São três partes e três vozes: Bibiana, Belonísia e Santa Rita Pescadeira, entidade ligada ao jarê — a religiosidade da comunidade ganha estatuto de narradora, e não apenas de tema. Em (e) está o distrator que o assunto do livro torna verossímil, já que a posse da terra é central e o autor trabalhou com documentação fundiária; o romance, porém, não incorpora documentos. Em (d), não há narrador externo único. Em (a) e (c), não há cartas nem versos."
+    },
+    {
+      "id": "obra-torto-arado-q4",
+      "enunciado": "Tanto Torto Arado quanto Vidas Secas retratam realidades rurais marcadas pela precariedade, mas se diferenciam, entre outros aspectos, porque:",
+      "alternativas": {
+        "a": "As duas obras se passam no mesmo estado e na mesma década, retratando a mesma comunidade rural e os mesmos conflitos sociais.",
+        "b": "Vidas Secas dá grande destaque à religiosidade afro-brasileira, quando na verdade é Torto Arado que enfatiza esse tema.",
+        "c": "Vidas Secas é do século XXI, enquanto Torto Arado é uma obra do início do XX, invertendo as datas reais de publicação.",
+        "d": "Torto Arado dá centralidade à religiosidade afro-brasileira e a personagens quilombolas, o que não ocorre em Vidas Secas.",
+        "e": "Vidas Secas termina com a conquista da terra pela família de Fabiano, desfecho que Torto Arado não oferece."
+      },
+      "resposta": "d",
+      "explicacao": "O jarê e a condição quilombola organizam Torto Arado e não têm equivalente em Vidas Secas, cuja família migra sem vínculo com terra ou comunidade — é a diferença mais consistente entre os dois. Em (e) está a confusão de desfecho: Vidas Secas termina com nova partida rumo ao sul, sem conquista alguma. Em (b), a relação está invertida. Em (c), as datas estão trocadas — 1938 e 2019. Em (a), estado e década não coincidem."
+    },
+    {
+      "id": "obra-bem-amado-q1",
+      "enunciado": "A peça 'O Bem-Amado', de Dias Gomes, tornou-se ainda mais conhecida do público brasileiro após ser adaptada para a televisão. Sobre essa adaptação, é correto afirmar que:",
+      "alternativas": {
+        "a": "Consistiu numa minissérie de apenas quatro capítulos, exibida originalmente pela extinta TV Tupi, sem repercussão significativa junto ao público.",
+        "b": "Foi exibida pela TV Globo no início dos anos 1970 e tornou-se a primeira novela brasileira majoritariamente gravada e exibida em cores.",
+        "c": "Foi adaptada exclusivamente para o cinema em uma produção independente dos anos 1980, nunca tendo sido exibida em formato de televisão.",
+        "d": "Foi produzida ainda na década de 1950, antes da existência da TV Globo, por uma emissora regional baiana então pioneira na região.",
+        "e": "Foi ao ar como seriado de humor semanal, formato que a Globo só converteria em novela diária uma década mais tarde."
+      },
+      "resposta": "b",
+      "explicacao": "A adaptação estreou na Globo em 1973 e entrou para a história como a primeira telenovela brasileira majoritariamente em cores. Em (e) está o distrator mais bem informado, porque O Bem-Amado de fato virou seriado — só que em 1980, depois da novela, e não antes dela. Em (c), houve versão televisiva. Em (d), a Globo já existia e a peça é dos anos 1960. Em (a), nem a emissora nem o formato correspondem."
+    },
+    {
+      "id": "obra-bem-amado-q3",
+      "enunciado": "No enredo de 'O Bem-Amado', a obra prometida por Odorico Paraguaçu durante a campanha eleitoral e a obra efetivamente construída são, respectivamente:",
+      "alternativas": {
+        "a": "um hospital prometido durante a campanha eleitoral e um cemitério construído em seu lugar.",
+        "b": "um hospital prometido e, de fato, um hospital de pequeno porte, construído ainda que com atraso.",
+        "c": "uma estrada prometida na campanha e um mercado municipal construído posteriormente em seu lugar.",
+        "d": "uma escola prometida durante a campanha e uma praça pública construída depois em seu lugar, já concluída.",
+        "e": "um cemitério prometido na campanha e um hospital construído em seu lugar, invertendo o enredo da peça."
+      },
+      "resposta": "a",
+      "explicacao": "Odorico se elege prometendo um hospital e entrega um cemitério, mais barato e de inauguração mais vistosa — daí o conflito cômico central, a espera pelo primeiro morto. Em (e) está a inversão exata, e ela destrói a piada: prometer cemitério não elege ninguém, e é a troca do útil pelo espetacular que a peça satiriza. Em (b), o hospital nunca sai. Em (c) e (d), estrada, mercado, escola e praça não figuram no enredo."
+    },
+    {
+      "id": "obra-bem-amado-q5",
+      "enunciado": "A ansiedade de Odorico Paraguaçu para que alguém morra em Sucupira, depois de concluído o cemitério, pode ser interpretada como uma crítica a:",
+      "alternativas": {
+        "a": "um sistema de saúde pública eficiente, que reduziu tanto a mortalidade em Sucupira que o cemitério recém-construído perdeu completamente sua função.",
+        "b": "uma crença religiosa específica de Sucupira que proibia sepultamentos até que um ritual de purificação fosse antes realizado pelo padre local.",
+        "c": "uma política movida por obras de vitrine, mais preocupada com a inauguração e a imagem do que com a utilidade real para a população.",
+        "d": "uma sociedade extremamente violenta, na qual mortes são tão frequentes que se tornam banais para os habitantes locais, indiferentes à tragédia.",
+        "e": "uma burocracia lenta, que teria travado a liberação do cemitério por anos e impedido qualquer sepultamento na cidade."
+      },
+      "resposta": "c",
+      "explicacao": "O cemitério está pronto e o prefeito precisa de um defunto para a solenidade: a obra existe para ser inaugurada, não para servir. É a política de fachada reduzida ao absurdo. Em (e) está o distrator mais plausível para quem conhece o Brasil, mas erra o alvo — o problema da peça não é lentidão administrativa, e sim a obra concluída que ninguém precisa. Em (a), a saúde de Sucupira não é eficiente. Em (b) e (d), não há proibição religiosa nem violência banalizada."
+    },
+    {
+      "id": "obra-mandragora-q1",
+      "enunciado": "'A Mandrágora', comédia escrita por Nicolau Maquiavel no início do século XVI, é frequentemente lida à luz de sua obra política mais famosa. Sobre o contexto de produção da peça, é correto afirmar que",
+      "alternativas": {
+        "a": "foi escrita décadas após a morte do autor, por um discípulo florentino que assinou a obra em sua homenagem.",
+        "b": "foi escrita por Maquiavel durante os anos de afastamento forçado da vida política ativa em Florença, no início do século XVI.",
+        "c": "é uma adaptação teatral de uma peça grega clássica, ambientada na Florença renascentista por exigência do patrono que a encomendou.",
+        "d": "estreou originalmente em Londres, antes de ser traduzida e encenada na Itália apenas no século XIX.",
+        "e": "foi escrita enquanto Maquiavel ocupava alto cargo na chancelaria florentina, no auge de sua influência política."
+      },
+      "resposta": "b",
+      "explicacao": "Com o retorno dos Médici e a queda da república, Maquiavel perdeu o cargo, foi preso e se recolheu ao campo — e é desse exílio que saem tanto O Príncipe quanto A Mandrágora. Em (e) está a inversão que decide a questão: a peça nasce da perda do poder, não do exercício dele, e essa circunstância é o que dá sentido ao olhar desencantado sobre o cálculo humano. Em (a), a autoria é dele e em vida. Em (c) e (d), não é adaptação grega nem estreou em Londres."
+    }
+  ]
+}

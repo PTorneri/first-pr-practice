@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 316" width="640" height="316" role="img" aria-label="Tres curvas de sobrevivencia: a I permanece alta e cai no fim, a II decresce de forma constante e a III despenca no inicio">
+  <style>
+    .eixo  { stroke: #475569; stroke-width: 1.6; fill: none; }
+    .curva { stroke: #0A2540; stroke-width: 2.6; fill: none; stroke-linejoin: round; stroke-linecap: round; }
+    .c2    { stroke: #1E40AF; stroke-width: 2.6; fill: none; stroke-dasharray: 8 5; stroke-linejoin: round; }
+    .c3    { stroke: #0F766E; stroke-width: 2.4; fill: none; stroke-dasharray: 2 4; stroke-linecap: round; }
+    .c4    { stroke: #9A3412; stroke-width: 2.4; fill: none; stroke-dasharray: 12 4 2 4; }
+    .guia  { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 4 4; }
+    .faixa { stroke: #475569; stroke-width: 1.2; }
+    .rot   { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .pto   { fill: #0A2540; }
+    @media (prefers-color-scheme: dark) {
+      .eixo  { stroke: #94A3B8; }
+      .curva { stroke: #E2E8F0; }
+      .c2    { stroke: #60A5FA; }
+      .c3    { stroke: #5EEAD4; }
+      .c4    { stroke: #FDBA74; }
+      .guia  { stroke: #64748B; }
+      .faixa { stroke: #CBD5E1; }
+      .rot, .leg { fill: #E2E8F0; }
+      .pto   { fill: #E2E8F0; }
+    }
+  </style>
+  <path class="eixo" d="M70 30 V260 H590"/>
+  <text class="rot" x="70" y="20" text-anchor="start">sobreviventes (escala log)</text>
+  <text class="rot" x="330" y="298" text-anchor="middle">idade relativa</text>
+  <path class="curva" d="M70 52 L280 60 L400 80 L480 136 L560 252"/>
+  <text class="leg" x="300" y="52">I</text>
+  <path class="c2" d="M70 52 L580 252"/>
+  <text class="leg" x="330" y="150">II</text>
+  <path class="c3" d="M70 52 L108 146 L156 202 L240 230 L400 244 L580 252"/>
+  <text class="leg" x="150" y="228">III</text>
+</svg>

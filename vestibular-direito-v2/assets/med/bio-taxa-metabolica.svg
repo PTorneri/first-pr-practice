@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 316" width="640" height="316" role="img" aria-label="Taxa metabolica basal por quilograma em cinco mamiferos: quanto menor o animal, maior a taxa por unidade de massa">
+  <style>
+    .eixo  { stroke: #475569; stroke-width: 1.6; fill: none; }
+    .curva { stroke: #0A2540; stroke-width: 2.6; fill: none; stroke-linejoin: round; stroke-linecap: round; }
+    .c2    { stroke: #1E40AF; stroke-width: 2.6; fill: none; stroke-dasharray: 8 5; stroke-linejoin: round; }
+    .c3    { stroke: #0F766E; stroke-width: 2.4; fill: none; stroke-dasharray: 2 4; stroke-linecap: round; }
+    .c4    { stroke: #9A3412; stroke-width: 2.4; fill: none; stroke-dasharray: 12 4 2 4; }
+    .guia  { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 4 4; }
+    .faixa { stroke: #475569; stroke-width: 1.2; }
+    .rot   { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .pto   { fill: #0A2540; }
+    @media (prefers-color-scheme: dark) {
+      .eixo  { stroke: #94A3B8; }
+      .curva { stroke: #E2E8F0; }
+      .c2    { stroke: #60A5FA; }
+      .c3    { stroke: #5EEAD4; }
+      .c4    { stroke: #FDBA74; }
+      .guia  { stroke: #64748B; }
+      .faixa { stroke: #CBD5E1; }
+      .rot, .leg { fill: #E2E8F0; }
+      .pto   { fill: #E2E8F0; }
+    }
+  </style>
+  <path class="eixo" d="M70 30 V260 H590"/>
+  <text class="rot" x="70" y="20" text-anchor="start">taxa metabolica por kg</text>
+  <text class="rot" x="330" y="298" text-anchor="middle">massa corporal</text>
+  <path class="curva" d="M110 62 C150 130 190 170 240 194 C320 224 420 238 560 246"/>
+  <circle class="pto" cx="110" cy="62" r="4.5"/>
+  <circle class="pto" cx="200" cy="176" r="4.5"/>
+  <circle class="pto" cx="300" cy="216" r="4.5"/>
+  <circle class="pto" cx="420" cy="238" r="4.5"/>
+  <circle class="pto" cx="560" cy="246" r="4.5"/>
+  <text class="leg" x="110" y="50" text-anchor="middle">musaranho</text>
+  <text class="leg" x="200" y="164" text-anchor="middle">rato</text>
+  <text class="leg" x="300" y="204" text-anchor="middle">coelho</text>
+  <text class="leg" x="420" y="226" text-anchor="middle">humano</text>
+  <text class="leg" x="560" y="234" text-anchor="middle">elefante</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 288" width="640" height="288" role="img" aria-label="Zonacao vertical em costao rochoso: quatro faixas de organismos entre o nivel de mare alta e o de mare baixa">
+  <style>
+    .eixo  { stroke: #475569; stroke-width: 1.6; fill: none; }
+    .curva { stroke: #0A2540; stroke-width: 2.6; fill: none; stroke-linejoin: round; stroke-linecap: round; }
+    .c2    { stroke: #1E40AF; stroke-width: 2.6; fill: none; stroke-dasharray: 8 5; stroke-linejoin: round; }
+    .c3    { stroke: #0F766E; stroke-width: 2.4; fill: none; stroke-dasharray: 2 4; stroke-linecap: round; }
+    .c4    { stroke: #9A3412; stroke-width: 2.4; fill: none; stroke-dasharray: 12 4 2 4; }
+    .guia  { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 4 4; }
+    .faixa { stroke: #475569; stroke-width: 1.2; }
+    .rot   { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .pto   { fill: #0A2540; }
+    @media (prefers-color-scheme: dark) {
+      .eixo  { stroke: #94A3B8; }
+      .curva { stroke: #E2E8F0; }
+      .c2    { stroke: #60A5FA; }
+      .c3    { stroke: #5EEAD4; }
+      .c4    { stroke: #FDBA74; }
+      .guia  { stroke: #64748B; }
+      .faixa { stroke: #CBD5E1; }
+      .rot, .leg { fill: #E2E8F0; }
+      .pto   { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <pattern id="hachura" width="8" height="8" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="8" stroke="#94A3B8" stroke-width="2.5"/>
+    </pattern>
+  </defs>
+  <rect x="180" y="40" width="240" height="52" fill="none" class="faixa"/>
+  <rect x="180" y="92" width="240" height="52" fill="url(#hachura)" fill-opacity="0.28" class="faixa"/>
+  <rect x="180" y="144" width="240" height="52" fill="url(#hachura)" fill-opacity="0.55" class="faixa"/>
+  <rect x="180" y="196" width="240" height="54" fill="url(#hachura)" fill-opacity="0.85" class="faixa"/>
+  <path class="guia" d="M120 92 H424 M120 196 H424"/>
+  <text class="leg" x="114" y="88" text-anchor="end">nivel de mare alta</text>
+  <text class="leg" x="114" y="192" text-anchor="end">nivel de mare baixa</text>
+  <text class="leg" x="434" y="70">supralitoral</text>
+  <text class="leg" x="434" y="122">mesolitoral superior</text>
+  <text class="leg" x="434" y="174">mesolitoral inferior</text>
+  <text class="leg" x="434" y="226">infralitoral</text>
+  <path class="eixo" d="M156 250 V40"/>
+  <path class="eixo" d="M156 40 l-5 8 M156 40 l5 8"/>
+  <text class="rot" x="156" y="30" text-anchor="middle">altura</text>
+  <text class="leg" x="300" y="270" text-anchor="middle">tempo de exposicao ao ar aumenta para cima</text>
+</svg>

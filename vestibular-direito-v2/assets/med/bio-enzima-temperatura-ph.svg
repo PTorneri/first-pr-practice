@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 296" width="640" height="296" role="img" aria-label="Dois graficos: velocidade da enzima em funcao da temperatura, com maximo em 37 graus e queda abrupta ate 60, e em funcao do pH, com maximo intermediario">
+  <style>
+    .eixo  { stroke: #475569; stroke-width: 1.6; fill: none; }
+    .curva { stroke: #0A2540; stroke-width: 2.6; fill: none; stroke-linejoin: round; stroke-linecap: round; }
+    .c2    { stroke: #1E40AF; stroke-width: 2.6; fill: none; stroke-dasharray: 8 5; stroke-linejoin: round; }
+    .c3    { stroke: #0F766E; stroke-width: 2.4; fill: none; stroke-dasharray: 2 4; stroke-linecap: round; }
+    .c4    { stroke: #9A3412; stroke-width: 2.4; fill: none; stroke-dasharray: 12 4 2 4; }
+    .guia  { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 4 4; }
+    .faixa { stroke: #475569; stroke-width: 1.2; }
+    .rot   { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .pto   { fill: #0A2540; }
+    @media (prefers-color-scheme: dark) {
+      .eixo  { stroke: #94A3B8; }
+      .curva { stroke: #E2E8F0; }
+      .c2    { stroke: #60A5FA; }
+      .c3    { stroke: #5EEAD4; }
+      .c4    { stroke: #FDBA74; }
+      .guia  { stroke: #64748B; }
+      .faixa { stroke: #CBD5E1; }
+      .rot, .leg { fill: #E2E8F0; }
+      .pto   { fill: #E2E8F0; }
+    }
+  </style>
+  <path class="eixo" d="M60 30 V240 H300"/>
+  <text class="rot" x="60" y="20">velocidade</text>
+  <text class="rot" x="300" y="276" text-anchor="end">temperatura (C)</text>
+  <path class="guia" d="M186 60 V240"/>
+  <text class="leg" x="192" y="52">37 C</text>
+  <text class="rot" x="266" y="258" text-anchor="middle">60</text>
+  <path class="curva" d="M60 236 C100 226 140 150 186 60 C206 108 230 190 266 238"/>
+  <path class="eixo" d="M360 30 V240 H600"/>
+  <text class="rot" x="360" y="20">velocidade</text>
+  <text class="rot" x="600" y="276" text-anchor="end">pH</text>
+  <path class="guia" d="M480 60 V240"/>
+  <text class="leg" x="486" y="52">pH otimo</text>
+  <path class="curva" d="M382 238 C420 210 450 130 480 60 C512 132 546 208 580 236"/>
+</svg>

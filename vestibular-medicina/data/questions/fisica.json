@@ -468,7 +468,11 @@
                      },
                      {
                          "id":  "fisica-31",
-                         "texto_apoio":  "Um gráfico apresenta a velocidade de um veículo em função do tempo. Entre 0 e 10 s a curva é uma reta crescente de 0 a 20 m/s; entre 10 e 30 s permanece horizontal em 20 m/s; entre 30 e 40 s decresce linearmente até zero.",
+                         "visual":  {
+                                        "tipo":  "Gráfico",
+                                        "arquivo":  "assets/med/fis-velocidade-tempo.svg",
+                                        "descricao":  "A velocidade de um veículo em função do tempo. Entre 0 e 10 s a curva é uma reta crescente de 0 a 20 m/s; entre 10 e 30 s permanece horizontal em 20 m/s; entre 30 e 40 s decresce linearmente até zero."
+                                    },
                          "enunciado":  "A distância total percorrida pelo veículo nos 40 s é de:",
                          "alternativas":  {
                                               "a":  "600 m",
@@ -951,7 +955,11 @@
                      },
                      {
                          "id":  "fisica-63",
-                         "texto_apoio":  "Um gráfico mostra a temperatura de uma amostra de 200 g de uma substância em função do calor recebido. A curva sobe até 0 °C, permanece horizontal por um trecho, volta a subir até 100 °C, permanece horizontal por um trecho bem mais longo e volta a subir.",
+                         "visual":  {
+                                        "tipo":  "Gráfico",
+                                        "arquivo":  "assets/med/fis-mudanca-de-estado.svg",
+                                        "descricao":  "A temperatura de uma amostra de 200 g de uma substância em função do calor recebido. A curva sobe até 0 °C, permanece horizontal por um trecho, volta a subir até 100 °C, permanece horizontal por um trecho bem mais longo e volta a subir."
+                                    },
                          "enunciado":  "Os dois trechos horizontais correspondem a ______, e o segundo é mais longo porque ______. As lacunas são preenchidas por:",
                          "alternativas":  {
                                               "a":  "mudanças de estado – o calor latente de vaporização é maior que o de fusão",
@@ -1752,7 +1760,11 @@
                      },
                      {
                          "id":  "fisica-116",
-                         "texto_apoio":  "Um objeto move-se em linha reta e seu deslocamento em função do tempo é descrito por um gráfico cuja curva é uma parábola de concavidade voltada para cima, partindo da origem.",
+                         "visual":  {
+                                        "tipo":  "Gráfico",
+                                        "arquivo":  "assets/med/fis-deslocamento-parabola.svg",
+                                        "descricao":  "Um objeto move-se em linha reta e seu deslocamento em função do tempo é descrito por um gráfico cuja curva é uma parábola de concavidade voltada para cima, partindo da origem."
+                                    },
                          "enunciado":  "O movimento descrito é:",
                          "alternativas":  {
                                               "a":  "uniforme, com velocidade constante, uma vez que a curva parte da origem do sistema de coordenadas adotado para representar o deslocamento",

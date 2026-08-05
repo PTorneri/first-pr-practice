@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 348" width="640" height="348" role="img" aria-label="Curva de dissociacao da hemoglobina em formato sigmoide e uma segunda curva deslocada para a direita, obtida em pH menor e temperatura maior">
+  <style>
+    .eixo  { stroke: #475569; stroke-width: 1.6; fill: none; }
+    .curva { stroke: #0A2540; stroke-width: 2.6; fill: none; stroke-linejoin: round; stroke-linecap: round; }
+    .c2    { stroke: #1E40AF; stroke-width: 2.6; fill: none; stroke-dasharray: 8 5; stroke-linejoin: round; }
+    .c3    { stroke: #0F766E; stroke-width: 2.4; fill: none; stroke-dasharray: 2 4; stroke-linecap: round; }
+    .c4    { stroke: #9A3412; stroke-width: 2.4; fill: none; stroke-dasharray: 12 4 2 4; }
+    .guia  { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 4 4; }
+    .faixa { stroke: #475569; stroke-width: 1.2; }
+    .rot   { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .pto   { fill: #0A2540; }
+    @media (prefers-color-scheme: dark) {
+      .eixo  { stroke: #94A3B8; }
+      .curva { stroke: #E2E8F0; }
+      .c2    { stroke: #60A5FA; }
+      .c3    { stroke: #5EEAD4; }
+      .c4    { stroke: #FDBA74; }
+      .guia  { stroke: #64748B; }
+      .faixa { stroke: #CBD5E1; }
+      .rot, .leg { fill: #E2E8F0; }
+      .pto   { fill: #E2E8F0; }
+    }
+  </style>
+  <path class="eixo" d="M70 30 V260 H590"/>
+  <text class="rot" x="70" y="20" text-anchor="start">saturacao da hemoglobina (%)</text>
+  <text class="rot" x="330" y="298" text-anchor="middle">pressao parcial de O2 (mmHg)</text>
+  <path class="curva" d="M70 254 C108 250 136 220 168 176 C202 128 240 88 292 72 C368 54 470 50 590 48"/>
+  <path class="c2" d="M70 256 C128 252 172 232 214 192 C254 152 300 108 356 88 C430 62 510 54 590 50"/>
+  <path class="curva" d="M300 332 h26"/>
+  <text class="leg" x="334" y="332">pH normal</text>
+  <path class="c2" d="M424 332 h26"/>
+  <text class="leg" x="458" y="332">pH menor, temperatura maior</text>
+</svg>

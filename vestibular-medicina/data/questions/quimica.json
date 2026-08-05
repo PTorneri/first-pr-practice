@@ -534,7 +534,12 @@
                      },
                      {
                          "id":  "quimica-35",
-                         "texto_apoio":  "Uma curva de solubilidade mostra que o nitrato de potássio dissolve 32 g por 100 g de água a 20 °C e 110 g por 100 g de água a 60 °C. Prepara-se uma solução dissolvendo 90 g do sal em 100 g de água a 60 °C, que depois é resfriada lentamente até 20 °C.",
+                         "visual":  {
+                                        "tipo":  "Gráfico",
+                                        "arquivo":  "assets/med/qui-curva-solubilidade.svg",
+                                        "descricao":  "Curva de solubilidade do nitrato de potássio em água, em gramas por 100 g de água, entre 0 °C e 80 °C: 32 g a 20 °C e 110 g a 60 °C."
+                                    },
+                         "texto_apoio":  "Prepara-se uma solução dissolvendo 90 g de nitrato de potássio em 100 g de água a 60 °C, que depois é resfriada lentamente até 20 °C.",
                          "enunciado":  "Após o resfriamento, espera-se observar:",
                          "alternativas":  {
                                               "a":  "solução insaturada, sem qualquer sólido depositado no fundo do recipiente, já que a massa dissolvida é inferior ao limite a 60 °C",

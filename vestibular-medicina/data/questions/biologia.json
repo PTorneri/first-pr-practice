@@ -55,8 +55,12 @@
                      },
                      {
                          "id":  "biologia-03",
-                         "texto_apoio":  "Um heredograma acompanha três gerações de uma família na qual se manifesta uma condição determinada por um único gene. Os indivíduos afetados estão representados em preto. O casal da primeira geração não é afetado, mas duas de suas quatro filhas manifestam a condição. Nenhum dos filhos homens é afetado, e há afetados de ambos os sexos na terceira geração.",
-                         "enunciado":  "A partir dos dados apresentados, o padrão de herança compatível com esse heredograma é:",
+                         "visual":  {
+                                        "tipo":  "Heredograma",
+                                        "arquivo":  "assets/med/heredograma-01.svg",
+                                        "descricao":  "Três gerações de uma família em que se manifesta uma condição determinada por um único gene; os símbolos preenchidos indicam os afetados. O casal da primeira geração não é afetado, mas duas de suas quatro filhas manifestam a condição e nenhum dos dois filhos homens é afetado. Na terceira geração há um homem afetado e uma mulher afetada."
+                                    },
+                         "enunciado":  "A partir do heredograma, o padrão de herança compatível com o quadro apresentado é:",
                          "alternativas":  {
                                               "a":  "autossômica dominante, já que a condição reaparece a cada geração e atinge homens e mulheres na mesma proporção esperada",
                                               "b":  "dominante ligada ao X, já que um genitor afetado transmitiria a condição a todas as suas filhas e a nenhum de seus filhos homens",
@@ -145,7 +149,11 @@
                      },
                      {
                          "id":  "biologia-09",
-                         "texto_apoio":  "O gráfico apresenta a variação populacional de uma espécie de roedor introduzida numa ilha sem predadores naturais. Nos primeiros dois anos a curva sobe de forma acelerada; a partir do terceiro ano a inclinação diminui progressivamente até a curva se estabilizar em torno de um patamar, no qual permanece pelos anos seguintes com pequenas oscilações.",
+                         "visual":  {
+                                        "tipo":  "Gráfico",
+                                        "arquivo":  "assets/med/bio-crescimento-populacional.svg",
+                                        "descricao":  "A variação populacional de uma espécie de roedor introduzida numa ilha sem predadores naturais. Nos primeiros dois anos a curva sobe de forma acelerada; a partir do terceiro ano a inclinação diminui progressivamente até a curva se estabilizar em torno de um patamar, no qual permanece pelos anos seguintes com pequenas oscilações."
+                                    },
                          "enunciado":  "O achatamento da curva a partir do terceiro ano é explicado, principalmente, pelo aumento da:",
                          "alternativas":  {
                                               "a":  "taxa de natalidade, que passaria a compensar as perdas provocadas pela emigração de indivíduos para outras áreas da ilha",
@@ -310,7 +318,11 @@
                      },
                      {
                          "id":  "biologia-20",
-                         "texto_apoio":  "O gráfico mostra a quantidade de DNA nuclear por célula ao longo do tempo em uma linhagem em proliferação. A curva parte de um valor 2C, sobe gradualmente até 4C ao longo de várias horas, permanece nesse patamar por um período e então cai bruscamente de volta a 2C.",
+                         "visual":  {
+                                        "tipo":  "Gráfico",
+                                        "arquivo":  "assets/med/bio-ciclo-celular-dna.svg",
+                                        "descricao":  "A quantidade de DNA nuclear por célula ao longo do tempo em uma linhagem em proliferação. A curva parte de um valor 2C, sobe gradualmente até 4C ao longo de várias horas, permanece nesse patamar por um período e então cai bruscamente de volta a 2C."
+                                    },
                          "enunciado":  "A subida gradual até 4C e a queda brusca de volta a 2C correspondem, respectivamente, a:",
                          "alternativas":  {
                                               "a":  "fase G1 da intérfase e anáfase da mitose, momento em que as cromátides-irmãs se separam e migram para os polos opostos da célula",
@@ -415,7 +427,11 @@
                      },
                      {
                          "id":  "biologia-27",
-                         "texto_apoio":  "Um gráfico relaciona a taxa de fotossíntese de uma planta com a intensidade luminosa, mantendo constantes a temperatura e a concentração de gás carbônico. A curva sobe de forma acentuada nas intensidades iniciais, depois perde inclinação progressivamente e por fim estabiliza num patamar, permanecendo constante mesmo quando a intensidade continua a aumentar.",
+                         "visual":  {
+                                        "tipo":  "Gráfico",
+                                        "arquivo":  "assets/med/bio-fotossintese-luz.svg",
+                                        "descricao":  "Um gráfico relaciona a taxa de fotossíntese de uma planta com a intensidade luminosa, mantendo constantes a temperatura e a concentração de gás carbônico. A curva sobe de forma acentuada nas intensidades iniciais, depois perde inclinação progressivamente e por fim estabiliza num patamar, permanecendo constante mesmo quando a intensidade continua a aumentar."
+                                    },
                          "enunciado":  "A estabilização da curva no patamar, apesar do aumento continuado da luz, indica que a taxa de fotossíntese passou a ser limitada:",
                          "alternativas":  {
                                               "a":  "pela quantidade de clorofila disponível, que se degrada sob intensidades luminosas elevadas e reduz a captação de fótons",
@@ -595,7 +611,11 @@
                      },
                      {
                          "id":  "biologia-39",
-                         "texto_apoio":  "O gráfico compara a variação da temperatura corporal de dois animais ao longo de 24 horas, em um ambiente cuja temperatura oscilou entre 12 °C e 34 °C. A curva do animal I acompanha de perto as oscilações do ambiente; a curva do animal II permanece praticamente constante em torno de 37 °C durante todo o período.",
+                         "visual":  {
+                                        "tipo":  "Gráfico",
+                                        "arquivo":  "assets/med/bio-termorregulacao.svg",
+                                        "descricao":  "A variação da temperatura corporal de dois animais ao longo de 24 horas, em um ambiente cuja temperatura oscilou entre 12 °C e 34 °C. A curva do animal I acompanha de perto as oscilações do ambiente; a curva do animal II permanece praticamente constante em torno de 37 °C durante todo o período."
+                                    },
                          "enunciado":  "Sobre os dois animais e o custo energético de suas estratégias, é correto afirmar que o animal I é:",
                          "alternativas":  {
                                               "a":  "homeotérmico e apresenta gasto energético equivalente ao do animal II, diferindo apenas na velocidade de resposta às mudanças externas",
@@ -734,7 +754,11 @@
                      },
                      {
                          "id":  "biologia-48",
-                         "texto_apoio":  "O gráfico apresenta as concentrações plasmáticas de quatro hormônios ao longo de um ciclo menstrual de 28 dias. Por volta do décimo quarto dia, dois deles atingem um pico acentuado e de curta duração, imediatamente antes da liberação do gameta pelo ovário.",
+                         "visual":  {
+                                        "tipo":  "Gráfico",
+                                        "arquivo":  "assets/med/bio-ciclo-menstrual.svg",
+                                        "descricao":  "As concentrações plasmáticas de quatro hormônios ao longo de um ciclo menstrual de 28 dias. Por volta do décimo quarto dia, dois deles atingem um pico acentuado e de curta duração, imediatamente antes da liberação do gameta pelo ovário."
+                                    },
                          "enunciado":  "Os hormônios cujo pico antecede imediatamente a ovulação e a estrutura que se forma no ovário logo após esse evento são, respectivamente:",
                          "alternativas":  {
                                               "a":  "FSH e LH, e o folículo primordial, que retoma seu desenvolvimento no início da fase seguinte do ciclo ovariano",
@@ -779,7 +803,11 @@
                      },
                      {
                          "id":  "biologia-51",
-                         "texto_apoio":  "Um gráfico relaciona a velocidade de uma reação catalisada por enzima com a temperatura do meio. A curva sobe até um valor máximo em torno de 37 °C e, a partir daí, cai de forma abrupta, chegando a zero por volta de 60 °C. Um segundo gráfico, para a mesma enzima, mostra comportamento semelhante em relação ao pH.",
+                         "visual":  {
+                                        "tipo":  "Gráfico",
+                                        "arquivo":  "assets/med/bio-enzima-temperatura-ph.svg",
+                                        "descricao":  "Um gráfico relaciona a velocidade de uma reação catalisada por enzima com a temperatura do meio. A curva sobe até um valor máximo em torno de 37 °C e, a partir daí, cai de forma abrupta, chegando a zero por volta de 60 °C. Um segundo gráfico, para a mesma enzima, mostra comportamento semelhante em relação ao pH."
+                                    },
                          "enunciado":  "A queda abrupta da velocidade acima da temperatura ótima é explicada pela:",
                          "alternativas":  {
                                               "a":  "redução da energia cinética das moléculas, que diminui a frequência de colisões entre a enzima e o substrato disponível no meio",
@@ -992,7 +1020,11 @@
                      },
                      {
                          "id":  "biologia-65",
-                         "texto_apoio":  "Um gráfico mostra a concentração atmosférica de gás carbônico medida continuamente num observatório de altitude ao longo de seis décadas. A curva apresenta oscilações anuais regulares, com queda durante a primavera e o verão do hemisfério norte e elevação no outono e no inverno, sobrepostas a uma tendência de aumento contínuo ao longo de todo o período.",
+                         "visual":  {
+                                        "tipo":  "Gráfico",
+                                        "arquivo":  "assets/med/bio-co2-atmosferico.svg",
+                                        "descricao":  "A concentração atmosférica de gás carbônico medida continuamente num observatório de altitude ao longo de seis décadas. A curva apresenta oscilações anuais regulares, com queda durante a primavera e o verão do hemisfério norte e elevação no outono e no inverno, sobrepostas a uma tendência de aumento contínuo ao longo de todo o período."
+                                    },
                          "enunciado":  "As oscilações anuais e a tendência de aumento no longo prazo decorrem, respectivamente, de:",
                          "alternativas":  {
                                               "a":  "variações na atividade vulcânica ao longo do ano e do aumento da população mundial ao longo das décadas analisadas no gráfico",
@@ -1251,7 +1283,11 @@
                      },
                      {
                          "id":  "biologia-82",
-                         "texto_apoio":  "Um gráfico mostra a variação da concentração de oxigênio dissolvido ao longo de um rio, a partir do ponto em que recebe esgoto doméstico. A curva cai bruscamente logo após o lançamento, permanece baixa por alguns quilômetros e volta a subir gradualmente até os valores originais bem mais adiante.",
+                         "visual":  {
+                                        "tipo":  "Gráfico",
+                                        "arquivo":  "assets/med/bio-oxigenio-rio.svg",
+                                        "descricao":  "A variação da concentração de oxigênio dissolvido ao longo de um rio, a partir do ponto em que recebe esgoto doméstico. A curva cai bruscamente logo após o lançamento, permanece baixa por alguns quilômetros e volta a subir gradualmente até os valores originais bem mais adiante."
+                                    },
                          "enunciado":  "A recuperação gradual da concentração de oxigênio a jusante do lançamento é denominada:",
                          "alternativas":  {
                                               "a":  "eutrofização, processo em que o excesso de nutrientes estimula a proliferação de algas na superfície e altera o equilíbrio do sistema",
@@ -1342,7 +1378,11 @@
                      },
                      {
                          "id":  "biologia-88",
-                         "texto_apoio":  "Um gráfico apresenta a curva de sobrevivência de três espécies. A curva I mantém-se alta durante quase toda a vida e cai bruscamente no final. A curva II decresce de forma constante ao longo de todas as idades. A curva III despenca logo no início e estabiliza depois, com poucos indivíduos alcançando idades avançadas.",
+                         "visual":  {
+                                        "tipo":  "Gráfico",
+                                        "arquivo":  "assets/med/bio-curvas-sobrevivencia.svg",
+                                        "descricao":  "A curva de sobrevivência de três espécies. A curva I mantém-se alta durante quase toda a vida e cai bruscamente no final. A curva II decresce de forma constante ao longo de todas as idades. A curva III despenca logo no início e estabiliza depois, com poucos indivíduos alcançando idades avançadas."
+                                    },
                          "enunciado":  "As curvas I e III são típicas, respectivamente, de espécies que:",
                          "alternativas":  {
                                               "a":  "produzem poucos descendentes com alto cuidado parental e de espécies que produzem muitos descendentes sem cuidado parental",
@@ -1464,7 +1504,11 @@
                      },
                      {
                          "id":  "biologia-96",
-                         "texto_apoio":  "Um gráfico apresenta a variação da população de linces e de lebres numa mesma região ao longo de noventa anos. As duas curvas oscilam com regularidade, e os picos da população de linces ocorrem sistematicamente alguns anos após os picos da população de lebres.",
+                         "visual":  {
+                                        "tipo":  "Gráfico",
+                                        "arquivo":  "assets/med/bio-lince-lebre.svg",
+                                        "descricao":  "A variação da população de linces e de lebres numa mesma região ao longo de noventa anos. As duas curvas oscilam com regularidade, e os picos da população de linces ocorrem sistematicamente alguns anos após os picos da população de lebres."
+                                    },
                          "enunciado":  "O padrão descrito é explicado pelo fato de que:",
                          "alternativas":  {
                                               "a":  "as duas populações competem pelos mesmos recursos vegetais da região, e a escassez periódica desses recursos afeta ambas de modo alternado",
@@ -1737,7 +1781,11 @@
                      },
                      {
                          "id":  "biologia-114",
-                         "texto_apoio":  "Um gráfico mostra a espessura média da camada de ozônio sobre a Antártida entre 1980 e 2020. Há queda acentuada até meados da década de 1990, estabilização por alguns anos e recuperação lenta a partir dos anos 2000.",
+                         "visual":  {
+                                        "tipo":  "Gráfico",
+                                        "arquivo":  "assets/med/bio-camada-ozonio.svg",
+                                        "descricao":  "A espessura média da camada de ozônio sobre a Antártida entre 1980 e 2020. Há queda acentuada até meados da década de 1990, estabilização por alguns anos e recuperação lenta a partir dos anos 2000."
+                                    },
                          "enunciado":  "A recuperação observada a partir dos anos 2000 está associada:",
                          "alternativas":  {
                                               "a":  "à redução das emissões de gás carbônico acordada em tratados climáticos internacionais firmados ao longo daquela mesma década",
@@ -1828,7 +1876,11 @@
                      },
                      {
                          "id":  "biologia-120",
-                         "texto_apoio":  "Um gráfico apresenta a taxa metabólica basal por quilograma de massa corporal em cinco mamíferos de portes muito diferentes, do musaranho ao elefante. A curva mostra que quanto menor o animal, maior a taxa por unidade de massa.",
+                         "visual":  {
+                                        "tipo":  "Gráfico",
+                                        "arquivo":  "assets/med/bio-taxa-metabolica.svg",
+                                        "descricao":  "A taxa metabólica basal por quilograma de massa corporal em cinco mamíferos de portes muito diferentes, do musaranho ao elefante. A curva mostra que quanto menor o animal, maior a taxa por unidade de massa."
+                                    },
                          "enunciado":  "A relação observada é explicada pelo fato de que animais menores apresentam:",
                          "alternativas":  {
                                               "a":  "maior número de mitocôndrias por célula, característica que se estabelece durante o desenvolvimento embrionário e persiste ao longo da vida adulta",
@@ -1934,7 +1986,11 @@
                      },
                      {
                          "id":  "biologia-127",
-                         "texto_apoio":  "Um gráfico apresenta a zonação vertical de organismos em um costão rochoso, entre o nível de maré alta e o de maré baixa. Cada faixa é ocupada por espécies distintas, com limites bastante nítidos entre elas.",
+                         "visual":  {
+                                        "tipo":  "Esquema",
+                                        "arquivo":  "assets/med/bio-zonacao-costao.svg",
+                                        "descricao":  "A zonação vertical de organismos em um costão rochoso, entre o nível de maré alta e o de maré baixa. Cada faixa é ocupada por espécies distintas, com limites bastante nítidos entre elas."
+                                    },
                          "enunciado":  "Estudos experimentais mostram que, nesse ambiente, o limite superior de distribuição de uma espécie costuma ser determinado por ______, enquanto o limite inferior costuma ser determinado por ______. As lacunas são preenchidas por:",
                          "alternativas":  {
                                               "a":  "temperatura da rocha – disponibilidade de substrato firme para a fixação dos organismos nas porções mais profundas do costão",
@@ -2283,7 +2339,11 @@
                      },
                      {
                          "id":  "biologia-150",
-                         "texto_apoio":  "Um gráfico apresenta a curva de dissociação da hemoglobina, relacionando a saturação com a pressão parcial de oxigênio. A curva tem formato sigmoide. Uma segunda curva, obtida em pH mais baixo e temperatura mais alta, aparece deslocada para a direita em relação à primeira.",
+                         "visual":  {
+                                        "tipo":  "Gráfico",
+                                        "arquivo":  "assets/med/bio-dissociacao-hemoglobina.svg",
+                                        "descricao":  "A curva de dissociação da hemoglobina, relacionando a saturação com a pressão parcial de oxigênio. A curva tem formato sigmoide. Uma segunda curva, obtida em pH mais baixo e temperatura mais alta, aparece deslocada para a direita em relação à primeira."
+                                    },
                          "enunciado":  "O deslocamento da curva para a direita indica que, nessas condições, a hemoglobina:",
                          "alternativas":  {
                                               "a":  "aumenta sua afinidade pelo oxigênio, o que favorece a captação do gás nos capilares alveolares durante a passagem do sangue pelos pulmões",

@@ -1,0 +1,937 @@
+{
+    "subtopic":  "interpretacao-texto",
+    "textos":  [
+                   {
+                       "id":  "med-int-t1",
+                       "fonte":  "Cronica original escrita para este banco",
+                       "conteudo":  "O ANDAR DE BAIXO\n\nTodo prédio tem um andar em que o elevador para sem que ninguém tenha chamado. No meu, é o quarto. A porta se abre para um corredor vazio, o botão do painel apaga sozinho, e quem está dentro faz aquela cara de quem não vai comentar.\n\nDurante meses achei que fosse defeito. Chamei o técnico duas vezes. Ele subiu, desceu, apertou botões com a autoridade de quem entende e concluiu que estava tudo em ordem. Na terceira vez não chamei mais ninguém: passei a esperar a parada como se espera o sinal fechar numa esquina conhecida.\n\nFoi então que comecei a reparar nas pessoas. Há os que suspiram. Há os que conferem o relógio, como se dez segundos fossem alterar o rumo do dia. Há os que aproveitam para olhar o celular com uma concentração que ninguém teria se o elevador estivesse andando. E há a senhora do sétimo, que sempre diz a mesma coisa: \"de novo o quarto\". Diz sem raiva, quase com carinho, do jeito que se fala de um parente que chega sempre atrasado.\n\nUm dia o síndico anunciou na assembleia que o problema seria resolvido. Trocariam a placa eletrônica. Houve palmas — poucas, mas houve. A obra levou três semanas e custou o que custam essas coisas. No primeiro dia depois do conserto, o elevador subiu do térreo ao sétimo sem parar em lugar nenhum. Foi um silêncio esquisito.\n\nA senhora do sétimo desceu e não disse nada.\n\nReparei, então, que eu tinha perdido alguma coisa. Não o tempo — esse eu ganhei, dez segundos por viagem, o que dá, no fim do mês, um número que não impressiona ninguém. Perdi o comentário dela. Perdi a cara das pessoas fingindo que não estavam impacientes. Perdi o único momento do dia em que sete estranhos dividiam um problema pequeno o bastante para ser suportável.\n\nO prédio ficou mais eficiente. É o que se pede de um prédio.\n\nAinda assim, toda vez que passo pelo quarto andar sem parar, dou por mim olhando o painel, à espera de um botão que não vai acender."
+                   },
+                   {
+                       "id":  "med-int-t2",
+                       "fonte":  "Artigo de opiniao original escrito para este banco",
+                       "conteudo":  "QUEM PODE ESPERAR\n\nQuem chega primeiro não é atendido primeiro. Essa frase, dita em voz alta na sala de espera de qualquer pronto-socorro, costuma provocar revolta — e é a base de todo o sistema.\n\nA triagem por gravidade inverte a regra que aprendemos na padaria, no banco e na fila do cinema. Nela, o critério não é a ordem de chegada, mas o risco de o quadro piorar enquanto se espera. Uma dor no peito passa à frente de um corte no dedo, ainda que o corte tenha chegado três horas antes. Não porque o corte importe menos, mas porque o corte, esperando, continua sendo um corte. A dor no peito, esperando, pode virar outra coisa.\n\nO problema é que essa lógica é invisível para quem está na cadeira. O paciente vê o vizinho ser chamado e não vê o motivo. Vê a injustiça e não vê a conta que a produziu. E a instituição, quase sempre, não explica — como se explicar fosse perda de tempo, quando é exatamente o contrário: a explicação é o que sustenta a fila.\n\nHá quem diga que o sistema falha. Falha, e com frequência. Triagens são feitas por pessoas cansadas, em poucos minutos, com informação incompleta, e um caso grave pode acabar classificado abaixo do que merece. Isso é argumento para melhorar a triagem, não para abandoná-la: trocar o risco pela ordem de chegada não corrige erro nenhum, apenas distribui o dano de um jeito mais confortável de justificar.\n\nO que se pede do paciente, no fundo, é um ato de confiança difícil — aceitar que a espera dele é o preço da urgência de outro. Nenhum cartaz produz isso sozinho. Mas um atendente que diz, em quinze segundos, \"o senhor vai esperar mais porque o caso ao lado é mais grave\" faz pela fila mais do que qualquer campanha.\n\nA fila do pronto-socorro não é um lugar onde se distribui atendimento. É um lugar onde se decide quem pode esperar."
+                   },
+                   {
+                       "id":  "med-int-t3",
+                       "fonte":  "Poema original escrito para este banco",
+                       "conteudo":  "PLANTÃO\n\nA luz do corredor não sabe que é noite.\nSegue acesa, branca, sem opinião,\nsobre os que dormem e os que fingem.\n\nAlguém tosse no quarto doze.\nAlguém anota.\nEntre uma coisa e outra cabe um mundo —\nmas o mundo aqui é curto,\ntem o tamanho de um relógio de parede.\n\nDo lado de fora a cidade continua\nseu barulho de coisa viva.\nAqui dentro, o que se ouve é o pingo\ncontando o soro,\ngota a gota,\num relógio que não marca hora:\nmarca sobrevida.\n\nDe manhã alguém vai dizer\nque a noite foi tranquila.\nE será verdade.\nE não será."
+                   },
+                   {
+                       "id":  "med-int-t4",
+                       "fonte":  "Reportagem de divulgacao cientifica original escrita para este banco",
+                       "conteudo":  "O CORPO NÃO SABE QUE É TERÇA\n\nDurante muito tempo, o trabalho noturno foi tratado como questão de disposição. Quem não se adaptava, dizia-se, era porque lhe faltava hábito. As últimas décadas de pesquisa em cronobiologia desmontaram esse raciocínio.\n\nO organismo humano opera segundo um relógio interno de período próximo de vinte e quatro horas, ajustado diariamente pela luz. Esse relógio não regula apenas o sono: comanda temperatura corporal, secreção hormonal, pressão arterial e o modo como o corpo processa glicose. Trabalhar à noite não desloca somente o horário de dormir. Desloca tudo isso ao mesmo tempo — e nem todos os sistemas se movem na mesma velocidade.\n\nÉ daí que vem o problema. Uma pessoa em turno noturno pode aprender a dormir de dia, e muitas aprendem. O que ela não consegue é convencer o pâncreas de que aquele é o horário do jantar. Estudos com trabalhadores de escala noturna mostram alterações no metabolismo da glicose que persistem mesmo entre os que relatam dormir bem. O ajuste comportamental acontece; o fisiológico, não inteiramente.\n\nNada disso significa que o trabalho noturno deva acabar. Hospitais não fecham à noite, e não há sociedade moderna sem plantão. Significa que o custo existe, é mensurável e recai sobre um grupo específico de pessoas — e que tratá-lo como falta de disposição é uma forma barata de não pagá-lo.\n\nHá medidas conhecidas: escalas que giram no sentido horário, com folga suficiente entre blocos; controle da exposição à luz nas horas certas; refeições concentradas fora da madrugada. Nenhuma delas elimina o problema. Todas reduzem.\n\nO corpo não sabe que é terça-feira. Ele sabe que é noite, e reage de acordo."
+                   },
+                   {
+                       "id":  "med-int-t5",
+                       "fonte":  "Entrevista ficcional original escrita para este banco",
+                       "conteudo":  "ENTREVISTA — \"NÚMERO NÃO CONVENCE NINGUÉM SOZINHO\"\n\nPesquisadora em comunicação de risco, ela estuda há quinze anos por que informações corretas falham em mudar comportamento.\n\n— A senhora afirma que dar o dado certo não basta. Por quê?\n— Porque o dado chega a uma pessoa que já tem uma história na cabeça. Se eu digo que o risco é de um em dez mil, ela não ouve uma fração. Ela ouve \"pode ser eu\". O número é processado dentro de uma narrativa, e a narrativa é mais antiga que o número.\n\n— Isso não é uma forma de dizer que as pessoas são irracionais?\n— Não, e essa é a parte que mais me incomoda no debate. Perguntar \"pode ser eu?\" é perfeitamente racional para quem decide sobre a própria vida. O erro é do lado de cá: apresentamos o dado como se ele falasse por si e, quando não funciona, culpamos quem ouviu.\n\n— O que funciona, então?\n— Comparação com algo já vivido. Dizer que um risco é semelhante ao de uma viagem de carro que a pessoa faz toda semana diz mais do que qualquer percentual. E, principalmente, admitir o que não se sabe. A frase \"ainda não temos certeza sobre isso\" custa credibilidade no curto prazo e a devolve com juros no médio.\n\n— A senhora não teme que admitir incerteza abra espaço para a desinformação?\n— Temo o contrário. Quem promete certeza sempre perde para quem promete certeza maior. Não dá para vencer nesse jogo, e quem tenta acaba entregando o único terreno em que a ciência é imbatível: o de dizer com precisão o tamanho da própria dúvida.\n\n— Uma recomendação para quem vai comunicar um risco amanhã?\n— Diga o número, diga o que ele não cobre e diga isso na mesma frase. Não separe em parágrafos: quem lê só o primeiro leva a metade errada."
+                   },
+                   {
+                       "id":  "med-int-t6",
+                       "fonte":  "Carta aberta original escrita para este banco",
+                       "conteudo":  "CARTA ABERTA AOS QUE VÃO DECIDIR O HORÁRIO\n\nEscrevo em nome de quem chega às sete.\n\nNão é uma reclamação sobre acordar cedo. Acordar cedo é o de menos, e quem faz esse percurso há anos já não discute com o despertador. É sobre outra coisa: sobre a distância entre a hora marcada no papel e a hora em que a pessoa precisa sair de casa.\n\nEntre a porta de casa e a porta daqui há, para muita gente, duas conduções e uma caminhada. A reunião marcada para as sete começa, na prática, às cinco e meia — e termina, para quem mora longe, depois das oito da noite. Ninguém escreve isso na convocação. A convocação diz apenas \"sete horas\", como se o tempo fosse igual para todos os que vão atendê-la.\n\nSei que há motivos. O turno precisa começar cedo, os leitos não esperam, e adiar o início empurra tudo para o fim do dia. Não estou pedindo que se ignore isso. Estou pedindo que se conte, na hora de decidir, o tempo que não aparece na planilha.\n\nUma reunião às oito custaria, ao serviço, uma hora. Custaria, a quem vem de longe, muito menos que isso — porque a hora que se ganha não é a mesma hora que se perde. Essa assimetria é a única coisa que peço que entre na conta.\n\nNão assino sozinho.\n\nAssino também por quem não escreveria uma carta, por achar que não adianta."
+                   }
+               ],
+    "questoes":  [
+                     {
+                         "id":  "interpretacao-texto-01",
+                         "textoId":  "med-int-t1",
+                         "enunciado":  "A ideia central defendida pelo cronista é a de que:",
+                         "alternativas":  {
+                                              "a":  "os equipamentos de uso coletivo costumam apresentar defeitos recorrentes porque a manutenção preventiva é sistematicamente adiada pelas administrações dos edifícios residenciais",
+                                              "b":  "os moradores de um prédio tendem a resistir a qualquer obra de manutenção que exija rateio de custos entre os condôminos, mesmo quando o problema é reconhecido por todos",
+                                              "c":  "a solução de um defeito pode eliminar, junto com ele, uma forma de convívio que dependia dele",
+                                              "d":  "a convivência entre vizinhos se deteriora quando o espaço compartilhado é reduzido, situação que se agrava nos edifícios em que há um único elevador em funcionamento",
+                                              "e":  "o tempo perdido em pequenas esperas diárias representa, ao longo dos meses, uma perda considerável que justifica plenamente o investimento feito pelo condomínio na reforma"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O texto inteiro caminha para a constatação do penúltimo bloco: consertado o elevador, o cronista percebe que perdeu o comentário da vizinha e o momento compartilhado. A alternativa (e) inverte o argumento — o próprio texto diz que o tempo ganho \"não impressiona ninguém\".",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-02",
+                         "textoId":  "med-int-t1",
+                         "enunciado":  "A frase que encerra a crônica, \"à espera de um botão que não vai acender\", sugere que o narrador:",
+                         "alternativas":  {
+                                              "a":  "mantém, por hábito, uma expectativa que já não tem objeto",
+                                              "b":  "desconfia de que o conserto realizado pelo condomínio tenha sido apenas paliativo e que o defeito voltará a se manifestar dentro de algum tempo de uso normal",
+                                              "c":  "pretende reclamar novamente com o síndico assim que reunir provas suficientes de que a substituição da placa eletrônica não resolveu o problema apontado",
+                                              "d":  "não compreendeu o funcionamento do novo painel instalado e continua tentando acionar um comando que foi desativado durante a reforma do equipamento",
+                                              "e":  "acredita que outros moradores também sentem falta da parada e que em breve o assunto voltará a ser discutido em assembleia pelos condôminos do prédio"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O gesto é de hábito, não de expectativa técnica: ele olha o painel sabendo que a luz não virá. O \"ainda assim\" que abre o período marca a persistência do costume contra o que a razão já sabe. As leituras literais, como (d), desfazem justamente esse efeito.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-03",
+                         "textoId":  "med-int-t1",
+                         "enunciado":  "Ao comparar a parada do elevador a \"esperar o sinal fechar numa esquina conhecida\", o narrador indica que passou a:",
+                         "alternativas":  {
+                                              "a":  "medir com precisão o tempo de cada parada, comparando-o ao intervalo de espera dos semáforos do bairro em que o edifício está localizado",
+                                              "b":  "considerar o defeito um risco à segurança dos moradores, comparável ao de uma travessia mal sinalizada em um cruzamento de grande movimento na cidade",
+                                              "c":  "evitar o uso do elevador nos horários de maior circulação, preferindo trajetos alternativos que lhe permitissem chegar ao andar desejado sem interrupções",
+                                              "d":  "reclamar com maior frequência junto à administração, uma vez que o incômodo se repetia com a mesma regularidade de um semáforo em funcionamento",
+                                              "e":  "tratar o fato como rotina previsível, e não mais como problema"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A comparação vem logo após \"na terceira vez não chamei mais ninguém\", e o que ela traduz é a aceitação: o sinal fechado numa esquina conhecida é chato, mas esperado. É a passagem do defeito à rotina, que prepara toda a virada do texto.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-04",
+                         "textoId":  "med-int-t1",
+                         "enunciado":  "Em \"Houve palmas — poucas, mas houve\", o efeito produzido pelo trecho após o travessão é de:",
+                         "alternativas":  {
+                                              "a":  "ênfase, ao destacar o apoio unânime que a proposta do síndico recebeu por parte dos moradores presentes à assembleia convocada naquela ocasião",
+                                              "b":  "ironia, ao registrar um entusiasmo pequeno demais para o anúncio",
+                                              "c":  "correção, ao retificar uma informação equivocada que o narrador havia fornecido anteriormente sobre a reação do público durante a reunião de condomínio",
+                                              "d":  "dúvida, ao sugerir que o narrador não conseguiu ouvir com clareza o que aconteceu na assembleia por estar posicionado longe da mesa dos organizadores",
+                                              "e":  "explicação, ao esclarecer ao leitor qual foi o procedimento adotado pelo condomínio para aprovar formalmente a realização da obra no equipamento"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A construção concede e retira ao mesmo tempo: houve palmas, mas eram poucas. O narrador registra a comemoração e, no mesmo fôlego, mostra que ela era mínima — recurso típico da crônica para marcar distância bem-humorada do que se narra.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-05",
+                         "textoId":  "med-int-t1",
+                         "enunciado":  "A senhora do sétimo é caracterizada, sobretudo, por:",
+                         "alternativas":  {
+                                              "a":  "uma disposição para organizar os moradores em torno da exigência de reparo, papel que a coloca como principal interlocutora do síndico no episódio",
+                                              "b":  "uma irritação crescente com a demora, manifestada em comentários cada vez mais ácidos à medida que o defeito do equipamento se prolongava sem solução",
+                                              "c":  "uma indiferença completa ao que ocorre no elevador, atitude que a distingue dos demais moradores retratados ao longo da crônica pelo narrador",
+                                              "d":  "uma queixa repetida que soa mais como afeto do que como reclamação",
+                                              "e":  "uma desconfiança em relação ao trabalho do técnico contratado, que ela julgava incapaz de identificar a verdadeira origem do problema do elevador"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O texto é explícito: ela diz \"de novo o quarto\" \"sem raiva, quase com carinho, do jeito que se fala de um parente que chega sempre atrasado\". A comparação com o parente é o que converte a queixa em afeto — e é por isso que o silêncio dela, depois do conserto, pesa tanto.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-06",
+                         "textoId":  "med-int-t1",
+                         "enunciado":  "O par de frases \"O prédio ficou mais eficiente. É o que se pede de um prédio\" cumpre no texto a função de:",
+                         "alternativas":  {
+                                              "a":  "encerrar a argumentação com o elogio à administração do condomínio, que soube atender à demanda dos moradores dentro do prazo previsto e do orçamento aprovado",
+                                              "b":  "reconhecer o ganho objetivo e, ao mesmo tempo, reduzi-lo a uma exigência mínima",
+                                              "c":  "introduzir um novo assunto, deslocando a atenção do leitor do episódio do elevador para uma reflexão mais ampla sobre a qualidade construtiva dos edifícios",
+                                              "d":  "retomar literalmente a fala do síndico durante a assembleia, de modo a atribuir a ele a responsabilidade pela conclusão apresentada no final da crônica",
+                                              "e":  "contradizer o que foi afirmado nos parágrafos anteriores, negando que o narrador tenha efetivamente perdido algo com a realização do conserto do equipamento"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A segunda frase esvazia a primeira. Eficiência deixa de ser conquista e vira o piso do que se espera de um prédio qualquer — pouco, diante do que se perdeu. É a estratégia que permite ao cronista não negar o benefício e ainda assim lamentá-lo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-07",
+                         "textoId":  "med-int-t1",
+                         "enunciado":  "São marcas do gênero crônica presentes no texto:",
+                         "alternativas":  {
+                                              "a":  "a linguagem técnica de especialidade, a impessoalidade do relato e a ausência completa de julgamentos por parte de quem conduz a exposição dos fatos narrados",
+                                              "b":  "a estrutura em tópicos numerados, a citação de fontes especializadas e a apresentação de dados estatísticos que sustentam a tese defendida pelo autor do texto",
+                                              "c":  "o conflito entre personagens bem delimitados, a sucessão de peripécias e o desfecho que restabelece a ordem inicial rompida no início da narrativa apresentada",
+                                              "d":  "o episódio cotidiano, o narrador em primeira pessoa e a reflexão ao final",
+                                              "e":  "o uso sistemático de versos livres, a exploração de recursos sonoros e a construção de imagens por meio de metáforas encadeadas ao longo de todo o texto"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A crônica parte de um fato miúdo do dia a dia, é narrada por um eu que se coloca na cena e termina numa reflexão que excede o episódio. O texto tem as três coisas: a parada do elevador, o \"no meu prédio\" e a conclusão sobre eficiência e convívio.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-08",
+                         "textoId":  "med-int-t1",
+                         "enunciado":  "Ao longo da crônica, a atitude do narrador em relação à parada do elevador evolui de:",
+                         "alternativas":  {
+                                              "a":  "incômodo técnico a observação dos outros e, por fim, a sensação de perda",
+                                              "b":  "indiferença inicial a interesse pela engenharia do equipamento e, ao final, a satisfação com a solução encontrada pela empresa responsável pela manutenção",
+                                              "c":  "curiosidade a irritação crescente e, no desfecho, a decisão de mudar de prédio em busca de um lugar em que os equipamentos funcionem adequadamente",
+                                              "d":  "revolta a conformismo resignado e, por último, ao completo esquecimento do episódio, que deixa de ocupar qualquer espaço em suas preocupações diárias",
+                                              "e":  "entusiasmo pela vida em condomínio a decepção com os vizinhos e, ao final, ao isolamento voluntário em relação às demais pessoas que moram no edifício"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A crônica avança em três tempos: chamar o técnico, reparar nas pessoas, perceber a falta. É essa progressão que dá sentido ao final — sem passar pela fase da observação, a perda não teria como aparecer.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-09",
+                         "textoId":  "med-int-t1",
+                         "enunciado":  "Ao dizer que o tempo ganho \"dá, no fim do mês, um número que não impressiona ninguém\", o narrador:",
+                         "alternativas":  {
+                                              "a":  "sugere que a medição do tempo em ambientes coletivos é sempre imprecisa e que qualquer estimativa apresentada seria contestada por parte dos condôminos",
+                                              "b":  "reconhece que não dispõe de dados precisos para calcular a economia de tempo obtida, motivo pelo qual prefere não apresentar qualquer número ao leitor do texto",
+                                              "c":  "critica a falta de transparência do condomínio, que não divulgou aos moradores os resultados efetivamente alcançados com o investimento realizado no equipamento",
+                                              "d":  "demonstra que os moradores exageraram ao comemorar o anúncio da obra, já que o problema afetava apenas uma parcela reduzida dos usuários do elevador",
+                                              "e":  "antecipa e desarma a objeção de que o conserto trouxe um ganho relevante"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Ele mesmo levanta o argumento contrário — \"o tempo eu ganhei\" — e o esvazia na sequência, mostrando que a soma é irrisória. É um movimento argumentativo dentro de um texto narrativo: conceder o ponto adversário para que a conclusão fique mais firme.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-10",
+                         "textoId":  "med-int-t1",
+                         "enunciado":  "A frase \"A senhora do sétimo desceu e não disse nada\", isolada em parágrafo próprio, produz efeito de:",
+                         "alternativas":  {
+                                              "a":  "resumo, condensando em uma única linha tudo o que havia sido narrado nos parágrafos anteriores sobre o comportamento dos moradores no elevador",
+                                              "b":  "transição, indicando ao leitor que a narrativa passará a tratar de outro morador do edifício e de um episódio diferente daquele apresentado até ali",
+                                              "c":  "destaque, sublinhando um silêncio que marca a mudança ocorrida",
+                                              "d":  "correção, retificando a caracterização da personagem feita anteriormente, que teria sido apresentada de modo impreciso pelo narrador da crônica",
+                                              "e":  "suspense, deixando em aberto se a personagem voltará ou não a se manifestar nos parágrafos seguintes do texto sobre a situação do equipamento"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O parágrafo de uma linha isola o silêncio e o transforma em acontecimento. A personagem que sempre falava a mesma frase agora não fala — e é essa ausência, não uma declaração, que informa o leitor de que algo se perdeu.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-11",
+                         "textoId":  "med-int-t2",
+                         "enunciado":  "A tese defendida no artigo é a de que:",
+                         "alternativas":  {
+                                              "a":  "a revolta manifestada nas salas de espera decorre principalmente da demora excessiva no atendimento, e não do critério adotado para ordenar a fila de pacientes",
+                                              "b":  "a ordem de chegada deveria ser restabelecida como critério de atendimento nos prontos-socorros, já que a triagem por gravidade produz erros com frequência elevada",
+                                              "c":  "os prontos-socorros brasileiros enfrentam uma sobrecarga de demanda que só será resolvida com a ampliação do número de leitos e de profissionais disponíveis",
+                                              "d":  "os pacientes que aguardam atendimento deveriam receber formação prévia sobre os protocolos de classificação de risco antes de procurarem os serviços de urgência",
+                                              "e":  "a triagem por gravidade é legítima, mas precisa ser explicada para se sustentar"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O texto defende a triagem em todo o quarto parágrafo e, ao mesmo tempo, insiste que \"a explicação é o que sustenta a fila\". A alternativa (b) atribui ao autor exatamente a posição que ele rejeita: trocar o risco pela ordem de chegada \"não corrige erro nenhum\".",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-12",
+                         "textoId":  "med-int-t2",
+                         "enunciado":  "O parágrafo iniciado por \"Há quem diga que o sistema falha\" cumpre a função argumentativa de:",
+                         "alternativas":  {
+                                              "a":  "introduzir um dado de pesquisa que comprova a superioridade da triagem por gravidade sobre os demais critérios de ordenação adotados nos serviços de urgência",
+                                              "b":  "apresentar a tese central do artigo, que só é enunciada nesse ponto do texto depois de o autor preparar o leitor com os exemplos apresentados anteriormente",
+                                              "c":  "admitir a objeção adversária e, em seguida, reduzir seu alcance",
+                                              "d":  "abandonar a linha de raciocínio até então desenvolvida, passando a defender a posição contrária àquela sustentada nos primeiros parágrafos do artigo publicado",
+                                              "e":  "encerrar a exposição com um resumo das ideias apresentadas, retomando ponto a ponto os argumentos utilizados pelo autor ao longo de toda a sua explanação"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "É uma concessão: o autor admite a falha, e admite com força — \"falha, e com frequência\". Depois vira o argumento contra quem o levantou, mostrando que erro de triagem pede triagem melhor, não fila por ordem de chegada.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-13",
+                         "textoId":  "med-int-t2",
+                         "enunciado":  "Em \"o corte, esperando, continua sendo um corte. A dor no peito, esperando, pode virar outra coisa\", o paralelismo entre as duas frases serve para:",
+                         "alternativas":  {
+                                              "a":  "demonstrar que os dois quadros clínicos apresentam gravidade equivalente e que a escolha entre eles depende exclusivamente da disponibilidade de profissionais no momento",
+                                              "b":  "isolar a única variável que distingue os dois casos: o que a espera faz com cada um",
+                                              "c":  "sugerir que a avaliação de risco deveria considerar o tempo de permanência do paciente na sala de espera como critério principal para definir a ordem de chamada",
+                                              "d":  "indicar que o ferimento superficial tende a se agravar quando o atendimento demora, ainda que em ritmo mais lento do que o observado nos casos cardiológicos",
+                                              "e":  "reforçar que ambos os pacientes têm direito ao mesmo tratamento e que qualquer distinção entre eles configuraria uma forma de privilégio dentro do serviço"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "As duas frases têm estrutura idêntica e mudam só o desfecho. Repetir a forma e alterar o resultado é o que faz a diferença saltar: o tempo é inofensivo num caso e perigoso no outro, e é exatamente isso que a triagem mede.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-14",
+                         "textoId":  "med-int-t2",
+                         "enunciado":  "A menção à padaria, ao banco e à fila do cinema tem por objetivo:",
+                         "alternativas":  {
+                                              "a":  "estabelecer que a ordem de chegada é o critério mais justo em qualquer situação e que o serviço de saúde constitui uma exceção difícil de justificar perante os usuários",
+                                              "b":  "criticar a ineficiência do atendimento nos serviços comerciais brasileiros, que serviriam de mau exemplo para a organização das filas nos estabelecimentos de saúde",
+                                              "c":  "sugerir que os prontos-socorros deveriam adotar sistemas de senha eletrônica semelhantes aos utilizados pelas agências bancárias para organizar o fluxo de pessoas",
+                                              "d":  "mostrar que o hábito de outra regra é o que torna a triagem contraintuitiva",
+                                              "e":  "ilustrar a diversidade de situações cotidianas em que as pessoas precisam aguardar atendimento, tema que o artigo desenvolverá nos parágrafos seguintes ao introdutório"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O verbo escolhido é \"aprendemos\": a ordem de chegada é regra internalizada. Ao nomear três lugares banais, o autor explica por que a triagem provoca revolta — ela contraria um hábito, não um princípio de justiça.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-15",
+                         "textoId":  "med-int-t2",
+                         "enunciado":  "A frase final, \"É um lugar onde se decide quem pode esperar\", encerra o artigo:",
+                         "alternativas":  {
+                                              "a":  "reformulando a função da fila como decisão, e não como distribuição",
+                                              "b":  "propondo uma solução prática para a redução do tempo médio de permanência dos pacientes nas salas de espera dos serviços de urgência da rede pública",
+                                              "c":  "atribuindo ao paciente a responsabilidade de avaliar a própria gravidade antes de procurar o pronto-socorro, de modo a aliviar a demanda sobre a triagem",
+                                              "d":  "reconhecendo que o sistema atual é insustentável e que precisará ser substituído por outro modelo assim que houver condições orçamentárias para tanto",
+                                              "e":  "retomando literalmente a frase de abertura do texto, recurso que confere circularidade à argumentação desenvolvida ao longo de todos os parágrafos anteriores"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O par de frases opõe \"distribuir atendimento\" a \"decidir quem pode esperar\". A segunda formulação é mais dura e mais exata: a fila não reparte um recurso, ela julga quem aguenta aguardar — e é isso que o texto quis tornar visível.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-16",
+                         "textoId":  "med-int-t2",
+                         "enunciado":  "Segundo o texto, o principal obstáculo à aceitação da triagem pelos pacientes é:",
+                         "alternativas":  {
+                                              "a":  "a invisibilidade do critério para quem está esperando",
+                                              "b":  "a insuficiência do número de profissionais disponíveis nos serviços de urgência, que torna a espera longa demais para ser tolerada por qualquer pessoa adoecida",
+                                              "c":  "a desconfiança generalizada em relação à competência técnica das equipes responsáveis pela classificação de risco nas unidades de pronto atendimento",
+                                              "d":  "a ausência de uma legislação específica que regulamente os critérios de prioridade e estabeleça sanções para os estabelecimentos que os descumprirem",
+                                              "e":  "o desconhecimento, por parte da população, de que existe qualquer forma de classificação anterior ao atendimento propriamente dito nos serviços de urgência"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O terceiro parágrafo é dedicado a isso: \"o paciente vê o vizinho ser chamado e não vê o motivo. Vê a injustiça e não vê a conta que a produziu\". O que falta não é o critério, é a visibilidade dele.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-17",
+                         "textoId":  "med-int-t2",
+                         "enunciado":  "Ao dizer que a ordem de chegada \"apenas distribui o dano de um jeito mais confortável de justificar\", o autor sugere que esse critério:",
+                         "alternativas":  {
+                                              "a":  "representa um avanço em relação aos modelos anteriores de organização das filas, ainda que exija adaptações para funcionar em unidades de grande porte",
+                                              "b":  "produz resultados clínicos equivalentes aos da triagem por gravidade, com a vantagem adicional de ser compreendido sem esforço por todos os usuários do serviço",
+                                              "c":  "elimina a possibilidade de erro humano na classificação, uma vez que dispensa qualquer avaliação técnica por parte da equipe responsável pelo acolhimento",
+                                              "d":  "deve ser adotado nos casos em que a equipe de triagem não dispuser de informação suficiente para estabelecer a prioridade entre os pacientes que aguardam",
+                                              "e":  "não reduz o prejuízo, só o torna mais fácil de defender publicamente"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O advérbio \"apenas\" carrega a frase: a troca de critério não melhora o desfecho de ninguém, só desloca o prejuízo para quem é mais fácil de explicar. O conforto é de quem justifica, não de quem espera.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-18",
+                         "textoId":  "med-int-t2",
+                         "enunciado":  "O exemplo do atendente que fala \"em quinze segundos\" é usado no artigo para:",
+                         "alternativas":  {
+                                              "a":  "criticar a brevidade com que os profissionais costumam se dirigir aos pacientes, atitude que o autor considera insuficiente diante da complexidade do tema tratado",
+                                              "b":  "demonstrar que o tempo dedicado ao acolhimento precisa ser rigorosamente cronometrado para não comprometer o fluxo geral de atendimento na unidade de urgência",
+                                              "c":  "defender a criação de um cargo específico de comunicador dentro das equipes de pronto-socorro, com formação voltada ao relacionamento com familiares e pacientes",
+                                              "d":  "mostrar que a explicação eficaz é barata e pessoal, ao contrário da campanha",
+                                              "e":  "sugerir que os cartazes informativos devem ser substituídos por gravações em áudio reproduzidas periodicamente nas salas de espera das unidades de saúde"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A oposição é entre o cartaz, que \"não produz isso sozinho\", e a frase dita por uma pessoa a outra. O que o exemplo prova é que a legitimidade da fila se constrói no atendimento direto, e que isso custa quinze segundos — não uma campanha.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-19",
+                         "textoId":  "med-int-t2",
+                         "enunciado":  "O artigo se organiza, na ordem, segundo o seguinte encadeamento:",
+                         "alternativas":  {
+                                              "a":  "narração de um caso particular, generalização a partir dele, refutação de teses concorrentes e apelo emocional dirigido diretamente ao leitor do periódico",
+                                              "b":  "apresentação de dados estatísticos, comparação entre países, discussão das causas históricas do fenômeno e formulação de uma recomendação de política pública",
+                                              "c":  "constatação provocativa, explicação do critério, diagnóstico do problema, concessão e proposta",
+                                              "d":  "definição de conceitos técnicos, revisão da literatura especializada disponível sobre o assunto, apresentação de método e discussão dos resultados encontrados",
+                                              "e":  "enumeração de queixas frequentes, atribuição de responsabilidade aos gestores públicos, denúncia de irregularidades e convocação dos leitores à mobilização"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O texto abre com a frase que choca, explica por que ela é verdadeira, aponta o que falha — a invisibilidade —, concede que o sistema erra e termina indicando o que fazer. É a arquitetura clássica do artigo de opinião.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-20",
+                         "textoId":  "med-int-t2",
+                         "enunciado":  "Considerando a argumentação do texto, é possível afirmar que, para o autor, explicar a triagem ao paciente é:",
+                         "alternativas":  {
+                                              "a":  "uma obrigação legal cujo descumprimento deveria acarretar penalidades administrativas aos estabelecimentos de saúde responsáveis pelo atendimento de urgência",
+                                              "b":  "parte do funcionamento do sistema, e não uma gentileza acessória",
+                                              "c":  "uma tarefa que compete exclusivamente aos profissionais de nível superior, únicos capacitados a esclarecer os critérios técnicos empregados na classificação",
+                                              "d":  "um procedimento desejável, porém inviável na prática diante do volume de atendimentos que uma unidade de urgência precisa realizar em um único plantão",
+                                              "e":  "uma estratégia de comunicação institucional que deve ser planejada pelo setor de marketing das unidades hospitalares junto com as campanhas publicitárias"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A frase \"a explicação é o que sustenta a fila\" coloca o esclarecimento dentro do mecanismo, não ao lado dele. Sem explicação, o critério existe mas não se sustenta socialmente — e é essa a razão por que o autor recusa tratá-lo como perda de tempo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-21",
+                         "textoId":  "med-int-t3",
+                         "enunciado":  "No verso \"A luz do corredor não sabe que é noite\", o recurso empregado é:",
+                         "alternativas":  {
+                                              "a":  "a antítese, ao colocar lado a lado duas realidades opostas que se anulam mutuamente ao longo da construção sintática desenvolvida na primeira estrofe",
+                                              "b":  "a hipérbole, ao exagerar a intensidade luminosa do ambiente hospitalar descrito para provocar no leitor uma impressão de desconforto físico diante da cena",
+                                              "c":  "a metonímia, ao substituir o nome do ambiente pelo de um de seus componentes materiais, procedimento que se repete em outras passagens do poema",
+                                              "d":  "a personificação, ao atribuir conhecimento a um objeto",
+                                              "e":  "a onomatopeia, ao reproduzir por meio de sons articulados o ruído contínuo produzido pelos equipamentos elétricos instalados no corredor do hospital"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Saber é ação de quem tem consciência, e o poema a atribui à luz. O verso seguinte insiste: ela é \"sem opinião\". A personificação aqui serve para marcar a indiferença do ambiente ao que acontece dentro dele.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-22",
+                         "textoId":  "med-int-t3",
+                         "enunciado":  "Os dois versos finais, \"E será verdade. / E não será.\", constroem:",
+                         "alternativas":  {
+                                              "a":  "uma gradação, ao intensificar progressivamente a certeza expressa pelo eu lírico a respeito do que será dito na manhã seguinte ao plantão descrito",
+                                              "b":  "um paradoxo, ao afirmar e negar a mesma proposição",
+                                              "c":  "uma hipérbole, ao ampliar de modo desproporcional a importância do relato que será feito pela equipe ao final do turno de trabalho noturno",
+                                              "d":  "uma comparação, ao aproximar duas situações distintas por meio de um elemento comum que as une no fecho da última estrofe do poema apresentado",
+                                              "e":  "uma prosopopeia, ao emprestar voz e intenção a um elemento inanimado do cenário hospitalar retratado ao longo das estrofes anteriores do texto"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A mesma frase — \"a noite foi tranquila\" — é dada como verdadeira e falsa. Verdadeira no registro do plantão, onde nada de grave aconteceu; falsa para quem passou a noite ali. O paradoxo guarda as duas leituras sem escolher entre elas.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-23",
+                         "textoId":  "med-int-t3",
+                         "enunciado":  "Em \"um relógio que não marca hora: / marca sobrevida\", o dois-pontos introduz:",
+                         "alternativas":  {
+                                              "a":  "a citação literal de uma fala pronunciada por um dos profissionais que trabalham no plantão descrito ao longo das estrofes precedentes do texto",
+                                              "b":  "a enumeração dos equipamentos hospitalares presentes no quarto, que o eu lírico passa a descrever um a um a partir desse ponto do poema",
+                                              "c":  "a correção da metáfora anterior, deslocando o que o gotejar mede",
+                                              "d":  "a explicação de um termo técnico empregado anteriormente, cujo sentido poderia não ser conhecido pelo leitor não familiarizado com o ambiente hospitalar",
+                                              "e":  "a conclusão lógica de um raciocínio construído nas estrofes anteriores, encerrando definitivamente a linha argumentativa desenvolvida pelo eu lírico"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O verso primeiro nega — não marca hora — e o dois-pontos abre a substituição: marca sobrevida. A metáfora do relógio é mantida, mas o que ele conta muda de natureza, e é aí que o poema condensa o sentido do plantão.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-24",
+                         "textoId":  "med-int-t3",
+                         "enunciado":  "A oposição entre \"Do lado de fora a cidade continua\" e \"Aqui dentro\" estabelece um contraste entre:",
+                         "alternativas":  {
+                                              "a":  "o rumor da vida comum e a escuta concentrada de um único som",
+                                              "b":  "o tempo cronológico medido pelos relógios da cidade e o tempo psicológico vivido pelos personagens, que se alonga durante toda a extensão do plantão noturno",
+                                              "c":  "o espaço público urbano, marcado pela circulação intensa de pessoas, e o espaço privado da residência do eu lírico, para onde ele retornará pela manhã",
+                                              "d":  "a atividade produtiva que se mantém durante a noite na cidade e a paralisação completa dos serviços no interior do estabelecimento hospitalar descrito",
+                                              "e":  "a indiferença dos que passam pela rua e a solidariedade que se estabelece entre as pessoas reunidas no interior do hospital ao longo daquela madrugada"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Fora há \"barulho de coisa viva\", plural e indistinto; dentro, o que se ouve é um único pingo. O contraste não é entre movimento e parada, e sim entre a dispersão do ruído urbano e a concentração em um som mínimo que mede algo grave.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-25",
+                         "textoId":  "med-int-t3",
+                         "enunciado":  "Quanto à forma, o poema se caracteriza por:",
+                         "alternativas":  {
+                                              "a":  "alexandrinos distribuídos em duas estrofes de igual extensão, arranjo que confere solenidade ao tratamento dado ao tema abordado no texto poético",
+                                              "b":  "estrofes regulares de quatro versos decassílabos com rimas alternadas, estrutura que remete diretamente à tradição do soneto na literatura de língua portuguesa",
+                                              "c":  "redondilha maior sustentada do início ao fim, com rimas emparelhadas que reforçam o caráter narrativo da cena hospitalar apresentada pelo eu lírico",
+                                              "d":  "versos brancos organizados em tercetos, dispostos de modo a produzir um efeito de simetria entre a abertura e o encerramento da composição poética",
+                                              "e":  "versos livres, sem metro fixo nem esquema de rimas"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Basta conferir: os versos variam de duas a onze sílabas e não há coincidência sonora regular nos finais. Verso livre é justamente isso — a estrutura obedece ao ritmo do que se diz, não a um molde prévio.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-26",
+                         "textoId":  "med-int-t3",
+                         "enunciado":  "A repetição de \"Alguém\" no início de dois versos consecutivos sugere:",
+                         "alternativas":  {
+                                              "a":  "a grande quantidade de pessoas que circulam pelo corredor do hospital naquele horário, contrariando a impressão de silêncio construída na estrofe anterior",
+                                              "b":  "a incerteza do eu lírico quanto à identidade dos profissionais de plantão, com quem ele ainda não teve oportunidade de travar contato durante a noite",
+                                              "c":  "o anonimato das pessoas naquele espaço, reduzidas ao que fazem",
+                                              "d":  "a intenção de preservar a privacidade dos pacientes internados, cujos nomes o eu lírico deliberadamente evita mencionar ao longo de toda a composição",
+                                              "e":  "a alternância entre duas vozes distintas que se revezam na condução do poema, recurso que se confirma na mudança de perspectiva da última estrofe"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O pronome indefinido apaga a identidade e deixa só o gesto: um tosse, outro anota. Naquele corredor as pessoas não têm nome, têm função — e a repetição da mesma palavra reforça que poderia ser qualquer um.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-27",
+                         "textoId":  "med-int-t3",
+                         "enunciado":  "Os versos \"o mundo aqui é curto, / tem o tamanho de um relógio de parede\" indicam que, naquele espaço:",
+                         "alternativas":  {
+                                              "a":  "a experiência se estreita e passa a se medir apenas pelo tempo que passa",
+                                              "b":  "as instalações físicas são insuficientes para acomodar adequadamente o número de pacientes atendidos durante os plantões noturnos da unidade hospitalar",
+                                              "c":  "os profissionais dispõem de pouco tempo para realizar cada procedimento, o que compromete a qualidade do cuidado prestado a cada um dos internados",
+                                              "d":  "a decoração do ambiente é escassa e se resume a poucos objetos utilitários, entre os quais se destaca o relógio mencionado no verso final da estrofe",
+                                              "e":  "o eu lírico perdeu a noção das horas ao longo da madrugada e passou a depender do relógio afixado na parede para se orientar temporalmente na cena"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O verso anterior diz que \"entre uma coisa e outra cabe um mundo\", e este o desmente: ali o mundo encolheu. Dar-lhe o tamanho de um relógio é dizer que só resta a passagem do tempo — leitura que o pingo do soro confirma na estrofe seguinte.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-28",
+                         "textoId":  "med-int-t3",
+                         "enunciado":  "A posição do eu lírico no poema é a de quem:",
+                         "alternativas":  {
+                                              "a":  "recorda um episódio ocorrido em passado distante, estabelecendo comparações constantes entre aquele momento e a situação vivida no presente da enunciação",
+                                              "b":  "narra sua própria internação em primeira pessoa, descrevendo as sensações físicas experimentadas ao longo da noite em que permaneceu no leito hospitalar",
+                                              "c":  "julga severamente a conduta da equipe de plantão, cujo desempenho ele considera insuficiente diante da gravidade dos casos atendidos naquela madrugada",
+                                              "d":  "dirige-se diretamente a um interlocutor identificado no texto, a quem procura convencer da necessidade de mudanças no funcionamento do serviço noturno",
+                                              "e":  "observa e escuta de dentro da cena, sem se colocar como protagonista"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Não há \"eu\" explícito em nenhum verso, mas há alguém que ouve o pingo, repara na luz e antecipa o que se dirá de manhã. É uma voz situada dentro do hospital e recuada da ação — condição que dá ao poema seu tom de testemunho.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-29",
+                         "textoId":  "med-int-t3",
+                         "enunciado":  "A expressão \"os que dormem e os que fingem\" sugere que, naquele ambiente:",
+                         "alternativas":  {
+                                              "a":  "os profissionais de plantão se dividem entre os que cumprem suas obrigações e os que aproveitam o turno noturno para descansar às escondidas da chefia",
+                                              "b":  "há quem simule dormir, e a insônia convive com o sono sob a mesma luz",
+                                              "c":  "os pacientes recebem medicação para dormir, ainda que nem todos apresentem resposta adequada ao tratamento prescrito pela equipe responsável pelo caso",
+                                              "d":  "o horário de visitas foi encerrado e os acompanhantes precisam permanecer em silêncio para não perturbar o repouso dos demais internados na mesma ala",
+                                              "e":  "as luzes permanecem acesas por determinação do regulamento interno, o que impede que qualquer pessoa consiga adormecer durante a madrugada no local"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A conjunção coloca dois grupos sob a mesma luz branca: quem dorme e quem finge dormir. O verso não explica por que se finge — deixa ao leitor a inquietação de quem está acordado no escuro fingindo o contrário.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-30",
+                         "textoId":  "med-int-t3",
+                         "enunciado":  "A relação entre o título \"Plantão\" e o corpo do poema é de:",
+                         "alternativas":  {
+                                              "a":  "ironia, pois o título sugere atividade intensa enquanto o texto descreve um ambiente em que absolutamente nada acontece durante toda a noite retratada",
+                                              "b":  "contraposição, uma vez que o título anuncia um tema que o poema recusa a desenvolver, optando por tratar de assunto inteiramente diverso do sugerido",
+                                              "c":  "redundância, já que todos os elementos indicados pelo título são retomados literalmente ao longo dos versos, sem que nada de novo seja acrescentado",
+                                              "d":  "enquadramento, pois é ele que situa a cena e explica a vigília descrita",
+                                              "e":  "ambiguidade, na medida em que o termo escolhido admite dois sentidos distintos que o poema explora alternadamente em cada uma de suas quatro estrofes"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Sem o título, a cena poderia ser qualquer vigília noturna. Com ele, sabe-se que alguém está de serviço, que a noite tem turno e que ela terminará num relato de passagem — o que dá sentido aos versos finais.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-31",
+                         "textoId":  "med-int-t4",
+                         "enunciado":  "A ideia central da reportagem é a de que o trabalho noturno:",
+                         "alternativas":  {
+                                              "a":  "deve ser progressivamente eliminado das atividades de saúde, substituído por sistemas automatizados capazes de operar durante a madrugada sem presença humana",
+                                              "b":  "impõe um custo fisiológico real, que a adaptação de hábitos não anula",
+                                              "c":  "afeta apenas os trabalhadores que não conseguem estabelecer uma rotina regular de sono diurno, grupo que corresponde a uma minoria entre os profissionais de escala",
+                                              "d":  "prejudica principalmente o desempenho cognitivo durante o turno, o que explica a maior taxa de erros observada nos plantões realizados no período da madrugada",
+                                              "e":  "tornou-se menos nocivo nas últimas décadas graças ao avanço das pesquisas em cronobiologia e à adoção de protocolos específicos pelas instituições empregadoras"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O terceiro parágrafo é a chave: muitos aprendem a dormir de dia, mas as alterações no metabolismo da glicose persistem \"mesmo entre os que relatam dormir bem\". Comportamento se ajusta; fisiologia, não inteiramente.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-32",
+                         "textoId":  "med-int-t4",
+                         "enunciado":  "O título da reportagem, retomado no último parágrafo, sintetiza a ideia de que:",
+                         "alternativas":  {
+                                              "a":  "a organização semanal do trabalho é uma convenção recente na história e por isso não encontra correspondência nos mecanismos biológicos de regulação do tempo",
+                                              "b":  "os trabalhadores em escala perdem a noção dos dias da semana em razão da alternância entre turnos diurnos e noturnos ao longo de um mesmo período de trabalho",
+                                              "c":  "as pesquisas em cronobiologia ainda não conseguiram estabelecer com precisão de que modo os dias úteis afetam o funcionamento do relógio biológico humano",
+                                              "d":  "o organismo responde à luz e à escuridão, não ao calendário do trabalho",
+                                              "e":  "o corpo humano precisa de um período de sete dias para completar um ciclo inteiro de adaptação a um novo horário de trabalho estabelecido pela instituição"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O par de frases finais explicita: o corpo não sabe que é terça, \"sabe que é noite, e reage de acordo\". O relógio interno é sincronizado pela luz, e nenhuma escala de trabalho negocia com ele.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-33",
+                         "textoId":  "med-int-t4",
+                         "enunciado":  "A construção \"convencer o pâncreas de que aquele é o horário do jantar\" produz efeito de:",
+                         "alternativas":  {
+                                              "a":  "humor, ao tratar um órgão como interlocutor que precisa ser persuadido",
+                                              "b":  "gravidade, ao alertar o leitor para o risco iminente de desenvolvimento de doenças pancreáticas entre os profissionais que trabalham em regime de plantão noturno",
+                                              "c":  "precisão técnica, ao descrever com rigor o mecanismo hormonal responsável pela regulação da glicemia no período que se segue às refeições noturnas",
+                                              "d":  "impessoalidade, ao evitar qualquer referência ao trabalhador e concentrar a exposição nos processos bioquímicos que ocorrem independentemente da vontade humana",
+                                              "e":  "dúvida, ao sugerir que os pesquisadores ainda não determinaram se o órgão em questão participa efetivamente dos ajustes do relógio biológico interno"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O verbo \"convencer\" pede um interlocutor, e o texto o atribui a um órgão. O efeito é leve, mas o argumento é sério: mostra que a vontade opera sobre o comportamento e não alcança o funcionamento interno.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-34",
+                         "textoId":  "med-int-t4",
+                         "enunciado":  "A distinção entre \"ajuste comportamental\" e \"ajuste fisiológico\" é usada no texto para explicar por que:",
+                         "alternativas":  {
+                                              "a":  "o relato subjetivo dos trabalhadores é mais confiável do que os exames laboratoriais na avaliação do impacto do trabalho noturno sobre a saúde individual",
+                                              "b":  "alguns trabalhadores se adaptam com facilidade ao trabalho noturno enquanto outros jamais conseguem, diferença atribuída a características genéticas de cada indivíduo",
+                                              "c":  "as medidas de organização de escala apresentadas no final do texto conseguem eliminar completamente os riscos associados à atividade profissional noturna",
+                                              "d":  "os estudos sobre trabalho em turnos apresentam resultados contraditórios entre si, o que impede conclusões definitivas sobre os efeitos do horário na saúde",
+                                              "e":  "dormir bem de dia não basta para eliminar o efeito do turno noturno"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A distinção separa o que a pessoa consegue mudar do que não consegue. Dormir de dia é aprendizado possível; o metabolismo da glicose segue alterado. Sem essa separação, o dado do parágrafo — alterações em quem dorme bem — pareceria contraditório.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-35",
+                         "textoId":  "med-int-t4",
+                         "enunciado":  "O parágrafo iniciado por \"Nada disso significa que o trabalho noturno deva acabar\" cumpre a função de:",
+                         "alternativas":  {
+                                              "a":  "refutar os estudos mencionados no parágrafo anterior, cujos resultados o autor considera insuficientes para sustentar qualquer recomendação de política pública",
+                                              "b":  "introduzir o argumento principal da reportagem, que só é apresentado nesse ponto após a exposição preliminar dos mecanismos biológicos envolvidos no processo",
+                                              "c":  "delimitar o alcance da tese, afastando uma conclusão que o leitor poderia tirar",
+                                              "d":  "encerrar a exposição dos dados científicos e iniciar uma seção de caráter opinativo, claramente separada da parte informativa apresentada até aquele momento",
+                                              "e":  "apresentar o ponto de vista das instituições empregadoras, contrastando-o com a posição dos pesquisadores citados ao longo dos parágrafos anteriores do texto"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Quem leu os parágrafos anteriores poderia concluir que o turno noturno deveria ser abolido. O parágrafo bloqueia essa leitura — hospitais não fecham — e redireciona: o ponto não é acabar com o turno, é reconhecer e pagar o custo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-36",
+                         "textoId":  "med-int-t4",
+                         "enunciado":  "A expressão \"uma forma barata de não pagá-lo\" critica a atitude de:",
+                         "alternativas":  {
+                                              "a":  "postergar o pagamento dos adicionais devidos aos trabalhadores noturnos, prática que o texto identifica como recorrente entre os empregadores do setor",
+                                              "b":  "reduzir os salários pagos aos profissionais que trabalham no período noturno, prática que o texto associa à falta de regulamentação específica da categoria",
+                                              "c":  "adotar medidas de baixo custo para a organização das escalas em vez de investir em soluções tecnológicas capazes de reduzir a necessidade de plantões",
+                                              "d":  "contratar profissionais menos experientes para os turnos da madrugada, decisão que as instituições justificam pela dificuldade de preencher essas vagas",
+                                              "e":  "atribuir o desgaste ao indivíduo para não assumir o custo institucional"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O custo existe e alguém arca com ele. Chamá-lo de falta de disposição transfere a conta para o trabalhador sem que a instituição gaste nada — daí \"barata\". A crítica é ao deslocamento da responsabilidade, não a valores em dinheiro.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-37",
+                         "textoId":  "med-int-t4",
+                         "enunciado":  "O par de frases \"Nenhuma delas elimina o problema. Todas reduzem\" caracteriza a postura do texto como:",
+                         "alternativas":  {
+                                              "a":  "otimista, ao afirmar que a combinação adequada das medidas apresentadas é suficiente para neutralizar integralmente os efeitos do trabalho noturno",
+                                              "b":  "pessimista, ao concluir que os esforços de organização das escalas não produzem qualquer benefício mensurável para a saúde dos profissionais envolvidos",
+                                              "c":  "realista, ao recusar tanto a solução completa quanto a inutilidade das medidas",
+                                              "d":  "neutra, ao apresentar as medidas disponíveis sem emitir qualquer avaliação sobre a eficácia relativa de cada uma delas no contexto hospitalar descrito",
+                                              "e":  "irônica, ao sugerir que as recomendações listadas são adotadas apenas para dar aparência de cuidado sem produzir mudança efetiva na rotina dos serviços"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "As duas frases se equilibram: a primeira impede a promessa de cura, a segunda impede o abandono. É a posição que o texto sustenta desde o início — o custo é real, mensurável e administrável, não abolível.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-38",
+                         "textoId":  "med-int-t4",
+                         "enunciado":  "São traços do gênero divulgação científica presentes no texto:",
+                         "alternativas":  {
+                                              "a":  "a apresentação de método experimental, a descrição da amostra utilizada e a discussão dos limites estatísticos dos resultados obtidos pelos pesquisadores",
+                                              "b":  "a referência a estudos, a explicação de mecanismos e a linguagem acessível",
+                                              "c":  "o relato em primeira pessoa de uma experiência vivida pelo autor, acompanhado da reflexão pessoal que esse episódio despertou nele posteriormente",
+                                              "d":  "a defesa explícita de uma posição política, sustentada por dados de conjuntura e pela crítica direta às autoridades responsáveis pelo setor discutido",
+                                              "e":  "a construção de personagens, o desenvolvimento de um conflito e a resolução narrativa apresentada nos parágrafos finais da composição textual"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O texto invoca a pesquisa em cronobiologia e \"estudos com trabalhadores de escala\", explica como o relógio interno funciona e faz isso sem jargão — nem método nem estatística aparecem, porque o gênero é divulgação, não artigo científico.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-39",
+                         "textoId":  "med-int-t4",
+                         "enunciado":  "Segundo o texto, o que a pesquisa em cronobiologia desmontou foi a ideia de que:",
+                         "alternativas":  {
+                                              "a":  "os trabalhadores de escala noturna apresentam maior incidência de distúrbios metabólicos do que aqueles que cumprem jornada exclusivamente diurna",
+                                              "b":  "o sono desempenha papel central na manutenção da saúde, hipótese que os estudos recentes teriam substituído por explicações de natureza estritamente hormonal",
+                                              "c":  "a exposição à luz artificial durante a noite exerce influência sobre o funcionamento do organismo humano ao longo das vinte e quatro horas do dia",
+                                              "d":  "adaptar-se ao turno noturno depende basicamente de força de vontade",
+                                              "e":  "existe um relógio interno responsável por coordenar diversas funções fisiológicas, concepção que teria sido abandonada pelas pesquisas das últimas décadas"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O primeiro parágrafo enuncia a crença antiga — \"questão de disposição\", faltava \"hábito\" — e diz que a pesquisa a desmontou. As alternativas (c) e (e) descrevem justamente o que a cronobiologia sustenta, não o que ela derrubou.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-40",
+                         "textoId":  "med-int-t4",
+                         "enunciado":  "O primeiro parágrafo se organiza segundo a estratégia de:",
+                         "alternativas":  {
+                                              "a":  "expor a crença corrente para, em seguida, anunciar sua refutação",
+                                              "b":  "apresentar o conjunto de dados que serão discutidos ao longo da reportagem, antecipando ao leitor a estrutura de todo o restante da exposição",
+                                              "c":  "definir os termos técnicos que aparecerão nos parágrafos seguintes, de modo a preparar o leitor não especializado para a leitura do conteúdo científico",
+                                              "d":  "narrar um episódio ocorrido com um trabalhador específico, cuja experiência servirá de base para as generalizações desenvolvidas na sequência do texto",
+                                              "e":  "formular perguntas cuja resposta será dada apenas no encerramento, recurso destinado a sustentar o interesse do leitor até o último parágrafo publicado"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Dois períodos apresentam o que \"se dizia\" e o terceiro informa que a pesquisa desmontou o raciocínio. É o movimento clássico de abertura em divulgação científica: nomear o senso comum antes de contrariá-lo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-41",
+                         "textoId":  "med-int-t5",
+                         "enunciado":  "A tese sustentada pela entrevistada é a de que:",
+                         "alternativas":  {
+                                              "a":  "o dado correto só funciona quando entregue junto com o que o cerca",
+                                              "b":  "a população brasileira apresenta baixo nível de letramento estatístico, o que explica a dificuldade de compreensão dos números divulgados pelas autoridades de saúde",
+                                              "c":  "os veículos de comunicação distorcem sistematicamente as informações fornecidas pelos pesquisadores, prática que compromete a credibilidade da ciência junto ao público",
+                                              "d":  "a comunicação de risco deveria ser realizada exclusivamente por profissionais com formação específica na área, e não pelos próprios cientistas responsáveis pelos estudos",
+                                              "e":  "os percentuais são a forma mais adequada de expressar risco, desde que acompanhados de material explicativo distribuído previamente à população interessada"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A entrevistada volta ao ponto três vezes: o número é lido dentro de uma narrativa, precisa de comparação com algo vivido e deve vir acompanhado do que ele não cobre. Nunca diz que o dado é inútil — diz que sozinho ele não opera.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-42",
+                         "textoId":  "med-int-t5",
+                         "enunciado":  "Ao afirmar que \"a narrativa é mais antiga que o número\", a entrevistada quer dizer que:",
+                         "alternativas":  {
+                                              "a":  "a memória das pessoas retém melhor as narrativas do que as cifras, razão pela qual as campanhas deveriam abandonar completamente o uso de dados numéricos",
+                                              "b":  "as histórias transmitidas oralmente entre gerações têm mais valor cultural do que os resultados obtidos por meio de investigação científica sistemática e controlada",
+                                              "c":  "os dados estatísticos passaram a ser utilizados na comunicação pública apenas recentemente, ao passo que o relato de casos é praticado desde a Antiguidade",
+                                              "d":  "os números divulgados costumam se referir a eventos passados e por isso perdem validade no momento em que chegam ao conhecimento do público destinatário",
+                                              "e":  "a pessoa já chega com um quadro de referência que precede a informação nova"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "\"Mais antiga\" não é datação histórica: é anterioridade na cabeça de quem escuta. O dado chega depois e é encaixado numa história que já estava lá — por isso \"um em dez mil\" vira \"pode ser eu\".",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-43",
+                         "textoId":  "med-int-t5",
+                         "enunciado":  "Ao recusar a ideia de que as pessoas seriam irracionais, a entrevistada argumenta que:",
+                         "alternativas":  {
+                                              "a":  "a irracionalidade se manifesta apenas nas decisões coletivas, sendo raro encontrá-la nas escolhas feitas individualmente por pessoas bem informadas",
+                                              "b":  "a racionalidade humana é uma construção cultural que varia conforme o contexto social em que cada indivíduo foi educado ao longo de sua formação escolar",
+                                              "c":  "os estudos disponíveis sobre tomada de decisão não permitem concluir se o comportamento observado é racional ou não nas situações de risco à saúde",
+                                              "d":  "perguntar \"pode ser eu?\" é adequado para quem decide sobre a própria vida",
+                                              "e":  "as pessoas costumam agir de modo racional quando dispõem de tempo suficiente para refletir, o que raramente ocorre nas situações de emergência médica"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Ela desloca o critério: para uma decisão individual, o que importa não é a frequência na população, é a possibilidade de ser o caso. E completa responsabilizando quem comunica — \"o erro é do lado de cá\".",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-44",
+                         "textoId":  "med-int-t5",
+                         "enunciado":  "A expressão \"custa credibilidade no curto prazo e a devolve com juros no médio\" indica que admitir incerteza:",
+                         "alternativas":  {
+                                              "a":  "é uma prática financeiramente onerosa para as instituições de pesquisa, que precisam investir em campanhas de esclarecimento para recuperar sua reputação",
+                                              "b":  "deve ser evitado sempre que houver risco de a informação ser explorada por grupos interessados em desacreditar as recomendações das autoridades sanitárias",
+                                              "c":  "gera perda imediata, compensada por um ganho maior adiante",
+                                              "d":  "produz efeitos equivalentes aos de omitir a informação, já que em ambos os casos o público termina sem saber qual é a extensão real do problema tratado",
+                                              "e":  "só é recomendável quando a dúvida científica é pequena o bastante para não comprometer a orientação prática oferecida à população naquele momento"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A metáfora é financeira e o cálculo é temporal: paga-se agora, recebe-se depois com acréscimo. A entrevistada reconhece o custo — não finge que admitir dúvida seja gratuito — e argumenta que o saldo é favorável.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-45",
+                         "textoId":  "med-int-t5",
+                         "enunciado":  "A frase \"Quem promete certeza sempre perde para quem promete certeza maior\" sustenta a conclusão de que:",
+                         "alternativas":  {
+                                              "a":  "a desinformação circula mais rapidamente que a informação verificada, fenômeno que decorre da própria arquitetura das plataformas digitais contemporâneas",
+                                              "b":  "disputar no terreno da certeza é uma derrota antecipada para a ciência",
+                                              "c":  "os pesquisadores deveriam formular suas conclusões com maior firmeza para competir em condições de igualdade com quem divulga informações falsas",
+                                              "d":  "as promessas feitas durante campanhas de saúde pública raramente se cumprem, o que explica a desconfiança acumulada por parte da população ao longo do tempo",
+                                              "e":  "existe um limite objetivo para o grau de certeza que qualquer afirmação pode alcançar, limite que as pesquisas atuais ainda não conseguiram determinar com precisão"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Se a disputa é por quem promete mais certeza, sempre haverá quem prometa mais. A entrevistada conclui que o terreno é perdido de saída e que a ciência deve jogar onde é imbatível: dizer o tamanho exato da própria dúvida.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-46",
+                         "textoId":  "med-int-t5",
+                         "enunciado":  "A recomendação de comparar um risco a \"uma viagem de carro que a pessoa faz toda semana\" se apoia no pressuposto de que:",
+                         "alternativas":  {
+                                              "a":  "as comparações numéricas entre situações distintas são cientificamente imprecisas, mas se justificam pela facilidade de compreensão que proporcionam ao público",
+                                              "b":  "o transporte rodoviário constitui a atividade cotidiana mais perigosa a que a população está exposta, dado que deveria ser mais amplamente divulgado",
+                                              "c":  "as pessoas subestimam sistematicamente os perigos do trânsito, distorção que precisa ser corrigida antes de qualquer outra comunicação de risco em saúde",
+                                              "d":  "o risco conhecido pela experiência serve de régua para o risco novo",
+                                              "e":  "os deslocamentos semanais são a única referência de risco disponível para a maior parte das pessoas que não têm formação técnica na área de estatística"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A comparação funciona porque o interlocutor já tomou aquela decisão muitas vezes e sabe o que ela lhe parece. O risco novo ganha escala ao ser medido contra um risco que a pessoa já aceitou sem pensar.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-47",
+                         "textoId":  "med-int-t5",
+                         "enunciado":  "A recomendação final de não separar a informação em parágrafos se justifica porque:",
+                         "alternativas":  {
+                                              "a":  "os textos organizados em parágrafos curtos apresentam menor índice de retenção entre leitores que consultam informações de saúde em dispositivos móveis",
+                                              "b":  "quem interrompe a leitura no primeiro parágrafo fica com a metade que engana",
+                                              "c":  "a separação em blocos dificulta a diagramação das peças informativas produzidas pelos veículos de comunicação responsáveis pela divulgação dos dados",
+                                              "d":  "as ressalvas técnicas devem ser suprimidas dos materiais destinados ao público geral, permanecendo restritas às publicações dirigidas a especialistas da área",
+                                              "e":  "a leitura de textos longos exige um tempo de que a maior parte das pessoas não dispõe no momento em que busca orientação sobre um risco de saúde"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A entrevistada é explícita: \"quem lê só o primeiro leva a metade errada\". Se o número vem num parágrafo e a ressalva em outro, a leitura parcial produz uma certeza que o dado não autoriza.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-48",
+                         "textoId":  "med-int-t5",
+                         "enunciado":  "São marcas do gênero entrevista presentes no texto:",
+                         "alternativas":  {
+                                              "a":  "a narração de acontecimentos em ordem cronológica, com indicação precisa de datas e lugares em que cada um dos episódios mencionados ocorreu efetivamente",
+                                              "b":  "a divisão em capítulos temáticos, a presença de notas de rodapé explicativas e a indicação bibliográfica das fontes consultadas ao longo da investigação relatada",
+                                              "c":  "a alternância entre perguntas e respostas e a apresentação prévia do entrevistado",
+                                              "d":  "o uso da terceira pessoa do singular em todo o texto e a ausência de qualquer marca que identifique o responsável pelas afirmações apresentadas ao leitor",
+                                              "e":  "a apresentação de argumentos contrários seguida de refutação ponto a ponto, estrutura que caracteriza os textos de natureza estritamente dissertativa"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O texto abre com uma linha que apresenta a pesquisadora e sua área, e depois alterna travessões de pergunta e resposta. As duas coisas juntas identificam o gênero sem que ele precise ser nomeado.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-49",
+                         "textoId":  "med-int-t5",
+                         "enunciado":  "As perguntas do entrevistador, ao longo do texto, cumprem sobretudo a função de:",
+                         "alternativas":  {
+                                              "a":  "levantar objeções que a entrevistada precisa responder, tensionando a exposição",
+                                              "b":  "resumir para o leitor o que foi dito na resposta anterior, de modo a facilitar o acompanhamento do raciocínio desenvolvido ao longo de toda a conversa",
+                                              "c":  "expressar a posição pessoal do jornalista sobre o tema tratado, que se opõe frontalmente à da pesquisadora entrevistada em todas as passagens do texto",
+                                              "d":  "introduzir dados estatísticos que a entrevistada não menciona, complementando a exposição com informações obtidas em outras fontes consultadas previamente",
+                                              "e":  "conduzir a conversa para assuntos progressivamente mais distantes do tema inicial, estratégia usada para revelar aspectos pessoais da trajetória da pesquisadora"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Duas das cinco perguntas são desafios diretos: \"isso não é uma forma de dizer que as pessoas são irracionais?\" e \"não teme que admitir incerteza abra espaço para a desinformação?\". Elas forçam a entrevistada a defender a posição, e é aí que o argumento se desenvolve.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-50",
+                         "textoId":  "med-int-t5",
+                         "enunciado":  "Ao dizer \"O erro é do lado de cá\", a entrevistada se refere:",
+                         "alternativas":  {
+                                              "a":  "às pessoas que recebem a informação sem dispor de formação suficiente para interpretá-la corretamente no contexto em que ela lhes é apresentada",
+                                              "b":  "ao poder público, responsável por definir as diretrizes das campanhas de esclarecimento dirigidas à população em situações de emergência sanitária declarada",
+                                              "c":  "aos veículos de imprensa, que segundo ela simplificam excessivamente os resultados das pesquisas ao traduzi-los para a linguagem do público não especializado",
+                                              "d":  "aos formuladores de política pública, que estabelecem metas de comunicação sem consultar previamente os especialistas da área de percepção e gestão de risco",
+                                              "e":  "a quem comunica o risco, e não a quem o recebe"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A frase seguinte esclarece o \"lado de cá\": \"apresentamos o dado como se ele falasse por si\". O verbo na primeira pessoa do plural inclui a própria entrevistada entre os responsáveis, o que é o oposto do que diz a alternativa (a).",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-51",
+                         "textoId":  "med-int-t6",
+                         "enunciado":  "O pedido central formulado na carta é o de que se:",
+                         "alternativas":  {
+                                              "a":  "ofereça transporte fretado aos profissionais que residem em regiões distantes, medida que resolveria integralmente o problema apontado ao longo de toda a carta",
+                                              "b":  "elimine definitivamente a realização de reuniões no período da manhã, transferindo todos os encontros institucionais para o final da tarde ou para o início da noite",
+                                              "c":  "considere, na decisão sobre o horário, o tempo de deslocamento de quem vem de longe",
+                                              "d":  "reduza a jornada de trabalho dos profissionais que enfrentam trajetos longos, compensando com folgas adicionais o tempo despendido nos deslocamentos diários",
+                                              "e":  "reconheça publicamente o esforço dos trabalhadores que cumprem horários rígidos, gesto que o autor considera suficiente para melhorar o clima institucional"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O quarto parágrafo formula o pedido em termos exatos: \"que se conte, na hora de decidir, o tempo que não aparece na planilha\". Não se pede supressão do horário nem benefício — pede-se que uma variável entre na conta.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-52",
+                         "textoId":  "med-int-t6",
+                         "enunciado":  "A frase de abertura, \"Escrevo em nome de quem chega às sete\", estabelece que o autor:",
+                         "alternativas":  {
+                                              "a":  "fala como parte de um grupo, e não em causa estritamente própria",
+                                              "b":  "ocupa cargo de representação sindical e por isso está formalmente autorizado a manifestar-se em nome da categoria profissional a que pertencem os trabalhadores",
+                                              "c":  "foi designado pela direção da instituição para redigir um documento que expresse as demandas coletivas levantadas durante as últimas reuniões de equipe",
+                                              "d":  "reside ele próprio a grande distância do local de trabalho e enfrenta diariamente o percurso descrito nos parágrafos seguintes da carta que assina",
+                                              "e":  "escreve com base em relatos que lhe foram transmitidos por colegas, sem ter experimentado pessoalmente a situação que descreve ao longo do documento"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "\"Em nome de\" marca representação, e o fecho confirma — \"não assino sozinho\", \"assino também por quem não escreveria uma carta\". O texto não informa onde o autor mora, o que torna (d) uma suposição sem apoio.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-53",
+                         "textoId":  "med-int-t6",
+                         "enunciado":  "A afirmação de que \"a hora que se ganha não é a mesma hora que se perde\" sustenta a ideia de que:",
+                         "alternativas":  {
+                                              "a":  "as reuniões matinais são menos produtivas do que as realizadas em outros períodos, motivo pelo qual sua manutenção no horário atual não se justifica",
+                                              "b":  "a duração das reuniões costuma exceder o tempo previsto na convocação, o que agrava o problema descrito e prolonga ainda mais a jornada de quem participa delas",
+                                              "c":  "os relógios utilizados para controlar a jornada apresentam divergências entre si, o que gera disputas frequentes sobre o horário efetivo de entrada e de saída",
+                                              "d":  "o tempo dedicado ao trabalho deveria ser remunerado de forma diferente daquele empregado nos deslocamentos, questão que a legislação trabalhista ainda não resolveu",
+                                              "e":  "o mesmo intervalo de tempo tem pesos diferentes para o serviço e para o trabalhador"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O período anterior faz a conta: o serviço perderia uma hora, o trabalhador ganharia muito mais que isso. É essa desproporção que o autor chama de assimetria e que ele pede que seja incorporada à decisão.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-54",
+                         "textoId":  "med-int-t6",
+                         "enunciado":  "O parágrafo iniciado por \"Sei que há motivos\" contribui para a eficácia da carta porque:",
+                         "alternativas":  {
+                                              "a":  "apresenta os dados operacionais que comprovam a inviabilidade de manter o horário atual das reuniões diante da rotina assistencial descrita pelo próprio autor",
+                                              "b":  "mostra que o autor conhece as razões da instituição e não as contesta",
+                                              "c":  "atribui aos gestores a responsabilidade exclusiva pelo problema relatado, estratégia que confere à carta o tom de denúncia adotado em toda a sua extensão",
+                                              "d":  "antecipa a resposta que a instituição provavelmente daria, de modo a esvaziá-la antes que ela chegue a ser formulada por quem receberá o documento",
+                                              "e":  "encerra a parte argumentativa do texto e inicia a seção destinada às reivindicações concretas formuladas pelo conjunto dos trabalhadores representados"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Reconhecer que os leitos não esperam e que adiar empurra tudo para o fim do dia retira da instituição o papel de adversária. A frase \"não estou pedindo que se ignore isso\" desarma a leitura de que a carta seja uma queixa, e é o que a torna difícil de recusar.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-55",
+                         "textoId":  "med-int-t6",
+                         "enunciado":  "Os dois períodos finais, isolados em parágrafos próprios, servem para:",
+                         "alternativas":  {
+                                              "a":  "esclarecer que a carta foi redigida coletivamente por um conjunto de profissionais, cada um responsável por uma parte diferente do conteúdo apresentado nela",
+                                              "b":  "indicar que o documento reuniu assinaturas suficientes para ser protocolado formalmente junto à direção da instituição no prazo estabelecido pelo regimento interno",
+                                              "c":  "advertir que o não atendimento da solicitação levará o grupo a adotar medidas mais enérgicas, cuja natureza permanece deliberadamente indefinida no texto",
+                                              "d":  "ampliar a representatividade do pedido, incluindo quem se cala por descrença",
+                                              "e":  "informar ao destinatário que outras cartas com teor semelhante foram enviadas anteriormente e não receberam qualquer tipo de resposta da administração"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "\"Não assino sozinho\" já ampliaria a base, mas o período seguinte vai além: inclui quem nem escreveria, \"por achar que não adianta\". A carta se apresenta como voz de um silêncio, o que é mais forte do que uma lista de nomes.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-56",
+                         "textoId":  "med-int-t6",
+                         "enunciado":  "O gênero carta aberta se caracteriza, entre outros traços, por:",
+                         "alternativas":  {
+                                              "a":  "circular exclusivamente entre os membros de uma instituição, sem que seu conteúdo seja divulgado a pessoas que não pertençam ao quadro funcional dela",
+                                              "b":  "dirigir-se a um destinatário determinado enquanto se destina à leitura pública",
+                                              "c":  "obedecer a um formato rígido de abertura e fechamento, com fórmulas protocolares definidas pela norma culta e pela tradição da correspondência oficial",
+                                              "d":  "narrar acontecimentos ocorridos com o remetente ao longo de um período determinado, sem que haja qualquer solicitação dirigida a quem a recebe",
+                                              "e":  "apresentar apenas informações objetivas e verificáveis, sem espaço para a manifestação de posição pessoal por parte de quem assina o documento enviado"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O título nomeia um destinatário — \"os que vão decidir o horário\" — mas o texto é escrito para ser lido por todos. É esse duplo endereço que dá à carta aberta sua força: o pedido é feito diante de testemunhas.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-57",
+                         "textoId":  "med-int-t6",
+                         "enunciado":  "A observação de que a convocação diz apenas \"sete horas\", \"como se o tempo fosse igual para todos\", critica:",
+                         "alternativas":  {
+                                              "a":  "a falta de consulta prévia aos trabalhadores sobre o horário mais adequado, procedimento que deveria ser adotado antes de qualquer definição de escala",
+                                              "b":  "a imprecisão da redação empregada nas convocações institucionais, que deveriam especificar com maior detalhe o horário previsto para o encerramento das atividades",
+                                              "c":  "a ausência de tolerância para atrasos nas reuniões matinais, prática que penaliza injustamente os profissionais que dependem do transporte público coletivo",
+                                              "d":  "a aparência de neutralidade de uma regra que atinge as pessoas de modo desigual",
+                                              "e":  "o excesso de reuniões realizadas ao longo da semana, que consome tempo que poderia ser dedicado às atividades assistenciais próprias de cada profissional"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A convocação trata todos igualmente ao marcar uma hora só — e é justamente por isso que ela é desigual: quem mora perto sai às seis e meia, quem mora longe, às cinco e meia. A crítica é ao efeito da regra, não à sua redação.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-58",
+                         "textoId":  "med-int-t6",
+                         "enunciado":  "A estratégia argumentativa predominante na carta consiste em:",
+                         "alternativas":  {
+                                              "a":  "reduzir o pedido ao mínimo necessário, de modo a torná-lo difícil de recusar",
+                                              "b":  "acumular exemplos de situações semelhantes ocorridas em outras instituições, demonstrando que a mudança solicitada já foi adotada com sucesso em diversos lugares",
+                                              "c":  "apelar à sensibilidade do destinatário por meio da descrição detalhada do sofrimento enfrentado pelos trabalhadores durante os deslocamentos diários realizados",
+                                              "d":  "questionar a legitimidade da autoridade que define os horários, apontando a ausência de participação dos trabalhadores nas instâncias de decisão da instituição",
+                                              "e":  "comparar as condições de trabalho atuais com as vigentes em períodos anteriores, evidenciando a deterioração progressiva ocorrida ao longo dos últimos anos"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A carta afasta o que não está pedindo — não é sobre acordar cedo, não é para ignorar os motivos do serviço — até chegar a um pedido pequeno: que uma variável entre na conta. \"Essa assimetria é a única coisa que peço\" é a formulação dessa estratégia.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-59",
+                         "textoId":  "med-int-t6",
+                         "enunciado":  "A expressão \"o tempo que não aparece na planilha\" designa:",
+                         "alternativas":  {
+                                              "a":  "as horas extras trabalhadas ao longo do mês, cuja remuneração costuma ser paga com atraso pela administração responsável pelo pagamento dos servidores",
+                                              "b":  "as atividades assistenciais realizadas fora do horário formal de trabalho, que os profissionais executam sem registro e sem qualquer forma de compensação posterior",
+                                              "c":  "o período de intervalo destinado às refeições, que segundo o autor vem sendo progressivamente reduzido em razão do aumento da demanda por atendimento",
+                                              "d":  "o tempo dedicado às reuniões internas, considerado improdutivo pelo autor quando comparado ao das atividades diretamente ligadas ao cuidado dos pacientes",
+                                              "e":  "as horas de deslocamento, que a instituição não contabiliza como jornada"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O terceiro parágrafo mede esse tempo: duas conduções e uma caminhada, que fazem a reunião das sete começar às cinco e meia. A planilha registra a jornada a partir da chegada; o percurso fica de fora, e é ele que o autor quer contabilizado.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-60",
+                         "textoId":  "med-int-t6",
+                         "enunciado":  "O tom predominante da carta pode ser descrito como:",
+                         "alternativas":  {
+                                              "a":  "resignado e melancólico, revelando que o autor não acredita na possibilidade de obter qualquer resposta favorável ao pedido formulado no documento",
+                                              "b":  "irônico e provocativo, marcado pelo uso constante de figuras de linguagem que ridicularizam as justificativas apresentadas pela administração da instituição",
+                                              "c":  "firme e contido, sem hostilidade em relação ao destinatário",
+                                              "d":  "técnico e impessoal, com predomínio de dados quantitativos e ausência completa de marcas de subjetividade ao longo de todos os parágrafos redigidos",
+                                              "e":  "exaltado e reivindicatório, caracterizado por exigências apresentadas de forma categórica e pela ameaça velada de mobilização coletiva dos trabalhadores"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O autor concede razões à instituição, reduz o pedido ao mínimo e nunca acusa ninguém. Ao mesmo tempo, não recua: nomeia a assimetria e sustenta o pedido até o fim. Firmeza sem hostilidade é exatamente essa combinação.",
+                         "formato":  "direta"
+                     }
+                 ]
+}

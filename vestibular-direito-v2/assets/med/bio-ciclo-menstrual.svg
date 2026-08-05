@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 348" width="640" height="348" role="img" aria-label="Concentracao de FSH, LH, estrogenio e progesterona ao longo de um ciclo de 28 dias, com pico de LH e FSH no dia 14">
+  <style>
+    .eixo  { stroke: #475569; stroke-width: 1.6; fill: none; }
+    .curva { stroke: #0A2540; stroke-width: 2.6; fill: none; stroke-linejoin: round; stroke-linecap: round; }
+    .c2    { stroke: #1E40AF; stroke-width: 2.6; fill: none; stroke-dasharray: 8 5; stroke-linejoin: round; }
+    .c3    { stroke: #0F766E; stroke-width: 2.4; fill: none; stroke-dasharray: 2 4; stroke-linecap: round; }
+    .c4    { stroke: #9A3412; stroke-width: 2.4; fill: none; stroke-dasharray: 12 4 2 4; }
+    .guia  { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 4 4; }
+    .faixa { stroke: #475569; stroke-width: 1.2; }
+    .rot   { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .pto   { fill: #0A2540; }
+    @media (prefers-color-scheme: dark) {
+      .eixo  { stroke: #94A3B8; }
+      .curva { stroke: #E2E8F0; }
+      .c2    { stroke: #60A5FA; }
+      .c3    { stroke: #5EEAD4; }
+      .c4    { stroke: #FDBA74; }
+      .guia  { stroke: #64748B; }
+      .faixa { stroke: #CBD5E1; }
+      .rot, .leg { fill: #E2E8F0; }
+      .pto   { fill: #E2E8F0; }
+    }
+  </style>
+  <path class="eixo" d="M70 30 V260 H590"/>
+  <text class="rot" x="70" y="20" text-anchor="start">concentracao plasmatica</text>
+  <text class="rot" x="330" y="298" text-anchor="middle">dia do ciclo</text>
+  <path class="guia" d="M325 30 V260"/>
+  <text class="leg" x="331" y="44">ovulacao</text>
+  <text class="rot" x="70" y="278" text-anchor="middle">0</text>
+  <text class="rot" x="325" y="278" text-anchor="middle">14</text>
+  <text class="rot" x="580" y="278" text-anchor="middle">28</text>
+  <path class="curva" d="M70 236 L140 228 L230 232 L300 210 L325 196 L350 232 L430 244 L500 240 L580 226"/>
+  <path class="c2" d="M70 246 L200 244 L280 238 L312 190 L325 62 L338 190 L370 240 L470 246 L580 244"/>
+  <path class="c3" d="M70 240 L150 226 L240 176 L300 112 L318 106 L340 178 L390 200 L440 156 L490 150 L540 186 L580 220"/>
+  <path class="c4" d="M70 252 L200 250 L310 248 L350 232 L400 168 L450 108 L490 100 L530 150 L580 226"/>
+  <path class="curva" d="M92 332 h24"/>
+  <text class="leg" x="122" y="332">FSH</text>
+  <path class="c2" d="M186 332 h24"/>
+  <text class="leg" x="216" y="332">LH</text>
+  <path class="c3" d="M276 332 h24"/>
+  <text class="leg" x="306" y="332">estrogenio</text>
+  <path class="c4" d="M400 332 h24"/>
+  <text class="leg" x="430" y="332">progesterona</text>
+</svg>

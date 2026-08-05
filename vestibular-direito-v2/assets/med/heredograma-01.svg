@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 300" width="660" height="300" role="img" aria-label="Heredograma de tres geracoes">
+  <style>
+    /* Carregado via &lt;img&gt;, o SVG nao herda as variaveis da pagina: ele tem
+       o proprio contexto de estilo. Por isso as duas paletas ficam aqui, e a
+       media query e avaliada contra a preferencia do sistema do usuario. */
+    .traco { stroke: #0A2540; stroke-width: 2; fill: none; }
+    .simb  { stroke: #0A2540; stroke-width: 2.5; fill: #ffffff; }
+    .afet  { stroke: #0A2540; stroke-width: 2.5; fill: #0A2540; }
+    .rot   { fill: #475569; font: 600 15px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .traco { stroke: #E2E8F0; }
+      .simb  { stroke: #E2E8F0; fill: none; }
+      .afet  { stroke: #E2E8F0; fill: #E2E8F0; }
+      .rot   { fill: #E2E8F0; }
+      .leg   { fill: #E2E8F0; }
+    }
+  </style>
+
+  <!-- Geracao I: casal nao afetado -->
+  <text class="rot" x="16" y="52">I</text>
+  <rect class="simb" x="231" y="32" width="28" height="28"/>
+  <circle class="simb" cx="325" cy="46" r="14"/>
+  <path class="traco" d="M259 46 H311"/>
+  <path class="traco" d="M285 46 V92 M70 92 H445"/>
+  <path class="traco" d="M70 92 V124 M145 92 V124 M220 92 V124 M295 92 V124 M370 92 V124 M445 92 V124"/>
+
+  <!-- Geracao II: quatro filhas, duas afetadas, e dois filhos nao afetados -->
+  <text class="rot" x="16" y="144">II</text>
+  <circle class="afet" cx="70" cy="138" r="14"/>
+  <circle class="simb" cx="145" cy="138" r="14"/>
+  <circle class="afet" cx="220" cy="138" r="14"/>
+  <circle class="simb" cx="295" cy="138" r="14"/>
+  <rect class="simb" x="356" y="124" width="28" height="28"/>
+  <rect class="simb" x="431" y="124" width="28" height="28"/>
+
+  <!-- O filho mais a direita se casa com pessoa de fora, nao afetada -->
+  <circle class="simb" cx="525" cy="138" r="14"/>
+  <path class="traco" d="M459 138 H511"/>
+  <path class="traco" d="M485 138 V180 M420 180 H550"/>
+  <path class="traco" d="M420 180 V212 M485 180 V212 M550 180 V212"/>
+
+  <!-- Geracao III: afetados de ambos os sexos -->
+  <text class="rot" x="16" y="232">III</text>
+  <rect class="afet" x="406" y="212" width="28" height="28"/>
+  <circle class="afet" cx="485" cy="226" r="14"/>
+  <rect class="simb" x="536" y="212" width="28" height="28"/>
+
+  <!-- Legenda -->
+  <rect class="simb" x="16" y="266" width="18" height="18"/>
+  <circle class="simb" cx="55" cy="275" r="9"/>
+  <text class="leg" x="72" y="280">não afetados</text>
+  <rect class="afet" x="196" y="266" width="18" height="18"/>
+  <circle class="afet" cx="235" cy="275" r="9"/>
+  <text class="leg" x="252" y="280">afetados</text>
+  <rect class="simb" x="356" y="266" width="18" height="18"/>
+  <text class="leg" x="380" y="280">homem</text>
+  <circle class="simb" cx="474" cy="275" r="9"/>
+  <text class="leg" x="491" y="280">mulher</text>
+</svg>

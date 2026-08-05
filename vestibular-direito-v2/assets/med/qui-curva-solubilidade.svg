@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 316" width="640" height="316" role="img" aria-label="Curva de solubilidade do nitrato de potassio: 32 gramas por 100 gramas de agua a 20 graus e 110 gramas a 60 graus">
+  <style>
+    .eixo  { stroke: #475569; stroke-width: 1.6; fill: none; }
+    .curva { stroke: #0A2540; stroke-width: 2.6; fill: none; stroke-linejoin: round; stroke-linecap: round; }
+    .c2    { stroke: #1E40AF; stroke-width: 2.6; fill: none; stroke-dasharray: 8 5; stroke-linejoin: round; }
+    .c3    { stroke: #0F766E; stroke-width: 2.4; fill: none; stroke-dasharray: 2 4; stroke-linecap: round; }
+    .c4    { stroke: #9A3412; stroke-width: 2.4; fill: none; stroke-dasharray: 12 4 2 4; }
+    .guia  { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 4 4; }
+    .faixa { stroke: #475569; stroke-width: 1.2; }
+    .rot   { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .pto   { fill: #0A2540; }
+    @media (prefers-color-scheme: dark) {
+      .eixo  { stroke: #94A3B8; }
+      .curva { stroke: #E2E8F0; }
+      .c2    { stroke: #60A5FA; }
+      .c3    { stroke: #5EEAD4; }
+      .c4    { stroke: #FDBA74; }
+      .guia  { stroke: #64748B; }
+      .faixa { stroke: #CBD5E1; }
+      .rot, .leg { fill: #E2E8F0; }
+      .pto   { fill: #E2E8F0; }
+    }
+  </style>
+  <path class="eixo" d="M70 30 V260 H590"/>
+  <text class="rot" x="70" y="20" text-anchor="start">solubilidade (g / 100 g de agua)</text>
+  <text class="rot" x="330" y="298" text-anchor="middle">temperatura (C)</text>
+  <text class="rot" x="70" y="278" text-anchor="middle">0</text>
+  <text class="rot" x="198" y="278" text-anchor="middle">20</text>
+  <text class="rot" x="326" y="278" text-anchor="middle">40</text>
+  <text class="rot" x="454" y="278" text-anchor="middle">60</text>
+  <text class="rot" x="580" y="278" text-anchor="middle">80</text>
+  <text class="rot" x="62" y="229" text-anchor="end">32</text>
+  <text class="rot" x="62" y="143" text-anchor="end">110</text>
+  <path class="guia" d="M70 224 H198 V260 M70 138 H454 V260"/>
+  <path class="curva" d="M70 246 C126 240 164 232 198 224 C266 208 340 174 454 138 C502 120 546 96 584 72"/>
+  <circle class="pto" cx="198" cy="224" r="4.5"/>
+  <circle class="pto" cx="454" cy="138" r="4.5"/>
+  <text class="leg" x="590" y="60" text-anchor="end">KNO3</text>
+</svg>

@@ -2729,6 +2729,458 @@ window.QUESTION_BANKS = {
                         "resposta":  "e",
                         "explicacao":  "O gás carbônico dissolvido forma ácido carbônico, que libera íons hidrogênio. Esses íons reagem com o carbonato disponível convertendo-o em bicarbonato, e com menos carbonato livre a formação de carbonato de cálcio fica desfavorecida. A alternativa (c) inverte o efeito sobre a concentração de carbonato.",
                         "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-31",
+                        "textoId":  "med-qui-t3",
+                        "enunciado":  "Segundo o texto, a destilação comum não consegue elevar a concentração do etanol acima de cerca de 96% em massa porque, nesse ponto:",
+                        "alternativas":  {
+                                             "a":  "a mistura forma um azeótropo, e vapor e líquido passam a ter a mesma composição",
+                                             "b":  "o etanol começa a se decompor termicamente, o que impede que sua concentração continue a aumentar durante o aquecimento prolongado da mistura",
+                                             "c":  "a temperatura de ebulição da água se iguala à do etanol, o que faz as duas substâncias passarem simultaneamente ao estado de vapor",
+                                             "d":  "a água restante fica ligada quimicamente ao etanol por ligações covalentes, formando um composto que não pode mais ser separado por aquecimento",
+                                             "e":  "o vapor produzido passa a conter apenas água, de modo que o destilado recolhido deixa de contribuir para o aumento do teor alcoólico obtido"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "No azeótropo, a composição do vapor em equilíbrio iguala a do líquido, e cada nova etapa de destilação reproduz a mesma mistura. Não é decomposição nem ligação química: as duas substâncias continuam distintas, apenas deixam de se separar por esse método. O anidro exige uma etapa adicional, como peneira molecular.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-32",
+                        "textoId":  "med-qui-t3",
+                        "enunciado":  "O texto afirma que a vantagem energética da gasolina sobre o etanol cai de forma expressiva quando a comparação passa de mol para grama. Isso ocorre porque:",
+                        "alternativas":  {
+                                             "a":  "a gasolina contém aditivos que reduzem seu poder calorífico quando medido em relação à massa em vez da quantidade de matéria empregada",
+                                             "b":  "o octano tem massa molar bem maior que a do etanol, de modo que um mol de gasolina corresponde a muito mais massa",
+                                             "c":  "a combustão do etanol é sempre completa, enquanto a da gasolina libera parte da energia na forma de monóxido de carbono não aproveitado",
+                                             "d":  "a densidade do etanol é maior que a da gasolina, o que faz um mesmo volume conter mais massa de combustível no caso do álcool hidratado",
+                                             "e":  "as entalpias de combustão informadas no texto se referem a condições de temperatura e pressão diferentes para cada um dos dois combustíveis"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "O octano tem massa molar em torno de 114 g/mol e o etanol, 46 g/mol. Ao dividir a energia liberada pela massa correspondente, a diferença por mol se comprime bastante. É um caso clássico de por que a base de comparação escolhida muda a conclusão sem que nenhum dado esteja errado.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-33",
+                        "texto_apoio":  "Um cilindro contém gás oxigênio a 27 °C e pressão de 5,0 atm, ocupando volume de 12 L. Considere a constante universal dos gases R = 0,082 atm·L·mol⁻¹·K⁻¹.",
+                        "enunciado":  "A quantidade de matéria de oxigênio contida no cilindro é de, aproximadamente:",
+                        "alternativas":  {
+                                             "a":  "0,49 mol",
+                                             "b":  "1,2 mol",
+                                             "c":  "2,4 mol",
+                                             "d":  "7,3 mol",
+                                             "e":  "24 mol"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Pela equação de Clapeyron, n = PV/RT. A temperatura precisa estar em kelvin: 27 °C correspondem a 300 K. Assim n = (5,0 x 12) ÷ (0,082 x 300) = 60 ÷ 24,6 ≈ 2,4 mol. A alternativa (d) resulta de usar a temperatura em graus Celsius, erro que a questão testa deliberadamente.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-34",
+                        "texto_apoio":  "Um anticongelante é adicionado ao radiador de veículos que circulam em regiões de inverno rigoroso. O aditivo é uma substância não volátil e solúvel em água, e sua presença altera as temperaturas em que a mistura muda de estado.",
+                        "enunciado":  "Em relação à água pura, a solução do radiador apresenta:",
+                        "alternativas":  {
+                                             "a":  "menor temperatura de congelamento e maior temperatura de ebulição",
+                                             "b":  "maior temperatura de congelamento e menor temperatura de ebulição, o que amplia a faixa em que o líquido permanece estável no interior do sistema",
+                                             "c":  "menor temperatura de congelamento e menor temperatura de ebulição, propriedades que dependem exclusivamente da natureza química do aditivo",
+                                             "d":  "maior temperatura de congelamento e maior temperatura de ebulição, alterações proporcionais à massa molar da substância adicionada à água",
+                                             "e":  "temperaturas de mudança de estado inalteradas, uma vez que o aditivo não volátil não participa das transições de fase do solvente presente"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "São propriedades coligativas: a presença de soluto não volátil abaixa a pressão de vapor da solução, o que eleva a temperatura de ebulição e reduz a de congelamento. O efeito depende do número de partículas dissolvidas, e não da natureza química do aditivo, o que descarta (c).",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-35",
+                        "texto_apoio":  "Uma curva de solubilidade mostra que o nitrato de potássio dissolve 32 g por 100 g de água a 20 °C e 110 g por 100 g de água a 60 °C. Prepara-se uma solução dissolvendo 90 g do sal em 100 g de água a 60 °C, que depois é resfriada lentamente até 20 °C.",
+                        "enunciado":  "Após o resfriamento, espera-se observar:",
+                        "alternativas":  {
+                                             "a":  "solução insaturada, sem qualquer sólido depositado no fundo do recipiente, já que a massa dissolvida é inferior ao limite a 60 °C",
+                                             "b":  "precipitação de 58 g do sal, restando solução saturada",
+                                             "c":  "precipitação de 90 g do sal, uma vez que a queda de temperatura impede que qualquer quantidade permaneça dissolvida na água disponível",
+                                             "d":  "precipitação de 20 g do sal, quantidade correspondente à diferença entre a massa inicialmente dissolvida e a solubilidade medida a 60 °C",
+                                             "e":  "formação de solução supersaturada estável, que permanece homogênea por tempo indefinido mesmo após a queda acentuada da temperatura"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "A 20 °C a água comporta apenas 32 g. Como havia 90 g dissolvidos, o excedente de 58 g precipita e a solução remanescente fica saturada. A alternativa (a) descreve a situação a 60 °C, antes do resfriamento, e é a distratora que pune quem não acompanha a mudança de temperatura.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-36",
+                        "texto_apoio":  "Considere as equações termoquímicas: C(grafite) + O2(g) → CO2(g), ΔH = −394 kJ/mol; H2(g) + ½ O2(g) → H2O(l), ΔH = −286 kJ/mol; CH4(g) + 2 O2(g) → CO2(g) + 2 H2O(l), ΔH = −890 kJ/mol.",
+                        "enunciado":  "A entalpia de formação do metano, calculada a partir dessas equações pela lei de Hess, é de:",
+                        "alternativas":  {
+                                             "a":  "−76 kJ/mol",
+                                             "b":  "−210 kJ/mol",
+                                             "c":  "+76 kJ/mol",
+                                             "d":  "−1.570 kJ/mol",
+                                             "e":  "+210 kJ/mol"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "A formação do metano é C + 2 H2 → CH4. Somando a primeira equação e o dobro da segunda, e subtraindo a terceira: (−394) + 2(−286) − (−890) = −394 − 572 + 890 = −76 kJ/mol. Trocar o sinal na última etapa produz o valor positivo oferecido em (c).",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-37",
+                        "texto_apoio":  "Uma reação apresenta a equação de velocidade v = k[A][B]², determinada experimentalmente. Um experimento é conduzido e, em seguida, repetido com a concentração de B duplicada e a de A mantida constante.",
+                        "enunciado":  "A ordem global da reação e o efeito da alteração descrita sobre a velocidade são, respectivamente:",
+                        "alternativas":  {
+                                             "a":  "ordem 2, e a velocidade dobra em relação ao experimento original conduzido nas mesmas condições de temperatura e pressão do sistema",
+                                             "b":  "ordem 3, e a velocidade quadruplica",
+                                             "c":  "ordem 3, e a velocidade dobra, uma vez que apenas uma das duas concentrações envolvidas na expressão foi alterada no segundo experimento",
+                                             "d":  "ordem 2, e a velocidade permanece inalterada, já que a soma dos expoentes não se modifica com a variação das concentrações empregadas",
+                                             "e":  "ordem 1 em relação a cada reagente, e a velocidade aumenta oito vezes por efeito combinado dos dois termos presentes na expressão"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "A ordem global é a soma dos expoentes: 1 + 2 = 3. Como B aparece elevado ao quadrado, dobrar sua concentração multiplica a velocidade por 2², ou seja, quadruplica. A alternativa (c) acerta a ordem e aplica o efeito como se o expoente de B fosse 1, que é o erro que a questão testa.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-38",
+                        "texto_apoio":  "O carbonato de cálcio é pouco solúvel em água, com produto de solubilidade da ordem de 5 × 10⁻⁹ a 25 °C. Ele é o principal componente do calcário, do mármore e das conchas de moluscos.",
+                        "enunciado":  "A adição de cloreto de cálcio a uma solução saturada de carbonato de cálcio, em equilíbrio com o sólido, provoca:",
+                        "alternativas":  {
+                                             "a":  "aumento da solubilidade do carbonato, porque a presença de mais íons em solução eleva a força iônica e favorece a dissolução do sólido",
+                                             "b":  "nenhuma alteração no equilíbrio, uma vez que o produto de solubilidade é constante e independe da composição da solução considerada",
+                                             "c":  "dissolução completa do sólido remanescente, em razão da formação de um complexo solúvel entre os íons cálcio adicionados e o carbonato",
+                                             "d":  "aumento do produto de solubilidade, que passa a assumir valor maior em virtude do excesso de íons cálcio presentes no meio aquoso",
+                                             "e":  "diminuição da solubilidade do carbonato, por efeito do íon comum"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "É o efeito do íon comum: aumentar a concentração de cálcio desloca o equilíbrio de dissolução no sentido do sólido, reduzindo a solubilidade do carbonato. O produto de solubilidade permanece constante à mesma temperatura — o que muda é a distribuição entre os íons, e não a constante, o que descarta (d).",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-39",
+                        "texto_apoio":  "Uma solução aquosa apresenta concentração de íons hidrogênio igual a 1,0 × 10⁻³ mol/L a 25 °C. Nessa temperatura, o produto iônico da água vale 1,0 × 10⁻¹⁴.",
+                        "enunciado":  "O pH e o pOH dessa solução são, respectivamente:",
+                        "alternativas":  {
+                                             "a":  "3 e 11",
+                                             "b":  "11 e 3",
+                                             "c":  "3 e 3",
+                                             "d":  "7 e 7",
+                                             "e":  "−3 e 11"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "O pH é o cologaritmo da concentração de íons hidrogênio: pH = 3. Como pH + pOH = 14 a 25 °C, o pOH vale 11. A alternativa (b) inverte os dois valores, e (e) esquece que o cologaritmo já embute a troca de sinal do expoente.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-40",
+                        "texto_apoio":  "Na equação de oxirredução Cr2O7²⁻ + Fe²⁺ + H⁺ → Cr³⁺ + Fe³⁺ + H2O, o dicromato atua como agente oxidante em meio ácido.",
+                        "enunciado":  "O número de oxidação do cromo no íon dicromato e a variação sofrida por átomo de cromo na reação são, respectivamente:",
+                        "alternativas":  {
+                                             "a":  "+6 e redução de três unidades",
+                                             "b":  "+7 e redução de quatro unidades, variação compatível com a quantidade de elétrons transferidos pelos íons ferro presentes no meio reacional",
+                                             "c":  "+3 e oxidação de três unidades, mudança que caracteriza o dicromato como agente redutor da reação descrita no enunciado apresentado",
+                                             "d":  "+6 e oxidação de três unidades, o que explica a coloração alaranjada assumida pela solução ao final do processo de transferência eletrônica",
+                                             "e":  "+12 e redução de nove unidades, valor que corresponde à soma das cargas dos dois átomos de cromo presentes no íon dicromato original"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "No dicromato, com carga total −2 e sete oxigênios em −2 cada, os dois cromos somam +12, logo cada um está em +6. No produto o cromo aparece em +3: variação de três unidades, e como o número diminui, trata-se de redução. Agente oxidante é justamente o que se reduz, o que torna (c) e (d) incoerentes.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-41",
+                        "texto_apoio":  "Uma peça metálica é submetida a galvanoplastia para receber uma camada de prata. A eletrólise é conduzida com corrente de 5,0 A durante 1.930 segundos, em solução contendo íons Ag⁺. Considere a constante de Faraday igual a 96.500 C/mol e a massa molar da prata igual a 108 g/mol.",
+                        "enunciado":  "A massa de prata depositada sobre a peça é de, aproximadamente:",
+                        "alternativas":  {
+                                             "a":  "1,08 g",
+                                             "b":  "5,40 g",
+                                             "c":  "10,8 g",
+                                             "d":  "21,6 g",
+                                             "e":  "54,0 g"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "A carga total é Q = i x t = 5,0 x 1.930 = 9.650 C. Dividindo pela constante de Faraday, obtém-se 0,10 mol de elétrons. Como Ag⁺ recebe um elétron por átomo, formam-se 0,10 mol de prata, ou 10,8 g. A alternativa (d) resulta de supor dois elétrons por íon, carga que a prata não apresenta.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-42",
+                        "texto_apoio":  "Uma figura apresenta a estrutura do ácido lático, molécula presente no leite fermentado e no músculo em esforço intenso. O carbono central da molécula está ligado a quatro grupos diferentes: hidrogênio, metila, hidroxila e carboxila.",
+                        "enunciado":  "A presença desse carbono confere à molécula ______, e as duas formas possíveis são chamadas ______, distinguindo-se por ______. As lacunas são preenchidas por:",
+                        "alternativas":  {
+                                             "a":  "isomeria geométrica – cis e trans – posição dos grupos em relação à dupla ligação",
+                                             "b":  "isomeria de cadeia – normal e ramificada – disposição dos átomos de carbono ao longo do esqueleto principal da molécula considerada",
+                                             "c":  "isomeria óptica – enantiômeros – desviarem o plano da luz polarizada em sentidos opostos",
+                                             "d":  "tautomeria – ceto e enol – migração de um átomo de hidrogênio entre dois sítios da molécula em equilíbrio dinâmico permanente",
+                                             "e":  "isomeria de posição – alfa e beta – localização do grupo hidroxila ao longo da cadeia carbônica principal do composto analisado"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Carbono ligado a quatro grupos diferentes é assimétrico e gera isomeria óptica. As duas formas são imagens especulares não sobreponíveis — enantiômeros — e desviam o plano da luz polarizada em sentidos opostos. Isomeria geométrica exige dupla ligação com substituintes distintos, que não é o caso descrito.",
+                        "formato":  "lacunas",
+                        "banca":  "unesp"
+                    },
+                    {
+                        "id":  "quimica-43",
+                        "texto_apoio":  "O polietileno é obtido a partir do eteno, e o náilon resulta da reação entre uma diamina e um diácido, com liberação de água a cada ligação formada. Ambos são polímeros de grande importância industrial.",
+                        "enunciado":  "Os processos de obtenção do polietileno e do náilon são classificados, respectivamente, como polimerização por:",
+                        "alternativas":  {
+                                             "a":  "condensação e adição, sendo a primeira caracterizada pela ausência de subprodutos ao longo de toda a formação da cadeia polimérica",
+                                             "b":  "adição e condensação",
+                                             "c":  "adição e adição, uma vez que em ambos os casos os monômeros se ligam sucessivamente sem que haja eliminação de qualquer molécula pequena",
+                                             "d":  "condensação e condensação, já que os dois processos envolvem a formação de ligações covalentes entre unidades monoméricas repetidas",
+                                             "e":  "substituição e eliminação, mecanismos que descrevem a forma como os monômeros se incorporam à cadeia em crescimento em cada um dos casos"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "No polietileno, a dupla ligação do eteno se abre e os monômeros se somam sem perda de átomos: polimerização por adição. No náilon, cada ligação amida formada libera uma molécula de água: polimerização por condensação. A alternativa (a) inverte os dois processos e ainda descreve a condensação sem subproduto.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-44",
+                        "texto_apoio":  "Aminoácidos possuem em sua estrutura um grupo amino e um grupo carboxila ligados ao mesmo carbono. Em solução aquosa, dependendo do pH do meio, a molécula pode apresentar carga positiva, negativa ou nula.",
+                        "enunciado":  "A forma em que a molécula apresenta simultaneamente carga positiva e negativa, com carga líquida nula, denomina-se:",
+                        "alternativas":  {
+                                             "a":  "zwitteríon, e predomina em pH próximo ao ponto isoelétrico do aminoácido",
+                                             "b":  "isômero óptico, forma que se estabelece quando o carbono central da molécula se encontra ligado a quatro grupos químicos distintos entre si",
+                                             "c":  "tautômero, resultante da migração reversível de um átomo de hidrogênio entre o grupo amino e o grupo carboxila da mesma molécula",
+                                             "d":  "polímero de condensação, estrutura formada quando duas moléculas de aminoácido se unem com eliminação de uma molécula de água",
+                                             "e":  "complexo de coordenação, arranjo em que os grupos funcionais atuam como ligantes ao redor de um átomo central de caráter metálico"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "No ponto isoelétrico, o grupo carboxila está desprotonado e o amino, protonado: a molécula tem as duas cargas e soma zero. Essa forma dipolar é o zwitteríon, e explica por que aminoácidos são sólidos de alto ponto de fusão e solúveis em água, comportando-se como compostos iônicos.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-45",
+                        "texto_apoio":  "O petróleo bruto é uma mistura complexa de hidrocarbonetos que passa por destilação fracionada em torres industriais. Ao longo da torre, frações são recolhidas em alturas diferentes: gases no topo, gasolina e querosene em posições intermediárias, e óleos pesados e resíduo na base.",
+                        "enunciado":  "A separação nessa ordem se explica porque, do topo para a base da torre, as frações apresentam:",
+                        "alternativas":  {
+                                             "a":  "densidades semelhantes entre si, sendo a separação determinada apenas pela ordem em que cada fração é injetada no interior da torre industrial",
+                                             "b":  "cadeias carbônicas progressivamente menores e temperaturas de ebulição mais baixas, o que faz as frações leves se depositarem no fundo da coluna",
+                                             "c":  "cadeias carbônicas progressivamente maiores e temperaturas de ebulição mais altas",
+                                             "d":  "polaridades crescentes, o que faz as frações mais polares se condensarem primeiro nas regiões superiores da coluna de fracionamento utilizada",
+                                             "e":  "massas molares idênticas, diferindo apenas quanto ao grau de ramificação das cadeias carbônicas presentes em cada uma das frações obtidas"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Cadeias maiores têm mais superfície de contato e forças de dispersão mais intensas, o que eleva a temperatura de ebulição. Na torre, cada fração condensa na altura em que a temperatura corresponde ao seu ponto de ebulição: as pesadas ficam embaixo, onde está mais quente, e as leves sobem.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-46",
+                        "texto_apoio":  "Um esquema representa a reação entre o gás cloro e o metano sob luz ultravioleta, produzindo clorometano e cloreto de hidrogênio. Outra reação, entre o eteno e o gás cloro, produz 1,2-dicloroetano sem qualquer subproduto.",
+                        "enunciado":  "As duas reações orgânicas descritas são classificadas, respectivamente, como:",
+                        "alternativas":  {
+                                             "a":  "adição e substituição, sendo a primeira característica de compostos saturados que possuem apenas ligações simples entre seus carbonos",
+                                             "b":  "substituição e adição",
+                                             "c":  "eliminação e adição, processos que se distinguem pela presença ou ausência de insaturações na cadeia carbônica do reagente de partida",
+                                             "d":  "substituição e eliminação, mecanismos que envolvem, em ambos os casos, a saída de átomos originalmente ligados à cadeia principal",
+                                             "e":  "oxidação e redução, classificação que decorre da variação do número de oxidação dos átomos de carbono envolvidos em cada uma das reações"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "No metano, saturado, um hidrogênio é trocado por cloro e sai como cloreto de hidrogênio: substituição. No eteno, a dupla ligação se abre e os dois cloros se incorporam sem que nada saia: adição. A presença ou ausência de subproduto é o sinal mais direto para distinguir os dois mecanismos.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-47",
+                        "texto_apoio":  "Uma amostra contém dois isótopos de um elemento: o isótopo de massa 35 u, com abundância de 75%, e o de massa 37 u, com abundância de 25%.",
+                        "enunciado":  "A massa atômica média do elemento e o que diferencia os dois isótopos são, respectivamente:",
+                        "alternativas":  {
+                                             "a":  "72,0 u, e eles diferem tanto no número de prótons quanto no de nêutrons presentes no núcleo de cada uma das espécies analisadas",
+                                             "b":  "36,0 u, e eles diferem no número de prótons presentes no núcleo, o que altera a posição de cada um deles na tabela periódica dos elementos",
+                                             "c":  "35,5 u, e eles diferem no número de elétrons da camada de valência, o que explica as diferentes propriedades químicas apresentadas",
+                                             "d":  "36,0 u, e eles diferem no número de nêutrons, embora essa diferença não afete a massa total do átomo de forma mensurável em laboratório",
+                                             "e":  "35,5 u, e eles diferem no número de nêutrons"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "A média ponderada é (35 x 0,75) + (37 x 0,25) = 26,25 + 9,25 = 35,5 u. Isótopos têm o mesmo número atômico e diferem no número de nêutrons — se diferissem em prótons seriam elementos distintos, o que torna (b) e (a) incoerentes com a própria definição.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-48",
+                        "texto_apoio":  "O efeito estufa é um fenômeno natural sem o qual a temperatura média da Terra seria muito inferior à atual. Alguns gases da atmosfera absorvem radiação infravermelha emitida pela superfície terrestre e a reemitem em todas as direções, incluindo de volta ao solo.",
+                        "enunciado":  "Entre os gases listados, aquele que NÃO contribui significativamente para o efeito estufa é:",
+                        "alternativas":  {
+                                             "a":  "o metano, cujo potencial de aquecimento por molécula supera bastante o do gás carbônico ao longo de um horizonte de vinte anos",
+                                             "b":  "o vapor de água, presente na atmosfera em concentração muito superior à dos demais gases capazes de absorver radiação infravermelha",
+                                             "c":  "o óxido nitroso, liberado sobretudo por atividades agrícolas ligadas ao uso intensivo de fertilizantes nitrogenados em larga escala",
+                                             "d":  "o gás carbônico, cuja concentração atmosférica vem crescendo desde a Revolução Industrial em razão da queima de combustíveis fósseis",
+                                             "e":  "o gás nitrogênio, molécula diatômica apolar que não absorve radiação infravermelha"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "Absorver infravermelho exige que a vibração da molécula altere seu momento de dipolo. Moléculas diatômicas homonucleares como N2 e O2 não têm essa propriedade e são transparentes a essa faixa, apesar de comporem 99% da atmosfera. Os demais gases citados são, todos, gases de efeito estufa reconhecidos.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-49",
+                        "texto_apoio":  "O ferro é obtido industrialmente em alto-forno, a partir da hematita (Fe2O3), com uso de carvão coque e calcário. O monóxido de carbono formado no processo reage com o óxido de ferro, liberando o metal.",
+                        "enunciado":  "Na reação Fe2O3 + 3 CO → 2 Fe + 3 CO2, o agente redutor e a espécie que sofre redução são, respectivamente:",
+                        "alternativas":  {
+                                             "a":  "o coque e o oxigênio atmosférico injetado, par que responde diretamente pela transferência de elétrons observada durante o processo descrito",
+                                             "b":  "a hematita e o carbono do monóxido, uma vez que é o carbono que apresenta aumento do seu número de oxidação ao longo de toda a transformação",
+                                             "c":  "o ferro metálico e o gás carbônico formado, espécies em que os elementos atingem seus estados de oxidação mais estáveis nas condições do forno",
+                                             "d":  "o calcário adicionado e o oxigênio presente na hematita, que se combinam formando escória e liberando o metal em estado de pureza elevada",
+                                             "e":  "o monóxido de carbono e o ferro do óxido"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "O carbono passa de +2 no monóxido para +4 no gás carbônico: oxida, e por isso o monóxido é o agente redutor. O ferro passa de +3 no óxido para zero no metal: reduz. A alternativa (b) inverte os papéis, trocando quem oxida por quem se reduz — a confusão mais comum nesse tipo de item.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-50",
+                        "texto_apoio":  "Um indicador ácido-base é um ácido fraco cuja forma molecular e cuja forma ionizada apresentam cores diferentes. A fenolftaleína é incolor em meio ácido e rosa em meio básico, com faixa de viragem entre pH 8,2 e 10,0.",
+                        "enunciado":  "A fenolftaleína é adequada para indicar o ponto final da titulação de:",
+                        "alternativas":  {
+                                             "a":  "base forte com ácido forte apenas quando a titulação é conduzida em temperatura muito acima da ambiente, condição que desloca a faixa de viragem",
+                                             "b":  "qualquer par ácido-base, uma vez que a mudança de cor ocorre exatamente no ponto em que as quantidades de ácido e base se igualam",
+                                             "c":  "ácido fraco com base fraca apenas, pois nesse caso o ponto de equivalência coincide com a faixa de viragem informada no enunciado",
+                                             "d":  "ácido forte com base forte, mas não de ácido forte com base fraca, cujo ponto de equivalência ocorre em pH ácido",
+                                             "e":  "ácido forte com base fraca, situação em que o sal formado sofre hidrólise e eleva o pH da solução para dentro da faixa de viragem"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "O indicador precisa virar próximo ao ponto de equivalência. Ácido forte com base forte equivale em pH 7, e a faixa da fenolftaleína, iniciando em 8,2, ainda é aceitável. Ácido forte com base fraca equivale em pH ácido, muito abaixo da faixa, e exigiria outro indicador — o metilorange, por exemplo.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-51",
+                        "texto_apoio":  "Uma amostra de 4,6 g de um composto orgânico contém 2,4 g de carbono, 0,6 g de hidrogênio e o restante de oxigênio. Sua massa molar é 46 g/mol. Considere as massas molares: C = 12, H = 1 e O = 16 g/mol.",
+                        "enunciado":  "As fórmulas mínima e molecular do composto são, respectivamente:",
+                        "alternativas":  {
+                                             "a":  "C2H6O e C4H12O2",
+                                             "b":  "CH3O e C2H6O2",
+                                             "c":  "CH2O e C2H4O2",
+                                             "d":  "C2H6O e C2H6O",
+                                             "e":  "CHO e C2H2O2"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "As quantidades são 0,2 mol de C, 0,6 mol de H e 1,6 g de O, que dão 0,1 mol. A proporção 2:6:1 já é a fórmula mínima C2H6O, cuja massa é 46 g/mol — igual à massa molar informada. Logo mínima e molecular coincidem, e o composto é o etanol.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-52",
+                        "texto_apoio":  "Um esquema mostra três recipientes fechados de mesmo volume, à mesma temperatura, contendo respectivamente gás hélio, gás nitrogênio e gás carbônico. Todos apresentam o mesmo número de moléculas.",
+                        "enunciado":  "Nessas condições, os três recipientes apresentam:",
+                        "alternativas":  {
+                                             "a":  "pressões proporcionais às massas molares, de modo que o recipiente com gás carbônico apresenta a maior pressão entre os três analisados",
+                                             "b":  "a mesma pressão e as mesmas massas, uma vez que o número de partículas é idêntico nos três recipientes considerados no enunciado",
+                                             "c":  "pressões diferentes e massas iguais, resultado da diferença entre as massas molares das três substâncias gasosas presentes nos frascos",
+                                             "d":  "a mesma pressão e massas diferentes",
+                                             "e":  "pressões diferentes e volumes molares distintos, condição que decorre das diferentes forças intermoleculares atuantes em cada um dos gases"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "Pela equação dos gases ideais, a pressão depende de quantidade de matéria, volume e temperatura — todos iguais aqui —, e não da identidade do gás. Já a massa depende da massa molar, que difere entre hélio, nitrogênio e gás carbônico. É a hipótese de Avogadro aplicada a um caso concreto.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-53",
+                        "texto_apoio":  "Uma solução de permanganato de potássio é adicionada gota a gota a uma solução contendo íons ferro(II) em meio ácido. A coloração violeta do permanganato desaparece à medida que as gotas são adicionadas, até que passa a persistir.",
+                        "enunciado":  "O desaparecimento da cor violeta durante a adição indica que o permanganato está:",
+                        "alternativas":  {
+                                             "a":  "sofrendo decomposição térmica em razão do calor liberado pela mistura das duas soluções, processo que consome o reagente adicionado",
+                                             "b":  "sendo oxidado pelos íons ferro(II) presentes, que atuam como agentes oxidantes e se reduzem à forma metálica ao longo da titulação conduzida",
+                                             "c":  "precipitando na forma de óxido de manganês insolúvel, o que retira a espécie colorida da solução e explica o desaparecimento gradual da cor",
+                                             "d":  "sendo reduzido pelos íons ferro(II), que se oxidam a ferro(III)",
+                                             "e":  "sendo diluído pelo volume crescente da solução, o que reduz sua concentração abaixo do limite de percepção visual da coloração violeta"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "O permanganato é oxidante forte e, em meio ácido, reduz-se a Mn²⁺, praticamente incolor — daí o desaparecimento da cor. Os íons ferro(II) são o redutor e passam a ferro(III). Quando todo o ferro é consumido, a gota seguinte não reage e a cor persiste, sinalizando o ponto final.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-54",
+                        "texto_apoio":  "A glicose, a sacarose e o amido são carboidratos de importância biológica. A primeira é um monossacarídeo; a segunda resulta da união de glicose e frutose; o terceiro é um polímero de glicose usado como reserva energética em vegetais.",
+                        "enunciado":  "A sacarose é classificada como ______, sua formação a partir dos monossacarídeos envolve ______, e a ligação estabelecida entre as unidades chama-se ______. As lacunas são preenchidas por:",
+                        "alternativas":  {
+                                             "a":  "polissacarídeo – hidrólise – peptídica",
+                                             "b":  "dissacarídeo – condensação com liberação de água – glicosídica",
+                                             "c":  "monossacarídeo – oxidação – éster",
+                                             "d":  "dissacarídeo – hidrólise com consumo de água – peptídica",
+                                             "e":  "polissacarídeo – condensação com liberação de água – glicosídica formada entre grupos amino de unidades vizinhas"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "Duas unidades de monossacarídeo formam um dissacarídeo. A união libera uma molécula de água — condensação — e cria a ligação glicosídica. A hidrólise é o caminho inverso, o que ocorre na digestão. Ligação peptídica une aminoácidos, e não açúcares, distinção que a questão testa.",
+                        "formato":  "lacunas",
+                        "banca":  "santacasa"
+                    },
+                    {
+                        "id":  "quimica-55",
+                        "texto_apoio":  "Uma tabela apresenta a distribuição eletrônica de quatro átomos neutros no estado fundamental: o átomo I termina em 3s²; o átomo II, em 3s²3p⁵; o átomo III, em 3s²3p⁶; e o átomo IV, em 4s¹.",
+                        "enunciado":  "Os átomos que apresentam maior tendência a formar cátion e ânion, respectivamente, e a razão dessa tendência são:",
+                        "alternativas":  {
+                                             "a":  "I e III, porque a proximidade de ambos em relação à configuração de gás nobre determina o comportamento químico observado em cada caso",
+                                             "b":  "II e IV, porque o primeiro apresenta menor energia de ionização entre os quatro átomos considerados na tabela apresentada no enunciado",
+                                             "c":  "III e I, porque a configuração completa do terceiro favorece a perda de elétrons e a do primeiro favorece o ganho de elétrons adicionais",
+                                             "d":  "IV e II, porque o primeiro perde um elétron com facilidade e o segundo completa o octeto ao ganhar um",
+                                             "e":  "IV e III, porque o quarto átomo apresenta apenas um elétron na camada de valência e o terceiro precisa de mais um para completar o octeto"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "O átomo IV tem um elétron isolado na camada mais externa e o perde com facilidade, formando cátion. O átomo II tem sete elétrons de valência e ganha um para completar o octeto, formando ânion. O átomo III já tem o octeto completo e é quimicamente inerte, o que descarta (c) e (e).",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-56",
+                        "texto_apoio":  "Um recipiente fechado contém o equilíbrio 2 NO2(g) ⇌ N2O4(g), com variação de entalpia negativa no sentido direto. O dióxido de nitrogênio é castanho e o tetróxido é incolor. O recipiente é mergulhado em banho de gelo.",
+                        "enunciado":  "Após o resfriamento, espera-se que a mistura no recipiente:",
+                        "alternativas":  {
+                                             "a":  "escureça, porque a queda de temperatura desloca o equilíbrio no sentido do gás castanho, que absorve calor ao ser formado no processo",
+                                             "b":  "clareie, porque o gelo condensa parte do dióxido de nitrogênio na parede do recipiente e reduz sua concentração na fase gasosa remanescente",
+                                             "c":  "mantenha a coloração original, uma vez que a temperatura não interfere na posição de equilíbrios que envolvem apenas substâncias gasosas",
+                                             "d":  "escureça, porque a redução da temperatura diminui a pressão interna e favorece o lado com maior número de mols de gás presente no sistema",
+                                             "e":  "clareie, porque o resfriamento desloca o equilíbrio no sentido exotérmico, o da formação do tetróxido"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "Retirar calor desloca o equilíbrio no sentido que libera calor, o exotérmico — aqui, o da formação do tetróxido incolor. A mistura clareia. A alternativa (a) acerta o princípio e erra o sentido, atribuindo ao lado castanho a liberação de calor que o enunciado atribui ao lado oposto.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-57",
+                        "texto_apoio":  "Um laboratório precisa preparar 500 mL de solução aquosa de hidróxido de sódio de concentração 0,20 mol/L a partir do reagente sólido. A massa molar do hidróxido de sódio é 40 g/mol.",
+                        "enunciado":  "A massa de hidróxido de sódio a ser pesada é de:",
+                        "alternativas":  {
+                                             "a":  "2,0 g",
+                                             "b":  "40 g",
+                                             "c":  "8,0 g",
+                                             "d":  "20 g",
+                                             "e":  "4,0 g"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "A quantidade de matéria necessária é 0,20 mol/L x 0,500 L = 0,10 mol. Multiplicando pela massa molar: 0,10 x 40 = 4,0 g. A alternativa (c) resulta de usar o volume como se fosse 1 L, e (a), de dividir em vez de multiplicar pela massa molar.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-58",
+                        "texto_apoio":  "Uma reportagem descreve o descarte inadequado de pilhas e baterias, cujos componentes incluem metais como cádmio, chumbo e mercúrio. Esses elementos podem atingir o solo e os corpos d\u0027água a partir de resíduos não destinados corretamente.",
+                        "enunciado":  "O principal risco associado a esses metais em ecossistemas aquáticos decorre de eles:",
+                        "alternativas":  {
+                                             "a":  "se decomporem rapidamente em compostos gasosos que se dispersam na atmosfera e retornam ao solo com a precipitação pluviométrica local",
+                                             "b":  "serem biodegradados por bactérias do sedimento em substâncias inertes, processo que consome grandes quantidades de oxigênio dissolvido",
+                                             "c":  "não serem degradados e se acumularem nos tecidos, concentrando-se ao longo da cadeia alimentar",
+                                             "d":  "elevarem o pH da água a valores incompatíveis com a sobrevivência das espécies aquáticas presentes nos corpos hídricos atingidos",
+                                             "e":  "reagirem com a matéria orgânica dissolvida formando complexos insolúveis que sedimentam e ficam permanentemente indisponíveis aos organismos"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Elementos químicos não se degradam: um metal pesado permanece indefinidamente no ambiente. Sendo mal excretados e lipossolúveis em suas formas orgânicas, acumulam-se nos tecidos e se concentram a cada nível trófico. É o mesmo mecanismo da magnificação trófica do mercúrio em peixes predadores.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-59",
+                        "texto_apoio":  "Um esquema apresenta quatro substâncias e suas interações intermoleculares predominantes no estado líquido: a substância I interage por ligações de hidrogênio; a II, por dipolo permanente; a III, por forças de dispersão de London; a IV é um composto iônico fundido.",
+                        "enunciado":  "A ordem crescente esperada para as temperaturas de ebulição, considerando substâncias de massas molares comparáveis, é:",
+                        "alternativas":  {
+                                             "a":  "II \u003c III \u003c I \u003c IV, arranjo em que as forças de dispersão superam o efeito do dipolo permanente na determinação do ponto de ebulição",
+                                             "b":  "I \u003c II \u003c III \u003c IV, sequência que acompanha a ordem crescente do número de elétrons disponíveis em cada uma das substâncias consideradas",
+                                             "c":  "IV \u003c I \u003c II \u003c III, ordenação que reflete a intensidade decrescente das forças eletrostáticas atuantes entre as partículas de cada substância",
+                                             "d":  "III \u003c II \u003c I \u003c IV",
+                                             "e":  "I \u003c III \u003c II \u003c IV, disposição que decorre da polaridade crescente das moléculas ao longo da série de substâncias apresentada no esquema"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "Para massas molares comparáveis, a ordem de intensidade é dispersão \u003c dipolo permanente \u003c ligação de hidrogênio, e interações iônicas superam todas as intermoleculares. Quanto mais intensa a interação, mais energia é preciso fornecer para separar as partículas, e maior a temperatura de ebulição.",
+                        "formato":  "direta"
+                    },
+                    {
+                        "id":  "quimica-60",
+                        "texto_apoio":  "O soro fisiológico é uma solução aquosa de cloreto de sódio a 0,9% em massa por volume, usada em procedimentos médicos por ser isotônica em relação ao plasma sanguíneo.",
+                        "enunciado":  "Se hemácias forem colocadas em água destilada em vez de soro fisiológico, espera-se que elas:",
+                        "alternativas":  {
+                                             "a":  "murchem, porque a água sai da célula em direção ao meio externo de menor concentração de solutos dissolvidos no líquido circundante",
+                                             "b":  "permaneçam inalteradas, uma vez que a membrana plasmática é impermeável à água e impede qualquer fluxo entre a célula e o meio",
+                                             "c":  "inchem e possam se romper, porque a água entra por osmose no meio hipotônico",
+                                             "d":  "liberem cloreto de sódio para o meio até que as concentrações se igualem dos dois lados da membrana plasmática que as delimita",
+                                             "e":  "aumentem sua densidade interna, o que provoca sua sedimentação rápida no fundo do recipiente utilizado durante o experimento descrito"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Água destilada é hipotônica em relação ao citoplasma: a água entra por osmose, a célula incha e pode sofrer hemólise. É exatamente por isso que soluções injetáveis precisam ser isotônicas. A alternativa (a) descreve o que ocorreria em meio hipertônico, situação inversa à do enunciado.",
+                        "formato":  "direta"
                     }
                 ]
 };
@@ -2762,5 +3214,10 @@ window.QUESTION_TEXTS = {
                        "id":  "med-qui-t2",
                        "fonte":  "Texto original em genero de reportagem sobre quimica de medicamentos",
                        "conteudo":  "O ácido acetilsalicílico foi sintetizado pela primeira vez no fim do século XIX a partir do ácido salicílico, extraído da casca do salgueiro e conhecido desde a Antiguidade por seu efeito contra a dor e a febre. O problema do composto original era a agressão à mucosa do estômago, e a acetilação do grupo hidroxila fenólico atenuou justamente isso.\n\nA molécula resultante tem duas funções orgânicas com oxigênio: um grupo carboxila, que lhe dá caráter ácido, e um grupo éster formado na acetilação. Essa combinação explica seu comportamento no organismo. No estômago, em pH próximo de 2, o grupo carboxila permanece majoritariamente na forma não ionizada, que atravessa membranas com facilidade. No intestino delgado, com pH acima de 6, ele se ioniza e a absorção pela via passiva diminui.\n\nA função éster é o ponto frágil da molécula. Em presença de água, sobretudo em meio úmido e quente, ela sofre hidrólise e regenera o ácido salicílico e o ácido acético — daí o cheiro de vinagre em comprimidos velhos ou mal armazenados. É por isso que a embalagem precisa proteger da umidade, e não apenas da luz.\n\nO comprimido comum contém quinhentos miligramas do princípio ativo. Como a massa molar do ácido acetilsalicílico é 180 gramas por mol, cada comprimido carrega pouco menos de três milimols da substância."
+                   },
+    "med-qui-t3":  {
+                       "id":  "med-qui-t3",
+                       "fonte":  "Texto original em genero de reportagem sobre combustiveis e matriz energetica",
+                       "conteudo":  "O etanol brasileiro é obtido pela fermentação dos açúcares da cana. Leveduras convertem a glicose em etanol e gás carbônico, e o caldo fermentado passa por destilação fracionada — separação que só é possível porque etanol e água têm temperaturas de ebulição diferentes, 78 e 100 graus Celsius.\n\nA destilação comum, porém, não leva o etanol além de cerca de 96% em massa. Nesse ponto a mistura forma um azeótropo: vapor e líquido passam a ter a mesma composição, e destilar mais não separa mais nada. É por isso que o álcool hidratado vendido nos postos tem justamente essa concentração, e que obter o anidro, usado na mistura com gasolina, exige um passo adicional.\n\nA comparação energética com a gasolina costuma ser mal-entendida. A combustão completa de um mol de etanol libera cerca de 1.368 quilojoules, contra aproximadamente 5.470 por mol de octano. A diferença parece enorme, mas as moléculas têm tamanhos muito diferentes: por grama, a vantagem da gasolina cai para algo em torno de 30%. É essa proporção que aparece na regra prática dos 70% no posto — abaixo dela, compensa abastecer com etanol.\n\nHá ainda o balanço de carbono. A queima do etanol libera gás carbônico, como a de qualquer combustível orgânico, mas parte dele havia sido retirada da atmosfera pela cana durante o crescimento. O saldo depende do que se gasta em plantio, transporte e processamento, e é isso que separa um biocombustível de baixo carbono de um que apenas desloca a emissão para outro ponto da cadeia."
                    }
 };

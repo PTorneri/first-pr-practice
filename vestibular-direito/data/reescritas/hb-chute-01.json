@@ -1,0 +1,155 @@
+{
+  "subtopic": "historia-brasil",
+  "questoes": [
+    {
+      "id": "historia-brasil-07",
+      "texto_apoio": "",
+      "enunciado": "A abdicação de Dom Pedro I ao trono brasileiro, em 1831, foi resultado, entre outros fatores, de:",
+      "alternativas": {
+        "a": "Desgaste político por sua ligação com Portugal, atritos com a elite e crise econômica no fim do reinado",
+        "b": "A derrota militar na Guerra da Cisplatina, apontada como único fator da perda de sustentação política do imperador",
+        "c": "Derrota militar do Brasil na Guerra do Paraguai, conflito que teria esgotado o prestígio militar do imperador",
+        "d": "Pressão popular organizada para transformar o Brasil em uma república, com apoio das províncias do Norte",
+        "e": "Sua identificação com os interesses da elite política nacional, que teria tornado insustentável seu governo"
+      },
+      "resposta": "a",
+      "explicacao": "O imperador era visto como português demais, brigava com os parlamentares brasileiros e governava sob crise econômica — a soma dessas frentes o levou a abdicar em favor do filho de cinco anos. Em (b) está o distrator mais defensável: a Cisplatina de fato pesou no desgaste, mas apresentá-la como causa única ignora o conjunto. Em (c), a Guerra do Paraguai é de 1864 a 1870. Em (d), a bandeira republicana só ganharia força em 1889. Em (e), foi o afastamento da elite brasileira, e não a identificação com ela, que o derrubou.",
+      "formato": "direta"
+    },
+    {
+      "id": "historia-brasil-11",
+      "texto_apoio": "",
+      "enunciado": "Durante a chamada República Velha (1889-1930), a política do 'café com leite' e o coronelismo caracterizavam-se, respectivamente, por:",
+      "alternativas": {
+        "a": "Pela alternância entre os estados do Nordeste na presidência e pelo controle militar das eleições municipais",
+        "b": "Pela alternância entre os partidos Liberal e Conservador no gabinete ministerial, arbitrada pelo Poder Moderador do imperador em cada legislatura",
+        "c": "Por uma aliança entre operários e camponeses e pelo poder dos sindicatos rurais sobre as prefeituras",
+        "d": "Pela rotatividade dos governadores no comando do Exército e pelo voto secreto nas zonas rurais",
+        "e": "Por um rodízio informal de poder entre São Paulo e Minas na presidência, e pelo domínio de chefes locais sobre o voto rural"
+      },
+      "resposta": "e",
+      "explicacao": "São dois mecanismos encaixados: no alto, paulistas e mineiros revezando a presidência; na base, o coronel entregando o voto de seus dependentes em troca de favores. Em (b) está a confusão de regime que a questão pede para evitar — a alternância entre Liberais e Conservadores arbitrada pelo Poder Moderador é o parlamentarismo do Império, encerrado em 1889. Em (c), operários e camponeses estavam fora do arranjo. Em (a) e (d), nem o Nordeste comandava a sucessão nem havia voto secreto antes de 1932.",
+      "formato": "direta"
+    },
+    {
+      "id": "historia-brasil-12",
+      "texto_apoio": "",
+      "enunciado": "A Revolução de 1930, que levou Getúlio Vargas ao poder e encerrou a República Velha, teve entre suas causas:",
+      "alternativas": {
+        "a": "A pressão de movimentos operários urbanos organizados, que impuseram a substituição do governo por via revolucionária",
+        "b": "A abolição da escravidão, cujos efeitos sobre a estrutura agrária teriam maturado ao longo de quatro décadas",
+        "c": "A vitória militar do Brasil na Primeira Guerra Mundial, que teria dado ao Exército peso decisivo na política",
+        "d": "A industrialização plena alcançada nas décadas anteriores, que teria tornado a elite cafeeira politicamente minoritária",
+        "e": "A crise de 1929 e seus efeitos sobre a economia cafeeira, somada à ruptura do acordo do café com leite"
+      },
+      "resposta": "e",
+      "explicacao": "A quebra de 1929 derrubou o preço do café e, no mesmo momento, Washington Luís rompeu o rodízio ao lançar o paulista Júlio Prestes — economia e política cederam juntas, e daí saiu a Aliança Liberal. Em (a) está o distrator mais atraente para quem associa revolução a movimento popular: houve participação de tenentes e de setores urbanos, mas quem conduziu foram oligarquias dissidentes. Em (d), a industrialização veio depois, com Vargas. Em (b) e (c), a abolição é de 1888 e a participação na guerra foi modesta.",
+      "formato": "direta"
+    },
+    {
+      "id": "historia-brasil-22",
+      "texto_apoio": "",
+      "enunciado": "Entre as principais consequências da Guerra do Paraguai para o Brasil, destaca-se:",
+      "alternativas": {
+        "a": "O fortalecimento econômico do Paraguai, que teria saído do conflito com sua indústria preservada",
+        "b": "A redução do peso político do Exército, que voltou aos quartéis sem interferir na vida institucional do Império",
+        "c": "A imediata abolição da escravidão como recompensa aos soldados que serviram no conflito",
+        "d": "A anexação de amplo território paraguaio ao Brasil, incorporado como nova província do Império após 1870",
+        "e": "O fortalecimento político do Exército e o aumento da dívida externa, contraída sobretudo com a Inglaterra"
+      },
+      "resposta": "e",
+      "explicacao": "A guerra profissionalizou o Exército e lhe deu consciência política — dezenove anos depois seria ele a proclamar a República — e deixou o Império endividado com bancos ingleses. Em (b) está a inversão exata desse efeito, e ela é a mais custosa de cometer, porque desfaz a linha que liga 1870 a 1889. Em (c), a Lei do Ventre Livre é de 1871 e a abolição só viria em 1888. Em (a), o Paraguai foi devastado. Em (d), houve acerto de fronteiras, não anexação de província.",
+      "formato": "direta"
+    },
+    {
+      "id": "historia-brasil-26",
+      "texto_apoio": "Durante a República Velha, consolidou-se um arranjo político conhecido como política dos governadores.",
+      "enunciado": "Esse arranjo, formulado sobretudo no governo de Campos Sales, consistia em:",
+      "alternativas": {
+        "a": "Uma aliança entre o governo federal e as oligarquias estaduais dominantes, que trocavam apoio político mútuo",
+        "b": "A eliminação do poder das oligarquias estaduais em favor de uma administração centralizada em nível federal",
+        "c": "Um sistema de eleição direta e universal para governadores, com apuração conduzida pela Justiça federal",
+        "d": "Um sistema de eleições diretas com apuração independente, que reduziu a influência dos coronéis sobre o voto rural",
+        "e": "A subordinação dos governos estaduais às decisões do Poder Judiciário federal em matéria eleitoral"
+      },
+      "resposta": "a",
+      "explicacao": "Campos Sales reconhecia o grupo dominante em cada estado e recebia em troca uma bancada dócil no Congresso — o presidente governava sem oposição e os oligarcas mandavam em casa. Em (b) está a leitura mais compreensível e mais errada: o arranjo é frequentemente descrito como centralizador, mas ele funcionava reforçando as oligarquias, não as eliminando. Em (c) e (d), não havia Justiça Eleitoral nem apuração independente antes de 1932. Em (e), o Judiciário não arbitrava a política estadual.",
+      "formato": "direta"
+    },
+    {
+      "id": "historia-brasil-39",
+      "texto_apoio": "Herdado do direito português, o sistema de sesmarias regulou a distribuição de terras no Brasil colonial.",
+      "enunciado": "Esse sistema caracterizava-se por:",
+      "alternativas": {
+        "a": "Garantir a posse coletiva das terras às comunidades indígenas aldeadas pelas ordens religiosas",
+        "b": "Distribuir pequenas propriedades de tamanho igual entre os colonos que chegassem à colônia",
+        "c": "Conceder grandes extensões de terra a quem tivesse condições de explorá-las, favorecendo a concentração fundiária",
+        "d": "Impedir a propriedade privada da terra na colônia, mantendo-a sob domínio direto da Coroa",
+        "e": "Distribuir pequenos lotes a colonos pobres mediante pagamento em prestações, o que favoreceria a divisão da propriedade"
+      },
+      "resposta": "c",
+      "explicacao": "A Coroa concedia a terra a quem provasse ter recursos para cultivá-la, e o critério — capacidade de explorar — selecionava desde a origem os já ricos. É a raiz da estrutura fundiária concentrada. Em (e) está a hipótese mais razoável para quem imagina uma política de povoamento: o pagamento em prestações e o lote pequeno descrevem a colonização por pequenos proprietários, modelo aplicado na América inglesa, não aqui. Em (b), não havia igualdade de lotes. Em (a) e (d), a propriedade privada existia e não protegia os indígenas.",
+      "formato": "direta"
+    },
+    {
+      "id": "historia-brasil-40",
+      "texto_apoio": "A Companhia de Jesus atuou intensamente na catequese dos povos indígenas no Brasil colonial, organizando aldeamentos e missões.",
+      "enunciado": "A atuação jesuítica junto aos povos indígenas frequentemente gerava conflitos com:",
+      "alternativas": {
+        "a": "Os próprios povos indígenas, que rejeitavam o aldeamento e resistiam à catequese nas missões",
+        "b": "Colonos e bandeirantes interessados na mão de obra indígena, de quem os jesuítas buscavam proteger os aldeados",
+        "c": "Outras ordens religiosas, que disputavam com os jesuítas o controle das missões e dos aldeamentos",
+        "d": "A Coroa portuguesa, que via nas missões um obstáculo à arrecadação de tributos na colônia",
+        "e": "Autoridades metropolitanas contrárias à catequese, que viam nas missões um obstáculo à conversão religiosa dos indígenas"
+      },
+      "resposta": "b",
+      "explicacao": "O aldeamento tirava mão de obra do alcance de quem dependia dela, e o choque com colonos e bandeirantes foi permanente, sobretudo em São Paulo — os jesuítas chegaram a ser expulsos da capitania. Em (c) está o distrator mais plausível, porque houve mesmo atrito entre ordens religiosas na colônia; o conflito estruturante, contudo, era econômico, e não interno à Igreja. Em (d), a Coroa patrocinava a catequese até Pombal. Em (a) e (e), muitos indígenas buscavam a missão como proteção.",
+      "formato": "direta"
+    },
+    {
+      "id": "historia-brasil-42",
+      "texto_apoio": "Entre 1630 e 1654, os holandeses ocuparam parte do Nordeste açucareiro, com destaque para o governo de Maurício de Nassau em Pernambuco.",
+      "enunciado": "O governo de Nassau caracterizou-se por:",
+      "alternativas": {
+        "a": "Certa tolerância religiosa, urbanização e incentivo às artes e ciências, mantida a economia açucareira escravista",
+        "b": "Abolição da mão de obra escrava nos engenhos ocupados, substituída por trabalhadores livres vindos da Holanda",
+        "c": "A imposição da uniformidade religiosa e a expulsão dos comerciantes estrangeiros do território sob domínio holandês",
+        "d": "Isolamento cultural e científico da colônia ocupada, voltada apenas à produção de açúcar para exportação",
+        "e": "Transferência da capital da América portuguesa para Recife, sede do governo holandês no período"
+      },
+      "resposta": "a",
+      "explicacao": "Nassau urbanizou o Recife, tolerou judeus e católicos e trouxe Frans Post e Marcgrave para documentar a colônia — sem tocar na base escravista que financiava tudo isso, e os holandeses foram eles próprios grandes traficantes de escravizados. Em (b) está a idealização mais frequente do período: a tolerância religiosa leva a supor uma administração humanitária, e o açúcar continuou sendo produzido do mesmo modo. Em (c) e (d), a política foi o oposto. Em (e), a capital portuguesa seguiu em Salvador.",
+      "formato": "direta"
+    },
+    {
+      "id": "historia-brasil-43",
+      "texto_apoio": "A expulsão dos holandeses do Nordeste, concluída em 1654, resultou de um levante que envolveu senhores de engenho, indígenas e população mestiça e negra.",
+      "enunciado": "Esse movimento é significativo para a historiografia porque:",
+      "alternativas": {
+        "a": "Provocou o fim da monocultura açucareira na região, substituída pela pecuária do sertão",
+        "b": "Foi conduzido por tropas enviadas de Portugal, sem participação relevante dos moradores da colônia",
+        "c": "Resultou na manutenção do domínio holandês sobre o Nordeste por mais algumas décadas",
+        "d": "Proclamou uma república separatista no Nordeste, com governo provisório e bandeira própria, sufocada pelas tropas reais",
+        "e": "Reuniu diferentes grupos sociais da colônia em torno de um objetivo comum, lido como identidade colonial"
+      },
+      "resposta": "e",
+      "explicacao": "Senhores de engenho, indígenas de Camarão e o terço de Henrique Dias lutaram juntos, muitos deles nascidos na colônia — e é essa articulação de interesses ligados à terra, distintos dos da metrópole, que interessa à historiografia. Em (b) está a versão que a documentação portuguesa consagrou e que os historiadores revisaram: Lisboa forneceu pouco apoio, e a mobilização foi local. Em (d), não houve república proclamada. Em (a) e (c), o açúcar persistiu e os holandeses saíram em 1654.",
+      "formato": "direta"
+    },
+    {
+      "id": "historia-brasil-44",
+      "texto_apoio": "Em 1710-1711, um conflito opôs a aristocracia rural de Olinda a comerciantes portugueses estabelecidos no Recife.",
+      "enunciado": "A Guerra dos Mascates expressava, no fundo, uma disputa entre:",
+      "alternativas": {
+        "a": "Senhores de engenho endividados de Olinda e comerciantes portugueses do Recife, em ascensão econômica",
+        "b": "Católicos e protestantes pelo controle religioso da região, herança da ocupação holandesa anterior",
+        "c": "Paulistas descobridores das jazidas e forasteiros vindos de outras capitanias, em disputa pelo acesso às minas",
+        "d": "A Coroa portuguesa e a Coroa espanhola pela posse da capitania de Pernambuco e de suas rendas",
+        "e": "Bandeirantes paulistas e mineradores estabelecidos em Minas Gerais pelo acesso às jazidas de ouro"
+      },
+      "resposta": "a",
+      "explicacao": "A aristocracia do açúcar estava endividada justamente com os comerciantes do Recife, e a elevação do Recife a vila deu poder político a quem já tinha o dinheiro — daí o levante. Em (c) está a troca de conflito mais fácil de cometer: paulistas contra forasteiros nas minas é a Guerra dos Emboabas, do mesmo período e igualmente entre grupos coloniais. Em (e), o mesmo episódio descrito de outra forma. Em (b) e (d), a ocupação holandesa acabara em 1654 e a União Ibérica, em 1640.",
+      "formato": "direta"
+    }
+  ]
+}

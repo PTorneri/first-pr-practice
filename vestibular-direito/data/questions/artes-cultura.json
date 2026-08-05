@@ -6,14 +6,14 @@
                          "texto_apoio":  "Leonardo da Vinci associou a pintura a estudos de anatomia, óptica e proporção matemática, unindo observação empírica e criação artística — um dos traços centrais do Renascimento italiano.",
                          "enunciado":  "Considerando essa característica da arte renascentista, é correto relacioná-la à seguinte questão contemporânea:",
                          "alternativas":  {
-                                              "a":  "o crescimento do mercado de reproduções digitais de obras clássicas em altíssima resolução",
-                                              "b":  "o debate atual sobre projetos que integram arte, ciência e tecnologia (como a bioarte e a visualização de dados), que retomam a aposta renascentista de unir método científico e criação estética",
-                                              "c":  "essa integração entre observação empírica e criação artística é um traço definidor da escultura de Aleijadinho no Brasil colonial, marcada antes pela dramaticidade religiosa do Barroco",
-                                              "d":  "a antecipação, por Leonardo da Vinci, dos debates atuais sobre autoria e criação de imagens por inteligência artificial, hipótese anacrônica que ignora o contexto tecnológico específico do Renascimento",
-                                              "e":  "a ideia de que qualquer obra que represente a figura humana já dialoga com o método científico, independentemente da forma de observação empregada pelo artista"
+                                              "a":  "o crescimento do mercado de reproduções digitais de obras clássicas em altíssima resolução para museus",
+                                              "b":  "o debate sobre projetos que integram arte, ciência e tecnologia, como a bioarte e a visualização de dados",
+                                              "c":  "a dramaticidade religiosa da escultura de Aleijadinho, que também nasce da observação anatômica do corpo",
+                                              "d":  "a antecipação, por Leonardo, dos debates atuais sobre autoria de imagens geradas por inteligência artificial",
+                                              "e":  "a ideia de que representar a figura humana com fidelidade já constitui, por si, um método científico"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O Renascimento é marcado pela aproximação entre arte e investigação científica (anatomia, óptica, matemática), o que dialoga diretamente com debates contemporâneos sobre a integração entre arte, ciência e tecnologia — e não com uma relação genérica com o tema humano, nem com uma antecipação anacrônica da IA, nem com o Barroco de Aleijadinho, marcado por outra lógica estética.",
+                         "explicacao":  "O que se transporta do Renascimento para hoje é o método: investigar o mundo com instrumentos científicos e devolver o resultado como obra — é o que fazem a bioarte e a visualização de dados. Em (d) está o anacronismo mais sedutor, porque Leonardo é sempre descrito como visionário: ele antecipou máquinas, não o problema jurídico da autoria algorítmica. Em (c), Aleijadinho parte da devoção barroca, não do estudo anatômico. Em (e), fidelidade de representação não é método científico. Em (a), reproduzir não é investigar.",
                          "formato":  "direta"
                      },
                      {
@@ -36,14 +36,14 @@
                          "texto_apoio":  "A Semana de Arte Moderna de 1922 buscou romper com o academicismo e construir uma identidade artística nacional em diálogo com as vanguardas europeias.",
                          "enunciado":  "Esse duplo movimento — abertura ao repertório internacional sem abrir mão da identidade nacional — permite relacionar a Semana de 22 à seguinte questão contemporânea:",
                          "alternativas":  {
-                                              "a":  "esse projeto de identidade nacional aberta ao repertório internacional é um traço definidor do Barroco colonial, e não do Modernismo de 1922, de proposta estética distinta",
-                                              "b":  "o desafio de artistas brasileiros hoje incorporarem tendências culturais globais, como streaming e música eletrônica internacional, sem deixar de afirmar marcas de identidade nacional e regional",
-                                              "c":  "a exigência de cotas para produções nacionais na programação das emissoras de televisão",
-                                              "d":  "a valorização de qualquer obra que combine dois estilos diferentes, independentemente de haver ou não um projeto de identidade nacional por trás dessa combinação",
-                                              "e":  "a previsão, pelos modernistas de 1922, do fenômeno atual da globalização cultural via internet, hipótese anacrônica dado o contexto tecnológico da época"
+                                              "a":  "a defesa de uma arte nacional depurada de influências estrangeiras, como propunha o Barroco colonial",
+                                              "b":  "o desafio de artistas brasileiros incorporarem tendências globais sem abrir mão de marcas de identidade regional",
+                                              "c":  "a exigência de cotas para produções nacionais na programação das emissoras de televisão aberta",
+                                              "d":  "a valorização de obras que combinem dois estilos diferentes, ainda que sem um projeto de identidade nacional por trás",
+                                              "e":  "a previsão, pelos modernistas de 1922, do fenômeno atual da globalização cultural pela internet"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A Semana de 22 buscou uma síntese entre vanguardas estrangeiras e identidade nacional, o que dialoga com o desafio contemporâneo de artistas brasileiros navegarem fluxos culturais globalizados sem perder marcas de identidade — distinto de uma combinação genérica de estilos, de uma antecipação anacrônica da internet, ou de uma confusão com o Barroco.",
+                         "explicacao":  "O gesto de 22 é simultâneo: importar a forma da vanguarda e usá-la para dizer algo brasileiro. É a mesma equação que enfrenta hoje quem produz aqui dentro de circuitos globais. Em (a) está a leitura que inverte o movimento — depurar a influência estrangeira é o oposto do que os modernistas fizeram, e o Barroco colonial tampouco propôs isso. Em (d), a mistura sem projeto perde justamente o que define o modernismo. Em (e), há anacronismo. Em (c), cota é política pública, não questão estética.",
                          "formato":  "direta"
                      },
                      {
@@ -51,14 +51,14 @@
                          "texto_apoio":  "O \"Manifesto Antropófago\" (1928), de Oswald de Andrade, propôs que a cultura brasileira \"devorasse\" criticamente referências estrangeiras, reelaborando-as de forma original.",
                          "enunciado":  "Essa metáfora da antropofagia cultural permite relacionar o manifesto de Oswald de Andrade à seguinte questão contemporânea:",
                          "alternativas":  {
-                                              "a":  "a previsão, por Oswald de Andrade, do fenômeno específico dos memes de internet, hipótese que ignora o contexto cultural de 1928 em que o manifesto foi escrito",
-                                              "b":  "a ideia de que qualquer obra brasileira que use referências estrangeiras está automaticamente praticando antropofagia cultural, independentemente de haver reelaboração crítica efetiva",
-                                              "c":  "essa metáfora da devoração crítica de referências estrangeiras é um conceito criado por Mário de Andrade, e não por Oswald de Andrade, autor do Manifesto Antropófago",
-                                              "d":  "a proteção jurídica de expressões culturais tradicionais contra uso comercial não autorizado",
-                                              "e":  "a forma como produtores culturais brasileiros reelaboram criticamente tendências globais de música e internet, misturando-as a referências locais, em vez de apenas reproduzi-las"
+                                              "a":  "a previsão, por Oswald de Andrade, do fenômeno específico dos memes de circulação na internet",
+                                              "b":  "a ideia de que uma obra brasileira que use referências estrangeiras já estaria praticando antropofagia cultural, sem mais",
+                                              "c":  "a criação da metáfora da devoração crítica por Mário de Andrade, em Macunaíma, e não por Oswald",
+                                              "d":  "a proteção jurídica de expressões culturais tradicionais contra uso comercial não autorizado por terceiros",
+                                              "e":  "a forma como produtores brasileiros reelaboram criticamente tendências globais, misturando-as a referências locais"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A antropofagia cultural propõe reelaboração crítica, e não apenas repetição, de referências estrangeiras — o que se relaciona à forma como parte da produção cultural brasileira atual reapropria tendências globais. A simples presença de referência estrangeira não basta (distrator superficial), o conceito não previu fenômeno específico algum (anacronismo), e sua autoria é de Oswald, não de Mário de Andrade (confusão de autoria).",
+                         "explicacao":  "Devorar, na figura de Oswald, é digerir e transformar — o oposto de copiar. O que o conceito ilumina hoje é a produção que reprocessa o global em vez de reproduzi-lo. Em (b) está a banalização mais comum do termo: usar referência estrangeira todo mundo usa, e sem reelaboração crítica não há antropofagia nenhuma. Em (c), Mário escreveu Macunaíma no mesmo ano, mas o manifesto é de Oswald. Em (a), há anacronismo. Em (d), a proteção de saberes tradicionais é um debate jurídico distinto.",
                          "formato":  "direta"
                      },
                      {
@@ -66,14 +66,14 @@
                          "texto_apoio":  "Adorno e Horkheimer cunharam o conceito de \"indústria cultural\" para descrever a padronização de bens culturais produzidos em massa segundo lógica industrial.",
                          "enunciado":  "Esse conceito pode ser relacionado à seguinte questão contemporânea sobre plataformas de streaming:",
                          "alternativas":  {
-                                              "a":  "a previsão exata, por Adorno e Horkheimer em meados do século XX, do funcionamento técnico dos algoritmos de recomendação digital, tecnologia inexistente à época",
+                                              "a":  "a previsão exata, por Adorno e Horkheimer, do funcionamento técnico dos algoritmos de recomendação das plataformas",
                                               "b":  "a concentração do catálogo das plataformas em poucos estúdios detentores dos direitos de exibição",
-                                              "c":  "o fato de as plataformas de streaming existirem já comprova, por si só, a tese da indústria cultural, independentemente de qualquer análise sobre padronização de conteúdo",
-                                              "d":  "esse conceito de padronização da cultura de massa foi formulado por Walter Benjamin, e não por Adorno e Horkheimer, autores de \"Dialética do Esclarecimento\"",
-                                              "e":  "os algoritmos de recomendação favorecem formatos padronizados, como músicas mais curtas e roteiros previsíveis, reproduzindo em nova chave tecnológica a padronização denunciada por Adorno e Horkheimer"
+                                              "c":  "o fato de as plataformas de streaming existirem, o que comprovaria por si só a tese da indústria cultural",
+                                              "d":  "a formulação do conceito por Walter Benjamin, em seu ensaio sobre a reprodutibilidade técnica da obra",
+                                              "e":  "os algoritmos favorecem formatos padronizados, reproduzindo em nova chave a padronização que eles denunciaram"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O conceito de indústria cultural denuncia a padronização de bens culturais segundo lógica industrial — o que se atualiza hoje na forma como algoritmos de recomendação incentivam formatos padronizados. A mera existência do streaming não basta como argumento (superficial), os autores não previram tecnicamente os algoritmos (anacronismo), e o conceito é de Adorno e Horkheimer, não de Benjamin (confusão de autoria).",
+                         "explicacao":  "A tese não é sobre existir indústria, e sim sobre a forma que ela impõe ao produto: música encurtada para reter o ouvinte, roteiro previsível para não perder o assinante. Em (b) está o distrator mais bem informado, e a distinção é fina — concentração de mercado é problema econômico, e a indústria cultural fala de padronização estética, que pode existir mesmo em mercado pulverizado. Em (c), a mera existência nada prova. Em (a), há anacronismo. Em (d), a autoria é de Adorno e Horkheimer.",
                          "formato":  "direta"
                      },
                      {
@@ -81,14 +81,14 @@
                          "texto_apoio":  "Walter Benjamin argumenta que a reprodutibilidade técnica (fotografia, cinema) esvazia a \"aura\" da obra de arte — sua unicidade, autenticidade e presença em um tempo e lugar específicos.",
                          "enunciado":  "Esse conceito de \"aura\" pode ser relacionado à seguinte questão contemporânea sobre arte digital:",
                          "alternativas":  {
-                                              "a":  "a digitalização de acervos museológicos para consulta remota por pesquisadores",
-                                              "b":  "a previsão, por Benjamin, da existência futura de blockchain e criptomoedas, tecnologias inexistentes no contexto em que escreveu sobre a reprodutibilidade técnica",
-                                              "c":  "o debate sobre NFTs como tentativa de recriar artificialmente, por certificação tecnológica, a unicidade e a autenticidade que Benjamin via como ameaçadas pela reprodutibilidade técnica",
-                                              "d":  "esse conceito de \"aura\" da obra de arte foi formulado por Theodor Adorno, e não por Walter Benjamin, autor de \"A Obra de Arte na Era de sua Reprodutibilidade Técnica\"",
-                                              "e":  "a ideia de que qualquer obra disponível na internet perdeu automaticamente todo o seu valor artístico, independentemente de sua forma de circulação"
+                                              "a":  "a digitalização de acervos museológicos para consulta remota por pesquisadores e estudantes",
+                                              "b":  "a previsão, por Benjamin, da existência futura do blockchain e das criptomoedas",
+                                              "c":  "o debate sobre NFTs como tentativa de recriar por certificação tecnológica a unicidade que ele via ameaçada",
+                                              "d":  "a formulação do conceito de aura por Theodor Adorno, e não pelo autor do ensaio sobre a reprodutibilidade técnica",
+                                              "e":  "a ideia de que uma obra disponível na internet perde automaticamente o seu valor artístico"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A reflexão de Benjamin sobre a perda da aura na era da reprodutibilidade técnica dialoga diretamente com o debate contemporâneo sobre NFTs, que tentam recriar tecnologicamente a unicidade da obra digital — distinto de uma generalização sobre obras na internet, de uma antecipação anacrônica do blockchain, ou da confusão com a autoria de Adorno.",
+                         "explicacao":  "O NFT é a resposta mais literal já dada ao problema de Benjamin: diante do arquivo infinitamente copiável, inventa-se um certificado que declara um exemplar único. Em (a) está o distrator que mais se aproxima sem acertar — digitalizar acervo é reprodutibilidade em estado puro, mas descreve o problema, e não a tentativa de recriar a aura. Em (e), perder a aura não é perder valor artístico. Em (b), há anacronismo. Em (d), o ensaio é de Benjamin.",
                          "formato":  "direta"
                      },
                      {
@@ -111,14 +111,14 @@
                          "texto_apoio":  "A Tropicália, com Caetano Veloso, Gilberto Gil e Hélio Oiticica, misturou de forma crítica elementos da cultura popular brasileira com o rock e a vanguarda internacional em plena ditadura militar.",
                          "enunciado":  "Essa mistura antropofágica de repertórios pode ser relacionada à seguinte questão contemporânea sobre música popular brasileira:",
                          "alternativas":  {
-                                              "a":  "o fato de uma canção misturar dois instrumentos de origens diferentes já basta para caracterizá-la como tropicalista, independentemente de haver ou não crítica social ao contexto político",
-                                              "b":  "essa mistura crítica entre repertório popular brasileiro e vanguarda internacional é um traço definidor do Cinema Novo, e não da Tropicália de Caetano Veloso e Gilberto Gil",
-                                              "c":  "a exigência de que festivais reservem parte da grade a artistas da própria região",
-                                              "d":  "artistas atuais que combinam ritmos regionais, como funk, brega ou forró eletrônico, com produção eletrônica internacional, atualizando a operação tropicalista de reelaborar referências globais sem abandonar a raiz popular",
-                                              "e":  "a previsão, pelos tropicalistas, dos gêneros eletrônicos que surgiriam décadas depois no Brasil, hipótese anacrônica dado o contexto musical e político dos anos 1960, marcado pela ditadura militar"
+                                              "a":  "o fato de uma canção misturar dois instrumentos de origens diferentes, o que já a tornaria tropicalista",
+                                              "b":  "a mistura crítica entre repertório popular brasileiro e vanguarda internacional promovida pelo Cinema Novo dos anos 1960",
+                                              "c":  "a exigência de que festivais reservem parte da grade a artistas da própria região onde ocorrem",
+                                              "d":  "artistas que combinam ritmos regionais, como funk e forró eletrônico, com produção eletrônica internacional",
+                                              "e":  "a previsão, pelos tropicalistas, dos gêneros eletrônicos que surgiriam décadas depois no Brasil"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A Tropicália propôs uma síntese crítica entre popular brasileiro e vanguarda internacional sob um regime autoritário, o que dialoga com artistas contemporâneos que atualizam essa operação com ritmos populares e produção global — distinto de uma mistura instrumental genérica, de uma previsão anacrônica de gêneros futuros, ou da confusão com o Cinema Novo, movimento cinematográfico distinto.",
+                         "explicacao":  "A operação tropicalista é reelaborar o global a partir da raiz popular, e é o que refazem hoje o funk e o forró eletrônico produzidos com ferramentas internacionais. Em (b) está a confusão mais compreensível: o Cinema Novo é contemporâneo e igualmente antropofágico, mas parte do popular sem incorporar a vanguarda pop, e a guitarra elétrica foi justamente o que separou os dois campos. Em (a), misturar instrumentos não basta. Em (e), há anacronismo. Em (c), cota regional é política de programação.",
                          "formato":  "direta"
                      },
                      {
@@ -126,14 +126,14 @@
                          "texto_apoio":  "Guimarães Rosa, em \"Grande Sertão: Veredas\", recriou a sintaxe da língua portuguesa a partir da oralidade sertaneja, incorporando neologismos e um falar regional ao texto literário.",
                          "enunciado":  "Essa valorização literária da oralidade regional pode ser relacionada à seguinte questão contemporânea:",
                          "alternativas":  {
-                                              "a":  "o debate sobre preconceito linguístico, que questiona a hierarquia entre a norma culta e as variedades regionais e populares do português, reconhecendo nelas riqueza expressiva",
-                                              "b":  "o crescimento dos audiolivros narrados por atores com sotaques regionais marcados",
-                                              "c":  "a ideia de que qualquer texto que utilize palavras incomuns já dialoga com a inovação linguística de Guimarães Rosa, independentemente de haver ou não valorização da oralidade regional",
-                                              "d":  "essa recriação da sintaxe a partir da oralidade regional é um traço definidor da obra de Jorge Amado, e não de Guimarães Rosa, autor de \"Grande Sertão: Veredas\"",
-                                              "e":  "a antecipação, por Guimarães Rosa, dos debates atuais sobre inteligência artificial e geração automática de texto, tema alheio ao seu contexto literário"
+                                              "a":  "o debate sobre preconceito linguístico, que questiona a hierarquia entre norma culta e variedades regionais",
+                                              "b":  "o crescimento dos audiolivros narrados por atores com sotaques regionais bem marcados",
+                                              "c":  "a ideia de que um texto que utilize palavras incomuns já dialoga com a inovação de Guimarães Rosa",
+                                              "d":  "a recriação da sintaxe a partir da oralidade regional na obra de Jorge Amado, e não na de Guimarães Rosa",
+                                              "e":  "a antecipação, por Guimarães Rosa, dos debates atuais sobre geração automática de texto por inteligência artificial"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A experimentação de Guimarães Rosa com a oralidade sertaneja dialoga com o debate contemporâneo sobre preconceito linguístico, que valoriza variedades regionais frente à norma culta — distinto de uma associação superficial por vocabulário incomum, de uma antecipação anacrônica da IA, ou da confusão com Jorge Amado, autor de outro projeto literário.",
+                         "explicacao":  "Rosa não transcreve o falar sertanejo como pitoresco: constrói com ele uma sintaxe literária, e nisso afirma que a variedade regional tem potência expressiva própria — a tese central do debate sobre preconceito linguístico. Em (d) está a troca de autor mais plausível, porque Jorge Amado também é do Nordeste e também trabalha a fala popular: ele a registra no diálogo, sem refazer a sintaxe do romance. Em (c), vocabulário raro não é oralidade. Em (b), sotaque na narração não é projeto literário. Em (e), há anacronismo.",
                          "formato":  "direta"
                      },
                      {
@@ -141,14 +141,14 @@
                          "texto_apoio":  "Heitor Villa-Lobos combinou técnicas de composição erudita europeia com elementos do folclore e da cultura popular brasileira, como nas \"Bachianas Brasileiras\".",
                          "enunciado":  "Essa fusão entre erudito e popular na obra de Villa-Lobos pode ser relacionada à seguinte questão contemporânea:",
                          "alternativas":  {
-                                              "a":  "a ideia de que qualquer peça orquestral que mencione o Brasil em seu título já realiza a mesma fusão entre erudito e popular buscada por Villa-Lobos",
-                                              "b":  "essa fusão entre técnica erudita europeia e folclore brasileiro é um traço definidor da obra de Chico Buarque, e não de Villa-Lobos, consagrado autor das \"Bachianas Brasileiras\"",
-                                              "c":  "a formação de orquestras jovens em periferias como política de inclusão social",
-                                              "d":  "iniciativas atuais de orquestras e casas de música erudita que incorporam samba, funk ou música indígena a seu repertório, reabrindo o debate sobre a hierarquia entre \"alta cultura\" e popular",
-                                              "e":  "a antecipação, por Villa-Lobos, dos festivais de música eletrônica que fundem gêneros populares contemporâneos, fenômeno tecnológico posterior à sua época"
+                                              "a":  "a ideia de que uma peça orquestral que mencione o Brasil no título já realiza essa mesma fusão",
+                                              "b":  "a fusão entre técnica erudita europeia e folclore brasileiro na obra de Chico Buarque, e não na dele",
+                                              "c":  "a formação de orquestras jovens em periferias como política pública de inclusão social",
+                                              "d":  "orquestras e casas de música erudita que incorporam samba, funk ou música indígena a seu repertório",
+                                              "e":  "a antecipação, por Villa-Lobos, dos festivais de música eletrônica que fundem gêneros populares atuais"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Villa-Lobos integrou erudito e popular numa mesma obra, o que dialoga com iniciativas contemporâneas de aproximação entre música erudita e gêneros populares brasileiros — distinto de uma associação por título (superficial), de uma antecipação anacrônica de festivais eletrônicos, ou da confusão com Chico Buarque, compositor de outra geração e proposta.",
+                         "explicacao":  "Villa-Lobos escreveu contraponto bachiano sobre melodia de modinha; o equivalente hoje é a sala de concerto abrindo o repertório ao samba, ao funk e à música indígena, e reabrindo com isso a discussão sobre o que conta como alta cultura. Em (c) está o distrator mais nobre e mais fora do alvo: orquestra na periferia é inclusão de público, e a questão pergunta pela fusão de linguagens. Em (a), o título não faz a fusão. Em (b), a obra é de Villa-Lobos. Em (e), há anacronismo.",
                          "formato":  "direta"
                      },
                      {
@@ -216,14 +216,14 @@
                          "texto_apoio":  "Pablo Picasso e Georges Braque, no Cubismo, fragmentaram objetos e figuras em planos geométricos, apresentando simultaneamente diferentes pontos de vista de um mesmo elemento.",
                          "enunciado":  "Essa proposta de representar simultaneamente múltiplos pontos de vista pode ser relacionada à seguinte questão contemporânea:",
                          "alternativas":  {
-                                              "a":  "a presença de formas geométricas em uma pintura, o que já bastaria para relacioná-la ao Cubismo, independentemente de haver ou não sobreposição de pontos de vista",
-                                              "b":  "o debate sobre narrativas históricas e jornalísticas que buscam incorporar múltiplas perspectivas e vozes sobre um mesmo evento, em vez de um único ponto de vista tido como neutro ou definitivo",
-                                              "c":  "a antecipação, por Picasso e Braque, das câmeras panorâmicas de 360 graus usadas em produções audiovisuais atuais, tecnologia inexistente no início do século XX",
-                                              "d":  "o uso de câmeras de segurança que registram um mesmo ambiente de vários ângulos simultâneos",
-                                              "e":  "essa fragmentação de planos e pontos de vista simultâneos é um traço definidor do Futurismo, e não do Cubismo de Picasso e Braque, centrado na fragmentação geométrica"
+                                              "a":  "a presença de formas geométricas em uma pintura, o que já bastaria para relacioná-la ao Cubismo",
+                                              "b":  "o debate sobre narrativas históricas e jornalísticas que incorporam múltiplas vozes sobre um mesmo evento",
+                                              "c":  "a antecipação, por Picasso e Braque, das câmeras panorâmicas de 360 graus usadas hoje no audiovisual",
+                                              "d":  "o uso de câmeras de segurança que registram um mesmo ambiente de vários ângulos simultâneos em tempo real",
+                                              "e":  "a fragmentação de planos e pontos de vista simultâneos que define o Futurismo italiano"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O Cubismo rompeu com a perspectiva única, apresentando múltiplos ângulos simultâneos — o que dialoga com o debate contemporâneo sobre pluralidade de vozes e perspectivas na narrativa histórica e jornalística, distinto de uma associação por forma geométrica genérica, de uma antecipação anacrônica de câmeras 360°, ou da confusão com o Futurismo.",
+                         "explicacao":  "O Cubismo abandona o observador único e neutro, e é essa recusa que a historiografia e o jornalismo contemporâneos refazem ao multiplicar as vozes sobre um mesmo acontecimento. Em (d) está a analogia mais literal e por isso enganosa: várias câmeras produzem vários registros separados, enquanto o Cubismo funde os ângulos numa única imagem, que é onde está a ruptura. Em (a), geometria não basta. Em (e), o Futurismo trata de movimento e velocidade. Em (c), há anacronismo.",
                          "formato":  "direta"
                      },
                      {
@@ -231,14 +231,14 @@
                          "texto_apoio":  "\"Abaporu\" (1928), de Tarsila do Amaral, com sua figura de proporções desconformes, inspirou diretamente o Manifesto Antropófago de Oswald de Andrade.",
                          "enunciado":  "A relação entre \"Abaporu\" e o Manifesto Antropófago permite relacionar a obra à seguinte questão contemporânea:",
                          "alternativas":  {
-                                              "a":  "a previsão, por Tarsila do Amaral, do movimento tropicalista que surgiria décadas depois com Caetano Veloso, hipótese anacrônica dado o contexto modernista de 1928",
-                                              "b":  "a valorização recorde de obras modernistas brasileiras em leilões internacionais",
-                                              "c":  "essa inspiração direta para um manifesto cultural é um traço definidor da obra de Anita Malfatti, e não de Tarsila do Amaral, autora de \"Abaporu\" e uma das principais pintoras do modernismo",
-                                              "d":  "o fato de \"Abaporu\" retratar uma figura humana, o que a relacionaria a qualquer obra contemporânea que também tenha uma figura humana isolada como tema central da composição",
-                                              "e":  "o debate sobre como ícones visuais brasileiros continuam sendo reapropriados e ressignificados por diferentes gerações de artistas, em um processo contínuo de reinvenção da identidade nacional"
+                                              "a":  "a previsão, por Tarsila do Amaral, do movimento tropicalista que surgiria quatro décadas depois",
+                                              "b":  "a valorização recorde de obras modernistas brasileiras em leilões internacionais de arte",
+                                              "c":  "a inspiração direta para um manifesto cultural partindo da obra de Anita Malfatti, e não da pintura de Tarsila do Amaral",
+                                              "d":  "o fato de \"Abaporu\" retratar uma figura humana isolada como tema central da composição",
+                                              "e":  "o debate sobre como ícones visuais brasileiros seguem sendo reapropriados e ressignificados por novas gerações"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "\"Abaporu\" tornou-se ícone de um projeto de identidade nacional em constante reelaboração, o que dialoga com o modo como ícones visuais brasileiros seguem sendo ressignificados — distinto de uma ligação genérica pela figura humana, de uma previsão anacrônica da Tropicália, ou da confusão de autoria com Anita Malfatti.",
+                         "explicacao":  "Uma pintura gerou um manifesto, o manifesto gerou um programa cultural, e o programa segue sendo reaberto a cada geração — o Abaporu é o caso exemplar de ícone que não para de ser redefinido. Em (c) está a confusão de autoria mais razoável, porque Anita Malfatti também é central no modernismo e sua exposição de 1917 provocou o artigo de Monteiro Lobato que mobilizou o grupo; a tela que inspira Oswald, contudo, é de Tarsila. Em (d), a figura humana não explica a relação. Em (a), há anacronismo. Em (b), o preço em leilão é outro assunto.",
                          "formato":  "direta"
                      },
                      {

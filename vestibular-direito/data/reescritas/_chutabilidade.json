@@ -1,8 +1,8 @@
 {
     "artes-cultura":  {
-                          "longaPct":  31,
-                          "absCertaPct":  11.1,
-                          "indice":  36,
+                          "longaPct":  24,
+                          "absCertaPct":  14.3,
+                          "indice":  26,
                           "n":  100
                       },
     "interpretacao-texto":  {
@@ -30,15 +30,15 @@
                                  "n":  100
                              },
     "atualidades-meioambiente":  {
-                                     "longaPct":  32,
-                                     "absCertaPct":  1.2,
-                                     "indice":  38,
+                                     "longaPct":  23,
+                                     "absCertaPct":  1.3,
+                                     "indice":  28,
                                      "n":  100
                                  },
     "historia-brasil":  {
-                            "longaPct":  26.2,
+                            "longaPct":  16.2,
                             "absCertaPct":  0,
-                            "indice":  38.8,
+                            "indice":  26.2,
                             "n":  80
                         },
     "atualidades-tecnologia":  {
@@ -102,7 +102,7 @@
                                  "n":  100
                              },
     "_global":  {
-                    "indice":  23.7,
+                    "indice":  22.3,
                     "n":  2149
                 }
 }

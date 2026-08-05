@@ -6,14 +6,14 @@ window.QUESTION_BANKS = {
                               "texto_apoio":  "Leonardo da Vinci associou a pintura a estudos de anatomia, óptica e proporção matemática, unindo observação empírica e criação artística — um dos traços centrais do Renascimento italiano.",
                               "enunciado":  "Considerando essa característica da arte renascentista, é correto relacioná-la à seguinte questão contemporânea:",
                               "alternativas":  {
-                                                   "a":  "o crescimento do mercado de reproduções digitais de obras clássicas em altíssima resolução",
-                                                   "b":  "o debate atual sobre projetos que integram arte, ciência e tecnologia (como a bioarte e a visualização de dados), que retomam a aposta renascentista de unir método científico e criação estética",
-                                                   "c":  "essa integração entre observação empírica e criação artística é um traço definidor da escultura de Aleijadinho no Brasil colonial, marcada antes pela dramaticidade religiosa do Barroco",
-                                                   "d":  "a antecipação, por Leonardo da Vinci, dos debates atuais sobre autoria e criação de imagens por inteligência artificial, hipótese anacrônica que ignora o contexto tecnológico específico do Renascimento",
-                                                   "e":  "a ideia de que qualquer obra que represente a figura humana já dialoga com o método científico, independentemente da forma de observação empregada pelo artista"
+                                                   "a":  "o crescimento do mercado de reproduções digitais de obras clássicas em altíssima resolução para museus",
+                                                   "b":  "o debate sobre projetos que integram arte, ciência e tecnologia, como a bioarte e a visualização de dados",
+                                                   "c":  "a dramaticidade religiosa da escultura de Aleijadinho, que também nasce da observação anatômica do corpo",
+                                                   "d":  "a antecipação, por Leonardo, dos debates atuais sobre autoria de imagens geradas por inteligência artificial",
+                                                   "e":  "a ideia de que representar a figura humana com fidelidade já constitui, por si, um método científico"
                                                },
                               "resposta":  "b",
-                              "explicacao":  "O Renascimento é marcado pela aproximação entre arte e investigação científica (anatomia, óptica, matemática), o que dialoga diretamente com debates contemporâneos sobre a integração entre arte, ciência e tecnologia — e não com uma relação genérica com o tema humano, nem com uma antecipação anacrônica da IA, nem com o Barroco de Aleijadinho, marcado por outra lógica estética.",
+                              "explicacao":  "O que se transporta do Renascimento para hoje é o método: investigar o mundo com instrumentos científicos e devolver o resultado como obra — é o que fazem a bioarte e a visualização de dados. Em (d) está o anacronismo mais sedutor, porque Leonardo é sempre descrito como visionário: ele antecipou máquinas, não o problema jurídico da autoria algorítmica. Em (c), Aleijadinho parte da devoção barroca, não do estudo anatômico. Em (e), fidelidade de representação não é método científico. Em (a), reproduzir não é investigar.",
                               "formato":  "direta"
                           },
                           {
@@ -36,14 +36,14 @@ window.QUESTION_BANKS = {
                               "texto_apoio":  "A Semana de Arte Moderna de 1922 buscou romper com o academicismo e construir uma identidade artística nacional em diálogo com as vanguardas europeias.",
                               "enunciado":  "Esse duplo movimento — abertura ao repertório internacional sem abrir mão da identidade nacional — permite relacionar a Semana de 22 à seguinte questão contemporânea:",
                               "alternativas":  {
-                                                   "a":  "esse projeto de identidade nacional aberta ao repertório internacional é um traço definidor do Barroco colonial, e não do Modernismo de 1922, de proposta estética distinta",
-                                                   "b":  "o desafio de artistas brasileiros hoje incorporarem tendências culturais globais, como streaming e música eletrônica internacional, sem deixar de afirmar marcas de identidade nacional e regional",
-                                                   "c":  "a exigência de cotas para produções nacionais na programação das emissoras de televisão",
-                                                   "d":  "a valorização de qualquer obra que combine dois estilos diferentes, independentemente de haver ou não um projeto de identidade nacional por trás dessa combinação",
-                                                   "e":  "a previsão, pelos modernistas de 1922, do fenômeno atual da globalização cultural via internet, hipótese anacrônica dado o contexto tecnológico da época"
+                                                   "a":  "a defesa de uma arte nacional depurada de influências estrangeiras, como propunha o Barroco colonial",
+                                                   "b":  "o desafio de artistas brasileiros incorporarem tendências globais sem abrir mão de marcas de identidade regional",
+                                                   "c":  "a exigência de cotas para produções nacionais na programação das emissoras de televisão aberta",
+                                                   "d":  "a valorização de obras que combinem dois estilos diferentes, ainda que sem um projeto de identidade nacional por trás",
+                                                   "e":  "a previsão, pelos modernistas de 1922, do fenômeno atual da globalização cultural pela internet"
                                                },
                               "resposta":  "b",
-                              "explicacao":  "A Semana de 22 buscou uma síntese entre vanguardas estrangeiras e identidade nacional, o que dialoga com o desafio contemporâneo de artistas brasileiros navegarem fluxos culturais globalizados sem perder marcas de identidade — distinto de uma combinação genérica de estilos, de uma antecipação anacrônica da internet, ou de uma confusão com o Barroco.",
+                              "explicacao":  "O gesto de 22 é simultâneo: importar a forma da vanguarda e usá-la para dizer algo brasileiro. É a mesma equação que enfrenta hoje quem produz aqui dentro de circuitos globais. Em (a) está a leitura que inverte o movimento — depurar a influência estrangeira é o oposto do que os modernistas fizeram, e o Barroco colonial tampouco propôs isso. Em (d), a mistura sem projeto perde justamente o que define o modernismo. Em (e), há anacronismo. Em (c), cota é política pública, não questão estética.",
                               "formato":  "direta"
                           },
                           {
@@ -51,14 +51,14 @@ window.QUESTION_BANKS = {
                               "texto_apoio":  "O \"Manifesto Antropófago\" (1928), de Oswald de Andrade, propôs que a cultura brasileira \"devorasse\" criticamente referências estrangeiras, reelaborando-as de forma original.",
                               "enunciado":  "Essa metáfora da antropofagia cultural permite relacionar o manifesto de Oswald de Andrade à seguinte questão contemporânea:",
                               "alternativas":  {
-                                                   "a":  "a previsão, por Oswald de Andrade, do fenômeno específico dos memes de internet, hipótese que ignora o contexto cultural de 1928 em que o manifesto foi escrito",
-                                                   "b":  "a ideia de que qualquer obra brasileira que use referências estrangeiras está automaticamente praticando antropofagia cultural, independentemente de haver reelaboração crítica efetiva",
-                                                   "c":  "essa metáfora da devoração crítica de referências estrangeiras é um conceito criado por Mário de Andrade, e não por Oswald de Andrade, autor do Manifesto Antropófago",
-                                                   "d":  "a proteção jurídica de expressões culturais tradicionais contra uso comercial não autorizado",
-                                                   "e":  "a forma como produtores culturais brasileiros reelaboram criticamente tendências globais de música e internet, misturando-as a referências locais, em vez de apenas reproduzi-las"
+                                                   "a":  "a previsão, por Oswald de Andrade, do fenômeno específico dos memes de circulação na internet",
+                                                   "b":  "a ideia de que uma obra brasileira que use referências estrangeiras já estaria praticando antropofagia cultural, sem mais",
+                                                   "c":  "a criação da metáfora da devoração crítica por Mário de Andrade, em Macunaíma, e não por Oswald",
+                                                   "d":  "a proteção jurídica de expressões culturais tradicionais contra uso comercial não autorizado por terceiros",
+                                                   "e":  "a forma como produtores brasileiros reelaboram criticamente tendências globais, misturando-as a referências locais"
                                                },
                               "resposta":  "e",
-                              "explicacao":  "A antropofagia cultural propõe reelaboração crítica, e não apenas repetição, de referências estrangeiras — o que se relaciona à forma como parte da produção cultural brasileira atual reapropria tendências globais. A simples presença de referência estrangeira não basta (distrator superficial), o conceito não previu fenômeno específico algum (anacronismo), e sua autoria é de Oswald, não de Mário de Andrade (confusão de autoria).",
+                              "explicacao":  "Devorar, na figura de Oswald, é digerir e transformar — o oposto de copiar. O que o conceito ilumina hoje é a produção que reprocessa o global em vez de reproduzi-lo. Em (b) está a banalização mais comum do termo: usar referência estrangeira todo mundo usa, e sem reelaboração crítica não há antropofagia nenhuma. Em (c), Mário escreveu Macunaíma no mesmo ano, mas o manifesto é de Oswald. Em (a), há anacronismo. Em (d), a proteção de saberes tradicionais é um debate jurídico distinto.",
                               "formato":  "direta"
                           },
                           {
@@ -66,14 +66,14 @@ window.QUESTION_BANKS = {
                               "texto_apoio":  "Adorno e Horkheimer cunharam o conceito de \"indústria cultural\" para descrever a padronização de bens culturais produzidos em massa segundo lógica industrial.",
                               "enunciado":  "Esse conceito pode ser relacionado à seguinte questão contemporânea sobre plataformas de streaming:",
                               "alternativas":  {
-                                                   "a":  "a previsão exata, por Adorno e Horkheimer em meados do século XX, do funcionamento técnico dos algoritmos de recomendação digital, tecnologia inexistente à época",
+                                                   "a":  "a previsão exata, por Adorno e Horkheimer, do funcionamento técnico dos algoritmos de recomendação das plataformas",
                                                    "b":  "a concentração do catálogo das plataformas em poucos estúdios detentores dos direitos de exibição",
-                                                   "c":  "o fato de as plataformas de streaming existirem já comprova, por si só, a tese da indústria cultural, independentemente de qualquer análise sobre padronização de conteúdo",
-                                                   "d":  "esse conceito de padronização da cultura de massa foi formulado por Walter Benjamin, e não por Adorno e Horkheimer, autores de \"Dialética do Esclarecimento\"",
-                                                   "e":  "os algoritmos de recomendação favorecem formatos padronizados, como músicas mais curtas e roteiros previsíveis, reproduzindo em nova chave tecnológica a padronização denunciada por Adorno e Horkheimer"
+                                                   "c":  "o fato de as plataformas de streaming existirem, o que comprovaria por si só a tese da indústria cultural",
+                                                   "d":  "a formulação do conceito por Walter Benjamin, em seu ensaio sobre a reprodutibilidade técnica da obra",
+                                                   "e":  "os algoritmos favorecem formatos padronizados, reproduzindo em nova chave a padronização que eles denunciaram"
                                                },
                               "resposta":  "e",
-                              "explicacao":  "O conceito de indústria cultural denuncia a padronização de bens culturais segundo lógica industrial — o que se atualiza hoje na forma como algoritmos de recomendação incentivam formatos padronizados. A mera existência do streaming não basta como argumento (superficial), os autores não previram tecnicamente os algoritmos (anacronismo), e o conceito é de Adorno e Horkheimer, não de Benjamin (confusão de autoria).",
+                              "explicacao":  "A tese não é sobre existir indústria, e sim sobre a forma que ela impõe ao produto: música encurtada para reter o ouvinte, roteiro previsível para não perder o assinante. Em (b) está o distrator mais bem informado, e a distinção é fina — concentração de mercado é problema econômico, e a indústria cultural fala de padronização estética, que pode existir mesmo em mercado pulverizado. Em (c), a mera existência nada prova. Em (a), há anacronismo. Em (d), a autoria é de Adorno e Horkheimer.",
                               "formato":  "direta"
                           },
                           {
@@ -81,14 +81,14 @@ window.QUESTION_BANKS = {
                               "texto_apoio":  "Walter Benjamin argumenta que a reprodutibilidade técnica (fotografia, cinema) esvazia a \"aura\" da obra de arte — sua unicidade, autenticidade e presença em um tempo e lugar específicos.",
                               "enunciado":  "Esse conceito de \"aura\" pode ser relacionado à seguinte questão contemporânea sobre arte digital:",
                               "alternativas":  {
-                                                   "a":  "a digitalização de acervos museológicos para consulta remota por pesquisadores",
-                                                   "b":  "a previsão, por Benjamin, da existência futura de blockchain e criptomoedas, tecnologias inexistentes no contexto em que escreveu sobre a reprodutibilidade técnica",
-                                                   "c":  "o debate sobre NFTs como tentativa de recriar artificialmente, por certificação tecnológica, a unicidade e a autenticidade que Benjamin via como ameaçadas pela reprodutibilidade técnica",
-                                                   "d":  "esse conceito de \"aura\" da obra de arte foi formulado por Theodor Adorno, e não por Walter Benjamin, autor de \"A Obra de Arte na Era de sua Reprodutibilidade Técnica\"",
-                                                   "e":  "a ideia de que qualquer obra disponível na internet perdeu automaticamente todo o seu valor artístico, independentemente de sua forma de circulação"
+                                                   "a":  "a digitalização de acervos museológicos para consulta remota por pesquisadores e estudantes",
+                                                   "b":  "a previsão, por Benjamin, da existência futura do blockchain e das criptomoedas",
+                                                   "c":  "o debate sobre NFTs como tentativa de recriar por certificação tecnológica a unicidade que ele via ameaçada",
+                                                   "d":  "a formulação do conceito de aura por Theodor Adorno, e não pelo autor do ensaio sobre a reprodutibilidade técnica",
+                                                   "e":  "a ideia de que uma obra disponível na internet perde automaticamente o seu valor artístico"
                                                },
                               "resposta":  "c",
-                              "explicacao":  "A reflexão de Benjamin sobre a perda da aura na era da reprodutibilidade técnica dialoga diretamente com o debate contemporâneo sobre NFTs, que tentam recriar tecnologicamente a unicidade da obra digital — distinto de uma generalização sobre obras na internet, de uma antecipação anacrônica do blockchain, ou da confusão com a autoria de Adorno.",
+                              "explicacao":  "O NFT é a resposta mais literal já dada ao problema de Benjamin: diante do arquivo infinitamente copiável, inventa-se um certificado que declara um exemplar único. Em (a) está o distrator que mais se aproxima sem acertar — digitalizar acervo é reprodutibilidade em estado puro, mas descreve o problema, e não a tentativa de recriar a aura. Em (e), perder a aura não é perder valor artístico. Em (b), há anacronismo. Em (d), o ensaio é de Benjamin.",
                               "formato":  "direta"
                           },
                           {
@@ -111,14 +111,14 @@ window.QUESTION_BANKS = {
                               "texto_apoio":  "A Tropicália, com Caetano Veloso, Gilberto Gil e Hélio Oiticica, misturou de forma crítica elementos da cultura popular brasileira com o rock e a vanguarda internacional em plena ditadura militar.",
                               "enunciado":  "Essa mistura antropofágica de repertórios pode ser relacionada à seguinte questão contemporânea sobre música popular brasileira:",
                               "alternativas":  {
-                                                   "a":  "o fato de uma canção misturar dois instrumentos de origens diferentes já basta para caracterizá-la como tropicalista, independentemente de haver ou não crítica social ao contexto político",
-                                                   "b":  "essa mistura crítica entre repertório popular brasileiro e vanguarda internacional é um traço definidor do Cinema Novo, e não da Tropicália de Caetano Veloso e Gilberto Gil",
-                                                   "c":  "a exigência de que festivais reservem parte da grade a artistas da própria região",
-                                                   "d":  "artistas atuais que combinam ritmos regionais, como funk, brega ou forró eletrônico, com produção eletrônica internacional, atualizando a operação tropicalista de reelaborar referências globais sem abandonar a raiz popular",
-                                                   "e":  "a previsão, pelos tropicalistas, dos gêneros eletrônicos que surgiriam décadas depois no Brasil, hipótese anacrônica dado o contexto musical e político dos anos 1960, marcado pela ditadura militar"
+                                                   "a":  "o fato de uma canção misturar dois instrumentos de origens diferentes, o que já a tornaria tropicalista",
+                                                   "b":  "a mistura crítica entre repertório popular brasileiro e vanguarda internacional promovida pelo Cinema Novo dos anos 1960",
+                                                   "c":  "a exigência de que festivais reservem parte da grade a artistas da própria região onde ocorrem",
+                                                   "d":  "artistas que combinam ritmos regionais, como funk e forró eletrônico, com produção eletrônica internacional",
+                                                   "e":  "a previsão, pelos tropicalistas, dos gêneros eletrônicos que surgiriam décadas depois no Brasil"
                                                },
                               "resposta":  "d",
-                              "explicacao":  "A Tropicália propôs uma síntese crítica entre popular brasileiro e vanguarda internacional sob um regime autoritário, o que dialoga com artistas contemporâneos que atualizam essa operação com ritmos populares e produção global — distinto de uma mistura instrumental genérica, de uma previsão anacrônica de gêneros futuros, ou da confusão com o Cinema Novo, movimento cinematográfico distinto.",
+                              "explicacao":  "A operação tropicalista é reelaborar o global a partir da raiz popular, e é o que refazem hoje o funk e o forró eletrônico produzidos com ferramentas internacionais. Em (b) está a confusão mais compreensível: o Cinema Novo é contemporâneo e igualmente antropofágico, mas parte do popular sem incorporar a vanguarda pop, e a guitarra elétrica foi justamente o que separou os dois campos. Em (a), misturar instrumentos não basta. Em (e), há anacronismo. Em (c), cota regional é política de programação.",
                               "formato":  "direta"
                           },
                           {
@@ -126,14 +126,14 @@ window.QUESTION_BANKS = {
                               "texto_apoio":  "Guimarães Rosa, em \"Grande Sertão: Veredas\", recriou a sintaxe da língua portuguesa a partir da oralidade sertaneja, incorporando neologismos e um falar regional ao texto literário.",
                               "enunciado":  "Essa valorização literária da oralidade regional pode ser relacionada à seguinte questão contemporânea:",
                               "alternativas":  {
-                                                   "a":  "o debate sobre preconceito linguístico, que questiona a hierarquia entre a norma culta e as variedades regionais e populares do português, reconhecendo nelas riqueza expressiva",
-                                                   "b":  "o crescimento dos audiolivros narrados por atores com sotaques regionais marcados",
-                                                   "c":  "a ideia de que qualquer texto que utilize palavras incomuns já dialoga com a inovação linguística de Guimarães Rosa, independentemente de haver ou não valorização da oralidade regional",
-                                                   "d":  "essa recriação da sintaxe a partir da oralidade regional é um traço definidor da obra de Jorge Amado, e não de Guimarães Rosa, autor de \"Grande Sertão: Veredas\"",
-                                                   "e":  "a antecipação, por Guimarães Rosa, dos debates atuais sobre inteligência artificial e geração automática de texto, tema alheio ao seu contexto literário"
+                                                   "a":  "o debate sobre preconceito linguístico, que questiona a hierarquia entre norma culta e variedades regionais",
+                                                   "b":  "o crescimento dos audiolivros narrados por atores com sotaques regionais bem marcados",
+                                                   "c":  "a ideia de que um texto que utilize palavras incomuns já dialoga com a inovação de Guimarães Rosa",
+                                                   "d":  "a recriação da sintaxe a partir da oralidade regional na obra de Jorge Amado, e não na de Guimarães Rosa",
+                                                   "e":  "a antecipação, por Guimarães Rosa, dos debates atuais sobre geração automática de texto por inteligência artificial"
                                                },
                               "resposta":  "a",
-                              "explicacao":  "A experimentação de Guimarães Rosa com a oralidade sertaneja dialoga com o debate contemporâneo sobre preconceito linguístico, que valoriza variedades regionais frente à norma culta — distinto de uma associação superficial por vocabulário incomum, de uma antecipação anacrônica da IA, ou da confusão com Jorge Amado, autor de outro projeto literário.",
+                              "explicacao":  "Rosa não transcreve o falar sertanejo como pitoresco: constrói com ele uma sintaxe literária, e nisso afirma que a variedade regional tem potência expressiva própria — a tese central do debate sobre preconceito linguístico. Em (d) está a troca de autor mais plausível, porque Jorge Amado também é do Nordeste e também trabalha a fala popular: ele a registra no diálogo, sem refazer a sintaxe do romance. Em (c), vocabulário raro não é oralidade. Em (b), sotaque na narração não é projeto literário. Em (e), há anacronismo.",
                               "formato":  "direta"
                           },
                           {
@@ -141,14 +141,14 @@ window.QUESTION_BANKS = {
                               "texto_apoio":  "Heitor Villa-Lobos combinou técnicas de composição erudita europeia com elementos do folclore e da cultura popular brasileira, como nas \"Bachianas Brasileiras\".",
                               "enunciado":  "Essa fusão entre erudito e popular na obra de Villa-Lobos pode ser relacionada à seguinte questão contemporânea:",
                               "alternativas":  {
-                                                   "a":  "a ideia de que qualquer peça orquestral que mencione o Brasil em seu título já realiza a mesma fusão entre erudito e popular buscada por Villa-Lobos",
-                                                   "b":  "essa fusão entre técnica erudita europeia e folclore brasileiro é um traço definidor da obra de Chico Buarque, e não de Villa-Lobos, consagrado autor das \"Bachianas Brasileiras\"",
-                                                   "c":  "a formação de orquestras jovens em periferias como política de inclusão social",
-                                                   "d":  "iniciativas atuais de orquestras e casas de música erudita que incorporam samba, funk ou música indígena a seu repertório, reabrindo o debate sobre a hierarquia entre \"alta cultura\" e popular",
-                                                   "e":  "a antecipação, por Villa-Lobos, dos festivais de música eletrônica que fundem gêneros populares contemporâneos, fenômeno tecnológico posterior à sua época"
+                                                   "a":  "a ideia de que uma peça orquestral que mencione o Brasil no título já realiza essa mesma fusão",
+                                                   "b":  "a fusão entre técnica erudita europeia e folclore brasileiro na obra de Chico Buarque, e não na dele",
+                                                   "c":  "a formação de orquestras jovens em periferias como política pública de inclusão social",
+                                                   "d":  "orquestras e casas de música erudita que incorporam samba, funk ou música indígena a seu repertório",
+                                                   "e":  "a antecipação, por Villa-Lobos, dos festivais de música eletrônica que fundem gêneros populares atuais"
                                                },
                               "resposta":  "d",
-                              "explicacao":  "Villa-Lobos integrou erudito e popular numa mesma obra, o que dialoga com iniciativas contemporâneas de aproximação entre música erudita e gêneros populares brasileiros — distinto de uma associação por título (superficial), de uma antecipação anacrônica de festivais eletrônicos, ou da confusão com Chico Buarque, compositor de outra geração e proposta.",
+                              "explicacao":  "Villa-Lobos escreveu contraponto bachiano sobre melodia de modinha; o equivalente hoje é a sala de concerto abrindo o repertório ao samba, ao funk e à música indígena, e reabrindo com isso a discussão sobre o que conta como alta cultura. Em (c) está o distrator mais nobre e mais fora do alvo: orquestra na periferia é inclusão de público, e a questão pergunta pela fusão de linguagens. Em (a), o título não faz a fusão. Em (b), a obra é de Villa-Lobos. Em (e), há anacronismo.",
                               "formato":  "direta"
                           },
                           {
@@ -216,14 +216,14 @@ window.QUESTION_BANKS = {
                               "texto_apoio":  "Pablo Picasso e Georges Braque, no Cubismo, fragmentaram objetos e figuras em planos geométricos, apresentando simultaneamente diferentes pontos de vista de um mesmo elemento.",
                               "enunciado":  "Essa proposta de representar simultaneamente múltiplos pontos de vista pode ser relacionada à seguinte questão contemporânea:",
                               "alternativas":  {
-                                                   "a":  "a presença de formas geométricas em uma pintura, o que já bastaria para relacioná-la ao Cubismo, independentemente de haver ou não sobreposição de pontos de vista",
-                                                   "b":  "o debate sobre narrativas históricas e jornalísticas que buscam incorporar múltiplas perspectivas e vozes sobre um mesmo evento, em vez de um único ponto de vista tido como neutro ou definitivo",
-                                                   "c":  "a antecipação, por Picasso e Braque, das câmeras panorâmicas de 360 graus usadas em produções audiovisuais atuais, tecnologia inexistente no início do século XX",
-                                                   "d":  "o uso de câmeras de segurança que registram um mesmo ambiente de vários ângulos simultâneos",
-                                                   "e":  "essa fragmentação de planos e pontos de vista simultâneos é um traço definidor do Futurismo, e não do Cubismo de Picasso e Braque, centrado na fragmentação geométrica"
+                                                   "a":  "a presença de formas geométricas em uma pintura, o que já bastaria para relacioná-la ao Cubismo",
+                                                   "b":  "o debate sobre narrativas históricas e jornalísticas que incorporam múltiplas vozes sobre um mesmo evento",
+                                                   "c":  "a antecipação, por Picasso e Braque, das câmeras panorâmicas de 360 graus usadas hoje no audiovisual",
+                                                   "d":  "o uso de câmeras de segurança que registram um mesmo ambiente de vários ângulos simultâneos em tempo real",
+                                                   "e":  "a fragmentação de planos e pontos de vista simultâneos que define o Futurismo italiano"
                                                },
                               "resposta":  "b",
-                              "explicacao":  "O Cubismo rompeu com a perspectiva única, apresentando múltiplos ângulos simultâneos — o que dialoga com o debate contemporâneo sobre pluralidade de vozes e perspectivas na narrativa histórica e jornalística, distinto de uma associação por forma geométrica genérica, de uma antecipação anacrônica de câmeras 360°, ou da confusão com o Futurismo.",
+                              "explicacao":  "O Cubismo abandona o observador único e neutro, e é essa recusa que a historiografia e o jornalismo contemporâneos refazem ao multiplicar as vozes sobre um mesmo acontecimento. Em (d) está a analogia mais literal e por isso enganosa: várias câmeras produzem vários registros separados, enquanto o Cubismo funde os ângulos numa única imagem, que é onde está a ruptura. Em (a), geometria não basta. Em (e), o Futurismo trata de movimento e velocidade. Em (c), há anacronismo.",
                               "formato":  "direta"
                           },
                           {
@@ -231,14 +231,14 @@ window.QUESTION_BANKS = {
                               "texto_apoio":  "\"Abaporu\" (1928), de Tarsila do Amaral, com sua figura de proporções desconformes, inspirou diretamente o Manifesto Antropófago de Oswald de Andrade.",
                               "enunciado":  "A relação entre \"Abaporu\" e o Manifesto Antropófago permite relacionar a obra à seguinte questão contemporânea:",
                               "alternativas":  {
-                                                   "a":  "a previsão, por Tarsila do Amaral, do movimento tropicalista que surgiria décadas depois com Caetano Veloso, hipótese anacrônica dado o contexto modernista de 1928",
-                                                   "b":  "a valorização recorde de obras modernistas brasileiras em leilões internacionais",
-                                                   "c":  "essa inspiração direta para um manifesto cultural é um traço definidor da obra de Anita Malfatti, e não de Tarsila do Amaral, autora de \"Abaporu\" e uma das principais pintoras do modernismo",
-                                                   "d":  "o fato de \"Abaporu\" retratar uma figura humana, o que a relacionaria a qualquer obra contemporânea que também tenha uma figura humana isolada como tema central da composição",
-                                                   "e":  "o debate sobre como ícones visuais brasileiros continuam sendo reapropriados e ressignificados por diferentes gerações de artistas, em um processo contínuo de reinvenção da identidade nacional"
+                                                   "a":  "a previsão, por Tarsila do Amaral, do movimento tropicalista que surgiria quatro décadas depois",
+                                                   "b":  "a valorização recorde de obras modernistas brasileiras em leilões internacionais de arte",
+                                                   "c":  "a inspiração direta para um manifesto cultural partindo da obra de Anita Malfatti, e não da pintura de Tarsila do Amaral",
+                                                   "d":  "o fato de \"Abaporu\" retratar uma figura humana isolada como tema central da composição",
+                                                   "e":  "o debate sobre como ícones visuais brasileiros seguem sendo reapropriados e ressignificados por novas gerações"
                                                },
                               "resposta":  "e",
-                              "explicacao":  "\"Abaporu\" tornou-se ícone de um projeto de identidade nacional em constante reelaboração, o que dialoga com o modo como ícones visuais brasileiros seguem sendo ressignificados — distinto de uma ligação genérica pela figura humana, de uma previsão anacrônica da Tropicália, ou da confusão de autoria com Anita Malfatti.",
+                              "explicacao":  "Uma pintura gerou um manifesto, o manifesto gerou um programa cultural, e o programa segue sendo reaberto a cada geração — o Abaporu é o caso exemplar de ícone que não para de ser redefinido. Em (c) está a confusão de autoria mais razoável, porque Anita Malfatti também é central no modernismo e sua exposição de 1917 provocou o artigo de Monteiro Lobato que mobilizou o grupo; a tela que inspira Oswald, contudo, é de Tarsila. Em (d), a figura humana não explica a relação. Em (a), há anacronismo. Em (b), o preço em leilão é outro assunto.",
                               "formato":  "direta"
                           },
                           {
@@ -3955,12 +3955,12 @@ window.QUESTION_BANKS = {
                                          "alternativas":  {
                                                               "a":  "os hidrofluorcarbonetos, empregados em sistemas de refrigeração industrial",
                                                               "b":  "o óxido nitroso, associado principalmente ao uso de fertilizantes nitrogenados",
-                                                              "c":  "o metano, emitido majoritariamente pela pecuária e por aterros sanitários",
-                                                              "d":  "o ozônio troposférico, formado por reações fotoquímicas com poluentes veiculares",
+                                                              "c":  "o metano, emitido majoritariamente pela pecuária e pelos aterros sanitários urbanos",
+                                                              "d":  "o ozônio troposférico, formado por reações fotoquímicas entre poluentes de origem veicular",
                                                               "e":  "o dióxido de carbono (CO2), emitido sobretudo pela queima de combustíveis fósseis"
                                                           },
                                          "resposta":  "e",
-                                         "explicacao":  "O dióxido de carbono é o gás de efeito estufa emitido em maior volume pelas atividades humanas, sobretudo pela queima de combustíveis fósseis, processos industriais e desmatamento, embora outros gases, como o metano, tenham maior potencial de retenção de calor por molécula.",
+                                         "explicacao":  "A pergunta é sobre volume, e nesse critério o CO2 domina com folga. Em (c) está a alternativa que exige atenção ao enunciado: o metano retém muito mais calor por molécula, e quem lê o texto de apoio às pressas troca uma coisa pela outra — potência por molécula não é volume emitido. Em (a) e (b), hidrofluorcarbonetos e óxido nitroso são potentes e pouco volumosos. Em (d), o ozônio troposférico é poluente local, e não o principal gás de efeito estufa antrópico.",
                                          "formato":  "direta"
                                      },
                                      {
@@ -4013,14 +4013,14 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "Em determinados sistemas regulatórios, o governo define um limite total de emissões permitidas para um conjunto de empresas e distribui ou leiloa permissões de emissão, que podem ser negociadas entre elas.",
                                          "enunciado":  "Nesse mecanismo, uma empresa que reduz suas emissões abaixo do limite estabelecido pode:",
                                          "alternativas":  {
-                                                              "a":  "converter o excedente em isenção tributária junto ao órgão ambiental competente",
-                                                              "b":  "perder o direito de operar no mercado regulado de emissões daquele setor",
-                                                              "c":  "vender o excedente de permissões de emissão a outras empresas que ultrapassaram seus limites",
-                                                              "d":  "ser automaticamente multada pelo governo, independentemente do volume emitido",
-                                                              "e":  "ser obrigada a doar suas permissões ao governo sem qualquer compensação financeira"
+                                                              "a":  "converter o excedente em isenção tributária junto ao órgão ambiental competente de seu estado",
+                                                              "b":  "perder o direito de operar no mercado regulado de emissões daquele setor industrial",
+                                                              "c":  "vender o excedente de permissões a outras empresas que ultrapassaram seus limites",
+                                                              "d":  "ser automaticamente multada pelo governo, a despeito do volume que tenha emitido",
+                                                              "e":  "ser obrigada a devolver as permissões excedentes ao órgão regulador ao fim do período"
                                                           },
                                          "resposta":  "c",
-                                         "explicacao":  "No sistema de comércio de emissões (cap-and-trade), empresas que emitem menos do que o limite permitido podem vender o excedente de permissões a empresas que precisam emitir mais do que sua cota original, criando um incentivo econômico para a redução das emissões.",
+                                         "explicacao":  "É o cap-and-trade: o teto total é fixo, mas as permissões circulam, e quem reduz mais lucra vendendo a quem reduz menos — o incentivo econômico está justamente nessa negociação. Em (e) está o desenho alternativo mais plausível, e é o que anularia o mecanismo: se o excedente voltasse ao regulador sem compensação, não haveria razão para reduzir além da cota. Em (a), o benefício é de mercado, não tributário. Em (b) e (d), reduzir emissões não gera punição.",
                                          "formato":  "direta"
                                      },
                                      {
@@ -4058,14 +4058,14 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "No modelo tradicional de produção e consumo, recursos são extraídos, transformados em produtos, utilizados e descartados como resíduo ao final de sua vida útil.",
                                          "enunciado":  "Em contraste com esse modelo linear, a economia circular propõe principalmente:",
                                          "alternativas":  {
-                                                              "a":  "reduzir, reutilizar, reciclar e reintegrar materiais ao ciclo produtivo, minimizando resíduos",
-                                                              "b":  "extrair, transformar e destinar corretamente ao aterro sanitário licenciado",
+                                                              "a":  "reduzir, reutilizar, reciclar e reintegrar materiais ao ciclo produtivo",
+                                                              "b":  "extrair, transformar e destinar corretamente o resíduo ao aterro sanitário licenciado",
                                                               "c":  "descartar produtos com maior rapidez para estimular o consumo, conforme o modelo linear",
-                                                              "d":  "eliminar completamente a necessidade de indústria de transformação em qualquer setor",
+                                                              "d":  "eliminar a necessidade de indústria de transformação, substituída pelo reparo doméstico",
                                                               "e":  "aumentar a extração de recursos naturais não renováveis, ampliando a produção linear"
                                                           },
                                          "resposta":  "a",
-                                         "explicacao":  "A economia circular busca romper com a lógica linear de extrair-produzir-descartar, promovendo a reutilização, reciclagem e reintegração de materiais ao ciclo produtivo, de modo a reduzir o consumo de recursos naturais e a geração de resíduos.",
+                                         "explicacao":  "A circularidade rompe a ponta final do modelo: em vez de virar resíduo, o material volta ao ciclo produtivo. Em (b) está a confusão mais comum entre gestão de resíduos e economia circular — destinar corretamente ao aterro é boa prática ambiental, mas continua sendo o fim linear da cadeia, e é exatamente esse fim que a proposta elimina. Em (d), a indústria permanece, reorganizada. Em (c) e (e), acelerar descarte e extração é o modelo oposto.",
                                          "formato":  "direta"
                                      },
                                      {
@@ -4148,14 +4148,14 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "Determinado princípio do direito ambiental estabelece que os custos associados à prevenção, controle e reparação da poluição devem ser suportados por quem a causa, e não pela coletividade.",
                                          "enunciado":  "Esse princípio é conhecido como:",
                                          "alternativas":  {
-                                                              "a":  "princípio da livre concorrência, disciplinado pela ordem econômica constitucional, sem relação com custos ambientais",
-                                                              "b":  "princípio do poluidor-pagador, que internaliza os custos ambientais no causador, consagrado na Política Nacional do Meio Ambiente",
-                                                              "c":  "princípio da precaução, frequentemente confundido com o poluidor-pagador por ambos regularem atividades de risco",
+                                                              "a":  "princípio da livre concorrência, disciplinado pela ordem econômica constitucional",
+                                                              "b":  "princípio do poluidor-pagador, que internaliza no causador os custos ambientais da atividade",
+                                                              "c":  "princípio da precaução, que impõe cautela diante de riscos ambientais ainda não comprovados cientificamente",
                                                               "d":  "princípio da prevenção, aplicável a riscos já conhecidos e cientificamente comprovados",
-                                                              "e":  "princípio da anterioridade tributária, regra orçamentária que não trata de responsabilização por danos ambientais"
+                                                              "e":  "princípio da anterioridade, que condiciona a cobrança de novos tributos ao exercício financeiro seguinte"
                                                           },
                                          "resposta":  "b",
-                                         "explicacao":  "O princípio do poluidor-pagador determina que os custos ambientais gerados por uma atividade poluidora devem ser internalizados por quem a pratica, evitando que a sociedade como um todo arque com os custos de reparação de danos causados por terceiros.",
+                                         "explicacao":  "O poluidor-pagador internaliza o custo ambiental em quem o gera, e está na Política Nacional do Meio Ambiente e no art. 225 da Constituição. Em (c) e (d) estão os dois princípios com que ele mais se confunde, e a diferença é de função: precaução e prevenção dizem quando agir diante do risco — sem certeza científica ou com ela —, enquanto o poluidor-pagador diz quem paga a conta depois. Em (a) e (e), livre concorrência e anterioridade pertencem à ordem econômica e ao direito tributário.",
                                          "formato":  "direta"
                                      },
                                      {
@@ -4193,14 +4193,14 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "Um conjunto de 17 objetivos globais, adotado por praticamente todos os países-membros da ONU, estabelece metas relacionadas a erradicação da pobreza, igualdade de gênero, ação climática e outros temas, a serem perseguidas até um horizonte temporal comum.",
                                          "enunciado":  "Esse conjunto de objetivos, conhecido como Objetivos de Desenvolvimento Sustentável (ODS), caracteriza-se por:",
                                          "alternativas":  {
-                                                              "a":  "restringir-se à dimensão ambiental, deixando as demais a cargo de outros acordos",
-                                                              "b":  "aplicar-se exclusivamente a países em desenvolvimento, isentando as nações industrializadas",
-                                                              "c":  "substituir integralmente as legislações ambientais nacionais de cada Estado-membro",
-                                                              "d":  "integrar dimensões econômicas, sociais e ambientais em metas não vinculantes, orientando políticas públicas",
+                                                              "a":  "restringir-se à dimensão ambiental, deixando as demais a cargo de outros acordos multilaterais",
+                                                              "b":  "aplicar-se apenas a países em desenvolvimento, com metas próprias para nações industrializadas",
+                                                              "c":  "substituir integralmente as legislações ambientais nacionais de cada Estado-membro signatário",
+                                                              "d":  "integrar dimensões econômicas, sociais e ambientais em metas não vinculantes",
                                                               "e":  "ser juridicamente vinculante, sujeito a sanções automáticas em caso de descumprimento das metas"
                                                           },
                                          "resposta":  "d",
-                                         "explicacao":  "Os ODS constituem uma agenda global não vinculante juridicamente, que integra dimensões econômicas, sociais e ambientais do desenvolvimento sustentável, servindo como referência para políticas públicas, mas dependendo da adesão voluntária dos países para sua implementação.",
+                                         "explicacao":  "Os ODS são uma agenda ampla e voluntária: cobrem economia, sociedade e meio ambiente, e valem para todos os países, ricos e pobres, sem força obrigatória. Em (e) está a suposição mais natural de quem assume que compromisso internacional implica sanção — a adesão é política, e a cobrança se faz por relatórios e pressão pública, não por punição. Em (b), a universalidade é a novidade em relação às Metas do Milênio. Em (a) e (c), o escopo excede o ambiental e não revoga lei nacional.",
                                          "formato":  "direta"
                                      },
                                      {
@@ -4223,14 +4223,14 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "Regiões áridas e semiáridas, além de grandes centros urbanos com sistemas de abastecimento sobrecarregados, têm enfrentado períodos de escassez no fornecimento de água potável.",
                                          "enunciado":  "Entre os fatores que agravam a escassez hídrica em áreas urbanas está:",
                                          "alternativas":  {
-                                                              "a":  "a diminuição do uso de água para fins agrícolas e industriais, liberando volume adicional de água tratada para uso urbano direto",
-                                                              "b":  "a redução constante do consumo de água pela população, favorecida pela educação hídrica e por campanhas públicas de conscientização",
-                                                              "c":  "o aumento generalizado da cobertura florestal nas bacias hidrográficas urbanas, elevando a vazão dos mananciais que abastecem a cidade",
-                                                              "d":  "o crescimento populacional aliado a perdas na distribuição e à impermeabilização do solo, que reduz a infiltração e recarga de aquíferos",
-                                                              "e":  "a redução das perdas na distribuição por modernização das redes de abastecimento"
+                                                              "a":  "a transferência de água da agricultura para o abastecimento urbano, que reduz a oferta nas bacias de origem",
+                                                              "b":  "a redução do consumo por habitante, insuficiente para compensar o crescimento das cidades",
+                                                              "c":  "o aumento da cobertura florestal nas bacias hidrográficas, que elevaria o consumo de água pela vegetação",
+                                                              "d":  "o crescimento populacional somado a perdas na distribuição e à impermeabilização do solo",
+                                                              "e":  "a redução das perdas na distribuição por modernização das redes de abastecimento urbanas"
                                                           },
                                          "resposta":  "d",
-                                         "explicacao":  "O crescimento populacional, as perdas em redes de distribuição antigas e a impermeabilização do solo por asfalto e construções — que reduz a infiltração de água da chuva e a recarga de aquíferos — estão entre os fatores que agravam a escassez hídrica em centros urbanos.",
+                                         "explicacao":  "Mais gente para abastecer, rede que vaza e cidade asfaltada que impede a chuva de recarregar o aquífero — os três fatores se somam. Em (c) está a alternativa mais capciosa, porque de fato a vegetação consome água: o efeito líquido da cobertura florestal, porém, é proteger o manancial, reduzir o assoreamento e regularizar a vazão. Em (a), a transferência para o uso urbano alivia a cidade. Em (b) e (e), consumo menor e menos perdas atenuam a escassez em vez de agravá-la.",
                                          "formato":  "direta"
                                      },
                                      {
@@ -4328,14 +4328,14 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "Parques nacionais, reservas biológicas e áreas de proteção ambiental são categorias de espaços territoriais legalmente protegidos, com diferentes graus de restrição ao uso humano.",
                                          "enunciado":  "O principal objetivo da criação de unidades de conservação é:",
                                          "alternativas":  {
-                                                              "a":  "eliminar toda e qualquer presença de populações tradicionais no território nacional, inclusive em áreas de uso sustentável",
-                                                              "b":  "compensar financeiramente proprietários que preservem vegetação em áreas privadas",
-                                                              "c":  "proteger ecossistemas, espécies e processos ecológicos, podendo conciliar conservação com pesquisa científica e uso sustentável",
-                                                              "d":  "estimular a exploração comercial irrestrita dos recursos naturais locais, sem qualquer limite legal de uso",
-                                                              "e":  "transferir a gestão de recursos naturais exclusivamente para empresas privadas, dispensando qualquer supervisão do poder público"
+                                                              "a":  "remover as populações tradicionais das áreas protegidas, sem distinção de categoria",
+                                                              "b":  "compensar financeiramente proprietários rurais que preservem vegetação nativa em suas áreas privadas",
+                                                              "c":  "proteger ecossistemas, espécies e processos ecológicos do território",
+                                                              "d":  "estimular a exploração comercial dos recursos naturais locais sem limite legal de uso",
+                                                              "e":  "transferir a gestão dos recursos naturais a empresas privadas, sob contrato de concessão"
                                                           },
                                          "resposta":  "c",
-                                         "explicacao":  "Unidades de conservação têm como principal objetivo proteger ecossistemas, espécies e processos ecológicos; algumas categorias permitem uso sustentável dos recursos e pesquisa científica, enquanto outras impõem restrições mais rígidas à presença e exploração humana.",
+                                         "explicacao":  "A finalidade é conservar ecossistemas, espécies e os processos que os sustentam; o grau de restrição varia por categoria, e as de uso sustentável admitem presença humana e pesquisa. Em (a) está o equívoco de maior consequência prática: reservas extrativistas e de desenvolvimento sustentável existem justamente para manter populações tradicionais no território. Em (b), a compensação a proprietários é outro instrumento. Em (d) e (e), exploração irrestrita e concessão privada não são o objetivo da criação.",
                                          "formato":  "direta"
                                      },
                                      {
@@ -4343,14 +4343,14 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "Diante dos efeitos já observados das mudanças climáticas, como eventos extremos mais frequentes, países têm investido tanto em reduzir emissões quanto em se preparar para os impactos já inevitáveis.",
                                          "enunciado":  "A diferença central entre mitigação e adaptação às mudanças climáticas é que a mitigação busca:",
                                          "alternativas":  {
-                                                              "a":  "eliminar totalmente qualquer efeito futuro das mudanças climáticas, inclusive os já inevitáveis pelo aquecimento acumulado",
-                                                              "b":  "substituir integralmente a necessidade de políticas de adaptação, tornando-as desnecessárias em qualquer cenário futuro",
+                                                              "a":  "eliminar os efeitos futuros das mudanças climáticas, incluindo os já inevitáveis pelo aquecimento acumulado",
+                                                              "b":  "substituir as políticas de adaptação, tornando-as desnecessárias nos cenários mais moderados",
                                                               "c":  "transferir a responsabilidade pelas emissões do país produtor para o país consumidor",
-                                                              "d":  "reduzir as causas das mudanças climáticas, enquanto a adaptação busca reduzir a vulnerabilidade e os danos causados por seus efeitos já em curso",
+                                                              "d":  "reduzir as causas das mudanças climáticas, enquanto a adaptação reduz a vulnerabilidade aos efeitos em curso",
                                                               "e":  "reduzir a vulnerabilidade a efeitos climáticos, enquanto a adaptação busca reduzir emissões de gases de efeito estufa"
                                                           },
                                          "resposta":  "d",
-                                         "explicacao":  "A mitigação refere-se a ações voltadas a reduzir as causas das mudanças climáticas, como a redução de emissões de gases de efeito estufa, enquanto a adaptação busca reduzir a vulnerabilidade de pessoas, cidades e ecossistemas aos efeitos climáticos que já estão em curso ou são inevitáveis.",
+                                         "explicacao":  "Mitigação age na causa — cortar emissões; adaptação age na consequência — reduzir o dano do que já vem acontecendo. Em (e) está a troca exata dos dois termos, e é o erro mais frequente do tema, porque as duas palavras soam igualmente técnicas e a ordem em que aparecem no enunciado não ajuda a distingui-las. Em (a) e (b), nenhuma das duas dispensa a outra: parte do aquecimento já está contratada. Em (c), a contabilidade de emissões é outra discussão.",
                                          "formato":  "direta"
                                      },
                                      {
@@ -4388,14 +4388,14 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "Antes da implantação de grandes empreendimentos, como usinas hidrelétricas ou rodovias, órgãos ambientais costumam exigir a apresentação de um estudo técnico sobre os efeitos previstos sobre o meio ambiente.",
                                          "enunciado":  "Esse instrumento de política ambiental, utilizado para prever e mitigar impactos antes da instalação de um empreendimento, é conhecido como:",
                                          "alternativas":  {
-                                                              "a":  "balanço patrimonial ambiental, relatório contábil de ativos verdes",
+                                                              "a":  "balanço patrimonial ambiental, relatório contábil de ativos e passivos verdes",
                                                               "b":  "auditoria fiscal, exame contábil de obrigações tributárias",
                                                               "c":  "Estudo e Relatório de Impacto Ambiental (EIA/RIMA), prévio ao licenciamento",
-                                                              "d":  "zoneamento ecológico-econômico, instrumento de ordenamento territorial",
+                                                              "d":  "zoneamento ecológico-econômico, instrumento de ordenamento territorial das bacias",
                                                               "e":  "certificado de origem, documento de rastreabilidade comercial"
                                                           },
                                          "resposta":  "c",
-                                         "explicacao":  "O Estudo de Impacto Ambiental e o respectivo Relatório de Impacto Ambiental (EIA/RIMA) são instrumentos utilizados para avaliar previamente os possíveis impactos ambientais de um empreendimento, subsidiando a decisão sobre seu licenciamento e as medidas de mitigação necessárias.",
+                                         "explicacao":  "O EIA avalia previamente os impactos e o RIMA os traduz em linguagem acessível ao público; juntos subsidiam a decisão sobre o licenciamento e as medidas de mitigação exigidas. Em (d) está o único outro instrumento genuinamente ambiental da lista, e a distinção importa: o zoneamento organiza o uso do território em escala regional e é anterior a qualquer projeto, enquanto o EIA/RIMA examina um empreendimento específico. Em (a), (b) e (e), os documentos são contábeis ou comerciais.",
                                          "formato":  "direta"
                                      },
                                      {
@@ -4433,14 +4433,14 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "Consumidores têm buscado informações sobre a origem, os processos produtivos e os impactos socioambientais de produtos antes de decidir pela compra.",
                                          "enunciado":  "Selos e certificações ambientais concedidos a determinados produtos têm como principal função:",
                                          "alternativas":  {
-                                                              "a":  "obrigar legalmente todos os concorrentes a adotar os mesmos processos produtivos, independentemente de certificação voluntária",
+                                                              "a":  "obrigar os concorrentes do setor a adotar os mesmos processos produtivos do produto certificado",
                                                               "b":  "garantir automaticamente o menor preço do produto no mercado, tornando-o mais competitivo que concorrentes não certificados",
-                                                              "c":  "substituir o licenciamento ambiental exigido pelo órgão competente",
-                                                              "d":  "eliminar qualquer necessidade de fiscalização ambiental por parte do Estado sobre o setor produtivo certificado",
-                                                              "e":  "atestar, por meio de critérios verificáveis, que um produto ou processo produtivo atende a determinados padrões ambientais ou sociais"
+                                                              "c":  "substituir o licenciamento ambiental exigido pelo órgão ambiental competente",
+                                                              "d":  "dispensar a fiscalização ambiental do Estado sobre o setor produtivo já certificado",
+                                                              "e":  "atestar, por critérios verificáveis, que o produto atende a padrões ambientais ou sociais"
                                                           },
                                          "resposta":  "e",
-                                         "explicacao":  "Selos e certificações ambientais buscam atestar, com base em critérios técnicos verificáveis por terceiros, que um produto ou processo produtivo atende a determinados padrões ambientais ou sociais, funcionando como sinalização de qualidade para consumidores e mercados.",
+                                         "explicacao":  "A certificação é sinalização: um terceiro verifica critérios técnicos e o selo comunica esse resultado a quem compra. Em (d) está a confusão mais séria entre regulação e mercado — a certificação é voluntária e privada, e não substitui nem reduz o poder de fiscalização do Estado, que continua integral. Em (c), pelo mesmo motivo, ela não faz as vezes de licença ambiental. Em (a), não vincula concorrentes. Em (b), produtos certificados costumam custar mais, não menos.",
                                          "formato":  "direta"
                                      },
                                      {
@@ -18622,14 +18622,14 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "",
                                 "enunciado":  "A abdicação de Dom Pedro I ao trono brasileiro, em 1831, foi resultado, entre outros fatores, de:",
                                 "alternativas":  {
-                                                     "a":  "A derrota militar na Guerra da Cisplatina, único fator apontado para a perda de sustentação política do imperador",
-                                                     "b":  "Desgaste político por sua ligação com Portugal, atritos com a elite e crise econômica, agravados pelo chamado \u0027partido português\u0027",
-                                                     "c":  "Derrota militar do Brasil na Guerra do Paraguai, conflito que, na verdade, terminou em vitória brasileira em 1870",
-                                                     "d":  "Pressão popular para transformar o Brasil em uma república, bandeira que só ganharia força décadas depois, em 1889",
-                                                     "e":  "Sua identificação total com os interesses da elite política nacional, o oposto do que de fato gerou sua abdicação"
+                                                     "a":  "Desgaste político por sua ligação com Portugal, atritos com a elite e crise econômica no fim do reinado",
+                                                     "b":  "A derrota militar na Guerra da Cisplatina, apontada como único fator da perda de sustentação política do imperador",
+                                                     "c":  "Derrota militar do Brasil na Guerra do Paraguai, conflito que teria esgotado o prestígio militar do imperador",
+                                                     "d":  "Pressão popular organizada para transformar o Brasil em uma república, com apoio das províncias do Norte",
+                                                     "e":  "Sua identificação com os interesses da elite política nacional, que teria tornado insustentável seu governo"
                                                  },
-                                "resposta":  "b",
-                                "explicacao":  "Dom Pedro I perdeu apoio político por ser visto como excessivamente ligado a Portugal, por conflitos com parlamentares brasileiros e por dificuldades econômicas, o que culminou em sua abdicação em favor do filho, ainda criança.",
+                                "resposta":  "a",
+                                "explicacao":  "O imperador era visto como português demais, brigava com os parlamentares brasileiros e governava sob crise econômica — a soma dessas frentes o levou a abdicar em favor do filho de cinco anos. Em (b) está o distrator mais defensável: a Cisplatina de fato pesou no desgaste, mas apresentá-la como causa única ignora o conjunto. Em (c), a Guerra do Paraguai é de 1864 a 1870. Em (d), a bandeira republicana só ganharia força em 1889. Em (e), foi o afastamento da elite brasileira, e não a identificação com ela, que o derrubou.",
                                 "formato":  "direta"
                             },
                             {
@@ -18682,14 +18682,14 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "",
                                 "enunciado":  "Durante a chamada República Velha (1889-1930), a política do \u0027café com leite\u0027 e o coronelismo caracterizavam-se, respectivamente, por:",
                                 "alternativas":  {
-                                                     "a":  "Impedir a entrada de colonos portugueses no território, medida contrária ao próprio objetivo de povoamento que motivou a criação das capitanias",
-                                                     "b":  "A alternância entre os partidos Liberal e Conservador no gabinete, arbitrada pelo Poder Moderador do imperador",
-                                                     "c":  "Uma aliança entre operários e camponeses, e pelo poder exclusivo dos governos estaduais, arranjo nunca formalizado na República Velha",
-                                                     "d":  "Estabelecer imediatamente a mineração como principal atividade econômica, décadas antes da descoberta do ouro em Minas Gerais",
-                                                     "e":  "Um rodízio informal de poder entre São Paulo e Minas Gerais na presidência, e pelo domínio político de chefes locais sobre eleitores em áreas rurais"
+                                                     "a":  "Pela alternância entre os estados do Nordeste na presidência e pelo controle militar das eleições municipais",
+                                                     "b":  "Pela alternância entre os partidos Liberal e Conservador no gabinete ministerial, arbitrada pelo Poder Moderador do imperador em cada legislatura",
+                                                     "c":  "Por uma aliança entre operários e camponeses e pelo poder dos sindicatos rurais sobre as prefeituras",
+                                                     "d":  "Pela rotatividade dos governadores no comando do Exército e pelo voto secreto nas zonas rurais",
+                                                     "e":  "Por um rodízio informal de poder entre São Paulo e Minas na presidência, e pelo domínio de chefes locais sobre o voto rural"
                                                  },
                                 "resposta":  "e",
-                                "explicacao":  "A política do café com leite referia-se ao predomínio de São Paulo e Minas Gerais na sucessão presidencial, enquanto o coronelismo era o sistema pelo qual chefes políticos locais (coronéis) controlavam o voto e trocavam favores com o poder estadual e federal.",
+                                "explicacao":  "São dois mecanismos encaixados: no alto, paulistas e mineiros revezando a presidência; na base, o coronel entregando o voto de seus dependentes em troca de favores. Em (b) está a confusão de regime que a questão pede para evitar — a alternância entre Liberais e Conservadores arbitrada pelo Poder Moderador é o parlamentarismo do Império, encerrado em 1889. Em (c), operários e camponeses estavam fora do arranjo. Em (a) e (d), nem o Nordeste comandava a sucessão nem havia voto secreto antes de 1932.",
                                 "formato":  "direta"
                             },
                             {
@@ -18698,13 +18698,13 @@ window.QUESTION_BANKS = {
                                 "enunciado":  "A Revolução de 1930, que levou Getúlio Vargas ao poder e encerrou a República Velha, teve entre suas causas:",
                                 "alternativas":  {
                                                      "a":  "A pressão de movimentos operários urbanos organizados, que impuseram a substituição do governo por via revolucionária",
-                                                     "b":  "A abolição da escravidão, ocorrida décadas antes e sem relação direta com a crise política de 1930, que se completaria apenas em 1888",
-                                                     "c":  "A crise de 1929 e seus efeitos sobre a economia cafeeira, somada à ruptura do acordo do café com leite com a candidatura de Júlio Prestes",
-                                                     "d":  "A imediata industrialização plena do país nas décadas anteriores, processo que de fato só ganharia impulso com o próprio governo Vargas",
-                                                     "e":  "A vitória militar do Brasil na Primeira Guerra Mundial, conflito de participação modesta e sem relação com a crise de 1929"
+                                                     "b":  "A abolição da escravidão, cujos efeitos sobre a estrutura agrária teriam maturado ao longo de quatro décadas",
+                                                     "c":  "A vitória militar do Brasil na Primeira Guerra Mundial, que teria dado ao Exército peso decisivo na política",
+                                                     "d":  "A industrialização plena alcançada nas décadas anteriores, que teria tornado a elite cafeeira politicamente minoritária",
+                                                     "e":  "A crise de 1929 e seus efeitos sobre a economia cafeeira, somada à ruptura do acordo do café com leite"
                                                  },
-                                "resposta":  "c",
-                                "explicacao":  "A crise econômica de 1929 afetou duramente a economia cafeeira, e a ruptura da aliança São Paulo-Minas Gerais, quando Washington Luís apoiou Júlio Prestes (paulista) em vez de um mineiro, gerou a Aliança Liberal e o movimento armado que levou Vargas ao poder.",
+                                "resposta":  "e",
+                                "explicacao":  "A quebra de 1929 derrubou o preço do café e, no mesmo momento, Washington Luís rompeu o rodízio ao lançar o paulista Júlio Prestes — economia e política cederam juntas, e daí saiu a Aliança Liberal. Em (a) está o distrator mais atraente para quem associa revolução a movimento popular: houve participação de tenentes e de setores urbanos, mas quem conduziu foram oligarquias dissidentes. Em (d), a industrialização veio depois, com Vargas. Em (b) e (c), a abolição é de 1888 e a participação na guerra foi modesta.",
                                 "formato":  "direta"
                             },
                             {
@@ -18847,14 +18847,14 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "",
                                 "enunciado":  "Entre as principais consequências da Guerra do Paraguai para o Brasil, destaca-se:",
                                 "alternativas":  {
-                                                     "a":  "O fortalecimento econômico do Paraguai, vencedor do conflito, quando na verdade o país foi devastado pela derrota",
+                                                     "a":  "O fortalecimento econômico do Paraguai, que teria saído do conflito com sua indústria preservada",
                                                      "b":  "A redução do peso político do Exército, que voltou aos quartéis sem interferir na vida institucional do Império",
-                                                     "c":  "A imediata abolição da escravidão como recompensa aos soldados, medida que só ocorreria décadas depois, em 1888",
-                                                     "d":  "O fortalecimento político e institucional do Exército e o aumento da dívida externa brasileira, contraída sobretudo com a Inglaterra",
-                                                     "e":  "A redução do prestígio e do poder político do Exército brasileiro, o oposto do que de fato ocorreu após 1870"
+                                                     "c":  "A imediata abolição da escravidão como recompensa aos soldados que serviram no conflito",
+                                                     "d":  "A anexação de amplo território paraguaio ao Brasil, incorporado como nova província do Império após 1870",
+                                                     "e":  "O fortalecimento político do Exército e o aumento da dívida externa, contraída sobretudo com a Inglaterra"
                                                  },
-                                "resposta":  "d",
-                                "explicacao":  "A guerra fortaleceu o Exército brasileiro como instituição política, ampliando sua influência posterior na vida pública, e elevou substancialmente a dívida externa do país, contraída em grande parte com bancos ingleses para financiar o esforço de guerra.",
+                                "resposta":  "e",
+                                "explicacao":  "A guerra profissionalizou o Exército e lhe deu consciência política — dezenove anos depois seria ele a proclamar a República — e deixou o Império endividado com bancos ingleses. Em (b) está a inversão exata desse efeito, e ela é a mais custosa de cometer, porque desfaz a linha que liga 1870 a 1889. Em (c), a Lei do Ventre Livre é de 1871 e a abolição só viria em 1888. Em (a), o Paraguai foi devastado. Em (d), houve acerto de fronteiras, não anexação de província.",
                                 "formato":  "direta"
                             },
                             {
@@ -18907,14 +18907,14 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Durante a República Velha, consolidou-se um arranjo político conhecido como política dos governadores.",
                                 "enunciado":  "Esse arranjo, formulado sobretudo no governo de Campos Sales, consistia em:",
                                 "alternativas":  {
-                                                     "a":  "Uma aliança entre o governo federal e as oligarquias estaduais dominantes, que trocavam apoio político mútuo em troca de autonomia e recursos",
-                                                     "b":  "A eliminação completa do poder das oligarquias estaduais, o oposto do que de fato buscava esse arranjo político da República Velha",
-                                                     "c":  "Um sistema de eleição direta e universal para governadores, sem qualquer interferência do governo federal, o que nunca existiu",
+                                                     "a":  "Uma aliança entre o governo federal e as oligarquias estaduais dominantes, que trocavam apoio político mútuo",
+                                                     "b":  "A eliminação do poder das oligarquias estaduais em favor de uma administração centralizada em nível federal",
+                                                     "c":  "Um sistema de eleição direta e universal para governadores, com apuração conduzida pela Justiça federal",
                                                      "d":  "Um sistema de eleições diretas com apuração independente, que reduziu a influência dos coronéis sobre o voto rural",
-                                                     "e":  "A subordinação total dos governos estaduais às decisões do Poder Judiciário federal, o que nunca fez parte do arranjo"
+                                                     "e":  "A subordinação dos governos estaduais às decisões do Poder Judiciário federal em matéria eleitoral"
                                                  },
                                 "resposta":  "a",
-                                "explicacao":  "A política dos governadores consistia em um acordo entre o presidente da República e as oligarquias estaduais dominantes: o governo federal reconhecia e apoiava os grupos no poder em cada estado em troca de apoio político no Congresso Nacional, fortalecendo o controle oligárquico regional.",
+                                "explicacao":  "Campos Sales reconhecia o grupo dominante em cada estado e recebia em troca uma bancada dócil no Congresso — o presidente governava sem oposição e os oligarcas mandavam em casa. Em (b) está a leitura mais compreensível e mais errada: o arranjo é frequentemente descrito como centralizador, mas ele funcionava reforçando as oligarquias, não as eliminando. Em (c) e (d), não havia Justiça Eleitoral nem apuração independente antes de 1932. Em (e), o Judiciário não arbitrava a política estadual.",
                                 "formato":  "direta"
                             },
                             {
@@ -19104,15 +19104,14 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Herdado do direito português, o sistema de sesmarias regulou a distribuição de terras no Brasil colonial.",
                                 "enunciado":  "Esse sistema caracterizava-se por:",
                                 "alternativas":  {
-                                                     "a":  "Garantir posse coletiva das terras às comunidades indígenas, direito que as sesmarias, na prática, jamais reconheceram aos povos originários",
-                                                     "b":  "Distribuir pequenas propriedades igualitárias a todos os colonos, sem distinção social, modelo que só surgiria com reformas agrárias muito posteriores",
-                                                     "c":  "Conceder grandes extensões de terra a quem tivesse condições de explorá-las, o que favoreceu a concentração fundiária desde o período colonial",
-                                                     "d":  "Impedir qualquer forma de propriedade privada da terra na colônia, o oposto do que as sesmarias de fato instituíram desde o início",
-                                                     "e":  "Distribuir pequenos lotes a colonos pobres mediante pagamento em prestações, favorecendo a divisão da propriedade"
+                                                     "a":  "Garantir a posse coletiva das terras às comunidades indígenas aldeadas pelas ordens religiosas",
+                                                     "b":  "Distribuir pequenas propriedades de tamanho igual entre os colonos que chegassem à colônia",
+                                                     "c":  "Conceder grandes extensões de terra a quem tivesse condições de explorá-las, favorecendo a concentração fundiária",
+                                                     "d":  "Impedir a propriedade privada da terra na colônia, mantendo-a sob domínio direto da Coroa",
+                                                     "e":  "Distribuir pequenos lotes a colonos pobres mediante pagamento em prestações, o que favoreceria a divisão da propriedade"
                                                  },
                                 "resposta":  "c",
-                                "explicacao":  "As sesmarias eram concessões de grandes extensões de terra feitas pela Coroa a colonos com recursos para explorá-las, prática que lançou as bases da estrutura fundiária concentrada que marcaria a história agrária brasileira por séculos.",
-                                "dificuldade":  "media",
+                                "explicacao":  "A Coroa concedia a terra a quem provasse ter recursos para cultivá-la, e o critério — capacidade de explorar — selecionava desde a origem os já ricos. É a raiz da estrutura fundiária concentrada. Em (e) está a hipótese mais razoável para quem imagina uma política de povoamento: o pagamento em prestações e o lote pequeno descrevem a colonização por pequenos proprietários, modelo aplicado na América inglesa, não aqui. Em (b), não havia igualdade de lotes. Em (a) e (d), a propriedade privada existia e não protegia os indígenas.",
                                 "formato":  "direta"
                             },
                             {
@@ -19120,15 +19119,14 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "A Companhia de Jesus atuou intensamente na catequese dos povos indígenas no Brasil colonial, organizando aldeamentos e missões.",
                                 "enunciado":  "A atuação jesuítica junto aos povos indígenas frequentemente gerava conflitos com:",
                                 "alternativas":  {
-                                                     "a":  "Os próprios povos indígenas, que rejeitavam integralmente qualquer forma de aldeamento, quando muitos buscavam proteção jesuítica contra a escravização",
-                                                     "b":  "Colonos e bandeirantes interessados na mão de obra indígena para escravização, já que os jesuítas buscavam proteger os indígenas aldeados dessa exploração",
-                                                     "c":  "Outras ordens religiosas, que defendiam abertamente a escravização em massa dos povos indígenas, postura oposta à pregada pelos jesuítas",
-                                                     "d":  "A Coroa portuguesa, que se opunha a qualquer forma de contato entre europeus e indígenas, posição contrária à política oficial de catequese",
+                                                     "a":  "Os próprios povos indígenas, que rejeitavam o aldeamento e resistiam à catequese nas missões",
+                                                     "b":  "Colonos e bandeirantes interessados na mão de obra indígena, de quem os jesuítas buscavam proteger os aldeados",
+                                                     "c":  "Outras ordens religiosas, que disputavam com os jesuítas o controle das missões e dos aldeamentos",
+                                                     "d":  "A Coroa portuguesa, que via nas missões um obstáculo à arrecadação de tributos na colônia",
                                                      "e":  "Autoridades metropolitanas contrárias à catequese, que viam nas missões um obstáculo à conversão religiosa dos indígenas"
                                                  },
                                 "resposta":  "b",
-                                "explicacao":  "Ao organizar aldeamentos e defender a catequese em vez da escravização, os jesuítas frequentemente entravam em choque com colonos e bandeirantes que dependiam do trabalho compulsório indígena, gerando disputas recorrentes ao longo do período colonial, sobretudo em São Paulo.",
-                                "dificuldade":  "dificil",
+                                "explicacao":  "O aldeamento tirava mão de obra do alcance de quem dependia dela, e o choque com colonos e bandeirantes foi permanente, sobretudo em São Paulo — os jesuítas chegaram a ser expulsos da capitania. Em (c) está o distrator mais plausível, porque houve mesmo atrito entre ordens religiosas na colônia; o conflito estruturante, contudo, era econômico, e não interno à Igreja. Em (d), a Coroa patrocinava a catequese até Pombal. Em (a) e (e), muitos indígenas buscavam a missão como proteção.",
                                 "formato":  "direta"
                             },
                             {
@@ -19152,15 +19150,14 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Entre 1630 e 1654, os holandeses ocuparam parte do Nordeste açucareiro, com destaque para o governo de Maurício de Nassau em Pernambuco.",
                                 "enunciado":  "O governo de Nassau caracterizou-se por:",
                                 "alternativas":  {
-                                                     "a":  "Certa tolerância religiosa, investimentos em urbanização e incentivo às artes e às ciências, ao lado da manutenção da economia açucareira escravista",
-                                                     "b":  "Abolição imediata da mão de obra escrava nos engenhos ocupados, prática que os próprios holandeses mantiveram durante toda a ocupação",
-                                                     "c":  "A imposição da uniformidade religiosa e a expulsão de comerciantes estrangeiros do território sob domínio holandês",
-                                                     "d":  "Completo isolamento cultural e científico da colônia ocupada, o oposto do mecenato científico e artístico promovido por Nassau",
-                                                     "e":  "Transferência da capital da colônia portuguesa para Recife, medida que nunca foi formalizada durante a ocupação holandesa"
+                                                     "a":  "Certa tolerância religiosa, urbanização e incentivo às artes e ciências, mantida a economia açucareira escravista",
+                                                     "b":  "Abolição da mão de obra escrava nos engenhos ocupados, substituída por trabalhadores livres vindos da Holanda",
+                                                     "c":  "A imposição da uniformidade religiosa e a expulsão dos comerciantes estrangeiros do território sob domínio holandês",
+                                                     "d":  "Isolamento cultural e científico da colônia ocupada, voltada apenas à produção de açúcar para exportação",
+                                                     "e":  "Transferência da capital da América portuguesa para Recife, sede do governo holandês no período"
                                                  },
                                 "resposta":  "a",
-                                "explicacao":  "Nassau promoveu obras de urbanização em Recife, relativa tolerância religiosa e incentivou artistas e cientistas que documentaram a fauna, a flora e a sociedade locais, sem, no entanto, romper com a base escravista da economia açucareira que sustentava a ocupação holandesa.",
-                                "dificuldade":  "media",
+                                "explicacao":  "Nassau urbanizou o Recife, tolerou judeus e católicos e trouxe Frans Post e Marcgrave para documentar a colônia — sem tocar na base escravista que financiava tudo isso, e os holandeses foram eles próprios grandes traficantes de escravizados. Em (b) está a idealização mais frequente do período: a tolerância religiosa leva a supor uma administração humanitária, e o açúcar continuou sendo produzido do mesmo modo. Em (c) e (d), a política foi o oposto. Em (e), a capital portuguesa seguiu em Salvador.",
                                 "formato":  "direta"
                             },
                             {
@@ -19168,15 +19165,14 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "A expulsão dos holandeses do Nordeste, concluída em 1654, resultou de um levante que envolveu senhores de engenho, indígenas e população mestiça e negra.",
                                 "enunciado":  "Esse movimento é significativo para a historiografia porque:",
                                 "alternativas":  {
-                                                     "a":  "Provocou o fim definitivo da monocultura açucareira na região, quando na verdade ela persistiu como base econômica por séculos",
-                                                     "b":  "Foi conduzido exclusivamente por tropas enviadas diretamente de Portugal, sem participação de moradores, versão contrariada pela mobilização local",
-                                                     "c":  "Reuniu diferentes grupos sociais da colônia em torno de um objetivo comum, interpretado como expressão de identidade colonial",
+                                                     "a":  "Provocou o fim da monocultura açucareira na região, substituída pela pecuária do sertão",
+                                                     "b":  "Foi conduzido por tropas enviadas de Portugal, sem participação relevante dos moradores da colônia",
+                                                     "c":  "Resultou na manutenção do domínio holandês sobre o Nordeste por mais algumas décadas",
                                                      "d":  "Proclamou uma república separatista no Nordeste, com governo provisório e bandeira própria, sufocada pelas tropas reais",
-                                                     "e":  "Resultou na manutenção permanente do domínio holandês sobre o Nordeste, quando na verdade a expulsão se completou já em 1654"
+                                                     "e":  "Reuniu diferentes grupos sociais da colônia em torno de um objetivo comum, lido como identidade colonial"
                                                  },
-                                "resposta":  "c",
-                                "explicacao":  "A Insurreição Pernambucana mobilizou senhores de engenho, indígenas, mestiços e negros, muitos nascidos na colônia, o que levou historiadores a discutirem esse episódio como um dos primeiros momentos de articulação de interesses coletivos ligados à terra brasileira, distintos dos da metrópole.",
-                                "dificuldade":  "dificil",
+                                "resposta":  "e",
+                                "explicacao":  "Senhores de engenho, indígenas de Camarão e o terço de Henrique Dias lutaram juntos, muitos deles nascidos na colônia — e é essa articulação de interesses ligados à terra, distintos dos da metrópole, que interessa à historiografia. Em (b) está a versão que a documentação portuguesa consagrou e que os historiadores revisaram: Lisboa forneceu pouco apoio, e a mobilização foi local. Em (d), não houve república proclamada. Em (a) e (c), o açúcar persistiu e os holandeses saíram em 1654.",
                                 "formato":  "direta"
                             },
                             {
@@ -19184,15 +19180,14 @@ window.QUESTION_BANKS = {
                                 "texto_apoio":  "Em 1710-1711, um conflito opôs a aristocracia rural de Olinda a comerciantes portugueses estabelecidos no Recife.",
                                 "enunciado":  "A Guerra dos Mascates expressava, no fundo, uma disputa entre:",
                                 "alternativas":  {
-                                                     "a":  "Senhores de engenho endividados de Olinda e comerciantes portugueses do Recife, em meio à ascensão econômica deste último em detrimento da antiga vila senhorial",
-                                                     "b":  "Católicos e protestantes pelo controle religioso da região, tensão associada à ocupação holandesa anterior, já encerrada em 1654",
+                                                     "a":  "Senhores de engenho endividados de Olinda e comerciantes portugueses do Recife, em ascensão econômica",
+                                                     "b":  "Católicos e protestantes pelo controle religioso da região, herança da ocupação holandesa anterior",
                                                      "c":  "Paulistas descobridores das jazidas e forasteiros vindos de outras capitanias, em disputa pelo acesso às minas",
-                                                     "d":  "A Coroa portuguesa e a Coroa espanhola pela posse de Pernambuco, disputa territorial inexistente após o fim da União Ibérica em 1640",
-                                                     "e":  "Bandeirantes paulistas e mineradores estabelecidos em Minas Gerais, conflito que remete à Guerra dos Emboabas, não à disputa pernambucana"
+                                                     "d":  "A Coroa portuguesa e a Coroa espanhola pela posse da capitania de Pernambuco e de suas rendas",
+                                                     "e":  "Bandeirantes paulistas e mineradores estabelecidos em Minas Gerais pelo acesso às jazidas de ouro"
                                                  },
                                 "resposta":  "a",
-                                "explicacao":  "A Guerra dos Mascates refletiu o desgaste da elite senhorial de Olinda diante da crescente pujança econômica dos comerciantes portugueses radicados no Recife, cuja prosperidade, ligada ao comércio, ameaçava o prestígio tradicional da aristocracia açucareira.",
-                                "dificuldade":  "media",
+                                "explicacao":  "A aristocracia do açúcar estava endividada justamente com os comerciantes do Recife, e a elevação do Recife a vila deu poder político a quem já tinha o dinheiro — daí o levante. Em (c) está a troca de conflito mais fácil de cometer: paulistas contra forasteiros nas minas é a Guerra dos Emboabas, do mesmo período e igualmente entre grupos coloniais. Em (e), o mesmo episódio descrito de outra forma. Em (b) e (d), a ocupação holandesa acabara em 1654 e a União Ibérica, em 1640.",
                                 "formato":  "direta"
                             },
                             {

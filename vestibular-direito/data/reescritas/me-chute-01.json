@@ -1,0 +1,155 @@
+{
+  "subtopic": "atualidades-meioambiente",
+  "questoes": [
+    {
+      "id": "atualidades-meioambiente-02",
+      "texto_apoio": "Entre os diversos gases de efeito estufa emitidos por atividades humanas — como queima de combustíveis fósseis, desmatamento e certos processos industriais e agropecuários — alguns têm maior volume de emissão, enquanto outros têm maior potencial de retenção de calor por molécula.",
+      "enunciado": "O gás de efeito estufa emitido em maior volume pelas atividades humanas, associado principalmente à queima de combustíveis fósseis e ao desmatamento, é:",
+      "alternativas": {
+        "a": "os hidrofluorcarbonetos, empregados em sistemas de refrigeração industrial",
+        "b": "o óxido nitroso, associado principalmente ao uso de fertilizantes nitrogenados",
+        "c": "o metano, emitido majoritariamente pela pecuária e pelos aterros sanitários urbanos",
+        "d": "o ozônio troposférico, formado por reações fotoquímicas entre poluentes de origem veicular",
+        "e": "o dióxido de carbono (CO2), emitido sobretudo pela queima de combustíveis fósseis"
+      },
+      "resposta": "e",
+      "explicacao": "A pergunta é sobre volume, e nesse critério o CO2 domina com folga. Em (c) está a alternativa que exige atenção ao enunciado: o metano retém muito mais calor por molécula, e quem lê o texto de apoio às pressas troca uma coisa pela outra — potência por molécula não é volume emitido. Em (a) e (b), hidrofluorcarbonetos e óxido nitroso são potentes e pouco volumosos. Em (d), o ozônio troposférico é poluente local, e não o principal gás de efeito estufa antrópico.",
+      "formato": "direta"
+    },
+    {
+      "id": "atualidades-meioambiente-06",
+      "texto_apoio": "Em determinados sistemas regulatórios, o governo define um limite total de emissões permitidas para um conjunto de empresas e distribui ou leiloa permissões de emissão, que podem ser negociadas entre elas.",
+      "enunciado": "Nesse mecanismo, uma empresa que reduz suas emissões abaixo do limite estabelecido pode:",
+      "alternativas": {
+        "a": "converter o excedente em isenção tributária junto ao órgão ambiental competente de seu estado",
+        "b": "perder o direito de operar no mercado regulado de emissões daquele setor industrial",
+        "c": "vender o excedente de permissões a outras empresas que ultrapassaram seus limites",
+        "d": "ser automaticamente multada pelo governo, a despeito do volume que tenha emitido",
+        "e": "ser obrigada a devolver as permissões excedentes ao órgão regulador ao fim do período"
+      },
+      "resposta": "c",
+      "explicacao": "É o cap-and-trade: o teto total é fixo, mas as permissões circulam, e quem reduz mais lucra vendendo a quem reduz menos — o incentivo econômico está justamente nessa negociação. Em (e) está o desenho alternativo mais plausível, e é o que anularia o mecanismo: se o excedente voltasse ao regulador sem compensação, não haveria razão para reduzir além da cota. Em (a), o benefício é de mercado, não tributário. Em (b) e (d), reduzir emissões não gera punição.",
+      "formato": "direta"
+    },
+    {
+      "id": "atualidades-meioambiente-09",
+      "texto_apoio": "No modelo tradicional de produção e consumo, recursos são extraídos, transformados em produtos, utilizados e descartados como resíduo ao final de sua vida útil.",
+      "enunciado": "Em contraste com esse modelo linear, a economia circular propõe principalmente:",
+      "alternativas": {
+        "a": "reduzir, reutilizar, reciclar e reintegrar materiais ao ciclo produtivo",
+        "b": "extrair, transformar e destinar corretamente o resíduo ao aterro sanitário licenciado",
+        "c": "descartar produtos com maior rapidez para estimular o consumo, conforme o modelo linear",
+        "d": "eliminar a necessidade de indústria de transformação, substituída pelo reparo doméstico",
+        "e": "aumentar a extração de recursos naturais não renováveis, ampliando a produção linear"
+      },
+      "resposta": "a",
+      "explicacao": "A circularidade rompe a ponta final do modelo: em vez de virar resíduo, o material volta ao ciclo produtivo. Em (b) está a confusão mais comum entre gestão de resíduos e economia circular — destinar corretamente ao aterro é boa prática ambiental, mas continua sendo o fim linear da cadeia, e é exatamente esse fim que a proposta elimina. Em (d), a indústria permanece, reorganizada. Em (c) e (e), acelerar descarte e extração é o modelo oposto.",
+      "formato": "direta"
+    },
+    {
+      "id": "atualidades-meioambiente-15",
+      "texto_apoio": "Determinado princípio do direito ambiental estabelece que os custos associados à prevenção, controle e reparação da poluição devem ser suportados por quem a causa, e não pela coletividade.",
+      "enunciado": "Esse princípio é conhecido como:",
+      "alternativas": {
+        "a": "princípio da livre concorrência, disciplinado pela ordem econômica constitucional",
+        "b": "princípio do poluidor-pagador, que internaliza no causador os custos ambientais da atividade",
+        "c": "princípio da precaução, que impõe cautela diante de riscos ambientais ainda não comprovados cientificamente",
+        "d": "princípio da prevenção, aplicável a riscos já conhecidos e cientificamente comprovados",
+        "e": "princípio da anterioridade, que condiciona a cobrança de novos tributos ao exercício financeiro seguinte"
+      },
+      "resposta": "b",
+      "explicacao": "O poluidor-pagador internaliza o custo ambiental em quem o gera, e está na Política Nacional do Meio Ambiente e no art. 225 da Constituição. Em (c) e (d) estão os dois princípios com que ele mais se confunde, e a diferença é de função: precaução e prevenção dizem quando agir diante do risco — sem certeza científica ou com ela —, enquanto o poluidor-pagador diz quem paga a conta depois. Em (a) e (e), livre concorrência e anterioridade pertencem à ordem econômica e ao direito tributário.",
+      "formato": "direta"
+    },
+    {
+      "id": "atualidades-meioambiente-18",
+      "texto_apoio": "Um conjunto de 17 objetivos globais, adotado por praticamente todos os países-membros da ONU, estabelece metas relacionadas a erradicação da pobreza, igualdade de gênero, ação climática e outros temas, a serem perseguidas até um horizonte temporal comum.",
+      "enunciado": "Esse conjunto de objetivos, conhecido como Objetivos de Desenvolvimento Sustentável (ODS), caracteriza-se por:",
+      "alternativas": {
+        "a": "restringir-se à dimensão ambiental, deixando as demais a cargo de outros acordos multilaterais",
+        "b": "aplicar-se apenas a países em desenvolvimento, com metas próprias para nações industrializadas",
+        "c": "substituir integralmente as legislações ambientais nacionais de cada Estado-membro signatário",
+        "d": "integrar dimensões econômicas, sociais e ambientais em metas não vinculantes",
+        "e": "ser juridicamente vinculante, sujeito a sanções automáticas em caso de descumprimento das metas"
+      },
+      "resposta": "d",
+      "explicacao": "Os ODS são uma agenda ampla e voluntária: cobrem economia, sociedade e meio ambiente, e valem para todos os países, ricos e pobres, sem força obrigatória. Em (e) está a suposição mais natural de quem assume que compromisso internacional implica sanção — a adesão é política, e a cobrança se faz por relatórios e pressão pública, não por punição. Em (b), a universalidade é a novidade em relação às Metas do Milênio. Em (a) e (c), o escopo excede o ambiental e não revoga lei nacional.",
+      "formato": "direta"
+    },
+    {
+      "id": "atualidades-meioambiente-20",
+      "texto_apoio": "Regiões áridas e semiáridas, além de grandes centros urbanos com sistemas de abastecimento sobrecarregados, têm enfrentado períodos de escassez no fornecimento de água potável.",
+      "enunciado": "Entre os fatores que agravam a escassez hídrica em áreas urbanas está:",
+      "alternativas": {
+        "a": "a transferência de água da agricultura para o abastecimento urbano, que reduz a oferta nas bacias de origem",
+        "b": "a redução do consumo por habitante, insuficiente para compensar o crescimento das cidades",
+        "c": "o aumento da cobertura florestal nas bacias hidrográficas, que elevaria o consumo de água pela vegetação",
+        "d": "o crescimento populacional somado a perdas na distribuição e à impermeabilização do solo",
+        "e": "a redução das perdas na distribuição por modernização das redes de abastecimento urbanas"
+      },
+      "resposta": "d",
+      "explicacao": "Mais gente para abastecer, rede que vaza e cidade asfaltada que impede a chuva de recarregar o aquífero — os três fatores se somam. Em (c) está a alternativa mais capciosa, porque de fato a vegetação consome água: o efeito líquido da cobertura florestal, porém, é proteger o manancial, reduzir o assoreamento e regularizar a vazão. Em (a), a transferência para o uso urbano alivia a cidade. Em (b) e (e), consumo menor e menos perdas atenuam a escassez em vez de agravá-la.",
+      "formato": "direta"
+    },
+    {
+      "id": "atualidades-meioambiente-27",
+      "texto_apoio": "Parques nacionais, reservas biológicas e áreas de proteção ambiental são categorias de espaços territoriais legalmente protegidos, com diferentes graus de restrição ao uso humano.",
+      "enunciado": "O principal objetivo da criação de unidades de conservação é:",
+      "alternativas": {
+        "a": "remover as populações tradicionais das áreas protegidas, sem distinção de categoria",
+        "b": "compensar financeiramente proprietários rurais que preservem vegetação nativa em suas áreas privadas",
+        "c": "proteger ecossistemas, espécies e processos ecológicos do território",
+        "d": "estimular a exploração comercial dos recursos naturais locais sem limite legal de uso",
+        "e": "transferir a gestão dos recursos naturais a empresas privadas, sob contrato de concessão"
+      },
+      "resposta": "c",
+      "explicacao": "A finalidade é conservar ecossistemas, espécies e os processos que os sustentam; o grau de restrição varia por categoria, e as de uso sustentável admitem presença humana e pesquisa. Em (a) está o equívoco de maior consequência prática: reservas extrativistas e de desenvolvimento sustentável existem justamente para manter populações tradicionais no território. Em (b), a compensação a proprietários é outro instrumento. Em (d) e (e), exploração irrestrita e concessão privada não são o objetivo da criação.",
+      "formato": "direta"
+    },
+    {
+      "id": "atualidades-meioambiente-28",
+      "texto_apoio": "Diante dos efeitos já observados das mudanças climáticas, como eventos extremos mais frequentes, países têm investido tanto em reduzir emissões quanto em se preparar para os impactos já inevitáveis.",
+      "enunciado": "A diferença central entre mitigação e adaptação às mudanças climáticas é que a mitigação busca:",
+      "alternativas": {
+        "a": "eliminar os efeitos futuros das mudanças climáticas, incluindo os já inevitáveis pelo aquecimento acumulado",
+        "b": "substituir as políticas de adaptação, tornando-as desnecessárias nos cenários mais moderados",
+        "c": "transferir a responsabilidade pelas emissões do país produtor para o país consumidor",
+        "d": "reduzir as causas das mudanças climáticas, enquanto a adaptação reduz a vulnerabilidade aos efeitos em curso",
+        "e": "reduzir a vulnerabilidade a efeitos climáticos, enquanto a adaptação busca reduzir emissões de gases de efeito estufa"
+      },
+      "resposta": "d",
+      "explicacao": "Mitigação age na causa — cortar emissões; adaptação age na consequência — reduzir o dano do que já vem acontecendo. Em (e) está a troca exata dos dois termos, e é o erro mais frequente do tema, porque as duas palavras soam igualmente técnicas e a ordem em que aparecem no enunciado não ajuda a distingui-las. Em (a) e (b), nenhuma das duas dispensa a outra: parte do aquecimento já está contratada. Em (c), a contabilidade de emissões é outra discussão.",
+      "formato": "direta"
+    },
+    {
+      "id": "atualidades-meioambiente-31",
+      "texto_apoio": "Antes da implantação de grandes empreendimentos, como usinas hidrelétricas ou rodovias, órgãos ambientais costumam exigir a apresentação de um estudo técnico sobre os efeitos previstos sobre o meio ambiente.",
+      "enunciado": "Esse instrumento de política ambiental, utilizado para prever e mitigar impactos antes da instalação de um empreendimento, é conhecido como:",
+      "alternativas": {
+        "a": "balanço patrimonial ambiental, relatório contábil de ativos e passivos verdes",
+        "b": "auditoria fiscal, exame contábil de obrigações tributárias",
+        "c": "Estudo e Relatório de Impacto Ambiental (EIA/RIMA), prévio ao licenciamento",
+        "d": "zoneamento ecológico-econômico, instrumento de ordenamento territorial das bacias",
+        "e": "certificado de origem, documento de rastreabilidade comercial"
+      },
+      "resposta": "c",
+      "explicacao": "O EIA avalia previamente os impactos e o RIMA os traduz em linguagem acessível ao público; juntos subsidiam a decisão sobre o licenciamento e as medidas de mitigação exigidas. Em (d) está o único outro instrumento genuinamente ambiental da lista, e a distinção importa: o zoneamento organiza o uso do território em escala regional e é anterior a qualquer projeto, enquanto o EIA/RIMA examina um empreendimento específico. Em (a), (b) e (e), os documentos são contábeis ou comerciais.",
+      "formato": "direta"
+    },
+    {
+      "id": "atualidades-meioambiente-34",
+      "texto_apoio": "Consumidores têm buscado informações sobre a origem, os processos produtivos e os impactos socioambientais de produtos antes de decidir pela compra.",
+      "enunciado": "Selos e certificações ambientais concedidos a determinados produtos têm como principal função:",
+      "alternativas": {
+        "a": "obrigar os concorrentes do setor a adotar os mesmos processos produtivos do produto certificado",
+        "b": "garantir automaticamente o menor preço do produto no mercado, tornando-o mais competitivo que concorrentes não certificados",
+        "c": "substituir o licenciamento ambiental exigido pelo órgão ambiental competente",
+        "d": "dispensar a fiscalização ambiental do Estado sobre o setor produtivo já certificado",
+        "e": "atestar, por critérios verificáveis, que o produto atende a padrões ambientais ou sociais"
+      },
+      "resposta": "e",
+      "explicacao": "A certificação é sinalização: um terceiro verifica critérios técnicos e o selo comunica esse resultado a quem compra. Em (d) está a confusão mais séria entre regulação e mercado — a certificação é voluntária e privada, e não substitui nem reduz o poder de fiscalização do Estado, que continua integral. Em (c), pelo mesmo motivo, ela não faz as vezes de licença ambiental. Em (a), não vincula concorrentes. Em (b), produtos certificados costumam custar mais, não menos.",
+      "formato": "direta"
+    }
+  ]
+}

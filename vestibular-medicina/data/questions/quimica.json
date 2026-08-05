@@ -923,6 +923,460 @@
                          "resposta":  "c",
                          "explicacao":  "Água destilada é hipotônica em relação ao citoplasma: a água entra por osmose, a célula incha e pode sofrer hemólise. É exatamente por isso que soluções injetáveis precisam ser isotônicas. A alternativa (a) descreve o que ocorreria em meio hipertônico, situação inversa à do enunciado.",
                          "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-61",
+                         "texto_apoio":  "Rutherford bombardeou uma fina lâmina de ouro com partículas alfa e observou que a grande maioria delas atravessava a lâmina sem desvio, enquanto uma fração muito pequena sofria desvios acentuados e algumas eram refletidas de volta.",
+                         "enunciado":  "As duas observações levaram Rutherford a propor que o átomo possui:",
+                         "alternativas":  {
+                                              "a":  "grandes espaços vazios e um núcleo pequeno, denso e positivo",
+                                              "b":  "uma esfera maciça e indivisível de carga positiva uniformemente distribuída, na qual os elétrons se encontram encravados de modo regular",
+                                              "c":  "elétrons distribuídos em órbitas circulares de energia bem definida, das quais eles só saem ao absorver quantidades específicas de energia",
+                                              "d":  "uma massa positiva difusa com elétrons dispersos em seu interior, arranjo que explicaria tanto a passagem quanto a reflexão das partículas",
+                                              "e":  "camadas concêntricas de carga alternada, capazes de desviar as partículas incidentes conforme o ângulo com que elas atingem a lâmina"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A passagem sem desvio da maioria das partículas indica que o átomo é majoritariamente vazio. Os poucos desvios acentuados e as reflexões exigem uma região muito pequena, densa e de mesma carga que a partícula alfa — o núcleo positivo. A descrição de (b) e (d) corresponde ao modelo de Thomson, que o experimento derrubou.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-62",
+                         "texto_apoio":  "O oxigênio ocorre na natureza em duas formas: o gás oxigênio (O2), essencial à respiração, e o ozônio (O3), que na estratosfera filtra a radiação ultravioleta e ao nível do solo é considerado poluente.",
+                         "enunciado":  "A relação entre as duas formas descritas denomina-se ______, e elas se distinguem por ______, sendo o ozônio ao nível do solo classificado como poluente ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "isotopia – número de nêutrons – primário",
+                                              "b":  "alotropia – atomicidade – secundário",
+                                              "c":  "isomeria – arranjo espacial dos átomos – primário",
+                                              "d":  "alotropia – número de prótons – secundário",
+                                              "e":  "polimorfismo – estado físico em que cada forma se apresenta nas condições ambientes – primário"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Alotropia é a existência de formas diferentes do mesmo elemento; aqui a diferença é a atomicidade, dois contra três átomos por molécula. O ozônio troposférico é poluente secundário porque não é emitido diretamente: forma-se no ar a partir de óxidos de nitrogênio e compostos orgânicos voláteis sob luz solar.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "quimica-63",
+                         "texto_apoio":  "Uma estação de tratamento de água realiza, em sequência, as etapas de coagulação com sulfato de alumínio, floculação, decantação, filtração em leito de areia, desinfecção com cloro e correção de pH com cal.",
+                         "enunciado":  "A função da coagulação com sulfato de alumínio nesse processo é:",
+                         "alternativas":  {
+                                              "a":  "eliminar micro-organismos patogênicos presentes na água captada, tarefa que dispensa qualquer etapa posterior de desinfecção do sistema",
+                                              "b":  "neutralizar as cargas das partículas coloidais em suspensão, permitindo que se agreguem",
+                                              "c":  "remover os sais dissolvidos responsáveis pela dureza da água, que precipitam na forma de compostos insolúveis de alumínio e cálcio",
+                                              "d":  "ajustar o pH da água bruta para valores próximos da neutralidade antes que ela seja encaminhada às etapas seguintes do tratamento",
+                                              "e":  "oxidar a matéria orgânica dissolvida e convertê-la em compostos inorgânicos simples, que são então retidos no leito filtrante de areia"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Partículas coloidais se mantêm dispersas porque têm cargas de mesmo sinal e se repelem. O coagulante neutraliza essas cargas e permite que se aproximem e formem flocos maiores, que sedimentam na decantação. Desinfecção e correção de pH são etapas distintas, feitas depois, o que descarta (a) e (d).",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-64",
+                         "texto_apoio":  "Uma reação ocorre em duas etapas: a etapa I, lenta, é A + B → C; a etapa II, rápida, é C + B → D. A soma das duas corresponde à equação global A + 2 B → D.",
+                         "enunciado":  "A lei de velocidade experimental esperada para essa reação é:",
+                         "alternativas":  {
+                                              "a":  "v = k[A][B]",
+                                              "b":  "v = k[A][B]², expressão que decorre diretamente dos coeficientes estequiométricos da equação global apresentada no enunciado da questão",
+                                              "c":  "v = k[C][B], já que o intermediário formado na primeira etapa é o reagente que participa da etapa determinante da velocidade global",
+                                              "d":  "v = k[D], uma vez que a velocidade de uma reação é sempre proporcional à concentração do produto formado ao longo do processo",
+                                              "e":  "v = k[A] + k[B], soma que reflete a contribuição independente de cada um dos dois reagentes presentes na mistura reacional inicial"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A velocidade global é determinada pela etapa lenta, e a lei de velocidade reflete os reagentes dela. Como a etapa I envolve um A e um B, a expressão é v = k[A][B]. Deduzir a lei dos coeficientes da equação global, como em (b), só vale por acaso quando a reação ocorre em etapa única.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-65",
+                         "texto_apoio":  "Uma solução aquosa de cloreto de amônio é preparada dissolvendo o sal em água pura. Medido com pHmetro, o pH da solução resultante fica abaixo de 7. O cloreto de amônio resulta da reação entre ácido clorídrico e hidróxido de amônio.",
+                         "enunciado":  "O caráter ácido da solução se explica porque, na hidrólise do sal:",
+                         "alternativas":  {
+                                              "a":  "o cátion proveniente da base fraca reage com a água e libera íons hidrogênio",
+                                              "b":  "o ânion proveniente do ácido forte captura íons hidrogênio da água e desloca o equilíbrio de autoionização no sentido da formação de hidroxila",
+                                              "c":  "os dois íons do sal reagem simultaneamente com a água em proporções idênticas, resultando em solução de caráter levemente ácido ao final",
+                                              "d":  "o sal se decompõe termicamente durante a dissolução e libera cloreto de hidrogênio gasoso, que se dissolve e acidifica o meio aquoso",
+                                              "e":  "a dissolução do sal é um processo exotérmico, e o aquecimento resultante desloca o produto iônico da água no sentido da acidez do meio"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Sal de ácido forte com base fraca produz solução ácida. O ânion cloreto, vindo de ácido forte, não hidrolisa. O cátion amônio, vindo de base fraca, reage com a água liberando íons hidrogênio. A alternativa (b) descreveria a hidrólise de um ânion de ácido fraco, que produziria meio básico.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-66",
+                         "texto_apoio":  "Uma amostra de água apresenta concentração de íons fluoreto igual a 0,7 mg/L, valor considerado adequado para prevenção de cárie. A massa molar do fluoreto é 19 g/mol.",
+                         "enunciado":  "Essa concentração, expressa em partes por milhão, corresponde a:",
+                         "alternativas":  {
+                                              "a":  "0,07 ppm",
+                                              "b":  "0,7 ppm",
+                                              "c":  "7 ppm",
+                                              "d":  "70 ppm",
+                                              "e":  "700 ppm"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Para soluções aquosas diluídas, cuja densidade é próxima de 1 g/mL, um litro pesa cerca de 1.000 g ou 10⁶ mg. Assim, 0,7 mg por litro equivale a 0,7 mg por 10⁶ mg de solução, ou seja, 0,7 ppm. A equivalência entre mg/L e ppm em meio aquoso é a chave da questão.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-67",
+                         "texto_apoio":  "Misturam-se 300 mL de solução de cloreto de sódio 0,20 mol/L com 200 mL de solução do mesmo sal a 0,50 mol/L. A mistura é homogeneizada e não há reação química entre os componentes.",
+                         "enunciado":  "A concentração da solução final é de:",
+                         "alternativas":  {
+                                              "a":  "0,26 mol/L",
+                                              "b":  "0,32 mol/L",
+                                              "c":  "0,35 mol/L",
+                                              "d":  "0,70 mol/L",
+                                              "e":  "0,10 mol/L"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A quantidade total de soluto é (0,20 x 0,300) + (0,50 x 0,200) = 0,060 + 0,100 = 0,160 mol, num volume final de 0,500 L. A concentração é 0,160 ÷ 0,500 = 0,32 mol/L. A alternativa (c) resulta de fazer a média simples das concentrações, ignorando os volumes diferentes.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-68",
+                         "texto_apoio":  "Um esquema mostra o decaimento do urânio-238 até o chumbo-206 por uma série de emissões alfa e beta. A partícula alfa corresponde a um núcleo de hélio, com dois prótons e dois nêutrons; a emissão beta corresponde à conversão de um nêutron em próton, com liberação de um elétron.",
+                         "enunciado":  "Ao emitir uma partícula alfa, um núcleo tem seu número atômico e seu número de massa alterados, respectivamente, em:",
+                         "alternativas":  {
+                                              "a":  "−2 e −4",
+                                              "b":  "+1 e 0, alteração que corresponde ao aumento do número de prótons sem mudança na quantidade total de partículas presentes no núcleo",
+                                              "c":  "−1 e −4, variação que reflete a saída de duas unidades de carga acompanhada da perda de quatro unidades de massa do núcleo original",
+                                              "d":  "−2 e −2, mudança compatível com a saída dos dois prótons que compõem a partícula alfa emitida durante o processo de decaimento nuclear",
+                                              "e":  "0 e −4, uma vez que a partícula emitida carrega massa mas mantém inalterada a carga nuclear total do átomo que sofreu o decaimento"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A partícula alfa leva dois prótons e dois nêutrons: o número atômico cai duas unidades e o número de massa, quatro. A variação de +1 no número atômico sem mudança de massa, descrita em (b), corresponde à emissão beta, que a questão contrapõe deliberadamente.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-69",
+                         "texto_apoio":  "Uma figura apresenta a estrutura de um hidrocarboneto ramificado: uma cadeia principal de cinco carbonos com um grupo metila ligado ao segundo carbono e outro grupo metila ligado ao terceiro carbono.",
+                         "enunciado":  "O nome oficial desse composto é:",
+                         "alternativas":  {
+                                              "a":  "2,3-dimetilpentano",
+                                              "b":  "3,4-dimetilpentano, numeração que decorre da contagem realizada a partir da extremidade oposta da cadeia principal do composto analisado",
+                                              "c":  "2,3-dimetilbutano, cuja cadeia principal apresenta quatro carbonos ligados entre si em sequência contínua ao longo da estrutura descrita",
+                                              "d":  "2-etil-3-metilbutano, denominação que considera o grupo de dois carbonos como ramificação da cadeia principal identificada na figura",
+                                              "e":  "2,3-metilpentano, nome que indica a presença de dois grupos idênticos ligados a carbonos consecutivos da cadeia principal do composto"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A cadeia principal tem cinco carbonos: pentano. A numeração começa pela extremidade que dá os menores números às ramificações, o que resulta em 2 e 3, e não 3 e 4. Dois grupos metila exigem o prefixo di, que falta em (e) — omissão que torna o nome incorreto.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-70",
+                         "texto_apoio":  "A oxidação branda de um álcool primário produz um aldeído, que pode ser oxidado a ácido carboxílico. Já a oxidação de um álcool secundário produz uma cetona, que resiste à oxidação em condições brandas. Álcoois terciários não sofrem oxidação nessas condições.",
+                         "enunciado":  "A oxidação do propan-2-ol produz:",
+                         "alternativas":  {
+                                              "a":  "propanona",
+                                              "b":  "propanal, que sofre nova oxidação e origina o ácido propanoico ao final do processo conduzido em condições brandas de laboratório",
+                                              "c":  "ácido propanoico, produto da oxidação completa da cadeia carbônica do álcool de partida sob a ação do agente oxidante empregado",
+                                              "d":  "propeno, resultante da eliminação de uma molécula de água entre carbonos vizinhos da cadeia durante o aquecimento da mistura reacional",
+                                              "e":  "propano, obtido pela substituição do grupo hidroxila por um átomo de hidrogênio proveniente do meio em que a reação se processa"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "No propan-2-ol a hidroxila está no carbono central, ligado a dois outros carbonos: é álcool secundário, e sua oxidação produz cetona — a propanona, ou acetona. Aldeído e ácido carboxílico viriam de um álcool primário, e o propeno seria produto de desidratação, não de oxidação.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-71",
+                         "texto_apoio":  "O acetato de etila é um solvente de odor agradável obtido pela reação entre ácido acético e etanol, em meio ácido e sob aquecimento. A reação é reversível e produz água como subproduto.",
+                         "enunciado":  "A reação descrita denomina-se ______, é catalisada por ______, e o rendimento pode ser aumentado por ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "saponificação – base forte – adição de água ao meio reacional",
+                                              "b":  "esterificação – ácido forte – remoção contínua da água formada",
+                                              "c":  "hidrólise – ácido forte – aumento da concentração de água no sistema em equilíbrio para deslocar a reação no sentido do produto",
+                                              "d":  "esterificação – base forte – resfriamento do sistema até que o equilíbrio se estabeleça em temperatura próxima da ambiente",
+                                              "e":  "condensação aldólica – ácido forte – aumento da pressão total sobre o sistema, o que favorece o lado de menor volume da reação"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A reação entre ácido carboxílico e álcool com formação de éster e água é a esterificação de Fischer, catalisada por ácido forte. Sendo reversível, retirar a água formada desloca o equilíbrio no sentido do éster, por Le Chatelier. Adicionar água faria o contrário e favoreceria a hidrólise.",
+                         "formato":  "lacunas",
+                         "banca":  "einstein"
+                     },
+                     {
+                         "id":  "quimica-72",
+                         "texto_apoio":  "Uma tabela apresenta óxidos e seu comportamento em água: o óxido I forma solução ácida; o óxido II forma solução básica; o óxido III reage tanto com ácidos quanto com bases; o óxido IV não reage com água nem com ácidos ou bases em condições comuns.",
+                         "enunciado":  "Os óxidos I, II, III e IV são classificados, respectivamente, como:",
+                         "alternativas":  {
+                                              "a":  "básico, ácido, neutro e anfótero, classificação determinada pela posição do elemento ligado ao oxigênio na tabela periódica dos elementos",
+                                              "b":  "ácido, básico, anfótero e neutro",
+                                              "c":  "anfótero, neutro, ácido e básico, agrupamento em que apenas o terceiro deles é capaz de reagir com água formando um composto solúvel",
+                                              "d":  "neutro, anfótero, básico e ácido, sequência que acompanha a ordem crescente do caráter metálico dos elementos combinados ao oxigênio",
+                                              "e":  "ácido, anfótero, básico e neutro, distribuição compatível com o comportamento observado para cada um dos quatro óxidos em meio aquoso"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Óxido que gera solução ácida é ácido, tipicamente de ametal; o que gera solução básica é básico, tipicamente de metal alcalino ou alcalinoterroso. Reagir com ácidos e com bases caracteriza o anfótero, como os de alumínio e zinco. Não reagir com nenhum define o neutro, caso do monóxido de carbono.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-73",
+                         "texto_apoio":  "Uma pilha é montada com dois eletrodos cujos potenciais padrão de redução são +0,80 V e −0,25 V. Os dois compartimentos são ligados por uma ponte salina e o circuito externo é fechado com um voltímetro.",
+                         "enunciado":  "A diferença de potencial padrão da pilha e a conclusão sobre a espontaneidade do processo são:",
+                         "alternativas":  {
+                                              "a":  "+0,25 V, e o processo é espontâneo apenas em temperaturas superiores à ambiente, condição em que o termo entrópico passa a predominar",
+                                              "b":  "+0,55 V, e o processo é espontâneo, uma vez que o valor obtido corresponde à soma algébrica dos dois potenciais padrão informados no enunciado",
+                                              "c":  "−1,05 V, e o processo não é espontâneo, exigindo aplicação de energia elétrica externa para que a transferência de elétrons possa ocorrer",
+                                              "d":  "+1,05 V, e o processo não é espontâneo, já que a espontaneidade depende exclusivamente da variação de entropia do sistema considerado",
+                                              "e":  "+1,05 V, e o processo é espontâneo, pois a diferença de potencial é positiva"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A diferença de potencial da pilha é o potencial do cátodo menos o do ânodo: 0,80 − (−0,25) = 1,05 V. Valor positivo indica variação de energia livre negativa, ou seja, processo espontâneo. A alternativa (b) soma os módulos com sinais trocados, erro que aparece com frequência nesse tipo de cálculo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-74",
+                         "texto_apoio":  "Um pedaço de ferro exposto ao ar úmido desenvolve uma camada avermelhada e porosa. Um pedaço de alumínio, nas mesmas condições, forma uma camada fina, aderente e transparente que interrompe o avanço do processo.",
+                         "enunciado":  "A diferença de comportamento entre os dois metais se explica porque a camada formada sobre o alumínio:",
+                         "alternativas":  {
+                                              "a":  "se forma apenas em ambientes de baixa umidade, condição em que o alumínio permanece protegido da ação do oxigênio atmosférico presente",
+                                              "b":  "resulta de uma reação de redução do alumínio, ao contrário do que ocorre com o ferro, que sofre oxidação quando exposto ao ar úmido",
+                                              "c":  "é solúvel em água e se renova continuamente, o que mantém a superfície do metal permanentemente limpa e livre de produtos de corrosão",
+                                              "d":  "possui condutividade elétrica elevada, o que dissipa as correntes responsáveis pelo avanço do processo corrosivo na superfície metálica",
+                                              "e":  "impede o contato do metal com o oxigênio e a umidade, funcionando como barreira protetora"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O óxido de alumínio é aderente e compacto, e isola o metal do ambiente: é a passivação. O óxido de ferro hidratado é poroso e se desprende, expondo camadas novas e permitindo que a corrosão avance. Os dois metais oxidam — a diferença está na natureza física do produto formado, e não no tipo de reação.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-75",
+                         "texto_apoio":  "Uma proteína em solução aquosa é submetida a aquecimento a 80 °C. Após alguns minutos, observa-se formação de precipitado branco e perda completa da atividade biológica original, sem que ocorra ruptura das ligações entre os aminoácidos.",
+                         "enunciado":  "O fenômeno descrito denomina-se ______, atinge as estruturas ______ da proteína e preserva a estrutura ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "hidrólise – primária e secundária – terciária",
+                                              "b":  "hidrólise – quaternária – primária, que corresponde à sequência de aminoácidos definida geneticamente para aquela proteína específica",
+                                              "c":  "desnaturação – primária – quaternária",
+                                              "d":  "polimerização – terciária e quaternária – secundária, mantida por ligações de hidrogênio entre segmentos vizinhos da cadeia polipeptídica",
+                                              "e":  "desnaturação – secundária, terciária e quaternária – primária"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A desnaturação desfaz as interações que sustentam o enovelamento — pontes de hidrogênio, interações hidrofóbicas, pontes dissulfeto —, mas não rompe as ligações peptídicas. Por isso a sequência de aminoácidos, que é a estrutura primária, permanece intacta enquanto a função se perde.",
+                         "formato":  "lacunas",
+                         "banca":  "santacasa"
+                     },
+                     {
+                         "id":  "quimica-76",
+                         "texto_apoio":  "Uma tabela compara três óleos e gorduras quanto ao número de insaturações por cadeia: o material I é rico em cadeias sem duplas ligações; o II apresenta uma dupla por cadeia; o III apresenta duas ou mais duplas por cadeia.",
+                         "enunciado":  "Espera-se que, à temperatura ambiente, o material I e o material III estejam, respectivamente, nos estados:",
+                         "alternativas":  {
+                                              "a":  "gasoso e líquido, condição decorrente da diferença de massa molar entre cadeias saturadas e cadeias que apresentam múltiplas insaturações",
+                                              "b":  "líquido e sólido, porque as duplas ligações aumentam a área de contato entre cadeias vizinhas e intensificam as forças de dispersão atuantes",
+                                              "c":  "sólido e sólido, uma vez que o grau de insaturação não influencia o estado físico de compostos de cadeia longa nas condições ambientes",
+                                              "d":  "líquido e líquido, já que todos os triglicerídeos apresentam temperaturas de fusão bem abaixo da temperatura ambiente considerada",
+                                              "e":  "sólido e líquido, porque as insaturações dificultam o empacotamento das cadeias e reduzem as interações entre elas"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Cadeias saturadas são lineares e se empilham bem, com forças de dispersão somando ao longo de todo o comprimento: fundem em temperatura mais alta e são sólidas, como as gorduras animais. Duplas em configuração cis dobram a cadeia e impedem o empacotamento, o que baixa a fusão — daí os óleos vegetais serem líquidos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-77",
+                         "texto_apoio":  "Uma indústria avalia dois processos para obter o mesmo produto. O processo A usa solvente orgânico volátil, opera a 200 °C e gera três subprodutos descartados. O processo B usa água como solvente, opera a 60 °C com catalisador e incorpora 90% dos átomos dos reagentes no produto final.",
+                         "enunciado":  "Os princípios da química verde favorecem o processo B principalmente por ele apresentar:",
+                         "alternativas":  {
+                                              "a":  "maior rendimento percentual em massa de produto, único critério considerado na avaliação ambiental de rotas sintéticas industriais",
+                                              "b":  "uso de catalisador, item que por si só caracteriza um processo como ambientalmente adequado independentemente das demais condições adotadas",
+                                              "c":  "menor custo de matéria-prima, fator que reduz o preço final do produto e o torna mais acessível ao consumidor no mercado interno",
+                                              "d":  "maior velocidade de reação, o que permite produzir a mesma quantidade em menos tempo e reduzir o consumo de energia por unidade produzida",
+                                              "e":  "maior economia atômica, menor demanda energética e solvente menos nocivo"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A química verde avalia a rota inteira: economia atômica, que mede quanto dos átomos dos reagentes vai para o produto; demanda energética, ligada à temperatura de operação; e a natureza do solvente. Rendimento alto com muito subproduto pode ser pior que rendimento menor com economia atômica alta, o que descarta (a).",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-78",
+                         "texto_apoio":  "Considere as espécies químicas Na⁺, Mg²⁺, F⁻ e O²⁻, todas com o mesmo número de elétrons que o neônio.",
+                         "enunciado":  "A ordem crescente de raio iônico entre essas espécies isoeletrônicas é:",
+                         "alternativas":  {
+                                              "a":  "F⁻ \u003c O²⁻ \u003c Mg²⁺ \u003c Na⁺, arranjo que reflete a alternância entre ânions e cátions ao longo do período em que os elementos se encontram",
+                                              "b":  "O²⁻ \u003c F⁻ \u003c Na⁺ \u003c Mg²⁺, sequência que acompanha o aumento do número de prótons presentes no núcleo de cada uma das espécies consideradas",
+                                              "c":  "Na⁺ \u003c Mg²⁺ \u003c O²⁻ \u003c F⁻, ordenação determinada pela carga elétrica líquida apresentada por cada um dos íons listados no enunciado",
+                                              "d":  "Mg²⁺ \u003c Na⁺ \u003c F⁻ \u003c O²⁻",
+                                              "e":  "todos apresentam o mesmo raio iônico, uma vez que possuem número idêntico de elétrons distribuídos em igual número de camadas eletrônicas"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Com o mesmo número de elétrons, quem tem mais prótons atrai a eletrosfera com mais força e fica menor. A ordem decrescente de número atômico é Mg, Na, F, O, e a ordem crescente de raio é a inversa. A alternativa (e) confunde número de elétrons com tamanho, ignorando a carga nuclear.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-79",
+                         "texto_apoio":  "Um processo natural é descrito como espontâneo quando ocorre sem intervenção externa contínua. A dissolução do nitrato de amônio em água é espontânea e resfria o recipiente, sendo portanto um processo endotérmico.",
+                         "enunciado":  "A espontaneidade desse processo, apesar de absorver calor, é explicada por:",
+                         "alternativas":  {
+                                              "a":  "a diminuição da entropia do sistema, que se traduz em maior organização das partículas e favorece energeticamente a formação da solução",
+                                              "b":  "uma variação de entalpia negativa que não é percebida por medição direta da temperatura do sistema durante o processo de dissolução",
+                                              "c":  "a atuação de um catalisador presente na água, que reduz a energia de ativação necessária e torna o processo espontâneo nas condições descritas",
+                                              "d":  "um aumento de entropia suficiente para compensar a variação de entalpia positiva",
+                                              "e":  "o aumento da pressão interna do recipiente, fator que desloca o equilíbrio no sentido da dissolução completa do sal adicionado à água"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A espontaneidade depende da energia livre de Gibbs, que combina entalpia e entropia. Aqui a entalpia é desfavorável, mas a dispersão dos íons na água aumenta muito a desordem, e o termo entrópico supera o entálpico. É a base física das bolsas de gelo instantâneo, que usam justamente esse sal.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-80",
+                         "texto_apoio":  "Um esquema apresenta a molécula do benzeno, com seis átomos de carbono formando um anel e elétrons distribuídos de forma deslocalizada ao longo de toda a estrutura, em vez de localizados em ligações duplas fixas.",
+                         "enunciado":  "A deslocalização eletrônica descrita explica por que o benzeno:",
+                         "alternativas":  {
+                                              "a":  "possui caráter fortemente polar, o que o torna solúvel em água em qualquer proporção utilizada durante os experimentos realizados em laboratório",
+                                              "b":  "reage prontamente por adição com o gás bromo em condições brandas, comportamento típico dos compostos que apresentam ligações duplas na cadeia",
+                                              "c":  "apresenta seis ligações de comprimentos alternadamente diferentes ao longo do anel, uma característica confirmada por medidas experimentais precisas",
+                                              "d":  "é mais estável que o esperado e sofre reações de substituição, e não de adição",
+                                              "e":  "sofre polimerização espontânea à temperatura ambiente, formando cadeias longas a partir da abertura sucessiva das ligações duplas presentes"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A deslocalização dos elétrons confere estabilidade adicional, chamada energia de ressonância. Romper esse sistema por adição custa caro energeticamente, e por isso o benzeno prefere reações de substituição, que preservam o anel aromático. Medidas mostram todas as ligações com o mesmo comprimento, o que descarta (c).",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-81",
+                         "texto_apoio":  "Uma solução tampão de ácido acético e acetato de sódio apresenta pH 4,7. Adiciona-se a ela uma pequena quantidade de hidróxido de sódio, e observa-se que o pH sobe para 4,8 apenas.",
+                         "enunciado":  "A pequena variação observada ocorre porque a hidroxila adicionada é consumida:",
+                         "alternativas":  {
+                                              "a":  "pelo íon sódio proveniente do sal, que se combina com a hidroxila e forma um composto insolúvel removido do equilíbrio da solução",
+                                              "b":  "pelo íon acetato, que reage com a base adicionada e origina ácido acético, mantendo praticamente inalterada a concentração de íons hidrogênio",
+                                              "c":  "pela água do meio, que se autoioniza em proporção suficiente para absorver toda a hidroxila introduzida na solução tamponada considerada",
+                                              "d":  "pelo ácido acético presente na solução, que a neutraliza e é convertido em acetato",
+                                              "e":  "pelo próprio indicador presente no meio, cuja forma ionizada captura a hidroxila e sinaliza a variação por meio da mudança de coloração"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "No tampão, quem reage com base adicionada é o componente ácido — aqui, o ácido acético —, convertendo-se em sua base conjugada. O acetato faz o papel inverso, reagindo com ácido adicionado. A alternativa (b) inverte os dois papéis, que é o ponto que a questão testa.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-82",
+                         "texto_apoio":  "A fissão nuclear do urânio-235 libera energia da ordem de 2 × 10¹⁰ kJ por mol, enquanto a combustão do metano libera cerca de 890 kJ por mol. Reatores nucleares aproveitam a primeira; termelétricas a gás, a segunda.",
+                         "enunciado":  "A diferença de várias ordens de grandeza entre os dois valores decorre de que, na fissão:",
+                         "alternativas":  {
+                                              "a":  "os elétrons das camadas mais internas participam do processo, e sua energia de ligação supera em muito a dos elétrons de valência envolvidos",
+                                              "b":  "o número de ligações químicas rompidas por mol é muito superior ao observado na combustão de um hidrocarboneto de cadeia curta como o metano",
+                                              "c":  "a reação ocorre em temperatura muito mais elevada, o que amplia proporcionalmente a quantidade de energia liberada por unidade de matéria",
+                                              "d":  "há conversão de massa em energia, envolvendo forças do núcleo atômico",
+                                              "e":  "o urânio possui massa molar muito superior à do metano, e a energia liberada é diretamente proporcional à massa dos átomos envolvidos"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Reações químicas rearranjam elétrons de valência; a fissão altera o próprio núcleo, e parte da massa se converte em energia conforme a relação de Einstein. As forças envolvidas são de outra escala, e daí a diferença de ordens de grandeza. Nenhuma ligação química é rompida no processo, o que descarta (b).",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-83",
+                         "texto_apoio":  "Um detergente sintético e um sabão comum são testados em água dura, rica em íons cálcio e magnésio. O sabão forma um precipitado esbranquiçado e perde poder de limpeza; o detergente mantém a espuma e a eficácia.",
+                         "enunciado":  "A diferença observada se explica porque o sabão, ao contrário do detergente:",
+                         "alternativas":  {
+                                              "a":  "é degradado quimicamente pelos íons metálicos presentes na água, que rompem a ligação éster de sua estrutura e o convertem em glicerol",
+                                              "b":  "possui cadeia carbônica muito mais curta, o que reduz sua capacidade de interagir com a sujeira oleosa presente sobre as superfícies lavadas",
+                                              "c":  "apresenta caráter iônico apenas na cauda apolar da molécula, o que impede a formação das micelas responsáveis pela remoção da gordura",
+                                              "d":  "forma sais insolúveis com os íons cálcio e magnésio da água dura",
+                                              "e":  "não apresenta parte hidrofílica em sua estrutura, e por isso depende integralmente da agitação mecânica para remover a sujeira das superfícies"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Os sais de ácidos graxos com cálcio e magnésio são insolúveis e precipitam — é a nata que se forma em água dura. Detergentes sintéticos têm grupos polares, como o sulfonato, cujos sais desses metais permanecem solúveis. Ambos possuem parte polar e apolar, o que descarta (c) e (e).",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-84",
+                         "texto_apoio":  "Duas amostras gasosas são comparadas nas mesmas condições de temperatura: uma de gás hidrogênio e outra de gás oxigênio. Mede-se a velocidade média das moléculas em cada uma delas.",
+                         "enunciado":  "Espera-se que as moléculas de hidrogênio apresentem velocidade média:",
+                         "alternativas":  {
+                                              "a":  "igual, porque a temperatura é a mesma nas duas amostras e determina diretamente a velocidade das moléculas independentemente de sua natureza",
+                                              "b":  "menor, uma vez que moléculas de massa reduzida sofrem maior número de colisões por segundo e têm seu deslocamento retardado por esse motivo",
+                                              "c":  "maior, porque à mesma temperatura a energia cinética média é igual e a massa do hidrogênio é menor",
+                                              "d":  "maior, porque o hidrogênio apresenta forças intermoleculares mais intensas que o oxigênio e transfere energia com mais eficiência entre partículas",
+                                              "e":  "menor, porque a molécula de hidrogênio possui menos elétrons e portanto menor capacidade de armazenar a energia térmica fornecida ao sistema"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A temperatura mede a energia cinética média das partículas. Como essa energia é igual nas duas amostras e vale metade da massa vezes a velocidade ao quadrado, a molécula mais leve precisa se mover mais rápido. É o princípio por trás da lei de efusão de Graham.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-85",
+                         "texto_apoio":  "Uma amostra de leite é analisada e apresenta pH em torno de 6,7. Após alguns dias em temperatura ambiente, nova medição indica pH próximo de 4,5, com coagulação das proteínas e alteração do sabor.",
+                         "enunciado":  "A queda do pH observada decorre da:",
+                         "alternativas":  {
+                                              "a":  "oxidação das gorduras do leite pelo oxigênio atmosférico, processo que libera íons hidrogênio e acidifica progressivamente a amostra armazenada",
+                                              "b":  "evaporação parcial da água presente no leite, o que concentra os componentes ácidos originalmente dissolvidos e reduz o valor medido de pH",
+                                              "c":  "fermentação da lactose por bactérias, com produção de ácido lático",
+                                              "d":  "dissolução de gás carbônico do ar na amostra, que forma ácido carbônico em quantidade suficiente para reduzir o pH em mais de duas unidades",
+                                              "e":  "desnaturação espontânea das proteínas, que expõe grupos ácidos antes ocultos no interior da estrutura enovelada de cada uma das moléculas"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Bactérias lácticas convertem a lactose em ácido lático, e o acúmulo desse ácido derruba o pH. Ao se aproximar do ponto isoelétrico da caseína, as proteínas perdem a repulsão que as mantinha dispersas e coagulam — a mesma reação usada deliberadamente na produção de iogurte e queijo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-86",
+                         "texto_apoio":  "Uma reação química apresenta variação de entalpia igual a −92 kJ e variação de entropia negativa. Um estudante afirma que ela será espontânea em qualquer temperatura.",
+                         "enunciado":  "A afirmação do estudante está:",
+                         "alternativas":  {
+                                              "a":  "incorreta, porque reações exotérmicas nunca são espontâneas quando acompanhadas de redução na desordem do sistema em que elas ocorrem",
+                                              "b":  "correta, uma vez que a variação de entalpia negativa garante por si só a espontaneidade do processo em toda e qualquer condição de temperatura",
+                                              "c":  "incorreta, porque com entropia negativa a espontaneidade se restringe a temperaturas suficientemente baixas",
+                                              "d":  "correta, desde que a reação seja conduzida na presença de um catalisador capaz de reduzir a barreira energética que separa reagentes e produtos",
+                                              "e":  "incorreta, porque a espontaneidade de uma reação depende unicamente da variação de entropia, sem qualquer contribuição do termo entálpico"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A energia livre combina os dois termos: com entalpia negativa e entropia negativa, o termo entrópico se opõe e cresce com a temperatura. Há então uma temperatura acima da qual a reação deixa de ser espontânea. A alternativa (a) exagera na direção oposta, negando espontaneidade em qualquer temperatura.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-87",
+                         "texto_apoio":  "Um frasco contém uma mistura de areia, sal de cozinha e limalha de ferro. O laboratorista precisa recuperar os três componentes separadamente, em estado sólido.",
+                         "enunciado":  "A sequência de operações adequada é ______, seguida de ______, e por fim ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "dissolução em água e filtração – separação magnética – sublimação do sal presente no resíduo retido pelo papel de filtro utilizado",
+                                              "b":  "filtração simples – destilação da mistura restante – decantação do resíduo sólido obtido ao final do processo de separação empregado",
+                                              "c":  "separação magnética – dissolução em água e filtração – evaporação do filtrado",
+                                              "d":  "catação manual – flotação em água – centrifugação da suspensão formada pelos componentes que permaneceram dispersos no líquido",
+                                              "e":  "peneiração – separação magnética – cristalização fracionada dos dois componentes que permanecem misturados após as etapas anteriores"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O ímã retira a limalha primeiro, sem tocar nos demais. Água dissolve o sal e não a areia, então a filtração separa os dois. Evaporar o filtrado recupera o sal sólido. Fazer a dissolução antes da separação magnética, como em (a), molharia a limalha e complicaria a etapa seguinte sem necessidade.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "quimica-88",
+                         "texto_apoio":  "Uma amostra de 100 g de calcário impuro reage com ácido clorídrico em excesso e libera 8,8 g de gás carbônico. Considere as massas molares: CaCO3 = 100 g/mol e CO2 = 44 g/mol, e que apenas o carbonato de cálcio reage.",
+                         "enunciado":  "O grau de pureza da amostra de calcário é de:",
+                         "alternativas":  {
+                                              "a":  "8,8%",
+                                              "b":  "88%",
+                                              "c":  "44%",
+                                              "d":  "80%",
+                                              "e":  "20%"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "8,8 g de gás carbônico correspondem a 0,20 mol. Pela estequiometria 1:1, reagiram 0,20 mol de carbonato de cálcio, ou 20 g. Numa amostra de 100 g, isso corresponde a 20% de pureza. A alternativa (b) resulta de tomar a massa de gás como se fosse a massa de carbonato.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-89",
+                         "texto_apoio":  "O monóxido de carbono é um gás incolor e inodoro produzido na combustão incompleta de materiais orgânicos. Sua toxicidade decorre da ligação com a hemoglobina, cuja afinidade por esse gás é cerca de duzentas vezes maior que a apresentada pelo oxigênio.",
+                         "enunciado":  "A consequência fisiológica direta da exposição ao monóxido de carbono é:",
+                         "alternativas":  {
+                                              "a":  "o aumento da acidez do sangue por formação de ácido carbônico, o que compromete o funcionamento dos sistemas enzimáticos do organismo",
+                                              "b":  "a destruição irreversível das hemácias circulantes, que se rompem ao entrar em contato com o gás e liberam hemoglobina no plasma sanguíneo",
+                                              "c":  "a redução da capacidade do sangue de transportar oxigênio aos tecidos",
+                                              "d":  "a obstrução mecânica das vias aéreas superiores pelo acúmulo do gás, que impede a entrada de ar atmosférico nos pulmões da pessoa exposta",
+                                              "e":  "a inibição direta das enzimas responsáveis pela síntese de hemoglobina na medula óssea, o que reduz progressivamente a contagem de hemácias"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O monóxido ocupa os sítios da hemoglobina que transportariam oxigênio, e a afinidade muito maior faz a ligação persistir. O sangue circula normalmente, mas carrega pouco oxigênio — e o quadro é insidioso porque o gás não tem cor nem cheiro, e a pele pode manter aparência corada.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "quimica-90",
+                         "texto_apoio":  "Um recipiente fechado contém o equilíbrio N2O4(g) ⇌ 2 NO2(g). Partindo de 1,0 mol de N2O4 num volume de 1,0 L, o sistema atinge o equilíbrio com 0,20 mol de N2O4 remanescente.",
+                         "enunciado":  "O grau de dissociação do N2O4 e a quantidade de NO2 formada no equilíbrio são, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "80% e 0,80 mol",
+                                              "b":  "20% e 0,40 mol",
+                                              "c":  "80% e 1,6 mol",
+                                              "d":  "40% e 1,6 mol",
+                                              "e":  "20% e 1,6 mol"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Dissociaram-se 0,80 mol dos 1,0 mol iniciais, o que dá grau de 80%. Pela estequiometria, cada mol de N2O4 gera dois de NO2: 0,80 x 2 = 1,6 mol. A alternativa (a) acerta o grau e esquece o coeficiente 2, e (b) toma o remanescente como se fosse o dissociado.",
+                         "formato":  "direta"
                      }
                  ]
 }

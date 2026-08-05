@@ -1454,6 +1454,825 @@ window.QUESTION_BANKS = {
                          "resposta":  "e",
                          "explicacao":  "É a oscilação clássica predador-presa. O aumento das lebres oferece mais alimento aos linces, cuja população cresce em seguida; a predação intensa derruba as lebres, e a queda do alimento derruba os linces depois. A defasagem no sentido descrito no gráfico — pico do predador após o da presa — é o que descarta (d).",
                          "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-97",
+                         "texto_apoio":  "Um esquema representa as duas etapas da fotossíntese. Na etapa I, que ocorre nos tilacoides, a luz é absorvida e há produção de duas substâncias que serão consumidas na etapa II. Na etapa II, que ocorre no estroma, o gás carbônico é incorporado a um composto de cinco carbonos.",
+                         "enunciado":  "As duas substâncias produzidas na etapa I e consumidas na etapa II são:",
+                         "alternativas":  {
+                                              "a":  "ATP e NADPH",
+                                              "b":  "glicose e oxigênio, moléculas que resultam diretamente da absorção de energia luminosa pelos pigmentos presentes na membrana do tilacoide",
+                                              "c":  "água e gás carbônico, substratos que precisam ser transportados do citoplasma até o interior do cloroplasto antes de cada ciclo",
+                                              "d":  "ATP e oxigênio, sendo o segundo reincorporado ao ciclo de fixação do carbono como aceptor final dos elétrons transportados",
+                                              "e":  "NADH e piruvato, produtos que estabelecem a ligação entre a etapa luminosa e as reações de redução do carbono no estroma"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A etapa fotoquímica converte energia luminosa em energia química na forma de ATP e poder redutor na forma de NADPH, e libera oxigênio como subproduto da fotólise da água. Ambos são consumidos no ciclo de Calvin para reduzir o carbono. O oxigênio é liberado, e não reaproveitado, o que descarta (d).",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-98",
+                         "texto_apoio":  "Plantas de cana-de-açúcar e de milho mantêm alta produtividade em regiões quentes e ensolaradas, condições em que muitas outras espécies reduzem a fotossíntese. Nessas plantas, o gás carbônico é fixado inicialmente em células do mesofilo, formando um composto de quatro carbonos que é transportado para células mais internas, onde o carbono é liberado e entra no ciclo de Calvin.",
+                         "enunciado":  "A vantagem desse arranjo em ambientes quentes está em:",
+                         "alternativas":  {
+                                              "a":  "dispensar completamente a abertura dos estômatos, o que elimina qualquer perda de água por transpiração ao longo do período diurno",
+                                              "b":  "concentrar gás carbônico junto à enzima do ciclo de Calvin, reduzindo a fotorrespiração",
+                                              "c":  "permitir que a fixação do carbono ocorra durante a noite, quando a temperatura mais baixa reduz a perda de água pelos estômatos abertos",
+                                              "d":  "substituir a enzima do ciclo de Calvin por outra que não reage com oxigênio em nenhuma condição de temperatura ou luminosidade",
+                                              "e":  "aumentar o número de cloroplastos por célula, o que eleva proporcionalmente a captação de energia luminosa disponível no ambiente"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Em calor e luz intensa, a enzima do ciclo de Calvin passa a aceitar oxigênio no lugar do gás carbônico, e a fotorrespiração desperdiça energia. O mecanismo C4 bombeia carbono para as células da bainha, onde a concentração fica alta o bastante para a enzima priorizar o gás carbônico. A fixação noturna de (c) descreve o metabolismo CAM.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-99",
+                         "texto_apoio":  "O transporte de seiva elaborada no floema é explicado pelo modelo de fluxo por pressão. A sacarose produzida nas folhas é carregada ativamente para os tubos crivados, e a entrada de água por osmose gera pressão que empurra a solução até os locais de consumo ou armazenamento.",
+                         "enunciado":  "No modelo descrito, o local que carrega a sacarose é chamado ______, o que a retira é chamado ______, e o transporte ocorre em ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "dreno – fonte – sentido único, sempre das raízes para as folhas",
+                                              "b":  "fonte – dreno – sentido único, sempre das folhas para as raízes",
+                                              "c":  "fonte – dreno – sentidos variáveis, conforme a posição relativa dos dois",
+                                              "d":  "dreno – fonte – sentidos variáveis, conforme a estação do ano e a idade do órgão vegetal considerado",
+                                              "e":  "fonte – reservatório – sentido único, determinado pela gravidade que atua sobre a coluna de seiva elaborada"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Fonte é onde a sacarose entra no floema e dreno é onde ela sai. O que define cada papel é a função no momento, e não a posição: um tubérculo é dreno quando acumula reserva e vira fonte quando a mobiliza para brotar. Por isso o transporte no floema pode ocorrer nos dois sentidos, ao contrário do xilema.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "biologia-100",
+                         "texto_apoio":  "Uma pessoa desidratada apresenta redução do volume de urina e aumento de sua concentração. Exames mostram elevação de um hormônio produzido no hipotálamo e liberado pela neuro-hipófise, que atua sobre os ductos coletores dos rins.",
+                         "enunciado":  "O hormônio envolvido e seu efeito sobre os ductos coletores são:",
+                         "alternativas":  {
+                                              "a":  "aldosterona, que estimula a excreção de sódio e provoca a saída de água para o filtrado, concentrando os solutos remanescentes na urina",
+                                              "b":  "insulina, que aumenta a permeabilidade das células tubulares à glicose e, com ela, ao volume de água reabsorvido durante o percurso",
+                                              "c":  "paratormônio, que eleva a reabsorção de cálcio nos túbulos e reduz secundariamente o volume de urina eliminado ao longo do dia",
+                                              "d":  "hormônio antidiurético, que aumenta a permeabilidade à água e eleva sua reabsorção",
+                                              "e":  "cortisol, que reduz a taxa de filtração glomerular e assim diminui o volume total de filtrado formado a cada minuto pelos rins"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O ADH é sintetizado no hipotálamo e liberado pela neuro-hipófise em resposta ao aumento da osmolaridade do sangue. Ele insere aquaporinas na membrana dos ductos coletores, o que aumenta a reabsorção de água e produz urina em menor volume e mais concentrada. A aldosterona atua sobre sódio, e no sentido inverso ao descrito em (a).",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-101",
+                         "texto_apoio":  "Uma pessoa de tipo sanguíneo O, Rh negativo, precisa receber transfusão de urgência. O banco de sangue dispõe de bolsas dos tipos A positivo, B negativo, AB positivo e O negativo.",
+                         "enunciado":  "A única bolsa compatível e a razão da incompatibilidade das demais são:",
+                         "alternativas":  {
+                                              "a":  "AB positivo, porque esse tipo é considerado doador universal por não apresentar anticorpos anti-A nem anti-B circulando em seu plasma sanguíneo",
+                                              "b":  "A positivo, porque o receptor de tipo O não produz aglutininas capazes de reagir contra o aglutinogênio A presente nas hemácias doadas",
+                                              "c":  "B negativo, porque a ausência do fator Rh compensa a diferença de aglutinogênios entre o doador e o receptor da transfusão",
+                                              "d":  "qualquer uma das quatro, desde que a transfusão seja feita lentamente e sob observação clínica para detectar reações precoces",
+                                              "e":  "O negativo, porque o receptor tem anticorpos anti-A e anti-B e não possui anticorpos anti-Rh formados"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O receptor de tipo O produz aglutininas anti-A e anti-B, o que exclui doadores A, B e AB. Sendo Rh negativo, ele também não pode receber hemácias Rh positivas, sob risco de sensibilização. Resta O negativo — o doador universal, e não AB, que é o receptor universal, como (a) inverte.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-102",
+                         "texto_apoio":  "O fígado desempenha diversas funções no organismo humano. Entre elas estão o armazenamento de glicogênio, a produção de proteínas plasmáticas, a conversão de amônia em ureia e a secreção de uma substância que atua no intestino delgado.",
+                         "enunciado":  "A substância secretada pelo fígado que atua no intestino delgado e sua função na digestão são:",
+                         "alternativas":  {
+                                              "a":  "a bile, que emulsiona as gorduras e amplia a superfície de ação das lipases",
+                                              "b":  "o suco pancreático, que neutraliza o quimo ácido vindo do estômago e fornece as enzimas responsáveis pela quebra dos três tipos de nutriente",
+                                              "c":  "a pepsina, que inicia a quebra das proteínas ingeridas e continua atuando ao longo de todo o trajeto do alimento pelo intestino delgado",
+                                              "d":  "a insulina, que promove a captação da glicose absorvida pelas células do epitélio intestinal antes que ela alcance a corrente sanguínea",
+                                              "e":  "a lipase hepática, enzima que hidrolisa diretamente os triglicerídeos em ácidos graxos e glicerol no interior do duodeno"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A bile é produzida no fígado, armazenada na vesícula biliar e lançada no duodeno. Ela não contém enzimas: sua ação é física, quebrando as gotículas de gordura em outras menores e ampliando a superfície disponível para as lipases pancreáticas. O suco pancreático de (b) vem do pâncreas, e não do fígado.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-103",
+                         "texto_apoio":  "Uma célula acumula mutações em genes que controlam a passagem entre as fases do ciclo celular. Em consequência, ela passa a se dividir sem responder aos sinais que normalmente interromperiam o processo, e deixa de acionar o programa de morte celular quando apresenta danos no material genético.",
+                         "enunciado":  "Os dois tipos de gene cuja alteração produz esse quadro e o programa de morte celular mencionado são, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "genes de reparo e genes estruturais, e a necrose, processo em que a célula se rompe e libera seu conteúdo no meio extracelular circundante",
+                                              "b":  "proto-oncogenes e genes supressores de tumor, e a apoptose",
+                                              "c":  "genes homeóticos e proto-oncogenes, e a autofagia, mecanismo pelo qual a célula degrada suas próprias organelas para obter energia",
+                                              "d":  "genes supressores de tumor e genes mitocondriais, e a necrose, resposta que ocorre sempre que há lesão irreversível do material genético",
+                                              "e":  "genes de resistência e genes reguladores da transcrição, e a apoptose desencadeada por sinais vindos das células vizinhas do tecido"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Proto-oncogenes estimulam a divisão e, mutados, tornam-se oncogenes que a aceleram sem controle. Genes supressores de tumor freiam o ciclo e disparam a apoptose diante de danos; perdida essa função, a célula danificada sobrevive e prolifera. A apoptose é morte programada e ordenada, distinta da necrose descrita em (a).",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-104",
+                         "texto_apoio":  "Um paciente que recebeu um transplante de rim precisa tomar medicamentos imunossupressores pelo resto da vida. Um paciente que recebeu um transplante de córnea, ao contrário, raramente necessita desse tipo de tratamento contínuo.",
+                         "enunciado":  "A rejeição de órgãos transplantados é desencadeada, principalmente, por:",
+                         "alternativas":  {
+                                              "a":  "anticorpos pré-formados contra proteínas do doador, presentes no plasma do receptor antes mesmo de qualquer contato prévio com aquele tecido",
+                                              "b":  "bactérias introduzidas durante o procedimento cirúrgico, que provocam inflamação e comprometem a irrigação sanguínea do órgão implantado",
+                                              "c":  "linfócitos T do receptor, que reconhecem como estranhas as proteínas de superfície das células do doador",
+                                              "d":  "incompatibilidade entre os tipos sanguíneos do sistema ABO, único fator considerado na escolha de um doador compatível para transplantes",
+                                              "e":  "diferenças no material genético mitocondrial entre doador e receptor, herdado exclusivamente por via materna em ambos os indivíduos"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A rejeição é mediada principalmente por linfócitos T, que reconhecem as moléculas do complexo principal de histocompatibilidade do doador como estranhas. A córnea é pouco vascularizada e tem acesso limitado do sistema imune — condição chamada privilégio imunológico —, o que explica a diferença descrita no enunciado.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-105",
+                         "texto_apoio":  "O ciclo do agente causador da malária envolve dois hospedeiros. No ser humano, o parasita se multiplica primeiro no fígado e depois invade as hemácias, cuja ruptura sincronizada provoca os acessos febris característicos. O inseto vetor é uma fêmea de mosquito de hábito crepuscular e noturno.",
+                         "enunciado":  "O agente da malária pertence ao grupo dos ______, o hospedeiro definitivo é ______ e a fase que rompe as hemácias corresponde ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "vírus – o ser humano – à liberação de novas partículas virais",
+                                              "b":  "protozoários – o ser humano – à reprodução assexuada no fígado",
+                                              "c":  "bactérias – o mosquito – à multiplicação por fissão binária no interior da hemácia",
+                                              "d":  "protozoários – o mosquito – à reprodução assexuada nas hemácias",
+                                              "e":  "helmintos – o mosquito – à eclosão dos ovos depositados na corrente sanguínea do hospedeiro humano"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O agente é um protozoário do gênero Plasmodium. Hospedeiro definitivo é aquele onde ocorre a reprodução sexuada, e no caso da malária isso acontece no mosquito — o ser humano é o intermediário, contra a intuição de muita gente. A ruptura sincronizada das hemácias resulta da reprodução assexuada que ocorre dentro delas.",
+                         "formato":  "lacunas",
+                         "banca":  "santacasa"
+                     },
+                     {
+                         "id":  "biologia-106",
+                         "texto_apoio":  "Um esquema compara a resposta imune inata e a adaptativa. A primeira atua nas primeiras horas após a infecção, com a mesma intensidade a cada novo contato com o mesmo agente. A segunda leva dias para se instalar no primeiro contato, mas é muito mais rápida e intensa em contatos posteriores.",
+                         "enunciado":  "A diferença de velocidade entre o primeiro e os contatos posteriores na resposta adaptativa se deve à:",
+                         "alternativas":  {
+                                              "a":  "maior quantidade de macrófagos recrutados para o local da infecção a cada nova exposição ao mesmo agente infeccioso",
+                                              "b":  "elevação permanente da temperatura corporal após a primeira infecção, o que acelera todas as reações enzimáticas da resposta imune",
+                                              "c":  "produção contínua de anticorpos contra aquele agente durante toda a vida, independentemente de haver nova exposição a ele",
+                                              "d":  "ação das barreiras físicas e químicas do organismo, que se tornam progressivamente mais eficazes a cada contato com o mesmo patógeno",
+                                              "e":  "permanência de linfócitos de memória, que reconhecem o antígeno e se multiplicam rapidamente"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Após o primeiro contato, parte dos linfócitos ativados se diferencia em células de memória de vida longa. Num reencontro, elas dispensam as etapas iniciais de seleção e ativação e proliferam de imediato, o que encurta a resposta de dias para horas. É esse mecanismo que a vacinação explora deliberadamente.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-107",
+                         "texto_apoio":  "Uma reserva florestal contínua foi cortada por uma rodovia e por áreas de cultivo, restando fragmentos isolados de tamanhos variados. Levantamentos posteriores mostraram queda no número de espécies de mamíferos de grande porte nos fragmentos menores, e aumento da proporção de espécies típicas de borda em todos eles.",
+                         "enunciado":  "Uma medida de manejo capaz de reduzir os efeitos descritos é:",
+                         "alternativas":  {
+                                              "a":  "a implantação de corredores ecológicos ligando os fragmentos, restabelecendo o fluxo de indivíduos e de genes",
+                                              "b":  "a introdução de espécies exóticas de grande porte nos fragmentos menores, capazes de ocupar os nichos deixados vagos pelas nativas",
+                                              "c":  "o cercamento completo de cada fragmento, impedindo qualquer deslocamento de fauna entre eles e o entorno agrícola circundante",
+                                              "d":  "o corte seletivo das árvores de borda, medida que uniformizaria as condições de luz e umidade no interior de cada fragmento remanescente",
+                                              "e":  "a substituição da vegetação nativa dos fragmentos por espécies de crescimento rápido, capazes de recompor a cobertura em poucos anos"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A fragmentação isola populações pequenas, sujeitas a deriva genética e endogamia, e aumenta a proporção de borda em relação ao interior. Corredores ecológicos religam os fragmentos e permitem que indivíduos e genes circulem, o que reduz os dois problemas. Introduzir exóticas, como em (b), costuma agravar o quadro.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-108",
+                         "texto_apoio":  "Uma tabela relaciona quatro vitaminas às manifestações associadas à sua carência: a vitamina I está ligada a alterações da visão noturna; a vitamina II, ao raquitismo; a vitamina III, ao escorbuto; e a vitamina IV, a distúrbios da coagulação sanguínea.",
+                         "enunciado":  "As vitaminas I, II, III e IV são, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "C, A, K e D, sendo as três primeiras lipossolúveis e armazenadas no tecido adiposo do organismo por longos períodos de tempo",
+                                              "b":  "A, D, C e K",
+                                              "c":  "D, K, A e C, agrupamento em que apenas a última é hidrossolúvel e precisa ser reposta diariamente pela alimentação equilibrada",
+                                              "d":  "K, C, D e A, sequência que corresponde à ordem em que essas vitaminas foram isoladas e caracterizadas quimicamente pelos pesquisadores",
+                                              "e":  "A, C, D e K, sendo a segunda delas responsável pela fixação do cálcio nos ossos durante o período de crescimento da criança"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A vitamina A entra na composição da rodopsina e sua falta prejudica a visão noturna. A vitamina D regula a absorção de cálcio, e sua carência causa raquitismo. A vitamina C é necessária à síntese de colágeno, e sua falta produz o escorbuto. A vitamina K participa da cascata de coagulação.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-109",
+                         "texto_apoio":  "Um esquema apresenta quatro formas de reprodução assexuada: na forma I, um organismo se divide em dois de tamanho semelhante; na forma II, surge uma projeção que se destaca do corpo do progenitor; na forma III, um fragmento do organismo origina um indivíduo completo; na forma IV, um óvulo não fecundado origina um novo indivíduo.",
+                         "enunciado":  "As formas I, II, III e IV denominam-se, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "brotamento, cissiparidade, partenogênese e regeneração, processos que ocorrem apenas em invertebrados de organização corporal simples",
+                                              "b":  "regeneração, brotamento, cissiparidade e esporulação, sequência que acompanha o aumento da complexidade dos organismos envolvidos",
+                                              "c":  "cissiparidade, brotamento, regeneração e partenogênese",
+                                              "d":  "esporulação, regeneração, brotamento e cissiparidade, formas que dispensam por completo a participação de gametas em qualquer etapa",
+                                              "e":  "partenogênese, cissiparidade, esporulação e brotamento, agrupamento em que todas as modalidades geram descendentes geneticamente distintos"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Divisão em duas partes semelhantes é cissiparidade; projeção que se destaca é brotamento; fragmento que reconstitui o indivíduo é regeneração. A partenogênese é um caso à parte: parte de um gameta, mas sem fecundação, e por isso costuma ser tratada como reprodução assexuada apesar de envolver célula germinativa.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-110",
+                         "texto_apoio":  "Uma cultura de células-tronco foi obtida da medula óssea de um paciente adulto. Em laboratório, essas células deram origem a células sanguíneas de várias linhagens, mas não a neurônios nem a células musculares.",
+                         "enunciado":  "As células descritas são classificadas como:",
+                         "alternativas":  {
+                                              "a":  "totipotentes, capazes de originar qualquer tecido do organismo e também os anexos embrionários que sustentam o desenvolvimento inicial",
+                                              "b":  "pluripotentes, capazes de originar tecidos derivados dos três folhetos embrionários, ainda que não formem um organismo completo sozinhas",
+                                              "c":  "unipotentes, restritas a um único tipo celular e sem qualquer capacidade de autorrenovação ao longo das sucessivas divisões em cultura",
+                                              "d":  "multipotentes, capazes de originar vários tipos celulares dentro de uma mesma linhagem",
+                                              "e":  "induzidas à pluripotência, condição obtida pela reprogramação de células adultas já diferenciadas mediante a introdução de fatores específicos"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "As células-tronco hematopoiéticas da medula originam eritrócitos, leucócitos e plaquetas — vários tipos, mas todos da mesma linhagem. Isso as define como multipotentes. Totipotentes são as do embrião nas primeiras divisões; pluripotentes originam derivados dos três folhetos, o que essas células não fazem.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-111",
+                         "texto_apoio":  "Cianobactérias podem se proliferar intensamente em reservatórios eutrofizados, formando manchas visíveis na superfície da água. Algumas espécies produzem substâncias que afetam o fígado e o sistema nervoso de animais e do ser humano.",
+                         "enunciado":  "As cianobactérias pertencem ao domínio ______, realizam ______ e as substâncias tóxicas que produzem são chamadas ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "Eukarya – quimiossíntese – micotoxinas",
+                                              "b":  "Bacteria – fotossíntese com liberação de oxigênio – cianotoxinas",
+                                              "c":  "Bacteria – fermentação – endotoxinas",
+                                              "d":  "Archaea – fotossíntese sem liberação de oxigênio – exotoxinas",
+                                              "e":  "Eukarya – fotossíntese com liberação de oxigênio – ficotoxinas produzidas no interior dos cloroplastos"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Cianobactérias são procariontes do domínio Bacteria, sem núcleo nem cloroplasto — o pigmento fica em membranas internas. Elas realizam fotossíntese oxigênica e foram as responsáveis pelo acúmulo de oxigênio na atmosfera primitiva. Suas toxinas são as cianotoxinas, entre elas hepatotoxinas e neurotoxinas.",
+                         "formato":  "lacunas",
+                         "banca":  "einstein"
+                     },
+                     {
+                         "id":  "biologia-112",
+                         "texto_apoio":  "Um manguezal ocupa a faixa de transição entre o ambiente terrestre e o marinho, em regiões tropicais. O solo é lodoso, pobre em oxigênio e sujeito a variações de salinidade conforme o regime de marés.",
+                         "enunciado":  "Entre as adaptações da vegetação de mangue às condições descritas está:",
+                         "alternativas":  {
+                                              "a":  "a presença de raízes com pneumatóforos, que emergem do lodo e permitem trocas gasosas em solo pobre em oxigênio",
+                                              "b":  "a redução completa do sistema radicular, substituído por estruturas de fixação que se prendem diretamente às rochas do substrato marinho",
+                                              "c":  "a perda das folhas durante o período de maré alta, o que reduz a superfície exposta à água salgada e limita a entrada de sais no vegetal",
+                                              "d":  "o desenvolvimento de sementes muito leves, dispersas pelo vento até áreas de solo firme onde as condições de germinação são favoráveis",
+                                              "e":  "a realização de fotossíntese exclusivamente noturna, estratégia que evita a perda de água nas horas de maior temperatura e insolação"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O solo do manguezal é encharcado e anóxico, o que impede a respiração das raízes submersas. Os pneumatóforos são projeções que emergem do lodo e possuem aberturas para trocas gasosas. Outras adaptações do grupo são as raízes escora, que dão sustentação no substrato instável, e as glândulas de excreção de sal.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-113",
+                         "texto_apoio":  "Recifes de coral abrigam uma das maiores diversidades de espécies do planeta, apesar de ocorrerem em águas tropicais pobres em nutrientes. Os corais vivem em associação com algas microscópicas que habitam seus tecidos. Quando a temperatura da água se eleva além de certo limite, os corais expulsam essas algas e adquirem coloração esbranquiçada.",
+                         "enunciado":  "A associação descrita e a consequência do fenômeno de branqueamento para o coral são:",
+                         "alternativas":  {
+                                              "a":  "parasitismo, e a expulsão das algas beneficia o coral ao interromper a retirada de nutrientes que elas promoviam a partir de seus tecidos",
+                                              "b":  "mutualismo, e a perda das algas priva o coral de boa parte de seu suprimento energético",
+                                              "c":  "comensalismo, e a expulsão não altera o balanço energético do coral, que passa a depender integralmente da captura de plâncton da água",
+                                              "d":  "predatismo, e a saída das algas reduz a pressão sobre as populações de zooplâncton que circulam entre as colônias de coral do recife",
+                                              "e":  "competição, e o branqueamento representa a vitória do coral na disputa por espaço e por luz travada com as algas em seus próprios tecidos"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "As zooxantelas realizam fotossíntese e transferem grande parte dos compostos orgânicos produzidos ao coral, que em troca oferece abrigo e compostos nitrogenados: é mutualismo. É essa associação que sustenta a alta produtividade do recife em águas pobres, e perdê-la deixa o coral sem sua principal fonte de energia.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-114",
+                         "texto_apoio":  "Um gráfico mostra a espessura média da camada de ozônio sobre a Antártida entre 1980 e 2020. Há queda acentuada até meados da década de 1990, estabilização por alguns anos e recuperação lenta a partir dos anos 2000.",
+                         "enunciado":  "A recuperação observada a partir dos anos 2000 está associada:",
+                         "alternativas":  {
+                                              "a":  "à redução das emissões de gás carbônico acordada em tratados climáticos internacionais firmados ao longo daquela mesma década",
+                                              "b":  "ao aumento da atividade fotossintética dos oceanos, que passou a liberar quantidades maiores de oxigênio para a alta atmosfera terrestre",
+                                              "c":  "à substituição progressiva dos clorofluorcarbonos, cujo uso foi restringido por acordo internacional",
+                                              "d":  "à diminuição natural da radiação ultravioleta emitida pelo Sol, resultado do ciclo de atividade solar observado nas últimas décadas",
+                                              "e":  "ao aumento da concentração de material particulado na estratosfera, que passou a refletir parte da radiação antes que ela atingisse o ozônio"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Os CFCs liberam cloro na estratosfera, e cada átomo de cloro destrói milhares de moléculas de ozônio em ciclo catalítico. O Protocolo de Montreal restringiu sua produção, e a recuperação lenta reflete a longa permanência dessas moléculas na atmosfera. O buraco de ozônio é problema distinto do aquecimento global, o que (a) confunde.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-115",
+                         "texto_apoio":  "Duas populações de uma mesma espécie de planta ocupam encostas opostas de um vale. Numa delas a floração ocorre no início da primavera; na outra, no fim do verão. Testes em laboratório mostram que o cruzamento entre indivíduos das duas populações produz descendentes férteis.",
+                         "enunciado":  "O mecanismo que mantém as duas populações separadas na natureza é classificado como isolamento:",
+                         "alternativas":  {
+                                              "a":  "pós-zigótico, uma vez que o cruzamento entre as duas populações não chega a produzir descendentes viáveis em condições naturais de campo",
+                                              "b":  "geográfico, já que as encostas opostas do vale constituem barreira física ao deslocamento dos indivíduos entre as duas populações",
+                                              "c":  "mecânico, porque as estruturas reprodutivas das duas populações apresentam incompatibilidade morfológica que impede a transferência do pólen",
+                                              "d":  "pré-zigótico do tipo sazonal, porque as épocas de floração não coincidem",
+                                              "e":  "gamético, porque os grãos de pólen de uma população não conseguem germinar sobre o estigma dos indivíduos pertencentes à outra população"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O impedimento age antes da formação do zigoto, o que o torna pré-zigótico, e a causa é a defasagem entre os períodos reprodutivos: isolamento sazonal ou temporal. A fertilidade dos híbridos em laboratório mostra que não há barreira pós-zigótica, o que descarta (a) — o que separa as populações é ecológico, e não genético.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-116",
+                         "texto_apoio":  "Um estudo estimou o valor econômico dos serviços prestados por polinizadores à agricultura de uma região. Foram considerados o aumento de produtividade de culturas dependentes de polinização animal e o custo de substituir esse serviço por polinização manual.",
+                         "enunciado":  "O tipo de serviço ecossistêmico avaliado nesse estudo é classificado como:",
+                         "alternativas":  {
+                                              "a":  "de provisão, categoria que reúne os bens materiais diretamente extraídos dos ecossistemas, como alimentos, madeira, fibras e água doce",
+                                              "b":  "cultural, por envolver os benefícios não materiais obtidos dos ecossistemas, como recreação, valor estético e identidade das comunidades",
+                                              "c":  "de suporte, por englobar os processos de base que sustentam os demais serviços, como a formação do solo e a ciclagem de nutrientes",
+                                              "d":  "de conservação, categoria dedicada à manutenção das áreas protegidas e das populações de espécies ameaçadas de extinção em cada bioma",
+                                              "e":  "de regulação, por envolver um processo natural que mantém condições favoráveis à produção"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Serviços de regulação são processos naturais que mantêm condições favoráveis à vida e à produção — polinização, controle biológico de pragas, regulação climática e purificação da água. Provisão são os bens extraídos; suporte, os processos de base; cultural, os benefícios não materiais. A categoria de (d) não existe nessa classificação.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-117",
+                         "texto_apoio":  "Um esquema representa a cascata de coagulação sanguínea, culminando na conversão de uma proteína plasmática solúvel em filamentos insolúveis que formam a rede do coágulo, junto com as plaquetas agregadas.",
+                         "enunciado":  "A proteína solúvel convertida é ______, os filamentos formados são de ______, e o íon indispensável a várias etapas da cascata é ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "o fibrinogênio – fibrina – o cálcio",
+                                              "b":  "a albumina – colágeno – o potássio",
+                                              "c":  "a protrombina – trombina – o sódio",
+                                              "d":  "a fibrina – fibrinogênio – o magnésio",
+                                              "e":  "a globulina – queratina – o ferro presente no grupo heme das hemácias circulantes"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A trombina converte o fibrinogênio, solúvel, em fibrina, que polimeriza em filamentos insolúveis e forma a malha do coágulo. O cálcio participa de várias etapas da cascata — razão pela qual os tubos de coleta com quelante de cálcio impedem a coagulação da amostra. A alternativa (d) inverte substrato e produto.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "biologia-118",
+                         "texto_apoio":  "Uma pessoa apresenta reação intensa após picada de inseto, com inchaço, vermelhidão e coceira que se estendem muito além do local da picada. Exames indicam presença de anticorpos da classe IgE específicos contra proteínas da saliva do inseto.",
+                         "enunciado":  "O quadro descrito caracteriza:",
+                         "alternativas":  {
+                                              "a":  "uma doença autoimune, na qual o sistema imune reconhece como estranhas moléculas do próprio organismo e desencadeia uma resposta contra elas",
+                                              "b":  "uma reação alérgica, resposta exagerada a uma substância inofensiva mediada por IgE e pela liberação de histamina",
+                                              "c":  "uma imunodeficiência primária, condição em que a resposta imune se mostra insuficiente diante de agentes de baixa virulência para a população",
+                                              "d":  "uma reação de rejeição, semelhante à que ocorre quando tecidos de um doador incompatível são implantados no organismo de um receptor",
+                                              "e":  "um processo infeccioso local, causado pela multiplicação de bactérias introduzidas no tecido subcutâneo no momento em que ocorreu a picada"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Alergia é hipersensibilidade a uma substância que não representa ameaça real. A IgE específica se fixa aos mastócitos e, no novo contato, o antígeno faz a célula liberar histamina, que produz vasodilatação, edema e prurido. Doença autoimune, descrita em (a), envolve resposta contra moléculas do próprio corpo, e não contra um agente externo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-119",
+                         "texto_apoio":  "Uma espécie de peixe introduzida num lago para fins de pesca esportiva passou a predar intensamente espécies nativas de pequeno porte. Em duas décadas, várias delas desapareceram do lago, e a pesca comercial tradicional entrou em colapso.",
+                         "enunciado":  "A situação descrita ilustra o impacto de uma espécie exótica invasora, cujo sucesso em geral se explica por:",
+                         "alternativas":  {
+                                              "a":  "sua maior variabilidade genética em relação às espécies nativas, o que lhe garante vantagem em qualquer ambiente onde venha a ser introduzida",
+                                              "b":  "sua capacidade de se reproduzir assexuadamente no novo ambiente, dispensando a presença de parceiros para colonizar o corpo hídrico",
+                                              "c":  "sua taxa metabólica mais elevada, que lhe permite explorar recursos alimentares indisponíveis para as espécies nativas do mesmo lago",
+                                              "d":  "ausência de predadores e parasitas que a controlariam na área de origem",
+                                              "e":  "sua tolerância exclusiva a águas de baixa concentração de oxigênio, condição que a torna inacessível às demais espécies do ecossistema"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "No ambiente de origem, predadores, parasitas e competidores mantêm a população sob controle. Introduzida onde essas pressões não existem, e diante de presas que não evoluíram defesas contra ela, a espécie cresce sem freio. É a mesma lógica das aves insulares diante de predadores introduzidos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-120",
+                         "texto_apoio":  "Um gráfico apresenta a taxa metabólica basal por quilograma de massa corporal em cinco mamíferos de portes muito diferentes, do musaranho ao elefante. A curva mostra que quanto menor o animal, maior a taxa por unidade de massa.",
+                         "enunciado":  "A relação observada é explicada pelo fato de que animais menores apresentam:",
+                         "alternativas":  {
+                                              "a":  "maior número de mitocôndrias por célula, característica que se estabelece durante o desenvolvimento embrionário e persiste ao longo da vida adulta",
+                                              "b":  "menor espessura de tecido adiposo subcutâneo, o que dispensa qualquer gasto energético adicional com a manutenção da temperatura interna",
+                                              "c":  "ciclos reprodutivos mais curtos, que exigem maior mobilização de energia por unidade de massa ao longo de toda a vida do indivíduo",
+                                              "d":  "maior relação entre superfície e volume corporal, o que aumenta a perda de calor",
+                                              "e":  "sistema circulatório proporcionalmente mais extenso, condição que eleva o custo do transporte de gases e nutrientes entre os tecidos"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A superfície cresce com o quadrado da dimensão linear e o volume com o cubo, de modo que animais pequenos têm muito mais superfície por unidade de massa. Como a perda de calor ocorre pela superfície, eles precisam de metabolismo mais intenso por grama para manter a temperatura — e é por isso que comem proporcionalmente muito mais.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-121",
+                         "texto_apoio":  "Durante a germinação de uma semente de cereal, o embrião libera um hormônio que atinge a camada de aleurona. Essa camada passa a produzir enzimas que degradam o amido armazenado no endosperma, liberando açúcares que alimentam o embrião até que a plântula seja capaz de fotossintetizar.",
+                         "enunciado":  "O hormônio responsável por esse processo e a enzima produzida pela aleurona são, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "etileno e celulase, atuando na degradação da parede das células do endosperma e na liberação do conteúdo armazenado no seu interior",
+                                              "b":  "ácido abscísico e lipase, sendo o primeiro também o hormônio que mantém a semente em estado de dormência antes das condições favoráveis",
+                                              "c":  "auxina e protease, combinação que promove ao mesmo tempo o alongamento das células e a mobilização das reservas proteicas da semente",
+                                              "d":  "giberelina e amilase",
+                                              "e":  "citocinina e amilase, hormônio que estimula a divisão celular no embrião e simultaneamente a quebra do amido presente no endosperma"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A giberelina produzida pelo embrião induz a aleurona a sintetizar alfa-amilase, que hidrolisa o amido em açúcares aproveitáveis. O ácido abscísico atua no sentido oposto, mantendo a dormência, e o equilíbrio entre os dois determina o momento da germinação — mecanismo explorado industrialmente na maltagem da cevada.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-122",
+                         "texto_apoio":  "Uma planta foi colocada na horizontal em ambiente escuro. Após alguns dias, observou-se que a raiz curvou-se para baixo e o caule, para cima, sem que houvesse qualquer estímulo luminoso direcional durante o experimento.",
+                         "enunciado":  "O fenômeno observado e a explicação para as curvaturas opostas de raiz e caule são:",
+                         "alternativas":  {
+                                              "a":  "fototropismo, e as duas estruturas respondem de forma oposta porque a luz difusa do ambiente atinge cada uma delas em ângulos distintos",
+                                              "b":  "tigmotropismo, e a diferença resulta do contato da raiz com as partículas do solo, ausente na porção aérea da planta em desenvolvimento",
+                                              "c":  "gravitropismo, e a auxina acumulada na face inferior estimula o caule e inibe a raiz",
+                                              "d":  "hidrotropismo, e a raiz cresce em direção à umidade do substrato enquanto o caule se afasta dela em busca de ar menos saturado de vapor",
+                                              "e":  "nastismo, e as curvaturas independem da direção do estímulo, sendo determinadas apenas pela estrutura interna de cada órgão vegetal"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A resposta à gravidade é o gravitropismo. A auxina se acumula na face voltada para baixo nos dois órgãos, mas as concentrações que estimulam o alongamento no caule inibem o alongamento na raiz. O resultado são curvaturas em sentidos opostos a partir do mesmo acúmulo hormonal — o que torna o fenômeno contraintuitivo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-123",
+                         "texto_apoio":  "O sistema linfático é formado por vasos, linfonodos e órgãos linfoides. Os capilares linfáticos recolhem o líquido que extravasa dos capilares sanguíneos nos tecidos e o devolvem à circulação venosa, além de participarem da absorção de determinados nutrientes no intestino.",
+                         "enunciado":  "O nutriente cuja absorção depende principalmente dos vasos linfáticos intestinais e a consequência da obstrução crônica de vasos linfáticos são, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "os aminoácidos, e a obstrução provoca perda de massa muscular por deficiência no aporte proteico aos tecidos periféricos do organismo",
+                                              "b":  "as vitaminas hidrossolúveis, e a obstrução compromete a coagulação sanguínea por falta do aporte adequado desses micronutrientes",
+                                              "c":  "a glicose, e a obstrução leva à queda da glicemia por interrupção da via principal de absorção dos carboidratos ingeridos na dieta",
+                                              "d":  "os sais minerais, e a obstrução resulta em desequilíbrio eletrolítico com repercussão direta sobre a excitabilidade das células nervosas",
+                                              "e":  "os lipídios, e a obstrução provoca acúmulo de líquido nos tecidos, o edema"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Os quilomícrons formados a partir dos lipídios são grandes demais para os capilares sanguíneos e entram nos vasos quilíferos, do sistema linfático. Se a drenagem linfática é obstruída, o líquido intersticial se acumula e produz edema — mecanismo da elefantíase na filariose. Aminoácidos e glicose seguem pela via sanguínea.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-124",
+                         "texto_apoio":  "Um esquema apresenta a remodelação óssea contínua, com dois tipos celulares atuando em sentidos opostos: um deposita matriz óssea e o outro a reabsorve. O equilíbrio entre os dois é influenciado por hormônios e pela carga mecânica a que o osso é submetido.",
+                         "enunciado":  "As células que depositam e as que reabsorvem matriz óssea são, respectivamente, ______ e ______, e a queda dos níveis de estrogênio após a menopausa favorece ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "osteócitos – osteoblastos – o aumento da densidade óssea",
+                                              "b":  "osteoclastos – osteoblastos – a calcificação excessiva das articulações",
+                                              "c":  "osteoblastos – osteoclastos – a perda de massa óssea",
+                                              "d":  "condrócitos – osteoclastos – a substituição do tecido ósseo por cartilagem hialina nas epífises dos ossos longos",
+                                              "e":  "osteoblastos – osteócitos – o espessamento progressivo do tecido ósseo compacto nas regiões submetidas a maior carga mecânica"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Osteoblastos depositam matriz e, aprisionados nela, tornam-se osteócitos. Osteoclastos reabsorvem. O estrogênio contém a atividade osteoclástica; com sua queda na menopausa, a reabsorção supera a deposição e a massa óssea cai — base da osteoporose pós-menopausa. A alternativa (b) inverte os dois tipos celulares.",
+                         "formato":  "lacunas",
+                         "banca":  "santacasa"
+                     },
+                     {
+                         "id":  "biologia-125",
+                         "texto_apoio":  "Um levantamento em uma comunidade rural encontrou alta prevalência de anemia entre crianças, associada à presença de ovos de um helminto nas fezes. O verme adulto fixa-se à mucosa do intestino delgado e se alimenta de sangue. A larva penetra ativamente pela pele, geralmente pelos pés descalços.",
+                         "enunciado":  "A parasitose descrita e a medida preventiva mais diretamente relacionada à sua via de transmissão são:",
+                         "alternativas":  {
+                                              "a":  "esquistossomose, e o combate aos caramujos que atuam como hospedeiros intermediários nas coleções de água doce frequentadas pela comunidade",
+                                              "b":  "ascaridíase, e a lavagem cuidadosa de verduras e frutas consumidas cruas, principal veículo dos ovos infectantes desse helminto ao ser humano",
+                                              "c":  "teníase, e a inspeção sanitária da carne bovina e suína comercializada, além do cozimento adequado antes do consumo pela população local",
+                                              "d":  "ancilostomose, e o uso de calçados associado ao saneamento básico",
+                                              "e":  "filariose, e o controle das populações do mosquito vetor por meio da eliminação de criadouros de água parada próximos às residências"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Larva que penetra pela pele dos pés e verme hematófago no intestino delgado caracterizam a ancilostomose, o amarelão. A prevenção combina calçados, que bloqueiam a penetração, e saneamento, que impede os ovos de chegarem ao solo. As demais parasitoses citadas têm vias de transmissão distintas da descrita.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-126",
+                         "texto_apoio":  "Uma tabela compara três domínios de seres vivos quanto à presença de núcleo organizado, à composição da parede celular e à capacidade de habitar ambientes extremos, como fontes hidrotermais e lagos hipersalinos.",
+                         "enunciado":  "O grupo de procariontes frequentemente encontrado em ambientes extremos e cuja parede celular não contém peptidoglicano pertence ao domínio:",
+                         "alternativas":  {
+                                              "a":  "Bacteria, cujos representantes apresentam grande diversidade metabólica e ocupam praticamente todos os ambientes conhecidos do planeta",
+                                              "b":  "Eukarya, que reúne organismos com núcleo organizado e cuja parede, quando presente, pode ser de celulose ou de quitina conforme o reino",
+                                              "c":  "Protista, agrupamento tradicional que reúne organismos unicelulares eucarióticos de organização e metabolismo bastante heterogêneos",
+                                              "d":  "Archaea",
+                                              "e":  "Monera, categoria que reúne todos os organismos procariontes independentemente da composição química de sua parede celular"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Archaea são procariontes, mas sua parede não tem peptidoglicano e seus lipídios de membrana diferem dos bacterianos, o que justificou separá-los em domínio próprio. Muitos são extremófilos. A alternativa (e) usa uma classificação em reinos já superada, que reunia archaea e bactérias num grupo só.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-127",
+                         "texto_apoio":  "Um gráfico apresenta a zonação vertical de organismos em um costão rochoso, entre o nível de maré alta e o de maré baixa. Cada faixa é ocupada por espécies distintas, com limites bastante nítidos entre elas.",
+                         "enunciado":  "Estudos experimentais mostram que, nesse ambiente, o limite superior de distribuição de uma espécie costuma ser determinado por ______, enquanto o limite inferior costuma ser determinado por ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "temperatura da rocha – disponibilidade de substrato firme para a fixação dos organismos nas porções mais profundas do costão",
+                                              "b":  "competição e predação – tolerância à dessecação",
+                                              "c":  "disponibilidade de luz – salinidade da água que banha o costão em cada uma das faixas ao longo do ciclo diário das marés",
+                                              "d":  "tolerância à dessecação – competição e predação",
+                                              "e":  "salinidade – oxigenação da água, que varia conforme a intensidade da agitação provocada pelas ondas em cada altura do costão rochoso"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Quanto mais alto no costão, maior o tempo exposto ao ar: o limite superior é imposto por fatores físicos, sobretudo a dessecação. Para baixo, as condições físicas melhoram, e o que impede a espécie de descer são fatores biológicos — competidores e predadores mais eficientes ali. É um padrão clássico da ecologia experimental.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "biologia-128",
+                         "texto_apoio":  "Duas amostras de água foram analisadas quanto à demanda bioquímica de oxigênio. A amostra I apresentou valor muito elevado; a amostra II, valor baixo. As duas foram coletadas no mesmo rio, uma antes e outra depois de um ponto de lançamento de efluentes.",
+                         "enunciado":  "A demanda bioquímica de oxigênio elevada na amostra I indica:",
+                         "alternativas":  {
+                                              "a":  "alta concentração de oxigênio dissolvido, resultado da intensa atividade fotossintética das algas presentes naquele trecho do rio analisado",
+                                              "b":  "temperatura elevada da água, condição que diminui a solubilidade dos gases e reduz a quantidade de oxigênio que ela consegue reter",
+                                              "c":  "presença de metais pesados dissolvidos, substâncias que interferem diretamente na determinação laboratorial do teor de oxigênio da amostra",
+                                              "d":  "elevada turbidez causada por partículas minerais em suspensão, as quais reduzem a penetração de luz e limitam a produção primária no local",
+                                              "e":  "grande quantidade de matéria orgânica, que será oxidada pelos decompositores com consumo de oxigênio"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A DBO mede quanto oxigênio os micro-organismos consumirão para degradar a matéria orgânica presente. Valor alto indica carga orgânica alta — típico de esgoto — e antecipa a queda de oxigênio dissolvido rio abaixo. É indicador de poluição orgânica, e não de metais ou de turbidez mineral.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-129",
+                         "texto_apoio":  "Um esquema representa o processo de tradução em uma célula eucariótica. Um ribossomo percorre a molécula de RNA mensageiro, e moléculas de RNA transportador trazem aminoácidos que são ligados uns aos outros em sequência.",
+                         "enunciado":  "A correspondência entre o códon do RNA mensageiro e o anticódon do RNA transportador garante:",
+                         "alternativas":  {
+                                              "a":  "que a proteína adquira sua conformação tridimensional final ainda durante a passagem pelo ribossomo, sem necessidade de dobramento posterior",
+                                              "b":  "que o RNA mensageiro seja degradado imediatamente após a leitura, impedindo que uma mesma molécula produza mais de uma cópia da proteína",
+                                              "c":  "que apenas os aminoácidos essenciais, obtidos pela dieta, sejam incorporados à cadeia polipeptídica em formação no interior da célula",
+                                              "d":  "que a velocidade de síntese permaneça constante ao longo de toda a molécula, independentemente da sequência de bases sendo percorrida",
+                                              "e":  "que a sequência de aminoácidos corresponda à informação contida no gene"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Cada RNA transportador carrega um aminoácido específico e um anticódon complementar ao códon. O pareamento é o que traduz a linguagem de bases para a de aminoácidos e garante fidelidade à informação do gene. Um mesmo RNA mensageiro pode ser lido por vários ribossomos e originar muitas cópias, o que descarta (b).",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-130",
+                         "texto_apoio":  "Uma cultura de bactérias foi transferida de um meio contendo nitrogênio pesado para um meio com nitrogênio leve. Após uma geração, todo o DNA analisado apresentou densidade intermediária. Após duas gerações, metade apresentou densidade intermediária e metade, densidade leve.",
+                         "enunciado":  "O resultado descrito apoia o modelo de replicação do DNA denominado:",
+                         "alternativas":  {
+                                              "a":  "conservativo, no qual a dupla-hélice original permanece intacta e serve de molde para a formação de uma segunda molécula inteiramente nova",
+                                              "b":  "dispersivo, no qual segmentos antigos e novos se alternam ao longo de ambas as fitas de cada uma das moléculas-filhas produzidas",
+                                              "c":  "semiconservativo, em que cada molécula-filha tem uma fita antiga e uma nova",
+                                              "d":  "bidirecional simétrico, no qual a replicação avança em dois sentidos a partir de múltiplas origens distribuídas ao longo do cromossomo",
+                                              "e":  "descontínuo, em que fragmentos curtos são sintetizados separadamente e depois unidos por enzimas específicas em uma fita contínua"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "É o experimento de Meselson e Stahl. Densidade intermediária em toda a primeira geração exclui o modelo conservativo, que produziria metade pesada e metade leve já ali. A separação em intermediária e leve na segunda geração exclui o dispersivo, que manteria tudo intermediário. Resta o semiconservativo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-131",
+                         "texto_apoio":  "Uma população de bactérias em meio de cultura fresco apresenta quatro fases sucessivas de crescimento: uma fase inicial sem aumento do número de células, uma fase de crescimento exponencial, uma fase em que o número permanece estável e uma fase de declínio.",
+                         "enunciado":  "A ausência de aumento na fase inicial é explicada por:",
+                         "alternativas":  {
+                                              "a":  "esgotamento antecipado dos nutrientes do meio, o que impede qualquer divisão celular até que compostos alternativos passem a ser utilizados",
+                                              "b":  "temperatura do meio ainda abaixo da faixa ótima para a espécie, condição que se corrige gradualmente pelo calor gerado no metabolismo",
+                                              "c":  "acúmulo de produtos tóxicos do metabolismo bacteriano, que só é revertido depois que parte da população morre e libera espaço no meio",
+                                              "d":  "competição intensa entre as células recém-inoculadas por sítios de adesão disponíveis na superfície interna do recipiente de cultura",
+                                              "e":  "adaptação metabólica das células ao novo meio, com síntese das enzimas necessárias antes do início das divisões"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Na fase lag as células estão metabolicamente ativas, sintetizando enzimas e precursores adequados ao novo meio, mas ainda não se dividem. O esgotamento de nutrientes e o acúmulo de toxinas explicam a fase estacionária e a de declínio, e não a inicial — é justamente essa inversão que a questão testa.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-132",
+                         "texto_apoio":  "Uma figura mostra a estrutura de um anticorpo, com duas cadeias pesadas e duas leves formando um Y. As extremidades das duas hastes superiores apresentam sequências de aminoácidos que variam enormemente entre anticorpos diferentes, enquanto o restante da molécula é praticamente idêntico em todos.",
+                         "enunciado":  "A região variável e a região constante do anticorpo são responsáveis, respectivamente, por:",
+                         "alternativas":  {
+                                              "a":  "determinar a classe do anticorpo produzido e definir a intensidade da resposta inflamatória desencadeada no local em que ele atua",
+                                              "b":  "fixar a molécula à membrana do linfócito produtor e reconhecer o antígeno específico contra o qual aquele anticorpo foi originalmente gerado",
+                                              "c":  "destruir diretamente o agente infeccioso por ação enzimática e sinalizar sua localização para as células fagocitárias presentes no tecido",
+                                              "d":  "reconhecer o antígeno específico e interagir com células de defesa e com o sistema complemento",
+                                              "e":  "transportar o anticorpo pela corrente sanguínea até o local da infecção e ancorá-lo à superfície das células infectadas pelo patógeno"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A variabilidade da região que forma o sítio de ligação é o que permite ao repertório de anticorpos reconhecer praticamente qualquer antígeno. A região constante define a classe e é reconhecida por receptores de fagócitos e pelo complemento, articulando o reconhecimento com a resposta efetora. O anticorpo não destrói o agente por si.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-133",
+                         "texto_apoio":  "Uma pesquisa comparou o consumo de oxigênio e a produção de gás carbônico em sementes germinando no escuro e em folhas de uma planta adulta expostas à luz intensa. Nas sementes, o consumo de oxigênio superou amplamente a produção de gás carbônico medida no mesmo intervalo.",
+                         "enunciado":  "Nas folhas expostas à luz intensa, espera-se observar:",
+                         "alternativas":  {
+                                              "a":  "ausência completa de respiração celular, já que a fotossíntese supre diretamente todas as necessidades energéticas das células foliares",
+                                              "b":  "equilíbrio exato entre consumo e produção dos dois gases, condição em que a planta atinge o chamado ponto de compensação luminoso",
+                                              "c":  "consumo de oxigênio superior ao das sementes, uma vez que a atividade metabólica das folhas expostas à luz é sempre mais intensa",
+                                              "d":  "consumo de gás carbônico superior à sua produção, porque a taxa de fotossíntese supera a de respiração",
+                                              "e":  "produção de gás carbônico superior ao consumo, resultado do predomínio da fotorrespiração sob condições de alta luminosidade e temperatura"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Sementes germinando no escuro só respiram: consomem oxigênio e liberam gás carbônico. Folhas sob luz intensa respiram e fotossintetizam ao mesmo tempo, com a fotossíntese superando a respiração — o saldo é consumo líquido de gás carbônico e liberação de oxigênio. A respiração não cessa na luz, o que descarta (a).",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-134",
+                         "texto_apoio":  "Um esquema representa a estrutura de um cromossomo eucariótico durante a metáfase, com duas cromátides unidas por uma constrição. Ao lado, a mesma região é mostrada em maior aumento, revelando o DNA enrolado em torno de complexos proteicos que se sucedem ao longo da fita.",
+                         "enunciado":  "A constrição que une as cromátides chama-se ______, os complexos proteicos em torno dos quais o DNA se enrola são de ______, e a unidade formada pelo DNA enrolado nesses complexos é o ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "telômero – actina – cromômero",
+                                              "b":  "telômero – histonas – nucléolo, estrutura visível ao microscópio óptico durante a intérfase da célula",
+                                              "c":  "centríolo – tubulina – cinetocoro",
+                                              "d":  "centrômero – tubulina – cromatídeo",
+                                              "e":  "centrômero – histonas – nucleossomo"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O centrômero é a constrição que mantém as cromátides unidas e onde se monta o cinetocoro. O DNA se enrola em octâmeros de histonas, e cada volta de DNA em torno de um octâmero forma um nucleossomo — o primeiro nível de compactação. Telômeros são as extremidades, e centríolos participam da organização do fuso.",
+                         "formato":  "lacunas",
+                         "banca":  "einstein"
+                     },
+                     {
+                         "id":  "biologia-135",
+                         "texto_apoio":  "Um pesquisador acompanhou por vinte anos uma área de restinga em processo de recuperação após a retirada da cobertura vegetal para extração de areia. O solo remanescente é arenoso, pobre em matéria orgânica e sujeito a forte insolação e salinidade.",
+                         "enunciado":  "As primeiras espécies a se estabelecer nesse ambiente são caracterizadas, tipicamente, por:",
+                         "alternativas":  {
+                                              "a":  "grande porte, crescimento lento e alta longevidade, atributos que garantem estabilidade à comunidade nas etapas iniciais da recuperação",
+                                              "b":  "sementes grandes e pesadas, com reservas abundantes capazes de sustentar a plântula durante um período prolongado de estabelecimento",
+                                              "c":  "exigência estrita quanto à umidade e à fertilidade do solo, o que restringe seu estabelecimento às áreas mais sombreadas do terreno",
+                                              "d":  "dependência de polinizadores especializados, que asseguram taxas elevadas de fecundação cruzada logo nos primeiros anos de colonização",
+                                              "e":  "tolerância ampla às condições adversas, crescimento rápido e grande produção de propágulos"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Espécies pioneiras enfrentam condições severas e pouca competição. O perfil selecionado combina ampla tolerância, crescimento rápido, ciclo curto e muitos propágulos pequenos e bem dispersos. Porte grande, longevidade e sementes com muita reserva caracterizam espécies de estágios tardios, quando a competição por luz predomina.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-136",
+                         "texto_apoio":  "Uma tabela apresenta a composição aproximada do ar inspirado e do ar expirado por uma pessoa em repouso, com os percentuais de nitrogênio, oxigênio, gás carbônico e vapor de água em cada um.",
+                         "enunciado":  "Comparando o ar expirado com o inspirado, espera-se encontrar:",
+                         "alternativas":  {
+                                              "a":  "ausência completa de oxigênio no ar expirado, uma vez que todo o gás inspirado é consumido pelas células durante a respiração celular",
+                                              "b":  "aumento da proporção de nitrogênio, gás que é produzido pelo metabolismo celular e eliminado junto com o gás carbônico pelos pulmões",
+                                              "c":  "redução do oxigênio, aumento do gás carbônico e do vapor de água, com o nitrogênio praticamente inalterado",
+                                              "d":  "redução simultânea de oxigênio e de gás carbônico, ambos retidos nos alvéolos durante o processo de hematose que ocorre nos pulmões",
+                                              "e":  "aumento do oxigênio e redução do gás carbônico, resultado das trocas gasosas realizadas entre o sangue e o ar contido nos alvéolos"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Parte do oxigênio é absorvida e gás carbônico é liberado, e o ar ganha vapor de água ao passar pelas vias úmidas. O nitrogênio não participa das trocas e permanece praticamente constante. O oxigênio nunca é totalmente consumido — é por isso que a ventilação boca a boca funciona, ponto que descarta (a).",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-137",
+                         "texto_apoio":  "Um estudo em uma savana africana registrou que a presença de grandes herbívoros mantém extensas áreas abertas, com poucas árvores. Quando esses herbívoros foram excluídos experimentalmente de algumas parcelas, a vegetação lenhosa se adensou rapidamente e a diversidade de plantas herbáceas caiu.",
+                         "enunciado":  "O papel desempenhado pelos grandes herbívoros nesse ecossistema é o de:",
+                         "alternativas":  {
+                                              "a":  "espécie-chave, cuja atuação mantém a estrutura e a diversidade da comunidade além do que sua abundância sugeriria",
+                                              "b":  "espécie exótica invasora, cuja presença altera profundamente a composição da vegetação nativa da região em que foi introduzida",
+                                              "c":  "espécie bioindicadora, cuja abundância informa sobre a qualidade do ambiente e permite monitorar mudanças ao longo do tempo na savana",
+                                              "d":  "espécie generalista, capaz de explorar uma ampla variedade de recursos alimentares e por isso pouco sensível a mudanças no ambiente",
+                                              "e":  "espécie r-estrategista, caracterizada pela produção de muitos descendentes com baixo investimento parental em cada um deles"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Espécie-chave é aquela cujo efeito sobre a comunidade é desproporcional à sua biomassa ou abundância. Ao consumir e pisotear plântulas lenhosas, os herbívoros mantêm o ambiente aberto e criam condições para o estrato herbáceo. Removê-los reorganiza a comunidade inteira, que é a assinatura do conceito.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-138",
+                         "texto_apoio":  "Um exame de sangue de rotina apresentou os seguintes achados: contagem de leucócitos acima do valor de referência, com predomínio de neutrófilos, e velocidade de hemossedimentação elevada. O paciente relata febre há três dias.",
+                         "enunciado":  "O conjunto de achados é mais compatível com:",
+                         "alternativas":  {
+                                              "a":  "uma infecção bacteriana aguda, quadro em que a resposta imune mobiliza rapidamente os neutrófilos circulantes",
+                                              "b":  "uma condição alérgica em fase aguda, na qual a elevação se concentra nos eosinófilos e nos basófilos presentes na circulação periférica",
+                                              "c":  "uma anemia por deficiência de ferro, caracterizada pela redução do número de hemácias e do teor de hemoglobina em cada uma delas",
+                                              "d":  "uma infecção viral crônica, situação em que predominam os linfócitos e a contagem total de leucócitos costuma permanecer normal ou baixa",
+                                              "e":  "um distúrbio da coagulação, no qual a alteração principal recai sobre o número de plaquetas e sobre os tempos de coagulação medidos"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Neutrófilos são a primeira linha celular mobilizada contra bactérias, e sua elevação, com leucocitose e febre, aponta infecção bacteriana aguda. Infecções virais tendem a cursar com linfocitose, e alergias e parasitoses com eosinofilia — as três correspondências que a questão pede para distinguir.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-139",
+                         "texto_apoio":  "Uma espécie de orquídea apresenta flores cujo formato e odor imitam a fêmea de uma espécie de vespa. Machos da vespa tentam copular com a flor e, ao fazê-lo, recebem as polínias que serão transferidas à próxima flor visitada. A orquídea não oferece néctar nem qualquer recompensa ao inseto.",
+                         "enunciado":  "A relação descrita entre a orquídea e a vespa é classificada como:",
+                         "alternativas":  {
+                                              "a":  "mutualismo, já que ambos os organismos obtêm vantagem reprodutiva da interação estabelecida entre a flor e o inseto visitante",
+                                              "b":  "comensalismo, já que a orquídea se beneficia da visita sem que a vespa sofra qualquer prejuízo mensurável em razão do comportamento",
+                                              "c":  "predatismo, já que a flor captura o inseto e utiliza os nutrientes obtidos de seu corpo para complementar sua própria nutrição mineral",
+                                              "d":  "competição, já que os dois organismos disputam o mesmo espaço e os mesmos recursos dentro do ambiente em que ambos ocorrem",
+                                              "e":  "parasitismo, já que a orquídea obtém a polinização às custas do tempo e da energia gastos pelo macho da vespa"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Sem recompensa, a interação tem saldo positivo só para a planta: o macho gasta tempo e energia numa cópula que não gera descendentes. Esse engano reprodutivo é tratado como parasitismo, e não mutualismo — a distinção depende do saldo para cada parte, e é por isso que (a) falha apesar de a polinização ocorrer.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-140",
+                         "texto_apoio":  "Um esquema representa o processo de splicing em uma célula eucariótica. A molécula recém-transcrita contém segmentos que serão removidos e segmentos que serão unidos para compor a molécula madura, exportada ao citoplasma.",
+                         "enunciado":  "Os segmentos removidos denominam-se ______, os mantidos denominam-se ______, e o fato de uma mesma molécula poder originar proteínas diferentes conforme os segmentos mantidos chama-se ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "éxons – íntrons – transcrição reversa",
+                                              "b":  "íntrons – éxons – splicing alternativo",
+                                              "c":  "códons – anticódons – degeneração do código genético",
+                                              "d":  "íntrons – éxons – edição de bases",
+                                              "e":  "promotores – operadores – regulação da expressão gênica realizada por proteínas que se ligam a essas regiões do material genético"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Íntrons são removidos e éxons são unidos para formar o RNA mensageiro maduro. Combinando éxons de maneiras diferentes, um único gene pode originar várias proteínas — o splicing alternativo, que ajuda a explicar por que o número de genes humanos é muito menor que a variedade de proteínas produzidas.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "biologia-141",
+                         "texto_apoio":  "Registros de uma unidade de conservação mostram que a população de uma espécie de felino caiu de cerca de duzentos indivíduos para menos de vinte em três décadas, e depois se recuperou parcialmente. Análises genéticas recentes indicam variabilidade muito inferior à de populações da mesma espécie em outras regiões.",
+                         "enunciado":  "O fenômeno responsável pela baixa variabilidade genética observada é denominado:",
+                         "alternativas":  {
+                                              "a":  "efeito fundador, resultado do estabelecimento de uma nova população a partir de poucos indivíduos vindos de uma população de origem maior",
+                                              "b":  "gargalo populacional, redução drástica do tamanho da população que elimina parte da variabilidade original",
+                                              "c":  "fluxo gênico, entrada de alelos vindos de populações vizinhas que reduziria as diferenças genéticas entre os grupos ao longo do tempo",
+                                              "d":  "seleção estabilizadora, atuação contínua contra os fenótipos extremos que reduz gradualmente a variância do caractere na população",
+                                              "e":  "endogamia obrigatória, sistema reprodutivo em que os cruzamentos ocorrem exclusivamente entre indivíduos aparentados dentro do grupo"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Um gargalo é a queda drástica do número de indivíduos: os sobreviventes carregam apenas parte dos alelos originais, e a recuperação numérica não restaura a diversidade perdida. O efeito fundador é aparentado, mas envolve a fundação de uma população nova em outro local, e não o colapso de uma população existente.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-142",
+                         "texto_apoio":  "Um esquema apresenta o ciclo do fósforo. Diferentemente do ciclo do carbono e do nitrogênio, ele não possui uma fase gasosa significativa, e seu principal reservatório são as rochas fosfatadas, de onde o elemento é liberado lentamente pelo intemperismo.",
+                         "enunciado":  "Uma consequência direta da ausência de fase gasosa nesse ciclo é que o fósforo:",
+                         "alternativas":  {
+                                              "a":  "circula com maior rapidez entre os compartimentos do ecossistema, já que não depende da atividade de micro-organismos especializados",
+                                              "b":  "tende a se acumular nos sedimentos marinhos, ficando indisponível por longos períodos e funcionando como fator limitante em muitos ambientes",
+                                              "c":  "é reposto continuamente na atmosfera pela decomposição da matéria orgânica realizada por bactérias e fungos presentes no solo",
+                                              "d":  "apresenta distribuição uniforme entre os continentes, uma vez que sua liberação depende apenas do intemperismo das rochas que o contêm",
+                                              "e":  "não é incorporado por organismos vivos, sendo utilizado exclusivamente em processos geológicos de formação e erosão de rochas sedimentares"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Sem fase gasosa, o fósforo não tem via de retorno rápido: uma vez carreado aos oceanos, sedimenta e só volta em escala geológica. Por isso é frequentemente o nutriente limitante da produtividade — e por isso a adição via esgoto e fertilizante dispara eutrofização. Ele é essencial a ácidos nucleicos e ATP, o que descarta (e).",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-143",
+                         "texto_apoio":  "Um paciente com diabetes tipo 1 apresenta destruição das células beta das ilhotas pancreáticas por ação do próprio sistema imune. Outro paciente, com diabetes tipo 2, produz insulina em quantidade normal ou até elevada, mas seus tecidos respondem mal ao hormônio.",
+                         "enunciado":  "Os dois quadros diferem, respectivamente, por envolverem:",
+                         "alternativas":  {
+                                              "a":  "resistência periférica à insulina e destruição autoimune das células produtoras, sendo o primeiro tipo mais frequente entre crianças e adolescentes",
+                                              "b":  "deficiência de produção do hormônio e resistência dos tecidos à sua ação",
+                                              "c":  "excesso de produção de glucagon e deficiência de produção de insulina, alterações que decorrem do comprometimento das ilhotas pancreáticas",
+                                              "d":  "falha na secreção do hormônio antidiurético e resistência renal à sua ação, o que explica a poliúria observada nos dois tipos de diabetes",
+                                              "e":  "deficiência de receptores de glicose nas células e destruição das células alfa das ilhotas por ação de autoanticorpos circulantes no plasma"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "No tipo 1 a destruição autoimune das células beta compromete a produção de insulina, e o tratamento exige reposição do hormônio. No tipo 2 há insulina disponível, mas os tecidos respondem mal a ela. A alternativa (d) descreve o diabetes insipidus, condição distinta que envolve o ADH e não a glicemia.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-144",
+                         "texto_apoio":  "Uma figura compara o ovo de um réptil com o de um anfíbio. O primeiro apresenta casca calcária porosa, membranas internas e abundante reserva nutritiva. O segundo é envolvido apenas por camadas gelatinosas e é depositado em ambiente aquático.",
+                         "enunciado":  "A inovação evolutiva representada pelo ovo dos répteis e sua consequência para o grupo foram:",
+                         "alternativas":  {
+                                              "a":  "o âmnio e demais membranas, que criaram um meio aquoso interno e permitiram a reprodução longe da água",
+                                              "b":  "a casca calcária, estrutura que impede por completo as trocas gasosas e protege o embrião contra a ação de predadores e de agentes infecciosos",
+                                              "c":  "a fecundação externa, mecanismo que aumentou o número de descendentes gerados a cada estação reprodutiva em relação aos anfíbios",
+                                              "d":  "a metamorfose completa, processo que permitiu ao jovem ocupar nicho ecológico distinto do adulto e reduzir a competição entre as duas fases",
+                                              "e":  "a reserva de vitelo, que passou a sustentar o embrião durante um período mais curto de desenvolvimento até a eclosão do filhote"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O ovo amniótico levou consigo o meio aquoso de que o embrião precisa, o que desvinculou a reprodução dos corpos d\u0027água. A casca é porosa e permite trocas gasosas, e não as impede, o que descarta (b). A metamorfose é característica dos anfíbios, e a fecundação nos répteis é interna, e não externa.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-145",
+                         "texto_apoio":  "Uma cultura de células humanas em laboratório foi tratada com uma substância que impede a formação do fuso mitótico. Após o tratamento, observou-se aumento expressivo do número de células com o dobro do conteúdo normal de material genético.",
+                         "enunciado":  "A fase da divisão celular diretamente bloqueada pela substância e a razão do acúmulo observado são:",
+                         "alternativas":  {
+                                              "a":  "a intérfase, e o acúmulo decorre da duplicação repetida do material genético sem que ocorra qualquer tentativa de divisão da célula",
+                                              "b":  "a citocinese, e o acúmulo resulta da separação normal dos cromossomos sem a divisão subsequente do citoplasma entre as células-filhas",
+                                              "c":  "a metáfase, e as células não conseguem alinhar nem separar os cromossomos, permanecendo com o material já duplicado",
+                                              "d":  "a prófase, e o acúmulo se deve à impossibilidade de condensação da cromatina em cromossomos individualizados antes da divisão",
+                                              "e":  "a telófase, e o acúmulo ocorre porque a carioteca não se reorganiza ao redor dos conjuntos cromossômicos já separados nos polos"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Sem fuso não há como alinhar os cromossomos no equador nem tracioná-los aos polos, e a célula para na metáfase com o DNA já duplicado. É o mecanismo de fármacos como a colchicina e de quimioterápicos que atuam sobre microtúbulos, cujo efeito é maior nas células que se dividem mais.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-146",
+                         "texto_apoio":  "Um levantamento comparou a riqueza de espécies de aves em fragmentos florestais de tamanhos variados, situados a distâncias diferentes de uma grande área contínua de floresta. Os resultados mostraram que fragmentos maiores e mais próximos da área contínua abrigavam mais espécies.",
+                         "enunciado":  "O padrão observado é previsto pela teoria da biogeografia de ilhas, segundo a qual o número de espécies resulta do equilíbrio entre:",
+                         "alternativas":  {
+                                              "a":  "as taxas de imigração e de extinção, sendo a primeira influenciada pela distância e a segunda pelo tamanho do fragmento",
+                                              "b":  "as taxas de natalidade e de mortalidade das populações residentes, ambas determinadas pela quantidade de recursos alimentares disponíveis",
+                                              "c":  "a produtividade primária e a eficiência de transferência de energia entre os níveis tróficos presentes em cada um dos fragmentos avaliados",
+                                              "d":  "a intensidade da competição interespecífica e a pressão de predação exercida por espécies vindas da matriz agrícola que cerca os fragmentos",
+                                              "e":  "a velocidade de sucessão ecológica e o tempo decorrido desde o isolamento de cada fragmento em relação à área contínua de floresta"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A teoria prevê que a riqueza se estabiliza no ponto em que imigração e extinção se igualam. Fragmentos próximos recebem mais imigrantes, porque a travessia é menos arriscada; fragmentos grandes sustentam populações maiores, menos sujeitas à extinção local. Daí o efeito combinado de tamanho e distância observado no levantamento.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-147",
+                         "texto_apoio":  "Uma pessoa apresenta episódios recorrentes de fraqueza muscular e formigamento, e os exames revelam concentração plasmática de potássio abaixo do valor de referência. O médico investiga o uso de medicamentos diuréticos e a ocorrência de perdas gastrointestinais.",
+                         "enunciado":  "A relação entre a concentração de potássio e a função muscular se explica pelo fato de que esse íon:",
+                         "alternativas":  {
+                                              "a":  "compõe a estrutura das proteínas contráteis do músculo esquelético, cuja síntese fica prejudicada quando sua concentração plasmática cai",
+                                              "b":  "participa da manutenção do potencial de repouso da membrana, do qual depende a excitabilidade das células musculares e nervosas",
+                                              "c":  "atua como cofator das enzimas responsáveis pela produção de ATP nas mitocôndrias das fibras musculares durante o esforço prolongado",
+                                              "d":  "é o principal íon liberado pelo retículo sarcoplasmático para desencadear a interação entre os filamentos de actina e de miosina",
+                                              "e":  "transporta o oxigênio até as fibras musculares, função que fica comprometida quando sua concentração no plasma se reduz de forma acentuada"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O potássio é o principal cátion intracelular, e o gradiente entre os dois lados da membrana estabelece o potencial de repouso. Alterações na concentração plasmática deslocam esse potencial e mudam a excitabilidade de células nervosas e musculares. O íon liberado pelo retículo sarcoplasmático, citado em (d), é o cálcio.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-148",
+                         "texto_apoio":  "Um esquema apresenta o mecanismo de regulação da expressão gênica em bactérias conhecido como operon lac. Na ausência de lactose, uma proteína se liga a uma região do DNA e impede a transcrição dos genes que codificam as enzimas de degradação desse açúcar. Na presença de lactose, essa proteína é inativada.",
+                         "enunciado":  "A proteína descrita denomina-se ______, a região do DNA à qual ela se liga é ______, e o arranjo descrito caracteriza um mecanismo de ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "repressor – o operador – controle negativo, induzido pelo substrato",
+                                              "b":  "indutor – o promotor – controle positivo, reprimido pelo produto final da via",
+                                              "c":  "polimerase – o operador – controle negativo, reprimido pelo produto final",
+                                              "d":  "repressor – o promotor – controle positivo, induzido pelo substrato da via metabólica regulada por aquele conjunto de genes",
+                                              "e":  "ativador – o terminador – controle negativo, induzido pela concentração de glicose disponível no meio de cultura da bactéria"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A proteína repressora liga-se ao operador e bloqueia o avanço da RNA polimerase. A lactose inativa o repressor e libera a transcrição: o controle é negativo, porque a regulação se dá por bloqueio, e é induzido, porque o substrato da via é quem desencadeia a expressão. Promotor é onde a polimerase se liga, e não o repressor.",
+                         "formato":  "lacunas",
+                         "banca":  "einstein"
+                     },
+                     {
+                         "id":  "biologia-149",
+                         "texto_apoio":  "Uma reportagem descreve um projeto que pretende reintroduzir uma espécie de ave extinta na natureza a partir de indivíduos mantidos em cativeiro por várias gerações. Biólogos alertam para dificuldades ligadas ao comportamento e à variabilidade genética dos animais disponíveis.",
+                         "enunciado":  "Entre as dificuldades tecnicamente esperadas nesse tipo de projeto está:",
+                         "alternativas":  {
+                                              "a":  "a perda de comportamentos essenciais à sobrevivência, como fuga de predadores e busca de alimento, não exercitados em cativeiro",
+                                              "b":  "a impossibilidade de os indivíduos criados em cativeiro se reproduzirem, uma vez que a criação artificial induz esterilidade permanente neles",
+                                              "c":  "a incapacidade de a espécie reintroduzida ocupar qualquer nicho ecológico, já que ele terá sido definitivamente preenchido por outras espécies",
+                                              "d":  "a certeza de que os indivíduos reintroduzidos se tornarão invasores, deslocando as populações nativas de espécies aparentadas na mesma área",
+                                              "e":  "a exigência legal de que toda reintrodução ocorra em área diferente daquela de ocorrência original da espécie considerada no projeto"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Comportamentos de forrageio, reconhecimento de predadores e interação social são em parte aprendidos, e o cativeiro não os exercita. Somada à baixa variabilidade genética de plantéis pequenos, essa perda é a principal causa de fracasso em reintroduções — daí os programas de treinamento pré-soltura.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-150",
+                         "texto_apoio":  "Um gráfico apresenta a curva de dissociação da hemoglobina, relacionando a saturação com a pressão parcial de oxigênio. A curva tem formato sigmoide. Uma segunda curva, obtida em pH mais baixo e temperatura mais alta, aparece deslocada para a direita em relação à primeira.",
+                         "enunciado":  "O deslocamento da curva para a direita indica que, nessas condições, a hemoglobina:",
+                         "alternativas":  {
+                                              "a":  "aumenta sua afinidade pelo oxigênio, o que favorece a captação do gás nos capilares alveolares durante a passagem do sangue pelos pulmões",
+                                              "b":  "perde a capacidade de se ligar ao oxigênio, sendo substituída nessa função pela mioglobina presente no interior das fibras musculares",
+                                              "c":  "reduz sua afinidade pelo oxigênio, liberando mais gás justamente nos tecidos com metabolismo intenso",
+                                              "d":  "passa a transportar gás carbônico no lugar do oxigênio, invertendo sua função durante os períodos de maior atividade muscular do organismo",
+                                              "e":  "mantém a mesma afinidade, alterando apenas a velocidade com que as moléculas de oxigênio se associam e se dissociam dos grupos heme"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "É o efeito Bohr. Tecidos em atividade produzem gás carbônico e ácido, baixando o pH, e geram calor: as duas condições reduzem a afinidade da hemoglobina e aumentam a liberação de oxigênio exatamente onde ele é mais necessário. Deslocamento para a direita significa menor afinidade, e não maior, o que descarta (a).",
+                         "formato":  "direta"
                      }
                  ]
 };

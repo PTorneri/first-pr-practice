@@ -1367,6 +1367,916 @@
                          "resposta":  "a",
                          "explicacao":  "O carbono acumulado na atmosfera veio majoritariamente da industrialização dos países centrais. O princípio reconhece que todos precisam agir, mas que a conta histórica não é igual — e é ele que sustenta o financiamento climático.",
                          "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-91",
+                         "texto_apoio":  "Entre as décadas de 1930 e 1970, o Brasil adotou uma estratégia de industrialização baseada na produção interna de bens antes adquiridos no exterior.",
+                         "enunciado":  "Essa estratégia é conhecida como:",
+                         "alternativas":  {
+                                              "a":  "substituição de importações, apoiada em protecionismo e investimento estatal",
+                                              "b":  "abertura comercial, política que reduziu as tarifas de importação e expôs a indústria nacional à concorrência externa ao longo do período",
+                                              "c":  "especialização produtiva, modelo em que o país concentra a produção nos bens em que apresenta vantagem comparativa no comércio mundial",
+                                              "d":  "desindustrialização precoce, processo de redução da participação da indústria no produto interno antes de alcançado o patamar de renda alta",
+                                              "e":  "integração vertical, estratégia empresarial que consiste em reunir todas as etapas da cadeia produtiva sob o controle de uma mesma empresa"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Tarifa alta para o produto importado, crédito público e empresa estatal nos setores de base. Foi o que criou a indústria brasileira — e também o que a acostumou a um mercado protegido, questão que voltaria nos anos 1990.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-92",
+                         "texto_apoio":  "O Plano de Metas do governo Juscelino Kubitschek priorizou energia, transportes, indústria de base e a instalação do setor automobilístico no país.",
+                         "enunciado":  "A opção pelo transporte rodoviário nesse período teve como consequência de longo prazo:",
+                         "alternativas":  {
+                                              "a":  "a distribuição equilibrada dos investimentos entre os quatro modais disponíveis, o que assegurou flexibilidade ao sistema de transportes",
+                                              "b":  "a consolidação da malha ferroviária como principal modal de transporte de cargas no território brasileiro ao longo das décadas seguintes",
+                                              "c":  "a ampliação do transporte hidroviário nas principais bacias do país, aproveitando o potencial de navegação dos rios de planície existentes",
+                                              "d":  "a redução dos custos de deslocamento de cargas a patamares inferiores aos praticados pelos demais países de dimensões continentais",
+                                              "e":  "uma matriz de transportes desequilibrada, com custo logístico elevado"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Rodovia é cara para carga pesada e longa distância, que é exatamente o perfil brasileiro de soja e minério. A escolha fazia sentido para instalar montadoras e ligar Brasília — e cobrou a conta nas décadas seguintes.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-93",
+                         "texto_apoio":  "A indústria brasileira concentrou-se historicamente no Sudeste, sobretudo no eixo entre São Paulo e Rio de Janeiro.",
+                         "enunciado":  "Entre os fatores históricos dessa concentração está:",
+                         "alternativas":  {
+                                              "a":  "a ausência de atividade agrícola na região, condição que liberou mão de obra e terras para a instalação das plantas industriais no período",
+                                              "b":  "a existência de jazidas de carvão mineral de qualidade siderúrgica na região, insumo que viabilizou a instalação das primeiras plantas industriais",
+                                              "c":  "a proximidade dos mercados consumidores europeus, que reduziu os custos de exportação dos produtos fabricados nas primeiras indústrias do país",
+                                              "d":  "o capital acumulado com o café e o mercado consumidor já formado na região",
+                                              "e":  "a política de incentivos fiscais adotada pelo governo federal a partir da década de 1970 com o objetivo de concentrar a indústria no Sudeste"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O café gerou capital, infraestrutura ferroviária, porto e uma população assalariada que consumia. A indústria nasceu onde já havia dinheiro para investir e gente para comprar — não onde havia matéria-prima.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-94",
+                         "texto_apoio":  "A Zona Franca de Manaus foi criada em 1967 com incentivos fiscais para a instalação de indústrias na Amazônia Ocidental.",
+                         "enunciado":  "Entre os objetivos declarados dessa política estava:",
+                         "alternativas":  {
+                                              "a":  "explorar as jazidas de carvão e de minério de ferro existentes na região, insumos necessários à instalação do parque industrial previsto",
+                                              "b":  "aproveitar a proximidade em relação aos principais mercados consumidores do país, o que reduziria os custos de distribuição dos produtos",
+                                              "c":  "ocupar economicamente a região e fixar população em área de fronteira",
+                                              "d":  "aproveitar a mão de obra industrial já qualificada disponível na região, formada ao longo do ciclo econômico anterior desenvolvido nela",
+                                              "e":  "reduzir a dependência do país em relação às importações de produtos agrícolas, ampliando a produção de alimentos na região amazônica"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A lógica era geopolítica antes de econômica: ocupar a Amazônia era doutrina de segurança nacional no período. O modelo funciona por isenção fiscal, e por isso sua renovação é discutida a cada ciclo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-95",
+                         "texto_apoio":  "Estados brasileiros concedem reduções de tributos para atrair empresas, competindo entre si pela instalação de plantas produtivas.",
+                         "enunciado":  "Essa disputa é conhecida como guerra fiscal e tem como consequência:",
+                         "alternativas":  {
+                                              "a":  "o aumento da arrecadação de todos os estados envolvidos, resultado da ampliação da base tributária proporcionada pelas novas empresas",
+                                              "b":  "perda de arrecadação sem ganho líquido para o conjunto da federação",
+                                              "c":  "a distribuição equilibrada das plantas industriais pelo território nacional, objetivo alcançado de forma integral nas últimas décadas",
+                                              "d":  "a elevação uniforme das alíquotas praticadas por todos os estados, movimento decorrente da necessidade de compensar as renúncias feitas",
+                                              "e":  "a transferência da competência tributária para a União, medida adotada como resposta à disputa travada entre as unidades da federação"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A empresa se instalaria no país de qualquer modo; o que se disputa é onde. O resultado é que os estados abrem mão de receita para redistribuir entre si um investimento que já viria — e quem perde é o financiamento público.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-96",
+                         "texto_apoio":  "A automação de processos industriais e a incorporação de sistemas inteligentes de produção alteram a demanda por trabalho nas fábricas.",
+                         "enunciado":  "O efeito mais frequentemente apontado sobre o emprego industrial é:",
+                         "alternativas":  {
+                                              "a":  "a manutenção do mesmo perfil de qualificação exigido anteriormente, uma vez que as novas tecnologias dispensam formação adicional",
+                                              "b":  "a ampliação generalizada do número de postos de trabalho industriais, com aproveitamento integral da mão de obra anteriormente empregada",
+                                              "c":  "a eliminação completa do trabalho humano nas plantas industriais, processo que se concluiu na maior parte dos países ao longo da década",
+                                              "d":  "redução dos postos repetitivos e aumento da exigência de qualificação",
+                                              "e":  "o retorno das atividades industriais aos países periféricos, movimento provocado pela redução dos custos de transporte de mercadorias"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A máquina substitui a tarefa previsível e repetitiva, não o trabalho todo. O que se cria exige outra formação — e o problema social está no intervalo entre quem perde o posto e quem consegue o novo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-97",
+                         "texto_apoio":  "Considere: uma lavoura de soja; uma fábrica de fertilizantes; uma consultoria agronômica.",
+                         "enunciado":  "As três atividades pertencem, respectivamente, aos setores ______, ______ e ______; no Brasil, o setor que mais emprega hoje é ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "terciário – primário – secundário – o primário, uma vez que a agropecuária responde pela maior parte das exportações brasileiras atualmente",
+                                              "b":  "primário – secundário – terciário – o terciário",
+                                              "c":  "secundário – terciário – primário – o secundário, em razão do peso da indústria de transformação na composição do produto interno do país",
+                                              "d":  "primário – terciário – secundário – o secundário, setor que concentra a maior parte dos postos de trabalho formais registrados no território",
+                                              "e":  "quaternário – primário – secundário – o quaternário, conjunto de atividades ligadas à produção e ao processamento de informação e conhecimento"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O terciário emprega a maioria em quase todo país urbanizado, o que não significa que seja o mais produtivo: boa parte dele é serviço de baixa remuneração e alta informalidade.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "geografia-98",
+                         "texto_apoio":  "Parcela expressiva dos trabalhadores brasileiros exerce atividade sem carteira assinada, sem contribuição previdenciária ou por conta própria sem registro.",
+                         "enunciado":  "Uma consequência direta desse quadro é:",
+                         "alternativas":  {
+                                              "a":  "a redução da taxa de desemprego medida oficialmente, uma vez que esses trabalhadores são classificados como desocupados na pesquisa",
+                                              "b":  "a elevação da arrecadação previdenciária, resultado da ampliação do número de pessoas ocupadas registrada nas últimas décadas no país",
+                                              "c":  "ausência de proteção previdenciária e trabalhista para esses trabalhadores",
+                                              "d":  "a garantia de renda superior à obtida no mercado formal, característica que explica a preferência dos trabalhadores por esse tipo de vínculo",
+                                              "e":  "a impossibilidade de mensuração desse contingente, o que impede qualquer análise sobre a estrutura do mercado de trabalho brasileiro atual"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Sem contribuição não há aposentadoria, auxílio-doença nem seguro-desemprego. E o efeito é duplo: a pessoa fica desprotegida e o sistema previdenciário perde a base de financiamento que sustentaria os demais.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-99",
+                         "texto_apoio":  "A pauta de exportações brasileira é dominada por produtos primários e semielaborados, enquanto a de importações concentra manufaturados de maior valor agregado.",
+                         "enunciado":  "Esse padrão é ______; ele torna a balança comercial sensível a ______ e é frequentemente descrito como ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "a reprimarização da pauta – variações de preço das commodities – uma vulnerabilidade estrutural",
+                                              "b":  "a diversificação da pauta – variações cambiais de curto prazo – uma vantagem competitiva consolidada nas últimas décadas pelo país no comércio mundial",
+                                              "c":  "a industrialização acelerada – oscilações da demanda interna por bens de consumo – um sinal de amadurecimento da estrutura produtiva nacional",
+                                              "d":  "a integração vertical das cadeias – restrições sanitárias impostas por parceiros comerciais – uma característica comum às economias desenvolvidas",
+                                              "e":  "o protecionismo comercial – barreiras tarifárias adotadas pelos países vizinhos – uma consequência direta dos acordos firmados no âmbito regional"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Quando o preço da soja e do minério sobe, a balança melhora sem que nada tenha mudado na estrutura produtiva; quando cai, o inverso. É a vulnerabilidade clássica de quem vende o que não define o preço.",
+                         "formato":  "lacunas",
+                         "banca":  "unicamp"
+                     },
+                     {
+                         "id":  "geografia-100",
+                         "texto_apoio":  "Cerca de dois terços das cargas transportadas no Brasil seguem por rodovias, proporção muito superior à observada em outros países de dimensões continentais.",
+                         "enunciado":  "Esse desequilíbrio eleva o chamado custo Brasil porque a rodovia:",
+                         "alternativas":  {
+                                              "a":  "transporta volumes maiores por viagem do que os demais modais, o que concentra o risco de perdas em cada um dos deslocamentos realizados",
+                                              "b":  "apresenta menor flexibilidade de rotas do que os demais modais disponíveis, o que restringe o acesso às áreas produtoras do interior do país",
+                                              "c":  "exige investimento inicial superior ao dos demais modais, característica que limita a expansão da malha disponível no território nacional",
+                                              "d":  "depende de condições climáticas favoráveis para operar, restrição que não se aplica aos modais ferroviário e hidroviário no território",
+                                              "e":  "é mais cara por tonelada em longas distâncias do que ferrovia e hidrovia"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A rodovia ganha na flexibilidade e na distância curta; perde feio em carga pesada e trajeto longo. Levar soja do Centro-Oeste a Santos por caminhão custa múltiplas vezes o que custaria por trilho.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-101",
+                         "texto_apoio":  "As ferrovias brasileiras concentram-se no transporte de minério e de grãos em corredores específicos, com malha reduzida em relação à extensão do território.",
+                         "enunciado":  "A retomada do investimento ferroviário é defendida sobretudo por:",
+                         "alternativas":  {
+                                              "a":  "substituir integralmente o transporte rodoviário em todos os tipos de carga movimentados no interior do território brasileiro atualmente",
+                                              "b":  "ampliar a flexibilidade de rotas para o transporte de cargas fracionadas de pequeno volume entre as diferentes regiões do território nacional",
+                                              "c":  "reduzir o custo de escoamento de cargas de baixo valor por tonelada",
+                                              "d":  "reduzir o tempo de deslocamento em trajetos curtos, situação em que o modal ferroviário apresenta desempenho superior ao rodoviário",
+                                              "e":  "eliminar a necessidade de portos, uma vez que a malha ferroviária permitiria o escoamento direto da produção para os mercados externos"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Grão e minério valem pouco por tonelada, e nesse caso o frete decide a competitividade. A ferrovia não substitui a rodovia — ela assume o trecho longo, e o caminhão faz a ponta.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-102",
+                         "texto_apoio":  "A abertura de novas rotas de escoamento pelo Norte do país reduziu a distância entre áreas produtoras do Centro-Oeste e portos de exportação.",
+                         "enunciado":  "Esse conjunto de rotas é conhecido como:",
+                         "alternativas":  {
+                                              "a":  "Arco Norte, alternativa aos portos do Sudeste e do Sul",
+                                              "b":  "Corredor Bioceânico, ligação rodoviária entre os oceanos Atlântico e Pacífico através do território de países vizinhos ao Brasil na América",
+                                              "c":  "Eixo Mercosul, conjunto de rodovias que integra os territórios dos países-membros do bloco econômico regional sul-americano atualmente",
+                                              "d":  "Anel Rodoviário Central, sistema de vias que contorna as principais regiões metropolitanas do Centro-Sul do território brasileiro hoje",
+                                              "e":  "Malha Ferroviária Nordeste, conjunto de linhas que integra os portos da região aos polos produtores do interior do território nordestino"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Portos do Pará, do Amazonas e do Maranhão passaram a receber parte da soja que antes descia toda para Santos e Paranaguá. Encurta distância e alivia gargalo — ao custo de pressão sobre a Amazônia.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-103",
+                         "texto_apoio":  "O desmatamento na Amazônia está associado a uma sequência recorrente de ocupação do território.",
+                         "enunciado":  "Essa sequência costuma envolver ______, seguido de ______ e, depois, de ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "demarcação de terras indígenas – abertura de áreas de mineração – implantação de projetos de assentamento nas áreas remanescentes",
+                                              "b":  "implantação de lavouras mecanizadas – abertura de estradas de acesso – extração seletiva de madeira nas áreas remanescentes de floresta densa",
+                                              "c":  "criação de unidades de conservação – concessão de licenças de exploração – regularização fundiária das áreas ocupadas anteriormente na região",
+                                              "d":  "instalação de indústrias de transformação – atração de população migrante – abertura de novas áreas urbanas ao longo dos eixos rodoviários",
+                                              "e":  "extração seletiva de madeira – abertura de pastagem – conversão em lavoura ou especulação fundiária"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A madeira paga a abertura, o gado ocupa e marca posse, e a terra valorizada vira lavoura ou é vendida. Entender a sequência importa porque cada etapa exige um instrumento diferente de fiscalização.",
+                         "formato":  "lacunas",
+                         "banca":  "fuvest"
+                     },
+                     {
+                         "id":  "geografia-104",
+                         "texto_apoio":  "O Código Florestal brasileiro estabelece dois instrumentos de proteção da vegetação em imóveis rurais: as áreas de preservação permanente e a reserva legal.",
+                         "enunciado":  "A diferença entre eles é que a primeira:",
+                         "alternativas":  {
+                                              "a":  "corresponde a um percentual fixo da propriedade que varia conforme o bioma, enquanto a segunda protege exclusivamente as margens dos cursos de água",
+                                              "b":  "protege áreas sensíveis como margens de rio e encostas, independentemente do percentual do imóvel",
+                                              "c":  "se aplica apenas aos imóveis situados em área urbana, ao passo que a segunda incide sobre os imóveis localizados em área rural do território",
+                                              "d":  "admite exploração econômica sem qualquer restrição, ao contrário da segunda, cuja vegetação deve ser mantida intacta em todas as situações",
+                                              "e":  "foi criada pela legislação mais recente, ao passo que a segunda constava do código anterior e foi mantida sem alteração na norma atual"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A APP protege função ecológica específica — evitar erosão, proteger nascente, estabilizar encosta. A reserva legal é percentual do imóvel, de 20% na maior parte do país e 80% na Amazônia, e admite manejo sustentável.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-105",
+                         "texto_apoio":  "O Sistema Nacional de Unidades de Conservação divide as áreas protegidas em dois grupos com regimes distintos de uso.",
+                         "enunciado":  "As de ______ admitem apenas uso indireto dos recursos, como pesquisa e visitação; as de ______ admitem uso direto compatível com a conservação. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "interesse federal – interesse estadual, categorias definidas conforme o ente da federação responsável pela criação e pela gestão de cada área",
+                                              "b":  "uso sustentável – proteção integral, classificação que decorre do tamanho da área abrangida por cada uma das categorias previstas na lei",
+                                              "c":  "domínio público – domínio privado, distinção estabelecida a partir da titularidade das terras que compõem cada uma das unidades criadas",
+                                              "d":  "proteção integral – uso sustentável",
+                                              "e":  "preservação permanente – reserva legal, instrumentos previstos na legislação florestal aplicável aos imóveis rurais do território brasileiro"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Parque nacional e estação ecológica são de proteção integral; reserva extrativista e área de proteção ambiental são de uso sustentável. A segunda categoria reconhece que há populações vivendo ali e que conservação sem elas não se sustenta.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "geografia-106",
+                         "texto_apoio":  "Os rompimentos de barragens de rejeitos em Mariana e em Brumadinho provocaram mortes e contaminação de bacias hidrográficas inteiras.",
+                         "enunciado":  "Os dois casos expuseram sobretudo:",
+                         "alternativas":  {
+                                              "a":  "a inexistência de tecnologia capaz de conter rejeitos de mineração, limitação técnica que se mantém sem solução em todos os países produtores",
+                                              "b":  "falhas no licenciamento, na fiscalização e no monitoramento das estruturas",
+                                              "c":  "a ausência de qualquer legislação ambiental aplicável à atividade mineradora no território brasileiro até o momento em que os casos ocorreram",
+                                              "d":  "a incompatibilidade absoluta entre a atividade mineradora e a preservação ambiental, o que exigiria a suspensão integral do setor no país",
+                                              "e":  "o caráter imprevisível dos eventos, que segundo os laudos técnicos não apresentavam qualquer sinal anterior de instabilidade nas estruturas"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Havia norma, licença e laudo — e ainda assim as barragens romperam. O problema não foi a ausência de regra, foi a distância entre a regra no papel e a fiscalização efetiva, agravada pelo método de alteamento a montante.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-107",
+                         "texto_apoio":  "A Política Nacional de Resíduos Sólidos estabelece uma ordem de prioridade na gestão dos resíduos e prevê a responsabilidade compartilhada pelo ciclo de vida dos produtos.",
+                         "enunciado":  "A ordem de prioridade estabelecida começa por:",
+                         "alternativas":  {
+                                              "a":  "reciclagem, procedimento que a legislação estabelece como prioritário em relação a qualquer outra forma de tratamento dos resíduos gerados",
+                                              "b":  "disposição final em aterro sanitário, etapa considerada prioritária pela legislação em razão de seu menor custo operacional para os municípios",
+                                              "c":  "incineração com aproveitamento energético, tratamento indicado pela norma como primeira alternativa para o conjunto dos resíduos gerados",
+                                              "d":  "não geração e redução, antes de reutilização, reciclagem e disposição final",
+                                              "e":  "compostagem da fração orgânica, etapa que a norma determina como primeira providência a ser adotada por todos os municípios brasileiros"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A hierarquia é contraintuitiva porque a reciclagem virou sinônimo de solução ambiental. A lei coloca antes dela o que não se produz e o que não se descarta — reciclar já é a terceira melhor opção.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-108",
+                         "texto_apoio":  "O conceito de desenvolvimento sustentável foi consagrado como aquele que atende às necessidades do presente sem comprometer a capacidade das gerações futuras de atender às suas.",
+                         "enunciado":  "Uma crítica frequente a esse conceito é a de que ele:",
+                         "alternativas":  {
+                                              "a":  "é vago o bastante para acomodar práticas contraditórias sob o mesmo rótulo",
+                                              "b":  "estabelece metas quantitativas excessivamente rígidas, o que inviabiliza sua adoção pelos países que se encontram em processo de industrialização",
+                                              "c":  "restringe-se à dimensão ambiental, ignorando por completo as dimensões social e econômica do processo de desenvolvimento dos territórios",
+                                              "d":  "foi formulado exclusivamente por países periféricos, o que reduz sua aceitação nos fóruns internacionais em que a questão é discutida",
+                                              "e":  "proíbe qualquer forma de exploração de recursos naturais, exigência que nenhum país conseguiria cumprir nas condições econômicas atuais"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Empresa de mineração, banco e movimento social usam o mesmo termo com sentidos opostos. A crítica não é ao objetivo — é à formulação, elástica o suficiente para absolver quase qualquer prática que se disponha a usá-la.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-109",
+                         "texto_apoio":  "Estudos mostram que aterros, indústrias poluentes e áreas de risco tendem a se localizar próximos a populações de menor renda e, no Brasil, majoritariamente negras.",
+                         "enunciado":  "Essa constatação fundamenta o conceito de:",
+                         "alternativas":  {
+                                              "a":  "serviços ecossistêmicos, benefícios que os ecossistemas naturais fornecem às sociedades humanas que deles se utilizam continuamente",
+                                              "b":  "pegada ecológica, medida da área necessária para sustentar o padrão de consumo de determinada população ao longo de um período de tempo",
+                                              "c":  "resiliência urbana, capacidade de uma cidade de se recuperar após a ocorrência de eventos extremos de origem climática ou geológica",
+                                              "d":  "capacidade de suporte, limite máximo de população que determinado território consegue sustentar com os recursos disponíveis nele",
+                                              "e":  "racismo ambiental, distribuição desigual dos danos ambientais entre grupos sociais"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O dano ambiental não cai igualmente sobre todos: quem tem menos poder de barganha recebe o aterro e a fábrica. O conceito nomeia o padrão e o desloca do acaso para a decisão política.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-110",
+                         "texto_apoio":  "Estudos comparativos mostram que áreas ocupadas por povos indígenas e comunidades tradicionais apresentam taxas de desmatamento inferiores às de seu entorno.",
+                         "enunciado":  "Esse dado sustenta o argumento de que:",
+                         "alternativas":  {
+                                              "a":  "as taxas de desmatamento independem do regime de ocupação do território, sendo determinadas exclusivamente por fatores climáticos locais",
+                                              "b":  "a conservação ambiental exige a retirada de qualquer população humana das áreas protegidas, medida adotada nos principais países do mundo",
+                                              "c":  "a permanência dessas populações no território funciona como forma de conservação",
+                                              "d":  "a demarcação de terras representa obstáculo ao desenvolvimento econômico das regiões em que essas populações se encontram estabelecidas",
+                                              "e":  "as áreas ocupadas por essas populações apresentam solos inadequados à atividade agrícola, o que explica a menor pressão sobre a vegetação"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A demarcação funciona como política ambiental além de política de direitos: onde há posse reconhecida e presença permanente, a grilagem e a frente de desmatamento encontram resistência que a fiscalização remota não oferece.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-111",
+                         "texto_apoio":  "O IBGE divide o Brasil em cinco regiões, enquanto a divisão em complexos regionais proposta por Pedro Geiger identifica três grandes conjuntos.",
+                         "enunciado":  "A primeira divisão adota critério ______ e a segunda, critério ______; a segunda tem como consequência ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "hidrográfico, respeitando os divisores de bacias – vegetacional – delimitar os conjuntos a partir das formações vegetais originais de cada área",
+                                              "b":  "histórico-econômico, considerando o processo de ocupação – político-administrativo – manter todos os estados integralmente dentro de um mesmo conjunto",
+                                              "c":  "climático, agrupando áreas de mesmo regime térmico – geomorfológico – reunir num mesmo conjunto áreas de relevo semelhante em todo o país",
+                                              "d":  "demográfico, considerando a densidade populacional – cultural – separar as áreas conforme as manifestações culturais predominantes em cada uma",
+                                              "e":  "político-administrativo, respeitando limites estaduais – histórico-econômico – dividir estados entre complexos distintos"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A divisão do IBGE não corta estado, o que a torna útil para estatística e política pública. A de complexos corta: Minas Gerais aparece dividida entre Nordeste e Centro-Sul, o que descreve melhor a economia e mal a administração.",
+                         "formato":  "lacunas",
+                         "banca":  "fuvest"
+                     },
+                     {
+                         "id":  "geografia-112",
+                         "texto_apoio":  "Os três complexos regionais brasileiros são a Amazônia, o Nordeste e o Centro-Sul.",
+                         "enunciado":  "O Centro-Sul se caracteriza por:",
+                         "alternativas":  {
+                                              "a":  "basear sua economia na extração de recursos da vegetação nativa, atividade que responde pela maior parte do produto gerado na região",
+                                              "b":  "apresentar a menor densidade demográfica do território nacional, condição decorrente do processo tardio de ocupação daquela porção do país",
+                                              "c":  "concentrar a maior parte da população, da indústria e da infraestrutura do país",
+                                              "d":  "registrar os menores índices de urbanização entre os três complexos, característica associada à predominância das atividades agrícolas nele",
+                                              "e":  "depender integralmente de transferências de recursos das demais regiões, situação que se mantém desde o período colonial no território"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "É o complexo que concentra produto, indústria, malha de transportes e população. A divisão em três serve justamente para tornar visível essa concentração, que a divisão em cinco regiões dilui.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-113",
+                         "texto_apoio":  "O Nordeste é tradicionalmente dividido em quatro sub-regiões com características naturais e econômicas distintas.",
+                         "enunciado":  "A ______ concentra a cana e a maior pluviosidade; o ______ é faixa de transição; o ______ é semiárido; o ______ apresenta transição para a Amazônia. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "Sertão – Meio-Norte – Zona da Mata – Agreste, ordem que corresponde à posição de cada sub-região em relação à linha do litoral nordestino",
+                                              "b":  "Zona da Mata – Agreste – Sertão – Meio-Norte",
+                                              "c":  "Agreste – Zona da Mata – Meio-Norte – Sertão, classificação estabelecida a partir da densidade demográfica registrada em cada uma delas",
+                                              "d":  "Meio-Norte – Sertão – Agreste – Zona da Mata, sequência determinada pela ordem cronológica de ocupação de cada uma das sub-regiões",
+                                              "e":  "Litoral – Interior – Fronteira – Transição, denominações adotadas pelo instituto oficial na divisão sub-regional do território nordestino"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A sequência acompanha a distância do litoral e a queda da umidade: mata e cana na faixa úmida, agreste na transição, sertão semiárido no interior. O Meio-Norte, a oeste, já anuncia a Amazônia com babaçu e carnaúba.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "geografia-114",
+                         "texto_apoio":  "A ocupação do Sul do Brasil por imigrantes europeus a partir do século XIX produziu uma estrutura fundiária distinta da observada em outras regiões.",
+                         "enunciado":  "Essa estrutura se caracteriza por:",
+                         "alternativas":  {
+                                              "a":  "pela concentração fundiária mais acentuada do território nacional, resultado do processo de distribuição de terras adotado no período imperial",
+                                              "b":  "pela predominância absoluta da grande propriedade monocultora voltada à exportação, padrão idêntico ao verificado nas demais regiões do país",
+                                              "c":  "pela ausência de propriedade privada da terra, substituída por formas coletivas de posse mantidas pelas comunidades de imigrantes na região",
+                                              "d":  "maior presença da pequena propriedade familiar policultora",
+                                              "e":  "pela inexistência de atividade agrícola comercial, uma vez que a produção regional se destinava integralmente ao consumo das próprias famílias"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "As colônias foram loteadas em parcelas pequenas para famílias, e o resultado foi uma agricultura diversificada com forte cooperativismo. Não é o Sul inteiro: a metade sul gaúcha manteve a estância e a grande propriedade.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-115",
+                         "texto_apoio":  "O Centro-Oeste passou por rápida transformação a partir das décadas de 1960 e 1970, com incorporação de extensas áreas à produção de grãos.",
+                         "enunciado":  "Entre os fatores dessa transformação está:",
+                         "alternativas":  {
+                                              "a":  "a construção de Brasília, a abertura de rodovias e a pesquisa agronômica sobre o Cerrado",
+                                              "b":  "a descoberta de jazidas de petróleo na região, cuja exploração financiou a implantação da infraestrutura necessária à ocupação do território",
+                                              "c":  "a chegada de imigrantes europeus em grande número, movimento que ocupou a região com pequenas propriedades familiares policultoras",
+                                              "d":  "a instalação de um parque industrial de bens de consumo duráveis, que atraiu população e viabilizou a formação do mercado consumidor local",
+                                              "e":  "o esgotamento das áreas agrícolas do Sudeste, o que obrigou a transferência integral da produção de grãos para a região Centro-Oeste do país"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Brasília puxou estrada e população; a pesquisa tornou o solo ácido cultivável; o relevo plano permitiu mecanização. É o mesmo tripé que depois se repetiria no MATOPIBA, uma fronteira agrícola adiante.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-116",
+                         "texto_apoio":  "Um mapa apresenta escala 1:50.000 e outro, escala 1:5.000.000.",
+                         "enunciado":  "O segundo mapa tem escala ______ e apresenta ______; o primeiro é adequado para representar ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "menor – menos detalhes e maior área – uma área pequena com muitos detalhes",
+                                              "b":  "maior – mais detalhes e menor área – um continente inteiro com riqueza de detalhes em cada uma das feições representadas na superfície",
+                                              "c":  "menor – mais detalhes e menor área – um território extenso com nível reduzido de detalhamento das feições nele representadas graficamente",
+                                              "d":  "maior – menos detalhes e maior área – uma área reduzida com baixo nível de detalhamento das informações apresentadas ao leitor do mapa",
+                                              "e":  "equivalente – o mesmo nível de detalhamento – qualquer extensão territorial, uma vez que a escala não interfere na quantidade de informação"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A escala é uma fração: 1/5.000.000 é menor que 1/50.000. Escala menor cobre mais área e mostra menos detalhe — a relação é inversa, e é onde a maioria dos erros acontece.",
+                         "formato":  "lacunas",
+                         "banca":  "unifesp"
+                     },
+                     {
+                         "id":  "geografia-117",
+                         "texto_apoio":  "Compare duas projeções cartográficas: uma conserva os ângulos e distorce as áreas, ampliando as regiões de altas latitudes; outra conserva as áreas e distorce as formas.",
+                         "enunciado":  "Trata-se, respectivamente, das projeções ______ e ______; a crítica política dirigida à primeira é ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "equidistante – conforme – conservar simultaneamente ângulos, áreas e distâncias, o que a torna adequada a qualquer finalidade cartográfica",
+                                              "b":  "de Peters – de Mercator – reduzir visualmente a extensão dos países europeus em comparação com a dos países situados na faixa tropical",
+                                              "c":  "azimutal – cilíndrica – privilegiar a representação das regiões polares em detrimento das áreas situadas próximas à linha do equador terrestre",
+                                              "d":  "cônica – plana – distorcer de forma equivalente todas as porções da superfície representada, sem que haja privilégio de qualquer região",
+                                              "e":  "de Mercator – de Peters – ampliar visualmente a Europa e a América do Norte em relação às regiões tropicais"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Mercator foi feita para navegação, e nisso é insuperável: rumo constante vira linha reta. O problema é usá-la como mapa-múndi de parede — a Groenlândia aparece do tamanho da África, que é catorze vezes maior.",
+                         "formato":  "lacunas",
+                         "banca":  "unicamp"
+                     },
+                     {
+                         "id":  "geografia-118",
+                         "texto_apoio":  "Uma cidade situada a 45° de longitude oeste e outra a 15° de longitude leste.",
+                         "enunciado":  "A diferença de fuso horário entre elas é de:",
+                         "alternativas":  {
+                                              "a":  "3 horas",
+                                              "b":  "2 horas",
+                                              "c":  "6 horas",
+                                              "d":  "4 horas",
+                                              "e":  "8 horas"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A diferença de longitude é 45 + 15 = 60 graus. Como cada fuso cobre 15 graus e corresponde a uma hora, são 60 ÷ 15 = 4 horas. Somar as longitudes é o passo que se esquece quando as cidades estão em hemisférios opostos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-119",
+                         "texto_apoio":  "Um mapa representa a superfície do terreno por meio de linhas que unem pontos de mesma altitude.",
+                         "enunciado":  "Nesse tipo de representação, linhas muito próximas entre si indicam:",
+                         "alternativas":  {
+                                              "a":  "presença de curso de água, elemento que a representação por curvas de nível assinala por meio do adensamento das linhas traçadas",
+                                              "b":  "terreno plano, uma vez que a proximidade das linhas indica variação reduzida de altitude ao longo da área representada no documento",
+                                              "c":  "declividade acentuada",
+                                              "d":  "erro de traçado do mapa, situação que exige a revisão do documento antes de sua utilização para qualquer finalidade técnica prevista",
+                                              "e":  "escala de maior detalhamento, condição que amplia o número de linhas representadas em cada porção da superfície cartografada"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Curvas próximas significam que a altitude muda muito em pouca distância horizontal: encosta íngreme. Curvas espaçadas indicam terreno suave. É a leitura básica de qualquer carta topográfica.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-120",
+                         "texto_apoio":  "Um mapa deforma deliberadamente o tamanho dos países para que a área de cada um seja proporcional a uma variável, como população ou emissões de carbono.",
+                         "enunciado":  "Essa forma de representação é chamada:",
+                         "alternativas":  {
+                                              "a":  "projeção conforme, que conserva os ângulos da superfície representada e por isso mantém a forma original de cada uma das regiões do mapa",
+                                              "b":  "anamorfose, que sacrifica a forma para tornar visível a grandeza representada",
+                                              "c":  "carta topográfica, representação que registra as altitudes do terreno por meio de curvas de nível traçadas a intervalos regulares definidos",
+                                              "d":  "imagem de satélite, registro obtido por sensores orbitais que capta a radiação refletida pela superfície terrestre em diferentes faixas",
+                                              "e":  "mapa mental, representação subjetiva do espaço elaborada a partir da percepção individual de quem o desenha em determinado momento"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O país deixa de ter sua forma real e passa a ter o tamanho do dado. É recurso de comunicação: num cartograma de emissões, os países pequenos e ricos incham, e a desigualdade da conta climática salta aos olhos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-121",
+                         "texto_apoio":  "Sensores instalados em satélites captam a radiação refletida pela superfície terrestre, e programas específicos permitem cruzar essas informações com dados de população, relevo e uso do solo.",
+                         "enunciado":  "Essas duas tecnologias são, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "geoprocessamento e anamorfose, recursos destinados a deformar a representação de cada território conforme a variável que se pretende destacar",
+                                              "b":  "cartografia temática e projeção cartográfica, técnicas empregadas na representação gráfica das informações levantadas sobre cada território",
+                                              "c":  "aerofotogrametria e triangulação topográfica, procedimentos utilizados na medição direta das feições existentes na superfície terrestre",
+                                              "d":  "sensoriamento remoto e sistemas de informação geográfica",
+                                              "e":  "posicionamento global e nivelamento geodésico, métodos empregados na determinação das coordenadas e das altitudes de pontos do terreno"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O sensoriamento capta; o SIG cruza. É a combinação que permite, por exemplo, sobrepor imagem de desmatamento a limites de terras indígenas e a dados de produção agrícola no mesmo mapa.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-122",
+                         "texto_apoio":  "Um receptor calcula sua posição a partir do tempo que os sinais levam para chegar de vários satélites em órbita.",
+                         "enunciado":  "Além da navegação, uma aplicação dessa tecnologia em saúde pública é:",
+                         "alternativas":  {
+                                              "a":  "medir a altitude exata de cada domicílio visitado durante as campanhas de vacinação realizadas pelos serviços de atenção básica do município",
+                                              "b":  "georreferenciar casos de doença para identificar concentrações no território",
+                                              "c":  "determinar a composição química da água captada nos mananciais que abastecem as áreas urbanas monitoradas pelo serviço de vigilância",
+                                              "d":  "estabelecer o diagnóstico clínico dos pacientes atendidos nas unidades de saúde localizadas nas áreas cobertas pelo sistema de posicionamento",
+                                              "e":  "substituir os registros dos prontuários eletrônicos utilizados pelas equipes responsáveis pelo acompanhamento dos pacientes de cada região"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Marcar onde os casos ocorrem transforma uma lista de notificações em mapa, e o mapa revela o que a lista esconde: aglomerados em torno de um foco, de um curso de água, de uma obra. É o método que John Snow usou no cólera de Londres, hoje automatizado.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-123",
+                         "texto_apoio":  "Um documento representa a superfície captada em faixas do espectro invisíveis ao olho humano, permitindo distinguir vegetação sadia de vegetação estressada.",
+                         "enunciado":  "Esse recurso é característico de:",
+                         "alternativas":  {
+                                              "a":  "cartas topográficas elaboradas a partir de levantamentos realizados diretamente em campo pelas equipes técnicas responsáveis pelo trabalho",
+                                              "b":  "fotografias aéreas convencionais obtidas por câmeras instaladas em aeronaves durante levantamentos realizados a baixa altitude sobre a área",
+                                              "c":  "imagens de satélite multiespectrais",
+                                              "d":  "mapas temáticos produzidos a partir de dados estatísticos coletados pelos institutos oficiais de pesquisa em cada uma das regiões estudadas",
+                                              "e":  "croquis elaborados por observação direta da paisagem por parte do pesquisador que realiza o trabalho de campo na área investigada"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A vegetação reflete fortemente no infravermelho próximo, e a queda dessa resposta indica estresse antes que a folha amarele. É por isso que satélite detecta seca e praga antes do olho — e monitora desmatamento em escala continental.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-124",
+                         "texto_apoio":  "Um ponto da superfície terrestre é localizado por dois valores angulares medidos a partir de referências convencionais.",
+                         "enunciado":  "A ______ é medida a partir ______ e varia de 0° a ______; a ______ é medida a partir ______ e varia de 0° a ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "latitude – do equador – 90° – longitude – do meridiano de Greenwich – 180°",
+                                              "b":  "longitude – do equador – 180° – latitude – do meridiano de Greenwich – 90°, distribuição que corresponde à extensão de cada uma das linhas",
+                                              "c":  "latitude – do meridiano de Greenwich – 180° – longitude – do equador – 90°, arranjo adotado pelos sistemas de posicionamento por satélite",
+                                              "d":  "altitude – do nível do mar – 90° – declinação – do polo magnético – 180°, medidas empregadas na determinação da posição de cada ponto",
+                                              "e":  "abscissa – do meridiano central – 90° – ordenada – da linha do equador – 180°, coordenadas utilizadas nos sistemas de projeção plana adotados"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Latitude é distância angular ao equador e para nos polos, a 90°. Longitude é distância a Greenwich e vai até 180° para cada lado, onde as duas metades se encontram. Trocar as duas é o erro clássico de leitura de coordenada.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "geografia-125",
+                         "texto_apoio":  "Um gráfico apresenta, para cada mês, barras indicando a precipitação e uma linha indicando a temperatura média.",
+                         "enunciado":  "Esse tipo de representação é chamado climograma, e sua leitura permite identificar:",
+                         "alternativas":  {
+                                              "a":  "o número de habitantes da área representada, informação necessária à interpretação dos dados climáticos apresentados no documento",
+                                              "b":  "a extensão territorial abrangida pelo tipo climático representado no gráfico e os limites de cada uma das zonas identificadas no território",
+                                              "c":  "a composição da vegetação nativa da área representada, informação que o gráfico apresenta por meio da variação de cor de cada uma das barras",
+                                              "d":  "a altitude média da localidade estudada, dado que o gráfico registra na escala vertical utilizada para a representação das temperaturas",
+                                              "e":  "a distribuição das chuvas ao longo do ano e a amplitude térmica anual"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Duas informações num gráfico só: barras dizem quando chove, a linha diz quanto varia a temperatura. É o instrumento que permite identificar o tipo climático sem que o nome dele apareça em lugar nenhum.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-126",
+                         "texto_apoio":  "Mapas coropléticos representam variáveis por meio de cores ou tonalidades aplicadas a unidades territoriais, como estados ou municípios.",
+                         "enunciado":  "Um cuidado necessário na leitura desse tipo de mapa é:",
+                         "alternativas":  {
+                                              "a":  "conferir se o mapa utiliza projeção conforme, única capaz de assegurar a representação adequada de variáveis estatísticas em qualquer escala",
+                                              "b":  "confirmar que todas as unidades territoriais representadas apresentam a mesma extensão, condição necessária à comparação entre elas no mapa",
+                                              "c":  "verificar se a variável é relativa, pois valores absolutos favorecem unidades maiores",
+                                              "d":  "assegurar que a legenda apresente no máximo duas classes de valores, limite a partir do qual a leitura se torna imprecisa para o usuário",
+                                              "e":  "verificar se o documento inclui curvas de nível, elemento indispensável à interpretação de qualquer representação cartográfica temática"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Um mapa de número absoluto de casos praticamente reproduz o mapa da população. Para comparar territórios é preciso taxa — casos por cem mil habitantes —, e é essa troca que separa leitura correta de leitura enganada.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-127",
+                         "texto_apoio":  "Moradores de um bairro desenham, de memória, o percurso que fazem até o posto de saúde, destacando os pontos que consideram perigosos.",
+                         "enunciado":  "Esse tipo de representação é chamado mapa mental e tem como valor principal:",
+                         "alternativas":  {
+                                              "a":  "revelar a percepção do espaço vivido, que a cartografia oficial não registra",
+                                              "b":  "substituir a cartografia técnica na elaboração de projetos de infraestrutura urbana, em razão de sua maior precisão métrica em relação a ela",
+                                              "c":  "assegurar exatidão nas medidas de distância e de área, característica que decorre do conhecimento direto do território por quem o desenha",
+                                              "d":  "estabelecer os limites administrativos entre os bairros, informação que os órgãos oficiais obtêm por meio desse tipo de levantamento local",
+                                              "e":  "registrar as coordenadas geográficas de cada um dos pontos representados, dado indispensável ao georreferenciamento das informações obtidas"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O mapa mental erra distância e acerta o que importa para quem anda ali: onde não se passa à noite, onde falta iluminação, o que se evita. Para planejar acesso a serviço de saúde, essa informação vale tanto quanto a métrica.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-128",
+                         "texto_apoio":  "Um mesmo território pode ser representado de formas muito distintas conforme o que se decide incluir, omitir, centralizar ou destacar.",
+                         "enunciado":  "Essa constatação sustenta a ideia de que o mapa:",
+                         "alternativas":  {
+                                              "a":  "só pode ser elaborado por órgãos oficiais, únicos capazes de assegurar a imparcialidade necessária à representação de qualquer território",
+                                              "b":  "reproduz com exatidão a superfície terrestre, desde que elaborado segundo as normas técnicas estabelecidas pelos órgãos oficiais competentes",
+                                              "c":  "perde qualquer utilidade como instrumento de análise, uma vez que as escolhas de quem o elabora comprometem integralmente sua validade",
+                                              "d":  "deve ser substituído por imagens de satélite, registros que dispensam qualquer intervenção humana na representação do território observado",
+                                              "e":  "é uma representação com escolhas, e não um registro neutro da realidade"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Toda projeção distorce, toda escala omite e todo mapa centraliza alguma coisa. Reconhecer isso não invalida a cartografia — obriga a perguntar quem fez o mapa e para quê, que é o começo da leitura crítica.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-129",
+                         "texto_apoio":  "Estudos epidemiológicos frequentemente mapeiam a ocorrência de doenças e a cruzam com dados de renda, saneamento, densidade e cobertura vegetal.",
+                         "enunciado":  "Esse campo de estudo, que trata da distribuição espacial dos processos de saúde e doença, é chamado ______; sua premissa é a de que ______, e sua utilidade prática está em ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "epidemiologia clínica – a doença decorre exclusivamente de fatores biológicos individuais – definir o tratamento adequado para cada paciente atendido",
+                                              "b":  "geografia da saúde – a doença se distribui segundo padrões do território – orientar onde intervir",
+                                              "c":  "demografia sanitária – a doença atinge de modo uniforme toda a população – dimensionar o número de leitos necessários em cada unidade da federação",
+                                              "d":  "cartografia temática – a representação gráfica é suficiente para explicar os fenômenos – produzir mapas destinados à divulgação de dados oficiais",
+                                              "e":  "climatologia médica – a doença depende apenas das condições atmosféricas locais – prever a ocorrência de surtos a partir da previsão do tempo"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Doença não se espalha ao acaso: acompanha saneamento, moradia, renda e ambiente. Mapear é o que permite dirigir a intervenção a onde ela rende — e é por isso que geografia entra no currículo de quem vai trabalhar com saúde.",
+                         "formato":  "lacunas",
+                         "banca":  "unifesp"
+                     },
+                     {
+                         "id":  "geografia-130",
+                         "texto_apoio":  "Doenças como dengue, chikungunya e zika expandiram sua ocorrência no Brasil acompanhando o crescimento urbano.",
+                         "enunciado":  "A relação entre urbanização e essas doenças se explica por:",
+                         "alternativas":  {
+                                              "a":  "pela concentração de população idosa nas áreas urbanas, faixa etária que apresenta maior suscetibilidade às infecções transmitidas por vetores",
+                                              "b":  "pela elevação da temperatura média nas áreas urbanas, único fator responsável pela ampliação da ocorrência dessas doenças no território brasileiro",
+                                              "c":  "pela redução da cobertura vegetal nas cidades, condição que elimina os predadores naturais do vetor responsável pela transmissão dessas doenças",
+                                              "d":  "abastecimento intermitente, armazenamento de água e acúmulo de resíduos criarem criadouros",
+                                              "e":  "pela ampliação da cobertura de saneamento básico nas cidades, processo que teria favorecido a proliferação do vetor nas redes de esgoto"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O Aedes se reproduz em água limpa e parada, e é a falta de abastecimento contínuo que produz a caixa d\u0027água destampada e o balde guardado. A doença é urbana e é, antes de tudo, um problema de infraestrutura.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-131",
+                         "texto_apoio":  "Duas pessoas com o mesmo quadro clínico apresentam desfechos distintos: uma mora perto de um hospital de referência e tem plano de saúde; a outra depende de transporte público e de uma unidade básica distante.",
+                         "enunciado":  "A diferença ilustra o conceito de:",
+                         "alternativas":  {
+                                              "a":  "predisposição genética, conjunto de características hereditárias que define a resposta de cada organismo ao tratamento recebido em cada caso",
+                                              "b":  "determinantes sociais da saúde, que incluem condições de vida e acesso a serviços",
+                                              "c":  "história natural da doença, sequência de estágios pelos quais um processo patológico evolui na ausência de qualquer intervenção terapêutica",
+                                              "d":  "iatrogenia, conjunto de danos causados ao paciente pela própria intervenção médica realizada durante o processo de tratamento adotado",
+                                              "e":  "prevalência, proporção de pessoas que apresentam determinada condição num momento específico dentro da população estudada pelo pesquisador"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Renda, escolaridade, moradia, transporte e distância até o serviço explicam boa parte da variação de desfecho entre pessoas clinicamente semelhantes. É onde a geografia deixa de ser cenário e passa a ser causa.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-132",
+                         "texto_apoio":  "Em algumas áreas urbanas periféricas, o acesso a alimentos frescos é limitado, enquanto ultraprocessados são abundantes e baratos.",
+                         "enunciado":  "Essas áreas são descritas como:",
+                         "alternativas":  {
+                                              "a":  "vazios demográficos, porções do território que apresentam densidade populacional muito inferior à média registrada no conjunto do país",
+                                              "b":  "áreas de insegurança hídrica, situação caracterizada pela ausência de abastecimento regular de água potável para a população residente nelas",
+                                              "c":  "zonas de amortecimento, faixas estabelecidas no entorno de unidades de conservação com o objetivo de reduzir os impactos sobre elas",
+                                              "d":  "desertos alimentares, cuja consequência é o agravamento de doenças crônicas",
+                                              "e":  "áreas de expansão urbana, porções incorporadas ao perímetro das cidades por meio de alteração dos planos diretores municipais vigentes"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Onde não há feira nem hortifrúti e há lanchonete em cada esquina, a escolha alimentar é constrangida pela oferta. Obesidade e diabetes se distribuem no território seguindo esse mapa, e não apenas o da renda.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-133",
+                         "texto_apoio":  "Estudos associam a concentração de material particulado no ar urbano ao aumento de internações por causas respiratórias e cardiovasculares.",
+                         "enunciado":  "As principais fontes desse material nas metrópoles brasileiras são:",
+                         "alternativas":  {
+                                              "a":  "a frota de veículos, sobretudo a movida a diesel, e as atividades industriais",
+                                              "b":  "a vegetação urbana remanescente, cuja decomposição libera partículas em suspensão nas áreas centrais das grandes cidades brasileiras",
+                                              "c":  "a evaporação da água dos reservatórios que abastecem as regiões metropolitanas durante os períodos de temperatura mais elevada do ano",
+                                              "d":  "as chuvas concentradas de verão, que arrastam sedimentos das áreas impermeabilizadas para a atmosfera das regiões densamente ocupadas",
+                                              "e":  "a incidência de radiação solar direta, fator que provoca a formação das partículas em suspensão registradas nas áreas urbanas do país"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Ônibus e caminhões a diesel respondem por parcela desproporcional do material fino, que penetra fundo no pulmão. É por isso que política de transporte é política de saúde — e que a inversão térmica agrava tudo no inverno.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-134",
+                         "texto_apoio":  "A mortalidade infantil brasileira caiu de forma acentuada nas últimas décadas, com variação importante entre regiões e entre bairros de uma mesma cidade.",
+                         "enunciado":  "Entre os fatores mais associados a essa queda está:",
+                         "alternativas":  {
+                                              "a":  "a melhoria dos sistemas de registro civil, o que teria alterado a forma de contabilização sem correspondência com mudança real do quadro",
+                                              "b":  "a redução do número de nascimentos registrada no período, fator que segundo os estudos responde integralmente pela variação do indicador",
+                                              "c":  "a construção de hospitais de alta complexidade nas capitais, medida que explica a maior parte da redução observada em todas as regiões",
+                                              "d":  "a elevação da renda média das famílias, único fator identificado pelos estudos como determinante da variação observada nesse indicador",
+                                              "e":  "a ampliação do saneamento, da atenção básica e da cobertura vacinal"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "É o indicador que melhor resume as condições de vida de uma população, e a queda brasileira veio sobretudo de água tratada, esgoto, pré-natal, agentes comunitários e vacina — intervenções baratas e territoriais, não de alta complexidade.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-135",
+                         "texto_apoio":  "Ondas de calor produzem aumento da mortalidade concentrado em determinados grupos e determinadas áreas das cidades.",
+                         "enunciado":  "Os grupos mais atingidos costumam ser:",
+                         "alternativas":  {
+                                              "a":  "moradores das áreas centrais dotadas de arborização e de edificações com isolamento térmico adequado às condições climáticas locais",
+                                              "b":  "adultos jovens que praticam atividade física ao ar livre, grupo identificado pelos estudos como o de maior risco durante os episódios de calor",
+                                              "c":  "idosos que moram sozinhos e pessoas em áreas sem arborização e sem ventilação",
+                                              "d":  "trabalhadores de escritório submetidos a longos períodos em ambientes climatizados durante a jornada cumprida ao longo desses episódios",
+                                              "e":  "crianças matriculadas em escolas de período integral, grupo cuja permanência em ambiente fechado amplia a exposição ao calor registrado"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O idoso regula pior a temperatura e, morando só, pode não ser socorrido a tempo. Somem-se telhado sem laje, ausência de árvore e janela que não abre: o risco se concentra no cruzamento entre condição fisiológica e condição urbana.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-136",
+                         "texto_apoio":  "A elevação das temperaturas médias amplia as áreas em que determinados vetores conseguem completar seu ciclo de vida.",
+                         "enunciado":  "A consequência esperada para a saúde pública é:",
+                         "alternativas":  {
+                                              "a":  "a substituição das doenças vetoriais por doenças de veiculação hídrica, processo decorrente da alteração do regime de chuvas nas regiões",
+                                              "b":  "a eliminação dos vetores nas áreas tropicais, em razão da elevação da temperatura acima do limite de tolerância dessas espécies no território",
+                                              "c":  "a estabilização da distribuição atual dessas doenças, uma vez que os vetores não respondem a variações das condições climáticas locais",
+                                              "d":  "a redução da incidência dessas doenças em escala global, resultado da menor sobrevivência dos vetores nas condições climáticas previstas",
+                                              "e":  "a expansão de doenças vetoriais para regiões e altitudes antes não atingidas"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Mosquito depende de temperatura para completar o ciclo, e regiões antes frias demais deixam de sê-lo. Dengue subindo em altitude e malária alcançando áreas novas são efeitos previstos — e já observados em várias partes do mundo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-137",
+                         "texto_apoio":  "O avanço de atividades humanas sobre áreas florestais aproxima populações de espécies silvestres com as quais antes tinham pouco contato.",
+                         "enunciado":  "Do ponto de vista sanitário, essa aproximação eleva o risco de:",
+                         "alternativas":  {
+                                              "a":  "redução da diversidade de patógenos em circulação, processo decorrente da simplificação dos ecossistemas nas áreas submetidas à ocupação",
+                                              "b":  "extinção imediata de todas as espécies silvestres da área afetada, o que eliminaria qualquer possibilidade de transmissão de doenças a partir delas",
+                                              "c":  "emergência de zoonoses, com transmissão de patógenos de animais para humanos",
+                                              "d":  "aumento exclusivo das doenças de veiculação hídrica, sem qualquer alteração no perfil das enfermidades transmitidas por contato direto",
+                                              "e":  "melhoria dos indicadores de saúde das populações que passam a ocupar essas áreas, em razão do acesso a novos recursos alimentares"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Desmatamento, caça e criação em áreas de borda multiplicam os contatos entre espécies que não se encontrariam. A maior parte das doenças infecciosas emergentes tem origem animal — e a fronteira agrícola é onde esse encontro acontece.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-138",
+                         "texto_apoio":  "No semiárido brasileiro, programas de cisternas e de acesso à água alteraram a rotina de famílias que antes dependiam de fontes distantes ou de carros-pipa.",
+                         "enunciado":  "O efeito sanitário mais direto dessas políticas é:",
+                         "alternativas":  {
+                                              "a":  "a eliminação completa da ocorrência de secas na região, resultado da ampliação da disponibilidade hídrica proporcionada pelos programas",
+                                              "b":  "a redução de doenças de veiculação hídrica e do tempo gasto na busca de água",
+                                              "c":  "o aumento da produtividade agrícola em escala comercial, principal objetivo declarado das políticas de acesso à água implantadas na região",
+                                              "d":  "a transferência da população para as áreas urbanas, processo acelerado pela melhoria das condições de abastecimento nas áreas rurais",
+                                              "e":  "a substituição integral do abastecimento por rede pública, medida que dispensou qualquer forma de captação local nas propriedades rurais"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Água armazenada com segurança corta diarreia e verminose, e libera horas por dia — em geral de mulheres e crianças — que antes iam para buscar água. É intervenção de baixo custo com efeito direto sobre indicador de saúde.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-139",
+                         "texto_apoio":  "O Brasil está entre os maiores consumidores mundiais de agrotóxicos, e estudos registram exposição ocupacional e contaminação de água em áreas de produção intensiva.",
+                         "enunciado":  "Um agravante específico da exposição ocupacional no campo é:",
+                         "alternativas":  {
+                                              "a":  "a concentração da exposição entre trabalhadores urbanos, grupo que responde pela maior parte dos casos de intoxicação registrados no país",
+                                              "b":  "a proibição legal do uso de qualquer equipamento de proteção durante a aplicação dos produtos nas áreas de cultivo do território nacional",
+                                              "c":  "a ausência de qualquer registro sobre os produtos comercializados no país, o que impede identificar as substâncias às quais os trabalhadores se expõem",
+                                              "d":  "a aplicação sem equipamento de proteção adequado e sem assistência técnica",
+                                              "e":  "a inexistência de sintomas associados à exposição, característica que impede o diagnóstico dos casos ocorridos nas áreas de produção agrícola"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O produto é registrado e a bula existe; o que falta na ponta é equipamento, treinamento e fiscalização. A intoxicação aguda aparece no pronto-socorro, mas o efeito crônico se dilui e raramente é atribuído à exposição.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-140",
+                         "texto_apoio":  "Compare dois modelos de cidade: uma compacta, com usos misturados e distâncias curtas; outra espraiada, com funções separadas e dependência do automóvel.",
+                         "enunciado":  "Do ponto de vista da saúde, a primeira tende a favorecer:",
+                         "alternativas":  {
+                                              "a":  "deslocamento a pé e de bicicleta, com menos poluição e mais atividade física",
+                                              "b":  "o aumento do tempo médio de deslocamento diário da população residente, em razão da maior densidade de ocupação registrada em seu território",
+                                              "c":  "a ampliação das áreas verdes disponíveis por habitante, resultado direto da concentração das edificações em porções reduzidas do território",
+                                              "d":  "a redução da densidade populacional por quilômetro quadrado, condição associada à melhoria dos indicadores de qualidade de vida urbana",
+                                              "e":  "a separação entre as áreas residenciais e as de trabalho, arranjo que reduz a exposição da população às atividades produtivas poluentes"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Distância curta torna possível ir a pé, e ir a pé é atividade física incorporada à rotina, não uma tarefa extra. Menos carro significa menos material particulado e menos morte no trânsito — três efeitos de saúde de uma decisão urbanística.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-141",
+                         "texto_apoio":  "O SUS se organiza em redes regionalizadas, com unidades básicas distribuídas no território e serviços de maior complexidade concentrados em polos.",
+                         "enunciado":  "Essa organização se apoia no princípio de que:",
+                         "alternativas":  {
+                                              "a":  "a atenção básica deve estar próxima, e a alta complexidade se concentra por escala",
+                                              "b":  "todos os municípios devem dispor de serviços de todos os níveis de complexidade, exigência que a legislação estabelece de forma expressa",
+                                              "c":  "o atendimento deve se concentrar integralmente nas capitais, deixando aos demais municípios apenas as atividades de vigilância sanitária",
+                                              "d":  "a distribuição dos serviços independe da distribuição da população, uma vez que o deslocamento dos usuários é responsabilidade individual",
+                                              "e":  "a rede deve ser organizada por especialidade médica, sem consideração pela localização geográfica das unidades no território de cada região"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Um serviço de transplante em cada município não teria volume para manter qualidade nem financiamento. A rede resolve o dilema distribuindo o que é frequente e concentrando o que é raro — e ligando os dois por referência e transporte.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-142",
+                         "texto_apoio":  "Populações migrantes e refugiadas frequentemente apresentam maior vulnerabilidade sanitária no destino.",
+                         "enunciado":  "Entre os fatores que explicam essa vulnerabilidade está:",
+                         "alternativas":  {
+                                              "a":  "a proibição legal de atendimento a estrangeiros nos serviços públicos de saúde, restrição prevista na legislação da maior parte dos países",
+                                              "b":  "a maior predisposição genética desses grupos a determinadas doenças, característica identificada pelos estudos realizados nos países receptores",
+                                              "c":  "a recusa sistemática desses grupos em procurar os serviços de saúde disponíveis, comportamento observado de forma generalizada entre eles",
+                                              "d":  "a inexistência de doenças transmissíveis nos países de origem, o que reduziria a imunidade adquirida por essas populações ao longo da vida",
+                                              "e":  "barreiras de língua, documentação e desconhecimento do sistema de saúde local"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "No Brasil o SUS atende independentemente de situação migratória, mas isso não basta: não saber que tem direito, não conseguir explicar o sintoma e temer a autoridade produzem barreira real de acesso.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-143",
+                         "texto_apoio":  "O envelhecimento da população brasileira ocorre de forma desigual entre municípios, com algumas cidades pequenas apresentando proporções de idosos muito superiores à média.",
+                         "enunciado":  "Esse padrão costuma resultar de:",
+                         "alternativas":  {
+                                              "a":  "redução da expectativa de vida nas grandes cidades, condição que reduz a proporção de idosos residentes nas regiões metropolitanas do país",
+                                              "b":  "imigração de idosos provenientes das grandes cidades, movimento que responde pela maior parte da variação observada entre os municípios",
+                                              "c":  "elevação da taxa de fecundidade nessas cidades, o que ampliou a proporção da população nas faixas etárias mais avançadas do território",
+                                              "d":  "emigração de jovens, que deixa nas cidades pequenas uma população mais envelhecida",
+                                              "e":  "erro de contagem do censo demográfico nos municípios de menor porte, situação que distorce os indicadores calculados para essas localidades"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Quem sai é jovem, atrás de estudo e emprego; quem fica envelhece. O município acaba com demanda alta por serviço de saúde e base contributiva estreita — combinação que pressiona justamente quem tem menos capacidade de resposta.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-144",
+                         "texto_apoio":  "Um estudo cruza dados de internações por doenças respiratórias com a localização das unidades de saúde e com o mapa de cobertura arbórea de uma cidade.",
+                         "enunciado":  "O procedimento descrito é típico de:",
+                         "alternativas":  {
+                                              "a":  "revisão sistemática da literatura, procedimento que reúne e avalia os estudos já publicados sobre determinada questão de pesquisa definida",
+                                              "b":  "ensaio clínico randomizado, método que compara desfechos entre grupos submetidos a intervenções distintas sorteadas previamente pelos pesquisadores",
+                                              "c":  "análise espacial, que busca relações entre fenômenos distribuídos no território",
+                                              "d":  "estudo de caso individual, método que acompanha em profundidade a trajetória de um único paciente ao longo do período de investigação",
+                                              "e":  "experimento laboratorial controlado, procedimento realizado em ambiente isolado com controle de todas as variáveis consideradas relevantes"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A pergunta não é se a poluição causa doença — é onde e para quem. Cruzar camadas no território é o que permite passar da associação geral para a decisão concreta sobre onde plantar árvore e onde abrir unidade.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-145",
+                         "texto_apoio":  "Compare dois indicadores de um mesmo município: a taxa de mortalidade infantil média e a mesma taxa desagregada por bairro.",
+                         "enunciado":  "A desagregação é importante porque:",
+                         "alternativas":  {
+                                              "a":  "a média apresenta erro de cálculo que só a desagregação permite corrigir, procedimento exigido pelos órgãos oficiais de estatística do país",
+                                              "b":  "a média esconde desigualdades internas que orientam onde intervir",
+                                              "c":  "a desagregação elimina a necessidade de acompanhar o indicador agregado, que perde qualquer utilidade para o planejamento em saúde pública",
+                                              "d":  "os bairros apresentam sempre os mesmos valores entre si, o que torna a desagregação um procedimento de confirmação do resultado obtido",
+                                              "e":  "a média só pode ser calculada depois que todos os bairros tenham sido analisados separadamente pelos responsáveis pelo levantamento"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Um município pode ter média aceitável e um bairro com taxa três vezes maior. Para decidir onde colocar equipe e recurso, o número agregado é inútil — é a desagregação territorial que mostra o alvo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-146",
+                         "texto_apoio":  "A mineração emprega parcela da população em municípios cuja economia depende quase inteiramente dessa atividade.",
+                         "enunciado":  "Uma vulnerabilidade típica dessas economias é:",
+                         "alternativas":  {
+                                              "a":  "a ausência completa de impactos ambientais associados à atividade, o que dispensa qualquer investimento em recuperação de áreas degradadas",
+                                              "b":  "a diversificação excessiva da base produtiva local, condição que dispersa os investimentos e reduz a produtividade do conjunto da economia",
+                                              "c":  "o excesso de arrecadação tributária, situação que dificulta o planejamento orçamentário dos municípios que dependem dessa atividade",
+                                              "d":  "a dependência de um único setor sujeito a preços internacionais e ao esgotamento da jazida",
+                                              "e":  "a estabilidade permanente do emprego oferecido pelo setor, característica que reduz a mobilidade da mão de obra empregada nessas regiões"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Enquanto o minério vale, a arrecadação sustenta o município; quando o preço cai ou a jazida acaba, resta o passivo ambiental e uma população sem alternativa. É a maldição dos recursos em escala municipal.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-147",
+                         "texto_apoio":  "Cidades brasileiras que investiram em ciclovias, calçadas e transporte coletivo de qualidade registram alteração nos padrões de deslocamento da população.",
+                         "enunciado":  "Do ponto de vista sanitário, o benefício mais direto dessas políticas é:",
+                         "alternativas":  {
+                                              "a":  "a eliminação completa dos acidentes de trânsito registrados no território dessas cidades, resultado observado nos municípios que as adotaram",
+                                              "b":  "aumento da atividade física cotidiana e redução da exposição a poluentes",
+                                              "c":  "a redução do número de habitantes das áreas centrais, processo decorrente da ampliação das áreas destinadas à circulação de pedestres",
+                                              "d":  "a substituição integral do transporte motorizado por modos ativos, meta alcançada pelas cidades que implantaram esse tipo de política",
+                                              "e":  "o aumento do tempo médio de deslocamento diário, consequência da redução do espaço destinado à circulação de veículos automotores"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Mobilidade ativa incorpora exercício à rotina de quem não teria tempo nem dinheiro para academia, e tira carro da rua. Hipertensão, diabetes e doença respiratória respondem a isso — é política de saúde feita pela secretaria de transportes.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-148",
+                         "texto_apoio":  "A pandemia de covid-19 evidenciou diferenças acentuadas de mortalidade entre bairros de uma mesma cidade brasileira.",
+                         "enunciado":  "Entre os fatores territoriais associados a essa diferença está:",
+                         "alternativas":  {
+                                              "a":  "a diferença de altitude entre as regiões da cidade, fator identificado pelos estudos como determinante da mortalidade observada em cada área",
+                                              "b":  "a variação da temperatura média registrada entre os diferentes bairros da mesma cidade ao longo do período em que a pandemia se desenvolveu",
+                                              "c":  "densidade domiciliar, uso obrigatório de transporte coletivo e distância dos serviços",
+                                              "d":  "a distribuição desigual das áreas verdes, único fator territorial associado à variação da mortalidade registrada durante o período pandêmico",
+                                              "e":  "a proximidade em relação aos limites municipais, condição que teria dificultado o acesso da população aos serviços de saúde disponíveis"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Quem mora em domicílio adensado não consegue isolar; quem depende de ônibus lotado não consegue evitar exposição; quem está longe do serviço chega tarde. A doença foi a mesma, e o território decidiu boa parte do desfecho.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-149",
+                         "texto_apoio":  "Considere: a distribuição de dengue numa cidade, o acesso a alimentos frescos numa periferia, a mortalidade por calor entre idosos e a diferença de desfechos entre bairros numa pandemia.",
+                         "enunciado":  "Os quatro casos têm em comum o fato de que:",
+                         "alternativas":  {
+                                              "a":  "o território organiza a distribuição do risco, e não apenas o abriga",
+                                              "b":  "a variação observada decorre exclusivamente de características biológicas individuais das pessoas atingidas em cada uma das situações citadas",
+                                              "c":  "os fenômenos descritos se distribuem de forma aleatória no espaço, sem que seja possível identificar qualquer padrão em sua ocorrência",
+                                              "d":  "a intervenção do setor de saúde é suficiente para eliminar as diferenças observadas entre as áreas em cada um dos casos apresentados",
+                                              "e":  "os quatro casos dependem de fatores climáticos, únicos elementos capazes de explicar a variação registrada entre as diferentes áreas"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Em nenhum dos quatro o espaço é neutro: ele concentra a exposição, filtra o acesso e distribui a proteção. É a razão pela qual saúde pública sem leitura territorial fica cega para metade do problema.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "geografia-150",
+                         "texto_apoio":  "Na 2ª fase de Medicina da FUVEST, Geografia é uma das quatro disciplinas cobradas, ao lado de Biologia, Física e Química — e Matemática não integra esse conjunto.",
+                         "enunciado":  "Para quem se prepara para essa prova, a implicação prática mais relevante é:",
+                         "alternativas":  {
+                                              "a":  "desconsiderar a disciplina no planejamento, já que seu peso é idêntico ao das demais bancas de Medicina do estado de São Paulo hoje",
+                                              "b":  "concentrar o estudo em Matemática, disciplina cujo peso na segunda fase supera o das demais matérias cobradas pela banca nesse conjunto",
+                                              "c":  "tratar Geografia como conteúdo de revisão rápida, uma vez que ela aparece apenas nas questões objetivas da primeira fase do processo seletivo",
+                                              "d":  "estudar exclusivamente Geografia física, único recorte da disciplina cobrado pela banca nas questões discursivas da segunda fase do exame",
+                                              "e":  "atribuir a Geografia peso equivalente ao das ciências da natureza no cronograma"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O conjunto B-F-G-Q é a informação mais contraintuitiva do estudo dos cadernos: quem monta o cronograma pela intuição reserva tempo para Matemática e trata Geografia como matéria secundária, invertendo exatamente o que a prova cobra.",
+                         "formato":  "direta"
                      }
                  ]
 }

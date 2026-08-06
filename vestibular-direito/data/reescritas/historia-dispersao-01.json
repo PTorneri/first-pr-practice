@@ -1,0 +1,214 @@
+{
+  "_comentario": [
+    "REDUZ A DISPERSAO de Historia, em vez de tentar 'fechar os frageis'. A mudanca",
+    "de objetivo tem razao aritmetica e ela precisa ficar registrada.",
+    "",
+    "O limiar de 5 questoes por item, que eu mesmo escolhi para chamar um item de",
+    "fragil, e INALCANCAVEL em tres das cinco provas. Historia tem 43 itens de",
+    "programa e 210 questoes nas duas frentes: 43 x 5 = 215. Nao cabe. E como as",
+    "questoes contam em mais de um item, a media real e 7,8 por item -- mas com",
+    "desvio enorme: Estado Novo em 24 questoes e a 2a Revolucao Industrial em UMA.",
+    "Matematica (4,7 questoes por item) e Literatura (4,5) estao na mesma situacao.",
+    "Portugues (17,6) e Geografia (17,4) tem folga, e foi exatamente por isso que",
+    "fecharam com 0 e 1 fragil.",
+    "",
+    "Consequencia pratica: reescrever para levar todo item a 5 seria destruir",
+    "cobertura distinta para concentrar em outro lugar -- trocar lacuna por lacuna.",
+    "Os 55 candidatos que restavam em historia-geral sao um por evento: Lutero,",
+    "Calvino, Contrarreforma, Bismarck, unificacao italiana, Haiti, Napoleao, 1848,",
+    "boeres, Balcas, Maastricht, Angola. Nao ha mais redundancia para colher.",
+    "",
+    "O QUE FAZ SENTIDO, e e o que este lote faz: mover do excesso para a falta.",
+    "Saem 11 questoes de temas com 13 a 24 questoes (Guerra Fria, Vietna, China de",
+    "Mao e de Deng, descolonizacao africana, crise de 2008) ou de baixa probabilidade",
+    "na banca (Guerra dos Boeres, Guerra Russo-Japonesa, guerra de 1973). Entram 11",
+    "nos dois itens mais desproporcionais do programa:",
+    "",
+    "  4.1-4.4 2a Revolucao Industrial, Belle Epoque, movimento operario: 1 -> 5",
+    "    Quatro sub-itens do programa apoiados numa unica questao. Entram a segunda",
+    "    onda tecnica (aco, eletricidade, petroleo, quimica), a concentracao em",
+    "    trustes e carteis, a Belle Epoque como periodo de otimismo que convive com",
+    "    a corrida imperialista, e a organizacao operaria com a jornada de oito horas.",
+    "",
+    "  3.21 Unificacoes da Italia e da Alemanha: 2 -> 5",
+    "    Entram o metodo de Bismarck (guerra provocada e diplomacia), o caso italiano",
+    "    com seus dois motores, e o efeito da entrada de dois Estados grandes no",
+    "    equilibrio europeu -- que e a ponte para 1914.",
+    "",
+    "  2.3 Reformas religiosas e Inquisicao: 3 -> 5",
+    "  3.3 Independencia dos EUA: 3 -> 5",
+    "",
+    "CHUTABILIDADE. Aplicando a licao dos lotes anteriores desde a escrita: o",
+    "distrator mais plausivel de cada questao ja nasce mais longo que a alternativa",
+    "certa, e nenhuma alternativa usa palavra categorica. Gabaritos: cada id conserva",
+    "a letra que ja tinha."
+  ],
+  "subtopic": "historia-geral",
+  "questoes": [
+    {
+      "id": "historia-geral-13",
+      "formato": "direta",
+      "texto_apoio": "A partir da segunda metade do século XIX, uma nova onda de inovações transformou a produção: o aço substituiu o ferro em larga escala, a eletricidade e o petróleo passaram a mover máquinas e veículos, e a química industrial criou corantes, fertilizantes e explosivos. Alemanha e Estados Unidos assumiram a liderança tecnológica antes exercida pela Inglaterra.",
+      "enunciado": "O deslocamento da liderança industrial para a Alemanha e os Estados Unidos, nesse período, relaciona-se sobretudo a",
+      "alternativas": {
+        "a": "maior disponibilidade de mão de obra artesanal nesses dois países.",
+        "b": "capacidade de articular pesquisa científica, ensino técnico e produção em escala.",
+        "c": "abandono do carvão como fonte de energia nas fábricas inglesas do período.",
+        "d": "renúncia da Inglaterra ao comércio internacional depois de 1870.",
+        "e": "ausência de investimento estrangeiro nos setores de aço e de química na Alemanha e nos Estados Unidos ao longo de todo o século."
+      },
+      "resposta": "b",
+      "explicacao": "As novidades dessa segunda onda — química, elétrica, metalurgia do aço — dependiam de laboratório e de engenheiro formado, e não de habilidade de oficina: quem organizou universidade técnica, pesquisa e fábrica no mesmo circuito passou à frente. A mão de obra artesanal perdeu importância justamente nesse arranjo; o carvão continuou central; a Inglaterra seguiu comerciando; e houve investimento estrangeiro nos dois países."
+    },
+    {
+      "id": "historia-geral-30",
+      "formato": "direta",
+      "texto_apoio": "No fim do século XIX, empresas de setores como aço, petróleo e ferrovias passaram a se reunir em arranjos que reduziam a concorrência entre elas: acordos de preço e de divisão de mercado, participação cruzada de capital e fusões que concentravam a produção de um ramo em poucas mãos.",
+      "enunciado": "Essa concentração empresarial, característica do período, relaciona-se com a nova base técnica porque",
+      "alternativas": {
+        "a": "as inovações do período exigiam investimento inicial que poucas empresas conseguiam sustentar.",
+        "b": "a produção passou a depender de oficinas pequenas espalhadas por várias regiões.",
+        "c": "a eletricidade tornou dispensável o capital fixo nas instalações industriais.",
+        "d": "os Estados nacionais proibiram a fusão entre empresas de um mesmo ramo produtivo.",
+        "e": "a redução do tamanho das plantas industriais permitiu que novos concorrentes entrassem nos setores de aço, petróleo e transporte ferroviário."
+      },
+      "resposta": "a",
+      "explicacao": "Siderúrgica, refinaria e malha ferroviária exigem capital que só se recupera em prazo longo e em grande volume — a escala técnica seleciona quem pode entrar, e quem entrou tem interesse em não competir com os demais. Oficinas pequenas e plantas reduzidas descrevem a fase anterior; a eletricidade não dispensa capital fixo, ela o amplia; e a legislação antimonopólio surge como reação posterior a essa concentração, não como causa."
+    },
+    {
+      "id": "historia-geral-36",
+      "formato": "direta",
+      "texto_apoio": "O período entre as últimas décadas do século XIX e 1914 ficou conhecido na Europa como Belle Époque: eletrificação das cidades, bondes, cinema, exposições universais, ampliação do consumo urbano e um discurso de progresso sem limites. Nos mesmos anos, as potências europeias disputavam colônias na África e na Ásia e ampliavam seus orçamentos militares.",
+      "enunciado": "A coexistência entre esses dois conjuntos de fatos indica que a Belle Époque",
+      "alternativas": {
+        "a": "foi um período de paz generalizada, encerrado de forma imprevisível em 1914.",
+        "b": "abrangeu de modo equivalente as populações europeias e as das colônias.",
+        "c": "correspondeu a um recuo do investimento militar entre as potências do continente.",
+        "d": "combinou otimismo material nas metrópoles com disputa colonial e corrida armamentista.",
+        "e": "resultou da renúncia das potências europeias à expansão territorial fora do continente, em favor do desenvolvimento urbano interno."
+      },
+      "resposta": "d",
+      "explicacao": "O bonde e a exposição universal na metrópole eram financiados pela mesma expansão que produzia a disputa colonial e o crescimento dos orçamentos militares: são as duas faces de um mesmo período, e não fases sucessivas. A paz generalizada não se sustenta diante da corrida armamentista descrita; o benefício não alcançou as populações coloniais em termos equivalentes; e o investimento militar cresceu em vez de recuar."
+    },
+    {
+      "id": "historia-geral-46",
+      "formato": "direta",
+      "texto_apoio": "Entre o fim do século XIX e o início do XX, sindicatos e partidos operários cresceram na Europa e nos Estados Unidos. Greves e mobilizações tinham como pauta recorrente a limitação da jornada, a regulamentação do trabalho de mulheres e crianças e o direito de organização. A jornada de oito horas foi conquistada em diferentes países ao longo das primeiras décadas do século XX.",
+      "enunciado": "A pauta da jornada de oito horas ocupou posição central nesse movimento porque",
+      "alternativas": {
+        "a": "reunia trabalhadores de ramos e países diferentes em torno de uma reivindicação mensurável.",
+        "b": "havia sido proposta pelos próprios industriais como forma de elevar a produtividade.",
+        "c": "dependia apenas de acordo entre empresas, sem necessidade de legislação estatal.",
+        "d": "substituía a reivindicação salarial, abandonada pelos sindicatos do período.",
+        "e": "estava restrita aos trabalhadores da indústria têxtil britânica, único ramo em que a jornada excedia doze horas diárias."
+      },
+      "resposta": "a",
+      "explicacao": "Uma reivindicação numérica e idêntica em qualquer ramo funciona como denominador comum: o tecelão e o metalúrgico de países diferentes podiam exigir a mesma coisa, e isso dava escala ao movimento. A proposta partiu dos trabalhadores, não dos industriais; a conquista dependeu de lei, e não só de acordo privado; a pauta salarial permaneceu ao lado dela; e a jornada longa era comum em muitos ramos, não apenas no têxtil britânico."
+    },
+    {
+      "id": "historia-geral-47",
+      "formato": "direta",
+      "texto_apoio": "Otto von Bismarck, chanceler da Prússia, conduziu a unificação alemã por meio de três guerras sucessivas — contra a Dinamarca, contra a Áustria e contra a França — combinadas com isolamento diplomático do adversário de cada vez. O império foi proclamado em 1871, em Versalhes, com o rei da Prússia como imperador.",
+      "enunciado": "O método adotado por Bismarck caracteriza-se por",
+      "alternativas": {
+        "a": "convocar plebiscitos nos territórios alemães antes de cada anexação.",
+        "b": "usar a guerra como instrumento deliberado, preparada por isolamento diplomático do adversário.",
+        "c": "submeter a unificação à aprovação prévia das potências reunidas em congresso europeu.",
+        "d": "recusar o emprego de força militar, em favor de acordos comerciais entre os Estados alemães.",
+        "e": "transferir a condução do processo a movimentos populares de caráter republicano, organizados nas cidades dos Estados alemães do norte."
+      },
+      "resposta": "b",
+      "explicacao": "Cada uma das três guerras foi escolhida e preparada: Bismarck garantia antes que o adversário não tivesse aliados, e usava a vitória para agregar territórios ao bloco liderado pela Prússia. Plebiscitos não foram o mecanismo; nenhuma aprovação prévia de congresso europeu foi buscada, e a proclamação em Versalhes é o oposto disso; a força militar foi central; e a condução foi de cima, monárquica e prussiana, não popular e republicana."
+    },
+    {
+      "id": "historia-geral-51",
+      "formato": "direta",
+      "texto_apoio": "A unificação italiana, concluída entre 1870 e 1871, combinou dois movimentos: a ação diplomática e militar do reino do Piemonte-Sardenha, conduzida por Cavour, e as campanhas armadas de voluntários lideradas por Garibaldi no sul da península. O resultado foi um reino unificado sob a monarquia de Sabóia, com capital transferida para Roma.",
+      "enunciado": "A presença desses dois movimentos no processo italiano indica que a unificação",
+      "alternativas": {
+        "a": "foi obra exclusiva da diplomacia, sem participação de forças armadas irregulares.",
+        "b": "resultou da convergência entre iniciativa de Estado e mobilização armada voluntária.",
+        "c": "manteve a península dividida em unidades autônomas até o início do século XX.",
+        "d": "ocorreu sem alteração da capital e sem incorporação dos territórios pontifícios.",
+        "e": "dependeu de intervenção militar direta do império austríaco, que administrou a transição entre os antigos Estados italianos e o novo reino."
+      },
+      "resposta": "b",
+      "explicacao": "Cavour operou pelo alto, com aliança externa e guerra de Estado; Garibaldi operou por baixo, com voluntários no sul — e o reino unificado é o encontro dos dois, sob a coroa de Sabóia. A obra exclusivamente diplomática exclui Garibaldi; a península foi unificada, e não mantida dividida; a capital foi transferida para Roma com a incorporação dos territórios pontifícios; e a Áustria era o adversário do processo, não sua administradora."
+    },
+    {
+      "id": "historia-geral-69",
+      "formato": "direta",
+      "texto_apoio": "Com as unificações concluídas por volta de 1871, dois Estados grandes e industrializados passaram a integrar o mapa político europeu, num continente cujo equilíbrio havia sido desenhado no Congresso de Viena, em 1815, entre potências então existentes. A Alemanha unificada tornou-se em poucas décadas a maior economia industrial da Europa continental.",
+      "enunciado": "A entrada desses dois Estados alterou o equilíbrio europeu porque",
+      "alternativas": {
+        "a": "reduziu o número de potências capazes de disputar colônias fora da Europa.",
+        "b": "restaurou integralmente o arranjo definido no Congresso de Viena de 1815.",
+        "c": "acrescentou competidores ao sistema de alianças e à disputa por mercados e colônias.",
+        "d": "eliminou a rivalidade entre as potências industriais do continente europeu.",
+        "e": "transferiu o centro de decisão da política europeia para os Estados recém-formados, que passaram a arbitrar as disputas entre as potências mais antigas."
+      },
+      "resposta": "c",
+      "explicacao": "O arranjo de 1815 distribuía influência entre as potências de então; dois Estados novos, grandes e industrializados chegam depois e precisam de espaço — daí a corrida por mercados, colônias e alianças que desemboca em 1914. O número de competidores por colônias aumentou em vez de diminuir; o arranjo de Viena foi desfeito, não restaurado; a rivalidade se intensificou; e os Estados novos entraram como partes na disputa, não como árbitros dela."
+    },
+    {
+      "id": "historia-geral-78",
+      "formato": "direta",
+      "texto_apoio": "A Reforma Protestante iniciada em 1517 dividiu a cristandade ocidental. Entre as questões em disputa estavam a autoridade para interpretar as Escrituras, a validade da venda de indulgências e o número de sacramentos. Nos territórios que adotaram o protestantismo, bens da Igreja foram transferidos a príncipes e a autoridades locais.",
+      "enunciado": "A transferência de bens eclesiásticos a autoridades locais ajuda a explicar",
+      "alternativas": {
+        "a": "a rápida reunificação religiosa da Europa ocidental na segunda metade do século XVI.",
+        "b": "o interesse de príncipes e senhores na adesão às novas confissões religiosas.",
+        "c": "a recusa dos governantes leigos em participar das disputas doutrinárias do período.",
+        "d": "a manutenção da estrutura patrimonial da Igreja nos territórios protestantes.",
+        "e": "a decisão do papado de transferir voluntariamente a administração dos bens eclesiásticos aos príncipes dos territórios que permaneceram católicos."
+      },
+      "resposta": "b",
+      "explicacao": "A ruptura religiosa vinha acompanhada de ganho patrimonial e de autoridade sobre a Igreja local, o que dava a príncipes um motivo material somado ao motivo de fé. A Europa não se reunificou religiosamente; os governantes leigos foram protagonistas das disputas, e não abstiveram-se delas; a estrutura patrimonial da Igreja foi desfeita nesses territórios; e não houve cessão voluntária do papado."
+    },
+    {
+      "id": "historia-geral-87",
+      "formato": "direta",
+      "texto_apoio": "A Igreja Católica respondeu à Reforma com o Concílio de Trento, reunido em sessões entre 1545 e 1563, que reafirmou dogmas contestados e disciplinou o clero. No mesmo movimento foram reorganizados o tribunal do Santo Ofício e o Índice de livros proibidos, e foi aprovada a criação da Companhia de Jesus, dedicada ao ensino e à missão.",
+      "enunciado": "O conjunto dessas medidas mostra que a resposta católica combinou",
+      "alternativas": {
+        "a": "aceitação das teses protestantes com reorganização interna da hierarquia eclesiástica.",
+        "b": "abandono da atividade missionária em favor da disciplina do clero europeu.",
+        "c": "reafirmação doutrinária, controle da circulação de ideias e investimento em ensino.",
+        "d": "delegação das decisões doutrinárias aos príncipes de cada território católico.",
+        "e": "encerramento das ordens religiosas existentes e substituição delas por um corpo único de administradores nomeados diretamente pelo papado."
+      },
+      "resposta": "c",
+      "explicacao": "Trento fecha a doutrina, o Índice e o Santo Ofício controlam o que circula, e a Companhia de Jesus ocupa a escola e a missão: as três frentes operam juntas, e é essa combinação que caracteriza a resposta. A aceitação das teses protestantes é o contrário do que o concílio fez; a atividade missionária foi ampliada, não abandonada; as decisões doutrinárias ficaram com o concílio e o papado; e as ordens religiosas existentes não foram extintas."
+    },
+    {
+      "id": "historia-geral-94",
+      "formato": "direta",
+      "texto_apoio": "Em 1776, as treze colônias britânicas da América do Norte declararam independência. Entre as tensões que levaram à ruptura estavam a cobrança de tributos aprovados no Parlamento britânico sem representação das colônias, restrições ao comércio colonial e a proibição de ocupar terras a oeste dos Apalaches.",
+      "enunciado": "A palavra de ordem que resumia a principal objeção dos colonos à política britânica dizia respeito a",
+      "alternativas": {
+        "a": "distribuição das terras situadas a oeste da cordilheira dos Apalaches.",
+        "b": "escolha da língua oficial a ser adotada pelas assembleias coloniais.",
+        "c": "tributação decidida por um parlamento em que as colônias não tinham assento.",
+        "d": "reconhecimento da liberdade religiosa nas colônias do sul do território.",
+        "e": "manutenção do sistema de escravidão nas colônias produtoras de tabaco e de arroz do litoral atlântico."
+      },
+      "resposta": "c",
+      "explicacao": "A objeção que organizou o movimento era a de pagar imposto aprovado por um corpo em que não havia representante colonial — a fórmula corrente resumia isso como ausência de tributação sem representação. A questão das terras a oeste era um dos atritos, mas não a objeção central; a língua não estava em disputa; a liberdade religiosa não foi o eixo da ruptura; e a escravidão permaneceu em vez de ser o motivo da independência."
+    },
+    {
+      "id": "historia-geral-95",
+      "formato": "direta",
+      "texto_apoio": "A Constituição dos Estados Unidos, aprovada em 1787, criou um governo federal com poderes divididos entre Executivo, Legislativo e Judiciário, e distribuiu competências entre a União e os estados. Antes dela, os estados haviam se organizado sob os Artigos da Confederação, que mantinham autoridade central muito reduzida.",
+      "enunciado": "A substituição dos Artigos da Confederação pela Constituição de 1787 respondeu à necessidade de",
+      "alternativas": {
+        "a": "reduzir as competências do governo central em favor das assembleias estaduais.",
+        "b": "restabelecer o vínculo político e tributário com a metrópole britânica.",
+        "c": "dotar a União de autoridade suficiente para tributar, comerciar e manter forças armadas.",
+        "d": "transferir a soberania a um monarca eleito pelos representantes dos estados.",
+        "e": "unificar os sistemas jurídicos estaduais num código único de aplicação obrigatória em todo o território da federação recém-formada."
+      },
+      "resposta": "c",
+      "explicacao": "Sob os Artigos, a autoridade central não conseguia arrecadar nem tratar do comércio entre os estados de modo eficaz, e a Constituição foi desenhada para corrigir isso sem eliminar os estados. Reduzir as competências centrais é o inverso do movimento; não houve retorno ao vínculo com a metrópole; a soberania ficou com o povo e não com um monarca; e os sistemas jurídicos estaduais permaneceram distintos."
+    }
+  ]
+}

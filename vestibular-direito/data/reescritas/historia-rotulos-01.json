@@ -1,0 +1,60 @@
+{
+  "_comentario": [
+    "NOMEIA O PERÍODO nas questões do lote historia-dispersao-01 que descreviam o",
+    "conteúdo certo sem usar o termo com que a banca o chama.",
+    "",
+    "Como isso apareceu: o auditar-cobertura.ps1 continuou marcando 2 no item",
+    "4.1-4.4 depois de eu escrever quatro questões para ele. Não foi falso",
+    "negativo do auditor -- foi falha minha de redação. Eu escrevi 'uma nova onda",
+    "de inovações transformou a produção' e descrevi aço, eletricidade, petróleo e",
+    "química industrial, mas nunca escrevi 'Segunda Revolução Industrial'.",
+    "",
+    "E isso é um defeito de verdade, não um problema de métrica. A prova nomeia o",
+    "período: o enunciado da FGV diz 'a Segunda Revolução Industrial' e espera que",
+    "o candidato reconheça o termo. Quem estudou por uma questão que só fala em",
+    "'nova onda de inovações' aprendeu o conteúdo e não aprendeu o rótulo -- e",
+    "trava na leitura do enunciado. O mesmo vale para 'movimento operário' e para",
+    "'Constituição norte-americana'.",
+    "",
+    "Então o auditor estava certo e eu estava errado. Aqui só entra o nome; nenhuma",
+    "alternativa, nenhum gabarito e nenhuma explicação muda.",
+    "",
+    "  13, 30  ganham 'Segunda Revolução Industrial'",
+    "  46      ganha 'movimento operário'",
+    "  69      passa a nomear 'unificação da Itália' e 'unificação da Alemanha'",
+    "  95      ganha 'Constituição norte-americana'"
+  ],
+  "subtopic": "historia-geral",
+  "questoes": {
+    "historia-geral-13": {
+      "banca": "fgv",
+      "texto_apoio": "A partir da segunda metade do século XIX, a Segunda Revolução Industrial trouxe uma nova onda de inovações: o aço substituiu o ferro em larga escala, a eletricidade e o petróleo passaram a mover máquinas e veículos, e a química industrial criou corantes, fertilizantes e explosivos. Alemanha e Estados Unidos assumiram a liderança tecnológica antes exercida pela Inglaterra.",
+      "enunciado": "O deslocamento da liderança industrial para a Alemanha e os Estados Unidos, ao longo da Segunda Revolução Industrial, relaciona-se sobretudo a",
+      "numerosNovos": []
+    },
+    "historia-geral-30": {
+      "banca": "fgv",
+      "texto_apoio": "No fim do século XIX, em plena Segunda Revolução Industrial, empresas de setores como aço, petróleo e ferrovias passaram a se reunir em arranjos que reduziam a concorrência entre elas: acordos de preço e de divisão de mercado, participação cruzada de capital e fusões que concentravam a produção de um ramo em poucas mãos. Os arranjos desse tipo ficaram conhecidos como trustes e cartéis.",
+      "enunciado": "Essa concentração empresarial, característica da Segunda Revolução Industrial, relaciona-se com a nova base técnica porque",
+      "numerosNovos": []
+    },
+    "historia-geral-46": {
+      "banca": "fgv",
+      "texto_apoio": "Entre o fim do século XIX e o início do XX, o movimento operário cresceu na Europa e nos Estados Unidos, organizado em sindicatos e partidos. Greves e mobilizações tinham como pauta recorrente a limitação da jornada, a regulamentação do trabalho de mulheres e crianças e o direito de organização. A jornada de oito horas foi conquistada em diferentes países ao longo das primeiras décadas do século XX.",
+      "enunciado": "A pauta da jornada de oito horas ocupou posição central no movimento operário porque",
+      "numerosNovos": []
+    },
+    "historia-geral-69": {
+      "banca": "fgv",
+      "texto_apoio": "Com a unificação da Itália e a unificação da Alemanha concluídas por volta de 1871, dois Estados grandes e industrializados passaram a integrar o mapa político europeu, num continente cujo equilíbrio havia sido desenhado no Congresso de Viena, em 1815, entre potências então existentes. A Alemanha unificada tornou-se em poucas décadas a maior economia industrial da Europa continental.",
+      "enunciado": "A entrada da Itália e da Alemanha unificadas nesse quadro alterou o equilíbrio europeu porque",
+      "numerosNovos": []
+    },
+    "historia-geral-95": {
+      "banca": "fgv",
+      "texto_apoio": "A Constituição norte-americana, aprovada em 1787, criou um governo federal com poderes divididos entre Executivo, Legislativo e Judiciário, e distribuiu competências entre a União e os estados. Antes dela, as treze colônias já independentes haviam se organizado sob os Artigos da Confederação, que mantinham autoridade central muito reduzida.",
+      "enunciado": "A substituição dos Artigos da Confederação pela Constituição norte-americana de 1787 respondeu à necessidade de",
+      "numerosNovos": []
+    }
+  }
+}

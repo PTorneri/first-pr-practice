@@ -423,18 +423,19 @@
                      },
                      {
                          "id":  "historia-brasil-29",
-                         "texto_apoio":  "Embora derrotado militarmente, o movimento de 1932 teve efeitos duradouros na política nacional.",
-                         "enunciado":  "Entre os principais desdobramentos da Revolução Constitucionalista de 1932, está:",
+                         "formato":  "direta",
+                         "banca":  "fgv",
+                         "texto_apoio":  "Em 1961 o Brasil adotou a chamada Política Externa Independente. O país passou a defender a descolonização da África e da Ásia nos foros internacionais, aproximou-se do movimento dos não alinhados, restabeleceu relações diplomáticas com a União Soviética e recusou-se a acompanhar sanções contra Cuba — mantendo, ao mesmo tempo, os laços econômicos com os Estados Unidos.",
+                         "enunciado":  "A orientação adotada pela diplomacia brasileira nesse período caracterizou-se por",
                          "alternativas":  {
-                                              "a":  "A promulgação da Constituição de 1934, elaborada por Assembleia Constituinte eleita após a derrota paulista",
-                                              "b":  "A convocação de eleições diretas para a presidência, atendendo à principal reivindicação do movimento paulista",
-                                              "c":  "A imediata renúncia de Getúlio Vargas ao poder, o que só ocorreria duas décadas depois, em 1954, já em seu segundo governo",
-                                              "d":  "A manutenção indefinida do governo provisório, sem qualquer nova Constituição no horizonte político",
-                                              "e":  "A anexação de territórios de estados vizinhos ao estado de São Paulo, fato que jamais ocorreu após o conflito"
+                                              "a":  "buscar autonomia de decisão sem romper com o bloco ocidental.",
+                                              "b":  "transferir ao movimento dos não alinhados a definição das prioridades comerciais e diplomáticas do país.",
+                                              "c":  "subordinar a posição brasileira sobre a África à orientação das antigas metrópoles europeias.",
+                                              "d":  "encerrar as relações econômicas com os Estados Unidos.",
+                                              "e":  "restringir a atuação diplomática brasileira ao continente americano."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Apesar da derrota militar de São Paulo, o governo Vargas atendeu, em parte, às reivindicações do movimento ao convocar eleições para uma Assembleia Nacional Constituinte, que resultou na promulgação da Constituição de 1934.",
-                         "formato":  "direta"
+                         "explicacao":  "O ponto da política é a combinação: o Brasil passa a votar por conta própria em descolonização e a conversar com os não alinhados e com a União Soviética, sem abandonar o comércio e o financiamento vindos do Ocidente — autonomia de decisão, não troca de lado. Delegar as prioridades aos não alinhados seria substituir uma tutela por outra; subordinar-se às antigas metrópoles é o oposto da posição defendida nos foros; as relações econômicas com os Estados Unidos foram mantidas; e a atuação diplomática se ampliou para fora das Américas em vez de se restringir a elas."
                      },
                      {
                          "id":  "historia-brasil-30",
@@ -498,18 +499,19 @@
                      },
                      {
                          "id":  "historia-brasil-34",
-                         "texto_apoio":  "",
-                         "enunciado":  "Entre os principais resultados do Plano Real nos anos seguintes ao seu lançamento, destaca-se:",
+                         "formato":  "direta",
+                         "banca":  "fgv",
+                         "texto_apoio":  "Em 1975, com o fim do império colonial português, o Brasil foi o primeiro país a reconhecer o governo formado em Angola pelo Movimento Popular de Libertação de Angola. A decisão partiu do governo Geisel, ainda sob a ditadura militar, e integrava a orientação diplomática então chamada de pragmatismo responsável e ecumênico.",
+                         "enunciado":  "O reconhecimento imediato do novo governo angolano por um governo militar de orientação anticomunista explica-se por",
                          "alternativas":  {
-                                              "a":  "A imediata eliminação das desigualdades sociais no país, meta que permaneceu um desafio persistente mesmo após a estabilização de preços",
-                                              "b":  "A queda expressiva e duradoura da inflação, com maior estabilidade econômica e ganho de poder de compra da população de baixa renda",
-                                              "c":  "O agravamento da hiperinflação, que se tornou ainda mais intensa após 1994, cenário oposto ao efetivamente observado com a estabilização do Real",
-                                              "d":  "O fim completo da dívida pública brasileira, resultado que não ocorreu, já que a dívida seguiu sendo tema central da política econômica",
-                                              "e":  "Uma redução transitória da inflação, seguida da retomada dos índices anteriores em menos de dois anos"
+                                              "a":  "coincidência ideológica entre o regime brasileiro e o movimento de libertação nacional angolano.",
+                                              "b":  "cálculo de interesse comercial e de influência brasileira na África recém-descolonizada.",
+                                              "c":  "exigência formal apresentada pelas Nações Unidas aos países de língua portuguesa.",
+                                              "d":  "pressão dos Estados Unidos para que o Brasil se antecipasse no reconhecimento dos governos surgidos da descolonização portuguesa.",
+                                              "e":  "desinteresse brasileiro pelas relações econômicas com o continente africano."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O Plano Real obteve êxito em controlar a hiperinflação que corroía o poder de compra da população, especialmente das camadas mais pobres, trazendo maior estabilidade macroeconômica, embora desafios como dívida pública e desigualdade social tenham persistido.",
-                         "formato":  "direta"
+                         "explicacao":  "O nome da orientação diz o essencial: pragmatismo. Um regime que perseguia a esquerda internamente reconheceu um governo de esquerda em Angola porque enxergava mercado, petróleo e influência num continente que se abria — o interesse pesou mais que a afinidade ideológica, que de fato não existia entre os dois. Nenhuma exigência das Nações Unidas obrigava esse reconhecimento; os Estados Unidos apoiavam os adversários do MPLA e não pressionaram nesse sentido; e o interesse pela África era justamente o motivo da decisão, não o seu contrário."
                      },
                      {
                          "id":  "historia-brasil-35",

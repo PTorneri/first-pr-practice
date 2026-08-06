@@ -1,0 +1,27 @@
+{
+  "_comentario": [
+    "Recoloca o gabarito das 6 questões do lote historia-dispersao-01 que saíram",
+    "de sua letra original. Reescrever alternativa aqui seria errado: o conteúdo",
+    "das cinco está bom, só a alternativa certa caiu na posição errada porque eu",
+    "escrevi pensando no argumento e não na letra.",
+    "",
+    "Cada troca move o gabarito de volta para a letra que o id já tinha antes do",
+    "lote, de modo que a distribuição do arquivo fica idêntica à de antes.",
+    "",
+    "  36: d -> c    47: b -> d    51: b -> d",
+    "  87: c -> e    94: c -> a    95: c -> a",
+    "",
+    "O distrator mais longo de cada questão troca de posição junto, mas isso não",
+    "afeta a chutabilidade: a métrica compara COMPRIMENTO, e a relação entre os",
+    "comprimentos não muda quando duas posições se invertem."
+  ],
+  "subtopic": "historia-geral",
+  "questoes": {
+    "historia-geral-36": { "troca": ["c", "d"], "resposta": "c" },
+    "historia-geral-47": { "troca": ["b", "d"], "resposta": "d" },
+    "historia-geral-51": { "troca": ["b", "d"], "resposta": "d" },
+    "historia-geral-87": { "troca": ["c", "e"], "resposta": "e" },
+    "historia-geral-94": { "troca": ["a", "c"], "resposta": "a" },
+    "historia-geral-95": { "troca": ["a", "c"], "resposta": "a" }
+  }
+}

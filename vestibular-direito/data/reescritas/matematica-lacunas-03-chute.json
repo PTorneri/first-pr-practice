@@ -1,0 +1,72 @@
+{
+  "_comentario": [
+    "Correcao das 3 questoes dos lotes 1 e 2 que a catraca de chutabilidade do",
+    "verify-banco.ps1 reprovou. Ela subiu o indice da frente de 3,3% para 4,7%, e a",
+    "tolerancia e de 1 ponto.",
+    "",
+    "A causa foi um erro meu de boa intencao. Em 03 e 69 eu escrevi a alternativa",
+    "certa como '30√3 metros, aproximadamente 51,9 metros' e deixei as outras como",
+    "'30 metros' -- quarenta caracteres contra nove. Quis ajudar o aluno a situar a",
+    "grandeza e entreguei a resposta a quem nao le o enunciado, que e exatamente o",
+    "tell mais forte que a metrica persegue. A correcao da a aproximacao a TODAS as",
+    "alternativas com radical: agora o aluno tem de calcular para escolher, e o",
+    "comprimento nao aponta para lado nenhum.",
+    "",
+    "Em 47 o problema e o classico das questoes de interpretacao: a alternativa",
+    "certa carregava a justificativa completa e ficava a mais longa. Em vez de",
+    "encurtar a certa -- o que roubaria dela o raciocinio que se quer ensinar --,",
+    "dei justificativa igualmente longa ao distrator mais plausivel, que passa a ser",
+    "o mais comprido. Descartar pelo tamanho agora ERRA.",
+    "",
+    "Gabaritos inalterados (d, a, d nas mesmas letras), entao a distribuicao da",
+    "frente segue em 30 de cada."
+  ],
+  "subtopic": "matematica-rlm",
+  "questoes": [
+    {
+      "id": "matematica-rlm-03",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Um topógrafo, posicionado no solo a 30 metros da base de uma torre de transmissão, mede o ângulo entre o solo e a linha que vai até o topo da torre, obtendo 60°. Desprezando a altura do instrumento, qual é a altura da torre?",
+      "alternativas": {
+        "a": "15√3 metros, aproximadamente 26,0 metros",
+        "b": "30 metros",
+        "c": "60 metros",
+        "d": "30√3 metros, aproximadamente 51,9 metros",
+        "e": "10√3 metros, aproximadamente 17,3 metros"
+      },
+      "resposta": "d",
+      "explicacao": "A altura é o cateto oposto ao ângulo medido e os 30 metros são o cateto adjacente, então a razão que os liga é a tangente: altura = 30 · tg 60° = 30√3, cerca de 51,9 metros. O resultado de 15√3 corresponderia a uma distância de 15 metros; 30 metros suporia ângulo de 45°, único caso em que altura e distância se igualam; 60 metros dobra a distância sem usar razão alguma; e 10√3 divide a distância por 3 antes de multiplicar."
+    },
+    {
+      "id": "matematica-rlm-47",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Duas turmas fizeram a mesma prova e obtiveram exatamente a mesma média, 7,0. As notas da turma A foram 6, 7 e 8; as da turma B foram 4, 7 e 10. Sobre a dispersão dessas notas, é correto afirmar que",
+      "alternativas": {
+        "a": "a turma A tem menor desvio padrão, porque suas notas se afastam menos da média.",
+        "b": "as duas turmas têm exatamente o mesmo desvio padrão, uma vez que ambas partem da mesma média aritmética de 7,0 pontos.",
+        "c": "a turma B tem menor desvio padrão, porque alcançou a maior nota individual.",
+        "d": "não é possível comparar sem saber o número total de alunos de cada turma.",
+        "e": "o desvio padrão é zero nas duas turmas, já que a média coincide."
+      },
+      "resposta": "a",
+      "explicacao": "Os desvios da turma A são −1, 0 e 1; os da turma B são −3, 0 e 3. Como o desvio padrão mede o afastamento típico em relação à média, o da turma A é menor. A afirmação de que médias iguais implicam dispersões iguais é exatamente o que este item desmonta: a média informa o centro e nada informa sobre o espalhamento. A maior nota individual não determina a dispersão; o número de alunos já está dado pelas notas listadas; e desvio zero exigiria todas as notas iguais."
+    },
+    {
+      "id": "matematica-rlm-69",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Adote as regras: num cubo de aresta a, a diagonal de uma face mede a√2 e a diagonal do cubo mede a√3. Uma peça em forma de cubo tem 4 cm de aresta. Quanto mede a diagonal do cubo, isto é, o segmento que liga dois vértices opostos passando pelo interior?",
+      "alternativas": {
+        "a": "4√2 cm, aproximadamente 5,7 cm",
+        "b": "12 cm",
+        "c": "8 cm",
+        "d": "4√3 cm, aproximadamente 6,9 cm",
+        "e": "16√3 cm, aproximadamente 27,7 cm"
+      },
+      "resposta": "d",
+      "explicacao": "Basta aplicar a segunda regra: diagonal do cubo = 4√3 cm, cerca de 6,9 cm. O valor 4√2 é a diagonal da FACE, que liga dois vértices da mesma face e não atravessa o interior — é a confusão que as duas regras do enunciado servem para separar; 12 cm soma três arestas, o caminho pelas bordas e não em linha reta; 8 cm dobra a aresta; e 16√3 usa a área da face no lugar da aresta."
+    }
+  ]
+}

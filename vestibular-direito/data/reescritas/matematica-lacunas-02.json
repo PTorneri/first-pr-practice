@@ -1,0 +1,406 @@
+{
+  "_comentario": [
+    "Lote 2 das lacunas de Matematica: fecha as quatro AUSENCIAS restantes com",
+    "cinco questoes cada -- conjuntos numericos, desvio padrao e variancia,",
+    "logaritmo, problemas de 1o e 2o graus -- e usa as cinco vagas restantes em",
+    "geometria analitica.",
+    "",
+    "A escolha de dar cinco a cada ausencia, em vez de espalhar as 25 por todos os",
+    "itens fracos, e deliberada. Vinte e cinco vagas nao fecham tudo: com elas eu",
+    "levava as quatro ausencias a QUATRO questoes cada e o bloco de geometria",
+    "analitica a quase cinco, e o relatorio sairia sem nenhum item 'ok'. Preferi",
+    "zerar as ausencias de vez e declarar que a geometria analitica precisa de um",
+    "terceiro lote, em vez de deixar doze itens empatados em quatro.",
+    "",
+    "Sacrificadas: 25 duplicatas identificadas por tema. Seis de probabilidade",
+    "elementar equiprovavel (24, 25, 61, 107, 127 e 109 -- ficam 57 com soma de",
+    "dois dados, 58 com retirada sem reposicao, 60 com evento complementar, 108 com",
+    "duas cartas e 161 com probabilidade condicional); quatro de crescimento",
+    "percentual (138, 151, 156, 158 -- ficam 02, 06, 07, 08, 150); tres de razao",
+    "simples (71, 99, 101 -- ficam 18, 40, 73, 159); tres de Venn (32, 33, 95 --",
+    "ficam 86 e 96); tres de estatistica descritiva repetida (79, 130, 160 -- as",
+    "vendas trimestrais apareciam em tres questoes); e mais 05, 26, 47, 74, 124 e",
+    "147, todas com mecanica coberta por outra questao do proprio banco.",
+    "",
+    "Gabaritos a=5 b=4 c=6 d=5 e=5 e banca fgv=15 insper=10, identicos aos das 25",
+    "substituidas."
+  ],
+  "subtopic": "matematica-rlm",
+  "questoes": [
+    {
+      "id": "matematica-rlm-05",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Considere as definições: um número é racional quando pode ser escrito como razão entre dois inteiros, e é irracional quando sua representação decimal é infinita e NÃO periódica. Qual dos números a seguir é irracional?",
+      "alternativas": {
+        "a": "0,75",
+        "b": "4/9",
+        "c": "√7",
+        "d": "−3",
+        "e": "2,333... (com o algarismo 3 repetindo-se indefinidamente)"
+      },
+      "resposta": "c",
+      "explicacao": "A raiz quadrada de 7 não resulta em decimal finita nem periódica, e não pode ser escrita como razão de inteiros: é irracional. O número 0,75 equivale a 3/4 e é racional; 4/9 já está na forma de razão; −3 é inteiro, e todo inteiro é racional; e 2,333... é dízima PERIÓDICA, o que a torna racional, igual a 7/3 — confundir dízima periódica com número irracional é o erro mais comum neste item, e a definição do enunciado existe para separar os dois casos."
+    },
+    {
+      "id": "matematica-rlm-24",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Vale a regra de que toda dízima periódica é um número racional e pode ser convertida em fração. A qual fração corresponde a dízima 0,444... , com o algarismo 4 repetindo-se indefinidamente?",
+      "alternativas": {
+        "a": "4/9",
+        "b": "44/100",
+        "c": "4/10",
+        "d": "2/5",
+        "e": "1/4"
+      },
+      "resposta": "a",
+      "explicacao": "Chamando x = 0,444..., temos 10x = 4,444... e, subtraindo, 9x = 4, logo x = 4/9. As frações 4/10 e 2/5 valem 0,4 exato, sem repetição; 44/100 vale 0,44, com apenas dois algarismos; e 1/4 vale 0,25. Todas truncam a dízima em algum ponto, e é justamente o fato de a repetição ser infinita que produz o denominador 9."
+    },
+    {
+      "id": "matematica-rlm-25",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Considere a propriedade √a · √b = √(a·b), válida para a e b não negativos. Efetuando o produto √2 · √8, obtém-se",
+      "alternativas": {
+        "a": "um número irracional.",
+        "b": "um número racional não inteiro.",
+        "c": "2√10.",
+        "d": "o número natural 4.",
+        "e": "16."
+      },
+      "resposta": "d",
+      "explicacao": "Pela propriedade, √2 · √8 = √16 = 4, que é natural. O caso é instrutivo porque mostra que o produto de dois irracionais pode ser racional. A opção 2√10 soma os radicandos em vez de multiplicá-los; 16 é o radicando do resultado, e esquece de extrair a raiz; e as opções que classificam o resultado como irracional ou como racional não inteiro contrariam o valor obtido."
+    },
+    {
+      "id": "matematica-rlm-26",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Considere a cadeia de inclusões entre os conjuntos numéricos: os naturais estão contidos nos inteiros, que estão contidos nos racionais, que estão contidos nos reais. Qual das afirmações a seguir é verdadeira?",
+      "alternativas": {
+        "a": "Todo número racional é inteiro.",
+        "b": "Todo número inteiro é racional.",
+        "c": "Todo número real é racional.",
+        "d": "Nenhum número natural é racional.",
+        "e": "Todo número irracional é inteiro."
+      },
+      "resposta": "b",
+      "explicacao": "Qualquer inteiro n pode ser escrito como n/1, o que satisfaz a definição de racional — é a inclusão que a cadeia do enunciado afirma. Dizer que todo racional é inteiro inverte a inclusão, e 1/2 é o contraexemplo; dizer que todo real é racional ignora os irracionais, como √2; dizer que nenhum natural é racional contraria a cadeia inteira; e irracional e inteiro são categorias que não se cruzam, pois todo inteiro é racional."
+    },
+    {
+      "id": "matematica-rlm-32",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Uma transportadora cobra, por entrega, uma taxa fixa de R$ 80,00 mais R$ 12,00 por caixa transportada. Um comerciante dispõe de R$ 500,00 e quer saber quantas caixas, no máximo, consegue enviar numa única entrega.",
+      "alternativas": {
+        "a": "41 caixas",
+        "b": "42 caixas",
+        "c": "36 caixas",
+        "d": "34 caixas",
+        "e": "35 caixas"
+      },
+      "resposta": "e",
+      "explicacao": "A condição é 80 + 12x ≤ 500, ou seja, 12x ≤ 420 e x ≤ 35. Como o número de caixas é inteiro, o máximo é 35. As opções de 41 e 42 caixas vêm de dividir 500 por 12 sem descontar a taxa fixa; 36 caixas arredonda para cima e estoura o orçamento em R$ 12,00; e 34 caixas desperdiça uma caixa que ainda caberia."
+    },
+    {
+      "id": "matematica-rlm-33",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Um professor registrou as notas de quatro avaliações de um aluno: 2, 2, 6 e 6. Sabendo que a variância é a média dos quadrados dos desvios em relação à média, e que o desvio padrão é a raiz quadrada da variância, qual é o desvio padrão dessas notas?",
+      "alternativas": {
+        "a": "0",
+        "b": "4",
+        "c": "2",
+        "d": "16",
+        "e": "8"
+      },
+      "resposta": "c",
+      "explicacao": "A média é (2+2+6+6)/4 = 4. Os desvios são −2, −2, 2 e 2, e seus quadrados somam 4+4+4+4 = 16. A variância é 16/4 = 4, e o desvio padrão é √4 = 2. A opção 4 é a VARIÂNCIA, e confundi-la com o desvio padrão é o erro central deste item; 16 é a soma dos quadrados, antes de dividir; 8 é a soma dos desvios em módulo; e 0 só ocorreria se todas as notas fossem iguais."
+    },
+    {
+      "id": "matematica-rlm-47",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Duas turmas fizeram a mesma prova e obtiveram exatamente a mesma média, 7,0. As notas da turma A foram 6, 7 e 8; as da turma B foram 4, 7 e 10. Sobre a dispersão dessas notas, é correto afirmar que",
+      "alternativas": {
+        "a": "a turma A tem menor desvio padrão, porque suas notas se afastam menos da média.",
+        "b": "as duas turmas têm o mesmo desvio padrão, porque têm a mesma média.",
+        "c": "a turma B tem menor desvio padrão, porque alcançou a maior nota individual.",
+        "d": "não é possível comparar sem saber o número total de alunos de cada turma.",
+        "e": "o desvio padrão é zero nas duas turmas, já que a média coincide."
+      },
+      "resposta": "a",
+      "explicacao": "Os desvios da turma A são −1, 0 e 1; os da turma B são −3, 0 e 3. Como o desvio padrão mede o afastamento típico em relação à média, o da turma A é menor. A afirmação de que médias iguais implicam dispersões iguais é exatamente o que este item desmonta: a média informa o centro, e nada informa sobre o espalhamento. A maior nota individual não determina a dispersão; o número de alunos já está dado pelas notas listadas; e desvio zero exigiria todas as notas iguais."
+    },
+    {
+      "id": "matematica-rlm-61",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Adote as definições: a variância de um conjunto de dados é a média dos quadrados dos desvios em relação à média, e o desvio padrão é a raiz quadrada da variância. Um conjunto de dados tem desvio padrão igual a 3. Qual é a sua variância?",
+      "alternativas": {
+        "a": "1,73",
+        "b": "3",
+        "c": "6",
+        "d": "9",
+        "e": "1,5"
+      },
+      "resposta": "d",
+      "explicacao": "Se o desvio padrão é a raiz da variância, então a variância é o quadrado do desvio padrão: 3² = 9. A opção 1,73 é a raiz de 3, ou seja, aplica a operação na direção contrária; 3 repete o desvio padrão, tratando as duas medidas como iguais; 6 dobra; e 1,5 divide por 2. A distinção importa na leitura de dados: a variância vem em unidade ao quadrado, e o desvio padrão na mesma unidade dos dados."
+    },
+    {
+      "id": "matematica-rlm-71",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Vale a regra de que somar uma mesma constante a todos os valores de um conjunto desloca as medidas de posição, mas não altera as medidas de dispersão. Uma empresa concede a todos os funcionários um aumento fixo de R$ 200,00. O que acontece com a média e com o desvio padrão dos salários?",
+      "alternativas": {
+        "a": "Ambos aumentam em 200.",
+        "b": "A média aumenta em 200 e o desvio padrão permanece o mesmo.",
+        "c": "A média permanece a mesma e o desvio padrão aumenta em 200.",
+        "d": "Ambos permanecem os mesmos.",
+        "e": "A média aumenta em 200 e o desvio padrão dobra."
+      },
+      "resposta": "b",
+      "explicacao": "Somar a mesma quantia a todos os salários move o centro da distribuição em 200, mas as diferenças entre os salários continuam idênticas — e é dessas diferenças que o desvio padrão é feito. A opção que faz os dois subirem 200 é o erro que a regra do enunciado adverte. Se o aumento fosse PERCENTUAL, e não fixo, o desvio padrão também mudaria, porque as diferenças seriam multiplicadas."
+    },
+    {
+      "id": "matematica-rlm-74",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Duas máquinas envasam garrafas com volume médio de 500 mL cada uma. A máquina A apresenta desvio padrão de 2 mL, e a máquina B, de 12 mL. Para um controle de qualidade que exige volume o mais uniforme possível entre as garrafas, qual conclusão é correta?",
+      "alternativas": {
+        "a": "A máquina B é preferível, porque o desvio padrão maior indica maior capacidade de produção.",
+        "b": "As duas são equivalentes, porque o volume médio é o mesmo.",
+        "c": "A máquina B é preferível, porque alcança volumes maiores.",
+        "d": "Nada se pode concluir sem conhecer a mediana dos volumes.",
+        "e": "A máquina A é preferível, porque seus volumes variam menos em torno da média."
+      },
+      "resposta": "e",
+      "explicacao": "Com a mesma média, o desvio padrão menor indica garrafas mais parecidas entre si, que é exatamente o que o controle de qualidade pede. Tratar as duas como equivalentes por terem a mesma média ignora que a média não informa nada sobre a uniformidade. O desvio padrão não mede capacidade de produção nem volume máximo: mede espalhamento. E a mediana seria uma informação adicional de posição, não de dispersão."
+    },
+    {
+      "id": "matematica-rlm-79",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Considere a definição de logaritmo: log de x na base b é igual a y quando b elevado a y resulta em x. Qual é o valor de log₂ 32?",
+      "alternativas": {
+        "a": "2",
+        "b": "4",
+        "c": "5",
+        "d": "16",
+        "e": "64"
+      },
+      "resposta": "c",
+      "explicacao": "Trata-se de responder a que expoente é preciso elevar 2 para obter 32. Como 2⁵ = 32, o logaritmo vale 5. A opção 16 é a metade de 32 e confunde o logaritmo com uma divisão; 64 é 2⁶ e responde à pergunta com o número errado; 4 corresponderia a 2⁴ = 16; e 2 é a base, não o expoente."
+    },
+    {
+      "id": "matematica-rlm-95",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Adote a propriedade do logaritmo do produto: log(a · b) = log a + log b. Sabendo que log 2 ≈ 0,30 e log 3 ≈ 0,48, qual é o valor aproximado de log 6?",
+      "alternativas": {
+        "a": "0,78",
+        "b": "0,144",
+        "c": "0,18",
+        "d": "1,60",
+        "e": "0,30"
+      },
+      "resposta": "a",
+      "explicacao": "Como 6 = 2 · 3, o logaritmo do produto é a soma dos logaritmos: 0,30 + 0,48 = 0,78. A opção 0,144 multiplica os logaritmos, aplicando ao logaritmo a operação que ele justamente transforma em soma — é o erro que a propriedade do enunciado previne; 0,18 subtrai, o que corresponderia a log(3/2); 1,60 divide 0,48 por 0,30; e 0,30 repete log 2."
+    },
+    {
+      "id": "matematica-rlm-99",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A escala Richter, usada para medir terremotos, é logarítmica: um acréscimo de 1 unidade na magnitude corresponde a uma amplitude de onda dez vezes maior. Um sismo de magnitude 7 tem amplitude quantas vezes maior que a de um sismo de magnitude 4?",
+      "alternativas": {
+        "a": "3 vezes",
+        "b": "30 vezes",
+        "c": "100 vezes",
+        "d": "1.000 vezes",
+        "e": "10.000 vezes"
+      },
+      "resposta": "d",
+      "explicacao": "A diferença de magnitude é 7 − 4 = 3, e cada unidade multiplica a amplitude por 10, logo o fator é 10³ = 1.000. A opção de 3 vezes lê a escala como se fosse linear, que é precisamente o que uma escala logarítmica não é; 30 vezes multiplica a diferença por 10 em lugar de usá-la como expoente; 100 vezes usa expoente 2; e 10.000 usa expoente 4."
+    },
+    {
+      "id": "matematica-rlm-101",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Vale a regra de que, se b elevado a x é igual a n, então x é o logaritmo de n na base b. Uma cultura de bactérias dobra de tamanho a cada hora. Em quantas horas ela se torna 8 vezes maior do que era no início?",
+      "alternativas": {
+        "a": "2 horas",
+        "b": "3 horas",
+        "c": "4 horas",
+        "d": "6 horas",
+        "e": "8 horas"
+      },
+      "resposta": "b",
+      "explicacao": "A condição é 2ˣ = 8, e como 8 = 2³, temos x = 3 horas. A opção de 8 horas trata o crescimento como se fosse aditivo, uma hora por unidade de tamanho — é exatamente a confusão entre crescimento exponencial e linear; 4 horas divide 8 por 2; 6 horas multiplica 3 por 2; e 2 horas corresponderia a quadruplicar, não a octuplicar."
+    },
+    {
+      "id": "matematica-rlm-107",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "O nível sonoro N, em decibéis, relaciona-se com a intensidade I do som pela expressão N = 10 · log(I/I₀), em que I₀ é uma intensidade de referência. Se a intensidade de um som é 10.000 vezes a de referência, qual é o seu nível sonoro?",
+      "alternativas": {
+        "a": "4 decibéis",
+        "b": "10 decibéis",
+        "c": "10.000 decibéis",
+        "d": "100 decibéis",
+        "e": "40 decibéis"
+      },
+      "resposta": "e",
+      "explicacao": "Substituindo, N = 10 · log(10.000) = 10 · log(10⁴) = 10 · 4 = 40 decibéis. A opção de 4 decibéis calcula o logaritmo e esquece de multiplicar por 10; 10.000 decibéis usa a razão de intensidades como se fosse o próprio nível, ignorando a escala logarítmica; 100 decibéis eleva ao quadrado; e 10 decibéis usa apenas o fator da fórmula."
+    },
+    {
+      "id": "matematica-rlm-109",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Um terreno retangular tem 34 metros de perímetro e 60 metros quadrados de área. Quais são as suas dimensões?",
+      "alternativas": {
+        "a": "10 m e 6 m",
+        "b": "15 m e 4 m",
+        "c": "12 m e 5 m",
+        "d": "20 m e 3 m",
+        "e": "34 m e 60 m"
+      },
+      "resposta": "c",
+      "explicacao": "Se x e y são os lados, o perímetro dá x + y = 17 e a área dá x · y = 60. Os dois números que somam 17 e multiplicam 60 são 12 e 5, raízes de x² − 17x + 60 = 0. As opções 10 e 6, 15 e 4 e 20 e 3 têm produto 60, mas somam 16, 19 e 23, ou seja, satisfazem a área e violam o perímetro — conferir as DUAS condições é o que este item cobra. A última opção confunde as próprias medidas de perímetro e área com as dimensões."
+    },
+    {
+      "id": "matematica-rlm-124",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A receita mensal de uma empresa, em milhares de reais, é descrita pela função R(x) = −2x² + 40x, em que x é o preço unitário praticado, em reais. Qual preço unitário maximiza a receita, e qual é a receita máxima?",
+      "alternativas": {
+        "a": "preço 10 e receita 200",
+        "b": "preço 20 e receita 0",
+        "c": "preço 5 e receita 150",
+        "d": "preço 40 e receita 200",
+        "e": "preço 10 e receita 400"
+      },
+      "resposta": "a",
+      "explicacao": "Como o coeficiente de x² é negativo, a parábola tem concavidade para baixo e o vértice é o ponto de máximo. O preço que o produz é x = −40/(2 · (−2)) = 10, e a receita nesse ponto é R(10) = −200 + 400 = 200. A opção com preço 20 corresponde a uma das RAÍZES da função, onde a receita é zero, e não ao máximo — confundir raiz com vértice é o erro central; preço 40 usa o coeficiente linear diretamente; e a receita de 400 esquece o termo negativo."
+    },
+    {
+      "id": "matematica-rlm-127",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Numa campanha de arrecadação, o número de doações de R$ 50,00 foi o triplo do número de doações de R$ 20,00, e não houve doações de outros valores. O total arrecadado foi de R$ 1.700,00. Quantas doações de R$ 20,00 a campanha recebeu?",
+      "alternativas": {
+        "a": "5",
+        "b": "20",
+        "c": "30",
+        "d": "10",
+        "e": "15"
+      },
+      "resposta": "d",
+      "explicacao": "Chamando de x o número de doações de R$ 20,00, as de R$ 50,00 são 3x, e a equação fica 20x + 50 · 3x = 1.700, ou seja, 170x = 1.700 e x = 10. A opção 30 é o número de doações de R$ 50,00, e não o pedido pelo enunciado; 20 confunde o valor da doação com a quantidade; 5 divide o resultado correto pela metade; e 15 seria o caso de as quantidades estarem na razão inversa."
+    },
+    {
+      "id": "matematica-rlm-130",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Considere a equação do segundo grau x² − 7x + 12 = 0. Quais são as suas raízes?",
+      "alternativas": {
+        "a": "1 e 12",
+        "b": "3 e 4",
+        "c": "−3 e −4",
+        "d": "2 e 6",
+        "e": "7 e 12"
+      },
+      "resposta": "b",
+      "explicacao": "As raízes são os dois números cuja soma é 7 e cujo produto é 12, o que dá 3 e 4. A opção −3 e −4 tem o produto correto mas soma −7, e portanto resolveria x² + 7x + 12 = 0 — é o erro de sinal mais frequente; 1 e 12 e 2 e 6 têm produto 12 mas somas 13 e 8; e 7 e 12 repete os coeficientes da equação em lugar de resolvê-la."
+    },
+    {
+      "id": "matematica-rlm-138",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Um projétil é lançado do solo e sua altura, em metros, é dada por h(x) = −x² + 10x, em que x é a distância horizontal percorrida, também em metros. A que distância horizontal do ponto de lançamento o projétil retorna ao solo?",
+      "alternativas": {
+        "a": "5 metros",
+        "b": "25 metros",
+        "c": "100 metros",
+        "d": "20 metros",
+        "e": "10 metros"
+      },
+      "resposta": "e",
+      "explicacao": "Retornar ao solo significa h(x) = 0, ou seja, x(10 − x) = 0, cujas soluções são x = 0, o lançamento, e x = 10, a queda. A opção de 5 metros é a distância em que o projétil atinge a ALTURA MÁXIMA, no vértice da parábola, e não onde ele cai — é a confusão entre vértice e raiz; 25 metros é o valor dessa altura máxima; 20 metros dobra o alcance; e 100 metros usa o quadrado do coeficiente."
+    },
+    {
+      "id": "matematica-rlm-147",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "O custo total de produção de uma fábrica cresce de forma linear com a quantidade produzida. Para 100 unidades, o custo é de R$ 700,00; para 300 unidades, é de R$ 1.500,00. Qual é a lei que descreve o custo C, em reais, em função da quantidade x?",
+      "alternativas": {
+        "a": "C(x) = 7x",
+        "b": "C(x) = 4x + 700",
+        "c": "C(x) = 4x + 300",
+        "d": "C(x) = 5x + 200",
+        "e": "C(x) = 300x + 4"
+      },
+      "resposta": "c",
+      "explicacao": "A taxa de variação é (1.500 − 700)/(300 − 100) = 800/200 = 4 reais por unidade. Substituindo um dos pontos: 700 = 4 · 100 + b, logo b = 300, o custo fixo. A opção C(x) = 7x supõe custo proporcional, sem parcela fixa, e falha no segundo ponto; C(x) = 4x + 700 usa o custo total do primeiro ponto como se fosse o custo fixo; e a última opção troca de lugar o coeficiente e o termo constante."
+    },
+    {
+      "id": "matematica-rlm-151",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Duas operadoras de internet oferecem planos por franquia de dados. A operadora A cobra R$ 60,00 fixos mais R$ 2,00 por gigabyte consumido; a operadora B cobra R$ 20,00 fixos mais R$ 6,00 por gigabyte. A partir de qual consumo mensal o plano A passa a ser mais barato que o plano B?",
+      "alternativas": {
+        "a": "acima de 10 GB",
+        "b": "acima de 20 GB",
+        "c": "acima de 5 GB",
+        "d": "abaixo de 10 GB",
+        "e": "acima de 40 GB"
+      },
+      "resposta": "a",
+      "explicacao": "A condição é 60 + 2x < 20 + 6x, o que dá 40 < 4x e x > 10 GB. Em 10 GB os dois planos custam R$ 80,00, e a partir daí a diferença de R$ 4,00 por gigabyte compensa a taxa fixa maior de A. A opção 'abaixo de 10 GB' inverte o sentido da desigualdade, e é ali que B é mais barato; 40 GB usa a diferença entre as taxas fixas sem dividir pela diferença entre os preços por gigabyte; e 20 e 5 GB erram por fator 2 nessa divisão."
+    },
+    {
+      "id": "matematica-rlm-156",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Adote a regra de que a circunferência de centro (a, b) e raio r tem equação (x − a)² + (y − b)² = r². Qual é a equação da circunferência de centro (3, −2) e raio 5?",
+      "alternativas": {
+        "a": "(x + 3)² + (y − 2)² = 25",
+        "b": "(x − 3)² + (y − 2)² = 5",
+        "c": "(x − 3)² + (y + 2)² = 5",
+        "d": "(x − 3)² + (y + 2)² = 25",
+        "e": "(x + 3)² + (y + 2)² = 25"
+      },
+      "resposta": "d",
+      "explicacao": "Substituindo a = 3, b = −2 e r = 5: (x − 3)² + (y − (−2))² = 5², ou seja, (x − 3)² + (y + 2)² = 25. As opções com sinais trocados dentro dos parênteses correspondem a centros diferentes, porque o sinal na equação é o OPOSTO do sinal da coordenada; e as que trazem 5 no lugar de 25 esquecem que o segundo membro é o raio ao QUADRADO."
+    },
+    {
+      "id": "matematica-rlm-158",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "No mapa de um parque, em que cada unidade equivale a 1 metro, o portão A está no ponto (1, 2) e o portão B no ponto (7, 10). Qual é, respectivamente, a distância entre os dois portões e as coordenadas do ponto médio do caminho reto que os liga?",
+      "alternativas": {
+        "a": "8 metros e (4, 6)",
+        "b": "10 metros e (8, 12)",
+        "c": "10 metros e (4, 6)",
+        "d": "14 metros e (4, 6)",
+        "e": "10 metros e (3, 4)"
+      },
+      "resposta": "c",
+      "explicacao": "A distância é √((7−1)² + (10−2)²) = √(36 + 64) = √100 = 10 metros, e o ponto médio é a média das coordenadas: ((1+7)/2, (2+10)/2) = (4, 6). A opção de 14 metros soma as diferenças 6 e 8 em vez de somar seus quadrados; 8 metros usa apenas a maior diferença; o ponto (8, 12) soma as coordenadas sem dividir por 2; e (3, 4) toma a metade das diferenças em lugar da média das coordenadas."
+    },
+    {
+      "id": "matematica-rlm-160",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A área coberta por uma antena de telefonia é descrita, num plano cartesiano em que cada unidade equivale a 1 quilômetro, pela equação (x − 4)² + (y + 3)² = 36. Onde está a antena e qual é o seu alcance?",
+      "alternativas": {
+        "a": "no ponto (−4, 3), com alcance de 6 km",
+        "b": "no ponto (4, −3), com alcance de 36 km",
+        "c": "no ponto (4, 3), com alcance de 6 km",
+        "d": "no ponto (−4, −3), com alcance de 36 km",
+        "e": "no ponto (4, −3), com alcance de 6 km"
+      },
+      "resposta": "e",
+      "explicacao": "Comparando com a forma (x − a)² + (y − b)² = r², temos a = 4 e b = −3, porque (y + 3) equivale a (y − (−3)), e r = √36 = 6. As opções que dão alcance 36 confundem o raio com o seu quadrado; e as que trocam os sinais das coordenadas leem o sinal da equação como se fosse o da coordenada, quando ele é o oposto."
+    }
+  ]
+}

@@ -3,19 +3,18 @@
     "questoes":  [
                      {
                          "id":  "matematica-rlm-01",
-                         "texto_apoio":  "",
-                         "enunciado":  "Uma padaria de bairro manteve por muito tempo o preço da cesta de pães em R$ 250,00. Com a alta do trigo, o dono decidiu repassar aos clientes um aumento de 12%. Qual passou a ser o preço da cesta?",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "enunciado":  "Uma rampa de acessibilidade foi construída com 8 metros de comprimento, formando um ângulo de 30° com o piso. Qual é o desnível vencido pela rampa, ou seja, a altura entre suas duas extremidades?",
                          "alternativas":  {
-                                              "a":  "R$ 262,00",
-                                              "b":  "R$ 270,00",
-                                              "c":  "R$ 280,00",
-                                              "d":  "R$ 275,00",
-                                              "e":  "R$ 300,00"
+                                              "a":  "2 metros",
+                                              "b":  "4√3 metros, aproximadamente 6,9 metros",
+                                              "c":  "4 metros",
+                                              "d":  "8 metros",
+                                              "e":  "16 metros"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O aumento corresponde a 250 × 0,12 = 30. Somando ao valor original: 250 + 30 = 280. Logo, o novo preço é R$ 280,00.",
-                         "formato":  "direta",
-                         "banca":  "fgv"
+                         "explicacao":  "A altura é o cateto oposto ao ângulo de 30°, e a rampa é a hipotenusa: altura = 8 · sen 30° = 8 · 0,5 = 4 metros. O valor de 4√3 vem de usar o cosseno em lugar do seno, que daria a distância horizontal e não o desnível; 8 metros seria supor que a rampa é vertical; 2 metros divide por 4 em vez de por 2; e 16 metros multiplica pela hipotenusa em vez de tomar a fração dela."
                      },
                      {
                          "id":  "matematica-rlm-02",
@@ -35,51 +34,48 @@
                      },
                      {
                          "id":  "matematica-rlm-03",
-                         "texto_apoio":  "",
-                         "enunciado":  "Numa obra vale a seguinte regra: todos os operários trabalham no mesmo ritmo, e esse ritmo não muda com o tamanho da equipe. Com 8 operários, um muro fica pronto em 15 dias. Em quantos dias 12 operários concluem o mesmo muro?",
-                         "alternativas":  {
-                                              "a":  "18 dias",
-                                              "b":  "12 dias",
-                                              "c":  "20 dias",
-                                              "d":  "8 dias",
-                                              "e":  "10 dias"
-                                          },
-                         "resposta":  "e",
-                         "explicacao":  "O número de operários e o número de dias são grandezas inversamente proporcionais. Assim, 8 × 15 = 12 × x, logo x = 120 ÷ 12 = 10 dias.",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "Um topógrafo, posicionado no solo a 30 metros da base de uma torre de transmissão, mede o ângulo entre o solo e a linha que vai até o topo da torre, obtendo 60°. Desprezando a altura do instrumento, qual é a altura da torre?",
+                         "alternativas":  {
+                                              "a":  "15√3 metros, aproximadamente 26,0 metros",
+                                              "b":  "30 metros",
+                                              "c":  "60 metros",
+                                              "d":  "30√3 metros, aproximadamente 51,9 metros",
+                                              "e":  "10√3 metros, aproximadamente 17,3 metros"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A altura é o cateto oposto ao ângulo medido e os 30 metros são o cateto adjacente, então a razão que os liga é a tangente: altura = 30 · tg 60° = 30√3, cerca de 51,9 metros. O resultado de 15√3 corresponderia a uma distância de 15 metros; 30 metros suporia ângulo de 45°, único caso em que altura e distância se igualam; 60 metros dobra a distância sem usar razão alguma; e 10√3 divide a distância por 3 antes de multiplicar."
                      },
                      {
                          "id":  "matematica-rlm-04",
-                         "texto_apoio":  "",
-                         "enunciado":  "Uma gráfica opera sob a regra de que cada máquina imprime em ritmo constante e de que as máquinas não interferem umas nas outras. Uma delas imprime 4.500 folhas em 3 horas. Quantas folhas 2 máquinas idênticas imprimem funcionando ao mesmo tempo durante 5 horas?",
-                         "alternativas":  {
-                                              "a":  "12.000 folhas",
-                                              "b":  "7.500 folhas",
-                                              "c":  "22.500 folhas",
-                                              "d":  "9.000 folhas",
-                                              "e":  "15.000 folhas"
-                                          },
-                         "resposta":  "e",
-                         "explicacao":  "Cada máquina imprime 4.500 ÷ 3 = 1.500 folhas por hora. Com 2 máquinas funcionando por 5 horas: 2 × 5 × 1.500 = 15.000 folhas.",
+                         "banca":  "insper",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "Num projeto de instalação vale a regra de que todo cabo de sustentação é esticado em linha reta, do topo do poste até um ponto fixado no solo. Um poste tem 12 metros de altura e o ponto de fixação está a 9 metros da base, no plano horizontal. Qual é o comprimento do cabo?",
+                         "alternativas":  {
+                                              "a":  "21 metros",
+                                              "b":  "15 metros",
+                                              "c":  "3 metros",
+                                              "d":  "√21 metros",
+                                              "e":  "108 metros"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Poste, solo e cabo formam um triângulo retângulo em que o cabo é a hipotenusa: c² = 12² + 9² = 144 + 81 = 225, logo c = 15 metros. Somar 12 com 9 e obter 21 trataria os catetos como se estivessem alinhados; 3 metros é a diferença entre eles; √21 soma os números antes de extrair a raiz, em vez de somar os quadrados; e 108 multiplica os catetos, que daria o dobro da área e não um comprimento."
                      },
                      {
                          "id":  "matematica-rlm-05",
-                         "texto_apoio":  "",
-                         "enunciado":  "Numa turma de teatro da escola, para cada 3 meninos inscritos há 5 meninas. A turma tem 40 alunos ao todo. Quantos são os meninos?",
+                         "banca":  "insper",
+                         "formato":  "direta",
+                         "enunciado":  "Considere as definições: um número é racional quando pode ser escrito como razão entre dois inteiros, e é irracional quando sua representação decimal é infinita e NÃO periódica. Qual dos números a seguir é irracional?",
                          "alternativas":  {
-                                              "a":  "20",
-                                              "b":  "12",
-                                              "c":  "15",
-                                              "d":  "10",
-                                              "e":  "25"
+                                              "a":  "0,75",
+                                              "b":  "4/9",
+                                              "c":  "√7",
+                                              "d":  "−3",
+                                              "e":  "2,333... (com o algarismo 3 repetindo-se indefinidamente)"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A proporção 3:5 divide o total em 3 + 5 = 8 partes iguais. Cada parte corresponde a 40 ÷ 8 = 5 alunos. Como os meninos correspondem a 3 partes: 3 × 5 = 15 meninos.",
-                         "formato":  "direta",
-                         "banca":  "fgv"
+                         "explicacao":  "A raiz quadrada de 7 não resulta em decimal finita nem periódica, e não pode ser escrita como razão de inteiros: é irracional. O número 0,75 equivale a 3/4 e é racional; 4/9 já está na forma de razão; −3 é inteiro, e todo inteiro é racional; e 2,333... é dízima PERIÓDICA, o que a torna racional, igual a 7/3 — confundir dízima periódica com número irracional é o erro mais comum neste item, e a definição do enunciado existe para separar os dois casos."
                      },
                      {
                          "id":  "matematica-rlm-06",
@@ -131,19 +127,18 @@
                      },
                      {
                          "id":  "matematica-rlm-09",
-                         "texto_apoio":  "",
-                         "enunciado":  "Um candidato anotou as notas que obteve nos cinco últimos simulados: 7,0; 8,5; 6,0; 9,0 e 7,5. Qual é a média aritmética dessas notas?",
+                         "banca":  "insper",
+                         "formato":  "direta",
+                         "enunciado":  "Considere a regra de que, num triângulo retângulo, sen 30° = 0,5 e cos 30° = √3/2. Um triângulo retângulo tem hipotenusa de 10 cm e um de seus ângulos agudos mede 30°. Quanto mede o cateto adjacente a esse ângulo de 30°?",
                          "alternativas":  {
-                                              "a":  "7,8",
-                                              "b":  "7,4",
-                                              "c":  "8,0",
-                                              "d":  "7,0",
-                                              "e":  "7,6"
+                                              "a":  "5 cm",
+                                              "b":  "10 cm",
+                                              "c":  "10√3 cm",
+                                              "d":  "5√2 cm",
+                                              "e":  "5√3 cm"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A soma das notas é 7,0 + 8,5 + 6,0 + 9,0 + 7,5 = 38,0. Dividindo pelo número de avaliações: 38,0 ÷ 5 = 7,6.",
-                         "formato":  "direta",
-                         "banca":  "fgv"
+                         "explicacao":  "O cateto adjacente se relaciona com a hipotenusa pelo cosseno: cateto = 10 · cos 30° = 10 · √3/2 = 5√3 cm. O valor de 5 cm é o cateto OPOSTO ao ângulo de 30°, obtido pelo seno — é o erro de trocar as duas razões; 10 cm repetiria a hipotenusa; 10√3 multiplica pela hipotenusa inteira sem dividir por 2; e 5√2 usa a razão de 45°, e não a de 30°."
                      },
                      {
                          "id":  "matematica-rlm-10",
@@ -259,99 +254,93 @@
                      },
                      {
                          "id":  "matematica-rlm-21",
-                         "texto_apoio":  "Uma progressão aritmética (PA) tem primeiro termo a1 = 5 e razão r = 4.",
-                         "enunciado":  "Qual é o valor do 10º termo dessa progressão aritmética?",
-                         "alternativas":  {
-                                              "a":  "36",
-                                              "b":  "41",
-                                              "c":  "40",
-                                              "d":  "38",
-                                              "e":  "45"
-                                          },
-                         "resposta":  "b",
-                         "explicacao":  "O termo geral de uma PA é an = a1 + (n − 1) × r. Assim, a10 = 5 + (10 − 1) × 4 = 5 + 36 = 41.",
+                         "banca":  "insper",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "Vale a regra conhecida como lei dos cossenos: num triângulo qualquer, a² = b² + c² − 2bc · cos A, em que A é o ângulo formado pelos lados b e c. Um terreno triangular tem dois lados medindo 5 m e 8 m, com ângulo de 60° entre eles. Quanto mede o terceiro lado?",
+                         "alternativas":  {
+                                              "a":  "13 m",
+                                              "b":  "√89 m",
+                                              "c":  "7 m",
+                                              "d":  "3 m",
+                                              "e":  "√129 m"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Aplicando a lei: a² = 25 + 64 − 2 · 5 · 8 · cos 60° = 89 − 80 · 0,5 = 89 − 40 = 49, logo a = 7 m. O valor de 13 m soma os dois lados, o que só ocorreria com ângulo de 180°; √89 esquece o termo do cosseno, ou seja, trata o triângulo como retângulo; 3 m é a diferença entre os lados, o limite inferior quando o ângulo tende a zero; e √129 soma 40 em vez de subtrair, invertendo o sinal do termo."
                      },
                      {
                          "id":  "matematica-rlm-22",
-                         "texto_apoio":  "Considere a progressão aritmética 5, 9, 13, 17, ..., cujo 10º termo é igual a 41.",
-                         "enunciado":  "Qual é a soma dos 10 primeiros termos dessa progressão aritmética?",
-                         "alternativas":  {
-                                              "a":  "410",
-                                              "b":  "220",
-                                              "c":  "205",
-                                              "d":  "215",
-                                              "e":  "230"
-                                          },
-                         "resposta":  "e",
-                         "explicacao":  "A soma dos n primeiros termos de uma PA é dada por Sn = n × (a1 + an) ÷ 2. Assim, S10 = 10 × (5 + 41) ÷ 2 = 10 × 46 ÷ 2 = 230.",
+                         "banca":  "insper",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "Adote a regra de conversão entre as duas unidades de ângulo: 180° correspondem a π radianos. A quantos radianos corresponde um ângulo de 210°?",
+                         "alternativas":  {
+                                              "a":  "3π/4",
+                                              "b":  "5π/6",
+                                              "c":  "4π/3",
+                                              "d":  "7π/6",
+                                              "e":  "11π/6"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Multiplicando pela razão de conversão: 210 · π/180 = 21π/18 = 7π/6. As demais correspondem a outros ângulos e servem para checar a conta: 3π/4 é 135°, 5π/6 é 150°, 4π/3 é 240° e 11π/6 é 330°. Note que 7π/6 é pouco maior que π, o que é coerente com 210° estar pouco além de 180°."
                      },
                      {
                          "id":  "matematica-rlm-23",
-                         "texto_apoio":  "Uma progressão geométrica (PG) tem primeiro termo a1 = 3 e razão q = 2.",
-                         "enunciado":  "Qual é o valor do 5º termo dessa progressão geométrica?",
-                         "alternativas":  {
-                                              "a":  "96",
-                                              "b":  "40",
-                                              "c":  "32",
-                                              "d":  "48",
-                                              "e":  "24"
-                                          },
-                         "resposta":  "d",
-                         "explicacao":  "O termo geral de uma PG é an = a1 × q^(n−1). Assim, a5 = 3 × 2^4 = 3 × 16 = 48.",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "A altura de uma cabine de roda-gigante, em metros, varia com o tempo t, em segundos, segundo a função h(t) = 12 + 10 · sen(πt/15). Qual é, respectivamente, a altura máxima alcançada pela cabine e o tempo que a roda leva para completar uma volta?",
+                         "alternativas":  {
+                                              "a":  "12 metros e 15 segundos",
+                                              "b":  "22 metros e 30 segundos",
+                                              "c":  "10 metros e 30 segundos",
+                                              "d":  "22 metros e 15 segundos",
+                                              "e":  "32 metros e 30 segundos"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O seno varia entre −1 e 1, então a altura vai de 12 − 10 = 2 até 12 + 10 = 22 metros. O tempo de uma volta é o período: como o coeficiente de t é π/15, o período vale 2π ÷ (π/15) = 30 segundos. A altura de 12 metros é o valor médio, no eixo da roda, e não o máximo; 10 metros é o raio, não a altura; 15 segundos é meia volta, o tempo de subir do ponto mais baixo ao mais alto; e 32 metros somaria o valor médio ao dobro do raio."
                      },
                      {
                          "id":  "matematica-rlm-24",
-                         "texto_apoio":  "Um dado comum, com faces numeradas de 1 a 6, é lançado uma única vez, sendo cada face igualmente provável de ocorrer.",
-                         "enunciado":  "Qual é a probabilidade de o resultado obtido ser um número par?",
-                         "alternativas":  {
-                                              "a":  "5/6",
-                                              "b":  "1/2",
-                                              "c":  "1/3",
-                                              "d":  "1/6",
-                                              "e":  "2/3"
-                                          },
-                         "resposta":  "b",
-                         "explicacao":  "Os números pares entre 1 e 6 são 2, 4 e 6, totalizando 3 resultados favoráveis em 6 possíveis. A probabilidade é 3/6 = 1/2, ou seja, 50%.",
+                         "banca":  "insper",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "Vale a regra de que toda dízima periódica é um número racional e pode ser convertida em fração. A qual fração corresponde a dízima 0,444... , com o algarismo 4 repetindo-se indefinidamente?",
+                         "alternativas":  {
+                                              "a":  "4/9",
+                                              "b":  "44/100",
+                                              "c":  "4/10",
+                                              "d":  "2/5",
+                                              "e":  "1/4"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Chamando x = 0,444..., temos 10x = 4,444... e, subtraindo, 9x = 4, logo x = 4/9. As frações 4/10 e 2/5 valem 0,4 exato, sem repetição; 44/100 vale 0,44, com apenas dois algarismos; e 1/4 vale 0,25. Todas truncam a dízima em algum ponto, e é justamente o fato de a repetição ser infinita que produz o denominador 9."
                      },
                      {
                          "id":  "matematica-rlm-25",
-                         "texto_apoio":  "Uma urna contém 4 bolas vermelhas e 6 bolas azuis, todas de mesmo tamanho e peso, totalizando 10 bolas.",
-                         "enunciado":  "Retirando-se uma bola ao acaso dessa urna, qual é a probabilidade de que ela seja vermelha?",
+                         "banca":  "insper",
+                         "formato":  "direta",
+                         "enunciado":  "Considere a propriedade √a · √b = √(a·b), válida para a e b não negativos. Efetuando o produto √2 · √8, obtém-se",
                          "alternativas":  {
-                                              "a":  "50%",
-                                              "b":  "30%",
-                                              "c":  "60%",
-                                              "d":  "40%",
-                                              "e":  "20%"
+                                              "a":  "um número irracional.",
+                                              "b":  "um número racional não inteiro.",
+                                              "c":  "2√10.",
+                                              "d":  "o número natural 4.",
+                                              "e":  "16."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A probabilidade é dada pelo número de casos favoráveis dividido pelo número total de casos possíveis: 4 ÷ 10 = 0,40, ou seja, 40%.",
-                         "formato":  "direta",
-                         "banca":  "insper"
+                         "explicacao":  "Pela propriedade, √2 · √8 = √16 = 4, que é natural. O caso é instrutivo porque mostra que o produto de dois irracionais pode ser racional. A opção 2√10 soma os radicandos em vez de multiplicá-los; 16 é o radicando do resultado, e esquece de extrair a raiz; e as opções que classificam o resultado como irracional ou como racional não inteiro contrariam o valor obtido."
                      },
                      {
                          "id":  "matematica-rlm-26",
-                         "texto_apoio":  "Um terreno retangular tem 8 metros de largura por 5 metros de comprimento.",
-                         "enunciado":  "Qual é a área desse terreno?",
+                         "banca":  "insper",
+                         "formato":  "direta",
+                         "enunciado":  "Considere a cadeia de inclusões entre os conjuntos numéricos: os naturais estão contidos nos inteiros, que estão contidos nos racionais, que estão contidos nos reais. Qual das afirmações a seguir é verdadeira?",
                          "alternativas":  {
-                                              "a":  "20 m²",
-                                              "b":  "40 m²",
-                                              "c":  "35 m²",
-                                              "d":  "26 m²",
-                                              "e":  "13 m²"
+                                              "a":  "Todo número racional é inteiro.",
+                                              "b":  "Todo número inteiro é racional.",
+                                              "c":  "Todo número real é racional.",
+                                              "d":  "Nenhum número natural é racional.",
+                                              "e":  "Todo número irracional é inteiro."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A área de um retângulo é calculada pelo produto entre largura e comprimento: 8 × 5 = 40 m².",
-                         "formato":  "direta",
-                         "banca":  "fgv"
+                         "explicacao":  "Qualquer inteiro n pode ser escrito como n/1, o que satisfaz a definição de racional — é a inclusão que a cadeia do enunciado afirma. Dizer que todo racional é inteiro inverte a inclusão, e 1/2 é o contraexemplo; dizer que todo real é racional ignora os irracionais, como √2; dizer que nenhum natural é racional contraria a cadeia inteira; e irracional e inteiro são categorias que não se cruzam, pois todo inteiro é racional."
                      },
                      {
                          "id":  "matematica-rlm-27",
@@ -435,67 +424,63 @@
                      },
                      {
                          "id":  "matematica-rlm-32",
-                         "texto_apoio":  "Em uma turma, o conjunto A representa os 30 alunos que praticam algum esporte, e o conjunto B representa os 25 alunos que participam de algum grupo de estudos. Sabe-se que 10 alunos fazem parte de ambos os grupos (A ∩ B).",
-                         "enunciado":  "Quantos alunos, ao todo, praticam esporte ou participam de grupo de estudos (ou ambos), ou seja, qual é o número de elementos de A ∪ B?",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "enunciado":  "Uma transportadora cobra, por entrega, uma taxa fixa de R$ 80,00 mais R$ 12,00 por caixa transportada. Um comerciante dispõe de R$ 500,00 e quer saber quantas caixas, no máximo, consegue enviar numa única entrega.",
                          "alternativas":  {
-                                              "a":  "50",
-                                              "b":  "35",
-                                              "c":  "55",
-                                              "d":  "40",
-                                              "e":  "45"
+                                              "a":  "41 caixas",
+                                              "b":  "42 caixas",
+                                              "c":  "36 caixas",
+                                              "d":  "34 caixas",
+                                              "e":  "35 caixas"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Pelo princípio da inclusão-exclusão: |A ∪ B| = |A| + |B| − |A ∩ B| = 30 + 25 − 10 = 45.",
-                         "formato":  "direta",
-                         "banca":  "fgv"
+                         "explicacao":  "A condição é 80 + 12x ≤ 500, ou seja, 12x ≤ 420 e x ≤ 35. Como o número de caixas é inteiro, o máximo é 35. As opções de 41 e 42 caixas vêm de dividir 500 por 12 sem descontar a taxa fixa; 36 caixas arredonda para cima e estoura o orçamento em R$ 12,00; e 34 caixas desperdiça uma caixa que ainda caberia."
                      },
                      {
                          "id":  "matematica-rlm-33",
-                         "texto_apoio":  "Em uma pesquisa com 50 pessoas, 20 disseram gostar de café, 25 disseram gostar de chá, e 8 disseram gostar de ambas as bebidas.",
-                         "enunciado":  "Quantas pessoas, dentre as 50 entrevistadas, não gostam nem de café nem de chá?",
-                         "alternativas":  {
-                                              "a":  "13",
-                                              "b":  "17",
-                                              "c":  "8",
-                                              "d":  "5",
-                                              "e":  "22"
-                                          },
-                         "resposta":  "a",
-                         "explicacao":  "O número de pessoas que gostam de pelo menos uma das bebidas é |A ∪ B| = 20 + 25 − 8 = 37. Logo, as que não gostam de nenhuma das duas são 50 − 37 = 13.",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "banca":  "fgv"
+                         "enunciado":  "Um professor registrou as notas de quatro avaliações de um aluno: 2, 2, 6 e 6. Sabendo que a variância é a média dos quadrados dos desvios em relação à média, e que o desvio padrão é a raiz quadrada da variância, qual é o desvio padrão dessas notas?",
+                         "alternativas":  {
+                                              "a":  "0",
+                                              "b":  "4",
+                                              "c":  "2",
+                                              "d":  "16",
+                                              "e":  "8"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A média é (2+2+6+6)/4 = 4. Os desvios são −2, −2, 2 e 2, e seus quadrados somam 4+4+4+4 = 16. A variância é 16/4 = 4, e o desvio padrão é √4 = 2. A opção 4 é a VARIÂNCIA, e confundi-la com o desvio padrão é o erro central deste item; 16 é a soma dos quadrados, antes de dividir; 8 é a soma dos desvios em módulo; e 0 só ocorreria se todas as notas fossem iguais."
                      },
                      {
                          "id":  "matematica-rlm-34",
-                         "texto_apoio":  "Uma estante deve ser organizada com 4 livros diferentes, um ao lado do outro, em qualquer ordem.",
-                         "enunciado":  "De quantas formas distintas esses 4 livros podem ser organizados na estante?",
-                         "alternativas":  {
-                                              "a":  "4",
-                                              "b":  "12",
-                                              "c":  "24",
-                                              "d":  "8",
-                                              "e":  "16"
-                                          },
-                         "resposta":  "c",
-                         "explicacao":  "O número de formas de organizar 4 elementos distintos em sequência é dado pelo fatorial de 4: 4! = 4 × 3 × 2 × 1 = 24.",
+                         "banca":  "insper",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "Considere a relação fundamental da trigonometria, válida para qualquer arco x: sen²x + cos²x = 1. Sabendo que sen x = 3/5 e que x é um arco do primeiro quadrante, qual é o valor de cos x?",
+                         "alternativas":  {
+                                              "a":  "2/5",
+                                              "b":  "5/3",
+                                              "c":  "−4/5",
+                                              "d":  "1/5",
+                                              "e":  "4/5"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Substituindo na relação: cos²x = 1 − (3/5)² = 1 − 9/25 = 16/25, logo cos x = 4/5, positivo porque no primeiro quadrante o cosseno é positivo. O valor −4/5 tem módulo correto mas sinal do segundo quadrante; 2/5 vem de subtrair as frações sem elevar ao quadrado; 5/3 é o inverso do seno, que seria a cossecante; e 1/5 subtrai 3/5 de 1 diretamente, ignorando os quadrados."
                      },
                      {
                          "id":  "matematica-rlm-35",
-                         "texto_apoio":  "Uma comissão de 2 pessoas deve ser formada a partir de um grupo de 5 candidatos, sem distinção de função entre os dois membros escolhidos (ou seja, a ordem de escolha não importa).",
-                         "enunciado":  "De quantas formas diferentes essa comissão de 2 pessoas pode ser formada?",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "enunciado":  "Um escritório de arquitetura apresenta a maquete de um edifício construída na escala 1:200, o que significa que cada centímetro da maquete corresponde a 200 centímetros da construção real. A maquete tem 9 cm de altura. Qual será a altura real do edifício?",
                          "alternativas":  {
-                                              "a":  "20",
-                                              "b":  "5",
-                                              "c":  "10",
-                                              "d":  "15",
-                                              "e":  "25"
+                                              "a":  "1,8 metro",
+                                              "b":  "200 metros",
+                                              "c":  "18 metros",
+                                              "d":  "45 metros",
+                                              "e":  "180 metros"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Como a ordem não importa, trata-se de uma combinação: C(5,2) = 5! ÷ (2! × 3!) = (5 × 4) ÷ (2 × 1) = 20 ÷ 2 = 10.",
-                         "formato":  "direta",
-                         "banca":  "fgv"
+                         "explicacao":  "A altura real é 9 · 200 = 1.800 cm, que convertidos dão 18 metros. O valor de 180 metros é o erro de conversão mais comum, por esquecer que 1.800 cm são 18 m e não 180 m; 1,8 metro divide por 1.000 em vez de por 100; 45 metros divide a escala por 4 sem motivo; e 200 metros confunde o fator de escala com o resultado."
                      },
                      {
                          "id":  "matematica-rlm-36",
@@ -550,20 +535,18 @@
                      },
                      {
                          "id":  "matematica-rlm-39",
-                         "texto_apoio":  "",
-                         "enunciado":  "A mensalidade de uma escola sofreu dois reajustes seguidos: primeiro um aumento de 20% e, um trimestre depois, outro de 10% aplicado sobre o valor já reajustado. Qual foi o aumento percentual acumulado no período?",
-                         "alternativas":  {
-                                              "a":  "30%",
-                                              "b":  "22%",
-                                              "c":  "32%",
-                                              "d":  "33%",
-                                              "e":  "28%"
-                                          },
-                         "resposta":  "c",
-                         "explicacao":  "Os aumentos sucessivos multiplicam-se: 1,20 × 1,10 = 1,32, ou seja, um aumento acumulado de 32%, e não a simples soma dos percentuais (30%), pois o segundo aumento incide sobre o valor já reajustado pelo primeiro.",
-                         "dificuldade":  "dificil",
+                         "banca":  "insper",
                          "formato":  "direta",
-                         "banca":  "fgv"
+                         "enunciado":  "Vale a regra de que, em duas figuras semelhantes, a razão entre as áreas é igual ao QUADRADO da razão entre os lados correspondentes. Dois terrenos têm forma semelhante, com lados na razão de 2 para 5. Se o terreno menor tem 40 m² de área, qual é a área do maior?",
+                         "alternativas":  {
+                                              "a":  "100 m²",
+                                              "b":  "160 m²",
+                                              "c":  "200 m²",
+                                              "d":  "250 m²",
+                                              "e":  "1.000 m²"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A razão entre os lados é 5/2, então a razão entre as áreas é (5/2)² = 25/4. Logo a área maior é 40 · 25/4 = 250 m². O valor de 100 m² multiplica pela razão dos lados (5/2) e não pelo seu quadrado — é exatamente o erro que a regra do enunciado adverte; 160 m² eleva ao quadrado apenas o 2; 200 m² multiplica por 5; e 1.000 m² multiplica por 25 sem dividir por 4."
                      },
                      {
                          "id":  "matematica-rlm-40",
@@ -584,20 +567,18 @@
                      },
                      {
                          "id":  "matematica-rlm-41",
-                         "texto_apoio":  "",
-                         "enunciado":  "Um sistema de abastecimento segue a regra de que cada torneira despeja o mesmo volume por hora, qualquer que seja o número de torneiras abertas. Três torneiras idênticas, abertas juntas, enchem uma piscina em 8 horas. Em quantas horas quatro torneiras iguais enchem a mesma piscina?",
-                         "alternativas":  {
-                                              "a":  "6 horas",
-                                              "b":  "4 horas",
-                                              "c":  "7 horas",
-                                              "d":  "5 horas",
-                                              "e":  "8 horas"
-                                          },
-                         "resposta":  "a",
-                         "explicacao":  "Torneiras e tempo são inversamente proporcionais: 3 × 8 = 4 × x → x = 24 ÷ 4 = 6 horas.",
-                         "dificuldade":  "media",
+                         "banca":  "insper",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "Adote o teorema de Tales: um feixe de retas paralelas corta duas transversais determinando segmentos proporcionais. Três ruas paralelas cruzam duas avenidas. Na primeira avenida, os segmentos entre as ruas medem 12 m e 18 m. Na segunda avenida, o segmento correspondente ao de 12 m mede 20 m. Quanto mede o outro segmento da segunda avenida?",
+                         "alternativas":  {
+                                              "a":  "24 m",
+                                              "b":  "30 m",
+                                              "c":  "26 m",
+                                              "d":  "15 m",
+                                              "e":  "36 m"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A proporção é 12/18 = 20/x, de onde 12x = 360 e x = 30 m. O valor de 26 m soma 6 ao segmento conhecido, tratando a relação como aditiva em vez de proporcional — é o erro central que o teorema evita; 24 m usa a razão 12/20 invertida; 15 m divide em lugar de multiplicar; e 36 m dobra o 18 sem considerar a proporção com o 12."
                      },
                      {
                          "id":  "matematica-rlm-42",
@@ -686,20 +667,18 @@
                      },
                      {
                          "id":  "matematica-rlm-47",
-                         "texto_apoio":  "",
-                         "enunciado":  "Um corredor amador completa o percurso de 10 km de uma prova de rua em 50 minutos, mantendo ritmo constante. Qual foi a sua velocidade média, em quilômetros por hora?",
-                         "alternativas":  {
-                                              "a":  "10 km/h",
-                                              "b":  "15 km/h",
-                                              "c":  "12 km/h",
-                                              "d":  "20 km/h",
-                                              "e":  "14 km/h"
-                                          },
-                         "resposta":  "c",
-                         "explicacao":  "50 minutos equivalem a 50/60 = 5/6 de hora. A velocidade média é distância ÷ tempo = 10 ÷ (5/6) = 10 × 6/5 = 12 km/h.",
-                         "dificuldade":  "media",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "banca":  "fgv"
+                         "enunciado":  "Duas turmas fizeram a mesma prova e obtiveram exatamente a mesma média, 7,0. As notas da turma A foram 6, 7 e 8; as da turma B foram 4, 7 e 10. Sobre a dispersão dessas notas, é correto afirmar que",
+                         "alternativas":  {
+                                              "a":  "a turma A tem menor desvio padrão, porque suas notas se afastam menos da média.",
+                                              "b":  "as duas turmas têm exatamente o mesmo desvio padrão, uma vez que ambas partem da mesma média aritmética de 7,0 pontos.",
+                                              "c":  "a turma B tem menor desvio padrão, porque alcançou a maior nota individual.",
+                                              "d":  "não é possível comparar sem saber o número total de alunos de cada turma.",
+                                              "e":  "o desvio padrão é zero nas duas turmas, já que a média coincide."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Os desvios da turma A são −1, 0 e 1; os da turma B são −3, 0 e 3. Como o desvio padrão mede o afastamento típico em relação à média, o da turma A é menor. A afirmação de que médias iguais implicam dispersões iguais é exatamente o que este item desmonta: a média informa o centro e nada informa sobre o espalhamento. A maior nota individual não determina a dispersão; o número de alunos já está dado pelas notas listadas; e desvio zero exigiria todas as notas iguais."
                      },
                      {
                          "id":  "matematica-rlm-48",
@@ -788,20 +767,18 @@
                      },
                      {
                          "id":  "matematica-rlm-53",
-                         "texto_apoio":  "",
-                         "enunciado":  "Uma fábrica monta um quadro de tempos de produção em que a linha i indica o posto de trabalho e a coluna j indica o turno. O quadro tem ordem 2×3 e é preenchido pela regra a_ij = 2i − j. Qual é o valor registrado na célula a_23?",
-                         "alternativas":  {
-                                              "a":  "3",
-                                              "b":  "4",
-                                              "c":  "−1",
-                                              "d":  "1",
-                                              "e":  "7"
-                                          },
-                         "resposta":  "d",
-                         "explicacao":  "Aplicando a lei de formação a_ij = 2i − j ao elemento da linha 2 e coluna 3: a_23 = 2×2 − 3 = 4 − 3 = 1. Um erro comum é trocar os papéis de i (linha) e j (coluna) na fórmula, ou esquecer de subtrair o valor de j, usando apenas 2i.",
-                         "dificuldade":  "media",
+                         "banca":  "insper",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "Considere a seguinte classificação: duas retas do espaço são concorrentes quando têm um ponto comum, paralelas quando estão num mesmo plano e não se cruzam, e reversas quando não existe plano que contenha as duas. Num cubo, tome uma aresta da face inferior e uma aresta da face superior que não seja paralela a ela. Essas duas retas são",
+                         "alternativas":  {
+                                              "a":  "paralelas.",
+                                              "b":  "concorrentes.",
+                                              "c":  "coincidentes.",
+                                              "d":  "perpendiculares e concorrentes.",
+                                              "e":  "reversas."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "As duas arestas estão em faces opostas do cubo, então não têm ponto comum; e como o enunciado exclui o caso paralelo, não existe plano que contenha as duas. Isso é exatamente a definição de retas reversas, situação que só ocorre no espaço e não no plano. Elas não são concorrentes porque não se cruzam, e a alternativa que soma perpendicularidade à concorrência erra pelo mesmo motivo: pode haver ângulo de 90° entre as direções sem que as retas se encontrem."
                      },
                      {
                          "id":  "matematica-rlm-54",
@@ -924,20 +901,18 @@
                      },
                      {
                          "id":  "matematica-rlm-61",
-                         "texto_apoio":  "",
-                         "enunciado":  "Uma rifa vendeu 200 bilhetes numerados, e cada pessoa pode comprar quantos bilhetes quiser. Marcos comprou 8 bilhetes. Qual é a probabilidade de Marcos ser o ganhador, sabendo que apenas um bilhete será sorteado entre os 200 vendidos?",
-                         "alternativas":  {
-                                              "a":  "2%",
-                                              "b":  "4%",
-                                              "c":  "5%",
-                                              "d":  "16%",
-                                              "e":  "8%"
-                                          },
-                         "resposta":  "b",
-                         "explicacao":  "A probabilidade é o número de bilhetes de Marcos dividido pelo total de bilhetes vendidos: 8÷200=0,04, ou seja, 4%.",
-                         "dificuldade":  "media",
+                         "banca":  "insper",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "Adote as definições: a variância de um conjunto de dados é a média dos quadrados dos desvios em relação à média, e o desvio padrão é a raiz quadrada da variância. Um conjunto de dados tem desvio padrão igual a 3. Qual é a sua variância?",
+                         "alternativas":  {
+                                              "a":  "1,73",
+                                              "b":  "3",
+                                              "c":  "6",
+                                              "d":  "9",
+                                              "e":  "1,5"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Se o desvio padrão é a raiz da variância, então a variância é o quadrado do desvio padrão: 3² = 9. A opção 1,73 é a raiz de 3, ou seja, aplica a operação na direção contrária; 3 repete o desvio padrão, tratando as duas medidas como iguais; 6 dobra; e 1,5 divide por 2. A distinção importa na leitura de dados: a variância vem em unidade ao quadrado, e o desvio padrão na mesma unidade dos dados."
                      },
                      {
                          "id":  "matematica-rlm-62",
@@ -958,20 +933,18 @@
                      },
                      {
                          "id":  "matematica-rlm-63",
-                         "texto_apoio":  "",
-                         "enunciado":  "De quantas formas diferentes 5 pessoas podem se organizar em fila indiana, uma atrás da outra?",
-                         "alternativas":  {
-                                              "a":  "60",
-                                              "b":  "24",
-                                              "c":  "100",
-                                              "d":  "120",
-                                              "e":  "25"
-                                          },
-                         "resposta":  "d",
-                         "explicacao":  "O número de maneiras de organizar 5 pessoas em fila é dado pelo fatorial de 5: 5!=5×4×3×2×1=120.",
-                         "dificuldade":  "media",
+                         "banca":  "insper",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "Vale a regra de que a distância de um ponto a um plano é medida no segmento perpendicular ao plano, e que o pé dessa perpendicular é a projeção ortogonal do ponto. Uma luminária está fixada a 6 m do plano do piso de um galpão. Sua projeção ortogonal no piso está a 8 m da base de um pilar. Qual é a distância, em linha reta, da luminária até a base do pilar?",
+                         "alternativas":  {
+                                              "a":  "14 m",
+                                              "b":  "7 m",
+                                              "c":  "10 m",
+                                              "d":  "2 m",
+                                              "e":  "√14 m"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A altura de 6 m é perpendicular ao piso, então ela, os 8 m no piso e a distância procurada formam um triângulo retângulo: d² = 36 + 64 = 100, logo d = 10 m. Somar 6 com 8 e obter 14 m suporia que os dois segmentos estão alinhados, o que a perpendicularidade exclui; 2 m é a diferença entre eles; 7 m é a média; e √14 soma os números antes de elevar ao quadrado."
                      },
                      {
                          "id":  "matematica-rlm-64",
@@ -1060,20 +1033,18 @@
                      },
                      {
                          "id":  "matematica-rlm-69",
-                         "texto_apoio":  "",
-                         "enunciado":  "A população de uma pequena cidade cresce, aproximadamente, 10% ao ano, o que pode ser modelado como uma progressão geométrica. Se a população atual é de 8.000 habitantes, qual será a população aproximada daqui a 2 anos?",
-                         "alternativas":  {
-                                              "a":  "9.700",
-                                              "b":  "9.680",
-                                              "c":  "10.000",
-                                              "d":  "9.600",
-                                              "e":  "8.800"
-                                          },
-                         "resposta":  "b",
-                         "explicacao":  "Tratando o crescimento como uma PG de razão 1,10: população daqui a 2 anos = 8.000×(1,10)²=8.000×1,21=9.680 habitantes.",
-                         "dificuldade":  "media",
+                         "banca":  "insper",
                          "formato":  "direta",
-                         "banca":  "fgv"
+                         "enunciado":  "Adote as regras: num cubo de aresta a, a diagonal de uma face mede a√2 e a diagonal do cubo mede a√3. Uma peça em forma de cubo tem 4 cm de aresta. Quanto mede a diagonal do cubo, isto é, o segmento que liga dois vértices opostos passando pelo interior?",
+                         "alternativas":  {
+                                              "a":  "4√2 cm, aproximadamente 5,7 cm",
+                                              "b":  "12 cm",
+                                              "c":  "8 cm",
+                                              "d":  "4√3 cm, aproximadamente 6,9 cm",
+                                              "e":  "16√3 cm, aproximadamente 27,7 cm"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Basta aplicar a segunda regra: diagonal do cubo = 4√3 cm, cerca de 6,9 cm. O valor 4√2 é a diagonal da FACE, que liga dois vértices da mesma face e não atravessa o interior — é a confusão que as duas regras do enunciado servem para separar; 12 cm soma três arestas, o caminho pelas bordas e não em linha reta; 8 cm dobra a aresta; e 16√3 usa a área da face no lugar da aresta."
                      },
                      {
                          "id":  "matematica-rlm-70",
@@ -1094,20 +1065,18 @@
                      },
                      {
                          "id":  "matematica-rlm-71",
-                         "texto_apoio":  "",
-                         "enunciado":  "Um pacote com 8 unidades de um produto custa R$ 24,00. Mantendo o mesmo preço unitário, quanto custarão 20 unidades desse produto?",
-                         "alternativas":  {
-                                              "a":  "R$ 48,00",
-                                              "b":  "R$ 64,00",
-                                              "c":  "R$ 56,00",
-                                              "d":  "R$ 50,00",
-                                              "e":  "R$ 60,00"
-                                          },
-                         "resposta":  "e",
-                         "explicacao":  "O preço unitário é 24÷8=R$ 3,00. Para 20 unidades: 20×3=R$ 60,00.",
-                         "dificuldade":  "media",
+                         "banca":  "insper",
                          "formato":  "direta",
-                         "banca":  "fgv"
+                         "enunciado":  "Vale a regra de que somar uma mesma constante a todos os valores de um conjunto desloca as medidas de posição, mas não altera as medidas de dispersão. Uma empresa concede a todos os funcionários um aumento fixo de R$ 200,00. O que acontece com a média e com o desvio padrão dos salários?",
+                         "alternativas":  {
+                                              "a":  "Ambos aumentam em 200.",
+                                              "b":  "A média aumenta em 200 e o desvio padrão permanece o mesmo.",
+                                              "c":  "A média permanece a mesma e o desvio padrão aumenta em 200.",
+                                              "d":  "Ambos permanecem os mesmos.",
+                                              "e":  "A média aumenta em 200 e o desvio padrão dobra."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Somar a mesma quantia a todos os salários move o centro da distribuição em 200, mas as diferenças entre os salários continuam idênticas — e é dessas diferenças que o desvio padrão é feito. A opção que faz os dois subirem 200 é o erro que a regra do enunciado adverte. Se o aumento fosse PERCENTUAL, e não fixo, o desvio padrão também mudaria, porque as diferenças seriam multiplicadas."
                      },
                      {
                          "id":  "matematica-rlm-72",
@@ -1145,20 +1114,18 @@
                      },
                      {
                          "id":  "matematica-rlm-74",
-                         "texto_apoio":  "",
-                         "enunciado":  "Um terreno é representado em uma planta na escala 1:1.000. Na planta, esse terreno tem a forma de um quadrado com 4 cm de lado. Qual é a área real desse terreno, em metros quadrados?",
-                         "alternativas":  {
-                                              "a":  "40 m²",
-                                              "b":  "16.000 m²",
-                                              "c":  "400 m²",
-                                              "d":  "1.600 m²",
-                                              "e":  "160 m²"
-                                          },
-                         "resposta":  "d",
-                         "explicacao":  "Na escala 1:1.000, o lado real é 4×1.000=4.000 cm=40 m. A área real é 40×40=1.600 m². Um erro comum é multiplicar a área da planta diretamente pela escala linear (1.000), o que geraria um resultado incorreto — a escala de área é o quadrado da escala linear.",
-                         "dificuldade":  "dificil",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "Duas máquinas envasam garrafas com volume médio de 500 mL cada uma. A máquina A apresenta desvio padrão de 2 mL, e a máquina B, de 12 mL. Para um controle de qualidade que exige volume o mais uniforme possível entre as garrafas, qual conclusão é correta?",
+                         "alternativas":  {
+                                              "a":  "A máquina B é preferível, porque o desvio padrão maior indica maior capacidade de produção.",
+                                              "b":  "As duas são equivalentes, porque o volume médio é o mesmo.",
+                                              "c":  "A máquina B é preferível, porque alcança volumes maiores.",
+                                              "d":  "Nada se pode concluir sem conhecer a mediana dos volumes.",
+                                              "e":  "A máquina A é preferível, porque seus volumes variam menos em torno da média."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Com a mesma média, o desvio padrão menor indica garrafas mais parecidas entre si, que é exatamente o que o controle de qualidade pede. Tratar as duas como equivalentes por terem a mesma média ignora que a média não informa nada sobre a uniformidade. O desvio padrão não mede capacidade de produção nem volume máximo: mede espalhamento. E a mediana seria uma informação adicional de posição, não de dispersão."
                      },
                      {
                          "id":  "matematica-rlm-75",
@@ -1230,37 +1197,33 @@
                      },
                      {
                          "id":  "matematica-rlm-79",
-                         "texto_apoio":  "",
-                         "enunciado":  "Uma loja de calçados vendeu, em um dia, sapatos dos seguintes tamanhos: 38, 39, 38, 40, 41, 38, 39, 42. Qual é a moda desses tamanhos vendidos?",
-                         "alternativas":  {
-                                              "a":  "39,5",
-                                              "b":  "41",
-                                              "c":  "40",
-                                              "d":  "38",
-                                              "e":  "39"
-                                          },
-                         "resposta":  "d",
-                         "explicacao":  "A moda é o valor que mais se repete no conjunto. O tamanho 38 aparece 3 vezes, mais do que qualquer outro valor, sendo portanto a moda.",
-                         "dificuldade":  "media",
+                         "banca":  "insper",
                          "formato":  "direta",
-                         "banca":  "fgv"
+                         "enunciado":  "Considere a definição de logaritmo: log de x na base b é igual a y quando b elevado a y resulta em x. Qual é o valor de log₂ 32?",
+                         "alternativas":  {
+                                              "a":  "2",
+                                              "b":  "4",
+                                              "c":  "5",
+                                              "d":  "16",
+                                              "e":  "64"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Trata-se de responder a que expoente é preciso elevar 2 para obter 32. Como 2⁵ = 32, o logaritmo vale 5. A opção 16 é a metade de 32 e confunde o logaritmo com uma divisão; 64 é 2⁶ e responde à pergunta com o número errado; 4 corresponderia a 2⁴ = 16; e 2 é a base, não o expoente."
                      },
                      {
                          "id":  "matematica-rlm-80",
-                         "texto_apoio":  "",
-                         "enunciado":  "Os salários mensais de 6 funcionários de uma pequena empresa são, em reais: 2.000; 2.200; 2.100; 2.300; 2.000 e 15.000 (este último referente ao salário do proprietário). Comparando a média aritmética e a mediana desses seis salários, é correto afirmar que:",
-                         "alternativas":  {
-                                              "a":  "A média e a mediana coincidem, pois o número de funcionários é par e os salários estão em progressão aritmética",
-                                              "b":  "A média e a mediana são exatamente iguais nesse conjunto, já que os valores extremos se compensariam ao longo da lista de salários",
-                                              "c":  "A média é puxada para cima pelo salário do proprietário, tornando a mediana mais representativa do salário típico dos funcionários",
-                                              "d":  "A mediana não pode ser calculada nesse conjunto, pois há um número par de dados, exigindo uma fórmula diferente da usual",
-                                              "e":  "A média é bem menor que a mediana, pois não há valores discrepantes que pudessem distorcer o cálculo da média aritmética"
-                                          },
-                         "resposta":  "c",
-                         "explicacao":  "A média é (2.000+2.000+2.100+2.200+2.300+15.000)÷6≈R$ 4.266,67, valor distorcido para cima pelo salário do proprietário. Já a mediana, calculada pela média dos dois valores centrais (2.100 e 2.200) do conjunto ordenado, é R$ 2.150,00, valor bem mais representativo do salário típico, o que ilustra como a mediana é menos sensível a valores extremos (outliers) do que a média.",
-                         "dificuldade":  "dificil",
+                         "banca":  "insper",
                          "formato":  "direta",
-                         "banca":  "fgv"
+                         "enunciado":  "Considere a relação de Euler, válida para todo poliedro convexo: V − A + F = 2, em que V é o número de vértices, A o de arestas e F o de faces. Um poliedro convexo tem 12 faces e 30 arestas. Quantos vértices ele tem?",
+                         "alternativas":  {
+                                              "a":  "18",
+                                              "b":  "20",
+                                              "c":  "22",
+                                              "d":  "42",
+                                              "e":  "44"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Isolando V na relação: V = 2 + A − F = 2 + 30 − 12 = 20 vértices. O valor 42 soma arestas e faces, ignorando os sinais da relação; 44 soma tudo, inclusive o 2; 18 subtrai o 2 em vez de somá-lo; e 22 troca as posições de A e F, calculando 2 + 12 − (−8) ou variação equivalente. Vale conferir: 20 − 30 + 12 = 2, como a relação exige."
                      },
                      {
                          "id":  "matematica-rlm-86",
@@ -1417,20 +1380,18 @@
                      },
                      {
                          "id":  "matematica-rlm-95",
-                         "texto_apoio":  "",
-                         "enunciado":  "Em uma turma de 35 alunos, 20 estudam inglês, 18 estudam espanhol, e todos os alunos estudam pelo menos um dos dois idiomas. Quantos alunos estudam os dois idiomas simultaneamente?",
+                         "banca":  "insper",
+                         "formato":  "direta",
+                         "enunciado":  "Adote a propriedade do logaritmo do produto: log(a · b) = log a + log b. Sabendo que log 2 ≈ 0,30 e log 3 ≈ 0,48, qual é o valor aproximado de log 6?",
                          "alternativas":  {
-                                              "a":  "3",
-                                              "b":  "2",
-                                              "c":  "38",
-                                              "d":  "8",
-                                              "e":  "5"
+                                              "a":  "0,78",
+                                              "b":  "0,144",
+                                              "c":  "0,18",
+                                              "d":  "1,60",
+                                              "e":  "0,30"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Como todos os 35 alunos estudam pelo menos um idioma, |A∪B|=35. Pela fórmula da inclusão-exclusão: 35=20+18−x, logo x=38−35=3 alunos estudam os dois idiomas.",
-                         "dificuldade":  "media",
-                         "formato":  "direta",
-                         "banca":  "fgv"
+                         "explicacao":  "Como 6 = 2 · 3, o logaritmo do produto é a soma dos logaritmos: 0,30 + 0,48 = 0,78. A opção 0,144 multiplica os logaritmos, aplicando ao logaritmo a operação que ele justamente transforma em soma — é o erro que a propriedade do enunciado previne; 0,18 subtrai, o que corresponderia a log(3/2); 1,60 divide 0,48 por 0,30; e 0,30 repete log 2."
                      },
                      {
                          "id":  "matematica-rlm-96",
@@ -1485,20 +1446,18 @@
                      },
                      {
                          "id":  "matematica-rlm-99",
-                         "texto_apoio":  "",
-                         "enunciado":  "Para obter a cor verde desejada, um pintor mistura tinta azul e amarela na proporção de 2 partes de azul para 3 partes de amarela. Se ele usar 8 litros de tinta azul, quantos litros de tinta amarela deverá usar para manter essa proporção?",
-                         "alternativas":  {
-                                              "a":  "8 litros",
-                                              "b":  "16 litros",
-                                              "c":  "10 litros",
-                                              "d":  "14 litros",
-                                              "e":  "12 litros"
-                                          },
-                         "resposta":  "e",
-                         "explicacao":  "Mantendo a proporção 2:3, temos 2/3=8/x. Resolvendo: 2x=24, logo x=12 litros de tinta amarela.",
-                         "dificuldade":  "media",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "A escala Richter, usada para medir terremotos, é logarítmica: um acréscimo de 1 unidade na magnitude corresponde a uma amplitude de onda dez vezes maior. Um sismo de magnitude 7 tem amplitude quantas vezes maior que a de um sismo de magnitude 4?",
+                         "alternativas":  {
+                                              "a":  "3 vezes",
+                                              "b":  "30 vezes",
+                                              "c":  "100 vezes",
+                                              "d":  "1.000 vezes",
+                                              "e":  "10.000 vezes"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A diferença de magnitude é 7 − 4 = 3, e cada unidade multiplica a amplitude por 10, logo o fator é 10³ = 1.000. A opção de 3 vezes lê a escala como se fosse linear, que é precisamente o que uma escala logarítmica não é; 30 vezes multiplica a diferença por 10 em lugar de usá-la como expoente; 100 vezes usa expoente 2; e 10.000 usa expoente 4."
                      },
                      {
                          "id":  "matematica-rlm-100",
@@ -1519,20 +1478,18 @@
                      },
                      {
                          "id":  "matematica-rlm-101",
-                         "texto_apoio":  "",
-                         "enunciado":  "Uma receita de bolo, para 8 pessoas, utiliza 3 ovos. Mantendo a mesma proporção, quantos ovos serão necessários para fazer essa receita para apenas 4 pessoas, sabendo que os ovos podem ser usados em quantidades fracionárias (por exemplo, meio ovo batido e dividido)?",
-                         "alternativas":  {
-                                              "a":  "2,5 ovos",
-                                              "b":  "1 ovo",
-                                              "c":  "3 ovos",
-                                              "d":  "1,5 ovos",
-                                              "e":  "2 ovos"
-                                          },
-                         "resposta":  "d",
-                         "explicacao":  "Mantendo a proporção, a quantidade de ovos para 4 pessoas é (3÷8)×4=1,5 ovo.",
-                         "dificuldade":  "media",
+                         "banca":  "insper",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "Vale a regra de que, se b elevado a x é igual a n, então x é o logaritmo de n na base b. Uma cultura de bactérias dobra de tamanho a cada hora. Em quantas horas ela se torna 8 vezes maior do que era no início?",
+                         "alternativas":  {
+                                              "a":  "2 horas",
+                                              "b":  "3 horas",
+                                              "c":  "4 horas",
+                                              "d":  "6 horas",
+                                              "e":  "8 horas"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A condição é 2ˣ = 8, e como 8 = 2³, temos x = 3 horas. A opção de 8 horas trata o crescimento como se fosse aditivo, uma hora por unidade de tamanho — é exatamente a confusão entre crescimento exponencial e linear; 4 horas divide 8 por 2; 6 horas multiplica 3 por 2; e 2 horas corresponderia a quadruplicar, não a octuplicar."
                      },
                      {
                          "id":  "matematica-rlm-102",
@@ -1621,20 +1578,18 @@
                      },
                      {
                          "id":  "matematica-rlm-107",
-                         "texto_apoio":  "",
-                         "enunciado":  "Em um baralho comum de 52 cartas, uma carta é retirada ao acaso. Qual é a probabilidade de essa carta ser um rei (existem 4 reis no baralho)?",
-                         "alternativas":  {
-                                              "a":  "1/4",
-                                              "b":  "1/26",
-                                              "c":  "1/13",
-                                              "d":  "1/12",
-                                              "e":  "4/52"
-                                          },
-                         "resposta":  "c",
-                         "explicacao":  "Há 4 reis em um baralho de 52 cartas. A probabilidade é 4/52=1/13.",
-                         "dificuldade":  "media",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "O nível sonoro N, em decibéis, relaciona-se com a intensidade I do som pela expressão N = 10 · log(I/I₀), em que I₀ é uma intensidade de referência. Se a intensidade de um som é 10.000 vezes a de referência, qual é o seu nível sonoro?",
+                         "alternativas":  {
+                                              "a":  "4 decibéis",
+                                              "b":  "10 decibéis",
+                                              "c":  "10.000 decibéis",
+                                              "d":  "100 decibéis",
+                                              "e":  "40 decibéis"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Substituindo, N = 10 · log(10.000) = 10 · log(10⁴) = 10 · 4 = 40 decibéis. A opção de 4 decibéis calcula o logaritmo e esquece de multiplicar por 10; 10.000 decibéis usa a razão de intensidades como se fosse o próprio nível, ignorando a escala logarítmica; 100 decibéis eleva ao quadrado; e 10 decibéis usa apenas o fator da fórmula."
                      },
                      {
                          "id":  "matematica-rlm-108",
@@ -1655,20 +1610,18 @@
                      },
                      {
                          "id":  "matematica-rlm-109",
-                         "texto_apoio":  "",
-                         "enunciado":  "A probabilidade de um candidato ser aprovado em determinado processo seletivo é de 35%. Qual é a probabilidade de esse candidato NÃO ser aprovado?",
-                         "alternativas":  {
-                                              "a":  "55%",
-                                              "b":  "70%",
-                                              "c":  "75%",
-                                              "d":  "65%",
-                                              "e":  "35%"
-                                          },
-                         "resposta":  "d",
-                         "explicacao":  "Como a probabilidade de aprovação é 35%, a probabilidade do evento complementar (não aprovação) é 100%−35%=65%.",
-                         "dificuldade":  "media",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "banca":  "fgv"
+                         "enunciado":  "Um terreno retangular tem 34 metros de perímetro e 60 metros quadrados de área. Quais são as suas dimensões?",
+                         "alternativas":  {
+                                              "a":  "10 m e 6 m",
+                                              "b":  "15 m e 4 m",
+                                              "c":  "12 m e 5 m",
+                                              "d":  "20 m e 3 m",
+                                              "e":  "34 m e 60 m"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Se x e y são os lados, o perímetro dá x + y = 17 e a área dá x · y = 60. Os dois números que somam 17 e multiplicam 60 são 12 e 5, raízes de x² − 17x + 60 = 0. As opções 10 e 6, 15 e 4 e 20 e 3 têm produto 60, mas somam 16, 19 e 23, ou seja, satisfazem a área e violam o perímetro — conferir as DUAS condições é o que este item cobra. A última opção confunde as próprias medidas de perímetro e área com as dimensões."
                      },
                      {
                          "id":  "matematica-rlm-110",
@@ -1689,20 +1642,18 @@
                      },
                      {
                          "id":  "matematica-rlm-111",
-                         "texto_apoio":  "",
-                         "enunciado":  "Um restaurante oferece, no prato executivo, 3 opções de entrada, 4 opções de prato principal e 2 opções de sobremesa. De quantas formas diferentes um cliente pode montar seu prato executivo, escolhendo uma opção de cada categoria?",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "enunciado":  "Uma oficina vai produzir caixas metálicas SEM TAMPA, em forma de prisma reto de base quadrada, com 20 cm de lado na base e 15 cm de altura. Quantos centímetros quadrados de chapa são necessários para uma caixa, considerando o fundo e as quatro laterais?",
                          "alternativas":  {
-                                              "a":  "36",
-                                              "b":  "20",
-                                              "c":  "24",
-                                              "d":  "9",
-                                              "e":  "12"
+                                              "a":  "1.200 cm²",
+                                              "b":  "1.400 cm²",
+                                              "c":  "1.600 cm²",
+                                              "d":  "2.000 cm²",
+                                              "e":  "6.000 cm²"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Pelo princípio fundamental da contagem, o número total de combinações é o produto das opções em cada categoria: 3×4×2=24.",
-                         "dificuldade":  "media",
-                         "formato":  "direta",
-                         "banca":  "insper"
+                         "explicacao":  "O fundo é um quadrado de 20 por 20, com 400 cm². Cada lateral é um retângulo de 20 por 15, com 300 cm², e são quatro, somando 1.200 cm². O total é 400 + 1.200 = 1.600 cm². A opção de 1.200 cm² conta só as laterais e esquece o fundo; 2.000 cm² soma o fundo duas vezes, como se houvesse tampa; 1.400 cm² usa apenas três laterais; e 6.000 cm² é o VOLUME da caixa em centímetros cúbicos, não a área da chapa."
                      },
                      {
                          "id":  "matematica-rlm-112",
@@ -1825,20 +1776,18 @@
                      },
                      {
                          "id":  "matematica-rlm-119",
-                         "texto_apoio":  "",
-                         "enunciado":  "Mantendo uma velocidade média constante de 80 km/h, um carro percorre certa distância em 3 horas. Mantendo essa mesma velocidade média, quanto tempo esse carro levaria para percorrer uma distância 50% maior?",
-                         "alternativas":  {
-                                              "a":  "4 horas",
-                                              "b":  "3,5 horas",
-                                              "c":  "4,5 horas",
-                                              "d":  "5 horas",
-                                              "e":  "6 horas"
-                                          },
-                         "resposta":  "c",
-                         "explicacao":  "A distância original é 80×3=240 km. Uma distância 50% maior é 240×1,5=360 km. Mantendo a mesma velocidade, o tempo necessário é 360÷80=4,5 horas.",
-                         "dificuldade":  "media",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "Um monumento tem a forma de uma pirâmide de base quadrada, com 30 metros de lado na base e 20 metros de altura. Qual é o volume desse monumento?",
+                         "alternativas":  {
+                                              "a":  "18.000 m³",
+                                              "b":  "900 m³",
+                                              "c":  "3.000 m³",
+                                              "d":  "2.000 m³",
+                                              "e":  "6.000 m³"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O volume da pirâmide é um terço do produto da área da base pela altura: (1/3) · 900 · 20 = 6.000 m³. O valor de 18.000 m³ é o volume do PRISMA de mesma base e altura, ou seja, esqueceu o terço — é o erro mais frequente nesse tipo de item; 900 m³ é apenas a área da base; 2.000 m³ divide por 9 em vez de por 3; e 3.000 m³ toma metade do prisma em lugar de um terço."
                      },
                      {
                          "id":  "matematica-rlm-120",
@@ -1859,20 +1808,18 @@
                      },
                      {
                          "id":  "matematica-rlm-121",
-                         "texto_apoio":  "",
-                         "enunciado":  "Um sistema de estoque registra numa matriz de ordem 2×3 a quantidade de três produtos em duas lojas, obtendo A = [[4, 7, 1], [2, 5, 9]]. O relatório mensal exige a mesma informação disposta com os produtos nas linhas e as lojas nas colunas. Qual é a matriz transposta de A (Aᵀ), de ordem 3×2?",
+                         "banca":  "insper",
+                         "formato":  "direta",
+                         "enunciado":  "Vale a regra de que, num paralelepípedo retângulo de dimensões a, b e c, a maior distância entre dois de seus vértices é dada pela diagonal d = √(a² + b² + c²). Uma caixa tem dimensões internas de 3 cm, 4 cm e 12 cm. Qual é o comprimento da maior haste rígida e reta que cabe inteiramente dentro dela?",
                          "alternativas":  {
-                                              "a":  "[[4, 7, 1], [2, 5, 9]]",
-                                              "b":  "[[2, 4], [5, 7], [9, 1]]",
-                                              "c":  "[[4, 1], [7, 9], [2, 5]]",
-                                              "d":  "[[4, 2], [7, 5], [1, 9]]",
-                                              "e":  "[[1, 9], [7, 5], [4, 2]]"
+                                              "a":  "19 cm",
+                                              "b":  "5 cm",
+                                              "c":  "12 cm",
+                                              "d":  "13 cm",
+                                              "e":  "√19 cm"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Na transposição de uma matriz, as linhas se tornam colunas, mantendo a ordem dos elementos: a primeira linha de A (4,7,1) torna-se a primeira coluna de Aᵀ, e a segunda linha de A (2,5,9) torna-se a segunda coluna de Aᵀ. Assim, Aᵀ = [[4,2],[7,5],[1,9]]. Um erro comum é apenas inverter a ordem dos elementos dentro de cada linha, sem de fato trocar linhas por colunas.",
-                         "dificuldade":  "media",
-                         "formato":  "direta",
-                         "banca":  "insper"
+                         "explicacao":  "Aplicando a regra: d² = 9 + 16 + 144 = 169, logo d = 13 cm. O valor de 19 cm soma as três dimensões, o caminho pelas arestas e não em linha reta; 12 cm é a maior aresta, que ignora a possibilidade de atravessar a caixa na diagonal; 5 cm é a diagonal da face de 3 por 4, insuficiente porque despreza a terceira dimensão; e √19 soma os números antes de elevar ao quadrado."
                      },
                      {
                          "id":  "matematica-rlm-122",
@@ -1893,37 +1840,33 @@
                      },
                      {
                          "id":  "matematica-rlm-123",
-                         "texto_apoio":  "",
-                         "enunciado":  "Uma transportadora usa 5 caminhões idênticos para transportar toda uma carga, cada um fazendo 6 viagens. Mantendo a mesma capacidade por viagem, quantas viagens cada um dos caminhões precisaria fazer se a empresa usasse apenas 3 caminhões desse tipo?",
-                         "alternativas":  {
-                                              "a":  "8 viagens",
-                                              "b":  "10 viagens",
-                                              "c":  "12 viagens",
-                                              "d":  "9 viagens",
-                                              "e":  "15 viagens"
-                                          },
-                         "resposta":  "b",
-                         "explicacao":  "O total de viagens necessárias para transportar toda a carga é fixo: 5×6=30 viagens. Usando apenas 3 caminhões, cada um precisará fazer 30÷3=10 viagens para que o total de viagens realizadas continue sendo 30.",
-                         "dificuldade":  "media",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "Um reservatório de água tem a forma de um cilindro com 2 metros de raio da base e 5 metros de altura. Adotando π ≈ 3,14, qual é a capacidade desse reservatório, em litros? (Lembre que 1 m³ corresponde a 1.000 litros.)",
+                         "alternativas":  {
+                                              "a":  "6.280 litros",
+                                              "b":  "31.400 litros",
+                                              "c":  "62.800 litros",
+                                              "d":  "125.600 litros",
+                                              "e":  "628.000 litros"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O volume do cilindro é a área da base vezes a altura: 3,14 · 2² · 5 = 3,14 · 20 = 62,8 m³, que correspondem a 62.800 litros. A opção de 31.400 litros usa o raio sem elevá-lo ao quadrado; 125.600 litros dobra o resultado, erro de usar o diâmetro como raio; e 6.280 e 628.000 litros erram por um fator de dez na conversão de metros cúbicos para litros."
                      },
                      {
                          "id":  "matematica-rlm-124",
-                         "texto_apoio":  "",
-                         "enunciado":  "Numa fábrica, 10 funcionários, trabalhando 8 horas por dia, produzem 400 peças em 5 dias. Mantendo o mesmo ritmo de produção por funcionário, quantas peças serão produzidas por 15 funcionários, trabalhando 6 horas por dia, durante 4 dias?",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "enunciado":  "A receita mensal de uma empresa, em milhares de reais, é descrita pela função R(x) = −2x² + 40x, em que x é o preço unitário praticado, em reais. Qual preço unitário maximiza a receita, e qual é a receita máxima?",
                          "alternativas":  {
-                                              "a":  "360 peças",
-                                              "b":  "330 peças",
-                                              "c":  "300 peças",
-                                              "d":  "450 peças",
-                                              "e":  "400 peças"
+                                              "a":  "preço 10 e receita 200",
+                                              "b":  "preço 20 e receita 0",
+                                              "c":  "preço 5 e receita 150",
+                                              "d":  "preço 40 e receita 200",
+                                              "e":  "preço 10 e receita 400"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A taxa de produção é 400÷(10×8×5)=400÷400=1 peça por funcionário-hora. Para o novo cenário: 15×6×4=360 funcionário-horas, o que resulta em 360×1=360 peças.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta",
-                         "banca":  "insper"
+                         "explicacao":  "Como o coeficiente de x² é negativo, a parábola tem concavidade para baixo e o vértice é o ponto de máximo. O preço que o produz é x = −40/(2 · (−2)) = 10, e a receita nesse ponto é R(10) = −200 + 400 = 200. A opção com preço 20 corresponde a uma das RAÍZES da função, onde a receita é zero, e não ao máximo — confundir raiz com vértice é o erro central; preço 40 usa o coeficiente linear diretamente; e a receita de 400 esquece o termo negativo."
                      },
                      {
                          "id":  "matematica-rlm-125",
@@ -1961,20 +1904,18 @@
                      },
                      {
                          "id":  "matematica-rlm-127",
-                         "texto_apoio":  "",
-                         "enunciado":  "Uma roleta de jogo é dividida em 8 setores iguais, numerados de 1 a 8. Qual é a probabilidade de o ponteiro parar em um número maior que 5?",
-                         "alternativas":  {
-                                              "a":  "5/8",
-                                              "b":  "1/2",
-                                              "c":  "1/4",
-                                              "d":  "1/8",
-                                              "e":  "3/8"
-                                          },
-                         "resposta":  "e",
-                         "explicacao":  "Os números maiores que 5, entre 1 e 8, são 6, 7 e 8, totalizando 3 casos favoráveis em 8 possíveis. A probabilidade é 3/8.",
-                         "dificuldade":  "media",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "Numa campanha de arrecadação, o número de doações de R$ 50,00 foi o triplo do número de doações de R$ 20,00, e não houve doações de outros valores. O total arrecadado foi de R$ 1.700,00. Quantas doações de R$ 20,00 a campanha recebeu?",
+                         "alternativas":  {
+                                              "a":  "5",
+                                              "b":  "20",
+                                              "c":  "30",
+                                              "d":  "10",
+                                              "e":  "15"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Chamando de x o número de doações de R$ 20,00, as de R$ 50,00 são 3x, e a equação fica 20x + 50 · 3x = 1.700, ou seja, 170x = 1.700 e x = 10. A opção 30 é o número de doações de R$ 50,00, e não o pedido pelo enunciado; 20 confunde o valor da doação com a quantidade; 5 divide o resultado correto pela metade; e 15 seria o caso de as quantidades estarem na razão inversa."
                      },
                      {
                          "id":  "matematica-rlm-128",
@@ -2012,20 +1953,18 @@
                      },
                      {
                          "id":  "matematica-rlm-130",
-                         "texto_apoio":  "Considere os mesmos dados de vendas trimestrais: 1º trimestre: 50 mil; 2º trimestre: 70 mil; 3º trimestre: 60 mil; 4º trimestre: 90 mil, em reais.",
-                         "enunciado":  "Qual foi a variação percentual das vendas do 3º para o 4º trimestre?",
-                         "alternativas":  {
-                                              "a":  "60%",
-                                              "b":  "33%",
-                                              "c":  "50%",
-                                              "d":  "20%",
-                                              "e":  "30%"
-                                          },
-                         "resposta":  "c",
-                         "explicacao":  "A variação percentual é calculada em relação ao valor inicial (3º trimestre): (90−60)÷60×100=30÷60×100=50%.",
-                         "dificuldade":  "media",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "banca":  "fgv"
+                         "enunciado":  "Considere a equação do segundo grau x² − 7x + 12 = 0. Quais são as suas raízes?",
+                         "alternativas":  {
+                                              "a":  "1 e 12",
+                                              "b":  "3 e 4",
+                                              "c":  "−3 e −4",
+                                              "d":  "2 e 6",
+                                              "e":  "7 e 12"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "As raízes são os dois números cuja soma é 7 e cujo produto é 12, o que dá 3 e 4. A opção −3 e −4 tem o produto correto mas soma −7, e portanto resolveria x² + 7x + 12 = 0 — é o erro de sinal mais frequente; 1 e 12 e 2 e 6 têm produto 12 mas somas 13 e 8; e 7 e 12 repete os coeficientes da equação em lugar de resolvê-la."
                      },
                      {
                          "id":  "matematica-rlm-131",
@@ -2097,37 +2036,33 @@
                      },
                      {
                          "id":  "matematica-rlm-135",
-                         "texto_apoio":  "",
-                         "enunciado":  "Uma planilha registra na matriz A = [[2, −1], [3, 4]] a variação de estoque de dois itens em dois depósitos. Para simular um cenário em que todo o movimento triplica, aplica-se o produto escalar 3A, isto é, multiplica-se a matriz pelo número 3. Qual é a matriz resultante?",
-                         "alternativas":  {
-                                              "a":  "[[5, 2], [6, 7]]",
-                                              "b":  "[[8, −1], [27, 64]]",
-                                              "c":  "[[6, −3], [9, 4]]",
-                                              "d":  "[[6, −1], [9, 12]]",
-                                              "e":  "[[6, −3], [9, 12]]"
-                                          },
-                         "resposta":  "e",
-                         "explicacao":  "Na multiplicação de uma matriz por um escalar, cada elemento é multiplicado por esse número: 3A = [[3×2, 3×(−1)], [3×3, 3×4]] = [[6,−3],[9,12]]. Um erro comum é somar o escalar a cada elemento em vez de multiplicar, ou aplicar a operação a apenas parte dos elementos da matriz.",
-                         "dificuldade":  "media",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "Uma indústria de alimentos vai imprimir rótulos que envolvem completamente a superfície lateral de latas cilíndricas, sem cobrir o fundo nem a tampa. Cada lata tem 5 cm de raio da base e 12 cm de altura. Adotando π ≈ 3,14, qual é a área de cada rótulo?",
+                         "alternativas":  {
+                                              "a":  "188,4 cm²",
+                                              "b":  "376,8 cm²",
+                                              "c":  "78,5 cm²",
+                                              "d":  "942 cm²",
+                                              "e":  "60 cm²"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Desenrolada, a superfície lateral é um retângulo cuja base é o comprimento da circunferência e cuja altura é a da lata: 2 · 3,14 · 5 · 12 = 376,8 cm². A opção de 188,4 cm² esquece o fator 2, ou seja, usa o raio no lugar do comprimento da circunferência; 78,5 cm² é a área da base, não da lateral; 942 cm² é a área TOTAL, somando fundo e tampa que o enunciado exclui; e 60 cm² multiplica raio por altura sem envolver π."
                      },
                      {
                          "id":  "matematica-rlm-136",
-                         "texto_apoio":  "",
-                         "enunciado":  "Uma montadora registra em A = [[1, 2], [3, 4]] a quantidade de duas peças usadas em dois modelos e em B = [[2, 0], [1, 5]] o custo de cada peça em dois fornecedores, ambas de ordem 2×2. O custo por modelo e por fornecedor sai do produto A × B. Qual é essa matriz?",
-                         "alternativas":  {
-                                              "a":  "[[2, 10], [3, 20]]",
-                                              "b":  "[[4, 10], [10, 20]]",
-                                              "c":  "[[3, 2], [4, 9]]",
-                                              "d":  "[[2, 0], [3, 20]]",
-                                              "e":  "[[4, 10], [6, 20]]"
-                                          },
-                         "resposta":  "b",
-                         "explicacao":  "No produto de matrizes, cada elemento da matriz resultante é a soma dos produtos dos elementos da linha correspondente de A pelos elementos da coluna correspondente de B. Por exemplo, o elemento da linha 1, coluna 1: (1×2)+(2×1)=4. Repetindo o processo, obtém-se A×B = [[4,10],[10,20]]. Um erro muito citado é multiplicar elemento a elemento (como numa soma disfarçada), o que não corresponde à definição de produto matricial.",
-                         "dificuldade":  "dificil",
+                         "banca":  "insper",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "Adote a regra de que o volume de um cone é dado por V = (1/3) · π · r² · h, em que r é o raio da base e h a altura. Um cone tem 3 cm de raio e 10 cm de altura. Usando π ≈ 3,14, qual é o seu volume?",
+                         "alternativas":  {
+                                              "a":  "282,6 cm³",
+                                              "b":  "31,4 cm³",
+                                              "c":  "90 cm³",
+                                              "d":  "30 cm³",
+                                              "e":  "94,2 cm³"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Aplicando a fórmula: (1/3) · 3,14 · 9 · 10 = (1/3) · 282,6 = 94,2 cm³. A opção de 282,6 cm³ é o resultado sem o terço, isto é, o volume do cilindro de mesma base e altura; 31,4 cm³ usa o raio sem elevá-lo ao quadrado; 90 cm³ e 30 cm³ deixam π de fora, com e sem o terço."
                      },
                      {
                          "id":  "matematica-rlm-137",
@@ -2148,20 +2083,18 @@
                      },
                      {
                          "id":  "matematica-rlm-138",
-                         "texto_apoio":  "",
-                         "enunciado":  "Uma cidade tem hoje 450.000 habitantes em uma área de 300 km² e projeta um crescimento populacional de 20% para os próximos 10 anos, sem alteração da área do município. Qual será, aproximadamente, a densidade demográfica dessa cidade daqui a 10 anos?",
-                         "alternativas":  {
-                                              "a":  "1.980 hab/km²",
-                                              "b":  "1.650 hab/km²",
-                                              "c":  "1.800 hab/km²",
-                                              "d":  "1.500 hab/km²",
-                                              "e":  "1.725 hab/km²"
-                                          },
-                         "resposta":  "c",
-                         "explicacao":  "A população projetada é 450.000×1,20=540.000 habitantes. Mantida a área de 300 km², a nova densidade será 540.000÷300=1.800 habitantes por km².",
-                         "dificuldade":  "dificil",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "banca":  "fgv"
+                         "enunciado":  "Um projétil é lançado do solo e sua altura, em metros, é dada por h(x) = −x² + 10x, em que x é a distância horizontal percorrida, também em metros. A que distância horizontal do ponto de lançamento o projétil retorna ao solo?",
+                         "alternativas":  {
+                                              "a":  "5 metros",
+                                              "b":  "25 metros",
+                                              "c":  "100 metros",
+                                              "d":  "20 metros",
+                                              "e":  "10 metros"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Retornar ao solo significa h(x) = 0, ou seja, x(10 − x) = 0, cujas soluções são x = 0, o lançamento, e x = 10, a queda. A opção de 5 metros é a distância em que o projétil atinge a ALTURA MÁXIMA, no vértice da parábola, e não onde ele cai — é a confusão entre vértice e raiz; 25 metros é o valor dessa altura máxima; 20 metros dobra o alcance; e 100 metros usa o quadrado do coeficiente."
                      },
                      {
                          "id":  "matematica-rlm-141",
@@ -2199,20 +2132,18 @@
                      },
                      {
                          "id":  "matematica-rlm-143",
-                         "texto_apoio":  "",
-                         "enunciado":  "Os preços de venda de 7 imóveis em um bairro, em milhares de reais, foram: 320, 280, 410, 350, 300, 390, 330. Qual é a mediana desses preços?",
-                         "alternativas":  {
-                                              "a":  "390",
-                                              "b":  "330",
-                                              "c":  "350",
-                                              "d":  "300",
-                                              "e":  "320"
-                                          },
-                         "resposta":  "b",
-                         "explicacao":  "Ordenando os valores: 280, 300, 320, 330, 350, 390, 410. Como há 7 valores, a mediana é o 4º valor da sequência ordenada, que é 330.",
-                         "dificuldade":  "media",
+                         "banca":  "insper",
                          "formato":  "direta",
-                         "banca":  "fgv"
+                         "enunciado":  "Vale a regra de que o volume de uma esfera é V = (4/3) · π · r³. Uma bola tem 3 cm de raio. Adotando π ≈ 3,14, qual é o seu volume?",
+                         "alternativas":  {
+                                              "a":  "28,26 cm³",
+                                              "b":  "84,78 cm³",
+                                              "c":  "113,04 cm³",
+                                              "d":  "339,12 cm³",
+                                              "e":  "36 cm³"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Aplicando a fórmula: (4/3) · 3,14 · 27 = (4/3) · 84,78 = 113,04 cm³. A opção de 84,78 cm³ é o resultado sem o fator 4/3; 28,26 cm³ eleva o raio ao quadrado em vez do cubo, calculando uma área e não um volume; 339,12 cm³ multiplica por 4 sem dividir por 3; e 36 cm³ ignora π."
                      },
                      {
                          "id":  "matematica-rlm-144",
@@ -2250,37 +2181,33 @@
                      },
                      {
                          "id":  "matematica-rlm-146",
-                         "texto_apoio":  "",
-                         "enunciado":  "Um sistema de conversão entre duas unidades de medida é descrito pela matriz A = [[1, 2], [3, 4]]. A conversão no sentido inverso exige a matriz inversa de A. Qual é essa matriz A⁻¹?",
+                         "banca":  "insper",
+                         "formato":  "direta",
+                         "enunciado":  "Considere um cone e um cilindro que têm exatamente a mesma base circular e exatamente a mesma altura. Qual é a razão entre o volume do cone e o volume do cilindro?",
                          "alternativas":  {
-                                              "a":  "[[−2, −1], [−3/2, −1/2]]",
-                                              "b":  "[[2, −1], [−3/2, 1/2]]",
-                                              "c":  "[[4, −2], [−3, 1]]",
-                                              "d":  "[[−2, 1], [3/2, −1/2]]",
-                                              "e":  "[[1, 2], [3, 4]]"
+                                              "a":  "1/2",
+                                              "b":  "2/3",
+                                              "c":  "3",
+                                              "d":  "1/3",
+                                              "e":  "1"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Para uma matriz 2×2, A = [[a,b],[c,d]], a inversa é A⁻¹ = (1/det A) × [[d,−b],[−c,a]], em que det A = ad−bc. Aqui, det A = 1×4 − 2×3 = 4−6 = −2. O adjugado é [[4,−2],[−3,1]]. Assim, A⁻¹ = (1/−2)×[[4,−2],[−3,1]] = [[−2, 1], [3/2, −1/2]]. Um erro comum é esquecer de dividir pelo determinante, apresentando apenas o adjugado como resposta final (b), ou errar o sinal do determinante, invertendo todos os sinais da matriz resultante (c ou d).",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta",
-                         "banca":  "insper"
+                         "explicacao":  "O volume do cilindro é πr²h e o do cone é (1/3)πr²h, então a razão entre eles é exatamente 1/3, qualquer que seja a base ou a altura. A razão 3 inverte os termos, dando o volume do cilindro em relação ao do cone; 1/2 confundiria o cone com metade do cilindro, o que corresponderia a um sólido diferente; 2/3 é o complemento do valor correto, ou seja, a fração do cilindro que sobra fora do cone; e 1 suporia volumes iguais."
                      },
                      {
                          "id":  "matematica-rlm-147",
-                         "texto_apoio":  "",
-                         "enunciado":  "Uma prova tem duração total de 4 horas para 60 questões, e um candidato pretende dedicar o mesmo tempo médio a cada questão. Se esse candidato decidir usar apenas metade do tempo total da prova para responder a todas as 60 questões, quanto tempo, em minutos, ele terá, em média, para cada questão?",
-                         "alternativas":  {
-                                              "a":  "2 minutos",
-                                              "b":  "5 minutos",
-                                              "c":  "3 minutos",
-                                              "d":  "4 minutos",
-                                              "e":  "1 minuto"
-                                          },
-                         "resposta":  "a",
-                         "explicacao":  "Metade do tempo total da prova é 4÷2=2 horas, ou seja, 120 minutos. Dividindo pelas 60 questões: 120÷60=2 minutos por questão, em média.",
-                         "dificuldade":  "media",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "banca":  "insper"
+                         "enunciado":  "O custo total de produção de uma fábrica cresce de forma linear com a quantidade produzida. Para 100 unidades, o custo é de R$ 700,00; para 300 unidades, é de R$ 1.500,00. Qual é a lei que descreve o custo C, em reais, em função da quantidade x?",
+                         "alternativas":  {
+                                              "a":  "C(x) = 7x",
+                                              "b":  "C(x) = 4x + 700",
+                                              "c":  "C(x) = 4x + 300",
+                                              "d":  "C(x) = 5x + 200",
+                                              "e":  "C(x) = 300x + 4"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A taxa de variação é (1.500 − 700)/(300 − 100) = 800/200 = 4 reais por unidade. Substituindo um dos pontos: 700 = 4 · 100 + b, logo b = 300, o custo fixo. A opção C(x) = 7x supõe custo proporcional, sem parcela fixa, e falha no segundo ponto; C(x) = 4x + 700 usa o custo total do primeiro ponto como se fosse o custo fixo; e a última opção troca de lugar o coeficiente e o termo constante."
                      },
                      {
                          "id":  "matematica-rlm-148",
@@ -2301,20 +2228,18 @@
                      },
                      {
                          "id":  "matematica-rlm-149",
-                         "texto_apoio":  "",
-                         "enunciado":  "A mensalidade de um curso preparatório é reajustada, todo início de ano, em um valor fixo de R$ 30,00 (reajuste em reais, não percentual). Se a mensalidade em 2024 era de R$ 450,00, qual será a mensalidade em 2027, após 3 reajustes anuais consecutivos?",
-                         "alternativas":  {
-                                              "a":  "R$ 600,00",
-                                              "b":  "R$ 570,00",
-                                              "c":  "R$ 540,00",
-                                              "d":  "R$ 480,00",
-                                              "e":  "R$ 510,00"
-                                          },
-                         "resposta":  "c",
-                         "explicacao":  "Como o reajuste é fixo (uma PA de razão 30), após 3 reajustes a mensalidade será 450+3×30=450+90=R$ 540,00.",
-                         "dificuldade":  "media",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "banca":  "fgv"
+                         "enunciado":  "Uma caixa d\u0027água é formada por um cilindro de 1 metro de raio e 3 metros de altura, encimado por uma semiesfera de mesmo raio, que funciona como cobertura arredondada. Adotando π ≈ 3,14, qual é aproximadamente o volume total da caixa?",
+                         "alternativas":  {
+                                              "a":  "11,51 m³",
+                                              "b":  "9,42 m³",
+                                              "c":  "13,61 m³",
+                                              "d":  "15,70 m³",
+                                              "e":  "6,28 m³"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O volume se decompõe em duas partes. O cilindro dá 3,14 · 1² · 3 = 9,42 m³. A semiesfera é metade de (4/3)π · 1³, ou seja, (2/3) · 3,14 ≈ 2,09 m³. O total é 9,42 + 2,09 ≈ 11,51 m³. A opção de 9,42 m³ considera só o cilindro e esquece a cobertura; 13,61 m³ soma a esfera INTEIRA em vez da metade; 15,70 m³ trata a cobertura como um cilindro adicional de 1 metro; e 6,28 m³ usa altura 2 no lugar de 3."
                      },
                      {
                          "id":  "matematica-rlm-150",
@@ -2335,37 +2260,33 @@
                      },
                      {
                          "id":  "matematica-rlm-151",
-                         "texto_apoio":  "",
-                         "enunciado":  "A inflação de um país foi de 10% em um ano e de 20% no ano seguinte. Qual foi a inflação acumulada no período de dois anos?",
-                         "alternativas":  {
-                                              "a":  "15%",
-                                              "b":  "33%",
-                                              "c":  "22%",
-                                              "d":  "30%",
-                                              "e":  "32%"
-                                          },
-                         "resposta":  "e",
-                         "explicacao":  "Percentuais sucessivos se multiplicam, não se somam: 1,10 × 1,20 = 1,32, ou seja, 32% de aumento acumulado. Somar 10% + 20% = 30% ignora que o segundo aumento incide sobre um valor já corrigido pelo primeiro.",
-                         "dificuldade":  "media",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "banca":  "fgv"
+                         "enunciado":  "Duas operadoras de internet oferecem planos por franquia de dados. A operadora A cobra R$ 60,00 fixos mais R$ 2,00 por gigabyte consumido; a operadora B cobra R$ 20,00 fixos mais R$ 6,00 por gigabyte. A partir de qual consumo mensal o plano A passa a ser mais barato que o plano B?",
+                         "alternativas":  {
+                                              "a":  "acima de 10 GB",
+                                              "b":  "acima de 20 GB",
+                                              "c":  "acima de 5 GB",
+                                              "d":  "abaixo de 10 GB",
+                                              "e":  "acima de 40 GB"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A condição é 60 + 2x \u003c 20 + 6x, o que dá 40 \u003c 4x e x \u003e 10 GB. Em 10 GB os dois planos custam R$ 80,00, e a partir daí a diferença de R$ 4,00 por gigabyte compensa a taxa fixa maior de A. A opção \u0027abaixo de 10 GB\u0027 inverte o sentido da desigualdade, e é ali que B é mais barato; 40 GB usa a diferença entre as taxas fixas sem dividir pela diferença entre os preços por gigabyte; e 20 e 5 GB erram por fator 2 nessa divisão."
                      },
                      {
                          "id":  "matematica-rlm-152",
-                         "texto_apoio":  "",
-                         "enunciado":  "O preço de uma ação caiu 20% em um mês e subiu 20% no mês seguinte. Em relação ao preço do início do período, o preço final ficou:",
-                         "alternativas":  {
-                                              "a":  "4% maior, pois a alta percentual incide sobre um valor já reduzido",
-                                              "b":  "igual ao inicial",
-                                              "c":  "20% menor",
-                                              "d":  "4% menor",
-                                              "e":  "4% maior"
-                                          },
-                         "resposta":  "d",
-                         "explicacao":  "0,80 × 1,20 = 0,96, isto é, 96% do preço inicial — uma queda de 4%. A alta de 20% incide sobre um valor já reduzido, portanto vale menos, em reais, do que a queda de 20% aplicada sobre o valor cheio. Percentuais iguais em sentidos opostos não se anulam.",
-                         "dificuldade":  "media",
+                         "banca":  "insper",
                          "formato":  "direta",
-                         "banca":  "fgv"
+                         "enunciado":  "Vale a regra de que, ao multiplicar TODAS as dimensões lineares de um sólido por um fator k, sua área se multiplica por k² e seu volume por k³. Uma embalagem tem capacidade de 250 mL. O fabricante lança uma versão com todas as dimensões dobradas, mantendo a mesma forma. Qual é a capacidade da nova embalagem?",
+                         "alternativas":  {
+                                              "a":  "500 mL",
+                                              "b":  "1.000 mL",
+                                              "c":  "2.000 mL",
+                                              "d":  "4.000 mL",
+                                              "e":  "250 mL"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Dobrar todas as dimensões significa k = 2, e o volume se multiplica por k³ = 8: 250 · 8 = 2.000 mL, ou 2 litros. A opção de 500 mL multiplica por k, tratando o volume como se fosse uma medida linear — é justamente o erro que a regra do enunciado adverte; 1.000 mL multiplica por k² = 4, que é o fator da ÁREA; 4.000 mL usa k⁴; e 250 mL suporia que a capacidade não muda."
                      },
                      {
                          "id":  "matematica-rlm-153",
@@ -2420,20 +2341,18 @@
                      },
                      {
                          "id":  "matematica-rlm-156",
-                         "texto_apoio":  "",
-                         "enunciado":  "Um veículo vale hoje R$ 60.000,00 e perde 20% do seu valor a cada ano. Qual será o valor desse veículo ao final de 2 anos?",
-                         "alternativas":  {
-                                              "a":  "R$ 38.400,00",
-                                              "b":  "R$ 48.000,00",
-                                              "c":  "R$ 39.000,00",
-                                              "d":  "R$ 36.000,00",
-                                              "e":  "R$ 40.000,00"
-                                          },
-                         "resposta":  "a",
-                         "explicacao":  "A perda incide sobre o valor do ano anterior: 60.000 × 0,80 = 48.000 no primeiro ano e 48.000 × 0,80 = R$ 38.400,00 no segundo. Somar as perdas (20% + 20% = 40%) daria R$ 36.000,00 e ignora que a segunda depreciação incide sobre um valor já reduzido.",
-                         "dificuldade":  "media",
+                         "banca":  "insper",
                          "formato":  "direta",
-                         "banca":  "fgv"
+                         "enunciado":  "Adote a regra de que a circunferência de centro (a, b) e raio r tem equação (x − a)² + (y − b)² = r². Qual é a equação da circunferência de centro (3, −2) e raio 5?",
+                         "alternativas":  {
+                                              "a":  "(x + 3)² + (y − 2)² = 25",
+                                              "b":  "(x − 3)² + (y − 2)² = 5",
+                                              "c":  "(x − 3)² + (y + 2)² = 5",
+                                              "d":  "(x − 3)² + (y + 2)² = 25",
+                                              "e":  "(x + 3)² + (y + 2)² = 25"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Substituindo a = 3, b = −2 e r = 5: (x − 3)² + (y − (−2))² = 5², ou seja, (x − 3)² + (y + 2)² = 25. As opções com sinais trocados dentro dos parênteses correspondem a centros diferentes, porque o sinal na equação é o OPOSTO do sinal da coordenada; e as que trazem 5 no lugar de 25 esquecem que o segundo membro é o raio ao QUADRADO."
                      },
                      {
                          "id":  "matematica-rlm-157",
@@ -2454,20 +2373,18 @@
                      },
                      {
                          "id":  "matematica-rlm-158",
-                         "texto_apoio":  "Uma cidade tem hoje 300.000 habitantes, dos quais 45.000 têm mais de 60 anos.",
-                         "enunciado":  "Projeta-se que, em dez anos, a população total cresça 20% e o número de habitantes com mais de 60 anos cresça 50%. Qual será, aproximadamente, a participação desse grupo na população total?",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "enunciado":  "No mapa de um parque, em que cada unidade equivale a 1 metro, o portão A está no ponto (1, 2) e o portão B no ponto (7, 10). Qual é, respectivamente, a distância entre os dois portões e as coordenadas do ponto médio do caminho reto que os liga?",
                          "alternativas":  {
-                                              "a":  "15,00%",
-                                              "b":  "30,00%",
-                                              "c":  "18,75%",
-                                              "d":  "22,50%",
-                                              "e":  "20,00%"
+                                              "a":  "8 metros e (4, 6)",
+                                              "b":  "10 metros e (8, 12)",
+                                              "c":  "10 metros e (4, 6)",
+                                              "d":  "14 metros e (4, 6)",
+                                              "e":  "10 metros e (3, 4)"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O grupo passa a 45.000 × 1,5 = 67.500 pessoas e a população total, a 300.000 × 1,2 = 360.000. A participação é 67.500 ÷ 360.000 = 0,1875, ou 18,75% — contra 15% hoje. Note que a participação sobe porque o grupo cresce mais rápido que o todo, e não na proporção do crescimento de 50%.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta",
-                         "banca":  "fgv"
+                         "explicacao":  "A distância é √((7−1)² + (10−2)²) = √(36 + 64) = √100 = 10 metros, e o ponto médio é a média das coordenadas: ((1+7)/2, (2+10)/2) = (4, 6). A opção de 14 metros soma as diferenças 6 e 8 em vez de somar seus quadrados; 8 metros usa apenas a maior diferença; o ponto (8, 12) soma as coordenadas sem dividir por 2; e (3, 4) toma a metade das diferenças em lugar da média das coordenadas."
                      },
                      {
                          "id":  "matematica-rlm-159",
@@ -2488,20 +2405,18 @@
                      },
                      {
                          "id":  "matematica-rlm-160",
-                         "texto_apoio":  "Vendas trimestrais de uma empresa, em milhares de reais: 1º trimestre, 120; 2º trimestre, 150; 3º trimestre, 135; 4º trimestre, 180.",
-                         "enunciado":  "Considerando a variação percentual de cada trimestre em relação ao trimestre imediatamente anterior, a maior variação em módulo ocorreu:",
-                         "alternativas":  {
-                                              "a":  "no 2º trimestre, com alta de exatamente 25%",
-                                              "b":  "no 4º trimestre, com alta de aproximadamente 33%",
-                                              "c":  "no 1º trimestre, com alta de aproximadamente 40%",
-                                              "d":  "no 3º trimestre, com queda de exatamente 10%",
-                                              "e":  "no 2º trimestre, com alta de 30 mil reais"
-                                          },
-                         "resposta":  "b",
-                         "explicacao":  "As variações são: 2º trimestre, 30/120 = +25%; 3º, −15/150 = −10%; 4º, 45/135 ≈ +33,3%. A maior em módulo é a do 4º trimestre. Repare que o 2º e o 4º subiram valores absolutos próximos (30 e 45 mil), mas o percentual depende da base sobre a qual se calcula.",
-                         "dificuldade":  "media",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "banca":  "fgv"
+                         "enunciado":  "A área coberta por uma antena de telefonia é descrita, num plano cartesiano em que cada unidade equivale a 1 quilômetro, pela equação (x − 4)² + (y + 3)² = 36. Onde está a antena e qual é o seu alcance?",
+                         "alternativas":  {
+                                              "a":  "no ponto (−4, 3), com alcance de 6 km",
+                                              "b":  "no ponto (4, −3), com alcance de 36 km",
+                                              "c":  "no ponto (4, 3), com alcance de 6 km",
+                                              "d":  "no ponto (−4, −3), com alcance de 36 km",
+                                              "e":  "no ponto (4, −3), com alcance de 6 km"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Comparando com a forma (x − a)² + (y − b)² = r², temos a = 4 e b = −3, porque (y + 3) equivale a (y − (−3)), e r = √36 = 6. As opções que dão alcance 36 confundem o raio com o seu quadrado; e as que trocam os sinais das coordenadas leem o sinal da equação como se fosse o da coordenada, quando ele é o oposto."
                      },
                      {
                          "id":  "matematica-rlm-161",

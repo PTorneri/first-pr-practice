@@ -1,0 +1,424 @@
+{
+  "_comentario": [
+    "Lote 1 das lacunas de Matematica: 25 questoes de GEOMETRIA e TRIGONOMETRIA.",
+    "",
+    "A auditoria contra o conteudo programatico de 2027 achou o maior buraco do",
+    "banco aqui. Nao havia um unico seno, cosseno ou tangente nas 1.992 questoes.",
+    "Cilindro, cone e esfera: zero. Geometria espacial de posicao e distancias:",
+    "zero. Poliedros, prisma e piramide: uma questao. E o estudo dos cadernos diz",
+    "que geometria e o MAIOR bloco nas duas bancas -- 3 de 15 na FGV, 5 a 6 de 15",
+    "na Insper.",
+    "",
+    "POR QUE SUBSTITUIR E NAO ACRESCENTAR. O plano de 90 dias percorre cada banco",
+    "numa janela sequencial e hoje alcanca 92% dele. Questao acrescentada no fim de",
+    "um banco pode nunca ser servida -- e lacuna preenchida com questao que o aluno",
+    "nao ve nao foi preenchida. Substituir no lugar poe o conteudo novo na mesma",
+    "posicao de rotacao que a antiga ocupava, e de graca mantem o tamanho do banco,",
+    "os ids e o plano intactos, o que respeita a linha de congelamento da fase 7.",
+    "",
+    "O QUE FOI SACRIFICADO, e por que sai sem prejuizo:",
+    "",
+    "  7 questoes de algebra de matrizes (53, 121, 135, 136, 146, e parte de 34/39)",
+    "    -- transposta, produto escalar, produto, inversa, lei de formacao. O",
+    "    programa da FGV NAO lista operacoes com matrizes: lista '5.6 Sistemas",
+    "    lineares', e as questoes de sistema (30, 31, 122, 145, 148) ficam todas.",
+    "  4 de variacao percentual sucessiva (01, 39, 149, 152) -- eram quatro",
+    "    executando a mesma mecanica; 08 e 151 continuam cobrindo-a.",
+    "  4 de regra de tres composta (03, 04, 41, 123) -- eram sete; 42 e 52 ficam,",
+    "    e 52 e a unica com trabalho parcial, que e a variante dificil.",
+    "  4 de PA/PG (21, 22, 23, 69) -- eram as versoes abstratas; 67, 68, 70, 105 e",
+    "    126 cobrem as mesmas formulas dentro de situacao.",
+    "  3 de contagem (34, 35, 63) -- permutacao simples repetida; 64 (com restricao",
+    "    de adjacencia), 65/66 (o par que contrasta letras distintas e repetidas),",
+    "    62, 111 e 132 ficam.",
+    "  3 de estatistica descritiva (09, 80, 143) -- media e mediana ja aparecem em",
+    "    10, 11, 78, 79, 144 e 154.",
+    "",
+    "Gabaritos: a=1 b=5 c=8 d=6 e=5, e banca fgv=9 insper=16 -- exatamente a",
+    "distribuicao das 25 substituidas, o que devolve a frente aos 30 de cada letra",
+    "e ao split 69/81 sem tocar nas outras 125.",
+    "",
+    "As de estilo Insper entregam a REGRA no enunciado (relacao de Euler, razao",
+    "entre areas de figuras semelhantes, formula do volume) e cobram a execucao; as",
+    "de estilo FGV embrulham a mesma conta numa situacao -- rampa de",
+    "acessibilidade, maquete, rotulo de lata, reservatorio."
+  ],
+  "subtopic": "matematica-rlm",
+  "questoes": [
+    {
+      "id": "matematica-rlm-01",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Uma rampa de acessibilidade foi construída com 8 metros de comprimento, formando um ângulo de 30° com o piso. Qual é o desnível vencido pela rampa, ou seja, a altura entre suas duas extremidades?",
+      "alternativas": {
+        "a": "2 metros",
+        "b": "4√3 metros, aproximadamente 6,9 metros",
+        "c": "4 metros",
+        "d": "8 metros",
+        "e": "16 metros"
+      },
+      "resposta": "c",
+      "explicacao": "A altura é o cateto oposto ao ângulo de 30°, e a rampa é a hipotenusa: altura = 8 · sen 30° = 8 · 0,5 = 4 metros. O valor de 4√3 vem de usar o cosseno em lugar do seno, que daria a distância horizontal e não o desnível; 8 metros seria supor que a rampa é vertical; 2 metros divide por 4 em vez de por 2; e 16 metros multiplica pela hipotenusa em vez de tomar a fração dela."
+    },
+    {
+      "id": "matematica-rlm-03",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Um topógrafo, posicionado no solo a 30 metros da base de uma torre de transmissão, mede o ângulo entre o solo e a linha que vai até o topo da torre, obtendo 60°. Desprezando a altura do instrumento, qual é a altura da torre?",
+      "alternativas": {
+        "a": "15√3 metros",
+        "b": "30 metros",
+        "c": "60 metros",
+        "d": "30√3 metros, aproximadamente 51,9 metros",
+        "e": "10√3 metros"
+      },
+      "resposta": "d",
+      "explicacao": "A altura é o cateto oposto ao ângulo medido e os 30 metros são o cateto adjacente, então a razão que os liga é a tangente: altura = 30 · tg 60° = 30√3. O resultado de 15√3 corresponderia a uma distância de 15 metros; 30 metros suporia ângulo de 45°, único caso em que altura e distância se igualam; 60 metros dobra a distância sem usar razão alguma; e 10√3 divide a distância por 3 antes de multiplicar."
+    },
+    {
+      "id": "matematica-rlm-04",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Num projeto de instalação vale a regra de que todo cabo de sustentação é esticado em linha reta, do topo do poste até um ponto fixado no solo. Um poste tem 12 metros de altura e o ponto de fixação está a 9 metros da base, no plano horizontal. Qual é o comprimento do cabo?",
+      "alternativas": {
+        "a": "21 metros",
+        "b": "15 metros",
+        "c": "3 metros",
+        "d": "√21 metros",
+        "e": "108 metros"
+      },
+      "resposta": "b",
+      "explicacao": "Poste, solo e cabo formam um triângulo retângulo em que o cabo é a hipotenusa: c² = 12² + 9² = 144 + 81 = 225, logo c = 15 metros. Somar 12 com 9 e obter 21 trataria os catetos como se estivessem alinhados; 3 metros é a diferença entre eles; √21 soma os números antes de extrair a raiz, em vez de somar os quadrados; e 108 multiplica os catetos, que daria o dobro da área e não um comprimento."
+    },
+    {
+      "id": "matematica-rlm-09",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Considere a regra de que, num triângulo retângulo, sen 30° = 0,5 e cos 30° = √3/2. Um triângulo retângulo tem hipotenusa de 10 cm e um de seus ângulos agudos mede 30°. Quanto mede o cateto adjacente a esse ângulo de 30°?",
+      "alternativas": {
+        "a": "5 cm",
+        "b": "10 cm",
+        "c": "10√3 cm",
+        "d": "5√2 cm",
+        "e": "5√3 cm"
+      },
+      "resposta": "e",
+      "explicacao": "O cateto adjacente se relaciona com a hipotenusa pelo cosseno: cateto = 10 · cos 30° = 10 · √3/2 = 5√3 cm. O valor de 5 cm é o cateto OPOSTO ao ângulo de 30°, obtido pelo seno — é o erro de trocar as duas razões; 10 cm repetiria a hipotenusa; 10√3 multiplica pela hipotenusa inteira sem dividir por 2; e 5√2 usa a razão de 45°, e não a de 30°."
+    },
+    {
+      "id": "matematica-rlm-21",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Vale a regra conhecida como lei dos cossenos: num triângulo qualquer, a² = b² + c² − 2bc · cos A, em que A é o ângulo formado pelos lados b e c. Um terreno triangular tem dois lados medindo 5 m e 8 m, com ângulo de 60° entre eles. Quanto mede o terceiro lado?",
+      "alternativas": {
+        "a": "13 m",
+        "b": "√89 m",
+        "c": "7 m",
+        "d": "3 m",
+        "e": "√129 m"
+      },
+      "resposta": "c",
+      "explicacao": "Aplicando a lei: a² = 25 + 64 − 2 · 5 · 8 · cos 60° = 89 − 80 · 0,5 = 89 − 40 = 49, logo a = 7 m. O valor de 13 m soma os dois lados, o que só ocorreria com ângulo de 180°; √89 esquece o termo do cosseno, ou seja, trata o triângulo como retângulo; 3 m é a diferença entre os lados, o limite inferior quando o ângulo tende a zero; e √129 soma 40 em vez de subtrair, invertendo o sinal do termo."
+    },
+    {
+      "id": "matematica-rlm-22",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Adote a regra de conversão entre as duas unidades de ângulo: 180° correspondem a π radianos. A quantos radianos corresponde um ângulo de 210°?",
+      "alternativas": {
+        "a": "3π/4",
+        "b": "5π/6",
+        "c": "4π/3",
+        "d": "7π/6",
+        "e": "11π/6"
+      },
+      "resposta": "d",
+      "explicacao": "Multiplicando pela razão de conversão: 210 · π/180 = 21π/18 = 7π/6. As demais correspondem a outros ângulos e servem para checar a conta: 3π/4 é 135°, 5π/6 é 150°, 4π/3 é 240° e 11π/6 é 330°. Note que 7π/6 é pouco maior que π, o que é coerente com 210° estar pouco além de 180°."
+    },
+    {
+      "id": "matematica-rlm-23",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "A altura de uma cabine de roda-gigante, em metros, varia com o tempo t, em segundos, segundo a função h(t) = 12 + 10 · sen(πt/15). Qual é, respectivamente, a altura máxima alcançada pela cabine e o tempo que a roda leva para completar uma volta?",
+      "alternativas": {
+        "a": "12 metros e 15 segundos",
+        "b": "22 metros e 30 segundos",
+        "c": "10 metros e 30 segundos",
+        "d": "22 metros e 15 segundos",
+        "e": "32 metros e 30 segundos"
+      },
+      "resposta": "b",
+      "explicacao": "O seno varia entre −1 e 1, então a altura vai de 12 − 10 = 2 até 12 + 10 = 22 metros. O tempo de uma volta é o período: como o coeficiente de t é π/15, o período vale 2π ÷ (π/15) = 30 segundos. A altura de 12 metros é o valor médio, no eixo da roda, e não o máximo; 10 metros é o raio, não a altura; 15 segundos é meia volta, o tempo de subir do ponto mais baixo ao mais alto; e 32 metros somaria o valor médio ao dobro do raio."
+    },
+    {
+      "id": "matematica-rlm-34",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Considere a relação fundamental da trigonometria, válida para qualquer arco x: sen²x + cos²x = 1. Sabendo que sen x = 3/5 e que x é um arco do primeiro quadrante, qual é o valor de cos x?",
+      "alternativas": {
+        "a": "2/5",
+        "b": "5/3",
+        "c": "−4/5",
+        "d": "1/5",
+        "e": "4/5"
+      },
+      "resposta": "e",
+      "explicacao": "Substituindo na relação: cos²x = 1 − (3/5)² = 1 − 9/25 = 16/25, logo cos x = 4/5, positivo porque no primeiro quadrante o cosseno é positivo. O valor −4/5 tem módulo correto mas sinal do segundo quadrante; 2/5 vem de subtrair as frações sem elevar ao quadrado; 5/3 é o inverso do seno, que seria a cossecante; e 1/5 subtrai 3/5 de 1 diretamente, ignorando os quadrados."
+    },
+    {
+      "id": "matematica-rlm-35",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Um escritório de arquitetura apresenta a maquete de um edifício construída na escala 1:200, o que significa que cada centímetro da maquete corresponde a 200 centímetros da construção real. A maquete tem 9 cm de altura. Qual será a altura real do edifício?",
+      "alternativas": {
+        "a": "1,8 metro",
+        "b": "200 metros",
+        "c": "18 metros",
+        "d": "45 metros",
+        "e": "180 metros"
+      },
+      "resposta": "c",
+      "explicacao": "A altura real é 9 · 200 = 1.800 cm, que convertidos dão 18 metros. O valor de 180 metros é o erro de conversão mais comum, por esquecer que 1.800 cm são 18 m e não 180 m; 1,8 metro divide por 1.000 em vez de por 100; 45 metros divide a escala por 4 sem motivo; e 200 metros confunde o fator de escala com o resultado."
+    },
+    {
+      "id": "matematica-rlm-39",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Vale a regra de que, em duas figuras semelhantes, a razão entre as áreas é igual ao QUADRADO da razão entre os lados correspondentes. Dois terrenos têm forma semelhante, com lados na razão de 2 para 5. Se o terreno menor tem 40 m² de área, qual é a área do maior?",
+      "alternativas": {
+        "a": "100 m²",
+        "b": "160 m²",
+        "c": "200 m²",
+        "d": "250 m²",
+        "e": "1.000 m²"
+      },
+      "resposta": "d",
+      "explicacao": "A razão entre os lados é 5/2, então a razão entre as áreas é (5/2)² = 25/4. Logo a área maior é 40 · 25/4 = 250 m². O valor de 100 m² multiplica pela razão dos lados (5/2) e não pelo seu quadrado — é exatamente o erro que a regra do enunciado adverte; 160 m² eleva ao quadrado apenas o 2; 200 m² multiplica por 5; e 1.000 m² multiplica por 25 sem dividir por 4."
+    },
+    {
+      "id": "matematica-rlm-41",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Adote o teorema de Tales: um feixe de retas paralelas corta duas transversais determinando segmentos proporcionais. Três ruas paralelas cruzam duas avenidas. Na primeira avenida, os segmentos entre as ruas medem 12 m e 18 m. Na segunda avenida, o segmento correspondente ao de 12 m mede 20 m. Quanto mede o outro segmento da segunda avenida?",
+      "alternativas": {
+        "a": "24 m",
+        "b": "30 m",
+        "c": "26 m",
+        "d": "15 m",
+        "e": "36 m"
+      },
+      "resposta": "b",
+      "explicacao": "A proporção é 12/18 = 20/x, de onde 12x = 360 e x = 30 m. O valor de 26 m soma 6 ao segmento conhecido, tratando a relação como aditiva em vez de proporcional — é o erro central que o teorema evita; 24 m usa a razão 12/20 invertida; 15 m divide em lugar de multiplicar; e 36 m dobra o 18 sem considerar a proporção com o 12."
+    },
+    {
+      "id": "matematica-rlm-53",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Considere a seguinte classificação: duas retas do espaço são concorrentes quando têm um ponto comum, paralelas quando estão num mesmo plano e não se cruzam, e reversas quando não existe plano que contenha as duas. Num cubo, tome uma aresta da face inferior e uma aresta da face superior que não seja paralela a ela. Essas duas retas são",
+      "alternativas": {
+        "a": "paralelas.",
+        "b": "concorrentes.",
+        "c": "coincidentes.",
+        "d": "perpendiculares e concorrentes.",
+        "e": "reversas."
+      },
+      "resposta": "e",
+      "explicacao": "As duas arestas estão em faces opostas do cubo, então não têm ponto comum; e como o enunciado exclui o caso paralelo, não existe plano que contenha as duas. Isso é exatamente a definição de retas reversas, situação que só ocorre no espaço e não no plano. Elas não são concorrentes porque não se cruzam, e a alternativa que soma perpendicularidade à concorrência erra pelo mesmo motivo: pode haver ângulo de 90° entre as direções sem que as retas se encontrem."
+    },
+    {
+      "id": "matematica-rlm-63",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Vale a regra de que a distância de um ponto a um plano é medida no segmento perpendicular ao plano, e que o pé dessa perpendicular é a projeção ortogonal do ponto. Uma luminária está fixada a 6 m do plano do piso de um galpão. Sua projeção ortogonal no piso está a 8 m da base de um pilar. Qual é a distância, em linha reta, da luminária até a base do pilar?",
+      "alternativas": {
+        "a": "14 m",
+        "b": "7 m",
+        "c": "10 m",
+        "d": "2 m",
+        "e": "√14 m"
+      },
+      "resposta": "c",
+      "explicacao": "A altura de 6 m é perpendicular ao piso, então ela, os 8 m no piso e a distância procurada formam um triângulo retângulo: d² = 36 + 64 = 100, logo d = 10 m. Somar 6 com 8 e obter 14 m suporia que os dois segmentos estão alinhados, o que a perpendicularidade exclui; 2 m é a diferença entre eles; 7 m é a média; e √14 soma os números antes de elevar ao quadrado."
+    },
+    {
+      "id": "matematica-rlm-69",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Adote as regras: num cubo de aresta a, a diagonal de uma face mede a√2 e a diagonal do cubo mede a√3. Uma peça em forma de cubo tem 4 cm de aresta. Quanto mede a diagonal do cubo, isto é, o segmento que liga dois vértices opostos passando pelo interior?",
+      "alternativas": {
+        "a": "4√2 cm",
+        "b": "12 cm",
+        "c": "8 cm",
+        "d": "4√3 cm, aproximadamente 6,9 cm",
+        "e": "16√3 cm"
+      },
+      "resposta": "d",
+      "explicacao": "Basta aplicar a segunda regra: diagonal do cubo = 4√3 cm. O valor 4√2 é a diagonal da FACE, que liga dois vértices da mesma face e não atravessa o interior — é a confusão que as duas regras do enunciado servem para separar; 12 cm soma três arestas, o caminho pelas bordas e não em linha reta; 8 cm dobra a aresta; e 16√3 usa a área da face no lugar da aresta."
+    },
+    {
+      "id": "matematica-rlm-80",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Considere a relação de Euler, válida para todo poliedro convexo: V − A + F = 2, em que V é o número de vértices, A o de arestas e F o de faces. Um poliedro convexo tem 12 faces e 30 arestas. Quantos vértices ele tem?",
+      "alternativas": {
+        "a": "18",
+        "b": "20",
+        "c": "22",
+        "d": "42",
+        "e": "44"
+      },
+      "resposta": "b",
+      "explicacao": "Isolando V na relação: V = 2 + A − F = 2 + 30 − 12 = 20 vértices. O valor 42 soma arestas e faces, ignorando os sinais da relação; 44 soma tudo, inclusive o 2; 18 subtrai o 2 em vez de somá-lo; e 22 troca as posições de A e F, calculando 2 + 12 − (−8) ou variação equivalente. Vale conferir: 20 − 30 + 12 = 2, como a relação exige."
+    },
+    {
+      "id": "matematica-rlm-111",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Uma oficina vai produzir caixas metálicas SEM TAMPA, em forma de prisma reto de base quadrada, com 20 cm de lado na base e 15 cm de altura. Quantos centímetros quadrados de chapa são necessários para uma caixa, considerando o fundo e as quatro laterais?",
+      "alternativas": {
+        "a": "1.200 cm²",
+        "b": "1.400 cm²",
+        "c": "1.600 cm²",
+        "d": "2.000 cm²",
+        "e": "6.000 cm²"
+      },
+      "resposta": "c",
+      "explicacao": "O fundo é um quadrado de 20 por 20, com 400 cm². Cada lateral é um retângulo de 20 por 15, com 300 cm², e são quatro, somando 1.200 cm². O total é 400 + 1.200 = 1.600 cm². A opção de 1.200 cm² conta só as laterais e esquece o fundo; 2.000 cm² soma o fundo duas vezes, como se houvesse tampa; 1.400 cm² usa apenas três laterais; e 6.000 cm² é o VOLUME da caixa em centímetros cúbicos, não a área da chapa."
+    },
+    {
+      "id": "matematica-rlm-119",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Um monumento tem a forma de uma pirâmide de base quadrada, com 30 metros de lado na base e 20 metros de altura. Qual é o volume desse monumento?",
+      "alternativas": {
+        "a": "18.000 m³",
+        "b": "900 m³",
+        "c": "3.000 m³",
+        "d": "2.000 m³",
+        "e": "6.000 m³"
+      },
+      "resposta": "e",
+      "explicacao": "O volume da pirâmide é um terço do produto da área da base pela altura: (1/3) · 900 · 20 = 6.000 m³. O valor de 18.000 m³ é o volume do PRISMA de mesma base e altura, ou seja, esqueceu o terço — é o erro mais frequente nesse tipo de item; 900 m³ é apenas a área da base; 2.000 m³ divide por 9 em vez de por 3; e 3.000 m³ toma metade do prisma em lugar de um terço."
+    },
+    {
+      "id": "matematica-rlm-121",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Vale a regra de que, num paralelepípedo retângulo de dimensões a, b e c, a maior distância entre dois de seus vértices é dada pela diagonal d = √(a² + b² + c²). Uma caixa tem dimensões internas de 3 cm, 4 cm e 12 cm. Qual é o comprimento da maior haste rígida e reta que cabe inteiramente dentro dela?",
+      "alternativas": {
+        "a": "19 cm",
+        "b": "5 cm",
+        "c": "12 cm",
+        "d": "13 cm",
+        "e": "√19 cm"
+      },
+      "resposta": "d",
+      "explicacao": "Aplicando a regra: d² = 9 + 16 + 144 = 169, logo d = 13 cm. O valor de 19 cm soma as três dimensões, o caminho pelas arestas e não em linha reta; 12 cm é a maior aresta, que ignora a possibilidade de atravessar a caixa na diagonal; 5 cm é a diagonal da face de 3 por 4, insuficiente porque despreza a terceira dimensão; e √19 soma os números antes de elevar ao quadrado."
+    },
+    {
+      "id": "matematica-rlm-123",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Um reservatório de água tem a forma de um cilindro com 2 metros de raio da base e 5 metros de altura. Adotando π ≈ 3,14, qual é a capacidade desse reservatório, em litros? (Lembre que 1 m³ corresponde a 1.000 litros.)",
+      "alternativas": {
+        "a": "6.280 litros",
+        "b": "31.400 litros",
+        "c": "62.800 litros",
+        "d": "125.600 litros",
+        "e": "628.000 litros"
+      },
+      "resposta": "c",
+      "explicacao": "O volume do cilindro é a área da base vezes a altura: 3,14 · 2² · 5 = 3,14 · 20 = 62,8 m³, que correspondem a 62.800 litros. A opção de 31.400 litros usa o raio sem elevá-lo ao quadrado; 125.600 litros dobra o resultado, erro de usar o diâmetro como raio; e 6.280 e 628.000 litros erram por um fator de dez na conversão de metros cúbicos para litros."
+    },
+    {
+      "id": "matematica-rlm-135",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Uma indústria de alimentos vai imprimir rótulos que envolvem completamente a superfície lateral de latas cilíndricas, sem cobrir o fundo nem a tampa. Cada lata tem 5 cm de raio da base e 12 cm de altura. Adotando π ≈ 3,14, qual é a área de cada rótulo?",
+      "alternativas": {
+        "a": "188,4 cm²",
+        "b": "376,8 cm²",
+        "c": "78,5 cm²",
+        "d": "942 cm²",
+        "e": "60 cm²"
+      },
+      "resposta": "b",
+      "explicacao": "Desenrolada, a superfície lateral é um retângulo cuja base é o comprimento da circunferência e cuja altura é a da lata: 2 · 3,14 · 5 · 12 = 376,8 cm². A opção de 188,4 cm² esquece o fator 2, ou seja, usa o raio no lugar do comprimento da circunferência; 78,5 cm² é a área da base, não da lateral; 942 cm² é a área TOTAL, somando fundo e tampa que o enunciado exclui; e 60 cm² multiplica raio por altura sem envolver π."
+    },
+    {
+      "id": "matematica-rlm-136",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Adote a regra de que o volume de um cone é dado por V = (1/3) · π · r² · h, em que r é o raio da base e h a altura. Um cone tem 3 cm de raio e 10 cm de altura. Usando π ≈ 3,14, qual é o seu volume?",
+      "alternativas": {
+        "a": "282,6 cm³",
+        "b": "31,4 cm³",
+        "c": "90 cm³",
+        "d": "30 cm³",
+        "e": "94,2 cm³"
+      },
+      "resposta": "e",
+      "explicacao": "Aplicando a fórmula: (1/3) · 3,14 · 9 · 10 = (1/3) · 282,6 = 94,2 cm³. A opção de 282,6 cm³ é o resultado sem o terço, isto é, o volume do cilindro de mesma base e altura; 31,4 cm³ usa o raio sem elevá-lo ao quadrado; 90 cm³ e 30 cm³ deixam π de fora, com e sem o terço."
+    },
+    {
+      "id": "matematica-rlm-143",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Vale a regra de que o volume de uma esfera é V = (4/3) · π · r³. Uma bola tem 3 cm de raio. Adotando π ≈ 3,14, qual é o seu volume?",
+      "alternativas": {
+        "a": "28,26 cm³",
+        "b": "84,78 cm³",
+        "c": "113,04 cm³",
+        "d": "339,12 cm³",
+        "e": "36 cm³"
+      },
+      "resposta": "c",
+      "explicacao": "Aplicando a fórmula: (4/3) · 3,14 · 27 = (4/3) · 84,78 = 113,04 cm³. A opção de 84,78 cm³ é o resultado sem o fator 4/3; 28,26 cm³ eleva o raio ao quadrado em vez do cubo, calculando uma área e não um volume; 339,12 cm³ multiplica por 4 sem dividir por 3; e 36 cm³ ignora π."
+    },
+    {
+      "id": "matematica-rlm-146",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Considere um cone e um cilindro que têm exatamente a mesma base circular e exatamente a mesma altura. Qual é a razão entre o volume do cone e o volume do cilindro?",
+      "alternativas": {
+        "a": "1/2",
+        "b": "2/3",
+        "c": "3",
+        "d": "1/3",
+        "e": "1"
+      },
+      "resposta": "d",
+      "explicacao": "O volume do cilindro é πr²h e o do cone é (1/3)πr²h, então a razão entre eles é exatamente 1/3, qualquer que seja a base ou a altura. A razão 3 inverte os termos, dando o volume do cilindro em relação ao do cone; 1/2 confundiria o cone com metade do cilindro, o que corresponderia a um sólido diferente; 2/3 é o complemento do valor correto, ou seja, a fração do cilindro que sobra fora do cone; e 1 suporia volumes iguais."
+    },
+    {
+      "id": "matematica-rlm-149",
+      "banca": "fgv",
+      "formato": "direta",
+      "enunciado": "Uma caixa d'água é formada por um cilindro de 1 metro de raio e 3 metros de altura, encimado por uma semiesfera de mesmo raio, que funciona como cobertura arredondada. Adotando π ≈ 3,14, qual é aproximadamente o volume total da caixa?",
+      "alternativas": {
+        "a": "11,51 m³",
+        "b": "9,42 m³",
+        "c": "13,61 m³",
+        "d": "15,70 m³",
+        "e": "6,28 m³"
+      },
+      "resposta": "a",
+      "explicacao": "O volume se decompõe em duas partes. O cilindro dá 3,14 · 1² · 3 = 9,42 m³. A semiesfera é metade de (4/3)π · 1³, ou seja, (2/3) · 3,14 ≈ 2,09 m³. O total é 9,42 + 2,09 ≈ 11,51 m³. A opção de 9,42 m³ considera só o cilindro e esquece a cobertura; 13,61 m³ soma a esfera INTEIRA em vez da metade; 15,70 m³ trata a cobertura como um cilindro adicional de 1 metro; e 6,28 m³ usa altura 2 no lugar de 3."
+    },
+    {
+      "id": "matematica-rlm-152",
+      "banca": "insper",
+      "formato": "direta",
+      "enunciado": "Vale a regra de que, ao multiplicar TODAS as dimensões lineares de um sólido por um fator k, sua área se multiplica por k² e seu volume por k³. Uma embalagem tem capacidade de 250 mL. O fabricante lança uma versão com todas as dimensões dobradas, mantendo a mesma forma. Qual é a capacidade da nova embalagem?",
+      "alternativas": {
+        "a": "500 mL",
+        "b": "1.000 mL",
+        "c": "2.000 mL",
+        "d": "4.000 mL",
+        "e": "250 mL"
+      },
+      "resposta": "c",
+      "explicacao": "Dobrar todas as dimensões significa k = 2, e o volume se multiplica por k³ = 8: 250 · 8 = 2.000 mL, ou 2 litros. A opção de 500 mL multiplica por k, tratando o volume como se fosse uma medida linear — é justamente o erro que a regra do enunciado adverte; 1.000 mL multiplica por k² = 4, que é o fator da ÁREA; 4.000 mL usa k⁴; e 250 mL suporia que a capacidade não muda."
+    }
+  ]
+}

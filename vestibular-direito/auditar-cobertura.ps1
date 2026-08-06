@@ -38,7 +38,10 @@ $programa = [ordered]@{
   "Matematica" = @{
     frentes = @("matematica-rlm")
     itens = @(
-      @{ n = "1.1 Conjuntos numéricos, operações";              t = @("conjunto numérico","números inteiros","números racionais","números reais","números naturais","conjunto dos números") }
+      # Singular junto com plural. Um enunciado real escreve "todo número inteiro
+      # é racional", não "números inteiros" -- e a versão só no plural marcava
+      # zero onde havia cinco questões.
+      @{ n = "1.1 Conjuntos numéricos, operações";              t = @("conjunto numérico","número inteiro","número racional","número real","número natural","número irracional","irracional","dízima","conjunto dos números","racional quando") }
       @{ n = "1.2 Equações e inequações";                       t = @("equação","inequação","equacion") }
       @{ n = "1.3 Fatoração, divisibilidade, razões, proporções"; t = @("fatoraç","divisível","divisor","múltiplo","razão entre","proporcional","proporção","mmc","mdc") }
       @{ n = "1.4 Porcentagem, juros, matemática financeira";   t = @("porcentagem","por cento","%","juros","desconto","montante","capital") }
@@ -47,9 +50,12 @@ $programa = [ordered]@{
       @{ n = "2.1 Polígonos";                                   t = @("polígono","quadrilátero","hexágono","pentágono","losango","trapézio","paralelogramo","retangular","quadrado de lado") }
       @{ n = "2.2 Circunferência";                              t = @("circunferência","circular","raio de","diâmetro") }
       @{ n = "2.3 Semelhança";                                  t = @("semelhan","proporcional aos lados","triângulos semelhantes","sombra") }
-      @{ n = "2.4 Triângulo retângulo e trigonometria";         t = @("triângulo retângulo","hipotenusa","cateto","pitágoras","seno","cosseno","tangente") }
+      # As abreviaturas entram junto com os nomes por extenso. Sem "sen ", "cos "
+      # e "tg ", o script contava 2 questões de trigonometria onde havia 8: o
+      # enunciado real escreve "sen 30°", não "seno de 30 graus".
+      @{ n = "2.4 Triângulo retângulo e trigonometria";         t = @("triângulo retângulo","hipotenusa","cateto","pitágoras","seno","cosseno","tangente","sen ","cos ","tg ","sen²","cos²") }
       @{ n = "2.5 Áreas de figuras planas";                     t = @("área do","área desse","área dessa","área da","m²","cm²","metros quadrados") }
-      @{ n = "2.6 Geometria espacial de posição, distâncias";    t = @("retas reversas","plano perpendicular","posição relativa","paralelas e perpendiculares","distância entre dois pontos") }
+      @{ n = "2.6 Geometria espacial de posição, distâncias";    t = @("revers","plano perpendicular","posição relativa","retas do espaço","projeção ortogonal","distância de um ponto a um plano","diagonal do cubo","concorrentes quando") }
       @{ n = "2.7 Poliedros, prisma, pirâmide";                 t = @("poliedro","prisma","pirâmide","paralelepípedo","cubo","aresta","euler") }
       @{ n = "2.8 Cilindro, cone, esfera";                      t = @("cilind","cone","esfera","esférico") }
       @{ n = "2.9 Áreas e volumes";                             t = @("volume","litros","m³","capacidade de") }
@@ -62,8 +68,11 @@ $programa = [ordered]@{
       @{ n = "4.3 Função quadrática";                           t = @("função quadrática","segundo grau","2º grau","parábola","vértice da","x²") }
       @{ n = "4.4 Função exponencial";                          t = @("exponencial","dobra a cada","cresce a cada","juros compostos") }
       @{ n = "4.5 Função logarítmica";                          t = @("logaritmo","logarítmica","log ") }
-      @{ n = "4.6 e 4.7 Relações e funções trigonométricas";    t = @("radiano","seno de","função seno","cosseno de","período da função","ciclo trigonométrico") }
-      @{ n = "4.8 Problemas do 1º e 2º graus";                  t = @("primeiro grau","segundo grau","raízes da equação","discriminante","delta") }
+      @{ n = "4.6 e 4.7 Relações e funções trigonométricas";    t = @("radiano","seno de","função seno","cosseno de","período da função","ciclo trigonométrico","sen²x","cos²x","relação fundamental","sen(","período","amplitude") }
+      # Este item do programa é sobre MODELAR e resolver, e raramente a palavra
+      # "grau" aparece no enunciado: o texto diz "perímetro de 34 m e área de 60
+      # m², quais as dimensões". Os termos cobrem as duas formas.
+      @{ n = "4.8 Problemas do 1º e 2º graus";                  t = @("primeiro grau","segundo grau","raízes","discriminante","delta","incógnita","quais são as suas dimensões","quais são as dimensões","o triplo do número","x² −","x² +") }
       @{ n = "5.1 Coordenadas e distância entre pontos";        t = @("plano cartesiano","coordenadas","ponto A(","ponto médio","distância entre os pontos") }
       @{ n = "5.2 Equação da reta";                             t = @("equação da reta","equação dessa reta","y = mx + b","reta que passa") }
       @{ n = "5.3 Retas paralelas e perpendiculares";           t = @("paralela a r","perpendicular","retas paralelas") }

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 340" width="640" height="340" role="img" aria-label="Dois arcos de mesmo vao desenhados lado a lado: o da esquerda e um semicirculo de topo arredondado e altura menor; o da direita e formado por dois arcos que se encontram em ponta, alcancando altura bem maior sobre o mesmo vao">
+  <style>
+    .curva { stroke: #0A2540; stroke-width: 2.6; fill: none; stroke-linejoin: round; stroke-linecap: round; }
+    .guia  { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 5 4; }
+    .eixo  { stroke: #475569; stroke-width: 1.6; fill: none; }
+    .rot   { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .curva { stroke: #E2E8F0; }
+      .guia  { stroke: #64748B; }
+      .eixo  { stroke: #94A3B8; }
+      .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+
+  <path class="eixo" d="M40 292 H600"/>
+  <path class="guia" d="M60 172 H580"/>
+  <text class="leg" x="40" y="167">linha de impostas</text>
+
+  <!-- arco A: semicircular -->
+  <path class="curva" d="M90 172 A70 70 0 0 1 230 172"/>
+  <path class="curva" d="M116 172 A44 44 0 0 1 204 172"/>
+  <path class="curva" d="M90 172 V292 H116 V172"/>
+  <path class="curva" d="M230 172 V292 H204 V172"/>
+  <path class="guia" d="M160 102 V292 M90 102 H230"/>
+  <text class="rot" x="160" y="318" text-anchor="middle">arco A</text>
+
+  <!-- arco B: em ponta, mesmo vao -->
+  <path class="curva" d="M400 172 A140 140 0 0 1 470 51"/>
+  <path class="curva" d="M540 172 A140 140 0 0 0 470 51"/>
+  <path class="curva" d="M426 172 A88 88 0 0 1 470 96"/>
+  <path class="curva" d="M514 172 A88 88 0 0 0 470 96"/>
+  <path class="curva" d="M400 172 V292 H426 V172"/>
+  <path class="curva" d="M540 172 V292 H514 V172"/>
+  <path class="guia" d="M470 51 V292 M400 51 H540"/>
+  <text class="rot" x="470" y="318" text-anchor="middle">arco B</text>
+
+  <text class="leg" x="40" y="334">os dois arcos cobrem exatamente o mesmo vao</text>
+</svg>

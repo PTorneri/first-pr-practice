@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 350" width="640" height="350" role="img" aria-label="Tres colunas gregas esquematicas lado a lado: a primeira sem base e com capitel liso, a segunda com base e capitel de duas volutas em espiral, a terceira com base e capitel em forma de sino coberto de folhas">
+  <style>
+    .curva { stroke: #0A2540; stroke-width: 2.4; fill: none; stroke-linejoin: round; stroke-linecap: round; }
+    .guia  { stroke: #94A3B8; stroke-width: 1.2; fill: none; }
+    .eixo  { stroke: #475569; stroke-width: 1.6; fill: none; }
+    .rot   { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .curva { stroke: #E2E8F0; }
+      .guia  { stroke: #64748B; }
+      .eixo  { stroke: #94A3B8; }
+      .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+
+  <path class="eixo" d="M40 302 H600"/>
+
+  <!-- ordem 1: sem base, capitel liso -->
+  <path class="curva" d="M84 96 H156 V108 H84 Z"/>
+  <path class="curva" d="M88 108 L100 90 H140 L152 108"/>
+  <path class="curva" d="M98 302 L101 108 H139 L142 302"/>
+  <path class="guia" d="M110 116 V296 M120 116 V296 M130 116 V296"/>
+  <text class="rot" x="120" y="326" text-anchor="middle">ordem I</text>
+
+  <!-- ordem 2: base, capitel de volutas -->
+  <path class="curva" d="M294 302 H346 V290 H294 Z"/>
+  <path class="curva" d="M300 290 L303 124 H337 L340 290"/>
+  <path class="guia" d="M312 132 V284 M320 132 V284 M328 132 V284"/>
+  <path class="curva" d="M296 124 H344 L344 104 H296 Z"/>
+  <path class="curva" d="M288 92 H352 V104 H288 Z"/>
+  <circle class="curva" cx="300" cy="114" r="10"/>
+  <circle class="curva" cx="340" cy="114" r="10"/>
+  <path class="curva" d="M300 108 A6 6 0 1 1 295 115"/>
+  <path class="curva" d="M340 108 A6 6 0 1 1 335 115"/>
+  <text class="rot" x="320" y="326" text-anchor="middle">ordem II</text>
+
+  <!-- ordem 3: base, capitel em sino com folhas -->
+  <path class="curva" d="M494 302 H546 V290 H494 Z"/>
+  <path class="curva" d="M500 290 L503 152 H537 L540 290"/>
+  <path class="guia" d="M512 160 V284 M520 160 V284 M528 160 V284"/>
+  <path class="curva" d="M502 152 L496 106 H544 L538 152 Z"/>
+  <path class="curva" d="M504 150 C506 134 512 128 520 126 C528 128 534 134 536 150"/>
+  <path class="curva" d="M500 132 C504 120 510 114 518 112"/>
+  <path class="curva" d="M540 132 C536 120 530 114 522 112"/>
+  <path class="curva" d="M496 112 C500 104 506 100 512 100"/>
+  <path class="curva" d="M544 112 C540 104 534 100 528 100"/>
+  <path class="curva" d="M488 92 H552 V106 H488 Z"/>
+  <text class="rot" x="520" y="326" text-anchor="middle">ordem III</text>
+
+  <text class="leg" x="40" y="344">esquema comparado dos capiteis e das bases das tres ordens</text>
+</svg>

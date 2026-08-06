@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 260" width="640" height="260" role="img" aria-label="Tres quadros de mesmo tamanho lado a lado com a mesma figura humana em escalas diferentes: no primeiro ela aparece inteira e pequena dentro de uma paisagem, no segundo aparece da cintura para cima ocupando boa parte do quadro, no terceiro so o rosto preenche quase todo o quadro">
+  <style>
+    .moldura { stroke: #475569; stroke-width: 2; fill: none; }
+    .curva   { stroke: #0A2540; stroke-width: 2.2; fill: none; stroke-linejoin: round; stroke-linecap: round; }
+    .guia    { stroke: #94A3B8; stroke-width: 1.2; fill: none; }
+    .rot     { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg     { fill: #475569; font: 400 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .moldura { stroke: #94A3B8; }
+      .curva   { stroke: #E2E8F0; }
+      .guia    { stroke: #64748B; }
+      .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+
+  <!-- quadro I -->
+  <rect class="moldura" x="30" y="34" width="180" height="150"/>
+  <path class="guia" d="M30 148 H210"/>
+  <path class="guia" d="M52 148 L66 126 L80 148 M150 148 L166 120 L182 148"/>
+  <circle class="curva" cx="120" cy="112" r="5"/>
+  <path class="curva" d="M120 117 V140 M112 124 H128 M120 140 L113 152 M120 140 L127 152"/>
+  <text class="rot" x="120" y="206" text-anchor="middle">quadro I</text>
+
+  <!-- quadro II -->
+  <rect class="moldura" x="230" y="34" width="180" height="150"/>
+  <circle class="curva" cx="320" cy="74" r="20"/>
+  <path class="curva" d="M320 94 V184 M282 122 C288 108 300 100 320 98 C340 100 352 108 358 122"/>
+  <path class="curva" d="M286 128 V184 M354 128 V184"/>
+  <text class="rot" x="320" y="206" text-anchor="middle">quadro II</text>
+
+  <!-- quadro III -->
+  <rect class="moldura" x="430" y="34" width="180" height="150"/>
+  <circle class="curva" cx="520" cy="112" r="58"/>
+  <circle class="curva" cx="500" cy="98" r="4"/>
+  <circle class="curva" cx="540" cy="98" r="4"/>
+  <path class="curva" d="M520 106 V122 M506 140 C512 146 528 146 534 140"/>
+  <path class="curva" d="M484 82 C490 74 500 72 506 76 M556 82 C550 74 540 72 534 76"/>
+  <text class="rot" x="520" y="206" text-anchor="middle">quadro III</text>
+
+  <text class="leg" x="30" y="240">a mesma figura em tres escalas dentro de quadros de dimensoes iguais</text>
+</svg>

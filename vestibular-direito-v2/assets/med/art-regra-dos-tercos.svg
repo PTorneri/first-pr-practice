@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" width="640" height="300" role="img" aria-label="Um retangulo dividido por duas linhas verticais e duas horizontais em nove partes iguais; os quatro cruzamentos dessas linhas estao marcados por circulos, e uma das linhas horizontais coincide com o horizonte de uma paisagem esquematica">
+  <style>
+    .moldura { stroke: #475569; stroke-width: 2.2; fill: none; }
+    .grade   { stroke: #1E40AF; stroke-width: 1.4; fill: none; stroke-dasharray: 6 4; }
+    .curva   { stroke: #0A2540; stroke-width: 2.2; fill: none; stroke-linejoin: round; stroke-linecap: round; }
+    .marca   { fill: none; stroke: #1E40AF; stroke-width: 2.4; }
+    .rot     { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg     { fill: #475569; font: 400 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .moldura { stroke: #94A3B8; }
+      .grade   { stroke: #60A5FA; }
+      .curva   { stroke: #E2E8F0; }
+      .marca   { stroke: #60A5FA; }
+      .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+
+  <rect class="moldura" x="60" y="40" width="360" height="204"/>
+
+  <path class="curva" d="M60 176 H420"/>
+  <path class="curva" d="M96 176 L132 130 L168 176 M150 176 L196 118 L242 176"/>
+  <circle class="curva" cx="360" cy="106" r="16"/>
+
+  <path class="grade" d="M180 40 V244 M300 40 V244 M60 108 H420 M60 176 H420"/>
+
+  <circle class="marca" cx="180" cy="108" r="7"/>
+  <circle class="marca" cx="300" cy="108" r="7"/>
+  <circle class="marca" cx="180" cy="176" r="7"/>
+  <circle class="marca" cx="300" cy="176" r="7"/>
+
+  <text class="rot" x="450" y="106">as duas verticais e as duas</text>
+  <text class="rot" x="450" y="126">horizontais partem cada lado</text>
+  <text class="rot" x="450" y="146">do quadro em tres partes iguais</text>
+  <text class="leg" x="450" y="182">os quatro cruzamentos estao</text>
+  <text class="leg" x="450" y="200">assinalados por circulos</text>
+
+  <text class="leg" x="60" y="278">a linha do horizonte da paisagem coincide com uma das horizontais</text>
+</svg>

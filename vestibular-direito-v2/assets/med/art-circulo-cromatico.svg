@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" width="640" height="300" role="img" aria-label="Circulo cromatico de doze setores em anel, com tres deles marcados por um circulo branco e uma reta que atravessa o centro ligando o setor vermelho ao setor verde, diametralmente opostos">
+  <style>
+    .arco  { stroke: #FFFFFF; stroke-width: 1.2; }
+    .marca { fill: none; stroke: #FFFFFF; stroke-width: 2.6; }
+    .comp  { stroke: #0A2540; stroke-width: 2.2; fill: none; stroke-dasharray: 7 5; }
+    .rot   { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .num   { fill: #0A2540; font: 700 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .arco  { stroke: #0F172A; }
+      .marca { stroke: #F8FAFC; }
+      .comp  { stroke: #E2E8F0; }
+      .rot, .leg { fill: #E2E8F0; }
+      .num   { fill: #F8FAFC; }
+    }
+  </style>
+
+  <path class="arco" fill="#F2C200" d="M200 50 A110 110 0 0 0 145 64.74 L170 108.04 A60 60 0 0 1 200 100 Z"/>
+  <path class="arco" fill="#B9CC22" d="M145 64.74 A110 110 0 0 0 104.74 105 L148.04 130 A60 60 0 0 1 170 108.04 Z"/>
+  <path class="arco" fill="#3F9C35" d="M104.74 105 A110 110 0 0 0 90 160 L140 160 A60 60 0 0 1 148.04 130 Z"/>
+  <path class="arco" fill="#0E8E8E" d="M90 160 A110 110 0 0 0 104.74 215 L148.04 190 A60 60 0 0 1 140 160 Z"/>
+  <path class="arco" fill="#1B4F9C" d="M104.74 215 A110 110 0 0 0 145 255.26 L170 211.96 A60 60 0 0 1 148.04 190 Z"/>
+  <path class="arco" fill="#4B3C8C" d="M145 255.26 A110 110 0 0 0 200 270 L200 220 A60 60 0 0 1 170 211.96 Z"/>
+  <path class="arco" fill="#6B2E8A" d="M200 270 A110 110 0 0 0 255 255.26 L230 211.96 A60 60 0 0 1 200 220 Z"/>
+  <path class="arco" fill="#A8266B" d="M255 255.26 A110 110 0 0 0 295.26 215 L251.96 190 A60 60 0 0 1 230 211.96 Z"/>
+  <path class="arco" fill="#D01F2E" d="M295.26 215 A110 110 0 0 0 310 160 L260 160 A60 60 0 0 1 251.96 190 Z"/>
+  <path class="arco" fill="#E1571F" d="M310 160 A110 110 0 0 0 295.26 105 L251.96 130 A60 60 0 0 1 260 160 Z"/>
+  <path class="arco" fill="#EE8A0F" d="M295.26 105 A110 110 0 0 0 255 64.74 L230 108.04 A60 60 0 0 1 251.96 130 Z"/>
+  <path class="arco" fill="#F3AC0C" d="M255 64.74 A110 110 0 0 0 200 50 L200 100 A60 60 0 0 1 230 108.04 Z"/>
+
+  <circle class="marca" cx="178" cy="78" r="9"/>
+  <circle class="marca" cx="140" cy="220" r="9"/>
+  <circle class="marca" cx="282" cy="182" r="9"/>
+
+  <path class="comp" d="M282 182 L118 138"/>
+
+  <text class="rot" x="167" y="36" text-anchor="middle">1</text>
+  <text class="rot" x="110" y="254" text-anchor="middle">2</text>
+  <text class="rot" x="328" y="198" text-anchor="start">3</text>
+  <text class="rot" x="72" y="130" text-anchor="end">4</text>
+
+  <text class="leg" x="380" y="96">1, 2 e 3: setores assinalados</text>
+  <text class="leg" x="380" y="122">3 e 4: unidos pela reta que</text>
+  <text class="leg" x="380" y="142">passa pelo centro do circulo</text>
+  <text class="leg" x="380" y="182">anel de doze setores, cada</text>
+  <text class="leg" x="380" y="202">um a trinta graus do vizinho</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 350" width="640" height="350" role="img" aria-label="Esquema de perspectiva: uma linha horizontal atravessa o desenho e sobre ela um ponto marcado recebe todas as retas do piso, que se estreitam ao se afastar; um paralelepipedo desenhado abaixo dessa linha tem suas arestas de profundidade dirigidas ao mesmo ponto">
+  <style>
+    .curva { stroke: #0A2540; stroke-width: 2.4; fill: none; stroke-linejoin: round; stroke-linecap: round; }
+    .oculta{ stroke: #0A2540; stroke-width: 1.6; fill: none; stroke-dasharray: 5 4; }
+    .fuga  { stroke: #1E40AF; stroke-width: 1.3; fill: none; }
+    .eixo  { stroke: #475569; stroke-width: 1.8; fill: none; }
+    .rot   { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .pto   { fill: #1E40AF; }
+    @media (prefers-color-scheme: dark) {
+      .curva { stroke: #E2E8F0; }
+      .oculta{ stroke: #E2E8F0; }
+      .fuga  { stroke: #60A5FA; }
+      .eixo  { stroke: #94A3B8; }
+      .rot, .leg { fill: #E2E8F0; }
+      .pto   { fill: #60A5FA; }
+    }
+  </style>
+
+  <path class="fuga" d="M40 320 L340 150 M120 320 L340 150 M200 320 L340 150 M280 320 L340 150 M400 320 L340 150 M480 320 L340 150 M560 320 L340 150 M600 320 L340 150"/>
+  <path class="fuga" d="M40 320 H600 M78 268 H588 M104 232 H570 M122 206 H556 M136 187 H546"/>
+
+  <path class="eixo" d="M20 150 H620"/>
+  <circle class="pto" cx="340" cy="150" r="5"/>
+  <text class="rot" x="20" y="142">linha X</text>
+  <text class="rot" x="352" y="142" text-anchor="start">ponto P</text>
+
+  <path class="curva" d="M180 200 H280 V280 H180 Z"/>
+  <path class="curva" d="M180 200 L252 177 M280 200 L307 177 M280 280 L307 222"/>
+  <path class="curva" d="M252 177 H307 V222"/>
+  <path class="oculta" d="M180 280 L252 222 M252 222 H307 M252 177 V222"/>
+
+  <text class="leg" x="20" y="342">as arestas de profundidade do solido e as retas do piso convergem no mesmo ponto</text>
+</svg>

@@ -1333,9 +1333,14 @@
     const studied = loadJSON(LS_OBRAS_STUDIED, {});
     const studiedCount = obras.filter((o) => studied[o.id]).length;
 
-    // Duas listas: o que consta da lista oficial do edital 2027.1 e o que sobrou
-    // de ciclos anteriores. Manter tudo junto sob o rótulo "obrigatórias" daria
-    // ao candidato a impressão de que precisa estudar obras que não vão cair.
+    // Duas listas: o que consta da lista oficial do edital 2027.1 e o que não
+    // consta. Manter tudo junto sob o rótulo "obrigatórias" daria ao candidato
+    // a impressão de que precisa estudar obras que não vão cair.
+    //
+    // As complementares já não são só sobra de ciclos antigos da FGV: das 26,
+    // dez são isso e dezesseis vêm das listas obrigatórias da FUVEST e da
+    // Unicamp, que a trilha de Medicina usa. Se esse número mudar, o texto do
+    // subcabeçalho lá embaixo precisa mudar junto — ele cita as duas parcelas.
     const obrigatorias = obras.filter((o) => !o.foraDoEdital2027);
     const complementares = obras.filter((o) => o.foraDoEdital2027);
     const studiedObrig = obrigatorias.filter((o) => studied[o.id]).length;
@@ -1384,9 +1389,10 @@
       subHeader.style.marginTop = "32px";
       subHeader.innerHTML = `
         <h2>Leituras complementares</h2>
-        <p class="hint">Estas obras <strong>não constam da lista oficial do edital 2027.1</strong> — vieram de
-        ciclos anteriores do vestibular. Não são cobradas, mas continuam úteis como repertório para a redação e
-        para as questões discursivas. Priorize a lista de cima.</p>
+        <p class="hint">Estas obras <strong>não constam da lista oficial do edital 2027.1</strong>: dez caíram de
+        ciclos anteriores da FGV e dezesseis são as listas de leitura obrigatória da FUVEST e da Unicamp, que não
+        valem para esta prova. Nenhuma é cobrada, mas continuam úteis como repertório para a redação e para as
+        questões discursivas. Priorize a lista de cima.</p>
       `;
       container.appendChild(subHeader);
 

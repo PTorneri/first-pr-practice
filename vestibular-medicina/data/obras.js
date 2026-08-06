@@ -2,13 +2,25 @@
 //
 // Duas listas, e a diferença entre elas importa.
 //
-// OBRIGATÓRIAS são as nove do anexo "LEITURAS OBRIGATÓRIAS – FUVEST 2026" da
-// resolução do vestibular. As nove são cobradas: oito aparecem já na 1ª fase
-// objetiva de 2026, em questões que as comparam entre si, e cinco reaparecem
-// nas dez discursivas de Português do dia 1 da 2ª fase — dia que vale um terço
-// da nota final, é o primeiro critério de desempate e, se zerado, elimina o
-// candidato. As outras seis bancas de Medicina do estado não publicam lista
-// literária para o exame geral.
+// OBRIGATÓRIAS são dezoito, de DUAS listas distintas, e o campo anca diz de
+// qual — quem presta só uma das provas tem nove livros a ler, não dezoito.
+//
+//   fuvest  — anexo "LEITURAS OBRIGATÓRIAS – FUVEST 2026" da resolução. As nove
+//             são cobradas: oito aparecem já na 1ª fase objetiva de 2026, em
+//             questões que as comparam entre si, e cinco reaparecem nas dez
+//             discursivas de Português do dia 1 da 2ª fase — dia que vale um
+//             terço da nota final, é o primeiro critério de desempate e, se
+//             zerado, elimina o candidato.
+//   unicamp — lista de obras de leitura obrigatória publicada pela Comvest para
+//             o vestibular 2026. Três delas aparecem nos cadernos lidos pelo
+//             estudo: Lima Barreto e Conceição Evaristo nas discursivas do dia
+//             1, Cartola na 1ª fase.
+//
+// Nenhum título se repete entre as duas listas. Conceição Evaristo está nas
+// duas, com obras diferentes.
+//
+// As outras cinco bancas de Medicina do estado não publicam lista literária
+// para o exame geral.
 //
 // COMPLEMENTARES (complementar: true) são o acervo da trilha de Direito, que
 // vem do edital de Artes da FGV. Nenhuma delas é cobrada por banca de Medicina
@@ -24,6 +36,7 @@
 window.OBRAS = [
   {
     id: "obra-opusculo-humanitario",
+    banca: "fuvest",
     titulo: "Opúsculo Humanitário",
     autor: "Nísia Floresta",
     categoria: "Ensaio",
@@ -37,6 +50,7 @@ window.OBRAS = [
   },
   {
     id: "obra-nebulosas",
+    banca: "fuvest",
     titulo: "Nebulosas",
     autor: "Narcisa Amália",
     categoria: "Literatura",
@@ -50,6 +64,7 @@ window.OBRAS = [
   },
   {
     id: "obra-memorias-de-martha",
+    banca: "fuvest",
     titulo: "Memórias de Martha",
     autor: "Júlia Lopes de Almeida",
     categoria: "Literatura",
@@ -63,6 +78,7 @@ window.OBRAS = [
   },
   {
     id: "obra-caminho-de-pedras",
+    banca: "fuvest",
     titulo: "Caminho de Pedras",
     autor: "Rachel de Queiroz",
     categoria: "Literatura",
@@ -76,6 +92,7 @@ window.OBRAS = [
   },
   {
     id: "obra-o-cristo-cigano",
+    banca: "fuvest",
     titulo: "O Cristo Cigano",
     autor: "Sophia de Mello Breyner Andresen",
     categoria: "Literatura",
@@ -89,6 +106,7 @@ window.OBRAS = [
   },
   {
     id: "obra-as-meninas",
+    banca: "fuvest",
     titulo: "As Meninas",
     autor: "Lygia Fagundes Telles",
     categoria: "Literatura",
@@ -102,6 +120,7 @@ window.OBRAS = [
   },
   {
     id: "obra-balada-de-amor-ao-vento",
+    banca: "fuvest",
     titulo: "Balada de Amor ao Vento",
     autor: "Paulina Chiziane",
     categoria: "Literatura",
@@ -115,6 +134,7 @@ window.OBRAS = [
   },
   {
     id: "obra-cancao-para-ninar-menino-grande",
+    banca: "fuvest",
     titulo: "Canção para Ninar Menino Grande",
     autor: "Conceição Evaristo",
     categoria: "Literatura",
@@ -128,6 +148,7 @@ window.OBRAS = [
   },
   {
     id: "obra-a-visao-das-plantas",
+    banca: "fuvest",
     titulo: "A Visão das Plantas",
     autor: "Djaimilia Pereira de Almeida",
     categoria: "Literatura",
@@ -138,6 +159,132 @@ window.OBRAS = [
     contextoHistorico: "Djaimilia Pereira de Almeida (1982) nasceu em Luanda, Angola, e foi criada nos arredores de Lisboa. Doutora em teoria literária, é uma das vozes mais reconhecidas da literatura de língua portuguesa contemporânea, com obras que examinam as marcas do colonialismo português na vida presente, como \"Esse Cabelo\" (2015) e \"Luanda, Lisboa, Paraíso\" (2018). \"A Visão das Plantas\" saiu em 2019 e recebeu o Prêmio Oceanos, num momento em que Portugal debatia publicamente como tratar seu passado colonial e escravista na memória oficial.",
     pontosChave: ["Romance curto de 2019 sobre Celestino, ex-capitão de navio negreiro e pirata", "Alterna a velhice silenciosa no jardim com o passado de violência no mar", "Inclui o episódio em que asfixia com cal os africanos sobreviventes de uma revolta", "Recusa tanto a punição narrativa quanto o arrependimento redentor do protagonista", "A autora nasceu em Luanda, foi criada em Portugal e recebeu o Prêmio Oceanos por este livro"],
     cenaOuTrechoChave: "A frase em que o velho, no quintal, já não se julga no mar onde navegou, mas num \"mar outro, sem homens e sem tempo\", condensa o livro: o cenário do crime é substituído por uma versão dele esvaziada de vítimas, que é exatamente o que uma memória sem acerto de contas produz.",
+  },
+  {
+    id: "obra-alice-pais-das-maravilhas",
+    banca: "unicamp",
+    titulo: "Alice no País das Maravilhas",
+    autor: "Lewis Carroll",
+    categoria: "Literatura",
+    origem: "Estrangeira",
+    eixo: "modernidade-posmodernidade",
+    resumo: "Narrativa de 1865 em que Alice segue um coelho branco apressado, cai por uma toca e chega a um mundo onde as regras funcionam mas não são as daqui. Ela muda de tamanho ao comer e beber, conversa com uma lagarta, assiste a um chá que nunca termina e é julgada por uma rainha que manda cortar cabeças antes de ouvir provas. O livro não tem enredo de aventura no sentido usual: avança por episódios em que a lógica é levada tão a sério que se torna absurda, e boa parte do humor vem de personagens que interpretam a linguagem ao pé da letra.",
+    analiseEixos: "O texto é um marco do nonsense e antecipa preocupações que a filosofia da linguagem do século XX tornaria centrais: o sentido depende de convenção, e basta aplicar uma regra fora de seu contexto para que o mundo inteiro deixe de fazer sentido. Essa desconfiança em relação à estabilidade do significado é o que faz o livro reaparecer em discussões pós-modernas sobre linguagem e realidade. Ele interessa também por deslocar a literatura infantil do registro moralizante que dominava o século XIX: não há lição final, e a autoridade adulta aparece como arbitrária.",
+    contextoHistorico: "Lewis Carroll é o pseudônimo de Charles Lutwidge Dodgson (1832-1898), professor de matemática e lógica em Oxford. A história nasceu de uma narração improvisada durante um passeio de barco em 1862, para as filhas de um colega, e foi publicada em 1865. O interesse do autor por lógica formal atravessa o texto e explica boa parte de seus paradoxos. O livro apareceu na Inglaterra vitoriana, num período em que a literatura para crianças tinha função explicitamente pedagógica, e rompeu com essa expectativa.",
+    pontosChave: ["Narrativa de 1865, escrita por um professor de matemática e lógica de Oxford", "Estrutura episódica, sem enredo de aventura convencional e sem lição final", "O humor nasce de personagens que aplicam regras e interpretam a linguagem ao pé da letra", "Marco do nonsense e referência em discussões sobre linguagem, sentido e convenção", "Integra a lista de leitura obrigatória do vestibular Unicamp 2026"],
+    cenaOuTrechoChave: "O julgamento final, em que a sentença é anunciada antes do veredicto e o veredicto antes das provas, resume o procedimento do livro: a forma da autoridade é preservada com todo o rigor, e é justamente esse rigor aplicado ao vazio que a desmascara.",
+  },
+  {
+    id: "obra-casa-velha",
+    banca: "unicamp",
+    titulo: "Casa Velha",
+    autor: "Machado de Assis",
+    categoria: "Literatura",
+    origem: "Nacional",
+    eixo: "modernidade-posmodernidade",
+    resumo: "Novela publicada em folhetim entre 1885 e 1886 e recolhida em livro só muito depois. Um sacerdote narra, décadas mais tarde, o que presenciou numa casa senhorial do Rio de Janeiro ao ser recebido ali para pesquisar documentos de família: o amor entre o filho da dona da casa e uma moça pobre que vivia sob a proteção dela, e as manobras discretas da matriarca para desfazê-lo sem que nada precisasse ser dito em voz alta. O conflito não se resolve por confronto aberto, e sim por uma sucessão de gestos e silêncios que fazem a diferença de posição social prevalecer.",
+    analiseEixos: "A novela mostra o mando doméstico funcionando sem violência declarada, o que a torna um documento preciso sobre a estrutura do favor no Brasil oitocentista: a moça pobre não é expulsa, é conduzida; o filho não é proibido, é convencido. A modernidade das instituições — a casa, o casamento, a fé — convive com uma hierarquia que decide antes de qualquer deliberação individual, e o narrador religioso, que observa tudo e quase nada faz, encarna a cumplicidade dos que apenas assistem.",
+    contextoHistorico: "Machado de Assis (1839-1908) publicou \"Casa Velha\" em folhetim entre 1885 e 1886, portanto entre \"Memórias Póstumas de Brás Cubas\" (1881) e \"Quincas Borba\" (1891), no auge de sua fase madura. O texto permaneceu esquecido por décadas e foi recuperado pela crítica no século XX, com destaque para o trabalho de Lúcia Miguel Pereira. A ação se passa no Rio do Segundo Reinado, ainda sob a escravidão, numa sociedade organizada em torno da casa senhorial, dos agregados e das relações de dependência pessoal.",
+    pontosChave: ["Novela publicada em folhetim entre 1885 e 1886, recuperada pela crítica só no século XX", "Narrador é um sacerdote que reconstitui, décadas depois, o que presenciou numa casa senhorial", "Enredo: amor entre o filho da casa e uma moça pobre protegida pela família", "A matriarca desfaz a relação por manobras silenciosas, sem proibição explícita", "Integra a lista de leitura obrigatória do vestibular Unicamp 2026"],
+    cenaOuTrechoChave: "O método da matriarca é o achado do texto: nenhuma ordem é dada e nenhuma recusa é registrada, mas tudo termina exatamente como ela queria — a hierarquia opera com mais eficácia quando não precisa se enunciar.",
+  },
+  {
+    id: "obra-gonzaga-de-sa",
+    banca: "unicamp",
+    titulo: "Vida e Morte de M. J. Gonzaga de Sá",
+    autor: "Lima Barreto",
+    categoria: "Literatura",
+    origem: "Nacional",
+    eixo: "modernidade-posmodernidade",
+    resumo: "Romance de 1919 em que Augusto Machado, funcionário público de origem modesta, escreve a biografia de Gonzaga de Sá, colega mais velho de repartição, descendente de família tradicional e observador desencantado do Rio de Janeiro. O livro tem pouca ação e muita conversa: os dois caminham pela cidade, visitam casas, comentam a burocracia, a República recém-instalada e as pretensões da elite carioca. A diferença de origem social entre narrador e biografado organiza o texto — um vê de baixo, o outro vê de dentro e por isso pode desmontar as ilusões da classe a que pertence.",
+    analiseEixos: "A cidade que se moderniza é o assunto de fundo: o Rio das reformas urbanas e da República aparece como projeto de fachada, com burocracia inchada, títulos vazios e uma elite que confunde importação de costumes com progresso. Lima Barreto opõe a essa modernização o cotidiano dos subúrbios e dos funcionários sem prestígio, e o faz sem idealizá-los. A escolha de dois narradores em posições sociais distintas para olhar o mesmo objeto é o que permite ao romance criticar a elite por dentro e por fora ao mesmo tempo.",
+    contextoHistorico: "Lima Barreto (1881-1922), carioca, negro e funcionário público, foi um dos maiores críticos literários do Rio da Primeira República, marginalizado em vida pela crítica oficial e reconhecido só décadas após a morte. \"Vida e Morte de M. J. Gonzaga de Sá\" saiu em 1919, poucos anos depois das reformas urbanas que expulsaram a população pobre do centro da cidade, e num momento em que a República consolidava uma elite política e burocrática que o autor conhecia de dentro, por trabalhar na Secretaria da Guerra.",
+    pontosChave: ["Romance de 1919, narrado por Augusto Machado, que biografa o colega Gonzaga de Sá", "Pouca ação e muita conversa: os dois caminham pelo Rio comentando a cidade e a República", "A diferença de origem social entre narrador e biografado organiza a crítica do livro", "Alvo central: a burocracia, os títulos vazios e a modernização de fachada do Rio", "Integra a lista de leitura obrigatória do vestibular Unicamp 2026"],
+    cenaOuTrechoChave: "A galeria de retratos de antepassados na sala de visitas, com os homens de farda e medalhas olhando o visitante de cima, condensa o romance: a autoridade da casa grande sobrevive à República como moldura na parede, e ainda assim intimida quem entra.",
+  },
+  {
+    id: "obra-cartola-cancoes-escolhidas",
+    banca: "unicamp",
+    titulo: "Canções Escolhidas",
+    autor: "Cartola",
+    categoria: "Música",
+    origem: "Nacional",
+    eixo: "modernidade-posmodernidade",
+    resumo: "Seleção de sambas de Cartola reunida para estudo, com composições que atravessam cinco décadas de obra. Os temas se repetem e se aprofundam: o amor que termina, a saudade tratada sem autopiedade, a passagem do tempo, o morro e a escola de samba como lugar de pertencimento. A letra é de vocabulário simples e sintaxe cuidada, e a força vem menos da imagem inesperada do que da precisão com que uma situação comum é dita. Canções como \"As Rosas Não Falam\", \"O Mundo é um Moinho\" e \"Alvorada\" estão entre as mais estudadas do conjunto.",
+    analiseEixos: "A obra permite discutir o lugar da cultura popular na formação da identidade nacional e o processo pelo qual o samba, nascido criminalizado nos morros cariocas, foi convertido em patrimônio. O caso de Cartola torna esse processo visível pela biografia: fundador de escola de samba nos anos 1920, ele passou décadas fora do circuito antes de ser gravado, o que expõe a distância entre reconhecimento simbólico e acesso material. As letras, por sua vez, tratam do tempo e da perda numa chave que não pede consolo.",
+    contextoHistorico: "Angenor de Oliveira, o Cartola (1908-1980), foi cofundador da Estação Primeira de Mangueira em 1928 e um dos maiores compositores da música brasileira. Passou longos períodos afastado do meio musical, trabalhando em ofícios diversos, e só gravou seu primeiro disco solo em 1974, aos 65 anos, depois de ser reencontrado pelo jornalista Sérgio Porto. Os dois discos que gravou na década de 1970 consolidaram o repertório que já circulava na voz de outros intérpretes desde os anos 1930.",
+    pontosChave: ["Seleção de sambas que atravessa cinco décadas da obra de Cartola", "Temas recorrentes: fim do amor, saudade sem autopiedade, tempo, morro e Mangueira", "Vocabulário simples e sintaxe cuidada; a força vem da precisão, não do ornamento", "Cofundou a Mangueira em 1928 e só gravou disco solo em 1974, aos 65 anos", "Integra a lista de leitura obrigatória do vestibular Unicamp 2026"],
+    cenaOuTrechoChave: "A imagem do moinho que mói devagar, numa das canções mais conhecidas do conjunto, dá a medida do todo: o tempo em Cartola não é dramático, é paciente, e é essa paciência que torna a perda irreversível.",
+  },
+  {
+    id: "obra-morangos-mofados",
+    banca: "unicamp",
+    titulo: "Morangos Mofados",
+    autor: "Caio Fernando Abreu",
+    categoria: "Literatura",
+    origem: "Nacional",
+    eixo: "modernidade-posmodernidade",
+    resumo: "Coletânea de contos de 1982, dividida em duas partes que o autor chamou de \"O Mofo\" e \"Os Morangos\". Os textos acompanham personagens urbanas de uma geração que atravessou a ditadura militar e chega ao início dos anos 1980 desiludida: o que restou dos projetos coletivos, dos amores e das drogas dos anos 1970 aparece como resíduo. A prosa mistura registro coloquial, fragmento, letra de música e fluxo de consciência, e alterna histórias de solidão urbana com momentos de ternura súbita entre pessoas que mal se conhecem.",
+    analiseEixos: "O livro é um dos retratos mais precisos do desencanto brasileiro no fim do regime militar, e interessa ao eixo por mostrar a passagem de uma geração que acreditava em projetos coletivos de transformação para outra que já não os tem. A forma acompanha o conteúdo: fragmentação, colagem de referências pop e recusa de desfecho são procedimentos que a crítica associa ao pós-moderno. O tratamento do desejo e das relações afetivas fora da norma, num país que saía de duas décadas de conservadorismo oficial, é outro traço central.",
+    contextoHistorico: "Caio Fernando Abreu (1948-1996), gaúcho de Santiago do Boqueirão, foi contista, dramaturgo e jornalista, e viveu no exílio na Europa durante parte da ditadura. \"Morangos Mofados\" saiu em 1982, no processo de abertura política, e tornou-se o livro mais conhecido do autor. Ele morreria em 1996 em decorrência da aids, tema que abordaria publicamente em crônicas na imprensa, e que a leitura posterior do livro passou a projetar sobre alguns de seus contos, embora a coletânea seja anterior à epidemia no Brasil.",
+    pontosChave: ["Coletânea de contos de 1982, dividida em \"O Mofo\" e \"Os Morangos\"", "Retrata a desilusão da geração que atravessou a ditadura militar", "Prosa fragmentária, com registro coloquial, referências pop e fluxo de consciência", "Trata do desejo e de relações afetivas fora da norma no início da abertura política", "Integra a lista de leitura obrigatória do vestibular Unicamp 2026"],
+    cenaOuTrechoChave: "O par que dá título ao livro é a chave de leitura: o morango é o que havia de mais desejável, e o mofo é o que o tempo e a história fizeram com ele sem que ninguém decidisse nada.",
+  },
+  {
+    id: "obra-prosas-odes-minimas",
+    banca: "unicamp",
+    titulo: "Prosas Seguidas de Odes Mínimas",
+    autor: "José Paulo Paes",
+    categoria: "Literatura",
+    origem: "Nacional",
+    eixo: "modernidade-posmodernidade",
+    resumo: "Livro de 1992 dividido em duas partes que se explicam pelo título. As \"prosas\" são poemas de fôlego mais largo, em que o verso se aproxima da frase corrente e trata de morte, envelhecimento, corpo e desencanto. As \"odes mínimas\" são poemas curtíssimos, às vezes de dois ou três versos, construídos sobre trocadilho, paradoxo ou uma única virada de sentido. A concisão não é economia de esforço: é a forma que o autor escolhe para dizer coisas graves sem solenidade, e o humor funciona como o instrumento que retira o peso sem retirar a seriedade.",
+    analiseEixos: "Paes leva ao limite a desconfiança moderna em relação à poesia grandiloquente: onde a tradição pede elevação, ele responde com epigrama, piada e concisão extrema, e é justamente pela recusa do tom nobre que os poemas alcançam temas como a morte e o fracasso. Essa preferência pelo fragmento, pelo jogo de linguagem e pela ironia sobre o próprio ofício aproxima o livro do repertório pós-moderno, sem que o autor abandone o rigor formal. O procedimento interessa também por mostrar que brevidade e profundidade não se opõem.",
+    contextoHistorico: "José Paulo Paes (1926-1998), nascido em Taquaritinga, no interior paulista, foi poeta, ensaísta e um dos tradutores mais importantes do Brasil, com versões de grego, inglês, dinamarquês e russo, entre outras línguas. Trabalhou como químico industrial antes de se dedicar integralmente às letras. \"Prosas Seguidas de Odes Mínimas\" saiu em 1992, já na maturidade do autor, e é considerado um de seus livros centrais, muito citado pela combinação de humor e reflexão sobre a morte.",
+    pontosChave: ["Livro de 1992, dividido em \"prosas\" de fôlego largo e \"odes mínimas\" de poucos versos", "O humor e o trocadilho são o método, não o alívio: sustentam temas graves sem solenidade", "Concisão extrema como forma poética, não como economia de meios", "José Paulo Paes foi também um dos maiores tradutores brasileiros, de várias línguas", "Integra a lista de leitura obrigatória do vestibular Unicamp 2026"],
+    cenaOuTrechoChave: "O contraste entre as duas partes é o próprio argumento do livro: a mesma matéria — o tempo que passa e o corpo que falha — aparece primeiro estendida em prosa e depois comprimida em poucos versos, e a versão curta costuma cortar mais fundo.",
+  },
+  {
+    id: "obra-no-seu-pescoco",
+    banca: "unicamp",
+    titulo: "No Seu Pescoço",
+    autor: "Chimamanda Ngozi Adichie",
+    categoria: "Literatura",
+    origem: "Estrangeira",
+    eixo: "globalizacao",
+    resumo: "Coletânea de contos publicada em 2009, com histórias que se dividem entre a Nigéria e os Estados Unidos. As personagens são em grande parte mulheres nigerianas em deslocamento: quem emigra e descobre que a vida prometida não existe, quem fica e convive com a violência política, quem volta e não se reconhece mais no lugar de origem. O conto que dá título ao volume acompanha uma jovem que ganha o visto americano numa loteria e encontra do outro lado a solidão, o emprego precário e o peso de ser lida sempre pela origem. A guerra de Biafra, o regime militar e a corrupção aparecem como fundo de várias histórias.",
+    analiseEixos: "O livro é um caso exemplar do eixo da globalização tratado pelo lado das pessoas: o que circula não é só capital e mercadoria, é gente, e o preço dessa circulação recai de forma desigual. Adichie mostra o encontro entre nigerianos e norte-americanos como uma sucessão de mal-entendidos em que o interlocutor bem-intencionado é quem mais reduz o outro a estereótipo. A autora é conhecida pela crítica ao que chama de história única, a redução de um povo inteiro a uma só narrativa, e os contos põem esse argumento em prática.",
+    contextoHistorico: "Chimamanda Ngozi Adichie (1977) nasceu em Enugu, na Nigéria, e divide a vida entre o país natal e os Estados Unidos. É autora de \"Hibisco Roxo\" (2003), \"Meio Sol Amarelo\" (2006) e \"Americanah\" (2013), e suas conferências \"O Perigo de uma História Única\" e \"Sejamos Todos Feministas\" tiveram enorme circulação internacional. \"No Seu Pescoço\" saiu em 2009 e reúne contos escritos ao longo da década. É uma das primeiras obras de original em língua não portuguesa a entrar na lista da Unicamp.",
+    pontosChave: ["Coletânea de contos de 2009, dividida entre a Nigéria e os Estados Unidos", "Protagonistas em grande parte mulheres nigerianas em situação de deslocamento", "O conto-título acompanha uma jovem que emigra por loteria de visto e encontra solidão", "Dialoga com a crítica da autora à \"história única\", a redução de um povo a uma só narrativa", "Integra a lista de leitura obrigatória do vestibular Unicamp 2026"],
+    cenaOuTrechoChave: "A imagem do título — algo que se enrosca no pescoço e aperta à noite — nomeia o que os contos descrevem sem dizer: não a hostilidade aberta, e sim a pressão contínua de viver sendo sempre explicada pelos outros.",
+  },
+  {
+    id: "obra-olhos-dagua",
+    banca: "unicamp",
+    titulo: "Olhos d'Água",
+    autor: "Conceição Evaristo",
+    categoria: "Literatura",
+    origem: "Nacional",
+    eixo: "modernidade-posmodernidade",
+    resumo: "Coletânea de contos publicada em 2014, com histórias curtas centradas em mulheres negras e na vida de periferia. Cada conto acompanha uma personagem em um momento de tensão — violência policial, perda de um filho, fome, desejo, memória de infância —, e o conjunto compõe um retrato coletivo sem transformar as personagens em tipos. A violência aparece com frequência, mas nunca como espetáculo: o foco está no que ela faz com o afeto e com a linguagem de quem sobrevive. Um dos contos mais estudados, \"Ana Davenga\", acompanha a relação de uma mulher com um homem procurado pela polícia e o modo como a comunidade a olha.",
+    analiseEixos: "O livro é o exemplo mais citado da escrevivência, conceito da própria autora para uma escrita que parte da experiência vivida de mulheres negras e articula memória individual e coletiva. A recusa de um narrador distante e a alternância de vozes deslocam a autoridade de quem conta, gesto que a crítica reconhece como pós-moderno — aqui a serviço de uma experiência histórica precisa. Ao dar densidade interior a personagens que a literatura brasileira costuma tratar como cenário, o livro discute quem tem direito a ser sujeito de uma narrativa.",
+    contextoHistorico: "Conceição Evaristo (1946), nascida em uma favela de Belo Horizonte e formada em Letras, é uma das autoras centrais da literatura brasileira contemporânea. \"Olhos d'Água\" saiu em 2014 e recebeu o Prêmio Jabuti no ano seguinte, marco na circulação da literatura negra brasileira. O livro chega num momento de forte debate público sobre violência policial e racismo estrutural no país, e passou a integrar listas de vestibular e programas escolares na década seguinte.",
+    pontosChave: ["Coletânea de contos de 2014, vencedora do Prêmio Jabuti", "Personagens são mulheres negras e moradoras de periferia, tratadas como sujeitos e não como cenário", "\"Ana Davenga\" é o conto mais cobrado: a mulher, o homem procurado e o olhar da comunidade", "Aplica a escrevivência, conceito da autora, unindo memória individual e coletiva", "Integra a lista de leitura obrigatória do vestibular Unicamp 2026"],
+    cenaOuTrechoChave: "A recorrência da água e dos olhos ao longo dos contos — lágrima, rio, sede, olhar — costura o volume sem que os enredos se toquem: é a imagem que transforma histórias separadas num único retrato coletivo.",
+  },
+  {
+    id: "obra-a-vida-nao-e-util",
+    banca: "unicamp",
+    titulo: "A Vida Não é Útil",
+    autor: "Ailton Krenak",
+    categoria: "Ensaio",
+    origem: "Nacional",
+    eixo: "ambos",
+    resumo: "Reunião de falas, entrevistas e conferências de Ailton Krenak organizadas em livro em 2020, boa parte delas produzida durante a pandemia de Covid-19. O argumento central ataca a ideia de utilidade: a exigência de que tudo — a floresta, o rio, o tempo de uma pessoa — justifique sua existência por servir a alguma finalidade produtiva. Krenak contrapõe a essa lógica uma noção de vida que não precisa se justificar, e critica o que chama de clube da humanidade, o grupo restrito que se arroga o direito de definir quem conta como humano. A pandemia entra como episódio que expôs a fragilidade de um modo de vida apresentado como inevitável.",
+    analiseEixos: "O texto interessa aos dois eixos ao mesmo tempo. Na chave da modernidade, é uma crítica frontal ao progresso como valor: a separação entre natureza e cultura, o produtivismo e a ideia de desenvolvimento aparecem como invenções recentes e localizadas, não como destino universal. Na chave da globalização, mostra que a crise ambiental e a sanitária são planetárias enquanto as respostas continuam sendo nacionais e desiguais. É uma das vozes que a banca costuma usar para introduzir perspectivas indígenas no debate contemporâneo sem reduzi-las a folclore.",
+    contextoHistorico: "Ailton Krenak (1953) é liderança indígena do povo Krenak, do vale do rio Doce, em Minas Gerais, jornalista e escritor. Ficou conhecido nacionalmente em 1987, quando discursou na Assembleia Constituinte pintando o rosto de jenipapo enquanto falava, gesto decisivo para a inclusão dos direitos indígenas na Constituição de 1988. Foi eleito para a Academia Brasileira de Letras em 2024, o primeiro indígena a ocupar uma cadeira. \"A Vida Não é Útil\" saiu em 2020, no primeiro ano da pandemia, e dialoga diretamente com o rompimento da barragem que atingiu o rio Doce em 2015.",
+    pontosChave: ["Reunião de falas e entrevistas organizadas em livro em 2020, durante a pandemia", "Ataca a exigência de utilidade como critério para justificar a existência de tudo", "Critica o \"clube da humanidade\", que define quem conta como humano", "Krenak discursou na Constituinte em 1987 e entrou para a ABL em 2024", "Integra a lista de leitura obrigatória do vestibular Unicamp 2026"],
+    cenaOuTrechoChave: "A recusa do próprio título é o eixo: dizer que a vida não é útil não é elogio da inércia, e sim retirada da vida do regime de justificação produtiva em que a modernidade a colocou.",
   },
   {
     id: "obra-origens-totalitarismo",

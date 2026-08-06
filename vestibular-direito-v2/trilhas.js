@@ -21,7 +21,7 @@
 (function () {
   // Contador de cache do CONTEÚDO, separado do ?v= do código (ver o comentário
   // longo no topo do index.html). Corrigiu uma questão? Incremente aqui.
-  const DATA_VERSION = 21;
+  const DATA_VERSION = 22;
 
   // A chave da trilha ativa é a única que vive FORA do namespace de trilha —
   // é ela que diz qual namespace usar. Sobe pra nuvem junto com o resto.
@@ -76,8 +76,9 @@
         rotuloAnalise: "Eixo da banca",
         complementaresTitulo: "Leituras complementares",
         complementaresHint: "Estas obras não constam da lista oficial do edital 2027.1: dez caíram de ciclos anteriores da FGV e " +
-                            "sete são a lista de leitura obrigatória da FUVEST, que não vale para esta prova. Nenhuma é cobrada, mas " +
-                            "continuam úteis como repertório para a redação e para as discursivas. Priorize a lista de cima.",
+                            "dezesseis são as listas de leitura obrigatória da FUVEST e da Unicamp, que não valem para esta prova. " +
+                            "Nenhuma é cobrada, mas continuam úteis como repertório para a redação e para as discursivas. " +
+                            "Priorize a lista de cima.",
       },
       plano: {
         totalDias: 90,
@@ -122,14 +123,18 @@
       // a trilha de Medicina exibia "Obras obrigatórias (FGV)" e "lista do
       // edital 2027.1" se a aba fosse ligada sem isto.
       obrasUI: {
-        titulo: "Obras obrigatórias (FUVEST)",
-        hint: "A FUVEST publica uma lista fechada de leitura obrigatória e cobra dela nas duas fases: nas objetivas da 1ª, " +
-              "em questões que comparam as obras entre si, e nas dez discursivas de Português do dia 1 da 2ª fase. Esse dia " +
-              "vale um terço da nota final e é o primeiro critério de desempate. Sem equivalente nas outras seis bancas.",
-        rodape: "lista da resolução FUVEST 2026",
+        titulo: "Obras obrigatórias (FUVEST e Unicamp)",
+        hint: "Duas das sete bancas publicam lista fechada de leitura obrigatória, com nove obras cada e nenhum título em " +
+              "comum. Confira no cartão de que banca é cada uma: quem presta só uma das provas tem nove livros a ler, não " +
+              "dezoito. A FUVEST cobra a lista nas duas fases, e o dia das discursivas de Português vale um terço da nota " +
+              "final e desempata em primeiro lugar. As outras cinco bancas não publicam lista.",
+        rodape: "resolução FUVEST 2026 e lista Comvest 2026",
         rotuloAnalise: "Análise crítica",
+        // O nome que aparece no cartão, por banca. Só existe em Medicina: em
+        // Direito a lista é uma só e o cartão não precisa dizer de quem é.
+        bancasNome: { fuvest: "FUVEST", unicamp: "Unicamp" },
         complementaresTitulo: "Repertório complementar",
-        complementaresHint: "Estas 54 obras não estão na lista da FUVEST e nenhuma banca de Medicina as cobra: vêm do repertório " +
+        complementaresHint: "Estas 54 obras não estão em nenhuma das duas listas e nenhuma banca de Medicina as cobra: vêm do repertório " +
                             "da trilha de Direito, montado sobre o edital de Artes da FGV. Estão aqui porque as bancas de Medicina " +
                             "usam arte, cinema e música como fonte de questão mesmo sem publicar lista — a FUVEST 2026 abre um bloco " +
                             "com Cézanne e obras de acervo do MASP, a Unesp parte de um ensaio sobre Courbet e de capa de álbum, e a " +

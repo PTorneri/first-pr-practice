@@ -1590,7 +1590,14 @@
     // pelos seus dois eixos. Em Medicina a mesma análise vale como leitura
     // crítica, mas não corresponde a eixo declarado por banca nenhuma.
     const cfgObra = (window.VD_TRILHA && window.VD_TRILHA.config()) || null;
-    const rotuloAnalise = (cfgObra && cfgObra.obrasUI && cfgObra.obrasUI.rotuloAnalise) || "Análise crítica";
+    const uiObra = (cfgObra && cfgObra.obrasUI) || {};
+    const rotuloAnalise = uiObra.rotuloAnalise || "Análise crítica";
+    // Em Medicina há DUAS listas obrigatórias, e sem marcar de qual banca é
+    // cada obra o candidato que presta só uma delas leria dezoito livros
+    // achando que todos caem na sua prova. Em Direito a lista é uma só e o
+    // campo não existe, então nada é acrescentado.
+    const nomeBanca = (uiObra.bancasNome || {})[o.banca];
+    const bancaSufixo = nomeBanca ? " · " + escapeHtml(nomeBanca) : "";
     // O rótulo sai do banco em vez de ser fixo: quando faltavam as questões das
     // obras do edital 2027.1, o botão prometia cinco e abria uma div vazia.
     const bank = (window.OBRAS_QUESTOES && window.OBRAS_QUESTOES[o.id]) || [];
@@ -1608,7 +1615,7 @@
     `;
     card.innerHTML = `
       ${coverHtml}
-      <div class="lesson-eyebrow">${escapeHtml(o.categoria)} · ${escapeHtml(o.origem)}</div>
+      <div class="lesson-eyebrow">${escapeHtml(o.categoria)} · ${escapeHtml(o.origem)}${bancaSufixo}</div>
       <h3>${escapeHtml(o.titulo)}</h3>
       <p class="lesson-desc" style="margin-bottom:8px;">${escapeHtml(o.autor)}</p>
       <button type="button" class="btn-link obra-toggle">Ver resumo e análise</button>

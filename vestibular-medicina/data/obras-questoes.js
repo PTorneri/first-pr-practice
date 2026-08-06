@@ -612,6 +612,613 @@ window.OBRAS_QUESTOES = {
                                          "explicacao":  "O tráfico é o caso fundador da globalização, e a autora o aborda pelo lugar menos frequentado: quem cometeu, envelhecido, num jardim europeu. Em (b) está a tese que o livro existe para recusar — a permanência do passado colonial na sociedade que o produziu é o argumento central. Em (a), (c) e (e), não há tratamento econômico das rotas, aparato documental nem comparação entre potências."
                                      }
                                  ],
+    "obra-alice-pais-das-maravilhas":  [
+                                           {
+                                               "id":  "obra-alice-pais-das-maravilhas-q1",
+                                               "enunciado":  "A estrutura de \"Alice no País das Maravilhas\" caracteriza-se por:",
+                                               "alternativas":  {
+                                                                    "a":  "seguir a estrutura clássica da tragédia em cinco atos, com clímax e desfecho moral",
+                                                                    "b":  "avançar por episódios em que a lógica é levada a sério até se tornar absurda",
+                                                                    "c":  "alternar capítulos narrados por Alice e capítulos narrados pelo Coelho Branco",
+                                                                    "d":  "reproduzir a forma do romance epistolar, com cartas trocadas entre Alice e sua irmã mais velha",
+                                                                    "e":  "apresentar um enredo de aventura convencional, com objetivo claro e obstáculos progressivos"
+                                                                },
+                                               "resposta":  "b",
+                                               "explicacao":  "Não há missão a cumprir nem progressão de obstáculos: cada encontro aplica uma regra com rigor excessivo, e o resultado é o disparate. Em (e) está a expectativa que o rótulo de literatura infantil cria, e é justamente ela que o livro frustra. Em (a), (c) e (d), não é tragédia em atos, não alterna narradores e não é epistolar."
+                                           },
+                                           {
+                                               "id":  "obra-alice-pais-das-maravilhas-q2",
+                                               "enunciado":  "Boa parte do humor do livro nasce de personagens que:",
+                                               "alternativas":  {
+                                                                    "a":  "interpretam a linguagem ao pé da letra, aplicando regras fora de seu contexto",
+                                                                    "b":  "imitam sotaques regionais britânicos reconhecíveis pelo leitor da época vitoriana",
+                                                                    "c":  "repetem provérbios populares deturpados, cujo sentido original o leitor deve reconstituir",
+                                                                    "d":  "fingem não entender Alice para escondê-la das autoridades que a perseguem no país",
+                                                                    "e":  "trocam de corpo entre si a cada capítulo, gerando confusões de identidade sucessivas"
+                                                                },
+                                               "resposta":  "a",
+                                               "explicacao":  "Levar a sério o sentido literal de uma expressão é o método do livro, e o efeito cômico expõe quanto do entendimento comum depende de convenção tácita. Em (c) está o recurso mais próximo, e há de fato paródia de versos e canções conhecidos — o motor principal, porém, é a literalidade, não a deturpação de provérbio. Em (b), (d) e (e), não há sotaque regional, perseguição nem troca de corpos."
+                                           },
+                                           {
+                                               "id":  "obra-alice-pais-das-maravilhas-q3",
+                                               "enunciado":  "Sobre o autor, é correto afirmar que:",
+                                               "alternativas":  {
+                                                                    "a":  "era romancista profissional e vivia da venda de seus livros infantis na Inglaterra",
+                                                                    "b":  "publicou a obra sob o próprio nome civil, Lewis Carroll, usado na vida acadêmica",
+                                                                    "c":  "era professor de matemática e lógica em Oxford, e escrevia sob pseudônimo",
+                                                                    "d":  "foi ilustrador antes de escritor e assinou pessoalmente as ilustrações da primeira edição",
+                                                                    "e":  "escreveu o livro na velhice, depois de aposentar-se do ensino universitário na Inglaterra"
+                                                                },
+                                               "resposta":  "c",
+                                               "explicacao":  "Lewis Carroll é pseudônimo de Charles Lutwidge Dodgson, e o interesse dele por lógica formal explica boa parte dos paradoxos do texto. Em (b) está a inversão exata: o nome pelo qual o livro é conhecido é justamente o inventado, e o civil é o que assinava os trabalhos de matemática. Em (a), (d) e (e), não viveu de literatura, não ilustrou a primeira edição e escreveu a obra na casa dos trinta."
+                                           },
+                                           {
+                                               "id":  "obra-alice-pais-das-maravilhas-q4",
+                                               "texto_apoio":  "No julgamento que fecha a narrativa, a sentença é anunciada antes do veredicto, e o veredicto antes das provas.",
+                                               "enunciado":  "Esse episódio funciona como:",
+                                               "alternativas":  {
+                                                                    "a":  "cena de suspense que resolve, ao final, o mistério apresentado no início da narrativa",
+                                                                    "b":  "demonstração de que o sistema judicial britânico da época era rigoroso e bem ordenado",
+                                                                    "c":  "momento em que Alice assume o papel de juíza e aplica a sentença às demais personagens",
+                                                                    "d":  "sonho dentro do sonho, recurso que a narrativa emprega repetidamente ao longo dos capítulos",
+                                                                    "e":  "a forma da autoridade preservada com rigor, e é o rigor aplicado ao vazio que a desmascara"
+                                                                },
+                                               "resposta":  "e",
+                                               "explicacao":  "O tribunal cumpre todos os ritos e inverte a ordem que lhes daria sentido — a crítica não vem da desordem, vem da ordem perfeita a serviço de nada. Em (b) está a leitura que toma o procedimento por elogio, e ela ignora a inversão. Em (a), não há mistério a resolver. Em (c) e (d), Alice não julga ninguém e não há sonho encaixado nesse ponto."
+                                           },
+                                           {
+                                               "id":  "obra-alice-pais-das-maravilhas-q5",
+                                               "enunciado":  "Em relação à literatura infantil de seu tempo, o livro se destaca por:",
+                                               "alternativas":  {
+                                                                    "a":  "trazer moral explícita ao final de cada capítulo, como pedia a pedagogia vitoriana",
+                                                                    "b":  "ser o primeiro livro infantil publicado com ilustrações coloridas na Inglaterra",
+                                                                    "c":  "dispensar a lição final e tratar a autoridade adulta como arbitrária",
+                                                                    "d":  "ter sido escrito por encomenda de uma editora especializada em material escolar",
+                                                                    "e":  "destinar-se a leitores adultos, sendo lido por crianças apenas a partir do século XX"
+                                                                },
+                                               "resposta":  "c",
+                                               "explicacao":  "A literatura para crianças da Inglaterra vitoriana tinha função declaradamente pedagógica, e o livro rompe com isso: não ensina nada ao fim e mostra os adultos aplicando regras sem razão. Em (e) está a hipótese mais sofisticada e ainda assim errada — a história nasceu de uma narração improvisada para crianças, num passeio de barco, e para elas foi escrita. Em (a), (b) e (d), não há moral final, pioneirismo em cor nem encomenda editorial."
+                                           }
+                                       ],
+    "obra-casa-velha":  [
+                            {
+                                "id":  "obra-casa-velha-q1",
+                                "enunciado":  "Quem narra \"Casa Velha\", de Machado de Assis?",
+                                "alternativas":  {
+                                                     "a":  "a matriarca da casa, que justifica em primeira pessoa as decisões que tomou",
+                                                     "b":  "um narrador onisciente em terceira pessoa, que acompanha as personagens de igual modo",
+                                                     "c":  "a moça pobre protegida pela família, que relata o próprio ponto de vista sobre o episódio",
+                                                     "d":  "um sacerdote que reconstitui, décadas depois, o que presenciou na casa",
+                                                     "e":  "o filho da dona da casa, que escreve na velhice para explicar por que se afastou da família"
+                                                 },
+                                "resposta":  "d",
+                                "explicacao":  "Ele chega à casa para pesquisar documentos de família, assiste ao que se passa e conta muito depois — testemunha que quase nada faz, e é dessa posição que vem a força do relato. Em (e) está a escolha narrativa mais convencional para a história de um amor impedido, e ela apagaria o essencial: a distância de quem observa sem estar em jogo. Em (a) e (c), nem a matriarca nem a moça narram. Em (b), não há onisciência."
+                            },
+                            {
+                                "id":  "obra-casa-velha-q2",
+                                "enunciado":  "O conflito central da novela se organiza em torno de:",
+                                "alternativas":  {
+                                                     "a":  "uma disputa de herança entre irmãos após a morte do patriarca da família retratada",
+                                                     "b":  "o amor entre o filho da casa e uma moça pobre acolhida pela família",
+                                                     "c":  "a fuga de uma pessoa escravizada e a perseguição organizada pelos moradores da casa",
+                                                     "d":  "a falência financeira da família e a necessidade de vender a propriedade rural herdada",
+                                                     "e":  "a conversão religiosa da matriarca e o conflito que isso gera com os filhos mais velhos"
+                                                 },
+                                "resposta":  "b",
+                                "explicacao":  "A diferença de posição social entre os dois é o que aciona a máquina doméstica da casa, e o resto da novela é o funcionamento dessa máquina. Em (a) está o enredo mais típico da ficção oitocentista sobre casas senhoriais, e não é este. Em (c), (d) e (e), fuga, falência e conversão não organizam a trama."
+                            },
+                            {
+                                "id":  "obra-casa-velha-q3",
+                                "enunciado":  "O modo como a matriarca desfaz a relação caracteriza-se por:",
+                                "alternativas":  {
+                                                     "a":  "manobras silenciosas, sem proibição explícita nem confronto aberto",
+                                                     "b":  "uma proibição formal comunicada ao filho diante da família reunida na sala de visitas",
+                                                     "c":  "recurso à autoridade eclesiástica, que é chamada a interditar oficialmente o casamento",
+                                                     "d":  "ameaça pública de deserdar o filho, feita por escrito e registrada em cartório da corte",
+                                                     "e":  "expulsão imediata da moça da casa, executada na presença dos demais agregados da família"
+                                                 },
+                                "resposta":  "a",
+                                "explicacao":  "Nenhuma ordem é dada e nenhuma recusa é registrada, mas tudo termina como ela queria — a hierarquia opera melhor quando não precisa se enunciar. Em (e) está a solução mais direta e a que o texto evita: expulsar exigiria assumir a decisão, e o método da casa é justamente não assumir nada. Em (b), (c) e (d), não há proibição formal, interdição religiosa nem ameaça em cartório."
+                            },
+                            {
+                                "id":  "obra-casa-velha-q4",
+                                "enunciado":  "Quanto à posição da novela na obra de Machado de Assis, é correto afirmar que:",
+                                "alternativas":  {
+                                                     "a":  "foi seu primeiro texto de ficção, escrito antes do primeiro romance publicado pelo autor",
+                                                     "b":  "é obra póstuma, encontrada entre os papéis do escritor e publicada por seus herdeiros",
+                                                     "c":  "saiu em folhetim na década de 1880 e só foi recuperada pela crítica no século XX",
+                                                     "d":  "integra a chamada primeira fase romântica, anterior à virada de 1881 na carreira do autor",
+                                                     "e":  "é o último texto que escreveu, publicado poucos meses antes de sua morte, em 1908"
+                                                 },
+                                "resposta":  "c",
+                                "explicacao":  "Publicada em folhetim entre 1885 e 1886, portanto entre \"Brás Cubas\" e \"Quincas Borba\", a novela ficou esquecida por décadas antes de ser recuperada pela crítica, com destaque para Lúcia Miguel Pereira. Em (d) está o erro cronológico mais provável para um texto pouco conhecido: a data o coloca em cheio na fase madura, não na romântica. Em (a), (b) e (e), não é estreia, obra póstuma nem texto final."
+                            },
+                            {
+                                "id":  "obra-casa-velha-q5",
+                                "enunciado":  "A figura do agregado, central na sociedade retratada, designa:",
+                                "alternativas":  {
+                                                     "a":  "o trabalhador assalariado contratado por temporada para o serviço agrícola da propriedade",
+                                                     "b":  "o parente distante que herda parte dos bens da família ao falecimento do proprietário",
+                                                     "c":  "o funcionário público que administra os bens da família por delegação do juiz de órfãos",
+                                                     "d":  "quem vive na casa sob a proteção da família, sem ser da família nem ser escravizado",
+                                                     "e":  "o proprietário vizinho que arrenda terras da casa senhorial em troca de parte da colheita"
+                                                 },
+                                "resposta":  "d",
+                                "explicacao":  "É a posição intermediária que define a estrutura do favor: sem propriedade e sem cativeiro, o agregado depende inteiramente da vontade de quem o abriga, e essa dependência é o que decide o destino da moça. Em (a) está a confusão mais próxima, porque também descreve alguém sem posses vinculado à propriedade — o assalariado, porém, tem contrato, e o agregado tem só a proteção. Em (b), (c) e (e), herdeiro, funcionário e arrendatário são outras figuras."
+                            }
+                        ],
+    "obra-gonzaga-de-sa":  [
+                               {
+                                   "id":  "obra-gonzaga-de-sa-q1",
+                                   "enunciado":  "A estrutura de \"Vida e Morte de M. J. Gonzaga de Sá\", de Lima Barreto, caracteriza-se por:",
+                                   "alternativas":  {
+                                                        "a":  "uma sucessão de peripécias de aventura, com reviravoltas a cada capítulo do romance",
+                                                        "b":  "um enredo policial em que o narrador investiga as circunstâncias de uma morte suspeita",
+                                                        "c":  "a alternância entre capítulos ambientados no Rio e capítulos ambientados em Portugal",
+                                                        "d":  "a forma de diário íntimo, com entradas datadas ao longo de um único ano de convivência",
+                                                        "e":  "pouca ação e muita conversa: os dois caminham pela cidade e comentam o que veem"
+                                                    },
+                                   "resposta":  "e",
+                                   "explicacao":  "O romance avança por caminhadas, visitas e conversa; o que está em jogo é o olhar sobre a cidade, não o encadeamento de fatos. Em (b) está a expectativa que o título cria, com sua promessa de vida e morte, e o livro não é investigação de nada. Em (a), (c) e (d), não há aventura, alternância com Portugal nem forma de diário."
+                               },
+                               {
+                                   "id":  "obra-gonzaga-de-sa-q2",
+                                   "enunciado":  "A relação entre Augusto Machado, o narrador, e Gonzaga de Sá é a de:",
+                                   "alternativas":  {
+                                                        "a":  "um jornalista e a fonte que lhe entrega documentos comprometedores sobre a administração",
+                                                        "b":  "dois irmãos separados na infância que se reencontram já adultos numa repartição pública",
+                                                        "c":  "um professor universitário e seu antigo aluno, agora colegas na mesma instituição de ensino",
+                                                        "d":  "um funcionário de origem modesta que escreve a biografia de um colega mais velho",
+                                                        "e":  "pai e filho, o primeiro funcionário aposentado e o segundo recém-ingresso no serviço público"
+                                                    },
+                                   "resposta":  "d",
+                                   "explicacao":  "A diferença de origem entre os dois é o que organiza o livro: um vê a elite de fora, o outro pertence a ela e por isso pode desmontá-la por dentro. Em (c) está o vínculo mais plausível entre um homem mais velho e um mais novo num romance de conversas, e não é o do texto — os dois são colegas de repartição, não de universidade. Em (b), (a) e (e), não são irmãos, jornalista e fonte, nem pai e filho."
+                               },
+                               {
+                                   "id":  "obra-gonzaga-de-sa-q3",
+                                   "enunciado":  "O alvo principal da crítica do romance é:",
+                                   "alternativas":  {
+                                                        "a":  "a Igreja Católica e sua influência sobre a educação pública durante a Primeira República",
+                                                        "b":  "a burocracia, os títulos vazios e a modernização de fachada do Rio republicano",
+                                                        "c":  "o movimento operário carioca e suas divisões internas no início do século XX",
+                                                        "d":  "a imprensa carioca da época, acusada de manipular a opinião pública em favor do governo",
+                                                        "e":  "a política externa brasileira e os acordos comerciais firmados com potências europeias"
+                                                    },
+                                   "resposta":  "b",
+                                   "explicacao":  "O Rio das reformas urbanas aparece como projeto de aparência, com repartições infladas e uma elite que confunde importar costumes com progredir. Em (d) está o alvo mais próximo, e a imprensa até aparece no livro — o núcleo da crítica, porém, é a máquina pública e a sociabilidade da elite. Em (a), (c) e (e), Igreja, movimento operário e política externa não são o foco."
+                               },
+                               {
+                                   "id":  "obra-gonzaga-de-sa-q4",
+                                   "texto_apoio":  "Numa das cenas, o narrador observa uma galeria de retratos de antepassados na sala de visitas, homens de farda e medalhas com olhar imperioso.",
+                                   "enunciado":  "Essa cena funciona no romance como:",
+                                   "alternativas":  {
+                                                        "a":  "prova documental da nobreza da família, apresentada para autenticar a linhagem do biografado",
+                                                        "b":  "digressão sem função no enredo, incluída apenas para descrever o interior das casas da época",
+                                                        "c":  "imagem da autoridade senhorial que sobrevive à República e ainda intimida quem entra",
+                                                        "d":  "anúncio de que os retratados voltarão como personagens em capítulos posteriores do livro",
+                                                        "e":  "elogio à tradição familiar brasileira, que o narrador contrapõe à pressa da vida moderna"
+                                                    },
+                                   "resposta":  "c",
+                                   "explicacao":  "Os antepassados olham de cima, e o narrador de origem modesta sente o peso disso: a República mudou o regime e não desmontou a hierarquia, que agora ocupa a parede. Em (e) está a leitura que inverte o sentido da cena, tomando por homenagem o que é desconforto. Em (a), não há autenticação de linhagem. Em (b) e (d), a cena tem função e os retratados não retornam."
+                               },
+                               {
+                                   "id":  "obra-gonzaga-de-sa-q5",
+                                   "enunciado":  "Sobre Lima Barreto, é correto afirmar que:",
+                                   "alternativas":  {
+                                                        "a":  "pertencia à elite carioca e escreveu sobre os subúrbios a partir de pesquisa de campo",
+                                                        "b":  "foi eleito para a Academia Brasileira de Letras em vida, com apoio unânime dos pares",
+                                                        "c":  "viveu na Europa a maior parte da vida adulta e escreveu sobre o Brasil à distância",
+                                                        "d":  "publicou apenas após a morte, com os originais guardados em gaveta até 1922",
+                                                        "e":  "era negro, funcionário público e foi marginalizado em vida pela crítica oficial"
+                                                    },
+                                   "resposta":  "e",
+                                   "explicacao":  "Trabalhou na Secretaria da Guerra, conheceu por dentro a burocracia que satiriza e só foi plenamente reconhecido décadas após a morte. Em (b) está o destino que ele buscou e não teve: candidatou-se à ABL e não foi eleito, episódio que a biografia registra como amargo. Em (a) e (c), não era da elite nem viveu na Europa. Em (d), publicou em vida, inclusive este romance, de 1919."
+                               }
+                           ],
+    "obra-cartola-cancoes-escolhidas":  [
+                                            {
+                                                "id":  "obra-cartola-cancoes-escolhidas-q1",
+                                                "enunciado":  "Os temas recorrentes nos sambas de Cartola reunidos na seleção são:",
+                                                "alternativas":  {
+                                                                     "a":  "a crítica ao governo e a convocação à mobilização política dos moradores do morro",
+                                                                     "b":  "a descrição da paisagem rural brasileira e do trabalho no campo em ciclos de colheita",
+                                                                     "c":  "o fim do amor, a saudade sem autopiedade, a passagem do tempo e o morro",
+                                                                     "d":  "a exaltação do carnaval como festa nacional e o relato de desfiles em ordem cronológica",
+                                                                     "e":  "a vida noturna do centro do Rio e o cotidiano das casas de espetáculo da Lapa dos anos 1940"
+                                                                 },
+                                                "resposta":  "c",
+                                                "explicacao":  "São poucos temas, retomados por décadas e aprofundados a cada volta: é a repetição que dá densidade à obra. Em (d) está a associação automática entre samba e carnaval, e o repertório de Cartola é sobretudo de samba-canção, feito para ouvir e não para desfilar. Em (a), (b) e (e), não há convocação política, tema rural nem crônica da vida noturna."
+                                            },
+                                            {
+                                                "id":  "obra-cartola-cancoes-escolhidas-q2",
+                                                "enunciado":  "A linguagem das letras caracteriza-se por:",
+                                                "alternativas":  {
+                                                                     "a":  "vocabulário rebuscado e sintaxe complexa, próxima da poesia parnasiana brasileira",
+                                                                     "b":  "uso intenso de gíria do morro, com termos que hoje exigiriam glossário para o ouvinte comum",
+                                                                     "c":  "predominância de neologismos criados pelo compositor ao longo de sua carreira musical",
+                                                                     "d":  "estrutura de narrativa longa, com enredo desenvolvido do início ao fim de cada canção",
+                                                                     "e":  "vocabulário simples e sintaxe cuidada, com força que vem da precisão e não do ornamento"
+                                                                 },
+                                                "resposta":  "e",
+                                                "explicacao":  "A palavra é comum e o arranjo dela é exato — dizer uma situação corriqueira sem uma sílaba a mais é o que distingue essas letras. Em (b) está a expectativa que a origem do compositor cria, e o repertório dele quase não usa gíria datada, o que explica em parte por que continua legível décadas depois. Em (a), (c) e (d), não há rebuscamento parnasiano, neologismo nem enredo longo."
+                                            },
+                                            {
+                                                "id":  "obra-cartola-cancoes-escolhidas-q3",
+                                                "enunciado":  "A trajetória de Cartola inclui:",
+                                                "alternativas":  {
+                                                                     "a":  "estreia fonográfica ainda na juventude, com discos regulares a partir da década de 1930",
+                                                                     "b":  "cofundar a Mangueira em 1928 e gravar o primeiro disco solo apenas em 1974",
+                                                                     "c":  "formação em música erudita no Conservatório e posterior migração para o samba",
+                                                                     "d":  "carreira construída fora do Brasil, com retorno definitivo ao país apenas nos anos 1970",
+                                                                     "e":  "atuação exclusiva como intérprete, sem nenhuma composição própria em seu repertório"
+                                                                 },
+                                                "resposta":  "b",
+                                                "explicacao":  "Entre a fundação da escola e o primeiro disco solo passam quarenta e seis anos, e é essa distância que o caso torna visível: reconhecimento simbólico e acesso material não caminham juntos. Em (a) está a suposição natural para um compositor central do samba, e ela erra por décadas — suas canções circularam na voz de outros desde os anos 1930, mas ele mesmo só gravou aos 65. Em (c), (d) e (e), não houve formação erudita, carreira no exterior nem ausência de composição."
+                                            },
+                                            {
+                                                "id":  "obra-cartola-cancoes-escolhidas-q4",
+                                                "texto_apoio":  "Numa das canções mais conhecidas do conjunto, o mundo é comparado a um moinho.",
+                                                "enunciado":  "Essa imagem sugere que o tempo:",
+                                                "alternativas":  {
+                                                                     "a":  "avança em ciclos que se repetem, devolvendo ao eu lírico as mesmas oportunidades",
+                                                                     "b":  "é um adversário que pode ser vencido pela lembrança e pela persistência do afeto",
+                                                                     "c":  "não afeta quem permanece fiel às próprias origens e ao lugar em que nasceu",
+                                                                     "d":  "mói devagar e sem drama, e é essa paciência que torna a perda irreversível",
+                                                                     "e":  "corre mais rápido para quem vive na cidade do que para quem permanece no morro"
+                                                                 },
+                                                "resposta":  "d",
+                                                "explicacao":  "O moinho não destrói de uma vez: tritura, e o aviso da canção é dirigido a quem ainda acredita que dá tempo. Em (a) está a leitura mais consoladora da imagem cíclica, e ela contraria o sentido — moinho não devolve o grão. Em (b), (c) e (e), o tempo não é vencível, não poupa os fiéis à origem nem varia com o endereço."
+                                            },
+                                            {
+                                                "id":  "obra-cartola-cancoes-escolhidas-q5",
+                                                "enunciado":  "O estudo da obra de Cartola permite discutir sobretudo:",
+                                                "alternativas":  {
+                                                                     "a":  "o processo pelo qual o samba, criminalizado nos morros, foi convertido em patrimônio",
+                                                                     "b":  "a influência do jazz norte-americano sobre a harmonia do samba carioca dos anos 1950",
+                                                                     "c":  "a substituição do samba pela bossa nova como gênero dominante no mercado fonográfico",
+                                                                     "d":  "a organização sindical dos músicos brasileiros e a luta por direitos autorais na década de 1940",
+                                                                     "e":  "a diferença técnica entre os instrumentos de percussão usados nas escolas de samba cariocas"
+                                                                 },
+                                                "resposta":  "a",
+                                                "explicacao":  "A biografia do compositor torna o processo visível: o mesmo gênero perseguido pela polícia na juventude dele é celebrado como patrimônio nacional quando ele finalmente grava. Em (c) está o recorte histórico mais próximo, porque a bossa nova de fato disputa espaço no período em que ele esteve afastado — mas ela não substituiu o samba, e não é a discussão que a obra dele suscita. Em (b), (d) e (e), jazz, sindicalismo e percussão são outros assuntos."
+                                            }
+                                        ],
+    "obra-morangos-mofados":  [
+                                  {
+                                      "id":  "obra-morangos-mofados-q1",
+                                      "enunciado":  "\"Morangos Mofados\", de Caio Fernando Abreu, é:",
+                                      "alternativas":  {
+                                                           "a":  "um romance urbano com protagonista único, ambientado em Porto Alegre nos anos 1970",
+                                                           "b":  "uma coletânea de contos de 1982, dividida em duas partes",
+                                                           "c":  "uma reunião de crônicas publicadas na imprensa durante os anos da abertura política",
+                                                           "d":  "um livro de poemas em prosa escrito durante o exílio do autor na Europa, na década de 1970",
+                                                           "e":  "uma peça teatral em ato único, encenada pela primeira vez em São Paulo no início dos anos 1980"
+                                                       },
+                                      "resposta":  "b",
+                                      "explicacao":  "São contos, e a divisão em duas partes — \"O Mofo\" e \"Os Morangos\" — organiza a leitura do volume. Em (c) está a confusão mais provável, porque o autor foi cronista de imprensa reconhecido e publicou coletâneas de crônica: este livro, porém, é de ficção. Em (a), (d) e (e), não é romance, poesia em prosa nem teatro."
+                                  },
+                                  {
+                                      "id":  "obra-morangos-mofados-q2",
+                                      "enunciado":  "As personagens do livro pertencem, em geral, a:",
+                                      "alternativas":  {
+                                                           "a":  "comunidades rurais do Nordeste deslocadas pela seca em direção aos centros urbanos",
+                                                           "b":  "famílias tradicionais do interior gaúcho em processo de empobrecimento econômico",
+                                                           "c":  "um grupo de militantes clandestinos que planeja ações armadas contra o regime militar",
+                                                           "d":  "uma geração que atravessou a ditadura militar e chega aos anos 1980 desiludida",
+                                                           "e":  "elites financeiras paulistanas retratadas em seu cotidiano de trabalho e consumo"
+                                                       },
+                                      "resposta":  "d",
+                                      "explicacao":  "O que restou dos projetos coletivos, dos amores e das drogas dos anos 1970 aparece como resíduo, e é esse resto que os contos examinam. Em (c) está a associação mais direta entre literatura e ditadura, e o livro não é sobre a militância em ação: é sobre o depois, quando ela já não existe. Em (b), (a) e (e), interior gaúcho, migração nordestina e elite financeira não são o universo do livro."
+                                  },
+                                  {
+                                      "id":  "obra-morangos-mofados-q3",
+                                      "enunciado":  "A prosa do livro caracteriza-se por:",
+                                      "alternativas":  {
+                                                           "a":  "sintaxe clássica e vocabulário erudito, na tradição do romance realista do século XIX",
+                                                           "b":  "narração em terceira pessoa uniforme, com narrador distante nos contos reunidos",
+                                                           "c":  "estrutura de folhetim, com capítulos curtos que terminam em suspense para o leitor",
+                                                           "d":  "misturar registro coloquial, fragmento, referência musical e fluxo de consciência",
+                                                           "e":  "reproduzir integralmente o falar gaúcho, com glossário de regionalismos ao final do volume"
+                                                       },
+                                      "resposta":  "d",
+                                      "explicacao":  "A forma acompanha o conteúdo: o desencanto de uma geração é dito numa prosa que se recusa a fechar, com colagem de referências pop e cortes bruscos. Em (b) está a hipótese mais neutra e a que o livro contraria a cada conto, alternando vozes e pessoas. Em (a), (c) e (e), não há sintaxe clássica, estrutura de folhetim nem glossário regional."
+                                  },
+                                  {
+                                      "id":  "obra-morangos-mofados-q4",
+                                      "enunciado":  "A oposição sugerida pelo título do livro pode ser lida como:",
+                                      "alternativas":  {
+                                                           "a":  "o contraste entre a vida no campo, representada pelo morango, e a poluição das grandes cidades",
+                                                           "b":  "a diferença entre os contos escritos na juventude e os escritos na maturidade do autor",
+                                                           "c":  "uma referência à alimentação precária das personagens, tema recorrente nas duas partes",
+                                                           "d":  "a oposição entre literatura estrangeira e nacional, disputada ao longo dos contos do volume",
+                                                           "e":  "o desejável e o que o tempo fez com ele, sem que ninguém decidisse nada"
+                                                       },
+                                      "resposta":  "e",
+                                      "explicacao":  "O morango é o que havia de mais apetecível e o mofo é o que sobrevém sozinho — a imagem descreve uma perda sem culpado identificável, que é exatamente a experiência da geração retratada. Em (a) está a leitura mais literal da imagem, e ela desloca o livro para um tema rural que ele não tem. Em (b), (c) e (d), a divisão não é cronológica, alimentar nem literária."
+                                  },
+                                  {
+                                      "id":  "obra-morangos-mofados-q5",
+                                      "enunciado":  "Sobre Caio Fernando Abreu e o contexto do livro, é correto afirmar que:",
+                                      "alternativas":  {
+                                                           "a":  "o livro saiu em 1982, na abertura política, e o autor viveu no exílio durante parte da ditadura",
+                                                           "b":  "o livro é póstumo, organizado por amigos do autor a partir de contos deixados inéditos",
+                                                           "c":  "o autor manteve a própria doença em segredo, sem abordá-la publicamente em vida",
+                                                           "d":  "o livro foi proibido pela censura na data de lançamento e só circulou a partir de 1985",
+                                                           "e":  "o autor era paulista de nascimento e passou a vida inteira em São Paulo, sem viver fora do país"
+                                                       },
+                                      "resposta":  "a",
+                                      "explicacao":  "Gaúcho de Santiago do Boqueirão, ele passou parte do período de repressão fora do país, e o livro chega em 1982, quando a abertura já estava em curso. Em (c) está o erro mais provável para quem sabe que ele morreu de aids em 1996: ele tratou publicamente do assunto em crônicas na imprensa, e essa exposição é parte de sua biografia. Em (b) e (d), o livro é de vida e não foi proibido. Em (e), era gaúcho e viveu na Europa."
+                                  }
+                              ],
+    "obra-prosas-odes-minimas":  [
+                                     {
+                                         "id":  "obra-prosas-odes-minimas-q1",
+                                         "enunciado":  "O título \"Prosas Seguidas de Odes Mínimas\", de José Paulo Paes, anuncia:",
+                                         "alternativas":  {
+                                                              "a":  "as duas partes do livro: poemas de fôlego largo e poemas curtíssimos",
+                                                              "b":  "a reunião de textos em prosa do autor com poemas de outros escritores contemporâneos seus",
+                                                              "c":  "um estudo teórico sobre a ode clássica seguido de exemplos comentados em ordem cronológica",
+                                                              "d":  "a tradução comentada de odes gregas antigas acompanhada de prefácio em prosa do tradutor",
+                                                              "e":  "a divisão entre poemas de juventude e de maturidade, separados por três décadas de silêncio"
+                                                          },
+                                         "resposta":  "a",
+                                         "explicacao":  "O título descreve a arquitetura do volume: primeiro os poemas longos, em que o verso se aproxima da frase corrente, depois as odes mínimas, de dois ou três versos. Em (d) está a leitura mais tentadora para quem conhece a biografia — Paes foi um dos grandes tradutores brasileiros, do grego inclusive, e o leitor supõe tradução onde há obra própria. Em (b) e (e), não há antologia coletiva nem corte biográfico. Em (c), não é estudo teórico."
+                                     },
+                                     {
+                                         "id":  "obra-prosas-odes-minimas-q2",
+                                         "enunciado":  "O humor, nos poemas do livro, funciona como:",
+                                         "alternativas":  {
+                                                              "a":  "recurso para evitar temas difíceis, substituídos por brincadeira leve",
+                                                              "b":  "método para tratar morte e envelhecimento sem solenidade",
+                                                              "c":  "marca de que os poemas foram escritos para público infantil e juvenil",
+                                                              "d":  "sátira dirigida a poetas contemporâneos, nomeados ao longo das composições do volume",
+                                                              "e":  "elemento presente apenas nas prosas iniciais, ausente por completo das odes que as seguem"
+                                                          },
+                                         "resposta":  "b",
+                                         "explicacao":  "O trocadilho e o paradoxo não afastam a matéria grave: são o modo de dizê-la sem tom nobre, e é essa combinação que a crítica destaca no autor. Em (a) está a leitura mais comum e mais equivocada sobre poesia bem-humorada, que confunde ausência de solenidade com ausência de assunto. Em (e), o humor atravessa as duas partes. Em (c) e (d), não há destinação infantil nem sátira a nomes."
+                                     },
+                                     {
+                                         "id":  "obra-prosas-odes-minimas-q3",
+                                         "enunciado":  "A concisão extrema das \"odes mínimas\" deve ser entendida como:",
+                                         "alternativas":  {
+                                                              "a":  "consequência do formato de publicação em jornal, que limitava o espaço disponível",
+                                                              "b":  "sinal de que se trata de rascunhos não desenvolvidos, publicados em estado bruto",
+                                                              "c":  "escolha formal: dizer muito em poucos versos é o efeito buscado",
+                                                              "d":  "adesão do autor ao movimento da poesia concreta paulista, do qual ele foi um dos fundadores",
+                                                              "e":  "limitação imposta pela editora ao número total de páginas do volume publicado em 1992"
+                                                          },
+                                         "resposta":  "c",
+                                         "explicacao":  "A brevidade é o instrumento: nos poemas mais curtos, uma única virada de sentido carrega o peso inteiro do texto. Em (d) está o distrator mais informado, porque a concisão e o jogo verbal aproximam Paes do concretismo paulista, contemporâneo dele — mas ele não integrou o grupo, e sua poesia mantém sintaxe e discurso que o concretismo rejeitava. Em (a), (b) e (e), nem o jornal, nem o rascunho, nem a editora explicam a forma."
+                                     },
+                                     {
+                                         "id":  "obra-prosas-odes-minimas-q4",
+                                         "enunciado":  "Sobre José Paulo Paes, é correto afirmar que:",
+                                         "alternativas":  {
+                                                              "a":  "publicou apenas este livro, dedicando o resto da vida à crítica acadêmica de poesia brasileira",
+                                                              "b":  "escrevia em espanhol e teve a obra vertida ao português por tradutores brasileiros da época",
+                                                              "c":  "dedicou-se apenas ao verso, sem atuação em outra área da vida literária do país",
+                                                              "d":  "foi poeta, ensaísta e um dos principais tradutores brasileiros, de várias línguas",
+                                                              "e":  "estreou na literatura já octogenário, com este volume publicado em 1992"
+                                                          },
+                                         "resposta":  "d",
+                                         "explicacao":  "Além da obra poética própria, Paes traduziu do grego, do inglês, do dinamarquês e do russo, entre outras línguas, e escreveu ensaio sobre tradução. Em (e) está o erro cronológico mais fácil: o livro é de 1992 e ele nasceu em 1926, o que o põe na casa dos sessenta, não na dos oitenta, e com décadas de obra publicada atrás. Em (a) e (c), a produção é vasta e multifacetada. Em (b), escrevia em português."
+                                     },
+                                     {
+                                         "id":  "obra-prosas-odes-minimas-q5",
+                                         "enunciado":  "A relação entre as duas partes do livro se caracteriza por:",
+                                         "alternativas":  {
+                                                              "a":  "tratarem de assuntos sem relação entre si, reunidos num volume por conveniência editorial",
+                                                              "b":  "a segunda parte comentar criticamente, verso a verso, os poemas apresentados na primeira",
+                                                              "c":  "a primeira ser de autoria do poeta e a segunda reunir traduções de autores estrangeiros",
+                                                              "d":  "haver progressão cronológica rigorosa, dos poemas mais antigos aos mais recentes do autor",
+                                                              "e":  "retomarem a mesma matéria em escalas diferentes, uma estendida e outra comprimida"
+                                                          },
+                                         "resposta":  "e",
+                                         "explicacao":  "Tempo, corpo e desencanto aparecem nas duas partes; o que muda é a extensão, e a versão comprimida costuma ser a mais dura. Em (d) está a hipótese organizacional mais natural para um livro dividido em dois, e ela não se sustenta: o critério é de forma, não de data. Em (b) e (c), a segunda parte não comenta a primeira nem traz traduções. Em (a), há continuidade temática clara."
+                                     }
+                                 ],
+    "obra-no-seu-pescoco":  [
+                                {
+                                    "id":  "obra-no-seu-pescoco-q1",
+                                    "enunciado":  "\"No Seu Pescoço\", de Chimamanda Ngozi Adichie, reúne histórias ambientadas:",
+                                    "alternativas":  {
+                                                         "a":  "entre a Nigéria e os Estados Unidos, acompanhando personagens em deslocamento",
+                                                         "b":  "apenas em Lagos, retratando a vida de uma única família ao longo de três gerações",
+                                                         "c":  "na Inglaterra colonial, com personagens britânicos que administram territórios africanos",
+                                                         "d":  "num país africano fictício, criado pela autora para evitar referência a nações reais existentes",
+                                                         "e":  "no Brasil e em Angola, seguindo rotas históricas do comércio atlântico entre os dois países"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "As histórias se dividem entre os dois países, e a travessia — quem parte, quem fica, quem volta — é o eixo do volume. Em (b) está a estrutura mais comum em coletâneas de um mesmo autor sobre um mesmo lugar, e ela apagaria o assunto central, que é justamente o deslocamento. Em (c), (d) e (e), não há perspectiva colonial britânica, país fictício nem eixo Brasil-Angola."
+                                },
+                                {
+                                    "id":  "obra-no-seu-pescoco-q2",
+                                    "enunciado":  "O conto que dá título ao livro acompanha uma jovem que:",
+                                    "alternativas":  {
+                                                         "a":  "retorna à Nigéria depois de vinte anos e não reconhece mais a cidade em que cresceu",
+                                                         "b":  "estuda medicina em Lagos e decide abandonar o curso para trabalhar como jornalista",
+                                                         "c":  "emigra para os Estados Unidos após ganhar um visto em loteria e encontra solidão",
+                                                         "d":  "participa da guerra de Biafra como enfermeira voluntária num hospital de campanha",
+                                                         "e":  "escreve cartas à irmã que ficou na Nigéria e não recebe resposta alguma de volta"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "Do outro lado do visto sorteado estão o emprego precário, o isolamento e o peso de ser lida sempre pela origem. Em (a) está a variação mais próxima do mesmo tema, o retorno impossível, que aparece em outros contos do volume mas não neste. Em (b), (d) e (e), o curso de medicina, a guerra de Biafra e a troca de cartas pertencem a outras histórias ou não estão no livro."
+                                },
+                                {
+                                    "id":  "obra-no-seu-pescoco-q3",
+                                    "enunciado":  "O encontro entre personagens nigerianas e norte-americanas é retratado sobretudo como:",
+                                    "alternativas":  {
+                                                         "a":  "conflito aberto e declarado, com hostilidade explícita de parte a parte nos contos",
+                                                         "b":  "convivência harmoniosa que dissolve rapidamente as diferenças culturais entre as personagens",
+                                                         "c":  "relação puramente econômica, mediada por contratos de trabalho e sem dimensão pessoal",
+                                                         "d":  "assunto ausente do livro, que trata apenas da vida das personagens dentro da Nigéria",
+                                                         "e":  "sucessão de mal-entendidos em que o interlocutor bem-intencionado é quem mais reduz o outro"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "A curiosidade simpática que pergunta sempre a mesma coisa faz mais estrago que a grosseria, porque não pode ser recusada sem parecer ingratidão — é a crítica à história única posta em prática. Em (a) está a expectativa mais óbvia sobre racismo em literatura, e o livro trabalha num registro mais incômodo, o da boa intenção. Em (b), (c) e (d), não há harmonia, redução ao econômico nem ausência do tema."
+                                },
+                                {
+                                    "id":  "obra-no-seu-pescoco-q4",
+                                    "enunciado":  "A expressão \"o perigo de uma história única\", associada à autora, refere-se:",
+                                    "alternativas":  {
+                                                         "a":  "à redução de um povo inteiro a uma só narrativa sobre quem ele é",
+                                                         "b":  "ao risco de um escritor repetir o mesmo enredo em livros diferentes ao longo da carreira",
+                                                         "c":  "à defesa de que cada país deve ter uma narrativa nacional unificada e ensinada nas escolas",
+                                                         "d":  "à crítica ao romance como gênero, acusado de comportar apenas uma perspectiva por vez",
+                                                         "e":  "à preferência da autora por coletâneas de contos em lugar de romances de fôlego longo"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "A tese da conferência é que uma só história repetida sobre um povo vira a única coisa que se sabe dele, e os contos do livro desmontam isso multiplicando as trajetórias. Em (e) está a inferência mais tentadora para quem liga a frase a este volume de contos: a escolha de forma não é o assunto da expressão. Em (b), (c) e (d), não se trata de repetição autoral, narrativa nacional nem crítica ao gênero romance."
+                                },
+                                {
+                                    "id":  "obra-no-seu-pescoco-q5",
+                                    "enunciado":  "A inclusão deste livro na lista da Unicamp é notável porque:",
+                                    "alternativas":  {
+                                                         "a":  "é o primeiro título de autoria feminina a integrar a lista de obras do vestibular",
+                                                         "b":  "está entre as obras de original em língua não portuguesa admitidas na lista",
+                                                         "c":  "foi escrito originalmente em português por autora nigeriana radicada em Portugal",
+                                                         "d":  "substituiu integralmente as obras de autores brasileiros que compunham a lista anterior",
+                                                         "e":  "é o único livro de contos da lista, formada no restante por romances e ensaios longos"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "A lista passou a admitir originais em outras línguas, e este título entra ao lado de \"Alice no País das Maravilhas\" nessa condição. Em (e) está o distrator mais fácil de aceitar sem conferir: \"Olhos d\u0027Água\" e \"Morangos Mofados\" também são coletâneas de contos na mesma lista. Em (a), há outras autoras. Em (c), o original é em inglês. Em (d), a lista segue majoritariamente brasileira."
+                                }
+                            ],
+    "obra-olhos-dagua":  [
+                             {
+                                 "id":  "obra-olhos-dagua-q1",
+                                 "enunciado":  "\"Olhos d\u0027Água\", de Conceição Evaristo, é:",
+                                 "alternativas":  {
+                                                      "a":  "um romance de formação sobre uma única protagonista, acompanhada da infância à velhice",
+                                                      "b":  "uma coletânea de contos centrados em mulheres negras e na vida de periferia",
+                                                      "c":  "um livro de memórias em que a autora reconstitui a própria trajetória escolar e familiar",
+                                                      "d":  "uma reunião de ensaios acadêmicos sobre literatura afro-brasileira e seus principais autores",
+                                                      "e":  "uma peça de teatro em três atos, escrita para um coletivo de atrizes negras de Belo Horizonte"
+                                                  },
+                                 "resposta":  "b",
+                                 "explicacao":  "São histórias curtas e independentes, cada uma com sua protagonista, e o conjunto compõe um retrato coletivo sem transformar as personagens em tipos. Em (c) está a confusão mais provável, porque a escrevivência parte da experiência vivida e sugere autobiografia — o livro é ficção, ainda que ancorada nessa experiência. Em (a), não há protagonista única. Em (d) e (e), não é ensaio nem teatro."
+                             },
+                             {
+                                 "id":  "obra-olhos-dagua-q2",
+                                 "texto_apoio":  "O conto \"Ana Davenga\" é um dos mais estudados do volume.",
+                                 "enunciado":  "Nesse conto, a personagem-título é:",
+                                 "alternativas":  {
+                                                      "a":  "uma professora que retorna à comunidade onde nasceu para alfabetizar adultos à noite",
+                                                      "b":  "uma jovem que deixa a favela para trabalhar como doméstica num bairro de classe média alta",
+                                                      "c":  "a mulher de um homem procurado pela polícia, observada de perto pela comunidade",
+                                                      "d":  "a narradora do conto, que reconstitui em primeira pessoa a própria infância no morro",
+                                                      "e":  "uma cantora de samba que enfrenta a resistência da família para seguir carreira artística"
+                                                  },
+                                 "resposta":  "c",
+                                 "explicacao":  "O conto acompanha a relação de Ana com Davenga e o modo como os outros a olham — atenção que é, ao mesmo tempo, proteção e vigilância. Em (d) está o distrator que a força da voz narrativa sugere: a narração não é dela, e essa distância é justamente o que permite ao texto mostrar como a comunidade a enxerga. Em (a), (b) e (e), professora, doméstica e cantora não correspondem à personagem."
+                             },
+                             {
+                                 "id":  "obra-olhos-dagua-q3",
+                                 "enunciado":  "O tratamento da violência ao longo dos contos caracteriza-se por:",
+                                 "alternativas":  {
+                                                      "a":  "concentrar-se no efeito que ela produz sobre o afeto e a linguagem de quem sobrevive",
+                                                      "b":  "ser mencionada apenas de passagem, sem interferir nos enredos das histórias reunidas",
+                                                      "c":  "aparecer em forma de conflito entre facções rivais dentro da mesma comunidade",
+                                                      "d":  "ocupar o centro da cena como espetáculo, com descrição detalhada de cada agressão sofrida",
+                                                      "e":  "ser atribuída integralmente a fatores individuais, sem dimensão social ou histórica"
+                                                  },
+                                 "resposta":  "a",
+                                 "explicacao":  "A violência está presente, mas o foco recai sobre o que ela deixa: o luto, o silêncio, a maneira de dizer. Em (d) está o oposto exato do procedimento, e é a expectativa mais comum diante de literatura sobre periferia — o livro recusa o espetáculo justamente para não repetir o olhar que transforma essas vidas em cena. Em (b), a violência é estruturante. Em (c) e (e), não se reduz a disputa de facções nem a causas individuais."
+                             },
+                             {
+                                 "id":  "obra-olhos-dagua-q4",
+                                 "enunciado":  "A imagem que dá título ao livro e reaparece ao longo dos contos é:",
+                                 "alternativas":  {
+                                                      "a":  "a do fogo, que atravessa as histórias como imagem de destruição e de recomeço",
+                                                      "b":  "a da estrada, presente nos contos como símbolo do deslocamento das personagens",
+                                                      "c":  "a do espelho, em que cada protagonista se vê pela primeira vez ao final de sua história",
+                                                      "d":  "a da água, em suas várias formas — lágrima, rio, sede —, ligada ao olhar",
+                                                      "e":  "a do relógio, que marca a passagem do tempo entre as diferentes gerações retratadas"
+                                                  },
+                                 "resposta":  "d",
+                                 "explicacao":  "A água costura histórias que não se tocam e transforma contos separados num único retrato. Em (b) está a alternativa mais plausível entre as erradas, porque deslocamento é mesmo tema recorrente na obra da autora — a imagem que unifica este volume, contudo, é outra, e está no título. Em (a), (c) e (e), fogo, espelho e relógio não têm essa função no livro."
+                             },
+                             {
+                                 "id":  "obra-olhos-dagua-q5",
+                                 "enunciado":  "O reconhecimento do livro inclui:",
+                                 "alternativas":  {
+                                                      "a":  "a ausência total de premiação, com o livro reconhecido apenas em circuitos universitários",
+                                                      "b":  "o Prêmio Camões, concedido à autora pelo conjunto da obra na década de 2010",
+                                                      "c":  "o Prêmio Nobel de Literatura, o primeiro concedido a uma autora brasileira",
+                                                      "d":  "a indicação ao Booker Prize internacional, em tradução para o inglês publicada em Londres",
+                                                      "e":  "o Prêmio Jabuti, recebido no ano seguinte ao da publicação"
+                                                  },
+                                 "resposta":  "e",
+                                 "explicacao":  "O livro saiu em 2014 e levou o Jabuti em 2015, marco na circulação da literatura negra brasileira. Em (a) está a suposição mais frequente para uma autora que ficou décadas fora do mercado editorial, e ela erra o momento: o reconhecimento institucional veio, e veio por este livro. Em (b), (c) e (d), Camões, Nobel e Booker não fazem parte de sua trajetória de prêmios."
+                             }
+                         ],
+    "obra-a-vida-nao-e-util":  [
+                                   {
+                                       "id":  "obra-a-vida-nao-e-util-q1",
+                                       "enunciado":  "O argumento central de \"A Vida Não é Útil\", de Ailton Krenak, é uma crítica:",
+                                       "alternativas":  {
+                                                            "a":  "ao sistema de cotas nas universidades brasileiras e aos critérios de sua aplicação prática",
+                                                            "b":  "à ausência de representação indígena no Congresso Nacional durante o período da pandemia",
+                                                            "c":  "à exigência de que tudo justifique sua existência por servir a alguma finalidade produtiva",
+                                                            "d":  "ao modelo de ensino superior brasileiro e à formação técnica oferecida nas universidades",
+                                                            "e":  "à política externa brasileira em relação aos demais países amazônicos e seus territórios"
+                                                        },
+                                       "resposta":  "c",
+                                       "explicacao":  "A recusa está no título: retirar a vida do regime de justificação produtiva em que a modernidade a colocou. Em (b) está o tema mais próximo do que se espera de uma liderança indígena falando durante a pandemia, e não é o do livro — a crítica é a um modo de pensar, não a uma composição parlamentar. Em (a), (d) e (e), cotas, ensino superior e política externa não organizam o texto."
+                                   },
+                                   {
+                                       "id":  "obra-a-vida-nao-e-util-q2",
+                                       "enunciado":  "A expressão \"clube da humanidade\", usada por Krenak, designa:",
+                                       "alternativas":  {
+                                                            "a":  "a Organização das Nações Unidas e seus organismos multilaterais de cooperação internacional",
+                                                            "b":  "o conjunto de povos indígenas que resistiram à colonização e mantiveram suas línguas vivas",
+                                                            "c":  "os cientistas que se reuniram para responder à pandemia em cooperação internacional",
+                                                            "d":  "o grupo restrito que se arroga o direito de definir quem conta como humano",
+                                                            "e":  "a comunidade acadêmica das ciências humanas, criticada por sua distância da vida prática"
+                                                        },
+                                       "resposta":  "d",
+                                       "explicacao":  "A ironia da expressão está em tratar como clube, com sócios e porteiro, algo que se apresenta como categoria universal — e a pergunta é quem ficou de fora. Em (a) está a leitura institucional mais provável, porque a ONU fala em nome da humanidade; a crítica, porém, é mais ampla e anterior a qualquer organismo. Em (b), o clube é justamente quem exclui os indígenas. Em (c) e (e), não são cientistas nem acadêmicos o alvo."
+                                   },
+                                   {
+                                       "id":  "obra-a-vida-nao-e-util-q3",
+                                       "enunciado":  "O formato do livro caracteriza-se por:",
+                                       "alternativas":  {
+                                                            "a":  "ser um romance autobiográfico narrado em primeira pessoa pelo próprio autor",
+                                                            "b":  "reunir a correspondência trocada entre Krenak e lideranças de outros povos indígenas",
+                                                            "c":  "apresentar um tratado sistemático de filosofia ameríndia dividido em capítulos temáticos",
+                                                            "d":  "transcrever integralmente o discurso do autor na Assembleia Constituinte de 1987",
+                                                            "e":  "reunir falas, entrevistas e conferências organizadas em livro"
+                                                        },
+                                       "resposta":  "e",
+                                       "explicacao":  "O texto nasce da oralidade — palestras e entrevistas, boa parte durante a pandemia — e o livro preserva esse andamento de fala. Em (c) está a expectativa mais comum para um livro de ideias, e ela desconhece o gênero: não há sistema nem progressão argumentativa fechada, e a repetição de temas é própria da origem oral. Em (a) e (b), não é romance nem correspondência. Em (d), o discurso de 1987 é um episódio da biografia, não o conteúdo do livro."
+                                   },
+                                   {
+                                       "id":  "obra-a-vida-nao-e-util-q4",
+                                       "enunciado":  "Sobre Ailton Krenak, é correto afirmar que:",
+                                       "alternativas":  {
+                                                            "a":  "discursou na Assembleia Constituinte em 1987 e foi eleito para a Academia Brasileira de Letras",
+                                                            "b":  "atuou apenas como jornalista, sem envolvimento em movimentos políticos organizados",
+                                                            "c":  "nasceu na Amazônia e representa os povos do alto rio Negro em fóruns internacionais sobre o clima",
+                                                            "d":  "começou a publicar apenas na década de 2020, sem atuação pública anterior à pandemia",
+                                                            "e":  "escreve em língua krenak e tem seus livros traduzidos ao português por outros autores"
+                                                        },
+                                       "resposta":  "a",
+                                       "explicacao":  "O discurso de 1987, com o rosto pintado de jenipapo enquanto falava, foi decisivo para os direitos indígenas na Constituição de 1988; em 2024 ele se tornou o primeiro indígena eleito para a ABL. Em (c) está o erro geográfico mais provável: o povo Krenak é do vale do rio Doce, em Minas Gerais, e não da Amazônia — detalhe que importa, porque é o rompimento da barragem de 2015 que atinge esse rio. Em (b), (d) e (e), houve atuação política longa, obra anterior e escrita em português."
+                                   },
+                                   {
+                                       "id":  "obra-a-vida-nao-e-util-q5",
+                                       "enunciado":  "A pandemia de Covid-19 aparece no livro como:",
+                                       "alternativas":  {
+                                                            "a":  "objeto de uma análise epidemiológica detalhada, com dados de contágio e mortalidade",
+                                                            "b":  "episódio que expôs a fragilidade de um modo de vida apresentado como inevitável",
+                                                            "c":  "assunto deliberadamente evitado pelo autor, que trata apenas de temas anteriores a 2020",
+                                                            "d":  "prova de que o isolamento social é o modelo de convivência defendido pelos povos indígenas",
+                                                            "e":  "consequência direta do desmatamento da Amazônia, com base em estudos citados pelo autor"
+                                                        },
+                                       "resposta":  "b",
+                                       "explicacao":  "A parada forçada serve ao argumento: o que parecia ordem natural do mundo revelou-se arranjo recente e interrompível. Em (e) está a associação mais tentadora entre os dois temas do autor, ambiente e crise sanitária, e o livro não faz essa ligação causal. Em (a), não há tratamento epidemiológico. Em (c), a pandemia é o contexto imediato das falas. Em (d), o isolamento não é apresentado como modelo."
+                                   }
+                               ],
     "obra-origens-totalitarismo":  [
                                        {
                                            "id":  "obra-origens-totalitarismo-q1",

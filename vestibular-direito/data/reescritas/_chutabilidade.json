@@ -84,10 +84,10 @@
                            "n":  150
                        },
     "obras":  {
-                  "longaPct":  18.9,
+                  "longaPct":  14.7,
                   "absCertaPct":  4.5,
-                  "indice":  18.6,
-                  "n":  280
+                  "indice":  14.4,
+                  "n":  360
               },
     "geografia":  {
                       "longaPct":  2.8,
@@ -102,7 +102,7 @@
                                  "n":  100
                              },
     "_global":  {
-                    "indice":  20.9,
-                    "n":  2149
+                    "indice":  20.1,
+                    "n":  2229
                 }
 }

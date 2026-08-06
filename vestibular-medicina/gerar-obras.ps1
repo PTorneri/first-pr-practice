@@ -36,19 +36,52 @@ $ErrorActionPreference = "Stop"
 $root = $PSScriptRoot
 $origemDir = Join-Path (Split-Path -Parent $root) "vestibular-direito\data"
 
-# A lista da FUVEST 2026, do anexo "LEITURAS OBRIGATÓRIAS" da resolução.
-# A ordem é a do anexo: cronológica por ano de publicação.
-$OBRIGATORIAS = @(
-  "obra-opusculo-humanitario",            # 1853 - Nísia Floresta
-  "obra-nebulosas",                       # 1872 - Narcisa Amália
-  "obra-memorias-de-martha",              # 1899 - Júlia Lopes de Almeida
-  "obra-caminho-de-pedras",               # 1937 - Rachel de Queiroz
-  "obra-o-cristo-cigano",                 # 1961 - Sophia de Mello Breyner Andresen
-  "obra-as-meninas",                      # 1973 - Lygia Fagundes Telles
-  "obra-balada-de-amor-ao-vento",         # 1990 - Paulina Chiziane
-  "obra-cancao-para-ninar-menino-grande",  # 2018 - Conceição Evaristo
-  "obra-a-visao-das-plantas"              # 2019 - Djaimilia Pereira de Almeida
-)
+# As duas listas obrigatórias da trilha. Cada obra sabe de que banca é, porque
+# o candidato precisa saber: quem presta só a FUVEST tem nove livros a ler, não
+# dezoito, e uma lista única esconderia isso.
+#
+# Nenhum título se repete entre elas. Conceição Evaristo aparece nas duas, mas
+# com obras diferentes — "Canção para Ninar Menino Grande" na FUVEST e "Olhos
+# d'Água" na Unicamp.
+$LISTAS = [ordered]@{
+  # Anexo "LEITURAS OBRIGATÓRIAS – FUVEST 2026" da resolução. Ordem do anexo,
+  # cronológica por ano de publicação.
+  fuvest = @(
+    "obra-opusculo-humanitario",            # 1853 - Nísia Floresta
+    "obra-nebulosas",                       # 1872 - Narcisa Amália
+    "obra-memorias-de-martha",              # 1899 - Júlia Lopes de Almeida
+    "obra-caminho-de-pedras",               # 1937 - Rachel de Queiroz
+    "obra-o-cristo-cigano",                 # 1961 - Sophia de Mello Breyner Andresen
+    "obra-as-meninas",                      # 1973 - Lygia Fagundes Telles
+    "obra-balada-de-amor-ao-vento",         # 1990 - Paulina Chiziane
+    "obra-cancao-para-ninar-menino-grande",  # 2018 - Conceição Evaristo
+    "obra-a-visao-das-plantas"              # 2019 - Djaimilia Pereira de Almeida
+  )
+  # Lista de obras de leitura obrigatória do vestibular Unicamp 2026, publicada
+  # pela Comvest. Três delas confirmadas nos próprios cadernos que o estudo leu:
+  # Lima Barreto e Conceição Evaristo nas discursivas do dia 1, Cartola na 1ª fase.
+  unicamp = @(
+    "obra-alice-pais-das-maravilhas",       # 1865 - Lewis Carroll
+    "obra-casa-velha",                      # 1885 - Machado de Assis
+    "obra-gonzaga-de-sa",                   # 1919 - Lima Barreto
+    "obra-cartola-cancoes-escolhidas",      # séc. XX - Cartola
+    "obra-morangos-mofados",                # 1982 - Caio Fernando Abreu
+    "obra-prosas-odes-minimas",             # 1992 - José Paulo Paes
+    "obra-no-seu-pescoco",                  # 2009 - Chimamanda Ngozi Adichie
+    "obra-olhos-dagua",                     # 2014 - Conceição Evaristo
+    "obra-a-vida-nao-e-util"                # 2020 - Ailton Krenak
+  )
+}
+
+$OBRIGATORIAS = @()
+foreach ($b in $LISTAS.Keys) { $OBRIGATORIAS += $LISTAS[$b] }
+
+$dupes = @($OBRIGATORIAS | Group-Object | Where-Object { $_.Count -gt 1 })
+if ($dupes.Count -gt 0) { throw "obra em mais de uma lista: $($dupes.Name -join ', ')" }
+
+# Qual banca pede cada obra, para o app mostrar no cartão.
+$BANCA_DE = @{}
+foreach ($b in $LISTAS.Keys) { foreach ($id in $LISTAS[$b]) { $BANCA_DE[$id] = $b } }
 
 # ---------- obras.js ----------
 #
@@ -79,13 +112,25 @@ $cabecalho = @"
 //
 // Duas listas, e a diferença entre elas importa.
 //
-// OBRIGATÓRIAS são as nove do anexo "LEITURAS OBRIGATÓRIAS – FUVEST 2026" da
-// resolução do vestibular. As nove são cobradas: oito aparecem já na 1ª fase
-// objetiva de 2026, em questões que as comparam entre si, e cinco reaparecem
-// nas dez discursivas de Português do dia 1 da 2ª fase — dia que vale um terço
-// da nota final, é o primeiro critério de desempate e, se zerado, elimina o
-// candidato. As outras seis bancas de Medicina do estado não publicam lista
-// literária para o exame geral.
+// OBRIGATÓRIAS são dezoito, de DUAS listas distintas, e o campo `banca` diz de
+// qual — quem presta só uma das provas tem nove livros a ler, não dezoito.
+//
+//   fuvest  — anexo "LEITURAS OBRIGATÓRIAS – FUVEST 2026" da resolução. As nove
+//             são cobradas: oito aparecem já na 1ª fase objetiva de 2026, em
+//             questões que as comparam entre si, e cinco reaparecem nas dez
+//             discursivas de Português do dia 1 da 2ª fase — dia que vale um
+//             terço da nota final, é o primeiro critério de desempate e, se
+//             zerado, elimina o candidato.
+//   unicamp — lista de obras de leitura obrigatória publicada pela Comvest para
+//             o vestibular 2026. Três delas aparecem nos cadernos lidos pelo
+//             estudo: Lima Barreto e Conceição Evaristo nas discursivas do dia
+//             1, Cartola na 1ª fase.
+//
+// Nenhum título se repete entre as duas listas. Conceição Evaristo está nas
+// duas, com obras diferentes.
+//
+// As outras cinco bancas de Medicina do estado não publicam lista literária
+// para o exame geral.
 //
 // COMPLEMENTARES (`complementar: true`) são o acervo da trilha de Direito, que
 // vem do edital de Artes da FGV. Nenhuma delas é cobrada por banca de Medicina
@@ -112,6 +157,11 @@ foreach ($id in $ordem) {
     $corpo = [regex]::Replace($corpo, '(?m)^(\s*)(id: "[^"]+",\r?\n)', "`$1`$2`$1complementar: true,`r`n", 1)
     $nCompl++
   } else {
+    # `banca` diz qual das duas listas exige a obra. Sem isso, o cartão não
+    # distingue as nove da FUVEST das nove da Unicamp, e quem presta só uma
+    # delas leria dezoito livros achando que todos caem na sua prova.
+    $b = $BANCA_DE[$id]
+    $corpo = [regex]::Replace($corpo, '(?m)^(\s*)(id: "[^"]+",\r?\n)', "`$1`$2`$1banca: `"$b`",`r`n", 1)
     $nObrig++
   }
   [void]$saidaObras.AppendLine("  {")
@@ -139,9 +189,12 @@ $saidaQ = "// GERADO por gerar-obras.ps1 — não edite à mão." + [Environment
           "// 5 questoes de fixacao por obra." + [Environment]::NewLine +
           "window.OBRAS_QUESTOES = " + (($novo | ConvertTo-Json -Depth 10).Trim()) + ";" + [Environment]::NewLine
 
-Write-Output "obrigatorias (FUVEST): $nObrig"
-Write-Output "complementares (FGV):  $nCompl"
-Write-Output "questoes:              $totalQ"
+foreach ($b in $LISTAS.Keys) {
+  Write-Output ("obrigatorias ({0,-7}): {1}" -f $b, $LISTAS[$b].Count)
+}
+Write-Output "obrigatorias (total)  : $nObrig"
+Write-Output "complementares (FGV)  : $nCompl"
+Write-Output "questoes              : $totalQ"
 
 if ($Simular) {
   Write-Output "(-Simular: nada foi gravado)"

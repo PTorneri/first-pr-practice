@@ -208,7 +208,7 @@ $programa = [ordered]@{
   "Geografia" = @{
     frentes = @("geografia","atualidades-meioambiente","atualidades-geopolitica")
     itens = @(
-      @{ n = "1.1 Do fordismo à economia flexível";             t = @("fordis","acumulação flexível","toyotis","just in time","reestruturação produtiva") }
+      @{ n = "1.1 Do fordismo à economia flexível";             t = @("fordis","acumulação flexível","toyotis","just in time","reestruturação produtiva","henry ford","linha de montagem","lotes menores","trabalhador polivalente","subcontrataç","cadeias produtivas","estoques reduzidos") }
       @{ n = "1.2 Multinacionalização e globalização";          t = @("globaliz","multinacional","transnacional","cadeia global") }
       @{ n = "1.3 Organismos internacionais";                   t = @("fmi","banco mundial","omc","onu","organismo internacional","multilateral") }
       @{ n = "2.1 Redes materiais e imateriais";                t = @("rede de transporte","fluxo de informaç","telecomunicaç","cabo submarino","logístic") }
@@ -217,8 +217,8 @@ $programa = [ordered]@{
       @{ n = "2.4 Questão ambiental e tratados internacionais"; t = @("acordo de paris","protocolo de quioto","cop","tratado ambiental","convenção do clima") }
       @{ n = "3.1 Migrações internacionais";                    t = @("migraç","refugiad","imigra","emigra","xenofob") }
       @{ n = "3.2 Turismo";                                     t = @("turis") }
-      @{ n = "3.3 Indústria cultural";                          t = @("indústria cultural","streaming","cultura de massa") }
-      @{ n = "3.4 Financeirização";                             t = @("financeiriz","capital especulativo","paraíso fiscal","mercado financeiro") }
+      @{ n = "3.3 Indústria cultural";                          t = @("indústria cultural","streaming","cultura de massa","audiovisual","bens culturais","cota de tela","conteúdo nacional","dublagem","legendagem","fluxos culturais") }
+      @{ n = "3.4 Financeirização";                             t = @("financeiriz","capital especulativo","paraíso fiscal","mercado financeiro","mercados financeiros","ativo de rendimento","praças financeiras","rendimento financeiro","sigilo societário","fundos de investimento") }
       @{ n = "3.5 ONGs e movimentos sociais";                   t = @("organização não governamental","não-governamental","ong","movimento social") }
       @{ n = "4.1-4.2 Brasil na divisão internacional do trabalho"; t = @("divisão internacional do trabalho","commodit","pauta de exportaç","desindustrializ") }
       @{ n = "4.3 População brasileira: estrutura e dinâmica";  t = @("transição demográfica","pirâmide etária","taxa de fecundidade","envelhecimento da populaç","censo","expectativa de vida") }

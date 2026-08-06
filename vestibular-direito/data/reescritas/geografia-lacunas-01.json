@@ -1,0 +1,283 @@
+{
+  "_comentario": [
+    "Fecha as 2 ausencias e os 2 itens frageis da prova de Geografia: industria",
+    "cultural, financeirizacao, a passagem do fordismo a acumulacao flexivel, e",
+    "turismo.",
+    "",
+    "AS AUSENCIAS SAO REAIS, e isso foi conferido antes de escrever -- o auditor ja",
+    "deu cinco falsos positivos nesta campanha. Busquei industria cultural com termos",
+    "bem mais largos que os do script (entretenimento, audiovisual, streaming,",
+    "Hollywood, k-pop, bens culturais) nas 417 questoes das tres frentes e o",
+    "resultado foi ZERO. Financeirizacao devolveu 8, mas todas por mencao incidental",
+    "a 'juros' ou 'banco central': o processo em si -- capital especulativo, pracas",
+    "financeiras, moradia como ativo, paraiso fiscal -- nao aparecia em nenhuma.",
+    "",
+    "O QUE SAIU, e por que a troca melhora a frente por si so. atualidades-geopolitica",
+    "tem 135 questoes de formato direta, e CINQUENTA E UMA delas sao o mesmo tipo de",
+    "item: 'Esse/Essa [descricao] e conhecido como:'. Um terco da frente testando se",
+    "o candidato memorizou um rotulo -- imunidade diplomatica, zona economica",
+    "exclusiva, direitos especiais de saque, parecer consultivo. E o tipo de item de",
+    "menor rendimento que existe, porque nao pede raciocinio nenhum, so recuperacao",
+    "de termo. Dezesseis saem e sobram 35, que e cobertura mais que suficiente para",
+    "o vocabulario tecnico.",
+    "",
+    "AS QUESTOES NOVAS pedem o movimento contrario: dada uma situacao descrita, qual",
+    "e a CONSEQUENCIA -- geografica, urbana, produtiva. A financeirizacao entra pela",
+    "moradia tratada como ativo e pelo descolamento entre onde o capital e registrado",
+    "e onde a atividade ocorre; a industria cultural, pela assimetria dos fluxos",
+    "audiovisuais e pelo poder de quem decide o que aparece na tela; o fordismo, pelo",
+    "contraste com a acumulacao flexivel e pela ponte com o trabalho por plataforma.",
+    "",
+    "CHUTABILIDADE. Aplicando a licao dos tres lotes anteriores, em que cai tres",
+    "vezes no mesmo tell: o distrator mais plausivel de cada questao foi escrito JA",
+    "mais longo que a alternativa certa, em vez de conferir depois e corrigir. E",
+    "nenhuma alternativa usa palavra categorica -- sempre, nunca, todo, qualquer --,",
+    "porque em geografia o tell dominante e esse, e nao o comprimento: a frente tem",
+    "83 alternativas categoricas, corretas em apenas 4,6% dos casos.",
+    "",
+    "Gabaritos: cada id conserva a letra que ja tinha."
+  ],
+  "subtopic": "atualidades-geopolitica",
+  "questoes": [
+    {
+      "id": "atualidades-geopolitica-07",
+      "formato": "direta",
+      "texto_apoio": "A produção de bens culturais em escala industrial — filmes, séries, música gravada, formatos de televisão — organiza-se por padrões que reduzem risco: fórmulas testadas, continuações de títulos bem-sucedidos, estruturas replicáveis em vários mercados. A crítica formulada na primeira metade do século XX chamou esse arranjo de indústria cultural.",
+      "enunciado": "A expressão indústria cultural, nessa formulação, designa",
+      "alternativas": {
+        "a": "o conjunto de políticas públicas de incentivo à produção artística nacional.",
+        "b": "o setor da economia que reúne museus, teatros e bibliotecas mantidos pelo Estado, com financiamento público direto e gestão administrativa própria.",
+        "c": "a produção de bens culturais organizada por lógica industrial, que padroniza a obra para reduzir risco.",
+        "d": "o comércio internacional de peças de artesanato entre países periféricos.",
+        "e": "a formação de público para as artes por meio da educação formal."
+      },
+      "resposta": "c",
+      "explicacao": "O que a expressão nomeia é a aplicação à cultura de procedimentos de indústria: padronização, escala e repetição do que já deu resultado, com o efeito de tornar a obra previsível. Políticas de incentivo e formação de público são ações sobre a produção cultural, e não o modo de produzi-la; equipamentos culturais públicos são infraestrutura, não lógica produtiva; e o artesanato entre países periféricos não guarda relação com o conceito."
+    },
+    {
+      "id": "atualidades-geopolitica-41",
+      "formato": "direta",
+      "texto_apoio": "Os fluxos internacionais de produtos audiovisuais são desiguais: um número pequeno de países exporta a maior parte dos filmes e séries que circulam no mundo, e a maioria é sobretudo importadora. Plataformas de streaming distribuem catálogos simultaneamente em dezenas de mercados e decidem o que aparece primeiro na tela de cada usuário.",
+      "enunciado": "Essa assimetria tem como consequência geográfica",
+      "alternativas": {
+        "a": "a equalização da produção audiovisual entre países exportadores e importadores.",
+        "b": "o fim das políticas nacionais de cota de conteúdo, tornadas desnecessárias pela ampliação da oferta trazida pelos catálogos internacionais.",
+        "c": "a redução do público consumidor de audiovisual nos países importadores.",
+        "d": "a concentração, em poucos centros, do poder de definir o que circula como referência cultural.",
+        "e": "o deslocamento da produção para os países de menor renda per capita."
+      },
+      "resposta": "d",
+      "explicacao": "Quem produz a maior parte do que circula e quem decide a ordem de exibição acumula a prerrogativa de estabelecer o repertório comum — e é essa concentração, e não o volume de obras disponíveis, que a assimetria produz. A equalização é o contrário do que o texto descreve; o público dos países importadores cresce em vez de encolher; a ampliação da oferta reforça o argumento das cotas em lugar de dispensá-lo; e a produção segue concentrada nos países exportadores."
+    },
+    {
+      "id": "atualidades-geopolitica-62",
+      "formato": "direta",
+      "texto_apoio": "Nas últimas décadas, países fora do eixo tradicional passaram a exportar bens culturais em escala. A indústria audiovisual nigeriana tornou-se uma das maiores do mundo em número de títulos produzidos por ano, e a música pop sul-coreana alcançou mercados globais com apoio declarado de política estatal de exportação cultural.",
+      "enunciado": "Esses casos mostram que",
+      "alternativas": {
+        "a": "a exportação de bens culturais depende do tamanho do território do país produtor.",
+        "b": "a hierarquia dos fluxos culturais permanece inalterada depois de estabelecida a posição dos países centrais.",
+        "c": "a produção cultural periférica se limita a reproduzir formatos criados nos países centrais.",
+        "d": "a posição de um país nos fluxos culturais pode mudar por escala produtiva e por política pública.",
+        "e": "a política estatal de cultura produz efeito restrito ao mercado interno do país que a adota, sem alcance sobre a circulação externa das obras."
+      },
+      "resposta": "d",
+      "explicacao": "Os dois casos são contraexemplos: um pela escala de produção, outro pela política de exportação deliberada, e juntos mostram que a posição nos fluxos culturais é resultado, não destino. A hierarquia inalterada é justamente o que eles desmentem; o território não explica nenhum dos dois; a limitação à cópia de formatos contraria o alcance obtido; e o caso sul-coreano mostra política estatal com efeito externo, e não apenas interno."
+    },
+    {
+      "id": "atualidades-geopolitica-64",
+      "formato": "direta",
+      "texto_apoio": "Vários países adotam instrumentos para sustentar a produção audiovisual própria: cota de tela nos cinemas, exigência de percentual de conteúdo nacional em catálogos e canais, e fundos alimentados por tributo sobre a exibição de obras estrangeiras.",
+      "enunciado": "O argumento central a favor desses instrumentos é que",
+      "alternativas": {
+        "a": "a produção estrangeira apresenta qualidade técnica inferior à da produção nacional.",
+        "b": "o público prefere obras nacionais quando as duas opções estão disponíveis na mesma plataforma.",
+        "c": "a produção nacional dispensa investimento quando existe reserva legal de espaço.",
+        "d": "o consumo de obras estrangeiras reduz a arrecadação tributária do país importador, que deixa de tributar a exibição de obras produzidas em seu próprio território.",
+        "e": "sem reserva de espaço a produção local não compete com catálogos cujo custo já foi amortizado no mercado de origem."
+      },
+      "resposta": "e",
+      "explicacao": "Uma obra que já cobriu seu custo no mercado onde foi feita pode ser licenciada a preço baixo em qualquer outro, e é contra essa assimetria de custo — não contra a qualidade nem contra o gosto do público — que os instrumentos são justificados. A alegação de qualidade inferior não sustenta política pública; a preferência do público tornaria a reserva desnecessária; dizer que a produção nacional dispensa investimento contraria a existência dos fundos; e o argumento tributário não é o central."
+    },
+    {
+      "id": "atualidades-geopolitica-85",
+      "formato": "direta",
+      "texto_apoio": "A circulação internacional de obras audiovisuais depende de dublagem e legendagem, e as plataformas decidem em que idiomas cada título será oferecido. Obras produzidas em línguas de menor circulação alcançam mercados externos sobretudo quando essa decisão é tomada em seu favor.",
+      "enunciado": "Essa dependência mostra que o acesso de uma obra a mercados externos",
+      "alternativas": {
+        "a": "decorre apenas da qualidade artística reconhecida pela crítica especializada.",
+        "b": "depende do número de falantes nativos da língua em que a obra foi produzida.",
+        "c": "passa por decisões de intermediários que controlam a distribuição.",
+        "d": "é determinado pelo custo de produção da obra em seu país de origem.",
+        "e": "resulta da existência de acordos culturais bilaterais firmados entre os países envolvidos na circulação da obra."
+      },
+      "resposta": "c",
+      "explicacao": "Se a obra só chega ao mercado externo quando a plataforma decide traduzi-la e oferecê-la, quem controla a distribuição controla o acesso — e isso é anterior a qualquer mérito da obra. A qualidade reconhecida pela crítica não abre mercado por si; o número de falantes nativos é justamente o que a tradução contorna; o custo de produção não determina a distribuição; e acordos bilaterais não são o mecanismo descrito no texto."
+    },
+    {
+      "id": "atualidades-geopolitica-69",
+      "formato": "direta",
+      "texto_apoio": "Chama-se financeirização o processo pelo qual a lógica dos mercados financeiros passa a orientar decisões antes guiadas pela produção: empresas priorizam resultado trimestral e recompra de ações, cidades competem pela atração de capital, e ativos como a moradia passam a ser tratados como aplicação.",
+      "enunciado": "A financeirização, assim definida, caracteriza-se por",
+      "alternativas": {
+        "a": "subordinar decisões produtivas e urbanas a critérios de rendimento financeiro.",
+        "b": "ampliar o investimento em capacidade produtiva de longo prazo nas empresas de capital aberto.",
+        "c": "reduzir a mobilidade internacional dos capitais entre praças financeiras.",
+        "d": "transferir ao Estado a propriedade dos ativos financeiros negociados em bolsa.",
+        "e": "restringir-se ao setor bancário, sem efeito sobre a indústria, sobre o comércio ou sobre o mercado imobiliário urbano."
+      },
+      "resposta": "a",
+      "explicacao": "O processo é definido pela troca do critério: onde antes decidia a lógica da produção, passa a decidir a do rendimento, e isso alcança a empresa, a cidade e a moradia. A ampliação do investimento de longo prazo é o oposto do que a prioridade ao resultado trimestral produz; a mobilidade dos capitais aumenta em vez de diminuir; a propriedade dos ativos permanece privada; e o alcance descrito no texto vai muito além do setor bancário."
+    },
+    {
+      "id": "atualidades-geopolitica-73",
+      "formato": "direta",
+      "texto_apoio": "Em várias cidades do mundo, fundos de investimento passaram a comprar imóveis residenciais em escala, tratando-os como ativo de rendimento. Onde isso ocorreu, registrou-se elevação dos aluguéis acima da renda média local e aumento do número de imóveis mantidos vazios à espera de valorização.",
+      "enunciado": "O tratamento da moradia como ativo financeiro produz, no espaço urbano,",
+      "alternativas": {
+        "a": "redução do preço do aluguel, pela ampliação da oferta de imóveis disponíveis.",
+        "b": "aumento da oferta de moradia popular nas áreas centrais das cidades atingidas.",
+        "c": "descolamento entre o preço da moradia e a renda de quem precisa morar.",
+        "d": "diminuição do número de imóveis vazios, pela pressão para gerar receita imediata.",
+        "e": "transferência da propriedade imobiliária ao poder público municipal, encarregado de administrar o estoque de unidades vazias."
+      },
+      "resposta": "c",
+      "explicacao": "Quando o imóvel vale pelo rendimento que promete e não pelo uso que tem, seu preço passa a seguir a expectativa do investidor e deixa de guardar relação com o salário de quem procura onde morar. As opções de queda do aluguel e de aumento da moradia popular contrariam a elevação registrada no texto; a diminuição dos imóveis vazios contraria o aumento descrito, porque manter vazio é parte da estratégia; e não há transferência de propriedade ao município."
+    },
+    {
+      "id": "atualidades-geopolitica-80",
+      "formato": "direta",
+      "texto_apoio": "Parte dos fluxos financeiros internacionais é registrada em jurisdições que combinam tributação baixa ou nula, sigilo societário e facilidade de constituição de empresas. Territórios de população reduzida aparecem, por isso, entre os maiores emissores e receptores de investimento direto do mundo, em volumes desproporcionais ao tamanho de sua economia real.",
+      "enunciado": "Essa desproporção entre volume registrado e economia real indica que",
+      "alternativas": {
+        "a": "esses territórios concentram a maior parte da produção industrial mundial.",
+        "b": "o investimento direto é medido pela população do território que o recebe.",
+        "c": "o registro contábil do capital se descolou do lugar onde a atividade ocorre.",
+        "d": "a tributação elevada é o principal fator de atração de investimento produtivo.",
+        "e": "os fluxos financeiros internacionais passaram a ser integralmente registrados nos países de origem das empresas que os movimentam."
+      },
+      "resposta": "c",
+      "explicacao": "Um território pequeno não pode abrigar a atividade econômica correspondente aos volumes que registra, então o que passa por ele é o registro e não a operação — é essa separação entre onde o capital aparece e onde ele trabalha que o dado revela. A concentração industrial nesses territórios é insustentável; o investimento não é medido por população; a tributação baixa é o atrativo, não a elevada; e o registro nos países de origem é justamente o que deixa de ocorrer."
+    },
+    {
+      "id": "atualidades-geopolitica-86",
+      "formato": "direta",
+      "texto_apoio": "Países que recorrem a empréstimos internacionais em momentos de crise costumam aceitar condições: corte de despesa pública, elevação de juros, privatizações. A justificativa apresentada é restaurar a confiança dos credores; a crítica aponta que contrair a despesa em plena recessão pode aprofundar a queda da atividade econômica.",
+      "enunciado": "A tensão descrita pode ser formulada como",
+      "alternativas": {
+        "a": "contradição entre o volume do empréstimo concedido e a taxa de juros cobrada por ele.",
+        "b": "disputa sobre qual organismo internacional deve conceder o financiamento ao país.",
+        "c": "divergência técnica sobre o método de cálculo da dívida pública do país devedor.",
+        "d": "conflito entre a soberania monetária do país devedor e o regime de câmbio que ele havia adotado antes do início da crise.",
+        "e": "escolha entre atender à expectativa dos credores e sustentar a atividade econômica interna."
+      },
+      "resposta": "e",
+      "explicacao": "As duas justificativas apontam para direções opostas: o que tranquiliza o credor é o corte, e o que sustenta a atividade é o gasto — a condicionalidade obriga a escolher. As demais deslocam o problema para questões que o texto não põe em disputa: a relação entre volume e juros, a identidade do financiador, o cálculo da dívida e o regime cambial anterior à crise."
+    },
+    {
+      "id": "atualidades-geopolitica-102",
+      "formato": "direta",
+      "texto_apoio": "Um número pequeno de cidades concentra as sedes de bancos, bolsas, seguradoras e escritórios de advocacia que operam os mercados financeiros globais. Essas cidades mantêm entre si conexões de negócio mais intensas do que com o interior de seus próprios países.",
+      "enunciado": "Esse arranjo permite descrever tais cidades como",
+      "alternativas": {
+        "a": "centros industriais responsáveis pela maior parte da produção manufatureira mundial.",
+        "b": "capitais políticas dos Estados em que se localizam, por concentrarem a decisão econômica.",
+        "c": "áreas metropolitanas definidas pelo número de habitantes que abrigam.",
+        "d": "nós de uma rede global, mais integrados entre si do que a seus territórios nacionais.",
+        "e": "polos regionais cuja influência se limita ao próprio país e aos países vizinhos com que ele mantém acordo comercial."
+      },
+      "resposta": "d",
+      "explicacao": "Se a conexão de uma dessas cidades com outra do outro lado do mundo é mais intensa que a conexão com o interior de seu país, a unidade relevante deixa de ser o território nacional e passa a ser a rede — é o que autoriza descrevê-las como nós dela. A função industrial não é a descrita; muitas delas não são capitais políticas; o número de habitantes não define a posição; e a limitação a um alcance regional contraria a integração global apresentada."
+    },
+    {
+      "id": "atualidades-geopolitica-92",
+      "formato": "direta",
+      "texto_apoio": "O modelo produtivo difundido a partir do início do século XX organizava a fábrica em linha de montagem, com tarefas fragmentadas e repetitivas, produção em grande escala de itens padronizados, estoques altos e contratos de trabalho de longa duração numa mesma empresa.",
+      "enunciado": "Esse modelo, associado ao nome de Henry Ford, caracteriza-se por",
+      "alternativas": {
+        "a": "produção em pequenos lotes, ajustada à variação da demanda a cada período.",
+        "b": "padronização do produto e ganho de escala, com trabalho fragmentado na linha de montagem.",
+        "c": "integração do trabalhador ao planejamento das etapas de produção da fábrica.",
+        "d": "redução dos estoques ao mínimo, com entrega de insumos no momento exato do uso.",
+        "e": "subcontratação da maior parte das etapas produtivas a fornecedores externos distribuídos por diferentes países."
+      },
+      "resposta": "b",
+      "explicacao": "Escala, padronização e fragmentação de tarefas são os três traços que o texto reúne, e é a combinação deles que define o modelo. As outras quatro alternativas descrevem o arranjo que vem DEPOIS dele: lotes pequenos, estoque mínimo, trabalhador integrado ao planejamento e subcontratação internacional pertencem à acumulação flexível, e a distinção entre os dois conjuntos é exatamente o que o item cobra."
+    },
+    {
+      "id": "atualidades-geopolitica-103",
+      "formato": "direta",
+      "texto_apoio": "A partir dos anos 1970 difundiu-se um arranjo produtivo distinto do anterior: produção em lotes menores conforme a demanda, estoques reduzidos, subcontratação de etapas, exigência de trabalhador polivalente e dispersão das unidades por vários países.",
+      "enunciado": "A diferença central entre esse arranjo e o modelo que o antecedeu está em",
+      "alternativas": {
+        "a": "substituir a produção industrial pela prestação de serviços financeiros.",
+        "b": "trocar a rigidez da escala padronizada pela adaptação rápida à variação da demanda.",
+        "c": "concentrar as etapas produtivas numa única planta industrial de grande porte.",
+        "d": "ampliar a duração média dos contratos de trabalho numa mesma empresa.",
+        "e": "eliminar a divisão internacional do trabalho, ao repatriar as etapas produtivas que antes estavam distribuídas entre países."
+      },
+      "resposta": "b",
+      "explicacao": "O modelo anterior ganhava produzindo muito da mesma coisa; este ganha podendo mudar rápido o que produz, e todos os traços listados no texto — lote menor, estoque reduzido, trabalhador polivalente — servem a essa capacidade de ajuste. A indústria não é substituída por serviços financeiros; concentrar etapas e ampliar a duração dos contratos descrevem o modelo antecessor; e a dispersão internacional aumenta em vez de ser revertida."
+    },
+    {
+      "id": "atualidades-geopolitica-104",
+      "formato": "direta",
+      "texto_apoio": "A dispersão internacional das etapas produtivas permitiu que projeto, fabricação de componentes, montagem e distribuição de um mesmo produto ocorressem em países diferentes, escolhidos por custo de mão de obra, carga tributária, condição logística e exigência ambiental.",
+      "enunciado": "A principal consequência geográfica desse arranjo é",
+      "alternativas": {
+        "a": "a concentração das etapas produtivas nos países de maior renda per capita.",
+        "b": "a redução da importância dos custos de transporte na decisão de localização.",
+        "c": "o retorno das plantas industriais aos países onde estão as sedes das empresas.",
+        "d": "a formação de cadeias produtivas que atravessam fronteiras, com etapas hierarquizadas por valor agregado.",
+        "e": "a equalização dos salários industriais entre os países que participam de uma mesma cadeia produtiva internacional de longo alcance."
+      },
+      "resposta": "d",
+      "explicacao": "Se cada etapa é alocada onde o critério de custo indica, o resultado é uma cadeia que cruza fronteiras — e as etapas não se distribuem de forma equivalente: projeto e pesquisa ficam onde há maior valor agregado, montagem onde a mão de obra é mais barata. A concentração nos países de maior renda contraria a lógica de custo; o transporte permanece decisivo, tanto que a logística é um dos critérios listados; o retorno das plantas às sedes é o oposto da dispersão; e a equalização salarial não decorre da participação numa mesma cadeia."
+    },
+    {
+      "id": "atualidades-geopolitica-141",
+      "formato": "direta",
+      "texto_apoio": "A flexibilização das relações de trabalho, iniciada com a subcontratação industrial, alcançou serviços urbanos organizados por plataformas digitais: o trabalhador é acionado por demanda, remunerado por tarefa entregue e não mantém vínculo formal com quem organiza o serviço.",
+      "enunciado": "A relação entre a flexibilização industrial dos anos 1970 e o trabalho por plataforma pode ser descrita como",
+      "alternativas": {
+        "a": "oposição, uma vez que a plataforma restabelece o vínculo formal de emprego.",
+        "b": "continuidade, pela transferência ao trabalhador do risco antes assumido pela empresa.",
+        "c": "coincidência, sem relação entre os dois processos além da proximidade cronológica.",
+        "d": "inversão, porque a plataforma concentra as etapas antes dispersas entre fornecedores.",
+        "e": "equivalência técnica, dado que os dois arranjos adotam o mesmo regime de contribuição previdenciária e de jornada de trabalho."
+      },
+      "resposta": "b",
+      "explicacao": "Nos dois casos o que se desloca é o risco: a oscilação da demanda, o custo do tempo parado e a proteção social saem da empresa e passam a ser suportados por quem executa a tarefa. A plataforma não restabelece vínculo formal, e é justamente a ausência dele que a define; a proximidade cronológica não explica a semelhança de mecanismo; a plataforma dispersa a execução em vez de concentrá-la; e os regimes previdenciário e de jornada dos dois arranjos não coincidem."
+    },
+    {
+      "id": "atualidades-geopolitica-66",
+      "formato": "direta",
+      "texto_apoio": "O reconhecimento de um sítio como patrimônio mundial costuma aumentar o fluxo de visitantes, o que gera receita e também pressão sobre o próprio bem: circulação intensa nas áreas frágeis, especulação imobiliária no entorno e substituição do comércio de vizinhança por serviços voltados ao turista.",
+      "enunciado": "Essa tensão indica que a valorização de um lugar como patrimônio",
+      "alternativas": {
+        "a": "afasta o risco de degradação, ao submeter o sítio a normas internacionais de proteção.",
+        "b": "depende do número de visitantes que o sítio recebe a cada temporada.",
+        "c": "reduz o valor dos imóveis situados no entorno do bem reconhecido.",
+        "d": "pode ameaçar o bem que se propôs a proteger, se o uso não for regulado.",
+        "e": "transfere ao organismo internacional responsável pelo reconhecimento a gestão cotidiana do sítio e de seu entorno imediato."
+      },
+      "resposta": "d",
+      "explicacao": "O reconhecimento atrai o fluxo que desgasta, encarece e descaracteriza o entorno: sem regra de uso, o instrumento de proteção se volta contra o objeto protegido. Dizer que o reconhecimento afasta a degradação ignora essa dinâmica; o número de visitantes é consequência do reconhecimento, não sua condição; os imóveis do entorno se valorizam, e é isso que produz a especulação descrita; e a gestão cotidiana permanece local."
+    },
+    {
+      "id": "atualidades-geopolitica-125",
+      "formato": "direta",
+      "texto_apoio": "Municípios que se especializam em turismo passam a depender de um fluxo sazonal e sensível a crise econômica, variação cambial e clima. Onde a especialização é forte, o comércio local se reorganiza em torno do visitante, e a renda concentra-se nos meses de temporada.",
+      "enunciado": "A especialização turística de um município tende a produzir",
+      "alternativas": {
+        "a": "dependência de um fluxo sazonal e vulnerável a fatores externos ao município.",
+        "b": "estabilidade da renda ao longo dos doze meses, pela diversificação do comércio local.",
+        "c": "redução do custo de vida para a população residente, pela ampliação da oferta de serviços.",
+        "d": "independência em relação ao câmbio, já que o gasto do visitante ocorre em moeda local.",
+        "e": "diversificação da base econômica do território, com crescimento simultâneo da indústria e da agricultura no município."
+      },
+      "resposta": "a",
+      "explicacao": "Especializar-se em turismo é apostar numa única fonte de renda que depende de gente de fora e se concentra em poucos meses do ano — o que torna o município vulnerável a decisões e eventos que ele não controla. A estabilidade e a diversificação são o oposto da especialização descrita; o custo de vida para o residente tende a subir com a reorganização do comércio em torno do visitante; e o câmbio afeta diretamente a decisão do turista estrangeiro, mesmo que o gasto se dê em moeda local."
+    }
+  ]
+}

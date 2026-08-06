@@ -1659,18 +1659,18 @@ window.QUESTION_BANKS = {
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-07",
-                                        "texto_apoio":  "Um dos princípios centrais do sistema multilateral de comércio é o de que uma vantagem comercial concedida por um país a um parceiro deve, em regra, ser estendida a todos os demais membros da organização.",
-                                        "enunciado":  "Esse princípio é conhecido como cláusula de:",
+                                        "formato":  "direta",
+                                        "texto_apoio":  "A produção de bens culturais em escala industrial — filmes, séries, música gravada, formatos de televisão — organiza-se por padrões que reduzem risco: fórmulas testadas, continuações de títulos bem-sucedidos, estruturas replicáveis em vários mercados. A crítica formulada na primeira metade do século XX chamou esse arranjo de indústria cultural.",
+                                        "enunciado":  "A expressão indústria cultural, nessa formulação, designa",
                                         "alternativas":  {
-                                                             "a":  "reciprocidade automática",
-                                                             "b":  "soberania tarifária",
-                                                             "c":  "nação mais favorecida",
-                                                             "d":  "tratamento nacional",
-                                                             "e":  "exclusividade bilateral"
+                                                             "a":  "o conjunto de políticas públicas de incentivo à produção artística nacional.",
+                                                             "b":  "o setor da economia que reúne museus, teatros e bibliotecas mantidos pelo Estado, com financiamento público direto e gestão administrativa própria.",
+                                                             "c":  "a produção de bens culturais organizada por lógica industrial, que padroniza a obra para reduzir risco.",
+                                                             "d":  "o comércio internacional de peças de artesanato entre países periféricos.",
+                                                             "e":  "a formação de público para as artes por meio da educação formal."
                                                          },
                                         "resposta":  "c",
-                                        "explicacao":  "O princípio da nação mais favorecida determina que vantagens comerciais concedidas a um parceiro devem, em regra, ser estendidas a todos os demais membros da organização, evitando discriminação comercial entre países-membros.",
-                                        "formato":  "direta"
+                                        "explicacao":  "O que a expressão nomeia é a aplicação à cultura de procedimentos de indústria: padronização, escala e repetição do que já deu resultado, com o efeito de tornar a obra previsível. Políticas de incentivo e formação de público são ações sobre a produção cultural, e não o modo de produzi-la; equipamentos culturais públicos são infraestrutura, não lógica produtiva; e o artesanato entre países periféricos não guarda relação com o conceito."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-08",
@@ -2173,19 +2173,18 @@ window.QUESTION_BANKS = {
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-41",
-                                        "texto_apoio":  "O direito internacional humanitário distingue entre as regras que determinam quando um Estado pode legitimamente recorrer ao uso da força e as regras que determinam como as partes devem se comportar durante um conflito armado já em curso, independentemente de quem o iniciou.",
-                                        "enunciado":  "Essas duas dimensões distintas do direito relativo à guerra são conhecidas, respectivamente, como:",
+                                        "formato":  "direta",
+                                        "texto_apoio":  "Os fluxos internacionais de produtos audiovisuais são desiguais: um número pequeno de países exporta a maior parte dos filmes e séries que circulam no mundo, e a maioria é sobretudo importadora. Plataformas de streaming distribuem catálogos simultaneamente em dezenas de mercados e decidem o que aparece primeiro na tela de cada usuário.",
+                                        "enunciado":  "Essa assimetria tem como consequência geográfica",
                                         "alternativas":  {
-                                                             "a":  "jurisdição universal e jurisdição doméstica, relativas exclusivamente a tribunais nacionais",
-                                                             "b":  "soft law e hard law, categorias sem relação direta com conflitos armados interestatais",
-                                                             "c":  "jus cogens e jus dispositivum, normas imperativas e normas derrogáveis do direito internacional geral",
-                                                             "d":  "jus ad bellum (direito de recorrer à guerra) e jus in bello (direito na guerra, ou conduta durante o conflito)",
-                                                             "e":  "direito consuetudinário e direito convencional, aplicáveis exclusivamente a tratados comerciais bilaterais"
+                                                             "a":  "a equalização da produção audiovisual entre países exportadores e importadores.",
+                                                             "b":  "o fim das políticas nacionais de cota de conteúdo, tornadas desnecessárias pela ampliação da oferta trazida pelos catálogos internacionais.",
+                                                             "c":  "a redução do público consumidor de audiovisual nos países importadores.",
+                                                             "d":  "a concentração, em poucos centros, do poder de definir o que circula como referência cultural.",
+                                                             "e":  "o deslocamento da produção para os países de menor renda per capita."
                                                          },
                                         "resposta":  "d",
-                                        "explicacao":  "O jus ad bellum regula as condições sob as quais um Estado pode legitimamente recorrer ao uso da força, enquanto o jus in bello (também chamado de direito internacional humanitário) estabelece regras de conduta durante o conflito armado, aplicáveis a todas as partes independentemente de quem o iniciou.",
-                                        "dificuldade":  "dificil",
-                                        "formato":  "direta"
+                                        "explicacao":  "Quem produz a maior parte do que circula e quem decide a ordem de exibição acumula a prerrogativa de estabelecer o repertório comum — e é essa concentração, e não o volume de obras disponíveis, que a assimetria produz. A equalização é o contrário do que o texto descreve; o público dos países importadores cresce em vez de encolher; a ampliação da oferta reforça o argumento das cotas em lugar de dispensá-lo; e a produção segue concentrada nos países exportadores."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-42",
@@ -2509,19 +2508,18 @@ window.QUESTION_BANKS = {
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-62",
-                                        "texto_apoio":  "Ao final da Segunda Guerra Mundial, representantes de diversos países se reuniram para criar um novo arranjo financeiro internacional, que estabeleceu taxas de câmbio fixas, mas ajustáveis, em relação ao dólar americano, este último conversível em ouro a uma taxa fixa.",
-                                        "enunciado":  "Esse arranjo, que vigorou por cerca de três décadas antes de ser abandonado, é conhecido como:",
+                                        "formato":  "direta",
+                                        "texto_apoio":  "Nas últimas décadas, países fora do eixo tradicional passaram a exportar bens culturais em escala. A indústria audiovisual nigeriana tornou-se uma das maiores do mundo em número de títulos produzidos por ano, e a música pop sul-coreana alcançou mercados globais com apoio declarado de política estatal de exportação cultural.",
+                                        "enunciado":  "Esses casos mostram que",
                                         "alternativas":  {
-                                                             "a":  "Padrão-ouro clássico",
-                                                             "b":  "Tratado de Roma de 1957",
-                                                             "c":  "Acordo de Basileia bancário",
-                                                             "d":  "sistema de Bretton Woods",
-                                                             "e":  "Consenso de Washington"
+                                                             "a":  "a exportação de bens culturais depende do tamanho do território do país produtor.",
+                                                             "b":  "a hierarquia dos fluxos culturais permanece inalterada depois de estabelecida a posição dos países centrais.",
+                                                             "c":  "a produção cultural periférica se limita a reproduzir formatos criados nos países centrais.",
+                                                             "d":  "a posição de um país nos fluxos culturais pode mudar por escala produtiva e por política pública.",
+                                                             "e":  "a política estatal de cultura produz efeito restrito ao mercado interno do país que a adota, sem alcance sobre a circulação externa das obras."
                                                          },
                                         "resposta":  "d",
-                                        "explicacao":  "O sistema de Bretton Woods, estabelecido em 1944, criou um arranjo de taxas de câmbio fixas, mas ajustáveis, ancoradas ao dólar americano (conversível em ouro), vigorando até o início da década de 1970, quando os Estados Unidos encerraram a conversibilidade do dólar em ouro.",
-                                        "dificuldade":  "dificil",
-                                        "formato":  "direta"
+                                        "explicacao":  "Os dois casos são contraexemplos: um pela escala de produção, outro pela política de exportação deliberada, e juntos mostram que a posição nos fluxos culturais é resultado, não destino. A hierarquia inalterada é justamente o que eles desmentem; o território não explica nenhum dos dois; a limitação à cópia de formatos contraria o alcance obtido; e o caso sul-coreano mostra política estatal com efeito externo, e não apenas interno."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-63",
@@ -2541,19 +2539,18 @@ window.QUESTION_BANKS = {
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-64",
-                                        "texto_apoio":  "Representantes diplomáticos em missão em outro país gozam de determinadas proteções jurídicas que os isentam, em regra, da jurisdição penal e civil do país anfitrião, mesmo quando envolvidos em situações que, para um cidadão comum, resultariam em processo judicial local.",
-                                        "enunciado":  "Essa proteção jurídica concedida a diplomatas é conhecida como:",
+                                        "formato":  "direta",
+                                        "texto_apoio":  "Vários países adotam instrumentos para sustentar a produção audiovisual própria: cota de tela nos cinemas, exigência de percentual de conteúdo nacional em catálogos e canais, e fundos alimentados por tributo sobre a exibição de obras estrangeiras.",
+                                        "enunciado":  "O argumento central a favor desses instrumentos é que",
                                         "alternativas":  {
-                                                             "a":  "asilo diplomático territorial",
-                                                             "b":  "jurisdição universal penal",
-                                                             "c":  "extraterritorialidade fiscal",
-                                                             "d":  "soberania compartilhada formal",
-                                                             "e":  "imunidade diplomática plena"
+                                                             "a":  "a produção estrangeira apresenta qualidade técnica inferior à da produção nacional.",
+                                                             "b":  "o público prefere obras nacionais quando as duas opções estão disponíveis na mesma plataforma.",
+                                                             "c":  "a produção nacional dispensa investimento quando existe reserva legal de espaço.",
+                                                             "d":  "o consumo de obras estrangeiras reduz a arrecadação tributária do país importador, que deixa de tributar a exibição de obras produzidas em seu próprio território.",
+                                                             "e":  "sem reserva de espaço a produção local não compete com catálogos cujo custo já foi amortizado no mercado de origem."
                                                          },
                                         "resposta":  "e",
-                                        "explicacao":  "A imunidade diplomática, prevista pela Convenção de Viena sobre Relações Diplomáticas, protege representantes diplomáticos da jurisdição penal e, em grande medida, civil do país anfitrião, permitindo que exerçam suas funções sem receio de coerção judicial ou política pelo Estado onde estão em missão.",
-                                        "dificuldade":  "media",
-                                        "formato":  "direta"
+                                        "explicacao":  "Uma obra que já cobriu seu custo no mercado onde foi feita pode ser licenciada a preço baixo em qualquer outro, e é contra essa assimetria de custo — não contra a qualidade nem contra o gosto do público — que os instrumentos são justificados. A alegação de qualidade inferior não sustenta política pública; a preferência do público tornaria a reserva desnecessária; dizer que a produção nacional dispensa investimento contraria a existência dos fundos; e o argumento tributário não é o central."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-65",
@@ -2573,19 +2570,18 @@ window.QUESTION_BANKS = {
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-66",
-                                        "texto_apoio":  "Uma corrente teórica das relações internacionais argumenta que a estabilidade do sistema internacional depende da distribuição equilibrada de poder entre os principais Estados, de modo que nenhum deles se torne forte o suficiente para dominar os demais sem enfrentar resistência coordenada.",
-                                        "enunciado":  "Esse conceito central da teoria realista das relações internacionais é conhecido como:",
+                                        "formato":  "direta",
+                                        "texto_apoio":  "O reconhecimento de um sítio como patrimônio mundial costuma aumentar o fluxo de visitantes, o que gera receita e também pressão sobre o próprio bem: circulação intensa nas áreas frágeis, especulação imobiliária no entorno e substituição do comércio de vizinhança por serviços voltados ao turista.",
+                                        "enunciado":  "Essa tensão indica que a valorização de um lugar como patrimônio",
                                         "alternativas":  {
-                                                             "a":  "regime internacional formal vigente",
-                                                             "b":  "dilema de segurança entre Estados",
-                                                             "c":  "governança global multilateral",
-                                                             "d":  "equilíbrio de poder (balance of power)",
-                                                             "e":  "interdependência complexa assimétrica"
+                                                             "a":  "afasta o risco de degradação, ao submeter o sítio a normas internacionais de proteção.",
+                                                             "b":  "depende do número de visitantes que o sítio recebe a cada temporada.",
+                                                             "c":  "reduz o valor dos imóveis situados no entorno do bem reconhecido.",
+                                                             "d":  "pode ameaçar o bem que se propôs a proteger, se o uso não for regulado.",
+                                                             "e":  "transfere ao organismo internacional responsável pelo reconhecimento a gestão cotidiana do sítio e de seu entorno imediato."
                                                          },
                                         "resposta":  "d",
-                                        "explicacao":  "O conceito de equilíbrio de poder (balance of power) é central à teoria realista das relações internacionais, segundo a qual a estabilidade do sistema depende de uma distribuição de poder que impeça que um único Estado se torne dominante sem enfrentar coalizões de resistência.",
-                                        "dificuldade":  "media",
-                                        "formato":  "direta"
+                                        "explicacao":  "O reconhecimento atrai o fluxo que desgasta, encarece e descaracteriza o entorno: sem regra de uso, o instrumento de proteção se volta contra o objeto protegido. Dizer que o reconhecimento afasta a degradação ignora essa dinâmica; o número de visitantes é consequência do reconhecimento, não sua condição; os imóveis do entorno se valorizam, e é isso que produz a especulação descrita; e a gestão cotidiana permanece local."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-67",
@@ -2621,19 +2617,18 @@ window.QUESTION_BANKS = {
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-69",
-                                        "texto_apoio":  "A estabilidade climática global é frequentemente descrita como um bem que, uma vez fornecido, beneficia todos os países, independentemente de sua contribuição individual para sua manutenção, o que cria incentivos para que alguns países se beneficiem dos esforços de redução de emissões feitos por outros sem arcar com custos equivalentes.",
-                                        "enunciado":  "Esse tipo de bem, cujos benefícios não podem ser restritos a quem contribuiu para produzi-lo, é chamado, na teoria econômica e das relações internacionais, de:",
+                                        "formato":  "direta",
+                                        "texto_apoio":  "Chama-se financeirização o processo pelo qual a lógica dos mercados financeiros passa a orientar decisões antes guiadas pela produção: empresas priorizam resultado trimestral e recompra de ações, cidades competem pela atração de capital, e ativos como a moradia passam a ser tratados como aplicação.",
+                                        "enunciado":  "A financeirização, assim definida, caracteriza-se por",
                                         "alternativas":  {
-                                                             "a":  "bem público global, não excludente",
-                                                             "b":  "monopólio natural de mercado",
-                                                             "c":  "vantagem comparativa relativa",
-                                                             "d":  "externalidade positiva nacional",
-                                                             "e":  "bem de clube, de acesso restrito aos contribuintes"
+                                                             "a":  "subordinar decisões produtivas e urbanas a critérios de rendimento financeiro.",
+                                                             "b":  "ampliar o investimento em capacidade produtiva de longo prazo nas empresas de capital aberto.",
+                                                             "c":  "reduzir a mobilidade internacional dos capitais entre praças financeiras.",
+                                                             "d":  "transferir ao Estado a propriedade dos ativos financeiros negociados em bolsa.",
+                                                             "e":  "restringir-se ao setor bancário, sem efeito sobre a indústria, sobre o comércio ou sobre o mercado imobiliário urbano."
                                                          },
                                         "resposta":  "a",
-                                        "explicacao":  "Bens públicos globais, como a estabilidade climática, caracterizam-se por beneficiar todos os países independentemente de sua contribuição individual, o que gera o chamado problema do \u0027carona\u0027 (free-rider), em que alguns países podem se beneficiar dos esforços de outros sem arcar com custos equivalentes, dificultando a cooperação internacional.",
-                                        "dificuldade":  "dificil",
-                                        "formato":  "direta"
+                                        "explicacao":  "O processo é definido pela troca do critério: onde antes decidia a lógica da produção, passa a decidir a do rendimento, e isso alcança a empresa, a cidade e a moradia. A ampliação do investimento de longo prazo é o oposto do que a prioridade ao resultado trimestral produz; a mobilidade dos capitais aumenta em vez de diminuir; a propriedade dos ativos permanece privada; e o alcance descrito no texto vai muito além do setor bancário."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-70",
@@ -2685,19 +2680,18 @@ window.QUESTION_BANKS = {
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-73",
-                                        "texto_apoio":  "Encontros periódicos entre chefes de Estado e de governo, muitas vezes amplamente divulgados pela imprensa, servem tanto para negociar acordos concretos quanto para sinalizar publicamente o estado das relações entre os países envolvidos, mesmo quando poucos resultados práticos imediatos são alcançados.",
-                                        "enunciado":  "Esse tipo de encontro de alto nível, com forte dimensão simbólica e midiática, é conhecido como:",
+                                        "formato":  "direta",
+                                        "texto_apoio":  "Em várias cidades do mundo, fundos de investimento passaram a comprar imóveis residenciais em escala, tratando-os como ativo de rendimento. Onde isso ocorreu, registrou-se elevação dos aluguéis acima da renda média local e aumento do número de imóveis mantidos vazios à espera de valorização.",
+                                        "enunciado":  "O tratamento da moradia como ativo financeiro produz, no espaço urbano,",
                                         "alternativas":  {
-                                                             "a":  "diplomacia comercial exclusivamente privada",
-                                                             "b":  "diplomacia paralela clandestina secreta",
-                                                             "c":  "diplomacia de cúpula (summit diplomacy)",
-                                                             "d":  "diplomacia consular rotineira habitual",
-                                                             "e":  "diplomacia de vaivém (shuttle diplomacy)"
+                                                             "a":  "redução do preço do aluguel, pela ampliação da oferta de imóveis disponíveis.",
+                                                             "b":  "aumento da oferta de moradia popular nas áreas centrais das cidades atingidas.",
+                                                             "c":  "descolamento entre o preço da moradia e a renda de quem precisa morar.",
+                                                             "d":  "diminuição do número de imóveis vazios, pela pressão para gerar receita imediata.",
+                                                             "e":  "transferência da propriedade imobiliária ao poder público municipal, encarregado de administrar o estoque de unidades vazias."
                                                          },
                                         "resposta":  "c",
-                                        "explicacao":  "A diplomacia de cúpula (summit diplomacy) refere-se a encontros de alto nível entre chefes de Estado e de governo, que cumprem tanto função negocial quanto simbólica, sinalizando publicamente o estado das relações bilaterais ou multilaterais, mesmo quando resultados concretos imediatos são limitados.",
-                                        "dificuldade":  "media",
-                                        "formato":  "direta"
+                                        "explicacao":  "Quando o imóvel vale pelo rendimento que promete e não pelo uso que tem, seu preço passa a seguir a expectativa do investidor e deixa de guardar relação com o salário de quem procura onde morar. As opções de queda do aluguel e de aumento da moradia popular contrariam a elevação registrada no texto; a diminuição dos imóveis vazios contraria o aumento descrito, porque manter vazio é parte da estratégia; e não há transferência de propriedade ao município."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-74",
@@ -2797,19 +2791,18 @@ window.QUESTION_BANKS = {
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-80",
-                                        "texto_apoio":  "Bancos centrais de diferentes países podem estabelecer acordos que permitem a troca temporária de moedas entre si, possibilitando que instituições financeiras de um país obtenham liquidez em moeda estrangeira sem depender exclusivamente do mercado internacional, especialmente em momentos de estresse financeiro global.",
-                                        "enunciado":  "Esses acordos entre bancos centrais para troca temporária de moedas são conhecidos como:",
+                                        "formato":  "direta",
+                                        "texto_apoio":  "Parte dos fluxos financeiros internacionais é registrada em jurisdições que combinam tributação baixa ou nula, sigilo societário e facilidade de constituição de empresas. Territórios de população reduzida aparecem, por isso, entre os maiores emissores e receptores de investimento direto do mundo, em volumes desproporcionais ao tamanho de sua economia real.",
+                                        "enunciado":  "Essa desproporção entre volume registrado e economia real indica que",
                                         "alternativas":  {
-                                                             "a":  "tarifas compensatórias antidumping",
-                                                             "b":  "condicionalidades de empréstimo do FMI",
-                                                             "c":  "swaps cambiais entre bancos centrais",
-                                                             "d":  "cláusulas de nação mais favorecida",
-                                                             "e":  "acordos de paridade fixa entre moedas"
+                                                             "a":  "esses territórios concentram a maior parte da produção industrial mundial.",
+                                                             "b":  "o investimento direto é medido pela população do território que o recebe.",
+                                                             "c":  "o registro contábil do capital se descolou do lugar onde a atividade ocorre.",
+                                                             "d":  "a tributação elevada é o principal fator de atração de investimento produtivo.",
+                                                             "e":  "os fluxos financeiros internacionais passaram a ser integralmente registrados nos países de origem das empresas que os movimentam."
                                                          },
                                         "resposta":  "c",
-                                        "explicacao":  "Os swaps cambiais entre bancos centrais permitem a troca temporária de moedas entre países, fornecendo liquidez em moeda estrangeira a instituições financeiras em momentos de estresse no mercado internacional, sem depender exclusivamente de reservas próprias ou de empréstimos de organismos como o FMI.",
-                                        "dificuldade":  "dificil",
-                                        "formato":  "direta"
+                                        "explicacao":  "Um território pequeno não pode abrigar a atividade econômica correspondente aos volumes que registra, então o que passa por ele é o registro e não a operação — é essa separação entre onde o capital aparece e onde ele trabalha que o dado revela. A concentração industrial nesses territórios é insustentável; o investimento não é medido por população; a tributação baixa é o atrativo, não a elevada; e o registro nos países de origem é justamente o que deixa de ocorrer."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-81",
@@ -2877,35 +2870,33 @@ window.QUESTION_BANKS = {
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-85",
-                                        "texto_apoio":  "O Fundo Monetário Internacional pode alocar a seus países-membros um ativo de reserva internacional próprio, cujo valor é calculado a partir de uma cesta de moedas, permitindo que países complementem suas reservas cambiais sem precisar contrair dívida externa adicional.",
-                                        "enunciado":  "Esse ativo de reserva internacional criado e administrado pelo FMI é conhecido como:",
+                                        "formato":  "direta",
+                                        "texto_apoio":  "A circulação internacional de obras audiovisuais depende de dublagem e legendagem, e as plataformas decidem em que idiomas cada título será oferecido. Obras produzidas em línguas de menor circulação alcançam mercados externos sobretudo quando essa decisão é tomada em seu favor.",
+                                        "enunciado":  "Essa dependência mostra que o acesso de uma obra a mercados externos",
                                         "alternativas":  {
-                                                             "a":  "Eurobônus emitidos em moeda estrangeira",
-                                                             "b":  "Cesta de moedas de reserva do Banco de Compensações Internacionais",
-                                                             "c":  "Direitos Especiais de Saque (DES)",
-                                                             "d":  "Nota Promissória Internacional",
-                                                             "e":  "Título do Tesouro Global soberano"
+                                                             "a":  "decorre apenas da qualidade artística reconhecida pela crítica especializada.",
+                                                             "b":  "depende do número de falantes nativos da língua em que a obra foi produzida.",
+                                                             "c":  "passa por decisões de intermediários que controlam a distribuição.",
+                                                             "d":  "é determinado pelo custo de produção da obra em seu país de origem.",
+                                                             "e":  "resulta da existência de acordos culturais bilaterais firmados entre os países envolvidos na circulação da obra."
                                                          },
                                         "resposta":  "c",
-                                        "explicacao":  "Os Direitos Especiais de Saque (DES) são um ativo de reserva internacional criado pelo FMI, cujo valor é calculado a partir de uma cesta de moedas, permitindo que países-membros complementem suas reservas cambiais oficiais sem a necessidade de contrair dívida externa adicional.",
-                                        "dificuldade":  "dificil",
-                                        "formato":  "direta"
+                                        "explicacao":  "Se a obra só chega ao mercado externo quando a plataforma decide traduzi-la e oferecê-la, quem controla a distribuição controla o acesso — e isso é anterior a qualquer mérito da obra. A qualidade reconhecida pela crítica não abre mercado por si; o número de falantes nativos é justamente o que a tradução contorna; o custo de produção não determina a distribuição; e acordos bilaterais não são o mecanismo descrito no texto."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-86",
-                                        "texto_apoio":  "Parte da literatura sobre finanças internacionais argumenta que determinadas dívidas contraídas por um governo, sobretudo regimes não representativos, sem benefício para a população e muitas vezes usadas para reprimi-la, não deveriam ser consideradas obrigações legítimas a serem honradas por governos futuros.",
-                                        "enunciado":  "Esse conceito, ainda controverso e sem reconhecimento pleno no direito internacional, é conhecido como:",
+                                        "formato":  "direta",
+                                        "texto_apoio":  "Países que recorrem a empréstimos internacionais em momentos de crise costumam aceitar condições: corte de despesa pública, elevação de juros, privatizações. A justificativa apresentada é restaurar a confiança dos credores; a crítica aponta que contrair a despesa em plena recessão pode aprofundar a queda da atividade econômica.",
+                                        "enunciado":  "A tensão descrita pode ser formulada como",
                                         "alternativas":  {
-                                                             "a":  "dívida perpétua sem vencimento",
-                                                             "b":  "dívida contingente não registrada",
-                                                             "c":  "dívida soberana regular",
-                                                             "d":  "dívida conversível em ouro",
-                                                             "e":  "dívida odiosa ilegítima"
+                                                             "a":  "contradição entre o volume do empréstimo concedido e a taxa de juros cobrada por ele.",
+                                                             "b":  "disputa sobre qual organismo internacional deve conceder o financiamento ao país.",
+                                                             "c":  "divergência técnica sobre o método de cálculo da dívida pública do país devedor.",
+                                                             "d":  "conflito entre a soberania monetária do país devedor e o regime de câmbio que ele havia adotado antes do início da crise.",
+                                                             "e":  "escolha entre atender à expectativa dos credores e sustentar a atividade econômica interna."
                                                          },
                                         "resposta":  "e",
-                                        "explicacao":  "O conceito de dívida odiosa refere-se a dívidas contraídas por governos não representativos, sem benefício para a população, e que, segundo parte da literatura jurídica e econômica, não deveriam vincular governos futuros, embora esse conceito ainda não tenha reconhecimento pleno e consolidado no direito internacional.",
-                                        "dificuldade":  "dificil",
-                                        "formato":  "direta"
+                                        "explicacao":  "As duas justificativas apontam para direções opostas: o que tranquiliza o credor é o corte, e o que sustenta a atividade é o gasto — a condicionalidade obriga a escolher. As demais deslocam o problema para questões que o texto não põe em disputa: a relação entre volume e juros, a identidade do financiador, o cálculo da dívida e o regime cambial anterior à crise."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-87",
@@ -2989,19 +2980,18 @@ window.QUESTION_BANKS = {
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-92",
-                                        "texto_apoio":  "O direito do mar estabelece que um país costeiro tem soberania plena sobre uma faixa relativamente estreita de mar próxima à sua costa, mas possui apenas direitos econômicos exclusivos, sem soberania plena, sobre uma faixa mais ampla que se estende além dessa área.",
-                                        "enunciado":  "Essa faixa mais ampla, na qual o país costeiro tem direitos exclusivos de exploração de recursos, mas não soberania territorial plena, é conhecida como:",
+                                        "formato":  "direta",
+                                        "texto_apoio":  "O modelo produtivo difundido a partir do início do século XX organizava a fábrica em linha de montagem, com tarefas fragmentadas e repetitivas, produção em grande escala de itens padronizados, estoques altos e contratos de trabalho de longa duração numa mesma empresa.",
+                                        "enunciado":  "Esse modelo, associado ao nome de Henry Ford, caracteriza-se por",
                                         "alternativas":  {
-                                                             "a":  "zona contígua de fiscalização aduaneira",
-                                                             "b":  "zona econômica exclusiva marítima",
-                                                             "c":  "plataforma continental sem limite",
-                                                             "d":  "águas internacionais irrestritas",
-                                                             "e":  "mar territorial costeiro exclusivo"
+                                                             "a":  "produção em pequenos lotes, ajustada à variação da demanda a cada período.",
+                                                             "b":  "padronização do produto e ganho de escala, com trabalho fragmentado na linha de montagem.",
+                                                             "c":  "integração do trabalhador ao planejamento das etapas de produção da fábrica.",
+                                                             "d":  "redução dos estoques ao mínimo, com entrega de insumos no momento exato do uso.",
+                                                             "e":  "subcontratação da maior parte das etapas produtivas a fornecedores externos distribuídos por diferentes países."
                                                          },
                                         "resposta":  "b",
-                                        "explicacao":  "A zona econômica exclusiva (ZEE), prevista na Convenção das Nações Unidas sobre o Direito do Mar, estende-se além do mar territorial e concede ao país costeiro direitos exclusivos de exploração econômica de recursos, sem, contudo, conferir soberania territorial plena como ocorre no mar territorial propriamente dito.",
-                                        "dificuldade":  "dificil",
-                                        "formato":  "direta"
+                                        "explicacao":  "Escala, padronização e fragmentação de tarefas são os três traços que o texto reúne, e é a combinação deles que define o modelo. As outras quatro alternativas descrevem o arranjo que vem DEPOIS dele: lotes pequenos, estoque mínimo, trabalhador integrado ao planejamento e subcontratação internacional pertencem à acumulação flexível, e a distinção entre os dois conjuntos é exatamente o que o item cobra."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-93",
@@ -3149,51 +3139,48 @@ window.QUESTION_BANKS = {
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-102",
-                                        "texto_apoio":  "Determinados crimes, como genocídio, tortura e crimes contra a humanidade, são considerados tão graves pelo direito internacional que alguns sistemas jurídicos nacionais reivindicam competência para julgá-los mesmo quando cometidos fora de seu território e sem qualquer vínculo direto de nacionalidade entre o acusado, a vítima e o país que processa o caso.",
-                                        "enunciado":  "Esse princípio jurídico, que permite a um Estado julgar crimes cometidos fora de seu território independentemente da nacionalidade dos envolvidos, é conhecido como:",
+                                        "formato":  "direta",
+                                        "texto_apoio":  "Um número pequeno de cidades concentra as sedes de bancos, bolsas, seguradoras e escritórios de advocacia que operam os mercados financeiros globais. Essas cidades mantêm entre si conexões de negócio mais intensas do que com o interior de seus próprios países.",
+                                        "enunciado":  "Esse arranjo permite descrever tais cidades como",
                                         "alternativas":  {
-                                                             "a":  "princípio da complementaridade jurisdicional",
-                                                             "b":  "extraterritorialidade consular",
-                                                             "c":  "imunidade diplomática formal",
-                                                             "d":  "jurisdição universal penal",
-                                                             "e":  "soberania absoluta irrestrita"
+                                                             "a":  "centros industriais responsáveis pela maior parte da produção manufatureira mundial.",
+                                                             "b":  "capitais políticas dos Estados em que se localizam, por concentrarem a decisão econômica.",
+                                                             "c":  "áreas metropolitanas definidas pelo número de habitantes que abrigam.",
+                                                             "d":  "nós de uma rede global, mais integrados entre si do que a seus territórios nacionais.",
+                                                             "e":  "polos regionais cuja influência se limita ao próprio país e aos países vizinhos com que ele mantém acordo comercial."
                                                          },
                                         "resposta":  "d",
-                                        "explicacao":  "A jurisdição universal permite que Estados julguem determinados crimes considerados de extrema gravidade pelo direito internacional — como genocídio, tortura e crimes contra a humanidade — mesmo sem vínculo direto de território, nacionalidade do acusado ou da vítima com o país que exerce a jurisdição.",
-                                        "dificuldade":  "dificil",
-                                        "formato":  "direta"
+                                        "explicacao":  "Se a conexão de uma dessas cidades com outra do outro lado do mundo é mais intensa que a conexão com o interior de seu país, a unidade relevante deixa de ser o território nacional e passa a ser a rede — é o que autoriza descrevê-las como nós dela. A função industrial não é a descrita; muitas delas não são capitais políticas; o número de habitantes não define a posição; e a limitação a um alcance regional contraria a integração global apresentada."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-103",
-                                        "texto_apoio":  "Uma corrente teórica das relações internacionais enfatiza a busca por poder e segurança pelos Estados em um sistema internacional anárquico, enquanto outra corrente destaca o papel da cooperação, das instituições internacionais e da interdependência econômica na promoção da paz entre os países.",
-                                        "enunciado":  "Essas duas correntes teóricas centrais das relações internacionais são conhecidas, respectivamente, como:",
+                                        "formato":  "direta",
+                                        "texto_apoio":  "A partir dos anos 1970 difundiu-se um arranjo produtivo distinto do anterior: produção em lotes menores conforme a demanda, estoques reduzidos, subcontratação de etapas, exigência de trabalhador polivalente e dispersão das unidades por vários países.",
+                                        "enunciado":  "A diferença central entre esse arranjo e o modelo que o antecedeu está em",
                                         "alternativas":  {
-                                                             "a":  "construtivismo e behaviorismo nas relações internacionais",
-                                                             "b":  "realismo e liberalismo institucionalista",
-                                                             "c":  "unilateralismo e bilateralismo diplomático",
-                                                             "d":  "protecionismo e livre comércio internacional",
-                                                             "e":  "marxismo e capitalismo econômico global"
+                                                             "a":  "substituir a produção industrial pela prestação de serviços financeiros.",
+                                                             "b":  "trocar a rigidez da escala padronizada pela adaptação rápida à variação da demanda.",
+                                                             "c":  "concentrar as etapas produtivas numa única planta industrial de grande porte.",
+                                                             "d":  "ampliar a duração média dos contratos de trabalho numa mesma empresa.",
+                                                             "e":  "eliminar a divisão internacional do trabalho, ao repatriar as etapas produtivas que antes estavam distribuídas entre países."
                                                          },
                                         "resposta":  "b",
-                                        "explicacao":  "O realismo enfatiza a busca por poder e segurança pelos Estados em um sistema internacional anárquico, priorizando interesses nacionais e equilíbrio de poder, enquanto o liberalismo (ou institucionalismo liberal) destaca o papel da cooperação, das instituições internacionais e da interdependência econômica na promoção da paz e da estabilidade entre os países.",
-                                        "dificuldade":  "media",
-                                        "formato":  "direta"
+                                        "explicacao":  "O modelo anterior ganhava produzindo muito da mesma coisa; este ganha podendo mudar rápido o que produz, e todos os traços listados no texto — lote menor, estoque reduzido, trabalhador polivalente — servem a essa capacidade de ajuste. A indústria não é substituída por serviços financeiros; concentrar etapas e ampliar a duração dos contratos descrevem o modelo antecessor; e a dispersão internacional aumenta em vez de ser revertida."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-104",
-                                        "texto_apoio":  "Uma teoria das relações internacionais argumenta que a estabilidade do sistema econômico e político internacional depende da existência de uma potência dominante disposta e capaz de garantir bens públicos globais, como a segurança das rotas comerciais e a estabilidade do sistema financeiro internacional.",
-                                        "enunciado":  "Essa teoria, segundo a qual a presença de uma potência hegemônica favorece a estabilidade do sistema internacional, é conhecida como:",
+                                        "formato":  "direta",
+                                        "texto_apoio":  "A dispersão internacional das etapas produtivas permitiu que projeto, fabricação de componentes, montagem e distribuição de um mesmo produto ocorressem em países diferentes, escolhidos por custo de mão de obra, carga tributária, condição logística e exigência ambiental.",
+                                        "enunciado":  "A principal consequência geográfica desse arranjo é",
                                         "alternativas":  {
-                                                             "a":  "teoria do sistema-mundo bipolar",
-                                                             "b":  "teoria da transição de poder entre potências",
-                                                             "c":  "teoria da dependência estrutural",
-                                                             "d":  "teoria da estabilidade hegemônica",
-                                                             "e":  "teoria da paz democrática liberal"
+                                                             "a":  "a concentração das etapas produtivas nos países de maior renda per capita.",
+                                                             "b":  "a redução da importância dos custos de transporte na decisão de localização.",
+                                                             "c":  "o retorno das plantas industriais aos países onde estão as sedes das empresas.",
+                                                             "d":  "a formação de cadeias produtivas que atravessam fronteiras, com etapas hierarquizadas por valor agregado.",
+                                                             "e":  "a equalização dos salários industriais entre os países que participam de uma mesma cadeia produtiva internacional de longo alcance."
                                                          },
                                         "resposta":  "d",
-                                        "explicacao":  "A teoria da estabilidade hegemônica sustenta que a existência de uma potência dominante, disposta a arcar com os custos de manter bens públicos globais — como a segurança das rotas comerciais e a estabilidade financeira internacional —, favorece a estabilidade geral do sistema internacional.",
-                                        "dificuldade":  "dificil",
-                                        "formato":  "direta"
+                                        "explicacao":  "Se cada etapa é alocada onde o critério de custo indica, o resultado é uma cadeia que cruza fronteiras — e as etapas não se distribuem de forma equivalente: projeto e pesquisa ficam onde há maior valor agregado, montagem onde a mão de obra é mais barata. A concentração nos países de maior renda contraria a lógica de custo; o transporte permanece decisivo, tanto que a logística é um dos critérios listados; o retorno das plantas às sedes é o oposto da dispersão; e a equalização salarial não decorre da participação numa mesma cadeia."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-105",
@@ -3517,19 +3504,18 @@ window.QUESTION_BANKS = {
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-125",
-                                        "texto_apoio":  "Órgãos da ONU podem solicitar a um tribunal internacional sediado em Haia que emita um parecer jurídico sobre uma questão específica de direito internacional, como a legalidade de determinada ação de um Estado, sem que essa manifestação tenha, necessariamente, efeito vinculante direto sobre as partes envolvidas.",
-                                        "enunciado":  "Esse tipo de manifestação jurídica, solicitada por órgãos da ONU e sem efeito vinculante automático, é conhecida como:",
+                                        "formato":  "direta",
+                                        "texto_apoio":  "Municípios que se especializam em turismo passam a depender de um fluxo sazonal e sensível a crise econômica, variação cambial e clima. Onde a especialização é forte, o comércio local se reorganiza em torno do visitante, e a renda concentra-se nos meses de temporada.",
+                                        "enunciado":  "A especialização turística de um município tende a produzir",
                                         "alternativas":  {
-                                                             "a":  "parecer consultivo não vinculante",
-                                                             "b":  "sentença arbitral vinculante",
-                                                             "c":  "tratado multilateral vinculante",
-                                                             "d":  "resolução do Conselho de Segurança",
-                                                             "e":  "medida cautelar de cumprimento obrigatório"
+                                                             "a":  "dependência de um fluxo sazonal e vulnerável a fatores externos ao município.",
+                                                             "b":  "estabilidade da renda ao longo dos doze meses, pela diversificação do comércio local.",
+                                                             "c":  "redução do custo de vida para a população residente, pela ampliação da oferta de serviços.",
+                                                             "d":  "independência em relação ao câmbio, já que o gasto do visitante ocorre em moeda local.",
+                                                             "e":  "diversificação da base econômica do território, com crescimento simultâneo da indústria e da agricultura no município."
                                                          },
                                         "resposta":  "a",
-                                        "explicacao":  "Pareceres consultivos são manifestações jurídicas emitidas por tribunais internacionais, como a Corte Internacional de Justiça, a pedido de órgãos autorizados da ONU, sobre questões específicas de direito internacional, geralmente sem efeito vinculante automático sobre as partes envolvidas, embora possam ter peso político e jurídico relevante.",
-                                        "dificuldade":  "dificil",
-                                        "formato":  "direta"
+                                        "explicacao":  "Especializar-se em turismo é apostar numa única fonte de renda que depende de gente de fora e se concentra em poucos meses do ano — o que torna o município vulnerável a decisões e eventos que ele não controla. A estabilidade e a diversificação são o oposto da especialização descrita; o custo de vida para o residente tende a subir com a reorganização do comércio em torno do visitante; e o câmbio afeta diretamente a decisão do turista estrangeiro, mesmo que o gasto se dê em moeda local."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-126",
@@ -3773,19 +3759,18 @@ window.QUESTION_BANKS = {
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-141",
-                                        "texto_apoio":  "Determinados recursos e espaços, como a alta atmosfera, os oceanos além das águas territoriais e certas regiões polares, não pertencem à jurisdição exclusiva de nenhum Estado, sendo considerados patrimônio compartilhado que exige cooperação internacional para sua gestão sustentável.",
-                                        "enunciado":  "Esses espaços e recursos, que não estão sob soberania exclusiva de país algum, são conhecidos coletivamente como:",
+                                        "formato":  "direta",
+                                        "texto_apoio":  "A flexibilização das relações de trabalho, iniciada com a subcontratação industrial, alcançou serviços urbanos organizados por plataformas digitais: o trabalhador é acionado por demanda, remunerado por tarefa entregue e não mantém vínculo formal com quem organiza o serviço.",
+                                        "enunciado":  "A relação entre a flexibilização industrial dos anos 1970 e o trabalho por plataforma pode ser descrita como",
                                         "alternativas":  {
-                                                             "a":  "zonas de livre comércio internacional",
-                                                             "b":  "bens públicos globais ou \u0027global commons\u0027",
-                                                             "c":  "patrimônio nacional inalienável de cada Estado costeiro",
-                                                             "d":  "colônias remanescentes do período colonial",
-                                                             "e":  "territórios sob mandato da ONU historicamente"
+                                                             "a":  "oposição, uma vez que a plataforma restabelece o vínculo formal de emprego.",
+                                                             "b":  "continuidade, pela transferência ao trabalhador do risco antes assumido pela empresa.",
+                                                             "c":  "coincidência, sem relação entre os dois processos além da proximidade cronológica.",
+                                                             "d":  "inversão, porque a plataforma concentra as etapas antes dispersas entre fornecedores.",
+                                                             "e":  "equivalência técnica, dado que os dois arranjos adotam o mesmo regime de contribuição previdenciária e de jornada de trabalho."
                                                          },
                                         "resposta":  "b",
-                                        "explicacao":  "Espaços e recursos que não estão sob soberania exclusiva de nenhum Estado, como a alta atmosfera, os oceanos além das águas territoriais e certas regiões polares, são conhecidos como \u0027global commons\u0027 (bens comuns globais), exigindo cooperação internacional para sua gestão sustentável.",
-                                        "dificuldade":  "media",
-                                        "formato":  "direta"
+                                        "explicacao":  "Nos dois casos o que se desloca é o risco: a oscilação da demanda, o custo do tempo parado e a proteção social saem da empresa e passam a ser suportados por quem executa a tarefa. A plataforma não restabelece vínculo formal, e é justamente a ausência dele que a define; a proximidade cronológica não explica a semelhança de mecanismo; a plataforma dispersa a execução em vez de concentrá-la; e os regimes previdenciário e de jornada dos dois arranjos não coincidem."
                                     },
                                     {
                                         "id":  "atualidades-geopolitica-142",

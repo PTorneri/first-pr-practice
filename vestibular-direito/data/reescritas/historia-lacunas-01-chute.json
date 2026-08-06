@@ -1,0 +1,35 @@
+{
+  "_comentario": [
+    "Correcao de chutabilidade do lote historia-lacunas-01. Ele subiu o indice da",
+    "frente de 16,2% para 22,5% e o verify-banco REPROVOU.",
+    "",
+    "Terceira vez que caio no mesmo tell -- depois de Matematica e de Literatura --,",
+    "e agora o padrao esta claro o suficiente para ser nomeado: quando a alternativa",
+    "certa precisa ser PRECISA, ela cresce. Ela carrega a condicao ('acompanhada da",
+    "conservacao das instituicoes'), a ressalva ('e nao apenas ao assunto'), o par",
+    "completo ('participacao direta de quem era cidadao com restricao de quem podia",
+    "ser'). O distrator, por ser falso, pode ser curto e seco. Escrever bem a certa",
+    "e, por si so, uma forca que empurra o comprimento para o lado errado.",
+    "",
+    "A licao pratica para os proximos lotes: escrever o distrator mais plausivel JA",
+    "mais longo que a certa, em vez de conferir depois. Custa o mesmo e evita a ida",
+    "e volta.",
+    "",
+    "Nove das 25 tinham a certa como a mais longa. A correcao alonga um distrator em",
+    "cada, com conteudo real -- a capital unica do imperio grego hipotetico, a Jonia",
+    "no caso persa, o litoral atlantico no caso das cidades industriais do Norte --,",
+    "nunca com enchimento. Gabaritos e enunciados intactos."
+  ],
+  "subtopic": "historia-geral",
+  "substituicoes": [
+    { "id": "historia-geral-14",  "letra": "a", "texto": "a existência de um império grego centralizado desde o século VIII a.C., com capital única." },
+    { "id": "historia-geral-49",  "letra": "b", "texto": "sucessiva, tendo o segundo conflito restaurado a autoridade persa sobre as cidades gregas do Egeu e da Jônia." },
+    { "id": "historia-geral-53",  "letra": "b", "texto": "registrar a oposição manifestada por setores do Congresso ao avanço sobre terras indígenas e mexicanas do oeste." },
+    { "id": "historia-geral-54",  "letra": "d", "texto": "o Norte pretendia transferir para os territórios do oeste a população escravizada de suas cidades industriais do litoral atlântico." },
+    { "id": "historia-geral-61",  "letra": "a", "texto": "reduziu a produção agrícola a ponto de eliminar as exportações mexicanas registradas ao fim do período." },
+    { "id": "historia-geral-63",  "letra": "b", "texto": "restringiu-se a declarações de princípio, sem consequência para a legislação aprovada nas décadas seguintes." },
+    { "id": "historia-geral-65",  "letra": "a", "texto": "restauração do Porfiriato, com o retorno das mesmas lideranças que governavam antes de 1910 ao poder central." },
+    { "id": "historia-geral-67",  "letra": "d", "texto": "ao abandono da agricultura de irrigação em favor do comércio de longa distância pelo deserto." },
+    { "id": "historia-geral-80",  "letra": "e", "texto": "conservar os textos sem que houvesse produção original nas cidades desse território extenso." }
+  ]
+}

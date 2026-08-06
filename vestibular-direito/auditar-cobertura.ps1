@@ -157,7 +157,7 @@ $programa = [ordered]@{
   "Historia" = @{
     frentes = @("historia-brasil","historia-geral")
     itens = @(
-      @{ n = "1.1-1.2 Pré-História e Antiguidade Oriental";     t = @("pré-história","mesopotâmia","fenício","hebreu","egito","antiguidade oriental") }
+      @{ n = "1.1-1.2 Pré-História e Antiguidade Oriental";     t = @("pré-história","mesopotâmia","fenício","hebreu","egito","antiguidade oriental","neolític","caça e a coleta","caça e coleta","domesticação de animais","obras hidráulicas") }
       @{ n = "1.3 Grécia Antiga";                               t = @("grécia","grego","atenas","esparta","pólis","helenis") }
       @{ n = "1.4-1.5 Roma e reinos germânicos";                t = @("roma","romano","império romano","germânic","bárbar") }
       @{ n = "1.6-1.7 Bizâncio e expansão islâmica";            t = @("bizant","bizânc","islâmic","islã","muçulman","califado") }
@@ -181,13 +181,16 @@ $programa = [ordered]@{
       @{ n = "3.17-3.18 Imperialismo e partilha da África";     t = @("imperialis","neocolonialis","partilha da áfrica","conferência de berlim") }
       @{ n = "3.19 Anarquismo, socialismo, classe operária";    t = @("anarquis","socialis","marx","classe operária","sindicat","comuna de paris") }
       @{ n = "3.21 Unificações da Itália e Alemanha";           t = @("unificação da itália","unificação da alemanha","bismarck","garibaldi") }
-      @{ n = "3.24-3.25 EUA: Oeste e Guerra de Secessão";       t = @("guerra de secessão","conquista do oeste","destino manifesto","expansionismo norte-americano") }
+      # O enunciado real escreve "Guerra Civil dos Estados Unidos", "o Oeste dos
+      # Estados Unidos" e "Reconstrução" -- nenhum casava com a lista antiga, que
+      # marcava 1 onde havia 5.
+      @{ n = "3.24-3.25 EUA: Oeste e Guerra de Secessão";       t = @("guerra de secessão","guerra civil dos estados unidos","conquista do oeste","oeste dos estados unidos","destino manifesto","expansionismo norte-americano","reconstrução","bisõe","décima terceira emenda") }
       @{ n = "3.26 Prata e Guerra do Paraguai";                 t = @("guerra do paraguai","prata","solano lópez","tríplice aliança") }
       @{ n = "3.29 Crise do Império e República";               t = @("proclamação da república","crise do império","questão militar","questão religiosa") }
       @{ n = "4.1-4.4 2a Revolução Industrial, Belle Époque, movimento operário"; t = @("segunda revolução industrial","belle époque","taylor","ford","movimento operário") }
       @{ n = "4.7 Primeira Guerra Mundial";                     t = @("primeira guerra","grande guerra","versalhes","trincheira") }
       @{ n = "4.8 Revolução Russa";                             t = @("revolução russa","bolchev","lenin","stalin","soviét") }
-      @{ n = "4.9 Revolução Mexicana";                          t = @("revolução mexicana","zapata","pancho villa") }
+      @{ n = "4.9 Revolução Mexicana";                          t = @("revolução mexicana","zapata","pancho villa","porfiriato","porfirio díaz","constituição mexicana","revolucionário mexicano","hacienda") }
       @{ n = "4.10-4.14 Primeira República, coronelismo, tenentismo, modernismo"; t = @("primeira república","república velha","coronelis","café com leite","tenentis","política dos governadores","canudos","contestado") }
       @{ n = "4.15-4.18 Crise de 1929, fascismos, nazismo, New Deal"; t = @("crise de 1929","quebra da bolsa","fascis","mussolini","nazis","hitler","new deal") }
       @{ n = "4.19-4.20 Revolução de 30, Estado Novo, trabalhismo"; t = @("revolução de 30","estado novo","vargas","clt","legislação trabalhista","trabalhis") }

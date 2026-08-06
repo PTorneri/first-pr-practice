@@ -198,33 +198,35 @@
                      },
                      {
                          "id":  "historia-geral-14",
-                         "texto_apoio":  "",
-                         "enunciado":  "A corrida espacial, um dos símbolos da disputa entre Estados Unidos e União Soviética durante a Guerra Fria, teve como marco inicial:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Na Grécia do período clássico, a pólis era a unidade política básica: uma cidade e o território rural em torno dela, com leis, cultos e exército próprios. Não havia um Estado grego unificado, e as centenas de póleis mantinham entre si alianças, rivalidades e guerras.",
+                         "enunciado":  "Essa organização em póleis autônomas ajuda a explicar",
                          "alternativas":  {
-                                              "a":  "A chegada da missão Apollo 11 à Lua, em 1969, marco que abriu a disputa tecnológica entre as duas superpotências",
-                                              "b":  "O pouso do homem na Lua pelos americanos, em 1969, marco posterior ao lançamento do Sputnik",
-                                              "c":  "O lançamento do primeiro foguete alemão, na Segunda Guerra Mundial",
-                                              "d":  "A criação da NASA, em 1958, resposta institucional americana ao avanço soviético no espaço",
-                                              "e":  "O lançamento do satélite soviético Sputnik, em 1957, primeiro artefato a orbitar a Terra"
+                                              "a":  "a existência de um império grego centralizado desde o século VIII a.C., com capital única.",
+                                              "b":  "a ausência de guerras entre comunidades de língua e religião comuns.",
+                                              "c":  "a uniformidade das instituições políticas em todo o mundo grego.",
+                                              "d":  "a submissão das cidades gregas a um único código de leis escrito.",
+                                              "e":  "a coexistência de regimes políticos distintos, como o de Atenas e o de Esparta."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O lançamento do Sputnik pela União Soviética em 1957, primeiro satélite artificial a orbitar a Terra, surpreendeu os Estados Unidos e deu início à corrida espacial, que culminaria com a chegada do homem à Lua em 1969.",
-                         "formato":  "direta"
+                         "explicacao":  "Se cada pólis legislava por si, nada obrigava duas delas a adotarem o mesmo regime — e é por isso que a democracia ateniense e a oligarquia militar espartana pudessem existir ao mesmo tempo no mesmo mundo cultural. Império centralizado e código único de leis contrariam a autonomia descrita; a uniformidade institucional é justamente o que ela impede; e a ausência de guerras é desmentida pelo próprio texto, que registra rivalidades e conflitos entre as cidades."
                      },
                      {
                          "id":  "historia-geral-15",
-                         "texto_apoio":  "Após 1945, dezenas de países da África e da Ásia conquistaram sua independência em relação às potências coloniais europeias.",
-                         "enunciado":  "Esse processo de descolonização foi impulsionado, entre outros fatores, por:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Na Atenas do século V a.C., decisões sobre guerra, impostos e obras eram tomadas na Assembleia, aberta a todos os cidadãos, que votavam diretamente. A condição de cidadão, porém, era restrita aos homens adultos nascidos de pais atenienses: mulheres, estrangeiros residentes e escravizados ficavam de fora.",
+                         "enunciado":  "A comparação entre a Assembleia ateniense e as democracias representativas atuais mostra que a primeira",
                          "alternativas":  {
-                                              "a":  "Uma decisão coordenada das potências europeias na Conferência de Bandung, que estabeleceu o calendário das independências",
-                                              "b":  "O enfraquecimento das potências coloniais europeias e o crescimento de movimentos nacionalistas nas colônias",
-                                              "c":  "A ausência completa de movimentos de resistência nas colônias, quadro contrariado por décadas de lutas anticoloniais",
-                                              "d":  "O fortalecimento militar e econômico das metrópoles europeias após a Segunda Guerra Mundial",
-                                              "e":  "A anexação das colônias pelos Estados Unidos, hipótese sem respaldo nos processos de descolonização registrados"
+                                              "a":  "adotava o voto secreto e universal como forma de escolher representantes para mandatos fixos.",
+                                              "b":  "combinava participação direta de quem era cidadão com forte restrição de quem podia ser cidadão.",
+                                              "c":  "reservava as decisões de guerra e de tributos a um conselho de magistrados eleitos por sorteio.",
+                                              "d":  "estendia os direitos políticos a toda a população residente na cidade e em seu território rural.",
+                                              "e":  "delegava a estrangeiros residentes a função de propor as leis submetidas à votação da Assembleia."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A Segunda Guerra Mundial enfraqueceu econômica e militarmente as potências coloniais europeias, ao mesmo tempo em que fortaleceu movimentos nacionalistas locais, criando condições favoráveis às independências afro-asiáticas nas décadas seguintes.",
-                         "formato":  "direta"
+                         "explicacao":  "O texto apresenta as duas faces ao mesmo tempo: quem era cidadão decidia em pessoa, sem intermediário, e a definição de cidadão excluía a maior parte dos habitantes. O voto para mandatos fixos descreve a representação moderna, não a Assembleia; as decisões de guerra e tributos eram justamente as tomadas por ela; a extensão dos direitos a toda a população contraria as exclusões enumeradas; e os estrangeiros residentes não tinham iniciativa legislativa."
                      },
                      {
                          "id":  "historia-geral-16",
@@ -243,18 +245,19 @@
                      },
                      {
                          "id":  "historia-geral-17",
-                         "texto_apoio":  "Em 1989, o Muro de Berlim, símbolo da divisão entre o bloco capitalista e o bloco socialista, foi derrubado.",
-                         "enunciado":  "Esse evento, seguido pela dissolução da União Soviética em 1991, marcou:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Esparta organizou-se em torno da formação militar: os meninos eram retirados da família para treinamento coletivo, a terra era trabalhada por uma população submetida, e o poder ficava concentrado num pequeno grupo, com uma assembleia de participação limitada.",
+                         "enunciado":  "A comparação entre a organização espartana e a ateniense do período clássico indica que",
                          "alternativas":  {
-                                              "a":  "O fortalecimento do Pacto de Varsóvia, aliança dissolvida justamente no início dos anos 1990",
-                                              "b":  "O início da Guerra Fria, processo já encerrado décadas antes da queda do Muro de Berlim",
-                                              "c":  "A criação do bloco socialista na Europa Oriental, ocorrida logo após a Segunda Guerra Mundial",
-                                              "d":  "O fim da Guerra Fria e o início de uma nova configuração geopolítica sob hegemonia dos Estados Unidos",
-                                              "e":  "O início de um período de bipolaridade renovada, com a China assumindo o papel antes ocupado pela União Soviética"
+                                              "a":  "as duas cidades adotaram a mesma solução institucional para o governo da pólis.",
+                                              "b":  "Esparta ampliou a participação política à medida que expandiu seu território.",
+                                              "c":  "Atenas subordinou as decisões da Assembleia ao comando militar permanente.",
+                                              "d":  "a autonomia da pólis permitiu que cidades vizinhas desenvolvessem regimes opostos.",
+                                              "e":  "a existência de população submetida ao trabalho agrícola era exclusividade espartana."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A queda do Muro de Berlim e a posterior dissolução da URSS encerraram a bipolaridade da Guerra Fria, dando início a uma nova ordem mundial marcada, ao menos inicialmente, pela hegemonia política e militar dos Estados Unidos.",
-                         "formato":  "direta"
+                         "explicacao":  "Cada pólis definia suas próprias instituições, e é isso que torna possível a coexistência entre um regime militarizado e oligárquico e outro de assembleia ampliada, no mesmo mundo grego. Afirmar a mesma solução institucional contraria o contraste descrito; Esparta manteve a participação restrita; em Atenas a Assembleia decidia sobre a guerra, e não o contrário; e o trabalho compulsório na agricultura existia também em Atenas, sob a forma da escravidão — é o distrator mais forte, porque a diferença entre as cidades é de grau e de organização, não de existência."
                      },
                      {
                          "id":  "historia-geral-18",
@@ -735,19 +738,19 @@
                      },
                      {
                          "id":  "historia-geral-49",
-                         "texto_apoio":  "A Primeira Guerra Mundial (1914-1918) ficou marcada pelo uso extensivo de trincheiras na Frente Ocidental, onde os exércitos permaneceram por longos períodos em posições fixas.",
-                         "enunciado":  "Esse tipo de combate, associado ao conceito de guerra total, caracterizou-se por:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Entre 490 e 479 a.C., cidades gregas enfrentaram duas invasões do Império Persa. Atenas saiu do conflito com prestígio e com uma frota, e passou a liderar uma aliança de cidades que contribuíam com naus ou com dinheiro. Décadas depois, a rivalidade com Esparta levou à Guerra do Peloponeso.",
+                         "enunciado":  "A relação entre os dois conflitos pode ser descrita como",
                          "alternativas":  {
-                                              "a":  "A exclusão das populações civis de qualquer envolvimento com o esforço de guerra, quadro oposto ao da guerra total",
-                                              "b":  "A ausência completa de avanços tecnológicos militares em relação a conflitos anteriores, o que os fatos contrariam",
-                                              "c":  "Um desgaste prolongado, alto número de baixas, mobilização total da população e novas tecnologias bélicas",
-                                              "d":  "Deslocamentos rápidos de tropas blindadas apoiadas por aviação, que encurtaram a duração média dos confrontos no front",
-                                              "e":  "Movimentos rápidos e decisivos, que resultavam em poucos meses de conflito, ao contrário do impasse nas trincheiras"
+                                              "a":  "independente, uma vez que envolveram adversários e regiões sem qualquer ligação entre si.",
+                                              "b":  "sucessiva, tendo o segundo conflito restaurado a autoridade persa sobre as cidades gregas do Egeu e da Jônia.",
+                                              "c":  "encadeada, pois a liderança que Atenas obteve no primeiro alimentou a rivalidade que gerou o segundo.",
+                                              "d":  "simultânea, com gregos e persas aliados contra a expansão espartana no Peloponeso.",
+                                              "e":  "cíclica, com as cidades gregas alternando alianças com a Pérsia a cada geração."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A guerra de trincheiras simbolizou o conceito de guerra total da Primeira Guerra Mundial: desgaste prolongado, altíssimo número de baixas, mobilização de toda a economia e da população civil para o esforço bélico, e uso de novas e mortíferas tecnologias militares, como gás venenoso, metralhadoras e tanques.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "A vitória sobre a Pérsia deu a Atenas frota, prestígio e uma aliança que ela converteu em ascendência sobre outras cidades — e é esse acúmulo de poder que torna a rivalidade com Esparta o passo seguinte. Tratar os conflitos como independentes ignora esse encadeamento; a autoridade persa não foi restaurada pela guerra entre gregos; os dois conflitos não são simultâneos, e há décadas entre eles; e a descrição cíclica não corresponde à sequência de dois episódios."
                      },
                      {
                          "id":  "historia-geral-50",
@@ -783,51 +786,51 @@
                      },
                      {
                          "id":  "historia-geral-52",
-                         "texto_apoio":  "Após a Revolução de Outubro de 1917, a Rússia mergulhou em uma guerra civil entre as forças bolcheviques (o Exército Vermelho) e seus opositores (o Exército Branco).",
-                         "enunciado":  "Durante esse conflito, o governo bolchevique adotou uma política econômica de emergência conhecida como comunismo de guerra, que se caracterizava por:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Em Atenas, a partir do século VI a.C., leis passaram a ser escritas e expostas em espaço público, e a participação na Assembleia foi progressivamente ampliada entre os homens livres nascidos na cidade. O sorteio passou a ser usado para preencher parte dos cargos públicos.",
+                         "enunciado":  "O recurso ao sorteio para o preenchimento de cargos indica a intenção de",
                          "alternativas":  {
-                                              "a":  "Abertura da economia soviética ao capital estrangeiro, política ausente da fase revolucionária inicial",
-                                              "b":  "Confisco de excedentes agrícolas, nacionalização de indústrias e centralização estatal da economia de guerra",
-                                              "c":  "A abertura ao capital estrangeiro e a devolução das indústrias a proprietários privados como forma de recuperar a produção",
-                                              "d":  "Manutenção da propriedade privada da terra sem qualquer intervenção estatal, contrária às medidas bolcheviques",
-                                              "e":  "Ampla liberdade de mercado e incentivo à iniciativa privada no campo, cenário oposto ao comunismo de guerra"
+                                              "a":  "reservar as funções públicas aos cidadãos de maior fortuna e instrução formal.",
+                                              "b":  "reduzir o peso da riqueza e do prestígio familiar no acesso às funções públicas.",
+                                              "c":  "transferir a escolha dos magistrados ao comando militar da cidade.",
+                                              "d":  "impedir que a Assembleia deliberasse sobre assuntos de política externa.",
+                                              "e":  "submeter as decisões da cidade à aprovação de um conselho de sacerdotes hereditários."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O comunismo de guerra, adotado durante a Guerra Civil Russa, envolveu confisco de excedentes agrícolas dos camponeses, nacionalização ampla da indústria e centralização estatal da economia, medidas emergenciais voltadas a sustentar o Exército Vermelho no confronto contra as forças contrarrevolucionárias.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "Sortear é o oposto de escolher por mérito declarado, por riqueza ou por reputação de família: quem for sorteado ocupa o cargo independentemente desses critérios, e é isso que a prática procura neutralizar. Reservar cargos aos mais ricos descreve o regime que o sorteio limita; o comando militar não escolhia magistrados; a Assembleia continuou deliberando sobre guerra e política externa; e não havia conselho sacerdotal hereditário decidindo por ela."
                      },
                      {
                          "id":  "historia-geral-53",
-                         "texto_apoio":  "Em 1921, diante do colapso econômico provocado pela guerra civil e pelo comunismo de guerra, Lênin implementou uma nova política econômica na União Soviética.",
-                         "enunciado":  "A Nova Política Econômica (NEP) caracterizou-se por:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Ao longo do século XIX, os Estados Unidos avançaram para o oeste do continente. A ideia de que a expansão era uma missão do país — o Destino Manifesto — circulou em jornais e discursos, e o avanço se apoiou em compras de território, em guerra contra o México e em tratados sucessivamente rompidos com povos indígenas, empurrados para reservas.",
+                         "enunciado":  "A expressão Destino Manifesto cumpriu, nesse processo, a função de",
                          "alternativas":  {
-                                              "a":  "Aprofundar ainda mais a estatização completa da economia soviética, direção oposta à adotada por Lênin em 1921",
-                                              "b":  "Abolir de vez qualquer forma de planejamento estatal na economia soviética, o que a NEP jamais fez",
-                                              "c":  "Coletivizar a produção agrícola e suprimir o comércio privado como etapa imediata da transição socialista",
-                                              "d":  "Restaurar integralmente o capitalismo czarista anterior à revolução, hipótese contrária ao próprio ideário bolchevique",
-                                              "e":  "Permitir certa liberdade de mercado e pequena propriedade privada, mantendo o Estado nos setores estratégicos"
+                                              "a":  "descrever com neutralidade a sequência de compras e tratados que ampliou o território.",
+                                              "b":  "registrar a oposição manifestada por setores do Congresso ao avanço sobre terras indígenas e mexicanas do oeste.",
+                                              "c":  "designar o programa de indenização oferecido aos povos deslocados para as reservas.",
+                                              "d":  "estabelecer os limites jurídicos que a expansão territorial não poderia ultrapassar.",
+                                              "e":  "fornecer justificativa moral e religiosa para uma expansão feita por compra, guerra e deslocamento forçado."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A NEP representou um recuo tático em relação ao comunismo de guerra, permitindo certa liberdade de mercado e pequena propriedade privada no campo e no pequeno comércio, enquanto o Estado soviético mantinha o controle dos setores considerados estratégicos, como a grande indústria e o sistema bancário.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A fórmula apresenta como missão e vocação aquilo que na prática se fez por dinheiro, por guerra e por remoção de populações: ela não descreve o processo, ela o legitima. Descrever com neutralidade é o que ela deixa de fazer, porque parte de um juízo de valor; não se trata de manifestação de oposição, e sim de adesão; não houve programa de indenização com esse nome; e a expressão ampliava o horizonte da expansão em vez de limitá-lo juridicamente."
                      },
                      {
                          "id":  "historia-geral-54",
-                         "texto_apoio":  "Após a morte de Lênin, Josef Stalin consolidou-se no poder e promoveu profundas transformações econômicas na União Soviética a partir do final dos anos 1920.",
-                         "enunciado":  "Os planos quinquenais soviéticos, sob Stalin, tinham como principais eixos:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Em meados do século XIX, a economia do Sul dos Estados Unidos apoiava-se em grandes propriedades que produziam algodão para exportação com trabalho escravizado, enquanto o Norte industrializava-se com trabalho assalariado e defendia tarifas de proteção. A disputa sobre a extensão da escravidão aos novos territórios do oeste tornou-se o ponto de atrito central.",
+                         "enunciado":  "A razão pela qual a ocupação do oeste agravou o conflito entre as duas regiões é que",
                          "alternativas":  {
-                                              "a":  "A industrialização acelerada e a coletivização forçada da agricultura, com repressão a camponeses na Ucrânia",
-                                              "b":  "Priorizar a produção de bens de consumo e elevar o padrão de vida da população antes de investir na indústria pesada",
-                                              "c":  "A redução da produção industrial em favor exclusivo da agricultura de subsistência, contrária à industrialização",
-                                              "d":  "A abertura da economia soviética ao investimento privado estrangeiro, ausente da política stalinista da época",
-                                              "e":  "A manutenção da NEP e da pequena propriedade privada no campo, política revertida pelos planos quinquenais"
+                                              "a":  "cada novo território admitido alteraria o equilíbrio de forças entre escravistas e antiescravistas no Congresso.",
+                                              "b":  "os territórios do oeste concentravam a maior parte das fábricas têxteis do país.",
+                                              "c":  "a produção de algodão dependia de mão de obra assalariada disponível no oeste.",
+                                              "d":  "o Norte pretendia transferir para os territórios do oeste a população escravizada de suas cidades industriais do litoral atlântico.",
+                                              "e":  "os povos indígenas do oeste apoiavam formalmente a posição dos estados do Sul."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Os planos quinquenais stalinistas priorizaram a industrialização acelerada e a coletivização forçada da agricultura, processo que encontrou forte resistência camponesa, reprimida com violência, e que resultou em graves crises de fome, sobretudo na Ucrânia, no início da década de 1930.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "Cada estado novo entrava na federação com representação no Congresso, e admitir um estado escravista ou livre deslocava a maioria nacional — foi isso que transformou a ocupação do oeste em disputa de sobrevivência política para as duas regiões. As fábricas concentravam-se no Nordeste, e não no oeste; o algodão era produzido com trabalho escravizado, não assalariado; não havia projeto de transferir população escravizada do Norte; e a posição dos povos indígenas não foi o eixo do conflito entre as regiões."
                      },
                      {
                          "id":  "historia-geral-55",
@@ -879,35 +882,35 @@
                      },
                      {
                          "id":  "historia-geral-58",
-                         "texto_apoio":  "Em dezembro de 1941, o Japão atacou de surpresa a base naval norte-americana de Pearl Harbor, no Havaí.",
-                         "enunciado":  "Esse ataque teve como principal consequência:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "A Guerra Civil dos Estados Unidos (1861-1865) começou depois que estados do Sul declararam separação da União, em reação à eleição de um presidente comprometido em conter a expansão da escravidão. O conflito mobilizou exércitos de centenas de milhares de homens, ferrovias, telégrafo e produção industrial em escala inédita.",
+                         "enunciado":  "O desfecho da guerra, em 1865, resultou em",
                          "alternativas":  {
-                                              "a":  "A manutenção da neutralidade norte-americana na Segunda Guerra Mundial, postura encerrada pelo próprio ataque",
-                                              "b":  "O rompimento da aliança entre Japão, Alemanha e Itália, o que não decorreu do ataque a Pearl Harbor",
-                                              "c":  "A assinatura de um armistício no Pacífico, que manteve os Estados Unidos fora do conflito até o desembarque na Normandia",
-                                              "d":  "A rendição imediata do Japão às forças aliadas, desfecho que só ocorreria quase quatro anos depois",
-                                              "e":  "A entrada formal dos Estados Unidos na Segunda Guerra Mundial, tanto no Pacífico quanto na frente europeia"
+                                              "a":  "reconhecimento da independência dos estados do Sul, com fronteira definida por tratado.",
+                                              "b":  "manutenção da escravidão nos estados do Sul, mediante acordo de compensação aos proprietários.",
+                                              "c":  "divisão do país em duas confederações associadas por um tratado de livre-comércio.",
+                                              "d":  "transferência da capital para o Sul, como parte do acordo que encerrou as hostilidades.",
+                                              "e":  "preservação da União e abolição da escravidão, formalizada por emenda constitucional."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O ataque a Pearl Harbor precipitou a entrada formal dos Estados Unidos na Segunda Guerra Mundial, o que teve impacto decisivo tanto na frente do Pacífico, contra o Japão, quanto na frente europeia, contra a Alemanha nazista e a Itália fascista.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "A derrota dos estados separatistas manteve o país unido, e a abolição foi inscrita na Constituição pela Décima Terceira Emenda, aprovada naquele mesmo ano. Reconhecimento de independência e divisão em duas confederações contrariam o resultado militar; a manutenção da escravidão com compensação foi solução adotada em outros países, mas não ali; e a capital permaneceu onde estava."
                      },
                      {
                          "id":  "historia-geral-59",
-                         "texto_apoio":  "Ainda durante e logo após o fim da Segunda Guerra Mundial, os líderes das principais potências aliadas se reuniram para discutir os rumos do pós-guerra.",
-                         "enunciado":  "As conferências de Yalta (1945) e Potsdam (1945) tiveram como um de seus principais resultados:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Depois de 1865, o período conhecido como Reconstrução levou ao Sul dos Estados Unidos emendas constitucionais que aboliram a escravidão, garantiram cidadania e asseguraram o direito de voto sem distinção de raça. Retirada a presença federal, os estados sulistas aprovaram leis de segregação e mecanismos que restringiram na prática o voto da população negra por décadas.",
+                         "enunciado":  "Esse contraste entre as emendas e o que ocorreu em seguida mostra que",
                          "alternativas":  {
-                                              "a":  "A dissolução imediata de todas as fronteiras nacionais europeias, medida nunca proposta nessas conferências",
-                                              "b":  "A criação de um único governo mundial para a reconstrução do pós-guerra, ideia alheia aos acordos de Yalta",
-                                              "c":  "A manutenção da Alemanha unificada e sem qualquer ocupação estrangeira, contrária à divisão em zonas de ocupação",
-                                              "d":  "A definição das áreas de influência das potências vencedoras, lançando as bases da divisão da Guerra Fria",
-                                              "e":  "A criação de um sistema monetário internacional com paridade fixa em relação ao dólar e a fundação do Fundo Monetário Internacional"
+                                              "a":  "as emendas foram revogadas formalmente pelos estados do Sul ao fim da Reconstrução.",
+                                              "b":  "o direito de voto da população negra foi exercido sem restrição ao longo do século seguinte.",
+                                              "c":  "a segregação foi consequência direta de dispositivo previsto no texto das emendas.",
+                                              "d":  "a garantia formal de um direito não assegura, por si só, a sua realização efetiva.",
+                                              "e":  "a presença federal no Sul se estendeu ininterruptamente até meados do século XX."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "As conferências de Yalta e Potsdam definiram as áreas de influência das potências vencedoras na Europa, incluindo a divisão da Alemanha em zonas de ocupação, lançando as bases geopolíticas para a divisão do continente que caracterizaria o início da Guerra Fria.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "Os direitos permaneceram escritos na Constituição enquanto a legislação estadual e os mecanismos locais os esvaziavam na prática — é a distância entre o direito formal e o direito exercido. As emendas não foram revogadas, e é justamente isso que torna o caso instrutivo; a segregação foi construída contra as emendas, não a partir delas; o voto foi restringido por décadas; e a retirada da presença federal é o ponto de virada narrado no texto."
                      },
                      {
                          "id":  "historia-geral-60",
@@ -927,51 +930,51 @@
                      },
                      {
                          "id":  "historia-geral-61",
-                         "texto_apoio":  "Em 1945, ao final da Segunda Guerra Mundial, foi fundada a Organização das Nações Unidas, sucessora da fracassada Liga das Nações.",
-                         "enunciado":  "Uma das principais diferenças estruturais entre a ONU e a antiga Liga das Nações é:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "No México, o longo governo de Porfirio Díaz, iniciado em 1876, atraiu capital estrangeiro para ferrovias, mineração e petróleo, concentrou a propriedade rural em grandes haciendas e manteve-se por eleições sem competição real. Em 1910, a recusa de Díaz em deixar o poder desencadeou um movimento armado.",
+                         "enunciado":  "A concentração da propriedade rural durante o Porfiriato contribuiu para a eclosão do conflito porque",
                          "alternativas":  {
-                                              "a":  "A adoção da regra de unanimidade entre todos os membros, que substituiu o modelo decisório da organização anterior",
-                                              "b":  "Sua atuação restrita exclusivamente a questões econômicas, sem papel político, o que a Carta da ONU contradiz",
-                                              "c":  "A ausência de qualquer órgão com poder de decisão sobre segurança internacional, o que o Conselho contradiz",
-                                              "d":  "A exclusão de todas as grandes potências mundiais de seus quadros, oposto ao Conselho de Segurança da ONU",
-                                              "e":  "A criação do Conselho de Segurança, com membros permanentes e poder de veto, garantindo a participação das potências"
+                                              "a":  "reduziu a produção agrícola a ponto de eliminar as exportações mexicanas registradas ao fim do período.",
+                                              "b":  "transferiu a propriedade das haciendas para investidores urbanos ligados ao governo.",
+                                              "c":  "impediu a construção de ferrovias nas regiões de maior densidade populacional.",
+                                              "d":  "provocou a saída do capital estrangeiro do país, que havia financiado as ferrovias.",
+                                              "e":  "deixou comunidades camponesas sem acesso à terra que cultivavam, criando base social para a revolta."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Diferentemente da Liga das Nações, a ONU criou um Conselho de Segurança com membros permanentes dotados de poder de veto, mecanismo pensado para garantir o envolvimento contínuo das grandes potências vencedoras da guerra na manutenção da paz internacional, evitando a fragilidade que marcou a organização anterior.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "A expansão das haciendas se fez sobre terras de comunidades camponesas, e foi essa população despojada que deu ao movimento de 1910 sua base no campo — sem ela, a crise teria ficado restrita à disputa eleitoral entre elites. A produção para exportação cresceu no período em vez de desaparecer; as haciendas concentraram terra sem que a propriedade migrasse para investidores urbanos; o capital estrangeiro entrou, e não saiu; e as ferrovias foram construídas, sendo uma das marcas do governo."
                      },
                      {
                          "id":  "historia-geral-62",
-                         "texto_apoio":  "A partir de 1948, os Estados Unidos lançaram um amplo programa de ajuda financeira para a reconstrução da Europa Ocidental devastada pela Segunda Guerra Mundial.",
-                         "enunciado":  "O Plano Marshall, além de contribuir para a recuperação econômica europeia, tinha também como objetivo estratégico:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "A Revolução Mexicana reuniu, a partir de 1910, grupos com projetos distintos: setores das elites regionais que queriam alternância no poder, e movimentos camponeses do sul e do norte que exigiam a devolução de terras comunais. As alianças entre esses grupos se formaram e se romperam ao longo da década.",
+                         "enunciado":  "A pluralidade de projetos dentro do movimento explica",
                          "alternativas":  {
-                                              "a":  "Financiar exclusivamente a reconstrução da própria União Soviética, o que o Plano Marshall jamais fez",
-                                              "b":  "Eliminar qualquer forma de cooperação econômica entre os países europeus, contrário ao propósito do plano",
-                                              "c":  "Fortalecer a influência soviética sobre os países da Europa Ocidental, objetivo oposto ao do Plano Marshall",
-                                              "d":  "Coordenar a cooperação econômica entre os países socialistas do Leste Europeu sob direção soviética",
-                                              "e":  "Conter o avanço do comunismo, associando reconstrução econômica a governos alinhados aos EUA na Guerra Fria"
+                                              "a":  "a rápida conclusão do conflito, em razão do acordo imediato entre as lideranças.",
+                                              "b":  "o alinhamento permanente entre as elites regionais e os movimentos camponeses do sul.",
+                                              "c":  "a ausência de qualquer pauta agrária entre as reivindicações apresentadas.",
+                                              "d":  "a manutenção do governo de Porfirio Díaz até o fim da década de 1920.",
+                                              "e":  "a sucessão de rupturas e conflitos armados entre grupos que haviam lutado juntos."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Além do objetivo humanitário e econômico de reconstrução, o Plano Marshall tinha clara motivação geopolítica: conter o avanço do comunismo na Europa Ocidental, associando ajuda financeira à consolidação de governos alinhados aos interesses dos Estados Unidos no início da Guerra Fria.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "Quando um grupo quer alternância no poder e outro quer redistribuição de terras, a vitória contra o governo comum não resolve a divergência entre eles — daí as alianças que se desfazem e os enfrentamentos entre antigos aliados. A conclusão rápida contraria a duração do conflito; a pauta agrária é justamente o eixo dos movimentos camponeses; Díaz deixou o poder em 1911; e o alinhamento permanente é o oposto das rupturas descritas."
                      },
                      {
                          "id":  "historia-geral-63",
-                         "texto_apoio":  "Ao longo da década de 1940 e 1950, o mundo assistiu à formação de duas grandes alianças militares antagônicas.",
-                         "enunciado":  "A criação da OTAN (1949), liderada pelos Estados Unidos, e do Pacto de Varsóvia (1955), liderado pela União Soviética, expressou, sobretudo:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "A Constituição mexicana de 1917 estabeleceu a propriedade da nação sobre o subsolo e os recursos minerais, previu a redistribuição de terras a comunidades camponesas e incorporou direitos trabalhistas como jornada limitada, salário mínimo e direito de greve.",
+                         "enunciado":  "A inclusão de direitos trabalhistas e da questão agrária no texto constitucional de 1917 é significativa porque",
                          "alternativas":  {
-                                              "a":  "A busca por unificação militar entre as duas superpotências da Guerra Fria, o que as alianças rivais contradizem",
-                                              "b":  "A superação da divisão bipolar por meio de um sistema de segurança coletiva que reunia os dois blocos sob a mesma estrutura",
-                                              "c":  "A institucionalização da divisão bipolar do mundo em blocos militares rivais, traço central da Guerra Fria",
-                                              "d":  "A criação de um exército único sob comando da ONU, arranjo distinto do adotado pelas duas alianças militares",
-                                              "e":  "O fim de qualquer disputa militar entre capitalismo e socialismo, contrário à própria lógica das alianças"
+                                              "a":  "reproduziu, sem alteração, o texto constitucional vigente durante o Porfiriato.",
+                                              "b":  "restringiu-se a declarações de princípio, sem consequência para a legislação aprovada nas décadas seguintes.",
+                                              "c":  "antecipou em várias décadas a incorporação de direitos sociais a constituições de outros países.",
+                                              "d":  "transferiu ao capital estrangeiro a propriedade do subsolo e dos recursos minerais.",
+                                              "e":  "excluiu as comunidades camponesas do acesso à terra redistribuída pelo Estado."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A formação de alianças militares antagônicas, a OTAN e o Pacto de Varsóvia, institucionalizou a divisão bipolar do mundo em blocos rivais, um dos traços estruturais mais marcantes da Guerra Fria, refletindo a lógica de contenção e dissuasão mútua entre capitalismo e socialismo.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "Direitos sociais e trabalhistas em texto constitucional eram então novidade, e a carta mexicana os inscreve antes da alemã de Weimar, de 1919, e muito antes da brasileira de 1934 — é por isso que ela é tratada como marco. A leitura como declaração sem efeito ignora a redistribuição de terras que se seguiu; o texto rompe com o Porfiriato em vez de repeti-lo; a propriedade do subsolo passa à nação, não ao capital estrangeiro; e as comunidades camponesas são as destinatárias da redistribuição."
                      },
                      {
                          "id":  "historia-geral-64",
@@ -991,67 +994,67 @@
                      },
                      {
                          "id":  "historia-geral-65",
-                         "texto_apoio":  "Em 1948-1949, a União Soviética bloqueou o acesso terrestre das potências ocidentais a Berlim Ocidental, situada dentro do território sob administração soviética.",
-                         "enunciado":  "A resposta das potências ocidentais a esse bloqueio foi:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Entre a década de 1920 e o fim dos anos 1930, o processo revolucionário mexicano foi sendo canalizado para dentro de um partido único de fato, que reuniu sindicatos, organizações camponesas e setores militares, e que governaria o país por várias décadas. O período incluiu a nacionalização do petróleo, em 1938.",
+                         "enunciado":  "Esse processo pode ser descrito como",
                          "alternativas":  {
-                                              "a":  "A retirada imediata de toda a população de Berlim Ocidental, medida nunca adotada pelos aliados ocidentais",
-                                              "b":  "A organização de uma ponte aérea para abastecer a cidade, evitando confronto militar direto com a URSS",
-                                              "c":  "A entrega de Berlim Ocidental à administração soviética, desfecho oposto ao ocorrido na crise de 1948",
-                                              "d":  "A construção de um muro dividindo a cidade, que interrompeu a circulação entre os setores ocidental e oriental",
-                                              "e":  "A declaração formal de guerra à União Soviética, resposta que as potências ocidentais evitaram deliberadamente"
+                                              "a":  "restauração do Porfiriato, com o retorno das mesmas lideranças que governavam antes de 1910 ao poder central.",
+                                              "b":  "institucionalização da revolução, com incorporação de suas bases sociais a uma estrutura partidária.",
+                                              "c":  "abandono das bandeiras agrária e trabalhista formuladas na década anterior.",
+                                              "d":  "fragmentação do país em governos regionais autônomos, sem autoridade central.",
+                                              "e":  "devolução das reservas de petróleo às empresas estrangeiras que as exploravam."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Diante do bloqueio terrestre soviético, as potências ocidentais organizaram uma ponte aérea para abastecer Berlim Ocidental por quase um ano, resolvendo a crise sem confronto militar direto e demonstrando, já nos primeiros anos da Guerra Fria, a lógica de disputa sem guerra aberta entre as superpotências.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "Trazer sindicatos e organizações camponesas para dentro de uma estrutura partidária transforma a mobilização revolucionária em canal de governo: as bandeiras seguem, e passam a ser administradas de cima. A restauração do Porfiriato contraria a nacionalização do petróleo e a redistribuição de terras; o abandono das bandeiras é desmentido pelos mesmos fatos; não houve fragmentação em governos autônomos; e o petróleo foi nacionalizado, não devolvido."
                      },
                      {
                          "id":  "historia-geral-66",
-                         "texto_apoio":  "Em 1950, a Coreia do Norte, apoiada pela União Soviética e, posteriormente, pela China comunista, invadiu a Coreia do Sul, apoiada pelos Estados Unidos e por forças da ONU.",
-                         "enunciado":  "A Guerra da Coreia (1950-1953) é considerada um exemplo típico de:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Por volta de dez mil anos atrás, em várias regiões do planeta, grupos humanos passaram a cultivar plantas e criar animais, em substituição parcial à caça e à coleta. Junto com a agricultura vieram a permanência no mesmo lugar, o armazenamento de excedentes, o crescimento populacional e formas mais rígidas de hierarquia.",
+                         "enunciado":  "A relação entre o cultivo e o surgimento de hierarquias mais rígidas se explica porque",
                          "alternativas":  {
-                                              "a":  "Confronto militar direto entre as duas superpotências da Guerra Fria, hipótese nunca concretizada nesse conflito",
-                                              "b":  "Guerra por procuração (proxy war), com as superpotências apoiando lados opostos, resultando na divisão da península coreana",
-                                              "c":  "Um conflito que resultou na reunificação definitiva da Coreia, desfecho contrário ao armistício de 1953",
-                                              "d":  "Uma disputa exclusivamente comercial entre as duas Coreias, o que ignora sua dimensão política e militar direta",
-                                              "e":  "Guerra de independência colonial, em que a população local enfrentou uma metrópole europeia até obter a soberania"
+                                              "a":  "a agricultura exigia menos trabalho diário do que a caça e a coleta praticadas antes.",
+                                              "b":  "o armazenamento de excedentes tornou possível acumular, controlar e disputar riqueza.",
+                                              "c":  "a fixação num mesmo lugar reduziu o tamanho dos grupos humanos e a divisão de tarefas.",
+                                              "d":  "a domesticação de animais eliminou a necessidade de organização coletiva do trabalho.",
+                                              "e":  "o crescimento populacional reduziu a competição pelo acesso às áreas cultiváveis."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A Guerra da Coreia é um exemplo clássico de guerra por procuração da Guerra Fria: Estados Unidos e União Soviética (e depois a China) apoiaram lados opostos sem se enfrentarem diretamente, resultando em um armistício que manteve a península coreana dividida até os dias atuais.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "Onde há excedente guardado há algo a controlar, a distribuir e a defender — e é dessa possibilidade que nascem posições desiguais duráveis, que grupos móveis de caça e coleta não sustentavam. A agricultura inicial exigiu mais trabalho, e não menos; a fixação permitiu grupos maiores e divisão de tarefas mais complexa; a domesticação de animais não dispensa organização coletiva; e o crescimento populacional aumenta a competição pela terra."
                      },
                      {
                          "id":  "historia-geral-67",
-                         "texto_apoio":  "Em 1959, um movimento guerrilheiro liderado por Fidel Castro derrubou o governo de Fulgencio Batista em Cuba.",
-                         "enunciado":  "Nos anos seguintes à vitória revolucionária, o alinhamento de Cuba à União Soviética resultou em:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Na Mesopotâmia e no Egito antigos, a agricultura dependia de rios de cheia periódica. Canais, diques e reservatórios exigiam trabalho coordenado em larga escala, e o controle da água, do calendário e dos estoques ficou nas mãos de administrações que reuniam funções religiosas, contábeis e políticas. A escrita surgiu associada a esse registro.",
+                         "enunciado":  "O texto permite relacionar o surgimento da escrita nessas sociedades",
                          "alternativas":  {
-                                              "a":  "O desinteresse soviético em qualquer aproximação com o novo governo cubano, contrariado pelo apoio soviético à ilha",
-                                              "b":  "Maior aproximação diplomática e comercial entre Cuba e os Estados Unidos, cenário oposto ao rompimento ocorrido",
-                                              "c":  "Um embargo econômico norte-americano a Cuba e sua transformação em um dos focos de tensão da Guerra Fria nas Américas",
-                                              "d":  "A manutenção de Cuba como aliada incondicional dos Estados Unidos, papel encerrado com a Revolução Cubana",
-                                              "e":  "A adesão de Cuba à Organização dos Estados Americanos e a normalização de suas relações comerciais com Washington"
+                                              "a":  "à substituição das administrações religiosas por corpos de funcionários laicos.",
+                                              "b":  "à difusão da literatura como forma de entretenimento das populações camponesas.",
+                                              "c":  "à necessidade de registrar estoques, tributos e obras sob administração centralizada.",
+                                              "d":  "ao abandono da agricultura de irrigação em favor do comércio de longa distância pelo deserto.",
+                                              "e":  "à ausência de autoridade capaz de coordenar o trabalho nas obras hidráulicas."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O alinhamento de Cuba à União Soviética após 1959 provocou a ruptura das relações com os Estados Unidos, que impuseram um embargo econômico à ilha, transformando Cuba em um dos principais focos de tensão da Guerra Fria no continente americano nas décadas seguintes.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "O texto liga a escrita ao registro, e o que havia a registrar eram estoques, tributos e o trabalho nas obras de irrigação — a escrita nasce como instrumento de administração antes de ser instrumento de literatura. O entretenimento não explica o surgimento; as administrações reuniam funções religiosas e contábeis, sem substituição por corpos laicos; a irrigação não foi abandonada; e a coordenação em larga escala pressupõe autoridade, e não sua ausência."
                      },
                      {
                          "id":  "historia-geral-68",
-                         "texto_apoio":  "Em outubro de 1962, a descoberta de mísseis soviéticos instalados em Cuba levou o mundo a um dos momentos de maior tensão da Guerra Fria.",
-                         "enunciado":  "A Crise dos Mísseis de Cuba foi resolvida por meio de:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Roma passou de cidade a potência mediterrânea sob um regime republicano, com magistraturas anuais e um Senado de aristocratas. A expansão trouxe territórios, escravizados e riqueza, e também exércitos leais a seus generais. No fim do século I a.C., depois de guerras civis, o poder concentrou-se numa única figura, mantendo-se as formas republicanas.",
+                         "enunciado":  "A passagem da República ao Império romano caracterizou-se por",
                          "alternativas":  {
-                                              "a":  "Uma operação militar de desembarque apoiada pelos Estados Unidos, derrotada pelas forças cubanas na costa da ilha",
-                                              "b":  "Negociações diplomáticas que resultaram na retirada dos mísseis soviéticos, em troca do compromisso de não invadir Cuba",
-                                              "c":  "Um confronto militar direto entre Estados Unidos e União Soviética em território cubano, cenário evitado pelas partes",
-                                              "d":  "A expulsão de Cuba da Organização das Nações Unidas, medida jamais adotada durante a crise de 1962",
-                                              "e":  "A ocupação militar permanente de Cuba pelas forças armadas dos Estados Unidos, desfecho que não se concretizou"
+                                              "a":  "abolição imediata do Senado e das magistraturas herdadas do período republicano.",
+                                              "b":  "concentração efetiva do poder acompanhada da conservação das instituições republicanas.",
+                                              "c":  "redução do território controlado, em razão das guerras civis do século I a.C.",
+                                              "d":  "transferência do poder de decisão aos exércitos provinciais, organizados em assembleia.",
+                                              "e":  "restauração das magistraturas anuais como órgão máximo de governo do território."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A Crise dos Mísseis de Cuba, um dos momentos mais tensos da Guerra Fria, foi resolvida por meio de negociações diplomáticas: a União Soviética retirou seus mísseis de Cuba em troca do compromisso americano de não invadir a ilha e da retirada, mantida em sigilo por algum tempo, de mísseis americanos instalados na Turquia.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "As instituições continuaram existindo e sendo mencionadas, enquanto a decisão passava a depender de uma só pessoa: a forma foi preservada e o conteúdo, deslocado. A abolição imediata do Senado não ocorreu; o território seguiu se ampliando; os exércitos sustentavam generais individuais, sem constituir assembleia deliberativa; e as magistraturas anuais deixaram de ser o órgão máximo, ainda que subsistissem."
                      },
                      {
                          "id":  "historia-geral-69",
@@ -1103,35 +1106,35 @@
                      },
                      {
                          "id":  "historia-geral-72",
-                         "texto_apoio":  "Apesar de ambos os países serem governados por partidos comunistas, China e União Soviética viveram, a partir do final da década de 1950, um crescente distanciamento político e ideológico.",
-                         "enunciado":  "Essa cisão sino-soviética evidencia que:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Entre os séculos IV e V, povos de origem germânica estabeleceram-se em territórios do Império Romano do Ocidente, ora como aliados militares, ora por conquista. Em 476, o último imperador do Ocidente foi depostoo, e o território fragmentou-se em reinos que combinaram instituições romanas, direito consuetudinário germânico e a estrutura da Igreja.",
+                         "enunciado":  "A formação desses reinos é melhor descrita como",
                          "alternativas":  {
-                                              "a":  "Não houve qualquer consequência geopolítica dessa divergência, leitura contrariada pelos conflitos de fronteira posteriores",
-                                              "b":  "O bloco socialista durante a Guerra Fria era um grupo perfeitamente unificado e sem divergências internas",
-                                              "c":  "O bloco socialista manteve unidade doutrinária e estratégica ao longo do período, com divergências limitadas a questões táticas",
-                                              "d":  "Divergências sobre o marxismo, disputas de liderança do movimento comunista e questões de fronteira dividiam o bloco socialista",
-                                              "e":  "A União Soviética e a China mantiveram uma aliança militar inabalável durante toda a Guerra Fria, o que a cisão desmente"
+                                              "a":  "ruptura completa com a herança romana, substituída por instituições inteiramente novas.",
+                                              "b":  "manutenção do Império do Ocidente sob administração conjunta dos povos recém-chegados.",
+                                              "c":  "transferência da capital imperial para o norte da Europa, com continuidade administrativa.",
+                                              "d":  "combinação entre elementos romanos, costumes germânicos e a organização da Igreja.",
+                                              "e":  "expulsão dos povos germânicos e restauração da autoridade imperial em todo o Ocidente."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A cisão sino-soviética revela que o próprio bloco socialista era atravessado por divergências ideológicas, disputas pela liderança do movimento comunista internacional e tensões de fronteira, o que relativiza a ideia simplificada de um mundo bipolar plenamente coeso durante a Guerra Fria.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O texto descreve reinos que aproveitaram a administração e o direito romanos, mantiveram costumes próprios e se apoiaram na Igreja, então o que se vê é composição e não substituição. A ruptura completa é desmentida pela permanência de instituições romanas; o Império do Ocidente deixou de existir como unidade; a capital não foi transferida para o norte; e não houve expulsão nem restauração da autoridade imperial ocidental."
                      },
                      {
                          "id":  "historia-geral-73",
-                         "texto_apoio":  "Ao longo da década de 1970, Estados Unidos e União Soviética buscaram reduzir as tensões diretas entre si, em um período conhecido como détente (distensão).",
-                         "enunciado":  "Esse período caracterizou-se por:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "O Império Romano do Oriente, com capital em Constantinopla, manteve-se por mais de mil anos após a fragmentação do Ocidente. Sob Justiniano, no século VI, promoveu-se a compilação do direito romano num corpo organizado, que séculos mais tarde serviria de base para o ensino jurídico nas universidades europeias.",
+                         "enunciado":  "A compilação do direito romano realizada em Constantinopla teve como consequência de longo prazo",
                          "alternativas":  {
-                                              "a":  "Acordos de controle de armamentos, como os tratados SALT, e maior diálogo diplomático entre os dois blocos rivais",
-                                              "b":  "O início, e não a redução, da corrida armamentista entre as duas potências, leitura invertida quanto à détente",
-                                              "c":  "O rompimento total das relações diplomáticas entre Estados Unidos e União Soviética, o que não ocorreu durante a détente",
-                                              "d":  "O fim definitivo de qualquer rivalidade entre as duas superpotências, o que a retomada da tensão nos anos 1980 contradiz",
-                                              "e":  "O rompimento das negociações de desarmamento e a retomada dos testes nucleares atmosféricos pelas duas superpotências"
+                                              "a":  "o fornecimento de uma base textual organizada ao ensino jurídico europeu posterior.",
+                                              "b":  "a substituição do direito romano pelo direito consuetudinário nos reinos do Ocidente.",
+                                              "c":  "o encerramento definitivo da atividade legislativa no Império do Oriente.",
+                                              "d":  "a unificação política imediata entre o Oriente e os reinos germânicos do Ocidente.",
+                                              "e":  "a perda dos textos jurídicos romanos, dispersos após a queda do Ocidente."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A détente foi marcada por acordos de controle de armamentos nucleares, como os tratados SALT, e maior diálogo diplomático entre Estados Unidos e União Soviética, sem que isso significasse o fim da disputa geopolítica de fundo entre os dois blocos, retomada com maior intensidade já no final da década de 1970.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "Reunir e organizar num corpo único o que estava disperso é o que permitiu, séculos depois, que esse material fosse estudado e ensinado — a compilação preservou e tornou transmissível. Ela não substituiu o direito romano pelo consuetudinário, e sim ofereceu alternativa a ele; a atividade legislativa do Oriente prosseguiu; não houve unificação política com o Ocidente; e a compilação evitou a perda dos textos, em lugar de causá-la."
                      },
                      {
                          "id":  "historia-geral-74",
@@ -1231,51 +1234,51 @@
                      },
                      {
                          "id":  "historia-geral-80",
-                         "texto_apoio":  "Em 1979, a União Soviética invadiu o Afeganistão para apoiar um governo comunista ameaçado por grupos rebeldes, iniciando um conflito que se estenderia por quase uma década.",
-                         "enunciado":  "Essa guerra teve como um de seus desdobramentos:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "A partir do século VII, a expansão islâmica alcançou o norte da África, a Península Ibérica, a Pérsia e parte da Ásia Central. Nas cidades desse território circularam obras de matemática, medicina, astronomia e filosofia, traduzidas do grego, do persa e do sânscrito, e comentadas por autores que lhes acrescentaram resultados próprios.",
+                         "enunciado":  "O papel desse mundo islâmico na história intelectual europeia posterior consistiu em",
                          "alternativas":  {
-                                              "a":  "Uma reaproximação diplomática entre Washington e Moscou, que trataram o conflito como questão regional e preservaram os acordos de limitação de armas estratégicas negociados na década anterior, sem reflexos sobre a competição entre as superpotências",
-                                              "b":  "A consolidação de um governo alinhado a Moscou em Cabul, que se manteve estável ao longo da década seguinte e reduziu a necessidade de presença militar soviética direta, permitindo concentrar recursos em outras áreas de disputa da Guerra Fria",
-                                              "c":  "O deslocamento do centro da Guerra Fria para a Ásia Central, acompanhado da redução dos compromissos militares norte-americanos na Europa Ocidental e da reorientação da política externa dos Estados Unidos para o Oriente Médio",
-                                              "d":  "Um alto desgaste militar, político e econômico para a União Soviética, apontado como fator da crise do regime soviético",
-                                              "e":  "A consolidação de um governo alinhado a Moscou em Cabul, mantido de forma estável ao longo das décadas seguintes"
+                                              "a":  "impedir o contato da Europa com a produção científica anterior ao século VII.",
+                                              "b":  "restringir a circulação de obras à língua original em que haviam sido escritas.",
+                                              "c":  "substituir a matemática e a medicina antigas por conhecimento sem relação com elas.",
+                                              "d":  "transmitir e ampliar acervos gregos e orientais que reentrariam na Europa por tradução.",
+                                              "e":  "conservar os textos sem que houvesse produção original nas cidades desse território extenso."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A guerra do Afeganistão impôs alto desgaste militar, político e econômico à União Soviética, que enfrentou anos de resistência de grupos guerrilheiros apoiados, entre outros atores, pelos Estados Unidos, sendo posteriormente apontada como um dos fatores que contribuíram para o enfraquecimento e a crise final do regime soviético.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "As traduções e os comentários fizeram das cidades islâmicas o lugar onde acervos gregos, persas e indianos foram guardados, discutidos e aumentados, e é por essa via que boa parte desse material chega às universidades europeias. Impedir o contato é o inverso do que ocorreu; a tradução é justamente o oposto de restringir à língua original; não houve substituição sem relação com o conhecimento antigo; e o texto registra resultados próprios, o que afasta a ideia de simples conservação."
                      },
                      {
                          "id":  "historia-geral-81",
-                         "texto_apoio":  "A partir de 1985, o líder soviético Mikhail Gorbachev implementou um conjunto de reformas políticas e econômicas na União Soviética.",
-                         "enunciado":  "As políticas de perestroika (reestruturação econômica) e glasnost (transparência política) tinham como objetivo declarado:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Entre os séculos XI e XIII, expedições militares partiram da Europa cristã com destino ao Oriente Próximo. Além do objetivo declarado de controle dos lugares santos, o período viu crescer o comércio entre o Mediterrâneo oriental e cidades italianas, e circularam para o ocidente produtos, técnicas e textos.",
+                         "enunciado":  "Além do objetivo religioso declarado, esse conjunto de expedições contribuiu para",
                          "alternativas":  {
-                                              "a":  "Restaurar o controle centralizado sobre a economia e restringir a circulação de informação como resposta à crise do sistema",
-                                              "b":  "Reforçar o controle estatal centralizado sobre todos os setores da economia soviética, direção oposta à das reformas",
-                                              "c":  "Revitalizar o sistema soviético por meio de maior abertura, ainda que tenham acelerado o enfraquecimento do regime",
-                                              "d":  "Isolar ainda mais a União Soviética do restante do mundo, contrário à abertura proposta pela glasnost",
-                                              "e":  "Restaurar integralmente o modelo stalinista de planificação econômica, o que Gorbachev buscava justamente superar"
+                                              "a":  "a redução do comércio mediterrâneo, interrompido pelos deslocamentos militares.",
+                                              "b":  "o isolamento das cidades italianas em relação às rotas do Mediterrâneo oriental.",
+                                              "c":  "a intensificação das trocas comerciais e culturais entre Europa e Oriente Próximo.",
+                                              "d":  "o fim da presença de mercadores europeus nos portos do Levante.",
+                                              "e":  "a interrupção da circulação de textos e técnicas entre as duas margens do Mediterrâneo."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A perestroika e a glasnost buscavam revitalizar o sistema soviético por meio de reformas econômicas e maior transparência política, mas, na prática, acabaram acelerando tensões nacionalistas e econômicas que contribuíram para o enfraquecimento e o posterior colapso do regime soviético.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "O próprio texto registra crescimento do comércio com as cidades italianas e circulação de produtos, técnicas e textos para o ocidente: o efeito de longo prazo foi de aproximação econômica e cultural, ao lado do conflito militar. As demais afirmam redução, isolamento, fim da presença mercantil e interrupção da circulação — todas contrariadas pelo mesmo trecho, e é justamente a coexistência entre guerra e intensificação das trocas o que o item cobra."
                      },
                      {
                          "id":  "historia-geral-82",
-                         "texto_apoio":  "Em dezembro de 1991, a União Soviética deixou formalmente de existir, dando origem a diversos países independentes, entre eles a Rússia.",
-                         "enunciado":  "Entre os fatores que contribuíram para esse processo estavam:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Em meados do século XIV, uma epidemia de peste percorreu a Europa e matou parcela expressiva da população em poucos anos. A escassez de trabalhadores que se seguiu alterou a relação entre senhores e camponeses em várias regiões, e revoltas rurais e urbanas se multiplicaram nas décadas seguintes.",
+                         "enunciado":  "A relação entre a mortalidade da epidemia e a mudança na condição dos camponeses se explica porque",
                          "alternativas":  {
-                                              "a":  "O esgotamento do modelo econômico centralizado, o nacionalismo nas repúblicas e o enfraquecimento de Moscou",
-                                              "b":  "A ausência completa de qualquer tensão nacionalista dentro do território soviético, contrariada pelas repúblicas bálticas",
-                                              "c":  "Uma invasão militar conjunta de Estados Unidos e países da Europa Ocidental, episódio que jamais ocorreu",
-                                              "d":  "Uma intervenção militar externa que derrubou o governo central, seguida da fragmentação do território em novas repúblicas",
-                                              "e":  "O crescimento econômico acelerado e sustentado da União Soviética ao longo da década de 1980, o que os fatos contradizem"
+                                              "a":  "a redução do número de trabalhadores aumentou o poder de negociação dos que restaram.",
+                                              "b":  "o crescimento populacional posterior à epidemia ampliou a oferta de mão de obra disponível.",
+                                              "c":  "a epidemia atingiu exclusivamente a população urbana, poupando o campo por completo.",
+                                              "d":  "os senhores passaram a dispor de excedente de trabalhadores para as terras cultivadas.",
+                                              "e":  "as revoltas rurais precederam a epidemia e explicam a mortalidade registrada no período."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A dissolução da União Soviética resultou do esgotamento do modelo econômico centralizado, do fortalecimento de movimentos nacionalistas em diversas repúblicas soviéticas e do enfraquecimento da autoridade central de Moscou, processo acelerado, e não resolvido, pelas reformas de Gorbachev ao longo da década de 1980.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "Com menos gente para trabalhar a mesma terra, quem trabalha ganha margem para exigir melhores condições — é a escassez de mão de obra que desloca a relação de força. O crescimento populacional posterior é efeito tardio e não explica a mudança imediata; a epidemia atingiu campo e cidade; o excedente de trabalhadores descreve exatamente a situação anterior à peste; e as revoltas vieram depois, não antes."
                      },
                      {
                          "id":  "historia-geral-83",
@@ -1423,35 +1426,35 @@
                      },
                      {
                          "id":  "historia-geral-92",
-                         "texto_apoio":  "Em 1931, o Japão invadiu a região da Manchúria, no norte da China, criando um Estado fantoche e intensificando sua expansão militar na Ásia ao longo da década de 1930.",
-                         "enunciado":  "Esse processo de expansão japonesa na Ásia, anterior ao início formal da Segunda Guerra Mundial na Europa, evidencia que:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Entre os séculos XIII e XVI, formaram-se na África ocidental Estados como o Mali e o Songai, que controlavam trechos das rotas transaarianas. Por elas circulavam ouro extraído ao sul e sal vindo do deserto, além de tecidos e manuscritos, e cidades como Tombuctu tornaram-se centros de comércio e de ensino.",
+                         "enunciado":  "O controle das rotas transaarianas por esses Estados permitiu que eles",
                          "alternativas":  {
-                                              "a":  "O expansionismo japonês só teve início após a invasão da Polônia, acompanhando a entrada da Alemanha no conflito europeu",
-                                              "b":  "Tensões e conflitos armados ligados ao expansionismo militar já se desenrolavam na Ásia antes de 1939",
-                                              "c":  "O Japão manteve uma política de isolacionismo total durante toda a década de 1930, o que a invasão à Manchúria desmente",
-                                              "d":  "O conflito mundial teve como estopim exclusivo os acontecimentos europeus de 1939, cronologia que ignora a Ásia",
-                                              "e":  "Não houve qualquer relação entre a expansão japonesa na Ásia e o conflito mundial posterior, leitura historiográfica equivocada"
+                                              "a":  "dependessem exclusivamente da produção agrícola de suas próprias regiões.",
+                                              "b":  "obtivessem receitas e prestígio com a tributação do comércio de longa distância.",
+                                              "c":  "permanecessem isolados das redes comerciais que ligavam o Mediterrâneo ao Sudão.",
+                                              "d":  "abandonassem o comércio de sal, substituído pela extração local de minerais.",
+                                              "e":  "restringissem as atividades de suas cidades ao abastecimento das populações vizinhas."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A invasão japonesa à Manchúria em 1931 e a posterior Guerra Sino-Japonesa (a partir de 1937) mostram que conflitos ligados ao expansionismo militar já se desenrolavam na Ásia antes do início formal da guerra na Europa, em 1939, levando parte da historiografia a situar as raízes da Segunda Guerra Mundial também no contexto asiático.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "Quem controla a passagem cobra por ela: a tributação do ouro, do sal e das demais mercadorias em trânsito sustentava tanto as finanças quanto a projeção política desses Estados, e é o que explica cidades que reúnem comércio e ensino. A dependência exclusiva da agricultura e o isolamento contrariam a existência das rotas; o sal era um dos principais artigos do trânsito, não algo abandonado; e as cidades citadas atendiam a um circuito muito além das populações vizinhas."
                      },
                      {
                          "id":  "historia-geral-93",
-                         "texto_apoio":  "Em 1956, o Egito nacionalizou o Canal de Suez, até então controlado por interesses britânicos e franceses, provocando uma intervenção militar de Reino Unido, França e Israel.",
-                         "enunciado":  "O desfecho da Crise de Suez, marcado pela pressão de Estados Unidos e União Soviética para a retirada das tropas invasoras, evidenciou:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Entre os séculos XI e XIV, o crescimento da população e da produção agrícola na Europa acompanhou o reaparecimento de cidades como centros de comércio e artesanato. Nelas, mercadores e artesãos organizaram-se em corporações e obtiveram de senhores e reis cartas que lhes garantiam foros próprios de julgamento e regras de mercado.",
+                         "enunciado":  "A obtenção dessas cartas pelas cidades indica que",
                          "alternativas":  {
-                                              "a":  "O declínio da capacidade das antigas potências coloniais de agir unilateralmente, e a ascensão de EUA e URSS como árbitros",
-                                              "b":  "A ausência completa de qualquer interesse das superpotências na região do Oriente Médio, o que os fatos contradizem",
-                                              "c":  "O fortalecimento do domínio colonial europeu sobre o Egito, resultado oposto ao produzido pela crise",
-                                              "d":  "A reafirmação do poder britânico e francês no Oriente Médio, que passaram a administrar diretamente a via marítima disputada",
-                                              "e":  "A manutenção do Reino Unido e da França como as principais potências mundiais, acima dos Estados Unidos e da URSS"
+                                              "a":  "os grupos urbanos conquistaram margem de autonomia jurídica frente ao poder senhorial.",
+                                              "b":  "as corporações de ofício foram dissolvidas em favor da livre concorrência entre artesãos.",
+                                              "c":  "os senhores feudais passaram a administrar diretamente o comércio urbano e o artesanato.",
+                                              "d":  "o crescimento agrícola do período reduziu a importância econômica das cidades.",
+                                              "e":  "os reis renunciaram à cobrança de tributos sobre as atividades exercidas nas cidades."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A Crise de Suez evidenciou o declínio da capacidade de antigas potências coloniais, como Reino Unido e França, de agir unilateralmente no cenário internacional, ao mesmo tempo em que confirmou a ascensão de Estados Unidos e União Soviética como os principais árbitros das grandes questões globais no contexto da Guerra Fria.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "Ter foro próprio de julgamento e regras de mercado significa deixar de estar inteiramente submetido à jurisdição do senhor local: as cartas registram uma conquista de autonomia, negociada e não concedida por acaso. A administração direta pelos senhores é o que as cartas limitam; as corporações se fortaleceram em vez de se dissolverem; o crescimento agrícola sustentou as cidades em lugar de diminuí-las; e a autonomia jurídica não implicou renúncia real à tributação."
                      },
                      {
                          "id":  "historia-geral-94",
@@ -1535,35 +1538,35 @@
                      },
                      {
                          "id":  "historia-geral-99",
-                         "texto_apoio":  "Criado em 1949 sob liderança soviética, o Conselho de Assistência Econômica Mútua reunia países do bloco socialista do Leste Europeu.",
-                         "enunciado":  "Esse organismo, conhecido pela sigla COMECON, tinha como principal objetivo:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "A Península Ibérica esteve, entre os séculos VIII e XV, dividida entre reinos cristãos ao norte e territórios de domínio islâmico ao sul, com fronteiras móveis, períodos de guerra e períodos de convivência e tributo. O processo de avanço dos reinos cristãos concluiu-se em 1492, ano que reúne a tomada de Granada e a viagem de Colombo.",
+                         "enunciado":  "A coincidência de 1492 entre esses dois acontecimentos é significativa porque",
                          "alternativas":  {
-                                              "a":  "Eliminar qualquer forma de planejamento econômico centralizado entre seus membros, contrário ao próprio modelo soviético",
-                                              "b":  "Coordenar a cooperação econômica entre os países do bloco socialista, contraponto ao Plano Marshall ocidental",
-                                              "c":  "Organizar a aliança militar dos países socialistas do Leste Europeu em resposta à criação da OTAN",
-                                              "d":  "Substituir a Organização das Nações Unidas nas relações entre os países socialistas, papel que a ONU manteve",
-                                              "e":  "Promover a integração dos países socialistas ao mercado capitalista ocidental, objetivo oposto ao da criação do COMECON"
+                                              "a":  "a expansão marítima antecedeu o fim do avanço territorial na Península Ibérica.",
+                                              "b":  "o fim do avanço interno liberou recursos e experiência militar para a empresa marítima.",
+                                              "c":  "a tomada de Granada foi financiada com recursos trazidos da travessia do Atlântico.",
+                                              "d":  "os dois eventos ocorreram em reinos ibéricos sem qualquer relação política entre si.",
+                                              "e":  "a viagem de Colombo teve como objetivo declarado a reconquista de territórios peninsulares."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O COMECON foi criado para coordenar a cooperação econômica entre os países do bloco socialista do Leste Europeu, funcionando como uma espécie de contraponto ao Plano Marshall e aos mecanismos de integração econômica promovidos no bloco ocidental durante a Guerra Fria.",
-                         "dificuldade":  "dificil",
-                         "formato":  "direta"
+                         "explicacao":  "Encerrada a frente de guerra interna, a monarquia castelhana pôde redirecionar dinheiro, homens e experiência de campanha para a travessia atlântica — a proximidade das duas datas não é coincidência aleatória, é sequência. A expansão marítima não antecedeu a tomada de Granada; o financiamento veio antes da viagem, e não dela; os dois eventos pertencem à mesma coroa; e o objetivo de Colombo era alcançar as Índias por ocidente."
                      },
                      {
                          "id":  "historia-geral-100",
-                         "texto_apoio":  "Após a devastação da Segunda Guerra Mundial, o Japão viveu, entre as décadas de 1950 e 1980, um período de rápido crescimento econômico que o transformou em uma das maiores potências industriais do mundo.",
-                         "enunciado":  "Esse processo, conhecido como milagre econômico japonês, esteve associado a fatores como:",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Depois de 1865, o Oeste dos Estados Unidos foi ocupado com apoio de ferrovias transcontinentais, distribuição de lotes a colonos e campanhas militares contra povos indígenas, confinados em reservas. A caça comercial reduziu drasticamente os rebanhos de bisões, base da subsistência de vários desses povos.",
+                         "enunciado":  "A relação entre a redução dos rebanhos de bisões e a ocupação do Oeste é que",
                          "alternativas":  {
-                                              "a":  "A manutenção de uma economia predominantemente agrícola e de subsistência, contrária à industrialização japonesa",
-                                              "b":  "A exploração de reservas minerais e energéticas próprias, que garantiram autonomia à indústria japonesa no pós-guerra",
-                                              "c":  "Investimentos em educação e tecnologia, reformas apoiadas pelos EUA no pós-guerra e forte orientação exportadora",
-                                              "d":  "A ausência completa de qualquer relação econômica entre Japão e Estados Unidos após 1945, o que a ocupação contradiz",
-                                              "e":  "O isolamento comercial do Japão em relação ao restante do mundo durante todo o período, o que a exportação japonesa desmente"
+                                              "a":  "a escassez de bisões decorreu de doenças trazidas pelas ferrovias, sem relação com a caça.",
+                                              "b":  "os rebanhos foram preservados por acordo entre companhias ferroviárias e povos indígenas.",
+                                              "c":  "a caça comercial atingiu a base material de subsistência de povos que resistiam ao avanço.",
+                                              "d":  "a distribuição de lotes a colonos dependia da manutenção dos rebanhos em áreas abertas.",
+                                              "e":  "a criação das reservas garantiu aos povos indígenas o acesso permanente aos rebanhos."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O milagre econômico japonês esteve associado a fortes investimentos em educação e tecnologia, a reformas econômicas conduzidas ainda durante a ocupação americana no pós-guerra, e a uma estratégia de industrialização voltada à exportação, fatores que transformaram o Japão em uma das maiores potências industriais do mundo em poucas décadas.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "Sem os rebanhos, os povos das planícies perderam alimento, matéria-prima e mobilidade, e a resistência ao confinamento nas reservas tornou-se muito mais difícil de sustentar — a caça comercial teve efeito militar, mesmo quando não era essa a intenção de cada caçador. Atribuir a escassez a doenças exclui a caça, que o texto registra; não houve preservação por acordo; o loteamento agrícola dependia de terra livre de rebanhos, e não do contrário; e as reservas restringiram o acesso a eles."
                      },
                      {
                          "id":  "historia-geral-101",

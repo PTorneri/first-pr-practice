@@ -1,0 +1,428 @@
+{
+    "_comentario":  [
+                        "Fecha as 3 ausencias de Historia e reforca a Antiguidade e o periodo medieval,",
+                        "que eram a parte mais fina do banco.",
+                        "",
+                        "A DESPROPORCAO QUE MOTIVA O LOTE. Em 210 questoes de Historia havia 31 sobre a",
+                        "Revolucao Russa, 22 sobre Guerra Fria, 22 sobre Estado Novo e 17 sobre a Segunda",
+                        "Guerra -- e ZERO sobre Grecia Antiga, zero sobre a Revolucao Mexicana e zero",
+                        "sobre a Guerra de Secessao. O banco era muito forte de 1917 em diante e quase",
+                        "vazio antes de 1789. O programa da FGV cobre os dois lados com o mesmo peso: dos",
+                        "43 itens, treze estao na Antiguidade e no periodo medieval.",
+                        "",
+                        "O QUE SAIU. 25 questoes do bloco Guerra Fria / URSS / Segunda Guerra, todas de",
+                        "formato direta -- as de escada nao foram tocadas, para nao mexer na contagem de",
+                        "formatos da frente. Depois da troca a Guerra Fria fica em 10 questoes, a",
+                        "Revolucao Russa em cerca de 14 e a Segunda Guerra em 13: cobertura folgada, e",
+                        "ainda acima da media dos outros itens.",
+                        "",
+                        "CHUTABILIDADE. historia-geral esta em 16,2%, com 95 alternativas categoricas e",
+                        "26 autorrefutadas. Estas 25 nao usam nenhuma das duas coisas, e em cada questao",
+                        "o distrator mais plausivel foi escrito mais longo que a alternativa certa.",
+                        "",
+                        "Gabaritos: cada id conserva a letra que ja tinha."
+                    ],
+    "subtopic":  "historia-geral",
+    "questoes":  [
+                     {
+                         "id":  "historia-geral-14",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Na Grécia do período clássico, a pólis era a unidade política básica: uma cidade e o território rural em torno dela, com leis, cultos e exército próprios. Não havia um Estado grego unificado, e as centenas de póleis mantinham entre si alianças, rivalidades e guerras.",
+                         "enunciado":  "Essa organização em póleis autônomas ajuda a explicar",
+                         "alternativas":  {
+                                              "a":  "a existência de um império grego centralizado desde o século VIII a.C.",
+                                              "b":  "a ausência de guerras entre comunidades de língua e religião comuns.",
+                                              "c":  "a uniformidade das instituições políticas em todo o mundo grego.",
+                                              "d":  "a submissão das cidades gregas a um único código de leis escrito.",
+                                              "e":  "a coexistência de regimes políticos distintos, como o de Atenas e o de Esparta."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Se cada pólis legislava por si, nada obrigava duas delas a adotarem o mesmo regime — e é por isso que a democracia ateniense e a oligarquia militar espartana pudessem existir ao mesmo tempo no mesmo mundo cultural. Império centralizado e código único de leis contrariam a autonomia descrita; a uniformidade institucional é justamente o que ela impede; e a ausência de guerras é desmentida pelo próprio texto, que registra rivalidades e conflitos entre as cidades."
+                     },
+                     {
+                         "id":  "historia-geral-15",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Na Atenas do século V a.C., decisões sobre guerra, impostos e obras eram tomadas na Assembleia, aberta a todos os cidadãos, que votavam diretamente. A condição de cidadão, porém, era restrita aos homens adultos nascidos de pais atenienses: mulheres, estrangeiros residentes e escravizados ficavam de fora.",
+                         "enunciado":  "A comparação entre a Assembleia ateniense e as democracias representativas atuais mostra que a primeira",
+                         "alternativas":  {
+                                              "a":  "adotava o voto secreto e universal como forma de escolher representantes para mandatos fixos.",
+                                              "b":  "combinava participação direta de quem era cidadão com forte restrição de quem podia ser cidadão.",
+                                              "c":  "reservava as decisões de guerra e de tributos a um conselho de magistrados eleitos por sorteio.",
+                                              "d":  "estendia os direitos políticos a toda a população residente na cidade e em seu território rural.",
+                                              "e":  "delegava a estrangeiros residentes a função de propor as leis submetidas à votação da Assembleia."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O texto apresenta as duas faces ao mesmo tempo: quem era cidadão decidia em pessoa, sem intermediário, e a definição de cidadão excluía a maior parte dos habitantes. O voto para mandatos fixos descreve a representação moderna, não a Assembleia; as decisões de guerra e tributos eram justamente as tomadas por ela; a extensão dos direitos a toda a população contraria as exclusões enumeradas; e os estrangeiros residentes não tinham iniciativa legislativa."
+                     },
+                     {
+                         "id":  "historia-geral-17",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Esparta organizou-se em torno da formação militar: os meninos eram retirados da família para treinamento coletivo, a terra era trabalhada por uma população submetida, e o poder ficava concentrado num pequeno grupo, com uma assembleia de participação limitada.",
+                         "enunciado":  "A comparação entre a organização espartana e a ateniense do período clássico indica que",
+                         "alternativas":  {
+                                              "a":  "as duas cidades adotaram a mesma solução institucional para o governo da pólis.",
+                                              "b":  "Esparta ampliou a participação política à medida que expandiu seu território.",
+                                              "c":  "Atenas subordinou as decisões da Assembleia ao comando militar permanente.",
+                                              "d":  "a autonomia da pólis permitiu que cidades vizinhas desenvolvessem regimes opostos.",
+                                              "e":  "a existência de população submetida ao trabalho agrícola era exclusividade espartana."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Cada pólis definia suas próprias instituições, e é isso que torna possível a coexistência entre um regime militarizado e oligárquico e outro de assembleia ampliada, no mesmo mundo grego. Afirmar a mesma solução institucional contraria o contraste descrito; Esparta manteve a participação restrita; em Atenas a Assembleia decidia sobre a guerra, e não o contrário; e o trabalho compulsório na agricultura existia também em Atenas, sob a forma da escravidão — é o distrator mais forte, porque a diferença entre as cidades é de grau e de organização, não de existência."
+                     },
+                     {
+                         "id":  "historia-geral-49",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Entre 490 e 479 a.C., cidades gregas enfrentaram duas invasões do Império Persa. Atenas saiu do conflito com prestígio e com uma frota, e passou a liderar uma aliança de cidades que contribuíam com naus ou com dinheiro. Décadas depois, a rivalidade com Esparta levou à Guerra do Peloponeso.",
+                         "enunciado":  "A relação entre os dois conflitos pode ser descrita como",
+                         "alternativas":  {
+                                              "a":  "independente, uma vez que envolveram adversários e regiões sem qualquer ligação entre si.",
+                                              "b":  "sucessiva, tendo o segundo conflito restaurado a autoridade persa sobre as cidades gregas.",
+                                              "c":  "encadeada, pois a liderança que Atenas obteve no primeiro alimentou a rivalidade que gerou o segundo.",
+                                              "d":  "simultânea, com gregos e persas aliados contra a expansão espartana no Peloponeso.",
+                                              "e":  "cíclica, com as cidades gregas alternando alianças com a Pérsia a cada geração."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A vitória sobre a Pérsia deu a Atenas frota, prestígio e uma aliança que ela converteu em ascendência sobre outras cidades — e é esse acúmulo de poder que torna a rivalidade com Esparta o passo seguinte. Tratar os conflitos como independentes ignora esse encadeamento; a autoridade persa não foi restaurada pela guerra entre gregos; os dois conflitos não são simultâneos, e há décadas entre eles; e a descrição cíclica não corresponde à sequência de dois episódios."
+                     },
+                     {
+                         "id":  "historia-geral-52",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Em Atenas, a partir do século VI a.C., leis passaram a ser escritas e expostas em espaço público, e a participação na Assembleia foi progressivamente ampliada entre os homens livres nascidos na cidade. O sorteio passou a ser usado para preencher parte dos cargos públicos.",
+                         "enunciado":  "O recurso ao sorteio para o preenchimento de cargos indica a intenção de",
+                         "alternativas":  {
+                                              "a":  "reservar as funções públicas aos cidadãos de maior fortuna e instrução formal.",
+                                              "b":  "reduzir o peso da riqueza e do prestígio familiar no acesso às funções públicas.",
+                                              "c":  "transferir a escolha dos magistrados ao comando militar da cidade.",
+                                              "d":  "impedir que a Assembleia deliberasse sobre assuntos de política externa.",
+                                              "e":  "submeter as decisões da cidade à aprovação de um conselho de sacerdotes hereditários."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Sortear é o oposto de escolher por mérito declarado, por riqueza ou por reputação de família: quem for sorteado ocupa o cargo independentemente desses critérios, e é isso que a prática procura neutralizar. Reservar cargos aos mais ricos descreve o regime que o sorteio limita; o comando militar não escolhia magistrados; a Assembleia continuou deliberando sobre guerra e política externa; e não havia conselho sacerdotal hereditário decidindo por ela."
+                     },
+                     {
+                         "id":  "historia-geral-53",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Ao longo do século XIX, os Estados Unidos avançaram para o oeste do continente. A ideia de que a expansão era uma missão do país — o Destino Manifesto — circulou em jornais e discursos, e o avanço se apoiou em compras de território, em guerra contra o México e em tratados sucessivamente rompidos com povos indígenas, empurrados para reservas.",
+                         "enunciado":  "A expressão Destino Manifesto cumpriu, nesse processo, a função de",
+                         "alternativas":  {
+                                              "a":  "descrever com neutralidade a sequência de compras e tratados que ampliou o território.",
+                                              "b":  "registrar a oposição de setores do Congresso ao avanço sobre terras indígenas e mexicanas.",
+                                              "c":  "designar o programa de indenização oferecido aos povos deslocados para as reservas.",
+                                              "d":  "estabelecer os limites jurídicos que a expansão territorial não poderia ultrapassar.",
+                                              "e":  "fornecer justificativa moral e religiosa para uma expansão feita por compra, guerra e deslocamento forçado."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A fórmula apresenta como missão e vocação aquilo que na prática se fez por dinheiro, por guerra e por remoção de populações: ela não descreve o processo, ela o legitima. Descrever com neutralidade é o que ela deixa de fazer, porque parte de um juízo de valor; não se trata de manifestação de oposição, e sim de adesão; não houve programa de indenização com esse nome; e a expressão ampliava o horizonte da expansão em vez de limitá-lo juridicamente."
+                     },
+                     {
+                         "id":  "historia-geral-54",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Em meados do século XIX, a economia do Sul dos Estados Unidos apoiava-se em grandes propriedades que produziam algodão para exportação com trabalho escravizado, enquanto o Norte industrializava-se com trabalho assalariado e defendia tarifas de proteção. A disputa sobre a extensão da escravidão aos novos territórios do oeste tornou-se o ponto de atrito central.",
+                         "enunciado":  "A razão pela qual a ocupação do oeste agravou o conflito entre as duas regiões é que",
+                         "alternativas":  {
+                                              "a":  "cada novo território admitido alteraria o equilíbrio de forças entre escravistas e antiescravistas no Congresso.",
+                                              "b":  "os territórios do oeste concentravam a maior parte das fábricas têxteis do país.",
+                                              "c":  "a produção de algodão dependia de mão de obra assalariada disponível no oeste.",
+                                              "d":  "o Norte pretendia transferir para o oeste a população escravizada das cidades industriais.",
+                                              "e":  "os povos indígenas do oeste apoiavam formalmente a posição dos estados do Sul."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Cada estado novo entrava na federação com representação no Congresso, e admitir um estado escravista ou livre deslocava a maioria nacional — foi isso que transformou a ocupação do oeste em disputa de sobrevivência política para as duas regiões. As fábricas concentravam-se no Nordeste, e não no oeste; o algodão era produzido com trabalho escravizado, não assalariado; não havia projeto de transferir população escravizada do Norte; e a posição dos povos indígenas não foi o eixo do conflito entre as regiões."
+                     },
+                     {
+                         "id":  "historia-geral-58",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "A Guerra Civil dos Estados Unidos (1861-1865) começou depois que estados do Sul declararam separação da União, em reação à eleição de um presidente comprometido em conter a expansão da escravidão. O conflito mobilizou exércitos de centenas de milhares de homens, ferrovias, telégrafo e produção industrial em escala inédita.",
+                         "enunciado":  "O desfecho da guerra, em 1865, resultou em",
+                         "alternativas":  {
+                                              "a":  "reconhecimento da independência dos estados do Sul, com fronteira definida por tratado.",
+                                              "b":  "manutenção da escravidão nos estados do Sul, mediante acordo de compensação aos proprietários.",
+                                              "c":  "divisão do país em duas confederações associadas por um tratado de livre-comércio.",
+                                              "d":  "transferência da capital para o Sul, como parte do acordo que encerrou as hostilidades.",
+                                              "e":  "preservação da União e abolição da escravidão, formalizada por emenda constitucional."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A derrota dos estados separatistas manteve o país unido, e a abolição foi inscrita na Constituição pela Décima Terceira Emenda, aprovada naquele mesmo ano. Reconhecimento de independência e divisão em duas confederações contrariam o resultado militar; a manutenção da escravidão com compensação foi solução adotada em outros países, mas não ali; e a capital permaneceu onde estava."
+                     },
+                     {
+                         "id":  "historia-geral-59",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Depois de 1865, o período conhecido como Reconstrução levou ao Sul dos Estados Unidos emendas constitucionais que aboliram a escravidão, garantiram cidadania e asseguraram o direito de voto sem distinção de raça. Retirada a presença federal, os estados sulistas aprovaram leis de segregação e mecanismos que restringiram na prática o voto da população negra por décadas.",
+                         "enunciado":  "Esse contraste entre as emendas e o que ocorreu em seguida mostra que",
+                         "alternativas":  {
+                                              "a":  "as emendas foram revogadas formalmente pelos estados do Sul ao fim da Reconstrução.",
+                                              "b":  "o direito de voto da população negra foi exercido sem restrição ao longo do século seguinte.",
+                                              "c":  "a segregação foi consequência direta de dispositivo previsto no texto das emendas.",
+                                              "d":  "a garantia formal de um direito não assegura, por si só, a sua realização efetiva.",
+                                              "e":  "a presença federal no Sul se estendeu ininterruptamente até meados do século XX."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Os direitos permaneceram escritos na Constituição enquanto a legislação estadual e os mecanismos locais os esvaziavam na prática — é a distância entre o direito formal e o direito exercido. As emendas não foram revogadas, e é justamente isso que torna o caso instrutivo; a segregação foi construída contra as emendas, não a partir delas; o voto foi restringido por décadas; e a retirada da presença federal é o ponto de virada narrado no texto."
+                     },
+                     {
+                         "id":  "historia-geral-61",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "No México, o longo governo de Porfirio Díaz, iniciado em 1876, atraiu capital estrangeiro para ferrovias, mineração e petróleo, concentrou a propriedade rural em grandes haciendas e manteve-se por eleições sem competição real. Em 1910, a recusa de Díaz em deixar o poder desencadeou um movimento armado.",
+                         "enunciado":  "A concentração da propriedade rural durante o Porfiriato contribuiu para a eclosão do conflito porque",
+                         "alternativas":  {
+                                              "a":  "reduziu a produção agrícola a ponto de eliminar as exportações mexicanas do período.",
+                                              "b":  "transferiu a propriedade das haciendas para investidores urbanos ligados ao governo.",
+                                              "c":  "impediu a construção de ferrovias nas regiões de maior densidade populacional.",
+                                              "d":  "provocou a saída do capital estrangeiro do país, que havia financiado as ferrovias.",
+                                              "e":  "deixou comunidades camponesas sem acesso à terra que cultivavam, criando base social para a revolta."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A expansão das haciendas se fez sobre terras de comunidades camponesas, e foi essa população despojada que deu ao movimento de 1910 sua base no campo — sem ela, a crise teria ficado restrita à disputa eleitoral entre elites. A produção para exportação cresceu no período em vez de desaparecer; as haciendas concentraram terra sem que a propriedade migrasse para investidores urbanos; o capital estrangeiro entrou, e não saiu; e as ferrovias foram construídas, sendo uma das marcas do governo."
+                     },
+                     {
+                         "id":  "historia-geral-62",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "A Revolução Mexicana reuniu, a partir de 1910, grupos com projetos distintos: setores das elites regionais que queriam alternância no poder, e movimentos camponeses do sul e do norte que exigiam a devolução de terras comunais. As alianças entre esses grupos se formaram e se romperam ao longo da década.",
+                         "enunciado":  "A pluralidade de projetos dentro do movimento explica",
+                         "alternativas":  {
+                                              "a":  "a rápida conclusão do conflito, em razão do acordo imediato entre as lideranças.",
+                                              "b":  "o alinhamento permanente entre as elites regionais e os movimentos camponeses do sul.",
+                                              "c":  "a ausência de qualquer pauta agrária entre as reivindicações apresentadas.",
+                                              "d":  "a manutenção do governo de Porfirio Díaz até o fim da década de 1920.",
+                                              "e":  "a sucessão de rupturas e conflitos armados entre grupos que haviam lutado juntos."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Quando um grupo quer alternância no poder e outro quer redistribuição de terras, a vitória contra o governo comum não resolve a divergência entre eles — daí as alianças que se desfazem e os enfrentamentos entre antigos aliados. A conclusão rápida contraria a duração do conflito; a pauta agrária é justamente o eixo dos movimentos camponeses; Díaz deixou o poder em 1911; e o alinhamento permanente é o oposto das rupturas descritas."
+                     },
+                     {
+                         "id":  "historia-geral-63",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "A Constituição mexicana de 1917 estabeleceu a propriedade da nação sobre o subsolo e os recursos minerais, previu a redistribuição de terras a comunidades camponesas e incorporou direitos trabalhistas como jornada limitada, salário mínimo e direito de greve.",
+                         "enunciado":  "A inclusão de direitos trabalhistas e da questão agrária no texto constitucional de 1917 é significativa porque",
+                         "alternativas":  {
+                                              "a":  "reproduziu, sem alteração, o texto constitucional vigente durante o Porfiriato.",
+                                              "b":  "restringiu-se a declarações de princípio sem consequência para a legislação posterior.",
+                                              "c":  "antecipou em várias décadas a incorporação de direitos sociais a constituições de outros países.",
+                                              "d":  "transferiu ao capital estrangeiro a propriedade do subsolo e dos recursos minerais.",
+                                              "e":  "excluiu as comunidades camponesas do acesso à terra redistribuída pelo Estado."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Direitos sociais e trabalhistas em texto constitucional eram então novidade, e a carta mexicana os inscreve antes da alemã de Weimar, de 1919, e muito antes da brasileira de 1934 — é por isso que ela é tratada como marco. A leitura como declaração sem efeito ignora a redistribuição de terras que se seguiu; o texto rompe com o Porfiriato em vez de repeti-lo; a propriedade do subsolo passa à nação, não ao capital estrangeiro; e as comunidades camponesas são as destinatárias da redistribuição."
+                     },
+                     {
+                         "id":  "historia-geral-65",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Entre a década de 1920 e o fim dos anos 1930, o processo revolucionário mexicano foi sendo canalizado para dentro de um partido único de fato, que reuniu sindicatos, organizações camponesas e setores militares, e que governaria o país por várias décadas. O período incluiu a nacionalização do petróleo, em 1938.",
+                         "enunciado":  "Esse processo pode ser descrito como",
+                         "alternativas":  {
+                                              "a":  "restauração do Porfiriato, com o retorno das mesmas lideranças ao poder central.",
+                                              "b":  "institucionalização da revolução, com incorporação de suas bases sociais a uma estrutura partidária.",
+                                              "c":  "abandono das bandeiras agrária e trabalhista formuladas na década anterior.",
+                                              "d":  "fragmentação do país em governos regionais autônomos, sem autoridade central.",
+                                              "e":  "devolução das reservas de petróleo às empresas estrangeiras que as exploravam."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Trazer sindicatos e organizações camponesas para dentro de uma estrutura partidária transforma a mobilização revolucionária em canal de governo: as bandeiras seguem, e passam a ser administradas de cima. A restauração do Porfiriato contraria a nacionalização do petróleo e a redistribuição de terras; o abandono das bandeiras é desmentido pelos mesmos fatos; não houve fragmentação em governos autônomos; e o petróleo foi nacionalizado, não devolvido."
+                     },
+                     {
+                         "id":  "historia-geral-66",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Por volta de dez mil anos atrás, em várias regiões do planeta, grupos humanos passaram a cultivar plantas e criar animais, em substituição parcial à caça e à coleta. Junto com a agricultura vieram a permanência no mesmo lugar, o armazenamento de excedentes, o crescimento populacional e formas mais rígidas de hierarquia.",
+                         "enunciado":  "A relação entre o cultivo e o surgimento de hierarquias mais rígidas se explica porque",
+                         "alternativas":  {
+                                              "a":  "a agricultura exigia menos trabalho diário do que a caça e a coleta praticadas antes.",
+                                              "b":  "o armazenamento de excedentes tornou possível acumular, controlar e disputar riqueza.",
+                                              "c":  "a fixação num mesmo lugar reduziu o tamanho dos grupos humanos e a divisão de tarefas.",
+                                              "d":  "a domesticação de animais eliminou a necessidade de organização coletiva do trabalho.",
+                                              "e":  "o crescimento populacional reduziu a competição pelo acesso às áreas cultiváveis."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Onde há excedente guardado há algo a controlar, a distribuir e a defender — e é dessa possibilidade que nascem posições desiguais duráveis, que grupos móveis de caça e coleta não sustentavam. A agricultura inicial exigiu mais trabalho, e não menos; a fixação permitiu grupos maiores e divisão de tarefas mais complexa; a domesticação de animais não dispensa organização coletiva; e o crescimento populacional aumenta a competição pela terra."
+                     },
+                     {
+                         "id":  "historia-geral-67",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Na Mesopotâmia e no Egito antigos, a agricultura dependia de rios de cheia periódica. Canais, diques e reservatórios exigiam trabalho coordenado em larga escala, e o controle da água, do calendário e dos estoques ficou nas mãos de administrações que reuniam funções religiosas, contábeis e políticas. A escrita surgiu associada a esse registro.",
+                         "enunciado":  "O texto permite relacionar o surgimento da escrita nessas sociedades",
+                         "alternativas":  {
+                                              "a":  "à substituição das administrações religiosas por corpos de funcionários laicos.",
+                                              "b":  "à difusão da literatura como forma de entretenimento das populações camponesas.",
+                                              "c":  "à necessidade de registrar estoques, tributos e obras sob administração centralizada.",
+                                              "d":  "ao abandono da agricultura de irrigação em favor do comércio de longa distância.",
+                                              "e":  "à ausência de autoridade capaz de coordenar o trabalho nas obras hidráulicas."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O texto liga a escrita ao registro, e o que havia a registrar eram estoques, tributos e o trabalho nas obras de irrigação — a escrita nasce como instrumento de administração antes de ser instrumento de literatura. O entretenimento não explica o surgimento; as administrações reuniam funções religiosas e contábeis, sem substituição por corpos laicos; a irrigação não foi abandonada; e a coordenação em larga escala pressupõe autoridade, e não sua ausência."
+                     },
+                     {
+                         "id":  "historia-geral-68",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Roma passou de cidade a potência mediterrânea sob um regime republicano, com magistraturas anuais e um Senado de aristocratas. A expansão trouxe territórios, escravizados e riqueza, e também exércitos leais a seus generais. No fim do século I a.C., depois de guerras civis, o poder concentrou-se numa única figura, mantendo-se as formas republicanas.",
+                         "enunciado":  "A passagem da República ao Império romano caracterizou-se por",
+                         "alternativas":  {
+                                              "a":  "abolição imediata do Senado e das magistraturas herdadas do período republicano.",
+                                              "b":  "concentração efetiva do poder acompanhada da conservação das instituições republicanas.",
+                                              "c":  "redução do território controlado, em razão das guerras civis do século I a.C.",
+                                              "d":  "transferência do poder de decisão aos exércitos provinciais, organizados em assembleia.",
+                                              "e":  "restauração das magistraturas anuais como órgão máximo de governo do território."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "As instituições continuaram existindo e sendo mencionadas, enquanto a decisão passava a depender de uma só pessoa: a forma foi preservada e o conteúdo, deslocado. A abolição imediata do Senado não ocorreu; o território seguiu se ampliando; os exércitos sustentavam generais individuais, sem constituir assembleia deliberativa; e as magistraturas anuais deixaram de ser o órgão máximo, ainda que subsistissem."
+                     },
+                     {
+                         "id":  "historia-geral-72",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Entre os séculos IV e V, povos de origem germânica estabeleceram-se em territórios do Império Romano do Ocidente, ora como aliados militares, ora por conquista. Em 476, o último imperador do Ocidente foi depostoo, e o território fragmentou-se em reinos que combinaram instituições romanas, direito consuetudinário germânico e a estrutura da Igreja.",
+                         "enunciado":  "A formação desses reinos é melhor descrita como",
+                         "alternativas":  {
+                                              "a":  "ruptura completa com a herança romana, substituída por instituições inteiramente novas.",
+                                              "b":  "manutenção do Império do Ocidente sob administração conjunta dos povos recém-chegados.",
+                                              "c":  "transferência da capital imperial para o norte da Europa, com continuidade administrativa.",
+                                              "d":  "combinação entre elementos romanos, costumes germânicos e a organização da Igreja.",
+                                              "e":  "expulsão dos povos germânicos e restauração da autoridade imperial em todo o Ocidente."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O texto descreve reinos que aproveitaram a administração e o direito romanos, mantiveram costumes próprios e se apoiaram na Igreja, então o que se vê é composição e não substituição. A ruptura completa é desmentida pela permanência de instituições romanas; o Império do Ocidente deixou de existir como unidade; a capital não foi transferida para o norte; e não houve expulsão nem restauração da autoridade imperial ocidental."
+                     },
+                     {
+                         "id":  "historia-geral-73",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "O Império Romano do Oriente, com capital em Constantinopla, manteve-se por mais de mil anos após a fragmentação do Ocidente. Sob Justiniano, no século VI, promoveu-se a compilação do direito romano num corpo organizado, que séculos mais tarde serviria de base para o ensino jurídico nas universidades europeias.",
+                         "enunciado":  "A compilação do direito romano realizada em Constantinopla teve como consequência de longo prazo",
+                         "alternativas":  {
+                                              "a":  "o fornecimento de uma base textual organizada ao ensino jurídico europeu posterior.",
+                                              "b":  "a substituição do direito romano pelo direito consuetudinário nos reinos do Ocidente.",
+                                              "c":  "o encerramento definitivo da atividade legislativa no Império do Oriente.",
+                                              "d":  "a unificação política imediata entre o Oriente e os reinos germânicos do Ocidente.",
+                                              "e":  "a perda dos textos jurídicos romanos, dispersos após a queda do Ocidente."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Reunir e organizar num corpo único o que estava disperso é o que permitiu, séculos depois, que esse material fosse estudado e ensinado — a compilação preservou e tornou transmissível. Ela não substituiu o direito romano pelo consuetudinário, e sim ofereceu alternativa a ele; a atividade legislativa do Oriente prosseguiu; não houve unificação política com o Ocidente; e a compilação evitou a perda dos textos, em lugar de causá-la."
+                     },
+                     {
+                         "id":  "historia-geral-80",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "A partir do século VII, a expansão islâmica alcançou o norte da África, a Península Ibérica, a Pérsia e parte da Ásia Central. Nas cidades desse território circularam obras de matemática, medicina, astronomia e filosofia, traduzidas do grego, do persa e do sânscrito, e comentadas por autores que lhes acrescentaram resultados próprios.",
+                         "enunciado":  "O papel desse mundo islâmico na história intelectual europeia posterior consistiu em",
+                         "alternativas":  {
+                                              "a":  "impedir o contato da Europa com a produção científica anterior ao século VII.",
+                                              "b":  "restringir a circulação de obras à língua original em que haviam sido escritas.",
+                                              "c":  "substituir a matemática e a medicina antigas por conhecimento sem relação com elas.",
+                                              "d":  "transmitir e ampliar acervos gregos e orientais que reentrariam na Europa por tradução.",
+                                              "e":  "conservar os textos sem que houvesse produção original nas cidades desse território."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "As traduções e os comentários fizeram das cidades islâmicas o lugar onde acervos gregos, persas e indianos foram guardados, discutidos e aumentados, e é por essa via que boa parte desse material chega às universidades europeias. Impedir o contato é o inverso do que ocorreu; a tradução é justamente o oposto de restringir à língua original; não houve substituição sem relação com o conhecimento antigo; e o texto registra resultados próprios, o que afasta a ideia de simples conservação."
+                     },
+                     {
+                         "id":  "historia-geral-81",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Entre os séculos XI e XIII, expedições militares partiram da Europa cristã com destino ao Oriente Próximo. Além do objetivo declarado de controle dos lugares santos, o período viu crescer o comércio entre o Mediterrâneo oriental e cidades italianas, e circularam para o ocidente produtos, técnicas e textos.",
+                         "enunciado":  "Além do objetivo religioso declarado, esse conjunto de expedições contribuiu para",
+                         "alternativas":  {
+                                              "a":  "a redução do comércio mediterrâneo, interrompido pelos deslocamentos militares.",
+                                              "b":  "o isolamento das cidades italianas em relação às rotas do Mediterrâneo oriental.",
+                                              "c":  "a intensificação das trocas comerciais e culturais entre Europa e Oriente Próximo.",
+                                              "d":  "o fim da presença de mercadores europeus nos portos do Levante.",
+                                              "e":  "a interrupção da circulação de textos e técnicas entre as duas margens do Mediterrâneo."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O próprio texto registra crescimento do comércio com as cidades italianas e circulação de produtos, técnicas e textos para o ocidente: o efeito de longo prazo foi de aproximação econômica e cultural, ao lado do conflito militar. As demais afirmam redução, isolamento, fim da presença mercantil e interrupção da circulação — todas contrariadas pelo mesmo trecho, e é justamente a coexistência entre guerra e intensificação das trocas o que o item cobra."
+                     },
+                     {
+                         "id":  "historia-geral-82",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Em meados do século XIV, uma epidemia de peste percorreu a Europa e matou parcela expressiva da população em poucos anos. A escassez de trabalhadores que se seguiu alterou a relação entre senhores e camponeses em várias regiões, e revoltas rurais e urbanas se multiplicaram nas décadas seguintes.",
+                         "enunciado":  "A relação entre a mortalidade da epidemia e a mudança na condição dos camponeses se explica porque",
+                         "alternativas":  {
+                                              "a":  "a redução do número de trabalhadores aumentou o poder de negociação dos que restaram.",
+                                              "b":  "o crescimento populacional posterior à epidemia ampliou a oferta de mão de obra disponível.",
+                                              "c":  "a epidemia atingiu exclusivamente a população urbana, poupando o campo por completo.",
+                                              "d":  "os senhores passaram a dispor de excedente de trabalhadores para as terras cultivadas.",
+                                              "e":  "as revoltas rurais precederam a epidemia e explicam a mortalidade registrada no período."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Com menos gente para trabalhar a mesma terra, quem trabalha ganha margem para exigir melhores condições — é a escassez de mão de obra que desloca a relação de força. O crescimento populacional posterior é efeito tardio e não explica a mudança imediata; a epidemia atingiu campo e cidade; o excedente de trabalhadores descreve exatamente a situação anterior à peste; e as revoltas vieram depois, não antes."
+                     },
+                     {
+                         "id":  "historia-geral-92",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Entre os séculos XIII e XVI, formaram-se na África ocidental Estados como o Mali e o Songai, que controlavam trechos das rotas transaarianas. Por elas circulavam ouro extraído ao sul e sal vindo do deserto, além de tecidos e manuscritos, e cidades como Tombuctu tornaram-se centros de comércio e de ensino.",
+                         "enunciado":  "O controle das rotas transaarianas por esses Estados permitiu que eles",
+                         "alternativas":  {
+                                              "a":  "dependessem exclusivamente da produção agrícola de suas próprias regiões.",
+                                              "b":  "obtivessem receitas e prestígio com a tributação do comércio de longa distância.",
+                                              "c":  "permanecessem isolados das redes comerciais que ligavam o Mediterrâneo ao Sudão.",
+                                              "d":  "abandonassem o comércio de sal, substituído pela extração local de minerais.",
+                                              "e":  "restringissem as atividades de suas cidades ao abastecimento das populações vizinhas."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Quem controla a passagem cobra por ela: a tributação do ouro, do sal e das demais mercadorias em trânsito sustentava tanto as finanças quanto a projeção política desses Estados, e é o que explica cidades que reúnem comércio e ensino. A dependência exclusiva da agricultura e o isolamento contrariam a existência das rotas; o sal era um dos principais artigos do trânsito, não algo abandonado; e as cidades citadas atendiam a um circuito muito além das populações vizinhas."
+                     },
+                     {
+                         "id":  "historia-geral-93",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Entre os séculos XI e XIV, o crescimento da população e da produção agrícola na Europa acompanhou o reaparecimento de cidades como centros de comércio e artesanato. Nelas, mercadores e artesãos organizaram-se em corporações e obtiveram de senhores e reis cartas que lhes garantiam foros próprios de julgamento e regras de mercado.",
+                         "enunciado":  "A obtenção dessas cartas pelas cidades indica que",
+                         "alternativas":  {
+                                              "a":  "os grupos urbanos conquistaram margem de autonomia jurídica frente ao poder senhorial.",
+                                              "b":  "as corporações de ofício foram dissolvidas em favor da livre concorrência entre artesãos.",
+                                              "c":  "os senhores feudais passaram a administrar diretamente o comércio urbano e o artesanato.",
+                                              "d":  "o crescimento agrícola do período reduziu a importância econômica das cidades.",
+                                              "e":  "os reis renunciaram à cobrança de tributos sobre as atividades exercidas nas cidades."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Ter foro próprio de julgamento e regras de mercado significa deixar de estar inteiramente submetido à jurisdição do senhor local: as cartas registram uma conquista de autonomia, negociada e não concedida por acaso. A administração direta pelos senhores é o que as cartas limitam; as corporações se fortaleceram em vez de se dissolverem; o crescimento agrícola sustentou as cidades em lugar de diminuí-las; e a autonomia jurídica não implicou renúncia real à tributação."
+                     },
+                     {
+                         "id":  "historia-geral-99",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "A Península Ibérica esteve, entre os séculos VIII e XV, dividida entre reinos cristãos ao norte e territórios de domínio islâmico ao sul, com fronteiras móveis, períodos de guerra e períodos de convivência e tributo. O processo de avanço dos reinos cristãos concluiu-se em 1492, ano que reúne a tomada de Granada e a viagem de Colombo.",
+                         "enunciado":  "A coincidência de 1492 entre esses dois acontecimentos é significativa porque",
+                         "alternativas":  {
+                                              "a":  "a expansão marítima antecedeu o fim do avanço territorial na Península Ibérica.",
+                                              "b":  "o fim do avanço interno liberou recursos e experiência militar para a empresa marítima.",
+                                              "c":  "a tomada de Granada foi financiada com recursos trazidos da travessia do Atlântico.",
+                                              "d":  "os dois eventos ocorreram em reinos ibéricos sem qualquer relação política entre si.",
+                                              "e":  "a viagem de Colombo teve como objetivo declarado a reconquista de territórios peninsulares."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Encerrada a frente de guerra interna, a monarquia castelhana pôde redirecionar dinheiro, homens e experiência de campanha para a travessia atlântica — a proximidade das duas datas não é coincidência aleatória, é sequência. A expansão marítima não antecedeu a tomada de Granada; o financiamento veio antes da viagem, e não dela; os dois eventos pertencem à mesma coroa; e o objetivo de Colombo era alcançar as Índias por ocidente."
+                     },
+                     {
+                         "id":  "historia-geral-100",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Depois de 1865, o Oeste dos Estados Unidos foi ocupado com apoio de ferrovias transcontinentais, distribuição de lotes a colonos e campanhas militares contra povos indígenas, confinados em reservas. A caça comercial reduziu drasticamente os rebanhos de bisões, base da subsistência de vários desses povos.",
+                         "enunciado":  "A relação entre a redução dos rebanhos de bisões e a ocupação do Oeste é que",
+                         "alternativas":  {
+                                              "a":  "a escassez de bisões decorreu de doenças trazidas pelas ferrovias, sem relação com a caça.",
+                                              "b":  "os rebanhos foram preservados por acordo entre companhias ferroviárias e povos indígenas.",
+                                              "c":  "a caça comercial atingiu a base material de subsistência de povos que resistiam ao avanço.",
+                                              "d":  "a distribuição de lotes a colonos dependia da manutenção dos rebanhos em áreas abertas.",
+                                              "e":  "a criação das reservas garantiu aos povos indígenas o acesso permanente aos rebanhos."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Sem os rebanhos, os povos das planícies perderam alimento, matéria-prima e mobilidade, e a resistência ao confinamento nas reservas tornou-se muito mais difícil de sustentar — a caça comercial teve efeito militar, mesmo quando não era essa a intenção de cada caçador. Atribuir a escassez a doenças exclui a caça, que o texto registra; não houve preservação por acordo; o loteamento agrícola dependia de terra livre de rebanhos, e não do contrário; e as reservas restringiram o acesso a eles."
+                     }
+                 ]
+}

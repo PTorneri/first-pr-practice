@@ -7653,7 +7653,7 @@ window.QUESTION_BANKS = {
                                             "b":  "have arrived – did not – wrote",
                                             "c":  "arrived – has not – been written",
                                             "d":  "were arriving – has not – wrote",
-                                            "e":  "had arrived – is not – write"
+                                            "e":  "had been arriving – is not – write"
                                         },
                        "resposta":  "c",
                        "explicacao":  "\"Yesterday\" fixa um tempo passado concluído e exige o past simple. A segunda parte é present perfect passivo — \"has not been written\" —, apropriado para algo que segue pendente agora.",
@@ -7794,6 +7794,1378 @@ window.QUESTION_BANKS = {
                        "explicacao":  "O primeiro condicional trata de possibilidade real: presente na condição, presente ou futuro no resultado. O segundo afasta a hipótese do provável com past simple mais \"would\" — daí \"were\" mesmo com sujeito singular.",
                        "formato":  "lacunas",
                        "banca":  "unifesp"
+                   },
+                   {
+                       "id":  "ingles-61",
+                       "textoId":  "med-ing-t6",
+                       "enunciado":  "A objeção inicial ao checklist — de que os cirurgiões já sabem aquelas coisas — é tratada pelo autor como:",
+                       "alternativas":  {
+                                            "a":  "correta e decisiva, motivo pelo qual o autor conclui que o instrumento não deveria ter sido adotado nos serviços de cirurgia dos hospitais",
+                                            "b":  "falsa, uma vez que as equipes cirúrgicas desconheciam a maior parte dos itens listados antes da introdução do instrumento nos hospitais",
+                                            "c":  "irrelevante para a discussão, já que o instrumento se destina exclusivamente aos profissionais em início de carreira dentro das equipes",
+                                            "d":  "insincera, formulada por profissionais que buscavam apenas evitar mais uma tarefa burocrática entre as já exigidas antes de cada operação",
+                                            "e":  "verdadeira, e justamente por isso favorável ao instrumento"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "\"That was exactly the point.\" O checklist não ensina nada novo: ele existe porque saber e fazer se separam em dias longos e equipes desconhecidas. A objeção descreve a premissa do instrumento.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-62",
+                       "textoId":  "med-ing-t6",
+                       "enunciado":  "Segundo o texto, as falhas nos itens do checklist:",
+                       "alternativas":  {
+                                            "a":  "são cometidas majoritariamente pelos profissionais mais jovens, cuja experiência insuficiente explicaria a maior parte dos casos registrados",
+                                            "b":  "ocorrem com a mesma frequência em todos os procedimentos realizados, independentemente da duração da jornada ou da composição da equipe",
+                                            "c":  "concentram-se em situações específicas, e não se distribuem por igual",
+                                            "d":  "aumentam nos procedimentos de maior complexidade técnica, situação em que o número de itens a verificar cresce proporcionalmente ao risco",
+                                            "e":  "diminuíram ao longo do tempo sem qualquer relação com a adoção do instrumento, tendência atribuída pelo texto à melhoria dos equipamentos"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"The failures do not distribute themselves evenly. They cluster on long days, on unfamiliar teams, on cases that begin as routine.\" O terceiro item é o mais contraintuitivo: o risco cresce onde a atenção relaxa.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-63",
+                       "textoId":  "med-ing-t6",
+                       "enunciado":  "O texto explica que o checklist funciona porque:",
+                       "alternativas":  {
+                                            "a":  "obriga a equipe a memorizar previamente a sequência completa dos procedimentos exigidos antes do início de qualquer intervenção cirúrgica",
+                                            "b":  "muda o que a sala permite, tornando mais provável que alguém fale",
+                                            "c":  "transfere ao profissional mais experiente da equipe a responsabilidade integral pela verificação de cada um dos itens listados no documento",
+                                            "d":  "substitui a comunicação verbal entre os membros da equipe por um registro escrito, o que reduz o risco de mal-entendidos durante a operação",
+                                            "e":  "aumenta o tempo de preparação de cada procedimento, o que permite à equipe identificar com antecedência as dificuldades técnicas previstas"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Quem foi convidado a dizer o próprio nome em voz alta fala com mais facilidade depois, quando algo parece errado. O efeito é sobre a hierarquia da sala, não sobre a memória de ninguém.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-64",
+                       "textoId":  "med-ing-t6",
+                       "enunciado":  "Ao afirmar que \"sign the paper without the conversation and you keep the paperwork and lose the mechanism\", o autor critica:",
+                       "alternativas":  {
+                                            "a":  "a decisão de atribuir a assinatura do documento ao profissional mais jovem da equipe, prática que ele considera inadequada nesse contexto",
+                                            "b":  "a exigência de registro escrito imposta pelos órgãos reguladores, que segundo ele consome tempo sem produzir qualquer benefício ao paciente",
+                                            "c":  "a extensão excessiva do documento, cujo preenchimento completo tornaria inviável a rotina das equipes nos serviços de maior volume",
+                                            "d":  "a adoção formal do instrumento sem a prática que o torna eficaz",
+                                            "e":  "a ausência de fiscalização sobre o cumprimento do procedimento, falha que segundo ele explica a variação observada entre os hospitais"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "A assinatura é o resíduo visível; a conversa é o que produz o efeito. Assinar sem ler conserva a prova de conformidade e joga fora exatamente aquilo que fazia o instrumento funcionar.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-65",
+                       "textoId":  "med-ing-t6",
+                       "enunciado":  "A frase final do texto — sobre intervenções copiadas como procedimentos — generaliza a discussão ao afirmar que:",
+                       "alternativas":  {
+                                            "a":  "o que sobra da cópia é a forma, e não o comportamento que produzia o resultado",
+                                            "b":  "qualquer intervenção baseada em mudança de comportamento é inviável em larga escala e deveria ser substituída por medidas de natureza técnica",
+                                            "c":  "os procedimentos formais são sempre mais eficazes do que as intervenções comportamentais, por não dependerem da adesão individual de cada equipe",
+                                            "d":  "as instituições de saúde deveriam abandonar a padronização de rotinas, prática que segundo o autor impede a adaptação às condições locais",
+                                            "e":  "a difusão de boas práticas entre hospitais depende exclusivamente da existência de incentivos financeiros oferecidos às equipes participantes"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"Procedures are what remain when the behaviour is dropped.\" A frase transforma o caso do checklist em diagnóstico geral: o que se copia é sempre o mais fácil de copiar, e nem sempre é o que funciona.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-66",
+                       "textoId":  "med-ing-t6",
+                       "enunciado":  "Em \"the results were larger than most drug trials produce\", a comparação serve para:",
+                       "alternativas":  {
+                                            "a":  "dar escala ao efeito, medindo-o contra um padrão conhecido",
+                                            "b":  "criticar a qualidade metodológica dos ensaios clínicos realizados com medicamentos, cujos resultados o autor considera pouco confiáveis",
+                                            "c":  "sugerir que o instrumento poderia substituir integralmente o uso de medicamentos nos procedimentos cirúrgicos descritos ao longo do texto",
+                                            "d":  "indicar que o instrumento foi avaliado pelos mesmos métodos empregados na avaliação de novos medicamentos antes de sua aprovação",
+                                            "e":  "justificar o custo elevado de implantação do instrumento, comparável segundo o autor ao de um programa de desenvolvimento farmacêutico"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Dizer que o efeito é grande não informa nada; compará-lo ao que um ensaio de medicamento costuma produzir informa. A comparação empresta uma régua que o leitor já reconhece.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-67",
+                       "textoId":  "med-ing-t6",
+                       "enunciado":  "Em \"Complications fell. So did deaths.\", a expressão \"so did\" equivale, em português, a:",
+                       "alternativas":  {
+                                            "a":  "\"as mortes, no entanto\", oposição entre os dois resultados apresentados em sequência pelo autor ao descrever os efeitos observados",
+                                            "b":  "\"assim faziam as mortes\", construção que indica a maneira como o fenômeno descrito ocorreu ao longo do período analisado pelos autores",
+                                            "c":  "\"portanto houve mortes\", relação de consequência estabelecida entre a redução das complicações e o desfecho apresentado em seguida",
+                                            "d":  "\"desde que houvesse mortes\", condição necessária para que se verificasse a redução mencionada na primeira das duas orações do trecho",
+                                            "e":  "\"as mortes também\""
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "\"So + auxiliar + sujeito\" é a forma inglesa de dizer que o mesmo vale para outro elemento, com inversão obrigatória. O paralelo negativo seria \"neither did deaths\".",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-68",
+                       "textoId":  "med-ing-t6",
+                       "enunciado":  "O texto se organiza assim: apresenta ______, responde à ______, informa ______, explica ______ e termina com ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "a legislação vigente – posição contrária dos hospitais – o índice de adesão – as sanções previstas – o pedido de revisão da norma em questão",
+                                            "b":  "uma tese própria – crítica dos especialistas – dados estatísticos – o método empregado – a proposta de uma nova política pública para o setor",
+                                            "c":  "um caso individual – reação da equipe envolvida – o desfecho clínico – as causas do erro – a recomendação de treinamento periódico das equipes",
+                                            "d":  "o instrumento – objeção inicial – os resultados – o mecanismo – uma generalização",
+                                            "e":  "uma definição técnica – controvérsia terminológica – a revisão da literatura – os limites do estudo – as sugestões para pesquisas futuras"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "O texto abre descrevendo o que é a lista, trata da objeção de que todos já sabem aquilo, informa a queda de complicações e mortes, explica por que a conversa em voz alta importa, e generaliza no fecho.",
+                       "formato":  "lacunas",
+                       "banca":  "unesp"
+                   },
+                   {
+                       "id":  "ingles-69",
+                       "textoId":  "med-ing-t6",
+                       "enunciado":  "A expressão \"speak up\", no quarto parágrafo, significa:",
+                       "alternativas":  {
+                                            "a":  "levantar a mão para pedir permissão antes de intervir na conversa conduzida pelo profissional responsável pela condução do procedimento",
+                                            "b":  "falar mais alto para ser ouvido acima do ruído do ambiente em que a equipe se encontra durante a realização do procedimento cirúrgico",
+                                            "c":  "manifestar-se, dizer o que se pensa",
+                                            "d":  "acelerar o ritmo da fala a fim de transmitir a informação no menor tempo possível durante as situações de urgência no centro cirúrgico",
+                                            "e":  "repetir em voz alta a informação recebida a fim de confirmar que ela foi corretamente compreendida por quem a transmitiu à equipe"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"Speak up\" é phrasal verb de tomar a palavra, sobretudo para apontar um problema. A leitura literal — falar mais alto — existe, mas o contexto é \"when something looks wrong\".",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-70",
+                       "textoId":  "med-ing-t6",
+                       "enunciado":  "Ao dizer que \"the reason is not laziness\", o autor:",
+                       "alternativas":  {
+                                            "a":  "atribui a baixa adesão à falta de comprometimento das equipes, avaliação que ele desenvolve ao longo dos parágrafos seguintes do texto",
+                                            "b":  "afasta a explicação moral antes de apresentar a estrutural",
+                                            "c":  "encerra a argumentação com um resumo das ideias apresentadas anteriormente, retomando ponto a ponto cada um dos argumentos utilizados",
+                                            "d":  "reconhece que os dados apresentados até ali não sustentam a conclusão que ele pretendia defender no início do texto que está escrevendo",
+                                            "e":  "introduz um assunto novo, deslocando a discussão do funcionamento do instrumento para a formação recebida pelos profissionais da área"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Culpar preguiça encerraria a conversa e não resolveria nada. O autor descarta essa leitura para poder mostrar o que de fato acontece: copia-se o papel e perde-se o mecanismo.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-71",
+                       "textoId":  "med-ing-t7",
+                       "enunciado":  "A tese central do texto é a de que:",
+                       "alternativas":  {
+                                            "a":  "a decisão sobre realizar ou não um exame deve caber exclusivamente ao paciente, sem interferência dos profissionais que o acompanham no serviço",
+                                            "b":  "os programas de rastreamento deveriam ser suspensos, uma vez que produzem mais dano do que benefício em todas as condições até hoje estudadas",
+                                            "c":  "os testes disponíveis apresentam sensibilidade insuficiente, o que impede identificar precocemente as condições que exigiriam tratamento imediato",
+                                            "d":  "rastrear só faz sentido quando encontrar cedo muda o que acontece com a pessoa",
+                                            "e":  "as estatísticas de sobrevida são o critério mais confiável para avaliar a eficácia de um programa de rastreamento aplicado a grandes populações"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "O quarto parágrafo formula a pergunta que o texto quer instalar: \"does finding this earlier change what happens to the person?\". E o fecho distingue os dois casos — salva vidas ou produz pacientes.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-72",
+                       "textoId":  "med-ing-t7",
+                       "enunciado":  "Em \"The statistics improve. The person does not.\", o contraste indica que:",
+                       "alternativas":  {
+                                            "a":  "os dados coletados apresentam erros metodológicos que comprometem qualquer conclusão sobre a eficácia dos programas de rastreamento avaliados",
+                                            "b":  "o indicador melhora sem que haja benefício real para quem foi tratado",
+                                            "c":  "a melhora observada nos indicadores decorre do aperfeiçoamento das técnicas de tratamento aplicadas aos casos identificados precocemente",
+                                            "d":  "as pessoas rastreadas apresentam melhora clínica que ainda não é captada pelos indicadores atualmente utilizados na avaliação dos programas",
+                                            "e":  "a estatística e a experiência individual coincidem na maior parte dos casos analisados pelos pesquisadores responsáveis pelos estudos citados"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Quem tinha uma condição que nunca causaria dano é tratado, sobrevive e entra na conta como vida salva. O número sobe porque a definição de \"salvo\" foi alargada, não porque alguém tenha ganhado algo.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-73",
+                       "textoId":  "med-ing-t7",
+                       "enunciado":  "Segundo o texto, a primeira dificuldade para discutir o sobrediagnóstico é que ele:",
+                       "alternativas":  {
+                                            "a":  "atinge apenas populações específicas, o que dificulta a generalização das conclusões obtidas nos estudos realizados sobre o tema até agora",
+                                            "b":  "só pode ser identificado por meio de exames adicionais de custo elevado, indisponíveis na maior parte dos serviços que realizam o rastreamento",
+                                            "c":  "é invisível no caso individual, pois não se sabe quem foi tratado sem necessidade",
+                                            "d":  "é um fenômeno recente, sobre o qual ainda não existem dados suficientes para sustentar qualquer recomendação dirigida aos serviços de saúde",
+                                            "e":  "depende de definições que variam entre os países, o que impede comparar os resultados obtidos por programas conduzidos em lugares distintos"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"Nobody can be told which of the treated patients did not need treatment.\" O fenômeno é visível na população e invisível no consultório — e é essa assimetria que torna a conversa difícil.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-74",
+                       "textoId":  "med-ing-t7",
+                       "enunciado":  "A segunda dificuldade apontada é que:",
+                       "alternativas":  {
+                                            "a":  "decidir não procurar soa pior do que é",
+                                            "b":  "os profissionais responsáveis pelos programas de rastreamento resistem a discutir os limites dos instrumentos que eles próprios ajudaram a implantar",
+                                            "c":  "os pacientes rastreados exigem tratamento imediato assim que recebem qualquer resultado alterado, independentemente da orientação recebida",
+                                            "d":  "o financiamento dos programas depende do número de casos identificados, o que cria incentivo para ampliar continuamente o alcance dos exames",
+                                            "e":  "a legislação de vários países obriga a oferta de rastreamento para todas as condições em que exista teste disponível no mercado nacional"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"Deciding not to look is uncomfortable, even when looking causes more harm than it prevents.\" O obstáculo é de intuição: não procurar parece negligência, mesmo quando procurar é o que causa dano.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-75",
+                       "textoId":  "med-ing-t7",
+                       "enunciado":  "A frase de abertura — \"If you look hard enough for something, you will find it\" — funciona no texto como:",
+                       "alternativas":  {
+                                            "a":  "advertência dirigida aos pacientes, que segundo o autor solicitam exames em número superior ao que sua condição clínica efetivamente exige",
+                                            "b":  "crítica à falta de rigor dos profissionais que conduzem os exames de rastreamento nos serviços descritos ao longo do texto apresentado",
+                                            "c":  "elogio à minuciosidade na investigação clínica, atitude que o autor recomenda ao longo de todos os parágrafos seguintes do mesmo texto",
+                                            "d":  "citação literal extraída de um dos estudos mencionados pelo autor na sequência do texto sobre programas de rastreamento populacional",
+                                            "e":  "enunciado geral que o restante do texto especifica e qualifica"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "A frase é quase um provérbio, e o período seguinte já a delimita: não é crítica à minúcia, é descrição do que acontece ao aplicar teste sensível a uma população majoritariamente sadia.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-76",
+                       "textoId":  "med-ing-t7",
+                       "enunciado":  "Em \"even though nothing would have happened had the test never been done\", a estrutura \"had the test never been done\" equivale a:",
+                       "alternativas":  {
+                                            "a":  "\"when the test had never been done\", oração temporal que situa o momento em que se verificou o fato enunciado na oração principal",
+                                            "b":  "\"the test had never been done\", oração independente que descreve um fato ocorrido antes daquele relatado na primeira parte do período",
+                                            "c":  "\"if the test had never been done\", com inversão no lugar de \"if\"",
+                                            "d":  "\"because the test had never been done\", oração causal que apresenta o motivo do desfecho descrito na primeira parte do mesmo período",
+                                            "e":  "\"although the test had never been done\", oração concessiva que admite um fato contrário ao esperado diante da conclusão apresentada"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "É a condicional invertida do inglês formal: suprime-se \"if\" e antecipa-se o auxiliar. A construção aparece com \"had\", \"were\" e \"should\", e é sinal de registro elevado.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-77",
+                       "textoId":  "med-ing-t7",
+                       "enunciado":  "O texto afirma explicitamente que sua argumentação:",
+                       "alternativas":  {
+                                            "a":  "não é contra o rastreamento em si, mas a favor de avaliar cada programa",
+                                            "b":  "recomenda suspender todos os programas existentes até que se disponha de evidências mais sólidas sobre sua eficácia em cada população",
+                                            "c":  "sustenta que a decisão sobre cada programa deve caber a comitês formados exclusivamente por especialistas na condição a ser rastreada",
+                                            "d":  "propõe substituir os exames atualmente utilizados por instrumentos de menor sensibilidade, o que reduziria o número de achados irrelevantes",
+                                            "e":  "defende que os pacientes sejam informados apenas dos resultados que exijam alguma conduta, omitindo-se os achados sem consequência clínica"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"None of this argues against screening as such. It argues for asking, of each programme...\" A ressalva é explícita e impede que o texto seja lido como oposição ao rastreamento.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-78",
+                       "textoId":  "med-ing-t7",
+                       "enunciado":  "A palavra \"screening\", no contexto do texto, corresponde em português a:",
+                       "alternativas":  {
+                                            "a":  "seleção de candidatos, etapa dos processos de contratação em que se avaliam previamente os currículos recebidos pela instituição",
+                                            "b":  "triagem por gravidade, procedimento adotado nos serviços de urgência para definir a ordem de atendimento dos pacientes que aguardam",
+                                            "c":  "exibição, no sentido da apresentação pública de um material audiovisual produzido para divulgar informações de interesse sanitário",
+                                            "d":  "proteção, designando o conjunto de medidas destinadas a impedir a exposição da população a determinado agente causador de doença",
+                                            "e":  "rastreamento"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "É a busca de doença em pessoas sem sintomas, aplicada a uma população. \"Triagem\" traduz \"triage\", que é outra coisa — ordenar quem já procurou atendimento —, e a confusão entre as duas é frequente.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-79",
+                       "textoId":  "med-ing-t7",
+                       "enunciado":  "O fecho do texto opõe dois resultados possíveis de um programa de rastreamento: ______ e ______; a diferença entre eles depende de ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "reduzir custos – aumentar despesas – o volume de exames realizados por cada um dos serviços que participam do programa em questão",
+                                            "b":  "salvar vidas – produzir pacientes – o achado precoce alterar o desfecho",
+                                            "c":  "identificar casos – deixar casos passar – a sensibilidade do teste empregado na avaliação da população selecionada para o rastreamento",
+                                            "d":  "tranquilizar a população – gerar ansiedade – a forma como os resultados são comunicados aos participantes ao final de cada etapa realizada",
+                                            "e":  "ampliar o acesso – restringir o atendimento – a capacidade instalada dos serviços responsáveis pela realização dos exames de rastreamento"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "\"Where the answer is yes, screening saves lives. Where it is no, it produces patients.\" A pergunta que decide é a do parágrafo anterior — encontrar antes muda o que acontece com a pessoa?",
+                       "formato":  "lacunas",
+                       "banca":  "unifesp"
+                   },
+                   {
+                       "id":  "ingles-80",
+                       "textoId":  "med-ing-t7",
+                       "enunciado":  "A expressão \"is often skipped\", referida à pergunta que o texto propõe, indica que ela:",
+                       "alternativas":  {
+                                            "a":  "foi respondida de modo definitivo pelos estudos mais recentes, o que dispensaria retomá-la na avaliação de cada novo programa proposto",
+                                            "b":  "é formulada com frequência nos debates sobre programas de rastreamento, embora raramente receba resposta satisfatória por parte dos gestores",
+                                            "c":  "aparece de forma resumida nos protocolos oficiais, sem o detalhamento que o autor considera necessário para orientar as decisões dos serviços",
+                                            "d":  "costuma ser deixada de lado",
+                                            "e":  "não pode ser respondida com os métodos atualmente disponíveis, limitação que o autor identifica como o principal obstáculo à discussão"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "\"Skip\" é pular, omitir uma etapa. O autor diz que a pergunta soa óbvia e é justamente por isso que se deixa de fazê-la — o que a alternativa (b) inverte ao afirmar que ela é frequente.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-81",
+                       "textoId":  "med-ing-t8",
+                       "enunciado":  "De acordo com o aviso da entrada principal, uma pessoa que teve febre há dois dias deve:",
+                       "alternativas":  {
+                                            "a":  "visitar apenas fora do horário de maior movimento, período que o aviso indica como o mais adequado para esse tipo de situação específica",
+                                            "b":  "não visitar",
+                                            "c":  "visitar acompanhada de outro adulto responsável, exigência que o aviso estabelece para os casos em que haja qualquer sintoma recente",
+                                            "d":  "solicitar autorização prévia na recepção do hospital, procedimento indicado pelo aviso para as situações que fogem à regra geral fixada",
+                                            "e":  "visitar normalmente, uma vez que a restrição mencionada no aviso se aplica somente às pessoas com sintomas no momento da visita"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "\"If you have had a fever, a cough or diarrhoea in the last 48 hours, please do not visit.\" Dois dias estão dentro das 48 horas, e o present perfect cobre justamente o período recente.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-82",
+                       "textoId":  "med-ing-t8",
+                       "enunciado":  "Segundo o rótulo, o produto deve ser descartado:",
+                       "alternativas":  {
+                                            "a":  "assim que a temperatura de armazenamento ultrapassar 25 graus, condição que o rótulo aponta como determinante para a validade",
+                                            "b":  "quando o recipiente estiver vazio, independentemente do tempo decorrido desde a data em que ele foi aberto pela primeira vez pelo usuário",
+                                            "c":  "28 dias após a data de fabricação impressa na embalagem, prazo que o rótulo estabelece para o armazenamento seguro do produto",
+                                            "d":  "28 dias após aberto, mesmo que ainda haja conteúdo",
+                                            "e":  "após qualquer refrigeração acidental, situação em que o rótulo recomenda a substituição imediata do produto por um novo frasco"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "\"Discard 28 days after opening, even if the container is not empty.\" O \"even if\" existe justamente para bloquear a leitura econômica de aproveitar o que sobrou.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-83",
+                       "textoId":  "med-ing-t8",
+                       "enunciado":  "O e-mail de Marta tem por finalidade:",
+                       "alternativas":  {
+                                            "a":  "propor uma troca de plantão, deixando claro que a recusa é aceitável",
+                                            "b":  "comunicar formalmente à chefia a impossibilidade de comparecer ao plantão previsto para o sábado indicado na mensagem enviada ao colega",
+                                            "c":  "solicitar autorização para faltar ao trabalho em razão de um compromisso familiar que ela não consegue remarcar naquela mesma semana",
+                                            "d":  "confirmar uma troca de plantão já acertada anteriormente entre os dois profissionais, restando apenas registrar o acordo por escrito",
+                                            "e":  "reclamar da escala publicada pelo serviço, cuja distribuição de turnos ela considera desequilibrada entre os membros da mesma equipe"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"Any chance you could\" é pedido, não comunicado; e \"if it doesn\u0027t work, no problem at all\" retira a pressão. O prazo até quinta existe para ela ter tempo de procurar outra pessoa.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-84",
+                       "textoId":  "med-ing-t8",
+                       "enunciado":  "Segundo o anúncio de emprego, a instituição procura alguém:",
+                       "alternativas":  {
+                                            "a":  "residente nas proximidades da instituição, condição justificada pelo horário noturno em que as atividades da vaga serão desempenhadas",
+                                            "b":  "com experiência anterior comprovada em ambiente de cuidado, requisito apresentado como condição obrigatória para a candidatura à vaga",
+                                            "c":  "disponível em tempo integral durante todos os dias da semana, exigência estabelecida em razão da natureza do trabalho oferecido pela vaga",
+                                            "d":  "com formação técnica concluída na área de enfermagem, requisito que o anúncio apresenta como indispensável para a participação no processo",
+                                            "e":  "confiável, mais do que experiente"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "\"We are looking for someone reliable rather than someone experienced; training is provided.\" A experiência aparece depois como \"welcome but not required\" — bem-vinda, não exigida.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-85",
+                       "textoId":  "med-ing-t8",
+                       "enunciado":  "O único requisito obrigatório do anúncio é:",
+                       "alternativas":  {
+                                            "a":  "conclusão do treinamento oferecido pela instituição antes do início efetivo das atividades previstas para o cargo anunciado no texto",
+                                            "b":  "experiência prévia em ambiente de cuidado, condição que o anúncio apresenta como indispensável ao exercício das funções descritas na vaga",
+                                            "c":  "disponibilidade em fins de semana ao menos duas vezes por mês",
+                                            "d":  "apresentação da candidatura antes de trinta de abril, prazo que o anúncio estabelece como requisito de participação no processo seletivo",
+                                            "e":  "disponibilidade para trabalhar três noites por semana em qualquer dos setores da instituição responsável pela publicação do anúncio"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"Must\" aparece uma única vez, e é na disponibilidade de fim de semana. O prazo de trinta de abril é quando as inscrições fecham, não um requisito do candidato — distinção que a questão testa.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-86",
+                       "textoId":  "med-ing-t8",
+                       "enunciado":  "Os quatro textos se distinguem quanto ao registro: o aviso e o rótulo são ______, o e-mail é ______ e o anúncio é ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "literários e elaborados – espontâneo e improvisado – publicitário e persuasivo, distinção que decorre da finalidade atribuída a cada texto",
+                                            "b":  "informais e conversados – formal e protocolar – impessoal e restrito ao público interno da instituição responsável pela publicação do texto",
+                                            "c":  "narrativos e descritivos – argumentativo – expositivo, classificação que corresponde às sequências textuais predominantes em cada um deles",
+                                            "d":  "técnicos e especializados – técnico e especializado – técnico e especializado, uma vez que todos se destinam a profissionais da área da saúde",
+                                            "e":  "impessoais e diretivos – informal entre colegas – formal e dirigido a desconhecidos"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Aviso e rótulo usam imperativo e não têm autor visível. O e-mail traz \"Hi Dan\", contração e \"a family thing\". O anúncio usa \"we\" institucional e fala a quem ainda não conhece a instituição.",
+                       "formato":  "lacunas",
+                       "banca":  "santacasa"
+                   },
+                   {
+                       "id":  "ingles-87",
+                       "textoId":  "med-ing-t8",
+                       "enunciado":  "Em \"Let me know either way by Thursday\", a expressão \"either way\" indica que Marta quer receber resposta:",
+                       "alternativas":  {
+                                            "a":  "apenas caso ele aceite a proposta apresentada, uma vez que o silêncio seria interpretado como recusa dentro do prazo estabelecido",
+                                            "b":  "por qualquer um dos dois meios de comunicação disponíveis entre os dois profissionais, sem preferência por nenhum deles em particular",
+                                            "c":  "tanto se ele aceitar quanto se recusar",
+                                            "d":  "no caminho de ida ou no de volta do plantão, momentos que ela indica como os mais convenientes para tratar do assunto pessoalmente",
+                                            "e":  "de ambos os colegas envolvidos na troca proposta, já que a alteração da escala depende da concordância dos dois profissionais citados"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"Either way\" cobre as duas respostas possíveis. A frase seguinte explica por quê: ela precisa de tempo para procurar outra pessoa, e o silêncio não serviria.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-88",
+                       "textoId":  "med-ing-t8",
+                       "enunciado":  "O aviso da entrada estabelece, quanto a crianças, que elas:",
+                       "alternativas":  {
+                                            "a":  "não podem entrar em nenhuma dependência do hospital, restrição que o aviso estende a todos os menores de idade sem qualquer exceção",
+                                            "b":  "não podem entrar na unidade de terapia intensiva se tiverem menos de doze anos",
+                                            "c":  "podem visitar apenas acompanhadas de dois adultos, exigência que o aviso relaciona ao limite de visitantes estabelecido por leito ocupado",
+                                            "d":  "podem visitar em qualquer horário, uma vez que a restrição de horário do aviso se aplica somente aos visitantes adultos da instituição",
+                                            "e":  "devem apresentar comprovante de vacinação na recepção, documento exigido pelo aviso antes da entrada nas unidades de internação"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A restrição é dupla e específica: idade abaixo de doze e apenas na UTI. Estendê-la ao hospital inteiro, como faz (a), é a leitura apressada que a questão quer pegar.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-89",
+                       "textoId":  "med-ing-t8",
+                       "enunciado":  "As instruções \"Store below 25 °C\" e \"Do not refrigerate\", tomadas em conjunto, indicam que o produto deve ser mantido:",
+                       "alternativas":  {
+                                            "a":  "exclusivamente sob refrigeração controlada, condição que o rótulo estabelece para preservar a estabilidade do princípio ativo do produto",
+                                            "b":  "no congelador, único ambiente capaz de assegurar que a temperatura permaneça abaixo do limite indicado no rótulo do produto em questão",
+                                            "c":  "em qualquer temperatura, desde que o recipiente permaneça fechado durante todo o período de armazenamento estabelecido pelo fabricante",
+                                            "d":  "em temperatura ambiente fresca, sem ir à geladeira",
+                                            "e":  "aquecido a temperatura superior à ambiente, procedimento indicado pelo rótulo antes de cada uma das aplicações realizadas pelo usuário"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "As duas instruções fixam uma faixa: abaixo de 25 graus, mas fora da geladeira. Lê-las isoladamente leva ao erro de (b) e de (a) — é a combinação que define o armazenamento correto.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-90",
+                       "textoId":  "med-ing-t8",
+                       "enunciado":  "A leitura dos quatro textos exige, sobretudo, a habilidade de:",
+                       "alternativas":  {
+                                            "a":  "localizar informação específica e observar restrições e exceções",
+                                            "b":  "inferir a posição do autor a partir de indícios distribuídos ao longo do texto, habilidade exigida na leitura de textos de natureza argumentativa",
+                                            "c":  "identificar figuras de linguagem e recursos expressivos empregados na construção do sentido de cada um dos quatro textos apresentados",
+                                            "d":  "reconstituir a sequência cronológica dos acontecimentos narrados em cada um dos textos que compõem o conjunto apresentado ao leitor",
+                                            "e":  "comparar as posições defendidas por autores distintos sobre um mesmo assunto, tarefa que os quatro textos exigem simultaneamente do leitor"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Nenhum dos quatro defende tese: eles informam e ordenam. O que decide o acerto é notar \"even if\", \"rather than\", \"under twelve\", \"at least twice\" — as restrições que mudam o alcance da regra.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-91",
+                       "textoId":  "med-ing-t9",
+                       "enunciado":  "A primeira surpresa relatada pelo autor foi a de que a dificuldade do curso:",
+                       "alternativas":  {
+                                            "a":  "deixou de ser intelectual e passou a ser de persistência",
+                                            "b":  "concentrou-se integralmente na compreensão dos conteúdos de bioquímica, disciplina que ele identifica como a mais exigente do primeiro ano",
+                                            "c":  "diminuiu ao longo dos meses, à medida que ele se adaptou ao volume de material exigido pelas disciplinas cursadas naquele período letivo",
+                                            "d":  "decorreu da falta de preparo recebido no ensino anterior, lacuna que ele identifica como a principal causa das dificuldades enfrentadas",
+                                            "e":  "esteve relacionada sobretudo às atividades práticas realizadas em laboratório, cujas exigências ele não havia previsto antes de iniciar o curso"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"The problem was not understanding the biochemistry; it was sitting down to read it at nine at night for the fourth week running.\" E ele conclui: a habilidade testada não era a que ele havia treinado.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-92",
+                       "textoId":  "med-ing-t9",
+                       "enunciado":  "Sobre os demais estudantes, o autor observa que:",
+                       "alternativas":  {
+                                            "a":  "haviam recebido formação prévia semelhante, o que segundo ele explicaria a homogeneidade das dificuldades enfrentadas por todo o grupo",
+                                            "b":  "havia competição declarada entre eles desde o início do curso, o que dificultou a formação de vínculos ao longo do primeiro ano letivo",
+                                            "c":  "compartilhavam abertamente suas dificuldades desde as primeiras semanas, prática que ele identifica como decisiva para a permanência de todos",
+                                            "d":  "apresentavam desempenho bastante desigual entre si, diferença que se acentuou ao longo dos meses seguintes ao início das atividades",
+                                            "e":  "todos supunham que os outros estavam lidando melhor com o curso"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "\"All quietly convinced that everyone else was coping better.\" E o desfecho confirma: quando alguém finalmente admitiu estar atrasado, quatro disseram o mesmo em um minuto.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-93",
+                       "textoId":  "med-ing-t9",
+                       "enunciado":  "No episódio da enfermaria, o que mais marcou o autor foi:",
+                       "alternativas":  {
+                                            "a":  "a gravidade do quadro clínico apresentado pelo paciente, que ele descreve com detalhamento ao longo do parágrafo dedicado ao episódio",
+                                            "b":  "a quantidade de informações clínicas que ele conseguiu obter durante a conversa realizada com o paciente naquele setor da instituição",
+                                            "c":  "a avaliação positiva recebida do professor responsável pelo acompanhamento das atividades práticas realizadas naquele semestre letivo",
+                                            "d":  "a pergunta do paciente, que ele não soube responder",
+                                            "e":  "a dificuldade de compreender a fala do paciente, cuja idade avançada teria comprometido a comunicação durante a conversa mantida"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "O paciente pergunta quanto tempo ficaria ali, ele diz que não sabe, e o homem responde que ninguém sabe e agradece a visita. É essa troca que ele diz ter pensado mais do que em tudo o que leu no ano.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-94",
+                       "textoId":  "med-ing-t9",
+                       "enunciado":  "A frase de abertura opõe o cheiro do laboratório a \"everything else\" para indicar que:",
+                       "alternativas":  {
+                                            "a":  "as condições de higiene dos laboratórios de anatomia constituem o principal problema enfrentado pelos estudantes durante o primeiro ano",
+                                            "b":  "os estudantes recebem informação insuficiente sobre as instalações da instituição antes do início efetivo das atividades acadêmicas do curso",
+                                            "c":  "os avisos que se recebem antes do curso não cobrem o que de fato surpreende",
+                                            "d":  "o autor considera excessivo o número de orientações recebidas antes do ingresso, o que teria gerado expectativas irreais quanto ao curso",
+                                            "e":  "a experiência prática deveria ser antecipada no currículo, alteração que ele defende ao longo dos parágrafos seguintes do relato apresentado"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A frase inverte o esperado: avisam de tudo, menos daquilo que realmente impressiona. É a chave do relato, que depois lista três surpresas — nenhuma delas prevista pelos avisos.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-95",
+                       "textoId":  "med-ing-t9",
+                       "enunciado":  "Em \"for the fourth week running\", a expressão \"running\" significa:",
+                       "alternativas":  {
+                                            "a":  "correndo, indicando que o autor realizava a leitura enquanto se deslocava entre as atividades previstas em sua rotina semanal de estudos",
+                                            "b":  "consecutivo, seguido",
+                                            "c":  "em funcionamento, referindo-se ao período em que as atividades do curso permaneceram ativas ao longo do semestre letivo mencionado",
+                                            "d":  "restante, designando o tempo que ainda faltava para o encerramento do período de avaliações previsto no calendário acadêmico do curso",
+                                            "e":  "corrente, no sentido do ano letivo em curso no momento em que os fatos relatados pelo autor teriam ocorrido durante sua formação"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "\"The fourth week running\" equivale a \"the fourth week in a row\": quarta semana seguida. É uso adjetivo posposto e nada tem a ver com o verbo correr.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-96",
+                       "textoId":  "med-ing-t9",
+                       "enunciado":  "O fecho do relato — \"None of this is advice\" — indica que o autor:",
+                       "alternativas":  {
+                                            "a":  "considera que a experiência relatada é excepcional e não se repete entre os demais estudantes que ingressam no mesmo curso a cada ano",
+                                            "b":  "reconhece que suas conclusões contradizem as orientações oficialmente fornecidas aos estudantes pela instituição em que ele cursa medicina",
+                                            "c":  "pretende publicar em outro texto as recomendações que decidiu não incluir neste relato sobre seu primeiro ano de curso na instituição",
+                                            "d":  "recusa a posição de quem orienta, limitando-se a registrar sua experiência",
+                                            "e":  "dirige o texto exclusivamente a leitores que já concluíram o primeiro ano, único público capaz de compreender integralmente o que ele narra"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "\"It is only what the first year was, once the warnings ran out.\" O relato se apresenta como testemunho, não como conselho — o que é coerente com a abertura, que desconfia dos avisos.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-97",
+                       "textoId":  "med-ing-t9",
+                       "enunciado":  "Em \"I had expected the volume of material and I was right to\", a forma verbal \"had expected\" indica ação:",
+                       "alternativas":  {
+                                            "a":  "simultânea ao momento em que o autor produz o relato, situando o leitor no presente da enunciação estabelecido ao longo de todo o texto",
+                                            "b":  "anterior a outro momento passado",
+                                            "c":  "habitual e repetida ao longo de todo o período letivo, aspecto expresso por essa construção verbal nas narrativas em língua inglesa",
+                                            "d":  "futura em relação ao momento da narrativa, projetando acontecimentos ainda não ocorridos no ponto em que o relato se encontra",
+                                            "e":  "hipotética e dependente de condição não realizada, valor que a construção assume nas orações condicionais do terceiro tipo em inglês"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "O past perfect situa a expectativa antes da experiência narrada: ele já esperava aquilo quando o ano começou. É o tempo que organiza a camada mais antiga de uma narrativa no passado.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-98",
+                       "textoId":  "med-ing-t9",
+                       "enunciado":  "As três surpresas relatadas dizem respeito, na ordem, a:",
+                       "alternativas":  {
+                                            "a":  "as instalações da instituição, o calendário letivo e o método de estudo adotado por ele ao longo dos meses descritos no relato apresentado",
+                                            "b":  "o volume de material, a estrutura do curso e a avaliação recebida dos professores ao final do primeiro semestre de atividades acadêmicas",
+                                            "c":  "a natureza da dificuldade, os colegas e o paciente",
+                                            "d":  "a competição entre estudantes, o desempenho nas provas e a escolha da especialidade que ele pretende seguir após concluir a graduação",
+                                            "e":  "o custo do curso, a distância até a instituição e a dificuldade de conciliar os estudos com as demais atividades de sua rotina pessoal"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "O texto numera: a dificuldade que deixa de ser intelectual, os colegas que se julgavam os únicos atrasados, e o paciente cuja pergunta ele não soube responder.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-99",
+                       "textoId":  "med-ing-t9",
+                       "enunciado":  "O relato é conduzido em ______ pessoa e adota tom ______, o que se confirma por ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "primeira – reflexivo e contido – ele registrar dúvidas em vez de conclusões",
+                                            "b":  "terceira – impessoal e técnico – ele descrever os fatos sem qualquer marca de subjetividade ao longo dos parágrafos que compõem o texto",
+                                            "c":  "primeira – exaltado e crítico – ele dirigir acusações à instituição responsável pelo curso em cada um dos episódios narrados no relato",
+                                            "d":  "terceira – narrativo e distanciado – ele acompanhar a trajetória de um estudante sem participar de nenhum dos episódios relatados no texto",
+                                            "e":  "segunda – instrutivo e direto – ele orientar o leitor sobre a conduta adequada em cada uma das situações descritas ao longo do relato"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"I had expected\", \"I said I did not know\": é primeira pessoa. E o tom se mede pelo que ele não faz — não acusa, não conclui, e termina dizendo que aquilo não é conselho.",
+                       "formato":  "lacunas",
+                       "banca":  "unicamp"
+                   },
+                   {
+                       "id":  "ingles-100",
+                       "textoId":  "med-ing-t9",
+                       "enunciado":  "Em \"admitted to being behind\", a expressão \"being behind\" significa estar:",
+                       "alternativas":  {
+                                            "a":  "escondido dos demais, condição que o autor atribui à vergonha sentida por quem não conseguia acompanhar o ritmo exigido pelo curso",
+                                            "b":  "situado atrás dos demais estudantes na disposição física da sala em que as atividades acadêmicas eram realizadas naquele período letivo",
+                                            "c":  "apoiando os colegas nas dificuldades enfrentadas por eles ao longo do primeiro ano de curso na instituição descrita pelo autor do relato",
+                                            "d":  "afastado das atividades por período determinado, situação que segundo o relato afetou parte dos estudantes ingressantes naquele ano",
+                                            "e":  "atrasado em relação ao conteúdo do curso"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "\"To be behind\" com estudo significa estar em atraso com a matéria. O parágrafo depende dessa leitura: quatro pessoas admitem o mesmo assim que a primeira quebra o silêncio.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-101",
+                       "textoId":  "med-ing-t10",
+                       "enunciado":  "O texto afirma que as mortes causadas pelo calor costumam ser registradas:",
+                       "alternativas":  {
+                                            "a":  "apenas nos casos em que a temperatura ultrapassa determinado limite oficialmente estabelecido pelas autoridades sanitárias de cada país",
+                                            "b":  "de forma imediata e precisa pelos sistemas de vigilância, o que permite acompanhar em tempo real o impacto de cada onda de calor registrada",
+                                            "c":  "sob outro nome, como insuficiência cardíaca ou renal",
+                                            "d":  "em categoria própria criada pelos órgãos internacionais de saúde para permitir a comparação entre os episódios ocorridos em países distintos",
+                                            "e":  "com base no relato dos familiares das vítimas, procedimento que segundo o texto compromete a confiabilidade dos dados assim obtidos"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"The person had a condition; the heat is what made the week fatal.\" O atestado registra a doença de base, e o calor desaparece da estatística — daí a necessidade de estimar em vez de contar.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-102",
+                       "textoId":  "med-ing-t10",
+                       "enunciado":  "O método descrito como \"excess mortality\" consiste em:",
+                       "alternativas":  {
+                                            "a":  "comparar as mortes ocorridas com as esperadas numa semana comum",
+                                            "b":  "somar os óbitos cuja causa registrada esteja diretamente relacionada à exposição ao calor durante o período em que a onda se manifestou",
+                                            "c":  "estimar o número de pessoas expostas a temperaturas superiores ao limite recomendado durante os dias em que a onda de calor perdurou",
+                                            "d":  "acompanhar por doze meses os pacientes atendidos durante a onda de calor, a fim de identificar consequências tardias da exposição sofrida",
+                                            "e":  "medir a diferença entre a temperatura registrada e a média histórica da região afetada, indicador adotado para dimensionar cada episódio"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"Researchers compare the number of deaths in the affected days with the number expected in an ordinary week, and the gap is called excess mortality.\" O texto acrescenta que o método é indireto e é o melhor disponível.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-103",
+                       "textoId":  "med-ing-t10",
+                       "enunciado":  "Ao afirmar que \"who dies is not random\", o texto introduz a ideia de que:",
+                       "alternativas":  {
+                                            "a":  "os grupos de maior risco variam a cada episódio, o que impede estabelecer prioridades para as medidas de proteção adotadas pelas cidades",
+                                            "b":  "as mortes ocorrem de forma imprevisível entre a população exposta, o que impede qualquer ação preventiva por parte dos serviços de saúde",
+                                            "c":  "os óbitos se distribuem uniformemente entre as faixas etárias, resultado que contraria as expectativas dos pesquisadores da área estudada",
+                                            "d":  "a mortalidade depende exclusivamente da intensidade da temperatura registrada, sem influência das condições sociais das pessoas atingidas",
+                                            "e":  "o risco se concentra em grupos identificáveis de antemão"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "O parágrafo lista quem: idosos, pessoas em uso de certos medicamentos, quem trabalha ao ar livre, quem mora sob o telhado e em bairro sem árvore. Nenhum desses grupos é surpresa.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-104",
+                       "textoId":  "med-ing-t10",
+                       "enunciado":  "Ao dizer que \"shade is not distributed by chance: it follows the map of who was able to demand it\", o autor sugere que:",
+                       "alternativas":  {
+                                            "a":  "o plantio de árvores nas cidades obedece a critérios técnicos definidos por especialistas em planejamento urbano de cada uma das regiões",
+                                            "b":  "a arborização acompanha a desigualdade entre os bairros",
+                                            "c":  "a distribuição da vegetação urbana decorre de características naturais do solo, que variam entre as diferentes áreas de uma mesma cidade",
+                                            "d":  "os moradores das áreas mais quentes recusam o plantio de árvores em suas ruas, o que explicaria a ausência de sombra nesses bairros",
+                                            "e":  "a temperatura registrada em cada rua depende exclusivamente da altura das construções que a cercam, sem relação com a vegetação existente"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "\"Who was able to demand it\" desloca a explicação do acaso e da técnica para a capacidade política de exigir. A frase seguinte estende o raciocínio ao ar-condicionado, ao isolamento e à janela que abre.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-105",
+                       "textoId":  "med-ing-t10",
+                       "enunciado":  "O fecho do texto — \"What is missing is rarely the information\" — sugere que o obstáculo à ação é:",
+                       "alternativas":  {
+                                            "a":  "a dificuldade de identificar quais grupos apresentam maior risco durante os episódios de calor extremo registrados nas grandes cidades",
+                                            "b":  "a imprecisão das previsões meteorológicas disponíveis, que segundo o autor ainda não permitem antecipar a ocorrência de ondas de calor",
+                                            "c":  "a ausência de dados sobre as condições de moradia da população, informação indispensável ao planejamento das medidas de proteção urbana",
+                                            "d":  "político, e não técnico ou informacional",
+                                            "e":  "o custo dos equipamentos necessários ao monitoramento contínuo da temperatura nas diferentes regiões de uma mesma área urbana"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Os dois períodos anteriores afirmam que prever a onda é confiável e que saber quais ruas ela vai matar também é possível. Se a informação existe e nada muda, o que falta é decisão.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-106",
+                       "textoId":  "med-ing-t10",
+                       "enunciado":  "A comparação inicial com enchentes e tempestades serve para destacar que o calor:",
+                       "alternativas":  {
+                                            "a":  "causa menos mortes do que os demais eventos climáticos mencionados, comparação que o autor sustenta com dados apresentados no texto",
+                                            "b":  "não deixa imagem, e por isso passa despercebido",
+                                            "c":  "ocorre com menor frequência do que os outros fenômenos citados, o que reduz a atenção que recebe das autoridades responsáveis pelo tema",
+                                            "d":  "atinge áreas geográficas mais restritas, característica que segundo o autor facilita a adoção de medidas de proteção nas cidades afetadas",
+                                            "e":  "é previsto com menor antecedência do que enchentes e tempestades, limitação que compromete a preparação dos serviços de emergência"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "\"It leaves no wreckage to photograph.\" A ausência de imagem é uma explicação para a ausência de resposta — e liga a abertura ao fecho, onde o problema é de vontade, não de dado.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-107",
+                       "textoId":  "med-ing-t10",
+                       "enunciado":  "Em \"cities built to hold heat rather than release it\", o contraste indica cidades:",
+                       "alternativas":  {
+                                            "a":  "que dispõem de sistemas de climatização em todos os edifícios residenciais, o que segundo o texto resolve o problema descrito no parágrafo",
+                                            "b":  "projetadas para conservar calor durante os meses frios, característica que segundo o texto se mostrou adequada às condições climáticas atuais",
+                                            "c":  "cuja construção foi interrompida antes da conclusão das obras de infraestrutura previstas para a adaptação às temperaturas mais elevadas",
+                                            "d":  "que retêm calor em vez de dissipá-lo",
+                                            "e":  "situadas em regiões de clima temperado, cuja estrutura urbana não foi concebida para lidar com temperaturas extremas em nenhuma estação"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "\"Rather than\" opõe as duas possibilidades: asfalto, concreto e ausência de vegetação armazenam calor e o devolvem à noite. É a ilha de calor urbana descrita sem o termo técnico.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-108",
+                       "textoId":  "med-ing-t10",
+                       "enunciado":  "O texto apresenta o calor como problema ______ e não apenas ______, argumento que ele sustenta a partir de ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "de planejamento urbano – de saúde – a distribuição desigual de sombra e de isolamento",
+                                            "b":  "de saúde – de planejamento urbano – os dados de mortalidade registrados durante os episódios de calor extremo nas últimas décadas em várias cidades",
+                                            "c":  "meteorológico – ambiental – a precisão crescente dos modelos de previsão desenvolvidos nas últimas décadas por institutos de pesquisa do setor",
+                                            "d":  "individual – coletivo – a responsabilidade de cada pessoa pela adoção das medidas de proteção recomendadas durante os períodos mais quentes",
+                                            "e":  "econômico – social – o custo dos equipamentos de climatização necessários à proteção das populações mais expostas nas grandes cidades"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"That last group is the reason heat is a planning problem and not only a health one.\" O que sustenta a virada é o parágrafo seguinte: sombra, ar-condicionado e janela que abre seguem o mapa da desigualdade.",
+                       "formato":  "lacunas",
+                       "banca":  "fuvest"
+                   },
+                   {
+                       "id":  "ingles-109",
+                       "textoId":  "med-ing-t10",
+                       "enunciado":  "A palavra \"toll\", no segundo parágrafo, significa:",
+                       "alternativas":  {
+                                            "a":  "aviso, designando o comunicado emitido pelas autoridades meteorológicas quando se aproxima um período de temperaturas muito elevadas",
+                                            "b":  "pedágio, valor cobrado pela utilização de determinada via de circulação nas cidades mencionadas ao longo do texto apresentado ao leitor",
+                                            "c":  "sino, instrumento cujo som anuncia acontecimentos de relevância para a comunidade em que ele se encontra instalado tradicionalmente",
+                                            "d":  "tolerância, no sentido do limite de temperatura que o organismo humano suporta antes que se manifestem os efeitos descritos no texto",
+                                            "e":  "o número de vítimas"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "\"The toll of a heatwave is estimated rather than counted\": é o saldo de mortes. \"Pedágio\" é o outro sentido corrente da palavra e funciona aqui como distrator natural.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-110",
+                       "textoId":  "med-ing-t10",
+                       "enunciado":  "Em \"Old people, whose bodies regulate temperature less well\", o pronome \"whose\" estabelece relação de:",
+                       "alternativas":  {
+                                            "a":  "tempo, situando o momento em que a alteração descrita passa a se manifestar nos indivíduos pertencentes ao grupo mencionado antes",
+                                            "b":  "lugar, indicando o espaço em que se verifica a condição descrita na sequência do período apresentado ao leitor no texto em questão",
+                                            "c":  "posse entre as pessoas idosas e seus corpos",
+                                            "d":  "causa, apresentando o motivo pelo qual o grupo mencionado apresenta maior risco durante os episódios de calor descritos no texto lido",
+                                            "e":  "comparação, aproximando o grupo citado de outro mencionado anteriormente no mesmo parágrafo do texto apresentado para leitura"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"Whose\" é o relativo de posse e liga possuidor e coisa possuída — as pessoas e seus corpos. Para lugar seria \"where\", e para causa a oração viria com \"because\".",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-111",
+                       "texto_apoio":  "Compare: (I) \"She worked here for ten years.\" (II) \"She has worked here for ten years.\"",
+                       "enunciado":  "O enunciado I indica que ela ______, e o enunciado II, que ela ______; a diferença está em ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "trabalha em regime integral – trabalha em regime parcial – a carga horária cumprida por ela em cada um dos dois períodos mencionados",
+                                            "b":  "continua trabalhando lá – já não trabalha lá – o past simple indicar continuidade da ação até o momento em que o enunciado é produzido",
+                                            "c":  "trabalhou por dez anos seguidos – trabalhou de forma intermitente – o aspecto verbal expresso por cada uma das duas construções apresentadas",
+                                            "d":  "pretende continuar no cargo – pretende deixá-lo em breve – a intenção manifestada pelo sujeito em cada uma das duas orações da comparação",
+                                            "e":  "já não trabalha lá – continua trabalhando lá – o present perfect ligar o passado ao presente"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "O past simple fecha o período no passado; o present perfect com \"for\" o mantém aberto até agora. É a distinção que o português resolve com \"trabalhou\" contra \"trabalha há dez anos\".",
+                       "formato":  "lacunas",
+                       "banca":  "unesp"
+                   },
+                   {
+                       "id":  "ingles-112",
+                       "texto_apoio":  "Discurso direto: She said: \"I will check the results tomorrow.\"",
+                       "enunciado":  "Transposto ao discurso indireto, o enunciado torna-se \"She said that she ______ the results ______\"; a mudança atinge ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "checked – yesterday – a pessoa gramatical do verbo, que passa da primeira para a terceira sem alteração dos demais elementos do enunciado",
+                                            "b":  "will check – tomorrow – apenas a pontuação, que deixa de exigir aspas na transposição para o discurso indireto em língua inglesa",
+                                            "c":  "would check – the following day – o tempo verbal e o marcador de tempo",
+                                            "d":  "has checked – today – o aspecto verbal, que passa a indicar ação concluída antes do momento em que a fala foi originalmente produzida",
+                                            "e":  "checks – every day – a frequência da ação relatada, que passa a ser apresentada como habitual na transposição para o discurso indireto"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "O verbo introdutor no passado puxa \"will\" para \"would\", e os dêiticos se reorganizam a partir do momento do relato: \"tomorrow\" vira \"the following day\" ou \"the next day\".",
+                       "formato":  "lacunas",
+                       "banca":  "santacasa"
+                   },
+                   {
+                       "id":  "ingles-113",
+                       "texto_apoio":  "\"You have already signed the form, ______?\"",
+                       "enunciado":  "A question tag adequada é:",
+                       "alternativas":  {
+                                            "a":  "have you",
+                                            "b":  "haven\u0027t you",
+                                            "c":  "haven\u0027t you already",
+                                            "d":  "aren\u0027t you",
+                                            "e":  "don\u0027t you"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A tag repete o auxiliar da oração e inverte a polaridade: afirmativa pede tag negativa. O auxiliar aqui é \"have\", do present perfect, e não \"do\" nem \"be\". A alternativa (c) repete na tag um adverbio que ja esta na oracao, o que a norma nao admite.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-114",
+                       "texto_apoio":  "\"There were ______ patients in the corridor and ______ information about the delay.\"",
+                       "enunciado":  "As lacunas são preenchidas, respectivamente, por ______ e ______, porque \"patients\" é ______ e \"information\" é ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "little – much – incontável – incontável, condição que impede o emprego de qualquer quantificador de número diante dos dois termos citados",
+                                            "b":  "much – few – incontável – contável, distinção que decorre da possibilidade de atribuir número a cada um dos dois substantivos empregados",
+                                            "c":  "few – many – contável – contável, uma vez que ambos os substantivos admitem flexão de número na língua inglesa contemporânea escrita",
+                                            "d":  "many – little – contável – incontável",
+                                            "e":  "many – much – contável – contável, classificação que se aplica a todos os substantivos abstratos empregados em contextos de natureza técnica"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "\"Patient\" tem plural e pede \"many\"; \"information\" é incontável em inglês, não tem plural e pede \"little\" ou \"much\". É um dos incontáveis que mais engana quem parte do português.",
+                       "formato":  "lacunas",
+                       "banca":  "unifesp"
+                   },
+                   {
+                       "id":  "ingles-115",
+                       "texto_apoio":  "\"The results will be ready ______ Monday, ______ the morning, ______ 9 a.m.\"",
+                       "enunciado":  "As lacunas são preenchidas, na ordem, por:",
+                       "alternativas":  {
+                                            "a":  "on – in – at",
+                                            "b":  "in – on – at, sequência que decorre da extensão do período de tempo designado por cada uma das três expressões empregadas na frase",
+                                            "c":  "at – in – on, ordem que corresponde ao grau de precisão temporal atribuído a cada um dos três complementos presentes no enunciado",
+                                            "d":  "on – at – in, distribuição que se aplica igualmente a todas as construções de tempo formadas na língua inglesa contemporânea escrita",
+                                            "e":  "in – in – in, uma vez que a mesma preposição se emprega diante de qualquer expressão de tempo em construções desse tipo em inglês"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A regra vai do maior para o menor: \"in\" para meses, anos e partes do dia; \"on\" para dias e datas; \"at\" para horas exatas. A exceção é \"at night\", que foge do padrão de \"in the morning\".",
+                       "formato":  "lacunas",
+                       "banca":  "unesp"
+                   },
+                   {
+                       "id":  "ingles-116",
+                       "texto_apoio":  "\"The team decided ______ the protocol, and they avoided ______ the same mistake twice.\"",
+                       "enunciado":  "As lacunas são preenchidas, na ordem, por:",
+                       "alternativas":  {
+                                            "a":  "to revise – making",
+                                            "b":  "revising – to make",
+                                            "c":  "to revise – to make",
+                                            "d":  "revising – making",
+                                            "e":  "revise – make"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"Decide\" pede infinitivo com \"to\"; \"avoid\" pede gerúndio. A regência não segue lógica de sentido — é lista a memorizar, e esses dois estão entre os mais cobrados.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-117",
+                       "texto_apoio":  "Compare: (I) \"She used to work at night.\" (II) \"She is used to working at night.\"",
+                       "enunciado":  "O enunciado I indica ______ e o II indica ______; a diferença formal está em ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "hipótese improvável – hipótese provável – o modo verbal adotado em cada uma das duas construções apresentadas para análise no enunciado",
+                                            "b":  "estar acostumada a algo – hábito passado que cessou – o verbo principal aparecer no infinitivo em ambas as construções apresentadas para comparação",
+                                            "c":  "obrigação no passado – obrigação no presente – o emprego do verbo auxiliar em cada uma das duas orações propostas no enunciado da questão",
+                                            "d":  "ação pontual concluída – ação em andamento – o aspecto verbal expresso pela forma empregada em cada um dos dois enunciados comparados",
+                                            "e":  "hábito passado que cessou – estar acostumada a algo – \"to\" ser preposição em II, seguida de gerúndio"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Em \"used to work\", \"to\" faz parte do infinitivo e a estrutura marca hábito extinto. Em \"be used to\", \"to\" é preposição e por isso pede gerúndio — daí \"working\", nunca \"work\".",
+                       "formato":  "lacunas",
+                       "banca":  "unicamp"
+                   },
+                   {
+                       "id":  "ingles-118",
+                       "texto_apoio":  "\"The room was ______ noisy for the patient to sleep, and there were not ______ nurses on duty.\"",
+                       "enunciado":  "As lacunas são preenchidas, na ordem, por ______ e ______, formas que exprimem, respectivamente, ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "very – quite – grau máximo e grau intermediário de intensidade atribuídos às características descritas em cada uma das partes do período",
+                                            "b":  "enough – too – insuficiência e excesso, ordem que decorre da posição ocupada por cada um dos termos em relação à palavra que eles modificam",
+                                            "c":  "so – such – intensidade e consequência, valores que as duas formas assumem quando empregadas em orações subordinadas de resultado",
+                                            "d":  "too – enough – excesso e insuficiência",
+                                            "e":  "much – many – quantidade indeterminada aplicada a substantivos incontáveis e contáveis respectivamente na construção apresentada"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "\"Too\" indica excesso que impede algo e vem antes do adjetivo; \"enough\" indica suficiência e vem depois do adjetivo, mas antes do substantivo. A posição é o que mais engana nessa dupla.",
+                       "formato":  "lacunas",
+                       "banca":  "santacasa"
+                   },
+                   {
+                       "id":  "ingles-119",
+                       "texto_apoio":  "\"She is ______ nurse. ______ nurse who called you is waiting outside.\"",
+                       "enunciado":  "As lacunas são preenchidas, na ordem, por:",
+                       "alternativas":  {
+                                            "a":  "an – A",
+                                            "b":  "the – A",
+                                            "c":  "a – The",
+                                            "d":  "the – The",
+                                            "e":  "a – A"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A primeira ocorrência apenas classifica e pede artigo indefinido; a segunda é determinada pela oração relativa que a segue, e por isso exige o definido. É o mesmo raciocínio do português.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-120",
+                       "texto_apoio":  "Ordene os adjetivos: \"a ______ ______ ______ device\" (metal / new / small).",
+                       "enunciado":  "A ordem correta, segundo a norma da língua inglesa, é:",
+                       "alternativas":  {
+                                            "a":  "metal new small",
+                                            "b":  "small new metal",
+                                            "c":  "small metal new",
+                                            "d":  "metal small new",
+                                            "e":  "new small metal"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A sequência habitual é opinião, tamanho, idade, forma, cor, origem e material, com o material sempre colado ao substantivo. Tamanho vem antes de idade, o que descarta a alternativa (e) — a inversão mais tentadora para quem parte do português.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-121",
+                       "texto_apoio":  "Considere os termos: \"physician\", \"ambulatory\", \"condition\".",
+                       "enunciado":  "Em textos médicos, \"physician\" significa ______, \"ambulatory\" significa ______ e \"condition\" significa ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "farmacêutico – itinerante, que atende em domicílio – condicionamento do ambiente em que o paciente permanece durante a internação",
+                                            "b":  "físico – ambulatorial, relativo ao setor de atendimento – condição no sentido de requisito exigido para a realização de um procedimento",
+                                            "c":  "fisioterapeuta – ambulante, que se desloca entre setores – condicionamento físico avaliado durante a consulta realizada pelo profissional",
+                                            "d":  "médico – que caminha, não acamado – quadro clínico ou doença",
+                                            "e":  "físico – deambulatório, relativo ao ato de caminhar – condição social do paciente registrada na ficha de atendimento da instituição"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Os três enganam por semelhança: \"physician\" é médico, não físico; \"ambulatory patient\" é o que anda; e \"condition\" costuma ser o quadro, como em \"a heart condition\".",
+                       "formato":  "lacunas",
+                       "banca":  "einstein"
+                   },
+                   {
+                       "id":  "ingles-122",
+                       "texto_apoio":  "Considere: \"hypotension\", \"hypertension\", \"antipyretic\".",
+                       "enunciado":  "Os prefixos empregados indicam, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "acima do normal, abaixo do normal e a favor, ordem que decorre da origem grega de cada um dos três prefixos empregados nas palavras citadas",
+                                            "b":  "abaixo do normal, acima do normal e contra",
+                                            "c":  "ausência total, presença parcial e repetição, valores que os três prefixos assumem quando aplicados a termos da área médica em inglês",
+                                            "d":  "antes, depois e durante, indicando o momento em que se verifica a condição descrita por cada um dos três termos apresentados na questão",
+                                            "e":  "interno, externo e superficial, referências anatômicas que os prefixos estabelecem em relação à região do corpo mencionada em cada termo"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "\"Hypo-\" é abaixo, \"hyper-\" é acima e \"anti-\" é contra: antipirético é o que combate a febre. Os dois primeiros diferem por uma letra e trocá-los inverte o diagnóstico.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-123",
+                       "texto_apoio":  "Considere: \"appendicitis\", \"appendectomy\", \"cardiology\".",
+                       "enunciado":  "O sufixo \"-itis\" indica ______, \"-ectomy\" indica ______ e \"-ology\" indica ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "dor localizada – exame de imagem – especialidade profissional reconhecida pelos conselhos que regulamentam o exercício da atividade",
+                                            "b":  "remoção cirúrgica – inflamação – tratamento de uma doença determinada por meio de procedimentos clínicos definidos em protocolo próprio",
+                                            "c":  "inflamação – remoção cirúrgica – estudo de um campo",
+                                            "d":  "tumor benigno – tumor maligno – classificação das doenças segundo o órgão em que elas se manifestam no organismo do paciente",
+                                            "e":  "aumento de volume – redução de volume – medida da atividade funcional do órgão examinado durante a realização do procedimento"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Reconhecer sufixo permite deduzir o sentido de termo desconhecido: \"-itis\" é inflamação, \"-ectomy\" é retirada e \"-ology\" é estudo. Vale também para \"-otomy\", que é incisão, e \"-oscopy\", que é visualização.",
+                       "formato":  "lacunas",
+                       "banca":  "einstein"
+                   },
+                   {
+                       "id":  "ingles-124",
+                       "texto_apoio":  "\"Hand hygiene is the single most effective measure against hospital infection. Compliance, however, rarely exceeds sixty per cent, even in units where alcohol gel is available at every bed.\"",
+                       "enunciado":  "A ideia central do trecho é que:",
+                       "alternativas":  {
+                                            "a":  "a medida mais eficaz é também pouco cumprida",
+                                            "b":  "o álcool em gel está disponível em todos os leitos das unidades estudadas, informação que o autor apresenta como principal resultado da pesquisa",
+                                            "c":  "as infecções hospitalares atingem sessenta por cento dos pacientes internados nas unidades em que a pesquisa mencionada foi realizada",
+                                            "d":  "a higienização das mãos deveria ser substituída por outras medidas de eficácia comprovada nos serviços de maior volume de atendimento",
+                                            "e":  "a disponibilidade de insumos é o principal obstáculo ao cumprimento das medidas de prevenção adotadas pelas instituições de saúde citadas"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"However\" articula as duas informações e a segunda é o ponto: eficácia máxima, adesão baixa. A menção ao gel disponível serve para afastar a explicação fácil que a alternativa (e) propõe.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-125",
+                       "texto_apoio":  "\"He read the discharge letter twice, folded it, and put it in his pocket without asking anything.\"",
+                       "enunciado":  "Do trecho é possível inferir que o paciente:",
+                       "alternativas":  {
+                                            "a":  "estava com pressa de deixar o hospital, motivo pelo qual optou por adiar suas perguntas para um momento posterior à alta hospitalar",
+                                            "b":  "compreendeu integralmente o conteúdo do documento, o que dispensou qualquer pergunta ao profissional responsável pelo atendimento",
+                                            "c":  "discordava das orientações recebidas e decidiu não manifestar sua posição diante da equipe responsável pelo acompanhamento do caso",
+                                            "d":  "havia recebido o mesmo documento em ocasião anterior, o que explicaria a familiaridade demonstrada por ele durante a leitura realizada",
+                                            "e":  "pode não ter entendido, embora não o tenha demonstrado"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Ler duas vezes e não perguntar nada é indício, não prova. A inferência responsável fica no \"pode\": as demais alternativas afirmam com certeza algo que o trecho não autoriza.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-126",
+                       "texto_apoio":  "\"Before you leave, check that you have your prescription, your appointment card and a contact number for the ward.\"",
+                       "enunciado":  "A finalidade do enunciado é:",
+                       "alternativas":  {
+                                            "a":  "argumentar em favor da padronização dos procedimentos de alta hospitalar adotados pelas diferentes unidades da mesma instituição",
+                                            "b":  "descrever os documentos habitualmente entregues aos pacientes no momento da alta hospitalar nas instituições de saúde do país citado",
+                                            "c":  "instruir o leitor sobre o que verificar antes de sair",
+                                            "d":  "narrar a sequência de acontecimentos que antecedem a saída do paciente da unidade em que ele permaneceu internado por algum período",
+                                            "e":  "avaliar a qualidade do atendimento prestado pela equipe responsável pelo acompanhamento do paciente durante todo o período de internação"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"Check that you have\" é imperativo dirigido ao leitor, com lista do que conferir. O gênero é injuntivo — o texto não descreve nem argumenta, orienta uma conduta.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-127",
+                       "texto_apoio":  "\"Of course, nobody could possibly have predicted that a ward with one nurse for eighteen beds might run into difficulties.\"",
+                       "enunciado":  "O tom do enunciado é:",
+                       "alternativas":  {
+                                            "a":  "irônico, pois afirma o contrário do que quer dizer",
+                                            "b":  "neutro e informativo, limitando-se a registrar a proporção entre profissionais e leitos observada na unidade descrita pelo autor do texto",
+                                            "c":  "otimista, uma vez que o autor considera adequada a organização adotada pela unidade em questão diante dos recursos de que ela dispõe",
+                                            "d":  "técnico e especializado, com emprego de terminologia própria da área de gestão hospitalar na descrição da situação relatada no enunciado",
+                                            "e":  "hesitante, indicando que o autor não dispõe de informações suficientes para avaliar a situação descrita ao longo do enunciado apresentado"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"Of course\" e \"nobody could possibly have predicted\" diante de uma proporção absurda: a leitura literal é impossível. A ironia depende de o leitor reconhecer que o problema era previsível.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-128",
+                       "texto_apoio":  "\"The ward was understaffed, the equipment was outdated and the shifts were long. This is what the report failed to mention.\"",
+                       "enunciado":  "O pronome \"This\" retoma:",
+                       "alternativas":  {
+                                            "a":  "a unidade descrita no início do enunciado, referência que o pronome recupera por meio de relação de contiguidade com o termo anterior",
+                                            "b":  "apenas a última das três circunstâncias, uma vez que o pronome demonstrativo singular remete sempre ao elemento mais próximo dele no texto",
+                                            "c":  "o relatório mencionado na segunda oração, documento cuja elaboração é discutida ao longo do trecho apresentado para análise no enunciado",
+                                            "d":  "um elemento ainda não mencionado, que seria apresentado ao leitor no período imediatamente seguinte ao trecho reproduzido na questão",
+                                            "e":  "o conjunto das três circunstâncias mencionadas antes"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "\"This\" no singular pode retomar uma proposição inteira, não só um substantivo. Aqui ele empacota as três circunstâncias e as trata como um único conteúdo que o relatório omitiu.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-129",
+                       "texto_apoio":  "\"The programme was expanded; ______, waiting times fell. ______, the budget did not increase. Some units, ______ the paediatric ward, were left out.\"",
+                       "enunciado":  "As lacunas são preenchidas, na ordem, por:",
+                       "alternativas":  {
+                                            "a":  "however – As a result – in spite of, sequência que estabelece relações de oposição, consequência e concessão entre as três partes do período",
+                                            "b":  "as a result – However – such as",
+                                            "c":  "such as – In addition – as a result, distribuição que decorre da posição ocupada por cada um dos conectivos dentro da estrutura do texto",
+                                            "d":  "in spite of – Such as – however, arranjo que corresponde ao grau de formalidade exigido em cada uma das três construções apresentadas",
+                                            "e":  "therefore – Therefore – therefore, uma vez que as três lacunas estabelecem a mesma relação lógica entre as partes do enunciado apresentado"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A queda das filas decorre da expansão, o orçamento parado contraria a expectativa, e a ala pediátrica é exemplo das unidades excluídas. Consequência, oposição e exemplificação, nessa ordem.",
+                       "formato":  "lacunas",
+                       "banca":  "unesp"
+                   },
+                   {
+                       "id":  "ingles-130",
+                       "texto_apoio":  "Compare: (I) \"______ the delay, the procedure was completed.\" (II) \"______ the procedure was delayed, it was completed.\"",
+                       "enunciado":  "As lacunas são preenchidas por ______ e ______, porque a primeira é seguida de ______ e a segunda, de ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "However – Therefore – um substantivo – uma oração com sujeito e verbo, arranjo que corresponde ao grau de formalidade de cada construção",
+                                            "b":  "Although – Despite – uma oração com sujeito e verbo – um substantivo, distribuição que decorre da posição ocupada por cada conectivo na frase",
+                                            "c":  "Because of – Because – um substantivo – uma oração com sujeito e verbo, relação que ambos os conectivos estabelecem entre as duas partes",
+                                            "d":  "Despite – Although – um substantivo – uma oração com sujeito e verbo",
+                                            "e":  "In spite – Even – um adjetivo – um advérbio, formas exigidas por cada um dos dois conectivos apresentados nas construções da comparação"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Os dois exprimem concessão e diferem só no que vem depois: \"despite\" e \"in spite of\" pedem substantivo ou gerúndio; \"although\" e \"though\" pedem oração completa. \"Despite of\" não existe.",
+                       "formato":  "lacunas",
+                       "banca":  "unifesp"
+                   },
+                   {
+                       "id":  "ingles-131",
+                       "texto_apoio":  "\"She ______ a mistake in the dosage, but she ______ her best to correct it.\"",
+                       "enunciado":  "As lacunas são preenchidas, na ordem, por:",
+                       "alternativas":  {
+                                            "a":  "did – made",
+                                            "b":  "made – did",
+                                            "c":  "made – made",
+                                            "d":  "did – did",
+                                            "e":  "took – gave"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "\"Make a mistake\" e \"do your best\" são colocações fixas. Não há regra que as explique — a combinação se aprende inteira, como \"take a decision\" e \"give a hand\".",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-132",
+                       "texto_apoio":  "\"He ______ that the results were normal, and then he ______ me to come back in a month.\"",
+                       "enunciado":  "As lacunas são preenchidas, na ordem, por:",
+                       "alternativas":  {
+                                            "a":  "told – told",
+                                            "b":  "told – said",
+                                            "c":  "said – said",
+                                            "d":  "said – told",
+                                            "e":  "spoke – talked"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "\"Say\" não pede objeto de pessoa: diz-se algo. \"Tell\" pede: conta-se algo a alguém. Como a segunda lacuna vem seguida de \"me\", só \"told\" cabe ali.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-133",
+                       "texto_apoio":  "\"The dose depends ______ the weight; the delay resulted ______ a longer stay; the patient suffers ______ asthma.\"",
+                       "enunciado":  "As lacunas são preenchidas, na ordem, por ______, ______ e ______; trata-se de ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "on – in – from – regência fixa do verbo, que não segue a do português",
+                                            "b":  "of – on – with – tradução direta das preposições empregadas nas construções correspondentes da língua portuguesa em cada um dos casos",
+                                            "c":  "in – from – on – escolha livre entre as preposições disponíveis, sem que haja diferença de sentido entre as opções possíveis em inglês",
+                                            "d":  "from – of – in – variação regional do inglês, com formas distintas conforme a variedade adotada por quem produz o enunciado escrito",
+                                            "e":  "with – to – about – regência determinada pelo substantivo que segue cada um dos três verbos empregados nas construções apresentadas"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"Depend on\", \"result in\" e \"suffer from\" são fixas e não têm correspondência com \"depender de\", \"resultar em\" e \"sofrer de\" — só a segunda coincide. Traduzir a preposição é o erro que a questão testa.",
+                       "formato":  "lacunas",
+                       "banca":  "santacasa"
+                   },
+                   {
+                       "id":  "ingles-134",
+                       "texto_apoio":  "Voz ativa: \"The nurse gave the patient a leaflet.\"",
+                       "enunciado":  "Uma transposição correta para a voz passiva é:",
+                       "alternativas":  {
+                                            "a":  "\"The patient gave a leaflet to the nurse\", reformulação que mantém a voz ativa e apenas inverte os papéis das duas personagens citadas",
+                                            "b":  "\"The leaflet was given the patient by the nurse\", construção em que o objeto indireto permanece na mesma posição ocupada na voz ativa",
+                                            "c":  "\"The nurse was given a leaflet by the patient\", transposição obtida pela inversão dos dois termos nominais presentes na oração original",
+                                            "d":  "\"A leaflet gave the patient by the nurse\", construção que preserva a ordem dos termos e apenas altera a forma verbal empregada na frase",
+                                            "e":  "\"The patient was given a leaflet.\""
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Com verbos de dois objetos, o inglês admite promover qualquer um deles a sujeito da passiva, e a forma com pessoa é a mais natural. A alternativa (c) inverte quem deu e quem recebeu.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-135",
+                       "texto_apoio":  "Compare: (I) \"She checked the equipment.\" (II) \"She had the equipment checked.\"",
+                       "enunciado":  "Em I ela ______ e em II ela ______; a estrutura de II é chamada ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "verificou uma vez – verificou repetidamente – aspectual, construção que exprime a frequência com que a ação descrita foi realizada",
+                                            "b":  "providenciou que outro verificasse – verificou pessoalmente – passiva, forma em que o sujeito sofre a ação expressa pelo verbo da oração",
+                                            "c":  "verificou pessoalmente – providenciou que outro verificasse – causativa",
+                                            "d":  "pretendia verificar – já havia verificado – perfectiva, estrutura que situa a ação antes de outro momento também situado no passado",
+                                            "e":  "verificou parcialmente – verificou integralmente – enfática, construção destinada a reforçar a completude da ação descrita pelo verbo"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"Have something done\" indica que se providenciou o serviço, não que se o executou. É a diferença entre cortar o próprio cabelo e cortar o cabelo no salão — \"I had my hair cut\".",
+                       "formato":  "lacunas",
+                       "banca":  "unicamp"
+                   },
+                   {
+                       "id":  "ingles-136",
+                       "texto_apoio":  "Compare: (I) \"The nurses who work at night receive an allowance.\" (II) \"The nurses, who work at night, receive an allowance.\"",
+                       "enunciado":  "Em I a oração relativa é ______ e informa que ______; em II ela é ______ e informa que ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "coordenada – as duas informações têm o mesmo peso – subordinada – a segunda informação depende sintaticamente da primeira na frase",
+                                            "b":  "explicativa – só parte delas trabalha à noite – restritiva – todas trabalham à noite, distinção marcada pela presença do pronome relativo",
+                                            "c":  "reduzida – o adicional é pago mensalmente – desenvolvida – o adicional é pago por turno efetivamente cumprido por cada profissional",
+                                            "d":  "adverbial – o adicional depende do horário – substantiva – o adicional independe do horário em que o turno é cumprido pela equipe",
+                                            "e":  "restritiva – só parte delas trabalha à noite – explicativa – todas trabalham à noite"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "As vírgulas fazem todo o trabalho, exatamente como em português: sem elas a oração delimita quais enfermeiras recebem; com elas, informa que todas trabalham à noite e todas recebem.",
+                       "formato":  "lacunas",
+                       "banca":  "unifesp"
+                   },
+                   {
+                       "id":  "ingles-137",
+                       "texto_apoio":  "\"The light is on, so she ______ still be in the office. She ______ have left already — her coat is here.\"",
+                       "enunciado":  "As lacunas são preenchidas por ______ e ______, modais que exprimem, respectivamente, ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "should – shouldn\u0027t – recomendação positiva e recomendação negativa dirigidas ao interlocutor em cada uma das duas situações descritas",
+                                            "b":  "can\u0027t – must – dedução negativa e dedução afirmativa, ordem que decorre da posição ocupada por cada uma das orações no período composto",
+                                            "c":  "must – can\u0027t – dedução afirmativa e dedução negativa",
+                                            "d":  "may – might – possibilidade remota e possibilidade provável, graus que os dois modais exprimem em construções desse tipo em inglês",
+                                            "e":  "will – won\u0027t – previsão sobre acontecimentos futuros formulada a partir das evidências disponíveis no momento em que se fala ao interlocutor"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Para deduzir a partir de evidência, o inglês usa \"must\" na afirmativa e \"can\u0027t\" na negativa — nunca \"mustn\u0027t\", que proíbe. Luz acesa: deve estar; casaco na sala: não pode ter saído.",
+                       "formato":  "lacunas",
+                       "banca":  "unesp"
+                   },
+                   {
+                       "id":  "ingles-138",
+                       "texto_apoio":  "\"Look at that queue — it ______ take hours. I ______ call the ward to warn them. I ______ the results at four, it is already booked.\"",
+                       "enunciado":  "As lacunas são preenchidas, na ordem, por ______, ______ e ______; as três formas exprimem ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "will – is going to – collect – decisão do momento, previsão com evidência e ação habitual repetida ao longo do período mencionado no texto",
+                                            "b":  "is going to – will – am collecting – previsão com evidência, decisão do momento e compromisso agendado",
+                                            "c":  "am collecting – will – is going to – compromisso agendado, decisão do momento e previsão apoiada em evidência disponível naquele instante",
+                                            "d":  "collects – collected – will collect – presente habitual, passado concluído e futuro simples, tempos que se sucedem na ordem apresentada",
+                                            "e":  "would – should – might – hipótese, recomendação e possibilidade remota expressas por cada uma das três formas modais empregadas na frase"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "O inglês distribui o futuro por três formas: \"going to\" quando há evidência presente, \"will\" para a decisão tomada na hora, e o present continuous para compromisso já marcado.",
+                       "formato":  "lacunas",
+                       "banca":  "einstein"
+                   },
+                   {
+                       "id":  "ingles-139",
+                       "texto_apoio":  "\"The patient weighs 72 kg and is 1.68 m tall. His temperature is 38.4 °C.\"",
+                       "enunciado":  "Sobre a notação numérica empregada, é correto afirmar que, em inglês:",
+                       "alternativas":  {
+                                            "a":  "o ponto separa os milhares e a vírgula separa os decimais, convenção idêntica à adotada nos textos escritos em língua portuguesa",
+                                            "b":  "a vírgula marca a casa decimal, do mesmo modo como ocorre na notação adotada pela língua portuguesa em textos de natureza técnica",
+                                            "c":  "não há separador decimal, sendo os valores fracionários sempre expressos por meio de frações escritas por extenso ao longo do texto",
+                                            "d":  "o ponto marca a casa decimal, onde o português usa vírgula",
+                                            "e":  "as unidades de medida precedem o valor numérico, ordem inversa à adotada na notação empregada pelos textos em língua portuguesa"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "É inversão total: onde o português escreve 38,4 e 1.000, o inglês escreve 38.4 e 1,000. Num contexto de dose ou de resultado laboratorial, confundir os dois separadores é erro caro.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-140",
+                       "texto_apoio":  "Numa prescrição em inglês lê-se: \"Paracetamol 500 mg PO q6h PRN\".",
+                       "enunciado":  "As abreviações indicam, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "via oral, a cada seis horas, se necessário",
+                                            "b":  "via parenteral, quatro vezes ao dia e em dose única, conforme a convenção adotada nas prescrições redigidas em língua inglesa nos serviços",
+                                            "c":  "por prescrição obrigatória, a cada seis dias e sob prescrição renovável a critério do profissional responsável pelo acompanhamento do caso",
+                                            "d":  "pós-operatório, em regime de vinte e quatro horas e com prioridade de dispensação junto à farmácia responsável pelo atendimento da unidade",
+                                            "e":  "por ordem do plantonista, quatro comprimidos por hora e para uso permanente durante todo o período em que o paciente estiver internado"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "PO vem de \"per os\", pela boca; q6h é \"quaque 6 hora\"; PRN é \"pro re nata\", conforme a necessidade. As abreviações vêm do latim e circulam iguais em inglês.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-141",
+                       "texto_apoio":  "Uma agenda registra a data como \"03/04/2026\".",
+                       "enunciado":  "A leitura dessa data:",
+                       "alternativas":  {
+                                            "a":  "difere entre o padrão britânico e o americano",
+                                            "b":  "é idêntica nos dois padrões, uma vez que a ordem dos elementos foi uniformizada por convenção internacional adotada por todos os países",
+                                            "c":  "segue sempre a ordem ano, mês e dia nos textos escritos em língua inglesa, independentemente da variedade adotada por quem escreve",
+                                            "d":  "depende exclusivamente do contexto em que a data aparece, sem que exista qualquer convenção estabelecida para a escrita em cada país",
+                                            "e":  "é impossível de determinar sem a indicação expressa do dia da semana correspondente à data registrada no documento em questão"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "No Reino Unido lê-se 3 de abril; nos Estados Unidos, 4 de março. Em documento clínico, a saída é escrever o mês por extenso — ambiguidade de data já custou erro de conduta.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-142",
+                       "texto_apoio":  "Compare: (I) \"I am writing to request access to the records of patient 4417.\" (II) \"Hey — can you send me the 4417 file? Thanks!\"",
+                       "enunciado":  "Os dois enunciados diferem quanto:",
+                       "alternativas":  {
+                                            "a":  "à variedade geográfica, com o primeiro correspondendo ao padrão britânico e o segundo ao padrão empregado nos Estados Unidos da América",
+                                            "b":  "ao conteúdo informativo, uma vez que apenas o primeiro identifica com precisão o documento solicitado por quem redige a mensagem enviada",
+                                            "c":  "à correção gramatical, sendo o segundo incompatível com as regras que organizam a língua inglesa escrita em qualquer situação de uso",
+                                            "d":  "à finalidade, já que o primeiro solicita um documento e o segundo comunica uma decisão previamente tomada por quem escreve a mensagem",
+                                            "e":  "ao registro, sendo o primeiro formal e o segundo informal"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Os dois pedem a mesma coisa. Um usa fórmula de abertura, verbo pleno e identificação completa; o outro usa \"hey\", contração e ponto de exclamação. Registro é ajuste ao destinatário, não correção.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-143",
+                       "texto_apoio":  "\"First, wash your hands. Then, put on the gloves. Finally, check the patient\u0027s identification before starting.\"",
+                       "enunciado":  "Os termos destacados cumprem a função de:",
+                       "alternativas":  {
+                                            "a":  "indicar o grau de importância atribuído a cada uma das ações listadas, em ordem decrescente ao longo do trecho reproduzido na questão",
+                                            "b":  "estabelecer relações de causa e consequência entre as ações descritas em cada uma das três orações que compõem o trecho apresentado",
+                                            "c":  "marcar oposição entre as etapas mencionadas, indicando que a realização de uma delas exclui a possibilidade de executar as demais",
+                                            "d":  "ordenar as etapas do procedimento",
+                                            "e":  "sinalizar a duração aproximada de cada uma das etapas descritas, informação necessária ao planejamento do tempo destinado ao procedimento"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "\"First\", \"then\", \"finally\" são marcadores de sequência, próprios do texto injuntivo. Não estabelecem causa nem hierarquia de importância — organizam a ordem em que se executa.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-144",
+                       "texto_apoio":  "\"The graph shows the number of consultations per month over three years.\"",
+                       "enunciado":  "A expressão \"per month\" indica que os valores estão:",
+                       "alternativas":  {
+                                            "a":  "comparados ao total anual registrado em cada um dos três anos abrangidos pelo levantamento apresentado no gráfico mencionado no texto",
+                                            "b":  "acumulados desde o início do período analisado, de modo que cada ponto do gráfico soma todos os valores registrados até aquele momento",
+                                            "c":  "expressos por unidade de tempo mensal",
+                                            "d":  "convertidos em percentual do total observado durante todo o período, o que permite comparar meses de extensões diferentes entre si",
+                                            "e":  "distribuídos entre os diferentes serviços da instituição, informação necessária para interpretar corretamente os dados apresentados"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"Per\" indica proporção por unidade: por mês, por paciente, por mil habitantes. Não é acumulado nem percentual — distinção que decide a leitura de qualquer gráfico.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-145",
+                       "texto_apoio":  "\"Admissions ______ sharply in January, ______ slightly in February and ______ from March onwards.\"",
+                       "enunciado":  "As lacunas são preenchidas, na ordem, por ______, ______ e ______, verbos que descrevem, respectivamente, ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "fell – rose – peaked – queda acentuada, alta leve e pico máximo atingido durante o período abrangido pelo levantamento apresentado",
+                                            "b":  "rose – fell – levelled off – alta acentuada, queda leve e estabilização",
+                                            "c":  "levelled off – peaked – rose – estabilização, pico e alta, sequência que corresponde à ordem cronológica dos meses citados no enunciado",
+                                            "d":  "fluctuated – doubled – halved – oscilação, duplicação e redução pela metade dos valores registrados em cada um dos três períodos citados",
+                                            "e":  "increased – increased – increased – alta contínua ao longo dos três períodos mencionados, sem qualquer variação de sentido entre eles"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "O vocabulário de tendência é fixo: \"rise\" e \"fall\" para direção, \"sharply\" e \"slightly\" para intensidade, \"level off\" para a curva que para de variar. \"Peak\" é o ponto máximo, não uma direção.",
+                       "formato":  "lacunas",
+                       "banca":  "unesp"
+                   },
+                   {
+                       "id":  "ingles-146",
+                       "texto_apoio":  "\"The shortage of staff led to longer waiting times, which in turn caused a rise in complaints.\"",
+                       "enunciado":  "As expressões \"led to\" e \"caused\" estabelecem, no período:",
+                       "alternativas":  {
+                                            "a":  "uma sequência cronológica sem qualquer relação de determinação entre os acontecimentos mencionados ao longo do enunciado apresentado",
+                                            "b":  "uma oposição entre dois fatores independentes que atuaram simultaneamente sobre o serviço descrito ao longo do período mencionado no texto",
+                                            "c":  "uma comparação entre duas situações distintas registradas em momentos diferentes do período abrangido pelo levantamento apresentado",
+                                            "d":  "uma cadeia de causa e efeito em dois elos",
+                                            "e":  "uma concessão, admitindo que os fatos descritos ocorreram apesar das medidas adotadas pela administração responsável pelo serviço"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Falta de pessoal causa espera maior, que por sua vez causa mais reclamações. \"In turn\" marca justamente o segundo elo — o efeito do primeiro passo vira causa do seguinte.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-147",
+                       "texto_apoio":  "Compare: (I) \"This treatment cures the condition.\" (II) \"This treatment may help to control the condition in some patients.\"",
+                       "enunciado":  "O enunciado II difere do I por empregar:",
+                       "alternativas":  {
+                                            "a":  "linguagem técnica especializada, inacessível ao público não familiarizado com a terminologia empregada na área de que trata o enunciado",
+                                            "b":  "modalização, que reduz o grau de compromisso com a afirmação",
+                                            "c":  "negação implícita, uma vez que a formulação adotada equivale a afirmar que o tratamento não produz qualquer efeito sobre a condição",
+                                            "d":  "voz passiva, construção que desloca o foco do agente para o processo descrito ao longo do enunciado apresentado para comparação",
+                                            "e":  "linguagem figurada, com emprego de metáforas que aproximam o efeito descrito de processos observados em outros campos do conhecimento"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "\"May\", \"help to\", \"in some patients\": três atenuadores no mesmo enunciado. É a linguagem cautelosa do texto científico, que ajusta a afirmação ao que a evidência efetivamente sustenta.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-148",
+                       "texto_apoio":  "Considere duas tarefas: descobrir rapidamente do que trata um texto longo; encontrar nele uma data específica.",
+                       "enunciado":  "A primeira tarefa exige ______ e a segunda, ______; a diferença está em ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "tradução integral – leitura em voz alta – o grau de domínio do vocabulário exigido por cada uma das duas atividades propostas ao leitor",
+                                            "b":  "scanning – skimming – buscar o sentido geral ou uma informação pontual, ordem que corresponde à sequência em que as duas tarefas foram propostas",
+                                            "c":  "skimming – scanning – buscar o sentido geral ou uma informação pontual",
+                                            "d":  "leitura analítica – leitura crítica – a profundidade da interpretação exigida em cada uma das duas situações apresentadas no enunciado",
+                                            "e":  "consulta ao dicionário – leitura contextual – a disponibilidade de recursos de apoio durante a realização de cada uma das duas tarefas"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Skimming passa os olhos para captar o assunto; scanning varre atrás de um dado específico e ignora o resto. As duas dispensam entender cada palavra, e é isso que as torna úteis em prova cronometrada.",
+                       "formato":  "lacunas",
+                       "banca":  "unifesp"
+                   },
+                   {
+                       "id":  "ingles-149",
+                       "texto_apoio":  "Compare: \"They will record the data\" e \"Check the record.\"",
+                       "enunciado":  "A palavra \"record\" muda de classe gramatical e, com isso, altera:",
+                       "alternativas":  {
+                                            "a":  "a posição da sílaba tônica na pronúncia",
+                                            "b":  "a grafia, que recebe acento gráfico na forma verbal para distingui-la da forma substantiva correspondente na escrita da língua inglesa",
+                                            "c":  "o número de sílabas, uma vez que a forma verbal apresenta uma sílaba a mais do que a forma substantiva empregada no segundo enunciado",
+                                            "d":  "o significado de base, que passa a não guardar qualquer relação com o sentido expresso pela outra das duas ocorrências do mesmo termo",
+                                            "e":  "a origem etimológica, sendo cada uma das duas formas proveniente de uma língua distinta incorporada ao inglês em períodos diferentes"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "O verbo tem tônica na segunda sílaba e o substantivo, na primeira. O padrão se repete em \"present\", \"increase\", \"object\" e \"conflict\" — a grafia é idêntica e só o acento distingue.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-150",
+                       "texto_apoio":  "Nas provas das sete bancas paulistas, as questões de inglês partem quase sempre de um texto e cobram compreensão, referência, vocabulário em contexto e inferência.",
+                       "enunciado":  "Essa configuração indica que o que se avalia é, principalmente:",
+                       "alternativas":  {
+                                            "a":  "o domínio das regras de conjugação verbal, avaliadas em questões específicas que compõem a maior parte de cada uma das provas aplicadas",
+                                            "b":  "a fluência oral do candidato, habilidade verificada por meio das questões de compreensão apresentadas ao longo de cada uma das provas",
+                                            "c":  "o volume de vocabulário memorizado previamente, único critério capaz de distinguir os candidatos segundo o desempenho obtido na prova",
+                                            "d":  "a familiaridade com a cultura dos países de língua inglesa, conteúdo que as bancas cobram por meio de referências históricas nos textos",
+                                            "e":  "a capacidade de ler e extrair sentido, e não o domínio da gramática isolada"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "A gramática aparece a serviço da leitura: identificar a que \"it\" se refere, o que \"however\" articula, o que um modal comunica. Quem lê bem resolve a maioria sem conjugar nada.",
+                       "formato":  "direta"
                    }
                ],
     "interpretacao-texto":  [
@@ -16811,6 +18183,31 @@ window.QUESTION_TEXTS = {
                        "fonte":  "Entrevista ficticia original em ingles escrita para este banco",
                        "conteudo":  "INTERVIEW — \"THE NIGHT IS NOT A SHORTER DAY\"\n\nA nurse with twenty-two years on night shifts talks about what the schedule does to people.\n\n— People say you get used to nights. Do you?\n— You get used to the routine. You do not get used to the biology. After twenty-two years I still sleep badly on my first day off. What changes is that you stop being surprised by it.\n\n— Is there anything that genuinely helps?\n— Rotating forwards instead of backwards. Morning, then afternoon, then night — never the other way round. It sounds like a detail and it is not. And enough days between blocks. Two is not enough, whatever the roster says.\n\n— And light?\n— Light is the underrated one. Bright light during the shift, dark glasses on the way home, blackout curtains. Most people do the third and skip the first two, and then wonder why it does not work.\n\n— What about food?\n— Eat before the shift, not in the middle of it. The body is not expecting a meal at three in the morning and it deals with it badly. That was the hardest thing for me to change, because eating at four is what breaks up the night.\n\n— Would you recommend the job to someone starting now?\n— I would recommend going in with your eyes open. The problem is not that nights are hard. It is that people are told they are hard for a few years and then get easier, and that is not true."
                    },
+    "med-ing-t6":  {
+                       "id":  "med-ing-t6",
+                       "fonte":  "Artigo original em ingles escrito para este banco",
+                       "conteudo":  "WHAT THE CHECKLIST DID\n\nThe surgical safety checklist is a page of questions read aloud before an operation. Is this the right patient? The right side? Has everyone in the room introduced themselves? Have the antibiotics been given? It takes about two minutes.\n\nWhen it was first proposed, the objection was predictable and reasonable: surgeons already know these things. That was exactly the point. Almost every item on the list is something the team knows and occasionally fails to do, and the failures do not distribute themselves evenly. They cluster on long days, on unfamiliar teams, on cases that begin as routine.\n\nThe results, where the checklist was properly introduced, were larger than most drug trials produce. Complications fell. So did deaths. And yet adoption has been uneven, and in some hospitals the list is signed without being read.\n\nThe reason is not laziness. A checklist works because it changes what the room permits: when the most junior person in it has been asked to say their name out loud, they are measurably more likely to speak up later, when something looks wrong. Sign the paper without the conversation and you keep the paperwork and lose the mechanism.\n\nThis is the general shape of the problem. Interventions that depend on behaviour are copied as procedures, and procedures are what remain when the behaviour is dropped."
+                   },
+    "med-ing-t7":  {
+                       "id":  "med-ing-t7",
+                       "fonte":  "Artigo original em ingles escrito para este banco",
+                       "conteudo":  "MORE TESTS, MORE PATIENTS\n\nIf you look hard enough for something, you will find it. This is not a criticism of thoroughness; it is a description of what happens when a sensitive test is applied to a population that is mostly well.\n\nConsider a condition that grows so slowly that most people who have it will die of something else first. Screening finds it. The person is told they have a disease, is treated, and survives — and is counted as a life saved, even though nothing would have happened had the test never been done. The statistics improve. The person does not.\n\nThis is called overdiagnosis, and it is difficult to discuss for two reasons. The first is that it is invisible at the level of the individual: nobody can be told which of the treated patients did not need treatment. The second is that the alternative sounds worse than it is. Deciding not to look is uncomfortable, even when looking causes more harm than it prevents.\n\nNone of this argues against screening as such. It argues for asking, of each programme, a question that sounds obvious and is often skipped: does finding this earlier change what happens to the person?\n\nWhere the answer is yes, screening saves lives. Where it is no, it produces patients."
+                   },
+    "med-ing-t8":  {
+                       "id":  "med-ing-t8",
+                       "fonte":  "Quatro textos praticos ficticios originais em ingles escritos para este banco",
+                       "conteudo":  "FOUR SHORT TEXTS\n\n1. NOTICE — MAIN ENTRANCE\nVisiting hours are 2 p.m. to 8 p.m. Two visitors per bed at a time. Children under twelve are not permitted in the intensive care unit. If you have had a fever, a cough or diarrhoea in the last 48 hours, please do not visit.\n\n2. LABEL\nStore below 25 °C. Do not refrigerate. Keep out of reach of children. Discard 28 days after opening, even if the container is not empty. Shake well before use.\n\n3. EMAIL\nSubject: Shift swap — Saturday\nHi Dan. Any chance you could take my Saturday night and I take your Tuesday? I have a family thing I can\u0027t move. If it doesn\u0027t work, no problem at all — I\u0027ll ask around. Let me know either way by Thursday so I can sort it out in time. Thanks, Marta.\n\n4. ADVERTISEMENT\nNight Auxiliary Nurse — 3 nights a week\nWe are looking for someone reliable rather than someone experienced; training is provided. Applicants must be available at weekends at least twice a month. Previous work in a care setting is welcome but not required. Applications close on 30 April."
+                   },
+    "med-ing-t9":  {
+                       "id":  "med-ing-t9",
+                       "fonte":  "Relato ficticio original em ingles escrito para este banco",
+                       "conteudo":  "FIRST YEAR\n\nNobody warns you about the smell of the anatomy lab, and everybody warns you about everything else.\n\nI had expected the volume of material and I was right to. What I had not expected was how quickly the difficulty stops being intellectual. By November the problem was not understanding the biochemistry; it was sitting down to read it at nine at night for the fourth week running. The skill being tested was not the one I had trained for.\n\nThe second surprise was the other students. I arrived expecting competition and found something stranger: a group of people who were all quietly convinced that everyone else was coping better. We compared notes for months before anyone admitted to being behind, and when someone finally did, four of us said the same thing within a minute.\n\nThe third surprise was the patient. In the second semester we were sent to a ward to practise taking a history — a conversation, nothing more. Mine was a man in his seventies who answered my questions patiently and then asked one of his own, which I could not answer, about how long he would be there. I said I did not know. He said that was all right, that nobody did, and thanked me for coming. I have thought about that exchange more than about anything I read that year.\n\nNone of this is advice. It is only what the first year was, once the warnings ran out."
+                   },
+    "med-ing-t10":  {
+                        "id":  "med-ing-t10",
+                        "fonte":  "Artigo original em ingles escrito para este banco",
+                        "conteudo":  "HEAT\n\nHeat kills quietly. Unlike a flood or a storm, it leaves no wreckage to photograph, and the deaths it causes are usually recorded under another name: heart failure, kidney failure, respiratory arrest. The person had a condition; the heat is what made the week fatal.\n\nThis is why the toll of a heatwave is estimated rather than counted. Researchers compare the number of deaths in the affected days with the number expected in an ordinary week, and the gap is called excess mortality. The method is indirect and it is the best available.\n\nWho dies is not random. Old people, whose bodies regulate temperature less well and who often live alone. People on certain medications. People whose work is outdoors and cannot be rescheduled. People in flats under a roof, in neighbourhoods with no trees, in cities built to hold heat rather than release it.\n\nThat last group is the reason heat is a planning problem and not only a health one. A tree on a street lowers the temperature beneath it by several degrees, and shade is not distributed by chance: it follows the map of who was able to demand it. The same is true of air conditioning, of insulation, of whether a window opens.\n\nForecasting a heatwave is now reliable. Knowing which streets it will empty and which it will kill in is also possible. What is missing is rarely the information."
+                    },
     "med-int-t1":  {
                        "id":  "med-int-t1",
                        "fonte":  "Cronica original escrita para este banco",

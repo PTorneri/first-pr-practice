@@ -95,7 +95,7 @@ window.SUBTOPICS = [
     "buscaVideo": ["aula filosofia sociologia vestibular", "filosofia política ética vestibular"]
   },
   {
-    "id": "artes",
+    "id": "artes-cultura",
     "area": "Ciências Humanas",
     "nome": "Artes e Cultura",
     "descricao": "Leitura de obra, movimentos e diálogo entre imagem e texto. Cerca de 7 questões na 1ª fase da FUVEST.",

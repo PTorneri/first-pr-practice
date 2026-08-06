@@ -32,7 +32,7 @@ window.PRIORITY_WEIGHTS_POR_BANCA = {
     "literatura": 3,             // 10 discursivas sobre a lista obrigatória
     "gramatica": 2.5,
     "historia": 2,               // ~10 objetivas, fora da 2ª fase de Medicina
-    "artes": 2,                  // ~7 objetivas
+    "artes-cultura": 2,                  // ~7 objetivas
     "atualidades": 2,            // fontes de até 6 meses antes da prova
     "filosofia-sociologia": 1.5,
     "ingles": 1.5,               // ~4 objetivas, ausente na 2ª fase
@@ -51,7 +51,7 @@ window.PRIORITY_WEIGHTS_POR_BANCA = {
     "historia": 2,               // 7 das 72
     "filosofia-sociologia": 2,   // 6 das 72
     "ingles": 2,                 // interdisciplinar na 2ª fase, respondido em português
-    "artes": 1.5,
+    "artes-cultura": 1.5,
     "fisica": 1.5                // 7 na 1ª fase e ZERO na 2ª fase de Medicina
   },
 
@@ -63,7 +63,7 @@ window.PRIORITY_WEIGHTS_POR_BANCA = {
     "filosofia-sociologia": 3,   // 4 discursivas em 2026.1 — o dobro de Biologia
     "gramatica": 2.5,
     "ingles": 2.5,               // 10 na 1ª fase + 4 discursivas
-    "artes": 2,
+    "artes-cultura": 2,
     "atualidades": 2,
     "biologia": 2,               // 2 ou 3 das 36 discursivas
     "quimica": 2,
@@ -84,7 +84,7 @@ window.PRIORITY_WEIGHTS_POR_BANCA = {
     "geografia": 2,              // idem
     "atualidades": 1.5,
     "filosofia-sociologia": 1.5,
-    "artes": 1
+    "artes-cultura": 1
   },
 
   einstein: {
@@ -100,7 +100,7 @@ window.PRIORITY_WEIGHTS_POR_BANCA = {
     "literatura": 2,
     "atualidades": 2,
     "filosofia-sociologia": 0.5, // não cai isolada
-    "artes": 0.5
+    "artes-cultura": 0.5
   },
 
   santacasa: {
@@ -116,7 +116,7 @@ window.PRIORITY_WEIGHTS_POR_BANCA = {
     "geografia": 2,
     "atualidades": 1.5,
     "filosofia-sociologia": 0.5, // não cai isolada
-    "artes": 0.5
+    "artes-cultura": 0.5
   },
 
   pucsp: {
@@ -131,7 +131,7 @@ window.PRIORITY_WEIGHTS_POR_BANCA = {
     "historia": 1.5,             // Humanas é peso 0,5
     "geografia": 1.5,
     "filosofia-sociologia": 1.5,
-    "artes": 1,
+    "artes-cultura": 1,
     "matematica": 0.5            // 5 questões com peso 0,5 = 5% da nota final
   }
 };

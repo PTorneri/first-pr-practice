@@ -89,7 +89,7 @@ window.VIDEO_TOPICS = {
     { tema: "Clássicos da sociologia: Marx, Durkheim e Weber", busca: "aula marx durkheim weber vestibular" },
     { tema: "Poder, trabalho e sociedade contemporânea", busca: "aula foucault poder trabalho contemporâneo vestibular" },
   ],
-  "artes": [
+  "artes-cultura": [
     { tema: "Renascimento e Barroco", busca: "aula renascimento barroco história da arte vestibular" },
     { tema: "Vanguardas europeias e Modernismo brasileiro", busca: "aula vanguardas modernismo artes vestibular" },
     { tema: "Leitura de obra: composição e ponto de vista", busca: "aula análise de obra de arte vestibular" },

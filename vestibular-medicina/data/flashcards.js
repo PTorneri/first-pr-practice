@@ -51,7 +51,7 @@ window.FLASHCARDS = {
   "filosofia-sociologia": [
     { "id": "flash-med-fil-01", "frente": "Empirismo × racionalismo: qual é a pergunta em disputa?", "verso": "A ORIGEM do conhecimento. Empirismo (Locke): a mente é tábula rasa, tudo vem da experiência. Racionalismo: há princípios que a razão reconhece sem verificação sensível. Não é sobre a possibilidade do conhecimento — isso é ceticismo × dogmatismo." },
   ],
-  "artes": [
+  "artes-cultura": [
     { "id": "flash-med-art-01", "frente": "Traços do Pós-Impressionismo numa tela", "verso": "Volume construído por planos de cor justapostos em vez de contorno, perspectiva deliberadamente deformada e repetição do mesmo motivo em várias telas. Cézanne é o caso exemplar." },
   ],
   "atualidades": [

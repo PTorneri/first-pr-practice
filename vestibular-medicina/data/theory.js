@@ -184,7 +184,7 @@ window.THEORY = {
     subtemas: [],
   },
 
-  "artes": {
+  "artes-cultura": {
     resumo: "Cerca de 7 questões na 1ª fase da FUVEST, e leitura de obra aparece dentro de blocos de Humanas nas demais. Quase sempre com a imagem na página.",
     gatilhos: [
       "Obra reproduzida → descreva composição, luz e ponto de vista antes de tentar nomear o movimento.",

@@ -4615,6 +4615,919 @@ window.QUESTION_BANKS = {
                        "formato":  "direta"
                    }
                ],
+    "geografia":  [
+                      {
+                          "id":  "geografia-01",
+                          "texto_apoio":  "Duas cidades situadas na mesma latitude apresentam temperaturas médias muito diferentes: uma está a 900 m de altitude, a outra ao nível do mar; uma fica no litoral, a outra a 600 km da costa.",
+                          "enunciado":  "As diferenças descritas decorrem dos fatores climáticos ______ e ______; o primeiro atua porque ______ e o segundo porque ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "vegetação – relevo – a cobertura vegetal reduz a evaporação da água disponível no solo – as elevações barram a passagem das massas de ar úmidas",
+                                               "b":  "latitude – longitude – a inclinação dos raios solares varia com a distância ao equador – os fusos horários alteram o período de insolação recebido",
+                                               "c":  "altitude – continentalidade – o ar se rarefaz e retém menos calor – a água regula a temperatura do ar próximo",
+                                               "d":  "correntes marítimas – pressão atmosférica – as águas frias resfriam o litoral adjacente – os centros de alta pressão impedem a formação de nuvens",
+                                               "e":  "maritimidade – latitude – a proximidade do mar eleva a umidade relativa do ar – a distância ao equador determina a duração de cada estação do ano"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Com a mesma latitude, a insolação recebida é semelhante e a diferença vem de outros fatores. A altitude reduz a temperatura cerca de 0,6 °C a cada 100 m; a continentalidade amplia a amplitude térmica porque falta a água, que aquece e resfria devagar.",
+                          "formato":  "lacunas",
+                          "banca":  "fuvest"
+                      },
+                      {
+                          "id":  "geografia-02",
+                          "texto_apoio":  "O território brasileiro é influenciado por massas de ar de origens distintas, entre elas a Equatorial continental, a Tropical atlântica e a Polar atlântica.",
+                          "enunciado":  "A massa Polar atlântica é responsável, sobretudo, por:",
+                          "alternativas":  {
+                                               "a":  "quedas bruscas de temperatura no Sul e no Sudeste, e pela friagem na Amazônia",
+                                               "b":  "pelas chuvas convectivas de verão registradas na porção central do território brasileiro durante os meses de maior aquecimento da superfície",
+                                               "c":  "pela estabilidade atmosférica e pela escassez de chuvas observada no interior do Nordeste ao longo da maior parte dos meses do ano",
+                                               "d":  "pela umidade elevada que alimenta a floresta amazônica, transportada a partir do oceano em direção ao interior do continente sul-americano",
+                                               "e":  "pela formação das brisas marítimas que regulam a temperatura das cidades litorâneas ao longo das diferentes estações do ano no país"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "A mPa se forma sobre águas frias do Atlântico Sul e avança pelo continente. No inverno ela provoca as frentes frias do Sul e do Sudeste e, quando chega longe, a friagem no oeste da Amazônia — fenômeno que surpreende quem imagina a região sempre quente.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-03",
+                          "texto_apoio":  "O Brasil apresenta climas equatorial, tropical, tropical de altitude, tropical atlântico, semiárido e subtropical.",
+                          "enunciado":  "O clima subtropical se distingue dos demais por:",
+                          "alternativas":  {
+                                               "a":  "manter temperaturas elevadas e constantes durante todo o ano, com amplitude térmica anual inferior a três graus centígrados em média",
+                                               "b":  "apresentar a maior amplitude térmica diária do território, característica decorrente da distância em relação ao oceano nas áreas em que ele ocorre",
+                                               "c":  "concentrar as chuvas no período do verão, com estação seca prolongada durante os meses correspondentes ao inverno no hemisfério sul",
+                                               "d":  "registrar os menores índices pluviométricos entre todos os tipos climáticos identificados no território brasileiro ao longo do ano inteiro",
+                                               "e":  "apresentar chuvas bem distribuídas e as menores temperaturas médias do país"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "Abaixo do Trópico de Capricórnio, o Sul não tem estação seca definida: chove o ano todo, com influência de frentes frias. As médias baixas e as geadas o separam de todos os demais climas brasileiros.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-04",
+                          "texto_apoio":  "Cidades como São Paulo, Belo Horizonte e Curitiba apresentam temperaturas médias inferiores às de cidades situadas em latitudes semelhantes.",
+                          "enunciado":  "Essa característica define o clima:",
+                          "alternativas":  {
+                                               "a":  "equatorial úmido, caracterizado pela elevada pluviosidade distribuída ao longo de todos os meses do ano nas áreas em que ele se manifesta",
+                                               "b":  "tropical de altitude, cujas médias são reduzidas pela elevação do relevo",
+                                               "c":  "semiárido, marcado pela irregularidade das chuvas e pelas temperaturas médias elevadas registradas durante a maior parte do ano no país",
+                                               "d":  "tropical atlântico, influenciado pela proximidade do oceano e pelas massas de ar úmidas que atuam sobre a faixa litorânea do território",
+                                               "e":  "subtropical, definido pela ocorrência de geadas e pela distribuição regular das chuvas ao longo de todos os meses do ano na região Sul"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "As três estão acima de 700 m, e o gradiente térmico faz o resto. É um clima tropical em tudo — inclusive na estação seca de inverno —, exceto na temperatura, rebaixada pela altitude.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-05",
+                          "texto_apoio":  "O semiárido brasileiro registra chuvas escassas e concentradas em poucos meses, com elevada variabilidade entre um ano e outro.",
+                          "enunciado":  "Entre os fatores que explicam esse regime está:",
+                          "alternativas":  {
+                                               "a":  "a proximidade das correntes marítimas quentes do Atlântico, que aquecem o ar e impedem a condensação do vapor sobre a região afetada",
+                                               "b":  "a latitude elevada da região, que reduz a incidência de radiação solar e limita a evaporação necessária à formação das nuvens de chuva",
+                                               "c":  "a presença de extensas áreas de floresta densa, que retêm a umidade e impedem sua distribuição para o interior do território nordestino",
+                                               "d":  "a atuação irregular das massas de ar úmidas, que chegam enfraquecidas ao interior",
+                                               "e":  "a ocorrência frequente de frentes frias vindas do sul, que promovem a estabilidade atmosférica e bloqueiam a formação de chuvas na região"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "A umidade oceânica se descarrega antes de alcançar o sertão, e o Planalto da Borborema agrava a barreira. Somem-se a isso a irregularidade das frentes e a alta evaporação: chove pouco e, sobretudo, chove sem previsibilidade.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-06",
+                          "texto_apoio":  "Durante o verão, uma faixa de nebulosidade e chuvas se estende do noroeste da Amazônia até o Sudeste e o oceano Atlântico, permanecendo estacionária por vários dias.",
+                          "enunciado":  "O fenômeno descrito é:",
+                          "alternativas":  {
+                                               "a":  "a inversão térmica, fenômeno que retém os poluentes próximos à superfície nas áreas urbanas durante os meses mais frios do ano no país",
+                                               "b":  "a Zona de Convergência do Atlântico Sul",
+                                               "c":  "o efeito orográfico, provocado pela elevação forçada do ar úmido ao encontrar barreiras de relevo ao longo de seu deslocamento continental",
+                                               "d":  "a friagem, queda brusca de temperatura registrada no oeste da Amazônia durante o avanço de massas de ar frio provenientes do sul do país",
+                                               "e":  "a ilha de calor, elevação da temperatura registrada nas áreas centrais das grandes cidades em comparação com as áreas periféricas delas"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "A ZCAS canaliza a umidade amazônica para o Sudeste e sustenta os períodos de chuva contínua de verão. Quando ela não se organiza, o resultado costuma ser estiagem nos reservatórios do Sudeste.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-07",
+                          "texto_apoio":  "O aquecimento anômalo das águas superficiais do Pacífico equatorial altera a circulação atmosférica global e produz efeitos distintos em cada região do planeta.",
+                          "enunciado":  "O fenômeno descrito é ______; no Brasil ele costuma provocar ______ no Sul e ______ no Norte e no Nordeste. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "efeito estufa – elevação das temperaturas médias – redução das temperaturas médias em razão do aumento da nebulosidade sobre a região",
+                                               "b":  "La Niña – chuvas acima da média – estiagem, padrão que se repete a cada episódio registrado nas últimas décadas em todo o território nacional",
+                                               "c":  "El Niño – estiagem prolongada – chuvas acima da média, distribuição que decorre do deslocamento das massas de ar polares sobre o continente",
+                                               "d":  "El Niño – chuvas acima da média – estiagem",
+                                               "e":  "inversão térmica – concentração de poluentes – dispersão dos poluentes provocada pela circulação vertical do ar sobre as áreas urbanas"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "El Niño é a fase quente do Pacífico; La Niña é a fria, com efeitos aproximadamente inversos. Trocar um pelo outro inverte a previsão inteira — daí a insistência das bancas nesse par.",
+                          "formato":  "lacunas",
+                          "banca":  "unesp"
+                      },
+                      {
+                          "id":  "geografia-08",
+                          "texto_apoio":  "Em manhãs frias de inverno, uma camada de ar quente se instala sobre uma camada de ar frio próxima ao solo, impedindo a circulação vertical na atmosfera urbana.",
+                          "enunciado":  "A consequência imediata desse fenômeno é:",
+                          "alternativas":  {
+                                               "a":  "a concentração de poluentes junto à superfície",
+                                               "b":  "a dispersão acelerada dos poluentes emitidos pelos veículos e pelas indústrias instaladas nas áreas centrais das grandes cidades do país",
+                                               "c":  "a elevação da temperatura média registrada nas áreas centrais em comparação com as áreas periféricas da mesma região metropolitana",
+                                               "d":  "a formação de chuvas intensas concentradas em poucas horas sobre as áreas impermeabilizadas das grandes cidades brasileiras no inverno",
+                                               "e":  "a redução da umidade relativa do ar a níveis considerados críticos pelos órgãos responsáveis pelo monitoramento da qualidade do ar"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Normalmente o ar quente sobe e leva os poluentes consigo. Na inversão, a camada quente por cima funciona como tampa: o ar frio fica preso embaixo com tudo o que foi emitido, e a qualidade do ar despenca.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-09",
+                          "texto_apoio":  "Registros mostram que as áreas centrais de grandes cidades apresentam temperaturas superiores às das áreas periféricas e rurais do entorno.",
+                          "enunciado":  "O fenômeno se explica principalmente por:",
+                          "alternativas":  {
+                                               "a":  "maior densidade de vegetação arbórea nas áreas centrais, que retém a radiação solar e impede sua dissipação ao longo do período noturno",
+                                               "b":  "maior altitude das áreas centrais em relação às periferias, o que altera o gradiente térmico registrado no interior das regiões metropolitanas",
+                                               "c":  "proximidade das áreas centrais em relação ao litoral, condição que eleva a umidade e a temperatura registradas nessa porção das cidades",
+                                               "d":  "concentração da atividade industrial nas áreas centrais, responsável pela emissão do calor que eleva a temperatura registrada nessas regiões",
+                                               "e":  "impermeabilização do solo, materiais que retêm calor e escassez de vegetação"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "Asfalto e concreto absorvem radiação e a devolvem à noite; sem árvore não há sombra nem evapotranspiração. É por isso que arborização urbana é política de saúde, e não apenas paisagismo.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-10",
+                          "texto_apoio":  "Óxidos de enxofre e de nitrogênio, lançados por indústrias e veículos, reagem com o vapor de água atmosférico.",
+                          "enunciado":  "O resultado desse processo é:",
+                          "alternativas":  {
+                                               "a":  "a intensificação do efeito estufa, com retenção adicional de calor na baixa atmosfera e elevação das temperaturas médias globais registradas",
+                                               "b":  "a destruição da camada de ozônio estratosférico, processo que amplia a incidência de radiação ultravioleta sobre a superfície terrestre",
+                                               "c":  "a chuva ácida, que corrói edificações e altera o pH de solos e águas",
+                                               "d":  "a formação de nevoeiros densos que reduzem a visibilidade nas áreas urbanas durante os meses mais frios do ano em todas as regiões",
+                                               "e":  "o aumento da umidade relativa do ar nas regiões industrializadas, condição que favorece a dispersão dos poluentes emitidos localmente"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Os óxidos formam ácidos sulfúrico e nítrico e voltam na precipitação. É problema distinto do buraco na camada de ozônio e do efeito estufa — três processos que as bancas costumam misturar de propósito.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-11",
+                          "texto_apoio":  "A estrutura geológica do território brasileiro é composta por dois grandes conjuntos, além da ausência de um terceiro comum em outros continentes.",
+                          "enunciado":  "Predominam no país ______ e ______, e não há ______; a consequência disso é ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "terrenos vulcânicos – escudos cristalinos – bacias sedimentares – a predominância de solos jovens e férteis em toda a extensão do território",
+                                               "b":  "dobramentos modernos – bacias sedimentares – escudos cristalinos – a ocorrência frequente de terremotos de grande magnitude no território",
+                                               "c":  "bacias sedimentares – dobramentos modernos – escudos cristalinos – a ausência completa de recursos minerais metálicos no subsolo brasileiro",
+                                               "d":  "escudos cristalinos – dobramentos modernos – bacias sedimentares – a impossibilidade de ocorrência de petróleo em qualquer porção do país",
+                                               "e":  "escudos cristalinos – bacias sedimentares – dobramentos modernos – relevo de altitudes modestas e baixa atividade sísmica"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "O Brasil está no interior da placa Sul-Americana, longe das bordas onde se formam as grandes cadeias. Daí não termos Andes nem terremotos de grande porte — e termos, em compensação, escudos ricos em minério e bacias com petróleo.",
+                          "formato":  "lacunas",
+                          "banca":  "fuvest"
+                      },
+                      {
+                          "id":  "geografia-12",
+                          "texto_apoio":  "A classificação do relevo brasileiro proposta por Jurandyr Ross identifica 28 unidades distribuídas em três categorias.",
+                          "enunciado":  "A categoria acrescentada por essa classificação em relação às propostas anteriores é a de:",
+                          "alternativas":  {
+                                               "a":  "planícies, superfícies planas formadas pela deposição de sedimentos transportados pelos rios ao longo de sua extensão no território brasileiro",
+                                               "b":  "planaltos, superfícies elevadas em que os processos de erosão predominam sobre os de acumulação de sedimentos ao longo do tempo geológico",
+                                               "c":  "depressões, superfícies rebaixadas por erosão em relação às áreas vizinhas",
+                                               "d":  "montanhas, formações de altitude elevada resultantes de processos de dobramento ocorridos em períodos geológicos recentes no continente",
+                                               "e":  "chapadas, superfícies elevadas de topo plano e bordas escarpadas presentes na porção central do território brasileiro em grande extensão"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Aroldo de Azevedo trabalhava com planaltos e planícies; Ab\u0027Sáber introduziu as depressões; Ross consolidou as três categorias e detalhou as unidades a partir de dados de radar. Depressão é área rebaixada, não necessariamente baixa em altitude absoluta.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-13",
+                          "texto_apoio":  "O relevo resulta da ação combinada de forças que constroem e forças que desgastam as formas terrestres.",
+                          "enunciado":  "São agentes internos e externos, respectivamente:",
+                          "alternativas":  {
+                                               "a":  "intemperismo e erosão; tectonismo e vulcanismo, classificação que decorre da velocidade com que cada um dos processos atua sobre a superfície",
+                                               "b":  "tectonismo e vulcanismo; intemperismo e erosão",
+                                               "c":  "sedimentação e deposição; abalos sísmicos e movimentos de placas, distinção estabelecida a partir da profundidade em que cada processo ocorre",
+                                               "d":  "ação das chuvas e dos ventos; ação dos rios e das geleiras, agrupamento que reúne os processos segundo o agente responsável por cada um",
+                                               "e":  "formação de dobras e falhas; formação de escudos e bacias, categorias que se distinguem pela escala temporal em que os processos se desenvolvem"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Os internos vêm da energia do interior do planeta e tendem a criar desníveis; os externos vêm do sol e da água e tendem a aplainá-los. O relevo que se vê é o saldo momentâneo dessa disputa.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-14",
+                          "texto_apoio":  "Compare: (I) uma rocha que se fragmenta pela variação diária de temperatura; (II) uma rocha cujos minerais se transformam ao reagir com a água.",
+                          "enunciado":  "O caso I é ______ e o caso II é ______; o segundo predomina em climas ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "sedimentação – litificação – temperados, ambientes em que os processos de deposição predominam sobre os de desgaste das formações rochosas",
+                                               "b":  "intemperismo químico – intemperismo físico – frios e secos, condições em que a reação entre a água e os minerais ocorre com maior intensidade",
+                                               "c":  "erosão eólica – erosão pluvial – áridos, uma vez que a escassez de vegetação favorece o transporte dos sedimentos pelos agentes atmosféricos",
+                                               "d":  "intemperismo físico – intemperismo químico – quentes e úmidos",
+                                               "e":  "vulcanismo – tectonismo – de altitude elevada, onde a proximidade das bordas das placas intensifica os processos de origem interna do planeta"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "O físico quebra sem mudar a composição; o químico altera o mineral. Calor e água aceleram reação, e é por isso que o intemperismo químico domina no Brasil tropical, produzindo solos profundos e lixiviados.",
+                          "formato":  "lacunas",
+                          "banca":  "unicamp"
+                      },
+                      {
+                          "id":  "geografia-15",
+                          "texto_apoio":  "Em regiões tropicais úmidas, a intensa lixiviação remove sílica e concentra óxidos de ferro e alumínio no perfil do solo.",
+                          "enunciado":  "O processo descrito é a:",
+                          "alternativas":  {
+                                               "a":  "laterização, que produz solos profundos e de baixa fertilidade natural",
+                                               "b":  "salinização, acúmulo de sais na camada superficial provocado pela evaporação intensa em áreas irrigadas de clima árido ou semiárido",
+                                               "c":  "podzolização, processo característico de climas frios e úmidos em que a matéria orgânica se acumula na superfície sem decomposição completa",
+                                               "d":  "compactação, redução dos poros do solo provocada pelo tráfego de máquinas agrícolas nas áreas de produção mecanizada em larga escala",
+                                               "e":  "erosão laminar, remoção uniforme da camada superficial do solo pela ação das águas de escoamento em terrenos de declividade acentuada"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "É o que explica o paradoxo amazônico: floresta exuberante sobre solo pobre. Os nutrientes estão na biomassa e voltam pela serapilheira — removida a floresta, o ciclo se rompe e o solo se revela.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-16",
+                          "texto_apoio":  "Em áreas desmatadas de encosta, a água da chuva concentra-se em sulcos que se aprofundam progressivamente até atingir o lençol freático.",
+                          "enunciado":  "A forma erosiva descrita é:",
+                          "alternativas":  {
+                                               "a":  "a voçoroca, estágio mais avançado da erosão linear",
+                                               "b":  "a duna, forma de acumulação produzida pelo transporte de sedimentos arenosos pela ação do vento em áreas de vegetação escassa ou ausente",
+                                               "c":  "o delta, forma de deposição construída pelo acúmulo de sedimentos na foz de um rio que deságua em ambiente de águas calmas e rasas",
+                                               "d":  "a laterita, camada endurecida de óxidos que se forma na superfície de solos tropicais submetidos a longos períodos de exposição direta",
+                                               "e":  "o meandro, curva descrita pelo curso de um rio em áreas de baixa declividade, onde a velocidade da água diminui e favorece a deposição"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "A sequência é laminar, sulco, ravina e voçoroca. Chegando ao lençol freático, o processo se autoalimenta e a recuperação passa a exigir obra de engenharia, não apenas replantio.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-17",
+                          "texto_apoio":  "A bacia hidrográfica que ocupa a maior área do território brasileiro é também a de maior descarga fluvial do planeta.",
+                          "enunciado":  "Sobre essa bacia, é correto afirmar que:",
+                          "alternativas":  {
+                                               "a":  "é a do Paraguai, que sustenta o regime de inundações do Pantanal e concentra o maior potencial hidrelétrico instalado do território brasileiro",
+                                               "b":  "é a do São Francisco, cujo curso atravessa o semiárido e sustenta os projetos de irrigação implantados no vale ao longo das últimas décadas",
+                                               "c":  "é a do Paraná, responsável pela maior parte da geração hidrelétrica do país e pela integração fluvial entre os países do Cone Sul americano",
+                                               "d":  "é a do Tocantins-Araguaia, cuja extensão se restringe ao território nacional e cujo aproveitamento se concentra na navegação de longo curso",
+                                               "e":  "é a Amazônica, com grande potencial de navegação e menor aproveitamento hidrelétrico relativo"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "Rio de planície tem pouco desnível e por isso baixo potencial hidrelétrico, mas é excelente via de transporte. A maior geração do país está na bacia do Paraná, que é de planalto — a inversão típica dessa questão.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-18",
+                          "texto_apoio":  "Uma das maiores reservas subterrâneas de água doce do mundo se estende sob o território de quatro países sul-americanos.",
+                          "enunciado":  "Trata-se do Aquífero Guarani, cuja gestão apresenta o desafio de:",
+                          "alternativas":  {
+                                               "a":  "estar situado a profundidades que inviabilizam qualquer forma de extração com as tecnologias atualmente disponíveis nos quatro países",
+                                               "b":  "depender exclusivamente da legislação brasileira, uma vez que a totalidade de sua extensão se encontra sob o território nacional do país",
+                                               "c":  "apresentar água de qualidade inadequada ao consumo humano, o que restringe seu aproveitamento às atividades industriais e agrícolas locais",
+                                               "d":  "exigir acordo entre países, por ser um recurso transfronteiriço",
+                                               "e":  "ter volume reduzido em comparação com as demais reservas subterrâneas identificadas no continente sul-americano ao longo do século"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "O aquífero está sob Brasil, Argentina, Paraguai e Uruguai. Recarga e contaminação não respeitam fronteira: a exploração excessiva de um lado rebaixa o nível do outro, e por isso a gestão precisa ser negociada.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-19",
+                          "texto_apoio":  "Compare dois trechos fluviais: um que desce um planalto com quedas e corredeiras; outro que atravessa uma planície com baixa declividade.",
+                          "enunciado":  "O primeiro favorece ______ e o segundo, ______; essa diferença explica ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "a irrigação – a piscicultura – a especialização produtiva observada em cada uma das grandes bacias hidrográficas identificadas no país",
+                                               "b":  "a navegação – a geração hidrelétrica – a concentração das usinas na bacia Amazônica e das hidrovias na região Sudeste do território brasileiro",
+                                               "c":  "a geração hidrelétrica – a navegação – a distribuição das usinas e das hidrovias no Brasil",
+                                               "d":  "o abastecimento urbano – o uso industrial – a localização das principais regiões metropolitanas ao longo dos cursos de água do território",
+                                               "e":  "a pesca artesanal – o transporte de cargas pesadas – a distribuição das comunidades ribeirinhas ao longo dos principais rios brasileiros"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Desnível gera energia potencial e atrapalha a navegação; a planície faz o oposto. É por isso que as grandes usinas estão no Paraná e no São Francisco, e o transporte fluvial de peso está na Amazônia.",
+                          "formato":  "lacunas",
+                          "banca":  "unesp"
+                      },
+                      {
+                          "id":  "geografia-20",
+                          "texto_apoio":  "Aziz Ab\u0027Sáber propôs uma classificação do território brasileiro que combina relevo, clima, solo, vegetação e hidrografia num único conjunto.",
+                          "enunciado":  "As unidades dessa classificação são chamadas:",
+                          "alternativas":  {
+                                               "a":  "biomas, categorias definidas exclusivamente a partir da vegetação dominante em cada uma das porções do território nacional identificadas",
+                                               "b":  "domínios morfoclimáticos, seis no total, separados por faixas de transição",
+                                               "c":  "unidades de conservação, áreas delimitadas por norma legal para a proteção dos recursos naturais existentes em cada uma das regiões",
+                                               "d":  "regiões geoeconômicas, divisão do território que leva em conta o processo histórico de ocupação e a especialização produtiva de cada área",
+                                               "e":  "zonas climáticas, faixas delimitadas segundo a latitude e a incidência de radiação solar ao longo da superfície terrestre em cada hemisfério"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "São seis: Amazônico, Cerrado, Caatinga, Mares de Morros, Araucárias e Pradarias. A originalidade está em não isolar a vegetação — o domínio é o conjunto que funciona junto, incluindo as transições entre eles.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-21",
+                          "texto_apoio":  "A floresta amazônica transfere para a atmosfera enormes volumes de vapor de água por evapotranspiração, que se deslocam pelo continente.",
+                          "enunciado":  "Esse fluxo é conhecido como:",
+                          "alternativas":  {
+                                               "a":  "efeito orográfico, elevação forçada do ar úmido ao encontrar barreiras de relevo, com formação de chuvas na vertente exposta ao vento",
+                                               "b":  "corrente do Golfo, deslocamento de águas oceânicas quentes que altera o clima das regiões costeiras situadas ao longo de seu percurso",
+                                               "c":  "circulação de monções, sistema de ventos sazonais que inverte de direção entre o verão e o inverno em determinadas regiões do planeta",
+                                               "d":  "rios voadores, que levam umidade da Amazônia ao Centro-Sul do continente",
+                                               "e":  "inversão térmica, formação de uma camada de ar quente sobre outra de ar frio que impede a circulação vertical na baixa atmosfera"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "A umidade sobe pela floresta, é barrada pelos Andes e desce em direção ao Centro-Oeste e ao Sudeste. É o vínculo material entre desmatar a Amazônia e faltar chuva nos reservatórios de São Paulo.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-22",
+                          "texto_apoio":  "A partir da década de 1970, extensas áreas do Cerrado foram incorporadas à produção de grãos, com correção de solos ácidos e adoção de cultivares adaptadas.",
+                          "enunciado":  "Esse processo foi possibilitado, sobretudo, por:",
+                          "alternativas":  {
+                                               "a":  "pela ampliação da área de floresta nativa preservada, que elevou a umidade regional e viabilizou o cultivo em sequeiro nas áreas incorporadas",
+                                               "b":  "pesquisa agronômica e calagem, que corrigiram a acidez e a baixa fertilidade",
+                                               "c":  "pela abundância natural de nutrientes nos solos do domínio, condição que dispensou qualquer correção antes do início do cultivo em escala",
+                                               "d":  "pela ocorrência de chuvas regulares ao longo de todos os meses do ano, característica que eliminou a necessidade de sistemas de irrigação",
+                                               "e":  "pelo relevo acidentado da região, que favoreceu a drenagem natural das áreas de cultivo e reduziu os custos de preparo do solo agrícola"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "O solo do Cerrado é ácido e pobre em fósforo; a calagem e a adubação o tornaram cultivável, e o relevo plano permitiu mecanização em larga escala. O custo foi ambiental: é hoje o bioma brasileiro que mais perde vegetação nativa.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-23",
+                          "texto_apoio":  "A Caatinga é o único bioma brasileiro cuja distribuição se restringe integralmente ao território nacional.",
+                          "enunciado":  "Sua vegetação apresenta adaptações como:",
+                          "alternativas":  {
+                                               "a":  "raízes superficiais e pouco desenvolvidas, adaptação que permite o aproveitamento imediato da água acumulada na camada superior do solo",
+                                               "b":  "folhas largas e permanentes durante todo o ano, característica que amplia a superfície disponível para a realização da fotossíntese na planta",
+                                               "c":  "caducifolia, espinhos e caules suculentos, que reduzem a perda de água",
+                                               "d":  "porte arbóreo elevado e dossel contínuo, estrutura que reduz a incidência de radiação solar direta sobre o solo em que a vegetação se encontra",
+                                               "e":  "presença de epífitas e lianas em abundância, plantas que se apoiam nas árvores para alcançar a luz nas camadas superiores da vegetação"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Perder as folhas na seca corta a transpiração; o espinho é folha modificada; o caule suculento estoca água. São respostas ao déficit hídrico, e explicam a mudança radical de aparência do bioma após a chuva.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-24",
+                          "texto_apoio":  "A Mata Atlântica cobria originalmente cerca de 15% do território brasileiro e hoje conserva uma fração reduzida de sua extensão original.",
+                          "enunciado":  "A intensidade dessa devastação se explica principalmente por:",
+                          "alternativas":  {
+                                               "a":  "coincidir com a faixa de ocupação mais antiga e mais densa do país",
+                                               "b":  "pela fragilidade natural de suas espécies vegetais, incapazes de se regenerar após qualquer forma de intervenção humana sobre a área ocupada",
+                                               "c":  "pela baixa diversidade biológica do bioma, que reduziu o interesse pela criação de unidades de conservação ao longo de sua extensão original",
+                                               "d":  "pela ocorrência de incêndios naturais de grande extensão, fenômeno recorrente nas áreas de domínio desse bioma ao longo do último século",
+                                               "e":  "pela ausência de legislação específica de proteção, situação que se manteve inalterada até a última década do século vinte no território"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Cana, café, cidades e indústria se instalaram exatamente ali. A devastação não decorre de fragilidade do bioma — decorre de ele ocupar o litoral, que foi por onde a colonização entrou e onde vive a maioria da população.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-25",
+                          "texto_apoio":  "Considere dois biomas: um caracterizado por campos de gramíneas no extremo sul; outro por uma planície periodicamente inundada no centro-oeste.",
+                          "enunciado":  "Trata-se, respectivamente, de:",
+                          "alternativas":  {
+                                               "a":  "Pradarias e Mares de Morros, denominações adotadas na classificação dos domínios morfoclimáticos proposta para o território brasileiro",
+                                               "b":  "Pantanal e Pampa, ordem que corresponde à posição ocupada por cada um deles em relação à linha do Trópico de Capricórnio no território",
+                                               "c":  "Cerrado e Caatinga, domínios que se distinguem pelo regime pluviométrico registrado em cada uma das áreas em que eles se manifestam",
+                                               "d":  "Mata Atlântica e Amazônia, biomas florestais que ocupam, respectivamente, a faixa litorânea e a porção setentrional do território nacional",
+                                               "e":  "Pampa e Pantanal"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "O Pampa ocupa a metade sul do Rio Grande do Sul, com campos e pecuária extensiva. O Pantanal é a maior planície alagável do mundo, e seu pulso de inundação sustenta a biodiversidade que o caracteriza.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-26",
+                          "texto_apoio":  "A distribuição das formações vegetais no planeta acompanha, em larga medida, a distribuição dos tipos climáticos.",
+                          "enunciado":  "Essa correspondência se explica porque a vegetação:",
+                          "alternativas":  {
+                                               "a":  "independe das condições atmosféricas, sendo sua distribuição determinada exclusivamente pelas características do substrato rochoso local",
+                                               "b":  "determina o clima de cada região, uma vez que a cobertura vegetal é o principal fator responsável pela definição do regime de chuvas local",
+                                               "c":  "depende de temperatura e disponibilidade hídrica para se estabelecer",
+                                               "d":  "acompanha a distribuição da população humana, cuja ocupação define quais formações vegetais permanecem em cada porção do território",
+                                               "e":  "varia conforme a altitude apenas, sem que a latitude exerça influência sobre a distribuição das formações identificadas em cada continente"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Clima é o filtro principal, e é por isso que formações semelhantes aparecem em latitudes semelhantes em continentes diferentes. A relação tem mão dupla — a floresta influencia o clima —, mas o sentido dominante é o do clima sobre a vegetação.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-27",
+                          "texto_apoio":  "Apesar de concentrar cerca de 12% da água doce superficial do planeta, o Brasil enfrenta crises de abastecimento em suas maiores regiões metropolitanas.",
+                          "enunciado":  "A aparente contradição se explica sobretudo por:",
+                          "alternativas":  {
+                                               "a":  "a água estar distribuída de forma desigual em relação à população",
+                                               "b":  "pelo volume total de água disponível ter diminuído de forma acentuada nas últimas décadas em todas as bacias hidrográficas do território",
+                                               "c":  "pela ausência de tecnologia adequada ao tratamento da água captada nos mananciais que abastecem as principais cidades brasileiras hoje",
+                                               "d":  "pelo consumo doméstico responder pela maior parte da demanda nacional, o que torna insuficiente qualquer volume disponível nos mananciais",
+                                               "e":  "pela salinização progressiva dos mananciais superficiais, processo que inviabiliza o aproveitamento das águas captadas para uso urbano"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "A maior parte da água está na Amazônia, onde vive a menor parcela da população; o Sudeste concentra gente e indústria com fração muito menor do recurso. Somem-se perdas na distribuição e poluição de mananciais próximos.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-28",
+                          "texto_apoio":  "A superfície terrestre é dividida em zonas térmicas delimitadas pelos trópicos e pelos círculos polares.",
+                          "enunciado":  "A zona intertropical se caracteriza por:",
+                          "alternativas":  {
+                                               "a":  "apresentar períodos prolongados de insolação contínua e de escuridão total, alternando-se conforme a estação do ano em cada hemisfério",
+                                               "b":  "apresentar as maiores amplitudes térmicas anuais registradas no planeta, em razão da variação da duração dos dias ao longo das estações",
+                                               "c":  "registrar a menor incidência de radiação solar entre todas as zonas térmicas identificadas na superfície terrestre ao longo do ano inteiro",
+                                               "d":  "concentrar as áreas de clima temperado, com quatro estações bem definidas e distribuídas de forma regular ao longo de todos os meses",
+                                               "e":  "receber os raios solares de forma mais perpendicular ao longo do ano"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "Entre os trópicos, o sol chega a pino ao menos uma vez por ano e o ângulo varia pouco. Concentração de energia por área e baixa variação sazonal: é o que define as altas temperaturas e a pequena amplitude anual.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-29",
+                          "texto_apoio":  "Dois problemas ambientais globais são frequentemente confundidos, embora ocorram em camadas distintas da atmosfera e tenham causas diferentes.",
+                          "enunciado":  "A destruição da camada de ozônio ocorre ______ e é causada por ______; a intensificação do efeito estufa ocorre ______ e é causada por ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "na troposfera – o dióxido de carbono e o metano – na estratosfera – os clorofluorcarbonos empregados em sistemas de refrigeração industrial",
+                                               "b":  "na estratosfera – gases como os CFCs – na troposfera – gases como o dióxido de carbono e o metano",
+                                               "c":  "na superfície terrestre – os óxidos de enxofre e de nitrogênio – na alta atmosfera – o vapor de água proveniente da evaporação dos oceanos",
+                                               "d":  "na estratosfera – o dióxido de carbono – na estratosfera – o metano liberado pela decomposição da matéria orgânica em áreas alagadas",
+                                               "e":  "na troposfera – os clorofluorcarbonos – na troposfera – os mesmos gases, uma vez que os dois processos compartilham a mesma origem"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "São camadas, gases e efeitos distintos: um deixa passar mais radiação ultravioleta, o outro retém mais calor. Confundi-los leva à ideia errada de que o buraco na camada de ozônio causa o aquecimento global.",
+                          "formato":  "lacunas",
+                          "banca":  "unifesp"
+                      },
+                      {
+                          "id":  "geografia-30",
+                          "texto_apoio":  "Relatórios científicos apontam elevação da temperatura média global, aumento do nível do mar e maior frequência de eventos extremos.",
+                          "enunciado":  "Entre as consequências previstas para o Brasil, destaca-se:",
+                          "alternativas":  {
+                                               "a":  "a expansão da cobertura florestal nativa em razão do aumento da concentração de dióxido de carbono disponível para a fotossíntese das plantas",
+                                               "b":  "a redução generalizada das temperaturas médias registradas no território nacional, em razão do aumento da nebulosidade sobre o continente",
+                                               "c":  "o aumento uniforme das precipitações em todas as regiões do país, o que ampliaria a disponibilidade hídrica das bacias hidrográficas nacionais",
+                                               "d":  "maior frequência de secas e de chuvas concentradas, com efeitos sobre agricultura e cidades",
+                                               "e":  "a estabilização do nível dos oceanos ao longo das próximas décadas, o que eliminaria os riscos associados às áreas costeiras densamente ocupadas"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "O padrão previsto não é só \"mais quente\": é mais irregular. Chuva concentrada em menos eventos alaga cidade e não recarrega aquífero; estiagem mais longa atinge safra e reservatório. As duas coisas convivem.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-31",
+                          "texto_apoio":  "Os censos agropecuários brasileiros mostram que estabelecimentos com mais de mil hectares representam menos de 1% do total e ocupam cerca de metade da área agrícola do país.",
+                          "enunciado":  "O dado caracteriza:",
+                          "alternativas":  {
+                                               "a":  "a fragmentação da propriedade rural, processo decorrente das sucessivas partilhas por herança ocorridas ao longo do último século no país",
+                                               "b":  "a concentração fundiária, marca histórica da estrutura agrária brasileira",
+                                               "c":  "a predominância da agricultura familiar em área ocupada, resultado das políticas de crédito adotadas nas últimas décadas pelo governo federal",
+                                               "d":  "o avanço da reforma agrária, que teria redistribuído parcela significativa das terras improdutivas identificadas no território nacional",
+                                               "e":  "a equivalência entre número de estabelecimentos e área ocupada, situação que caracteriza uma distribuição equilibrada da propriedade rural"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Poucos estabelecimentos ocupando metade da área é a definição operacional de concentração. A raiz é histórica — sesmarias, Lei de Terras de 1850 — e o índice de Gini da terra no Brasil está entre os mais altos do mundo.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-32",
+                          "texto_apoio":  "Dois conjuntos convivem no campo brasileiro: um responde pela maior parte das exportações de grãos e carnes; outro ocupa a maior parte dos estabelecimentos e produz boa parte dos alimentos consumidos internamente.",
+                          "enunciado":  "O primeiro é ______ e o segundo é ______; a diferença entre eles está em ______, e não em ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "a pecuária extensiva – a pecuária intensiva – o número de cabeças por hectare mantido em cada um dos sistemas produtivos adotados no país",
+                                               "b":  "a agricultura familiar – o agronegócio – o volume de área ocupada por cada estabelecimento – a origem do capital investido em cada atividade",
+                                               "c":  "a agricultura de subsistência – a agricultura comercial – a região do país em que cada uma delas se desenvolve – o tipo de cultivo praticado",
+                                               "d":  "o agronegócio – a agricultura familiar – escala, destino e organização do trabalho – nível tecnológico necessariamente",
+                                               "e":  "a produção orgânica – a produção convencional – o emprego de insumos químicos no processo produtivo desenvolvido em cada um dos casos"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "A ressalva importa: agricultura familiar não é sinônimo de atraso técnico, e há produção familiar altamente tecnificada. O que a define é a mão de obra predominantemente da família e o limite de área, conforme a lei.",
+                          "formato":  "lacunas",
+                          "banca":  "unesp"
+                      },
+                      {
+                          "id":  "geografia-33",
+                          "texto_apoio":  "A Constituição de 1988 estabelece que a propriedade rural deve cumprir sua função social, atendendo a critérios de produtividade, ambientais e trabalhistas.",
+                          "enunciado":  "O descumprimento desses critérios torna o imóvel passível de:",
+                          "alternativas":  {
+                                               "a":  "desapropriação para fins de reforma agrária, mediante indenização",
+                                               "b":  "confisco imediato sem qualquer forma de indenização ao proprietário, medida prevista para todos os casos de descumprimento identificados",
+                                               "c":  "tombamento pelo poder público, instrumento que impede qualquer alteração nas características originais do imóvel rural em questão",
+                                               "d":  "transferência automática para a União, procedimento realizado independentemente de processo administrativo ou judicial prévio no caso",
+                                               "e":  "isenção tributária, benefício concedido como incentivo à regularização das condições de uso do imóvel identificadas como inadequadas"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "A desapropriação exige indenização — em títulos da dívida agrária para a terra e em dinheiro para as benfeitorias. O confisco sem indenização é reservado a casos específicos, como o de trabalho escravo.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-34",
+                          "texto_apoio":  "A partir dos anos 1960, difundiu-se um conjunto tecnológico baseado em sementes selecionadas, fertilizantes químicos, agrotóxicos, irrigação e mecanização.",
+                          "enunciado":  "Esse processo é conhecido como Revolução Verde, e entre suas consequências está:",
+                          "alternativas":  {
+                                               "a":  "a substituição da agricultura comercial pela produção de subsistência, movimento observado na maior parte dos países que a adotaram",
+                                               "b":  "a redução generalizada da produtividade agrícola nos países em que o pacote tecnológico foi adotado ao longo das décadas seguintes",
+                                               "c":  "a distribuição equitativa da terra entre os produtores, resultado das políticas de crédito que acompanharam a difusão do pacote tecnológico",
+                                               "d":  "a eliminação da fome nas regiões periféricas do planeta, objetivo integralmente alcançado nas décadas seguintes à difusão do processo",
+                                               "e":  "aumento da produtividade acompanhado de concentração fundiária e impactos ambientais"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "A produtividade por hectare subiu de fato. O custo foi duplo: o pacote exigia capital, o que excluiu o pequeno produtor e concentrou terra, e trouxe contaminação de solo e água, erosão genética e dependência de insumos.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-35",
+                          "texto_apoio":  "A produção agrícola moderna articula-se com indústrias que fornecem insumos e com indústrias que processam a produção, além do setor de distribuição e comércio.",
+                          "enunciado":  "Essa articulação constitui:",
+                          "alternativas":  {
+                                               "a":  "o sistema de plantation, forma de organização baseada na monocultura de exportação, na grande propriedade e no trabalho compulsório",
+                                               "b":  "a agricultura de subsistência, sistema em que a produção se destina integralmente ao consumo do próprio produtor e de sua família no campo",
+                                               "c":  "o complexo agroindustrial, que integra os setores antes e depois da porteira",
+                                               "d":  "a policultura comercial, sistema em que se cultivam várias espécies numa mesma área com o objetivo de reduzir os riscos de mercado",
+                                               "e":  "o extrativismo vegetal, atividade baseada na coleta de produtos da vegetação nativa sem cultivo prévio nas áreas em que ela é praticada"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "O produtor deixa de ser autônomo e vira um elo: compra semente e defensivo de um lado, vende para a agroindústria do outro. A decisão sobre o que plantar passa a ser tomada em boa parte fora da propriedade.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-36",
+                          "texto_apoio":  "Uma nova fronteira agrícola se consolidou nas últimas décadas na região de encontro entre Maranhão, Tocantins, Piauí e Bahia.",
+                          "enunciado":  "Essa região é conhecida como MATOPIBA e sua expansão se apoia em:",
+                          "alternativas":  {
+                                               "a":  "predomínio da agricultura familiar na estrutura produtiva local, característica que distingue essa fronteira das anteriores no território",
+                                               "b":  "solos naturalmente férteis de origem vulcânica, que dispensam qualquer correção prévia antes do início do cultivo em escala comercial",
+                                               "c":  "regime pluviométrico regular ao longo de todos os meses do ano, condição que elimina a necessidade de irrigação nas áreas incorporadas",
+                                               "d":  "proximidade dos principais portos exportadores do país, o que reduz a zero os custos logísticos de escoamento da produção obtida",
+                                               "e":  "terras planas e baratas de Cerrado, mecanização e correção de solos"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "É a repetição do modelo que abriu o Cerrado central: relevo plano, terra barata, calagem e mecanização. O gargalo é logístico — o escoamento depende de rodovias longas e de portos do Norte, cuja estrutura ainda se consolida.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-37",
+                          "texto_apoio":  "O Brasil está entre os maiores exportadores mundiais de soja, café, açúcar, carne bovina e minério de ferro.",
+                          "enunciado":  "A dependência desse tipo de produto expõe a economia a:",
+                          "alternativas":  {
+                                               "a":  "elevação constante dos preços praticados, tendência observada de forma ininterrupta nas últimas décadas nos mercados internacionais",
+                                               "b":  "restrições de oferta interna, uma vez que a produção destinada à exportação é insuficiente para atender à demanda dos mercados externos",
+                                               "c":  "oscilações de preços internacionais definidos fora do país",
+                                               "d":  "isolamento comercial, em razão do número reduzido de países interessados na aquisição desses produtos no mercado mundial atualmente",
+                                               "e":  "escassez de mão de obra qualificada, fator que limita a capacidade de produção nas cadeias voltadas ao mercado externo no território"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Commodity é produto padronizado cujo preço se forma em bolsa internacional: o produtor é tomador de preço. Uma safra recorde na Argentina ou uma desaceleração chinesa alteram a receita brasileira sem que nada mude aqui.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-38",
+                          "texto_apoio":  "A adoção de cultivares geneticamente modificadas foi acompanhada, no Brasil, pela elevação do consumo de agrotóxicos.",
+                          "enunciado":  "Um dos fatores que explicam essa relação é:",
+                          "alternativas":  {
+                                               "a":  "a incapacidade das cultivares modificadas de resistir a qualquer praga, o que obriga o produtor a aplicar volumes crescentes de defensivos",
+                                               "b":  "a seleção de plantas daninhas resistentes, que exige doses e produtos adicionais",
+                                               "c":  "a exigência legal de aplicação mínima de defensivos em todas as áreas cultivadas com sementes geneticamente modificadas no território",
+                                               "d":  "a redução da produtividade das cultivares modificadas ao longo das safras, o que leva o produtor a compensar o resultado com mais insumos",
+                                               "e":  "a proibição do uso de práticas de manejo integrado nas áreas cultivadas com organismos geneticamente modificados no território brasileiro"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "É o mesmo mecanismo da resistência a antibióticos: aplicar o mesmo herbicida em larga escala seleciona as plantas que o toleram. A tecnologia funciona, e o uso repetido corrói a própria eficácia.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-39",
+                          "texto_apoio":  "Registros de conflitos no campo brasileiro envolvem posseiros, sem-terra, quilombolas, indígenas e grandes proprietários.",
+                          "enunciado":  "A persistência desses conflitos está associada, sobretudo, a:",
+                          "alternativas":  {
+                                               "a":  "pelo desinteresse dos grandes proprietários em manter suas terras produtivas, o que gera abandono das áreas e ocupação espontânea delas",
+                                               "b":  "pela ausência de legislação sobre propriedade rural no país, lacuna que impede a solução dos casos levados às instâncias judiciais competentes",
+                                               "c":  "pela redução da área agrícola disponível no território nacional, processo que se intensificou ao longo das últimas décadas em todas as regiões",
+                                               "d":  "indefinição de títulos, grilagem e disputa por terras em áreas de expansão",
+                                               "e":  "pela migração da população rural para as cidades, processo que esvaziou o campo e eliminou as disputas anteriormente registradas nele"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Boa parte do território nunca teve cadastro confiável, o que abre espaço para a falsificação de títulos. Onde a fronteira avança e a terra se valoriza, a disputa por documento vira disputa por posse — e frequentemente por violência.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-40",
+                          "texto_apoio":  "A pecuária bovina brasileira ocupa área muito superior à das lavouras, com produtividade média por hectare relativamente baixa.",
+                          "enunciado":  "Essa característica indica predomínio de:",
+                          "alternativas":  {
+                                               "a":  "pecuária extensiva, com baixa lotação por área e pouco investimento",
+                                               "b":  "pecuária intensiva, sistema em que os animais são confinados e recebem alimentação balanceada durante todo o período de engorda praticado",
+                                               "c":  "sistemas integrados de lavoura e pecuária, arranjo que eleva a produtividade por hectare e reduz a pressão sobre novas áreas de vegetação",
+                                               "d":  "produção leiteira especializada, atividade que exige investimento elevado em genética e em instalações para a obtenção de resultados",
+                                               "e":  "criação em pequenas propriedades familiares, característica que explica a baixa produtividade média registrada no conjunto do rebanho"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Muita terra e pouco animal por hectare é a assinatura do sistema extensivo. Por isso a pecuária aparece na fronteira do desmatamento: ampliar área custa menos do que intensificar a produção na área existente.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-41",
+                          "texto_apoio":  "Em 1940, cerca de 30% da população brasileira vivia em cidades; hoje o percentual supera 85%.",
+                          "enunciado":  "A urbanização brasileira se caracterizou por ser ______, ______ e acompanhada de ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "tardia – acelerada – concentração da população em poucas grandes cidades",
+                                               "b":  "precoce – gradual – distribuição equilibrada da população entre as cidades de todos os portes existentes no território nacional brasileiro",
+                                               "c":  "planejada – contínua – oferta prévia de infraestrutura urbana nas áreas que receberam os fluxos migratórios provenientes do meio rural",
+                                               "d":  "espontânea – reversível – retorno progressivo da população às áreas rurais a partir da segunda metade do século vinte no território",
+                                               "e":  "induzida – uniforme – crescimento simultâneo e proporcional de todas as regiões metropolitanas identificadas no território brasileiro"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Tardia em relação à Europa, e comprimida em poucas décadas — o que impediu que infraestrutura e emprego acompanhassem. Daí a periferização e o déficit de saneamento que marcam as cidades brasileiras até hoje.",
+                          "formato":  "lacunas",
+                          "banca":  "fuvest"
+                      },
+                      {
+                          "id":  "geografia-42",
+                          "texto_apoio":  "O deslocamento em massa da população rural para as cidades brasileiras se intensificou entre as décadas de 1950 e 1980.",
+                          "enunciado":  "Entre os fatores de expulsão do campo nesse período está:",
+                          "alternativas":  {
+                                               "a":  "o aumento da produtividade da agricultura familiar, que elevou a renda no campo e reduziu o interesse pela migração para as cidades",
+                                               "b":  "a ampliação do crédito rural destinado aos pequenos produtores, política que fixou a população no campo ao longo de todo o período citado",
+                                               "c":  "a criação de assentamentos de reforma agrária em escala suficiente para absorver a população rural excedente registrada naquelas décadas",
+                                               "d":  "a valorização das atividades extrativistas tradicionais, que passaram a oferecer remuneração superior à obtida nas atividades urbanas",
+                                               "e":  "a mecanização agrícola, que reduziu a demanda por mão de obra"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "A colheitadeira substitui dezenas de trabalhadores, e a concentração fundiária fecha a alternativa da pequena posse. Do outro lado, a industrialização puxava — mas a expulsão veio antes da atração, e por isso a cidade recebeu mais gente do que emprego.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-43",
+                          "texto_apoio":  "Considere: uma cidade que polariza serviços de toda uma região; um conjunto de municípios cujas manchas urbanas se fundiram; uma sucessão contínua de áreas urbanizadas ligando duas grandes metrópoles.",
+                          "enunciado":  "Trata-se, respectivamente, de ______, ______ e ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "cidade média – região metropolitana – aglomeração urbana, categorias definidas pela legislação urbanística brasileira em vigor no país",
+                                               "b":  "megalópole – metrópole – conurbação, ordem que corresponde ao número de habitantes de cada uma das três formações urbanas apresentadas",
+                                               "c":  "conurbação – megalópole – metrópole, classificação estabelecida a partir da extensão territorial ocupada por cada uma das formações citadas",
+                                               "d":  "metrópole – conurbação – megalópole",
+                                               "e":  "capital regional – centro sub-regional – centro de zona, denominações adotadas na classificação da rede urbana elaborada pelo instituto oficial"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Metrópole é função — polarizar; conurbação é forma — manchas que se encostam; megalópole é escala — metrópoles conurbadas em sequência, como o eixo Rio–São Paulo. Uma cidade pode ser metrópole sem estar conurbada.",
+                          "formato":  "lacunas",
+                          "banca":  "unesp"
+                      },
+                      {
+                          "id":  "geografia-44",
+                          "texto_apoio":  "O IBGE classifica as cidades brasileiras em níveis hierárquicos conforme sua área de influência: metrópoles, capitais regionais, centros sub-regionais e centros de zona.",
+                          "enunciado":  "Essa hierarquia é definida a partir de:",
+                          "alternativas":  {
+                                               "a":  "da extensão territorial de cada município, critério que determina a posição ocupada por ele na hierarquia da rede urbana nacional",
+                                               "b":  "exclusivamente do número de habitantes residentes em cada um dos municípios avaliados pelo levantamento realizado pelo instituto oficial",
+                                               "c":  "alcance dos serviços oferecidos e dos fluxos que a cidade atrai",
+                                               "d":  "da data de fundação de cada cidade, informação que estabelece a precedência entre os centros urbanos identificados no levantamento",
+                                               "e":  "da distância em relação à capital do estado a que cada município pertence, medida que define a posição dele na hierarquia regional"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "O que define a posição é a dependência: até onde vão as pessoas para tratar da saúde, estudar, comprar. Uma cidade pequena pode ser capital regional se concentra serviços que os vizinhos não têm.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-45",
+                          "texto_apoio":  "Nas metrópoles brasileiras, grupos de renda alta e baixa ocupam áreas distintas, com diferenças acentuadas de infraestrutura, acesso a serviços e tempo de deslocamento.",
+                          "enunciado":  "O fenômeno é denominado:",
+                          "alternativas":  {
+                                               "a":  "conurbação, processo de fusão física entre as manchas urbanas de municípios vizinhos ao longo do crescimento das áreas metropolitanas",
+                                               "b":  "segregação socioespacial, expressão territorial da desigualdade",
+                                               "c":  "metropolização, processo de concentração de população e de atividades econômicas em torno de uma cidade principal de porte elevado",
+                                               "d":  "verticalização, substituição das edificações horizontais por edifícios de múltiplos pavimentos nas áreas centrais das grandes cidades",
+                                               "e":  "migração pendular, deslocamento diário da população entre o município de residência e o município em que ela exerce sua atividade"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "A desigualdade de renda se inscreve no mapa: onde se mora determina quanto tempo se gasta no transporte, que escola se acessa, se há esgoto. A segregação não é efeito colateral do crescimento urbano — é parte de como ele se organizou.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-46",
+                          "texto_apoio":  "O crescimento das cidades brasileiras se deu, em grande medida, pela ocupação de áreas distantes, de encosta ou de várzea, sem infraestrutura prévia.",
+                          "enunciado":  "Esse padrão de expansão se explica principalmente por:",
+                          "alternativas":  {
+                                               "a":  "por determinação legal que restringiu a ocupação das áreas centrais às atividades comerciais e industriais desenvolvidas em cada cidade",
+                                               "b":  "pela preferência da população por áreas afastadas do centro, em razão da tranquilidade e da qualidade ambiental oferecidas por essas regiões",
+                                               "c":  "pela ausência de áreas centrais disponíveis para ocupação, uma vez que todo o solo urbano já se encontrava edificado no início do processo",
+                                               "d":  "o preço da terra urbanizada estar fora do alcance de boa parte da população",
+                                               "e":  "pela melhor oferta de transporte público nas áreas periféricas, o que reduziu o tempo de deslocamento até os locais de trabalho na cidade"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Quem não pode pagar pelo lote regularizado ocupa o que sobrou: encosta, várzea, área de proteção. A periferização não é escolha de localização — é o que resta quando o mercado formal exclui.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-47",
+                          "texto_apoio":  "É comum, nas cidades brasileiras, a existência de terrenos vazios e imóveis desocupados em áreas centrais dotadas de infraestrutura.",
+                          "enunciado":  "A manutenção desses vazios se explica sobretudo por:",
+                          "alternativas":  {
+                                               "a":  "pela ausência de demanda por moradia nas áreas centrais das cidades brasileiras, situação verificada de forma generalizada no território",
+                                               "b":  "especulação imobiliária, com o proprietário aguardando a valorização do imóvel",
+                                               "c":  "por restrições ambientais que impedem qualquer forma de edificação nessas áreas, conforme determina a legislação urbanística em vigor",
+                                               "d":  "pela inexistência de infraestrutura de água, esgoto e energia nessas áreas, condição que inviabiliza sua ocupação para fins residenciais",
+                                               "e":  "por determinação dos planos diretores municipais, que reservam essas áreas para a implantação futura de equipamentos públicos na cidade"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "O imóvel vazio se valoriza com o investimento público feito ao redor, sem que o dono gaste nada. É por isso que o Estatuto da Cidade prevê IPTU progressivo no tempo para terreno ocioso — um instrumento pouco aplicado.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-48",
+                          "texto_apoio":  "Nas metrópoles brasileiras, o tempo médio de deslocamento entre residência e trabalho é significativamente maior para a população de menor renda.",
+                          "enunciado":  "Essa desigualdade decorre principalmente de:",
+                          "alternativas":  {
+                                               "a":  "pela concentração dos postos de trabalho nas áreas periféricas das cidades, o que obriga deslocamentos a partir das regiões centrais",
+                                               "b":  "pela preferência da população de menor renda por modos de transporte mais lentos, escolha determinada pelo custo de cada modalidade",
+                                               "c":  "moradia distante dos empregos e transporte público insuficiente",
+                                               "d":  "pela ausência de vias de circulação nas áreas centrais das metrópoles brasileiras, condição que retarda o tráfego em todos os horários",
+                                               "e":  "pelo horário de trabalho adotado nos setores em que essa parcela da população se emprega, que coincide com os períodos de menor fluxo"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "O emprego se concentra no centro expandido e a moradia acessível está na borda. Sem rede de transporte de alta capacidade que ligue os dois, o custo da segregação é cobrado em horas de vida por dia.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-49",
+                          "texto_apoio":  "Em áreas centrais degradadas de várias cidades, investimentos em requalificação urbana elevaram os preços de imóveis e aluguéis, levando à saída dos antigos moradores.",
+                          "enunciado":  "O processo descrito é ______, e sua característica central é ______; ele se distingue da simples requalificação por ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "a gentrificação – a substituição da população residente por outra de renda mais alta – produzir expulsão indireta pelo preço",
+                                               "b":  "a periferização – a ocupação de áreas distantes por população de baixa renda – ocorrer nas bordas da cidade e não em suas áreas centrais",
+                                               "c":  "a conurbação – a fusão das manchas urbanas de municípios vizinhos entre si – envolver mais de um município na mesma área metropolitana",
+                                               "d":  "a verticalização – a substituição de edificações horizontais por edifícios altos – alterar a densidade construída sem modificar quem ali reside",
+                                               "e":  "a metropolização – a concentração de população e de atividades na cidade principal – ampliar a área de influência exercida por esse centro"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "A expulsão não é por ordem judicial: é pelo aluguel. Requalificar sem política habitacional que garanta permanência transforma melhoria urbana em troca de moradores — e o benefício vai para quem chega.",
+                          "formato":  "lacunas",
+                          "banca":  "unicamp"
+                      },
+                      {
+                          "id":  "geografia-50",
+                          "texto_apoio":  "O Estatuto da Cidade, de 2001, estabelece instrumentos como o plano diretor, o IPTU progressivo no tempo e o usucapião especial urbano.",
+                          "enunciado":  "O objetivo comum desses instrumentos é:",
+                          "alternativas":  {
+                                               "a":  "padronizar as normas de construção adotadas em todo o território nacional, medida destinada a reduzir os custos das edificações urbanas",
+                                               "b":  "ampliar a arrecadação tributária dos municípios brasileiros, finalidade que orientou a elaboração do conjunto de instrumentos previstos na lei",
+                                               "c":  "restringir o crescimento das cidades, impedindo a incorporação de novas áreas ao perímetro urbano definido por cada um dos municípios",
+                                               "d":  "transferir ao governo federal a competência sobre o ordenamento territorial urbano, antes exercida pelos municípios de forma autônoma",
+                                               "e":  "fazer a propriedade urbana cumprir sua função social"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "É a regulamentação dos artigos da Constituição sobre política urbana. O plano diretor define o uso, o IPTU progressivo pune a ociosidade e o usucapião reconhece a posse — três formas de subordinar a propriedade ao interesse coletivo.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-51",
+                          "texto_apoio":  "Dados sobre saneamento no Brasil mostram que parcela significativa da população não tem coleta de esgoto e que boa parte do esgoto coletado não recebe tratamento.",
+                          "enunciado":  "A consequência sanitária mais direta desse quadro é:",
+                          "alternativas":  {
+                                               "a":  "a elevação do custo da energia elétrica nas regiões afetadas, em razão da necessidade de tratamento adicional da água captada nos mananciais",
+                                               "b":  "o aumento da incidência de doenças respiratórias crônicas na população residente nas áreas em que o serviço não se encontra disponível",
+                                               "c":  "a alta incidência de doenças de veiculação hídrica",
+                                               "d":  "a redução da disponibilidade de água subterrânea, processo decorrente da menor recarga dos aquíferos nas áreas urbanas densamente ocupadas",
+                                               "e":  "a diminuição da produtividade agrícola nas áreas próximas às regiões metropolitanas em que o esgoto não recebe tratamento adequado"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Diarreia, hepatite A, leptospirose, verminoses: são doenças que a engenharia sanitária resolve melhor que a medicina. É o exemplo mais direto de como infraestrutura urbana determina indicador de saúde.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-52",
+                          "texto_apoio":  "Enchentes urbanas se tornaram mais frequentes em cidades brasileiras, mesmo em episódios de chuva de intensidade semelhante à de décadas anteriores.",
+                          "enunciado":  "Entre as causas desse agravamento está:",
+                          "alternativas":  {
+                                               "a":  "a impermeabilização do solo e a ocupação de várzeas e fundos de vale",
+                                               "b":  "o aumento da capacidade de infiltração do solo urbano, decorrente da ampliação das áreas verdes implantadas nas últimas décadas nas cidades",
+                                               "c":  "a redução do volume total de chuvas registrado nas áreas urbanas, tendência que se verifica de forma consistente nas últimas décadas",
+                                               "d":  "o afastamento das áreas ocupadas em relação aos cursos de água, processo que resultou das políticas de reassentamento adotadas nas cidades",
+                                               "e":  "a ampliação da rede de drenagem em ritmo superior ao do crescimento da área urbanizada em cada uma das regiões metropolitanas do país"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Asfalto e telhado impedem a infiltração, e a água que antes descia devagar chega ao córrego de uma vez. Ocupar a várzea completa o problema: constrói-se justamente onde o rio precisa transbordar.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-53",
+                          "texto_apoio":  "Nas últimas décadas, cidades médias brasileiras cresceram em ritmo superior ao das grandes metrópoles.",
+                          "enunciado":  "Esse processo é chamado de desconcentração urbana e se explica, entre outros fatores, por:",
+                          "alternativas":  {
+                                               "a":  "pela ausência de infraestrutura nas cidades médias, condição que reduziu o custo de instalação das atividades produtivas nessas áreas",
+                                               "b":  "pela redução da população total do país, tendência que afetou de forma desproporcional os municípios de maior porte do território nacional",
+                                               "c":  "pelo retorno em massa da população urbana às áreas rurais, movimento registrado de forma generalizada nas últimas décadas no Brasil",
+                                               "d":  "pela transferência da capital federal para o interior do território, medida que redistribuiu a população entre as regiões brasileiras",
+                                               "e":  "deseconomias de aglomeração nas metrópoles e atração de investimentos para cidades menores"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "Congestionamento, preço da terra e violência elevam o custo de operar na metrópole. Cidades médias oferecem infraestrutura suficiente com custo menor, e as políticas de incentivo fiscal fizeram o resto.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-54",
+                          "texto_apoio":  "Diariamente, milhões de brasileiros se deslocam do município em que residem para outro, onde trabalham ou estudam, retornando no mesmo dia.",
+                          "enunciado":  "Esse deslocamento é denominado:",
+                          "alternativas":  {
+                                               "a":  "êxodo rural, deslocamento definitivo da população do campo para as cidades registrado ao longo da segunda metade do século vinte no país",
+                                               "b":  "migração pendular",
+                                               "c":  "migração de retorno, movimento em que o migrante volta à região de origem após período de permanência em outra unidade da federação",
+                                               "d":  "transumância, deslocamento sazonal de rebanhos e de seus criadores entre áreas de pastagem conforme a disponibilidade de alimento",
+                                               "e":  "migração sazonal, deslocamento temporário associado aos períodos de colheita das principais culturas comerciais praticadas no território"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Pendular porque vai e volta no mesmo dia, sem mudança de residência. É o indicador que mais revela a integração real de uma região metropolitana — e o custo da separação entre onde se mora e onde se trabalha.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-55",
+                          "texto_apoio":  "Compare a urbanização dos países centrais, ocorrida ao longo de mais de um século, com a dos países periféricos, concentrada em poucas décadas do século XX.",
+                          "enunciado":  "A segunda se distingue por ser ______, por ______ e por resultar em ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "mais planejada – seguir diretrizes definidas por órgãos técnicos especializados – cidades com traçado regular e ocupação integralmente formal",
+                                               "b":  "mais lenta – ser acompanhada de investimento público prévio em infraestrutura urbana – cidades com distribuição equilibrada de serviços entre bairros",
+                                               "c":  "mais antiga – decorrer diretamente do processo de industrialização local – cidades de porte reduzido distribuídas de modo uniforme no território",
+                                               "d":  "mais rápida – não ser acompanhada de oferta suficiente de emprego e infraestrutura – cidades com grandes áreas precárias",
+                                               "e":  "mais reversível – permitir o retorno da população às áreas rurais de origem – redução progressiva da taxa de urbanização ao longo das décadas"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Na Europa, industrialização e urbanização caminharam juntas por gerações. Na periferia, a cidade recebeu em três décadas uma população que o mercado formal não absorveu — e a favela é a resposta que sobrou.",
+                          "formato":  "lacunas",
+                          "banca":  "unifesp"
+                      },
+                      {
+                          "id":  "geografia-56",
+                          "texto_apoio":  "A partir da década de 1970, indústrias deixaram a cidade de São Paulo e se instalaram no interior do estado e em outras unidades da federação.",
+                          "enunciado":  "Esse processo é conhecido como:",
+                          "alternativas":  {
+                                               "a":  "desindustrialização completa do território paulista, com transferência integral da produção para outros países ao longo das décadas seguintes",
+                                               "b":  "desconcentração industrial, sem que a metrópole perdesse o comando das decisões",
+                                               "c":  "reconcentração industrial, com retorno das plantas produtivas à área central da região metropolitana ao longo do período mencionado",
+                                               "d":  "industrialização tardia, processo de instalação das primeiras plantas fabris no território brasileiro ocorrido a partir daquela década",
+                                               "e":  "substituição de importações, política que promoveu a produção interna de bens anteriormente adquiridos no mercado externo pelo país"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "As fábricas saíram; as sedes, os bancos e os escritórios de decisão ficaram. A metrópole se especializou em serviços de comando, o que é diferente de perder importância — é mudar de função na divisão do trabalho.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-57",
+                          "texto_apoio":  "A matriz elétrica brasileira apresenta participação de fontes renováveis muito superior à média mundial.",
+                          "enunciado":  "Essa característica se explica sobretudo pela:",
+                          "alternativas":  {
+                                               "a":  "pela participação predominante da energia nuclear, fonte que responde pela maior parte da geração registrada no território brasileiro hoje",
+                                               "b":  "pela ausência de reservas de combustíveis fósseis no território nacional, condição que obrigou o país a recorrer exclusivamente às fontes renováveis",
+                                               "c":  "pela adoção de metas internacionais de redução de emissões, compromisso que determinou a composição atual da matriz elétrica brasileira",
+                                               "d":  "predominância histórica da geração hidrelétrica, complementada por eólica e biomassa",
+                                               "e":  "pelo consumo reduzido de energia elétrica no país, o que dispensou a construção de usinas baseadas na queima de combustíveis fósseis"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "O relevo de planalto e os grandes rios permitiram construir um parque hidrelétrico enorme. Nas últimas décadas, eólica no Nordeste, solar e bagaço de cana ampliaram a participação renovável — e reduziram a dependência de um regime de chuvas só.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-58",
+                          "texto_apoio":  "A dependência de uma única fonte para a geração elétrica expõe o sistema a riscos específicos.",
+                          "enunciado":  "No caso brasileiro, o principal risco associado à hidreletricidade é:",
+                          "alternativas":  {
+                                               "a":  "a variação do regime de chuvas, que reduz o volume dos reservatórios",
+                                               "b":  "a oscilação do preço internacional do combustível empregado nas usinas, variável definida fora do país e sujeita a fatores geopolíticos",
+                                               "c":  "o esgotamento das reservas do recurso utilizado, processo que se acelera à medida que o consumo nacional de energia elétrica aumenta",
+                                               "d":  "a emissão de gases de efeito estufa em volume superior ao das demais fontes disponíveis para a geração de eletricidade no território",
+                                               "e":  "a impossibilidade técnica de armazenar a energia gerada, característica que obriga o consumo imediato de toda a produção realizada"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Reservatório baixo significa acionar térmicas caras e poluentes, e a conta chega na bandeira tarifária. É a vulnerabilidade que liga o clima diretamente ao preço da energia no país.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-59",
+                          "texto_apoio":  "O Nordeste brasileiro concentra a maior parte da capacidade eólica instalada do país.",
+                          "enunciado":  "Essa concentração se explica por:",
+                          "alternativas":  {
+                                               "a":  "pela ausência de outras fontes de geração no território nordestino, situação que obrigou a região a recorrer exclusivamente a essa alternativa",
+                                               "b":  "pela maior demanda de energia elétrica registrada na região, o que justificou a instalação da capacidade de geração próxima aos consumidores",
+                                               "c":  "pela disponibilidade de grandes reservatórios de água na região, condição necessária ao funcionamento dos equipamentos de geração eólica",
+                                               "d":  "pela proximidade dos principais centros industriais do país, o que reduz as perdas associadas à transmissão da energia gerada localmente",
+                                               "e":  "ventos constantes em direção e velocidade, sobretudo no litoral e nas chapadas"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "Os alísios sopram com regularidade rara, e regularidade vale mais que intensidade na geração eólica. O consumo maior está no Sudeste — o que exige linhas de transmissão longas para levar a energia até lá.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-60",
+                          "texto_apoio":  "A descoberta das reservas do pré-sal ampliou de forma significativa o volume de petróleo disponível no território brasileiro.",
+                          "enunciado":  "Um dos desafios associados a essas reservas é:",
+                          "alternativas":  {
+                                               "a":  "a baixa qualidade do petróleo encontrado, característica que inviabiliza seu refino com as tecnologias atualmente disponíveis no país",
+                                               "b":  "a localização em território de soberania disputada com países vizinhos, o que exige acordos internacionais antes do início da exploração",
+                                               "c":  "o custo elevado de extração em águas profundas e sob camada de sal",
+                                               "d":  "o volume reduzido das reservas identificadas, insuficiente para alterar a posição do país no mercado internacional do produto extraído",
+                                               "e":  "a proximidade das áreas de exploração em relação às zonas urbanas densamente ocupadas do litoral brasileiro na região Sudeste do país"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "São milhares de metros de lâmina d\u0027água mais uma espessa camada de sal antes do reservatório. A viabilidade econômica depende do preço internacional do barril — abaixo de certo patamar, extrair deixa de compensar.",
+                          "formato":  "direta"
+                      }
+                  ],
     "gramatica":  [
                       {
                           "id":  "gramatica-01",

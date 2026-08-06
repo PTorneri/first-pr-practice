@@ -4615,6 +4615,2284 @@ window.QUESTION_BANKS = {
                        "formato":  "direta"
                    }
                ],
+    "gramatica":  [
+                      {
+                          "id":  "gramatica-01",
+                          "texto_apoio":  "Considere: (I) \"Chegaram ao pronto-socorro três pacientes com o mesmo quadro.\" (II) \"Chegou ao pronto-socorro três pacientes com o mesmo quadro.\"",
+                          "enunciado":  "Quanto à concordância verbal, é correto afirmar que:",
+                          "alternativas":  {
+                                               "a":  "ambas estão corretas, já que a concordância com sujeito posposto é facultativa e admite tanto o singular quanto o plural sem prejuízo de sentido",
+                                               "b":  "apenas II está correta, uma vez que o verbo colocado antes do sujeito permanece obrigatoriamente na terceira pessoa do singular em qualquer situação",
+                                               "c":  "apenas I está correta, pois o verbo concorda com o sujeito, ainda que posposto",
+                                               "d":  "ambas estão incorretas, pois o sujeito da oração é o termo \"pronto-socorro\" e exigiria a forma verbal na terceira pessoa do singular do pretérito",
+                                               "e":  "apenas II está correta, porque a expressão \"com o mesmo quadro\" funciona como adjunto e transfere o núcleo do sujeito para a forma singular"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "O sujeito é \"três pacientes\", e a posição dele na frase não altera a concordância: o verbo vai para o plural. Inverter a ordem é recurso de estilo, não de sintaxe — o núcleo do sujeito continua sendo o mesmo.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-02",
+                          "texto_apoio":  "\"Havia mais de vinte pessoas na sala de espera quando o plantão começou.\"",
+                          "enunciado":  "A forma verbal permanece no singular porque o verbo \"haver\", nesse emprego:",
+                          "alternativas":  {
+                                               "a":  "significa \"existir\" e é impessoal, não admitindo sujeito",
+                                               "b":  "está acompanhado da locução \"mais de\", que impõe a forma singular a qualquer verbo com o qual venha a se combinar dentro do período",
+                                               "c":  "concorda com o termo \"sala de espera\", que exerce a função de sujeito da oração e se encontra no singular na construção apresentada",
+                                               "d":  "aparece no pretérito imperfeito, tempo verbal que no português contemporâneo dispensa a flexão de número em construções existenciais",
+                                               "e":  "funciona como auxiliar de uma locução verbal cujo verbo principal ficou subentendido, o que impede a flexão de número na forma empregada"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "\"Vinte pessoas\" é objeto direto, não sujeito: a oração não tem sujeito. Por isso o verbo fica na terceira pessoa do singular. Com \"existir\", que é pessoal, a frase seria \"existiam mais de vinte pessoas\".",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-03",
+                          "texto_apoio":  "\"Faz três meses que o paciente iniciou o tratamento.\"",
+                          "enunciado":  "A impessoalidade do verbo \"fazer\", nesse caso, decorre de ele:",
+                          "alternativas":  {
+                                               "a":  "constituir locução com o verbo \"iniciar\", cujo particípio determina a forma da flexão adotada pelo primeiro elemento da construção verbal",
+                                               "b":  "estar empregado no presente do indicativo, tempo em que os verbos que exprimem duração não recebem flexão de número em nenhuma das pessoas",
+                                               "c":  "vir seguido de oração iniciada pela conjunção integrante \"que\", estrutura que impede a concordância com o termo numérico anteposto a ela",
+                                               "d":  "ter como sujeito o termo \"o paciente\", que se encontra deslocado para a segunda oração do período composto apresentado no enunciado",
+                                               "e":  "indicar tempo decorrido"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "\"Fazer\" indicando tempo decorrido é impessoal e fica sempre no singular — \"faz três meses\", \"fazia dez anos\". A mesma regra vale para fenômenos da natureza: \"faz frio\".",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-04",
+                          "texto_apoio":  "Considere: (I) \"A maioria dos pacientes chegou antes do horário.\" (II) \"A maioria dos pacientes chegaram antes do horário.\"",
+                          "enunciado":  "Sobre as duas construções, é correto afirmar que:",
+                          "alternativas":  {
+                                               "a":  "apenas I é aceita, uma vez que o núcleo do sujeito é \"a maioria\" e nenhuma outra concordância se admite na norma culta escrita do português",
+                                               "b":  "ambas são aceitas, pois a concordância é facultativa com expressões partitivas",
+                                               "c":  "apenas II é aceita, porque o sentido plural do conjunto se sobrepõe à forma singular do termo que funciona como núcleo do sujeito da oração",
+                                               "d":  "ambas são incorretas, já que expressões partitivas exigem que o verbo permaneça no infinitivo impessoal quando seguidas de complemento no plural",
+                                               "e":  "apenas I é aceita, e a construção II configura caso de silepse de número não admitida em textos que sigam o registro formal da língua escrita"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Com \"a maioria de\", \"grande parte de\", \"metade de\" seguidos de plural, a gramática admite as duas concordâncias: com o núcleo partitivo ou com o termo plural. A escolha entre elas é de ênfase, não de correção.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-05",
+                          "texto_apoio":  "\"Ele é um dos residentes que mais ______ na enfermaria.\"",
+                          "enunciado":  "A forma verbal que preenche a lacuna, conforme a norma culta, é:",
+                          "alternativas":  {
+                                               "a":  "permanecerá",
+                                               "b":  "permanece",
+                                               "c":  "permaneço",
+                                               "d":  "permanecem",
+                                               "e":  "permaneceria"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Em \"um dos que\", o antecedente do relativo é \"residentes\", no plural: entre os que permanecem, ele é um. A forma singular só caberia se o sentido fosse de exclusividade, o que a construção \"um dos\" já afasta.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-06",
+                          "texto_apoio":  "Compare: (I) \"Alugam-se salas para consultório.\" (II) \"Precisa-se de enfermeiros para o turno da noite.\"",
+                          "enunciado":  "Em I, a partícula \"se\" é ______ e o verbo concorda com ______; em II, ela é ______ e o verbo ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "índice de indeterminação do sujeito – o termo \"consultório\" – apassivadora – concorda com \"enfermeiros\", que exerce a função de sujeito paciente na oração",
+                                               "b":  "apassivadora – o sujeito \"salas\" – índice de indeterminação do sujeito – fica no singular",
+                                               "c":  "pronome reflexivo – o agente da ação praticada – pronome recíproco – concorda com o complemento preposicionado que aparece logo em seguida a ele",
+                                               "d":  "partícula expletiva – nenhum termo da oração – conjunção integrante – permanece invariável por não haver sujeito expresso em nenhuma das duas frases",
+                                               "e":  "apassivadora – o agente da passiva – apassivadora – concorda igualmente com o termo preposicionado, mantendo o paralelismo entre as duas construções"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "O que distingue os dois casos é a transitividade: \"alugar\" é direto, e \"salas\" vira sujeito de uma passiva sintética, exigindo plural. \"Precisar\" é indireto, não há sujeito possível, e o verbo fica na terceira pessoa do singular.",
+                          "formato":  "lacunas",
+                          "banca":  "unifesp"
+                      },
+                      {
+                          "id":  "gramatica-07",
+                          "texto_apoio":  "\"Vendem-se equipamentos hospitalares usados.\"",
+                          "enunciado":  "A forma verbal está no plural porque:",
+                          "alternativas":  {
+                                               "a":  "o verbo \"vender\" pertence ao grupo dos que exigem obrigatoriamente a flexão de plural quando acompanhados de pronome átono na próclise",
+                                               "b":  "o verbo concorda com o adjetivo \"usados\", que aparece no plural e determina a flexão de toda a construção verbal empregada na oração",
+                                               "c":  "a partícula \"se\" indetermina o sujeito, e nesse caso a norma culta recomenda o emprego da terceira pessoa do plural para marcar a indeterminação",
+                                               "d":  "\"equipamentos\" é o sujeito de uma construção passiva",
+                                               "e":  "o termo \"hospitalares\" funciona como núcleo do sujeito composto da oração e impõe ao verbo a concordância com a forma plural apresentada"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "A frase equivale a \"equipamentos hospitalares usados são vendidos\": o \"se\" é apassivador e o termo que parecia objeto é, na verdade, sujeito paciente. Daí o plural obrigatório.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-08",
+                          "texto_apoio":  "Considere: (I) \"Seguem anexas as cópias dos exames.\" (II) \"Muito obrigada — disse a paciente.\"",
+                          "enunciado":  "Sobre a concordância nominal nos dois enunciados:",
+                          "alternativas":  {
+                                               "a":  "ambos estão corretos, pois \"anexo\" e \"obrigado\" funcionam como adjetivos e variam",
+                                               "b":  "apenas I está correto, já que \"obrigado\" é forma cristalizada e permanece invariável independentemente de quem produz o enunciado em que ela aparece",
+                                               "c":  "apenas II está correto, uma vez que \"anexo\" tem valor adverbial nessa construção e por isso não admite flexão de gênero nem de número",
+                                               "d":  "ambos estão incorretos, porque as duas palavras pertencem à classe dos advérbios e deveriam permanecer na forma masculina singular nos dois casos",
+                                               "e":  "apenas I está correto, e em II a forma adequada seria \"muito obrigado\", em razão da concordância com o termo \"muito\" que a antecede na frase"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "As duas palavras são adjetivas e concordam com o termo a que se referem: as cópias seguem anexas; quem agradece é a paciente, então ela está obrigada. A forma invariável seria \"em anexo\", que é locução adverbial.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-09",
+                          "texto_apoio":  "Compare: (I) \"É proibido entrada de acompanhantes.\" (II) \"É proibida a entrada de acompanhantes.\"",
+                          "enunciado":  "As duas construções são corretas porque, em I, o sujeito ______ e o predicativo ______; em II, o sujeito ______ e o predicativo ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "é o termo \"entrada\" nos dois casos – varia livremente – é o mesmo termo – varia livremente, sendo as duas formas intercambiáveis em qualquer contexto",
+                                               "b":  "está determinado por artigo – concorda com ele – está sem determinante – permanece invariável, mantendo-se sempre na forma feminina singular",
+                                               "c":  "é a oração inteira – concorda com o verbo da oração principal – é o termo \"acompanhantes\" – concorda com esse termo no plural masculino",
+                                               "d":  "é indeterminado – acompanha o gênero do falante – é oculto – concorda com a pessoa a quem a proibição se dirige em cada situação de uso",
+                                               "e":  "está sem determinante – permanece invariável – está determinado por artigo – concorda com ele"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "A regra vale para \"é proibido\", \"é necessário\", \"é bom\": sem artigo, o sujeito fica genérico e o predicativo não flexiona; com artigo, o sujeito se determina e a concordância passa a ser obrigatória.",
+                          "formato":  "lacunas",
+                          "banca":  "unesp"
+                      },
+                      {
+                          "id":  "gramatica-10",
+                          "texto_apoio":  "\"A paciente estava meio cansada e tomou meia dose do medicamento.\"",
+                          "enunciado":  "As duas ocorrências de \"meio\" se distinguem porque a primeira é:",
+                          "alternativas":  {
+                                               "a":  "substantivo e funciona como núcleo do sujeito; a segunda é adjetivo e exerce a função de adjunto adnominal do termo que aparece em seguida",
+                                               "b":  "numeral e concorda com o adjetivo que a acompanha; a segunda é advérbio de intensidade e permanece invariável em qualquer contexto de emprego",
+                                               "c":  "advérbio e não varia; a segunda é numeral e concorda com o substantivo",
+                                               "d":  "preposição e introduz um complemento nominal; a segunda é conjunção e estabelece relação de adição entre as duas orações do período",
+                                               "e":  "pronome indefinido e retoma um termo anterior; a segunda é artigo e determina o substantivo que a acompanha na segunda oração do período"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "\"Meio cansada\" equivale a \"um pouco cansada\": modifica o adjetivo, é advérbio e não flexiona — \"meia cansada\" é erro. \"Meia dose\" quantifica o substantivo e concorda com ele.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-11",
+                          "texto_apoio":  "Considere: (I) \"Havia bastantes motivos para a suspeita.\" (II) \"Os residentes estavam bastante cansados.\"",
+                          "enunciado":  "A flexão de \"bastantes\" em I e a invariabilidade em II se explicam porque a palavra é, respectivamente:",
+                          "alternativas":  {
+                                               "a":  "substantivo e preposição, distinção que decorre da presença do artigo definido diante do termo modificado na segunda das duas construções apresentadas",
+                                               "b":  "advérbio de intensidade e pronome indefinido, uma vez que na primeira ocorrência ela modifica o verbo e na segunda determina o substantivo do período",
+                                               "c":  "adjetivo e substantivo, funções que se distinguem pela posição ocupada por cada uma das ocorrências em relação ao núcleo a que se referem na frase",
+                                               "d":  "numeral e conjunção, classes que se diferenciam pela possibilidade de a primeira ser substituída por uma quantidade exata dentro do mesmo contexto",
+                                               "e":  "pronome indefinido e advérbio de intensidade"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "Quando equivale a \"muitos\" e acompanha substantivo, é pronome e varia. Quando equivale a \"muito\" e modifica adjetivo, verbo ou outro advérbio, é advérbio e fica invariável — o mesmo comportamento de \"meio\".",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-12",
+                          "texto_apoio":  "Compare: (I) \"O médico e o enfermeiro assinaram o prontuário.\" (II) \"Assinou o prontuário o médico e o enfermeiro.\"",
+                          "enunciado":  "Sobre a concordância nos dois enunciados, é correto afirmar que:",
+                          "alternativas":  {
+                                               "a":  "os dois admitem o singular, uma vez que a conjunção \"e\" pode ser interpretada como marca de alternância entre os dois núcleos do sujeito da oração",
+                                               "b":  "os dois exigem o plural, pois o sujeito composto impõe essa concordância independentemente da posição que venha a ocupar em relação ao verbo",
+                                               "c":  "I exige o plural; em II, com sujeito composto posposto, o singular também é aceito",
+                                               "d":  "apenas II está correto, já que o verbo colocado no início do período concorda obrigatoriamente com o núcleo do sujeito que lhe estiver mais próximo",
+                                               "e":  "os dois estão incorretos, porque o sujeito composto exige a forma verbal na terceira pessoa do plural precedida de pronome pessoal reto explícito"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Com sujeito composto anteposto, o plural é obrigatório. Posposto, a norma admite também a concordância com o núcleo mais próximo — é a chamada concordância atrativa, aceita mas não obrigatória.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-13",
+                          "texto_apoio":  "Considere: (I) \"Vinte por cento dos leitos estão ocupados.\" (II) \"Um por cento dos leitos está ocupado.\"",
+                          "enunciado":  "A diferença de concordância entre os dois enunciados se explica porque, com expressões percentuais, o verbo concorda:",
+                          "alternativas":  {
+                                               "a":  "sempre com o termo preposicionado que vem em seguida à expressão percentual, independentemente do valor numérico indicado antes dele no período",
+                                               "b":  "com o numeral que acompanha a expressão",
+                                               "c":  "sempre na terceira pessoa do singular, uma vez que expressões percentuais constituem construções impessoais e não admitem sujeito determinado",
+                                               "d":  "com o termo mais próximo, critério que se aplica a todas as construções em que o sujeito é formado por mais de um elemento nominal na frase",
+                                               "e":  "de forma facultativa em qualquer caso, cabendo a quem escreve optar pelo singular ou pelo plural conforme a ênfase pretendida no enunciado"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "\"Vinte\" é plural e pede \"estão\"; \"um\" é singular e pede \"está\". O termo preposicionado que segue não comanda a concordância — se comandasse, os dois teriam a mesma forma.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-14",
+                          "texto_apoio":  "\"Mais de um paciente relatou o mesmo sintoma naquela semana.\"",
+                          "enunciado":  "A forma verbal no singular se justifica porque a expressão \"mais de um\":",
+                          "alternativas":  {
+                                               "a":  "constitui locução prepositiva e por isso não pode integrar o sujeito da oração, que nesse caso permanece indeterminado ao longo de todo o período",
+                                               "b":  "funciona como adjunto adverbial de intensidade, o que impede qualquer influência sua sobre a flexão de número da forma verbal utilizada na oração",
+                                               "c":  "concorda com o termo \"sintoma\", núcleo do complemento verbal, que aparece no singular na construção apresentada pelo enunciado da questão",
+                                               "d":  "exige o verbo no singular, apesar de indicar quantidade superior a um",
+                                               "e":  "admite tanto o singular quanto o plural, sendo a escolha entre as duas formas determinada exclusivamente pelo registro adotado por quem escreve"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "É exceção consagrada: o sentido é plural, mas a forma manda, e o verbo fica no singular. O plural só aparece quando a expressão se repete — \"mais de um paciente e mais de um médico discutiram o caso\".",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-15",
+                          "texto_apoio":  "Compare: (I) \"Tudo eram dúvidas no início do plantão.\" (II) \"O problema eram os horários.\"",
+                          "enunciado":  "Nos dois enunciados, o verbo \"ser\" concorda com ______, e não com ______, o que é admitido quando ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "o predicativo – o sujeito – este é um pronome neutro ou palavra de sentido coletivo",
+                                               "b":  "o sujeito – o predicativo – os dois termos apresentam o mesmo número gramatical, situação em que a concordância se torna obrigatória com o primeiro deles",
+                                               "c":  "o adjunto adverbial – o núcleo do sujeito – a oração se inicia por um termo deslocado de sua posição habitual dentro da estrutura do período composto",
+                                               "d":  "o objeto direto – o agente da passiva – o verbo se encontra empregado na voz passiva analítica e admite a inversão dos termos que o acompanham",
+                                               "e":  "o complemento nominal – o aposto explicativo – há mais de um elemento nominal disponível para exercer a função sintática de núcleo do sujeito"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Com \"tudo\", \"isto\", \"o resto\" ou substantivo de sentido geral como sujeito, o verbo \"ser\" pode ir ao predicativo plural. É a exceção que explica \"tudo são flores\" e \"o problema eram os horários\".",
+                          "formato":  "lacunas",
+                          "banca":  "unifesp"
+                      },
+                      {
+                          "id":  "gramatica-16",
+                          "texto_apoio":  "Compare: (I) \"O residente assistiu ao procedimento pela primeira vez.\" (II) \"A equipe assistiu o paciente durante toda a madrugada.\"",
+                          "enunciado":  "A diferença de regência entre os dois enunciados corresponde a uma diferença de sentido, pois \"assistir\":",
+                          "alternativas":  {
+                                               "a":  "é transitivo indireto no sentido de presenciar e direto no de prestar assistência",
+                                               "b":  "é transitivo direto no sentido de presenciar e indireto no de prestar assistência, distinção que a norma culta mantém apenas na modalidade escrita da língua",
+                                               "c":  "admite as duas regências com o mesmo sentido, sendo a escolha entre elas determinada pelo grau de formalidade do contexto em que o verbo é empregado",
+                                               "d":  "exige sempre a preposição, e a ausência dela em II configura desvio da norma culta que deveria ser corrigido na revisão do texto produzido",
+                                               "e":  "muda de classe gramatical conforme a presença ou a ausência da preposição, funcionando como verbo em um caso e como nome derivado no outro deles"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Assistir a alguma coisa é ver; assistir alguém é cuidar. A preposição não é ornamento: é ela que distingue os dois verbos, e trocá-la muda o que a frase afirma.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-17",
+                          "texto_apoio":  "Compare: (I) \"O candidato visava à vaga de residência.\" (II) \"O gerente visou o documento antes de arquivá-lo.\"",
+                          "enunciado":  "As duas regências de \"visar\" correspondem, respectivamente, aos sentidos de:",
+                          "alternativas":  {
+                                               "a":  "pretender e recusar, valores opostos que a mesma forma verbal assume conforme o complemento seja ou não precedido de preposição na frase",
+                                               "b":  "conferir visto e almejar, distinção que se estabelece pela posição do complemento em relação ao verbo dentro de cada uma das construções apresentadas",
+                                               "c":  "apontar arma e mirar um alvo, acepções que exigem indistintamente a presença da preposição diante do termo que completa o sentido do verbo",
+                                               "d":  "examinar e aprovar, sentidos que se distinguem pelo tempo verbal empregado em cada um dos dois enunciados apresentados para comparação",
+                                               "e":  "almejar e conferir visto"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "No sentido de almejar, \"visar\" pede preposição: visa-se a um cargo. No de pôr visto num documento e no de mirar, é direto. As três acepções convivem, e a regência é o que as separa.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-18",
+                          "texto_apoio":  "\"A mudança de protocolo implicou ______ na rotina do setor.\"",
+                          "enunciado":  "De acordo com a norma culta, a lacuna deve ser preenchida por:",
+                          "alternativas":  {
+                                               "a":  "a alterações",
+                                               "b":  "em alterações",
+                                               "c":  "de alterações",
+                                               "d":  "alterações",
+                                               "e":  "com alterações"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "No sentido de acarretar, \"implicar\" é transitivo direto e dispensa preposição. A construção com \"em\" é frequente na fala, mas a norma a reserva para o sentido de envolver alguém em algo.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-19",
+                          "texto_apoio":  "\"Toda a equipe obedeceu ______ novas normas de biossegurança.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "de",
+                                               "b":  "as",
+                                               "c":  "às",
+                                               "d":  "com",
+                                               "e":  "nas"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "\"Obedecer\" e \"desobedecer\" são transitivos indiretos e pedem a preposição \"a\". Diante de palavra feminina determinada, essa preposição se funde ao artigo e recebe crase.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-20",
+                          "texto_apoio":  "\"O paciente prefere o tratamento ambulatorial ______ internação.\"",
+                          "enunciado":  "Segundo a norma culta, a lacuna deve ser preenchida por:",
+                          "alternativas":  {
+                                               "a":  "do que a",
+                                               "b":  "à",
+                                               "c":  "mais que a",
+                                               "d":  "que a",
+                                               "e":  "ao invés da"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "\"Preferir\" pede objeto direto e objeto indireto com \"a\": prefere-se uma coisa a outra. As construções com \"do que\" e os reforços do tipo \"muito mais\" são condenados pela norma, ainda que correntes na fala.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-21",
+                          "texto_apoio":  "Compare: (I) \"O aparelho aspira o ar do ambiente.\" (II) \"A residente aspirava à vaga no serviço de emergência.\"",
+                          "enunciado":  "As duas regências de \"aspirar\" correspondem aos sentidos de:",
+                          "alternativas":  {
+                                               "a":  "inalar e exalar, distinção que se estabelece pelo tempo verbal adotado em cada um dos enunciados propostos no exercício apresentado",
+                                               "b":  "almejar e sugar, acepções que se distinguem pelo tipo de sujeito empregado em cada uma das duas construções apresentadas para comparação",
+                                               "c":  "respirar e expirar, sentidos opostos que a presença ou a ausência da preposição permite diferenciar dentro do mesmo contexto de emprego",
+                                               "d":  "sugar e almejar",
+                                               "e":  "cheirar e desejar, valores que a norma culta considera intercambiáveis independentemente da regência adotada por quem produz o enunciado"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Aspirar algo é sugar ou inalar; aspirar a algo é desejar. O par se comporta como \"visar\": mesma forma, dois verbos distintos, separados pela preposição.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-22",
+                          "texto_apoio":  "Compare: (I) \"O residente esqueceu o horário da reunião.\" (II) \"O residente esqueceu-se do horário da reunião.\"",
+                          "enunciado":  "As duas construções são corretas porque \"esquecer\" é ______ quando ______ e ______ quando ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "transitivo indireto – não vem pronominalizado – transitivo direto – vem acompanhado de pronome, caso em que a preposição passa a ser dispensável",
+                                               "b":  "transitivo direto – não vem pronominalizado – transitivo indireto – vem acompanhado de pronome",
+                                               "c":  "intransitivo – o complemento está subentendido – transitivo direto – o complemento aparece expresso na forma de um sintagma nominal preposicionado",
+                                               "d":  "bitransitivo – o objeto indireto vem posposto – intransitivo – o pronome reflexivo assume a função sintática de complemento verbal na estrutura",
+                                               "e":  "de ligação – o predicativo se encontra elíptico – transitivo direto – o pronome exerce a função de sujeito da oração reduzida que o acompanha"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Sem pronome, o verbo é direto: esqueceu o horário. Com pronome, passa a exigir preposição: esqueceu-se do horário. O mesmo vale para \"lembrar\" — lembrei o nome, mas lembrei-me do nome.",
+                          "formato":  "lacunas",
+                          "banca":  "unifesp"
+                      },
+                      {
+                          "id":  "gramatica-23",
+                          "texto_apoio":  "\"A ambulância chegou ______ hospital em nove minutos.\"",
+                          "enunciado":  "Conforme a norma culta, a lacuna é preenchida por:",
+                          "alternativas":  {
+                                               "a":  "até no",
+                                               "b":  "no",
+                                               "c":  "ao",
+                                               "d":  "para o",
+                                               "e":  "em"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Verbos de movimento com ideia de destino pedem \"a\", não \"em\": chega-se a um lugar. A construção com \"em\" é generalizada na fala, mas a norma escrita mantém a distinção.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-24",
+                          "texto_apoio":  "\"O documento trata do acesso ______ prontuário e da obediência ______ prazos estabelecidos.\"",
+                          "enunciado":  "As lacunas são corretamente preenchidas, na ordem, por:",
+                          "alternativas":  {
+                                               "a":  "ao – aos",
+                                               "b":  "do – dos",
+                                               "c":  "no – nos",
+                                               "d":  "com o – com os",
+                                               "e":  "pelo – pelos"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Regência nominal segue a do verbo correspondente: quem acede, acede a; quem obedece, obedece a. Os substantivos \"acesso\" e \"obediência\" herdam essa preposição.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-25",
+                          "texto_apoio":  "\"Todos no setor simpatizaram ______ nova coordenadora.\"",
+                          "enunciado":  "A lacuna deve ser preenchida por:",
+                          "alternativas":  {
+                                               "a":  "pela",
+                                               "b":  "a",
+                                               "c":  "à",
+                                               "d":  "-se com a",
+                                               "e":  "com a"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "\"Simpatizar\" e \"antipatizar\" pedem \"com\" e, ao contrário do que a intuição sugere, não são pronominais: não existe \"simpatizei-me com\". A frase se constrói sem pronome algum.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-26",
+                          "texto_apoio":  "Considere: (I) \"Informei o resultado ao paciente.\" (II) \"Informei o paciente do resultado.\"",
+                          "enunciado":  "Sobre as duas construções, é correto afirmar que:",
+                          "alternativas":  {
+                                               "a":  "apenas II é correta, já que a pessoa informada é sempre o objeto direto e a informação transmitida funciona como complemento preposicionado",
+                                               "b":  "apenas I é correta, uma vez que a coisa informada deve necessariamente ocupar a posição de objeto direto em qualquer construção com esse verbo",
+                                               "c":  "ambas são corretas, pois o verbo admite as duas ordens de complementos",
+                                               "d":  "ambas são incorretas, porque \"informar\" é transitivo direto e não admite complemento preposicionado em nenhuma das acepções registradas para ele",
+                                               "e":  "apenas I é correta, e a construção II resulta de influência estrangeira não incorporada à norma culta do português escrito contemporâneo"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "\"Informar\" é bitransitivo e aceita as duas distribuições: informa-se algo a alguém ou alguém de algo. O mesmo ocorre com \"avisar\", \"comunicar\" e \"notificar\".",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-27",
+                          "texto_apoio":  "\"A equipe ainda não respondeu ______ questionamentos da auditoria.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "aos",
+                                               "b":  "os",
+                                               "c":  "nos",
+                                               "d":  "pelos",
+                                               "e":  "com os"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "\"Responder\" é transitivo indireto quando indica aquilo a que se responde: responde-se a uma pergunta, a um ofício. O objeto direto seria o conteúdo da resposta — \"respondeu que viria\".",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-28",
+                          "texto_apoio":  "Compare: (I) \"O exame custou trezentos reais.\" (II) \"Custou-me acreditar naquele resultado.\"",
+                          "enunciado":  "As duas ocorrências de \"custar\" correspondem, respectivamente, aos sentidos de:",
+                          "alternativas":  {
+                                               "a":  "gastar recursos e provocar dano, valores que se distinguem exclusivamente pela natureza do sujeito de cada uma das duas orações apresentadas",
+                                               "b":  "ser difícil para alguém e ter determinado preço, distinção que se estabelece pela presença do pronome oblíquo em cada uma das construções apresentadas",
+                                               "c":  "acarretar prejuízo e exigir esforço, acepções que o verbo assume conforme o tempo verbal empregado em cada um dos enunciados propostos",
+                                               "d":  "valer a pena e demorar a acontecer, sentidos que a norma culta considera equivalentes no emprego contemporâneo dessa forma verbal",
+                                               "e":  "ter determinado preço e ser difícil para alguém"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "No sentido de preço, o sujeito é a coisa e o complemento é o valor. No de dificuldade, o sujeito é a oração — o que custou foi acreditar — e a pessoa entra como objeto indireto, daí o \"me\".",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-29",
+                          "texto_apoio":  "\"O exame ______ o paciente se submeteu foi repetido no dia seguinte.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "que",
+                                               "b":  "a que",
+                                               "c":  "o qual",
+                                               "d":  "de que",
+                                               "e":  "cujo"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "\"Submeter-se\" pede \"a\", e a preposição exigida pelo verbo da oração adjetiva tem de aparecer antes do relativo. Omiti-la, como em (a), é o deslize mais comum nesse tipo de construção.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-30",
+                          "texto_apoio":  "Considere: (I) \"O setor ______ ele trabalha foi reformado.\" (II) \"A unidade ______ ele se dirigiu ficava no outro bloco.\"",
+                          "enunciado":  "As lacunas são preenchidas, na norma culta, por ______ e ______, porque \"onde\" e \"aonde\" se distinguem ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "aonde – aonde – pelo grau de formalidade exigido em cada contexto, sendo a forma com preposição a única aceita na modalidade escrita da língua",
+                                               "b":  "aonde – onde – pela extensão do espaço a que cada uma das duas formas se refere dentro do enunciado em que aparecem empregadas",
+                                               "c":  "onde – onde – pela ausência de qualquer distinção entre as duas formas, que a norma culta contemporânea considera inteiramente equivalentes",
+                                               "d":  "onde – aonde – pela ideia de permanência, na primeira, e de movimento, na segunda",
+                                               "e":  "onde – donde – pela origem do deslocamento indicado, que a segunda forma explicita e a primeira mantém implícita na estrutura da oração"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "\"Onde\" indica lugar em que se está; \"aonde\" traz a preposição \"a\" e acompanha verbos de movimento — dirigir-se a, ir a, chegar a. Trabalha-se onde; dirige-se aonde.",
+                          "formato":  "lacunas",
+                          "banca":  "unesp"
+                      },
+                      {
+                          "id":  "gramatica-31",
+                          "texto_apoio":  "\"O residente entregou o laudo ______ médica plantonista.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "a",
+                                               "b":  "à",
+                                               "c":  "há",
+                                               "d":  "ah",
+                                               "e":  "as"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "\"Entregar\" pede a preposição \"a\", e \"médica\" é palavra feminina determinada, que admite o artigo \"a\". A fusão das duas vogais é o que a crase assinala.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-32",
+                          "texto_apoio":  "Considere: (I) \"Passou a limpo o relatório.\" (II) \"O paciente foi levado a pé até a sala.\"",
+                          "enunciado":  "A ausência do acento indicativo de crase nos dois enunciados se explica porque:",
+                          "alternativas":  {
+                                               "a":  "os termos \"limpo\" e \"pé\" funcionam como adjetivos e a crase só ocorre diante de substantivos que possam ser determinados por artigo definido",
+                                               "b":  "os dois enunciados apresentam locuções adverbiais de modo, classe que nunca recebe o acento indicativo de crase em nenhuma circunstância de uso",
+                                               "c":  "o verbo de cada uma das orações é intransitivo e por isso não exige preposição diante do termo que aparece em seguida na construção apresentada",
+                                               "d":  "as palavras que seguem o \"a\" são masculinas e não admitem artigo feminino",
+                                               "e":  "o acento foi suprimido pela reforma ortográfica em todas as locuções formadas por preposição seguida de palavra iniciada por consoante na língua"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Crase é a fusão da preposição \"a\" com o artigo feminino \"a\". Diante de palavra masculina não há artigo feminino para fundir, e o acento não se justifica — a exceção é a elipse de \"moda\", como em \"bife à milanesa\".",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-33",
+                          "texto_apoio":  "\"A equipe começou a atender os casos mais graves.\"",
+                          "enunciado":  "O \"a\" destacado não recebe acento porque antecede:",
+                          "alternativas":  {
+                                               "a":  "um verbo, classe que não admite artigo",
+                                               "b":  "um termo masculino plural, situação em que o artigo feminino se torna incompatível com a estrutura sintática apresentada pelo período composto",
+                                               "c":  "uma locução verbal cujo auxiliar já contém a preposição exigida pela regência do verbo principal empregado na construção analisada",
+                                               "d":  "um complemento indeterminado, cuja ausência de artigo decorre da impossibilidade de identificar previamente os casos mencionados no enunciado",
+                                               "e":  "uma oração reduzida de infinitivo, estrutura em que o acento é facultativo e depende do registro adotado por quem produz o texto escrito"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Verbo não recebe artigo, e sem artigo não há o que fundir. O \"a\" ali é apenas a preposição exigida por \"começar\". A regra vale para qualquer infinitivo: \"disposto a colaborar\", \"pronto a sair\".",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-34",
+                          "texto_apoio":  "\"A visita foi remarcada para ______ tarde do dia seguinte.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "as",
+                                               "b":  "à",
+                                               "c":  "há",
+                                               "d":  "às",
+                                               "e":  "a"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "A preposição já está expressa em \"para\", e o que falta ali é apenas o artigo. Crase exigiria a preposição \"a\" — como em \"remarcada à tarde\" no sentido de horário, que é outra construção.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-35",
+                          "texto_apoio":  "\"O parecer se referia ______ exames realizados na semana anterior.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "esses",
+                                               "b":  "aqueles",
+                                               "c":  "àqueles",
+                                               "d":  "aquelas",
+                                               "e":  "àquelas"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "\"Referir-se\" pede \"a\", e essa preposição se funde à vogal inicial dos demonstrativos \"aquele\", \"aquela\" e \"aquilo\", que recebem o acento grave. Aqui o termo é masculino plural, o que descarta as formas femininas.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-36",
+                          "texto_apoio":  "\"______ partir de segunda-feira, o horário de visitas será outro.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "As",
+                                               "b":  "À",
+                                               "c":  "Há",
+                                               "d":  "Às",
+                                               "e":  "A"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "\"A partir de\" é locução prepositiva e nunca recebe acento — o \"a\" ali não é artigo. É um dos casos que se aprendem por reconhecimento da expressão, e não por análise sintática.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-37",
+                          "texto_apoio":  "Considere: \"às pressas\", \"à toa\", \"às vezes\", \"à noite\".",
+                          "enunciado":  "Nessas expressões, o acento é obrigatório porque se trata de ______ formadas por ______, caso em que o acento ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "expressões cristalizadas – duas preposições sucessivas – varia conforme o registro adotado por quem escreve o texto em cada situação de uso",
+                                               "b":  "locuções prepositivas – artigo e substantivo masculino – depende do verbo que a locução acompanha dentro da oração em que ela aparece empregada",
+                                               "c":  "locuções adverbiais – preposição e palavra feminina – marca-se sempre",
+                                               "d":  "orações reduzidas – conjunção e forma nominal do verbo – é facultativo e não altera o sentido do que está sendo dito em nenhum dos exemplos",
+                                               "e":  "sintagmas nominais – artigo definido e adjetivo – ocorre apenas quando a expressão vier posposta ao verbo principal do período apresentado"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Locuções adverbiais femininas levam o acento mesmo quando o verbo não exige preposição, para evitar ambiguidade com o plural — compare \"a noite caiu\" e \"trabalha à noite\". O mesmo vale para as locuções prepositivas e conjuntivas femininas.",
+                          "formato":  "lacunas",
+                          "banca":  "santacasa"
+                      },
+                      {
+                          "id":  "gramatica-38",
+                          "texto_apoio":  "\"O resultado foi entregue ______ ela ainda pela manhã.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "à",
+                                               "b":  "a",
+                                               "c":  "há",
+                                               "d":  "às",
+                                               "e":  "as"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Pronomes pessoais não admitem artigo, e sem artigo não há crase. A regra vale igualmente para pronomes de tratamento como \"Vossa Senhoria\" e para a maioria dos indefinidos.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-39",
+                          "texto_apoio":  "\"Escreveu o parecer à moda antiga, sem consultar o sistema.\"",
+                          "enunciado":  "O acento se justifica porque a expressão:",
+                          "alternativas":  {
+                                               "a":  "foi formada a partir de um estrangeirismo incorporado à língua, cuja grafia conserva o acento presente na expressão de origem em outro idioma",
+                                               "b":  "é uma locução adverbial de tempo, classe em que o acento indicativo de crase se torna obrigatório independentemente do gênero das palavras envolvidas",
+                                               "c":  "acompanha um verbo de regência indireta, cuja preposição se funde ao adjetivo que aparece imediatamente depois dela na construção apresentada",
+                                               "d":  "contém o substantivo feminino \"moda\", determinado por artigo",
+                                               "e":  "apresenta um adjetivo feminino em posição de núcleo, o que basta para que a preposição exigida pelo verbo receba o acento grave na escrita"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "É a mesma estrutura de \"à milanesa\" e \"à Machado de Assis\": há um substantivo feminino determinado, ainda que ele possa ficar elíptico. Por isso o acento aparece até diante de nome masculino, quando \"moda\" está subentendido.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-40",
+                          "texto_apoio":  "Considere: (I) \"Foi ______ Bahia participar do congresso.\" (II) \"Foi ______ Brasília participar do congresso.\"",
+                          "enunciado":  "As lacunas são corretamente preenchidas, na ordem, por:",
+                          "alternativas":  {
+                                               "a":  "à – a",
+                                               "b":  "a – à",
+                                               "c":  "à – à",
+                                               "d":  "a – a",
+                                               "e":  "há – há"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "O teste é substituir por \"voltar\": volta-se da Bahia, logo o nome admite artigo e há crase; volta-se de Brasília, logo não admite e não há. Nomes de lugar se dividem entre esses dois grupos.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-41",
+                          "texto_apoio":  "\"O doutor Andrade, chefe do serviço de emergência, autorizou o procedimento.\"",
+                          "enunciado":  "As vírgulas do período isolam:",
+                          "alternativas":  {
+                                               "a":  "um aposto explicativo",
+                                               "b":  "um vocativo dirigido ao interlocutor, termo que se caracteriza por não exercer função sintática dentro da oração em que aparece empregado",
+                                               "c":  "uma oração subordinada adverbial deslocada de sua posição habitual, o que exige a marcação por meio de sinal de pontuação nos dois extremos",
+                                               "d":  "um adjunto adverbial de lugar intercalado entre o sujeito e o predicado da oração principal do período composto apresentado no enunciado",
+                                               "e":  "um complemento nominal do termo que o antecede, isolado por vírgulas para evitar ambiguidade quanto ao termo a que ele se refere na frase"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "\"Chefe do serviço de emergência\" identifica quem é o doutor Andrade, acrescentando informação sobre um termo já determinado. Aposto explicativo se isola por vírgulas; se fosse especificativo, elas não apareceriam.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-42",
+                          "texto_apoio":  "Compare: (I) \"Os pacientes, que aguardavam desde cedo, receberam senha.\" (II) \"Os pacientes que aguardavam desde cedo receberam senha.\"",
+                          "enunciado":  "Em I, a oração adjetiva é ______ e informa que ______; em II, ela é ______ e informa que ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "coordenada – as duas informações têm o mesmo peso na frase – subordinada – a segunda informação depende sintaticamente da primeira para se completar",
+                                               "b":  "restritiva – todos aguardavam desde cedo – explicativa – apenas parte deles aguardava, sendo os demais atendidos por ordem distinta de chegada",
+                                               "c":  "reduzida – o tempo de espera foi o mesmo para todos – desenvolvida – houve variação no tempo de espera entre os diferentes grupos de pacientes",
+                                               "d":  "substantiva – a espera constitui o próprio sujeito da oração – adverbial – a espera funciona como circunstância de tempo do fato principal narrado",
+                                               "e":  "explicativa – todos aguardavam desde cedo – restritiva – só uma parte deles aguardava"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "As vírgulas transformam a informação em acréscimo sobre todo o grupo; sem elas, a oração delimita quais pacientes receberam senha. É o caso em que a pontuação, sozinha, muda o que a frase afirma.",
+                          "formato":  "lacunas",
+                          "banca":  "unifesp"
+                      },
+                      {
+                          "id":  "gramatica-43",
+                          "texto_apoio":  "\"A equipe de plantão da unidade de emergência, informou o resultado à família.\"",
+                          "enunciado":  "O período apresenta erro de pontuação porque a vírgula:",
+                          "alternativas":  {
+                                               "a":  "marca a elipse de um verbo que ficou subentendido na segunda parte do período, recurso que exigiria o emprego de ponto e vírgula no lugar dela",
+                                               "b":  "isola um aposto explicativo sem que o segundo sinal correspondente tenha sido empregado no lugar adequado dentro da estrutura do período",
+                                               "c":  "antecede uma conjunção coordenativa aditiva, contexto em que a norma culta desaconselha o emprego desse sinal de pontuação na escrita formal",
+                                               "d":  "separa o sujeito do predicado",
+                                               "e":  "separa dois adjuntos adverbiais de mesma natureza, que deveriam ter sido ligados por conjunção em vez de por sinal de pontuação na frase"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Por mais longo que seja o sujeito, ele não se separa do verbo por vírgula. A extensão do sintagma é justamente o que faz o erro parecer natural — e é por isso que ele aparece tanto.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-44",
+                          "texto_apoio":  "\"Naquela manhã de segunda-feira, o setor amanheceu lotado.\"",
+                          "enunciado":  "A vírgula empregada marca:",
+                          "alternativas":  {
+                                               "a":  "a presença de um aposto que retoma e explicita o termo mencionado imediatamente antes dela na sequência do texto produzido pelo autor",
+                                               "b":  "a separação entre duas orações coordenadas assindéticas que compõem o período apresentado, cada uma com sujeito e predicado próprios e independentes",
+                                               "c":  "o deslocamento de um adjunto adverbial para o início do período",
+                                               "d":  "a supressão de uma conjunção subordinativa que ligaria a primeira parte do período à segunda dentro da estrutura sintática apresentada",
+                                               "e":  "o isolamento de um vocativo por meio do qual o enunciador se dirige diretamente ao leitor do texto no início do período composto"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "O adjunto adverbial de tempo saiu de sua posição habitual, depois do verbo, e a vírgula sinaliza esse deslocamento. Com adjunto curto ela se torna facultativa, mas com expressões longas é recomendada.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-45",
+                          "texto_apoio":  "\"Compareceram à reunião: Ana, do laboratório; Bruno, da farmácia; e Carla, da enfermagem.\"",
+                          "enunciado":  "O emprego do ponto e vírgula se justifica porque:",
+                          "alternativas":  {
+                                               "a":  "a enumeração apresenta mais de dois elementos, número a partir do qual a norma culta passa a exigir esse sinal em substituição à vírgula simples",
+                                               "b":  "os itens enumerados já contêm vírgulas internas",
+                                               "c":  "os termos listados pertencem a setores diferentes da mesma instituição, distinção que a pontuação precisa marcar de forma explícita no texto",
+                                               "d":  "o período foi introduzido por dois-pontos, sinal que impõe o uso de ponto e vírgula em toda a sequência que vier depois dele na construção",
+                                               "e":  "cada um dos elementos enumerados constitui uma oração completa, com sujeito e predicado próprios, exigindo separação mais forte que a vírgula"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Cada item traz sua própria vírgula, separando o nome do setor. Repetir vírgulas entre os itens confundiria os dois níveis, e o ponto e vírgula estabelece a hierarquia entre eles.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-46",
+                          "texto_apoio":  "\"O protocolo prevê três etapas: triagem, avaliação médica e conduta.\"",
+                          "enunciado":  "Os dois-pontos, nesse período, introduzem:",
+                          "alternativas":  {
+                                               "a":  "um aposto explicativo isolado do restante do período, função que normalmente caberia a um par de vírgulas na estrutura da oração apresentada",
+                                               "b":  "uma citação literal atribuída a outro autor, recurso que exige o emprego desse sinal antes da transcrição do trecho reproduzido no texto",
+                                               "c":  "uma oração subordinada substantiva completiva nominal, cujo conteúdo completa o sentido do substantivo empregado antes do sinal de pontuação",
+                                               "d":  "uma enumeração que desenvolve o termo anterior",
+                                               "e":  "uma relação de causa e consequência entre as duas partes do período, na qual a segunda decorre necessariamente do que foi enunciado na primeira"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "\"Três etapas\" anuncia e os dois-pontos abrem a lista que a especifica. O sinal também introduz explicação, citação e fala, mas aqui a função é claramente enumerativa.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-47",
+                          "texto_apoio":  "Compare: (I) \"O exame — repetido três vezes — deu o mesmo resultado.\" (II) \"O exame (repetido três vezes) deu o mesmo resultado.\"",
+                          "enunciado":  "A diferença entre os dois recursos está em que o travessão, em relação aos parênteses:",
+                          "alternativas":  {
+                                               "a":  "indica que a informação intercalada foi acrescentada por outra pessoa que não o autor do texto, prática comum em documentos revisados por terceiros",
+                                               "b":  "destaca mais a informação intercalada, em vez de rebaixá-la",
+                                               "c":  "assinala a supressão de um trecho do enunciado original, ao passo que os parênteses marcam apenas o acréscimo de conteúdo novo ao período",
+                                               "d":  "é obrigatório sempre que a intercalação contiver forma verbal, ficando os parênteses restritos aos casos em que se intercalam apenas sintagmas nominais",
+                                               "e":  "estabelece relação de oposição entre o trecho intercalado e o restante do período, enquanto os parênteses indicam relação de simples acréscimo"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Os três recursos de intercalação formam uma escala de ênfase: travessão destaca, vírgula é neutra, parênteses rebaixam a um comentário lateral. A escolha entre eles é decisão de quem escreve sobre o peso da informação.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-48",
+                          "texto_apoio":  "\"O médico encerrou o atendimento, e a enfermeira registrou a evolução no sistema.\"",
+                          "enunciado":  "A vírgula antes da conjunção \"e\" se justifica porque:",
+                          "alternativas":  {
+                                               "a":  "a segunda oração é subordinada à primeira e por isso precisa ser isolada do restante do período por meio desse sinal de pontuação",
+                                               "b":  "a conjunção estabelece relação de oposição entre as duas orações, valor que exige a marcação por vírgula em qualquer construção coordenada",
+                                               "c":  "as orações coordenadas têm sujeitos diferentes",
+                                               "d":  "o período apresenta mais de uma forma verbal, número a partir do qual a norma culta torna obrigatório o emprego da vírgula antes das conjunções",
+                                               "e":  "há elipse do sujeito na segunda oração, e a vírgula sinaliza ao leitor a supressão do termo que deveria ocupar aquela posição sintática"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "A regra geral dispensa a vírgula antes de \"e\", mas ela é recomendada quando os sujeitos diferem, para evitar que o leitor tome o segundo sujeito como parte do primeiro predicado.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-49",
+                          "texto_apoio":  "\"Doutora, o resultado do exame já está disponível no sistema.\"",
+                          "enunciado":  "O termo isolado por vírgula é:",
+                          "alternativas":  {
+                                               "a":  "um vocativo, que não exerce função sintática na oração",
+                                               "b":  "um aposto explicativo, que retoma o sujeito da oração e acrescenta a ele uma informação identificadora considerada dispensável ao sentido do texto",
+                                               "c":  "um adjunto adnominal deslocado, que caracteriza o núcleo do sujeito e foi antecipado para o início do período por razões de ênfase",
+                                               "d":  "um sujeito posposto ao predicado, arranjo que exige a separação por vírgula sempre que o verbo aparecer antes do termo a que se refere",
+                                               "e":  "um complemento nominal antecipado, cuja função é completar o sentido do substantivo que aparece logo em seguida na estrutura da oração"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "O vocativo chama o interlocutor e fica fora da estrutura sujeito-predicado. Por isso se separa sempre por vírgula, esteja no início, no meio ou no fim do período.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-50",
+                          "texto_apoio":  "Compare: (I) \"Quando o exame ficou pronto, a equipe reavaliou o caso.\" (II) \"A equipe reavaliou o caso quando o exame ficou pronto.\"",
+                          "enunciado":  "A vírgula aparece apenas em I porque a oração subordinada adverbial:",
+                          "alternativas":  {
+                                               "a":  "apresenta maior extensão do que a oração principal, critério que a norma culta adota para decidir sobre o emprego do sinal de pontuação",
+                                               "b":  "exprime circunstância de tempo, valor que exige o emprego da vírgula independentemente da posição ocupada por ela dentro do período composto",
+                                               "c":  "é reduzida de infinitivo em I e desenvolvida em II, diferença estrutural que determina a necessidade da pontuação no primeiro dos dois casos",
+                                               "d":  "possui sujeito distinto do da oração principal, condição que torna obrigatória a separação entre as duas partes do período apresentado",
+                                               "e":  "está anteposta à principal"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "Subordinada adverbial anteposta se separa por vírgula; posposta, dispensa. É a mesma lógica do adjunto adverbial deslocado — a pontuação marca a inversão da ordem direta.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-51",
+                          "texto_apoio":  "\"O exame não apontou alteração; ______, o quadro clínico seguiu exigindo investigação.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida, quanto ao sentido, por:",
+                          "alternativas":  {
+                                               "a":  "por isso",
+                                               "b":  "portanto",
+                                               "c":  "no entanto",
+                                               "d":  "por conseguinte",
+                                               "e":  "logo"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "A segunda oração contraria o que a primeira faria esperar, o que pede conectivo adversativo. As demais alternativas são conclusivas e produziriam o sentido oposto ao do período.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-52",
+                          "texto_apoio":  "\"O paciente apresentava os três critérios do protocolo; ______, foi classificado como caso prioritário.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "portanto",
+                                               "b":  "contudo",
+                                               "c":  "embora",
+                                               "d":  "não obstante",
+                                               "e":  "todavia"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "A segunda oração é a consequência lógica da primeira, o que exige conectivo conclusivo. As outras quatro marcam oposição, e \"embora\" ainda é subordinativa, incompatível com a estrutura do período.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-53",
+                          "texto_apoio":  "Compare: (I) \"A dose foi ajustada para que o efeito se mantivesse estável.\" (II) \"A dose foi ajustada porque o efeito não se mantinha estável.\"",
+                          "enunciado":  "Os conectivos destacados exprimem, respectivamente, circunstância de:",
+                          "alternativas":  {
+                                               "a":  "comparação e proporção, sentidos que a norma culta considera equivalentes quando os conectivos aparecem em orações de estrutura semelhante",
+                                               "b":  "causa e finalidade, valores que se distinguem pela posição ocupada por cada uma das orações subordinadas dentro do período composto apresentado",
+                                               "c":  "condição e concessão, relações que dependem do modo verbal empregado em cada uma das duas orações subordinadas propostas na comparação",
+                                               "d":  "tempo e consequência, circunstâncias que se diferenciam pelo aspecto verbal expresso pelas formas empregadas em cada um dos dois enunciados",
+                                               "e":  "finalidade e causa"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "\"Para que\" aponta o objetivo do ajuste; \"porque\" aponta o motivo que o provocou. A finalidade olha para a frente, a causa para trás — e o subjuntivo em I é indício da primeira.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-54",
+                          "texto_apoio":  "Compare: (I) \"À medida que o tempo passava, a fila diminuía.\" (II) \"Na medida em que o protocolo foi revisto, os erros caíram.\"",
+                          "enunciado":  "A locução de I exprime ______ e a de II exprime ______; confundi-las ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "causa – proporção – não produz qualquer prejuízo, uma vez que as duas expressões são consideradas equivalentes pela norma culta contemporânea",
+                                               "b":  "proporção – causa – apaga a distinção entre duas relações diferentes",
+                                               "c":  "tempo – condição – altera o modo verbal exigido pela oração subordinada em cada uma das duas construções apresentadas para comparação",
+                                               "d":  "concessão – finalidade – inverte a hierarquia entre a oração principal e a subordinada dentro da estrutura sintática do período composto",
+                                               "e":  "comparação – consequência – impede identificar qual das duas orações do período exerce a função de principal na estrutura apresentada"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "\"À medida que\" indica duas grandezas variando juntas; \"na medida em que\" indica motivo, equivalendo a \"uma vez que\". A troca é frequente, e o que se perde nela é justamente a ideia de proporção.",
+                          "formato":  "lacunas",
+                          "banca":  "unesp"
+                      },
+                      {
+                          "id":  "gramatica-55",
+                          "texto_apoio":  "\"O relatório trata de dois pontos: a escala e o abastecimento. ______ preocupa mais a direção; ______, os profissionais.\"",
+                          "enunciado":  "As lacunas são preenchidas, na norma culta, por ______ e ______, porque \"este\" retoma ______ e \"aquele\", ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "Este – esse – o termo mais distante no tempo – o termo mais próximo no espaço em que a situação de comunicação se desenvolve entre eles",
+                                               "b":  "Aquele – este – o termo mencionado por último – o que foi mencionado em primeiro lugar na sequência apresentada pelo texto ao leitor",
+                                               "c":  "Esse – aquele – o termo mais próximo de quem escreve – o termo mais próximo de quem lê o texto no momento em que a leitura é realizada",
+                                               "d":  "Este – aquele – o termo mencionado por último – o mencionado antes",
+                                               "e":  "Aquele – aquele – qualquer um dos dois termos indistintamente – o termo que o autor considerar mais relevante no contexto de sua exposição"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Na referência textual, \"este\" aponta para o que está mais perto no texto — o último citado — e \"aquele\", para o mais distante. Aqui, \"este\" retoma o abastecimento e \"aquele\", a escala.",
+                          "formato":  "lacunas",
+                          "banca":  "unifesp"
+                      },
+                      {
+                          "id":  "gramatica-56",
+                          "texto_apoio":  "\"A equipe chegou às sete, iniciou a passagem de plantão e concluiu o relatório antes das oito.\"",
+                          "enunciado":  "A coesão do período se apoia, sobretudo, em:",
+                          "alternativas":  {
+                                               "a":  "repetição do mesmo termo no início de cada uma das três orações que compõem o período, recurso que assegura a continuidade temática do texto",
+                                               "b":  "elipse do sujeito nas orações seguintes à primeira",
+                                               "c":  "substituição do sujeito por um pronome pessoal reto em cada uma das orações coordenadas que integram a estrutura apresentada no enunciado",
+                                               "d":  "emprego de conectivos adversativos entre as orações, que estabelecem a progressão do sentido ao longo da sequência de fatos relatados no período",
+                                               "e":  "uso de sinônimos para designar o mesmo referente, estratégia que evita a repetição vocabular e mantém o encadeamento entre as partes do texto"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "O sujeito \"a equipe\" aparece uma vez e é recuperado pela desinência verbal nas duas orações seguintes. A elipse é recurso coesivo tão eficaz quanto o pronome, e mais econômico.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-57",
+                          "texto_apoio":  "\"O tomógrafo foi instalado em março. O equipamento passou por calibração em abril. O aparelho já atende à demanda do setor.\"",
+                          "enunciado":  "A progressão do trecho se apoia no recurso de:",
+                          "alternativas":  {
+                                               "a":  "utilização de conectivos temporais que marcam a sucessão cronológica entre os fatos relatados em cada um dos três períodos do trecho apresentado",
+                                               "b":  "repetição integral do mesmo substantivo em todos os períodos, estratégia adotada para assegurar que o leitor não perca o referente ao longo do texto",
+                                               "c":  "emprego de pronomes demonstrativos que retomam o termo mencionado no período imediatamente anterior a cada uma das ocorrências indicadas",
+                                               "d":  "substituição lexical por termos de sentido mais amplo",
+                                               "e":  "elipse do sujeito no segundo e no terceiro períodos, recuperável a partir do termo empregado no primeiro deles pelo autor do texto produzido"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "\"Tomógrafo\" é retomado por \"equipamento\" e \"aparelho\", termos mais gerais que o incluem. A substituição por hiperônimo evita a repetição sem exigir pronome nem conectivo.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-58",
+                          "texto_apoio":  "Compare: (I) \"O laudo saiu rápido, mas o resultado foi inconclusivo.\" (II) \"O laudo saiu rápido; o resultado, porém, foi inconclusivo.\"",
+                          "enunciado":  "As duas construções mostram que, entre \"mas\" e \"porém\":",
+                          "alternativas":  {
+                                               "a":  "apenas o segundo pode ser deslocado para o interior da oração",
+                                               "b":  "apenas o primeiro exprime oposição verdadeira, funcionando o segundo como marcador de simples continuidade entre as ideias apresentadas no período",
+                                               "c":  "há diferença de registro, sendo o primeiro próprio da língua falada e o segundo restrito à modalidade escrita formal do português contemporâneo",
+                                               "d":  "existe distinção de intensidade, uma vez que o segundo estabelece contraste mais forte que o primeiro em qualquer contexto de emprego na escrita",
+                                               "e":  "somente o primeiro admite ser precedido de vírgula, exigindo o segundo o emprego obrigatório de ponto e vírgula antes de sua ocorrência no texto"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "\"Mas\" fica preso ao início da oração; \"porém\", \"contudo\", \"todavia\" e \"entretanto\" podem se deslocar, isolados por vírgulas. O sentido é o mesmo — o que muda é a mobilidade sintática.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-59",
+                          "texto_apoio":  "\"O protocolo prevê registrar a queixa, a aferição dos sinais vitais e que se comunique o médico responsável.\"",
+                          "enunciado":  "O período apresenta problema de:",
+                          "alternativas":  {
+                                               "a":  "pontuação, pois a ausência de vírgula antes da conjunção aditiva compromete a delimitação dos elementos que compõem a enumeração do período",
+                                               "b":  "concordância verbal entre o sujeito da oração principal e a forma verbal empregada no interior da última das três estruturas enumeradas",
+                                               "c":  "regência nominal, uma vez que o substantivo que encabeça a enumeração exige preposição diante de cada um dos elementos listados em seguida",
+                                               "d":  "colocação pronominal, já que o pronome átono empregado na terceira estrutura deveria aparecer antes da forma verbal a que ele se liga",
+                                               "e":  "paralelismo sintático entre os itens enumerados"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "Os dois primeiros itens são sintagmas nominais e o terceiro é oração. A enumeração exige que os elementos coordenados tenham a mesma estrutura: ou três nomes, ou três orações.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-60",
+                          "texto_apoio":  "Considere: \"Trata-se do paciente ______ exames chegaram ontem.\"",
+                          "enunciado":  "A lacuna é preenchida por ______, pronome que estabelece relação de ______ e que ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "os quais – identificação – dispensa qualquer concordância por se tratar de forma invariável em todos os contextos de emprego na língua escrita",
+                                               "b":  "que os – retomada direta – concorda com o termo que vem antes dele, do qual recupera o gênero e o número dentro da estrutura da oração",
+                                               "c":  "cujos – posse – concorda com o termo que vem depois dele",
+                                               "d":  "de que – origem – exige a repetição do artigo definido diante do substantivo que aparece em seguida na estrutura da oração subordinada",
+                                               "e":  "cujo – posse – permanece sempre no masculino singular, independentemente do substantivo que venha imediatamente depois dele no período"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "\"Cujo\" liga possuidor e coisa possuída e concorda com esta, nunca com aquele: os exames é que são do paciente, então a forma vai ao masculino plural. Também não admite artigo depois de si.",
+                          "formato":  "lacunas",
+                          "banca":  "unifesp"
+                      },
+                      {
+                          "id":  "gramatica-61",
+                          "texto_apoio":  "Compare: (I) \"O jantar foi servido às oito.\" (II) \"Os bons sempre chegam antes.\"",
+                          "enunciado":  "Nos dois enunciados ocorre derivação ______, processo em que a palavra ______ sem que ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "por composição – se une a outro radical de sentido próprio – os dois elementos percam a autonomia que possuíam antes de se combinarem",
+                                               "b":  "regressiva – perde um sufixo do radical original – o significado do termo se altere em relação ao da palavra que lhe deu origem na língua",
+                                               "c":  "parassintética – recebe prefixo e sufixo ao mesmo tempo – nenhum dos dois afixos possa ser retirado isoladamente sem tornar a forma inexistente",
+                                               "d":  "prefixal – recebe um elemento anteposto ao radical – a classe gramatical da palavra derivada se modifique em relação à da palavra primitiva",
+                                               "e":  "imprópria – muda de classe gramatical – haja qualquer alteração em sua forma"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "\"Jantar\" é verbo e passou a substantivo; \"bons\" é adjetivo e passou a substantivo. Nada mudou na escrita das palavras — o que mudou foi a função que elas exercem, e é isso que caracteriza a derivação imprópria.",
+                          "formato":  "lacunas",
+                          "banca":  "unifesp"
+                      },
+                      {
+                          "id":  "gramatica-62",
+                          "texto_apoio":  "Compare: (I) \"O residente falou rápido.\" (II) \"O residente é rápido.\"",
+                          "enunciado":  "A palavra \"rápido\" é, respectivamente:",
+                          "alternativas":  {
+                                               "a":  "adjetivo nos dois casos, uma vez que a palavra pertence a uma única classe gramatical e não pode migrar para outra em nenhum contexto de uso",
+                                               "b":  "adjetivo, por caracterizar o sujeito, e advérbio, por modificar o verbo, distinção que se estabelece pela posição ocupada na frase em cada caso",
+                                               "c":  "advérbio, por modificar o verbo, e adjetivo, por caracterizar o sujeito",
+                                               "d":  "advérbio nos dois casos, já que a ausência de flexão de gênero e de número é indício suficiente para determinar a classe a que a palavra pertence",
+                                               "e":  "substantivo e adjetivo, classes que se diferenciam pela presença do artigo definido antes do termo em uma das duas construções apresentadas"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "No primeiro caso, \"rápido\" diz como se falou e não varia — é advérbio. No segundo, atribui uma qualidade ao sujeito e concorda com ele: \"a residente é rápida\". A prova é o teste de flexão.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-63",
+                          "texto_apoio":  "Compare: (I) \"Sabemos que o exame demora.\" (II) \"O exame que pedimos demora.\"",
+                          "enunciado":  "A palavra \"que\" é, respectivamente:",
+                          "alternativas":  {
+                                               "a":  "pronome relativo e conjunção integrante, distinção que decorre da posição ocupada por cada uma das orações subordinadas dentro do período composto",
+                                               "b":  "conjunção integrante e pronome relativo",
+                                               "c":  "conjunção integrante nos dois casos, já que ambas as orações completam o sentido do verbo da oração principal em que se encontram inseridas",
+                                               "d":  "pronome relativo nos dois casos, uma vez que a palavra sempre retoma um termo mencionado antes dela na estrutura do período apresentado",
+                                               "e":  "advérbio interrogativo e conjunção subordinativa causal, classes que se diferenciam pelo tipo de circunstância expressa por cada uma delas"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Em I, \"que\" apenas liga e a oração completa o verbo \"sabemos\" — pode ser trocada por \"isso\". Em II, retoma \"exame\" e exerce função sintática na oração adjetiva: é objeto direto de \"pedimos\".",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-64",
+                          "texto_apoio":  "\"Não vá embora que o resultado sai em dez minutos.\"",
+                          "enunciado":  "Nesse período, o \"que\" equivale a:",
+                          "alternativas":  {
+                                               "a":  "para que, exprimindo a finalidade a que se destina a ação indicada pelo verbo da primeira oração do período apresentado no enunciado",
+                                               "b":  "embora, exprimindo concessão em relação ao conteúdo apresentado na primeira das duas orações que compõem o período apresentado no enunciado",
+                                               "c":  "quando, exprimindo a circunstância temporal em que se dará o fato enunciado na oração principal do período composto pela subordinação",
+                                               "d":  "porque, exprimindo causa",
+                                               "e":  "se, exprimindo a condição necessária para que se verifique o fato enunciado na oração que a antecede na estrutura do período composto"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "A segunda oração dá o motivo do pedido: não vá embora porque o resultado sai logo. Esse \"que\" causal é comum na fala e frequentemente confundido com o integrante ou com o relativo.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-65",
+                          "texto_apoio":  "Compare: (I) \"Saiu para descansar.\" (II) \"Saiu porque estava cansado.\"",
+                          "enunciado":  "Os termos destacados são, respectivamente:",
+                          "alternativas":  {
+                                               "a":  "preposição, que liga termos, e conjunção, que liga orações",
+                                               "b":  "conjunção, que liga orações, e preposição, que liga termos, sendo a distinção determinada pela extensão de cada uma das estruturas conectadas",
+                                               "c":  "advérbio e conjunção, classes que se diferenciam pela circunstância expressa por cada uma delas no interior do período composto apresentado",
+                                               "d":  "preposição nos dois casos, já que ambos introduzem estruturas subordinadas à oração principal dentro dos períodos propostos na comparação",
+                                               "e":  "conjunção nos dois casos, uma vez que ambos estabelecem relação de causa entre a ação enunciada e a circunstância que a determina no período"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "\"Para\" introduz uma oração reduzida de infinitivo, mas é preposição: liga um termo a outro. \"Porque\" introduz oração com verbo flexionado e é conjunção. A diferença está no que cada uma conecta.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-66",
+                          "texto_apoio":  "\"Cuidado! O piso ainda está molhado.\"",
+                          "enunciado":  "A palavra destacada pertence à classe:",
+                          "alternativas":  {
+                                               "a":  "das interjeições, por exprimir emoção ou apelo sem integrar a estrutura sintática",
+                                               "b":  "dos substantivos, exercendo a função de sujeito da primeira oração do período e sendo retomado pelo termo empregado na oração seguinte",
+                                               "c":  "dos advérbios, por modificar o sentido do verbo empregado na segunda oração do período apresentado para análise no enunciado da questão",
+                                               "d":  "dos adjetivos, uma vez que atribui uma qualidade ao termo \"piso\", que aparece mencionado logo em seguida na sequência do período composto",
+                                               "e":  "das conjunções, estabelecendo relação de consequência entre o alerta enunciado inicialmente e a informação apresentada na segunda oração"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "A interjeição é um enunciado por si só e fica fora da análise sintática da oração seguinte. \"Cuidado\" é substantivo em outros contextos — aqui funciona como apelo, e é o uso que define a classe.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-67",
+                          "texto_apoio":  "Compare: (I) \"Foi o terceiro caso da semana.\" (II) \"Foram três casos na semana.\"",
+                          "enunciado":  "Os numerais destacados são, respectivamente:",
+                          "alternativas":  {
+                                               "a":  "ordinal nos dois casos, já que ambos situam o elemento mencionado numa sequência ordenada de acontecimentos ao longo do mesmo período de tempo",
+                                               "b":  "cardinal, que indica quantidade, e ordinal, que indica posição, distinção marcada pela presença do artigo definido diante do primeiro deles",
+                                               "c":  "multiplicativo e fracionário, classes de numeral que se diferenciam pela operação matemática que cada uma delas expressa no enunciado em que aparece",
+                                               "d":  "coletivo e cardinal, sendo o primeiro caracterizado por designar um conjunto determinado de elementos tomados como unidade dentro do período",
+                                               "e":  "ordinal, que indica posição, e cardinal, que indica quantidade"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "\"Terceiro\" situa o caso numa ordem; \"três\" conta quantos foram. O ordinal responde a \"qual?\" numa sequência; o cardinal, a \"quantos?\".",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-68",
+                          "texto_apoio":  "Compare: (I) \"Chamem um médico.\" (II) \"Chamem o médico.\"",
+                          "enunciado":  "A diferença de sentido entre os dois pedidos decorre de:",
+                          "alternativas":  {
+                                               "a":  "o artigo indefinido conferir ao enunciado caráter de ordem e o definido conferir a ele caráter de sugestão dirigida ao interlocutor da situação",
+                                               "b":  "o artigo definido indicar quantidade maior do que a expressa pelo indefinido, distinção que se aplica a todos os substantivos contáveis da língua",
+                                               "c":  "o primeiro enunciado estar no plural e o segundo no singular, diferença de número que altera o modo como o pedido deve ser interpretado",
+                                               "d":  "o artigo indefinido não particularizar o referente e o definido particularizá-lo",
+                                               "e":  "a presença do artigo definido transformar o substantivo em vocativo, alterando a função sintática exercida por ele dentro da oração apresentada"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "\"Um médico\" serve qualquer um; \"o médico\" é um específico, identificável por quem ouve. É a diferença entre pedir alguém da categoria e pedir uma pessoa determinada — e num pronto-socorro ela pesa.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-69",
+                          "texto_apoio":  "Considere: \"infeliz\", \"felizmente\", \"entristecer\".",
+                          "enunciado":  "Os processos de formação das três palavras são, na ordem:",
+                          "alternativas":  {
+                                               "a":  "composição por justaposição, aglutinação e hibridismo, classificação que leva em conta a origem de cada um dos elementos combinados na palavra",
+                                               "b":  "derivação sufixal, prefixal e regressiva, processos que se diferenciam pela posição ocupada pelo afixo em relação ao radical de cada palavra",
+                                               "c":  "derivação prefixal, sufixal e parassintética",
+                                               "d":  "derivação imprópria, regressiva e parassintética, sendo a primeira caracterizada pela mudança de classe sem alteração da forma da palavra",
+                                               "e":  "derivação prefixal, parassintética e sufixal, ordem que decorre do número de afixos presentes em cada uma das três palavras apresentadas"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "\"Infeliz\" só ganhou prefixo; \"felizmente\" só ganhou sufixo. Em \"entristecer\", os dois entraram juntos: não existe \"entriste\" nem \"tristecer\", e é essa simultaneidade que define a parassíntese.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-70",
+                          "texto_apoio":  "Compare: (I) \"passatempo\" (II) \"planalto\"",
+                          "enunciado":  "As duas palavras se formaram por composição, mas em I ocorre ______ e em II, ______, diferença que está em ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "aglutinação – justaposição – o número de radicais reunidos em cada uma das duas palavras apresentadas na comparação proposta pelo enunciado",
+                                               "b":  "justaposição – aglutinação – os elementos conservarem ou não a forma original",
+                                               "c":  "derivação – composição – a existência de afixos acrescentados ao radical de uma delas durante o processo de formação do vocábulo na língua",
+                                               "d":  "hibridismo – justaposição – a origem dos elementos combinados, provenientes de idiomas distintos em uma das duas palavras apresentadas",
+                                               "e":  "parassíntese – aglutinação – a presença simultânea de prefixo e de sufixo em um dos dois vocábulos submetidos à análise no enunciado"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Em \"passatempo\", \"passa\" e \"tempo\" continuam reconhecíveis. Em \"planalto\", \"plano\" perdeu o \"o\" ao se juntar a \"alto\" — houve perda fonética, e é ela que caracteriza a aglutinação.",
+                          "formato":  "lacunas",
+                          "banca":  "unesp"
+                      },
+                      {
+                          "id":  "gramatica-71",
+                          "texto_apoio":  "Considere: \"tomografia\", \"UTI\", \"foto\".",
+                          "enunciado":  "Os três vocábulos exemplificam, respectivamente:",
+                          "alternativas":  {
+                                               "a":  "derivação regressiva, derivação imprópria e composição por aglutinação, formas de ampliação do léxico registradas na língua portuguesa atual",
+                                               "b":  "sigla, abreviação e composição erudita, classificação que decorre do número de elementos reunidos em cada um dos três vocábulos apresentados",
+                                               "c":  "hibridismo, onomatopeia e neologismo, processos que se distinguem pela origem dos elementos empregados na formação de cada uma das palavras",
+                                               "d":  "composição erudita, sigla e abreviação",
+                                               "e":  "empréstimo linguístico, redução vocabular e derivação parassintética, processos que ocorrem em fases distintas da evolução histórica do idioma"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "\"Tomografia\" reúne dois radicais gregos; \"UTI\" toma a inicial de cada palavra da expressão; \"foto\" corta \"fotografia\" e mantém o sentido. São três caminhos distintos de formação de palavras.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-72",
+                          "texto_apoio":  "\"Bateram à porta durante a madrugada.\"",
+                          "enunciado":  "O sujeito da oração é:",
+                          "alternativas":  {
+                                               "a":  "oculto, recuperável pela desinência verbal empregada na terceira pessoa do plural do pretérito perfeito do modo indicativo apresentado",
+                                               "b":  "indeterminado",
+                                               "c":  "inexistente, uma vez que se trata de oração sem sujeito construída com verbo impessoal que indica fenômeno ocorrido durante a madrugada",
+                                               "d":  "simples, tendo como núcleo o termo \"porta\", que aparece precedido de preposição na estrutura sintática apresentada pelo enunciado da questão",
+                                               "e":  "composto, formado pelos dois termos que aparecem depois do verbo e que exercem conjuntamente essa função dentro da oração analisada"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "O verbo está na terceira pessoa do plural sem sujeito expresso nem recuperável no contexto: não se sabe nem se quer dizer quem bateu. É o caso clássico de sujeito indeterminado.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-73",
+                          "texto_apoio":  "Considere: (I) \"Precisa-se de técnicos.\" (II) \"Choveu a noite inteira.\" (III) \"O plantonista e a residente assinaram.\"",
+                          "enunciado":  "Os sujeitos de I, II e III são, respectivamente, ______, ______ e ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "simples – oculto – indeterminado, distinção estabelecida a partir da possibilidade de recuperar o termo pela desinência do verbo em cada caso",
+                                               "b":  "composto – indeterminado – simples, classificação que decorre do número de núcleos identificáveis em cada uma das três orações apresentadas",
+                                               "c":  "indeterminado – inexistente – composto",
+                                               "d":  "inexistente – simples – oculto, uma vez que apenas a segunda das três orações apresenta termo capaz de exercer essa função sintática no período",
+                                               "e":  "oculto – composto – inexistente, ordem que reflete o grau crescente de explicitação do agente da ação em cada uma das construções propostas"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Em I o verbo é indireto e o \"se\" indetermina; em II o verbo indica fenômeno da natureza e a oração não tem sujeito; em III há dois núcleos coordenados. São três situações que se confundem com facilidade.",
+                          "formato":  "lacunas",
+                          "banca":  "unifesp"
+                      },
+                      {
+                          "id":  "gramatica-74",
+                          "texto_apoio":  "Compare: (I) \"O residente chegou.\" (II) \"O residente parecia cansado.\" (III) \"O residente chegou cansado.\"",
+                          "enunciado":  "Os predicados de I, II e III são, na ordem:",
+                          "alternativas":  {
+                                               "a":  "verbal, nominal e verbo-nominal",
+                                               "b":  "nominal, verbal e verbo-nominal, classificação que depende da presença ou da ausência de complemento verbal em cada uma das orações analisadas",
+                                               "c":  "verbal nos três casos, uma vez que todas as orações apresentam verbo com significado pleno como núcleo da informação transmitida ao leitor",
+                                               "d":  "nominal nos três casos, já que em todas elas se atribui alguma característica ao sujeito por meio do termo que aparece depois do verbo",
+                                               "e":  "verbo-nominal, verbal e nominal, ordem determinada pela quantidade de termos que integram o predicado de cada uma das três orações propostas"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Em I só há a ação. Em II, \"parecer\" é verbo de ligação e o núcleo é o predicativo. Em III há os dois: o residente chegou e, ao chegar, estava cansado — daí a classificação dupla.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-75",
+                          "texto_apoio":  "Compare: (I) \"A equipe considerou o caso grave.\" (II) \"O caso era grave.\"",
+                          "enunciado":  "O termo \"grave\" exerce, respectivamente, a função de:",
+                          "alternativas":  {
+                                               "a":  "objeto direto e predicativo do sujeito, classificação determinada pela transitividade do verbo empregado em cada uma das duas orações apresentadas",
+                                               "b":  "predicativo do sujeito e predicativo do objeto, funções que se distinguem pela posição ocupada pelo termo em relação ao verbo em cada oração",
+                                               "c":  "adjunto adnominal e predicativo do sujeito, sendo o primeiro caracterizado por integrar o sintagma nominal a que se refere dentro da oração",
+                                               "d":  "complemento nominal e adjunto adnominal, distinção que decorre da regência exigida pelo substantivo a que o termo se liga em cada um dos casos",
+                                               "e":  "predicativo do objeto e predicativo do sujeito"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "Em I, quem é grave é o caso, que ali funciona como objeto direto de \"considerar\": o adjetivo atribui qualidade ao objeto. Em II, o verbo é de ligação e a qualidade recai sobre o sujeito.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-76",
+                          "texto_apoio":  "\"O enfermeiro entregou o resultado ao acompanhante.\"",
+                          "enunciado":  "Os termos \"o resultado\" e \"ao acompanhante\" exercem, respectivamente, a função de:",
+                          "alternativas":  {
+                                               "a":  "complemento nominal e adjunto adverbial, funções que se diferenciam pela natureza do termo a que cada um deles se subordina no período",
+                                               "b":  "objeto indireto e objeto direto, distinção que se estabelece pela ordem em que os dois complementos aparecem depois do verbo na oração",
+                                               "c":  "objeto direto e objeto indireto",
+                                               "d":  "adjunto adnominal e complemento nominal, classificação determinada pela presença da preposição diante do segundo dos dois termos indicados",
+                                               "e":  "predicativo do objeto e agente da passiva, funções que a estrutura da oração permite identificar a partir da transitividade do verbo empregado"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "\"Entregar\" é bitransitivo: entrega-se algo a alguém. O que se entrega vem sem preposição e é o objeto direto; a quem se entrega vem com \"a\" e é o objeto indireto.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-77",
+                          "texto_apoio":  "\"Atenderam ao ferido antes de todos os outros.\"",
+                          "enunciado":  "Considerando que \"atender\" pode ser transitivo direto, o emprego da preposição diante de \"o ferido\" configura:",
+                          "alternativas":  {
+                                               "a":  "objeto direto preposicionado",
+                                               "b":  "objeto indireto obrigatório, uma vez que o verbo empregado admite exclusivamente essa regência quando o complemento designa pessoa determinada",
+                                               "c":  "complemento nominal, termo que completa o sentido de um nome e que exige preposição por natureza em todas as construções em que aparece",
+                                               "d":  "adjunto adverbial de finalidade, que indica o objetivo a que se destina a ação verbal expressa pelo núcleo do predicado da oração analisada",
+                                               "e":  "agente da passiva, função exercida pelo termo que pratica a ação em orações construídas na voz passiva analítica com verbo auxiliar elíptico"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "A preposição aparece sem ser exigida pela regência — é recurso de clareza ou de ênfase. O termo continua sendo objeto direto, e por isso se fala em objeto direto preposicionado.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-78",
+                          "texto_apoio":  "Compare: (I) \"o medo do paciente\" — quem sente medo é o paciente. (II) \"o medo do paciente\" — o paciente é aquilo que se teme.",
+                          "enunciado":  "Em I, o termo preposicionado é ______, porque ______; em II, é ______, porque ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "predicativo do sujeito – atribui qualidade ao núcleo – agente da passiva – indica quem pratica a ação expressa pelo substantivo abstrato usado",
+                                               "b":  "complemento nominal – indica quem experimenta o sentimento – adjunto adnominal – indica o alvo do sentimento expresso pelo substantivo abstrato",
+                                               "c":  "objeto indireto – completa o sentido de um verbo elíptico – objeto direto preposicionado – recebe a ação praticada pelo sujeito da oração",
+                                               "d":  "aposto especificativo – identifica o substantivo anterior – vocativo – chama diretamente a pessoa a quem o enunciado se dirige na situação",
+                                               "e":  "adjunto adnominal – indica quem experimenta o sentimento – complemento nominal – indica o alvo dele"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "A mesma sequência de palavras admite duas análises. Quando o termo preposicionado é quem age ou possui, é adjunto adnominal; quando é sobre quem recai a ação contida no nome, é complemento nominal.",
+                          "formato":  "lacunas",
+                          "banca":  "unifesp"
+                      },
+                      {
+                          "id":  "gramatica-79",
+                          "texto_apoio":  "\"O relatório foi revisado pela comissão de ética.\"",
+                          "enunciado":  "O termo destacado exerce a função de:",
+                          "alternativas":  {
+                                               "a":  "objeto indireto, uma vez que aparece precedido de preposição e completa o sentido do verbo empregado no predicado da oração apresentada",
+                                               "b":  "agente da passiva",
+                                               "c":  "adjunto adverbial de meio, indicando o instrumento por meio do qual a ação expressa pelo verbo foi realizada no período apresentado",
+                                               "d":  "complemento nominal, termo que completa o sentido do particípio empregado na formação da locução verbal presente na oração analisada",
+                                               "e":  "adjunto adnominal do sujeito, caracterizando o termo que exerce essa função e com o qual mantém relação de posse dentro do período"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Na voz passiva, quem pratica a ação aparece introduzido por \"por\" ou \"de\" e recebe esse nome. Convertendo para a ativa, o termo vira sujeito: a comissão de ética revisou o relatório.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-80",
+                          "texto_apoio":  "\"Na sala de emergência, a equipe trabalhou sem pausa por seis horas.\"",
+                          "enunciado":  "Os adjuntos adverbiais do período exprimem, na ordem, circunstância de:",
+                          "alternativas":  {
+                                               "a":  "causa, finalidade e intensidade, circunstâncias que se distinguem pelo tipo de relação estabelecida entre cada termo e o verbo da oração",
+                                               "b":  "tempo, lugar e modo, ordem que corresponde à posição ocupada por cada um dos três termos em relação ao núcleo do predicado da oração",
+                                               "c":  "modo, tempo e lugar, classificação determinada pela presença de preposição diante de cada um dos adjuntos identificados no período composto",
+                                               "d":  "lugar, modo e tempo",
+                                               "e":  "companhia, instrumento e dúvida, valores que dependem do contexto em que o enunciado é produzido e da intenção de quem o formula na frase"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "\"Na sala de emergência\" responde a onde; \"sem pausa\", a como; \"por seis horas\", a quanto tempo. Adjuntos adverbiais se classificam pela pergunta que respondem, não pela posição na frase.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-81",
+                          "texto_apoio":  "\"Esses pacientes que chegam sem encaminhamento, a gente precisa acolher do mesmo jeito.\"",
+                          "enunciado":  "O trecho inicial ______ e, em seguida, ______, o que configura ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "exerce a função de sujeito – o verbo concorda regularmente com ele – uma construção plenamente conforme à norma culta escrita do português",
+                                               "b":  "anuncia um tema – a frase se reorganiza sem retomá-lo sintaticamente – anacoluto",
+                                               "c":  "funciona como vocativo – o enunciador se dirige diretamente a ele – um caso de interpelação direta do interlocutor no interior do enunciado",
+                                               "d":  "constitui um aposto explicativo – o termo a que se refere aparece depois – uma inversão da ordem habitual entre o aposto e o termo explicado",
+                                               "e":  "introduz uma oração subordinada – ela se completa na segunda parte do período – um período composto por subordinação de natureza adverbial"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "O termo é enunciado, ganha destaque e depois fica solto: a frase segue com \"a gente precisa acolher\" sem lhe dar função sintática. É construção corrente na fala e um dos itens preferidos da Unifesp.",
+                          "formato":  "lacunas",
+                          "banca":  "unifesp"
+                      },
+                      {
+                          "id":  "gramatica-82",
+                          "texto_apoio":  "\"É necessário que todos confirmem a presença.\"",
+                          "enunciado":  "A oração subordinada destacada é substantiva:",
+                          "alternativas":  {
+                                               "a":  "predicativa, exercendo a função de predicativo do sujeito da oração principal, que se encontra elíptico na estrutura do período apresentado",
+                                               "b":  "objetiva direta, uma vez que completa o sentido de um verbo transitivo direto empregado como núcleo do predicado da oração principal",
+                                               "c":  "completiva nominal, já que completa o sentido do adjetivo empregado na oração principal e vem introduzida por preposição obrigatória",
+                                               "d":  "subjetiva, pois funciona como sujeito da oração principal",
+                                               "e":  "apositiva, retomando e explicitando um termo já mencionado na oração principal por meio de uma estrutura oracional desenvolvida no período"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "O teste é substituir por \"isso\": \"isso é necessário\". O que é necessário — o fato de todos confirmarem — funciona como sujeito, e a oração que o expressa é subjetiva.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-83",
+                          "texto_apoio":  "Compare: (I) \"O exame que foi solicitado ontem chegou.\" (II) \"O exame solicitado ontem chegou.\"",
+                          "enunciado":  "A oração adjetiva de II é classificada como:",
+                          "alternativas":  {
+                                               "a":  "reduzida de particípio",
+                                               "b":  "reduzida de infinitivo, forma nominal que substitui a oração desenvolvida sem alterar a relação sintática mantida com o termo antecedente",
+                                               "c":  "desenvolvida com pronome relativo elíptico, que pode ser recuperado a partir do contexto em que a construção aparece empregada no texto",
+                                               "d":  "coordenada assindética, uma vez que a ausência do conectivo elimina a relação de subordinação existente entre as duas orações do período",
+                                               "e":  "substantiva apositiva reduzida, estrutura em que a forma nominal do verbo retoma o termo mencionado antes dela na sequência do período"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "A oração perdeu o relativo e o verbo flexionado, ficando só o particípio \"solicitado\". Reduzidas se classificam pela forma nominal que as encabeça: infinitivo, gerúndio ou particípio.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-84",
+                          "texto_apoio":  "Considere: (I) \"Estudou muito, portanto passou.\" (II) \"Estudou muito, mas não passou.\" (III) \"Estudou muito e passou.\"",
+                          "enunciado":  "As orações coordenadas sindéticas de I, II e III são, na ordem:",
+                          "alternativas":  {
+                                               "a":  "aditiva, alternativa e explicativa, sendo a primeira reconhecida pela possibilidade de inverter a ordem das orações sem alterar o sentido",
+                                               "b":  "adversativa, conclusiva e alternativa, classificação determinada pelo tipo de relação semântica estabelecida entre as duas orações de cada período",
+                                               "c":  "explicativa, aditiva e conclusiva, ordem que decorre da posição ocupada pelo conectivo em relação às orações que ele articula em cada caso",
+                                               "d":  "causal, concessiva e consecutiva, relações que caracterizam períodos compostos por subordinação e não por coordenação entre as orações",
+                                               "e":  "conclusiva, adversativa e aditiva"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "\"Portanto\" fecha um raciocínio, \"mas\" contraria a expectativa e \"e\" apenas soma. Os três articulam orações independentes entre si, o que caracteriza a coordenação.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-85",
+                          "texto_apoio":  "Compare: (I) \"O laudo foi assinado pelo médico.\" (II) \"Assinou-se o laudo.\"",
+                          "enunciado":  "As duas orações estão na voz ______; em I ela é ______ e em II, ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "reflexiva – recíproca, indicando ação trocada entre dois agentes – pronominal, indicando ação que o sujeito exerce sobre si mesmo na frase",
+                                               "b":  "ativa – direta, com o agente expresso na posição de sujeito – indireta, com o agente deslocado para o final do período por razões de ênfase",
+                                               "c":  "passiva – analítica, formada por auxiliar e particípio – sintética, formada com a partícula \"se\"",
+                                               "d":  "passiva – sintética, formada por auxiliar e particípio – analítica, construída com a partícula apassivadora anteposta à forma verbal empregada",
+                                               "e":  "ativa – pessoal, com sujeito determinado e identificável – impessoal, sem sujeito possível em razão do verbo empregado na construção"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Nas duas, o laudo sofre a ação em vez de praticá-la. A diferença é de construção: uma usa locução com \"ser\" e permite expressar o agente; a outra usa o \"se\" apassivador e o omite.",
+                          "formato":  "lacunas",
+                          "banca":  "unesp"
+                      },
+                      {
+                          "id":  "gramatica-86",
+                          "texto_apoio":  "Compare: (I) \"O paciente feriu-se ao cair.\" (II) \"Os dois se cumprimentaram no corredor.\"",
+                          "enunciado":  "As vozes verbais empregadas são, respectivamente:",
+                          "alternativas":  {
+                                               "a":  "impessoal e pessoal, classificação que depende da possibilidade de identificar o sujeito da oração em cada um dos dois casos apresentados",
+                                               "b":  "passiva sintética e passiva analítica, formas que se distinguem pela presença ou pela ausência do verbo auxiliar em cada uma das construções",
+                                               "c":  "ativa e passiva, distinção determinada pela posição ocupada pelo agente da ação em relação ao verbo em cada um dos dois enunciados propostos",
+                                               "d":  "reflexiva recíproca e reflexiva, ordem que decorre do número de participantes envolvidos na ação descrita por cada uma das duas orações",
+                                               "e":  "reflexiva e reflexiva recíproca"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "Em I o sujeito pratica e sofre a mesma ação. Em II há dois sujeitos agindo um sobre o outro — o teste é acrescentar \"um ao outro\", que cabe apenas no segundo caso.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-87",
+                          "texto_apoio":  "\"O residente é que assinou o laudo.\"",
+                          "enunciado":  "A expressão \"é que\", nesse período:",
+                          "alternativas":  {
+                                               "a":  "funciona como conjunção integrante, ligando a oração principal à subordinada substantiva que exerce a função de objeto direto na estrutura",
+                                               "b":  "constitui locução verbal cujo núcleo é o segundo elemento, responsável por introduzir a oração subordinada que completa o sentido do período",
+                                               "c":  "é partícula expletiva de realce e pode ser suprimida sem prejuízo sintático",
+                                               "d":  "estabelece relação de causa entre as duas partes do período, indicando o motivo pelo qual a ação verbal foi praticada pelo sujeito da oração",
+                                               "e":  "é pronome relativo que retoma o termo mencionado antes dele e exerce a função de sujeito da oração adjetiva iniciada por essa mesma forma"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Retirada a expressão, sobra \"o residente assinou o laudo\", com a mesma estrutura e o mesmo sentido básico. O que ela acrescenta é ênfase no sujeito, e nada mais — daí a classificação como expletiva.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-88",
+                          "texto_apoio":  "\"Chegaram cedo os resultados que a equipe aguardava.\"",
+                          "enunciado":  "O período é composto por:",
+                          "alternativas":  {
+                                               "a":  "coordenação, com duas orações independentes ligadas por conectivo que estabelece relação de adição entre os fatos enunciados em cada uma",
+                                               "b":  "subordinação, com uma oração adjetiva restritiva",
+                                               "c":  "subordinação, com uma oração substantiva objetiva direta que completa o sentido do verbo empregado na oração principal do período",
+                                               "d":  "coordenação e subordinação simultaneamente, apresentando três orações distribuídas em dois níveis hierárquicos dentro da mesma estrutura",
+                                               "e":  "justaposição, sem que haja relação sintática de dependência entre as duas orações que integram a estrutura do período apresentado"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "\"Que a equipe aguardava\" depende de \"resultados\" e delimita quais chegaram — não há vírgula, então é restritiva. Duas orações, uma subordinada à outra: período composto por subordinação.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-89",
+                          "texto_apoio":  "Compare: (I) \"Ele saiu porque estava cansado.\" (II) \"Ele estava cansado, por isso saiu.\"",
+                          "enunciado":  "Os dois períodos exprimem a mesma relação, mas são compostos, respectivamente, por:",
+                          "alternativas":  {
+                                               "a":  "coordenação nos dois casos, já que as orações de ambos os períodos poderiam existir isoladamente sem prejuízo de sentido para o leitor",
+                                               "b":  "coordenação e subordinação, distinção que decorre da posição ocupada pelo conectivo dentro de cada um dos dois períodos apresentados",
+                                               "c":  "subordinação nos dois casos, uma vez que ambos apresentam uma oração sintaticamente dependente da outra dentro da mesma estrutura",
+                                               "d":  "subordinação e coordenação",
+                                               "e":  "justaposição e subordinação, sendo a primeira caracterizada pela ausência de qualquer conectivo entre as orações que compõem o período"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "\"Porque\" subordina: a oração causal depende da principal. \"Por isso\" apenas articula duas orações independentes. A relação de causa é a mesma; a hierarquia sintática, não.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-90",
+                          "texto_apoio":  "\"Sabe-se que o protocolo será revisto.\"",
+                          "enunciado":  "A partícula \"se\", nesse período, é:",
+                          "alternativas":  {
+                                               "a":  "apassivadora, pois a oração seguinte funciona como sujeito",
+                                               "b":  "índice de indeterminação do sujeito, uma vez que o verbo empregado não admite complemento direto na acepção em que aparece no período",
+                                               "c":  "pronome reflexivo, indicando que o sujeito da oração pratica e sofre simultaneamente a ação expressa pelo verbo empregado na construção",
+                                               "d":  "partícula expletiva de realce, que pode ser retirada do período sem qualquer alteração no sentido ou na estrutura sintática da oração",
+                                               "e":  "conjunção subordinativa condicional, introduzindo a circunstância necessária para que se verifique o fato enunciado na oração principal"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "A frase equivale a \"que o protocolo será revisto é sabido\": a oração substantiva é o sujeito paciente. Como \"saber\" é transitivo direto, o \"se\" apassiva — não indetermina.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-91",
+                          "texto_apoio":  "\"Ninguém ______ sobre a mudança de escala.\"",
+                          "enunciado":  "Conforme a norma culta, a lacuna é preenchida por:",
+                          "alternativas":  {
+                                               "a":  "me avisou",
+                                               "b":  "avisou-me",
+                                               "c":  "avisar-me-ia",
+                                               "d":  "avisou eu",
+                                               "e":  "tinha avisado-me"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Palavras de sentido negativo atraem o pronome para antes do verbo. \"Ninguém\", \"nada\", \"nunca\" e \"jamais\" são as mais frequentes nesse papel.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-92",
+                          "texto_apoio":  "\"Sempre ______ com atenção nas passagens de plantão.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "tinham-se ouvido",
+                                               "b":  "ouviam-se",
+                                               "c":  "ouvir-se-iam",
+                                               "d":  "se ouvir",
+                                               "e":  "se ouviam"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "Advérbio imediatamente antes do verbo, sem vírgula, atrai o pronome. \"Sempre\", \"talvez\", \"já\" e \"ainda\" funcionam do mesmo modo; com vírgula, a atração se desfaz.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-93",
+                          "texto_apoio":  "\"O documento que ______ ontem já foi arquivado.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "entreguei ele",
+                                               "b":  "entreguei-lhe",
+                                               "c":  "entregar-lhe-ei",
+                                               "d":  "lhe entreguei",
+                                               "e":  "tinha entregado-lhe"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Pronome relativo atrai o átono para a próclise. É a mesma força de atração das conjunções subordinativas e das palavras negativas — todas puxam o pronome para antes do verbo.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-94",
+                          "texto_apoio":  "\"______ o resultado assim que o laboratório liberar.\"",
+                          "enunciado":  "Iniciando o período e no futuro do presente, a lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "Enviaremos-lhe",
+                                               "b":  "Lhe enviaremos",
+                                               "c":  "Enviar-lhe-emos",
+                                               "d":  "Vamos lhe enviar",
+                                               "e":  "Lhe vamos enviar"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Nos futuros do presente e do pretérito, o pronome entra no meio da forma verbal. A mesóclise é rara na fala, mas é a única construção que a norma admite quando o verbo abre o período nesses tempos.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-95",
+                          "texto_apoio":  "\"______ imediatamente após a chegada da ambulância.\"",
+                          "enunciado":  "Iniciando o período, a lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "Me comunicaram",
+                                               "b":  "Comunicaram-me",
+                                               "c":  "Comunicar-me-iam",
+                                               "d":  "Comunicaram eu",
+                                               "e":  "Tinham-me comunicado"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Sem palavra atrativa antes, o pronome vai depois do verbo. A norma escrita não admite iniciar período com átono, ainda que a fala brasileira o faça o tempo todo.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-96",
+                          "texto_apoio":  "Compare: (I) \"Vou informá-lo do resultado.\" (II) \"Não vou informá-lo do resultado.\" (III) \"Não o vou informar do resultado.\"",
+                          "enunciado":  "Nas locuções verbais, o pronome pode ______; havendo palavra atrativa, ele também pode ______, de modo que as três construções ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "aparecer entre os dois verbos com hífen duplo – repetir-se nas duas posições – exigem a presença obrigatória de vírgula antes do verbo principal",
+                                               "b":  "ligar-se apenas ao auxiliar – ser suprimido sem prejuízo – devem ser reescritas para se ajustarem ao padrão exigido na modalidade escrita formal",
+                                               "c":  "ocupar somente a posição intermediária – deslocar-se para o fim do período – configuram desvios de colocação que a norma culta condena em qualquer registro",
+                                               "d":  "ligar-se ao verbo principal – anteceder o auxiliar – são aceitas pela norma",
+                                               "e":  "ser substituído por pronome reto – ser omitido diante de infinitivo – equivalem a construções da voz passiva analítica formadas com particípio"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Com locução verbal, a norma abre alternativas: o pronome pode ficar junto ao principal ou, havendo atração, antes do auxiliar. O que ela não admite é ênclise ao auxiliar quando há palavra atrativa.",
+                          "formato":  "lacunas",
+                          "banca":  "unifesp"
+                      },
+                      {
+                          "id":  "gramatica-97",
+                          "texto_apoio":  "\"Embora ______ do risco, decidiu prosseguir com o procedimento.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "tivessem-no alertado",
+                                               "b":  "o tivessem alertado",
+                                               "c":  "tivessem alertado-o",
+                                               "d":  "tivessem alertado ele",
+                                               "e":  "alertá-lo-iam"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "\"Embora\" é conjunção subordinativa e atrai o pronome. Diante de forma verbal terminada em vogal nasal, a variante do átono seria \"no\" apenas em ênclise, que aqui a atração já exclui.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-98",
+                          "texto_apoio":  "Considere: \"médico\", \"clínico\", \"cirúrgico\", \"árvore\".",
+                          "enunciado":  "As quatro palavras são acentuadas porque:",
+                          "alternativas":  {
+                                               "a":  "apresentam hiato formado por vogais idênticas em sílabas consecutivas, situação em que a norma exige a marcação gráfica da sílaba tônica",
+                                               "b":  "são paroxítonas terminadas em ditongo crescente, condição que impõe o acento gráfico a esse grupo específico de palavras da língua portuguesa",
+                                               "c":  "são proparoxítonas, e todas elas recebem acento",
+                                               "d":  "são oxítonas terminadas nas vogais a, e ou o, seguidas ou não de s, grupo que recebe acento por regra desde a reforma ortográfica vigente",
+                                               "e":  "pertencem ao vocabulário técnico da área da saúde, campo em que a acentuação segue convenção própria estabelecida pelos dicionários especializados"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "A regra das proparoxítonas é a única sem exceção na acentuação do português: toda palavra com tônica na antepenúltima sílaba leva acento. Por isso é a primeira a se verificar.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-99",
+                          "texto_apoio":  "Considere: \"cafés\", \"avô\", \"cipó\", \"você\".",
+                          "enunciado":  "O acento nessas palavras se justifica porque são:",
+                          "alternativas":  {
+                                               "a":  "oxítonas terminadas em a, e ou o, seguidas ou não de s",
+                                               "b":  "paroxítonas terminadas em ditongo, grupo que recebe acento gráfico independentemente da vogal em que a palavra venha a terminar na escrita",
+                                               "c":  "monossílabos átonos, categoria em que a marcação gráfica distingue a palavra de outra homógrafa de sentido diferente na língua portuguesa",
+                                               "d":  "proparoxítonas aparentes, formadas por ditongo crescente na sílaba final e acentuadas pela mesma regra aplicada às proparoxítonas verdadeiras",
+                                               "e":  "palavras com hiato em que a segunda vogal é i ou u tônico, situação que exige acento para desfazer a ambiguidade na leitura do vocábulo"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Todas têm a tônica na última sílaba e terminam em a, e ou o. É o par simétrico da regra das paroxítonas, que se acentuam justamente quando terminam em qualquer outra coisa.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-100",
+                          "texto_apoio":  "Considere: \"saída\", \"baú\", \"faísca\".",
+                          "enunciado":  "O acento nessas palavras marca:",
+                          "alternativas":  {
+                                               "a":  "a presença de encontro consonantal na sílaba tônica, condição que exige marcação gráfica nas palavras de mais de duas sílabas na língua",
+                                               "b":  "ditongos abertos situados na sílaba final das palavras, grupo que continua recebendo acento gráfico depois da reforma ortográfica em vigor",
+                                               "c":  "a posição da sílaba tônica em palavras proparoxítonas, cuja acentuação independe da terminação apresentada por cada uma delas na escrita",
+                                               "d":  "a distinção entre formas homógrafas de classes diferentes, recurso que evita a ambiguidade na leitura de frases fora de qualquer contexto",
+                                               "e":  "i ou u tônicos em hiato, formando sílaba sozinhos"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "Em \"sa-í-da\", o \"i\" não forma ditongo com a vogal anterior: fica sozinho na sílaba e é tônico. Sem o acento, a leitura natural seria \"sai-da\", com ditongo.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-101",
+                          "texto_apoio":  "Compare: (I) \"herói\" e \"papéis\" continuam acentuados. (II) \"ideia\" e \"heroico\" perderam o acento.",
+                          "enunciado":  "A diferença entre os dois grupos está em que apenas os do primeiro são:",
+                          "alternativas":  {
+                                               "a":  "proparoxítonos, categoria que a norma acentua sem exceção desde antes da entrada em vigor do acordo ortográfico assinado entre os países",
+                                               "b":  "paroxítonos com ditongo aberto, condição que a reforma ortográfica manteve como critério para a acentuação gráfica das palavras desse grupo",
+                                               "c":  "oxítonos com ditongo aberto",
+                                               "d":  "monossílabos tônicos terminados em ditongo, grupo cuja acentuação distingue essas formas de outras homógrafas presentes na língua escrita",
+                                               "e":  "palavras com hiato tônico em posição final, situação que exige marcação gráfica para orientar corretamente a leitura do vocábulo em contexto"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "O acordo ortográfico retirou o acento dos ditongos abertos apenas nas paroxítonas. Nas oxítonas — \"herói\", \"papéis\", \"céu\" — ele permanece, porque a tônica final precisa ser marcada.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-102",
+                          "texto_apoio":  "Considere: \"Não sei ______ o exame atrasou. Ele atrasou ______ o sistema caiu. O ______ ainda não foi esclarecido. Atrasou por ______?\"",
+                          "enunciado":  "As lacunas são preenchidas, na ordem, por ______, ______, ______ e ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "por que – porque – porquê – quê",
+                                               "b":  "porque – por que – por quê – porquê, ordem que decorre da posição ocupada por cada uma das formas dentro dos períodos apresentados no enunciado",
+                                               "c":  "por quê – porquê – por que – porque, sequência determinada pela função sintática exercida por cada uma das quatro formas nos respectivos contextos",
+                                               "d":  "porquê – por quê – porque – por que, distribuição que reflete o grau de formalidade exigido em cada uma das quatro construções apresentadas",
+                                               "e":  "por que – por quê – porque – porquê, arranjo que corresponde à ordem alfabética das formas consideradas na comparação proposta pela questão"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Separado e sem acento em pergunta indireta; junto quando explica; junto e acentuado quando é substantivo, precedido de artigo; separado e acentuado no fim do período. A posição na frase decide, não a entonação.",
+                          "formato":  "lacunas",
+                          "banca":  "unesp"
+                      },
+                      {
+                          "id":  "gramatica-103",
+                          "texto_apoio":  "\"O resultado veio ______ cedo do que se esperava, ______ o laudo ainda não saiu.\"",
+                          "enunciado":  "As lacunas são preenchidas, na ordem, por:",
+                          "alternativas":  {
+                                               "a":  "más – mas",
+                                               "b":  "mas – mais",
+                                               "c":  "mais – mais",
+                                               "d":  "mas – mas",
+                                               "e":  "mais – mas"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "\"Mais\" é advérbio de intensidade e forma o comparativo; \"mas\" é conjunção adversativa e equivale a \"porém\". O teste da substituição resolve os dois casos de imediato.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-104",
+                          "texto_apoio":  "Compare: (I) \"Não havia alternativa senão remarcar.\" (II) \"Se não houver vaga, remarcaremos.\"",
+                          "enunciado":  "Em I, a forma junta equivale a ______; em II, a forma separada é ______, e o teste que as distingue é ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "\"caso não\" – locução prepositiva de exclusão – verificar se a expressão pode ser deslocada para o final do período sem prejuízo do sentido geral",
+                                               "b":  "\"a não ser\" – conjunção condicional seguida de negação – tentar substituir por \"caso não\"",
+                                               "c":  "\"porque não\" – advérbio de negação reforçado – observar a presença de vírgula imediatamente antes da expressão em cada um dos dois períodos",
+                                               "d":  "\"embora não\" – conjunção concessiva abreviada – conferir se o verbo da oração seguinte se encontra flexionado no modo subjuntivo em ambos os casos",
+                                               "e":  "\"talvez não\" – locução adverbial de dúvida – identificar qual das duas orações do período exerce a função sintática de principal na estrutura"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Se couber \"caso não\", escreve-se separado. Se o sentido for de exceção — \"a não ser\", \"do contrário\" —, escreve-se junto. É o mesmo raciocínio que distingue \"a fim de\" e \"afim\".",
+                          "formato":  "lacunas",
+                          "banca":  "santacasa"
+                      },
+                      {
+                          "id":  "gramatica-105",
+                          "texto_apoio":  "\"O protocolo foi revisto ______ reduzir o tempo de espera.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "afim que",
+                                               "b":  "afim de",
+                                               "c":  "a fim que",
+                                               "d":  "a fim de",
+                                               "e":  "afinal de"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "\"A fim de\" é locução prepositiva de finalidade e se escreve separado. \"Afim\", junto, é adjetivo e significa semelhante — \"áreas afins\", \"gostos afins\".",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-106",
+                          "texto_apoio":  "\"O paciente está internado ______ três dias e será reavaliado daqui ______ duas horas.\"",
+                          "enunciado":  "As lacunas são preenchidas, na ordem, por:",
+                          "alternativas":  {
+                                               "a":  "a – há",
+                                               "b":  "há – a",
+                                               "c":  "há – há",
+                                               "d":  "a – a",
+                                               "e":  "à – há"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Tempo já decorrido pede \"há\", do verbo haver; tempo futuro pede a preposição \"a\". A pista está no sentido: internado desde três dias atrás, reavaliado daqui a duas horas.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-107",
+                          "texto_apoio":  "\"O risco de rompimento era ______, e o professor ______ foi chamado para avaliar o caso.\"",
+                          "enunciado":  "As lacunas são preenchidas, na ordem, por:",
+                          "alternativas":  {
+                                               "a":  "eminente – eminente",
+                                               "b":  "eminente – iminente",
+                                               "c":  "iminente – iminente",
+                                               "d":  "iminente – eminente",
+                                               "e":  "emergente – iminente"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "\"Iminente\" é o que está prestes a acontecer; \"eminente\" é quem se destaca. As duas palavras diferem por uma letra e por todo o sentido — um par de parônimos clássico em prova.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-108",
+                          "texto_apoio":  "\"A política de atendimento não pode ______ pacientes por origem, e o laudo serviu para ______ a conduta anterior.\"",
+                          "enunciado":  "As lacunas são preenchidas, na ordem, por:",
+                          "alternativas":  {
+                                               "a":  "discriminar – descriminar",
+                                               "b":  "descriminar – discriminar",
+                                               "c":  "discriminar – discriminar",
+                                               "d":  "descriminar – descriminar",
+                                               "e":  "desclassificar – discriminar"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "\"Discriminar\" é separar ou tratar de forma desigual; \"descriminar\" é retirar o caráter de crime. O prefixo \"des-\" carrega a ideia de retirada, o que ajuda a fixar a diferença.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-109",
+                          "texto_apoio":  "\"A comissão decidiu ______ a penalidade a quem ______ a norma.\"",
+                          "enunciado":  "As lacunas são preenchidas, na ordem, por:",
+                          "alternativas":  {
+                                               "a":  "inflingir – infringir",
+                                               "b":  "infringir – infligir",
+                                               "c":  "infligir – infligir",
+                                               "d":  "infringir – infringir",
+                                               "e":  "infligir – infringir"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "\"Infligir\" é aplicar uma punição; \"infringir\" é violar uma regra. A forma \"inflingir\", com as duas letras juntas, não existe — é cruzamento das duas e erro frequente.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-110",
+                          "texto_apoio":  "\"O ______ intenso atrasou a ambulância, e a fiscalização atua contra o ______ de medicamentos.\"",
+                          "enunciado":  "As lacunas são preenchidas, na ordem, por:",
+                          "alternativas":  {
+                                               "a":  "tráfego – tráfego",
+                                               "b":  "tráfico – tráfego",
+                                               "c":  "tráfego – tráfico",
+                                               "d":  "tráfico – tráfico",
+                                               "e":  "trafego – trafico"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "\"Tráfego\" é o movimento de veículos; \"tráfico\" é o comércio ilegal. Ambas são proparoxítonas e levam acento — as formas sem acento das últimas alternativas seriam do verbo.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-111",
+                          "texto_apoio":  "\"A ______ solene ocorreu no auditório, e a ______ de direitos foi registrada em cartório.\"",
+                          "enunciado":  "As lacunas são preenchidas, na ordem, por:",
+                          "alternativas":  {
+                                               "a":  "cessão – seção",
+                                               "b":  "cessão – sessão",
+                                               "c":  "seção – sessão",
+                                               "d":  "sessão – seção",
+                                               "e":  "sessão – cessão"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "\"Sessão\" é reunião; \"cessão\" vem de ceder e é transferência; \"seção\" é divisão ou setor. As três soam igual e só o contexto separa — daí serem homônimas homófonas.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-112",
+                          "texto_apoio":  "Compare: (I) \"O paciente melhorou às oito da manhã.\" (II) \"O paciente melhorava a cada dia.\"",
+                          "enunciado":  "Os tempos verbais empregados exprimem, respectivamente:",
+                          "alternativas":  {
+                                               "a":  "ação futura em relação ao momento da fala e ação passada em relação a outro fato também situado no passado dentro da mesma narrativa",
+                                               "b":  "ação em curso ao longo de um período e ação concluída em momento definido, distinção marcada pela presença do adjunto adverbial em cada caso",
+                                               "c":  "ação concluída em momento definido e ação em curso ao longo de um período",
+                                               "d":  "ação hipotética dependente de condição e ação efetivamente realizada, valores que se distinguem pelo modo verbal empregado em cada oração",
+                                               "e":  "ação habitual repetida indefinidamente e ação pontual sem duração determinada, contraste que decorre do aspecto verbal de cada uma das formas"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "O pretérito perfeito fecha o fato num ponto do tempo; o imperfeito o deixa aberto, em processo. É a diferença entre \"melhorou às oito\" e \"melhorava a cada dia\", e ela é de aspecto, não de tempo.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-113",
+                          "texto_apoio":  "\"Se o resultado tivesse chegado antes, a conduta seria outra.\"",
+                          "enunciado":  "A forma \"seria\" exprime:",
+                          "alternativas":  {
+                                               "a":  "fato futuro em relação ao momento da fala, cuja realização o enunciador considera provável a partir das circunstâncias descritas no período",
+                                               "b":  "fato hipotético, dependente de uma condição não realizada",
+                                               "c":  "fato passado concluído antes de outro também situado no passado, relação temporal que o modo indicativo expressa por meio dessa forma verbal",
+                                               "d":  "ordem atenuada dirigida ao interlocutor, uso em que a forma substitui o imperativo para tornar o pedido mais cortês na situação de comunicação",
+                                               "e":  "fato habitual repetido no passado, valor que a forma assume quando acompanhada de expressões que indiquem frequência no período apresentado"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "O futuro do pretérito descreve o que aconteceria caso a condição se cumprisse — e o pretérito mais-que-perfeito do subjuntivo na primeira oração deixa claro que ela não se cumpriu.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-114",
+                          "texto_apoio":  "\"É possível que o exame ______ repetido amanhã.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "era",
+                                               "b":  "é",
+                                               "c":  "será",
+                                               "d":  "seja",
+                                               "e":  "foi"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Expressões que marcam possibilidade, desejo ou dúvida na oração principal pedem subjuntivo na subordinada. O indicativo apresentaria como fato o que o enunciado trata como hipótese.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-115",
+                          "texto_apoio":  "Compare: (I) \"Faça o registro agora.\" (II) \"Não faça o registro agora.\"",
+                          "enunciado":  "O imperativo afirmativo se forma a partir ______ e o negativo, ______; por isso, em II, a forma ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "do presente do indicativo, sem o s final – do presente do subjuntivo – é a mesma do subjuntivo",
+                                               "b":  "do presente do subjuntivo – do presente do indicativo, com o s final preservado – muda em relação à empregada na construção afirmativa correspondente",
+                                               "c":  "do futuro do presente – do futuro do pretérito – se distingue pela presença do advérbio de negação anteposto à forma verbal empregada",
+                                               "d":  "do infinitivo impessoal – do infinitivo pessoal flexionado – recebe desinência de número e pessoa ausente na construção afirmativa do período",
+                                               "e":  "do pretérito perfeito – do pretérito imperfeito – conserva o mesmo radical, alterando apenas a vogal temática presente na terminação verbal"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "\"Tu fazes\" perde o s e vira \"faze\"; para \"você\", a forma vem do subjuntivo. Como o imperativo negativo se forma inteiramente do subjuntivo, ele coincide com o afirmativo de tratamento.",
+                          "formato":  "lacunas",
+                          "banca":  "unifesp"
+                      },
+                      {
+                          "id":  "gramatica-116",
+                          "texto_apoio":  "Considere os verbos \"reaver\" e \"precaver\".",
+                          "enunciado":  "Os dois são classificados como defectivos porque:",
+                          "alternativas":  {
+                                               "a":  "não se conjugam em todas as formas, faltando-lhes a primeira pessoa do presente",
+                                               "b":  "apresentam mais de um particípio, cabendo a escolha entre eles ao verbo auxiliar empregado na formação da locução verbal correspondente",
+                                               "c":  "alteram o radical em determinadas pessoas do presente do indicativo, fenômeno que os aproxima dos verbos classificados como anômalos na língua",
+                                               "d":  "admitem duas regências distintas conforme o sentido em que sejam empregados, exigindo ou dispensando preposição diante do complemento verbal",
+                                               "e":  "derivam de verbos irregulares e por isso reproduzem integralmente todas as irregularidades presentes nos verbos que lhes serviram de base"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Não existem \"reavejo\" nem \"precavejo\": \"reaver\" só tem as formas em que \"haver\" mantém o v, e \"precaver\" não é conjugado como \"ver\". Onde a forma falta, recorre-se a outro verbo.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-117",
+                          "texto_apoio":  "Compare: (I) \"O laudo foi aceito pela comissão.\" (II) \"A comissão tinha aceitado o laudo.\"",
+                          "enunciado":  "A alternância entre as formas do particípio se explica porque a irregular é usada com:",
+                          "alternativas":  {
+                                               "a":  "sujeito determinado; a regular, com sujeito indeterminado, alternância que depende da possibilidade de identificar o agente da ação verbal",
+                                               "b":  "\"ter\" e \"haver\"; a regular, com \"ser\" e \"estar\", distribuição que a norma culta estabelece para todos os verbos de particípio duplo da língua",
+                                               "c":  "verbos transitivos diretos; a regular, com verbos transitivos indiretos, critério determinado pela regência exigida em cada uma das construções",
+                                               "d":  "orações da voz ativa; a regular, com orações da voz passiva, distinção que se aplica indistintamente a todos os tempos compostos do português",
+                                               "e":  "\"ser\" e \"estar\"; a regular, com \"ter\" e \"haver\""
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "A regra vale para \"aceito/aceitado\", \"pago/pagado\", \"impresso/imprimido\": a forma curta acompanha os auxiliares da passiva, a longa acompanha os dos tempos compostos.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-118",
+                          "texto_apoio":  "Compare: (I) \"É importante revisar os protocolos.\" (II) \"É importante revisarmos os protocolos.\"",
+                          "enunciado":  "Em I o infinitivo é ______, em II é ______, e a flexão se justifica quando ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "nominal – verbal – o sujeito da oração principal coincide com o da subordinada em uma das duas construções apresentadas para comparação",
+                                               "b":  "pessoal – impessoal – o verbo da oração principal se encontra empregado no presente do indicativo em ambas as construções propostas na comparação",
+                                               "c":  "reduzido – desenvolvido – a oração subordinada apresenta conectivo explícito ligando-a à oração principal do período composto por subordinação",
+                                               "d":  "impessoal – pessoal – se quer explicitar quem pratica a ação",
+                                               "e":  "simples – composto – a forma verbal vem acompanhada de auxiliar em uma das duas construções propostas no enunciado da questão apresentada"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Sem flexão, a afirmação vale para qualquer um. Flexionado, o infinitivo ganha sujeito próprio e diz quem deve revisar. A flexão é opcional, e a escolha entre as duas formas é de clareza.",
+                          "formato":  "lacunas",
+                          "banca":  "unesp"
+                      },
+                      {
+                          "id":  "gramatica-119",
+                          "texto_apoio":  "\"O relatório teria sido revisado antes do envio.\"",
+                          "enunciado":  "A forma verbal composta indica:",
+                          "alternativas":  {
+                                               "a":  "voz reflexiva no presente do subjuntivo, modo que expressa a hipótese formulada pelo enunciador a respeito do fato descrito na oração",
+                                               "b":  "voz ativa no pretérito mais-que-perfeito simples, tempo que situa a ação antes de outro fato passado mencionado no mesmo período composto",
+                                               "c":  "voz passiva no futuro do pretérito composto",
+                                               "d":  "voz passiva no presente do indicativo, tempo que apresenta a ação como simultânea ao momento em que o enunciado está sendo produzido",
+                                               "e":  "voz ativa no futuro do presente composto, forma que projeta a conclusão da ação para momento posterior ao da enunciação apresentada"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "\"Ter\" no futuro do pretérito, mais \"sido\", mais o particípio: o relatório sofre a ação, e ela é apresentada como hipótese anterior a outro fato. Três auxiliares empilhados, cada um com seu papel.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-120",
+                          "texto_apoio":  "\"As amostras foram ______ ao laboratório central.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "encaminhado",
+                                               "b":  "encaminhadas",
+                                               "c":  "encaminhados",
+                                               "d":  "encaminhada",
+                                               "e":  "encaminhando"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Na voz passiva, o particípio concorda com o sujeito. O sujeito é \"as amostras\", feminino plural, e o particípio acompanha — ao contrário do que ocorre nos tempos compostos com \"ter\", em que ele fica invariável.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-121",
+                          "texto_apoio":  "\"Uns pediram o laudo; outros, o prontuário.\"",
+                          "enunciado":  "A vírgula após \"outros\" assinala:",
+                          "alternativas":  {
+                                               "a":  "a inversão da ordem direta entre o sujeito e o predicado da segunda oração, recurso empregado para dar ênfase ao complemento verbal",
+                                               "b":  "a separação entre dois adjuntos adverbiais de mesma natureza que aparecem coordenados na segunda parte do período apresentado no enunciado",
+                                               "c":  "o isolamento de um aposto explicativo que retoma o termo mencionado imediatamente antes dela na sequência do período composto analisado",
+                                               "d":  "a omissão de um verbo já expresso antes",
+                                               "e":  "a presença de um vocativo por meio do qual o enunciador se dirige a um segundo grupo de interlocutores dentro da mesma situação"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "O verbo \"pediram\" não se repete na segunda oração, e a vírgula marca essa supressão. Omitir termo já enunciado é zeugma; omitir termo apenas subentendido é elipse.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-122",
+                          "texto_apoio":  "Compare: (I) \"Subiu para cima da maca.\" (II) \"Vi com meus próprios olhos o que aconteceu.\"",
+                          "enunciado":  "As duas construções contêm redundância, mas apenas a segunda é aceita porque:",
+                          "alternativas":  {
+                                               "a":  "a expressão empregada nela pertence ao vocabulário formal registrado pelos dicionários, ao passo que a primeira é restrita à modalidade falada",
+                                               "b":  "a repetição ali produz ênfase, e não excesso inútil",
+                                               "c":  "o verbo da segunda construção admite complemento preposicionado, o que torna a repetição sintaticamente exigida pela regência do termo",
+                                               "d":  "o número de palavras repetidas é menor na segunda, critério que a norma culta adota para distinguir o pleonasmo aceitável do condenável",
+                                               "e":  "a primeira apresenta erro de regência verbal além da redundância, sendo esse o motivo pelo qual ela é condenada na modalidade escrita"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "\"Subir\" já contém \"para cima\": a repetição não acrescenta nada. Já \"com meus próprios olhos\" reforça a testemunha ocular e é pleonasmo de estilo, recurso antigo e legítimo.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-123",
+                          "texto_apoio":  "\"Do relatório da comissão constavam as três recomendações.\"",
+                          "enunciado":  "A ordem dos termos no período configura:",
+                          "alternativas":  {
+                                               "a":  "pleonasmo, com repetição de uma ideia já contida em outro termo da mesma oração apresentada para análise no enunciado da questão",
+                                               "b":  "elipse, com supressão de um termo facilmente recuperável a partir do contexto em que a construção aparece empregada no texto produzido",
+                                               "c":  "hipérbato, com inversão da ordem direta",
+                                               "d":  "silepse, com concordância feita segundo a ideia expressa e não segundo a forma gramatical dos termos empregados na construção analisada",
+                                               "e":  "anacoluto, com abandono da estrutura sintática iniciada no começo do período e retomada de outra estrutura na sequência do enunciado"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "A ordem direta seria \"as três recomendações constavam do relatório\". Deslocar o complemento para o início é figura de sintaxe corrente na escrita formal e não configura erro algum.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-124",
+                          "texto_apoio":  "Considere: (I) \"São Paulo está lotada de turistas.\" (II) \"Os brasileiros somos assim.\"",
+                          "enunciado":  "Em I ocorre silepse de ______ e em II, de ______; nos dois casos a concordância se faz com ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "gênero – pessoa – a ideia, e não com a forma",
+                                               "b":  "número – gênero – a forma gramatical do termo expresso, que se sobrepõe ao sentido pretendido por quem produz o enunciado nas duas situações",
+                                               "c":  "pessoa – número – o termo mais próximo do verbo, critério aplicado sempre que houver mais de um núcleo disponível na estrutura da oração",
+                                               "d":  "grau – gênero – o contexto extralinguístico em que o enunciado é produzido, e não com qualquer elemento presente na própria estrutura da frase",
+                                               "e":  "número – pessoa – o sujeito posposto ao verbo, arranjo que autoriza a flexão facultativa em ambas as construções apresentadas na comparação"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "\"São Paulo\" é masculino na forma, mas se pensa \"a cidade\", e o adjetivo vai ao feminino. Em II, \"os brasileiros\" é terceira pessoa, mas quem fala se inclui, e o verbo vai à primeira do plural.",
+                          "formato":  "lacunas",
+                          "banca":  "unifesp"
+                      },
+                      {
+                          "id":  "gramatica-125",
+                          "texto_apoio":  "Compare: (I) \"A linha do exame está ocupada.\" (II) \"A linha do gráfico está ascendente.\" (III) \"Ela é da linha de frente.\"",
+                          "enunciado":  "As três ocorrências ilustram:",
+                          "alternativas":  {
+                                               "a":  "antonímia, com sentidos opostos que se estabelecem por oposição entre os contextos em que cada uma das ocorrências foi produzida",
+                                               "b":  "homonímia, com palavras de origens diferentes que coincidiram na forma escrita ao longo da evolução histórica da língua portuguesa",
+                                               "c":  "paronímia, com palavras semelhantes na grafia e na pronúncia, mas com sentidos que se distinguem em cada um dos contextos apresentados",
+                                               "d":  "sinonímia, com termos intercambiáveis entre si sem qualquer prejuízo para o sentido geral dos enunciados em que eles aparecem empregados",
+                                               "e":  "polissemia, com sentidos distintos para a mesma palavra"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "É a mesma palavra, com um núcleo de sentido comum, assumindo valores diferentes conforme o contexto. Na homonímia, ao contrário, as palavras têm origens distintas e apenas coincidem na forma.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-126",
+                          "texto_apoio":  "\"O quadro do paciente se agravou durante a madrugada.\"",
+                          "enunciado":  "Sem alteração de sentido, a forma verbal pode ser substituída por:",
+                          "alternativas":  {
+                                               "a":  "reverteu",
+                                               "b":  "estabilizou",
+                                               "c":  "piorou",
+                                               "d":  "regrediu",
+                                               "e":  "cessou"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Sinonímia se verifica no contexto, não no dicionário: \"agravar-se\" e \"piorar\" descrevem o mesmo movimento aqui. As demais indicam melhora, interrupção ou estabilidade — o oposto do que a frase afirma.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-127",
+                          "texto_apoio":  "Considere: \"desidratado\", \"assintomático\", \"irreversível\".",
+                          "enunciado":  "Os três termos têm em comum o fato de:",
+                          "alternativas":  {
+                                               "a":  "formarem o sentido negativo por meio de prefixo",
+                                               "b":  "pertencerem à mesma classe gramatical e apresentarem idêntico processo de formação a partir de radicais de origem grega incorporados ao português",
+                                               "c":  "constituírem antônimos entre si, de modo que o emprego de qualquer um deles exclui necessariamente a possibilidade de emprego dos outros dois",
+                                               "d":  "resultarem de derivação regressiva a partir de verbos correspondentes, processo em que a palavra derivada perde parte do radical original",
+                                               "e":  "apresentarem sufixos que indicam estado transitório, característica que os distingue de outros termos empregados na descrição de quadros clínicos"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "\"Des-\", \"a-\" e \"ir-\" negam o que vem depois: sem hidratação, sem sintomas, que não se reverte. São três prefixos de valor negativo, de origens diferentes, com a mesma função.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-128",
+                          "texto_apoio":  "Considere: \"bisturi\", \"pinça\", \"afastador\" e \"instrumento cirúrgico\".",
+                          "enunciado":  "A relação entre os três primeiros termos e o quarto é de:",
+                          "alternativas":  {
+                                               "a":  "homonímia, dado que os termos coincidem na pronúncia e na grafia, mas remetem a referentes de naturezas inteiramente distintas entre si",
+                                               "b":  "sinonímia, uma vez que os quatro termos designam exatamente o mesmo referente e podem substituir uns aos outros em qualquer contexto de uso",
+                                               "c":  "antonímia, já que os três primeiros se opõem, por características próprias, ao conjunto designado pelo quarto termo da série apresentada",
+                                               "d":  "paronímia, pois os quatro vocábulos apresentam semelhança de forma que pode induzir o leitor a confundi-los entre si durante a leitura",
+                                               "e":  "hiponímia, pois os três primeiros estão contidos no sentido do último"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "\"Instrumento cirúrgico\" é o termo mais geral e engloba os outros três, que são seus hipônimos. É a relação que sustenta a substituição lexical por termo mais amplo em textos coesos.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-129",
+                          "texto_apoio":  "Considere: \"A residente disse: — Vou reavaliar o caso amanhã.\"",
+                          "enunciado":  "Transposta ao discurso indireto, a fala se torna \"A residente disse que ______ o caso ______\"; a mudança atinge ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "vai reavaliar – amanhã – apenas a pontuação, que deixa de exigir travessão na abertura da fala transposta para a nova construção sintática",
+                                               "b":  "reavaliaria – no dia seguinte – o tempo verbal e os marcadores de tempo",
+                                               "c":  "reavaliou – ontem – a pessoa do verbo, que passa da primeira para a terceira sem que os demais elementos do enunciado sofram alteração",
+                                               "d":  "reavalie – naquele momento – o modo verbal, que passa do indicativo ao subjuntivo por exigência da conjunção introdutora da oração subordinada",
+                                               "e":  "teria reavaliado – anteontem – o aspecto verbal, que passa a indicar ação concluída antes do momento em que a fala foi originalmente produzida"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "O verbo introdutor no passado puxa o futuro do presente para o futuro do pretérito, e os dêiticos se reorganizam a partir do momento do relato: \"amanhã\" vira \"no dia seguinte\".",
+                          "formato":  "lacunas",
+                          "banca":  "unesp"
+                      },
+                      {
+                          "id":  "gramatica-130",
+                          "texto_apoio":  "\"Ela conferiu o prontuário mais uma vez. Não podia ter errado a dose. Não daquela vez.\"",
+                          "enunciado":  "As duas últimas frases caracterizam:",
+                          "alternativas":  {
+                                               "a":  "monólogo interior explícito, sinalizado pelo emprego da primeira pessoa do singular e por verbos de percepção ao longo de todo o trecho",
+                                               "b":  "discurso direto, marcado pela reprodução literal da fala da personagem entre aspas ou precedida de travessão na estrutura do texto narrativo",
+                                               "c":  "discurso indireto, em que o narrador relata o conteúdo do pensamento por meio de oração subordinada introduzida por conjunção integrante",
+                                               "d":  "discurso indireto livre, com a voz da personagem invadindo a narração",
+                                               "e":  "narração em terceira pessoa objetiva, restrita ao registro de ações observáveis e sem qualquer acesso à interioridade da personagem retratada"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Não há travessão, aspas nem \"pensou que\": as frases estão na terceira pessoa, mas o julgamento é dela. Narrador e personagem se sobrepõem, e é essa fusão que define o indireto livre.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-131",
+                          "texto_apoio":  "Considere a forma verbal \"internávamos\".",
+                          "enunciado":  "Nela, \"intern-\" é ______, \"-a-\" é ______ e \"-va-\" e \"-mos\" são ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "a vogal temática – o radical – prefixos que indicam a circunstância em que a ação verbal foi praticada pelo sujeito da oração analisada",
+                                               "b":  "o radical – a vogal temática – desinências de tempo e de pessoa",
+                                               "c":  "o prefixo – o sufixo – elementos de composição que se juntam ao radical para formar palavras novas dentro do mesmo campo semântico",
+                                               "d":  "a desinência nominal – a desinência verbal – morfemas lexicais responsáveis por carregar o significado básico do vocábulo apresentado",
+                                               "e":  "o tema – a vogal de ligação – morfemas facultativos cuja presença depende da conjugação a que o verbo pertence dentro do sistema da língua"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "O radical carrega o significado; a vogal temática indica a conjugação — aqui, a primeira; a desinência modo-temporal marca o pretérito imperfeito e a número-pessoal, a primeira pessoa do plural.",
+                          "formato":  "lacunas",
+                          "banca":  "unifesp"
+                      },
+                      {
+                          "id":  "gramatica-132",
+                          "texto_apoio":  "Considere: \"anti-inflamatório\", \"autoexame\", \"pré-operatório\".",
+                          "enunciado":  "O emprego do hífen nas duas primeiras se explica porque ele é usado quando:",
+                          "alternativas":  {
+                                               "a":  "a palavra formada tem mais de quatro sílabas, extensão a partir da qual a norma ortográfica passa a recomendar a separação por meio do hífen",
+                                               "b":  "o segundo elemento começa por vogal, situação em que a norma exige o hífen independentemente da letra final apresentada pelo prefixo empregado",
+                                               "c":  "o prefixo empregado tem origem grega, critério que distingue as formações eruditas daquelas construídas a partir de elementos de origem latina",
+                                               "d":  "o prefixo termina na mesma vogal com que o segundo elemento começa",
+                                               "e":  "o termo pertence ao vocabulário técnico de uma área especializada, campo em que a grafia com hífen se tornou convenção entre os profissionais"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "\"Anti\" termina em i e \"inflamatório\" começa em i: há hífen. Em \"autoexame\", as vogais são diferentes e ele desaparece. \"Pré\" leva hífen por outra razão: o prefixo é acentuado.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-133",
+                          "texto_apoio":  "\"O curso de Medicina da Universidade Federal foi reconhecido; ele estuda medicina desde criança.\"",
+                          "enunciado":  "A alternância entre maiúscula e minúscula em \"Medicina\" e \"medicina\" se justifica porque a primeira:",
+                          "alternativas":  {
+                                               "a":  "nomeia um curso determinado, e a segunda designa a área em geral",
+                                               "b":  "aparece no início de um sintagma nominal, posição em que a norma ortográfica exige o emprego da inicial maiúscula em qualquer substantivo",
+                                               "c":  "constitui nome próprio de pessoa jurídica, categoria que abrange tanto os cursos quanto as áreas de conhecimento a que eles se vinculam",
+                                               "d":  "vem acompanhada de complemento preposicionado, estrutura que impõe a maiúscula ao termo determinado por ele dentro do período apresentado",
+                                               "e":  "ocorre em documento de caráter oficial e a segunda, em registro coloquial, distinção que a norma estabelece a partir do gênero do texto"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Nome de curso, disciplina ou instituição específica vai com maiúscula; o campo de conhecimento tomado genericamente, com minúscula. A mesma palavra alterna conforme o que designa.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-134",
+                          "texto_apoio":  "\"O médico conversou com o paciente em sua sala.\"",
+                          "enunciado":  "O período é ambíguo porque o possessivo \"sua\":",
+                          "alternativas":  {
+                                               "a":  "poderia ser suprimido sem prejuízo do sentido, uma vez que a informação por ele veiculada já está contida no substantivo que o acompanha",
+                                               "b":  "não concorda em gênero com nenhum dos dois substantivos mencionados antes dele na estrutura sintática do período apresentado no enunciado",
+                                               "c":  "aparece separado do termo a que se refere por um complemento preposicionado, o que impede sua recuperação a partir da leitura do período",
+                                               "d":  "designa lugar e não posse, valor que exigiria o emprego de um advérbio no lugar do pronome empregado na construção apresentada",
+                                               "e":  "pode remeter ao médico ou ao paciente"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "O possessivo de terceira pessoa não distingue os dois referentes disponíveis. A saída é trocar por \"dele\" ou \"dele próprio\", que fixam a referência sem exigir reescrever a frase.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-135",
+                          "texto_apoio":  "\"A coordenadora pediu à residente que revisasse o relatório dela.\"",
+                          "enunciado":  "Para eliminar a ambiguidade sem mudar o sentido pretendido de que o relatório é da residente, a melhor solução é:",
+                          "alternativas":  {
+                                               "a":  "deslocar o pronome para o início do período, posição em que ele passa a se referir obrigatoriamente ao primeiro termo mencionado no texto",
+                                               "b":  "substituir o pronome por \"seu\", forma que na norma culta remete sempre ao termo mais próximo dentro da estrutura do período apresentado",
+                                               "c":  "usar \"o próprio relatório\"",
+                                               "d":  "acrescentar vírgula antes do pronome, sinal que separa a informação acessória e indica qual dos dois referentes deve ser considerado",
+                                               "e":  "repetir o substantivo \"coordenadora\" logo após o pronome, procedimento que explicita a referência sem alterar a estrutura sintática do período"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "\"Próprio\" prende a referência ao sujeito da oração em que aparece — aqui, a residente. Trocar por \"seu\", como sugere (b), agravaria a ambiguidade em vez de resolvê-la.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-136",
+                          "texto_apoio":  "\"Neste momento atual em que vivemos hoje, é preciso agir de forma rápida e veloz.\"",
+                          "enunciado":  "O principal problema do período é:",
+                          "alternativas":  {
+                                               "a":  "a ambiguidade referencial, provocada pela impossibilidade de determinar a que termo remete o pronome relativo empregado no início do enunciado",
+                                               "b":  "a impropriedade vocabular, decorrente do emprego de termos cujo significado não corresponde ao sentido pretendido por quem produziu o texto",
+                                               "c":  "o desvio de regência, uma vez que os verbos empregados exigem complementos preposicionados que não foram fornecidos na construção apresentada",
+                                               "d":  "a falta de paralelismo entre as duas partes do período, cujas estruturas sintáticas não se correspondem conforme exige a norma culta escrita",
+                                               "e":  "a redundância, com repetição de ideias já expressas"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "\"Neste momento\", \"atual\", \"em que vivemos\" e \"hoje\" dizem a mesma coisa quatro vezes; \"rápida\" e \"veloz\" são sinônimos justapostos. Nada está errado gramaticalmente — o excesso é que sobra.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-137",
+                          "texto_apoio":  "\"O paciente foi encaminhado para fazer o check-up de rotina.\"",
+                          "enunciado":  "O termo destacado constitui:",
+                          "alternativas":  {
+                                               "a":  "arcaísmo, forma que caiu em desuso e cuja permanência no texto compromete a compreensão por parte dos leitores contemporâneos do idioma",
+                                               "b":  "neologismo, criado a partir de radicais da própria língua portuguesa para designar uma realidade que ainda não possuía nome no idioma",
+                                               "c":  "estrangeirismo, empregado sem correspondente vernáculo consagrado",
+                                               "d":  "barbarismo de pronúncia, desvio que consiste em articular a palavra de modo diferente daquele registrado pelos dicionários da língua padrão",
+                                               "e":  "solecismo, desvio que atinge a estrutura sintática da oração e compromete a relação entre os termos que a compõem no período apresentado"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "É palavra tomada de outra língua e mantida na forma original. Estrangeirismo não é erro por si: torna-se problema quando existe equivalente corrente e o texto o dispensa sem razão.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-138",
+                          "texto_apoio":  "\"Fazem dois anos que os equipamentos não passa por manutenção.\"",
+                          "enunciado":  "O período apresenta dois desvios, ambos de:",
+                          "alternativas":  {
+                                               "a":  "regência, uma vez que os dois verbos empregados exigem complementos preposicionados que não aparecem na construção apresentada no enunciado",
+                                               "b":  "concordância, um no verbo impessoal e outro entre sujeito e verbo",
+                                               "c":  "colocação pronominal, decorrentes da posição inadequada dos pronomes átonos em relação às formas verbais empregadas no período composto",
+                                               "d":  "ortografia, relativos à grafia das formas verbais utilizadas em cada uma das duas orações que integram a estrutura do período apresentado",
+                                               "e":  "pontuação, provocados pela ausência dos sinais que deveriam separar as duas orações e delimitar os termos deslocados dentro do enunciado"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "\"Fazer\" indicando tempo é impessoal e devia ficar no singular; e o sujeito \"os equipamentos\" pede \"passam\". Os dois erros são de concordância, mas de naturezas distintas.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-139",
+                          "texto_apoio":  "\"Foi o enfermeiro ______ recorremos naquela noite.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "cujo",
+                                               "b":  "quem",
+                                               "c":  "que",
+                                               "d":  "a quem",
+                                               "e":  "o qual"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "\"Recorrer\" pede a preposição \"a\", e ela precisa vir antes do relativo. \"Quem\", quando se refere a pessoa e há preposição exigida, é a forma adequada — e ela nunca aparece sem preposição nessas construções.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-140",
+                          "texto_apoio":  "\"Recebemos o parecer do consultor da comissão, ______ atuou por três anos no setor.\"",
+                          "enunciado":  "Para deixar claro que quem atuou no setor foi o consultor, a lacuna deve ser preenchida por:",
+                          "alternativas":  {
+                                               "a":  "o qual",
+                                               "b":  "que",
+                                               "c":  "a qual",
+                                               "d":  "cujo",
+                                               "e":  "onde"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "\"Que\" serviria aos dois antecedentes e manteria a ambiguidade. \"O qual\" flexiona em gênero e número, e o masculino singular aponta para \"consultor\", não para \"comissão\".",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-141",
+                          "texto_apoio":  "Considere: \"Se o resultado ______ hoje, a conduta ______ revista amanhã.\"",
+                          "enunciado":  "As lacunas são preenchidas por ______ e ______, porque a condição no futuro exige ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "chegar – será – futuro do subjuntivo na subordinada e futuro do presente na principal",
+                                               "b":  "chegasse – seria – presente do indicativo nas duas orações, uma vez que a hipótese formulada se refere a um fato ainda não ocorrido no tempo",
+                                               "c":  "chegou – foi – pretérito perfeito em ambas as orações, tempo que situa os dois fatos como concluídos no momento em que se produz o enunciado",
+                                               "d":  "chegue – seja – presente do subjuntivo nas duas orações, modo que expressa a incerteza quanto à realização de cada um dos fatos mencionados",
+                                               "e":  "chegaria – era – futuro do pretérito na subordinada e pretérito imperfeito na principal, correlação própria das construções de valor hipotético"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "A correlação padrão para condição possível no futuro é essa: \"se\" mais futuro do subjuntivo, seguido de futuro do presente. A de (b) descreve hipótese improvável no presente, que é outro par.",
+                          "formato":  "lacunas",
+                          "banca":  "santacasa"
+                      },
+                      {
+                          "id":  "gramatica-142",
+                          "texto_apoio":  "\"Ele afirmou que já ______ o relatório quando a reunião começou.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "estaria entregando",
+                                               "b":  "entregará",
+                                               "c":  "entrega",
+                                               "d":  "entregaria",
+                                               "e":  "havia entregado"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "A entrega é anterior ao início da reunião, que já está no passado. O pretérito mais-que-perfeito composto marca justamente esse passado anterior a outro passado.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-143",
+                          "texto_apoio":  "\"______ os resultados apresentados, a comissão suspendeu o protocolo.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "Hajam vista",
+                                               "b":  "Hajam visto",
+                                               "c":  "Haja visto",
+                                               "d":  "Haja vista",
+                                               "e":  "Há vista"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "\"Haja vista\" é expressão cristalizada e invariável, equivalente a \"tendo em vista\". A tentação de flexionar o verbo para concordar com \"resultados\" é justamente o que a norma não admite.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-144",
+                          "texto_apoio":  "\"A decisão foi tomada a nível de coordenação.\"",
+                          "enunciado":  "Na norma culta escrita, a expressão destacada deveria ser substituída por:",
+                          "alternativas":  {
+                                               "a":  "a níveis de",
+                                               "b":  "à nível da",
+                                               "c":  "no âmbito da",
+                                               "d":  "em níveis de",
+                                               "e":  "ao nível de"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "\"A nível de\" é condenada pela norma como modismo sem função. \"Ao nível de\" existe, mas significa \"à mesma altura de\" — como em \"ao nível do mar\", que é outro sentido.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-145",
+                          "texto_apoio":  "Compare: (I) \"A proposta veio ao encontro do que a equipe pedia.\" (II) \"A proposta veio de encontro ao que a equipe pedia.\"",
+                          "enunciado":  "As duas construções são corretas, mas exprimem, respectivamente:",
+                          "alternativas":  {
+                                               "a":  "oposição e concordância, distinção que decorre da posição ocupada pela preposição em relação ao substantivo dentro de cada uma das locuções",
+                                               "b":  "concordância e oposição",
+                                               "c":  "anterioridade e posterioridade, valores temporais que as duas locuções assumem conforme o tempo verbal empregado na oração principal",
+                                               "d":  "certeza e dúvida, graus de comprometimento que quem escreve assume em relação ao conteúdo transmitido em cada um dos dois enunciados",
+                                               "e":  "causa e consequência, relação que se estabelece entre a proposta apresentada e a demanda formulada anteriormente pela equipe do setor"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "\"Ir ao encontro de\" é concordar, favorecer; \"ir de encontro a\" é colidir, contrariar. As duas locuções diferem por uma preposição e dizem coisas opostas — trocá-las inverte o sentido do texto.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-146",
+                          "texto_apoio":  "\"______ suspender o exame, a equipe optou por remarcá-lo.\"",
+                          "enunciado":  "Considerando o rigor da norma, a lacuna é preenchida por:",
+                          "alternativas":  {
+                                               "a":  "Ao invés que",
+                                               "b":  "Ao em vez de",
+                                               "c":  "Envez de",
+                                               "d":  "Em vez de",
+                                               "e":  "Em vez que"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "\"Em vez de\" indica substituição e cabe aqui: remarcar no lugar de suspender. \"Ao invés de\", no rigor, reserva-se à oposição — só vale quando as duas ações são contrárias entre si.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-147",
+                          "texto_apoio":  "\"Um e outro exame ______ resultado semelhante.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "apresentou-se",
+                                               "b":  "apresentaram",
+                                               "c":  "apresentava-se",
+                                               "d":  "apresentar",
+                                               "e":  "apresentariam-se"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Com \"um e outro\", o substantivo fica no singular e o verbo vai preferencialmente ao plural, porque são dois os exames considerados. O singular também é registrado, mas o plural é a forma corrente.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-148",
+                          "texto_apoio":  "\"Nem um nem outro protocolo ______ adotado pela unidade.\"",
+                          "enunciado":  "A lacuna é corretamente preenchida por:",
+                          "alternativas":  {
+                                               "a":  "seriam",
+                                               "b":  "foram",
+                                               "c":  "foi",
+                                               "d":  "sejam",
+                                               "e":  "eram"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Com \"nem um nem outro\", a norma prefere o singular, porque a negação isola os elementos em vez de somá-los. É o comportamento inverso ao de \"um e outro\".",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "gramatica-149",
+                          "texto_apoio":  "Compare: (I) \"A sala onde o exame foi feito estava fria.\" (II) \"A reunião onde isso foi decidido durou duas horas.\"",
+                          "enunciado":  "O emprego de \"onde\" é adequado apenas em ______, porque o pronome ______; em ______ o correto seria ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "I – indica lugar físico – II – \"em que\"",
+                                               "b":  "II – indica circunstância abstrata – I – \"na qual\", forma que se emprega quando o antecedente designa um espaço concreto delimitado no mundo",
+                                               "c":  "ambos – admite antecedente de qualquer natureza – nenhum – manter a forma empregada, já que a norma não estabelece restrição para esse pronome",
+                                               "d":  "I – exerce a função de sujeito da oração adjetiva – II – \"cujo\", pronome que estabelece relação de posse entre o antecedente e o termo seguinte",
+                                               "e":  "nenhum – exige sempre preposição anteposta – ambos – \"aonde\", forma que reúne a preposição exigida pelo verbo da oração subordinada"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "\"Onde\" tem valor locativo e pede antecedente de lugar. \"Reunião\" é evento, não espaço — o relativo adequado é \"em que\" ou \"na qual\". É desvio comum e cobrado com frequência.",
+                          "formato":  "lacunas",
+                          "banca":  "unifesp"
+                      },
+                      {
+                          "id":  "gramatica-150",
+                          "texto_apoio":  "Num comunicado institucional, lê-se: \"Galera, o sistema vai ficar fora do ar sábado, então se liguem.\"",
+                          "enunciado":  "O problema do enunciado, considerado o gênero, é de:",
+                          "alternativas":  {
+                                               "a":  "progressão temática, já que o enunciado não avança em relação à informação apresentada no início e apenas repete o que já era conhecido",
+                                               "b":  "correção gramatical, uma vez que as construções empregadas violam regras de concordância e de regência estabelecidas pela norma culta escrita",
+                                               "c":  "coesão referencial, provocada pela impossibilidade de recuperar a que termo remete cada um dos pronomes utilizados ao longo do comunicado",
+                                               "d":  "ambiguidade estrutural, decorrente da possibilidade de ligar o adjunto adverbial a mais de um termo dentro da estrutura sintática do período",
+                                               "e":  "adequação de registro ao contexto"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "Não há erro de gramática: as frases estão bem formadas. O que falha é a escolha do registro — \"galera\" e \"se liguem\" pertencem à conversa informal e destoam de um comunicado institucional.",
+                          "formato":  "direta"
+                      }
+                  ],
     "interpretacao-texto":  [
                                 {
                                     "id":  "interpretacao-texto-01",

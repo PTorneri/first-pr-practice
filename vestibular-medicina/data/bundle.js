@@ -5526,6 +5526,462 @@ window.QUESTION_BANKS = {
                           "resposta":  "c",
                           "explicacao":  "São milhares de metros de lâmina d\u0027água mais uma espessa camada de sal antes do reservatório. A viabilidade econômica depende do preço internacional do barril — abaixo de certo patamar, extrair deixa de compensar.",
                           "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-61",
+                          "texto_apoio":  "O modelo da transição demográfica descreve a passagem de um regime de altas taxas de natalidade e mortalidade para outro em que ambas são baixas.",
+                          "enunciado":  "Na segunda fase do modelo, cai primeiro ______; na terceira, cai ______; o crescimento vegetativo é maior ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "a imigração – a emigração – na segunda fase, período em que os fluxos migratórios respondem pela maior parte da variação populacional",
+                                               "b":  "a natalidade – a mortalidade – na quarta fase, quando as duas taxas voltam a se aproximar em patamares baixos nas populações estudadas",
+                                               "c":  "a fecundidade – a expectativa de vida – na primeira fase, período em que ambas as taxas permanecem elevadas nas sociedades analisadas",
+                                               "d":  "a mortalidade infantil – a mortalidade adulta – na terceira fase, quando a população atinge o maior contingente absoluto de sua história",
+                                               "e":  "a mortalidade – a natalidade – na segunda fase, quando as duas taxas mais se distanciam"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "Saneamento e vacina derrubam a mortalidade antes que a natalidade reaja, e é nesse intervalo que a população explode. A queda da natalidade vem depois, com urbanização, escolaridade e trabalho feminino.",
+                          "formato":  "lacunas",
+                          "banca":  "unesp"
+                      },
+                      {
+                          "id":  "geografia-62",
+                          "texto_apoio":  "As pirâmides etárias brasileiras de 1980 e de hoje apresentam formatos muito distintos: a primeira com base larga e topo estreito, a segunda com base retraída e topo mais largo.",
+                          "enunciado":  "A mudança indica:",
+                          "alternativas":  {
+                                               "a":  "elevação da mortalidade infantil, processo que reduziu a proporção de crianças no conjunto da população brasileira ao longo do período",
+                                               "b":  "aumento da fecundidade e redução da expectativa de vida, tendências que caracterizam a evolução demográfica brasileira nas últimas décadas",
+                                               "c":  "queda da fecundidade e aumento da expectativa de vida",
+                                               "d":  "aumento da imigração internacional, responsável pela alteração da estrutura etária observada entre os dois momentos apresentados no texto",
+                                               "e":  "estabilidade da estrutura etária, uma vez que as alterações de formato decorrem apenas da mudança na escala adotada nos dois gráficos"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Base estreita significa menos nascimentos; topo largo significa mais gente chegando à velhice. O Brasil percorreu em quatro décadas uma transição que a Europa levou mais de um século para completar.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-63",
+                          "texto_apoio":  "Projeções indicam que a proporção de brasileiros com mais de 65 anos deve mais que dobrar nas próximas décadas.",
+                          "enunciado":  "Entre as consequências previstas para as políticas públicas está:",
+                          "alternativas":  {
+                                               "a":  "a redução da demanda por serviços de saúde, uma vez que a população idosa apresenta menor necessidade de atendimento do que a jovem",
+                                               "b":  "pressão crescente sobre previdência e sobre serviços de saúde",
+                                               "c":  "a ampliação da população em idade escolar, o que exigirá investimento adicional na expansão da rede de ensino fundamental do país",
+                                               "d":  "a elevação da taxa de fecundidade, tendência associada ao envelhecimento da estrutura etária nas sociedades que passaram por esse processo",
+                                               "e":  "a diminuição da população economicamente ativa em termos absolutos já na próxima década, segundo as projeções oficiais divulgadas"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Menos contribuintes por aposentado pressiona a previdência, e o perfil de doença muda de infecciosa aguda para crônica de longa duração — que custa mais e por mais tempo. É a transição epidemiológica acompanhando a demográfica.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-64",
+                          "texto_apoio":  "A taxa de fecundidade brasileira caiu de mais de seis filhos por mulher na década de 1960 para menos de dois nas últimas medições.",
+                          "enunciado":  "Entre os fatores que explicam essa queda está:",
+                          "alternativas":  {
+                                               "a":  "a redução da expectativa de vida da população feminina, o que encurtou o período reprodutivo médio observado nas últimas décadas no país",
+                                               "b":  "a adoção de política oficial de controle de natalidade, com metas obrigatórias fixadas pelo governo federal ao longo do período analisado",
+                                               "c":  "o aumento da mortalidade infantil, que reduziu o número de filhos sobreviventes por mulher no conjunto da população brasileira do período",
+                                               "d":  "urbanização, escolaridade feminina e acesso a métodos contraceptivos",
+                                               "e":  "a emigração em massa de mulheres em idade reprodutiva, movimento que alterou a composição etária da população residente no território"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Na cidade, filho custa mais e trabalha menos; escolaridade e trabalho adiam a maternidade; e o acesso à contracepção torna a decisão possível. O Brasil chegou lá sem política coercitiva, ao contrário do que fez a China.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-65",
+                          "texto_apoio":  "Durante certo período da transição demográfica, a proporção de pessoas em idade de trabalhar atinge seu máximo em relação a crianças e idosos.",
+                          "enunciado":  "Esse período é conhecido como bônus demográfico e representa:",
+                          "alternativas":  {
+                                               "a":  "uma janela temporária, cujo aproveitamento depende de investimento em educação e emprego",
+                                               "b":  "uma condição permanente da estrutura etária, alcançada de forma definitiva pelos países que concluíram a transição demográfica ao longo do século",
+                                               "c":  "um período de crescimento populacional acelerado, com aumento simultâneo do número de crianças e de idosos no conjunto da população",
+                                               "d":  "uma fase de redução da população economicamente ativa, o que exige a ampliação dos programas de transferência de renda pelo Estado",
+                                               "e":  "uma garantia automática de crescimento econômico, independentemente das políticas públicas adotadas durante o período em que ela ocorre"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "A janela fecha: os que hoje sustentam o sistema serão os aposentados de amanhã. Sem qualificação e emprego formal durante o bônus, o país chega à fase seguinte velho e sem ter enriquecido.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-66",
+                          "texto_apoio":  "Entre as décadas de 1950 e 1980, o principal fluxo migratório interno brasileiro dirigiu-se do Nordeste para o Sudeste.",
+                          "enunciado":  "A partir dos anos 1990, observou-se:",
+                          "alternativas":  {
+                                               "a":  "redução desse fluxo e crescimento da migração de retorno ao Nordeste",
+                                               "b":  "a intensificação do mesmo fluxo em ritmo superior ao registrado nas décadas anteriores, tendência que se mantém até o momento atual",
+                                               "c":  "a inversão completa do sentido, com a maior parte da população do Sudeste migrando definitivamente para os estados da região Nordeste",
+                                               "d":  "o encerramento de todos os fluxos migratórios internos, situação decorrente da equalização das condições de vida entre as regiões do país",
+                                               "e":  "a concentração exclusiva dos deslocamentos no interior de cada região, sem que houvesse movimentos entre unidades da federação distintas"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Programas sociais, expansão de serviços e crescimento do emprego no Nordeste reduziram o empurrão; a crise industrial e o custo de vida no Sudeste reduziram a atração. O fluxo não se inverteu — perdeu intensidade e ganhou retorno.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-67",
+                          "texto_apoio":  "As Nações Unidas distinguem duas categorias de pessoas que cruzam fronteiras, com regimes jurídicos diferentes.",
+                          "enunciado":  "O ______ deixa o país por ______ e tem direito a ______; o ______ deixa o país por ______ e não conta com esse mesmo regime. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "turista – permanência temporária por período determinado em lei – renovação automática do visto concedido na entrada – residente – vínculo empregatício formal",
+                                               "b":  "migrante econômico – fundado temor de perseguição – proteção internacional automática concedida por qualquer país signatário – refugiado – motivos de trabalho",
+                                               "c":  "asilado – razões estritamente ambientais reconhecidas em tratado – residência permanente imediata no país de destino – apátrida – perda de documentos",
+                                               "d":  "deslocado interno – conflito armado em curso no território de origem – reassentamento obrigatório em terceiro país – exilado – decisão judicial do país natal",
+                                               "e":  "refugiado – fundado temor de perseguição ou conflito – proteção internacional e não devolução – migrante econômico – busca de melhores condições de vida"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "A distinção define obrigações do Estado: ao refugiado se aplica o princípio da não devolução, e ao migrante econômico, não. Na prática as motivações se misturam, mas o regime jurídico continua separando as duas categorias.",
+                          "formato":  "lacunas",
+                          "banca":  "unicamp"
+                      },
+                      {
+                          "id":  "geografia-68",
+                          "texto_apoio":  "Países que receberam grandes contingentes de imigrantes nas últimas décadas registraram crescimento de discursos e políticas restritivas à entrada de estrangeiros.",
+                          "enunciado":  "Esse fenômeno costuma ser associado a:",
+                          "alternativas":  {
+                                               "a":  "à recusa dos imigrantes em participar do mercado de trabalho formal, comportamento observado de forma generalizada nos países receptores",
+                                               "b":  "à comprovada redução dos salários médios provocada pela entrada de imigrantes, fenômeno documentado de forma consistente nos países receptores",
+                                               "c":  "à insuficiência absoluta de território disponível nos países de destino, condição que inviabiliza fisicamente a acolhida de novos contingentes",
+                                               "d":  "xenofobia, alimentada pela atribuição de problemas internos aos que chegam",
+                                               "e":  "ao cumprimento das metas de recepção estabelecidas por tratados internacionais, que teriam sido atingidas por todos os países signatários"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Desemprego, insegurança e crise habitacional têm causas internas, e o imigrante é alvo disponível. É um mecanismo político antes de ser econômico — e os estudos sobre efeito salarial da imigração estão longe do consenso que a alternativa (b) supõe.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-69",
+                          "texto_apoio":  "O Índice de Desenvolvimento Humano combina três dimensões numa única medida comparável entre países.",
+                          "enunciado":  "As dimensões são ______, ______ e ______; o índice se distingue do PIB per capita por ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "produção – consumo – exportação – medir o desempenho econômico agregado de cada país no mercado internacional ao longo de cada período",
+                                               "b":  "renda – emprego – moradia – considerar exclusivamente as condições materiais de vida da população residente em cada um dos países avaliados",
+                                               "c":  "renda – educação – longevidade – não medir apenas riqueza, mas o que ela permite alcançar",
+                                               "d":  "saneamento – transporte – energia – avaliar a cobertura da infraestrutura disponível para o conjunto da população de cada território estudado",
+                                               "e":  "população – território – recursos naturais – estabelecer a relação entre o contingente populacional e os recursos disponíveis em cada país"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "O IDH nasce da crítica ao PIB como medida de desenvolvimento: dois países com renda parecida podem ter escolaridade e expectativa de vida muito diferentes. Ele também não capta desigualdade, o que exige o Gini ao lado.",
+                          "formato":  "lacunas",
+                          "banca":  "unesp"
+                      },
+                      {
+                          "id":  "geografia-70",
+                          "texto_apoio":  "Dois países apresentam o mesmo PIB per capita, mas em um deles a renda é muito mais concentrada que no outro.",
+                          "enunciado":  "O indicador adequado para captar essa diferença é:",
+                          "alternativas":  {
+                                               "a":  "a taxa de crescimento do produto interno bruto, que registra a variação da produção total do país ao longo de determinado período de tempo",
+                                               "b":  "o índice de Gini, que mede a concentração de renda",
+                                               "c":  "a densidade demográfica, medida que relaciona o contingente populacional à extensão territorial ocupada por ele em cada um dos países",
+                                               "d":  "a taxa de urbanização, percentual da população residente em áreas urbanas em relação ao total da população de cada um dos territórios",
+                                               "e":  "o saldo da balança comercial, diferença entre o valor das exportações e o das importações registradas por cada país em determinado ano"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "O Gini varia de 0 a 1: quanto mais perto de 1, mais concentrada a renda. É o complemento indispensável de qualquer média — e é onde o Brasil aparece mal mesmo quando o PIB per capita não é dos piores.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-71",
+                          "texto_apoio":  "Considere: um país com 200 milhões de habitantes distribuídos em 8,5 milhões de km²; outro com 17 milhões de habitantes em 41 mil km².",
+                          "enunciado":  "A comparação ilustra a diferença entre:",
+                          "alternativas":  {
+                                               "a":  "taxa de natalidade e taxa de fecundidade, indicadores que se diferenciam pelo denominador adotado no cálculo de cada um deles",
+                                               "b":  "crescimento vegetativo e crescimento total, indicadores que se distinguem pela inclusão ou não dos fluxos migratórios em seu cálculo",
+                                               "c":  "população economicamente ativa e população total, distinção estabelecida a partir da faixa etária considerada em cada uma das medidas",
+                                               "d":  "população absoluta e densidade demográfica",
+                                               "e":  "expectativa de vida ao nascer e expectativa de vida aos sessenta anos, medidas que consideram grupos etários distintos da mesma população"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "O primeiro tem população absoluta muito maior e densidade baixa; o segundo, o inverso. Confundir os dois leva a chamar o Brasil de país populoso e povoado, quando ele é populoso e pouco povoado.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-72",
+                          "texto_apoio":  "Considere três explicações para a relação entre população e recursos: uma afirma que a população cresce mais rápido que a produção de alimentos; outra defende o controle da natalidade nos países pobres; a terceira sustenta que a pobreza é causa, e não consequência, das altas taxas de natalidade.",
+                          "enunciado":  "As três correspondem, respectivamente, às teorias ______, ______ e ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "reformista – malthusiana – neomalthusiana, ordem que corresponde à sequência cronológica em que cada uma delas foi formulada ao longo do tempo",
+                                               "b":  "malthusiana – neomalthusiana – reformista",
+                                               "c":  "neomalthusiana – reformista – malthusiana, classificação estabelecida a partir do grau de intervenção estatal proposto por cada uma delas",
+                                               "d":  "liberal – keynesiana – marxista, correntes do pensamento econômico que se distinguem pelo papel atribuído ao Estado na economia nacional",
+                                               "e":  "ecológica – demográfica – sanitarista, abordagens que se diferenciam pela área do conhecimento em que cada uma delas foi desenvolvida"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Malthus opôs crescimento geométrico da população a aritmético dos alimentos. Os neomalthusianos transferiram o argumento aos países pobres no pós-guerra. A reformista inverte a causalidade: sem renda e escolaridade, ter filhos continua sendo racional.",
+                          "formato":  "lacunas",
+                          "banca":  "unifesp"
+                      },
+                      {
+                          "id":  "geografia-73",
+                          "texto_apoio":  "O censo demográfico é realizado periodicamente e percorre todos os domicílios do território nacional.",
+                          "enunciado":  "Sua importância decorre principalmente de:",
+                          "alternativas":  {
+                                               "a":  "estabelecer o número de representantes de cada país nas organizações internacionais das quais o território nacional participa como membro",
+                                               "b":  "permitir a fiscalização do cumprimento das obrigações tributárias pelos domicílios visitados durante o período de realização da pesquisa",
+                                               "c":  "fornecer a base para a distribuição de recursos e o desenho de políticas públicas",
+                                               "d":  "registrar exclusivamente o contingente populacional total, informação que não pode ser obtida por nenhum outro levantamento estatístico",
+                                               "e":  "definir os limites territoriais entre os municípios brasileiros, atribuição que a legislação confere ao instituto responsável pela pesquisa"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Repasse de verba, número de vereadores, dimensionamento de escola e de posto de saúde: tudo se calcula sobre o censo. Um censo adiado ou subfinanciado distorce a distribuição de recursos por uma década inteira.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-74",
+                          "texto_apoio":  "Considere: pessoas ocupadas, pessoas desocupadas que procuram trabalho, e pessoas que deixaram de procurar por desalento.",
+                          "enunciado":  "Na medição oficial da taxa de desemprego, o terceiro grupo:",
+                          "alternativas":  {
+                                               "a":  "fica fora da força de trabalho, o que subestima o problema",
+                                               "b":  "é contabilizado junto com os desocupados, o que amplia a taxa de desemprego divulgada oficialmente pelos institutos de pesquisa do país",
+                                               "c":  "é somado à população ocupada, uma vez que a interrupção da busca é interpretada como aceitação de uma ocupação informal disponível",
+                                               "d":  "constitui categoria própria com peso equivalente ao dos desocupados no cálculo do indicador divulgado a cada trimestre pelo instituto",
+                                               "e":  "não existe na metodologia adotada, que considera desocupada qualquer pessoa em idade ativa sem vínculo formal de trabalho registrado"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Quem desistiu de procurar sai do denominador e da conta, e a taxa cai sem que ninguém tenha se empregado. É por isso que se acompanha também a taxa de subutilização, que inclui desalentados e subocupados.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-75",
+                          "texto_apoio":  "Entre 1947 e 1991, a ordem mundial se organizou em torno da disputa entre dois blocos; a partir daí, o arranjo internacional se reconfigurou.",
+                          "enunciado":  "A ordem anterior era ______ e a atual é frequentemente descrita como ______; o principal traço da segunda é ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "regional – global – a irrelevância crescente dos Estados nacionais diante das organizações internacionais criadas ao longo do último século",
+                                               "b":  "multipolar – bipolar – a concentração do poder político e econômico em dois blocos militares rivais que dividem o conjunto do sistema mundial",
+                                               "c":  "unipolar – bipolar – a disputa entre duas superpotências pelo controle das áreas de influência distribuídas ao longo de todos os continentes",
+                                               "d":  "colonial – imperialista – a ocupação direta de territórios por potências europeias com o objetivo de explorar recursos naturais disponíveis",
+                                               "e":  "bipolar – multipolar – a existência de vários centros de poder econômico e político"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "Houve um momento unipolar americano nos anos 1990, mas a ascensão da China, da União Europeia e de potências regionais reabriu o jogo. Multipolar não significa equilíbrio — significa mais de um centro capaz de decidir.",
+                          "formato":  "lacunas",
+                          "banca":  "fuvest"
+                      },
+                      {
+                          "id":  "geografia-76",
+                          "texto_apoio":  "Durante a Guerra Fria, o confronto entre as superpotências raramente resultou em enfrentamento militar direto entre elas.",
+                          "enunciado":  "Em lugar disso, a disputa se manifestou por meio de:",
+                          "alternativas":  {
+                                               "a":  "guerra declarada e contínua entre os territórios das duas potências, com operações militares realizadas em ambos os lados da fronteira",
+                                               "b":  "acordos comerciais bilaterais firmados entre as duas superpotências ao longo de todo o período de vigência daquela configuração internacional",
+                                               "c":  "conflitos localizados em terceiros países, corrida armamentista e disputa ideológica",
+                                               "d":  "integração econômica progressiva entre os dois blocos, processo que teria conduzido ao fim pacífico da disputa ao final do século passado",
+                                               "e":  "arbitragem permanente das Nações Unidas sobre todas as controvérsias surgidas entre os dois blocos ao longo daquelas quatro décadas"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "A dissuasão nuclear tornava o confronto direto suicida, e a disputa migrou para Coreia, Vietnã, Afeganistão e América Latina. \"Fria\" descreve a relação entre as superpotências, não a temperatura dos lugares onde se lutou.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-77",
+                          "texto_apoio":  "A globalização se caracteriza pela intensificação dos fluxos de mercadorias, capitais e informações entre os países.",
+                          "enunciado":  "Um traço frequentemente apontado como contraditório nesse processo é:",
+                          "alternativas":  {
+                                               "a":  "a livre circulação de capitais convivendo com forte restrição à circulação de pessoas",
+                                               "b":  "a eliminação completa das fronteiras nacionais, processo que teria se concluído com o encerramento da disputa entre os dois blocos anteriores",
+                                               "c":  "a redução simultânea dos fluxos de mercadorias e de informações entre os países ao longo das últimas décadas do século passado no mundo",
+                                               "d":  "a homogeneização integral das condições de vida entre todos os países, resultado alcançado no conjunto do sistema internacional atual",
+                                               "e":  "a transferência de toda a produção industrial para os países centrais, movimento inverso ao observado nas décadas anteriores ao processo"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Capital atravessa fronteira em segundos; pessoa esbarra em visto, muro e deportação. A assimetria entre os dois fluxos é uma das críticas mais recorrentes ao modelo, e explica boa parte das tensões migratórias atuais.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-78",
+                          "texto_apoio":  "Os blocos econômicos apresentam graus distintos de integração entre os países-membros.",
+                          "enunciado":  "Uma ______ elimina tarifas internas; uma ______ acrescenta tarifa externa comum; um ______ acrescenta livre circulação de pessoas e capitais. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "acordo bilateral – tratado multilateral – organização internacional, formas de cooperação que se distinguem pelo número de signatários envolvidos",
+                                               "b":  "união aduaneira – mercado comum – zona de livre comércio, sequência que corresponde ao número de países que integram cada uma das modalidades",
+                                               "c":  "mercado comum – zona de livre comércio – união aduaneira, classificação estabelecida a partir do período histórico em que cada uma surgiu",
+                                               "d":  "união monetária – união política – confederação, etapas que se sucedem no processo de integração entre países de uma mesma região geográfica",
+                                               "e":  "zona de livre comércio – união aduaneira – mercado comum"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "A escala é cumulativa e termina em união econômica e monetária, com moeda única. Saber em que degrau está cada bloco resolve a maioria das questões: o Mercosul é união aduaneira imperfeita, e a União Europeia chegou ao último estágio.",
+                          "formato":  "lacunas",
+                          "banca":  "unesp"
+                      },
+                      {
+                          "id":  "geografia-79",
+                          "texto_apoio":  "O Mercosul foi criado em 1991 com o objetivo de constituir um mercado comum entre os países-membros.",
+                          "enunciado":  "Atualmente o bloco é classificado como união aduaneira imperfeita porque:",
+                          "alternativas":  {
+                                               "a":  "os países-membros ainda não eliminaram as tarifas sobre o comércio entre si, condição básica para a constituição de qualquer bloco econômico",
+                                               "b":  "há exceções à tarifa externa comum e a livre circulação de fatores não se completou",
+                                               "c":  "o bloco adotou moeda única sem que houvesse convergência prévia entre as políticas econômicas dos países que dele participam atualmente",
+                                               "d":  "os membros abriram mão de sua soberania política em favor de instituições supranacionais dotadas de poder decisório sobre cada um deles",
+                                               "e":  "a integração se restringe ao setor agrícola, sem que haja qualquer acordo relativo aos produtos industrializados comercializados entre eles"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "A tarifa externa comum existe, mas com longas listas de exceção por país; e pessoas e capitais não circulam livremente. O bloco passou da zona de livre comércio sem completar a etapa seguinte — daí \"imperfeita\".",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-80",
+                          "texto_apoio":  "A União Europeia adotou moeda única em parte de seus membros e mantém instituições com poder de decisão sobre os Estados nacionais.",
+                          "enunciado":  "Uma das tensões estruturais desse arranjo é:",
+                          "alternativas":  {
+                                               "a":  "a proibição de circulação de trabalhadores entre os países-membros, restrição que limita a integração dos mercados de trabalho nacionais",
+                                               "b":  "a ausência de qualquer mecanismo de coordenação entre os países-membros, o que impede a adoção de decisões comuns em matéria econômica",
+                                               "c":  "a exigência de que todos os membros adotem a moeda comum imediatamente após a adesão ao bloco, sem período de convergência prévia",
+                                               "d":  "haver política monetária única sem política fiscal unificada",
+                                               "e":  "a inexistência de instituições permanentes de coordenação, o que obriga a negociação caso a caso de cada uma das decisões do conjunto"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Um país da zona do euro não pode desvalorizar a moeda para enfrentar uma crise, mas também não conta com transferências fiscais automáticas do bloco. Foi essa combinação que agravou a crise grega a partir de 2010.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-81",
+                          "texto_apoio":  "O grupo formado inicialmente por Brasil, Rússia, Índia, China e África do Sul se ampliou nos últimos anos.",
+                          "enunciado":  "Esse agrupamento se distingue dos blocos econômicos tradicionais por:",
+                          "alternativas":  {
+                                               "a":  "adotar tarifa externa comum aplicável a todos os produtos originários de países que não integram o grupo em sua composição atual",
+                                               "b":  "não constituir bloco de integração comercial, e sim articulação política entre economias emergentes",
+                                               "c":  "estabelecer livre circulação de pessoas e de capitais entre os territórios de todos os países que participam do agrupamento atualmente",
+                                               "d":  "reunir países geograficamente contíguos, condição que caracteriza os processos de integração regional observados em outros continentes",
+                                               "e":  "dispor de instituições supranacionais com poder de decisão vinculante sobre as políticas econômicas adotadas por cada um dos membros"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Não há tarifa comum nem contiguidade territorial. O que reúne o grupo é a busca de maior peso na governança global — daí iniciativas como o banco de desenvolvimento próprio e a discussão sobre comércio em moedas locais.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-82",
+                          "texto_apoio":  "O Conselho de Segurança da ONU é composto por quinze membros, dos quais cinco são permanentes e detêm poder de veto.",
+                          "enunciado":  "Essa estrutura é frequentemente criticada por:",
+                          "alternativas":  {
+                                               "a":  "exigir unanimidade entre os cento e noventa e três Estados-membros da organização para a aprovação de qualquer medida submetida a ele",
+                                               "b":  "conceder poder de decisão idêntico a todos os países-membros da organização, o que inviabiliza a adoção de qualquer resolução relevante",
+                                               "c":  "excluir as grandes potências militares de sua composição, o que retira das decisões qualquer possibilidade de aplicação prática efetiva",
+                                               "d":  "refletir a distribuição de poder de 1945 e permitir que um único país bloqueie decisões",
+                                               "e":  "renovar integralmente sua composição a cada ano, o que impede a continuidade das decisões tomadas em períodos anteriores pelo órgão"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Os cinco permanentes são os vencedores da Segunda Guerra. Nenhum país africano ou latino-americano tem assento permanente, e o veto permite paralisar o órgão em conflitos que envolvam qualquer um dos cinco ou seus aliados.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-83",
+                          "texto_apoio":  "Muitos conflitos contemporâneos ocorrem no interior de Estados, envolvendo grupos definidos por identidade étnica, religiosa ou nacional.",
+                          "enunciado":  "Uma das causas históricas frequentemente apontadas para esses conflitos é:",
+                          "alternativas":  {
+                                               "a":  "o traçado de fronteiras coloniais que ignorou a distribuição dos povos",
+                                               "b":  "a homogeneidade cultural das populações envolvidas, condição que elimina qualquer possibilidade de convivência entre grupos distintos no mesmo território",
+                                               "c":  "a ausência de recursos naturais nos territórios em disputa, o que reduz o interesse externo pela mediação dos conflitos identificados",
+                                               "d":  "a inexistência de fronteiras definidas entre os Estados envolvidos, situação que se mantém sem alteração desde o período anterior à colonização",
+                                               "e":  "a intervenção sistemática das organizações internacionais, cuja atuação teria agravado tensões que se encontravam previamente resolvidas"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "As fronteiras africanas foram desenhadas na Conferência de Berlim com régua sobre o mapa: povos foram partidos e rivais foram reunidos no mesmo Estado. A independência herdou o traçado e, com ele, o conflito.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-84",
+                          "texto_apoio":  "Considere: a fronteira entre dois países acompanhando o curso de um rio; outra definida por uma linha reta traçada sobre um paralelo.",
+                          "enunciado":  "Trata-se, respectivamente, de fronteiras:",
+                          "alternativas":  {
+                                               "a":  "históricas e contemporâneas, distinção estabelecida a partir do período em que cada um dos limites foi definido pelos países envolvidos",
+                                               "b":  "artificiais e naturais, classificação que decorre da precisão com que cada uma delas pode ser demarcada no terreno pelos países envolvidos",
+                                               "c":  "vivas e mortas, categorias que se distinguem pela existência ou não de circulação de pessoas e de mercadorias através de cada uma delas",
+                                               "d":  "abertas e fechadas, denominações que se referem ao regime de controle adotado por cada país nos pontos de passagem estabelecidos nelas",
+                                               "e":  "naturais e artificiais"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "Natural acompanha um acidente geográfico; artificial usa coordenadas ou marcos. Nenhuma das duas é mais legítima — e as naturais dão problema quando o rio muda de curso.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-85",
+                          "texto_apoio":  "A divisão do mundo entre Norte e Sul não corresponde exatamente à divisão hemisférica em sentido geográfico.",
+                          "enunciado":  "Isso ocorre porque a classificação se baseia em:",
+                          "alternativas":  {
+                                               "a":  "no regime político adotado por cada Estado, critério que separa os países conforme o sistema de governo vigente em cada um deles hoje",
+                                               "b":  "na latitude de cada país, medida a partir da linha do equador em direção a cada um dos dois polos do planeta em que ele se localiza",
+                                               "c":  "critérios socioeconômicos, e não na posição em relação ao equador",
+                                               "d":  "na extensão territorial de cada país, medida que estabelece a posição ocupada por ele na classificação adotada pelos organismos internacionais",
+                                               "e":  "na filiação a blocos econômicos regionais, vínculo que determina a qual dos dois conjuntos cada país pertence na divisão considerada"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Austrália e Nova Zelândia estão no hemisfério sul e no Norte econômico; México e boa parte da Ásia estão ao norte do equador e no Sul. A divisão é de renda e industrialização, e o rótulo geográfico é apenas convenção.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-86",
+                          "texto_apoio":  "Na divisão internacional do trabalho clássica, os países periféricos exportavam matérias-primas e importavam manufaturados.",
+                          "enunciado":  "A chamada nova divisão internacional do trabalho se caracteriza por:",
+                          "alternativas":  {
+                                               "a":  "pela substituição do comércio internacional por acordos de autossuficiência firmados entre países de uma mesma região do planeta hoje",
+                                               "b":  "pela eliminação de qualquer especialização produtiva entre os países, que passaram a produzir integralmente todos os bens de que necessitam",
+                                               "c":  "pelo retorno da produção industrial aos países centrais, movimento que reverteu integralmente a configuração anterior do sistema mundial",
+                                               "d":  "pela concentração de todas as etapas produtivas nos países periféricos, incluindo o desenvolvimento tecnológico e a definição das estratégias",
+                                               "e":  "transferência de etapas industriais para a periferia, com o centro retendo pesquisa e comando"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "A montagem migra para onde o trabalho é barato; projeto, marca e patente ficam no centro. O celular é montado na Ásia e a maior parte do valor fica com quem desenhou — o que explica por que industrializar-se, sozinho, não resolve.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-87",
+                          "texto_apoio":  "Grandes empresas com atuação em vários países organizam sua produção distribuindo etapas entre territórios distintos.",
+                          "enunciado":  "Um dos critérios que orientam essa distribuição é:",
+                          "alternativas":  {
+                                               "a":  "o tamanho da população de cada país, único fator considerado na decisão sobre a localização das plantas produtivas dessas empresas",
+                                               "b":  "a proximidade geográfica entre todas as unidades produtivas, exigência que impede a distribuição das etapas entre continentes diferentes",
+                                               "c":  "custo da mão de obra, carga tributária e legislação ambiental de cada território",
+                                               "d":  "a filiação de cada território a organizações internacionais, vínculo que determina a possibilidade de instalação de unidades produtivas nele",
+                                               "e":  "a exigência de manter todas as etapas no país de origem da empresa, conforme determinam as legislações nacionais dos países centrais"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "É a lógica que produz a corrida para baixo: territórios competem oferecendo salário menor, imposto reduzido e fiscalização branda. A empresa distribui as etapas conforme o que cada lugar oferece de mais barato.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-88",
+                          "texto_apoio":  "A produção de determinados minerais estratégicos concentra-se em poucos países, e sua demanda cresceu com a transição energética.",
+                          "enunciado":  "Essa concentração tende a:",
+                          "alternativas":  {
+                                               "a":  "reduzir a importância estratégica desses territórios, uma vez que a substituição desses recursos por alternativas sintéticas já se completou",
+                                               "b":  "aumentar o peso geopolítico dos países produtores e o risco de disputas",
+                                               "c":  "eliminar a competição entre as potências pelo acesso a esses recursos, em razão dos acordos internacionais firmados sobre sua distribuição",
+                                               "d":  "garantir preços estáveis no mercado internacional, resultado da previsibilidade da oferta assegurada pelos países produtores desses minerais",
+                                               "e":  "diminuir a dependência externa dos países consumidores, que passaram a produzir internamente a totalidade dos minerais de que necessitam"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Lítio, cobalto e terras-raras são insumo de bateria, motor elétrico e eletrônico. Quem controla a extração e o refino ganha instrumento de pressão — e a corrida por esses recursos já é fator de política externa.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-89",
+                          "texto_apoio":  "A Amazônia é frequentemente mencionada em debates internacionais sobre clima, o que suscita discussões sobre soberania.",
+                          "enunciado":  "A posição brasileira histórica nesse debate sustenta que:",
+                          "alternativas":  {
+                                               "a":  "o território amazônico pertence ao conjunto dos países do bloco econômico regional, que decidem coletivamente sobre sua utilização atual",
+                                               "b":  "a região deve ser submetida à administração direta de organismos internacionais, proposta defendida pelo país em fóruns multilaterais recentes",
+                                               "c":  "nenhuma forma de cooperação internacional é admissível em matéria ambiental, posição que o país sustenta desde a criação das Nações Unidas",
+                                               "d":  "a gestão do território é atribuição nacional, o que não afasta a cooperação internacional",
+                                               "e":  "as questões ambientais não integram a agenda de política externa brasileira, por serem consideradas assunto de competência estritamente local"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "A soberania sobre o território é inegociável, mas o Brasil participa de acordos climáticos e recebe financiamento externo para conservação. As duas coisas convivem — e a distinção é o que separa cooperação de tutela.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-90",
+                          "texto_apoio":  "Acordos climáticos internacionais estabelecem metas de redução de emissões diferenciadas entre os países.",
+                          "enunciado":  "O princípio que fundamenta essa diferenciação é o das:",
+                          "alternativas":  {
+                                               "a":  "responsabilidades comuns porém diferenciadas, considerando as emissões históricas",
+                                               "b":  "metas idênticas para todos os países signatários, critério que assegura tratamento igualitário no conjunto do sistema internacional atual",
+                                               "c":  "responsabilidades atribuídas exclusivamente aos países em desenvolvimento, cujas emissões cresceram nas últimas décadas do século passado",
+                                               "d":  "obrigações proporcionais à extensão territorial de cada país, medida adotada como critério de distribuição das metas entre os signatários",
+                                               "e":  "isenção integral concedida às economias emergentes, que ficam dispensadas de qualquer compromisso de redução de emissões nos acordos"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "O carbono acumulado na atmosfera veio majoritariamente da industrialização dos países centrais. O princípio reconhece que todos precisam agir, mas que a conta histórica não é igual — e é ele que sustenta o financiamento climático.",
+                          "formato":  "direta"
                       }
                   ],
     "gramatica":  [

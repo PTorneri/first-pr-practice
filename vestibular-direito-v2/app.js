@@ -1086,7 +1086,7 @@
     const errorsCard = document.createElement("div");
     errorsCard.className = "lesson-card";
     if (wrongGroup && wrongGroup.questions.length > 0) {
-      errorsCard.innerHTML = `<h3>Suas questões erradas nesse tema <span class="visit-badge">${wrongGroup.questions.length} pra revisar</span></h3><div class="questions"></div>`;
+      errorsCard.innerHTML = `<h3>Suas questões erradas nesse tema <span class="visit-badge">${wrongGroup.questions.length} ${questaoOuQuestoes(wrongGroup.questions.length)} pra revisar</span></h3><div class="questions"></div>`;
       const qContainer = errorsCard.querySelector(".questions");
       wrongGroup.questions.forEach((q, idx) => {
         qContainer.appendChild(renderQuestion(null, subtopicId, q, idx, undefined, undefined, true));
@@ -1182,12 +1182,12 @@
       <p class="hint">Repetição espaçada: o que você erra volta antes; o que acerta vai espaçando.</p>
       <div class="card flashcard-summary-card">
         <h3>Revisão do dia</h3>
-        <p class="hint" style="margin-top:-4px">${dueCards.length} pra revisar · ${todayNewCount} novos</p>
+        <p class="hint" style="margin-top:-4px">${dueCards.length} pra revisar · ${todayNewCount} nov${todayNewCount === 1 ? "o" : "os"}</p>
         <button type="button" class="btn btn-primary flashcard-start-btn" style="width:auto;">Estudar agora</button>
       </div>
       <h3 style="margin-top:24px;">Estudar por frente</h3>
       <div class="progress-list" id="flashcard-area-list"></div>
-      <p class="hint" style="margin-top:14px;">${futureCount} em dia · ${newCards.length} novos · ${pool.length} total</p>
+      <p class="hint" style="margin-top:14px;">${futureCount} em dia · ${newCards.length} nov${newCards.length === 1 ? "o" : "os"} · ${pool.length} total</p>
     `;
 
     wrap.querySelector(".flashcard-start-btn").addEventListener("click", () => {
@@ -1602,7 +1602,7 @@
     // obras do edital 2027.1, o botão prometia cinco e abria uma div vazia.
     const bank = (window.OBRAS_QUESTOES && window.OBRAS_QUESTOES[o.id]) || [];
     const quizHtml = bank.length
-      ? `<button type="button" class="btn-link obra-quiz-toggle">Praticar (${bank.length} ${bank.length === 1 ? "questão" : "questões"})</button>
+      ? `<button type="button" class="btn-link obra-quiz-toggle">Praticar (${bank.length} ${questaoOuQuestoes(bank.length)})</button>
       <div class="obra-questoes" hidden></div>`
       : "";
     const catMeta = OBRA_CATEGORIA_META[o.categoria] || { cls: "cat-default", icon: "" };
@@ -1692,7 +1692,7 @@
       simulado — aparece aqui pra você treinar de novo. Responder certo não some a questão na
       hora: ela continua na tela com a explicação, e só deixa de aparecer da próxima vez que você
       abrir esta aba.</p>
-      <div class="dissert-counter" id="erros-counter"><strong>${total}</strong> questõe${total === 1 ? "" : "s"} pra revisar</div>
+      <div class="dissert-counter" id="erros-counter"><strong>${total}</strong> ${questaoOuQuestoes(total)} pra revisar</div>
     `;
     container.appendChild(header);
 
@@ -1709,7 +1709,7 @@
       card.className = "lesson-card";
       card.innerHTML = `
         <div class="lesson-eyebrow">${escapeHtml(g.area)}</div>
-        <h3>${escapeHtml(g.nome)} <span class="visit-badge">${g.questions.length} pra revisar</span></h3>
+        <h3>${escapeHtml(g.nome)} <span class="visit-badge">${g.questions.length} ${questaoOuQuestoes(g.questions.length)} pra revisar</span></h3>
         <div class="questions"></div>
       `;
       const qContainer = card.querySelector(".questions");
@@ -1730,7 +1730,7 @@
     const counter = document.getElementById("erros-counter");
     if (!counter) return;
     const total = computeWrongQuestions().reduce((sum, g) => sum + g.questions.length, 0);
-    counter.innerHTML = `<strong>${total}</strong> questõe${total === 1 ? "" : "s"} pra revisar`;
+    counter.innerHTML = `<strong>${total}</strong> ${questaoOuQuestoes(total)} pra revisar`;
   }
 
   // Renderiza um bloco de subtema (gatilhos/pegadinhas/exemplo específicos de
@@ -2963,6 +2963,13 @@
       status.textContent = "Data salva. Recarregando…";
       setTimeout(() => location.reload(), 600);
     });
+  }
+
+  // "1 questão" / "2 questões": o plural em português não é só um "s" no fim,
+  // e montar isso à mão em cada tela já produziu rótulo errado ("1 questõe").
+  // Todo contador e badge com contagem de questões passa por aqui.
+  function questaoOuQuestoes(n) {
+    return n === 1 ? "questão" : "questões";
   }
 
   function escapeHtml(str) {

@@ -21,7 +21,7 @@
 (function () {
   // Contador de cache do CONTEÚDO, separado do ?v= do código (ver o comentário
   // longo no topo do index.html). Corrigiu uma questão? Incremente aqui.
-  const DATA_VERSION = 16;
+  const DATA_VERSION = 17;
 
   // A chave da trilha ativa é a única que vive FORA do namespace de trilha —
   // é ela que diz qual namespace usar. Sobe pra nuvem junto com o resto.
@@ -67,6 +67,14 @@
         "priority-weights", "video-topics", "bundle", "dissertativas", "redacoes",
       ],
       abas: ["hoje", "calendario", "simulados", "cards", "redacao", "obras", "erros", "progresso"],
+      obrasUI: {
+        titulo: "Obras obrigatórias (FGV)",
+        hint: "A prova de Artes e Questões Contemporâneas da FGV cobra leitura crítica de uma lista fechada de " +
+              "obras, ligadas aos dois eixos da banca (globalização / modernidade → pós-modernidade) — não é decoreba de " +
+              "enredo. Sem equivalente na prova do Insper.",
+        rodape: "lista do edital 2027.1",
+        rotuloAnalise: "Eixo da banca",
+      },
       plano: {
         totalDias: 90,
         frentesPorDia: 2,
@@ -94,14 +102,29 @@
       marca: MARCA_HTML,
       bancas: ["fuvest", "unicamp", "unesp", "unifesp", "einstein", "santacasa", "pucsp"],
       dataDir: "../vestibular-medicina/data/",
-      // Sem "obras" e sem "obras-questoes": obras obrigatórias são um
-      // instrumento da FGV e não têm equivalente em nenhuma das sete bancas
-      // de Medicina.
+      // "obras" e "obras-questoes" estavam fora daqui, com a justificativa de
+      // que lista de obras obrigatórias seria instrumento exclusivo da FGV.
+      // Era falso: a FUVEST publica uma lista de nove obras no anexo "LEITURAS
+      // OBRIGATÓRIAS" de sua resolução, e cobra dela nas duas fases — oito
+      // aparecem na 1ª fase de 2026 e cinco nas dez discursivas de Português
+      // do dia 1, que vale um terço da nota, desempata em primeiro lugar e
+      // elimina quem zera. É peso igual ou maior que o da lista da FGV.
       arquivos: [
-        "subtopics", "theory", "flashcards", "priority-weights",
-        "video-topics", "bundle", "dissertativas", "redacoes",
+        "subtopics", "theory", "obras", "obras-questoes", "flashcards",
+        "priority-weights", "video-topics", "bundle", "dissertativas", "redacoes",
       ],
-      abas: ["hoje", "calendario", "simulados", "cards", "redacao", "erros", "progresso"],
+      abas: ["hoje", "calendario", "simulados", "cards", "redacao", "obras", "erros", "progresso"],
+      // Rótulos da aba Obras. Ficavam fixos em app.js, escritos para a FGV —
+      // a trilha de Medicina exibia "Obras obrigatórias (FGV)" e "lista do
+      // edital 2027.1" se a aba fosse ligada sem isto.
+      obrasUI: {
+        titulo: "Obras obrigatórias (FUVEST)",
+        hint: "A FUVEST publica uma lista fechada de leitura obrigatória e cobra dela nas duas fases: nas objetivas da 1ª, " +
+              "em questões que comparam as obras entre si, e nas dez discursivas de Português do dia 1 da 2ª fase. Esse dia " +
+              "vale um terço da nota final e é o primeiro critério de desempate. Sem equivalente nas outras seis bancas.",
+        rodape: "lista da resolução FUVEST 2026",
+        rotuloAnalise: "Análise crítica",
+      },
       plano: {
         totalDias: 90,
         frentesPorDia: 2,

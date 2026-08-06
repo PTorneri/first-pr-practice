@@ -1501,14 +1501,24 @@
     const complementares = obras.filter((o) => o.foraDoEdital2027);
     const studiedObrig = obrigatorias.filter((o) => studied[o.id]).length;
 
+    // Os rótulos vêm da trilha: a lista de Direito é a da prova de Artes da
+    // FGV e a de Medicina é a leitura obrigatória da FUVEST, com justificativa
+    // e nome de fonte diferentes. Estavam fixos aqui, escritos para a FGV.
+    // config() devolve null enquanto a pessoa não escolheu trilha, então o
+    // acesso precisa ser encadeado com cuidado — sem isto, abrir a aba antes
+    // da escolha derrubaria o render inteiro.
+    const cfgTrilha = (window.VD_TRILHA && window.VD_TRILHA.config()) || null;
+    const obrasUI = (cfgTrilha && cfgTrilha.obrasUI) || {};
+    const uiTitulo = obrasUI.titulo || "Obras obrigatórias";
+    const uiHint = obrasUI.hint || "";
+    const uiRodape = obrasUI.rodape || "";
+
     const header = document.createElement("div");
     header.innerHTML = `
-      <h2>Obras obrigatórias (FGV)</h2>
-      <p class="hint">A prova de Artes e Questões Contemporâneas da FGV cobra leitura crítica de uma lista fechada de
-      obras, ligadas aos dois eixos da banca (globalização / modernidade → pós-modernidade) — não é decoreba de
-      enredo. Sem equivalente na prova do Insper.</p>
+      <h2>${escapeHtml(uiTitulo)}</h2>
+      <p class="hint">${escapeHtml(uiHint)}</p>
       <div class="dissert-counter"><strong>${studiedObrig}/${obrigatorias.length}</strong> estudadas
-      &nbsp;·&nbsp; lista do edital 2027.1</div>
+      &nbsp;·&nbsp; ${escapeHtml(uiRodape)}</div>
       <div class="area-filter" id="obras-filter"></div>
     `;
     container.appendChild(header);
@@ -1570,6 +1580,11 @@
     const cenaHtml = o.cenaOuTrechoChave
       ? `<p class="theory-resumo" style="margin-top:8px;"><strong>Cena/trecho-chave:</strong> ${escapeHtml(o.cenaOuTrechoChave)}</p>`
       : "";
+    // "Eixo da banca" só faz sentido em Direito, onde a FGV organiza a lista
+    // pelos seus dois eixos. Em Medicina a mesma análise vale como leitura
+    // crítica, mas não corresponde a eixo declarado por banca nenhuma.
+    const cfgObra = (window.VD_TRILHA && window.VD_TRILHA.config()) || null;
+    const rotuloAnalise = (cfgObra && cfgObra.obrasUI && cfgObra.obrasUI.rotuloAnalise) || "Análise crítica";
     // O rótulo sai do banco em vez de ser fixo: quando faltavam as questões das
     // obras do edital 2027.1, o botão prometia cinco e abria uma div vazia.
     const bank = (window.OBRAS_QUESTOES && window.OBRAS_QUESTOES[o.id]) || [];
@@ -1596,7 +1611,7 @@
         ${contextoHtml}
         ${pontosChaveHtml}
         ${cenaHtml}
-        <p class="theory-resumo" style="margin-top:8px;"><strong>Eixo da banca:</strong> ${escapeHtml(o.analiseEixos)}</p>
+        <p class="theory-resumo" style="margin-top:8px;"><strong>${escapeHtml(rotuloAnalise)}:</strong> ${escapeHtml(o.analiseEixos)}</p>
       </div>
       ${quizHtml}
       <label class="obra-studied-check">

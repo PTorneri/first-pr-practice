@@ -593,11 +593,16 @@ foreach ($file in $files) {
 
 # Fica fora do -Frente porque as obras não são uma frente de data/questions/.
 #
-# Na trilha de MEDICINA não existem obras: a lista de leitura obrigatória é um
-# instrumento da FGV e nenhuma das sete bancas de Medicina tem equivalente (ver
-# estudo-anatomia-provas-medicina-sp-2025-2026.md). Por isso a ausência dos
-# arquivos aqui não é falha — é o esperado. Reprovar por ela afogaria as falhas
-# de verdade, que é exatamente o que este script existe para evitar.
+# A trilha de MEDICINA TEM obras desde 2026-08: são as nove da lista de leitura
+# obrigatória da FUVEST, geradas por gerar-obras.ps1 a partir do banco de
+# Direito. O comentário anterior aqui dizia que a lista era instrumento
+# exclusivo da FGV, apoiado no estudo dos cadernos — e o mesmo estudo mostra o
+# contrário: a FUVEST cobra a lista nas duas fases, e o dia das discursivas de
+# Português vale um terço da nota final.
+#
+# A varredura segue condicionada à existência dos arquivos, e não ao nome da
+# trilha, porque é assim que ela serve às duas sem ramificação: se um dia as
+# outras seis bancas publicarem lista, basta gerar os arquivos.
 $obrasLinha = ""
 $temObras = (Test-Path (Join-Path $root "data\obras.js")) -or (Test-Path (Join-Path $root "data\obras-questoes.js"))
 if (-not $Frente -and $temObras) {

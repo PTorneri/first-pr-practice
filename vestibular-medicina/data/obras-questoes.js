@@ -1,0 +1,615 @@
+// GERADO por gerar-obras.ps1 — não edite à mão.
+// 5 questoes de fixacao por obra da lista da FUVEST.
+window.OBRAS_QUESTOES = {
+    "obra-opusculo-humanitario":  [
+                                      {
+                                          "id":  "obra-opusculo-humanitario-q1",
+                                          "texto_apoio":  "O \"Opúsculo Humanitário\" reúne artigos que Nísia Floresta publicou na imprensa em 1853 e depois organizou em livro.",
+                                          "enunciado":  "A tese central defendida nesses artigos é a de que:",
+                                          "alternativas":  {
+                                                               "a":  "a instrução das mulheres é condição do progresso de um país, e não questão doméstica",
+                                                               "b":  "as mulheres devem ser educadas apenas no que sirva à administração do lar e da família",
+                                                               "c":  "a educação formal deve ser reservada às elites, cabendo ao povo o ensino profissional",
+                                                               "d":  "o atraso brasileiro se explica pelo clima e pela composição racial da população",
+                                                               "e":  "a emancipação das mulheres depende antes do voto do que da instrução escolar"
+                                                           },
+                                          "resposta":  "a",
+                                          "explicacao":  "A autora desloca a educação feminina do terreno privado para o do interesse nacional: um país que mantém metade da população sem instrução não se moderniza, por mais que importe ferrovias e códigos. Em (e) está a alternativa mais próxima do vocabulário feminista posterior, e é anacrônica aqui — o argumento de 1853 é pela escola, e o sufrágio não está em pauta. Em (b), a educação restrita ao lar é justamente o que ela combate. Em (c) e (d), o texto não defende ensino de classe nem explicação climática ou racial."
+                                      },
+                                      {
+                                          "id":  "obra-opusculo-humanitario-q2",
+                                          "enunciado":  "O procedimento argumentativo que organiza o livro consiste em:",
+                                          "alternativas":  {
+                                                               "a":  "narrar a própria trajetória escolar da autora como prova do que sustenta",
+                                                               "b":  "comparar a instrução das mulheres em vários povos e períodos antes de julgar o Brasil",
+                                                               "c":  "reproduzir integralmente a legislação educacional do Império e comentá-la artigo por artigo",
+                                                               "d":  "entrevistar professoras de colégios femininos da corte e transcrever seus depoimentos",
+                                                               "e":  "traduzir e adaptar um tratado europeu sobre pedagogia, acrescentando notas de rodapé"
+                                                           },
+                                          "resposta":  "b",
+                                          "explicacao":  "O panorama histórico e comparativo é o que dá força ao diagnóstico final: alinhado a outros povos e épocas, o atraso brasileiro deixa de parecer natureza e aparece como escolha. Em (e) está a confusão mais provável com a bibliografia da autora — foi assim que ela procedeu em 1832, adaptando livremente Mary Wollstonecraft, e não neste livro, que é texto próprio. Em (a), a experiência pessoal não estrutura o argumento. Em (c) e (d), não há compilação legal nem material de entrevista."
+                                      },
+                                      {
+                                          "id":  "obra-opusculo-humanitario-q3",
+                                          "enunciado":  "A quem o texto dirige principalmente seu argumento?",
+                                          "alternativas":  {
+                                                               "a":  "às próprias mulheres, convocadas a estudar por conta própria",
+                                                               "b":  "ao clero católico, responsável pela maioria dos colégios do período",
+                                                               "c":  "à elite dirigente do Império, que decide sobre instrução pública",
+                                                               "d":  "aos pais de família das camadas populares urbanas do Rio de Janeiro",
+                                                               "e":  "aos professores estrangeiros contratados pelas escolas da corte"
+                                                           },
+                                          "resposta":  "c",
+                                          "explicacao":  "O tom é de argumentação política, e a utilidade nacional é o critério oferecido — sinal de que o destinatário é quem tem poder de decidir sobre a instrução, não quem sofre a falta dela. Em (a) está a leitura mais intuitiva para um texto sobre mulheres, e ela inverte a direção do apelo: convocar as excluídas a se virarem sozinhas seria abandonar a exigência de política pública. Em (b), (d) e (e), clero, famílias populares e professores estrangeiros não são os interlocutores construídos pelo texto."
+                                      },
+                                      {
+                                          "id":  "obra-opusculo-humanitario-q4",
+                                          "enunciado":  "Sobre a autora do \"Opúsculo Humanitário\", é correto afirmar que:",
+                                          "alternativas":  {
+                                                               "a":  "assinava com o próprio nome de registro, Nísia Floresta, desde a estreia",
+                                                               "b":  "publicou o livro já no período republicano, após a abolição da escravidão",
+                                                               "c":  "era professora estrangeira radicada no Brasil, que aprendeu português tardiamente",
+                                                               "d":  "usava pseudônimo, chamava-se Dionísia Gonçalves Pinto e dirigiu um colégio no Rio",
+                                                               "e":  "escreveu o livro na juventude, como sua primeira publicação impressa"
+                                                           },
+                                          "resposta":  "d",
+                                          "explicacao":  "Nísia Floresta Brasileira Augusta é nome de pena de Dionísia Gonçalves Pinto, potiguar, que dirigiu o Colégio Augusto no Rio de Janeiro e viveu longos períodos na Europa. Em (e) está o erro cronológico mais fácil de cometer: o livro é de 1853, e ela já publicara em 1832 a adaptação de Wollstonecraft. Em (a), o nome civil é outro. Em (b), 1853 é Segundo Reinado, três décadas antes da abolição. Em (c), era brasileira."
+                                      },
+                                      {
+                                          "id":  "obra-opusculo-humanitario-q5",
+                                          "enunciado":  "Nos eixos cobrados pela banca, o texto interessa sobretudo por:",
+                                          "alternativas":  {
+                                                               "a":  "recusar o vocabulário do progresso e propor o retorno a formas comunitárias anteriores à industrialização",
+                                                               "b":  "descrever a globalização do comércio de manufaturas no século XIX brasileiro",
+                                                               "c":  "opor a tradição religiosa à razão científica como caminhos incompatíveis",
+                                                               "d":  "documentar a industrialização do Rio de Janeiro e seus efeitos sobre o trabalho feminino",
+                                                               "e":  "usar o próprio vocabulário do progresso para mostrar que ele exclui as mulheres por decisão"
+                                                           },
+                                          "resposta":  "e",
+                                          "explicacao":  "A crítica é interna: a autora aceita razão, civilização e progresso como valores e demonstra que sua aplicação prática deixa metade da população de fora — exclusão deliberada, não atraso residual. Em (a) está a leitura que a transformaria em crítica antimoderna, e o texto faz o contrário, cobra a modernidade pelo que ela promete. Em (c), não há oposição entre fé e razão. Em (b) e (d), comércio e industrialização não são o assunto."
+                                      }
+                                  ],
+    "obra-nebulosas":  [
+                           {
+                               "id":  "obra-nebulosas-q1",
+                               "enunciado":  "\"Nebulosas\", de Narcisa Amália, caracteriza-se por:",
+                               "alternativas":  {
+                                                    "a":  "ser o primeiro de uma série de seis livros de poemas publicados pela autora",
+                                                    "b":  "reunir poemas que combinam tom cívico condoreiro com imagens astronômicas e cósmicas",
+                                                    "c":  "adotar a forma do romance em versos, com enredo contínuo do começo ao fim",
+                                                    "d":  "recolher cantigas populares fluminenses transcritas pela autora em viagens pelo interior",
+                                                    "e":  "traduzir para o português a poesia romântica francesa de Victor Hugo e Lamartine"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "O céu, as estrelas e o infinito servem de repertório de imagens para falar de liberdade, abolição e fraternidade entre os povos — é essa mistura de grandiloquência cívica e astronomia que dá ao livro seu caráter. Em (e) está o distrator mais informado, porque Victor Hugo de fato elogiou a autora e a influência romântica francesa é visível; o livro, contudo, é de poesia própria, não de tradução. Em (a), foi o único que publicou. Em (c) e (d), não é romance em versos nem coletânea folclórica."
+                           },
+                           {
+                               "id":  "obra-nebulosas-q2",
+                               "enunciado":  "A expressão \"nebulosas\", que dá título ao livro, funciona no conjunto como:",
+                               "alternativas":  {
+                                                    "a":  "referência ao nome do periódico em que os poemas saíram antes de virar livro",
+                                                    "b":  "designação de um grupo literário do qual a autora fazia parte no Rio de Janeiro",
+                                                    "c":  "imagem dupla, de objeto do céu e do que ainda não tomou forma definida",
+                                                    "d":  "termo técnico da meteorologia empregado com rigor científico ao longo dos poemas",
+                                                    "e":  "alusão à cegueira progressiva de que a autora sofria quando escreveu os versos"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "O título funciona nas duas direções ao mesmo tempo: corpo celeste difuso e projeto ainda por definir — e é essa ambivalência que sustenta a passagem constante entre contemplação do cosmos e ideais políticos por realizar. Em (d) está a leitura literalista mais tentadora, porque o vocabulário é mesmo astronômico; o uso, porém, é metafórico, e não descritivo. Em (a), (b) e (e), não há periódico homônimo, grupo literário com esse nome nem referência biográfica desse tipo."
+                           },
+                           {
+                               "id":  "obra-nebulosas-q3",
+                               "texto_apoio":  "Narcisa Amália publicou \"Nebulosas\" em 1872, sob o Império e ainda sob a escravidão.",
+                               "enunciado":  "Sobre a trajetória da autora, é correto afirmar que:",
+                               "alternativas":  {
+                                                    "a":  "abandonou a literatura para dedicar-se à política partidária após a Proclamação",
+                                                    "b":  "publicou regularmente ao longo de cinco décadas, somando mais de dez títulos em prosa e em verso",
+                                                    "c":  "escreveu apenas em francês, sendo traduzida para o português por terceiros",
+                                                    "d":  "foi a primeira brasileira a viver profissionalmente do jornalismo e não publicou outro livro",
+                                                    "e":  "integrou a Academia Brasileira de Letras desde sua fundação, em 1897"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Ela dirigiu periódicos e assinou artigos numa época em que a autoria feminina era ridicularizada, e \"Nebulosas\" ficou sendo seu único livro — a hostilidade que enfrentou encerrou cedo a carreira literária. Em (b) está a suposição natural para quem sabe que ela viveu até 1924: a longevidade não se converteu em obra publicada. Em (e), a ABL não admitiu mulheres em 1897. Em (a) e (c), não houve migração para a política partidária nem escrita em francês."
+                           },
+                           {
+                               "id":  "obra-nebulosas-q4",
+                               "enunciado":  "A articulação entre imagem cósmica e denúncia social nos poemas produz o efeito de:",
+                               "alternativas":  {
+                                                    "a":  "afastar o leitor das questões concretas de seu tempo, substituindo-as pela contemplação desinteressada do infinito",
+                                                    "b":  "reduzir a escravidão a um fenômeno natural, comparável aos ciclos dos astros",
+                                                    "c":  "atribuir a um destino escrito nas estrelas as desigualdades observadas na terra",
+                                                    "d":  "demonstrar a superioridade do conhecimento científico sobre a experiência poética",
+                                                    "e":  "usar a escala do universo como medida contra a qual as injustiças humanas se revelam pequenas e injustificáveis"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "O olhar para o alto não é fuga: serve de contraste, e diante da imensidão do cosmos as hierarquias sociais aparecem como arbitrariedades sem fundamento. Em (a) está a leitura oposta e a mais provável, porque poesia cósmica costuma ser lida como evasão — aqui o movimento é de retorno à terra, com o infinito servindo à crítica. Em (b) e (c), naturalizar a escravidão ou atribuí-la ao destino é o contrário do que os poemas fazem. Em (d), ciência e poesia se somam em vez de disputar."
+                           },
+                           {
+                               "id":  "obra-nebulosas-q5",
+                               "enunciado":  "A recepção crítica de \"Nebulosas\" à época do lançamento incluiu:",
+                               "alternativas":  {
+                                                    "a":  "elogios de Machado de Assis e de Victor Hugo à jovem autora estreante",
+                                                    "b":  "condenação unânime da imprensa, que classificou os versos como indignos de publicação",
+                                                    "c":  "indiferença completa, com o livro só recuperado pela crítica no século XXI",
+                                                    "d":  "polêmica com José de Alencar, que respondeu aos poemas em artigo de jornal",
+                                                    "e":  "premiação oficial concedida pelo Instituto Histórico e Geográfico Brasileiro"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "O livro teve recepção favorável de nomes de peso, o que torna mais notável o silêncio posterior da autora: o obstáculo não foi a falta de reconhecimento literário, e sim a hostilidade que ela enfrentou como mulher pública. Em (c) está o distrator mais plausível para uma autora hoje pouco lida, e ele erra o momento — o esquecimento veio depois, não na estreia. Em (b), não houve condenação unânime. Em (d) e (e), não há polêmica com Alencar nem prêmio do IHGB."
+                           }
+                       ],
+    "obra-memorias-de-martha":  [
+                                    {
+                                        "id":  "obra-memorias-de-martha-q1",
+                                        "enunciado":  "O enredo de \"Memórias de Martha\", de Júlia Lopes de Almeida, acompanha:",
+                                        "alternativas":  {
+                                                             "a":  "uma jovem da elite carioca que perde a fortuna e se recusa a trabalhar",
+                                                             "b":  "uma imigrante portuguesa que abre uma casa de costura no centro do Rio",
+                                                             "c":  "uma menina que, após a morte do pai, passa a morar num cortiço e ascende pelo estudo",
+                                                             "d":  "três jovens de origens diferentes que dividem um quarto de pensionato durante a ditadura militar",
+                                                             "e":  "uma professora do interior que se muda para a corte em busca de emprego público"
+                                                         },
+                                        "resposta":  "c",
+                                        "explicacao":  "A morte do pai empurra Martha e a mãe para o cortiço, e a saída se dá pelo estudo e pelo trabalho, lentamente, sem golpe de sorte nem casamento salvador. Em (d) está a confusão com \"As Meninas\", de Lygia Fagundes Telles, que também integra a lista da FUVEST e também tem protagonistas femininas dividindo espaço — o século e o assunto, porém, são outros. Em (a) e (e), não há recusa ao trabalho nem migração do interior. Em (b), a costura é da mãe, e a narradora é brasileira."
+                                    },
+                                    {
+                                        "id":  "obra-memorias-de-martha-q2",
+                                        "enunciado":  "A escolha da narração em primeira pessoa produz, no romance, o efeito de:",
+                                        "alternativas":  {
+                                                             "a":  "garantir imparcialidade ao relato, uma vez que vem de quem efetivamente viveu os fatos narrados",
+                                                             "b":  "reduzir o romance a documento sociológico sobre a habitação popular",
+                                                             "c":  "impedir que o leitor conheça os demais moradores do cortiço",
+                                                             "d":  "dar acesso à formação interior da personagem, e não apenas ao ambiente que a cerca",
+                                                             "e":  "sugerir que os episódios narrados são invenção da protagonista"
+                                                         },
+                                        "resposta":  "d",
+                                        "explicacao":  "Contar de dentro permite acompanhar o que o meio produz na personagem — vergonha, ambição, cálculo — e não só descrevê-lo de fora, que é o que separa este livro do romance naturalista de ambiente. Em (a) está a inferência mais comum e mais frágil: quem viveu é parte interessada, e a primeira pessoa não confere imparcialidade nenhuma. Em (c), os vizinhos são retratados em detalhe. Em (d) e (e), o romance não vira documento nem põe em dúvida o que narra."
+                                    },
+                                    {
+                                        "id":  "obra-memorias-de-martha-q3",
+                                        "texto_apoio":  "Antonio Candido descreveu o cortiço, no romance de Aluísio Azevedo, como \"o centro de convergência, o lugar por excelência, em função do qual tudo se exprime\".",
+                                        "enunciado":  "Aplicada a \"Memórias de Martha\", essa fórmula ajuda a perceber que:",
+                                        "alternativas":  {
+                                                             "a":  "os dois romances tratam o cortiço de maneira idêntica, sem diferença de método",
+                                                             "b":  "o cortiço aparece apenas como cenário de fundo, sem exercer influência sobre a trajetória da narradora",
+                                                             "c":  "o cortiço é o único espaço do livro, que se passa inteiramente dentro dele",
+                                                             "d":  "a obra de Júlia Lopes de Almeida antecede a de Aluísio Azevedo e a influenciou",
+                                                             "e":  "o cortiço também forma as personagens, mas aqui a instrução rompe o determinismo"
+                                                         },
+                                        "resposta":  "e",
+                                        "explicacao":  "Os dois livros dão ao cortiço peso formador; a diferença é o que cada um admite como saída. No naturalismo o meio decide sem resto, e aqui o estudo abre uma fresta — individual, é verdade, e é o próprio romance que mostra quantos ficam. Em (a) está a leitura que a comparação convida a fazer e que apaga o essencial, que é justamente a diferença de tratamento. Em (b) e (c), o cortiço nem é fundo neutro nem espaço único. Em (d), \"O Cortiço\" é de 1890 e este romance, de 1899."
+                                    },
+                                    {
+                                        "id":  "obra-memorias-de-martha-q4",
+                                        "enunciado":  "Sobre Júlia Lopes de Almeida, é correto afirmar que:",
+                                        "alternativas":  {
+                                                             "a":  "participou das articulações da Academia Brasileira de Letras, mas ficou de fora por ser mulher",
+                                                             "b":  "publicou um único livro e abandonou a literatura logo em seguida",
+                                                             "c":  "foi a primeira mulher eleita para a Academia Brasileira de Letras, poucos anos após sua fundação",
+                                                             "d":  "escreveu apenas peças de teatro, sendo este seu único romance",
+                                                             "e":  "viveu e publicou a obra inteira em Portugal, sem circulação no Brasil"
+                                                         },
+                                        "resposta":  "a",
+                                        "explicacao":  "Ela esteve nas conversas que deram origem à ABL e não foi admitida; quem entrou foi o marido, o poeta Filinto de Almeida. Em (c) está o desfecho que a história não teve, e é o erro mais provável para quem sabe do envolvimento dela na fundação — a primeira mulher eleita foi Rachel de Queiroz, oitenta anos depois. Em (b) e (d), a obra é extensa e inclui romances, crônicas e teatro. Em (e), era carioca e das autoras mais lidas do país."
+                                    },
+                                    {
+                                        "id":  "obra-memorias-de-martha-q5",
+                                        "enunciado":  "No eixo modernidade e pós-modernidade, o romance interessa por mostrar:",
+                                        "alternativas":  {
+                                                             "a":  "a modernização urbana como processo já concluído, que teria eliminado a pobreza do centro do Rio de Janeiro",
+                                                             "b":  "a modernização urbana com duas faces: a que empurra a família para baixo e a que oferece saída pelo estudo",
+                                                             "c":  "o abandono do Rio de Janeiro como espaço literário em favor do interior fluminense",
+                                                             "d":  "a recusa da autora em tratar de temas sociais, restringindo-se ao romance sentimental",
+                                                             "e":  "a substituição do cortiço pelo edifício de apartamentos como forma de moradia popular"
+                                                         },
+                                        "resposta":  "b",
+                                        "explicacao":  "A cidade que cresce é a mesma que desaloja: a família desce socialmente na engrenagem urbana e é dentro dela que a filha encontra a escola. A promessa moderna aparece cumprida pela metade, e só individualmente. Em (a) está a versão triunfalista que o livro desmente a cada capítulo. Em (e), as reformas que demoliriam os cortiços vieram depois de 1899. Em (c) e (d), o cenário é carioca e o social é o centro do romance."
+                                    }
+                                ],
+    "obra-caminho-de-pedras":  [
+                                   {
+                                       "id":  "obra-caminho-de-pedras-q1",
+                                       "texto_apoio":  "Rachel de Queiroz estreou aos 20 anos com \"O Quinze\" (1930), aproximou-se do Partido Comunista e depois se afastou dele, chegou a ser presa e a ter livros apreendidos na década de 1930, e em 1977 tornou-se a primeira mulher eleita para a Academia Brasileira de Letras.",
+                                       "enunciado":  "\"Caminho de Pedras\" foi publicado em 1937. A relevância dessa data para a leitura do romance está em que:",
+                                       "alternativas":  {
+                                                            "a":  "1937 é o ano da Proclamação da República, e o romance acompanha a transição do regime monárquico para o republicano no Ceará",
+                                                            "b":  "1937 é o ano da instauração do Estado Novo por Getúlio Vargas, período de forte repressão a militantes de esquerda, clima de clandestinidade e vigilância com que o enredo dialoga diretamente",
+                                                            "c":  "1937 é o ano da eleição da autora para a Academia Brasileira de Letras, o que explica o tom celebratório do livro",
+                                                            "d":  "1937 marca o fim da Era Vargas e a redemocratização do país, contexto que permite ao romance retratar a militância comunista sem risco",
+                                                            "e":  "1937 é o ano da publicação de \"O Quinze\", romance de estreia da autora, do qual \"Caminho de Pedras\" é continuação direta"
+                                                        },
+                                       "resposta":  "b",
+                                       "explicacao":  "1937 é o ano do golpe do Estado Novo, e o romance é contemporâneo da repressão que retrata — a própria autora foi presa e teve livros apreendidos naquela década. A Proclamação da República é de 1889, a eleição para a ABL de 1977, o fim da Era Vargas de 1945 e \"O Quinze\" de 1930."
+                                   },
+                                   {
+                                       "id":  "obra-caminho-de-pedras-q2",
+                                       "enunciado":  "No eixo modernidade/pós-modernidade, \"Caminho de Pedras\" é especialmente mobilizado porque o romance:",
+                                       "alternativas":  {
+                                                            "a":  "defende que a modernização industrial do Nordeste bastaria, por si só, para dissolver as hierarquias de classe e de gênero da região",
+                                                            "b":  "trata a militância política como assunto masculino, deixando as personagens femininas restritas ao espaço doméstico",
+                                                            "c":  "recusa qualquer denúncia social, concentrando-se na descrição da paisagem sertaneja e no drama individual dos protagonistas",
+                                                            "d":  "situa a ação num futuro imaginado, em que a organização operária já teria vencido a repressão do Estado",
+                                                            "e":  "articula duas opressões que a literatura da época costumava tratar em separado — a exploração de classe e a sujeição das mulheres a papéis domésticos —, expondo a defasagem entre transformação econômica e permanência conservadora"
+                                                        },
+                                       "resposta":  "e",
+                                       "explicacao":  "O romance junta o que a geração de 30 costumava separar: Noemi é perseguida politicamente e julgada moralmente, e as duas condenações caminham juntas. É essa defasagem — o operariado se organiza mas é reprimido, a mulher trabalha e milita mas responde pelo abandono do lar — que interessa ao eixo. Não há confiança na modernização automática, nem ausência de denúncia, nem protagonismo masculino exclusivo, nem projeção futurista."
+                                   },
+                                   {
+                                       "id":  "obra-caminho-de-pedras-q3",
+                                       "enunciado":  "Sobre o enredo de \"Caminho de Pedras\", é correto afirmar que:",
+                                       "alternativas":  {
+                                                            "a":  "Noemi deixa o marido, João Jacques, passa a viver com o militante Roberto e colabora com a produção clandestina de um jornal operário em Fortaleza",
+                                                            "b":  "Noemi permanece casada com João Jacques durante todo o romance, e é ele quem a introduz na militância comunista",
+                                                            "c":  "a ação se passa no Rio de Janeiro, para onde a protagonista se muda após a seca de 1915 relatada em \"O Quinze\"",
+                                                            "d":  "o grupo militante escapa ileso da repressão policial, e o romance termina com a legalização do jornal operário",
+                                                            "e":  "Noemi é operária de fábrica e nunca chega a ser mãe, o que a isenta do julgamento moral da vizinhança"
+                                                        },
+                                       "resposta":  "a",
+                                       "explicacao":  "Noemi é mulher casada e mãe em Fortaleza; rompe com João Jacques, passa a viver com Roberto e colabora com o jornal clandestino. O envolvimento político e o afetivo caminham juntos, e é justamente por ser mãe e esposa que ela sofre a condenação moral. A repressão desmonta o grupo — há prisões e delações —, e o desfecho recusa qualquer redenção fácil."
+                                   },
+                                   {
+                                       "id":  "obra-caminho-de-pedras-q4",
+                                       "enunciado":  "\"Caminho de Pedras\" e \"Vidas Secas\", de Graciliano Ramos, integram a chamada geração de 30 do romance social brasileiro. A comparação entre as duas obras permite observar que:",
+                                       "alternativas":  {
+                                                            "a":  "as duas narram a mesma história a partir de pontos de vista opostos, sendo \"Vidas Secas\" a versão masculina do enredo de \"Caminho de Pedras\"",
+                                                            "b":  "nenhuma das duas se ocupa de denúncia social, tratando a seca e a militância apenas como pano de fundo de dramas amorosos",
+                                                            "c":  "\"Vidas Secas\" é anterior à geração de 30 e pertence ao primeiro momento do modernismo brasileiro, ao lado do \"Manifesto Antropófago\"",
+                                                            "d":  "ambas se voltam para a denúncia das condições sociais brasileiras, mas Graciliano acompanha uma família de retirantes expulsa pela seca, enquanto Rachel de Queiroz situa o conflito na cidade e cruza a questão de classe com a condição da mulher",
+                                                            "e":  "as duas obras foram censuradas e só puderam ser publicadas depois de 1945, com o fim do Estado Novo"
+                                                        },
+                                       "resposta":  "d",
+                                       "explicacao":  "Os dois romances compartilham o projeto de denúncia social da geração de 30, mas recortam objetos diferentes: o deslocamento forçado da família sertaneja em Graciliano; o operariado urbano e a condição feminina em Rachel de Queiroz. Não há enredo comum entre eles, o \"Manifesto Antropófago\" é de 1928 e de outro momento modernista, e ambos os livros foram publicados nos anos 1930."
+                                   },
+                                   {
+                                       "id":  "obra-caminho-de-pedras-q5",
+                                       "enunciado":  "O trabalho noturno de composição do jornal operário — feito às escondidas, com recursos precários e sob risco de denúncia — funciona no romance como:",
+                                       "alternativas":  {
+                                                            "a":  "episódio isolado e sem consequência, já que o jornal nunca chega a circular entre os trabalhadores",
+                                                            "b":  "prova de que a organização clandestina era tolerada pelas autoridades locais, que preferiam vigiá-la a reprimi-la",
+                                                            "c":  "imagem central do livro, por ser ali que Noemi encontra ao mesmo tempo um projeto coletivo e a origem da perseguição que recairá sobre ela nos planos político e moral",
+                                                            "d":  "recurso cômico que alivia a tensão da narrativa antes do desfecho trágico",
+                                                            "e":  "momento em que a protagonista abandona a militância e retorna à vida doméstica ao lado do marido"
+                                                        },
+                                       "resposta":  "c",
+                                       "explicacao":  "A cena condensa os dois planos que o romance mantém entrelaçados: é no jornal clandestino que Noemi encontra pertencimento coletivo e é dele que decorre a perseguição — policial, de um lado, e moral, de outro. Não é episódio isolado nem cômico, a repressão é real e não tolerada, e Noemi não volta ao casamento."
+                                   }
+                               ],
+    "obra-o-cristo-cigano":  [
+                                 {
+                                     "id":  "obra-o-cristo-cigano-q1",
+                                     "enunciado":  "\"O Cristo Cigano\", de Sophia de Mello Breyner Andresen, é:",
+                                     "alternativas":  {
+                                                          "a":  "uma peça de teatro em três atos, escrita para encenação em Lisboa",
+                                                          "b":  "uma coletânea de contos sobre a vida de comunidades ciganas em Portugal",
+                                                          "c":  "um ensaio sobre arte sacra portuguesa dos séculos XVII e XVIII",
+                                                          "d":  "um poema narrativo longo, dividido em partes, construído sobre uma história de tradição popular",
+                                                          "e":  "um romance histórico ambientado em Portugal durante o período de atuação dos tribunais da Inquisição"
+                                                      },
+                                     "resposta":  "d",
+                                     "explicacao":  "O texto conta uma história em verso, alternando a voz que narra e as das personagens, sobre um cigano encarregado de esculpir uma imagem de Cristo. Em (e) está o distrator mais plausível pelo assunto — poder, religião e perseguição estão de fato no livro —, mas a forma é poética, e não romanesca. Em (a), não é peça teatral. Em (b) e (c), não é coletânea de contos nem ensaio sobre arte sacra."
+                                 },
+                                 {
+                                     "id":  "obra-o-cristo-cigano-q2",
+                                     "enunciado":  "A oposição que estrutura o poema se dá entre:",
+                                     "alternativas":  {
+                                                          "a":  "o clero regular e o clero secular na disputa pelo controle das imagens sagradas",
+                                                          "b":  "a arte figurativa e a arte abstrata como formas de representar o divino",
+                                                          "c":  "duas gerações de artesãos ciganos, a mais velha e a mais nova",
+                                                          "d":  "o campo e a cidade como espaços de fé, o primeiro autêntico e o segundo corrompido",
+                                                          "e":  "o mundo do poder que encomenda a obra sacra e o do artista marginal que a executa"
+                                                      },
+                                     "resposta":  "e",
+                                     "explicacao":  "A escultura é o ponto em que essas duas ordens se tocam, e o poema deixa em aberto quem está de fato mais próximo do sagrado que a imagem representa. Em (d) está a oposição mais convencional na poesia portuguesa do período, e não é a que organiza este texto — a linha divisória aqui é de poder e exclusão, não de geografia. Em (a) e (b), não há disputa entre cleros nem discussão sobre figuração. Em (c), não é conflito de gerações."
+                                 },
+                                 {
+                                     "id":  "obra-o-cristo-cigano-q3",
+                                     "texto_apoio":  "\"O Cristo Cigano\" foi publicado em 1961, ano em que começa a Guerra Colonial portuguesa.",
+                                     "enunciado":  "Considerando esse contexto, o recurso à lenda e ao vocabulário do sagrado permite à autora:",
+                                     "alternativas":  {
+                                                          "a":  "discutir justiça, poder e exclusão por uma via que a censura do regime tinha dificuldade de alcançar",
+                                                          "b":  "aderir ao discurso oficial do Estado Novo a respeito da vocação cristã e civilizadora do império português",
+                                                          "c":  "abandonar temas políticos e refugiar-se num universo puramente religioso",
+                                                          "d":  "documentar com precisão histórica os costumes das comunidades ciganas ibéricas",
+                                                          "e":  "antecipar o programa estético do surrealismo português da década seguinte"
+                                                      },
+                                     "resposta":  "a",
+                                     "explicacao":  "Sob o salazarismo, dizer diretamente era arriscado, e a lenda oferece um modo de tratar autoridade e injustiça sem enunciá-las como denúncia. Em (c) está a leitura que a escolha do tema religioso sugere e que a biografia da autora desmente: Sophia foi opositora declarada do regime e depois deputada, e o sagrado aqui é instrumento crítico, não refúgio. Em (b), não há adesão ao discurso oficial. Em (d) e (e), não é etnografia nem programa surrealista."
+                                 },
+                                 {
+                                     "id":  "obra-o-cristo-cigano-q4",
+                                     "enunciado":  "Sobre Sophia de Mello Breyner Andresen, é correto afirmar que:",
+                                     "alternativas":  {
+                                                          "a":  "dedicou-se sobretudo à prosa, sendo este o seu único texto longo escrito em verso",
+                                                          "b":  "foi a primeira mulher a receber o Prêmio Camões e opôs-se ao salazarismo",
+                                                          "c":  "apoiou o Estado Novo e ocupou cargos culturais durante o regime",
+                                                          "d":  "nasceu no Brasil e mudou-se para Portugal já adulta, na década de 1950",
+                                                          "e":  "publicou a obra inteira depois da Revolução dos Cravos, em 1974"
+                                                      },
+                                     "resposta":  "b",
+                                     "explicacao":  "Recebeu o Camões em 1999, a primeira mulher a consegui-lo, e foi ativa na resistência democrática, elegendo-se deputada pelo Partido Socialista depois de 1974. Em (e) está o erro cronológico mais tentador para quem a associa à democracia portuguesa: boa parte de sua obra, incluindo este livro de 1961, é anterior à Revolução. Em (c), a posição era de oposição. Em (a) e (d), é sobretudo poeta e nasceu no Porto."
+                                 },
+                                 {
+                                     "id":  "obra-o-cristo-cigano-q5",
+                                     "enunciado":  "A imagem de Cristo esculpida no poema funciona, na economia do texto, como:",
+                                     "alternativas":  {
+                                                          "a":  "prova da conversão religiosa do artista ao final da narrativa",
+                                                          "b":  "objeto decorativo cuja função no enredo é apenas ambientar a época",
+                                                          "c":  "ponto em que a ordem do poder e a do artista excluído se encontram e se medem",
+                                                          "d":  "alegoria da unidade nacional portuguesa diante das ameaças externas ao império colonial",
+                                                          "e":  "símbolo do triunfo da fé popular sobre a hierarquia eclesiástica"
+                                                      },
+                                     "resposta":  "c",
+                                     "explicacao":  "A obra sacra nasce de uma relação desigual, e é essa desigualdade que o poema põe diante do leitor em vez de resolver. Em (e) está o desfecho consolador que o texto recusa: não há triunfo declarado de um lado sobre o outro, e a força do poema está justamente em manter a pergunta aberta. Em (a), não há conversão como fecho. Em (b) e (d), a imagem não é ornamento nem alegoria nacional."
+                                 }
+                             ],
+    "obra-as-meninas":  [
+                            {
+                                "id":  "obra-as-meninas-q1",
+                                "enunciado":  "O romance \u0027As Meninas\u0027, de Lygia Fagundes Telles, foi publicado em 1973, período que corresponde:",
+                                "alternativas":  {
+                                                     "a":  "ao recrudescimento da repressão durante a ditadura, após o AI-5",
+                                                     "b":  "ao período de redemocratização, já com eleições diretas para presidente",
+                                                     "c":  "à Segunda Guerra Mundial, quando a autora iniciou sua carreira",
+                                                     "d":  "ao início da colonização portuguesa, retratado de forma alegórica",
+                                                     "e":  "à abertura lenta e gradual iniciada pelo governo Geisel em 1974"
+                                                 },
+                                "resposta":  "a",
+                                "explicacao":  "1973 é o auge dos anos de chumbo: AI-5 em vigor desde 1968, censura prévia e repressão à luta armada — o que explica que o romance tenha sido escrito e publicado sob vigilância. Em (e) está o distrator mais próximo, porque a distensão começa mesmo no governo seguinte; ela é, porém, posterior ao livro, e por pouco. Em (b), as diretas só viriam em 1989. Em (c) e (d), a Segunda Guerra e a colonização estão fora do período."
+                            },
+                            {
+                                "id":  "obra-as-meninas-q2",
+                                "enunciado":  "A estrutura narrativa de \u0027As Meninas\u0027, que alterna os pontos de vista de Lorena, Lia e Ana Clara, contribui para o eixo modernidade-pós-modernidade porque:",
+                                "alternativas":  {
+                                                     "a":  "alterna as vozes sem que elas discordem sobre os fatos narrados",
+                                                     "b":  "elimina a subjetividade das personagens em favor da descrição objetiva",
+                                                     "c":  "adota narrador onisciente clássico, com visão totalizante e estável",
+                                                     "d":  "concentra a narrativa apenas no ponto de vista de Ana Clara",
+                                                     "e":  "recusa o narrador único, questionando a verdade única sobre o real"
+                                                 },
+                                "resposta":  "e",
+                                "explicacao":  "Três consciências narram a mesma época e não chegam ao mesmo país: a estrutura formal do romance é ela própria o argumento de que não há um relato autorizado sobre aquele momento. Em (a) está o distrator mais fino — a alternância de vozes só faz esse trabalho porque elas divergem; se concordassem, a multiplicidade seria decorativa. Em (c) e (d), narrador onisciente e voz única contrariam a estrutura descrita. Em (b), a subjetividade é o material do livro."
+                            },
+                            {
+                                "id":  "obra-as-meninas-q3",
+                                "enunciado":  "Das três protagonistas de \u0027As Meninas\u0027, a que se envolve diretamente na luta armada clandestina contra a ditadura militar é:",
+                                "alternativas":  {
+                                                     "a":  "Lia, engajada na resistência política ao regime militar",
+                                                     "b":  "Lorena, que vive um romance idealizado com um homem casado",
+                                                     "c":  "nenhuma das três, já que todas evitam envolvimento político",
+                                                     "d":  "Ana Clara, que enfrenta problemas de dependência de drogas",
+                                                     "e":  "as três em conjunto, atuando na mesma organização clandestina"
+                                                 },
+                                "resposta":  "a",
+                                "explicacao":  "Lia é a militante: participa da organização, esconde companheiros e termina no exílio, enquanto as outras duas atravessam o período por outros caminhos. Em (e) está o erro que a estrutura do romance desmente — as três dividem a pensão e pouco mais, e é a divergência entre elas que sustenta o livro. Em (b) e (d), Lorena e Ana Clara existem como descrito, mas fora da militância. Em (c), a ausência de política contraria o eixo do romance."
+                            },
+                            {
+                                "id":  "obra-as-meninas-q4",
+                                "enunciado":  "Assim como \u0027O Bem-Amado\u0027, de Dias Gomes, o romance \u0027As Meninas\u0027 também pode ser lido como uma obra que:",
+                                "alternativas":  {
+                                                     "a":  "usa o humor como principal recurso para criticar instituições políticas",
+                                                     "b":  "narra acontecimentos no interior nordestino, sem cenário urbano",
+                                                     "c":  "adota a forma de comédia teatral em três atos, com tipos regionais",
+                                                     "d":  "reflete, por vias distintas, tensões do Brasil sob a ditadura militar",
+                                                     "e":  "foi adaptada para a televisão pouco depois de sua primeira publicação"
+                                                 },
+                                "resposta":  "d",
+                                "explicacao":  "A afinidade é de objeto, não de forma: uma sátira do coronelismo e um romance de pensionato universitário tratam, cada um a seu modo, do país sob autoritarismo. Em (a) está a característica de apenas uma das duas — o humor é o recurso de Dias Gomes, e As Meninas não é obra cômica. Em (e), a adaptação televisiva vale para O Bem-Amado. Em (b) e (c), o cenário nordestino e a comédia em atos descrevem só a peça."
+                            },
+                            {
+                                "id":  "obra-as-meninas-q5",
+                                "enunciado":  "O desfecho de \u0027As Meninas\u0027, em que os destinos das três protagonistas se separam de forma abrupta, pode ser interpretado como uma representação de:",
+                                "alternativas":  {
+                                                     "a":  "a ausência de consequências pessoais do contexto político vivido",
+                                                     "b":  "a vitória dos valores tradicionais sobre o engajamento político",
+                                                     "c":  "uma geração fragmentada por respostas divergentes às pressões da época",
+                                                     "d":  "um final feliz em que as três reconstroem juntas suas vidas",
+                                                     "e":  "o fracasso individual de cada uma, sem relação com o momento histórico"
+                                                 },
+                                "resposta":  "c",
+                                "explicacao":  "Exílio, morte e permanência: três saídas incompatíveis para a mesma pressão, e o romance recusa eleger uma delas como a certa. A dispersão final é o retrato da geração. Em (e) está a leitura despolitizada mais tentadora, porque cada destino tem mesmo dimensão pessoal — atribuí-los a fracasso individual, porém, apaga a força que os produziu. Em (a), as consequências são o desfecho. Em (b) e (d), não há vitória tradicionalista nem reconciliação."
+                            }
+                        ],
+    "obra-balada-de-amor-ao-vento":  [
+                                         {
+                                             "id":  "obra-balada-de-amor-ao-vento-q1",
+                                             "enunciado":  "\"Balada de Amor ao Vento\", de Paulina Chiziane, ocupa lugar particular na literatura moçambicana por:",
+                                             "alternativas":  {
+                                                                  "a":  "ter sido escrito em changana e só depois traduzido para o português pela autora",
+                                                                  "b":  "ser o primeiro romance publicado após a independência de Moçambique, em 1975",
+                                                                  "c":  "narrar a guerra civil moçambicana do ponto de vista dos combatentes",
+                                                                  "d":  "reunir a tradição oral moçambicana em forma de antologia comentada",
+                                                                  "e":  "ser o primeiro romance publicado por uma mulher no país, em 1990"
+                                                              },
+                                             "resposta":  "e",
+                                             "explicacao":  "É esse o marco: até 1990 nenhuma moçambicana havia publicado romance, e a autora abre essa porta — e receberia o Prêmio Camões em 2021, a primeira escritora africana a ganhá-lo. Em (b) está a confusão mais provável entre dois marcos diferentes: o livro é posterior à independência em quinze anos, e o pioneirismo é de gênero, não de data. Em (a), foi escrito em português. Em (c) e (d), não é romance de guerra nem antologia."
+                                         },
+                                         {
+                                             "id":  "obra-balada-de-amor-ao-vento-q2",
+                                             "enunciado":  "O enredo do romance acompanha:",
+                                             "alternativas":  {
+                                                                  "a":  "Sarnau, cujo amor de juventude por Mwando não sobrevive às regras que os cercam",
+                                                                  "b":  "um grupo de estudantes moçambicanos enviados a Portugal durante a colonização",
+                                                                  "c":  "a fundação de uma aldeia por famílias deslocadas pela guerra civil",
+                                                                  "d":  "a trajetória de um pastor protestante que rompe com a igreja e volta à tradição",
+                                                                  "e":  "duas irmãs que disputam a herança do pai segundo o direito consuetudinário"
+                                                              },
+                                             "resposta":  "a",
+                                             "explicacao":  "A narradora reconstitui o amor de juventude e tudo o que veio depois: família, lobolo, expectativa religiosa e poligamia decidem por eles, e o reencontro tardio não repara nada, apenas mede o que se perdeu. Em (d) está o distrator mais próximo, porque a tensão entre cristianismo e tradição é central no livro — ela atravessa a vida de Sarnau, e não a de um pastor protagonista. Em (b), (c) e (e), não há estudantes em Portugal, fundação de aldeia nem disputa de herança."
+                                         },
+                                         {
+                                             "id":  "obra-balada-de-amor-ao-vento-q3",
+                                             "enunciado":  "O tratamento dado à poligamia no romance caracteriza-se por:",
+                                             "alternativas":  {
+                                                                  "a":  "apresentá-la como curiosidade etnográfica, descrita de fora por um narrador estrangeiro",
+                                                                  "b":  "mostrá-la por dentro, pelas alianças e rivalidades cotidianas entre as esposas",
+                                                                  "c":  "omiti-la, já que o casamento retratado é monogâmico do início ao fim",
+                                                                  "d":  "defendê-la como forma de organização familiar superior ao modelo cristão",
+                                                                  "e":  "atribuí-la à influência colonial portuguesa sobre os costumes locais"
+                                                              },
+                                             "resposta":  "b",
+                                             "explicacao":  "Sarnau vive dentro da casa poligâmica, e o que poderia ser descrito como costume exótico aparece como economia doméstica de poder, com hierarquia, disputa por recursos e afeto negociado. Em (d) está a leitura que confundiria descrição com defesa: mostrar de dentro não é endossar, e o romance recusa tanto a idealização da tradição quanto a condenação colonial. Em (a), não há narrador estrangeiro. Em (c), a poligamia é central. Em (e), a prática antecede a colonização."
+                                         },
+                                         {
+                                             "id":  "obra-balada-de-amor-ao-vento-q4",
+                                             "enunciado":  "No cruzamento entre os eixos da globalização e da modernidade, o livro mostra que:",
+                                             "alternativas":  {
+                                                                  "a":  "a chegada do cristianismo emancipou as mulheres moçambicanas das regras tradicionais que regiam o casamento",
+                                                                  "b":  "a independência política resolveu, por si, a condição das mulheres no país",
+                                                                  "c":  "tradição local e cristianismo disputam a definição de casamento sem que nenhum liberte a mulher",
+                                                                  "d":  "as mulheres moçambicanas viviam em igualdade antes do contato com a Europa",
+                                                                  "e":  "a globalização econômica alterou pouco a vida rural retratada no romance"
+                                                              },
+                                             "resposta":  "c",
+                                             "explicacao":  "Os dois sistemas disputam autoridade sobre a vida de Sarnau e ela permanece sem escolha em ambos — é essa simetria que dá ao livro sua força crítica. Em (a) está a versão que a presença do cristianismo no enredo poderia sugerir, e o romance a desmente: a missão traz outra moral, não liberdade. Em (d), a idealização do passado pré-colonial é igualmente recusada. Em (b), a independência não desmonta as estruturas domésticas. Em (e), o campo aparece atravessado por transformações."
+                                         },
+                                         {
+                                             "id":  "obra-balada-de-amor-ao-vento-q5",
+                                             "texto_apoio":  "Paulina Chiziane costuma recusar o rótulo de romancista, dizendo-se contadora de histórias.",
+                                             "enunciado":  "Essa autodefinição se reflete no livro sobretudo em:",
+                                             "alternativas":  {
+                                                                  "a":  "uma estrutura em capítulos numerados de extensão rigorosamente idêntica",
+                                                                  "b":  "notas de rodapé que explicam ao leitor estrangeiro cada termo empregado em língua local",
+                                                                  "c":  "um narrador em terceira pessoa que se mantém distante e impessoal",
+                                                                  "d":  "uma voz narrativa próxima da fala, que se dirige ao leitor e assume a tradição oral",
+                                                                  "e":  "a recusa do enredo, substituído por uma sucessão de reflexões ensaísticas"
+                                                              },
+                                             "resposta":  "d",
+                                             "explicacao":  "A narração tem andamento de história contada em voz alta, com apóstrofes e digressões, e é isso que a autora reivindica ao se dizer contadora e não romancista. Em (c) está o oposto exato desse procedimento. Em (b), o texto não se explica ao leitor estrangeiro, e essa recusa é parte do gesto. Em (a) e (e), a estrutura não é geométrica e há enredo do começo ao fim."
+                                         }
+                                     ],
+    "obra-cancao-para-ninar-menino-grande":  [
+                                                 {
+                                                     "id":  "obra-cancao-para-ninar-menino-grande-q1",
+                                                     "enunciado":  "O romance \"Canção para Ninar Menino Grande\", de Conceição Evaristo, organiza-se:",
+                                                     "alternativas":  {
+                                                                          "a":  "em torno de Fio, homem negro, cuja vida é contada pelas mulheres que se relacionaram com ele",
+                                                                          "b":  "como diário de uma única narradora, em entradas datadas ao longo de um ano",
+                                                                          "c":  "em capítulos alternados entre duas cidades, Belo Horizonte e Rio de Janeiro",
+                                                                          "d":  "como biografia romanceada de uma liderança quilombola do século XIX",
+                                                                          "e":  "em torno de uma família de imigrantes que se estabelece no interior de Minas Gerais e prospera"
+                                                                      },
+                                                     "resposta":  "a",
+                                                     "explicacao":  "O protagonista é dado a ver pelas vozes das mulheres de sua vida, cada uma com história própria — o que se examina não é a biografia dele, e sim uma masculinidade formada em violência e desamparo. Em (b) está a forma que a presença forte da primeira pessoa pode sugerir, e o livro faz o contrário: multiplica as vozes em vez de concentrá-las numa só. Em (c), (d) e (e), não há estrutura de duas cidades, biografia oitocentista nem saga de imigrantes."
+                                                 },
+                                                 {
+                                                     "id":  "obra-cancao-para-ninar-menino-grande-q2",
+                                                     "texto_apoio":  "Na introdução, a narradora pergunta se ouviu direito e observa que a grafia não registra a intensidade de um silêncio.",
+                                                     "enunciado":  "Essa abertura funciona como chave de leitura porque:",
+                                                     "alternativas":  {
+                                                                          "a":  "avisa que os episódios narrados são inteiramente ficcionais",
+                                                                          "b":  "assume que contar é incompleto e faz dessa incompletude o método do livro",
+                                                                          "c":  "estabelece que a narradora é personagem do enredo que se seguirá",
+                                                                          "d":  "justifica a ausência de pontuação ao longo do romance inteiro",
+                                                                          "e":  "anuncia que o texto será a transcrição literal de entrevistas gravadas em campo"
+                                                                      },
+                                                     "resposta":  "b",
+                                                     "explicacao":  "A hesitação declarada não é defeito confessado: é o procedimento. O romance avança por fragmentos e camadas de memória justamente porque assume que a fala lembrada não se transpõe inteira para a escrita. Em (e) está a leitura mais literal da passagem, e ela reduziria a obra a registro documental, quando o que está em jogo é a impossibilidade dessa transposição. Em (a) e (c), não há aviso de ficcionalidade nem entrada da narradora no enredo. Em (d), a pontuação é convencional."
+                                                 },
+                                                 {
+                                                     "id":  "obra-cancao-para-ninar-menino-grande-q3",
+                                                     "enunciado":  "O conceito de escrevivência, formulado pela autora, designa:",
+                                                     "alternativas":  {
+                                                                          "a":  "a técnica de escrever sem revisão posterior, registrando no papel apenas o primeiro impulso da frase",
+                                                                          "b":  "a transcrição fiel de depoimentos colhidos em comunidades quilombolas",
+                                                                          "c":  "a escrita que parte da experiência vivida de mulheres negras, unindo memória pessoal e coletiva",
+                                                                          "d":  "o estilo de prosa poética que mistura verso e narrativa no mesmo parágrafo",
+                                                                          "e":  "a prática de publicar em coletivos literários, sem assinatura individual"
+                                                                      },
+                                                     "resposta":  "c",
+                                                     "explicacao":  "O termo desloca a autoridade de quem narra: não se observa de fora, escreve-se de dentro, e a memória individual carrega uma memória coletiva. Em (b) está a confusão mais frequente, porque escrevivência de fato lida com experiência real — mas é elaboração literária, e não coleta de depoimentos alheios. Em (a) e (d), o conceito não trata de método de composição nem de estilo. Em (e), não se refere a autoria coletiva."
+                                                 },
+                                                 {
+                                                     "id":  "obra-cancao-para-ninar-menino-grande-q4",
+                                                     "enunciado":  "Sobre a autora, é correto afirmar que:",
+                                                     "alternativas":  {
+                                                                          "a":  "estreou na literatura com este romance, em 2018, já com mais de setenta anos de idade",
+                                                                          "b":  "publica apenas poesia, sendo este o seu único texto em prosa",
+                                                                          "c":  "escreve sob pseudônimo e manteve a identidade fora do debate público",
+                                                                          "d":  "nasceu em uma favela de Belo Horizonte e publicou \"Ponciá Vicêncio\" e \"Olhos d\u0027Água\"",
+                                                                          "e":  "iniciou a carreira em Portugal e só passou a publicar no Brasil na década de 2010"
+                                                                      },
+                                                     "resposta":  "d",
+                                                     "explicacao":  "Conceição Evaristo nasceu em 1946 em Belo Horizonte, formou-se em Letras e vinha publicando desde \"Ponciá Vicêncio\", de 2003, quando este romance saiu. Em (a) está o erro mais compreensível para quem a conheceu pela projeção recente: o reconhecimento amplo é tardio, a estreia não. Em (b), escreve prosa e poesia. Em (c) e (e), assina com o próprio nome e sempre publicou no Brasil."
+                                                 },
+                                                 {
+                                                     "id":  "obra-cancao-para-ninar-menino-grande-q5",
+                                                     "enunciado":  "A fragmentação narrativa do romance é lida pela crítica como procedimento que:",
+                                                     "alternativas":  {
+                                                                          "a":  "resulta de o livro ter sido montado a partir de textos avulsos publicados em jornal",
+                                                                          "b":  "decorre da falta de um projeto de romance definido antes da escrita",
+                                                                          "c":  "desconfia da possibilidade de contar uma vida inteira de um só ponto de vista",
+                                                                          "d":  "imita a estrutura dos folhetins do século XIX, com capítulos de suspense",
+                                                                          "e":  "serve para ocultar do leitor o desfecho até a última página do livro"
+                                                                      },
+                                                     "resposta":  "c",
+                                                     "explicacao":  "A interrupção e a multiplicação de vozes são gestos formais que a crítica reconhece como pós-modernos, aqui postos a serviço de uma experiência histórica específica. Em (e) está a explicação funcional mais simples e a que menos se sustenta: a fragmentação não é recurso de suspense, e o interesse do livro não está em reter uma revelação. Em (a) e (b), não é montagem de avulsos nem falta de projeto. Em (d), não há estrutura folhetinesca."
+                                                 }
+                                             ],
+    "obra-a-visao-das-plantas":  [
+                                     {
+                                         "id":  "obra-a-visao-das-plantas-q1",
+                                         "enunciado":  "O protagonista de \"A Visão das Plantas\", de Djaimilia Pereira de Almeida, é:",
+                                         "alternativas":  {
+                                                              "a":  "um jardineiro angolano contratado para cuidar da propriedade de uma família tradicional em Lisboa",
+                                                              "b":  "Celestino, antigo capitão de navio negreiro e pirata, que passa a velhice cuidando de plantas",
+                                                              "c":  "um botânico português que viaja ao Brasil para catalogar espécies tropicais",
+                                                              "d":  "um jovem que investiga o passado do avô durante a Guerra Colonial",
+                                                              "e":  "um padre que abandona a missão em Angola e retorna a Portugal"
+                                                          },
+                                         "resposta":  "b",
+                                         "explicacao":  "O livro alterna a velhice quase silenciosa no jardim com o passado de violência extrema no mar, e é a coexistência das duas coisas na mesma pessoa que organiza o romance. Em (a) está a inversão mais significativa: fazer do protagonista um trabalhador africano em Portugal seria a história esperada, e a autora escolhe o agente da violência, não a vítima. Em (c), (d) e (e), não há botânico, neto investigador nem padre."
+                                     },
+                                     {
+                                         "id":  "obra-a-visao-das-plantas-q2",
+                                         "texto_apoio":  "Num dos episódios do passado, Celestino manda despejar cal no porão sobre os africanos escravizados que restavam depois de uma revolta.",
+                                         "enunciado":  "O tratamento narrativo dado a esse episódio caracteriza-se por:",
+                                         "alternativas":  {
+                                                              "a":  "apresentá-lo como pesadelo recorrente do protagonista, sem confirmação de que ocorreu",
+                                                              "b":  "narrá-lo pela perspectiva de um dos sobreviventes africanos do porão",
+                                                              "c":  "relatá-lo sem julgamento explícito do narrador nem arrependimento do personagem",
+                                                              "d":  "atribuí-lo a um subordinado, isentando Celestino da responsabilidade direta",
+                                                              "e":  "interrompê-lo antes do desfecho, deixando o resultado apenas sugerido"
+                                                          },
+                                         "resposta":  "c",
+                                         "explicacao":  "O horror é dito com a mesma frieza com que se descreve o mar ao amanhecer, e o livro recusa tanto a condenação narrativa quanto a redenção — é essa recusa que obriga o leitor a fazer o trabalho. Em (a) está a saída que tornaria o romance suportável e que ele não oferece: o episódio é narrado como fato, não como delírio. Em (b), a perspectiva não é das vítimas. Em (d) e (e), a ordem é dele e o desfecho é explícito."
+                                     },
+                                     {
+                                         "id":  "obra-a-visao-das-plantas-q3",
+                                         "enunciado":  "A oposição entre o mar do passado e o jardim do presente sugere que:",
+                                         "alternativas":  {
+                                                              "a":  "o protagonista encontrou na natureza a redenção que a religião não lhe deu",
+                                                              "b":  "o contato com as plantas apagou da memória do personagem os episódios vividos no mar",
+                                                              "c":  "a velhice é apresentada como castigo proporcional aos crimes cometidos",
+                                                              "d":  "a violência histórica não desaparece sem acerto de contas, apenas muda de escala",
+                                                              "e":  "o jardim é uma alegoria do continente africano tomado pela colonização"
+                                                          },
+                                         "resposta":  "d",
+                                         "explicacao":  "O quintal é uma versão do mar esvaziada de vítimas, e é exatamente isso que uma memória sem ajuste de contas produz — o crime não é resolvido, é apenas transposto para um cenário onde ninguém cobra. Em (a) está a leitura consoladora que o texto não autoriza: não há redenção, e as plantas não absolvem. Em (c), não há punição narrativa. Em (b), a memória permanece. Em (e), o jardim não funciona como alegoria territorial."
+                                     },
+                                     {
+                                         "id":  "obra-a-visao-das-plantas-q4",
+                                         "enunciado":  "Sobre a autora do romance, é correto afirmar que:",
+                                         "alternativas":  {
+                                                              "a":  "nasceu em Luanda, foi criada em Portugal e escreve sobre as marcas do colonialismo português",
+                                                              "b":  "é portuguesa e não viveu fora da Europa, escrevendo a partir de pesquisa documental em arquivos",
+                                                              "c":  "nasceu no Brasil e trata sobretudo do tráfico negreiro no litoral baiano",
+                                                              "d":  "publicou este livro como estreia literária, sem obra anterior",
+                                                              "e":  "escreve em quimbundo, sendo traduzida ao português por editoras portuguesas"
+                                                          },
+                                         "resposta":  "a",
+                                         "explicacao":  "Djaimilia Pereira de Almeida nasceu em Luanda em 1982, cresceu nos arredores de Lisboa e faz do rastro colonial na vida presente o assunto de sua obra. Em (d) está o erro mais provável, porque este é o livro que lhe deu o Prêmio Oceanos: já havia publicado \"Esse Cabelo\" em 2015 e \"Luanda, Lisboa, Paraíso\" em 2018. Em (b) e (c), a biografia é outra. Em (e), escreve em português."
+                                     },
+                                     {
+                                         "id":  "obra-a-visao-das-plantas-q5",
+                                         "enunciado":  "No eixo da globalização, o romance interessa por abordar o tráfico atlântico:",
+                                         "alternativas":  {
+                                                              "a":  "pelo ângulo das rotas comerciais e do volume de mercadorias transportadas",
+                                                              "b":  "como fenômeno encerrado, sem consequências para a sociedade portuguesa atual",
+                                                              "c":  "por meio de documentos históricos reproduzidos entre os capítulos do livro",
+                                                              "d":  "pelo ângulo do agente e na sobrevida, e não pela vítima nem no auge do comércio",
+                                                              "e":  "comparando-o ao tráfico praticado pelas demais potências europeias no mesmo período"
+                                                          },
+                                         "resposta":  "d",
+                                         "explicacao":  "O tráfico é o caso fundador da globalização, e a autora o aborda pelo lugar menos frequentado: quem cometeu, envelhecido, num jardim europeu. Em (b) está a tese que o livro existe para recusar — a permanência do passado colonial na sociedade que o produziu é o argumento central. Em (a), (c) e (e), não há tratamento econômico das rotas, aparato documental nem comparação entre potências."
+                                     }
+                                 ]
+};

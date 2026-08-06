@@ -18942,18 +18942,19 @@ window.QUESTION_BANKS = {
                             },
                             {
                                 "id":  "historia-brasil-29",
-                                "texto_apoio":  "Embora derrotado militarmente, o movimento de 1932 teve efeitos duradouros na política nacional.",
-                                "enunciado":  "Entre os principais desdobramentos da Revolução Constitucionalista de 1932, está:",
+                                "formato":  "direta",
+                                "banca":  "fgv",
+                                "texto_apoio":  "Em 1961 o Brasil adotou a chamada Política Externa Independente. O país passou a defender a descolonização da África e da Ásia nos foros internacionais, aproximou-se do movimento dos não alinhados, restabeleceu relações diplomáticas com a União Soviética e recusou-se a acompanhar sanções contra Cuba — mantendo, ao mesmo tempo, os laços econômicos com os Estados Unidos.",
+                                "enunciado":  "A orientação adotada pela diplomacia brasileira nesse período caracterizou-se por",
                                 "alternativas":  {
-                                                     "a":  "A promulgação da Constituição de 1934, elaborada por Assembleia Constituinte eleita após a derrota paulista",
-                                                     "b":  "A convocação de eleições diretas para a presidência, atendendo à principal reivindicação do movimento paulista",
-                                                     "c":  "A imediata renúncia de Getúlio Vargas ao poder, o que só ocorreria duas décadas depois, em 1954, já em seu segundo governo",
-                                                     "d":  "A manutenção indefinida do governo provisório, sem qualquer nova Constituição no horizonte político",
-                                                     "e":  "A anexação de territórios de estados vizinhos ao estado de São Paulo, fato que jamais ocorreu após o conflito"
+                                                     "a":  "buscar autonomia de decisão sem romper com o bloco ocidental.",
+                                                     "b":  "transferir ao movimento dos não alinhados a definição das prioridades comerciais e diplomáticas do país.",
+                                                     "c":  "subordinar a posição brasileira sobre a África à orientação das antigas metrópoles europeias.",
+                                                     "d":  "encerrar as relações econômicas com os Estados Unidos.",
+                                                     "e":  "restringir a atuação diplomática brasileira ao continente americano."
                                                  },
                                 "resposta":  "a",
-                                "explicacao":  "Apesar da derrota militar de São Paulo, o governo Vargas atendeu, em parte, às reivindicações do movimento ao convocar eleições para uma Assembleia Nacional Constituinte, que resultou na promulgação da Constituição de 1934.",
-                                "formato":  "direta"
+                                "explicacao":  "O ponto da política é a combinação: o Brasil passa a votar por conta própria em descolonização e a conversar com os não alinhados e com a União Soviética, sem abandonar o comércio e o financiamento vindos do Ocidente — autonomia de decisão, não troca de lado. Delegar as prioridades aos não alinhados seria substituir uma tutela por outra; subordinar-se às antigas metrópoles é o oposto da posição defendida nos foros; as relações econômicas com os Estados Unidos foram mantidas; e a atuação diplomática se ampliou para fora das Américas em vez de se restringir a elas."
                             },
                             {
                                 "id":  "historia-brasil-30",
@@ -19017,18 +19018,19 @@ window.QUESTION_BANKS = {
                             },
                             {
                                 "id":  "historia-brasil-34",
-                                "texto_apoio":  "",
-                                "enunciado":  "Entre os principais resultados do Plano Real nos anos seguintes ao seu lançamento, destaca-se:",
+                                "formato":  "direta",
+                                "banca":  "fgv",
+                                "texto_apoio":  "Em 1975, com o fim do império colonial português, o Brasil foi o primeiro país a reconhecer o governo formado em Angola pelo Movimento Popular de Libertação de Angola. A decisão partiu do governo Geisel, ainda sob a ditadura militar, e integrava a orientação diplomática então chamada de pragmatismo responsável e ecumênico.",
+                                "enunciado":  "O reconhecimento imediato do novo governo angolano por um governo militar de orientação anticomunista explica-se por",
                                 "alternativas":  {
-                                                     "a":  "A imediata eliminação das desigualdades sociais no país, meta que permaneceu um desafio persistente mesmo após a estabilização de preços",
-                                                     "b":  "A queda expressiva e duradoura da inflação, com maior estabilidade econômica e ganho de poder de compra da população de baixa renda",
-                                                     "c":  "O agravamento da hiperinflação, que se tornou ainda mais intensa após 1994, cenário oposto ao efetivamente observado com a estabilização do Real",
-                                                     "d":  "O fim completo da dívida pública brasileira, resultado que não ocorreu, já que a dívida seguiu sendo tema central da política econômica",
-                                                     "e":  "Uma redução transitória da inflação, seguida da retomada dos índices anteriores em menos de dois anos"
+                                                     "a":  "coincidência ideológica entre o regime brasileiro e o movimento de libertação nacional angolano.",
+                                                     "b":  "cálculo de interesse comercial e de influência brasileira na África recém-descolonizada.",
+                                                     "c":  "exigência formal apresentada pelas Nações Unidas aos países de língua portuguesa.",
+                                                     "d":  "pressão dos Estados Unidos para que o Brasil se antecipasse no reconhecimento dos governos surgidos da descolonização portuguesa.",
+                                                     "e":  "desinteresse brasileiro pelas relações econômicas com o continente africano."
                                                  },
                                 "resposta":  "b",
-                                "explicacao":  "O Plano Real obteve êxito em controlar a hiperinflação que corroía o poder de compra da população, especialmente das camadas mais pobres, trazendo maior estabilidade macroeconômica, embora desafios como dívida pública e desigualdade social tenham persistido.",
-                                "formato":  "direta"
+                                "explicacao":  "O nome da orientação diz o essencial: pragmatismo. Um regime que perseguia a esquerda internamente reconheceu um governo de esquerda em Angola porque enxergava mercado, petróleo e influência num continente que se abria — o interesse pesou mais que a afinidade ideológica, que de fato não existia entre os dois. Nenhuma exigência das Nações Unidas obrigava esse reconhecimento; os Estados Unidos apoiavam os adversários do MPLA e não pressionaram nesse sentido; e o interesse pela África era justamente o motivo da decisão, não o seu contrário."
                             },
                             {
                                 "id":  "historia-brasil-35",
@@ -20338,18 +20340,19 @@ window.QUESTION_BANKS = {
                            },
                            {
                                "id":  "historia-geral-13",
-                               "texto_apoio":  "",
-                               "enunciado":  "A Guerra Fria, que se estendeu de meados da década de 1940 até o final da década de 1980, caracterizou-se principalmente por:",
+                               "formato":  "direta",
+                               "texto_apoio":  "A partir da segunda metade do século XIX, a Segunda Revolução Industrial trouxe uma nova onda de inovações: o aço substituiu o ferro em larga escala, a eletricidade e o petróleo passaram a mover máquinas e veículos, e a química industrial criou corantes, fertilizantes e explosivos. Alemanha e Estados Unidos assumiram a liderança tecnológica antes exercida pela Inglaterra.",
+                               "enunciado":  "O deslocamento da liderança industrial para a Alemanha e os Estados Unidos, ao longo da Segunda Revolução Industrial, relaciona-se sobretudo a",
                                "alternativas":  {
-                                                    "a":  "Um confronto militar direto e contínuo entre tropas norte-americanas e soviéticas em território europeu ao longo do período",
-                                                    "b":  "Uma disputa ideológica, política, econômica e militar entre EUA e URSS, sem confronto direto entre as potências",
-                                                    "c":  "A unificação política do mundo sob um único bloco econômico, cenário só esboçado décadas depois, com a globalização",
-                                                    "d":  "O desaparecimento completo de conflitos armados regionais, o que não se verificou nas guerras por procuração do período",
-                                                    "e":  "Um confronto militar direto e declarado entre Estados Unidos e União Soviética"
+                                                    "a":  "maior disponibilidade de mão de obra artesanal nesses dois países.",
+                                                    "b":  "capacidade de articular pesquisa científica, ensino técnico e produção em escala.",
+                                                    "c":  "abandono do carvão como fonte de energia nas fábricas inglesas do período.",
+                                                    "d":  "renúncia da Inglaterra ao comércio internacional depois de 1870.",
+                                                    "e":  "ausência de investimento estrangeiro nos setores de aço e de química na Alemanha e nos Estados Unidos ao longo de todo o século."
                                                 },
                                "resposta":  "b",
-                               "explicacao":  "A Guerra Fria caracterizou-se pela disputa entre o bloco capitalista, liderado pelos EUA, e o bloco socialista, liderado pela URSS, expressa em corrida armamentista, espacial e conflitos indiretos (guerras por procuração), mas sem confronto militar direto entre as duas potências.",
-                               "formato":  "direta"
+                               "explicacao":  "As novidades dessa segunda onda — química, elétrica, metalurgia do aço — dependiam de laboratório e de engenheiro formado, e não de habilidade de oficina: quem organizou universidade técnica, pesquisa e fábrica no mesmo circuito passou à frente. A mão de obra artesanal perdeu importância justamente nesse arranjo; o carvão continuou central; a Inglaterra seguiu comerciando; e houve investimento estrangeiro nos dois países.",
+                               "banca":  "fgv"
                            },
                            {
                                "id":  "historia-geral-14",
@@ -20596,18 +20599,19 @@ window.QUESTION_BANKS = {
                            },
                            {
                                "id":  "historia-geral-30",
-                               "texto_apoio":  "Já no poder, Mao Tsé-Tung promoveu campanhas de transformação radical da sociedade chinesa, como o Grande Salto Adiante (1958) e a Revolução Cultural (1966-1976).",
-                               "enunciado":  "Essas campanhas tinham como objetivo declarado, respectivamente:",
+                               "formato":  "direta",
+                               "texto_apoio":  "No fim do século XIX, em plena Segunda Revolução Industrial, empresas de setores como aço, petróleo e ferrovias passaram a se reunir em arranjos que reduziam a concorrência entre elas: acordos de preço e de divisão de mercado, participação cruzada de capital e fusões que concentravam a produção de um ramo em poucas mãos. Os arranjos desse tipo ficaram conhecidos como trustes e cartéis.",
+                               "enunciado":  "Essa concentração empresarial, característica da Segunda Revolução Industrial, relaciona-se com a nova base técnica porque",
                                "alternativas":  {
-                                                    "a":  "Acelerar a industrialização e a coletivização agrícola do país, e depois eliminar elementos ditos burgueses no partido",
-                                                    "b":  "Abrir a economia ao investimento estrangeiro e descentralizar as decisões produtivas para as províncias e cooperativas rurais",
-                                                    "c":  "Estabelecer uma monarquia constitucional na China, projeto sem relação com o ideário maoista da época",
-                                                    "d":  "Restaurar o capitalismo de mercado e reaproximar a China do Ocidente, meta que só surgiria com Deng Xiaoping",
-                                                    "e":  "Integrar a China à Organização das Nações Unidas pela primeira vez, o que só ocorreria efetivamente em 1971"
+                                                    "a":  "as inovações do período exigiam investimento inicial que poucas empresas conseguiam sustentar.",
+                                                    "b":  "a produção passou a depender de oficinas pequenas espalhadas por várias regiões.",
+                                                    "c":  "a eletricidade tornou dispensável o capital fixo nas instalações industriais.",
+                                                    "d":  "os Estados nacionais proibiram a fusão entre empresas de um mesmo ramo produtivo.",
+                                                    "e":  "a redução do tamanho das plantas industriais permitiu que novos concorrentes entrassem nos setores de aço, petróleo e transporte ferroviário."
                                                 },
                                "resposta":  "a",
-                               "explicacao":  "O Grande Salto Adiante buscava acelerar a industrialização e a coletivização agrícola chinesa, mas resultou em grave crise econômica e fome; já a Revolução Cultural visava eliminar opositores internos e elementos tidos como burgueses, gerando forte instabilidade política e social no país.",
-                               "formato":  "direta"
+                               "explicacao":  "Siderúrgica, refinaria e malha ferroviária exigem capital que só se recupera em prazo longo e em grande volume — a escala técnica seleciona quem pode entrar, e quem entrou tem interesse em não competir com os demais. Oficinas pequenas e plantas reduzidas descrevem a fase anterior; a eletricidade não dispensa capital fixo, ela o amplia; e a legislação antimonopólio surge como reação posterior a essa concentração, não como causa.",
+                               "banca":  "fgv"
                            },
                            {
                                "id":  "historia-geral-31",
@@ -20686,18 +20690,18 @@ window.QUESTION_BANKS = {
                            },
                            {
                                "id":  "historia-geral-36",
-                               "texto_apoio":  "No século XXI, a China consolidou-se como uma das maiores potências econômicas do mundo.",
-                               "enunciado":  "Um dos principais instrumentos utilizados pela China para expandir sua influência econômica e geopolítica global nas últimas décadas é:",
+                               "formato":  "direta",
+                               "texto_apoio":  "O período entre as últimas décadas do século XIX e 1914 ficou conhecido na Europa como Belle Époque: eletrificação das cidades, bondes, cinema, exposições universais, ampliação do consumo urbano e um discurso de progresso sem limites. Nos mesmos anos, as potências europeias disputavam colônias na África e na Ásia e ampliavam seus orçamentos militares.",
+                               "enunciado":  "A coexistência entre esses dois conjuntos de fatos indica que a Belle Époque",
                                "alternativas":  {
-                                                    "a":  "A criação de uma moeda comum asiática, adotada pelos países participantes como alternativa ao dólar no comércio regional",
-                                                    "b":  "A retirada unilateral da Organização Mundial do Comércio, decisão nunca tomada pela diplomacia chinesa",
-                                                    "c":  "A Nova Rota da Seda, programa de investimentos em infraestrutura em países da Ásia, África e Europa",
-                                                    "d":  "A proibição de investimentos chineses em portos e ferrovias no exterior, medida contrária à política externa chinesa",
-                                                    "e":  "O isolamento comercial deliberado em relação a países em desenvolvimento, postura oposta à busca chinesa por influência"
+                                                    "a":  "foi um período de paz generalizada, encerrado de forma imprevisível em 1914.",
+                                                    "b":  "abrangeu de modo equivalente as populações europeias e as das colônias.",
+                                                    "c":  "combinou otimismo material nas metrópoles com disputa colonial e corrida armamentista.",
+                                                    "d":  "correspondeu a um recuo do investimento militar entre as potências do continente.",
+                                                    "e":  "resultou da renúncia das potências europeias à expansão territorial fora do continente, em favor do desenvolvimento urbano interno."
                                                 },
                                "resposta":  "c",
-                               "explicacao":  "A Nova Rota da Seda, lançada em 2013, é uma ampla iniciativa chinesa de investimento em infraestrutura de transporte, energia e comunicações em dezenas de países, ampliando a influência econômica e geopolítica da China em escala global no século XXI.",
-                               "formato":  "direta"
+                               "explicacao":  "O bonde e a exposição universal na metrópole eram financiados pela mesma expansão que produzia a disputa colonial e o crescimento dos orçamentos militares: são as duas faces de um mesmo período, e não fases sucessivas. A paz generalizada não se sustenta diante da corrida armamentista descrita; o benefício não alcançou as populações coloniais em termos equivalentes; e o investimento militar cresceu em vez de recuar."
                            },
                            {
                                "id":  "historia-geral-37",
@@ -20845,35 +20849,34 @@ window.QUESTION_BANKS = {
                            },
                            {
                                "id":  "historia-geral-46",
-                               "texto_apoio":  "Entre 1899 e 1902, o Reino Unido enfrentou colonos de origem holandesa, os bôeres, pelo controle de territórios ricos em ouro e diamantes no sul da África.",
-                               "enunciado":  "Esse conflito é um exemplo de como o Novo Imperialismo:",
+                               "formato":  "direta",
+                               "texto_apoio":  "Entre o fim do século XIX e o início do XX, o movimento operário cresceu na Europa e nos Estados Unidos, organizado em sindicatos e partidos. Greves e mobilizações tinham como pauta recorrente a limitação da jornada, a regulamentação do trabalho de mulheres e crianças e o direito de organização. A jornada de oito horas foi conquistada em diferentes países ao longo das primeiras décadas do século XX.",
+                               "enunciado":  "A pauta da jornada de oito horas ocupou posição central no movimento operário porque",
                                "alternativas":  {
-                                                    "a":  "Envolveu confrontos entre europeus na África e metrópoles interessadas em recursos minerais estratégicos",
-                                                    "b":  "Resultou sempre em ocupação pacífica e sem resistência armada por parte dos colonos locais estabelecidos",
-                                                    "c":  "Restringiu-se à disputa por mercados consumidores, sem envolver o controle de jazidas minerais ou de rotas estratégicas",
-                                                    "d":  "Restringiu-se exclusivamente a disputas diplomáticas, sem qualquer confronto militar entre os envolvidos",
-                                                    "e":  "Eliminou qualquer disputa entre potências europeias pelo controle de territórios africanos, o que não ocorreu na prática"
+                                                    "a":  "reunia trabalhadores de ramos e países diferentes em torno de uma reivindicação mensurável.",
+                                                    "b":  "havia sido proposta pelos próprios industriais como forma de elevar a produtividade.",
+                                                    "c":  "dependia apenas de acordo entre empresas, sem necessidade de legislação estatal.",
+                                                    "d":  "substituía a reivindicação salarial, abandonada pelos sindicatos do período.",
+                                                    "e":  "estava restrita aos trabalhadores da indústria têxtil britânica, único ramo em que a jornada excedia doze horas diárias."
                                                 },
                                "resposta":  "a",
-                               "explicacao":  "A Guerra dos Bôeres opôs o Reino Unido a colonos holandeses já estabelecidos havia gerações no sul da África, revelando que a expansão imperialista também gerava conflitos entre europeus, motivados pelo controle de recursos minerais estratégicos como ouro e diamantes.",
-                               "dificuldade":  "dificil",
-                               "formato":  "direta"
+                               "explicacao":  "Uma reivindicação numérica e idêntica em qualquer ramo funciona como denominador comum: o tecelão e o metalúrgico de países diferentes podiam exigir a mesma coisa, e isso dava escala ao movimento. A proposta partiu dos trabalhadores, não dos industriais; a conquista dependeu de lei, e não só de acordo privado; a pauta salarial permaneceu ao lado dela; e a jornada longa era comum em muitos ramos, não apenas no têxtil britânico.",
+                               "banca":  "fgv"
                            },
                            {
                                "id":  "historia-geral-47",
-                               "texto_apoio":  "Em 1904-1905, o Japão derrotou a Rússia em um conflito pela influência sobre a Manchúria e a Coreia.",
-                               "enunciado":  "A vitória japonesa nessa guerra é considerada historicamente relevante porque:",
+                               "formato":  "direta",
+                               "texto_apoio":  "Otto von Bismarck, chanceler da Prússia, conduziu a unificação alemã por meio de três guerras sucessivas — contra a Dinamarca, contra a Áustria e contra a França — combinadas com isolamento diplomático do adversário de cada vez. O império foi proclamado em 1871, em Versalhes, com o rei da Prússia como imperador.",
+                               "enunciado":  "O método adotado por Bismarck caracteriza-se por",
                                "alternativas":  {
-                                                    "a":  "Resultou na anexação do Japão pela Rússia, desfecho oposto ao verificado após o conflito de 1904-1905",
-                                                    "b":  "Consolidou a Rússia como a principal potência asiática do início do século XX, o que a derrota militar contradiz",
-                                                    "c":  "Consolidou a aliança entre Japão e Rússia contra as potências ocidentais presentes no Extremo Oriente no início do século",
-                                                    "d":  "Representou a primeira grande vitória de uma potência asiática sobre uma europeia na era moderna, após a Era Meiji",
-                                                    "e":  "Impediu qualquer expansão territorial japonesa nas décadas seguintes, hipótese desmentida pela história posterior"
+                                                    "a":  "convocar plebiscitos nos territórios alemães antes de cada anexação.",
+                                                    "b":  "recusar o emprego de força militar, em favor de acordos comerciais entre os Estados alemães.",
+                                                    "c":  "submeter a unificação à aprovação prévia das potências reunidas em congresso europeu.",
+                                                    "d":  "usar a guerra como instrumento deliberado, preparada por isolamento diplomático do adversário.",
+                                                    "e":  "transferir a condução do processo a movimentos populares de caráter republicano, organizados nas cidades dos Estados alemães do norte."
                                                 },
                                "resposta":  "d",
-                               "explicacao":  "A vitória japonesa na Guerra Russo-Japonesa surpreendeu o mundo por representar a primeira grande derrota de uma potência europeia diante de uma nação asiática na era moderna, evidenciando os efeitos da rápida modernização militar e industrial promovida pelo Japão desde a Era Meiji (a partir de 1868).",
-                               "dificuldade":  "dificil",
-                               "formato":  "direta"
+                               "explicacao":  "Cada uma das três guerras foi escolhida e preparada: Bismarck garantia antes que o adversário não tivesse aliados, e usava a vitória para agregar territórios ao bloco liderado pela Prússia. Plebiscitos não foram o mecanismo; nenhuma aprovação prévia de congresso europeu foi buscada, e a proclamação em Versalhes é o oposto disso; a força militar foi central; e a condução foi de cima, monárquica e prussiana, não popular e republicana."
                            },
                            {
                                "id":  "historia-geral-48",
@@ -20925,19 +20928,18 @@ window.QUESTION_BANKS = {
                            },
                            {
                                "id":  "historia-geral-51",
-                               "texto_apoio":  "Criada em 1920 como parte dos acordos que encerraram a Primeira Guerra Mundial, a Liga das Nações tinha como objetivo principal preservar a paz internacional.",
-                               "enunciado":  "Entre as principais fragilidades desse organismo estava:",
+                               "formato":  "direta",
+                               "texto_apoio":  "A unificação italiana, concluída entre 1870 e 1871, combinou dois movimentos: a ação diplomática e militar do reino do Piemonte-Sardenha, conduzida por Cavour, e as campanhas armadas de voluntários lideradas por Garibaldi no sul da península. O resultado foi um reino unificado sob a monarquia de Sabóia, com capital transferida para Roma.",
+                               "enunciado":  "A presença desses dois movimentos no processo italiano indica que a unificação",
                                "alternativas":  {
-                                                    "a":  "A participação de todas as grandes potências mundiais, sem qualquer exceção, o que os fatos históricos contradizem",
-                                                    "b":  "Seu excesso de poder militar, que ameaçava a soberania de todos os países membros, hipótese sem fundamento histórico",
-                                                    "c":  "A concentração de poder de decisão em um conselho com direito de veto, que paralisava as deliberações da assembleia geral",
-                                                    "d":  "A ausência dos EUA, que não ratificaram sua adesão, e a falta de mecanismos de coerção contra Estados agressores",
-                                                    "e":  "A inexistência de qualquer instância de negociação diplomática entre os países, contrária ao próprio propósito da Liga"
+                                                    "a":  "foi obra exclusiva da diplomacia, sem participação de forças armadas irregulares.",
+                                                    "b":  "ocorreu sem alteração da capital e sem incorporação dos territórios pontifícios.",
+                                                    "c":  "manteve a península dividida em unidades autônomas até o início do século XX.",
+                                                    "d":  "resultou da convergência entre iniciativa de Estado e mobilização armada voluntária.",
+                                                    "e":  "dependeu de intervenção militar direta do império austríaco, que administrou a transição entre os antigos Estados italianos e o novo reino."
                                                 },
                                "resposta":  "d",
-                               "explicacao":  "A ausência dos Estados Unidos, cujo Congresso não ratificou a adesão do país, e a falta de mecanismos efetivos de coerção militar ou econômica contra Estados agressores enfraqueceram estruturalmente a Liga das Nações, que se mostrou incapaz de impedir a escalada de agressões que resultariam na Segunda Guerra Mundial.",
-                               "dificuldade":  "dificil",
-                               "formato":  "direta"
+                               "explicacao":  "Cavour operou pelo alto, com aliança externa e guerra de Estado; Garibaldi operou por baixo, com voluntários no sul — e o reino unificado é o encontro dos dois, sob a coroa de Sabóia. A obra exclusivamente diplomática exclui Garibaldi; a península foi unificada, e não mantida dividida; a capital foi transferida para Roma com a incorporação dos territórios pontifícios; e a Áustria era o adversário do processo, não sua administradora."
                            },
                            {
                                "id":  "historia-geral-52",
@@ -21213,19 +21215,19 @@ window.QUESTION_BANKS = {
                            },
                            {
                                "id":  "historia-geral-69",
-                               "texto_apoio":  "Entre as décadas de 1950 e 1970, o Vietnã foi palco de um longo conflito que opôs o Vietnã do Norte, comunista, e o Vietnã do Sul, apoiado pelos Estados Unidos.",
-                               "enunciado":  "A Guerra do Vietnã teve como um de seus principais desdobramentos:",
+                               "formato":  "direta",
+                               "texto_apoio":  "Com a unificação da Itália e a unificação da Alemanha concluídas por volta de 1871, dois Estados grandes e industrializados passaram a integrar o mapa político europeu, num continente cujo equilíbrio havia sido desenhado no Congresso de Viena, em 1815, entre potências então existentes. A Alemanha unificada tornou-se em poucas décadas a maior economia industrial da Europa continental.",
+                               "enunciado":  "A entrada da Itália e da Alemanha unificadas nesse quadro alterou o equilíbrio europeu porque",
                                "alternativas":  {
-                                                    "a":  "A vitória militar decisiva dos Estados Unidos, que garantiu a divisão permanente do país, desfecho oposto ao ocorrido",
-                                                    "b":  "A ausência completa de mobilização da opinião pública americana sobre o conflito, contrariada pelos protestos da época",
-                                                    "c":  "O desgaste militar, político e social dos EUA, com forte oposição interna, culminando na retirada das tropas e na reunificação do Vietnã",
-                                                    "d":  "A consolidação da presença militar norte-americana no Sudeste Asiático, sustentada por amplo apoio da opinião pública interna",
-                                                    "e":  "A manutenção indefinida da presença militar americana no Vietnã até os dias atuais, cenário desmentido pela retirada de 1973"
+                                                    "a":  "reduziu o número de potências capazes de disputar colônias fora da Europa.",
+                                                    "b":  "restaurou integralmente o arranjo definido no Congresso de Viena de 1815.",
+                                                    "c":  "acrescentou competidores ao sistema de alianças e à disputa por mercados e colônias.",
+                                                    "d":  "eliminou a rivalidade entre as potências industriais do continente europeu.",
+                                                    "e":  "transferiu o centro de decisão da política europeia para os Estados recém-formados, que passaram a arbitrar as disputas entre as potências mais antigas."
                                                 },
                                "resposta":  "c",
-                               "explicacao":  "A Guerra do Vietnã provocou grande desgaste militar, político e social para os Estados Unidos, que enfrentaram forte oposição interna, especialmente entre jovens, o que contribuiu para a retirada das tropas americanas em 1973 e para a posterior reunificação do Vietnã sob o regime comunista, em 1975.",
-                               "dificuldade":  "media",
-                               "formato":  "direta"
+                               "explicacao":  "O arranjo de 1815 distribuía influência entre as potências de então; dois Estados novos, grandes e industrializados chegam depois e precisam de espaço — daí a corrida por mercados, colônias e alianças que desemboca em 1914. O número de competidores por colônias aumentou em vez de diminuir; o arranjo de Viena foi desfeito, não restaurado; a rivalidade se intensificou; e os Estados novos entraram como partes na disputa, não como árbitros dela.",
+                               "banca":  "fgv"
                            },
                            {
                                "id":  "historia-geral-70",
@@ -21357,19 +21359,18 @@ window.QUESTION_BANKS = {
                            },
                            {
                                "id":  "historia-geral-78",
-                               "texto_apoio":  "Em 1973, um conflito armado entre Israel e uma coalizão de países árabes, liderada por Egito e Síria, teve repercussões que extrapolaram o Oriente Médio.",
-                               "enunciado":  "Um dos principais desdobramentos econômicos globais da Guerra do Yom Kippur foi:",
+                               "formato":  "direta",
+                               "texto_apoio":  "A Reforma Protestante iniciada em 1517 dividiu a cristandade ocidental. Entre as questões em disputa estavam a autoridade para interpretar as Escrituras, a validade da venda de indulgências e o número de sacramentos. Nos territórios que adotaram o protestantismo, bens da Igreja foram transferidos a príncipes e a autoridades locais.",
+                               "enunciado":  "A transferência de bens eclesiásticos a autoridades locais ajuda a explicar",
                                "alternativas":  {
-                                                    "a":  "A queda acentuada do preço internacional do petróleo, que beneficiou as economias industrializadas importadoras do produto",
-                                                    "b":  "O embargo petrolífero imposto por países árabes exportadores a nações que apoiavam Israel, provocando forte choque nos preços",
-                                                    "c":  "A queda abrupta e duradoura do preço internacional do petróleo, direção oposta à provocada pelo embargo árabe",
-                                                    "d":  "O fim completo da dependência mundial em relação ao petróleo do Oriente Médio, resultado que a crise não produziu",
-                                                    "e":  "A ausência de qualquer relação entre o conflito e a economia internacional, o que o choque do petróleo desmente"
+                                                    "a":  "a rápida reunificação religiosa da Europa ocidental na segunda metade do século XVI.",
+                                                    "b":  "o interesse de príncipes e senhores na adesão às novas confissões religiosas.",
+                                                    "c":  "a recusa dos governantes leigos em participar das disputas doutrinárias do período.",
+                                                    "d":  "a manutenção da estrutura patrimonial da Igreja nos territórios protestantes.",
+                                                    "e":  "a decisão do papado de transferir voluntariamente a administração dos bens eclesiásticos aos príncipes dos territórios que permaneceram católicos."
                                                 },
                                "resposta":  "b",
-                               "explicacao":  "Em resposta ao apoio ocidental a Israel na Guerra do Yom Kippur, países árabes exportadores impuseram um embargo petrolífero, provocando um forte choque nos preços internacionais do petróleo e contribuindo para uma grave crise econômica que atingiu diversas economias ao longo da década de 1970.",
-                               "dificuldade":  "dificil",
-                               "formato":  "direta"
+                               "explicacao":  "A ruptura religiosa vinha acompanhada de ganho patrimonial e de autoridade sobre a Igreja local, o que dava a príncipes um motivo material somado ao motivo de fé. A Europa não se reunificou religiosamente; os governantes leigos foram protagonistas das disputas, e não abstiveram-se delas; a estrutura patrimonial da Igreja foi desfeita nesses territórios; e não houve cessão voluntária do papado."
                            },
                            {
                                "id":  "historia-geral-79",
@@ -21501,19 +21502,18 @@ window.QUESTION_BANKS = {
                            },
                            {
                                "id":  "historia-geral-87",
-                               "texto_apoio":  "Em 2008, uma grave crise financeira, originada no mercado imobiliário e financeiro dos Estados Unidos, espalhou-se rapidamente pela economia global.",
-                               "enunciado":  "Entre os fatores que contribuíram para essa crise estavam:",
+                               "formato":  "direta",
+                               "texto_apoio":  "A Igreja Católica respondeu à Reforma com o Concílio de Trento, reunido em sessões entre 1545 e 1563, que reafirmou dogmas contestados e disciplinou o clero. No mesmo movimento foram reorganizados o tribunal do Santo Ofício e o Índice de livros proibidos, e foi aprovada a criação da Companhia de Jesus, dedicada ao ensino e à missão.",
+                               "enunciado":  "O conjunto dessas medidas mostra que a resposta católica combinou",
                                "alternativas":  {
-                                                    "a":  "A decisão de todos os bancos centrais do mundo de eliminar simultaneamente suas reservas internacionais",
-                                                    "b":  "A alta acentuada do preço internacional do petróleo, que elevou a inflação e desencadeou a retração do crédito nos Estados Unidos",
-                                                    "c":  "O excesso de regulação sobre o sistema financeiro internacional, hipótese contrária à desregulação da época",
-                                                    "d":  "A ausência completa de qualquer instituição financeira privada nos Estados Unidos, o que os fatos desmentem",
-                                                    "e":  "A concessão excessiva de crédito imobiliário subprime e sua securitização, espalhando riscos pelo sistema global"
+                                                    "a":  "aceitação das teses protestantes com reorganização interna da hierarquia eclesiástica.",
+                                                    "b":  "abandono da atividade missionária em favor da disciplina do clero europeu.",
+                                                    "c":  "encerramento das ordens religiosas existentes e substituição delas por um corpo único de administradores nomeados diretamente pelo papado.",
+                                                    "d":  "delegação das decisões doutrinárias aos príncipes de cada território católico.",
+                                                    "e":  "reafirmação doutrinária, controle da circulação de ideias e investimento em ensino."
                                                 },
                                "resposta":  "e",
-                               "explicacao":  "A crise financeira de 2008 resultou, entre outros fatores, da concessão excessiva de crédito imobiliário de alto risco (subprime) nos Estados Unidos e da complexa securitização desses créditos em produtos financeiros negociados globalmente, o que espalhou os riscos por todo o sistema financeiro internacional e gerou uma crise de escala mundial.",
-                               "dificuldade":  "dificil",
-                               "formato":  "direta"
+                               "explicacao":  "Trento fecha a doutrina, o Índice e o Santo Ofício controlam o que circula, e a Companhia de Jesus ocupa a escola e a missão: as três frentes operam juntas, e é essa combinação que caracteriza a resposta. A aceitação das teses protestantes é o contrário do que o concílio fez; a atividade missionária foi ampliada, não abandonada; as decisões doutrinárias ficaram com o concílio e o papado; e as ordens religiosas existentes não foram extintas."
                            },
                            {
                                "id":  "historia-geral-88",
@@ -21613,35 +21613,34 @@ window.QUESTION_BANKS = {
                            },
                            {
                                "id":  "historia-geral-94",
-                               "texto_apoio":  "A independência do Congo Belga, em 1960, foi seguida por um período de grave instabilidade política, incluindo a deposição e o assassinato do primeiro-ministro Patrice Lumumba.",
-                               "enunciado":  "A crise congolesa do início dos anos 1960 é frequentemente citada como exemplo de como:",
+                               "formato":  "direta",
+                               "texto_apoio":  "Em 1776, as treze colônias britânicas da América do Norte declararam independência. Entre as tensões que levaram à ruptura estavam a cobrança de tributos aprovados no Parlamento britânico sem representação das colônias, restrições ao comércio colonial e a proibição de ocupar terras a oeste dos Apalaches.",
+                               "enunciado":  "A palavra de ordem que resumia a principal objeção dos colonos à política britânica dizia respeito a",
                                "alternativas":  {
-                                                    "a":  "Disputas internas por poder e interesses de potências estrangeiras na Guerra Fria desestabilizaram países recém-independentes",
-                                                    "b":  "Não houve qualquer interesse internacional pelos recursos minerais congoleses, o que a crise de Katanga desmente",
-                                                    "c":  "A Bélgica manteve pleno controle administrativo sobre o Congo após 1960, o que a independência do país contradiz",
-                                                    "d":  "Um processo de transição institucional conduzido pela antiga metrópole, que garantiu estabilidade política ao país recém-independente",
-                                                    "e":  "Os processos de descolonização africana ocorreram sempre de forma pacífica e sem interferência externa"
+                                                    "a":  "tributação decidida por um parlamento em que as colônias não tinham assento.",
+                                                    "b":  "escolha da língua oficial a ser adotada pelas assembleias coloniais.",
+                                                    "c":  "distribuição das terras situadas a oeste da cordilheira dos Apalaches.",
+                                                    "d":  "reconhecimento da liberdade religiosa nas colônias do sul do território.",
+                                                    "e":  "manutenção do sistema de escravidão nas colônias produtoras de tabaco e de arroz do litoral atlântico."
                                                 },
                                "resposta":  "a",
-                               "explicacao":  "A crise congolesa mostra como disputas internas por poder, somadas ao interesse de potências estrangeiras pelos recursos minerais do país e às disputas geopolíticas da Guerra Fria, contribuíram para desestabilizar gravemente o Congo logo após sua independência, incluindo o assassinato do primeiro-ministro Patrice Lumumba.",
-                               "dificuldade":  "dificil",
-                               "formato":  "direta"
+                               "explicacao":  "A objeção que organizou o movimento era a de pagar imposto aprovado por um corpo em que não havia representante colonial — a fórmula corrente resumia isso como ausência de tributação sem representação. A questão das terras a oeste era um dos atritos, mas não a objeção central; a língua não estava em disputa; a liberdade religiosa não foi o eixo da ruptura; e a escravidão permaneceu em vez de ser o motivo da independência."
                            },
                            {
                                "id":  "historia-geral-95",
-                               "texto_apoio":  "Após a independência de Angola em relação a Portugal, em 1975, o país mergulhou em uma longa guerra civil entre diferentes movimentos que haviam lutado pela independência.",
-                               "enunciado":  "Esse conflito, que se estendeu por quase três décadas, é um exemplo de como:",
+                               "formato":  "direta",
+                               "texto_apoio":  "A Constituição norte-americana, aprovada em 1787, criou um governo federal com poderes divididos entre Executivo, Legislativo e Judiciário, e distribuiu competências entre a União e os estados. Antes dela, as treze colônias já independentes haviam se organizado sob os Artigos da Confederação, que mantinham autoridade central muito reduzida.",
+                               "enunciado":  "A substituição dos Artigos da Confederação pela Constituição norte-americana de 1787 respondeu à necessidade de",
                                "alternativas":  {
-                                                    "a":  "Disputas internas entre antigos movimentos de libertação e apoio externo de potências rivais prolongaram o conflito",
-                                                    "b":  "Os movimentos de libertação nacional africanos sempre mantiveram unidade política após a independência",
-                                                    "c":  "Um conflito de fronteira entre dois Estados vizinhos, encerrado por arbitragem internacional poucos anos após seu início",
-                                                    "d":  "A guerra civil angolana foi resolvida imediatamente após a independência, sem maiores consequências duradouras",
-                                                    "e":  "Angola não recebeu qualquer forma de apoio militar estrangeiro após sua independência, o que os fatos contradizem"
+                                                    "a":  "dotar a União de autoridade suficiente para tributar, comerciar e manter forças armadas.",
+                                                    "b":  "restabelecer o vínculo político e tributário com a metrópole britânica.",
+                                                    "c":  "reduzir as competências do governo central em favor das assembleias estaduais.",
+                                                    "d":  "transferir a soberania a um monarca eleito pelos representantes dos estados.",
+                                                    "e":  "unificar os sistemas jurídicos estaduais num código único de aplicação obrigatória em todo o território da federação recém-formada."
                                                 },
                                "resposta":  "a",
-                               "explicacao":  "A guerra civil angolana exemplifica como disputas internas de poder entre antigos movimentos de libertação, combinadas ao apoio externo de potências rivais da Guerra Fria a diferentes facções, prolongaram conflitos armados em países africanos recém-independentes, tornando processos de descolonização em longas guerras civis.",
-                               "dificuldade":  "dificil",
-                               "formato":  "direta"
+                               "explicacao":  "Sob os Artigos, a autoridade central não conseguia arrecadar nem tratar do comércio entre os estados de modo eficaz, e a Constituição foi desenhada para corrigir isso sem eliminar os estados. Reduzir as competências centrais é o inverso do movimento; não houve retorno ao vínculo com a metrópole; a soberania ficou com o povo e não com um monarca; e os sistemas jurídicos estaduais permaneceram distintos.",
+                               "banca":  "fgv"
                            },
                            {
                                "id":  "historia-geral-96",

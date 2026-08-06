@@ -208,6 +208,52 @@
     });
   }
 
+  // Os globais que um arquivo de dados sobrescreve por nome fixo. É esta lista
+  // que `carregarSecundaria` precisa guardar e devolver.
+  const GLOBAIS_DE_DADOS = ["QUESTION_BANKS", "QUESTION_TEXTS", "SUBTOPICS"];
+
+  // Carrega o banco de questões da OUTRA trilha, sem desmontar a ativa.
+  //
+  // A aba Buscar procura nas duas trilhas: as frentes de Linguagens, Matemática
+  // e Humanas se sobrepõem, e uma questão de crase é a mesma questão de crase
+  // independente do curso. Só que "uma trilha por sessão" (ver o topo deste
+  // arquivo) é justamente o que faz app.js e schedule.js não precisarem saber
+  // que trilhas existem — e não vale desmontar isso por causa da busca.
+  //
+  // O conflito é concreto: bundle.js faz `window.QUESTION_BANKS = {...}`, por
+  // nome fixo. Carregar a segunda trilha por cima trocaria o banco embaixo do
+  // app inteiro. Então guardamos os globais antes, deixamos o script escrever,
+  // colhemos o que ele escreveu e devolvemos os originais no lugar.
+  //
+  // Isto é seguro porque `script.async = false` mantém a ordem e a colheita
+  // acontece no onload do último arquivo — JS é single-threaded, e nada do app
+  // lê esses globais entre a escrita e a restauração (todo acesso é lazy,
+  // dentro de função, disparado por clique ou por render).
+  //
+  // Custo: 390 KB comprimidos (banco de Medicina) ou 780 KB (o de Direito),
+  // uma vez por sessão, e só para quem abre a busca.
+  function carregarSecundaria(id) {
+    const guardados = {};
+    GLOBAIS_DE_DADOS.forEach(function (k) { guardados[k] = window[k]; });
+
+    function devolver() {
+      const colhido = {};
+      GLOBAIS_DE_DADOS.forEach(function (k) {
+        colhido[k] = window[k];
+        window[k] = guardados[k];
+      });
+      return colhido;
+    }
+
+    return carregar(id, ["subtopics", "bundle"]).then(devolver, function (err) {
+      // Mesmo no erro os globais voltam: um arquivo pode ter entrado antes de
+      // outro falhar, e sair daqui com o banco da outra trilha no lugar do
+      // ativo seria pior do que não ter busca.
+      devolver();
+      throw err;
+    });
+  }
+
   window.VD_TRILHA = {
     CHAVE: LS_TRILHA,
 
@@ -232,6 +278,15 @@
 
     ehValida: ehValida,
     carregar: carregar,
+    carregarSecundaria: carregarSecundaria,
+
+    // A outra trilha — hoje sempre uma só, mas escrito para não quebrar se
+    // aparecer uma terceira.
+    outras: function () {
+      const atual = this.atual();
+      return Object.keys(window.VD_TRILHAS).filter(function (k) { return k !== atual; });
+    },
+
     lista: function () {
       return Object.keys(window.VD_TRILHAS).map(function (k) { return window.VD_TRILHAS[k]; });
     },

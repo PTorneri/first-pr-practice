@@ -437,6 +437,7 @@
         if (btn.dataset.tab === "redacao") renderRedacaoTab();
         if (btn.dataset.tab === "obras") renderObrasTab();
         if (btn.dataset.tab === "erros") renderErrosTab();
+        if (btn.dataset.tab === "buscar") renderBuscarTab();
       });
     });
   }
@@ -1731,6 +1732,627 @@
     if (!counter) return;
     const total = computeWrongQuestions().reduce((sum, g) => sum + g.questions.length, 0);
     counter.innerHTML = `<strong>${total}</strong> questõe${total === 1 ? "" : "s"} pra revisar`;
+  }
+
+  // ==================== BUSCA DE QUESTÕES ====================
+  //
+  // O problema que isto resolve: até aqui, toda questão chegava ao aluno pelo
+  // caminho que o app escolhia — o dia do cronograma, o simulado, o caderno de
+  // erros. Não havia como dizer "quero treinar crase agora", e com 3.102
+  // questões nas duas trilhas isso deixava a maior parte do acervo fora de
+  // alcance sob demanda.
+  //
+  // POR QUE O ÍNDICE É CONSTRUÍDO EM RUNTIME, E NÃO GRAVADO NAS QUESTÕES
+  //
+  // A rota convencional (a do Qconcursos) é gravar as tags de assunto em cada
+  // questão por um script offline. Medido aqui: montar o índice invertido
+  // inteiro custa ~250 ms para 430 mil tokens, uma vez, e só quando a aba abre.
+  // O Qconcursos precisa de tags persistidas porque tem 2,8 milhões de questões
+  // e um servidor; a 3.102 questões no navegador, indexar em runtime é
+  // estritamente melhor — dispensa migrar 3.102 arquivos, dispensa rebuild do
+  // bundle, e faz de assuntos.js a única fonte de verdade (corrigir um sinônimo
+  // tem efeito na hora, sem regerar nada).
+
+  let buscaIndice = null;      // { termo -> Set<docId> }
+  let buscaDocs = null;        // [{ trilha, frente, frenteNome, area, q, enunciado }]
+  let buscaSecundariaEstado = "nao-iniciada"; // nao-iniciada | carregando | pronta | falhou
+  let buscaConsulta = "";
+  let buscaAssuntoId = null;   // assunto escolhido na sugestão (null = texto livre)
+  let buscaFiltroFrente = null;
+  let buscaFiltroFormato = null; // null | "direta" | "escada" | "lacunas" | "vf" | "excecao"
+  let buscaFiltroStatus = null;  // null | "nova" | "errei" | "acertei"
+
+  // Rótulos do campo `formato`, preenchido em todas as questões por
+  // tag-formato.ps1 mas até aqui sem nenhum consumidor no app. O próprio script
+  // diz para que ele existe: é o filtro para treinar um formato específico, que
+  // é o que separa as duas bancas — a FGV usa escada em um terço do bloco de
+  // Humanas e a Insper não usou nenhuma nos 120 itens lidos, preferindo o item
+  // de duas lacunas. Quem treina para uma das duas quer poder isolar isso.
+  const BUSCA_FORMATO_LABELS = {
+    direta: "Pergunta direta",
+    escada: "Asserções I/II/III",
+    lacunas: "Duas lacunas",
+    vf: "Verdadeiro/falso",
+    excecao: "Assinale a incorreta",
+  };
+
+  // Sem acento e em minúscula. Não é refinamento: o aluno digita "funcao
+  // quadratica" no celular, e sem isto a busca devolveria zero.
+  function buscaNormalizar(s) {
+    return (s || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  }
+
+  // Tokeniza por palavra inteira. Descartar tokens de 1-2 caracteres corta o
+  // grosso do ruído ("de", "a", "os") sem lista de stopwords.
+  function buscaTokens(texto) {
+    return buscaNormalizar(texto).match(/[a-z0-9]+/g) || [];
+  }
+
+  // Plural simples do português. O dicionário escreve "figura de linguagem" e
+  // a questão diz "figuras" — resolver isso aqui evita ter que listar as duas
+  // formas em cada um dos ~1.000 termos de assuntos.js.
+  function buscaRadical(t) {
+    if (t.length > 4 && t.endsWith("es")) return t.slice(0, -2);
+    if (t.length > 3 && t.endsWith("s")) return t.slice(0, -1);
+    return t;
+  }
+
+  // Junta o banco da trilha ativa com o da secundária (quando já carregado) num
+  // vetor único de documentos. `subtopicId` das questões da outra trilha ganha
+  // prefixo — ver o comentário em buscaSubtopicId.
+  function buscaMontarDocs(secundaria) {
+    const docs = [];
+    function absorver(trilhaId, subtopics, banks) {
+      (subtopics || []).forEach((s) => {
+        const bank = (banks && banks[s.id]) || [];
+        bank.forEach((q) => {
+          docs.push({
+            trilha: trilhaId,
+            frente: s.id,
+            frenteNome: s.nome,
+            area: s.area,
+            q: q,
+          });
+        });
+      });
+    }
+    absorver(TRILHA, window.SUBTOPICS, window.QUESTION_BANKS);
+    if (secundaria) {
+      absorver(secundaria.trilha, secundaria.SUBTOPICS, secundaria.QUESTION_BANKS);
+    }
+    return docs;
+  }
+
+  // Questões da outra trilha respondem por um subtopicId prefixado.
+  //
+  // Isso não é cosmético: computeWrongQuestions() e renderProgress() iteram
+  // window.SUBTOPICS e indexam window.QUESTION_BANKS[s.id]. Um id que não está
+  // em SUBTOPICS é, por construção, invisível para as estatísticas — a questão
+  // continua respondível e com feedback normal, mas não entra no Caderno de
+  // Erros nem no progresso por frente da trilha que o aluno estuda. Sem isso,
+  // uma questão de Biologia contaminaria as estatísticas de quem faz Direito.
+  function buscaSubtopicId(doc) {
+    return doc.trilha === TRILHA ? doc.frente : "xt::" + doc.trilha + "::" + doc.frente;
+  }
+
+  // Constrói o índice invertido. Roda uma vez por estado do banco: se a trilha
+  // secundária chegar depois, é chamada de novo com o conjunto completo.
+  function buscaConstruirIndice(secundaria) {
+    const t0 = performance.now();
+    buscaDocs = buscaMontarDocs(secundaria);
+    buscaIndice = new Map();
+
+    buscaDocs.forEach((doc, id) => {
+      const q = doc.q;
+      // O enunciado fica guardado à parte porque o ranking pesa acerto no
+      // enunciado acima de acerto na explicação — ver buscaPontuar.
+      doc.enunciado = buscaNormalizar(q.enunciado || "");
+      const texto = [
+        q.enunciado,
+        resolveSupportText(q),
+        Object.values(q.alternativas || {}).join(" "),
+        q.explicacao,
+      ].join(" ");
+
+      const vistos = new Set();
+      buscaTokens(texto).forEach((tok) => {
+        if (tok.length < 3) return;
+        const r = buscaRadical(tok);
+        if (vistos.has(r)) return;
+        vistos.add(r);
+        let posting = buscaIndice.get(r);
+        if (!posting) { posting = new Set(); buscaIndice.set(r, posting); }
+        posting.add(id);
+      });
+    });
+
+    console.info(
+      "[busca] índice: " + buscaDocs.length + " questões, " +
+      buscaIndice.size + " termos, " + Math.round(performance.now() - t0) + " ms"
+    );
+  }
+
+  // Candidatos para um termo do dicionário ou da consulta.
+  //
+  // Termo de uma palavra: é só a posting list. Termo de várias: intersecta as
+  // posting lists e depois CONFIRMA a frase nos poucos candidatos que sobraram,
+  // com fronteira de palavra. Sem essa confirmação, "função quadrática" casaria
+  // qualquer questão que mencionasse "função" e "quadrática" em frases
+  // distintas.
+  function buscaCandidatos(termo) {
+    const toks = buscaTokens(termo).filter((t) => t.length >= 3).map(buscaRadical);
+    if (toks.length === 0) return null;
+
+    let acc = null;
+    for (const t of toks) {
+      const posting = buscaIndice.get(t);
+      if (!posting) return new Set();
+      acc = acc === null ? new Set(posting) : new Set([...acc].filter((id) => posting.has(id)));
+      if (acc.size === 0) return acc;
+    }
+    if (toks.length === 1) return acc;
+
+    // Confirmação da frase. Substring seria mais simples e é justamente o erro:
+    // medido no banco, "mol" como pedaço casa 176 questões, das quais 146 são
+    // "molécula" e "molar".
+    const alvo = buscaNormalizar(termo).trim();
+    const rx = new RegExp("\\b" + alvo.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/\s+/g, "\\s+"), "i");
+    return new Set([...acc].filter((id) => {
+      const doc = buscaDocs[id];
+      const q = doc.q;
+      const full = buscaNormalizar([
+        q.enunciado, resolveSupportText(q),
+        Object.values(q.alternativas || {}).join(" "), q.explicacao,
+      ].join(" "));
+      return rx.test(full);
+    }));
+  }
+
+  // Peso de um resultado. Acerto no enunciado vale mais do que acerto na
+  // explicação: uma questão QUE É sobre crase diz "crase" no enunciado; uma que
+  // só menciona crase de passagem na explicação é resultado fraco. Sem isto, os
+  // assuntos de termos genéricos (as classes de palavras aparecem na explicação
+  // de quase toda questão de gramática) afogariam os bons resultados.
+  function buscaPontuar(doc, termos, ehDaTrilhaAtiva) {
+    let peso = ehDaTrilhaAtiva ? 10 : 0; // a trilha do aluno vem primeiro
+    termos.forEach((termo) => {
+      const alvo = buscaNormalizar(termo).trim();
+      const rx = new RegExp("\\b" + alvo.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/\s+/g, "\\s+"), "i");
+      if (rx.test(doc.enunciado)) peso += 8;
+    });
+    if (doc.q.dificuldade === "dificil") peso += 1;
+    return peso;
+  }
+
+  // Sugestões de assunto para o que está sendo digitado. É esta lista que
+  // responde ao pedido original ("o assunto exato que quero estudar"): o aluno
+  // deixa de ter que adivinhar qual palavra o banco usa.
+  function buscaSugerirAssuntos(consulta, limite) {
+    const n = buscaNormalizar(consulta).trim();
+    if (n.length < 2) return [];
+    const frentesVivas = new Set((buscaDocs || []).map((d) => d.frente));
+    const pontuados = [];
+    (window.ASSUNTOS || []).forEach((a) => {
+      if (!a.frentes.some((f) => frentesVivas.has(f))) return;
+      const nome = buscaNormalizar(a.nome);
+      let p = 0;
+      if (nome.startsWith(n)) p = 100;
+      else if (nome.indexOf(n) !== -1) p = 60;
+      else if (a.termos.some((t) => buscaNormalizar(t).startsWith(n))) p = 40;
+      else if (a.termos.some((t) => buscaNormalizar(t).indexOf(n) !== -1)) p = 20;
+      if (p > 0) pontuados.push({ assunto: a, peso: p });
+    });
+    pontuados.sort((x, y) => y.peso - x.peso || x.assunto.nome.localeCompare(y.assunto.nome));
+    return pontuados.slice(0, limite || 6).map((x) => x.assunto);
+  }
+
+  // A busca em si.
+  //
+  // Dois modos. Com assunto escolhido, procura por TODOS os sinônimos dele,
+  // restritos às frentes daquele assunto — é o escopo por frente que impede
+  // "mol" de Química casar com questões de Biologia, e é o que faz "função
+  // quadrática" sair de zero para as questões que só falam em parábola e
+  // vértice. Sem assunto, procura o texto digitado, em todas as frentes.
+  function buscarQuestoes() {
+    if (!buscaIndice) return { resultados: [], assunto: null };
+
+    const assunto = buscaAssuntoId
+      ? (window.ASSUNTOS || []).find((a) => a.id === buscaAssuntoId)
+      : null;
+    const termos = assunto ? assunto.termos : [buscaConsulta];
+    const escopo = assunto ? new Set(assunto.frentes) : null;
+
+    const ids = new Set();
+    termos.forEach((termo) => {
+      const c = buscaCandidatos(termo);
+      if (c) c.forEach((id) => ids.add(id));
+    });
+
+    // Duas passadas, e a ordem importa.
+    //
+    // Primeiro o conjunto BASE: tudo que casa a consulta e passa pelo filtro de
+    // status. É dele que saem as facetas — os botões de frente e de formato só
+    // oferecem o que existe ali. Um filtro que devolve zero é pior do que um
+    // filtro ausente: o aluno clica, some tudo, e não sabe se errou a busca ou
+    // se o banco não tem. Oferecendo só o alcançável, isso não acontece.
+    //
+    // Depois os filtros de faceta, que produzem o resultado exibido.
+    const answers = getAnswers();
+    const base = [];
+    ids.forEach((id) => {
+      const doc = buscaDocs[id];
+      if (escopo && !escopo.has(doc.frente)) return;
+
+      if (buscaFiltroStatus) {
+        const escolhida = answers[answerKey(buscaSubtopicId(doc), doc.q.id)];
+        if (buscaFiltroStatus === "nova" && escolhida) return;
+        if (buscaFiltroStatus === "errei" && (!escolhida || escolhida === doc.q.resposta)) return;
+        if (buscaFiltroStatus === "acertei" && escolhida !== doc.q.resposta) return;
+      }
+      base.push(doc);
+    });
+
+    // Filtro órfão: trocar a consulta pode deixar um filtro apontando para algo
+    // que sumiu — buscar "crase" com a frente "Biologia" ainda ligada não
+    // devolveria nada, e o botão que explicaria isso nem estaria na tela. A
+    // checagem vem ANTES das facetas e do filtro: feita depois, a tela ainda
+    // erraria por um render, mostrando o zero antes de se corrigir.
+    if (buscaFiltroFrente && !base.some((d) => d.frente === buscaFiltroFrente)) {
+      buscaFiltroFrente = null;
+    }
+    if (buscaFiltroFormato && !base.some((d) => (d.q.formato || "direta") === buscaFiltroFormato)) {
+      buscaFiltroFormato = null;
+    }
+
+    // Cada faceta conta com os OUTROS filtros já aplicados, nunca com o seu
+    // próprio. Contar as duas sobre o mesmo conjunto cru produz um botão que
+    // mente: com "Gramática" ligado, o formato "Duas lacunas" anunciava 7
+    // resultados — as 7 do banco inteiro — e entregava zero, porque Gramática
+    // não tem nenhuma. O botão prometia e não cumpria.
+    const facetaFrentes = new Map();  // frente  -> { id, nome, total } | conta com o formato aplicado
+    const facetaFormatos = new Map(); // formato -> total               | conta com a frente aplicada
+    base.forEach((doc) => {
+      const fmt = doc.q.formato || "direta";
+      if (!buscaFiltroFormato || fmt === buscaFiltroFormato) {
+        const f = facetaFrentes.get(doc.frente) || { id: doc.frente, nome: doc.frenteNome, total: 0 };
+        f.total += 1;
+        facetaFrentes.set(doc.frente, f);
+      }
+      if (!buscaFiltroFrente || doc.frente === buscaFiltroFrente) {
+        facetaFormatos.set(fmt, (facetaFormatos.get(fmt) || 0) + 1);
+      }
+    });
+
+    const resultados = base
+      .filter((doc) => {
+        if (buscaFiltroFrente && doc.frente !== buscaFiltroFrente) return false;
+        if (buscaFiltroFormato && (doc.q.formato || "direta") !== buscaFiltroFormato) return false;
+        return true;
+      })
+      .map((doc) => ({ doc: doc, peso: buscaPontuar(doc, termos, doc.trilha === TRILHA) }));
+
+    resultados.sort((a, b) => b.peso - a.peso);
+    return {
+      resultados: resultados,
+      assunto: assunto,
+      frentes: Array.from(facetaFrentes.values()).sort((a, b) => b.total - a.total),
+      formatos: facetaFormatos,
+    };
+  }
+
+  // ---------- Aba Buscar (UI) ----------
+
+  const BUSCA_PAGINA = 20; // resultados por lote
+  let buscaVisiveis = BUSCA_PAGINA;
+
+  // O corpo da aba é montado UMA vez. Redesenhar tudo a cada tecla tiraria o
+  // foco do campo no meio da digitação — só a área de resultados é reconstruída.
+  function renderBuscarTab() {
+    const container = document.getElementById("buscar-content");
+    if (container.dataset.montado === "1") {
+      renderBuscaResultados();
+      return;
+    }
+    container.dataset.montado = "1";
+    container.innerHTML = `
+      <h2>Buscar questões</h2>
+      <p class="hint">Procure pelo assunto que você quer treinar agora — "crase", "função quadrática",
+      "genética". A busca cobre as duas trilhas: as frentes de Linguagens, Matemática e Humanas se
+      repetem entre Direito e Medicina, e uma questão de crase é a mesma questão de crase nos dois
+      cursos.</p>
+      <input id="busca-input" class="busca-input" type="search" autocomplete="off"
+             placeholder="Digite um assunto ou uma palavra do enunciado">
+      <div id="busca-sugestoes" class="busca-sugestoes"></div>
+      <div id="busca-filtros"></div>
+      <div id="busca-status" class="hint busca-status"></div>
+      <div id="busca-resultados"></div>
+    `;
+
+    const input = container.querySelector("#busca-input");
+    input.value = buscaConsulta;
+
+    // Debounce: sem ele, cada tecla dispara uma varredura completa do índice.
+    let timer = null;
+    input.addEventListener("input", () => {
+      clearTimeout(timer);
+      timer = setTimeout(() => {
+        buscaConsulta = input.value.trim();
+        buscaAssuntoId = null; // digitar de novo abandona o assunto escolhido
+        buscaVisiveis = BUSCA_PAGINA;
+        renderBuscaSugestoes();
+        renderBuscaResultados();
+      }, 150);
+    });
+
+    buscaGarantirIndice();
+  }
+
+  // Constrói o índice na primeira abertura e dispara o carregamento da outra
+  // trilha. As duas coisas são preguiçosas de propósito: quem nunca abre a aba
+  // não paga nem os ~250 ms de indexação nem os 390 KB do outro banco.
+  function buscaGarantirIndice() {
+    if (!buscaIndice) buscaConstruirIndice(null);
+    renderBuscaResultados(); // renderiza também os filtros, com as facetas do resultado
+
+    if (buscaSecundariaEstado !== "nao-iniciada") return;
+    const outras = (window.VD_TRILHA && window.VD_TRILHA.outras()) || [];
+    if (outras.length === 0 || !window.VD_TRILHA.carregarSecundaria) {
+      buscaSecundariaEstado = "pronta";
+      return;
+    }
+    buscaSecundariaEstado = "carregando";
+    atualizarBuscaStatus();
+
+    window.VD_TRILHA.carregarSecundaria(outras[0]).then((colhido) => {
+      buscaSecundariaEstado = "pronta";
+      buscaConstruirIndice({
+        trilha: outras[0],
+        SUBTOPICS: colhido.SUBTOPICS,
+        QUESTION_BANKS: colhido.QUESTION_BANKS,
+      });
+      atualizarBuscaStatus();
+      renderBuscaResultados();
+    }).catch((err) => {
+      // Degradar, não quebrar: sem a segunda trilha a busca continua útil na
+      // trilha do aluno, que é onde estão as questões que mais importam pra ele.
+      console.warn("[busca] trilha secundária indisponível:", err);
+      buscaSecundariaEstado = "falhou";
+      atualizarBuscaStatus();
+    });
+  }
+
+  function atualizarBuscaStatus() {
+    const el = document.getElementById("busca-status");
+    if (!el) return;
+    if (buscaSecundariaEstado === "carregando") {
+      el.textContent = "Carregando também o banco da outra trilha…";
+    } else if (buscaSecundariaEstado === "falhou") {
+      el.textContent = "Não deu pra carregar o banco da outra trilha — buscando só em " +
+        (TRILHA_CFG ? TRILHA_CFG.nome : "sua trilha") + ".";
+    } else {
+      el.textContent = "";
+    }
+  }
+
+  function renderBuscaSugestoes() {
+    const el = document.getElementById("busca-sugestoes");
+    if (!el) return;
+    el.innerHTML = "";
+    if (buscaAssuntoId) {
+      const a = (window.ASSUNTOS || []).find((x) => x.id === buscaAssuntoId);
+      if (a) {
+        const chip = document.createElement("button");
+        chip.type = "button";
+        chip.className = "busca-assunto-ativo";
+        chip.innerHTML = `${escapeHtml(a.nome)} <span aria-hidden="true">×</span>`;
+        chip.title = "Voltar para a busca por texto";
+        chip.addEventListener("click", () => {
+          buscaAssuntoId = null;
+          buscaVisiveis = BUSCA_PAGINA;
+          renderBuscaSugestoes();
+          renderBuscaResultados();
+        });
+        el.appendChild(chip);
+      }
+      return;
+    }
+
+    const sugestoes = buscaSugerirAssuntos(buscaConsulta, 6);
+    if (sugestoes.length === 0) return;
+    const rotulo = document.createElement("span");
+    rotulo.className = "area-filter-label";
+    rotulo.textContent = "Assuntos:";
+    el.appendChild(rotulo);
+    sugestoes.forEach((a) => {
+      const chip = document.createElement("button");
+      chip.type = "button";
+      chip.className = "area-pill";
+      chip.textContent = a.nome;
+      chip.addEventListener("click", () => {
+        buscaAssuntoId = a.id;
+        buscaVisiveis = BUSCA_PAGINA;
+        renderBuscaSugestoes();
+        renderBuscaResultados();
+      });
+      el.appendChild(chip);
+    });
+  }
+
+  // Monta uma fileira de botões de filtro no padrão .area-filter/.area-pill,
+  // o mesmo do filtro de categoria da aba Obras.
+  function renderBuscaLinhaFiltro(container, rotulo, opcoes, valorAtual, aoEscolher) {
+    const linha = document.createElement("div");
+    linha.className = "area-filter";
+    const label = document.createElement("span");
+    label.className = "area-filter-label";
+    label.textContent = rotulo;
+    linha.appendChild(label);
+    opcoes.forEach((op) => {
+      const pill = document.createElement("button");
+      pill.type = "button";
+      pill.className = "area-pill" + (valorAtual === op.id ? " active" : "");
+      pill.textContent = op.nome + (op.total != null ? ` (${op.total})` : "");
+      pill.addEventListener("click", () => {
+        aoEscolher(op.id);
+        buscaVisiveis = BUSCA_PAGINA;
+        renderBuscaResultados();
+      });
+      linha.appendChild(pill);
+    });
+    container.appendChild(linha);
+  }
+
+  // As fileiras de frente e de formato são derivadas do resultado da busca, e
+  // não fixas: só aparecem as opções que têm questão agora. Sem consulta ativa,
+  // só o filtro de status faz sentido — os outros dois não teriam de onde tirar
+  // as opções.
+  function renderBuscaFiltros(facetas) {
+    const el = document.getElementById("busca-filtros");
+    if (!el) return;
+    el.innerHTML = "";
+
+    renderBuscaLinhaFiltro(el, "Mostrar:", [
+      { id: null, nome: "Todas" },
+      { id: "nova", nome: "Não respondidas" },
+      { id: "errei", nome: "Que eu errei" },
+      { id: "acertei", nome: "Que eu acertei" },
+    ], buscaFiltroStatus, (id) => { buscaFiltroStatus = id; });
+
+    if (!facetas) return;
+
+    // Uma opção só não é escolha nenhuma — a fileira seria "Todas" mais um
+    // botão que não muda nada.
+    if (facetas.frentes.length > 1) {
+      renderBuscaLinhaFiltro(el, "Frente:",
+        [{ id: null, nome: "Todas" }].concat(
+          facetas.frentes.map((f) => ({ id: f.id, nome: f.nome, total: f.total }))
+        ),
+        buscaFiltroFrente, (id) => { buscaFiltroFrente = id; });
+    }
+
+    if (facetas.formatos.size > 1) {
+      const ordem = ["direta", "escada", "lacunas", "vf", "excecao"];
+      renderBuscaLinhaFiltro(el, "Formato:",
+        [{ id: null, nome: "Todos" }].concat(
+          ordem.filter((f) => facetas.formatos.has(f)).map((f) => ({
+            id: f, nome: BUSCA_FORMATO_LABELS[f] || f, total: facetas.formatos.get(f),
+          }))
+        ),
+        buscaFiltroFormato, (id) => { buscaFiltroFormato = id; });
+    }
+  }
+
+  function renderBuscaResultados() {
+    const el = document.getElementById("busca-resultados");
+    if (!el) return;
+    el.innerHTML = "";
+
+    if (!buscaConsulta && !buscaAssuntoId) {
+      renderBuscaFiltros(null);
+      el.innerHTML = `<p class="hint">Comece digitando acima. São ${(buscaDocs || []).length}
+        questões indexadas${buscaSecundariaEstado === "pronta" ? " nas duas trilhas" : ""}.</p>`;
+      return;
+    }
+
+    const { resultados, assunto, frentes, formatos } = buscarQuestoes();
+    renderBuscaFiltros({ frentes: frentes, formatos: formatos });
+    const total = resultados.length;
+
+    const contador = document.createElement("div");
+    contador.className = "dissert-counter";
+    contador.innerHTML = total === 0
+      ? `Nenhuma questão encontrada`
+      : `<strong>${total}</strong> quest${total === 1 ? "ão" : "ões"} encontrada${total === 1 ? "" : "s"}` +
+        (assunto ? ` para <strong>${escapeHtml(assunto.nome)}</strong>` : "");
+    el.appendChild(contador);
+
+    if (total === 0) {
+      const vazio = document.createElement("p");
+      vazio.className = "hint";
+      vazio.textContent = assunto
+        ? "Esse assunto ainda não tem questão no banco."
+        : "Tente uma palavra mais curta, ou escolha um dos assuntos sugeridos acima — eles procuram " +
+          "também pelos sinônimos, e é assim que \"função quadrática\" encontra as questões que só " +
+          "falam em parábola e vértice.";
+      el.appendChild(vazio);
+      return;
+    }
+
+    // Trilha ativa primeiro, a outra num bloco separado e rotulado — mesmo
+    // padrão do "Repertório complementar" da aba Obras.
+    const daTrilha = resultados.filter((r) => r.doc.trilha === TRILHA);
+    const daOutra = resultados.filter((r) => r.doc.trilha !== TRILHA);
+
+    // Os dois grupos têm ORÇAMENTOS SEPARADOS, e não um só dividido por ordem.
+    //
+    // Com um orçamento único a outra trilha nunca aparecia: buscando "figuras
+    // de linguagem", só Direito tem mais de 40 resultados, então as 20 vagas da
+    // primeira página — e as 40 da segunda — se esgotavam antes de chegar nela.
+    // Medido no navegador antes desta separação: zero questões de Medicina na
+    // tela, mesmo com o bloco existindo no código.
+    //
+    // A reserva é uma fração da página, e não metade: quem estuda Direito quer
+    // as questões de Direito primeiro. Mas "primeiro" não pode virar "só".
+    const cotaOutra = Math.max(4, Math.round(buscaVisiveis / 4));
+    renderBuscaGrupo(el, daTrilha, buscaVisiveis, null);
+    if (daOutra.length > 0) {
+      const cfgOutra = window.VD_TRILHAS[daOutra[0].doc.trilha];
+      renderBuscaGrupo(el, daOutra, cotaOutra, cfgOutra ? cfgOutra.nome : daOutra[0].doc.trilha);
+    }
+
+    const mostrados = Math.min(daTrilha.length, buscaVisiveis) + Math.min(daOutra.length, cotaOutra);
+    if (mostrados < total) {
+      const mais = document.createElement("button");
+      mais.type = "button";
+      mais.className = "btn btn-secondary";
+      mais.textContent = `Mostrar mais (${total - mostrados} restante${total - mostrados === 1 ? "" : "s"})`;
+      mais.addEventListener("click", () => {
+        buscaVisiveis += BUSCA_PAGINA;
+        renderBuscaResultados();
+      });
+      el.appendChild(mais);
+    }
+  }
+
+  // Renderiza um grupo de resultados até o limite de itens visíveis do grupo.
+  function renderBuscaGrupo(container, itens, orcamento, nomeTrilhaOutra) {
+    if (itens.length === 0 || orcamento <= 0) return;
+    const mostrar = itens.slice(0, orcamento);
+
+    if (nomeTrilhaOutra) {
+      const aviso = document.createElement("p");
+      aviso.className = "hint busca-outra-trilha";
+      aviso.innerHTML = `<strong>Também em ${escapeHtml(nomeTrilhaOutra)}</strong> —
+        ${itens.length} quest${itens.length === 1 ? "ão" : "ões"} do mesmo assunto na outra trilha.
+        Valem como treino, mas não entram no seu Caderno de Erros nem no seu progresso por frente.`;
+      container.appendChild(aviso);
+    }
+
+    // Agrupa por frente, no cartão que as outras abas já usam.
+    const porFrente = new Map();
+    mostrar.forEach((r) => {
+      const chave = r.doc.trilha + "::" + r.doc.frente;
+      if (!porFrente.has(chave)) porFrente.set(chave, { doc: r.doc, itens: [] });
+      porFrente.get(chave).itens.push(r);
+    });
+
+    porFrente.forEach((grupo) => {
+      const card = document.createElement("div");
+      card.className = "lesson-card";
+      card.innerHTML = `
+        <div class="lesson-eyebrow">${escapeHtml(grupo.doc.area || "")}</div>
+        <h3>${escapeHtml(grupo.doc.frenteNome || grupo.doc.frente)}
+          <span class="visit-badge">${grupo.itens.length}</span></h3>
+        <div class="questions"></div>
+      `;
+      const qc = card.querySelector(".questions");
+      grupo.itens.forEach((r, idx) => {
+        qc.appendChild(
+          renderQuestion(null, buscaSubtopicId(r.doc), r.doc.q, idx, undefined, undefined, true)
+        );
+      });
+      container.appendChild(card);
+    });
   }
 
   // Renderiza um bloco de subtema (gatilhos/pegadinhas/exemplo específicos de

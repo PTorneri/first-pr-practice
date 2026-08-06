@@ -38,7 +38,7 @@
      admin.html) — sem isso a correção leva até 10 minutos pra chegar em quem
      já visitou, e foi exatamente o que aconteceu na primeira publicação da
      reescrita das alternativas. -->
-<link rel="stylesheet" href="styles.css?v=11">
+<link rel="stylesheet" href="styles.css?v=13">
 </head>
 <body>
 <div id="app">
@@ -159,6 +159,7 @@
         <button class="tab-btn active" data-tab="hoje">Hoje</button>
         <button class="tab-btn" data-tab="calendario">Calendário (90 dias)</button>
         <button class="tab-btn" data-tab="simulados">Simulados</button>
+        <button class="tab-btn" data-tab="buscar">Buscar</button>
         <button class="tab-btn" data-tab="cards">Cards</button>
         <button class="tab-btn" data-tab="redacao">Redação</button>
         <button class="tab-btn" data-tab="obras">Obras</button>
@@ -208,6 +209,11 @@
       <!-- TAB: SIMULADOS -->
       <section id="tab-simulados" class="tab-panel">
         <div id="simulados-content"></div>
+      </section>
+
+      <!-- TAB: BUSCAR (questões por assunto, nas duas trilhas) -->
+      <section id="tab-buscar" class="tab-panel">
+        <div id="buscar-content"></div>
       </section>
 
       <!-- TAB: CARDS (flashcards com repetição espaçada) -->
@@ -268,9 +274,14 @@
      escolheu — só os dados daquela trilha entram no navegador. O conteúdo de
      Direito continua sendo o mesmo do v1: corrigir uma questão lá corrige nos
      dois apps. -->
-<script src="trilhas.js?v=11"></script>
-<script src="schedule.js?v=11"></script>
-<script src="app.js?v=11"></script>
-<script type="module" src="auth.js?v=11"></script>
+<script src="trilhas.js?v=13"></script>
+<script src="schedule.js?v=13"></script>
+<!-- Dicionário de assuntos da busca. Vive aqui, e não em data/ de uma trilha,
+     porque a taxonomia atravessa as duas: "crase" e "função quadrática" são o
+     mesmo assunto em Direito e em Medicina. Pôr em data/ obrigaria a duplicar
+     as listas de gramática, literatura, interpretação, inglês e matemática. -->
+<script src="assuntos.js?v=13"></script>
+<script src="app.js?v=13"></script>
+<script type="module" src="auth.js?v=13"></script>
 </body>
 </html>

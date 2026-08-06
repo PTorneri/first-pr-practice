@@ -138,7 +138,16 @@ $programa = [ordered]@{
       @{ n = "Noções gerais: intertextualidade";                t = @("intertextual","paródia","paráfrase","citaç") }
       @{ n = "Noções gerais: literatura e contexto histórico";  t = @("contexto histórico","formação da literatura","antonio candido","estilo de época") }
       @{ n = "Noções gerais: literatura e as outras artes";     t = @("outras artes","pintura","música","cinema","artes visuais") }
-      @{ n = "Literaturas africanas e portuguesa de língua portuguesa"; t = @("literatura portuguesa","angolan","moçambican","agualusa","mia couto","camões","pessoa","saramago") }
+      # ATENÇÃO: este item NÃO está no programa da FGV, que lista apenas
+      # "II - Literatura Brasileira", por período e autor. Fica medido porque o
+      # bloco de Linguagens da Insper se chama "Português e LiteraturaS", no
+      # plural, e pode alcançar as literaturas de língua portuguesa. Serve de
+      # inventário, não de meta.
+      #
+      # O termo "pessoa" foi retirado: casava com o substantivo comum e
+      # produzia 29 falsos positivos, inflando este item de 7 para 35 e me
+      # levando a tratar como redundância um conjunto que não existia.
+      @{ n = "(fora do programa FGV) Literaturas africanas e portuguesa"; t = @("literatura portuguesa","angolan","moçambican","agualusa","mia couto","camões","saramago","fernando pessoa","eça de queir","pepetela") }
     )
   }
   "Historia" = @{

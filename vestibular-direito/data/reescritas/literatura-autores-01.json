@@ -1,0 +1,439 @@
+{
+    "_comentario":  [
+                        "Fecha as 12 ausencias de autores de Literatura: os doze nomes que o programa",
+                        "oficial de 2027 lista e que nao tinham UMA questao no banco -- Jose de Alencar,",
+                        "Manuel Bandeira, Alcantara Machado, Jose Lins do Rego, Jorge Amado, Vinicius de",
+                        "Moraes, Joao Cabral, Nelson Rodrigues, Joao Ubaldo Ribeiro, Rubem Fonseca,",
+                        "Raduan Nassar e Chico Buarque. Quatro deles apareciam so em artes-cultura, e",
+                        "como DISTRATOR (\u0027e um traco definidor da obra de Jose de Alencar, e nao de",
+                        "Machado de Assis\u0027).",
+                        "",
+                        "O QUE SAIU, e por que a troca melhora duas coisas ao mesmo tempo. As 25",
+                        "substituidas eram todas do tipo \u0027Num poema, o eu lirico...\u0027 e \u0027Num conto, o",
+                        "narrador...\u0027: tecnica descrita no abstrato, sem ancora em autor nenhum. O banco",
+                        "tinha cerca de vinte e cinco delas, intercambiaveis entre si. Reconhecer",
+                        "procedimento e habilidade legitima e continua coberta pelas que ficaram; o",
+                        "excedente virou questao ancorada em obra do programa. Nenhuma das 30 questoes",
+                        "dos clusters da fase 10 foi tocada.",
+                        "",
+                        "SOBRE CITACAO. Nove dos doze autores estao sob direito autoral vigente no",
+                        "Brasil -- Bandeira morreu em 1968, Joao Cabral em 1999, Rubem Fonseca em 2020,",
+                        "e Raduan Nassar e Chico Buarque estao vivos. Nenhuma questao transcreve verso",
+                        "ou passagem: cada texto de apoio e um dossie escrito por mim, com data de",
+                        "publicacao, arquitetura da obra, procedimento narrativo e leitura critica",
+                        "consolidada. Para os tres de dominio publico (Alencar, Alcantara Machado) a",
+                        "regra seria dispensavel, mas foi mantida por consistencia e por exatidao:",
+                        "transcrever de memoria arrisca publicar citacao errada em material de estudo.",
+                        "",
+                        "Gabaritos: cada id conserva a letra que ja tinha, entao a frente segue em 30 de",
+                        "cada uma e os tres itens de formato excecao continuam sendo tres.",
+                        "",
+                        "CUIDADO COM CHUTABILIDADE. Literatura e a frente mais chutavel do banco: 21,3%,",
+                        "com 20,7% vindo do tell da alternativa mais longa. As alternativas destas 25",
+                        "foram escritas com comprimento proximo, e onde uma precisou ser maior a maior e",
+                        "sempre um DISTRATOR."
+                    ],
+    "subtopic":  "literatura",
+    "questoes":  [
+                     {
+                         "id":  "literatura-40",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "José de Alencar (1829–1877) organizou a própria obra como um projeto deliberado de literatura nacional, distribuído por frentes: os romances indianistas, que buscam na figura do indígena uma origem mítica para o país; os urbanos, ambientados na corte e voltados ao dinheiro e ao casamento; os regionalistas, que percorrem o sertão, o pampa e o litoral; e os históricos, situados no período colonial.",
+                         "enunciado":  "A distribuição da obra de Alencar por essas frentes revela, sobretudo,",
+                         "alternativas":  {
+                                              "a":  "a intenção de construir um repertório nacional cobrindo origem, presente urbano, interior e passado colonial.",
+                                              "b":  "a preferência do autor pelo romance urbano, tratado como forma superior às demais.",
+                                              "c":  "o abandono progressivo do Romantismo em direção aos procedimentos do Realismo.",
+                                              "d":  "a recusa de qualquer influência do romance europeu na construção das narrativas.",
+                                              "e":  "a decisão de escrever apenas sobre temas contemporâneos ao momento em que publicava, sem recorrer ao passado."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "As quatro frentes cobrem, juntas, uma origem mítica, o presente da corte, o interior do país e o passado colonial — isto é, um repertório com que uma literatura recém-nacional pudesse se apresentar como tal. A hierarquia entre as frentes não se sustenta, porque o autor trabalhou nas quatro em paralelo; a passagem ao Realismo é movimento da geração seguinte, de Machado em diante; o romance europeu, sobretudo o folhetim francês, é referência assumida e não recusada; e a presença dos ciclos histórico e indianista contradiz a ideia de tratar só do contemporâneo."
+                     },
+                     {
+                         "id":  "literatura-41",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Em Senhora (1875), de José de Alencar, Aurélia Camargo recebe uma herança inesperada e passa a dispor de fortuna considerável. Ela descobre que Fernando Seixas, que havia rompido o noivado com ela para casar-se com quem lhe oferecesse dote maior, está disponível no mercado matrimonial. Aurélia então negocia, por intermediários e sem se revelar, a compra desse casamento, e passa a tratar o marido como alguém que recebeu pagamento.",
+                         "enunciado":  "A inversão promovida por Aurélia produz, no romance, o efeito de",
+                         "alternativas":  {
+                                              "a":  "confirmar a naturalidade do dote, ao mostrar que ele funciona igualmente bem nos dois sentidos.",
+                                              "b":  "deslocar o conflito do terreno econômico para o da incompatibilidade de temperamentos entre os dois.",
+                                              "c":  "expor como transação comercial aquilo que a sociedade da corte apresentava como união afetiva.",
+                                              "d":  "eliminar o interesse material da trama, uma vez que a herança resolve a questão do dinheiro.",
+                                              "e":  "transferir a responsabilidade pelo rompimento inicial do noivado para a própria protagonista."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Ao pagar pelo marido e cobrar dele o cumprimento do contrato, Aurélia obriga o leitor a ver o casamento pelo que o mercado de dotes já fazia dele — uma compra —, só que agora com os papéis trocados e com o preço dito em voz alta. Dizer que a inversão naturaliza o dote ignora que ela o torna escandaloso; o conflito permanece econômico do começo ao fim; a herança não elimina o interesse material, é o que permite exercê-lo; e o rompimento inicial partiu de Seixas, movido justamente pelo dote."
+                     },
+                     {
+                         "id":  "literatura-42",
+                         "banca":  "fgv",
+                         "formato":  "excecao",
+                         "texto_apoio":  "Iracema (1865), de José de Alencar, traz o subtítulo \"lenda do Ceará\" e narra o encontro entre a indígena Iracema e o português Martim, de que nasce Moacir, apresentado como o primeiro cearense. A prosa é trabalhada com cortes curtos, comparações extraídas da natureza e vocabulário de origem indígena, e o próprio autor anexou ao livro notas explicando a etimologia dos nomes.",
+                         "enunciado":  "O texto sustenta todas as afirmações a seguir sobre Iracema, EXCETO:",
+                         "alternativas":  {
+                                              "a":  "A narrativa reconstitui, com fidelidade documental, um episódio comprovado da colonização do Ceará.",
+                                              "b":  "O nascimento de Moacir funciona como imagem da origem mestiça de uma região.",
+                                              "c":  "A construção da prosa aproxima-se de procedimentos associados à poesia.",
+                                              "d":  "O autor tratou o vocabulário indígena como matéria a ser explicada ao leitor.",
+                                              "e":  "O subtítulo filia a narrativa ao registro da lenda, e não ao da crônica histórica."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O subtítulo anuncia lenda, e lenda é justamente o que dispensa comprovação documental — o livro constrói um mito de origem, não um relato de arquivo. As demais estão sustentadas pelo texto: o subtítulo filia a obra ao registro lendário; Moacir é apresentado como o primeiro cearense, o que faz dele figura da origem mestiça; os cortes curtos e as comparações tiradas da natureza aproximam a prosa da poesia; e as notas etimológicas anexadas mostram o autor tratando o vocabulário indígena como matéria a explicar."
+                     },
+                     {
+                         "id":  "literatura-46",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Em Libertinagem (1930), Manuel Bandeira reuniu poemas em verso livre, com sintaxe da fala e assuntos do dia a dia — um endereço, uma notícia de jornal, uma lembrança de infância, uma doença. O livro inclui um poema de caráter programático em que o eu lírico declara-se saturado do lirismo contido e bem-educado e reivindica, contra ele, o lirismo dos desequilibrados e dos embriagados.",
+                         "enunciado":  "Esse poema programático cumpre, no conjunto do livro, a função de",
+                         "alternativas":  {
+                                              "a":  "anunciar o retorno às formas fixas e ao vocabulário elevado da tradição parnasiana.",
+                                              "b":  "restringir o alcance do livro aos poemas de tema autobiográfico e familiar.",
+                                              "c":  "demonstrar que o verso livre só se justifica quando trata de assuntos graves.",
+                                              "d":  "declarar que a poesia deve manter-se afastada da linguagem falada e do cotidiano.",
+                                              "e":  "explicitar o critério estético que o restante do livro põe em prática."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O poema enuncia o que os demais executam: recusa do decoro formal, adesão ao verso livre e admissão do assunto trivial e da fala como matéria poética. Anunciar retorno às formas fixas é o oposto do que ele faz, e o Parnasianismo é justamente o alvo; restringir o livro ao autobiográfico contraria a variedade de assuntos descrita; exigir tema grave para o verso livre inverte o programa, que legitima o trivial; e afastar-se da linguagem falada é o que o livro abandona."
+                     },
+                     {
+                         "id":  "literatura-47",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Um dos poemas mais conhecidos de Manuel Bandeira constrói um lugar imaginário, cujo nome o poeta tomou de uma antiga cidade persa, para onde o eu lírico declara que vai embora. Nesse lugar ele teria a amizade do rei, obteria o que quisesse, e tudo aquilo que na vida real lhe é vedado — pela doença, pela pobreza, pela convenção — seria permitido.",
+                         "enunciado":  "A construção desse lugar imaginário funciona no poema como",
+                         "alternativas":  {
+                                              "a":  "reconstituição precisa de uma cidade histórica, com finalidade documental.",
+                                              "b":  "convite ao leitor para que abandone o país em que vive e emigre.",
+                                              "c":  "descrição de um lugar que o eu lírico afirma ter visitado na juventude.",
+                                              "d":  "prova de que o poeta rejeitava a matéria cotidiana como assunto de poesia.",
+                                              "e":  "medida do que falta na vida real, formulada pelo avesso."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O lugar imaginário é desenhado item por item como negativo da experiência concreta: cada permissão que ele oferece corresponde a uma privação que existe fora dele, e é por isso que o poema fala da vida real ao descrever um lugar que não existe. A reconstituição documental não se sustenta, porque o nome é apropriado e não pesquisado; não há convite à emigração, e o destino é inexistente; nada indica visita anterior; e a matéria cotidiana é exatamente o que o poema mobiliza, e não o que recusa."
+                     },
+                     {
+                         "id":  "literatura-49",
+                         "banca":  "fgv",
+                         "formato":  "excecao",
+                         "texto_apoio":  "A poesia de Manuel Bandeira costuma ser caracterizada por um conjunto de traços: verso livre ao lado de formas fixas retomadas com liberdade, dicção próxima da conversa, humor que convive com a melancolia, assuntos extraídos da vida comum e presença recorrente da doença e da morte tratadas sem solenidade.",
+                         "enunciado":  "As alternativas apresentam traços dessa poesia, EXCETO:",
+                         "alternativas":  {
+                                              "a":  "A convivência entre o verso livre e formas fixas retomadas sem rigidez.",
+                                              "b":  "O tom de conversa, próximo da linguagem falada.",
+                                              "c":  "A presença da morte tratada sem gravidade cerimoniosa.",
+                                              "d":  "A adesão sistemática ao vocabulário raro e à sintaxe invertida como marca de estilo.",
+                                              "e":  "A escolha de assuntos extraídos da experiência cotidiana."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Vocabulário raro e sintaxe invertida são marcas do Parnasianismo, e a dicção de conversa descrita no texto vai na direção contrária. As demais estão no próprio conjunto de traços apresentado: o verso livre convivendo com formas fixas retomadas com liberdade, o tom coloquial, a morte tratada sem solenidade e o assunto tirado da vida comum."
+                     },
+                     {
+                         "id":  "literatura-50",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "A poesia de João Cabral de Melo Neto (1920–1999) é frequentemente descrita como obra de construção: o poeta trabalha por corte e ajuste, prefere a imagem mineral — pedra, faca, osso, cal — à imagem sentimental, e submete o poema a um rigor que ele próprio comparava ao ofício do engenheiro. A emoção não é confessada; ela resulta da disposição exata dos elementos.",
+                         "enunciado":  "Essa concepção de poesia implica que",
+                         "alternativas":  {
+                                              "a":  "o poema deva registrar a emoção no instante em que ela ocorre, sem revisão posterior.",
+                                              "b":  "a matéria do poema seja necessariamente abstrata, sem referência ao mundo concreto.",
+                                              "c":  "o efeito do poema venha da precisão da forma, e não da declaração do sentimento.",
+                                              "d":  "a poesia deva evitar qualquer assunto de ordem social ou coletiva.",
+                                              "e":  "o poeta rejeite a imagem como recurso, substituindo-a pela argumentação direta."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Se a emoção não é confessada e resulta da disposição exata dos elementos, o que produz o efeito é o acabamento formal, não a declaração. Registrar a emoção no instante, sem revisão, descreve o oposto do trabalho por corte e ajuste; a matéria é intensamente concreta, e pedra, faca e osso são justamente objetos; o assunto social ocupa parte central da obra, como no caso do retirante nordestino; e a imagem é o recurso privilegiado, não algo substituído pela argumentação."
+                     },
+                     {
+                         "id":  "literatura-117",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Morte e Vida Severina (1955), de João Cabral de Melo Neto, traz o subtítulo \"auto de Natal pernambucano\". Acompanha Severino, retirante que desce o curso do rio Capibaribe em direção ao Recife, encontrando pelo caminho uma sucessão de mortes. A forma retoma o auto popular e o romanceiro, com versos curtos, rima toante e estrutura de diálogo, e o nome do protagonista é comum a muitos outros trabalhadores da região.",
+                         "enunciado":  "A escolha da forma do auto popular, e não do poema lírico em primeira pessoa, produz o efeito de",
+                         "alternativas":  {
+                                              "a":  "afastar o poema das questões sociais, ao filiá-lo a uma tradição religiosa.",
+                                              "b":  "restringir o alcance da obra ao público erudito familiarizado com essa tradição.",
+                                              "c":  "apresentar a trajetória do retirante como caso coletivo, e não como drama individual.",
+                                              "d":  "indicar que os acontecimentos narrados pertencem a um passado remoto.",
+                                              "e":  "garantir que o protagonista alcance, ao final, a superação de sua condição."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O auto popular é forma comunitária, feita para ser dita e ouvida em grupo, e o nome comum a muitos trabalhadores reforça que Severino é um entre tantos — a soma das duas escolhas converte a história em condição partilhada, não em caso particular. A tradição do auto é o que aproxima o poema do público popular, e não o que o afasta dele ou o entrega ao leitor erudito; nada situa a ação num passado remoto; e a sucessão de mortes no percurso desautoriza a leitura de superação final."
+                     },
+                     {
+                         "id":  "literatura-119",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Comparam-se duas atitudes possíveis diante de um mesmo assunto, a seca e a miséria do interior nordestino. Numa delas, o poeta declara a própria comoção diante do sofrimento alheio e organiza o poema em torno desse sentimento. Na outra — a de João Cabral —, a comoção não é dita: o poema descreve com exatidão o que existe, escolhe imagens duras e deixa que o efeito se produza no leitor.",
+                         "enunciado":  "A segunda atitude caracteriza-se por",
+                         "alternativas":  {
+                                              "a":  "transferir ao leitor a reação que o poema se recusa a enunciar.",
+                                              "b":  "eliminar o assunto social, uma vez que ele exigiria comoção declarada.",
+                                              "c":  "supor que a exatidão descritiva impede qualquer efeito emocional sobre quem lê.",
+                                              "d":  "adotar o vocabulário do sentimentalismo romântico para tratar de tema contemporâneo.",
+                                              "e":  "concluir que o sofrimento retratado não comporta tratamento literário algum."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Ao descrever sem comentar, o poema recusa fazer pelo leitor o trabalho de se comover, e é justamente essa contenção que devolve a ele a reação. Eliminar o assunto social contraria o fato de a seca ser a matéria do poema; supor que a exatidão bloqueia o efeito inverte o resultado, porque é dela que o efeito nasce; o vocabulário sentimental é o que a atitude descarta; e afirmar que o tema não comporta literatura contradiz a existência da obra."
+                     },
+                     {
+                         "id":  "literatura-120",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "A obra de Jorge Amado (1912–2001) costuma ser dividida em dois momentos. No primeiro, dos anos 1930 e 1940, predominam o romance de denúncia social, o conflito de classe no cacau baiano e a figura do trabalhador explorado; um dos livros desse período teve exemplares queimados em praça pública em 1937. No segundo, a partir dos anos 1950, ganham espaço a comédia de costumes, o humor, a sensualidade e as festas populares.",
+                         "enunciado":  "A passagem do primeiro para o segundo momento pode ser descrita como",
+                         "alternativas":  {
+                                              "a":  "abandono do cenário baiano em favor de ambientes urbanos do Centro-Sul do país.",
+                                              "b":  "substituição da prosa de ficção pela produção de ensaios de intervenção política.",
+                                              "c":  "deslocamento da denúncia direta para a celebração da cultura popular, sem troca de região.",
+                                              "d":  "recusa do público amplo em favor de uma literatura destinada a leitores especializados.",
+                                              "e":  "retorno aos procedimentos do Naturalismo do século XIX, com ênfase no determinismo racial."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O texto indica troca de tom e de foco — da denúncia de classe para a comédia de costumes, o humor e a festa —, mantendo a Bahia como território das duas fases. O abandono do cenário baiano não ocorre; a ficção continua sendo a forma principal; o alcance de público cresce em vez de diminuir na segunda fase; e o determinismo racial naturalista não corresponde a nenhum dos dois momentos descritos."
+                     },
+                     {
+                         "id":  "literatura-121",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Capitães da Areia (1937), de Jorge Amado, acompanha um grupo de meninos que vivem sem família num trapiche abandonado em Salvador e sobrevivem de furtos. O livro abre com recortes de jornal e uma carta que tratam do grupo como caso de polícia, e só depois passa a narrar a vida dos meninos por dentro, dando nome, história e afeto a cada um.",
+                         "enunciado":  "A decisão de abrir o romance com os documentos jornalísticos produz o efeito de",
+                         "alternativas":  {
+                                              "a":  "confirmar a versão policial, que a narrativa seguinte se encarrega de comprovar.",
+                                              "b":  "situar a ação num tempo anterior ao da publicação do livro.",
+                                              "c":  "contrapor o olhar externo que os trata como ameaça ao relato que lhes devolve história própria.",
+                                              "d":  "reduzir os meninos à condição de personagens secundários da trama.",
+                                              "e":  "indicar que a obra deve ser lida como reportagem, e não como ficção."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Os documentos apresentam os meninos como problema de segurança pública, e o romance faz o movimento contrário ao narrá-los por dentro — o contraste entre as duas versões é o que o arranjo constrói. Confirmar a versão policial é o oposto do que ocorre; o tempo dos recortes é o mesmo da ação; os meninos são os protagonistas, e não figuras secundárias; e a moldura documental serve à ficção, sem transformar o livro em reportagem."
+                     },
+                     {
+                         "id":  "literatura-122",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "José Lins do Rego (1901–1957) escreveu um conjunto de romances conhecido como ciclo da cana-de-açúcar, iniciado com Menino de Engenho (1932). As obras acompanham o mundo dos engenhos da Paraíba e de Pernambuco em declínio, substituídos pelas usinas, e são narradas em tom de memória, com sintaxe próxima da fala e presença constante do repertório oral — histórias de assombração, cantigas, causos de cangaço.",
+                         "enunciado":  "O conjunto desses traços permite afirmar que o ciclo",
+                         "alternativas":  {
+                                              "a":  "trata a decadência do engenho como assunto exclusivamente econômico, sem dimensão afetiva.",
+                                              "b":  "adota a linguagem culta e a sintaxe elaborada como marca de distância em relação ao mundo narrado.",
+                                              "c":  "situa a ação em ambiente urbano, tomando o engenho apenas como lembrança distante.",
+                                              "d":  "recusa o repertório oral por considerá-lo incompatível com a forma do romance.",
+                                              "e":  "registra o desaparecimento de um mundo social e o faz pela voz de quem o viveu."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O tom de memória, a sintaxe da fala e a presença das histórias contadas colocam a narração do lado de dentro do mundo que acaba, e é essa combinação que faz do ciclo um registro em primeira pessoa de um desaparecimento. Tratar a decadência como assunto só econômico ignora o tom memorialístico; a linguagem culta e distante é o oposto da descrita; a ação se passa no próprio engenho; e o repertório oral é incorporado, não recusado."
+                     },
+                     {
+                         "id":  "literatura-123",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Fogo Morto (1943), de José Lins do Rego, divide-se em três partes, cada uma centrada numa figura: um mestre seleiro que trabalha por conta própria e enlouquece, o proprietário de um engenho em ruína e um capitão da guarda nacional que se comporta como se ainda houvesse autoridade a exercer. As três trajetórias se cruzam no mesmo território, e nenhuma delas alcança recuperação.",
+                         "enunciado":  "A divisão do romance em três partes, cada uma com seu protagonista, serve para",
+                         "alternativas":  {
+                                              "a":  "sugerir que apenas uma das três posições sociais foi afetada pelo declínio do engenho.",
+                                              "b":  "estabelecer uma hierarquia entre as personagens, indicando qual delas conduz a narrativa.",
+                                              "c":  "indicar que as três trajetórias são independentes e não se comunicam entre si.",
+                                              "d":  "separar três tempos históricos sucessivos, cada um retratado numa das partes.",
+                                              "e":  "compor a decadência de um mundo mostrando-a simultaneamente em três posições sociais distintas."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Artesão, proprietário e representante da autoridade ocupam lugares diferentes na mesma estrutura, e narrar os três em declínio mostra que o que acaba não é uma vida, e sim o arranjo social que sustentava as três. Isolar o declínio numa só posição contraria a escolha das três; não há hierarquia entre elas, o que é justamente o efeito da divisão em partes iguais; o tempo é comum às três, e não sucessivo; e o texto afirma que as trajetórias se cruzam."
+                     },
+                     {
+                         "id":  "literatura-124",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "A poesia de Vinícius de Moraes (1913–1980) é habitualmente dividida em duas fases. Na primeira, dos anos 1930, predominam o tom solene, o vocabulário religioso e a aspiração a um plano transcendente. Na segunda, a partir do final da década, o poeta volta-se para o corpo, o amor concreto, a cidade e o encontro amoroso tratado sem idealização, mantendo às vezes formas fixas como o soneto.",
+                         "enunciado":  "A passagem de uma fase a outra caracteriza-se por",
+                         "alternativas":  {
+                                              "a":  "abandono definitivo das formas fixas em favor exclusivo do verso livre.",
+                                              "b":  "substituição do tema amoroso pelo tema social e político.",
+                                              "c":  "deslocamento da aspiração transcendente para a experiência concreta e corporal.",
+                                              "d":  "retorno ao vocabulário religioso, agora usado com intenção satírica.",
+                                              "e":  "recusa da cidade como assunto, em favor da paisagem rural."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O texto opõe termo a termo: de um lado solenidade, vocabulário religioso e plano transcendente; do outro corpo, amor concreto e cidade. O abandono das formas fixas não ocorre, e o próprio texto registra a permanência do soneto; o tema amoroso não é substituído, e sim reformulado; o vocabulário religioso pertence à primeira fase e não retorna como sátira; e a cidade entra na segunda fase em vez de sair."
+                     },
+                     {
+                         "id":  "literatura-126",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Um dos sonetos mais conhecidos de Vinícius de Moraes, publicado em 1939, mantém a estrutura fixa de quatorze versos e o metro regular da tradição, mas emprega vocabulário corrente e sintaxe de conversa, e trata do amor como algo intenso justamente porque tem fim — não como sentimento eterno.",
+                         "enunciado":  "A combinação entre forma fixa tradicional e dicção coloquial, nesse soneto, indica que",
+                         "alternativas":  {
+                                              "a":  "o poeta pretendia demonstrar domínio técnico, sem interesse pelo assunto tratado.",
+                                              "b":  "a forma fixa foi mantida por exigência editorial, contra a vontade do autor.",
+                                              "c":  "o soneto perde, nesse caso, sua condição de forma fixa.",
+                                              "d":  "o Modernismo brasileiro havia restaurado integralmente a métrica parnasiana.",
+                                              "e":  "a tradição formal podia ser ocupada por uma linguagem moderna sem ser abandonada."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O poema conserva o molde herdado e o preenche com fala contemporânea, o que mostra que a ruptura modernista não obrigava a destruir a forma antiga: dava para habitá-la de outro modo. A tese do exercício técnico sem interesse pelo tema não se sustenta diante do tratamento dado ao amor; a exigência editorial não é mencionada; contar quatorze versos e metro regular é o que define a forma fixa, que portanto permanece; e restauração integral da métrica parnasiana contraria a dicção coloquial descrita."
+                     },
+                     {
+                         "id":  "literatura-127",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Vestido de Noiva (1943), de Nelson Rodrigues, é considerado um marco do teatro moderno brasileiro. A peça se passa em três planos que se alternam sem transição: o da realidade, o da memória e o da alucinação da protagonista, atropelada e agonizante. A montagem original, dirigida por Zbigniew Ziembinski, usou iluminação e divisão do palco para sustentar essa simultaneidade.",
+                         "enunciado":  "A organização da peça em três planos simultâneos representou uma ruptura porque",
+                         "alternativas":  {
+                                              "a":  "eliminou o texto escrito, deixando a cena inteiramente a cargo da improvisação dos atores.",
+                                              "b":  "abandonou a sucessão linear dos acontecimentos como princípio de organização da cena.",
+                                              "c":  "transferiu a ação para o ambiente rural, até então ausente do teatro brasileiro.",
+                                              "d":  "restringiu a peça a um único ambiente e a um único tempo, ao modo do teatro clássico.",
+                                              "e":  "dispensou a figura do diretor, cuja função passou a ser exercida pelo autor."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Fazer realidade, memória e alucinação coexistirem no mesmo palco desmonta o encadeamento linear em que o teatro brasileiro então se apoiava, e exige da cena recursos — luz, divisão do espaço — para sustentar o que a cronologia não sustenta mais. O texto escrito continua central, o que exclui a improvisação; o ambiente é urbano; a unidade de tempo e lugar é justamente o que se rompe; e o papel do diretor foi decisivo na montagem, e não dispensado."
+                     },
+                     {
+                         "id":  "literatura-128",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Nelson Rodrigues chamou parte de sua produção de teatro desagradável. Suas peças põem em cena desejo, hipocrisia familiar, violência doméstica e traição em ambientes de classe média urbana, tratando como matéria comum aquilo que o público preferia manter fora da sala de espetáculo. A recepção foi frequentemente de escândalo, e várias peças enfrentaram censura.",
+                         "enunciado":  "A expressão teatro desagradável, aplicada a essa produção, indica que",
+                         "alternativas":  {
+                                              "a":  "o autor considerava suas peças tecnicamente malfeitas.",
+                                              "b":  "as peças eram destinadas a um público restrito de especialistas.",
+                                              "c":  "o desconforto do espectador resultava de falha na construção dramática.",
+                                              "d":  "o incômodo provocado era condição do que as peças se propunham a mostrar.",
+                                              "e":  "o autor pretendia agradar ao público, sem conseguir."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Se o assunto é o que a plateia preferia não ver, então o desconforto não é efeito colateral: é o meio pelo qual a peça alcança seu objeto. Julgar as peças malfeitas confunde a avaliação técnica com o efeito pretendido; o escândalo indica público amplo, e não restrito; atribuir o incômodo a falha de construção inverte a intenção declarada; e a hipótese de querer agradar contraria a própria expressão escolhida pelo autor."
+                     },
+                     {
+                         "id":  "literatura-129",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Brás, Bexiga e Barra Funda (1927), de Antônio de Alcântara Machado, reúne narrativas curtas ambientadas em bairros de São Paulo habitados por imigrantes italianos e seus descendentes. Os títulos nomeiam bairros, as personagens têm sobrenome italiano e o texto incorpora a mistura de português e italiano falada nas ruas, tratando com ironia as ambições de ascensão social dessas famílias.",
+                         "enunciado":  "A incorporação dessa fala mista ao texto literário, em 1927, alinha-se ao Modernismo porque",
+                         "alternativas":  {
+                                              "a":  "recupera a norma culta como critério de correção da língua escrita.",
+                                              "b":  "demonstra que a literatura brasileira deveria adotar modelos europeus contemporâneos.",
+                                              "c":  "assume a língua efetivamente falada no país como matéria legítima de literatura.",
+                                              "d":  "restringe o alcance da obra aos leitores de origem italiana.",
+                                              "e":  "trata o imigrante como figura exótica, à maneira do Romantismo indianista."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Uma das rupturas centrais do Modernismo de 1922 foi admitir a fala brasileira — com sua sintaxe, seus regionalismos e, aqui, sua mistura com o italiano — no lugar da língua literária herdada, e é exatamente isso que o livro faz. Recuperar a norma culta é o oposto do procedimento; adotar modelos europeus contraria o projeto de língua própria; a obra se dirige ao público geral; e a ironia sobre a ascensão social afasta o tratamento exótico à maneira indianista."
+                     },
+                     {
+                         "id":  "literatura-130",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Viva o Povo Brasileiro (1984), de João Ubaldo Ribeiro, percorre mais de três séculos de história do Brasil, da Bahia colonial ao século XX. A narrativa se organiza por muitas vozes e episódios descontínuos, e acompanha sobretudo personagens sem poder — escravizados, soldados rasos, gente pobre do Recôncavo — enquanto os grandes nomes da história oficial aparecem de passagem ou vistos de baixo.",
+                         "enunciado":  "Essa escolha de perspectiva produz, no romance, o efeito de",
+                         "alternativas":  {
+                                              "a":  "confirmar a narrativa oficial da formação nacional, agora com maior riqueza de detalhes.",
+                                              "b":  "reescrever a formação do país a partir de quem nela não teve voz registrada.",
+                                              "c":  "restringir a obra ao século XIX, período em que se concentram os episódios narrados.",
+                                              "d":  "eliminar a dimensão histórica, tratando as personagens fora de qualquer tempo determinado.",
+                                              "e":  "apresentar a história do Brasil como sucessão ordenada de feitos de grandes homens."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Colocar escravizados, soldados rasos e pobres no centro, e os nomes oficiais na margem, inverte o critério pelo qual a história nacional costuma ser contada — e as muitas vozes fazem dessa inversão um princípio de construção, não um detalhe. Confirmar a narrativa oficial é o contrário do resultado; o recorte temporal ultrapassa três séculos; a dimensão histórica é o próprio assunto; e a sucessão de feitos de grandes homens é justamente o modelo recusado."
+                     },
+                     {
+                         "id":  "literatura-131",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Em Viva o Povo Brasileiro, a narração salta entre séculos, muda de personagem sem aviso e alterna registros — o relato oral, o documento, a cena de batalha, a conversa doméstica. Não há um protagonista único que atravesse o livro do início ao fim, e episódios separados por muitas décadas são apresentados lado a lado.",
+                         "enunciado":  "Essa construção descontínua é coerente com o projeto do romance porque",
+                         "alternativas":  {
+                                              "a":  "a formação de um povo não se resolve numa trajetória individual, e sim em muitas, ao longo do tempo.",
+                                              "b":  "a ausência de protagonista indica que o autor não conseguiu definir um foco narrativo.",
+                                              "c":  "a alternância de registros tem finalidade apenas decorativa, sem relação com o assunto.",
+                                              "d":  "o salto entre séculos serve para evitar o tratamento de temas históricos controversos.",
+                                              "e":  "a descontinuidade demonstra que o romance recusa qualquer referência ao Brasil real."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Se o objeto é a formação de um povo, e não a vida de uma pessoa, então a forma precisa comportar muitas vidas e muitos tempos — a descontinuidade não é obstáculo ao assunto, é o modo de alcançá-lo. Ler a ausência de protagonista como falha de foco ignora essa coerência; a alternância de registros acompanha a variedade das vozes, e não decora; o salto entre séculos aproxima os temas históricos em vez de evitá-los; e o Brasil real é a referência permanente do livro."
+                     },
+                     {
+                         "id":  "literatura-132",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "A ficção urbana de Rubem Fonseca (1925–2020) é frequentemente associada ao que a crítica chamou de brutalismo. Seus contos e romances tratam da violência das grandes cidades brasileiras em prosa seca, com frases curtas, diálogo cortado e pouca descrição, e com frequência entregam a narração em primeira pessoa a quem comete o crime, sem que o texto comente ou julgue.",
+                         "enunciado":  "A decisão de narrar pela voz de quem comete o crime, sem comentário do texto, produz o efeito de",
+                         "alternativas":  {
+                                              "a":  "atenuar a violência narrada, ao apresentá-la do ponto de vista de quem a pratica.",
+                                              "b":  "obrigar o leitor a formular sozinho o julgamento que a narrativa se recusa a oferecer.",
+                                              "c":  "transformar a obra em documento jurídico, com finalidade de prova.",
+                                              "d":  "indicar que o autor endossa as ações praticadas pelas personagens.",
+                                              "e":  "deslocar o interesse do livro para a psicologia das vítimas."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Sem instância que condene, o leitor perde o apoio que a narrativa moralizante costuma oferecer e tem de decidir por conta própria — o desconforto que resulta disso é parte do procedimento. A atenuação não ocorre, porque a proximidade com quem age torna a cena mais dura, não menos; documento jurídico é gênero alheio à ficção; ausência de julgamento no texto não equivale a endosso do autor; e as vítimas não são o foco dessa construção."
+                     },
+                     {
+                         "id":  "literatura-133",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "O livro de contos Feliz Ano Novo, de Rubem Fonseca, foi publicado em 1975 e proibido no ano seguinte por decisão do Ministério da Justiça, sob alegação de ofensa à moral e aos bons costumes. Os contos tratam de desigualdade urbana e violência sem eufemismo, e em vários deles o crime é praticado por personagens que explicam com naturalidade o que fazem.",
+                         "enunciado":  "A proibição do livro em 1976 permite observar que",
+                         "alternativas":  {
+                                              "a":  "a violência urbana era tema inédito na literatura brasileira até aquele momento.",
+                                              "b":  "o livro havia sido escrito com a intenção declarada de obter a proibição.",
+                                              "c":  "a censura do período reagia à forma de tratar o assunto, e não apenas ao assunto em si.",
+                                              "d":  "a censura da ditadura militar restringia-se a obras de conteúdo político explícito.",
+                                              "e":  "o autor abandonou o gênero conto depois do episódio."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A alegação foi de ofensa à moral, e o que os contos fazem é retirar o eufemismo com que a desigualdade e a violência costumavam ser tratadas: o incômodo veio do modo, e não apenas da matéria. A intenção de ser proibido não é sustentada por nada no texto; a violência urbana já comparecia na literatura brasileira anterior; o episódio mostra a censura alcançando o costume além da política; e o autor seguiu publicando contos depois disso."
+                     },
+                     {
+                         "id":  "literatura-134",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Lavoura Arcaica (1975), de Raduan Nassar, narra o retorno de um filho à fazenda da família, de origem libanesa, governada pela palavra do pai e por sermões sobre trabalho, tempo e obediência. A prosa é feita de períodos muito longos, com ritmo de salmo e vocabulário de tom bíblico, e o conflito central envolve o desejo do filho por sua irmã.",
+                         "enunciado":  "A adoção de uma prosa de períodos longos e ritmo litúrgico, nesse romance, cumpre a função de",
+                         "alternativas":  {
+                                              "a":  "situar a narrativa num passado histórico determinado, identificável por documentos.",
+                                              "b":  "reproduzir na própria linguagem a autoridade da palavra paterna que a trama contesta.",
+                                              "c":  "facilitar a leitura, ao aproximar o texto da conversa cotidiana.",
+                                              "d":  "indicar que a família narrada professa uma religião específica, tema central do livro.",
+                                              "e":  "atenuar o conflito familiar, revestindo-o de tom solene e distante."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O sermão é a forma da lei do pai, e escrever o romance nesse mesmo ritmo faz a linguagem carregar o peso da autoridade contra a qual o filho se volta — a forma encena o conflito em vez de apenas relatá-lo. A ancoragem em passado documentável não é o efeito de um estilo litúrgico; períodos longos dificultam, não facilitam a leitura; o tom bíblico é recurso de linguagem e não descrição de prática religiosa; e o solene intensifica o conflito em lugar de atenuá-lo."
+                     },
+                     {
+                         "id":  "literatura-135",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Leite Derramado (2009), de Chico Buarque, é narrado por um homem de mais de cem anos, deitado num leito de hospital, que conta a história de sua família a quem quiser ouvir — enfermeiras, filha, visitantes. Ele pertence a uma linhagem patriarcal outrora poderosa e em ruína, repete os mesmos episódios com variações, contradiz-se, e insiste na antiguidade do sobrenome.",
+                         "enunciado":  "A escolha de um narrador nessas condições produz o efeito de",
+                         "alternativas":  {
+                                              "a":  "garantir a exatidão do relato, dada a extensão da experiência acumulada.",
+                                              "b":  "restringir a narrativa ao presente do hospital, sem alcance histórico.",
+                                              "c":  "eliminar o tema da decadência familiar, substituído pelo da doença.",
+                                              "d":  "fazer da própria decadência da narrativa a imagem da decadência da família e de sua classe.",
+                                              "e":  "assegurar que os episódios narrados sejam confirmados por outras personagens."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Um relato que se repete, se contradiz e se agarra ao sobrenome funciona como a linhagem que descreve: o modo de contar entra em ruína junto com o que é contado. A extensão da experiência não garante exatidão, e as contradições provam o contrário; a memória leva a narrativa muito além do quarto de hospital; a decadência familiar é o assunto, e não algo substituído; e nenhuma personagem confirma os episódios, o que é parte do problema."
+                     },
+                     {
+                         "id":  "literatura-136",
+                         "banca":  "fgv",
+                         "formato":  "excecao",
+                         "texto_apoio":  "Budapeste (2003), de Chico Buarque, tem como protagonista um escritor que ganha a vida redigindo textos assinados por outras pessoas, ofício em que se apaga por profissão. Depois de uma escala imprevista, ele passa a dividir a vida entre duas cidades e duas línguas, e a narrativa constrói uma série de duplicações — de nome, de mulher, de livro, de identidade.",
+                         "enunciado":  "O texto sustenta todas as afirmações a seguir sobre o romance, EXCETO:",
+                         "alternativas":  {
+                                              "a":  "O protagonista alcança, ao longo do romance, o reconhecimento público de sua obra sob o próprio nome.",
+                                              "b":  "A duplicação organiza a construção da narrativa em mais de um plano.",
+                                              "c":  "A convivência entre duas línguas integra a experiência do protagonista.",
+                                              "d":  "A perda de assinatura é apresentada como condição profissional, e não como acidente.",
+                                              "e":  "O ofício do protagonista consiste em escrever textos que outros assinam."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O ofício descrito consiste exatamente em não assinar, e o romance trabalha essa condição como problema permanente — reconhecimento sob o próprio nome contraria a premissa. As demais estão sustentadas: o protagonista escreve textos que outros assinam; as duplicações de nome, mulher, livro e identidade organizam a narrativa; as duas línguas integram sua experiência; e o apagamento é apresentado como parte do ofício, não como acidente."
+                     }
+                 ]
+}

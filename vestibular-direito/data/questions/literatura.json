@@ -660,48 +660,51 @@
                      },
                      {
                          "id":  "literatura-40",
-                         "texto_apoio":  "Num conto contemporâneo, a narração em primeira pessoa é feita por alguém que participou dos fatos e cujo interesse na versão apresentada é evidente para o leitor.",
-                         "enunciado":  "Diante desse arranjo, a leitura adequada exige que o leitor",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "José de Alencar (1829–1877) organizou a própria obra como um projeto deliberado de literatura nacional, distribuído por frentes: os romances indianistas, que buscam na figura do indígena uma origem mítica para o país; os urbanos, ambientados na corte e voltados ao dinheiro e ao casamento; os regionalistas, que percorrem o sertão, o pampa e o litoral; e os históricos, situados no período colonial.",
+                         "enunciado":  "A distribuição da obra de Alencar por essas frentes revela, sobretudo,",
                          "alternativas":  {
-                                              "a":  "procure no texto marcas explícitas em que o narrador confesse ter mentido",
-                                              "b":  "conclua que o conto é falho, por não dispor de narrador onisciente",
-                                              "c":  "aceite o relato como verdade estabelecida, já que provém de testemunha direta",
-                                              "d":  "considere o relato como uma versão entre outras possíveis, avaliando o que o interesse do narrador pode ter moldado",
-                                              "e":  "descarte a narração e reconstrua os fatos apenas pelos diálogos"
+                                              "a":  "a intenção de construir um repertório nacional cobrindo origem, presente urbano, interior e passado colonial.",
+                                              "b":  "a preferência do autor pelo romance urbano, tratado como forma superior às demais.",
+                                              "c":  "o abandono progressivo do Romantismo em direção aos procedimentos do Realismo.",
+                                              "d":  "a recusa de qualquer influência do romance europeu na construção das narrativas.",
+                                              "e":  "a decisão de escrever apenas sobre temas contemporâneos ao momento em que publicava, sem recorrer ao passado."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Testemunha direta não é sinônimo de testemunha isenta — é o contrário: quem participou tem o que perder. A leitura produtiva não busca a confissão da mentira, e sim avalia o que a posição do narrador torna conveniente contar.",
-                         "formato":  "direta"
+                         "explicacao":  "As quatro frentes cobrem, juntas, uma origem mítica, o presente da corte, o interior do país e o passado colonial — isto é, um repertório com que uma literatura recém-nacional pudesse se apresentar como tal. A hierarquia entre as frentes não se sustenta, porque o autor trabalhou nas quatro em paralelo; a passagem ao Realismo é movimento da geração seguinte, de Machado em diante; o romance europeu, sobretudo o folhetim francês, é referência assumida e não recusada; e a presença dos ciclos histórico e indianista contradiz a ideia de tratar só do contemporâneo."
                      },
                      {
                          "id":  "literatura-41",
-                         "texto_apoio":  "Num conto, a mesma cena é narrada duas vezes: primeiro pelo empregado de uma casa, depois pela patroa. Os fatos coincidem, mas o sentido atribuído a cada gesto muda completamente.",
-                         "enunciado":  "Esse recurso de composição serve para",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Em Senhora (1875), de José de Alencar, Aurélia Camargo recebe uma herança inesperada e passa a dispor de fortuna considerável. Ela descobre que Fernando Seixas, que havia rompido o noivado com ela para casar-se com quem lhe oferecesse dote maior, está disponível no mercado matrimonial. Aurélia então negocia, por intermediários e sem se revelar, a compra desse casamento, e passa a tratar o marido como alguém que recebeu pagamento.",
+                         "enunciado":  "A inversão promovida por Aurélia produz, no romance, o efeito de",
                          "alternativas":  {
-                                              "a":  "alongar artificialmente o conto, sem acréscimo de sentido",
-                                              "b":  "demonstrar que a posição social de quem narra determina o sentido atribuído aos mesmos fatos",
-                                              "c":  "corrigir erros factuais cometidos na primeira versão",
-                                              "d":  "provar que uma das personagens está mentindo deliberadamente",
-                                              "e":  "eliminar a ambiguidade, fixando a interpretação correta da cena"
+                                              "a":  "confirmar a naturalidade do dote, ao mostrar que ele funciona igualmente bem nos dois sentidos.",
+                                              "b":  "deslocar o conflito do terreno econômico para o da incompatibilidade de temperamentos entre os dois.",
+                                              "c":  "expor como transação comercial aquilo que a sociedade da corte apresentava como união afetiva.",
+                                              "d":  "eliminar o interesse material da trama, uma vez que a herança resolve a questão do dinheiro.",
+                                              "e":  "transferir a responsabilidade pelo rompimento inicial do noivado para a própria protagonista."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Os fatos não mudam — muda quem os interpreta e de que lugar. O recurso não busca desmascarar mentirosos nem fixar a versão certa: ele mostra que o sentido não está no fato, está na posição de quem o lê.",
-                         "formato":  "direta"
+                         "explicacao":  "Ao pagar pelo marido e cobrar dele o cumprimento do contrato, Aurélia obriga o leitor a ver o casamento pelo que o mercado de dotes já fazia dele — uma compra —, só que agora com os papéis trocados e com o preço dito em voz alta. Dizer que a inversão naturaliza o dote ignora que ela o torna escandaloso; o conflito permanece econômico do começo ao fim; a herança não elimina o interesse material, é o que permite exercê-lo; e o rompimento inicial partiu de Seixas, movido justamente pelo dote."
                      },
                      {
                          "id":  "literatura-42",
-                         "texto_apoio":  "O conto, como forma literária, distingue-se do romance por um conjunto de características de composição.",
-                         "enunciado":  "As alternativas apresentam características usuais do conto, à exceção de uma. Assinale-a.",
+                         "banca":  "fgv",
+                         "formato":  "excecao",
+                         "texto_apoio":  "Iracema (1865), de José de Alencar, traz o subtítulo \"lenda do Ceará\" e narra o encontro entre a indígena Iracema e o português Martim, de que nasce Moacir, apresentado como o primeiro cearense. A prosa é trabalhada com cortes curtos, comparações extraídas da natureza e vocabulário de origem indígena, e o próprio autor anexou ao livro notas explicando a etimologia dos nomes.",
+                         "enunciado":  "O texto sustenta todas as afirmações a seguir sobre Iracema, EXCETO:",
                          "alternativas":  {
-                                              "a":  "Extensão que permite a leitura em uma sentada",
-                                              "b":  "Unidade de efeito, com a narrativa convergindo para um único ponto",
-                                              "c":  "Desenvolvimento amplo de várias gerações de uma mesma família ao longo de décadas",
-                                              "d":  "Economia de recursos, com poucos elementos descritivos dispensáveis",
-                                              "e":  "Concentração da ação em torno de um número reduzido de personagens"
+                                              "a":  "A narrativa reconstitui, com fidelidade documental, um episódio comprovado da colonização do Ceará.",
+                                              "b":  "O nascimento de Moacir funciona como imagem da origem mestiça de uma região.",
+                                              "c":  "A construção da prosa, com seus cortes curtos e suas comparações tiradas da natureza, aproxima-se de procedimentos associados à poesia.",
+                                              "d":  "O autor tratou o vocabulário indígena como matéria a ser explicada ao leitor.",
+                                              "e":  "O subtítulo filia a narrativa ao registro da lenda, e não ao da crônica histórica."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Acompanhar várias gerações ao longo de décadas é matéria de romance, e de romance longo — exige exatamente a amplitude que o conto recusa. As demais características descrevem a forma breve com precisão.",
-                         "formato":  "excecao"
+                         "explicacao":  "O subtítulo anuncia lenda, e lenda é justamente o que dispensa comprovação documental — o livro constrói um mito de origem, não um relato de arquivo. As demais estão sustentadas pelo texto: o subtítulo filia a obra ao registro lendário; Moacir é apresentado como o primeiro cearense, o que faz dele figura da origem mestiça; os cortes curtos e as comparações tiradas da natureza aproximam a prosa da poesia; e as notas etimológicas anexadas mostram o autor tratando o vocabulário indígena como matéria a explicar."
                      },
                      {
                          "id":  "literatura-43",
@@ -750,33 +753,35 @@
                      },
                      {
                          "id":  "literatura-46",
-                         "texto_apoio":  "Num soneto, os dois quartetos descrevem uma situação concreta e os dois tercetos extraem dela uma conclusão de alcance geral, introduzida por um conectivo conclusivo.",
-                         "enunciado":  "Essa organização corresponde a um procedimento clássico do soneto, que consiste em",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Em Libertinagem (1930), Manuel Bandeira reuniu poemas em verso livre, com sintaxe da fala e assuntos do dia a dia — um endereço, uma notícia de jornal, uma lembrança de infância, uma doença. O livro inclui um poema de caráter programático em que o eu lírico declara-se saturado do lirismo contido e bem-educado e reivindica, contra ele, o lirismo dos desequilibrados e dos embriagados.",
+                         "enunciado":  "Esse poema programático cumpre, no conjunto do livro, a função de",
                          "alternativas":  {
-                                              "a":  "distribuir a mesma imagem igualmente pelas quatro estrofes, sem hierarquia",
-                                              "b":  "reservar aos tercetos a chave interpretativa do que os quartetos apresentaram",
-                                              "c":  "abandonar a métrica nos tercetos para marcar a mudança de assunto",
-                                              "d":  "interromper o poema antes da conclusão, deixando-o deliberadamente aberto",
-                                              "e":  "repetir nos tercetos, com outras palavras, exatamente o conteúdo dos quartetos"
+                                              "a":  "anunciar o retorno às formas fixas e ao vocabulário elevado da tradição parnasiana.",
+                                              "b":  "restringir o alcance do livro aos poemas de tema autobiográfico e familiar.",
+                                              "c":  "demonstrar que o verso livre só se justifica quando trata de assuntos graves.",
+                                              "d":  "declarar que a poesia deve manter-se afastada da linguagem falada e do cotidiano.",
+                                              "e":  "explicitar o critério estético que o restante do livro põe em prática."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A arquitetura do soneto trabalha por acúmulo e virada: os quartetos montam o caso, os tercetos o interpretam. Reconhecer onde está a chave é o que permite ler o poema como argumento, e não como sequência de imagens.",
-                         "formato":  "direta"
+                         "explicacao":  "O poema enuncia o que os demais executam: recusa do decoro formal, adesão ao verso livre e admissão do assunto trivial e da fala como matéria poética. Anunciar retorno às formas fixas é o oposto do que ele faz, e o Parnasianismo é justamente o alvo; restringir o livro ao autobiográfico contraria a variedade de assuntos descrita; exigir tema grave para o verso livre inverte o programa, que legitima o trivial; e afastar-se da linguagem falada é o que o livro abandona."
                      },
                      {
                          "id":  "literatura-47",
-                         "texto_apoio":  "Num poema, o eu lírico dirige-se a uma cidade, atribui-lhe a capacidade de dormir, de mentir e de esquecer, e cobra dela uma resposta que não vem.",
-                         "enunciado":  "O recurso empregado na construção desse interlocutor é",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Um dos poemas mais conhecidos de Manuel Bandeira constrói um lugar imaginário, cujo nome o poeta tomou de uma antiga cidade persa, para onde o eu lírico declara que vai embora. Nesse lugar ele teria a amizade do rei, obteria o que quisesse, e tudo aquilo que na vida real lhe é vedado — pela doença, pela pobreza, pela convenção — seria permitido.",
+                         "enunciado":  "A construção desse lugar imaginário funciona no poema como",
                          "alternativas":  {
-                                              "a":  "a hipérbole, que amplia desmedidamente uma qualidade",
-                                              "b":  "a metonímia, que substitui o todo pela parte",
-                                              "c":  "a aliteração, que repete sons consonantais próximos",
-                                              "d":  "a personificação, que atribui a uma entidade não humana faculdades humanas",
-                                              "e":  "a antítese, que aproxima termos de sentido oposto"
+                                              "a":  "reconstituição precisa de uma cidade histórica, com finalidade documental.",
+                                              "b":  "convite ao leitor para que abandone o país em que vive e emigre.",
+                                              "c":  "descrição de um lugar que o eu lírico afirma ter visitado na juventude.",
+                                              "d":  "prova de que o poeta rejeitava a matéria cotidiana como assunto de poesia.",
+                                              "e":  "medida do que falta na vida real, formulada pelo avesso."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Dormir, mentir e esquecer são ações de gente, atribuídas a uma cidade. O interlocutor é construído por personificação — e é ela que permite ao poema cobrar da cidade uma resposta, gesto que exigiria um sujeito capaz de dar.",
-                         "formato":  "direta"
+                         "explicacao":  "O lugar imaginário é desenhado item por item como negativo da experiência concreta: cada permissão que ele oferece corresponde a uma privação que existe fora dele, e é por isso que o poema fala da vida real ao descrever um lugar que não existe. A reconstituição documental não se sustenta, porque o nome é apropriado e não pesquisado; não há convite à emigração, e o destino é inexistente; nada indica visita anterior; e a matéria cotidiana é exatamente o que o poema mobiliza, e não o que recusa."
                      },
                      {
                          "id":  "literatura-48",
@@ -795,33 +800,35 @@
                      },
                      {
                          "id":  "literatura-49",
-                         "texto_apoio":  "A análise de um poema costuma considerar tanto o plano do conteúdo quanto o plano da expressão.",
-                         "enunciado":  "As alternativas apresentam elementos que pertencem ao plano da expressão de um poema, à exceção de uma. Assinale-a.",
+                         "banca":  "fgv",
+                         "formato":  "excecao",
+                         "texto_apoio":  "A poesia de Manuel Bandeira costuma ser caracterizada por um conjunto de traços: verso livre ao lado de formas fixas retomadas com liberdade, dicção próxima da conversa, humor que convive com a melancolia, assuntos extraídos da vida comum e presença recorrente da doença e da morte tratadas sem solenidade.",
+                         "enunciado":  "As alternativas apresentam traços dessa poesia, EXCETO:",
                          "alternativas":  {
-                                              "a":  "A recorrência de sons consonantais ou vocálicos ao longo das estrofes",
-                                              "b":  "O esquema de rimas e sua regularidade ou irregularidade",
-                                              "c":  "A metrificação dos versos e o ritmo que dela resulta",
-                                              "d":  "A disposição das estrofes e o modo como os versos se distribuem na página",
-                                              "e":  "O contexto histórico em que a obra foi produzida e recebida"
+                                              "a":  "A convivência, dentro de um mesmo livro, entre o verso livre e formas fixas da tradição retomadas sem rigidez.",
+                                              "b":  "O tom de conversa, próximo da linguagem falada.",
+                                              "c":  "A presença da morte tratada sem gravidade cerimoniosa.",
+                                              "d":  "A adesão sistemática ao vocabulário raro e à sintaxe invertida como marca de estilo.",
+                                              "e":  "A escolha de assuntos extraídos da experiência cotidiana."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Rima, metro, sonoridade e disposição gráfica são matéria da expressão — o como. O contexto histórico é externo ao poema e pertence a outro plano de análise, ainda que ilumine a leitura. Lembre que o comando pede a exceção.",
-                         "formato":  "excecao"
+                         "explicacao":  "Vocabulário raro e sintaxe invertida são marcas do Parnasianismo, e a dicção de conversa descrita no texto vai na direção contrária. As demais estão no próprio conjunto de traços apresentado: o verso livre convivendo com formas fixas retomadas com liberdade, o tom coloquial, a morte tratada sem solenidade e o assunto tirado da vida comum."
                      },
                      {
                          "id":  "literatura-50",
-                         "texto_apoio":  "Num poema, o eu lírico afirma que prefere a palavra imperfeita e viva à palavra correta e morta, e recusa explicitamente a autoridade dos gramáticos.",
-                         "enunciado":  "Essa recusa filia o poema a uma posição estética que",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "A poesia de João Cabral de Melo Neto (1920–1999) é frequentemente descrita como obra de construção: o poeta trabalha por corte e ajuste, prefere a imagem mineral — pedra, faca, osso, cal — à imagem sentimental, e submete o poema a um rigor que ele próprio comparava ao ofício do engenheiro. A emoção não é confessada; ela resulta da disposição exata dos elementos.",
+                         "enunciado":  "Essa concepção de poesia implica que",
                          "alternativas":  {
-                                              "a":  "identifica o valor literário com a obediência à norma culta escrita",
-                                              "b":  "recusa qualquer trabalho consciente com a linguagem em nome da espontaneidade absoluta",
-                                              "c":  "considera a poesia um exercício exclusivamente técnico de versificação",
-                                              "d":  "toma a língua viva, inclusive em seus desvios, como matéria legítima da poesia",
-                                              "e":  "defende o retorno ao latim como língua da alta literatura"
+                                              "a":  "o poema deva registrar a emoção no instante em que ela ocorre, sem revisão posterior.",
+                                              "b":  "a matéria do poema seja necessariamente abstrata, sem referência ao mundo concreto.",
+                                              "c":  "o efeito do poema venha da precisão da forma, e não da declaração do sentimento.",
+                                              "d":  "a poesia deva evitar qualquer assunto de ordem social ou coletiva.",
+                                              "e":  "o poeta rejeite a imagem como recurso, substituindo-a pela argumentação direta."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Preferir o vivo ao correto não equivale a abrir mão do trabalho com a linguagem — é escolher outra matéria-prima. Confundir as duas coisas leva à leitura de que o poema pregaria espontaneidade absoluta, que é justamente o oposto de um poema construído para dizer isso.",
-                         "formato":  "direta"
+                         "explicacao":  "Se a emoção não é confessada e resulta da disposição exata dos elementos, o que produz o efeito é o acabamento formal, não a declaração. Registrar a emoção no instante, sem revisão, descreve o oposto do trabalho por corte e ajuste; a matéria é intensamente concreta, e pedra, faca e osso são justamente objetos; o assunto social ocupa parte central da obra, como no caso do retirante nordestino; e a imagem é o recurso privilegiado, não algo substituído pela argumentação."
                      },
                      {
                          "id":  "literatura-51",
@@ -1815,18 +1822,19 @@
                      },
                      {
                          "id":  "literatura-117",
-                         "texto_apoio":  "Num conto, o desfecho é apresentado numa única frase final que reinterpreta retroativamente tudo o que foi narrado antes.",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "enunciado":  "Esse procedimento corresponde ao que se costuma chamar de",
+                         "texto_apoio":  "Morte e Vida Severina (1955), de João Cabral de Melo Neto, traz o subtítulo \"auto de Natal pernambucano\". Acompanha Severino, retirante que desce o curso do rio Capibaribe em direção ao Recife, encontrando pelo caminho uma sucessão de mortes. A forma retoma o auto popular e o romanceiro, com versos curtos, rima toante e estrutura de diálogo, e o nome do protagonista é comum a muitos outros trabalhadores da região.",
+                         "enunciado":  "A escolha da forma do auto popular, e não do poema lírico em primeira pessoa, produz o efeito de",
                          "alternativas":  {
-                                              "a":  "prolepse, antecipação de acontecimentos que só se realizarão adiante",
-                                              "b":  "moldura narrativa, história que contém outra contada dentro dela",
-                                              "c":  "desfecho de virada, em que a informação final reorganiza o sentido do conjunto",
-                                              "d":  "anticlímax, resolução deliberadamente banal de um conflito longamente construído antes",
-                                              "e":  "clímax dilatado, tensão distribuída por igual ao longo de toda a narrativa"
+                                              "a":  "afastar o poema das questões sociais, ao filiá-lo a uma tradição religiosa.",
+                                              "b":  "restringir o alcance da obra ao público erudito já familiarizado com a tradição do auto popular e do romanceiro.",
+                                              "c":  "apresentar a trajetória do retirante como caso coletivo, e não como drama individual.",
+                                              "d":  "indicar que os acontecimentos narrados pertencem a um passado remoto.",
+                                              "e":  "garantir que o protagonista alcance, ao final, a superação de sua condição."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A virada não acrescenta um episódio: ela obriga a reler o que já foi lido, e é dessa retroação que vem o efeito. Em (d) está o distrator que também depende do final, mas em sentido oposto — o anticlímax frustra a expectativa com uma resolução banal, enquanto aqui o desfecho a reorganiza. Em (a), a prolepse aponta para a frente, e a operação descrita olha para trás. Em (b), não há narrativa dentro de narrativa. Em (e), a tensão distribuída por igual é o contrário de uma frase final decisiva."
+                         "explicacao":  "O auto popular é forma comunitária, feita para ser dita e ouvida em grupo, e o nome comum a muitos trabalhadores reforça que Severino é um entre tantos — a soma das duas escolhas converte a história em condição partilhada, não em caso particular. A tradição do auto é o que aproxima o poema do público popular, e não o que o afasta dele ou o entrega ao leitor erudito; nada situa a ação num passado remoto; e a sucessão de mortes no percurso desautoriza a leitura de superação final."
                      },
                      {
                          "id":  "literatura-118",
@@ -1845,93 +1853,99 @@
                      },
                      {
                          "id":  "literatura-119",
-                         "texto_apoio":  "Um conto é construído inteiramente a partir de diálogo, sem descrição de ambiente nem acesso à interioridade das personagens.",
-                         "enunciado":  "Nesse arranjo, a caracterização das personagens é feita",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Comparam-se duas atitudes possíveis diante de um mesmo assunto, a seca e a miséria do interior nordestino. Numa delas, o poeta declara a própria comoção diante do sofrimento alheio e organiza o poema em torno desse sentimento. Na outra — a de João Cabral —, a comoção não é dita: o poema descreve com exatidão o que existe, escolhe imagens duras e deixa que o efeito se produza no leitor.",
+                         "enunciado":  "A segunda atitude caracteriza-se por",
                          "alternativas":  {
-                                              "a":  "por meio do que dizem e do modo como dizem, cabendo ao leitor inferir o resto",
-                                              "b":  "por meio de um resumo biográfico apresentado no início",
-                                              "c":  "por meio do acesso direto aos pensamentos de cada uma",
-                                              "d":  "por meio de descrições físicas detalhadas fornecidas pelo narrador",
-                                              "e":  "de forma impossível, já que sem narrador não há caracterização"
+                                              "a":  "transferir ao leitor a reação que o poema se recusa a enunciar.",
+                                              "b":  "eliminar o assunto social, uma vez que ele exigiria comoção declarada.",
+                                              "c":  "supor que a exatidão descritiva impede qualquer efeito emocional sobre quem lê.",
+                                              "d":  "adotar o vocabulário do sentimentalismo romântico para tratar de tema contemporâneo.",
+                                              "e":  "concluir que o sofrimento retratado não comporta tratamento literário algum."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Sem narrador que descreva ou explique, tudo o que se sabe vem da fala — vocabulário, hesitações, o que se evita dizer. O trabalho de composição é transferido ao leitor, que precisa inferir de dentro do diálogo.",
-                         "formato":  "direta"
+                         "explicacao":  "Ao descrever sem comentar, o poema recusa fazer pelo leitor o trabalho de se comover, e é justamente essa contenção que devolve a ele a reação. Eliminar o assunto social contraria o fato de a seca ser a matéria do poema; supor que a exatidão bloqueia o efeito inverte o resultado, porque é dela que o efeito nasce; o vocabulário sentimental é o que a atitude descarta; e afirmar que o tema não comporta literatura contradiz a existência da obra."
                      },
                      {
                          "id":  "literatura-120",
-                         "texto_apoio":  "Um conto apresenta acontecimentos sobrenaturais sem que o narrador ou as personagens manifestem espanto, tratando-os com a mesma naturalidade dos fatos cotidianos.",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "enunciado":  "Esse procedimento caracteriza",
+                         "texto_apoio":  "A obra de Jorge Amado (1912–2001) costuma ser dividida em dois momentos. No primeiro, dos anos 1930 e 1940, predominam o romance de denúncia social, o conflito de classe no cacau baiano e a figura do trabalhador explorado; um dos livros desse período teve exemplares queimados em praça pública em 1937. No segundo, a partir dos anos 1950, ganham espaço a comédia de costumes, o humor, a sensualidade e as festas populares.",
+                         "enunciado":  "A passagem do primeiro para o segundo momento pode ser descrita como",
                          "alternativas":  {
-                                              "a":  "o realismo documental, comprometido com a verificação dos fatos narrados",
-                                              "b":  "o fantástico tradicional, em que a irrupção do sobrenatural provoca hesitação e espanto nas personagens",
-                                              "c":  "o insólito naturalizado, em que o extraordinário entra no cotidiano sem ruptura de tom",
-                                              "d":  "a alegoria moral, em que cada elemento remete a um sentido segundo estabelecido",
-                                              "e":  "a paródia, que retoma um gênero anterior para expor suas convenções ao ridículo"
+                                              "a":  "abandono do cenário baiano em favor de ambientes urbanos do Centro-Sul do país.",
+                                              "b":  "substituição da prosa de ficção pela produção de ensaios de intervenção política.",
+                                              "c":  "deslocamento da denúncia direta para a celebração da cultura popular, sem troca de região.",
+                                              "d":  "recusa do público amplo em favor de uma literatura destinada a leitores especializados.",
+                                              "e":  "retorno aos procedimentos do Naturalismo do século XIX, com ênfase no determinismo racial."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O traço decisivo é a ausência de espanto: o extraordinário não abre fissura no mundo narrado, porque ninguém o trata como exceção. Em (b) está o distrator que a questão existe para cobrar — o fantástico depende justamente da hesitação diante do sobrenatural, e é essa hesitação que o conto suprime. Em (a), o sobrenatural é incompatível com o compromisso documental. Em (d), não há correspondência ponto a ponto com um sentido segundo. Em (e), não há gênero anterior sendo retomado nem intenção de ridículo."
+                         "explicacao":  "O texto indica troca de tom e de foco — da denúncia de classe para a comédia de costumes, o humor e a festa —, mantendo a Bahia como território das duas fases. O abandono do cenário baiano não ocorre; a ficção continua sendo a forma principal; o alcance de público cresce em vez de diminuir na segunda fase; e o determinismo racial naturalista não corresponde a nenhum dos dois momentos descritos."
                      },
                      {
                          "id":  "literatura-121",
-                         "texto_apoio":  "Num conto, o narrador afirma, no meio da narrativa, que talvez esteja se enganando quanto a um detalhe importante, e prossegue sem esclarecê-lo.",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "enunciado":  "Essa admissão de incerteza serve para",
+                         "texto_apoio":  "Capitães da Areia (1937), de Jorge Amado, acompanha um grupo de meninos que vivem sem família num trapiche abandonado em Salvador e sobrevivem de furtos. O livro abre com recortes de jornal e uma carta que tratam do grupo como caso de polícia, e só depois passa a narrar a vida dos meninos por dentro, dando nome, história e afeto a cada um.",
+                         "enunciado":  "A decisão de abrir o romance com os documentos jornalísticos produz o efeito de",
                          "alternativas":  {
-                                              "a":  "indicar que o conto foi composto a partir de versões de autores diferentes",
-                                              "b":  "preparar um desfecho que esclarecerá o detalhe deixado em suspenso",
-                                              "c":  "instalar a dúvida na leitura, transferindo ao leitor a tarefa de decidir",
-                                              "d":  "reforçar a confiabilidade do narrador, que ganha crédito ao reconhecer os próprios limites",
-                                              "e":  "sinalizar que o detalhe é irrelevante para a compreensão daquilo que se narra"
+                                              "a":  "confirmar a versão policial apresentada nos recortes, que a narrativa seguinte se encarrega de comprovar episódio por episódio.",
+                                              "b":  "situar a ação num tempo anterior ao da publicação do livro.",
+                                              "c":  "contrapor o olhar externo que os trata como ameaça ao relato que lhes devolve história própria.",
+                                              "d":  "reduzir os meninos à condição de personagens secundários da trama.",
+                                              "e":  "indicar que a obra deve ser lida como reportagem, e não como ficção."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O narrador abre uma falha e não a fecha: a partir dali, tudo o que ele conta passa a ser lido sob suspeita, e é o leitor quem decide o que sustentar. Em (d) está o raciocínio que parece bom senso e não se aplica — admitir limites reforçaria a confiança num relato que depois se confirma, e aqui a incerteza fica sem solução. Em (b), o enunciado diz que ele prossegue sem esclarecer. Em (e), o próprio texto qualifica o detalhe como importante. Em (a), a hesitação é procedimento de composição, não vestígio de autorias diversas."
+                         "explicacao":  "Os documentos apresentam os meninos como problema de segurança pública, e o romance faz o movimento contrário ao narrá-los por dentro — o contraste entre as duas versões é o que o arranjo constrói. Confirmar a versão policial é o oposto do que ocorre; o tempo dos recortes é o mesmo da ação; os meninos são os protagonistas, e não figuras secundárias; e a moldura documental serve à ficção, sem transformar o livro em reportagem."
                      },
                      {
                          "id":  "literatura-122",
-                         "texto_apoio":  "Um poema é composto por uma única frase distribuída ao longo de vários versos, com o sentido só se completando no último deles.",
-                         "enunciado":  "O recurso responsável por essa distribuição é",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "José Lins do Rego (1901–1957) escreveu um conjunto de romances conhecido como ciclo da cana-de-açúcar, iniciado com Menino de Engenho (1932). As obras acompanham o mundo dos engenhos da Paraíba e de Pernambuco em declínio, substituídos pelas usinas, e são narradas em tom de memória, com sintaxe próxima da fala e presença constante do repertório oral — histórias de assombração, cantigas, causos de cangaço.",
+                         "enunciado":  "O conjunto desses traços permite afirmar que o ciclo",
                          "alternativas":  {
-                                              "a":  "o soneto, forma fixa de catorze versos",
-                                              "b":  "a anáfora, repetição de termo no início de versos sucessivos",
-                                              "c":  "a redondilha, verso de cinco ou sete sílabas",
-                                              "d":  "o refrão, verso que retorna periodicamente",
-                                              "e":  "o enjambement, em que a unidade sintática ultrapassa o limite do verso"
+                                              "a":  "trata a decadência do engenho como assunto exclusivamente econômico, sem dimensão afetiva.",
+                                              "b":  "adota a linguagem culta e a sintaxe elaborada como marca de distância em relação ao mundo narrado.",
+                                              "c":  "situa a ação em ambiente urbano, tomando o engenho apenas como lembrança distante.",
+                                              "d":  "recusa o repertório oral por considerá-lo incompatível com a forma do romance.",
+                                              "e":  "registra o desaparecimento de um mundo social e o faz pela voz de quem o viveu."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Quando a frase não cabe no verso e transborda para o seguinte, o poema cria suspensão: o leitor precisa continuar para completar o sentido. É o enjambement, e a tensão entre a pausa do verso e a continuidade da sintaxe é o efeito procurado.",
-                         "formato":  "direta"
+                         "explicacao":  "O tom de memória, a sintaxe da fala e a presença das histórias contadas colocam a narração do lado de dentro do mundo que acaba, e é essa combinação que faz do ciclo um registro em primeira pessoa de um desaparecimento. Tratar a decadência como assunto só econômico ignora o tom memorialístico; a linguagem culta e distante é o oposto da descrita; a ação se passa no próprio engenho; e o repertório oral é incorporado, não recusado."
                      },
                      {
                          "id":  "literatura-123",
-                         "texto_apoio":  "Num poema, o eu lírico se dirige a um \"tu\" que nunca é identificado e que não responde em nenhum momento.",
-                         "enunciado":  "A permanência desse interlocutor mudo e indefinido faz com que",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Fogo Morto (1943), de José Lins do Rego, divide-se em três partes, cada uma centrada numa figura: um mestre seleiro que trabalha por conta própria e enlouquece, o proprietário de um engenho em ruína e um capitão da guarda nacional que se comporta como se ainda houvesse autoridade a exercer. As três trajetórias se cruzam no mesmo território, e nenhuma delas alcança recuperação.",
+                         "enunciado":  "A divisão do romance em três partes, cada uma com seu protagonista, serve para",
                          "alternativas":  {
-                                              "a":  "o poema perca sentido, por falta de referência clara",
-                                              "b":  "se conclua que o interlocutor é o próprio autor do poema",
-                                              "c":  "a ausência de resposta indique que o interlocutor está morto",
-                                              "d":  "o poema se converta em diálogo teatral",
-                                              "e":  "o leitor possa ocupar esse lugar vazio, tornando-se o destinatário da fala"
+                                              "a":  "sugerir que apenas uma das três posições sociais foi afetada pelo declínio do engenho.",
+                                              "b":  "estabelecer uma hierarquia entre as personagens, indicando qual delas conduz a narrativa.",
+                                              "c":  "indicar que as três trajetórias são independentes e não se comunicam entre si.",
+                                              "d":  "separar três tempos históricos sucessivos, cada um deles retratado integralmente numa das três partes do romance.",
+                                              "e":  "compor a decadência de um mundo mostrando-a simultaneamente em três posições sociais distintas."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O lugar vazio do interlocutor é convite, não falha. Como ninguém o preenche dentro do poema, quem lê acaba ocupando a posição — e a fala passa a ser dirigida a si.",
-                         "formato":  "direta"
+                         "explicacao":  "Artesão, proprietário e representante da autoridade ocupam lugares diferentes na mesma estrutura, e narrar os três em declínio mostra que o que acaba não é uma vida, e sim o arranjo social que sustentava as três. Isolar o declínio numa só posição contraria a escolha das três; não há hierarquia entre elas, o que é justamente o efeito da divisão em partes iguais; o tempo é comum às três, e não sucessivo; e o texto afirma que as trajetórias se cruzam."
                      },
                      {
                          "id":  "literatura-124",
-                         "texto_apoio":  "Num poema, versos curtos e cortados alternam-se com versos longos e fluidos, acompanhando a alternância entre momentos de tensão e momentos de distensão no que é dito.",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "enunciado":  "Essa correspondência entre ritmo e conteúdo é um exemplo de",
+                         "texto_apoio":  "A poesia de Vinícius de Moraes (1913–1980) é habitualmente dividida em duas fases. Na primeira, dos anos 1930, predominam o tom solene, o vocabulário religioso e a aspiração a um plano transcendente. Na segunda, a partir do final da década, o poeta volta-se para o corpo, o amor concreto, a cidade e o encontro amoroso tratado sem idealização, mantendo às vezes formas fixas como o soneto.",
+                         "enunciado":  "A passagem de uma fase a outra caracteriza-se por",
                          "alternativas":  {
-                                              "a":  "indiferença da forma em relação ao conteúdo, própria da poesia moderna",
-                                              "b":  "adoção de forma fixa tradicional, com metro regular do início ao fim",
-                                              "c":  "convergência entre forma e sentido, com o andamento do verso encenando o que se diz",
-                                              "d":  "ruptura entre forma e sentido, procedimento corrente nas vanguardas históricas",
-                                              "e":  "alternância entre dois metros fixos, procedimento herdado da canção trovadoresca medieval"
+                                              "a":  "abandono definitivo das formas fixas em favor exclusivo do verso livre.",
+                                              "b":  "substituição do tema amoroso pelo tema social e político, que passa a ocupar o centro da obra a partir de então.",
+                                              "c":  "deslocamento da aspiração transcendente para a experiência concreta e corporal.",
+                                              "d":  "retorno ao vocabulário religioso, agora usado com intenção satírica.",
+                                              "e":  "recusa da cidade como assunto, em favor da paisagem rural."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O verso curto corta a respiração onde o texto tensiona e se alonga onde ele distende: o ritmo faz o que o poema diz, em vez de acompanhá-lo por fora. Em (e) está o distrator mais próximo, porque também descreve alternância — mas entre dois metros fixos, e o enunciado registra variação livre governada pelo sentido. Em (b), não há regularidade do início ao fim. Em (d), a ruptura suporia descompasso entre forma e conteúdo, e há coincidência. Em (a), a indiferença é justamente o que o poema desmente."
+                         "explicacao":  "O texto opõe termo a termo: de um lado solenidade, vocabulário religioso e plano transcendente; do outro corpo, amor concreto e cidade. O abandono das formas fixas não ocorre, e o próprio texto registra a permanência do soneto; o tema amoroso não é substituído, e sim reformulado; o vocabulário religioso pertence à primeira fase e não retorna como sátira; e a cidade entra na segunda fase em vez de sair."
                      },
                      {
                          "id":  "literatura-125",
@@ -1950,168 +1964,179 @@
                      },
                      {
                          "id":  "literatura-126",
-                         "texto_apoio":  "Num poema, o eu lírico descreve uma paisagem e, ao final, revela que a descrição corresponde a um estado interior seu, e não a um lugar existente.",
-                         "enunciado":  "A relação entre paisagem e estado interior, nesse caso, denomina-se",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Um dos sonetos mais conhecidos de Vinícius de Moraes, publicado em 1939, mantém a estrutura fixa de quatorze versos e o metro regular da tradição, mas emprega vocabulário corrente e sintaxe de conversa, e trata do amor como algo intenso justamente porque tem fim — não como sentimento eterno.",
+                         "enunciado":  "A combinação entre forma fixa tradicional e dicção coloquial, nesse soneto, indica que",
                          "alternativas":  {
-                                              "a":  "descrição documental, comprometida com a exatidão geográfica",
-                                              "b":  "narração em terceira pessoa, sem participação do eu lírico",
-                                              "c":  "metalinguagem, discurso sobre o próprio discurso",
-                                              "d":  "intertextualidade, diálogo deliberado com outro texto",
-                                              "e":  "paisagem-estado de alma, em que o mundo exterior é figura do interior"
+                                              "a":  "o poeta pretendia demonstrar domínio técnico, sem interesse pelo assunto tratado.",
+                                              "b":  "a forma fixa foi mantida por exigência editorial, contra a vontade do autor.",
+                                              "c":  "o soneto perde, nesse caso, sua condição de forma fixa.",
+                                              "d":  "o Modernismo brasileiro havia restaurado integralmente a métrica parnasiana.",
+                                              "e":  "a tradição formal podia ser ocupada por uma linguagem moderna sem ser abandonada."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Quando a paisagem só existe como figura do que se sente, ela deixa de ser cenário e vira linguagem. É um procedimento que o Romantismo consagra e que a poesia posterior continua usando, agora com consciência do artifício.",
-                         "formato":  "direta"
+                         "explicacao":  "O poema conserva o molde herdado e o preenche com fala contemporânea, o que mostra que a ruptura modernista não obrigava a destruir a forma antiga: dava para habitá-la de outro modo. A tese do exercício técnico sem interesse pelo tema não se sustenta diante do tratamento dado ao amor; a exigência editorial não é mencionada; contar quatorze versos e metro regular é o que define a forma fixa, que portanto permanece; e restauração integral da métrica parnasiana contraria a dicção coloquial descrita."
                      },
                      {
                          "id":  "literatura-127",
-                         "texto_apoio":  "Num poema, a mesma palavra encerra vários versos consecutivos, sempre com sentido ligeiramente deslocado em relação à ocorrência anterior.",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "enunciado":  "O efeito produzido por essa repetição com deslocamento é",
+                         "texto_apoio":  "Vestido de Noiva (1943), de Nelson Rodrigues, é considerado um marco do teatro moderno brasileiro. A peça se passa em três planos que se alternam sem transição: o da realidade, o da memória e o da alucinação da protagonista, atropelada e agonizante. A montagem original, dirigida por Zbigniew Ziembinski, usou iluminação e divisão do palco para sustentar essa simultaneidade.",
+                         "enunciado":  "A organização da peça em três planos simultâneos representou uma ruptura porque",
                          "alternativas":  {
-                                              "a":  "reforçar por insistência um sentido único, fixando-o na memória do leitor",
-                                              "b":  "expor que a mesma palavra carrega sentidos distintos, e fazer disso a matéria do poema",
-                                              "c":  "construir um refrão que organiza o poema em estrofes de igual medida",
-                                              "d":  "marcar a hesitação do eu lírico, que não encontra a palavra exata e volta sempre à mesma",
-                                              "e":  "produzir uma cadeia sonora em que o sentido cede lugar inteiramente à musicalidade do verso"
+                                              "a":  "eliminou o texto escrito, deixando a cena inteiramente a cargo da improvisação dos atores.",
+                                              "b":  "abandonou a sucessão linear dos acontecimentos como princípio de organização da cena.",
+                                              "c":  "transferiu a ação para o ambiente rural, até então ausente do teatro brasileiro.",
+                                              "d":  "restringiu a peça a um único ambiente e a um único tempo, ao modo do teatro clássico.",
+                                              "e":  "dispensou a figura do diretor, cuja função passou a ser exercida pelo autor."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A palavra volta e não é mais a mesma: cada retorno a desloca, e o poema mostra que o sentido não está fixo na palavra, e sim no lugar que ela ocupa. Em (a) está o contrário do que ocorre: a repetição aqui desestabiliza em vez de fixar. Em (d), a hesitação suporia uma palavra certa a ser encontrada, quando o procedimento explora a variação como resultado buscado. Em (c), o refrão repete o mesmo sentido em posição regular, e o enunciado registra deslocamento a cada ocorrência. Em (e), o som participa do efeito, mas o enunciado localiza a mudança no sentido, não na sonoridade."
+                         "explicacao":  "Fazer realidade, memória e alucinação coexistirem no mesmo palco desmonta o encadeamento linear em que o teatro brasileiro então se apoiava, e exige da cena recursos — luz, divisão do espaço — para sustentar o que a cronologia não sustenta mais. O texto escrito continua central, o que exclui a improvisação; o ambiente é urbano; a unidade de tempo e lugar é justamente o que se rompe; e o papel do diretor foi decisivo na montagem, e não dispensado."
                      },
                      {
                          "id":  "literatura-128",
-                         "texto_apoio":  "Num poema, o eu lírico fala no plural — \"nós\" — e assume a posição de quem enuncia em nome de um grupo, e não de si próprio.",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "enunciado":  "Essa escolha de pessoa gramatical indica que o poema",
+                         "texto_apoio":  "Nelson Rodrigues chamou parte de sua produção de teatro desagradável. Suas peças põem em cena desejo, hipocrisia familiar, violência doméstica e traição em ambientes de classe média urbana, tratando como matéria comum aquilo que o público preferia manter fora da sala de espetáculo. A recepção foi frequentemente de escândalo, e várias peças enfrentaram censura.",
+                         "enunciado":  "A expressão teatro desagradável, aplicada a essa produção, indica que",
                          "alternativas":  {
-                                              "a":  "abandona a subjetividade e se torna registro puramente descritivo",
-                                              "b":  "renuncia à dimensão lírica e se aproxima do texto jornalístico",
-                                              "c":  "se dirige a um interlocutor específico, nomeado no corpo do poema",
-                                              "d":  "desloca a experiência do individual para o coletivo, e trata o sentimento como partilhado",
-                                              "e":  "apaga as diferenças internas do grupo, que passa a falar por uma única voz uniforme e sem fissura"
+                                              "a":  "o autor considerava suas peças tecnicamente malfeitas.",
+                                              "b":  "as peças eram destinadas a um público restrito de especialistas.",
+                                              "c":  "o desconforto provocado no espectador resultava de falha na construção dramática das peças.",
+                                              "d":  "o incômodo provocado era condição do que as peças se propunham a mostrar.",
+                                              "e":  "o autor pretendia agradar ao público, sem conseguir."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O plural não suprime a experiência: amplia quem a vive, e o que era sentimento de um passa a ser condição de muitos. Em (e) está o distrator mais forte, porque falar em nome de um grupo de fato corre esse risco — mas o enunciado registra apenas a posição de quem enuncia, e daí não decorre a supressão das diferenças internas. Em (a) e (b), a subjetividade permanece e o poema segue lírico; muda a escala, não o gênero. Em (c), o \"nós\" define quem fala, e não a quem se fala."
+                         "explicacao":  "Se o assunto é o que a plateia preferia não ver, então o desconforto não é efeito colateral: é o meio pelo qual a peça alcança seu objeto. Julgar as peças malfeitas confunde a avaliação técnica com o efeito pretendido; o escândalo indica público amplo, e não restrito; atribuir o incômodo a falha de construção inverte a intenção declarada; e a hipótese de querer agradar contraria a própria expressão escolhida pelo autor."
                      },
                      {
                          "id":  "literatura-129",
-                         "texto_apoio":  "Compara-se um poema de forma fixa e metro regular com outro em verso livre, ambos tratando do mesmo tema.",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "enunciado":  "A escolha entre uma forma e outra é significativa porque",
+                         "texto_apoio":  "Brás, Bexiga e Barra Funda (1927), de Antônio de Alcântara Machado, reúne narrativas curtas ambientadas em bairros de São Paulo habitados por imigrantes italianos e seus descendentes. Os títulos nomeiam bairros, as personagens têm sobrenome italiano e o texto incorpora a mistura de português e italiano falada nas ruas, tratando com ironia as ambições de ascensão social dessas famílias.",
+                         "enunciado":  "A incorporação dessa fala mista ao texto literário, em 1927, alinha-se ao Modernismo porque",
                          "alternativas":  {
-                                              "a":  "a forma fixa impõe ao poeta uma disciplina que o verso livre dispensa, o que a torna superior",
-                                              "b":  "o verso livre nasce da recusa da métrica e por isso só comporta temas de ruptura",
-                                              "c":  "a forma escolhida participa da construção do sentido, e a regularidade ou a liberdade já dizem algo",
-                                              "d":  "a forma é escolha posterior ao conteúdo, ajustada ao que o poema já tinha a dizer",
-                                              "e":  "a diferença entre as duas é histórica e não estética: cada época dispõe de um repertório único de formas"
+                                              "a":  "recupera a norma culta como critério de correção da língua escrita.",
+                                              "b":  "demonstra que a literatura brasileira deveria adotar modelos europeus contemporâneos.",
+                                              "c":  "assume a língua efetivamente falada no país como matéria legítima de literatura.",
+                                              "d":  "restringe o alcance da obra aos leitores de origem italiana.",
+                                              "e":  "trata o imigrante como figura exótica, à maneira do Romantismo indianista."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Metro rigoroso e verso livre não são embalagens intercambiáveis para um mesmo conteúdo: cada um impõe um andamento e uma relação com a tradição. Em (d) está a inversão que mais aparece em prova — supor que a forma se aplica depois, a um sentido já pronto, é exatamente o que a análise literária existe para evitar. Em (e), o repertório de uma época é amplo e o poeta escolhe dentro dele, tanto que o enunciado apresenta as duas formas convivendo. Em (a), disciplina não estabelece hierarquia de valor. Em (b), o verso livre trata de qualquer tema, inclusive dos mais tradicionais."
+                         "explicacao":  "Uma das rupturas centrais do Modernismo de 1922 foi admitir a fala brasileira — com sua sintaxe, seus regionalismos e, aqui, sua mistura com o italiano — no lugar da língua literária herdada, e é exatamente isso que o livro faz. Recuperar a norma culta é o oposto do procedimento; adotar modelos europeus contraria o projeto de língua própria; a obra se dirige ao público geral; e a ironia sobre a ascensão social afasta o tratamento exótico à maneira indianista."
                      },
                      {
                          "id":  "literatura-130",
-                         "texto_apoio":  "Num poema, o eu lírico afirma que escreve para não esquecer, e ao longo do texto vai corrigindo as próprias lembranças, substituindo detalhes já enunciados.",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "enunciado":  "Esse movimento de correção sugere que, no poema, a memória é apresentada como",
+                         "texto_apoio":  "Viva o Povo Brasileiro (1984), de João Ubaldo Ribeiro, percorre mais de três séculos de história do Brasil, da Bahia colonial ao século XX. A narrativa se organiza por muitas vozes e episódios descontínuos, e acompanha sobretudo personagens sem poder — escravizados, soldados rasos, gente pobre do Recôncavo — enquanto os grandes nomes da história oficial aparecem de passagem ou vistos de baixo.",
+                         "enunciado":  "Essa escolha de perspectiva produz, no romance, o efeito de",
                          "alternativas":  {
-                                              "a":  "registro fiel do que aconteceu, que o poema se limita a transcrever em versos",
-                                              "b":  "construção instável, refeita no ato de lembrar e presa ao presente de quem lembra",
-                                              "c":  "matéria verificável, que o poema submete à conferência de quem testemunhou os mesmos fatos",
-                                              "d":  "obstáculo à criação, já que a exatidão do detalhe limitaria a invenção do poeta",
-                                              "e":  "acúmulo de camadas em que a lembrança mais recente recobre as anteriores e as deixa intactas"
+                                              "a":  "confirmar a narrativa oficial da formação nacional, agora com maior riqueza de detalhes.",
+                                              "b":  "reescrever a formação do país a partir de quem nela não teve voz registrada.",
+                                              "c":  "restringir a obra ao século XIX, período em que se concentram os episódios narrados.",
+                                              "d":  "eliminar a dimensão histórica, tratando as personagens fora de qualquer tempo determinado.",
+                                              "e":  "apresentar a história do Brasil como sucessão ordenada de feitos de grandes homens."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A correção acontece dentro do poema e não é apresentada como conserto de um erro: cada retomada refaz a lembrança, o que situa a memória no presente de quem escreve. Em (e) está o distrator mais próximo, e ele erra num ponto só — supor que as camadas anteriores permanecem intactas, quando o poema substitui detalhes já enunciados. Em (a) e (c), a fidelidade e a verificabilidade são exatamente o que a correção sucessiva desmente. Em (d), o poema não trata a memória como estorvo: faz dela o seu procedimento."
+                         "explicacao":  "Colocar escravizados, soldados rasos e pobres no centro, e os nomes oficiais na margem, inverte o critério pelo qual a história nacional costuma ser contada — e as muitas vozes fazem dessa inversão um princípio de construção, não um detalhe. Confirmar a narrativa oficial é o contrário do resultado; o recorte temporal ultrapassa três séculos; a dimensão histórica é o próprio assunto; e a sucessão de feitos de grandes homens é justamente o modelo recusado."
                      },
                      {
                          "id":  "literatura-131",
-                         "texto_apoio":  "Num poema, a disposição das palavras cria pausas longas no meio dos versos, por meio de espaços em branco e de sinais de pontuação incomuns.",
-                         "enunciado":  "Esses recursos gráficos funcionam, no poema, como",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Em Viva o Povo Brasileiro, a narração salta entre séculos, muda de personagem sem aviso e alterna registros — o relato oral, o documento, a cena de batalha, a conversa doméstica. Não há um protagonista único que atravesse o livro do início ao fim, e episódios separados por muitas décadas são apresentados lado a lado.",
+                         "enunciado":  "Essa construção descontínua é coerente com o projeto do romance porque",
                          "alternativas":  {
-                                              "a":  "marcação do ritmo de leitura, fazendo do silêncio parte do texto",
-                                              "b":  "erro de diagramação introduzido na impressão",
-                                              "c":  "substituição do sentido verbal pelo desenho abstrato",
-                                              "d":  "indicação de que faltam palavras que seriam preenchidas pelo leitor",
-                                              "e":  "convenção obrigatória das formas fixas tradicionais"
+                                              "a":  "a formação de um povo não se resolve numa trajetória individual, e sim em muitas, ao longo do tempo.",
+                                              "b":  "a ausência de um protagonista único indica que o autor não conseguiu definir um foco narrativo estável ao longo do livro.",
+                                              "c":  "a alternância de registros tem finalidade apenas decorativa, sem relação com o assunto.",
+                                              "d":  "o salto entre séculos serve para evitar o tratamento de temas históricos controversos.",
+                                              "e":  "a descontinuidade demonstra que o romance recusa qualquer referência ao Brasil real."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O branco na página não é ausência: é duração. Ao controlar onde o leitor para e por quanto tempo, o poema incorpora o silêncio ao seu material, do mesmo modo que a música incorpora a pausa.",
-                         "formato":  "direta"
+                         "explicacao":  "Se o objeto é a formação de um povo, e não a vida de uma pessoa, então a forma precisa comportar muitas vidas e muitos tempos — a descontinuidade não é obstáculo ao assunto, é o modo de alcançá-lo. Ler a ausência de protagonista como falha de foco ignora essa coerência; a alternância de registros acompanha a variedade das vozes, e não decora; o salto entre séculos aproxima os temas históricos em vez de evitá-los; e o Brasil real é a referência permanente do livro."
                      },
                      {
                          "id":  "literatura-132",
-                         "texto_apoio":  "Num poema, o eu lírico compara sua própria situação à de um objeto inanimado — uma porta, um trilho, um copo — e desenvolve a comparação ao longo de todo o texto.",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "enunciado":  "Uma comparação assim sustentada ao longo de um texto inteiro denomina-se",
+                         "texto_apoio":  "A ficção urbana de Rubem Fonseca (1925–2020) é frequentemente associada ao que a crítica chamou de brutalismo. Seus contos e romances tratam da violência das grandes cidades brasileiras em prosa seca, com frases curtas, diálogo cortado e pouca descrição, e com frequência entregam a narração em primeira pessoa a quem comete o crime, sem que o texto comente ou julgue.",
+                         "enunciado":  "A decisão de narrar pela voz de quem comete o crime, sem comentário do texto, produz o efeito de",
                          "alternativas":  {
-                                              "a":  "hipérbato, inversão da ordem sintática habitual do período",
-                                              "b":  "alegoria, ou metáfora filada, em que a imagem se desdobra e organiza o poema",
-                                              "c":  "sinédoque, designação do todo pela parte que o representa",
-                                              "d":  "comparação simples, aproximação pontual entre dois termos por meio de conectivo",
-                                              "e":  "antítese, aproximação de dois termos de sentido oposto no mesmo verso"
+                                              "a":  "atenuar a violência narrada, ao apresentá-la do ponto de vista de quem a pratica e a explica com naturalidade.",
+                                              "b":  "obrigar o leitor a formular sozinho o julgamento que a narrativa se recusa a oferecer.",
+                                              "c":  "transformar a obra em documento jurídico, com finalidade de prova.",
+                                              "d":  "indicar que o autor endossa as ações praticadas pelas personagens.",
+                                              "e":  "deslocar o interesse do livro para a psicologia das vítimas."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O que define o caso não é haver comparação, e sim ela se estender e estruturar o texto inteiro — a imagem deixa de ser ornamento e passa a ser a arquitetura do poema. Em (d) está a distinção que a questão cobra: a comparação simples é pontual e se esgota no verso em que aparece. Em (a), (c) e (e), as figuras nomeadas operam dentro de um verso ou de um período e não organizam a composição: hipérbato altera a ordem das palavras, sinédoque troca todo por parte, e antítese aproxima contrários."
+                         "explicacao":  "Sem instância que condene, o leitor perde o apoio que a narrativa moralizante costuma oferecer e tem de decidir por conta própria — o desconforto que resulta disso é parte do procedimento. A atenuação não ocorre, porque a proximidade com quem age torna a cena mais dura, não menos; documento jurídico é gênero alheio à ficção; ausência de julgamento no texto não equivale a endosso do autor; e as vítimas não são o foco dessa construção."
                      },
                      {
                          "id":  "literatura-133",
-                         "texto_apoio":  "Num poema, versos que descrevem cenas de trabalho pesado alternam-se, sem transição, com versos de vocabulário delicado sobre flores e luz.",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "enunciado":  "O choque entre os dois registros produz",
+                         "texto_apoio":  "O livro de contos Feliz Ano Novo, de Rubem Fonseca, foi publicado em 1975 e proibido no ano seguinte por decisão do Ministério da Justiça, sob alegação de ofensa à moral e aos bons costumes. Os contos tratam de desigualdade urbana e violência sem eufemismo, e em vários deles o crime é praticado por personagens que explicam com naturalidade o que fazem.",
+                         "enunciado":  "A proibição do livro em 1976 permite observar que",
                          "alternativas":  {
-                                              "a":  "incoerência que compromete a unidade de tom exigida pelo poema lírico",
-                                              "b":  "alternância métrica regular, procedimento de composição do soneto clássico",
-                                              "c":  "tensão significativa, em que o contraste diz algo que nenhum registro diria sozinho",
-                                              "d":  "indício de que o poema reúne fragmentos de dois textos de origens distintas",
-                                              "e":  "efeito de ironia, pelo qual o registro delicado serve para ridicularizar a cena de trabalho pesado"
+                                              "a":  "a violência urbana era tema inédito na literatura brasileira até aquele momento.",
+                                              "b":  "o livro havia sido escrito com a intenção declarada de obter a proibição.",
+                                              "c":  "a censura do período reagia à forma de tratar o assunto, e não apenas ao assunto em si.",
+                                              "d":  "a censura da ditadura militar restringia-se a obras de conteúdo político explícito e declaradamente oposicionista.",
+                                              "e":  "o autor abandonou o gênero conto depois do episódio."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Os dois registros não se anulam nem se somam: o atrito entre eles é que produz sentido, e cada um passa a ser lido à luz do outro. Em (e) está o distrator mais tentador, porque a ironia também nasce de choque — mas ela exigiria que um registro desqualificasse o outro, e aqui os dois se mantêm em pé. Em (a), unidade de tom não é exigência do gênero, e a quebra é deliberada. Em (b), não há regularidade métrica em jogo. Em (d), a alternância é procedimento de composição, não vestígio de colagem."
+                         "explicacao":  "A alegação foi de ofensa à moral, e o que os contos fazem é retirar o eufemismo com que a desigualdade e a violência costumavam ser tratadas: o incômodo veio do modo, e não apenas da matéria. A intenção de ser proibido não é sustentada por nada no texto; a violência urbana já comparecia na literatura brasileira anterior; o episódio mostra a censura alcançando o costume além da política; e o autor seguiu publicando contos depois disso."
                      },
                      {
                          "id":  "literatura-134",
-                         "texto_apoio":  "Num poema, o eu lírico dirige perguntas a si mesmo e responde a algumas delas, deixando outras em aberto.",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "enunciado":  "Esse diálogo interno caracteriza",
+                         "texto_apoio":  "Lavoura Arcaica (1975), de Raduan Nassar, narra o retorno de um filho à fazenda da família, de origem libanesa, governada pela palavra do pai e por sermões sobre trabalho, tempo e obediência. A prosa é feita de períodos muito longos, com ritmo de salmo e vocabulário de tom bíblico, e o conflito central envolve o desejo do filho por sua irmã.",
+                         "enunciado":  "A adoção de uma prosa de períodos longos e ritmo litúrgico, nesse romance, cumpre a função de",
                          "alternativas":  {
-                                              "a":  "um diálogo teatral entre duas personagens que o poema não chega a nomear",
-                                              "b":  "um monólogo em que o sujeito se desdobra, expondo o conflito em vez de resolvê-lo",
-                                              "c":  "uma narrativa em terceira pessoa disfarçada de discurso em primeira",
-                                              "d":  "um texto argumentativo, já que há perguntas encadeadas e respostas parciais",
-                                              "e":  "uma apóstrofe, em que o eu lírico interpela um interlocutor que permanece ausente do texto"
+                                              "a":  "situar a narrativa num passado histórico determinado, identificável por documentos.",
+                                              "b":  "reproduzir na própria linguagem a autoridade da palavra paterna que a trama contesta.",
+                                              "c":  "facilitar a leitura, ao aproximar o texto da conversa cotidiana.",
+                                              "d":  "indicar que a família narrada professa uma religião específica, tema central do livro.",
+                                              "e":  "atenuar o conflito familiar, revestindo-o de tom solene e distante."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Pergunta e resposta partem do mesmo sujeito, que se divide para se interrogar — e as perguntas sem resposta mantêm o conflito aberto em vez de encerrá-lo. Em (e) está o erro mais fino: a apóstrofe também interpela, mas dirige-se a um outro, e aqui o destinatário é o próprio eu. Em (a), não há duas personagens, e sim uma cindida. Em (d), a argumentação caminha para uma conclusão, e o poema recusa fechá-la. Em (c), a primeira pessoa não é disfarce: é a condição do procedimento."
+                         "explicacao":  "O sermão é a forma da lei do pai, e escrever o romance nesse mesmo ritmo faz a linguagem carregar o peso da autoridade contra a qual o filho se volta — a forma encena o conflito em vez de apenas relatá-lo. A ancoragem em passado documentável não é o efeito de um estilo litúrgico; períodos longos dificultam, não facilitam a leitura; o tom bíblico é recurso de linguagem e não descrição de prática religiosa; e o solene intensifica o conflito em lugar de atenuá-lo."
                      },
                      {
                          "id":  "literatura-135",
-                         "texto_apoio":  "Um poema descreve com atenção minuciosa um objeto — sua superfície, seu peso, o modo como reflete a luz — sem em nenhum momento declarar sentimentos do eu lírico.",
+                         "banca":  "fgv",
                          "formato":  "direta",
-                         "enunciado":  "Nesse tipo de construção, a emoção",
+                         "texto_apoio":  "Leite Derramado (2009), de Chico Buarque, é narrado por um homem de mais de cem anos, deitado num leito de hospital, que conta a história de sua família a quem quiser ouvir — enfermeiras, filha, visitantes. Ele pertence a uma linhagem patriarcal outrora poderosa e em ruína, repete os mesmos episódios com variações, contradiz-se, e insiste na antiguidade do sobrenome.",
+                         "enunciado":  "A escolha de um narrador nessas condições produz o efeito de",
                          "alternativas":  {
-                                              "a":  "é declarada pelo eu lírico numa estrofe final que o poema reserva para isso",
-                                              "b":  "está ausente, e o poema se limita ao registro técnico das propriedades do objeto",
-                                              "c":  "depende de nota explicativa que situe o leitor fora do texto do poema",
-                                              "d":  "é transferida para o objeto e para o modo de olhá-lo, chegando ao leitor sem ser nomeada",
-                                              "e":  "cede lugar à argumentação, já que descrever seria operação do entendimento e não da sensibilidade"
+                                              "a":  "garantir a exatidão do relato, dada a extensão da experiência acumulada pelo narrador ao longo de mais de um século.",
+                                              "b":  "restringir a narrativa ao presente do hospital, sem alcance histórico.",
+                                              "c":  "eliminar o tema da decadência familiar, substituído pelo da doença.",
+                                              "d":  "fazer da própria decadência da narrativa a imagem da decadência da família e de sua classe.",
+                                              "e":  "assegurar que os episódios narrados sejam confirmados por outras personagens."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O que carrega a emoção é a escolha do que olhar e da demora com que se olha: o objeto recebe o afeto que o eu lírico não enuncia. Em (b) está a leitura apressada que a questão quer flagrar — não nomear não é não haver, e confundir as duas coisas é ler a descrição como inventário. Em (a), o enunciado exclui qualquer declaração de sentimento. Em (c), o poema se basta, e a nota externa seria confissão de fracasso. Em (e), não há tese nem encadeamento argumentativo, e sim demora descritiva."
+                         "explicacao":  "Um relato que se repete, se contradiz e se agarra ao sobrenome funciona como a linhagem que descreve: o modo de contar entra em ruína junto com o que é contado. A extensão da experiência não garante exatidão, e as contradições provam o contrário; a memória leva a narrativa muito além do quarto de hospital; a decadência familiar é o assunto, e não algo substituído; e nenhuma personagem confirma os episódios, o que é parte do problema."
                      },
                      {
                          "id":  "literatura-136",
-                         "texto_apoio":  "A análise de um poema costuma considerar o eu lírico, o interlocutor, o tema, o tom e os recursos formais.",
-                         "enunciado":  "As alternativas apresentam afirmações corretas sobre o eu lírico, à exceção de uma. Assinale-a.",
+                         "banca":  "fgv",
+                         "formato":  "excecao",
+                         "texto_apoio":  "Budapeste (2003), de Chico Buarque, tem como protagonista um escritor que ganha a vida redigindo textos assinados por outras pessoas, ofício em que se apaga por profissão. Depois de uma escala imprevista, ele passa a dividir a vida entre duas cidades e duas línguas, e a narrativa constrói uma série de duplicações — de nome, de mulher, de livro, de identidade.",
+                         "enunciado":  "O texto sustenta todas as afirmações a seguir sobre o romance, EXCETO:",
                          "alternativas":  {
-                                              "a":  "Corresponde sempre e diretamente à pessoa do autor, cujas opiniões reproduz",
-                                              "b":  "Pode assumir uma persona distinta da do autor, inclusive de outro gênero ou época",
-                                              "c":  "Pode falar no singular ou no plural, assumindo posição individual ou coletiva",
-                                              "d":  "Pode dirigir-se a um interlocutor que nunca responde ao longo do poema",
-                                              "e":  "É uma construção do texto, e não necessariamente a voz biográfica do autor"
+                                              "a":  "O protagonista alcança, ao longo do romance, o reconhecimento público de sua obra sob o próprio nome.",
+                                              "b":  "A duplicação — de nome, de mulher, de livro, de identidade — organiza a construção da narrativa em mais de um plano.",
+                                              "c":  "A convivência entre duas línguas integra a experiência do protagonista.",
+                                              "d":  "A perda de assinatura é apresentada como condição profissional, e não como acidente.",
+                                              "e":  "O ofício do protagonista consiste em escrever textos que outros assinam."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Identificar o eu lírico com o autor é o erro mais comum na leitura de poesia: o eu lírico é papel construído no texto, e pode ser qualquer um. As outras quatro afirmações estão corretas — o comando pede a exceção.",
-                         "formato":  "excecao"
+                         "explicacao":  "O ofício descrito consiste exatamente em não assinar, e o romance trabalha essa condição como problema permanente — reconhecimento sob o próprio nome contraria a premissa. As demais estão sustentadas: o protagonista escreve textos que outros assinam; as duplicações de nome, mulher, livro e identidade organizam a narrativa; as duas línguas integram sua experiência; e o apagamento é apresentado como parte do ofício, não como acidente."
                      },
                      {
                          "id":  "literatura-137",

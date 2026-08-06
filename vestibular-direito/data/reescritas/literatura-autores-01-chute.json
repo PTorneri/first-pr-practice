@@ -1,0 +1,37 @@
+{
+  "_comentario": [
+    "Correcao de chutabilidade do lote literatura-autores-01. Ele subiu o indice da",
+    "frente de 21,3% para 25,3% e o verify-banco REPROVOU.",
+    "",
+    "A causa e estrutural nas questoes de interpretacao, e nao um descuido pontual:",
+    "a alternativa certa carrega a formulacao completa -- com a ressalva, a",
+    "qualificacao, o 'e nao' -- enquanto os distratores sao afirmacoes curtas e",
+    "cortadas. Doze das 25 ficaram com a certa sendo a mais longa, e o aluno que",
+    "nao le o enunciado acerta so por isso. Escrevi as 25 declarando cuidado com",
+    "esse tell e caí nele de novo em quase metade delas.",
+    "",
+    "A correcao NAO encurta a alternativa certa: isso tiraria dela o raciocinio que",
+    "se quer ensinar. Em cada uma das doze, um distrator plausivel recebe conteudo",
+    "adicional -- e conteudo de verdade, tirado do que a propria explicacao ja",
+    "discute, nao enchimento -- de modo que ele passe a ser o mais longo. Descartar",
+    "pelo tamanho passa a ERRAR.",
+    "",
+    "Formato do patch: id, letra do distrator a alongar, e o texto novo. Gabaritos",
+    "e enunciados intactos."
+  ],
+  "subtopic": "literatura",
+  "substituicoes": [
+    { "id": "literatura-42",  "letra": "c", "texto": "A construção da prosa, com seus cortes curtos e suas comparações tiradas da natureza, aproxima-se de procedimentos associados à poesia." },
+    { "id": "literatura-49",  "letra": "a", "texto": "A convivência, dentro de um mesmo livro, entre o verso livre e formas fixas da tradição retomadas sem rigidez." },
+    { "id": "literatura-117", "letra": "b", "texto": "restringir o alcance da obra ao público erudito já familiarizado com a tradição do auto popular e do romanceiro." },
+    { "id": "literatura-121", "letra": "a", "texto": "confirmar a versão policial apresentada nos recortes, que a narrativa seguinte se encarrega de comprovar episódio por episódio." },
+    { "id": "literatura-123", "letra": "d", "texto": "separar três tempos históricos sucessivos, cada um deles retratado integralmente numa das três partes do romance." },
+    { "id": "literatura-124", "letra": "b", "texto": "substituição do tema amoroso pelo tema social e político, que passa a ocupar o centro da obra a partir de então." },
+    { "id": "literatura-128", "letra": "c", "texto": "o desconforto provocado no espectador resultava de falha na construção dramática das peças." },
+    { "id": "literatura-131", "letra": "b", "texto": "a ausência de um protagonista único indica que o autor não conseguiu definir um foco narrativo estável ao longo do livro." },
+    { "id": "literatura-132", "letra": "a", "texto": "atenuar a violência narrada, ao apresentá-la do ponto de vista de quem a pratica e a explica com naturalidade." },
+    { "id": "literatura-133", "letra": "d", "texto": "a censura da ditadura militar restringia-se a obras de conteúdo político explícito e declaradamente oposicionista." },
+    { "id": "literatura-135", "letra": "a", "texto": "garantir a exatidão do relato, dada a extensão da experiência acumulada pelo narrador ao longo de mais de um século." },
+    { "id": "literatura-136", "letra": "b", "texto": "A duplicação — de nome, de mulher, de livro, de identidade — organiza a construção da narrativa em mais de um plano." }
+  ]
+}

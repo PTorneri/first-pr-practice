@@ -770,3 +770,39 @@ body {
 /* Aba escondida por não existir na trilha ativa. O [hidden] sozinho perde para
    o `display:flex` que a barra de abas aplica nos botões. */
 .tab-btn[hidden] { display: none !important; }
+
+/* ---------- Aba Buscar ----------
+   Tudo em cima das variáveis de :root, que o bloco @media (prefers-color-scheme:
+   dark) lá em cima redefine — então o modo escuro sai de graça, sem regra
+   própria aqui. Os filtros e as sugestões reaproveitam .area-filter/.area-pill,
+   já usados no filtro de categoria da aba Obras. */
+.busca-input {
+  width: 100%; box-sizing: border-box; padding: 13px 16px; margin: 4px 0 12px;
+  font: inherit; font-size: 1rem; color: var(--ink);
+  background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+}
+.busca-input::placeholder { color: var(--ink-soft); opacity: .75; }
+.busca-input:focus {
+  outline: none; border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-soft);
+}
+.busca-sugestoes { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
+
+/* O assunto escolhido. Fica em destaque porque muda o QUE a busca faz — com ele
+   a procura é pelos sinônimos do assunto, sem ele é pelo texto digitado. */
+.busca-assunto-ativo {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 7px 14px; font: inherit; font-size: .88rem; font-weight: 600;
+  color: var(--accent-ink); background: var(--accent);
+  border: 1px solid var(--accent); border-radius: 999px; cursor: pointer;
+}
+.busca-assunto-ativo:hover { opacity: .9; }
+.busca-status:empty { display: none; }
+.busca-status { margin: 0 0 12px; }
+
+/* Separador do bloco da outra trilha. A borda à esquerda é o sinal de que dali
+   pra baixo as questões não contam para o progresso de quem está estudando. */
+.busca-outra-trilha {
+  margin: 22px 0 12px; padding: 10px 14px;
+  border-left: 3px solid var(--warn); background: var(--warn-soft); border-radius: 0 8px 8px 0;
+}

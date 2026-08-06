@@ -1,0 +1,942 @@
+{
+    "subtopic":  "artes-cultura",
+    "questoes":  [
+                     {
+                         "id":  "artes-cultura-01",
+                         "texto_apoio":  "Diante de qualquer imagem — uma pintura, um cartaz, uma fotografia — é possível descrever o que se vê antes de interpretar o que aquilo significa.",
+                         "enunciado":  "Os elementos que compõem essa descrição formal são:",
+                         "alternativas":  {
+                                              "a":  "ponto, linha, plano, forma, cor, textura, luz e ritmo",
+                                              "b":  "o contexto histórico de produção da obra, a biografia de seu autor e as condições de encomenda que determinaram sua realização em cada período",
+                                              "c":  "o valor de mercado atribuído à obra, sua trajetória entre colecionadores e o prestígio da instituição que a mantém em seu acervo permanente",
+                                              "d":  "a intenção declarada pelo artista em entrevistas e escritos, elemento a partir do qual se estabeleceria o significado atribuído a cada trabalho",
+                                              "e":  "a reação emocional do observador diante da obra, dado que constituiria o ponto de partida para qualquer análise realizada sobre ela"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "São o vocabulário mínimo da leitura de imagem. Descrever antes de interpretar evita o atalho de projetar sentido sobre a obra sem olhar para ela — e é exatamente essa descrição que as bancas cobram.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-02",
+                         "visual":  {
+                                        "tipo":  "Esquema",
+                                        "arquivo":  "assets/med/art-circulo-cromatico.svg",
+                                        "descricao":  "Um anel dividido em doze setores de cores, cada um a trinta graus do vizinho, percorrendo a sequência do amarelo ao verde, ao azul, ao violeta, ao vermelho e ao laranja, de volta ao amarelo. Três setores estão assinalados por um círculo branco: um na região amarela (1), um na região azul (2) e um na região vermelha (3). Uma reta tracejada atravessa o centro do anel ligando o setor vermelho assinalado (3) ao setor verde no lado oposto (4)."
+                                    },
+                         "enunciado":  "Os três setores assinalados por círculos (1, 2 e 3) correspondem, na teoria tradicional das cores usada nas artes visuais, às cores:",
+                         "alternativas":  {
+                                              "a":  "primárias, das quais se obtêm por mistura todas as demais do círculo",
+                                              "b":  "secundárias, obtidas pela mistura de duas cores primárias em partes iguais, procedimento que produz o conjunto intermediário do círculo cromático",
+                                              "c":  "terciárias, resultantes da mistura entre uma cor primária e a cor secundária que lhe é vizinha na sequência apresentada pelo círculo cromático",
+                                              "d":  "análogas, situadas lado a lado no círculo e empregadas em composições que buscam transmitir sensação de harmonia e continuidade entre os tons",
+                                              "e":  "neutras, obtidas pela mistura de cores opostas no círculo e empregadas para reduzir a saturação de uma composição pictórica em determinadas áreas"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Amarelo, azul e vermelho estão a 120° uns dos outros — é o que os marca como o trio gerador no modelo pigmentar. Misturando dois deles saem as secundárias, que ocupam as posições intermediárias do anel.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-03",
+                         "visual":  {
+                                        "tipo":  "Esquema",
+                                        "arquivo":  "assets/med/art-circulo-cromatico.svg",
+                                        "descricao":  "Um anel dividido em doze setores de cores, cada um a trinta graus do vizinho, percorrendo a sequência do amarelo ao verde, ao azul, ao violeta, ao vermelho e ao laranja, de volta ao amarelo. Três setores estão assinalados por um círculo branco: um na região amarela (1), um na região azul (2) e um na região vermelha (3). Uma reta tracejada atravessa o centro do anel ligando o setor vermelho assinalado (3) ao setor verde no lado oposto (4)."
+                                    },
+                         "enunciado":  "A reta tracejada que atravessa o centro do anel liga os setores 3 e 4, que por isso são chamados de cores ______; postas lado a lado numa composição, elas produzem ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "complementares – o contraste máximo, com reforço mútuo da intensidade percebida",
+                                              "b":  "análogas – uma transição suave entre os tons, empregada em composições que buscam continuidade cromática entre as áreas vizinhas da imagem",
+                                              "c":  "primárias – uma mistura de tonalidade neutra, resultado obtido pela sobreposição direta dos pigmentos correspondentes a cada um dos setores",
+                                              "d":  "monocromáticas – uma variação de luminosidade dentro de uma mesma faixa do círculo, obtida pelo acréscimo de branco ou de preto ao tom escolhido",
+                                              "e":  "quentes – uma sensação de proximidade e avanço em relação ao observador, efeito atribuído às faixas do círculo situadas entre o vermelho e o amarelo"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Opostas no círculo, elas se realçam quando vizinhas e se anulam quando misturadas — daí o cinza que resulta da mistura. É o par que o impressionismo usou para fazer a sombra vibrar em vez de escurecer.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "artes-cultura-04",
+                         "texto_apoio":  "Um cartaz de campanha de vacinação usa fundo azul-esverdeado e tipografia em laranja; outro, sobre urgência hospitalar, usa vermelho saturado sobre branco.",
+                         "enunciado":  "A escolha entre faixas quentes e frias do espectro é justificada porque:",
+                         "alternativas":  {
+                                              "a":  "cores quentes tendem a avançar e mobilizar; frias, a recuar e serenar",
+                                              "b":  "cores quentes e frias produzem efeitos idênticos sobre o observador, o que torna a escolha entre elas indiferente para o resultado da comunicação visual",
+                                              "c":  "apenas as cores frias podem ser empregadas em materiais de comunicação institucional segundo as normas técnicas adotadas pelas agências do setor",
+                                              "d":  "a percepção das cores depende exclusivamente do comprimento de onda da luz refletida, sem qualquer mediação cultural na atribuição de significados",
+                                              "e":  "cores saturadas reduzem a legibilidade de qualquer texto sobre elas sobreposto, razão pela qual o contraste deve ser evitado nesse tipo de material"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "É efeito perceptivo somado a convenção cultural — vermelho significa urgência aqui, mas luto em outras culturas. O designer trabalha com os dois níveis ao mesmo tempo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-05",
+                         "visual":  {
+                                        "tipo":  "Esquema",
+                                        "arquivo":  "assets/med/art-regra-dos-tercos.svg",
+                                        "descricao":  "Um retângulo com uma paisagem esquemática — montanhas ao fundo, uma linha de horizonte e um disco solar à direita. Duas linhas verticais e duas horizontais tracejadas dividem o retângulo em nove partes iguais. Os quatro pontos em que essas linhas se cruzam estão marcados por círculos, e o disco solar está posicionado próximo ao cruzamento superior direito. A linha do horizonte da paisagem coincide com a horizontal inferior da grade."
+                                    },
+                         "enunciado":  "A grade sobreposta à imagem corresponde a um princípio de composição segundo o qual:",
+                         "alternativas":  {
+                                              "a":  "os elementos de maior interesse ganham tensão ao ocupar os cruzamentos, e não o centro geométrico",
+                                              "b":  "os elementos de maior interesse devem ocupar exatamente o centro geométrico do quadro, posição que asseguraria o equilíbrio da composição em qualquer imagem",
+                                              "c":  "a imagem deve ser dividida em partes de tamanhos distintos conforme a importância atribuída a cada elemento representado em seu interior pelo autor",
+                                              "d":  "a linha do horizonte deve ser suprimida das composições paisagísticas para que a atenção do observador se concentre nos objetos representados em primeiro plano",
+                                              "e":  "as proporções do quadro devem obedecer à razão áurea, único critério capaz de produzir composições equilibradas segundo os tratados renascentistas"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Centralizar estabiliza e imobiliza; deslocar para os terços cria tensão e dá ao olhar um percurso. Repare que o horizonte também caiu numa das horizontais, em vez de cortar a imagem ao meio.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-06",
+                         "texto_apoio":  "Numa composição, o peso visual pode ser distribuído em espelho a partir de um eixo central ou compensado por elementos de tamanho, cor e posição diferentes.",
+                         "enunciado":  "Os dois arranjos são chamados equilíbrio ______ e ______; o segundo tende a produzir ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "simétrico – assimétrico – maior dinamismo, por exigir do olhar um percurso de compensação",
+                                              "b":  "assimétrico – simétrico – maior sensação de estabilidade e solenidade, efeito buscado nas composições de caráter cerimonial e religioso de diversos períodos",
+                                              "c":  "estático – dinâmico – uma distribuição idêntica do peso visual entre os dois lados do eixo escolhido para organizar a composição da imagem",
+                                              "d":  "aberto – fechado – a extensão da composição para além dos limites do quadro, recurso empregado para sugerir continuidade da cena representada",
+                                              "e":  "central – periférico – a concentração dos elementos de maior interesse nas bordas do quadro, deixando vazia a região central da composição"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A simetria diz solenidade e permanência — por isso domina a fachada de templos e os retratos oficiais. A assimetria pede que o olho procure o ponto de equilíbrio, e essa busca é o que dá movimento à imagem.",
+                         "formato":  "lacunas",
+                         "banca":  "fuvest"
+                     },
+                     {
+                         "id":  "artes-cultura-07",
+                         "texto_apoio":  "Em certas imagens, a mesma área pode ser lida ora como figura, ora como fundo: um vaso branco sobre preto ou dois perfis defrontados.",
+                         "enunciado":  "Esse fenômeno é estudado pela:",
+                         "alternativas":  {
+                                              "a":  "psicologia da Gestalt, que investiga como o olhar organiza o campo visual em conjuntos",
+                                              "b":  "iconologia, método de interpretação que investiga os significados simbólicos das imagens a partir do repertório cultural do período em que foram produzidas",
+                                              "c":  "teoria da perspectiva, conjunto de procedimentos geométricos destinados a representar a profundidade sobre uma superfície plana de duas dimensões",
+                                              "d":  "crítica institucional, corrente que examina o papel dos museus e das galerias na atribuição de valor às obras que integram seus acervos permanentes",
+                                              "e":  "semiótica peirceana, campo que classifica os signos conforme a relação que estabelecem com aquilo que representam em cada contexto de uso"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A percepção não soma partes, organiza totalidades — e uma delas tem que virar fundo para que a outra vire figura. Design de sinalização hospitalar vive dessas leis: proximidade, semelhança, continuidade, fechamento.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-08",
+                         "texto_apoio":  "Nas paredes de cavernas como Lascaux, Altamira e, no Brasil, na Serra da Capivara, encontram-se representações de animais, mãos em negativo e cenas de caça com dezenas de milhares de anos.",
+                         "enunciado":  "A interpretação predominante sobre essas imagens sustenta que elas:",
+                         "alternativas":  {
+                                              "a":  "articulavam funções rituais, mágicas e de registro, e não a fruição estética no sentido moderno",
+                                              "b":  "foram produzidas como decoração dos espaços habitados por aqueles grupos, função equivalente à que a pintura mural desempenha nas construções atuais",
+                                              "c":  "constituem a primeira manifestação de arte pela arte, produzida sem qualquer vínculo com as práticas coletivas dos grupos que ocuparam aqueles sítios",
+                                              "d":  "resultam de processos naturais de coloração das rochas, sem intervenção humana identificável pelos métodos de datação disponíveis atualmente",
+                                              "e":  "foram realizadas por especialistas remunerados pelos grupos, arranjo que caracterizaria a divisão do trabalho naquelas sociedades do período"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A ideia de arte como objeto de contemplação desinteressada é do século XVIII. Nas cavernas, a imagem parece agir sobre o mundo — propiciar a caça, marcar presença, integrar rito —, e não ser olhada.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-09",
+                         "texto_apoio":  "Nos relevos e pinturas egípcias, a cabeça e as pernas aparecem de perfil, enquanto o olho e o tronco são representados de frente; as figuras de maior importância são desenhadas em escala maior.",
+                         "enunciado":  "Essas duas convenções indicam que a arte egípcia:",
+                         "alternativas":  {
+                                              "a":  "representava cada parte em sua vista mais reconhecível e hierarquizava as figuras pelo tamanho",
+                                              "b":  "buscava reproduzir com fidelidade a aparência óptica das figuras conforme elas seriam vistas por um observador situado em posição fixa diante da cena",
+                                              "c":  "empregava a perspectiva linear com ponto de fuga único, procedimento que organizava a profundidade das cenas representadas nas paredes dos túmulos",
+                                              "d":  "atribuía tamanhos proporcionais à distância de cada figura em relação ao observador, recurso que produzia a sensação de profundidade nas composições",
+                                              "e":  "variava livremente suas convenções conforme o gosto de cada artista, o que explicaria a diversidade de soluções encontradas ao longo dos três milênios"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Não é incapacidade técnica: é outro projeto. A imagem egípcia quer dizer o que a coisa é, não como ela aparece de um ponto de vista — e por isso a escala mede importância, não distância.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-10",
+                         "texto_apoio":  "Compare três esculturas gregas: um jovem rígido, frontal, com um sorriso convencional; um atleta em contrapposto, sereno e idealizado; e um grupo em torção violenta, com rostos contraídos pela dor.",
+                         "enunciado":  "Elas pertencem, respectivamente, aos períodos ______, ______ e ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "arcaico – clássico – helenístico",
+                                              "b":  "clássico – helenístico – arcaico, sequência que corresponde à ordem em que esses períodos se sucederam na produção escultórica da Grécia antiga",
+                                              "c":  "geométrico – orientalizante – arcaico, divisão que descreve as fases iniciais da cerâmica grega segundo os padrões decorativos adotados em cada uma",
+                                              "d":  "românico – gótico – renascentista, periodização empregada na descrição da produção artística europeia posterior à queda do império romano",
+                                              "e":  "minoico – micênico – dórico, sequência que descreve as culturas do Egeu anteriores à formação das cidades-estado no território grego continental"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O arco vai da rigidez à idealização serena e daí ao pathos: o Laocoonte grita, coisa impensável no período clássico. Esse último foi justamente o que o Renascimento redescobriu e imitou.",
+                         "formato":  "lacunas",
+                         "banca":  "fuvest"
+                     },
+                     {
+                         "id":  "artes-cultura-11",
+                         "visual":  {
+                                        "tipo":  "Esquema",
+                                        "arquivo":  "assets/med/art-ordens-gregas.svg",
+                                        "descricao":  "Três colunas gregas esquemáticas lado a lado sobre a mesma base. A coluna I não tem base própria: o fuste, mais robusto, apoia-se diretamente no piso e termina num capitel liso, formado por um bloco arredondado sob uma placa quadrada. A coluna II tem base moldurada, fuste mais esbelto e capitel com duas espirais laterais. A coluna III tem base, fuste ainda mais esbelto e capitel alto em forma de sino, coberto por folhas recortadas."
+                                    },
+                         "enunciado":  "As colunas I, II e III correspondem, respectivamente, às ordens:",
+                         "alternativas":  {
+                                              "a":  "dórica, jônica e coríntia",
+                                              "b":  "jônica, coríntia e dórica, sequência que corresponde à ordem cronológica em que cada uma delas foi formulada na arquitetura grega do período antigo",
+                                              "c":  "toscana, compósita e dórica, classificação estabelecida pelos tratadistas romanos para descrever os sistemas construtivos empregados em seus templos",
+                                              "d":  "coríntia, dórica e jônica, divisão que corresponde ao grau crescente de robustez apresentado pelo fuste em cada um dos três sistemas apresentados",
+                                              "e":  "corintiana, ática e romana, denominações relativas às regiões em que cada um desses sistemas construtivos teria sido desenvolvido durante a antiguidade"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Reconhece-se pelo capitel: liso na dórica, com volutas em espiral na jônica, com folhas de acanto na coríntia. A ausência de base e o fuste mais grosso confirmam a primeira — a mais antiga e a mais austera das três.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-12",
+                         "texto_apoio":  "O Partenon apresenta colunas ligeiramente mais grossas no meio, cantos mais altos que o centro e eixos levemente inclinados para dentro.",
+                         "enunciado":  "Essas correções, chamadas refinamentos ópticos, existem para:",
+                         "alternativas":  {
+                                              "a":  "compensar distorções da percepção, fazendo o edifício parecer reto ao olho",
+                                              "b":  "aumentar a resistência estrutural do conjunto diante dos abalos sísmicos frequentes na região em que o templo foi construído durante aquele período",
+                                              "c":  "reduzir a quantidade de mármore empregada na construção, economia que teria orientado as decisões dos arquitetos responsáveis pela obra",
+                                              "d":  "permitir o escoamento das águas pluviais pela superfície do estilóbata em direção às bordas externas da plataforma sobre a qual o templo se apoia",
+                                              "e":  "sinalizar a hierarquia entre as diferentes partes do edifício conforme a importância ritual atribuída a cada uma delas no culto ali realizado"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Uma linha perfeitamente reta e longa parece curvar para dentro; o templo corrige a ilusão introduzindo a curvatura inversa. É arquitetura feita para o olho, não para o esquadro.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-13",
+                         "texto_apoio":  "Enquanto o templo grego é sustentado por colunas e vergas horizontais, a arquitetura romana desenvolveu o arco, a abóbada e a cúpula, além do concreto.",
+                         "enunciado":  "A principal consequência arquitetônica dessa diferença é que os romanos puderam:",
+                         "alternativas":  {
+                                              "a":  "vencer vãos muito maiores e cobrir grandes espaços internos",
+                                              "b":  "reduzir a altura das construções em relação aos edifícios gregos do período anterior, resultado que decorreria das técnicas construtivas então adotadas",
+                                              "c":  "dispensar o uso de colunas em suas construções, elemento que desapareceu por completo da arquitetura produzida durante o período imperial romano",
+                                              "d":  "abandonar o emprego da pedra como material construtivo, substituída integralmente por outros materiais nas obras públicas realizadas no império",
+                                              "e":  "concentrar sua produção arquitetônica em templos religiosos, tipo de edifício que passou a predominar sobre as demais construções da época"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "Verga de pedra racha se o vão for grande; o arco transfere a carga para as laterais e permite Panteão, termas, basílicas e aquedutos. É a diferença entre um pórtico e um espaço interno de verdade.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-14",
+                         "texto_apoio":  "Nos mosaicos de Ravena e nos ícones bizantinos, as figuras aparecem alongadas, frontais, sobre fundos dourados, sem sombra nem profundidade.",
+                         "enunciado":  "Essas escolhas formais expressam a concepção de que a imagem deve:",
+                         "alternativas":  {
+                                              "a":  "apontar para uma realidade espiritual, e não reproduzir o mundo visível",
+                                              "b":  "reproduzir com exatidão a aparência dos corpos e do espaço conforme eles se apresentam à observação direta em cada uma das cenas representadas",
+                                              "c":  "registrar acontecimentos históricos com fidelidade documental, função que a produção daquele período teria assumido diante da autoridade imperial",
+                                              "d":  "expressar as emoções individuais do artista que a produziu, dimensão que se tornaria central na arte europeia a partir daquele momento histórico",
+                                              "e":  "servir de estudo anatômico para a formação de novos artistas, finalidade atribuída às oficinas que produziam esse tipo de imagem no período"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "O ouro não é céu nem parede: é ausência de lugar terreno. Corpo sem peso, olhar frontal e espaço abolido constroem uma imagem que se apresenta como janela para o sagrado, não para a rua.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-15",
+                         "visual":  {
+                                        "tipo":  "Esquema",
+                                        "arquivo":  "assets/med/art-arco-pleno-ogival.svg",
+                                        "descricao":  "Dois arcos desenhados lado a lado sobre a mesma linha de impostas e cobrindo exatamente o mesmo vão. O arco A é um semicírculo: seu topo é arredondado e sua altura equivale à metade do vão. O arco B é formado por dois trechos curvos que se encontram em ponta no alto, alcançando altura bem maior que a do arco A sobre o mesmo vão. Sob cada arco, os pilares laterais do arco A são mais largos que os do arco B."
+                                    },
+                         "enunciado":  "Os arcos A e B caracterizam, respectivamente, a arquitetura ______ e ______; a diferença de altura sobre o mesmo vão explica ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "românica – gótica – a verticalidade das catedrais góticas e a possibilidade de abrir grandes vitrais",
+                                              "b":  "gótica – românica – a robustez dos muros e a escassez de aberturas características das igrejas construídas durante o período gótico europeu",
+                                              "c":  "bizantina – islâmica – a adoção da cúpula sobre planta central nas construções religiosas realizadas em ambas as tradições ao longo da idade média",
+                                              "d":  "renascentista – barroca – o retorno às proporções da antiguidade clássica observado nas construções religiosas produzidas nos dois períodos",
+                                              "e":  "clássica – helenística – a substituição da verga horizontal pelo arco nas construções monumentais realizadas durante o período antigo na Grécia"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O arco em ponta dirige o empuxo mais para baixo e menos para os lados; com arcobotantes assumindo o resto, a parede deixa de ser estrutura e pode virar vitral. Daí a igreja escura do românico e a catedral luminosa do gótico.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "artes-cultura-16",
+                         "texto_apoio":  "As catedrais góticas cobriram suas paredes de vitrais narrativos, e as igrejas românicas encheram tímpanos e capitéis de relevos com cenas bíblicas.",
+                         "enunciado":  "A principal função dessas imagens, no contexto medieval, era:",
+                         "alternativas":  {
+                                              "a":  "ensinar a doutrina a uma população majoritariamente analfabeta",
+                                              "b":  "registrar os acontecimentos políticos ocorridos na região durante o período de construção do edifício para consulta das gerações seguintes",
+                                              "c":  "demonstrar a habilidade técnica individual dos artistas responsáveis por cada trecho da obra, que assinavam seus trabalhos de forma sistemática",
+                                              "d":  "reproduzir modelos da antiguidade greco-romana recuperados pelos construtores a partir do estudo dos monumentos remanescentes daquele período",
+                                              "e":  "servir de suporte para a experimentação de novas técnicas pictóricas desenvolvidas nas oficinas monásticas ao longo daquele período histórico"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "Gregório Magno chamou as imagens de \"livro dos que não sabem ler\". Isso muda o modo de olhar: cada gesto e cada objeto na cena é signo legível, não invenção livre do artista — que, aliás, raramente assinava.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-17",
+                         "texto_apoio":  "A arte islâmica desenvolveu a caligrafia, os arabescos e os padrões geométricos infinitamente repetíveis, com pouca representação de figuras humanas em contextos religiosos.",
+                         "enunciado":  "Essa característica decorre:",
+                         "alternativas":  {
+                                              "a":  "de uma tradição que evita a imagem figurativa no espaço sagrado, deslocando a criação para a escrita e o padrão",
+                                              "b":  "da ausência de domínio técnico sobre a representação da figura humana entre os artistas que atuaram nas regiões de cultura islâmica no período",
+                                              "c":  "da proibição de qualquer forma de produção artística estabelecida pelas autoridades religiosas nas sociedades islâmicas ao longo de sua história",
+                                              "d":  "da escassez de pigmentos adequados à pintura figurativa nas regiões em que essa produção se desenvolveu durante os séculos considerados",
+                                              "e":  "do desinteresse dessas sociedades pela produção de imagens, dimensão que teria permanecido ausente de sua cultura material ao longo do período"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "É restrição de contexto, não de talento: a miniatura persa é abundantemente figurativa em livros profanos. A energia que não vai para a figura vai para a caligrafia e para a geometria — que ali é forma de arte maior.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-18",
+                         "texto_apoio":  "Nos afrescos da Capela Scrovegni, as figuras de Giotto ganham volume, ocupam um espaço com profundidade e expressam emoção legível nos rostos e nos gestos.",
+                         "enunciado":  "A importância histórica dessa obra está em:",
+                         "alternativas":  {
+                                              "a":  "romper com o esquematismo bizantino e abrir caminho para a pintura renascentista",
+                                              "b":  "consolidar as convenções da pintura bizantina, que a partir dela se difundiriam pelas oficinas da península itálica ao longo dos séculos seguintes",
+                                              "c":  "introduzir a perspectiva linear com ponto de fuga único, procedimento formulado matematicamente naquele momento e aplicado pela primeira vez ali",
+                                              "d":  "substituir a pintura mural pela pintura de cavalete, mudança de suporte que caracterizaria a produção pictórica europeia a partir daquele período",
+                                              "e":  "abandonar os temas religiosos em favor de assuntos profanos, deslocamento que marcaria a produção artística realizada naquela cidade no período"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "Giotto ainda não tem perspectiva matemática — isso é Brunelleschi, um século depois. O que ele dá é peso, espaço e drama humano: a Virgem chora como uma mãe chora, e a pintura passa a acontecer neste mundo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-19",
+                         "visual":  {
+                                        "tipo":  "Esquema",
+                                        "arquivo":  "assets/med/art-perspectiva-ponto-fuga.svg",
+                                        "descricao":  "Uma linha horizontal atravessa toda a largura do desenho; sobre ela há um ponto marcado. Do piso partem várias retas que convergem exatamente nesse ponto, e as faixas horizontais que cruzam essas retas vão ficando mais estreitas à medida que se aproximam dele. Abaixo da linha há um paralelepípedo desenhado de modo que suas arestas de profundidade, se prolongadas, chegam ao mesmo ponto."
+                                    },
+                         "enunciado":  "Na construção representada, a linha horizontal e o ponto assinalado correspondem, respectivamente, a:",
+                         "alternativas":  {
+                                              "a":  "linha do horizonte e ponto de fuga",
+                                              "b":  "eixo de simetria e centro geométrico do quadro, elementos empregados na organização das composições segundo os tratados de proporção do período renascentista",
+                                              "c":  "plano do quadro e ponto de vista do observador, noções que descrevem a posição a partir da qual a cena representada seria efetivamente contemplada",
+                                              "d":  "linha de base e ponto de partida do desenho, referências utilizadas na construção do sistema de medidas adotado em cada representação gráfica",
+                                              "e":  "diagonal de construção e ponto médio da composição, recursos empregados na distribuição dos elementos representados no interior do quadro"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "A linha do horizonte fica sempre na altura dos olhos do observador; o ponto de fuga é onde todas as paralelas perpendiculares ao quadro se encontram. Formalizado no século XV, esse sistema fez da pintura uma janela.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-20",
+                         "texto_apoio":  "A perspectiva linear foi formulada por Brunelleschi e sistematizada por Alberti no início do século XV, em Florença.",
+                         "enunciado":  "Sua adoção pela pintura renascentista significou que:",
+                         "alternativas":  {
+                                              "a":  "o quadro passou a organizar-se a partir de um observador único, situado num ponto determinado do espaço",
+                                              "b":  "a pintura abandonou os temas religiosos em favor de assuntos tomados da vida cotidiana das cidades italianas durante aquele período histórico",
+                                              "c":  "as figuras representadas passaram a ser dimensionadas conforme a importância atribuída a cada uma delas dentro da narrativa apresentada",
+                                              "d":  "o uso da cor foi restringido a uma paleta reduzida, escolha que caracterizaria a produção pictórica realizada naquele período na península itálica",
+                                              "e":  "a pintura mural foi abandonada em favor de suportes portáteis, mudança que teria acompanhado a difusão do novo sistema de representação"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "A perspectiva não é só técnica de profundidade: é uma tese sobre quem olha. Ela instala um sujeito individual num lugar preciso e organiza o mundo a partir dele — o que combina exatamente com o humanismo do período.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-21",
+                         "texto_apoio":  "Leonardo da Vinci desenvolveu uma técnica de transições tonais tão graduais que os contornos parecem dissolver-se em sombra, sem linha demarcatória.",
+                         "enunciado":  "Essa técnica é chamada:",
+                         "alternativas":  {
+                                              "a":  "sfumato, passagem gradual entre luz e sombra sem contorno definido",
+                                              "b":  "tenebrismo, procedimento que opõe áreas de luz intensa a grandes zonas de escuridão para produzir efeito dramático nas cenas representadas",
+                                              "c":  "pontilhismo, técnica que aplica pequenos toques de cor pura justapostos para que a mistura se realize na percepção do próprio observador",
+                                              "d":  "têmpera, processo de preparação da tinta em que o pigmento é aglutinado com gema de ovo antes de ser aplicado sobre o suporte preparado",
+                                              "e":  "grisalha, pintura executada em tons de cinza para simular o relevo escultórico sobre uma superfície plana em determinadas composições murais"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "É o que torna o sorriso da Gioconda instável: sem contorno fixo, o canto da boca muda conforme onde se olha. Leonardo observou que na natureza também não existem linhas — existem passagens de luz.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-22",
+                         "texto_apoio":  "Michelangelo dizia que a escultura consistia em retirar do bloco de mármore a figura que já estava contida nele, e cobriu a abóbada da Capela Sistina com centenas de figuras em torção.",
+                         "enunciado":  "A característica que atravessa sua obra é:",
+                         "alternativas":  {
+                                              "a":  "a centralidade do corpo humano, tratado como suporte de força e drama espiritual",
+                                              "b":  "a preferência pela representação de paisagens e ambientes naturais, tema que ocuparia a maior parte de sua produção ao longo de sua trajetória",
+                                              "c":  "o uso sistemático da perspectiva atmosférica para sugerir profundidade nas composições realizadas tanto em pintura quanto em relevo escultórico",
+                                              "d":  "a recusa da encomenda religiosa, posição que teria orientado suas escolhas profissionais durante o período em que atuou na cidade de Roma",
+                                              "e":  "a dedicação exclusiva à arquitetura, campo em que concentrou sua atividade após o encerramento de seus trabalhos como pintor e escultor"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "Nele o corpo carrega toda a carga expressiva — musculatura tensionada até nas figuras femininas e nos profetas sentados. O nu deixa de ser estudo anatômico e vira linguagem da alma.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-23",
+                         "texto_apoio":  "Na Escola de Atenas, Rafael dispõe dezenas de filósofos sob uma arquitetura abobadada, com Platão e Aristóteles ao centro, sob o arco mais distante.",
+                         "enunciado":  "A organização da composição faz com que:",
+                         "alternativas":  {
+                                              "a":  "a arquitetura e a perspectiva conduzam o olhar às duas figuras centrais",
+                                              "b":  "as figuras se distribuam sem hierarquia pelo espaço representado, o que impede identificar qualquer centro de interesse na composição apresentada",
+                                              "c":  "o observador seja levado a percorrer as bordas do quadro, região em que se concentram os elementos de maior relevância narrativa da cena",
+                                              "d":  "a profundidade seja sugerida apenas pela variação de tamanho das figuras, sem qualquer recurso de construção geométrica do espaço representado",
+                                              "e":  "a cena pareça desenvolver-se num espaço plano e indeterminado, semelhante ao dos fundos dourados empregados na pintura de períodos anteriores"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "O ponto de fuga cai entre as duas cabeças: Platão apontando para cima, Aristóteles para a frente. Forma e conteúdo coincidem — a geometria da pintura enuncia a tese sobre as duas filosofias.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-24",
+                         "texto_apoio":  "Enquanto na Itália se buscava a idealização das formas, pintores flamengos como Van Eyck exploravam a tinta a óleo para registrar reflexos, tecidos e superfícies com minúcia extrema.",
+                         "enunciado":  "A tinta a óleo permitiu a esses pintores:",
+                         "alternativas":  {
+                                              "a":  "trabalhar em camadas transparentes sobrepostas, com secagem lenta e correção posterior",
+                                              "b":  "acelerar a execução das obras em razão da secagem quase imediata do material, característica que teria facilitado o cumprimento dos prazos de encomenda",
+                                              "c":  "aplicar o pigmento diretamente sobre a argamassa fresca da parede, procedimento que fixava a cor de modo permanente à superfície do reboco",
+                                              "d":  "dispensar o desenho preparatório sob a camada pictórica, etapa que deixou de ser realizada nas oficinas daquela região durante aquele período",
+                                              "e":  "reduzir o número de pigmentos empregados em cada obra, simplificação que caracterizaria a produção pictórica realizada nas cidades flamengas"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "A têmpera seca rápido e exige decisão imediata; o óleo permite velar, corrigir e construir profundidade luminosa camada a camada. É o que faz o espelho convexo dos Arnolfini refletir a sala inteira.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-25",
+                         "texto_apoio":  "Na segunda metade do século XVI, pintores como Parmigianino e El Greco alongaram desproporcionalmente os corpos, adotaram cores ácidas e composições instáveis.",
+                         "enunciado":  "Esse momento é chamado ______ e caracteriza-se por ______; ele se explica, em parte, por ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "maneirismo – tensionar as regras do classicismo em vez de repeti-las – uma crise de valores marcada pela Reforma e pelo saque de Roma",
+                                              "b":  "neoclassicismo – retomar as proporções e a serenidade da estatuária antiga – a redescoberta arqueológica das cidades soterradas pelo Vesúvio",
+                                              "c":  "romantismo – privilegiar a expressão do sentimento individual do artista – a difusão das ideias sobre o gênio criador no início do século dezenove",
+                                              "d":  "realismo – representar o trabalho e a vida das camadas populares sem idealização – as transformações sociais trazidas pela industrialização europeia",
+                                              "e":  "impressionismo – registrar a variação da luz sobre os objetos ao ar livre – o desenvolvimento das tintas em bisnaga e da pintura fora do ateliê"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "O maneirismo conhece a regra clássica — e por isso pode distorcê-la de propósito. Pescoço alongado e espaço sem chão são desconforto deliberado, num momento em que a certeza renascentista tinha rachado.",
+                         "formato":  "lacunas",
+                         "banca":  "unicamp"
+                     },
+                     {
+                         "id":  "artes-cultura-26",
+                         "texto_apoio":  "Caravaggio pintou santos com pés sujos, iluminados por um facho de luz que rasga o escuro, capturando o instante exato de uma ação.",
+                         "enunciado":  "Os dois procedimentos que caracterizam essa pintura são:",
+                         "alternativas":  {
+                                              "a":  "o contraste violento entre luz e sombra e a escolha do instante dramático",
+                                              "b":  "a distribuição uniforme da luz sobre toda a superfície do quadro e a representação de figuras em repouso ao longo das cenas apresentadas",
+                                              "c":  "o uso de fundos dourados e a supressão da profundidade espacial, recursos herdados da tradição pictórica do período medieval bizantino",
+                                              "d":  "a redução da paleta a tons pastéis e a construção de composições simétricas em torno de um eixo vertical situado no centro do quadro",
+                                              "e":  "a aplicação de pequenos toques de cor pura justapostos e a pintura realizada ao ar livre diante do motivo escolhido pelo próprio artista"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "Escolher o segundo exato da conversão de Paulo, ou do chamado de Mateus, transforma o quadro em cena. E o santo com pé sujo é escândalo calculado: o sagrado irrompe no meio da gente comum.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-27",
+                         "texto_apoio":  "Após o Concílio de Trento, a Igreja Católica passou a estimular uma arte capaz de comover os fiéis e reafirmar os dogmas questionados pela Reforma.",
+                         "enunciado":  "A relação entre esse contexto e o barroco é a de que este:",
+                         "alternativas":  {
+                                              "a":  "mobilizou movimento, teatralidade e emoção como instrumentos de persuasão religiosa",
+                                              "b":  "adotou a sobriedade e a contenção formal como resposta às críticas dirigidas ao ornamento pelos reformadores durante aquele período histórico",
+                                              "c":  "abandonou os temas religiosos, que deixaram de ser objeto de encomenda pelas instituições eclesiásticas ao longo dos séculos considerados",
+                                              "d":  "restringiu-se aos países que aderiram à Reforma, sem qualquer desenvolvimento nas regiões que permaneceram sob autoridade católica na Europa",
+                                              "e":  "retomou integralmente as proporções e a serenidade da estatuária grega antiga, referência que orientaria sua produção escultórica no período"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "A Santa Teresa de Bernini é o caso exemplar: iluminação natural dirigida, mármore que parece tecido, êxtase encenado num nicho como num palco. A arte aqui é argumento — e argumento dirigido aos sentidos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-28",
+                         "texto_apoio":  "Em Vermeer e Rembrandt, na Holanda protestante do século XVII, predominam retratos burgueses, cenas domésticas, paisagens e naturezas-mortas.",
+                         "enunciado":  "A diferença em relação ao barroco católico explica-se porque, ali:",
+                         "alternativas":  {
+                                              "a":  "a clientela deixou de ser a Igreja e passou a ser a burguesia urbana, com um mercado de arte",
+                                              "b":  "as encomendas religiosas se mantiveram como principal fonte de trabalho para os pintores daquela região ao longo de todo o período considerado",
+                                              "c":  "a produção pictórica passou a ser financiada diretamente pelo Estado, que assumiu o papel antes desempenhado pelas instituições eclesiásticas",
+                                              "d":  "os artistas abandonaram a pintura de cavalete em favor de grandes decorações murais destinadas aos edifícios públicos construídos no período",
+                                              "e":  "a representação da figura humana foi restringida por determinação das autoridades, o que teria deslocado a produção para os temas de paisagem"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "Sem encomenda de altar, o pintor produz para vender em quadro pequeno, para casa de comerciante. É a primeira vez que existe algo próximo de um mercado de arte — e o tema muda junto com o comprador.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-29",
+                         "texto_apoio":  "Em Minas Gerais, no século XVIII, Antônio Francisco Lisboa esculpiu profetas em pedra-sabão e Manuel da Costa Ataíde pintou forros de igreja em que a Virgem tem traços mestiços.",
+                         "enunciado":  "O barroco mineiro caracteriza-se por:",
+                         "alternativas":  {
+                                              "a":  "reelaborar os modelos europeus com materiais e tipos locais, produzindo uma variante própria",
+                                              "b":  "reproduzir sem alterações os modelos europeus difundidos pelos tratados de arquitetura e de pintura que circulavam na colônia naquele período",
+                                              "c":  "abandonar os temas religiosos em favor de assuntos profanos ligados à atividade mineradora desenvolvida na região durante aquele século",
+                                              "d":  "adotar o mármore como material predominante em sua produção escultórica, escolha que teria acompanhado a difusão do estilo naquela região",
+                                              "e":  "restringir-se à arquitetura, campo em que se concentraria a produção artística realizada nas vilas mineiras ao longo do período colonial"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "Pedra-sabão porque é o que há e é macia de talhar; anjos de rosto mestiço porque é quem está na igreja. A cópia vira invenção justamente onde o material e a gente local entram na conta.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-30",
+                         "texto_apoio":  "O conjunto dos Doze Profetas do Santuário de Congonhas foi executado quando o artista já apresentava perda progressiva das mãos, atribuída a uma doença degenerativa ainda hoje discutida.",
+                         "enunciado":  "Do ponto de vista da história da arte, a leitura adequada desse dado é:",
+                         "alternativas":  {
+                                              "a":  "ele contextualiza a produção sem reduzir a obra à condição de seu autor",
+                                              "b":  "ele constitui a chave interpretativa principal do conjunto, cujo valor artístico decorreria diretamente das limitações físicas enfrentadas pelo escultor",
+                                              "c":  "ele invalida a atribuição das obras ao artista, uma vez que sua condição impediria a execução de trabalhos daquela complexidade técnica no período",
+                                              "d":  "ele é irrelevante para o estudo do conjunto, que deve ser analisado sem qualquer referência às condições em que a produção foi realizada",
+                                              "e":  "ele explica a adoção da pedra-sabão como material, escolha determinada exclusivamente pela dificuldade de manuseio de ferramentas pelo escultor"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "A biografia informa, não substitui a análise. Transformar a doença em chave única produz a narrativa romântica do gênio sofredor — e faz perder de vista o que os profetas têm de mais notável: a organização teatral do conjunto no adro.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-31",
+                         "texto_apoio":  "Em O Juramento dos Horácios (1784), Jacques-Louis David dispõe as figuras num espaço austero, com composição rigorosamente ordenada, gestos contidos e tema tomado da história romana.",
+                         "enunciado":  "Essas escolhas caracterizam o neoclassicismo, que se associa:",
+                         "alternativas":  {
+                                              "a":  "aos valores iluministas de razão, dever cívico e ordem",
+                                              "b":  "à valorização do sentimento individual e da imaginação sobre a razão, orientação que caracterizaria a produção artística europeia daquele mesmo período",
+                                              "c":  "à representação sem idealização do trabalho e da vida das camadas populares, tema que ocuparia a pintura europeia a partir daquele momento",
+                                              "d":  "ao registro das variações da luz sobre os objetos observados diretamente ao ar livre, procedimento adotado pelos pintores daquela geração",
+                                              "e":  "à recusa de qualquer referência à antiguidade greco-romana, posição que orientaria as escolhas formais dos artistas ativos naquele período"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Roma republicana é escolhida porque oferece exemplos de virtude cívica e sacrifício pelo bem comum. Não é nostalgia arqueológica: é programa político às vésperas da Revolução Francesa.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-32",
+                         "texto_apoio":  "Em Caspar David Friedrich, uma figura solitária de costas contempla um mar de névoa; em Delacroix, cavalos e corpos se enredam em pinceladas vibrantes e cor intensa.",
+                         "enunciado":  "O romantismo, que essas obras exemplificam, opõe-se ao neoclassicismo por privilegiar:",
+                         "alternativas":  {
+                                              "a":  "o sentimento, a imaginação e a experiência do sublime diante da natureza",
+                                              "b":  "a clareza da composição e a contenção do gesto como critérios de correção formal, princípios herdados dos tratados de arte da antiguidade clássica",
+                                              "c":  "a observação objetiva das condições materiais de vida das camadas populares, tema que ocuparia a produção pictórica daquele mesmo período",
+                                              "d":  "a decomposição dos objetos em planos geométricos vistos simultaneamente de vários ângulos, procedimento formulado no início do século seguinte",
+                                              "e":  "a supressão de qualquer referência figurativa nas composições, orientação que caracterizaria a pintura europeia a partir daquele momento"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "O sublime é a categoria-chave: aquilo que excede a medida humana e mistura terror e fascínio. A figura de costas em Friedrich é dispositivo preciso — ela nos coloca no lugar de quem olha o que não se domina.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-33",
+                         "texto_apoio":  "Courbet pintou em escala monumental o enterro de um homem comum numa aldeia; Millet retratou camponesas recolhendo restos de trigo após a colheita.",
+                         "enunciado":  "A ruptura promovida pelo realismo consiste em:",
+                         "alternativas":  {
+                                              "a":  "dar às cenas da vida ordinária o formato e a dignidade antes reservados aos temas históricos e religiosos",
+                                              "b":  "retomar os temas da mitologia greco-romana em grande formato, assunto que voltaria a ocupar a pintura europeia durante aquele período histórico",
+                                              "c":  "abandonar a representação figurativa em favor de composições organizadas apenas por relações entre formas e cores sobre a superfície do quadro",
+                                              "d":  "restringir a pintura a formatos reduzidos destinados ao consumo doméstico da clientela burguesa que se formava nas cidades europeias do período",
+                                              "e":  "idealizar as condições de vida do campesinato europeu, apresentando-as de modo harmonioso nas composições produzidas naquele momento"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "O escândalo não foi o tema, foi a escala: três metros de tela para um enterro de província, formato até então reservado a batalhas e mártires. A hierarquia acadêmica dos gêneros cai por aí.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-34",
+                         "texto_apoio":  "A fotografia difundiu-se a partir de 1839 e passou a registrar retratos, paisagens e acontecimentos com rapidez e precisão inéditas.",
+                         "enunciado":  "Seu efeito sobre a pintura foi:",
+                         "alternativas":  {
+                                              "a":  "liberá-la da função de registro fiel e empurrá-la para a investigação da própria linguagem",
+                                              "b":  "reforçar sua função de registro documental dos acontecimentos, papel que a pintura passaria a desempenhar com maior precisão a partir daquele momento",
+                                              "c":  "provocar seu desaparecimento como prática artística ao longo da segunda metade do século, período em que ela deixou de ser produzida na Europa",
+                                              "d":  "restringi-la ao gênero do retrato, único campo em que ela teria mantido demanda depois da difusão do novo procedimento técnico de registro",
+                                              "e":  "torná-la dependente do modelo fotográfico, que passaria a ser copiado sem alterações pelos pintores ativos naquele período histórico"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "Se a máquina copia melhor, copiar deixa de ser o problema da pintura. O que vem em seguida — impressionismo, cubismo, abstração — pode ser lido como a pintura perguntando o que só ela sabe fazer.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-35",
+                         "texto_apoio":  "Monet pintou a mesma catedral e os mesmos montes de feno dezenas de vezes, em horas e estações diferentes, com pinceladas soltas e sem contorno definido.",
+                         "enunciado":  "O que essa série investiga é:",
+                         "alternativas":  {
+                                              "a":  "a variação da luz sobre o objeto, e não o objeto em si",
+                                              "b":  "a estrutura geométrica subjacente às formas naturais, investigação que caracterizaria a produção pictórica desenvolvida no período seguinte",
+                                              "c":  "o valor simbólico atribuído àqueles monumentos pela tradição religiosa da região em que o pintor desenvolveu sua atividade profissional",
+                                              "d":  "a precisão do desenho arquitetônico dos edifícios representados, aspecto que orientaria a execução de cada uma das telas da série realizada",
+                                              "e":  "a organização social do trabalho agrícola na região retratada, tema que aproximaria essa produção da pintura realista do período anterior"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "Pintar a mesma coisa muitas vezes só faz sentido se o assunto for outro: o instante luminoso. Daí a tinta em bisnaga, o cavalete ao ar livre e a sombra colorida, que deixa de ser preto e vira complementar.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-36",
+                         "texto_apoio":  "Compare três caminhos abertos depois do impressionismo: um busca a estrutura geométrica das formas; outro carrega a pincelada de emoção e a cor de intensidade; outro procura a cor plana e o símbolo em culturas não europeias.",
+                         "enunciado":  "Correspondem, respectivamente, a ______, ______ e ______; os três compõem ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "Cézanne – Van Gogh – Gauguin – o pós-impressionismo, que desdobra o impressionismo em direções divergentes",
+                                              "b":  "Monet – Renoir – Degas – o impressionismo em sua fase inicial, momento em que o grupo expunha de forma conjunta em Paris durante aquela década",
+                                              "c":  "Picasso – Braque – Gris – o cubismo analítico, etapa em que a decomposição das formas em planos atingiu seu grau mais elaborado no período",
+                                              "d":  "Matisse – Derain – Vlaminck – o fauvismo, movimento que levou a cor a se libertar da função descritiva nas telas produzidas por esse grupo",
+                                              "e":  "Kandinsky – Mondrian – Malevich – o abstracionismo, tendência que suprimiu a referência ao mundo visível nas composições de seus autores"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "Cézanne diz que a natureza se lê em cilindro, esfera e cone — e o cubismo sai daí. Van Gogh abre o expressionismo; Gauguin, a busca do \"primitivo\" que alimentará as vanguardas.",
+                         "formato":  "lacunas",
+                         "banca":  "fuvest"
+                     },
+                     {
+                         "id":  "artes-cultura-37",
+                         "texto_apoio":  "Por volta de 1900, cartazes, grades de metrô, joias e fachadas passaram a exibir linhas sinuosas inspiradas em caules, flores e cabelos, aplicadas indistintamente a objetos de uso e a obras de arte.",
+                         "enunciado":  "Esse movimento é o Art Nouveau, e sua proposta central era:",
+                         "alternativas":  {
+                                              "a":  "dissolver a fronteira entre arte e objeto cotidiano, levando o desenho ao mundo industrial",
+                                              "b":  "restringir a produção artística às belas-artes tradicionais, separando-as com clareza dos objetos produzidos pela indústria naquele mesmo período",
+                                              "c":  "retomar as proporções e o repertório ornamental da antiguidade greco-romana nas construções realizadas nas cidades europeias do período",
+                                              "d":  "suprimir todo ornamento das construções e dos objetos, orientação que caracterizaria o desenho industrial a partir daquele momento histórico",
+                                              "e":  "concentrar a produção em obras únicas destinadas a colecionadores, recusando qualquer forma de reprodução em série dos objetos desenhados"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "A entrada de metrô de Guimard é obra de arte e é mobiliário urbano ao mesmo tempo. É essa fusão que o movimento persegue — e é contra o excesso ornamental dela que a Bauhaus vai reagir vinte anos depois.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-38",
+                         "texto_apoio":  "Em O Grito, de Munch, a paisagem se ondula junto com a figura; nos artistas do grupo Die Brücke, cores arbitrárias e formas angulosas deformam rostos e corpos.",
+                         "enunciado":  "O expressionismo caracteriza-se por:",
+                         "alternativas":  {
+                                              "a":  "deformar a aparência para dar forma visível ao estado interior",
+                                              "b":  "reproduzir a aparência dos objetos conforme eles se apresentam à observação direta, procedimento que orientaria a produção daquele grupo de artistas",
+                                              "c":  "organizar a composição segundo relações matemáticas de proporção estabelecidas previamente ao início da execução de cada uma das obras",
+                                              "d":  "registrar as variações da luz natural sobre os objetos ao longo do dia, investigação que caracterizaria a pintura produzida naquele período",
+                                              "e":  "suprimir a figura humana das composições, orientação que teria sido adotada de modo sistemático pelos artistas vinculados a esse movimento"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "A deformação é o método, não o defeito: o mundo aparece torcido porque quem olha está torcido. Não por acaso o movimento floresce na Alemanha às vésperas e no rescaldo da Primeira Guerra.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-39",
+                         "texto_apoio":  "Numa tela de Matisse, um rosto pode ter uma faixa verde no meio e o fundo ser de um vermelho chapado que não corresponde a nenhuma luz observável.",
+                         "enunciado":  "Essa liberdade caracteriza o fauvismo e significa que a cor:",
+                         "alternativas":  {
+                                              "a":  "deixa de descrever o objeto e passa a ter valor construtivo e expressivo próprio",
+                                              "b":  "passa a reproduzir com maior exatidão os tons observados na natureza, resultado obtido pela aplicação direta dos pigmentos sobre a tela preparada",
+                                              "c":  "desaparece das composições, substituída por uma paleta reduzida a tons de cinza empregada de modo sistemático pelos artistas do grupo",
+                                              "d":  "passa a obedecer às regras de harmonia estabelecidas pelos tratados acadêmicos que orientavam o ensino artístico nas escolas do período",
+                                              "e":  "torna-se elemento secundário na composição, subordinada ao desenho e à construção do volume das figuras representadas em cada tela"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "A cor se emancipa: ela não informa mais como a coisa é, ela organiza o quadro e produz sensação. O apelido \"fauves\", feras, veio de um crítico assustado — e o grupo o adotou.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-40",
+                         "texto_apoio":  "Em Les Demoiselles d'Avignon (1907), Picasso apresenta figuras cujos rostos remetem a máscaras africanas e cujos corpos são vistos simultaneamente de frente e de perfil, num espaço sem profundidade unificada.",
+                         "enunciado":  "A obra inaugura o ______, cujo procedimento central é ______; ela rompe com ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "cubismo – decompor o objeto em planos vistos de vários ângulos ao mesmo tempo – a perspectiva de ponto de vista único herdada do Renascimento",
+                                              "b":  "surrealismo – transcrever imagens do inconsciente por meio do automatismo psíquico – o controle racional exercido pelo artista sobre a execução da obra",
+                                              "c":  "futurismo – representar o movimento e a velocidade por meio da repetição de contornos – a representação estática dos objetos na pintura anterior",
+                                              "d":  "expressionismo abstrato – aplicar a tinta por gotejamento sobre a tela no chão – a relação tradicional entre o corpo do pintor e a superfície pintada",
+                                              "e":  "construtivismo – colocar a produção artística a serviço da transformação social – a autonomia da obra em relação às demandas políticas de seu tempo"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "Quatro séculos de janela renascentista terminam aí. Se o objeto é visto de vários lugares ao mesmo tempo, não há mais um observador único — e a tela volta a ser superfície, não buraco na parede.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "artes-cultura-41",
+                         "texto_apoio":  "O manifesto futurista italiano de 1909 exaltava a velocidade, a máquina, a fábrica e chegava a propor a destruição dos museus.",
+                         "enunciado":  "A ambivalência histórica desse movimento está em:",
+                         "alternativas":  {
+                                              "a":  "sua exaltação da força e da guerra ter aproximado parte de seus integrantes do fascismo italiano",
+                                              "b":  "sua recusa de qualquer inovação formal, posição que o teria mantido vinculado aos procedimentos da pintura acadêmica do século anterior",
+                                              "c":  "sua defesa da preservação do patrimônio artístico europeu, causa que ocupou seus integrantes ao longo das primeiras décadas do século",
+                                              "d":  "seu desinteresse pelas transformações técnicas do período, dimensão ausente dos textos e das obras produzidas por seus participantes",
+                                              "e":  "sua restrição à produção literária, campo em que teria concentrado sua atividade sem qualquer desdobramento nas artes visuais do período"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "O manifesto chama a guerra de \"higiene do mundo\" — e Marinetti termina alinhado ao regime. É o exemplo mais didático de que vanguarda estética não implica posição política progressista.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-42",
+                         "texto_apoio":  "Em 1917, Duchamp assinou um urinol de louça com pseudônimo e o inscreveu numa exposição sob o título Fonte.",
+                         "enunciado":  "O ready-made propõe que:",
+                         "alternativas":  {
+                                              "a":  "o que faz de algo uma obra é a escolha do artista e o contexto institucional que a acolhe",
+                                              "b":  "o valor de uma obra decorre exclusivamente da habilidade técnica empregada em sua execução material pelo artista responsável por ela",
+                                              "c":  "os objetos industriais devem ser reproduzidos manualmente pelo artista antes de serem apresentados ao público em contexto expositivo",
+                                              "d":  "a arte deve restringir-se aos suportes tradicionais da pintura e da escultura, campos em que se estabeleceriam os critérios de julgamento",
+                                              "e":  "a instituição museológica perde qualquer função na atribuição de valor às obras apresentadas ao público em cada um dos períodos históricos"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "A pergunta deixa de ser \"está bem feito?\" e passa a ser \"por que isto é arte?\". Toda a arte conceitual do século XX responde a esse gesto — inclusive quando discorda dele.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-43",
+                         "texto_apoio":  "Dalí pintou relógios moles numa paisagem deserta; Magritte escreveu sob a imagem de um cachimbo que aquilo não era um cachimbo.",
+                         "enunciado":  "O surrealismo, ao qual essas obras pertencem, apoia-se:",
+                         "alternativas":  {
+                                              "a":  "nas teorias sobre o inconsciente e o sonho, buscando liberar a imagem do controle racional",
+                                              "b":  "na observação direta do mundo visível, procedimento que orientaria a execução das obras produzidas pelos artistas vinculados ao movimento",
+                                              "c":  "na aplicação de regras matemáticas de proporção definidas antes do início da execução de cada uma das composições realizadas pelo grupo",
+                                              "d":  "na recusa de qualquer conteúdo figurativo, orientação que aproximaria essa produção das correntes abstratas ativas no mesmo período",
+                                              "e":  "no registro documental dos acontecimentos políticos do período entre as duas guerras mundiais na Europa segundo os relatos de seus participantes"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "Breton lê Freud e propõe o automatismo psíquico como método. A tela de Magritte, porém, faz outra coisa: aponta que a imagem de um cachimbo não é um cachimbo — é sobre a distância entre signo e coisa.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-44",
+                         "texto_apoio":  "Compare duas telas sem qualquer referência ao mundo visível: numa, manchas e traços soltos parecem seguir um impulso musical; noutra, apenas retângulos, linhas pretas ortogonais e as três cores primárias.",
+                         "enunciado":  "Correspondem, respectivamente, ao abstracionismo ______ e ______, associados a ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "informal – geométrico – Kandinsky e Mondrian",
+                                              "b":  "geométrico – informal – Mondrian e Kandinsky, sequência que corresponde à ordem em que cada uma dessas vertentes se desenvolveu na Europa",
+                                              "c":  "figurativo – não figurativo – Matisse e Picasso, artistas cuja produção teria percorrido essas duas orientações ao longo de suas trajetórias",
+                                              "d":  "lírico – expressionista – Pollock e Rothko, autores que desenvolveram sua produção nos Estados Unidos durante o período do pós-guerra",
+                                              "e":  "analítico – sintético – Braque e Gris, etapas que descrevem o desenvolvimento interno de um mesmo movimento durante a década de 1910"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "Os dois abandonam o mundo visível por motivos opostos: Kandinsky quer a vibração espiritual da cor, como na música; Mondrian quer a estrutura universal por trás das aparências. Abstração não é um projeto só.",
+                         "formato":  "lacunas",
+                         "banca":  "unicamp"
+                     },
+                     {
+                         "id":  "artes-cultura-45",
+                         "texto_apoio":  "Fundada em Weimar em 1919, a Bauhaus reuniu num mesmo curso pintura, arquitetura, tipografia, mobiliário e tecelagem, com oficinas voltadas à produção industrial.",
+                         "enunciado":  "Seu princípio orientador pode ser resumido em:",
+                         "alternativas":  {
+                                              "a":  "unir arte e técnica, desenhando objetos em que a forma responde à função",
+                                              "b":  "separar com clareza as belas-artes do desenho de objetos utilitários, distinção que orientaria a organização do currículo adotado pela escola",
+                                              "c":  "recuperar os procedimentos artesanais medievais, recusando qualquer aproximação com os métodos de produção industrial então disponíveis",
+                                              "d":  "concentrar o ensino na formação de pintores de cavalete, campo em que se concentraria a produção dos artistas vinculados à instituição",
+                                              "e":  "ampliar o repertório ornamental aplicado aos objetos de uso cotidiano, orientação que caracterizaria os produtos desenhados por seus alunos"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "É a resposta ao Art Nouveau: se o objeto vai ser produzido em série, o ornamento sai e a função entra. A cadeira de tubo de aço e a tipografia sem serifa saem daí — e a escola é fechada pelo nazismo em 1933.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-46",
+                         "texto_apoio":  "Le Corbusier formulou cinco pontos da arquitetura moderna: pilotis, planta livre, fachada livre, janela em fita e terraço-jardim.",
+                         "enunciado":  "Esses princípios tornaram-se possíveis por causa:",
+                         "alternativas":  {
+                                              "a":  "da estrutura independente em concreto armado, que liberou as paredes da função de sustentação",
+                                              "b":  "do emprego de paredes espessas de alvenaria estrutural, solução que passou a sustentar as construções realizadas segundo esses princípios",
+                                              "c":  "da redução das dimensões dos edifícios, condição que teria permitido dispensar os elementos estruturais empregados nas construções anteriores",
+                                              "d":  "do retorno aos sistemas construtivos da antiguidade clássica, referência que orientaria as soluções adotadas pela arquitetura daquele período",
+                                              "e":  "da substituição do concreto pela madeira nas estruturas, escolha que caracterizaria as construções produzidas segundo esse programa arquitetônico"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "Se a carga corre por pilares e lajes, a parede vira vedação e pode ser onde se quiser — ou ser de vidro. Os cinco pontos são consequências de uma decisão estrutural, não preferências de gosto.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-47",
+                         "texto_apoio":  "Depois da Revolução Mexicana, Diego Rivera, Siqueiros e Orozco cobriram paredes de edifícios públicos com painéis sobre a conquista, o trabalho indígena e a história nacional.",
+                         "enunciado":  "A escolha do mural como suporte relaciona-se:",
+                         "alternativas":  {
+                                              "a":  "ao propósito de alcançar um público amplo fora do circuito de galerias e colecionadores",
+                                              "b":  "à busca de valorização das obras no mercado internacional de arte, objetivo que teria orientado a produção desses artistas naquele período",
+                                              "c":  "à limitação técnica dos materiais disponíveis no país, condição que impedia a produção de pintura de cavalete durante aquelas décadas",
+                                              "d":  "ao desinteresse do Estado mexicano por qualquer forma de encomenda artística ao longo do período posterior ao processo revolucionário",
+                                              "e":  "à recusa de temas históricos e políticos, orientação que caracterizaria a produção desses artistas ao longo de suas respectivas trajetórias"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "Parede de edifício público não se compra nem se leva embora: quem passa, vê. Num país majoritariamente analfabeto na época, o mural funciona como o vitral funcionou na catedral.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-48",
+                         "texto_apoio":  "Warhol serigrafou latas de sopa e rostos de celebridades em repetição; Lichtenstein ampliou quadrinhos com os pontos de impressão à vista.",
+                         "enunciado":  "A pop art caracteriza-se por:",
+                         "alternativas":  {
+                                              "a":  "tomar as imagens da cultura de massa como matéria-prima da obra",
+                                              "b":  "recusar qualquer referência aos produtos da indústria cultural, posição que orientaria as escolhas temáticas dos artistas vinculados ao movimento",
+                                              "c":  "retomar os temas da pintura histórica em grande formato, gênero que voltaria a ocupar a produção artística durante aquele período nos Estados Unidos",
+                                              "d":  "concentrar-se na expressão do gesto individual do artista sobre a tela, procedimento que caracterizaria a geração imediatamente anterior a ela",
+                                              "e":  "suprimir a figuração das composições, orientação que aproximaria essa produção das correntes abstratas ativas no mesmo período histórico"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "A ambiguidade é permanente e proposital: celebra ou critica o consumo? A repetição serigráfica esvazia a imagem de aura ao mesmo tempo que a transforma em ícone — e Warhol nunca desfez o nó.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-49",
+                         "texto_apoio":  "Nas obras de Vasarely e nos trabalhos cinéticos de Julio Le Parc, padrões geométricos produzem sensação de vibração e movimento, ou se movem de fato com motores e luz.",
+                         "enunciado":  "O que essas obras têm em comum é:",
+                         "alternativas":  {
+                                              "a":  "deslocar a obra para o campo da percepção, que passa a se completar no olho e no corpo do espectador",
+                                              "b":  "recorrer à narrativa figurativa para transmitir conteúdos históricos ao público que visita as exposições em que são apresentadas essas obras",
+                                              "c":  "concentrar-se na expressão da subjetividade do artista, dimensão que constituiria o assunto principal dos trabalhos produzidos nessa linha",
+                                              "d":  "recusar qualquer participação do observador, que permaneceria em posição contemplativa diante das obras apresentadas em cada exposição",
+                                              "e":  "restringir-se aos suportes tradicionais da pintura sobre tela, campo em que se concentraria a produção realizada por esses artistas no período"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "A obra não está pronta na parede: acontece quando alguém anda diante dela. É a mesma virada que o neoconcretismo brasileiro fará, e que leva daí ao objeto manipulável de Lygia Clark.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-50",
+                         "texto_apoio":  "Uma obra consiste numa fileira de caixas metálicas idênticas dispostas no chão a intervalos regulares; outra, num certificado com instruções para que a peça seja executada por terceiros.",
+                         "enunciado":  "Elas exemplificam, respectivamente, o ______ e a ______; a segunda sustenta que ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "minimalismo – arte conceitual – a ideia é a obra, e a execução material torna-se secundária",
+                                              "b":  "expressionismo abstrato – pop art – a imagem tomada da cultura de massa constitui o material a partir do qual a obra é construída pelo artista",
+                                              "c":  "surrealismo – dadaísmo – o acaso e o inconsciente devem orientar o processo de criação em substituição ao controle exercido pela razão",
+                                              "d":  "construtivismo – realismo socialista – a produção artística deve servir a um programa político definido pelas instituições do Estado em cada país",
+                                              "e":  "impressionismo – pontilhismo – a mistura das cores deve realizar-se na percepção do observador e não sobre a paleta preparada pelo pintor"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "O minimalismo esvazia a obra de simbolismo e a reduz a presença física no espaço; a arte conceitual dá o passo seguinte e dispensa o objeto. As duas descendem, por caminhos diferentes, do gesto de Duchamp.",
+                         "formato":  "lacunas",
+                         "banca":  "unifesp"
+                     },
+                     {
+                         "id":  "artes-cultura-51",
+                         "texto_apoio":  "Marina Abramović permaneceu sentada e em silêncio diante de visitantes por horas seguidas durante meses; outros artistas submeteram o próprio corpo a situações de risco e resistência.",
+                         "enunciado":  "Na performance, o elemento central é:",
+                         "alternativas":  {
+                                              "a":  "o corpo do artista e o tempo vivido em presença do público, e não um objeto permanente",
+                                              "b":  "o objeto produzido ao final da ação, que passa a integrar o acervo da instituição responsável pela apresentação do trabalho ao público",
+                                              "c":  "o registro fotográfico da ação, considerado a obra propriamente dita pelos artistas que trabalham nessa linha de produção artística",
+                                              "d":  "a reprodutibilidade da proposta, que deve poder ser executada de modo idêntico por qualquer pessoa em qualquer contexto e momento",
+                                              "e":  "a habilidade técnica demonstrada durante a execução, critério pelo qual esses trabalhos seriam avaliados pela crítica especializada"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "É arte que não sobra: acaba quando acaba. O registro documenta, mas não é a obra — o que desafia frontalmente o museu, cuja função é justamente conservar objetos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-52",
+                         "texto_apoio":  "Uma obra ocupa uma sala inteira, que o público atravessa; outra é construída no deserto e só pode ser vista do alto ou percorrida a pé, transformando-se com o tempo e o clima.",
+                         "enunciado":  "Essas modalidades são chamadas, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "instalação e land art",
+                                              "b":  "performance e happening, formas em que a ação realizada diante do público constitui o material principal do trabalho apresentado por seu autor",
+                                              "c":  "assemblage e colagem, procedimentos que reúnem materiais de origens diversas sobre um mesmo suporte para compor a obra finalizada",
+                                              "d":  "videoarte e arte digital, campos que empregam meios eletrônicos na produção e na apresentação dos trabalhos realizados por seus autores",
+                                              "e":  "grafite e arte urbana, manifestações que ocupam superfícies das cidades e dialogam com o público que circula por esses espaços cotidianamente"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "As duas dissolvem o quadro na parede: a obra vira espaço a ser percorrido. E a land art acrescenta o tempo geológico — a peça é feita para se transformar e, muitas vezes, desaparecer.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-53",
+                         "texto_apoio":  "Uma exposição reúne obras de períodos e origens distintas segundo um recorte temático proposto por quem a organiza, com textos de parede, ordem de percurso e iluminação definidos.",
+                         "enunciado":  "Esse trabalho de organização é a curadoria, e reconhecê-lo implica admitir que:",
+                         "alternativas":  {
+                                              "a":  "a exposição é uma interpretação construída, e não a apresentação neutra de um acervo",
+                                              "b":  "as obras apresentadas falam por si mesmas ao público, sem qualquer mediação exercida pela instituição que organiza a mostra em cada ocasião",
+                                              "c":  "a ordem de apresentação das obras é determinada exclusivamente por sua cronologia de produção, critério adotado por todas as instituições do setor",
+                                              "d":  "o trabalho de organização das exposições tem caráter meramente administrativo, sem qualquer efeito sobre a leitura que o público faz do conjunto",
+                                              "e":  "a escolha das obras cabe integralmente aos artistas participantes, que definem também o percurso e os textos apresentados ao público visitante"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "Quem escolhe o que entra, em que ordem e sob que texto está propondo uma tese. Ver isso muda a visita ao museu: passa-se a ler também o dispositivo, não só as obras penduradas nele.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-54",
+                         "texto_apoio":  "Sistemas de inteligência artificial produzem imagens a partir de descrições em texto, treinados sobre grandes acervos de obras existentes.",
+                         "enunciado":  "O debate artístico e jurídico que essa prática abre gira principalmente em torno:",
+                         "alternativas":  {
+                                              "a":  "da autoria, da originalidade e do uso das obras que compõem os dados de treinamento",
+                                              "b":  "da impossibilidade técnica de produzir imagens por esses meios, limitação que os sistemas disponíveis ainda não teriam conseguido superar",
+                                              "c":  "da recusa das instituições artísticas em exibir qualquer trabalho produzido com auxílio de meios técnicos ao longo da história da arte",
+                                              "d":  "do custo de produção dessas imagens, fator que restringiria seu uso a um número reduzido de artistas em atividade no período atual",
+                                              "e":  "da ausência de precedentes na história da arte para o uso de meios mecânicos de produção de imagem por parte dos artistas de cada período"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "A pergunta \"isto é arte?\" já foi respondida por Duchamp, e a fotografia mostrou que meio técnico não desqualifica. O que é novo é o problema do treinamento sobre obras alheias — que é de autoria e de remuneração.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-55",
+                         "texto_apoio":  "Cartier-Bresson descreveu o instante decisivo como o momento em que forma e acontecimento coincidem, e defendia não recortar a imagem depois.",
+                         "enunciado":  "Essa concepção implica que a fotografia:",
+                         "alternativas":  {
+                                              "a":  "envolve escolha de enquadramento e de momento, sendo construção e não simples registro",
+                                              "b":  "constitui um registro automático da realidade, no qual as decisões de quem fotografa não interferem sobre o resultado obtido em cada imagem",
+                                              "c":  "depende integralmente do tratamento posterior da imagem, etapa em que se definiria a composição final apresentada ao público pelo autor",
+                                              "d":  "deve reproduzir a composição de obras pictóricas consagradas, referência que orientaria as escolhas de quem fotografa em cada situação",
+                                              "e":  "perde qualquer valor documental ao ser submetida a decisões de enquadramento, procedimento que comprometeria sua fidelidade ao acontecimento"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "Escolher onde apontar, o que deixar de fora e quando apertar já é interpretar. É por isso que a fotografia documental pode ser rigorosa e autoral ao mesmo tempo — as duas coisas não se excluem.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-56",
+                         "texto_apoio":  "Sebastião Salgado fotografou em preto e branco garimpeiros, migrantes e paisagens em séries de longa duração, publicadas em livros e exposições internacionais.",
+                         "enunciado":  "A principal crítica dirigida a esse trabalho sustenta que ele:",
+                         "alternativas":  {
+                                              "a":  "corre o risco de estetizar o sofrimento, tornando belo aquilo que deveria indignar",
+                                              "b":  "apresenta as situações retratadas sem qualquer elaboração formal, o que reduziria seu alcance junto ao público das exposições realizadas",
+                                              "c":  "restringe-se a temas de paisagem natural, sem qualquer registro das condições de vida das populações fotografadas em cada uma das séries",
+                                              "d":  "utiliza recursos de manipulação digital que comprometeriam a veracidade das cenas apresentadas ao público em suas publicações e mostras",
+                                              "e":  "concentra-se em acontecimentos ocorridos exclusivamente no território brasileiro, o que limitaria o alcance das questões por ele abordadas"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "O debate é legítimo e não tem resposta fechada: a beleza da imagem atrai o olhar que a denúncia precisa, e ao mesmo tempo pode transformar miséria em objeto de fruição. Susan Sontag formulou bem esse desconforto.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-57",
+                         "texto_apoio":  "Eisenstein demonstrou que a justaposição de dois planos produz no espectador um sentido que não está em nenhum deles isoladamente.",
+                         "enunciado":  "Esse procedimento é a montagem, e sua consequência é que o cinema:",
+                         "alternativas":  {
+                                              "a":  "constrói significado pela relação entre planos, e não apenas pelo conteúdo de cada um",
+                                              "b":  "depende exclusivamente do desempenho dos atores diante da câmera, elemento que determinaria o sentido produzido por cada uma das cenas filmadas",
+                                              "c":  "reproduz de modo contínuo a ação registrada diante da câmera, sem qualquer intervenção sobre a ordem em que os trechos são apresentados",
+                                              "d":  "deve limitar-se a registrar peças teatrais em plano fixo, formato que caracterizaria a produção cinematográfica desde suas primeiras décadas",
+                                              "e":  "perde capacidade expressiva quando a ordem dos trechos filmados é alterada durante a preparação da versão final apresentada ao público"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "É o efeito Kulechov: o mesmo rosto neutro parece fome, luto ou desejo conforme o que se corta antes dele. O sentido nasce no corte — e é isso que faz do cinema uma linguagem, e não teatro filmado.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-58",
+                         "visual":  {
+                                        "tipo":  "Esquema",
+                                        "arquivo":  "assets/med/art-planos-enquadramento.svg",
+                                        "descricao":  "Três quadros de mesmo tamanho lado a lado, com a mesma figura humana representada em escalas diferentes. No quadro I a figura aparece inteira e pequena, sobre uma linha de solo, com montanhas ao fundo. No quadro II a figura aparece da cintura para cima e ocupa boa parte da altura do quadro. No quadro III apenas o rosto aparece, preenchendo quase toda a área do quadro."
+                                    },
+                         "enunciado":  "Os quadros I, II e III correspondem, na linguagem audiovisual, respectivamente a:",
+                         "alternativas":  {
+                                              "a":  "plano geral, plano médio e primeiro plano",
+                                              "b":  "primeiro plano, plano médio e plano geral, sequência que corresponde à ordem em que esses enquadramentos costumam abrir uma cena narrativa",
+                                              "c":  "plano-sequência, contraplano e plano-detalhe, categorias que descrevem a relação estabelecida entre trechos consecutivos de uma mesma cena",
+                                              "d":  "câmera alta, câmera baixa e câmera na altura dos olhos, distinção que se refere à posição vertical do aparelho em relação à figura filmada",
+                                              "e":  "panorâmica, travelling e zoom, movimentos que descrevem os deslocamentos realizados pela câmera durante o registro de cada uma das cenas"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "A escala do plano é decisão dramática: o geral situa e diminui a figura no espaço, o médio acompanha a ação e o gesto, e o primeiro plano entrega o rosto — ou seja, a emoção — sem ter para onde o olhar escapar.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-59",
+                         "texto_apoio":  "Numa história em quadrinhos, o leitor vê um personagem erguendo um bastão num quadro e, no quadro seguinte, uma vítima caída; o golpe não é mostrado.",
+                         "enunciado":  "O espaço entre os quadros, em que o leitor completa a ação, é chamado:",
+                         "alternativas":  {
+                                              "a":  "sarjeta, intervalo em que a participação do leitor produz a continuidade narrativa",
+                                              "b":  "requadro, linha que delimita a área ocupada por cada um dos quadros que compõem a página organizada pelo autor da história apresentada",
+                                              "c":  "balão, recurso gráfico destinado a registrar a fala e o pensamento dos personagens representados em cada uma das cenas da narrativa",
+                                              "d":  "onomatopeia, transcrição gráfica de sons empregada para sugerir ruídos e efeitos sonoros nas cenas apresentadas ao longo da narrativa",
+                                              "e":  "splash page, página inteira ocupada por uma única imagem, recurso empregado para marcar momentos de destaque dentro da narrativa"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "Scott McCloud chamou isso de conclusão: o quadrinho não mostra o golpe, quem o desfere é o leitor. É a linguagem que mais explicitamente delega ao público o trabalho de produzir o acontecimento.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "artes-cultura-60",
+                         "texto_apoio":  "Adorno e Horkheimer descreveram a produção cultural em série como indústria, submetida à lógica da mercadoria e à padronização.",
+                         "enunciado":  "Uma leitura contemporânea desse diagnóstico reconhece que a cultura de massa:",
+                         "alternativas":  {
+                                              "a":  "padroniza e ao mesmo tempo é reapropriada de modos imprevistos pelo público que a consome",
+                                              "b":  "determina integralmente o comportamento de quem a consome, sem qualquer margem de reelaboração por parte dos públicos aos quais se destina",
+                                              "c":  "desapareceu com a difusão das plataformas digitais, que substituíram os meios de comunicação de massa nas sociedades contemporâneas analisadas",
+                                              "d":  "produz apenas obras de valor artístico equivalente ao das produzidas fora do circuito industrial, o que tornaria a distinção desnecessária",
+                                              "e":  "restringe-se ao campo da música popular, sem correspondência nas demais formas de produção cultural difundidas nas sociedades industriais"
+                                              },
+                         "resposta":  "a",
+                         "explicacao":  "A crítica frankfurtiana acerta na produção e subestima a recepção. Funk, rap e fanfiction mostram públicos que reprocessam o que recebem — sem que isso apague a assimetria de quem controla os meios.",
+                         "formato":  "direta"
+                     }
+                 ]
+}

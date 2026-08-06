@@ -9165,6 +9165,1373 @@ window.QUESTION_BANKS = {
                                     "formato":  "direta"
                                 }
                             ],
+    "literatura":  [
+                       {
+                           "id":  "literatura-01",
+                           "texto_apoio":  "A Carta de Pero Vaz de Caminha, escrita em 1500 e endereçada ao rei de Portugal, descreve a terra encontrada, seus habitantes e o primeiro contato entre os dois grupos.",
+                           "enunciado":  "O texto costuma ser estudado como marco inicial da literatura produzida no Brasil, embora tenha caráter:",
+                           "alternativas":  {
+                                                "a":  "dramático e dialogado, organizado em cenas que reproduzem as conversas mantidas entre os portugueses e os habitantes encontrados na costa",
+                                                "b":  "ficcional e alegórico, uma vez que o autor recorre a personagens inventadas para representar o processo de colonização então iniciado no território",
+                                                "c":  "documental e informativo, escrito com finalidade administrativa",
+                                                "d":  "lírico e confessional, centrado nos sentimentos do autor diante da paisagem e organizado segundo as convenções da poesia da época",
+                                                "e":  "satírico e polêmico, dirigido contra a política de expansão marítima adotada pela Coroa portuguesa nas primeiras décadas do século XVI"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Caminha escreve um relato oficial: informa ao rei o que se viu e sugere providências. O valor literário lhe foi atribuído depois, pela qualidade da descrição — não pela intenção com que o texto foi produzido.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-02",
+                           "texto_apoio":  "José de Anchieta produziu, no século XVI, autos, poemas e cartas em português, espanhol, latim e tupi.",
+                           "enunciado":  "Essa produção se caracteriza, sobretudo, por:",
+                           "alternativas":  {
+                                                "a":  "servir à catequese, adaptando formas europeias ao público indígena",
+                                                "b":  "registrar de modo sistemático a mitologia dos povos encontrados, com o objetivo de preservá-la para as gerações seguintes de colonizadores",
+                                                "c":  "denunciar os abusos cometidos pela administração colonial contra as populações nativas, tema que percorre toda a obra do autor",
+                                                "d":  "inaugurar a poesia lírica de expressão pessoal no território, rompendo com a tradição religiosa vigente na Península Ibérica da época",
+                                                "e":  "descrever com rigor científico a fauna e a flora do território recém-ocupado, antecipando os relatos dos naturalistas do século seguinte"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "A obra é instrumento de conversão: os autos encenam conflitos entre o bem e o mal em linguagem acessível, e o multilinguismo existe para alcançar públicos distintos. A finalidade é pedagógica e religiosa.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-03",
+                           "texto_apoio":  "O Barroco costuma ser descrito a partir de duas tendências: uma que explora o jogo de palavras e as figuras de som, e outra que explora o jogo de ideias e o raciocínio.",
+                           "enunciado":  "A primeira é chamada ______ e associa-se a ______; a segunda é chamada ______ e associa-se a ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "simbolismo – Verlaine – parnasianismo – Gautier, escolas cujas diferenças se manifestam no tratamento dado à musicalidade do verso poético",
+                                                "b":  "conceptismo – Góngora – cultismo – Quevedo, atribuição que decorre da ordem cronológica em que os dois autores produziram suas obras na Espanha",
+                                                "c":  "classicismo – Camões – maneirismo – Sá de Miranda, correntes que se sucedem no tempo e se distinguem pelo grau de obediência às regras clássicas",
+                                                "d":  "arcadismo – Bocage – romantismo – Garrett, movimentos que se opõem quanto ao papel atribuído à razão na composição da obra literária",
+                                                "e":  "cultismo – Góngora – conceptismo – Quevedo"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Cultismo é o rebuscamento da forma — inversões, metáforas encadeadas, sonoridade —, cuja referência é Góngora. Conceptismo é o jogo do pensamento, com agudeza e paradoxo, e remete a Quevedo. As duas convivem no mesmo autor.",
+                           "formato":  "lacunas",
+                           "banca":  "fuvest"
+                       },
+                       {
+                           "id":  "literatura-04",
+                           "texto_apoio":  "A obra atribuída a Gregório de Matos reúne poemas religiosos de arrependimento, poemas líricos amorosos e sátiras dirigidas à sociedade baiana do século XVII.",
+                           "enunciado":  "Essa variedade é característica do Barroco porque o período se estrutura em torno de:",
+                           "alternativas":  {
+                                                "a":  "uma progressão temática rigorosa, em que o autor abandona os temas profanos à medida que amadurece e se dedica exclusivamente aos religiosos",
+                                                "b":  "tensões não resolvidas entre carne e espírito, pecado e perdão",
+                                                "c":  "regras fixas de composição que determinam qual tema cabe a cada gênero poético, sem permitir que um mesmo autor transite entre eles",
+                                                "d":  "uma visão harmônica do mundo, herdada do Renascimento, em que os opostos se equilibram e se conciliam ao final de cada composição",
+                                                "e":  "uma recusa sistemática da religiosidade, substituída pela celebração dos prazeres terrenos como único valor reconhecido pelo poeta"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "O homem barroco vive dividido entre o apelo dos sentidos e a promessa da salvação, e não resolve o conflito. Por isso o mesmo poeta escreve o poema erótico e o de arrependimento sem que um anule o outro.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-05",
+                           "texto_apoio":  "São recorrentes no Barroco construções como \"tenho medo do que espero\" e \"morro de não morrer\".",
+                           "enunciado":  "Essas construções exemplificam o emprego de:",
+                           "alternativas":  {
+                                                "a":  "hipérbole e prosopopeia, figuras destinadas a ampliar a dimensão dos fatos narrados e a atribuir vida a elementos inanimados do cenário",
+                                                "b":  "metonímia e sinédoque, figuras que operam por deslocamento de sentido entre termos próximos no mesmo campo semântico da composição",
+                                                "c":  "aliteração e assonância, recursos sonoros que reforçam a musicalidade do verso e aproximam a poesia barroca da tradição musical da época",
+                                                "d":  "antítese e paradoxo, figuras que encenam a divisão interna",
+                                                "e":  "elipse e zeugma, figuras de sintaxe que operam pela supressão de termos recuperáveis a partir do contexto em que a construção aparece"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "A antítese põe termos opostos lado a lado; o paradoxo os funde numa afirmação que se contradiz. As duas traduzem, na forma, o conflito que o período toma como tema.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-06",
+                           "texto_apoio":  "O Arcadismo se organiza em torno de alguns lemas latinos herdados da tradição clássica.",
+                           "enunciado":  "\"Fugere urbem\" significa ______, \"locus amoenus\" designa ______ e \"carpe diem\" recomenda ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "aproveitar o dia presente – a cidade como espaço de convívio – buscar o retiro nas montanhas durante os períodos de maior agitação política",
+                                                "b":  "fugir da cidade – o lugar ameno do campo – aproveitar o dia presente",
+                                                "c":  "buscar a verdade pela razão – o estado de espírito do poeta diante da natureza – recusar os prazeres em nome da salvação da alma humana",
+                                                "d":  "imitar os antigos – a herança greco-latina disponível ao poeta – submeter a composição às regras fixadas pelos tratados de retórica clássica",
+                                                "e":  "renunciar aos bens materiais – o retiro monástico afastado do mundo – dedicar a vida inteira à contemplação das verdades eternas reveladas"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Os três lemas se encadeiam: foge-se da cidade corrompida em direção ao campo idealizado, onde se pode gozar o momento presente. É o programa do Arcadismo condensado em três expressões.",
+                           "formato":  "lacunas",
+                           "banca":  "unesp"
+                       },
+                       {
+                           "id":  "literatura-07",
+                           "texto_apoio":  "Cláudio Manuel da Costa e Tomás Antônio Gonzaga produziram no ambiente de Vila Rica, no século XVIII.",
+                           "enunciado":  "Um traço que aproxima a produção dos dois autores é:",
+                           "alternativas":  {
+                                                "a":  "a recusa da herança clássica greco-latina, substituída pela busca de formas de expressão próprias ao território colonial recém-explorado",
+                                                "b":  "a exploração sistemática de temas urbanos, com a cidade mineradora funcionando como cenário principal da maior parte de suas composições",
+                                                "c":  "o emprego do verso livre e da linguagem coloquial, escolhas que antecipam procedimentos formais adotados apenas no século seguinte",
+                                                "d":  "o pastoralismo, com o poeta assumindo a figura de um pastor",
+                                                "e":  "a construção de narrativas em prosa de longa extensão, gênero em que ambos se destacaram durante o período em que viveram na região"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Ambos adotam a convenção pastoril e falam por meio de um pseudônimo de pastor — Glauceste Satúrnio e Dirceu. O cenário mineiro aparece transfigurado no campo idealizado da tradição árcade.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-08",
+                           "texto_apoio":  "As \"Cartas Chilenas\", de autoria atribuída a Tomás Antônio Gonzaga, circularam anonimamente e tratam da administração de uma cidade chamada Chile.",
+                           "enunciado":  "O procedimento central da obra é:",
+                           "alternativas":  {
+                                                "a":  "a sátira, com o disfarce geográfico encobrindo a crítica a Vila Rica",
+                                                "b":  "a alegoria religiosa, em que cada personagem representa uma virtude ou um vício segundo a tradição dos autos medievais de moralidade",
+                                                "c":  "o relato histórico documentado, com base em registros oficiais da administração colonial espanhola no território sul-americano do período",
+                                                "d":  "a idealização amorosa, com a cidade funcionando como metáfora da mulher amada a quem o eu lírico dirige suas composições poéticas",
+                                                "e":  "a descrição naturalista dos costumes locais, apresentada com distanciamento científico e sem qualquer julgamento por parte de quem narra"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Trocar Vila Rica por Chile e o governador por Fanfarrão Minésio permite atacar sem se expor. A sátira depende justamente dessa distância fingida, que todo leitor da época sabia desfazer.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-09",
+                           "texto_apoio":  "Compare os dois períodos: um valoriza o excesso ornamental e a tensão entre opostos; o outro busca simplicidade, clareza e equilíbrio.",
+                           "enunciado":  "O primeiro corresponde ao ______ e o segundo, ao ______; a passagem de um ao outro acompanha ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "Simbolismo – Parnasianismo – a reação contra o subjetivismo excessivo que caracterizara a produção poética das décadas imediatamente anteriores",
+                                                "b":  "Arcadismo – Barroco – o fortalecimento da Contrarreforma e o avanço da religiosidade sobre a produção artística europeia do período",
+                                                "c":  "Romantismo – Realismo – a consolidação do positivismo e das ciências experimentais como referência para a produção literária do século",
+                                                "d":  "Classicismo – Maneirismo – a crise dos valores renascentistas diante das guerras religiosas que atravessaram a Europa naquele momento",
+                                                "e":  "Barroco – Arcadismo – a ascensão do racionalismo iluminista"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "O Arcadismo reage ao Barroco: onde havia acúmulo, busca-se medida; onde havia tensão irresolvida, busca-se serenidade. A mudança acompanha o Iluminismo, que põe a razão e a natureza no centro.",
+                           "formato":  "lacunas",
+                           "banca":  "unicamp"
+                       },
+                       {
+                           "id":  "literatura-10",
+                           "texto_apoio":  "Vários autores árcades mineiros participaram da Inconfidência Mineira e foram processados após o fracasso da conspiração.",
+                           "enunciado":  "Essa participação é relevante para o estudo do período porque:",
+                           "alternativas":  {
+                                                "a":  "demonstra que a poesia árcade brasileira foi produzida com finalidade panfletária, destinada a difundir ideias de independência entre a população",
+                                                "b":  "explica o abandono definitivo das convenções pastoris pelos autores envolvidos, que passaram a escrever exclusivamente sobre temas políticos",
+                                                "c":  "revela a ligação entre a produção literária e o ambiente político da colônia",
+                                                "d":  "comprova que os autores desse período rejeitavam os modelos europeus e buscavam formas de expressão inteiramente originais no território",
+                                                "e":  "estabelece a data de encerramento do movimento, que teria terminado no ano do julgamento dos participantes da conspiração mineira"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Os mesmos homens que escreviam liras pastoris discutiam a autonomia da capitania. O dado não transforma a poesia em panfleto — mostra que ela foi produzida por gente inserida num projeto político concreto.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-11",
+                           "texto_apoio":  "O Romantismo brasileiro se firma a partir da década de 1830, poucos anos depois da independência política.",
+                           "enunciado":  "A coincidência é relevante porque o movimento, no país, assume como tarefa:",
+                           "alternativas":  {
+                                                "a":  "criticar o projeto de independência, apontando as contradições que ele teria deixado sem solução na organização social do novo país",
+                                                "b":  "reproduzir com fidelidade os modelos europeus então em circulação, sem adaptá-los às condições particulares do território recém-emancipado",
+                                                "c":  "documentar as transformações econômicas provocadas pelo fim do regime colonial, tema que ocupa a maior parte da produção do período",
+                                                "d":  "recuperar as formas da tradição clássica greco-latina, abandonadas durante o período colonial em razão do isolamento cultural da colônia",
+                                                "e":  "construir uma identidade nacional por meio da literatura"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "País novo precisa de símbolos, e a literatura fornece os primeiros: a paisagem, o indígena como herói fundador, uma língua reconhecível. O nacionalismo não é tema entre outros — é o programa do período.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-12",
+                           "texto_apoio":  "A primeira geração romântica brasileira é também chamada de geração indianista ou nacionalista.",
+                           "enunciado":  "Seu traço distintivo é:",
+                           "alternativas":  {
+                                                "a":  "o engajamento em causas sociais, especialmente a campanha abolicionista, com poemas de tom oratório destinados à declamação em praça pública",
+                                                "b":  "o aprofundamento do pessimismo existencial e a recorrência dos temas da morte e do tédio, tratados sob a influência da poesia inglesa do período",
+                                                "c":  "a elevação do indígena à condição de herói nacional idealizado",
+                                                "d":  "a experimentação formal, com abandono da métrica regular e da rima em favor de estruturas livres criadas por cada autor individualmente",
+                                                "e":  "a descrição objetiva do meio e da hereditariedade como fatores determinantes do comportamento das personagens retratadas nas obras"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Faltava ao país um passado heroico, e o indígena — nobre, corajoso, ligado à terra — foi construído para ocupar esse lugar. É uma figura idealizada, mais próxima do cavaleiro medieval que de qualquer povo real.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-13",
+                           "texto_apoio":  "A segunda geração romântica é conhecida como ultrarromântica ou geração do \"mal do século\".",
+                           "enunciado":  "Caracterizam-na, entre outros traços:",
+                           "alternativas":  {
+                                                "a":  "o engajamento político e a defesa de causas coletivas, com poemas construídos para produzir efeito sobre auditórios reunidos em espaços públicos",
+                                                "b":  "o pessimismo, o tédio, a obsessão pela morte e o egocentrismo",
+                                                "c":  "a idealização da paisagem tropical e a construção de heróis nacionais extraídos do passado indígena anterior à chegada dos colonizadores",
+                                                "d":  "o rigor formal e a impessoalidade, com preferência por temas extraídos da mitologia clássica e tratados com distanciamento pelo poeta",
+                                                "e":  "a exploração de recursos sonoros e a busca de correspondências entre sensações, com vocabulário voltado ao vago e ao impreciso"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "É a geração byroniana: jovens que morrem cedo, cultivam o spleen e transformam a própria inadequação em tema. O eu ocupa todo o poema, e o mundo aparece apenas como aquilo que o frustra.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-14",
+                           "texto_apoio":  "A terceira geração romântica é chamada condoreira, em referência ao condor, ave que voa alto sobre os Andes.",
+                           "enunciado":  "A imagem se justifica porque essa geração se caracteriza por:",
+                           "alternativas":  {
+                                                "a":  "a adoção de formas fixas rigorosas, especialmente o soneto, tratado com precisão técnica e vocabulário extraído da tradição greco-latina",
+                                                "b":  "um recolhimento intimista que afasta o poeta dos assuntos públicos e o concentra na exploração de seus próprios estados de espírito",
+                                                "c":  "a valorização da paisagem montanhosa como cenário privilegiado das composições, em substituição à floresta tropical das gerações anteriores",
+                                                "d":  "uma poesia de tom elevado, voltada a causas sociais como o abolicionismo",
+                                                "e":  "a recusa de qualquer função social para a literatura, defendida como atividade autônoma e independente das disputas políticas de seu tempo"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "O condor voa alto e enxerga longe: a metáfora traduz a ambição de uma poesia que fala à nação sobre liberdade e escravidão. O tom é oratório porque o destino do poema é a praça, não o gabinete.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-15",
+                           "texto_apoio":  "Considere as três gerações da poesia romântica brasileira.",
+                           "enunciado":  "A primeira volta-se para ______, a segunda para ______ e a terceira para ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "a nação e seu passado – o eu e seus tormentos – a sociedade e suas injustiças",
+                                                "b":  "o eu e seus tormentos – a sociedade e suas injustiças – a nação e seu passado, ordem que corresponde à sucessão cronológica dos três momentos",
+                                                "c":  "a natureza tropical – a herança clássica greco-latina – a experimentação formal, percurso que acompanha o amadurecimento técnico do período",
+                                                "d":  "a religiosidade cristã – o racionalismo iluminista – o determinismo científico, sucessão que reflete as transformações do pensamento europeu",
+                                                "e":  "o cotidiano urbano – a vida rural do interior – o ambiente das cidades portuárias, deslocamento que acompanha a economia brasileira do século"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "O movimento vai do coletivo ao individual e volta ao coletivo, mas com outro conteúdo: da nação a ser fundada, para o eu que sofre, para a injustiça a ser combatida.",
+                           "formato":  "lacunas",
+                           "banca":  "unesp"
+                       },
+                       {
+                           "id":  "literatura-16",
+                           "texto_apoio":  "A \"Canção do Exílio\", de Gonçalves Dias, foi escrita em Coimbra e tornou-se um dos textos mais retomados da literatura brasileira, com paráfrases e paródias em todos os períodos seguintes.",
+                           "enunciado":  "Essa permanência se explica, sobretudo, porque o poema:",
+                           "alternativas":  {
+                                                "a":  "fixou um modelo de exaltação da terra natal que autores posteriores puderam confirmar ou contestar",
+                                                "b":  "apresenta estrutura métrica de grande complexidade técnica, o que o transformou em exercício obrigatório de análise nos cursos de literatura do país",
+                                                "c":  "descreve com exatidão científica a fauna e a flora brasileiras, servindo de referência para os estudos naturalistas realizados no século seguinte",
+                                                "d":  "foi o primeiro texto literário escrito em língua portuguesa no território brasileiro, o que lhe confere valor documental além do valor estético",
+                                                "e":  "trata de tema universal sem qualquer referência ao país de origem do autor, o que permitiu sua adoção por leitores de diferentes nacionalidades"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Um texto se torna matriz quando serve de ponto de partida para quem vem depois. As retomadas modernistas invertem o tom do poema, mas dependem dele para funcionar — e é essa dependência que mede a permanência.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-17",
+                           "texto_apoio":  "\"Lira dos Vinte Anos\", de Álvares de Azevedo, organiza-se em partes de tom bastante distinto entre si.",
+                           "enunciado":  "Essa organização expressa:",
+                           "alternativas":  {
+                                                "a":  "a filiação sucessiva a três escolas literárias distintas, percurso que o autor teria completado antes de definir seu estilo pessoal definitivo",
+                                                "b":  "a progressão cronológica da vida do autor, que teria produzido cada parte em uma fase distinta de sua breve trajetória pessoal e literária",
+                                                "c":  "a divisão temática entre poemas dedicados à natureza e poemas dedicados à cidade, correspondente à oposição campo e cidade do período",
+                                                "d":  "a separação entre composições em verso e composições em prosa, arranjo que o autor teria adotado por sugestão de seus editores da época",
+                                                "e":  "a dualidade entre o idealismo amoroso e o sarcasmo desiludido"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "O próprio poeta anuncia as duas faces: de um lado a amada inatingível e a melancolia; de outro, a ironia e o riso amargo. A dualidade não é incoerência — é o assunto do livro.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-18",
+                           "texto_apoio":  "Castro Alves dedicou parte importante de sua obra ao tema da escravidão, em poemas de forte apelo oratório.",
+                           "enunciado":  "Essa produção se distingue da poesia das gerações anteriores por:",
+                           "alternativas":  {
+                                                "a":  "recusar o tema nacional em favor de assuntos universais, escolha que aproxima o autor das correntes europeias contemporâneas a ele",
+                                                "b":  "abandonar por completo os recursos da retórica romântica, adotando linguagem contida e próxima da prosa jornalística do período abolicionista",
+                                                "c":  "restringir-se ao registro documental dos fatos observados, sem que o poeta manifeste qualquer posição sobre a situação que descreve nos versos",
+                                                "d":  "deslocar o sofrimento do eu lírico para um sujeito coletivo concreto",
+                                                "e":  "adotar formas fixas rigorosas herdadas da tradição clássica, em contraste com a liberdade formal praticada pelos poetas que o antecederam"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "O ultrarromantismo põe o poeta no centro do sofrimento; Castro Alves põe lá os escravizados. A retórica romântica permanece inteira — o que muda é para quem ela é mobilizada.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-19",
+                           "texto_apoio":  "José de Alencar dividiu sua produção em romances indianistas, urbanos, históricos e regionalistas.",
+                           "enunciado":  "O conjunto revela um projeto de:",
+                           "alternativas":  {
+                                                "a":  "acompanhar a evolução das escolas literárias europeias, adaptando ao Brasil cada uma das correntes à medida que elas surgiam no continente",
+                                                "b":  "experimentar sucessivamente todos os gêneros narrativos disponíveis em seu tempo, sem que houvesse relação temática entre os grupos de obras",
+                                                "c":  "cobrir literariamente o território e a formação do país",
+                                                "d":  "documentar sua própria trajetória biográfica, distribuindo pelos diferentes grupos de romances os episódios vividos em cada fase de sua vida",
+                                                "e":  "produzir obras dirigidas a públicos economicamente distintos, estratégia comercial adotada em razão do crescimento do mercado editorial"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Alencar escreve como quem preenche um mapa: a origem no indianista, o passado no histórico, o interior no regionalista, a Corte no urbano. É literatura como projeto de nação, não como acaso temático.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-20",
+                           "texto_apoio":  "Os romances urbanos de Alencar se passam na Corte e tratam de casamento, herança, aparência social e dinheiro.",
+                           "enunciado":  "Neles, o conflito central costuma opor:",
+                           "alternativas":  {
+                                                "a":  "a cultura indígena originária e os valores trazidos pelo colonizador europeu, oposição que estrutura toda a produção do autor no período",
+                                                "b":  "o sentimento sincero e os interesses materiais que cercam o casamento",
+                                                "c":  "a vida no campo e a vida na cidade, com clara preferência do narrador pela primeira em razão de sua suposta pureza moral preservada",
+                                                "d":  "a geração mais velha e a mais nova, divididas quanto ao projeto político de organização do Estado brasileiro após a independência",
+                                                "e":  "o determinismo do meio social e a liberdade individual das personagens, tema que o autor desenvolve com base nas teorias científicas do período"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Na Corte, o casamento é arranjo econômico, e o romance urbano gira em torno do choque entre o afeto e o cálculo. A idealização romântica sobrevive, mas cercada de contas a pagar.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-21",
+                           "texto_apoio":  "\"Memórias de um Sargento de Milícias\", de Manuel Antônio de Almeida, narra as aventuras de uma personagem que atravessa dificuldades sem nunca assumir posição heroica.",
+                           "enunciado":  "A obra se distingue da produção romântica de seu tempo porque:",
+                           "alternativas":  {
+                                                "a":  "apresenta desfecho trágico para todas as personagens, rompendo com a convenção do final feliz predominante na ficção romântica brasileira",
+                                                "b":  "adota linguagem elevada e vocabulário erudito, em contraste com a simplicidade adotada pelos demais romancistas do período no país",
+                                                "c":  "situa a ação em passado remoto e anterior à colonização, escolha que a aproxima dos romances indianistas produzidos na mesma década",
+                                                "d":  "substitui o herói idealizado por uma figura que se safa pela esperteza",
+                                                "e":  "concentra-se na análise psicológica das personagens, procedimento que só se tornaria corrente na literatura brasileira décadas mais tarde"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Leonardo não vence por virtude nem por coragem: escapa. A crítica costuma ler aí a primeira grande figura do malandro, e é ela que afasta o livro da idealização romântica corrente.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-22",
+                           "texto_apoio":  "Alencar defendia a adoção, na literatura, de uma língua portuguesa marcada por particularidades brasileiras, o que lhe rendeu críticas de contemporâneos portugueses.",
+                           "enunciado":  "A polêmica se explica porque a posição do autor implicava:",
+                           "alternativas":  {
+                                                "a":  "abandonar o português como língua literária e substituí-lo por uma língua nova formada a partir dos idiomas falados pelos povos indígenas",
+                                                "b":  "reconhecer autonomia à variedade brasileira diante da norma lisboeta",
+                                                "c":  "aceitar sem restrições todos os estrangeirismos em circulação no país, medida que os críticos portugueses consideravam empobrecedora do idioma",
+                                                "d":  "restringir a literatura brasileira a temas locais, deixando de lado qualquer assunto que pudesse interessar a leitores de outros países",
+                                                "e":  "eliminar da escrita literária as marcas da oralidade, aproximando o texto de um padrão único válido para os dois lados do Atlântico"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "A questão não é de vocabulário, é de autoridade: dizer que o modo brasileiro de escrever é legítimo significa recusar Lisboa como única medida de correção. Por isso a discussão foi tão áspera.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-23",
+                           "texto_apoio":  "\"A Moreninha\", de Joaquim Manuel de Macedo, foi um dos primeiros grandes sucessos de público da ficção brasileira e circulava em capítulos.",
+                           "enunciado":  "Essa forma de circulação influenciou a obra ao exigir:",
+                           "alternativas":  {
+                                                "a":  "estrutura fragmentada e ausência de desfecho, características que se tornariam correntes apenas na produção literária do século seguinte",
+                                                "b":  "linguagem hermética e vocabulário especializado, adequados ao público restrito e altamente instruído que consumia esse tipo de publicação",
+                                                "c":  "capítulos curtos com ganchos que sustentassem o interesse do leitor",
+                                                "d":  "extensão reduzida do conjunto da obra, que precisava ser concluída em poucas semanas por exigência dos editores dos periódicos da época",
+                                                "e":  "abandono de qualquer preocupação com a caracterização das personagens, em favor da sucessão acelerada de acontecimentos surpreendentes"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O folhetim é lido aos pedaços, com intervalo entre eles: cada trecho precisa fechar deixando uma pergunta aberta. A estrutura do romance responde a uma condição material de publicação.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-24",
+                           "texto_apoio":  "Nos romances regionalistas românticos, o sertanejo e o gaúcho aparecem como figuras de coragem, lealdade e ligação com a terra.",
+                           "enunciado":  "Essas figuras cumprem, nesse período, função semelhante à do:",
+                           "alternativas":  {
+                                                "a":  "indígena idealizado, servindo de símbolo nacional",
+                                                "b":  "narrador realista, encarregado de analisar com distanciamento crítico a sociedade retratada em cada uma das obras produzidas no período",
+                                                "c":  "herói trágico da tradição clássica, cuja queda decorre de um erro cometido em razão de defeito próprio de seu caráter individual",
+                                                "d":  "antagonista dos romances urbanos, responsável por representar os interesses econômicos que se opõem ao sentimento das personagens",
+                                                "e":  "cronista de costumes, figura encarregada de registrar com humor os hábitos das camadas médias urbanas do Rio de Janeiro imperial"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Muda a paisagem, permanece a operação: escolhe-se um tipo humano, idealiza-se e transforma-se em emblema do país. Sertanejo e gaúcho são o indianismo transposto para outro cenário.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-25",
+                           "texto_apoio":  "Na ficção romântica, a heroína costuma ser descrita como pura, frágil e moralmente superior, e o herói, como corajoso e disposto ao sacrifício.",
+                           "enunciado":  "Essa caracterização revela que as personagens funcionam, no período, como:",
+                           "alternativas":  {
+                                                "a":  "representantes de classes sociais em conflito, cuja função é tornar visível a estrutura econômica da sociedade retratada nas obras",
+                                                "b":  "reproduções fiéis de pessoas reais observadas pelos autores em seu meio social, procedimento que caracteriza a estética adotada no período",
+                                                "c":  "resultados do meio e da herança biológica, fatores que determinam integralmente seu comportamento ao longo de toda a narrativa apresentada",
+                                                "d":  "figuras deliberadamente contraditórias, construídas para frustrar as expectativas do leitor quanto ao desfecho de cada uma das histórias",
+                                                "e":  "encarnações de valores, e não como indivíduos psicologicamente complexos"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "A personagem romântica é um ideal em movimento: age conforme o valor que representa e não muda de dentro para fora. A complexidade psicológica só entra na ficção brasileira com o Realismo.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-26",
+                           "texto_apoio":  "É comum, na poesia romântica, que a paisagem apareça tempestuosa quando o eu lírico sofre e serena quando ele encontra alívio.",
+                           "enunciado":  "Esse procedimento se explica porque, no Romantismo, a natureza funciona como:",
+                           "alternativas":  {
+                                                "a":  "cenário neutro e indiferente à ação humana, escolha que reforça a insignificância das personagens diante das forças do mundo natural",
+                                                "b":  "objeto de descrição científica rigorosa, tratado com o mesmo distanciamento que os naturalistas aplicavam ao estudo das espécies observadas",
+                                                "c":  "projeção do estado de espírito de quem observa",
+                                                "d":  "espaço social organizado pelo trabalho humano, cuja descrição permite ao autor discutir as relações econômicas vigentes no território",
+                                                "e":  "herança da tradição clássica greco-latina, reproduzida com fidelidade às convenções fixadas pelos tratados de retórica da Antiguidade"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "A tempestade não descreve o tempo: descreve quem olha. Chama-se a isso projeção sentimental, e ela é possível porque o Romantismo põe a subjetividade no centro de tudo o que o poema registra.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-27",
+                           "texto_apoio":  "Leia o poema, escrito à maneira ultrarromântica:\n\nSe eu morresse esta noite, quem diria?\nA lâmpada apagada, o livro aberto,\ne o nome dela — sempre tão de perto,\nsempre tão longe — em página vazia.\n\nNão quero funeral, nem companhia.\nQuero apenas que fique, no deserto\ndeste quarto, um retrato descoberto\ne a sombra do que fui, que ninguém via.",
+                           "enunciado":  "O poema apresenta ______, tema recorrente na segunda geração romântica, e constrói o efeito por meio de ______ e de ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "a idealização da morte – uma amada inatingível – um eu que se contempla",
+                                                "b":  "a denúncia da escravidão – imagens de multidão – um tom oratório dirigido a auditórios reunidos em espaços públicos para ouvir a declamação",
+                                                "c":  "a exaltação da natureza tropical – enumerações descritivas – um vocabulário extraído da fauna e da flora encontradas no território brasileiro",
+                                                "d":  "a crítica social objetiva – dados sobre a vida urbana – um narrador distanciado que se abstém de qualquer julgamento sobre os fatos narrados",
+                                                "e":  "a fé religiosa consoladora – imagens de ascensão – uma linguagem que retoma as convenções da poesia devocional do período barroco brasileiro"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "A morte é desejada e estetizada, a amada aparece apenas como nome numa página em branco, e todo o poema se organiza em torno do próprio eu — inclusive o pedido de que ninguém venha. São as três marcas da geração byroniana.",
+                           "formato":  "lacunas",
+                           "banca":  "unicamp"
+                       },
+                       {
+                           "id":  "literatura-28",
+                           "texto_apoio":  "São recorrentes, no Romantismo, a fuga para o passado medieval, para terras distantes, para o sonho e para a morte.",
+                           "enunciado":  "Esses movimentos são reunidos sob a designação de:",
+                           "alternativas":  {
+                                                "a":  "sincretismo, combinação de elementos provenientes de tradições culturais distintas dentro de uma mesma obra literária produzida no período",
+                                                "b":  "determinismo, doutrina segundo a qual o comportamento humano decorre integralmente de fatores externos como o meio e a herança recebida",
+                                                "c":  "objetivismo, atitude que consiste em descrever o mundo tal como ele se apresenta, sem interferência dos sentimentos de quem escreve o texto",
+                                                "d":  "classicismo, adesão às regras de composição fixadas pela tradição greco-latina e retomadas pelos tratados de retórica do período renascentista",
+                                                "e":  "escapismo, recusa da realidade presente por vias imaginárias"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "O escapismo é o avesso do nacionalismo da primeira geração: onde uma constrói o país, a outra foge dele. As duas atitudes convivem no mesmo movimento porque partem do mesmo desconforto com o presente.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-29",
+                           "texto_apoio":  "A partir da década de 1880, autores brasileiros passam a construir personagens movidas por interesse, vaidade e cálculo, e narradores que analisam essas motivações com distanciamento irônico.",
+                           "enunciado":  "Essa mudança marca a passagem para o:",
+                           "alternativas":  {
+                                                "a":  "Arcadismo, que substitui o excesso ornamental do período anterior pela busca de equilíbrio e clareza na composição das obras literárias",
+                                                "b":  "Realismo, que substitui a idealização pela análise crítica",
+                                                "c":  "Simbolismo, que substitui a descrição objetiva do mundo exterior pela sugestão de estados de alma por meio da musicalidade do verso",
+                                                "d":  "Modernismo, que substitui as formas fixas herdadas da tradição por procedimentos experimentais criados por cada autor individualmente",
+                                                "e":  "Barroco, que substitui a harmonia renascentista pela tensão entre elementos opostos que se enfrentam no interior de cada composição"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "O Realismo mantém o mesmo material — casamento, dinheiro, ambição — e troca a lente: onde o Romantismo idealizava, ele examina. O narrador irônico é o instrumento dessa mudança.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-30",
+                           "texto_apoio":  "Considere: o Realismo se interessa pela análise psicológica e moral das personagens; o Naturalismo, pela ação do meio, da raça e do momento sobre o comportamento humano.",
+                           "enunciado":  "A diferença fundamental entre as duas tendências está em que apenas a segunda:",
+                           "alternativas":  {
+                                                "a":  "emprega narrador em terceira pessoa, forma que a primeira substitui pelo relato em primeira pessoa conduzido pela personagem principal",
+                                                "b":  "recusa qualquer forma de idealização das personagens, procedimento que a primeira das duas tendências mantém em relação às figuras femininas",
+                                                "c":  "situa a ação em ambiente urbano, ao passo que a primeira se concentra na descrição da vida rural e das relações de trabalho no campo",
+                                                "d":  "adota pressupostos científicos deterministas para explicar a conduta",
+                                                "e":  "produz obras de extensão reduzida, característica que decorre da preferência pelo conto em detrimento do romance de longa duração"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "O naturalista trata a personagem como caso: o meio e a herança explicam o que ela faz, e o romance funciona como experimento. O realista analisa motivações sem submetê-las a essa lei geral.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-31",
+                           "texto_apoio":  "A obra de Machado de Assis costuma ser dividida em duas fases, separadas pela publicação de \"Memórias Póstumas de Brás Cubas\", em 1881.",
+                           "enunciado":  "A mudança entre elas se caracteriza pela passagem:",
+                           "alternativas":  {
+                                                "a":  "do romance urbano para o romance regionalista, deslocamento que acompanha o interesse crescente do autor pelas populações do interior do país",
+                                                "b":  "da convenção romântica para a análise irônica e o experimento formal",
+                                                "c":  "da prosa para a poesia, gênero ao qual o autor se dedicou de forma exclusiva a partir da década de 1880 até o final de sua trajetória",
+                                                "d":  "do determinismo científico para a análise psicológica, percurso inverso ao seguido pelos demais autores brasileiros do mesmo período",
+                                                "e":  "da produção em periódicos para a publicação em volume, mudança de suporte que explicaria as diferenças formais entre os dois conjuntos"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Os romances iniciais seguem convenções românticas de enredo e desfecho. A partir de 1881, o narrador passa a duvidar de tudo — inclusive de si —, e a forma se torna instável e digressiva.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-32",
+                           "texto_apoio":  "Em \"Memórias Póstumas de Brás Cubas\", quem narra é um homem já morto, que escreve suas memórias depois do fim da própria vida.",
+                           "enunciado":  "Esse recurso permite ao narrador:",
+                           "alternativas":  {
+                                                "a":  "dividir a narração com outras personagens, cada uma responsável por apresentar sua própria versão dos episódios relatados na obra",
+                                                "b":  "descrever com exatidão os acontecimentos posteriores à sua morte, o que confere ao relato caráter profético inédito na literatura brasileira",
+                                                "c":  "manter distanciamento científico em relação aos fatos narrados, procedimento que aproxima a obra dos romances naturalistas do período",
+                                                "d":  "falar sem os freios que a vida social lhe impunha",
+                                                "e":  "abandonar a ordem cronológica em favor de uma organização temática rigorosa, na qual cada capítulo trata de um único assunto delimitado"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Morto, ele não tem reputação a defender nem interesse a preservar. A liberdade do defunto autor é o que autoriza a franqueza cruel do livro — e também o que a torna suspeita.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-33",
+                           "texto_apoio":  "Os romances da segunda fase de Machado apresentam capítulos muito curtos, interrupções da narrativa e conversas diretas com o leitor.",
+                           "enunciado":  "Esses procedimentos produzem o efeito de:",
+                           "alternativas":  {
+                                                "a":  "expor a construção do romance, lembrando que ele é artifício",
+                                                "b":  "acelerar o ritmo da narrativa para atender às exigências da publicação em capítulos periódicos, formato adotado por todos os romances do período",
+                                                "c":  "reproduzir a desordem mental das personagens, cuja instabilidade psicológica constitui o tema principal de cada uma das obras dessa fase",
+                                                "d":  "facilitar a leitura por parte de um público pouco alfabetizado, para o qual capítulos longos representariam obstáculo à compreensão do texto",
+                                                "e":  "documentar com precisão o cotidiano da sociedade retratada, que se apresentaria de forma igualmente fragmentada aos olhos do observador"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Ao interromper-se, comentar o próprio livro e provocar quem lê, o narrador desfaz a ilusão de realidade. O romance passa a exibir suas costuras em vez de escondê-las.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-34",
+                           "texto_apoio":  "Em \"Dom Casmurro\", Bento Santiago narra sua vida e acusa Capitu de traição, sem apresentar prova alguma além de suas próprias impressões.",
+                           "enunciado":  "O leitor não pode confiar plenamente no relato porque o narrador ______, o que faz da obra ______ e transfere ao leitor ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "desconhece o desfecho da história – uma narrativa construída em ordem estritamente cronológica – a função de antecipar o que ainda está por vir",
+                                                "b":  "narra em terceira pessoa – um exemplo de narrador onisciente neutro – a possibilidade de acompanhar simultaneamente o pensamento de todas as personagens",
+                                                "c":  "apresenta provas documentais – um romance de tese sustentado por evidências – a obrigação de aceitar a conclusão apresentada ao final do livro",
+                                                "d":  "escreve logo após os fatos – um relato marcado pela ausência de distanciamento temporal – o encargo de reconstituir a cronologia dos episódios",
+                                                "e":  "é parte interessada no que narra – um caso de narrador não confiável – a tarefa de julgar"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Quem conta é o marido que se julga traído, e ele controla tudo o que sabemos. A crítica moderna deslocou a pergunta: em vez de \"Capitu traiu?\", pergunta-se por que Bento precisa que tenhamos certeza de que sim.",
+                           "formato":  "lacunas",
+                           "banca":  "fuvest"
+                       },
+                       {
+                           "id":  "literatura-35",
+                           "texto_apoio":  "Em \"Quincas Borba\", uma personagem formula uma doutrina filosófica chamada Humanitismo, cuja máxima é \"ao vencedor, as batatas\".",
+                           "enunciado":  "A doutrina funciona na obra como:",
+                           "alternativas":  {
+                                                "a":  "resumo das teorias científicas em circulação, apresentadas sem qualquer julgamento para que o leitor possa avaliá-las por conta própria",
+                                                "b":  "exposição séria do pensamento do autor, que teria adotado essa doutrina como fundamento de toda a sua produção literária a partir daquele momento",
+                                                "c":  "paródia das filosofias que justificam a vitória do mais forte",
+                                                "d":  "recurso de caracterização psicológica da personagem principal, sem qualquer relação com os debates intelectuais em curso naquele período",
+                                                "e":  "homenagem às correntes positivistas então dominantes no país, cujas ideias o autor teria buscado divulgar por meio da ficção romanesca"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O Humanitismo leva ao ridículo o darwinismo social e as filosofias que transformam a força em direito. A máxima das batatas é engraçada até se perceber quem, no romance, fica sem elas.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-36",
+                           "texto_apoio":  "Muitos contos de Machado terminam sem que o leitor possa decidir com segurança o que de fato aconteceu ou qual o julgamento do narrador.",
+                           "enunciado":  "Essa característica é chamada de:",
+                           "alternativas":  {
+                                                "a":  "linearidade, organização dos acontecimentos segundo a ordem cronológica em que eles teriam ocorrido no interior do mundo ficcional",
+                                                "b":  "verossimilhança, princípio segundo o qual os acontecimentos narrados devem obedecer à lógica interna estabelecida pela própria obra literária",
+                                                "c":  "determinismo, doutrina que explica o comportamento das personagens a partir de fatores hereditários e das condições do meio em que vivem",
+                                                "d":  "onisciência, atributo do narrador que conhece integralmente os fatos e os pensamentos de todas as personagens envolvidas na narrativa",
+                                                "e":  "ambiguidade, procedimento que deixa a interpretação em aberto"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "A ambiguidade não é falha de acabamento: é o efeito buscado. O conto se recusa a fechar o sentido, e o desconforto que sobra é parte do que a obra quer produzir em quem lê.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-37",
+                           "texto_apoio":  "As personagens de Machado pertencem, em geral, à elite carioca do Segundo Reinado: proprietários, bacharéis, funcionários e agregados.",
+                           "enunciado":  "A escolha permite ao autor examinar:",
+                           "alternativas":  {
+                                                "a":  "a vida das populações rurais do interior do país, retratadas com atenção aos costumes e às formas de organização comunitária de cada região",
+                                                "b":  "as condições de trabalho nas fábricas urbanas em expansão, tema que ocupa a maior parte dos romances produzidos na segunda fase do autor",
+                                                "c":  "o favor e a dependência pessoal como base das relações sociais",
+                                                "d":  "o cotidiano das camadas mais pobres da cidade, cujas condições de moradia e de subsistência são descritas com detalhamento documental",
+                                                "e":  "os conflitos entre proprietários rurais e trabalhadores imigrantes, tema central da produção literária brasileira das últimas décadas do século"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Num país escravista com uma camada livre e pobre dependente de proteção, o favor organiza tudo — e Machado o observa de dentro. As figuras do agregado e do protetor atravessam toda a obra.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-38",
+                           "texto_apoio":  "Em \"O Cortiço\", de Aluísio Azevedo, o conjunto de moradias cresce, ganha vida própria e influencia o destino de quem nele vive.",
+                           "enunciado":  "Essa construção permite afirmar que o cortiço funciona como:",
+                           "alternativas":  {
+                                                "a":  "cenário neutro em que a ação se desenrola, sem qualquer influência sobre o comportamento das personagens que nele habitam ao longo da obra",
+                                                "b":  "personagem coletiva, cuja força age sobre os indivíduos",
+                                                "c":  "símbolo religioso da queda e da redenção, leitura sustentada pelas referências bíblicas distribuídas ao longo dos capítulos do romance",
+                                                "d":  "espaço idealizado de convivência harmônica, apresentado como alternativa às tensões sociais existentes fora de seus limites físicos",
+                                                "e":  "recurso de composição sem função temática, adotado apenas para reunir num mesmo lugar personagens de origens diferentes entre si"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "O narrador descreve o cortiço com verbos de ser vivo — ele cresce, ferve, respira. Tratá-lo como organismo é a forma romanesca de afirmar a tese naturalista: o meio determina quem ali vive.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-39",
+                           "texto_apoio":  "No romance naturalista, personagens que chegam de outro ambiente costumam se transformar ao longo da narrativa, adotando comportamentos do meio em que passam a viver.",
+                           "enunciado":  "Essa transformação ilustra o princípio do:",
+                           "alternativas":  {
+                                                "a":  "idealismo romântico, que atribui às personagens qualidades morais superiores às observadas nas pessoas reais do meio social retratado",
+                                                "b":  "livre-arbítrio, princípio segundo o qual cabe a cada indivíduo escolher seu caminho independentemente das circunstâncias em que se encontre",
+                                                "c":  "escapismo, atitude de recusa da realidade presente por meio da fuga para espaços e tempos imaginários construídos pela própria personagem",
+                                                "d":  "determinismo, segundo o qual o meio molda o comportamento",
+                                                "e":  "objetivismo formal, procedimento que consiste em narrar sem qualquer interferência do ponto de vista de quem conduz a narrativa da obra"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "A transformação não é escolha: é efeito. O romance naturalista funciona como demonstração de uma tese, e o percurso da personagem serve de prova de que o meio decide.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-40",
+                           "texto_apoio":  "É frequente, na prosa naturalista, que personagens sejam descritas com termos aplicáveis a animais — o modo de comer, de se mover, de reagir ao desejo.",
+                           "enunciado":  "Esse procedimento é chamado de:",
+                           "alternativas":  {
+                                                "a":  "zoomorfismo, e reforça a redução do humano ao instinto",
+                                                "b":  "prosopopeia, e consiste em atribuir características humanas a seres inanimados presentes no cenário descrito ao longo da narrativa",
+                                                "c":  "metonímia, e opera pela substituição de um termo por outro com o qual mantém relação de proximidade dentro do mesmo campo de sentido",
+                                                "d":  "hipérbole, e amplia deliberadamente as características das personagens para produzir efeito cômico sobre quem acompanha a narrativa",
+                                                "e":  "eufemismo, e substitui expressões consideradas duras por outras mais brandas a fim de atenuar o impacto das cenas descritas na obra"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Se o comportamento é determinado por instinto e herança, descrever gente como bicho é coerente com a tese. O recurso é estético e argumentativo ao mesmo tempo.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-41",
+                           "texto_apoio":  "\"O Ateneu\", de Raul Pompeia, narra em primeira pessoa a passagem de um menino por um internato, muitos anos depois dos fatos.",
+                           "enunciado":  "A obra combina traços naturalistas com:",
+                           "alternativas":  {
+                                                "a":  "memorialismo e linguagem impressionista",
+                                                "b":  "narração onisciente em terceira pessoa e organização estritamente cronológica dos episódios que compõem a trajetória da personagem principal",
+                                                "c":  "estrutura dramática dividida em atos e cenas, com predomínio absoluto do diálogo sobre as passagens de natureza descritiva ou narrativa",
+                                                "d":  "idealização romântica das personagens, apresentadas como exemplos de virtude moral em contraste com o ambiente que as cerca no colégio",
+                                                "e":  "documentação estatística sobre o sistema educacional do período, incorporada ao texto sob a forma de tabelas e relatórios oficiais citados"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "O adulto reconstrói a infância, e a distância entre os dois tempos organiza o livro. A descrição não busca exatidão: registra a impressão que as coisas deixaram, o que aproxima a prosa da pintura impressionista.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-42",
+                           "texto_apoio":  "Considere dois narradores: um analisa as motivações das personagens com ironia e reconhece os limites do próprio conhecimento; o outro descreve com pretensão de objetividade científica e explica cada conduta por causas externas.",
+                           "enunciado":  "O primeiro é típico do ______ e o segundo, do ______; a diferença está em ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "Modernismo – Pré-Modernismo – a disposição de romper com as formas herdadas da tradição literária anterior a cada um dos dois momentos",
+                                                "b":  "Naturalismo – Realismo – a extensão das obras produzidas em cada uma das duas tendências durante o mesmo período da literatura brasileira",
+                                                "c":  "Romantismo – Realismo – o grau de idealização aplicado às personagens femininas retratadas em cada uma das duas correntes mencionadas",
+                                                "d":  "Simbolismo – Parnasianismo – o tratamento dado à musicalidade do verso e ao vocabulário empregado na composição de cada um dos poemas",
+                                                "e":  "Realismo – Naturalismo – haver ou não uma lei geral que explique a conduta"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "As duas tendências são contemporâneas e compartilham a recusa da idealização. Separa-as o determinismo: o naturalista tem uma teoria que explica tudo, o realista desconfia inclusive de si mesmo.",
+                           "formato":  "lacunas",
+                           "banca":  "unifesp"
+                       },
+                       {
+                           "id":  "literatura-43",
+                           "texto_apoio":  "O adultério feminino é tema recorrente na ficção realista europeia e brasileira do século XIX.",
+                           "enunciado":  "Nas obras realistas, o tema costuma servir para:",
+                           "alternativas":  {
+                                                "a":  "documentar estatisticamente a frequência do fenômeno na sociedade retratada, com base em registros judiciais consultados pelos autores",
+                                                "b":  "advertir as leitoras sobre os riscos morais da vida urbana, finalidade pedagógica que orienta a construção do desfecho de cada obra do período",
+                                                "c":  "demonstrar a superioridade moral das personagens masculinas, cuja conduta serve de contraponto ao comportamento das figuras femininas",
+                                                "d":  "expor as contradições do casamento burguês e a hipocrisia social",
+                                                "e":  "celebrar a liberdade individual conquistada pelas mulheres no período, tema que os romances tratam com evidente entusiasmo e otimismo"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "O casamento realista é contrato econômico revestido de sentimento, e a traição é a fissura por onde essa contradição aparece. O interesse do romance está na hipocrisia coletiva, não na culpa individual.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-44",
+                           "texto_apoio":  "O Parnasianismo adotou como lema a expressão \"arte pela arte\".",
+                           "enunciado":  "O lema significa que a poesia deveria:",
+                           "alternativas":  {
+                                                "a":  "exprimir com fidelidade os sentimentos pessoais do poeta, tomados como matéria principal de toda a composição produzida no período",
+                                                "b":  "assumir compromisso explícito com as causas sociais de seu tempo, especialmente aquelas relacionadas à organização política do país",
+                                                "c":  "valer por si mesma, sem servir a finalidades externas",
+                                                "d":  "reproduzir com exatidão documental o mundo observado, aproximando-se dos procedimentos adotados pelas ciências experimentais do século",
+                                                "e":  "abandonar as formas fixas herdadas da tradição, substituídas por estruturas criadas livremente por cada autor em cada composição nova"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O poema não deve ensinar, comover nem denunciar: deve ser bem feito. É reação ao sentimentalismo romântico e ao engajamento condoreiro, e explica a obsessão parnasiana pelo acabamento.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-45",
+                           "texto_apoio":  "São traços da poesia parnasiana o soneto, a rima rica, o vocabulário preciso e a descrição de objetos de arte.",
+                           "enunciado":  "Esses traços revelam a valorização de:",
+                           "alternativas":  {
+                                                "a":  "espontaneidade e liberdade de composição, princípios que orientariam a produção poética do período em oposição às regras da tradição",
+                                                "b":  "perfeição formal e domínio técnico do verso",
+                                                "c":  "sugestão e imprecisão, recursos destinados a produzir estados de alma no leitor por meio da exploração da musicalidade das palavras",
+                                                "d":  "engajamento político e função social da arte, concepção que atribui ao poeta a tarefa de intervir nos debates públicos de seu tempo",
+                                                "e":  "experimentação tipográfica e ruptura com a disposição tradicional dos versos na página, procedimentos característicos das vanguardas"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Descrever um vaso ou uma estátua é exercício deliberado: o assunto importa menos que o modo de tratá-lo. O poeta parnasiano se apresenta como artífice, e o poema, como objeto lapidado.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-46",
+                           "texto_apoio":  "Leia o poema, escrito à maneira parnasiana:\n\nLavrado a frio, o mármore reluz;\nna mão do artífice, a matéria cede,\ne cada golpe exato que precede\no traço final busca a mesma luz.\n\nNão pede o mármore que se traduz\nem forma humana — nada lhe concede\no artista além do risco que o mede\ne da paciência com que o reconduz.",
+                           "enunciado":  "O poema exemplifica a poética parnasiana sobretudo por:",
+                           "alternativas":  {
+                                                "a":  "denunciar as condições de trabalho a que estavam submetidos os artesãos, tema recorrente na poesia social produzida ao final do século",
+                                                "b":  "expor os sentimentos pessoais do eu lírico diante da obra observada, procedimento característico da poesia produzida no período romântico",
+                                                "c":  "explorar a musicalidade das palavras e as correspondências entre sensações distintas, recursos que definem a produção simbolista do período",
+                                                "d":  "tomar o próprio trabalho de composição como assunto",
+                                                "e":  "abandonar a métrica regular em favor do verso livre, escolha formal que caracteriza a produção poética das primeiras vanguardas europeias"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "O escultor que lapida o mármore é figura do poeta que lapida o verso — e o soneto, em decassílabos e rimas ricas, faz o que descreve. Metalinguagem e rigor formal andam juntos no Parnasianismo.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-47",
+                           "texto_apoio":  "O Simbolismo se firma no Brasil na última década do século XIX, em oposição às tendências então dominantes.",
+                           "enunciado":  "Caracterizam-no ______, ______ e ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "o rigor métrico absoluto – a descrição de objetos de arte – a recusa de qualquer manifestação de subjetividade na composição do poema",
+                                                "b":  "a musicalidade do verso – a sinestesia – a preferência pelo vago e pelo sugerido",
+                                                "c":  "o engajamento abolicionista – o tom oratório – a construção de imagens destinadas à declamação diante de auditórios reunidos em praça pública",
+                                                "d":  "o vocabulário científico – o determinismo – a explicação do comportamento humano a partir de fatores hereditários e das condições do meio",
+                                                "e":  "a paródia de textos consagrados – o humor – a incorporação da linguagem coloquial brasileira ao repertório da poesia culta do período"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "O Simbolismo quer sugerir, não nomear. Daí a aliteração e a assonância, o cruzamento de sensações e o vocabulário do impreciso — tudo o que o Parnasianismo, ao lado, evitava.",
+                           "formato":  "lacunas",
+                           "banca":  "unesp"
+                       },
+                       {
+                           "id":  "literatura-48",
+                           "texto_apoio":  "Cruz e Sousa e Alphonsus de Guimaraens são os dois nomes centrais do Simbolismo brasileiro.",
+                           "enunciado":  "Um traço que os aproxima é:",
+                           "alternativas":  {
+                                                "a":  "a adesão ao programa naturalista, com aplicação sistemática das teorias sobre hereditariedade à construção das personagens de suas obras",
+                                                "b":  "o interesse documental pela vida urbana das capitais brasileiras, retratada com atenção às transformações econômicas em curso no período",
+                                                "c":  "a religiosidade e a busca de transcendência por meio da linguagem",
+                                                "d":  "a produção predominante em prosa de ficção, gênero em que ambos se destacaram e ao qual dedicaram a maior parte de sua obra publicada",
+                                                "e":  "a experimentação tipográfica e o abandono da pontuação, procedimentos que anteciparam as vanguardas europeias do início do século seguinte"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Nos dois, o poema tenta alcançar algo que está além do dizível — em Cruz e Sousa pelo branco e pela dor, em Alphonsus pelo culto mariano e pelo luto. A linguagem é meio de travessia, não de descrição.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-49",
+                           "texto_apoio":  "Considere duas escolas contemporâneas entre si no final do século XIX.",
+                           "enunciado":  "Uma busca ______ e trabalha com ______; a outra busca ______ e trabalha com ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "a precisão – contornos nítidos e formas fixas – a sugestão – sonoridade e imprecisão",
+                                                "b":  "a sugestão – contornos nítidos e formas fixas – a precisão – sonoridade e imprecisão, distribuição que corresponde à ordem cronológica delas",
+                                                "c":  "o engajamento social – dados estatísticos sobre a população – a evasão da realidade – imagens extraídas do passado medieval europeu",
+                                                "d":  "a exatidão científica – experimentos de laboratório aplicados à ficção – a fidelidade histórica – documentos de arquivo consultados pelo autor",
+                                                "e":  "a ruptura formal – versos livres e linguagem coloquial – a continuidade – métrica regular herdada da tradição poética portuguesa do período"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Parnasianismo e Simbolismo convivem e se opõem: um esculpe, o outro evoca. É a mesma oposição entre nomear e sugerir que separa a escultura da música — comparação que os próprios simbolistas usavam.",
+                           "formato":  "lacunas",
+                           "banca":  "unicamp"
+                       },
+                       {
+                           "id":  "literatura-50",
+                           "texto_apoio":  "Leia o poema, escrito à maneira simbolista:\n\nBrancas as horas brancas do hospital,\nbranco o silêncio branco do lençol,\nbranca a lembrança branca de outro sol\nque não aquece nada, nem faz mal.\n\nE a alma, alva, alheia ao que é real,\nboia num branco vago de anzol\nsem linha, sem pescado, sem farol —\nbranca vontade branca de espiral.",
+                           "enunciado":  "São procedimentos simbolistas presentes no poema:",
+                           "alternativas":  {
+                                                "a":  "a métrica irregular deliberada, a ausência de rimas e a disposição livre dos versos na página conforme o projeto gráfico de cada poema",
+                                                "b":  "a descrição objetiva do ambiente hospitalar, a exatidão do vocabulário técnico e a organização cronológica dos acontecimentos narrados",
+                                                "c":  "a denúncia das condições de atendimento, o tom oratório dirigido ao leitor e a construção de imagens destinadas à declamação pública",
+                                                "d":  "a paródia de um texto consagrado da tradição, o humor irreverente e a incorporação de marcas da linguagem coloquial brasileira ao verso",
+                                                "e":  "a repetição obsessiva de uma cor, a aliteração e a imprecisão do sentido"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "O branco volta em todos os versos até perder o valor descritivo e virar atmosfera; as sequências em b e l constroem a musicalidade; e o poema termina sem afirmar nada de verificável. É o programa simbolista em funcionamento.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-51",
+                           "texto_apoio":  "O Pré-Modernismo designa a produção brasileira das duas primeiras décadas do século XX, anterior à Semana de Arte Moderna.",
+                           "enunciado":  "O período é caracterizado por:",
+                           "alternativas":  {
+                                                "a":  "abandonar por completo as formas herdadas do século anterior, substituindo-as por procedimentos experimentais criados coletivamente",
+                                                "b":  "seguir um programa estético comum, definido em manifesto publicado pelos participantes no início da primeira década do século passado",
+                                                "c":  "não constituir escola única, reunindo autores que revelam o país real",
+                                                "d":  "concentrar-se exclusivamente na produção poética, sem que houvesse contribuição relevante no campo da prosa de ficção durante o período",
+                                                "e":  "reproduzir com fidelidade as vanguardas europeias então em circulação, sem qualquer adaptação às condições particulares do país"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Não há manifesto nem grupo: o que reúne Euclides, Lima Barreto, Lobato e Augusto dos Anjos é a atenção ao Brasil que a literatura oficial não mostrava — o sertão, o subúrbio, o caboclo doente.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-52",
+                           "texto_apoio":  "\"Os Sertões\", de Euclides da Cunha, divide-se em três partes: \"A Terra\", \"O Homem\" e \"A Luta\".",
+                           "enunciado":  "Essa organização reflete:",
+                           "alternativas":  {
+                                                "a":  "o método determinista, que explica o conflito pelo meio e pela formação do povo",
+                                                "b":  "a divisão cronológica dos acontecimentos, apresentados na ordem em que teriam ocorrido durante o período abrangido pela narrativa da obra",
+                                                "c":  "a estrutura do romance de folhetim, dividido em partes de extensão semelhante para permitir a publicação periódica em jornais da época",
+                                                "d":  "a alternância entre passagens narrativas e passagens líricas, arranjo que o autor teria adotado por influência da tradição poética simbolista",
+                                                "e":  "a separação entre os pontos de vista das duas partes em conflito, cada uma apresentada em uma seção distinta do conjunto da obra publicada"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Primeiro o meio, depois o tipo humano que ele produz, por fim o episódio: a ordem é a do raciocínio científico da época. Euclides constrói a explicação antes de narrar o que aconteceu em Canudos.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-53",
+                           "texto_apoio":  "Em \"Os Sertões\", termos de geologia, botânica e antropologia convivem com imagens de forte carga expressiva.",
+                           "enunciado":  "Essa combinação faz da obra um texto:",
+                           "alternativas":  {
+                                                "a":  "de caráter memorialístico, centrado na reconstrução das lembranças pessoais do autor a respeito do período em que serviu no exército",
+                                                "b":  "estritamente científico, cuja linguagem obedece integralmente às convenções dos relatórios técnicos produzidos no período pelos institutos de pesquisa",
+                                                "c":  "estritamente ficcional, no qual os elementos técnicos funcionam apenas como recurso de verossimilhança para uma narrativa inteiramente inventada",
+                                                "d":  "de natureza jornalística, limitado ao registro dos fatos observados pelo autor durante sua permanência na região em que ocorreu o conflito",
+                                                "e":  "de fronteira entre o tratado científico e a literatura"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "O livro quer explicar como ciência e escreve como literatura. Essa duplicidade é o que o torna difícil de classificar — e o que sustenta sua permanência muito depois de as teorias que o fundamentam terem caído.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-54",
+                           "texto_apoio":  "Lima Barreto situou boa parte de sua ficção nos subúrbios cariocas e retratou funcionários públicos, pequenos proprietários e famílias empobrecidas.",
+                           "enunciado":  "Essa escolha o distingue de seus contemporâneos porque:",
+                           "alternativas":  {
+                                                "a":  "adota linguagem hermética e vocabulário erudito, em contraste com a simplicidade praticada pelos demais prosadores brasileiros do período",
+                                                "b":  "desloca o foco da elite letrada para quem vivia à margem dela",
+                                                "c":  "situa a ação em passado remoto e idealizado, escolha que o aproxima dos romances históricos produzidos durante o Romantismo brasileiro",
+                                                "d":  "concentra-se na descrição da paisagem natural, tratada com o rigor documental característico da produção naturalista do século anterior",
+                                                "e":  "abandona a prosa de ficção em favor do ensaio político, gênero em que teria concentrado sua produção a partir da segunda década do século"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Enquanto a literatura oficial olhava o centro da cidade e a boa sociedade, Lima Barreto escreveu o subúrbio, a repartição e a humilhação cotidiana de quem não tinha sobrenome nem proteção.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-55",
+                           "texto_apoio":  "Em \"Triste Fim de Policarpo Quaresma\", a personagem-título dedica-se a projetos de valorização do país e termina destruída por eles.",
+                           "enunciado":  "O desfecho permite ler a obra como:",
+                           "alternativas":  {
+                                                "a":  "romance histórico centrado na reconstituição fiel dos acontecimentos políticos ocorridos no início do período republicano brasileiro",
+                                                "b":  "exaltação do patriotismo, apresentado como valor capaz de superar todas as dificuldades enfrentadas pela personagem ao longo da narrativa",
+                                                "c":  "estudo naturalista de um caso de degeneração hereditária, cuja evolução o narrador acompanha com o distanciamento próprio da ciência",
+                                                "d":  "crítica ao nacionalismo ingênuo e ao país que o desampara",
+                                                "e":  "narrativa de formação em que a personagem amadurece progressivamente e alcança, ao final, a integração plena à sociedade em que vive"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Quaresma ama o Brasil de um amor absoluto e é destruído justamente por quem esse amor pretendia servir. A ironia do título já anuncia que o livro não é sobre o herói, é sobre o país.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-56",
+                           "texto_apoio":  "Monteiro Lobato criou a figura de Jeca Tatu, caboclo apático e improdutivo, e anos depois revisou publicamente sua interpretação da personagem.",
+                           "enunciado":  "A revisão consistiu em atribuir aquele comportamento a:",
+                           "alternativas":  {
+                                                "a":  "herança genética transmitida entre gerações, explicação que o autor teria adotado a partir da leitura das teorias raciais em circulação no período",
+                                                "b":  "doença e falta de saneamento, e não a defeito de caráter",
+                                                "c":  "influência do clima tropical sobre o organismo humano, fator que segundo ele determinaria o comportamento das populações do interior do país",
+                                                "d":  "escolha deliberada da personagem por um modo de vida afastado das exigências do trabalho, posição que o autor manteve ao longo de sua obra",
+                                                "e":  "efeito da urbanização acelerada sobre as comunidades rurais, processo que teria desorganizado as formas tradicionais de vida no campo brasileiro"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "A campanha sanitarista mudou a leitura de Lobato: o Jeca não era preguiçoso, era doente — verminose, ausência de saneamento, abandono do Estado. A revisão é rara e vale como documento.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-57",
+                           "texto_apoio":  "A poesia de Augusto dos Anjos incorpora termos como \"micróbio\", \"protoplasma\", \"vermes\" e \"putrefação\".",
+                           "enunciado":  "O emprego desse vocabulário serve para:",
+                           "alternativas":  {
+                                                "a":  "descrever com exatidão os processos biológicos observados, sem que haja qualquer carga expressiva associada aos termos empregados",
+                                                "b":  "divulgar ao público leigo os avanços científicos do período, finalidade pedagógica que orienta a construção de cada uma de suas composições",
+                                                "c":  "aproximar a poesia da linguagem dos relatórios técnicos, escolha formal que o autor teria adotado por influência da produção parnasiana",
+                                                "d":  "tratar a decomposição da matéria como tema poético central",
+                                                "e":  "demonstrar erudição diante dos leitores de seu tempo, propósito que o próprio autor reconheceu em textos publicados posteriormente"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "O vocabulário científico entra carregado de horror e serve a uma visão em que tudo apodrece — inclusive a ideia. É poesia sobre a matéria e seu fim, e o estranhamento do léxico é parte do efeito.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-58",
+                           "texto_apoio":  "Augusto dos Anjos é frequentemente descrito como autor de difícil classificação, com traços simbolistas, parnasianos e naturalistas.",
+                           "enunciado":  "Essa dificuldade é típica do Pré-Modernismo porque:",
+                           "alternativas":  {
+                                                "a":  "o período reúne autores individuais, sem programa estético comum",
+                                                "b":  "os autores desse momento produziram simultaneamente em várias escolas por exigência dos editores, que buscavam atingir públicos distintos",
+                                                "c":  "a crítica literária brasileira só se organizou décadas depois, o que impediu a classificação adequada das obras produzidas naquele momento",
+                                                "d":  "as escolas literárias europeias chegavam ao país com atraso e se sobrepunham, sem que houvesse produção original em nenhuma delas",
+                                                "e":  "os autores do período recusavam deliberadamente qualquer filiação estética, posição que assumiram em manifesto conjunto publicado à época"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Chamar o período de escola é forçar a mão: é um intervalo, não um movimento. Cada autor mistura o que herdou de um jeito próprio, e a inclassificabilidade é a regra, não a exceção.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-59",
+                           "texto_apoio":  "Considere: o Realismo analisa a sociedade da Corte; o Naturalismo descreve o cortiço; o Pré-Modernismo retrata o sertão e o subúrbio.",
+                           "enunciado":  "A sequência revela, ao longo de cerca de quatro décadas:",
+                           "alternativas":  {
+                                                "a":  "a perda de contato com a realidade brasileira, à medida que os autores passam a reproduzir modelos importados sem adaptação local",
+                                                "b":  "um estreitamento do campo temático, com abandono sucessivo dos assuntos tratados por cada uma das tendências que antecederam a seguinte",
+                                                "c":  "uma alternância entre ambientes urbanos e rurais sem qualquer relação com as transformações sociais em curso no país durante o período",
+                                                "d":  "a substituição da prosa pela poesia como gênero dominante, processo que se completa nas primeiras décadas do século vinte no Brasil",
+                                                "e":  "uma ampliação progressiva do que a literatura brasileira aceita retratar"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Cada etapa incorpora um espaço e um tipo humano que o anterior não via. É um alargamento do que se considera matéria literária, e ele prepara a virada modernista.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-60",
+                           "texto_apoio":  "A Semana de Arte Moderna ocorreu em fevereiro de 1922, no Teatro Municipal de São Paulo, e reuniu escritores, músicos e artistas plásticos.",
+                           "enunciado":  "O evento é considerado marco do Modernismo brasileiro porque:",
+                           "alternativas":  {
+                                                "a":  "obteve aprovação imediata da crítica e do público, o que garantiu a difusão rápida das novas propostas em todo o território nacional",
+                                                "b":  "reuniu pela primeira vez artistas de diferentes linguagens em torno de um programa estético detalhadamente definido em documento prévio",
+                                                "c":  "tornou pública uma ruptura que já vinha sendo preparada",
+                                                "d":  "resultou na fundação de uma instituição permanente encarregada de organizar a produção artística brasileira nas décadas seguintes",
+                                                "e":  "marcou o encerramento das atividades dos grupos ligados às escolas anteriores, que deixaram de publicar a partir daquele mesmo ano"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "A Semana não inventa o Modernismo: dá visibilidade e escândalo a algo que já circulava. Foi vaiada, e é justamente a reação hostil que fixou a data como marco.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-61",
+                           "texto_apoio":  "O Manifesto da Poesia Pau-Brasil, de Oswald de Andrade, propõe uma poesia de exportação, feita de coisas simples e da língua falada no país.",
+                           "enunciado":  "A proposta implica:",
+                           "alternativas":  {
+                                                "a":  "abandonar a produção poética em favor do ensaio crítico, gênero em que o movimento teria concentrado sua contribuição mais duradoura",
+                                                "b":  "retomar as formas fixas da tradição poética portuguesa, adaptando-as aos assuntos locais sem alterar a estrutura métrica herdada do período anterior",
+                                                "c":  "restringir a literatura brasileira a temas rurais, com abandono definitivo dos assuntos urbanos tratados pelos autores das gerações precedentes",
+                                                "d":  "aproximar a poesia da linguagem científica, incorporando ao verso o vocabulário técnico produzido pelas disciplinas experimentais do período",
+                                                "e":  "inverter a relação de dependência cultural com a Europa"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Se o Brasil sempre importou forma e exportou matéria-prima, a proposta é exportar também a forma. Daí o nome: pau-brasil, primeiro produto de exportação, agora como programa poético.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-62",
+                           "texto_apoio":  "O Manifesto Antropófago, de 1928, propõe devorar a cultura estrangeira em vez de imitá-la ou recusá-la.",
+                           "enunciado":  "A metáfora da antropofagia designa ______, e se opõe tanto a ______ quanto a ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "a exportação de produtos culturais brasileiros – importar bens de consumo – restringir a circulação de obras produzidas em outros países",
+                                                "b":  "a recusa integral de toda influência externa – aceitar contribuições estrangeiras – preservar as tradições culturais formadas no território brasileiro",
+                                                "c":  "a assimilação crítica do que vem de fora – copiar servilmente – recusar por nacionalismo fechado",
+                                                "d":  "o retorno às formas literárias do período colonial – experimentar procedimentos novos – manter o diálogo com as vanguardas europeias do período",
+                                                "e":  "a documentação científica dos rituais indígenas – interpretar livremente essas práticas – atribuir a elas qualquer valor simbólico para a arte moderna"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Devorar não é copiar nem rejeitar: é ingerir o outro e transformá-lo em substância própria. A imagem resolve o impasse entre o macaqueamento e o isolamento — é possível usar o que vem de fora sem se submeter a ele.",
+                           "formato":  "lacunas",
+                           "banca":  "unicamp"
+                       },
+                       {
+                           "id":  "literatura-63",
+                           "texto_apoio":  "Oswald de Andrade produziu composições muito breves, algumas de dois ou três versos, construídas sobre um efeito de surpresa final.",
+                           "enunciado":  "Essas composições são conhecidas como:",
+                           "alternativas":  {
+                                                "a":  "soneto decassílabo, forma fixa retomada pelo autor a partir da tradição parnasiana e adaptada aos assuntos tratados pelo movimento modernista",
+                                                "b":  "poema-piada, forma que usa o humor como recurso de ruptura",
+                                                "c":  "poema em prosa, gênero de fronteira em que o texto conserva a disposição gráfica da prosa e o tratamento formal característico da poesia",
+                                                "d":  "poesia concreta, produção que explora a disposição espacial das palavras na página como elemento constitutivo do sentido da composição",
+                                                "e":  "poema condoreiro, composição de tom elevado destinada à declamação pública e voltada à defesa de causas sociais de grande alcance coletivo"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "O riso é ferramenta: quebrar a solenidade do poema é uma forma de atacar a tradição que o sustentava. Brevidade e efeito de choque fazem parte do mesmo gesto de ruptura.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-64",
+                           "texto_apoio":  "\"Macunaíma\", de Mário de Andrade, reúne lendas de origens diversas, incorpora falas regionais distintas e mistura tempos e espaços sem compromisso com a verossimilhança.",
+                           "enunciado":  "O autor classificou a obra como rapsódia, o que se justifica porque ela:",
+                           "alternativas":  {
+                                                "a":  "reproduz a estrutura da epopeia clássica, com invocação, proposição e narrativa organizada em cantos de extensão regular ao longo do volume",
+                                                "b":  "obedece rigorosamente à estrutura do romance de formação, acompanhando o amadurecimento progressivo da personagem principal ao longo do enredo",
+                                                "c":  "documenta com exatidão etnográfica os mitos de um único povo indígena, registrados pelo autor durante viagem de pesquisa ao interior do país",
+                                                "d":  "costura materiais de origens diversas num conjunto novo",
+                                                "e":  "apresenta enredo linear e desfecho conclusivo, características que a aproximam da tradição do romance realista do século anterior no Brasil"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Rapsódia é, na origem, a costura de trechos. O livro faz isso com lendas, provérbios e falares de todo o país — e a colagem é a forma que o projeto de identidade nacional assume ali.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-65",
+                           "texto_apoio":  "O subtítulo de \"Macunaíma\" é \"o herói sem nenhum caráter\".",
+                           "enunciado":  "A expressão deve ser entendida, sobretudo, como indicação de que a personagem:",
+                           "alternativas":  {
+                                                "a":  "não tem traço fixo, mudando conforme a circunstância",
+                                                "b":  "é moralmente condenável em todos os episódios da narrativa, avaliação que o narrador reforça a cada uma de suas intervenções no texto",
+                                                "c":  "carece de qualquer relevância para o enredo, funcionando apenas como pretexto para a apresentação das lendas reunidas ao longo do livro",
+                                                "d":  "representa fielmente um povo indígena determinado, cuja cultura o autor teria buscado documentar com rigor científico ao longo da obra",
+                                                "e":  "permanece idêntica a si mesma do início ao fim, sem que os acontecimentos narrados produzam qualquer alteração em seu comportamento"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "\"Caráter\" está aí no sentido de marca distintiva, não de moral: Macunaíma muda de cor, de idade, de intenção. A falta de contorno fixo é a proposta — e uma hipótese sobre o próprio país.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-66",
+                           "texto_apoio":  "\"Paulicéia Desvairada\", de Mário de Andrade, vem acompanhada de um \"Prefácio Interessantíssimo\" em que o autor discute suas escolhas formais.",
+                           "enunciado":  "Entre essas escolhas está:",
+                           "alternativas":  {
+                                                "a":  "o verso livre e o registro da cidade em transformação",
+                                                "b":  "o soneto em decassílabos e a descrição de objetos de arte, procedimentos herdados da tradição parnasiana ainda dominante naquele momento",
+                                                "c":  "a narrativa em prosa organizada em capítulos curtos, forma que o autor teria adotado por influência da produção ficcional europeia do período",
+                                                "d":  "a métrica em redondilha maior e o vocabulário arcaico, escolhas destinadas a aproximar o livro da tradição popular do Nordeste brasileiro",
+                                                "e":  "o abandono completo da pontuação e a disposição espacial das palavras, procedimentos que só apareceriam na produção brasileira décadas depois"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "São Paulo aparece ali como matéria nova, e a forma acompanha: verso sem metro fixo, ritmo próximo da fala, imagens simultâneas. O prefácio existe para justificar a ruptura antes que o leitor a estranhe.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-67",
+                           "texto_apoio":  "Mário de Andrade realizou viagens de pesquisa pelo país, recolheu manifestações populares e defendeu o uso literário da língua efetivamente falada no Brasil.",
+                           "enunciado":  "Esse conjunto de atividades revela:",
+                           "alternativas":  {
+                                                "a":  "a recusa de qualquer influência estrangeira sobre a produção brasileira, posição que o afastou dos demais participantes do movimento modernista",
+                                                "b":  "o abandono da produção literária em favor da pesquisa acadêmica, atividade à qual o autor teria se dedicado exclusivamente na segunda metade da vida",
+                                                "c":  "a intenção de comprovar teorias raciais em circulação no período, mediante coleta sistemática de dados sobre as populações do interior do país",
+                                                "d":  "a busca de reconhecimento internacional para sua obra, objetivo que orientaria a escolha dos temas tratados em cada um de seus livros publicados",
+                                                "e":  "um projeto de fundar a cultura nacional em bases próprias"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Recolher o folclore, defender a língua falada e escrever ficção são partes de uma coisa só. Mário trata a cultura brasileira como algo a ser conhecido e organizado, não apenas celebrado.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-68",
+                           "texto_apoio":  "A primeira fase do Modernismo brasileiro costuma ser descrita como heroica ou destrutiva.",
+                           "enunciado":  "A fase se caracteriza por ______, enquanto a fase seguinte se volta para ______; a passagem entre elas ocorre por volta de ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "documentar a realidade social – explorar a subjetividade individual – 1960, quando surge no país a produção de poesia de vanguarda concreta",
+                                                "b":  "amadurecer e aprofundar temas – romper com o passado e experimentar – 1945, quando se encerra o período que a crítica identifica como segunda fase",
+                                                "c":  "recuperar as formas clássicas – abandoná-las em favor do verso livre – 1922, ano em que o movimento se torna público durante a Semana de Arte Moderna",
+                                                "d":  "romper com o passado e experimentar – amadurecer e aprofundar temas – 1930",
+                                                "e":  "importar as vanguardas europeias – recusá-las integralmente – 1937, período em que a produção literária brasileira sofre restrições políticas severas"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "A primeira fase precisa quebrar para abrir espaço, e por isso é polêmica e barulhenta. A segunda já dispõe do terreno e o ocupa: a poesia ganha densidade e o romance, alcance social.",
+                           "formato":  "lacunas",
+                           "banca":  "unesp"
+                       },
+                       {
+                           "id":  "literatura-69",
+                           "texto_apoio":  "Após 1922, o grupo modernista se dividiu em correntes com projetos distintos, entre elas o Verde-Amarelismo e a Antropofagia.",
+                           "enunciado":  "A divergência entre as duas dizia respeito, sobretudo, a:",
+                           "alternativas":  {
+                                                "a":  "se a produção literária deveria ser publicada em periódicos ou em volumes, questão editorial que dividiu o grupo em duas facções irreconciliáveis",
+                                                "b":  "qual das formas poéticas fixas deveria ser adotada como padrão pelos autores brasileiros nas décadas seguintes à realização da Semana",
+                                                "c":  "como tratar a herança estrangeira na construção da cultura nacional",
+                                                "d":  "se o movimento deveria manter-se restrito a São Paulo ou expandir-se para outras capitais, disputa de natureza estritamente organizativa",
+                                                "e":  "qual seria a data adequada para considerar encerrado o período de ruptura e iniciada a fase de consolidação da produção modernista brasileira"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O Verde-Amarelismo tende ao nacionalismo de afirmação, com desconfiança do que vem de fora; a Antropofagia propõe devorar o estrangeiro. A pergunta comum é a mesma — a resposta é que separa os grupos.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-70",
+                           "texto_apoio":  "Leia o poema, escrito à maneira da primeira fase modernista:\n\nrua augusta\n\nO bonde passa cheio de pernas\nbrancas pretas amarelas\nPor que tanta perna meu Deus\npergunta meu olho\n\nMas\nmeus olhos\nnão perguntam nada",
+                           "enunciado":  "São procedimentos da primeira fase modernista presentes no poema:",
+                           "alternativas":  {
+                                                "a":  "a métrica regular em decassílabos, o vocabulário erudito e a descrição minuciosa de objetos de arte segundo o modelo parnasiano do período",
+                                                "b":  "o verso livre, o registro urbano e o humor que desfaz a solenidade",
+                                                "c":  "a musicalidade obtida por aliteração, a sinestesia e a preferência pelo vago, recursos que caracterizam a produção simbolista brasileira",
+                                                "d":  "o tom oratório dirigido a auditórios, as imagens de multidão e a defesa explícita de causas sociais em versos destinados à declamação",
+                                                "e":  "a organização em estrofes regulares com esquema de rimas alternadas, estrutura herdada da tradição da poesia lírica portuguesa clássica"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Não há metro nem rima; o assunto é a cidade em movimento; e a pergunta grave se desfaz numa piada. A minúscula no título e a ausência de pontuação completam o gesto de recusa da poesia solene.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-71",
+                           "texto_apoio":  "Manuel Bandeira publicou seus primeiros livros ainda sob influência parnasiana e simbolista e, mais tarde, aderiu às propostas modernistas.",
+                           "enunciado":  "Sua trajetória é relevante para o estudo do período porque:",
+                           "alternativas":  {
+                                                "a":  "indica que a adesão ao movimento modernista exigia o abandono completo de qualquer forma poética herdada da tradição anterior a ele",
+                                                "b":  "comprova que o Modernismo brasileiro se constituiu sem qualquer relação com as escolas literárias que o antecederam no país ao longo do século",
+                                                "c":  "demonstra que os autores do período mantiveram-se fiéis a uma única corrente estética ao longo de toda a sua produção literária publicada",
+                                                "d":  "mostra a transição entre a tradição e a ruptura dentro de um mesmo autor",
+                                                "e":  "revela que a poesia produzida antes de 1922 não apresenta valor estético autônomo e só se justifica como preparação para o período seguinte"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Bandeira não rompe de um dia para o outro: convive com as duas coisas e leva a tradição consigo. É o contraexemplo mais útil contra a ideia de que 1922 dividiu a literatura brasileira ao meio.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-72",
+                           "texto_apoio":  "A poesia de Manuel Bandeira incorpora o vocabulário do dia a dia, temas domésticos e uma dicção próxima da conversa.",
+                           "enunciado":  "Esse conjunto de escolhas caracteriza:",
+                           "alternativas":  {
+                                                "a":  "o hermetismo, que dificulta deliberadamente o acesso ao sentido do poema e exige do leitor conhecimento prévio de repertório especializado",
+                                                "b":  "o coloquialismo, que aproxima o poema da fala comum",
+                                                "c":  "o didatismo, que subordina a composição poética à transmissão de um conteúdo previamente definido por quem escreve o texto literário",
+                                                "d":  "o formalismo, que privilegia o cumprimento rigoroso das regras de métrica e de rima em detrimento do assunto tratado em cada composição",
+                                                "e":  "o descritivismo, que consiste em reproduzir com exatidão os elementos observados no mundo exterior sem qualquer intervenção subjetiva"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Escrever como se fala foi conquista do Modernismo, e Bandeira é quem a leva mais longe sem perder densidade. O poema fica acessível na superfície e continua difícil no fundo.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-73",
+                           "texto_apoio":  "A poesia da segunda fase modernista é frequentemente descrita como mais reflexiva que a da primeira.",
+                           "enunciado":  "Ela mantém ______ da fase anterior, mas acrescenta ______ e volta-se para ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "o tom polêmico – rigor descritivo – a documentação etnográfica das manifestações populares recolhidas durante viagens pelo interior do país",
+                                                "b":  "a métrica regular – humor e ironia – a polêmica com as escolas literárias anteriores, retomada com maior intensidade a partir daquele momento",
+                                                "c":  "a liberdade formal – densidade reflexiva – questões existenciais e sociais",
+                                                "d":  "a brevidade extrema – vocabulário científico – a explicação do comportamento humano a partir de fatores hereditários e das condições do meio",
+                                                "e":  "a paródia sistemática – formas fixas herdadas – a recuperação do repertório da tradição clássica greco-latina abandonado no período anterior"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O verso livre e o coloquialismo permanecem como conquista; o que muda é o peso. A geração de 30 não precisa mais provar que pode romper, e usa a liberdade para pensar o mundo e a si mesma.",
+                           "formato":  "lacunas",
+                           "banca":  "fuvest"
+                       },
+                       {
+                           "id":  "literatura-74",
+                           "texto_apoio":  "Carlos Drummond de Andrade construiu uma figura poética frequentemente descrita como \"gauche\": desajustada, à margem, observadora do próprio constrangimento.",
+                           "enunciado":  "Essa figura permite ao poeta:",
+                           "alternativas":  {
+                                                "a":  "examinar o mundo a partir de quem não se encaixa nele",
+                                                "b":  "assumir posição de autoridade moral diante dos acontecimentos narrados, avaliando-os com a segurança de quem detém conhecimento superior",
+                                                "c":  "reproduzir com fidelidade documental o cotidiano das cidades mineiras, sem que haja qualquer elaboração subjetiva do material observado",
+                                                "d":  "abandonar qualquer referência à experiência pessoal, concentrando a composição em temas abstratos desvinculados da vida do autor",
+                                                "e":  "restringir sua produção ao registro humorístico, único adequado à posição marginal que a figura poética ocupa em relação ao mundo social"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "O desajuste é posto de observação: quem está de lado enxerga o que os integrados não veem. A figura atravessa a obra e liga o constrangimento pessoal à crítica do mundo.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-75",
+                           "texto_apoio":  "Nos anos 1940, a poesia de Drummond incorpora a guerra, a coletividade e a responsabilidade do poeta diante de seu tempo.",
+                           "enunciado":  "Esse deslocamento representa:",
+                           "alternativas":  {
+                                                "a":  "a adesão ao programa da poesia concreta, cuja proposta o autor teria acompanhado desde as primeiras publicações do grupo paulista",
+                                                "b":  "o abandono definitivo da produção poética, substituída pelo trabalho de cronista em periódicos de circulação diária durante aquela década",
+                                                "c":  "o retorno às formas fixas da tradição, adotadas como reação ao experimentalismo praticado durante a primeira fase do movimento modernista",
+                                                "d":  "a recusa de qualquer função social para a literatura, defendida pelo autor como atividade autônoma em relação aos acontecimentos do período",
+                                                "e":  "a passagem do individual para o histórico e social"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "O eu constrangido dos livros anteriores não desaparece, mas passa a se medir contra a guerra e o coletivo. É o mesmo poeta perguntando o que a poesia pode fazer quando o mundo está em chamas.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-76",
+                           "texto_apoio":  "A poesia de Cecília Meireles retoma formas da tradição lírica portuguesa e trata da transitoriedade, do tempo e da fugacidade das coisas.",
+                           "enunciado":  "Sua produção se distingue, no interior da geração de 30, por:",
+                           "alternativas":  {
+                                                "a":  "concentrar-se na denúncia das condições sociais do Nordeste, tema que ocupa a maior parte de sua produção publicada durante o período",
+                                                "b":  "recusar integralmente qualquer forma herdada da tradição, posição que a aproxima das propostas defendidas pela primeira fase do movimento",
+                                                "c":  "combinar herança formal antiga com temas de inquietação moderna",
+                                                "d":  "produzir exclusivamente em prosa de ficção, gênero em que a autora se destacou entre os demais participantes de sua geração literária",
+                                                "e":  "adotar o humor e a paródia como recursos centrais de composição, procedimentos que caracterizam sua obra do início ao fim da trajetória"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "A redondilha e o vocabulário da tradição carregam, nela, uma inquietação que é do século XX. A forma antiga não é nostalgia: é instrumento afinado para falar do que não permanece.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-77",
+                           "texto_apoio":  "A obra de Vinicius de Moraes costuma ser dividida entre uma fase de inspiração religiosa e transcendente e outra voltada ao amor concreto e às questões sociais.",
+                           "enunciado":  "A segunda fase se caracteriza por:",
+                           "alternativas":  {
+                                                "a":  "aproximar a poesia da vida cotidiana e da linguagem musical",
+                                                "b":  "abandonar completamente o tema amoroso, substituído pela reflexão filosófica sobre a condição humana e sobre o destino do indivíduo moderno",
+                                                "c":  "retomar as formas fixas da tradição parnasiana, com preferência pelo soneto em decassílabos e pelo vocabulário extraído da mitologia clássica",
+                                                "d":  "recusar a colaboração com outros artistas, posição que o autor teria assumido a partir da segunda metade de sua trajetória literária",
+                                                "e":  "restringir a produção ao teatro, gênero ao qual o autor teria se dedicado com exclusividade após o encerramento de sua fase inicial"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "O amor deixa de ser ideia e vira encontro, com corpo e prazo; e a parceria com músicos leva o verso para a canção. É o caminho que desemboca na bossa nova sem deixar de ser poesia.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-78",
+                           "texto_apoio":  "Considere duas fases do Modernismo brasileiro.",
+                           "enunciado":  "A primeira é marcada por ______, a segunda por ______; o que permanece nas duas é ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "hermetismo verbal – transparência coloquial – a recusa de qualquer diálogo com a produção literária realizada fora do território brasileiro",
+                                                "b":  "reflexão e alcance social – polêmica e experimento – o compromisso com as formas fixas herdadas da tradição poética anterior ao movimento",
+                                                "c":  "rigor descritivo – documentação científica – a explicação determinista do comportamento humano a partir do meio em que o indivíduo vive",
+                                                "d":  "idealização amorosa – denúncia abolicionista – a construção de heróis nacionais extraídos do passado indígena anterior à colonização do país",
+                                                "e":  "polêmica e experimento – reflexão e alcance social – a liberdade formal conquistada"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Uma fase abre o espaço, a outra o ocupa. O que a segunda herda e não devolve é a liberdade de escolher a forma — verso livre, coloquialismo, direito a qualquer assunto.",
+                           "formato":  "lacunas",
+                           "banca":  "unifesp"
+                       },
+                       {
+                           "id":  "literatura-79",
+                           "texto_apoio":  "Leia o poema, escrito à maneira da segunda fase modernista:\n\nO homem que carrega a maca\nnão sabe o nome de quem leva.\nSabe o peso.\n\nEntre o corredor e a porta\nhá catorze passos —\nele os contou tantas vezes\nque já não conta mais.\n\nNo fim do turno, em casa,\ncarrega a filha no colo\ne por um instante estranha\na leveza.",
+                           "enunciado":  "O poema apresenta ______, procedimento típico da segunda fase, e o efeito final depende de ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "a idealização da figura do trabalhador – a acumulação de imagens grandiosas que se sucedem ao longo de todas as estrofes da composição",
+                                                "b":  "o cotidiano do trabalho tratado com densidade reflexiva – um deslocamento inesperado no encerramento",
+                                                "c":  "a denúncia explícita das condições de trabalho – um apelo direto ao leitor formulado nos versos finais em tom de convocação coletiva",
+                                                "d":  "o rigor métrico em decassílabos e rimas ricas – a simetria entre a primeira e a última estrofe da composição poética apresentada ao leitor",
+                                                "e":  "a exploração da musicalidade por aliteração – a repetição obsessiva de uma mesma palavra ao longo dos versos que compõem cada estrofe"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Um gesto banal — carregar peso — é observado até virar assunto. E o poema não conclui: desloca. O estranhamento da leveza ao pegar a filha diz mais sobre o trabalho do que qualquer denúncia direta diria.",
+                           "formato":  "lacunas",
+                           "banca":  "unesp"
+                       },
+                       {
+                           "id":  "literatura-80",
+                           "texto_apoio":  "O Modernismo produziu numerosas paródias de textos consagrados da tradição literária brasileira.",
+                           "enunciado":  "A paródia, nesse contexto, funciona como:",
+                           "alternativas":  {
+                                                "a":  "prova de que os autores modernistas desconheciam a produção literária anterior, o que os levava a reproduzi-la de forma imprecisa nos textos",
+                                                "b":  "homenagem respeitosa aos autores do passado, cujos textos são retomados sem qualquer alteração de sentido em relação ao original citado",
+                                                "c":  "recurso destinado exclusivamente a produzir humor, sem que haja intenção crítica em relação ao texto tomado como ponto de partida",
+                                                "d":  "forma de discutir criticamente a tradição sem simplesmente descartá-la",
+                                                "e":  "estratégia comercial voltada a atrair leitores já familiarizados com os textos originais, ampliando assim o público das novas publicações"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Parodiar exige conhecer bem o texto de partida. O gesto modernista não apaga a tradição: cita-a de viés, para mostrar o que nela já não serve — o que é diferente de ignorá-la.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-81",
+                           "texto_apoio":  "O verso livre dispensa metro fixo e esquema de rimas.",
+                           "enunciado":  "Sua adoção pelo Modernismo não significa ausência de forma porque o poema passa a se organizar por:",
+                           "alternativas":  {
+                                                "a":  "regras métricas alternativas fixadas coletivamente pelos participantes do movimento e publicadas em documento durante a década de 1920",
+                                                "b":  "ritmo interno, corte do verso e disposição das imagens",
+                                                "c":  "critérios exclusivamente gráficos, definidos pelos editores no momento da composição tipográfica de cada uma das obras então publicadas",
+                                                "d":  "extensão predeterminada, uma vez que os poemas do período obedecem a limite fixo de versos estabelecido pela prática do movimento",
+                                                "e":  "sucessão cronológica dos acontecimentos narrados, o que aproxima o poema moderno da estrutura própria dos gêneros em prosa de ficção"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Sem metro, cada corte de verso passa a ser decisão: onde a linha termina, o que fica em destaque, como o ritmo respira. A liberdade transfere o trabalho formal para outro lugar, não o elimina.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-82",
+                           "texto_apoio":  "Anita Malfatti, Tarsila do Amaral e Di Cavalcanti participaram do mesmo ambiente em que se formou o Modernismo literário.",
+                           "enunciado":  "Esse dado é relevante porque indica que o movimento:",
+                           "alternativas":  {
+                                                "a":  "restringiu-se ao estado de São Paulo, sem que houvesse participação de artistas de outras regiões do país no conjunto de suas atividades",
+                                                "b":  "originou-se exclusivamente no campo das artes plásticas, tendo a literatura aderido a ele apenas na década seguinte à realização da Semana",
+                                                "c":  "manteve as duas áreas rigorosamente separadas, sem que houvesse contato entre os participantes de cada uma delas durante todo o período",
+                                                "d":  "articulou literatura e artes visuais em torno de propostas comuns",
+                                                "e":  "dependeu de financiamento oficial para se organizar, o que teria limitado a liberdade dos participantes na formulação de suas propostas"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "A exposição de Anita em 1917 é um dos estopins do movimento, e a Antropofagia nasce a partir de um quadro de Tarsila. Literatura e pintura discutem os mesmos problemas e se alimentam mutuamente.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-83",
+                           "texto_apoio":  "O romance brasileiro dos anos 1930 se desenvolve num contexto de crise econômica mundial, seca no Nordeste e forte polarização política.",
+                           "enunciado":  "Essas circunstâncias se refletem na produção do período por meio:",
+                           "alternativas":  {
+                                                "a":  "do interesse pela documentação da miséria e do conflito social",
+                                                "b":  "do afastamento em relação aos assuntos públicos, com preferência por temas domésticos e pela análise psicológica das personagens retratadas",
+                                                "c":  "da retomada dos temas indianistas, apresentados como resposta simbólica às dificuldades econômicas enfrentadas pelo país naquela década",
+                                                "d":  "da adoção do humor e da paródia como recursos dominantes, procedimentos herdados da primeira fase do movimento modernista brasileiro",
+                                                "e":  "da experimentação formal radical, com abandono do enredo e da personagem como elementos organizadores da narrativa de ficção"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "O romance de 30 volta os olhos para a seca, o engenho, o cangaço e a cidade em crise. A forma tende ao realismo direto porque o objetivo é mostrar — e a urgência do assunto define a escolha.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-84",
+                           "texto_apoio":  "\"Vidas Secas\", de Graciliano Ramos, narra o deslocamento de uma família de retirantes em capítulos que podem ser lidos de forma relativamente independente.",
+                           "enunciado":  "A obra se distingue por:",
+                           "alternativas":  {
+                                                "a":  "a idealização das personagens, apresentadas como exemplos de virtude moral em contraste com o ambiente hostil em que elas se encontram",
+                                                "b":  "uma linguagem ornamental e abundante, que contrasta deliberadamente com a pobreza do ambiente descrito ao longo de todos os capítulos",
+                                                "c":  "um narrador em primeira pessoa que acompanha os fatos do ponto de vista de uma única personagem ao longo de toda a extensão do livro",
+                                                "d":  "um enredo de estrutura tradicional, com apresentação, desenvolvimento do conflito e desfecho que restabelece a ordem inicial rompida",
+                                                "e":  "uma linguagem seca, que reproduz na forma a escassez do mundo narrado"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "A frase é curta, o vocabulário é reduzido, o adjetivo é raro. A forma não descreve a escassez — ela a realiza. É o caso mais citado de correspondência entre estilo e matéria na prosa brasileira.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-85",
+                           "texto_apoio":  "Em \"Vidas Secas\", o narrador em terceira pessoa acessa o pensamento de personagens que dispõem de vocabulário muito limitado, inclusive o de uma cachorra.",
+                           "enunciado":  "Esse procedimento permite:",
+                           "alternativas":  {
+                                                "a":  "reproduzir literalmente a fala de cada uma delas, com registro fiel das marcas regionais e das construções próprias do português nordestino",
+                                                "b":  "atribuir às personagens um grau de instrução incompatível com sua condição social, o que compromete a verossimilhança do conjunto da obra",
+                                                "c":  "dar forma verbal a uma experiência que as personagens não conseguem enunciar",
+                                                "d":  "manter distanciamento absoluto em relação ao mundo interior das figuras retratadas, limitando-se ao registro de seus comportamentos visíveis",
+                                                "e":  "transferir ao leitor a tarefa de imaginar os pensamentos das personagens, que o narrador deliberadamente se abstém de apresentar no texto"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Fabiano não tem palavras para o que sente, e a cachorra Baleia não tem palavra nenhuma. O narrador empresta a língua que falta, sem fingir que ela é delas — e é aí que o livro comove.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-86",
+                           "texto_apoio":  "\"O Quinze\", de Rachel de Queiroz, publicado quando a autora tinha vinte anos, trata da seca de 1915 no Ceará.",
+                           "enunciado":  "A obra é considerada marco do romance de 30 porque:",
+                           "alternativas":  {
+                                                "a":  "foi a primeira obra brasileira traduzida para outras línguas, o que garantiu ao romance de 30 projeção internacional imediata na época",
+                                                "b":  "adota procedimentos formais de vanguarda inéditos na literatura brasileira, antecipando as experimentações realizadas nas décadas seguintes",
+                                                "c":  "recupera a estrutura do romance histórico romântico, aplicando-a a acontecimentos ocorridos no período republicano do país",
+                                                "d":  "concentra-se na análise psicológica das personagens urbanas, deixando o cenário rural como pano de fundo secundário da narrativa",
+                                                "e":  "inaugura o tratamento direto da seca como matéria romanesca"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "A seca deixa de ser paisagem pitoresca e vira o assunto, com retirada, fome e desagregação familiar. O livro abre caminho para toda a linhagem que Graciliano e José Lins levariam adiante.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-87",
+                           "texto_apoio":  "José Lins do Rego escreveu um conjunto de romances ambientados nos engenhos de cana-de-açúcar da Paraíba, acompanhando a decadência desse mundo.",
+                           "enunciado":  "Esse conjunto é conhecido como:",
+                           "alternativas":  {
+                                                "a":  "ciclo urbano, voltado às transformações sociais provocadas pela industrialização acelerada das capitais brasileiras naquele mesmo período",
+                                                "b":  "ciclo do cangaço, dedicado à reconstituição histórica dos bandos armados que atuaram no sertão nordestino durante as primeiras décadas",
+                                                "c":  "ciclo da cana-de-açúcar, marcado pelo tom memorialístico",
+                                                "d":  "ciclo indianista, retomada do projeto romântico de construção de heróis nacionais a partir do passado anterior à chegada dos colonizadores",
+                                                "e":  "ciclo da imigração, conjunto de obras dedicado à experiência das famílias estrangeiras chegadas ao país nas primeiras décadas do século"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Os romances acompanham o engenho do apogeu à ruína, e boa parte deles é narrada em primeira pessoa por quem cresceu ali. O tom de recordação é o que distingue o ciclo dentro do romance de 30.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-88",
+                           "texto_apoio":  "Em \"São Bernardo\", Paulo Honório narra sua própria trajetória de ascensão e a destruição de seu casamento.",
+                           "enunciado":  "A obra se organiza em torno do fato de que o narrador:",
+                           "alternativas":  {
+                                                "a":  "desconhece integralmente os acontecimentos que narra, o que o obriga a reconstituí-los a partir de depoimentos colhidos junto a terceiros",
+                                                "b":  "trata as pessoas como propriedade e só percebe isso quando é tarde",
+                                                "c":  "assume posição de observador neutro em relação aos fatos, sem envolvimento pessoal com nenhuma das personagens apresentadas no romance",
+                                                "d":  "é uma figura idealizada, cuja conduta moral serve de exemplo às demais personagens que participam dos acontecimentos narrados na obra",
+                                                "e":  "narra em terceira pessoa e tem acesso ao pensamento de todas as personagens, o que garante ao relato imparcialidade e amplitude de visão"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Ele conta como conquistou terra, gado e mulher com a mesma gramática de aquisição, e o livro é a tentativa tardia de entender por que a última não funcionou como as outras.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-89",
+                           "texto_apoio":  "Jorge Amado ambientou grande parte de sua obra na Bahia, com personagens ligadas ao trabalho, à religiosidade de matriz africana e à vida popular.",
+                           "enunciado":  "Sua produção do período do romance de 30 se caracteriza por:",
+                           "alternativas":  {
+                                                "a":  "concentrar-se na experimentação formal, com abandono do enredo tradicional e da construção de personagens ao longo de suas narrativas",
+                                                "b":  "adotar a análise psicológica introspectiva como procedimento central, aproximando-se da vertente intimista produzida na mesma década",
+                                                "c":  "recusar qualquer referência regional, com preferência por cenários urbanos genéricos que pudessem ser reconhecidos em qualquer parte do país",
+                                                "d":  "aliar denúncia social e valorização da cultura popular",
+                                                "e":  "documentar com rigor científico a organização econômica da produção cacaueira, sem qualquer elaboração ficcional dos dados apresentados"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "A exploração no cacau e nas docas aparece ao lado da festa, do candomblé e do mar. É a combinação entre a crítica e a celebração que dá ao conjunto sua marca — e o público que ele alcançou.",
+                           "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-90",
+                           "texto_apoio":  "Ao lado do romance regionalista de denúncia, a década de 1930 produziu também romances centrados no conflito interior das personagens.",
+                           "enunciado":  "As duas vertentes se distinguem porque a primeira privilegia ______ e a segunda, ______; ambas compartilham ______. As lacunas são preenchidas por:",
+                           "alternativas":  {
+                                                "a":  "o meio social e a coletividade – a consciência individual – a recusa da idealização romântica",
+                                                "b":  "a consciência individual – o meio social e a coletividade – o compromisso com as formas fixas herdadas da tradição poética anterior ao período",
+                                                "c":  "a experimentação linguística – a documentação etnográfica – a preferência pelo conto em detrimento do romance de maior extensão publicado",
+                                                "d":  "a reconstituição histórica – a projeção do futuro – o abandono do narrador em terceira pessoa em favor do relato conduzido pela personagem",
+                                                "e":  "o humor e a paródia – o hermetismo verbal – a recusa de qualquer diálogo com a produção literária estrangeira contemporânea a elas"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Uma olha para fora, outra para dentro, e as duas nascem do mesmo momento. O que as une é a herança modernista: nenhuma volta a idealizar personagem, ambiente ou desfecho.",
+                           "formato":  "lacunas",
+                           "banca":  "unicamp"
+                       }
+                   ],
     "matematica":  [
                        {
                            "id":  "matematica-01",

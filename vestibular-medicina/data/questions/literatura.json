@@ -1365,6 +1365,916 @@
                          "explicacao":  "Uma olha para fora, outra para dentro, e as duas nascem do mesmo momento. O que as une é a herança modernista: nenhuma volta a idealizar personagem, ambiente ou desfecho.",
                          "formato":  "lacunas",
                          "banca":  "unicamp"
+                     },
+                     {
+                         "id":  "literatura-91",
+                         "texto_apoio":  "A chamada Geração de 45 reagiu ao que considerava excesso de liberdade e de coloquialismo na produção modernista anterior.",
+                         "enunciado":  "Essa reação se traduziu na busca de:",
+                         "alternativas":  {
+                                              "a":  "maior rigor formal e depuração da linguagem poética",
+                                              "b":  "aproximação ainda maior da fala cotidiana, com incorporação sistemática de gírias e de construções próprias da oralidade brasileira ao verso",
+                                              "c":  "retomada dos temas indianistas e da construção de heróis nacionais extraídos do passado anterior à chegada dos colonizadores ao território",
+                                              "d":  "abandono da poesia em favor da prosa de ficção, gênero em que a geração teria concentrado integralmente sua produção durante o período",
+                                              "e":  "adesão ao programa naturalista, com aplicação das teorias sobre hereditariedade e meio à construção das personagens de suas narrativas"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A geração acusa a anterior de facilidade e propõe disciplina: retorno a formas trabalhadas, vocabulário selecionado, desconfiança da piada. É uma correção de rota dentro do próprio Modernismo, não uma volta ao século XIX.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-92",
+                         "texto_apoio":  "A poesia de João Cabral de Melo Neto evita a confissão sentimental, trabalha com imagens concretas e é frequentemente descrita como construída.",
+                         "enunciado":  "Sua obra é chamada de antilírica porque ______, e o poema se organiza a partir de ______, o que a aproxima de ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "rejeita o vocabulário culto – gírias e regionalismos nordestinos – uma transcrição fiel da fala das populações do interior de Pernambuco",
+                                              "b":  "abandona a forma poética – narrativas em prosa organizadas em capítulos – um relato jornalístico produzido sob as exigências da publicação diária",
+                                              "c":  "renuncia à publicação em vida – manuscritos deixados sem revisão pelo autor – uma obra póstuma reconstituída a partir de fragmentos dispersos",
+                                              "d":  "elimina qualquer referência ao mundo exterior – estados de alma indefinidos – uma composição musical destituída de conteúdo semântico preciso",
+                                              "e":  "recusa o derramamento emotivo – imagens materiais e cálculo – uma engenharia"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "\"Antilírico\" não quer dizer sem emoção: quer dizer sem efusão. O poema se constrói como quem levanta uma estrutura, com material concreto — pedra, faca, rio — e economia calculada de meios.",
+                         "formato":  "lacunas",
+                         "banca":  "fuvest"
+                     },
+                     {
+                         "id":  "literatura-93",
+                         "texto_apoio":  "\"Morte e Vida Severina\" é subtitulado \"auto de Natal pernambucano\" e acompanha um retirante que desce o rio Capibaribe em direção ao litoral.",
+                         "enunciado":  "A obra dialoga com a tradição popular por:",
+                         "alternativas":  {
+                                              "a":  "adotar linguagem hermética e vocabulário erudito, escolha que a distancia deliberadamente do público a que a tradição popular se dirige",
+                                              "b":  "reproduzir integralmente o enredo de um romance de cordel já existente, sem alteração de personagens nem do desfecho tradicionalmente adotado",
+                                              "c":  "abandonar qualquer estrutura formal reconhecível, o que aproxima o texto das experimentações de vanguarda contemporâneas à sua publicação",
+                                              "d":  "retomar a forma do auto e a métrica da poesia de cordel",
+                                              "e":  "situar a ação em ambiente urbano e industrial, deslocamento que rompe com o cenário rural característico da produção popular nordestina"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O auto vem do teatro religioso medieval e o cordel dá a redondilha maior e a rima. Cabral usa as duas formas populares para tratar de morte, seca e nascimento — e o resultado não é folclórico, é rigoroso.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-94",
+                         "texto_apoio":  "O Nordeste aparece na obra de João Cabral tratado com secura, sem apelo emocional e sem pitoresco.",
+                         "enunciado":  "Esse tratamento se distingue do adotado pelo romance de 30 por:",
+                         "alternativas":  {
+                                              "a":  "abandonar completamente o tema regional, substituído por assuntos urbanos sem qualquer relação com a paisagem nordestina anteriormente tratada",
+                                              "b":  "idealizar as condições de vida da população retratada, apresentando-as de modo mais favorável do que o fazia a produção da década anterior",
+                                              "c":  "buscar a contenção onde o romance social buscava a comoção",
+                                              "d":  "recorrer à documentação estatística sobre as condições sociais da região, incorporada ao texto sob a forma de dados oficiais citados no poema",
+                                              "e":  "adotar o tom oratório e as imagens de multidão característicos da poesia condoreira produzida durante o período romântico brasileiro"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O romance de 30 quer que o leitor sinta; Cabral quer que ele veja. Retirar o adjetivo comovido não esvazia o assunto — deixa a miséria exposta sem a mediação do sentimento de quem escreve.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-95",
+                         "texto_apoio":  "A prosa de Guimarães Rosa cria palavras novas, recupera formas arcaicas, incorpora falares regionais e altera a sintaxe corrente.",
+                         "enunciado":  "Esse trabalho com a linguagem tem por objetivo:",
+                         "alternativas":  {
+                                              "a":  "reproduzir com fidelidade documental a fala das populações do interior de Minas Gerais, registrada pelo autor durante suas viagens pela região",
+                                              "b":  "criar uma língua capaz de dizer o que a língua corrente não alcança",
+                                              "c":  "dificultar deliberadamente o acesso do leitor comum à obra, restringindo-a a um público especializado com formação em estudos linguísticos",
+                                              "d":  "aproximar o texto do padrão culto escrito da época, corrigindo os desvios que caracterizavam a prosa regionalista da década anterior",
+                                              "e":  "demonstrar erudição diante da crítica literária então dominante, propósito que o próprio autor reconheceu em entrevistas publicadas na época"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Rosa não transcreve o sertanejo: inventa uma língua que soa possível. O neologismo e a sintaxe torcida existem porque o que ele quer dizer sobre travessia, destino e diabo não cabe no português disponível.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-96",
+                         "texto_apoio":  "\"Grande Sertão: Veredas\" é narrado por Riobaldo, que fala continuamente a um interlocutor que nunca se manifesta no texto.",
+                         "enunciado":  "Essa estrutura produz o efeito de:",
+                         "alternativas":  {
+                                              "a":  "estabelecer distanciamento entre narrador e matéria narrada, o que aproxima a obra dos procedimentos adotados pelo romance naturalista",
+                                              "b":  "garantir a imparcialidade do relato, uma vez que a presença de um segundo interlocutor obriga o narrador a apresentar todas as versões dos fatos",
+                                              "c":  "dividir a narração entre duas vozes de igual peso, cada uma responsável por apresentar sua interpretação dos acontecimentos relatados na obra",
+                                              "d":  "colocar o leitor no lugar de quem escuta sem poder responder",
+                                              "e":  "organizar os acontecimentos em ordem cronológica rigorosa, exigência imposta pela necessidade de tornar o relato compreensível ao ouvinte"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O interlocutor mudo é o lugar do leitor, e ele não pode interromper nem checar. Tudo o que se sabe vem de um homem velho tentando entender a própria vida — e querendo ser absolvido dela.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-97",
+                         "texto_apoio":  "Embora ambientada no sertão mineiro, a obra de Guimarães Rosa trata de temas como o pacto, a culpa, o amor e a busca de sentido.",
+                         "enunciado":  "Isso permite afirmar que, em sua obra, o regional funciona como:",
+                         "alternativas":  {
+                                              "a":  "limite temático deliberado, escolha que restringe o alcance da obra ao público familiarizado com as particularidades culturais daquela região",
+                                              "b":  "ponto de partida para questões universais",
+                                              "c":  "cenário sem função na narrativa, adotado apenas por conveniência biográfica do autor e substituível por qualquer outro sem prejuízo do sentido",
+                                              "d":  "objeto de documentação etnográfica, cuja descrição rigorosa constitui a finalidade principal do conjunto das obras publicadas pelo autor",
+                                              "e":  "recurso de denúncia social, empregado para expor as condições econômicas das populações rurais no período em que as obras foram escritas"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O sertão é concreto e é também condição humana — \"o sertão é dentro da gente\". Rosa transforma o regionalismo, que descrevia, num modo de tratar o que vale em qualquer lugar.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-98",
+                         "texto_apoio":  "Nos contos de Guimarães Rosa reunidos em livros como \"Sagarana\" e \"Primeiras Estórias\", é frequente que a narrativa seja conduzida por crianças, loucos ou animais.",
+                         "enunciado":  "Essa escolha de perspectiva permite:",
+                         "alternativas":  {
+                                              "a":  "reduzir a complexidade da linguagem empregada, adequando o texto a um público leitor de menor familiaridade com a literatura de invenção",
+                                              "b":  "garantir a exatidão do relato, uma vez que essas figuras não teriam interesse pessoal nos acontecimentos que narram ao longo das histórias",
+                                              "c":  "apresentar o mundo sob um olhar que ainda não o organizou em categorias",
+                                              "d":  "atribuir caráter documental às narrativas, que passariam a registrar com fidelidade os modos de vida observados nas comunidades retratadas",
+                                              "e":  "eliminar a figura do narrador, substituída pela apresentação direta dos acontecimentos sem qualquer mediação de um ponto de vista particular"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Quem não tem as categorias prontas enxerga o que o adulto já parou de ver. O estranhamento não é enfeite: é o método pelo qual o conto devolve espessura a coisas banais.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-99",
+                         "texto_apoio":  "Nos contos de Clarice Lispector, personagens em situações banais atravessam um instante de percepção que altera sua relação com a própria vida.",
+                         "enunciado":  "Esse instante é chamado ______, costuma ocorrer ______ e produz ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "epifania – a partir de um estímulo trivial – uma revelação que raramente se traduz em ação",
+                                              "b":  "catarse – ao final de um conflito trágico – a purificação das emoções do público que acompanha a representação dramática da obra encenada",
+                                              "c":  "peripécia – no ponto culminante do enredo – a reviravolta dos acontecimentos em direção ao desfecho previsto pela estrutura da narrativa",
+                                              "d":  "anagnórise – no momento do reconhecimento – a descoberta da verdadeira identidade de uma personagem até então desconhecida das demais",
+                                              "e":  "digressão – em qualquer ponto do texto – o afastamento momentâneo do assunto principal para o tratamento de tema secundário e independente"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Uma barata, um cego mascando chiclete, um ovo: o gatilho é sempre mínimo. E o que se revela quase nunca muda o mundo da personagem — muda o modo como ela o suporta.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "literatura-100",
+                         "texto_apoio":  "Na ficção de Clarice Lispector, o enredo costuma ser mínimo e a maior parte do texto se ocupa do que se passa na consciência das personagens.",
+                         "enunciado":  "Essa característica revela deslocamento do interesse:",
+                         "alternativas":  {
+                                              "a":  "da linguagem escrita para a oralidade, com incorporação sistemática de marcas da fala coloquial brasileira ao conjunto de suas narrativas",
+                                              "b":  "da personagem individual para o grupo social a que ela pertence, cuja descrição ocupa a maior parte das narrativas publicadas pela autora",
+                                              "c":  "do presente para a reconstituição histórica, procedimento que aproxima sua obra do romance histórico produzido durante o Romantismo",
+                                              "d":  "da prosa para a poesia, gênero ao qual a autora teria se dedicado com exclusividade a partir da segunda metade de sua trajetória literária",
+                                              "e":  "do acontecimento para a percepção do acontecimento"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O que acontece importa menos do que o que a consciência faz com aquilo. O enredo se reduz porque o assunto se deslocou — e é por isso que resumir um conto dela costuma soar como não ter entendido nada.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-101",
+                         "texto_apoio":  "Em \"A Hora da Estrela\", a história de Macabéa é contada por um narrador que se apresenta, discute suas dificuldades para narrar e comenta a própria posição social diante da personagem.",
+                         "enunciado":  "Essa mediação explicitada serve para:",
+                         "alternativas":  {
+                                              "a":  "acelerar o ritmo da narrativa, que precisaria ser concluída em extensão reduzida por exigência editorial imposta no momento da publicação",
+                                              "b":  "garantir a objetividade do relato, uma vez que o narrador declara previamente suas limitações e assim neutraliza qualquer viés na apresentação",
+                                              "c":  "expor a distância entre quem escreve e quem é escrito",
+                                              "d":  "atribuir à própria personagem a responsabilidade pela narração, procedimento que caracteriza o relato conduzido em primeira pessoa na obra",
+                                              "e":  "reproduzir a estrutura do romance de folhetim, com interrupções destinadas a manter o interesse do público entre uma edição e a seguinte"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Um homem culto e de classe média tenta contar a vida de uma nordestina pobre e não consegue fazê-lo sem constrangimento. O livro é, em boa medida, sobre essa impossibilidade — e sobre insistir mesmo assim.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-102",
+                         "texto_apoio":  "Guimarães Rosa e Clarice Lispector são frequentemente apresentados como os dois nomes centrais da prosa brasileira dos anos 1950 e 1960.",
+                         "enunciado":  "O trabalho de um se volta para ______ e o do outro, para ______; ambos compartilham ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "a invenção de uma língua para o sertão – a sondagem da consciência – a recusa da forma romanesca convencional",
+                                              "b":  "a sondagem da consciência – a invenção de uma língua para o sertão – o compromisso com a documentação social característica do romance de 30",
+                                              "c":  "a denúncia das condições rurais – a crítica da vida urbana – o emprego de linguagem simples e direta destinada ao público leitor mais amplo",
+                                              "d":  "a reconstituição histórica do país – a projeção de um futuro possível – a organização cronológica rigorosa dos acontecimentos narrados em suas obras",
+                                              "e":  "a experimentação tipográfica – a exploração da oralidade popular – a filiação declarada ao programa da poesia concreta produzida em São Paulo"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Um refaz a língua a partir do sertão, outro a força a dizer o que se passa dentro de alguém em silêncio. Os caminhos são opostos e o gesto é o mesmo: recusar que o romance continue sendo enredo bem contado.",
+                         "formato":  "lacunas",
+                         "banca":  "unicamp"
+                     },
+                     {
+                         "id":  "literatura-103",
+                         "texto_apoio":  "A poesia concreta, formulada em São Paulo nos anos 1950, propôs o fim do verso como unidade da composição poética.",
+                         "enunciado":  "Em seu lugar, o movimento propôs ______, tratando a página como ______ e o poema como ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "a recuperação das formas fixas clássicas – moldura tradicional herdada – exercício de virtuosismo técnico voltado ao público especializado",
+                                              "b":  "o retorno à métrica regular – suporte neutro de registro – narrativa organizada segundo a sucessão cronológica dos acontecimentos relatados",
+                                              "c":  "a aproximação da fala coloquial – espaço de transcrição direta – documento das variedades linguísticas efetivamente faladas no país",
+                                              "d":  "a ampliação da extensão dos poemas – volume de longa duração – ciclo temático desenvolvido ao longo de vários livros publicados em sequência",
+                                              "e":  "a organização espacial das palavras – campo de composição – objeto verbivocovisual"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Sem verso, o que organiza é o espaço: onde a palavra está na página passa a significar. O termo do grupo — verbivocovisual — junta as três dimensões que o poema deve acionar ao mesmo tempo.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "literatura-104",
+                         "texto_apoio":  "A chamada poesia marginal dos anos 1970 circulava em edições artesanais, vendidas de mão em mão em bares e portas de teatro.",
+                         "enunciado":  "Esse modo de circulação corresponde a uma poesia:",
+                         "alternativas":  {
+                                              "a":  "de grande complexidade formal, dirigida a leitores especializados e produzida no interior das universidades brasileiras durante aquele período",
+                                              "b":  "de dicção coloquial e cotidiana, feita fora do circuito editorial",
+                                              "c":  "de temática histórica, voltada à reconstituição do passado nacional e publicada com apoio de instituições oficiais de fomento à cultura",
+                                              "d":  "de caráter religioso, produzida por grupos organizados em torno de instituições confessionais e distribuída em suas próprias comunidades",
+                                              "e":  "de rigor métrico estrito, com retomada das formas fixas herdadas da tradição e recusa das conquistas formais do período modernista"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O mimeógrafo define o produto: poema curto, linguagem de conversa, humor e desabafo. Estar fora da editora não é acidente — é parte da proposta, num país onde publicar dependia de autorização.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-105",
+                         "texto_apoio":  "\"Poema Sujo\", de Ferreira Gullar, foi escrito no exílio e reconstrói, em fluxo contínuo, a cidade de São Luís e a infância do autor.",
+                         "enunciado":  "A obra combina:",
+                         "alternativas":  {
+                                              "a":  "estrutura de romance de formação e organização cronológica rigorosa dos episódios que compõem a trajetória da personagem principal do texto",
+                                              "b":  "documentação estatística sobre as condições sociais do Maranhão e análise econômica da produção regional durante o período retratado na obra",
+                                              "c":  "reconstituição histórica do período colonial brasileiro e crítica ao processo de ocupação do território pelos primeiros colonizadores europeus",
+                                              "d":  "memória pessoal e experiência histórica da ditadura",
+                                              "e":  "experimentação tipográfica radical e abandono completo da referência ao mundo exterior, procedimentos herdados da poesia concreta paulista"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Quem está fora do país e não sabe se volta reconstrói a cidade por dentro. O poema é ao mesmo tempo inventário de infância e documento de uma condição política — as duas coisas sem separação possível.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-106",
+                         "texto_apoio":  "A ficção de Rubem Fonseca trata da violência urbana, do crime e da desigualdade nas grandes cidades brasileiras, com linguagem direta e frases curtas.",
+                         "enunciado":  "Essa produção é representativa da literatura brasileira contemporânea por:",
+                         "alternativas":  {
+                                              "a":  "retomar o cenário rural do romance de 30, tratado com os mesmos procedimentos formais adotados pelos autores daquela geração literária",
+                                              "b":  "deslocar o centro da ficção para a cidade violenta e desigual",
+                                              "c":  "concentrar-se na análise psicológica introspectiva das personagens, procedimento herdado da vertente intimista dos anos quarenta no país",
+                                              "d":  "recuperar as formas fixas da tradição poética, aplicadas à narrativa em prosa por meio de estruturas métricas distribuídas ao longo do texto",
+                                              "e":  "documentar com rigor científico as estatísticas criminais das capitais brasileiras, incorporadas ao texto sob a forma de relatórios oficiais"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A cidade brasileira que a ficção anterior via de longe entra em cena com sua linguagem e sua violência. É um dos deslocamentos que definem o contemporâneo, ao lado da abertura para novas vozes autorais.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-107",
+                         "texto_apoio":  "Durante a ditadura militar, obras literárias foram censuradas e vários autores recorreram a formas indiretas de tratar a repressão.",
+                         "enunciado":  "Entre essas formas indiretas está o uso de:",
+                         "alternativas":  {
+                                              "a":  "métrica regular, cuja adoção sinalizaria adesão às formas tradicionais e afastaria o texto da suspeita das autoridades do período militar",
+                                              "b":  "documentação estatística, que apresenta os dados oficiais do período sem qualquer comentário por parte de quem organiza a exposição",
+                                              "c":  "linguagem científica, adotada para conferir ao texto a neutralidade necessária à sua aprovação pelos órgãos responsáveis pela censura",
+                                              "d":  "alegoria, que diz uma coisa para significar outra",
+                                              "e":  "narração em terceira pessoa, escolha que permitiria ao autor negar qualquer vínculo pessoal com as opiniões expressas por suas personagens"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Quando não se pode nomear, constrói-se uma história paralela que o leitor decifra. A alegoria é a resposta formal à censura — e explica por que tanta ficção do período se passa em lugares e tempos deslocados.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-108",
+                         "texto_apoio":  "A crônica brasileira se consolidou no espaço do jornal, com textos curtos publicados regularmente sobre assuntos do dia.",
+                         "enunciado":  "Essa origem explica que o gênero seja marcado por:",
+                         "alternativas":  {
+                                              "a":  "brevidade, tom conversado e ancoragem no cotidiano",
+                                              "b":  "extensão elevada, linguagem erudita e tratamento sistemático de temas abstratos desvinculados dos acontecimentos correntes do período",
+                                              "c":  "estrutura dramática dividida em atos, com predomínio do diálogo sobre as passagens de natureza narrativa ou descritiva ao longo do texto",
+                                              "d":  "métrica regular e esquema de rimas, herdados da tradição poética e aplicados ao registro dos assuntos tratados em cada publicação diária",
+                                              "e":  "rigor documental e apresentação de fontes verificáveis, exigências decorrentes da natureza jornalística do veículo em que o gênero circula"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O espaço é pequeno, o prazo é curto e o leitor está com pressa. O gênero se ajustou a essas três condições, e é delas que vem seu tom de conversa e sua atenção ao miúdo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-109",
+                         "texto_apoio":  "O teatro de Nelson Rodrigues trata de desejo, hipocrisia familiar e temas considerados interditos, o que lhe rendeu censura e escândalo.",
+                         "enunciado":  "Sua importância para o teatro brasileiro está em:",
+                         "alternativas":  {
+                                              "a":  "documentar com fidelidade os costumes das camadas populares urbanas, procedimento que o aproxima da produção naturalista do século anterior",
+                                              "b":  "retomar a estrutura da tragédia clássica grega sem qualquer alteração, aplicando-a a personagens extraídas da alta sociedade carioca do período",
+                                              "c":  "restringir sua produção ao teatro de revista, gênero de entretenimento popular predominante nos palcos brasileiros até aquele momento",
+                                              "d":  "abandonar o diálogo como recurso dramático, substituído por longos monólogos que ocupam integralmente cada um dos atos de suas peças",
+                                              "e":  "romper com a comédia de costumes e trazer o conflito para dentro da família"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Antes dele, o palco brasileiro fazia rir com tipos reconhecíveis. Nelson põe em cena o que a família esconde, e o escândalo que provocou é a medida exata de quanto o teatro mudou de assunto.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-110",
+                         "texto_apoio":  "\"Vestido de Noiva\", de Nelson Rodrigues, organiza-se em três planos simultâneos: o da realidade, o da memória e o da alucinação.",
+                         "enunciado":  "Essa estrutura foi decisiva para o teatro brasileiro porque:",
+                         "alternativas":  {
+                                              "a":  "eliminou a necessidade de cenário e de iluminação, reduzindo os custos de montagem e permitindo a circulação da peça por todo o território",
+                                              "b":  "restabeleceu a unidade de tempo, espaço e ação herdada da tradição clássica, princípio que o teatro brasileiro havia abandonado no período anterior",
+                                              "c":  "rompeu com a encenação linear e abriu espaço para a experimentação cênica",
+                                              "d":  "transferiu ao público a decisão sobre o desfecho, procedimento participativo que se tornaria corrente no teatro brasileiro das décadas seguintes",
+                                              "e":  "substituiu o texto escrito pela improvisação dos atores, método de criação coletiva adotado a partir daquele momento pelos grupos brasileiros"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Três planos coexistindo no mesmo palco exigem outra luz, outra marcação, outro tempo. A peça obrigou a encenação a se reinventar, e é por isso que a data de sua estreia costuma marcar o início do teatro moderno no país.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-111",
+                         "texto_apoio":  "O \"Auto da Compadecida\", de Ariano Suassuna, recorre a personagens e situações da tradição popular nordestina e do teatro religioso medieval.",
+                         "enunciado":  "A obra propõe:",
+                         "alternativas":  {
+                                              "a":  "a experimentação formal de vanguarda, com abandono do enredo e da personagem como elementos organizadores da ação dramática apresentada",
+                                              "b":  "a substituição integral da tradição popular por modelos eruditos importados, considerados pelo autor mais adequados ao palco brasileiro do período",
+                                              "c":  "o registro documental das manifestações folclóricas do Nordeste, sem qualquer elaboração ficcional do material recolhido pelo autor na região",
+                                              "d":  "a recusa de qualquer diálogo com a tradição religiosa, posição que o autor teria assumido em manifesto publicado junto com a peça encenada",
+                                              "e":  "uma literatura erudita construída a partir de fontes populares"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Suassuna leva o cordel, o mamulengo e o auto medieval para o teatro de repertório sem os tratar como curiosidade. É o projeto do Movimento Armorial: cultura popular como base, não como enfeite.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-112",
+                         "texto_apoio":  "Conceição Evaristo propôs o conceito de escrevivência para designar uma escrita que parte da experiência vivida por mulheres negras.",
+                         "enunciado":  "O conceito articula ______ e ______, e propõe que a literatura ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "leitura – convivência – seja produzida coletivamente por grupos organizados em oficinas comunitárias realizadas nas periferias das grandes cidades",
+                                              "b":  "escrita – ciência – reproduza os métodos das disciplinas acadêmicas na apresentação dos temas tratados por autoras contemporâneas brasileiras",
+                                              "c":  "escrita – vivência – seja feita a partir de um lugar concreto de experiência",
+                                              "d":  "descrição – evidência – apresente provas documentais que sustentem cada uma das situações narradas ao longo das obras de ficção publicadas",
+                                              "e":  "narrativa – sobrevivência – trate exclusivamente de situações extremas de risco enfrentadas pelas personagens ao longo de cada uma das histórias"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A palavra funde escrever e viver para afirmar que não há escrita de lugar nenhum. O conceito recusa a neutralidade e reivindica que a experiência de quem escreve conte como matéria e como autoridade.",
+                         "formato":  "lacunas",
+                         "banca":  "unicamp"
+                     },
+                     {
+                         "id":  "literatura-113",
+                         "texto_apoio":  "Nas últimas décadas, autoras e autores negros, indígenas e periféricos passaram a ocupar espaço crescente no debate literário brasileiro.",
+                         "enunciado":  "Esse movimento leva à discussão do cânone, entendido como:",
+                         "alternativas":  {
+                                              "a":  "a lista definitiva das obras de maior valor estético, estabelecida por critérios objetivos e imunes a qualquer revisão ao longo do tempo",
+                                              "b":  "o conjunto de obras consagradas, resultado de escolhas historicamente situadas",
+                                              "c":  "o catálogo completo de tudo o que foi publicado em determinada língua, organizado em ordem cronológica pelas instituições de pesquisa do país",
+                                              "d":  "o repertório de obras aprovadas por órgãos oficiais para uso escolar, definido por comissões técnicas a cada ciclo de avaliação didática",
+                                              "e":  "o conjunto de textos ainda protegidos por direitos autorais, distinção de natureza jurídica sem qualquer implicação sobre o valor literário"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Cânone não é lista natural: é resultado de quem teve acesso à publicação, à crítica e à escola. Reconhecer isso é o que torna possível discuti-lo sem que a discussão vire mera troca de gostos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-114",
+                         "texto_apoio":  "A produção literária indígena contemporânea reúne autores que escrevem em português e em línguas originárias, tratando de cosmologia, território e memória.",
+                         "enunciado":  "Essa produção se distingue do indianismo romântico porque:",
+                         "alternativas":  {
+                                              "a":  "adota exclusivamente formas literárias europeias, o que a aproxima da produção romântica brasileira do século XIX em seus procedimentos formais",
+                                              "b":  "trata dos mesmos temas com maior rigor documental, mantendo no entanto a idealização das figuras retratadas conforme o modelo do período anterior",
+                                              "c":  "restringe-se ao registro de narrativas orais recolhidas por pesquisadores não indígenas, sem participação das comunidades na elaboração do texto",
+                                              "d":  "os próprios indígenas passam a escrever, em vez de serem representados",
+                                              "e":  "abandona qualquer referência à experiência coletiva, concentrando-se na expressão de estados subjetivos individuais de cada um dos autores"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "No indianismo, o indígena é personagem construído por autores brancos para servir a um projeto de nação. Agora ele é autor — e a mudança de quem segura a caneta altera tudo o que se diz.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-115",
+                         "texto_apoio":  "Muitas obras literárias brasileiras foram adaptadas para o cinema e a televisão, com alterações de enredo, de personagens e de desfecho.",
+                         "enunciado":  "Do ponto de vista dos estudos literários, essas alterações devem ser entendidas como:",
+                         "alternativas":  {
+                                              "a":  "consequência de linguagens distintas, e não como infidelidade",
+                                              "b":  "falhas de execução decorrentes do desconhecimento da obra original por parte das equipes responsáveis pela realização de cada uma das adaptações",
+                                              "c":  "exigências comerciais impostas pelos financiadores, sem qualquer relação com as características formais próprias de cada uma das duas linguagens",
+                                              "d":  "provas de que a literatura não pode ser adaptada, uma vez que qualquer transposição para outro suporte descaracteriza integralmente a obra original",
+                                              "e":  "recursos destinados a facilitar a compreensão do público, que segundo os adaptadores não teria condições de acompanhar a obra em sua forma original"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O que a prosa faz com um narrador que comenta, o cinema precisa fazer com imagem, corte e som. Cobrar fidelidade literal é cobrar que uma linguagem funcione como outra — e a adaptação é uma leitura, não uma cópia.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-116",
+                         "texto_apoio":  "A literatura brasileira contemporânea reúne autores de origens, temas e propostas formais muito diversos, sem que se possa apontar uma corrente dominante.",
+                         "enunciado":  "Essa característica se explica, entre outros fatores, por:",
+                         "alternativas":  {
+                                              "a":  "a ampliação do acesso à publicação e a pluralização das vozes autorais",
+                                              "b":  "a existência de um programa estético comum definido em manifesto publicado no início do período por representantes dos principais grupos literários",
+                                              "c":  "o encerramento das atividades das editoras comerciais, o que teria transferido a produção literária inteiramente para o âmbito universitário",
+                                              "d":  "a padronização crescente dos temas tratados, decorrente da concentração do mercado editorial em um número reduzido de grandes grupos empresariais",
+                                              "e":  "a recusa generalizada de qualquer diálogo com a tradição literária anterior, posição assumida coletivamente pelos autores em atividade no país"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Editoras independentes, coletivos, saraus e circulação digital baixaram a barreira de entrada. Sem um centro que defina o que vale, a pluralidade deixa de ser exceção e passa a ser a forma do período.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-117",
+                         "texto_apoio":  "Considere: a poesia concreta trabalha o espaço da página; a poesia marginal trabalha a dicção coloquial e o circuito alternativo.",
+                         "enunciado":  "As duas propostas, embora distintas, compartilham:",
+                         "alternativas":  {
+                                              "a":  "a defesa do isolamento da arte em relação aos acontecimentos políticos, posição sustentada pelos dois grupos ao longo de toda a sua atuação",
+                                              "b":  "o compromisso com a métrica regular e com as formas fixas herdadas da tradição poética portuguesa anterior ao período modernista brasileiro",
+                                              "c":  "a filiação declarada ao romance de 30 e a seu programa de documentação das condições sociais das populações rurais do Nordeste brasileiro",
+                                              "d":  "a produção exclusiva no interior das universidades, com circulação restrita ao público acadêmico especializado em estudos literários no país",
+                                              "e":  "a recusa do lugar tradicional atribuído ao poema e ao livro"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Uma dissolve o verso, a outra dispensa a editora; as duas questionam o que o poema deve ser e onde deve estar. São respostas opostas à mesma insatisfação com o formato herdado.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-118",
+                         "texto_apoio":  "Considere a trajetória do herói na literatura brasileira: o indígena idealizado do Romantismo, o malandro das \"Memórias de um Sargento de Milícias\", o Macunaíma \"sem nenhum caráter\" e o Fabiano de \"Vidas Secas\".",
+                         "enunciado":  "A sequência revela:",
+                         "alternativas":  {
+                                              "a":  "a alternância entre heróis urbanos e rurais sem qualquer relação com as transformações sociais em curso no país durante cada um dos períodos",
+                                              "b":  "a consolidação do modelo heroico romântico, cujos traços se mantêm inalterados ao longo de todos os períodos da literatura brasileira citados",
+                                              "c":  "a substituição do protagonista individual pelo coletivo, processo que se completa já nas primeiras décadas do século dezenove no país",
+                                              "d":  "o afastamento progressivo do modelo heroico tradicional",
+                                              "e":  "o retorno cíclico ao modelo clássico da epopeia greco-latina, retomado por cada geração após períodos de experimentação com outras formas"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "De Peri a Fabiano, o protagonista perde nobreza, coerência e por fim a própria palavra. Cada etapa aproxima a ficção de gente que existe, e a distância em relação ao herói é a medida dessa aproximação.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-119",
+                         "texto_apoio":  "Considere o tratamento da linguagem: o Parnasianismo busca precisão e vocabulário selecionado; o Modernismo incorpora a fala brasileira; Guimarães Rosa inventa palavras.",
+                         "enunciado":  "A sequência mostra que a linguagem passa de:",
+                         "alternativas":  {
+                                              "a":  "elemento secundário a preocupação central, deslocamento que só se verifica na produção literária brasileira a partir da década de mil novecentos e oitenta",
+                                              "b":  "matéria a ser transformada a instrumento a ser dominado, percurso que acompanha o retorno progressivo às formas fixas da tradição literária",
+                                              "c":  "instrumento a ser dominado a matéria a ser transformada",
+                                              "d":  "recurso de comunicação a obstáculo deliberado, com progressiva restrição do público leitor a especialistas em estudos linguísticos no país",
+                                              "e":  "traço regional a padrão nacional unificado, processo que se completa com a fixação de uma norma escrita única para todo o território brasileiro"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O parnasiano quer usar bem a língua que existe; o modernista alarga o que ela aceita; Rosa fabrica a que falta. A escrita deixa de ser meio transparente e passa a ser o próprio objeto de trabalho.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-120",
+                         "texto_apoio":  "As escolas literárias costumam ser apresentadas como sucessão ordenada de períodos, cada um reagindo ao anterior.",
+                         "enunciado":  "Essa apresentação é útil, mas exige a ressalva de que:",
+                         "alternativas":  {
+                                              "a":  "as datas de início e de encerramento de cada período foram estabelecidas pelos próprios autores em documentos publicados no início de cada um",
+                                              "b":  "os períodos se sobrepõem e convivem, e muitos autores não cabem em nenhum",
+                                              "c":  "a sucessão obedece a uma lei histórica necessária, de modo que cada período só poderia ter surgido no momento exato em que efetivamente surgiu",
+                                              "d":  "cada autor pertence a um único período, definido pela data de publicação de sua primeira obra e mantido ao longo de toda a sua trajetória",
+                                              "e":  "a divisão em períodos é criação recente da crítica universitária e não corresponde a nenhuma diferença real entre as obras assim classificadas"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Parnasianismo e Simbolismo convivem; Bandeira atravessa a fronteira de 1922; Augusto dos Anjos não cabe em lugar nenhum. A periodização organiza o estudo — não descreve como a literatura acontece.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-121",
+                         "texto_apoio":  "A tradição distingue três grandes gêneros literários.",
+                         "enunciado":  "O gênero ______ organiza-se em torno da expressão do eu, o ______ em torno da narração de acontecimentos e o ______ em torno da ação representada em cena. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "descritivo – dissertativo – injuntivo, tipos textuais que a tradição literária adota como critério de organização de seu repertório de obras",
+                                              "b":  "épico ou narrativo – dramático – lírico, distribuição que corresponde à ordem cronológica em que os três gêneros teriam surgido na tradição ocidental",
+                                              "c":  "dramático – lírico – épico ou narrativo, classificação que decorre da extensão média das obras produzidas em cada um dos três conjuntos citados",
+                                              "d":  "lírico – épico ou narrativo – dramático",
+                                              "e":  "romântico – realista – modernista, denominações que correspondem a escolas literárias e não a categorias de organização dos gêneros literários"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A divisão vem da Antiguidade e continua útil, embora as fronteiras vazem: há narrativa em poema e lirismo em romance. As alternativas (a) e (e) confundem gênero com tipo textual e com escola.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "literatura-122",
+                         "texto_apoio":  "Compare dois relatos do mesmo episódio: um conduzido por quem participou dele; outro, por uma voz que o observa de fora.",
+                         "enunciado":  "A principal consequência da escolha do primeiro é:",
+                         "alternativas":  {
+                                              "a":  "garantir maior objetividade ao relato, uma vez que quem participou dispõe de informações mais precisas sobre os acontecimentos que narra ao leitor",
+                                              "b":  "limitar o conhecimento ao que a personagem viu e quis contar",
+                                              "c":  "permitir acesso simultâneo ao pensamento de todas as personagens envolvidas, o que amplia a compreensão do conjunto dos fatos narrados",
+                                              "d":  "eliminar a figura do narrador, substituída pela apresentação direta dos acontecimentos sem qualquer mediação de um ponto de vista particular",
+                                              "e":  "impor a organização cronológica rigorosa dos episódios, exigência que decorre da posição ocupada por quem conduz a narrativa dentro dela"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Narrador-personagem tem horizonte fechado: não sabe o que não presenciou e tem interesse no que conta. É essa limitação dupla que faz de \"Dom Casmurro\" o caso exemplar da questão.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-123",
+                         "texto_apoio":  "Em algumas narrativas, o narrador em terceira pessoa informa o que cada personagem pensa e sente, inclusive o que elas ocultam umas das outras.",
+                         "enunciado":  "Esse narrador é chamado:",
+                         "alternativas":  {
+                                              "a":  "personagem, por participar diretamente dos acontecimentos que relata ao longo da narrativa conduzida em primeira pessoa do singular",
+                                              "b":  "observador, por limitar-se ao registro dos comportamentos visíveis das personagens sem qualquer acesso ao que se passa na consciência delas",
+                                              "c":  "onisciente, por conhecer o que nenhuma personagem poderia conhecer",
+                                              "d":  "intruso, por interromper com frequência o curso da narrativa a fim de comentar os fatos e orientar a interpretação a ser feita pelo leitor",
+                                              "e":  "não confiável, por apresentar versão dos fatos que o leitor tem motivos para questionar ao longo do desenvolvimento da narrativa apresentada"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Onisciência é acesso ilimitado ao interior das personagens. Pode vir acompanhada de intromissão — o narrador que comenta —, mas as duas coisas são distintas e podem aparecer separadas.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-124",
+                         "texto_apoio":  "Numa narrativa, uma tarde inteira pode ser resolvida em uma linha, e um instante pode ocupar dez páginas.",
+                         "enunciado":  "O tempo medido pelo relógio é chamado ______, o tempo tal como a consciência o experimenta é chamado ______, e a diferença entre eles ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "cronológico – psicológico – é um recurso de construção da narrativa",
+                                              "b":  "psicológico – cronológico – configura falha de composição que a revisão do texto deveria corrigir antes da publicação da obra literária",
+                                              "c":  "histórico – ficcional – separa as narrativas baseadas em fatos reais daquelas inteiramente inventadas por quem as escreve em cada caso",
+                                              "d":  "linear – circular – depende exclusivamente do gênero em que a obra se inscreve, sem que o autor possa interferir nessa organização",
+                                              "e":  "objetivo – subjetivo – decorre do foco narrativo adotado, sendo o primeiro próprio da terceira pessoa e o segundo da primeira pessoa"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Dilatar e comprimir o tempo é uma das principais ferramentas do narrador: o que ele alonga é o que importa. Em Clarice, um instante de percepção ocupa o conto inteiro — e isso é escolha, não desequilíbrio.",
+                         "formato":  "lacunas",
+                         "banca":  "unifesp"
+                     },
+                     {
+                         "id":  "literatura-125",
+                         "texto_apoio":  "Compare: \"a sala tinha duas janelas e um armário\" e \"a sala tinha o cheiro parado de quem espera há muito tempo\".",
+                         "enunciado":  "A segunda formulação se distingue da primeira por construir:",
+                         "alternativas":  {
+                                              "a":  "personagem, e não cenário, porque o lugar descrito passa a exercer função equivalente à de um agente dentro da estrutura da narrativa",
+                                              "b":  "espaço físico, e não ambiente, uma vez que apresenta com maior precisão os elementos concretos que compõem o lugar descrito na narrativa",
+                                              "c":  "tempo psicológico, e não espaço, já que a referência à duração da espera desloca o foco da descrição para a experiência subjetiva vivida",
+                                              "d":  "foco narrativo em primeira pessoa, uma vez que a percepção do cheiro só poderia ser atribuída a uma personagem presente naquele local",
+                                              "e":  "ambiente, e não apenas espaço físico"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Espaço é onde a cena ocorre; ambiente é a carga afetiva que o lugar carrega. A segunda frase mede o mesmo cômodo, mas informa sobre o estado de quem está nele — e prepara o leitor para o que vem.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-126",
+                         "texto_apoio":  "Algumas personagens se definem por um traço único e permanecem iguais do início ao fim; outras se revelam contraditórias e mudam ao longo da narrativa.",
+                         "enunciado":  "Essas duas categorias são chamadas, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "protagonistas e antagonistas, distinção que se estabelece pela posição ocupada por cada uma no conflito central da obra apresentada",
+                                              "b":  "redondas e planas, classificação que decorre da extensão do espaço que cada uma delas ocupa no interior da narrativa em que aparece",
+                                              "c":  "planas e redondas",
+                                              "d":  "principais e secundárias, categorias definidas pela quantidade de episódios em que cada uma das personagens participa ao longo do enredo",
+                                              "e":  "típicas e caricatas, denominações que se referem ao grau de semelhança entre a personagem e as pessoas reais do meio social retratado"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A distinção é de E. M. Forster: a plana pode ser resumida numa frase e cumpre função; a redonda surpreende de modo convincente. Nem toda personagem precisa ser redonda — depende do papel que ela tem.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-127",
+                         "texto_apoio":  "Uma narrativa tradicional costuma apresentar situação inicial, desenvolvimento do conflito, ponto de maior tensão e resolução.",
+                         "enunciado":  "Boa parte da ficção do século XX se afasta desse modelo ao:",
+                         "alternativas":  {
+                                              "a":  "reduzir o conflito externo e recusar o desfecho conclusivo",
+                                              "b":  "ampliar a extensão de cada uma das quatro etapas, mantendo no entanto a mesma sequência herdada da tradição narrativa do século anterior",
+                                              "c":  "inverter a ordem das etapas, apresentando primeiro a resolução e depois os acontecimentos que a teriam produzido no interior da narrativa",
+                                              "d":  "eliminar a personagem como elemento organizador, substituída pela descrição sistemática dos espaços em que a ação se desenvolveria",
+                                              "e":  "retomar as convenções do romance de folhetim, com capítulos curtos encerrados por episódios de suspense destinados a sustentar o interesse"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Em Clarice ou em Rosa, o que move o texto não é o que acontece, e o final não fecha. Isso obriga o leitor a trabalhar de outro jeito — e é a razão pela qual resumir essas obras costuma trair o que elas são.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-128",
+                         "texto_apoio":  "Compare: (I) \"Ela pensou: preciso sair daqui.\" (II) \"Ela pensou que precisava sair dali.\" (III) \"Ela olhou a porta. Precisava sair dali. Agora.\"",
+                         "enunciado":  "As três formas correspondem, respectivamente, a discurso:",
+                         "alternativas":  {
+                                              "a":  "narrado, citado e comentado, denominações correntes nos estudos sobre o tratamento da fala das personagens em narrativas de ficção literária",
+                                              "b":  "indireto, direto e indireto livre, ordem que decorre da presença ou da ausência de sinais de pontuação que delimitem a fala da personagem",
+                                              "c":  "indireto livre, indireto e direto, classificação determinada pela pessoa gramatical empregada em cada uma das três construções apresentadas",
+                                              "d":  "direto, indireto livre e indireto, sequência estabelecida a partir do grau de intervenção do narrador sobre o conteúdo do pensamento relatado",
+                                              "e":  "direto, indireto e indireto livre"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O direto reproduz com marca explícita; o indireto subordina com \"que\" e ajusta os dêiticos; o indireto livre dispensa as duas coisas e deixa a voz da personagem invadir a narração sem aviso.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-129",
+                         "texto_apoio":  "Considere três gêneros da prosa de ficção.",
+                         "enunciado":  "O ______ concentra-se em um conflito único e tende à unidade de efeito; o ______ tem extensão intermediária e ação encadeada; o ______ admite múltiplos núcleos e maior duração. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "romance – conto – novela, ordem que corresponde ao número de personagens que cada um dos três gêneros costuma comportar em sua estrutura",
+                                              "b":  "conto – novela – romance",
+                                              "c":  "novela – romance – conto, classificação estabelecida pela crítica a partir do público leitor a que cada um dos gêneros se dirige historicamente",
+                                              "d":  "crônica – conto – ensaio, gêneros que se distinguem pelo suporte em que circulam e pelo grau de elaboração ficcional de cada um deles",
+                                              "e":  "fábula – parábola – epopeia, formas narrativas cuja diferença reside na presença ou na ausência de finalidade moral explícita ao final"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A distinção não é só de tamanho: o conto busca um efeito e o alcança de uma vez; o romance sustenta várias linhas ao longo do tempo. A novela fica entre os dois, com ação contínua e menos ramificação.",
+                         "formato":  "lacunas",
+                         "banca":  "santacasa"
+                     },
+                     {
+                         "id":  "literatura-130",
+                         "texto_apoio":  "\"Todo mundo tem um vizinho que rega planta às seis da manhã. O meu rega às cinco e quarenta, e eu sei disso porque também não durmo.\"",
+                         "enunciado":  "O trecho apresenta traços característicos:",
+                         "alternativas":  {
+                                              "a":  "do poema em prosa: exploração de recursos sonoros e construção de imagens por meio de metáforas encadeadas ao longo de todo o texto",
+                                              "b":  "do conto: conflito único delimitado, tensão crescente e desfecho que produz efeito de surpresa sobre quem acompanha a narrativa apresentada",
+                                              "c":  "do ensaio: desenvolvimento de uma tese apoiada em argumentos e em referências a outros autores que trataram anteriormente do mesmo assunto",
+                                              "d":  "da crônica: fato miúdo, primeira pessoa e tom de conversa",
+                                              "e":  "da reportagem: apuração de fatos junto a fontes identificadas e apresentação de dados verificáveis sobre o assunto tratado pelo autor"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O assunto é banal, quem fala se inclui na cena e a frase soa como conversa. A crônica se define menos por estrutura do que por essa escala: o pequeno olhado de perto por alguém que se expõe junto.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-131",
+                         "texto_apoio":  "No verso \"Não sei se é sonho, se é ilusão\", a contagem poética das sílabas vai até a última sílaba tônica.",
+                         "enunciado":  "Esse verso é classificado como:",
+                         "alternativas":  {
+                                              "a":  "decassílabo, verso de dez sílabas poéticas que constitui a forma tradicionalmente adotada nas composições em soneto da língua portuguesa",
+                                              "b":  "redondilha maior, de sete sílabas poéticas",
+                                              "c":  "alexandrino, verso de doze sílabas poéticas com pausa obrigatória depois da sexta, forma consagrada pela tradição poética francesa clássica",
+                                              "d":  "redondilha menor, de cinco sílabas poéticas, medida frequente na poesia popular e nas composições destinadas ao acompanhamento musical",
+                                              "e":  "verso livre, uma vez que a ausência de rima na composição dispensa qualquer contagem regular das sílabas em cada um dos versos do poema"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Contando com as elisões e parando na última tônica, chega-se a sete. A redondilha maior é a medida mais tradicional da poesia em português e sustenta cordel, quadra popular e boa parte do cancioneiro.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-132",
+                         "texto_apoio":  "Compare os pares de rima: \"amor / dor\" e \"coração / solidão\".",
+                         "enunciado":  "Quanto à classe gramatical das palavras rimadas, ambos os pares constituem rimas:",
+                         "alternativas":  {
+                                              "a":  "internas, por ocorrerem no interior do verso e não em sua posição final, arranjo que produz efeito rítmico distinto do habitual na composição",
+                                              "b":  "ricas, por unirem palavras de classes gramaticais diferentes entre si, condição que a tradição poética considera indicativa de maior elaboração",
+                                              "c":  "toantes, por apresentarem coincidência apenas entre as vogais tônicas sem que haja correspondência entre os sons consonantais seguintes",
+                                              "d":  "pobres, por unirem palavras da mesma classe",
+                                              "e":  "brancas, uma vez que a ausência de correspondência sonora entre os finais dos versos caracteriza esse tipo de composição na tradição poética"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Rima pobre é a que junta palavras da mesma classe — dois substantivos, dois verbos. Rima rica cruza classes, e o Parnasianismo fez dela questão de honra técnica.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-133",
+                         "texto_apoio":  "O soneto é forma fixa consagrada na tradição ocidental desde o Renascimento.",
+                         "enunciado":  "Sua estrutura clássica é composta por:",
+                         "alternativas":  {
+                                              "a":  "dois quartetos seguidos de dois tercetos",
+                                              "b":  "quatro quartetos de igual extensão, dispostos em sequência e ligados por esquema de rimas alternadas ao longo de toda a composição poética",
+                                              "c":  "três tercetos seguidos de um dístico final, arranjo que constitui a forma predominante nas composições produzidas em língua portuguesa",
+                                              "d":  "número variável de estrofes, definido livremente pelo autor conforme a extensão do assunto tratado em cada uma das composições escritas",
+                                              "e":  "uma única estrofe de catorze versos sem divisão interna, disposição que caracteriza a forma desde sua origem na tradição poética italiana"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "São catorze versos em quatro estrofes: 4-4-3-3. A divisão costuma acompanhar o argumento — os quartetos expõem, os tercetos concluem —, e é essa arquitetura que atraiu os parnasianos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-134",
+                         "texto_apoio":  "Compare: (I) verso com métrica regular e sem rima; (II) verso sem métrica fixa e sem rima.",
+                         "enunciado":  "O primeiro é chamado ______ e o segundo, ______:",
+                         "alternativas":  {
+                                              "a":  "agudo – grave, categorias definidas pela sílaba em que recai o acento tônico da última palavra de cada um dos versos da composição",
+                                              "b":  "livre – branco, denominações que decorrem da presença ou da ausência de estrofação regular ao longo da composição poética apresentada",
+                                              "c":  "solto – preso, classificação que se refere ao grau de dependência de cada verso em relação aos demais dentro da estrutura do poema",
+                                              "d":  "heroico – sáfico, denominações que designam variantes do decassílabo conforme a posição das sílabas tônicas no interior de cada verso",
+                                              "e":  "branco – livre"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Verso branco tem metro e não tem rima; verso livre não tem nem um nem outro. A confusão entre os dois é frequente, e a diferença importa: o branco é forma tradicional, o livre é conquista moderna.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-135",
+                         "texto_apoio":  "Compare: (I) \"o corredor é um rio de macas\"; (II) \"o corredor parece um rio de macas\".",
+                         "enunciado":  "As duas construções correspondem, respectivamente, a:",
+                         "alternativas":  {
+                                              "a":  "metonímia e sinédoque, figuras que operam pela substituição de um termo por outro com o qual mantém relação de contiguidade de sentido",
+                                              "b":  "comparação e metáfora, distinção que decorre da extensão de cada uma das duas construções apresentadas para análise no enunciado da questão",
+                                              "c":  "metáfora e comparação",
+                                              "d":  "hipérbole e eufemismo, recursos que se distinguem pelo grau de intensidade atribuído ao fato descrito em cada uma das duas construções",
+                                              "e":  "prosopopeia e antítese, figuras que consistem, respectivamente, em atribuir vida ao inanimado e em aproximar termos de sentido oposto"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A metáfora identifica sem intermediário; a comparação declara a semelhança com \"parece\", \"como\", \"tal qual\". A presença ou ausência do conectivo comparativo é o critério.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-136",
+                         "texto_apoio":  "\"O hospital inteiro esperava o resultado.\"",
+                         "enunciado":  "A figura empregada é:",
+                         "alternativas":  {
+                                              "a":  "sinestesia, com cruzamento de sensações provenientes de campos sensoriais distintos dentro de uma mesma construção apresentada no texto",
+                                              "b":  "hipérbole, com exagero deliberado do número de pessoas efetivamente envolvidas na situação descrita pelo enunciado apresentado ao leitor",
+                                              "c":  "eufemismo, com substituição de uma expressão considerada dura por outra mais branda a fim de atenuar o impacto da informação transmitida",
+                                              "d":  "paradoxo, com afirmação que se contradiz internamente e produz efeito de estranhamento sobre quem acompanha a leitura do enunciado",
+                                              "e":  "metonímia, com o lugar designando as pessoas que nele estão"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Prédio não espera: quem espera são as pessoas. Substituir o continente pelo conteúdo é uma das relações clássicas de metonímia, ao lado de autor por obra e marca por produto.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-137",
+                         "texto_apoio":  "\"Um silêncio áspero, de cor cinza, cobria o corredor.\"",
+                         "enunciado":  "A construção emprega:",
+                         "alternativas":  {
+                                              "a":  "pleonasmo, repetindo uma ideia já contida em outro termo da mesma construção sem que a repetição acrescente qualquer informação nova",
+                                              "b":  "onomatopeia, reproduzindo por meio de palavras o som efetivamente produzido no ambiente descrito ao longo do trecho apresentado ao leitor",
+                                              "c":  "sinestesia, cruzando sensações de sentidos diferentes",
+                                              "d":  "anacoluto, interrompendo a estrutura sintática iniciada e retomando outra construção na sequência do período apresentado no enunciado",
+                                              "e":  "zeugma, omitindo um termo já enunciado anteriormente e recuperável a partir do contexto em que a construção aparece dentro do texto"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Silêncio é audição, áspero é tato, cinza é visão. Misturar campos sensoriais numa mesma imagem é o recurso que o Simbolismo transformou em programa.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-138",
+                         "texto_apoio":  "\"Depois de doze horas de plantão, ele saiu descansadíssimo, como se voltasse das férias.\"",
+                         "enunciado":  "O efeito produzido pela frase é de:",
+                         "alternativas":  {
+                                              "a":  "hipérbole, ao ampliar deliberadamente a duração do turno de trabalho mencionado no início do período apresentado para análise no enunciado",
+                                              "b":  "ironia, ao afirmar o contrário do que se quer dizer",
+                                              "c":  "metonímia, ao substituir o nome do estado descrito por outro termo com o qual ele mantém relação de proximidade no mesmo campo de sentido",
+                                              "d":  "eufemismo, ao atenuar por meio de expressão mais branda a descrição de uma situação considerada penosa por quem a vivenciou naquele dia",
+                                              "e":  "prosopopeia, ao atribuir características humanas a um elemento inanimado presente no ambiente em que se desenvolve a cena apresentada"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Doze horas de plantão e \"descansadíssimo\" não combinam, e a comparação com férias fecha o descompasso. A ironia depende de o leitor reconhecer a impossibilidade da leitura literal.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-139",
+                         "texto_apoio":  "Compare: (I) \"o sussurro seco do soro subindo\"; (II) \"a maré cansada da madrugada arrastada\".",
+                         "enunciado":  "Em I predomina ______ e em II, ______; os dois são recursos ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "a elipse – o zeugma – de supressão, ligados à omissão de termos recuperáveis a partir do contexto em que cada construção aparece no texto",
+                                              "b":  "a assonância – a aliteração – sintáticos, ligados à ordem em que os termos se dispõem no interior de cada uma das construções apresentadas",
+                                              "c":  "a metáfora – a comparação – semânticos, ligados ao deslocamento de sentido entre os campos evocados por cada um dos termos empregados",
+                                              "d":  "a aliteração – a assonância – sonoros, ligados à repetição de fonemas",
+                                              "e":  "a hipérbole – o eufemismo – de intensidade, ligados ao grau de ênfase atribuído por quem escreve ao conteúdo transmitido em cada caso"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Aliteração repete consoantes — a sequência em s do primeiro; assonância repete vogais — o a aberto do segundo. Nos dois casos, o som passa a carregar sentido, e não apenas a acompanhá-lo.",
+                         "formato":  "lacunas",
+                         "banca":  "unesp"
+                     },
+                     {
+                         "id":  "literatura-140",
+                         "texto_apoio":  "Leia:\n\nEle esperou a noite inteira pela\nnotícia que não veio.",
+                         "enunciado":  "A quebra do verso no meio do sintagma configura:",
+                         "alternativas":  {
+                                              "a":  "enjambement, que estende a unidade sintática para o verso seguinte",
+                                              "b":  "elipse, que suprime um termo recuperável a partir do contexto em que a construção aparece no interior do poema apresentado ao leitor",
+                                              "c":  "anacoluto, que interrompe a estrutura sintática iniciada e a substitui por outra na continuação do período composto pelo autor do texto",
+                                              "d":  "hipérbato, que inverte a ordem direta dos termos da oração com finalidade expressiva dentro da estrutura da composição poética escrita",
+                                              "e":  "aliteração, que repete o mesmo fonema consonantal ao longo dos versos a fim de produzir efeito sonoro perceptível durante a leitura"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O verso termina em \"pela\", mas a frase não. O corte suspende o leitor exatamente onde a espera é o assunto — o recurso formal reproduz o conteúdo, e é isso que o justifica.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-141",
+                         "texto_apoio":  "Um poema é escrito em primeira pessoa e relata a perda de um irmão. Sabe-se que o autor não teve irmãos.",
+                         "enunciado":  "Essa constatação:",
+                         "alternativas":  {
+                                              "a":  "não invalida o poema, pois o eu lírico não se confunde com o autor",
+                                              "b":  "invalida o poema como documento literário, uma vez que a literatura exige correspondência verificável entre o relato e a biografia de quem escreve",
+                                              "c":  "obriga a reclassificar o texto como prosa de ficção, gênero em que a invenção de acontecimentos é admitida sem restrições pela tradição crítica",
+                                              "d":  "indica erro de análise por parte do leitor, que deveria ter identificado desde o início as marcas textuais que denunciam a natureza inventada",
+                                              "e":  "revela que o poema pertence necessariamente ao gênero dramático, único em que a voz que fala pode ser atribuída a uma figura inventada"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O eu lírico é construção do texto, como a personagem é do romance. Confundir os dois leva a ler poesia como confissão — e a descartar como falso tudo o que não bate com a certidão de nascimento do autor.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-142",
+                         "texto_apoio":  "Um texto retoma outro mantendo seu sentido em outras palavras; um segundo o retoma invertendo seu sentido com efeito crítico ou humorístico.",
+                         "enunciado":  "O primeiro procedimento é a ______, o segundo é a ______, e ambos são casos de ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "tradução – adaptação – transposição, conjunto de operações que consistem em levar um texto de uma língua ou de um suporte para outro",
+                                              "b":  "paródia – paráfrase – ambiguidade, fenômeno que consiste na possibilidade de atribuir mais de um sentido a um mesmo enunciado apresentado",
+                                              "c":  "citação – alusão – polissemia, propriedade pela qual uma mesma palavra assume sentidos distintos conforme o contexto em que é empregada",
+                                              "d":  "epígrafe – pastiche – metalinguagem, procedimento pelo qual um texto toma a si mesmo ou à própria linguagem como assunto de que trata",
+                                              "e":  "paráfrase – paródia – intertextualidade"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "As duas dependem de o leitor reconhecer o texto de partida — sem isso, não funcionam. O Modernismo brasileiro fez da paródia arma crítica, e a \"Canção do Exílio\" é o alvo mais visitado.",
+                         "formato":  "lacunas",
+                         "banca":  "fuvest"
+                     },
+                     {
+                         "id":  "literatura-143",
+                         "texto_apoio":  "Leia:\n\nA noite é um bicho manso que se deita\nno pé da cama e fica ali, sem pressa,\nesperando que o corpo se convença\nde que dormir é coisa que se aceita.",
+                         "enunciado":  "O poema constrói seu efeito principal por meio de:",
+                         "alternativas":  {
+                                              "a":  "uma hipérbole que amplia desproporcionalmente a duração da noite descrita, com o objetivo de produzir efeito cômico sobre quem lê o texto",
+                                              "b":  "uma sucessão de comparações introduzidas por conectivos explícitos, cada uma delas aproximando a noite de um elemento diferente do cotidiano",
+                                              "c":  "uma antítese entre dois campos de sentido opostos, dispostos em versos alternados ao longo de toda a extensão da estrofe apresentada",
+                                              "d":  "uma metáfora sustentada ao longo de toda a estrofe",
+                                              "e":  "uma metonímia que substitui o nome do estado descrito pelo do lugar em que ele ocorre, relação de contiguidade mantida em toda a estrofe"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A noite é dita bicho manso e continua sendo tratada como tal: deita, espera, tem paciência. Uma metáfora que se desdobra em vários versos organiza a estrofe inteira em torno de uma única imagem.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-144",
+                         "texto_apoio":  "Considere a estrofe da questão anterior, cujas rimas seguem o esquema deita / pressa / convença / aceita.",
+                         "enunciado":  "O esquema de rimas empregado é:",
+                         "alternativas":  {
+                                              "a":  "alternado, com o primeiro verso rimando com o terceiro e o segundo rimando com o quarto dentro da estrutura da estrofe apresentada",
+                                              "b":  "emparelhado, com os versos rimando dois a dois em sequência ao longo de toda a extensão da estrofe apresentada para análise no enunciado",
+                                              "c":  "interpolado, com o primeiro verso rimando com o quarto",
+                                              "d":  "misto, com combinação irregular dos três esquemas anteriores ao longo dos versos que compõem a estrofe submetida à análise proposta",
+                                              "e":  "ausente, uma vez que as terminações apresentadas não estabelecem qualquer correspondência sonora entre si na leitura da composição"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "\"Deita\" e \"aceita\" fecham a estrofe pelas pontas, enquanto \"pressa\" e \"convença\" rimam no miolo. O esquema ABBA é chamado interpolado ou oposto, e é o do quarteto clássico do soneto.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-145",
+                         "texto_apoio":  "Leia:\n\n\"Ele conferiu o número do leito três vezes. Não era desconfiança do sistema, era do próprio cansaço. Lá fora alguém ria, e ele achou aquilo indecente — depois achou que achar aquilo indecente é que era.\"",
+                         "enunciado":  "O trecho é conduzido por narrador:",
+                         "alternativas":  {
+                                              "a":  "em primeira pessoa, participante direto dos acontecimentos que relata ao longo do trecho apresentado para análise no enunciado da questão",
+                                              "b":  "em terceira pessoa com acesso à consciência da personagem",
+                                              "c":  "observador externo, limitado ao registro dos comportamentos visíveis e sem qualquer acesso ao que se passa no interior da personagem",
+                                              "d":  "intruso, que interrompe repetidamente a narrativa para dirigir-se ao leitor e orientar a interpretação a ser feita dos fatos apresentados",
+                                              "e":  "não confiável, uma vez que o texto oferece indícios de que os fatos relatados não ocorreram da forma como estão sendo apresentados"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "\"Ele\" marca a terceira pessoa, e o narrador informa o motivo da conferência e a correção que a personagem faz de si mesma. É onisciência restrita a uma consciência, sem comentário do narrador sobre ela.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-146",
+                         "texto_apoio":  "Considere o mesmo trecho: quase toda a extensão do parágrafo é ocupada por um gesto que dura poucos segundos e por seu desdobramento mental.",
+                         "enunciado":  "Esse tratamento revela predomínio do tempo:",
+                         "alternativas":  {
+                                              "a":  "circular sobre o linear, com retorno ao ponto de partida ao final do parágrafo apresentado para análise no enunciado desta questão",
+                                              "b":  "cronológico sobre o psicológico, uma vez que a sucessão dos acontecimentos obedece rigorosamente à ordem em que eles teriam ocorrido",
+                                              "c":  "histórico sobre o ficcional, já que o trecho situa a cena num período determinado e verificável do passado recente do país retratado",
+                                              "d":  "psicológico sobre o cronológico",
+                                              "e":  "futuro sobre o presente, deslocamento que decorre da antecipação de acontecimentos ainda não ocorridos no momento em que a cena se passa"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Conferir um número três vezes leva segundos; o parágrafo inteiro cabe nesse intervalo. Quando a consciência dilata o instante e o relógio recua, é o tempo psicológico que comanda o ritmo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-147",
+                         "texto_apoio":  "No Romantismo, a paisagem reflete o estado de espírito do eu lírico; no Modernismo, a cidade aparece com seus bondes, fábricas e multidões.",
+                         "enunciado":  "O deslocamento indica que a literatura passou a:",
+                         "alternativas":  {
+                                              "a":  "abandonar qualquer referência ao espaço exterior, concentrando-se exclusivamente na expressão de estados subjetivos indefinidos do eu lírico",
+                                              "b":  "tomar o mundo moderno como matéria, em vez de fugir dele",
+                                              "c":  "recusar a natureza como tema literário, posição assumida coletivamente pelos autores modernistas em manifesto publicado durante a década",
+                                              "d":  "documentar com rigor científico as transformações urbanas do período, com base em dados oficiais consultados pelos autores nos arquivos",
+                                              "e":  "idealizar o ambiente urbano do mesmo modo como o período anterior havia idealizado a paisagem natural retratada em suas composições"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O romântico usa a paisagem como espelho e o escapismo como saída. O modernista fica: escreve o bonde, a fábrica e a rua sem transformá-los em símbolo de outra coisa.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-148",
+                         "texto_apoio":  "Considere: a Corte de Machado, o cortiço de Aluísio, o subúrbio de Lima Barreto, a Paulicéia de Mário e a cidade violenta de Rubem Fonseca.",
+                         "enunciado":  "A sequência mostra que a cidade, na literatura brasileira:",
+                         "alternativas":  {
+                                              "a":  "aparece sempre idealizada como espaço de progresso e de oportunidade, leitura que atravessa sem alteração os cinco momentos apresentados",
+                                              "b":  "mantém ao longo de todo o período a mesma função de pano de fundo neutro, sem qualquer influência sobre as personagens que nela circulam",
+                                              "c":  "deixa de ser cenário e passa a ser assunto e problema",
+                                              "d":  "é progressivamente abandonada em favor do espaço rural, deslocamento que se completa com a produção do romance regionalista dos anos trinta",
+                                              "e":  "recebe tratamento exclusivamente documental, com registro estatístico das transformações urbanas em cada um dos períodos mencionados"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "De pano de fundo da vida elegante a organismo que determina destinos, e daí a território de exclusão e violência: a cidade vai deixando de ser onde a história se passa para ser aquilo de que a história trata.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-149",
+                         "texto_apoio":  "A morte aparece no Barroco como passagem e juízo, no ultrarromantismo como refúgio desejado, em Augusto dos Anjos como decomposição da matéria e em João Cabral como fato social do Nordeste.",
+                         "enunciado":  "A comparação demonstra que:",
+                         "alternativas":  {
+                                              "a":  "um mesmo tema muda de sentido conforme a visão de mundo de cada período",
+                                              "b":  "o tratamento do tema permanece essencialmente idêntico ao longo dos períodos, variando apenas o vocabulário empregado por cada geração de autores",
+                                              "c":  "apenas os períodos mais recentes conseguiram tratar o assunto com profundidade, uma vez que dispunham de recursos formais mais desenvolvidos",
+                                              "d":  "a recorrência do tema comprova a ausência de originalidade da literatura brasileira, que teria repetido os mesmos assuntos ao longo dos séculos",
+                                              "e":  "o assunto só adquire relevância literária quando tratado a partir de dados verificáveis sobre as condições sociais em que a morte ocorre"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O tema é o mesmo e o que se diz dele é irreconhecível de um período a outro. Comparar tratamentos de um mesmo assunto é uma das formas mais produtivas de estudar periodização sem decorar datas.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "literatura-150",
+                         "texto_apoio":  "Provas de vestibular costumam cobrar menos a memorização de datas e nomes do que a capacidade de relacionar um texto a seu contexto e de analisar seus procedimentos.",
+                         "enunciado":  "Essa orientação supõe que estudar literatura serve, sobretudo, para:",
+                         "alternativas":  {
+                                              "a":  "memorizar as datas de publicação das principais obras, informação que permite reconstituir com precisão a cronologia da produção nacional",
+                                              "b":  "acumular informações biográficas sobre os autores consagrados, conhecimento que permite situar corretamente cada obra em seu período histórico",
+                                              "c":  "identificar a escola literária a que pertence cada obra, tarefa que constitui o objetivo final do estudo da disciplina no ensino médio brasileiro",
+                                              "d":  "reproduzir as interpretações consagradas pela crítica especializada, evitando leituras próprias que possam divergir do consenso estabelecido",
+                                              "e":  "aprender a ler com atenção ao modo como um texto é construído"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Saber que um poema é simbolista vale pouco; perceber como a repetição sonora produz o efeito de vago vale muito, e serve para qualquer texto. Data e nome são apoio da leitura, não substituto dela.",
+                         "formato":  "direta"
                      }
                  ]
 }

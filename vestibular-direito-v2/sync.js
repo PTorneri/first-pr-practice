@@ -13,7 +13,7 @@
 // dado — descritas em MERGE_STRATEGY logo abaixo.
 
 import { doc, getDoc, setDoc, deleteDoc } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js";
-import { db } from "./firebase-init.js?v=10";
+import { db } from "./firebase-init.js?v=11";
 
 const META_KEY = "v2_syncMeta"; // { "<chave>": <ms da última escrita local> } — não sobe pra nuvem
 const PUSH_DEBOUNCE_MS = 2500;

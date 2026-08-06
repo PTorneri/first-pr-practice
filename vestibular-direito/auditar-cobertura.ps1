@@ -100,7 +100,11 @@ $programa = [ordered]@{
       @{ n = "13 Modos de organização textual";                 t = @("dissertaç","narraç","descriç","tipo textual","gênero textual") }
       @{ n = "14 Significação: denotação, conotação, polissemia"; t = @("denotaç","conotaç","polissem","sentido figurado","sentido literal","ambiguidade") }
       @{ n = "15 Variação linguística";                         t = @("variação linguística","norma culta","registro informal","regionalismo","gíria","variedade") }
-      @{ n = "16 Funções da linguagem";                         t = @("função referencial","função apelativa","função emotiva","função metalinguística","função poética","função fática","funções da linguagem") }
+      # Singular ao lado do plural, e os nomes das funções soltos. O enunciado
+      # real pergunta "a função da linguagem predominante" e a alternativa
+      # responde só "referencial" ou "fática" -- a versão que exigia "função
+      # referencial" colado marcava zero onde havia seis questões.
+      @{ n = "16 Funções da linguagem";                         t = @("função da linguagem","funções da linguagem","função referencial","função apelativa","função emotiva","função metalinguística","função poética","função fática","metalinguística","fática","conativa") }
     )
   }
   "Literatura" = @{

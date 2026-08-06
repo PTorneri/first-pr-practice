@@ -16177,18 +16177,19 @@ window.QUESTION_BANKS = {
     "gramatica":  [
                       {
                           "id":  "gramatica-01",
-                          "texto_apoio":  "\"Fazem dois anos que o novo prédio da faculdade foi inaugurado.\"",
-                          "enunciado":  "A frase apresenta um desvio de concordância verbal. Assinale a alternativa que a corrige adequadamente.",
+                          "banca":  "fgv",
+                          "formato":  "direta",
+                          "texto_apoio":  "Letra e fonema são unidades de naturezas distintas: a letra pertence à escrita, e o fonema é a menor unidade sonora capaz de distinguir palavras. Num dígrafo, duas letras representam um único fonema.",
+                          "enunciado":  "Considerando essa distinção, a palavra CHUVA apresenta",
                           "alternativas":  {
-                                               "a":  "Fazem dois anos que o novo prédio da faculdade foi inaugurado.",
-                                               "b":  "Fazem-se dois anos que o novo prédio da faculdade foi inaugurado.",
-                                               "c":  "Faz dois anos que o novo prédio da faculdade foi inaugurado.",
-                                               "d":  "Fazem dois ano que o novo prédio da faculdade foi inaugurado.",
-                                               "e":  "Fez dois anos que o novo prédio da faculdade foram inaugurado."
+                                               "a":  "5 letras e 5 fonemas.",
+                                               "b":  "4 letras e 5 fonemas.",
+                                               "c":  "5 letras e 4 fonemas.",
+                                               "d":  "5 letras e 3 fonemas.",
+                                               "e":  "4 letras e 4 fonemas, já que o dígrafo inicial é contado como uma unidade nos dois planos."
                                            },
                           "resposta":  "c",
-                          "explicacao":  "O verbo \u0027fazer\u0027 indicando tempo decorrido é impessoal e deve ficar sempre na terceira pessoa do singular: \u0027Faz dois anos\u0027. As demais alternativas mantêm o erro ou criam novos desvios.",
-                          "formato":  "direta"
+                          "explicacao":  "A escrita traz c-h-u-v-a, cinco letras. No plano sonoro, ch representa um único fonema, e a palavra soa em quatro: o do dígrafo, mais u, v e a. A contagem de cinco fonemas trataria ch como dois sons; a de três suprimiria um som existente; e as opções com quatro letras confundem os dois planos, reduzindo a contagem gráfica por causa do dígrafo, que é fenômeno do som e não da escrita."
                       },
                       {
                           "id":  "gramatica-02",
@@ -16237,18 +16238,19 @@ window.QUESTION_BANKS = {
                       },
                       {
                           "id":  "gramatica-05",
-                          "texto_apoio":  "\"O diretor, junto com os professores foi cobrado por resultados melhores no próximo semestre e também não houveram reclamações sobre o novo calendário.\"",
-                          "enunciado":  "Assinale a alternativa que identifica corretamente o desvio de concordância verbal presente na frase.",
+                          "banca":  "fgv",
+                          "formato":  "direta",
+                          "texto_apoio":  "Chamam-se encontros vocálicos as sequências de vogais e semivogais numa palavra. No ditongo, vogal e semivogal ficam na mesma sílaba; no tritongo, semivogal, vogal e semivogal na mesma sílaba; no hiato, duas vogais em sílabas separadas.",
+                          "enunciado":  "A palavra em que ocorre HIATO é",
                           "alternativas":  {
-                                               "a":  "O verbo \u0027foi\u0027 deveria concordar no plural, pois há dois sujeitos coordenados, unidos indevidamente pela expressão \u0027junto com\u0027 nessa leitura da frase.",
-                                               "b":  "O desvio está em \u0027houveram\u0027, que deveria ser substituído por \u0027tiveram\u0027, única forma admitida no sentido de existir.",
-                                               "c":  "O verbo \u0027houveram\u0027, empregado no sentido de \u0027existir\u0027, deveria permanecer na forma impessoal \u0027houve\u0027, já que verbos impessoais nunca flexionam em número.",
-                                               "d":  "O verbo \u0027cobrado\u0027 deveria estar no plural para concordar com \u0027professores\u0027, considerando \u0027junto com\u0027 como parte do sujeito composto.",
-                                               "e":  "Não há nenhum desvio de concordância na frase, pois todos os verbos concordam corretamente com seus respectivos sujeitos."
+                                               "a":  "pai.",
+                                               "b":  "quais.",
+                                               "c":  "saída.",
+                                               "d":  "mãe.",
+                                               "e":  "água, em que as três vogais finais pertencem a uma única sílaba tônica."
                                            },
                           "resposta":  "c",
-                          "explicacao":  "O verbo \u0027haver\u0027 no sentido de \u0027existir\u0027 é impessoal e não admite flexão de número; o correto é \u0027não houve reclamações\u0027. O sujeito de \u0027foi cobrado\u0027 é apenas \u0027o diretor\u0027, já que \u0027junto com os professores\u0027 é adjunto adverbial, mantendo a concordância no singular corretamente.",
-                          "formato":  "direta"
+                          "explicacao":  "Em sa-í-da as vogais a e i ficam em sílabas diferentes, o que caracteriza o hiato — e o acento na letra i existe justamente para marcar essa separação. Em pai e mãe há ditongo, com vogal e semivogal na mesma sílaba, o segundo nasal; em quais há tritongo; e em á-gua o encontro final é ditongo crescente na segunda sílaba, que além disso não é a tônica."
                       },
                       {
                           "id":  "gramatica-06",
@@ -16297,18 +16299,19 @@ window.QUESTION_BANKS = {
                       },
                       {
                           "id":  "gramatica-09",
-                          "texto_apoio":  "\"Prefiro estudar de manhã do que estudar à noite.\"",
-                          "enunciado":  "Sobre a regência do verbo \u0027preferir\u0027 na frase, é correto afirmar que",
+                          "banca":  "fgv",
+                          "formato":  "direta",
+                          "texto_apoio":  "Na composição, unem-se dois ou mais radicais. Ela é por justaposição quando os radicais se mantêm inteiros, sem perda de elementos, e por aglutinação quando há perda de fonemas na junção, com fusão dos radicais numa forma única.",
+                          "enunciado":  "As palavras PASSATEMPO e PLANALTO formam-se, respectivamente, por",
                           "alternativas":  {
-                                               "a":  "está incorreta; a norma culta exige \u0027preferir mais... do que\u0027, com o advérbio de intensidade explícito.",
-                                               "b":  "está incorreta porque falta a preposição \u0027para\u0027 antes de \u0027estudar\u0027, complemento que o verbo \u0027preferir\u0027 exigiria nessa construção.",
-                                               "c":  "está correta apenas em textos informais, mas também na norma culta, que aceita ambas as regências como plenamente equivalentes.",
-                                               "d":  "está correta, pois \u0027preferir\u0027 sempre exige a estrutura \u0027do que\u0027, regência amplamente aceita em qualquer registro da língua.",
-                                               "e":  "está incorreta; a norma culta recomenda a estrutura \u0027preferir algo a algo\u0027, sem o uso da locução comparativa \u0027do que\u0027."
+                                               "a":  "derivação prefixal e derivação sufixal.",
+                                               "b":  "derivação sufixal nas duas.",
+                                               "c":  "composição por aglutinação nas duas.",
+                                               "d":  "composição por justaposição nas duas, uma vez que em ambas os radicais permanecem íntegros.",
+                                               "e":  "composição por justaposição e composição por aglutinação."
                                            },
                           "resposta":  "e",
-                          "explicacao":  "O verbo \u0027preferir\u0027 rege a preposição \u0027a\u0027, não admitindo, na norma culta, a comparação com \u0027do que\u0027: o correto é \u0027Prefiro estudar de manhã a estudar à noite\u0027.",
-                          "formato":  "direta"
+                          "explicacao":  "Em passatempo os radicais passa e tempo aparecem inteiros, o que caracteriza a justaposição. Em planalto houve perda na junção de plano e alto, que se fundiram numa forma única, o que caracteriza a aglutinação. Tratar as duas como justaposição ignora essa perda, e é o distrator mais forte; tratá-las como aglutinação desconsidera a integridade dos radicais na primeira; e as opções por derivação não se aplicam, porque não há afixo em jogo, e sim dois radicais."
                       },
                       {
                           "id":  "gramatica-10",
@@ -16402,18 +16405,19 @@ window.QUESTION_BANKS = {
                       },
                       {
                           "id":  "gramatica-16",
-                          "texto_apoio":  "\"Fui na casa dela ontem à tarde e conversamos sobre o novo projeto que ela irá apresentar na faculdade.\"",
-                          "enunciado":  "Sobre a regência do verbo \u0027ir\u0027 na frase, a norma culta recomenda que",
+                          "banca":  "fgv",
+                          "formato":  "direta",
+                          "texto_apoio":  "Fala-se em derivação imprópria, ou conversão, quando uma palavra passa a pertencer a outra classe gramatical sem que sua forma sofra alteração. É o que ocorre com infinitivos empregados como substantivos.",
+                          "enunciado":  "Na frase \"O jantar estava frio\", a palavra JANTAR é",
                           "alternativas":  {
-                                               "a":  "não há preposição adequada para reger o verbo \u0027ir\u0027 nesse contexto, já que esse verbo seria intransitivo ao indicar deslocamento.",
-                                               "b":  "a construção \u0027fui na casa\u0027 está adequada, pois com nomes de lugar determinados o verbo \u0027ir\u0027 rege a preposição \u0027em\u0027.",
-                                               "c":  "a construção \u0027fui até a casa dela\u0027 é a única aceita pela norma culta, por explicitar o percurso completo.",
-                                               "d":  "a construção mais adequada à norma culta é \u0027fui à casa dela\u0027, com a preposição \u0027a\u0027 indicando destino, unida por crase ao artigo feminino.",
-                                               "e":  "a construção correta seria \u0027fui para a casa dela\u0027, já que \u0027para\u0027 indica destino com permanência e \u0027a\u0027 caberia apenas em deslocamentos breves."
+                                               "a":  "verbo no infinitivo, atuando como núcleo do predicado da oração.",
+                                               "b":  "substantivo formado por derivação sufixal a partir de um adjetivo.",
+                                               "c":  "verbo substantivado por derivação regressiva, processo em que a palavra nova resulta da supressão da terminação verbal.",
+                                               "d":  "substantivo resultante de derivação imprópria, com mudança de classe sem alteração de forma.",
+                                               "e":  "substantivo formado por composição de dois radicais distintos."
                                            },
                           "resposta":  "d",
-                          "explicacao":  "\u0027Ir\u0027 indicando destino rege \u0027a\u0027, e o encontro dessa preposição com o artigo de \u0027a casa\u0027 produz a crase: \u0027fui à casa dela\u0027. Em (e) está o distrator mais bem informado: a distinção entre \u0027a\u0027 (deslocamento breve) e \u0027para\u0027 (permanência) existe de fato na tradição gramatical, mas ela não torna \u0027para\u0027 obrigatório aqui, e sim opcional. Em (b), \u0027em\u0027 com verbo de movimento é traço de oralidade. Em (c), \u0027até\u0027 é possível, não exclusivo. Em (a), \u0027ir\u0027 é transitivo indireto nesse uso.",
-                          "formato":  "direta"
+                          "explicacao":  "A forma jantar é idêntica à do infinitivo, mas na frase vem precedida de artigo e funciona como sujeito — mudou de classe sem mudar de forma, que é a definição de derivação imprópria dada no texto. O núcleo do predicado é estava; não há sufixo acrescentado, o que afasta a derivação sufixal; a derivação regressiva exigiria supressão de terminação, como em pescar e pesca, e aqui nada foi suprimido — é o distrator mais forte; e não há dois radicais."
                       },
                       {
                           "id":  "gramatica-17",
@@ -16507,18 +16511,19 @@ window.QUESTION_BANKS = {
                       },
                       {
                           "id":  "gramatica-23",
-                          "texto_apoio":  "\"Livros, cadernos, canetas, nada foi esquecido na mochila.\"",
-                          "enunciado":  "Sobre a concordância verbal na frase, é correto afirmar que",
+                          "banca":  "fgv",
+                          "formato":  "direta",
+                          "texto_apoio":  "Dígrafo é o grupo de duas letras que representa um só fonema. Além dos casos com h (ch, lh, nh), incluem-se rr, ss, sc, sç, xc, qu e gu antes de e ou i, e as vogais seguidas de m ou n na mesma sílaba, que indicam nasalização.",
+                          "enunciado":  "A palavra em que NÃO há dígrafo é",
                           "alternativas":  {
-                                               "a":  "está incorreta porque falta uma vírgula antes de \u0027nada\u0027, termo recapitulativo que precisaria vir isolado do restante do período.",
-                                               "b":  "está incorreta; o verbo deveria concordar no plural com os elementos enumerados: \u0027nada foram esquecidos\u0027, por regra de concordância com sujeitos compostos.",
-                                               "c":  "está correta apenas porque a enumeração antecede o verbo; se viesse depois, a concordância teria de ser feita no plural.",
-                                               "d":  "está correta; quando um sujeito composto é resumido por um pronome indefinido como \u0027nada\u0027 ou \u0027tudo\u0027, o verbo concorda com esse pronome.",
-                                               "e":  "está incorreta; o pronome resumidor exige que o verbo concorde com o núcleo mais próximo do sujeito composto."
+                                               "a":  "carro.",
+                                               "b":  "nascer.",
+                                               "c":  "campo.",
+                                               "d":  "sábado.",
+                                               "e":  "filha, cujo grupo consonantal representa dois fonemas distintos na pronúncia."
                                            },
                           "resposta":  "d",
-                          "explicacao":  "O pronome recapitulativo assume o lugar do sujeito composto, e o verbo concorda com ele: \u0027nada foi esquecido\u0027. Em (b) está o erro mais natural, porque a enumeração plural puxa a leitura para \u0027foram esquecidos\u0027 — é justamente essa atração que a regra do pronome resumidor bloqueia. Em (c), a ordem dos termos não altera a concordância. Em (e), o núcleo mais próximo é o próprio \u0027nada\u0027. Em (a), a vírgula antes do recapitulativo já está lá.",
-                          "formato":  "direta"
+                          "explicacao":  "Em sá-ba-do cada letra corresponde a um fonema, e não há grupo de duas letras representando um só som. Em carro há rr; em nascer há sc; em campo o grupo am indica nasalização da vogal, caso previsto na definição do texto; e em filha há lh, que representa um único fonema — a alternativa que afirma dois fonemas ali contraria a própria noção de dígrafo."
                       },
                       {
                           "id":  "gramatica-24",
@@ -16567,18 +16572,19 @@ window.QUESTION_BANKS = {
                       },
                       {
                           "id":  "gramatica-27",
-                          "texto_apoio":  "\"O candidato aprovado está apto para assumir o cargo, desde que seja obediente às normas internas da empresa.\"",
-                          "enunciado":  "Sobre a regência nominal dos termos destacados, é correto afirmar que",
+                          "banca":  "fgv",
+                          "formato":  "direta",
+                          "texto_apoio":  "Chamam-se palavras atrativas as que puxam o pronome oblíquo átono para antes do verbo, em próclise: advérbios de negação, pronomes relativos, pronomes indefinidos, conjunções subordinativas e advérbios sem vírgula depois.",
+                          "enunciado":  "Na frase \"Não ___ disse nada sobre o assunto\", a norma culta recomenda",
                           "alternativas":  {
-                                               "a":  "nenhuma das regências empregadas está de acordo com a norma culta, que exigiria \u0027apto a\u0027 e \u0027obediente para\u0027 nessa construção nominal.",
-                                               "b":  "\u0027apto para\u0027 está correto, mas \u0027obediente às\u0027 exige a preposição \u0027de\u0027, e não \u0027a\u0027.",
-                                               "c":  "\u0027obediente às\u0027 está incorreto; o correto seria \u0027obediente para\u0027, preposição que o adjetivo \u0027obediente\u0027 exigiria nessa construção formal.",
-                                               "d":  "\u0027apto para\u0027 está incorreto; a norma culta registra apenas \u0027apto a\u0027, com a preposição \u0027a\u0027 regendo o complemento do adjetivo nesse tipo de construção.",
-                                               "e":  "\u0027apto para\u0027 e \u0027obediente às\u0027 estão de acordo com a norma culta, que admite a preposição \u0027para\u0027 ou \u0027a\u0027 após \u0027apto\u0027, e exige \u0027a\u0027 após \u0027obediente\u0027."
+                                               "a":  "ênclise, por não haver, antes da forma verbal, elemento capaz de atrair o pronome oblíquo.",
+                                               "b":  "mesóclise, por estar o verbo no futuro do presente.",
+                                               "c":  "ênclise, posição preferida no início de período.",
+                                               "d":  "indiferença entre as três posições, aceitas de igual modo pela norma.",
+                                               "e":  "próclise, atraída pelo advérbio de negação."
                                            },
                           "resposta":  "e",
-                          "explicacao":  "\u0027Apto\u0027 aceita \u0027a\u0027 ou \u0027para\u0027, e \u0027obediente\u0027 rege \u0027a\u0027 — as duas construções da frase estão corretas. Em (d) está o distrator mais forte: \u0027apto a\u0027 é de fato regência legítima e a mais citada nos manuais, mas ser a mais citada não a torna exclusiva, e \u0027apto para\u0027 é igualmente aceita. Em (a), a inversão proposta erra as duas. Em (b) e (c), \u0027obediente\u0027 não rege \u0027de\u0027 nem \u0027para\u0027.",
-                          "formato":  "direta"
+                          "explicacao":  "O advérbio não figura entre as palavras atrativas listadas no texto, e por isso o pronome vem antes do verbo: não me disse nada. A ênclise seria a posição esperada se o verbo abrisse a oração sem nada antes, o que não ocorre aqui — é o distrator mais forte do item; a mesóclise pressupõe futuro do presente ou do pretérito, e disse é pretérito perfeito; e a norma culta estabelece regra para o caso, o que afasta a indiferença entre posições."
                       },
                       {
                           "id":  "gramatica-28",
@@ -16627,18 +16633,19 @@ window.QUESTION_BANKS = {
                       },
                       {
                           "id":  "gramatica-31",
-                          "texto_apoio":  "\"Foi encontrado, no sítio arqueológico, vestígios de uma civilização até então desconhecida pelos pesquisadores.\"",
-                          "enunciado":  "Sobre a concordância verbal na frase, é correto afirmar que",
+                          "banca":  "fgv",
+                          "formato":  "direta",
+                          "texto_apoio":  "Quanto à posição da sílaba tônica, a palavra é oxítona quando a tônica é a última, paroxítona quando é a penúltima e proparoxítona quando é a antepenúltima.",
+                          "enunciado":  "As palavras ÁRVORE, CARÁTER e URUBU classificam-se, respectivamente, como",
                           "alternativas":  {
-                                               "a":  "está incorreta porque falta a preposição \u0027de\u0027 antes de \u0027vestígios\u0027, complemento que o verbo \u0027encontrar\u0027 exigiria nessa construção passiva.",
-                                               "b":  "está correta, pois o verbo \u0027foi encontrado\u0027 deve permanecer sempre no singular, independentemente do sujeito.",
-                                               "c":  "está incorreta; como \u0027vestígios\u0027 é o sujeito da oração na voz passiva, o verbo deveria concordar no plural: \u0027foram encontrados vestígios\u0027.",
-                                               "d":  "está correta, pois na voz passiva analítica o particípio permanece invariável.",
-                                               "e":  "está correta porque \u0027sítio arqueológico\u0027 é o sujeito da oração, termo que, por vir anteposto ao verbo, determinaria a concordância no singular."
+                                               "a":  "paroxítona, oxítona e proparoxítona.",
+                                               "b":  "proparoxítona, oxítona e paroxítona.",
+                                               "c":  "proparoxítona, paroxítona e oxítona.",
+                                               "d":  "oxítona, paroxítona e proparoxítona.",
+                                               "e":  "paroxítona, proparoxítona e oxítona, seguindo a ordem em que aparecem no enunciado."
                                            },
                           "resposta":  "c",
-                          "explicacao":  "Na voz passiva, o verbo concorda com o sujeito paciente; como \u0027vestígios\u0027 está no plural, o correto é \u0027foram encontrados vestígios\u0027.",
-                          "formato":  "direta"
+                          "explicacao":  "Em ÁR-vo-re a tônica é a antepenúltima, logo proparoxítona; em ca-RÁ-ter é a penúltima, logo paroxítona; em u-ru-BU é a última, logo oxítona. Note que o acento gráfico não decide a classificação: caráter é acentuada e paroxítona, enquanto urubu não leva acento e é oxítona. As demais ordens trocam entre si as três classificações."
                       },
                       {
                           "id":  "gramatica-32",
@@ -16717,19 +16724,19 @@ window.QUESTION_BANKS = {
                       },
                       {
                           "id":  "gramatica-37",
-                          "texto_apoio":  "\"Cada um dos candidatos apresentou, na banca, sua própria defesa oral do projeto de pesquisa.\"",
-                          "enunciado":  "Sobre a concordância verbal na frase, é correto afirmar que",
+                          "banca":  "fgv",
+                          "formato":  "direta",
+                          "texto_apoio":  "Na derivação, acrescentam-se afixos a um radical: o prefixo vem antes, o sufixo depois. Quando os dois processos ocorrem na mesma palavra e a retirada de um deles ainda deixa palavra existente na língua, fala-se em derivação prefixal e sufixal.",
+                          "enunciado":  "Na palavra INFELIZMENTE, identificam-se",
                           "alternativas":  {
-                                               "a":  "está correta; quando o sujeito é formado por \u0027cada um dos\u0027 seguido de substantivo plural, o verbo permanece no singular, concordando com \u0027cada um\u0027.",
-                                               "b":  "está incorreta; a expressão \u0027cada um dos\u0027 obriga o verbo a concordar com o termo plural que a segue.",
-                                               "c":  "está incorreta porque falta o artigo definido antes de \u0027candidatos\u0027, elemento que a expressão \u0027cada um dos\u0027 exigiria obrigatoriamente nessa posição.",
-                                               "d":  "está incorreta; o verbo deveria concordar no plural com \u0027candidatos\u0027: \u0027apresentaram\u0027, já que esse substantivo seria o verdadeiro núcleo do sujeito.",
-                                               "e":  "está correta apenas porque a frase está na ordem direta, condição que dispensaria a concordância entre o verbo e o núcleo do sujeito partitivo."
+                                               "a":  "um prefixo, um radical e um sufixo, em derivação prefixal e sufixal.",
+                                               "b":  "dois radicais, em composição por justaposição.",
+                                               "c":  "apenas um sufixo acrescentado diretamente ao radical.",
+                                               "d":  "um radical e uma desinência indicadora de grau.",
+                                               "e":  "dois prefixos acrescentados a um mesmo radical, sem participação de sufixo no processo."
                                            },
                           "resposta":  "a",
-                          "explicacao":  "A expressão \u0027cada um\u0027 funciona como núcleo do sujeito e é sempre singular, mesmo seguida de complemento plural (\u0027dos candidatos\u0027); por isso, o verbo deve permanecer no singular: \u0027apresentou\u0027.",
-                          "dificuldade":  "media",
-                          "formato":  "direta"
+                          "explicacao":  "A palavra se decompõe em in- (prefixo), feliz (radical) e -mente (sufixo), e tanto infeliz quanto felizmente existem na língua — o que confirma a derivação prefixal e sufixal descrita no texto. Não há dois radicais, o que excluiria a composição; considerar apenas o sufixo ignoraria o in-; -mente é sufixo formador de advérbio, e não desinência de grau; e in- é o único prefixo presente."
                       },
                       {
                           "id":  "gramatica-38",
@@ -16749,19 +16756,19 @@ window.QUESTION_BANKS = {
                       },
                       {
                           "id":  "gramatica-39",
-                          "texto_apoio":  "\"Eles namoram há três anos e planejam morar juntos assim que se formarem na faculdade.\"",
-                          "enunciado":  "Sobre a regência do verbo \u0027namorar\u0027 na frase, é correto afirmar que",
+                          "banca":  "fgv",
+                          "formato":  "direta",
+                          "texto_apoio":  "A mesóclise coloca o pronome oblíquo átono no interior da forma verbal, entre o radical e a desinência. Ela é admitida com verbos no futuro do presente ou no futuro do pretérito, quando não há palavra atrativa antes do verbo.",
+                          "enunciado":  "Na frase \"Entregar-lhe-ei o relatório amanhã\", o pronome encontra-se em",
                           "alternativas":  {
-                                               "a":  "está incorreta; deveria ser \u0027namoram um com o outro\u0027, com preposição obrigatória exigida pela regência transitiva indireta do verbo \u0027namorar\u0027.",
-                                               "b":  "está incorreta; \u0027namorar\u0027 é verbo transitivo indireto e exige a preposição \u0027a\u0027 antes do complemento.",
-                                               "c":  "está correta; na norma culta, \u0027namorar\u0027 é verbo transitivo direto, não exigindo preposição para introduzir seu complemento.",
-                                               "d":  "está incorreta porque falta a preposição \u0027com\u0027 entre os dois sujeitos, já que verbos recíprocos exigiriam sempre esse conectivo intermediário.",
-                                               "e":  "está correta apenas em contextos informais de linguagem oral, sendo desvio gramatical grave em qualquer registro escrito ou formal da língua."
+                                               "a":  "próclise, posição de uso mais frequente na variedade brasileira falada.",
+                                               "b":  "ênclise, ligada ao final da forma verbal composta.",
+                                               "c":  "mesóclise, admitida com o verbo no futuro do presente e sem palavra atrativa antes dele.",
+                                               "d":  "posição livre, dado que a norma culta não estabelece regra de colocação para verbos no futuro.",
+                                               "e":  "próclise obrigatória, por se tratar de oração principal."
                                            },
                           "resposta":  "c",
-                          "explicacao":  "O verbo \u0027namorar\u0027 é transitivo direto na norma culta (\u0027namorar alguém\u0027), não devendo ser regido por preposição; no caso da frase, o sujeito é composto e recíproco (\u0027eles namoram\u0027), dispensando qualquer preposição adicional.",
-                          "dificuldade":  "media",
-                          "formato":  "direta"
+                          "explicacao":  "A forma entregarei foi partida ao meio para acolher o pronome — entregar-lhe-ei —, e é isso que define a mesóclise, cabível porque o verbo está no futuro do presente e nada antes dele atrai o pronome. Próclise poria o pronome antes de toda a forma verbal, e ênclise depois dela; a frase não tem verbo composto; e a norma culta regula justamente esse caso, o que afasta a ideia de posição livre."
                       },
                       {
                           "id":  "gramatica-40",
@@ -16874,18 +16881,19 @@ window.QUESTION_BANKS = {
                       },
                       {
                           "id":  "gramatica-47",
-                          "texto_apoio":  "\"Não me lembro do nome do autor do livro, mas lembro perfeitamente a capa vermelha com letras douradas.\"",
-                          "enunciado":  "Sobre a regência do verbo \u0027lembrar\u0027 nas duas ocorrências da frase, é correto afirmar que",
+                          "banca":  "fgv",
+                          "formato":  "direta",
+                          "texto_apoio":  "Nas locuções verbais com particípio, a norma culta não admite a ênclise ao particípio. O pronome oblíquo átono coloca-se antes do verbo auxiliar ou depois dele, conforme haja ou não palavra atrativa.",
+                          "enunciado":  "Na frase \"Tinha ___ avisado a tempo\", a norma culta admite",
                           "alternativas":  {
-                                               "a":  "apenas a construção com o pronome é aceita, pois \u0027lembrar\u0027 sem pronome só existe no sentido de \u0027parecer-se com\u0027.",
-                                               "b":  "apenas a construção com a preposição \u0027de\u0027 é aceita, porque o complemento de \u0027lembrar\u0027 é indireto nos dois empregos do verbo.",
-                                               "c":  "a segunda ocorrência deveria ser \u0027lembro-me da capa\u0027, sendo a forma apresentada um erro grave de regência verbal na norma culta escrita.",
-                                               "d":  "ambas estão incorretas, pois \u0027lembrar\u0027 pede o pronome reflexivo mesmo quando o complemento aparece sem preposição.",
-                                               "e":  "estão corretas: \u0027lembrar-se de algo\u0027 exige \u0027de\u0027; \u0027lembrar algo\u0027, sem o pronome, é transitivo direto."
+                                               "a":  "a ênclise ao particípio, forma preferida na escrita formal contemporânea.",
+                                               "b":  "a mesóclise, com o pronome inserido no interior do particípio.",
+                                               "c":  "somente a ênclise ao verbo auxiliar, ficando vedadas as demais posições do pronome oblíquo átono.",
+                                               "d":  "posição indiferente, dado que o particípio dispensa regra de colocação pronominal.",
+                                               "e":  "a próclise ou a ênclise em relação ao auxiliar, vedada a ênclise ao particípio."
                                            },
                           "resposta":  "e",
-                          "explicacao":  "Como em \u0027esquecer\u0027, é o pronome que muda a regência: com ele, \u0027de\u0027; sem ele, objeto direto. As duas ocorrências respeitam a distinção. Em (c) está o desvio mais frequente, porque a forma pronominal soa mais cuidada e leva a corrigir o que está certo. Em (b) e (d), generaliza-se a regência preposicionada. Em (a), \u0027lembrar algo\u0027 é uso corrente e não se confunde com \u0027lembrar alguém\u0027 no sentido de assemelhar-se.",
-                          "formato":  "direta"
+                          "explicacao":  "Cabem tinha me avisado e tinha-me avisado, ambas ligando o pronome ao auxiliar, e fica excluída a forma avisado-me, porque a ênclise ao particípio não é admitida — é exatamente a restrição enunciada no texto. Reduzir as possibilidades a uma só posição elimina uma construção correta, e é o distrator mais forte; a mesóclise não incide sobre particípio; e existe regra para o caso, o que afasta a indiferença."
                       },
                       {
                           "id":  "gramatica-48",
@@ -24358,18 +24366,19 @@ window.QUESTION_BANKS = {
     "interpretacao-texto":  [
                                 {
                                     "id":  "interpretacao-texto-01",
-                                    "texto_apoio":  "Uma rede municipal de ensino do interior paulista substituiu parte do material impresso por tablets em 40 escolas. Após um ano, o índice de leitura entre os alunos cresceu 12%, mas o desempenho em matemática permaneceu estável. A secretaria de educação avalia que o resultado é positivo, embora reconheça que a infraestrutura de internet ainda seja um obstáculo em bairros mais afastados do centro.",
-                                    "enunciado":  "Qual é a ideia central da notícia?",
+                                    "banca":  "fgv",
+                                    "formato":  "direta",
+                                    "texto_apoio":  "O Instituto Nacional de Meteorologia informou que a precipitação acumulada na capital em março foi de 118 milímetros, contra 96 milímetros no mesmo mês do ano anterior. O órgão registrou ainda que a temperatura média do período ficou em 24,3 graus.",
+                                    "enunciado":  "A função da linguagem predominante nesse texto é a",
                                     "alternativas":  {
-                                                         "a":  "A secretaria de educação decidiu abandonar o uso de tablets nas escolas, revertendo a substituição do material impresso.",
-                                                         "b":  "A conclusão central do texto é que o investimento em equipamentos deve ser redirecionado à formação continuada dos professores da rede.",
-                                                         "c":  "A adoção de tablets trouxe ganhos parciais na leitura, mas ainda enfrenta limitações estruturais.",
-                                                         "d":  "A substituição de livros por tablets prejudicou o desempenho dos alunos em matemática, que teria caído após a mudança.",
-                                                         "e":  "O crescimento de 12% na leitura foi idêntico em todas as 40 escolas da rede, sem qualquer variação entre elas."
+                                                         "a":  "emotiva, porque o enunciador manifesta sua reação diante dos dados divulgados.",
+                                                         "b":  "poética, porque o texto explora a sonoridade e o ritmo das palavras escolhidas.",
+                                                         "c":  "referencial, porque o texto se organiza em torno da informação sobre o mundo.",
+                                                         "d":  "metalinguística, porque o texto explica o significado dos termos técnicos que emprega.",
+                                                         "e":  "conativa, porque o texto procura induzir o leitor a adotar determinado comportamento."
                                                      },
                                     "resposta":  "c",
-                                    "explicacao":  "O texto relata um avanço específico (leitura) associado a uma ressalva (infraestrutura de internet), o que caracteriza um resultado parcial. As demais alternativas contradizem ou extrapolam informações não presentes no texto.",
-                                    "formato":  "direta"
+                                    "explicacao":  "O texto se limita a informar dados verificáveis, em terceira pessoa, sem marca de quem enuncia e sem apelo ao leitor: é o centro da função referencial. A função emotiva exigiria marcas do enunciador, como primeira pessoa ou juízo de valor, que não aparecem; a poética exigiria trabalho com a forma da mensagem; a metalinguística exigiria a linguagem explicando a si mesma, e nenhum termo é definido aqui; e a conativa exigiria imperativo ou vocativo dirigido ao leitor."
                                 },
                                 {
                                     "id":  "interpretacao-texto-02",
@@ -24388,18 +24397,19 @@ window.QUESTION_BANKS = {
                                 },
                                 {
                                     "id":  "interpretacao-texto-03",
-                                    "texto_apoio":  "O trabalho remoto, tão celebrado nos primeiros anos após a pandemia, começa a mostrar seus limites. Reuniões que deveriam durar trinta minutos se estendem por horas, e a linha entre vida pessoal e profissional, antes nítida, dissolveu-se na tela do computador. Defendo que empresas e trabalhadores precisam, com urgência, negociar novos limites de tempo e disponibilidade, sob pena de trocarmos a liberdade prometida por um cansaço sem fim.",
-                                    "enunciado":  "Qual é a tese defendida pelo autor do texto?",
+                                    "banca":  "fgv",
+                                    "formato":  "direta",
+                                    "texto_apoio":  "\"Ainda me lembro do cheiro daquela cozinha, e confesso que me falta o chão quando penso que nunca mais vou entrar nela. Escrevo isto com dificuldade.\"",
+                                    "enunciado":  "A função da linguagem predominante nesse trecho é a",
                                     "alternativas":  {
-                                                         "a":  "Cabe a cada trabalhador, individualmente, administrar seus próprios limites, sem que sejam necessárias regras comuns às equipes.",
-                                                         "b":  "As reuniões de trabalho deveriam ser sempre presenciais, conclusão que o texto não sustenta.",
-                                                         "c":  "A pandemia foi a única causa apontada pelo autor para os problemas do trabalho remoto.",
-                                                         "d":  "O trabalho remoto deve ser abolido imediatamente por todas as empresas, segundo a tese do autor.",
-                                                         "e":  "É necessário estabelecer novos limites de tempo e disponibilidade no trabalho remoto."
+                                                         "a":  "referencial, porque o trecho descreve objetivamente as características de um ambiente doméstico.",
+                                                         "b":  "fática, porque o trecho serve para testar e manter aberto o canal de comunicação.",
+                                                         "c":  "conativa, porque o trecho orienta o interlocutor a realizar determinada ação.",
+                                                         "d":  "metalinguística, porque o trecho comenta o próprio ato de escrever que realiza.",
+                                                         "e":  "emotiva, porque o trecho se organiza em torno do estado de quem enuncia."
                                                      },
                                     "resposta":  "e",
-                                    "explicacao":  "O autor não propõe o fim do trabalho remoto, mas sim a criação de limites claros entre vida pessoal e profissional, argumento explicitado na última frase do texto.",
-                                    "formato":  "direta"
+                                    "explicacao":  "A primeira pessoa, o verbo confessar e a declaração de dificuldade colocam o enunciador no centro: o assunto é o que ele sente, não a cozinha. A função referencial exigiria foco no objeto descrito, e a descrição aqui é pretexto; a fática cuida do contato, não do sentimento; a conativa exigiria apelo ao interlocutor. A menção ao ato de escrever poderia sugerir metalinguagem, mas ela aparece a serviço da confissão, e não como reflexão sobre a linguagem — é o distrator mais forte do item."
                                 },
                                 {
                                     "id":  "interpretacao-texto-04",
@@ -24583,18 +24593,19 @@ window.QUESTION_BANKS = {
                                 },
                                 {
                                     "id":  "interpretacao-texto-16",
-                                    "texto_apoio":  "Dados de agências sanitárias de mais de cem países mostram queda superior a 90% na incidência de sarampo em regiões que atingiram cobertura vacinal acima de 95% da população. Em contrapartida, localidades com cobertura vacinal abaixo de 80% registraram surtos recorrentes da doença nos últimos cinco anos.",
-                                    "enunciado":  "O argumento central do texto é sustentado principalmente por",
+                                    "banca":  "fgv",
+                                    "formato":  "direta",
+                                    "texto_apoio":  "\"Não fique de fora. Garanta já a sua vaga e descubra do que você é capaz. Inscreva-se hoje mesmo.\"",
+                                    "enunciado":  "A função da linguagem predominante nesse texto é a",
                                     "alternativas":  {
-                                                         "a":  "uma analogia entre a vacinação contra o sarampo e outros tratamentos médicos não relacionados.",
-                                                         "b":  "relatos pessoais de pacientes vacinados em diferentes países, sem dados estatísticos.",
-                                                         "c":  "projeções matemáticas sobre a evolução futura da cobertura vacinal no país nos próximos anos.",
-                                                         "d":  "dados estatísticos comparativos entre regiões com diferentes coberturas vacinais.",
-                                                         "e":  "opiniões de influenciadores digitais sobre vacinação, sem qualquer base em dados sanitários."
+                                                         "a":  "referencial, porque o texto informa as condições objetivas de participação no processo.",
+                                                         "b":  "emotiva, porque o texto expressa o entusiasmo de quem o assina diante da oportunidade.",
+                                                         "c":  "metalinguística, porque o texto esclarece o sentido das expressões que utiliza.",
+                                                         "d":  "conativa, porque o texto se organiza para levar o interlocutor a agir.",
+                                                         "e":  "poética, porque o texto trabalha a repetição sonora como recurso central de construção."
                                                      },
                                     "resposta":  "d",
-                                    "explicacao":  "O texto se apoia em comparações numéricas entre regiões com diferentes taxas de cobertura vacinal, caracterizando um argumento baseado em dados estatísticos, e não em relatos, opiniões ou analogias.",
-                                    "formato":  "direta"
+                                    "explicacao":  "Os verbos no imperativo e o interlocutor tratado diretamente por você organizam o texto em torno de uma ação a ser praticada por quem lê — é a definição da função conativa, também chamada apelativa. A referencial exigiria informação sobre o mundo, e nenhuma condição objetiva é dada; a emotiva exigiria o foco no enunciador; a metalinguística exigiria definição de termos; e a poética exigiria trabalho sonoro que o texto não desenvolve."
                                 },
                                 {
                                     "id":  "interpretacao-texto-17",
@@ -24628,18 +24639,19 @@ window.QUESTION_BANKS = {
                                 },
                                 {
                                     "id":  "interpretacao-texto-19",
-                                    "texto_apoio":  "Um município do interior do Amazonas iniciou um projeto piloto de entrega de medicamentos por drones para comunidades ribeirinhas de difícil acesso. Segundo a secretaria de saúde, o tempo de entrega caiu de até três dias, quando dependia de barcos, para poucas horas. O projeto ainda opera em caráter experimental e depende de autorização da aviação civil para expandir as rotas.",
-                                    "enunciado":  "Qual é a informação central veiculada pela notícia?",
+                                    "banca":  "fgv",
+                                    "formato":  "direta",
+                                    "texto_apoio":  "\"Chamamos de sinédoque a figura em que se toma a parte pelo todo. Não confunda com a metonímia em sentido amplo: a sinédoque é um caso particular dela, e o critério de distinção é a relação de quantidade.\"",
+                                    "enunciado":  "A função da linguagem predominante nesse trecho é a",
                                     "alternativas":  {
-                                                         "a":  "O projeto de entrega por drones foi desenvolvido por uma universidade da região em parceria com o governo estadual.",
-                                                         "b":  "As comunidades ribeirinhas rejeitaram o uso de drones para entrega de remédios, preferindo os barcos.",
-                                                         "c":  "A aviação civil já aprovou integralmente a expansão do projeto de entrega por drones para todo o estado e regiões vizinhas.",
-                                                         "d":  "A entrega de medicamentos por drones reduziu o tempo de acesso a comunidades ribeirinhas, mas segue em fase experimental.",
-                                                         "e":  "O uso de drones tornou desnecessário o transporte por barcos na região, conforme afirma a notícia."
+                                                         "a":  "conativa, porque há um verbo no imperativo dirigido ao interlocutor do texto.",
+                                                         "b":  "referencial, porque o trecho transmite informação verificável sobre um objeto do mundo.",
+                                                         "c":  "emotiva, porque o autor demonstra apreço pelo assunto de que trata.",
+                                                         "d":  "metalinguística, porque o trecho usa a linguagem para explicar a própria linguagem.",
+                                                         "e":  "poética, porque o trecho recorre a figuras para construir seu efeito de sentido."
                                                      },
                                     "resposta":  "d",
-                                    "explicacao":  "A notícia relata um ganho concreto (redução do tempo de entrega) associado a uma ressalva (caráter experimental e dependência de autorização), sem afirmar o fim do transporte por barco nem uma aprovação definitiva.",
-                                    "formato":  "direta"
+                                    "explicacao":  "O texto define termos da própria língua e estabelece o critério que separa dois deles: a linguagem toma a si mesma como objeto, que é o que caracteriza a função metalinguística. A presença de um imperativo poderia sugerir a conativa, mas ele serve à explicação e não a induzir uma ação — é o distrator mais forte aqui; a referencial trataria de objeto extralinguístico; a emotiva exigiria foco no enunciador; e mencionar figuras não é o mesmo que empregá-las."
                                 },
                                 {
                                     "id":  "interpretacao-texto-20",
@@ -24658,18 +24670,19 @@ window.QUESTION_BANKS = {
                                 },
                                 {
                                     "id":  "interpretacao-texto-21",
-                                    "texto_apoio":  "Tornar o estágio obrigatório em todos os cursos superiores, sem exceção, é uma medida que soa bem no papel, mas ignora realidades distintas entre áreas de formação. Cursos de forte base teórica, como filosofia ou matemática pura, nem sempre oferecem ao mercado vagas de estágio equivalentes às de cursos técnicos. Antes de universalizar a exigência, seria mais sensato ouvir cada área sobre suas necessidades específicas.",
-                                    "enunciado":  "Qual é a posição defendida pelo autor do texto?",
+                                    "banca":  "fgv",
+                                    "formato":  "direta",
+                                    "texto_apoio":  "— Alô? Está me ouvindo?\n— Estou, sim. Pode falar.\n— Alô? Continua aí?\n— Continuo. Fala.",
+                                    "enunciado":  "A função da linguagem predominante nesse diálogo é a",
                                     "alternativas":  {
-                                                         "a":  "O mercado de trabalho não oferece nenhuma vaga de estágio atualmente, em nenhuma área de formação.",
-                                                         "b":  "A obrigatoriedade do estágio deveria ser substituída por um exame nacional de habilidades práticas.",
-                                                         "c":  "O estágio obrigatório deve ser aplicado da mesma forma em todos os cursos superiores, sem exceção.",
-                                                         "d":  "A exigência de estágio obrigatório deveria considerar as particularidades de cada área de formação, não ser universal.",
-                                                         "e":  "Cursos de base teórica, como filosofia ou matemática pura, não deveriam existir nas universidades."
+                                                         "a":  "referencial, porque os interlocutores trocam informações sobre um assunto determinado.",
+                                                         "b":  "emotiva, porque as falas revelam o estado emocional de quem participa da conversa.",
+                                                         "c":  "conativa, porque cada fala procura obter do outro uma mudança de comportamento.",
+                                                         "d":  "fática, porque as falas servem para estabelecer e verificar o contato entre os interlocutores.",
+                                                         "e":  "metalinguística, porque os interlocutores discutem o significado das palavras que empregam."
                                                      },
                                     "resposta":  "d",
-                                    "explicacao":  "O autor questiona a universalização da exigência e propõe que cada área seja ouvida sobre suas necessidades, sem negar a importância do estágio, mas pedindo flexibilidade na aplicação da regra.",
-                                    "formato":  "direta"
+                                    "explicacao":  "Nenhuma informação é transmitida: as falas apenas testam se o canal está aberto e se o outro continua na linha, que é exatamente a função fática. A referencial exigiria assunto, e o diálogo não chega a ter um; a emotiva exigiria marca de sentimento; a conativa exigiria pedido de ação, e os imperativos aqui apenas devolvem o turno de fala; e a metalinguística exigiria discussão sobre a própria língua."
                                 },
                                 {
                                     "id":  "interpretacao-texto-22",
@@ -24838,18 +24851,19 @@ window.QUESTION_BANKS = {
                                 },
                                 {
                                     "id":  "interpretacao-texto-33",
-                                    "texto_apoio":  "Uma pesquisa realizada com voluntários de ONGs ambientais revelou que a principal motivação declarada não era o desejo de reconhecimento público, mas sim a sensação de pertencimento a uma causa coletiva. Quase 70% dos entrevistados afirmaram que continuariam o trabalho voluntário mesmo sem qualquer tipo de reconhecimento formal, como certificados ou menções públicas.",
-                                    "enunciado":  "Qual é a ideia central expressa pela pesquisa relatada no texto?",
+                                    "banca":  "fgv",
+                                    "formato":  "direta",
+                                    "texto_apoio":  "\"O vento vai varrendo a vala vaga, / e o vago vale volta a ver o vento.\"",
+                                    "enunciado":  "A função da linguagem predominante nesses versos é a",
                                     "alternativas":  {
-                                                         "a":  "Os voluntários de ONGs ambientais atuam sempre principalmente em busca de reconhecimento público e certificados formais.",
-                                                         "b":  "A principal motivação dos voluntários pesquisados é o senso de pertencimento à causa, não o reconhecimento formal.",
-                                                         "c":  "A maioria dos voluntários abandonaria o trabalho caso não recebesse certificados ou menções públicas.",
-                                                         "d":  "As ONGs ambientais não oferecem qualquer tipo de reconhecimento a seus voluntários, segundo a pesquisa.",
-                                                         "e":  "O reconhecimento formal oferecido pelas ONGs é o fator que mais retém voluntários a longo prazo."
+                                                         "a":  "referencial, porque os versos descrevem com precisão um fenômeno natural observável.",
+                                                         "b":  "poética, porque a organização sonora da mensagem se torna o centro do efeito.",
+                                                         "c":  "conativa, porque os versos convidam o leitor a observar a paisagem descrita.",
+                                                         "d":  "fática, porque os versos servem para manter a atenção do leitor ao longo do poema.",
+                                                         "e":  "metalinguística, porque os versos explicitam o procedimento formal que empregam."
                                                      },
                                     "resposta":  "b",
-                                    "explicacao":  "O texto afirma explicitamente que a principal motivação dos voluntários é o senso de pertencimento à causa coletiva, e não o reconhecimento formal, reforçado pelo dado de que a maioria continuaria mesmo sem certificados.",
-                                    "formato":  "direta"
+                                    "explicacao":  "A repetição insistente da consoante inicial faz com que a atenção recaia sobre a matéria sonora da mensagem, e não sobre o que ela informa: é a definição da função poética. A referencial trataria o vento como objeto a descrever, e a descrição aqui é subordinada ao efeito sonoro; a conativa exigiria apelo ao leitor; a fática cuida do canal; e a metalinguística exigiria que os versos comentassem o próprio procedimento, o que não fazem."
                                 },
                                 {
                                     "id":  "interpretacao-texto-34",
@@ -24914,19 +24928,19 @@ window.QUESTION_BANKS = {
                                 },
                                 {
                                     "id":  "interpretacao-texto-38",
-                                    "texto_apoio":  "Editorial: Investir bilhões em novas rodovias enquanto o transporte coletivo urbano definha é resolver o problema errado. Cada faixa extra de asfalto atrai mais carros, que em poucos anos recriam o mesmo congestionamento que a obra prometia eliminar. Cidades que priorizaram trens, metrôs e corredores de ônibus, e não novas pistas, foram as que efetivamente reduziram o tempo médio de deslocamento de seus habitantes.",
-                                    "enunciado":  "Qual é a tese central defendida pelo editorial?",
+                                    "banca":  "fgv",
+                                    "formato":  "direta",
+                                    "texto_apoio":  "\"A cidade acordou de mau humor. As ruas resmungaram sob os primeiros ônibus, as fachadas encararam o sol sem simpatia, e até o rio, que costuma ser paciente, passou o dia se queixando baixinho contra as pedras.\"",
+                                    "enunciado":  "A figura de linguagem empregada de forma reiterada nesse trecho é a",
                                     "alternativas":  {
-                                                         "a":  "Investimentos em transporte coletivo, não em mais vias para carros, reduzem melhor o congestionamento urbano.",
-                                                         "b":  "A construção de rodovias deveria ser imediatamente proibida em todas as cidades, sem exceção.",
-                                                         "c":  "O congestionamento urbano é um problema sem solução possível, segundo conclui o editorial.",
-                                                         "d":  "A ampliação de vias expressas deve ser acompanhada de pedágio urbano que financie o transporte coletivo.",
-                                                         "e":  "Trens e metrôs são tecnologias ultrapassadas frente às rodovias modernas, segundo afirma esse editorial específico."
+                                                         "a":  "personificação, pela atribuição de comportamento humano a elementos não humanos.",
+                                                         "b":  "hipérbole, pelo exagero deliberado das dimensões atribuídas aos elementos descritos.",
+                                                         "c":  "metonímia, pela substituição de um termo por outro com o qual mantém contiguidade.",
+                                                         "d":  "antítese, pela aproximação de termos de sentido oposto ao longo do período.",
+                                                         "e":  "eufemismo, pela substituição de uma expressão dura por outra mais branda e aceitável."
                                                      },
                                     "resposta":  "a",
-                                    "explicacao":  "O editorial argumenta, com o exemplo das cidades que investiram em transporte coletivo, que essa é a estratégia eficaz, contrapondo-a à expansão de rodovias, que atrairia mais carros e recriaria o congestionamento — sem propor proibição nem afirmar que o problema é insolúvel.",
-                                    "dificuldade":  "dificil",
-                                    "formato":  "direta"
+                                    "explicacao":  "Acordar de mau humor, resmungar, encarar sem simpatia e se queixar são ações e estados de gente atribuídos a cidade, ruas, fachadas e rio — e a repetição do procedimento em quatro elementos seguidos é o que o enunciado chama de reiterado. Não há exagero de dimensão que caracterize hipérbole; não há substituição por contiguidade, e as palavras designam o que designam; não há par de opostos armado no período; e nada é abrandado."
                                 },
                                 {
                                     "id":  "interpretacao-texto-39",
@@ -25106,19 +25120,19 @@ window.QUESTION_BANKS = {
                                 },
                                 {
                                     "id":  "interpretacao-texto-50",
-                                    "texto_apoio":  "Nascida em uma família de agricultores, a cientista precisou percorrer 40 quilômetros diariamente até a escola mais próxima. Formou-se em química aos 24 anos e, duas décadas depois, liderou a equipe que desenvolveu um método mais barato de purificação de água para comunidades rurais, hoje adotado em mais de 800 municípios.",
-                                    "enunciado":  "Qual é a ideia central veiculada por esse trecho biográfico?",
+                                    "banca":  "fgv",
+                                    "formato":  "direta",
+                                    "texto_apoio":  "\"O debate público virou um ringue. Cada um sobe ao tablado com a guarda alta, mede o adversário, procura o ponto fraco e desfere o argumento como quem desfere um golpe. Ao fim de doze rounds, ninguém convenceu ninguém: apenas se contaram os pontos.\"",
+                                    "enunciado":  "O trecho constrói seu sentido pelo emprego reiterado de",
                                     "alternativas":  {
-                                                         "a":  "O método de purificação de água desenvolvido pela equipe nunca foi adotado por nenhum município do país.",
-                                                         "b":  "A cientista abandonou de vez os estudos ainda jovem devido à distância diária até a escola mais próxima de sua casa na infância.",
-                                                         "c":  "A trajetória da cientista, marcada por dificuldades de acesso à escola, resultou em contribuição relevante às comunidades.",
-                                                         "d":  "A cientista só conseguiu se formar em química depois dos 40 anos de idade, o que o texto não confirma.",
-                                                         "e":  "O reconhecimento internacional recebido pela cientista, que a levou a dirigir um centro de pesquisa no exterior."
+                                                         "a":  "eufemismos que abrandam a violência atribuída ao debate público contemporâneo.",
+                                                         "b":  "hipérboles que ampliam desproporcionalmente a duração do debate descrito.",
+                                                         "c":  "metáforas extraídas de um mesmo campo, o da luta, aplicadas ao debate.",
+                                                         "d":  "ironias que afirmam o contrário do que o enunciador efetivamente defende.",
+                                                         "e":  "personificações que atribuem vontade própria aos argumentos apresentados."
                                                      },
                                     "resposta":  "c",
-                                    "explicacao":  "O trecho articula a origem humilde e as dificuldades de acesso escolar com a conquista posterior (o método de purificação adotado por centenas de municípios), traçando uma trajetória de superação com impacto social, sem contradizer nenhum dado apresentado.",
-                                    "dificuldade":  "media",
-                                    "formato":  "direta"
+                                    "explicacao":  "Ringue, tablado, guarda alta, golpe, rounds e contagem de pontos vêm todos do vocabulário do boxe, e são aplicados ao debate: a metáfora não aparece uma vez, e sim como campo inteiro sustentado ao longo do trecho. Não há abrandamento que caracterize eufemismo; a duração não é exagerada, e doze rounds é a medida real de uma luta; a ironia exigiria dizer o contrário do que se pensa; e os argumentos não recebem vontade própria."
                                 },
                                 {
                                     "id":  "interpretacao-texto-51",
@@ -25250,19 +25264,19 @@ window.QUESTION_BANKS = {
                                 },
                                 {
                                     "id":  "interpretacao-texto-59",
-                                    "texto_apoio":  "Das cerca de 1.500 línguas indígenas faladas no Brasil antes da colonização, estima-se que menos de 200 permaneçam vivas hoje, e várias delas contam apenas com falantes idosos, sem transmissão às gerações mais novas. Projetos de documentação linguística correm contra o tempo para registrar sons, gramáticas e narrativas orais antes que desapareçam por completo.",
-                                    "enunciado":  "Qual é a ideia central do texto?",
+                                    "banca":  "fgv",
+                                    "formato":  "direta",
+                                    "texto_apoio":  "\"Prometeram futuro e entregaram passado. Falaram de união e praticaram divisão. Anunciaram abundância num país de escassez, e chamaram de vitória o que a conta chamaria de derrota.\"",
+                                    "enunciado":  "A figura empregada de forma reiterada na construção do trecho é a",
                                     "alternativas":  {
-                                                         "a":  "Todas as línguas indígenas brasileiras já teriam sido completamente documentadas, dispensando os projetos citados.",
-                                                         "b":  "As políticas de documentação linguística já garantiram a preservação da maioria das línguas ameaçadas.",
-                                                         "c":  "Os falantes mais jovens seriam majoritariamente responsáveis pela manutenção das línguas, invertendo o quadro do texto.",
-                                                         "d":  "Há risco de extinção de línguas indígenas brasileiras, o que motiva projetos urgentes de documentação.",
-                                                         "e":  "O número de línguas indígenas no Brasil teria aumentado desde a colonização, o que os dados do texto não sustentam."
+                                                         "a":  "gradação, pela disposição dos termos em intensidade crescente ao longo do período.",
+                                                         "b":  "metonímia, pela substituição de cada termo por outro do mesmo campo semântico.",
+                                                         "c":  "hipérbole, pelo exagero das promessas atribuídas aos agentes mencionados no trecho.",
+                                                         "d":  "antítese, pela aproximação sistemática de termos de sentido oposto.",
+                                                         "e":  "prosopopeia, pela atribuição de fala e intenção a entidades abstratas do texto."
                                                      },
                                     "resposta":  "d",
-                                    "explicacao":  "O texto associa a drástica redução no número de línguas vivas e a ausência de transmissão geracional a um risco de extinção, o que justifica a urgência dos projetos de documentação mencionados, contrariando as demais alternativas.",
-                                    "dificuldade":  "media",
-                                    "formato":  "direta"
+                                    "explicacao":  "Futuro e passado, união e divisão, abundância e escassez, vitória e derrota: o trecho é armado sobre quatro pares de opostos em sequência, e é essa repetição do procedimento que o enunciado pede. A gradação exigiria intensidade crescente, e os pares se equivalem em força; não há substituição por contiguidade; o exagero não é o recurso, porque os termos são postos em confronto e não ampliados; e nenhuma entidade abstrata recebe fala própria."
                                 },
                                 {
                                     "id":  "interpretacao-texto-60",
@@ -25634,19 +25648,19 @@ window.QUESTION_BANKS = {
                                 },
                                 {
                                     "id":  "interpretacao-texto-83",
-                                    "texto_apoio":  "Rampas de acesso malposicionadas, calçadas estreitas e semáforos sem sinal sonoro continuam sendo obstáculos cotidianos para pessoas com deficiência em muitas cidades brasileiras. Defendo que investimentos em acessibilidade urbana não devem ser tratados como benefício especial para um grupo específico, mas como infraestrutura básica que beneficia também idosos, gestantes e pessoas com mobilidade temporariamente reduzida.",
-                                    "enunciado":  "Qual é a tese central defendida pelo autor do texto?",
+                                    "banca":  "fgv",
+                                    "formato":  "direta",
+                                    "texto_apoio":  "Numa reportagem sobre uma greve de professores, aparece a frase: \"Depois de três semanas de negociação, o governo finalmente abriu a mão.\"",
+                                    "enunciado":  "No contexto, a expressão destacada foi empregada",
                                     "alternativas":  {
-                                                         "a":  "A acessibilidade urbana deve ser garantida por meio de campanhas de conscientização, mais do que por obras.",
-                                                         "b":  "As cidades brasileiras já resolveram completamente os problemas de acessibilidade urbana aqui descritos.",
-                                                         "c":  "A acessibilidade urbana deve ser vista como infraestrutura básica de interesse coletivo, e não como benefício exclusivo de um grupo.",
-                                                         "d":  "Somente pessoas com deficiência permanente deveriam ser efetivamente beneficiadas por investimentos em acessibilidade urbana e mobilidade.",
-                                                         "e":  "Investimentos em acessibilidade urbana deveriam ser interrompidos por falta de utilidade prática real."
+                                                         "a":  "em sentido literal, indicando o gesto físico realizado por um representante do governo.",
+                                                         "b":  "em sentido literal, descrevendo a assinatura do acordo pela autoridade competente.",
+                                                         "c":  "em sentido figurado, indicando que o governo cedeu na negociação.",
+                                                         "d":  "em sentido figurado, indicando que o governo passou a distribuir recursos com generosidade.",
+                                                         "e":  "em sentido figurado, indicando que o governo perdeu o controle sobre o processo."
                                                      },
                                     "resposta":  "c",
-                                    "explicacao":  "O autor argumenta explicitamente contra a ideia de \u0027benefício especial para um grupo específico\u0027, defendendo que a acessibilidade deve ser encarada como infraestrutura de interesse coletivo, que beneficia também idosos e gestantes.",
-                                    "dificuldade":  "media",
-                                    "formato":  "direta"
+                                    "explicacao":  "Abrir a mão, no contexto de uma negociação que se arrasta, significa deixar de resistir e ceder — o sentido não é o do gesto, e sim o construído pelo uso. As duas leituras literais tomam a expressão pelo movimento físico ou pela assinatura, o que a frase não sustenta. Entre as figuradas, distribuir recursos com generosidade confunde abrir a mão com ser mão-aberta, expressão diferente; e perder o controle não corresponde a ceder num acordo, que é ato deliberado."
                                 },
                                 {
                                     "id":  "interpretacao-texto-84",
@@ -25986,19 +26000,19 @@ window.QUESTION_BANKS = {
                                 },
                                 {
                                     "id":  "interpretacao-texto-105",
-                                    "texto_apoio":  "Traduzir poesia, dizem alguns teóricos, é uma tarefa impossível por definição: o som, o ritmo e a ambiguidade de uma palavra na língua original raramente encontram equivalente exato em outro idioma. Ainda assim, tradutores continuam produzindo versões de grandes poemas, não porque tenham resolvido essa impossibilidade, mas porque decidiram que uma tradução imperfeita, que recria parte do efeito original, vale mais do que o silêncio de não traduzir.",
+                                    "banca":  "fgv",
                                     "formato":  "direta",
-                                    "dificuldade":  "dificil",
-                                    "enunciado":  "Qual é a ideia central defendida pelo texto sobre a tradução de poesia?",
+                                    "texto_apoio":  "Um manual de instalação traz a seguinte advertência: \"Antes de perfurar, verifique se não há fiação embutida na parede. Um choque elétrico pode ser fatal.\"\n\nUm texto de opinião publicado no mesmo mês afirma: \"A reforma tributária mexeu na fiação da federação, e ninguém sabe onde estão os fios.\"",
+                                    "enunciado":  "Comparando as duas ocorrências da palavra fiação, é correto afirmar que",
                                     "alternativas":  {
-                                                         "a":  "apesar da impossibilidade teórica, prefere-se a versão imperfeita ao silêncio",
-                                                         "b":  "a tradução de poesia só se justifica quando o próprio tradutor é poeta reconhecido",
-                                                         "c":  "a tradução de poesia é plenamente possível, sem perda diante do original",
-                                                         "d":  "o ritmo e o som do poema não são considerados no processo de tradução",
-                                                         "e":  "os tradutores abandonaram a prática diante das dificuldades apontadas"
+                                                         "a":  "a primeira é literal e a segunda é figurada, aplicada à estrutura de repartição de receitas.",
+                                                         "b":  "as duas são literais, uma vez que ambas remetem a instalações elétricas concretas.",
+                                                         "c":  "as duas são figuradas, pois a palavra designa um objeto ausente em ambos os contextos.",
+                                                         "d":  "a primeira é figurada e a segunda é literal, já que a reforma envolve documentos físicos.",
+                                                         "e":  "a distinção não se aplica, porque a palavra tem um único sentido registrado em dicionário."
                                                      },
                                     "resposta":  "a",
-                                    "explicacao":  "O texto concede a premissa dos teóricos e recusa a conclusão: a equivalência exata é mesmo impossível, e ainda assim traduzir compensa, porque o parcial vale mais que o nada. A decisão é prática, não uma refutação. Em (c) está a negação da premissa que o texto aceita. Em (e), a conclusão oposta à que ele defende, já que os tradutores continuam. Em (d), som e ritmo são citados como o que se perde, o que os torna centrais. Em (b), a condição de poeta não aparece no texto."
+                                    "explicacao":  "No manual, fiação designa o conjunto de fios elétricos dentro da parede — o objeto mesmo. No texto de opinião, ela nomeia a rede de vínculos e repasses entre os entes da federação, que não é feita de fios: o sentido é construído por transferência. Dizer que as duas são literais ignora que uma federação não tem cabos; dizer que as duas são figuradas desconsidera o manual, cujo objeto é físico; a inversão troca os dois casos; e a existência de um sentido dicionarizado não impede o uso figurado, que é justamente o que se apoia nele."
                                 },
                                 {
                                     "id":  "interpretacao-texto-106",
@@ -26098,19 +26112,19 @@ window.QUESTION_BANKS = {
                                 },
                                 {
                                     "id":  "interpretacao-texto-112",
-                                    "texto_apoio":  "Trocar o carro por transporte público em pelo menos dois dias da semana, escolher produtos com menos embalagem e reduzir o desperdício de alimentos são hábitos que, individualmente, parecem pouco significativos diante da escala dos problemas ambientais globais. Ainda assim, pesquisadores em comportamento defendem que a adoção generalizada desses pequenos hábitos, somada à pressão que consumidores mais conscientes exercem sobre empresas, pode produzir efeito cumulativo relevante ao longo do tempo.",
+                                    "banca":  "fgv",
                                     "formato":  "direta",
-                                    "dificuldade":  "media",
-                                    "enunciado":  "Qual é a ideia central defendida pelo texto sobre hábitos individuais de consumo consciente?",
+                                    "texto_apoio":  "\"O escândalo caiu como uma bomba no meio da campanha. Nos dias seguintes, os candidatos se recolheram, os aliados sumiram do mapa e o partido tratou de apagar o incêndio antes que a coisa se espalhasse.\"",
+                                    "enunciado":  "As expressões destacadas no trecho funcionam de maneira",
                                     "alternativas":  {
-                                                         "a":  "hábitos individuais são irrelevantes diante da escala do problema",
-                                                         "b":  "a pressão de consumidores sobre empresas nunca produziu resultado",
-                                                         "c":  "apenas as grandes empresas têm responsabilidade real sobre a questão ambiental",
-                                                         "d":  "apesar de pequenos, os hábitos podem gerar efeito cumulativo relevante",
-                                                         "e":  "hábitos só produzem efeito com mudança na legislação tributária"
+                                                         "a":  "literal, uma vez que descrevem eventos físicos ocorridos durante o período da campanha.",
+                                                         "b":  "literal no caso da bomba e figurada nas demais, que dependem de contexto político.",
+                                                         "c":  "figurada apenas na última, sendo as anteriores registros objetivos dos acontecimentos.",
+                                                         "d":  "figurada em todas, e retiradas de dois campos, o da explosão e o do desaparecimento.",
+                                                         "e":  "ambígua, porque o trecho não fornece elementos que permitam decidir entre os dois sentidos."
                                                      },
                                     "resposta":  "d",
-                                    "explicacao":  "O texto concede a objeção e depois a supera: isoladamente cada gesto é pequeno, mas a adoção em massa somada à pressão sobre as empresas acumula efeito — o ainda assim marca a virada. Em (a) está a metade concedida tomada como conclusão, que é o erro de leitura mais frequente em textos de concessão. Em (c), a responsabilidade das empresas aparece via pressão do consumidor, não como responsabilidade exclusiva delas. Em (b), a pressão é apresentada como parte da solução. Em (e), a legislação tributária não é mencionada."
+                                    "explicacao":  "Cair como uma bomba, sumir do mapa, apagar o incêndio e a coisa se espalhar não descrevem explosão, cartografia nem fogo: todas transferem para a crise política imagens de destruição súbita e de desaparecimento. Ler qualquer uma delas como literal exigiria que houvesse artefato, mapa ou chamas na campanha; e a hipótese da ambiguidade não se sustenta, porque o contexto político decide o sentido sem margem para dúvida."
                                 },
                                 {
                                     "id":  "interpretacao-texto-113",
@@ -26194,19 +26208,19 @@ window.QUESTION_BANKS = {
                                 },
                                 {
                                     "id":  "interpretacao-texto-118",
-                                    "texto_apoio":  "A literatura de cordel, tradicionalmente impressa em folhetos ilustrados com xilogravuras e vendida em feiras do Nordeste, hoje também circula em formato digital, compartilhada em redes sociais por cordelistas que mantêm a métrica e a rima tradicionais, mas tratam de temas contemporâneos, como eleições, redes sociais e crises climáticas.",
-                                    "enunciado":  "Qual é a ideia central expressa no texto sobre a literatura de cordel atual?",
+                                    "banca":  "fgv",
+                                    "formato":  "direta",
+                                    "texto_apoio":  "\"Ele arrumou a gravata diante do espelho. Aquela reunião ia decidir tudo, e ele não estava preparado, não estava nem um pouco preparado, que ideia mais absurda aceitar a data com tão pouca antecedência. Pegou a pasta e saiu.\"",
+                                    "enunciado":  "No trecho, a passagem entre \"Aquela reunião\" e \"tão pouca antecedência\" caracteriza-se como",
                                     "alternativas":  {
-                                                         "a":  "O cordel é um gênero que trata exclusivamente de temas históricos e nunca aborda assuntos mais atuais.",
-                                                         "b":  "Os cordelistas contemporâneos abandonaram totalmente a métrica e a rima características do gênero.",
-                                                         "c":  "A literatura de cordel deixou completamente de circular em formato impresso nas feiras nordestinas.",
-                                                         "d":  "O cordel contemporâneo abandonou o suporte impresso e passou a circular apenas em áudio.",
-                                                         "e":  "A tradição do cordel se mantém em sua forma (métrica e rima), mas se atualiza tanto no suporte quanto nos temas abordados."
+                                                         "a":  "discurso direto, com a fala da personagem introduzida sem verbo de dizer nem travessão.",
+                                                         "b":  "discurso indireto, com o narrador reformulando em terceira pessoa aquilo que a personagem declarou em voz alta.",
+                                                         "c":  "discurso citado, com reprodução literal de um enunciado anterior da personagem.",
+                                                         "d":  "narração objetiva, restrita ao registro externo das ações praticadas pela personagem.",
+                                                         "e":  "discurso indireto livre, com o pensamento da personagem incorporado à voz do narrador."
                                                      },
                                     "resposta":  "e",
-                                    "explicacao":  "O texto mostra uma continuidade formal (métrica e rima tradicionais) associada a uma renovação de suporte (formato digital) e de temas (eleições, redes sociais, crises climáticas), sem afirmar o abandono do formato impresso original.",
-                                    "dificuldade":  "media",
-                                    "formato":  "direta"
+                                    "explicacao":  "O trecho mantém a terceira pessoa do narrador, mas adota a avaliação e o ritmo da personagem — a repetição impaciente e a exclamação sobre a ideia absurda pertencem a quem pensa, não a quem narra —, e não há aspas, travessão nem verbo de dizer. O discurso direto exigiria a fala destacada; o indireto exigiria verbo introdutor e subordinação; a reprodução literal de enunciado anterior não ocorre; e a narração objetiva é justamente o que o trecho abandona ao entrar no pensamento."
                                 },
                                 {
                                     "id":  "interpretacao-texto-119",
@@ -26354,19 +26368,19 @@ window.QUESTION_BANKS = {
                                 },
                                 {
                                     "id":  "interpretacao-texto-128",
-                                    "texto_apoio":  "Bibliotecas móveis, montadas em ônibus adaptados, têm levado acervos gratuitos a bairros distantes de centros culturais tradicionais. Para muitos moradores dessas regiões, esse ônibus é o único acesso regular a livros fora do ambiente escolar, o que reforça o argumento de que democratizar cultura exige, muitas vezes, levar a oferta até onde as pessoas já estão, e não apenas esperar que elas cheguem até ela.",
+                                    "banca":  "fgv",
                                     "formato":  "direta",
-                                    "dificuldade":  "media",
-                                    "enunciado":  "Qual é a tese central defendida pelo texto?",
+                                    "texto_apoio":  "Considere a frase em discurso direto:\n\n— Amanhã eu resolvo isso aqui — disse o gerente.",
+                                    "enunciado":  "A transposição correta dessa frase para o discurso indireto é",
                                     "alternativas":  {
-                                                         "a":  "o acesso a livros depende menos da distância que do hábito familiar de leitura",
-                                                         "b":  "as bibliotecas móveis deveriam substituir as fixas em todas as cidades",
-                                                         "c":  "as bibliotecas móveis não afetam o acesso à leitura nos bairros atendidos",
-                                                         "d":  "democratizar cultura exige levar a oferta até onde as pessoas já estão",
-                                                         "e":  "o acesso a livros fora da escola não é relevante para esses moradores"
+                                                         "a":  "O gerente disse que amanhã eu resolvo isso aqui.",
+                                                         "b":  "O gerente disse: que no dia seguinte resolveria aquilo ali.",
+                                                         "c":  "O gerente disse que amanhã ele resolveria isso aqui.",
+                                                         "d":  "O gerente disse que no dia seguinte resolveria aquilo ali.",
+                                                         "e":  "O gerente disse para resolver aquilo ali no dia seguinte."
                                                      },
                                     "resposta":  "d",
-                                    "explicacao":  "A tese está enunciada no fecho, e o ônibus é o exemplo que a sustenta: política cultural que espera o público aparecer atende quem já estava perto. Em (a) está a tese rival mais forte, e ela é defensável em outros contextos — só que desloca a explicação da oferta para a família, exatamente o oposto do que este texto argumenta. Em (b), o texto não propõe substituir as bibliotecas fixas. Em (c) e (e), negar o impacto ou a relevância do acesso contraria a premissa de que esse ônibus é, para muitos, a única porta de entrada."
+                                    "explicacao":  "A transposição exige três ajustes simultâneos: a pessoa passa de eu para ele, implícito na desinência; o tempo passa do presente resolvo ao futuro do pretérito resolveria; e os dêiticos amanhã e aqui, que dependem do momento da fala, passam a no dia seguinte e ali. A opção que conserva amanhã e aqui faz apenas o ajuste de pessoa; a que mantém eu não faz nem esse; a que usa dois-pontos mistura a pontuação do discurso direto; e a última converte a declaração em ordem, mudando o sentido."
                                 },
                                 {
                                     "id":  "interpretacao-texto-129",
@@ -26626,19 +26640,19 @@ window.QUESTION_BANKS = {
                                 },
                                 {
                                     "id":  "interpretacao-texto-145",
-                                    "texto_apoio":  "O que começou como brincadeira em calçadas e estacionamentos vazios se transformou, em poucas décadas, em esporte olímpico, com federações, competições internacionais e patrocínios milionários. Ainda assim, muitos praticantes de skate resistem a certas formalizações do esporte, defendendo que parte de sua essência está justamente na apropriação criativa e não regulamentada dos espaços urbanos.",
-                                    "enunciado":  "Qual é a ideia central do texto sobre a trajetória do skate como esporte?",
+                                    "banca":  "fgv",
+                                    "formato":  "direta",
+                                    "texto_apoio":  "Quatro trechos de um mesmo conto:\n\nI. — Não vou voltar lá — disse ela, sem olhar para trás.\nII. Ela disse que não voltaria àquele lugar.\nIII. Não voltaria. Nunca mais, custasse o que custasse, ela não punha os pés naquela casa.\nIV. Ela caminhou até o portão, girou a chave e desceu a rua.",
+                                    "enunciado":  "O trecho em que ocorre discurso indireto livre é",
                                     "alternativas":  {
-                                                         "a":  "Apesar da institucionalização crescente do skate, parte de sua identidade permanece ligada à apropriação livre dos espaços urbanos.",
-                                                         "b":  "O skate é considerado, pelo texto, um esporte incompatível com qualquer forma de competição organizada.",
-                                                         "c":  "A institucionalização do skate ampliou o acesso à prática e dissolveu as antigas divergências entre praticantes.",
-                                                         "d":  "O skate deixou de ser praticado em espaços urbanos informais desde que se tornou esporte olímpico oficial.",
-                                                         "e":  "Federações esportivas de skate nunca existiram, sendo o esporte praticado apenas de forma informal."
+                                                         "a":  "o III, em que o pensamento da personagem é assumido pela voz do narrador.",
+                                                         "b":  "o I, em que a fala da personagem aparece marcada por travessão.",
+                                                         "c":  "o II, em que a fala é reformulada pelo narrador com verbo introdutor.",
+                                                         "d":  "o IV, em que o narrador registra apenas as ações externas da personagem.",
+                                                         "e":  "nenhum, porque o discurso indireto livre exige narração em primeira pessoa."
                                                      },
                                     "resposta":  "a",
-                                    "explicacao":  "O texto mostra a convivência entre a institucionalização do skate (federações, olimpíadas, patrocínios) e a resistência de parte dos praticantes, que valorizam a apropriação criativa dos espaços urbanos, evidenciando uma tensão entre os dois aspectos, não a extinção de um deles.",
-                                    "dificuldade":  "media",
-                                    "formato":  "direta"
+                                    "explicacao":  "Em III o narrador permanece na terceira pessoa, mas incorpora a decisão e a ênfase da personagem — o custasse o que custasse é dela, não dele — sem verbo de dizer, travessão ou aspas: é a definição do indireto livre. O trecho I é discurso direto, marcado por travessão; o II é indireto, com verbo introdutor e subordinação; o IV é narração de ações; e a exigência de primeira pessoa está errada, porque o procedimento se define justamente por ocorrer dentro da narração em terceira."
                                 },
                                 {
                                     "id":  "interpretacao-texto-146",

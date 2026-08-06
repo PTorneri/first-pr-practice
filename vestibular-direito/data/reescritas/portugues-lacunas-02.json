@@ -1,0 +1,186 @@
+{
+  "_comentario": [
+    "Segunda parte das lacunas de Lingua Portuguesa, agora na frente de gramatica:",
+    "fonetica e fonologia (item 1 do programa, com 2 questoes), estrutura e formacao",
+    "das palavras (item 3, com 3) e colocacao pronominal (item 9, com 3).",
+    "",
+    "O QUE SAIU. Dez questoes de concordancia e regencia, os dois temas mais",
+    "concentrados da frente -- 37 e 30 questoes respectivamente, de 150. Tres delas",
+    "(23, 31 e 37) tinham o enunciado IDENTICO, palavra por palavra: 'Sobre a",
+    "concordancia verbal na frase, e correto afirmar que'. Depois da troca ficam 32",
+    "de concordancia e 25 de regencia, que segue sendo cobertura folgada.",
+    "",
+    "CHUTABILIDADE. gramatica esta em 22,7%, com 172 alternativas de linguagem",
+    "categorica e 57 autorrefutadas. Estas dez nao usam nenhuma das duas coisas:",
+    "sem sempre, nunca, todo ou qualquer, e sem distrator que se desminta na propria",
+    "frase. Os distratores erram por conteudo -- nomeiam o processo de formacao",
+    "vizinho, a posicao pronominal errada, a classificacao trocada -- e em cada",
+    "questao o distrator mais plausivel foi escrito mais longo que a alternativa",
+    "certa.",
+    "",
+    "Gabaritos: cada id conserva a letra que ja tinha."
+  ],
+  "subtopic": "gramatica",
+  "questoes": [
+    {
+      "id": "gramatica-01",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "Letra e fonema são unidades de naturezas distintas: a letra pertence à escrita, e o fonema é a menor unidade sonora capaz de distinguir palavras. Num dígrafo, duas letras representam um único fonema.",
+      "enunciado": "Considerando essa distinção, a palavra CHUVA apresenta",
+      "alternativas": {
+        "a": "5 letras e 5 fonemas.",
+        "b": "4 letras e 5 fonemas.",
+        "c": "5 letras e 4 fonemas.",
+        "d": "5 letras e 3 fonemas.",
+        "e": "4 letras e 4 fonemas, já que o dígrafo inicial é contado como uma unidade nos dois planos."
+      },
+      "resposta": "c",
+      "explicacao": "A escrita traz c-h-u-v-a, cinco letras. No plano sonoro, ch representa um único fonema, e a palavra soa em quatro: o do dígrafo, mais u, v e a. A contagem de cinco fonemas trataria ch como dois sons; a de três suprimiria um som existente; e as opções com quatro letras confundem os dois planos, reduzindo a contagem gráfica por causa do dígrafo, que é fenômeno do som e não da escrita."
+    },
+    {
+      "id": "gramatica-05",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "Chamam-se encontros vocálicos as sequências de vogais e semivogais numa palavra. No ditongo, vogal e semivogal ficam na mesma sílaba; no tritongo, semivogal, vogal e semivogal na mesma sílaba; no hiato, duas vogais em sílabas separadas.",
+      "enunciado": "A palavra em que ocorre HIATO é",
+      "alternativas": {
+        "a": "pai.",
+        "b": "quais.",
+        "c": "saída.",
+        "d": "mãe.",
+        "e": "água, em que as três vogais finais pertencem a uma única sílaba tônica."
+      },
+      "resposta": "c",
+      "explicacao": "Em sa-í-da as vogais a e i ficam em sílabas diferentes, o que caracteriza o hiato — e o acento na letra i existe justamente para marcar essa separação. Em pai e mãe há ditongo, com vogal e semivogal na mesma sílaba, o segundo nasal; em quais há tritongo; e em á-gua o encontro final é ditongo crescente na segunda sílaba, que além disso não é a tônica."
+    },
+    {
+      "id": "gramatica-23",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "Dígrafo é o grupo de duas letras que representa um só fonema. Além dos casos com h (ch, lh, nh), incluem-se rr, ss, sc, sç, xc, qu e gu antes de e ou i, e as vogais seguidas de m ou n na mesma sílaba, que indicam nasalização.",
+      "enunciado": "A palavra em que NÃO há dígrafo é",
+      "alternativas": {
+        "a": "carro.",
+        "b": "nascer.",
+        "c": "campo.",
+        "d": "sábado.",
+        "e": "filha, cujo grupo consonantal representa dois fonemas distintos na pronúncia."
+      },
+      "resposta": "d",
+      "explicacao": "Em sá-ba-do cada letra corresponde a um fonema, e não há grupo de duas letras representando um só som. Em carro há rr; em nascer há sc; em campo o grupo am indica nasalização da vogal, caso previsto na definição do texto; e em filha há lh, que representa um único fonema — a alternativa que afirma dois fonemas ali contraria a própria noção de dígrafo."
+    },
+    {
+      "id": "gramatica-31",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "Quanto à posição da sílaba tônica, a palavra é oxítona quando a tônica é a última, paroxítona quando é a penúltima e proparoxítona quando é a antepenúltima.",
+      "enunciado": "As palavras ÁRVORE, CARÁTER e URUBU classificam-se, respectivamente, como",
+      "alternativas": {
+        "a": "paroxítona, oxítona e proparoxítona.",
+        "b": "proparoxítona, oxítona e paroxítona.",
+        "c": "proparoxítona, paroxítona e oxítona.",
+        "d": "oxítona, paroxítona e proparoxítona.",
+        "e": "paroxítona, proparoxítona e oxítona, seguindo a ordem em que aparecem no enunciado."
+      },
+      "resposta": "c",
+      "explicacao": "Em ÁR-vo-re a tônica é a antepenúltima, logo proparoxítona; em ca-RÁ-ter é a penúltima, logo paroxítona; em u-ru-BU é a última, logo oxítona. Note que o acento gráfico não decide a classificação: caráter é acentuada e paroxítona, enquanto urubu não leva acento e é oxítona. As demais ordens trocam entre si as três classificações."
+    },
+    {
+      "id": "gramatica-37",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "Na derivação, acrescentam-se afixos a um radical: o prefixo vem antes, o sufixo depois. Quando os dois processos ocorrem na mesma palavra e a retirada de um deles ainda deixa palavra existente na língua, fala-se em derivação prefixal e sufixal.",
+      "enunciado": "Na palavra INFELIZMENTE, identificam-se",
+      "alternativas": {
+        "a": "um prefixo, um radical e um sufixo, em derivação prefixal e sufixal.",
+        "b": "dois radicais, em composição por justaposição.",
+        "c": "apenas um sufixo acrescentado diretamente ao radical.",
+        "d": "um radical e uma desinência indicadora de grau.",
+        "e": "dois prefixos acrescentados a um mesmo radical, sem participação de sufixo no processo."
+      },
+      "resposta": "a",
+      "explicacao": "A palavra se decompõe em in- (prefixo), feliz (radical) e -mente (sufixo), e tanto infeliz quanto felizmente existem na língua — o que confirma a derivação prefixal e sufixal descrita no texto. Não há dois radicais, o que excluiria a composição; considerar apenas o sufixo ignoraria o in-; -mente é sufixo formador de advérbio, e não desinência de grau; e in- é o único prefixo presente."
+    },
+    {
+      "id": "gramatica-09",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "Na composição, unem-se dois ou mais radicais. Ela é por justaposição quando os radicais se mantêm inteiros, sem perda de elementos, e por aglutinação quando há perda de fonemas na junção, com fusão dos radicais numa forma única.",
+      "enunciado": "As palavras PASSATEMPO e PLANALTO formam-se, respectivamente, por",
+      "alternativas": {
+        "a": "derivação prefixal e derivação sufixal.",
+        "b": "derivação sufixal nas duas.",
+        "c": "composição por aglutinação nas duas.",
+        "d": "composição por justaposição nas duas, uma vez que em ambas os radicais permanecem íntegros.",
+        "e": "composição por justaposição e composição por aglutinação."
+      },
+      "resposta": "e",
+      "explicacao": "Em passatempo os radicais passa e tempo aparecem inteiros, o que caracteriza a justaposição. Em planalto houve perda na junção de plano e alto, que se fundiram numa forma única, o que caracteriza a aglutinação. Tratar as duas como justaposição ignora essa perda, e é o distrator mais forte; tratá-las como aglutinação desconsidera a integridade dos radicais na primeira; e as opções por derivação não se aplicam, porque não há afixo em jogo, e sim dois radicais."
+    },
+    {
+      "id": "gramatica-16",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "Fala-se em derivação imprópria, ou conversão, quando uma palavra passa a pertencer a outra classe gramatical sem que sua forma sofra alteração. É o que ocorre com infinitivos empregados como substantivos.",
+      "enunciado": "Na frase \"O jantar estava frio\", a palavra JANTAR é",
+      "alternativas": {
+        "a": "verbo no infinitivo, atuando como núcleo do predicado da oração.",
+        "b": "substantivo formado por derivação sufixal a partir de um adjetivo.",
+        "c": "verbo substantivado por derivação regressiva, processo em que a palavra nova resulta da supressão da terminação verbal.",
+        "d": "substantivo resultante de derivação imprópria, com mudança de classe sem alteração de forma.",
+        "e": "substantivo formado por composição de dois radicais distintos."
+      },
+      "resposta": "d",
+      "explicacao": "A forma jantar é idêntica à do infinitivo, mas na frase vem precedida de artigo e funciona como sujeito — mudou de classe sem mudar de forma, que é a definição de derivação imprópria dada no texto. O núcleo do predicado é estava; não há sufixo acrescentado, o que afasta a derivação sufixal; a derivação regressiva exigiria supressão de terminação, como em pescar e pesca, e aqui nada foi suprimido — é o distrator mais forte; e não há dois radicais."
+    },
+    {
+      "id": "gramatica-27",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "Chamam-se palavras atrativas as que puxam o pronome oblíquo átono para antes do verbo, em próclise: advérbios de negação, pronomes relativos, pronomes indefinidos, conjunções subordinativas e advérbios sem vírgula depois.",
+      "enunciado": "Na frase \"Não ___ disse nada sobre o assunto\", a norma culta recomenda",
+      "alternativas": {
+        "a": "ênclise, por não haver, antes da forma verbal, elemento capaz de atrair o pronome oblíquo.",
+        "b": "mesóclise, por estar o verbo no futuro do presente.",
+        "c": "ênclise, posição preferida no início de período.",
+        "d": "indiferença entre as três posições, aceitas de igual modo pela norma.",
+        "e": "próclise, atraída pelo advérbio de negação."
+      },
+      "resposta": "e",
+      "explicacao": "O advérbio não figura entre as palavras atrativas listadas no texto, e por isso o pronome vem antes do verbo: não me disse nada. A ênclise seria a posição esperada se o verbo abrisse a oração sem nada antes, o que não ocorre aqui — é o distrator mais forte do item; a mesóclise pressupõe futuro do presente ou do pretérito, e disse é pretérito perfeito; e a norma culta estabelece regra para o caso, o que afasta a indiferença entre posições."
+    },
+    {
+      "id": "gramatica-39",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "A mesóclise coloca o pronome oblíquo átono no interior da forma verbal, entre o radical e a desinência. Ela é admitida com verbos no futuro do presente ou no futuro do pretérito, quando não há palavra atrativa antes do verbo.",
+      "enunciado": "Na frase \"Entregar-lhe-ei o relatório amanhã\", o pronome encontra-se em",
+      "alternativas": {
+        "a": "próclise, posição de uso mais frequente na variedade brasileira falada.",
+        "b": "ênclise, ligada ao final da forma verbal composta.",
+        "c": "mesóclise, admitida com o verbo no futuro do presente e sem palavra atrativa antes dele.",
+        "d": "posição livre, dado que a norma culta não estabelece regra de colocação para verbos no futuro.",
+        "e": "próclise obrigatória, por se tratar de oração principal."
+      },
+      "resposta": "c",
+      "explicacao": "A forma entregarei foi partida ao meio para acolher o pronome — entregar-lhe-ei —, e é isso que define a mesóclise, cabível porque o verbo está no futuro do presente e nada antes dele atrai o pronome. Próclise poria o pronome antes de toda a forma verbal, e ênclise depois dela; a frase não tem verbo composto; e a norma culta regula justamente esse caso, o que afasta a ideia de posição livre."
+    },
+    {
+      "id": "gramatica-47",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "Nas locuções verbais com particípio, a norma culta não admite a ênclise ao particípio. O pronome oblíquo átono coloca-se antes do verbo auxiliar ou depois dele, conforme haja ou não palavra atrativa.",
+      "enunciado": "Na frase \"Tinha ___ avisado a tempo\", a norma culta admite",
+      "alternativas": {
+        "a": "a ênclise ao particípio, forma preferida na escrita formal contemporânea.",
+        "b": "a mesóclise, com o pronome inserido no interior do particípio.",
+        "c": "somente a ênclise ao verbo auxiliar, ficando vedadas as demais posições do pronome oblíquo átono.",
+        "d": "posição indiferente, dado que o particípio dispensa regra de colocação pronominal.",
+        "e": "a próclise ou a ênclise em relação ao auxiliar, vedada a ênclise ao particípio."
+      },
+      "resposta": "e",
+      "explicacao": "Cabem tinha me avisado e tinha-me avisado, ambas ligando o pronome ao auxiliar, e fica excluída a forma avisado-me, porque a ênclise ao particípio não é admitida — é exatamente a restrição enunciada no texto. Reduzir as possibilidades a uma só posição elimina uma construção correta, e é o distrator mais forte; a mesóclise não incide sobre particípio; e existe regra para o caso, o que afasta a indiferença."
+    }
+  ]
+}

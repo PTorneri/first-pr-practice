@@ -3,18 +3,19 @@
     "questoes":  [
                      {
                          "id":  "gramatica-01",
-                         "texto_apoio":  "\"Fazem dois anos que o novo prédio da faculdade foi inaugurado.\"",
-                         "enunciado":  "A frase apresenta um desvio de concordância verbal. Assinale a alternativa que a corrige adequadamente.",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Letra e fonema são unidades de naturezas distintas: a letra pertence à escrita, e o fonema é a menor unidade sonora capaz de distinguir palavras. Num dígrafo, duas letras representam um único fonema.",
+                         "enunciado":  "Considerando essa distinção, a palavra CHUVA apresenta",
                          "alternativas":  {
-                                              "a":  "Fazem dois anos que o novo prédio da faculdade foi inaugurado.",
-                                              "b":  "Fazem-se dois anos que o novo prédio da faculdade foi inaugurado.",
-                                              "c":  "Faz dois anos que o novo prédio da faculdade foi inaugurado.",
-                                              "d":  "Fazem dois ano que o novo prédio da faculdade foi inaugurado.",
-                                              "e":  "Fez dois anos que o novo prédio da faculdade foram inaugurado."
+                                              "a":  "5 letras e 5 fonemas.",
+                                              "b":  "4 letras e 5 fonemas.",
+                                              "c":  "5 letras e 4 fonemas.",
+                                              "d":  "5 letras e 3 fonemas.",
+                                              "e":  "4 letras e 4 fonemas, já que o dígrafo inicial é contado como uma unidade nos dois planos."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O verbo \u0027fazer\u0027 indicando tempo decorrido é impessoal e deve ficar sempre na terceira pessoa do singular: \u0027Faz dois anos\u0027. As demais alternativas mantêm o erro ou criam novos desvios.",
-                         "formato":  "direta"
+                         "explicacao":  "A escrita traz c-h-u-v-a, cinco letras. No plano sonoro, ch representa um único fonema, e a palavra soa em quatro: o do dígrafo, mais u, v e a. A contagem de cinco fonemas trataria ch como dois sons; a de três suprimiria um som existente; e as opções com quatro letras confundem os dois planos, reduzindo a contagem gráfica por causa do dígrafo, que é fenômeno do som e não da escrita."
                      },
                      {
                          "id":  "gramatica-02",
@@ -63,18 +64,19 @@
                      },
                      {
                          "id":  "gramatica-05",
-                         "texto_apoio":  "\"O diretor, junto com os professores foi cobrado por resultados melhores no próximo semestre e também não houveram reclamações sobre o novo calendário.\"",
-                         "enunciado":  "Assinale a alternativa que identifica corretamente o desvio de concordância verbal presente na frase.",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Chamam-se encontros vocálicos as sequências de vogais e semivogais numa palavra. No ditongo, vogal e semivogal ficam na mesma sílaba; no tritongo, semivogal, vogal e semivogal na mesma sílaba; no hiato, duas vogais em sílabas separadas.",
+                         "enunciado":  "A palavra em que ocorre HIATO é",
                          "alternativas":  {
-                                              "a":  "O verbo \u0027foi\u0027 deveria concordar no plural, pois há dois sujeitos coordenados, unidos indevidamente pela expressão \u0027junto com\u0027 nessa leitura da frase.",
-                                              "b":  "O desvio está em \u0027houveram\u0027, que deveria ser substituído por \u0027tiveram\u0027, única forma admitida no sentido de existir.",
-                                              "c":  "O verbo \u0027houveram\u0027, empregado no sentido de \u0027existir\u0027, deveria permanecer na forma impessoal \u0027houve\u0027, já que verbos impessoais nunca flexionam em número.",
-                                              "d":  "O verbo \u0027cobrado\u0027 deveria estar no plural para concordar com \u0027professores\u0027, considerando \u0027junto com\u0027 como parte do sujeito composto.",
-                                              "e":  "Não há nenhum desvio de concordância na frase, pois todos os verbos concordam corretamente com seus respectivos sujeitos."
+                                              "a":  "pai.",
+                                              "b":  "quais.",
+                                              "c":  "saída.",
+                                              "d":  "mãe.",
+                                              "e":  "água, em que as três vogais finais pertencem a uma única sílaba tônica."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O verbo \u0027haver\u0027 no sentido de \u0027existir\u0027 é impessoal e não admite flexão de número; o correto é \u0027não houve reclamações\u0027. O sujeito de \u0027foi cobrado\u0027 é apenas \u0027o diretor\u0027, já que \u0027junto com os professores\u0027 é adjunto adverbial, mantendo a concordância no singular corretamente.",
-                         "formato":  "direta"
+                         "explicacao":  "Em sa-í-da as vogais a e i ficam em sílabas diferentes, o que caracteriza o hiato — e o acento na letra i existe justamente para marcar essa separação. Em pai e mãe há ditongo, com vogal e semivogal na mesma sílaba, o segundo nasal; em quais há tritongo; e em á-gua o encontro final é ditongo crescente na segunda sílaba, que além disso não é a tônica."
                      },
                      {
                          "id":  "gramatica-06",
@@ -123,18 +125,19 @@
                      },
                      {
                          "id":  "gramatica-09",
-                         "texto_apoio":  "\"Prefiro estudar de manhã do que estudar à noite.\"",
-                         "enunciado":  "Sobre a regência do verbo \u0027preferir\u0027 na frase, é correto afirmar que",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Na composição, unem-se dois ou mais radicais. Ela é por justaposição quando os radicais se mantêm inteiros, sem perda de elementos, e por aglutinação quando há perda de fonemas na junção, com fusão dos radicais numa forma única.",
+                         "enunciado":  "As palavras PASSATEMPO e PLANALTO formam-se, respectivamente, por",
                          "alternativas":  {
-                                              "a":  "está incorreta; a norma culta exige \u0027preferir mais... do que\u0027, com o advérbio de intensidade explícito.",
-                                              "b":  "está incorreta porque falta a preposição \u0027para\u0027 antes de \u0027estudar\u0027, complemento que o verbo \u0027preferir\u0027 exigiria nessa construção.",
-                                              "c":  "está correta apenas em textos informais, mas também na norma culta, que aceita ambas as regências como plenamente equivalentes.",
-                                              "d":  "está correta, pois \u0027preferir\u0027 sempre exige a estrutura \u0027do que\u0027, regência amplamente aceita em qualquer registro da língua.",
-                                              "e":  "está incorreta; a norma culta recomenda a estrutura \u0027preferir algo a algo\u0027, sem o uso da locução comparativa \u0027do que\u0027."
+                                              "a":  "derivação prefixal e derivação sufixal.",
+                                              "b":  "derivação sufixal nas duas.",
+                                              "c":  "composição por aglutinação nas duas.",
+                                              "d":  "composição por justaposição nas duas, uma vez que em ambas os radicais permanecem íntegros.",
+                                              "e":  "composição por justaposição e composição por aglutinação."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O verbo \u0027preferir\u0027 rege a preposição \u0027a\u0027, não admitindo, na norma culta, a comparação com \u0027do que\u0027: o correto é \u0027Prefiro estudar de manhã a estudar à noite\u0027.",
-                         "formato":  "direta"
+                         "explicacao":  "Em passatempo os radicais passa e tempo aparecem inteiros, o que caracteriza a justaposição. Em planalto houve perda na junção de plano e alto, que se fundiram numa forma única, o que caracteriza a aglutinação. Tratar as duas como justaposição ignora essa perda, e é o distrator mais forte; tratá-las como aglutinação desconsidera a integridade dos radicais na primeira; e as opções por derivação não se aplicam, porque não há afixo em jogo, e sim dois radicais."
                      },
                      {
                          "id":  "gramatica-10",
@@ -228,18 +231,19 @@
                      },
                      {
                          "id":  "gramatica-16",
-                         "texto_apoio":  "\"Fui na casa dela ontem à tarde e conversamos sobre o novo projeto que ela irá apresentar na faculdade.\"",
-                         "enunciado":  "Sobre a regência do verbo \u0027ir\u0027 na frase, a norma culta recomenda que",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Fala-se em derivação imprópria, ou conversão, quando uma palavra passa a pertencer a outra classe gramatical sem que sua forma sofra alteração. É o que ocorre com infinitivos empregados como substantivos.",
+                         "enunciado":  "Na frase \"O jantar estava frio\", a palavra JANTAR é",
                          "alternativas":  {
-                                              "a":  "não há preposição adequada para reger o verbo \u0027ir\u0027 nesse contexto, já que esse verbo seria intransitivo ao indicar deslocamento.",
-                                              "b":  "a construção \u0027fui na casa\u0027 está adequada, pois com nomes de lugar determinados o verbo \u0027ir\u0027 rege a preposição \u0027em\u0027.",
-                                              "c":  "a construção \u0027fui até a casa dela\u0027 é a única aceita pela norma culta, por explicitar o percurso completo.",
-                                              "d":  "a construção mais adequada à norma culta é \u0027fui à casa dela\u0027, com a preposição \u0027a\u0027 indicando destino, unida por crase ao artigo feminino.",
-                                              "e":  "a construção correta seria \u0027fui para a casa dela\u0027, já que \u0027para\u0027 indica destino com permanência e \u0027a\u0027 caberia apenas em deslocamentos breves."
+                                              "a":  "verbo no infinitivo, atuando como núcleo do predicado da oração.",
+                                              "b":  "substantivo formado por derivação sufixal a partir de um adjetivo.",
+                                              "c":  "verbo substantivado por derivação regressiva, processo em que a palavra nova resulta da supressão da terminação verbal.",
+                                              "d":  "substantivo resultante de derivação imprópria, com mudança de classe sem alteração de forma.",
+                                              "e":  "substantivo formado por composição de dois radicais distintos."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "\u0027Ir\u0027 indicando destino rege \u0027a\u0027, e o encontro dessa preposição com o artigo de \u0027a casa\u0027 produz a crase: \u0027fui à casa dela\u0027. Em (e) está o distrator mais bem informado: a distinção entre \u0027a\u0027 (deslocamento breve) e \u0027para\u0027 (permanência) existe de fato na tradição gramatical, mas ela não torna \u0027para\u0027 obrigatório aqui, e sim opcional. Em (b), \u0027em\u0027 com verbo de movimento é traço de oralidade. Em (c), \u0027até\u0027 é possível, não exclusivo. Em (a), \u0027ir\u0027 é transitivo indireto nesse uso.",
-                         "formato":  "direta"
+                         "explicacao":  "A forma jantar é idêntica à do infinitivo, mas na frase vem precedida de artigo e funciona como sujeito — mudou de classe sem mudar de forma, que é a definição de derivação imprópria dada no texto. O núcleo do predicado é estava; não há sufixo acrescentado, o que afasta a derivação sufixal; a derivação regressiva exigiria supressão de terminação, como em pescar e pesca, e aqui nada foi suprimido — é o distrator mais forte; e não há dois radicais."
                      },
                      {
                          "id":  "gramatica-17",
@@ -333,18 +337,19 @@
                      },
                      {
                          "id":  "gramatica-23",
-                         "texto_apoio":  "\"Livros, cadernos, canetas, nada foi esquecido na mochila.\"",
-                         "enunciado":  "Sobre a concordância verbal na frase, é correto afirmar que",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Dígrafo é o grupo de duas letras que representa um só fonema. Além dos casos com h (ch, lh, nh), incluem-se rr, ss, sc, sç, xc, qu e gu antes de e ou i, e as vogais seguidas de m ou n na mesma sílaba, que indicam nasalização.",
+                         "enunciado":  "A palavra em que NÃO há dígrafo é",
                          "alternativas":  {
-                                              "a":  "está incorreta porque falta uma vírgula antes de \u0027nada\u0027, termo recapitulativo que precisaria vir isolado do restante do período.",
-                                              "b":  "está incorreta; o verbo deveria concordar no plural com os elementos enumerados: \u0027nada foram esquecidos\u0027, por regra de concordância com sujeitos compostos.",
-                                              "c":  "está correta apenas porque a enumeração antecede o verbo; se viesse depois, a concordância teria de ser feita no plural.",
-                                              "d":  "está correta; quando um sujeito composto é resumido por um pronome indefinido como \u0027nada\u0027 ou \u0027tudo\u0027, o verbo concorda com esse pronome.",
-                                              "e":  "está incorreta; o pronome resumidor exige que o verbo concorde com o núcleo mais próximo do sujeito composto."
+                                              "a":  "carro.",
+                                              "b":  "nascer.",
+                                              "c":  "campo.",
+                                              "d":  "sábado.",
+                                              "e":  "filha, cujo grupo consonantal representa dois fonemas distintos na pronúncia."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O pronome recapitulativo assume o lugar do sujeito composto, e o verbo concorda com ele: \u0027nada foi esquecido\u0027. Em (b) está o erro mais natural, porque a enumeração plural puxa a leitura para \u0027foram esquecidos\u0027 — é justamente essa atração que a regra do pronome resumidor bloqueia. Em (c), a ordem dos termos não altera a concordância. Em (e), o núcleo mais próximo é o próprio \u0027nada\u0027. Em (a), a vírgula antes do recapitulativo já está lá.",
-                         "formato":  "direta"
+                         "explicacao":  "Em sá-ba-do cada letra corresponde a um fonema, e não há grupo de duas letras representando um só som. Em carro há rr; em nascer há sc; em campo o grupo am indica nasalização da vogal, caso previsto na definição do texto; e em filha há lh, que representa um único fonema — a alternativa que afirma dois fonemas ali contraria a própria noção de dígrafo."
                      },
                      {
                          "id":  "gramatica-24",
@@ -393,18 +398,19 @@
                      },
                      {
                          "id":  "gramatica-27",
-                         "texto_apoio":  "\"O candidato aprovado está apto para assumir o cargo, desde que seja obediente às normas internas da empresa.\"",
-                         "enunciado":  "Sobre a regência nominal dos termos destacados, é correto afirmar que",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Chamam-se palavras atrativas as que puxam o pronome oblíquo átono para antes do verbo, em próclise: advérbios de negação, pronomes relativos, pronomes indefinidos, conjunções subordinativas e advérbios sem vírgula depois.",
+                         "enunciado":  "Na frase \"Não ___ disse nada sobre o assunto\", a norma culta recomenda",
                          "alternativas":  {
-                                              "a":  "nenhuma das regências empregadas está de acordo com a norma culta, que exigiria \u0027apto a\u0027 e \u0027obediente para\u0027 nessa construção nominal.",
-                                              "b":  "\u0027apto para\u0027 está correto, mas \u0027obediente às\u0027 exige a preposição \u0027de\u0027, e não \u0027a\u0027.",
-                                              "c":  "\u0027obediente às\u0027 está incorreto; o correto seria \u0027obediente para\u0027, preposição que o adjetivo \u0027obediente\u0027 exigiria nessa construção formal.",
-                                              "d":  "\u0027apto para\u0027 está incorreto; a norma culta registra apenas \u0027apto a\u0027, com a preposição \u0027a\u0027 regendo o complemento do adjetivo nesse tipo de construção.",
-                                              "e":  "\u0027apto para\u0027 e \u0027obediente às\u0027 estão de acordo com a norma culta, que admite a preposição \u0027para\u0027 ou \u0027a\u0027 após \u0027apto\u0027, e exige \u0027a\u0027 após \u0027obediente\u0027."
+                                              "a":  "ênclise, por não haver, antes da forma verbal, elemento capaz de atrair o pronome oblíquo.",
+                                              "b":  "mesóclise, por estar o verbo no futuro do presente.",
+                                              "c":  "ênclise, posição preferida no início de período.",
+                                              "d":  "indiferença entre as três posições, aceitas de igual modo pela norma.",
+                                              "e":  "próclise, atraída pelo advérbio de negação."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "\u0027Apto\u0027 aceita \u0027a\u0027 ou \u0027para\u0027, e \u0027obediente\u0027 rege \u0027a\u0027 — as duas construções da frase estão corretas. Em (d) está o distrator mais forte: \u0027apto a\u0027 é de fato regência legítima e a mais citada nos manuais, mas ser a mais citada não a torna exclusiva, e \u0027apto para\u0027 é igualmente aceita. Em (a), a inversão proposta erra as duas. Em (b) e (c), \u0027obediente\u0027 não rege \u0027de\u0027 nem \u0027para\u0027.",
-                         "formato":  "direta"
+                         "explicacao":  "O advérbio não figura entre as palavras atrativas listadas no texto, e por isso o pronome vem antes do verbo: não me disse nada. A ênclise seria a posição esperada se o verbo abrisse a oração sem nada antes, o que não ocorre aqui — é o distrator mais forte do item; a mesóclise pressupõe futuro do presente ou do pretérito, e disse é pretérito perfeito; e a norma culta estabelece regra para o caso, o que afasta a indiferença entre posições."
                      },
                      {
                          "id":  "gramatica-28",
@@ -453,18 +459,19 @@
                      },
                      {
                          "id":  "gramatica-31",
-                         "texto_apoio":  "\"Foi encontrado, no sítio arqueológico, vestígios de uma civilização até então desconhecida pelos pesquisadores.\"",
-                         "enunciado":  "Sobre a concordância verbal na frase, é correto afirmar que",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Quanto à posição da sílaba tônica, a palavra é oxítona quando a tônica é a última, paroxítona quando é a penúltima e proparoxítona quando é a antepenúltima.",
+                         "enunciado":  "As palavras ÁRVORE, CARÁTER e URUBU classificam-se, respectivamente, como",
                          "alternativas":  {
-                                              "a":  "está incorreta porque falta a preposição \u0027de\u0027 antes de \u0027vestígios\u0027, complemento que o verbo \u0027encontrar\u0027 exigiria nessa construção passiva.",
-                                              "b":  "está correta, pois o verbo \u0027foi encontrado\u0027 deve permanecer sempre no singular, independentemente do sujeito.",
-                                              "c":  "está incorreta; como \u0027vestígios\u0027 é o sujeito da oração na voz passiva, o verbo deveria concordar no plural: \u0027foram encontrados vestígios\u0027.",
-                                              "d":  "está correta, pois na voz passiva analítica o particípio permanece invariável.",
-                                              "e":  "está correta porque \u0027sítio arqueológico\u0027 é o sujeito da oração, termo que, por vir anteposto ao verbo, determinaria a concordância no singular."
+                                              "a":  "paroxítona, oxítona e proparoxítona.",
+                                              "b":  "proparoxítona, oxítona e paroxítona.",
+                                              "c":  "proparoxítona, paroxítona e oxítona.",
+                                              "d":  "oxítona, paroxítona e proparoxítona.",
+                                              "e":  "paroxítona, proparoxítona e oxítona, seguindo a ordem em que aparecem no enunciado."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Na voz passiva, o verbo concorda com o sujeito paciente; como \u0027vestígios\u0027 está no plural, o correto é \u0027foram encontrados vestígios\u0027.",
-                         "formato":  "direta"
+                         "explicacao":  "Em ÁR-vo-re a tônica é a antepenúltima, logo proparoxítona; em ca-RÁ-ter é a penúltima, logo paroxítona; em u-ru-BU é a última, logo oxítona. Note que o acento gráfico não decide a classificação: caráter é acentuada e paroxítona, enquanto urubu não leva acento e é oxítona. As demais ordens trocam entre si as três classificações."
                      },
                      {
                          "id":  "gramatica-32",
@@ -543,19 +550,19 @@
                      },
                      {
                          "id":  "gramatica-37",
-                         "texto_apoio":  "\"Cada um dos candidatos apresentou, na banca, sua própria defesa oral do projeto de pesquisa.\"",
-                         "enunciado":  "Sobre a concordância verbal na frase, é correto afirmar que",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Na derivação, acrescentam-se afixos a um radical: o prefixo vem antes, o sufixo depois. Quando os dois processos ocorrem na mesma palavra e a retirada de um deles ainda deixa palavra existente na língua, fala-se em derivação prefixal e sufixal.",
+                         "enunciado":  "Na palavra INFELIZMENTE, identificam-se",
                          "alternativas":  {
-                                              "a":  "está correta; quando o sujeito é formado por \u0027cada um dos\u0027 seguido de substantivo plural, o verbo permanece no singular, concordando com \u0027cada um\u0027.",
-                                              "b":  "está incorreta; a expressão \u0027cada um dos\u0027 obriga o verbo a concordar com o termo plural que a segue.",
-                                              "c":  "está incorreta porque falta o artigo definido antes de \u0027candidatos\u0027, elemento que a expressão \u0027cada um dos\u0027 exigiria obrigatoriamente nessa posição.",
-                                              "d":  "está incorreta; o verbo deveria concordar no plural com \u0027candidatos\u0027: \u0027apresentaram\u0027, já que esse substantivo seria o verdadeiro núcleo do sujeito.",
-                                              "e":  "está correta apenas porque a frase está na ordem direta, condição que dispensaria a concordância entre o verbo e o núcleo do sujeito partitivo."
+                                              "a":  "um prefixo, um radical e um sufixo, em derivação prefixal e sufixal.",
+                                              "b":  "dois radicais, em composição por justaposição.",
+                                              "c":  "apenas um sufixo acrescentado diretamente ao radical.",
+                                              "d":  "um radical e uma desinência indicadora de grau.",
+                                              "e":  "dois prefixos acrescentados a um mesmo radical, sem participação de sufixo no processo."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A expressão \u0027cada um\u0027 funciona como núcleo do sujeito e é sempre singular, mesmo seguida de complemento plural (\u0027dos candidatos\u0027); por isso, o verbo deve permanecer no singular: \u0027apresentou\u0027.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "A palavra se decompõe em in- (prefixo), feliz (radical) e -mente (sufixo), e tanto infeliz quanto felizmente existem na língua — o que confirma a derivação prefixal e sufixal descrita no texto. Não há dois radicais, o que excluiria a composição; considerar apenas o sufixo ignoraria o in-; -mente é sufixo formador de advérbio, e não desinência de grau; e in- é o único prefixo presente."
                      },
                      {
                          "id":  "gramatica-38",
@@ -575,19 +582,19 @@
                      },
                      {
                          "id":  "gramatica-39",
-                         "texto_apoio":  "\"Eles namoram há três anos e planejam morar juntos assim que se formarem na faculdade.\"",
-                         "enunciado":  "Sobre a regência do verbo \u0027namorar\u0027 na frase, é correto afirmar que",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "A mesóclise coloca o pronome oblíquo átono no interior da forma verbal, entre o radical e a desinência. Ela é admitida com verbos no futuro do presente ou no futuro do pretérito, quando não há palavra atrativa antes do verbo.",
+                         "enunciado":  "Na frase \"Entregar-lhe-ei o relatório amanhã\", o pronome encontra-se em",
                          "alternativas":  {
-                                              "a":  "está incorreta; deveria ser \u0027namoram um com o outro\u0027, com preposição obrigatória exigida pela regência transitiva indireta do verbo \u0027namorar\u0027.",
-                                              "b":  "está incorreta; \u0027namorar\u0027 é verbo transitivo indireto e exige a preposição \u0027a\u0027 antes do complemento.",
-                                              "c":  "está correta; na norma culta, \u0027namorar\u0027 é verbo transitivo direto, não exigindo preposição para introduzir seu complemento.",
-                                              "d":  "está incorreta porque falta a preposição \u0027com\u0027 entre os dois sujeitos, já que verbos recíprocos exigiriam sempre esse conectivo intermediário.",
-                                              "e":  "está correta apenas em contextos informais de linguagem oral, sendo desvio gramatical grave em qualquer registro escrito ou formal da língua."
+                                              "a":  "próclise, posição de uso mais frequente na variedade brasileira falada.",
+                                              "b":  "ênclise, ligada ao final da forma verbal composta.",
+                                              "c":  "mesóclise, admitida com o verbo no futuro do presente e sem palavra atrativa antes dele.",
+                                              "d":  "posição livre, dado que a norma culta não estabelece regra de colocação para verbos no futuro.",
+                                              "e":  "próclise obrigatória, por se tratar de oração principal."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O verbo \u0027namorar\u0027 é transitivo direto na norma culta (\u0027namorar alguém\u0027), não devendo ser regido por preposição; no caso da frase, o sujeito é composto e recíproco (\u0027eles namoram\u0027), dispensando qualquer preposição adicional.",
-                         "dificuldade":  "media",
-                         "formato":  "direta"
+                         "explicacao":  "A forma entregarei foi partida ao meio para acolher o pronome — entregar-lhe-ei —, e é isso que define a mesóclise, cabível porque o verbo está no futuro do presente e nada antes dele atrai o pronome. Próclise poria o pronome antes de toda a forma verbal, e ênclise depois dela; a frase não tem verbo composto; e a norma culta regula justamente esse caso, o que afasta a ideia de posição livre."
                      },
                      {
                          "id":  "gramatica-40",
@@ -700,18 +707,19 @@
                      },
                      {
                          "id":  "gramatica-47",
-                         "texto_apoio":  "\"Não me lembro do nome do autor do livro, mas lembro perfeitamente a capa vermelha com letras douradas.\"",
-                         "enunciado":  "Sobre a regência do verbo \u0027lembrar\u0027 nas duas ocorrências da frase, é correto afirmar que",
+                         "banca":  "fgv",
+                         "formato":  "direta",
+                         "texto_apoio":  "Nas locuções verbais com particípio, a norma culta não admite a ênclise ao particípio. O pronome oblíquo átono coloca-se antes do verbo auxiliar ou depois dele, conforme haja ou não palavra atrativa.",
+                         "enunciado":  "Na frase \"Tinha ___ avisado a tempo\", a norma culta admite",
                          "alternativas":  {
-                                              "a":  "apenas a construção com o pronome é aceita, pois \u0027lembrar\u0027 sem pronome só existe no sentido de \u0027parecer-se com\u0027.",
-                                              "b":  "apenas a construção com a preposição \u0027de\u0027 é aceita, porque o complemento de \u0027lembrar\u0027 é indireto nos dois empregos do verbo.",
-                                              "c":  "a segunda ocorrência deveria ser \u0027lembro-me da capa\u0027, sendo a forma apresentada um erro grave de regência verbal na norma culta escrita.",
-                                              "d":  "ambas estão incorretas, pois \u0027lembrar\u0027 pede o pronome reflexivo mesmo quando o complemento aparece sem preposição.",
-                                              "e":  "estão corretas: \u0027lembrar-se de algo\u0027 exige \u0027de\u0027; \u0027lembrar algo\u0027, sem o pronome, é transitivo direto."
+                                              "a":  "a ênclise ao particípio, forma preferida na escrita formal contemporânea.",
+                                              "b":  "a mesóclise, com o pronome inserido no interior do particípio.",
+                                              "c":  "somente a ênclise ao verbo auxiliar, ficando vedadas as demais posições do pronome oblíquo átono.",
+                                              "d":  "posição indiferente, dado que o particípio dispensa regra de colocação pronominal.",
+                                              "e":  "a próclise ou a ênclise em relação ao auxiliar, vedada a ênclise ao particípio."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Como em \u0027esquecer\u0027, é o pronome que muda a regência: com ele, \u0027de\u0027; sem ele, objeto direto. As duas ocorrências respeitam a distinção. Em (c) está o desvio mais frequente, porque a forma pronominal soa mais cuidada e leva a corrigir o que está certo. Em (b) e (d), generaliza-se a regência preposicionada. Em (a), \u0027lembrar algo\u0027 é uso corrente e não se confunde com \u0027lembrar alguém\u0027 no sentido de assemelhar-se.",
-                         "formato":  "direta"
+                         "explicacao":  "Cabem tinha me avisado e tinha-me avisado, ambas ligando o pronome ao auxiliar, e fica excluída a forma avisado-me, porque a ênclise ao particípio não é admitida — é exatamente a restrição enunciada no texto. Reduzir as possibilidades a uma só posição elimina uma construção correta, e é o distrator mais forte; a mesóclise não incide sobre particípio; e existe regra para o caso, o que afasta a indiferença."
                      },
                      {
                          "id":  "gramatica-48",

@@ -1,0 +1,275 @@
+{
+  "_comentario": [
+    "Fecha as lacunas de Lingua Portuguesa no lado da interpretacao: funcoes da",
+    "linguagem, figura de linguagem empregada de forma reiterada, sentido literal",
+    "contra figurado, e discurso direto / indireto / indireto livre.",
+    "",
+    "A MEDIDA QUE MOTIVA O LOTE. Em 300 questoes das duas frentes de Portugues,",
+    "'figura de linguagem' aparecia em 1, 'sentido literal x figurado' em NENHUMA e",
+    "'funcoes da linguagem' em 1. E os dois primeiros sao justamente os tipos de",
+    "item que a FGV repetiu em 2025.1 E em 2026.1, quase com a mesma redacao -- os",
+    "mais previsiveis de toda a prova. A prova de Portugues discursivo tem peso 2 e",
+    "corte eliminatorio em 3,0, entao e a lacuna de maior custo por questao do banco",
+    "inteiro.",
+    "",
+    "O QUE SAIU. Quinze das 22 questoes do tipo 'Qual e a ideia central / a tese /",
+    "a posicao defendida'. Vinte e duas questoes fazendo a mesma pergunta e",
+    "excessivo, e sete continuam cobrindo a habilidade. Detalhe achado no caminho:",
+    "onze das 22 tinham gabarito na letra d -- metade do tipo concentrada numa",
+    "letra, o que e um tell por si so.",
+    "",
+    "CHUTABILIDADE. interpretacao-texto e a pior frente do banco: 27,3%, ACIMA do",
+    "alvo de 25%. O tell dominante ali nao e o comprimento (11,3%) e sim a",
+    "linguagem categorica nos distratores: 112 alternativas com sempre, nunca,",
+    "todo, qualquer -- e corretas em apenas 2,6% dos casos, o que faz descarta-las",
+    "sair de graca. Estas 15 nao usam NENHUMA palavra categorica: os distratores",
+    "erram por conteudo, nomeando a funcao vizinha ou o efeito plausivel mas",
+    "errado. E o comprimento foi mantido proximo, com a maior sendo sempre um",
+    "distrator.",
+    "",
+    "Gabaritos: cada id conserva a letra que ja tinha."
+  ],
+  "subtopic": "interpretacao-texto",
+  "questoes": [
+    {
+      "id": "interpretacao-texto-01",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "O Instituto Nacional de Meteorologia informou que a precipitação acumulada na capital em março foi de 118 milímetros, contra 96 milímetros no mesmo mês do ano anterior. O órgão registrou ainda que a temperatura média do período ficou em 24,3 graus.",
+      "enunciado": "A função da linguagem predominante nesse texto é a",
+      "alternativas": {
+        "a": "emotiva, porque o enunciador manifesta sua reação diante dos dados divulgados.",
+        "b": "poética, porque o texto explora a sonoridade e o ritmo das palavras escolhidas.",
+        "c": "referencial, porque o texto se organiza em torno da informação sobre o mundo.",
+        "d": "metalinguística, porque o texto explica o significado dos termos técnicos que emprega.",
+        "e": "conativa, porque o texto procura induzir o leitor a adotar determinado comportamento."
+      },
+      "resposta": "c",
+      "explicacao": "O texto se limita a informar dados verificáveis, em terceira pessoa, sem marca de quem enuncia e sem apelo ao leitor: é o centro da função referencial. A função emotiva exigiria marcas do enunciador, como primeira pessoa ou juízo de valor, que não aparecem; a poética exigiria trabalho com a forma da mensagem; a metalinguística exigiria a linguagem explicando a si mesma, e nenhum termo é definido aqui; e a conativa exigiria imperativo ou vocativo dirigido ao leitor."
+    },
+    {
+      "id": "interpretacao-texto-03",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "\"Ainda me lembro do cheiro daquela cozinha, e confesso que me falta o chão quando penso que nunca mais vou entrar nela. Escrevo isto com dificuldade.\"",
+      "enunciado": "A função da linguagem predominante nesse trecho é a",
+      "alternativas": {
+        "a": "referencial, porque o trecho descreve objetivamente as características de um ambiente doméstico.",
+        "b": "fática, porque o trecho serve para testar e manter aberto o canal de comunicação.",
+        "c": "conativa, porque o trecho orienta o interlocutor a realizar determinada ação.",
+        "d": "metalinguística, porque o trecho comenta o próprio ato de escrever que realiza.",
+        "e": "emotiva, porque o trecho se organiza em torno do estado de quem enuncia."
+      },
+      "resposta": "e",
+      "explicacao": "A primeira pessoa, o verbo confessar e a declaração de dificuldade colocam o enunciador no centro: o assunto é o que ele sente, não a cozinha. A função referencial exigiria foco no objeto descrito, e a descrição aqui é pretexto; a fática cuida do contato, não do sentimento; a conativa exigiria apelo ao interlocutor. A menção ao ato de escrever poderia sugerir metalinguagem, mas ela aparece a serviço da confissão, e não como reflexão sobre a linguagem — é o distrator mais forte do item."
+    },
+    {
+      "id": "interpretacao-texto-16",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "\"Não fique de fora. Garanta já a sua vaga e descubra do que você é capaz. Inscreva-se hoje mesmo.\"",
+      "enunciado": "A função da linguagem predominante nesse texto é a",
+      "alternativas": {
+        "a": "referencial, porque o texto informa as condições objetivas de participação no processo.",
+        "b": "emotiva, porque o texto expressa o entusiasmo de quem o assina diante da oportunidade.",
+        "c": "metalinguística, porque o texto esclarece o sentido das expressões que utiliza.",
+        "d": "conativa, porque o texto se organiza para levar o interlocutor a agir.",
+        "e": "poética, porque o texto trabalha a repetição sonora como recurso central de construção."
+      },
+      "resposta": "d",
+      "explicacao": "Os verbos no imperativo e o interlocutor tratado diretamente por você organizam o texto em torno de uma ação a ser praticada por quem lê — é a definição da função conativa, também chamada apelativa. A referencial exigiria informação sobre o mundo, e nenhuma condição objetiva é dada; a emotiva exigiria o foco no enunciador; a metalinguística exigiria definição de termos; e a poética exigiria trabalho sonoro que o texto não desenvolve."
+    },
+    {
+      "id": "interpretacao-texto-19",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "\"Chamamos de sinédoque a figura em que se toma a parte pelo todo. Não confunda com a metonímia em sentido amplo: a sinédoque é um caso particular dela, e o critério de distinção é a relação de quantidade.\"",
+      "enunciado": "A função da linguagem predominante nesse trecho é a",
+      "alternativas": {
+        "a": "conativa, porque há um verbo no imperativo dirigido ao interlocutor do texto.",
+        "b": "referencial, porque o trecho transmite informação verificável sobre um objeto do mundo.",
+        "c": "emotiva, porque o autor demonstra apreço pelo assunto de que trata.",
+        "d": "metalinguística, porque o trecho usa a linguagem para explicar a própria linguagem.",
+        "e": "poética, porque o trecho recorre a figuras para construir seu efeito de sentido."
+      },
+      "resposta": "d",
+      "explicacao": "O texto define termos da própria língua e estabelece o critério que separa dois deles: a linguagem toma a si mesma como objeto, que é o que caracteriza a função metalinguística. A presença de um imperativo poderia sugerir a conativa, mas ele serve à explicação e não a induzir uma ação — é o distrator mais forte aqui; a referencial trataria de objeto extralinguístico; a emotiva exigiria foco no enunciador; e mencionar figuras não é o mesmo que empregá-las."
+    },
+    {
+      "id": "interpretacao-texto-21",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "— Alô? Está me ouvindo?\n— Estou, sim. Pode falar.\n— Alô? Continua aí?\n— Continuo. Fala.",
+      "enunciado": "A função da linguagem predominante nesse diálogo é a",
+      "alternativas": {
+        "a": "referencial, porque os interlocutores trocam informações sobre um assunto determinado.",
+        "b": "emotiva, porque as falas revelam o estado emocional de quem participa da conversa.",
+        "c": "conativa, porque cada fala procura obter do outro uma mudança de comportamento.",
+        "d": "fática, porque as falas servem para estabelecer e verificar o contato entre os interlocutores.",
+        "e": "metalinguística, porque os interlocutores discutem o significado das palavras que empregam."
+      },
+      "resposta": "d",
+      "explicacao": "Nenhuma informação é transmitida: as falas apenas testam se o canal está aberto e se o outro continua na linha, que é exatamente a função fática. A referencial exigiria assunto, e o diálogo não chega a ter um; a emotiva exigiria marca de sentimento; a conativa exigiria pedido de ação, e os imperativos aqui apenas devolvem o turno de fala; e a metalinguística exigiria discussão sobre a própria língua."
+    },
+    {
+      "id": "interpretacao-texto-33",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "\"O vento vai varrendo a vala vaga, / e o vago vale volta a ver o vento.\"",
+      "enunciado": "A função da linguagem predominante nesses versos é a",
+      "alternativas": {
+        "a": "referencial, porque os versos descrevem com precisão um fenômeno natural observável.",
+        "b": "poética, porque a organização sonora da mensagem se torna o centro do efeito.",
+        "c": "conativa, porque os versos convidam o leitor a observar a paisagem descrita.",
+        "d": "fática, porque os versos servem para manter a atenção do leitor ao longo do poema.",
+        "e": "metalinguística, porque os versos explicitam o procedimento formal que empregam."
+      },
+      "resposta": "b",
+      "explicacao": "A repetição insistente da consoante inicial faz com que a atenção recaia sobre a matéria sonora da mensagem, e não sobre o que ela informa: é a definição da função poética. A referencial trataria o vento como objeto a descrever, e a descrição aqui é subordinada ao efeito sonoro; a conativa exigiria apelo ao leitor; a fática cuida do canal; e a metalinguística exigiria que os versos comentassem o próprio procedimento, o que não fazem."
+    },
+    {
+      "id": "interpretacao-texto-38",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "\"A cidade acordou de mau humor. As ruas resmungaram sob os primeiros ônibus, as fachadas encararam o sol sem simpatia, e até o rio, que costuma ser paciente, passou o dia se queixando baixinho contra as pedras.\"",
+      "enunciado": "A figura de linguagem empregada de forma reiterada nesse trecho é a",
+      "alternativas": {
+        "a": "personificação, pela atribuição de comportamento humano a elementos não humanos.",
+        "b": "hipérbole, pelo exagero deliberado das dimensões atribuídas aos elementos descritos.",
+        "c": "metonímia, pela substituição de um termo por outro com o qual mantém contiguidade.",
+        "d": "antítese, pela aproximação de termos de sentido oposto ao longo do período.",
+        "e": "eufemismo, pela substituição de uma expressão dura por outra mais branda e aceitável."
+      },
+      "resposta": "a",
+      "explicacao": "Acordar de mau humor, resmungar, encarar sem simpatia e se queixar são ações e estados de gente atribuídos a cidade, ruas, fachadas e rio — e a repetição do procedimento em quatro elementos seguidos é o que o enunciado chama de reiterado. Não há exagero de dimensão que caracterize hipérbole; não há substituição por contiguidade, e as palavras designam o que designam; não há par de opostos armado no período; e nada é abrandado."
+    },
+    {
+      "id": "interpretacao-texto-50",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "\"O debate público virou um ringue. Cada um sobe ao tablado com a guarda alta, mede o adversário, procura o ponto fraco e desfere o argumento como quem desfere um golpe. Ao fim de doze rounds, ninguém convenceu ninguém: apenas se contaram os pontos.\"",
+      "enunciado": "O trecho constrói seu sentido pelo emprego reiterado de",
+      "alternativas": {
+        "a": "eufemismos que abrandam a violência atribuída ao debate público contemporâneo.",
+        "b": "hipérboles que ampliam desproporcionalmente a duração do debate descrito.",
+        "c": "metáforas extraídas de um mesmo campo, o da luta, aplicadas ao debate.",
+        "d": "ironias que afirmam o contrário do que o enunciador efetivamente defende.",
+        "e": "personificações que atribuem vontade própria aos argumentos apresentados."
+      },
+      "resposta": "c",
+      "explicacao": "Ringue, tablado, guarda alta, golpe, rounds e contagem de pontos vêm todos do vocabulário do boxe, e são aplicados ao debate: a metáfora não aparece uma vez, e sim como campo inteiro sustentado ao longo do trecho. Não há abrandamento que caracterize eufemismo; a duração não é exagerada, e doze rounds é a medida real de uma luta; a ironia exigiria dizer o contrário do que se pensa; e os argumentos não recebem vontade própria."
+    },
+    {
+      "id": "interpretacao-texto-59",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "\"Prometeram futuro e entregaram passado. Falaram de união e praticaram divisão. Anunciaram abundância num país de escassez, e chamaram de vitória o que a conta chamaria de derrota.\"",
+      "enunciado": "A figura empregada de forma reiterada na construção do trecho é a",
+      "alternativas": {
+        "a": "gradação, pela disposição dos termos em intensidade crescente ao longo do período.",
+        "b": "metonímia, pela substituição de cada termo por outro do mesmo campo semântico.",
+        "c": "hipérbole, pelo exagero das promessas atribuídas aos agentes mencionados no trecho.",
+        "d": "antítese, pela aproximação sistemática de termos de sentido oposto.",
+        "e": "prosopopeia, pela atribuição de fala e intenção a entidades abstratas do texto."
+      },
+      "resposta": "d",
+      "explicacao": "Futuro e passado, união e divisão, abundância e escassez, vitória e derrota: o trecho é armado sobre quatro pares de opostos em sequência, e é essa repetição do procedimento que o enunciado pede. A gradação exigiria intensidade crescente, e os pares se equivalem em força; não há substituição por contiguidade; o exagero não é o recurso, porque os termos são postos em confronto e não ampliados; e nenhuma entidade abstrata recebe fala própria."
+    },
+    {
+      "id": "interpretacao-texto-83",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "Numa reportagem sobre uma greve de professores, aparece a frase: \"Depois de três semanas de negociação, o governo finalmente abriu a mão.\"",
+      "enunciado": "No contexto, a expressão destacada foi empregada",
+      "alternativas": {
+        "a": "em sentido literal, indicando o gesto físico realizado por um representante do governo.",
+        "b": "em sentido literal, descrevendo a assinatura do acordo pela autoridade competente.",
+        "c": "em sentido figurado, indicando que o governo cedeu na negociação.",
+        "d": "em sentido figurado, indicando que o governo passou a distribuir recursos com generosidade.",
+        "e": "em sentido figurado, indicando que o governo perdeu o controle sobre o processo."
+      },
+      "resposta": "c",
+      "explicacao": "Abrir a mão, no contexto de uma negociação que se arrasta, significa deixar de resistir e ceder — o sentido não é o do gesto, e sim o construído pelo uso. As duas leituras literais tomam a expressão pelo movimento físico ou pela assinatura, o que a frase não sustenta. Entre as figuradas, distribuir recursos com generosidade confunde abrir a mão com ser mão-aberta, expressão diferente; e perder o controle não corresponde a ceder num acordo, que é ato deliberado."
+    },
+    {
+      "id": "interpretacao-texto-105",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "Um manual de instalação traz a seguinte advertência: \"Antes de perfurar, verifique se não há fiação embutida na parede. Um choque elétrico pode ser fatal.\"\n\nUm texto de opinião publicado no mesmo mês afirma: \"A reforma tributária mexeu na fiação da federação, e ninguém sabe onde estão os fios.\"",
+      "enunciado": "Comparando as duas ocorrências da palavra fiação, é correto afirmar que",
+      "alternativas": {
+        "a": "a primeira é literal e a segunda é figurada, aplicada à estrutura de repartição de receitas.",
+        "b": "as duas são literais, uma vez que ambas remetem a instalações elétricas concretas.",
+        "c": "as duas são figuradas, pois a palavra designa um objeto ausente em ambos os contextos.",
+        "d": "a primeira é figurada e a segunda é literal, já que a reforma envolve documentos físicos.",
+        "e": "a distinção não se aplica, porque a palavra tem um único sentido registrado em dicionário."
+      },
+      "resposta": "a",
+      "explicacao": "No manual, fiação designa o conjunto de fios elétricos dentro da parede — o objeto mesmo. No texto de opinião, ela nomeia a rede de vínculos e repasses entre os entes da federação, que não é feita de fios: o sentido é construído por transferência. Dizer que as duas são literais ignora que uma federação não tem cabos; dizer que as duas são figuradas desconsidera o manual, cujo objeto é físico; a inversão troca os dois casos; e a existência de um sentido dicionarizado não impede o uso figurado, que é justamente o que se apoia nele."
+    },
+    {
+      "id": "interpretacao-texto-112",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "\"O escândalo caiu como uma bomba no meio da campanha. Nos dias seguintes, os candidatos se recolheram, os aliados sumiram do mapa e o partido tratou de apagar o incêndio antes que a coisa se espalhasse.\"",
+      "enunciado": "As expressões destacadas no trecho funcionam de maneira",
+      "alternativas": {
+        "a": "literal, uma vez que descrevem eventos físicos ocorridos durante o período da campanha.",
+        "b": "literal no caso da bomba e figurada nas demais, que dependem de contexto político.",
+        "c": "figurada apenas na última, sendo as anteriores registros objetivos dos acontecimentos.",
+        "d": "figurada em todas, e retiradas de dois campos, o da explosão e o do desaparecimento.",
+        "e": "ambígua, porque o trecho não fornece elementos que permitam decidir entre os dois sentidos."
+      },
+      "resposta": "d",
+      "explicacao": "Cair como uma bomba, sumir do mapa, apagar o incêndio e a coisa se espalhar não descrevem explosão, cartografia nem fogo: todas transferem para a crise política imagens de destruição súbita e de desaparecimento. Ler qualquer uma delas como literal exigiria que houvesse artefato, mapa ou chamas na campanha; e a hipótese da ambiguidade não se sustenta, porque o contexto político decide o sentido sem margem para dúvida."
+    },
+    {
+      "id": "interpretacao-texto-118",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "\"Ele arrumou a gravata diante do espelho. Aquela reunião ia decidir tudo, e ele não estava preparado, não estava nem um pouco preparado, que ideia mais absurda aceitar a data com tão pouca antecedência. Pegou a pasta e saiu.\"",
+      "enunciado": "No trecho, a passagem entre \"Aquela reunião\" e \"tão pouca antecedência\" caracteriza-se como",
+      "alternativas": {
+        "a": "discurso direto, com a fala da personagem introduzida sem verbo de dizer nem travessão.",
+        "b": "discurso indireto, com o narrador reformulando em terceira pessoa aquilo que a personagem declarou em voz alta.",
+        "c": "discurso citado, com reprodução literal de um enunciado anterior da personagem.",
+        "d": "narração objetiva, restrita ao registro externo das ações praticadas pela personagem.",
+        "e": "discurso indireto livre, com o pensamento da personagem incorporado à voz do narrador."
+      },
+      "resposta": "e",
+      "explicacao": "O trecho mantém a terceira pessoa do narrador, mas adota a avaliação e o ritmo da personagem — a repetição impaciente e a exclamação sobre a ideia absurda pertencem a quem pensa, não a quem narra —, e não há aspas, travessão nem verbo de dizer. O discurso direto exigiria a fala destacada; o indireto exigiria verbo introdutor e subordinação; a reprodução literal de enunciado anterior não ocorre; e a narração objetiva é justamente o que o trecho abandona ao entrar no pensamento."
+    },
+    {
+      "id": "interpretacao-texto-128",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "Considere a frase em discurso direto:\n\n— Amanhã eu resolvo isso aqui — disse o gerente.",
+      "enunciado": "A transposição correta dessa frase para o discurso indireto é",
+      "alternativas": {
+        "a": "O gerente disse que amanhã eu resolvo isso aqui.",
+        "b": "O gerente disse: que no dia seguinte resolveria aquilo ali.",
+        "c": "O gerente disse que amanhã ele resolveria isso aqui.",
+        "d": "O gerente disse que no dia seguinte resolveria aquilo ali.",
+        "e": "O gerente disse para resolver aquilo ali no dia seguinte."
+      },
+      "resposta": "d",
+      "explicacao": "A transposição exige três ajustes simultâneos: a pessoa passa de eu para ele, implícito na desinência; o tempo passa do presente resolvo ao futuro do pretérito resolveria; e os dêiticos amanhã e aqui, que dependem do momento da fala, passam a no dia seguinte e ali. A opção que conserva amanhã e aqui faz apenas o ajuste de pessoa; a que mantém eu não faz nem esse; a que usa dois-pontos mistura a pontuação do discurso direto; e a última converte a declaração em ordem, mudando o sentido."
+    },
+    {
+      "id": "interpretacao-texto-145",
+      "banca": "fgv",
+      "formato": "direta",
+      "texto_apoio": "Quatro trechos de um mesmo conto:\n\nI. — Não vou voltar lá — disse ela, sem olhar para trás.\nII. Ela disse que não voltaria àquele lugar.\nIII. Não voltaria. Nunca mais, custasse o que custasse, ela não punha os pés naquela casa.\nIV. Ela caminhou até o portão, girou a chave e desceu a rua.",
+      "enunciado": "O trecho em que ocorre discurso indireto livre é",
+      "alternativas": {
+        "a": "o III, em que o pensamento da personagem é assumido pela voz do narrador.",
+        "b": "o I, em que a fala da personagem aparece marcada por travessão.",
+        "c": "o II, em que a fala é reformulada pelo narrador com verbo introdutor.",
+        "d": "o IV, em que o narrador registra apenas as ações externas da personagem.",
+        "e": "nenhum, porque o discurso indireto livre exige narração em primeira pessoa."
+      },
+      "resposta": "a",
+      "explicacao": "Em III o narrador permanece na terceira pessoa, mas incorpora a decisão e a ênfase da personagem — o custasse o que custasse é dela, não dele — sem verbo de dizer, travessão ou aspas: é a definição do indireto livre. O trecho I é discurso direto, marcado por travessão; o II é indireto, com verbo introdutor e subordinação; o IV é narração de ações; e a exigência de primeira pessoa está errada, porque o procedimento se define justamente por ocorrer dentro da narração em terceira."
+    }
+  ]
+}

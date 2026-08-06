@@ -21,7 +21,7 @@
 (function () {
   // Contador de cache do CONTEÚDO, separado do ?v= do código (ver o comentário
   // longo no topo do index.html). Corrigiu uma questão? Incremente aqui.
-  const DATA_VERSION = 18;
+  const DATA_VERSION = 19;
 
   // A chave da trilha ativa é a única que vive FORA do namespace de trilha —
   // é ela que diz qual namespace usar. Sobe pra nuvem junto com o resto.
@@ -74,6 +74,10 @@
               "enredo. Sem equivalente na prova do Insper.",
         rodape: "lista do edital 2027.1",
         rotuloAnalise: "Eixo da banca",
+        complementaresTitulo: "Leituras complementares",
+        complementaresHint: "Estas obras não constam da lista oficial do edital 2027.1: dez caíram de ciclos anteriores da FGV e " +
+                            "sete são a lista de leitura obrigatória da FUVEST, que não vale para esta prova. Nenhuma é cobrada, mas " +
+                            "continuam úteis como repertório para a redação e para as discursivas. Priorize a lista de cima.",
       },
       plano: {
         totalDias: 90,
@@ -124,6 +128,13 @@
               "vale um terço da nota final e é o primeiro critério de desempate. Sem equivalente nas outras seis bancas.",
         rodape: "lista da resolução FUVEST 2026",
         rotuloAnalise: "Análise crítica",
+        complementaresTitulo: "Repertório complementar",
+        complementaresHint: "Estas 54 obras não estão na lista da FUVEST e nenhuma banca de Medicina as cobra: vêm do repertório " +
+                            "da trilha de Direito, montado sobre o edital de Artes da FGV. Estão aqui porque as bancas de Medicina " +
+                            "usam arte, cinema e música como fonte de questão mesmo sem publicar lista — a FUVEST 2026 abre um bloco " +
+                            "com Cézanne e obras de acervo do MASP, a Unesp parte de um ensaio sobre Courbet e de capa de álbum, e a " +
+                            "Unicamp usa cinema brasileiro. Como repertório de redação e de leitura de imagem, servem. Priorize a " +
+                            "lista de cima.",
       },
       plano: {
         totalDias: 90,

@@ -1494,11 +1494,18 @@
     const studied = loadJSON(LS_OBRAS_STUDIED, {});
     const studiedCount = obras.filter((o) => studied[o.id]).length;
 
-    // Duas listas: o que consta da lista oficial do edital 2027.1 e o que sobrou
-    // de ciclos anteriores. Manter tudo junto sob o rótulo "obrigatórias" daria
-    // ao candidato a impressão de que precisa estudar obras que não vão cair.
-    const obrigatorias = obras.filter((o) => !o.foraDoEdital2027);
-    const complementares = obras.filter((o) => o.foraDoEdital2027);
+    // Duas listas: o que a banca da trilha cobra de fato e o que é repertório.
+    // Manter tudo junto sob o rótulo "obrigatórias" daria ao candidato a
+    // impressão de que precisa estudar obras que não vão cair.
+    //
+    // Dois campos marcam a mesma coisa por razões históricas. `complementar` é
+    // o neutro e vale nas duas trilhas; `foraDoEdital2027` é o original, escrito
+    // quando só existia Direito, e quer dizer "caiu de um ciclo anterior do
+    // edital da FGV". Ele continua sendo lido para não obrigar a reescrever o
+    // banco de Direito, onde o nome ainda é exato.
+    const ehComplementar = (o) => o.complementar === true || o.foraDoEdital2027 === true;
+    const obrigatorias = obras.filter((o) => !ehComplementar(o));
+    const complementares = obras.filter(ehComplementar);
     const studiedObrig = obrigatorias.filter((o) => studied[o.id]).length;
 
     // Os rótulos vêm da trilha: a lista de Direito é a da prova de Artes da
@@ -1554,10 +1561,9 @@
       const subHeader = document.createElement("div");
       subHeader.style.marginTop = "32px";
       subHeader.innerHTML = `
-        <h2>Leituras complementares</h2>
-        <p class="hint">Estas obras <strong>não constam da lista oficial do edital 2027.1</strong> — vieram de
-        ciclos anteriores do vestibular. Não são cobradas, mas continuam úteis como repertório para a redação e
-        para as questões discursivas. Priorize a lista de cima.</p>
+        <h2>${escapeHtml(obrasUI.complementaresTitulo || "Leituras complementares")}</h2>
+        <p class="hint">${escapeHtml(obrasUI.complementaresHint ||
+          "Estas obras não são cobradas pela banca desta trilha, mas continuam úteis como repertório para a redação e para as questões discursivas. Priorize a lista de cima.")}</p>
       `;
       container.appendChild(subHeader);
 

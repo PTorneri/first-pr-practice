@@ -392,10 +392,23 @@ body {
   display: flex; gap: 10px; align-items: flex-start; border: 1px solid var(--border);
   border-radius: 10px; padding: 10px 12px; cursor: pointer; background: var(--surface);
 }
-.q-alt:hover { border-color: var(--accent); }
+/* Só a questão ainda aberta reage ao hover — depois de verificada, as bordas
+   pertencem ao gabarito (.correct/.incorrect) e não devem piscar no mouse. */
+.question:not(.is-answered) .q-alt:hover { border-color: var(--accent); }
 .q-alt input { margin-top: 3px; }
 .q-alt.correct { background: var(--good-soft); border-color: var(--good); }
 .q-alt.incorrect { background: var(--bad-soft); border-color: var(--bad); }
+.question.is-answered .q-alt { cursor: default; }
+
+/* Confirmação em dois passos: marcar a alternativa não responde a questão —
+   só o "Verificar resposta" grava e revela o gabarito. Um toque acidental
+   (ou um esbarrão no celular) passa a ser reversível. */
+.q-confirm { display: flex; align-items: center; gap: 12px; margin-top: 12px; flex-wrap: wrap; }
+.q-verify {
+  background: var(--accent); color: var(--accent-ink); padding: 9px 18px; font-size: 0.9rem;
+}
+.q-verify:disabled { opacity: 0.4; cursor: default; }
+.q-verify-hint { font-size: 0.82rem; color: var(--ink-soft); }
 .q-feedback {
   margin-top: 10px; padding: 10px 12px; border-radius: 10px; font-size: 0.92rem;
 }

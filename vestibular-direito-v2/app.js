@@ -2002,63 +2002,98 @@
       ${visualHtml}
       <div class="q-enunciado">${idx + 1}. ${escapeHtml(q.enunciado)} ${difficultyHtml}</div>
       <div class="q-alts">${altsHtml}</div>
+      <div class="q-confirm">
+        <button type="button" class="btn q-verify" disabled>Verificar resposta</button>
+        <span class="q-verify-hint">Escolha uma alternativa</span>
+      </div>
       <div class="q-feedback" hidden></div>
       <div class="q-report"></div>
     `;
 
     initQuestionReport(wrap, day, subtopicId, q);
 
-    if (saved) applyFeedback(wrap, q, saved);
+    const inputs = Array.from(wrap.querySelectorAll(".q-alt input"));
+    const confirmRow = wrap.querySelector(".q-confirm");
+    const verifyBtn = wrap.querySelector(".q-verify");
+    const verifyHint = wrap.querySelector(".q-verify-hint");
+
+    // Uma questão verificada fica travada: com o gabarito na tela, trocar de
+    // alternativa não ensina nada e só corrompe as estatísticas. Era esse o
+    // clique acidental que estragava a resolução — antes, qualquer toque numa
+    // alternativa já gravava (e um segundo toque regravava por cima).
+    function lockQuestion() {
+      wrap.classList.add("is-answered");
+      inputs.forEach((input) => { input.disabled = true; });
+      confirmRow.hidden = true;
+    }
+
+    if (saved) {
+      applyFeedback(wrap, q, saved);
+      lockQuestion();
+    }
 
     // Listen on the radio inputs' "change" event (fires exactly once per
     // selection) rather than "click" on the wrapping <label> — clicking a
     // <label> associated with an <input> dispatches a click on the label
     // AND a synthetic click on the input that bubbles back through it,
     // which double-fires a click listener attached to the label.
-    wrap.querySelectorAll(".q-alt input").forEach((input) => {
+    //
+    // Marcar só arma o botão: nada é gravado até o "Verificar resposta",
+    // então dá pra trocar de ideia (ou desfazer um toque errado) à vontade.
+    inputs.forEach((input) => {
       input.addEventListener("change", () => {
-        const letter = input.value;
-        const current = getAnswers();
-        const alreadyAnsweredGlobally = !!current[key];
-        current[key] = letter;
-        saveJSON(LS_ANSWERS, current);
-        touchTopicLastAnswered(subtopicId);
-        registerStudyToday();
-        applyFeedback(wrap, q, letter);
-        if (!alreadyAnsweredGlobally) {
-          bumpTopicState(subtopicId, letter === q.resposta);
-        } else {
-          recomputeAll(); // recalcula stats de frente do zero (resposta global mudou)
-        }
-        if (day != null) {
-          // Grava por OCORRÊNCIA (dia específico) — não confundir com
-          // alreadyAnsweredGlobally acima, que é sobre a frente como um
-          // todo. bumpDayState só soma ao contador do dia na primeira vez
-          // que ESSE dia específico responde essa questão.
-          const dayAnswers = getDayAnswers();
-          const dKey = dayAnswerKey(day, subtopicId, q.id);
-          const alreadyAnsweredThisDay = !!dayAnswers[dKey];
-          dayAnswers[dKey] = letter;
-          saveJSON(LS_DAY_ANSWERS, dayAnswers);
-          if (!alreadyAnsweredThisDay) {
-            bumpDayState(day, letter === q.resposta);
-          } else {
-            recomputeAll();
-          }
-        }
-        const card = wrap.closest(".lesson-card");
-        if (card) updateScoreLabel(card);
-        if (day != null) {
-          updateDayStateFromDom(day);
-          const focusEl = card && card.querySelector(".simulado-focus");
-          if (focusEl) renderSimuladoFocus(focusEl, day, getDayContent(plan, day));
-          renderDissertSection(day);
-          updateDayChecklist(day);
-        }
-        renderProgress();
-        renderCalendar();
-        if (onAnswered) onAnswered(letter === q.resposta);
+        if (wrap.classList.contains("is-answered")) return;
+        verifyBtn.disabled = false;
+        verifyHint.textContent = `Marcada: ${input.value.toUpperCase()}. Dá pra trocar até verificar.`;
       });
+    });
+
+    verifyBtn.addEventListener("click", () => {
+      if (wrap.classList.contains("is-answered")) return;
+      const chosen = inputs.find((input) => input.checked);
+      if (!chosen) return;
+      const letter = chosen.value;
+      lockQuestion();
+      const current = getAnswers();
+      const alreadyAnsweredGlobally = !!current[key];
+      current[key] = letter;
+      saveJSON(LS_ANSWERS, current);
+      touchTopicLastAnswered(subtopicId);
+      registerStudyToday();
+      applyFeedback(wrap, q, letter);
+      if (!alreadyAnsweredGlobally) {
+        bumpTopicState(subtopicId, letter === q.resposta);
+      } else {
+        recomputeAll(); // recalcula stats de frente do zero (resposta global mudou)
+      }
+      if (day != null) {
+        // Grava por OCORRÊNCIA (dia específico) — não confundir com
+        // alreadyAnsweredGlobally acima, que é sobre a frente como um
+        // todo. bumpDayState só soma ao contador do dia na primeira vez
+        // que ESSE dia específico responde essa questão.
+        const dayAnswers = getDayAnswers();
+        const dKey = dayAnswerKey(day, subtopicId, q.id);
+        const alreadyAnsweredThisDay = !!dayAnswers[dKey];
+        dayAnswers[dKey] = letter;
+        saveJSON(LS_DAY_ANSWERS, dayAnswers);
+        if (!alreadyAnsweredThisDay) {
+          bumpDayState(day, letter === q.resposta);
+        } else {
+          recomputeAll();
+        }
+      }
+      const card = wrap.closest(".lesson-card");
+      if (card) updateScoreLabel(card);
+      if (day != null) {
+        updateDayStateFromDom(day);
+        const focusEl = card && card.querySelector(".simulado-focus");
+        if (focusEl) renderSimuladoFocus(focusEl, day, getDayContent(plan, day));
+        renderDissertSection(day);
+        updateDayChecklist(day);
+      }
+      renderProgress();
+      renderCalendar();
+      if (onAnswered) onAnswered(letter === q.resposta);
     });
 
     return wrap;

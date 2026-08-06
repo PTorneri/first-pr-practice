@@ -7,7 +7,7 @@
                          "enunciado":  "A intensificação do efeito estufa observada nas últimas décadas está relacionada, principalmente, ao(à)",
                          "alternativas":  {
                                               "a":  "intensificação da atividade das manchas solares ao longo do último século, que teria elevado a radiação recebida pela Terra",
-                                              "b":  "aumento do buraco na camada de ozônio, que permitiria a entrada de mais radiação solar e o consequente aquecimento da superfície",
+                                              "b":  "ao alargamento do buraco na camada de ozônio sobre as regiões polares, que permitiria a entrada de uma parcela maior da radiação solar e o consequente aquecimento gradual da superfície do planeta",
                                               "c":  "diminuição da radiação solar incidente sobre a Terra, o que reduziria o aquecimento da superfície terrestre",
                                               "d":  "elevação da concentração de gases como o dióxido de carbono na atmosfera, decorrente sobretudo da queima de combustíveis fósseis",
                                               "e":  "redução da atividade vulcânica no planeta, o que diminuiria a emissão natural de aerossóis que resfriam a atmosfera"
@@ -641,7 +641,7 @@
                                               "a":  "responder de forma rápida e pouco específica a diferentes agentes infecciosos, como ocorre na imunidade inata",
                                               "b":  "estar presente de forma mais desenvolvida em invertebrados do que em vertebrados, incluindo os seres humanos",
                                               "c":  "desenvolver resposta mais lenta na primeira exposição a um patógeno, mas gerar memória imunológica para respostas futuras rápidas",
-                                              "d":  "não envolver a produção de anticorpos em nenhuma etapa do processo imunológico, contrariando o mecanismo da resposta adaptativa",
+                                              "d":  "dispensar a participação de linfócitos na resposta, que passa a ser conduzida diretamente pelas proteínas do sistema complemento presentes no plasma desde o nascimento do indivíduo",
                                               "e":  "atuar exclusivamente por meio de barreiras físicas, como pele e mucosas"
                                           },
                          "resposta":  "c",
@@ -658,7 +658,7 @@
                                               "b":  "resulta de deficiência congênita na produção de linfócitos pelo timo",
                                               "c":  "está associada, sobretudo, à exposição a poluentes ambientais, com pouca participação do sistema imunológico do paciente",
                                               "d":  "resulta, principalmente, de deficiências nutricionais na dieta, que decorrem de má nutrição, e não de ataque imunológico",
-                                              "e":  "é causada pela invasão persistente de um agente infeccioso externo ao organismo, como ocorre nas doenças infecciosas crônicas"
+                                              "e":  "é causada pela permanência de um agente infeccioso externo no organismo, que mantém a inflamação ativa por longos períodos, como se observa nas doenças infecciosas de evolução crônica"
                                           },
                          "resposta":  "a",
                          "explicacao":  "Nas doenças autoimunes, o sistema imunológico do próprio organismo passa a reconhecer erroneamente células, tecidos ou órgãos saudáveis como se fossem estruturas estranhas ou ameaçadoras, atacando-os e provocando inflamação e dano tecidual, como ocorre, por exemplo, na destruição das células produtoras de insulina no diabetes tipo 1.",
@@ -689,7 +689,7 @@
                                               "a":  "pouca relação com transtornos do humor, que seriam determinados, sobretudo, por fatores sociais e econômicos",
                                               "b":  "alterações irreversíveis na estrutura anatômica do sistema nervoso central",
                                               "c":  "uma explicação completa e isolada para todos os casos de depressão, dispensando a consideração de fatores psicológicos ou sociais",
-                                              "d":  "processos relacionados, principalmente, à regulação do apetite e da digestão, com participação secundária na regulação do humor",
+                                              "d":  "processos ligados sobretudo à regulação do apetite e do trânsito intestinal, funções em que a serotonina produzida no intestino atua de forma mais intensa do que no encéfalo",
                                               "e":  "quadros de depressão, embora essa relação não explique isoladamente e de forma completa a complexidade multifatorial do transtorno"
                                           },
                          "resposta":  "e",
@@ -721,7 +721,7 @@
                                               "a":  "pode causar danos ao DNA das células da pele, favorecendo mutações que, acumuladas ao longo do tempo, podem levar a tumores",
                                               "b":  "é bloqueada integralmente pela camada de ozônio na maior parte do globo, restando expostas apenas as regiões polares",
                                               "c":  "estimula, sobretudo, a produção de melanina protetora, efeito que superaria os riscos associados à exposição prolongada",
-                                              "d":  "reduz permanentemente a temperatura da pele exposta, impedindo qualquer inflamação, efeito térmico que a radiação UV não produz",
+                                              "d":  "aquece as camadas mais profundas da derme e provoca a dilatação dos vasos sanguíneos locais, processo inflamatório que com o tempo desorganizaria o tecido de sustentação da pele",
                                               "e":  "provoca danos por aquecimento direto das camadas profundas da derme"
                                           },
                          "resposta":  "a",
@@ -734,7 +734,7 @@
                          "texto_apoio":  "Na década de 1980, cientistas identificaram um afinamento significativo da camada de ozônio sobre a Antártida, o chamado \"buraco na camada de ozônio\".",
                          "enunciado":  "O afinamento da camada de ozônio observado a partir da década de 1980 foi associado, principalmente, à emissão de",
                          "alternativas":  {
-                                              "a":  "dióxido de carbono proveniente da queima de combustíveis fósseis, gás associado ao efeito estufa, não à destruição do ozônio",
+                                              "a":  "dióxido de carbono proveniente da queima de combustíveis fósseis, cuja concentração crescente na atmosfera aqueceria a estratosfera e aceleraria a decomposição das moléculas de ozônio",
                                               "b":  "metano liberado pela decomposição anaeróbia de matéria orgânica",
                                               "c":  "oxigênio molecular produzido pela fotossíntese em excesso, gás que não destrói moléculas de ozônio na estratosfera",
                                               "d":  "clorofluorcarbonos (CFCs), substâncias usadas em aerossóis e refrigeradores, que destroem moléculas de ozônio na estratosfera",
@@ -959,7 +959,7 @@
                          "enunciado":  "Entre as preocupações levantadas por críticos do uso amplo de transgênicos na agricultura está o risco de",
                          "alternativas":  {
                                               "a":  "eliminação, no longo prazo, da capacidade reprodutiva de qualquer inseto-praga que se alimente da lavoura, efeito não demonstrado, já que pragas podem desenvolver resistência ao longo de gerações",
-                                              "b":  "aumento constante da diversidade genética das lavouras, em razão da grande variedade de sementes transgênicas comercializadas, tendência oposta à concentração varietal observada na prática comercial",
+                                              "b":  "transferência dos genes de resistência a herbicidas para as bactérias do solo durante a decomposição das raízes, processo que reduziria a fertilidade das áreas cultivadas e exigiria doses crescentes de fertilizante a cada safra",
                                               "c":  "redução da diversidade genética das lavouras, concentradas em poucas variedades modificadas, risco de fluxo gênico para espécies silvestres e maior dependência de poucas empresas fornecedoras de sementes",
                                               "d":  "impossibilidade de rastrear a origem das sementes utilizadas no plantio",
                                               "e":  "impossibilidade técnica de qualquer planta transgênica sobreviver fora de ambiente controlado de laboratório, afirmação que contraria o cultivo comercial em larga escala já praticado a campo"
@@ -1087,7 +1087,7 @@
                          "enunciado":  "A explicação física para a capacidade de um navio de aço flutuar, apesar da alta densidade do material de que é feito, está relacionada",
                          "alternativas":  {
                                               "a":  "à conversão do aço em um material menos denso do que a água ao entrar em contato com o mar, transformação química que não ocorre e não explica a flutuação de embarcações metálicas",
-                                              "b":  "principalmente à velocidade do navio, sendo o formato do casco um fator apenas secundário, inversão do papel real, já que até navios parados permanecem flutuando pelo empuxo",
+                                              "b":  "à velocidade da embarcação, que gera sob o casco uma sustentação hidrodinâmica comparável à das asas de um avião, sendo o formato do casco projetado justamente para maximizar esse efeito durante a navegação",
                                               "c":  "ao princípio de Arquimedes: o empuxo depende do volume de fluido deslocado, e não apenas da densidade do material, pois o casco desloca grande volume de água em relação ao peso do navio",
                                               "d":  "à ausência completa de qualquer força de gravidade atuando sobre embarcações de grande porte, hipótese fisicamente impossível, já que a gravidade atua sobre qualquer corpo com massa",
                                               "e":  "à tensão superficial da água, que sustenta corpos de grande superfície de contato"
@@ -1137,7 +1137,7 @@
                                               "a":  "proteínas complexas, em um processo que consome dióxido de carbono do ambiente em vez de liberá-lo",
                                               "b":  "ácido acético e água, resultado da oxidação completa do açúcar",
                                               "c":  "álcool etílico (etanol) e dióxido de carbono, na ausência de oxigênio, como forma de obtenção de energia pelas leveduras",
-                                              "d":  "ácido lático, o mesmo produto formado na fermentação realizada pelas células musculares humanas em esforço intenso",
+                                              "d":  "ácido lático, o mesmo produto formado nas células musculares humanas durante o esforço intenso, quando a chegada de oxigênio não acompanha a demanda energética do tecido",
                                               "e":  "oxigênio molecular e água, na presença de oxigênio, de forma semelhante à respiração celular aeróbica"
                                           },
                          "resposta":  "c",
@@ -1151,7 +1151,7 @@
                          "enunciado":  "Do ponto de vista da termoquímica, reações que absorvem energia térmica do ambiente ao ocorrer, como a de uma bolsa de gelo instantâneo, são classificadas como",
                          "alternativas":  {
                                               "a":  "exotérmicas, pois liberam calor para o ambiente ao redor, classificação oposta à observada no resfriamento da bolsa de gelo instantâneo",
-                                              "b":  "nucleares, por envolverem obrigatoriamente alterações no núcleo dos átomos reagentes, processo distinto de reações químicas comuns, que alteram apenas a eletrosfera",
+                                              "b":  "reações de dissolução, categoria à parte na termoquímica porque a energia envolvida na separação dos íons do sal não corresponde a uma ligação química rompida e sim a uma interação com as moléculas de água",
                                               "c":  "neutras, por não envolverem qualquer troca de energia térmica com o ambiente, categoria inexistente em termoquímica, já que toda reação envolve alguma troca de calor",
                                               "d":  "endotérmicas, pois absorvem calor do ambiente ao redor, o que reduz a temperatura da vizinhança, como ocorre na dissolução de certos sais usados em compressas frias",
                                               "e":  "catalíticas, por dependerem da presença de uma substância que acelera o processo"
@@ -1313,7 +1313,7 @@
                                               "a":  "misturar aleatoriamente o material genético de dois indivíduos diferentes para gerar um terceiro, descrição própria da reprodução sexuada, não da clonagem",
                                               "b":  "eliminar completamente qualquer material genético do organismo original, afirmação que contraria o próprio princípio de preservação genética da clonagem",
                                               "c":  "combinar material genético de duas espécies distintas em um único organismo",
-                                              "d":  "acelerar artificialmente o processo natural de reprodução sexuada entre dois indivíduos da mesma espécie, descrição que corresponde à reprodução assistida, não à clonagem",
+                                              "d":  "estimular a divisão de um óvulo já fecundado até que ele se separe em duas massas celulares independentes, cada uma capaz de originar um indivíduo completo com a mesma composição genética",
                                               "e":  "produzir um novo organismo geneticamente idêntico (ou quase idêntico) a um já existente, a partir do material genético do núcleo de uma célula somática desse organismo original"
                                           },
                          "resposta":  "e",
@@ -1504,7 +1504,7 @@
                          "alternativas":  {
                                               "a":  "do calor natural armazenado no interior da Terra, que aquece água ou vapor subterrâneo, usados para movimentar turbinas e gerar eletricidade ou para aquecimento direto",
                                               "b":  "da diferença de temperatura entre as camadas superficiais e profundas dos oceanos",
-                                              "c":  "do movimento das marés oceânicas em regiões costeiras próximas a vulcões, fonte que caracteriza a energia maremotriz, distinta da geotérmica",
+                                              "c":  "do calor liberado pelo atrito entre as placas tectônicas em regiões de contato, energia que seria captada por trocadores instalados a poucas centenas de metros de profundidade no terreno",
                                               "d":  "exclusivamente da energia liberada por reações de fissão nuclear no núcleo terrestre, processo que não corresponde ao decaimento radioativo natural que origina o calor geotérmico",
                                               "e":  "da luz solar concentrada por espelhos posicionados sobre reservatórios subterrâneos de água, tecnologia que caracteriza a energia solar concentrada, não a geotérmica"
                                           },

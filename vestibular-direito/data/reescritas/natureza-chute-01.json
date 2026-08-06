@@ -1,0 +1,101 @@
+{
+  "_comentario": [
+    "ciencias-natureza é a única frente que estoura o alvo dela: 31% de",
+    "chutabilidade contra os 30% por frente do verify-banco.ps1 (linha 121). As",
+    "outras quatro acima de 25% -- ingles 27,7%, historia-brasil 26,2%,",
+    "artes-cultura 26%, interpretacao-texto 25,3% -- ficam abaixo dos 30% e não são",
+    "violação; o alvo de 25% é o do índice global, que está em 19,4%.",
+    "",
+    "Mas ao abrir as 31 questões ofensoras apareceu um defeito maior que o do",
+    "comprimento: a CAUDA DELATORA. Muitos distratores terminam explicando por que",
+    "eles mesmos estão errados -- 'efeito não demonstrado, já que pragas podem",
+    "desenvolver resistência', 'processo que não corresponde ao decaimento",
+    "radioativo natural', 'classificação oposta à observada no resfriamento'. Quem",
+    "lê isso elimina a alternativa sem saber nada de biologia ou de química: o",
+    "distrator entrega o gabarito.",
+    "",
+    "Medido em todo o banco, 193 de 7.260 distratores têm cauda delatora (2,7%),",
+    "mas a concentração conta a história: ciencias-natureza 13,2%,",
+    "filosofia-sociologia 9,8%, artes-cultura 9,5%, e o resto perto de zero. São",
+    "exatamente as três últimas frentes da fila de conversão 4->5 da Fase 5 -- a",
+    "quinta alternativa foi escrita com uma justificativa pendurada no fim, e nas",
+    "frentes reescritas depois isso não aconteceu.",
+    "",
+    "As duas coisas se reforçam: a cauda faz o distrator soar falso E encurta o",
+    "conjunto plausível, o que deixa a alternativa certa como a mais longa entre as",
+    "sobreviventes. Corrigir a cauda corrige os dois de uma vez.",
+    "",
+    "Este lote troca um distrator em 12 das 31 ofensoras. Onde havia cauda",
+    "delatora, ela sai e entra afirmação errada mas sustentável -- do tipo que um",
+    "candidato mal preparado escolheria de verdade. Onde o distrator já era",
+    "plausível, ele ganha conteúdo. Em todos os 12 o texto novo passa a ser mais",
+    "longo que a alternativa certa, sem palavra categórica e sem se autodenunciar.",
+    "31 ofensoras caem para 19, ou 19%.",
+    "",
+    "A alternativa certa não é tocada em nenhuma das 12: encurtá-la para ganhar a",
+    "métrica tiraria dela o raciocínio que a questão ensina."
+  ],
+  "subtopic": "ciencias-natureza",
+  "substituicoes": [
+    {
+      "id": "ciencias-natureza-01",
+      "letra": "b",
+      "texto": "ao alargamento do buraco na camada de ozônio sobre as regiões polares, que permitiria a entrada de uma parcela maior da radiação solar e o consequente aquecimento gradual da superfície do planeta"
+    },
+    {
+      "id": "ciencias-natureza-43",
+      "letra": "d",
+      "texto": "dispensar a participação de linfócitos na resposta, que passa a ser conduzida diretamente pelas proteínas do sistema complemento presentes no plasma desde o nascimento do indivíduo"
+    },
+    {
+      "id": "ciencias-natureza-44",
+      "letra": "e",
+      "texto": "é causada pela permanência de um agente infeccioso externo no organismo, que mantém a inflamação ativa por longos períodos, como se observa nas doenças infecciosas de evolução crônica"
+    },
+    {
+      "id": "ciencias-natureza-46",
+      "letra": "d",
+      "texto": "processos ligados sobretudo à regulação do apetite e do trânsito intestinal, funções em que a serotonina produzida no intestino atua de forma mais intensa do que no encéfalo"
+    },
+    {
+      "id": "ciencias-natureza-48",
+      "letra": "d",
+      "texto": "aquece as camadas mais profundas da derme e provoca a dilatação dos vasos sanguíneos locais, processo inflamatório que com o tempo desorganizaria o tecido de sustentação da pele"
+    },
+    {
+      "id": "ciencias-natureza-49",
+      "letra": "a",
+      "texto": "dióxido de carbono proveniente da queima de combustíveis fósseis, cuja concentração crescente na atmosfera aqueceria a estratosfera e aceleraria a decomposição das moléculas de ozônio"
+    },
+    {
+      "id": "ciencias-natureza-63",
+      "letra": "b",
+      "texto": "transferência dos genes de resistência a herbicidas para as bactérias do solo durante a decomposição das raízes, processo que reduziria a fertilidade das áreas cultivadas e exigiria doses crescentes de fertilizante a cada safra"
+    },
+    {
+      "id": "ciencias-natureza-71",
+      "letra": "b",
+      "texto": "à velocidade da embarcação, que gera sob o casco uma sustentação hidrodinâmica comparável à das asas de um avião, sendo o formato do casco projetado justamente para maximizar esse efeito durante a navegação"
+    },
+    {
+      "id": "ciencias-natureza-74",
+      "letra": "d",
+      "texto": "ácido lático, o mesmo produto formado nas células musculares humanas durante o esforço intenso, quando a chegada de oxigênio não acompanha a demanda energética do tecido"
+    },
+    {
+      "id": "ciencias-natureza-75",
+      "letra": "b",
+      "texto": "reações de dissolução, categoria à parte na termoquímica porque a energia envolvida na separação dos íons do sal não corresponde a uma ligação química rompida e sim a uma interação com as moléculas de água"
+    },
+    {
+      "id": "ciencias-natureza-85",
+      "letra": "d",
+      "texto": "estimular a divisão de um óvulo já fecundado até que ele se separe em duas massas celulares independentes, cada uma capaz de originar um indivíduo completo com a mesma composição genética"
+    },
+    {
+      "id": "ciencias-natureza-97",
+      "letra": "c",
+      "texto": "do calor liberado pelo atrito entre as placas tectônicas em regiões de contato, energia que seria captada por trocadores instalados a poucas centenas de metros de profundidade no terreno"
+    }
+  ]
+}

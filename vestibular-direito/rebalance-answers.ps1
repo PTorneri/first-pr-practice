@@ -30,6 +30,26 @@
 #    asserção I aparece em quatro das cinco opções, quem conclui que I é
 #    falsa chega direto em (c). Embaralhar destrói isso. Agora questões com
 #    formato "escada" são puladas.
+#
+# 4. Ela reembaralhava questões cuja EXPLICAÇÃO cita alternativa por letra.
+#    Move-Resposta não mexe só no gabarito: a linha do Shuffle redistribui os
+#    distratores entre as letras restantes. Numa questão cuja explicação diz
+#    "Em (b) está o distrator que exige a distinção mais fina", o texto que
+#    estava em (b) vai para outra letra e a frase passa a refutar a alternativa
+#    errada -- em silêncio, porque nada no arquivo fica malformado. O aluno lê
+#    um comentário que não corresponde ao que está na tela.
+#
+#    Medido em 2026-08: 397 das 1.992 questões (19,9%) citam letra na
+#    explicação. Nenhuma está corrompida hoje, porque as frentes rebalanceadas
+#    em 03/08 foram reescritas depois; mas o script continuava a um -Frente de
+#    distância de quebrar todas. O plano diz "nunca reexecutar" e nada no
+#    código sustentava isso.
+#
+#    Agora essas questões são puladas, como as escadas. A alternativa seria
+#    reescrever as 397 explicações para nomear distrator por conteúdo -- que é
+#    a convenção do resto do banco e o que torna a permutação segura (ver
+#    permutar-alternativas.ps1). Enquanto isso não for feito, pular é o que
+#    preserva a correção sem pedir nada de quem roda o script.
 
 param(
   [Parameter(Mandatory = $true)][string]$Frente,
@@ -105,8 +125,19 @@ Invoke-SelfTest
 $json = Get-Content -Raw -Encoding UTF8 $arquivo | ConvertFrom-Json
 $questoes = @($json.questoes)
 
+# Pega "(a)", "alternativa b", "letra c", "opção d" -- e deixa passar "a", "e",
+# "o" como palavras comuns, que é por isso que o padrão exige o parêntese ou o
+# substantivo antes. Mesmo padrão do permutar-alternativas.ps1, de propósito:
+# os dois protegem a mesma premissa.
+$LETRA_RX = '\(\s*[a-e]\s*\)|\b(alternativa|alternativas|letra|letras|opção|opções|item|itens)\s+[a-e]\b'
+
 # escadas ficam de fora: nelas a letra é determinada pelo conteúdo
 $elegiveis = @($questoes | Where-Object { $_.formato -ne "escada" })
+$puladasEscada = $questoes.Count - $elegiveis.Count
+
+# defeito 4: explicação que cita letra não sobrevive ao remapeamento
+$citamLetra = @($elegiveis | Where-Object { $_.explicacao -and $_.explicacao -match $LETRA_RX })
+$elegiveis = @($elegiveis | Where-Object { -not ($_.explicacao -and $_.explicacao -match $LETRA_RX) })
 $puladas = $questoes.Count - $elegiveis.Count
 
 $quatro = @($elegiveis | Where-Object { @($_.alternativas.PSObject.Properties.Name).Count -ne 5 }).Count
@@ -157,8 +188,11 @@ foreach ($l in $letras) { $dist[$l] = 0 }
 foreach ($q in $questoes) { if ($dist.ContainsKey($q.resposta)) { $dist[$q.resposta]++ } }
 $distTxt = ($letras | ForEach-Object { "$_=$($dist[$_])" }) -join "  "
 
+$resumoPuladas = "$puladasEscada escada(s) + $($citamLetra.Count) com letra citada na explicação"
+
 if ($Simular) {
-  Write-Output "$Frente : $n questões seriam rebalanceadas, $puladas escadas puladas, $movidas mudariam de letra"
+  Write-Output "$Frente : $n questões seriam rebalanceadas, $movidas mudariam de letra"
+  Write-Output "Puladas: $resumoPuladas"
   Write-Output "Gabarito final: $distTxt"
   Write-Output "(-Simular: nada foi gravado)"
   return
@@ -195,4 +229,9 @@ if ($movidas -gt 0) {
   Write-Output "Remap gravado em data/reescritas/remap-$Frente.json"
 }
 
+Write-Output "Puladas: $resumoPuladas"
+if ($citamLetra.Count -gt 0) {
+  Write-Output "  (para trazê-las ao rebalanceamento, reescreva a explicação nomeando"
+  Write-Output "   distrator por conteúdo em vez de por letra -- ver o defeito 4 no topo)"
+}
 Write-Output "Rode verify-banco.ps1 -Frente $Frente e depois build-bundle.ps1."

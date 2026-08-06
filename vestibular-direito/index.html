@@ -13,7 +13,26 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap">
-<link rel="stylesheet" href="styles.css">
+<!-- O GitHub Pages serve com Cache-Control: max-age=600, então quem já visitou
+     continua vendo a versão antiga por até dez minutos após uma publicação — e
+     mais, se o navegador resolver segurar. Até 2026-08 o v1 não tinha nenhum
+     contador aqui: uma questão corrigida podia demorar a chegar e não havia
+     como forçar. O v2 já resolvia assim, e o v1 ficou para trás.
+
+     São DOIS contadores, pelo mesmo motivo do v2: mexer no CSS não deveria
+     obrigar ninguém a rebaixar os 4 MB do banco de questões, e corrigir uma
+     questão não deveria rebaixar o CSS.
+
+       ?v=  CÓDIGO   — styles.css, schedule.js, app.js
+       ?d=  CONTEÚDO — tudo em data/
+
+     Ao publicar, incremente o contador do que mudou. Se mexeu em
+     data/questions/, rode build-bundle.ps1 antes.
+
+     O ?v= e o ?d= daqui são independentes dos do v2: são apps separados, com
+     ciclos de publicação próprios, e sincronizá-los só criaria a obrigação de
+     lembrar dos dois. -->
+<link rel="stylesheet" href="styles.css?v=1">
 </head>
 <body>
 <div id="app">
@@ -158,18 +177,18 @@
 
 </div>
 
-<script src="data/subtopics.js"></script>
-<script src="data/theory.js"></script>
-<script src="data/obras.js"></script>
-<script src="data/obras-questoes.js"></script>
-<script src="data/sync-config.js"></script>
-<script src="data/flashcards.js"></script>
-<script src="data/priority-weights.js"></script>
-<script src="data/video-topics.js"></script>
-<script src="data/bundle.js"></script>
-<script src="data/dissertativas.js"></script>
-<script src="data/redacoes.js"></script>
-<script src="schedule.js"></script>
-<script src="app.js"></script>
+<script src="data/subtopics.js?d=1"></script>
+<script src="data/theory.js?d=1"></script>
+<script src="data/obras.js?d=1"></script>
+<script src="data/obras-questoes.js?d=1"></script>
+<script src="data/sync-config.js?d=1"></script>
+<script src="data/flashcards.js?d=1"></script>
+<script src="data/priority-weights.js?d=1"></script>
+<script src="data/video-topics.js?d=1"></script>
+<script src="data/bundle.js?d=1"></script>
+<script src="data/dissertativas.js?d=1"></script>
+<script src="data/redacoes.js?d=1"></script>
+<script src="schedule.js?v=1"></script>
+<script src="app.js?v=1"></script>
 </body>
 </html>

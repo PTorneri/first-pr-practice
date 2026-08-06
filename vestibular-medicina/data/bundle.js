@@ -6893,6 +6893,909 @@ window.QUESTION_BANKS = {
                           "formato":  "direta"
                       }
                   ],
+    "ingles":  [
+                   {
+                       "id":  "ingles-01",
+                       "textoId":  "med-ing-t1",
+                       "enunciado":  "De acordo com o texto, o principal problema do ruído hospitalar é que ele:",
+                       "alternativas":  {
+                                            "a":  "prejudica a comunicação entre os profissionais durante os procedimentos realizados nas enfermarias e nos corredores das unidades hospitalares",
+                                            "b":  "impede que a equipe ouça os alarmes dos monitores, o que compromete a segurança dos pacientes internados nas unidades de terapia intensiva",
+                                            "c":  "impede o sono profundo, o que atrasa a recuperação dos pacientes",
+                                            "d":  "reduz a concentração da equipe de plantão, principal causa dos erros de medicação registrados nas unidades estudadas pelos pesquisadores",
+                                            "e":  "aumenta o custo de manutenção dos equipamentos, que se desgastam mais rapidamente em ambientes de elevada intensidade sonora contínua"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "O segundo parágrafo é explícito: os estágios profundos do sono, \"the ones that matter most for healing\", ficam inalcançáveis, e pacientes que dormem mal \"stay longer\". O incômodo é o de menos.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-02",
+                       "textoId":  "med-ing-t1",
+                       "enunciado":  "No trecho \"corridors built to carry sound rather than absorb it\", a expressão \"rather than\" estabelece relação de:",
+                       "alternativas":  {
+                                            "a":  "oposição entre duas possibilidades, com preferência pela primeira",
+                                            "b":  "adição entre dois elementos que se somam na descrição do ambiente hospitalar apresentado pelo autor no primeiro parágrafo do texto",
+                                            "c":  "causa e consequência, indicando que a segunda característica decorre necessariamente da primeira nas construções descritas pelo autor",
+                                            "d":  "comparação de igualdade, apontando que as duas propriedades ocorrem na mesma intensidade nos corredores mencionados pelo texto",
+                                            "e":  "condição, estabelecendo o requisito necessário para que a propriedade descrita se verifique no ambiente hospitalar tratado pelo texto"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"Rather than\" contrapõe duas alternativas e indica qual delas se aplica: os corredores conduzem o som em vez de absorvê-lo. É construção de escolha, não de soma nem de causa.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-03",
+                       "textoId":  "med-ing-t1",
+                       "enunciado":  "Em \"a surprising share of it is not clinical at all\", o pronome \"it\" retoma:",
+                       "alternativas":  {
+                                            "a":  "the problem, termo empregado pelo autor no início do segundo parágrafo para introduzir a discussão desenvolvida ao longo do texto",
+                                            "b":  "the ward, ambiente descrito no início do parágrafo em que a construção aparece empregada ao longo do texto apresentado ao leitor",
+                                            "c":  "the alarm, equipamento mencionado na frase imediatamente anterior à construção destacada no enunciado desta questão sobre o texto",
+                                            "d":  "the maintenance, atividade citada no encerramento do mesmo parágrafo em que se encontra o trecho apontado para análise no enunciado",
+                                            "e":  "the noise"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "O parágrafo começa com \"some of the noise is unavoidable\" e a frase seguinte contrapõe uma parcela dele. \"Share of it\" só faz sentido se \"it\" for o ruído — é dele que se está repartindo uma fração.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-04",
+                       "textoId":  "med-ing-t1",
+                       "enunciado":  "O texto afirma que cartazes pedindo silêncio funcionam menos do que outras medidas porque estas:",
+                       "alternativas":  {
+                                            "a":  "são aplicadas por profissionais externos à instituição, o que garante maior rigor no cumprimento das normas estabelecidas para cada setor",
+                                            "b":  "alteram as condições materiais que produzem o ruído",
+                                            "c":  "têm custo mais elevado e por isso recebem atenção prioritária dos gestores responsáveis pela administração das unidades hospitalares",
+                                            "d":  "atingem apenas os visitantes, grupo que segundo o texto responde pela maior parte do ruído registrado nas enfermarias durante o dia",
+                                            "e":  "são obrigatórias por norma sanitária, ao contrário das campanhas informativas, cuja adoção fica a critério de cada estabelecimento de saúde"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "As medidas listadas — trocar superfícies, consertar rodas, ajustar limiares de alarme — mexem no que produz o som, não na disposição de quem trabalha. E o texto acrescenta: medir muda comportamento melhor do que instruir.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-05",
+                       "textoId":  "med-ing-t1",
+                       "enunciado":  "A frase final do texto sugere que as medidas contra o ruído não são adotadas principalmente por:",
+                       "alternativas":  {
+                                            "a":  "não terem eficácia comprovada por estudos, o que impede que sejam recomendadas pelas diretrizes clínicas atualmente adotadas nos serviços",
+                                            "b":  "exigirem investimento superior ao custo de manter um paciente internado por um dia adicional na mesma unidade em que ele se encontra",
+                                            "c":  "dependerem de aprovação prévia de órgãos reguladores externos, processo que costuma levar mais tempo do que a duração média das internações",
+                                            "d":  "não aparecerem nos indicadores que os hospitais costumam acompanhar",
+                                            "e":  "gerarem resistência por parte das equipes assistenciais, que segundo o texto consideram o ruído inevitável no ambiente hospitalar em que atuam"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "\"None of this is expensive... It is simply less visible than the things hospitals usually count.\" O obstáculo não é o custo — o texto o afasta expressamente —, é o fato de o problema não entrar na contabilidade.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-06",
+                       "textoId":  "med-ing-t1",
+                       "enunciado":  "A palavra \"ward\", no contexto do texto, significa:",
+                       "alternativas":  {
+                                            "a":  "guarda, no sentido do profissional responsável pelo controle de acesso às dependências do estabelecimento hospitalar mencionado no texto",
+                                            "b":  "enfermaria",
+                                            "c":  "turno, designando o período de trabalho cumprido pelas equipes de plantão nas unidades descritas ao longo do texto apresentado ao leitor",
+                                            "d":  "prontuário, documento em que se registram as informações clínicas de cada paciente internado na unidade descrita pelo autor do texto",
+                                            "e":  "leito, referindo-se especificamente à cama ocupada por cada um dos pacientes internados na unidade hospitalar tratada pelo texto"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "O contexto resolve: \"a modern hospital ward is rarely quiet\", com monitores, portas e corredores. É a unidade de internação, e não a pessoa nem o período — sentidos que \"ward\" não tem em inglês.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-07",
+                       "textoId":  "med-ing-t1",
+                       "enunciado":  "Ao afirmar que \"a ward where nobody spoke would not be safer\", o autor:",
+                       "alternativas":  {
+                                            "a":  "contradiz o argumento apresentado nos parágrafos anteriores, abandonando a posição que vinha sustentando desde o início do texto publicado",
+                                            "b":  "defende a implantação de protocolos de silêncio absoluto nas unidades de internação durante os períodos destinados ao repouso dos pacientes",
+                                            "c":  "atribui aos profissionais de saúde a responsabilidade principal pelo excesso de ruído registrado nas unidades estudadas pelos pesquisadores",
+                                            "d":  "reconhece um limite para a própria proposta, evitando a conclusão extrema",
+                                            "e":  "sugere que a comunicação verbal entre os membros da equipe deveria ser substituída por sistemas eletrônicos de registro e de notificação interna"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "O parágrafo abre concedendo — parte do ruído é inevitável, alarmes existem por um motivo — e essa frase fecha a concessão. Delimitar a tese antes de retomá-la é o que impede a leitura caricata.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-08",
+                       "textoId":  "med-ing-t1",
+                       "enunciado":  "Em \"Patients who sleep badly stay longer\", o verbo \"stay\" refere-se a permanecer:",
+                       "alternativas":  {
+                                            "a":  "internado no hospital",
+                                            "b":  "acordado durante a noite, situação descrita pelo autor como consequência direta do ruído registrado nas unidades hospitalares estudadas",
+                                            "c":  "sob observação da equipe de enfermagem, procedimento adotado nos casos em que se identifica risco elevado de confusão mental no paciente",
+                                            "d":  "em uso de medicação analgésica, conduta que segundo o texto se prolonga nos pacientes que apresentam padrão de sono fragmentado à noite",
+                                            "e":  "na mesma posição no leito, condição que o texto associa ao aparecimento de complicações entre os pacientes de maior idade internados"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A frase enumera consequências clínicas: ficam mais tempo, precisam de mais analgesia, confundem-se mais. \"Stay longer\" é tempo de internação — leitura que o fecho do texto confirma ao falar em \"an extra day in a bed\".",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-09",
+                       "textoId":  "med-ing-t1",
+                       "enunciado":  "A frase \"Measurement changes behaviour more reliably than instruction does\" pode ser traduzida como:",
+                       "alternativas":  {
+                                            "a":  "\"O comportamento medido pelos pesquisadores mudou de modo confiável após a divulgação das instruções afixadas nos corredores da unidade\"",
+                                            "b":  "\"A medida do comportamento é mais confiável quando acompanhada de instrução adequada por parte dos responsáveis pela unidade em questão\"",
+                                            "c":  "\"Mudanças de comportamento exigem instrumentos de medição mais confiáveis do que aqueles atualmente disponíveis nas unidades hospitalares\"",
+                                            "d":  "\"Instruir a equipe é mais confiável do que medir o comportamento dela ao longo dos turnos cumpridos em cada uma das unidades estudadas\"",
+                                            "e":  "\"A medição muda o comportamento de forma mais confiável do que a instrução\""
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "\"More reliably than instruction does\" é comparativo de superioridade com verbo auxiliar retomando \"changes\". A alternativa (d) inverte os termos da comparação, que é o erro que a estrutura convida a cometer.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-10",
+                       "textoId":  "med-ing-t1",
+                       "enunciado":  "O texto se organiza, na ordem, do seguinte modo:",
+                       "alternativas":  {
+                                            "a":  "relato de um caso individual, generalização a partir dele, refutação de hipóteses concorrentes e apelo dirigido diretamente aos gestores",
+                                            "b":  "apresentação de dados estatísticos, comparação entre países, discussão das causas históricas do problema e proposta de regulamentação do setor",
+                                            "c":  "constatação, consequências, concessão, soluções e obstáculo final",
+                                            "d":  "definição de conceitos técnicos, revisão da literatura disponível, apresentação do método empregado e discussão dos resultados obtidos",
+                                            "e":  "denúncia de irregularidades, identificação dos responsáveis por elas, apuração das consequências e convocação das autoridades competentes"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "O texto abre dizendo que a enfermaria é barulhenta, mostra o que isso provoca, admite que parte do ruído é necessária, lista o que funciona e termina explicando por que não se faz.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-11",
+                       "textoId":  "med-ing-t2",
+                       "enunciado":  "A ideia central do texto é a de que:",
+                       "alternativas":  {
+                                            "a":  "os pesquisadores da área do sono discordam entre si a respeito dos efeitos da privação sobre o desempenho em provas de alta competitividade",
+                                            "b":  "estudar durante a noite é mais produtivo do que estudar durante o dia, uma vez que o ambiente noturno oferece menos interrupções ao estudante",
+                                            "c":  "a disciplina no estudo é dispensável desde que o estudante mantenha um número mínimo de horas de sono ao longo de cada uma das noites",
+                                            "d":  "todos os estudantes necessitam exatamente da mesma quantidade de sono, independentemente das características individuais de cada um deles",
+                                            "e":  "a hora tirada do sono compromete justamente a consolidação do que se estudou"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "O segundo parágrafo explica que o aprendizado \"is not fully yours until you have slept on it\", e o quarto conclui: a hora tirada da noite sai da parte do processo que consolida o resto.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-12",
+                       "textoId":  "med-ing-t2",
+                       "enunciado":  "Segundo o texto, durante o sono o cérebro:",
+                       "alternativas":  {
+                                            "a":  "elimina as informações consideradas irrelevantes, processo que segundo o texto explica o esquecimento observado após noites mal dormidas",
+                                            "b":  "interrompe integralmente qualquer atividade relacionada ao processamento das informações recebidas ao longo do período de vigília anterior",
+                                            "c":  "reorganiza o que absorveu e transfere para um armazenamento mais durável",
+                                            "d":  "produz as substâncias necessárias à manutenção da atenção durante o dia seguinte, sem qualquer relação com o conteúdo aprendido antes",
+                                            "e":  "opera em ritmo reduzido mas constante, sem que haja diferença mensurável entre os estágios que compõem cada um dos ciclos noturnos"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"The brain replays and reorganises what it took in, moving information from a fragile short-term store into something more durable.\" É consolidação, não eliminação — o que descarta (a).",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-13",
+                       "textoId":  "med-ing-t2",
+                       "enunciado":  "A expressão \"The deficit hides itself\" indica que a privação de sono:",
+                       "alternativas":  {
+                                            "a":  "produz efeitos que só se manifestam vários dias depois do período em que o estudante deixou de dormir a quantidade de horas recomendada",
+                                            "b":  "prejudica a própria capacidade de perceber o prejuízo",
+                                            "c":  "afeta apenas funções cognitivas específicas, deixando intactas as demais capacidades exigidas durante a realização de uma prova extensa",
+                                            "d":  "pode ser compensada integralmente com o aumento das horas de sono nos dias seguintes, prática conhecida entre os estudantes de cursinho",
+                                            "e":  "é percebida com clareza pelos estudantes, que segundo as pesquisas relatam sentir-se mal e avaliam corretamente seu próprio desempenho"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Os estudantes \"report feeling fine and rate their own work as accurate, while performing measurably worse\". O prejuízo esconde a si mesmo porque a ferramenta de avaliação também está comprometida.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-14",
+                       "textoId":  "med-ing-t2",
+                       "enunciado":  "Em \"Cut the night short and you keep the effort but lose part of the result\", a estrutura empregada equivale a uma oração:",
+                       "alternativas":  {
+                                            "a":  "final, com o imperativo introduzindo o objetivo que se pretende alcançar por meio da ação descrita na primeira parte da construção",
+                                            "b":  "concessiva, com o imperativo assumindo o valor que caberia à conjunção \"although\" na construção correspondente da língua portuguesa",
+                                            "c":  "temporal, com o imperativo indicando o momento em que se verifica o fato enunciado na segunda parte do período apresentado no texto",
+                                            "d":  "condicional, com o imperativo substituindo \"if you cut\"",
+                                            "e":  "comparativa, com o imperativo estabelecendo o termo de comparação entre as duas situações descritas ao longo do período apresentado"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Imperativo mais \"and\" mais resultado é forma corrente de condicional em inglês: equivale a \"if you cut the night short, you keep the effort but lose part of the result\". A construção existe também em português.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-15",
+                       "textoId":  "med-ing-t2",
+                       "enunciado":  "O texto ressalva que sua conclusão não significa que:",
+                       "alternativas":  {
+                                            "a":  "a disciplina seja desnecessária nem que todos precisem da mesma quantidade de sono",
+                                            "b":  "o estudo realizado durante o dia produza qualquer efeito sobre o desempenho obtido pelo estudante na prova para a qual ele se prepara",
+                                            "c":  "os pesquisadores da área tenham chegado a conclusões consistentes sobre o papel do sono na consolidação do que se aprende durante o dia",
+                                            "d":  "seja possível medir objetivamente o desempenho dos estudantes submetidos a diferentes regimes de privação de sono ao longo das pesquisas",
+                                            "e":  "a quantidade de horas dedicadas ao estudo tenha qualquer relação com o resultado obtido nas provas de acesso ao ensino superior no país"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"This does not mean that discipline is unnecessary, or that everyone needs the same amount of sleep.\" A ressalva bloqueia as duas leituras exageradas que o argumento poderia sugerir.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-16",
+                       "textoId":  "med-ing-t2",
+                       "enunciado":  "O conselho final do texto — \"decide when you will stop before you begin\" — é apresentado como:",
+                       "alternativas":  {
+                                            "a":  "o mais útil e ao mesmo tempo o menos popular",
+                                            "b":  "uma recomendação amplamente seguida pelos estudantes que obtêm os melhores resultados nas provas de acesso ao ensino superior no país",
+                                            "c":  "uma exigência estabelecida pelos pesquisadores da área do sono como condição para a participação em seus estudos sobre desempenho cognitivo",
+                                            "d":  "uma solução provisória, válida apenas para o período imediatamente anterior à realização da prova para a qual o estudante se prepara",
+                                            "e":  "uma prática incompatível com a preparação para provas de alta competitividade, segundo o próprio autor reconhece ao encerrar o texto"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"The most useful advice is also the least popular.\" A frase antecipa a resistência ao conselho e a incorpora ao argumento, em vez de fingir que ele será bem recebido.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-17",
+                       "textoId":  "med-ing-t2",
+                       "enunciado":  "Em \"a fragile short-term store\", a palavra \"store\" significa:",
+                       "alternativas":  {
+                                            "a":  "andar, designando o nível de um edifício em que se localiza determinado setor da instituição descrita ao longo do texto apresentado",
+                                            "b":  "loja, estabelecimento comercial destinado à venda de produtos ao público consumidor, sentido corrente do termo na língua inglesa atual",
+                                            "c":  "estoque de medicamentos mantido pela instituição para atender à demanda dos pacientes atendidos ao longo de cada um dos períodos",
+                                            "d":  "história, no sentido de relato dos acontecimentos vividos pelo estudante ao longo do período de preparação para a prova mencionada",
+                                            "e":  "armazenamento"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "O contexto é a memória: informação sai de um \"store\" frágil e de curto prazo para algo mais durável. \"Loja\" é o sentido mais frequente da palavra e por isso é a armadilha da questão.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-18",
+                       "textoId":  "med-ing-t2",
+                       "enunciado":  "A abertura do texto, que contrapõe a resposta dos estudantes à do pesquisador, serve para:",
+                       "alternativas":  {
+                                            "a":  "criticar o modelo de seleção adotado pelas instituições de ensino superior, tema que o autor desenvolve nos parágrafos seguintes do texto",
+                                            "b":  "demonstrar que os pesquisadores da área não compreendem as exigências enfrentadas pelos estudantes durante o período de preparação",
+                                            "c":  "apresentar os resultados de uma pesquisa de opinião realizada com estudantes e especialistas, cujos dados são discutidos ao longo do texto",
+                                            "d":  "estabelecer de imediato o contraste que o texto vai explicar",
+                                            "e":  "sugerir que as duas respostas são igualmente válidas e que a escolha entre elas depende exclusivamente das preferências de cada estudante"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Duas perguntas idênticas, duas respostas opostas: a abertura instala a tensão em duas linhas e o resto do texto explica por que a resposta menos intuitiva é a correta.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-19",
+                       "textoId":  "med-ing-t2",
+                       "enunciado":  "Em \"A tired brain is not simply slower; it is worse at judging its own performance\", o ponto e vírgula introduz:",
+                       "alternativas":  {
+                                            "a":  "uma citação literal extraída de uma das pesquisas mencionadas pelo autor nos parágrafos anteriores do texto apresentado ao leitor",
+                                            "b":  "uma enumeração dos sintomas associados à privação de sono, apresentados em ordem crescente de gravidade ao longo do período composto",
+                                            "c":  "um acréscimo que corrige a impressão dada pela primeira parte",
+                                            "d":  "uma relação de causa e consequência, indicando que a segunda característica decorre necessariamente da primeira nas condições descritas",
+                                            "e":  "uma oposição entre dois grupos de estudantes submetidos a regimes distintos de sono durante o período de preparação para a prova"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"Not simply slower\" prepara algo mais grave, e o ponto e vírgula entrega: o problema não é a lentidão, é a autoavaliação comprometida. O sinal liga duas orações independentes de conteúdo relacionado.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-20",
+                       "textoId":  "med-ing-t2",
+                       "enunciado":  "Considerando o conjunto do texto, o autor adota postura:",
+                       "alternativas":  {
+                                            "a":  "estritamente descritiva, limitando-se a apresentar os resultados das pesquisas sem manifestar posição sobre o comportamento dos estudantes",
+                                            "b":  "argumentativa, delimitando o alcance da própria tese",
+                                            "c":  "prescritiva e categórica, estabelecendo um número exato de horas de sono que todos os estudantes devem cumprir durante a preparação",
+                                            "d":  "cética em relação às pesquisas citadas, cujas conclusões ele questiona ao longo dos parágrafos finais do texto apresentado ao leitor",
+                                            "e":  "irônica em relação aos estudantes, cujo comportamento ele ridiculariza por meio de comparações apresentadas ao longo de todo o texto"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "O texto defende uma posição e a limita: nega que disciplina seja dispensável, nega que a necessidade de sono seja igual para todos, e ainda assim sustenta o argumento. É argumentação com ressalva, não descrição.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-21",
+                       "textoId":  "med-ing-t3",
+                       "enunciado":  "Segundo o texto, o mecanismo pelo qual a resistência a antibióticos aumenta é:",
+                       "alternativas":  {
+                                            "a":  "a perda de eficácia do princípio ativo ao longo do tempo de armazenamento, fenômeno agravado pelas condições de conservação nos países citados",
+                                            "b":  "a mutação induzida diretamente pelo medicamento nas bactérias expostas a ele, processo que transforma organismos sensíveis em resistentes",
+                                            "c":  "a transmissão do gene de resistência entre pacientes atendidos numa mesma unidade hospitalar, principal via de disseminação segundo o texto",
+                                            "d":  "a eliminação das bactérias sensíveis, que deixa espaço para a multiplicação das resistentes",
+                                            "e":  "a redução progressiva das doses prescritas pelos profissionais, prática que segundo o texto se generalizou nas últimas décadas nos serviços"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "\"It kills the bacteria that are susceptible to it and leaves behind those that are not. The survivors multiply.\" É seleção, não indução: a droga não cria a resistência, ela seleciona quem já a tinha.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-22",
+                       "textoId":  "med-ing-t3",
+                       "enunciado":  "O texto afirma que boa parte do uso de antibióticos ocorre fora dos hospitais e cita, entre os exemplos:",
+                       "alternativas":  {
+                                            "a":  "a aplicação em culturas agrícolas como medida preventiva contra pragas, prática que segundo o texto responde pela maior parte do consumo global",
+                                            "b":  "a administração a animais saudáveis para acelerar o crescimento",
+                                            "c":  "o uso em produtos de limpeza doméstica, cuja composição incorpora princípios ativos semelhantes aos empregados no tratamento de infecções",
+                                            "d":  "a distribuição gratuita em campanhas oficiais de saúde pública, política adotada em diversos países com o objetivo de ampliar o acesso",
+                                            "e":  "o consumo em unidades de terapia intensiva, ambiente que o texto identifica como o principal responsável pelo surgimento de cepas resistentes"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "O terceiro parágrafo lista três usos fora do hospital: animais saudáveis para crescer mais rápido, venda sem receita e prescrição para infecções virais. A alternativa (e) contradiz frontalmente a abertura do parágrafo.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-23",
+                       "textoId":  "med-ing-t3",
+                       "enunciado":  "Em \"prescribed for infections that are viral and therefore untouched by them\", a expressão \"untouched by them\" significa que essas infecções:",
+                       "alternativas":  {
+                                            "a":  "não são registradas pelos sistemas de vigilância epidemiológica dos países mencionados ao longo do texto apresentado para leitura ao candidato",
+                                            "b":  "ainda não foram estudadas pelos pesquisadores da área, o que impede estabelecer o tratamento adequado para cada um dos quadros apresentados",
+                                            "c":  "não são afetadas pelos antibióticos",
+                                            "d":  "não recebem tratamento algum nos serviços de saúde descritos, situação que o texto aponta como falha grave dos sistemas nacionais citados",
+                                            "e":  "permanecem inalteradas ao longo do tempo, sem que se observe qualquer variação em sua frequência nas populações estudadas pelos autores"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"Them\" retoma os antibióticos, e \"untouched\" indica que a droga não age sobre o alvo. Prescrever antibiótico para infecção viral é usar o remédio sem qualquer benefício — e com todo o custo em resistência.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-24",
+                       "textoId":  "med-ing-t3",
+                       "enunciado":  "O texto afirma que as duas respostas ao problema \"pull in opposite directions\" porque:",
+                       "alternativas":  {
+                                            "a":  "preservar um antibiótico o torna pouco lucrativo, o que desestimula pesquisar novos",
+                                            "b":  "reduzir o uso dos medicamentos existentes elimina a necessidade de desenvolver novas moléculas, o que torna as duas medidas mutuamente excludentes",
+                                            "c":  "as duas medidas exigem investimentos de mesma natureza e competem pelos mesmos recursos públicos destinados à pesquisa em saúde nos países",
+                                            "d":  "os órgãos reguladores impedem que uma mesma empresa desenvolva novos medicamentos e reduza simultaneamente a produção dos já existentes",
+                                            "e":  "diminuir o consumo aumenta a resistência das bactérias remanescentes, efeito que anula os ganhos obtidos com a descoberta de novas drogas"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"A drug that should be kept in reserve is not a profitable product, which is why several companies have left the field.\" O sucesso da primeira medida corrói o incentivo econômico da segunda.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-25",
+                       "textoId":  "med-ing-t3",
+                       "enunciado":  "Ao dizer que a advertência de Fleming \"reads less like prophecy than like a description\", o autor quer dizer que ela:",
+                       "alternativas":  {
+                                            "a":  "antecipava acontecimentos que ainda não se verificaram, embora as condições para que eles ocorram já estejam reunidas segundo o autor",
+                                            "b":  "foi formulada em linguagem técnica de difícil compreensão para o público não especializado a que a conferência se destinava naquele momento",
+                                            "c":  "revelou-se equivocada diante do que se observou nas décadas seguintes à descoberta e à difusão do medicamento nos serviços de saúde",
+                                            "d":  "tratava de um fenômeno restrito ao ambiente laboratorial, sem qualquer correspondência com o que veio a ocorrer na prática clínica posterior",
+                                            "e":  "descreve o presente, e não mais um futuro possível"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Profecia anuncia o que virá; descrição registra o que há. Dizer que o texto de 1945 parece descrição é dizer que o futuro previsto já chegou — leitura que o parágrafo final retoma.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-26",
+                       "textoId":  "med-ing-t3",
+                       "enunciado":  "Em \"could be taught to resist the drug\", a forma verbal indica:",
+                       "alternativas":  {
+                                            "a":  "certeza absoluta a respeito do fato descrito, grau de compromisso que o autor assume ao relatar a conferência proferida em mil novecentos e quarenta e cinco",
+                                            "b":  "obrigação, na voz ativa, atribuída aos profissionais responsáveis pela prescrição do medicamento nos serviços mencionados no texto lido",
+                                            "c":  "possibilidade, na voz passiva",
+                                            "d":  "permissão concedida por autoridade competente para a realização do procedimento descrito ao longo da conferência mencionada pelo texto",
+                                            "e":  "habitualidade no passado, indicando que a ação descrita se repetia com regularidade durante o período a que o texto faz referência"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"Could be taught\" reúne o modal de possibilidade e a estrutura passiva \"be + particípio\": as bactérias sofrem a ação. A tradução natural é \"podiam ser ensinadas a resistir\".",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-27",
+                       "textoId":  "med-ing-t3",
+                       "enunciado":  "A expressão \"stops being rare\", ao final do segundo parágrafo, indica que a resistência:",
+                       "alternativas":  {
+                                            "a":  "deixa de ser exceção e passa a ser frequente",
+                                            "b":  "desaparece completamente das populações bacterianas expostas ao medicamento ao longo do período descrito pelo autor no mesmo parágrafo",
+                                            "c":  "permanece restrita a determinadas espécies bacterianas, sem que se observe disseminação para os demais grupos mencionados no texto",
+                                            "d":  "só ocorre em situações excepcionais de uso inadequado, condição que o texto apresenta como pouco frequente nos serviços de saúde atuais",
+                                            "e":  "torna-se mais fácil de identificar pelos exames laboratoriais disponíveis, o que permite adequar o tratamento com maior rapidez nos casos"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"Stop being\" indica cessação de um estado: o que era raro deixa de sê-lo. A construção depende do uso repetido descrito antes — \"use the drug often enough, in enough places\".",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-28",
+                       "textoId":  "med-ing-t3",
+                       "enunciado":  "O texto atribui a saída de várias empresas do setor a:",
+                       "alternativas":  {
+                                            "a":  "ao vencimento das patentes dos principais medicamentos da categoria, o que permitiu a entrada de concorrentes com produtos equivalentes",
+                                            "b":  "restrições regulatórias impostas pelos órgãos de vigilância sanitária dos países em que essas empresas mantinham suas atividades de pesquisa",
+                                            "c":  "à impossibilidade técnica de desenvolver novas moléculas com os métodos atualmente disponíveis nos laboratórios de pesquisa farmacêutica",
+                                            "d":  "à queda no número de infecções bacterianas registradas nas últimas décadas, o que teria reduzido a demanda pelos produtos desse tipo",
+                                            "e":  "um medicamento guardado em reserva não gerar retorno financeiro"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "A frase é direta: um remédio que deve ser mantido em reserva não é produto lucrativo, \"which is why several companies have left the field\". O obstáculo é econômico, não técnico nem regulatório.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-29",
+                       "textoId":  "med-ing-t3",
+                       "enunciado":  "O parágrafo final retoma a conferência de Fleming para:",
+                       "alternativas":  {
+                                            "a":  "corrigir uma informação apresentada de forma imprecisa no primeiro parágrafo do texto sobre o conteúdo daquela conferência histórica",
+                                            "b":  "mostrar que o mesmo texto mudou de estatuto com o tempo",
+                                            "c":  "atribuir ao pesquisador a responsabilidade pelo problema descrito, uma vez que ele teria difundido o medicamento sem as devidas cautelas",
+                                            "d":  "apresentar dados atualizados sobre a mortalidade associada a infecções resistentes nos países que mantêm sistemas de vigilância consolidados",
+                                            "e":  "sugerir que a advertência não foi compreendida pelo público que assistiu à conferência, o que explicaria a demora na adoção de medidas"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "\"He meant it as a warning. It now reads as a description.\" A frase é a mesma; o que mudou foi o mundo em que ela é lida. É o fecho que o segundo parágrafo já havia anunciado.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-30",
+                       "textoId":  "med-ing-t3",
+                       "enunciado":  "A palavra \"strain\", no primeiro parágrafo, significa:",
+                       "alternativas":  {
+                                            "a":  "distensão muscular, lesão frequente entre praticantes de atividade física e mencionada em textos de divulgação sobre medicina esportiva",
+                                            "b":  "tensão, no sentido do esforço físico ou emocional a que uma pessoa se submete durante determinado período de sua atividade profissional",
+                                            "c":  "coar, operação de separação de sólidos e líquidos realizada nos laboratórios em que se preparam as amostras destinadas à análise",
+                                            "d":  "cepa",
+                                            "e":  "esforço, designando a dedicação exigida de um pesquisador ao longo do desenvolvimento de um novo medicamento até sua aprovação"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "\"Pass a resistant strain on to someone else\": trata-se de uma linhagem de bactérias. \"Strain\" tem os outros sentidos listados, mas o contexto microbiológico fixa este — e é justamente a polissemia que a questão testa.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-31",
+                       "textoId":  "med-ing-t4",
+                       "enunciado":  "O episódio narrado na abertura do texto ilustra que:",
+                       "alternativas":  {
+                                            "a":  "os profissionais de saúde omitem deliberadamente informações relevantes dos pacientes a fim de evitar reações emocionais durante a consulta",
+                                            "b":  "é possível haver falha de comunicação sem que ninguém tenha errado",
+                                            "c":  "os pacientes deixam de prestar atenção às informações recebidas em razão da ansiedade provocada pela espera do resultado de seus exames",
+                                            "d":  "os resultados de exames laboratoriais frequentemente contêm imprecisões que impedem qualquer conclusão segura sobre o quadro do paciente",
+                                            "e":  "a linguagem técnica deveria ser abolida das conversas entre profissionais, medida que segundo o autor resolveria o problema apresentado"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "\"Nobody lied, and nobody understood.\" A frase fecha o episódio afastando a hipótese de má-fé ou de desatenção: a mensagem correta produziu, do outro lado, a conclusão oposta.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-32",
+                       "textoId":  "med-ing-t4",
+                       "enunciado":  "O autor reconhece que a linguagem médica existe por boas razões, entre elas:",
+                       "alternativas":  {
+                                            "a":  "a proteção jurídica dos profissionais em caso de questionamento posterior sobre as informações prestadas ao paciente durante o atendimento",
+                                            "b":  "a preservação do prestígio profissional da categoria, função que o autor considera legítima ainda que raramente admitida por seus integrantes",
+                                            "c":  "a redução do tempo de consulta, uma vez que termos técnicos permitem transmitir informações complexas em menor número de palavras",
+                                            "d":  "a precisão e a possibilidade de trabalho conjunto entre quem nunca se encontrou",
+                                            "e":  "a padronização exigida pelos sistemas eletrônicos de registro, que só aceitam termos constantes de vocabulários controlados previamente"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "O segundo parágrafo é a concessão do texto: precisão importa quando uma diferença pequena muda a conduta, e o vocabulário comum permite que estranhos trabalhem no mesmo caso.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-33",
+                       "textoId":  "med-ing-t4",
+                       "enunciado":  "A frase \"Fluency is a poor judge of clarity\" significa que:",
+                       "alternativas":  {
+                                            "a":  "quem domina o assunto não consegue avaliar bem se foi compreendido",
+                                            "b":  "profissionais com maior fluência em língua estrangeira comunicam-se com menos clareza do que aqueles cujo domínio do idioma é limitado",
+                                            "c":  "a clareza de um enunciado deve ser avaliada por especialistas em comunicação, e não pelos profissionais que atuam diretamente com pacientes",
+                                            "d":  "a rapidez com que alguém fala compromete necessariamente a compreensão da mensagem por parte de quem a escuta durante o atendimento",
+                                            "e":  "os pacientes tendem a julgar a competência do profissional pela fluência de sua fala, critério que o autor considera pouco confiável no caso"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Quem sabe o que a frase significa não consegue ouvi-la como quem não sabe. O domínio do assunto, que deveria ajudar, é exatamente o que cega o falante para o efeito das próprias palavras.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-34",
+                       "textoId":  "med-ing-t4",
+                       "enunciado":  "A solução proposta pelo texto consiste em:",
+                       "alternativas":  {
+                                            "a":  "gravar as consultas em áudio, prática que permitiria verificar posteriormente se as informações foram transmitidas de forma adequada",
+                                            "b":  "substituir todos os termos técnicos por equivalentes populares antes de qualquer conversa com pacientes e familiares durante o atendimento",
+                                            "c":  "entregar ao paciente um documento escrito com as informações discutidas, para que ele possa consultá-lo depois de deixar o consultório",
+                                            "d":  "encaminhar o paciente a um profissional especializado em comunicação, responsável por traduzir as informações fornecidas durante a consulta",
+                                            "e":  "pedir ao paciente que repita, com suas palavras, o que entendeu e o que fará"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "É um teste que não depende do julgamento de quem falou — e o texto valoriza justamente que ele \"fails loudly\": o mal-entendido aparece na hora, quando ainda custa pouco.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-35",
+                       "textoId":  "med-ing-t4",
+                       "enunciado":  "Ao dizer que o método \"fails loudly, which is the point\", o autor considera essa característica:",
+                       "alternativas":  {
+                                            "a":  "uma limitação séria do procedimento, que segundo ele deveria ser corrigida antes de qualquer adoção em larga escala nos serviços de saúde",
+                                            "b":  "um inconveniente aceitável, compensado pela economia de tempo obtida em relação aos demais métodos disponíveis para o mesmo objetivo",
+                                            "c":  "uma vantagem, pois expõe o problema enquanto ele ainda é pequeno",
+                                            "d":  "uma consequência indesejada mas inevitável, decorrente da natureza da relação entre profissionais de saúde e pacientes durante a consulta",
+                                            "e":  "um efeito secundário sem importância prática, uma vez que os mal-entendidos identificados raramente têm consequências clínicas relevantes"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"Which is the point\" marca que a falha ruidosa é o objetivo, não o defeito. O período seguinte explica: erro descoberto na sala é problema pequeno; o mesmo erro uma semana depois, não.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-36",
+                       "textoId":  "med-ing-t4",
+                       "enunciado":  "A conclusão do texto distingue:",
+                       "alternativas":  {
+                                            "a":  "o profissional experiente e o recém-formado, cuja capacidade de comunicação varia conforme o tempo de exercício em cada uma das áreas",
+                                            "b":  "a linguagem escrita e a linguagem falada, cujos efeitos sobre a compreensão do paciente seriam distintos segundo o autor do texto lido",
+                                            "c":  "o vocabulário técnico e o vocabulário comum, cuja separação o autor propõe manter rigorosamente em todas as situações de atendimento",
+                                            "d":  "as consultas de rotina e as de urgência, situações em que o autor considera necessários procedimentos distintos de verificação da compreensão",
+                                            "e":  "ter falado com clareza e ter sido compreendido"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "\"Being understood is not the same as having spoken clearly, and only the listener can settle the difference.\" A clareza deixa de ser propriedade do emissor e passa a ser resultado verificável no receptor.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-37",
+                       "textoId":  "med-ing-t4",
+                       "enunciado":  "Em \"no evidence of malignancy\", a expressão significa:",
+                       "alternativas":  {
+                                            "a":  "resultado inconclusivo, o que exigiria a repetição do exame antes de qualquer decisão sobre a conduta a ser adotada no caso descrito",
+                                            "b":  "nenhuma evidência disponível até o momento, o que impediria qualquer conclusão sobre o resultado do exame realizado pelo paciente",
+                                            "c":  "nenhum sinal de malignidade",
+                                            "d":  "má evidência, no sentido de amostra colhida em condições inadequadas para a realização da análise laboratorial solicitada pelo médico",
+                                            "e":  "ausência de qualquer alteração no material examinado, incluindo as de natureza benigna que poderiam justificar acompanhamento posterior"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "É notícia boa: não se encontrou sinal de câncer. O texto existe porque essa frase foi ouvida como \"inconclusivo\" — e a alternativa (a) reproduz exatamente o mal-entendido que o episódio narra.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-38",
+                       "textoId":  "med-ing-t4",
+                       "enunciado":  "Segundo o texto, pedir aos profissionais que simplifiquem a linguagem ajuda menos do que se espera porque:",
+                       "alternativas":  {
+                                            "a":  "os profissionais resistem à mudança de hábitos de comunicação adquiridos ao longo de muitos anos de formação e de exercício da atividade",
+                                            "b":  "o problema não está apenas nas palavras, mas em quem julga a própria fala",
+                                            "c":  "a simplificação compromete a precisão exigida pelo raciocínio clínico, o que aumenta o risco de erro na condução dos casos atendidos",
+                                            "d":  "o vocabulário simplificado não é compreendido pelos demais membros da equipe, o que dificulta a continuidade do cuidado entre turnos",
+                                            "e":  "os pacientes preferem receber as informações em linguagem técnica, que associam a maior competência por parte de quem os atende"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "O texto diz \"the problem is not only the words\" e completa: quem sabe o que a frase significa não consegue ouvi-la de fora. Por isso a solução proposta não depende do julgamento do falante.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-39",
+                       "textoId":  "med-ing-t4",
+                       "enunciado":  "Em \"It takes a minute and it fails loudly\", os dois pronomes \"it\" retomam:",
+                       "alternativas":  {
+                                            "a":  "o tempo de consulta disponível em cada atendimento, variável que o autor identifica como principal obstáculo à comunicação adequada",
+                                            "b":  "o resultado do exame mencionado na abertura do texto, cuja interpretação equivocada gerou o mal-entendido narrado pelo autor no início",
+                                            "c":  "o vocabulário técnico empregado pelos profissionais durante as consultas realizadas nos serviços descritos ao longo do texto apresentado",
+                                            "d":  "o procedimento de pedir ao paciente que repita o que entendeu",
+                                            "e":  "a orientação para simplificar a linguagem, medida apresentada no parágrafo anterior como resposta usual ao problema descrito no texto"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "O período anterior descreve o método do \"say back\", e é dele que se diz que leva um minuto e falha ruidosamente. A alternativa (e) aponta para a medida que o texto acabara de considerar insuficiente.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-40",
+                       "textoId":  "med-ing-t4",
+                       "enunciado":  "O texto afirma que a solução proposta:",
+                       "alternativas":  {
+                                            "a":  "não exige tecnologia nem financiamento novos",
+                                            "b":  "depende de investimento em sistemas eletrônicos capazes de registrar e verificar automaticamente a compreensão do paciente após a consulta",
+                                            "c":  "requer treinamento prolongado das equipes, oferecido por profissionais especializados em comunicação contratados especificamente para isso",
+                                            "d":  "só pode ser implantada em serviços que disponham de tempo de consulta superior ao praticado atualmente na maior parte das unidades de saúde",
+                                            "e":  "exige alteração das normas profissionais vigentes, sem a qual sua adoção permaneceria facultativa e portanto pouco efetiva na prática"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"None of this requires new technology or new funding.\" O que o método exige é outra coisa: aceitar que falar com clareza e ser compreendido não são a mesma coisa.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-41",
+                       "textoId":  "med-ing-t5",
+                       "enunciado":  "Ao responder que \"you get used to the routine\" mas não \"to the biology\", a entrevistada distingue:",
+                       "alternativas":  {
+                                            "a":  "a adaptação de hábitos e a adaptação do organismo",
+                                            "b":  "o período inicial de trabalho e os anos seguintes, em que segundo ela o organismo já completou integralmente o processo de ajuste ao turno",
+                                            "c":  "a experiência dos profissionais mais antigos e a dos recém-contratados, cuja capacidade de adaptação ela considera significativamente maior",
+                                            "d":  "os turnos noturnos e os diurnos, cujos efeitos sobre o organismo ela apresenta como equivalentes ao longo de toda a entrevista concedida",
+                                            "e":  "as exigências físicas e as exigências emocionais da profissão, tema que ela desenvolve ao longo das demais respostas da entrevista"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Ela acrescenta que, depois de vinte e dois anos, ainda dorme mal no primeiro dia de folga. O comportamento se ajusta; o relógio interno, não — o mesmo ponto que a cronobiologia sustenta.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-42",
+                       "textoId":  "med-ing-t5",
+                       "enunciado":  "A primeira medida que a entrevistada aponta como eficaz é:",
+                       "alternativas":  {
+                                            "a":  "permitir que cada profissional escolha livremente os horários em que deseja trabalhar, sem qualquer restrição imposta pela escala do serviço",
+                                            "b":  "reduzir a duração de cada turno noturno, medida que segundo ela produz efeito imediato sobre a qualidade do sono dos profissionais envolvidos",
+                                            "c":  "alternar semanas de trabalho noturno com semanas de afastamento integral, arranjo que ela considera o único capaz de preservar a saúde",
+                                            "d":  "concentrar todos os turnos noturnos em um único período do mês, deixando as semanas restantes livres para a recuperação do organismo",
+                                            "e":  "girar a escala no sentido manhã, tarde e noite"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "\"Rotating forwards instead of backwards. Morning, then afternoon, then night — never the other way round.\" Ela acrescenta que parece detalhe e não é, e que dois dias entre blocos não bastam.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-43",
+                       "textoId":  "med-ing-t5",
+                       "enunciado":  "Sobre a exposição à luz, a entrevistada observa que a maioria das pessoas:",
+                       "alternativas":  {
+                                            "a":  "prefere trabalhar em ambientes com iluminação reduzida durante a madrugada, prática que ela identifica como o principal erro do setor",
+                                            "b":  "desconhece completamente a relação entre a exposição à luz e a regulação do sono, o que explicaria a baixa adesão às medidas recomendadas",
+                                            "c":  "adota corretamente todas as medidas recomendadas, sem que se observe melhora na qualidade do sono durante os dias de folga do trabalho",
+                                            "d":  "usa cortina blackout mas não cuida das outras duas medidas",
+                                            "e":  "utiliza óculos escuros durante todo o turno noturno, conduta que segundo ela agrava o problema em vez de contribuir para sua solução"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "\"Most people do the third and skip the first two, and then wonder why it does not work.\" A terceira é a cortina; as duas puladas são luz forte no turno e óculos escuros na volta.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-44",
+                       "textoId":  "med-ing-t5",
+                       "enunciado":  "A recomendação sobre alimentação apresentada na entrevista é:",
+                       "alternativas":  {
+                                            "a":  "evitar qualquer alimentação durante as vinte e quatro horas que antecedem o início de cada bloco de turnos noturnos cumpridos pela equipe",
+                                            "b":  "distribuir as refeições em pequenas porções ao longo de toda a madrugada, prática que segundo ela facilita a adaptação do organismo ao turno",
+                                            "c":  "comer antes do turno, e não no meio dele",
+                                            "d":  "concentrar a maior refeição do dia no período imediatamente posterior ao encerramento do turno, antes do início do período de descanso",
+                                            "e":  "substituir as refeições sólidas por alimentos líquidos durante o período noturno, conduta que ela adotou ao longo de sua própria trajetória"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"Eat before the shift, not in the middle of it.\" Ela reconhece que foi a mudança mais difícil, porque comer às quatro é o que quebra a noite — a razão do hábito é social, não fisiológica.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-45",
+                       "textoId":  "med-ing-t5",
+                       "enunciado":  "Ao dizer \"I would recommend going in with your eyes open\", a entrevistada indica que:",
+                       "alternativas":  {
+                                            "a":  "desaconselha de forma categórica que profissionais recém-formados assumam turnos noturnos no início de suas trajetórias na área da saúde",
+                                            "b":  "não desaconselha o trabalho, mas recomenda conhecer seus efeitos de antemão",
+                                            "c":  "considera o trabalho noturno mais interessante do que o diurno, avaliação que ela fundamenta na variedade dos casos atendidos à noite",
+                                            "d":  "recomenda que a decisão seja tomada apenas depois de um período de experiência em turnos diurnos nas mesmas unidades de atendimento",
+                                            "e":  "atribui às instituições empregadoras a responsabilidade exclusiva pela decisão sobre a escala a ser cumprida por cada um dos profissionais"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A expressão idiomática significa entrar sabendo no que se está metendo. E ela completa: o problema não é a dificuldade, é a promessa falsa de que ela passa com o tempo.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-46",
+                       "textoId":  "med-ing-t5",
+                       "enunciado":  "A crítica final da entrevistada dirige-se:",
+                       "alternativas":  {
+                                            "a":  "ao número de profissionais escalados para cada turno noturno, insuficiente segundo ela para atender à demanda registrada nesse período",
+                                            "b":  "à remuneração adicional paga aos profissionais que cumprem turnos noturnos, considerada por ela insuficiente diante do desgaste envolvido",
+                                            "c":  "à formação recebida nos cursos da área da saúde, que segundo ela não aborda em nenhum momento a organização do trabalho em turnos",
+                                            "d":  "à ideia de que o trabalho noturno fica mais fácil depois de alguns anos",
+                                            "e":  "à ausência de acompanhamento médico periódico dos trabalhadores noturnos, exigência que ela considera indispensável e raramente cumprida"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "\"People are told they are hard for a few years and then get easier, and that is not true.\" Ela não reclama do trabalho — reclama da informação errada com que as pessoas entram nele.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-47",
+                       "textoId":  "med-ing-t5",
+                       "enunciado":  "Em \"Light is the underrated one\", o adjetivo \"underrated\" indica que a luz é:",
+                       "alternativas":  {
+                                            "a":  "avaliada corretamente pela maioria dos profissionais, que segundo ela adotam as medidas recomendadas sem necessidade de orientação prévia",
+                                            "b":  "subestimada em relação à sua importância real",
+                                            "c":  "excessivamente valorizada nas recomendações correntes sobre o trabalho noturno, em detrimento de fatores que ela considera mais relevantes",
+                                            "d":  "impossível de controlar nas condições reais de trabalho, limitação que ela aponta como principal obstáculo à adoção das medidas sugeridas",
+                                            "e":  "irrelevante para a adaptação ao turno noturno, conclusão a que ela teria chegado ao longo de seus vinte e dois anos de experiência na área"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "O prefixo \"under-\" indica insuficiência: \"underrated\" é aquilo a que se dá menos valor do que merece. O oposto seria \"overrated\", e a alternativa (c) descreve justamente esse contrário.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-48",
+                       "textoId":  "med-ing-t5",
+                       "enunciado":  "Em \"Two is not enough, whatever the roster says\", a expressão \"whatever the roster says\" indica que a entrevistada:",
+                       "alternativas":  {
+                                            "a":  "considera irrelevante o número de dias de intervalo previsto entre os blocos de turnos, desde que o total mensal de horas seja respeitado",
+                                            "b":  "desconhece o conteúdo da escala vigente em seu serviço, documento que segundo ela raramente é divulgado aos profissionais envolvidos",
+                                            "c":  "discorda da escala oficial quando ela prevê menos dias de intervalo",
+                                            "d":  "aceita integralmente o que a escala determina, ainda que discorde das razões apresentadas pela administração para justificar cada decisão",
+                                            "e":  "propõe que a definição do intervalo entre blocos fique a critério de cada profissional, sem qualquer parâmetro estabelecido pelo serviço"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"Whatever\" concessivo equivale a \"não importa o que\": ela afirma que dois dias são insuficientes mesmo que a escala os preveja. É contestação da norma, não desconhecimento dela.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-49",
+                       "textoId":  "med-ing-t5",
+                       "enunciado":  "As perguntas do entrevistador ao longo do texto cumprem a função de:",
+                       "alternativas":  {
+                                            "a":  "organizar a entrevista por temas: adaptação, escala, luz, alimentação e conselho final",
+                                            "b":  "confrontar a entrevistada com dados de pesquisa que contrariam sua experiência pessoal ao longo dos anos de trabalho em turnos noturnos",
+                                            "c":  "apresentar a posição do próprio jornalista sobre o assunto tratado, que se opõe à sustentada pela profissional entrevistada no texto lido",
+                                            "d":  "resumir para o leitor o conteúdo de cada resposta anterior, recurso que facilita o acompanhamento do raciocínio ao longo da conversa",
+                                            "e":  "deslocar progressivamente a conversa para assuntos pessoais da entrevistada, estratégia adotada para revelar aspectos de sua trajetória"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Cada pergunta abre um bloco temático e as respostas se encaixam nele. É o formato de entrevista que serve a orientação prática: o leitor pode ir direto ao ponto que lhe interessa.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-50",
+                       "textoId":  "med-ing-t5",
+                       "enunciado":  "O título da entrevista, \"The night is not a shorter day\", condensa a ideia de que o turno noturno:",
+                       "alternativas":  {
+                                            "a":  "só é adequado a profissionais em início de carreira, cuja capacidade de adaptação seria maior do que a dos trabalhadores mais experientes",
+                                            "b":  "tem duração inferior à do turno diurno na maior parte dos serviços de saúde, o que compensaria parcialmente o desgaste imposto por ele",
+                                            "c":  "deveria ser reduzido em duração para compensar o desgaste imposto ao organismo dos profissionais que o cumprem ao longo dos anos",
+                                            "d":  "produz os mesmos efeitos que o turno diurno sobre o organismo, desde que respeitado o total de horas de descanso entre um turno e outro",
+                                            "e":  "não é apenas um dia deslocado, e exige tratamento próprio"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "\"Shorter day\" trataria a noite como versão reduzida do dia, resolvível com mais horas de sono. A entrevista sustenta o contrário: é outro regime, e exige medidas próprias — escala, luz, alimentação.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-51",
+                       "texto_apoio":  "\"The results ______ yesterday, but the report ______ still ______.\"",
+                       "enunciado":  "As lacunas são corretamente preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "arrive – was not – writing",
+                                            "b":  "have arrived – did not – wrote",
+                                            "c":  "arrived – has not – been written",
+                                            "d":  "were arriving – has not – wrote",
+                                            "e":  "had arrived – is not – write"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"Yesterday\" fixa um tempo passado concluído e exige o past simple. A segunda parte é present perfect passivo — \"has not been written\" —, apropriado para algo que segue pendente agora.",
+                       "formato":  "lacunas"
+                   },
+                   {
+                       "id":  "ingles-52",
+                       "texto_apoio":  "\"You ______ take this medication with alcohol.\" (proibição) / \"You ______ take it with food.\" (recomendação)",
+                       "enunciado":  "As lacunas são preenchidas, respectivamente, por:",
+                       "alternativas":  {
+                                            "a":  "must not – should",
+                                            "b":  "should not – must, ordem que decorre do grau de obrigatoriedade atribuído a cada uma das duas orientações apresentadas ao paciente",
+                                            "c":  "do not have to – can, formas que indicam ausência de obrigação e possibilidade de escolha em cada uma das situações descritas no enunciado",
+                                            "d":  "may not – would, verbos modais empregados para expressar permissão negada e hipótese em contextos de orientação clínica ao paciente",
+                                            "e":  "cannot – might, combinação que expressa impossibilidade absoluta e probabilidade reduzida nas duas orientações formuladas no enunciado"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"Must not\" proíbe; \"should\" aconselha. A confusão mais cara é com \"do not have to\", que indica ausência de obrigação — dizer isso sobre álcool inverteria completamente a orientação.",
+                       "formato":  "lacunas"
+                   },
+                   {
+                       "id":  "ingles-53",
+                       "texto_apoio":  "\"The equipment was calibrated last week; ______, the readings are still inconsistent.\"",
+                       "enunciado":  "A lacuna é preenchida, quanto ao sentido, por:",
+                       "alternativas":  {
+                                            "a":  "so",
+                                            "b":  "therefore",
+                                            "c":  "thus",
+                                            "d":  "hence",
+                                            "e":  "however"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "A segunda oração contraria a expectativa criada pela primeira, o que pede conectivo adversativo. As outras quatro alternativas são todas conclusivas e produziriam o sentido oposto.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-54",
+                       "texto_apoio":  "Considere os pares: \"actually\" e \"atualmente\"; \"eventually\" e \"eventualmente\"; \"pretend\" e \"pretender\".",
+                       "enunciado":  "Os três pares são falsos cognatos porque, em inglês, os termos significam, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "atualmente – eventualmente – pretender, sentidos que coincidem com os das palavras portuguesas correspondentes em todos os três casos",
+                                            "b":  "na verdade – por fim – fingir",
+                                            "c":  "atualizadamente – ocasionalmente – planejar, acepções registradas nos dicionários bilíngues para cada um dos três termos apresentados",
+                                            "d":  "certamente – imediatamente – simular, valores que os termos assumem exclusivamente em contextos de linguagem técnica especializada",
+                                            "e":  "na verdade – eventualmente – pretender, combinação em que apenas o primeiro dos três pares configura caso de falso cognato entre as línguas"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Os três enganam por semelhança de forma: \"actually\" é \"na verdade\", \"eventually\" é \"por fim\" e \"pretend\" é \"fingir\". Ler qualquer um deles pelo aparente inverte o sentido da frase.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-55",
+                       "texto_apoio":  "\"The patient was asked to ______ the form before the procedure.\"",
+                       "enunciado":  "A lacuna é corretamente preenchida, no sentido de preencher um formulário, por:",
+                       "alternativas":  {
+                                            "a":  "fulfil in",
+                                            "b":  "fill up",
+                                            "c":  "fill out of",
+                                            "d":  "fill in",
+                                            "e":  "fill on"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "\"Fill in\" — ou \"fill out\", no inglês americano — é o phrasal verb para completar um formulário. \"Fill up\" se usa para encher um recipiente, e \"fulfil\" significa cumprir uma obrigação ou um requisito.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-56",
+                       "texto_apoio":  "Considere: \"care\" → \"careful\" → \"carefully\" → \"carefulness\".",
+                       "enunciado":  "A sequência ilustra a formação, por sufixação, de:",
+                       "alternativas":  {
+                                            "a":  "verbo, adjetivo e advérbio a partir de um adjetivo original, processo que se repete com regularidade nos vocábulos da língua inglesa",
+                                            "b":  "adjetivo, advérbio e substantivo a partir de um substantivo",
+                                            "c":  "quatro substantivos de sentidos distintos, todos derivados de um mesmo radical de origem latina incorporado ao inglês contemporâneo",
+                                            "d":  "formas verbais conjugadas em tempos distintos, cuja variação decorre da posição ocupada por cada uma delas dentro da estrutura da oração",
+                                            "e":  "graus de intensidade de um mesmo adjetivo, expressos por meio de sufixos que indicam progressão crescente ao longo da série apresentada"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "O sufixo -ful forma adjetivo, -ly forma advérbio a partir do adjetivo e -ness volta a substantivo. Reconhecer o sufixo permite deduzir a classe da palavra mesmo sem conhecê-la.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-57",
+                       "texto_apoio":  "\"This ward is ______ than the one upstairs, but the noise there is ______ of all.\"",
+                       "enunciado":  "As lacunas são corretamente preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "more quieter – worst",
+                                            "b":  "more quiet – the worse",
+                                            "c":  "quietest – worse",
+                                            "d":  "quieter – the worst",
+                                            "e":  "quiet – the baddest"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Adjetivos de duas sílabas terminados em -er ou -y formam o comparativo com -er: \"quieter\". \"Bad\" é irregular e o superlativo é \"the worst\" — \"baddest\" não existe na norma.",
+                       "formato":  "lacunas"
+                   },
+                   {
+                       "id":  "ingles-58",
+                       "texto_apoio":  "\"The nurse ______ handed me the chart has already left.\"",
+                       "enunciado":  "A lacuna é corretamente preenchida por:",
+                       "alternativas":  {
+                                            "a":  "who",
+                                            "b":  "which",
+                                            "c":  "whose",
+                                            "d":  "where",
+                                            "e":  "what"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "O antecedente é pessoa e o relativo exerce função de sujeito na oração adjetiva: \"who\" — ou \"that\". \"Which\" se usa para coisas, e \"whose\" indicaria posse, o que a frase não pede.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-59",
+                       "texto_apoio":  "Voz ativa: \"The committee reviewed the protocol last month.\"",
+                       "enunciado":  "A transposição correta para a voz passiva é:",
+                       "alternativas":  {
+                                            "a":  "\"The protocol reviewed the committee last month\", construção obtida pela simples troca de posição entre sujeito e objeto da oração original",
+                                            "b":  "\"The protocol has been reviewed by the committee last month\", forma que preserva o tempo verbal original da oração apresentada no enunciado",
+                                            "c":  "\"The protocol is reviewed by the committee last month\", construção que mantém o agente da ação na mesma posição da oração original",
+                                            "d":  "\"The committee was reviewed by the protocol last month\", transposição que apenas inverte a ordem dos dois termos nominais da oração",
+                                            "e":  "\"The protocol was reviewed by the committee last month.\""
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "O objeto vira sujeito, o verbo assume \"be\" no mesmo tempo mais particípio, e o agente entra com \"by\". A alternativa (b) troca o past simple pelo present perfect, incompatível com \"last month\".",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-60",
+                       "texto_apoio":  "Compare: (I) \"If the test is positive, we start treatment.\" (II) \"If the test were positive, we would start treatment.\"",
+                       "enunciado":  "Em I a condição é apresentada como ______ e em II como ______; a diferença é marcada por ______. As lacunas são preenchidas por:",
+                       "alternativas":  {
+                                            "a":  "passada e concluída – futura e incerta – emprego do modo subjuntivo em ambas as construções propostas para comparação no enunciado",
+                                            "b":  "hipotética ou improvável – real e provável – presença do conectivo condicional no início de cada uma das duas orações apresentadas",
+                                            "c":  "real e provável – hipotética ou improvável – tempo verbal e uso de \"would\"",
+                                            "d":  "impossível – necessária – posição ocupada pela oração condicional em relação à principal dentro da estrutura de cada um dos períodos",
+                                            "e":  "geral e permanente – restrita a um caso – número de palavras empregadas em cada uma das duas construções apresentadas para análise"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "O primeiro condicional trata de possibilidade real: presente na condição, presente ou futuro no resultado. O segundo afasta a hipótese do provável com past simple mais \"would\" — daí \"were\" mesmo com sujeito singular.",
+                       "formato":  "lacunas",
+                       "banca":  "unifesp"
+                   }
+               ],
     "interpretacao-texto":  [
                                 {
                                     "id":  "interpretacao-texto-01",
@@ -15882,6 +16785,31 @@ window.QUESTION_TEXTS = {
                        "id":  "med-fis-t2",
                        "fonte":  "Texto original em genero de reportagem sobre seguranca veicular",
                        "conteudo":  "O cinto de segurança e o airbag não reduzem a energia de uma colisão. Eles fazem outra coisa, e entender qual é a diferença entre sobreviver e não sobreviver.\n\nNuma batida, o veículo para em uma fração de segundo. O passageiro, por inércia, continua com a velocidade que tinha. A questão passa a ser em quanto tempo essa velocidade vai a zero, porque a força média que atua sobre o corpo é a variação da quantidade de movimento dividida pelo intervalo em que ela ocorre. A variação é a mesma com ou sem cinto — o que muda é o denominador.\n\nSem cinto, o corpo para ao atingir o para-brisa ou a coluna de direção, num intervalo de poucos milissegundos. Com cinto, a faixa se estica um pouco e a estrutura do carro se deforma de forma programada, e a parada leva algo em torno de dez vezes mais tempo. A força média cai na mesma proporção. O airbag acrescenta uma etapa: aumenta a área de contato, o que reduz a pressão sobre o tórax, e prolonga um pouco mais o tempo de desaceleração ao esvaziar de forma controlada.\n\nÉ também por isso que as zonas de deformação programada da carroceria são uma virtude, e não um defeito de projeto. Um carro rígido demais transfere a desaceleração inteira aos ocupantes. Um carro que amassa de forma controlada gasta tempo e energia amassando, e esse tempo é exatamente o que protege quem está dentro."
+                   },
+    "med-ing-t1":  {
+                       "id":  "med-ing-t1",
+                       "fonte":  "Texto original em ingles escrito para este banco",
+                       "conteudo":  "WHY HOSPITALS ARE SO LOUD\n\nA modern hospital ward is rarely quiet. Monitors beep, doors close, carts roll past, and staff talk in corridors built to carry sound rather than absorb it. Studies measuring noise levels in intensive care units have found averages well above what is recommended for a place where people are supposed to recover.\n\nThe problem is not simply that noise is unpleasant. Sleep in hospital is already fragmented by medication schedules, observations and pain. Add sudden sounds every few minutes and the deep stages of sleep — the ones that matter most for healing — become almost impossible to reach. Patients who sleep badly stay longer, need more pain relief and are more likely to become confused, particularly if they are old.\n\nSome of the noise is unavoidable. Alarms exist for a reason, and a ward where nobody spoke would not be safer. But a surprising share of it is not clinical at all: conversations that could happen elsewhere, bins that slam, phones left on speaker, equipment wheeled around without maintenance.\n\nWhat has worked, where anything has, is rarely a poster asking for silence. It is replacing hard surfaces, fixing the wheels, setting alarm thresholds so that fewer alarms are false, and giving staff a way to see how loud their own ward actually is. Measurement changes behaviour more reliably than instruction does.\n\nNone of this is expensive compared with an extra day in a bed. It is simply less visible than the things hospitals usually count."
+                   },
+    "med-ing-t2":  {
+                       "id":  "med-ing-t2",
+                       "fonte":  "Texto original em ingles escrito para este banco",
+                       "conteudo":  "ONE MORE HOUR\n\nAsk students preparing for a competitive exam what they would do with an extra hour, and most will say they would study. Ask a sleep researcher the same question and the answer is different: sleep.\n\nThe reason is not that studying is useless. It is that what you learn during the day is not fully yours until you have slept on it. During sleep, the brain replays and reorganises what it took in, moving information from a fragile short-term store into something more durable. Cut the night short and you keep the effort but lose part of the result.\n\nThere is a second cost, harder to notice. A tired brain is not simply slower; it is worse at judging its own performance. Students who have slept four hours often report feeling fine and rate their own work as accurate, while performing measurably worse. The deficit hides itself.\n\nThis does not mean that discipline is unnecessary, or that everyone needs the same amount of sleep. It means that the hour taken from the night is not free, and that it is usually taken from the part of the process that consolidates whatever the other hours produced.\n\nThe most useful advice is also the least popular: decide when you will stop before you begin."
+                   },
+    "med-ing-t3":  {
+                       "id":  "med-ing-t3",
+                       "fonte":  "Texto original em ingles escrito para este banco",
+                       "conteudo":  "THE DRUGS THAT STOPPED WORKING\n\nAlexander Fleming warned about it in his Nobel lecture in 1945, only a few years after penicillin reached patients. Bacteria, he said, could be taught to resist the drug, and a man who used too little of it might pass a resistant strain on to someone else.\n\nEighty years later, the warning reads less like prophecy than like a description. Infections that were once routine to treat now require second and third choices, and in some cases none of the available options works well. The cause is not mysterious. Every time an antibiotic is used, it kills the bacteria that are susceptible to it and leaves behind those that are not. The survivors multiply. Use the drug often enough, in enough places, and resistance stops being rare.\n\nMuch of that use is not in hospitals. Antibiotics are given to healthy animals so that they grow faster, sold without prescription in many countries, and prescribed for infections that are viral and therefore untouched by them.\n\nThe response requires two things at once, and they pull in opposite directions: using existing drugs less, and finding new ones. The second is difficult partly because the first succeeds. A drug that should be kept in reserve is not a profitable product, which is why several companies have left the field.\n\nFleming ended his lecture with the man who dies of a resistant infection because someone else took too little of the drug. He meant it as a warning. It now reads as a description of how the problem spreads."
+                   },
+    "med-ing-t4":  {
+                       "id":  "med-ing-t4",
+                       "fonte":  "Artigo de opiniao original em ingles escrito para este banco",
+                       "conteudo":  "PLAIN WORDS\n\nA doctor tells a patient that the biopsy showed no evidence of malignancy. The patient goes home and tells the family that the results were inconclusive. Nobody lied, and nobody understood.\n\nMedical language exists for good reasons. Precision matters when a small difference changes what should be done, and a shared vocabulary lets people who have never met work on the same case. The trouble begins when that vocabulary leaves the room where it is useful and enters a conversation with someone who does not share it.\n\nThe usual answer is to ask professionals to simplify. This helps less than expected, because the problem is not only the words. It is that the speaker knows what the sentence means and therefore cannot hear how it sounds to someone who does not. Fluency is a poor judge of clarity.\n\nWhat works better is a check that does not depend on the speaker\u0027s judgement: asking the patient to say back, in their own words, what they understood and what they will do next. It takes a minute and it fails loudly, which is the point. A misunderstanding that surfaces in the consulting room is a small problem; the same misunderstanding discovered a week later is not.\n\nNone of this requires new technology or new funding. It requires accepting that being understood is not the same as having spoken clearly, and that only the listener can settle the difference."
+                   },
+    "med-ing-t5":  {
+                       "id":  "med-ing-t5",
+                       "fonte":  "Entrevista ficticia original em ingles escrita para este banco",
+                       "conteudo":  "INTERVIEW — \"THE NIGHT IS NOT A SHORTER DAY\"\n\nA nurse with twenty-two years on night shifts talks about what the schedule does to people.\n\n— People say you get used to nights. Do you?\n— You get used to the routine. You do not get used to the biology. After twenty-two years I still sleep badly on my first day off. What changes is that you stop being surprised by it.\n\n— Is there anything that genuinely helps?\n— Rotating forwards instead of backwards. Morning, then afternoon, then night — never the other way round. It sounds like a detail and it is not. And enough days between blocks. Two is not enough, whatever the roster says.\n\n— And light?\n— Light is the underrated one. Bright light during the shift, dark glasses on the way home, blackout curtains. Most people do the third and skip the first two, and then wonder why it does not work.\n\n— What about food?\n— Eat before the shift, not in the middle of it. The body is not expecting a meal at three in the morning and it deals with it badly. That was the hardest thing for me to change, because eating at four is what breaks up the night.\n\n— Would you recommend the job to someone starting now?\n— I would recommend going in with your eyes open. The problem is not that nights are hard. It is that people are told they are hard for a few years and then get easier, and that is not true."
                    },
     "med-int-t1":  {
                        "id":  "med-int-t1",

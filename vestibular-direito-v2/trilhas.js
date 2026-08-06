@@ -21,7 +21,7 @@
 (function () {
   // Contador de cache do CONTEÚDO, separado do ?v= do código (ver o comentário
   // longo no topo do index.html). Corrigiu uma questão? Incremente aqui.
-  const DATA_VERSION = 26;
+  const DATA_VERSION = 27;
 
   // A chave da trilha ativa é a única que vive FORA do namespace de trilha —
   // é ela que diz qual namespace usar. Sobe pra nuvem junto com o resto.
@@ -66,7 +66,7 @@
         "subtopics", "theory", "obras", "obras-questoes", "flashcards",
         "priority-weights", "video-topics", "bundle", "dissertativas", "redacoes",
       ],
-      abas: ["hoje", "calendario", "simulados", "cards", "redacao", "obras", "erros", "progresso"],
+      abas: ["hoje", "calendario", "simulados", "buscar", "cards", "redacao", "obras", "erros", "progresso"],
       obrasUI: {
         titulo: "Obras obrigatórias (FGV)",
         hint: "A prova de Artes e Questões Contemporâneas da FGV cobra leitura crítica de uma lista fechada de " +
@@ -118,7 +118,7 @@
         "subtopics", "theory", "obras", "obras-questoes", "flashcards",
         "priority-weights", "video-topics", "bundle", "dissertativas", "redacoes",
       ],
-      abas: ["hoje", "calendario", "simulados", "cards", "redacao", "obras", "erros", "progresso"],
+      abas: ["hoje", "calendario", "simulados", "buscar", "cards", "redacao", "obras", "erros", "progresso"],
       // Rótulos da aba Obras. Ficavam fixos em app.js, escritos para a FGV —
       // a trilha de Medicina exibia "Obras obrigatórias (FGV)" e "lista do
       // edital 2027.1" se a aba fosse ligada sem isto.
@@ -175,15 +175,22 @@
   // acaso produziria um app que sobe com metade dos dados, de forma
   // intermitente e difícil de reproduzir. `script.async = false` restaura a
   // ordem de inserção mantendo o download em paralelo.
-  function carregar(id) {
+  //
+  // `apenas` (opcional) restringe a um subconjunto de `cfg.arquivos`, na ordem
+  // declarada lá. Serve à busca entre trilhas, que precisa do banco de questões
+  // da outra trilha mas não da teoria, dos flashcards nem das redações dela.
+  function carregar(id, apenas) {
     if (!ehValida(id)) return Promise.reject(new Error("trilha desconhecida: " + id));
     const cfg = window.VD_TRILHAS[id];
+    const lista = apenas
+      ? cfg.arquivos.filter(function (n) { return apenas.indexOf(n) !== -1; })
+      : cfg.arquivos;
 
     return new Promise(function (resolve, reject) {
-      let restantes = cfg.arquivos.length;
+      let restantes = lista.length;
       if (restantes === 0) return resolve(cfg);
 
-      cfg.arquivos.forEach(function (nome) {
+      lista.forEach(function (nome) {
         const el = document.createElement("script");
         el.src = cfg.dataDir + nome + ".js?d=" + DATA_VERSION;
         el.async = false; // preserva a ordem declarada em `arquivos`

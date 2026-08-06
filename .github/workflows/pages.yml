@@ -1,0 +1,69 @@
+# Publica o site no GitHub Pages pela esteira do Actions.
+#
+# Por que este arquivo existe:
+#
+# Até 2026-08-06 o Pages usava o modo `legacy`, em que o próprio GitHub roda
+# Jekyll sobre o repositório e publica o resultado. Naquele dia a esteira
+# emperrou: oito builds seguidos falharam com "Page build failed", sem log e
+# sem causa identificável, e o site ficou vinte horas servindo uma versão
+# antiga — entre outras coisas, sem a frente de inglês de Medicina, que tem 150
+# questões e nunca havia estado no ar. O `.nojekyll` na raiz destravou, mas a
+# esteira antiga continuou sendo a esteira antiga.
+#
+# Aqui a publicação passa a ser um workflow comum: faz checkout, empacota o
+# repositório como artefato estático e publica. Sem Jekyll, sem etapa opaca,
+# com log visível em caso de falha.
+#
+# Duas escolhas que resolvem problemas concretos daquele dia:
+#
+#   concurrency com cancel-in-progress: FALSE — no modo legacy, cada push novo
+#   CANCELAVA o build em andamento. Com duas pessoas publicando a cada poucos
+#   minutos e um build de nove minutos, nenhum chegava ao fim. Aqui os deploys
+#   entram em fila em vez de se derrubarem: o último a entrar é o último a
+#   publicar, e todos completam.
+#
+#   workflow_dispatch — no dia do incidente, o push parou de disparar build e
+#   foi preciso pedir um pela API para destravar. Com o gatilho manual dá para
+#   forçar uma publicação pela interface do Actions, sem precisar de um commit
+#   vazio nem de chamada de API.
+
+name: Publica no GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Permissões mínimas para publicar: ler o repositório, escrever no Pages e
+# pedir o token OIDC que o deploy-pages usa para se autenticar.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/configure-pages@v5
+
+      # path: "." publica a raiz do repositório, que é como o site está
+      # organizado — /vestibular-direito/, /vestibular-direito-v2/ e
+      # /vestibular-medicina/data/ são servidos lado a lado, e o v2 carrega
+      # dados do v1 por caminho relativo (../vestibular-direito/data/).
+      # Empacotar só uma das pastas quebraria esse carregamento.
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - id: deploy
+        uses: actions/deploy-pages@v4

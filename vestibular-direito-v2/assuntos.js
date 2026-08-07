@@ -95,9 +95,26 @@ window.ASSUNTOS = [
     termos: ["coesao", "coerencia", "elemento coesivo", "referente", "anafora", "catafora",
              "conector", "retomada", "progressao textual", "elipse"] },
 
-  { id: "classes-de-palavras", frentes: ["gramatica"], nome: "Classes de palavras", area: "Linguagens",
-    termos: ["classe de palavra", "substantivo", "adjetivo", "adverbio", "preposicao",
-             "conjuncao", "interjeicao", "numeral", "artigo", "morfologia"] },
+  // NÃO EXISTE MAIS um assunto "Classes de palavras", e a ausência é deliberada.
+  //
+  // Ele existia e casava 171 das 300 questões de gramática — 57%. Medindo termo
+  // a termo, o motivo apareceu: "preposição" casava 81 questões e aparecia no
+  // enunciado de UMA; "substantivo", 67 questões e NENHUMA. Das 171, só 7 traziam
+  // o termo no enunciado. As palavras estavam nas explicações, não nas perguntas
+  // — explicar crase custa falar de preposição, e explicar concordância custa
+  // falar de substantivo e adjetivo.
+  //
+  // Ou seja: o banco não cobra identificação de classe gramatical. "Classe de
+  // palavra" e "morfologia" não aparecem uma única vez nas 300 questões.
+  //
+  // Não havia poda que resolvesse: mantendo só os termos com algum sinal no
+  // enunciado ainda sobravam 139 questões (46%), e as mesmas 7 boas; reduzindo
+  // aos marcadores metalinguísticos sobravam 6 questões. Um assunto que promete
+  // 171 e entrega 7 é pior do que assunto nenhum, porque o número mente.
+  //
+  // Quem digitar "substantivo" continua achando as 67 questões pela busca por
+  // texto livre, ordenadas por acerto no enunciado — que é o comportamento certo
+  // e não finge que existe um tema curado ali.
 
   { id: "verbos", frentes: ["gramatica"], nome: "Verbos: tempo, modo e vozes", area: "Linguagens",
     termos: ["tempo verbal", "modo verbal", "subjuntivo", "indicativo", "imperativo",
@@ -188,10 +205,25 @@ window.ASSUNTOS = [
              "cultismo", "conceptismo", "carpe diem", "locus amoenus", "pastor",
              "Gregório de Matos", "Padre Vieira", "Tomás Antônio Gonzaga", "Claudio Manuel"] },
 
-  { id: "teoria-literaria", frentes: ["literatura"], nome: "Teoria literária e narrativa", area: "Linguagens",
-    termos: ["narrador", "foco narrativo", "narrador onisciente", "primeira pessoa",
-             "terceira pessoa", "personagem", "enredo", "clímax", "desfecho", "narrativa",
-             "discurso indireto livre", "tempo psicológico", "conto", "novela"] },
+  // Chamava-se "Teoria literária e narrativa" e casava 144 das 300 questões de
+  // literatura (48%). O excesso vinha dos termos largos: "narrativa" casava 69
+  // questões com 3 acertos no enunciado, "personagem" 48 com 3, "enredo" 32 com
+  // 1 — palavras que toda análise de texto literário usa de passagem, sem que a
+  // questão seja sobre construção narrativa.
+  //
+  // Podado ao FOCO NARRATIVO, que é o que a frente realmente cobra: 87 questões
+  // (29%), das quais 14 trazem o termo no enunciado. "Narrador" ficou porque é
+  // o único termo largo que se sustenta — sozinho responde por 13 dos 14 acertos
+  // de enunciado, ou seja, quando aparece costuma ser o assunto.
+  //
+  // Saíram também "clímax" (zero ocorrências no banco) e "novela" (uma).
+  //
+  // O nome mudou junto: prometer "teoria literária" e entregar foco narrativo
+  // seria o mesmo defeito, do lado do rótulo.
+  { id: "foco-narrativo", frentes: ["literatura"], nome: "Narrador e foco narrativo", area: "Linguagens",
+    termos: ["narrador", "foco narrativo", "narrador onisciente", "narrador-personagem",
+             "primeira pessoa", "terceira pessoa", "discurso indireto livre",
+             "tempo psicológico", "onisciencia"] },
 
   // ---------------------------------------------------------------------
   // MATEMÁTICA

@@ -1,0 +1,65 @@
+{
+  "_comentario": [
+    "As 6 de artes-cultura que eu declarei fechadas e nao estavam. Todas da mesma",
+    "forma, a que meu padrao antigo nao pegava: 'essa X é atribuída tradicionalmente",
+    "a Y, e não a Z' -- onde Z é justamente o assunto da questao. A alternativa diz",
+    "ao candidato que ela nao serve.",
+    "",
+    "Sao as vizinhas das que eu corrigi: em 74, 76, 86, 89, 91 e 96 eu troquei duas",
+    "ou tres alternativas cada e deixei esta de pe, porque a lista que eu segui vinha",
+    "do padrao curto.",
+    "",
+    "As substituicoes trocam a auto-denuncia por conteudo do mesmo campo:",
+    "",
+    "  74  o museu de acervo permanente, que organiza a exposicao a partir do que",
+    "      possui -- recorte definido pela colecao, e nao debate sobre tema atual.",
+    "  76  o estudio grafico de assinatura reconhecivel, que e autoria de forma e nao",
+    "      comunicacao de valores de um terceiro.",
+    "  86  a hierarquia justificada pela formacao previa exigida do publico, que e o",
+    "      argumento mais respeitavel a favor dela e continua sendo social.",
+    "  89  a trajetoria do samba, que percorreu o mesmo caminho da repressao ao",
+    "      simbolo nacional -- verdadeiro, e nao e a capoeira que se pergunta.",
+    "  91  o repente e o desafio cantado, que improvisa em voz e nao deixa folheto.",
+    "  96  o catolicismo popular das festas juninas, que tambem formou a cultura",
+    "      brasileira e nao e a matriz em questao."
+  ],
+  "subtopic": "artes-cultura",
+  "questoes": {
+    "artes-cultura-74": {
+      "alternativas": {
+        "e": "a atuação dos museus de acervo permanente, que montam suas exposições a partir do que já possuem em reserva técnica e trabalham, por isso, com um recorte definido pela própria coleção"
+      },
+      "explicacao": "A curadoria de uma bienal decide quais temas e quais artistas ocupam o espaço internacional, e é por isso que sua escolha revela disputas sobre quais vozes e narrativas ganham visibilidade em determinado momento. O poder de consagração que a seleção confere ao artista é efeito dessa curadoria e opera no mercado, não na definição de quais narrativas se tornam visíveis. A competição entre cidades para sediar o evento é questão de política urbana e de turismo. Dizer que obras expostas num pavilhão já caracterizam uma bienal ignora o recorte curatorial. Atribuir aos criadores da primeira Bienal de Veneza a previsão de temas futuros é anacronismo. E o museu de acervo permanente monta a exposição a partir do que possui, de modo que seu recorte vem da coleção e não do debate sobre um tema do presente."
+    },
+    "artes-cultura-76": {
+      "alternativas": {
+        "b": "a atuação de estúdios de design com repertório visual próprio e reconhecível, cuja assinatura de forma atravessa clientes de ramos muito diferentes e se impõe sobre a identidade de cada um deles"
+      },
+      "explicacao": "O design gráfico comunica valores de forma sintética, e o que se discute hoje é o uso dessa linguagem por marcas e instituições para enunciar posicionamentos sociais e políticos e criar vínculo emocional com públicos determinados. A renovação periódica da identidade visual para parecer atual é comunicação de marca sem posicionamento, o que a torna o distrator mais forte. Os sistemas de design que padronizam interface e material impresso resolvem consistência, que é problema técnico. Dizer que um logotipo colorido já caracteriza bom design ignora a capacidade de comunicar. Atribuir aos primeiros designers a previsão de identidades visuais para redes sociais é anacronismo. E o estúdio de assinatura reconhecível pratica autoria de forma, o que é o oposto de comunicar a identidade de um terceiro."
+    },
+    "artes-cultura-86": {
+      "alternativas": {
+        "d": "a fronteira entre alta cultura e cultura popular corresponde à diferença entre obras que exigem formação prévia para serem apreciadas e obras de fruição imediata, distinção que se verificaria no próprio público de cada uma"
+      },
+      "explicacao": "Os estudos culturais sustentam que a fronteira entre alta cultura e cultura popular expressa hierarquia social e disputa por legitimidade, e não critério estético objetivo e universal. O argumento da complexidade técnica e o da formação exigida do intérprete são os dois que quem defende a hierarquia realmente usa, e por isso disputam de verdade: ambos apresentam como medida objetiva algo que a análise mostra ser socialmente construído, já que quem define o que conta como complexidade também ocupa uma posição. O critério da formação prévia exigida do público é o mais respeitável a favor da hierarquia, e continua sendo social: quem teve acesso a essa formação é o que a posição de classe já determinava. A diferença de preço entre ingressos é dado de mercado."
+    },
+    "artes-cultura-89": {
+      "alternativas": {
+        "d": "a trajetória do samba, que passou da repressão policial nas primeiras décadas do século XX ao lugar de símbolo nacional exportado como marca do país, percurso comparável ao da prática em questão"
+      },
+      "explicacao": "A capoeira foi criminalizada por sua associação com a população negra e pobre e depois consagrada pela UNESCO, e o que essa trajetória levanta é a revalorização institucional que nem sempre vem acompanhada de reparação às comunidades que criaram a prática. A ausência de política de apoio aos mestres antigos é o distrator mais forte: aponta uma omissão real do poder público e para nela, sem alcançar a reparação às comunidades de origem. A expansão internacional trata de circulação e de perfil de praticantes. Dizer que movimentos corporais ritmados já bastam para a relação ignora o contexto racial e social. Atribuir aos capoeiristas do período colonial a previsão do reconhecimento de 2014 é anacronismo. E o samba percorreu percurso comparável, o que faz dele um bom paralelo histórico e não a resposta ao que se pergunta sobre a capoeira."
+    },
+    "artes-cultura-91": {
+      "alternativas": {
+        "b": "a prática do repente e do desafio cantado, em que dois violeiros improvisam versos um contra o outro diante do público reunido na feira, sem texto escrito antes nem folheto a ser vendido depois"
+      },
+      "explicacao": "O cordel narra em verso os acontecimentos de seu tempo em linguagem acessível, e é essa função que se mantém nos folhetos recentes sobre eleições, pandemias e escândalos. A adaptação a vídeos curtos e redes sociais é o distrator decisivo: conserva a função e troca o suporte, e a questão pergunta pela continuidade da função em folheto. A valorização da xilogravura como linguagem visual autônoma separa a imagem do texto. Dizer que a presença de rima já basta para a relação ignora a abordagem de fatos sociais. Atribuir aos cordelistas do início do século a previsão de escândalos futuros é anacronismo. E o repente improvisa em voz, diante de quem está ali, sem o texto escrito e o folheto que caracterizam o cordel."
+    },
+    "artes-cultura-96": {
+      "alternativas": {
+        "d": "a presença de elementos do catolicismo popular nas festas juninas, nas procissões e no repertório de festas de padroeiro, repertório que também marcou a formação da cultura brasileira e circula em produções de grande alcance"
+      },
+      "explicacao": "Os símbolos das religiões de matriz africana estão amplamente presentes na música, nas artes visuais e na moda brasileiras, e é esse contraste que a questão põe: a estética circula com facilidade enquanto os terreiros seguem sofrendo intolerância. O uso desse repertório por artistas e marcas sem vínculo com a religião é o distrator mais forte, porque trata da apropriação estética e não da violência que convive com ela. O reconhecimento dos terreiros como espaços de saber tradicional é política de patrimônio. Dizer que uma cor associada a um orixá já caracteriza uma produção como religiosa ignora o contexto de uso. Atribuir às religiões afro-brasileiras do período colonial a previsão dos debates atuais é anacronismo. E o catolicismo popular também marcou a formação da cultura brasileira, mas não é a matriz cuja perseguição está em questão."
+    }
+  }
+}

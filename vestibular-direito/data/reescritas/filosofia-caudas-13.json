@@ -1,0 +1,71 @@
+{
+  "_comentario": [
+    "Primeira metade das 16 de filosofia-sociologia que eu declarei fechadas e nao",
+    "estavam: 23, 25, 27, 31, 32, 36. Sete distratores, todos na forma em gerundio",
+    "que o padrao antigo nao pegava -- 'contrariando a tese de Beauvoir', 'confundindo",
+    "a fluidez dos vinculos', 'invertendo o objetivo do dispositivo'.",
+    "",
+    "Sao vizinhas das que eu corrigi nos lotes 05 e 08: em cada uma dessas questoes",
+    "eu troquei duas ou tres alternativas e deixei esta, porque a lista que eu segui",
+    "vinha do padrao curto.",
+    "",
+    "A questao 36 e a unica cuja explicacao ainda estava no formato antigo de",
+    "checklist ('diferente de defender que o Estado ignore..., de restringir..., ou de",
+    "negar...'). Reescrita por conteudo junto com as duas alternativas.",
+    "",
+    "As substituicoes:",
+    "",
+    "  23  a variacao dos papeis de genero entre sociedades como prova de que eles sao",
+    "      biologicos em toda parte -- erro real e frequente, e o inverso do que a",
+    "      variacao demonstra.",
+    "  25  a automacao que dissolve postos de trabalho, tema vizinho e distinto da",
+    "      fragilidade do vinculo.",
+    "  27  a formulacao das politicas por quem ocupa a posicao favorecida, apresentada",
+    "      como garantia de responsabilidade fiscal.",
+    "  31  a atuacao pelo Legislativo e por projetos de lei, que e acao coletiva",
+    "      organizada e nao a rede horizontal.",
+    "  32  o pais que cumpre a meta e cobra dos outros, que e o oposto do carona.",
+    "  36  o Estado que trata todos identicamente como garantia de igualdade -- que e",
+    "      o argumento liberal classico contra a politica do reconhecimento."
+  ],
+  "subtopic": "filosofia-sociologia",
+  "questoes": {
+    "filosofia-sociologia-23": {
+      "alternativas": {
+        "d": "o de que a existência de papéis distintos para homens e mulheres em sociedades muito diferentes entre si comprova que essa divisão tem base biológica, e não cultural, onde quer que essa divisão seja observada"
+      },
+      "explicacao": "Beauvoir sustenta que a condição feminina é construída por educação, expectativas e papéis atribuídos socialmente, e não deduzida da biologia — o que fundamenta o argumento de que associar certas cores e brinquedos a um gênero é convenção social, reforçada pela própria publicidade que alega apenas seguir o gosto das crianças. Atribuir as diferenças ao desenvolvimento hormonal e reduzir a publicidade a espelho de preferências espontâneas devolve à natureza o que a análise mostra ser cultural. Tratar a feminilidade como decisão individual livre vai ao extremo oposto e apaga o peso das condições sociais, que em Beauvoir são o centro do problema. Ler a existência de papéis distintos em sociedades diversas como prova de base biológica é o erro mais frequente do debate, e inverte o que a variação demonstra: se os papéis mudam de lugar para lugar, é justamente porque não vêm da natureza. E ritmos distintos de maturação escolar são questão de desenvolvimento, alheia à construção dos papéis de gênero."
+    },
+    "filosofia-sociologia-25": {
+      "alternativas": {
+        "d": "a dissolução de postos de trabalho pela automação de tarefas antes executadas por pessoas, processo que reduz o número de vagas disponíveis em setores inteiros da economia ao longo de poucos anos"
+      },
+      "explicacao": "A liquidez, em Bauman, nomeia a perda de forma estável dos laços sociais, e no trabalho isso aparece na troca de carreiras longas por vínculos provisórios e facilmente desfeitos. O arranjo apresentado como flexibilidade é o distrator que exige a distinção mais fina, porque descreve o mesmo fenômeno pelo vocabulário de quem o promove: a fluidez existe, mas o conceito aponta a fragilidade do vínculo, não a liberdade de escolher horários. Dizer que a modernidade líquida descreve instituições cada vez mais sólidas nega o que o termo significa. Tratá-la como retorno a formas rígidas e tradicionais afirma o contrário da metáfora. A dissolução de postos pela automação é tema vizinho e distinto: trata de quantas vagas existem, e o conceito trata de como é o vínculo de quem está empregado. E o trabalho remoto que permite escolher a cidade é consequência possível desse quadro, não a fragilidade que o conceito descreve."
+    },
+    "filosofia-sociologia-27": {
+      "alternativas": {
+        "a": "o de que as políticas distributivas devem ser formuladas por quem já ocupa posição social favorecida, por reunir a experiência de gestão e a responsabilidade fiscal necessárias para calcular o custo de cada medida"
+      },
+      "explicacao": "O véu da ignorância pede que se escolham os princípios de justiça sem saber que posição social se ocupará, e o efeito disso é levar quem decide a proteger também as posições mais desfavorecidas, já que poderá vir a ocupá-las — é esse raciocínio que sustenta políticas de ação afirmativa. A exigência de que cada um conheça sua posição antes de deliberar remove exatamente a premissa que dá força ao experimento, ainda que se apresente como zelo pelas consequências práticas. A alternativa da autoridade imparcial é a que exige a distinção mais fina: imparcialidade é não ter preferência entre as partes, enquanto o dispositivo de Rawls é mais forte, pois retira de quem decide o conhecimento de onde ele próprio estará. Entregar a formulação a quem ocupa a posição favorecida, mesmo em nome de experiência de gestão, produz precisamente o viés que o véu foi desenhado para neutralizar. E entregar a decisão a especialistas protegidos da opinião pública é argumento sobre competência técnica, não sobre justiça distributiva."
+    },
+    "filosofia-sociologia-31": {
+      "alternativas": {
+        "e": "a atuação desses movimentos por meio de projetos de lei apresentados no Legislativo e de audiências públicas nas comissões, canal em que suas pautas ganham forma jurídica e prazo de tramitação"
+      },
+      "explicacao": "Os novos movimentos sociais se organizam em torno de identidades e pautas culturais e existenciais, por redes horizontais, em vez de partirem da posição de classe — e a mobilização climática juvenil é o caso exemplar, articulada digitalmente e sem centro hierárquico. Reduzi-la a reivindicações de emprego e renda negociadas entre sindicatos e empresas a devolve ao molde do movimento operário clássico, que é justamente o contraste em jogo. Dizer que esses movimentos recusam a ação coletiva contraria o que os define, já que sua marca é articular coletivamente sem hierarquia. Organizar-se em torno de um partido com disciplina interna descreve a forma anterior, não a atual. E a atuação por projeto de lei e audiência pública é ação coletiva organizada, porém pela via institucional: essas redes agem sobretudo fora dela, o que é o traço que a questão pede."
+    },
+    "filosofia-sociologia-32": {
+      "alternativas": {
+        "c": "a de que países que cumprem suas metas de redução passam a cobrar publicamente o mesmo esforço dos demais, pressão diplomática que tende a acelerar a adesão dos que ainda não se comprometeram"
+      },
+      "explicacao": "O problema do carona descreve quem colhe o benefício de um esforço coletivo sem arcar com seu custo — e no clima isso aparece quando um país se beneficia da redução global de emissões promovida por outros sem reduzir as suas, o que trava acordos amplos. Adiar a execução esperando tecnologia mais barata é o distrator que exige a distinção mais fina: também é cálculo de custo, mas ali o proveito vem do tempo, e no problema do carona vem do esforço alheio. Localizar a dificuldade no consumidor individual desloca o problema para outra escala, quando ele opera igualmente entre Estados. O país que cumpre a meta e cobra dos outros descreve o comportamento oposto ao do carona, e a questão pede a dificuldade, não a saída para ela. E a dificuldade de medir emissões com precisão é obstáculo de verificação, distinto do incentivo a não contribuir."
+    },
+    "filosofia-sociologia-36": {
+      "alternativas": {
+        "b": "o de que o Estado deve tratar de modo idêntico cada cidadão, sem distinguir origem cultural, por ser essa neutralidade a garantia de que ninguém receba tratamento privilegiado em razão do grupo a que pertence",
+        "c": "o de que o reconhecimento oficial deve alcançar as identidades com maior presença demográfica no território, critério que asseguraria proporcionalidade entre a população reconhecida e a extensão das áreas tituladas"
+      },
+      "explicacao": "Taylor sustenta que a falta de reconhecimento causa dano à dignidade de grupos culturais, e é essa chave que fundamenta a titulação de territórios quilombolas e indígenas e o reconhecimento oficial dessas identidades. A defesa da neutralidade estatal, que trata todos de modo idêntico, é o distrator mais forte porque é o argumento liberal clássico contra a política do reconhecimento: parece garantir igualdade e, ao ignorar a diferença, mantém a desvantagem de quem já estava em desvantagem. O critério demográfico inverte o propósito, já que o reconhecimento se dirige justamente a identidades historicamente desvalorizadas, e não às de maior presença numérica. E negar relação entre identidade e reconhecimento social recusa a premissa de que a dignidade se constrói também no olhar do outro."
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "_comentario": [
+    "Lote 2 de filosofia-sociologia. Mesmo princípio do lote 01.",
+    "",
+    "Aqui reescrevi também distratores que a varredura não havia marcado, quando",
+    "eles tinham a mesma cauda com outra roupa: em 08 o 'prescrição normativa",
+    "alheia ao propósito analítico e descritivo da distinção' e em 10 o 'explicação",
+    "que desloca o foco da mais-valia para um fenômeno financeiro distinto'. Deixar",
+    "esses dois de fora só porque o regex não os pegou seria consertar a medida em",
+    "vez do banco -- e a questão continuaria com um distrator que se anuncia.",
+    "",
+    "O ganho pedagógico fica claro em 03: o distrator que atribuía a Rousseau a",
+    "transferência irrevogável do poder a um soberano vinha com a etiqueta 'posição",
+    "que se aproxima antes do absolutismo hobbesiano'. Ou seja, a questão pedia que",
+    "o candidato distinguisse Rousseau de Hobbes e entregava a distinção de graça.",
+    "Agora a alternativa afirma a tese sem se denunciar, e distinguir os dois passou",
+    "a ser trabalho de quem responde."
+  ],
+  "subtopic": "filosofia-sociologia",
+  "questoes": {
+    "filosofia-sociologia-03": {
+      "alternativas": {
+        "a": "o de que a legitimidade de um governo se mede pelo número de pessoas que saem às ruas contra ele, sendo a dimensão do protesto, e não o seu conteúdo, o que revela a vontade do corpo político naquele momento",
+        "d": "o de que o povo, ao instituir o corpo político, transfere de modo irrevogável sua autoridade a quem governa, não podendo retomá-la sem desfazer o próprio pacto que o constituiu",
+        "e": "o de que a vontade geral só se manifesta por consultas diretas e permanentes ao conjunto dos cidadãos, o que tornaria ilegítima qualquer decisão tomada sem plebiscito prévio"
+      },
+      "explicacao": "Para Rousseau a soberania está na vontade geral e é inalienável: a autoridade se sustenta enquanto expressa o interesse comum, e o governante que passa a servir a interesses particulares perde o título para governar — é esse o argumento a que manifestações por renúncia recorrem. Medir a legitimidade pelo tamanho do protesto troca o critério do interesse comum por uma contagem, e Rousseau distingue vontade geral de soma de vontades particulares reunidas na rua. A transferência irrevogável da autoridade a quem governa é a solução de Hobbes, e é exatamente o que Rousseau nega ao afirmar a soberania inalienável. Exigir plebiscito para toda decisão confunde a vontade geral com consulta permanente, quando ela é o princípio que orienta a lei. E dizer que a soberania se esgota no voto entrega aos eleitos aquilo que, para ele, o povo não pode delegar."
+    },
+    "filosofia-sociologia-08": {
+      "alternativas": {
+        "a": "a defesa de que somente líderes de forte carisma pessoal conseguem sustentar governos estáveis nas democracias contemporâneas, cabendo às instituições o papel de apenas registrar e formalizar essa preferência já manifestada pelo eleitorado",
+        "b": "a ideia de que a autoridade de um líder populista se sustenta sobretudo no domínio das regras administrativas e no conhecimento técnico da máquina pública, e não na relação direta que ele estabelece com seu eleitorado",
+        "e": "a ideia de que a eleição é, por si mesma, a única fonte de legitimidade em jogo, de modo que líderes populistas e lideranças institucionais se apoiariam exatamente no mesmo tipo de autoridade"
+      },
+      "explicacao": "A distinção entre autoridade fundada no costume, no carisma pessoal e no cargo institucional é ferramenta descritiva, e o que ela ilumina no debate sobre populismo é o contraste entre líderes cuja autoridade nasce de qualidades pessoais e de um vínculo emocional direto com o público, e instituições cuja autoridade vem de regras impessoais e de cargos que existem independentemente de quem os ocupa. Dizer que o líder populista se apoia no domínio da máquina administrativa inverte a fonte de sua autoridade, que é justamente o vínculo direto. Tratar a eleição como fonte única desfaz a distinção que a análise serve para fazer, já que dois líderes eleitos podem sustentar-se em bases inteiramente diferentes. Prescrever que só carismáticos governem transforma em recomendação o que é instrumento de análise. E trocar concursados por cargos de livre nomeação é medida de gestão de pessoal, não mudança na fonte de legitimidade."
+    },
+    "filosofia-sociologia-10": {
+      "alternativas": {
+        "a": "o debate sobre se o preço cobrado do cliente corresponde ao valor de uso que ele atribui ao serviço recebido, sendo essa correspondência entre preço e utilidade percebida o que determinaria quanto é devido ao entregador que executou a tarefa",
+        "b": "o debate sobre a origem do lucro das plataformas na valorização de suas ações em bolsa, que cresce conforme aumenta o número de usuários cadastrados em sua base",
+        "e": "o debate sobre se o pagamento por entrega realizada já assegura proporção entre esforço e ganho, dispensando qualquer discussão sobre o excedente retido pela empresa que intermedeia o serviço"
+      },
+      "explicacao": "A mais-valia nomeia a diferença entre o valor que o trabalho produz e o que é pago a quem trabalha, apropriada por quem detém os meios de produção — e é essa diferença que está em jogo quando se discute o que entregadores e motoristas geram e o que recebem, com o excedente ficando na plataforma. Fazer a conta pelo valor de uso percebido pelo cliente abandona a distinção entre valor de uso e valor de troca, sem a qual o conceito não se formula. Localizar o lucro na valorização das ações em bolsa desloca a explicação para o terreno financeiro, quando a análise trata da produção. Supor que o pagamento por entrega já garante proporção entre esforço e ganho pressupõe resolvida a questão que o conceito levanta. E onde a plataforma recolhe impostos é problema tributário, que não toca na origem do excedente."
+    },
+    "filosofia-sociologia-13": {
+      "alternativas": {
+        "a": "o modo como a instalação de um software corporativo no equipamento de trabalho transfere à empresa a propriedade dos arquivos e dos dados pessoais que o funcionário mantenha naquele computador, incluindo mensagens e documentos produzidos fora do horário contratado",
+        "b": "o modo como a vigilância sobre condutas permanece uma prerrogativa exercida pelos órgãos do Estado, cabendo às empresas privadas apenas registrar a jornada efetivamente cumprida por cada um de seus funcionários contratados",
+        "e": "o modo como o trabalho remoto dissolve as hierarquias internas da empresa, substituindo a supervisão por acordos negociados diretamente entre os colegas de cada equipe"
+      },
+      "explicacao": "Foucault trata o poder como relação difusa, que opera em práticas cotidianas e não apenas no Estado — e o monitoramento de produtividade é um caso claro: o controle deixa de depender de um supervisor presente e se distribui por ferramentas que registram cliques, telas e tempo de resposta de modo contínuo. Reservar a vigilância aos órgãos estatais contraria o ponto central dessa concepção, que descreve o poder disciplinar em bancos, escolas, hospitais e empresas. Dizer que o trabalho remoto dissolve as hierarquias supõe o desaparecimento de algo que apenas mudou de forma, já que normas e comandos seguem operando à distância. A questão da propriedade dos arquivos do funcionário é matéria jurídica sobre dados, distinta da que trata de como a conduta é conduzida. E a obrigação de informar quais dados são coletados é regra de transparência, que convive com o monitoramento em vez de descrevê-lo."
+    },
+    "filosofia-sociologia-14": {
+      "alternativas": {
+        "a": "a de que o isolamento dos indivíduos pouco pesa na sustentação de um regime autoritário, que dependeria antes do controle direto sobre os meios de comunicação de massa e de um aparato policial capaz de reprimir toda oposição já organizada",
+        "b": "a de que as plataformas digitais ampliam a esfera pública e fortalecem a ação política coletiva, ao permitir que pessoas dispersas por todo o território se reconheçam entre si e se organizem sem depender de intermediários",
+        "e": "a de que todas as redes sociais produzem o mesmo grau de isolamento político entre seus usuários, qualquer que seja o modo como cada algoritmo ordena aquilo que aparece na tela de quem abre o aplicativo para se informar"
+      },
+      "explicacao": "Arendt sustenta que o totalitarismo depende de indivíduos isolados, privados dos laços que tornam possível agir em conjunto — e é essa chave que permite criticar ambientes digitais que fecham cada usuário numa bolha homogênea, enfraquecendo a pluralidade de que a ação política vive, mesmo que por mecanismos distintos dos regimes do século XX. Minimizar o peso do isolamento contraria o eixo do argumento, para quem a atomização é condição da dominação e não seu efeito colateral. Ver nas plataformas um fortalecimento da ação coletiva é uma leitura possível do fenômeno, mas não a que se extrai da análise do isolamento. Igualar todas as redes ignora que os algoritmos diferem justamente no quanto fecham cada um em seu círculo. E comunidades on-line dedicadas a interesses técnicos reúnem pessoas por afinidade sem produzir o fechamento político em questão."
+    },
+    "filosofia-sociologia-15": {
+      "alternativas": {
+        "a": "o de aceitar qualquer prática cultural sem exame, tomando a pertença a uma tradição como razão suficiente para não avaliá-la sob nenhum aspecto",
+        "c": "o de supor que o etnocentrismo é um viés de quem observa de fora, do qual estariam livres os jornalistas que cobrem a própria sociedade e conhecem seus códigos internos",
+        "e": "o de tratar as diferenças entre povos como variações superficiais de costume, sob a suposição de que os valores fundamentais seriam, no fundo, os mesmos em toda parte e apenas se expressariam de outro modo"
+      },
+      "explicacao": "O relativismo cultural pede que uma prática seja compreendida pelos códigos da sociedade em que ocorre, e o erro que ele evita na cobertura internacional é julgar essa prática apenas pelos padrões morais de quem observa, sem considerar o sentido que ela tem para quem a vive. Confundir isso com aceitar tudo sem exame troca um método de compreensão por uma renúncia à análise, que não é o que a perspectiva propõe. Atribuir o etnocentrismo só a quem vem de fora ignora que o viés está no critério adotado, não na origem de quem escreve. Reduzir as diferenças a variações superficiais desfaz o pressuposto do método, que parte da existência de diferenças reais a serem compreendidas. E indicar mal a distribuição geográfica de uma prática é imprecisão factual, de outra ordem que o problema do julgamento moral."
+    }
+  }
+}

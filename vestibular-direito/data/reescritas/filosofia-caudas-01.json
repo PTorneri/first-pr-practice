@@ -1,0 +1,87 @@
+{
+  "_comentario": [
+    "Lote 1 de filosofia-sociologia: tira a cauda delatora dos distratores e",
+    "reescreve a explicação, que nessas frentes é um checklist dos tipos de",
+    "distrator e por isso não pode ficar para trás.",
+    "",
+    "O padrão que sai: o distrator dizia o que ele mesmo era. 'inversão que",
+    "contraria a tese lockeana de limitação do poder estatal', 'hipótese que ignora",
+    "o caráter hipotético e filosófico do estado de natureza', 'generalização que",
+    "ignora a distinção kantiana'. Quem lê isso elimina sem saber quem é Locke.",
+    "",
+    "O padrão que entra: a mesma afirmação errada, sustentada como alguém a",
+    "sustentaria de verdade. A alternativa de Locke com poder irrestrito continua",
+    "errada, mas agora ela se apresenta como uma leitura possível do contratualismo",
+    "-- e o candidato tem de saber que essa é a posição de Hobbes, não de Locke,",
+    "para descartá-la. É essa a distinção que a questão deveria estar cobrando.",
+    "",
+    "As explicações passam a nomear cada distrator pelo conteúdo, sem a lista de",
+    "rótulos ('anacronismo', 'generalização', 'inversão') que funcionava como",
+    "gabarito reverso. Sem letra citada, também: é o que mantém a permutação e o",
+    "rebalanceamento seguros depois."
+  ],
+  "subtopic": "filosofia-sociologia",
+  "questoes": {
+    "filosofia-sociologia-01": {
+      "alternativas": {
+        "c": "uma discussão acalorada entre usuários de uma plataforma que já mantém moderação ativa e regras de convivência aceitas por quem participa dela",
+        "d": "a proposta de que os espaços digitais sejam geridos pelos próprios usuários, reunidos em assembleias abertas e sem nenhuma autoridade central acima delas, como forma de preservar a liberdade de expressão em sua forma mais plena, ainda que ao custo de conflitos frequentes entre grupos rivais",
+        "e": "a formulação, por Hobbes, de uma teoria destinada a prever as formas de convivência que a técnica viria a criar, das quais os termos de uso das plataformas seriam um desdobramento direto"
+      },
+      "explicacao": "Hobbes descreve o estado de natureza como guerra de todos contra todos, superada quando os indivíduos instituem um poder soberano capaz de impor regras comuns — e é essa lógica que ilumina o que ocorre em espaços digitais sem moderação, onde a falta de regra compartilhada escala o conflito até que plataformas e governos imponham alguma ordem. Uma discussão em ambiente que já tem moderação aceita não serve de exemplo, porque ali a autoridade comum já existe. A gestão por assembleia sem autoridade central é o oposto do que Hobbes propõe, e a ideia de contrato dispensável entre quem se conhece pessoalmente ignora que, para ele, a insegurança não vem do anonimato mas da ausência de um poder que arbitre. O estado de natureza, por fim, é uma hipótese sobre a origem do poder político, e não uma previsão sobre tecnologias futuras."
+    },
+    "filosofia-sociologia-02": {
+      "alternativas": {
+        "b": "qualquer legislação recente sobre tecnologia, tanto a que protege dados dos cidadãos quanto a que amplia os poderes de vigilância do Estado sobre as comunicações privadas",
+        "c": "a formulação, por Locke, de uma doutrina voltada a antecipar os efeitos das redes de compartilhamento de informação sobre a vida privada dos cidadãos",
+        "d": "a defesa de que o Estado deve deter poder amplo e indivisível sobre a vida e a propriedade dos cidadãos, já que só uma autoridade sem limites conseguiria garantir a paz civil e a segurança de todos"
+      },
+      "explicacao": "Locke concebe o governo civil como instrumento para proteger direitos que existem antes dele — vida, liberdade e propriedade — o que dialoga com leis de proteção de dados, que limitam o que Estados e empresas podem fazer com informação pertencente ao próprio indivíduo. Tratar do mesmo modo uma lei que protege dados e uma que amplia a vigilância apaga exatamente a distinção que Locke introduz, entre lei que resguarda direitos e lei que expande o poder. A defesa de um poder estatal amplo e indivisível é a posição de Hobbes, para quem só um soberano sem limites evita o conflito; Locke sustenta o contrário, que o poder se justifica por seus limites. E a teoria lockeana trata do fundamento do governo, não de prever os efeitos de tecnologias de informação. Já a tributação de heranças é questão de política fiscal, que não se decide pelo argumento sobre a origem dos direitos."
+    },
+    "filosofia-sociologia-04": {
+      "alternativas": {
+        "a": "a defesa de que uma ação vale moralmente pelos benefícios concretos que produz, de modo que uma campanha capaz de melhorar de fato as condições de vida de uma comunidade seria moralmente superior a uma boa intenção sem resultado algum, ainda que concebida no departamento de marketing para ampliar a participação da empresa no mercado",
+        "b": "qualquer campanha publicitária de uma empresa, mesmo quando não há alegação de causa social alguma e a peça se limita a apresentar as qualidades técnicas do produto anunciado",
+        "c": "a ideia de que a intenção de quem age é inacessível a terceiros, de modo que só a conformidade externa da conduta ao dever poderia servir de critério para julgá-la moralmente"
+      },
+      "explicacao": "Para Kant o valor moral de uma ação está em ser praticada por respeito ao dever, e não pelas vantagens que traz — por isso o marketing de causas é o caso exemplar: a ação é externamente correta e, sendo movida sobretudo pelo retorno de imagem, perde o valor moral que aparenta ter. Julgar pelos benefícios produzidos é justamente o critério consequencialista que Kant recusa como fundamento. Reduzir o julgamento à conformidade externa desfaz a distinção entre agir por dever e agir conforme o dever, que é o coração do argumento. Aplicar o critério a uma publicidade sem qualquer alegação de causa social não testa nada, porque não há pretensão moral a examinar. E a empresa que anuncia metas ambientais sem mudar a produção é caso de falsidade quanto ao fato, não de intenção por trás de uma ação efetivamente praticada."
+    },
+    "filosofia-sociologia-06": {
+      "alternativas": {
+        "b": "a de populações que, ao serem expulsas de seus países, permanecem sob a jurisdição e o controle administrativo dos Estados que as expulsaram, e é a esses que devem recorrer",
+        "d": "a de uma pessoa que viaja ao exterior como turista e enfrenta dificuldades com a língua, o desconhecimento das leis locais e a distância de sua rede de apoio familiar, tendo de recorrer ao consulado do próprio país para resolver pendências de documentação",
+        "e": "a de que a apatridia se tornou um problema residual depois que a Declaração Universal dos Direitos Humanos passou a reconhecer direitos independentemente da nacionalidade de cada pessoa"
+      },
+      "explicacao": "Arendt mostra que perder a cidadania não retira um direito entre outros: retira o reconhecimento jurídico que torna qualquer outro direito exigível, o que ela chama de direito a ter direitos. Daí a força do caso de populações deslocadas que, sem Estado que as reconheça, ficam sem instância a quem reclamar. Supor que continuem sob a jurisdição de quem as expulsou desfaz o problema, porque a expulsão é precisamente a perda desse vínculo. O turista enfrenta dificuldades práticas, mas conserva um Estado que responde por ele, e é essa diferença que o exemplo apaga. Declarar direitos independentemente da nacionalidade não os torna exigíveis sem um Estado que os garanta — a distância entre direito proclamado e direito efetivo é o que Arendt aponta. Já o trabalhador com visto vinculado ao emprego tem proteção precária, porém existente."
+    },
+    "filosofia-sociologia-07": {
+      "alternativas": {
+        "b": "a difusão de explicações que atribuem comportamentos de risco a predisposições individuais de temperamento, tratando-os como traço de personalidade e não como resposta a circunstâncias",
+        "d": "o endurecimento das normas de conduta em períodos de crise aguda, quando autoridades e comunidades passam a cobrar com mais rigor os comportamentos considerados aceitáveis e a punir com mais severidade quem se afasta deles",
+        "e": "a mudança de rotina de quem troca de emprego ou de cidade, tendo de reorganizar hábitos cotidianos enquanto as normas de convivência ao seu redor seguem estáveis"
+      },
+      "explicacao": "Anomia, em Durkheim, é a desregulação das normas: quando as referências habituais de conduta perdem força, o comportamento coletivo se desorienta — e é isso que se observa em crises econômicas agudas ou rupturas abruptas da rotina social. Descrever o período de crise como endurecimento das regras inverte o conceito, que se define pela ausência e não pelo excesso de norma comum. Explicar a conduta por temperamento individual desloca para a psicologia um fenômeno que Durkheim constrói como social, e é justamente contra essa redução que ele elabora o termo. Trocar de emprego ou de cidade reorganiza a rotina de uma pessoa sem afetar as normas do grupo, então não há desregulação alguma. E a especialização das profissões, na obra dele, produz solidariedade orgânica, um modo de integração e não sua perda."
+    },
+    "filosofia-sociologia-09": {
+      "alternativas": {
+        "c": "a redução dos riscos econômicos e sanitários entre países, que a coordenação entre organismos internacionais e bancos centrais tornou mais previsíveis e administráveis do que no passado",
+        "e": "a recomendação de que cada país reduza sua exposição ao comércio internacional e reconstitua a produção interna dos bens essenciais, para não depender de cadeias que não controla"
+      },
+      "explicacao": "Giddens descreve a globalização como intensificação da interdependência: os riscos circulam mais rápido do que a capacidade de qualquer instituição isolada de contê-los, e é isso que se vê quando uma crise financeira ou sanitária nascida em um país alcança economias distantes em semanas. Dizer que a coordenação internacional tornou esses riscos administráveis afirma o contrário do diagnóstico, que é de perda de controle. A recomendação de reduzir a exposição ao comércio externo é uma resposta política que outros defendem, e não a descrição que Giddens faz do processo — ele diz que a interdependência aumenta, não que deva ser desfeita. Supor que as crises atinjam apenas países pobres ignora que a interdependência arrasta também as economias centrais. E a padronização de normas técnicas uniformiza mercados sem produzir a perda de controle que está em questão."
+    },
+    "filosofia-sociologia-11": {
+      "alternativas": {
+        "a": "a de que motoristas e entregadores, por serem donos do veículo e do celular com que trabalham, controlariam de fato os meios necessários à realização do serviço que prestam",
+        "c": "a de que o problema central desse arranjo está na tributação das plataformas digitais, que recolhem menos impostos do que empresas de transporte e de entrega constituídas de forma tradicional"
+      },
+      "explicacao": "Alienação, em Marx, é a perda de controle do trabalhador sobre o processo e o produto do próprio trabalho — o que ilumina a crítica ao trabalho por aplicativo, em que tarefas fragmentadas são distribuídas por um algoritmo cujas regras o trabalhador não conhece nem decide. O argumento de que ele é proprietário porque possui o carro e o celular é o mais tentador e o que exige a distinção mais fina: possuir o instrumento não é controlar a organização do trabalho, que segue definida pela plataforma. Deslocar a questão para a tributação troca um problema sobre a relação de trabalho por outro, fiscal. Afirmar que todo trabalho por aplicativo é mais alienante que qualquer emprego formal generaliza além do que o conceito autoriza. E o uso de uniforme e equipamento padronizado é padronização de aparência, não perda de controle sobre o processo produtivo."
+    },
+    "filosofia-sociologia-12": {
+      "alternativas": {
+        "a": "a de que os direitos civis, políticos e sociais descritos por Marshall já abrangiam, em sua formulação original, o acesso aos meios de comunicação de que cada época dispõe",
+        "b": "a de que os direitos digitais formam uma categoria autônoma, que substitui os direitos civis e políticos conquistados antes dela e passa a organizar a cidadania em novas bases"
+      },
+      "explicacao": "Marshall descreve a cidadania como acúmulo histórico de três dimensões — civis, políticos e sociais — em que cada conquista se soma às anteriores. É esse modelo que permite discutir se o acesso à internet e a proteção de dados devem ser reconhecidos como extensão contemporânea dos direitos sociais, necessária ao exercício pleno da cidadania. Tratar os direitos digitais como categoria que substitui as anteriores desfaz a lógica cumulativa que sustenta o argumento. Dizer que a formulação original já abrangia o acesso aos meios de comunicação de cada época é generoso com um texto escrito muito antes da internet e apaga o que há de novo na discussão. Restringir a extensão ao eixo político separa dimensões que Marshall trata como complementares. E condicionar o voto à escolaridade é restrição de direito político, movimento contrário à ampliação que ele descreve."
+    }
+  }
+}

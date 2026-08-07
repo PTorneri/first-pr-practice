@@ -1,0 +1,68 @@
+{
+  "_comentario": [
+    "Lote 5 de gramatica: 97, 100, 101, 102, 104. Onze distratores.",
+    "",
+    "Bloco de subjuntivo em concessiva, dois-pontos, crase em nome de pais, cor",
+    "composta e demonstrativos.",
+    "",
+    "Em 104(c) o molde produziu o caso mais curioso do arquivo: a alternativa DESCREVE",
+    "corretamente o que a frase faz -- 'este' retoma o ultimo mencionado, 'aquele' o",
+    "primeiro -- e conclui que isso inverte a regra tradicional. Ou seja, ela acerta a",
+    "analise e erra o veredito, e a cauda ('invertendo a regra tradicional de",
+    "retomada') e o que a torna descartavel. Sem a cauda, ela ficaria",
+    "indistinguivel da resposta certa, que e o problema oposto. Precisei reescrevê-la",
+    "para afirmar de fato outra coisa: a convencao invertida, com 'este' para o",
+    "primeiro citado -- que e o erro real e frequente.",
+    "",
+    "Os substitutos:",
+    "",
+    "  97  'ainda que' com indicativo por ser fato consumado, que e a distincao fina --",
+    "      e existe em algumas gramaticas para 'mesmo que', o que a torna tentadora.",
+    "  100 os dois-pontos trocados por virgula porque 'o seguinte' ja anuncia, que e",
+    "      leitura de economia de pontuacao.",
+    "  101 a crase negada por 'Suecia' ser nome proprio, que e a regra que vale para",
+    "      cidades e nao para paises.",
+    "  102 a flexao do primeiro elemento ('azuis-marinho'), que e o que a regra geral",
+    "      de adjetivo composto de fato pede -- e cor com substantivo de tom e excecao.",
+    "  104 'este' e 'aquele' pela posicao fisica no papel, e a convencao invertida."
+  ],
+  "subtopic": "gramatica",
+  "questoes": {
+    "gramatica-97": {
+      "alternativas": {
+        "b": "está incorreto em relação a 'ainda que', que pede o indicativo por introduzir fato já consumado, ao contrário de 'embora', que apresenta a concessão como hipótese e por isso exige o subjuntivo",
+        "d": "está correto, mas apenas porque as duas orações concessivas vêm antepostas à principal; posposta, a concessiva admitiria o indicativo sem prejuízo para a construção do período"
+      },
+      "explicacao": "Conjunções concessivas como 'embora' e 'ainda que' pedem o subjuntivo nas orações que introduzem, e é isso que 'fosse' e 'houvesse' registram. A distinção entre as duas conjunções pela realidade do fato concedido é o desvio mais fino, porque algo parecido se discute em torno de 'mesmo que' — mas as duas se comportam do mesmo modo, e ambas pedem subjuntivo. Fazer o modo depender da posição da concessiva em relação à principal inventa um critério que a norma não usa. Atribuir a essas conjunções o indicativo confunde concessivas com condicionais, que admitem indicativo em certas construções. E dizer que o subjuntivo perde obrigatoriedade fora do registro formal troca regra por variação de estilo."
+    },
+    "gramatica-100": {
+      "alternativas": {
+        "a": "deveriam ser substituídos por vírgula, uma vez que 'o seguinte' já anuncia o conteúdo que vem depois e torna suficiente uma pausa simples antes da deliberação enunciada",
+        "c": "estão incorretos, pois os dois-pontos se reservam a enumerações e a falas em discurso direto, não devendo introduzir a paráfrase de uma deliberação como a que aparece no período"
+      },
+      "explicacao": "Os dois-pontos introduzem o conteúdo daquilo que foi deliberado, função equivalente à de anunciar um discurso relatado em detalhe, e é isso que a frase faz. Trocá-los por vírgula porque 'o seguinte' já anuncia é leitura de economia de pontuação: a expressão anuncia, e são os dois-pontos que abrem o conteúdo anunciado. Restringir o sinal a enumerações e falas em discurso direto reduz um uso que também alcança explicações e esclarecimentos. Substituí-los por reticências trocaria anúncio por suspensão. E encerrar a frase com ponto antes da deliberação romperia a ligação entre o anúncio e o que ele anuncia."
+    },
+    "gramatica-101": {
+      "alternativas": {
+        "c": "está incorreta, pois 'Suécia' é nome próprio e nomes próprios dispensam o artigo definido, do mesmo modo que ocorre com nomes de cidades como Salvador, Roma e Lisboa"
+      },
+      "explicacao": "'Suécia', como a maioria dos nomes de país, é empregada com artigo definido feminino, e por isso a preposição 'a' se contrai com ele, produzindo 'à Suécia'. A comparação com nomes de cidade é o desvio mais fino, porque ali a regra é de fato outra: cidades em geral dispensam artigo, e países em geral o exigem, e é essa diferença que a questão testa. Condicionar o acento ao verbo indicar deslocamento confunde a origem da preposição com a do artigo. Trocar 'a' por 'em' muda a regência exigida pelo verbo. E fazer a crase depender do tempo verbal introduz um critério que nada tem a ver com a contração."
+    },
+    "gramatica-102": {
+      "alternativas": {
+        "b": "estão incorretas; deveriam flexionar o primeiro elemento, ficando 'azuis-marinho' e 'verdes-oliva', porque em adjetivo composto é o primeiro termo que recebe a marca de número, concordando com o substantivo a que o conjunto se refere no período",
+        "d": "estão incorretas porque cores compostas se comportam como substantivos e por isso pedem a preposição 'de' antes do tom, exigindo 'camisas de azul-marinho' e 'uniformes de verde-oliva' na frase",
+        "e": "estão corretas, mas apenas porque os substantivos que elas qualificam estão no plural; no singular, os dois adjetivos compostos passariam a variar conforme o gênero do termo qualificado"
+      },
+      "explicacao": "Adjetivos de cor compostos cujo segundo elemento é substantivo que nomeia um tom permanecem invariáveis: 'camisas azul-marinho' e 'uniformes verde-oliva'. A flexão do primeiro elemento é o distrator decisivo, porque é o que a regra geral do adjetivo composto de fato pede — e a cor com substantivo de tom é a exceção que a questão cobra. Tratar as cores compostas como substantivos que exigem a preposição 'de' altera a construção sem necessidade. Dizer que a invariabilidade depende de os substantivos estarem no plural inverte causa e efeito, já que a invariabilidade vale nos dois números. E afirmar que só o segundo elemento flexiona descreve outro grupo de compostos, não este."
+    },
+    "gramatica-104": {
+      "alternativas": {
+        "b": "estão incorretos, pois 'este' e 'aquele' indicam proximidade e distância no espaço físico em relação a quem fala, e não a posição de um termo em relação a outro dentro do próprio texto escrito, onde não há proximidade física a considerar",
+        "c": "estão incorretos; a convenção pede o contrário do que a frase faz, com 'este' retomando o primeiro projeto citado e 'aquele' retomando o segundo, na ordem em que ambos aparecem no período",
+        "d": "estão incorretos e deveriam ser substituídos por 'esse' nos dois casos, pronome que a norma reserva à retomada de termos já enunciados, sem distinguir qual deles foi mencionado primeiro"
+      },
+      "explicacao": "Na retomada textual, 'este' recupera o termo mais próximo, isto é, o último mencionado, e 'aquele' recupera o mais distante, o primeiro mencionado — e é assim que a frase distribui os dois projetos. Inverter a convenção, com 'este' para o primeiro citado, é o erro mais frequente e o que a questão existe para pegar. Reduzir os demonstrativos à distância física ignora que eles também organizam a referência dentro do texto. Substituir os dois por 'esse' apagaria justamente a distinção entre os dois projetos. E dizer que o emprego se justifica por os elementos estarem na mesma oração não explica qual retoma qual."
+    }
+  }
+}

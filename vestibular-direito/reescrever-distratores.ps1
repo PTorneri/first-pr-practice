@@ -188,8 +188,20 @@ foreach ($prop in $pat.questoes.PSObject.Properties) {
       if ($novo -cmatch $AUTORREF_RX) {
         throw "${id}: o texto novo de '$letra' encosta no AUTORREF_RX do verify ('$($Matches[0].Trim())'). A métrica descartaria essa alternativa, então ela não disputaria nada na questão. Reformule."
       }
-      if ($novo -match $ABSOLUTO_RX) {
-        throw "${id}: o texto novo de '$letra' tem palavra categórica ('$($Matches[0])'). A métrica descarta alternativa assim, e o candidato também. Reformule sem ela."
+      # Palavra categórica DENTRO de aspas simples não conta: ali ela está sendo
+      # citada, não afirmada. Isso é essencial em gramatica, onde o objeto de
+      # estudo é a própria palavra -- a questão 113 discute a diferença entre
+      # 'todo o material' e 'todo material', e a alternativa não tem como falar
+      # disso sem escrever 'todo'. A alternativa CERTA daquela questão cita
+      # 'qualquer material' pelo mesmo motivo.
+      #
+      # Nota: o ABSOLUTO_RX do verify-banco não faz essa distinção, e por isso
+      # continua descartando essas alternativas do cálculo de chutabilidade. É
+      # limitação da métrica naquela frente, não algo que este script deva
+      # contornar mexendo no número -- aqui só se evita reprovar texto correto.
+      $semCitacao = $novo -replace "'[^']*'", ""
+      if ($semCitacao -match $ABSOLUTO_RX) {
+        throw "${id}: o texto novo de '$letra' tem palavra categórica ('$($Matches[0])') fora de citação. A métrica descarta alternativa assim, e o candidato também. Reformule sem ela."
       }
 
       $q.alternativas.$letra = $novo

@@ -1,0 +1,68 @@
+{
+  "_comentario": [
+    "Lote 6 de gramatica: 105, 109, 111, 113, 115. Oito distratores.",
+    "",
+    "Bloco de 'ha' impessoal, sujeito partitivo, concordancia por atracao com pronome",
+    "pessoal, 'todo/todo o' e participio duplo.",
+    "",
+    "A 111 e o caso que eu havia registrado como excecao: a alternativa certa tem 280",
+    "caracteres e o maior distrator era justamente o que sai, com 266. Se eu apenas",
+    "cortasse a cauda, a certa ficaria isolada como a mais longa da questao e um",
+    "candidato que chuta a maior acertaria. O substituto foi escrito para passar dos",
+    "280 -- e cabe, porque a alternativa precisa mesmo enunciar a regra que ela",
+    "defende, com a forma verbal alternativa por extenso.",
+    "",
+    "Em 111(d) sobrevive uma cauda de tipo diferente, que nao e do escopo deste corte",
+    "mas vale anotar: '(erro que comprometeria a coerencia da resposta)'. Isso nao e",
+    "comentario sobre a gramatica, e comentario sobre a QUESTAO -- uma nota de quem",
+    "montou o item, deixada visivel para quem responde. Registrei na Task #19.",
+    "",
+    "Os substitutos:",
+    "",
+    "  105 'ha' e 'a' tratados como equivalentes, que e o erro real e frequentissimo --",
+    "      'ha dez anos' e 'a dez anos da aposentadoria' se confundem na escrita.",
+    "  109 a concordancia obrigatoria com 'ovos', que e o que a leitura intuitiva do",
+    "      partitivo pede.",
+    "  111 a concordancia obrigatoria com 'nos', que e a atracao levada a regra --",
+    "      erro fino, porque a atracao e de fato ADMITIDA, so nao e obrigatoria.",
+    "  113 as duas formas como variacao estilistica, que apaga a distincao semantica.",
+    "  115 'revista' exigida no lugar de 'revisada', que e a forma irregular real do",
+    "      verbo 'rever' e por isso soa erudita e correta."
+  ],
+  "subtopic": "gramatica",
+  "questoes": {
+    "gramatica-105": {
+      "alternativas": {
+        "c": "está incorreto; deveria ser 'a dez anos', com a preposição, porque é ela que introduz expressões de tempo em português e 'há' se reserva a construções em que o verbo indica existência de algo",
+        "e": "está incorreto porque 'há' deveria ir ao plural, concordando com 'dez anos', termo que funciona como sujeito da oração e por isso determina a flexão da forma verbal que o antecede"
+      },
+      "explicacao": "No sentido de tempo decorrido, 'haver' é impessoal e fica na terceira pessoa do singular: 'há dez anos' indica que dez anos se passaram. Trocá-lo pela preposição 'a' é o erro mais frequente da língua escrita, e a distinção é justamente esta: 'há' marca tempo já transcorrido, e 'a' marca distância até um marco futuro, como em 'a dez anos da aposentadoria'. Flexionar o verbo no plural supõe que 'dez anos' seja sujeito, quando a construção não tem sujeito algum. Fazer a escolha depender de a frase estar no passado ou no futuro chega perto e confunde o tempo do verbo com o sentido da expressão. E dizer que a impessoalidade valeria apenas em certos tempos verbais desconhece que ela é do verbo, não do tempo."
+    },
+    "gramatica-109": {
+      "alternativas": {
+        "b": "o verbo deveria ir obrigatoriamente ao plural, concordando com 'ovos', porque é esse o termo que indica o que de fato está sendo contado e por isso funciona como núcleo do sujeito da oração"
+      },
+      "explicacao": "'Uma dúzia de ovos' tem como núcleo o coletivo 'uma dúzia', e o verbo concorda com ele no singular quando não se quer enfatizar os elementos individuais. Tomar 'ovos' como núcleo é a leitura intuitiva do partitivo, e é o que a questão testa: o que se conta são ovos, mas quem organiza o sujeito é a dúzia. Condicionar o plural à posposição da expressão ao verbo inventa um critério de ordem que a norma não usa aqui. Dizer que não há como determinar a concordância ignora que a gramática prevê o caso. E propor eliminar 'dúzia' resolveria a dúvida desfazendo o sentido quantitativo da frase."
+    },
+    "gramatica-111": {
+      "alternativas": {
+        "b": "está incorreta; o verbo deveria concordar com o pronome 'nós', ficando na primeira pessoa do plural, 'nós já tínhamos terminado a prova', porque em expressão partitiva formada com pronome pessoal é o pronome que determina a flexão verbal, atraindo o verbo para a pessoa gramatical a que ele se refere ao longo do período"
+      },
+      "explicacao": "Em sujeito partitivo formado com pronome pessoal, como 'alguns de nós', a norma admite duas concordâncias: com o núcleo 'alguns', na terceira pessoa, e com o pronome 'nós', por atração, na primeira. A frase usa a primeira possibilidade e está correta. Exigir obrigatoriamente a concordância com 'nós' é o erro mais fino da questão, porque a atração é de fato admitida — o equívoco está em torná-la obrigatória, quando ela é alternativa. Impor a terceira pessoa do singular contraria o plural de 'alguns'. E dizer que a concordância fica a critério pessoal de quem escreve ignora que a norma delimita as duas opções aceitas."
+    },
+    "gramatica-113": {
+      "alternativas": {
+        "b": "'todo material', sem artigo, é a forma que a norma reserva ao registro escrito, sendo a construção com artigo própria da fala e admitida apenas em contextos de menor formalidade na escrita",
+        "c": "'todo o material', com artigo, é a única construção que a norma admite, uma vez que o pronome indefinido exige a presença do artigo para determinar o substantivo que os dois acompanham no período"
+      },
+      "explicacao": "'Todo o material' indica a totalidade de um conjunto específico e determinado; 'todo material', sem artigo, generaliza e equivale a 'qualquer material'. As duas construções são corretas e têm sentidos diferentes, e é a diferença que a frase exemplifica. Tratar uma delas como própria da fala e a outra da escrita transforma distinção de sentido em distinção de registro. Exigir o artigo por causa do pronome indefinido inventa uma obrigação que a norma não impõe. Dizer que as duas têm o mesmo sentido, sendo o artigo mera variação estilística, apaga exatamente o que está em jogo. E inverter os dois sentidos troca qual construção generaliza e qual determina."
+    },
+    "gramatica-115": {
+      "alternativas": {
+        "c": "apenas 'revisto' está correto; 'revisada' deveria ser substituída por 'revista', forma irregular do particípio de 'rever' que a norma tradicional reserva às construções com os verbos 'ser' e 'estar'",
+        "e": "nenhuma das duas formas se sustenta, porque o particípio de 'rever' é 'revido', formado com a terminação regular dos verbos da segunda conjugação a que esse verbo pertence na língua"
+      },
+      "explicacao": "'Rever' admite o particípio regular 'revisado' e o irregular 'revisto', e a frase emprega os dois corretamente, com a forma irregular mais usual ao lado de 'ser' e 'estar'. Exigir 'revista' no lugar de 'revisada' é o distrator mais forte, porque 'revista' é de fato forma irregular do verbo e soa erudita: só que a irregular já está na frase, em 'revisto', e a regular é igualmente aceita. Inventar 'revido' aplica ao verbo uma terminação que ele não tem. Dizer que 'revisto' não existe contraria o registro das gramáticas. E condicionar a aceitação das duas formas à voz passiva sugere uma restrição que não se aplica."
+    }
+  }
+}

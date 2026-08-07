@@ -1,0 +1,25 @@
+{
+  "_comentario": [
+    "Ajuste de comprimento em 17, que ficou com a alternativa certa ainda sendo a",
+    "mais longa depois do lote 03. O aviso do script apontou isso e eu deixei passar",
+    "por erro meu de shell: testei '$r -notmatch \"mais longa\"' sobre um ARRAY de",
+    "linhas, e -notmatch sobre array filtra em vez de devolver booleano -- o",
+    "resultado era uma lista não vazia, portanto verdadeira, e o lote foi aplicado",
+    "com o aviso de pé. O certo é juntar as linhas antes de testar.",
+    "",
+    "Aqui o distrator do capital cultural distribuído de forma semelhante ganha o",
+    "argumento que falta para ele ser tentador de verdade: a gratuidade do acervo",
+    "público. É o raciocínio que um candidato desavisado faria, e continua errado",
+    "porque o que Bourdieu descreve é a familiaridade com os códigos, não o preço do",
+    "ingresso."
+  ],
+  "subtopic": "filosofia-sociologia",
+  "questoes": {
+    "filosofia-sociologia-17": {
+      "alternativas": {
+        "c": "a de que o capital cultural se distribui de modo semelhante entre as classes sociais, já que museus, bibliotecas públicas e acervos culturais disponíveis on-line são gratuitos e estão abertos a quem quiser procurá-los por conta própria"
+      },
+      "explicacao": "Bourdieu mostra que saberes, códigos e disposições herdados em família são reconhecidos e premiados pela escola, o que favorece estudantes de origem mais privilegiada — e é isso que relativiza a leitura do vestibular como medida de mérito puramente individual. Supor o capital cultural distribuído de modo semelhante entre as classes contraria a tese: a gratuidade de museus e acervos torna o acesso possível sem tornar familiar o repertório, e é a familiaridade, não o preço do ingresso, que a escola premia. Explicar o desempenho por aptidão individual de raciocínio devolve ao indivíduo o que a análise mostra ser social. Atribuir tudo à diferença entre escola pública e particular apanha uma parte do problema e apaga a herança familiar, que age antes e fora da escola. E a taxa de inscrição é barreira econômica de acesso, distinta da vantagem cultural acumulada ao longo de uma trajetória."
+    }
+  }
+}

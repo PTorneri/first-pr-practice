@@ -1,0 +1,65 @@
+{
+  "_comentario": [
+    "Lote 6 de filosofia-sociologia: 25 a 30, treze distratores.",
+    "",
+    "Neste grupo aparece a forma mais crua do problema: o distrator escrito como",
+    "negação literal do enunciado, com a negação explicada em seguida. Em 25, 'a",
+    "modernidade líquida descreve a permanência e a solidez crescentes das",
+    "instituições, inversão direta de um conceito que descreve justamente a",
+    "fragilidade'. Em 30, 'o consumo conspícuo descreve a aquisição discreta e",
+    "racional de bens necessários à subsistência, inversão do conceito, que descreve",
+    "exibição ostensiva'. Não há o que aprender ali: a alternativa se dissolve na",
+    "leitura.",
+    "",
+    "As versões novas erram em direção plausível. Em 25, a liquidez confundida com",
+    "flexibilidade escolhida pelo trabalhador -- que é como o próprio mercado",
+    "descreve o arranjo, e por isso tenta. Em 29, o preço explicado pelo custo de",
+    "materiais e mão de obra especializada, que é a explicação econômica intuitiva e",
+    "justamente a que Baudrillard desloca. Em 27, o véu da ignorância confundido com",
+    "imparcialidade de quem decide, que é o erro fino que a questão deveria cobrar."
+  ],
+  "subtopic": "filosofia-sociologia",
+  "questoes": {
+    "filosofia-sociologia-25": {
+      "alternativas": {
+        "c": "a difusão de arranjos de trabalho apresentados como flexíveis, em que a ausência de vínculo fixo é oferecida ao trabalhador como autonomia para escolher os próprios horários, os projetos que aceita e o ritmo de cada semana"
+      },
+      "explicacao": "A liquidez, em Bauman, nomeia a perda de forma estável dos laços sociais, e no trabalho isso aparece na troca de carreiras longas por vínculos provisórios e facilmente desfeitos. O arranjo apresentado como flexibilidade é o distrator que exige a distinção mais fina, porque descreve o mesmo fenômeno pelo vocabulário de quem o promove: a fluidez existe, mas o conceito aponta a fragilidade do vínculo, não a liberdade de escolher horários. Dizer que a modernidade líquida descreve instituições cada vez mais sólidas nega o que o termo significa. Tratá-la como retorno a formas rígidas e tradicionais afirma o contrário da metáfora. Confundi-la com a substituição do trabalho humano por automação troca a questão dos vínculos pela da técnica. E o trabalho remoto que permite escolher a cidade é consequência possível desse quadro, não a fragilidade que o conceito descreve."
+    },
+    "filosofia-sociologia-26": {
+      "alternativas": {
+        "a": "a de que a facilidade de encontrar novos parceiros amplia as chances de formar vínculos duradouros, já que cada pessoa pode procurar com mais critério alguém compatível com o que espera de uma relação",
+        "b": "a de que os aplicativos de namoro estimulam compromissos mais estáveis, porque a exposição a muitos perfis leva o usuário a valorizar a relação que finalmente decide manter",
+        "d": "a de que a liquidez dos vínculos afetivos levou ao desaparecimento do interesse por relações amorosas, substituídas pela dedicação à carreira e a projetos individuais de realização pessoal"
+      },
+      "explicacao": "Bauman descreve laços afetivos organizados pela lógica do consumo, em que o parceiro é avaliado como produto e o compromisso é adiado para preservar a possibilidade de troca — e a mecânica de curtir e descartar perfis é a versão mais direta disso. A alternativa que vê na abundância de parceiros uma chance de escolher melhor é a mais tentadora e a que a análise contesta: a facilidade de substituir tende a enfraquecer o vínculo, não a apurá-lo. Dizer que os aplicativos estimulam compromissos mais estáveis afirma o oposto do que ele observa. Supor o desaparecimento do interesse por relações amorosas exagera uma tese que fala de laços frágeis, não inexistentes. E ampliar o círculo social de quem vive em cidade pequena é um efeito prático da ferramenta, alheio à natureza do vínculo."
+    },
+    "filosofia-sociologia-27": {
+      "alternativas": {
+        "e": "o de que decisões distributivas são mais justas quando tomadas por autoridades capazes de se manter imparciais diante dos grupos envolvidos, deixando de lado suas preferências pessoais ao formular a regra"
+      },
+      "explicacao": "O véu da ignorância pede que se escolham os princípios de justiça sem saber que posição social se ocupará, e o efeito disso é levar quem decide a proteger também as posições mais desfavorecidas, já que poderá vir a ocupá-las — é esse raciocínio que sustenta políticas de ação afirmativa. A alternativa da autoridade imparcial é a que exige a distinção mais fina: imparcialidade é não ter preferência entre as partes, enquanto o dispositivo de Rawls é mais forte, pois retira de quem decide o conhecimento de onde ele próprio estará. Exigir que a formulação caiba a quem já ocupa a posição favorecida inverte o objetivo do experimento. Supor que os indivíduos conheçam sua posição antes de decidir remove a premissa que o define. E entregar a decisão a especialistas protegidos da opinião pública é argumento sobre competência técnica, não sobre justiça distributiva."
+    },
+    "filosofia-sociologia-28": {
+      "alternativas": {
+        "a": "o de que o princípio da diferença pede a distribuição igual da renda entre os cidadãos, de modo que o sistema tributário deveria corrigir integralmente as distâncias observadas entre as faixas de renda",
+        "e": "o de que a arrecadação progressiva se justifica por recair sobre quem obteve mais vantagem do próprio talento, cabendo a esses contribuintes devolver à sociedade parte do que seu esforço individual rendeu"
+      },
+      "explicacao": "O princípio da diferença admite desigualdades, mas apenas quando elas beneficiam os menos favorecidos — e é essa condição que sustenta a defesa de tributação progressiva cujos recursos revertem em benefícios para os grupos mais vulneráveis. Pedir distribuição igual de renda vai além do princípio, que não exige igualdade de resultado e sim que a desigualdade tenha justificativa. O argumento do talento que deve ser devolvido é o mais próximo e o mais enganoso: Rawls trata talentos como imerecidos do ponto de vista moral, e a justificativa da progressividade está no benefício aos desfavorecidos, não em uma dívida do talentoso. Abolir imediatamente por lei toda desigualdade ultrapassa o que ele sustenta. E tributar todos igualmente para não desestimular o esforço é exatamente a posição que o princípio serve para contestar."
+    },
+    "filosofia-sociologia-29": {
+      "alternativas": {
+        "a": "a de que o preço desses itens se explica pelo custo de materiais de melhor qualidade e pela mão de obra especializada empregada na confecção, refletindo o que foi efetivamente gasto para produzi-los"
+      },
+      "explicacao": "O valor-signo, em Baudrillard, é a capacidade de o objeto comunicar status e distinção, e é ele que explica por que certos tênis e roupas de marca alcançam preço e prestígio muito acima de sua utilidade — o item vale pelo que diz de quem o usa. A explicação pelo custo de materiais e mão de obra é a mais intuitiva e a que o conceito desloca: ela é insuficiente porque a diferença entre o custo de fabricação e o preço praticado é justamente o que o valor-signo cobre. Reduzir o valor à escassez de matérias-primas fica no mesmo terreno material. Fazer o prestígio depender do peso ou do volume do produto adota um critério físico onde o que opera é simbólico. E dizer que esses itens valem apenas por sua função nega a dimensão que dá nome ao conceito."
+    },
+    "filosofia-sociologia-30": {
+      "alternativas": {
+        "b": "a exibição de aquisições feitas com desconto ou em promoção, em que o mérito comunicado à audiência é a habilidade de comprar bem e economizar na negociação do preço final",
+        "c": "a divulgação de bens e viagens acompanhada de informação detalhada sobre preços, roteiros e condições de pagamento, com a finalidade de orientar os seguidores que pretendam fazer a mesma compra ou repetir o percurso",
+        "e": "a publicação de fotos de compras cotidianas e de refeições comuns, que documenta a rotina de quem produz o conteúdo sem intenção de demonstrar poder econômico a quem assiste"
+      },
+      "explicacao": "O consumo conspícuo, em Veblen, é a exibição ostensiva de bens custosos com a finalidade de demonstrar riqueza e posição — e é isso que descreve a publicização de compras e viagens de alto custo cujo propósito principal é ser vista. A exibição de compras feitas com desconto comunica outra coisa, perícia na negociação, e não a capacidade de gastar que o conceito requer. A divulgação de preços para orientar seguidores tem função informativa e desloca o eixo do prestígio para o serviço. O registro de refeições e compras cotidianas não envolve o custo elevado nem a intenção de demonstrar poder econômico, que são os dois elementos do conceito. E comunidades de colecionadores que trocam informação técnica organizam-se em torno de conhecimento sobre o produto, não da ostentação de tê-lo."
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_comentario": [
+    "27(d) fecha um empate que os avisos não pegaram.",
+    "",
+    "A alternativa certa de 27 tem 246 caracteres e o distrator (d) tinha exatamente",
+    "246 também. Com empate, quem sai na frente depende da ordenação: o Sort-Object",
+    "do PowerShell pôs (d) primeiro e o script não avisou nada; o sort do JavaScript,",
+    "na conferência pelo navegador, pôs a certa primeiro e acusou 'maior=CERTA'. Ou",
+    "seja: a questão estava a um critério de desempate de render acerto a quem chuta",
+    "a mais longa. Empate não é margem.",
+    "",
+    "Aqui (d) também perde a cauda -- 'invertendo a premissa central do experimento,",
+    "que supõe justamente o desconhecimento dessa posição' -- e passa a afirmar algo",
+    "que alguém sustentaria: que conhecer a própria posição é condição para deliberar",
+    "bem, porque só assim se saberia o que está em jogo. É o oposto do véu, e é uma",
+    "objeção real ao dispositivo de Rawls, não uma casca."
+  ],
+  "subtopic": "filosofia-sociologia",
+  "questoes": {
+    "filosofia-sociologia-27": {
+      "alternativas": {
+        "d": "o de que a deliberação sobre princípios de justiça exige que cada participante conheça a própria posição social, pois somente quem sabe o que tem a perder consegue avaliar com seriedade as consequências práticas da regra que está ajudando a formular"
+      },
+      "explicacao": "O véu da ignorância pede que se escolham os princípios de justiça sem saber que posição social se ocupará, e o efeito disso é levar quem decide a proteger também as posições mais desfavorecidas, já que poderá vir a ocupá-las — é esse raciocínio que sustenta políticas de ação afirmativa. A exigência de que cada um conheça sua posição antes de deliberar remove exatamente a premissa que dá força ao experimento, ainda que se apresente como zelo pelas consequências práticas. A alternativa da autoridade imparcial é a que exige a distinção mais fina: imparcialidade é não ter preferência entre as partes, enquanto o dispositivo de Rawls é mais forte, pois retira de quem decide o conhecimento de onde ele próprio estará. Exigir que a formulação caiba a quem já ocupa a posição favorecida inverte o objetivo do experimento. E entregar a decisão a especialistas protegidos da opinião pública é argumento sobre competência técnica, não sobre justiça distributiva."
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_comentario": [
+    "Lote 3 de filosofia-sociologia, com duas correções minhas dos lotes anteriores.",
+    "",
+    "CORREÇÃO. Duas alternativas que eu escrevi nos lotes 01 e 02 disparam o",
+    "AUTORREF_RX do verify-banco -- 07(d) por ', quando' e 10(a) por 'que ele",
+    "atribui'. Nos dois casos é falso positivo daquele padrão: ', quando' ali é",
+    "oração temporal comum e 'que ele atribui' descreve o valor de uso percebido",
+    "pelo cliente. Mas o efeito é real: a métrica DESCARTA essas alternativas como",
+    "se fossem autorrefutantes, tira-as da disputa pela mais longa e assim infla a",
+    "melhora que eu atribuí aos lotes. Reescrevi as duas para não encostar no",
+    "padrão. Preferi ajustar meu texto a alargar a régua: mexer no AUTORREF_RX para",
+    "acomodar o que eu escrevi seria consertar a medida em vez do banco.",
+    "",
+    "Aqui também reescrevi distratores não marcados pela varredura quando tinham a",
+    "mesma cauda com outra roupa: 16(a) 'afirmação que Debord não sustenta, já que'.",
+    "",
+    "E saíram duas palavras categóricas que o ABSOLUTO_RX descartaria de todo modo:",
+    "'sempre e apenas' em 09(d) e 'qualquer' em 11(d) e 16(c). Distrator que a",
+    "métrica descarta é distrator que o candidato também descarta -- não estava",
+    "cumprindo função nenhuma na questão."
+  ],
+  "subtopic": "filosofia-sociologia",
+  "questoes": {
+    "filosofia-sociologia-07": {
+      "alternativas": {
+        "d": "o endurecimento das normas de conduta em períodos de crise aguda, com autoridades e comunidades cobrando com mais rigor os comportamentos tidos como aceitáveis e punindo com mais severidade quem deles se afasta em público"
+      },
+      "explicacao": "Anomia, em Durkheim, é a desregulação das normas: uma vez que as referências habituais de conduta perdem força, o comportamento coletivo se desorienta — e é isso que se observa em crises econômicas agudas ou rupturas abruptas da rotina social. Descrever o período de crise como endurecimento das regras inverte o conceito, que se define pela ausência e não pelo excesso de norma comum. Explicar a conduta por temperamento individual desloca para a psicologia um fenômeno que Durkheim constrói como social, e é justamente contra essa redução que ele elabora o termo. Trocar de emprego ou de cidade reorganiza a rotina de uma pessoa sem afetar as normas do grupo, então não há desregulação alguma. E a especialização das profissões, na obra dele, produz solidariedade orgânica, um modo de integração e não sua perda."
+    },
+    "filosofia-sociologia-09": {
+      "alternativas": {
+        "d": "a ideia de que uma crise financeira se detém nas fronteiras dos países mais pobres, sem alcançar as economias centrais, cujos sistemas bancários estariam protegidos por reservas próprias e por regulação mais rigorosa"
+      },
+      "explicacao": "Giddens descreve a globalização como intensificação da interdependência: os riscos circulam mais rápido do que a capacidade de qualquer instituição isolada de contê-los, e é isso que se vê quando uma crise financeira ou sanitária nascida em um país alcança economias distantes em semanas. Dizer que a coordenação internacional tornou esses riscos administráveis afirma o contrário do diagnóstico, que é de perda de controle. A recomendação de reduzir a exposição ao comércio externo é uma resposta política que outros defendem, e não a descrição que Giddens faz do processo — ele diz que a interdependência aumenta, não que deva ser desfeita. Supor que a crise se detenha nas economias periféricas ignora que a interdependência arrasta também os centros financeiros, como se viu em 2008. E a padronização de normas técnicas uniformiza mercados sem produzir a perda de controle que está em questão."
+    },
+    "filosofia-sociologia-10": {
+      "alternativas": {
+        "a": "o debate sobre se o preço cobrado do cliente corresponde ao valor de uso por ele percebido no serviço recebido, sendo essa correspondência entre preço e utilidade o que determinaria quanto é devido ao entregador"
+      },
+      "explicacao": "A mais-valia nomeia a diferença entre o valor que o trabalho produz e o que é pago a quem trabalha, apropriada por quem detém os meios de produção — e é essa diferença que está em jogo quando se discute o que entregadores e motoristas geram e o que recebem, com o excedente ficando na plataforma. Fazer a conta pela utilidade percebida pelo cliente abandona a distinção entre valor de uso e valor de troca, sem a qual o conceito não se formula. Localizar o lucro na valorização das ações em bolsa desloca a explicação para o terreno financeiro, quando a análise trata da produção. Supor que o pagamento por entrega já garante proporção entre esforço e ganho pressupõe resolvida a questão que o conceito levanta. E onde a plataforma recolhe impostos é problema tributário, que não toca na origem do excedente."
+    },
+    "filosofia-sociologia-11": {
+      "alternativas": {
+        "d": "a de que a mediação por algoritmo torna o trabalho por aplicativo mais alienante do que o emprego formal em fábrica ou escritório, por afastar o trabalhador de um supervisor humano com quem pudesse negociar suas tarefas"
+      },
+      "explicacao": "Alienação, em Marx, é a perda de controle do trabalhador sobre o processo e o produto do próprio trabalho — o que ilumina a crítica ao trabalho por aplicativo, em que tarefas fragmentadas são distribuídas por um algoritmo cujas regras o trabalhador não conhece nem decide. O argumento de que ele é proprietário porque possui o carro e o celular é o mais tentador e o que exige a distinção mais fina: possuir o instrumento não é controlar a organização do trabalho, que segue definida pela plataforma. A comparação que mede alienação pela ausência de um supervisor humano troca o critério, já que o problema não é com quem se negocia mas quem define a tarefa. Deslocar a questão para a tributação substitui um problema sobre a relação de trabalho por outro, fiscal. E o uso de uniforme e equipamento padronizado é padronização de aparência, não perda de controle sobre o processo produtivo."
+    },
+    "filosofia-sociologia-12": {
+      "alternativas": {
+        "c": "a de que somente os direitos políticos se estendem ao ambiente digital, já que votar e manifestar-se on-line prolongam práticas antigas, enquanto o acesso à rede seria um serviço a ser contratado no mercado"
+      },
+      "explicacao": "Marshall descreve a cidadania como acúmulo histórico de três dimensões — civis, políticos e sociais — em que cada conquista se soma às anteriores. É esse modelo que permite discutir se o acesso à internet e a proteção de dados devem ser reconhecidos como extensão contemporânea dos direitos sociais, necessária ao exercício pleno da cidadania. Tratar os direitos digitais como categoria que substitui as anteriores desfaz a lógica cumulativa que sustenta o argumento. Dizer que a formulação original já abrangia o acesso aos meios de comunicação de cada época é generoso com um texto escrito muito antes da internet e apaga o que há de novo na discussão. Estender ao digital só o eixo político, tratando o acesso à rede como serviço de mercado, separa dimensões que Marshall trata como complementares. E condicionar o voto à escolaridade é restrição de direito político, movimento contrário à ampliação que ele descreve."
+    },
+    "filosofia-sociologia-16": {
+      "alternativas": {
+        "a": "a de que a produção industrial de bens materiais perdeu importância econômica com a ascensão das redes sociais, tendo sido substituída pela circulação de imagens como principal atividade produtiva do período",
+        "c": "a de que a publicação de fotografias em rede social é, em si mesma, o fenômeno descrito por Debord, de modo que o conceito se aplicaria a cada imagem tomada isoladamente",
+        "d": "a de que as redes sociais deslocaram a influência antes exercida pelos meios de comunicação de massa, que teriam perdido o poder de organizar a atenção coletiva"
+      },
+      "explicacao": "Debord sustenta que a experiência vivida tende a ser substituída por sua representação em imagens, e o conceito descreve uma lógica social inteira, não um acontecimento isolado — daí sua utilidade para entender a curadoria de imagem em redes sociais, em que a vida cotidiana passa a ser organizada em função do que será exibido a uma audiência. Aplicar o conceito a cada fotografia tomada em separado reduz uma tese sobre a forma da sociedade a um evento pontual. Dizer que a produção material perdeu importância atribui a Debord uma tese econômica que ele não sustenta: sua crítica recai sobre a mediação por imagens, não sobre o fim da indústria. Afirmar que as redes retiraram o poder da mídia de massa contraria o essencial do argumento, que é a permanência e o alargamento da mediação por imagem, seja qual for o veículo. E a concentração da propriedade dos meios de comunicação é problema de estrutura de mercado, de outra ordem."
+    },
+    "filosofia-sociologia-17": {
+      "alternativas": {
+        "b": "a de que o desempenho em vestibulares reflete sobretudo aptidões individuais de raciocínio, que variariam entre os candidatos independentemente do ambiente em que cada um cresceu",
+        "c": "a de que o capital cultural se distribui de modo semelhante entre as classes sociais, já que museus, bibliotecas públicas e conteúdo cultural disponível on-line estariam abertos a quem quisesse procurá-los sem custo",
+        "e": "a de que a desigualdade no acesso ao ensino superior se explica pela distância entre a escola pública e a particular, sem que a herança familiar de repertório cultural tenha peso próprio no resultado"
+      },
+      "explicacao": "Bourdieu mostra que saberes, códigos e disposições herdados em família são reconhecidos e premiados pela escola, o que favorece estudantes de origem mais privilegiada — e é isso que relativiza a leitura do vestibular como medida de mérito puramente individual. Supor o capital cultural distribuído de modo semelhante entre as classes contraria a tese, já que ele é herdado de forma desigual, e a existência de museus e acervos abertos não equaliza a familiaridade com esses códigos. Explicar o desempenho por aptidão individual de raciocínio devolve ao indivíduo o que a análise mostra ser social. Atribuir tudo à diferença entre escola pública e particular apanha uma parte do problema e apaga a herança familiar, que age antes e fora da escola. E a taxa de inscrição é barreira econômica de acesso, distinta da vantagem cultural acumulada ao longo de uma trajetória."
+    }
+  }
+}

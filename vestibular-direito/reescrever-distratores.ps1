@@ -75,6 +75,23 @@ $LETRA_RX = '\(\s*[a-e]\s*\)|\b(alternativa|alternativas|letra|letras|opção|op
 # uma, o lote não cumpriu seu propósito e é melhor falhar do que gravar.
 $CAUDA_RX = 'inexistente (à|na|nos|no) época|tecnologia então|mídia tecnologicamente inexistente|então completamente inexistente|é um traço definidor d|atribuído tradicionalmente a|já bastaria|basta para relacion|independentemente de haver|equivocad|indevid|hipótese que (ignora|desconsidera)|inversão que|generalização que (ignora|contraria)|que contraria (justamente|frontalmente|a tese|a própria|o sentido)|categoria inexistente|classificação oposta|tendência oposta'
 
+# As duas réguas do verify-banco.ps1, copiadas daqui de propósito.
+#
+# O índice de chutabilidade simula um candidato que DESCARTA alternativa com
+# palavra categórica e alternativa que se autorrefuta, e só então chuta a mais
+# longa entre as que sobraram. Então um distrator que encosta em qualquer um dos
+# dois padrões está fora da disputa: não cumpre função na questão, e some do
+# denominador da métrica.
+#
+# Isso me pegou no lote 02: escrevi ", quando autoridades passam a cobrar" como
+# oração temporal e ", quando" é um dos tells do AUTORREF_RX. A alternativa era
+# legítima, mas a métrica a descartava -- e a melhora que eu tinha anunciado
+# estava em parte apoiada nesse descarte. Falhar aqui é mais barato que
+# descobrir depois, e muito mais barato que alargar a régua para caber o que eu
+# escrevi, que seria consertar a medida em vez do banco.
+$ABSOLUTO_RX = '\b(sempre|nunca|jamais|todo|todos|toda|todas|qualquer|exclusivamente|unicamente|impossível|garante|em nenhum)\b'
+$AUTORREF_RX = '(,\s*(ignorando|quando|posição|tese|ideia|generalização|equiparação|hipótese|proposta|indiferença|deslocamento|traço|equívoco|confusão|leitura|inversão|atribuição)\b)|diametralmente opost|contradição direta|\bque \w+ (rejeita|recusa|atribui|nega|contraria)\b|\bo que contraria\b'
+
 function Read-Json($caminho) {
   return [System.IO.File]::ReadAllText($caminho, [System.Text.Encoding]::UTF8) | ConvertFrom-Json
 }
@@ -128,6 +145,14 @@ foreach ($prop in $pat.questoes.PSObject.Properties) {
       if ($novo -match $CAUDA_RX) {
         throw "${id}: o texto novo de '$letra' ainda tem cauda delatora ('$($Matches[0])'). É exatamente o que este lote deveria remover."
       }
+      # -cmatch como no verify-banco: o padrão é sensível a caixa lá, e usar
+      # -match aqui reprovaria por ocorrência que a métrica não conta.
+      if ($novo -cmatch $AUTORREF_RX) {
+        throw "${id}: o texto novo de '$letra' encosta no AUTORREF_RX do verify ('$($Matches[0].Trim())'). A métrica descartaria essa alternativa, então ela não disputaria nada na questão. Reformule."
+      }
+      if ($novo -match $ABSOLUTO_RX) {
+        throw "${id}: o texto novo de '$letra' tem palavra categórica ('$($Matches[0])'). A métrica descarta alternativa assim, e o candidato também. Reformule sem ela."
+      }
 
       $q.alternativas.$letra = $novo
       $nAlt++
@@ -153,10 +178,24 @@ foreach ($prop in $pat.questoes.PSObject.Properties) {
 
   # Sinal de chutabilidade: se a certa continua a mais longa, quem chuta a
   # maior alternativa ainda acerta. Não é motivo para recusar, é para avisar.
+  # Compara por COMPRIMENTO, não por quem o Sort-Object devolve primeiro.
+  #
+  # A primeira versão pegava [0] de um Sort-Object decrescente, e isso escondeu um
+  # empate em 27: a certa e um distrator tinham 246 caracteres cada. O Sort-Object
+  # do PS devolveu o distrator na frente e o script se calou; o sort do JavaScript,
+  # na conferência pelo navegador, devolveu a certa e acusou. A questão estava a um
+  # critério de desempate de render acerto a quem chuta a mais longa -- empate não
+  # é margem, e quem decide o desempate não é nenhum dos dois sorts, é o navegador
+  # de quem estuda.
   $lenCerta = $q.alternativas.($q.resposta).Length
-  $maior = ($q.alternativas.PSObject.Properties | Sort-Object { $_.Value.Length } -Descending)[0]
-  if ($maior.Name -eq $q.resposta) {
-    $aindaMaisLonga += "  $id : a certa ('$($q.resposta)', $lenCerta) segue a mais longa"
+  $maxDistrator = 0
+  foreach ($alt in $q.alternativas.PSObject.Properties) {
+    if ($alt.Name -eq $q.resposta) { continue }
+    if ($alt.Value.Length -gt $maxDistrator) { $maxDistrator = $alt.Value.Length }
+  }
+  if ($lenCerta -ge $maxDistrator) {
+    $rel = if ($lenCerta -eq $maxDistrator) { "EMPATA com o maior distrator" } else { "segue a mais longa" }
+    $aindaMaisLonga += "  $id : a certa ('$($q.resposta)', $lenCerta) $rel ($maxDistrator)"
   }
 
   $relatorio += "  $id : $(if ($temAlts) { "$(@($spec.alternativas.PSObject.Properties).Count) distrator(es)" } else { 'só explicação' })"

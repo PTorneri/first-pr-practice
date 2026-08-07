@@ -1,0 +1,68 @@
+{
+  "_comentario": [
+    "Lote 5 de filosofia-sociologia: 19 a 24, dezesseis distratores.",
+    "",
+    "Este grupo mostra bem o que a cauda custava. Em 21, o distrator que atribui a",
+    "Aristóteles o acúmulo de prazeres sensoriais vinha com a etiqueta 'posição",
+    "associada antes a Aristipo do que à ética das virtudes' -- a questão pedia que",
+    "o candidato soubesse separar eudaimonia de hedonismo e escrevia a resposta na",
+    "própria alternativa. Em 22, o distrator do essencialismo trazia 'tese que",
+    "Sartre rejeita ao afirmar que a existência precede qualquer essência', que é",
+    "literalmente o enunciado repetido.",
+    "",
+    "Também saem as construções que o ABSOLUTO_RX descarta e que, por isso, não",
+    "disputavam nada: 'sem exceção', 'exclusivo', 'totalmente arbitrária', 'em",
+    "qualquer época', 'qualquer'. Um distrator que a métrica joga fora é um",
+    "distrator que o candidato joga fora -- a questão vinha operando com menos",
+    "alternativas do que aparentava ter."
+  ],
+  "subtopic": "filosofia-sociologia",
+  "questoes": {
+    "filosofia-sociologia-19": {
+      "alternativas": {
+        "b": "a de que o uso de ferramentas digitais em sala transfere ao software a tarefa de organizar o raciocínio, reduzindo o esforço intelectual pedido do estudante nas atividades mediadas por tecnologia educacional, seja ela qual for e por bem-intencionada que seja",
+        "c": "a de que o método socrático consistia em apresentar ao interlocutor um conjunto de conclusões já estabelecidas, para que ele as retivesse e soubesse reproduzi-las quando fosse necessário",
+        "e": "a de que a maiêutica se define pelo domínio de recursos de argumentação capazes de convencer uma plateia, habilidade que os chatbots reproduziriam com facilidade ao formular respostas bem encadeadas"
+      },
+      "explicacao": "A maiêutica leva o interlocutor a examinar as próprias crenças por meio de perguntas sucessivas, até que ele mesmo reconheça as contradições em que estava — daí a crítica ao chatbot que entrega a resposta pronta e suprime justamente esse percurso. Dizer que o método consistia em transmitir conclusões estabelecidas para serem retidas inverte o seu sentido, que é fazer pensar e não fazer memorizar. Descrevê-lo como domínio de recursos de persuasão o confunde com a retórica dos sofistas, que Sócrates criticava. A objeção genérica a toda tecnologia educacional é mais ampla do que o argumento sustenta: o problema está em dispensar o questionamento, não em usar ferramenta digital, e há usos que o estimulam. E o cansaço em aulas expositivas longas é observação sobre atenção, que não toca no modo de construir conhecimento."
+    },
+    "filosofia-sociologia-20": {
+      "alternativas": {
+        "a": "a de que a recomendação automática de conteúdo reproduz o mito da caverna pelo simples fato de ser automática, já que a máquina escolhe no lugar do usuário aquilo que ele verá ao abrir a tela",
+        "b": "a de que o conhecimento obtido pelos sentidos é mais confiável do que a reflexão racional sobre o funcionamento de um algoritmo, por partir daquilo que o usuário observa diretamente na própria tela, sem depender da explicação de terceiros sobre o que o sistema faz"
+      },
+      "explicacao": "No mito da caverna os prisioneiros tomam sombras por realidade porque nunca viram outra coisa, e é essa confusão entre versão parcial e panorama completo que o algoritmo de recomendação pode produzir ao devolver sempre conteúdo semelhante ao já consumido. Dizer que o problema está em a escolha ser automática desloca o eixo: o que importa no mito não é quem projeta a sombra, mas o fato de o prisioneiro não ter com que comparar. Afirmar que os sentidos são mais confiáveis que a razão inverte a hierarquia platônica, na qual o conhecimento verdadeiro exige sair da caverna e não confiar no que aparece. Ligar o mito à defesa da democracia ateniense atribui a Platão uma preferência política que ele não tinha e que nada tem a ver com a relação entre aparência e realidade. E processar mais dados do que um humano é uma capacidade técnica, não uma tese sobre conhecimento."
+    },
+    "filosofia-sociologia-21": {
+      "alternativas": {
+        "a": "a busca por produtividade pessoal entendida como virtude em si mesma, na medida em que o esforço constante de melhorar o próprio desempenho já seria a forma moderna de cultivar um hábito virtuoso e digno de elogio",
+        "c": "a ideia de que a ética das virtudes pede o afastamento da vida em sociedade, para que o indivíduo cultive em silêncio e sozinho os hábitos que o conduzirão à felicidade",
+        "d": "a de que a felicidade se alcança pelo acúmulo de prazeres sensoriais imediatos, de modo que a vida mais desejável seria a que multiplica experiências agradáveis ao longo do tempo"
+      },
+      "explicacao": "Em Aristóteles a virtude é um justo meio entre dois excessos, alcançado pelo hábito e guiado pela razão — a coragem entre a covardia e a temeridade — e é por isso que o discurso da produtividade sem limite, que mede a felicidade pelo acúmulo de conquistas, colide com a ética das virtudes: falta o equilíbrio entre esforço e descanso. Tomar o esforço constante por virtude em si abandona a exigência do meio-termo, que é o que define a virtude. Situar a felicidade no acúmulo de prazeres imediatos é a vida hedonista, que Aristóteles considera inferior à virtuosa. Pedir o afastamento da vida social contraria a definição do ser humano como animal político, para quem a virtude se exerce na convivência. E suprimir apetites e emoções é o extremo oposto do meio-termo, tão distante dele quanto o excesso que pretende corrigir."
+    },
+    "filosofia-sociologia-22": {
+      "alternativas": {
+        "b": "o discurso de autoajuda que trata o propósito como algo a ser construído aos poucos, por meio de metas e hábitos deliberados, em vez de revelado de uma só vez por um teste de personalidade ou por um momento de introspecção",
+        "d": "a de que só os objetos fabricados, como uma faca, existem antes de receber a finalidade para a qual serão usados, sendo essa a distinção que separa coisas e pessoas no pensamento sartreano",
+        "e": "a de que o ser humano nasce com uma natureza definida, que a vida apenas revela aos poucos, cabendo a cada um reconhecer aquilo que já estava dado desde o começo"
+      },
+      "explicacao": "Sartre afirma que a existência precede a essência: não há natureza humana anterior às escolhas, e o que alguém é resulta do que faz — por isso o discurso que promete um propósito pessoal já pronto, à espera de ser descoberto, é o que o existencialismo contesta. A alternativa que apresenta o propósito como algo construído por metas e hábitos é a mais próxima da tese e a que exige a distinção mais fina: ela acerta que se constrói, mas trata a construção como execução de um plano, quando para Sartre a liberdade é radical e não segue roteiro. A ideia de natureza dada desde o nascimento é o essencialismo que ele recusa. E o exemplo da faca funciona no sentido inverso do proposto: no objeto fabricado é a finalidade que precede a existência, e é precisamente esse contraste que Sartre usa para dizer que no ser humano acontece o oposto."
+    },
+    "filosofia-sociologia-23": {
+      "alternativas": {
+        "a": "o de que as diferenças observadas entre meninos e meninas decorrem de fatores biológicos ligados ao desenvolvimento hormonal, cabendo à publicidade apenas refletir preferências que já se manifestam espontaneamente na infância",
+        "e": "o de que a feminilidade resulta de uma decisão individual tomada livremente por cada pessoa, sem que a educação recebida e os papéis esperados dela pesem de modo relevante nessa construção"
+      },
+      "explicacao": "Beauvoir sustenta que a condição feminina é construída por educação, expectativas e papéis atribuídos socialmente, e não deduzida da biologia — o que fundamenta o argumento de que associar certas cores e brinquedos a um gênero é convenção social, reforçada pela própria publicidade que alega apenas seguir o gosto das crianças. Atribuir as diferenças ao desenvolvimento hormonal e reduzir a publicidade a espelho de preferências espontâneas devolve à natureza o que a análise mostra ser cultural. Tratar a feminilidade como decisão individual livre vai ao extremo oposto e apaga o peso das condições sociais, que em Beauvoir são o centro do problema. Supor que todas as sociedades atribuam os mesmos papéis às mulheres contraria a variação histórica que ela documenta. E ritmos distintos de maturação escolar são questão de desenvolvimento, alheia à construção dos papéis de gênero."
+    },
+    "filosofia-sociologia-24": {
+      "alternativas": {
+        "a": "a insegurança diante de decisões de consumo, que se explica pelo custo de assinar serviços e pelo receio de gastar com uma escolha que depois se mostre pouco aproveitada",
+        "c": "a sensação de desconforto físico e cansaço mental provocada pelo tempo de tela, que se manifesta depois de longos períodos percorrendo listas de opções em um aplicativo",
+        "d": "o alívio proporcionado pela abundância de alternativas, que reduz o peso de cada decisão individual porque resta outra possibilidade disponível na lista caso a primeira escolha não se confirme como esperado"
+      },
+      "explicacao": "Para Kierkegaard a angústia é a vertigem que acompanha a liberdade: quanto mais possibilidades se abrem, mais pesa a responsabilidade de escolher — e é isso que descreve a paralisia diante de listas intermináveis em aplicativos de namoro e plataformas de streaming. Dizer que a abundância alivia a decisão inverte a lógica do conceito, já que é justamente o excesso de possibilidade que o intensifica. Explicar o desconforto pelo custo das assinaturas transforma uma questão existencial em cálculo econômico. Tratá-lo como cansaço físico de tela reduz ao corpo o que Kierkegaard situa na relação do indivíduo com sua própria liberdade. E o medo de uma ameaça identificável, como perder o emprego, é temor de um objeto definido, que ele distingue expressamente da angústia sem objeto."
+    }
+  }
+}

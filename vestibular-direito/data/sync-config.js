@@ -33,7 +33,16 @@
 //    neste arquivo).
 window.FIREBASE_CONFIG = {
   apiKey: "AIzaSyDR63dF7wg4GuLzdy8CGSrsQ4iqP746sWU",
-  authDomain: "app-fgv-insper.firebaseapp.com",
+  // Campo MORTO neste app: o v1 não usa Firebase Auth, só Firestore (a
+  // sincronização daqui é por código de 8 caracteres, na coleção syncCodes, sem
+  // login). authDomain só é lido pelo Auth. Está aqui porque o objeto vem
+  // copiado inteiro do console, e vale mantê-lo igual ao do v2 para que os dois
+  // não divirjam e confundam quem lê depois — mas mudar este valor não altera
+  // comportamento nenhum, e por isso a troca não veio acompanhada de um bump
+  // do ?d= (que forçaria todo mundo a rebaixar os 4 MB do banco de questões
+  // sem ganho algum). Quem usa este campo de verdade é
+  // vestibular-direito-v2/firebase-init.js, onde há a explicação completa.
+  authDomain: "conta.sagaxedu.com.br",
   projectId: "app-fgv-insper",
   storageBucket: "app-fgv-insper.firebasestorage.app",
   messagingSenderId: "839136778312",

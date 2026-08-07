@@ -10,11 +10,18 @@
 // Antes de funcionar, o provedor Google precisa estar ligado no console:
 //   Firebase Console > Authentication > Sign-in method > Google > Ativar
 //   Firebase Console > Authentication > Settings > Authorized domains
-//     -> incluir "ptorneri.github.io" (e "localhost" pra testar na sua máquina)
+//     -> incluir "sagaxedu.com.br" e "www.sagaxedu.com.br", que é onde o app
+//        mora; mais "ptorneri.github.io" (endereço antigo, ainda no ar) e
+//        "localhost" pra testar na sua máquina. Essa lista é sobre a origem de
+//        ONDE o login parte — sem o domínio nela, dá auth/unauthorized-domain.
+//   Google Cloud Console > APIs e serviços > Credenciais > cliente OAuth Web
+//     -> incluir "https://conta.sagaxedu.com.br/__/auth/handler" nos redirect
+//        URIs. Esse é sobre PARA ONDE o Google devolve, e é o authDomain de
+//        firebase-init.js. Sem ele, o Google recusa com redirect_uri_mismatch.
 
-import { auth } from "./firebase-init.js?v=17";
-import "./sync.js?v=17"; // define window.VD_SYNC
-import "./feedback.js?v=17"; // define window.VD_FEEDBACK
+import { auth } from "./firebase-init.js?v=18";
+import "./sync.js?v=18"; // define window.VD_SYNC
+import "./feedback.js?v=18"; // define window.VD_FEEDBACK
 import {
   GoogleAuthProvider,
   signInWithPopup,

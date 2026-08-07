@@ -93,9 +93,18 @@ powershell -ExecutionPolicy Bypass -File serve-root.ps1
 
 ## O backend do v2
 
-Tudo no projeto Firebase `app-fgv-insper`, sem servidor próprio:
+Tudo no projeto Firebase `app-fgv-insper`, sem servidor próprio. **O ID do projeto ainda diz
+`app-fgv-insper` e vai continuar dizendo** — ID de projeto do Firebase é imutável, e trocar
+exigiria projeto novo com migração de usuários preservando UID. Ele não aparece para o usuário:
+quem aparecia era o `authDomain`, e esse foi resolvido (abaixo).
 
-- **Auth** — login com Google (o único provedor ativado)
+- **Auth** — login com Google (o único provedor ativado). O `authDomain` é
+  **`conta.sagaxedu.com.br`**, não o `app-fgv-insper.firebaseapp.com` que o console entrega —
+  é esse valor que o popup do Google mostra a quem entra. Esse subdomínio é um site do Firebase
+  Hosting que existe só para servir `/__/auth/handler`; o app em si está no GitHub Pages. A
+  explicação completa, com o que precisa estar configurado no console, está no comentário de
+  [firebase-init.js](vestibular-direito-v2/firebase-init.js) e em
+  [auth.js](vestibular-direito-v2/auth.js).
 - **Firestore `users/{uid}`** — progresso do usuário; o `localStorage` continua sendo o que o
   app lê e escreve, então ele funciona offline, e o `sync.js` espelha na nuvem e mescla ao entrar
 - **Firestore `feedback`** — relatos de problema em questões, lidos pelo console do Firebase

@@ -1,0 +1,70 @@
+{
+  "_comentario": [
+    "Lote 2 de artes-cultura: 16 a 21, treze distratores.",
+    "",
+    "Em 16 a explicação já era boa -- ela explicava por que a confusão com Anita",
+    "Malfatti é razoável, citando a exposição de 1917 e o artigo de Monteiro Lobato -- ",
+    "mas citava letra ('Em (c) está a confusão de autoria mais razoável'). Reescrita",
+    "por conteúdo, conserva o argumento e sai da lista das 45.",
+    "",
+    "Nas substituições procurei, em cada questão, o vizinho temático que engana de",
+    "verdade:",
+    "",
+    "  18  o narrador confessional das redes sociais, que também é primeira pessoa e",
+    "      também expõe intimidade -- e não tem a ironia que faz o leitor desconfiar",
+    "      de quem narra, que é o ponto de Machado.",
+    "  19  o relato de sofrimento psíquico em linguagem clínica e informativa, que",
+    "      trata do mesmo assunto pela via oposta à da distorção subjetiva.",
+    "  20  o cinema de terror que usa sombra e cenário torto por convenção de gênero,",
+    "      herdada justamente do expressionismo, sem a crise social que a produziu.",
+    "  21  o feed que mistura assuntos sem ordem aparente porque mede engajamento --",
+    "      quase a resposta, e erra onde importa: ali a associação é estatística, e no",
+    "      Surrealismo ela é deliberadamente onírica."
+  ],
+  "subtopic": "artes-cultura",
+  "questoes": {
+    "artes-cultura-16": {
+      "alternativas": {
+        "c": "a inspiração de um manifesto cultural a partir da exposição de Anita Malfatti, cuja repercussão em 1917 mobilizou o grupo que faria a Semana de 22"
+      },
+      "explicacao": "Uma pintura gerou um manifesto, o manifesto gerou um programa cultural, e o programa segue sendo reaberto a cada geração — o Abaporu é o caso exemplar de ícone visual brasileiro que não para de ser redefinido. A hipótese de que o manifesto nasceu da exposição de Anita Malfatti é a confusão mais razoável do conjunto, porque ela é central no modernismo e a repercussão de 1917 provocou o artigo de Monteiro Lobato que mobilizou o grupo; a tela que Oswald viu e que originou o Manifesto Antropófago, no entanto, é de Tarsila. Dizer que a obra retrata uma figura humana isolada descreve a composição sem explicar a relação com o manifesto. Atribuir a Tarsila a previsão do tropicalismo troca influência posterior por antecipação. E a valorização em leilões internacionais é assunto de mercado."
+    },
+    "artes-cultura-17": {
+      "alternativas": {
+        "e": "a concentração do catálogo disponível nas mãos de poucas plataformas, que negociam diretamente com gravadoras e estúdios os termos de exibição de cada obra em seus serviços"
+      },
+      "explicacao": "O que pesquisadores apontam é uma mudança conjunta: como se consome, como se remunera quem produz e como os próprios formatos das obras se ajustam ao que os algoritmos de recomendação favorecem. A concentração do catálogo em poucas plataformas descreve a estrutura do mercado e o poder de negociação, sem alcançar o efeito sobre a forma das obras. Dizer que a produção independente foi inteiramente substituída por grandes gravadoras e estúdios exagera um quadro em que produções autônomas seguem existindo, inclusive dentro das plataformas. Restringir o fenômeno à música ignora que cinema e séries passaram pela mesma reconfiguração. E o barateamento dos equipamentos digitais reduziu custos antes e independentemente do streaming."
+    },
+    "artes-cultura-18": {
+      "alternativas": {
+        "b": "o crescimento de relatos autobiográficos em primeira pessoa nas redes sociais, em que autores expõem episódios íntimos de sua própria vida e pedem a adesão de quem os lê",
+        "c": "a circulação de vídeos e podcasts em que apresentadores comentam a vida pública em tom pessoal, construindo sua autoridade a partir da proximidade e da familiaridade que estabelecem com o público que os acompanha",
+        "e": "o uso da narração em primeira pessoa em obras literárias contemporâneas, recurso que aproxima o leitor da perspectiva de quem conta a história e reduz a distância entre ambos"
+      },
+      "explicacao": "O narrador machadiano é irônico e pouco confiável: ele expõe as contradições da sociedade justamente ao levar o leitor a desconfiar de quem está contando. É esse mecanismo que reaparece no humor e na sátira do entretenimento atual, que criticam de modo indireto. Os relatos autobiográficos em rede social e a narração em primeira pessoa na literatura compartilham a forma, e não a operação: ali a primeira pessoa pede adesão e proximidade, enquanto em Machado ela pede suspeita. Apresentadores que comentam a vida pública em tom pessoal constroem autoridade pela intimidade, o oposto do distanciamento irônico. E a preferência de leitores por tom confessional é dado de gosto, que não descreve técnica alguma."
+    },
+    "artes-cultura-19": {
+      "alternativas": {
+        "c": "a circulação de conteúdos informativos sobre saúde mental em linguagem clínica, que descrevem sintomas e tratamentos com o objetivo de orientar quem procura ajuda profissional",
+        "e": "a adoção de cores intensas e contornos deformados na ilustração editorial contemporânea, que busca chamar atenção nas capas de revista e nas páginas de abertura das reportagens de maior extensão"
+      },
+      "explicacao": "O Expressionismo distorce forma e cor para dar figura a um estado interior, tomando a subjetividade como critério da representação — e é isso que dialoga com produções atuais que tratam de sofrimento psíquico pela perspectiva de quem sofre, e não por descrição externa. Conteúdo informativo em linguagem clínica trata do mesmo assunto pela via oposta, a da objetividade descritiva. O uso de cor intensa e contorno deformado na ilustração editorial retoma o repertório visual sem a intenção expressiva que lhe dava sentido. Dizer que cor forte basta para associar uma imagem ao movimento fica na superfície do procedimento. Atribuir aos expressionistas a antecipação de diagnósticos psiquiátricos converte uma poética em precedente clínico. E filtros que alteram cores em fotos de rede social são recurso de edição corrente."
+    },
+    "artes-cultura-20": {
+      "alternativas": {
+        "a": "à convenção do cinema de terror contemporâneo, que emprega sombras acentuadas e cenários tortos como recurso de gênero herdado desse mesmo repertório visual alemão dos anos 1920",
+        "b": "à influência que esses filmes exerceram sobre a formação de diretores emigrados para Hollywood, onde o repertório de sombras se converteu na linguagem visual do cinema noir",
+        "c": "à recusa dos cineastas expressionistas em filmar em locações externas, opção que os levou a construir em estúdio cenários pintados e iluminados de maneira artificial"
+      },
+      "explicacao": "Historiadores leem a estética de angústia e desorientação desses filmes como figura do clima social da República de Weimar — insegurança, instabilidade, medo difuso — o mesmo terreno que Hannah Arendt analisaria depois como condição de emergência do totalitarismo. A convenção do terror atual é a alternativa mais tentadora, porque de fato herda esse repertório: só que herda a forma sem a crise que a produziu, e é a crise que está em questão. A influência sobre diretores emigrados e o nascimento do noir é história da linguagem cinematográfica, um efeito posterior. A opção por cenários de estúdio pintados é escolha de produção, que explica como o filme foi feito e não o que ele expressa. E a influência sobre videoclipes atuais é outro capítulo dessa herança formal."
+    },
+    "artes-cultura-21": {
+      "alternativas": {
+        "a": "a circulação de imagens estranhas e inusitadas na publicidade contemporânea, que recorre a composições improváveis para prender a atenção de quem passa os olhos por elas",
+        "c": "o funcionamento de sistemas que geram imagens a partir de descrições escritas, combinando elementos que não costumam aparecer juntos em uma mesma cena para atender ao pedido do usuário",
+        "d": "a organização de feeds que reúnem assuntos sem ordem aparente porque a sequência é definida pela medida de engajamento de cada item, e não por afinidade entre os temas apresentados"
+      },
+      "explicacao": "O Surrealismo procurava a lógica do inconsciente, associativa e não linear, por meios como a escrita automática e a justaposição de imagens oníricas — e é a essa lógica que críticos comparam a experiência fragmentada de navegar por conteúdo recomendado. O feed ordenado por medida de engajamento é o distrator que exige a distinção mais fina: a sequência também parece arbitrária, mas ali a associação é estatística, e no Surrealismo ela é deliberadamente onírica. Sistemas que geram imagens a partir de descrições combinam elementos improváveis por instrução de quem pede, não por acesso ao inconsciente. Imagens inusitadas na publicidade buscam atenção, sem técnica de acesso a estado algum. E o uso terapêutico da arte no tratamento da ansiedade pertence ao campo clínico."
+    }
+  }
+}

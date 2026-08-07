@@ -1,0 +1,26 @@
+{
+  "_comentario": [
+    "Fecha filosofia-sociologia DE VERDADE. Eu declarei a frente pronta com '0 de",
+    "400' e faltava esta: 20(c), 'a defesa platônica de que a democracia ateniense",
+    "seria o regime político ideal para lidar com algoritmos, associação anacrônica",
+    "alheia ao propósito do mito'.",
+    "",
+    "Passou porque minha lista por questão dizia '20=ab' e eu tratei a e b sem olhar",
+    "c. A lista veio de um padrão de varredura em que eu havia deixado cair as",
+    "variantes 'a antecipação, por X' e 'a previsão, por X' -- exatamente a família",
+    "deste distrator.",
+    "",
+    "A versão nova mantém o erro que vale testar, que é atribuir a Platão simpatia",
+    "pela democracia ateniense, e retira o aviso. Platão foi crítico dela, e essa é",
+    "uma confusão frequente de quem conhece o mito da caverna e não a República."
+  ],
+  "subtopic": "filosofia-sociologia",
+  "questoes": {
+    "filosofia-sociologia-20": {
+      "alternativas": {
+        "c": "a de que Platão defenderia entregar à assembleia dos cidadãos a decisão sobre como os algoritmos devem ordenar o que cada pessoa vê, por confiar no juízo coletivo reunido na cidade"
+      },
+      "explicacao": "No mito da caverna os prisioneiros tomam sombras por realidade porque nunca viram outra coisa, e é essa confusão entre versão parcial e panorama completo que o algoritmo de recomendação pode produzir ao devolver sempre conteúdo semelhante ao já consumido. Dizer que o problema está em a escolha ser automática desloca o eixo: o que importa no mito não é quem projeta a sombra, mas o fato de o prisioneiro não ter com que comparar. Afirmar que os sentidos são mais confiáveis que a razão inverte a hierarquia platônica, na qual o conhecimento verdadeiro exige sair da caverna. Entregar a decisão à assembleia dos cidadãos atribui a Platão uma confiança no juízo coletivo que ele não tinha, já que foi crítico da democracia ateniense, e ainda desloca a questão da relação entre aparência e realidade para o terreno da forma de governo. E processar mais dados do que um humano é uma capacidade técnica, não uma tese sobre conhecimento."
+    }
+  }
+}

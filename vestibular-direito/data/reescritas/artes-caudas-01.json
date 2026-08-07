@@ -1,0 +1,81 @@
+{
+  "_comentario": [
+    "Lote 1 de artes-cultura. 02 a 15, doze distratores.",
+    "",
+    "O molde aqui é mais rígido que o de filosofia. Cada questão traz o mesmo trio:",
+    "",
+    "  anacronismo   'a antecipação, por Warhol, do funcionamento dos algoritmos,",
+    "                 tecnologia então completamente inexistente'",
+    "  atribuição    'é um traço definidor do Cubismo, e não da Pop Art'",
+    "  superficial   'a presença de cores vivas, o que basta para relacioná-la à Pop",
+    "                 Art, independentemente de haver apropriação crítica'",
+    "",
+    "E a explicação fecha nomeando os três: 'A mera presença de cor vibrante não",
+    "caracteriza o movimento (superficial), Warhol não previu algoritmos",
+    "(anacronismo), e o traço não pertence ao Cubismo (confusão de autoria).'",
+    "Quem estudou dez questões destas aprendeu a resolver as noventa restantes sem",
+    "abrir um livro de arte: descarta a que fala de tecnologia futura, descarta a que",
+    "cita outro movimento, descarta a que diz 'já bastaria' -- e sobra uma.",
+    "",
+    "Por isso a explicação tinha de ser reescrita junto: ela era a chave do molde.",
+    "As novas nomeiam cada distrator pelo conteúdo e dizem por que ele falha, sem",
+    "rotular o TIPO de erro.",
+    "",
+    "As substituições ficam no mesmo universo temático da questão, o que é o que as",
+    "torna difíceis: turismo nas cidades históricas em vez de Aleijadinho publicitário,",
+    "reprodução de obras em canecas de loja de museu em vez de Cubismo fora de lugar,",
+    "conservação de instalação digital cujo equipamento sai de linha em vez de escultura",
+    "grega interativa. São questões reais do campo, e erradas como resposta ao que se",
+    "pergunta.",
+    "",
+    "Em 15 a explicação citava letra -- 'Em (d) está a analogia mais literal' -- uma",
+    "das 45 do banco nessa situação. Reescrita por conteúdo, sai também dessa conta.",
+    "E lá a certa empatava em 105 caracteres com um distrator; o distrator novo",
+    "resolve o empate."
+  ],
+  "subtopic": "artes-cultura",
+  "questoes": {
+    "artes-cultura-02": {
+      "alternativas": {
+        "b": "o uso de imagens do Barroco mineiro em campanhas de turismo das cidades históricas, que exploram o apelo visual das esculturas para atrair visitantes durante as festas religiosas do calendário local",
+        "c": "a produção de imagens sacras em série por ateliês contemporâneos, que reproduzem modelos barrocos consagrados para atender à demanda de igrejas recém-construídas em bairros populares"
+      },
+      "explicacao": "A dramaticidade, o contraste de luz e sombra e o apelo emocional do Barroco funcionam como retórica: a imagem foi feita para comover e, comovendo, convencer. É essa mesma operação que reaparece em campanhas de ativismo digital que escolhem imagens de forte carga afetiva para mobilizar quem as vê. Usar as esculturas em peças de turismo aproveita seu apelo visual sem retomar a estratégia de persuasão, que é o que está em jogo. Reproduzir modelos barrocos em série para igrejas novas continua a tradição iconográfica, o que é questão de repertório e não de eficácia retórica. Aproximar a obra de qualquer produção que mencione religião fica no tema e perde o mecanismo. E restaurar igrejas com técnicas originais é problema de conservação do patrimônio."
+    },
+    "artes-cultura-07": {
+      "alternativas": {
+        "b": "o crescimento do mercado de reproduções de obras da Pop Art em produtos de consumo, como canecas, cadernos e camisetas vendidos nas lojas dos próprios museus que exibem essas obras",
+        "d": "o uso de cores saturadas e contornos marcados no design de embalagens de produtos populares, que buscam destacar-se na prateleira do supermercado e ser reconhecidos de longe pelo consumidor",
+        "e": "a apropriação de imagens de artistas plásticos consagrados por marcas de moda, que estampam obras conhecidas em suas coleções de temporada e em vitrines de loja para associar seus produtos ao prestígio cultural que a arte acumulou"
+      },
+      "explicacao": "A Pop Art trouxe a embalagem e o ícone da mídia para dentro da obra a fim de expor criticamente a lógica da imagem publicitária — e é essa lógica que reaparece quando alguém constrói a própria imagem em rede social com os códigos da publicidade, tornando-se marca de si mesmo. Vender reproduções em canecas na loja do museu transforma a obra em mercadoria, mas por circulação comercial e não por apropriação crítica de códigos. O uso de cores saturadas em embalagens é o próprio repertório publicitário, sem o gesto de segunda ordem que o expõe. Marcas de moda que estampam obras conhecidas buscam prestígio emprestado, movimento inverso ao da Pop Art, que trazia o comercial para a arte. E obras consagradas como cenário de campanhas de luxo apenas emolduram o produto."
+    },
+    "artes-cultura-12": {
+      "alternativas": {
+        "b": "a dificuldade de preservar instalações digitais em acervos permanentes, que precisam manter em funcionamento equipamentos e programas que saem de linha poucos anos depois da criação da obra",
+        "c": "a exigência de que o público siga um percurso previamente definido pela curadoria ao atravessar a instalação, o que organiza o fluxo da visita sem alterar o papel de quem apenas observa a obra"
+      },
+      "explicacao": "Uma instalação que responde ao movimento de quem entra desloca o público de contemplador distante para participante que coautora a experiência — e é esse deslocamento que separa a obra digital interativa da fruição tradicional. A dificuldade de conservar equipamentos e programas obsoletos é problema real desse tipo de obra, mas de preservação, e não da relação entre obra e espectador. Um percurso definido pela curadoria organiza a visita e mantém quem passa na posição de observador, o que é precisamente o contrário da coautoria. Dizer que telas e projeções bastam para classificar a exposição fica no equipamento e ignora a participação efetiva. E a venda de ingressos com horário marcado é gestão de público."
+    },
+    "artes-cultura-13": {
+      "alternativas": {
+        "b": "a dificuldade de estabelecer o preço de uma obra cujo valor depende sobretudo da reputação de quem a assina e do histórico de vendas anteriores do artista no circuito internacional",
+        "e": "a concentração das vendas em um número reduzido de galerias e casas de leilão, que decidem quais artistas alcançam circulação internacional e quais permanecem restritos ao mercado local"
+      },
+      "explicacao": "O dilema apontado pela crítica é a tensão entre o valor simbólico e crítico da obra e sua conversão em ativo financeiro, comprado para valorizar e revender. A dificuldade de precificar uma obra pela reputação de quem assina descreve como o preço se forma, sem tocar no conflito entre crítica e mercadoria. A concentração das vendas em poucas galerias e leiloeiras é problema de estrutura do mercado e de quem controla o acesso, distinto do que a especulação faz com o sentido da obra. Dizer que a existência de leilões já anula o potencial crítico de qualquer obra é conclusão apressada, que dispensa olhar o conteúdo. E conservar obras de materiais perecíveis ou tecnologia obsoleta é desafio técnico dos acervos."
+    },
+    "artes-cultura-14": {
+      "alternativas": {
+        "a": "o endurecimento das leis municipais sobre intervenção em muros e fachadas, que passaram a distinguir o grafite autorizado da pichação para efeito de multa e de responsabilização do autor",
+        "e": "a valorização comercial de obras produzidas com tinta spray sobre tela, que passam a circular em galerias e feiras de arte sem manter vínculo com o muro e com a rua onde a linguagem se formou"
+      },
+      "explicacao": "A entrada do grafite em museus e galerias legitima uma linguagem antes marginalizada e, ao mesmo tempo, abre o debate sobre institucionalização e mercado, com risco de esvaziar o caráter contestador da intervenção urbana. O endurecimento das leis municipais separa prática autorizada de prática punida, o que é regulação do espaço público e não legitimação artística. A circulação de trabalhos feitos em spray sobre tela é o distrator que exige a distinção mais fina: há mercado, mas o problema em questão é o que a absorção institucional faz com o gesto de rua, e a tela já nasce fora dele. Dizer que tinta spray na parede basta para caracterizar o processo fica no material. Prever galerias futuras atribui aos primeiros grafiteiros uma antecipação que não estava em jogo. E multar pichação em bem público é sanção administrativa."
+    },
+    "artes-cultura-15": {
+      "alternativas": {
+        "a": "a difusão de padrões geométricos no design gráfico contemporâneo, que retomam o repertório visual das vanguardas do início do século XX em cartazes, capas e identidades visuais de empresas"
+      },
+      "explicacao": "O Cubismo abandona o observador único e neutro e funde numa só imagem ângulos que não se veem ao mesmo tempo — é essa recusa que a historiografia e o jornalismo refazem quando multiplicam as vozes sobre um mesmo acontecimento. A comparação com câmeras de segurança é a mais literal e por isso a mais enganosa: várias câmeras produzem vários registros separados, enquanto o Cubismo reúne os pontos de vista numa imagem única, e é aí que está a ruptura. Padrões geométricos no design retomam o repertório visual das vanguardas sem retomar a questão do ponto de vista. A fragmentação simultânea não define o Futurismo, que trata de movimento e velocidade. E atribuir a Picasso e Braque a antecipação da câmera panorâmica troca uma proposta de representação por um recurso técnico."
+    }
+  }
+}

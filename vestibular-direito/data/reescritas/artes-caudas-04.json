@@ -1,0 +1,74 @@
+{
+  "_comentario": [
+    "CORREÇÃO DE UM ERRO DE MEDIÇÃO MEU, e não um lote novo de conteúdo.",
+    "",
+    "Eu montei o padrão de varredura juntando o AUTORREF_RX do verify com o molde de",
+    "artes, e no caminho deixei cair as variantes de anacronismo que eu mesmo havia",
+    "identificado na primeira medição: 'a antecipação, por X', 'a previsão, por X' e",
+    "'mercado então inexistente' (sem o 'completamente'). Com isso:",
+    "",
+    "  - declarei filosofia-sociologia fechada com '0 de 400' quando faltava 20(c),",
+    "    um anacronismo com a cauda intacta ('associação anacrônica alheia ao",
+    "    propósito do mito');",
+    "  - contei artes-cultura como 212 distratores em 91 questões quando são 198 em",
+    "    87 -- e, pior, as listas por questão vinham incompletas, então sete questões",
+    "    que eu tratei como prontas (14, 15, 16, 17, 19, 23, 26) ficaram com o",
+    "    distrator de anacronismo de pé.",
+    "",
+    "Foi a conferência pelo navegador que pegou isso, com um padrão mais largo que o",
+    "da varredura. A lição é a mesma que já apareceu duas vezes nesta campanha: a",
+    "régua é parte do trabalho, e uma régua curta produz um relatório otimista.",
+    "",
+    "Este lote fecha as oito pendências. Todas são do mesmo tipo -- o distrator que",
+    "atribui ao artista a previsão de uma tecnologia futura -- e em todas a",
+    "substituição troca a profecia por uma relação que existe de verdade e ainda",
+    "assim não responde ao que se pergunta: a influência do Cubismo sobre o cinema de",
+    "montagem, a herança do expressionismo na direção de arte do terror, o uso do",
+    "Teatro do Oprimido em formação de professores."
+  ],
+  "subtopic": "artes-cultura",
+  "questoes": {
+    "artes-cultura-14": {
+      "alternativas": {
+        "b": "a criação de programas municipais que contratam grafiteiros para pintar muros e viadutos, transformando a intervenção urbana em serviço prestado à administração pública da cidade"
+      },
+      "explicacao": "A entrada do grafite em museus e galerias legitima uma linguagem antes marginalizada e, ao mesmo tempo, abre o debate sobre institucionalização e mercado, com risco de esvaziar o caráter contestador da intervenção urbana. Programas municipais que contratam grafiteiros para pintar muros são o distrator mais próximo, porque também institucionalizam a prática — mas por encomenda do poder público, e a questão trata da legitimação pelo circuito da arte. O endurecimento das leis municipais separa prática autorizada de prática punida, o que é regulação do espaço público. A circulação de trabalhos feitos em spray sobre tela tem mercado, e a tela já nasce fora do muro, que é onde a linguagem se constituiu. Dizer que tinta spray na parede basta para caracterizar o processo fica no material. E multar pichação em bem público é sanção administrativa."
+    },
+    "artes-cultura-15": {
+      "alternativas": {
+        "c": "a influência do Cubismo sobre a montagem cinematográfica, que aprendeu a justapor planos tomados de posições diferentes para construir a percepção de uma mesma cena"
+      },
+      "explicacao": "O Cubismo abandona o observador único e neutro e funde numa só imagem ângulos que não se veem ao mesmo tempo — é essa recusa que a historiografia e o jornalismo refazem quando multiplicam as vozes sobre um mesmo acontecimento. A comparação com câmeras de segurança é a mais literal e por isso a mais enganosa: várias câmeras produzem vários registros separados, enquanto o Cubismo reúne os pontos de vista numa imagem única, e é aí que está a ruptura. A influência sobre a montagem cinematográfica é real e ainda assim insuficiente, porque no cinema os planos se sucedem no tempo em vez de coexistirem no mesmo quadro. Padrões geométricos no design retomam o repertório visual sem a questão do ponto de vista. E a fragmentação simultânea não define o Futurismo, que trata de movimento e velocidade."
+    },
+    "artes-cultura-16": {
+      "alternativas": {
+        "a": "a influência da pintura de Tarsila do Amaral sobre a identidade visual construída pelo tropicalismo nas capas de disco e nos cenários de televisão dos anos 1960"
+      },
+      "explicacao": "Uma pintura gerou um manifesto, o manifesto gerou um programa cultural, e o programa segue sendo reaberto a cada geração — o Abaporu é o caso exemplar de ícone visual brasileiro que não para de ser redefinido. A hipótese de que o manifesto nasceu da exposição de Anita Malfatti é a confusão mais razoável do conjunto, porque ela é central no modernismo e a repercussão de 1917 provocou o artigo de Monteiro Lobato que mobilizou o grupo; a tela que Oswald viu e que originou o Manifesto Antropófago, no entanto, é de Tarsila. A influência de sua pintura sobre a identidade visual do tropicalismo existe e é de outra ordem: descreve uma herança estética, e não a relação entre obra e manifesto que a questão examina. Dizer que a obra retrata uma figura humana isolada descreve a composição sem explicar essa relação. E a valorização em leilões é assunto de mercado."
+    },
+    "artes-cultura-17": {
+      "alternativas": {
+        "b": "a continuidade entre a crítica à indústria cultural formulada em meados do século XX e o diagnóstico atual sobre padronização de produtos culturais nas plataformas de distribuição digital"
+      },
+      "explicacao": "O que pesquisadores apontam é uma mudança conjunta: como se consome, como se remunera quem produz e como os próprios formatos das obras se ajustam ao que os algoritmos de recomendação favorecem. A continuidade com a crítica à indústria cultural é o distrator mais forte, porque a filiação teórica de fato existe — mas ela situa o debate na história das ideias, sem descrever o impacto concreto que a questão pede. A concentração do catálogo em poucas plataformas descreve a estrutura do mercado, sem alcançar o efeito sobre a forma das obras. Dizer que a produção independente foi inteiramente substituída exagera um quadro em que produções autônomas seguem existindo. Restringir o fenômeno à música ignora cinema e séries. E o barateamento dos equipamentos digitais reduziu custos antes e independentemente do streaming."
+    },
+    "artes-cultura-19": {
+      "alternativas": {
+        "b": "a herança do repertório expressionista na direção de arte do cinema de terror, que adota enquadramentos tortos e sombras densas para produzir desconforto em quem assiste à cena"
+      },
+      "explicacao": "O Expressionismo distorce forma e cor para dar figura a um estado interior, tomando a subjetividade como critério da representação — e é isso que dialoga com produções atuais que tratam de sofrimento psíquico pela perspectiva de quem sofre, e não por descrição externa. A herança do repertório na direção de arte do terror é real e ainda assim insuficiente: ali a distorção serve ao efeito sobre o espectador, e não à expressão de um estado do próprio sujeito que representa. Conteúdo informativo em linguagem clínica trata do mesmo assunto pela via oposta, a da objetividade descritiva. O uso de cor intensa na ilustração editorial retoma o visual sem a intenção expressiva. Dizer que cor forte basta para associar uma imagem ao movimento fica na superfície. E filtros que alteram cores em fotos de rede social são recurso de edição corrente."
+    },
+    "artes-cultura-23": {
+      "alternativas": {
+        "e": "a influência da estética da fome sobre o cinema latino-americano das décadas seguintes, que adotou a precariedade material como programa em países com indústrias cinematográficas igualmente frágeis"
+      },
+      "explicacao": "A estética da fome propõe converter a própria falta de recursos em linguagem: a precariedade deixa de ser obstáculo e passa a ser matéria estética e política — e é isso que se atualiza em produções independentes feitas com celular e recursos acessíveis que disputam reconhecimento crítico. A influência sobre o cinema latino-americano das décadas seguintes é historicamente correta e ainda assim não é o que se pede, porque descreve a difusão do princípio no passado, e não sua atualização contemporânea. O documentário sobre pobreza com equipe numerosa tem o tema e não o princípio. A imagem crua adotada por estúdios de orçamento elevado imita a precariedade sem partir dela. Dizer que imagens de pobreza bastam fica no assunto. E a exigência de legendagem e audiodescrição em salas é política de acessibilidade."
+    },
+    "artes-cultura-26": {
+      "alternativas": {
+        "b": "o emprego de jogos teatrais na formação de professores, que usam a dramatização de situações de sala de aula como recurso para discutir a prática docente em cursos de licenciatura"
+      },
+      "explicacao": "O espect-ator de Boal interrompe a cena e entra nela para ensaiar coletivamente saídas para uma situação de opressão — a intervenção é o próprio método, e é isso que se reencontra em metodologias participativas de movimentos sociais e educação popular. Os jogos teatrais na formação de professores são o distrator que exige a distinção mais fina: também dramatizam situações reais para discuti-las, mas com finalidade de treinamento profissional, e não de enfrentamento coletivo de uma opressão. A votação de desfechos pelo celular tem participação e escolhe entre finais já escritos. O debate após o espetáculo mantém a cena intacta e conversa sobre ela depois. E dizer que a presença de plateia basta para relacionar a peça ao método ignora a intervenção efetiva."
+    }
+  }
+}

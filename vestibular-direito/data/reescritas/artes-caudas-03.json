@@ -1,0 +1,75 @@
+{
+  "_comentario": [
+    "Lote 3 de artes-cultura: 22 a 27, dezesseis distratores.",
+    "",
+    "Bloco do Cinema Novo e do teatro brasileiro. Aqui o molde chegava a produzir",
+    "distratores que se contradizem em voz alta: em 23(d), 'transformar a precariedade",
+    "material em linguagem estética é um traço definidor do cinema de Hollywood, e não",
+    "do Cinema Novo de Glauber Rocha, de proposta oposta'. A alternativa afirma e nega",
+    "na mesma frase.",
+    "",
+    "As trocas exploram o que de fato se confunde nesse território:",
+    "",
+    "  22  a hiper-realidade dos renderizados de arquitetura e publicidade, que também",
+    "      é precisão técnica levada ao limite -- e sem o conteúdo irracional que",
+    "      define o método de Dalí.",
+    "  23  o documentário que filma a pobreza com apuro técnico e equipe grande. Tem o",
+    "      tema, e a estética da fome é sobre transformar a falta de recursos em",
+    "      linguagem, não sobre o assunto filmado.",
+    "  24  o financiamento por editais estaduais, que descentraliza dinheiro sem",
+    "      descentralizar quem narra -- distinção fina e exatamente a que a questão pede.",
+    "  26  a peça com votação do público pelo celular, que é participação sem ensaio",
+    "      coletivo de solução, que é o que o teatro-fórum faz.",
+    "  27  a série que trata dos mesmos temas por eufemismo e sugestão, oposto do",
+    "      procedimento de Nelson Rodrigues e ainda assim sobre os mesmos tabus."
+  ],
+  "subtopic": "artes-cultura",
+  "questoes": {
+    "artes-cultura-22": {
+      "alternativas": {
+        "b": "o realismo extremo das imagens produzidas por computação gráfica para arquitetura e publicidade, capazes de simular materiais, reflexos e luz com fidelidade quase fotográfica em cenas inteiramente construídas",
+        "d": "a valorização de obras que exigem longo domínio técnico do artista, em contraste com produções contemporâneas que dispensam a habilidade manual em favor da ideia por trás do trabalho",
+        "e": "a recorrência de objetos derretidos e deformados em ilustrações e capas de disco, repertório visual que se difundiu a ponto de circular independentemente da obra que o originou"
+      },
+      "explicacao": "O método paranoico-crítico junta duas coisas que normalmente não andam juntas: rigor técnico de execução e conteúdo francamente irracional, e é essa junção que se discute nas imagens de inteligência artificial visualmente convincentes e logicamente impossíveis. O realismo extremo da computação gráfica para arquitetura e publicidade é o distrator mais forte: tem a precisão, e falta o conteúdo onírico, porque simula o que poderia existir. A recorrência de objetos derretidos em ilustrações difundiu um repertório visual sem o procedimento que lhe dava sentido. O contraste entre domínio técnico e arte conceitual é debate sobre habilidade, que não toca no irracional. E o mercado de reproduções em impressão tridimensional é assunto de circulação de acervo."
+    },
+    "artes-cultura-23": {
+      "alternativas": {
+        "a": "a produção de documentários sobre pobreza e desigualdade realizados com equipe numerosa, equipamento profissional e acabamento técnico apurado, exibidos em festivais internacionais de cinema",
+        "d": "a adoção, por grandes estúdios, de uma estética de imagem crua e câmera instável em produções de orçamento elevado, recurso que empresta ao filme a aparência de um registro documental improvisado e feito às pressas"
+      },
+      "explicacao": "A estética da fome propõe converter a própria falta de recursos em linguagem: a precariedade deixa de ser obstáculo e passa a ser matéria estética e política — e é isso que se atualiza em produções independentes feitas com celular e recursos acessíveis que disputam reconhecimento crítico. O documentário sobre pobreza com equipe numerosa e acabamento apurado tem o tema e não tem o princípio, porque nele a precariedade é objeto filmado e não condição da linguagem. A imagem crua adotada por estúdios de orçamento elevado imita a aparência da precariedade sem partir dela, o que inverte a proposta. Dizer que imagens de pobreza bastam para relacionar uma produção ao conceito fica no assunto. E a exigência de legendagem e audiodescrição em salas é política de acessibilidade."
+    },
+    "artes-cultura-24": {
+      "alternativas": {
+        "a": "o debate sobre a distribuição de recursos por editais estaduais de cultura, que descentralizam o financiamento entre unidades da federação segundo critérios de mérito e de contrapartida definidos por cada estado",
+        "c": "a preferência do público por produções ambientadas em cidades grandes, que reduziria o interesse comercial por narrativas passadas em regiões menos conhecidas do território brasileiro",
+        "d": "a presença de paisagens áridas e de personagens em deslocamento pelo sertão em produções recentes, repertório visual que se consolidou como marca reconhecível do cinema brasileiro"
+      },
+      "explicacao": "O Cinema Novo assumiu a desigualdade regional como matéria e como questão política, e é isso que se prolonga no debate sobre a concentração do investimento público audiovisual no Sudeste, em detrimento de narrativas e produtoras do Norte e do Nordeste. Os editais estaduais são o distrator que exige a distinção mais fina: descentralizam o dinheiro entre estados sem enfrentar a concentração de quem narra e de onde se produz, que é o ponto. Explicar tudo pela preferência do público desloca a questão para o gosto do mercado. O repertório de paisagens áridas consolidou uma imagem reconhecível sem que isso implique crítica à desigualdade. Atribuir a Nelson Pereira dos Santos a previsão das políticas de financiamento dos anos 1990 troca compromisso estético por antecipação. E cotas de tela protegem o filme nacional sem tratar do desequilíbrio entre regiões."
+    },
+    "artes-cultura-25": {
+      "alternativas": {
+        "b": "o barateamento dos equipamentos de filmagem, que permitiu a produtoras de médio porte reduzir custos e ampliar o número de projetos que conseguem realizar em um mesmo ano",
+        "c": "a facilidade de acesso a programas de edição e a bancos de trilhas sonoras, que encurtaram a etapa de finalização e reduziram a dependência de estúdios especializados nesse serviço",
+        "d": "a gravação de filmes com poucos recursos técnicos por produtoras que buscam margem de lucro maior, mantendo o padrão narrativo e os formatos já consagrados pelo cinema comercial voltado ao grande público"
+      },
+      "explicacao": "O lema põe a ideia à frente do aparato: o que autoriza fazer cinema é o projeto autoral, não a estrutura industrial — e é isso que reaparece nos curtas e documentários autorais feitos com câmeras acessíveis e distribuídos direto em plataformas. A gravação de baixo custo que preserva os formatos do cinema comercial é o distrator decisivo, porque tem a economia de meios e lhe falta justamente a intenção autoral e crítica. O barateamento dos equipamentos e o acesso a programas de edição são condições técnicas que facilitam qualquer produção, sem dizer nada sobre o compromisso de quem filma. Atribuir a Glauber Rocha a previsão das câmeras de celular converte um programa estético em profecia técnica. E a profissionalização das escolas de cinema é política de formação."
+    },
+    "artes-cultura-26": {
+      "alternativas": {
+        "a": "a realização de espetáculos em que o público escolhe, por votação pelo celular, entre desfechos previamente escritos e ensaiados pela companhia para aquela apresentação",
+        "d": "a promoção de debates com a plateia após o encerramento do espetáculo, em que atores e diretor comentam o processo de criação e respondem às perguntas levantadas por quem acabou de assistir à peça"
+      },
+      "explicacao": "O espect-ator de Boal interrompe a cena e entra nela para ensaiar coletivamente saídas para uma situação de opressão — a intervenção é o próprio método, e é isso que se reencontra em metodologias participativas de movimentos sociais e educação popular. A votação de desfechos pelo celular é a alternativa mais tentadora: há participação, mas a escolha se dá entre finais já escritos, e falta o ensaio coletivo de alternativas que caracteriza o teatro-fórum. O debate após o espetáculo mantém a cena intacta e conversa sobre ela depois. Dizer que a presença de plateia basta para relacionar a peça ao método ignora a intervenção efetiva. E atribuir a Boal a previsão de metodologias de treinamento corporativo transporta uma pedagogia política para outro contexto."
+    },
+    "artes-cultura-27": {
+      "alternativas": {
+        "a": "a construção de tramas em ordem não cronológica em séries contemporâneas, que alternam épocas e pontos de vista para revelar aos poucos o que aconteceu entre os personagens",
+        "d": "o tratamento de temas como desejo e violência doméstica por meio de sugestão e eufemismo em produções de grande audiência, que preferem apenas indicar a existência do conflito a mostrá-lo diretamente na tela",
+        "e": "a exibição de conflitos familiares em programas de televisão que expõem casos reais de pessoas comuns, apresentados ao público com a mediação de um apresentador em estúdio"
+      },
+      "explicacao": "Nelson Rodrigues nomeia sem rodeios o que sua época preferia calar — desejo, hipocrisia familiar, violência — e é essa frontalidade que reaparece no debate sobre até onde produções de grande audiência podem ir ao tratar dos mesmos assuntos. O tratamento por sugestão e eufemismo é o distrator decisivo: os temas são os mesmos e o procedimento é o oposto, já que ali se evita exatamente o que ele fazia questão de mostrar. A ordem não cronológica retoma a ruptura formal com o teatro realista, e não a exposição do tabu. Programas que expõem casos reais de pessoas comuns põem em cena conflito familiar sem que haja construção dramatúrgica em jogo. E a classificação indicativa por faixa etária é instrumento de regulação."
+    }
+  }
+}

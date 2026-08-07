@@ -1,0 +1,78 @@
+{
+  "_comentario": [
+    "Lote 6 de artes-cultura: 30 a 36, catorze distratores.",
+    "",
+    "Bloco de patrimônio, moda e games. Aqui o distrator de anacronismo chegava a",
+    "explicar a própria cronologia para se desmentir: em 30(c), 'a previsão, por Lúcio",
+    "Costa e Niemeyer, dos critérios da UNESCO, órgão internacional fundado apenas em",
+    "1945, após o projeto de Brasília ser concebido'. A alternativa entrega a data que",
+    "a refuta -- e de passagem erra, porque a UNESCO é de 1945 e Brasília foi",
+    "projetada em 1957.",
+    "",
+    "As substituições aproveitam que estes são temas onde o quase-certo abunda:",
+    "",
+    "  30  o tombamento do conjunto sem restrição ao entorno, que é um problema real",
+    "      de patrimônio e não o da adaptação de uma cidade viva.",
+    "  33  a desapropriação do imóvel tombado, que é a confusão mais comum sobre o",
+    "      instituto -- tombar restringe uso e NÃO transfere propriedade, o que o",
+    "      texto de apoio diz e o candidato desatento não lê.",
+    "  34  o museu que amplia horário e gratuidade, que é inclusão de público sem",
+    "      revisão de narrativa.",
+    "  35  o game que exige perícia motora e decisão rápida, que é mérito de jogo e",
+    "      não argumento estético.",
+    "  36  a ramificação em finais alternativos já escritos, que é quase a coautoria",
+    "      pedida e para na escolha entre caminhos previstos pelo autor."
+  ],
+  "subtopic": "artes-cultura",
+  "questoes": {
+    "artes-cultura-30": {
+      "alternativas": {
+        "c": "o debate sobre o tombamento do conjunto arquitetônico sem restrição equivalente ao entorno, que permite que construções vizinhas alterem a paisagem em que o conjunto protegido foi concebido",
+        "e": "a presença de monumentos e edifícios assinados por arquitetos renomados em uma cidade, conjunto que justificaria seu reconhecimento pela relevância dos autores das obras que ela reúne"
+      },
+      "explicacao": "Reconhecer como patrimônio uma cidade planejada e habitada cria um problema próprio: preservar o traçado e o conjunto arquitetônico sem impedir que a cidade se adapte ao crescimento populacional e às novas necessidades de mobilidade. A questão do entorno não protegido é um problema real de patrimônio e ainda assim outro, porque trata da vizinhança do bem e não da vida interna do conjunto tombado. Justificar o reconhecimento pela fama dos arquitetos desloca o critério para a autoria, quando o tombamento recaiu sobre o conjunto urbanístico. O reconhecimento de 1987 foi de Brasília, e Ouro Preto havia sido inscrita antes, por seu conjunto colonial. E a candidatura de manifestações imateriais pertence a outra categoria da lista da UNESCO."
+    },
+    "artes-cultura-31": {
+      "alternativas": {
+        "a": "a organização de vitrines e catálogos por estação do ano, prática do comércio de vestuário que ordena a oferta segundo o calendário de lançamentos definido pela indústria da moda",
+        "e": "a padronização do vestuário de trabalho em uniformes e códigos de traje, que reduz a variação individual em favor da identificação imediata da função e da hierarquia de quem os veste no ambiente de trabalho"
+      },
+      "explicacao": "Barthes trata a roupa como sistema de signos: o que se veste comunica pertencimento, posição e valores, e é isso que se reencontra quando escolhas de vestuário em redes sociais e no ambiente profissional passam a comunicar posicionamento identitário e político. A organização de vitrines por estação descreve a lógica comercial do calendário, e não o funcionamento do vestuário como linguagem. A padronização em uniformes é o distrator que exige a distinção mais fina: também comunica, mas comunica função por determinação de quem emprega, em vez de identidade construída por quem escolhe. Dizer que a existência de roupas em vitrine já basta para a análise semiológica dispensa a comunicação de sentido. E o conceito é de Barthes, ainda que Bourdieu tenha tratado de distinção pelo gosto."
+    },
+    "artes-cultura-32": {
+      "alternativas": {
+        "a": "ampliar a presença de profissionais negros e indígenas nas equipes de criação das marcas, medida que altera quem assina a coleção sem que as referências culturais presentes nas peças mudem por causa disso",
+        "c": "empregar estampas, cores e grafismos de origem africana e indígena como recurso visual de coleção, repertório que confere identidade reconhecível às peças no mercado internacional de moda"
+      },
+      "explicacao": "A interseccionalidade permite ler essa produção como uso do vestuário para valorizar e afirmar identidades atravessadas ao mesmo tempo por raça, gênero e classe, historicamente marginalizadas na moda hegemônica. Ampliar a presença de profissionais negros e indígenas nas equipes é o distrator mais forte, porque é medida real e relevante: ela muda quem assina, e a leitura interseccional aqui recai sobre o que a peça afirma. Usar estampas e grafismos como recurso visual de mercado fica no repertório gráfico, sem a afirmação identitária. Atribuir a esses estilistas a antecipação de uma formulação teórica posterior troca prática por profecia. E rotular origem e condições de produção é exigência de transparência na cadeia produtiva."
+    },
+    "artes-cultura-33": {
+      "alternativas": {
+        "b": "o debate sobre a desapropriação de imóveis tombados pelo poder público, que assume a propriedade do bem para garantir sua conservação e destinar-lhe uso compatível com o interesse cultural",
+        "d": "o debate sobre o custo de manutenção que recai sobre o proprietário de um imóvel tombado, obrigado a conservar a edificação empregando materiais e técnicas previamente aprovados pelo órgão de preservação"
+      },
+      "explicacao": "O tombamento restringe a modificação do bem sem transferir sua propriedade, e é dessa combinação que nasce o conflito urbano em questão: imóveis antigos protegidos em áreas valorizadas, sob pressão imobiliária por verticalização e reforma. A desapropriação é a confusão mais comum sobre o instituto e o próprio enunciado a desfaz, porque tombar não transfere a titularidade do bem. O custo de manutenção que recai sobre o proprietário é consequência real do tombamento e ainda assim de outra ordem, já que é encargo individual e não disputa pelo uso do solo urbano. Dizer que uma placa informativa basta para caracterizar um bem como tombado ignora a necessidade do ato administrativo. E o instrumento alcança edificações urbanas, não apenas bens indígenas."
+    },
+    "artes-cultura-34": {
+      "alternativas": {
+        "b": "a ampliação de horários de funcionamento e a adoção de dias de entrada gratuita, medidas que aumentam o número de visitantes sem alterar o recorte das narrativas apresentadas nas salas",
+        "d": "a criação de programas de formação de educadores para mediar visitas escolares, iniciativa que qualifica o atendimento ao público estudantil dentro do percurso expositivo que a instituição já mantém"
+      },
+      "explicacao": "A renovação da função museológica passa por rever criticamente as narrativas que a instituição conta, e o caso mais agudo disso é a discussão sobre devolver a seus países de origem acervos obtidos em contexto colonial. Ampliar horário e oferecer entrada gratuita amplia o acesso do público, o que é a outra metade da renovação e não a revisão da narrativa que a questão pede. Formar educadores para mediar visitas qualifica o atendimento dentro do percurso que já existe. Dizer que um totem explicativo ao lado da obra basta para caracterizar um museu como renovado ignora a política curatorial. Atribuir aos fundadores dos museus do século XIX a previsão do debate sobre restituição inverte a posição histórica deles. E ingresso diferenciado para estrangeiros é política de preço."
+    },
+    "artes-cultura-35": {
+      "alternativas": {
+        "c": "exigir do jogador perícia motora e decisões rápidas sob pressão de tempo, competências cuja demonstração pública sustenta hoje um circuito competitivo com premiação e público próprio",
+        "d": "empregar equipes numerosas de programadores, roteiristas e artistas visuais, organização de trabalho comparável à de uma grande produção cinematográfica em escala e em divisão de tarefas"
+      },
+      "explicacao": "O argumento estético em favor dos games é que eles articulam imagem, som, narrativa e interação de modo autoral, propondo ao jogador uma experiência que também é reflexiva. Exigir perícia motora e decisão rápida descreve competência de jogo e sustenta o circuito competitivo, sem tocar na proposta autoral. O tamanho das equipes e a divisão do trabalho aproximam a produção do cinema em escala industrial, o que é argumento sobre modo de produzir e não sobre linguagem. Dizer que mecânicas repetitivas de entretenimento já bastariam para o reconhecimento como arte esvazia a exigência autoral. Atribuir aos primeiros jogos a antecipação do debate sobre metaverso é anacronismo. E movimentar mais dinheiro que cinema e música é dado de mercado."
+    },
+    "artes-cultura-36": {
+      "alternativas": {
+        "b": "permite ao jogador escolher entre finais alternativos previamente escritos pela equipe de roteiro, que se ramificam a partir de decisões tomadas em pontos determinados da história",
+        "c": "envolve o uso de controles físicos e de resposta tátil que reagem à ação do jogador, recurso que aumenta a sensação de presença na cena apresentada pela tela do dispositivo"
+      },
+      "explicacao": "A interatividade narrativa é uma inovação estética porque as decisões do jogador alteram o curso da história, colocando-o na posição de coautor da experiência, diferente da fruição mais passiva de outras artes. A escolha entre finais alternativos já escritos é o distrator decisivo: há ramificação, e a coautoria para no momento em que todos os caminhos foram previstos pelo roteiro. O uso de controles com resposta tátil aumenta a sensação de presença sem que nada da narrativa mude. Dizer que o controle físico já caracteriza interatividade narrativa ignora a existência de decisões que alterem o enredo. Exigir mais tempo de dedicação que um filme é diferença de duração. E a coautoria do espectador no teatro-fórum de Boal é anterior e de outra natureza, porque ali se ensaia coletivamente uma saída para uma situação de opressão."
+    }
+  }
+}

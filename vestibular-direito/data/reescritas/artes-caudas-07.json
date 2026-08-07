@@ -1,0 +1,66 @@
+{
+  "_comentario": [
+    "Lote 7 de artes-cultura: 28, 29, 37, 38, 39. Catorze distratores.",
+    "",
+    "Bloco Niemeyer / Lúcio Costa / pintura francesa / Duchamp. Em 29(c) o molde",
+    "produziu um erro de fato, e não só de forma: dizia que a setorização rígida é",
+    "traço do 'urbanismo colonial das cidades mineiras, de lógica orgânica e traçado",
+    "sinuoso'. As cidades mineiras coloniais têm de fato traçado orgânico -- que é o",
+    "OPOSTO de setorização rígida. A alternativa se contradizia sozinha.",
+    "",
+    "Os substitutos escolhidos:",
+    "",
+    "  28  a laje plana e o pilotis, que são vocabulário moderno internacional e",
+    "      exatamente aquilo de que Niemeyer se afastou.",
+    "  29  a escala monumental do Eixo, que é do mesmo plano e é outra decisão de",
+    "      projeto: a questão pergunta pela separação de funções, não pelo tamanho.",
+    "  37  a pintura ao ar livre praticada hoje em oficinas de paisagem, que retoma o",
+    "      procedimento e não o problema do instante fugaz.",
+    "  38  a formação de coletivos que assinam obra em conjunto -- tema de autoria, e",
+    "      a questão trata de linguagem pessoal reconhecível.",
+    "  39  a arte conceitual que dispensa objeto, que é herdeira direta de Duchamp e",
+    "      leva a pergunta para outro lugar, o do suporte, e não o da autoria."
+  ],
+  "subtopic": "artes-cultura",
+  "questoes": {
+    "artes-cultura-28": {
+      "alternativas": {
+        "a": "a adoção da laje plana, do pilotis e da fachada livre como vocabulário construtivo, elementos que se difundiram como a assinatura visual da arquitetura moderna em edifícios de escritórios de várias cidades do mundo",
+        "b": "o emprego de estruturas metálicas pré-fabricadas em obras de grande porte, solução que encurta o prazo de execução e reduz a necessidade de mão de obra especializada no canteiro",
+        "e": "a preferência por revestimentos de vidro em fachadas inteiras de edifícios, recurso que dá leveza visual ao volume construído e virou padrão em torres corporativas de muitas cidades"
+      },
+      "explicacao": "Niemeyer apostou na plasticidade do concreto armado para produzir formas curvas e orgânicas, afastando-se da rigidez geométrica então dominante — e é essa aposta que a arquitetura paramétrica revisita hoje com software capaz de gerar e calcular formas livres. A laje plana, o pilotis e a fachada livre são justamente o vocabulário moderno internacional do qual ele se afastou, o que faz dessa alternativa a mais enganosa do conjunto. Estruturas metálicas pré-fabricadas e fachadas inteiras de vidro são soluções construtivas de outra ordem, ligadas a prazo, custo e aparência. Dizer que uma curva na fachada já basta para a relação ignora a exploração plástica do material. E o urbanismo de Lúcio Costa organiza o traçado da cidade, enquanto a plasticidade escultórica é de Niemeyer."
+    },
+    "artes-cultura-29": {
+      "alternativas": {
+        "a": "o debate sobre a escala monumental dos eixos e das praças do plano piloto, dimensionados para a contemplação a distância e para a circulação de automóveis mais do que para o pedestre que precisa atravessá-los",
+        "c": "o debate sobre a preservação do traçado original diante do crescimento das cidades-satélite, que concentraram população fora da área tombada e sem a infraestrutura prevista no projeto inicial",
+        "e": "o debate sobre a distribuição de equipamentos públicos por quadra residencial, solução que previa escola, comércio local e área de convivência a distância caminhável de cada bloco de moradia"
+      },
+      "explicacao": "A setorização rígida separa habitação, trabalho e lazer em zonas distintas, e o efeito disso sobre a mobilidade é o que leva cidades contemporâneas a defender o uso misto do solo como alternativa ao zoneamento modernista. A escala monumental dos eixos e a expansão das cidades-satélite pertencem ao mesmo plano e são outros problemas: um trata de dimensionamento e do lugar do pedestre, o outro de crescimento populacional fora da área tombada. A distribuição de equipamentos por superquadra é o distrator que exige a distinção mais fina, porque é justamente a parte do plano que aproxima funções em escala local, e não a que as separa. Dizer que uma avenida larga já basta para a relação ignora a setorização. E o urbanismo colonial mineiro tem traçado orgânico, que é o oposto da separação rígida por zonas."
+    },
+    "artes-cultura-37": {
+      "alternativas": {
+        "c": "a prática da pintura ao ar livre em oficinas e cursos de paisagem, que levam os participantes a montar cavalete em parques e praças da cidade para pintar diante do motivo que cada um escolheu",
+        "d": "a valorização, no mercado de arte, de telas em que a marca do pincel permanece visível, sinal de execução manual que distingue a peça de imagens produzidas por processos automatizados",
+        "e": "a difusão de aplicativos que aplicam a imagens fotográficas um acabamento semelhante ao da pintura, com pinceladas simuladas e paleta de cores próxima à das telas impressionistas"
+      },
+      "explicacao": "O Impressionismo persegue o instante: a luz e a cor de um momento que não se repete, registradas antes que mudem — e é esse impulso que reaparece na cultura do registro fotográfico instantâneo do cotidiano. A pintura ao ar livre praticada hoje em oficinas retoma o procedimento sem o problema, porque o que estava em jogo era a fugacidade e não o local de trabalho. Aplicativos que simulam pinceladas imitam o acabamento, o que é o resultado visual e não a questão. A valorização da marca do pincel no mercado trata de autenticidade da execução manual. Dizer que pinceladas visíveis já bastam para a relação fica na superfície técnica. E o interesse pela luz momentânea não é do Neoclassicismo, que valoriza desenho e acabamento liso."
+    },
+    "artes-cultura-38": {
+      "alternativas": {
+        "a": "a formação de coletivos que assinam obras em conjunto, dissolvendo a figura do autor individual em favor de um processo de criação compartilhado entre vários participantes",
+        "b": "a valorização de obras que empregam cores intensas e contrastes fortes, recurso que lhes dá presença visual imediata em feiras e nas fotografias de exposição publicadas pela imprensa",
+        "e": "a retomada, por pintores contemporâneos, do empastamento espesso e da pincelada carregada de tinta, procedimento técnico que remete diretamente à superfície das telas de van Gogh"
+      },
+      "explicacao": "Van Gogh e Cézanne abriram, cada um a seu modo, uma via própria entre o Impressionismo e a tradição acadêmica, e é essa busca por linguagem visual pessoal e reconhecível que o mercado e a crítica de hoje valorizam em quem não se filia a escola já consolidada. Os coletivos que assinam em conjunto tratam de autoria compartilhada, o que é o problema inverso ao da assinatura visual individual. A retomada do empastamento espesso copia o procedimento sem a busca que o motivava. A valorização de cores intensas por presença visual é critério de mercado e de circulação. Dizer que cores fortes já bastam para a relação ignora a construção de uma linguagem. E a busca por linguagem simbólica própria não define o Dadaísmo, movimento posterior e de outra intenção."
+    },
+    "artes-cultura-39": {
+      "alternativas": {
+        "a": "a produção de arte conceitual que dispensa o objeto e se realiza como instrução, projeto ou registro documental, deslocando o valor da obra do objeto acabado para a ideia formulada pelo artista e registrada em documento",
+        "b": "a exposição de objetos industriais de uso corrente em galerias e feiras de arte contemporânea, prática hoje corriqueira e reconhecida pelo circuito como uma das linguagens disponíveis"
+      },
+      "explicacao": "Ao assinar um urinol e expô-lo, Duchamp perguntou se o deslocamento de contexto basta para constituir arte, e é essa pergunta que retorna na discussão sobre autoria de obras feitas com inteligência artificial generativa. A arte conceitual que dispensa o objeto é herdeira direta desse gesto e leva a questão para outro terreno, o do suporte, em vez do da autoria. A exposição de objetos industriais em galerias hoje é prática assimilada, o que mostra o efeito do gesto e não reabre a pergunta. Dizer que a presença de um objeto industrial já basta para a relação ignora o questionamento sobre valor e autoria. E A Fonte é de Duchamp, ainda que Marinetti tenha assinado o manifesto futurista no mesmo período de ruptura."
+    }
+  }
+}

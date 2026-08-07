@@ -69,7 +69,13 @@ $root = $PSScriptRoot
 # Mesmo padrão do permutar-alternativas.ps1 e do rebalance-answers.ps1: a
 # explicação nomeia distrator por CONTEÚDO, nunca por letra. Manter isso é o que
 # deixa a permutação e o rebalanceamento seguros mais tarde.
-$LETRA_RX = '\(\s*[a-e]\s*\)|\b(alternativa|alternativas|letra|letras|opção|opções)\s+[a-e]\b'
+# A negativa no fim existe porque em português "a" e "e" também são artigo e
+# conjunção: "dessa alternativa a mais enganosa" e "a alternativa e o enunciado"
+# não citam letra nenhuma, e a primeira versão do padrão reprovava as duas. O
+# lookahead exclui só os casos em que a suposta letra é seguida de palavra que a
+# revela como artigo ou conjunção -- referência de verdade a uma alternativa vem
+# entre parênteses ou termina a oração, e essas continuam sendo pegas.
+$LETRA_RX = '\(\s*[a-e]\s*\)|\b(alternativa|alternativas|letra|letras|opção|opções)\s+[a-e]\b(?!\s+(mais|menos|única|únicas|primeira|segunda|terceira|melhor|pior|correta|errada|seguinte|outra|o|a|os|as|que|não))'
 
 # As caudas que este script existe para eliminar. Se o texto NOVO ainda tiver
 # uma, o lote não cumpriu seu propósito e é melhor falhar do que gravar.

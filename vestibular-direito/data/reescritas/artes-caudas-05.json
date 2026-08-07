@@ -1,0 +1,87 @@
+{
+  "_comentario": [
+    "Lote 5 de artes-cultura: as nove questões que tinham um único distrator com",
+    "cauda -- 01, 03, 04, 06, 08, 09, 10, 60, 95. Todos do tipo anacronismo, exceto",
+    "60, que é do tipo superficial.",
+    "",
+    "Sete destas (01 a 10) tinham explicação citando letra, das que eu escrevi na",
+    "Fase 9. Reescritas por conteúdo, o argumento delas se conserva -- inclusive as",
+    "boas observações, como a de que a guitarra elétrica foi o que separou Tropicália",
+    "e Cinema Novo, ou a de que Jorge Amado registra a fala popular no diálogo sem",
+    "refazer a sintaxe do romance. Saem também da lista das 45 que travam o",
+    "rebalance-answers.ps1.",
+    "",
+    "As substituições seguem o critério que tem funcionado: afirmação verdadeira, ou",
+    "quase, que ainda assim não responde ao que se pergunta.",
+    "",
+    "  01  Leonardo como precursor do desenho técnico industrial. É defensável e",
+    "      erra o alvo: a questão pergunta pelo método de investigar o mundo e",
+    "      devolver o resultado como obra, não pelo legado de engenharia.",
+    "  06  o pôster e o cartão-postal vendidos na loja do museu. É reprodutibilidade",
+    "      em estado puro, e o que se pede é a tentativa de RECRIAR a aura, que é o",
+    "      que o NFT faz.",
+    "  08  a guitarra elétrica na música popular brasileira. Foi a Tropicália que a",
+    "      introduziu, e hoje ela não distingue mais gênero nenhum -- o traço",
+    "      sobreviveu à operação que lhe dava sentido.",
+    "  60  o funk como gênero de exportação, cujo sucesso no exterior comprovaria seu",
+    "      valor. É o argumento que os defensores realmente usam, e desloca a defesa",
+    "      do terreno do estigma de classe e raça para o do reconhecimento externo."
+  ],
+  "subtopic": "artes-cultura",
+  "questoes": {
+    "artes-cultura-01": {
+      "alternativas": {
+        "d": "a atribuição a Leonardo do papel de precursor do desenho técnico industrial, cujas máquinas projetadas em caderno anteciparam princípios que a engenharia moderna viria a formalizar"
+      },
+      "explicacao": "O que se transporta do Renascimento para hoje é o método: investigar o mundo com instrumentos científicos e devolver o resultado como obra, que é o que fazem a bioarte e a visualização de dados. Ver em Leonardo o precursor do desenho técnico industrial é defensável e erra o alvo, porque descreve um legado de engenharia em vez do procedimento de pesquisa que se converte em arte. A aproximação com Aleijadinho não se sustenta: a escultura barroca mineira parte da devoção e da retórica religiosa, não do estudo anatômico. Dizer que representar a figura humana com fidelidade já constitui método científico confunde resultado com investigação. E o mercado de reproduções digitais em alta resolução reproduz obras, o que é o oposto de investigar."
+    },
+    "artes-cultura-03": {
+      "alternativas": {
+        "e": "a retomada, por artistas contemporâneos, do repertório visual do modernismo de 1922 em capas de disco, cartazes de festivais e identidades gráficas de instituições culturais brasileiras"
+      },
+      "explicacao": "O gesto de 22 é simultâneo: importar a forma da vanguarda e usá-la para dizer algo brasileiro. É a mesma equação que enfrenta hoje quem produz aqui dentro de circuitos globais. A retomada do repertório visual modernista em capas e cartazes é homenagem a um resultado já alcançado, e não a operação de absorver o que vem de fora para construir identidade. Depurar a arte nacional de influências estrangeiras inverte o movimento, e o Barroco colonial tampouco propôs isso. Valorizar a mistura de dois estilos sem projeto perde exatamente o que definiu o modernismo, que era a intenção de construir algo brasileiro com a forma importada. E cotas para produção nacional na televisão são política pública, não questão estética."
+    },
+    "artes-cultura-04": {
+      "alternativas": {
+        "a": "a circulação de obras brasileiras em festivais e mostras internacionais, que exige de seus autores adaptar a linguagem ao repertório do público estrangeiro que vai recebê-las"
+      },
+      "explicacao": "Devorar, na figura de Oswald, é digerir e transformar, o oposto de copiar: o que o conceito ilumina hoje é a produção que reprocessa o global em vez de reproduzi-lo. Adaptar a linguagem ao repertório do público estrangeiro é o movimento inverso do da antropofagia, porque ali quem se ajusta é a obra brasileira, e não o material estrangeiro que ela absorve. Dizer que usar referência estrangeira já é praticar antropofagia banaliza o termo, uma vez que sem reelaboração crítica não há devoração alguma. Mário de Andrade escreveu Macunaíma no mesmo ano e trabalha na mesma direção, mas o manifesto é de Oswald. E a proteção jurídica de expressões culturais tradicionais contra uso comercial é debate de direito, de outra ordem."
+    },
+    "artes-cultura-06": {
+      "alternativas": {
+        "b": "a reprodução em série de obras consagradas em pôsteres e cartões-postais vendidos nas lojas dos museus, prática que multiplica a imagem sem alterar o estatuto do original exposto na sala"
+      },
+      "explicacao": "O NFT é a resposta mais literal já dada ao problema de Benjamin: diante do arquivo infinitamente copiável, inventa-se um certificado que declara um exemplar único. A venda de pôsteres e cartões-postais é reprodutibilidade em estado puro e por isso descreve o problema, não a tentativa de recriar a aura, que é o que se pergunta. A digitalização de acervos para consulta remota está no mesmo caso. Dizer que uma obra disponível na internet perde automaticamente valor artístico confunde perda de aura com perda de valor, distinção que o próprio ensaio faz. E o conceito de aura é de Benjamin, não de Adorno, ainda que os dois tenham escrito sobre indústria cultural."
+    },
+    "artes-cultura-08": {
+      "alternativas": {
+        "e": "a presença da guitarra elétrica em arranjos de música popular brasileira, recurso que a Tropicália introduziu em meio a forte resistência e que hoje já não distingue um gênero de outro"
+      },
+      "explicacao": "A operação tropicalista é reelaborar o global a partir da raiz popular, e é o que refazem hoje o funk e o forró eletrônico produzidos com ferramentas internacionais. A guitarra elétrica é o distrator mais fino: foi a Tropicália que a introduziu, e justamente por isso hoje ela não marca mais nada, porque o traço sobreviveu à operação que lhe dava sentido. O Cinema Novo é contemporâneo e igualmente antropofágico, mas parte do popular sem incorporar a vanguarda pop, e foi a guitarra que separou os dois campos. Misturar dois instrumentos de origens diferentes não basta para caracterizar a operação. E reservar parte da grade de festivais a artistas locais é política de programação."
+    },
+    "artes-cultura-09": {
+      "alternativas": {
+        "e": "a incorporação de expressões e gírias regionais em letras de música popular de grande circulação, que levam a ouvintes de outras regiões modos de falar antes restritos ao lugar de origem"
+      },
+      "explicacao": "Rosa não transcreve o falar sertanejo como pitoresco: constrói com ele uma sintaxe literária, e nisso afirma que a variedade regional tem potência expressiva própria, que é a tese central do debate sobre preconceito linguístico. A incorporação de gírias regionais em letras de música difunde o léxico sem reconstruir a estrutura da língua, o que é diferença de grau e de projeto. Jorge Amado é a troca de autor mais plausível, porque também é do Nordeste e também trabalha a fala popular: ele a registra no diálogo, sem refazer a sintaxe do romance. Vocabulário raro não é oralidade. E sotaque na narração de audiolivro é escolha de interpretação, não projeto literário."
+    },
+    "artes-cultura-10": {
+      "alternativas": {
+        "e": "a gravação de repertório erudito brasileiro por orquestras estrangeiras, que levam a plateias de outros países peças construídas sobre temas colhidos no folclore nacional"
+      },
+      "explicacao": "Villa-Lobos escreveu contraponto bachiano sobre melodia de modinha, e o equivalente hoje é a sala de concerto abrindo o repertório ao samba, ao funk e à música indígena, o que reabre a discussão sobre o que conta como alta cultura. A gravação desse repertório por orquestras estrangeiras difunde uma fusão já feita, em vez de realizar uma nova. A orquestra jovem na periferia é o distrator mais nobre e mais fora do alvo, porque trata de inclusão de público e a questão pergunta pela fusão de linguagens. Mencionar o Brasil no título de uma peça não produz fusão alguma. E as Bachianas são de Villa-Lobos, não de Chico Buarque."
+    },
+    "artes-cultura-60": {
+      "alternativas": {
+        "c": "o reconhecimento do funk como gênero de exportação, cuja circulação em plataformas internacionais de streaming e em festivais estrangeiros comprovaria seu valor artístico independentemente do debate sobre estigmatização dentro do país"
+      },
+      "explicacao": "O argumento central dos defensores do funk carioca é que ele constitui manifestação cultural legítima das periferias, com identidades e formas de sociabilidade próprias, e que sua estigmatização responde a preconceito de classe e raça antes que a critério musical. O reconhecimento internacional é o distrator mais forte porque é um argumento efetivamente usado, e ainda assim desloca a defesa: transfere a legitimidade para o reconhecimento externo em vez de sustentá-la na própria condição periférica. Tratar o debate como próprio do samba do início do século XX troca de objeto, embora o paralelo histórico exista. Atribuir ao funk dos anos 1990 a antecipação dos debates sobre algoritmos de viralização é anacronismo. E regulamentar volume sonoro em áreas residenciais é questão administrativa."
+    },
+    "artes-cultura-95": {
+      "alternativas": {
+        "a": "reproduzem a lógica dos fã-clubes organizados pelas gravadoras nas décadas de 1960 e 1970, que reuniam admiradores em torno de material oficial distribuído pela própria indústria fonográfica"
+      },
+      "explicacao": "Os estudos culturais leem os fandoms como comunidades que produzem cultura por conta própria — fanarts, traduções, campanhas coordenadas — e constroem sociabilidade e identidade coletiva em torno de um produto globalizado. Compará-los aos fã-clubes montados pelas gravadoras é a aproximação mais tentadora e falha no ponto decisivo: ali a produção vinha da indústria para o fã, e o que caracteriza o fandom é a produção que parte dele. Explicar sua existência pela qualidade musical do produto ignora as dinâmicas de sociabilidade que a análise localiza. Restringir o fenômeno ao público brasileiro de rock nacional contraria sua escala internacional. E reduzir custo de divulgação para os estúdios é efeito colateral, não o que define a comunidade."
+    }
+  }
+}

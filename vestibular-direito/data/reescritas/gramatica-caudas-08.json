@@ -1,0 +1,71 @@
+{
+  "_comentario": [
+    "Lote 8 de gramatica: 43, 61, 71, 109, 115, 131. Oito distratores.",
+    "",
+    "Quatro destas (43, 61, 109, 115) reapareceram quando o padrao ganhou 'afirmacao",
+    "incorreta'. Sao vizinhas das que eu ja havia corrigido nas mesmas questoes -- o",
+    "mesmo padrao de erro que me levou a declarar artes e filosofia fechadas antes da",
+    "hora. Aqui pelo menos ele apareceu antes de eu anunciar gramatica pronta.",
+    "",
+    "Tres destas alternativas eram a mesma alternativa, escrita quatro vezes: 'nao e",
+    "possivel determinar a concordancia nesse tipo de estrutura, ja que os coletivos",
+    "admitiriam qualquer flexao conforme o gosto do redator' (61e e 109d), e a versao",
+    "com 'nunca'/'sempre' (71b, 115b, 131b). Sao alternativas que dizem que a questao",
+    "nao tem resposta -- e num teste de multipla escolha ninguem marca isso.",
+    "Substituidas por posicoes que alguem defende de verdade.",
+    "",
+    "Os substitutos:",
+    "  43   'casa' tratada como palavra que dispensa artigo por designar lugar",
+    "       familiar, que e a intuicao por tras de 'vou a casa'.",
+    "  61   a concordancia facultativa com coletivo, que EXISTE em parte dos casos --",
+    "       'a maioria decidiu' e 'a maioria decidiram' sao ambas registradas -- e nao",
+    "       neste, onde falta o partitivo plural.",
+    "  71   'pagar' e 'perdoar' com objeto direto de pessoa, que e o erro real:",
+    "       'perdoei ele' e 'paguei o funcionario' aparecem na fala.",
+    "  109  a concordancia com 'ovos' por serem eles o que se conta.",
+    "  115  'revisto' tratado como forma de 'revistar', que e a confusao entre dois",
+    "       verbos diferentes e explica por que a forma soa estranha a alguns.",
+    "  131  'compartilhar' como transitivo direto, que e a regencia MAIS comum desse",
+    "       verbo -- 'compartilhar algo' -- e conviva com a preposicionada."
+  ],
+  "subtopic": "gramatica",
+  "questoes": {
+    "gramatica-43": {
+      "alternativas": {
+        "b": "nenhuma das duas ocorrências deveria levar crase, porque 'casa' designa lugar familiar e dispensa o artigo mesmo quando vem acompanhada de complemento que a especifica, como ocorre com 'terra' e 'palácio'"
+      },
+      "explicacao": "Quando 'casa' aparece sem especificação, no sentido de lar próprio, não vem precedida de artigo, e por isso não há crase em 'foi a casa'. Quando é especificada por um complemento, como em 'a casa da avó', passa a ser regida por artigo e admite a crase, que o texto emprega corretamente. A comparação com 'terra' é o argumento mais forte contra isso, porque ali a regra é de fato semelhante — só que também em 'terra' a especificação restabelece o artigo, como em 'à terra dos avós'. Exigir crase nas duas ocorrências trata o gênero feminino como se bastasse para impor o artigo. E inverter as duas troca exatamente o critério: é a especificação que autoriza o artigo, e ela está na segunda ocorrência."
+    },
+    "gramatica-61": {
+      "alternativas": {
+        "e": "a concordância é facultativa nesse tipo de estrutura, podendo o verbo ir ao singular ou ao plural conforme se queira destacar o grupo ou os indivíduos que o compõem, como se admite em outros coletivos"
+      },
+      "explicacao": "'Equipe' é substantivo coletivo e núcleo do sujeito, e o verbo concorda com ele no singular. A alternativa da concordância facultativa é a mais forte do conjunto, porque essa facultatividade existe de fato em estruturas partitivas — 'a maioria decidiu' e 'a maioria decidiram' são ambas registradas — e aqui não há partitivo plural que a autorize, já que 'de plantão' não é substantivo no plural. Puxar a flexão para 'funcionários' é o erro que a estrutura induz: aquele termo está em outra oração e não compõe este sujeito. Flexionar o coletivo para 'as equipes' altera o texto sem necessidade. E exigir que o coletivo venha desacompanhado de adjunto para ficar no singular inventa uma condição que a norma não impõe."
+    },
+    "gramatica-71": {
+      "alternativas": {
+        "b": "ambos os verbos deveriam trazer a pessoa como objeto direto, ficando 'pagou o fornecedor' e 'perdoou o funcionário', porque é a pessoa que recebe diretamente a ação de pagar e de perdoar na oração"
+      },
+      "explicacao": "'Pagar' e 'perdoar' são bitransitivos: o que se paga ou se perdoa é objeto direto, e a quem se paga ou se perdoa é objeto indireto, regido pela preposição 'a'. Tomar a pessoa como objeto direto é o erro real e frequente da fala — 'paguei o fornecedor', 'perdoei ele' — e é exatamente o que a questão existe para pegar. Dizer que os dois não admitem dois complementos contraria a natureza bitransitiva deles. Atribuir-lhes a preposição 'de' transporta a regência de outro grupo de verbos. E afirmar que só um dos dois é bitransitivo separa verbos que se comportam do mesmo modo."
+    },
+    "gramatica-109": {
+      "alternativas": {
+        "d": "o verbo deveria ir ao plural, concordando com 'ovos', porque é esse o termo que nomeia o que está sendo contado e o coletivo apenas indica a quantidade em que esses elementos se agrupam"
+      },
+      "explicacao": "'Uma dúzia de ovos' tem como núcleo o coletivo 'uma dúzia', e o verbo concorda com ele no singular quando não se quer enfatizar os elementos individuais. Tomar 'ovos' como núcleo é a leitura intuitiva do partitivo, e é o que a questão testa: o que se conta são ovos, mas quem organiza o sujeito é a dúzia. Condicionar o plural à posposição da expressão ao verbo inventa um critério de ordem que a norma não usa aqui. E propor eliminar 'dúzia' resolveria a dúvida desfazendo o sentido quantitativo da frase."
+    },
+    "gramatica-115": {
+      "alternativas": {
+        "b": "apenas 'revisada' está correta; 'revisto' é particípio do verbo 'revistar', e não de 'rever', e por isso o seu emprego nessa frase troca um verbo por outro de sentido bem diferente, o de examinar alguém ou alguma coisa em busca de objeto escondido"
+      },
+      "explicacao": "'Rever' admite o particípio regular 'revisado' e o irregular 'revisto', e a frase emprega os dois corretamente, com a forma irregular mais usual ao lado de 'ser' e 'estar'. Atribuir 'revisto' ao verbo 'revistar' é a confusão que explica por que a forma soa estranha a alguns — só que o particípio de 'revistar' é 'revistado', e 'revisto' pertence mesmo a 'rever'. Exigir 'revista' no lugar de 'revisada' é forte pelo motivo oposto, porque 'revista' também é forma irregular do verbo. Inventar 'revido' aplica uma terminação que ele não tem. E condicionar a aceitação das duas formas à voz passiva sugere restrição que não se aplica."
+    },
+    "gramatica-131": {
+      "alternativas": {
+        "b": "ambas estão incorretas, pois 'gostar' pede complemento sem preposição quando o que se aprecia vem determinado por pronome demonstrativo, construção que dispensa o 'de' nesse tipo de estrutura",
+        "c": "apenas a primeira ocorrência está correta; a segunda deveria ser 'compartilham o mesmo gosto', sem preposição, porque 'compartilhar' pede objeto direto quando o que se divide é coisa e não sentimento"
+      },
+      "explicacao": "'Gostar' é transitivo indireto e exige a preposição 'de', o que a frase respeita em 'gosto desse tipo'; e 'compartilhar' admite tanto o objeto direto quanto o complemento com 'de', o que valida 'compartilham do mesmo gosto'. A alternativa que corrige a segunda ocorrência para 'compartilham o mesmo gosto' é a mais forte, porque essa é a regência mais comum do verbo — o erro está em tratá-la como a única. Dizer que 'gostar' dispensa a preposição diante de demonstrativo inventa uma condição que a norma não prevê. E afirmar que ele nunca é preposicionado contraria a regência consolidada."
+    }
+  }
+}

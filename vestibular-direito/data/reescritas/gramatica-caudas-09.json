@@ -1,0 +1,69 @@
+{
+  "_comentario": [
+    "Lote 9 -- ULTIMO de gramatica. 136, 142, 143, 144, 149. Onze distratores.",
+    "",
+    "Bloco de 'a gente', parenteses, 'precisar', 'por que / o porque' e 'e preciso'.",
+    "",
+    "A 142 tinha o caso mais improdutivo da frente: TRES das cinco alternativas (a, c,",
+    "e) eram a mesma coisa -- 'parenteses so podem ser usados para X, nunca para",
+    "comentario' -- variando apenas o X (notas de rodape, datas e valores, comentarios",
+    "finais). Alem de cada uma se autodenunciar, as tres competiam entre si pelo mesmo",
+    "erro, o que reduzia a questao a escolher entre a certa e uma alternativa que",
+    "propunha aspas. Reescrevi as tres para tratar de coisas diferentes: colchetes em",
+    "transcricao, travessao intercalador e a duvida sobre ponto dentro ou fora do",
+    "parentese.",
+    "",
+    "Os substitutos:",
+    "  136 'a gente' com verbo no plural por equivaler a 'nos', que e o erro mais",
+    "      frequente da lingua falada e o que a questao existe para pegar. Ja havia",
+    "      uma alternativa nessa linha (d); a nova (e) ataca por outro angulo, o do",
+    "      registro, que e a duvida real de quem escreve.",
+    "  143 'precisar' com o mesmo sentido nas duas ocorrencias, mas por leitura",
+    "      plausivel: quem le rapido entende 'nao conseguimos precisar' como",
+    "      'nao conseguimos ter certeza', que ainda soa como necessidade.",
+    "  144 'o porque' escrito 'o por que' por analogia com a primeira ocorrencia,",
+    "      que e o erro real de quem viu que as duas formas convivem na frase.",
+    "  149 'e preciso' flexionado por atracao com 'disciplina', o feminino mais",
+    "      proximo -- mesmo mecanismo do erro que a alternativa (e) ja explorava com",
+    "      'vaga', agora sem a cauda."
+  ],
+  "subtopic": "gramatica",
+  "questoes": {
+    "gramatica-136": {
+      "alternativas": {
+        "e": "está incorreta na escrita formal, em que 'a gente' deve ser substituído por 'nós' com o verbo na primeira pessoa do plural, restando a construção da frase apenas para o registro falado"
+      },
+      "explicacao": "'A gente' equivale a 'nós' no sentido, e gramaticalmente é substantivo coletivo: por isso pede o verbo na terceira pessoa do singular, como em 'chega' e 'prefere'. A recomendação de substituir a expressão por 'nós' na escrita formal é conselho de estilo corrente e não torna a concordância incorreta — a questão pergunta pela concordância, não pela preferência de registro. Levar o verbo à primeira pessoa do plural mantendo 'a gente' é o erro mais frequente da língua falada, e é o que a questão existe para pegar. Dizer que a construção só cabe em registro oral confunde adequação com correção. E tratá-la como erro grave em qualquer texto escrito ignora sua aceitação em registros cuidados."
+    },
+    "gramatica-142": {
+      "alternativas": {
+        "a": "deveriam ser substituídos por colchetes, porque em transcrição de fala a norma editorial reserva os colchetes às intervenções de quem transcreve, distinguindo-as do que foi efetivamente dito pelo falante",
+        "c": "estão incorretos porque o esclarecimento deveria vir isolado por um par de travessões, sinal que a norma prefere quando o comentário intercalado traz informação de natureza técnica sobre o próprio texto",
+        "e": "estão incorretos quanto à posição do ponto final, que deveria vir dentro do parêntese por integrar o comentário nele contido, e não depois do fechamento como aparece no período transcrito"
+      },
+      "explicacao": "Os parênteses inserem um comentário do autor — 'transcrito conforme gravação oficial' — sem interromper a estrutura sintática da frase, e é isso que a passagem faz. A recomendação dos colchetes é o distrator mais forte, porque existe de fato em norma editorial de transcrição, para marcar a intervenção de quem transcreve: aqui, porém, o comentário é do próprio texto que apresenta a ata, e não uma interpolação na fala. O par de travessões seria alternativa possível, e a escolha entre ele e os parênteses é de ênfase, não de correção. A dúvida sobre o ponto dentro ou fora do parêntese é real e se resolve pelo alcance do comentário, que aqui é interno à frase. E substituí-los por aspas trocaria comentário por citação."
+    },
+    "gramatica-143": {
+      "alternativas": {
+        "d": "em ambas as ocorrências o verbo mantém o sentido de necessidade e por isso pede a preposição 'de', ainda que na segunda a ideia de exatidão pareça mais evidente para quem lê a frase rapidamente",
+        "e": "na segunda ocorrência o verbo está incorreto e deveria ser 'precisar de quantas pessoas', porque a interrogativa indireta que o segue funciona como complemento e complementos desse tipo pedem preposição"
+      },
+      "explicacao": "Na primeira ocorrência 'precisar' significa necessitar e é transitivo indireto, regido por 'de'; na segunda significa determinar com exatidão e é transitivo direto, sem preposição. Ler as duas como necessidade é o desvio mais compreensível, porque 'não conseguimos precisar' soa próximo de 'não temos certeza', que ainda tem sabor de carência — e é a mudança de sentido que arrasta a regência. Exigir preposição diante da interrogativa indireta trata a oração como complemento preposicionado, quando ela é objeto direto. Retirar a preposição da primeira aplica ao sentido de necessitar a regência do outro. E dizer que as duas são indiretas variando só o grau de formalidade apaga a diferença semântica."
+    },
+    "gramatica-144": {
+      "alternativas": {
+        "b": "'o porquê' está incorreto e deveria ser escrito separado, como 'o por que', para manter a mesma grafia da primeira ocorrência da frase e evitar que o leitor veja duas formas diferentes no mesmo período",
+        "c": "ambos deveriam ser escritos juntos, como 'porque', uma vez que os dois introduzem a razão de um fato já mencionado e cumprem no período a mesma função de explicar o que veio antes",
+        "e": "'por que' está incorreto e deveria ser escrito junto, como 'porque', porque a oração que ele introduz explica o motivo da remarcação e não formula pergunta direta ao leitor ao longo do período"
+      },
+      "explicacao": "'Por que', separado, aparece na pergunta indireta e equivale a 'por qual razão'; 'o porquê', junto e com acento, é substantivo precedido de artigo e equivale a 'o motivo'. Uniformizar a grafia das duas ocorrências é o erro real de quem nota que as formas convivem na frase e supõe inconsistência — a diferença de grafia é justamente o que registra a diferença de função. Escrever 'porque' junto na primeira confunde a interrogativa indireta com a conjunção explicativa. Tratar as duas como explicação ignora que a primeira introduz pergunta. E dizer que 'porquê' seria paroxítona sem acento erra a classe da palavra, que é substantivo e leva acento."
+    },
+    "gramatica-149": {
+      "alternativas": {
+        "d": "deveria concordar com 'disciplina', ficando 'é precisa', uma vez que esse é o substantivo feminino mais próximo da expressão e é ele que fecha o sentido do que a frase considera necessário",
+        "e": "deveria ser reescrita como 'faz-se preciso', forma que a norma prefere em construções impessoais desse tipo por explicitar a impessoalidade que a expressão apenas subentende no período"
+      },
+      "explicacao": "'É preciso' é expressão impessoal e permanece invariável na terceira pessoa do singular, seja o que vier depois. Flexioná-la por atração com o substantivo feminino mais próximo é o erro que a construção induz, e é o mesmo mecanismo, com outro alvo, do que aparece na alternativa que puxa a concordância para 'vaga'. Propor 'faz-se preciso' troca uma construção impessoal por outra sem que a primeira esteja errada. Exigir que a expressão venha seguida de substantivo, e não de infinitivo, inventa uma restrição inexistente. E admitir flexão quando o termo seguinte tem artigo definido introduz uma condição que a norma não prevê."
+    }
+  }
+}

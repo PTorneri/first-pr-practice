@@ -17979,14 +17979,14 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "\"Vossa Senhoria já pode retirar o documento solicitado, pois todas as pendências relativas ao seu processo foram regularizadas nesta data.\"",
                           "enunciado":  "Sobre a concordância verbal com o pronome de tratamento \u0027Vossa Senhoria\u0027, é correto afirmar que",
                           "alternativas":  {
-                                               "a":  "está correta apenas em documentos jurídicos, sendo incomum em outros contextos formais, já que fora desse âmbito a concordância seria sempre na segunda pessoa, restrição que não corresponde ao uso geral desses pronomes de tratamento.",
-                                               "b":  "está incorreta porque pronomes de tratamento não podem ser sujeitos de oração, funcionando apenas como vocativos isolados do restante da frase, afirmação que ignora seu emprego corrente como sujeito em orações formais.",
+                                               "a":  "está incorreta; deveria concordar na segunda pessoa do plural, ficando \u0027já podeis retirar\u0027, porque \u0027Vossa Senhoria\u0027 se dirige ao interlocutor e traz o possessivo \u0027Vossa\u0027, que é da segunda pessoa",
+                                               "b":  "está incorreta porque pronomes de tratamento pedem concordância com a pessoa a quem se fala, e não com a forma do pronome, de modo que o verbo deveria acompanhar o interlocutor referido",
                                                "c":  "está correta; pronomes de tratamento, embora se refiram ao interlocutor (segunda pessoa do discurso), exigem concordância verbal na terceira pessoa, como ocorre em \u0027pode retirar\u0027.",
                                                "d":  "está incorreta; deveria concordar na segunda pessoa do singular, ficando \u0027já podes retirar\u0027, já que \u0027Vossa Senhoria\u0027 equivaleria gramaticalmente a \u0027tu\u0027.",
                                                "e":  "está correta, mas apenas em correspondência oficial; em outros registros, exige-se a segunda pessoa."
                                            },
                           "resposta":  "c",
-                          "explicacao":  "Pronomes de tratamento como \u0027Vossa Senhoria\u0027, \u0027Vossa Excelência\u0027 e \u0027Você\u0027 referem-se ao interlocutor, mas exigem concordância verbal na terceira pessoa gramatical, regra corretamente seguida em \u0027Vossa Senhoria... pode retirar\u0027.",
+                          "explicacao":  "Pronomes de tratamento referem-se ao interlocutor, que é a segunda pessoa do discurso, e ainda assim exigem concordância verbal na terceira pessoa: \u0027Vossa Senhoria já pode retirar\u0027. A pista do possessivo \u0027Vossa\u0027 é o que induz ao erro, e é justamente ela que a questão explora — a forma é de segunda pessoa, a concordância não. Exigir a segunda pessoa do plural ou do singular repete esse equívoco por dois caminhos. Dizer que a concordância acompanha a pessoa a quem se fala descreve a lógica esperada, que a norma não segue aqui. E restringir a construção a documentos jurídicos ou a correspondência oficial transforma regra de concordância em questão de registro.",
                           "dificuldade":  "media",
                           "formato":  "direta"
                       },
@@ -17995,14 +17995,14 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "\"A loja fica a uma quadra e meia da estação, mas prefiro ir andando até à parada de ônibus mais próxima, que fica a apenas duzentos metros daqui.\"",
                           "enunciado":  "Sobre o uso da crase em \u0027até à parada\u0027 na frase, é correto afirmar que",
                           "alternativas":  {
-                                               "a":  "está incorreta, pois a preposição \u0027até\u0027 nunca pode ser seguida da preposição \u0027a\u0027 fundida a artigo, mesmo quando o sentido de destino permanece o mesmo, generalização que contraria a construção facultativa aceita pela norma culta.",
-                                               "b":  "está correta apenas se \u0027até\u0027 for substituída por \u0027para\u0027, preposição que dispensaria totalmente a fusão com o artigo feminino seguinte, condição desnecessária, pois a crase ocorre independentemente da preposição \u0027até\u0027.",
-                                               "c":  "está incorreta porque \u0027até\u0027 e \u0027a\u0027 são preposições incompatíveis entre si em qualquer construção, não podendo aparecer combinadas na mesma expressão, afirmação que ignora a crase facultativa consagrada nessa construção de reforço.",
+                                               "a":  "está incorreta, pois a presença de \u0027até\u0027 já marca o destino e torna dispensável a segunda preposição, de modo que a forma adequada seria \u0027até a parada\u0027, sem o acento indicativo de crase",
+                                               "b":  "está correta apenas porque \u0027parada\u0027 inicia por consoante; diante de palavra iniciada por vogal, a sequência de duas preposições produziria encontro que a norma evita nessa construção",
+                                               "c":  "está incorreta porque \u0027até\u0027 e \u0027a\u0027 cumprem a mesma função de indicar destino, e a norma não admite acumular dois termos de idêntico valor no mesmo complemento verbal do período",
                                                "d":  "está correta, mas apenas porque \u0027parada\u0027 é substantivo feminino determinado; com substantivo masculino, \u0027até\u0027 dispensaria o artigo.",
                                                "e":  "está correta, pois, mesmo com a presença da preposição \u0027até\u0027, ainda ocorre a fusão da preposição \u0027a\u0027, exigida pelo sentido de destino, com o artigo feminino que antecede \u0027parada\u0027."
                                            },
                           "resposta":  "e",
-                          "explicacao":  "A preposição \u0027até\u0027 pode ser seguida da preposição \u0027a\u0027 fundida ao artigo feminino determinado, formando a crase facultativa \u0027até à\u0027, construção aceita pela norma culta como reforço de destino, ao lado da forma mais simples \u0027até a parada\u0027.",
+                          "explicacao":  "Mesmo depois de \u0027até\u0027, a preposição \u0027a\u0027 exigida pelo sentido de destino permanece e se funde com o artigo feminino, o que produz \u0027até à parada\u0027. A construção é consagrada e a crase é facultativa: escreve-se tanto \u0027até a parada\u0027 quanto \u0027até à parada\u0027. Dizer que \u0027até\u0027 já marca o destino e dispensa a segunda preposição é a leitura mais lógica e não é a que a norma segue. Afirmar que as duas preposições têm valor idêntico e não podem se acumular parte da mesma premissa. Fazer a crase depender da letra inicial da palavra seguinte inventa um critério fonético inexistente. E condicioná-la ao gênero do substantivo chega perto, porque a crase depende do artigo feminino — mas a questão é a compatibilidade com \u0027até\u0027.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
                       },
@@ -18043,14 +18043,14 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "\"O relatório apresenta gráfico e tabela detalhada sobre a evolução das vendas no último semestre da empresa.\"",
                           "enunciado":  "Sobre a concordância nominal de \u0027detalhada\u0027 na frase, considerando que o adjetivo vem posposto a dois substantivos de gêneros diferentes (\u0027gráfico\u0027 e \u0027tabela\u0027), é correto afirmar que",
                           "alternativas":  {
-                                               "a":  "está plenamente correta e é a única forma aceita pela norma culta nesse contexto, não havendo qualquer alternativa de concordância no masculino plural, afirmação que ignora a divergência entre gramáticos quanto à concordância mais recomendada.",
+                                               "a":  "está plenamente correta, uma vez que a concordância do adjetivo posposto com o substantivo mais próximo é aceita pela norma ao lado da concordância no masculino plural, ficando a escolha por conta de quem redige",
                                                "b":  "está correta porque adjetivos sempre concordam apenas com o substantivo mais próximo, sem exceção, mesmo quando se referem a substantivos de gêneros diferentes, regra que só valeria quando ambos tivessem o mesmo gênero gramatical.",
                                                "c":  "está incorreta segundo a regra mais tradicional, que recomenda a concordância no masculino plural quando o adjetivo se refere a substantivos de gêneros diferentes; a forma mais recomendada seria \u0027detalhados\u0027.",
                                                "d":  "está correta, mas apenas porque o substantivo masculino aparece antes do feminino; invertida a ordem, o adjetivo iria ao feminino.",
-                                               "e":  "está incorreta porque o adjetivo deveria vir antes dos dois substantivos, e não depois, posição que dispensaria totalmente a regra de concordância nominal, já que a ordem não interfere na regra de concordância de gênero envolvida."
+                                               "e":  "está incorreta porque o adjetivo deveria vir anteposto aos dois substantivos, lugar em que a concordância com o termo mais próximo é a recomendada e resolveria a divergência de gênero entre eles"
                                            },
                           "resposta":  "c",
-                          "explicacao":  "Embora a concordância com o substantivo mais próximo (\u0027tabela detalhada\u0027) seja aceita por parte dos gramáticos em certos contextos, a regra mais tradicional e recomendada para adjetivo posposto a substantivos de gêneros diferentes é o masculino plural: \u0027gráfico e tabela detalhados\u0027.",
+                          "explicacao":  "Quando o adjetivo posposto se refere a substantivos de gêneros diferentes, a regra mais tradicional recomenda o masculino plural, e por isso a forma indicada seria \u0027detalhados\u0027. A alternativa que trata a concordância com o mais próximo como igualmente aceita é a mais forte do conjunto, porque parte dos gramáticos de fato a admite — o que a questão pede, no entanto, é a recomendação tradicional. Dizer que o adjetivo deveria vir anteposto muda a construção em vez de analisá-la, ainda que seja verdade que na anteposição a concordância com o mais próximo é a usual. Afirmar que adjetivos concordam sempre com o mais próximo generaliza a regra da anteposição. E fazer a escolha depender da ordem dos substantivos descreve um critério que não decide o caso.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
                       },
@@ -18075,14 +18075,14 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "\"Apenas 1% dos entrevistados afirmou desconhecer totalmente o programa, enquanto 45% dos participantes disseram já ter utilizado o benefício ao menos uma vez.\"",
                           "enunciado":  "Sobre a concordância verbal com os sujeitos percentuais \u00271%\u0027 e \u002745% dos participantes\u0027, é correto afirmar que",
                           "alternativas":  {
-                                               "a":  "a concordância com percentuais é sempre facultativa, podendo ser livremente escolhida pelo autor do texto, sem qualquer critério gramatical objetivo a seguir nesse tipo de estrutura, afirmação incorreta diante do critério normativo bem definido existente.",
-                                               "b":  "ambos deveriam concordar no plural, independentemente do valor numérico do percentual, já que qualquer expressão percentual indicaria pluralidade, mesmo quando o número indicado for unitário, generalização que contraria a regra básica de concordância numérica.",
+                                               "a":  "a concordância com percentuais fica a critério de quem redige, uma vez que a expressão percentual não impõe número ao verbo e as duas flexões aparecem registradas em textos de circulação ampla, cabendo a escolha ao estilo do autor e ao efeito que ele pretende produzir",
+                                               "b":  "ambos deveriam concordar com o termo preposicionado que especifica o percentual, ficando \u0027afirmaram\u0027 e \u0027disseram\u0027, porque são \u0027entrevistados\u0027 e \u0027participantes\u0027 que indicam quem de fato realiza a ação enunciada pelo verbo",
                                                "c":  "com percentuais, o verbo concorda sempre com o termo preposicionado que os especifica, e nunca com o numeral.",
-                                               "d":  "ambos deveriam concordar no singular, independentemente do valor numérico do percentual, tratando a expressão percentual como núcleo invariável do sujeito em qualquer caso (leitura equivocada do numeral percentual), ignorando o valor de 45%.",
+                                               "d":  "ambos deveriam ficar no singular, uma vez que a expressão percentual funciona como núcleo invariável do sujeito e o verbo concorda com ela, e não com o substantivo que aparece depois da preposição",
                                                "e":  "\u00271% dos entrevistados afirmou\u0027 está correta no singular, concordando com o numeral \u00271\u0027; \u002745% dos participantes disseram\u0027 está correta no plural, concordando com o numeral \u002745\u0027, seguindo a regra de que o verbo concorda com o número indicado pelo percentual."
                                            },
                           "resposta":  "e",
-                          "explicacao":  "A concordância verbal com sujeitos formados por percentual segue o número indicado: percentuais no singular (\u00271%\u0027) concordam no singular, e percentuais maiores que um (\u002745%\u0027) concordam no plural, regra corretamente aplicada nas duas ocorrências da frase.",
+                          "explicacao":  "Com sujeito percentual, o verbo concorda com o numeral: \u00271% dos entrevistados afirmou\u0027, no singular, e \u002745% dos participantes disseram\u0027, no plural. A concordância com o termo preposicionado é o distrator mais forte, porque essa é de fato a regra quando o numeral é omitido ou quando se quer enfatizar o conjunto especificado — aqui, com o percentual expresso, quem manda é o número. Pôr os dois no singular trata a expressão percentual como invariável e ignora o valor de 45%. Dizer que a concordância é facultativa e sem critério apaga a regra que a questão testa. E afirmar que o verbo nunca concorda com o numeral inverte exatamente o critério.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
                       },
@@ -18156,13 +18156,13 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Sobre a concordância verbal em \u0027somos nós que decidimos\u0027, é correto afirmar que",
                           "alternativas":  {
                                                "a":  "está correta, mas apenas porque o pronome pessoal vem expresso; omitido o \u0027nós\u0027, o verbo iria à terceira pessoa.",
-                                               "b":  "está correta apenas porque a frase está na ordem inversa em relação ao padrão habitual, condição que determinaria a concordância do verbo relativo, afirmação que ignora a regra de concordância pelo antecedente pessoal.",
-                                               "c":  "está incorreta porque o verbo \u0027somos\u0027 deveria estar no singular, concordando com \u0027nós\u0027 entendido como sujeito único e indivisível na oração, leitura que ignora a natureza plural desse pronome pessoal, regra inaplicável nesse caso.",
+                                               "b":  "está correta apenas porque o pronome \u0027nós\u0027 aparece imediatamente antes do relativo, condição de vizinhança que permite ao verbo da oração relativa acompanhar a pessoa desse pronome no período",
+                                               "c":  "está incorreta porque o verbo da oração relativa deveria ir para a terceira pessoa, concordando com o pronome \u0027que\u0027, que é o sujeito da oração que ele introduz no interior do período",
                                                "d":  "está correta; quando o pronome relativo \u0027que\u0027 tem como antecedente um pronome pessoal (\u0027nós\u0027), o verbo da oração relativa concorda com esse pronome, e não na terceira pessoa.",
                                                "e":  "está incorreta; o verbo da oração relativa deveria ficar na terceira pessoa do plural, concordando com \u0027que\u0027: \u0027somos nós que decidiram\u0027."
                                            },
                           "resposta":  "d",
-                          "explicacao":  "Quando o pronome relativo \u0027que\u0027 retoma um pronome pessoal como antecedente (\u0027nós\u0027), o verbo da oração relativa deve concordar com esse pronome, e não ficar automaticamente na terceira pessoa: \u0027somos nós que decidimos\u0027 (primeira pessoa do plural), regra corretamente seguida na frase.",
+                          "explicacao":  "Quando o antecedente do relativo \u0027que\u0027 é um pronome pessoal, o verbo da oração relativa concorda com esse pronome: \u0027somos nós que decidimos\u0027. Fazer o verbo ir à terceira pessoa por concordar com \u0027que\u0027 é o erro que a forma do relativo sugere, e é o que a questão existe para pegar — \u0027que\u0027 não tem pessoa própria, ele a herda do antecedente. Explicar a concordância pela vizinhança entre pronome e relativo acerta o resultado por um critério de posição que não é o da regra. Exigir o singular em \u0027somos\u0027 desconhece o plural de \u0027nós\u0027. E dizer que a concordância mudaria se o pronome fosse omitido descreve outra construção, não esta.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
                       },
@@ -18184,19 +18184,20 @@ window.QUESTION_BANKS = {
                       },
                       {
                           "id":  "gramatica-130",
-                          "texto_apoio":  "\"Chegamos ao aeroporto com duas horas de antecedência, primeiro; e conseguimos, felizmente, embarcar no voo anterior ao que estava originalmente reservado.\"",
-                          "enunciado":  "Sobre o registro da data em documentos formais, do tipo \\\"São Paulo, 10 de março de 2026.\\\", é correto afirmar que",
+                          "texto_apoio":  "\"São Paulo, 10 de março de 2026.\" — linha de abertura de um ofício encaminhado pela diretoria de uma empresa a um de seus fornecedores.",
+                          "enunciado":  "Sobre a pontuação empregada no registro da data nesse cabeçalho, é correto afirmar que",
                           "alternativas":  {
                                                "a":  "a vírgula está incorreta e deveria ser substituída por dois-pontos nesse tipo de registro, marca de pontuação mais adequada para introduzir a data completa.",
                                                "b":  "a vírgula após o nome da cidade está corretamente empregada, separando o local da indicação da data em um formato consagrado por convenção para cartas e documentos.",
                                                "c":  "a vírgula está correta, mas deveria ser seguida de dois-pontos antes do dia, conforme o padrão de correspondência oficial.",
-                                               "d":  "a vírgula deveria vir após o ano, e não após o nome da cidade, isolando a data completa do restante do cabeçalho do documento, inversão que contraria o formato consagrado para esse tipo de registro.",
-                                               "e":  "não deveria haver pontuação alguma entre o nome da cidade e a data, já que essa convenção seria dispensável em documentos formais atuais, afirmação que contraria a tradição consagrada da escrita formal."
+                                               "d":  "a vírgula deveria vir depois do ano, e não depois do nome da cidade, de modo a isolar a data completa do restante do cabeçalho e destacá-la como bloco de informação independente",
+                                               "e":  "não deveria haver pontuação entre o nome da cidade e a data, uma vez que os dois formam um único conjunto de identificação do documento e a vírgula interromperia essa unidade sem necessidade"
                                            },
                           "resposta":  "b",
-                          "explicacao":  "Na datação convencional de cartas e documentos formais, emprega-se a vírgula logo após o nome do local, separando-o da indicação da data, formato consagrado pela tradição da escrita formal em português.",
+                          "explicacao":  "A vírgula depois do nome da cidade separa o local da data e é o formato consagrado por convenção em cartas e documentos: \u0027São Paulo, 10 de março de 2026.\u0027. Deslocá-la para depois do ano inverte o que ela separa, porque o que se destaca é o local em relação à data, e não a data em relação ao resto. Suprimir a pontuação trata local e data como um bloco único, contra a convenção. Substituir a vírgula por dois-pontos usaria um sinal de anúncio onde há apenas separação. E acrescentar dois-pontos antes do dia soma um sinal que o formato não prevê.",
                           "dificuldade":  "media",
-                          "formato":  "direta"
+                          "formato":  "direta",
+                          "banca":  "fgv"
                       },
                       {
                           "id":  "gramatica-131",

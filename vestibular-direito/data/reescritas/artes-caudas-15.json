@@ -1,0 +1,79 @@
+{
+  "_comentario": [
+    "Lote 15 de artes-cultura: 83 a 88, dezesseis distratores.",
+    "",
+    "Bloco Neoconcretismo / cidades mineiras / Art Déco / hierarquia cultural /",
+    "samba-enredo / origem do samba. Em 84(c) o molde produziu outra contradição",
+    "interna: dizia que a adaptação orgânica ao relevo, sem planejamento, seria traço",
+    "'do plano piloto de Brasília, e não das cidades históricas mineiras, de lógica",
+    "orgânica e traçado oposto'. A alternativa nega no fim o que afirma no começo, e",
+    "de passagem chama de oposta a lógica que ela mesma acabou de chamar de orgânica.",
+    "",
+    "Em 86 a distração era de outro tipo: os distratores falavam de streaming, de",
+    "preço de ingresso e de instrumentos eletrônicos, quando a questão é sobre",
+    "hierarquia cultural. Agora eles disputam de verdade -- o critério técnico de",
+    "complexidade e a formação exigida do intérprete são os dois argumentos que quem",
+    "defende a hierarquia realmente usa.",
+    "",
+    "Os substitutos:",
+    "",
+    "  83  a instalação que o público atravessa sem tocar, que tem o corpo em cena e",
+    "      não a manipulação da obra.",
+    "  84  o tombamento que congela o casario e proíbe reforma interna, que é problema",
+    "      real de Ouro Preto e trata do imóvel isolado, não do núcleo que cresceu",
+    "      sem plano.",
+    "  87  o enredo patrocinado por estado ou empresa, que é tema de história e de",
+    "      dinheiro e não a denúncia social que a questão pede.",
+    "  88  o reconhecimento do samba como patrimônio imaterial, que é consagração",
+    "      oficial e não a permanência do racismo estrutural apesar dela."
+  ],
+  "subtopic": "artes-cultura",
+  "questoes": {
+    "artes-cultura-83": {
+      "alternativas": {
+        "a": "a difusão de instalações que o público atravessa a pé, percorrendo ambientes construídos com luz e som que envolvem o corpo de quem entra sem que haja convite a tocar ou manipular a obra",
+        "b": "a valorização de obras que exigem do espectador tempo de permanência prolongado, condição que altera o modo de olhar e distingue essa fruição da passagem rápida diante de um quadro pendurado na parede da sala",
+        "c": "a presença de cor intensa e de materiais têxteis em exposições contemporâneas, repertório de matéria e de paleta que remete diretamente aos Parangolés e ao vocabulário visual do Neoconcretismo"
+      },
+      "explicacao": "Lygia Clark e Oiticica pedem do espectador um gesto: vestir, manipular, mover a obra com o próprio corpo — e é isso que se reencontra em exposições que convidam explicitamente a tocar e manusear, questionando a distância entre quem olha e o que é olhado. A instalação que se atravessa a pé é o distrator decisivo: envolve o corpo e não pede manipulação, e é a manipulação que define a proposta. A exigência de tempo de permanência altera o modo de olhar sem tirar o espectador da posição de quem observa. Cor intensa e material têxtil são o vocabulário visual, não o convite à participação. Dizer que uma peça de tecido colorido já basta para a relação fica na matéria. E a participação corporal é do Neoconcretismo carioca, enquanto o Concretismo paulista era mais racionalista e afastado do corpo."
+    },
+    "artes-cultura-84": {
+      "alternativas": {
+        "a": "o debate sobre o tombamento que congela o casario e restringe a reforma interna dos imóveis, obrigando moradores a conviver com instalações elétricas e hidráulicas antigas e a pedir autorização ao órgão de patrimônio para alterações que em outros bairros se fazem livremente",
+        "c": "o debate sobre a implantação de sistemas de transporte em cidades cujas ruas estreitas e íngremes não admitem alargamento, o que limita a circulação de ônibus e de veículos de carga no perímetro histórico",
+        "e": "o debate sobre a concentração das igrejas barrocas nos pontos altos do relevo, o que as tornou marco visual da paisagem e hoje organiza o percurso que os visitantes fazem pela cidade"
+      },
+      "explicacao": "As cidades do ciclo do ouro cresceram sem plano, ajustando ruas e casas ao relevo, e o problema contemporâneo é preservar o valor histórico desse conjunto sob a pressão de infraestrutura e acessibilidade que o uso turístico e residencial exige. O tombamento que congela o casario e restringe reformas internas é problema real dessas cidades e recai sobre o imóvel isolado, não sobre o núcleo urbano que cresceu organicamente. A dificuldade de implantar transporte em ruas estreitas é o distrator mais próximo, porque decorre do mesmo traçado e trata de circulação em vez de preservação. A posição das igrejas no relevo é dado da paisagem. Dizer que a existência de uma igreja já basta para a relação ignora a adaptação ao terreno. E o traçado orgânico é das cidades mineiras, e Brasília é o caso oposto, de plano prévio."
+    },
+    "artes-cultura-85": {
+      "alternativas": {
+        "c": "o debate sobre a conservação dos edifícios Art Déco construídos no Brasil entre as décadas de 1920 e 1940, muitos deles hoje descaracterizados por reformas ou ameaçados de demolição em áreas valorizadas",
+        "d": "o debate sobre a retomada de elementos geométricos e angulosos do Art Déco por projetos contemporâneos, que citam o repertório visual do período em fachadas e em projetos de interiores como referência de um estilo já consagrado pelo tempo",
+        "e": "o debate sobre a difusão do Art Déco por cidades brasileiras fora do eixo Rio–São Paulo, onde cinemas, mercados e prefeituras adotaram o estilo como marca de modernização das capitais do interior"
+      },
+      "explicacao": "O Art Déco associa geometria e angulosidade ao otimismo industrial dos anos 1920, e a questão é essa: estilos arquitetônicos comunicam os valores de uma época, como hoje certas linguagens buscam expressar sustentabilidade ou inovação. A conservação dos edifícios Art Déco brasileiros e sua difusão pelo interior são questões de patrimônio e de história da difusão do estilo. A retomada contemporânea de seus elementos geométricos é o distrator mais fino, porque também liga o estilo ao presente e o faz como citação de repertório, não como comunicação de valores. Dizer que linhas retas numa fachada já bastam para a relação ignora a associação com a modernidade industrial. E essa associação é do Art Déco, enquanto o Art Nouveau se voltava às linhas orgânicas da natureza."
+    },
+    "artes-cultura-86": {
+      "alternativas": {
+        "a": "a complexidade técnica de uma composição é o critério que permite ordenar objetivamente as manifestações culturais, sendo a densidade harmônica e a estrutura formal medidas independentes de julgamento social",
+        "b": "a formação exigida do intérprete distingue de modo objetivo o erudito do popular, uma vez que anos de estudo formal em conservatório não se comparam ao aprendizado transmitido informalmente entre músicos"
+      },
+      "explicacao": "Os estudos culturais sustentam que a fronteira entre alta cultura e cultura popular expressa hierarquia social e disputa por legitimidade, e não critério estético objetivo e universal. O argumento da complexidade técnica e o da formação exigida do intérprete são os dois que quem defende a hierarquia realmente usa, e por isso disputam de verdade: ambos apresentam como medida objetiva algo que a análise mostra ser socialmente construído, já que quem define o que conta como complexidade também ocupa uma posição. A diferença de preço entre ingressos é dado de mercado. E a problematização dessa hierarquia vem dos estudos culturais, não de Adorno, que sustentava a superioridade da música erudita sobre a cultura de massa."
+    },
+    "artes-cultura-87": {
+      "alternativas": {
+        "a": "o debate sobre enredos patrocinados por governos estaduais e por empresas, que financiam desfiles dedicados a homenagear a história de um território ou a trajetória de uma marca em troca da visibilidade que o evento oferece na televisão",
+        "c": "o debate sobre a profissionalização dos carnavalescos e a industrialização dos barracões, que transformou a produção do desfile em operação com cronograma, orçamento e equipes técnicas contratadas",
+        "d": "o debate sobre os critérios de julgamento do desfile, que distribuem notas entre quesitos como fantasia, harmonia e bateria e definem qual escola vence a disputa do grupo especial de cada ano"
+      },
+      "explicacao": "O desfile articula música, dança, artes visuais e narrativa em torno de um enredo, e é essa estrutura que permite tratar temas de denúncia social e política — racismo, violência policial, intolerância religiosa, memória histórica — com a repercussão pública que se viu nos últimos anos. Os enredos patrocinados por governos e empresas são o distrator mais forte: também tratam de história, e o fazem sob encomenda de quem paga, não como denúncia. A profissionalização dos barracões e os critérios de julgamento descrevem a produção e a competição. Dizer que fantasias coloridas já bastam para caracterizar reflexão política ignora o enredo. E essa dimensão crítica é do desfile das escolas de samba, não do frevo pernambucano."
+    },
+    "artes-cultura-88": {
+      "alternativas": {
+        "a": "o reconhecimento do samba de roda e do samba carioca como patrimônio cultural imaterial, registro oficial que consagrou como bem cultural do país práticas que antes eram perseguidas pela polícia e tratadas como caso de desordem pública",
+        "e": "a valorização econômica do samba como produto de exportação e atração turística, que gerou renda para o setor cultural e projetou internacionalmente uma imagem do Brasil associada ao ritmo e à festa"
+      },
+      "explicacao": "A leitura que Sueli Carneiro permite é a do paradoxo: matrizes negras historicamente subalternizadas tornaram-se símbolo central da identidade nacional sem que o racismo estrutural enfrentado por suas comunidades de origem tenha desaparecido. O reconhecimento como patrimônio imaterial é o distrator decisivo, porque registra a consagração oficial de uma prática antes perseguida e para nela, sem alcançar a permanência do racismo apesar dessa consagração. A valorização econômica como produto de exportação trata de renda e de imagem externa. Dizer que instrumentos de percussão já bastam para a relação ignora comunidade e contexto. E a origem em comunidades afrodescendentes migrantes da Bahia é do samba carioca, ainda que a capoeira tenha trajetória de perseguição comparável."
+    }
+  }
+}

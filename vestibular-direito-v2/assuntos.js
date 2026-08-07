@@ -533,17 +533,304 @@ window.ASSUNTOS = [
 
   // ---------------------------------------------------------------------
   // INGLÊS
+  //
+  // Os TERMOS AQUI SÃO EM INGLÊS, e não é detalhe: a questão inteira está em
+  // inglês, então sinônimo em português não casa com nada. Medido antes desta
+  // seção ser reescrita, a frente de inglês de Medicina alcançava 20% do banco
+  // — o pior número do dicionário, com folga — porque os três assuntos que
+  // existiam misturavam rótulo em português com termo solto em inglês.
+  //
+  // A divisão é por HABILIDADE COBRADA, que é como a banca monta o item, mais
+  // um punhado de assuntos por tema do texto. O aluno que busca "inferência"
+  // acha pelo nome em português; o motor procura pelo comando em inglês.
   // ---------------------------------------------------------------------
-  { id: "ingles-compreensao", frentes: ["ingles"], nome: "Compreensão de texto (inglês)", area: "Linguagens",
-    termos: ["main idea", "according to the text", "the author", "infer", "purpose",
-             "best title", "passage", "paragraph"] },
+  { id: "ingles-ideia-central", frentes: ["ingles"], nome: "Ideia central (inglês)", area: "Linguagens",
+    termos: ["main idea", "best title", "main point", "central idea", "mainly about",
+             "primarily", "overall", "summarizes", "the passage as a whole"] },
 
-  { id: "ingles-vocabulario", frentes: ["ingles"], nome: "Vocabulário e sinônimos (inglês)", area: "Linguagens",
-    termos: ["synonym", "antonym", "means", "closest in meaning", "refers to",
-             "word", "expression", "phrasal verb", "false cognate"] },
+  { id: "ingles-inferencia", frentes: ["ingles"], nome: "Inferência (inglês)", area: "Linguagens",
+    termos: ["infer", "inferred", "imply", "implies", "suggests", "most likely",
+             "supports", "can be concluded", "it follows that"] },
+
+  { id: "ingles-detalhe", frentes: ["ingles"], nome: "Detalhe explícito (inglês)", area: "Linguagens",
+    termos: ["according to", "states that", "mentions", "the text says", "the author says",
+             "as described", "is true about"] },
+
+  { id: "ingles-referencia", frentes: ["ingles"], nome: "Referência e coesão (inglês)", area: "Linguagens",
+    termos: ["refers to", "refer to", "the word", "the pronoun", "antecedent",
+             "in line", "underlined", "the expression"] },
+
+  { id: "ingles-vocabulario", frentes: ["ingles"], nome: "Vocabulário em contexto (inglês)", area: "Linguagens",
+    termos: ["synonym", "antonym", "means", "closest in meaning", "in context",
+             "phrasal verb", "false cognate", "best replaces", "opposite of"] },
+
+  // Os conectivos comuns ("however", "although", "despite", "therefore") FORAM
+  // TIRADOS daqui de propósito, mesmo sendo o assunto. Medido: com eles, este
+  // registro casava 186 das 300 questões de inglês — 62% —, porque quase todo
+  // texto argumentativo usa um "however" em algum lugar. Aparecer no texto não
+  // faz a questão ser SOBRE conectivo, e um filtro que devolve dois terços da
+  // frente não filtra nada. Ficaram os marcadores metalinguísticos (o comando
+  // que pergunta pelo conector) e os conectivos raros o bastante para que a
+  // presença deles já indique foco.
+  { id: "ingles-conectivos", frentes: ["ingles"], nome: "Conectivos e relação lógica (inglês)", area: "Linguagens",
+    termos: ["connector", "linking word", "linking words", "conjunction",
+             "transition word", "cohesive device", "logical relation",
+             "nevertheless", "whereas", "in spite of", "furthermore", "hence",
+             "nonetheless", "conversely"] },
+
+  { id: "ingles-proposito-tom", frentes: ["ingles"], nome: "Propósito e tom (inglês)", area: "Linguagens",
+    termos: ["purpose", "tone", "attitude", "point of view", "criticizes", "praises",
+             "ironic", "skeptical", "the author intends", "in order to"] },
 
   { id: "ingles-gramatica", frentes: ["ingles"], nome: "Gramática (inglês)", area: "Linguagens",
     termos: ["verb tense", "present perfect", "past simple", "conditional", "modal",
              "passive voice", "relative pronoun", "preposition", "reported speech",
-             "comparative", "superlative"] },
+             "comparative", "superlative", "gerund", "used to", "would have"] },
+
+  { id: "ingles-tema-saude", frentes: ["ingles"], nome: "Textos sobre saúde (inglês)", area: "Linguagens",
+    termos: ["patients", "patient", "health", "disease", "doctors", "hospital",
+             "treatment", "vaccine", "medical", "symptoms", "sleep", "diet"] },
+
+  { id: "ingles-tema-tecnologia", frentes: ["ingles"], nome: "Textos sobre tecnologia (inglês)", area: "Linguagens",
+    termos: ["technology", "artificial intelligence", "algorithm", "online", "social media",
+             "smartphone", "internet", "digital", "users", "screen", "data"] },
+
+  { id: "ingles-tema-ambiente", frentes: ["ingles"], nome: "Textos sobre meio ambiente (inglês)", area: "Linguagens",
+    termos: ["climate", "climate change", "environment", "carbon", "emissions",
+             "species", "pollution", "warming", "renewable", "waste"] },
+
+  { id: "ingles-tema-sociedade", frentes: ["ingles"], nome: "Textos sobre trabalho e sociedade (inglês)", area: "Linguagens",
+    termos: ["workers", "employment", "inequality", "poverty", "wages", "income",
+             "education", "students", "cities", "housing", "migration", "money"] },
+
+  // =====================================================================
+  // SEGUNDA LEVA — as frentes que a primeira versão deixou rasas
+  //
+  // A primeira versão deste arquivo cobria as 23 frentes, mas de forma muito
+  // desigual: gramática alcançava 95% do banco e inglês de Medicina, 20%.
+  // Média geral, 69%.
+  //
+  // O que vem abaixo foi escrito a partir de MEDIÇÃO, não de intuição: para
+  // cada frente fraca, extraí os termos mais frequentes das questões que o
+  // dicionário NÃO alcançava, e montei os assuntos em cima do que estava
+  // realmente escrito nelas.
+  //
+  // Dois tipos de termo frequente foram descartados de propósito:
+  //
+  //   ruído de FORMATO — "lacunas", "preenchidas", "afirmativas", "correto".
+  //   Descrevem como o item é montado, não sobre o que ele é. Quem quer
+  //   filtrar por isso já tem o filtro de formato, que é campo próprio.
+  //
+  //   ruído de EXPLICAÇÃO — "anacrônica", "genérica", "superficial", "confusão".
+  //   São o vocabulário com que as explicações descrevem o erro do distrator.
+  //   Apareciam no topo da lista de Artes e Cultura e não dizem nada sobre o
+  //   assunto da questão.
+  // =====================================================================
+
+  // ---------------------------------------------------------------------
+  // ATUALIDADES — POLÍTICA E ECONOMIA
+  // ---------------------------------------------------------------------
+  { id: "administracao-publica", frentes: ["atualidades-politica", "direitos-humanos"], nome: "Administração pública e controle", area: "Atualidades",
+    termos: ["administracao publica", "servidor publico", "licitacao", "transparencia",
+             "tribunal de contas", "controle externo", "improbidade", "concurso publico",
+             "gasto publico", "recursos publicos", "prestacao de contas"] },
+
+  { id: "tres-poderes", frentes: ["atualidades-politica"], nome: "Três poderes e instituições", area: "Atualidades",
+    termos: ["poder judiciario", "poder legislativo", "poder executivo", "supremo tribunal",
+             "congresso nacional", "senado", "camara dos deputados", "medida provisoria",
+             "veto", "checks and balances", "freios e contrapesos"] },
+
+  { id: "federalismo", frentes: ["atualidades-politica", "geografia"], nome: "Federalismo e municípios", area: "Atualidades",
+    termos: ["federalismo", "municipios", "estados e municipios", "uniao", "repasse",
+             "pacto federativo", "autonomia municipal", "competencia concorrente"] },
+
+  { id: "politicas-sociais", frentes: ["atualidades-politica", "direitos-humanos", "filosofia-sociologia"], nome: "Políticas sociais e renda", area: "Atualidades",
+    termos: ["transferencia de renda", "bolsa familia", "programa social", "salario minimo",
+             "seguridade social", "previdencia", "assistencia social", "renda basica",
+             "distribuicao de renda", "pobreza"] },
+
+  // ---------------------------------------------------------------------
+  // ATUALIDADES — TECNOLOGIA
+  // ---------------------------------------------------------------------
+  { id: "plataformas-digitais", frentes: ["atualidades-tecnologia", "filosofia-sociologia"], nome: "Plataformas digitais e trabalho", area: "Atualidades",
+    termos: ["plataforma digital", "aplicativo", "uberizacao", "trabalho por aplicativo",
+             "entregador", "motorista de aplicativo", "economia de plataforma",
+             "streaming", "assinatura", "marketplace"] },
+
+  { id: "regulacao-digital", frentes: ["atualidades-tecnologia"], nome: "Regulação e moderação de conteúdo", area: "Atualidades",
+    termos: ["moderacao de conteudo", "regulacao das plataformas", "marco civil",
+             "remocao de conteudo", "liberdade de expressao online", "responsabilidade das plataformas",
+             "monopolio", "concorrencia digital"] },
+
+  { id: "inclusao-digital", frentes: ["atualidades-tecnologia", "geografia"], nome: "Inclusão e exclusão digital", area: "Atualidades",
+    termos: ["inclusao digital", "exclusao digital", "acesso a internet", "letramento digital",
+             "conectividade", "banda larga", "apagao digital"] },
+
+  // ---------------------------------------------------------------------
+  // ATUALIDADES — GEOPOLÍTICA E MEIO AMBIENTE
+  // ---------------------------------------------------------------------
+  { id: "comercio-internacional", frentes: ["atualidades-geopolitica", "geografia"], nome: "Comércio internacional", area: "Atualidades",
+    termos: ["comercio internacional", "acordo comercial", "tarifa", "exportacao",
+             "importacao", "balanca comercial", "protecionismo", "cadeia global de valor",
+             "cadeia produtiva", "guerra comercial", "sancao economica"] },
+
+  { id: "organismos-internacionais", frentes: ["atualidades-geopolitica"], nome: "Organismos internacionais", area: "Atualidades",
+    termos: ["organizacao das nacoes unidas", "conselho de seguranca", "fundo monetario",
+             "banco mundial", "organizacao mundial do comercio", "unesco",
+             "tratado internacional", "diplomacia", "direito internacional"] },
+
+  { id: "migracoes-refugio", frentes: ["atualidades-geopolitica", "direitos-humanos", "geografia"], nome: "Migrações e refúgio", area: "Atualidades",
+    termos: ["refugiado", "migracao internacional", "imigrante", "asilo", "xenofobia",
+             "fronteira", "deslocamento forcado", "apatrida"] },
+
+  { id: "residuos-poluicao", frentes: ["atualidades-meioambiente", "geografia"], nome: "Resíduos e poluição", area: "Atualidades",
+    termos: ["residuo solido", "lixo", "reciclagem", "poluicao", "saneamento basico",
+             "esgoto", "aterro sanitario", "economia circular", "plastico",
+             "contaminacao", "qualidade do ar"] },
+
+  { id: "conservacao", frentes: ["atualidades-meioambiente", "geografia", "biologia"], nome: "Conservação e áreas protegidas", area: "Atualidades",
+    termos: ["unidade de conservacao", "area protegida", "reserva", "parque nacional",
+             "terra indigena", "extincao", "especie ameacada", "restauracao ecologica",
+             "servico ecossistemico"] },
+
+  // ---------------------------------------------------------------------
+  // HISTÓRIA — o que a primeira leva não cobria
+  // ---------------------------------------------------------------------
+  { id: "imperialismo", frentes: ["historia-geral", "historia"], nome: "Imperialismo e partilha", area: "Humanas",
+    termos: ["imperialismo", "neocolonialismo", "partilha da africa", "colonizacao da asia",
+             "conferencia de berlim", "darwinismo social", "missao civilizadora",
+             "resistencia colonial"] },
+
+  { id: "america-latina", frentes: ["historia-geral", "historia"], nome: "América Latina", area: "Humanas",
+    termos: ["america latina", "independencia da america", "caudilhismo",
+             "ditadura militar no chile", "revolucao mexicana", "peronismo",
+             "operacao condor", "bolivar", "populismo latino-americano"] },
+
+  { id: "mundo-contemporaneo", frentes: ["historia-geral", "historia", "atualidades-geopolitica"], nome: "Mundo pós-1991", area: "Humanas",
+    termos: ["fim da guerra fria", "nova ordem mundial", "terrorismo", "onze de setembro",
+             "primavera arabe", "uniao europeia", "globalizacao economica",
+             "ascensao da china", "multipolar"] },
+
+  { id: "movimentos-sociais-sec-xx", frentes: ["historia-geral", "historia", "filosofia-sociologia"], nome: "Movimentos sociais do século XX", area: "Humanas",
+    termos: ["direitos civis", "movimento negro", "sufragio feminino", "maio de 68",
+             "sindicalismo", "greve", "contracultura", "movimento estudantil",
+             "luta pela terra"] },
+
+  { id: "historia-da-saude", frentes: ["historia", "biologia", "atualidades"], nome: "História da saúde e da medicina", area: "Humanas",
+    termos: ["revolta da vacina", "saude publica", "sanitarismo", "saneamento",
+             "epidemia", "peste", "gripe espanhola", "oswaldo cruz", "sus",
+             "reforma sanitaria", "vigilancia sanitaria"] },
+
+  // ---------------------------------------------------------------------
+  // GEOGRAFIA — o que faltava
+  // ---------------------------------------------------------------------
+  { id: "industria-servicos", frentes: ["geografia"], nome: "Indústria e serviços", area: "Humanas",
+    termos: ["industrializacao", "industria", "setor de servicos", "desindustrializacao",
+             "polo industrial", "zona franca", "emprego formal", "informalidade",
+             "infraestrutura", "logistica", "transporte"] },
+
+  { id: "regioes-do-brasil", frentes: ["geografia"], nome: "Regiões do Brasil", area: "Humanas",
+    termos: ["regiao norte", "regiao nordeste", "regiao sudeste", "regiao sul",
+             "centro-oeste", "sertao", "semiarido", "desigualdade regional",
+             "ibge", "regionalizacao"] },
+
+  { id: "cartografia", frentes: ["geografia"], nome: "Cartografia", area: "Humanas",
+    termos: ["cartografia", "escala cartografica", "projecao cartografica", "curva de nivel",
+             "coordenada geografica", "latitude", "longitude", "fuso horario",
+             "sensoriamento remoto", "mapa tematico"] },
+
+  { id: "geografia-da-saude", frentes: ["geografia", "atualidades", "biologia"], nome: "Geografia da saúde", area: "Humanas",
+    termos: ["acesso a saude", "cobertura vacinal", "endemia", "arbovirose",
+             "dengue", "leishmaniose", "determinante social da saude",
+             "mortalidade infantil", "expectativa de vida"] },
+
+  // ---------------------------------------------------------------------
+  // FILOSOFIA E SOCIOLOGIA — o que faltava
+  // ---------------------------------------------------------------------
+  { id: "teoria-do-conhecimento", frentes: ["filosofia-sociologia"], nome: "Teoria do conhecimento", area: "Humanas",
+    termos: ["epistemologia", "teoria do conhecimento", "empirismo", "racionalismo",
+             "ceticismo", "metodo cientifico", "verdade", "descartes", "hume",
+             "popper", "kuhn", "paradigma"] },
+
+  { id: "filosofia-politica-contemporanea", frentes: ["filosofia-sociologia", "direitos-humanos"], nome: "Filosofia política contemporânea", area: "Humanas",
+    termos: ["justica social", "rawls", "foucault", "biopoder", "hannah arendt",
+             "totalitarismo", "banalidade do mal", "esfera publica", "habermas",
+             "democracia deliberativa", "cidadania"] },
+
+  { id: "sociologia-do-trabalho", frentes: ["filosofia-sociologia", "atualidades-tecnologia"], nome: "Sociologia do trabalho", area: "Humanas",
+    termos: ["divisao do trabalho", "taylorismo", "fordismo", "toyotismo",
+             "precarizacao", "terceirizacao", "desemprego estrutural",
+             "reestruturacao produtiva", "mais-valia"] },
+
+  { id: "sociologia-urbana", frentes: ["filosofia-sociologia", "geografia"], nome: "Sociologia urbana e violência", area: "Humanas",
+    termos: ["violencia urbana", "seguranca publica", "encarceramento", "sistema prisional",
+             "segregacao socioespacial", "periferia", "policia", "criminalidade"] },
+
+  { id: "sociologia-da-saude", frentes: ["filosofia-sociologia", "atualidades", "biologia"], nome: "Saúde, sociedade e bioética", area: "Humanas",
+    termos: ["bioetica", "consentimento informado", "autonomia do paciente",
+             "medicalizacao", "saude mental", "cuidado paliativo", "eutanasia",
+             "acesso a medicamento", "equidade em saude", "relacao medico-paciente"] },
+
+  // ---------------------------------------------------------------------
+  // ARTES E CULTURA — o que faltava
+  // ---------------------------------------------------------------------
+  { id: "leitura-de-imagem", frentes: ["artes-cultura", "artes"], nome: "Leitura de imagem", area: "Artes",
+    termos: ["composicao", "enquadramento", "plano de fundo", "ponto de fuga",
+             "luz e sombra", "claro-escuro", "paleta", "cor complementar",
+             "simetria", "regra dos tercos", "primeiro plano", "profundidade"] },
+
+  { id: "arte-e-espaco", frentes: ["artes-cultura", "artes"], nome: "Museu, curadoria e público", area: "Artes",
+    termos: ["museu", "galeria", "curadoria", "exposicao", "acervo", "bienal",
+             "espaco expositivo", "instalacao", "site-specific", "patrimonio"] },
+
+  { id: "corpo-e-performance", frentes: ["artes-cultura", "artes"], nome: "Corpo, gesto e performance", area: "Artes",
+    termos: ["performance", "corpo", "gesto", "danca", "teatro", "happening",
+             "arte de acao", "presenca", "publico participante"] },
+
+  { id: "arquitetura", frentes: ["artes-cultura", "artes", "geografia"], nome: "Arquitetura e cidade", area: "Artes",
+    termos: ["arquitetura", "modernismo arquitetonico", "niemeyer", "brasilia",
+             "arco", "ogiva", "gotico", "barroco mineiro", "urbanismo",
+             "tombamento", "patrimonio historico"] },
+
+  { id: "arte-e-sociedade", frentes: ["artes-cultura", "artes", "filosofia-sociologia"], nome: "Arte, autoria e mercado", area: "Artes",
+    termos: ["autoria", "originalidade", "reproducao", "apropriacao", "mercado de arte",
+             "arte contemporanea", "arte engajada", "censura", "politica cultural",
+             "lei de incentivo"] },
+
+  // ---------------------------------------------------------------------
+  // INTERPRETAÇÃO DE TEXTO — o que faltava
+  // ---------------------------------------------------------------------
+  { id: "causa-consequencia", frentes: ["interpretacao-texto"], nome: "Causa e consequência", area: "Linguagens",
+    termos: ["causa", "consequencia", "efeito", "por causa de", "resulta em",
+             "provoca", "decorre", "razao pela qual", "relacao causal"] },
+
+  { id: "narrativa-e-cena", frentes: ["interpretacao-texto"], nome: "Texto narrativo e construção de cena", area: "Linguagens",
+    termos: ["narrador", "personagem", "cena", "dialogo", "memoria",
+             "flashback", "conflito", "desfecho", "ambiente", "atmosfera"] },
+
+  { id: "dados-no-texto", frentes: ["interpretacao-texto", "geografia"], nome: "Dados e gráficos no texto", area: "Linguagens",
+    termos: ["grafico", "tabela", "percentual", "pesquisa mostra", "levantamento",
+             "estatistica", "amostra", "indice", "taxa", "crescimento de"] },
+
+  { id: "vozes-no-texto", frentes: ["interpretacao-texto"], nome: "Vozes e citação no texto", area: "Linguagens",
+    termos: ["discurso direto", "discurso indireto", "citacao", "aspas",
+             "fonte", "especialista", "declaracao", "entrevistado", "porta-voz"] },
+
+  // ---------------------------------------------------------------------
+  // MATEMÁTICA — os problemas que não nomeiam o conteúdo
+  // ---------------------------------------------------------------------
+  { id: "aritmetica-problemas", frentes: ["matematica-rlm", "matematica"], nome: "Aritmética e problemas", area: "Matemática",
+    termos: ["quantos", "quantas", "quanto custa", "valor total", "quantia",
+             "sobra", "resto", "divisao", "multiplicacao", "soma", "subtracao",
+             "unidades", "reais", "troco"] },
+
+  { id: "medidas-unidades", frentes: ["matematica-rlm", "matematica", "fisica"], nome: "Medidas e conversão de unidades", area: "Matemática",
+    termos: ["conversao de unidade", "metro", "quilometro", "centimetro", "litro",
+             "quilograma", "grama", "hora", "minuto", "velocidade media",
+             "densidade", "vazao"] },
+
+  { id: "matematica-financeira", frentes: ["matematica-rlm", "matematica"], nome: "Matemática financeira aplicada", area: "Matemática",
+    termos: ["parcela", "prestacao", "financiamento", "emprestimo", "mensal",
+             "tarifa", "plano de assinatura", "custo fixo", "custo variavel",
+             "lucro", "prejuizo", "margem"] },
 ];

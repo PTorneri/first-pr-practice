@@ -1931,6 +1931,13 @@
     const n = buscaNormalizar(consulta).trim();
     if (n.length < 2) return [];
     const frentesVivas = new Set((buscaDocs || []).map((d) => d.frente));
+    // Fronteira nos DOIS lados. Só no início não basta: "\barte" casa o começo
+    // de "arterial", que foi exatamente como "Fisiologia humana" apareceu ao se
+    // digitar "arte". Digitação parcial não perde nada com isso — quem escreve
+    // "quadrat" ou "estequi" é atendido pelos degraus de cima, que comparam
+    // contra o NOME do assunto; este degrau existe para a palavra inteira que
+    // aparece no meio de um termo ("vértice" dentro de Função quadrática).
+    const rxPalavra = new RegExp("\\b" + n.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/\s+/g, "\\s+") + "\\b");
     const pontuados = [];
     (window.ASSUNTOS || []).forEach((a) => {
       if (!a.frentes.some((f) => frentesVivas.has(f))) return;
@@ -1939,7 +1946,13 @@
       if (nome.startsWith(n)) p = 100;
       else if (nome.indexOf(n) !== -1) p = 60;
       else if (a.termos.some((t) => buscaNormalizar(t).startsWith(n))) p = 40;
-      else if (a.termos.some((t) => buscaNormalizar(t).indexOf(n) !== -1)) p = 20;
+      // Fronteira de palavra, e não `indexOf`, no degrau mais baixo. Com
+      // substring, digitar "arte" sugeria "Fisiologia humana" — o pedaço está
+      // dentro de "pressão ARTErial". A sugestão errada é pior que sugestão
+      // nenhuma: ela ocupa a vaga de uma certa e manda o aluno para a frente
+      // errada. O motor de busca já casa por palavra inteira; aqui era o único
+      // ponto que ainda não casava.
+      else if (a.termos.some((t) => rxPalavra.test(buscaNormalizar(t)))) p = 20;
       if (p > 0) pontuados.push({ assunto: a, peso: p });
     });
     pontuados.sort((x, y) => y.peso - x.peso || x.assunto.nome.localeCompare(y.assunto.nome));

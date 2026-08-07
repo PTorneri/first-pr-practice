@@ -1,0 +1,69 @@
+{
+  "_comentario": [
+    "Lote 10 de filosofia-sociologia: 64 a 84, catorze distratores.",
+    "",
+    "Este grupo tinha as caudas mais longas do arquivo -- 68(e) chegava a 343",
+    "caracteres, dos quais mais de cem eram a explicação de por que a alternativa",
+    "estava errada, com citação de Sueli Carneiro e Lélia Gonzalez dentro do próprio",
+    "distrator. A alternativa não era uma opção: era um parágrafo de aula colado no",
+    "lugar de uma.",
+    "",
+    "As substituições escolhem, em cada questão, a objeção que alguém realmente faria.",
+    "Em 68, a política de renda defendida como suficiente porque alcançaria a maioria",
+    "das pessoas negras de todo modo -- que é o argumento efetivamente usado no debate",
+    "brasileiro sobre cotas e é exatamente o que a interseccionalidade contesta. Em 73,",
+    "o dilema do bonde tratado como situação improvável demais para orientar",
+    "programação real, que é a objeção prática mais comum e não percebe que o problema",
+    "está em ter de decidir o critério antes do acidente. Em 79, a publicidade lida",
+    "como manipulação deliberada de consumidores mal informados: quase o conceito, e",
+    "erra onde importa, porque falsa consciência não é mentira contada por alguém, é",
+    "relação que se apresenta como natural para todos, inclusive para quem anuncia."
+  ],
+  "subtopic": "filosofia-sociologia",
+  "questoes": {
+    "filosofia-sociologia-64": {
+      "alternativas": {
+        "b": "a ideia de que o avanço científico e tecnológico permite hoje calcular com precisão a probabilidade de cada ameaça, de modo que os riscos passaram a ser administráveis por seguros e por regulação técnica",
+        "c": "a ideia de que os riscos da modernidade avançada recaem sobre as populações mais pobres dos países em desenvolvimento, que dispõem de menos recursos para se proteger dos seus efeitos e de menos voz nas decisões internacionais que acabam por produzi-los"
+      },
+      "explicacao": "A sociedade de risco, em Beck, é aquela em que a própria atividade humana produz ameaças de alcance global, muitas vezes imperceptíveis aos sentidos e maiores que a responsabilidade de qualquer agente isolado — traço comum ao clima e aos riscos atribuídos à inteligência artificial. Dizer que esses riscos se tornaram calculáveis e seguráveis é o desvio mais fino: parte deles é justamente incalculável, e é essa incerteza que distingue o conceito do risco industrial clássico. Concentrá-los nas populações mais pobres captura uma desigualdade real na exposição, mas restringe um alcance que Beck descreve como global e que atinge também os países ricos. Afirmar que são visíveis e controláveis localmente nega a imperceptibilidade que está no centro da formulação. E o custo econômico desigual é consequência distributiva, não a natureza do risco."
+    },
+    "filosofia-sociologia-65": {
+      "alternativas": {
+        "a": "a transposição das hierarquias tradicionais da empresa para as ferramentas digitais, que passam a registrar cada nível de aprovação exigido e a reproduzir na tela o mesmo organograma que já vigorava no escritório"
+      },
+      "explicacao": "A sociedade em rede, em Castells, reorganiza a atividade econômica em torno de conexões digitais que dispensam a proximidade física e refazem as noções de tempo, espaço e hierarquia — e é isso que se vê em equipes distribuídas entre cidades. A alternativa que vê a simples transposição do organograma para a tela é a mais próxima e a que exige a distinção decisiva: a ferramenta digital pode reproduzir hierarquia, mas o conceito descreve a reconfiguração dessa estrutura, não sua digitalização. Dizer que a sociedade em rede se caracteriza pela predominância de formas tradicionais e hierárquicas afirma o contrário da análise. Supor a extinção de toda tecnologia analógica é extrapolação que ele não sustenta. E descrevê-la como ausência de conexões entre regiões inverte a conectividade global que dá nome ao conceito. Já a concentração industrial em países de mão de obra barata é fenômeno de custo, anterior à lógica das redes."
+    },
+    "filosofia-sociologia-68": {
+      "alternativas": {
+        "a": "a de que o critério de renda é suficiente para alcançar o objetivo pretendido, já que a maior parte das pessoas negras de baixa renda seria igualmente contemplada pela política ao concorrer pelas vagas reservadas",
+        "b": "a de que o eixo de gênero é o que explica as dificuldades enfrentadas por mulheres no acesso ao ensino superior, cabendo às políticas públicas garantir a elas proporção equivalente de vagas em cada curso oferecido",
+        "e": "a de que a análise de raça, gênero e classe deve ser feita em separado, para que se possa medir estatisticamente a contribuição de cada um desses fatores à desigualdade observada no acesso ao ensino superior e só então definir o peso que cada critério isolado terá no desenho final da política pública"
+      },
+      "explicacao": "A interseccionalidade sustenta que raça, gênero e classe não se somam como fatores independentes: a experiência de exclusão de uma mulher negra pobre nasce da combinação deles, e é isso que uma política guiada só pela renda pode não alcançar. O argumento de que a renda basta porque contemplaria a maioria das pessoas negras de baixa renda é o mais forte do debate real e o que a tese contesta: ser alcançado pela política não é o mesmo que ter reconhecida a desigualdade específica que se enfrenta. Isolar o eixo de gênero apanha uma parte e perde a articulação. Propor medir cada fator em separado antes de desenhar a política é a alternativa que exige a distinção mais fina, porque parece rigor metodológico e desfaz precisamente o que o conceito afirma, que os eixos não operam isolados. E revisar periodicamente políticas afirmativas por avaliação de impacto é questão de desenho institucional, alheia a qual desigualdade a política capta."
+    },
+    "filosofia-sociologia-73": {
+      "alternativas": {
+        "a": "a de que o dilema aponta a resposta moralmente correta a ser adotada na programação, cabendo aos fabricantes apenas convertê-la em código e submetê-la à aprovação das autoridades de trânsito competentes",
+        "b": "a de que situações desse tipo são raras demais no trânsito real para orientar decisões de programação, devendo o esforço de engenharia concentrar-se em melhorar sensores, frenagem e leitura de pedestres, de modo a reduzir a probabilidade de o acidente inevitável chegar a ocorrer",
+        "e": "a de que utilitaristas e deontologistas convergem na prática diante desse tipo de caso, divergindo apenas na justificativa que cada corrente oferece para a decisão que ambas acabariam tomando"
+      },
+      "explicacao": "O dilema do bonde retorna na programação de carros autônomos porque obriga a escolher antecipadamente um critério: minimizar o número de vítimas, como pede o cálculo utilitarista, ou nunca decidir ativamente sacrificar uma vida, como sustenta a objeção deontológica. A objeção de que tais situações são raras demais é a mais razoável na aparência e a que perde o essencial: por rara que seja, o critério tem de estar escrito no código antes de qualquer acidente. Dizer que o dilema aponta a resposta correta atribui a ele um poder de decisão que não tem, pois ele expõe a tensão sem resolvê-la. Supor convergência prática entre as duas correntes apaga a divergência que faz do caso um dilema. E responsabilizar civilmente alguém pelo acidente é questão jurídica de imputação, posterior à escolha do critério moral."
+    },
+    "filosofia-sociologia-79": {
+      "alternativas": {
+        "c": "a de que o discurso publicitário manipula deliberadamente consumidores pouco informados, que decidiriam de outra maneira se conhecessem as condições de trabalho e o custo real de produção da mercadoria que lhes é oferecida como via de realização pessoal",
+        "e": "a de que esse discurso reflete valores já presentes na sociedade, limitando-se a devolver ao público os desejos de conforto e distinção que ele próprio manifesta nas pesquisas de mercado encomendadas"
+      },
+      "explicacao": "A ideologia como falsa consciência naturaliza relações de exploração, fazendo-as parecer justas ou inevitáveis — e o discurso que liga consumo constante a liberdade e realização pessoal faz isso ao apresentar como escolha livre algo condicionado por interesses comerciais, ocultando as relações de produção por trás da mercadoria. A leitura da manipulação deliberada de consumidores mal informados é a mais próxima e a que exige a distinção central: falsa consciência não é mentira que alguém conta a outro, é uma relação que se apresenta como natural para todos, inclusive para quem anuncia. Dizer que a publicidade apenas devolve valores já existentes retira do discurso o efeito de naturalização que o conceito localiza nele. Restringir a ideologia às classes dominadas ignora que o discurso dominante legitima a própria posição de quem o enuncia. E o exagero das qualidades técnicas do produto é propaganda enganosa, matéria de direito do consumidor."
+    },
+    "filosofia-sociologia-84": {
+      "alternativas": {
+        "a": "o risco de que o relato seja recebido como pedido de atenção, levando parte do público a duvidar da gravidade da condição descrita e a atribuí-la a uma fragilidade de caráter ou à falta de esforço pessoal de quem decidiu relatá-la",
+        "c": "o risco de que a exposição atinja apenas quem já apresenta sinais visíveis da condição, ficando de fora quem convive com diagnósticos que não se manifestam de forma perceptível aos outros",
+        "e": "o risco de que o relato converta a condição relatada em marca de autenticidade valorizada pelo público, atraindo seguidores e transformando a experiência pessoal em capital de reputação nas redes"
+      },
+      "explicacao": "O estigma, em Goffman, é o atributo que desacredita alguém e o reduz a uma condição desvalorizada aos olhos dos outros — e quem fala publicamente sobre saúde mental corre o risco de passar a ser visto pelo rótulo, e não pela identidade inteira. A leitura de que o relato seria recebido como pedido de atenção e atribuído a fragilidade de caráter descreve uma forma concreta de descrédito, mas nomeia um julgamento particular no lugar do mecanismo que o conceito descreve, que é a redução da pessoa ao atributo. Dizer que o relato converte a condição em capital de reputação inverte o efeito, já que o estigma desacredita em vez de valorizar. Supor que só alcança quem tem sinais visíveis contraria a inclusão explícita de marcas invisíveis, como diagnósticos psiquiátricos. E a perda de acesso a crédito é consequência econômica possível, distinta da desqualificação social em jogo."
+    }
+  }
+}

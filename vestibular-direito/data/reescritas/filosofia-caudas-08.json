@@ -1,0 +1,68 @@
+{
+  "_comentario": [
+    "Lote 8 de filosofia-sociologia: 31 a 38, quinze distratores.",
+    "",
+    "Aqui aparece a variante mais preguiçosa do molde: o distrator montado por",
+    "'exclusivamente', 'unicamente', 'apenas', 'nunca', 'qualquer' -- e o candidato",
+    "aprende que a alternativa com advérbio absoluto está errada, sem precisar ler o",
+    "resto. Em 32(a) e 32(e), em 33(d) e 33(e), em 37(e), em 38(e). Cinco",
+    "alternativas que a métrica já descartava e que, na prática, reduziam a questão a",
+    "três opções reais.",
+    "",
+    "As substituições trocam o absoluto por um argumento com corpo. Em 32, o carona",
+    "vira o país que promete meta ambiciosa e adia a execução esperando a tecnologia",
+    "ficar mais barata -- que é o comportamento real nas negociações de clima e",
+    "continua não sendo o problema do carona, porque ali o proveito vem do esforço",
+    "alheio, não do tempo. Em 35, o pedido de desculpas confundido com reparação",
+    "material, que é a confusão que a questão deveria cobrar. Em 37, a menoridade",
+    "confundida com falta de acesso à informação -- plausível hoje, e o oposto do",
+    "diagnóstico de Kant, que trata de coragem e não de acesso."
+  ],
+  "subtopic": "filosofia-sociologia",
+  "questoes": {
+    "filosofia-sociologia-31": {
+      "alternativas": {
+        "a": "a organização da mobilização climática em torno de reivindicações de emprego e renda para os setores atingidos pela transição energética, com pauta negociada entre sindicatos e empresas do ramo",
+        "b": "a recusa desses movimentos a formas organizadas de ação coletiva, com cada participante agindo por conta própria em gestos individuais de consumo consciente, reciclagem doméstica e redução da própria pegada de carbono"
+      },
+      "explicacao": "Os novos movimentos sociais se organizam em torno de identidades e pautas culturais e existenciais, por redes horizontais, em vez de partirem da posição de classe — e a mobilização climática juvenil é o caso exemplar, articulada digitalmente e sem centro hierárquico. Reduzi-la a reivindicações de emprego e renda negociadas entre sindicatos e empresas a devolve ao molde do movimento operário clássico, que é justamente o contraste em jogo. Dizer que esses movimentos recusam a ação coletiva contraria o que os define, já que sua marca é articular coletivamente sem hierarquia. Organizar-se em torno de um partido com disciplina interna descreve a forma anterior, não a atual. E restringir a atuação ao ambiente parlamentar ignora que essas redes agem sobretudo fora das instituições representativas."
+    },
+    "filosofia-sociologia-32": {
+      "alternativas": {
+        "a": "a de que países anunciam metas ambiciosas de redução e adiam a execução para o fim do prazo estipulado, na expectativa de que a tecnologia necessária fique mais barata e o custo do cumprimento caia bastante com o passar dos anos",
+        "e": "a de que a dificuldade se concentra no comportamento de consumidores individuais, cabendo aos Estados apenas informá-los para que ajustem hábitos de consumo e transporte por decisão própria"
+      },
+      "explicacao": "O problema do carona descreve quem colhe o benefício de um esforço coletivo sem arcar com seu custo — e no clima isso aparece quando um país se beneficia da redução global de emissões promovida por outros sem reduzir as suas, o que trava acordos amplos. Adiar a execução esperando tecnologia mais barata é o distrator que exige a distinção mais fina: também é cálculo de custo, mas ali o proveito vem do tempo, e no problema do carona vem do esforço alheio. Localizar a dificuldade no consumidor individual desloca o problema para outra escala, quando ele opera igualmente entre Estados. Afirmar que os países participam ativamente de qualquer acordo benéfico nega o incentivo que o conceito descreve. E a dificuldade de medir emissões com precisão é obstáculo de verificação, distinto do incentivo a não contribuir."
+    },
+    "filosofia-sociologia-33": {
+      "alternativas": {
+        "b": "o modo como o poder sobre a vida perdeu força com o fim das monarquias absolutistas, cabendo ao Estado moderno apenas garantir o atendimento individual de quem procura o serviço de saúde",
+        "d": "o modo como a coleta de dados clínicos de um paciente durante a consulta permite ao médico acompanhar a evolução do quadro e ajustar a medicação e a dosagem conforme os resultados dos exames laboratoriais que lhe são apresentados a cada retorno",
+        "e": "o modo como a gestão sanitária se organiza em torno da capacidade de mobilizar tropas e proteger fronteiras em situações de emergência declarada pelas autoridades nacionais competentes"
+      },
+      "explicacao": "O biopoder toma como objeto a vida da população como conjunto, governando por estatística — natalidade, mortalidade, contágio — e é isso que se vê quando governos coletam e cruzam dados de ocupação hospitalar e vacinação para orientar decisões que alcançam todos. O acompanhamento clínico de um paciente pela consulta é o distrator mais próximo e o que exige a distinção decisiva: falta a escala populacional, sem a qual o conceito não se aplica. Dizer que esse poder perdeu força com o fim do absolutismo erra a cronologia, pois Foucault o situa emergindo com a modernidade, junto da estatística populacional e da medicina social. E reduzi-lo à mobilização de tropas e à proteção de fronteiras troca a gestão da vida pela defesa do território. Já os comitês de ética avaliam pesquisa com seres humanos, o que é controle de procedimento científico."
+    },
+    "filosofia-sociologia-35": {
+      "alternativas": {
+        "a": "a demanda por reparação econômica calculada sobre as perdas acumuladas pelo grupo ao longo do tempo, entendendo-se que o reconhecimento se efetiva quando essas perdas são compensadas em dinheiro",
+        "c": "a demanda por um pronunciamento formal da instituição que encerre publicamente a controvérsia, permitindo que as partes retomem sua relação sem que o episódio volte a ser cobrado"
+      },
+      "explicacao": "Honneth lê os conflitos sociais como lutas por reconhecimento em três esferas — amor, direito e estima social — e o pedido público de desculpas atua sobre a terceira: busca devolver a um grupo a estima que lhe foi historicamente negada, o que não se substitui por dinheiro. A demanda por reparação econômica calculada sobre perdas é a mais próxima e a que exige a distinção central: ela opera na esfera do direito e da compensação material, enquanto o que está em jogo aqui é simbólico. Tratar o pronunciamento como encerramento da controvérsia inverte a função do ato, que é reconhecer e não arquivar. Supor que o desrespeito social não tenha dimensão moral contraria a ligação que ele estabelece entre desrespeito e integridade moral e psíquica. E a indenização proporcional ao prejuízo material comprovado é o cálculo jurídico, distinto do reconhecimento."
+    },
+    "filosofia-sociologia-37": {
+      "alternativas": {
+        "c": "a de que a menoridade descrita por Kant consiste na falta de acesso a informação confiável, de modo que o problema se resolveria pela simples oferta de fontes verificadas e de serviços de checagem independente a quem hoje se informa sobretudo pelas redes sociais",
+        "e": "a de que seguir influenciadores digitais em temas de interesse público substitui a formação escolar, cabendo a essas figuras o papel de mediar o que o público precisa saber sobre cada assunto em debate"
+      },
+      "explicacao": "A menoridade, em Kant, é autoimposta: não falta capacidade de raciocinar, falta a decisão de usar o próprio entendimento sem tutela — daí a força da crítica a quem aceita informação sem exame apenas por confiar em quem a divulgou. Explicá-la por falta de acesso a fontes confiáveis é o desvio mais tentador hoje, e é o oposto do diagnóstico: o problema está na coragem de examinar, não na oferta de material. Tratar a menoridade como incapacidade biológica anterior à vida adulta contraria a definição, que a atribui a preguiça e covardia. Reduzi-la à ausência de escolas transporta para a instituição um diagnóstico que Kant faz do indivíduo. E dizer que o excesso de informação impede formar opinião é uma resignação que o lema kantiano recusa frontalmente."
+    },
+    "filosofia-sociologia-38": {
+      "alternativas": {
+        "a": "a de que o cumprimento das leis trabalhistas de cada país onde a cadeia opera é o critério suficiente para avaliar moralmente o arranjo, cabendo à empresa observar a legislação local vigente e responder somente pelo que ela exigir de quem produz",
+        "b": "a de que a fórmula da humanidade autoriza dar prioridade aos trabalhadores do próprio país, por serem aqueles com quem a empresa mantém vínculo mais direto e responsabilidade social mais imediata",
+        "e": "a de que a extensão internacional da cadeia produtiva já compromete o vínculo moral entre empresa e trabalhador, pois a distância entre a decisão e quem a sofre dilui a responsabilidade de quem decide"
+      },
+      "explicacao": "A fórmula da humanidade exige tratar toda pessoa também como fim em si, e não apenas como meio — por isso reduzir trabalhadores a instrumento de corte de custos, sem consideração por dignidade e condições de vida, é o que o princípio condena. Adotar a legislação local como critério suficiente é o distrator mais tentador: Kant submete a validade da lei a critérios morais racionais, de modo que cumprir a norma vigente não basta para tornar o arranjo justo. Priorizar trabalhadores do próprio país contraria a universalidade do princípio, que não admite recorte por proximidade. Dizer que a distância geográfica dilui a responsabilidade transfere para a logística o que é uma exigência moral sobre quem decide. E o encarecimento do produto por excesso de intermediários é observação econômica, sem relação com a dignidade em jogo."
+    }
+  }
+}

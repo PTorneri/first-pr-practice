@@ -1,0 +1,73 @@
+{
+  "_comentario": [
+    "Lote 9 de filosofia-sociologia: 44 a 63, doze distratores.",
+    "",
+    "Grupo dos conceitos com direção histórica -- desencantamento do mundo, lei dos",
+    "três estados, divisão do trabalho, tabula rasa. Neles o molde produziu o pior",
+    "tipo de distrator: o conceito enunciado ao contrário, com a inversão anunciada",
+    "logo depois. 'o pensamento humano regride do estado positivo de volta ao",
+    "teológico, invertendo a direção evolutiva'. 'o aumento da divisão do trabalho",
+    "elimina a interdependência, quando na verdade a especialização tende a",
+    "aprofundá-la'. O candidato não precisa saber a direção: ela vem escrita.",
+    "",
+    "As versões novas mantêm o erro e retiram a etiqueta, escolhendo em cada caso a",
+    "confusão que de fato acontece. Em 46, a astrologia lida como sobrevivência de",
+    "um resíduo pré-moderno que o esclarecimento ainda vai dissolver -- que é a",
+    "leitura evolucionista corrente e não a de Weber, para quem o encanto reaparece",
+    "dentro da própria modernidade. Em 49, a especialização confundida com",
+    "diversificação de fornecedores, que soa a boa gestão de risco e é o oposto da",
+    "concentração que produz o gargalo. Em 52, o aprendizado de máquina descrito como",
+    "regras extraídas por engenheiros a partir dos dados: quase certo, e erra onde",
+    "importa, porque o padrão não é formulado por ninguém."
+  ],
+  "subtopic": "filosofia-sociologia",
+  "questoes": {
+    "filosofia-sociologia-44": {
+      "alternativas": {
+        "d": "uma ação orientada pela leitura que os operadores humanos fazem do humor do mercado, traduzida em ajustes manuais de estratégia ao longo do dia conforme a sensação de otimismo ou de receio se espalha entre eles",
+        "e": "uma ação orientada por procedimentos consagrados na mesa de operações e transmitidos de uma geração de operadores à seguinte, que os sistemas automatizados passaram a executar em maior velocidade"
+      },
+      "explicacao": "A ação racional referente a fins escolhe meios pelo cálculo do que produz o resultado buscado, sem apelo a hábito, emoção ou convicção incondicional — e é exatamente essa a lógica de um sistema que opera para maximizar retorno. A leitura do humor do mercado por operadores humanos descreve ação afetiva, e o ponto do trading algorítmico é justamente dispensá-la. Procedimentos transmitidos entre gerações de operadores caracterizam a ação tradicional, que a automação substitui em vez de acelerar. A ação por convicção ética independente das consequências é o tipo oposto, ligado a uma ética da convicção. E agir pela expectativa de reconhecimento público dos operadores atribui ao sistema um motivo de prestígio que não opera em sua decisão."
+    },
+    "filosofia-sociologia-46": {
+      "alternativas": {
+        "e": "o fato de esse crescimento indicar a sobrevivência de um resíduo pré-moderno que a difusão do ensino científico deve dissolver com o tempo, à medida que o público jovem tiver mais acesso à formação escolar"
+      },
+      "explicacao": "O desencantamento do mundo descreve a substituição de explicações mágicas por explicações racionais, e o crescimento da astrologia entre públicos urbanos e escolarizados se lê como reação parcial a ele: uma busca de sentido e orientação que a racionalização não oferece. Tratar o fenômeno como resíduo pré-moderno à espera de dissolução pelo ensino é a leitura mais tentadora e a que o diagnóstico contraria, pois o reencantamento aparece dentro da modernidade e entre quem tem acesso à ciência, não à margem dela. Supor o desaparecimento definitivo de crenças não científicas é extrapolação que a própria persistência da astrologia desmente. Dizer que o processo substitui a ciência pela tradição inverte a direção histórica. E a queda na frequência a cultos institucionais é dado sobre religiosidade organizada, que não explica a procura por horóscopo."
+    },
+    "filosofia-sociologia-49": {
+      "alternativas": {
+        "c": "a ideia de que o aprofundamento da divisão do trabalho leva cada economia a diversificar seus fornecedores e a distribuir a produção de um mesmo componente entre países diferentes, o que reduziria bastante o risco de uma parada generalizada no setor"
+      },
+      "explicacao": "O crescimento da divisão do trabalho aumenta a interdependência funcional: quanto mais especializada cada parte, mais o conjunto depende de todas elas — e é por isso que a parada na produção de um único componente concentrado em poucos países atinge setores inteiros longe dali. A alternativa que associa especialização a diversificação de fornecedores é a mais plausível e a que exige a distinção decisiva: soa como boa gestão de risco, mas a especialização de fato concentra, e é a concentração que cria o gargalo. Dizer que a divisão do trabalho elimina a interdependência afirma o contrário do nexo clássico. Supor que economias especializadas se tornem autossuficientes inverte a mesma relação. E imaginar que a interrupção fortaleça a autonomia de cada país troca o efeito observado pelo seu oposto."
+    },
+    "filosofia-sociologia-50": {
+      "alternativas": {
+        "c": "a de que esses discursos correspondem ao estado metafísico descrito por Comte, em que princípios abstratos tomam o lugar das divindades como causa dos fenômenos observados na vida social",
+        "e": "a de que a lei dos três estados reserva às ciências naturais a explicação dos fenômenos físicos e deixa a vida social fora do alcance do conhecimento positivo, por ela depender de vontades individuais imprevisíveis e irredutíveis a leis gerais"
+      },
+      "explicacao": "A lei dos três estados culmina no estado positivo, em que o conhecimento científico se torna a forma legítima de explicar o mundo — e discursos que atribuem à técnica, isoladamente, a solução de problemas sociais reatualizam essa confiança na ciência como estágio superior e suficiente. Enquadrá-los no estado metafísico é o erro mais fino: ali princípios abstratos substituem divindades, enquanto o que está em jogo nesses discursos é fé na técnica, própria do estado positivo. Dizer que Comte previa regressão do positivo ao teológico inverte a direção da lei. Afirmar que ela deixa a vida social fora do conhecimento positivo contraria o próprio projeto de uma física social. E dizer que o avanço científico dispensa reflexão filosófica sobre seus fins é a crença que a questão examina, não a lei que permite examiná-la."
+    },
+    "filosofia-sociologia-52": {
+      "alternativas": {
+        "a": "modelos em que engenheiros examinam os grandes volumes de dados disponíveis, extraem deles as regularidades que consideram relevantes para a tarefa e as convertem em um conjunto de regras explícitas que o programa passará a aplicar, uma a uma, aos casos novos que receber",
+        "c": "modelos que trazem de fábrica um repertório de noções lógicas e matemáticas elementares, sobre o qual o treinamento apenas acrescenta informação factual a respeito de assuntos específicos",
+        "e": "modelos cujo desempenho depende da qualidade do hardware em que são executados, sendo a capacidade de processamento, e não o material de treinamento, o que determina o que conseguem fazer"
+      },
+      "explicacao": "Locke nega ideias inatas e descreve a mente como preenchida pela experiência, o que se aproxima de modelos que não partem de regras sobre o mundo e extraem padrões da exposição a grandes volumes de dados. A alternativa em que engenheiros examinam os dados e convertem regularidades em regras é a mais próxima e a que exige a distinção decisiva: ali a regra é formulada por alguém, enquanto no aprendizado de máquina o padrão emerge do próprio material, sem passar por formulação humana. Modelos que já trouxessem noções lógicas de fábrica reproduziriam o inatismo que Locke rejeita. Fazer o desempenho depender do hardware troca a origem do conhecimento por uma condição de execução. E sistemas que operam por regras lógicas explicitamente programadas descrevem a abordagem anterior, contrária à analogia empirista."
+    },
+    "filosofia-sociologia-55": {
+      "alternativas": {
+        "a": "a de que essas narrativas suspendem o juízo moral sobre os personagens, apresentando suas ações como consequência das circunstâncias e deixando ao espectador a tarefa de avaliá-las por conta própria",
+        "e": "a de que a simpatia por personagens marginais decorre da identificação do espectador com quem enfrenta dificuldades materiais, sentimento que a obra mobiliza sem propor com isso uma nova hierarquia de valores"
+      },
+      "explicacao": "A moral dos escravos, em Nietzsche, é uma inversão de valores: o que era fraqueza passa a valer como virtude, e a força e a afirmação da vida passam a valer como vício. É essa recodificação que o diagnóstico permite enxergar em narrativas que fazem do ressentimento diante do sucesso alheio uma posição moralmente superior. Dizer que essas obras suspendem o juízo moral é o desvio mais tentador, porque muitas se apresentam assim: mas a inversão valorativa opera justamente quando parece não haver julgamento. Reduzir a simpatia à identificação com dificuldades materiais descreve um afeto sem tocar na hierarquia de valores, que é o objeto do conceito. Afirmar que essas produções exaltam abertamente os poderosos inverte o sentido da crítica. E a simplificação de conflitos históricos pelo tempo de exibição é limitação de formato, alheia à questão moral."
+    },
+    "filosofia-sociologia-63": {
+      "alternativas": {
+        "d": "a de que a reflexividade leva o profissional a abandonar o planejamento de longo prazo, substituindo-o por decisões tomadas conforme cada oportunidade aparece, sem projeto que atravesse os anos de carreira"
+      },
+      "explicacao": "A reflexividade, em Giddens, é a revisão contínua da própria identidade diante da erosão de referências fixas — e é isso que se vê no profissional que reformula sem parar sua trajetória e sua apresentação, sem carreira estável assegurada. Concluir daí o abandono do planejamento é o erro mais fino: a reflexividade não dispensa projeto, ela obriga a refazê-lo com frequência, e a diferença entre revisar e desistir é o que a questão cobra. Dizer que a identidade se fixa definitivamente na infância contraria o caráter provisório do conceito. Supor trajetórias seguidas passivamente conforme tradições herdadas nega a erosão das referências que ele descreve. E a exigência de certificações atualizadas por empregadores é pressão externa do mercado, distinta do trabalho de revisão que o indivíduo faz sobre si."
+    }
+  }
+}

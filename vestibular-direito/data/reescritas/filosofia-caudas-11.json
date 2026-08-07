@@ -1,0 +1,72 @@
+{
+  "_comentario": [
+    "Lote 11 -- último de filosofia-sociologia. 88 a 100, quinze distratores.",
+    "Com este lote a frente fecha: 53 de 53 questões sem cauda delatora.",
+    "",
+    "Aqui aparece a forma mais autodestrutiva de todas, em 93(b): o distrator diz",
+    "que 'uma teoria científica é aquela capaz de explicar absolutamente qualquer",
+    "fenômeno' e completa com 'quando é justamente essa capacidade de explicar tudo",
+    "que torna uma teoria não falseável e, por isso, não científica'. A alternativa",
+    "errada carrega o enunciado da resposta certa. Quem lê só ela já sabe o gabarito",
+    "das outras quatro.",
+    "",
+    "As versões novas cobram o que a questão devia cobrar. Em 93, a teoria",
+    "considerada não científica por não ter previsto nada de novo -- que é um",
+    "critério real, o do progresso científico, e não o de Popper, que é a",
+    "possibilidade lógica de refutação. Em 90, a reforma legitimada por maioria",
+    "parlamentar eleita, que é o argumento efetivamente usado e que Rousseau recusa",
+    "porque o governo executa a soberania sem possuí-la. Em 100, o ativismo digital",
+    "defendido como forma legítima de participação para quem não pode se deslocar --",
+    "objeção justa, e que não responde ao ponto aristotélico sobre a convivência",
+    "como constitutiva."
+  ],
+  "subtopic": "filosofia-sociologia",
+  "questoes": {
+    "filosofia-sociologia-88": {
+      "alternativas": {
+        "a": "a de que rankings de renda deveriam incorporar o volume de bens e serviços que cada país produz por ano, medida que, por incluir serviços e bens duráveis, refletiria melhor a capacidade de cada país de atender às necessidades básicas de sua população",
+        "b": "a de que o desenvolvimento se mede pela taxa de crescimento da economia ao longo do tempo, indicador que revelaria a trajetória de um país melhor do que a fotografia da renda média em um único ano"
+      },
+      "explicacao": "A abordagem das capacidades avalia o desenvolvimento pela liberdade real de as pessoas realizarem o que valorizam, e por isso rankings de renda média podem esconder diferenças decisivas de acesso a saúde, educação e participação política. Trocar a renda pelo volume de bens produzidos permanece dentro da medida material que Sen quer superar. Substituí-la pela taxa de crescimento melhora a leitura da trajetória e continua sendo indicador econômico, sem dizer nada sobre o que as pessoas conseguem efetivamente fazer. Afirmar que a renda per capita já captura as capacidades reais nega a lacuna que motiva toda a proposta. E a diversidade de metodologias entre rankings é problema de comparabilidade técnica, distinto de qual dimensão do desenvolvimento se está medindo."
+    },
+    "filosofia-sociologia-89": {
+      "alternativas": {
+        "b": "a ideia de que a paz se sustenta quando cada Estado mantém força militar suficiente para dissuadir agressões, cabendo às organizações internacionais apenas registrar os tratados firmados e supervisionar a manutenção desse equilíbrio entre as potências",
+        "d": "a ideia de que a mediação de conflitos exige uma autoridade central com poder de decisão acima dos Estados, capaz de impor suas resoluções sem depender da adesão voluntária de cada país envolvido",
+        "e": "a ideia de que as relações entre povos se regulam melhor por acordos bilaterais firmados caso a caso, sem um corpo de normas comuns que vincule previamente os Estados signatários"
+      },
+      "explicacao": "Em À Paz Perpétua a paz duradoura vem de repúblicas reunidas em federação, sob regras comuns e um direito cosmopolita mínimo — princípio que está por trás de organizações criadas para mediar conflitos por cooperação em vez de força. A exigência de uma autoridade central capaz de impor decisões acima dos Estados é o desvio mais fino: Kant propõe federação de repúblicas livres, não um poder soberano mundial, e é essa diferença que a questão cobra. A dissuasão por força militar própria contraria diretamente sua rejeição aos exércitos permanentes. Preferir acordos bilaterais sem normas comuns dispensa o direito cosmopolita que ele considera indispensável. E o equilíbrio militar entre potências rivais é a lógica anterior, que a proposta kantiana pretende substituir."
+    },
+    "filosofia-sociologia-90": {
+      "alternativas": {
+        "b": "a defesa de que reformas de grande alcance se legitimam pela maioria parlamentar obtida nas urnas, já que a eleição transfere aos representantes, por prazo determinado, a autoridade para decidir em nome de quem os elegeu, inclusive sobre matéria constitucional",
+        "c": "a defesa de que o critério decisivo é a proteção da propriedade privada e dos contratos já firmados, cabendo à Constituição assegurar que reformas não alterem direitos patrimoniais adquiridos"
+      },
+      "explicacao": "Os contratualistas divergem sobre onde reside a legitimidade, e é de Rousseau que vem o argumento mais forte no debate constitucional: a soberania é do corpo político e o governo apenas a executa, de modo que decisões de grande impacto precisam permanecer ancoradas na vontade coletiva que as autorizou. A legitimação pela maioria parlamentar é a alternativa mais tentadora e a que exige a distinção central: a eleição autoriza governar, mas para Rousseau não transfere a soberania, que é inalienável. Reduzir o critério à proteção da propriedade e dos contratos aproxima-se de Locke e ainda assim o simplifica, já que ele condiciona o poder ao consentimento dos governados. Dizer que não há fundamento contratualista aplicável ignora que os três seguem sendo referência corrente. E aprovar reformas por maioria simples é regra de procedimento, que não responde de onde vem a legitimidade."
+    },
+    "filosofia-sociologia-91": {
+      "alternativas": {
+        "b": "a de que o ensino a distância dificulta a construção do vínculo pessoal entre professor e turma, tornando mais difícil identificar quem precisa de apoio antes que a defasagem se acumule ao longo do curso",
+        "d": "a de que a educação bancária forma estudantes com bom domínio de conteúdo factual e pouca familiaridade com o debate, o que se corrigiria acrescentando aulas de argumentação ao currículo já existente",
+        "e": "a de que esse formato deixa o estudante inteiramente por conta própria, sem mediação do professor, invertendo a relação pedagógica ao transferir a ele a responsabilidade integral por organizar o próprio percurso, escolher a ordem dos assuntos e julgar quando aprendeu o suficiente"
+      },
+      "explicacao": "A educação bancária, para Freire, trata o educando como recipiente em que se depositam conteúdos prontos, e é essa lógica que videoaulas gravadas com questionários de múltipla escolha podem reproduzir, por não abrirem o diálogo problematizador que ele considera essencial. Dizer que o formato deixa o estudante por conta própria sem mediação descreve o problema oposto: na educação bancária o professor está muito presente, como quem deposita, e o que falta é o diálogo, não a presença. Tratar a falha como ausência de aulas de argumentação a ser acrescentadas ao currículo mantém intacta a relação que Freire critica. A dificuldade de construir vínculo é uma limitação real da modalidade, mas não é a crítica que este conceito sustenta. E a dificuldade de avaliar o progresso individual é problema de método de avaliação, de outra ordem."
+    },
+    "filosofia-sociologia-93": {
+      "alternativas": {
+        "a": "o de que uma teoria perde credibilidade científica quando circula sobretudo fora dos canais acadêmicos, sem passar pela avaliação de pares que a comunidade científica adota para validar novos resultados",
+        "b": "o de que uma teoria deixa de ser científica quando não produziu nenhuma previsão nova ao longo do tempo, limitando-se a reinterpretar à sua luz fatos que já eram conhecidos antes de sua formulação, sem indicar nenhum fenômeno inédito que se pudesse ir verificar em campo ou em laboratório",
+        "c": "o de que teorias formuladas sem apoio em dados quantitativos não podem ser consideradas científicas, por não permitirem que outros pesquisadores reproduzam os resultados e cheguem às mesmas conclusões"
+      },
+      "explicacao": "A falseabilidade exige que uma teoria admita, em princípio, alguma observação capaz de refutá-la — e teorias construídas para explicar qualquer resultado, favorável ou desfavorável, como confirmação de si mesmas não podem ser testadas e por isso não passam pelo critério. A ausência de previsões novas é o distrator que exige a distinção mais fina: é um critério real de avaliação científica, ligado ao progresso de uma teoria, mas não é o de Popper, que trata da possibilidade lógica de refutação e não do histórico de acertos. Exigir apoio em dados quantitativos confunde falseabilidade com método estatístico, quando teorias qualitativas também podem ser refutáveis. Fazer a cientificidade depender do canal de circulação a transfere para a sociologia da comunidade acadêmica. E a fragilidade de amostras pequenas é problema estatístico, que não decide se a teoria é refutável."
+    },
+    "filosofia-sociologia-100": {
+      "alternativas": {
+        "b": "a de que a participação digital é a forma legítima de exercício cívico para quem não tem condições de se deslocar ou de dedicar tempo a reuniões, ampliando o alcance da vida política em vez de reduzi-lo, ao trazer para o debate público quem antes ficava de fora dele por falta de tempo ou de mobilidade",
+        "d": "a de que a política é uma atividade que exige conhecimento técnico sobre legislação e orçamento, cabendo aos cidadãos escolher representantes preparados e acompanhar de longe as decisões que eles tomam",
+        "e": "a de que a plena realização da natureza humana depende da vida contemplativa dedicada ao conhecimento, sendo a participação na comunidade política um meio para alcançar esse fim mais elevado"
+      },
+      "explicacao": "Definir o ser humano como animal político significa, em Aristóteles, que a convivência na comunidade é constitutiva de sua natureza, e não um acessório dela — por isso curtir e compartilhar, isolado de envolvimento na vida comum, pode não realizar essa dimensão. A defesa do ativismo digital como forma legítima de participação para quem não pode se deslocar é a objeção mais justa e a que exige a distinção decisiva: ela responde a uma questão de acesso, e o argumento aristotélico é sobre o que a convivência efetiva realiza, não sobre quem consegue comparecer. Tratar a política como atividade de especialistas a ser acompanhada de longe contraria a natureza política atribuída a cada cidadão. Subordinar a vida política à vida contemplativa como simples meio desfaz o caráter constitutivo em jogo. E a exigência de competências digitais é barreira de acesso à ferramenta, não uma tese sobre a natureza humana."
+    }
+  }
+}

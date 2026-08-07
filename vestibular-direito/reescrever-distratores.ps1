@@ -79,7 +79,39 @@ $LETRA_RX = '\(\s*[a-e]\s*\)|\b(alternativa|alternativas|letra|letras|opção|op
 
 # As caudas que este script existe para eliminar. Se o texto NOVO ainda tiver
 # uma, o lote não cumpriu seu propósito e é melhor falhar do que gravar.
-$CAUDA_RX = 'inexistente (à|na|nos|no) época|tecnologia então|mídia tecnologicamente inexistente|então completamente inexistente|é um traço definidor d|atribuído tradicionalmente a|já bastaria|basta para relacion|independentemente de haver|equivocad|indevid|hipótese que (ignora|desconsidera)|inversão que|generalização que (ignora|contraria)|que contraria (justamente|frontalmente|a tese|a própria|o sentido)|categoria inexistente|classificação oposta|tendência oposta'
+# --- o padrão foi reescrito por ESTRUTURA, e não por lista de frases ------
+#
+# A primeira versão era uma lista de frases que eu tinha visto, e por isso falhou
+# quatro vezes seguidas nesta campanha: deixou passar "a previsão, por X", depois
+# "traço definidor TRADICIONALMENTE atribuído", depois as formas em gerúndio
+# ("contrariando a tese de Beauvoir") e por fim toda a família
+# "afirmação que ignora / generalização que contraria / leitura que desconsidera".
+# Por causa disso eu anunciei artes-cultura e filosofia-sociologia como fechadas
+# em 0 de 400 quando ainda havia 6 e 17 caudas nelas -- em alternativas vizinhas
+# das que eu tinha corrigido, dentro das MESMAS questões.
+#
+# A cauda não é uma frase, é uma ESTRUTURA: substantivo de julgamento sobre a
+# própria alternativa (afirmação, leitura, generalização, hipótese, inversão...)
+# seguido de oração que explica por que ela está errada (que ignora, que
+# contraria, que desconsidera...). Ou a mesma coisa em gerúndio. Descrevendo a
+# estrutura em vez de catalogar frases, variações de ordem e de vocabulário param
+# de escapar.
+#
+# O que NÃO entra: 'indevid' e 'posição' soltos. Em gramatica "vírgula indevida"
+# e "posição do pronome" são vocabulário da matéria, não cauda -- foi o que
+# inflava a contagem daquela frente de 89 para 103. Exigir a oração relativa
+# resolve: 'posição que dispensa' é cauda, 'posição do pronome' não é.
+$CAUDA_NOUN = '(leitura|hipótese|interpretação|generalização|inversão|equiparação|atribuição|afirmação|suposição|confusão|ambiguidade|exigência|redução|extrapolação|otimismo|extremo|restrição|indistinção|comparação|distinção|posição|prescrição|associação|equívoco|omissão)'
+$CAUDA_RX = "$CAUDA_NOUN[^.;]{0,60}\s+que\s+(ignora|desconsidera|contraria|confunde|inverte|apaga|não|desfaz|dispensa|reduz)" +
+  '|\b(desconsiderando|ignorando|contrariando|confundindo|invertendo|apagando)\b' +
+  # Os adjetivos de julgamento só contam PRECEDIDOS do substantivo, dentro de uma
+  # janela curta: "interpretação equivocada" e "hipótese anacrônica e improvável"
+  # são cauda; "tempo incompatível com jornadas longas" é português comum, e foi
+  # o que fez o padrão anterior acusar filosofia-40 sem motivo.
+  "|$CAUDA_NOUN[^.;]{0,30}(equivocad[ao]|incompatível|implausível|anacrônic[ao]|improvável|inaplicável)\b" +
+  '|já bastaria|basta para relacion|é um traço definidor|atribuíd[ao] tradicionalmente|tradicionalmente atribuíd' +
+  '|a antecipação, p|a previsão, p|inexistente (à|na|no|nos) |tecnologia então|mídia tecnologicamente inexistente' +
+  '|confusão comum|categoria inexistente|classificação oposta|tendência oposta|diametralmente opost|contradição direta'
 
 # As duas réguas do verify-banco.ps1, copiadas daqui de propósito.
 #

@@ -1,0 +1,40 @@
+{
+  "_comentario": [
+    "O Firebase Hosting aqui NAO publica o app. O app mora no GitHub Pages, em",
+    "sagaxedu.com.br (ver .github/workflows/pages.yml e o arquivo CNAME).",
+    "",
+    "Este site existe por um motivo so: servir o handler de autenticacao em",
+    "conta.sagaxedu.com.br/__/auth/handler, para que o popup de login do Google",
+    "mostre um dominio da plataforma em vez de app-fgv-insper.firebaseapp.com.",
+    "O Firebase serve os caminhos /__/* por conta propria, sem precisar de",
+    "conteudo publicado.",
+    "",
+    "A configuracao anterior tinha \"public\": \"vestibular-direito-v2\" com um",
+    "rewrite catch-all para /index.html, e as duas coisas juntas produziram uma",
+    "copia quebrada do app: so a pasta do v2 subia, o banco de questoes mora na",
+    "pasta vizinha (vestibular-direito/data/) e nunca era enviado, e o catch-all",
+    "transformava cada arquivo ausente num 200 servindo index.html. O carregador",
+    "em trilhas.js tem uma guarda no onerror exatamente para nao subir sem dados,",
+    "e o catch-all a anulava: o pedido nao falhava, ele devolvia HTML. O app subia",
+    "achando que carregou, com SUBTOPICS e QUESTION_BANKS indefinidos.",
+    "",
+    "O redirect abaixo cobre apenas \"/\" (nao /**) de proposito: reserva zero",
+    "duvida sobre o /__/auth/*. 302 e nao 301 para nao ficar cacheado para sempre",
+    "no navegador de ninguem, caso este arranjo mude."
+  ],
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "redirects": [
+      {
+        "source": "/",
+        "destination": "https://sagaxedu.com.br/vestibular-direito-v2/",
+        "type": 302
+      }
+    ]
+  }
+}

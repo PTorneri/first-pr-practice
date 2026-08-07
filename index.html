@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>sagax</title>
+<link rel="icon" type="image/png" href="vestibular-direito-v2/assets/favicon.png">
+
+<!-- Porta de entrada de sagaxedu.com.br.
+
+     Por que este arquivo existe: o GitHub Pages publica a raiz do repositório
+     (ver .github/workflows/pages.yml), e a raiz não tinha página nenhuma — o
+     domínio respondia 404. Isso não podia ficar justamente no endereço que dá
+     nome à plataforma.
+
+     É um redirecionamento e não o app em si porque o app mora em
+     /vestibular-direito-v2/ e depende de ler os dados da pasta vizinha
+     (../vestibular-direito/data/). Mover o app para a raiz quebraria esse
+     caminho relativo; enquanto a estrutura for essa, a raiz encaminha.
+
+     Três camadas de propósito: o <meta refresh> funciona sem JavaScript, o
+     location.replace() não deixa lixo no histórico do navegador (com
+     location.href, o botão Voltar cairia aqui e redirecionaria de novo, prendendo
+     a pessoa), e o link visível resolve se as duas primeiras falharem. -->
+<meta http-equiv="refresh" content="0; url=vestibular-direito-v2/">
+<link rel="canonical" href="https://sagaxedu.com.br/vestibular-direito-v2/">
+
+<style>
+  body {
+    margin: 0; min-height: 100vh;
+    display: flex; align-items: center; justify-content: center;
+    background: #0A2540; color: #fff;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    text-align: center; padding: 24px;
+  }
+  .marca { font-size: 2rem; font-weight: 600; letter-spacing: -0.01em; margin: 0 0 4px; }
+  .marca span { color: #F4C142; }
+  p { color: #9fb2c9; font-size: 0.95rem; margin: 0 0 20px; }
+  a { color: #7AA0F5; font-weight: 600; }
+</style>
+</head>
+<body>
+  <div>
+    <p class="marca">saga<span>x</span></p>
+    <p>Levando você ao plano de estudos&hellip;</p>
+    <p><a href="vestibular-direito-v2/">Entrar no app</a></p>
+  </div>
+  <script>location.replace("vestibular-direito-v2/");</script>
+</body>
+</html>

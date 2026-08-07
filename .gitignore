@@ -10,3 +10,6 @@
 # em txt/ sai de `pdftotext -layout -enc UTF-8`.
 vestibular-medicina/provas/
 vestibular-medicina/txt/
+
+# Cache local do deploy do Firebase Hosting (a CLI reescreve a cada `deploy`).
+.firebase/

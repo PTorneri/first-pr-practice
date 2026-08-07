@@ -1,0 +1,56 @@
+{
+  "_comentario": [
+    "Fecha artes-cultura DE VERDADE: as quatro que os meus dois padrões deixaram",
+    "passar -- 36(e), 75(a), 88(b), 98(c).",
+    "",
+    "Ambos exigiam 'é um traço definidor d' com o 'd' do 'de' logo depois, e estas",
+    "quatro escrevem 'é um traço definidor TRADICIONALMENTE atribuído a' ou 'é",
+    "atribuído tradicionalmente a'. Mesma cauda, ordem de palavras diferente, e o",
+    "regex não pegou nenhuma.",
+    "",
+    "Quem encontrou foi a conferência pelo navegador, com um padrão escrito de novo em",
+    "JavaScript em vez de copiado do da varredura. É a segunda vez nesta campanha que",
+    "a régua deixa passar por detalhe de forma -- a primeira foram as variantes 'a",
+    "previsão, por X'. A lição prática: escrever o padrão de verificação DUAS vezes,",
+    "de memória e separadamente, encontra o que uma única versão dele esconde.",
+    "",
+    "As quatro são todas do tipo atribuição, e as substituições seguem o critério do",
+    "resto da campanha -- afirmação sustentável que ainda assim não responde:",
+    "",
+    "  36  o jogo que registra as escolhas do jogador em estatística ao final, que dá",
+    "      retorno sobre a decisão sem que ela altere o curso da história.",
+    "  75  a Bienal como espaço de formação de público, que é função real dela e não",
+    "      o projeto de inserção internacional.",
+    "  88  a presença do samba em escolas de música e universidades, que é legitimação",
+    "      acadêmica e não a permanência do racismo apesar da consagração.",
+    "  98  a graphic novel vendida em livrarias ao lado da literatura, que é mudança de",
+    "      circuito comercial e não o alcance temático que a questão pede."
+  ],
+  "subtopic": "artes-cultura",
+  "questoes": {
+    "artes-cultura-36": {
+      "alternativas": {
+        "e": "registra em estatística, ao final da partida, as escolhas feitas pelo jogador e as compara às da maioria dos demais, oferecendo retorno sobre a decisão tomada sem que ela altere o curso da história contada"
+      },
+      "explicacao": "A interatividade narrativa é uma inovação estética porque as decisões do jogador alteram o curso da história, colocando-o na posição de coautor da experiência, diferente da fruição mais passiva de outras artes. A escolha entre finais alternativos já escritos é o distrator decisivo: há ramificação, e a coautoria para no momento em que todos os caminhos foram previstos pelo roteiro. O registro estatístico das escolhas ao final da partida devolve informação sobre a decisão sem que o enredo mude, o que é retorno e não coautoria. O uso de controles com resposta tátil aumenta a sensação de presença sem que nada da narrativa mude. E dizer que o controle físico já caracteriza interatividade narrativa ignora a existência de decisões que alterem o enredo."
+    },
+    "artes-cultura-75": {
+      "alternativas": {
+        "a": "o papel da Bienal na formação de público para a arte contemporânea no país, recebendo a cada edição visitantes escolares e primeiros visitantes que têm ali seu contato inicial com linguagens que não circulam fora do evento"
+      },
+      "explicacao": "A Bienal de São Paulo foi criada para inserir o Brasil no circuito internacional, e o que isso abre hoje é a pergunta sobre em que medida artistas e curadores brasileiros conseguem pautar temas próprios nesse circuito, em vez de reproduzir agendas definidas fora. A formação de público para a arte contemporânea é função real do evento e olha para dentro, não para a posição do país no circuito. A vinda de exposições internacionais ao país é intercâmbio no sentido inverso: traz o de fora para dentro, sem tratar de quem define a agenda. A presença em pavilhões nacionais é o distrator mais fino, porque garante representação formal e não equivale a pautar o debate. E dizer que obras de vários países numa mesma exposição já bastam ignora o projeto de inserção."
+    },
+    "artes-cultura-88": {
+      "alternativas": {
+        "b": "a entrada do samba nos currículos de escolas de música e em pesquisas universitárias, que passaram a estudar sua harmonia e sua história com o mesmo instrumental antes reservado à música de concerto"
+      },
+      "explicacao": "A leitura que Sueli Carneiro permite é a do paradoxo: matrizes negras historicamente subalternizadas tornaram-se símbolo central da identidade nacional sem que o racismo estrutural enfrentado por suas comunidades de origem tenha desaparecido. O reconhecimento como patrimônio imaterial é o distrator decisivo, porque registra a consagração oficial de uma prática antes perseguida e para nela, sem alcançar a permanência do racismo apesar dessa consagração. A entrada do samba em escolas de música e na pesquisa universitária é legitimação acadêmica, que corre pela mesma via da consagração. A valorização econômica como produto de exportação trata de renda e de imagem externa. E dizer que instrumentos de percussão já bastam para a relação ignora comunidade e contexto."
+    },
+    "artes-cultura-98": {
+      "alternativas": {
+        "c": "a venda de graphic novels em livrarias, dispostas nas mesmas estantes que a literatura de ficção e não mais em bancas de revista, mudança de circuito que alterou o perfil de quem compra esse tipo de publicação"
+      },
+      "explicacao": "Chamar os quadrinhos de nona arte reconhece a articulação original entre imagem e narrativa, e é nas graphic novels de crítica social, política e memória histórica que essa linguagem se afasta do rótulo de entretenimento infantojuvenil. A venda em livrarias ao lado da literatura de ficção é mudança de circuito comercial e de perfil de comprador, sem tocar no alcance temático que a questão pede. A adoção como material didático legitima os quadrinhos por outra via, a pedagógica, e reforça a associação com o público em formação. A valorização do traço autoral trata da técnica e do estilo. E dizer que balões de fala numa página já caracterizam a nona arte ignora a articulação entre imagem e narrativa."
+    }
+  }
+}

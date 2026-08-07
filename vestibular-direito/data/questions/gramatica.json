@@ -98,14 +98,14 @@
                          "texto_apoio":  "\"O aumento dos juros preocupa investidores. ___, o mercado reagiu com otimismo, contrariando as expectativas.\"",
                          "enunciado":  "Qual conectivo preenche adequadamente a lacuna, estabelecendo relação de oposição entre as duas orações?",
                          "alternativas":  {
-                                              "a":  "Portanto, pois indicaria uma relação de conclusão decorrente da alta dos juros, leitura que desconsidera o contraste explícito entre a preocupação inicial e a reação positiva do mercado.",
-                                              "b":  "Além disso, pois acrescentaria uma informação complementar à ideia anterior, hipótese incompatível com o sentido de contrariedade que o restante do período claramente estabelece.",
+                                              "a":  "Portanto, pois a alta dos juros seria a causa e a reação do mercado, a consequência que dela decorre naturalmente na leitura do período",
+                                              "b":  "Além disso, pois a reação do mercado acrescenta à preocupação dos investidores um segundo dado sobre o mesmo cenário econômico do país",
                                               "c":  "No entanto, pois marca a oposição entre a preocupação dos investidores e a reação otimista do mercado.",
                                               "d":  "Assim, pois estabeleceria relação de modo entre a preocupação dos investidores e o resultado apresentado.",
-                                              "e":  "Por conseguinte, pois expressaria uma consequência lógica da alta de juros, interpretação equivocada, já que não há relação de causa e efeito direta entre os dois fatos apresentados."
+                                              "e":  "Por conseguinte, pois o otimismo do mercado se apresenta como resultado direto do aumento das taxas anunciado na primeira oração"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "\u0027No entanto\u0027 é conectivo adversativo, adequado para marcar a contradição entre a preocupação dos investidores e a reação otimista do mercado. Os demais conectivos indicam conclusão ou adição, incompatíveis com o sentido de oposição.",
+                         "explicacao":  "\u0027No entanto\u0027 é conectivo adversativo, e é o que a lacuna pede: há contraste entre a preocupação dos investidores e a reação otimista do mercado, contraste que o próprio período sinaliza com \u0027contrariando as expectativas\u0027. \u0027Portanto\u0027 e \u0027Por conseguinte\u0027 estabelecem conclusão e consequência, o que exigiria que o otimismo decorresse da alta dos juros — e o texto diz o contrário. \u0027Além disso\u0027 soma informação de mesma orientação, quando as duas orações apontam para direções opostas. E \u0027Assim\u0027 indica modo ou conclusão, também incompatível com a oposição.",
                          "formato":  "direta"
                      },
                      {
@@ -571,12 +571,12 @@
                          "alternativas":  {
                                               "a":  "não deve haver crase, pois \u0027distância\u0027 está determinada pelo adjetivo \u0027pouca\u0027, e não por artigo definido feminino regendo a expressão.",
                                               "b":  "deveria haver crase, pois toda expressão de distância exige o acento grave, independentemente de o substantivo vir determinado por artigo ou por adjetivo.",
-                                              "c":  "a crase é obrigatória porque \u0027distância\u0027 é substantivo feminino, condição que por si só já bastaria para exigir o acento grave nessa expressão.",
+                                              "c":  "a crase é obrigatória, pois \u0027distância\u0027 é substantivo feminino e a preposição \u0027a\u0027 que o antecede se contrai com o artigo feminino que acompanha esse substantivo na expressão",
                                               "d":  "a crase é facultativa, pois o adjetivo \u0027pouca\u0027 não interfere na determinação do substantivo.",
                                               "e":  "a ausência de crase torna a frase incorreta em qualquer contexto, já que expressões de distância sempre exigiriam artigo feminino definido antes do substantivo."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Não há artigo definido feminino determinando \u0027distância\u0027 nessa construção (o adjetivo \u0027pouca\u0027 ocupa essa posição), portanto não se usa crase; a regra de crase em expressões de distância exige a presença do artigo feminino regendo a expressão.",
+                         "explicacao":  "Não há artigo definido feminino determinando \u0027distância\u0027 nessa construção, porque essa posição já está ocupada pelo adjetivo \u0027pouca\u0027, e sem artigo não há o que contrair com a preposição. A regra de crase em expressões de distância exige justamente a presença do artigo feminino regendo a expressão, o que ocorre em \u0027à distância de dois metros\u0027 e não em \u0027a pouca distância\u0027. Dizer que o substantivo feminino por si exige artigo confunde a possibilidade de receber artigo com a obrigação de tê-lo. E as alternativas que tratam a crase como obrigatória em toda expressão de distância generalizam uma regra que depende da determinação do substantivo.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -649,14 +649,14 @@
                          "texto_apoio":  "\"Depois do trabalho, ele foi a casa rapidamente, mas prometeu voltar à casa da avó, no interior, no fim de semana.\"",
                          "enunciado":  "Sobre o uso da crase nas duas ocorrências de \u0027casa\u0027 na frase, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "ambas deveriam receber acento indicativo de crase, pois \u0027casa\u0027 é sempre antecedida de artigo feminino, independentemente de haver ou não especificação, generalização que ignora a distinção entre determinação e indeterminação do substantivo regido.",
+                                              "a":  "ambas deveriam receber acento indicativo de crase, pois em ambas o substantivo \u0027casa\u0027 vem regido pela preposição \u0027a\u0027 e antecedido do artigo feminino que o acompanha por ser palavra de gênero feminino",
                                               "b":  "nenhuma das duas ocorrências deveria levar crase, em nenhuma hipótese, já que \u0027casa\u0027 rejeitaria artigo definido mesmo quando acompanhada de complemento, afirmação incorreta, pois a especificação é justamente o que autoriza o artigo feminino.",
                                               "c":  "a primeira ocorrência (\u0027a casa\u0027, sem especificação, sentido de lar) está correta sem crase; a segunda (\u0027à casa da avó\u0027, casa especificada e determinada) exige crase, também corretamente empregada.",
-                                              "d":  "a primeira ocorrência deveria ter crase, e a segunda não deveria, invertendo a regra apresentada e o critério de especificação do substantivo \u0027casa\u0027, inversão que contraria o critério corretamente aplicado na análise da alternativa correta.",
+                                              "d":  "a primeira ocorrência deveria ter crase, por indicar deslocamento até um lugar determinado, e a segunda não, por trazer \u0027casa\u0027 no sentido genérico de moradia que dispensa o artigo antes dela",
                                               "e":  "a crase é facultativa nas duas ocorrências, já que \u0027casa\u0027 admite tanto o sentido genérico quanto o específico."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Quando \u0027casa\u0027 tem sentido de lar próprio, sem especificação, não é precedida de artigo, logo não há crase (\u0027foi a casa\u0027); quando é especificada e determinada por um complemento (\u0027a casa da avó\u0027), passa a ser regida por artigo, admitindo crase (\u0027à casa da avó\u0027).",
+                         "explicacao":  "Quando \u0027casa\u0027 aparece sem especificação, no sentido de lar próprio, não vem precedida de artigo, e por isso não há crase em \u0027foi a casa\u0027. Quando é especificada por um complemento, como em \u0027a casa da avó\u0027, passa a ser regida por artigo e admite a crase, que o texto emprega corretamente. Exigir crase nas duas ocorrências trata o gênero feminino como se bastasse para impor o artigo, quando o que decide é a determinação. E inverter as duas — crase na primeira e não na segunda — troca exatamente o critério: é a especificação que autoriza o artigo, e ela está na segunda ocorrência, não na primeira.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -848,14 +848,14 @@
                          "texto_apoio":  "\"Os alunos que entregaram o trabalho no prazo receberam pontuação extra; os alunos, que em sua maioria participam do projeto de extensão, também elogiaram a nova metodologia de avaliação.\"",
                          "enunciado":  "Sobre a diferença entre as duas orações iniciadas por \u0027que\u0027 na frase, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "nenhuma das duas orações exerce função adjetiva dentro do período, comportando-se ambas como orações substantivas subordinadas ao verbo da oração principal, sem qualquer valor de qualificação do antecedente, leitura incompatível com a estrutura sintática apresentada.",
+                                              "a":  "nenhuma das duas orações exerce função adjetiva no período, comportando-se ambas como orações substantivas, uma vez que completam o sentido do verbo da oração principal em lugar de qualificar um antecedente",
                                               "b":  "a primeira (\u0027que entregaram o trabalho no prazo\u0027) é oração restritiva, sem vírgula, pois delimita quais alunos são mencionados; a segunda, isolada por vírgulas, é explicativa e acrescenta uma informação adicional sobre todos os alunos já identificados.",
                                               "c":  "a primeira é oração substantiva subjetiva e a segunda, adverbial consecutiva, o que exige vírgula apenas na segunda.",
-                                              "d":  "a primeira deveria ser isolada por vírgulas, e a segunda não deveria ter vírgula alguma, invertendo por completo o critério de restritividade que distingue as duas orações adjetivas do período, critério corretamente seguido no texto original.",
+                                              "d":  "a primeira oração deveria ser isolada por vírgulas, por trazer informação já conhecida sobre os alunos, e a segunda deveria dispensá-las, por delimitar de quais alunos se fala no restante do período",
                                               "e":  "ambas exercem exatamente a mesma função sintática e poderiam ser reescritas de forma idêntica, já que a vírgula seria apenas um recurso estilístico sem valor semântico diferenciador, simplificação que desconsidera a diferença entre restrição e explicação."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A oração sem vírgula (\u0027que entregaram o trabalho no prazo\u0027) restringe o universo de alunos mencionados; já a oração isolada por vírgulas (\u0027que em sua maioria participam do projeto\u0027) apenas acrescenta uma informação sobre o grupo total de \u0027os alunos\u0027, já plenamente identificado, caracterizando o uso explicativo.",
+                         "explicacao":  "A oração sem vírgula, \u0027que entregaram o trabalho no prazo\u0027, restringe o universo de alunos mencionados: só aqueles receberam pontuação extra. A oração isolada por vírgulas, \u0027que em sua maioria participam do projeto\u0027, acrescenta informação sobre o grupo já plenamente identificado, e é isso que caracteriza o uso explicativo. Classificar as duas como substantivas ignora que ambas se ligam a um antecedente nominal, \u0027os alunos\u0027, e não completam o verbo. Trocar a pontuação entre elas inverte o critério da restritividade, porque quem delimita é a primeira. Dizer que as duas têm a mesma função e que a vírgula seria estilística apaga a diferença entre restringir e explicar, que é o que a pontuação registra.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -928,12 +928,12 @@
                          "alternativas":  {
                                               "a":  "o verbo deveria ficar no singular apenas se o coletivo viesse desacompanhado de adjunto especificador.",
                                               "b":  "a frase está incorreta e deveria ser reescrita como \u0027as equipes de plantão discordaram\u0027, flexionando também o substantivo coletivo no plural para concordar com o verbo no plural, alteração desnecessária, pois o coletivo permanece singular independentemente do número de equipes mencionadas.",
-                                              "c":  "o verbo deveria concordar no plural, com \u0027funcionários\u0027, mesmo em outra oração do período, em uma leitura equivocada da estrutura sintática do período composto (erro comum entre falantes menos atentos à concordância).",
+                                              "c":  "o verbo deveria ir para o plural, concordando com \u0027funcionários\u0027, substantivo plural que aparece mais próximo dele no período e que por isso atrairia a flexão verbal para o plural",
                                               "d":  "o verbo \u0027discordou\u0027 concorda corretamente no singular com o núcleo do sujeito, \u0027a equipe\u0027, substantivo coletivo que não admite concordância por atração nesse caso, pois o adjunto \u0027de plantão\u0027 não é um substantivo plural que o anteceda diretamente.",
                                               "e":  "não é possível determinar a concordância verbal correta nesse tipo de estrutura, já que substantivos coletivos admitiriam qualquer flexão de número conforme o gosto do redator, afirmação incorreta, pois a norma estabelece critério objetivo para essa concordância."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Substantivos coletivos como \u0027equipe\u0027 concordam no singular quando não seguidos de um substantivo plural que justifique a concordância por atração (como ocorre em \u0027a maioria dos entrevistados\u0027); \u0027de plantão\u0027 não é o mesmo tipo de estrutura partitiva, por isso o verbo permanece corretamente no singular.",
+                         "explicacao":  "\u0027Equipe\u0027 é substantivo coletivo e núcleo do sujeito, e o verbo concorda com ele no singular. A concordância por atração ocorre em estruturas partitivas, do tipo \u0027a maioria dos entrevistados\u0027, em que um substantivo plural integra o próprio sujeito; \u0027de plantão\u0027 não é estrutura desse tipo, e por isso não há o que atrair. Puxar a flexão para \u0027funcionários\u0027 é o erro que a questão quer pegar: aquele substantivo está em outra oração do período e não compõe este sujeito. Flexionar o coletivo para \u0027as equipes\u0027 altera o texto sem necessidade. E dizer que coletivos admitem qualquer flexão conforme o gosto de quem escreve ignora que a norma fixa critério para o caso.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -972,14 +972,14 @@
                          "texto_apoio":  "\"Aquele imprevisto custou caro à empresa, que precisou renegociar prazos com todos os fornecedores envolvidos no projeto.\"",
                          "enunciado":  "Sobre a regência do verbo \u0027custar\u0027 no sentido de \u0027ser difícil, acarretar prejuízo\u0027, é correto afirmar que",
                          "alternativas":  {
-                                              "a":  "está incorreta; deveria ser \u0027custou a empresa\u0027, sem a preposição \u0027a\u0027, tratando o complemento de pessoa como objeto direto do verbo, interpretação equivocada que ignoraria a natureza intransitiva direta desse verbo nessa acepção semântica específica.",
-                                              "b":  "está incorreta porque \u0027custar\u0027 deveria ser regido pela preposição \u0027de\u0027, assim como ocorre com verbos que indicam origem ou procedência, confusão comum com verbos que indicam proveniência, como \u0027decorrer de\u0027 ou \u0027advir de\u0027, inaplicável a \u0027custar\u0027 nesse sentido.",
+                                              "a":  "está incorreta; deveria ser \u0027custou a empresa\u0027, sem preposição, porque nessa acepção \u0027custar\u0027 pede complemento direto, do mesmo modo que ocorre com \u0027prejudicar\u0027 e \u0027lesar\u0027 em construções equivalentes",
+                                              "b":  "está incorreta porque \u0027custar\u0027 deveria ser regido pela preposição \u0027de\u0027 nessa acepção, assim como se dá em verbos que indicam origem ou procedência do prejuízo sofrido por alguém em determinada situação",
                                               "c":  "está correta apenas se \u0027custar\u0027 for entendido no sentido de \u0027ter determinado preço\u0027, acepção incompatível com a ideia de prejuízo da frase, ambiguidade que a norma culta resolveria sempre a favor do sentido de prejuízo quando o contexto financeiro estiver explícito.",
                                               "d":  "está incorreta; nesse sentido, \u0027custar\u0027 é transitivo direto e não admite preposição alguma antes do complemento.",
                                               "e":  "está correta; nesse sentido, \u0027custar\u0027 é transitivo indireto, tendo como sujeito a coisa que custa e como objeto indireto, regido pela preposição \u0027a\u0027, a pessoa ou entidade prejudicada."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "No sentido de \u0027ser difícil, acarretar\u0027, o verbo \u0027custar\u0027 é transitivo indireto: o sujeito é o que causa o custo (\u0027aquele imprevisto\u0027) e o complemento, regido pela preposição \u0027a\u0027, é quem sofre a consequência (\u0027à empresa\u0027), estrutura corretamente empregada na frase.",
+                         "explicacao":  "No sentido de acarretar prejuízo, \u0027custar\u0027 é transitivo indireto: o sujeito é a coisa que custa, aqui \u0027aquele imprevisto\u0027, e o complemento, regido pela preposição \u0027a\u0027, é quem sofre a consequência, \u0027à empresa\u0027. Tratá-lo como transitivo direto, por analogia com \u0027prejudicar\u0027, é o erro mais compreensível, porque o sentido é próximo e a regência não é. Atribuir-lhe a preposição \u0027de\u0027 o confunde com verbos de procedência, como \u0027decorrer\u0027 e \u0027advir\u0027. Restringir a construção correta à acepção de ter determinado preço ignora que é justamente no sentido de prejuízo que essa regência se aplica. E dizer que o verbo não admite preposição alguma repete o mesmo equívoco da transitividade direta.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -1021,13 +1021,13 @@
                          "enunciado":  "Sobre a regência do verbo \u0027querer\u0027 nas duas ocorrências da frase, é correto afirmar que",
                          "alternativas":  {
                                               "a":  "estão corretas, mas por outra razão: \u0027querer\u0027 é sempre transitivo direto, e a preposição da segunda é de realce.",
-                                              "b":  "a primeira ocorrência está incorreta; deveria ser \u0027quero muito bem a minha avó\u0027, sem crase, já que \u0027querer bem\u0027 dispensaria completamente o artigo feminino nessa construção, inversão que contraria a regência tradicionalmente consolidada nesse sentido do verbo.",
-                                              "c":  "ambas as ocorrências deveriam ser regidas pela mesma preposição, já que se trata do mesmo verbo em qualquer sentido, sem distinção semântica relevante, afirmação equivocada, pois o verbo muda de regência conforme a acepção empregada em cada oração.",
-                                              "d":  "a segunda ocorrência está incorreta e deveria ser regida pela preposição \u0027de\u0027, assim como ocorreria em outros verbos de desejo e vontade nessa mesma acepção semântica, suposição que desconsidera a distinção entre afeto e simples desejo nesse verbo polissêmico.",
+                                              "b":  "a primeira ocorrência está incorreta; deveria ser \u0027quero muito bem minha avó\u0027, sem preposição, porque \u0027querer bem\u0027 forma locução verbal de sentido único e passa a reger complemento direto, como se dá nos verbos transitivos diretos",
+                                              "c":  "ambas as ocorrências deveriam ser regidas pela preposição \u0027a\u0027, uma vez que se trata do mesmo verbo e a regência de um verbo se fixa por sua forma, e não pela acepção com que aparece em cada oração do período",
+                                              "d":  "a segunda ocorrência está incorreta e deveria ser regida pela preposição \u0027de\u0027, como se dá nos verbos que expressam vontade e carência, do tipo \u0027necessitar de\u0027 e \u0027carecer de\u0027, aos quais \u0027querer\u0027 se aproxima nesse sentido",
                                               "e":  "estão corretas: no sentido de \u0027estimar, ter afeto\u0027, \u0027querer\u0027 é transitivo indireto e exige a preposição \u0027a\u0027 (\u0027querer bem à avó\u0027); no sentido de \u0027desejar\u0027, é transitivo direto, sem preposição (\u0027queira uma ligação\u0027)."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O verbo \u0027querer\u0027 muda de regência conforme o sentido: \u0027querer bem/mal a alguém\u0027 (estimar) é transitivo indireto com a preposição \u0027a\u0027; já no sentido de \u0027desejar algo\u0027, é transitivo direto, sem preposição, distinção corretamente empregada na frase.",
+                         "explicacao":  "\u0027Querer\u0027 muda de regência conforme o sentido: no de estimar, aparece como transitivo indireto e exige a preposição \u0027a\u0027, o que autoriza \u0027quero bem à minha avó\u0027; no de desejar algo, é transitivo direto e dispensa preposição, como em \u0027queira uma ligação\u0027. Tratar \u0027querer bem\u0027 como locução de complemento direto desfaz justamente a regência que o sentido afetivo pede. Fixar a regência pela forma do verbo, e não pela acepção, ignora que a polissemia é o que está sendo testado. Aproximá-lo de \u0027necessitar de\u0027 e \u0027carecer de\u0027 transporta para ele a regência de outro grupo de verbos. E dizer que \u0027querer\u0027 é sempre transitivo direto, com a preposição servindo de realce, apaga a diferença entre os dois empregos da frase.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -1069,13 +1069,13 @@
                          "enunciado":  "Sobre a concordância verbal na oração \u0027ainda não se sabe quando...\u0027, é correto afirmar que",
                          "alternativas":  {
                                               "a":  "está correta, mas apenas porque a partícula \u0027se\u0027 indetermina o sujeito, o que dispensa concordância.",
-                                              "b":  "está incorreta porque falta um sujeito explícito antes do verbo \u0027sabe\u0027, exigência sintática que toda oração principal deveria cumprir, desconsiderando a existência do sujeito oracional formado pela oração subordinada seguinte.",
-                                              "c":  "está incorreta, pois o verbo \u0027saber\u0027 deveria concordar no plural com \u0027prédio\u0027 e \u0027escola\u0027, substantivos que comporiam um sujeito composto, leitura que ignora que ambos pertencem a uma oração subordinada, não ao sujeito da principal.",
+                                              "b":  "está incorreta porque falta um sujeito explícito antes do verbo \u0027sabe\u0027, uma vez que a oração principal de um período composto precisa trazer o sujeito enunciado antes da forma verbal a que se refere",
+                                              "c":  "está incorreta, pois o verbo \u0027saber\u0027 deveria ir para o plural, concordando com \u0027prédio\u0027 e \u0027escola\u0027, substantivos que aparecem em sequência e formam o sujeito composto do período",
                                               "d":  "está correta; quando o sujeito da oração é a própria oração subordinada seguinte (\u0027quando o novo prédio ficará pronto\u0027), o verbo permanece na terceira pessoa do singular.",
-                                              "e":  "está correta apenas porque a frase contém a partícula apassivadora \u0027se\u0027, elemento que dispensaria qualquer sujeito oracional explícito, leitura que confunde o \u0027se\u0027 apassivador com o índice de indeterminação do sujeito."
+                                              "e":  "está correta porque o \u0027se\u0027 funciona como índice de indeterminação do sujeito, de modo que não há a quem atribuir a ação de saber e o verbo permanece na terceira pessoa do singular"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Quando o sujeito de uma oração é constituído por outra oração (\u0027quando o prédio ficará pronto\u0027), diz-se que há sujeito oracional, e o verbo da oração principal permanece na terceira pessoa do singular, como ocorre corretamente em \u0027não se sabe\u0027.",
+                         "explicacao":  "O sujeito de \u0027não se sabe\u0027 é a própria oração seguinte, \u0027quando o novo prédio ficará pronto\u0027: há sujeito oracional, e por isso o verbo da principal fica na terceira pessoa do singular. Ler o \u0027se\u0027 como índice de indeterminação é a análise errada mais frequente nessa estrutura, e chega ao mesmo resultado por caminho errado — ali o \u0027se\u0027 é apassivador, e o sujeito existe, apenas não é um nome. Exigir sujeito enunciado antes do verbo desconhece que o sujeito pode vir depois e sob forma de oração. Somar \u0027prédio\u0027 e \u0027escola\u0027 num sujeito composto ignora que ambos estão dentro da subordinada, não na principal. E dizer que a indeterminação dispensa concordância inverte a ordem das coisas: é a concordância que revela a análise, não o contrário.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -1152,10 +1152,10 @@
                                               "b":  "a primeira ocorrência está incorreta; deveria ser \u0027aspirava um cargo\u0027, sem preposição, tratando o cargo pretendido como objeto direto do verbo nessa construção, confusão com a regência do sentido físico de \u0027inalar\u0027 o ar.",
                                               "c":  "ambas as ocorrências deveriam ser regidas da mesma forma, já que se trata do mesmo verbo em qualquer sentido, sem distinção entre pretender e respirar, tratando-o como verbo de regência fixa.",
                                               "d":  "estão corretas: no sentido de \u0027pretender, desejar\u0027, \u0027aspirar\u0027 é transitivo indireto e exige a preposição \u0027a\u0027 (\u0027aspirava a um cargo\u0027); no sentido de \u0027respirar, inalar\u0027, é transitivo direto, sem preposição (\u0027aspirar o ar\u0027).",
-                                              "e":  "a segunda ocorrência está incorreta e deveria ser regida pela preposição \u0027a\u0027, assim como ocorre no sentido de pretender ou almejar algo importante na vida profissional, confusão que ignora o sentido físico de \u0027respirar\u0027 nesse segundo emprego do verbo."
+                                              "e":  "a segunda ocorrência está incorreta e deveria ser \u0027aspirar ao ar da sala\u0027, com a preposição \u0027a\u0027, porque a regência de um verbo se mantém constante em seus diferentes empregos e a primeira ocorrência da frase já fixou essa preposição para o verbo"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O verbo \u0027aspirar\u0027 muda de regência conforme o sentido: \u0027aspirar a algo\u0027 (pretender) é transitivo indireto com a preposição \u0027a\u0027; \u0027aspirar algo\u0027 (respirar, inalar) é transitivo direto, sem preposição, distinção corretamente empregada na frase.",
+                         "explicacao":  "\u0027Aspirar\u0027 tem duas regências conforme o sentido: no de pretender, é transitivo indireto e pede a preposição \u0027a\u0027, como em \u0027aspirava a um cargo\u0027; no de inalar, é transitivo direto e dispensa preposição, como em \u0027aspirar o ar\u0027. Estender a preposição ao segundo emprego, por supor que a regência de um verbo se mantenha constante, é a generalização que a questão testa — e é justamente a variação que está em jogo. Retirar a preposição da primeira ocorrência aplica ao sentido de pretender a regência do sentido físico. Tratar as duas do mesmo modo apaga a distinção entre pretender e respirar. E dizer que \u0027aspirar\u0027 é sempre transitivo indireto, com elipse na primeira, inverte qual das duas dispensa a preposição.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -1165,13 +1165,13 @@
                          "enunciado":  "A retomada de \u0027o relatório\u0027 por \u0027o documento\u0027 na segunda frase evidencia um recurso de coesão baseado em",
                          "alternativas":  {
                                               "a":  "anáfora pronominal, pois \u0027o documento\u0027 funciona como pronome que retoma o antecedente.",
-                                              "b":  "ambiguidade referencial, já que não é possível saber a que \u0027o documento\u0027 se refere, havendo mais de um antecedente possível no texto.",
+                                              "b":  "substituição por hiperônimo, uma vez que \u0027documento\u0027 nomeia a categoria mais ampla a que o relatório pertence e a retomada se faz por um termo de sentido mais genérico do que o antecedente",
                                               "c":  "substituição por sinônimo, que evita a repetição do termo original mantendo a referência ao mesmo elemento textual.",
                                               "d":  "elipse total do termo antecedente, sem qualquer retomada explícita, recurso que omitiria completamente a referência ao relatório citado.",
                                               "e":  "repetição viciosa, que compromete a clareza do texto por reiterar desnecessariamente o mesmo termo já mencionado na frase anterior."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "\u0027O documento\u0027 é usado como sinônimo contextual de \u0027o relatório\u0027, evitando a repetição do mesmo substantivo e mantendo a coesão referencial de forma clara, sem gerar ambiguidade nem caracterizar repetição viciosa.",
+                         "explicacao":  "\u0027O documento\u0027 retoma \u0027o relatório\u0027 por um termo de sentido equivalente no contexto, o que evita a repetição e mantém a referência ao mesmo elemento: é substituição por sinônimo. A leitura como hiperônimo é a mais fina do conjunto, porque \u0027documento\u0027 é de fato categoria mais ampla que \u0027relatório\u0027 — mas aqui os dois designam o mesmo objeto e funcionam como equivalentes, e é a equivalência que o texto explora. Chamar \u0027o documento\u0027 de anáfora pronominal atribui a um substantivo a função de pronome. Falar de elipse total contraria o fato de haver retomada explícita. E classificar como repetição viciosa descreve o oposto do que ocorre, já que o termo justamente não se repete.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -1182,12 +1182,12 @@
                          "alternativas":  {
                                               "a":  "\u0027um e outro\u0027 admite as duas concordâncias, mas \u0027nem um nem outro\u0027 exige obrigatoriamente o plural.",
                                               "b":  "\u0027um e outro apresentaram\u0027 está correta no plural, pois a expressão indica dois elementos somados; já \u0027nem um nem outro conseguiu\u0027 está correta no singular, padrão preferencial para sujeitos com essa expressão de exclusão.",
-                                              "c":  "ambas as construções deveriam estar no singular, sem exceção, tratando as duas expressões correlatas como núcleos igualmente simples e invariáveis (padrão que alguns consideram mais rigoroso), desconsiderando a soma de elementos da primeira expressão.",
-                                              "d":  "\u0027um e outro\u0027 exige o verbo no singular, e \u0027nem um nem outro\u0027 exige o verbo no plural, invertendo o que ocorre na frase, e mais aceito em concursos e provas formais, inversão que contraria o padrão preferencial reconhecido pela norma culta.",
-                                              "e":  "ambas as construções deveriam estar no plural, sem exceção, já que qualquer expressão com dois elementos somados exigiria essa concordância em qualquer contexto, generalização que ignora o valor de exclusão da segunda expressão correlata."
+                                              "c":  "ambas as construções deveriam ficar no singular, uma vez que \u0027um\u0027 e \u0027outro\u0027 são pronomes de referência individual e o verbo concorda com cada um deles isoladamente, sem que a conjunção os reúna num único sujeito de valor plural",
+                                              "d":  "\u0027um e outro\u0027 exige o verbo no singular e \u0027nem um nem outro\u0027 exige o plural, porque a concordância nessas construções se decide pela proximidade do termo que antecede imediatamente a forma verbal do período",
+                                              "e":  "ambas as construções deveriam ficar no plural, uma vez que as duas expressões reúnem dois elementos e a presença de dois seres no sujeito é o que determina a flexão verbal em português"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A expressão \u0027um e outro\u0027 normalmente leva o verbo ao plural, por somar dois elementos; já \u0027nem um nem outro\u0027, por indicar exclusão de ambos, admite preferencialmente o verbo no singular, ainda que o plural também seja aceito por alguns gramáticos — a construção da frase segue o padrão mais recomendado.",
+                         "explicacao":  "\u0027Um e outro\u0027 soma dois elementos e admite o verbo no plural, como em \u0027apresentaram\u0027; \u0027nem um nem outro\u0027 tem valor de exclusão e tem o singular como padrão preferencial, como em \u0027conseguiu\u0027. Pôr as duas no singular trata \u0027um\u0027 e \u0027outro\u0027 como referências isoladas e desconhece a soma da primeira. Pôr as duas no plural generaliza a soma para uma expressão que exclui. Decidir a concordância pela proximidade do termo anterior aplica um critério que vale para outras estruturas, e não para estas. E dizer que \u0027nem um nem outro\u0027 exige obrigatoriamente o plural inverte qual das duas expressões tem o plural como padrão.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },

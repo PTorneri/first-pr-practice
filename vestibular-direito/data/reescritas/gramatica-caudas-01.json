@@ -1,0 +1,76 @@
+{
+  "_comentario": [
+    "Lote 1 de gramatica: 07, 38, 43, 56, 61, 64. Onze distratores.",
+    "",
+    "gramatica e a maior concentracao do banco -- 86 caudas em 43 questoes -- e a que",
+    "tem uma inversao importante em relacao as outras frentes: aqui a alternativa",
+    "CERTA e quase sempre a mais CURTA. Em 07 ela tem 102 caracteres contra 186 do",
+    "maior distrator; em 94, 86 contra 180. Isso acontece porque a resposta certa em",
+    "gramatica costuma ser um enunciado limpo de regra, e o distrator carregava a",
+    "regra errada MAIS o paragrafo explicando que estava errada.",
+    "",
+    "Consequencia pratica: aqui nao basta cortar a cauda. Cortar encurta o distrator e",
+    "pode fazer a certa virar a mais longa, invertendo o problema. O que entra no",
+    "lugar e a regra errada afirmada com conviccao e com a justificativa que alguem",
+    "daria para ela -- que e o que um distrator de gramatica deveria ter sido desde o",
+    "inicio.",
+    "",
+    "Exemplos do que sai e do que entra:",
+    "",
+    "  07  'Portanto, pois indicaria conclusao..., leitura que desconsidera o contraste",
+    "      explicito' -> 'Portanto, pois a alta dos juros seria a causa e a reacao do",
+    "      mercado, a consequencia que dela decorre'. A relacao logica errada,",
+    "      afirmada como quem acredita nela.",
+    "  56  'nenhuma das duas exerce funcao adjetiva..., leitura incompativel com a",
+    "      estrutura' -> a analise que classifica as duas como substantivas, com o",
+    "      argumento de que ambas completam o sentido do verbo. Errado e defensavel.",
+    "  61  'o verbo deveria concordar com funcionarios..., leitura equivocada (erro",
+    "      comum entre falantes menos atentos)' -- essa ate insultava quem marcasse.",
+    "      Agora afirma a concordancia por atracao com o termo mais proximo, que e o",
+    "      erro real que a questao quer pegar."
+  ],
+  "subtopic": "gramatica",
+  "questoes": {
+    "gramatica-07": {
+      "alternativas": {
+        "a": "Portanto, pois a alta dos juros seria a causa e a reação do mercado, a consequência que dela decorre naturalmente na leitura do período",
+        "b": "Além disso, pois a reação do mercado acrescenta à preocupação dos investidores um segundo dado sobre o mesmo cenário econômico do país",
+        "e": "Por conseguinte, pois o otimismo do mercado se apresenta como resultado direto do aumento das taxas anunciado na primeira oração"
+      },
+      "explicacao": "'No entanto' é conectivo adversativo, e é o que a lacuna pede: há contraste entre a preocupação dos investidores e a reação otimista do mercado, contraste que o próprio período sinaliza com 'contrariando as expectativas'. 'Portanto' e 'Por conseguinte' estabelecem conclusão e consequência, o que exigiria que o otimismo decorresse da alta dos juros — e o texto diz o contrário. 'Além disso' soma informação de mesma orientação, quando as duas orações apontam para direções opostas. E 'Assim' indica modo ou conclusão, também incompatível com a oposição."
+    },
+    "gramatica-38": {
+      "alternativas": {
+        "c": "a crase é obrigatória, pois 'distância' é substantivo feminino e a preposição 'a' que o antecede se contrai com o artigo feminino que acompanha esse substantivo na expressão"
+      },
+      "explicacao": "Não há artigo definido feminino determinando 'distância' nessa construção, porque essa posição já está ocupada pelo adjetivo 'pouca', e sem artigo não há o que contrair com a preposição. A regra de crase em expressões de distância exige justamente a presença do artigo feminino regendo a expressão, o que ocorre em 'à distância de dois metros' e não em 'a pouca distância'. Dizer que o substantivo feminino por si exige artigo confunde a possibilidade de receber artigo com a obrigação de tê-lo. E as alternativas que tratam a crase como obrigatória em toda expressão de distância generalizam uma regra que depende da determinação do substantivo."
+    },
+    "gramatica-43": {
+      "alternativas": {
+        "a": "ambas deveriam receber acento indicativo de crase, pois em ambas o substantivo 'casa' vem regido pela preposição 'a' e antecedido do artigo feminino que o acompanha por ser palavra de gênero feminino",
+        "d": "a primeira ocorrência deveria ter crase, por indicar deslocamento até um lugar determinado, e a segunda não, por trazer 'casa' no sentido genérico de moradia que dispensa o artigo antes dela"
+      },
+      "explicacao": "Quando 'casa' aparece sem especificação, no sentido de lar próprio, não vem precedida de artigo, e por isso não há crase em 'foi a casa'. Quando é especificada por um complemento, como em 'a casa da avó', passa a ser regida por artigo e admite a crase, que o texto emprega corretamente. Exigir crase nas duas ocorrências trata o gênero feminino como se bastasse para impor o artigo, quando o que decide é a determinação. E inverter as duas — crase na primeira e não na segunda — troca exatamente o critério: é a especificação que autoriza o artigo, e ela está na segunda ocorrência, não na primeira."
+    },
+    "gramatica-56": {
+      "alternativas": {
+        "a": "nenhuma das duas orações exerce função adjetiva no período, comportando-se ambas como orações substantivas, uma vez que completam o sentido do verbo da oração principal em lugar de qualificar um antecedente",
+        "d": "a primeira oração deveria ser isolada por vírgulas, por trazer informação já conhecida sobre os alunos, e a segunda deveria dispensá-las, por delimitar de quais alunos se fala no restante do período"
+      },
+      "explicacao": "A oração sem vírgula, 'que entregaram o trabalho no prazo', restringe o universo de alunos mencionados: só aqueles receberam pontuação extra. A oração isolada por vírgulas, 'que em sua maioria participam do projeto', acrescenta informação sobre o grupo já plenamente identificado, e é isso que caracteriza o uso explicativo. Classificar as duas como substantivas ignora que ambas se ligam a um antecedente nominal, 'os alunos', e não completam o verbo. Trocar a pontuação entre elas inverte o critério da restritividade, porque quem delimita é a primeira. Dizer que as duas têm a mesma função e que a vírgula seria estilística apaga a diferença entre restringir e explicar, que é o que a pontuação registra."
+    },
+    "gramatica-61": {
+      "alternativas": {
+        "c": "o verbo deveria ir para o plural, concordando com 'funcionários', substantivo plural que aparece mais próximo dele no período e que por isso atrairia a flexão verbal para o plural"
+      },
+      "explicacao": "'Equipe' é substantivo coletivo e núcleo do sujeito, e o verbo concorda com ele no singular. A concordância por atração ocorre em estruturas partitivas, do tipo 'a maioria dos entrevistados', em que um substantivo plural integra o próprio sujeito; 'de plantão' não é estrutura desse tipo, e por isso não há o que atrair. Puxar a flexão para 'funcionários' é o erro que a questão quer pegar: aquele substantivo está em outra oração do período e não compõe este sujeito. Flexionar o coletivo para 'as equipes' altera o texto sem necessidade. E dizer que coletivos admitem qualquer flexão conforme o gosto de quem escreve ignora que a norma fixa critério para o caso."
+    },
+    "gramatica-64": {
+      "alternativas": {
+        "a": "está incorreta; deveria ser 'custou a empresa', sem preposição, porque nessa acepção 'custar' pede complemento direto, do mesmo modo que ocorre com 'prejudicar' e 'lesar' em construções equivalentes",
+        "b": "está incorreta porque 'custar' deveria ser regido pela preposição 'de' nessa acepção, assim como se dá em verbos que indicam origem ou procedência do prejuízo sofrido por alguém em determinada situação"
+      },
+      "explicacao": "No sentido de acarretar prejuízo, 'custar' é transitivo indireto: o sujeito é a coisa que custa, aqui 'aquele imprevisto', e o complemento, regido pela preposição 'a', é quem sofre a consequência, 'à empresa'. Tratá-lo como transitivo direto, por analogia com 'prejudicar', é o erro mais compreensível, porque o sentido é próximo e a regência não é. Atribuir-lhe a preposição 'de' o confunde com verbos de procedência, como 'decorrer' e 'advir'. Restringir a construção correta à acepção de ter determinado preço ignora que é justamente no sentido de prejuízo que essa regência se aplica. E dizer que o verbo não admite preposição alguma repete o mesmo equívoco da transitividade direta."
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "_comentario": [
+    "Lote 2 de gramatica: 67, 70, 75, 76, 77. Onze distratores.",
+    "",
+    "Duas coisas apareceram neste grupo que valem registro.",
+    "",
+    "Em 77(c) e 77(d) o molde chegou a incluir um argumento de autoridade FALSO",
+    "dentro da cauda: '(padrão que alguns consideram mais rigoroso)' e 'e mais aceito",
+    "em concursos e provas formais'. Isso e pior que a cauda comum, porque a",
+    "alternativa errada se apresenta como a preferida pelos examinadores -- e ainda",
+    "assim vinha seguida do aviso de que contraria a norma. Ela empurrava e puxava o",
+    "candidato ao mesmo tempo.",
+    "",
+    "Em 76(b) a cauda estava disfarcada de analise: 'ambiguidade referencial, ja que",
+    "nao e possivel saber a que o documento se refere, havendo mais de um antecedente",
+    "possivel'. Nao ha mais de um antecedente no texto -- ha um so, 'o relatorio'. A",
+    "alternativa afirmava um fato falso sobre o proprio enunciado, o que a torna",
+    "descartavel por leitura e nao por conhecimento.",
+    "",
+    "As substituicoes afirmam a regra errada com a justificativa que alguem daria:",
+    "  67  'querer bem' tratado como locucao verbal transitiva direta.",
+    "  70  o 'se' lido como indice de indeterminacao do sujeito, que e a analise",
+    "      errada mais frequente nessa estrutura.",
+    "  75  'aspirar o ar' corrigido para 'aspirar ao ar' por analogia com o sentido de",
+    "      almejar -- generalizacao da regencia que a questao quer testar.",
+    "  76  a retomada lida como hiperonimo, que e classificacao vizinha e defensavel:",
+    "      documento e mais generico que relatorio, e a questao pede sinonimia.",
+    "  77  a concordancia atribuida a proximidade do verbo, que e o critério errado",
+    "      mas real que muitos aplicam."
+  ],
+  "subtopic": "gramatica",
+  "questoes": {
+    "gramatica-67": {
+      "alternativas": {
+        "b": "a primeira ocorrência está incorreta; deveria ser 'quero muito bem minha avó', sem preposição, porque 'querer bem' forma locução verbal de sentido único e passa a reger complemento direto, como se dá nos verbos transitivos diretos",
+        "c": "ambas as ocorrências deveriam ser regidas pela preposição 'a', uma vez que se trata do mesmo verbo e a regência de um verbo se fixa por sua forma, e não pela acepção com que aparece em cada oração do período",
+        "d": "a segunda ocorrência está incorreta e deveria ser regida pela preposição 'de', como se dá nos verbos que expressam vontade e carência, do tipo 'necessitar de' e 'carecer de', aos quais 'querer' se aproxima nesse sentido"
+      },
+      "explicacao": "'Querer' muda de regência conforme o sentido: no de estimar, aparece como transitivo indireto e exige a preposição 'a', o que autoriza 'quero bem à minha avó'; no de desejar algo, é transitivo direto e dispensa preposição, como em 'queira uma ligação'. Tratar 'querer bem' como locução de complemento direto desfaz justamente a regência que o sentido afetivo pede. Fixar a regência pela forma do verbo, e não pela acepção, ignora que a polissemia é o que está sendo testado. Aproximá-lo de 'necessitar de' e 'carecer de' transporta para ele a regência de outro grupo de verbos. E dizer que 'querer' é sempre transitivo direto, com a preposição servindo de realce, apaga a diferença entre os dois empregos da frase."
+    },
+    "gramatica-70": {
+      "alternativas": {
+        "b": "está incorreta porque falta um sujeito explícito antes do verbo 'sabe', uma vez que a oração principal de um período composto precisa trazer o sujeito enunciado antes da forma verbal a que se refere",
+        "c": "está incorreta, pois o verbo 'saber' deveria ir para o plural, concordando com 'prédio' e 'escola', substantivos que aparecem em sequência e formam o sujeito composto do período",
+        "e": "está correta porque o 'se' funciona como índice de indeterminação do sujeito, de modo que não há a quem atribuir a ação de saber e o verbo permanece na terceira pessoa do singular"
+      },
+      "explicacao": "O sujeito de 'não se sabe' é a própria oração seguinte, 'quando o novo prédio ficará pronto': há sujeito oracional, e por isso o verbo da principal fica na terceira pessoa do singular. Ler o 'se' como índice de indeterminação é a análise errada mais frequente nessa estrutura, e chega ao mesmo resultado por caminho errado — ali o 'se' é apassivador, e o sujeito existe, apenas não é um nome. Exigir sujeito enunciado antes do verbo desconhece que o sujeito pode vir depois e sob forma de oração. Somar 'prédio' e 'escola' num sujeito composto ignora que ambos estão dentro da subordinada, não na principal. E dizer que a indeterminação dispensa concordância inverte a ordem das coisas: é a concordância que revela a análise, não o contrário."
+    },
+    "gramatica-75": {
+      "alternativas": {
+        "e": "a segunda ocorrência está incorreta e deveria ser 'aspirar ao ar da sala', com a preposição 'a', porque a regência de um verbo se mantém constante em seus diferentes empregos e a primeira ocorrência da frase já fixou essa preposição para o verbo"
+      },
+      "explicacao": "'Aspirar' tem duas regências conforme o sentido: no de pretender, é transitivo indireto e pede a preposição 'a', como em 'aspirava a um cargo'; no de inalar, é transitivo direto e dispensa preposição, como em 'aspirar o ar'. Estender a preposição ao segundo emprego, por supor que a regência de um verbo se mantenha constante, é a generalização que a questão testa — e é justamente a variação que está em jogo. Retirar a preposição da primeira ocorrência aplica ao sentido de pretender a regência do sentido físico. Tratar as duas do mesmo modo apaga a distinção entre pretender e respirar. E dizer que 'aspirar' é sempre transitivo indireto, com elipse na primeira, inverte qual das duas dispensa a preposição."
+    },
+    "gramatica-76": {
+      "alternativas": {
+        "b": "substituição por hiperônimo, uma vez que 'documento' nomeia a categoria mais ampla a que o relatório pertence e a retomada se faz por um termo de sentido mais genérico do que o antecedente"
+      },
+      "explicacao": "'O documento' retoma 'o relatório' por um termo de sentido equivalente no contexto, o que evita a repetição e mantém a referência ao mesmo elemento: é substituição por sinônimo. A leitura como hiperônimo é a mais fina do conjunto, porque 'documento' é de fato categoria mais ampla que 'relatório' — mas aqui os dois designam o mesmo objeto e funcionam como equivalentes, e é a equivalência que o texto explora. Chamar 'o documento' de anáfora pronominal atribui a um substantivo a função de pronome. Falar de elipse total contraria o fato de haver retomada explícita. E classificar como repetição viciosa descreve o oposto do que ocorre, já que o termo justamente não se repete."
+    },
+    "gramatica-77": {
+      "alternativas": {
+        "c": "ambas as construções deveriam ficar no singular, uma vez que 'um' e 'outro' são pronomes de referência individual e o verbo concorda com cada um deles isoladamente, sem que a conjunção os reúna num único sujeito de valor plural",
+        "d": "'um e outro' exige o verbo no singular e 'nem um nem outro' exige o plural, porque a concordância nessas construções se decide pela proximidade do termo que antecede imediatamente a forma verbal do período",
+        "e": "ambas as construções deveriam ficar no plural, uma vez que as duas expressões reúnem dois elementos e a presença de dois seres no sujeito é o que determina a flexão verbal em português"
+      },
+      "explicacao": "'Um e outro' soma dois elementos e admite o verbo no plural, como em 'apresentaram'; 'nem um nem outro' tem valor de exclusão e tem o singular como padrão preferencial, como em 'conseguiu'. Pôr as duas no singular trata 'um' e 'outro' como referências isoladas e desconhece a soma da primeira. Pôr as duas no plural generaliza a soma para uma expressão que exclui. Decidir a concordância pela proximidade do termo anterior aplica um critério que vale para outras estruturas, e não para estas. E dizer que 'nem um nem outro' exige obrigatoriamente o plural inverte qual das duas expressões tem o plural como padrão."
+    }
+  }
+}

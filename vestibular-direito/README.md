@@ -4,8 +4,9 @@ Plano de estudos de 90 dias para os vestibulares de Direito da FGV (SP/Rio) e do
 baseado no formato real das provas (pesquisado em julho/2026): Língua Portuguesa, Inglês,
 Matemática/Raciocínio Lógico e Ciências Humanas (Atualidades, História, Geografia) — essas
 provas **não** cobram conhecimento jurídico específico, é conteúdo de ensino médio aplicado
-com viés crítico-argumentativo. (A frente de Redação foi removida do app por decisão do autor
-do plano — o app foca em exercícios objetivos.)
+com viés crítico-argumentativo. (Redação não é uma frente do rodízio diário: como é prova
+separada nas duas bancas, ela mora em aba própria, com 55 propostas de tema livre para
+treinar quando quiser — ver `data/redacoes.js`.)
 
 ## Como abrir
 

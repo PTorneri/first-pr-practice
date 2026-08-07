@@ -18,6 +18,7 @@ Data: agosto de 2026 · Uso pessoal de estudo
 | FGV DIREITO LP e Artes Disc | FGV 2025.1 (15/11/2024) | 8 de Português + 5 de Artes | integral |
 | INSPER 2026.1 v.2 | Insper | 60 objetivas | integral |
 | INSPER 2026.2 | Insper | 60 objetivas | integral |
+| A Redação no Processo Seletivo do Insper | Insper (edital 2024) | modelo, critérios e 20 questões-tema de edições passadas | integral |
 | FGV DIREITO Objetivas (2025.1) | FGV 2025.1 | 60 objetivas | **não lido** |
 
 O caderno objetivo da FGV 2025.1 é um PDF escaneado (só imagem) e não há OCR disponível neste
@@ -523,6 +524,55 @@ Combinando com a lista da seção 5.3, o eixo temático da FGV Direito em 2026.1
 atravessa quatro provas: **liberdade de expressão, verdade, legalidade e legitimidade**. Redação,
 Artes q4 e q5, e a discursiva de Humanas conversam entre si.
 
+### 5.5 Redação da Insper — outro desenho, e a diferença custa nota
+
+Fonte: documento oficial "A Redação no Processo Seletivo do Insper", que descreve o modelo, os
+critérios e traz **20 questões-tema de edições passadas**. Quem treina pela grade da FGV e presta
+a Insper erra três coisas de formato antes de escrever a primeira linha.
+
+| | FGV | Insper |
+|---|---|---|
+| Propostas | 1 | **2, e o candidato escolhe uma** — o par é sempre um tema reflexivo + um de atualidades |
+| Forma do tema | pergunta binária (2026.1) ou substantivo (2025.1) | **sempre pergunta dicotômica** — nas 20 publicadas não há uma nominal |
+| Título | recomendável, livre | **a questão-tema, copiada no início da folha** |
+| Extensão | 20 a 30 linhas | **10 a 30 linhas** (1000 a 3000 caracteres na versão digital) |
+| Apoio | coletânea de 2 a 4 textos conflitantes | **um "contexto" de dois parágrafos**: o 1º com o caso e os dados, o 2º abrindo a objeção |
+| Critérios | 3 quesitos | 5: adequação ao tema e ao tipo, recursos argumentativos, coerência, coesão, modalidade escrita |
+
+**O contexto do Insper já vem com a dicotomia montada.** O segundo parágrafo abre sempre com um
+operador adversativo — "Entretanto, há quem entenda que...", "Os críticos, por sua vez, alegam...",
+"Por outro lado, há quem entenda que..." — e apresenta o lado oposto com dados próprios. A banca
+declara no documento que aceita qualquer dos dois posicionamentos, desde que não se desrespeitem
+direitos humanos, e que **não privilegia a fonte do argumento**: repertório pessoal e contexto
+fornecido valem igual.
+
+**Duas condições de nota zero que não existem na FGV:** desrespeitar direitos humanos e entregar
+texto "constituído predominantemente por cópia de modelos disponíveis em fontes de acesso
+público". O edital avisa em seguida que a mera citação de pensadores, obras ou teorias sem
+relação com o projeto de texto **poderá ser penalizada** — é a banca dizendo, por escrito, que
+repertório decorado conta contra.
+
+As 20 questões-tema publicadas, na ordem do documento:
+
+| # | Questão-tema | # | Questão-tema |
+|---|---|---|---|
+| 1 | O uso de câmeras corporais pelos agentes de segurança pública deve ser obrigatório? | 11 | As inteligências artificiais devem ser adotadas para auxiliar ou substituir professores em certas tarefas? |
+| 2 | Os pais deveriam criar os filhos para se adaptar ao mundo ou para mudá-lo? | 12 | Personagens que pertencem a determinada minoria devem ser interpretados apenas por atores que pertencem a tal minoria? |
+| 3 | A adoção de material didático 100% digital é possível no contexto da educação pública? | 13 | O ensino em período integral, no contexto do Brasil, enriquece ou empobrece a educação? |
+| 4 | Modificações corporais em menores de 18 anos devem ser proibidas no Brasil? | 14 | A caridade é verdadeiramente um aliado na resolução dos problemas ligados à vulnerabilidade social? |
+| 5 | Os itinerários formativos devem ser revogados? | 15 | Os podcasts estão contribuindo para enriquecer os debates da sociedade atual? |
+| 6 | Deve-se evitar a propagação de obras de arte que abordem antigas visões de mundo hoje malvistas? | 16 | O uso atual que se faz das redes sociais agrava ou ameniza a solidão? |
+| 7 | Devem-se adotar cotas para o cinema nacional dentro das plataformas de vídeo sob demanda? | 17 | A doação de órgãos deve ser decidida pela família ou deve ser uma prerrogativa do Estado? |
+| 8 | A empatia é essencial em um atendimento médico? | 18 | Quem fere a democracia: o uso dos símbolos religiosos ou a sua proibição? |
+| 9 | Empregos criativos também serão cooptados pela IA? | 19 | Os e-sports poderão ser, um dia, tão populares quanto os esportes tradicionais? |
+| 10 | O preço de roupas e objetos deveria ser pautado apenas por fatores objetivos? | 20 | Produções sobre criminosos são uma forma válida de entretenimento ou são um desrespeito às vítimas e suas famílias? |
+
+Duas observações sobre esse conjunto. Primeira: metade parte de **caso concreto e recente** —
+decisão judicial de 2023 sobre câmeras corporais, saída de São Paulo do PNLD, prisão por tatuagem
+em menor, reforma do Ensino Médio, escalação de Hugh Grant em *Wonka*. Segunda: o corte temático
+é **muito mais largo que o jurídico** — educação, arte, esporte eletrônico, criação de filhos,
+medicina, luxo. Quem estuda só Direito para essa prova estuda para outra.
+
 ---
 
 ## 6. Como as bancas escolhem as fontes
@@ -602,7 +652,9 @@ perde a questão inteira — e são muitas.
 - O caderno objetivo da FGV 2025.1 não pôde ser lido (PDF escaneado, sem OCR neste ambiente).
   Todas as afirmações sobre a objetiva da FGV vêm de um único ano, 2026.1, e as tendências
   descritas para esse bloco devem ser lidas como um ponto, não como série.
-- A redação da Insper não está nos cadernos analisados.
+- Os cadernos da Insper lidos são só de objetivas; o que se sabe da redação dela vem do
+  documento oficial "A Redação no Processo Seletivo do Insper" (edital 2024), analisado na
+  seção 5.5. Não foi lido nenhum caderno de redação da banca com a folha de resposta.
 - As datas de aplicação não constam dos cadernos da Insper; a análise de recência usa a data da
   fonte mais recente, que é um limite inferior seguro para a data de fechamento do caderno.
 - A classificação por disciplina das questões de Humanas e Natureza da Insper é minha, por

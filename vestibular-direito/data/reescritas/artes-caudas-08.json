@@ -1,0 +1,77 @@
+{
+  "_comentario": [
+    "Lote 8 de artes-cultura: 40 a 45, dezesseis distratores.",
+    "",
+    "Bloco Futurismo / Bauhaus / Noel Rosa / Art Nouveau / Neoclassicismo / Courbet.",
+    "Quatro destas questões cruzam arte e totalitarismo pela via de Hannah Arendt, o",
+    "que as torna as mais valiosas do conjunto para a prova discursiva da FGV -- e",
+    "eram justamente as que o molde estragava mais, porque o distrator de anacronismo",
+    "vinha discutindo datas ('hipótese anacrônica para 1909') e resolvia a questão",
+    "sozinho.",
+    "",
+    "Os substitutos escolhidos:",
+    "",
+    "  40  a influência do Futurismo sobre a propaganda visual dos anos 1930, que é",
+    "      historicamente verdadeira e trata do uso posterior da forma, não da",
+    "      afinidade do discurso do manifesto com o culto à violência.",
+    "  41  a Bauhaus fechada por dificuldade orçamentária e mudança de sede -- a",
+    "      escola de fato mudou de cidade duas vezes, e o fechamento de 1933 foi",
+    "      político.",
+    "  42  a idealização do malandro como figura romântica, que é leitura corrente de",
+    "      Noel Rosa e o oposto da ironia sobre a moral da elite.",
+    "  44  a monumentalidade adotada por democracias em prédios públicos, que é o",
+    "      distrator decisivo: o repertório é o mesmo e falta a função de propaganda",
+    "      e de projeção de poder sobre o indivíduo.",
+    "  45  a fotografia social do começo do século XX, que é herdeira direta de",
+    "      Courbet e mesmo assim desloca a questão do procedimento para o meio."
+  ],
+  "subtopic": "artes-cultura",
+  "questoes": {
+    "artes-cultura-40": {
+      "alternativas": {
+        "a": "à influência da linguagem visual futurista sobre o cartaz de propaganda política dos anos 1930, que aproveitou seu dinamismo gráfico e sua tipografia em diagonal para produzir efeito de urgência",
+        "b": "à recusa dos futuristas em expor em salões oficiais e museus, atitude que os afastou das instituições artísticas estabelecidas e aproximou seu trabalho de manifestos e apresentações públicas",
+        "c": "à representação de automóveis, trens e aviões em pinturas do período, repertório de motivos que traduzia em imagem o entusiasmo do movimento pela vida industrial e pela velocidade"
+      },
+      "explicacao": "O manifesto futurista não só celebra a máquina: exalta a violência como higiene do mundo e o culto às massas, e é essa combinação que historiadores aproximam dos discursos que Arendt analisou como constitutivos do totalitarismo. A influência da linguagem visual futurista sobre o cartaz de propaganda dos anos 1930 é historicamente verdadeira e trata do uso posterior da forma, não da afinidade do próprio discurso com a exaltação da violência. A representação de automóveis e aviões traduz o entusiasmo industrial sem alcançar o conteúdo político. A recusa em expor em salões oficiais é postura institucional. Dizer que a presença de uma máquina numa pintura já a liga ao totalitarismo dispensa o conteúdo do manifesto. E a glorificação da guerra não é traço do Cubismo, que trabalha a decomposição da forma."
+    },
+    "artes-cultura-41": {
+      "alternativas": {
+        "a": "as dificuldades orçamentárias e as mudanças de sede que a escola enfrentou, tendo passado de Weimar a Dessau e depois a Berlim antes de encerrar suas atividades em 1933",
+        "c": "a difusão internacional do repertório da Bauhaus depois que seus professores emigraram, levando a outros países o programa de integração entre arte, artesanato e produção industrial"
+      },
+      "explicacao": "O fechamento da Bauhaus em 1933 é caso exemplar de regime totalitário perseguindo instituição cultural vista como plural e experimental, porque a pluralidade estética ameaça a padronização que esses regimes exigem. As dificuldades orçamentárias e as mudanças de sede são fatos verificáveis da história da escola, que passou por três cidades, e ainda assim não explicam o encerramento, que foi político. A difusão internacional pelos professores emigrados é consequência do fechamento, não sua causa. Dizer que a existência de objetos de design geométrico já liga a escola à perseguição dispensa o episódio efetivo. E foi a Bauhaus alemã que o regime fechou, não a escola francesa de Belas Artes."
+    },
+    "artes-cultura-42": {
+      "alternativas": {
+        "b": "o debate sobre a idealização do malandro como figura romântica e simpática na cultura brasileira, imagem que atravessou o cinema e a televisão e se distanciou das condições de vida que a originaram",
+        "c": "o debate sobre a preservação das gravações originais do samba das décadas de 1920 e 1930, cujos discos de cera se deterioram e exigem transferência para suporte digital antes que o som se perca",
+        "e": "o debate sobre os direitos autorais de composições antigas cujo domínio público se aproxima, e sobre quem deve receber o que ainda rendem em regravações e execuções públicas"
+      },
+      "explicacao": "Noel Rosa retrata a vida popular carioca com ironia sobre a moral da elite, e é essa tensão que retorna no debate sobre criminalização da pobreza e do trabalho informal nas grandes cidades. A idealização do malandro como figura romântica é a leitura mais difundida de sua obra e vai na direção contrária da ironia crítica, o que a torna o distrator mais forte aqui. A preservação dos discos de cera é problema de acervo, e os direitos autorais de composições antigas são questão jurídica. Dizer que compor sambas sobre o Rio já basta para ligar a obra a qualquer debate sobre a cidade fica no assunto. E a crítica à moral da elite pela via da malandragem é de Noel Rosa, não de Cazuza, que trabalha outro repertório e outra geração."
+    },
+    "artes-cultura-43": {
+      "alternativas": {
+        "a": "a recorrência de linhas curvas e motivos florais em papéis de parede e embalagens de cosméticos, repertório decorativo que voltou a circular como citação visual de um estilo de época",
+        "c": "o uso de materiais como ferro fundido e vidro em estruturas expostas, solução construtiva que o período difundiu em estações, mercados e galerias comerciais de várias cidades europeias",
+        "d": "a valorização do trabalho artesanal na produção de objetos de uso cotidiano, em oposição à padronização crescente das peças saídas da linha de montagem industrial que se firmava naquele momento"
+      },
+      "explicacao": "O Art Nouveau buscava na natureza os princípios de suas formas, e é essa operação que o biodesign e a arquitetura biomimética retomam ao procurar em estruturas naturais soluções funcionais e estéticas. A valorização do artesanal contra a padronização industrial é um traço real do movimento e ainda assim outro, porque trata do modo de produzir e não da fonte das formas. O uso de ferro fundido e vidro é a inovação construtiva do período. A recorrência de motivos florais em papéis de parede cita o estilo sem retomar o princípio. Dizer que uma linha curva já basta para a relação ignora a inspiração orgânica. E a estética geométrica e angulosa é do Art Déco, movimento posterior."
+    },
+    "artes-cultura-44": {
+      "alternativas": {
+        "a": "a adoção de colunatas, frontões e escalas monumentais por democracias em seus prédios de governo e tribunais, repertório que busca transmitir estabilidade e permanência das instituições",
+        "d": "a recuperação do repertório greco-romano pelos museus construídos no século XIX, cujas fachadas com pórtico e escadaria anunciavam ao visitante a natureza erudita do acervo guardado dentro"
+      },
+      "explicacao": "O que a análise do totalitarismo ilumina aqui é o uso de grandiosidade, ordem e monumentalidade como instrumento de propaganda e de projeção do poder do Estado sobre o indivíduo. A mesma linguagem adotada por democracias em tribunais e sedes de governo é o distrator decisivo: o repertório é idêntico e falta a função, porque ali ele busca transmitir estabilidade institucional em vez de subordinar quem olha. As fachadas com pórtico dos museus do século XIX anunciam erudição, o que é outra intenção. Dizer que a presença de colunas já liga um edifício ao totalitarismo dispensa o contexto político. Atribuir aos arquitetos neoclássicos a previsão da apropriação futura converte estilo em profecia. E essa apropriação recaiu sobre o repertório clássico, não sobre o Art Nouveau."
+    },
+    "artes-cultura-45": {
+      "alternativas": {
+        "c": "a fotografia social do início do século XX, que registrou moradia precária e trabalho infantil com intenção de denúncia e serviu de base para campanhas de reforma das leis trabalhistas",
+        "d": "a valorização de cenas de trabalho e de vida rural na pintura brasileira do século XIX, que incorporou figuras populares à composição sem abandonar o acabamento acadêmico da tela",
+        "e": "a presença de trabalhadores e camponeses como tema em obras de grande formato, escala antes reservada a assuntos históricos, religiosos e mitológicos na pintura de salão"
+      },
+      "explicacao": "Courbet retrata a vida popular sem idealizá-la, e é esse compromisso com a condição real que reaparece em documentários e fotojornalismo que evitam estetizar a desigualdade. A fotografia social do início do século XX é herdeira direta desse gesto e desloca a questão do procedimento para o meio, já que a pergunta é sobre o modo de representar e não sobre a técnica empregada. O uso de grande formato para temas populares é uma provocação real do Realismo contra a hierarquia dos gêneros, mas trata da escala e não da recusa da idealização. A pintura brasileira do século XIX incorporou figuras populares mantendo o acabamento acadêmico, que é o contrário do que se pede. Dizer que uma figura camponesa já basta para a relação ignora a fidelidade às condições sociais. E a recusa da idealização não é do Romantismo, que trabalha com o sentimento e o excepcional."
+    }
+  }
+}

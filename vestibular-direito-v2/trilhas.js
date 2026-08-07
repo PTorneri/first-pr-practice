@@ -21,7 +21,7 @@
 (function () {
   // Contador de cache do CONTEÚDO, separado do ?v= do código (ver o comentário
   // longo no topo do index.html). Corrigiu uma questão? Incremente aqui.
-  const DATA_VERSION = 31;
+  const DATA_VERSION = 32;
 
   // A chave da trilha ativa é a única que vive FORA do namespace de trilha —
   // é ela que diz qual namespace usar. Sobe pra nuvem junto com o resto.
@@ -67,6 +67,24 @@
         "priority-weights", "video-topics", "bundle", "dissertativas", "redacoes",
       ],
       abas: ["hoje", "calendario", "simulados", "buscar", "cards", "redacao", "obras", "erros", "progresso"],
+      // Rótulos da aba Redação. Ficavam fixos em app.js, escritos para a FGV —
+      // e a trilha de Medicina exibia "como pedem os editais da FGV e do
+      // Insper" sobre um caderno que é da VUNESP e da Unifesp. As propostas em
+      // si são as mesmas nas duas trilhas; o que muda é o comando e a grade.
+      //
+      // O texto dizia também "20 a 30 linhas, como pedem os editais da FGV e do
+      // Insper". A segunda metade era falsa: o documento oficial do Insper dá
+      // 10 a 30 linhas e obriga a copiar a questão-tema como título.
+      redacaoUI: {
+        desc: "Texto <strong>dissertativo-argumentativo, em prosa</strong> — e as duas bancas contam de um jeito " +
+              "diferente. A <strong>FGV</strong> pede 20 a 30 linhas, com título livre e recomendável. O " +
+              "<strong>Insper</strong> pede 10 a 30, apresenta dois temas para escolher um e exige que a " +
+              "questão-tema seja copiada como título.",
+        hint: "Nenhuma das duas exige proposta de intervenção — isso é regra do ENEM. A FGV corrige por três " +
+              "quesitos (tema e estrutura; articulação e argumentação; correção gramatical); o Insper, por cinco, " +
+              "e o edital dele anula quem monta o texto com modelo pronto de internet. Nas propostas cujo tema é " +
+              "pergunta há um botão com o comando do Insper para o mesmo assunto.",
+      },
       obrasUI: {
         titulo: "Obras obrigatórias (FGV)",
         hint: "A prova de Artes e Questões Contemporâneas da FGV cobra leitura crítica de uma lista fechada de " +
@@ -119,6 +137,16 @@
         "priority-weights", "video-topics", "bundle", "dissertativas", "redacoes",
       ],
       abas: ["hoje", "calendario", "simulados", "buscar", "cards", "redacao", "obras", "erros", "progresso"],
+      redacaoUI: {
+        desc: "Texto <strong>dissertativo-argumentativo em norma-padrão, com coletânea</strong>. O comando abaixo " +
+              "é o dos cadernos, palavra por palavra: Unesp, Unifesp, Einstein e Santa Casa usam a mesma frase, e " +
+              "a folha de resposta tem <strong>33 linhas</strong> numeradas (32 na PUC-SP).",
+        hint: "As propostas são as mesmas da trilha de Direito — assunto de redação não tem curso —, e só o comando " +
+              "muda. Título é exigido pela PUC-SP e pela FUVEST, e opcional nas outras cinco. A grade mais fechada é " +
+              "a da Unifesp: zera com 7 linhas ou menos e com menos de 8 linhas AUTORAIS contínuas — trecho copiado " +
+              "da coletânea não conta. Na FUVEST são duas propostas sobre a mesma coletânea, e a segunda é de outro " +
+              "gênero (em 2026, uma carta).",
+      },
       // Rótulos da aba Obras. Ficavam fixos em app.js, escritos para a FGV —
       // a trilha de Medicina exibia "Obras obrigatórias (FGV)" e "lista do
       // edital 2027.1" se a aba fosse ligada sem isto.

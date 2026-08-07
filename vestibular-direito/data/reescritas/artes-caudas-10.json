@@ -1,0 +1,77 @@
+{
+  "_comentario": [
+    "Lote 10 de artes-cultura: 52 a 57, dezoito distratores.",
+    "",
+    "Bloco poesia concreta / Geração de 45 / Clarice / Jorge Amado / romance de 30 /",
+    "Bossa Nova. Em 57(e) o molde produziu a associação mais absurda de todo o",
+    "arquivo: dizia que a reelaboração intimista do samba com harmonias sofisticadas",
+    "seria traço 'do Cinema Novo de Glauber Rocha, e não da Bossa Nova'. Cinema e",
+    "canção não se confundem nem por engano -- a alternativa não tinha como ser",
+    "escolhida por ninguém, e portanto não cumpria função nenhuma.",
+    "",
+    "Os substitutos vêm de dentro do mesmo assunto:",
+    "",
+    "  52  o poema visual impresso em cartaz e a tipografia expressiva do design",
+    "      gráfico, que exploram a página e não fazem da disposição uma parte do",
+    "      significado.",
+    "  54  a literatura de autoficção contemporânea, que também trata da vida interior",
+    "      e a organiza como relato de si, em vez de epifania.",
+    "  55  a tradução de Jorge Amado para dezenas de línguas, que é o fato de",
+    "      circulação e não a questão de manter a especificidade ao circular.",
+    "  56  a linguagem seca de Graciliano lida como economia de estilo, que é traço",
+    "      formal e não a denúncia social que a questão aproxima do presente.",
+    "  57  o samba-canção dos anos 1940 e 1950, que já era intimista e antecede a Bossa",
+    "      Nova -- a distinção fina aqui é a harmonia influenciada pelo jazz."
+  ],
+  "subtopic": "artes-cultura",
+  "questoes": {
+    "artes-cultura-52": {
+      "alternativas": {
+        "a": "a difusão do poema visual impresso em cartazes e catálogos de exposição, formato que dá ao texto tratamento gráfico cuidadoso e o apresenta ao leitor como peça a ser vista antes de ser lida em silêncio",
+        "c": "o uso de tipografia expressiva no design gráfico contemporâneo, em que a escolha da fonte, do corpo e do espaçamento comunica um tom antes que o leitor chegue a processar o conteúdo escrito na peça",
+        "e": "a valorização do poema curto e de leitura rápida nas redes sociais, formato que se ajusta ao tempo de atenção de quem percorre uma sequência de publicações sem se deter demoradamente em nenhuma delas"
+      },
+      "explicacao": "Na poesia concreta a disposição espacial não ilustra o poema: ela é parte do significado, de modo que mudar o arranjo muda o que o texto diz. É esse mesmo funcionamento que se encontra na poesia digital e no meme textual, onde tipografia e formato da tela integram a mensagem. O poema visual em cartaz e a tipografia expressiva do design dão tratamento gráfico ao texto sem que a forma passe a significar, o que faz dessas as escolhas mais tentadoras do conjunto. O poema curto de rede social se ajusta ao tempo de atenção, o que é questão de circulação. Dizer que escrever uma palavra de modo diferente na página já basta para a relação ignora a integração entre forma e sentido. E a exploração do espaço da página é da poesia concreta, não da Geração de 45, que trabalha rigor construtivo dentro do verso."
+    },
+    "artes-cultura-53": {
+      "alternativas": {
+        "b": "a alternância entre gerações que se afirmam pela ruptura e gerações que se afirmam pelo retorno às formas herdadas, ciclo que a história da literatura brasileira repetiu em vários momentos do século XX",
+        "c": "a valorização da poesia de construção rigorosa por parte da crítica universitária, que encontrou nesse tipo de obra material mais favorável à análise formal desenvolvida nos cursos de letras do país",
+        "d": "a preferência de João Cabral de Melo Neto por temas concretos e objetos do mundo material, escolha que afastou sua poesia da confissão pessoal e a aproximou do trabalho artesanal de quem constrói"
+      },
+      "explicacao": "O que a Geração de 45 exemplifica é um padrão recorrente: movimentos que buscam contenção e rigor formal como reação a uma fase anterior de ruptura e espontaneidade excessivas. A alternância entre gerações de ruptura e de retorno é o distrator decisivo, porque descreve o mesmo vaivém e o formula como sucessão de gerações, quando o padrão em questão é a reação a um excesso específico. A preferência de João Cabral por temas concretos e a valorização pela crítica universitária são traços de sua obra e de sua recepção. Dizer que um poema bem estruturado já basta para a relação ignora a reação deliberada ao modernismo. E o retorno ao rigor em reação à espontaneidade é da Geração de 45, não do Modernismo de 1922, que foi a fase de ruptura a que ela responde."
+    },
+    "artes-cultura-54": {
+      "alternativas": {
+        "a": "o crescimento da literatura de autoficção, em que autores organizam a própria experiência em forma de relato e convidam o leitor a acompanhar a reconstrução de episódios de sua vida pessoal",
+        "c": "a valorização de narrativas em que quase nada acontece do ponto de vista da trama, com atenção voltada às pequenas percepções do cotidiano e às descrições demoradas de ambientes domésticos",
+        "e": "a difusão de conteúdos de desenvolvimento pessoal que propõem exercícios de autoconhecimento, oferecendo ao público roteiros prontos para examinar sentimentos e reorganizar a própria vida afetiva e profissional"
+      },
+      "explicacao": "Clarice Lispector desloca o interesse da ação externa para o estado de consciência, e o momento decisivo de suas narrativas é a epifania, esse instante em que algo banal reorganiza a percepção do personagem. É essa atenção à vida interior que se reencontra em livros, filmes e séries voltados a crises existenciais e processos de autoconhecimento. A autoficção também trata da vida interior e a organiza como relato de si, em vez de epifania, o que a torna o distrator mais fino. Narrativas em que pouco acontece descrevem ausência de trama, e não investigação de consciência. Conteúdos de desenvolvimento pessoal oferecem roteiros de autoajuda, o que é outro gênero. Dizer que uma personagem pensativa já basta para a relação ignora a profundidade da investigação. E a introspecção intensa é de Clarice, não do regionalismo de Graciliano Ramos."
+    },
+    "artes-cultura-55": {
+      "alternativas": {
+        "a": "a tradução da obra de Jorge Amado para dezenas de línguas e sua adaptação para cinema e televisão em vários países, alcance que fez dele, ao longo de várias décadas, um dos autores brasileiros mais lidos e reeditados fora do território nacional",
+        "c": "a presença de personagens femininas fortes e de temas ligados à sensualidade em seus romances, elementos que ajudaram a construir uma imagem do Brasil no exterior associada à cordialidade e ao prazer",
+        "e": "a incorporação de termos do candomblé e de expressões do falar baiano ao texto literário, recurso que exigiu de seus tradutores decisões difíceis sobre o que manter em português e o que adaptar"
+      },
+      "explicacao": "A questão está na tensão entre especificidade e circulação: narrativas fortemente ancoradas em identidades regionais e afro-brasileiras que alcançam reconhecimento internacional sem se dissolver nesse trânsito. A tradução para dezenas de línguas e as adaptações no exterior são o fato dessa circulação, e a pergunta é sobre o que acontece com a especificidade quando ela circula. A imagem do Brasil associada à cordialidade e ao prazer descreve um efeito da recepção estrangeira, e frequentemente uma distorção dela. A incorporação de termos do candomblé é o distrator mais fino, porque toca o problema da tradução sem chegar ao do reconhecimento. Dizer que uma cidade baiana como cenário já basta para a relação fica no ambiente. E o retrato do cotidiano popular baiano é de Jorge Amado, não de Guimarães Rosa, cujo território é o sertão mineiro."
+    },
+    "artes-cultura-56": {
+      "alternativas": {
+        "a": "a economia de linguagem de Graciliano Ramos, cuja prosa enxuta e sem adjetivação supérflua se tornou referência de contenção estilística para gerações posteriores de escritores brasileiros",
+        "c": "a construção de personagens de fala reduzida, quase incapazes de nomear a própria condição, recurso pelo qual o romance mostra o efeito acumulado da privação material sobre a própria possibilidade de nomear o que se vive e de se expressar",
+        "d": "a inclusão do romance de 30 no cânone escolar brasileiro, que fez de suas descrições da seca a imagem mais difundida do Nordeste entre estudantes de outras regiões do país ao longo de décadas"
+      },
+      "explicacao": "O romance de 30 denuncia a desigualdade regional com linguagem contida, e o que se prolonga daí até hoje é o debate sobre migração interna e desigualdade entre regiões, que segue explicando fluxos do Nordeste para os grandes centros. A economia de linguagem e a fala reduzida dos personagens são procedimentos formais da obra, e o segundo é o distrator mais fino porque liga forma e privação material sem chegar à denúncia da desigualdade regional. A entrada do romance no cânone escolar é questão de recepção. Dizer que uma paisagem seca já basta para a relação ignora a denúncia social. Atribuir a Graciliano a previsão de políticas de transferência de renda é anacronismo. E a denúncia com linguagem contida é do romance de 30, não do Parnasianismo, que cultua rigor métrico sem compromisso social."
+    },
+    "artes-cultura-57": {
+      "alternativas": {
+        "a": "o samba-canção das décadas de 1940 e 1950, que já reduzia a percussão e trazia interpretação contida e temas amorosos, preparando o ambiente de escuta em que a Bossa Nova viria a se firmar poucos anos depois, nas gravadoras do Rio de Janeiro",
+        "d": "a difusão do violão como instrumento de acompanhamento em gravações de música popular, escolha que dá à canção sonoridade mais discreta do que a de arranjos construídos sobre naipes de metais e percussão",
+        "e": "a valorização de letras sobre temas cotidianos e afetivos em lugar de assuntos grandiosos, mudança de foco que aproximou a canção brasileira da conversa comum e do vocabulário corrente na fala diária"
+      },
+      "explicacao": "A Bossa Nova reelabora o samba com sonoridade suave, harmonia influenciada pelo jazz e letras de tema cotidiano, e o equivalente hoje são gêneros brasileiros que refazem samba e forró a partir de referências internacionais. O samba-canção dos anos 1940 e 1950 é o distrator decisivo: já era intimista e antecede o movimento, faltando-lhe justamente a reelaboração harmônica vinda do jazz. A difusão do violão e a preferência por temas cotidianos são traços que acompanham a Bossa Nova sem constituir a operação de reelaborar o ritmo. Dizer que a presença de um violão já basta para a relação ignora essa reelaboração. E a mudança em questão é da Bossa Nova, não do Cinema Novo, que é cinema e não canção."
+    }
+  }
+}

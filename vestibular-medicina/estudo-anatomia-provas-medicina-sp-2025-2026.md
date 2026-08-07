@@ -639,6 +639,42 @@ A redação é dissertativo-argumentativa em norma-padrão, com proposta única 
 em 33 linhas. O tema de 2026.1 foi a solidão como fenômeno social contemporâneo. É o formato mais
 próximo do ENEM entre as sete bancas, ao lado da PUC-SP.
 
+### 4.7 A redação: quatro bancas usam a mesma frase, palavra por palavra
+
+Comparados os cadernos, o comando da redação é **literalmente idêntico** em Unesp, Unifesp,
+Einstein e Santa Casa:
+
+> Com base nos textos apresentados e em seus próprios conhecimentos, escreva um texto
+> dissertativo-argumentativo, empregando a norma-padrão da língua portuguesa, sobre o tema:
+
+O tema vem em bloco separado logo abaixo, sem aspas. **O comando não pede título e não cita
+número de linhas** — o limite mora na folha de resposta, que tem 33 linhas numeradas nas quatro,
+e 32 na PUC-SP. Título só é exigido pela PUC-SP ("Dê um título ao texto") e pela FUVEST.
+
+| Banca | Tema aplicado | Forma do tema | Textos de apoio |
+|---|---|---|---|
+| Unesp 2026.1 | Vivemos hoje uma epidemia da solidão? | pergunta | 5 + charge |
+| Unifesp 2026 | Luto contemporâneo: entre a espetacularização da morte e a manutenção da lembrança coletiva | entre X e Y | 4 |
+| Einstein 2025 | Quem deve ser responsável pelos recursos financeiros para a preservação da Amazônia? | atribuição de responsabilidade | 3 |
+| Einstein 2026.2 | IA e recursos hídricos: entre a sustentabilidade e o consumo excessivo | entre X e Y | 3 |
+| Santa Casa 2025 | Ecoansiedade: entre o impacto emocional e o impulso para o ativismo ambiental | entre X e Y | 3 |
+| Santa Casa 2026 | Terapia com IA pode ser alternativa ao tratamento com um psicólogo? | pergunta | 3 |
+| PUC-SP 2026 | Redução da jornada de trabalho no Brasil: é possível conciliar os interesses dos trabalhadores e das empresas? | recorte + pergunta | 3 |
+| FUVEST 2026 | O perdão é um ato que pode ser condicionado ou limitado | afirmação a discutir | coletânea única para 2 propostas |
+
+Três consequências para quem treina:
+
+1. **"Entre X e Y" é o modelo mais frequente do conjunto** — três dos oito temas acima. Ele não
+   pede escolha entre certo e errado: pede uma tese que arbitre dois polos igualmente
+   defensáveis. Concluir que "é preciso equilíbrio" é não responder.
+2. **A FUVEST é a exceção de formato.** Dá duas propostas sobre a mesma coletânea, a primeira
+   dissertativo-argumentativa e a segunda de outro gênero (em 2026, uma carta a uma personagem
+   hipotética), e o comando é "Redija um texto dissertativo-argumentativo, no qual seja exposto
+   seu ponto de vista sobre o tema: X".
+3. **A rubrica que zera é a da Unifesp**, e o item mais fácil de violar sem perceber é o piso de
+   **8 linhas autorais contínuas**: trecho copiado da coletânea não conta para o total. A PUC-SP
+   tem regra equivalente — até 7 linhas zera, e cópia da prova é desconsiderada na contagem.
+
 ---
 
 ## 5. Como as bancas escolhem as fontes

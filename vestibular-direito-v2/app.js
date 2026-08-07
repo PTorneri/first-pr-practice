@@ -1352,6 +1352,22 @@
   // diário das dissertativas, em aba própria, e o usuário escolhe a proposta.
   let redacaoAbertaId = null;
 
+  // Com 55 propostas a aba virou rolagem longa, e o filtro é por MODELO de tema
+  // (pergunta binária, entre X e Y, tema abstrato...), não por assunto. O modelo
+  // é o que decide como o texto abre: a pergunta pede tese na primeira linha, o
+  // "entre X e Y" pede arbitragem entre dois polos legítimos, o tema nominal
+  // pede recorte antes de tudo. Treinar um modelo de cada vez é o uso natural
+  // disso, e é o que uma lista corrida não permite.
+  let redacaoFiltroModelo = null;
+
+  // Do mais frequente nas provas ao mais raro — a mesma ordem do cabeçalho de
+  // data/redacoes.js, onde cada modelo está documentado com o enunciado real
+  // que o originou.
+  const REDACAO_MODELOS = [
+    "pergunta binária", "pergunta disjuntiva", "entre X e Y", "tema abstrato",
+    "tema-afirmação", "caso concreto", "a quem cabe", "frase-provocação",
+  ];
+
   function getRedacaoAnswers() { return loadJSON(LS_REDACAO_ANSWERS, {}); }
   function getRedacaoChecklist() { return loadJSON(LS_REDACAO_CHECKLIST, {}); }
   function getRedacaoDone() { return loadJSON(LS_REDACAO_DONE, {}); }
@@ -1364,6 +1380,9 @@
     const done = getRedacaoDone();
     const feitas = propostas.filter((p) => done[p.id]).length;
 
+    const cfgTrilha = (window.VD_TRILHA && window.VD_TRILHA.config()) || null;
+    const redacaoUI = (cfgTrilha && cfgTrilha.redacaoUI) || {};
+
     const intro = document.createElement("div");
     // "card" traz só fundo e borda; o padding e o espaçamento entre cards vêm
     // de "lesson-card", que é o que as outras abas usam.
@@ -1371,16 +1390,39 @@
     intro.innerHTML = `
       <div class="lesson-eyebrow">Prova de Redação</div>
       <h2 style="margin-top:4px;">Redação em Língua Portuguesa</h2>
-      <p class="lesson-desc">Texto <strong>dissertativo-argumentativo, em prosa, de 20 a 30 linhas</strong>, como
-      pedem os editais da FGV e do Insper. A correção considera três quesitos: <strong>tema e estrutura</strong>,
-      <strong>articulação e argumentação</strong> e <strong>correção gramatical e adequação vocabular</strong>.</p>
-      <p class="hint">Nenhuma das duas bancas exige proposta de intervenção — isso é regra do ENEM. Aqui o que
-      conta é defender uma tese com clareza e sustentá-la até o fim.</p>
+      <p class="lesson-desc">${redacaoUI.desc || "Texto <strong>dissertativo-argumentativo, em prosa</strong>, com coletânea de textos de apoio."}</p>
+      <p class="hint">${redacaoUI.hint || ""}</p>
       <div class="dissert-counter"><strong>Propostas já treinadas:</strong> ${feitas}/${propostas.length}</div>
     `;
     container.appendChild(intro);
 
-    propostas.forEach((p) => {
+    // Filtro por modelo de tema. Os rótulos vêm do campo `modelo` das próprias
+    // propostas, e a ordem de REDACAO_MODELOS é a das provas, não a de aparição.
+    const modelos = REDACAO_MODELOS.filter((m) => propostas.some((p) => p.modelo === m));
+    if (modelos.length > 1) {
+      const filtro = document.createElement("div");
+      filtro.className = "area-filter";
+      const pill = (rotulo, valor, quantas) => {
+        const b = document.createElement("button");
+        b.type = "button";
+        b.className = "area-pill" + (redacaoFiltroModelo === valor ? " active" : "");
+        b.textContent = `${rotulo} (${quantas})`;
+        b.addEventListener("click", () => {
+          redacaoFiltroModelo = valor;
+          renderRedacaoTab();
+        });
+        return b;
+      };
+      filtro.appendChild(pill("Todos os modelos", null, propostas.length));
+      modelos.forEach((m) => filtro.appendChild(pill(m, m, propostas.filter((p) => p.modelo === m).length)));
+      container.appendChild(filtro);
+    }
+
+    const visiveis = redacaoFiltroModelo
+      ? propostas.filter((p) => p.modelo === redacaoFiltroModelo)
+      : propostas;
+
+    visiveis.forEach((p) => {
       const card = document.createElement("div");
       card.className = "lesson-card";
       const aberta = redacaoAbertaId === p.id;
@@ -1388,7 +1430,7 @@
 
       if (!aberta) {
         card.innerHTML = `
-          <div class="lesson-eyebrow">Proposta · ~${p.tempoSugerido} min</div>
+          <div class="lesson-eyebrow">Proposta${p.modelo ? " · " + escapeHtml(p.modelo) : ""} · ~${p.tempoSugerido} min</div>
           <h3 style="margin:4px 0 10px;">${escapeHtml(p.tema)}${badge}</h3>
           <button class="btn btn-secondary redacao-abrir" style="width:auto">Abrir proposta</button>
         `;
@@ -1414,10 +1456,19 @@
       `).join("");
 
       card.innerHTML = `
-        <div class="lesson-eyebrow">Proposta · ~${p.tempoSugerido} min</div>
+        <div class="lesson-eyebrow">Proposta${p.modelo ? " · " + escapeHtml(p.modelo) : ""} · ~${p.tempoSugerido} min</div>
         <h3 style="margin:4px 0 10px;">${escapeHtml(p.tema)}${badge}</h3>
         <div class="q-support">${escapeHtml(p.texto_apoio)}</div>
         <div class="q-enunciado">${escapeHtml(p.comando)}</div>
+        ${p.comandoInsper ? `
+        <button class="btn-link redacao-toggle-insper" type="button">Ver o mesmo tema no formato do Insper</button>
+        <div class="redacao-insper-wrap" hidden>
+          <div class="q-enunciado">${escapeHtml(p.comandoInsper)}</div>
+          <p class="hint" style="margin:0 0 8px;">A prova do Insper traz dois temas e você escolhe um. A
+          questão-tema tem de ser copiada como título, o texto vai de 10 a 30 linhas (e não 20 a 30) e o
+          apoio é um contexto de dois parágrafos, não uma coletânea. Redação montada com modelo pronto de
+          internet é anulada pelo edital.</p>
+        </div>` : ""}
         <textarea class="dissert-textarea" rows="18" placeholder="Escreva sua redação aqui (20 a 30 linhas)...">${escapeHtml(answers[p.id] || "")}</textarea>
         <div class="hint redacao-contador"></div>
         <button class="btn-link redacao-toggle-grade" type="button">Ver grade de correção</button>
@@ -1453,6 +1504,19 @@
         saveJSON(LS_REDACAO_ANSWERS, atuais);
         atualizaContador();
       });
+
+      // Só existe nas propostas cujo tema é pergunta: as vinte questões-tema
+      // publicadas pelo Insper são todas perguntas, nenhuma nominal.
+      const toggleInsper = card.querySelector(".redacao-toggle-insper");
+      if (toggleInsper) {
+        const insperWrap = card.querySelector(".redacao-insper-wrap");
+        toggleInsper.addEventListener("click", () => {
+          insperWrap.hidden = !insperWrap.hidden;
+          toggleInsper.textContent = insperWrap.hidden
+            ? "Ver o mesmo tema no formato do Insper"
+            : "Ocultar o formato do Insper";
+        });
+      }
 
       const toggle = card.querySelector(".redacao-toggle-grade");
       const gradeWrap = card.querySelector(".redacao-grade-wrap");

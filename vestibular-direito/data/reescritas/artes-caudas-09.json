@@ -1,0 +1,77 @@
+{
+  "_comentario": [
+    "Lote 9 de artes-cultura: 46 a 51, dezoito distratores.",
+    "",
+    "Bloco de escolas literárias brasileiras -- Naturalismo, Romantismo indianista,",
+    "Barroco, Arcadismo, Simbolismo, Parnasianismo. É o conjunto em que o molde ficou",
+    "mais mecânico: em todas as seis a alternativa de atribuição nomeia outra escola e",
+    "descreve o traço dela em seguida, e a de anacronismo diz o século. Um candidato",
+    "que decorasse 'a que cita outra escola está errada' zerava o erro sem estudar",
+    "literatura.",
+    "",
+    "As substituições usam o vizinho de mesma escola ou de mesmo período, que é o que",
+    "obriga a distinguir de verdade:",
+    "",
+    "  46  a leitura de O Cortiço como denúncia das condições de moradia -- que a obra",
+    "      de fato permite, e passa ao lado do determinismo biológico, que é o ponto.",
+    "  47  a valorização de Iracema como fundação de uma literatura nacional, que é",
+    "      historicamente correta e não trata de quem representa quem.",
+    "  49  o Arcadismo lido como programa de retorno à natureza no sentido de Rousseau,",
+    "      que é a filiação iluminista real do movimento e desloca a questão.",
+    "  50  a musicalidade do verso como recurso técnico de sonoridade, que é traço",
+    "      simbolista e fica na forma, sem a opção pela sugestão contra a descrição.",
+    "  51  a arte pela arte defendida como recusa do didatismo, que é quase a resposta",
+    "      e para na intenção do autor em vez de chegar ao critério de valor."
+  ],
+  "subtopic": "artes-cultura",
+  "questoes": {
+    "artes-cultura-46": {
+      "alternativas": {
+        "b": "a leitura do romance como denúncia das condições de moradia coletiva no Rio de Janeiro do fim do Império, com sua insalubridade, aglomeração e ausência completa de saneamento nas habitações populares da cidade",
+        "c": "o reconhecimento do Naturalismo como a corrente que introduziu na literatura brasileira a observação minuciosa do ambiente e o método de descrição inspirado nas ciências naturais do período",
+        "e": "a discussão sobre o lugar do romance naturalista nas listas de leitura obrigatória, dado que suas descrições de personagens negros reproduzem o vocabulário racial corrente no século XIX"
+      },
+      "explicacao": "O Naturalismo de O Cortiço explica o comportamento dos personagens por meio, raça e momento, e é exatamente essa chave determinista que a crítica de autoras como Sueli Carneiro permite recusar: desigualdades sociais e raciais não decorrem de característica biológica de grupo, e sim de exclusão histórica. Ler o romance como denúncia das condições de moradia é possível e passa ao lado do determinismo, que é o que está em jogo. Reconhecer no Naturalismo a introdução do método descritivo das ciências naturais descreve a corrente sem tocar na crítica. A discussão sobre o vocabulário racial do século XIX nas listas de leitura é problema de recepção escolar. Dizer que o cortiço como cenário já basta para a relação fica no ambiente. E os personagens condicionados por determinismo são do Naturalismo, não do Romantismo indianista de Alencar."
+    },
+    "artes-cultura-47": {
+      "alternativas": {
+        "b": "a valorização de Iracema como obra que ajudou a fundar uma literatura nacional distinta da matriz portuguesa, propósito declarado do projeto romântico brasileiro nas décadas centrais do século XIX",
+        "c": "o debate sobre a permanência de nomes de origem indígena na toponímia brasileira, herança linguística que atravessa cidades, rios e acidentes geográficos de várias regiões do país",
+        "d": "a presença de vocabulário de origem tupi na obra, recurso que aproxima o texto da língua falada pelos povos retratados e enriquece o repertório do português literário brasileiro"
+      },
+      "explicacao": "Alencar constrói um indígena idealizado e estilizado, produzido por um autor não indígena para fundar uma identidade nacional, e o contraste com o presente está na demanda dos próprios povos por autorrepresentação. A valorização de Iracema como obra fundadora de uma literatura nacional é historicamente correta e não trata de quem representa quem, que é o eixo da questão. O vocabulário de origem tupi e a toponímia indígena são heranças linguísticas, de outra ordem. Dizer que a presença de uma personagem indígena já basta para a relação ignora a idealização. E a idealização romântica do indígena é de Alencar, não do Naturalismo de Aluísio Azevedo, que trabalha com determinismo e não com heroísmo nobre."
+    },
+    "artes-cultura-48": {
+      "alternativas": {
+        "a": "a valorização do cultismo e do conceptismo como jogo verbal de alta elaboração, procedimento que exige do leitor decifrar antíteses e conceitos engenhosos distribuídos ao longo de cada estrofe do poema",
+        "b": "a circulação manuscrita de sua poesia satírica, que corria de mão em mão sem passar por tipografia e por isso chegou até hoje em versões que divergem entre si",
+        "d": "o debate sobre a atribuição de autoria de poemas satíricos do período colonial, cujo conjunto foi reunido bem depois e inclui peças de paternidade discutida por pesquisadores"
+      },
+      "explicacao": "O que aproxima Gregório de Matos do presente é a disposição de satirizar publicamente quem tem poder e de arcar com a retaliação que isso provoca — o que hoje se vê em comediantes e criadores de conteúdo que criticam figuras de poder pelo humor ácido. O cultismo e o conceptismo são o procedimento formal de sua poesia, e a questão pergunta pela função social da sátira. A circulação manuscrita e a discussão sobre autoria são problemas de transmissão e de crítica textual. Dizer que a existência de rima já basta para a relação ignora a crítica ao poder. E a sátira contundente é de Gregório de Matos, não do Arcadismo de Tomás Antônio Gonzaga, cuja poesia se volta à vida pastoril e ao amor."
+    },
+    "artes-cultura-49": {
+      "alternativas": {
+        "c": "a filiação do Arcadismo ao pensamento iluminista, que via na natureza um modelo de ordem e de razão a ser recuperado contra os excessos e os artifícios que marcavam a vida cortesã daquele período",
+        "d": "o uso de pseudônimos pastoris pelos poetas árcades, que assinavam seus versos como pastores da Arcádia para marcar o pertencimento ao programa estético comum do grupo",
+        "e": "a associação entre a poesia árcade mineira e a Inconfidência, dado que vários de seus autores participaram da conjuração e tiveram sua obra lida depois à luz desse episódio"
+      },
+      "explicacao": "O Arcadismo opõe simplicidade e equilíbrio ao excesso retórico do Barroco, e idealiza a vida no campo como espaço de serenidade — impulso que reaparece em movimentos contemporâneos de desaceleração e retorno ao campo diante da sobrecarga da vida urbana e digital. A filiação iluminista é verdadeira e é o distrator mais forte, porque descreve a fundamentação filosófica do movimento em vez da idealização do campo que a questão aproxima do presente. Os pseudônimos pastoris são convenção de assinatura, e a ligação com a Inconfidência é dado biográfico e histórico. Dizer que uma paisagem rural já basta para a relação ignora a simplicidade formal. E a valorização do bucólico não é do Simbolismo, voltado à sugestão e à musicalidade."
+    },
+    "artes-cultura-50": {
+      "alternativas": {
+        "a": "o cuidado com a sonoridade do verso, obtido por aliterações e repetição de vogais, recurso técnico que dá ao poema simbolista uma musicalidade que se reconhece já na primeira leitura feita em voz alta",
+        "c": "a recuperação da obra de Cruz e Sousa pela crítica do século XX, que passou a lê-la também à luz de sua condição de poeta negro em uma sociedade recém-saída da escravidão",
+        "e": "a preferência por temas ligados à noite, à morte e ao mistério, repertório que o Simbolismo compartilha com a poesia romântica de gerações anteriores no Brasil e na Europa"
+      },
+      "explicacao": "O Simbolismo escolhe sugerir em vez de descrever: o sentido chega por atmosfera e símbolo, não por enunciado claro — e é esse procedimento que se reencontra em produções audiovisuais abstratas e sensoriais que dispensam narrativa linear. O cuidado com a sonoridade é traço simbolista e fica na forma, sem alcançar a escolha entre sugerir e descrever, que é a distinção pedida. A recuperação crítica de Cruz e Sousa como poeta negro é questão de recepção, e o repertório noturno é temático. Dizer que a presença de uma metáfora já basta para a relação ignora a busca pela sugestão. E a valorização do símbolo não é do Parnasianismo, que cultua rigor métrico e clareza."
+    },
+    "artes-cultura-51": {
+      "alternativas": {
+        "a": "a defesa da arte pela arte como recusa do didatismo, posicionamento que dispensa o poeta da obrigação de instruir o leitor ou de tomar partido diante das grandes questões públicas de seu tempo",
+        "d": "o domínio de formas fixas como o soneto, cuja estrutura de catorze versos e esquema de rimas o Parnasianismo tomou como prova de competência técnica do poeta",
+        "e": "a preferência por vocabulário raro e construções eruditas, escolha que aproxima o poema da tradição clássica e o distancia da língua falada no cotidiano da época"
+      },
+      "explicacao": "O Parnasianismo cultua o rigor formal e sustenta a arte pela arte, e a questão que isso reabre hoje é se a obra precisa carregar função social ou crítica, ou se o virtuosismo técnico já basta para lhe dar valor. A defesa da arte pela arte como recusa do didatismo é o distrator decisivo: ele descreve a posição do poeta parnasiano e para nela, enquanto a questão pede o debate sobre o critério de valor da obra. O domínio do soneto e a preferência por vocabulário raro são traços formais do movimento. Dizer que uma rima perfeita já basta para a relação ignora a recusa do engajamento. E a busca por perfeição formal desvinculada de engajamento é do Parnasianismo, não do Naturalismo, que se ocupa das condições sociais."
+    }
+  }
+}

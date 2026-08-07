@@ -122,7 +122,29 @@ $CAUDA_RX = "$CAUDA_NOUN[^.;]{0,60}\s+que\s+(ignora|desconsidera|contraria|confu
   "|$CAUDA_NOUN[^.;]{0,30}(equivocad[ao]|incompatível|implausível|anacrônic[ao]|improvável|inaplicável|incorret[ao]|contrári[ao]|contrariad[ao]|inexistente|categóric[ao])\b" +
   '|já bastaria|basta para relacion|é um traço definidor|atribuíd[ao] tradicionalmente|tradicionalmente atribuíd' +
   '|a antecipação, p|a previsão, p|inexistente (à|na|no|nos) |tecnologia então|mídia tecnologicamente inexistente' +
-  '|confusão comum|categoria inexistente|classificação oposta|tendência oposta|diametralmente opost|contradição direta'
+  '|confusão comum|categoria inexistente|classificação oposta|tendência oposta|diametralmente opost|contradição direta' +
+  # Terceira rodada de levantamento, agora sobre a ÚLTIMA oração de cada distrator
+  # (o trecho depois da última vírgula, que é onde a cauda mora). Contei os inícios
+  # mais frequentes em todo o banco e conferi os ambíguos por amostra:
+  #
+  #   31x  ", sem relação com ..."     -> "sem relação com sua estratégia de
+  #                                       persuasão", "sem relação com a sigla ESG"
+  #   15x  ", o oposto do ..."         11x  ", quando na verdade ..."
+  #    8x  ", ao contrário do ..."      6x  ", efeito oposto ao ..."
+  #    5x  ", o que contraria ..."
+  #
+  # Todas dizem ao candidato que a alternativa não serve -- por estar fora do
+  # assunto ou por afirmar o contrário do certo. Deixei de fora ", seja qual for"
+  # e ", uma vez que", que na amostra apareceram em uso legítimo.
+  #
+  # ", ao contrário de" ENTROU e SAIU no mesmo dia: parecia cauda e o teste mostrou
+  # que não é. Ele acusou gramatica-97(b), texto meu, onde "pede o indicativo por
+  # introduzir fato já consumado, ao contrário de 'embora', que apresenta a
+  # concessão como hipótese" é contraste legítimo entre duas conjunções, parte da
+  # afirmação e não comentário sobre ela. Contrastar dois termos é português comum;
+  # a cauda é dizer que a própria alternativa está errada.
+  '|,\s*sem (relação com|qualquer relação)|quando na verdade|,\s*o oposto d' +
+  '|efeito oposto ao|o que contraria|em sentido invertido|tendência inversa|erroneamente'
 
 # As duas réguas do verify-banco.ps1, copiadas daqui de propósito.
 #

@@ -1,0 +1,70 @@
+{
+  "_comentario": [
+    "Lote 4 de gramatica: 89, 91, 93, 94, 96. Oito distratores.",
+    "",
+    "Bloco de conjuncoes, voz passiva sintetica, pontuacao de assindeticas, regencia",
+    "de 'ansiar' e locucao prepositiva.",
+    "",
+    "Duas formas novas de cauda apareceram aqui, e as duas sao piores que a comum",
+    "porque nao dependem de gramatica nenhuma para serem descartadas:",
+    "",
+    "  94(c) 'esta correta apenas em textos jornalisticos, sendo incomum em outros",
+    "        generos, restricao de registro que nao encontra respaldo em nenhuma",
+    "        gramatica normativa'. A alternativa cita a inexistencia da propria regra",
+    "        que inventa.",
+    "  91(b) 'esta correta apenas porque a frase menciona equipamentos tecnologicos,",
+    "        contexto que dispensaria a concordancia, afirmacao sem qualquer respaldo",
+    "        na regra'. O criterio e absurdo de saida -- equipamento tecnologico nao",
+    "        tem relacao alguma com concordancia -- e a cauda ainda avisa que e",
+    "        absurdo.",
+    "",
+    "Os substitutos afirmam o erro real de cada questao:",
+    "",
+    "  89  'enquanto' lido como adversativo, que e leitura possivel do conectivo em",
+    "      outros contextos e falha neste, onde os dois eventos sao simultaneos.",
+    "  91  o 'se' como indice de indeterminacao, que e a confusao classica da voz",
+    "      passiva sintetica e a razao pela qual 'aluga-se casas' aparece em placa.",
+    "  93  a sequencia lida como periodo com sujeito eliptico bem formado, que",
+    "      desloca o problema da pontuacao para o sujeito.",
+    "  94  'ansiar' com 'para', que e a preposicao que a intuicao sugere.",
+    "  96  a crase explicada pela regencia de 'aguardar', que e o verbo da frase e nao",
+    "      o que rege a locucao."
+  ],
+  "subtopic": "gramatica",
+  "questoes": {
+    "gramatica-89": {
+      "alternativas": {
+        "a": "'assim que' introduz oração de causa, apresentando a divulgação do resultado como o motivo da comemoração, e 'enquanto' introduz oração de finalidade, indicando o propósito da organização dos não aprovados",
+        "b": "ambas introduzem orações de sentido condicional, apresentando a divulgação do resultado e a organização dos candidatos como hipóteses cuja realização ainda depende de circunstâncias não informadas",
+        "c": "'enquanto' introduz oração adversativa, opondo a reação dos aprovados à dos que não passaram, contraste que o período estabelece entre os dois grupos de candidatos mencionados"
+      },
+      "explicacao": "'Assim que' marca imediatismo e 'enquanto' marca simultaneidade: as duas situam os eventos no tempo, e é isso que a frase faz ao encadear a divulgação, a comemoração e a organização para a próxima edição. A leitura de 'enquanto' como adversativo é a mais defensável do conjunto, porque o conectivo admite esse valor em outros contextos — aqui, porém, os dois eventos ocorrem ao mesmo tempo, e é a simultaneidade que o período marca. Ler 'assim que' como causa troca a relação temporal por relação de motivo. O sentido condicional não se sustenta diante de fatos já concluídos. E chamar 'enquanto' de proporcional exigiria desenvolvimento gradual, que a frase não descreve."
+    },
+    "gramatica-91": {
+      "alternativas": {
+        "a": "está incorreta porque falta a preposição 'de' antes de 'salas comerciais', complemento que o verbo 'alugar' passa a exigir quando acompanhado da partícula 'se' em construção de sentido passivo",
+        "b": "está correta porque 'se' funciona como índice de indeterminação do sujeito, e nesse caso a flexão do verbo acompanha o número do termo que vem depois dele na oração"
+      },
+      "explicacao": "Em 'alugam-se salas comerciais' o 'se' é partícula apassivadora e 'salas comerciais' é o sujeito paciente, o que leva o verbo ao plural. Ler o 'se' como índice de indeterminação é a confusão clássica dessa estrutura, e é dela que vem o 'aluga-se casas' das placas: ali o falante trata 'casas' como objeto, quando é sujeito. Exigir a preposição 'de' antes do complemento supõe uma regência que o verbo não tem nessa construção. Dizer que a frase está correta porque menciona equipamentos não descreve critério gramatical algum. E manter o verbo no singular por indeterminação repete o mesmo equívoco da análise do 'se'."
+    },
+    "gramatica-93": {
+      "alternativas": {
+        "d": "está incorreta apenas porque falta um sujeito explícito em cada oração, uma vez que a supressão do sujeito em orações coordenadas assindéticas prejudica a identificação de quem pratica cada ação narrada"
+      },
+      "explicacao": "As três orações são coordenadas assindéticas, sem conjunção entre elas, e por isso pedem vírgulas: 'Terminou a reunião, entrou correndo na sala ao lado, esqueceu completamente o notebook sobre a mesa'. Localizar o problema na ausência de sujeito explícito desloca a questão da pontuação para a sintaxe, e o sujeito elíptico é plenamente aceito. Dizer que a frase dispensa sinais porque as orações são curtas ignora que cada uma tem verbo próprio. Substituir por ponto e vírgula é possível em outros arranjos, mas não é o que a sequência pede. E separar tudo em três frases independentes fragmenta uma sequência narrativa que se quer encadeada."
+    },
+    "gramatica-94": {
+      "alternativas": {
+        "c": "está incorreta; 'ansiar' deveria ser regido pela preposição 'para', que é a que introduz complemento de verbos indicando expectativa em relação a algo que se espera obter no futuro"
+      },
+      "explicacao": "No sentido de desejar ansiosamente, 'ansiar' é transitivo indireto e rege a preposição 'por', o que a frase emprega corretamente em 'ansiavam por uma solução'. A preposição 'para' é a que a intuição sugere, por associação com a ideia de finalidade, e não é a que o verbo pede. Retirar a preposição o trata como transitivo direto, confusão com verbos de objeto direto simples. Fazer a regência variar conforme o complemento ser abstrato ou concreto inventa um critério que a norma não usa. E restringir a construção a determinado gênero de texto transforma regência em questão de estilo."
+    },
+    "gramatica-96": {
+      "alternativas": {
+        "a": "está incorreta porque 'espera' é substantivo que rejeita o artigo definido quando vem regido de preposição, de modo que a preposição 'a' permanece sozinha antes dele na locução",
+        "b": "está incorreta, pois quem rege o complemento é o verbo 'aguardar', que é transitivo direto e não admite preposição antes do termo que o completa na oração"
+      },
+      "explicacao": "'À espera de' é locução prepositiva feminina consagrada pelo uso, formada pela fusão da preposição com o artigo, e por isso leva o acento. Atribuir a regência ao verbo 'aguardar' é o desvio mais fino: o verbo é de fato transitivo direto, mas o que exige a preposição aqui é a locução, não ele. Dizer que 'espera' rejeita artigo contraria o uso consagrado dessa locução. Condicionar o acento à presença de complemento depois dela inventa uma exigência que a regra não faz. E fazê-lo depender da posição da locução no período introduz um critério de lugar onde não existe."
+    }
+  }
+}

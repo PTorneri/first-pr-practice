@@ -1,0 +1,69 @@
+{
+  "_comentario": [
+    "Lote 3 de gramatica: 78, 81, 83, 85, 88. Onze distratores.",
+    "",
+    "Bloco de crase em toponimo, concordancia nominal, expressao aproximativa,",
+    "travessao e conectivo explicativo.",
+    "",
+    "Aqui aparece a variante mais preguicosa do molde nesta frente: o distrator",
+    "construido com 'nunca' ou 'sempre' MAIS a cauda. Em 81(e), 'adjetivos nunca podem",
+    "se referir a dois substantivos simultaneamente, exigindo sempre a repeticao...,",
+    "afirmacao que contraria o uso corrente'. A metrica descartava essa alternativa",
+    "duas vezes -- pela palavra categorica e pela autorrefutacao -- e o candidato,",
+    "tres, porque a afirmacao e absurda de saida. Aquelas questoes vinham com quatro",
+    "opcoes reais, nao cinco.",
+    "",
+    "Os substitutos afirmam o erro que a questao quer pegar:",
+    "",
+    "  78  a crase decidida pela terminacao em -a do toponimo, que e o critério",
+    "      intuitivo e errado (Bahia e Salvador terminam igual e se comportam",
+    "      diferente).",
+    "  81  a concordancia com o substantivo mais proximo, que e a regra REAL para",
+    "      adjetivo ANTEposto -- aplicada aqui ao posposto, que e o erro exato.",
+    "  83  o verbo concordando com 'cerca de' e 'perto de' como se fossem o nucleo,",
+    "      que e a leitura que a questao testa.",
+    "  85  o travessao trocado por parenteses como exigencia de registro formal, que",
+    "      e crenca corrente sobre pontuacao.",
+    "  88  'isto e' lido como conectivo de conclusao, confusao com 'portanto' que a",
+    "      propria alternativa (c) ja explorava -- agora sem entregar."
+  ],
+  "subtopic": "gramatica",
+  "questoes": {
+    "gramatica-78": {
+      "alternativas": {
+        "b": "'a Salvador' deveria levar crase e 'à Bahia' deveria dispensá-la, porque a crase diante de topônimo se decide pela terminação da palavra, e ambos terminam em vogal que pede o acento no primeiro caso",
+        "d": "nenhuma das duas ocorrências deveria levar crase, porque nomes próprios de lugar dispensam o artigo definido, funcionando como designações únicas que não precisam ser determinadas por ele",
+        "e": "ambas as ocorrências deveriam levar crase, porque o verbo 'ir' e o verbo 'voltar' pedem a preposição 'a' e ela se contrai com o artigo nos casos em que o complemento indica lugar de destino"
+      },
+      "explicacao": "A crase diante de topônimo depende de o nome ser usado com artigo: 'a Bahia' costuma vir com artigo, o que produz 'à Bahia'; 'Salvador' costuma vir sem, o que mantém 'a Salvador'. Decidir pela terminação da palavra é o critério intuitivo e falha justamente aqui, já que os dois topônimos terminam em vogal e se comportam de modo diferente. Dizer que nomes de lugar dispensam artigo contraria o uso consagrado de 'a Bahia', 'o Rio de Janeiro', 'a França'. Fazer a contração depender do verbo de movimento confunde a preposição, que de fato vem do verbo, com o artigo, que vem do topônimo. E supor que as duas cidades admitem artigo apaga a diferença que a frase exemplifica."
+    },
+    "gramatica-81": {
+      "alternativas": {
+        "e": "está incorreta; o adjetivo deveria concordar com o substantivo mais próximo, ficando 'exclusiva' para acompanhar 'medalha', uma vez que é o termo imediatamente anterior a ele na sequência coordenada"
+      },
+      "explicacao": "Quando o adjetivo posposto se refere a dois substantivos de gêneros diferentes, a concordância se faz no masculino plural, e é isso que 'exclusivos' registra ao qualificar troféu e medalha. Concordar com o substantivo mais próximo é a regra do adjetivo ANTEposto, e aplicá-la ao posposto é exatamente o erro que a questão testa. Dizer que a posição do adjetivo antes dos substantivos alteraria a regra chega perto e inverte qual das duas posições admite a concordância parcial. E afirmar que o adjetivo só está correto por vir posposto não explica por que o masculino plural, que é o ponto."
+    },
+    "gramatica-83": {
+      "alternativas": {
+        "b": "apenas a primeira ocorrência está correta; a segunda deveria ir para o singular, porque 'deles' é pronome de forma única e passa a funcionar como núcleo do sujeito no lugar do numeral que o antecede",
+        "d": "o verbo deveria ficar no singular nas duas ocorrências, porque 'cerca de' e 'perto de' formam locuções que atuam como núcleo do sujeito e impõem a flexão singular ao verbo que as segue",
+        "e": "as expressões 'cerca de' e 'perto de' funcionam como advérbios e não integram o sujeito, de modo que a concordância se faz com o termo que aparece imediatamente antes do verbo em cada oração"
+      },
+      "explicacao": "Em expressões aproximativas quem determina a concordância é o numeral: 'cerca de trinta funcionários' e 'perto de dez deles' levam o verbo ao plural porque trinta e dez são plurais. Tratar 'cerca de' e 'perto de' como núcleo do sujeito é a leitura que a questão testa, e ela ignora que essas locuções apenas aproximam a quantidade. Fazer 'deles' assumir o lugar do numeral desfaz a mesma relação na segunda ocorrência. Chamá-las de advérbios que não integram o sujeito muda a análise sintática sem mudar o fato de a concordância seguir o numeral. E dizer que a expressão inteira é invariável e serve de núcleo repete o primeiro equívoco."
+    },
+    "gramatica-85": {
+      "alternativas": {
+        "b": "deveriam ser substituídos por parênteses, porque em registro formal a informação intercalada pede esse sinal, reservando-se o travessão a diálogos e a textos de natureza literária",
+        "c": "deveriam ser substituídos por dois-pontos antes da explicação e vírgula depois dela, combinação que a norma prevê para introduzir esclarecimentos sobre um termo já mencionado no período"
+      },
+      "explicacao": "O par de travessões isola uma explicação intercalada e cumpre função equivalente à de um par de vírgulas ou de parênteses, o que a frase faz corretamente. Trocá-los por parênteses por exigência de registro formal é crença corrente sobre pontuação e não regra: os três recursos são admitidos, e a escolha entre eles é de ênfase. A combinação de dois-pontos com vírgula não isola uma intercalação, porque os dois-pontos anunciam o que vem depois em vez de encaixar um trecho no meio. E dizer que o travessão não pode aparecer em par confunde o travessão isolado, que marca mudança de interlocutor ou corte, com o par intercalador."
+    },
+    "gramatica-88": {
+      "alternativas": {
+        "b": "introduzir uma ressalva que limita o alcance do que foi dito antes, sinalizando que a melhora do paciente vale apenas para os aspectos verificados nos exames e não para a evolução clínica em seu conjunto",
+        "e": "indicar a conclusão a que se chega a partir da informação anterior, apresentando a melhora nos exames como o resultado que se deduz da boa resposta ao tratamento relatada na primeira oração"
+      },
+      "explicacao": "'Isto é' introduz reformulação: o que vem depois diz em outros termos o que foi afirmado antes, e é isso que ocorre entre responder bem ao tratamento e apresentar melhora nos exames. A leitura como conclusão é a confusão mais frequente, com 'portanto' e 'logo', e falha porque a segunda oração não deriva da primeira, ela a explicita. Tomar o conectivo como ressalva que limita o alcance atribui a ele valor concessivo que não tem. E ler a passagem como comparação entre tratamentos supõe um segundo tratamento que a frase não menciona."
+    }
+  }
+}

@@ -14,18 +14,40 @@
 # repositório como artefato estático e publica. Sem Jekyll, sem etapa opaca,
 # com log visível em caso de falha.
 #
-# Duas escolhas que resolvem problemas concretos daquele dia:
-#
-#   concurrency com cancel-in-progress: FALSE — no modo legacy, cada push novo
-#   CANCELAVA o build em andamento. Com duas pessoas publicando a cada poucos
-#   minutos e um build de nove minutos, nenhum chegava ao fim. Aqui os deploys
-#   entram em fila em vez de se derrubarem: o último a entrar é o último a
-#   publicar, e todos completam.
-#
 #   workflow_dispatch — no dia do incidente, o push parou de disparar build e
 #   foi preciso pedir um pela API para destravar. Com o gatilho manual dá para
 #   forçar uma publicação pela interface do Actions, sem precisar de um commit
 #   vazio nem de chamada de API.
+#
+# 2026-08-06, algumas horas depois: cancel-in-progress VOLTOU A SER TRUE.
+#
+# A escolha original era FALSE, para que os deploys entrassem em fila em vez de
+# se derrubarem — no modo legacy, com duas pessoas publicando a cada poucos
+# minutos e um build de NOVE MINUTOS, cada push novo cancelava o anterior e
+# nenhum chegava ao fim.
+#
+# Essa premissa morreu junto com o modo legacy. Medido nos runs desta esteira,
+# a publicação leva 20 a 30 SEGUNDOS. Duas publicações colidirem nessa janela é
+# raro, e quando colidem o resultado certo é justamente o que o cancelamento
+# produz: o push mais novo já contém os commits do mais velho, então publicar
+# só o último não perde nada. Para um site estático, "o último vence" é a
+# semântica correta.
+#
+# O que FALSE custou, medido: às 18:54 um run ficou preso esperando runner e
+# não registrou um único passo. Com a fila sem quem a fure, todos os deploys
+# seguintes empilharam atrás dele. Das 18:54 às 22:17 — três horas e meia —
+# nada foi publicado, e só destravou quando alguém cancelou os dois runs à mão.
+# É o MESMO sintoma que este arquivo foi criado para resolver (site servindo
+# versão antiga), pelo mecanismo oposto.
+#
+# Com TRUE, aquele push das 19:23 teria cancelado o run preso e publicado.
+#
+# timeout-minutes no job cobre o outro modo de falha, que o cancelamento não
+# alcança: um job que JÁ está rodando e trava (o deploy-pages pendurado na API
+# do Pages, por exemplo). Sem ele o padrão do GitHub é 360 minutos — seis horas
+# de fila travada num job que normalmente dura 25 segundos. Note que
+# timeout-minutes NÃO conta tempo esperando runner, que foi exatamente o caso
+# das 18:54: por isso ele é complemento do cancel-in-progress, não substituto.
 
 name: Publica no GitHub Pages
 
@@ -43,7 +65,7 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   publicar:
@@ -51,6 +73,10 @@ jobs:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
     runs-on: ubuntu-latest
+    # 10 minutos para um job que leva 25 segundos: folga de 20x para uma rede
+    # ruim ou um bundle maior, e ainda assim curto o bastante para que um job
+    # pendurado não segure a publicação por horas.
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 

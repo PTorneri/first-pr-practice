@@ -1,0 +1,74 @@
+{
+  "_comentario": [
+    "Lote 12 de artes-cultura: 65 a 70, quinze distratores.",
+    "",
+    "Bloco Neorrealismo / Marcuse / Sontag / fotografia / arte conceitual / Cássia",
+    "Eller. Em 65(a) o molde produziu o anacronismo mais desastrado do arquivo:",
+    "dizia que De Sica e Rossellini teriam previsto 'os debates que Hannah Arendt",
+    "formularia décadas depois'. Arendt publicou Origens do Totalitarismo em 1951 e",
+    "o Neorrealismo é de 1945-1952 -- são contemporâneos, e não há décadas nenhuma",
+    "entre eles. O distrator errava o fato para poder se refutar.",
+    "",
+    "Os substitutos:",
+    "",
+    "  65  a filmagem em locação com atores não profissionais lida como resposta à",
+    "      falta de estúdios destruídos na guerra. É explicação material verdadeira e",
+    "      não é a questão da reconstrução das instituições.",
+    "  66  o consumo que oferece variedade de opções dentro de uma faixa estreita, que",
+    "      é quase a tese de Marcuse e para na oferta em vez da capacidade de conceber",
+    "      alternativa.",
+    "  67  a crítica que descreve a obra em vez de decifrá-la, que é justamente o que",
+    "      Sontag defende -- distrator perigoso e por isso bom.",
+    "  68  o fotógrafo que dispara em rajada e escolhe depois, que mantém a escolha",
+    "      criativa e a desloca do momento do disparo para a edição.",
+    "  69  a obra executada por assistentes segundo instrução do artista, que é prática",
+    "      da arte conceitual e não a reatualização contemporânea que se pergunta."
+  ],
+  "subtopic": "artes-cultura",
+  "questoes": {
+    "artes-cultura-65": {
+      "alternativas": {
+        "a": "a opção por filmar nas ruas com atores não profissionais como resposta à destruição dos estúdios e à falta de recursos do cinema italiano nos anos imediatamente seguintes ao fim da guerra",
+        "d": "a atenção dada, nesses filmes, à vida de trabalhadores e desempregados em cidades arrasadas, escolha temática que aproximou o cinema italiano do cotidiano imediato de quem assistia às sessões nos cinemas de bairro das cidades do país",
+        "e": "a influência do Neorrealismo sobre gerações posteriores de cineastas em vários países, que adotaram a locação real e o ator não profissional como marca de compromisso com o mundo filmado"
+      },
+      "explicacao": "O Neorrealismo filma a Itália que sai do fascismo, e o que se lê nele à luz de Arendt é o problema de reconstruir a vida social e as instituições democráticas depois de um regime totalitário, quando o tecido social precisa ser refeito. A explicação pela destruição dos estúdios e pela falta de recursos é materialmente verdadeira e responde por que o movimento filmou assim, não pelo que ele mostra sobre a reconstrução. A atenção a trabalhadores e desempregados é a escolha temática que serve a esse retrato. A influência sobre gerações posteriores é herança formal. Dizer que atores não profissionais já bastam para a relação ignora o retrato do pós-guerra. E o Neorrealismo antecede a Nouvelle Vague, que surge depois e com outro programa."
+    },
+    "artes-cultura-66": {
+      "alternativas": {
+        "b": "o crescimento da oferta de produtos que se distinguem entre si por pequenas variações de cor, embalagem e preço, dando ao consumidor a impressão de escolher livremente entre alternativas realmente diferentes umas das outras na prateleira",
+        "d": "o aumento do tempo dedicado ao consumo de entretenimento, que reduz as horas disponíveis para leitura, convívio e participação em atividades coletivas fora do ambiente doméstico de cada um"
+      },
+      "explicacao": "Marcuse descreve um indivíduo cuja capacidade de conceber alternativas radicais ao sistema foi neutralizada pela própria satisfação que o sistema oferece — e é isso que se discute quando algoritmos de recomendação e bolhas de consumo mantêm o desejo circulando dentro de limites já previstos. A variedade que se resume a pequenas diferenças de cor e embalagem é o distrator mais forte: descreve a oferta estreita e para nela, sem chegar ao efeito sobre a capacidade de imaginar outra coisa. O aumento do tempo de entretenimento trata da distribuição das horas do dia. Dizer que a existência de propaganda na televisão já comprova a tese dispensa qualquer análise da capacidade crítica. E a tese do homem unidimensional é de Marcuse, não de Benjamin, cujo ensaio trata da reprodutibilidade técnica."
+    },
+    "artes-cultura-67": {
+      "alternativas": {
+        "b": "a valorização de uma crítica que descreve a obra em seus procedimentos e efeitos sensoriais, dedicando atenção à luz, ao ritmo e à textura antes de propor uma leitura do significado do conjunto",
+        "d": "a multiplicação de análises detalhadas que decompõem referências, citações e paralelos históricos de uma obra, oferecendo ao público um repertório erudito de contexto e de citações para acompanhar o que está sendo exibido na tela ou na sala de exposição"
+      },
+      "explicacao": "Sontag recusa a crítica que converte a obra em mensagem a ser decifrada e pede atenção ao que a obra faz sentir — e é essa recusa que se aplica à tendência de reduzir filmes e séries a resumos de moral em redes e plataformas de crítica. A crítica que descreve procedimentos e efeitos sensoriais é o distrator mais perigoso e o mais instrutivo: é exatamente o que Sontag defende, e por isso não pode ser o problema que ela aponta. A multiplicação de análises eruditas que decompõem referências é a interpretação intelectualizada em sua forma mais elaborada, e ainda assim descreve a prática em vez do prejuízo à experiência. Dizer que a existência de uma resenha já basta para a relação dispensa olhar o conteúdo dela. E a crítica à interpretação é de Sontag, não de Barthes."
+    },
+    "artes-cultura-68": {
+      "alternativas": {
+        "a": "o debate sobre o fotógrafo que dispara centenas de imagens em rajada e escolhe depois a melhor, deslocando a decisão criativa do instante do disparo para o momento posterior de seleção e edição",
+        "e": "o debate sobre a fotografia de documentação técnica e científica, em que se exige do operador fidelidade estrita ao objeto registrado e se restringe deliberadamente a margem de interpretação pessoal admitida na composição final da imagem"
+      },
+      "explicacao": "O argumento que garantiu à fotografia estatuto artístico é o das escolhas criativas — enquadramento, luz, instante — e é ele que se reabre diante de imagens geradas por inteligência artificial a partir de comandos escritos por um usuário. O disparo em rajada com seleção posterior é o distrator mais fino: mantém a escolha criativa e a transfere do momento do disparo para a edição, o que reformula o problema em vez de reproduzi-lo. A fotografia técnica e científica restringe deliberadamente a interpretação pessoal, indo na direção oposta. Dizer que a existência de câmera automática já nega estatuto artístico à fotografia ignora as escolhas de quem fotografa. E esse argumento sobre autoria por trás do processo técnico foi construído para a fotografia, e depois estendido ao cinema."
+    },
+    "artes-cultura-69": {
+      "alternativas": {
+        "b": "a produção de obras executadas por assistentes ou por equipes contratadas a partir de instruções escritas e detalhadas pelo artista, sem que o próprio artista chegue a pôr a mão no objeto final que será entregue à sala de exposição do museu",
+        "c": "a exigência de que museus conservem, além do objeto, a documentação que descreve a proposta da obra, sem a qual a peça exposta perde a referência que lhe dá sentido para o público",
+        "d": "a valorização de obras cujo suporte material é deliberadamente simples e barato, escolha que reduz o custo de produção e facilita o transporte da peça entre exposições em cidades diferentes"
+      },
+      "explicacao": "Na arte conceitual o objeto é subordinado à ideia, e o que hoje reatualiza essa discussão são obras cuja proposta se registra como instrução ou protocolo reproduzível por qualquer executor, o que reabre a pergunta sobre autoria e materialidade. A execução por assistentes a partir de instruções do artista é o distrator decisivo, porque é prática corrente da própria arte conceitual e não a reatualização contemporânea que se pede. A exigência de conservar a documentação é consequência museológica dessa lógica. A escolha de suporte simples e barato descreve o objeto sem tratar da primazia da ideia. Dizer que um texto explicativo ao lado da obra já a classifica como conceitual ignora a subordinação do material. E esse deslocamento é da arte conceitual, não do Minimalismo, que investe justamente na presença física do objeto."
+    },
+    "artes-cultura-70": {
+      "alternativas": {
+        "a": "o alcance comercial obtido por sua obra, com discos de grande vendagem e apresentações em programas de televisão de audiência nacional ao longo da década de 1990 e do início dos anos 2000",
+        "b": "a discussão judicial sobre a guarda de seu filho após sua morte, decidida em favor de sua companheira e tratada na época como precedente relevante para o reconhecimento de famílias homoafetivas"
+      },
+      "explicacao": "Cássia Eller viveu publicamente sua sexualidade em um contexto de forte tabu, e é isso que a liga ao debate sobre representatividade na música popular brasileira, em que artistas que se assumem ampliam a visibilidade de identidades marginalizadas. A decisão judicial sobre a guarda de seu filho é o distrator mais forte: é episódio real e importante da mesma história, e pertence ao terreno do reconhecimento jurídico de famílias, não da representatividade artística. O alcance comercial de sua obra é dado de mercado. Dizer que ter sido cantora de rock já basta para a relação ignora a trajetória de visibilidade. E essa construção de visibilidade lésbica é de Cássia Eller, não de Cazuza, cuja trajetória pública se deu em outra década e em outros termos."
+    }
+  }
+}

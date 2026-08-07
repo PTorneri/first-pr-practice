@@ -1,0 +1,77 @@
+{
+  "_comentario": [
+    "Lote 11 de artes-cultura: 58, 59, 61, 62, 63, 64. Dezessete distratores.",
+    "",
+    "Bloco Chico Buarque / Racionais / hip hop / grafite / cinema marginal / cinema da",
+    "retomada. São questões de alto valor para a discursiva da FGV -- censura, racismo",
+    "estrutural, política pública de cultura -- e estavam entre as mais estragadas,",
+    "porque em 59(e) e 61(e) o distrator de anacronismo vinha citando Kimberlé",
+    "Crenshaw e Sueli Carneiro dentro da alternativa errada, o que entregava de graça",
+    "o repertório que a questão queria cobrar.",
+    "",
+    "Os substitutos, todos de dentro do mesmo assunto:",
+    "",
+    "  58  a autocensura de quem calcula o que pode dizer antes de dizer. É efeito",
+    "      real da censura e não é a linguagem indireta que a driblou.",
+    "  59  o encarceramento em massa da população negra, que é tema dos Racionais e da",
+    "      obra deles -- e trata do sistema penal, não da combinação de raça, gênero e",
+    "      classe na violência policial que a questão pede.",
+    "  61  o rap que se profissionalizou como carreira musical, que é o hip hop",
+    "      reduzido a um dos quatro elementos.",
+    "  62  o muro autorizado por edital de arte urbana, que é o critério de autorização",
+    "      operando na prática -- e por isso quase a resposta: falta o reconhecimento",
+    "      como arte legítima, que é o que se pergunta.",
+    "  64  a bilheteria de Central do Brasil e a indicação ao Oscar, que é o resultado",
+    "      da política e não a dependência dela."
+  ],
+  "subtopic": "artes-cultura",
+  "questoes": {
+    "artes-cultura-58": {
+      "alternativas": {
+        "c": "o debate sobre a autocensura de artistas que, sem proibição formal, calculam de antemão o que podem dizer sem perder patrocínio, espaço em festivais ou acesso a editais de financiamento público",
+        "d": "o debate sobre o arquivamento dos pareceres da censura federal, documentos que hoje permitem reconstituir quais versos foram vetados e quais argumentos os censores usavam para justificar cada corte",
+        "e": "o debate sobre a reinterpretação dessas canções por gerações que já não reconhecem as referências políticas de origem, e passam a ouvi-las como simples canções de amor ou de despedida, sem o sentido histórico que carregavam na origem"
+      },
+      "explicacao": "Chico Buarque respondeu à censura desenvolvendo uma linguagem cifrada, capaz de dizer politicamente sem enunciar diretamente — e é essa mesma engenharia que artistas de países com forte controle de conteúdo praticam hoje, em alegoria e metáfora, para criticar sem sofrer perseguição. A autocensura é o distrator mais forte: é efeito real da censura, e descreve o silêncio calculado em vez da fala indireta que a driblou. O arquivamento dos pareceres da censura é questão documental e de memória. A reinterpretação das canções por gerações posteriores trata de recepção. Dizer que a presença de uma metáfora já basta para a relação ignora o contexto de censura. E a linguagem cifrada contra a censura marca a obra de Chico Buarque, não a fase tropicalista de Caetano, cujo enfrentamento se deu por outras vias."
+    },
+    "artes-cultura-59": {
+      "alternativas": {
+        "a": "o debate sobre o encarceramento em massa da população negra e periférica, tema recorrente na obra do grupo e central nas discussões sobre a seletividade do sistema penal brasileiro e sobre o perfil social e racial de quem ocupa hoje as prisões do país",
+        "c": "o debate sobre a chegada do rap nacional às plataformas de streaming e ao circuito de grandes festivais, trajetória que ampliou o público do gênero sem alterar a origem periférica de quem o produz",
+        "e": "o debate sobre a autonomia econômica de artistas periféricos que administram os próprios selos e definem sozinhos o que gravam, sem intermediação das gravadoras tradicionais do mercado fonográfico"
+      },
+      "explicacao": "A chave que Sueli Carneiro oferece é a combinação: raça, gênero e classe não se somam como fatores independentes, e é assim que a violência policial e o racismo estrutural atingem de modo desproporcional a população negra periférica, tema que os Racionais tratam diretamente. O encarceramento em massa é o distrator mais forte, porque também é assunto do grupo e trata da seletividade do sistema penal, não da combinação de eixos na violência policial que a questão pede. A chegada do rap ao streaming e aos festivais é questão de circulação, e a autonomia econômica dos selos independentes é de mercado. Dizer que citar o bairro de origem já basta para a relação fica na referência geográfica. E a denúncia do racismo estrutural nessas letras é do rap dos Racionais, grupo paulistano, não do funk carioca."
+    },
+    "artes-cultura-61": {
+      "alternativas": {
+        "b": "a profissionalização do rap como carreira musical autônoma, com artistas que vivem de shows e gravações sem manter vínculo com as demais linguagens que compõem o movimento de origem",
+        "d": "a difusão do breakdance como modalidade esportiva de competição, com regras, jurados e categorias que passaram a organizar disputas internacionais entre dançarinos de diferentes países do mundo",
+        "e": "o reconhecimento do grafite como linguagem legítima por museus e galerias, processo que retirou da rua parte significativa da produção e a levou para dentro de instituições de arte já consagradas pelo circuito internacional de exposições"
+      },
+      "explicacao": "O hip hop se organiza como proposta de várias frentes ao mesmo tempo — rap, DJing, breakdance, grafite e o conhecimento como quinto elemento — e é essa articulação que se reencontra em movimentos de periferia atuais que juntam música, dança, artes visuais e consciência social. A profissionalização do rap como carreira isolada é o distrator decisivo: mantém um dos elementos e perde a articulação, que é o que caracteriza o movimento. O breakdance convertido em modalidade esportiva e o grafite absorvido por museus descrevem a autonomização de elementos, cada um seguindo caminho próprio. Dizer que um DJ tocando numa festa já basta para a relação ignora a articulação entre as frentes. E a estrutura de elementos complementares é do hip hop, de matriz afro-diaspórica norte-americana, não do Cinema Marginal brasileiro."
+    },
+    "artes-cultura-62": {
+      "alternativas": {
+        "a": "a existência de editais públicos que selecionam artistas para pintar muros e empenas de prédios, definindo previamente os locais autorizados e o tema geral das intervenções que serão realizadas",
+        "e": "a diferença de tratamento penal entre as duas práticas, uma vez que a legislação brasileira tipifica a pichação como crime e reserva ao grafite autorizado a condição de manifestação artística lícita"
+      },
+      "explicacao": "A distinção entre grafite e pichação mostra que critérios de autorização e de elaboração estética decidem qual intervenção urbana é lida como arte e qual permanece tratada como infração. Os editais que selecionam artistas e definem locais autorizados são o distrator que exige a distinção mais fina: eles são o critério de autorização operando na prática, e param antes do reconhecimento como arte legítima, que é o que se pergunta. A diferença de tratamento penal é a consequência jurídica dessa mesma distinção, e não o critério que a produz. Dizer que a presença de tinta spray já distingue as duas práticas ignora elaboração e autorização. E o critério de elaboração autorizada aplica-se a grafite e pichação, não à land art, que trabalha a paisagem natural."
+    },
+    "artes-cultura-63": {
+      "alternativas": {
+        "b": "o debate sobre produções que rompem com a linguagem consagrada de seu tempo em nome da experimentação formal, buscando um repertório visual próprio antes que o anterior se esgote junto ao público que o acompanhava",
+        "d": "o debate sobre a precariedade técnica assumida como escolha estética, com imagem suja e som imperfeito adotados deliberadamente por realizadores que dispõem de pouco orçamento para filmar",
+        "e": "o debate sobre a recuperação crítica de filmes marginalizados em seu lançamento, que só encontraram público e reconhecimento em mostras e retrospectivas realizadas décadas depois de sua estreia"
+      },
+      "explicacao": "O cinema marginal não se opõe ao cinema comercial: ele ironiza o próprio cinema engajado que o antecede, e é essa autocrítica interna que se reencontra em produções que questionam de dentro os movimentos de arte engajada, para que a crítica social não se torne fórmula previsível. A ruptura em nome da experimentação formal é o distrator mais forte, porque descreve o gesto de vanguarda em geral e perde o que há de específico aqui, que é a ironia dirigida aos próprios aliados. A precariedade técnica assumida como escolha estética é traço do movimento sem ser a autocrítica. A recuperação crítica posterior trata de recepção. Dizer que câmera tremida já basta para a relação fica no procedimento. E a ironia contra o cinema engajado é do cinema marginal, não do Cinema Novo, que era justamente o alvo dela."
+    },
+    "artes-cultura-64": {
+      "alternativas": {
+        "a": "o debate sobre a bilheteria alcançada por produções como Central do Brasil e sobre o reconhecimento internacional obtido em festivais e premiações, resultados que ajudaram a recolocar o cinema nacional em circulação",
+        "b": "o debate sobre a concentração dos recursos de incentivo em produtoras já estabelecidas nos grandes centros, que dispõem de estrutura administrativa própria para elaborar projetos e prestar contas conforme exigem os editais públicos",
+        "c": "o debate sobre a preferência das distribuidoras por filmes de apelo comercial imediato, escolha que define quais produções chegam a um número maior de salas e quais ficam restritas a circuitos alternativos"
+      },
+      "explicacao": "O cinema da retomada nasceu de leis de incentivo e financiamento público, e o que decorre disso é a exposição da produção nacional a cortes e mudanças nesses mecanismos, tema que reaparece a cada discussão orçamentária do setor. A concentração dos recursos em produtoras estabelecidas nos grandes centros é o distrator mais forte: também trata do financiamento público, e descreve como ele se distribui em vez da dependência dele. A bilheteria e o reconhecimento internacional de Central do Brasil são resultado da política, não a vulnerabilidade a ela. A preferência das distribuidoras por filmes comerciais é questão de mercado. Dizer que uma sala em funcionamento já basta para a relação ignora o financiamento. E a dependência de incentivo fiscal caracteriza a retomada dos anos 1990, não o Cinema Novo dos anos 1960."
+    }
+  }
+}

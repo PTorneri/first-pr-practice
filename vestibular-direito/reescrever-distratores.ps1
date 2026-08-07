@@ -108,7 +108,18 @@ $CAUDA_RX = "$CAUDA_NOUN[^.;]{0,60}\s+que\s+(ignora|desconsidera|contraria|confu
   # janela curta: "interpretação equivocada" e "hipótese anacrônica e improvável"
   # são cauda; "tempo incompatível com jornadas longas" é português comum, e foi
   # o que fez o padrão anterior acusar filosofia-40 sem motivo.
-  "|$CAUDA_NOUN[^.;]{0,30}(equivocad[ao]|incompatível|implausível|anacrônic[ao]|improvável|inaplicável)\b" +
+  # A lista de adjetivos saiu de uma CONTAGEM no banco, e não da minha memória --
+  # foi assim que apareceram 'afirmação incorreta' (7x), 'hipótese contrária' (6x)
+  # e 'regra inexistente' (2x), todas caudas reais que as versões anteriores do
+  # padrão deixavam passar. Conferi as sete ocorrências de contrária/inexistente
+  # uma por uma antes de incluir: "afirmação contrária à física atmosférica",
+  # "regra inexistente na Constituição de 1988". Todas explicam por que a
+  # alternativa está errada.
+  #
+  # Levantar da base em vez de listar de cabeça é a correção de método desta
+  # campanha: as quatro primeiras versões deste padrão foram catálogos de frases
+  # que eu havia visto, e cada uma falhou na variação seguinte.
+  "|$CAUDA_NOUN[^.;]{0,30}(equivocad[ao]|incompatível|implausível|anacrônic[ao]|improvável|inaplicável|incorret[ao]|contrári[ao]|contrariad[ao]|inexistente|categóric[ao])\b" +
   '|já bastaria|basta para relacion|é um traço definidor|atribuíd[ao] tradicionalmente|tradicionalmente atribuíd' +
   '|a antecipação, p|a previsão, p|inexistente (à|na|no|nos) |tecnologia então|mídia tecnologicamente inexistente' +
   '|confusão comum|categoria inexistente|classificação oposta|tendência oposta|diametralmente opost|contradição direta'

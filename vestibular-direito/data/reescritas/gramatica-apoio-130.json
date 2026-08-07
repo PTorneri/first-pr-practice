@@ -1,0 +1,32 @@
+{
+  "_comentario": [
+    "Conserta um defeito que nao e cauda, e apareceu por acidente: a questao 130 tinha",
+    "o TEXTO DE APOIO de outra questao.",
+    "",
+    "O apoio dizia: 'Chegamos ao aeroporto com duas horas de antecedencia, primeiro; e",
+    "conseguimos, felizmente, embarcar no voo anterior ao que estava originalmente",
+    "reservado.' E o enunciado pergunta sobre o registro da data em documentos formais,",
+    "do tipo 'Sao Paulo, 10 de marco de 2026.'.",
+    "",
+    "Nao ha relacao nenhuma entre os dois. Quem estuda le um texto de apoio sobre",
+    "aeroporto, uma pergunta sobre cabecalho de documento, e cinco alternativas sobre",
+    "virgula depois do nome da cidade -- e fica sem saber se perdeu alguma coisa. O",
+    "apoio nao ajudava e atrapalhava.",
+    "",
+    "O apoio novo traz o cabecalho de que o enunciado fala, que e o que a questao",
+    "precisa ter na tela. O enunciado ganha a referencia ao texto, para deixar de",
+    "repetir o exemplo por escrito.",
+    "",
+    "Nenhuma alternativa e nenhum gabarito mudam -- as cinco opcoes ja tratavam de",
+    "pontuacao entre cidade e data, e continuam validas palavra por palavra."
+  ],
+  "subtopic": "gramatica",
+  "questoes": {
+    "gramatica-130": {
+      "banca": "fgv",
+      "texto_apoio": "\"São Paulo, 10 de março de 2026.\" — linha de abertura de um ofício encaminhado pela diretoria de uma empresa a um de seus fornecedores.",
+      "enunciado": "Sobre a pontuação empregada no registro da data nesse cabeçalho, é correto afirmar que",
+      "numerosNovos": [10, 2026]
+    }
+  }
+}

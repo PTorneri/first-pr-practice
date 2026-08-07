@@ -1,0 +1,78 @@
+{
+  "_comentario": [
+    "Lote 13 de artes-cultura: 71 a 76, quinze distratores.",
+    "",
+    "Bloco performance / body art / instalação / bienais / design gráfico. Aqui a",
+    "alternativa de atribuição chegou ao caso mais bobo do arquivo: em 73(e), a",
+    "organização de um ambiente imersivo com múltiplos elementos seria 'um traço",
+    "definidor da pintura de cavalete'. Cavalete é o oposto exato de instalação --",
+    "uma tela pendurada na parede não ocupa ambiente nenhum. Ninguém marcaria.",
+    "",
+    "Em 71(b) o molde acertou por acidente uma distinção real e a estragou: dizia que",
+    "a centralidade do corpo seria traço 'da body art, e não da performance art'. As",
+    "duas de fato se distinguem, e a distinção é fina -- mas a alternativa entregava",
+    "que eram 'correntes correlatas', o que resolvia a dúvida que ela deveria criar.",
+    "Agora ela afirma a filiação sem avisar que é discutível.",
+    "",
+    "Os substitutos:",
+    "",
+    "  71  a documentação em vídeo da performance, que é como quase todo mundo conhece",
+    "      Abramović -- e é exatamente a mediação por tela que a obra recusa.",
+    "  72  a cirurgia estética e o corpo modificado como escolha pessoal, que trata do",
+    "      corpo e não do questionamento das normas.",
+    "  74  o poder de consagração das bienais no mercado, que é efeito da curadoria e",
+    "      não a disputa sobre quais vozes ganham visibilidade.",
+    "  75  a vinda de grandes exposições internacionais ao Brasil, que é intercâmbio no",
+    "      sentido inverso ao de pautar temas próprios lá fora.",
+    "  76  o rebranding que moderniza a identidade visual, que é comunicação de marca",
+    "      sem o posicionamento político que a questão pede."
+  ],
+  "subtopic": "artes-cultura",
+  "questoes": {
+    "artes-cultura-71": {
+      "alternativas": {
+        "a": "a circulação de registros em vídeo e fotografia das performances históricas de Abramović, material pelo qual a maior parte do público conhece obras a que não teve como assistir presencialmente na íntegra",
+        "b": "a filiação da obra de Abramović à body art, corrente que toma o corpo do artista como suporte central e explora seus limites físicos diante de quem observa a cena se desenrolar ao vivo",
+        "e": "a realização de performances de longa duração em museus, que exigem da instituição escala de funcionários, rodízio de artistas e adaptação dos horários de visitação ao tempo previsto para a obra"
+      },
+      "explicacao": "A performance de Abramović se sustenta em presença, duração e risco reais partilhados com quem está na sala, e daí a força do contraste entre experiência presencial irrepetível e experiência mediada por tela, discussão que voltou com a migração de eventos artísticos para formatos digitais. O registro em vídeo é o distrator decisivo: é como a maior parte do público conhece essas obras, e é precisamente a mediação que a performance recusa. Filiar Abramović à body art é defensável, já que as correntes são vizinhas, e desloca a questão para a classificação em vez do modo de fruição. A logística das performances de longa duração é problema institucional. E dizer que um artista parado num espaço expositivo já basta para a relação ignora risco, tempo e presença efetivos."
+    },
+    "artes-cultura-72": {
+      "alternativas": {
+        "a": "o crescimento dos procedimentos de cirurgia estética e de modificação corporal apresentados como escolha individual de quem deseja ajustar a própria aparência ao que considera desejável para si",
+        "c": "a difusão de filtros digitais que alteram proporções do rosto e do corpo em fotografias publicadas em redes sociais, recurso que aproxima a imagem de cada usuário de um padrão visual já consagrado",
+        "e": "a valorização do autorretrato como gênero na fotografia contemporânea, prática em que o artista aparece na própria obra e controla como sua imagem será enquadrada e apresentada ao espectador"
+      },
+      "explicacao": "A body art toma o corpo do artista como suporte para questionar normas de gênero, beleza e sexualidade, e é isso que se reencontra em quem usa o próprio corpo, na fotografia e nas redes, para contestar padrões impostos. A cirurgia estética e a modificação corporal como escolha individual tratam do corpo e o ajustam ao padrão, em vez de questioná-lo. Os filtros que aproximam a imagem de um padrão consagrado vão na mesma direção. O autorretrato é o distrator mais fino, porque o artista também aparece na obra e controla o enquadramento, sem que disso resulte contestação de norma alguma. Dizer que a foto do rosto de um artista já basta para a relação ignora o questionamento. E a exploração do corpo é da body art, não da land art, que trabalha a paisagem."
+    },
+    "artes-cultura-73": {
+      "alternativas": {
+        "a": "a multiplicação de mostras que reúnem projeções de obras célebres em salas amplas, exibindo em grande escala e com trilha sonora pinturas cuja versão original permanece em acervos de outros países e não viaja para exposições temporárias",
+        "b": "a preocupação de curadores com o percurso do visitante dentro da mostra, que define a ordem das salas e o tempo previsto de permanência em cada etapa para que o conjunto seja compreendido como se propôs",
+        "e": "a exigência de que instalações sejam remontadas conforme instruções deixadas pelo artista, documento sem o qual a obra não pode ser reapresentada em outro espaço com a configuração que tinha na origem"
+      },
+      "explicacao": "A instalação organiza objetos, sons, luzes e projeções para transformar um ambiente inteiro em experiência, e é essa promessa de imersão que sustenta o crescimento de museus e mostras comerciais construídos em torno de vivências para serem compartilhadas nas redes. As mostras de projeções de obras célebres são o distrator mais próximo: têm a escala e o aparato, e reproduzem quadros em vez de compor um ambiente próprio. A preocupação com o percurso do visitante é decisão curatorial que vale para qualquer exposição. A remontagem conforme instruções do artista é problema de conservação. Dizer que uma projeção de luz na parede já basta para a relação ignora a integração do ambiente. E a organização de ambiente imersivo é da instalação, não da pintura de cavalete, cuja tela ocupa apenas a parede."
+    },
+    "artes-cultura-74": {
+      "alternativas": {
+        "a": "o poder de consagração que a seleção para uma bienal confere ao artista, cujo trabalho passa a circular em galerias e coleções por preços bem superiores aos praticados antes da participação no evento",
+        "c": "a competição entre cidades para sediar edições de grandes eventos de arte, disputa que envolve investimento público em infraestrutura e expectativa de retorno em turismo e projeção internacional"
+      },
+      "explicacao": "A curadoria de uma bienal decide quais temas e quais artistas ocupam o espaço internacional, e é por isso que sua escolha revela disputas sobre quais vozes e narrativas ganham visibilidade em determinado momento. O poder de consagração que a seleção confere ao artista é efeito dessa curadoria e opera no mercado, não na definição de quais narrativas se tornam visíveis. A competição entre cidades para sediar o evento é questão de política urbana e de turismo. Dizer que obras expostas num pavilhão já caracterizam uma bienal ignora o recorte curatorial. Atribuir aos criadores da primeira Bienal de Veneza a previsão de temas futuros é anacronismo. E a função de debate curatorial sobre temas atuais é característica das bienais, e não dos museus de acervo permanente."
+    },
+    "artes-cultura-75": {
+      "alternativas": {
+        "d": "a vinda de grandes exposições internacionais ao Brasil, com acervos emprestados por museus estrangeiros que atraem público numeroso e colocam em circulação no país obras antes acessíveis apenas a quem viajava",
+        "e": "a presença regular de artistas brasileiros em pavilhões nacionais de bienais realizadas no exterior, participação que assegura ao país representação formal e espaço próprio nos principais eventos do calendário internacional de arte contemporânea"
+      },
+      "explicacao": "A Bienal de São Paulo foi criada para inserir o Brasil no circuito internacional, e o que isso abre hoje é a pergunta sobre em que medida artistas e curadores brasileiros conseguem pautar temas próprios nesse circuito, em vez de reproduzir agendas definidas fora. A vinda de exposições internacionais ao país é intercâmbio no sentido inverso: traz o de fora para dentro, sem tratar de quem define a agenda. A presença em pavilhões nacionais é o distrator mais fino, porque garante representação formal e não equivale a pautar o debate. Dizer que obras de vários países numa mesma exposição já bastam ignora o projeto de inserção. Atribuir aos criadores de 1951 a previsão do debate sobre descolonização curatorial é anacronismo. E o objetivo de inserção internacional é da Bienal, enquanto a Semana de 22 voltava-se para dentro."
+    },
+    "artes-cultura-76": {
+      "alternativas": {
+        "a": "a frequência com que empresas renovam sua identidade visual para parecer atuais, simplificando logotipos e adotando paletas mais sóbrias a fim de acompanhar o que se pratica no mercado naquele momento",
+        "c": "a adoção de sistemas de design que padronizam cores, tipografia e componentes de interface, garantindo que aplicativo, site, sinalização e material impresso de uma mesma instituição sejam reconhecidos pelo público como partes de um só conjunto"
+      },
+      "explicacao": "O design gráfico comunica valores de forma sintética, e o que se discute hoje é o uso dessa linguagem por marcas e instituições para enunciar posicionamentos sociais e políticos e criar vínculo emocional com públicos determinados. A renovação periódica da identidade visual para parecer atual é comunicação de marca sem posicionamento, o que a torna o distrator mais forte. Os sistemas de design que padronizam interface e material impresso resolvem consistência, que é problema técnico. Dizer que um logotipo colorido já caracteriza bom design ignora a capacidade de comunicar. Atribuir aos primeiros designers a previsão de identidades visuais para redes sociais é anacronismo. E comunicar valores de forma sintética é função do design gráfico, não da arte conceitual, cuja finalidade não é comunicar a identidade de um terceiro."
+    }
+  }
+}

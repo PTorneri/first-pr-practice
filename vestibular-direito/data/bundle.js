@@ -17356,13 +17356,13 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Sobre o uso da crase antes dos nomes de lugares na frase, é correto afirmar que",
                           "alternativas":  {
                                                "a":  "\u0027à Bahia\u0027 está correta, pois esse topônimo é normalmente usado com artigo definido feminino; \u0027a Salvador\u0027 está correta sem crase, pois esse topônimo normalmente não é acompanhado de artigo.",
-                                               "b":  "\u0027a Salvador\u0027 deveria levar crase, e \u0027à Bahia\u0027 deveria ser escrita sem crase, invertendo o padrão apresentado e o costume toponímico usual, inversão que contraria a tradição consagrada pelo uso desses dois topônimos.",
+                                               "b":  "\u0027a Salvador\u0027 deveria levar crase e \u0027à Bahia\u0027 deveria dispensá-la, porque a crase diante de topônimo se decide pela terminação da palavra, e ambos terminam em vogal que pede o acento no primeiro caso",
                                                "c":  "\u0027a Salvador\u0027 está correta e \u0027à Bahia\u0027 também, mas apenas porque ambas as cidades admitem artigo definido.",
-                                               "d":  "nenhuma das duas ocorrências deveria levar crase, em nenhuma hipótese, já que nomes próprios de lugares rejeitariam artigo feminino definido, posição que desconsidera a tradição de uso que rege a crase diante de topônimos determinados.",
-                                               "e":  "ambas as ocorrências deveriam levar crase, pois todo nome de lugar admite artigo definido, independentemente da tradição de uso de cada topônimo, generalização que ignora a distinção consagrada entre topônimos com e sem artigo feminino."
+                                               "d":  "nenhuma das duas ocorrências deveria levar crase, porque nomes próprios de lugar dispensam o artigo definido, funcionando como designações únicas que não precisam ser determinadas por ele",
+                                               "e":  "ambas as ocorrências deveriam levar crase, porque o verbo \u0027ir\u0027 e o verbo \u0027voltar\u0027 pedem a preposição \u0027a\u0027 e ela se contrai com o artigo nos casos em que o complemento indica lugar de destino"
                                            },
                           "resposta":  "a",
-                          "explicacao":  "Topônimos que normalmente admitem artigo definido feminino (como \u0027a Bahia\u0027) exigem crase quando regidos por preposição \u0027a\u0027 (\u0027fomos à Bahia\u0027); já topônimos que normalmente não admitem artigo (como \u0027Salvador\u0027) não exigem crase (\u0027fomos a Salvador\u0027), regra corretamente aplicada na frase.",
+                          "explicacao":  "A crase diante de topônimo depende de o nome ser usado com artigo: \u0027a Bahia\u0027 costuma vir com artigo, o que produz \u0027à Bahia\u0027; \u0027Salvador\u0027 costuma vir sem, o que mantém \u0027a Salvador\u0027. Decidir pela terminação da palavra é o critério intuitivo e falha justamente aqui, já que os dois topônimos terminam em vogal e se comportam de modo diferente. Dizer que nomes de lugar dispensam artigo contraria o uso consagrado de \u0027a Bahia\u0027, \u0027o Rio de Janeiro\u0027, \u0027a França\u0027. Fazer a contração depender do verbo de movimento confunde a preposição, que de fato vem do verbo, com o artigo, que vem do topônimo. E supor que as duas cidades admitem artigo apaga a diferença que a frase exemplifica.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
                       },
@@ -17407,10 +17407,10 @@ window.QUESTION_BANKS = {
                                                "b":  "está correta; como se refere a dois substantivos de gêneros diferentes (\u0027troféu\u0027, masculino, e \u0027medalha\u0027, feminino), o adjetivo posposto deve concordar no masculino plural, regra seguida corretamente na frase, com \u0027exclusivos\u0027.",
                                                "c":  "está correta apenas se \u0027exclusivos\u0027 vier antes dos dois substantivos, e não depois, posição que alteraria completamente a regra de concordância nominal entre eles, alteração não prevista pela norma culta para essa estrutura coordenada.",
                                                "d":  "está correta, mas apenas porque o adjetivo vem posposto; anteposto, teria de concordar com o substantivo mais próximo.",
-                                               "e":  "está incorreta porque adjetivos nunca podem se referir a dois substantivos simultaneamente, exigindo sempre a repetição do adjetivo para cada um dos termos citados, afirmação que contraria o uso corrente em construções coordenadas de gêneros distintos."
+                                               "e":  "está incorreta; o adjetivo deveria concordar com o substantivo mais próximo, ficando \u0027exclusiva\u0027 para acompanhar \u0027medalha\u0027, uma vez que é o termo imediatamente anterior a ele na sequência coordenada"
                                            },
                           "resposta":  "b",
-                          "explicacao":  "Quando um adjetivo se refere a dois ou mais substantivos de gêneros diferentes e vem posposto a eles, a concordância padrão é no masculino plural, regra corretamente seguida em \u0027troféu e medalha exclusivos\u0027, embora a concordância com o substantivo mais próximo também seja aceita por alguns gramáticos em determinados contextos.",
+                          "explicacao":  "Quando o adjetivo posposto se refere a dois substantivos de gêneros diferentes, a concordância se faz no masculino plural, e é isso que \u0027exclusivos\u0027 registra ao qualificar troféu e medalha. Concordar com o substantivo mais próximo é a regra do adjetivo ANTEposto, e aplicá-la ao posposto é exatamente o erro que a questão testa. Dizer que a posição do adjetivo antes dos substantivos alteraria a regra chega perto e inverte qual das duas posições admite a concordância parcial. E afirmar que o adjetivo só está correto por vir posposto não explica por que o masculino plural, que é o ponto.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
                       },
@@ -17436,13 +17436,13 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Sobre a concordância verbal com as expressões \u0027cerca de trinta funcionários\u0027 e \u0027perto de dez deles\u0027, é correto afirmar que",
                           "alternativas":  {
                                                "a":  "o verbo concorda sempre com a expressão aproximativa inteira, que funciona como núcleo do sujeito e é invariável.",
-                                               "b":  "apenas a primeira ocorrência está correta; a segunda deveria estar no singular, já que \u0027deles\u0027 reduziria a expressão a um pronome simples, desconsiderando o numeral \u0027dez\u0027 que permanece determinando a concordância.",
+                                               "b":  "apenas a primeira ocorrência está correta; a segunda deveria ir para o singular, porque \u0027deles\u0027 é pronome de forma única e passa a funcionar como núcleo do sujeito no lugar do numeral que o antecede",
                                                "c":  "o verbo concorda com o numeral que compõe a expressão aproximativa, e não com \u0027cerca de\u0027 ou \u0027perto de\u0027 isoladamente, o que explica o plural em ambas as ocorrências da frase.",
-                                               "d":  "o verbo deveria concordar sempre no singular, independentemente do numeral que segue a expressão aproximativa, tratada como núcleo fixo do sujeito, leitura que ignora o numeral plural que efetivamente rege a concordância.",
-                                               "e":  "expressões como \u0027cerca de\u0027 e \u0027perto de\u0027 nunca podem anteceder sujeitos de orações, funcionando apenas como advérbios de modo isolados, afirmação que ignora seu emprego corrente como modificadoras aproximativas do sujeito."
+                                               "d":  "o verbo deveria ficar no singular nas duas ocorrências, porque \u0027cerca de\u0027 e \u0027perto de\u0027 formam locuções que atuam como núcleo do sujeito e impõem a flexão singular ao verbo que as segue",
+                                               "e":  "as expressões \u0027cerca de\u0027 e \u0027perto de\u0027 funcionam como advérbios e não integram o sujeito, de modo que a concordância se faz com o termo que aparece imediatamente antes do verbo em cada oração"
                                            },
                           "resposta":  "c",
-                          "explicacao":  "Expressões aproximativas como \u0027cerca de\u0027 e \u0027perto de\u0027 não são o núcleo do sujeito; a concordância verbal segue o numeral que as acompanha, motivo pelo qual o verbo fica no plural em ambas as ocorrências da frase (\u0027participaram\u0027, \u0027atuavam\u0027).",
+                          "explicacao":  "Em expressões aproximativas quem determina a concordância é o numeral: \u0027cerca de trinta funcionários\u0027 e \u0027perto de dez deles\u0027 levam o verbo ao plural porque trinta e dez são plurais. Tratar \u0027cerca de\u0027 e \u0027perto de\u0027 como núcleo do sujeito é a leitura que a questão testa, e ela ignora que essas locuções apenas aproximam a quantidade. Fazer \u0027deles\u0027 assumir o lugar do numeral desfaz a mesma relação na segunda ocorrência. Chamá-las de advérbios que não integram o sujeito muda a análise sintática sem mudar o fato de a concordância seguir o numeral. E dizer que a expressão inteira é invariável e serve de núcleo repete o primeiro equívoco.",
                           "dificuldade":  "media",
                           "formato":  "direta"
                       },
@@ -17468,13 +17468,13 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Sobre o uso dos travessões na frase, é correto afirmar que",
                           "alternativas":  {
                                                "a":  "estão corretos apenas em textos literários; em registro formal, a informação intercalada exige parênteses.",
-                                               "b":  "deveriam ser eliminados, já que a informação intercalada é sempre dispensável e não pode ser destacada dessa forma em texto formal, desconsiderando seu valor explicativo relevante para o leitor do relatório.",
-                                               "c":  "deveriam ser substituídos por dois-pontos, pois travessões nunca isolam informações intercaladas, função exclusiva de outros sinais de pontuação, afirmação que ignora o par de travessões como recurso intercalador consagrado.",
+                                               "b":  "deveriam ser substituídos por parênteses, porque em registro formal a informação intercalada pede esse sinal, reservando-se o travessão a diálogos e a textos de natureza literária",
+                                               "c":  "deveriam ser substituídos por dois-pontos antes da explicação e vírgula depois dela, combinação que a norma prevê para introduzir esclarecimentos sobre um termo já mencionado no período",
                                                "d":  "estão empregados corretamente para isolar uma explicação intercalada sobre o relatório mencionado, funcionando de forma semelhante a um par de vírgulas ou parênteses.",
                                                "e":  "estão incorretos, pois um único travessão nunca pode ser usado em pares no mesmo período, ainda que isolando uma explicação intercalada, confusão entre o travessão isolado e o par empregado nessa construção."
                                            },
                           "resposta":  "d",
-                          "explicacao":  "O par de travessões isola uma informação explicativa intercalada (\u0027resultado de meses de investigação minuciosa\u0027), função equivalente à de um par de vírgulas ou parênteses, recurso de pontuação plenamente aceito pela norma culta.",
+                          "explicacao":  "O par de travessões isola uma explicação intercalada e cumpre função equivalente à de um par de vírgulas ou de parênteses, o que a frase faz corretamente. Trocá-los por parênteses por exigência de registro formal é crença corrente sobre pontuação e não regra: os três recursos são admitidos, e a escolha entre eles é de ênfase. A combinação de dois-pontos com vírgula não isola uma intercalação, porque os dois-pontos anunciam o que vem depois em vez de encaixar um trecho no meio. E dizer que o travessão não pode aparecer em par confunde o travessão isolado, que marca mudança de interlocutor ou corte, com o par intercalador.",
                           "dificuldade":  "media",
                           "formato":  "direta"
                       },
@@ -17516,13 +17516,13 @@ window.QUESTION_BANKS = {
                           "enunciado":  "O conectivo \u0027isto é\u0027 na frase tem a função de",
                           "alternativas":  {
                                                "a":  "introduzir uma ressalva que restringe o alcance da afirmação feita na oração anterior.",
-                                               "b":  "introduzir uma ideia de oposição em relação à informação anterior, leitura equivocada que ignoraria o valor explicativo do conectivo nesse contexto médico específico.",
+                                               "b":  "introduzir uma ressalva que limita o alcance do que foi dito antes, sinalizando que a melhora do paciente vale apenas para os aspectos verificados nos exames e não para a evolução clínica em seu conjunto",
                                                "c":  "indicar uma conclusão que se segue logicamente à informação anterior, confusão frequente com conectivos conclusivos como \u0027portanto\u0027 ou \u0027logo\u0027, de sentido diverso.",
                                                "d":  "explicar ou reformular, em outros termos, a informação apresentada anteriormente na frase.",
-                                               "e":  "apresentar uma comparação entre dois tratamentos médicos distintos, interpretação incompatível com o restante do enunciado, que não menciona nenhum segundo tratamento."
+                                               "e":  "indicar a conclusão a que se chega a partir da informação anterior, apresentando a melhora nos exames como o resultado que se deduz da boa resposta ao tratamento relatada na primeira oração"
                                            },
                           "resposta":  "d",
-                          "explicacao":  "\u0027Isto é\u0027 é conectivo explicativo que reformula, em termos mais específicos, a informação anterior (\u0027respondeu bem ao tratamento\u0027 é esclarecido por \u0027apresentou melhora significativa nos exames\u0027), e não indica oposição, conclusão ou comparação.",
+                          "explicacao":  "\u0027Isto é\u0027 introduz reformulação: o que vem depois diz em outros termos o que foi afirmado antes, e é isso que ocorre entre responder bem ao tratamento e apresentar melhora nos exames. A leitura como conclusão é a confusão mais frequente, com \u0027portanto\u0027 e \u0027logo\u0027, e falha porque a segunda oração não deriva da primeira, ela a explicita. Tomar o conectivo como ressalva que limita o alcance atribui a ele valor concessivo que não tem. E ler a passagem como comparação entre tratamentos supõe um segundo tratamento que a frase não menciona.",
                           "dificuldade":  "media",
                           "formato":  "direta"
                       },
@@ -17531,14 +17531,14 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "\"Assim que o resultado foi divulgado, os aprovados comemoraram; enquanto isso, os que não passaram já se organizavam para tentar a próxima edição do concurso.\"",
                           "enunciado":  "Sobre a função das conjunções \u0027assim que\u0027 e \u0027enquanto\u0027 na frase, é correto afirmar que",
                           "alternativas":  {
-                                               "a":  "\u0027assim que\u0027 introduz uma oração de causa, e \u0027enquanto\u0027 introduz uma oração de finalidade, leitura que ignora o imediatismo e a simultaneidade claramente marcados pelo contexto narrado na frase.",
-                                               "b":  "ambas introduzem orações de sentido condicional, indicando uma hipótese não confirmada, leitura incompatível com o caráter factual e concluído dos eventos narrados na frase.",
-                                               "c":  "\u0027enquanto\u0027 introduz uma oração adversativa nesse contexto, opondo-se à ideia anterior, leitura que desconsidera a simultaneidade entre os dois eventos narrados no período.",
+                                               "a":  "\u0027assim que\u0027 introduz oração de causa, apresentando a divulgação do resultado como o motivo da comemoração, e \u0027enquanto\u0027 introduz oração de finalidade, indicando o propósito da organização dos não aprovados",
+                                               "b":  "ambas introduzem orações de sentido condicional, apresentando a divulgação do resultado e a organização dos candidatos como hipóteses cuja realização ainda depende de circunstâncias não informadas",
+                                               "c":  "\u0027enquanto\u0027 introduz oração adversativa, opondo a reação dos aprovados à dos que não passaram, contraste que o período estabelece entre os dois grupos de candidatos mencionados",
                                                "d":  "\u0027assim que\u0027 introduz oração temporal e \u0027enquanto\u0027, oração proporcional, indicando desenvolvimento simultâneo e gradual.",
                                                "e":  "ambas introduzem orações de sentido temporal, indicando simultaneidade ou imediatismo entre os eventos narrados."
                                            },
                           "resposta":  "e",
-                          "explicacao":  "\u0027Assim que\u0027 indica imediatismo temporal (a comemoração ocorre logo após a divulgação), e \u0027enquanto\u0027 indica simultaneidade entre a comemoração e a reorganização dos não aprovados, caracterizando ambas como conjunções de sentido temporal.",
+                          "explicacao":  "\u0027Assim que\u0027 marca imediatismo e \u0027enquanto\u0027 marca simultaneidade: as duas situam os eventos no tempo, e é isso que a frase faz ao encadear a divulgação, a comemoração e a organização para a próxima edição. A leitura de \u0027enquanto\u0027 como adversativo é a mais defensável do conjunto, porque o conectivo admite esse valor em outros contextos — aqui, porém, os dois eventos ocorrem ao mesmo tempo, e é a simultaneidade que o período marca. Ler \u0027assim que\u0027 como causa troca a relação temporal por relação de motivo. O sentido condicional não se sustenta diante de fatos já concluídos. E chamar \u0027enquanto\u0027 de proporcional exigiria desenvolvimento gradual, que a frase não descreve.",
                           "dificuldade":  "media",
                           "formato":  "direta"
                       },
@@ -17563,14 +17563,14 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "\"Alugam-se salas comerciais no centro da cidade, todas equipadas com ar-condicionado e conexão de internet de alta velocidade.\"",
                           "enunciado":  "Sobre a concordância verbal na frase, é correto afirmar que",
                           "alternativas":  {
-                                               "a":  "está incorreta porque falta a preposição \u0027de\u0027 antes de \u0027salas comerciais\u0027, complemento que o verbo \u0027alugar\u0027 exigiria nessa construção passiva, exigência que não se aplica ao sujeito paciente da voz passiva sintética.",
-                                               "b":  "está correta apenas porque a frase menciona equipamentos tecnológicos, contexto que dispensaria a concordância entre verbo e sujeito paciente, afirmação sem qualquer respaldo na regra de concordância da voz passiva sintética.",
+                                               "a":  "está incorreta porque falta a preposição \u0027de\u0027 antes de \u0027salas comerciais\u0027, complemento que o verbo \u0027alugar\u0027 passa a exigir quando acompanhado da partícula \u0027se\u0027 em construção de sentido passivo",
+                                               "b":  "está correta porque \u0027se\u0027 funciona como índice de indeterminação do sujeito, e nesse caso a flexão do verbo acompanha o número do termo que vem depois dele na oração",
                                                "c":  "está correta, mas porque \u0027se\u0027 é índice de indeterminação do sujeito, o que mantém o verbo no singular.",
                                                "d":  "está correta; \u0027se\u0027 é partícula apassivadora, e \u0027salas comerciais\u0027, sujeito da oração passiva sintética, exige concordância verbal no plural, como ocorre em \u0027alugam-se\u0027.",
                                                "e":  "está incorreta; deveria ser \u0027aluga-se salas comerciais\u0027, mantendo o verbo sempre no singular, já que \u0027se\u0027 seria índice de indeterminação do sujeito, confusão com a construção de sujeito indeterminado sem objeto direto."
                                            },
                           "resposta":  "d",
-                          "explicacao":  "Assim como em outros exemplos de voz passiva sintética, \u0027salas comerciais\u0027 é o sujeito paciente da oração, exigindo concordância verbal no plural com a partícula apassivadora \u0027se\u0027: \u0027alugam-se salas comerciais\u0027.",
+                          "explicacao":  "Em \u0027alugam-se salas comerciais\u0027 o \u0027se\u0027 é partícula apassivadora e \u0027salas comerciais\u0027 é o sujeito paciente, o que leva o verbo ao plural. Ler o \u0027se\u0027 como índice de indeterminação é a confusão clássica dessa estrutura, e é dela que vem o \u0027aluga-se casas\u0027 das placas: ali o falante trata \u0027casas\u0027 como objeto, quando é sujeito. Exigir a preposição \u0027de\u0027 antes do complemento supõe uma regência que o verbo não tem nessa construção. Dizer que a frase está correta porque menciona equipamentos não descreve critério gramatical algum. E manter o verbo no singular por indeterminação repete o mesmo equívoco da análise do \u0027se\u0027.",
                           "dificuldade":  "media",
                           "formato":  "direta"
                       },
@@ -17598,11 +17598,11 @@ window.QUESTION_BANKS = {
                                                "a":  "está corretamente pontuada, dispensando qualquer sinal entre as orações apresentadas, já que orações coordenadas assindéticas curtas dispensariam vírgula, mesmo com sujeito e verbo próprios em cada uma.",
                                                "b":  "está incorreta; as orações coordenadas deveriam ser separadas por ponto e vírgula, e não por vírgula.",
                                                "c":  "está incorreta porque deveria haver ponto final entre cada uma das três orações, formando três frases independentes e sem qualquer relação sintática entre si, solução que fragmentaria desnecessariamente a sequência narrativa do período original.",
-                                               "d":  "está incorreta apenas porque falta um sujeito explícito em cada oração, exigência que toda oração coordenada assindética deveria cumprir separadamente e sem exceção, afirmação equivocada, já que o sujeito elíptico é plenamente aceito pela norma culta.",
+                                               "d":  "está incorreta apenas porque falta um sujeito explícito em cada oração, uma vez que a supressão do sujeito em orações coordenadas assindéticas prejudica a identificação de quem pratica cada ação narrada",
                                                "e":  "está incorreta; faltam vírgulas separando as orações coordenadas assindéticas (sem conjunção), sendo necessário algo como \u0027Terminou a reunião, entrou correndo na sala ao lado, esqueceu completamente o notebook sobre a mesa\u0027."
                                            },
                           "resposta":  "e",
-                          "explicacao":  "Orações coordenadas justapostas, sem conjunção (assindéticas), devem ser separadas por vírgula; a ausência total de pontuação entre as três orações da frase compromete a clareza e caracteriza um desvio de pontuação.",
+                          "explicacao":  "As três orações são coordenadas assindéticas, sem conjunção entre elas, e por isso pedem vírgulas: \u0027Terminou a reunião, entrou correndo na sala ao lado, esqueceu completamente o notebook sobre a mesa\u0027. Localizar o problema na ausência de sujeito explícito desloca a questão da pontuação para a sintaxe, e o sujeito elíptico é plenamente aceito. Dizer que a frase dispensa sinais porque as orações são curtas ignora que cada uma tem verbo próprio. Substituir por ponto e vírgula é possível em outros arranjos, mas não é o que a sequência pede. E separar tudo em três frases independentes fragmenta uma sequência narrativa que se quer encadeada.",
                           "dificuldade":  "media",
                           "formato":  "direta"
                       },
@@ -17613,12 +17613,12 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "está correta; nesse sentido, \u0027ansiar\u0027 é transitivo indireto e rege a preposição \u0027por\u0027.",
                                                "b":  "está incorreta; deveria ser \u0027ansiavam uma solução\u0027, sem preposição, confusão com verbos que admitem objeto direto simples, diferente do sentido de expectativa presente nesta frase.",
-                                               "c":  "está correta apenas em textos jornalísticos, sendo incomum em outros gêneros, restrição de registro que não encontra respaldo em nenhuma gramática normativa da língua portuguesa.",
+                                               "c":  "está incorreta; \u0027ansiar\u0027 deveria ser regido pela preposição \u0027para\u0027, que é a que introduz complemento de verbos indicando expectativa em relação a algo que se espera obter no futuro",
                                                "d":  "está correta, mas apenas porque o complemento é abstrato; diante de complemento concreto, \u0027ansiar\u0027 passa a ser transitivo direto.",
                                                "e":  "está incorreta porque \u0027ansiar\u0027 deveria ser regido pela preposição \u0027para\u0027."
                                            },
                           "resposta":  "a",
-                          "explicacao":  "No sentido de \u0027desejar ansiosamente, aguardar com expectativa\u0027, o verbo \u0027ansiar\u0027 é transitivo indireto e rege a preposição \u0027por\u0027 (\u0027ansiar por algo\u0027), regência corretamente empregada na frase.",
+                          "explicacao":  "No sentido de desejar ansiosamente, \u0027ansiar\u0027 é transitivo indireto e rege a preposição \u0027por\u0027, o que a frase emprega corretamente em \u0027ansiavam por uma solução\u0027. A preposição \u0027para\u0027 é a que a intuição sugere, por associação com a ideia de finalidade, e não é a que o verbo pede. Retirar a preposição o trata como transitivo direto, confusão com verbos de objeto direto simples. Fazer a regência variar conforme o complemento ser abstrato ou concreto inventa um critério que a norma não usa. E restringir a construção a determinado gênero de texto transforma regência em questão de estilo.",
                           "dificuldade":  "media",
                           "formato":  "direta"
                       },
@@ -17643,14 +17643,14 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "\"Os passageiros aguardavam à espera de novas informações sobre o voo cancelado, sem qualquer previsão oficial de reembolso ou remarcação.\"",
                           "enunciado":  "Sobre o uso da crase na locução \u0027à espera de\u0027 na frase, é correto afirmar que",
                           "alternativas":  {
-                                               "a":  "está incorreta porque \u0027espera\u0027 é substantivo que rejeita artigo definido antecedente, mesmo quando regido por preposição exigida pela locução, afirmação que contraria o uso consagrado dessa locução prepositiva feminina.",
-                                               "b":  "está incorreta, pois o verbo \u0027aguardar\u0027 já expressa a ideia de espera, tornando a locução redundante e sem crase, leitura que ignora o valor consagrado dessa locução prepositiva independentemente da redundância aparente.",
+                                               "a":  "está incorreta porque \u0027espera\u0027 é substantivo que rejeita o artigo definido quando vem regido de preposição, de modo que a preposição \u0027a\u0027 permanece sozinha antes dele na locução",
+                                               "b":  "está incorreta, pois quem rege o complemento é o verbo \u0027aguardar\u0027, que é transitivo direto e não admite preposição antes do termo que o completa na oração",
                                                "c":  "está correta, mas apenas porque \u0027espera\u0027 vem seguida de complemento; sem ele, o acento seria indevido.",
                                                "d":  "está correta, pois \u0027à espera de\u0027 é locução prepositiva feminina consagrada pelo uso, formada pela fusão da preposição \u0027a\u0027 com o artigo feminino de \u0027espera\u0027.",
                                                "e":  "está correta apenas se a locução vier no início do período, posição que por si só justificaria a fusão da preposição com o artigo feminino, condição que a regra de crase não exige para locuções consagradas pelo uso."
                                            },
                           "resposta":  "d",
-                          "explicacao":  "\u0027À espera de\u0027 é locução prepositiva feminina consagrada pelo uso, assim como \u0027à beira de\u0027 e \u0027à frente de\u0027, exigindo o acento indicativo de crase pela fusão da preposição \u0027a\u0027 com o artigo feminino que acompanha o substantivo \u0027espera\u0027.",
+                          "explicacao":  "\u0027À espera de\u0027 é locução prepositiva feminina consagrada pelo uso, formada pela fusão da preposição com o artigo, e por isso leva o acento. Atribuir a regência ao verbo \u0027aguardar\u0027 é o desvio mais fino: o verbo é de fato transitivo direto, mas o que exige a preposição aqui é a locução, não ele. Dizer que \u0027espera\u0027 rejeita artigo contraria o uso consagrado dessa locução. Condicionar o acento à presença de complemento depois dela inventa uma exigência que a regra não faz. E fazê-lo depender da posição da locução no período introduz um critério de lugar onde não existe.",
                           "dificuldade":  "media",
                           "formato":  "direta"
                       },

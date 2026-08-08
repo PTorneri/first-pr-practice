@@ -1,0 +1,96 @@
+{
+  "_comentario": [
+    "Lote 6 -- ULTIMO de historia-brasil. 89, 92, 93, 94, 98, 100. Dezenove distratores.",
+    "",
+    "Bloco de Brasil contemporaneo: privatizacoes, cotas, Maria da Penha, Bolsa Familia,",
+    "teto de gastos, marco temporal.",
+    "",
+    "UM CASO QUE EU NAO CONSIGO CONSERTAR COM ESTA FERRAMENTA, e fica registrado: na",
+    "questao 100, a cauda esta na ALTERNATIVA CORRETA. A (c) diz 'Os povos indigenas so",
+    "teriam direito a terras sob sua posse na promulgacao da Constituicao de 1988, TESE",
+    "CONTESTADA POR INDIGENAS'. O comentario nao e falso, e nao pertence ao enunciado da",
+    "tese: a questao pede o que o marco temporal PROPOE, e a alternativa propoe e ja",
+    "julga. Como a reescrever-distratores.ps1 se recusa a tocar no gabarito -- e essa",
+    "recusa e o que garante que nenhum lote troca resposta por acidente --, isso precisa",
+    "de outra passagem. Anotado.",
+    "",
+    "Vale notar que essa cauda no gabarito nao ajuda quem chuta: a metrica descarta",
+    "alternativa que se autorrefuta, e descartar a certa nao entrega resposta nenhuma.",
+    "E defeito de qualidade, nao de chutabilidade.",
+    "",
+    "AS TRES MELHORES TROCAS:",
+    "",
+    "  93(d) era 'Extinguiu QUALQUER forma de punicao para agressores, o oposto do",
+    "        endurecimento penal que a lei promoveu'. Passa a ser: substituiu a punicao",
+    "        penal por conciliacao em juizados especiais com penas alternativas. Isso e",
+    "        exatamente o que a Lei 9.099/95 fazia, e e o que a Maria da Penha veio",
+    "        ACABAR -- cesta basica no lugar de processo. Quem sabe por que a lei foi",
+    "        necessaria reconhece a descricao do problema, nao da solucao.",
+    "  93(e) era 'primeira lei brasileira sobre violencia de genero, quando ja havia",
+    "        legislacao anterior'. Passa a ser a condenacao do Brasil na Comissao",
+    "        Interamericana de Direitos Humanos -- que aconteceu de verdade, em 2001, no",
+    "        caso de Maria da Penha Maia Fernandes, e e a origem da lei. O erro fica",
+    "        sendo o que a Comissao determinou: delegacias da mulher existiam desde 1985.",
+    "  94(c) era 'aumento generalizado da informalidade, SEM IMPACTO OBSERVAVEL sobre a",
+    "        pobreza, o que contraria estudos'. Passa a ser a informalidade atribuida ao",
+    "        receio de perder o beneficio ao assinar carteira. Essa hipotese foi",
+    "        pesquisada de verdade, discutida a serio, e em larga medida nao se",
+    "        confirmou -- que e uma coisa bem diferente de ser absurda.",
+    "",
+    "PARES GEMEOS desfeitos: 89(a) e 89(b) diziam as duas 'ampliar a presenca do Estado",
+    "em setores estrategicos'. A (a) passou a ser exigencia do FMI condicionando a",
+    "renegociacao da divida, que e o argumento que circulava na epoca."
+  ],
+  "subtopic": "historia-brasil",
+  "questoes": {
+    "historia-brasil-89": {
+      "alternativas": {
+        "a": "O cumprimento de exigência formal do Fundo Monetário Internacional, que condicionava a renegociação da dívida externa à venda das empresas estatais",
+        "b": "A necessidade de o Estado ampliar seu controle direto sobre setores estratégicos, mediante incorporação das empresas privadas concorrentes",
+        "c": "A existência de consenso entre os partidos no Congresso, que aprovaram o Programa Nacional de Desestatização sem votos contrários",
+        "e": "A vedação constitucional ao monopólio estatal nos setores de energia e de telecomunicações, introduzida pela Constituição de 1988"
+      },
+      "explicacao": "As privatizações dos anos 1990 foram justificadas pela necessidade de reduzir o endividamento público e de transferir à iniciativa privada a gestão de setores considerados ineficientes, com a receita das vendas abatendo a dívida. A exigência do Fundo Monetário Internacional é o distrator mais plausível, porque essa leitura circulava no debate público e havia acordos de ajuste em vigor — a desestatização, porém, foi política de governo aprovada em lei nacional, não condição formal de renegociação. Ampliar o controle estatal descreve o contrário do programa. A Constituição de 1988 previa monopólio da União em setores como petróleo, que só foi flexibilizado por emenda em 1995. E o processo foi objeto de intensa controvérsia, com votos contrários e ações judiciais."
+    },
+    "historia-brasil-92": {
+      "alternativas": {
+        "a": "Ampliar o acesso de estudantes egressos de escolas particulares ao ensino superior público, mediante reserva de vagas por desempenho no exame",
+        "b": "Reduzir a evasão nas universidades públicas, ao selecionar os candidatos com maior probabilidade de concluir o curso no prazo previsto",
+        "e": "Substituir o processo seletivo por sorteio entre os candidatos que atendessem aos critérios de renda e de origem escolar declarados"
+      },
+      "explicacao": "As políticas de cotas, consolidadas na Lei 12.711/2012, justificam-se pela compensação de desigualdades históricas de acesso à educação, ligadas ao legado da escravidão e a desigualdades socioeconômicas que persistem. A substituição do critério racial pelo de renda é o distrator mais forte, porque essa alternativa foi de fato defendida no debate público e a lei combinou os dois critérios em vez de escolher um. Reduzir a evasão pela seleção dos candidatos mais prováveis de concluir descreve um objetivo de eficiência que inverte a lógica redistributiva da política. Beneficiar egressos de escolas particulares contraria o desenho da lei, que reserva vagas a quem cursou a escola pública. E o processo seletivo foi mantido, com a reserva aplicada sobre seu resultado."
+    },
+    "historia-brasil-93": {
+      "alternativas": {
+        "c": "Aplicava-se apenas a casos de violência física com lesão corporal comprovada por exame pericial, excluídas as demais formas de agressão",
+        "d": "Substituiu a punição penal dos agressores por medidas de conciliação conduzidas em juizados especiais, com aplicação de penas alternativas",
+        "e": "Decorreu de condenação do Brasil na Comissão Interamericana de Direitos Humanos, que determinou a criação das delegacias especializadas da mulher"
+      },
+      "explicacao": "A Lei Maria da Penha criou mecanismos específicos de proteção à mulher em situação de violência doméstica e familiar — medidas protetivas de urgência, juizados próprios, afastamento do agressor —, num campo antes tratado com brandura pela lei penal. A alternativa da conciliação em juizados especiais é a mais instrutiva, porque descreve exatamente o regime anterior, da Lei 9.099/95, que a nova lei veio afastar ao vedar penas alternativas nesses casos. A condenação na Comissão Interamericana existiu, em 2001, no caso que dá nome à lei, e o que ela determinou não foi a criação de delegacias, que já funcionavam desde 1985. Restringir a lei à lesão corporal com perícia exclui as violências psicológica, moral, patrimonial e sexual, todas previstas. E o crime cometido entre desconhecidos está fora de seu alcance."
+    },
+    "historia-brasil-94": {
+      "alternativas": {
+        "b": "A eliminação da desigualdade de renda entre as regiões do país, medida pelo coeficiente de Gini de cada unidade da federação",
+        "c": "O aumento da informalidade no mercado de trabalho, atribuído ao receio dos beneficiários de perder a transferência ao assinar carteira de trabalho",
+        "e": "A substituição da aposentadoria rural por transferência condicionada de renda, com unificação dos dois benefícios em pagamento único"
+      },
+      "explicacao": "As pesquisas sobre o Bolsa Família discutem sobretudo a redução da pobreza extrema e a melhora de indicadores de frequência escolar e de saúde infantil, associadas às condicionalidades do programa. A hipótese do aumento da informalidade pelo receio de perder o benefício é o distrator mais respeitável, porque foi efetivamente investigada e debatida — e os estudos em geral não confirmaram esse efeito de desincentivo ao trabalho formal. O aumento do abandono escolar contraria as condicionalidades, que vinculam o pagamento à frequência. A eliminação da desigualdade regional é resultado que nenhuma pesquisa atribui ao programa. E ele nunca substituiu a aposentadoria rural, benefício previdenciário de outra natureza."
+    },
+    "historia-brasil-98": {
+      "alternativas": {
+        "a": "Eliminar a necessidade de aprovação anual do orçamento pelo Congresso Nacional, substituída por autorização plurianual de despesas",
+        "b": "Permitir o crescimento das despesas públicas federais acima da inflação nos exercícios em que a arrecadação superasse a projeção inicial",
+        "e": "Transferir a estados e municípios a responsabilidade pelos gastos em saúde e educação, retirados dos mínimos constitucionais da União"
+      },
+      "explicacao": "O teto de gastos, instituído pela Emenda Constitucional 95, de 2016, foi justificado como forma de conter a trajetória de crescimento da dívida pública e de sinalizar compromisso fiscal de longo prazo a investidores e à sociedade, ao limitar a despesa primária à inflação do ano anterior. Vincular o crescimento das despesas ao aumento da arrecadação é o distrator mais forte, porque essa era exatamente a regra alternativa defendida por críticos da emenda — e o teto escolheu o outro caminho, desvinculando o gasto do desempenho da receita. Permitir crescimento acima da inflação quando a arrecadação surpreendesse é a mesma ideia, e contraria o desenho adotado. O rito orçamentário anual foi preservado. E os mínimos de saúde e educação foram alterados na forma de cálculo, sem transferência de competência aos entes."
+    },
+    "historia-brasil-100": {
+      "alternativas": {
+        "a": "Os direitos territoriais indígenas foram convertidos pela Constituição de 1988 em direito a indenização em dinheiro, sem demarcação de terras",
+        "d": "Apenas as terras já demarcadas por decreto até 1988 podem ser reconhecidas como território indígena, vedada a revisão posterior de limites",
+        "e": "A posse indígena deve ser comprovada por documento de titulação expedido pelo poder público, à semelhança do exigido de proprietários rurais"
+      },
+      "explicacao": "A tese do marco temporal sustenta que os povos indígenas só teriam direito às terras que estivessem sob sua posse na data da promulgação da Constituição, 5 de outubro de 1988. Restringir o reconhecimento às terras já demarcadas por decreto até aquele ano é o distrator mais próximo, e por isso o mais perigoso: a tese fala de posse efetiva na data, não de demarcação concluída, e a diferença entre as duas coisas é o que está em disputa nos tribunais. Exigir documento de titulação aplica à posse indígena a lógica da propriedade privada, estranha ao regime do artigo 231. A tese do indigenato, que dispensa a data, é justamente a posição contrária. E a Constituição reconheceu expressamente esses direitos territoriais, sem convertê-los em indenização."
+    }
+  }
+}

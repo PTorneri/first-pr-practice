@@ -1,0 +1,77 @@
+{
+  "_comentario": [
+    "Lote de ANACRONISMO, nao de cauda: 05, 41, 52. Onze distratores.",
+    "",
+    "Estas tres questoes nao apareceram na varredura de caudas. Vieram do",
+    "auditar-anacronismo.ps1, que escrevi depois de achar a mao, na 07, uma alternativa",
+    "que atribui a abdicacao de Dom Pedro I em 1831 a derrota na Guerra do Paraguai --",
+    "que nao houve, e seria em 1870. A cauda dela, 'conflito que teria esgotado o",
+    "prestigio militar do imperador', nao se autorrefuta, e portanto o CAUDA_RX nunca a",
+    "veria. Ler as questoes que o regex marca nao alcanca as que ele nao marca.",
+    "",
+    "O que o auditor achou aqui e uma familia inteira do mesmo habito, a Lei Aurea usada",
+    "como regua de correcao dentro do distrator:",
+    "",
+    "  05(c) 'A abolicao da escravidao, processo que SO SE COMPLETARIA com a Lei Aurea",
+    "        de 1888' -- numa questao sobre as medidas de 1808",
+    "  41(c) 'A imediata abolicao da escravidao, medida que so se concretizaria DOIS",
+    "        SECULOS DEPOIS, com a Lei Aurea de 1888' -- numa questao sobre a Uniao",
+    "        Iberica, 1580-1640",
+    "  52(c) 'A abolicao decretada por Dom Joao VI em 1817, medida que so ocorreria",
+    "        SETENTA ANOS DEPOIS, com a Lei Aurea' -- em 1817",
+    "",
+    "Tres vezes a mesma construcao: propor a abolicao fora de epoca e, no fim da propria",
+    "alternativa, informar a epoca certa. O candidato nao precisa saber nada.",
+    "",
+    "Os substitutos ficam no assunto de cada questao e sao verificaveis:",
+    "",
+    "  05(c) a pressao inglesa sobre o trafico como contrapartida da protecao naval a",
+    "        travessia da corte. Os tratados de 1810 comprometeram Portugal com a",
+    "        extincao GRADUAL do trafico -- nao com a abolicao da escravidao, e nao em",
+    "        1808. Distrator que exige distinguir trafico de escravidao.",
+    "  41(a) a administracao colonial passando ao Conselho das Indias em Madri. A Uniao",
+    "        Iberica manteve as instituicoes portuguesas separadas, e e justamente isso",
+    "        que o candidato precisa saber.",
+    "  41(c) a suspensao do trafico pelo bloqueio holandes a Angola. Os holandeses",
+    "        tomaram Luanda de verdade -- em 1641, no ano seguinte ao fim da Uniao.",
+    "  52(c) o imposto extraordinario para custear a ocupacao da Banda Oriental,",
+    "        iniciada em 1816. A campanha existiu e pesou nas capitanias; e uma queixa",
+    "        plausivel para 1817, e nao a que a historiografia registra.",
+    "  52(d) a transferencia para o Rio dos recursos antes aplicados no Norte -- que era",
+    "        uma queixa real de Pernambuco, no lugar de 'beneficiou EXCLUSIVAMENTE",
+    "        Pernambuco, o que nao correspondeu a realidade'.",
+    "",
+    "Deixei de pe a 05(a), banco emissor com monopolio do credito: o Banco do Brasil foi",
+    "criado mesmo em 1808, e por isso a alternativa e o melhor distrator da questao. E a",
+    "52(b), a recusa de autonomia as provincias que 'haviam aderido ao movimento",
+    "constitucionalista' -- que e de 1820, tres anos depois da revolta. Armadilha de",
+    "data, limpa, sem aviso."
+  ],
+  "subtopic": "historia-brasil",
+  "questoes": {
+    "historia-brasil-05": {
+      "alternativas": {
+        "c": "A abolição da escravidão no território brasileiro, exigida pela Inglaterra como contrapartida à proteção naval oferecida à travessia da corte",
+        "d": "A convocação de uma assembleia de representantes das capitanias para deliberar sobre a instalação da corte na cidade do Rio de Janeiro",
+        "e": "A promulgação da primeira Constituição brasileira, redigida por juristas trazidos de Coimbra junto com a comitiva real portuguesa"
+      },
+      "explicacao": "A medida mais importante de 1808 foi a abertura dos portos às nações amigas, que rompeu o monopólio comercial português e reorientou o comércio da colônia. A criação de um banco emissor é o distrator mais forte da questão, porque o Banco do Brasil foi realmente fundado naquele ano para financiar a corte — ele existiu, sem o monopólio sobre o crédito que a alternativa lhe atribui. A pressão inglesa daquele momento recaía sobre o tráfico de africanos, e os tratados de 1810 comprometeram Portugal com sua extinção gradual, o que é distinto de abolir a escravidão. A convocação de assembleia representativa é estranha a um governo absolutista. E a primeira Constituição só veio em 1824, outorgada por Dom Pedro I."
+    },
+    "historia-brasil-41": {
+      "alternativas": {
+        "a": "A transferência da administração colonial para o Conselho das Índias, em Madri, que passou a nomear diretamente os governadores-gerais do Brasil",
+        "b": "A abertura dos portos brasileiros ao comércio com as colônias espanholas da América, autorizada pela unificação das duas Coroas ibéricas",
+        "c": "A suspensão do tráfico de africanos para a colônia, cortado pelo bloqueio holandês aos portos de Angola durante o conflito com a Espanha"
+      },
+      "explicacao": "A União Ibérica expôs o Brasil aos inimigos da Espanha: como parte dos domínios de Filipe II, a colônia tornou-se alvo legítimo de holandeses e ingleses, e daí vêm as invasões da Bahia e de Pernambuco. A administração pelo Conselho das Índias é o distrator mais exigente, porque a instituição existia e cuidava da América espanhola — só que a união se deu na pessoa do monarca, com as instituições portuguesas mantidas separadas. A suspensão do tráfico por bloqueio holandês em Angola aponta para um fato real, a tomada de Luanda, ocorrida em 1641, já depois da restauração portuguesa. A abertura ao comércio com as colônias espanholas não foi autorizada. E o comércio com Portugal seguiu, sem ampliação do monopólio."
+    },
+    "historia-brasil-52": {
+      "alternativas": {
+        "c": "A cobrança de um imposto extraordinário destinado a custear a ocupação militar da Banda Oriental, iniciada no ano anterior à revolta",
+        "d": "A chegada da família real ao Brasil em 1808, que transferiu para o Rio de Janeiro os recursos antes aplicados nas capitanias do Norte",
+        "e": "O apoio da população pernambucana à corte instalada no Rio de Janeiro, que garantia o escoamento do açúcar da província pelo porto do Recife"
+      },
+      "explicacao": "A Revolução Pernambucana de 1817 nasceu da insatisfação com a carga tributária, do favorecimento aos portugueses vindos com a corte e da circulação de ideais republicanos no Recife. O imposto para a campanha na Banda Oriental é o distrator mais bem construído, porque a ocupação começou em 1816 e realmente onerou as províncias — e não é a causa que a historiografia registra para o movimento. A transferência de recursos ao Rio de Janeiro toca uma queixa verdadeira do Norte, e a exclui como causa por descrever consequência da corte, não motivo do levante. A recusa de autonomia às províncias do Sul remete ao constitucionalismo de 1820, posterior. E supor apoio da população à corte contraria o próprio caráter separatista da revolta."
+    }
+  }
+}

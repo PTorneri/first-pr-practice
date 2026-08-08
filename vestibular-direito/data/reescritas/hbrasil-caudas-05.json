@@ -1,0 +1,103 @@
+{
+  "_comentario": [
+    "Lote 5 de historia-brasil: 74, 75, 76, 78, 81, 85, 87. Vinte e dois distratores.",
+    "",
+    "Bloco de 1945 a 1988. Aqui as caudas eram quase todas do tipo ', quando na verdade'",
+    "e ', o oposto de', e havia tres alternativas que negavam a premissa da propria",
+    "questao ('nao teve qualquer relacao com a redemocratizacao' numa questao que",
+    "pergunta por que o movimento foi relevante para a redemocratizacao).",
+    "",
+    "As trocas que mudam o nivel da questao:",
+    "",
+    "  87(a) era 'processo fechado, sem QUALQUER participacao da sociedade civil, o",
+    "        oposto do que as emendas populares de fato permitiram' -- negava o",
+    "        enunciado e se corrigia. Passa a ser a COMISSAO DE NOTAVEIS: anteprojeto",
+    "        de uma comissao, votado em bloco, sem emenda de fora do Congresso. Isso",
+    "        quase aconteceu -- a Comissao Afonso Arinos existiu e produziu um",
+    "        anteprojeto que a Constituinte descartou. Saber que ela foi descartada e",
+    "        exatamente o conteudo da questao.",
+    "  85(c) era 'defesa da manutencao das desigualdades raciais como fenomeno natural,",
+    "        tese SEMPRE combatida pelo MNU' -- absurda e autodenunciada. Passa a ser a",
+    "        DEMOCRACIA RACIAL: a miscigenacao como prova de que nao havia barreiras",
+    "        raciais no pais. E a tese que o MNU nasceu para combater, ela dominou o",
+    "        senso comum brasileiro por decadas, e um candidato desatento marca.",
+    "  85(d) mantive o tema da acao afirmativa e troquei o motivo: a oposicao as cotas",
+    "        por entender que elas reforcariam a classificacao racial. E um argumento",
+    "        que existe de verdade no debate, inclusive dentro do movimento negro --",
+    "        so nao e a posicao do MNU, que apoiou as cotas.",
+    "  78(c) Goulart assumindo com poderes PLENOS depois do recuo dos ministros",
+    "        militares diante da mobilizacao de Brizola. Tudo verdadeiro menos as duas",
+    "        palavras que importam: o compromisso foi o parlamentarismo.",
+    "  76(c) crise de balanco de pagamentos pela queda do preco do cafe, que pressionava",
+    "        o governo em 1954 de verdade, no lugar de 'crise causada exclusivamente por",
+    "        fatores externos, sem qualquer relacao com a politica interna, o que os",
+    "        fatos desmentem'.",
+    "  76(d) era 'derrota militar do Brasil em conflito internacional recente' -- o",
+    "        mesmo defeito da 47 e da 54, um fato de outro periodo enfiado na questao.",
+    "        Passa a ser a recusa do Congresso em aprovar a criacao da Petrobras, que",
+    "        foi criada em 1953 e era a bandeira do governo.",
+    "  81(d) as assembleias na clandestinidade das igrejas: a Igreja abrigou mesmo as",
+    "        reunioes do ABC. O erro fica sendo a data -- 1978-80 nao e o auge do AI-5.",
+    "",
+    "Em 74 e 87 a correta era a mais longa."
+  ],
+  "subtopic": "historia-brasil",
+  "questoes": {
+    "historia-brasil-74": {
+      "alternativas": {
+        "a": "Os militares se uniram em torno da permanência de Vargas até a realização das eleições, condicionando o apoio à convocação de uma nova Assembleia Constituinte",
+        "c": "As eleições presidenciais de 1945 foram adiadas para o ano seguinte, a fim de permitir o registro dos partidos recém-legalizados",
+        "d": "A esquerda brasileira se opôs à participação de Vargas na vida política, por identificá-lo com a repressão que sofrera durante o Estado Novo"
+      },
+      "explicacao": "O paradoxo do queremismo está em que um líder identificado com o autoritarismo do Estado Novo passou a contar com apoio popular organizado em nome da redemocratização, sob a palavra de ordem 'queremos Getúlio'. A oposição da esquerda é o distrator mais forte, porque seria a posição esperada de quem foi perseguido pelo regime — e o Partido Comunista, recém-legalizado, engrossou justamente o movimento queremista, e é aí que o paradoxo se completa. Dizer que os militares se uniram para mantê-lo no poder inverte o papel de quem o depôs em outubro de 1945. As eleições ocorreram na data marcada, em dezembro daquele ano. E a oposição liberal que exigia sua saída existiu de fato, sem constituir o paradoxo que o enunciado aponta."
+    },
+    "historia-brasil-75": {
+      "alternativas": {
+        "a": "Extinguir o Poder Legislativo como instância de representação política, transferindo suas funções a um conselho técnico de nomeação presidencial",
+        "d": "Manter os poderes excepcionais concedidos ao Executivo durante o Estado Novo, submetidos a partir de então à homologação do Supremo Tribunal Federal",
+        "e": "Reinstituir a monarquia constitucional, com plebiscito previsto para consultar a população sobre a forma de governo a adotar"
+      },
+      "explicacao": "A Constituição de 1946 restabeleceu o Estado democrático de Direito, com eleições diretas, separação de poderes e ampliação das garantias individuais, encerrando formalmente o Estado Novo. A manutenção dos poderes excepcionais sob homologação do Supremo é o distrator mais bem construído, porque combina algo verdadeiro — a Carta preservou instrumentos de estado de sítio — com um controle judicial que ela não previu nesses termos, e sobretudo porque contraria o sentido do texto, que desmontou o arbítrio de 1937. Transferir as funções do Legislativo a um conselho técnico descreve o oposto do Congresso restabelecido. Deslocar os poderes excepcionais para um conselho de ministros antecipa o arranjo parlamentarista de 1961. E a monarquia constitucional terminou em 1889."
+    },
+    "historia-brasil-76": {
+      "alternativas": {
+        "c": "Uma crise de balanço de pagamentos provocada pela queda do preço internacional do café, que esgotou as reservas cambiais do país",
+        "d": "A recusa do Congresso em aprovar a criação da Petrobras, que privou o governo de sua principal bandeira nacionalista",
+        "e": "O rompimento do Partido Social Democrático com o governo, que retirou de Vargas a maioria de que dispunha na Câmara dos Deputados"
+      },
+      "explicacao": "A crise de agosto de 1954 combinou forte pressão de setores militares e da oposição, sobretudo da União Democrática Nacional, com o atentado da rua Tonelero, que envolveu a guarda pessoal do presidente e tornou sua permanência insustentável. A crise cambial pelo preço do café é o distrator mais defensável, porque a pressão externa sobre as contas era real naquele ano e compôs o quadro, sem ser o fator que precipitou o desfecho. A Petrobras foi criada em 1953, com aprovação do Congresso, e era a bandeira do governo, não uma derrota. O Partido Social Democrático permaneceu na base até o fim. E não houve derrota eleitoral nem processo de impedimento em curso."
+    },
+    "historia-brasil-78": {
+      "alternativas": {
+        "a": "O Congresso Nacional foi fechado por tempo indeterminado como condição para a posse de Goulart, com o poder normativo transferido aos ministros militares",
+        "b": "O Brasil adotou o presidencialismo com mandato reduzido a dois anos, ao fim dos quais novas eleições diretas seriam convocadas",
+        "c": "Goulart assumiu a Presidência com poderes plenos, após o recuo dos ministros militares diante da mobilização liderada por Leonel Brizola"
+      },
+      "explicacao": "A Campanha da Legalidade terminou em compromisso: Goulart tomou posse, e o preço foi a adoção do parlamentarismo, que reduzia seus poderes — arranjo revertido por plebiscito em janeiro de 1963. A posse com poderes plenos após o recuo militar é o distrator mais difícil de recusar, porque acerta quase tudo, inclusive o papel de Brizola e da Rádio Farroupilha: erra exatamente nas duas palavras que definem o episódio, já que a posse veio limitada. O fechamento do Congresso contraria a bandeira legalista, que se fez em nome dele. E as alternativas que impedem Goulart de assumir, com junta militar ou sem ela, descrevem o desfecho que a mobilização evitou em 1961 e que só viria em 1964."
+    },
+    "historia-brasil-81": {
+      "alternativas": {
+        "b": "Foi organizado pelo Ministério do Trabalho como forma de canalizar a insatisfação operária para dentro dos sindicatos oficiais",
+        "d": "Ocorreu no auge da repressão do AI-5, o que obrigou as lideranças a conduzir as assembleias na clandestinidade das igrejas da região",
+        "e": "Limitou-se a reivindicações salariais de reposição da inflação, sem que dele resultasse organização política duradoura"
+      },
+      "explicacao": "As greves do ABC entre 1978 e 1980 marcaram a retomada da mobilização sindical independente no processo de abertura, e delas saíram o Partido dos Trabalhadores e a Central Única dos Trabalhadores. A referência às assembleias em igrejas é o distrator mais bem armado, porque isso aconteceu — a Igreja abrigou reuniões impedidas nos sindicatos —, e o erro está na data: o AI-5 havia sido revogado em 1978, e o movimento se dá já na abertura. Atribuir a organização ao Ministério do Trabalho inverte a autonomia que caracterizou o movimento. Reduzi-lo à reposição salarial apaga o desdobramento partidário. E dizer que ele consagrou a estrutura corporativa herdada do Estado Novo descreve justamente o que ele rompeu."
+    },
+    "historia-brasil-85": {
+      "alternativas": {
+        "a": "A formação de uma frente parlamentar dentro do partido governista, como via de acesso às políticas públicas do regime militar",
+        "c": "A defesa da miscigenação como marca positiva da sociedade brasileira e prova de que não havia barreiras raciais efetivas no país",
+        "d": "A oposição às políticas de ação afirmativa, por entender que elas reforçariam a classificação racial que o movimento buscava superar"
+      },
+      "explicacao": "O Movimento Negro Unificado, criado em 1978, tinha como bandeiras o combate ao racismo institucional e à discriminação e a valorização da cultura e da história afro-brasileira, com denúncia da violência policial. A defesa da miscigenação como prova da ausência de barreiras raciais é o distrator mais importante de reconhecer, porque é a tese da democracia racial — precisamente o que o MNU se organizou para desmontar, e o que dominava o senso comum brasileiro. A oposição às cotas por medo de reforçar a classificação racial é argumento que circula no debate, inclusive entre intelectuais negros, e não a posição do movimento, que as apoiou. A assimilação cultural contraria a valorização de identidades específicas. E a aproximação com o partido governista é incompatível com um movimento nascido em ato público contra o regime."
+    },
+    "historia-brasil-87": {
+      "alternativas": {
+        "a": "Foi um processo fechado, conduzido por uma comissão de notáveis cujo anteprojeto foi votado em bloco pelo plenário, sem que emendas de origem externa ao Congresso pudessem ser apresentadas",
+        "c": "Foi conduzida sob tutela dos militares que deixavam o poder, que mantiveram poder de veto sobre os dispositivos relativos às Forças Armadas",
+        "d": "Resultou em uma Constituição outorgada, promulgada por decreto presidencial depois de o texto ser votado pelo Congresso"
+      },
+      "explicacao": "As emendas populares mostram que a Constituinte de 1987-88 combinou a atuação de parlamentares eleitos com canais de participação social direta: propostas subscritas por milhares de eleitores e apresentadas por entidades chegaram ao texto final. A comissão de notáveis é o distrator mais exigente, porque essa via quase existiu — a Comissão Afonso Arinos produziu um anteprojeto, que a Constituinte recusou para elaborar o texto a partir das subcomissões. A tutela militar com poder de veto descreve uma pressão real sobre certos temas, sem constituir prerrogativa formal. Uma Constituição outorgada é, por definição, a que não passa por votação. E restringir a elaboração aos parlamentares eleitos nega justamente o mecanismo pelo qual a pergunta é feita."
+    }
+  }
+}

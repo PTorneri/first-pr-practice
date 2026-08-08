@@ -1,0 +1,98 @@
+{
+  "_comentario": [
+    "Lote 3 de historia-brasil: 51, 54, 55, 57, 58, 60. Vinte e um distratores.",
+    "",
+    "A 54 repete o defeito da 47 do lote anterior. A questao pergunta o que motivou a",
+    "CONFEDERACAO DO EQUADOR, de 1824. A alternativa (d) dizia: 'Derrota militar do",
+    "Brasil na Guerra do Paraguai' -- quarenta e seis anos depois, e o Brasil venceu. A",
+    "cauda admitia as duas coisas: 'conflito que, NA VERDADE, terminou em vitoria",
+    "brasileira em 1870, pauta secundaria no episodio'. Duas correcoes na mesma frase, e",
+    "uma alternativa que se elimina sozinha.",
+    "",
+    "Trocada pela resistencia dos comerciantes portugueses do Recife a separacao de",
+    "Portugal, que existiu e nao e o que move os confederados. E a (b), que falava do",
+    "desgaste de Dom Pedro I ate 1831, passou a ser a indenizacao paga a Portugal pelo",
+    "reconhecimento da independencia -- assunto do Norte, do ano seguinte, e nao a causa.",
+    "",
+    "A MELHOR TROCA DO LOTE e a 55(a). A questao pede o quarto poder da Constituicao de",
+    "1824. A alternativa era 'Poder Eclesiastico, exercido diretamente pela Igreja",
+    "Catolica sobre o Estado, arranjo que a Constituicao de 1824 JAMAIS formalizou dessa",
+    "forma' -- absurda e autodenunciada. Passa a ser: 'Poder Eclesiastico, exercido pelo",
+    "imperador sobre a Igreja por meio da nomeacao de bispos e da aprovacao de bulas",
+    "papais'. Isso e o PADROADO e o BENEPLACITO, e o imperador exercia os dois de",
+    "verdade. Continua errado -- nao era um dos quatro poderes, era atribuicao do",
+    "Executivo --, e agora exige saber a estrutura, nao rir da alternativa. Pelo mesmo",
+    "criterio a (c) virou 'Poder Federativo' no sentido de conduzir guerra e paz, que e",
+    "como Locke usava o termo.",
+    "",
+    "Outras:",
+    "  57(a) exigencia de renda so para os CARGOS eletivos, e nao para votar -- a",
+    "        distincao entre votante e eleitor e elegivel existia e e o que a questao",
+    "        deveria testar.",
+    "  58(b) era 'apoio unanime e imediato do governo regencial aos revoltosos'. Passa",
+    "        a ser mediacao com anistia negociada antes do envio de tropas. Errado, e",
+    "        possivel: a Balaiada terminou com anistia, so que depois de Caxias.",
+    "  58(c) usa os nomes das faccoes reais do Maranhao, bem-te-vis e cabanos, no lugar",
+    "        de 'apenas disputas entre faccoes da elite, sem qualquer participacao",
+    "        popular, leitura que ignora o papel de sertanejos pobres'.",
+    "  60(e) Praieira organizada por senhores de engenho do Partido CONSERVADOR --",
+    "        inverte o eixo real da disputa em Pernambuco, que opunha praieiros liberais",
+    "        aos Cavalcanti. Melhor que 'exclusivamente por senhores de engenho",
+    "        favoraveis ao imperador, quando na verdade reuniu setores liberais'.",
+    "",
+    "PARES GEMEOS desfeitos: 51(b) e 51(c) diziam as duas 'transferir a sede de volta a",
+    "Lisboa'. Em 51 e 58 a correta era a mais longa."
+  ],
+  "subtopic": "historia-brasil",
+  "questoes": {
+    "historia-brasil-51": {
+      "alternativas": {
+        "a": "Reduzir o status político do Brasil perante as demais nações europeias, em atendimento a exigência apresentada pela Inglaterra nas negociações comerciais de 1810",
+        "b": "Preparar o retorno da corte a Lisboa, deixando no Rio de Janeiro um vice-rei encarregado de administrar o território em nome do soberano",
+        "c": "Conceder ao Brasil uma constituição própria, redigida por uma assembleia de representantes das capitanias reunida no Rio de Janeiro",
+        "d": "Restabelecer o exclusivo metropolitano sobre o comércio brasileiro, revogando as concessões feitas aos ingleses após a chegada da corte"
+      },
+      "explicacao": "A elevação do Brasil a Reino Unido a Portugal e Algarves, em 1815, equiparou juridicamente as duas partes da monarquia e fortaleceu a posição de Dom João VI no Congresso de Viena, onde as potências pressionavam pelo retorno da corte a Lisboa. O restabelecimento do exclusivo metropolitano é o distrator mais forte, porque a pressão para reverter a abertura dos portos existiu de fato entre comerciantes portugueses — e a medida de 1815 caminhou no sentido oposto, consolidando o novo status. Preparar o retorno com um vice-rei descreve o que só aconteceria em 1821. A concessão de uma constituição própria antecipa em oito anos o que a Constituinte de 1823 tentaria. E reduzir o status do Brasil inverte o propósito declarado do ato."
+    },
+    "historia-brasil-54": {
+      "alternativas": {
+        "b": "A exigência de que as províncias do Norte custeassem a indenização paga a Portugal em troca do reconhecimento da independência brasileira",
+        "d": "A resistência dos comerciantes portugueses do Recife à separação de Portugal, que buscavam a recolonização da província pela antiga metrópole"
+      },
+      "explicacao": "A Confederação do Equador reagiu ao autoritarismo e à centralização da Constituição outorgada em 1824, e propôs em seu lugar um projeto republicano e federalista para as províncias do Norte. A resistência dos comerciantes portugueses do Recife é o distrator mais plausível, porque esse grupo existia e defendia a antiga metrópole — só que os confederados se voltavam contra a Corte do Rio, não contra Lisboa. A indenização a Portugal foi negociada em 1825, depois da revolta. Atribuir à elite nordestina apoio à centralização inverte exatamente o que ela recusava. E a defesa do trabalho escravo diante da pressão britânica é pauta do período, sem ligação com a bandeira federalista do movimento."
+    },
+    "historia-brasil-55": {
+      "alternativas": {
+        "a": "Poder Eclesiástico, exercido pelo imperador sobre a Igreja Católica por meio da nomeação de bispos e da aprovação prévia de bulas papais",
+        "b": "Poder Municipal, exercido pelas câmaras locais sob supervisão dos presidentes de província nomeados diretamente pelo imperador",
+        "c": "Poder Federativo, exercido pelo imperador na condução das relações com outros Estados e na declaração de guerra e de paz"
+      },
+      "explicacao": "O quarto poder da Constituição de 1824 era o Moderador, privativo do imperador, que lhe permitia dissolver a Câmara, nomear senadores e vitalícios e intervir sobre os demais poderes. O Poder Eclesiástico é o distrator mais exigente, porque as atribuições que ele descreve eram reais: pelo padroado o imperador nomeava bispos, e pelo beneplácito aprovava a entrada de bulas — só que isso era prerrogativa do Executivo, e não um dos quatro poderes. Chamar de Poder Federativo a condução da guerra e da paz recupera um uso setecentista do termo e não corresponde ao texto de 1824. As câmaras municipais eram subordinadas, sem constituir poder. E o Executivo existia, exercido pelo imperador, com a diferença de que seus ministros não respondiam perante a Câmara."
+    },
+    "historia-brasil-57": {
+      "alternativas": {
+        "a": "Assegurar o voto aos homens livres maiores de vinte e cinco anos, com exigência de renda apenas para quem se candidatasse a cargo eletivo",
+        "b": "Estender o direito de voto à população escravizada, incluída entre os cidadãos brasileiros pela Constituição outorgada em 1824",
+        "c": "Garantir a participação política da população livre proprietária, com a renda de cada votante apurada pelas juntas paroquiais a cada eleição",
+        "d": "Eliminar a influência da riqueza sobre a disputa política do Império, mediante teto de gastos fixado em lei para as campanhas eleitorais"
+      },
+      "explicacao": "O voto censitário restringia a participação política a uma parcela pequena da população, ao excluir os pobres pela exigência de renda e, por outros critérios, mulheres e escravizados. A alternativa que reserva a exigência de renda apenas aos candidatos é a mais difícil de descartar, porque o Império tinha de fato patamares diferentes para votante, eleitor e elegível — e havia exigência de renda já na primeira etapa. Dizer que o sistema garantia a participação da população livre proprietária descreve quem votava e não o efeito de exclusão que a questão pede. Incluir os escravizados entre os cidadãos contraria o texto de 1824. E supor teto de gastos de campanha aplica ao século XIX um instrumento de regulação eleitoral muito posterior."
+    },
+    "historia-brasil-58": {
+      "alternativas": {
+        "a": "Uma revolta estritamente urbana, nascida nas ruas de São Luís entre artesãos e pequenos comerciantes atingidos pela alta dos preços",
+        "b": "A mediação do governo regencial entre revoltosos e proprietários, que resultou em anistia negociada antes do envio de tropas à província, arranjo depois repetido em outras revoltas do mesmo período",
+        "c": "Apenas disputas entre bem-te-vis e cabanos pelo controle dos cargos provinciais, resolvidas na Assembleia Legislativa do Maranhão sem confronto armado"
+      },
+      "explicacao": "A Balaiada combinou tensões entre grupos da elite regional maranhense e a participação de camadas populares e escravizadas com demandas próprias, entre elas a liberdade — Cosme Bento chefiava um contingente de escravizados fugidos. A mediação com anistia negociada é o distrator mais bem construído, porque a revolta terminou de fato em anistia: ela veio depois da campanha militar de Luís Alves de Lima e Silva, e não antes do envio de tropas. Reduzir o episódio às disputas entre bem-te-vis e cabanos nomeia corretamente as facções e apaga a participação popular. Descrevê-la como revolta urbana de São Luís erra o palco, que foi o sertão. E restringi-la ao meio militar exclui os sertanejos pobres que lhe deram corpo."
+    },
+    "historia-brasil-60": {
+      "alternativas": {
+        "b": "Propunha a manutenção do voto censitário, com ampliação apenas do número de deputados eleitos por cada província do Império",
+        "d": "Defendia a separação de Pernambuco do Império e sua adesão à Confederação Argentina, então em formação sob o governo de Rosas",
+        "e": "Foi organizada por senhores de engenho ligados ao Partido Conservador, que buscavam recuperar o controle da presidência da província de Pernambuco"
+      },
+      "explicacao": "A Revolução Praieira, de 1848, reivindicava eleições livres, liberdade de imprensa e restrições ao comércio a varejo exercido por portugueses — essa última pauta lhe dava um forte teor nativista, ao lado do liberalismo. Atribuí-la a senhores de engenho conservadores é o distrator mais forte porque inverte o eixo real da disputa pernambucana, que opunha os praieiros aos Cavalcanti e ao Partido Conservador. Propor a manutenção do voto censitário contraria a bandeira de ampliação política do movimento. A adesão à Confederação Argentina não figurou entre suas propostas, voltadas ao arranjo interno do Império. E defender a restauração do absolutismo ou do domínio colonial português é estranho a um movimento liberal e nativista."
+    }
+  }
+}

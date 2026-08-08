@@ -1,0 +1,102 @@
+{
+  "_comentario": [
+    "Lote 2 de historia-brasil: 25, 38, 46, 47, 49, 50. Vinte e um distratores.",
+    "",
+    "DEFEITO NOVO, e o mais grave que apareci nesta campanha: a 47 e sobre a REVOLTA DE",
+    "BECKMAN, no Maranhao de 1684 -- monopolio da Companhia de Comercio, falta de",
+    "escravos africanos, atrito com os jesuitas. Duas das cinco alternativas falavam de",
+    "MINERACAO:",
+    "",
+    "  47(a) 'a cobranca do quinto sobre o ouro extraido na regiao'",
+    "  47(d) 'a obrigatoriedade de fundir o ouro em barras nas casas oficiais'",
+    "",
+    "Nao e questao de estilo: e outro seculo, outra capitania e outra economia. E a (a)",
+    "chegava a admitir isso na propria cauda -- 'tributo tipico da economia mineradora,",
+    "INEXISTENTE NO MARANHAO COLONIAL'. A alternativa se identificava como intrusa. Com",
+    "as duas descartadas de saida, a questao tinha tres opcoes.",
+    "",
+    "Substitui as duas por atritos que a capitania de fato teve: o dizimo sobre acucar e",
+    "algodao, e a exigencia de embarcar a producao em navios da Coroa com frete fixado",
+    "em Lisboa. A (e) passou a ser a criacao do Estado do Maranhao e Grao-Para, separado",
+    "da Bahia -- que existiu, em 1621, e nao e o alvo da revolta.",
+    "",
+    "AS DUAS MELHORES TROCAS DO LOTE, as duas em Palmares:",
+    "",
+    "  46(d) era 'territorio reconhecido pela Coroa DESDE SUA FUNDACAO, quando na",
+    "        verdade foi alvo de expedicoes'. Passa a ser o ACORDO DE PAZ COM GANGA",
+    "        ZUMBA, que a Coroa assinou de verdade em 1678. O erro deixa de ser a",
+    "        existencia do reconhecimento e passa a ser sua duracao e seu alcance: o",
+    "        acordo foi feito, rachou o quilombo, e Zumbi o rejeitou e seguiu lutando",
+    "        mais quinze anos. Quem sabe isso acerta por saber, nao por eliminacao.",
+    "  46(b) era 'pequeno agrupamento isolado, sem organizacao social relevante,",
+    "        descricao incompativel com os quase cem anos de resistencia'. Passa a ser",
+    "        uma federacao de povoados SEM autoridade central -- que e quase verdade,",
+    "        porque Palmares era mesmo um conjunto de mocambos, e erra no que importa:",
+    "        havia coordenacao politica e militar, e as expedicoes nao foram faceis.",
+    "",
+    "Outras: 25(e) passa a ser a adesao dos cafeicultores paulistas ao abolicionismo",
+    "para atrair imigrante -- que aconteceu, e nao e o que Nabuco e Patrocinio fizeram;",
+    "25(d) atribui a eles a articulacao da Lei do Ventre Livre de 1871, lei real e",
+    "anterior a entrada de Nabuco no Parlamento; 50(c) inventa apoio militar frances",
+    "obtido no Caribe, que e o rumor que circulou de verdade sobre a Conjuracao Baiana.",
+    "",
+    "PARES GEMEOS desfeitos: 49(a) e 49(c) diziam as duas 'so se manifestou depois';",
+    "50(c) e 50(e) diziam as duas 'conduzida por proprietarios de terra'. Em 46 e 50 a",
+    "correta era a mais longa."
+  ],
+  "subtopic": "historia-brasil",
+  "questoes": {
+    "historia-brasil-25": {
+      "alternativas": {
+        "b": "Defenderem a abolição gradual, com prazo de vinte anos para a libertação dos cativos e indenização paga aos proprietários pelo Tesouro",
+        "c": "Liderarem revoltas armadas de escravizados nos engenhos do Nordeste, com formação de quilombos nas matas do interior da província",
+        "d": "Terem conduzido a articulação parlamentar que resultou na Lei do Ventre Livre de 1871, primeiro passo legal da abolição gradual",
+        "e": "Representarem no Parlamento os interesses dos cafeicultores paulistas, que passaram a apoiar a abolição para atrair mão de obra imigrante"
+      },
+      "explicacao": "Joaquim Nabuco e José do Patrocínio atuaram na mobilização política e na imprensa, denunciando a escravidão e pressionando pela abolição — o campo de ação dos dois foi a tribuna, o jornal e o comício, não a lavoura. A alternativa dos cafeicultores paulistas é a mais difícil de recusar, porque essa adesão de fato ocorreu no fim dos anos 1880, por interesse na imigração: só que ela descreve um cálculo econômico de outro grupo, e não a militância dos dois abolicionistas. Atribuir-lhes a Lei do Ventre Livre erra a data, anterior à entrada de Nabuco no Parlamento. A abolição gradual com indenização era justamente o que Nabuco recusava. E a liderança de revoltas armadas nos engenhos descreve outra forma de resistência, a dos próprios escravizados."
+    },
+    "historia-brasil-38": {
+      "alternativas": {
+        "a": "Grandes investimentos em povoamento permanente e na construção de cidades fortificadas ao longo da costa recém-descoberta, financiados pela Coroa",
+        "c": "Implantação do sistema de capitanias hereditárias, com doação de terras a nobres encarregados de povoá-las e defendê-las por conta própria",
+        "d": "Proibição do contato direto entre europeus e populações indígenas, com a extração da madeira feita por degredados trazidos de Portugal"
+      },
+      "explicacao": "A fase do pau-brasil se organizou pelo escambo: os indígenas cortavam e transportavam a madeira em troca de objetos europeus, sem que houvesse colonização fixa do território. A instalação imediata de engenhos e vilas com trabalho africano é o distrator mais forte, porque descreve corretamente o que vem depois, a partir de 1530, e não os trinta primeiros anos. As capitanias hereditárias são de 1534, quando o pau-brasil já cedia lugar ao açúcar. O investimento da Coroa em cidades fortificadas não existiu nessa etapa, em que a exploração era arrendada a particulares. E supor proibição de contato com os indígenas nega a base do próprio sistema, que dependia do trabalho deles."
+    },
+    "historia-brasil-46": {
+      "alternativas": {
+        "a": "Uma aldeia fundada por missionários para catequese de escravizados fugidos, cuja autonomia era tolerada pela Coroa em troca da conversão dos moradores",
+        "b": "Uma federação de povoados dispersos pela serra da Barriga, sem autoridade central reconhecida entre eles e sem organização militar própria, o que explicaria a rapidez com que as expedições paulistas conseguiram desmantelá-la no fim do século XVII",
+        "d": "Um território reconhecido pela Coroa portuguesa por meio de acordo de paz firmado com Ganga Zumba, mantido em vigor até a destruição final do quilombo"
+      },
+      "explicacao": "A historiografia lê Palmares como organização social e política complexa, formada sobretudo por africanos fugidos da escravidão, e como a mais duradoura resistência escravista do Brasil colonial. O acordo de paz com Ganga Zumba é o distrator mais exigente porque existiu: a Coroa o firmou em 1678, e ele dividiu o quilombo, foi rejeitado por Zumbi e não impediu que a guerra continuasse por mais quinze anos — não houve reconhecimento desde a fundação nem vigência até o fim. A ideia de uma federação sem autoridade central acerta que Palmares reunia vários mocambos e erra o essencial, a coordenação política e militar entre eles. A fundação por missionários subordina à Igreja uma comunidade que se formou em fuga dela. E o assentamento de colonos livres pobres não corresponde à origem da população palmarina."
+    },
+    "historia-brasil-47": {
+      "alternativas": {
+        "a": "A cobrança do dízimo sobre a produção de açúcar e algodão da capitania, elevado pela Coroa para custear a defesa militar do litoral norte",
+        "b": "A escravização de indígenas promovida pelos próprios jesuítas nas missões do vale do Amazonas, em concorrência direta com os colonos da capitania",
+        "d": "A exigência de que a produção da capitania fosse embarcada em navios da Coroa, com o valor do frete fixado por autoridades em Lisboa",
+        "e": "A criação do Estado do Maranhão e Grão-Pará, separado do governo-geral da Bahia e submetido diretamente às autoridades de Lisboa"
+      },
+      "explicacao": "A Revolta de Beckman voltou-se contra o monopólio da Companhia de Comércio do Maranhão e contra a escassez de mão de obra escrava africana, agravada pela resistência dos jesuítas à escravização indígena. Acusar os jesuítas de promoverem eles mesmos essa escravização é o distrator mais forte, porque a disputa por braços indígenas entre missionários e colonos é o coração do conflito — invertida a posição de cada lado. A cobrança do dízimo e o frete em navios da Coroa são gravames plausíveis para uma capitania agroexportadora, e não os que motivaram o levante. E a criação do Estado do Maranhão e Grão-Pará, em 1621, deu à região autonomia administrativa, sem ser objeto da revolta."
+    },
+    "historia-brasil-49": {
+      "alternativas": {
+        "a": "Só passou a existir com a Inconfidência Mineira de 1789, movida pela ameaça da derrama que uniu os setores letrados da elite mineira",
+        "b": "Limitou-se a protestos escritos encaminhados ao Conselho Ultramarino, sem que houvesse confronto armado com as tropas da Coroa",
+        "c": "Partiu sobretudo dos escravizados das lavras, que reagiam ao aumento das jornadas de trabalho imposto pela cobrança do quinto",
+        "e": "Foi liderada por comerciantes portugueses estabelecidos na região, prejudicados pelo controle da Coroa sobre a circulação do ouro em pó"
+      },
+      "explicacao": "A resistência fiscal na região mineradora já se manifestava décadas antes de 1789: a Revolta de Vila Rica, de 1720, reagiu à instalação das Casas de Fundição e foi duramente reprimida, com o enforcamento de Filipe dos Santos. Atribuir o início dessa resistência à Inconfidência Mineira é o erro mais comum de cronologia sobre o período, e ignora setenta anos de conflitos anteriores. Reduzi-la a protestos escritos apaga o cerco armado a Vila Rica. Atribuí-la aos escravizados das lavras desloca o sujeito social de um movimento conduzido por mineradores e homens livres. E creditá-la a comerciantes portugueses inverte a posição desse grupo, que representava justamente o interesse metropolitano contra o qual os mineiros se voltavam."
+    },
+    "historia-brasil-50": {
+      "alternativas": {
+        "a": "Não ter relação com ideais iluministas ou republicanos, apoiando-se apenas em reivindicações religiosas das irmandades negras da cidade",
+        "c": "Ter contado com apoio militar externo, obtido junto ao governo revolucionário francês por meio de emissários enviados ao Caribe, o que lhe daria um caráter internacional ausente do movimento mineiro de nove anos antes",
+        "d": "Ter ocorrido antes da Inconfidência Mineira, servindo-lhe de inspiração direta por meio dos textos que circularam entre as duas capitanias",
+        "e": "Ter sido liderada por grandes proprietários de terra do Recôncavo, que buscavam autonomia fiscal sem alterar a ordem escravista vigente"
+      },
+      "explicacao": "A Conjuração Baiana de 1798 se distingue da Inconfidência Mineira pela participação de setores populares urbanos — artesãos, soldados, alfaiates e libertos — e por bandeiras mais radicais, entre elas o fim da escravidão. O apoio militar francês é o distrator mais bem armado, porque o rumor de contatos com a França revolucionária circulou de fato nos autos do processo, e é isso: rumor, sem aliança nem emissários. A liderança de grandes proprietários descreve o perfil da conjuração mineira, não da baiana. Negar a influência iluminista contraria os panfletos apreendidos, que citavam a França diretamente. E inverter a cronologia coloca em 1798 um movimento que veio depois de 1789."
+    }
+  }
+}

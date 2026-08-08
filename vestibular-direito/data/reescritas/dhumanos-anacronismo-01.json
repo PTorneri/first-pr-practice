@@ -1,0 +1,43 @@
+{
+  "_comentario": [
+    "Um caso so, vindo do auditar-anacronismo.ps1: direitos-humanos-06.",
+    "",
+    "A questao pergunta qual a principal critica ao processo de abolicao no Brasil, e o",
+    "texto de apoio comeca dizendo 'A Lei Aurea, de 1888, aboliu formalmente a escravidao",
+    "no Brasil'. Duas alternativas contradiziam o proprio apoio:",
+    "",
+    "  (d) 'A escravidao persistiu legalmente ate a promulgacao da Constituicao de 1988,",
+    "      marco da redemocratizacao, DESCONSIDERANDO A DATA CORRETA DA ABOLICAO' -- cem",
+    "      anos de erro, e a alternativa termina avisando que errou a data.",
+    "  (e) 'A abolicao ocorreu ANTES DA INDEPENDENCIA politica do pais, ainda sob o",
+    "      IMPERIO DE DOM PEDRO II' -- as duas metades se contradizem entre si, porque",
+    "      Pedro II reinou sessenta anos depois da independencia.",
+    "",
+    "Os substitutos entram na discussao que a questao existe para provocar:",
+    "",
+    "  (d) a abolicao condicionada a indenizacao dos proprietarios, paga com emprestimo",
+    "      externo. A indenizacao foi debatida a serio no Parlamento e NAO foi concedida",
+    "      -- a Lei Aurea tem dois artigos e nenhum deles indeniza ninguem. E o distrator",
+    "      certo para uma questao de direitos humanos: o que se indenizou foi nada, e a",
+    "      quem nada se deu foi ao liberto.",
+    "  (e) a abolicao como negociacao entre a Coroa e os abolicionistas 'sem participacao",
+    "      de quem estava sob cativeiro'. Isso e exatamente a leitura que a historiografia",
+    "      recente desmontou, mostrando fugas em massa, acoes judiciais e recusa ao",
+    "      trabalho como motor do processo. Errado, discutivel, e do tamanho da questao.",
+    "",
+    "As alternativas (a) e (b) ficaram como estavam: 'a abolicao foi revogada poucos anos",
+    "depois' e 'a Lei Aurea concedeu direitos politicos plenos e imediatos'. Sao falsas,",
+    "limpas, e a segunda e boa -- a lei nao deu direito politico nenhum, e e disso que a",
+    "critica trata."
+  ],
+  "subtopic": "direitos-humanos",
+  "questoes": {
+    "direitos-humanos-06": {
+      "alternativas": {
+        "d": "A abolição foi condicionada à indenização dos proprietários de escravizados, paga pelo Tesouro com recursos de empréstimo externo contratado para esse fim",
+        "e": "A abolição resultou de negociação direta entre a Coroa e os movimentos abolicionistas, sem participação de quem estava submetido ao cativeiro"
+      },
+      "explicacao": "A crítica central ao processo brasileiro é que a abolição não veio acompanhada de políticas de integração: nem terra, nem educação, nem trabalho assegurado para a população recém-libertada, que foi lançada à concorrência com o imigrante europeu subsidiado. A indenização aos proprietários é o distrator mais instrutivo, porque foi discutida a sério no Parlamento e não se concretizou — a Lei Áurea tem dois artigos e não indeniza ninguém, e é precisamente essa ausência de qualquer reparação, inclusive aos libertos, que a crítica aponta. Atribuir o processo apenas à negociação entre Coroa e abolicionistas é a leitura que a historiografia recente desmontou, ao mostrar fugas em massa, ações na justiça e recusa ao trabalho como motores da abolição. A lei não concedeu direitos políticos, nem foi revogada."
+    }
+  }
+}

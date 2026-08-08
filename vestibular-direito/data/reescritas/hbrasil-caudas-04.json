@@ -1,0 +1,93 @@
+{
+  "_comentario": [
+    "Lote 4 de historia-brasil: 61, 62, 63, 68, 71, 73. Vinte distratores.",
+    "",
+    "O DISTRATOR DE QUE MAIS GOSTO EM TODA A CAMPANHA esta aqui, na 73(a). Era",
+    "'Impediu QUALQUER participacao brasileira nos debates internacionais do pos-guerra,",
+    "o que a atuacao da FEB de fato nao impediu' -- uma alternativa que se contradiz",
+    "dentro de si mesma em vinte palavras. Passa a ser:",
+    "",
+    "  'Garantiu ao Brasil um assento permanente no Conselho de Seguranca da ONU, em",
+    "   reconhecimento a participacao militar no conflito europeu.'",
+    "",
+    "O Brasil pleiteou exatamente isso, com apoio inicial de Roosevelt, e nao conseguiu.",
+    "E uma das perguntas que a FGV faz: o que o pais buscou e nao obteve com a FEB. A",
+    "alternativa antiga premiava quem lesse ate o fim; a nova premia quem saiba.",
+    "",
+    "Na mesma linha:",
+    "",
+    "  61(a) trafico INTERPROVINCIAL, do Nordeste acucareiro para o Sudeste cafeeiro,",
+    "        que e o que de fato se ampliou depois de 1850.",
+    "  61(c) legitimacao das posses por registro em paroquia -- a Lei de Terras previa",
+    "        isso mesmo. O erro passa a ser dispensar o pagamento, que era o nucleo da",
+    "        lei e o que fechou a terra para o pobre.",
+    "  62(a) a substituicao do cativo pelo colono ANTES da abolicao por calculo de",
+    "        produtividade: aconteceu nas parcerias de Vergueiro, nao foi decisao",
+    "        espontanea de abolir, e e a leitura que o candidato precisa saber separar.",
+    "  62(d) proibicao imposta por tratado com a Italia -- e o Decreto Prinetti, de",
+    "        1902, que proibiu emigracao subsidiada para o Brasil. Existiu, e outra",
+    "        coisa, e outra data.",
+    "  68(a) organizacao pelo governo federal como parte do CENTENARIO DA",
+    "        INDEPENDENCIA, celebrado em 1922. A coincidencia de ano e real, houve",
+    "        exposicao oficial no Rio, e a Semana partiu de particulares em Sao Paulo.",
+    "  73(b) cessao das bases americanas do Nordeste, que existiram em Natal e",
+    "        Parnamirim, no lugar de 'anexacao de territorios italianos, desfecho que",
+    "        JAMAIS ocorreu'.",
+    "",
+    "Em 71 e 73 a correta era a mais longa. Em 71 o distrator que a superou defende",
+    "sindicato livre a moda britanica com greve reconhecida -- posicao que existe no",
+    "mundo e e o oposto exato do integralismo, sem precisar dizer que e."
+  ],
+  "subtopic": "historia-brasil",
+  "questoes": {
+    "historia-brasil-61": {
+      "alternativas": {
+        "a": "Ampliar o tráfico interno de escravizados entre as províncias, transferindo cativos do Nordeste açucareiro para as lavouras de café do Sudeste",
+        "c": "Permitir a legitimação das posses já ocupadas mediante simples registro nas paróquias, sem exigência de pagamento à Coroa pelas terras",
+        "e": "Libertar os escravizados nascidos após a promulgação das leis, condicionando a alforria ao trabalho para o senhor até a maioridade"
+      },
+      "explicacao": "A Lei Eusébio de Queirós encerrou o tráfico transatlântico e a Lei de Terras tornou a compra o único caminho legal de acesso à propriedade, o que dificultou o acesso à terra da população pobre e da futura população liberta — as duas medidas, no mesmo ano, moldaram o mercado de trabalho que sucedeu a escravidão. A legitimação das posses por registro paroquial é o distrator mais fino, porque a lei realmente previa esse procedimento para ocupações anteriores: o que ela não dispensava era o pagamento nas aquisições novas, e é justamente aí que a terra se fecha. O tráfico interprovincial de fato se ampliou depois de 1850, e não foi efeito da Lei de Terras. A doação de lotes a libertos e imigrantes nunca integrou o texto. E a alforria dos nascidos depois da lei descreve a Lei do Ventre Livre, de 1871."
+    },
+    "historia-brasil-62": {
+      "alternativas": {
+        "a": "Uma decisão dos cafeicultores do oeste paulista de substituir o cativo pelo colono antes da abolição, por avaliarem o trabalho livre mais produtivo",
+        "c": "A vinda espontânea de imigrantes atraídos pela oferta de terras devolutas no interior paulista, sem intervenção do poder público na travessia",
+        "d": "A proibição do emprego de imigrantes em lavouras que ainda mantivessem escravizados, imposta por tratado firmado com o governo da Itália"
+      },
+      "explicacao": "A substituição do trabalho escravo pelo imigrante na cafeicultura paulista apoiou-se em políticas de subsídio à imigração, que custeavam a travessia e o alojamento para garantir mão de obra abundante diante do fim do tráfico e da abolição. A avaliação de que o colono seria mais produtivo é o distrator mais forte, porque essa experiência existiu nas parcerias organizadas por Vergueiro desde os anos 1840 — e não se converteu em decisão de abolir, nem substituiu a política pública de subsídio. A proibição por tratado com a Itália evoca o Decreto Prinetti, de 1902, que vetou a emigração subsidiada e é posterior ao processo. Supor vinda espontânea sem intervenção pública apaga o gasto do Tesouro paulista. E não houve proibição legal do trabalho de libertos nas lavouras."
+    },
+    "historia-brasil-63": {
+      "alternativas": {
+        "a": "Estabilidade monetária e crescimento industrial sustentado, alcançados com a criação de bancos regionais autorizados a emitir moeda",
+        "b": "A redução da dívida externa brasileira, paga com os recursos obtidos na venda de ações das novas companhias abertas na praça do Rio",
+        "d": "O fim da emissão de moeda por bancos privados, centralizada a partir de então no Tesouro Nacional da República recém-proclamada"
+      },
+      "explicacao": "O Encilhamento produziu uma onda especulativa na bolsa, seguida de crise financeira, com falências em série e inflação — a expansão do crédito e a autorização para bancos emitirem moeda alimentaram a criação de empresas sem lastro. A alternativa que atribui à mesma política a criação de bancos emissores regionais acerta o instrumento e erra o resultado, já que foi exatamente essa emissão múltipla que desorganizou a moeda. Dizer que a emissão privada terminou inverte a medida de Rui Barbosa, que a ampliou. A redução da dívida externa não ocorreu, e o período fechou com renegociação e novo empréstimo. E a década seguinte foi de aperto e deflação sob Campos Sales, não de estabilidade sustentada por conversibilidade em ouro."
+    },
+    "historia-brasil-68": {
+      "alternativas": {
+        "a": "Foi organizada pelo governo federal como parte das comemorações oficiais do centenário da Independência, celebrado naquele mesmo ano de 1922",
+        "b": "Reuniu artistas que buscavam reproduzir no Brasil as vanguardas europeias sem incorporar temas ou formas de origem nacional",
+        "e": "Propôs a manutenção dos padrões acadêmicos europeus, atualizados pelo impressionismo então em voga nas exposições de Paris"
+      },
+      "explicacao": "A Semana de Arte Moderna de 1922 impulsionou a busca por uma identidade cultural brasileira mais autêntica, em sintonia com o questionamento da ordem oligárquica que atravessava a década. A vinculação ao centenário da Independência é o distrator mais bem armado, porque o ano coincide e houve de fato exposição oficial no Rio de Janeiro pelas comemorações — a Semana, porém, partiu de artistas e mecenas paulistas, sem organização do governo federal. Dizer que os modernistas apenas reproduziam as vanguardas europeias descreve a acusação que lhes era feita, e o que fizeram foi deglutir essas formas em matéria brasileira. E as duas alternativas que os aproximam do academicismo invertem a ruptura estética que a Semana encenou."
+    },
+    "historia-brasil-71": {
+      "alternativas": {
+        "a": "A defesa da ampliação dos direitos trabalhistas segundo o modelo dos sindicatos livres britânicos, com a greve reconhecida como instrumento legítimo de negociação e representação operária independente do Estado e dos partidos",
+        "b": "Um projeto de inspiração anarquista, com organização horizontal em células autônomas e recusa da liderança personalizada",
+        "c": "O apoio à democracia liberal e ao parlamentarismo pluripartidário, com defesa da alternância de poder pelo voto secreto",
+        "d": "A defesa do internacionalismo socialista e da revolução proletária, com adesão à Terceira Internacional sediada em Moscou"
+      },
+      "explicacao": "A Ação Integralista Brasileira reunia nacionalismo autoritário e elementos de inspiração fascista, com hierarquia rígida em torno do chefe nacional e forte investimento simbólico — camisas verdes, o sigma, saudações padronizadas e desfiles. As três alternativas que a aproximam da esquerda ou do liberalismo invertem seus fundamentos: o integralismo era anticomunista por princípio, hostil ao parlamentarismo pluripartidário e organizado de modo vertical, o oposto de qualquer horizontalidade anarquista. A defesa do sindicalismo livre à moda britânica, com greve reconhecida, é a mais bem construída porque descreve uma posição real no mundo do trabalho — e incompatível com um movimento que subordinava a classe à nação. O internacionalismo socialista correspondia à Aliança Nacional Libertadora, sua adversária direta."
+    },
+    "historia-brasil-73": {
+      "alternativas": {
+        "a": "Garantiu ao Brasil um assento permanente no Conselho de Segurança da Organização das Nações Unidas, em reconhecimento à participação militar no conflito europeu",
+        "b": "Resultou na cessão ao Brasil das bases militares norte-americanas instaladas no Nordeste durante a guerra, transferidas ao final do conflito",
+        "e": "Fortaleceu o regime de Getúlio Vargas perante a população, que passou a associá-lo à vitória das democracias sobre o Eixo"
+      },
+      "explicacao": "A FEB criou uma contradição incontornável: o país combatia o autoritarismo na Itália enquanto vivia sob a ditadura do Estado Novo, e essa dissonância alimentou as pressões pela redemocratização que levariam à queda de Vargas em 1945. O assento permanente no Conselho de Segurança é o distrator mais exigente, porque o Brasil pleiteou exatamente isso, com apoio inicial de Roosevelt, e não obteve — saber o que o país buscou e não conseguiu é parte do assunto. A cessão das bases do Nordeste evoca instalações que existiram em Natal e Parnamirim e não foram transferidas nesses termos. E as duas alternativas que dão o regime como fortalecido pelo conflito contrariam o desfecho: o Estado Novo caiu meses depois do retorno da tropa."
+    }
+  }
+}

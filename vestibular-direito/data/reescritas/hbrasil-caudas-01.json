@@ -1,0 +1,96 @@
+{
+  "_comentario": [
+    "Lote 1 de historia-brasil: 03, 08, 09, 14, 21, 23. Vinte distratores.",
+    "",
+    "Nesta frente a cauda tem forma propria e uniforme: uma oracao curta colada depois",
+    "da virgula, que corrige a alternativa. 'que nao ocorreu no periodo', 'o oposto do",
+    "que de fato se seguiu', 'tendencia revertida pela imigracao europeia', 'hipotese",
+    "incompativel com o clima de disputas', 'categoria so amparada em 1963', 'regiao",
+    "alheia ao teatro de operacoes'. O regex pega umas seis formas; sao dezoito.",
+    "",
+    "O QUE EU MAIS GANHEI AQUI: em historia, tirar a cauda quase sempre abre espaco",
+    "para um fato verdadeiro que estava sendo desperdicado. Cinco exemplos:",
+    "",
+    "  08(a) era 'apoio UNANIME ao retorno de Dom Pedro I, hipotese incompativel com o",
+    "        clima de disputas'. O grupo RESTAURADOR existiu de verdade, organizado na",
+    "        Corte depois da abdicacao, com jornal e deputados. Basta tirar 'unanime' e",
+    "        a cauda para virar o melhor distrator da questao: e uma tensao real do",
+    "        periodo regencial, so nao e o que a Cabanagem e a Sabinada expressavam.",
+    "  08(d) era 'ausencia completa de conflitos, quadro desmentido pelas proprias",
+    "        revoltas' -- opcao vazia. Passa a ser a reacao ao Ato Adicional de 1834,",
+    "        que exige do candidato saber a DIRECAO da medida: ela descentralizou, deu",
+    "        assembleias as provincias, e portanto nao e contra ela que as elites",
+    "        provinciais se levantam.",
+    "  09(a) era 'fortalecimento da escravidao, tendencia revertida pela imigracao'.",
+    "        Passa a ser o TRAFICO INTERPROVINCIAL: o oeste paulista absorveu cativos",
+    "        vindos do Nordeste depois de 1850. Isso aconteceu, e nao impediu a crise --",
+    "        distrator que ensina em vez de se entregar.",
+    "  21(e) era 'alianca entre Brasil e Paraguai contra a Argentina, o oposto da que de",
+    "        fato se formou'. Inverti so os polos: alianca entre PARAGUAI e Argentina",
+    "        contra o Brasil. Continua falso, e deixa de ser absurdo -- Solano Lopez",
+    "        contava mesmo com os federalistas de Urquiza.",
+    "  23(a) era 'anexacao de territorios, o que nao ocorreu no periodo'. Passa a ser o",
+    "        endividamento junto a bancos ingleses, que ocorreu, com uma condicao",
+    "        inventada no final (empréstimos atrelados a abolicao).",
+    "",
+    "PARES GEMEOS desfeitos: 03(b) e 03(e) eram os dois 'pequenas propriedades, mercado",
+    "interno'; 14(b) e 14(c) eram os dois 'sindicatos autonomos do Estado'. Em cada par",
+    "mantive um e dei ao outro um erro proprio -- 14(c) virou a gestao sindical dos",
+    "recursos da previdencia, que e vizinha do verdadeiro e nao e a CLT.",
+    "",
+    "A 14 tinha correta e maior distrator empatados em 118 caracteres."
+  ],
+  "subtopic": "historia-brasil",
+  "questoes": {
+    "historia-brasil-03": {
+      "alternativas": {
+        "a": "Propriedade coletiva das terras pelas aldeias indígenas, com produção diversificada voltada à subsistência do próprio grupo",
+        "b": "Grande propriedade monocultora com mão de obra indígena remunerada, contratada por intermédio das missões religiosas do litoral",
+        "d": "Produção manufatureira em oficinas urbanas das vilas do litoral, com trabalho livre remunerado e venda no mercado da própria capitania"
+      },
+      "explicacao": "A plantation açucareira combinava grande propriedade monocultora, mão de obra escrava africana e produção voltada ao mercado externo — os três elementos aparecem juntos e é essa combinação que define o sistema. A grande propriedade com trabalho indígena contratado pelas missões é o distrator mais forte, porque acerta a escala da propriedade e a monocultura, e erra o regime de trabalho: houve escravização indígena no início, sem remuneração e sem intermediação missionária no engenho. A propriedade coletiva das aldeias descreve a organização anterior à colonização. As pequenas propriedades policultoras de colonos livres correspondem à colonização do Sul, três séculos depois. E a oficina manufatureira urbana não era o eixo da economia colonial, submetida à proibição de manufaturas pela metrópole."
+    },
+    "historia-brasil-08": {
+      "alternativas": {
+        "a": "A defesa do retorno de Dom Pedro I ao trono, bandeira do grupo restaurador que se organizou na Corte logo após a abdicação de 1831",
+        "c": "Uma disputa restrita à Câmara dos Deputados, conduzida por liberais e conservadores sem repercussão nas províncias mais distantes",
+        "d": "A reação das elites provinciais ao Ato Adicional de 1834, que lhes havia concedido assembleias legislativas próprias",
+        "e": "Um consenso das províncias em torno da centralização monárquica, firmado para conter o avanço das rebeliões populares"
+      },
+      "explicacao": "Cabanagem, Sabinada e as demais revoltas regenciais expressavam tensões sociais, econômicas e regionais, com disputas pelo poder local e insatisfação de camadas populares excluídas da ordem imperial. A causa restauradora é a alternativa mais difícil de recusar, porque o grupo existiu de fato, com jornais e deputados, e defendia o retorno de Dom Pedro I — só que essa era uma disputa da Corte, e não o que movia os cabanos no Pará ou os sabinos na Bahia. A reação ao Ato Adicional inverte o sentido da medida, que descentralizou o poder ao criar assembleias provinciais. Falar de estabilidade institucional ou de consenso em torno da centralização contraria a própria existência das revoltas. E restringir a disputa à Câmara ignora que ela se deu com armas nas províncias."
+    },
+    "historia-brasil-09": {
+      "alternativas": {
+        "a": "O fortalecimento da mão de obra escrava na lavoura cafeeira do oeste paulista, que absorveu os cativos vindos do Nordeste pelo tráfico interprovincial após 1850",
+        "b": "A adesão do Partido Republicano, fundado em 1870, à defesa da manutenção da escravidão como forma de atrair os fazendeiros do Vale do Paraíba",
+        "c": "A perda de território para a Argentina na questão de Palmas, derrota diplomática que abalou o prestígio do imperador junto ao Exército"
+      },
+      "explicacao": "A crise final da monarquia veio do desgaste das relações da Coroa com cafeicultores, militares e abolicionistas, agravado pelo fim da escravidão em 1888, que rompeu o vínculo com os proprietários do Vale do Paraíba. O tráfico interprovincial é o distrator mais instrutivo: ele realmente levou cativos do Nordeste ao oeste paulista depois do fim do tráfico atlântico, e essa concentração não impediu a crise — ao contrário, tornou a abolição mais custosa para uma região específica. Atribuir ao Partido Republicano a defesa da escravidão inverte o programa de uma agremiação que nasceu ligada ao abolicionismo paulista. A questão de Palmas foi decidida em favor do Brasil, e já na República. E supor que os cafeicultores apoiaram a Coroa até o fim desconsidera a ruptura de 1888."
+    },
+    "historia-brasil-14": {
+      "alternativas": {
+        "b": "Garantir autonomia aos sindicatos frente ao Estado, com liberdade de organização por categoria e negociação coletiva conduzida sem intermediação oficial",
+        "c": "Transferir aos sindicatos a arrecadação e a gestão dos recursos da previdência social, administrados a partir de então pelas próprias entidades de classe",
+        "d": "Estender aos trabalhadores rurais os mesmos direitos concedidos aos urbanos, reunindo as duas categorias sob um estatuto legal único",
+        "e": "Substituir a legislação trabalhista esparsa da década de 1930 por um código elaborado em conjunto com as centrais sindicais então existentes"
+      },
+      "explicacao": "O trabalhismo varguista ampliou direitos sociais dos trabalhadores urbanos e, ao mesmo tempo, atrelou os sindicatos ao Estado, por meio do reconhecimento oficial, do imposto sindical e da Justiça do Trabalho — as duas faces são inseparáveis. A alternativa que descreve a CLT como consolidação da legislação dos anos 1930 é a mais bem construída, porque essa parte é verdadeira: o que não houve foi elaboração conjunta com centrais sindicais, inexistentes e proibidas no Estado Novo. Falar de autonomia sindical e negociação livre descreve o oposto do modelo implantado. A gestão dos recursos previdenciários era dos institutos vinculados ao Estado, não das entidades de classe. E a extensão dos direitos ao campo só veio com o Estatuto do Trabalhador Rural, em 1963, o que exclui a alternativa que a atribui à CLT."
+    },
+    "historia-brasil-21": {
+      "alternativas": {
+        "a": "A recusa brasileira em reconhecer a independência do Paraguai, que levou Assunção a buscar apoio militar junto ao governo britânico",
+        "b": "A disputa pelo controle das rotas terrestres de acesso ao Chaco e às antigas minas de prata do Alto Peru",
+        "e": "Uma aliança militar entre o Paraguai e a Argentina contra o Brasil, firmada em resposta à intervenção imperial no Uruguai"
+      },
+      "explicacao": "A Guerra do Paraguai nasceu das disputas pela livre navegação dos rios da Bacia do Prata e das rivalidades de influência política sobre o Uruguai, onde a intervenção brasileira de 1864 deu o pretexto imediato. A disputa pelas Missões Jesuíticas é o distrator mais respeitável, porque opôs de fato as Coroas ibéricas desde os tratados de limites do século XVIII, e essa era uma questão encerrada muito antes de 1864. A aliança entre Paraguai e Argentina contra o Brasil inverte os polos de uma guerra em que Brasil, Argentina e Uruguai se aliaram, ainda que Solano López contasse com os federalistas argentinos. O Brasil reconheceu a independência paraguaia em 1844. E o Chaco e o Alto Peru ficaram fora do teatro de operações, que se concentrou na bacia do Paraná e do Paraguai."
+    },
+    "historia-brasil-23": {
+      "alternativas": {
+        "a": "Provocou o endividamento do Império junto a bancos ingleses, que passaram a condicionar novos empréstimos ao fim imediato da escravidão no país",
+        "b": "Reduziu a influência política do Exército, que saiu do conflito desprestigiado diante da opinião pública das grandes cidades",
+        "c": "Consolidou o apoio dos militares à figura de Dom Pedro II, que passou a nomear oficiais do Exército para o Conselho de Estado"
+      },
+      "explicacao": "A guerra aproximou o Exército de ideais republicanos e, em parte, abolicionistas — muitos oficiais viram escravos alforriados lutando ao seu lado —, e os atritos com o governo imperial nasceram daí. O endividamento junto a bancos ingleses é a alternativa mais difícil de descartar, porque a dívida externa da guerra existiu e pesou nas finanças imperiais: o que se inventa é a condição, já que os credores não vincularam empréstimos à abolição. Dizer que o Exército saiu desprestigiado inverte o resultado, pois foi de lá que veio a Questão Militar. E as duas alternativas que estreitam os laços entre oficialidade e Coroa descrevem o contrário do que ocorreu, com militares se afastando do trono ao longo das décadas de 1870 e 1880."
+    }
+  }
+}

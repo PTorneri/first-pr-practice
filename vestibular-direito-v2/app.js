@@ -3114,10 +3114,8 @@
     // O cartão de foco no topo da tela rola até a frente certa por este id.
     card.dataset.lessonId = lesson.subtopicId;
 
-    const visitLabel = lesson.visitNumber === 1
-      ? "1ª vez estudando este tema"
-      : lesson.visitNumber + "ª revisão deste tema";
-
+    // "1ª vez / 2ª revisão deste tema" e o tempo estimado saíram daqui: quem
+    // os diz agora é o quadrado navy da frente, logo acima deste cartão.
     const video = pickLessonVideo(lesson.subtopicId, lesson.visitNumber);
     const videoHtml = video
       ? `<div class="weekly-video-item">
@@ -3137,27 +3135,41 @@
     );
     const essentials = lesson.questions.slice(0, essentialCount);
     const extras = lesson.questions.slice(essentialCount);
-    const minutesEstimate = Math.round(essentialCount * MINUTES_PER_QUESTION_ESTIMATE);
     const extrasKey = day + "::" + lesson.subtopicId;
     const theoryHtml = renderTheoryBlockHtml(lesson.subtopicId, lesson.visitNumber);
 
+    // Cabeçalho enxuto: quem já disse o nome da frente, quantas questões ela
+    // tem, quantos minutos leva e que revisão é esta foi o quadrado navy logo
+    // acima. Repetir tudo aqui, em título grande e com o mesmo selo, era a
+    // mesma duplicação da aula — só que em texto.
+    //
+    // Sobra o que este cartão de fato é: as questões do dia daquela frente, e
+    // o quanto delas já foi. A frente continua nomeada, em letra pequena, para
+    // quem chega rolando de baixo e não vê o quadrado.
     card.innerHTML = `
-      <div class="lesson-eyebrow">${escapeHtml(lesson.area)}</div>
-      <h3>${escapeHtml(lesson.nome)} <span class="visit-badge">${escapeHtml(visitLabel)}</span></h3>
-      <p class="lesson-desc">${escapeHtml(lesson.descricao)}</p>
-      ${theoryHtml}
-      ${videoHtml}
-      <div class="exercise-block">
-        <div class="exercise-summary">
-          <span>${essentialCount} essenciais${extras.length ? ` · ${extras.length} extras` : ""} · ~${minutesEstimate} min no ritmo da prova</span>
-          <span class="score-label" data-score-for="${lesson.subtopicId}"></span>
+      <div class="questoes-head">
+        <div class="questoes-head-titulo">
+          <h3>Questões do dia</h3>
+          <span class="questoes-frente">${escapeHtml(lesson.area)} · ${escapeHtml(lesson.nome)}</span>
         </div>
-        <div class="questions essentials-questions"></div>
-        <div class="extras-block" hidden>
-          <div class="extras-label">Extras — pra quem quer ir além, sem culpa se não fizer</div>
-          <div class="questions extras-questions"></div>
+        <div class="questoes-head-progresso">
+          <span class="score-label" data-score-for="${escapeHtml(lesson.subtopicId)}"></span>
+          <div class="medidor"><i style="width:0%"></i></div>
         </div>
-        <div class="extras-actions"></div>
+      </div>
+      <div class="questoes-corpo">
+        <p class="lesson-desc">${escapeHtml(lesson.descricao)}</p>
+        ${theoryHtml}
+        ${videoHtml}
+        <div class="exercise-block">
+          ${extras.length ? `<div class="exercise-summary"><span>${extras.length} extras disponíveis além das ${essentialCount} essenciais</span></div>` : ""}
+          <div class="questions essentials-questions"></div>
+          <div class="extras-block" hidden>
+            <div class="extras-label">Extras — pra quem quer ir além, sem culpa se não fizer</div>
+            <div class="questions extras-questions"></div>
+          </div>
+          <div class="extras-actions"></div>
+        </div>
       </div>
     `;
 
@@ -3497,7 +3509,19 @@
         if (fb.classList.contains("correct")) correct++;
       }
     });
-    label.textContent = answered > 0 ? `${correct}/${answered} certas` : "";
+
+    // "3 de 12 respondidas · 67% de acerto" em vez de "2/3 certas": o
+    // denominador que interessa no cabeçalho é quanto FALTA do bloco, não
+    // quantas das já respondidas foram certas. O acerto entra depois, e só
+    // quando existe.
+    const total = questionEls.length;
+    const medidor = card.querySelector(".questoes-head-progresso .medidor > i");
+    if (medidor) medidor.style.width = (total > 0 ? (answered / total) * 100 : 0) + "%";
+    if (answered === 0) {
+      label.textContent = total > 0 ? `${total} questões` : "";
+    } else {
+      label.textContent = `${answered} de ${total} respondidas · ${Math.round((correct / answered) * 100)}% de acerto`;
+    }
   }
 
   // ---------- Dissertativas: renderização ----------

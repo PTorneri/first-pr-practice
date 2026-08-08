@@ -38,9 +38,69 @@
      admin.html) — sem isso a correção leva até 10 minutos pra chegar em quem
      já visitou, e foi exatamente o que aconteceu na primeira publicação da
      reescrita das alternativas. -->
-<link rel="stylesheet" href="styles.css?v=26">
+<link rel="stylesheet" href="styles.css?v=27">
 </head>
 <body>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     ÍCONES — sprite SVG inline
+
+     O desenho de celular usa Phosphor. Em vez de puxar a fonte de ícones inteira
+     de um CDN (uma requisição bloqueante e uns 250 KB para os quinze glifos que
+     usamos), os quinze vêm desenhados aqui e são chamados por <use>. Herdam
+     currentColor, não piscam esperando a rede e funcionam offline.
+
+     Só a barra inferior e as linhas da tela "Mais" usam ícone: no resto do app o
+     redesenho não usa nenhum, e isso não mudou.
+     ═══════════════════════════════════════════════════════════════════════ -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <symbol id="i-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="4.6"/><path d="M12 2.6v2.4M12 19v2.4M4.35 4.35l1.7 1.7M17.95 17.95l1.7 1.7M2.6 12h2.4M19 12h2.4M4.35 19.65l1.7-1.7M17.95 6.05l1.7-1.7"/>
+  </symbol>
+  <symbol id="i-calendar" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="3.2" y="4.6" width="17.6" height="16.2" rx="2.4"/><path d="M3.2 9.4h17.6M8 2.8v3.6M16 2.8v3.6"/>
+  </symbol>
+  <symbol id="i-exam" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18.8 13.4V4.2a1.4 1.4 0 0 0-1.4-1.4H6.6a1.4 1.4 0 0 0-1.4 1.4v15.6a1.4 1.4 0 0 0 1.4 1.4h4.2"/><path d="M8.6 7.4h6.8M8.6 11h4.4"/><path d="m13.6 18.2 2.2 2.2 4.4-4.6"/>
+  </symbol>
+  <symbol id="i-cards" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="2.8" y="7.4" width="14.4" height="13.4" rx="2.2"/><path d="M6.6 4.4h11.2a2.2 2.2 0 0 1 2.2 2.2v10.6"/>
+  </symbol>
+  <symbol id="i-dots" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7">
+    <circle cx="5.2" cy="12" r="1.9"/><circle cx="12" cy="12" r="1.9"/><circle cx="18.8" cy="12" r="1.9"/>
+  </symbol>
+  <symbol id="i-caret-left" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14.6 4.8 7.4 12l7.2 7.2"/>
+  </symbol>
+  <symbol id="i-caret-right" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M9.4 4.8 16.6 12l-7.2 7.2"/>
+  </symbol>
+  <symbol id="i-search" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="10.6" cy="10.6" r="7"/><path d="m15.7 15.7 4.9 4.9"/>
+  </symbol>
+  <symbol id="i-pen" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M13.4 2.8v7.6l3.6 3.6a5.1 5.1 0 0 1-10.2 0l3.6-3.6V2.8z"/><path d="M11.9 14.6v6.6"/>
+  </symbol>
+  <symbol id="i-books" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="3" y="4.2" width="6" height="15.6" rx="1.2"/><rect x="10.4" y="4.2" width="6" height="15.6" rx="1.2"/><path d="m18.4 5.4 2.8 14.2"/>
+  </symbol>
+  <symbol id="i-notebook" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7.4 3.2h11.4a1.4 1.4 0 0 1 1.4 1.4v14.8a1.4 1.4 0 0 1-1.4 1.4H7.4"/><path d="M7.4 3.2A2.6 2.6 0 0 0 4.8 5.8v12.4a2.6 2.6 0 0 0 2.6 2.6"/><path d="M10.8 8.4h5.6M10.8 12h5.6"/>
+  </symbol>
+  <symbol id="i-chart" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3.4 3.6v17h17"/><path d="m6.8 15.6 4-4.4 3.2 2.8 5.4-6"/><path d="M19.4 8v3.2h-3.2"/>
+  </symbol>
+  <symbol id="i-swap" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3.4 8.6h17.2l-3.6-3.6M20.6 15.4H3.4l3.6 3.6"/>
+  </symbol>
+  <symbol id="i-calendar-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="3.2" y="4.6" width="17.6" height="16.2" rx="2.4"/><path d="M3.2 9.4h17.6M8 2.8v3.6M16 2.8v3.6"/><path d="m8.6 14.8 2.4 2.4 4.4-4.6"/>
+  </symbol>
+  <symbol id="i-signout" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14.6 3.4H5.8a1.4 1.4 0 0 0-1.4 1.4v14.4a1.4 1.4 0 0 0 1.4 1.4h8.8"/><path d="M15.6 8.2 19.8 12l-4.2 3.8M9.6 12h10"/>
+  </symbol>
+</svg>
+
 <div id="app">
 
   <!-- ═══════════════════════════════════════════════════════════════════════
@@ -436,6 +496,13 @@
            A navegação de dia só aparece na aba Hoje, posta aqui pelo app.js. -->
       <header class="page-header">
         <div class="page-header-left">
+          <!-- Só no celular: as telas que a barra inferior não alcança (Buscar,
+               Redação, Obras, Caderno de Erros, Meu progresso, Perfil) são
+               abertas de dentro de "Mais" e voltam por aqui. No desktop a barra
+               lateral já é o caminho de volta, e o CSS esconde o botão. -->
+          <button type="button" id="btn-voltar-mobile" class="voltar-mobile" aria-label="Voltar para Mais" hidden>
+            <svg class="ico" aria-hidden="true"><use href="#i-caret-left"></use></svg>
+          </button>
           <h2 class="page-title" id="page-title">Hoje</h2>
           <span class="page-subtitle" id="page-subtitle"></span>
           <span id="phase-label" class="phase-label"></span>
@@ -443,9 +510,16 @@
         <div class="page-header-right">
           <span id="streak-chip" class="streak-chip" hidden></span>
           <span id="sync-status" class="sync-status" hidden></span>
+          <!-- O rótulo vive num <span> próprio para o celular poder esconder a
+               palavra e deixar só a seta, sem perder o nome para quem usa leitor
+               de tela (daí o aria-label no botão). -->
           <div class="day-nav" id="day-nav" hidden>
-            <button id="btn-prev-day" class="btn btn-secondary">&larr; Dia anterior</button>
-            <button id="btn-next-day" class="btn btn-secondary">Próximo dia &rarr;</button>
+            <button id="btn-prev-day" class="btn btn-secondary" aria-label="Dia anterior">
+              <span aria-hidden="true">&larr;</span> <span class="dn-label">Dia anterior</span>
+            </button>
+            <button id="btn-next-day" class="btn btn-secondary" aria-label="Próximo dia">
+              <span class="dn-label">Próximo dia</span> <span aria-hidden="true">&rarr;</span>
+            </button>
           </div>
         </div>
       </header>
@@ -540,6 +614,22 @@
         </section>
 
         <!-- ═══════════════════════════════════════════════════════════════
+             TAB: MAIS — só existe no celular
+
+             A barra inferior tem cinco lugares e o app tem dez abas. Quatro
+             ficam na barra (Hoje, Calendário, Simulados, Flashcards) porque são
+             as que se abrem todo dia; as outras cinco viram lista aqui, junto
+             dos ajustes de conta. Nenhuma aba foi cortada — elas trocaram de
+             porta.
+
+             No desktop este painel não é alcançável: o botão que abre "Mais"
+             vive só na barra inferior, que o CSS esconde acima de 900px.
+             ═══════════════════════════════════════════════════════════ -->
+        <section id="tab-mais" class="tab-panel">
+          <div id="mais-content"></div>
+        </section>
+
+        <!-- ═══════════════════════════════════════════════════════════════
              TAB: PERFIL E CONTA
 
              Tudo que é sobre a CONTA saiu da aba de progresso e veio pra cá:
@@ -594,14 +684,14 @@
      escolheu — só os dados daquela trilha entram no navegador. O conteúdo de
      Direito continua sendo o mesmo do v1: corrigir uma questão lá corrige nos
      dois apps. -->
-<script src="trilhas.js?v=26"></script>
-<script src="schedule.js?v=26"></script>
+<script src="trilhas.js?v=27"></script>
+<script src="schedule.js?v=27"></script>
 <!-- Dicionário de assuntos da busca. Vive aqui, e não em data/ de uma trilha,
      porque a taxonomia atravessa as duas: "crase" e "função quadrática" são o
      mesmo assunto em Direito e em Medicina. Pôr em data/ obrigaria a duplicar
      as listas de gramática, literatura, interpretação, inglês e matemática. -->
-<script src="assuntos.js?v=26"></script>
-<script src="app.js?v=26"></script>
-<script type="module" src="auth.js?v=26"></script>
+<script src="assuntos.js?v=27"></script>
+<script src="app.js?v=27"></script>
+<script type="module" src="auth.js?v=27"></script>
 </body>
 </html>

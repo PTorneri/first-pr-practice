@@ -6539,7 +6539,12 @@ window.QUESTION_BANKS = {
                          "resposta":  "a",
                          "explicacao":  "A trombina converte o fibrinogênio, solúvel, em fibrina, que polimeriza em filamentos insolúveis e forma a malha do coágulo. O cálcio participa de várias etapas da cascata — razão pela qual os tubos de coleta com quelante de cálcio impedem a coagulação da amostra. A alternativa (d) inverte substrato e produto.",
                          "formato":  "lacunas",
-                         "banca":  "unesp"
+                         "banca":  "unesp",
+                         "visual":  {
+                                        "tipo":  "Esquema",
+                                        "arquivo":  "assets/med/bio-cascata-coagulacao.svg",
+                                        "descricao":  "A cascata de coagulação sanguínea, culminando na conversão de uma proteína plasmática solúvel em filamentos insolúveis que formam a rede do coágulo, junto com as plaquetas agregadas."
+                                    }
                      },
                      {
                          "id":  "biologia-118",
@@ -6729,7 +6734,12 @@ window.QUESTION_BANKS = {
                                           },
                          "resposta":  "e",
                          "explicacao":  "Cada RNA transportador carrega um aminoácido específico e um anticódon complementar ao códon. O pareamento é o que traduz a linguagem de bases para a de aminoácidos e garante fidelidade à informação do gene. Um mesmo RNA mensageiro pode ser lido por vários ribossomos e originar muitas cópias, o que descarta (b).",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "visual":  {
+                                        "tipo":  "Esquema",
+                                        "arquivo":  "assets/med/bio-traducao-ribossomo.svg",
+                                        "descricao":  "O processo de tradução em uma célula eucariótica. Um ribossomo percorre a molécula de RNA mensageiro, e moléculas de RNA transportador trazem aminoácidos que são ligados uns aos outros em sequência."
+                                    }
                      },
                      {
                          "id":  "biologia-130",
@@ -6774,7 +6784,12 @@ window.QUESTION_BANKS = {
                                           },
                          "resposta":  "d",
                          "explicacao":  "A variabilidade da região que forma o sítio de ligação é o que permite ao repertório de anticorpos reconhecer praticamente qualquer antígeno. A região constante define a classe e é reconhecida por receptores de fagócitos e pelo complemento, articulando o reconhecimento com a resposta efetora. O anticorpo não destrói o agente por si.",
-                         "formato":  "direta"
+                         "formato":  "direta",
+                         "visual":  {
+                                        "tipo":  "Figura",
+                                        "arquivo":  "assets/med/bio-anticorpo-regioes.svg",
+                                        "descricao":  "A estrutura de um anticorpo, com duas cadeias pesadas e duas leves formando um Y. As extremidades das duas hastes superiores apresentam sequências de aminoácidos que variam enormemente entre anticorpos diferentes, enquanto o restante da molécula é praticamente idêntico em todos."
+                                    }
                      },
                      {
                          "id":  "biologia-133",
@@ -6805,7 +6820,12 @@ window.QUESTION_BANKS = {
                          "resposta":  "e",
                          "explicacao":  "O centrômero é a constrição que mantém as cromátides unidas e onde se monta o cinetocoro. O DNA se enrola em octâmeros de histonas, e cada volta de DNA em torno de um octâmero forma um nucleossomo — o primeiro nível de compactação. Telômeros são as extremidades, e centríolos participam da organização do fuso.",
                          "formato":  "lacunas",
-                         "banca":  "einstein"
+                         "banca":  "einstein",
+                         "visual":  {
+                                        "tipo":  "Esquema",
+                                        "arquivo":  "assets/med/bio-cromossomo-metafase.svg",
+                                        "descricao":  "A estrutura de um cromossomo eucariótico durante a metáfase, com duas cromátides unidas por uma constrição. Ao lado, a mesma região é mostrada em maior aumento, revelando o DNA enrolado em torno de complexos proteicos que se sucedem ao longo da fita."
+                                    }
                      },
                      {
                          "id":  "biologia-135",
@@ -6896,7 +6916,12 @@ window.QUESTION_BANKS = {
                          "resposta":  "b",
                          "explicacao":  "Íntrons são removidos e éxons são unidos para formar o RNA mensageiro maduro. Combinando éxons de maneiras diferentes, um único gene pode originar várias proteínas — o splicing alternativo, que ajuda a explicar por que o número de genes humanos é muito menor que a variedade de proteínas produzidas.",
                          "formato":  "lacunas",
-                         "banca":  "unesp"
+                         "banca":  "unesp",
+                         "visual":  {
+                                        "tipo":  "Esquema",
+                                        "arquivo":  "assets/med/bio-splicing.svg",
+                                        "descricao":  "O processo de splicing em uma célula eucariótica. A molécula recém-transcrita contém segmentos que serão removidos e segmentos que serão unidos para compor a molécula madura, exportada ao citoplasma."
+                                    }
                      },
                      {
                          "id":  "biologia-141",

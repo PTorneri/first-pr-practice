@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 300" width="660" height="300" role="img" aria-label="Ribossomo percorrendo o RNA mensageiro: um RNA transportador entrega seu aminoacido enquanto outro se aproxima e um terceiro ja saiu vazio">
+  <style>
+    /* Carregado via img, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui e a media query responde a preferencia do sistema. */
+    .tr   { stroke: #0A2540; stroke-width: 1.8; fill: none; }
+    .rib  { stroke: #0A2540; stroke-width: 2.2; fill: rgba(10,37,64,0.10); }
+    .aa   { stroke: #0A2540; stroke-width: 1.8; fill: rgba(10,37,64,0.22); }
+    .seta { stroke: #0A2540; stroke-width: 2; fill: none; marker-end: url(#p); }
+    .fio  { stroke: #94A3B8; stroke-width: 1.2; fill: none; }
+    .rot  { fill: #475569; font: 600 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .cod  { fill: #475569; font: 600 11px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg  { fill: #475569; font: 400 11.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .pta  { fill: #0A2540; }
+    @media (prefers-color-scheme: dark) {
+      .tr   { stroke: #E2E8F0; }
+      .rib  { stroke: #E2E8F0; fill: rgba(226,232,240,0.14); }
+      .aa   { stroke: #E2E8F0; fill: rgba(226,232,240,0.26); }
+      .seta { stroke: #E2E8F0; }
+      .fio  { stroke: #64748B; }
+      .pta  { fill: #E2E8F0; }
+      .rot, .cod, .leg { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <marker id="p" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path class="pta" d="M0 0 L10 5 L0 10 z"/>
+    </marker>
+    <!-- RNA transportador: haste em L com o anticodon na base -->
+    <g id="t"><path class="tr" d="M0 0 V44 M0 44 H-13 M0 44 H13"/></g>
+  </defs>
+
+  <!-- Fita de RNA mensageiro, dividida em trincas -->
+  <text class="rot" x="24" y="214">RNA mensageiro</text>
+  <path class="tr" d="M24 228 H636"/>
+  <path class="fio" d="M96 222V234M168 222V234M240 222V234M312 222V234M384 222V234M456 222V234M528 222V234"/>
+  <text class="cod" x="46" y="250">trinca</text>
+  <text class="cod" x="118" y="250">trinca</text>
+  <text class="cod" x="190" y="250">trinca</text>
+  <text class="cod" x="262" y="250">trinca</text>
+  <text class="cod" x="334" y="250">trinca</text>
+  <text class="cod" x="406" y="250">trinca</text>
+  <text class="cod" x="478" y="250">trinca</text>
+  <text class="leg" x="24" y="276">cada trinca do mensageiro pareia com a trinca correspondente do transportador</text>
+
+  <!-- Ribossomo sobre duas trincas, deslocando-se para a direita -->
+  <path class="rib" d="M232 228 a58 44 0 0 1 116 0 z"/>
+  <ellipse class="rib" cx="290" cy="236" rx="58" ry="16"/>
+  <text class="rot" x="262" y="204">ribossomo</text>
+  <path class="seta" d="M356 190 H408"/>
+  <text class="leg" x="368" y="180">sentido</text>
+
+  <!-- Transportador que ja entregou (saindo, sem aminoacido) -->
+  <g transform="translate(200,150)"><use href="#t"/></g>
+  <path class="seta" d="M186 140 L146 112"/>
+  <text class="leg" x="88" y="106">sai vazio</text>
+
+  <!-- Transportador acoplado, com seu aminoacido -->
+  <g transform="translate(290,142)"><use href="#t"/></g>
+  <circle class="aa" cx="290" cy="130" r="12"/>
+
+  <!-- Transportador chegando, tambem com aminoacido -->
+  <g transform="translate(404,150)"><use href="#t"/></g>
+  <circle class="aa" cx="404" cy="138" r="12"/>
+  <path class="seta" d="M418 128 L392 112" transform="translate(0,-14)"/>
+  <text class="leg" x="424" y="112">chega com o seu aminoacido</text>
+
+  <!-- Cadeia de aminoacidos ja ligados, saindo do ribossomo -->
+  <circle class="aa" cx="118" cy="74" r="12"/>
+  <circle class="aa" cx="152" cy="60" r="12"/>
+  <circle class="aa" cx="188" cy="56" r="12"/>
+  <circle class="aa" cx="224" cy="64" r="12"/>
+  <circle class="aa" cx="256" cy="82" r="12"/>
+  <path class="tr" d="M130 71 L140 63 M164 58 L176 57 M200 57 L212 61 M236 69 L245 77"/>
+  <path class="fio" d="M266 92 L282 116"/>
+  <text class="rot" x="70" y="38">aminoacidos ja ligados em sequencia</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 300" width="660" height="300" role="img" aria-label="Cromossomo metafasico de duas cromatides unidas por uma constricao, com ampliacao mostrando o DNA enrolado em torno de complexos proteicos sucessivos">
+  <style>
+    /* Carregado via img, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui e a media query responde a preferencia do sistema. */
+    .tr   { stroke: #0A2540; stroke-width: 2.2; fill: none; }
+    .crm  { stroke: #0A2540; stroke-width: 2.2; fill: rgba(10,37,64,0.12); }
+    .nuc  { stroke: #0A2540; stroke-width: 2; fill: rgba(10,37,64,0.24); }
+    .dna  { stroke: #0A2540; stroke-width: 1.8; fill: none; }
+    .fio  { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 4 3; }
+    .rot  { fill: #475569; font: 600 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .num  { fill: #475569; font: 700 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg  { fill: #475569; font: 400 11.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .tr   { stroke: #E2E8F0; }
+      .crm  { stroke: #E2E8F0; fill: rgba(226,232,240,0.16); }
+      .nuc  { stroke: #E2E8F0; fill: rgba(226,232,240,0.28); }
+      .dna  { stroke: #E2E8F0; }
+      .fio  { stroke: #64748B; }
+      .rot, .num, .leg { fill: #E2E8F0; }
+    }
+  </style>
+
+  <!-- Cromossomo metafasico: duas cromatides paralelas estranguladas no meio.
+       A constricao NAO e nomeada — o enunciado pede o nome dela. -->
+  <text class="rot" x="96" y="42">cromossomo em metafase</text>
+  <path class="crm" d="M112 62 a18 18 0 0 1 34 0 L146 124 Q134 142 146 160 L146 226 a18 18 0 0 1 -34 0 L112 160 Q124 142 112 124 z"/>
+  <path class="crm" d="M186 62 a18 18 0 0 1 34 0 L220 124 Q208 142 220 160 L220 226 a18 18 0 0 1 -34 0 L186 160 Q198 142 186 124 z"/>
+  <text class="num" x="60" y="148">1</text>
+  <path class="fio" d="M74 143 H108"/>
+  <text class="leg" x="40" y="252">1 — a constricao que une as duas cromatides</text>
+
+  <!-- Chamada da ampliacao: da regiao 1 para o detalhe a direita -->
+  <path class="fio" d="M232 142 L312 118"/>
+  <text class="leg" x="248" y="112">em maior aumento</text>
+
+  <!-- Detalhe: a fita de DNA enrolada em torno de complexos sucessivos -->
+  <text class="rot" x="336" y="42">a mesma regiao ampliada</text>
+  <circle class="nuc" cx="372" cy="104" r="21"/>
+  <circle class="nuc" cx="452" cy="104" r="21"/>
+  <circle class="nuc" cx="532" cy="104" r="21"/>
+  <circle class="nuc" cx="612" cy="104" r="21"/>
+  <!-- a fita passa por fora, da duas voltas em cada complexo e segue -->
+  <path class="dna" d="M336 104
+      a21 21 0 1 0 42 0 a15 15 0 1 1 -30 0
+      M366 104 H416
+      a21 21 0 1 0 42 0 a15 15 0 1 1 -30 0
+      M446 104 H496
+      a21 21 0 1 0 42 0 a15 15 0 1 1 -30 0
+      M526 104 H576
+      a21 21 0 1 0 42 0 a15 15 0 1 1 -30 0
+      M606 104 H640"/>
+  <text class="num" x="366" y="160">2</text>
+  <path class="fio" d="M372 148 V128"/>
+  <text class="num" x="474" y="160">3</text>
+  <path class="fio" d="M480 148 L462 122"/>
+  <text class="leg" x="336" y="196">2 — cada complexo proteico em torno do qual o DNA se enrola</text>
+  <text class="leg" x="336" y="216">3 — a unidade formada pelo complexo mais a volta de DNA</text>
+  <text class="leg" x="336" y="252">a fita percorre um complexo apos o outro ao longo de toda a extensao</text>
+</svg>

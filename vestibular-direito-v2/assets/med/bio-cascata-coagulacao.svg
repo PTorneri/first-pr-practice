@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 300" width="660" height="300" role="img" aria-label="Cascata de coagulacao em tres etapas numeradas, terminando numa rede de filamentos insoluveis com plaquetas presas">
+  <style>
+    /* Carregado via img, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui e a media query responde a preferencia do sistema. */
+    .tr   { stroke: #0A2540; stroke-width: 1.8; fill: none; }
+    .cx   { stroke: #0A2540; stroke-width: 2; fill: rgba(10,37,64,0.10); }
+    .pl   { stroke: #0A2540; stroke-width: 1.8; fill: rgba(10,37,64,0.22); }
+    .seta { stroke: #0A2540; stroke-width: 2; fill: none; marker-end: url(#p); }
+    .rot  { fill: #475569; font: 600 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .num  { fill: #475569; font: 700 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg  { fill: #475569; font: 400 11.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .pta  { fill: #0A2540; }
+    @media (prefers-color-scheme: dark) {
+      .tr   { stroke: #E2E8F0; }
+      .cx   { stroke: #E2E8F0; fill: rgba(226,232,240,0.14); }
+      .pl   { stroke: #E2E8F0; fill: rgba(226,232,240,0.26); }
+      .seta { stroke: #E2E8F0; }
+      .pta  { fill: #E2E8F0; }
+      .rot, .num, .leg { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <marker id="p" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path class="pta" d="M0 0 L10 5 L0 10 z"/>
+    </marker>
+  </defs>
+
+  <!-- Etapa 1: lesao no vaso dispara a cascata -->
+  <text class="num" x="16" y="40">1</text>
+  <rect class="cx" x="34" y="24" width="132" height="46" rx="8"/>
+  <text class="rot" x="46" y="45">lesao no vaso</text>
+  <text class="rot" x="46" y="61">e ativacao</text>
+
+  <!-- Etapa 2: serie de fatores, cada um ativando o seguinte; o ion cofator
+       aparece so como circulo marcado com "?", porque a questao pede o nome -->
+  <path class="seta" d="M166 47 H214"/>
+  <text class="num" x="228" y="40">2</text>
+  <rect class="cx" x="246" y="24" width="150" height="46" rx="8"/>
+  <text class="rot" x="258" y="45">fatores ativados</text>
+  <text class="rot" x="258" y="61">em sequencia</text>
+  <circle class="tr" cx="321" cy="102" r="15"/>
+  <text class="num" x="316" y="107">?</text>
+  <path class="seta" d="M321 87 V78"/>
+  <text class="leg" x="344" y="107">ion cofator, indispensavel a varias etapas</text>
+
+  <!-- Etapa 3: a proteina plasmatica soluvel vira filamento insoluvel.
+       Nenhuma das duas e nomeada: e o que o enunciado pergunta. -->
+  <path class="seta" d="M396 47 H444"/>
+  <text class="num" x="458" y="40">3</text>
+  <rect class="cx" x="476" y="24" width="160" height="46" rx="8"/>
+  <text class="rot" x="488" y="45">proteina plasmatica</text>
+  <text class="rot" x="488" y="61">soluvel</text>
+  <path class="seta" d="M556 70 V150"/>
+  <text class="leg" x="566" y="116">conversao</text>
+
+  <!-- Rede do coagulo: filamentos cruzados com plaquetas agregadas entre eles -->
+  <text class="rot" x="120" y="176">filamentos insoluveis formando a rede do coagulo</text>
+  <path class="tr" d="M96 196 L214 262 M156 196 L274 262 M216 196 L334 262 M276 196 L394 262 M336 196 L454 262 M396 196 L514 262 M456 196 L574 262"/>
+  <path class="tr" d="M574 196 L456 262 M514 196 L396 262 M454 196 L334 262 M394 196 L274 262 M334 196 L214 262 M274 196 L156 262 M214 196 L96 262"/>
+  <ellipse class="pl" cx="238" cy="229" rx="17" ry="11"/>
+  <ellipse class="pl" cx="358" cy="229" rx="17" ry="11"/>
+  <ellipse class="pl" cx="478" cy="229" rx="17" ry="11"/>
+  <text class="leg" x="96" y="286">as elipses entre os filamentos sao plaquetas agregadas</text>
+</svg>

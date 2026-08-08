@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 320" width="660" height="320" role="img" aria-label="Molecula recem-transcrita com segmentos claros e escuros: os claros sao removidos e os escuros unidos, e duas combinacoes diferentes geram duas moleculas maduras distintas">
+  <style>
+    /* Carregado via img, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui e a media query responde a preferencia do sistema. */
+    .tr   { stroke: #0A2540; stroke-width: 1.8; fill: none; }
+    .fica { stroke: #0A2540; stroke-width: 2; fill: rgba(10,37,64,0.26); }
+    .sai  { stroke: #0A2540; stroke-width: 2; fill: none; }
+    .seta { stroke: #0A2540; stroke-width: 2; fill: none; marker-end: url(#p); }
+    .fio  { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 4 3; }
+    .rot  { fill: #475569; font: 600 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .num  { fill: #475569; font: 700 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg  { fill: #475569; font: 400 11.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .pta  { fill: #0A2540; }
+    @media (prefers-color-scheme: dark) {
+      .tr   { stroke: #E2E8F0; }
+      .fica { stroke: #E2E8F0; fill: rgba(226,232,240,0.30); }
+      .sai  { stroke: #E2E8F0; }
+      .seta { stroke: #E2E8F0; }
+      .fio  { stroke: #64748B; }
+      .pta  { fill: #E2E8F0; }
+      .rot, .num, .leg { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <marker id="p" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path class="pta" d="M0 0 L10 5 L0 10 z"/>
+    </marker>
+  </defs>
+
+  <!-- Molecula recem-transcrita: blocos cheios alternados com blocos vazios.
+       Nenhum dos dois e nomeado — e o que o enunciado pergunta. -->
+  <text class="rot" x="24" y="42">molecula recem-transcrita</text>
+  <rect class="fica" x="24"  y="56" width="72" height="30" rx="4"/>
+  <rect class="sai"  x="96"  y="56" width="86" height="30" rx="4"/>
+  <rect class="fica" x="182" y="56" width="72" height="30" rx="4"/>
+  <rect class="sai"  x="254" y="56" width="86" height="30" rx="4"/>
+  <rect class="fica" x="340" y="56" width="72" height="30" rx="4"/>
+  <rect class="sai"  x="412" y="56" width="86" height="30" rx="4"/>
+  <rect class="fica" x="498" y="56" width="72" height="30" rx="4"/>
+  <text class="num" x="52" y="76">A</text>
+  <text class="num" x="210" y="76">B</text>
+  <text class="num" x="368" y="76">C</text>
+  <text class="num" x="526" y="76">D</text>
+  <text class="leg" x="24" y="106">os blocos preenchidos sao mantidos; os vazios sao removidos</text>
+
+  <!-- Primeira combinacao: mantem os quatro blocos -->
+  <path class="seta" d="M132 122 V152"/>
+  <text class="rot" x="24" y="176">molecula madura I</text>
+  <rect class="fica" x="24"  y="188" width="72" height="30" rx="4"/>
+  <rect class="fica" x="96"  y="188" width="72" height="30" rx="4"/>
+  <rect class="fica" x="168" y="188" width="72" height="30" rx="4"/>
+  <rect class="fica" x="240" y="188" width="72" height="30" rx="4"/>
+  <text class="num" x="52" y="208">A</text>
+  <text class="num" x="124" y="208">B</text>
+  <text class="num" x="196" y="208">C</text>
+  <text class="num" x="268" y="208">D</text>
+
+  <!-- Segunda combinacao: o mesmo transcrito, sem o bloco C -->
+  <path class="seta" d="M430 122 V152"/>
+  <text class="rot" x="368" y="176">molecula madura II</text>
+  <rect class="fica" x="368" y="188" width="72" height="30" rx="4"/>
+  <rect class="fica" x="440" y="188" width="72" height="30" rx="4"/>
+  <rect class="fica" x="512" y="188" width="72" height="30" rx="4"/>
+  <text class="num" x="396" y="208">A</text>
+  <text class="num" x="468" y="208">B</text>
+  <text class="num" x="540" y="208">D</text>
+
+  <path class="fio" d="M312 203 H368"/>
+  <text class="leg" x="24" y="252">as duas moleculas maduras vieram da MESMA molecula recem-transcrita:</text>
+  <text class="leg" x="24" y="272">na segunda, o bloco C tambem foi removido</text>
+  <text class="leg" x="24" y="300">cada combinacao de blocos mantidos origina uma proteina diferente</text>
+</svg>

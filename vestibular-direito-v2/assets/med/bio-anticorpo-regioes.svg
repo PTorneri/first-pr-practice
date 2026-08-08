@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 300" width="660" height="300" role="img" aria-label="Anticorpo em Y com duas cadeias pesadas e duas leves: as pontas das hastes superiores sao a regiao variavel e o restante e a regiao constante">
+  <style>
+    /* Carregado via img, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui e a media query responde a preferencia do sistema. */
+    .tr   { stroke: #0A2540; stroke-width: 2.2; fill: none; }
+    .var  { stroke: #0A2540; stroke-width: 2.4; fill: rgba(10,37,64,0.24); }
+    .con  { stroke: #0A2540; stroke-width: 2.4; fill: rgba(10,37,64,0.08); }
+    .fio  { stroke: #94A3B8; stroke-width: 1.2; fill: none; }
+    .rot  { fill: #475569; font: 600 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg  { fill: #475569; font: 400 11.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .tr   { stroke: #E2E8F0; }
+      .var  { stroke: #E2E8F0; fill: rgba(226,232,240,0.30); }
+      .con  { stroke: #E2E8F0; fill: rgba(226,232,240,0.10); }
+      .fio  { stroke: #64748B; }
+      .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+
+  <!-- Cadeia pesada esquerda: haste superior inclinada + tronco vertical -->
+  <path class="con" d="M258 122 L214 66 a13 13 0 0 1 22 -16 L282 106 z"/>
+  <path class="con" d="M258 122 L302 178 L302 250 a11 11 0 0 1 -22 0 L280 174 z"/>
+  <!-- Cadeia pesada direita -->
+  <path class="con" d="M402 122 L446 66 a13 13 0 0 0 -22 -16 L378 106 z"/>
+  <path class="con" d="M402 122 L358 178 L358 250 a11 11 0 0 0 22 0 L380 174 z"/>
+
+  <!-- Cadeias leves: acompanham so a metade superior de cada haste -->
+  <path class="con" d="M228 128 L188 78 a11 11 0 0 1 18 -13 L246 114 z"/>
+  <path class="con" d="M432 128 L472 78 a11 11 0 0 0 -18 -13 L414 114 z"/>
+
+  <!-- Regiao variavel: as quatro pontas do alto, em tom mais forte -->
+  <path class="var" d="M214 66 a13 13 0 0 1 22 -16 L214 24 a15 15 0 0 0 -24 18 z"/>
+  <path class="var" d="M188 78 a11 11 0 0 1 18 -13 L184 38 a13 13 0 0 0 -20 15 z"/>
+  <path class="var" d="M446 66 a13 13 0 0 0 -22 -16 L446 24 a15 15 0 0 1 24 18 z"/>
+  <path class="var" d="M472 78 a11 11 0 0 0 -18 -13 L476 38 a13 13 0 0 1 20 15 z"/>
+
+  <!-- Pontes entre as cadeias -->
+  <path class="fio" d="M330 168 H330 M322 186 H338 M322 202 H338"/>
+  <path class="tr" d="M302 178 H358"/>
+
+  <!-- Rotulos: nomeiam as duas regioes, porque a questao pergunta a FUNCAO
+       delas, nao o nome. O que a figura nao diz e para que cada uma serve. -->
+  <path class="fio" d="M176 34 H96"/>
+  <text class="rot" x="24" y="30">regiao</text>
+  <text class="rot" x="24" y="46">variavel</text>
+  <path class="fio" d="M484 34 H564"/>
+  <text class="rot" x="572" y="30">regiao</text>
+  <text class="rot" x="572" y="46">variavel</text>
+  <path class="fio" d="M330 226 H430"/>
+  <text class="rot" x="438" y="230">regiao constante</text>
+
+  <text class="leg" x="24" y="272">as quatro pontas em tom forte variam enormemente entre anticorpos diferentes;</text>
+  <text class="leg" x="24" y="290">o restante da molecula e praticamente identico em todos</text>
+</svg>

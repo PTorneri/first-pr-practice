@@ -28,7 +28,7 @@
       "textoId": "med-bio-t1",
       "enunciado": "Um paramécio é mantido em solução hipotônica e recebe um inibidor que interrompe o funcionamento dos vacúolos contráteis. Sobre o volume celular e a concentração do citoplasma ao longo do tempo, é correto afirmar que:",
       "alternativas": {
-        "a": "o volume aumenta e a concentração diminui, pois a água segue entrando por osmose enquanto o soluto permanece na mesma quantidade",
+        "a": "o volume aumenta e a concentração diminui, pois a água segue entrando por osmose e deixa de ser expulsa, enquanto o soluto permanece na mesma quantidade",
         "b": "ambos aumentam, pois a água que entra arrasta consigo solutos do meio externo e eleva a concentração interna do citoplasma",
         "c": "ambos diminuem, pois o bloqueio do vacúolo faz a célula perder água para o meio até atingir um novo equilíbrio osmótico",
         "d": "o volume aumenta e a concentração se mantém, pois a membrana ajusta a entrada de solutos ao volume que a célula vai assumindo",
@@ -64,7 +64,7 @@
       "alternativas": {
         "a": "autossômica dominante, já que a condição reaparece a cada geração e atinge homens e mulheres na mesma proporção esperada",
         "b": "dominante ligada ao X, já que um genitor afetado transmitiria a condição a todas as suas filhas e a nenhum de seus filhos homens",
-        "c": "autossômica recessiva, já que um casal não afetado gerou filhas afetadas e há afetados de ambos os sexos nas gerações seguintes",
+        "c": "autossômica recessiva, já que um casal não afetado gerou filhas afetadas e há afetados de ambos os sexos, inclusive uma mulher de pai não afetado",
         "d": "recessiva ligada ao X, já que as mulheres afetadas teriam recebido um dos alelos do pai, que não manifesta a condição no heredograma",
         "e": "mitocondrial, já que a transmissão nesse tipo de herança se dá pela linhagem materna e atinge a descendência de forma indiscriminada"
       },
@@ -107,7 +107,7 @@
       "texto_apoio": "Um agricultor removeu um anel completo da casca de ramos caulinares de uma árvore frutífera, prática conhecida como anelamento. Semanas depois, observou acúmulo de tecido e engrossamento na região imediatamente acima do corte, enquanto a porção abaixo dele permaneceu com o diâmetro original. As folhas do ramo mantiveram-se verdes e turgidas durante todo o período.",
       "enunciado": "O acúmulo observado acima do corte e a manutenção do turgor das folhas indicam que o anelamento interrompeu:",
       "alternativas": {
-        "a": "o floema, mantendo o xilema íntegro, de modo que a seiva elaborada ficou represada acima do corte e a água seguiu subindo até as folhas",
+        "a": "o floema, que fica na casca retirada, mantendo íntegro o xilema, mais interno, de modo que a seiva elaborada ficou represada acima do corte e a água seguiu subindo",
         "b": "o xilema, mantendo o floema íntegro, o que faria a água se acumular na região acima da faixa de casca que foi retirada do ramo",
         "c": "os dois tecidos condutores ao mesmo tempo, situação em que o transporte cessaria nos dois sentidos e as folhas perderiam turgor rapidamente",
         "d": "apenas a epiderme do caule, sem alcançar os tecidos condutores, que se localizam em posição mais interna e ficariam preservados",
@@ -202,7 +202,7 @@
       "enunciado": "A fenilcetonúria é detectada nessa triagem porque:",
       "alternativas": {
         "a": "provoca alterações físicas visíveis já ao nascimento, e o exame laboratorial serve apenas para confirmar um diagnóstico que a observação clínica já sugere",
-        "b": "decorre da deficiência de uma enzima do metabolismo da fenilalanina, cujo acúmulo lesa o sistema nervoso e é evitável por dieta precoce",
+        "b": "decorre da deficiência hereditária de uma enzima do metabolismo da fenilalanina, cujo acúmulo lesa o sistema nervoso em desenvolvimento e é evitável por dieta antes dos sintomas",
         "c": "é transmitida por herança dominante, padrão que torna elevada a chance de um recém-nascido de qualquer família apresentar a condição",
         "d": "resulta de uma infecção adquirida durante a gestação, tratável com antibiótico se iniciado ainda nos primeiros dias após o parto",
         "e": "afeta a produção de hemoglobina e se manifesta por crises dolorosas que costumam começar ainda dentro do período neonatal"
@@ -261,7 +261,7 @@
       "texto_apoio": "Durante a inspiração em repouso, o diafragma se contrai e desce, e os músculos intercostais externos elevam as costelas. O volume da caixa torácica aumenta e o ar entra pelas vias aéreas até os alvéolos.",
       "enunciado": "A entrada de ar nos pulmões durante a inspiração ocorre porque a pressão intra-alveolar:",
       "alternativas": {
-        "a": "torna-se menor que a atmosférica, em consequência do aumento do volume da caixa torácica, e o ar flui para a região de menor pressão",
+        "a": "torna-se menor que a atmosférica, em consequência do aumento do volume da caixa torácica, e o ar flui da região de maior para a de menor pressão",
         "b": "torna-se maior que a atmosférica, condição que empurraria o ar da árvore respiratória em direção ao interior dos alvéolos",
         "c": "iguala-se à pressão atmosférica, situação apontada como necessária para que um fluxo de ar se estabeleça entre os dois compartimentos",
         "d": "aumenta junto com o volume torácico, de modo que o produto entre as duas grandezas se mantém constante durante todo o ciclo",
@@ -356,7 +356,7 @@
       "enunciado": "A maior gravidade observada nos animais livres de micro-organismos sugere que a microbiota intestinal atua:",
       "alternativas": {
         "a": "produzindo anticorpos específicos contra o patógeno mesmo antes do primeiro contato do animal com aquele agente infeccioso",
-        "b": "competindo com o patógeno por sítios de adesão e nutrientes e estimulando o desenvolvimento da resposta imune local da mucosa",
+        "b": "resistindo à colonização, ao competir com o patógeno por sítios de adesão e nutrientes, e sendo necessária à maturação do tecido linfoide do intestino",
         "c": "degradando diretamente o material genético do patógeno no lúmen intestinal por meio de enzimas secretadas pelas próprias bactérias",
         "d": "elevando o pH do conteúdo intestinal a valores nos quais a sobrevivência de bactérias patogênicas se torna bastante improvável",
         "e": "substituindo temporariamente a função das glândulas intestinais durante o período em que a infecção se encontra em atividade"
@@ -388,7 +388,7 @@
         "a": "sua baixa variabilidade genética, condição que reduziria a chance de surgirem respostas adaptativas diante de uma pressão seletiva nova",
         "b": "seu ciclo reprodutivo curto, que ampliaria o número de ninhos expostos ao longo do ano e multiplicaria as oportunidades de predação",
         "c": "sua dieta especializada, que as obrigaria a forragear nas mesmas áreas frequentadas pelos predadores recém-chegados à ilha",
-        "d": "terem evoluído sem predadores terrestres, o que resultou na ausência de comportamentos antipredatórios diante desse tipo de ameaça",
+        "d": "terem evoluído sem predadores terrestres, contexto em que a seleção não favoreceu vigilância, fuga nem nidificação protegida diante desse tipo de ameaça",
         "e": "sua capacidade de voo reduzida, traço que se desenvolveu de maneira semelhante nas aves de ilhas oceânicas ao redor do mundo"
       },
       "resposta": "d",
@@ -482,7 +482,7 @@
         "a": "não atravessa a barreira glomerular em condições normais e passa a fazê-lo quando a concentração plasmática se eleva acima do habitual",
         "b": "deixa de ser reabsorvida porque a insulina, ausente ou ineficaz, é o hormônio que aciona diretamente os transportadores tubulares de glicose",
         "c": "é secretada ativamente pelos túbulos renais para o filtrado sempre que sua concentração no sangue ultrapassa determinado limiar fisiológico",
-        "d": "é filtrada e reabsorvida nos túbulos, e a concentração plasmática elevada satura ali os transportadores responsáveis por essa reabsorção",
+        "d": "é livremente filtrada e reabsorvida no túbulo proximal, e a concentração plasmática elevada satura ali os transportadores, de modo que o excedente segue para a urina",
         "e": "sofre degradação enzimática no interior do túbulo contorcido proximal, e os produtos dessa quebra é que apareceriam no exame de urina"
       },
       "resposta": "d",
@@ -527,7 +527,7 @@
         "a": "atinge apenas espécies predadoras, uma vez que os organismos dos níveis tróficos inferiores não conseguem absorvê-lo diretamente da água",
         "b": "sofre transformação química ao longo da cadeia alimentar, tornando-se progressivamente mais solúvel em água a cada transferência trófica",
         "c": "é produzido pelos próprios organismos aquáticos em resposta ao estresse causado pela presença de efluentes industriais no estuário",
-        "d": "é excretado com dificuldade e se acumula nos tecidos, e cada nível trófico soma o que foi acumulado pelos organismos do nível anterior",
+        "d": "é excretado com dificuldade e se acumula nos tecidos, e cada predador soma, ao longo da vida, o que foi acumulado por cada indivíduo do nível anterior",
         "e": "se dilui a cada transferência trófica, mas os predadores compensam esse efeito ingerindo um volume muito maior de alimento ao longo da vida"
       },
       "resposta": "d",
@@ -600,7 +600,7 @@
       "enunciado": "Os dois procedimentos conferem, respectivamente, imunização:",
       "alternativas": {
         "a": "ativa e passiva, sendo a primeira de efeito imediato e curta duração e a segunda de instalação lenta e memória duradoura",
-        "b": "passiva e ativa, sendo a primeira de efeito imediato e curta duração e a segunda de instalação lenta e de memória duradoura",
+        "b": "passiva e ativa, sendo a primeira feita de anticorpos prontos, de efeito imediato e curta duração, e a segunda de instalação lenta e de memória duradoura",
         "c": "ativa nos dois casos, diferindo apenas na natureza do antígeno utilizado para desencadear a resposta imunológica do paciente",
         "d": "passiva nos dois casos, já que em ambos são administradas moléculas prontas capazes de neutralizar a toxina circulante no organismo",
         "e": "passiva e ativa, sendo a primeira capaz de gerar memória imunológica duradoura e a segunda de agir imediatamente após a aplicação"
@@ -633,7 +633,7 @@
       "texto_apoio": "Um peixe ósseo de água doce e um peixe ósseo marinho enfrentam desafios osmóticos opostos. O primeiro vive num meio menos concentrado que seus fluidos corporais; o segundo, num meio mais concentrado que eles.",
       "enunciado": "Sobre a osmorregulação desses animais, é correto afirmar que o peixe de água doce:",
       "alternativas": {
-        "a": "ganha água por osmose e produz urina abundante e diluída, enquanto o marinho perde água e ingere água do mar para compensá-la",
+        "a": "ganha água por osmose e produz urina abundante e diluída, captando sais ativamente pelas brânquias, enquanto o marinho perde água e bebe água do mar",
         "b": "perde água por osmose e ingere grande volume de água do mar, enquanto o marinho ganha água e produz urina bastante diluída",
         "c": "ganha água por osmose e produz urina escassa e concentrada, para reter o máximo possível dos sais dissolvidos em seus fluidos",
         "d": "mantém equilíbrio osmótico passivo com o meio, enquanto apenas o peixe marinho precisa gastar energia com transporte ativo de sais",
@@ -713,7 +713,7 @@
       "alternativas": {
         "a": "elevação da umidade do ar, que reduz a demanda por transpiração e leva a planta a interromper as trocas gasosas com o ambiente",
         "b": "aumento da concentração de gás carbônico no mesofilo durante os períodos de maior atividade fotossintética ao longo do dia",
-        "c": "déficit hídrico, que provoca saída de água das células-guarda, perda de turgor e fechamento do poro, sob ação do ácido abscísico",
+        "c": "déficit hídrico, em que o ácido abscísico promove a saída de íons e, com ela, de água das células-guarda, com perda de turgor e fechamento do poro",
         "d": "elevação da intensidade luminosa, estímulo que promove o acúmulo de íons potássio no interior das células-guarda da epiderme",
         "e": "queda da temperatura foliar durante a madrugada, momento em que a planta interrompe completamente o processo de respiração celular"
       },
@@ -746,7 +746,7 @@
         "b": "redução da concentração de nutrientes na água, esgotados pelo crescimento acelerado da população de algas na superfície do corpo hídrico",
         "c": "elevação da temperatura da água provocada pela camada de algas na superfície, que absorve radiação solar e aquece o corpo hídrico",
         "d": "competição direta por alimento entre as algas em proliferação e os peixes herbívoros presentes nas camadas superiores do ecossistema",
-        "e": "consumo do oxigênio dissolvido pelos decompositores que atuam sobre as algas mortas, cuja respiração esgota o gás dissolvido na água"
+        "e": "consumo do oxigênio dissolvido pelas bactérias aeróbias que decompõem as algas mortas, matéria orgânica cuja oxidação esgota o gás disponível na água"
       },
       "resposta": "e",
       "explicacao": "Na eutrofização, o excesso de nutrientes desencadeia a proliferação de algas; ao morrerem, elas se tornam matéria orgânica para bactérias aeróbias, cuja respiração consome o oxigênio dissolvido. É essa queda de oxigênio que mata os peixes. O bloqueio de luz pela camada superficial agrava o quadro ao reduzir a fotossíntese nas camadas mais profundas.",
@@ -776,7 +776,7 @@
       "textoId": "med-bio-t4",
       "enunciado": "Segundo o texto, a terapia aprovada para anemia falciforme atua de modo indireto porque:",
       "alternativas": {
-        "a": "desliga o gene que reprime a hemoglobina fetal, cuja produção retomada compensa a proteína defeituosa do próprio paciente",
+        "a": "desliga o gene que reprime a hemoglobina fetal depois do nascimento, e a forma fetal, retomada, não polimeriza e compensa a proteína defeituosa",
         "b": "substitui a timina original por adenina no ponto exato em que a mutação ocorreu, restaurando a sequência normal do gene",
         "c": "insere uma cópia adicional do gene da hemoglobina adulta em outro cromossomo, elevando a produção total da proteína funcional",
         "d": "impede a polimerização da hemoglobina defeituosa por meio de uma proteína sintética introduzida junto com a enzima de corte",
@@ -871,7 +871,7 @@
       "enunciado": "A probabilidade de o casal ter uma criança daltônica e o sexo dessa criança são:",
       "alternativas": {
         "a": "1/2, e a criança poderá ser tanto do sexo masculino quanto do feminino, já que ambos os pais carregam o alelo recessivo em questão",
-        "b": "1/4, e a criança será necessariamente do sexo masculino, já que apenas os filhos homens dependem do X recebido da mãe portadora",
+        "b": "1/4, e a criança será necessariamente do sexo masculino, já que as filhas recebem o X normal do pai e só os filhos dependem do X da mãe portadora",
         "c": "1/4, e a criança será necessariamente do sexo feminino, pois precisaria receber um alelo recessivo de cada um dos dois genitores",
         "d": "1/8, e a criança poderá ser de qualquer sexo, dependendo de qual dos cromossomos sexuais paternos participar da fecundação",
         "e": "zero, uma vez que o pai apresenta visão normal e não teria como transmitir o alelo do daltonismo a nenhum de seus descendentes"
@@ -930,7 +930,7 @@
       "texto_apoio": "Uma tempestade levou poucos indivíduos de uma espécie continental de ave para uma ilha distante, onde eles fundaram uma nova população. Décadas depois, verificou-se que a frequência de certos alelos raros nessa população insular é muito superior à observada na população de origem, sem que houvesse vantagem adaptativa associada a eles.",
       "enunciado": "O processo evolutivo que melhor explica a situação descrita é:",
       "alternativas": {
-        "a": "o efeito fundador, em que a amostra pequena que originou a nova população não representa as frequências alélicas da original",
+        "a": "o efeito fundador, modalidade de deriva em que a amostra pequena que originou a nova população não representa as frequências alélicas da original",
         "b": "a seleção natural direcional, que teria favorecido justamente os portadores dos alelos raros nas condições ambientais da ilha",
         "c": "o fluxo gênico contínuo entre a ilha e o continente, capaz de elevar a frequência de alelos raros na população recém-estabelecida",
         "d": "a irradiação adaptativa, processo pelo qual um grupo se diversifica rapidamente ao ocupar nichos ecológicos ainda desocupados",
@@ -1008,7 +1008,7 @@
       "texto_apoio": "Um paciente apresenta contagem muito reduzida de um tipo específico de linfócito, o que compromete tanto a resposta mediada por células quanto a produção adequada de anticorpos, embora esse linfócito não seja o produtor direto dessas moléculas.",
       "enunciado": "O tipo celular reduzido e a razão pela qual sua falta afeta também a produção de anticorpos são:",
       "alternativas": {
-        "a": "linfócito T auxiliar, porque ele ativa os linfócitos B e é necessário à sua diferenciação em plasmócitos produtores de anticorpos",
+        "a": "linfócito T auxiliar, porque ele coordena a resposta adaptativa e fornece aos linfócitos B o sinal necessário à sua diferenciação em plasmócitos",
         "b": "linfócito B, porque ele se diferencia em plasmócitos e ao mesmo tempo apresenta antígenos aos macrófagos do tecido linfoide",
         "c": "macrófago, porque essa célula fagocita o antígeno e, além disso, secreta diretamente os anticorpos na corrente sanguínea",
         "d": "linfócito T citotóxico, porque ele destrói células infectadas e também converte antígenos em formas reconhecíveis pelos plasmócitos",
@@ -1061,7 +1061,7 @@
         "b": "isotônica e hipertônica, situação em que apenas a segunda amostra apresentaria alteração perceptível no volume de suas células",
         "c": "hipertônica e isotônica, condições que produziriam turgor máximo na primeira amostra e nenhuma alteração visível na segunda",
         "d": "hipotônica e isotônica, já que a saída de água das células da amostra I decorreria da menor concentração do meio externo",
-        "e": "hipertônica e hipotônica, o que produziu plasmólise nas células da primeira amostra e turgescência nas células da segunda"
+        "e": "hipertônica e hipotônica, o que produziu, pela saída de água, plasmólise nas células da primeira amostra e turgescência nas células da segunda"
       },
       "resposta": "e",
       "explicacao": "Membrana descolada da parede com citoplasma retraído é plasmólise, resultado da saída de água para um meio hipertônico. Células com membrana justaposta à parede e vacúolo desenvolvido estão túrgidas, o que ocorre em meio hipotônico. As alternativas (a) e (d) invertem o sentido do fluxo osmótico.",
@@ -1072,7 +1072,7 @@
       "texto_apoio": "Frutos climatéricos, como banana e tomate, continuam amadurecendo depois de colhidos. Produtores costumam transportá-los ainda verdes e, no destino, expô-los a um gás em câmaras fechadas para acelerar o processo de maneira controlada.",
       "enunciado": "O hormônio vegetal utilizado nesse procedimento e seu efeito sobre o fruto são:",
       "alternativas": {
-        "a": "etileno, que estimula a degradação da clorofila, a conversão do amido em açúcares solúveis e o amolecimento da parede celular",
+        "a": "etileno, hormônio gasoso que estimula a degradação da clorofila, a conversão do amido em açúcares solúveis e o amolecimento da parede celular",
         "b": "auxina, que promove o alongamento das células do pericarpo e com isso aumenta o volume final do fruto colhido ainda verde",
         "c": "giberelina, que interrompe a dormência das sementes e desencadeia a produção de enzimas responsáveis pela quebra das reservas",
         "d": "ácido abscísico, que induz o fechamento dos estômatos do fruto e concentra os açúcares presentes na polpa durante o transporte",
@@ -1164,7 +1164,7 @@
       "enunciado": "As associações I, II e III são denominadas, respectivamente:",
       "alternativas": {
         "a": "micorriza, líquen e parasitismo, sendo a primeira delas pioneira na colonização de ambientes recém-formados por rocha exposta",
-        "b": "líquen, micorriza e parasitismo, associações em que as duas primeiras trazem ganho mútuo e a última, prejuízo a um deles",
+        "b": "líquen, micorriza e parasitismo, associações em que as duas primeiras trazem ganho mútuo, sendo o líquen pioneiro, e a última, prejuízo",
         "c": "comensalismo, mutualismo e predatismo, categorias que descrevem o saldo de custo e benefício",
         "d": "líquen, parasitismo e micorriza, sendo esta última prejudicial à planta por desviar parte dos nutrientes absorvidos pela raiz",
         "e": "protocooperação, inquilinismo e amensalismo, relações em que ao menos um dos organismos obtém vantagem sem prejudicar o outro"
@@ -1305,7 +1305,7 @@
       "texto_apoio": "Um esquema apresenta o olho humano em corte, com destaque para a camada mais interna, onde se localizam células fotorreceptoras de dois tipos: umas responsáveis pela visão em baixa luminosidade e sem discriminação de cores, outras pela visão de cores em ambientes bem iluminados.",
       "enunciado": "A camada indicada e os dois tipos celulares descritos são, respectivamente:",
       "alternativas": {
-        "a": "retina, com bastonetes responsáveis pela visão noturna e cones responsáveis pela visão de cores em ambientes de maior luminosidade",
+        "a": "retina, com bastonetes muito sensíveis à luz, responsáveis pela visão noturna, e cones, que exigem mais luz e respondem pela visão de cores em ambientes claros",
         "b": "coroide, com cones responsáveis pela visão noturna e bastonetes responsáveis pela discriminação das diferentes cores do espectro visível",
         "c": "esclera, com bastonetes que atuam em alta luminosidade e cones que respondem por toda a percepção visual em ambientes escuros",
         "d": "retina, com cones responsáveis pela visão em baixa luminosidade e bastonetes responsáveis pela percepção das cores em ambientes claros",
@@ -1434,7 +1434,7 @@
         "a": "o cerebelo, e os tremores redistribuem o sangue das extremidades para o centro do corpo, conservando o calor nos órgãos internos",
         "b": "a hipófise, e os tremores reduzem a superfície corporal exposta ao ambiente, diminuindo a perda de calor por convecção e radiação",
         "c": "o bulbo, e os tremores aumentam a frequência respiratória, o que eleva a temperatura do ar que chega aos alvéolos pulmonares",
-        "d": "o hipotálamo, e os tremores produzem calor por meio da contração rápida, repetida e involuntária da musculatura esquelética do corpo",
+        "d": "o hipotálamo, que compara a temperatura do sangue com um valor de referência, e os tremores produzem calor pela contração rápida e involuntária da musculatura",
         "e": "a medula espinal, e os tremores estimulam a liberação de adrenalina, hormônio responsável direto pela elevação da temperatura corporal"
       },
       "resposta": "d",
@@ -1526,7 +1526,7 @@
       "texto_apoio": "Um esquema representa as duas etapas da fotossíntese. Na etapa I, que ocorre nos tilacoides, a luz é absorvida e há produção de duas substâncias que serão consumidas na etapa II. Na etapa II, que ocorre no estroma, o gás carbônico é incorporado a um composto de cinco carbonos.",
       "enunciado": "As duas substâncias produzidas na etapa I e consumidas na etapa II são:",
       "alternativas": {
-        "a": "ATP e NADPH, produzidos na etapa fotoquímica e consumidos na etapa de redução do carbono, que ocorre no estroma do cloroplasto",
+        "a": "ATP e NADPH, energia química e poder redutor produzidos na etapa fotoquímica e consumidos na etapa de redução do carbono, no estroma do cloroplasto",
         "b": "glicose e oxigênio, moléculas que resultam diretamente da absorção de energia luminosa pelos pigmentos presentes na membrana do tilacoide",
         "c": "água e gás carbônico, substratos que precisam ser transportados do citoplasma até o interior do cloroplasto antes de cada ciclo",
         "d": "ATP e oxigênio, sendo o segundo reincorporado ao ciclo de fixação do carbono como aceptor final dos elétrons transportados",
@@ -1575,7 +1575,7 @@
         "a": "aldosterona, que estimula a excreção de sódio e provoca a saída de água para o filtrado, concentrando os solutos remanescentes na urina",
         "b": "insulina, que aumenta a permeabilidade das células tubulares à glicose e, com ela, ao volume de água reabsorvido durante o percurso",
         "c": "paratormônio, que eleva a reabsorção de cálcio nos túbulos e reduz secundariamente o volume de urina eliminado ao longo do dia",
-        "d": "hormônio antidiurético, que aumenta a permeabilidade à água e eleva sua reabsorção, produzindo urina de menor volume e concentrada",
+        "d": "hormônio antidiurético, que insere aquaporinas na membrana e assim eleva a reabsorção de água, produzindo urina de menor volume e mais concentrada",
         "e": "cortisol, que reduz a taxa de filtração glomerular e assim diminui o volume total de filtrado formado a cada minuto pelos rins"
       },
       "resposta": "d",
@@ -1602,7 +1602,7 @@
       "texto_apoio": "O fígado desempenha diversas funções no organismo humano. Entre elas estão o armazenamento de glicogênio, a produção de proteínas plasmáticas, a conversão de amônia em ureia e a secreção de uma substância que atua no intestino delgado.",
       "enunciado": "A substância secretada pelo fígado que atua no intestino delgado e sua função na digestão são:",
       "alternativas": {
-        "a": "a bile, que emulsiona as gorduras e amplia a superfície de ação das lipases pancreáticas, sem conter enzimas digestivas próprias",
+        "a": "a bile, armazenada na vesícula, que quebra as gotículas de gordura em outras menores e amplia a superfície de ação das lipases pancreáticas, sem conter enzimas",
         "b": "o suco pancreático, que neutraliza o quimo ácido vindo do estômago e fornece as enzimas responsáveis pela quebra dos três tipos de nutriente",
         "c": "a pepsina, que inicia a quebra das proteínas ingeridas e continua atuando ao longo de todo o trajeto do alimento pelo intestino delgado",
         "d": "a insulina, que promove a captação da glicose absorvida pelas células do epitélio intestinal antes que ela alcance a corrente sanguínea",
@@ -1667,7 +1667,7 @@
         "b": "elevação permanente da temperatura corporal após a primeira infecção, o que acelera todas as reações enzimáticas da resposta imune",
         "c": "produção contínua de anticorpos contra aquele agente durante toda a vida, independentemente de haver nova exposição a ele",
         "d": "ação das barreiras físicas e químicas do organismo, que se tornam progressivamente mais eficazes a cada contato com o mesmo patógeno",
-        "e": "permanência de linfócitos de memória de vida longa, que reconhecem o antígeno e se multiplicam rapidamente num novo contato"
+        "e": "permanência de linfócitos de memória de vida longa, que num novo contato dispensam as etapas iniciais de seleção e ativação e proliferam de imediato"
       },
       "resposta": "e",
       "explicacao": "Após o primeiro contato, parte dos linfócitos ativados se diferencia em células de memória de vida longa. Num reencontro, elas dispensam as etapas iniciais de seleção e ativação e proliferam de imediato, o que encurta a resposta de dias para horas. É esse mecanismo que a vacinação explora deliberadamente.",
@@ -1770,7 +1770,7 @@
       "enunciado": "A associação descrita e a consequência do fenômeno de branqueamento para o coral são:",
       "alternativas": {
         "a": "parasitismo, e a expulsão das algas beneficia o coral ao interromper a retirada de nutrientes que elas promoviam a partir de seus tecidos",
-        "b": "mutualismo, e a perda das algas priva o coral de boa parte de seu suprimento energético, antes obtido da fotossíntese realizada por elas",
+        "b": "mutualismo, e a perda das algas priva o coral dos compostos orgânicos que elas produziam por fotossíntese e lhe transferiam em troca do abrigo que ele oferecia",
         "c": "comensalismo, e a expulsão não altera o balanço energético do coral, que passa a depender integralmente da captura de plâncton da água",
         "d": "predatismo, e a saída das algas reduz a pressão sobre as populações de zooplâncton que circulam entre as colônias de coral do recife",
         "e": "competição, e o branqueamento representa a vitória do coral na disputa por espaço e por luz travada com as algas em seus próprios tecidos"
@@ -1867,7 +1867,7 @@
         "a": "sua maior variabilidade genética em relação às espécies nativas, o que lhe garante vantagem em qualquer ambiente onde venha a ser introduzida",
         "b": "sua capacidade de se reproduzir assexuadamente no novo ambiente, dispensando a presença de parceiros para colonizar o corpo hídrico",
         "c": "sua taxa metabólica mais elevada, que lhe permite explorar recursos alimentares indisponíveis para as espécies nativas do mesmo lago",
-        "d": "ausência de predadores e parasitas que a controlariam na área de origem, o que permite à população crescer sem os freios que ali existiam",
+        "d": "ausência dos predadores, parasitas e competidores que a controlariam na área de origem, o que permite à população crescer sem os freios que ali existiam",
         "e": "sua tolerância exclusiva a águas de baixa concentração de oxigênio, condição que a torna inacessível às demais espécies do ecossistema"
       },
       "resposta": "d",
@@ -1901,7 +1901,7 @@
         "a": "etileno e celulase, atuando na degradação da parede das células do endosperma e na liberação do conteúdo",
         "b": "ácido abscísico e lipase, sendo o primeiro também o hormônio que mantém a semente em estado de dormência antes das condições favoráveis",
         "c": "auxina e protease, combinação que promove ao mesmo tempo o alongamento das células e a mobilização das reservas proteicas da semente",
-        "d": "giberelina e amilase, respectivamente o hormônio produzido pelo embrião e a enzima que hidrolisa as reservas de amido do endosperma",
+        "d": "giberelina e amilase, respectivamente o hormônio produzido pelo embrião e a enzima que a aleurona sintetiza para hidrolisar o amido do endosperma",
         "e": "citocinina e amilase, hormônio que estimula a divisão celular no embrião e simultaneamente a quebra do amido presente no endosperma"
       },
       "resposta": "d",
@@ -1932,7 +1932,7 @@
         "b": "as vitaminas hidrossolúveis, e a obstrução compromete a coagulação sanguínea por falta do aporte adequado desses micronutrientes",
         "c": "a glicose, e a obstrução leva à queda da glicemia por interrupção da via principal de absorção dos carboidratos ingeridos na dieta",
         "d": "os sais minerais, e a obstrução resulta em desequilíbrio eletrolítico com repercussão direta sobre a excitabilidade das células nervosas",
-        "e": "os lipídios, e a obstrução provoca acúmulo de líquido nos tecidos, o edema, por falha na drenagem do líquido intersticial dos tecidos"
+        "e": "os lipídios, cujos quilomícrons são grandes demais para os capilares sanguíneos, e a obstrução provoca acúmulo de líquido intersticial nos tecidos, o edema"
       },
       "resposta": "e",
       "explicacao": "Os quilomícrons formados a partir dos lipídios são grandes demais para os capilares sanguíneos e entram nos vasos quilíferos, do sistema linfático. Se a drenagem linfática é obstruída, o líquido intersticial se acumula e produz edema — mecanismo da elefantíase na filariose. Aminoácidos e glicose seguem pela via sanguínea.",
@@ -2013,7 +2013,7 @@
         "b": "temperatura elevada da água, condição que diminui a solubilidade dos gases e reduz a quantidade de oxigênio que ela consegue reter",
         "c": "presença de metais pesados dissolvidos, substâncias que interferem diretamente na determinação laboratorial do teor de oxigênio da amostra",
         "d": "elevada turbidez causada por partículas minerais em suspensão, as quais reduzem a penetração de luz e limitam a produção primária no local",
-        "e": "grande quantidade de matéria orgânica, que será oxidada pelos decompositores com consumo do oxigênio dissolvido na água ao longo do trecho"
+        "e": "grande quantidade de matéria orgânica, carga típica de esgoto, que será oxidada pelos decompositores com consumo do oxigênio dissolvido na água rio abaixo"
       },
       "resposta": "e",
       "explicacao": "A DBO mede quanto oxigênio os micro-organismos consumirão para degradar a matéria orgânica presente. Valor alto indica carga orgânica alta — típico de esgoto — e antecipa a queda de oxigênio dissolvido rio abaixo. É indicador de poluição orgânica, e não de metais ou de turbidez mineral.",
@@ -2145,7 +2145,7 @@
       "texto_apoio": "Um estudo em uma savana africana registrou que a presença de grandes herbívoros mantém extensas áreas abertas, com poucas árvores. Quando esses herbívoros foram excluídos experimentalmente de algumas parcelas, a vegetação lenhosa se adensou rapidamente e a diversidade de plantas herbáceas caiu.",
       "enunciado": "O papel desempenhado pelos grandes herbívoros nesse ecossistema é o de:",
       "alternativas": {
-        "a": "espécie-chave, cuja atuação mantém a estrutura e a diversidade da comunidade além do que sua abundância relativa na área sugeriria",
+        "a": "espécie-chave, que ao consumir plântulas lenhosas mantém a estrutura e a diversidade da comunidade além do que sua abundância relativa sugeriria",
         "b": "espécie exótica invasora, cuja presença altera profundamente a composição da vegetação nativa da região em que foi introduzida",
         "c": "espécie bioindicadora, cuja abundância informa sobre a qualidade do ambiente e permite monitorar mudanças ao longo do tempo na savana",
         "d": "espécie generalista, capaz de explorar uma ampla variedade de recursos alimentares e por isso pouco sensível a mudanças no ambiente",
@@ -2281,7 +2281,7 @@
       "texto_apoio": "Um levantamento comparou a riqueza de espécies de aves em fragmentos florestais de tamanhos variados, situados a distâncias diferentes de uma grande área contínua de floresta. Os resultados mostraram que fragmentos maiores e mais próximos da área contínua abrigavam mais espécies.",
       "enunciado": "O padrão observado é previsto pela teoria da biogeografia de ilhas, segundo a qual o número de espécies resulta do equilíbrio entre:",
       "alternativas": {
-        "a": "as taxas de imigração e de extinção, sendo a primeira influenciada pela distância e a segunda pelo tamanho do fragmento considerado",
+        "a": "as taxas de imigração e de extinção, que se igualam no equilíbrio, sendo a primeira influenciada pela distância e a segunda pelo tamanho do fragmento",
         "b": "as taxas de natalidade e de mortalidade das populações residentes, ambas determinadas pela quantidade de recursos alimentares disponíveis",
         "c": "a produtividade primária e a eficiência de transferência de energia entre os níveis tróficos presentes em cada um dos fragmentos avaliados",
         "d": "a intensidade da competição interespecífica e a pressão de predação exercida por espécies vindas da matriz agrícola que cerca os fragmentos",
@@ -2355,6 +2355,826 @@
       "resposta": "c",
       "explicacao": "É o efeito Bohr. Tecidos em atividade produzem gás carbônico e ácido, baixando o pH, e geram calor: as duas condições reduzem a afinidade da hemoglobina e aumentam a liberação de oxigênio exatamente onde ele é mais necessário. Deslocamento para a direita significa menor afinidade, e não maior, o que descarta (a).",
       "formato": "direta"
+    },
+    {
+      "id": "biologia-151",
+      "texto_apoio": "Em uma variedade de tomate, o fruto vermelho depende de um alelo dominante V e o fruto amarelo, do alelo recessivo v. Um produtor autofecundou plantas heterozigotas e obteve um grande lote de plantas de fruto vermelho, todas fenotipicamente indistinguíveis entre si.",
+      "enunciado": "Escolhendo ao acaso uma planta de fruto vermelho desse lote, a probabilidade de ela ser heterozigota é de:",
+      "alternativas": {
+        "a": "1/4",
+        "b": "1/3",
+        "c": "1/2",
+        "d": "2/3",
+        "e": "3/4"
+      },
+      "resposta": "d",
+      "explicacao": "A autofecundação Vv x Vv gera 1 VV : 2 Vv : 1 vv. O lote descrito exclui as plantas amarelas, restando 1 VV e 2 Vv, ou seja, 3 plantas vermelhas. Dessas, 2 são heterozigotas: 2/3. A armadilha está em (c): quem responde 1/2 esqueceu que a proporção de heterozigotos deve ser calculada dentro do grupo já selecionado pelo fenótipo, e não sobre a descendência inteira. Quem responde 1/4 (a) usa a fração de Vv sobre o total, que não é o que se pede.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "biologia-152",
+      "texto_apoio": "Em cobaias, a pelagem preta é condicionada por um alelo dominante e a pelagem branca, pelo alelo recessivo correspondente. Um criador possui um macho preto de genótipo desconhecido e precisa determiná-lo antes de incluí-lo no plantel de reprodutores.",
+      "enunciado": "O cruzamento-teste indicado para essa finalidade utiliza fêmeas brancas porque:",
+      "alternativas": {
+        "a": "o alelo recessivo presente nessas fêmeas neutraliza o alelo dominante do macho, permitindo que o genótipo paterno se expresse diretamente na prole",
+        "b": "elas produzem apenas gametas com o alelo recessivo, de modo que o fenótipo de cada descendente revela diretamente qual alelo veio do macho",
+        "c": "a homozigose materna reduz a variabilidade da prole a um único genótipo, o que dispensa a análise estatística do número de descendentes",
+        "d": "o cruzamento entre um dominante e um recessivo sempre produz proporção 3:1, padrão que identifica de imediato a homozigose do reprodutor testado",
+        "e": "fêmeas brancas apresentam maior número de filhotes por gestação, o que aumenta a confiabilidade estatística do resultado obtido no teste"
+      },
+      "resposta": "b",
+      "explicacao": "A fêmea branca é homozigota recessiva e só pode doar o alelo recessivo. Assim, o fenótipo de cada filhote depende exclusivamente do alelo que veio do macho: filhote branco denuncia um gameta recessivo e, portanto, macho heterozigoto. A armadilha é (a), que supõe uma neutralização inexistente entre alelos: o recessivo não anula o dominante, ele apenas não mascara nada. A proporção 3:1 citada em (d) aparece no cruzamento entre dois heterozigotos, não em um cruzamento-teste.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-153",
+      "texto_apoio": "Em uma planta ornamental, a altura alta (A) domina sobre a baixa (a) e a flor roxa (R) domina sobre a branca (r). Os dois genes situam-se em cromossomos diferentes. Duas plantas di-híbridas foram cruzadas entre si e o cruzamento originou 640 descendentes.",
+      "enunciado": "O número esperado de plantas baixas e de flor branca entre esses 640 descendentes é de:",
+      "alternativas": {
+        "a": "10, valor obtido ao se considerar que cada gene contribui independentemente com 1/8 para o fenótipo duplo-recessivo",
+        "b": "20, correspondente à metade da fração duplo-recessiva prevista pela segunda lei de Mendel para genes não ligados",
+        "c": "40, correspondente à classe duplo-recessiva aarr, que representa 1/16 do total de descendentes obtidos no cruzamento",
+        "d": "120, número que corresponde à classe fenotípica formada pelas plantas que exibem apenas um dos caracteres recessivos",
+        "e": "160, resultado de se atribuir a cada um dos dois caracteres recessivos uma frequência independente de 1/2 na descendência"
+      },
+      "resposta": "c",
+      "explicacao": "AaRr x AaRr dá 9 A_R_ : 3 A_rr : 3 aaR_ : 1 aarr. A classe baixa e branca é aarr, ou seja, 1/16 do total: 640/16 = 40. Também se chega ao mesmo valor multiplicando as probabilidades independentes: 1/4 (aa) x 1/4 (rr) = 1/16. A armadilha é (e): quem usa 1/2 para cada caráter recessivo confunde a proporção de gametas com a de descendentes e chega a 1/4 do total, 160. Já 120 (d) corresponde a cada uma das classes 3/16, com um só caráter recessivo.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-154",
+      "texto_apoio": "Dois genes de segregação independente determinam, em uma espécie vegetal, a forma da semente (lisa L dominante sobre rugosa l) e a cor do tegumento (escuro E dominante sobre claro e). Um cruzamento entre duas plantas produziu descendentes nas seguintes proporções: 3 lisas e escuras : 3 lisas e claras : 1 rugosa e escura : 1 rugosa e clara.",
+      "enunciado": "Os genótipos das plantas parentais desse cruzamento são:",
+      "alternativas": {
+        "a": "LlEe x Llee, combinação que produz 3:1 para a forma da semente e 1:1 para a cor do tegumento na descendência",
+        "b": "LlEe x LlEe, cruzamento entre di-híbridos que constitui a base experimental da segunda lei de Mendel",
+        "c": "LlEe x llee, cruzamento-teste que permite estimar diretamente a frequência dos gametas produzidos pela planta di-híbrida",
+        "d": "LLEe x Llee, combinação em que a homozigose dominante de um dos parentais uniformiza o caráter forma da semente",
+        "e": "Llee x llEe, cruzamento em que cada parental é heterozigoto para um gene diferente e homozigoto recessivo para o outro"
+      },
+      "resposta": "a",
+      "explicacao": "Convém decompor a proporção gene a gene. Para a forma: 6 lisas : 2 rugosas, ou seja, 3:1, padrão de Ll x Ll. Para a cor: 4 escuras : 4 claras, ou seja, 1:1, padrão de Ee x ee. Combinando, os parentais são LlEe e Llee. A armadilha é (b): a proporção 3:3:1:1 é frequentemente confundida com a 9:3:3:1, que só apareceria se os dois genes estivessem em heterozigose nos dois parentais. Já (c) produziria 1:1:1:1.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "biologia-155",
+      "texto_apoio": "Na pelagem de uma raça canina, dois genes de segregação independente atuam sobre o mesmo caráter. O gene B determina a produção do pigmento preto (B) ou marrom (b). O gene E controla a deposição do pigmento no pelo: o alelo E permite a deposição, e o genótipo ee impede que qualquer pigmento seja depositado, resultando em pelagem dourada, independentemente do par B.",
+      "enunciado": "Do cruzamento entre dois cães de genótipo BbEe, a fração esperada de filhotes dourados é de:",
+      "alternativas": {
+        "a": "1/16, correspondente à combinação duplo-recessiva bbee, única capaz de impedir a deposição do pigmento no pelo",
+        "b": "3/16, fração que reúne os filhotes homozigotos recessivos para o gene da deposição e portadores de ao menos um alelo B",
+        "c": "1/8, valor obtido ao se dividir a frequência dos homozigotos ee pela quantidade de fenótipos possíveis no cruzamento",
+        "d": "9/16, proporção da classe que reúne os portadores de pelo menos um alelo dominante de cada um dos dois genes envolvidos",
+        "e": "1/4, fração correspondente aos genótipos ee, que impedem a deposição do pigmento qualquer que seja o par B do animal"
+      },
+      "resposta": "e",
+      "explicacao": "O fenótipo dourado depende apenas de ser ee, qualquer que seja o par B. Do cruzamento Ee x Ee, 1/4 da prole é ee, e a proporção final é 9 pretos : 3 marrons : 4 dourados. A armadilha está em (a): quem exige bbee para o dourado esqueceu que a epistasia de ee é dominante sobre a informação do gene B, isto é, o dourado inclui tanto BBee e Bbee quanto bbee. Somando essas três classes, 1+2+1 = 4 em 16, ou seja, 1/4.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "biologia-156",
+      "texto_apoio": "Em uma variedade de abóbora, a cor do fruto depende de dois genes com segregação independente. O alelo dominante I inibe a produção de pigmento e resulta em fruto branco, qualquer que seja o outro gene. Nos genótipos ii, o gene A determina fruto amarelo (A) ou verde (aa).",
+      "enunciado": "A proporção fenotípica esperada na descendência do cruzamento entre duas plantas IiAa é de:",
+      "alternativas": {
+        "a": "9 brancos : 3 amarelos : 4 verdes, padrão que corresponde à atuação de um alelo recessivo capaz de mascarar a expressão do outro gene",
+        "b": "9 brancos : 6 amarelos : 1 verde, resultado da ação aditiva dos dois genes sobre a intensidade do pigmento depositado no fruto",
+        "c": "9 brancos : 3 amarelos : 3 verdes : 1 branco, distribuição típica de dois genes independentes sem qualquer interação entre eles",
+        "d": "12 brancos : 3 amarelos : 1 verde, proporção em que basta um alelo I para o fruto ser branco e o gene A só se expressa nos frutos ii",
+        "e": "15 brancos : 1 verde, proporção esperada quando os dois genes produzem individualmente o mesmo efeito sobre a cor final do fruto"
+      },
+      "resposta": "d",
+      "explicacao": "Basta um alelo I para o fruto ser branco: as classes I_A_ (9/16) e I_aa (3/16) somam 12/16 de brancos. Entre os ii, que são 4/16, o gene A ainda se expressa e se distribui em 3 amarelos (iiA_) : 1 verde (iiaa). Daí 12:3:1, assinatura da epistasia dominante. A armadilha é (a): 9:3:4 é a proporção da epistasia recessiva, em que o mascaramento exige o genótipo em dose dupla, o contrário do descrito aqui.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "biologia-157",
+      "enunciado": "Na formulação atual da primeira lei de Mendel, os dois alelos de um par se separam durante a ______, de modo que cada gameta recebe ______ do par considerado; o evento citológico que corresponde a essa separação é ______. As lacunas são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "mitose – apenas um alelo – a separação das cromátides-irmãs na anáfase da divisão",
+        "b": "meiose – apenas um alelo – a separação dos cromossomos homólogos na anáfase I da primeira divisão",
+        "c": "meiose – os dois alelos – a separação das cromátides-irmãs na anáfase II da segunda divisão",
+        "d": "fecundação – apenas um alelo – o encontro entre os núcleos dos gametas masculino e feminino",
+        "e": "mitose – os dois alelos – a duplicação do material genético que antecede a divisão celular propriamente dita"
+      },
+      "resposta": "b",
+      "explicacao": "A segregação dos alelos ocorre na meiose, e o gameta é haploide: leva um único alelo de cada par. O correlato citológico é a separação dos homólogos na anáfase I, quando cada polo recebe um cromossomo de cada par. A armadilha está nas opções com anáfase II: ali se separam cromátides-irmãs, que carregam alelos idênticos entre si (salvo permuta), e portanto essa etapa não é a que separa os alelos de um par. A mitose, citada em (a) e (e), conserva os dois alelos na mesma célula.",
+      "formato": "lacunas"
+    },
+    {
+      "id": "biologia-158",
+      "texto_apoio": "Um casal em que ambos são heterozigotos para uma doença autossômica recessiva procura aconselhamento genético. O casal planeja ter três filhos e deseja saber a chance de que exatamente dois deles sejam afetados pela doença.",
+      "enunciado": "A probabilidade solicitada pelo casal é de:",
+      "alternativas": {
+        "a": "1/16, obtida ao se multiplicar a probabilidade de dois filhos afetados sem considerar o número de ordens possíveis de nascimento",
+        "b": "1/64, valor que corresponde à chance de os três filhos do casal serem afetados pela doença em questão",
+        "c": "9/64, valor que combina a probabilidade de cada nascimento com as três ordens possíveis para os dois filhos afetados",
+        "d": "3/64, resultado de se aplicar o fator combinatório apenas à probabilidade do filho não afetado do conjunto",
+        "e": "1/2, uma vez que o casal é heterozigoto e metade dos alelos que ele transmite corresponde à forma recessiva do gene"
+      },
+      "resposta": "c",
+      "explicacao": "Cada filho tem 1/4 de chance de ser afetado (aa) e 3/4 de não ser. Para exatamente dois afetados em três filhos há 3 ordens possíveis de nascimento, calculadas por C(3,2) = 3. Logo, 3 x (1/4) x (1/4) x (3/4) = 9/64. A armadilha é (a): quem responde 1/16 multiplicou 1/4 x 1/4 e esqueceu tanto o terceiro filho quanto o fator combinatório. Responder 1/2 (e) confunde a frequência de um alelo nos gametas com a probabilidade de um fenótipo na prole.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "biologia-159",
+      "texto_apoio": "O sistema ABO é determinado por três alelos de um mesmo gene. Os alelos IA e IB são codominantes entre si e ambos dominam sobre i. Em uma maternidade, uma mulher de sangue A, filha de mãe de sangue O, teve um filho com um homem de sangue B, também filho de mãe de sangue O.",
+      "enunciado": "A probabilidade de que a criança desse casal apresente sangue do tipo O é de:",
+      "alternativas": {
+        "a": "1/4",
+        "b": "1/2",
+        "c": "1/8",
+        "d": "zero",
+        "e": "3/4"
+      },
+      "resposta": "a",
+      "explicacao": "As mães de sangue O são ii e transmitiram i a cada um dos filhos: logo, a mulher é IAi e o homem, IBi, sem incerteza. Do cruzamento IAi x IBi saem IAIB, IAi, IBi e ii, em proporções iguais: 1/4 de tipo O. A armadilha é (b): para ser O a criança precisa receber i dos dois lados, e não de um só, de modo que as probabilidades se multiplicam, 1/2 x 1/2 = 1/4. A opção (d) ignora que pais com antígeno podem ser heterozigotos.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-160",
+      "texto_apoio": "Mendel formulou a segunda lei a partir de cruzamentos com sete caracteres da ervilha. Sabe-se hoje que essa espécie possui sete pares de cromossomos e que alguns dos genes estudados por ele estão situados no mesmo cromossomo, embora bastante afastados entre si.",
+      "enunciado": "A ressalva que a genética posterior impôs à segunda lei de Mendel é a de que a segregação independente:",
+      "alternativas": {
+        "a": "só se verifica em organismos diploides, deixando de valer sempre que a espécie considerada apresenta poliploidia em seu conjunto cromossômico",
+        "b": "vale apenas para caracteres cuja herança envolve dominância completa entre os alelos de cada um dos pares considerados",
+        "c": "deixa de valer quando o número de caracteres analisados simultaneamente ultrapassa o número de pares de cromossomos da espécie",
+        "d": "depende de os dois caracteres se manifestarem em fases diferentes do desenvolvimento do organismo, o que evita a interferência entre eles",
+        "e": "não se aplica a genes situados no mesmo cromossomo e próximos entre si, que tendem a migrar juntos na meiose e a ser herdados em bloco"
+      },
+      "resposta": "e",
+      "explicacao": "Genes no mesmo cromossomo estão ligados e tendem a migrar juntos na meiose; a permuta os separa com frequência tanto maior quanto maior a distância entre eles. Genes muito afastados recombinam-se tanto que se comportam como se fossem independentes, e foi essa a sorte de Mendel. A armadilha é (b): a segregação independente diz respeito à relação entre dois genes distintos e nada tem a ver com o tipo de dominância dentro de cada par.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-161",
+      "texto_apoio": "Três genes com segregação independente controlam caracteres distintos em uma espécie vegetal. Uma planta tri-híbrida, de genótipo AaBbCc, foi autofecundada.",
+      "enunciado": "A fração da descendência esperada com o genótipo aabbcc é de:",
+      "alternativas": {
+        "a": "1/8, obtida ao se atribuir a cada gene uma probabilidade de 1/2 para a condição homozigota recessiva na descendência",
+        "b": "1/64, produto das três frações independentes de homozigose recessiva esperadas na autofecundação do tri-híbrido AaBbCc",
+        "c": "1/16, valor que corresponderia à mesma pergunta formulada para apenas dois dos três genes considerados no cruzamento",
+        "d": "3/64, resultado de se multiplicar as frações recessivas de dois genes pela fração dominante do terceiro gene analisado",
+        "e": "1/27, proporção obtida ao se elevar ao cubo a fração de descendentes que apresenta o fenótipo recessivo de um dos genes"
+      },
+      "resposta": "b",
+      "explicacao": "Para genes independentes, as probabilidades se multiplicam. Cada autofecundação de heterozigoto produz 1/4 de homozigotos recessivos, e há três genes: (1/4) x (1/4) x (1/4) = 1/64. A armadilha é (a): 1/2 é a frequência do alelo recessivo nos gametas de um heterozigoto, e não a frequência do genótipo aa na prole, que exige o alelo vindo dos dois gametas. Já (e) troca a base 4 por 3, confundindo a proporção fenotípica 3:1 com a probabilidade genotípica.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-162",
+      "texto_apoio": "Ao apresentar seus resultados com ervilhas, Mendel propôs que cada caráter é determinado por um par de fatores que se separam na formação dos gametas e se reúnem ao acaso na fecundação. A base citológica desse comportamento só seria descrita décadas mais tarde.",
+      "enunciado": "Considere as afirmações a seguir sobre o trabalho de Mendel. I. A escolha da ervilha se justifica por ela permitir autofecundação e também cruzamentos controlados, o que possibilitou obter linhagens puras antes dos experimentos. II. A proporção 3:1 observada na geração F2 exige que os fatores se misturem no híbrido, produzindo um caráter de intensidade intermediária. III. O tratamento de grandes números de descendentes e a expressão dos resultados como proporções foram decisivos para que os padrões emergissem. Está correto o que se afirma em:",
+      "alternativas": {
+        "a": "I, apenas",
+        "b": "II, apenas",
+        "c": "I e II, apenas",
+        "d": "I e III, apenas",
+        "e": "I, II e III"
+      },
+      "resposta": "d",
+      "explicacao": "I é correta: a autofecundação permitiu obter linhagens puras e a possibilidade de polinização cruzada controlada permitiu os cruzamentos dirigidos. III é correta e é o ponto metodológico central: sem grandes amostras e sem tratamento quantitativo, as proporções não apareceriam. II é falsa e é justamente a armadilha, pois descreve a hipótese da herança por mistura, que Mendel refutou: o reaparecimento do caráter recessivo intacto em F2 mostra que os fatores permanecem íntegros no híbrido, sem se diluírem.",
+      "formato": "escada",
+      "dificuldade": "media"
+    },
+    {
+      "id": "biologia-163",
+      "texto_apoio": "Em uma espécie de planta ornamental, o cruzamento entre linhagens puras de flor vermelha e de flor branca produz descendentes de flor rosa. O cruzamento entre dois indivíduos de flor rosa produz descendentes vermelhos, rosas e brancos.",
+      "enunciado": "O padrão descrito caracteriza ______; na descendência do cruzamento entre dois indivíduos de flor rosa, a proporção fenotípica esperada é ______, e a proporção de plantas de flor rosa é ______. As lacunas são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "dominância completa – 3:1 – 3/4",
+        "b": "codominância – 1:2:1 – 1/4, correspondente à classe que expressa simultaneamente os dois alelos em regiões distintas da pétala",
+        "c": "ausência de dominância – 1:2:1 – 1/2, uma vez que as proporções genotípica e fenotípica coincidem nesse padrão de herança",
+        "d": "epistasia – 9:3:4 – 3/16, resultado do mascaramento de um dos genes envolvidos na produção do pigmento da flor",
+        "e": "herança quantitativa – 1:4:6:4:1 – 6/16, distribuição típica de caracteres determinados por vários genes de efeito somado"
+      },
+      "resposta": "c",
+      "explicacao": "O heterozigoto exibe fenótipo intermediário, o que caracteriza ausência de dominância. Aí as proporções fenotípica e genotípica coincidem: 1 vermelha : 2 rosas : 1 branca, ou seja, metade da prole é rosa. A armadilha é (b): na codominância os dois alelos se expressam integralmente e lado a lado, como no sangue AB ou na malhagem de bovinos ruões, e não em um fenótipo intermediário homogêneo como o rosa. A opção (a) aplicaria dominância completa, que não produziria a classe intermediária.",
+      "formato": "lacunas",
+      "dificuldade": "media"
+    },
+    {
+      "id": "biologia-164",
+      "texto_apoio": "Em uma espécie animal, o gene P determina pelo curto (P) ou longo (p) e o gene M determina orelha ereta (M) ou caída (m). Os dois genes estão em cromossomos diferentes. Um indivíduo di-híbrido foi cruzado com outro de pelo longo e orelha caída.",
+      "enunciado": "Sobre a descendência desse cruzamento, é correto afirmar que apresentará:",
+      "alternativas": {
+        "a": "quatro fenótipos em proporções iguais, refletindo os quatro tipos de gameta produzidos pelo di-híbrido em igual frequência",
+        "b": "quatro fenótipos na proporção 9:3:3:1, resultado esperado sempre que dois genes independentes segregam em um mesmo cruzamento",
+        "c": "dois fenótipos na proporção 3:1, já que o parental duplo-recessivo não contribui com variação para a descendência",
+        "d": "três fenótipos na proporção 1:2:1, distribuição que reproduz na prole as classes genotípicas do parental di-híbrido",
+        "e": "um único fenótipo, uniforme, pois o parental di-híbrido transmite pelo menos um alelo dominante de cada gene a todos os descendentes"
+      },
+      "resposta": "a",
+      "explicacao": "PpMm produz quatro gametas equiprováveis: PM, Pm, pM e pm. O parental ppmm só produz pm, que não mascara nada. Cada descendente exibe, portanto, o fenótipo correspondente ao gameta recebido do di-híbrido, e as quatro classes saem em 1:1:1:1. A armadilha é (b): 9:3:3:1 exigiria di-hibridismo nos dois parentais. A opção (e) esquece que metade dos gametas do di-híbrido carrega o alelo recessivo de cada gene.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-165",
+      "texto_apoio": "A expressão dos antígenos A e B nas hemácias depende de uma substância precursora, a substância H, produzida sob comando do alelo dominante H. Indivíduos hh não produzem essa substância e, por isso, não expressam antígeno A nem B, ainda que possuam os alelos IA ou IB. Nas tipagens de rotina, esses indivíduos são classificados como sangue O. Em um serviço de hemoterapia, uma mulher tipada como O e um homem tipado como O tiveram um filho de sangue AB.",
+      "enunciado": "A explicação compatível com esse resultado é a de que:",
+      "alternativas": {
+        "a": "houve mutação em um dos gametas parentais, evento que gerou simultaneamente os dois alelos codominantes ausentes nos progenitores",
+        "b": "o filho recebeu o alelo IA de um progenitor e o alelo IB do outro, sendo ambos os progenitores heterozigotos Hh e portadores de um alelo codominante cada",
+        "c": "os antígenos A e B do filho têm origem materna e foram transferidos pela placenta durante a gestação, não constando de seu genótipo",
+        "d": "a tipagem sanguínea dos progenitores foi feita antes da idade em que os antígenos eritrocitários passam a ser expressos no organismo humano",
+        "e": "ao menos um dos progenitores é hh e possui os alelos IA e IB sem expressá-los, transmitindo um deles ao filho, que recebeu do outro progenitor o alelo restante e ao menos um alelo H"
+      },
+      "resposta": "e",
+      "explicacao": "O genótipo hh mascara o gene ABO: é epistasia recessiva. Um progenitor hh IAIB é tipado como O, mas transmite IA ou IB normalmente; para o filho ser AB, ele precisa receber o outro alelo codominante do segundo progenitor, também hh, e receber ao menos um alelo H para expressar os antígenos. A armadilha é (b), que exige progenitores Hh: quem é Hh produz substância H e seria tipado como A, B ou AB, e não como O. A alternativa (a) recorre a uma mutação dupla e dirigida, evento sem plausibilidade.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "biologia-166",
+      "texto_apoio": "Um casal heterozigoto para uma doença autossômica recessiva de manifestação precoce pretende ter quatro filhos.",
+      "enunciado": "A probabilidade de que ao menos um dos quatro filhos seja afetado pela doença é de:",
+      "alternativas": {
+        "a": "175/256, valor obtido pelo cálculo complementar da probabilidade de nenhum dos quatro filhos do casal vir a ser afetado",
+        "b": "81/256, valor que corresponde à probabilidade de nenhum dos quatro filhos vir a ser afetado pela doença considerada",
+        "c": "1/256, resultado que expressa a chance de todos os quatro filhos do casal apresentarem o genótipo homozigoto recessivo",
+        "d": "1, uma vez que o casal, sendo heterozigoto, necessariamente terá um filho afetado antes de completar quatro descendentes",
+        "e": "1/4, probabilidade que se mantém constante para cada filho e que, por isso, também vale para o conjunto dos quatro"
+      },
+      "resposta": "a",
+      "explicacao": "Calcular ao menos um pelo caminho direto exigiria somar quatro casos. É mais econômico calcular o complementar: a chance de nenhum filho ser afetado é (3/4)^4 = 81/256, e a resposta é 1 - 81/256 = 175/256. A armadilha é (e): a probabilidade de 1/4 vale para cada filho isoladamente, e eventos independentes não se somam nem se transferem ao conjunto. Já (d) comete o erro clássico de tratar a proporção mendeliana como uma cota que precisa se cumprir dentro da família.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "biologia-167",
+      "enunciado": "Quando um gene interfere na expressão de outro, não alélico, o fenômeno é chamado ______. A proporção fenotípica 9:3:4, obtida no cruzamento entre dois di-híbridos, indica que a interferência é do tipo ______, isto é, exige que o gene inibidor esteja ______. As lacunas são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "pleiotropia – dominante – presente em dose simples no genótipo do indivíduo considerado",
+        "b": "polialelia – recessiva – acompanhado de outro alelo da mesma série gênica no par de cromossomos homólogos",
+        "c": "epistasia – recessiva – em homozigose, condição em que a classe de 3 se soma à de 1 e forma a classe de 4",
+        "d": "epistasia – dominante – em homozigose, condição sem a qual o mascaramento do outro gene não chega a se manifestar",
+        "e": "codominância – recessiva – ausente do genótipo, o que permite a expressão simultânea dos dois alelos do outro gene"
+      },
+      "resposta": "c",
+      "explicacao": "Epistasia é a interferência de um gene sobre outro não alélico. A proporção 9:3:4 revela que uma das classes de 3 se fundiu com a de 1, e essa fusão de 3+1 = 4 corresponde aos genótipos homozigotos recessivos do gene epistático: por isso, epistasia recessiva. A armadilha é (d): a epistasia dominante produz 12:3:1, pois a classe de 9 se funde com uma de 3. Já pleiotropia, citada em (a), é um só gene afetando vários caracteres, o caso oposto ao descrito.",
+      "formato": "lacunas",
+      "dificuldade": "media"
+    },
+    {
+      "id": "biologia-168",
+      "texto_apoio": "O albinismo oculocutâneo tem, em sua forma mais comum, herança autossômica recessiva. Um casal de pigmentação normal teve um primeiro filho albino e procurou aconselhamento genético antes de uma segunda gestação.",
+      "enunciado": "A probabilidade de que o segundo filho do casal seja uma menina de pigmentação normal é de:",
+      "alternativas": {
+        "a": "1/4, obtida ao se considerar apenas os descendentes de pigmentação normal que sejam também homozigotos para o gene em questão",
+        "b": "3/8, resultado de se combinar a fração de descendentes de pigmentação normal com a probabilidade de nascer uma menina",
+        "c": "1/2, uma vez que a determinação do sexo é o único fator ainda indeterminado depois do nascimento do primeiro filho albino",
+        "d": "3/4, correspondente à fração de descendentes de pigmentação normal esperada no cruzamento entre os dois progenitores",
+        "e": "1/8, valor que resulta de se exigir simultaneamente a homozigose dominante para o gene e o sexo feminino no segundo filho"
+      },
+      "resposta": "b",
+      "explicacao": "O filho albino é aa e recebeu um alelo de cada progenitor: ambos são obrigatoriamente Aa. Do cruzamento Aa x Aa, 3/4 da prole tem pigmentação normal. O sexo é independente e vale 1/2. Logo, 3/4 x 1/2 = 3/8. A armadilha é (d): quem para em 3/4 esqueceu de incorporar a condição de sexo pedida no enunciado. Já (a) e (e) confundem pigmentação normal com homozigose dominante, mas o fenótipo normal reúne AA e Aa.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-169",
+      "texto_apoio": "Considere a genealogia a seguir, referente a uma anomalia humana. Geração I: o casal formado por I-1, homem sem a anomalia, e I-2, mulher sem a anomalia. Geração II: esse casal teve tres filhos, na ordem II-1, homem com a anomalia; II-2, mulher com a anomalia; e II-3, mulher sem a anomalia. Nenhum outro membro da familia apresenta a anomalia.",
+      "enunciado": "O padrão de herança compatível com essa genealogia é:",
+      "alternativas": {
+        "a": "autossômica recessiva",
+        "b": "autossômica dominante",
+        "c": "recessiva ligada ao cromossomo X",
+        "d": "dominante ligada ao cromossomo X",
+        "e": "ligada ao cromossomo Y"
+      },
+      "resposta": "a",
+      "explicacao": "Pais sem a anomalia com filhos afetados indicam herança recessiva, o que descarta os padrões dominantes de (b) e (d). Para escolher entre autossômica e ligada ao X vale a mulher afetada II-2: se o alelo estivesse no X, ela seria homozigota e teria recebido um alelo mutado de cada progenitor, o que obrigaria o pai I-1, que tem um único X, a manifestar a anomalia. Como I-1 é normal, a hipótese ligada ao X de (c) cai, e resta a autossômica recessiva.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "biologia-170",
+      "texto_apoio": "Genealogia de uma condição autossômica dominante de manifestação plena. Geração I: I-1, homem afetado, casado com I-2, mulher não afetada. Geração II: o casal teve II-1, mulher afetada, e II-2, homem não afetado. II-1 casou-se com II-3, homem não afetado. Geração III: o casal II-1 x II-3 já tem duas crianças, III-1, menina afetada, e III-2, menino não afetado, e espera a terceira.",
+      "enunciado": "A probabilidade de que a criança que o casal II-1 x II-3 espera seja uma menina afetada é de:",
+      "alternativas": {
+        "a": "1/2, correspondente à chance de a criança herdar o alelo dominante de sua mãe, único progenitor que o possui no casal",
+        "b": "1/8, resultado de se exigir simultaneamente a heterozigose materna, a transmissão do alelo dominante e o sexo feminino",
+        "c": "1/4, resultado de se combinar a chance de transmissão do alelo dominante pela mãe com a de nascimento de uma menina",
+        "d": "3/4, valor que reúne as crianças afetadas de ambos os sexos e as meninas não afetadas do casal considerado",
+        "e": "zero, pois a mulher II-1 já transmitiu o alelo dominante à filha III-1 e não voltará a transmiti-lo aos demais descendentes"
+      },
+      "resposta": "c",
+      "explicacao": "II-1 é afetada e teve um filho não afetado, III-2: logo ela é heterozigota, pois um homozigoto dominante só geraria descendentes afetados nesse casamento. Do cruzamento Aa x aa, metade da prole é afetada. O sexo é evento independente e vale 1/2. Portanto 1/2 x 1/2 = 1/4. A armadilha é (a): quem responde 1/2 calculou apenas a transmissão do alelo e ignorou a exigência de sexo feminino. Já (e) trata a herança como cota que se esgota, quando cada gestação é um evento independente.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-171",
+      "texto_apoio": "Genealogia de uma família com hemofilia A, doença recessiva ligada ao cromossomo X. Geração I: I-1, homem hemofílico, casado com I-2, mulher sem a doença e sem antecedentes familiares dela. Geração II: o casal teve II-1, mulher sem a doença, que se casou com II-2, homem sem a doença. Geração III: o casal II-1 x II-2 teve III-1, menino hemofílico, e III-2, menina sem a doença.",
+      "enunciado": "Sobre o genótipo da mulher II-1 e a origem do alelo recebido por III-1, é correto afirmar que ela é:",
+      "alternativas": {
+        "a": "homozigota para o alelo normal, e o alelo da doença surgiu em III-1 por mutação nova ocorrida durante a gametogênese de seu pai",
+        "b": "hemizigota para o alelo normal, condição que explica por que a doença não se manifestou nela apesar de ela ser filha de um homem hemofílico",
+        "c": "heterozigota, e o alelo da doença chegou a III-1 por meio de seu pai II-2, portador assintomático do alelo em um de seus cromossomos X",
+        "d": "heterozigota obrigatória, tendo recebido o alelo da doença do pai I-1, que tem um único X, e transmitido esse mesmo alelo ao filho III-1",
+        "e": "portadora de uma alteração no cromossomo Y herdada do avô materno, transmitida a III-1 e sem efeito visível nas mulheres da família"
+      },
+      "resposta": "d",
+      "explicacao": "Um homem hemofílico tem um único X, e ele carrega o alelo da doença; esse X vai obrigatoriamente para todas as suas filhas. Logo II-1 é heterozigota necessariamente, mesmo sem manifestar a doença, e foi dela que veio o X afetado de III-1. A armadilha é (c): homens não são portadores assintomáticos em herança ligada ao X, pois, sendo hemizigotos, qualquer alelo do X se manifesta neles. A opção (b) usa o termo hemizigoto, que se aplica aos homens, não às mulheres.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-172",
+      "texto_apoio": "Genealogia referente ao daltonismo, condição recessiva ligada ao cromossomo X. Geração I: I-1, homem daltônico, casado com I-2, mulher de visão normal e homozigota para o alelo normal. Geração II: o casal teve uma única filha, II-1, de visão normal, que se casou com II-2, homem daltônico.",
+      "enunciado": "Nessa família, a herança em questão é ______; o genótipo da mulher II-1 é necessariamente ______; e a probabilidade de que uma filha do casal II-1 x II-2 seja daltônica é ______. As lacunas são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "autossômica recessiva – homozigota recessiva – 1/4",
+        "b": "recessiva ligada ao X – heterozigota – 1/2, pois metade das filhas recebe da mãe o X com o alelo",
+        "c": "recessiva ligada ao X – homozigota dominante – zero",
+        "d": "dominante ligada ao X – heterozigota – 3/4, uma vez que basta um alelo para que a condição se manifeste nas descendentes do sexo feminino",
+        "e": "ligada ao Y – hemizigota – 1/2, dado que o alelo se transmite pela linhagem paterna a metade dos descendentes de cada geração"
+      },
+      "resposta": "b",
+      "explicacao": "II-1 é filha de pai daltônico e recebeu dele o único X que ele possui, com o alelo do daltonismo; da mãe homozigota normal recebeu o alelo normal. Logo é heterozigota obrigatória. No casamento com um homem daltônico, as filhas recebem do pai um X com o alelo do daltonismo e da mãe um X que tem 1/2 de chance de trazer o mesmo alelo: 1/2 das filhas são daltônicas. A armadilha é (c): supor II-1 homozigota dominante ignora que o pai daltônico transmite obrigatoriamente seu X a todas as filhas.",
+      "formato": "lacunas",
+      "dificuldade": "media"
+    },
+    {
+      "id": "biologia-173",
+      "texto_apoio": "Genealogia de uma família em que se investiga uma doença metabólica rara. Geração I: dois casais não aparentados entre si, I-1 x I-2 e I-3 x I-4, nenhum deles afetado. Geração II: do primeiro casal nasceu II-1, homem não afetado; do segundo, II-2, mulher não afetada. II-1 e II-2 são primos em primeiro grau por parte de mãe e casaram-se entre si. Geração III: o casal II-1 x II-2 teve III-1, menino afetado, e III-2, menina não afetada.",
+      "enunciado": "A presença de consanguinidade nessa genealogia reforça a hipótese de herança autossômica recessiva porque:",
+      "alternativas": {
+        "a": "o parentesco entre os cônjuges aumenta a taxa de mutação nas células germinativas, elevando a chance de surgirem alelos deletérios novos",
+        "b": "casamentos consanguíneos favorecem a expressão de alelos dominantes raros, que de outra forma permaneceriam ocultos na população geral",
+        "c": "a proximidade genética entre os cônjuges impede a segregação independente dos alelos durante a formação dos gametas de ambos",
+        "d": "o parentesco reduz o número de descendentes por casal, o que torna estatisticamente mais provável o aparecimento de fenótipos raros",
+        "e": "primos compartilham ancestrais comuns e, com eles, alelos raros, o que eleva a chance de um descendente receber duas cópias do mesmo alelo recessivo"
+      },
+      "resposta": "e",
+      "explicacao": "Alelos recessivos raros circulam em heterozigose sem se manifestar. Como primos herdaram parte de seus alelos dos mesmos avós, a chance de os dois carregarem a mesma versão rara é muito maior do que entre pessoas sem parentesco, e é essa coincidência que produz o homozigoto afetado. A armadilha é (a): a consanguinidade não cria mutações, apenas reúne em homozigose alelos que já existiam na família. E (b) inverte a lógica, pois alelo dominante raro se manifesta em heterozigose e não depende de consanguinidade alguma.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-174",
+      "texto_apoio": "Genealogia de uma condição rara acompanhada em três gerações. Geração I: I-1, homem afetado, casado com I-2, mulher não afetada. Geração II: o casal teve quatro filhos, II-1 e II-2, mulheres, ambas afetadas, e II-3 e II-4, homens, nenhum deles afetado. Geração III: II-1 casou-se com um homem não afetado e teve III-1, menino afetado, e III-2, menina não afetada.",
+      "enunciado": "O padrão de herança compatível com todos os dados dessa genealogia é:",
+      "alternativas": {
+        "a": "dominante ligada ao cromossomo X, padrão em que o pai afetado transmite a condição a todas as filhas e a nenhum dos filhos",
+        "b": "recessiva ligada ao cromossomo X, o que explicaria a ausência da condição entre os filhos homens do casal I-1 x I-2",
+        "c": "autossômica dominante, padrão sugerido pela presença da condição em todas as gerações analisadas da família descrita",
+        "d": "autossômica recessiva, hipótese apoiada pelo fato de a mulher I-2 não manifestar a condição transmitida às duas filhas do casal",
+        "e": "ligada ao cromossomo Y, uma vez que o homem afetado I-1 aparece na origem de toda a linhagem em que a condição se manifesta"
+      },
+      "resposta": "a",
+      "explicacao": "A chave está na prole de I-1: todas as filhas afetadas, nenhum filho afetado. Isso é a assinatura da herança dominante ligada ao X, pois o pai transmite seu único X a todas as filhas e o Y a todos os filhos. A armadilha é (c): a herança autossômica dominante também apareceria em todas as gerações, mas atingiria filhos e filhas em proporções semelhantes, e não separaria os sexos de modo tão limpo. A opção (e) cai porque a condição atinge mulheres, o que é incompatível com um gene do Y.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "biologia-175",
+      "texto_apoio": "Genealogia referente à fenilcetonúria, doença autossômica recessiva. Geração I: I-1, homem não afetado, casado com I-2, mulher não afetada. Geração II: o casal teve três filhos, II-1, homem afetado, II-2, mulher não afetada, e II-3, homem não afetado.",
+      "enunciado": "A probabilidade de que a mulher II-2 seja heterozigota para o alelo da fenilcetonúria é de:",
+      "alternativas": {
+        "a": "1/4, correspondente à fração de heterozigotos prevista para o conjunto completo da descendência do casal I-1 x I-2",
+        "b": "1/2, valor que corresponde à chance de ela ter recebido o alelo mutado de um dos dois progenitores heterozigotos",
+        "c": "2/3, proporção de heterozigotos recalculada entre os três genótipos compatíveis com o fenótipo não afetado de II-2",
+        "d": "1, uma vez que ambos os progenitores são heterozigotos e transmitem o alelo mutado a todos os seus descendentes",
+        "e": "zero, pois o alelo mutado dos dois progenitores já se reuniu no irmão afetado II-1 e não está disponível para os demais filhos"
+      },
+      "resposta": "c",
+      "explicacao": "Do cruzamento Aa x Aa saem 1 AA : 2 Aa : 1 aa. A informação de que II-2 não é afetada elimina a classe aa, e a probabilidade deve ser recalculada dentro do grupo restante: 2 Aa em 3 indivíduos, ou seja, 2/3. A armadilha é (b): quem responde 1/2 usou a proporção de heterozigotos sobre a descendência inteira, sem descontar a informação fenotípica já conhecida. Esse recálculo condicional é exatamente o que faz a diferença nos cálculos de aconselhamento genético.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "biologia-176",
+      "texto_apoio": "Prosseguindo a análise da mesma família da fenilcetonúria: a mulher II-2, não afetada e irmã de um homem afetado, pretende ter filhos com II-4, homem não afetado que, por já ter tido um filho afetado em união anterior, sabe-se heterozigoto para o mesmo alelo.",
+      "enunciado": "A probabilidade de que o primeiro filho do casal II-2 x II-4 seja afetado pela doença é de:",
+      "alternativas": {
+        "a": "1/4, valor que corresponderia ao cruzamento entre dois heterozigotos comprovados para o alelo em questão",
+        "b": "2/3, fração que expressa apenas a chance de a mulher II-2 ser portadora do alelo recessivo da doença",
+        "c": "1/12, resultado de se multiplicar a chance de heterozigose materna pela probabilidade de transmissão de um único gameta recessivo",
+        "d": "1/6, produto da chance de a mulher II-2 ser heterozigota pela chance de o filho do casal ser homozigoto recessivo",
+        "e": "1/2, uma vez que o pai é heterozigoto comprovado e metade de seus gametas carrega o alelo recessivo da doença"
+      },
+      "resposta": "d",
+      "explicacao": "São dois eventos encadeados. Primeiro, II-2 precisa ser heterozigota, o que tem probabilidade 2/3, calculada entre os irmãos não afetados. Segundo, dado que os dois pais sejam Aa, o filho precisa ser aa, o que tem probabilidade 1/4. Multiplicando: 2/3 x 1/4 = 1/6. A armadilha é (a): quem responde 1/4 tratou II-2 como heterozigota certa, quando ela é apenas provavelmente heterozigota. Já (b) para no primeiro fator e esquece a segregação.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "biologia-177",
+      "texto_apoio": "Genealogia de uma característica observada em quatro gerações de uma família. Em todas elas, apenas homens apresentam a característica. Todo homem que a apresenta tem pai que também a apresenta, e todos os filhos homens de um homem afetado são igualmente afetados. Nenhuma mulher da família, em nenhuma geração, apresenta a característica, e as filhas de homens afetados nunca geraram descendentes afetados.",
+      "enunciado": "O padrão descrito indica que o gene responsável pela característica está localizado:",
+      "alternativas": {
+        "a": "em um autossomo, com expressão limitada ao sexo masculino por influência dos hormônios androgênicos produzidos após a puberdade",
+        "b": "na região exclusiva do cromossomo Y, transmitida de pai para todos os filhos homens e ausente na linhagem das filhas",
+        "c": "na região do cromossomo X que não tem correspondente no Y, com manifestação restrita aos indivíduos hemizigotos para o alelo",
+        "d": "em um autossomo, com herança dominante e penetrância reduzida a zero em todos os indivíduos do sexo feminino da família",
+        "e": "no DNA mitocondrial, transmitido pelo gameta de maior volume citoplasmático a toda a descendência de cada geração"
+      },
+      "resposta": "b",
+      "explicacao": "Transmissão exclusiva de pai para todos os filhos homens, sem nenhuma mulher afetada e sem qualquer descendente afetado pela linha das filhas, é a assinatura da herança holândrica, restrita à porção exclusiva do Y. A armadilha é (c): na herança recessiva ligada ao X, homens afetados também predominam, mas o alelo passa pelas filhas e reaparece nos netos por via materna, exatamente o que a genealogia exclui. Já (e) descreveria transmissão materna, e a mitocôndria vem do óvulo, não do espermatozoide.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-178",
+      "texto_apoio": "Genealogia de uma doença que compromete a produção de energia celular. Geração I: I-1, mulher afetada, casada com I-2, homem não afetado. Geração II: todos os quatro filhos do casal, de ambos os sexos, são afetados. Um deles, II-3, homem afetado, casou-se com II-4, mulher não afetada. Geração III: nenhum dos três filhos do casal II-3 x II-4, de ambos os sexos, é afetado.",
+      "enunciado": "O padrão observado é compatível com uma doença determinada por genes localizados:",
+      "alternativas": {
+        "a": "no cromossomo X",
+        "b": "em autossomos, em herança dominante com penetrância completa",
+        "c": "no cromossomo Y",
+        "d": "em autossomos, em herança recessiva",
+        "e": "no DNA mitocondrial"
+      },
+      "resposta": "e",
+      "explicacao": "Mulher afetada transmite a doença a todos os filhos, homens e mulheres; homem afetado não transmite a nenhum. Esse é o padrão da herança mitocondrial, pois as mitocôndrias do zigoto vêm do citoplasma do óvulo. A armadilha é (a): a herança dominante ligada ao X também faz a mãe afetada transmitir a filhos e filhas, mas um pai afetado transmitiria a doença a todas as suas filhas, o que a genealogia expressamente nega ao mostrar a prole de II-3 inteiramente livre.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "biologia-179",
+      "enunciado": "Na convenção usada em heredogramas, o casamento entre indivíduos aparentados é representado por ______. Esse tipo de união eleva a probabilidade de ______ e, por isso, aparece com frequência desproporcional nas genealogias de doenças ______. As lacunas são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "uma linha horizontal dupla entre os cônjuges – um descendente receber duas cópias de um mesmo alelo herdado de um ancestral comum – autossômicas recessivas",
+        "b": "um losango entre os cônjuges – ocorrência de mutações novas nas células germinativas dos dois membros do casal – autossômicas dominantes",
+        "c": "um círculo preenchido pela metade – os descendentes apresentarem alterações no número de cromossomos – ligadas ao cromossomo Y",
+        "d": "uma linha horizontal dupla entre os cônjuges – os alelos deletérios de um dos cônjuges serem eliminados na descendência – dominantes ligadas ao X",
+        "e": "uma seta apontando para o casal – os descendentes herdarem apenas alelos de origem materna – de herança mitocondrial"
+      },
+      "resposta": "a",
+      "explicacao": "A linha dupla é a convenção para consanguinidade. Seu efeito genético é aumentar a homozigose por descendência: o mesmo alelo raro, presente num ancestral comum, chega ao descendente por dois caminhos. Por isso as genealogias de doenças autossômicas recessivas raras concentram uniões consanguíneas. A armadilha é (b): a consanguinidade não altera a taxa de mutação, e doenças dominantes se manifestam em heterozigose, sem nenhuma vantagem de detecção nesses casamentos. O losango, na convenção, indica sexo não informado.",
+      "formato": "lacunas"
+    },
+    {
+      "id": "biologia-180",
+      "texto_apoio": "Genealogia de uma condição autossômica dominante de penetrância completa. Geração I: I-1, homem afetado, casado com I-2, mulher não afetada. Geração II: o casal teve II-1, mulher afetada, II-2, homem não afetado, e II-3, mulher não afetada.",
+      "enunciado": "Sobre o genótipo dos indivíduos dessa genealogia, é correto afirmar que:",
+      "alternativas": {
+        "a": "I-1 é homozigoto dominante, pois transmitiu a condição a uma descendente do sexo feminino sem manifestá-la de forma atenuada",
+        "b": "II-2 e II-3 são heterozigotos, condição que explica por que não manifestam a doença apesar de terem um progenitor afetado",
+        "c": "I-1 é necessariamente heterozigoto, e II-2 e II-3 são homozigotos recessivos, já que a penetrância da condição é completa",
+        "d": "II-1 é homozigota dominante, uma vez que herdou o alelo da doença de seu pai e o alelo normal de sua mãe não afetada",
+        "e": "I-2 é heterozigota para o alelo da doença, mas não o manifesta porque a penetrância da condição é nula no sexo feminino"
+      },
+      "resposta": "c",
+      "explicacao": "Em herança dominante com penetrância completa, quem não manifesta a doença não carrega o alelo: II-2 e II-3 são homozigotos recessivos, o que descarta (b). E como I-1 é afetado e gerou dois filhos não afetados, ele precisa ter transmitido o alelo normal a eles: logo é heterozigoto, e não homozigoto dominante como diz (a). A opção (d) esquece que a mãe não afetada só pode ter dado a II-1 o alelo normal, o que a torna obrigatoriamente heterozigota.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-181",
+      "texto_apoio": "Genealogia relativa ao daltonismo. Uma mulher de visão normal, cuja mãe também tinha visão normal e cujo pai era daltônico, casou-se com um homem de visão normal. O casal planeja ter filhos.",
+      "enunciado": "A probabilidade de que esse casal venha a ter uma filha daltônica é de:",
+      "alternativas": {
+        "a": "1/2",
+        "b": "1/4",
+        "c": "1/8",
+        "d": "zero",
+        "e": "1"
+      },
+      "resposta": "d",
+      "explicacao": "A mulher é heterozigota obrigatória, pois recebeu do pai daltônico o único X dele. Mas uma filha só é daltônica se receber o alelo mutado nos dois X, e o pai, de visão normal, transmite a todas as filhas um X com o alelo normal. Logo nenhuma filha do casal será daltônica: a probabilidade é zero. A armadilha é (b): quem responde 1/4 calculou a transmissão materna e o sexo feminino, mas esqueceu que a filha recebe também um X do pai, o que é decisivo em uma herança recessiva. Os filhos homens, esses sim, têm 1/2 de chance de ser daltônicos.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "biologia-182",
+      "texto_apoio": "Genealogia de uma anomalia rara. Geração I: I-1, homem não afetado, casado com I-2, mulher não afetada. Geração II: o casal teve II-1, homem afetado, e II-2, mulher não afetada. II-2 casou-se com II-3, homem não afetado e sem antecedentes familiares da anomalia. Geração III: o casal II-2 x II-3 teve III-1, menino afetado, e III-2, menina não afetada.",
+      "enunciado": "Considere as afirmações a seguir sobre essa genealogia. I. Os dados excluem definitivamente a hipótese de herança recessiva ligada ao cromossomo X. II. Os indivíduos I-1 e I-2 são obrigatoriamente heterozigotos, qualquer que seja a hipótese de localização do gene entre as compatíveis com a genealogia. III. Se a herança for autossômica recessiva, a probabilidade de o próximo filho do casal II-2 x II-3 ser afetado é de 1/4. Está correto o que se afirma em:",
+      "alternativas": {
+        "a": "I, apenas",
+        "b": "II, apenas",
+        "c": "I e III, apenas",
+        "d": "II e III, apenas",
+        "e": "I, II e III"
+      },
+      "resposta": "b",
+      "explicacao": "I é falsa: sem mulheres afetadas na genealogia, nada exclui a hipótese ligada ao X, que aliás explica bem os dois homens afetados descendendo de mulheres não afetadas. III também é falsa, e essa é a armadilha aritmética: 1/4 valeria se os dois cônjuges fossem heterozigotos comprovados, mas II-3 não tem antecedentes familiares e sua condição de portador é apenas possível, de modo que o risco calculado seria menor que 1/4. II é verdadeira: sendo o gene autossômico, I-1 e I-2 são Aa; sendo ligado ao X, I-2 é heterozigota e I-1 transmite seu Y ao filho afetado, e ambos permanecem não afetados como a genealogia exige.",
+      "formato": "escada",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "biologia-183",
+      "texto_apoio": "Genealogia de uma doença de herança autossômica dominante e manifestação na vida adulta. Geração I: I-1, homem afetado, casado com I-2, mulher não afetada. Geração II: o casal teve II-1, homem que viveu até os oitenta anos sem nunca manifestar a doença. II-1 casou-se com II-2, mulher não afetada e sem qualquer antecedente familiar da doença. Geração III: o casal II-1 x II-2 teve III-1, homem afetado, e III-2, mulher não afetada.",
+      "enunciado": "O fenômeno genético que melhor explica a situação do indivíduo II-1 é:",
+      "alternativas": {
+        "a": "a codominância, que faria o alelo da doença se expressar em II-1 de forma simultânea ao alelo normal e com intensidade reduzida à metade",
+        "b": "a pleiotropia, pela qual o mesmo alelo produziria em II-1 efeitos distintos dos observados em seu pai e em seu filho afetados",
+        "c": "o imprinting genômico integral, que teria apagado a informação do alelo em II-1 e a restaurado por completo em seu filho III-1",
+        "d": "uma mutação nova ocorrida em III-1, independente do alelo presente em seu avô I-1 e responsável pelo reaparecimento da doença",
+        "e": "a penetrância incompleta, pela qual II-1 possui o alelo da doença e o transmitiu ao filho sem tê-lo manifestado ao longo da vida"
+      },
+      "resposta": "e",
+      "explicacao": "A doença é dominante e reaparece em III-1, cuja mãe não tem antecedentes: o alelo veio pela linha paterna, ou seja, passou por II-1. Ele possui o alelo e não manifestou o fenótipo, o que define penetrância incompleta, a proporção de portadores que expressam a condição. A armadilha é (d): supor mutação nova em III-1 é possível em tese, mas exige um evento raro justamente na família em que o alelo já circula, hipótese muito menos econômica. Note que penetrância é diferente de expressividade variável, em que o portador manifesta a doença com intensidades diferentes.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "biologia-184",
+      "texto_apoio": "Genealogia referente a uma doença autossômica recessiva. Geração I: I-1, homem não afetado, casado com I-2, mulher afetada. Geração II: o casal teve II-1, mulher não afetada, e II-2, homem não afetado. II-1 casou-se com II-3, homem não afetado, filho de pais não afetados e irmão de uma mulher afetada.",
+      "enunciado": "Sobre o genótipo da mulher II-1, é correto afirmar que ela é:",
+      "alternativas": {
+        "a": "heterozigota com certeza, pois recebeu obrigatoriamente um alelo mutado de sua mãe afetada",
+        "b": "heterozigota com probabilidade de 2/3, valor que se aplica aos irmãos não afetados de qualquer indivíduo afetado pela doença",
+        "c": "homozigota dominante com certeza, uma vez que não manifesta a doença apesar de descender de uma mulher afetada por ela",
+        "d": "heterozigota com probabilidade de 1/2, correspondente à chance de ela ter recebido o alelo mutado de um de seus dois progenitores",
+        "e": "impossível de classificar sem que se conheça o genótipo do homem II-3 e o fenótipo dos filhos que o casal venha a ter"
+      },
+      "resposta": "a",
+      "explicacao": "A mãe I-2 é afetada, portanto homozigota recessiva, e só pode transmitir o alelo mutado a todos os seus descendentes. Como II-1 não manifesta a doença, ela recebeu o alelo normal do pai: é heterozigota com certeza, sem probabilidade envolvida. A armadilha é (b): o valor 2/3 vale para irmãos não afetados de um afetado quando os pais são ambos heterozigotos, situação diferente desta, em que um progenitor é homozigoto recessivo. É o caso do cônjuge II-3, e não de II-1.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "biologia-185",
+      "enunciado": "Em uma doença recessiva ligada ao cromossomo X, um homem afetado transmite o alelo da doença a ______; seus netos afetados descendem, portanto, ______; por esse motivo, o padrão é descrito como herança ______. As lacunas são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "todos os seus filhos homens – de seus filhos homens – holândrica",
+        "b": "metade de suas filhas e metade de seus filhos – tanto de filhos quanto de filhas – autossômica",
+        "c": "todas as suas filhas – de suas filhas, que são heterozigotas – cruzada",
+        "d": "nenhum de seus descendentes – de seu cônjuge exclusivamente – matrilinear",
+        "e": "todas as suas filhas e a metade de seus filhos homens – de ambos os sexos em igual proporção – intermediária"
+      },
+      "resposta": "c",
+      "explicacao": "O homem tem um único X e o entrega a todas as filhas; aos filhos homens ele passa o Y, e por isso nenhum filho recebe o alelo dele. As filhas, heterozigotas, transmitem o alelo à metade de seus próprios filhos, e é assim que a doença reaparece nos netos por via materna. O nome herança cruzada vem justamente desse vaivém entre os sexos. A armadilha é (a): quem responde filhos homens está aplicando ao X a lógica que só vale para o Y, e trocando herança cruzada por holândrica.",
+      "formato": "lacunas"
+    },
+    {
+      "id": "biologia-186",
+      "texto_apoio": "Genealogia de uma anomalia acompanhada em duas gerações. Geração I: I-1, homem afetado, casado com I-2, mulher afetada. Geração II: o casal teve quatro filhos, II-1, mulher não afetada, II-2, homem afetado, II-3, mulher afetada, e II-4, homem não afetado.",
+      "enunciado": "A partir dessa genealogia, a hipótese de herança que fica definitivamente excluída é a:",
+      "alternativas": {
+        "a": "autossômica dominante",
+        "b": "autossômica recessiva",
+        "c": "recessiva ligada ao cromossomo X",
+        "d": "dominante ligada ao cromossomo X",
+        "e": "ligada ao cromossomo Y"
+      },
+      "resposta": "d",
+      "explicacao": "Se a herança fosse dominante ligada ao X, o pai afetado I-1 transmitiria seu único X, com o alelo da doença, a todas as filhas, que seriam obrigatoriamente afetadas. Mas II-1 é uma filha não afetada, e isso derruba a hipótese. A herança ligada ao Y também cai, mas por outra razão: há mulheres afetadas. A armadilha é (a): dois afetados com filhos não afetados é justamente o esperado em herança autossômica dominante quando ambos são heterozigotos, cruzamento que produz 3 afetados : 1 não afetado, e não uma exclusão.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "biologia-187",
+      "texto_apoio": "A insulina usada no tratamento do diabetes era obtida, até os anos 1980, do pâncreas de bois e porcos. Hoje, a maior parte da insulina disponível na rede pública brasileira é produzida por bactérias que receberam o gene humano da insulina inserido em um plasmídeo.",
+      "enunciado": "A bactéria consegue produzir uma proteína humana funcional porque:",
+      "alternativas": {
+        "a": "o gene humano sofre, dentro da bactéria, adaptações em sua sequência de bases que o tornam compatível com a maquinaria do procarioto",
+        "b": "o código genético é praticamente universal, de modo que o mesmo códon especifica o mesmo aminoácido na bactéria e na célula humana, que montam a mesma proteína",
+        "c": "a bactéria incorpora o gene humano ao seu cromossomo principal, o que é condição para que qualquer sequência exógena seja transcrita",
+        "d": "as enzimas de restrição usadas na construção do plasmídeo permanecem ativas e convertem a proteína bacteriana em proteína humana",
+        "e": "os ribossomos bacterianos são substituídos por ribossomos humanos trazidos junto com o gene durante o procedimento de transformação"
+      },
+      "resposta": "b",
+      "explicacao": "A universalidade do código genético é o fundamento de toda a tecnologia do DNA recombinante: a bactéria lê o gene humano com seus próprios ribossomos e monta a mesma sequência de aminoácidos. A armadilha é (a): não há adaptação da sequência dentro da célula; quando se faz otimização de códons, ela é feita pelo pesquisador antes da inserção, e não pela bactéria. Nada em (e) ocorre, pois o plasmídeo carrega o gene, não a maquinaria de tradução.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-188",
+      "texto_apoio": "Plasmídeos são moléculas circulares de DNA presentes em bactérias, separadas do cromossomo bacteriano e capazes de se replicar de forma autônoma. Eles são amplamente usados como vetores em engenharia genética.",
+      "enunciado": "Para servir como vetor de clonagem, um plasmídeo precisa apresentar, além de uma origem de replicação:",
+      "alternativas": {
+        "a": "um conjunto completo de genes ribossomais, responsáveis por traduzir o gene de interesse depois de ele ser inserido na molécula",
+        "b": "uma sequência de centrômero, necessária para que a molécula seja distribuída corretamente entre as células-filhas na divisão",
+        "c": "telômeros em suas duas extremidades, estruturas que impedem a degradação progressiva da molécula a cada ciclo de replicação",
+        "d": "um gene que codifique transcriptase reversa, enzima que copia o gene de interesse para a forma que a bactéria é capaz de expressar",
+        "e": "sítios de reconhecimento para enzimas de restrição e um gene marcador de seleção, como o da resistência a um antibiótico do meio"
+      },
+      "resposta": "e",
+      "explicacao": "O sítio de restrição é onde o plasmídeo é aberto para receber o gene de interesse, e o marcador de seleção permite identificar, num meio com o antibiótico, quais bactérias efetivamente incorporaram o vetor. A armadilha está em (b) e (c): centrômeros e telômeros pertencem a cromossomos lineares de eucariotos, e o plasmídeo é circular e procariótico, de modo que não precisa de nenhum dos dois. A transcriptase reversa de (d) é usada in vitro, antes da clonagem, e não codificada pelo vetor.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-189",
+      "texto_apoio": "Ao clonar genes humanos em bactérias, pesquisadores frequentemente não usam a sequência extraída diretamente do genoma. Em vez disso, partem do RNA mensageiro maduro da célula humana e o convertem em DNA de fita dupla por meio da transcriptase reversa, obtendo o chamado cDNA.",
+      "enunciado": "Essa estratégia é adotada porque a bactéria:",
+      "alternativas": {
+        "a": "não realiza processamento do RNA e, portanto, não removeria os íntrons presentes no gene humano original",
+        "b": "não possui RNA polimerase capaz de transcrever sequências de DNA de origem eucariótica, o que exige o fornecimento do RNA já pronto",
+        "c": "degrada rapidamente qualquer molécula de DNA de fita simples, condição em que o gene humano se encontra no interior do núcleo",
+        "d": "só incorpora ao seu plasmídeo moléculas de DNA sintetizadas artificialmente, rejeitando sequências extraídas de células vivas",
+        "e": "necessita que o gene esteja acompanhado da cauda de poli-A do RNA mensageiro para reconhecer o ponto de início da tradução"
+      },
+      "resposta": "a",
+      "explicacao": "Genes eucarióticos têm íntrons, removidos no núcleo durante o splicing. A bactéria não dispõe desse maquinário, de modo que transcreveria e traduziria os íntrons junto e produziria uma proteína sem função. Como o RNA mensageiro maduro já teve os íntrons retirados, o cDNA feito a partir dele contém apenas os éxons. A armadilha é (b): a RNA polimerase bacteriana transcreve normalmente o DNA inserido, desde que ele esteja sob um promotor reconhecido por ela; o problema não é a transcrição, é o processamento.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "biologia-190",
+      "enunciado": "Na reação em cadeia da polimerase, cada ciclo começa com o aquecimento a cerca de 95 graus Celsius, etapa em que ocorre ______; segue-se o resfriamento, em que os iniciadores realizam ______; e por fim a temperatura sobe novamente para que a enzima promova ______. As lacunas são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "a quebra das ligações fosfodiéster da molécula – a ligação a proteínas do complexo de replicação – a união dos fragmentos obtidos",
+        "b": "a desnaturação das proteínas contaminantes da amostra – o reconhecimento da sequência de restrição – o corte do DNA em fragmentos",
+        "c": "a separação das duas fitas do DNA – o pareamento com as regiões que flanqueiam o trecho de interesse – a extensão das duas novas fitas",
+        "d": "a duplicação espontânea das fitas do DNA – a remoção dos íntrons da sequência amplificada – a tradução da sequência em proteína",
+        "e": "a separação das duas fitas do DNA – a remoção das bases mal pareadas do ciclo anterior – a transcrição reversa do produto obtido"
+      },
+      "resposta": "c",
+      "explicacao": "A alta temperatura rompe as pontes de hidrogênio entre as bases e separa as fitas, sem tocar nas ligações fosfodiéster do esqueleto, que são covalentes: aí está o erro de (a). No anelamento, os iniciadores pareiam com as extremidades que delimitam o trecho a ser copiado, e na extensão a Taq polimerase, resistente ao calor, sintetiza as novas fitas. A armadilha de (d) é imaginar tradução dentro do tubo: a PCR só amplifica DNA, não produz proteína.",
+      "formato": "lacunas"
+    },
+    {
+      "id": "biologia-191",
+      "texto_apoio": "Durante epidemias de arboviroses, laboratórios de saúde pública precisam distinguir dengue, zika e chikungunya em pacientes com sintomas parecidos. Os três agentes são vírus cujo material genético é RNA. O exame de referência na fase aguda envolve uma etapa de transcrição reversa antes da amplificação.",
+      "enunciado": "A etapa de transcrição reversa é necessária nesse exame porque:",
+      "alternativas": {
+        "a": "o RNA viral precisa ser convertido em proteína antes de ser detectado pelos anticorpos empregados no ensaio de diagnóstico",
+        "b": "a DNA polimerase usada na amplificação atua sobre um molde de DNA, e o genoma dos três vírus investigados é de RNA, que precisa ser copiado em cDNA",
+        "c": "a amostra do paciente contém anticorpos que degradariam o RNA viral caso ele não fosse previamente convertido em outra molécula",
+        "d": "o RNA viral é uma molécula de fita dupla que precisa ser convertida em fita simples antes de ser reconhecida pelos iniciadores",
+        "e": "a conversão do RNA em DNA é o que permite distinguir os três vírus entre si, já que os RNAs virais têm sequências idênticas"
+      },
+      "resposta": "b",
+      "explicacao": "A Taq polimerase da PCR copia DNA a partir de um molde de DNA. Como o genoma desses vírus é RNA, é preciso primeiro produzir um cDNA com a transcriptase reversa, e só então amplificar: daí o nome RT-PCR. A armadilha é (e): a distinção entre os três agentes não vem da conversão, e sim dos iniciadores, desenhados para sequências específicas de cada vírus. A opção (a) confunde dois métodos distintos, pois a sorologia detecta anticorpos ou antígenos, não o genoma viral.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "biologia-192",
+      "texto_apoio": "Uma variedade de canola geneticamente modificada recebeu um gene que confere tolerância a determinado herbicida. Alguns anos após o início do cultivo, agricultores relataram o aparecimento de plantas espontâneas tolerantes ao mesmo herbicida em áreas próximas às lavouras, incluindo indivíduos de uma espécie silvestre aparentada.",
+      "enunciado": "O fenômeno relatado é explicado principalmente por:",
+      "alternativas": {
+        "a": "mutação induzida pelo herbicida nas plantas silvestres, que passaram a produzir a mesma proteína de tolerância presente na variedade cultivada",
+        "b": "transferência do gene por meio das bactérias do solo, que teriam absorvido o DNA das raízes da canola e o injetado nas plantas silvestres",
+        "c": "seleção natural de indivíduos silvestres que já possuíam o gene de tolerância antes de qualquer contato com a lavoura transgênica",
+        "d": "fluxo gênico por polinização cruzada entre a variedade transgênica e a espécie silvestre aparentada, com formação de híbridos férteis",
+        "e": "ativação, nas plantas silvestres, de genes de tolerância que permaneciam silenciados até a exposição continuada ao herbicida aplicado"
+      },
+      "resposta": "d",
+      "explicacao": "Espécies aparentadas e sexualmente compatíveis trocam pólen, e o transgene atravessa a fronteira da lavoura junto com ele. É o risco de fluxo gênico, e é por isso que a legislação exige distância mínima entre plantios. A armadilha é (a): o herbicida não dirige mutações, e a coincidência de o gene silvestre ser exatamente o mesmo introduzido na lavoura entrega que houve transferência, não mutação independente. Já (c) exigiria que o alelo preexistisse por acaso na espécie silvestre, o que não explica a identidade com a construção transgênica.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "biologia-193",
+      "texto_apoio": "Plantas de milho geneticamente modificadas expressam uma proteína inseticida originalmente produzida pela bactéria Bacillus thuringiensis, tóxica para determinadas lagartas. A legislação brasileira exige que o produtor mantenha, junto à lavoura transgênica, uma parcela plantada com milho convencional, conhecida como área de refúgio.",
+      "enunciado": "A exigência da área de refúgio tem por finalidade:",
+      "alternativas": {
+        "a": "garantir a produção de grãos convencionais para atender consumidores que optam por não consumir alimentos transgênicos no mercado interno",
+        "b": "permitir a polinização cruzada entre as duas variedades, o que é indispensável para a formação dos grãos na lavoura geneticamente modificada",
+        "c": "fornecer alimento alternativo aos insetos polinizadores, que seriam eliminados caso toda a área fosse ocupada pela variedade transgênica",
+        "d": "reduzir a quantidade de proteína inseticida liberada no solo, diminuindo o impacto sobre a comunidade de decompositores da lavoura",
+        "e": "manter uma população de insetos suscetíveis que se cruze com os eventuais resistentes, retardando a fixação da resistência na população da praga"
+      },
+      "resposta": "e",
+      "explicacao": "A toxina funciona como forte pressão seletiva: os poucos insetos que já carregam alelos de resistência sobrevivem e se reproduzem. O refúgio mantém uma população numerosa de suscetíveis, e o cruzamento entre resistentes e suscetíveis gera descendentes majoritariamente heterozigotos, ainda vulneráveis à toxina, o que atrasa a fixação da resistência. A armadilha é (b): o milho é anemófilo e não depende do refúgio para ser polinizado, e a produção da lavoura transgênica não requer a convencional.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "biologia-194",
+      "texto_apoio": "Na técnica de transferência nuclear de célula somática, retira-se o núcleo de um óvulo de uma fêmea doadora e insere-se, em seu lugar, o núcleo de uma célula somática de outro indivíduo. O óvulo reconstruído é estimulado a se dividir e implantado no útero de uma terceira fêmea, que leva a gestação a termo.",
+      "enunciado": "Sobre o material genético do animal obtido por essa técnica, é correto afirmar que:",
+      "alternativas": {
+        "a": "o DNA nuclear é idêntico ao do doador do núcleo, mas o DNA mitocondrial provém da doadora do óvulo",
+        "b": "todo o seu material genético, nuclear e mitocondrial, é idêntico ao do doador do núcleo somático utilizado no procedimento",
+        "c": "o DNA nuclear resulta da combinação entre o núcleo somático e o núcleo original do óvulo, que não chega a ser completamente removido",
+        "d": "o DNA mitocondrial provém da fêmea que gestou o embrião, uma vez que as mitocôndrias são transferidas ao feto através da placenta",
+        "e": "metade do DNA nuclear vem do doador do núcleo e metade da doadora do óvulo, o que reproduz o resultado de uma fecundação normal"
+      },
+      "resposta": "a",
+      "explicacao": "O núcleo transferido traz o genoma nuclear completo do doador, mas as mitocôndrias, com seu próprio DNA, estão no citoplasma do óvulo e permanecem lá. Por isso o clone não é geneticamente idêntico ao doador em cem por cento de seu DNA, o que descarta (b) e faz da clonagem um caso interessante para discutir o conceito de identidade genética. A armadilha é (d): mitocôndrias não atravessam a placenta, e a mãe de aluguel não contribui com material genético algum.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "biologia-195",
+      "texto_apoio": "Discute-se, no debate público, a diferença entre dois usos da transferência nuclear. Em um deles, o embrião reconstruído é implantado em um útero e se desenvolve até o nascimento. No outro, o embrião é mantido em cultura por poucos dias, e dele são retiradas células indiferenciadas destinadas à obtenção de tecidos.",
+      "enunciado": "Os dois procedimentos são denominados, respectivamente, clonagem reprodutiva e clonagem terapêutica, e a vantagem clínica do segundo está em:",
+      "alternativas": {
+        "a": "dispensar o uso de óvulos humanos, o que elimina a principal objeção ética levantada contra esse tipo de procedimento em seres humanos",
+        "b": "produzir tecidos com metade do material genético do paciente, condição que reduz a chance de proliferação descontrolada das células obtidas",
+        "c": "gerar tecidos geneticamente compatíveis com o paciente que doou o núcleo, o que reduz o risco de rejeição pelo sistema imune do receptor",
+        "d": "permitir a correção simultânea de qualquer mutação presente no paciente, já que as células indiferenciadas reparam espontaneamente seu DNA",
+        "e": "obter células já diferenciadas no tecido de interesse, o que dispensa a etapa de indução em cultura antes do transplante ao paciente"
+      },
+      "resposta": "c",
+      "explicacao": "Como o núcleo veio do próprio paciente, as células-tronco obtidas carregam seu genoma nuclear e os tecidos derivados delas são reconhecidos como próprios, o que dispensaria a imunossupressão dos transplantes convencionais. A armadilha é (e): as células-tronco embrionárias são justamente indiferenciadas, sendo essa a razão de sua utilidade, e precisam ser induzidas à diferenciação em cultura. A opção (a) inverte o quadro, pois o procedimento depende de óvulos, e essa dependência é um dos pontos centrais da objeção ética.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-196",
+      "enunciado": "No sistema CRISPR-Cas9 aplicado à edição de genomas, a especificidade do corte é determinada por ______, ao passo que a quebra da dupla-hélice é executada por ______. A alteração final da sequência depende ainda ______. As lacunas são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "uma enzima de restrição bacteriana – uma DNA ligase – da inserção de um plasmídeo circular na região cortada",
+        "b": "uma molécula de RNA-guia complementar ao alvo – uma proteína com atividade de nuclease – dos mecanismos celulares de reparo do DNA",
+        "c": "uma proteína repressora ligada ao promotor – uma RNA polimerase modificada – da metilação das citosinas da região editada",
+        "d": "um anticorpo dirigido contra a sequência-alvo – uma transcriptase reversa – da tradução do trecho corrigido em nova proteína",
+        "e": "uma sequência de poli-A adicionada ao gene – uma helicase de origem viral – da substituição completa do cromossomo afetado"
+      },
+      "resposta": "b",
+      "explicacao": "O RNA-guia pareia por complementaridade com a sequência-alvo e leva até ela a Cas9, que é a nuclease responsável pelo corte na dupla-hélice. O que acontece depois não é feito pelo sistema: é a célula que repara a quebra, e o resultado depende da via de reparo, que pode inativar o gene ou, na presença de um molde, corrigi-lo. A armadilha é (a): enzimas de restrição também cortam DNA, mas reconhecem sequências curtas e fixas, e é essa rigidez que o CRISPR supera ao usar um guia programável.",
+      "formato": "lacunas",
+      "dificuldade": "media"
+    },
+    {
+      "id": "biologia-197",
+      "texto_apoio": "A comunidade científica internacional distingue duas aplicações da edição genômica em seres humanos. Na primeira, a edição é feita em células somáticas de um paciente já nascido. Na segunda, a edição é feita em embriões, gametas ou suas células precursoras.",
+      "enunciado": "A objeção ética adicional que recai especificamente sobre o segundo caso decorre de que a alteração:",
+      "alternativas": {
+        "a": "produz efeitos apenas depois da puberdade, o que impede o acompanhamento clínico do paciente durante o período de maior risco",
+        "b": "não pode ser realizada com as ferramentas disponíveis atualmente, sendo portanto uma discussão de interesse meramente hipotético",
+        "c": "atinge somente os tecidos de origem mesodérmica, deixando sem correção os demais folhetos embrionários do indivíduo tratado",
+        "d": "será transmitida à descendência do indivíduo editado, atingindo pessoas que não puderam consentir com o procedimento",
+        "e": "exige doses maiores da ferramenta de edição, o que eleva proporcionalmente o custo do tratamento e restringe seu acesso à população"
+      },
+      "resposta": "d",
+      "explicacao": "A edição em células somáticas se esgota no paciente que consentiu. A edição germinativa entra na linhagem e passa a todas as gerações seguintes, de modo que os afetados são pessoas ainda inexistentes, das quais nenhum consentimento é possível. É esse ponto, somado à irreversibilidade em escala populacional, que sustenta a moratória defendida internacionalmente. A armadilha é (b): a técnica é tecnicamente viável, e foi justamente seu uso em embriões humanos que desencadeou a reação pública sobre o tema.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-198",
+      "texto_apoio": "Em um protocolo de terapia gênica para uma imunodeficiência hereditária, células-tronco da medula óssea do próprio paciente são retiradas, cultivadas e expostas a um vírus modificado que carrega a versão funcional do gene defeituoso. As células corrigidas são então reinfundidas no paciente.",
+      "enunciado": "Nesse protocolo, o vírus modificado tem a função de:",
+      "alternativas": {
+        "a": "provocar uma infecção controlada que estimule o sistema imune do paciente a produzir por conta própria a proteína ausente",
+        "b": "destruir as células-tronco portadoras do gene defeituoso, abrindo espaço para a proliferação das poucas células já normais do paciente",
+        "c": "fornecer a enzima que degrada o gene defeituoso, etapa necessária para que a versão funcional possa ocupar seu lugar no genoma",
+        "d": "transportar a proteína funcional até o interior das células, onde ela substitui diretamente a proteína defeituosa produzida pelo paciente",
+        "e": "servir de vetor, introduzindo nas células do paciente a cópia funcional do gene, aproveitando sua capacidade natural de inserir material genético"
+      },
+      "resposta": "e",
+      "explicacao": "Vírus evoluíram para introduzir ácido nucleico em células, e a engenharia genética aproveita essa habilidade retirando deles os genes de virulência e replicação e inserindo o gene terapêutico. A armadilha é (d): o vetor entrega o gene, não a proteína, e é a própria célula do paciente que passa a produzi-la. A opção (b) confunde o papel do vetor com o do condicionamento por quimioterapia, etapa distinta que abre espaço na medula para as células corrigidas.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-199",
+      "texto_apoio": "As doenças genéticas podem resultar de mutações que abolem a função de uma proteína, caso em que a presença de uma cópia normal do gene costuma bastar para o funcionamento normal da célula, ou de mutações que produzem uma proteína alterada que interfere ativamente no funcionamento celular, prejudicando também o produto da cópia normal.",
+      "enunciado": "A estratégia de terapia gênica que consiste em introduzir na célula uma cópia funcional adicional do gene, sem remover o gene mutado, é adequada para:",
+      "alternativas": {
+        "a": "o primeiro caso, em que a doença decorre da falta de função e a cópia introduzida repõe o produto ausente",
+        "b": "o segundo caso, em que a cópia adicional dilui a proteína alterada até que ela deixe de interferir no funcionamento das células afetadas",
+        "c": "ambos os casos, indistintamente, uma vez que a introdução de qualquer cópia funcional normaliza a quantidade total de proteína produzida",
+        "d": "nenhum dos dois casos, pois a cópia introduzida é sempre silenciada pela célula em razão de sua origem exógena",
+        "e": "o segundo caso apenas, desde que a cópia introduzida se insira exatamente no lugar ocupado pelo gene mutado no cromossomo"
+      },
+      "resposta": "a",
+      "explicacao": "Quando a mutação apenas abole a função, acrescentar um gene funcional restaura a proteína que faltava e resolve o problema. Quando a proteína mutante atrapalha ativamente, ela continua sendo produzida mesmo depois da adição, e o quadro persiste: nesses casos é preciso inativar ou corrigir o alelo defeituoso, e não só somar uma cópia boa. A armadilha é (c): tratar as duas situações como equivalentes ignora que, no segundo caso, o problema não é a falta de proteína normal, e sim a presença da anormal.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "biologia-200",
+      "texto_apoio": "Em uma investigação de vínculo genético, amostras de DNA foram tratadas com enzimas de restrição e submetidas a eletroforese em gel. Aplicou-se uma diferença de potencial e, ao final, o gel revelou faixas em posições distintas para cada amostra analisada.",
+      "enunciado": "Nessa técnica, os fragmentos de DNA migram no gel:",
+      "alternativas": {
+        "a": "em direção ao polo negativo, porque as bases nitrogenadas conferem carga positiva à molécula em solução tamponada",
+        "b": "em direção ao polo negativo, e os maiores percorrem distâncias maiores por serem impulsionados com mais intensidade pelo campo",
+        "c": "em direção ao polo positivo, e os menores percorrem distâncias maiores por encontrarem menos resistência na malha do gel",
+        "d": "em direção ao polo positivo, e os maiores percorrem distâncias maiores por concentrarem mais cargas ao longo da molécula",
+        "e": "em ambas as direções, separando-se conforme a proporção de bases púricas e pirimídicas presente em cada um dos fragmentos"
+      },
+      "resposta": "c",
+      "explicacao": "Os grupos fosfato do esqueleto tornam o DNA negativo em qualquer tamanho, e por isso todos os fragmentos correm para o polo positivo, o que elimina (a) e (b). A separação vem da malha do gel, que funciona como peneira: fragmentos pequenos passam com facilidade e avançam mais, enquanto os grandes ficam retidos perto do poço. A armadilha é (d): a carga total de fato cresce com o tamanho, mas cresce junto com o atrito, e é o efeito de peneira que prevalece.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "biologia-201",
+      "texto_apoio": "A vacina contra a hepatite B, disponível no calendário do Sistema Único de Saúde, é produzida a partir de leveduras que receberam o gene de uma proteína da superfície do vírus. As leveduras sintetizam essa proteína, que é purificada e usada como componente do imunizante.",
+      "enunciado": "Uma vantagem sanitária desse tipo de produção, em comparação com imunizantes obtidos a partir do próprio agente infeccioso, é que:",
+      "alternativas": {
+        "a": "a proteína produzida pela levedura induz memória imunológica permanente, o que dispensa qualquer dose de reforço ao longo da vida",
+        "b": "o imunizante não contém o vírus, nem inteiro nem atenuado, o que elimina o risco de o próprio produto causar a doença na pessoa vacinada",
+        "c": "a resposta imune produzida é exclusivamente celular, evitando a produção de anticorpos que poderiam reagir contra tecidos do próprio vacinado",
+        "d": "a vacina passa a proteger contra qualquer vírus que infecte o fígado, pois a proteína de superfície é comum a todos os agentes hepatotrópicos",
+        "e": "a produção em leveduras dispensa a cadeia de frio no transporte, uma vez que proteínas de origem fúngica resistem a altas temperaturas"
+      },
+      "resposta": "b",
+      "explicacao": "A vacina de subunidade contém apenas um antígeno viral, produzido por outro organismo. Sem partícula viral, não há como o imunizante causar a infecção, e isso o torna seguro inclusive para pessoas imunossuprimidas, para quem vacinas de vírus atenuado são contraindicadas. A armadilha é (a): a ausência do vírus não tem relação com a duração da memória, que depende do antígeno e do esquema de doses. A opção (d) ignora que a proteção é específica para o antígeno usado.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-202",
+      "texto_apoio": "A legislação brasileira de biossegurança submete a liberação comercial de organismos geneticamente modificados a análise prévia de risco por uma comissão técnica e exige a identificação, no rótulo, dos alimentos que contenham ingredientes transgênicos acima de determinado percentual.",
+      "enunciado": "Considere as afirmações a seguir. I. A exigência de rotulagem se justifica pelo direito à informação do consumidor, independentemente de o produto ter sido aprovado como seguro para consumo. II. Todo alimento transgênico é, por definição, nocivo à saúde humana, e a análise de risco tem por finalidade medir o grau dessa nocividade. III. A avaliação de risco de um organismo geneticamente modificado deve considerar não só o efeito sobre quem consome, mas também o impacto sobre o ambiente em que ele será cultivado. Está correto o que se afirma em:",
+      "alternativas": {
+        "a": "I, apenas",
+        "b": "III, apenas",
+        "c": "I e II, apenas",
+        "d": "I e III, apenas",
+        "e": "I, II e III"
+      },
+      "resposta": "d",
+      "explicacao": "I é correta: rotulagem e segurança são questões distintas, e a informação se destina à escolha do consumidor, não a um alerta sanitário. III é correta e é o ponto que costuma ser esquecido, pois o risco ambiental, como fluxo gênico e efeito sobre organismos não alvo, integra a análise. II é falsa e concentra a armadilha do item: a modificação genética é uma técnica, não um atributo de nocividade, e cada evento transgênico precisa ser avaliado individualmente, podendo ser seguro ou não conforme o gene introduzido e seu produto.",
+      "formato": "escada",
+      "dificuldade": "media"
+    },
+    {
+      "id": "biologia-203",
+      "texto_apoio": "Empresas oferecem, diretamente ao consumidor, testes que analisam variantes genéticas associadas a risco aumentado para diversas doenças. Um resultado indica que determinada pessoa possui uma variante associada a risco elevado para uma doença de manifestação tardia, para a qual não existe tratamento preventivo estabelecido.",
+      "enunciado": "Uma limitação técnica desse tipo de resultado, frequentemente ignorada por quem o recebe, é que a variante identificada:",
+      "alternativas": {
+        "a": "determina com certeza o aparecimento da doença, restando apenas indefinida a idade em que os primeiros sintomas se manifestarão",
+        "b": "só tem valor se confirmada por um segundo teste realizado em amostra de tecido diferente, uma vez que o genoma varia entre os tecidos do corpo",
+        "c": "perde validade com o tempo, pois as variantes genéticas de um indivíduo se alteram progressivamente ao longo da vida adulta",
+        "d": "é herdada exclusivamente por via materna, o que restringe o aconselhamento genético aos parentes da linhagem materna do examinado",
+        "e": "indica alteração de probabilidade em uma população, e não um destino individual, já que a manifestação depende de outros genes e de fatores ambientais"
+      },
+      "resposta": "e",
+      "explicacao": "Associação estatística não é determinação. A maioria das variantes de suscetibilidade desloca o risco em uma população, e a manifestação depende de outros genes, do ambiente e do acaso. Confundir risco relativo com certeza gera angústia desproporcional e decisões clínicas mal fundamentadas, e é por isso que o aconselhamento genético é parte do procedimento. A armadilha é (a), que trata a variante como sentença. Já (c) contraria o fato de a sequência germinativa ser estável ao longo da vida.",
+      "formato": "direta",
+      "dificuldade": "media"
     }
   ]
 }

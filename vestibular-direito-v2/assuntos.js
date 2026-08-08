@@ -640,16 +640,35 @@ window.ASSUNTOS = [
     termos: ["connector", "linking word", "linking words", "conjunction",
              "transition word", "cohesive device", "logical relation",
              "nevertheless", "whereas", "in spite of", "furthermore", "hence",
-             "nonetheless", "conversely"] },
+             "nonetheless", "conversely",
+             "conectivo", "relacao que a lacuna estabelece", "relacao logica",
+             "conector", "oposicao entre", "concessao", "contraste entre"] },
 
   { id: "ingles-proposito-tom", frentes: ["ingles"], nome: "Propósito e tom (inglês)", area: "Linguagens",
     termos: ["purpose", "tone", "attitude", "point of view", "criticizes", "praises",
              "ironic", "skeptical", "the author intends", "in order to"] },
 
+  // OS TERMOS AQUI SÃO BILÍNGUES, e isso não é redundância.
+  //
+  // A seção de inglês foi escrita supondo que a questão inteira estivesse em
+  // inglês. Metade estava: o TEXTO DE APOIO é em inglês, mas o ENUNCIADO é em
+  // português — as bancas cobram inglês "respondido em português" (FUVEST dia
+  // 1, Unesp caderno 003, Unifesp). Quando o lote novo entrou seguindo essa
+  // convenção, os enunciados passaram a dizer "o pronome relativo", "a
+  // preposição exigida", "o discurso indireto" — e os termos em inglês deste
+  // dicionário deixaram de casar com eles. A frente tinha 60 questões novas de
+  // gramática e a busca achava UMA.
+  //
+  // Os termos em inglês continuam porque o texto de apoio e as alternativas
+  // (que são as próprias formas testadas) seguem em inglês.
   { id: "ingles-gramatica", frentes: ["ingles"], nome: "Gramática (inglês)", area: "Linguagens",
     termos: ["verb tense", "present perfect", "past simple", "conditional", "modal",
              "passive voice", "relative pronoun", "preposition", "reported speech",
-             "comparative", "superlative", "gerund", "used to", "would have"] },
+             "comparative", "superlative", "gerund", "used to", "would have",
+             "pronome relativo", "preposicao exigida", "discurso indireto",
+             "voz passiva", "tempo verbal", "question tag", "gerundio",
+             "infinitivo", "comparativo", "superlativo", "condicional",
+             "verbo modal", "artigo definido", "artigo indefinido"] },
 
   { id: "ingles-tema-saude", frentes: ["ingles"], nome: "Textos sobre saúde (inglês)", area: "Linguagens",
     termos: ["patients", "patient", "health", "disease", "doctors", "hospital",

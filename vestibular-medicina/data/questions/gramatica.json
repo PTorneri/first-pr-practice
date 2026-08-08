@@ -8,7 +8,7 @@
       "alternativas": {
         "a": "ambas estão corretas, já que a concordância com sujeito posposto é facultativa e admite tanto o singular quanto o plural sem prejuízo de sentido",
         "b": "apenas II está correta, uma vez que o verbo colocado antes do sujeito permanece obrigatoriamente na terceira pessoa do singular em qualquer situação",
-        "c": "apenas I está correta, pois o verbo concorda com o sujeito, ainda que posposto, e a inversão da ordem dos termos não interfere na flexão de número",
+        "c": "apenas I está correta, pois o verbo concorda com o sujeito \"três pacientes\", ainda que posposto, e inverter a ordem dos termos é recurso de estilo, e não de sintaxe",
         "d": "ambas estão incorretas, pois o sujeito da oração é o termo \"pronto-socorro\" e exigiria a forma verbal na terceira pessoa do singular do pretérito",
         "e": "apenas II está correta, porque a expressão \"com o mesmo quadro\" funciona como adjunto e transfere o núcleo do sujeito para a forma singular"
       },
@@ -21,7 +21,7 @@
       "texto_apoio": "\"Havia mais de vinte pessoas na sala de espera quando o plantão começou.\"",
       "enunciado": "A forma verbal permanece no singular porque o verbo \"haver\", nesse emprego:",
       "alternativas": {
-        "a": "significa \"existir\" e é impessoal, não admitindo sujeito, de modo que o termo que vem depois dele exerce ali a função de objeto direto",
+        "a": "significa \"existir\" e é impessoal, não admitindo sujeito, de modo que o termo que vem depois dele é objeto direto e o verbo fica na terceira pessoa do singular",
         "b": "está acompanhado da locução \"mais de\", que impõe a forma singular a qualquer verbo com o qual venha a se combinar dentro do período",
         "c": "concorda com o termo \"sala de espera\", que exerce a função de sujeito da oração e se encontra no singular na construção apresentada",
         "d": "aparece no pretérito imperfeito, tempo verbal que no português contemporâneo dispensa a flexão de número em construções existenciais",
@@ -100,7 +100,7 @@
         "a": "o verbo \"vender\" pertence ao grupo dos que exigem obrigatoriamente a flexão de plural quando acompanhados de pronome átono na próclise",
         "b": "o verbo concorda com o adjetivo \"usados\", que aparece no plural e determina a flexão de toda a construção verbal empregada na oração",
         "c": "a partícula \"se\" indetermina o sujeito, e nesse caso a norma culta recomenda o emprego da terceira pessoa do plural para marcar a indeterminação",
-        "d": "\"equipamentos\" é o sujeito de uma construção passiva sintética, em que o \"se\" apassiva o verbo e o termo aparentemente objeto passa a sujeito",
+        "d": "\"equipamentos\" é o sujeito de uma construção passiva sintética, equivalente a \"são vendidos\", em que o \"se\" apassiva o verbo e o objeto aparente passa a sujeito",
         "e": "o termo \"hospitalares\" funciona como núcleo do sujeito composto da oração e impõe ao verbo a concordância com a forma plural apresentada"
       },
       "resposta": "d",
@@ -112,7 +112,7 @@
       "texto_apoio": "Considere: (I) \"Seguem anexas as cópias dos exames.\" (II) \"Muito obrigada — disse a paciente.\"",
       "enunciado": "Sobre a concordância nominal nos dois enunciados:",
       "alternativas": {
-        "a": "ambos estão corretos, pois \"anexo\" e \"obrigado\" funcionam como adjetivos e variam em gênero e número conforme o termo a que cada um se refere",
+        "a": "ambos estão corretos, pois \"anexo\" e \"obrigado\" funcionam como adjetivos e variam conforme o termo a que se referem, sendo invariável apenas a locução \"em anexo\"",
         "b": "apenas I está correto, já que \"obrigado\" é forma cristalizada e permanece invariável independentemente de quem produz o enunciado em que ela aparece",
         "c": "apenas II está correto, uma vez que \"anexo\" tem valor adverbial nessa construção e por isso não admite flexão de gênero nem de número",
         "d": "ambos estão incorretos, porque as duas palavras pertencem à classe dos advérbios e deveriam permanecer na forma masculina singular nos dois casos",
@@ -145,7 +145,7 @@
       "alternativas": {
         "a": "substantivo e funciona como núcleo do sujeito; a segunda é adjetivo e exerce a função de adjunto adnominal do termo que aparece em seguida",
         "b": "numeral e concorda com o adjetivo que a acompanha; a segunda é advérbio de intensidade e permanece invariável em qualquer contexto de emprego",
-        "c": "advérbio e não varia, por modificar um adjetivo; a segunda é numeral e concorda em gênero com o substantivo que ela quantifica na frase",
+        "c": "advérbio e não varia, por modificar um adjetivo e equivaler ali a \"um pouco\"; a segunda é numeral e concorda em gênero com o substantivo que ela quantifica",
         "d": "preposição e introduz um complemento nominal; a segunda é conjunção e estabelece relação de adição entre as duas orações do período",
         "e": "pronome indefinido e retoma um termo anterior; a segunda é artigo e determina o substantivo que a acompanha na segunda oração do período"
       },
@@ -189,7 +189,7 @@
       "enunciado": "A diferença de concordância entre os dois enunciados se explica porque, com expressões percentuais, o verbo concorda:",
       "alternativas": {
         "a": "sempre com o termo preposicionado que vem em seguida à expressão percentual, independentemente do valor numérico indicado antes dele no período",
-        "b": "com o numeral que acompanha a expressão percentual, e não com o termo preposicionado que vem depois dela na construção apresentada na frase",
+        "b": "com o numeral que acompanha a expressão percentual, e não com o termo preposicionado que vem depois dela, o qual, se comandasse, daria a mesma forma aos dois",
         "c": "sempre na terceira pessoa do singular, uma vez que expressões percentuais constituem construções impessoais e não admitem sujeito determinado",
         "d": "com o termo mais próximo, critério que se aplica a todas as construções em que o sujeito é formado por mais de um elemento nominal na frase",
         "e": "de forma facultativa em qualquer caso, cabendo a quem escreve optar pelo singular ou pelo plural conforme a ênfase pretendida no enunciado"
@@ -325,7 +325,7 @@
       "enunciado": "As duas construções são corretas porque \"esquecer\" é ______ quando ______ e ______ quando ______. As lacunas são preenchidas por:",
       "alternativas": {
         "a": "transitivo indireto – não vem pronominalizado – transitivo direto – vem acompanhado de pronome, caso em que a preposição passa a ser dispensável",
-        "b": "transitivo direto – não vem pronominalizado – transitivo indireto – vem acompanhado de pronome, comportamento que também se observa em \"lembrar\"",
+        "b": "transitivo direto – não vem pronominalizado – transitivo indireto – vem acompanhado de pronome e passa a exigir preposição, como também ocorre com \"lembrar\"",
         "c": "intransitivo – o complemento está subentendido – transitivo direto – o complemento aparece expresso na forma de um sintagma nominal preposicionado",
         "d": "bitransitivo – o objeto indireto vem posposto – intransitivo – o pronome reflexivo assume a função sintática de complemento verbal na estrutura",
         "e": "de ligação – o predicativo se encontra elíptico – transitivo direto – o pronome exerce a função de sujeito da oração reduzida que o acompanha"
@@ -387,7 +387,7 @@
       "alternativas": {
         "a": "apenas II é correta, já que a pessoa informada é sempre o objeto direto e a informação transmitida funciona como complemento preposicionado",
         "b": "apenas I é correta, uma vez que a coisa informada deve necessariamente ocupar a posição de objeto direto em qualquer construção com esse verbo",
-        "c": "ambas são corretas, pois o verbo admite as duas ordens de complementos, informando-se algo a alguém ou alguém de algo, sem prejuízo da norma",
+        "c": "ambas são corretas, pois o verbo é bitransitivo e admite as duas distribuições, informando-se algo a alguém ou alguém de algo, como também ocorre com \"avisar\"",
         "d": "ambas são incorretas, porque \"informar\" é transitivo direto e não admite complemento preposicionado em nenhuma das acepções registradas para ele",
         "e": "apenas I é correta, e a construção II resulta de influência estrangeira não incorporada à norma culta do português escrito contemporâneo"
       },
@@ -479,7 +479,7 @@
         "a": "os termos \"limpo\" e \"pé\" funcionam como adjetivos e a crase só ocorre diante de substantivos que possam ser determinados por artigo definido",
         "b": "os dois enunciados apresentam locuções adverbiais de modo, classe que nunca recebe o acento indicativo de crase em nenhuma circunstância de uso",
         "c": "o verbo de cada uma das orações é intransitivo e por isso não exige preposição diante do termo que aparece em seguida na construção apresentada",
-        "d": "as palavras que seguem o \"a\" são masculinas e não admitem artigo feminino, de modo que não existe artigo com que a preposição possa se fundir",
+        "d": "as palavras que seguem o \"a\" são masculinas e não admitem artigo feminino, de modo que não existe artigo com que a preposição se funda e a crase não se justifica",
         "e": "o acento foi suprimido pela reforma ortográfica em todas as locuções formadas por preposição seguida de palavra iniciada por consoante na língua"
       },
       "resposta": "d",
@@ -612,7 +612,7 @@
       "texto_apoio": "\"O doutor Andrade, chefe do serviço de emergência, autorizou o procedimento.\"",
       "enunciado": "As vírgulas do período isolam:",
       "alternativas": {
-        "a": "um aposto explicativo, termo que acrescenta informação sobre outro já determinado e por isso se separa por vírgulas nos dois extremos",
+        "a": "um aposto explicativo, termo que acrescenta informação sobre outro já determinado e por isso se isola por vírgulas, o que não ocorreria se fosse especificativo",
         "b": "um vocativo dirigido ao interlocutor, termo que se caracteriza por não exercer função sintática dentro da oração em que aparece empregado",
         "c": "uma oração subordinada adverbial deslocada de sua posição habitual, o que exige a marcação por meio de sinal de pontuação nos dois extremos",
         "d": "um adjunto adverbial de lugar intercalado entre o sujeito e o predicado da oração principal",
@@ -646,7 +646,7 @@
         "a": "marca a elipse de um verbo que ficou subentendido na segunda parte do período, recurso que exigiria o emprego de ponto e vírgula no lugar dela",
         "b": "isola um aposto explicativo sem que o segundo sinal correspondente tenha sido empregado no lugar adequado dentro da estrutura do período",
         "c": "antecede uma conjunção coordenativa aditiva, contexto em que a norma culta desaconselha o emprego desse sinal de pontuação na escrita formal",
-        "d": "separa o sujeito do predicado, termos que a norma não admite ver divididos por esse sinal por mais longo que seja o sintagma que o expressa",
+        "d": "separa o sujeito do predicado, termos que a norma não admite ver divididos por esse sinal, sendo a extensão do sintagma o que faz o erro parecer natural",
         "e": "separa dois adjuntos adverbiais de mesma natureza, que deveriam ter sido ligados por conjunção em vez de por sinal de pontuação na frase"
       },
       "resposta": "d",
@@ -674,7 +674,7 @@
       "enunciado": "O emprego do ponto e vírgula se justifica porque:",
       "alternativas": {
         "a": "a enumeração apresenta mais de dois elementos, número a partir do qual a norma culta passa a exigir esse sinal em substituição à vírgula simples",
-        "b": "os itens enumerados já contêm vírgulas internas, e o sinal mais forte estabelece a hierarquia entre os dois níveis da enumeração apresentada",
+        "b": "os itens enumerados já contêm vírgulas internas, separando o nome do setor, e o sinal mais forte estabelece a hierarquia entre os dois níveis da enumeração",
         "c": "os termos listados pertencem a setores diferentes da mesma instituição, distinção que a pontuação precisa marcar de forma explícita no texto",
         "d": "o período foi introduzido por dois-pontos, sinal que impõe o uso de ponto e vírgula em toda a sequência que vier depois dele na construção",
         "e": "cada um dos elementos enumerados constitui uma oração completa, com sujeito e predicado próprios, exigindo separação mais forte que a vírgula"
@@ -720,7 +720,7 @@
       "alternativas": {
         "a": "a segunda oração é subordinada à primeira e por isso precisa ser isolada do restante do período por meio desse sinal de pontuação",
         "b": "a conjunção estabelece relação de oposição entre as duas orações, valor que exige a marcação por vírgula em qualquer construção coordenada",
-        "c": "as orações coordenadas têm sujeitos diferentes, e a vírgula evita que o segundo deles seja lido como parte do predicado da primeira delas",
+        "c": "as orações coordenadas têm sujeitos diferentes e, embora a regra geral dispense a vírgula antes de \"e\", ela evita que o segundo seja lido como parte do predicado",
         "d": "o período apresenta mais de uma forma verbal, número a partir do qual a norma culta torna obrigatório o emprego da vírgula antes das conjunções",
         "e": "há elipse do sujeito na segunda oração, e a vírgula sinaliza ao leitor a supressão do termo que deveria ocupar aquela posição sintática"
       },
@@ -797,7 +797,7 @@
         "b": "causa e finalidade, valores que se distinguem pela posição ocupada por cada uma das orações subordinadas dentro do período composto apresentado",
         "c": "condição e concessão, relações que dependem do modo verbal empregado em cada uma das duas orações subordinadas propostas na comparação",
         "d": "tempo e consequência, circunstâncias que se diferenciam pelo aspecto verbal expresso pelas formas empregadas em cada um dos dois enunciados",
-        "e": "finalidade e causa, circunstâncias que se distinguem entre si por a primeira apontar o objetivo do fato e a segunda, o motivo que o provocou"
+        "e": "finalidade e causa, circunstâncias que se distinguem por a primeira apontar o objetivo do fato, com verbo no subjuntivo, e a segunda, o motivo que o provocou"
       },
       "resposta": "e",
       "explicacao": "\"Para que\" aponta o objetivo do ajuste; \"porque\" aponta o motivo que o provocou. A finalidade olha para a frente, a causa para trás — e o subjuntivo em I é indício da primeira.",
@@ -858,7 +858,7 @@
         "a": "utilização de conectivos temporais que marcam a sucessão cronológica entre os fatos relatados em cada um dos três períodos do trecho apresentado",
         "b": "repetição integral do mesmo substantivo em todos os períodos, estratégia adotada para assegurar que o leitor não perca o referente ao longo do texto",
         "c": "emprego de pronomes demonstrativos que retomam o termo mencionado no período imediatamente anterior a cada uma das ocorrências indicadas",
-        "d": "substituição lexical por termos de sentido mais amplo, que incluem ali o referente anterior e dispensam o emprego de pronome ou de conectivo",
+        "d": "substituição lexical por hiperônimos, termos de sentido mais amplo que incluem ali o referente anterior e evitam a repetição sem exigir o emprego de pronome ou de conectivo",
         "e": "elipse do sujeito no segundo e no terceiro períodos, recuperável a partir do termo empregado no primeiro deles pelo autor do texto produzido"
       },
       "resposta": "d",
@@ -948,7 +948,7 @@
       "enunciado": "A palavra \"que\" é, respectivamente:",
       "alternativas": {
         "a": "pronome relativo e conjunção integrante, distinção que decorre da posição ocupada por cada uma das orações subordinadas dentro do período composto",
-        "b": "conjunção integrante e pronome relativo, classes que se distinguem por apenas a segunda retomar um termo e exercer função sintática na oração",
+        "b": "conjunção integrante e pronome relativo, classes que se distinguem por a primeira poder ser trocada por \"isso\" e só a segunda retomar um termo e exercer função",
         "c": "conjunção integrante nos dois casos, já que ambas as orações completam o sentido do verbo da oração principal em que se encontram inseridas",
         "d": "pronome relativo nos dois casos, uma vez que a palavra sempre retoma um termo mencionado antes dela na estrutura do período apresentado",
         "e": "advérbio interrogativo e conjunção subordinativa causal, classes que se diferenciam pelo tipo de circunstância expressa por cada uma delas"
@@ -1039,7 +1039,7 @@
       "alternativas": {
         "a": "composição por justaposição, aglutinação e hibridismo, classificação que leva em conta a origem de cada um dos elementos combinados na palavra",
         "b": "derivação sufixal, prefixal e regressiva, processos que se diferenciam pela posição ocupada pelo afixo em relação ao radical de cada palavra",
-        "c": "derivação prefixal, sufixal e parassintética, sendo a última caracterizada pelo acréscimo simultâneo dos dois afixos ao radical da palavra",
+        "c": "derivação prefixal, sufixal e parassintética, sendo a última caracterizada pelo acréscimo simultâneo dos dois afixos, já que não existe a forma com só um deles",
         "d": "derivação imprópria, regressiva e parassintética, sendo a primeira caracterizada pela mudança de classe sem alteração da forma da palavra",
         "e": "derivação prefixal, parassintética e sufixal, ordem que decorre do número de afixos presentes em cada uma das três palavras apresentadas"
       },
@@ -1084,7 +1084,7 @@
       "enunciado": "O sujeito da oração é:",
       "alternativas": {
         "a": "oculto, recuperável pela desinência verbal empregada na terceira pessoa do plural do pretérito perfeito do modo indicativo apresentado",
-        "b": "indeterminado, uma vez que o verbo está na terceira pessoa do plural sem sujeito expresso nem recuperável a partir do contexto do período",
+        "b": "indeterminado, uma vez que o verbo está na terceira pessoa do plural sem sujeito expresso nem recuperável no contexto: não se sabe nem se diz quem bateu à porta",
         "c": "inexistente, uma vez que se trata de oração sem sujeito construída com verbo impessoal que indica fenômeno ocorrido durante a madrugada",
         "d": "simples, tendo como núcleo o termo \"porta\", que aparece precedido de preposição na estrutura sintática apresentada pelo enunciado da questão",
         "e": "composto, formado pelos dois termos que aparecem depois do verbo e que exercem conjuntamente essa função dentro da oração analisada"
@@ -1146,7 +1146,7 @@
       "alternativas": {
         "a": "complemento nominal e adjunto adverbial, funções que se diferenciam pela natureza do termo a que cada um deles se subordina no período",
         "b": "objeto indireto e objeto direto, distinção que se estabelece pela ordem em que os dois complementos aparecem depois do verbo na oração",
-        "c": "objeto direto e objeto indireto, complementos de um verbo bitransitivo, dos quais apenas o segundo vem introduzido por preposição na oração",
+        "c": "objeto direto e objeto indireto, complementos de um verbo bitransitivo — entrega-se algo a alguém —, dos quais apenas o segundo vem introduzido por preposição",
         "d": "adjunto adnominal e complemento nominal, classificação determinada pela presença da preposição diante do segundo dos dois termos indicados",
         "e": "predicativo do objeto e agente da passiva, funções que a estrutura da oração permite identificar a partir da transitividade do verbo empregado"
       },
@@ -1159,7 +1159,7 @@
       "texto_apoio": "\"Atenderam ao ferido antes de todos os outros.\"",
       "enunciado": "Considerando que \"atender\" pode ser transitivo direto, o emprego da preposição diante de \"o ferido\" configura:",
       "alternativas": {
-        "a": "objeto direto preposicionado, termo em que a preposição aparece sem ser exigida pela regência do verbo, por razões de clareza ou de ênfase",
+        "a": "objeto direto preposicionado, termo que continua sendo objeto direto, embora a preposição apareça sem ser exigida pela regência, por clareza ou por ênfase",
         "b": "objeto indireto obrigatório, uma vez que o verbo empregado admite exclusivamente essa regência quando o complemento designa pessoa determinada",
         "c": "complemento nominal, termo que completa o sentido de um nome e que exige preposição por natureza em todas as construções em que aparece",
         "d": "adjunto adverbial de finalidade, que indica o objetivo a que se destina a ação verbal expressa pelo núcleo do predicado da oração analisada",
@@ -1208,7 +1208,7 @@
         "a": "causa, finalidade e intensidade, circunstâncias que se distinguem pelo tipo de relação estabelecida entre cada termo e o verbo da oração",
         "b": "tempo, lugar e modo, ordem que corresponde à posição ocupada por cada um dos três termos em relação ao núcleo do predicado da oração",
         "c": "modo, tempo e lugar, classificação determinada pela presença de preposição diante de cada um dos adjuntos identificados no período composto",
-        "d": "lugar, modo e tempo, circunstâncias identificadas pela pergunta que cada um dos termos responde em relação ao verbo da oração analisada",
+        "d": "lugar, modo e tempo, circunstâncias identificadas pela pergunta que cada termo responde — onde, como e quanto tempo —, e não pela posição que ocupa na frase",
         "e": "companhia, instrumento e dúvida, valores que dependem do contexto em que o enunciado é produzido e da intenção de quem o formula na frase"
       },
       "resposta": "d",
@@ -1239,7 +1239,7 @@
         "a": "predicativa, exercendo a função de predicativo do sujeito da oração principal, que se encontra elíptico na estrutura do período apresentado",
         "b": "objetiva direta, uma vez que completa o sentido de um verbo transitivo direto empregado como núcleo do predicado da oração principal",
         "c": "completiva nominal, já que completa o sentido do adjetivo empregado na oração principal e vem introduzida por preposição obrigatória",
-        "d": "subjetiva, pois funciona como sujeito da oração principal, podendo ser substituída pelo pronome neutro \"isso\" sem prejuízo da estrutura",
+        "d": "subjetiva, pois funciona como sujeito da oração principal: o que é necessário é o fato de todos confirmarem, e a oração admite ser trocada por \"isso\"",
         "e": "apositiva, retomando e explicitando um termo já mencionado na oração principal por meio de uma estrutura oracional desenvolvida no período"
       },
       "resposta": "d",
@@ -1270,7 +1270,7 @@
         "b": "adversativa, conclusiva e alternativa, classificação determinada pelo tipo de relação semântica estabelecida entre as duas orações de cada período",
         "c": "explicativa, aditiva e conclusiva, ordem que decorre da posição ocupada pelo conectivo em relação às orações que ele articula em cada caso",
         "d": "causal, concessiva e consecutiva, relações que caracterizam períodos compostos por subordinação e não por coordenação entre as orações",
-        "e": "conclusiva, adversativa e aditiva, relações estabelecidas entre orações independentes por conectivos de coordenação em cada um dos períodos"
+        "e": "conclusiva, adversativa e aditiva: a primeira fecha um raciocínio, a segunda contraria a expectativa e a terceira apenas soma, sempre entre orações independentes"
       },
       "resposta": "e",
       "explicacao": "\"Portanto\" fecha um raciocínio, \"mas\" contraria a expectativa e \"e\" apenas soma. Os três articulam orações independentes entre si, o que caracteriza a coordenação.",
@@ -1301,7 +1301,7 @@
         "b": "passiva sintética e passiva analítica, formas que se distinguem pela presença ou pela ausência do verbo auxiliar em cada uma das construções",
         "c": "ativa e passiva, distinção determinada pela posição ocupada pelo agente da ação em relação ao verbo em cada um dos dois enunciados propostos",
         "d": "reflexiva recíproca e reflexiva, ordem que decorre do número de participantes envolvidos na ação descrita por cada uma das duas orações",
-        "e": "reflexiva e reflexiva recíproca, distinguindo-se a segunda delas por admitir o acréscimo da expressão \"um ao outro\" sem alterar o sentido"
+        "e": "reflexiva e reflexiva recíproca, praticando e sofrendo o sujeito a mesma ação na primeira, e admitindo a segunda o acréscimo de \"um ao outro\" sem mudar o sentido"
       },
       "resposta": "e",
       "explicacao": "Em I o sujeito pratica e sofre a mesma ação. Em II há dois sujeitos agindo um sobre o outro — o teste é acrescentar \"um ao outro\", que cabe apenas no segundo caso.",
@@ -1328,7 +1328,7 @@
       "enunciado": "O período é composto por:",
       "alternativas": {
         "a": "coordenação, com duas orações independentes ligadas por conectivo que estabelece relação de adição entre os fatos enunciados em cada uma",
-        "b": "subordinação, com uma oração adjetiva restritiva, que delimita o termo antecedente e por isso não vem separada por vírgula no período",
+        "b": "subordinação, com uma oração adjetiva restritiva, que depende do antecedente e delimita quais resultados chegaram, razão pela qual não vem separada por vírgula",
         "c": "subordinação, com uma oração substantiva objetiva direta que completa o sentido do verbo empregado na oração principal do período",
         "d": "coordenação e subordinação simultaneamente, apresentando três orações distribuídas em dois níveis hierárquicos dentro da mesma estrutura",
         "e": "justaposição, sem que haja relação sintática de dependência entre as duas orações que integram a estrutura do período apresentado"
@@ -1345,7 +1345,7 @@
         "a": "coordenação nos dois casos, já que as orações de ambos os períodos poderiam existir isoladamente sem prejuízo de sentido para o leitor",
         "b": "coordenação e subordinação, distinção que decorre da posição ocupada pelo conectivo dentro de cada um dos dois períodos apresentados",
         "c": "subordinação nos dois casos, uma vez que ambos apresentam uma oração sintaticamente dependente da outra dentro da mesma estrutura",
-        "d": "subordinação e coordenação, arranjos em que a relação de causa é a mesma e a hierarquia sintática entre as orações é que se altera",
+        "d": "subordinação e coordenação, arranjos em que a relação de causa é a mesma e muda a hierarquia: no primeiro a causal depende da principal; no segundo, não",
         "e": "justaposição e subordinação, sendo a primeira caracterizada pela ausência de qualquer conectivo entre as orações que compõem o período"
       },
       "resposta": "d",
@@ -1493,7 +1493,7 @@
       "texto_apoio": "Considere: \"cafés\", \"avô\", \"cipó\", \"você\".",
       "enunciado": "O acento nessas palavras se justifica porque são:",
       "alternativas": {
-        "a": "oxítonas terminadas em a, e ou o, seguidas ou não de s, grupo cuja tônica na última sílaba precisa ser assinalada graficamente na escrita",
+        "a": "oxítonas terminadas em a, e ou o, seguidas ou não de s, grupo simétrico ao das paroxítonas, que se acentuam justamente quando terminam em qualquer outra coisa",
         "b": "paroxítonas terminadas em ditongo, grupo que recebe acento gráfico independentemente da vogal em que a palavra venha a terminar na escrita",
         "c": "monossílabos átonos, categoria em que a marcação gráfica distingue a palavra de outra homógrafa de sentido diferente na língua portuguesa",
         "d": "proparoxítonas aparentes, formadas por ditongo crescente na sílaba final e acentuadas pela mesma regra aplicada às proparoxítonas verdadeiras",
@@ -1692,7 +1692,7 @@
       "alternativas": {
         "a": "ação futura em relação ao momento da fala e ação passada em relação a outro fato também situado no passado dentro da mesma narrativa",
         "b": "ação em curso ao longo de um período e ação concluída em momento definido, distinção marcada pela presença do adjunto adverbial em cada caso",
-        "c": "ação concluída em momento definido e ação em curso ao longo de um período, contraste que se estabelece pelo aspecto expresso por cada forma",
+        "c": "ação concluída em momento definido e ação em curso ao longo de um período, contraste de aspecto: o perfeito fecha o fato num ponto e o imperfeito o deixa aberto",
         "d": "ação hipotética dependente de condição e ação efetivamente realizada, valores que se distinguem pelo modo verbal empregado em cada oração",
         "e": "ação habitual repetida indefinidamente e ação pontual sem duração determinada, contraste que decorre do aspecto verbal de cada uma das formas"
       },
@@ -1770,7 +1770,7 @@
         "b": "\"ter\" e \"haver\"; a regular, com \"ser\" e \"estar\", distribuição que a norma culta estabelece para todos os verbos de particípio duplo da língua",
         "c": "verbos transitivos diretos; a regular, com verbos transitivos indiretos, critério determinado pela regência exigida em cada uma das construções",
         "d": "orações da voz ativa; a regular, com orações da voz passiva, distinção que se aplica indistintamente a todos os tempos compostos do português",
-        "e": "\"ser\" e \"estar\"; a regular, com \"ter\" e \"haver\", distribuição que separa os auxiliares da voz passiva daqueles empregados nos tempos compostos"
+        "e": "\"ser\" e \"estar\"; a regular, com \"ter\" e \"haver\", distribuição que vale também para \"pago\" e \"impresso\" e separa os auxiliares da passiva dos tempos compostos"
       },
       "resposta": "e",
       "explicacao": "A regra vale para \"aceito/aceitado\", \"pago/pagado\", \"impresso/imprimido\": a forma curta acompanha os auxiliares da passiva, a longa acompanha os dos tempos compostos.",
@@ -1859,7 +1859,7 @@
       "alternativas": {
         "a": "pleonasmo, com repetição de uma ideia já contida em outro termo da mesma oração apresentada para análise no enunciado da questão",
         "b": "elipse, com supressão de um termo facilmente recuperável a partir do contexto em que a construção aparece empregada no texto produzido",
-        "c": "hipérbato, com inversão da ordem direta, recurso de estilo corrente na escrita formal e que não configura desvio algum da norma culta",
+        "c": "hipérbato, com inversão da ordem direta pelo deslocamento do complemento para o início, recurso de estilo corrente na escrita formal e que não configura desvio",
         "d": "silepse, com concordância feita segundo a ideia expressa e não segundo a forma gramatical dos termos empregados na construção analisada",
         "e": "anacoluto, com abandono da estrutura sintática iniciada no começo do período e retomada de outra estrutura na sequência do enunciado"
       },
@@ -1918,7 +1918,7 @@
       "texto_apoio": "Considere: \"desidratado\", \"assintomático\", \"irreversível\".",
       "enunciado": "Os três termos têm em comum o fato de:",
       "alternativas": {
-        "a": "formarem o sentido negativo por meio de prefixo, elementos de origens distintas que negam aquilo que vem depois deles na formação da palavra",
+        "a": "formarem o sentido negativo por meio de prefixo — \"des-\", \"a-\" e \"ir-\" —, elementos de origens distintas que negam aquilo que vem depois deles na formação da palavra",
         "b": "pertencerem à mesma classe gramatical e apresentarem idêntico processo de formação a partir de radicais de origem grega incorporados ao português",
         "c": "constituírem antônimos entre si, de modo que o emprego de qualquer um deles exclui necessariamente a possibilidade de emprego dos outros dois",
         "d": "resultarem de derivação regressiva a partir de verbos correspondentes, processo em que a palavra derivada perde parte do radical original",
@@ -1949,7 +1949,7 @@
       "enunciado": "Transposta ao discurso indireto, a fala se torna \"A residente disse que ______ o caso ______\"; a mudança atinge ______. As lacunas são preenchidas por:",
       "alternativas": {
         "a": "vai reavaliar – amanhã – apenas a pontuação, que deixa de exigir travessão na abertura da fala transposta para a nova construção sintática",
-        "b": "reavaliaria – no dia seguinte – o tempo verbal e os marcadores de tempo, reorganizados a partir do momento em que se faz o relato da fala",
+        "b": "reavaliaria – no dia seguinte – o tempo verbal, puxado pelo verbo introdutor no passado, e os marcadores de tempo, reorganizados a partir do momento do relato",
         "c": "reavaliou – ontem – a pessoa do verbo, que passa da primeira para a terceira sem que os demais elementos do enunciado sofram alteração",
         "d": "reavalie – naquele momento – o modo verbal, que passa do indicativo ao subjuntivo por exigência da conjunção introdutora da oração subordinada",
         "e": "teria reavaliado – anteontem – o aspecto verbal, que passa a indicar ação concluída antes do momento em que a fala foi originalmente produzida"
@@ -2029,7 +2029,7 @@
         "b": "não concorda em gênero com nenhum dos dois substantivos mencionados antes dele na estrutura sintática do período apresentado no enunciado",
         "c": "aparece separado do termo a que se refere por um complemento preposicionado, o que impede sua recuperação a partir da leitura do período",
         "d": "designa lugar e não posse, valor que exigiria o emprego de um advérbio no lugar do pronome empregado na construção apresentada",
-        "e": "pode remeter ao médico ou ao paciente, já que o possessivo de terceira pessoa não distingue os dois referentes disponíveis no período"
+        "e": "pode remeter ao médico ou ao paciente, já que o possessivo de terceira pessoa não distingue os dois referentes, que só \"dele\" ou \"dele próprio\" fixariam"
       },
       "resposta": "e",
       "explicacao": "O possessivo de terceira pessoa não distingue os dois referentes disponíveis. A saída é trocar por \"dele\" ou \"dele próprio\", que fixam a referência sem exigir reescrever a frase.",
@@ -2192,7 +2192,7 @@
       "enunciado": "As duas construções são corretas, mas exprimem, respectivamente:",
       "alternativas": {
         "a": "oposição e concordância, distinção que decorre da posição ocupada pela preposição em relação ao substantivo dentro de cada uma das locuções",
-        "b": "concordância e oposição, valores que se invertem quando se troca a preposição empregada em cada uma das locuções comparadas no enunciado",
+        "b": "concordância e oposição, já que a primeira locução equivale a favorecer e a segunda, a colidir, valores que se invertem ao se trocar a preposição empregada",
         "c": "anterioridade e posterioridade, valores temporais que as duas locuções assumem conforme o tempo verbal empregado na oração principal",
         "d": "certeza e dúvida, graus de comprometimento que quem escreve assume em relação ao conteúdo transmitido em cada um dos dois enunciados",
         "e": "causa e consequência, relação que se estabelece entre a proposta apresentada e a demanda formulada anteriormente pela equipe do setor"
@@ -2271,7 +2271,7 @@
         "b": "correção gramatical, uma vez que as construções empregadas violam regras de concordância e de regência estabelecidas pela norma culta escrita",
         "c": "coesão referencial, provocada pela impossibilidade de recuperar a que termo remete cada um dos pronomes utilizados ao longo do comunicado",
         "d": "ambiguidade estrutural, decorrente da possibilidade de ligar o adjunto adverbial a mais de um termo dentro da estrutura sintática do período",
-        "e": "adequação de registro ao contexto, já que as expressões empregadas pertencem à conversa informal e destoam do gênero a que o texto pertence"
+        "e": "adequação de registro ao contexto, já que as frases estão bem formadas, mas as expressões empregadas pertencem à conversa informal e destoam do gênero do comunicado"
       },
       "resposta": "e",
       "explicacao": "Não há erro de gramática: as frases estão bem formadas. O que falha é a escolha do registro — \"galera\" e \"se liguem\" pertencem à conversa informal e destoam de um comunicado institucional.",

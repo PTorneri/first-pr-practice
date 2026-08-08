@@ -4655,7 +4655,7 @@ window.QUESTION_BANKS = {
                          "textoId":  "med-bio-t1",
                          "enunciado":  "Um paramécio é mantido em solução hipotônica e recebe um inibidor que interrompe o funcionamento dos vacúolos contráteis. Sobre o volume celular e a concentração do citoplasma ao longo do tempo, é correto afirmar que:",
                          "alternativas":  {
-                                              "a":  "o volume aumenta e a concentração diminui, pois a água segue entrando por osmose enquanto o soluto permanece na mesma quantidade",
+                                              "a":  "o volume aumenta e a concentração diminui, pois a água segue entrando por osmose e deixa de ser expulsa, enquanto o soluto permanece na mesma quantidade",
                                               "b":  "ambos aumentam, pois a água que entra arrasta consigo solutos do meio externo e eleva a concentração interna do citoplasma",
                                               "c":  "ambos diminuem, pois o bloqueio do vacúolo faz a célula perder água para o meio até atingir um novo equilíbrio osmótico",
                                               "d":  "o volume aumenta e a concentração se mantém, pois a membrana ajusta a entrada de solutos ao volume que a célula vai assumindo",
@@ -4691,7 +4691,7 @@ window.QUESTION_BANKS = {
                          "alternativas":  {
                                               "a":  "autossômica dominante, já que a condição reaparece a cada geração e atinge homens e mulheres na mesma proporção esperada",
                                               "b":  "dominante ligada ao X, já que um genitor afetado transmitiria a condição a todas as suas filhas e a nenhum de seus filhos homens",
-                                              "c":  "autossômica recessiva, já que um casal não afetado gerou filhas afetadas e há afetados de ambos os sexos nas gerações seguintes",
+                                              "c":  "autossômica recessiva, já que um casal não afetado gerou filhas afetadas e há afetados de ambos os sexos, inclusive uma mulher de pai não afetado",
                                               "d":  "recessiva ligada ao X, já que as mulheres afetadas teriam recebido um dos alelos do pai, que não manifesta a condição no heredograma",
                                               "e":  "mitocondrial, já que a transmissão nesse tipo de herança se dá pela linhagem materna e atinge a descendência de forma indiscriminada"
                                           },
@@ -4734,7 +4734,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "Um agricultor removeu um anel completo da casca de ramos caulinares de uma árvore frutífera, prática conhecida como anelamento. Semanas depois, observou acúmulo de tecido e engrossamento na região imediatamente acima do corte, enquanto a porção abaixo dele permaneceu com o diâmetro original. As folhas do ramo mantiveram-se verdes e turgidas durante todo o período.",
                          "enunciado":  "O acúmulo observado acima do corte e a manutenção do turgor das folhas indicam que o anelamento interrompeu:",
                          "alternativas":  {
-                                              "a":  "o floema, mantendo o xilema íntegro, de modo que a seiva elaborada ficou represada acima do corte e a água seguiu subindo até as folhas",
+                                              "a":  "o floema, que fica na casca retirada, mantendo íntegro o xilema, mais interno, de modo que a seiva elaborada ficou represada acima do corte e a água seguiu subindo",
                                               "b":  "o xilema, mantendo o floema íntegro, o que faria a água se acumular na região acima da faixa de casca que foi retirada do ramo",
                                               "c":  "os dois tecidos condutores ao mesmo tempo, situação em que o transporte cessaria nos dois sentidos e as folhas perderiam turgor rapidamente",
                                               "d":  "apenas a epiderme do caule, sem alcançar os tecidos condutores, que se localizam em posição mais interna e ficariam preservados",
@@ -4829,7 +4829,7 @@ window.QUESTION_BANKS = {
                          "enunciado":  "A fenilcetonúria é detectada nessa triagem porque:",
                          "alternativas":  {
                                               "a":  "provoca alterações físicas visíveis já ao nascimento, e o exame laboratorial serve apenas para confirmar um diagnóstico que a observação clínica já sugere",
-                                              "b":  "decorre da deficiência de uma enzima do metabolismo da fenilalanina, cujo acúmulo lesa o sistema nervoso e é evitável por dieta precoce",
+                                              "b":  "decorre da deficiência hereditária de uma enzima do metabolismo da fenilalanina, cujo acúmulo lesa o sistema nervoso em desenvolvimento e é evitável por dieta antes dos sintomas",
                                               "c":  "é transmitida por herança dominante, padrão que torna elevada a chance de um recém-nascido de qualquer família apresentar a condição",
                                               "d":  "resulta de uma infecção adquirida durante a gestação, tratável com antibiótico se iniciado ainda nos primeiros dias após o parto",
                                               "e":  "afeta a produção de hemoglobina e se manifesta por crises dolorosas que costumam começar ainda dentro do período neonatal"
@@ -4888,7 +4888,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "Durante a inspiração em repouso, o diafragma se contrai e desce, e os músculos intercostais externos elevam as costelas. O volume da caixa torácica aumenta e o ar entra pelas vias aéreas até os alvéolos.",
                          "enunciado":  "A entrada de ar nos pulmões durante a inspiração ocorre porque a pressão intra-alveolar:",
                          "alternativas":  {
-                                              "a":  "torna-se menor que a atmosférica, em consequência do aumento do volume da caixa torácica, e o ar flui para a região de menor pressão",
+                                              "a":  "torna-se menor que a atmosférica, em consequência do aumento do volume da caixa torácica, e o ar flui da região de maior para a de menor pressão",
                                               "b":  "torna-se maior que a atmosférica, condição que empurraria o ar da árvore respiratória em direção ao interior dos alvéolos",
                                               "c":  "iguala-se à pressão atmosférica, situação apontada como necessária para que um fluxo de ar se estabeleça entre os dois compartimentos",
                                               "d":  "aumenta junto com o volume torácico, de modo que o produto entre as duas grandezas se mantém constante durante todo o ciclo",
@@ -4983,7 +4983,7 @@ window.QUESTION_BANKS = {
                          "enunciado":  "A maior gravidade observada nos animais livres de micro-organismos sugere que a microbiota intestinal atua:",
                          "alternativas":  {
                                               "a":  "produzindo anticorpos específicos contra o patógeno mesmo antes do primeiro contato do animal com aquele agente infeccioso",
-                                              "b":  "competindo com o patógeno por sítios de adesão e nutrientes e estimulando o desenvolvimento da resposta imune local da mucosa",
+                                              "b":  "resistindo à colonização, ao competir com o patógeno por sítios de adesão e nutrientes, e sendo necessária à maturação do tecido linfoide do intestino",
                                               "c":  "degradando diretamente o material genético do patógeno no lúmen intestinal por meio de enzimas secretadas pelas próprias bactérias",
                                               "d":  "elevando o pH do conteúdo intestinal a valores nos quais a sobrevivência de bactérias patogênicas se torna bastante improvável",
                                               "e":  "substituindo temporariamente a função das glândulas intestinais durante o período em que a infecção se encontra em atividade"
@@ -5015,7 +5015,7 @@ window.QUESTION_BANKS = {
                                               "a":  "sua baixa variabilidade genética, condição que reduziria a chance de surgirem respostas adaptativas diante de uma pressão seletiva nova",
                                               "b":  "seu ciclo reprodutivo curto, que ampliaria o número de ninhos expostos ao longo do ano e multiplicaria as oportunidades de predação",
                                               "c":  "sua dieta especializada, que as obrigaria a forragear nas mesmas áreas frequentadas pelos predadores recém-chegados à ilha",
-                                              "d":  "terem evoluído sem predadores terrestres, o que resultou na ausência de comportamentos antipredatórios diante desse tipo de ameaça",
+                                              "d":  "terem evoluído sem predadores terrestres, contexto em que a seleção não favoreceu vigilância, fuga nem nidificação protegida diante desse tipo de ameaça",
                                               "e":  "sua capacidade de voo reduzida, traço que se desenvolveu de maneira semelhante nas aves de ilhas oceânicas ao redor do mundo"
                                           },
                          "resposta":  "d",
@@ -5109,7 +5109,7 @@ window.QUESTION_BANKS = {
                                               "a":  "não atravessa a barreira glomerular em condições normais e passa a fazê-lo quando a concentração plasmática se eleva acima do habitual",
                                               "b":  "deixa de ser reabsorvida porque a insulina, ausente ou ineficaz, é o hormônio que aciona diretamente os transportadores tubulares de glicose",
                                               "c":  "é secretada ativamente pelos túbulos renais para o filtrado sempre que sua concentração no sangue ultrapassa determinado limiar fisiológico",
-                                              "d":  "é filtrada e reabsorvida nos túbulos, e a concentração plasmática elevada satura ali os transportadores responsáveis por essa reabsorção",
+                                              "d":  "é livremente filtrada e reabsorvida no túbulo proximal, e a concentração plasmática elevada satura ali os transportadores, de modo que o excedente segue para a urina",
                                               "e":  "sofre degradação enzimática no interior do túbulo contorcido proximal, e os produtos dessa quebra é que apareceriam no exame de urina"
                                           },
                          "resposta":  "d",
@@ -5154,7 +5154,7 @@ window.QUESTION_BANKS = {
                                               "a":  "atinge apenas espécies predadoras, uma vez que os organismos dos níveis tróficos inferiores não conseguem absorvê-lo diretamente da água",
                                               "b":  "sofre transformação química ao longo da cadeia alimentar, tornando-se progressivamente mais solúvel em água a cada transferência trófica",
                                               "c":  "é produzido pelos próprios organismos aquáticos em resposta ao estresse causado pela presença de efluentes industriais no estuário",
-                                              "d":  "é excretado com dificuldade e se acumula nos tecidos, e cada nível trófico soma o que foi acumulado pelos organismos do nível anterior",
+                                              "d":  "é excretado com dificuldade e se acumula nos tecidos, e cada predador soma, ao longo da vida, o que foi acumulado por cada indivíduo do nível anterior",
                                               "e":  "se dilui a cada transferência trófica, mas os predadores compensam esse efeito ingerindo um volume muito maior de alimento ao longo da vida"
                                           },
                          "resposta":  "d",
@@ -5227,7 +5227,7 @@ window.QUESTION_BANKS = {
                          "enunciado":  "Os dois procedimentos conferem, respectivamente, imunização:",
                          "alternativas":  {
                                               "a":  "ativa e passiva, sendo a primeira de efeito imediato e curta duração e a segunda de instalação lenta e memória duradoura",
-                                              "b":  "passiva e ativa, sendo a primeira de efeito imediato e curta duração e a segunda de instalação lenta e de memória duradoura",
+                                              "b":  "passiva e ativa, sendo a primeira feita de anticorpos prontos, de efeito imediato e curta duração, e a segunda de instalação lenta e de memória duradoura",
                                               "c":  "ativa nos dois casos, diferindo apenas na natureza do antígeno utilizado para desencadear a resposta imunológica do paciente",
                                               "d":  "passiva nos dois casos, já que em ambos são administradas moléculas prontas capazes de neutralizar a toxina circulante no organismo",
                                               "e":  "passiva e ativa, sendo a primeira capaz de gerar memória imunológica duradoura e a segunda de agir imediatamente após a aplicação"
@@ -5260,7 +5260,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "Um peixe ósseo de água doce e um peixe ósseo marinho enfrentam desafios osmóticos opostos. O primeiro vive num meio menos concentrado que seus fluidos corporais; o segundo, num meio mais concentrado que eles.",
                          "enunciado":  "Sobre a osmorregulação desses animais, é correto afirmar que o peixe de água doce:",
                          "alternativas":  {
-                                              "a":  "ganha água por osmose e produz urina abundante e diluída, enquanto o marinho perde água e ingere água do mar para compensá-la",
+                                              "a":  "ganha água por osmose e produz urina abundante e diluída, captando sais ativamente pelas brânquias, enquanto o marinho perde água e bebe água do mar",
                                               "b":  "perde água por osmose e ingere grande volume de água do mar, enquanto o marinho ganha água e produz urina bastante diluída",
                                               "c":  "ganha água por osmose e produz urina escassa e concentrada, para reter o máximo possível dos sais dissolvidos em seus fluidos",
                                               "d":  "mantém equilíbrio osmótico passivo com o meio, enquanto apenas o peixe marinho precisa gastar energia com transporte ativo de sais",
@@ -5340,7 +5340,7 @@ window.QUESTION_BANKS = {
                          "alternativas":  {
                                               "a":  "elevação da umidade do ar, que reduz a demanda por transpiração e leva a planta a interromper as trocas gasosas com o ambiente",
                                               "b":  "aumento da concentração de gás carbônico no mesofilo durante os períodos de maior atividade fotossintética ao longo do dia",
-                                              "c":  "déficit hídrico, que provoca saída de água das células-guarda, perda de turgor e fechamento do poro, sob ação do ácido abscísico",
+                                              "c":  "déficit hídrico, em que o ácido abscísico promove a saída de íons e, com ela, de água das células-guarda, com perda de turgor e fechamento do poro",
                                               "d":  "elevação da intensidade luminosa, estímulo que promove o acúmulo de íons potássio no interior das células-guarda da epiderme",
                                               "e":  "queda da temperatura foliar durante a madrugada, momento em que a planta interrompe completamente o processo de respiração celular"
                                           },
@@ -5373,7 +5373,7 @@ window.QUESTION_BANKS = {
                                               "b":  "redução da concentração de nutrientes na água, esgotados pelo crescimento acelerado da população de algas na superfície do corpo hídrico",
                                               "c":  "elevação da temperatura da água provocada pela camada de algas na superfície, que absorve radiação solar e aquece o corpo hídrico",
                                               "d":  "competição direta por alimento entre as algas em proliferação e os peixes herbívoros presentes nas camadas superiores do ecossistema",
-                                              "e":  "consumo do oxigênio dissolvido pelos decompositores que atuam sobre as algas mortas, cuja respiração esgota o gás dissolvido na água"
+                                              "e":  "consumo do oxigênio dissolvido pelas bactérias aeróbias que decompõem as algas mortas, matéria orgânica cuja oxidação esgota o gás disponível na água"
                                           },
                          "resposta":  "e",
                          "explicacao":  "Na eutrofização, o excesso de nutrientes desencadeia a proliferação de algas; ao morrerem, elas se tornam matéria orgânica para bactérias aeróbias, cuja respiração consome o oxigênio dissolvido. É essa queda de oxigênio que mata os peixes. O bloqueio de luz pela camada superficial agrava o quadro ao reduzir a fotossíntese nas camadas mais profundas.",
@@ -5403,7 +5403,7 @@ window.QUESTION_BANKS = {
                          "textoId":  "med-bio-t4",
                          "enunciado":  "Segundo o texto, a terapia aprovada para anemia falciforme atua de modo indireto porque:",
                          "alternativas":  {
-                                              "a":  "desliga o gene que reprime a hemoglobina fetal, cuja produção retomada compensa a proteína defeituosa do próprio paciente",
+                                              "a":  "desliga o gene que reprime a hemoglobina fetal depois do nascimento, e a forma fetal, retomada, não polimeriza e compensa a proteína defeituosa",
                                               "b":  "substitui a timina original por adenina no ponto exato em que a mutação ocorreu, restaurando a sequência normal do gene",
                                               "c":  "insere uma cópia adicional do gene da hemoglobina adulta em outro cromossomo, elevando a produção total da proteína funcional",
                                               "d":  "impede a polimerização da hemoglobina defeituosa por meio de uma proteína sintética introduzida junto com a enzima de corte",
@@ -5498,7 +5498,7 @@ window.QUESTION_BANKS = {
                          "enunciado":  "A probabilidade de o casal ter uma criança daltônica e o sexo dessa criança são:",
                          "alternativas":  {
                                               "a":  "1/2, e a criança poderá ser tanto do sexo masculino quanto do feminino, já que ambos os pais carregam o alelo recessivo em questão",
-                                              "b":  "1/4, e a criança será necessariamente do sexo masculino, já que apenas os filhos homens dependem do X recebido da mãe portadora",
+                                              "b":  "1/4, e a criança será necessariamente do sexo masculino, já que as filhas recebem o X normal do pai e só os filhos dependem do X da mãe portadora",
                                               "c":  "1/4, e a criança será necessariamente do sexo feminino, pois precisaria receber um alelo recessivo de cada um dos dois genitores",
                                               "d":  "1/8, e a criança poderá ser de qualquer sexo, dependendo de qual dos cromossomos sexuais paternos participar da fecundação",
                                               "e":  "zero, uma vez que o pai apresenta visão normal e não teria como transmitir o alelo do daltonismo a nenhum de seus descendentes"
@@ -5557,7 +5557,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "Uma tempestade levou poucos indivíduos de uma espécie continental de ave para uma ilha distante, onde eles fundaram uma nova população. Décadas depois, verificou-se que a frequência de certos alelos raros nessa população insular é muito superior à observada na população de origem, sem que houvesse vantagem adaptativa associada a eles.",
                          "enunciado":  "O processo evolutivo que melhor explica a situação descrita é:",
                          "alternativas":  {
-                                              "a":  "o efeito fundador, em que a amostra pequena que originou a nova população não representa as frequências alélicas da original",
+                                              "a":  "o efeito fundador, modalidade de deriva em que a amostra pequena que originou a nova população não representa as frequências alélicas da original",
                                               "b":  "a seleção natural direcional, que teria favorecido justamente os portadores dos alelos raros nas condições ambientais da ilha",
                                               "c":  "o fluxo gênico contínuo entre a ilha e o continente, capaz de elevar a frequência de alelos raros na população recém-estabelecida",
                                               "d":  "a irradiação adaptativa, processo pelo qual um grupo se diversifica rapidamente ao ocupar nichos ecológicos ainda desocupados",
@@ -5635,7 +5635,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "Um paciente apresenta contagem muito reduzida de um tipo específico de linfócito, o que compromete tanto a resposta mediada por células quanto a produção adequada de anticorpos, embora esse linfócito não seja o produtor direto dessas moléculas.",
                          "enunciado":  "O tipo celular reduzido e a razão pela qual sua falta afeta também a produção de anticorpos são:",
                          "alternativas":  {
-                                              "a":  "linfócito T auxiliar, porque ele ativa os linfócitos B e é necessário à sua diferenciação em plasmócitos produtores de anticorpos",
+                                              "a":  "linfócito T auxiliar, porque ele coordena a resposta adaptativa e fornece aos linfócitos B o sinal necessário à sua diferenciação em plasmócitos",
                                               "b":  "linfócito B, porque ele se diferencia em plasmócitos e ao mesmo tempo apresenta antígenos aos macrófagos do tecido linfoide",
                                               "c":  "macrófago, porque essa célula fagocita o antígeno e, além disso, secreta diretamente os anticorpos na corrente sanguínea",
                                               "d":  "linfócito T citotóxico, porque ele destrói células infectadas e também converte antígenos em formas reconhecíveis pelos plasmócitos",
@@ -5688,7 +5688,7 @@ window.QUESTION_BANKS = {
                                               "b":  "isotônica e hipertônica, situação em que apenas a segunda amostra apresentaria alteração perceptível no volume de suas células",
                                               "c":  "hipertônica e isotônica, condições que produziriam turgor máximo na primeira amostra e nenhuma alteração visível na segunda",
                                               "d":  "hipotônica e isotônica, já que a saída de água das células da amostra I decorreria da menor concentração do meio externo",
-                                              "e":  "hipertônica e hipotônica, o que produziu plasmólise nas células da primeira amostra e turgescência nas células da segunda"
+                                              "e":  "hipertônica e hipotônica, o que produziu, pela saída de água, plasmólise nas células da primeira amostra e turgescência nas células da segunda"
                                           },
                          "resposta":  "e",
                          "explicacao":  "Membrana descolada da parede com citoplasma retraído é plasmólise, resultado da saída de água para um meio hipertônico. Células com membrana justaposta à parede e vacúolo desenvolvido estão túrgidas, o que ocorre em meio hipotônico. As alternativas (a) e (d) invertem o sentido do fluxo osmótico.",
@@ -5699,7 +5699,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "Frutos climatéricos, como banana e tomate, continuam amadurecendo depois de colhidos. Produtores costumam transportá-los ainda verdes e, no destino, expô-los a um gás em câmaras fechadas para acelerar o processo de maneira controlada.",
                          "enunciado":  "O hormônio vegetal utilizado nesse procedimento e seu efeito sobre o fruto são:",
                          "alternativas":  {
-                                              "a":  "etileno, que estimula a degradação da clorofila, a conversão do amido em açúcares solúveis e o amolecimento da parede celular",
+                                              "a":  "etileno, hormônio gasoso que estimula a degradação da clorofila, a conversão do amido em açúcares solúveis e o amolecimento da parede celular",
                                               "b":  "auxina, que promove o alongamento das células do pericarpo e com isso aumenta o volume final do fruto colhido ainda verde",
                                               "c":  "giberelina, que interrompe a dormência das sementes e desencadeia a produção de enzimas responsáveis pela quebra das reservas",
                                               "d":  "ácido abscísico, que induz o fechamento dos estômatos do fruto e concentra os açúcares presentes na polpa durante o transporte",
@@ -5791,7 +5791,7 @@ window.QUESTION_BANKS = {
                          "enunciado":  "As associações I, II e III são denominadas, respectivamente:",
                          "alternativas":  {
                                               "a":  "micorriza, líquen e parasitismo, sendo a primeira delas pioneira na colonização de ambientes recém-formados por rocha exposta",
-                                              "b":  "líquen, micorriza e parasitismo, associações em que as duas primeiras trazem ganho mútuo e a última, prejuízo a um deles",
+                                              "b":  "líquen, micorriza e parasitismo, associações em que as duas primeiras trazem ganho mútuo, sendo o líquen pioneiro, e a última, prejuízo",
                                               "c":  "comensalismo, mutualismo e predatismo, categorias que descrevem o saldo de custo e benefício",
                                               "d":  "líquen, parasitismo e micorriza, sendo esta última prejudicial à planta por desviar parte dos nutrientes absorvidos pela raiz",
                                               "e":  "protocooperação, inquilinismo e amensalismo, relações em que ao menos um dos organismos obtém vantagem sem prejudicar o outro"
@@ -5932,7 +5932,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "Um esquema apresenta o olho humano em corte, com destaque para a camada mais interna, onde se localizam células fotorreceptoras de dois tipos: umas responsáveis pela visão em baixa luminosidade e sem discriminação de cores, outras pela visão de cores em ambientes bem iluminados.",
                          "enunciado":  "A camada indicada e os dois tipos celulares descritos são, respectivamente:",
                          "alternativas":  {
-                                              "a":  "retina, com bastonetes responsáveis pela visão noturna e cones responsáveis pela visão de cores em ambientes de maior luminosidade",
+                                              "a":  "retina, com bastonetes muito sensíveis à luz, responsáveis pela visão noturna, e cones, que exigem mais luz e respondem pela visão de cores em ambientes claros",
                                               "b":  "coroide, com cones responsáveis pela visão noturna e bastonetes responsáveis pela discriminação das diferentes cores do espectro visível",
                                               "c":  "esclera, com bastonetes que atuam em alta luminosidade e cones que respondem por toda a percepção visual em ambientes escuros",
                                               "d":  "retina, com cones responsáveis pela visão em baixa luminosidade e bastonetes responsáveis pela percepção das cores em ambientes claros",
@@ -6061,7 +6061,7 @@ window.QUESTION_BANKS = {
                                               "a":  "o cerebelo, e os tremores redistribuem o sangue das extremidades para o centro do corpo, conservando o calor nos órgãos internos",
                                               "b":  "a hipófise, e os tremores reduzem a superfície corporal exposta ao ambiente, diminuindo a perda de calor por convecção e radiação",
                                               "c":  "o bulbo, e os tremores aumentam a frequência respiratória, o que eleva a temperatura do ar que chega aos alvéolos pulmonares",
-                                              "d":  "o hipotálamo, e os tremores produzem calor por meio da contração rápida, repetida e involuntária da musculatura esquelética do corpo",
+                                              "d":  "o hipotálamo, que compara a temperatura do sangue com um valor de referência, e os tremores produzem calor pela contração rápida e involuntária da musculatura",
                                               "e":  "a medula espinal, e os tremores estimulam a liberação de adrenalina, hormônio responsável direto pela elevação da temperatura corporal"
                                           },
                          "resposta":  "d",
@@ -6153,7 +6153,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "Um esquema representa as duas etapas da fotossíntese. Na etapa I, que ocorre nos tilacoides, a luz é absorvida e há produção de duas substâncias que serão consumidas na etapa II. Na etapa II, que ocorre no estroma, o gás carbônico é incorporado a um composto de cinco carbonos.",
                          "enunciado":  "As duas substâncias produzidas na etapa I e consumidas na etapa II são:",
                          "alternativas":  {
-                                              "a":  "ATP e NADPH, produzidos na etapa fotoquímica e consumidos na etapa de redução do carbono, que ocorre no estroma do cloroplasto",
+                                              "a":  "ATP e NADPH, energia química e poder redutor produzidos na etapa fotoquímica e consumidos na etapa de redução do carbono, no estroma do cloroplasto",
                                               "b":  "glicose e oxigênio, moléculas que resultam diretamente da absorção de energia luminosa pelos pigmentos presentes na membrana do tilacoide",
                                               "c":  "água e gás carbônico, substratos que precisam ser transportados do citoplasma até o interior do cloroplasto antes de cada ciclo",
                                               "d":  "ATP e oxigênio, sendo o segundo reincorporado ao ciclo de fixação do carbono como aceptor final dos elétrons transportados",
@@ -6202,7 +6202,7 @@ window.QUESTION_BANKS = {
                                               "a":  "aldosterona, que estimula a excreção de sódio e provoca a saída de água para o filtrado, concentrando os solutos remanescentes na urina",
                                               "b":  "insulina, que aumenta a permeabilidade das células tubulares à glicose e, com ela, ao volume de água reabsorvido durante o percurso",
                                               "c":  "paratormônio, que eleva a reabsorção de cálcio nos túbulos e reduz secundariamente o volume de urina eliminado ao longo do dia",
-                                              "d":  "hormônio antidiurético, que aumenta a permeabilidade à água e eleva sua reabsorção, produzindo urina de menor volume e concentrada",
+                                              "d":  "hormônio antidiurético, que insere aquaporinas na membrana e assim eleva a reabsorção de água, produzindo urina de menor volume e mais concentrada",
                                               "e":  "cortisol, que reduz a taxa de filtração glomerular e assim diminui o volume total de filtrado formado a cada minuto pelos rins"
                                           },
                          "resposta":  "d",
@@ -6229,7 +6229,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "O fígado desempenha diversas funções no organismo humano. Entre elas estão o armazenamento de glicogênio, a produção de proteínas plasmáticas, a conversão de amônia em ureia e a secreção de uma substância que atua no intestino delgado.",
                          "enunciado":  "A substância secretada pelo fígado que atua no intestino delgado e sua função na digestão são:",
                          "alternativas":  {
-                                              "a":  "a bile, que emulsiona as gorduras e amplia a superfície de ação das lipases pancreáticas, sem conter enzimas digestivas próprias",
+                                              "a":  "a bile, armazenada na vesícula, que quebra as gotículas de gordura em outras menores e amplia a superfície de ação das lipases pancreáticas, sem conter enzimas",
                                               "b":  "o suco pancreático, que neutraliza o quimo ácido vindo do estômago e fornece as enzimas responsáveis pela quebra dos três tipos de nutriente",
                                               "c":  "a pepsina, que inicia a quebra das proteínas ingeridas e continua atuando ao longo de todo o trajeto do alimento pelo intestino delgado",
                                               "d":  "a insulina, que promove a captação da glicose absorvida pelas células do epitélio intestinal antes que ela alcance a corrente sanguínea",
@@ -6294,7 +6294,7 @@ window.QUESTION_BANKS = {
                                               "b":  "elevação permanente da temperatura corporal após a primeira infecção, o que acelera todas as reações enzimáticas da resposta imune",
                                               "c":  "produção contínua de anticorpos contra aquele agente durante toda a vida, independentemente de haver nova exposição a ele",
                                               "d":  "ação das barreiras físicas e químicas do organismo, que se tornam progressivamente mais eficazes a cada contato com o mesmo patógeno",
-                                              "e":  "permanência de linfócitos de memória de vida longa, que reconhecem o antígeno e se multiplicam rapidamente num novo contato"
+                                              "e":  "permanência de linfócitos de memória de vida longa, que num novo contato dispensam as etapas iniciais de seleção e ativação e proliferam de imediato"
                                           },
                          "resposta":  "e",
                          "explicacao":  "Após o primeiro contato, parte dos linfócitos ativados se diferencia em células de memória de vida longa. Num reencontro, elas dispensam as etapas iniciais de seleção e ativação e proliferam de imediato, o que encurta a resposta de dias para horas. É esse mecanismo que a vacinação explora deliberadamente.",
@@ -6397,7 +6397,7 @@ window.QUESTION_BANKS = {
                          "enunciado":  "A associação descrita e a consequência do fenômeno de branqueamento para o coral são:",
                          "alternativas":  {
                                               "a":  "parasitismo, e a expulsão das algas beneficia o coral ao interromper a retirada de nutrientes que elas promoviam a partir de seus tecidos",
-                                              "b":  "mutualismo, e a perda das algas priva o coral de boa parte de seu suprimento energético, antes obtido da fotossíntese realizada por elas",
+                                              "b":  "mutualismo, e a perda das algas priva o coral dos compostos orgânicos que elas produziam por fotossíntese e lhe transferiam em troca do abrigo que ele oferecia",
                                               "c":  "comensalismo, e a expulsão não altera o balanço energético do coral, que passa a depender integralmente da captura de plâncton da água",
                                               "d":  "predatismo, e a saída das algas reduz a pressão sobre as populações de zooplâncton que circulam entre as colônias de coral do recife",
                                               "e":  "competição, e o branqueamento representa a vitória do coral na disputa por espaço e por luz travada com as algas em seus próprios tecidos"
@@ -6494,7 +6494,7 @@ window.QUESTION_BANKS = {
                                               "a":  "sua maior variabilidade genética em relação às espécies nativas, o que lhe garante vantagem em qualquer ambiente onde venha a ser introduzida",
                                               "b":  "sua capacidade de se reproduzir assexuadamente no novo ambiente, dispensando a presença de parceiros para colonizar o corpo hídrico",
                                               "c":  "sua taxa metabólica mais elevada, que lhe permite explorar recursos alimentares indisponíveis para as espécies nativas do mesmo lago",
-                                              "d":  "ausência de predadores e parasitas que a controlariam na área de origem, o que permite à população crescer sem os freios que ali existiam",
+                                              "d":  "ausência dos predadores, parasitas e competidores que a controlariam na área de origem, o que permite à população crescer sem os freios que ali existiam",
                                               "e":  "sua tolerância exclusiva a águas de baixa concentração de oxigênio, condição que a torna inacessível às demais espécies do ecossistema"
                                           },
                          "resposta":  "d",
@@ -6528,7 +6528,7 @@ window.QUESTION_BANKS = {
                                               "a":  "etileno e celulase, atuando na degradação da parede das células do endosperma e na liberação do conteúdo",
                                               "b":  "ácido abscísico e lipase, sendo o primeiro também o hormônio que mantém a semente em estado de dormência antes das condições favoráveis",
                                               "c":  "auxina e protease, combinação que promove ao mesmo tempo o alongamento das células e a mobilização das reservas proteicas da semente",
-                                              "d":  "giberelina e amilase, respectivamente o hormônio produzido pelo embrião e a enzima que hidrolisa as reservas de amido do endosperma",
+                                              "d":  "giberelina e amilase, respectivamente o hormônio produzido pelo embrião e a enzima que a aleurona sintetiza para hidrolisar o amido do endosperma",
                                               "e":  "citocinina e amilase, hormônio que estimula a divisão celular no embrião e simultaneamente a quebra do amido presente no endosperma"
                                           },
                          "resposta":  "d",
@@ -6559,7 +6559,7 @@ window.QUESTION_BANKS = {
                                               "b":  "as vitaminas hidrossolúveis, e a obstrução compromete a coagulação sanguínea por falta do aporte adequado desses micronutrientes",
                                               "c":  "a glicose, e a obstrução leva à queda da glicemia por interrupção da via principal de absorção dos carboidratos ingeridos na dieta",
                                               "d":  "os sais minerais, e a obstrução resulta em desequilíbrio eletrolítico com repercussão direta sobre a excitabilidade das células nervosas",
-                                              "e":  "os lipídios, e a obstrução provoca acúmulo de líquido nos tecidos, o edema, por falha na drenagem do líquido intersticial dos tecidos"
+                                              "e":  "os lipídios, cujos quilomícrons são grandes demais para os capilares sanguíneos, e a obstrução provoca acúmulo de líquido intersticial nos tecidos, o edema"
                                           },
                          "resposta":  "e",
                          "explicacao":  "Os quilomícrons formados a partir dos lipídios são grandes demais para os capilares sanguíneos e entram nos vasos quilíferos, do sistema linfático. Se a drenagem linfática é obstruída, o líquido intersticial se acumula e produz edema — mecanismo da elefantíase na filariose. Aminoácidos e glicose seguem pela via sanguínea.",
@@ -6640,7 +6640,7 @@ window.QUESTION_BANKS = {
                                               "b":  "temperatura elevada da água, condição que diminui a solubilidade dos gases e reduz a quantidade de oxigênio que ela consegue reter",
                                               "c":  "presença de metais pesados dissolvidos, substâncias que interferem diretamente na determinação laboratorial do teor de oxigênio da amostra",
                                               "d":  "elevada turbidez causada por partículas minerais em suspensão, as quais reduzem a penetração de luz e limitam a produção primária no local",
-                                              "e":  "grande quantidade de matéria orgânica, que será oxidada pelos decompositores com consumo do oxigênio dissolvido na água ao longo do trecho"
+                                              "e":  "grande quantidade de matéria orgânica, carga típica de esgoto, que será oxidada pelos decompositores com consumo do oxigênio dissolvido na água rio abaixo"
                                           },
                          "resposta":  "e",
                          "explicacao":  "A DBO mede quanto oxigênio os micro-organismos consumirão para degradar a matéria orgânica presente. Valor alto indica carga orgânica alta — típico de esgoto — e antecipa a queda de oxigênio dissolvido rio abaixo. É indicador de poluição orgânica, e não de metais ou de turbidez mineral.",
@@ -6772,7 +6772,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "Um estudo em uma savana africana registrou que a presença de grandes herbívoros mantém extensas áreas abertas, com poucas árvores. Quando esses herbívoros foram excluídos experimentalmente de algumas parcelas, a vegetação lenhosa se adensou rapidamente e a diversidade de plantas herbáceas caiu.",
                          "enunciado":  "O papel desempenhado pelos grandes herbívoros nesse ecossistema é o de:",
                          "alternativas":  {
-                                              "a":  "espécie-chave, cuja atuação mantém a estrutura e a diversidade da comunidade além do que sua abundância relativa na área sugeriria",
+                                              "a":  "espécie-chave, que ao consumir plântulas lenhosas mantém a estrutura e a diversidade da comunidade além do que sua abundância relativa sugeriria",
                                               "b":  "espécie exótica invasora, cuja presença altera profundamente a composição da vegetação nativa da região em que foi introduzida",
                                               "c":  "espécie bioindicadora, cuja abundância informa sobre a qualidade do ambiente e permite monitorar mudanças ao longo do tempo na savana",
                                               "d":  "espécie generalista, capaz de explorar uma ampla variedade de recursos alimentares e por isso pouco sensível a mudanças no ambiente",
@@ -6908,7 +6908,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "Um levantamento comparou a riqueza de espécies de aves em fragmentos florestais de tamanhos variados, situados a distâncias diferentes de uma grande área contínua de floresta. Os resultados mostraram que fragmentos maiores e mais próximos da área contínua abrigavam mais espécies.",
                          "enunciado":  "O padrão observado é previsto pela teoria da biogeografia de ilhas, segundo a qual o número de espécies resulta do equilíbrio entre:",
                          "alternativas":  {
-                                              "a":  "as taxas de imigração e de extinção, sendo a primeira influenciada pela distância e a segunda pelo tamanho do fragmento considerado",
+                                              "a":  "as taxas de imigração e de extinção, que se igualam no equilíbrio, sendo a primeira influenciada pela distância e a segunda pelo tamanho do fragmento",
                                               "b":  "as taxas de natalidade e de mortalidade das populações residentes, ambas determinadas pela quantidade de recursos alimentares disponíveis",
                                               "c":  "a produtividade primária e a eficiência de transferência de energia entre os níveis tróficos presentes em cada um dos fragmentos avaliados",
                                               "d":  "a intensidade da competição interespecífica e a pressão de predação exercida por espécies vindas da matriz agrícola que cerca os fragmentos",
@@ -6982,6 +6982,826 @@ window.QUESTION_BANKS = {
                          "resposta":  "c",
                          "explicacao":  "É o efeito Bohr. Tecidos em atividade produzem gás carbônico e ácido, baixando o pH, e geram calor: as duas condições reduzem a afinidade da hemoglobina e aumentam a liberação de oxigênio exatamente onde ele é mais necessário. Deslocamento para a direita significa menor afinidade, e não maior, o que descarta (a).",
                          "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-151",
+                         "texto_apoio":  "Em uma variedade de tomate, o fruto vermelho depende de um alelo dominante V e o fruto amarelo, do alelo recessivo v. Um produtor autofecundou plantas heterozigotas e obteve um grande lote de plantas de fruto vermelho, todas fenotipicamente indistinguíveis entre si.",
+                         "enunciado":  "Escolhendo ao acaso uma planta de fruto vermelho desse lote, a probabilidade de ela ser heterozigota é de:",
+                         "alternativas":  {
+                                              "a":  "1/4",
+                                              "b":  "1/3",
+                                              "c":  "1/2",
+                                              "d":  "2/3",
+                                              "e":  "3/4"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A autofecundação Vv x Vv gera 1 VV : 2 Vv : 1 vv. O lote descrito exclui as plantas amarelas, restando 1 VV e 2 Vv, ou seja, 3 plantas vermelhas. Dessas, 2 são heterozigotas: 2/3. A armadilha está em (c): quem responde 1/2 esqueceu que a proporção de heterozigotos deve ser calculada dentro do grupo já selecionado pelo fenótipo, e não sobre a descendência inteira. Quem responde 1/4 (a) usa a fração de Vv sobre o total, que não é o que se pede.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "biologia-152",
+                         "texto_apoio":  "Em cobaias, a pelagem preta é condicionada por um alelo dominante e a pelagem branca, pelo alelo recessivo correspondente. Um criador possui um macho preto de genótipo desconhecido e precisa determiná-lo antes de incluí-lo no plantel de reprodutores.",
+                         "enunciado":  "O cruzamento-teste indicado para essa finalidade utiliza fêmeas brancas porque:",
+                         "alternativas":  {
+                                              "a":  "o alelo recessivo presente nessas fêmeas neutraliza o alelo dominante do macho, permitindo que o genótipo paterno se expresse diretamente na prole",
+                                              "b":  "elas produzem apenas gametas com o alelo recessivo, de modo que o fenótipo de cada descendente revela diretamente qual alelo veio do macho",
+                                              "c":  "a homozigose materna reduz a variabilidade da prole a um único genótipo, o que dispensa a análise estatística do número de descendentes",
+                                              "d":  "o cruzamento entre um dominante e um recessivo sempre produz proporção 3:1, padrão que identifica de imediato a homozigose do reprodutor testado",
+                                              "e":  "fêmeas brancas apresentam maior número de filhotes por gestação, o que aumenta a confiabilidade estatística do resultado obtido no teste"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A fêmea branca é homozigota recessiva e só pode doar o alelo recessivo. Assim, o fenótipo de cada filhote depende exclusivamente do alelo que veio do macho: filhote branco denuncia um gameta recessivo e, portanto, macho heterozigoto. A armadilha é (a), que supõe uma neutralização inexistente entre alelos: o recessivo não anula o dominante, ele apenas não mascara nada. A proporção 3:1 citada em (d) aparece no cruzamento entre dois heterozigotos, não em um cruzamento-teste.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-153",
+                         "texto_apoio":  "Em uma planta ornamental, a altura alta (A) domina sobre a baixa (a) e a flor roxa (R) domina sobre a branca (r). Os dois genes situam-se em cromossomos diferentes. Duas plantas di-híbridas foram cruzadas entre si e o cruzamento originou 640 descendentes.",
+                         "enunciado":  "O número esperado de plantas baixas e de flor branca entre esses 640 descendentes é de:",
+                         "alternativas":  {
+                                              "a":  "10, valor obtido ao se considerar que cada gene contribui independentemente com 1/8 para o fenótipo duplo-recessivo",
+                                              "b":  "20, correspondente à metade da fração duplo-recessiva prevista pela segunda lei de Mendel para genes não ligados",
+                                              "c":  "40, correspondente à classe duplo-recessiva aarr, que representa 1/16 do total de descendentes obtidos no cruzamento",
+                                              "d":  "120, número que corresponde à classe fenotípica formada pelas plantas que exibem apenas um dos caracteres recessivos",
+                                              "e":  "160, resultado de se atribuir a cada um dos dois caracteres recessivos uma frequência independente de 1/2 na descendência"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "AaRr x AaRr dá 9 A_R_ : 3 A_rr : 3 aaR_ : 1 aarr. A classe baixa e branca é aarr, ou seja, 1/16 do total: 640/16 = 40. Também se chega ao mesmo valor multiplicando as probabilidades independentes: 1/4 (aa) x 1/4 (rr) = 1/16. A armadilha é (e): quem usa 1/2 para cada caráter recessivo confunde a proporção de gametas com a de descendentes e chega a 1/4 do total, 160. Já 120 (d) corresponde a cada uma das classes 3/16, com um só caráter recessivo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-154",
+                         "texto_apoio":  "Dois genes de segregação independente determinam, em uma espécie vegetal, a forma da semente (lisa L dominante sobre rugosa l) e a cor do tegumento (escuro E dominante sobre claro e). Um cruzamento entre duas plantas produziu descendentes nas seguintes proporções: 3 lisas e escuras : 3 lisas e claras : 1 rugosa e escura : 1 rugosa e clara.",
+                         "enunciado":  "Os genótipos das plantas parentais desse cruzamento são:",
+                         "alternativas":  {
+                                              "a":  "LlEe x Llee, combinação que produz 3:1 para a forma da semente e 1:1 para a cor do tegumento na descendência",
+                                              "b":  "LlEe x LlEe, cruzamento entre di-híbridos que constitui a base experimental da segunda lei de Mendel",
+                                              "c":  "LlEe x llee, cruzamento-teste que permite estimar diretamente a frequência dos gametas produzidos pela planta di-híbrida",
+                                              "d":  "LLEe x Llee, combinação em que a homozigose dominante de um dos parentais uniformiza o caráter forma da semente",
+                                              "e":  "Llee x llEe, cruzamento em que cada parental é heterozigoto para um gene diferente e homozigoto recessivo para o outro"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Convém decompor a proporção gene a gene. Para a forma: 6 lisas : 2 rugosas, ou seja, 3:1, padrão de Ll x Ll. Para a cor: 4 escuras : 4 claras, ou seja, 1:1, padrão de Ee x ee. Combinando, os parentais são LlEe e Llee. A armadilha é (b): a proporção 3:3:1:1 é frequentemente confundida com a 9:3:3:1, que só apareceria se os dois genes estivessem em heterozigose nos dois parentais. Já (c) produziria 1:1:1:1.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "biologia-155",
+                         "texto_apoio":  "Na pelagem de uma raça canina, dois genes de segregação independente atuam sobre o mesmo caráter. O gene B determina a produção do pigmento preto (B) ou marrom (b). O gene E controla a deposição do pigmento no pelo: o alelo E permite a deposição, e o genótipo ee impede que qualquer pigmento seja depositado, resultando em pelagem dourada, independentemente do par B.",
+                         "enunciado":  "Do cruzamento entre dois cães de genótipo BbEe, a fração esperada de filhotes dourados é de:",
+                         "alternativas":  {
+                                              "a":  "1/16, correspondente à combinação duplo-recessiva bbee, única capaz de impedir a deposição do pigmento no pelo",
+                                              "b":  "3/16, fração que reúne os filhotes homozigotos recessivos para o gene da deposição e portadores de ao menos um alelo B",
+                                              "c":  "1/8, valor obtido ao se dividir a frequência dos homozigotos ee pela quantidade de fenótipos possíveis no cruzamento",
+                                              "d":  "9/16, proporção da classe que reúne os portadores de pelo menos um alelo dominante de cada um dos dois genes envolvidos",
+                                              "e":  "1/4, fração correspondente aos genótipos ee, que impedem a deposição do pigmento qualquer que seja o par B do animal"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O fenótipo dourado depende apenas de ser ee, qualquer que seja o par B. Do cruzamento Ee x Ee, 1/4 da prole é ee, e a proporção final é 9 pretos : 3 marrons : 4 dourados. A armadilha está em (a): quem exige bbee para o dourado esqueceu que a epistasia de ee é dominante sobre a informação do gene B, isto é, o dourado inclui tanto BBee e Bbee quanto bbee. Somando essas três classes, 1+2+1 = 4 em 16, ou seja, 1/4.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "biologia-156",
+                         "texto_apoio":  "Em uma variedade de abóbora, a cor do fruto depende de dois genes com segregação independente. O alelo dominante I inibe a produção de pigmento e resulta em fruto branco, qualquer que seja o outro gene. Nos genótipos ii, o gene A determina fruto amarelo (A) ou verde (aa).",
+                         "enunciado":  "A proporção fenotípica esperada na descendência do cruzamento entre duas plantas IiAa é de:",
+                         "alternativas":  {
+                                              "a":  "9 brancos : 3 amarelos : 4 verdes, padrão que corresponde à atuação de um alelo recessivo capaz de mascarar a expressão do outro gene",
+                                              "b":  "9 brancos : 6 amarelos : 1 verde, resultado da ação aditiva dos dois genes sobre a intensidade do pigmento depositado no fruto",
+                                              "c":  "9 brancos : 3 amarelos : 3 verdes : 1 branco, distribuição típica de dois genes independentes sem qualquer interação entre eles",
+                                              "d":  "12 brancos : 3 amarelos : 1 verde, proporção em que basta um alelo I para o fruto ser branco e o gene A só se expressa nos frutos ii",
+                                              "e":  "15 brancos : 1 verde, proporção esperada quando os dois genes produzem individualmente o mesmo efeito sobre a cor final do fruto"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Basta um alelo I para o fruto ser branco: as classes I_A_ (9/16) e I_aa (3/16) somam 12/16 de brancos. Entre os ii, que são 4/16, o gene A ainda se expressa e se distribui em 3 amarelos (iiA_) : 1 verde (iiaa). Daí 12:3:1, assinatura da epistasia dominante. A armadilha é (a): 9:3:4 é a proporção da epistasia recessiva, em que o mascaramento exige o genótipo em dose dupla, o contrário do descrito aqui.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "biologia-157",
+                         "enunciado":  "Na formulação atual da primeira lei de Mendel, os dois alelos de um par se separam durante a ______, de modo que cada gameta recebe ______ do par considerado; o evento citológico que corresponde a essa separação é ______. As lacunas são preenchidas, respectivamente, por:",
+                         "alternativas":  {
+                                              "a":  "mitose – apenas um alelo – a separação das cromátides-irmãs na anáfase da divisão",
+                                              "b":  "meiose – apenas um alelo – a separação dos cromossomos homólogos na anáfase I da primeira divisão",
+                                              "c":  "meiose – os dois alelos – a separação das cromátides-irmãs na anáfase II da segunda divisão",
+                                              "d":  "fecundação – apenas um alelo – o encontro entre os núcleos dos gametas masculino e feminino",
+                                              "e":  "mitose – os dois alelos – a duplicação do material genético que antecede a divisão celular propriamente dita"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A segregação dos alelos ocorre na meiose, e o gameta é haploide: leva um único alelo de cada par. O correlato citológico é a separação dos homólogos na anáfase I, quando cada polo recebe um cromossomo de cada par. A armadilha está nas opções com anáfase II: ali se separam cromátides-irmãs, que carregam alelos idênticos entre si (salvo permuta), e portanto essa etapa não é a que separa os alelos de um par. A mitose, citada em (a) e (e), conserva os dois alelos na mesma célula.",
+                         "formato":  "lacunas"
+                     },
+                     {
+                         "id":  "biologia-158",
+                         "texto_apoio":  "Um casal em que ambos são heterozigotos para uma doença autossômica recessiva procura aconselhamento genético. O casal planeja ter três filhos e deseja saber a chance de que exatamente dois deles sejam afetados pela doença.",
+                         "enunciado":  "A probabilidade solicitada pelo casal é de:",
+                         "alternativas":  {
+                                              "a":  "1/16, obtida ao se multiplicar a probabilidade de dois filhos afetados sem considerar o número de ordens possíveis de nascimento",
+                                              "b":  "1/64, valor que corresponde à chance de os três filhos do casal serem afetados pela doença em questão",
+                                              "c":  "9/64, valor que combina a probabilidade de cada nascimento com as três ordens possíveis para os dois filhos afetados",
+                                              "d":  "3/64, resultado de se aplicar o fator combinatório apenas à probabilidade do filho não afetado do conjunto",
+                                              "e":  "1/2, uma vez que o casal é heterozigoto e metade dos alelos que ele transmite corresponde à forma recessiva do gene"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Cada filho tem 1/4 de chance de ser afetado (aa) e 3/4 de não ser. Para exatamente dois afetados em três filhos há 3 ordens possíveis de nascimento, calculadas por C(3,2) = 3. Logo, 3 x (1/4) x (1/4) x (3/4) = 9/64. A armadilha é (a): quem responde 1/16 multiplicou 1/4 x 1/4 e esqueceu tanto o terceiro filho quanto o fator combinatório. Responder 1/2 (e) confunde a frequência de um alelo nos gametas com a probabilidade de um fenótipo na prole.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "biologia-159",
+                         "texto_apoio":  "O sistema ABO é determinado por três alelos de um mesmo gene. Os alelos IA e IB são codominantes entre si e ambos dominam sobre i. Em uma maternidade, uma mulher de sangue A, filha de mãe de sangue O, teve um filho com um homem de sangue B, também filho de mãe de sangue O.",
+                         "enunciado":  "A probabilidade de que a criança desse casal apresente sangue do tipo O é de:",
+                         "alternativas":  {
+                                              "a":  "1/4",
+                                              "b":  "1/2",
+                                              "c":  "1/8",
+                                              "d":  "zero",
+                                              "e":  "3/4"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "As mães de sangue O são ii e transmitiram i a cada um dos filhos: logo, a mulher é IAi e o homem, IBi, sem incerteza. Do cruzamento IAi x IBi saem IAIB, IAi, IBi e ii, em proporções iguais: 1/4 de tipo O. A armadilha é (b): para ser O a criança precisa receber i dos dois lados, e não de um só, de modo que as probabilidades se multiplicam, 1/2 x 1/2 = 1/4. A opção (d) ignora que pais com antígeno podem ser heterozigotos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-160",
+                         "texto_apoio":  "Mendel formulou a segunda lei a partir de cruzamentos com sete caracteres da ervilha. Sabe-se hoje que essa espécie possui sete pares de cromossomos e que alguns dos genes estudados por ele estão situados no mesmo cromossomo, embora bastante afastados entre si.",
+                         "enunciado":  "A ressalva que a genética posterior impôs à segunda lei de Mendel é a de que a segregação independente:",
+                         "alternativas":  {
+                                              "a":  "só se verifica em organismos diploides, deixando de valer sempre que a espécie considerada apresenta poliploidia em seu conjunto cromossômico",
+                                              "b":  "vale apenas para caracteres cuja herança envolve dominância completa entre os alelos de cada um dos pares considerados",
+                                              "c":  "deixa de valer quando o número de caracteres analisados simultaneamente ultrapassa o número de pares de cromossomos da espécie",
+                                              "d":  "depende de os dois caracteres se manifestarem em fases diferentes do desenvolvimento do organismo, o que evita a interferência entre eles",
+                                              "e":  "não se aplica a genes situados no mesmo cromossomo e próximos entre si, que tendem a migrar juntos na meiose e a ser herdados em bloco"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Genes no mesmo cromossomo estão ligados e tendem a migrar juntos na meiose; a permuta os separa com frequência tanto maior quanto maior a distância entre eles. Genes muito afastados recombinam-se tanto que se comportam como se fossem independentes, e foi essa a sorte de Mendel. A armadilha é (b): a segregação independente diz respeito à relação entre dois genes distintos e nada tem a ver com o tipo de dominância dentro de cada par.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-161",
+                         "texto_apoio":  "Três genes com segregação independente controlam caracteres distintos em uma espécie vegetal. Uma planta tri-híbrida, de genótipo AaBbCc, foi autofecundada.",
+                         "enunciado":  "A fração da descendência esperada com o genótipo aabbcc é de:",
+                         "alternativas":  {
+                                              "a":  "1/8, obtida ao se atribuir a cada gene uma probabilidade de 1/2 para a condição homozigota recessiva na descendência",
+                                              "b":  "1/64, produto das três frações independentes de homozigose recessiva esperadas na autofecundação do tri-híbrido AaBbCc",
+                                              "c":  "1/16, valor que corresponderia à mesma pergunta formulada para apenas dois dos três genes considerados no cruzamento",
+                                              "d":  "3/64, resultado de se multiplicar as frações recessivas de dois genes pela fração dominante do terceiro gene analisado",
+                                              "e":  "1/27, proporção obtida ao se elevar ao cubo a fração de descendentes que apresenta o fenótipo recessivo de um dos genes"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Para genes independentes, as probabilidades se multiplicam. Cada autofecundação de heterozigoto produz 1/4 de homozigotos recessivos, e há três genes: (1/4) x (1/4) x (1/4) = 1/64. A armadilha é (a): 1/2 é a frequência do alelo recessivo nos gametas de um heterozigoto, e não a frequência do genótipo aa na prole, que exige o alelo vindo dos dois gametas. Já (e) troca a base 4 por 3, confundindo a proporção fenotípica 3:1 com a probabilidade genotípica.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-162",
+                         "texto_apoio":  "Ao apresentar seus resultados com ervilhas, Mendel propôs que cada caráter é determinado por um par de fatores que se separam na formação dos gametas e se reúnem ao acaso na fecundação. A base citológica desse comportamento só seria descrita décadas mais tarde.",
+                         "enunciado":  "Considere as afirmações a seguir sobre o trabalho de Mendel. I. A escolha da ervilha se justifica por ela permitir autofecundação e também cruzamentos controlados, o que possibilitou obter linhagens puras antes dos experimentos. II. A proporção 3:1 observada na geração F2 exige que os fatores se misturem no híbrido, produzindo um caráter de intensidade intermediária. III. O tratamento de grandes números de descendentes e a expressão dos resultados como proporções foram decisivos para que os padrões emergissem. Está correto o que se afirma em:",
+                         "alternativas":  {
+                                              "a":  "I, apenas",
+                                              "b":  "II, apenas",
+                                              "c":  "I e II, apenas",
+                                              "d":  "I e III, apenas",
+                                              "e":  "I, II e III"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "I é correta: a autofecundação permitiu obter linhagens puras e a possibilidade de polinização cruzada controlada permitiu os cruzamentos dirigidos. III é correta e é o ponto metodológico central: sem grandes amostras e sem tratamento quantitativo, as proporções não apareceriam. II é falsa e é justamente a armadilha, pois descreve a hipótese da herança por mistura, que Mendel refutou: o reaparecimento do caráter recessivo intacto em F2 mostra que os fatores permanecem íntegros no híbrido, sem se diluírem.",
+                         "formato":  "escada",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "biologia-163",
+                         "texto_apoio":  "Em uma espécie de planta ornamental, o cruzamento entre linhagens puras de flor vermelha e de flor branca produz descendentes de flor rosa. O cruzamento entre dois indivíduos de flor rosa produz descendentes vermelhos, rosas e brancos.",
+                         "enunciado":  "O padrão descrito caracteriza ______; na descendência do cruzamento entre dois indivíduos de flor rosa, a proporção fenotípica esperada é ______, e a proporção de plantas de flor rosa é ______. As lacunas são preenchidas, respectivamente, por:",
+                         "alternativas":  {
+                                              "a":  "dominância completa – 3:1 – 3/4",
+                                              "b":  "codominância – 1:2:1 – 1/4, correspondente à classe que expressa simultaneamente os dois alelos em regiões distintas da pétala",
+                                              "c":  "ausência de dominância – 1:2:1 – 1/2, uma vez que as proporções genotípica e fenotípica coincidem nesse padrão de herança",
+                                              "d":  "epistasia – 9:3:4 – 3/16, resultado do mascaramento de um dos genes envolvidos na produção do pigmento da flor",
+                                              "e":  "herança quantitativa – 1:4:6:4:1 – 6/16, distribuição típica de caracteres determinados por vários genes de efeito somado"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O heterozigoto exibe fenótipo intermediário, o que caracteriza ausência de dominância. Aí as proporções fenotípica e genotípica coincidem: 1 vermelha : 2 rosas : 1 branca, ou seja, metade da prole é rosa. A armadilha é (b): na codominância os dois alelos se expressam integralmente e lado a lado, como no sangue AB ou na malhagem de bovinos ruões, e não em um fenótipo intermediário homogêneo como o rosa. A opção (a) aplicaria dominância completa, que não produziria a classe intermediária.",
+                         "formato":  "lacunas",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "biologia-164",
+                         "texto_apoio":  "Em uma espécie animal, o gene P determina pelo curto (P) ou longo (p) e o gene M determina orelha ereta (M) ou caída (m). Os dois genes estão em cromossomos diferentes. Um indivíduo di-híbrido foi cruzado com outro de pelo longo e orelha caída.",
+                         "enunciado":  "Sobre a descendência desse cruzamento, é correto afirmar que apresentará:",
+                         "alternativas":  {
+                                              "a":  "quatro fenótipos em proporções iguais, refletindo os quatro tipos de gameta produzidos pelo di-híbrido em igual frequência",
+                                              "b":  "quatro fenótipos na proporção 9:3:3:1, resultado esperado sempre que dois genes independentes segregam em um mesmo cruzamento",
+                                              "c":  "dois fenótipos na proporção 3:1, já que o parental duplo-recessivo não contribui com variação para a descendência",
+                                              "d":  "três fenótipos na proporção 1:2:1, distribuição que reproduz na prole as classes genotípicas do parental di-híbrido",
+                                              "e":  "um único fenótipo, uniforme, pois o parental di-híbrido transmite pelo menos um alelo dominante de cada gene a todos os descendentes"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "PpMm produz quatro gametas equiprováveis: PM, Pm, pM e pm. O parental ppmm só produz pm, que não mascara nada. Cada descendente exibe, portanto, o fenótipo correspondente ao gameta recebido do di-híbrido, e as quatro classes saem em 1:1:1:1. A armadilha é (b): 9:3:3:1 exigiria di-hibridismo nos dois parentais. A opção (e) esquece que metade dos gametas do di-híbrido carrega o alelo recessivo de cada gene.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-165",
+                         "texto_apoio":  "A expressão dos antígenos A e B nas hemácias depende de uma substância precursora, a substância H, produzida sob comando do alelo dominante H. Indivíduos hh não produzem essa substância e, por isso, não expressam antígeno A nem B, ainda que possuam os alelos IA ou IB. Nas tipagens de rotina, esses indivíduos são classificados como sangue O. Em um serviço de hemoterapia, uma mulher tipada como O e um homem tipado como O tiveram um filho de sangue AB.",
+                         "enunciado":  "A explicação compatível com esse resultado é a de que:",
+                         "alternativas":  {
+                                              "a":  "houve mutação em um dos gametas parentais, evento que gerou simultaneamente os dois alelos codominantes ausentes nos progenitores",
+                                              "b":  "o filho recebeu o alelo IA de um progenitor e o alelo IB do outro, sendo ambos os progenitores heterozigotos Hh e portadores de um alelo codominante cada",
+                                              "c":  "os antígenos A e B do filho têm origem materna e foram transferidos pela placenta durante a gestação, não constando de seu genótipo",
+                                              "d":  "a tipagem sanguínea dos progenitores foi feita antes da idade em que os antígenos eritrocitários passam a ser expressos no organismo humano",
+                                              "e":  "ao menos um dos progenitores é hh e possui os alelos IA e IB sem expressá-los, transmitindo um deles ao filho, que recebeu do outro progenitor o alelo restante e ao menos um alelo H"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O genótipo hh mascara o gene ABO: é epistasia recessiva. Um progenitor hh IAIB é tipado como O, mas transmite IA ou IB normalmente; para o filho ser AB, ele precisa receber o outro alelo codominante do segundo progenitor, também hh, e receber ao menos um alelo H para expressar os antígenos. A armadilha é (b), que exige progenitores Hh: quem é Hh produz substância H e seria tipado como A, B ou AB, e não como O. A alternativa (a) recorre a uma mutação dupla e dirigida, evento sem plausibilidade.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "biologia-166",
+                         "texto_apoio":  "Um casal heterozigoto para uma doença autossômica recessiva de manifestação precoce pretende ter quatro filhos.",
+                         "enunciado":  "A probabilidade de que ao menos um dos quatro filhos seja afetado pela doença é de:",
+                         "alternativas":  {
+                                              "a":  "175/256, valor obtido pelo cálculo complementar da probabilidade de nenhum dos quatro filhos do casal vir a ser afetado",
+                                              "b":  "81/256, valor que corresponde à probabilidade de nenhum dos quatro filhos vir a ser afetado pela doença considerada",
+                                              "c":  "1/256, resultado que expressa a chance de todos os quatro filhos do casal apresentarem o genótipo homozigoto recessivo",
+                                              "d":  "1, uma vez que o casal, sendo heterozigoto, necessariamente terá um filho afetado antes de completar quatro descendentes",
+                                              "e":  "1/4, probabilidade que se mantém constante para cada filho e que, por isso, também vale para o conjunto dos quatro"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Calcular ao menos um pelo caminho direto exigiria somar quatro casos. É mais econômico calcular o complementar: a chance de nenhum filho ser afetado é (3/4)^4 = 81/256, e a resposta é 1 - 81/256 = 175/256. A armadilha é (e): a probabilidade de 1/4 vale para cada filho isoladamente, e eventos independentes não se somam nem se transferem ao conjunto. Já (d) comete o erro clássico de tratar a proporção mendeliana como uma cota que precisa se cumprir dentro da família.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "biologia-167",
+                         "enunciado":  "Quando um gene interfere na expressão de outro, não alélico, o fenômeno é chamado ______. A proporção fenotípica 9:3:4, obtida no cruzamento entre dois di-híbridos, indica que a interferência é do tipo ______, isto é, exige que o gene inibidor esteja ______. As lacunas são preenchidas, respectivamente, por:",
+                         "alternativas":  {
+                                              "a":  "pleiotropia – dominante – presente em dose simples no genótipo do indivíduo considerado",
+                                              "b":  "polialelia – recessiva – acompanhado de outro alelo da mesma série gênica no par de cromossomos homólogos",
+                                              "c":  "epistasia – recessiva – em homozigose, condição em que a classe de 3 se soma à de 1 e forma a classe de 4",
+                                              "d":  "epistasia – dominante – em homozigose, condição sem a qual o mascaramento do outro gene não chega a se manifestar",
+                                              "e":  "codominância – recessiva – ausente do genótipo, o que permite a expressão simultânea dos dois alelos do outro gene"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Epistasia é a interferência de um gene sobre outro não alélico. A proporção 9:3:4 revela que uma das classes de 3 se fundiu com a de 1, e essa fusão de 3+1 = 4 corresponde aos genótipos homozigotos recessivos do gene epistático: por isso, epistasia recessiva. A armadilha é (d): a epistasia dominante produz 12:3:1, pois a classe de 9 se funde com uma de 3. Já pleiotropia, citada em (a), é um só gene afetando vários caracteres, o caso oposto ao descrito.",
+                         "formato":  "lacunas",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "biologia-168",
+                         "texto_apoio":  "O albinismo oculocutâneo tem, em sua forma mais comum, herança autossômica recessiva. Um casal de pigmentação normal teve um primeiro filho albino e procurou aconselhamento genético antes de uma segunda gestação.",
+                         "enunciado":  "A probabilidade de que o segundo filho do casal seja uma menina de pigmentação normal é de:",
+                         "alternativas":  {
+                                              "a":  "1/4, obtida ao se considerar apenas os descendentes de pigmentação normal que sejam também homozigotos para o gene em questão",
+                                              "b":  "3/8, resultado de se combinar a fração de descendentes de pigmentação normal com a probabilidade de nascer uma menina",
+                                              "c":  "1/2, uma vez que a determinação do sexo é o único fator ainda indeterminado depois do nascimento do primeiro filho albino",
+                                              "d":  "3/4, correspondente à fração de descendentes de pigmentação normal esperada no cruzamento entre os dois progenitores",
+                                              "e":  "1/8, valor que resulta de se exigir simultaneamente a homozigose dominante para o gene e o sexo feminino no segundo filho"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O filho albino é aa e recebeu um alelo de cada progenitor: ambos são obrigatoriamente Aa. Do cruzamento Aa x Aa, 3/4 da prole tem pigmentação normal. O sexo é independente e vale 1/2. Logo, 3/4 x 1/2 = 3/8. A armadilha é (d): quem para em 3/4 esqueceu de incorporar a condição de sexo pedida no enunciado. Já (a) e (e) confundem pigmentação normal com homozigose dominante, mas o fenótipo normal reúne AA e Aa.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-169",
+                         "texto_apoio":  "Considere a genealogia a seguir, referente a uma anomalia humana. Geração I: o casal formado por I-1, homem sem a anomalia, e I-2, mulher sem a anomalia. Geração II: esse casal teve tres filhos, na ordem II-1, homem com a anomalia; II-2, mulher com a anomalia; e II-3, mulher sem a anomalia. Nenhum outro membro da familia apresenta a anomalia.",
+                         "enunciado":  "O padrão de herança compatível com essa genealogia é:",
+                         "alternativas":  {
+                                              "a":  "autossômica recessiva",
+                                              "b":  "autossômica dominante",
+                                              "c":  "recessiva ligada ao cromossomo X",
+                                              "d":  "dominante ligada ao cromossomo X",
+                                              "e":  "ligada ao cromossomo Y"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Pais sem a anomalia com filhos afetados indicam herança recessiva, o que descarta os padrões dominantes de (b) e (d). Para escolher entre autossômica e ligada ao X vale a mulher afetada II-2: se o alelo estivesse no X, ela seria homozigota e teria recebido um alelo mutado de cada progenitor, o que obrigaria o pai I-1, que tem um único X, a manifestar a anomalia. Como I-1 é normal, a hipótese ligada ao X de (c) cai, e resta a autossômica recessiva.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "biologia-170",
+                         "texto_apoio":  "Genealogia de uma condição autossômica dominante de manifestação plena. Geração I: I-1, homem afetado, casado com I-2, mulher não afetada. Geração II: o casal teve II-1, mulher afetada, e II-2, homem não afetado. II-1 casou-se com II-3, homem não afetado. Geração III: o casal II-1 x II-3 já tem duas crianças, III-1, menina afetada, e III-2, menino não afetado, e espera a terceira.",
+                         "enunciado":  "A probabilidade de que a criança que o casal II-1 x II-3 espera seja uma menina afetada é de:",
+                         "alternativas":  {
+                                              "a":  "1/2, correspondente à chance de a criança herdar o alelo dominante de sua mãe, único progenitor que o possui no casal",
+                                              "b":  "1/8, resultado de se exigir simultaneamente a heterozigose materna, a transmissão do alelo dominante e o sexo feminino",
+                                              "c":  "1/4, resultado de se combinar a chance de transmissão do alelo dominante pela mãe com a de nascimento de uma menina",
+                                              "d":  "3/4, valor que reúne as crianças afetadas de ambos os sexos e as meninas não afetadas do casal considerado",
+                                              "e":  "zero, pois a mulher II-1 já transmitiu o alelo dominante à filha III-1 e não voltará a transmiti-lo aos demais descendentes"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "II-1 é afetada e teve um filho não afetado, III-2: logo ela é heterozigota, pois um homozigoto dominante só geraria descendentes afetados nesse casamento. Do cruzamento Aa x aa, metade da prole é afetada. O sexo é evento independente e vale 1/2. Portanto 1/2 x 1/2 = 1/4. A armadilha é (a): quem responde 1/2 calculou apenas a transmissão do alelo e ignorou a exigência de sexo feminino. Já (e) trata a herança como cota que se esgota, quando cada gestação é um evento independente.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-171",
+                         "texto_apoio":  "Genealogia de uma família com hemofilia A, doença recessiva ligada ao cromossomo X. Geração I: I-1, homem hemofílico, casado com I-2, mulher sem a doença e sem antecedentes familiares dela. Geração II: o casal teve II-1, mulher sem a doença, que se casou com II-2, homem sem a doença. Geração III: o casal II-1 x II-2 teve III-1, menino hemofílico, e III-2, menina sem a doença.",
+                         "enunciado":  "Sobre o genótipo da mulher II-1 e a origem do alelo recebido por III-1, é correto afirmar que ela é:",
+                         "alternativas":  {
+                                              "a":  "homozigota para o alelo normal, e o alelo da doença surgiu em III-1 por mutação nova ocorrida durante a gametogênese de seu pai",
+                                              "b":  "hemizigota para o alelo normal, condição que explica por que a doença não se manifestou nela apesar de ela ser filha de um homem hemofílico",
+                                              "c":  "heterozigota, e o alelo da doença chegou a III-1 por meio de seu pai II-2, portador assintomático do alelo em um de seus cromossomos X",
+                                              "d":  "heterozigota obrigatória, tendo recebido o alelo da doença do pai I-1, que tem um único X, e transmitido esse mesmo alelo ao filho III-1",
+                                              "e":  "portadora de uma alteração no cromossomo Y herdada do avô materno, transmitida a III-1 e sem efeito visível nas mulheres da família"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Um homem hemofílico tem um único X, e ele carrega o alelo da doença; esse X vai obrigatoriamente para todas as suas filhas. Logo II-1 é heterozigota necessariamente, mesmo sem manifestar a doença, e foi dela que veio o X afetado de III-1. A armadilha é (c): homens não são portadores assintomáticos em herança ligada ao X, pois, sendo hemizigotos, qualquer alelo do X se manifesta neles. A opção (b) usa o termo hemizigoto, que se aplica aos homens, não às mulheres.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-172",
+                         "texto_apoio":  "Genealogia referente ao daltonismo, condição recessiva ligada ao cromossomo X. Geração I: I-1, homem daltônico, casado com I-2, mulher de visão normal e homozigota para o alelo normal. Geração II: o casal teve uma única filha, II-1, de visão normal, que se casou com II-2, homem daltônico.",
+                         "enunciado":  "Nessa família, a herança em questão é ______; o genótipo da mulher II-1 é necessariamente ______; e a probabilidade de que uma filha do casal II-1 x II-2 seja daltônica é ______. As lacunas são preenchidas, respectivamente, por:",
+                         "alternativas":  {
+                                              "a":  "autossômica recessiva – homozigota recessiva – 1/4",
+                                              "b":  "recessiva ligada ao X – heterozigota – 1/2, pois metade das filhas recebe da mãe o X com o alelo",
+                                              "c":  "recessiva ligada ao X – homozigota dominante – zero",
+                                              "d":  "dominante ligada ao X – heterozigota – 3/4, uma vez que basta um alelo para que a condição se manifeste nas descendentes do sexo feminino",
+                                              "e":  "ligada ao Y – hemizigota – 1/2, dado que o alelo se transmite pela linhagem paterna a metade dos descendentes de cada geração"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "II-1 é filha de pai daltônico e recebeu dele o único X que ele possui, com o alelo do daltonismo; da mãe homozigota normal recebeu o alelo normal. Logo é heterozigota obrigatória. No casamento com um homem daltônico, as filhas recebem do pai um X com o alelo do daltonismo e da mãe um X que tem 1/2 de chance de trazer o mesmo alelo: 1/2 das filhas são daltônicas. A armadilha é (c): supor II-1 homozigota dominante ignora que o pai daltônico transmite obrigatoriamente seu X a todas as filhas.",
+                         "formato":  "lacunas",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "biologia-173",
+                         "texto_apoio":  "Genealogia de uma família em que se investiga uma doença metabólica rara. Geração I: dois casais não aparentados entre si, I-1 x I-2 e I-3 x I-4, nenhum deles afetado. Geração II: do primeiro casal nasceu II-1, homem não afetado; do segundo, II-2, mulher não afetada. II-1 e II-2 são primos em primeiro grau por parte de mãe e casaram-se entre si. Geração III: o casal II-1 x II-2 teve III-1, menino afetado, e III-2, menina não afetada.",
+                         "enunciado":  "A presença de consanguinidade nessa genealogia reforça a hipótese de herança autossômica recessiva porque:",
+                         "alternativas":  {
+                                              "a":  "o parentesco entre os cônjuges aumenta a taxa de mutação nas células germinativas, elevando a chance de surgirem alelos deletérios novos",
+                                              "b":  "casamentos consanguíneos favorecem a expressão de alelos dominantes raros, que de outra forma permaneceriam ocultos na população geral",
+                                              "c":  "a proximidade genética entre os cônjuges impede a segregação independente dos alelos durante a formação dos gametas de ambos",
+                                              "d":  "o parentesco reduz o número de descendentes por casal, o que torna estatisticamente mais provável o aparecimento de fenótipos raros",
+                                              "e":  "primos compartilham ancestrais comuns e, com eles, alelos raros, o que eleva a chance de um descendente receber duas cópias do mesmo alelo recessivo"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Alelos recessivos raros circulam em heterozigose sem se manifestar. Como primos herdaram parte de seus alelos dos mesmos avós, a chance de os dois carregarem a mesma versão rara é muito maior do que entre pessoas sem parentesco, e é essa coincidência que produz o homozigoto afetado. A armadilha é (a): a consanguinidade não cria mutações, apenas reúne em homozigose alelos que já existiam na família. E (b) inverte a lógica, pois alelo dominante raro se manifesta em heterozigose e não depende de consanguinidade alguma.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-174",
+                         "texto_apoio":  "Genealogia de uma condição rara acompanhada em três gerações. Geração I: I-1, homem afetado, casado com I-2, mulher não afetada. Geração II: o casal teve quatro filhos, II-1 e II-2, mulheres, ambas afetadas, e II-3 e II-4, homens, nenhum deles afetado. Geração III: II-1 casou-se com um homem não afetado e teve III-1, menino afetado, e III-2, menina não afetada.",
+                         "enunciado":  "O padrão de herança compatível com todos os dados dessa genealogia é:",
+                         "alternativas":  {
+                                              "a":  "dominante ligada ao cromossomo X, padrão em que o pai afetado transmite a condição a todas as filhas e a nenhum dos filhos",
+                                              "b":  "recessiva ligada ao cromossomo X, o que explicaria a ausência da condição entre os filhos homens do casal I-1 x I-2",
+                                              "c":  "autossômica dominante, padrão sugerido pela presença da condição em todas as gerações analisadas da família descrita",
+                                              "d":  "autossômica recessiva, hipótese apoiada pelo fato de a mulher I-2 não manifestar a condição transmitida às duas filhas do casal",
+                                              "e":  "ligada ao cromossomo Y, uma vez que o homem afetado I-1 aparece na origem de toda a linhagem em que a condição se manifesta"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A chave está na prole de I-1: todas as filhas afetadas, nenhum filho afetado. Isso é a assinatura da herança dominante ligada ao X, pois o pai transmite seu único X a todas as filhas e o Y a todos os filhos. A armadilha é (c): a herança autossômica dominante também apareceria em todas as gerações, mas atingiria filhos e filhas em proporções semelhantes, e não separaria os sexos de modo tão limpo. A opção (e) cai porque a condição atinge mulheres, o que é incompatível com um gene do Y.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "biologia-175",
+                         "texto_apoio":  "Genealogia referente à fenilcetonúria, doença autossômica recessiva. Geração I: I-1, homem não afetado, casado com I-2, mulher não afetada. Geração II: o casal teve três filhos, II-1, homem afetado, II-2, mulher não afetada, e II-3, homem não afetado.",
+                         "enunciado":  "A probabilidade de que a mulher II-2 seja heterozigota para o alelo da fenilcetonúria é de:",
+                         "alternativas":  {
+                                              "a":  "1/4, correspondente à fração de heterozigotos prevista para o conjunto completo da descendência do casal I-1 x I-2",
+                                              "b":  "1/2, valor que corresponde à chance de ela ter recebido o alelo mutado de um dos dois progenitores heterozigotos",
+                                              "c":  "2/3, proporção de heterozigotos recalculada entre os três genótipos compatíveis com o fenótipo não afetado de II-2",
+                                              "d":  "1, uma vez que ambos os progenitores são heterozigotos e transmitem o alelo mutado a todos os seus descendentes",
+                                              "e":  "zero, pois o alelo mutado dos dois progenitores já se reuniu no irmão afetado II-1 e não está disponível para os demais filhos"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Do cruzamento Aa x Aa saem 1 AA : 2 Aa : 1 aa. A informação de que II-2 não é afetada elimina a classe aa, e a probabilidade deve ser recalculada dentro do grupo restante: 2 Aa em 3 indivíduos, ou seja, 2/3. A armadilha é (b): quem responde 1/2 usou a proporção de heterozigotos sobre a descendência inteira, sem descontar a informação fenotípica já conhecida. Esse recálculo condicional é exatamente o que faz a diferença nos cálculos de aconselhamento genético.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "biologia-176",
+                         "texto_apoio":  "Prosseguindo a análise da mesma família da fenilcetonúria: a mulher II-2, não afetada e irmã de um homem afetado, pretende ter filhos com II-4, homem não afetado que, por já ter tido um filho afetado em união anterior, sabe-se heterozigoto para o mesmo alelo.",
+                         "enunciado":  "A probabilidade de que o primeiro filho do casal II-2 x II-4 seja afetado pela doença é de:",
+                         "alternativas":  {
+                                              "a":  "1/4, valor que corresponderia ao cruzamento entre dois heterozigotos comprovados para o alelo em questão",
+                                              "b":  "2/3, fração que expressa apenas a chance de a mulher II-2 ser portadora do alelo recessivo da doença",
+                                              "c":  "1/12, resultado de se multiplicar a chance de heterozigose materna pela probabilidade de transmissão de um único gameta recessivo",
+                                              "d":  "1/6, produto da chance de a mulher II-2 ser heterozigota pela chance de o filho do casal ser homozigoto recessivo",
+                                              "e":  "1/2, uma vez que o pai é heterozigoto comprovado e metade de seus gametas carrega o alelo recessivo da doença"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "São dois eventos encadeados. Primeiro, II-2 precisa ser heterozigota, o que tem probabilidade 2/3, calculada entre os irmãos não afetados. Segundo, dado que os dois pais sejam Aa, o filho precisa ser aa, o que tem probabilidade 1/4. Multiplicando: 2/3 x 1/4 = 1/6. A armadilha é (a): quem responde 1/4 tratou II-2 como heterozigota certa, quando ela é apenas provavelmente heterozigota. Já (b) para no primeiro fator e esquece a segregação.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "biologia-177",
+                         "texto_apoio":  "Genealogia de uma característica observada em quatro gerações de uma família. Em todas elas, apenas homens apresentam a característica. Todo homem que a apresenta tem pai que também a apresenta, e todos os filhos homens de um homem afetado são igualmente afetados. Nenhuma mulher da família, em nenhuma geração, apresenta a característica, e as filhas de homens afetados nunca geraram descendentes afetados.",
+                         "enunciado":  "O padrão descrito indica que o gene responsável pela característica está localizado:",
+                         "alternativas":  {
+                                              "a":  "em um autossomo, com expressão limitada ao sexo masculino por influência dos hormônios androgênicos produzidos após a puberdade",
+                                              "b":  "na região exclusiva do cromossomo Y, transmitida de pai para todos os filhos homens e ausente na linhagem das filhas",
+                                              "c":  "na região do cromossomo X que não tem correspondente no Y, com manifestação restrita aos indivíduos hemizigotos para o alelo",
+                                              "d":  "em um autossomo, com herança dominante e penetrância reduzida a zero em todos os indivíduos do sexo feminino da família",
+                                              "e":  "no DNA mitocondrial, transmitido pelo gameta de maior volume citoplasmático a toda a descendência de cada geração"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Transmissão exclusiva de pai para todos os filhos homens, sem nenhuma mulher afetada e sem qualquer descendente afetado pela linha das filhas, é a assinatura da herança holândrica, restrita à porção exclusiva do Y. A armadilha é (c): na herança recessiva ligada ao X, homens afetados também predominam, mas o alelo passa pelas filhas e reaparece nos netos por via materna, exatamente o que a genealogia exclui. Já (e) descreveria transmissão materna, e a mitocôndria vem do óvulo, não do espermatozoide.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-178",
+                         "texto_apoio":  "Genealogia de uma doença que compromete a produção de energia celular. Geração I: I-1, mulher afetada, casada com I-2, homem não afetado. Geração II: todos os quatro filhos do casal, de ambos os sexos, são afetados. Um deles, II-3, homem afetado, casou-se com II-4, mulher não afetada. Geração III: nenhum dos três filhos do casal II-3 x II-4, de ambos os sexos, é afetado.",
+                         "enunciado":  "O padrão observado é compatível com uma doença determinada por genes localizados:",
+                         "alternativas":  {
+                                              "a":  "no cromossomo X",
+                                              "b":  "em autossomos, em herança dominante com penetrância completa",
+                                              "c":  "no cromossomo Y",
+                                              "d":  "em autossomos, em herança recessiva",
+                                              "e":  "no DNA mitocondrial"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Mulher afetada transmite a doença a todos os filhos, homens e mulheres; homem afetado não transmite a nenhum. Esse é o padrão da herança mitocondrial, pois as mitocôndrias do zigoto vêm do citoplasma do óvulo. A armadilha é (a): a herança dominante ligada ao X também faz a mãe afetada transmitir a filhos e filhas, mas um pai afetado transmitiria a doença a todas as suas filhas, o que a genealogia expressamente nega ao mostrar a prole de II-3 inteiramente livre.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "biologia-179",
+                         "enunciado":  "Na convenção usada em heredogramas, o casamento entre indivíduos aparentados é representado por ______. Esse tipo de união eleva a probabilidade de ______ e, por isso, aparece com frequência desproporcional nas genealogias de doenças ______. As lacunas são preenchidas, respectivamente, por:",
+                         "alternativas":  {
+                                              "a":  "uma linha horizontal dupla entre os cônjuges – um descendente receber duas cópias de um mesmo alelo herdado de um ancestral comum – autossômicas recessivas",
+                                              "b":  "um losango entre os cônjuges – ocorrência de mutações novas nas células germinativas dos dois membros do casal – autossômicas dominantes",
+                                              "c":  "um círculo preenchido pela metade – os descendentes apresentarem alterações no número de cromossomos – ligadas ao cromossomo Y",
+                                              "d":  "uma linha horizontal dupla entre os cônjuges – os alelos deletérios de um dos cônjuges serem eliminados na descendência – dominantes ligadas ao X",
+                                              "e":  "uma seta apontando para o casal – os descendentes herdarem apenas alelos de origem materna – de herança mitocondrial"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A linha dupla é a convenção para consanguinidade. Seu efeito genético é aumentar a homozigose por descendência: o mesmo alelo raro, presente num ancestral comum, chega ao descendente por dois caminhos. Por isso as genealogias de doenças autossômicas recessivas raras concentram uniões consanguíneas. A armadilha é (b): a consanguinidade não altera a taxa de mutação, e doenças dominantes se manifestam em heterozigose, sem nenhuma vantagem de detecção nesses casamentos. O losango, na convenção, indica sexo não informado.",
+                         "formato":  "lacunas"
+                     },
+                     {
+                         "id":  "biologia-180",
+                         "texto_apoio":  "Genealogia de uma condição autossômica dominante de penetrância completa. Geração I: I-1, homem afetado, casado com I-2, mulher não afetada. Geração II: o casal teve II-1, mulher afetada, II-2, homem não afetado, e II-3, mulher não afetada.",
+                         "enunciado":  "Sobre o genótipo dos indivíduos dessa genealogia, é correto afirmar que:",
+                         "alternativas":  {
+                                              "a":  "I-1 é homozigoto dominante, pois transmitiu a condição a uma descendente do sexo feminino sem manifestá-la de forma atenuada",
+                                              "b":  "II-2 e II-3 são heterozigotos, condição que explica por que não manifestam a doença apesar de terem um progenitor afetado",
+                                              "c":  "I-1 é necessariamente heterozigoto, e II-2 e II-3 são homozigotos recessivos, já que a penetrância da condição é completa",
+                                              "d":  "II-1 é homozigota dominante, uma vez que herdou o alelo da doença de seu pai e o alelo normal de sua mãe não afetada",
+                                              "e":  "I-2 é heterozigota para o alelo da doença, mas não o manifesta porque a penetrância da condição é nula no sexo feminino"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Em herança dominante com penetrância completa, quem não manifesta a doença não carrega o alelo: II-2 e II-3 são homozigotos recessivos, o que descarta (b). E como I-1 é afetado e gerou dois filhos não afetados, ele precisa ter transmitido o alelo normal a eles: logo é heterozigoto, e não homozigoto dominante como diz (a). A opção (d) esquece que a mãe não afetada só pode ter dado a II-1 o alelo normal, o que a torna obrigatoriamente heterozigota.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-181",
+                         "texto_apoio":  "Genealogia relativa ao daltonismo. Uma mulher de visão normal, cuja mãe também tinha visão normal e cujo pai era daltônico, casou-se com um homem de visão normal. O casal planeja ter filhos.",
+                         "enunciado":  "A probabilidade de que esse casal venha a ter uma filha daltônica é de:",
+                         "alternativas":  {
+                                              "a":  "1/2",
+                                              "b":  "1/4",
+                                              "c":  "1/8",
+                                              "d":  "zero",
+                                              "e":  "1"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A mulher é heterozigota obrigatória, pois recebeu do pai daltônico o único X dele. Mas uma filha só é daltônica se receber o alelo mutado nos dois X, e o pai, de visão normal, transmite a todas as filhas um X com o alelo normal. Logo nenhuma filha do casal será daltônica: a probabilidade é zero. A armadilha é (b): quem responde 1/4 calculou a transmissão materna e o sexo feminino, mas esqueceu que a filha recebe também um X do pai, o que é decisivo em uma herança recessiva. Os filhos homens, esses sim, têm 1/2 de chance de ser daltônicos.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "biologia-182",
+                         "texto_apoio":  "Genealogia de uma anomalia rara. Geração I: I-1, homem não afetado, casado com I-2, mulher não afetada. Geração II: o casal teve II-1, homem afetado, e II-2, mulher não afetada. II-2 casou-se com II-3, homem não afetado e sem antecedentes familiares da anomalia. Geração III: o casal II-2 x II-3 teve III-1, menino afetado, e III-2, menina não afetada.",
+                         "enunciado":  "Considere as afirmações a seguir sobre essa genealogia. I. Os dados excluem definitivamente a hipótese de herança recessiva ligada ao cromossomo X. II. Os indivíduos I-1 e I-2 são obrigatoriamente heterozigotos, qualquer que seja a hipótese de localização do gene entre as compatíveis com a genealogia. III. Se a herança for autossômica recessiva, a probabilidade de o próximo filho do casal II-2 x II-3 ser afetado é de 1/4. Está correto o que se afirma em:",
+                         "alternativas":  {
+                                              "a":  "I, apenas",
+                                              "b":  "II, apenas",
+                                              "c":  "I e III, apenas",
+                                              "d":  "II e III, apenas",
+                                              "e":  "I, II e III"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "I é falsa: sem mulheres afetadas na genealogia, nada exclui a hipótese ligada ao X, que aliás explica bem os dois homens afetados descendendo de mulheres não afetadas. III também é falsa, e essa é a armadilha aritmética: 1/4 valeria se os dois cônjuges fossem heterozigotos comprovados, mas II-3 não tem antecedentes familiares e sua condição de portador é apenas possível, de modo que o risco calculado seria menor que 1/4. II é verdadeira: sendo o gene autossômico, I-1 e I-2 são Aa; sendo ligado ao X, I-2 é heterozigota e I-1 transmite seu Y ao filho afetado, e ambos permanecem não afetados como a genealogia exige.",
+                         "formato":  "escada",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "biologia-183",
+                         "texto_apoio":  "Genealogia de uma doença de herança autossômica dominante e manifestação na vida adulta. Geração I: I-1, homem afetado, casado com I-2, mulher não afetada. Geração II: o casal teve II-1, homem que viveu até os oitenta anos sem nunca manifestar a doença. II-1 casou-se com II-2, mulher não afetada e sem qualquer antecedente familiar da doença. Geração III: o casal II-1 x II-2 teve III-1, homem afetado, e III-2, mulher não afetada.",
+                         "enunciado":  "O fenômeno genético que melhor explica a situação do indivíduo II-1 é:",
+                         "alternativas":  {
+                                              "a":  "a codominância, que faria o alelo da doença se expressar em II-1 de forma simultânea ao alelo normal e com intensidade reduzida à metade",
+                                              "b":  "a pleiotropia, pela qual o mesmo alelo produziria em II-1 efeitos distintos dos observados em seu pai e em seu filho afetados",
+                                              "c":  "o imprinting genômico integral, que teria apagado a informação do alelo em II-1 e a restaurado por completo em seu filho III-1",
+                                              "d":  "uma mutação nova ocorrida em III-1, independente do alelo presente em seu avô I-1 e responsável pelo reaparecimento da doença",
+                                              "e":  "a penetrância incompleta, pela qual II-1 possui o alelo da doença e o transmitiu ao filho sem tê-lo manifestado ao longo da vida"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A doença é dominante e reaparece em III-1, cuja mãe não tem antecedentes: o alelo veio pela linha paterna, ou seja, passou por II-1. Ele possui o alelo e não manifestou o fenótipo, o que define penetrância incompleta, a proporção de portadores que expressam a condição. A armadilha é (d): supor mutação nova em III-1 é possível em tese, mas exige um evento raro justamente na família em que o alelo já circula, hipótese muito menos econômica. Note que penetrância é diferente de expressividade variável, em que o portador manifesta a doença com intensidades diferentes.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "biologia-184",
+                         "texto_apoio":  "Genealogia referente a uma doença autossômica recessiva. Geração I: I-1, homem não afetado, casado com I-2, mulher afetada. Geração II: o casal teve II-1, mulher não afetada, e II-2, homem não afetado. II-1 casou-se com II-3, homem não afetado, filho de pais não afetados e irmão de uma mulher afetada.",
+                         "enunciado":  "Sobre o genótipo da mulher II-1, é correto afirmar que ela é:",
+                         "alternativas":  {
+                                              "a":  "heterozigota com certeza, pois recebeu obrigatoriamente um alelo mutado de sua mãe afetada",
+                                              "b":  "heterozigota com probabilidade de 2/3, valor que se aplica aos irmãos não afetados de qualquer indivíduo afetado pela doença",
+                                              "c":  "homozigota dominante com certeza, uma vez que não manifesta a doença apesar de descender de uma mulher afetada por ela",
+                                              "d":  "heterozigota com probabilidade de 1/2, correspondente à chance de ela ter recebido o alelo mutado de um de seus dois progenitores",
+                                              "e":  "impossível de classificar sem que se conheça o genótipo do homem II-3 e o fenótipo dos filhos que o casal venha a ter"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A mãe I-2 é afetada, portanto homozigota recessiva, e só pode transmitir o alelo mutado a todos os seus descendentes. Como II-1 não manifesta a doença, ela recebeu o alelo normal do pai: é heterozigota com certeza, sem probabilidade envolvida. A armadilha é (b): o valor 2/3 vale para irmãos não afetados de um afetado quando os pais são ambos heterozigotos, situação diferente desta, em que um progenitor é homozigoto recessivo. É o caso do cônjuge II-3, e não de II-1.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "biologia-185",
+                         "enunciado":  "Em uma doença recessiva ligada ao cromossomo X, um homem afetado transmite o alelo da doença a ______; seus netos afetados descendem, portanto, ______; por esse motivo, o padrão é descrito como herança ______. As lacunas são preenchidas, respectivamente, por:",
+                         "alternativas":  {
+                                              "a":  "todos os seus filhos homens – de seus filhos homens – holândrica",
+                                              "b":  "metade de suas filhas e metade de seus filhos – tanto de filhos quanto de filhas – autossômica",
+                                              "c":  "todas as suas filhas – de suas filhas, que são heterozigotas – cruzada",
+                                              "d":  "nenhum de seus descendentes – de seu cônjuge exclusivamente – matrilinear",
+                                              "e":  "todas as suas filhas e a metade de seus filhos homens – de ambos os sexos em igual proporção – intermediária"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O homem tem um único X e o entrega a todas as filhas; aos filhos homens ele passa o Y, e por isso nenhum filho recebe o alelo dele. As filhas, heterozigotas, transmitem o alelo à metade de seus próprios filhos, e é assim que a doença reaparece nos netos por via materna. O nome herança cruzada vem justamente desse vaivém entre os sexos. A armadilha é (a): quem responde filhos homens está aplicando ao X a lógica que só vale para o Y, e trocando herança cruzada por holândrica.",
+                         "formato":  "lacunas"
+                     },
+                     {
+                         "id":  "biologia-186",
+                         "texto_apoio":  "Genealogia de uma anomalia acompanhada em duas gerações. Geração I: I-1, homem afetado, casado com I-2, mulher afetada. Geração II: o casal teve quatro filhos, II-1, mulher não afetada, II-2, homem afetado, II-3, mulher afetada, e II-4, homem não afetado.",
+                         "enunciado":  "A partir dessa genealogia, a hipótese de herança que fica definitivamente excluída é a:",
+                         "alternativas":  {
+                                              "a":  "autossômica dominante",
+                                              "b":  "autossômica recessiva",
+                                              "c":  "recessiva ligada ao cromossomo X",
+                                              "d":  "dominante ligada ao cromossomo X",
+                                              "e":  "ligada ao cromossomo Y"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Se a herança fosse dominante ligada ao X, o pai afetado I-1 transmitiria seu único X, com o alelo da doença, a todas as filhas, que seriam obrigatoriamente afetadas. Mas II-1 é uma filha não afetada, e isso derruba a hipótese. A herança ligada ao Y também cai, mas por outra razão: há mulheres afetadas. A armadilha é (a): dois afetados com filhos não afetados é justamente o esperado em herança autossômica dominante quando ambos são heterozigotos, cruzamento que produz 3 afetados : 1 não afetado, e não uma exclusão.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "biologia-187",
+                         "texto_apoio":  "A insulina usada no tratamento do diabetes era obtida, até os anos 1980, do pâncreas de bois e porcos. Hoje, a maior parte da insulina disponível na rede pública brasileira é produzida por bactérias que receberam o gene humano da insulina inserido em um plasmídeo.",
+                         "enunciado":  "A bactéria consegue produzir uma proteína humana funcional porque:",
+                         "alternativas":  {
+                                              "a":  "o gene humano sofre, dentro da bactéria, adaptações em sua sequência de bases que o tornam compatível com a maquinaria do procarioto",
+                                              "b":  "o código genético é praticamente universal, de modo que o mesmo códon especifica o mesmo aminoácido na bactéria e na célula humana, que montam a mesma proteína",
+                                              "c":  "a bactéria incorpora o gene humano ao seu cromossomo principal, o que é condição para que qualquer sequência exógena seja transcrita",
+                                              "d":  "as enzimas de restrição usadas na construção do plasmídeo permanecem ativas e convertem a proteína bacteriana em proteína humana",
+                                              "e":  "os ribossomos bacterianos são substituídos por ribossomos humanos trazidos junto com o gene durante o procedimento de transformação"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A universalidade do código genético é o fundamento de toda a tecnologia do DNA recombinante: a bactéria lê o gene humano com seus próprios ribossomos e monta a mesma sequência de aminoácidos. A armadilha é (a): não há adaptação da sequência dentro da célula; quando se faz otimização de códons, ela é feita pelo pesquisador antes da inserção, e não pela bactéria. Nada em (e) ocorre, pois o plasmídeo carrega o gene, não a maquinaria de tradução.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-188",
+                         "texto_apoio":  "Plasmídeos são moléculas circulares de DNA presentes em bactérias, separadas do cromossomo bacteriano e capazes de se replicar de forma autônoma. Eles são amplamente usados como vetores em engenharia genética.",
+                         "enunciado":  "Para servir como vetor de clonagem, um plasmídeo precisa apresentar, além de uma origem de replicação:",
+                         "alternativas":  {
+                                              "a":  "um conjunto completo de genes ribossomais, responsáveis por traduzir o gene de interesse depois de ele ser inserido na molécula",
+                                              "b":  "uma sequência de centrômero, necessária para que a molécula seja distribuída corretamente entre as células-filhas na divisão",
+                                              "c":  "telômeros em suas duas extremidades, estruturas que impedem a degradação progressiva da molécula a cada ciclo de replicação",
+                                              "d":  "um gene que codifique transcriptase reversa, enzima que copia o gene de interesse para a forma que a bactéria é capaz de expressar",
+                                              "e":  "sítios de reconhecimento para enzimas de restrição e um gene marcador de seleção, como o da resistência a um antibiótico do meio"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O sítio de restrição é onde o plasmídeo é aberto para receber o gene de interesse, e o marcador de seleção permite identificar, num meio com o antibiótico, quais bactérias efetivamente incorporaram o vetor. A armadilha está em (b) e (c): centrômeros e telômeros pertencem a cromossomos lineares de eucariotos, e o plasmídeo é circular e procariótico, de modo que não precisa de nenhum dos dois. A transcriptase reversa de (d) é usada in vitro, antes da clonagem, e não codificada pelo vetor.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-189",
+                         "texto_apoio":  "Ao clonar genes humanos em bactérias, pesquisadores frequentemente não usam a sequência extraída diretamente do genoma. Em vez disso, partem do RNA mensageiro maduro da célula humana e o convertem em DNA de fita dupla por meio da transcriptase reversa, obtendo o chamado cDNA.",
+                         "enunciado":  "Essa estratégia é adotada porque a bactéria:",
+                         "alternativas":  {
+                                              "a":  "não realiza processamento do RNA e, portanto, não removeria os íntrons presentes no gene humano original",
+                                              "b":  "não possui RNA polimerase capaz de transcrever sequências de DNA de origem eucariótica, o que exige o fornecimento do RNA já pronto",
+                                              "c":  "degrada rapidamente qualquer molécula de DNA de fita simples, condição em que o gene humano se encontra no interior do núcleo",
+                                              "d":  "só incorpora ao seu plasmídeo moléculas de DNA sintetizadas artificialmente, rejeitando sequências extraídas de células vivas",
+                                              "e":  "necessita que o gene esteja acompanhado da cauda de poli-A do RNA mensageiro para reconhecer o ponto de início da tradução"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Genes eucarióticos têm íntrons, removidos no núcleo durante o splicing. A bactéria não dispõe desse maquinário, de modo que transcreveria e traduziria os íntrons junto e produziria uma proteína sem função. Como o RNA mensageiro maduro já teve os íntrons retirados, o cDNA feito a partir dele contém apenas os éxons. A armadilha é (b): a RNA polimerase bacteriana transcreve normalmente o DNA inserido, desde que ele esteja sob um promotor reconhecido por ela; o problema não é a transcrição, é o processamento.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "biologia-190",
+                         "enunciado":  "Na reação em cadeia da polimerase, cada ciclo começa com o aquecimento a cerca de 95 graus Celsius, etapa em que ocorre ______; segue-se o resfriamento, em que os iniciadores realizam ______; e por fim a temperatura sobe novamente para que a enzima promova ______. As lacunas são preenchidas, respectivamente, por:",
+                         "alternativas":  {
+                                              "a":  "a quebra das ligações fosfodiéster da molécula – a ligação a proteínas do complexo de replicação – a união dos fragmentos obtidos",
+                                              "b":  "a desnaturação das proteínas contaminantes da amostra – o reconhecimento da sequência de restrição – o corte do DNA em fragmentos",
+                                              "c":  "a separação das duas fitas do DNA – o pareamento com as regiões que flanqueiam o trecho de interesse – a extensão das duas novas fitas",
+                                              "d":  "a duplicação espontânea das fitas do DNA – a remoção dos íntrons da sequência amplificada – a tradução da sequência em proteína",
+                                              "e":  "a separação das duas fitas do DNA – a remoção das bases mal pareadas do ciclo anterior – a transcrição reversa do produto obtido"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A alta temperatura rompe as pontes de hidrogênio entre as bases e separa as fitas, sem tocar nas ligações fosfodiéster do esqueleto, que são covalentes: aí está o erro de (a). No anelamento, os iniciadores pareiam com as extremidades que delimitam o trecho a ser copiado, e na extensão a Taq polimerase, resistente ao calor, sintetiza as novas fitas. A armadilha de (d) é imaginar tradução dentro do tubo: a PCR só amplifica DNA, não produz proteína.",
+                         "formato":  "lacunas"
+                     },
+                     {
+                         "id":  "biologia-191",
+                         "texto_apoio":  "Durante epidemias de arboviroses, laboratórios de saúde pública precisam distinguir dengue, zika e chikungunya em pacientes com sintomas parecidos. Os três agentes são vírus cujo material genético é RNA. O exame de referência na fase aguda envolve uma etapa de transcrição reversa antes da amplificação.",
+                         "enunciado":  "A etapa de transcrição reversa é necessária nesse exame porque:",
+                         "alternativas":  {
+                                              "a":  "o RNA viral precisa ser convertido em proteína antes de ser detectado pelos anticorpos empregados no ensaio de diagnóstico",
+                                              "b":  "a DNA polimerase usada na amplificação atua sobre um molde de DNA, e o genoma dos três vírus investigados é de RNA, que precisa ser copiado em cDNA",
+                                              "c":  "a amostra do paciente contém anticorpos que degradariam o RNA viral caso ele não fosse previamente convertido em outra molécula",
+                                              "d":  "o RNA viral é uma molécula de fita dupla que precisa ser convertida em fita simples antes de ser reconhecida pelos iniciadores",
+                                              "e":  "a conversão do RNA em DNA é o que permite distinguir os três vírus entre si, já que os RNAs virais têm sequências idênticas"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A Taq polimerase da PCR copia DNA a partir de um molde de DNA. Como o genoma desses vírus é RNA, é preciso primeiro produzir um cDNA com a transcriptase reversa, e só então amplificar: daí o nome RT-PCR. A armadilha é (e): a distinção entre os três agentes não vem da conversão, e sim dos iniciadores, desenhados para sequências específicas de cada vírus. A opção (a) confunde dois métodos distintos, pois a sorologia detecta anticorpos ou antígenos, não o genoma viral.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "biologia-192",
+                         "texto_apoio":  "Uma variedade de canola geneticamente modificada recebeu um gene que confere tolerância a determinado herbicida. Alguns anos após o início do cultivo, agricultores relataram o aparecimento de plantas espontâneas tolerantes ao mesmo herbicida em áreas próximas às lavouras, incluindo indivíduos de uma espécie silvestre aparentada.",
+                         "enunciado":  "O fenômeno relatado é explicado principalmente por:",
+                         "alternativas":  {
+                                              "a":  "mutação induzida pelo herbicida nas plantas silvestres, que passaram a produzir a mesma proteína de tolerância presente na variedade cultivada",
+                                              "b":  "transferência do gene por meio das bactérias do solo, que teriam absorvido o DNA das raízes da canola e o injetado nas plantas silvestres",
+                                              "c":  "seleção natural de indivíduos silvestres que já possuíam o gene de tolerância antes de qualquer contato com a lavoura transgênica",
+                                              "d":  "fluxo gênico por polinização cruzada entre a variedade transgênica e a espécie silvestre aparentada, com formação de híbridos férteis",
+                                              "e":  "ativação, nas plantas silvestres, de genes de tolerância que permaneciam silenciados até a exposição continuada ao herbicida aplicado"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Espécies aparentadas e sexualmente compatíveis trocam pólen, e o transgene atravessa a fronteira da lavoura junto com ele. É o risco de fluxo gênico, e é por isso que a legislação exige distância mínima entre plantios. A armadilha é (a): o herbicida não dirige mutações, e a coincidência de o gene silvestre ser exatamente o mesmo introduzido na lavoura entrega que houve transferência, não mutação independente. Já (c) exigiria que o alelo preexistisse por acaso na espécie silvestre, o que não explica a identidade com a construção transgênica.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "biologia-193",
+                         "texto_apoio":  "Plantas de milho geneticamente modificadas expressam uma proteína inseticida originalmente produzida pela bactéria Bacillus thuringiensis, tóxica para determinadas lagartas. A legislação brasileira exige que o produtor mantenha, junto à lavoura transgênica, uma parcela plantada com milho convencional, conhecida como área de refúgio.",
+                         "enunciado":  "A exigência da área de refúgio tem por finalidade:",
+                         "alternativas":  {
+                                              "a":  "garantir a produção de grãos convencionais para atender consumidores que optam por não consumir alimentos transgênicos no mercado interno",
+                                              "b":  "permitir a polinização cruzada entre as duas variedades, o que é indispensável para a formação dos grãos na lavoura geneticamente modificada",
+                                              "c":  "fornecer alimento alternativo aos insetos polinizadores, que seriam eliminados caso toda a área fosse ocupada pela variedade transgênica",
+                                              "d":  "reduzir a quantidade de proteína inseticida liberada no solo, diminuindo o impacto sobre a comunidade de decompositores da lavoura",
+                                              "e":  "manter uma população de insetos suscetíveis que se cruze com os eventuais resistentes, retardando a fixação da resistência na população da praga"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A toxina funciona como forte pressão seletiva: os poucos insetos que já carregam alelos de resistência sobrevivem e se reproduzem. O refúgio mantém uma população numerosa de suscetíveis, e o cruzamento entre resistentes e suscetíveis gera descendentes majoritariamente heterozigotos, ainda vulneráveis à toxina, o que atrasa a fixação da resistência. A armadilha é (b): o milho é anemófilo e não depende do refúgio para ser polinizado, e a produção da lavoura transgênica não requer a convencional.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "biologia-194",
+                         "texto_apoio":  "Na técnica de transferência nuclear de célula somática, retira-se o núcleo de um óvulo de uma fêmea doadora e insere-se, em seu lugar, o núcleo de uma célula somática de outro indivíduo. O óvulo reconstruído é estimulado a se dividir e implantado no útero de uma terceira fêmea, que leva a gestação a termo.",
+                         "enunciado":  "Sobre o material genético do animal obtido por essa técnica, é correto afirmar que:",
+                         "alternativas":  {
+                                              "a":  "o DNA nuclear é idêntico ao do doador do núcleo, mas o DNA mitocondrial provém da doadora do óvulo",
+                                              "b":  "todo o seu material genético, nuclear e mitocondrial, é idêntico ao do doador do núcleo somático utilizado no procedimento",
+                                              "c":  "o DNA nuclear resulta da combinação entre o núcleo somático e o núcleo original do óvulo, que não chega a ser completamente removido",
+                                              "d":  "o DNA mitocondrial provém da fêmea que gestou o embrião, uma vez que as mitocôndrias são transferidas ao feto através da placenta",
+                                              "e":  "metade do DNA nuclear vem do doador do núcleo e metade da doadora do óvulo, o que reproduz o resultado de uma fecundação normal"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O núcleo transferido traz o genoma nuclear completo do doador, mas as mitocôndrias, com seu próprio DNA, estão no citoplasma do óvulo e permanecem lá. Por isso o clone não é geneticamente idêntico ao doador em cem por cento de seu DNA, o que descarta (b) e faz da clonagem um caso interessante para discutir o conceito de identidade genética. A armadilha é (d): mitocôndrias não atravessam a placenta, e a mãe de aluguel não contribui com material genético algum.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "biologia-195",
+                         "texto_apoio":  "Discute-se, no debate público, a diferença entre dois usos da transferência nuclear. Em um deles, o embrião reconstruído é implantado em um útero e se desenvolve até o nascimento. No outro, o embrião é mantido em cultura por poucos dias, e dele são retiradas células indiferenciadas destinadas à obtenção de tecidos.",
+                         "enunciado":  "Os dois procedimentos são denominados, respectivamente, clonagem reprodutiva e clonagem terapêutica, e a vantagem clínica do segundo está em:",
+                         "alternativas":  {
+                                              "a":  "dispensar o uso de óvulos humanos, o que elimina a principal objeção ética levantada contra esse tipo de procedimento em seres humanos",
+                                              "b":  "produzir tecidos com metade do material genético do paciente, condição que reduz a chance de proliferação descontrolada das células obtidas",
+                                              "c":  "gerar tecidos geneticamente compatíveis com o paciente que doou o núcleo, o que reduz o risco de rejeição pelo sistema imune do receptor",
+                                              "d":  "permitir a correção simultânea de qualquer mutação presente no paciente, já que as células indiferenciadas reparam espontaneamente seu DNA",
+                                              "e":  "obter células já diferenciadas no tecido de interesse, o que dispensa a etapa de indução em cultura antes do transplante ao paciente"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Como o núcleo veio do próprio paciente, as células-tronco obtidas carregam seu genoma nuclear e os tecidos derivados delas são reconhecidos como próprios, o que dispensaria a imunossupressão dos transplantes convencionais. A armadilha é (e): as células-tronco embrionárias são justamente indiferenciadas, sendo essa a razão de sua utilidade, e precisam ser induzidas à diferenciação em cultura. A opção (a) inverte o quadro, pois o procedimento depende de óvulos, e essa dependência é um dos pontos centrais da objeção ética.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-196",
+                         "enunciado":  "No sistema CRISPR-Cas9 aplicado à edição de genomas, a especificidade do corte é determinada por ______, ao passo que a quebra da dupla-hélice é executada por ______. A alteração final da sequência depende ainda ______. As lacunas são preenchidas, respectivamente, por:",
+                         "alternativas":  {
+                                              "a":  "uma enzima de restrição bacteriana – uma DNA ligase – da inserção de um plasmídeo circular na região cortada",
+                                              "b":  "uma molécula de RNA-guia complementar ao alvo – uma proteína com atividade de nuclease – dos mecanismos celulares de reparo do DNA",
+                                              "c":  "uma proteína repressora ligada ao promotor – uma RNA polimerase modificada – da metilação das citosinas da região editada",
+                                              "d":  "um anticorpo dirigido contra a sequência-alvo – uma transcriptase reversa – da tradução do trecho corrigido em nova proteína",
+                                              "e":  "uma sequência de poli-A adicionada ao gene – uma helicase de origem viral – da substituição completa do cromossomo afetado"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O RNA-guia pareia por complementaridade com a sequência-alvo e leva até ela a Cas9, que é a nuclease responsável pelo corte na dupla-hélice. O que acontece depois não é feito pelo sistema: é a célula que repara a quebra, e o resultado depende da via de reparo, que pode inativar o gene ou, na presença de um molde, corrigi-lo. A armadilha é (a): enzimas de restrição também cortam DNA, mas reconhecem sequências curtas e fixas, e é essa rigidez que o CRISPR supera ao usar um guia programável.",
+                         "formato":  "lacunas",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "biologia-197",
+                         "texto_apoio":  "A comunidade científica internacional distingue duas aplicações da edição genômica em seres humanos. Na primeira, a edição é feita em células somáticas de um paciente já nascido. Na segunda, a edição é feita em embriões, gametas ou suas células precursoras.",
+                         "enunciado":  "A objeção ética adicional que recai especificamente sobre o segundo caso decorre de que a alteração:",
+                         "alternativas":  {
+                                              "a":  "produz efeitos apenas depois da puberdade, o que impede o acompanhamento clínico do paciente durante o período de maior risco",
+                                              "b":  "não pode ser realizada com as ferramentas disponíveis atualmente, sendo portanto uma discussão de interesse meramente hipotético",
+                                              "c":  "atinge somente os tecidos de origem mesodérmica, deixando sem correção os demais folhetos embrionários do indivíduo tratado",
+                                              "d":  "será transmitida à descendência do indivíduo editado, atingindo pessoas que não puderam consentir com o procedimento",
+                                              "e":  "exige doses maiores da ferramenta de edição, o que eleva proporcionalmente o custo do tratamento e restringe seu acesso à população"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A edição em células somáticas se esgota no paciente que consentiu. A edição germinativa entra na linhagem e passa a todas as gerações seguintes, de modo que os afetados são pessoas ainda inexistentes, das quais nenhum consentimento é possível. É esse ponto, somado à irreversibilidade em escala populacional, que sustenta a moratória defendida internacionalmente. A armadilha é (b): a técnica é tecnicamente viável, e foi justamente seu uso em embriões humanos que desencadeou a reação pública sobre o tema.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-198",
+                         "texto_apoio":  "Em um protocolo de terapia gênica para uma imunodeficiência hereditária, células-tronco da medula óssea do próprio paciente são retiradas, cultivadas e expostas a um vírus modificado que carrega a versão funcional do gene defeituoso. As células corrigidas são então reinfundidas no paciente.",
+                         "enunciado":  "Nesse protocolo, o vírus modificado tem a função de:",
+                         "alternativas":  {
+                                              "a":  "provocar uma infecção controlada que estimule o sistema imune do paciente a produzir por conta própria a proteína ausente",
+                                              "b":  "destruir as células-tronco portadoras do gene defeituoso, abrindo espaço para a proliferação das poucas células já normais do paciente",
+                                              "c":  "fornecer a enzima que degrada o gene defeituoso, etapa necessária para que a versão funcional possa ocupar seu lugar no genoma",
+                                              "d":  "transportar a proteína funcional até o interior das células, onde ela substitui diretamente a proteína defeituosa produzida pelo paciente",
+                                              "e":  "servir de vetor, introduzindo nas células do paciente a cópia funcional do gene, aproveitando sua capacidade natural de inserir material genético"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Vírus evoluíram para introduzir ácido nucleico em células, e a engenharia genética aproveita essa habilidade retirando deles os genes de virulência e replicação e inserindo o gene terapêutico. A armadilha é (d): o vetor entrega o gene, não a proteína, e é a própria célula do paciente que passa a produzi-la. A opção (b) confunde o papel do vetor com o do condicionamento por quimioterapia, etapa distinta que abre espaço na medula para as células corrigidas.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-199",
+                         "texto_apoio":  "As doenças genéticas podem resultar de mutações que abolem a função de uma proteína, caso em que a presença de uma cópia normal do gene costuma bastar para o funcionamento normal da célula, ou de mutações que produzem uma proteína alterada que interfere ativamente no funcionamento celular, prejudicando também o produto da cópia normal.",
+                         "enunciado":  "A estratégia de terapia gênica que consiste em introduzir na célula uma cópia funcional adicional do gene, sem remover o gene mutado, é adequada para:",
+                         "alternativas":  {
+                                              "a":  "o primeiro caso, em que a doença decorre da falta de função e a cópia introduzida repõe o produto ausente",
+                                              "b":  "o segundo caso, em que a cópia adicional dilui a proteína alterada até que ela deixe de interferir no funcionamento das células afetadas",
+                                              "c":  "ambos os casos, indistintamente, uma vez que a introdução de qualquer cópia funcional normaliza a quantidade total de proteína produzida",
+                                              "d":  "nenhum dos dois casos, pois a cópia introduzida é sempre silenciada pela célula em razão de sua origem exógena",
+                                              "e":  "o segundo caso apenas, desde que a cópia introduzida se insira exatamente no lugar ocupado pelo gene mutado no cromossomo"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Quando a mutação apenas abole a função, acrescentar um gene funcional restaura a proteína que faltava e resolve o problema. Quando a proteína mutante atrapalha ativamente, ela continua sendo produzida mesmo depois da adição, e o quadro persiste: nesses casos é preciso inativar ou corrigir o alelo defeituoso, e não só somar uma cópia boa. A armadilha é (c): tratar as duas situações como equivalentes ignora que, no segundo caso, o problema não é a falta de proteína normal, e sim a presença da anormal.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "biologia-200",
+                         "texto_apoio":  "Em uma investigação de vínculo genético, amostras de DNA foram tratadas com enzimas de restrição e submetidas a eletroforese em gel. Aplicou-se uma diferença de potencial e, ao final, o gel revelou faixas em posições distintas para cada amostra analisada.",
+                         "enunciado":  "Nessa técnica, os fragmentos de DNA migram no gel:",
+                         "alternativas":  {
+                                              "a":  "em direção ao polo negativo, porque as bases nitrogenadas conferem carga positiva à molécula em solução tamponada",
+                                              "b":  "em direção ao polo negativo, e os maiores percorrem distâncias maiores por serem impulsionados com mais intensidade pelo campo",
+                                              "c":  "em direção ao polo positivo, e os menores percorrem distâncias maiores por encontrarem menos resistência na malha do gel",
+                                              "d":  "em direção ao polo positivo, e os maiores percorrem distâncias maiores por concentrarem mais cargas ao longo da molécula",
+                                              "e":  "em ambas as direções, separando-se conforme a proporção de bases púricas e pirimídicas presente em cada um dos fragmentos"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Os grupos fosfato do esqueleto tornam o DNA negativo em qualquer tamanho, e por isso todos os fragmentos correm para o polo positivo, o que elimina (a) e (b). A separação vem da malha do gel, que funciona como peneira: fragmentos pequenos passam com facilidade e avançam mais, enquanto os grandes ficam retidos perto do poço. A armadilha é (d): a carga total de fato cresce com o tamanho, mas cresce junto com o atrito, e é o efeito de peneira que prevalece.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "biologia-201",
+                         "texto_apoio":  "A vacina contra a hepatite B, disponível no calendário do Sistema Único de Saúde, é produzida a partir de leveduras que receberam o gene de uma proteína da superfície do vírus. As leveduras sintetizam essa proteína, que é purificada e usada como componente do imunizante.",
+                         "enunciado":  "Uma vantagem sanitária desse tipo de produção, em comparação com imunizantes obtidos a partir do próprio agente infeccioso, é que:",
+                         "alternativas":  {
+                                              "a":  "a proteína produzida pela levedura induz memória imunológica permanente, o que dispensa qualquer dose de reforço ao longo da vida",
+                                              "b":  "o imunizante não contém o vírus, nem inteiro nem atenuado, o que elimina o risco de o próprio produto causar a doença na pessoa vacinada",
+                                              "c":  "a resposta imune produzida é exclusivamente celular, evitando a produção de anticorpos que poderiam reagir contra tecidos do próprio vacinado",
+                                              "d":  "a vacina passa a proteger contra qualquer vírus que infecte o fígado, pois a proteína de superfície é comum a todos os agentes hepatotrópicos",
+                                              "e":  "a produção em leveduras dispensa a cadeia de frio no transporte, uma vez que proteínas de origem fúngica resistem a altas temperaturas"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A vacina de subunidade contém apenas um antígeno viral, produzido por outro organismo. Sem partícula viral, não há como o imunizante causar a infecção, e isso o torna seguro inclusive para pessoas imunossuprimidas, para quem vacinas de vírus atenuado são contraindicadas. A armadilha é (a): a ausência do vírus não tem relação com a duração da memória, que depende do antígeno e do esquema de doses. A opção (d) ignora que a proteção é específica para o antígeno usado.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-202",
+                         "texto_apoio":  "A legislação brasileira de biossegurança submete a liberação comercial de organismos geneticamente modificados a análise prévia de risco por uma comissão técnica e exige a identificação, no rótulo, dos alimentos que contenham ingredientes transgênicos acima de determinado percentual.",
+                         "enunciado":  "Considere as afirmações a seguir. I. A exigência de rotulagem se justifica pelo direito à informação do consumidor, independentemente de o produto ter sido aprovado como seguro para consumo. II. Todo alimento transgênico é, por definição, nocivo à saúde humana, e a análise de risco tem por finalidade medir o grau dessa nocividade. III. A avaliação de risco de um organismo geneticamente modificado deve considerar não só o efeito sobre quem consome, mas também o impacto sobre o ambiente em que ele será cultivado. Está correto o que se afirma em:",
+                         "alternativas":  {
+                                              "a":  "I, apenas",
+                                              "b":  "III, apenas",
+                                              "c":  "I e II, apenas",
+                                              "d":  "I e III, apenas",
+                                              "e":  "I, II e III"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "I é correta: rotulagem e segurança são questões distintas, e a informação se destina à escolha do consumidor, não a um alerta sanitário. III é correta e é o ponto que costuma ser esquecido, pois o risco ambiental, como fluxo gênico e efeito sobre organismos não alvo, integra a análise. II é falsa e concentra a armadilha do item: a modificação genética é uma técnica, não um atributo de nocividade, e cada evento transgênico precisa ser avaliado individualmente, podendo ser seguro ou não conforme o gene introduzido e seu produto.",
+                         "formato":  "escada",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "biologia-203",
+                         "texto_apoio":  "Empresas oferecem, diretamente ao consumidor, testes que analisam variantes genéticas associadas a risco aumentado para diversas doenças. Um resultado indica que determinada pessoa possui uma variante associada a risco elevado para uma doença de manifestação tardia, para a qual não existe tratamento preventivo estabelecido.",
+                         "enunciado":  "Uma limitação técnica desse tipo de resultado, frequentemente ignorada por quem o recebe, é que a variante identificada:",
+                         "alternativas":  {
+                                              "a":  "determina com certeza o aparecimento da doença, restando apenas indefinida a idade em que os primeiros sintomas se manifestarão",
+                                              "b":  "só tem valor se confirmada por um segundo teste realizado em amostra de tecido diferente, uma vez que o genoma varia entre os tecidos do corpo",
+                                              "c":  "perde validade com o tempo, pois as variantes genéticas de um indivíduo se alteram progressivamente ao longo da vida adulta",
+                                              "d":  "é herdada exclusivamente por via materna, o que restringe o aconselhamento genético aos parentes da linhagem materna do examinado",
+                                              "e":  "indica alteração de probabilidade em uma população, e não um destino individual, já que a manifestação depende de outros genes e de fatores ambientais"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Associação estatística não é determinação. A maioria das variantes de suscetibilidade desloca o risco em uma população, e a manifestação depende de outros genes, do ambiente e do acaso. Confundir risco relativo com certeza gera angústia desproporcional e decisões clínicas mal fundamentadas, e é por isso que o aconselhamento genético é parte do procedimento. A armadilha é (a), que trata a variante como sentença. Já (c) contraria o fato de a sequência germinativa ser estável ao longo da vida.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
                      }
                  ],
     "filosofia-sociologia":  [
@@ -12501,7 +13321,7 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "vegetação – relevo – a cobertura vegetal reduz a evaporação da água disponível no solo – as elevações barram as massas úmidas",
                                                "b":  "latitude – longitude – os raios chegam inclinados longe do equador – os fusos mudam a insolação",
-                                               "c":  "altitude – continentalidade – o ar se rarefaz e retém menos calor – a água regula a temperatura do ar próximo",
+                                               "c":  "altitude – continentalidade – o ar se rarefaz e retém menos calor – longe do mar falta a água, que aquece e resfria devagar, regulando a temperatura",
                                                "d":  "correntes marítimas – pressão atmosférica – as águas frias resfriam a costa – a alta pressão inibe nuvens",
                                                "e":  "maritimidade – latitude – a proximidade do mar eleva a umidade relativa do ar – a distância ao equador define a duração das estações"
                                            },
@@ -12534,7 +13354,7 @@ window.QUESTION_BANKS = {
                                                "b":  "apresentar a maior amplitude térmica diária do território, resultado da grande distância em relação ao oceano nas áreas em que ocorre",
                                                "c":  "concentrar as chuvas no verão, com estação seca prolongada durante os meses de inverno",
                                                "d":  "registrar os menores índices pluviométricos entre todos os tipos climáticos do território brasileiro, em qualquer estação",
-                                               "e":  "apresentar chuvas bem distribuídas ao longo do ano e as menores temperaturas médias do país, com geadas no inverno"
+                                               "e":  "apresentar chuvas bem distribuídas ao longo do ano, sem estação seca definida, e as menores temperaturas médias do país, com ocorrência de geadas no inverno"
                                            },
                           "resposta":  "e",
                           "explicacao":  "Abaixo do Trópico de Capricórnio, o Sul não tem estação seca definida: chove o ano todo, com influência de frentes frias. As médias baixas e as geadas o separam de todos os demais climas brasileiros.",
@@ -12563,7 +13383,7 @@ window.QUESTION_BANKS = {
                                                "a":  "a proximidade de correntes marítimas quentes, que aquecem o ar e impedem a condensação do vapor",
                                                "b":  "a latitude elevada da região, que reduz a radiação solar recebida e limita a evaporação necessária à formação das nuvens de chuva",
                                                "c":  "a presença de extensas áreas de floresta densa, que retêm a umidade e impedem sua distribuição",
-                                               "d":  "a atuação irregular das massas de ar úmidas, que chegam enfraquecidas ao interior depois de perder umidade no litoral",
+                                               "d":  "a atuação irregular das massas de ar úmidas, que chegam enfraquecidas ao interior depois de perder umidade no litoral e no Planalto da Borborema",
                                                "e":  "a ocorrência frequente de frentes frias vindas do sul, que promovem estabilidade atmosférica e bloqueiam a formação de chuvas"
                                            },
                           "resposta":  "d",
@@ -12638,7 +13458,7 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "a intensificação do efeito estufa, com retenção adicional de calor na baixa atmosfera e elevação das temperaturas médias globais",
                                                "b":  "a destruição da camada de ozônio, que amplia a incidência de radiação ultravioleta na superfície",
-                                               "c":  "a chuva ácida, que corrói edificações e altera o pH de solos e águas, formada a partir de óxidos de enxofre e nitrogênio",
+                                               "c":  "a chuva ácida, formada quando os óxidos viram ácidos sulfúrico e nítrico e voltam na precipitação, corroendo edificações e alterando o pH de solos e águas",
                                                "d":  "a formação de nevoeiros densos que reduzem a visibilidade nas áreas urbanas nos meses mais frios",
                                                "e":  "o aumento da umidade relativa do ar nas regiões industrializadas, condição que favorece a dispersão dos poluentes emitidos localmente"
                                            },
@@ -12655,7 +13475,7 @@ window.QUESTION_BANKS = {
                                                "b":  "dobramentos modernos – bacias sedimentares – escudos cristalinos – terremotos frequentes de grande magnitude",
                                                "c":  "bacias sedimentares – dobramentos modernos – escudos cristalinos – a ausência completa de minerais metálicos no subsolo brasileiro",
                                                "d":  "escudos cristalinos – dobramentos modernos – bacias sedimentares – a impossibilidade de ocorrer petróleo em qualquer porção do país",
-                                               "e":  "escudos cristalinos – bacias sedimentares – dobramentos modernos – relevo de altitudes modestas e baixa atividade sísmica"
+                                               "e":  "escudos cristalinos – bacias sedimentares – dobramentos modernos – relevo de altitudes modestas e baixa atividade sísmica, por estarmos no interior da placa"
                                            },
                           "resposta":  "e",
                           "explicacao":  "O Brasil está no interior da placa Sul-Americana, longe das bordas onde se formam as grandes cadeias. Daí não termos Andes nem terremotos de grande porte — e termos, em compensação, escudos ricos em minério e bacias com petróleo.",
@@ -12700,7 +13520,7 @@ window.QUESTION_BANKS = {
                                                "a":  "sedimentação – litificação – temperados, ambientes em que os processos de deposição predominam sobre os de desgaste",
                                                "b":  "intemperismo químico – intemperismo físico – frios e secos, condições em que a reação entre a água e os minerais se intensifica",
                                                "c":  "erosão eólica – erosão pluvial – áridos, pela escassez de vegetação que expõe os sedimentos",
-                                               "d":  "intemperismo físico – intemperismo químico – quentes e úmidos, em que calor e água aceleram as reações",
+                                               "d":  "intemperismo físico – intemperismo químico – quentes e úmidos, em que calor e água aceleram as reações e produzem solos profundos e lixiviados",
                                                "e":  "vulcanismo – tectonismo – de altitude elevada, próximos às bordas das placas"
                                            },
                           "resposta":  "d",
@@ -12728,7 +13548,7 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Em áreas desmatadas de encosta, a água da chuva concentra-se em sulcos que se aprofundam progressivamente até atingir o lençol freático.",
                           "enunciado":  "A forma erosiva descrita é:",
                           "alternativas":  {
-                                               "a":  "a voçoroca, estágio mais avançado da erosão linear, que se aprofunda até atingir o lençol freático",
+                                               "a":  "a voçoroca, estágio mais avançado da erosão linear, que se aprofunda até atingir o lençol freático e a partir daí se autoalimenta",
                                                "b":  "a duna, forma de acumulação produzida pelo transporte de sedimentos arenosos pelo vento em áreas de vegetação escassa",
                                                "c":  "o delta, forma de deposição construída pelo acúmulo de sedimentos na foz de um rio",
                                                "d":  "a laterita, camada endurecida de óxidos que se forma na superfície de solos tropicais",
@@ -12747,7 +13567,7 @@ window.QUESTION_BANKS = {
                                                "b":  "é a do São Francisco, cujo curso atravessa o semiárido e sustenta os projetos de irrigação do vale",
                                                "c":  "é a do Paraná, responsável pela maior parte da geração hidrelétrica do país e pela integração fluvial entre os países do Cone Sul",
                                                "d":  "é a do Tocantins-Araguaia, cuja extensão se restringe ao território nacional e cujo aproveitamento se concentra na navegação",
-                                               "e":  "é a Amazônica, com grande potencial de navegação e menor aproveitamento hidrelétrico, por ser um rio de planície"
+                                               "e":  "é a Amazônica, com grande potencial de navegação e menor aproveitamento hidrelétrico, por ser um rio de planície, com pouco desnível a aproveitar"
                                            },
                           "resposta":  "e",
                           "explicacao":  "Rio de planície tem pouco desnível e por isso baixo potencial hidrelétrico, mas é excelente via de transporte. A maior geração do país está na bacia do Paraná, que é de planalto — a inversão típica dessa questão.",
@@ -12761,7 +13581,7 @@ window.QUESTION_BANKS = {
                                                "a":  "estar situado a profundidades que inviabilizam qualquer forma de extração com as tecnologias hoje disponíveis nos quatro países",
                                                "b":  "depender apenas da legislação brasileira, pois toda a sua extensão está em território nacional",
                                                "c":  "apresentar água de qualidade inadequada ao consumo humano, o que restringe seu uso às atividades industriais e agrícolas",
-                                               "d":  "exigir acordo entre Brasil, Argentina, Paraguai e Uruguai, por se tratar de um recurso transfronteiriço",
+                                               "d":  "exigir acordo entre Brasil, Argentina, Paraguai e Uruguai, por ser recurso transfronteiriço em que a extração de um lado rebaixa o nível no outro",
                                                "e":  "ter volume reduzido em comparação com as demais reservas subterrâneas do continente"
                                            },
                           "resposta":  "d",
@@ -12775,7 +13595,7 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "a irrigação – a piscicultura – a especialização produtiva de cada bacia hidrográfica do país",
                                                "b":  "a navegação – a geração hidrelétrica – a concentração das usinas na bacia Amazônica e das hidrovias no Sudeste do país",
-                                               "c":  "a geração hidrelétrica – a navegação – a distribuição das usinas e das hidrovias pelas bacias brasileiras",
+                                               "c":  "a geração hidrelétrica – a navegação – a distribuição das grandes usinas pelas bacias de planalto e das hidrovias pelas bacias de planície",
                                                "d":  "o abastecimento urbano – o uso industrial – a localização das metrópoles junto aos cursos de água",
                                                "e":  "a pesca artesanal – o transporte de cargas pesadas – a distribuição das comunidades ribeirinhas ao longo dos grandes rios"
                                            },
@@ -12790,7 +13610,7 @@ window.QUESTION_BANKS = {
                           "enunciado":  "As unidades dessa classificação são chamadas:",
                           "alternativas":  {
                                                "a":  "biomas, categorias definidas exclusivamente pela vegetação dominante de cada área",
-                                               "b":  "domínios morfoclimáticos, seis no total, definidos pelo conjunto de relevo, clima, solo e vegetação",
+                                               "b":  "domínios morfoclimáticos, seis no total, definidos pelo conjunto de relevo, clima, solo e vegetação, com faixas de transição entre eles",
                                                "c":  "unidades de conservação, áreas delimitadas por lei para a proteção dos recursos naturais",
                                                "d":  "regiões geoeconômicas, divisão que considera o processo histórico de ocupação e a especialização produtiva de cada área",
                                                "e":  "zonas climáticas, faixas delimitadas segundo a latitude e a incidência de radiação solar sobre a superfície terrestre"
@@ -12820,7 +13640,7 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Esse processo foi possibilitado, sobretudo, por:",
                           "alternativas":  {
                                                "a":  "pela ampliação da área de floresta nativa preservada, que elevou a umidade regional e viabilizou o cultivo em sequeiro",
-                                               "b":  "pela pesquisa agronômica e pela calagem, que corrigiram a acidez e a pobreza em fósforo do solo do Cerrado",
+                                               "b":  "pela pesquisa agronômica e pela calagem, que corrigiram a acidez e a pobreza em fósforo do solo, num relevo plano que permitiu mecanizar",
                                                "c":  "pela abundância natural de nutrientes nos solos do domínio, que dispensou qualquer correção prévia",
                                                "d":  "pela ocorrência de chuvas regulares o ano todo, que eliminou a necessidade de irrigação",
                                                "e":  "pelo relevo acidentado da região, que favoreceu a drenagem natural das áreas de cultivo e reduziu os custos de preparo"
@@ -12836,7 +13656,7 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "raízes superficiais e pouco desenvolvidas, que aproveitam a água da camada superior do solo",
                                                "b":  "folhas largas e permanentes durante todo o ano, característica que amplia a superfície disponível para a fotossíntese",
-                                               "c":  "caducifolia, espinhos e caules suculentos, que reduzem a perda de água e permitem estocá-la na estação seca",
+                                               "c":  "caducifolia, espinhos e caules suculentos, que cortam a perda de água por transpiração e permitem estocá-la para atravessar a estação seca",
                                                "d":  "porte arbóreo elevado e dossel contínuo, estrutura que reduz a incidência de radiação solar direta sobre o solo",
                                                "e":  "presença de epífitas e lianas, plantas que se apoiam nas árvores para alcançar a luz"
                                            },
@@ -12849,7 +13669,7 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "A Mata Atlântica cobria originalmente cerca de 15% do território brasileiro e hoje conserva uma fração reduzida de sua extensão original.",
                           "enunciado":  "A intensidade dessa devastação se explica principalmente por:",
                           "alternativas":  {
-                                               "a":  "coincidir com a faixa de ocupação mais antiga e mais densa do país, por onde entraram a cana, o café e a indústria",
+                                               "a":  "coincidir com a faixa litorânea de ocupação mais antiga do país, por onde entraram cana, café e indústria e onde vive a maioria da população",
                                                "b":  "pela fragilidade natural de suas espécies vegetais, incapazes de se regenerar após qualquer forma de intervenção humana",
                                                "c":  "pela baixa diversidade biológica do bioma, que desestimulou a criação de unidades de conservação",
                                                "d":  "pela ocorrência de incêndios naturais de grande extensão, recorrentes no domínio desse bioma",
@@ -12868,7 +13688,7 @@ window.QUESTION_BANKS = {
                                                "b":  "Pantanal e Pampa, ordem que corresponde à posição de cada um em relação ao Trópico",
                                                "c":  "Cerrado e Caatinga, domínios que se distinguem pelo regime pluviométrico de cada área",
                                                "d":  "Mata Atlântica e Amazônia, biomas florestais que ocupam a faixa litorânea e a porção setentrional do território",
-                                               "e":  "Pampa e Pantanal, o primeiro de campos no extremo sul e o segundo a maior planície alagável do mundo"
+                                               "e":  "Pampa e Pantanal, o primeiro de campos no extremo sul e o segundo a maior planície alagável do mundo, com pulso periódico de inundação"
                                            },
                           "resposta":  "e",
                           "explicacao":  "O Pampa ocupa a metade sul do Rio Grande do Sul, com campos e pecuária extensiva. O Pantanal é a maior planície alagável do mundo, e seu pulso de inundação sustenta a biodiversidade que o caracteriza.",
@@ -12881,7 +13701,7 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "independe das condições atmosféricas, sendo sua distribuição determinada exclusivamente pelo substrato rochoso local",
                                                "b":  "determina o clima de cada região, uma vez que a cobertura vegetal é o principal fator responsável pelo regime de chuvas",
-                                               "c":  "depende de temperatura e de disponibilidade hídrica, o que repete formações semelhantes em latitudes próximas",
+                                               "c":  "depende de temperatura e de disponibilidade hídrica, o que repete formações semelhantes em latitudes próximas de continentes diferentes",
                                                "d":  "acompanha a distribuição da população humana, cuja ocupação define quais formações permanecem",
                                                "e":  "varia conforme a altitude apenas, sem que a latitude influa sobre a distribuição das formações"
                                            },
@@ -12894,7 +13714,7 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Apesar de concentrar cerca de 12% da água doce superficial do planeta, o Brasil enfrenta crises de abastecimento em suas maiores regiões metropolitanas.",
                           "enunciado":  "A aparente contradição se explica sobretudo por:",
                           "alternativas":  {
-                                               "a":  "a água estar distribuída de forma desigual em relação à população, concentrada na Amazônia e escassa no Sudeste",
+                                               "a":  "a água estar distribuída de forma desigual em relação à população, concentrada na Amazônia e escassa no Sudeste, somadas as perdas na distribuição",
                                                "b":  "pelo volume total de água disponível ter diminuído de forma acentuada nas últimas décadas em todas as bacias hidrográficas",
                                                "c":  "pela ausência de tecnologia adequada ao tratamento da água captada nos mananciais",
                                                "d":  "pelo consumo doméstico responder pela maior parte da demanda nacional, o que torna insuficiente qualquer volume disponível",
@@ -12943,7 +13763,7 @@ window.QUESTION_BANKS = {
                                                "a":  "a expansão da cobertura florestal nativa em razão do aumento do dióxido de carbono disponível para a fotossíntese das plantas",
                                                "b":  "a redução generalizada das temperaturas médias no território nacional, pelo aumento da nebulosidade",
                                                "c":  "o aumento uniforme das precipitações em todas as regiões do país, o que ampliaria a disponibilidade hídrica das bacias",
-                                               "d":  "maior frequência de secas e de chuvas concentradas em poucos eventos, com efeitos sobre a agricultura e as cidades",
+                                               "d":  "maior frequência de secas e de chuvas concentradas em poucos eventos, que alagam as cidades sem recarregar os aquíferos e atingem a safra",
                                                "e":  "a estabilização do nível dos oceanos, o que eliminaria os riscos nas áreas costeiras ocupadas"
                                            },
                           "resposta":  "d",
@@ -12956,7 +13776,7 @@ window.QUESTION_BANKS = {
                           "enunciado":  "O dado caracteriza:",
                           "alternativas":  {
                                                "a":  "a fragmentação da propriedade rural, decorrente das sucessivas partilhas por herança ao longo do último século no país",
-                                               "b":  "a concentração fundiária, marca histórica da estrutura agrária brasileira desde as sesmarias e a Lei de Terras",
+                                               "b":  "a concentração fundiária, herança das sesmarias e da Lei de Terras de 1850, que mantém o índice de Gini da terra entre os mais altos do mundo",
                                                "c":  "a predominância da agricultura familiar em área ocupada, resultado das políticas de crédito recentes",
                                                "d":  "o avanço da reforma agrária, que teria redistribuído parcela significativa das terras improdutivas",
                                                "e":  "a equivalência entre número de estabelecimentos e área ocupada, situação que caracteriza uma distribuição equilibrada"
@@ -12973,7 +13793,7 @@ window.QUESTION_BANKS = {
                                                "a":  "a pecuária extensiva – a pecuária intensiva – o número de cabeças por hectare em cada sistema",
                                                "b":  "a agricultura familiar – o agronegócio – o volume de área ocupada por cada estabelecimento – a origem do capital investido",
                                                "c":  "a agricultura de subsistência – a agricultura comercial – a região do país de cada uma – o tipo de cultivo",
-                                               "d":  "o agronegócio – a agricultura familiar – escala, destino e organização do trabalho – nível tecnológico necessariamente",
+                                               "d":  "o agronegócio – a agricultura familiar – escala, destino e organização do trabalho – nível tecnológico, já que há produção familiar tecnificada",
                                                "e":  "a produção orgânica – a produção convencional – o emprego de insumos químicos no processo produtivo desenvolvido em cada caso"
                                            },
                           "resposta":  "d",
@@ -12986,7 +13806,7 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "A Constituição de 1988 estabelece que a propriedade rural deve cumprir sua função social, atendendo a critérios de produtividade, ambientais e trabalhistas.",
                           "enunciado":  "O descumprimento desses critérios torna o imóvel passível de:",
                           "alternativas":  {
-                                               "a":  "desapropriação para fins de reforma agrária, mediante indenização em títulos da dívida agrária pela terra",
+                                               "a":  "desapropriação para fins de reforma agrária, com indenização em títulos da dívida agrária pela terra e em dinheiro pelas benfeitorias",
                                                "b":  "confisco imediato sem qualquer indenização ao proprietário, medida prevista para todos os casos de descumprimento",
                                                "c":  "tombamento pelo poder público, que impede alterações nas características originais do imóvel",
                                                "d":  "transferência automática para a União, sem processo administrativo ou judicial prévio",
@@ -13079,7 +13899,7 @@ window.QUESTION_BANKS = {
                                                "a":  "pelo desinteresse dos grandes proprietários em manter as terras produtivas",
                                                "b":  "pela ausência de legislação sobre propriedade rural no país, lacuna que impede a solução dos casos judiciais",
                                                "c":  "pela redução da área agrícola disponível no território nacional, processo intensificado nas últimas décadas",
-                                               "d":  "indefinição de títulos, grilagem e disputa por terras nas áreas de expansão da fronteira agrícola",
+                                               "d":  "indefinição de títulos, grilagem e disputa por terras nas áreas de expansão da fronteira agrícola, onde o conflito vira violência",
                                                "e":  "pela migração da população rural para as cidades, que esvaziou o campo e eliminou as disputas"
                                            },
                           "resposta":  "d",
@@ -13126,7 +13946,7 @@ window.QUESTION_BANKS = {
                                                "b":  "a ampliação do crédito rural destinado aos pequenos produtores, política que fixou a população no campo ao longo de todo o período citado",
                                                "c":  "a criação de assentamentos de reforma agrária em escala suficiente para absorver a população rural",
                                                "d":  "a valorização das atividades extrativistas tradicionais, que passaram a oferecer remuneração superior à obtida nas atividades urbanas",
-                                               "e":  "a mecanização agrícola, que substituiu dezenas de trabalhadores por máquina e reduziu a demanda por mão de obra"
+                                               "e":  "a mecanização agrícola, que substituiu dezenas de trabalhadores por máquina, enquanto a concentração fundiária fechava a alternativa da pequena posse"
                                            },
                           "resposta":  "e",
                           "explicacao":  "A colheitadeira substitui dezenas de trabalhadores, e a concentração fundiária fecha a alternativa da pequena posse. Do outro lado, a industrialização puxava — mas a expulsão veio antes da atração, e por isso a cidade recebeu mais gente do que emprego.",
@@ -13140,7 +13960,7 @@ window.QUESTION_BANKS = {
                                                "a":  "cidade média – região metropolitana – aglomeração urbana, categorias da legislação urbanística brasileira",
                                                "b":  "megalópole – metrópole – conurbação, ordem correspondente ao número de habitantes de cada formação",
                                                "c":  "conurbação – megalópole – metrópole, classificação estabelecida a partir da extensão territorial ocupada por cada uma das formações citadas",
-                                               "d":  "metrópole – conurbação – megalópole, isto é, a cidade que polariza, as manchas que se encostam e as metrópoles em sequência",
+                                               "d":  "metrópole – conurbação – megalópole, isto é, a cidade que polariza, as manchas que se encostam e as metrópoles em sequência, como no eixo entre o Rio e São Paulo",
                                                "e":  "capital regional – centro sub-regional – centro de zona, denominações adotadas na classificação da rede urbana elaborada pelo instituto oficial"
                                            },
                           "resposta":  "d",
@@ -13199,7 +14019,7 @@ window.QUESTION_BANKS = {
                           "enunciado":  "A manutenção desses vazios se explica sobretudo por:",
                           "alternativas":  {
                                                "a":  "pela ausência de demanda por moradia nas áreas centrais das cidades brasileiras",
-                                               "b":  "especulação imobiliária, com o proprietário aguardando a valorização trazida pelo investimento público do entorno",
+                                               "b":  "especulação imobiliária, com o proprietário aguardando a valorização trazida pelo investimento público do entorno, que ele embolsa sem ter gasto nada",
                                                "c":  "por restrições ambientais que impedem qualquer edificação nessas áreas, conforme a legislação em vigor",
                                                "d":  "pela inexistência de infraestrutura de água, esgoto e energia nessas áreas, condição que inviabiliza sua ocupação para fins residenciais",
                                                "e":  "por determinação dos planos diretores municipais, que reservam essas áreas para a implantação futura de equipamentos públicos na cidade"
@@ -13228,7 +14048,7 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Em áreas centrais degradadas de várias cidades, investimentos em requalificação urbana elevaram os preços de imóveis e aluguéis, levando à saída dos antigos moradores.",
                           "enunciado":  "O processo descrito é ______, e sua característica central é ______; ele se distingue da simples requalificação por ______. As lacunas são preenchidas por:",
                           "alternativas":  {
-                                               "a":  "a gentrificação – a substituição da população residente por outra de renda mais alta – produzir expulsão indireta pelo preço",
+                                               "a":  "a gentrificação – a substituição da população residente por outra de renda mais alta – produzir expulsão indireta pelo preço do aluguel, e não por ordem judicial",
                                                "b":  "a periferização – a ocupação de áreas distantes por população de baixa renda – ocorrer nas bordas da cidade",
                                                "c":  "a conurbação – a fusão das manchas urbanas de municípios vizinhos – envolver mais de um município",
                                                "d":  "a verticalização – a substituição de edificações horizontais por edifícios altos – alterar a densidade construída sem modificar quem ali reside",
@@ -13261,7 +14081,7 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "a elevação do custo da energia elétrica nas regiões afetadas, pela necessidade de tratamento adicional da água",
                                                "b":  "o aumento da incidência de doenças respiratórias crônicas na população residente",
-                                               "c":  "a alta incidência de doenças de veiculação hídrica, como diarreias, hepatite A e leptospirose",
+                                               "c":  "a alta incidência de doenças de veiculação hídrica — diarreias, hepatite A, leptospirose e verminoses —, que a rede de esgoto evita",
                                                "d":  "a redução da disponibilidade de água subterrânea, decorrente da menor recarga dos aquíferos nas áreas urbanas",
                                                "e":  "a diminuição da produtividade agrícola nas áreas próximas às regiões metropolitanas"
                                            },
@@ -13322,7 +14142,7 @@ window.QUESTION_BANKS = {
                                                "a":  "mais planejada – seguir diretrizes definidas por órgãos técnicos – cidades de traçado regular e ocupação formal",
                                                "b":  "mais lenta – vir acompanhada de investimento público prévio – cidades com serviços distribuídos entre bairros",
                                                "c":  "mais antiga – decorrer diretamente do processo de industrialização local – cidades de porte reduzido distribuídas de modo uniforme no território",
-                                               "d":  "mais rápida – não ser acompanhada de oferta suficiente de emprego e infraestrutura – cidades com grandes áreas precárias",
+                                               "d":  "mais rápida – não ser acompanhada de oferta suficiente de emprego e infraestrutura – cidades com grandes áreas precárias, ocupadas por quem o mercado formal não absorveu",
                                                "e":  "mais reversível – permitir o retorno da população às áreas rurais de origem – redução progressiva da taxa de urbanização ao longo das décadas"
                                            },
                           "resposta":  "d",
@@ -13414,7 +14234,7 @@ window.QUESTION_BANKS = {
                                                "b":  "a natalidade – a mortalidade – na quarta fase, quando as duas taxas voltam a se aproximar em patamares baixos",
                                                "c":  "a fecundidade – a expectativa de vida – na primeira fase, período em que ambas as taxas permanecem elevadas nas sociedades analisadas",
                                                "d":  "a mortalidade infantil – a mortalidade adulta – na terceira fase, quando a população atinge o maior contingente absoluto de sua história",
-                                               "e":  "a mortalidade – a natalidade – na segunda fase, quando as duas taxas mais se distanciam e a população cresce depressa"
+                                               "e":  "a mortalidade – a natalidade – na segunda fase, quando as duas taxas mais se distanciam e a população cresce depressa, porque a natalidade demora a reagir"
                                            },
                           "resposta":  "e",
                           "explicacao":  "Saneamento e vacina derrubam a mortalidade antes que a natalidade reaja, e é nesse intervalo que a população explode. A queda da natalidade vem depois, com urbanização, escolaridade e trabalho feminino.",
@@ -13927,7 +14747,7 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Essa disputa é conhecida como guerra fiscal e tem como consequência:",
                           "alternativas":  {
                                                "a":  "o aumento da arrecadação de todos os estados envolvidos, resultado da ampliação da base tributária proporcionada pelas novas empresas",
-                                               "b":  "perda de arrecadação sem ganho líquido para o conjunto da federação, já que o investimento viria de todo modo",
+                                               "b":  "perda de arrecadação sem ganho líquido para o conjunto da federação, já que o investimento viria de todo modo e só se disputa onde ele será feito",
                                                "c":  "a distribuição equilibrada das plantas industriais pelo conjunto do território nacional",
                                                "d":  "a elevação uniforme das alíquotas praticadas por todos os estados para compensar as renúncias",
                                                "e":  "a transferência da competência tributária para a União, medida adotada como resposta à disputa travada entre as unidades da federação"
@@ -14770,6 +15590,196 @@ window.QUESTION_BANKS = {
                           "resposta":  "e",
                           "explicacao":  "O conjunto B-F-G-Q é a informação mais contraintuitiva do estudo dos cadernos: quem monta o cronograma pela intuição reserva tempo para Matemática e trata Geografia como matéria secundária, invertendo exatamente o que a prova cobra.",
                           "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-151",
+                          "texto_apoio":  "Num mapa na escala 1:25.000, a distância em linha reta entre uma unidade básica de saúde e o hospital de referência do município mede 8 cm.",
+                          "enunciado":  "A distância real entre os dois pontos é de:",
+                          "alternativas":  {
+                                               "a":  "200 m",
+                                               "b":  "2 km",
+                                               "c":  "3,125 km",
+                                               "d":  "20 km",
+                                               "e":  "200 km"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Na escala 1:25.000, cada centímetro do mapa vale 25.000 cm no terreno: 8 x 25.000 = 200.000 cm. Convertendo, 200.000 cm equivalem a 2.000 m, ou 2 km. O tropeço mais comum está na conversão final, já que de centímetro para quilômetro se divide por 100.000, e não por 10.000, o que produziria 20 km. Dividir a escala pela medida, em vez de multiplicar, leva a 3,125 km.",
+                          "formato":  "direta"
+                      },
+                      {
+                          "id":  "geografia-152",
+                          "texto_apoio":  "Um trecho retilíneo de rodovia que mede 12 km no terreno aparece com 6 cm de comprimento num mapa.",
+                          "enunciado":  "A escala desse mapa é:",
+                          "alternativas":  {
+                                               "a":  "1:2.000",
+                                               "b":  "1:20.000",
+                                               "c":  "1:72.000",
+                                               "d":  "1:200.000",
+                                               "e":  "1:2.000.000"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Escala é a razão entre a distância no mapa e a distância real, expressas na mesma unidade. Convertendo, 12 km equivalem a 1.200.000 cm; dividindo por 6 cm, chega-se a 1:200.000. Trabalhar em metros, fazendo 12.000 dividido por 6, dá 1:2.000 e é o deslize mais frequente: a conversão precisa ser para centímetros, que é a unidade da medida feita sobre o papel. Multiplicar 12 por 6 leva a 1:72.000.",
+                          "formato":  "direta",
+                          "dificuldade":  "media"
+                      },
+                      {
+                          "id":  "geografia-153",
+                          "texto_apoio":  "Um mapa impresso traz a escala numérica 1:100.000 e também uma escala gráfica, isto é, uma barra graduada em quilômetros. O documento é fotocopiado com redução para metade do tamanho original.",
+                          "enunciado":  "Depois da redução:",
+                          "alternativas":  {
+                                               "a":  "as duas escalas permanecem corretas, porque a redução altera apenas o tamanho do papel, e não as distâncias representadas no documento",
+                                               "b":  "as duas escalas perdem a validade, sendo necessário refazer o mapa a partir dos dados do levantamento topográfico",
+                                               "c":  "a escala gráfica deixa de valer e a numérica continua correta, já que a fração numérica independe do tamanho em que o mapa é impresso",
+                                               "d":  "a escala gráfica continua válida e a numérica passa a ser 1:50.000, pois a redução aproxima a representação da dimensão real do terreno",
+                                               "e":  "a escala gráfica segue válida, por ter encolhido junto com o desenho, e a numérica passa a 1:200.000, já que cada centímetro cobre o dobro da distância"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "A barra graduada encolhe na mesma proporção do desenho, então continua medindo certo, e é exatamente por isso que as cartas oficiais a trazem. Já a fração numérica fica desatualizada: com metade do tamanho, cada centímetro passa a representar o dobro da distância, ou seja, 1:200.000. Quem imagina que reduzir o mapa aumenta a escala inverte a relação e responde 1:50.000.",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil"
+                      },
+                      {
+                          "id":  "geografia-154",
+                          "texto_apoio":  "Um terreno retangular destinado à construção de uma unidade de saúde aparece, num mapa na escala 1:2.000, com lados de 4 cm e 3 cm.",
+                          "enunciado":  "A área real desse terreno é de:",
+                          "alternativas":  {
+                                               "a":  "2,4 m²",
+                                               "b":  "480 m²",
+                                               "c":  "4.800 m²",
+                                               "d":  "48.000 m²",
+                                               "e":  "480.000 m²"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Cada lado é convertido separadamente: 4 x 2.000 = 8.000 cm, ou 80 m, e 3 x 2.000 = 6.000 cm, ou 60 m. A área é 80 x 60 = 4.800 m². A armadilha é aplicar a escala diretamente sobre a área do desenho: 12 cm² multiplicados por 2.000 dariam 2,4 m². Em área, a escala entra ao quadrado, e é esse detalhe que a maioria esquece.",
+                          "formato":  "direta",
+                          "dificuldade":  "media"
+                      },
+                      {
+                          "id":  "geografia-155",
+                          "texto_apoio":  "Uma carga refrigerada de vacinas parte de Bruxelas, que opera no fuso GMT+1, às 20h de uma segunda-feira, e o voo até São Paulo, no fuso GMT-3, dura 12 horas.",
+                          "enunciado":  "O relógio de São Paulo marcará, na chegada:",
+                          "alternativas":  {
+                                               "a":  "4h de terça-feira",
+                                               "b":  "8h de terça-feira",
+                                               "c":  "12h de terça-feira",
+                                               "d":  "16h de terça-feira",
+                                               "e":  "4h de quarta-feira"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Converta a partida para o horário de Greenwich: 20h de segunda em Bruxelas, que está uma hora à frente, correspondem a 19h UTC. Somando as 12 horas de voo, chega-se às 7h UTC de terça; em São Paulo, três horas atrás, são 4h de terça-feira. Somar a duração diretamente ao relógio de origem, sem descontar as quatro horas de diferença entre os dois fusos, produz 8h — e é esse erro que faz uma equipe perder o horário de recepção de uma carga com prazo.",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil"
+                      },
+                      {
+                          "id":  "geografia-156",
+                          "texto_apoio":  "O território continental brasileiro estende-se aproximadamente entre 34° e 74° de longitude oeste.",
+                          "enunciado":  "Considerando apenas a longitude, a diferença de hora solar entre os dois extremos é de:",
+                          "alternativas":  {
+                                               "a":  "40 minutos",
+                                               "b":  "1 hora e 20 minutos",
+                                               "c":  "2 horas",
+                                               "d":  "2 horas e 40 minutos",
+                                               "e":  "7 horas e 12 minutos"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Como a Terra gira 360° em 24 horas, cada hora corresponde a 15° e cada grau, a 4 minutos. A extensão é 74° - 34° = 40°, e 40 x 4 = 160 minutos, ou 2 horas e 40 minutos. Somar as duas longitudes, procedimento válido apenas quando os pontos estão em hemisférios opostos, daria 108° e mais de sete horas. Vale lembrar que o horário legal não segue essa conta: os limites dos fusos brasileiros acompanham divisas estaduais.",
+                          "formato":  "direta",
+                          "dificuldade":  "media"
+                      },
+                      {
+                          "id":  "geografia-157",
+                          "texto_apoio":  "Uma equipe de vigilância epidemiológica precisa produzir um mapa-múndi em que a proporção entre as áreas dos países seja preservada, para comparar a distribuição de casos de uma doença por unidade de território.",
+                          "enunciado":  "A projeção adequada é a ______, que preserva ______ e distorce ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "conforme – os ângulos, o que a torna adequada à navegação – as áreas, ampliando as regiões de alta latitude em relação às tropicais",
+                                               "b":  "equivalente – as proporções entre as áreas dos países – as formas dos continentes, que aparecem alongadas ou achatadas no mapa",
+                                               "c":  "equidistante – ângulos, áreas e distâncias simultaneamente – apenas as altitudes do terreno, que nenhuma projeção representa",
+                                               "d":  "afilática – todas as propriedades geométricas da superfície – somente a posição relativa dos meridianos e dos paralelos traçados",
+                                               "e":  "de Mercator – as áreas dos países – os ângulos entre os meridianos, motivo pelo qual ela não é usada na navegação marítima"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Nenhuma projeção conserva tudo: achatar uma esfera obriga a escolher o que sacrificar. Para comparar quantidade por unidade de território é preciso que a área esteja certa, daí a projeção equivalente. Mercator é conforme, e não equivalente: usá-la aqui inflaria Groenlândia e Rússia e deformaria qualquer densidade calculada. Afilática, por sua vez, não significa ausência de distorção, e sim que nenhuma das duas propriedades é conservada integralmente.",
+                          "formato":  "lacunas",
+                          "dificuldade":  "media"
+                      },
+                      {
+                          "id":  "geografia-158",
+                          "texto_apoio":  "Numa carta topográfica na escala 1:10.000, dois pontos de uma encosta situam-se sobre as curvas de nível de 40 m e de 60 m de altitude. A distância entre eles, medida no mapa, é de 2 cm.",
+                          "enunciado":  "A declividade média do trecho é de:",
+                          "alternativas":  {
+                                               "a":  "0,1%",
+                                               "b":  "1%",
+                                               "c":  "10%",
+                                               "d":  "20%",
+                                               "e":  "40%"
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "A distância horizontal real é 2 x 10.000 = 20.000 cm, ou 200 m, e o desnível é 60 - 40 = 20 m. A declividade é a razão entre os dois: 20 dividido por 200 resulta em 0,1, ou 10%. Os erros previsíveis estão na conversão e na leitura: tomar 20.000 cm como 2.000 m dá 1%, usar apenas um centímetro dá 20%, e adotar a altitude de 40 m como se fosse o desnível dá 40%.",
+                          "formato":  "direta",
+                          "dificuldade":  "dificil"
+                      },
+                      {
+                          "id":  "geografia-159",
+                          "texto_apoio":  "Dois pontos da superfície terrestre têm as coordenadas A (5° N, 60° W) e B (15° S, 45° W).",
+                          "enunciado":  "Sobre a posição relativa desses pontos, é correto afirmar que:",
+                          "alternativas":  {
+                                               "a":  "A está mais próximo do equador, ainda que em hemisfério distinto, e B está situado mais a leste, por ter longitude oeste menor",
+                                               "b":  "B está mais próximo do equador e A está situado mais a leste, por apresentar valor de longitude mais elevado que o do outro ponto",
+                                               "c":  "os dois estão no hemisfério norte e no mesmo fuso horário, uma vez que a diferença entre suas longitudes é inferior a quinze graus",
+                                               "d":  "A está a leste de B, e ambos se localizam ao sul do equador, conforme indicam os valores de latitude registrados para cada um deles",
+                                               "e":  "B está mais distante do meridiano de Greenwich que A, por apresentar latitude maior que a registrada para o primeiro ponto"
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Latitude mede o afastamento em relação ao equador: 5° é menos que 15°, logo A está mais perto dele, ainda que num hemisfério diferente. Longitude mede o afastamento em relação a Greenwich: 45° W está mais perto do meridiano zero e, portanto, mais a leste que 60° W. As duas armadilhas clássicas são supor que longitude oeste maior significa posição mais a leste e usar a latitude para julgar distância a Greenwich, que é medida pela longitude.",
+                          "formato":  "direta",
+                          "dificuldade":  "media"
+                      },
+                      {
+                          "id":  "geografia-160",
+                          "texto_apoio":  "Dois satélites monitoram a mesma região. O primeiro registra imagens cujo menor elemento corresponde a 30 m no terreno e repete a passagem sobre a área a cada 16 dias. O segundo tem elemento mínimo de 250 m e passa sobre a área todos os dias.",
+                          "enunciado":  "Para acompanhar dia a dia o avanço de uma queimada extensa, é preferível o segundo satélite porque:",
+                          "alternativas":  {
+                                               "a":  "sua resolução espacial é maior, o que permite delimitar com exatidão o contorno de cada foco identificado na área monitorada",
+                                               "b":  "elementos maiores registram a temperatura da superfície com precisão superior à obtida por sensores de elemento reduzido",
+                                               "c":  "a resolução espacial e a resolução temporal medem a mesma propriedade, de modo que qualquer um dos dois sensores serviria igualmente",
+                                               "d":  "uma revisita a cada 16 dias é suficiente para registrar variações diárias, desde que as imagens tenham alta resolução espacial",
+                                               "e":  "sua resolução temporal é maior, e acompanhar um fenômeno diário exige frequência de imageamento, não detalhe"
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "São duas resoluções diferentes: a espacial diz qual é o menor objeto distinguível na imagem; a temporal, de quanto em quanto tempo o satélite volta ao mesmo ponto. Para um fenômeno que muda todo dia, frequência vale mais que detalhe, e o inverso vale para delimitar com precisão um polígono de desmatamento. Tratar elemento maior como sinônimo de precisão maior inverte o conceito de resolução espacial.",
+                          "formato":  "direta",
+                          "dificuldade":  "media"
+                      },
+                      {
+                          "id":  "geografia-161",
+                          "texto_apoio":  "Uma secretaria estadual de saúde precisa apresentar três informações num mesmo relatório: a taxa de internações por 100 mil habitantes em cada município; a localização exata de cada unidade de pronto atendimento; e o deslocamento de pacientes entre municípios em busca de atendimento especializado.",
+                          "enunciado":  "As representações adequadas são, respectivamente, ______, ______ e ______. As lacunas são preenchidas por:",
+                          "alternativas":  {
+                                               "a":  "mapa de fluxos – anamorfose – carta topográfica com curvas de nível traçadas a intervalos regulares em toda a extensão do estado",
+                                               "b":  "mapa coroplético – mapa de pontos – mapa de fluxos, com setas cuja espessura é proporcional ao número de pacientes que se deslocam",
+                                               "c":  "carta topográfica – climograma – mapa coroplético, em que as tonalidades indicam o número de pacientes deslocados entre os municípios",
+                                               "d":  "mapa de pontos – mapa coroplético – anamorfose, em que a área de cada município é proporcional ao número de unidades instaladas nele",
+                                               "e":  "climograma – mapa de fluxos – imagem de satélite multiespectral obtida sobre a área correspondente a cada um dos municípios do estado"
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Dado relativo por unidade territorial pede tonalidade, que é o mapa coroplético; posição exata pede ponto; movimento entre lugares pede seta proporcional, que é o mapa de fluxos. A troca mais comum é usar o coroplético para valores absolutos, o que faz o mapa reproduzir a distribuição da população em vez do fenômeno que se quer estudar.",
+                          "formato":  "lacunas"
+                      },
+                      {
+                          "id":  "geografia-162",
+                          "texto_apoio":  "As projeções cartográficas podem ser classificadas conforme a superfície geométrica sobre a qual a esfera terrestre é projetada: um cilindro, um cone ou um plano.",
+                          "enunciado":  "Sobre essa classificação e as deformações correspondentes, é correto afirmar que:",
+                          "alternativas":  {
+                                               "a":  "a projeção cilíndrica apresenta deformação mínima nas regiões polares, o que a torna a mais indicada para representar o Ártico e a Antártida",
+                                               "b":  "a projeção cônica representa o planeta inteiro com precisão num único documento, por manter a deformação constante em toda a superfície",
+                                               "c":  "a projeção plana distribui igualmente a deformação por toda a extensão do mapa, independentemente do ponto de contato adotado",
+                                               "d":  "a cilíndrica deforma menos perto do equador e mais rumo aos polos; a cônica serve às latitudes médias; e a plana, às regiões polares",
+                                               "e":  "as três apresentam exatamente as mesmas deformações, já que toda representação plana da superfície terrestre distorce ângulos e áreas do mesmo modo"
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "A deformação é menor onde a superfície geométrica toca a esfera: no equador, no caso do cilindro; num paralelo de latitude média, no do cone; e num único ponto, no da projeção plana, razão pela qual ela é a escolha usual para mapas polares. Dizer que todas distorcem igualmente confunde duas coisas: é verdade que nenhuma é fiel, mas o padrão e a localização da distorção mudam conforme a superfície adotada, e é isso que orienta a escolha.",
+                          "formato":  "direta",
+                          "dificuldade":  "media"
                       }
                   ],
     "gramatica":  [
@@ -14780,7 +15790,7 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "ambas estão corretas, já que a concordância com sujeito posposto é facultativa e admite tanto o singular quanto o plural sem prejuízo de sentido",
                                                "b":  "apenas II está correta, uma vez que o verbo colocado antes do sujeito permanece obrigatoriamente na terceira pessoa do singular em qualquer situação",
-                                               "c":  "apenas I está correta, pois o verbo concorda com o sujeito, ainda que posposto, e a inversão da ordem dos termos não interfere na flexão de número",
+                                               "c":  "apenas I está correta, pois o verbo concorda com o sujeito \"três pacientes\", ainda que posposto, e inverter a ordem dos termos é recurso de estilo, e não de sintaxe",
                                                "d":  "ambas estão incorretas, pois o sujeito da oração é o termo \"pronto-socorro\" e exigiria a forma verbal na terceira pessoa do singular do pretérito",
                                                "e":  "apenas II está correta, porque a expressão \"com o mesmo quadro\" funciona como adjunto e transfere o núcleo do sujeito para a forma singular"
                                            },
@@ -14793,7 +15803,7 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "\"Havia mais de vinte pessoas na sala de espera quando o plantão começou.\"",
                           "enunciado":  "A forma verbal permanece no singular porque o verbo \"haver\", nesse emprego:",
                           "alternativas":  {
-                                               "a":  "significa \"existir\" e é impessoal, não admitindo sujeito, de modo que o termo que vem depois dele exerce ali a função de objeto direto",
+                                               "a":  "significa \"existir\" e é impessoal, não admitindo sujeito, de modo que o termo que vem depois dele é objeto direto e o verbo fica na terceira pessoa do singular",
                                                "b":  "está acompanhado da locução \"mais de\", que impõe a forma singular a qualquer verbo com o qual venha a se combinar dentro do período",
                                                "c":  "concorda com o termo \"sala de espera\", que exerce a função de sujeito da oração e se encontra no singular na construção apresentada",
                                                "d":  "aparece no pretérito imperfeito, tempo verbal que no português contemporâneo dispensa a flexão de número em construções existenciais",
@@ -14872,7 +15882,7 @@ window.QUESTION_BANKS = {
                                                "a":  "o verbo \"vender\" pertence ao grupo dos que exigem obrigatoriamente a flexão de plural quando acompanhados de pronome átono na próclise",
                                                "b":  "o verbo concorda com o adjetivo \"usados\", que aparece no plural e determina a flexão de toda a construção verbal empregada na oração",
                                                "c":  "a partícula \"se\" indetermina o sujeito, e nesse caso a norma culta recomenda o emprego da terceira pessoa do plural para marcar a indeterminação",
-                                               "d":  "\"equipamentos\" é o sujeito de uma construção passiva sintética, em que o \"se\" apassiva o verbo e o termo aparentemente objeto passa a sujeito",
+                                               "d":  "\"equipamentos\" é o sujeito de uma construção passiva sintética, equivalente a \"são vendidos\", em que o \"se\" apassiva o verbo e o objeto aparente passa a sujeito",
                                                "e":  "o termo \"hospitalares\" funciona como núcleo do sujeito composto da oração e impõe ao verbo a concordância com a forma plural apresentada"
                                            },
                           "resposta":  "d",
@@ -14884,7 +15894,7 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Considere: (I) \"Seguem anexas as cópias dos exames.\" (II) \"Muito obrigada — disse a paciente.\"",
                           "enunciado":  "Sobre a concordância nominal nos dois enunciados:",
                           "alternativas":  {
-                                               "a":  "ambos estão corretos, pois \"anexo\" e \"obrigado\" funcionam como adjetivos e variam em gênero e número conforme o termo a que cada um se refere",
+                                               "a":  "ambos estão corretos, pois \"anexo\" e \"obrigado\" funcionam como adjetivos e variam conforme o termo a que se referem, sendo invariável apenas a locução \"em anexo\"",
                                                "b":  "apenas I está correto, já que \"obrigado\" é forma cristalizada e permanece invariável independentemente de quem produz o enunciado em que ela aparece",
                                                "c":  "apenas II está correto, uma vez que \"anexo\" tem valor adverbial nessa construção e por isso não admite flexão de gênero nem de número",
                                                "d":  "ambos estão incorretos, porque as duas palavras pertencem à classe dos advérbios e deveriam permanecer na forma masculina singular nos dois casos",
@@ -14917,7 +15927,7 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "substantivo e funciona como núcleo do sujeito; a segunda é adjetivo e exerce a função de adjunto adnominal do termo que aparece em seguida",
                                                "b":  "numeral e concorda com o adjetivo que a acompanha; a segunda é advérbio de intensidade e permanece invariável em qualquer contexto de emprego",
-                                               "c":  "advérbio e não varia, por modificar um adjetivo; a segunda é numeral e concorda em gênero com o substantivo que ela quantifica na frase",
+                                               "c":  "advérbio e não varia, por modificar um adjetivo e equivaler ali a \"um pouco\"; a segunda é numeral e concorda em gênero com o substantivo que ela quantifica",
                                                "d":  "preposição e introduz um complemento nominal; a segunda é conjunção e estabelece relação de adição entre as duas orações do período",
                                                "e":  "pronome indefinido e retoma um termo anterior; a segunda é artigo e determina o substantivo que a acompanha na segunda oração do período"
                                            },
@@ -14961,7 +15971,7 @@ window.QUESTION_BANKS = {
                           "enunciado":  "A diferença de concordância entre os dois enunciados se explica porque, com expressões percentuais, o verbo concorda:",
                           "alternativas":  {
                                                "a":  "sempre com o termo preposicionado que vem em seguida à expressão percentual, independentemente do valor numérico indicado antes dele no período",
-                                               "b":  "com o numeral que acompanha a expressão percentual, e não com o termo preposicionado que vem depois dela na construção apresentada na frase",
+                                               "b":  "com o numeral que acompanha a expressão percentual, e não com o termo preposicionado que vem depois dela, o qual, se comandasse, daria a mesma forma aos dois",
                                                "c":  "sempre na terceira pessoa do singular, uma vez que expressões percentuais constituem construções impessoais e não admitem sujeito determinado",
                                                "d":  "com o termo mais próximo, critério que se aplica a todas as construções em que o sujeito é formado por mais de um elemento nominal na frase",
                                                "e":  "de forma facultativa em qualquer caso, cabendo a quem escreve optar pelo singular ou pelo plural conforme a ênfase pretendida no enunciado"
@@ -15097,7 +16107,7 @@ window.QUESTION_BANKS = {
                           "enunciado":  "As duas construções são corretas porque \"esquecer\" é ______ quando ______ e ______ quando ______. As lacunas são preenchidas por:",
                           "alternativas":  {
                                                "a":  "transitivo indireto – não vem pronominalizado – transitivo direto – vem acompanhado de pronome, caso em que a preposição passa a ser dispensável",
-                                               "b":  "transitivo direto – não vem pronominalizado – transitivo indireto – vem acompanhado de pronome, comportamento que também se observa em \"lembrar\"",
+                                               "b":  "transitivo direto – não vem pronominalizado – transitivo indireto – vem acompanhado de pronome e passa a exigir preposição, como também ocorre com \"lembrar\"",
                                                "c":  "intransitivo – o complemento está subentendido – transitivo direto – o complemento aparece expresso na forma de um sintagma nominal preposicionado",
                                                "d":  "bitransitivo – o objeto indireto vem posposto – intransitivo – o pronome reflexivo assume a função sintática de complemento verbal na estrutura",
                                                "e":  "de ligação – o predicativo se encontra elíptico – transitivo direto – o pronome exerce a função de sujeito da oração reduzida que o acompanha"
@@ -15159,7 +16169,7 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "apenas II é correta, já que a pessoa informada é sempre o objeto direto e a informação transmitida funciona como complemento preposicionado",
                                                "b":  "apenas I é correta, uma vez que a coisa informada deve necessariamente ocupar a posição de objeto direto em qualquer construção com esse verbo",
-                                               "c":  "ambas são corretas, pois o verbo admite as duas ordens de complementos, informando-se algo a alguém ou alguém de algo, sem prejuízo da norma",
+                                               "c":  "ambas são corretas, pois o verbo é bitransitivo e admite as duas distribuições, informando-se algo a alguém ou alguém de algo, como também ocorre com \"avisar\"",
                                                "d":  "ambas são incorretas, porque \"informar\" é transitivo direto e não admite complemento preposicionado em nenhuma das acepções registradas para ele",
                                                "e":  "apenas I é correta, e a construção II resulta de influência estrangeira não incorporada à norma culta do português escrito contemporâneo"
                                            },
@@ -15251,7 +16261,7 @@ window.QUESTION_BANKS = {
                                                "a":  "os termos \"limpo\" e \"pé\" funcionam como adjetivos e a crase só ocorre diante de substantivos que possam ser determinados por artigo definido",
                                                "b":  "os dois enunciados apresentam locuções adverbiais de modo, classe que nunca recebe o acento indicativo de crase em nenhuma circunstância de uso",
                                                "c":  "o verbo de cada uma das orações é intransitivo e por isso não exige preposição diante do termo que aparece em seguida na construção apresentada",
-                                               "d":  "as palavras que seguem o \"a\" são masculinas e não admitem artigo feminino, de modo que não existe artigo com que a preposição possa se fundir",
+                                               "d":  "as palavras que seguem o \"a\" são masculinas e não admitem artigo feminino, de modo que não existe artigo com que a preposição se funda e a crase não se justifica",
                                                "e":  "o acento foi suprimido pela reforma ortográfica em todas as locuções formadas por preposição seguida de palavra iniciada por consoante na língua"
                                            },
                           "resposta":  "d",
@@ -15384,7 +16394,7 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "\"O doutor Andrade, chefe do serviço de emergência, autorizou o procedimento.\"",
                           "enunciado":  "As vírgulas do período isolam:",
                           "alternativas":  {
-                                               "a":  "um aposto explicativo, termo que acrescenta informação sobre outro já determinado e por isso se separa por vírgulas nos dois extremos",
+                                               "a":  "um aposto explicativo, termo que acrescenta informação sobre outro já determinado e por isso se isola por vírgulas, o que não ocorreria se fosse especificativo",
                                                "b":  "um vocativo dirigido ao interlocutor, termo que se caracteriza por não exercer função sintática dentro da oração em que aparece empregado",
                                                "c":  "uma oração subordinada adverbial deslocada de sua posição habitual, o que exige a marcação por meio de sinal de pontuação nos dois extremos",
                                                "d":  "um adjunto adverbial de lugar intercalado entre o sujeito e o predicado da oração principal",
@@ -15418,7 +16428,7 @@ window.QUESTION_BANKS = {
                                                "a":  "marca a elipse de um verbo que ficou subentendido na segunda parte do período, recurso que exigiria o emprego de ponto e vírgula no lugar dela",
                                                "b":  "isola um aposto explicativo sem que o segundo sinal correspondente tenha sido empregado no lugar adequado dentro da estrutura do período",
                                                "c":  "antecede uma conjunção coordenativa aditiva, contexto em que a norma culta desaconselha o emprego desse sinal de pontuação na escrita formal",
-                                               "d":  "separa o sujeito do predicado, termos que a norma não admite ver divididos por esse sinal por mais longo que seja o sintagma que o expressa",
+                                               "d":  "separa o sujeito do predicado, termos que a norma não admite ver divididos por esse sinal, sendo a extensão do sintagma o que faz o erro parecer natural",
                                                "e":  "separa dois adjuntos adverbiais de mesma natureza, que deveriam ter sido ligados por conjunção em vez de por sinal de pontuação na frase"
                                            },
                           "resposta":  "d",
@@ -15446,7 +16456,7 @@ window.QUESTION_BANKS = {
                           "enunciado":  "O emprego do ponto e vírgula se justifica porque:",
                           "alternativas":  {
                                                "a":  "a enumeração apresenta mais de dois elementos, número a partir do qual a norma culta passa a exigir esse sinal em substituição à vírgula simples",
-                                               "b":  "os itens enumerados já contêm vírgulas internas, e o sinal mais forte estabelece a hierarquia entre os dois níveis da enumeração apresentada",
+                                               "b":  "os itens enumerados já contêm vírgulas internas, separando o nome do setor, e o sinal mais forte estabelece a hierarquia entre os dois níveis da enumeração",
                                                "c":  "os termos listados pertencem a setores diferentes da mesma instituição, distinção que a pontuação precisa marcar de forma explícita no texto",
                                                "d":  "o período foi introduzido por dois-pontos, sinal que impõe o uso de ponto e vírgula em toda a sequência que vier depois dele na construção",
                                                "e":  "cada um dos elementos enumerados constitui uma oração completa, com sujeito e predicado próprios, exigindo separação mais forte que a vírgula"
@@ -15492,7 +16502,7 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "a segunda oração é subordinada à primeira e por isso precisa ser isolada do restante do período por meio desse sinal de pontuação",
                                                "b":  "a conjunção estabelece relação de oposição entre as duas orações, valor que exige a marcação por vírgula em qualquer construção coordenada",
-                                               "c":  "as orações coordenadas têm sujeitos diferentes, e a vírgula evita que o segundo deles seja lido como parte do predicado da primeira delas",
+                                               "c":  "as orações coordenadas têm sujeitos diferentes e, embora a regra geral dispense a vírgula antes de \"e\", ela evita que o segundo seja lido como parte do predicado",
                                                "d":  "o período apresenta mais de uma forma verbal, número a partir do qual a norma culta torna obrigatório o emprego da vírgula antes das conjunções",
                                                "e":  "há elipse do sujeito na segunda oração, e a vírgula sinaliza ao leitor a supressão do termo que deveria ocupar aquela posição sintática"
                                            },
@@ -15569,7 +16579,7 @@ window.QUESTION_BANKS = {
                                                "b":  "causa e finalidade, valores que se distinguem pela posição ocupada por cada uma das orações subordinadas dentro do período composto apresentado",
                                                "c":  "condição e concessão, relações que dependem do modo verbal empregado em cada uma das duas orações subordinadas propostas na comparação",
                                                "d":  "tempo e consequência, circunstâncias que se diferenciam pelo aspecto verbal expresso pelas formas empregadas em cada um dos dois enunciados",
-                                               "e":  "finalidade e causa, circunstâncias que se distinguem entre si por a primeira apontar o objetivo do fato e a segunda, o motivo que o provocou"
+                                               "e":  "finalidade e causa, circunstâncias que se distinguem por a primeira apontar o objetivo do fato, com verbo no subjuntivo, e a segunda, o motivo que o provocou"
                                            },
                           "resposta":  "e",
                           "explicacao":  "\"Para que\" aponta o objetivo do ajuste; \"porque\" aponta o motivo que o provocou. A finalidade olha para a frente, a causa para trás — e o subjuntivo em I é indício da primeira.",
@@ -15630,7 +16640,7 @@ window.QUESTION_BANKS = {
                                                "a":  "utilização de conectivos temporais que marcam a sucessão cronológica entre os fatos relatados em cada um dos três períodos do trecho apresentado",
                                                "b":  "repetição integral do mesmo substantivo em todos os períodos, estratégia adotada para assegurar que o leitor não perca o referente ao longo do texto",
                                                "c":  "emprego de pronomes demonstrativos que retomam o termo mencionado no período imediatamente anterior a cada uma das ocorrências indicadas",
-                                               "d":  "substituição lexical por termos de sentido mais amplo, que incluem ali o referente anterior e dispensam o emprego de pronome ou de conectivo",
+                                               "d":  "substituição lexical por hiperônimos, termos de sentido mais amplo que incluem ali o referente anterior e evitam a repetição sem exigir o emprego de pronome ou de conectivo",
                                                "e":  "elipse do sujeito no segundo e no terceiro períodos, recuperável a partir do termo empregado no primeiro deles pelo autor do texto produzido"
                                            },
                           "resposta":  "d",
@@ -15720,7 +16730,7 @@ window.QUESTION_BANKS = {
                           "enunciado":  "A palavra \"que\" é, respectivamente:",
                           "alternativas":  {
                                                "a":  "pronome relativo e conjunção integrante, distinção que decorre da posição ocupada por cada uma das orações subordinadas dentro do período composto",
-                                               "b":  "conjunção integrante e pronome relativo, classes que se distinguem por apenas a segunda retomar um termo e exercer função sintática na oração",
+                                               "b":  "conjunção integrante e pronome relativo, classes que se distinguem por a primeira poder ser trocada por \"isso\" e só a segunda retomar um termo e exercer função",
                                                "c":  "conjunção integrante nos dois casos, já que ambas as orações completam o sentido do verbo da oração principal em que se encontram inseridas",
                                                "d":  "pronome relativo nos dois casos, uma vez que a palavra sempre retoma um termo mencionado antes dela na estrutura do período apresentado",
                                                "e":  "advérbio interrogativo e conjunção subordinativa causal, classes que se diferenciam pelo tipo de circunstância expressa por cada uma delas"
@@ -15811,7 +16821,7 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "composição por justaposição, aglutinação e hibridismo, classificação que leva em conta a origem de cada um dos elementos combinados na palavra",
                                                "b":  "derivação sufixal, prefixal e regressiva, processos que se diferenciam pela posição ocupada pelo afixo em relação ao radical de cada palavra",
-                                               "c":  "derivação prefixal, sufixal e parassintética, sendo a última caracterizada pelo acréscimo simultâneo dos dois afixos ao radical da palavra",
+                                               "c":  "derivação prefixal, sufixal e parassintética, sendo a última caracterizada pelo acréscimo simultâneo dos dois afixos, já que não existe a forma com só um deles",
                                                "d":  "derivação imprópria, regressiva e parassintética, sendo a primeira caracterizada pela mudança de classe sem alteração da forma da palavra",
                                                "e":  "derivação prefixal, parassintética e sufixal, ordem que decorre do número de afixos presentes em cada uma das três palavras apresentadas"
                                            },
@@ -15856,7 +16866,7 @@ window.QUESTION_BANKS = {
                           "enunciado":  "O sujeito da oração é:",
                           "alternativas":  {
                                                "a":  "oculto, recuperável pela desinência verbal empregada na terceira pessoa do plural do pretérito perfeito do modo indicativo apresentado",
-                                               "b":  "indeterminado, uma vez que o verbo está na terceira pessoa do plural sem sujeito expresso nem recuperável a partir do contexto do período",
+                                               "b":  "indeterminado, uma vez que o verbo está na terceira pessoa do plural sem sujeito expresso nem recuperável no contexto: não se sabe nem se diz quem bateu à porta",
                                                "c":  "inexistente, uma vez que se trata de oração sem sujeito construída com verbo impessoal que indica fenômeno ocorrido durante a madrugada",
                                                "d":  "simples, tendo como núcleo o termo \"porta\", que aparece precedido de preposição na estrutura sintática apresentada pelo enunciado da questão",
                                                "e":  "composto, formado pelos dois termos que aparecem depois do verbo e que exercem conjuntamente essa função dentro da oração analisada"
@@ -15918,7 +16928,7 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "complemento nominal e adjunto adverbial, funções que se diferenciam pela natureza do termo a que cada um deles se subordina no período",
                                                "b":  "objeto indireto e objeto direto, distinção que se estabelece pela ordem em que os dois complementos aparecem depois do verbo na oração",
-                                               "c":  "objeto direto e objeto indireto, complementos de um verbo bitransitivo, dos quais apenas o segundo vem introduzido por preposição na oração",
+                                               "c":  "objeto direto e objeto indireto, complementos de um verbo bitransitivo — entrega-se algo a alguém —, dos quais apenas o segundo vem introduzido por preposição",
                                                "d":  "adjunto adnominal e complemento nominal, classificação determinada pela presença da preposição diante do segundo dos dois termos indicados",
                                                "e":  "predicativo do objeto e agente da passiva, funções que a estrutura da oração permite identificar a partir da transitividade do verbo empregado"
                                            },
@@ -15931,7 +16941,7 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "\"Atenderam ao ferido antes de todos os outros.\"",
                           "enunciado":  "Considerando que \"atender\" pode ser transitivo direto, o emprego da preposição diante de \"o ferido\" configura:",
                           "alternativas":  {
-                                               "a":  "objeto direto preposicionado, termo em que a preposição aparece sem ser exigida pela regência do verbo, por razões de clareza ou de ênfase",
+                                               "a":  "objeto direto preposicionado, termo que continua sendo objeto direto, embora a preposição apareça sem ser exigida pela regência, por clareza ou por ênfase",
                                                "b":  "objeto indireto obrigatório, uma vez que o verbo empregado admite exclusivamente essa regência quando o complemento designa pessoa determinada",
                                                "c":  "complemento nominal, termo que completa o sentido de um nome e que exige preposição por natureza em todas as construções em que aparece",
                                                "d":  "adjunto adverbial de finalidade, que indica o objetivo a que se destina a ação verbal expressa pelo núcleo do predicado da oração analisada",
@@ -15980,7 +16990,7 @@ window.QUESTION_BANKS = {
                                                "a":  "causa, finalidade e intensidade, circunstâncias que se distinguem pelo tipo de relação estabelecida entre cada termo e o verbo da oração",
                                                "b":  "tempo, lugar e modo, ordem que corresponde à posição ocupada por cada um dos três termos em relação ao núcleo do predicado da oração",
                                                "c":  "modo, tempo e lugar, classificação determinada pela presença de preposição diante de cada um dos adjuntos identificados no período composto",
-                                               "d":  "lugar, modo e tempo, circunstâncias identificadas pela pergunta que cada um dos termos responde em relação ao verbo da oração analisada",
+                                               "d":  "lugar, modo e tempo, circunstâncias identificadas pela pergunta que cada termo responde — onde, como e quanto tempo —, e não pela posição que ocupa na frase",
                                                "e":  "companhia, instrumento e dúvida, valores que dependem do contexto em que o enunciado é produzido e da intenção de quem o formula na frase"
                                            },
                           "resposta":  "d",
@@ -16011,7 +17021,7 @@ window.QUESTION_BANKS = {
                                                "a":  "predicativa, exercendo a função de predicativo do sujeito da oração principal, que se encontra elíptico na estrutura do período apresentado",
                                                "b":  "objetiva direta, uma vez que completa o sentido de um verbo transitivo direto empregado como núcleo do predicado da oração principal",
                                                "c":  "completiva nominal, já que completa o sentido do adjetivo empregado na oração principal e vem introduzida por preposição obrigatória",
-                                               "d":  "subjetiva, pois funciona como sujeito da oração principal, podendo ser substituída pelo pronome neutro \"isso\" sem prejuízo da estrutura",
+                                               "d":  "subjetiva, pois funciona como sujeito da oração principal: o que é necessário é o fato de todos confirmarem, e a oração admite ser trocada por \"isso\"",
                                                "e":  "apositiva, retomando e explicitando um termo já mencionado na oração principal por meio de uma estrutura oracional desenvolvida no período"
                                            },
                           "resposta":  "d",
@@ -16042,7 +17052,7 @@ window.QUESTION_BANKS = {
                                                "b":  "adversativa, conclusiva e alternativa, classificação determinada pelo tipo de relação semântica estabelecida entre as duas orações de cada período",
                                                "c":  "explicativa, aditiva e conclusiva, ordem que decorre da posição ocupada pelo conectivo em relação às orações que ele articula em cada caso",
                                                "d":  "causal, concessiva e consecutiva, relações que caracterizam períodos compostos por subordinação e não por coordenação entre as orações",
-                                               "e":  "conclusiva, adversativa e aditiva, relações estabelecidas entre orações independentes por conectivos de coordenação em cada um dos períodos"
+                                               "e":  "conclusiva, adversativa e aditiva: a primeira fecha um raciocínio, a segunda contraria a expectativa e a terceira apenas soma, sempre entre orações independentes"
                                            },
                           "resposta":  "e",
                           "explicacao":  "\"Portanto\" fecha um raciocínio, \"mas\" contraria a expectativa e \"e\" apenas soma. Os três articulam orações independentes entre si, o que caracteriza a coordenação.",
@@ -16073,7 +17083,7 @@ window.QUESTION_BANKS = {
                                                "b":  "passiva sintética e passiva analítica, formas que se distinguem pela presença ou pela ausência do verbo auxiliar em cada uma das construções",
                                                "c":  "ativa e passiva, distinção determinada pela posição ocupada pelo agente da ação em relação ao verbo em cada um dos dois enunciados propostos",
                                                "d":  "reflexiva recíproca e reflexiva, ordem que decorre do número de participantes envolvidos na ação descrita por cada uma das duas orações",
-                                               "e":  "reflexiva e reflexiva recíproca, distinguindo-se a segunda delas por admitir o acréscimo da expressão \"um ao outro\" sem alterar o sentido"
+                                               "e":  "reflexiva e reflexiva recíproca, praticando e sofrendo o sujeito a mesma ação na primeira, e admitindo a segunda o acréscimo de \"um ao outro\" sem mudar o sentido"
                                            },
                           "resposta":  "e",
                           "explicacao":  "Em I o sujeito pratica e sofre a mesma ação. Em II há dois sujeitos agindo um sobre o outro — o teste é acrescentar \"um ao outro\", que cabe apenas no segundo caso.",
@@ -16100,7 +17110,7 @@ window.QUESTION_BANKS = {
                           "enunciado":  "O período é composto por:",
                           "alternativas":  {
                                                "a":  "coordenação, com duas orações independentes ligadas por conectivo que estabelece relação de adição entre os fatos enunciados em cada uma",
-                                               "b":  "subordinação, com uma oração adjetiva restritiva, que delimita o termo antecedente e por isso não vem separada por vírgula no período",
+                                               "b":  "subordinação, com uma oração adjetiva restritiva, que depende do antecedente e delimita quais resultados chegaram, razão pela qual não vem separada por vírgula",
                                                "c":  "subordinação, com uma oração substantiva objetiva direta que completa o sentido do verbo empregado na oração principal do período",
                                                "d":  "coordenação e subordinação simultaneamente, apresentando três orações distribuídas em dois níveis hierárquicos dentro da mesma estrutura",
                                                "e":  "justaposição, sem que haja relação sintática de dependência entre as duas orações que integram a estrutura do período apresentado"
@@ -16117,7 +17127,7 @@ window.QUESTION_BANKS = {
                                                "a":  "coordenação nos dois casos, já que as orações de ambos os períodos poderiam existir isoladamente sem prejuízo de sentido para o leitor",
                                                "b":  "coordenação e subordinação, distinção que decorre da posição ocupada pelo conectivo dentro de cada um dos dois períodos apresentados",
                                                "c":  "subordinação nos dois casos, uma vez que ambos apresentam uma oração sintaticamente dependente da outra dentro da mesma estrutura",
-                                               "d":  "subordinação e coordenação, arranjos em que a relação de causa é a mesma e a hierarquia sintática entre as orações é que se altera",
+                                               "d":  "subordinação e coordenação, arranjos em que a relação de causa é a mesma e muda a hierarquia: no primeiro a causal depende da principal; no segundo, não",
                                                "e":  "justaposição e subordinação, sendo a primeira caracterizada pela ausência de qualquer conectivo entre as orações que compõem o período"
                                            },
                           "resposta":  "d",
@@ -16265,7 +17275,7 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Considere: \"cafés\", \"avô\", \"cipó\", \"você\".",
                           "enunciado":  "O acento nessas palavras se justifica porque são:",
                           "alternativas":  {
-                                               "a":  "oxítonas terminadas em a, e ou o, seguidas ou não de s, grupo cuja tônica na última sílaba precisa ser assinalada graficamente na escrita",
+                                               "a":  "oxítonas terminadas em a, e ou o, seguidas ou não de s, grupo simétrico ao das paroxítonas, que se acentuam justamente quando terminam em qualquer outra coisa",
                                                "b":  "paroxítonas terminadas em ditongo, grupo que recebe acento gráfico independentemente da vogal em que a palavra venha a terminar na escrita",
                                                "c":  "monossílabos átonos, categoria em que a marcação gráfica distingue a palavra de outra homógrafa de sentido diferente na língua portuguesa",
                                                "d":  "proparoxítonas aparentes, formadas por ditongo crescente na sílaba final e acentuadas pela mesma regra aplicada às proparoxítonas verdadeiras",
@@ -16464,7 +17474,7 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "ação futura em relação ao momento da fala e ação passada em relação a outro fato também situado no passado dentro da mesma narrativa",
                                                "b":  "ação em curso ao longo de um período e ação concluída em momento definido, distinção marcada pela presença do adjunto adverbial em cada caso",
-                                               "c":  "ação concluída em momento definido e ação em curso ao longo de um período, contraste que se estabelece pelo aspecto expresso por cada forma",
+                                               "c":  "ação concluída em momento definido e ação em curso ao longo de um período, contraste de aspecto: o perfeito fecha o fato num ponto e o imperfeito o deixa aberto",
                                                "d":  "ação hipotética dependente de condição e ação efetivamente realizada, valores que se distinguem pelo modo verbal empregado em cada oração",
                                                "e":  "ação habitual repetida indefinidamente e ação pontual sem duração determinada, contraste que decorre do aspecto verbal de cada uma das formas"
                                            },
@@ -16542,7 +17552,7 @@ window.QUESTION_BANKS = {
                                                "b":  "\"ter\" e \"haver\"; a regular, com \"ser\" e \"estar\", distribuição que a norma culta estabelece para todos os verbos de particípio duplo da língua",
                                                "c":  "verbos transitivos diretos; a regular, com verbos transitivos indiretos, critério determinado pela regência exigida em cada uma das construções",
                                                "d":  "orações da voz ativa; a regular, com orações da voz passiva, distinção que se aplica indistintamente a todos os tempos compostos do português",
-                                               "e":  "\"ser\" e \"estar\"; a regular, com \"ter\" e \"haver\", distribuição que separa os auxiliares da voz passiva daqueles empregados nos tempos compostos"
+                                               "e":  "\"ser\" e \"estar\"; a regular, com \"ter\" e \"haver\", distribuição que vale também para \"pago\" e \"impresso\" e separa os auxiliares da passiva dos tempos compostos"
                                            },
                           "resposta":  "e",
                           "explicacao":  "A regra vale para \"aceito/aceitado\", \"pago/pagado\", \"impresso/imprimido\": a forma curta acompanha os auxiliares da passiva, a longa acompanha os dos tempos compostos.",
@@ -16631,7 +17641,7 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "pleonasmo, com repetição de uma ideia já contida em outro termo da mesma oração apresentada para análise no enunciado da questão",
                                                "b":  "elipse, com supressão de um termo facilmente recuperável a partir do contexto em que a construção aparece empregada no texto produzido",
-                                               "c":  "hipérbato, com inversão da ordem direta, recurso de estilo corrente na escrita formal e que não configura desvio algum da norma culta",
+                                               "c":  "hipérbato, com inversão da ordem direta pelo deslocamento do complemento para o início, recurso de estilo corrente na escrita formal e que não configura desvio",
                                                "d":  "silepse, com concordância feita segundo a ideia expressa e não segundo a forma gramatical dos termos empregados na construção analisada",
                                                "e":  "anacoluto, com abandono da estrutura sintática iniciada no começo do período e retomada de outra estrutura na sequência do enunciado"
                                            },
@@ -16690,7 +17700,7 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Considere: \"desidratado\", \"assintomático\", \"irreversível\".",
                           "enunciado":  "Os três termos têm em comum o fato de:",
                           "alternativas":  {
-                                               "a":  "formarem o sentido negativo por meio de prefixo, elementos de origens distintas que negam aquilo que vem depois deles na formação da palavra",
+                                               "a":  "formarem o sentido negativo por meio de prefixo — \"des-\", \"a-\" e \"ir-\" —, elementos de origens distintas que negam aquilo que vem depois deles na formação da palavra",
                                                "b":  "pertencerem à mesma classe gramatical e apresentarem idêntico processo de formação a partir de radicais de origem grega incorporados ao português",
                                                "c":  "constituírem antônimos entre si, de modo que o emprego de qualquer um deles exclui necessariamente a possibilidade de emprego dos outros dois",
                                                "d":  "resultarem de derivação regressiva a partir de verbos correspondentes, processo em que a palavra derivada perde parte do radical original",
@@ -16721,7 +17731,7 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Transposta ao discurso indireto, a fala se torna \"A residente disse que ______ o caso ______\"; a mudança atinge ______. As lacunas são preenchidas por:",
                           "alternativas":  {
                                                "a":  "vai reavaliar – amanhã – apenas a pontuação, que deixa de exigir travessão na abertura da fala transposta para a nova construção sintática",
-                                               "b":  "reavaliaria – no dia seguinte – o tempo verbal e os marcadores de tempo, reorganizados a partir do momento em que se faz o relato da fala",
+                                               "b":  "reavaliaria – no dia seguinte – o tempo verbal, puxado pelo verbo introdutor no passado, e os marcadores de tempo, reorganizados a partir do momento do relato",
                                                "c":  "reavaliou – ontem – a pessoa do verbo, que passa da primeira para a terceira sem que os demais elementos do enunciado sofram alteração",
                                                "d":  "reavalie – naquele momento – o modo verbal, que passa do indicativo ao subjuntivo por exigência da conjunção introdutora da oração subordinada",
                                                "e":  "teria reavaliado – anteontem – o aspecto verbal, que passa a indicar ação concluída antes do momento em que a fala foi originalmente produzida"
@@ -16801,7 +17811,7 @@ window.QUESTION_BANKS = {
                                                "b":  "não concorda em gênero com nenhum dos dois substantivos mencionados antes dele na estrutura sintática do período apresentado no enunciado",
                                                "c":  "aparece separado do termo a que se refere por um complemento preposicionado, o que impede sua recuperação a partir da leitura do período",
                                                "d":  "designa lugar e não posse, valor que exigiria o emprego de um advérbio no lugar do pronome empregado na construção apresentada",
-                                               "e":  "pode remeter ao médico ou ao paciente, já que o possessivo de terceira pessoa não distingue os dois referentes disponíveis no período"
+                                               "e":  "pode remeter ao médico ou ao paciente, já que o possessivo de terceira pessoa não distingue os dois referentes, que só \"dele\" ou \"dele próprio\" fixariam"
                                            },
                           "resposta":  "e",
                           "explicacao":  "O possessivo de terceira pessoa não distingue os dois referentes disponíveis. A saída é trocar por \"dele\" ou \"dele próprio\", que fixam a referência sem exigir reescrever a frase.",
@@ -16964,7 +17974,7 @@ window.QUESTION_BANKS = {
                           "enunciado":  "As duas construções são corretas, mas exprimem, respectivamente:",
                           "alternativas":  {
                                                "a":  "oposição e concordância, distinção que decorre da posição ocupada pela preposição em relação ao substantivo dentro de cada uma das locuções",
-                                               "b":  "concordância e oposição, valores que se invertem quando se troca a preposição empregada em cada uma das locuções comparadas no enunciado",
+                                               "b":  "concordância e oposição, já que a primeira locução equivale a favorecer e a segunda, a colidir, valores que se invertem ao se trocar a preposição empregada",
                                                "c":  "anterioridade e posterioridade, valores temporais que as duas locuções assumem conforme o tempo verbal empregado na oração principal",
                                                "d":  "certeza e dúvida, graus de comprometimento que quem escreve assume em relação ao conteúdo transmitido em cada um dos dois enunciados",
                                                "e":  "causa e consequência, relação que se estabelece entre a proposta apresentada e a demanda formulada anteriormente pela equipe do setor"
@@ -17043,7 +18053,7 @@ window.QUESTION_BANKS = {
                                                "b":  "correção gramatical, uma vez que as construções empregadas violam regras de concordância e de regência estabelecidas pela norma culta escrita",
                                                "c":  "coesão referencial, provocada pela impossibilidade de recuperar a que termo remete cada um dos pronomes utilizados ao longo do comunicado",
                                                "d":  "ambiguidade estrutural, decorrente da possibilidade de ligar o adjunto adverbial a mais de um termo dentro da estrutura sintática do período",
-                                               "e":  "adequação de registro ao contexto, já que as expressões empregadas pertencem à conversa informal e destoam do gênero a que o texto pertence"
+                                               "e":  "adequação de registro ao contexto, já que as frases estão bem formadas, mas as expressões empregadas pertencem à conversa informal e destoam do gênero do comunicado"
                                            },
                           "resposta":  "e",
                           "explicacao":  "Não há erro de gramática: as frases estão bem formadas. O que falha é a escolha do registro — \"galera\" e \"se liguem\" pertencem à conversa informal e destoam de um comunicado institucional.",
@@ -17058,7 +18068,7 @@ window.QUESTION_BANKS = {
                          "alternativas":  {
                                               "a":  "Revolução Comercial – a ampliação das rotas de longa distância – as primeiras companhias mercantis",
                                               "b":  "Revolução Industrial – a concentração da população em cidades fabris – a substituição do trabalho humano por máquinas a vapor",
-                                              "c":  "Revolução Neolítica – a fixação em aldeias – o surgimento do excedente, da propriedade e da desigualdade",
+                                              "c":  "Revolução Neolítica – a fixação em aldeias – o surgimento do excedente e, com ele, da propriedade, da hierarquia e da desigualdade social",
                                               "d":  "Revolução Científica – a substituição da explicação religiosa pela experimental – a formulação das leis da física moderna",
                                               "e":  "Revolução Urbana – o abandono das áreas rurais – a especialização das atividades nas cidades"
                                           },
@@ -17133,7 +18143,7 @@ window.QUESTION_BANKS = {
                          "enunciado":  "Estavam excluídos da cidadania ______, ______ e ______, o que revela que a democracia ateniense era ______. As lacunas são preenchidas por:",
                          "alternativas":  {
                                               "a":  "os proprietários de terras – os comerciantes – os militares – aberta aos sem vínculo com a produção",
-                                              "b":  "as mulheres – os escravizados – os estrangeiros e seus descendentes – restrita a uma parcela da população",
+                                              "b":  "as mulheres – os escravizados – os estrangeiros e seus descendentes – restrita ao homem adulto nascido de pais atenienses, uma minoria dos habitantes",
                                               "c":  "os sacerdotes – os magistrados – os conselheiros – organizada para impedir a concentração de funções",
                                               "d":  "os idosos – os doentes – os que não sabiam ler – condicionada à comprovação de aptidão física e intelectual por parte de cada participante",
                                               "e":  "os agricultores – os artesãos – os marinheiros – reservada aos que não dependiam do trabalho manual para a própria subsistência diária"
@@ -17227,7 +18237,7 @@ window.QUESTION_BANKS = {
                          "alternativas":  {
                                               "a":  "dependia integralmente do financiamento concedido pelos reis, o que a submetia às decisões do poder secular em todas as questões",
                                               "b":  "manteve-se afastada das disputas políticas, dedicando-se ao espiritual e ao assistencial",
-                                              "c":  "exercia poder econômico, político e ideológico ao mesmo tempo, da terra ao monopólio da escrita",
+                                              "c":  "exercia poder econômico, político e ideológico ao mesmo tempo, da renda da terra e do dízimo regular ao monopólio da escrita e do que se podia pensar",
                                               "d":  "restringia sua atuação às áreas urbanas, deixando o campo aos senhores feudais",
                                               "e":  "perdeu progressivamente influência ao longo de todo o período, processo que se completou antes do início da Idade Moderna europeia"
                                           },
@@ -17270,7 +18280,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "A peste que atingiu a Europa a partir de 1347 matou entre um terço e metade da população em poucos anos.",
                          "enunciado":  "Uma consequência econômica de longo prazo desse episódio foi:",
                          "alternativas":  {
-                                              "a":  "a escassez de mão de obra, que elevou salários e fortaleceu a posição dos trabalhadores sobreviventes",
+                                              "a":  "a escassez de mão de obra, que elevou salários, permitiu negociar as obrigações servis e fortaleceu a posição dos trabalhadores sobreviventes diante dos senhores",
                                               "b":  "o aumento da oferta de trabalhadores no campo, o que reduziu os salários pagos e agravou as condições de vida da população rural europeia",
                                               "c":  "a interrupção definitiva do comércio de longa distância, retomado só no período moderno",
                                               "d":  "a concentração da população nas cidades, em busca de proteção contra a doença",
@@ -17304,7 +18314,7 @@ window.QUESTION_BANKS = {
                                               "b":  "escolástica – ruptura com a filosofia antiga – o financiamento concedido pelas universidades medievais aos pensadores daquele período histórico",
                                               "c":  "iluminismo – recusa da autoridade monárquica – o apoio das monarquias absolutistas aos pensadores",
                                               "d":  "positivismo – rejeição do método experimental – os recursos obtidos com a expansão colonial realizada pelos reinos ibéricos no período moderno",
-                                              "e":  "humanismo – abandono da religião – o mecenato de comerciantes, banqueiros e príncipes das cidades italianas"
+                                              "e":  "humanismo – o abandono da religião – o mecenato de comerciantes, banqueiros e príncipes das cidades italianas enriquecidas pelo comércio, os Médici entre eles"
                                           },
                          "resposta":  "e",
                          "explicacao":  "Quase todos os humanistas eram cristãos; o que muda é o centro da atenção, não a fé. E nada disso acontece sem o dinheiro das cidades italianas enriquecidas pelo comércio — Médici incluído.",
@@ -17377,7 +18387,7 @@ window.QUESTION_BANKS = {
                          "enunciado":  "Esse conjunto é chamado ______ e inclui ______, ______ e, no caso das colônias, ______. As lacunas são preenchidas por:",
                          "alternativas":  {
                                               "a":  "liberalismo – livre iniciativa sem interferência do Estado – abertura comercial irrestrita – autonomia das colônias",
-                                              "b":  "mercantilismo – acúmulo de metais preciosos – balança comercial favorável e protecionismo – o exclusivo comercial com a metrópole",
+                                              "b":  "mercantilismo – acúmulo de metais preciosos – balança comercial favorável e protecionismo – o exclusivo comercial com a metrópole, para que o lucro ficasse com ela",
                                               "c":  "fisiocracia – a agricultura como única fonte de riqueza – recusa da manufatura – livre comércio entre as nações",
                                               "d":  "keynesianismo – intervenção estatal para sustentar a demanda agregada – ampliação do gasto público em períodos de crise – proteção social universal",
                                               "e":  "corporativismo – organização da produção por ofícios regulados – fixação de preços e de qualidade pelas corporações – autonomia das cidades comerciais"
@@ -17394,7 +18404,7 @@ window.QUESTION_BANKS = {
                          "alternativas":  {
                                               "a":  "a proibição legal da mineração nas colônias portuguesas desde o início da ocupação",
                                               "b":  "a superioridade militar dos portugueses, que lhes permitiu impor a agricultura de exportação",
-                                              "c":  "a existência de grandes jazidas de prata e de sociedades indígenas densas e centralizadas na área espanhola",
+                                              "c":  "a existência, na área espanhola, de grandes jazidas de prata e de sociedades indígenas densas e centralizadas, cuja estrutura de trabalho a mita reaproveitou",
                                               "d":  "a ausência de populações indígenas no território que viria a ser ocupado por Portugal, condição que inviabilizou o uso dessa mão de obra",
                                               "e":  "a decisão conjunta dos dois reinos de especializar cada colônia em uma atividade distinta, acordo firmado antes do início da colonização"
                                           },
@@ -17561,7 +18571,7 @@ window.QUESTION_BANKS = {
                                               "b":  "a suspensão de todas as atividades econômicas na colônia pela Coroa espanhola",
                                               "c":  "a transferência da capital administrativa da colônia para território espanhol",
                                               "d":  "a proibição da produção açucareira no território americano, restrição imposta para proteger os produtores estabelecidos nas ilhas atlânticas",
-                                              "e":  "a colônia passou a ser alvo dos inimigos da Espanha, entre eles os holandeses, que invadiram Pernambuco"
+                                              "e":  "a colônia passou a ser alvo dos inimigos da Espanha, entre eles os holandeses, que invadiram a Bahia e Pernambuco, enquanto os lusos avançavam além de Tordesilhas"
                                           },
                          "resposta":  "e",
                          "explicacao":  "A Holanda estava em guerra com a Espanha e passou a poder atacar o que era português. Daí as invasões da Bahia e de Pernambuco — e também o avanço luso para além de Tordesilhas, já que a linha perdera sentido prático.",
@@ -17663,7 +18673,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "A Inglaterra passou, no século XVII, por um conflito que resultou na execução do rei e, décadas depois, por um episódio que consolidou os poderes do Parlamento.",
                          "enunciado":  "O primeiro é a ______ e o segundo, a ______; o resultado do conjunto foi ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "Revolução Puritana – Revolução Gloriosa – a monarquia parlamentar, com poderes reais limitados por lei",
+                                              "a":  "Revolução Puritana – Revolução Gloriosa – a monarquia parlamentar, em que o rei permanece, mas passa a reinar sob a lei, pela Declaração de Direitos de 1689",
                                               "b":  "Revolução Gloriosa – Revolução Puritana – a consolidação do absolutismo monárquico inglês",
                                               "c":  "Revolução Industrial – Revolução Francesa – a instauração de uma república permanente",
                                               "d":  "Guerra das Rosas – Reforma Anglicana – a submissão do Parlamento à autoridade real, restabelecida ao final do século dezessete na Inglaterra",
@@ -17756,7 +18766,7 @@ window.QUESTION_BANKS = {
                          "enunciado":  "Esse aspecto explica por que Napoleão é descrito como figura ambígua: ele:",
                          "alternativas":  {
                                               "a":  "restaurou integralmente o Antigo Regime em todos os territórios ocupados por suas tropas ao longo das campanhas militares que conduziu",
-                                              "b":  "difundiu o código e o fim dos privilégios de nascimento ao mesmo tempo em que instaurou um regime autoritário",
+                                              "b":  "difundiu o código civil e o fim dos privilégios de nascimento ao mesmo tempo em que se coroava imperador e ocupava militarmente os países vizinhos",
                                               "c":  "recusou qualquer alteração nas instituições dos países ocupados, mantendo as leis vigentes",
                                               "d":  "renunciou ao poder logo após cada conquista, entregando a administração a eleitos locais",
                                               "e":  "limitou sua atuação ao território francês, sem qualquer influência sobre a organização política dos demais países do continente europeu"
@@ -17805,7 +18815,7 @@ window.QUESTION_BANKS = {
                                               "b":  "a extensão territorial reduzida da colônia portuguesa, que facilitou a unidade",
                                               "c":  "a ausência de elites regionais na América portuguesa, sem disputa pelo controle",
                                               "d":  "a intervenção militar britânica, que impôs a unidade territorial da antiga colônia portuguesa como condição para o reconhecimento externo",
-                                              "e":  "a permanência da monarquia e de um centro de poder único no Rio, com corte e administração já instaladas"
+                                              "e":  "a permanência da monarquia e de um centro de poder único no Rio, com corte, administração e um herdeiro já instalados quando veio a ruptura com Portugal"
                                           },
                          "resposta":  "e",
                          "explicacao":  "O Brasil já tinha corte, administração e um herdeiro no Rio quando rompeu. A América espanhola se emancipou por vice-reinados e caudilhos, sem centro equivalente — e a fragmentação seguiu essa geografia do poder.",
@@ -17851,7 +18861,7 @@ window.QUESTION_BANKS = {
                                               "b":  "a adoção do sufrágio universal masculino e feminino entre os habitantes livres",
                                               "c":  "o estabelecimento do regime federativo, com autonomia plena das províncias",
                                               "d":  "a abolição imediata da escravidão em todo o território nacional, medida incluída no texto constitucional promulgado naquele momento",
-                                              "e":  "a criação do Poder Moderador, com que o imperador dissolvia a Câmara e nomeava senadores vitalícios"
+                                              "e":  "a criação do Poder Moderador, um quarto poder com que o imperador dissolvia a Câmara, nomeava senadores vitalícios e suspendia magistrados do cargo"
                                           },
                          "resposta":  "e",
                          "explicacao":  "Era o quarto poder, acima dos três de Montesquieu: dissolvia a Câmara, nomeava senadores vitalícios e suspendia magistrados. Somado ao voto censitário, concentrava a decisão numa elite pequena e no imperador.",
@@ -17880,7 +18890,7 @@ window.QUESTION_BANKS = {
                                               "a":  "o oeste paulista concentrou a produção em pequenas propriedades familiares, e o vale do Paraíba na grande propriedade",
                                               "b":  "o vale do Paraíba baseou sua produção em trabalhadores imigrantes europeus",
                                               "c":  "as duas áreas mantiveram estruturas produtivas idênticas, com a mesma mão de obra",
-                                              "d":  "o oeste paulista adotou o trabalho imigrante em terra roxa e reinvestiu em ferrovias e bancos",
+                                              "d":  "o oeste paulista adotou o trabalho imigrante em terra roxa e reinvestiu em ferrovias, bancos e comércio, enquanto o vale seguiu escravista",
                                               "e":  "o vale do Paraíba investiu em ferrovias e o oeste paulista manteve o transporte por tração animal"
                                           },
                          "resposta":  "d",
@@ -17942,7 +18952,7 @@ window.QUESTION_BANKS = {
                                               "b":  "decisiva para o desfecho, com mobilização de massas nas ruas do Rio de Janeiro",
                                               "c":  "organizada por partidos de base operária, que conduziram o processo e o desfecho",
                                               "d":  "expressa em plebiscito convocado para decidir entre a monarquia e a república, consulta realizada no mesmo ano da mudança de regime",
-                                              "e":  "praticamente nula, o que deu origem à imagem, atribuída a Aristides Lobo, do povo que assistiu \"bestializado\""
+                                              "e":  "praticamente nula, numa mudança decidida entre militares e cafeicultores, o que deu origem à imagem, atribuída a Aristides Lobo, do povo que assistiu \"bestializado\""
                                           },
                          "resposta":  "e",
                          "explicacao":  "A frase é atribuída a Aristides Lobo e virou síntese do episódio: uma mudança de regime decidida entre militares e cafeicultores, sem consulta e quase sem público. A República nasce com o problema de legitimidade que a acompanharia.",
@@ -17972,7 +18982,7 @@ window.QUESTION_BANKS = {
                                               "b":  "populismo – a mobilização direta das massas pelo líder – o pacto com os partidos operários",
                                               "c":  "tenentismo – a organização de oficiais de baixa patente nos quartéis – a aliança entre os militares e as oligarquias estaduais do período",
                                               "d":  "trabalhismo – a organização dos sindicatos urbanos por categoria – a negociação direta entre as centrais sindicais e o poder executivo federal",
-                                              "e":  "coronelismo – o voto de cabresto sobre trabalhadores dependentes – a política dos governadores e a troca de favores"
+                                              "e":  "coronelismo – o voto de cabresto sobre trabalhadores dependentes – a política dos governadores, que trocava os votos do coronel por cargos e verbas públicas"
                                           },
                          "resposta":  "e",
                          "explicacao":  "É uma cadeia de troca: o coronel entrega votos ao governador, o governador entrega bancada ao presidente, e cada um recebe cargos e verbas em troca. A Comissão de Verificação de Poderes fechava o circuito, degolando eleitos indesejados.",
@@ -18000,7 +19010,7 @@ window.QUESTION_BANKS = {
                          "enunciado":  "Essa política ficou conhecida como valorização do café e tem como característica:",
                          "alternativas":  {
                                               "a":  "transferir integralmente o custo da crise aos produtores, que arcaram sozinhos com os prejuízos decorrentes da queda dos preços no período",
-                                              "b":  "socializar as perdas do setor cafeeiro com recursos públicos e dívida externa, mantendo o lucro privado",
+                                              "b":  "socializar as perdas do setor cafeeiro, já que o Estado comprava o excedente com dinheiro emprestado no exterior e o lucro do setor continuava privado",
                                               "c":  "estimular a diversificação da produção agrícola, reduzindo a dependência de um produto",
                                               "d":  "eliminar a intervenção do Estado na economia, princípio adotado no período",
                                               "e":  "reduzir a área plantada por determinação legal, medida que limitou a produção nacional aos volumes absorvidos pelo mercado internacional"
@@ -18044,7 +19054,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "Entre 1912 e 1916, na divisa entre Paraná e Santa Catarina, populações expulsas por obras ferroviárias e conflitos de terra organizaram-se em torno de lideranças messiânicas.",
                          "enunciado":  "Esse movimento, chamado Contestado, tem em comum com Canudos o fato de:",
                          "alternativas":  {
-                                              "a":  "reunir populações pobres sem terra em torno da religiosidade popular e terminar em repressão militar",
+                                              "a":  "reunir populações pobres expulsas da terra em torno da religiosidade popular e terminar em massacre, tratado pela República como caso de polícia",
                                               "b":  "defender explicitamente a restauração da monarquia, projeto político comum aos dois movimentos do período",
                                               "c":  "contar com apoio das oligarquias estaduais, que financiaram as comunidades",
                                               "d":  "ter sido resolvido por meio de negociação política, sem emprego de força",
@@ -18137,7 +19147,7 @@ window.QUESTION_BANKS = {
                          "enunciado":  "Por essas características, o conflito é descrito como:",
                          "alternativas":  {
                                               "a":  "guerra de movimento, marcada pelo avanço rápido das tropas e pela conquista de extensos territórios",
-                                              "b":  "guerra total, que mobilizou população civil, indústria, ciência e propaganda a serviço do esforço militar",
+                                              "b":  "guerra total, que mobilizou população civil, indústria, ciência e propaganda a serviço do esforço militar, com racionamento e fábricas convertidas",
                                               "c":  "guerra limitada, restrita aos exércitos profissionais e sem envolvimento da população civil",
                                               "d":  "guerra colonial, travada exclusivamente nos territórios ultramarinos disputados pelas potências europeias ao longo daquele mesmo período",
                                               "e":  "guerra civil, conflito interno a cada um dos Estados envolvidos, sem enfrentamento direto entre as forças armadas de países distintos"
@@ -18291,7 +19301,7 @@ window.QUESTION_BANKS = {
                                               "a":  "reintegração aos impérios coloniais europeus, sob a forma de associação econômica com as antigas metrópoles de cada um dos territórios",
                                               "b":  "adesão coletiva ao bloco liderado pelos Estados Unidos, decidida por todos os presentes",
                                               "c":  "adesão coletiva ao bloco soviético, assumida na declaração final da conferência",
-                                              "d":  "não alinhamento automático a nenhum dos dois blocos, com agenda própria de soberania e desenvolvimento",
+                                              "d":  "recusa de alinhamento automático a qualquer dos dois blocos, com agenda própria de soberania, desenvolvimento e fim do colonialismo, e não neutralidade passiva",
                                               "e":  "criação de uma aliança militar entre os participantes, com forças armadas conjuntas destinadas à defesa dos territórios recém-emancipados"
                                           },
                          "resposta":  "d",
@@ -18322,7 +19332,7 @@ window.QUESTION_BANKS = {
                                               "b":  "provocar a adesão imediata de todos os países latino-americanos ao bloco soviético",
                                               "c":  "encerrar a influência norte-americana sobre a região, que passou a se organizar sozinha",
                                               "d":  "eliminar os conflitos políticos internos nos demais países da região, pacificados após a assinatura de acordos regionais naquele período",
-                                              "e":  "servir de referência para movimentos de esquerda e motivar a reação anticomunista dos Estados Unidos"
+                                              "e":  "servir de referência para os movimentos de esquerda e motivar a reação anticomunista dos Estados Unidos, da Aliança para o Progresso ao apoio a golpes"
                                           },
                          "resposta":  "e",
                          "explicacao":  "De um lado, a guerrilha passou a parecer caminho viável; de outro, Washington respondeu com a Aliança para o Progresso e com apoio a golpes militares. As duas coisas moldam a política latino-americana dos anos 1960 e 1970.",
@@ -18335,7 +19345,7 @@ window.QUESTION_BANKS = {
                          "alternativas":  {
                                               "a":  "subordinar as decisões militares ao controle do poder legislativo, mecanismo previsto nos textos constitucionais adotados naquele período",
                                               "b":  "restringir a atuação das forças armadas à defesa das fronteiras externas",
-                                              "c":  "identificar o inimigo dentro do próprio país e justificar vigilância, censura e suspensão de direitos",
+                                              "c":  "identificar o inimigo dentro do próprio país, e não no exército estrangeiro, justificando vigilância, censura, prisão sem processo e tortura de Estado",
                                               "d":  "estabelecer a neutralidade dos países da região no conflito entre os blocos",
                                               "e":  "promover a ampliação dos direitos civis e políticos da população como forma de conter a influência ideológica externa sobre a sociedade"
                                           },
@@ -18352,7 +19362,7 @@ window.QUESTION_BANKS = {
                                               "b":  "restabeleceu o sistema político da Primeira República, com os mesmos arranjos oligárquicos",
                                               "c":  "instaurou imediatamente um regime democrático com eleições livres e voto secreto",
                                               "d":  "transferiu o poder político para os partidos operários organizados nas principais cidades industriais do território brasileiro naquele momento",
-                                              "e":  "encerrou o predomínio das oligarquias cafeeiras e iniciou a centralização do Estado, com interventores nos estados"
+                                              "e":  "encerrou o predomínio das oligarquias cafeeiras e iniciou a centralização do Estado, com interventores nos estados, intervenção na economia e regulação do trabalho"
                                           },
                          "resposta":  "e",
                          "explicacao":  "O café perde o comando e o poder se concentra no governo federal, com interventores nos estados. Começa também a construção de um Estado que intervém na economia e regula o trabalho — a marca dos quinze anos seguintes.",
@@ -18424,7 +19434,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "Em 31 de março de 1964, tropas militares depuseram o presidente João Goulart, iniciando um regime que duraria vinte e um anos.",
                          "enunciado":  "O episódio contou com apoio de ______, ______ e ______, e foi por muito tempo apresentado como ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "setores empresariais e proprietários rurais – parte da imprensa e das classes médias – o governo dos Estados Unidos – uma revolução destinada a restaurar a ordem",
+                                              "a":  "setores empresariais e proprietários rurais – parte da imprensa e das classes médias – o governo dos Estados Unidos – uma revolução destinada a restaurar a ordem, no vocabulário oficial",
                                               "b":  "das organizações sindicais urbanas – dos partidos de esquerda – dos movimentos camponeses organizados – uma resposta às demandas populares apresentadas ao governo",
                                               "c":  "do conjunto da população, manifestada em plebiscito – das organizações internacionais – dos países vizinhos – uma decisão soberana tomada por consulta direta",
                                               "d":  "das forças armadas isoladamente – sem qualquer apoio civil registrado – contra a vontade do setor empresarial – uma iniciativa exclusivamente militar sem base social",
@@ -18444,7 +19454,7 @@ window.QUESTION_BANKS = {
                                               "b":  "do início da abertura política, que culminaria em eleições diretas para todos os cargos",
                                               "c":  "da restauração das garantias constitucionais suspensas nos anos anteriores",
                                               "d":  "do encerramento da atuação das forças armadas na política, que passaram a se restringir às atribuições previstas na constituição em vigor",
-                                              "e":  "do endurecimento do regime, sem habeas corpus e sem Congresso, no período de repressão mais intensa"
+                                              "e":  "do endurecimento do regime, sem habeas corpus e sem Congresso, quando a repressão perdeu qualquer freio institucional e começaram os anos de chumbo"
                                           },
                          "resposta":  "e",
                          "explicacao":  "Sem habeas corpus e sem Congresso, a repressão perdeu qualquer freio institucional. Os anos que se seguem concentram a maior parte das prisões, torturas e desaparecimentos do período — os chamados anos de chumbo.",
@@ -18545,7 +19555,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "A Constituição de 1988 é conhecida como Constituição Cidadã.",
                          "enunciado":  "Ela estabeleceu ______, criou ______ e definiu ______ como dever do Estado e direito de todos. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "amplo rol de direitos individuais e sociais – a seguridade social integrando saúde, previdência e assistência – a saúde",
+                                              "a":  "amplo rol de direitos individuais e sociais – a seguridade social integrando saúde, previdência e assistência – a saúde, base do SUS, com acesso universal e igualitário",
                                               "b":  "a restrição dos direitos políticos aos alfabetizados – um sistema previdenciário privado – a educação",
                                               "c":  "o regime parlamentarista – um poder moderador exercido pelo chefe de Estado – a defesa nacional",
                                               "d":  "a centralização das competências na União – a extinção da autonomia municipal – a segurança pública como responsabilidade exclusiva dos estados",
@@ -18682,7 +19692,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "Compare dois tipos de registro sobre um mesmo acontecimento: um relatório oficial produzido na época e o depoimento de uma testemunha colhido décadas depois.",
                          "enunciado":  "Os dois são ______; o primeiro tende a apresentar ______ e o segundo, ______; a tarefa do historiador é ______. As lacunas são preenchidas por:",
                          "alternativas":  {
-                                              "a":  "fontes históricas legítimas – a versão institucional do fato – a experiência vivida e reelaborada pela memória – cotejar e criticar as duas",
+                                              "a":  "fontes históricas legítimas – a versão institucional do fato – a experiência vivida e reelaborada pela memória – cotejar as duas e perguntar por que cada uma diz o que diz",
                                               "b":  "documentos equivalentes e neutros – a verdade objetiva dos fatos – a mesma verdade em outras palavras – escolher o mais antigo",
                                               "c":  "registros sem valor científico – opiniões pessoais sem fundamento – impressões subjetivas não verificáveis – descartar ambos e buscar fontes materiais",
                                               "d":  "produtos da mesma instituição – dados estatísticos precisos – informações complementares aos dados – somar as duas versões sem qualquer análise crítica",
@@ -18884,7 +19894,7 @@ window.QUESTION_BANKS = {
                                               "a":  "revela que o estudo foi interrompido assim que os primeiros resultados se tornaram conhecidos",
                                               "b":  "demonstra que os participantes haviam concedido consentimento informado por escrito",
                                               "c":  "comprova que não existia tratamento disponível para a doença durante todo o período em que o acompanhamento foi realizado pelos pesquisadores",
-                                              "d":  "mostra que a violação pode ocorrer em pesquisa institucional e prolongada, não apenas em regimes de exceção",
+                                              "d":  "mostra que a violação pode ocorrer em pesquisa pública, com financiamento regular e publicações ao longo de quarenta anos, não apenas em regimes de exceção",
                                               "e":  "indica que a pesquisa foi conduzida sem qualquer vínculo institucional, o que impediu a aplicação das normas éticas então vigentes ao caso"
                                           },
                          "resposta":  "d",
@@ -18991,7 +20001,7 @@ window.QUESTION_BANKS = {
                                               "b":  "transição demográfica – a redução da expectativa de vida – a diminuição da demanda por saúde",
                                               "c":  "revolução sanitária – o aumento das taxas de natalidade registradas no país – a ampliação da rede hospitalar voltada ao atendimento pediátrico",
                                               "d":  "transição nutricional – a redução do consumo de alimentos industrializados – a diminuição da prevalência de obesidade e de diabetes na população",
-                                              "e":  "transição epidemiológica – a transição demográfica e a urbanização – a necessidade de um sistema voltado ao cuidado de longa duração"
+                                              "e":  "transição epidemiológica – a transição demográfica e a urbanização – a necessidade de um sistema voltado ao cuidado de longa duração, sem que as infecciosas desapareçam"
                                           },
                          "resposta":  "e",
                          "explicacao":  "Saneamento, vacina e antibiótico derrubaram a mortalidade infecciosa; a população envelheceu e passou a morrer de coração, câncer e diabetes. O Brasil, porém, convive com as duas coisas — daí falar-se em transição incompleta.",
@@ -19184,7 +20194,7 @@ window.QUESTION_BANKS = {
                          "texto_apoio":  "A mortalidade infantil brasileira caiu de mais de cem óbitos por mil nascidos vivos nos anos 1970 para menos de quinze nas medições recentes.",
                          "enunciado":  "Essa trajetória é atribuída principalmente a:",
                          "alternativas":  {
-                                              "a":  "saneamento, vacinação, atenção básica, aleitamento materno e queda da fecundidade, sem alta tecnologia",
+                                              "a":  "saneamento, vacinação, atenção básica, aleitamento materno e queda da fecundidade combinados, sem que nenhuma dessas medidas dependa de alta tecnologia",
                                               "b":  "à ampliação exclusiva do número de leitos hospitalares de alta complexidade, medida que responde pela maior parte da redução registrada",
                                               "c":  "à melhoria dos sistemas de registro civil, que alterou apenas a contabilização",
                                               "d":  "à redução do número de nascimentos, único fator apontado pelos estudos da área",
@@ -19291,7 +20301,7 @@ window.QUESTION_BANKS = {
                          "alternativas":  {
                                               "a":  "iniciativas privadas isoladas, sem qualquer participação do Estado na formulação ou no financiamento das medidas adotadas em cada caso",
                                               "b":  "avanços tecnológicos de alta complexidade aplicados a cada paciente atendido",
-                                              "c":  "políticas públicas de alcance coletivo, como água tratada e vacinação, e não só de ações individuais",
+                                              "c":  "políticas públicas de alcance coletivo, como água tratada, vacinação e acesso universal, que mudam a curva de uma população inteira e não só o caso individual",
                                               "d":  "mudanças espontâneas de comportamento da população, sem intervenção institucional",
                                               "e":  "condições climáticas favoráveis registradas nos períodos em que cada um desses processos se desenvolveu nas regiões correspondentes"
                                           },
@@ -19328,6 +20338,703 @@ window.QUESTION_BANKS = {
                          "resposta":  "e",
                          "explicacao":  "Consentimento, isolamento compulsório, confiança em campanha pública, quem morre primeiro numa epidemia: são perguntas antigas com respostas registradas. Quem vai decidir sobre elas ganha alguma coisa em conhecer o que já foi tentado.",
                          "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-151",
+                         "texto_apoio":  "A industrialização costuma ser dividida em fases, cada uma associada a um conjunto próprio de fontes de energia, setores dinâmicos e países líderes.",
+                         "enunciado":  "A primeira fase apoiou-se em ______ e teve como setor dinâmico ______; a segunda apoiou-se em ______ e deslocou a liderança industrial para ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "carvão e máquina a vapor – a indústria têxtil algodoeira – eletricidade, petróleo e aço – Alemanha e Estados Unidos, líderes da segunda fase industrial",
+                                              "b":  "energia hidráulica e moinhos – a produção de armamentos pesados – carvão e vapor – Inglaterra e França, que assumiram a dianteira do processo naquele período",
+                                              "c":  "eletricidade e petróleo – a indústria química de corantes – carvão mineral e vapor – Inglaterra, que retomou a liderança perdida na fase anterior",
+                                              "d":  "petróleo e motor a combustão – a indústria automobilística – energia nuclear e informática – Japão e Coreia do Sul, líderes desde o final do século XIX",
+                                              "e":  "carvão e vapor – a siderurgia pesada e a construção naval – energia hidrelétrica – Rússia e Itália, que se industrializaram antes das demais potências"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A primeira fase é inglesa, movida a carvão, e tem o algodão como carro-chefe; a segunda, do último terço do século XIX, traz aço, eletricidade, petróleo e química, com Alemanha e Estados Unidos à frente. A armadilha é inverter a ordem das fontes de energia, colocando eletricidade e petróleo na primeira fase e o carvão na segunda.",
+                         "formato":  "lacunas",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "historia-152",
+                         "texto_apoio":  "No sistema doméstico e na manufatura, o trabalhador dominava o conjunto das etapas e decidia o ritmo do próprio trabalho. Na fábrica movida a máquinas, cada operário passou a executar uma operação parcial, em ritmo determinado pelo equipamento.",
+                         "enunciado":  "Essa passagem, chamada maquinofatura, implicou:",
+                         "alternativas":  {
+                                              "a":  "a valorização do saber artesanal, que a fábrica preservou integralmente ao transferir ao operário a responsabilidade sobre todas as etapas da produção",
+                                              "b":  "a redução da jornada, uma vez que a mecanização diminuiu desde o início o tempo de trabalho exigido de cada operário empregado nas fábricas",
+                                              "c":  "o desaparecimento imediato do trabalho manual nas cidades europeias, substituído em poucos anos por equipamentos automáticos em todos os setores",
+                                              "d":  "a perda do controle do trabalhador sobre o processo produtivo e a subordinação do seu ritmo à máquina",
+                                              "e":  "a elevação generalizada dos salários, resultado do aumento da produtividade repassado aos operários pelos proprietários das primeiras fábricas"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O ganho de produtividade veio junto com a expropriação de um saber: quem sabia fazer a peça inteira passou a repetir um gesto. Confundir mecanização com alívio do trabalho é o erro mais comum, e ignora que a jornada de doze a dezesseis horas foi a regra, e não a exceção, das primeiras décadas fabris.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-153",
+                         "texto_apoio":  "Entre o final do século XVIII e as primeiras décadas do XIX, grupos de trabalhadores ingleses invadiram fábricas e destruíram teares e outros equipamentos, ação punida com penas severas, inclusive a morte.",
+                         "enunciado":  "Esse movimento, conhecido como ludismo, é hoje interpretado como:",
+                         "alternativas":  {
+                                              "a":  "uma rejeição ao progresso técnico em si, motivada pela recusa dos trabalhadores a aprender qualquer ofício ligado aos novos equipamentos industriais",
+                                              "b":  "uma iniciativa dos proprietários para renovar equipamentos obsoletos com indenização, executada por trabalhadores contratados especificamente para isso",
+                                              "c":  "uma forma inicial de luta operária, dirigida contra a máquina como instrumento de desemprego e de rebaixamento salarial, quando a greve era proibida",
+                                              "d":  "um levante de caráter religioso contra o trabalho aos domingos, prática que a organização das fábricas passou a impor aos operários naquele período",
+                                              "e":  "uma reação exclusivamente camponesa contra a mecanização agrícola, sem relação com o que ocorria nas cidades industriais inglesas"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Quebrar o tear era pressionar o patrão onde doía, num tempo em que sindicato e greve eram proibidos por lei. Ler o ludismo como ódio à técnica é a versão que os próprios industriais difundiram: o alvo não era a máquina, e sim o uso dela para substituir e baratear o trabalhador.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "historia-154",
+                         "texto_apoio":  "Em 1838, trabalhadores ingleses redigiram um documento com exigências dirigidas ao Parlamento e recolheram milhões de assinaturas em seu apoio ao longo da década seguinte.",
+                         "enunciado":  "As reivindicações centrais desse movimento eram:",
+                         "alternativas":  {
+                                              "a":  "a estatização das fábricas têxteis e a distribuição das terras entre os operários das cidades industriais do norte da Inglaterra naquele período",
+                                              "b":  "o retorno ao trabalho artesanal doméstico e a proibição legal do emprego de máquinas movidas a vapor em qualquer ramo da produção inglesa",
+                                              "c":  "a criação de um partido operário revolucionário e a tomada imediata do poder pelas armas, conforme o programa adotado por seus dirigentes",
+                                              "d":  "o sufrágio universal masculino, o voto secreto e a remuneração dos parlamentares",
+                                              "e":  "a adoção do livre-comércio internacional e o fim das tarifas sobre a importação de cereais, medidas defendidas pelos industriais do período"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O cartismo desloca a luta da fábrica para o Parlamento: sem voto, o operário não mudava a lei que o oprimia; sem remuneração, nenhum trabalhador poderia ser deputado. Confundi-lo com o ludismo, atribuindo-lhe a recusa das máquinas, apaga o que há de novo ali — é o primeiro movimento operário de massa com pauta política.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-155",
+                         "texto_apoio":  "Ao longo dos séculos XVIII e XIX, leis inglesas autorizaram proprietários a cercar terras antes de uso comum, onde camponeses pastavam animais, recolhiam lenha e cultivavam pequenas parcelas.",
+                         "enunciado":  "A relação entre esse processo e a industrialização está em que os cercamentos:",
+                         "alternativas":  {
+                                              "a":  "mantiveram a população no campo, o que garantiu às fábricas fornecimento regular de alimentos e reduziu a pressão sobre as cidades industriais",
+                                              "b":  "reduziram a produtividade agrícola inglesa, obrigando o país a importar alimentos e a especializar-se na produção industrial voltada à exportação",
+                                              "c":  "transferiram a propriedade da terra aos camponeses, o que ampliou o mercado consumidor rural e financiou os investimentos iniciais na indústria",
+                                              "d":  "foram consequência da industrialização, e não uma de suas condições, tendo ocorrido somente após a instalação das primeiras fábricas têxteis",
+                                              "e":  "concentraram a posse da terra e liberaram mão de obra sem meios de subsistência, que se dirigiu às cidades e formou o operariado das fábricas"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Sem acesso à terra comum, o camponês perde a alternativa à venda da própria força de trabalho, e é exatamente esse trabalhador livre que a fábrica precisa. Inverter a ordem cronológica, tratando o cercamento como efeito da indústria, desmonta a explicação: ele é condição, e começa antes.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "historia-156",
+                         "texto_apoio":  "Manchester e outras cidades industriais inglesas cresceram sem rede de esgoto, com moradias superlotadas e água contaminada. Entre as décadas de 1830 e 1850, sucessivas epidemias de cólera atingiram esses bairros, e inquéritos oficiais mediram a diferença de expectativa de vida entre operários e proprietários.",
+                         "enunciado":  "A principal consequência institucional desse quadro foi:",
+                         "alternativas":  {
+                                              "a":  "a transferência das fábricas para o campo, medida adotada pelo Parlamento britânico para reduzir a densidade populacional das cidades industriais",
+                                              "b":  "a atribuição das epidemias ao comportamento moral dos operários, entendimento que dispensou qualquer intervenção do poder público sobre as cidades",
+                                              "c":  "a criação de legislação e de órgãos públicos de saúde, com obras de água e esgoto custeadas pelo Estado, ainda sob a teoria dos miasmas",
+                                              "d":  "a proibição da migração de trabalhadores rurais para as cidades, restrição mantida na Inglaterra até o início do século vinte",
+                                              "e":  "a substituição dos inquéritos oficiais por levantamentos privados, conduzidos pelas próprias empresas interessadas nas condições de seus operários"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Medir a mortalidade por bairro transformou miséria em dado, e dado em obra pública: as leis de saúde pública inglesas e os grandes sistemas de esgoto nascem daí. Note a cronologia, que costuma ser invertida: tudo isso antecede a teoria microbiana e foi feito por quem ainda atribuía a doença aos miasmas.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-157",
+                         "texto_apoio":  "Regulamentos de fábricas inglesas do século XIX previam multas para atrasos, proibiam conversas durante o turno e estabeleciam o sino e o relógio como marcadores do início e do fim da jornada.",
+                         "enunciado":  "Esses regulamentos indicam que a industrialização exigiu:",
+                         "alternativas":  {
+                                              "a":  "a formação de uma disciplina de trabalho nova, com o tempo medido pelo relógio substituindo o tempo da tarefa",
+                                              "b":  "a manutenção do ritmo de trabalho herdado do campo, que a fábrica preservou por ser mais adequado à operação das máquinas recém-instaladas",
+                                              "c":  "a redução do número de trabalhadores por unidade produtiva, condição necessária ao controle individual de cada operário pelos supervisores",
+                                              "d":  "a contratação exclusiva de trabalhadores com experiência artesanal anterior, únicos capazes de compreender as normas internas estabelecidas",
+                                              "e":  "a supressão de qualquer forma de punição no interior da fábrica, substituída por incentivos salariais concedidos conforme a produção de cada turno"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "No campo e na oficina trabalhava-se enquanto a tarefa exigia, com pausas irregulares. A fábrica precisa que todos comecem e parem juntos, porque a máquina não espera, e a multa por atraso é o instrumento de ensinar isso. Supor que essa disciplina veio pronta do mundo rural faz perder o essencial: ela teve de ser imposta, e foi resistida.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "historia-158",
+                         "texto_apoio":  "Ao longo do século XIX, países como Brasil, Índia e Egito ampliaram a exportação de algodão, café e outras matérias-primas e importaram tecidos e equipamentos das potências industriais.",
+                         "enunciado":  "Esse arranjo, conhecido como divisão internacional do trabalho, resultou:",
+                         "alternativas":  {
+                                              "a":  "da vantagem técnica das regiões produtoras de matérias-primas, que optaram por concentrar seus investimentos na agricultura de exportação",
+                                              "b":  "da ausência de comércio entre as regiões industrializadas, o que obrigou cada uma delas a buscar mercados fora da Europa naquele período",
+                                              "c":  "da industrialização simultânea de todas as regiões do planeta, processo que apenas distribuiu de modo distinto os setores produtivos entre elas",
+                                              "d":  "da desindustrialização das potências europeias, que transferiram suas fábricas para as áreas produtoras de matérias-primas ao longo do século",
+                                              "e":  "da combinação entre a superioridade industrial europeia e mecanismos políticos e comerciais que dificultavam a industrialização das demais regiões"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Não foi escolha nem vocação: tratados desiguais, controle colonial e concorrência de produtos baratos desmontaram manufaturas locais, como aconteceu com os tecidos indianos. Atribuir o arranjo a uma opção das regiões periféricas apaga a assimetria de poder que o sustentava.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-159",
+                         "texto_apoio":  "Considere as afirmações a seguir sobre a urbanização produzida pela Revolução Industrial. I. O crescimento das cidades industriais foi mais rápido que a instalação de redes de água, esgoto e habitação, o que produziu bairros insalubres e mortalidade elevada. II. A concentração de trabalhadores num mesmo espaço facilitou a organização de sociedades de auxílio mútuo, sindicatos e partidos operários. III. As leis de proteção ao trabalho, como a limitação da jornada de menores, foram adotadas espontaneamente pelos industriais, sem pressão social ou parlamentar.",
+                         "enunciado":  "Está correto o que se afirma em:",
+                         "alternativas":  {
+                                              "a":  "I, apenas",
+                                              "b":  "I e II, apenas",
+                                              "c":  "II e III, apenas",
+                                              "d":  "I e III, apenas",
+                                              "e":  "I, II e III"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "I e II descrevem as duas faces da aglomeração: adoecimento e organização política. III é falsa e derruba quem marca as três — as leis fabris nasceram de inquéritos parlamentares, campanhas públicas e pressão operária, e foram combatidas pelos industriais sob o argumento da perda de competitividade.",
+                         "formato":  "escada",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "historia-160",
+                         "texto_apoio":  "A doação de capitanias na América portuguesa era formalizada por dois documentos: a carta de doação, que transferia a posse e definia a hereditariedade, e o foral, que estabelecia direitos, deveres e tributos do donatário e dos colonos.",
+                         "enunciado":  "Esse arranjo indica que a Coroa portuguesa, naquele momento:",
+                         "alternativas":  {
+                                              "a":  "renunciou definitivamente à soberania sobre o território, transferida em caráter integral aos donatários e a seus herdeiros pelos dois documentos",
+                                              "b":  "organizou uma administração centralizada desde o início da colonização, com funcionários pagos pela metrópole em cada uma das faixas doadas",
+                                              "c":  "transferiu a particulares o custo da ocupação, mantendo para si a propriedade última da terra e a arrecadação do quinto e do dízimo devidos",
+                                              "d":  "pretendia povoar o território sem produzir mercadorias exportáveis, uma vez que os forais proibiam expressamente o comércio nas capitanias",
+                                              "e":  "reproduziu na América o modelo já adotado nas feitorias africanas, baseado na permanência de pequenos entrepostos comerciais no litoral"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O donatário entrava com o dinheiro e o risco; a Coroa entrava com o direito e ficava com o quinto e o dízimo. A palavra hereditárias engana quem conclui que houve renúncia de soberania: a terra continuava sendo da Coroa, que podia retomá-la, e retomou ao criar o governo-geral em 1549.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-161",
+                         "texto_apoio":  "Nem toda a cana moída num engenho vinha das terras do senhor. Lavradores de cana, alguns proprietários e outros arrendatários das terras do próprio engenho, plantavam e entregavam a cana para moagem, recebendo em troca parte do açúcar produzido.",
+                         "enunciado":  "A existência desses lavradores mostra que a sociedade açucareira:",
+                         "alternativas":  {
+                                              "a":  "dispensava o trabalho escravizado, uma vez que os lavradores de cana empregavam exclusivamente trabalhadores assalariados em suas lavouras",
+                                              "b":  "era composta apenas por senhores de engenho e escravizados, sem qualquer posição intermediária entre os dois extremos da hierarquia colonial",
+                                              "c":  "funcionava fora do sistema de exportação, já que a produção dos lavradores se destinava ao abastecimento do mercado interno da colônia",
+                                              "d":  "comportava posições intermediárias, ainda que subordinadas ao senhor, que controlava a moenda e as condições da parceria com o lavrador",
+                                              "e":  "organizava-se de forma igualitária entre os produtores, que dividiam em partes iguais o açúcar obtido a cada safra realizada no engenho"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Quem tinha cana e não tinha moenda dependia de quem tinha moenda. O lavrador de cana era proprietário de escravizados e, ao mesmo tempo, subordinado ao senhor: prova de que a sociedade colonial tinha degraus, e não apenas dois andares. A imagem de casa-grande e senzala como únicas posições possíveis é a simplificação que a questão cobra.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "historia-162",
+                         "texto_apoio":  "As travessias do Atlântico em navios negreiros duravam de trinta a sessenta dias, em porões superlotados, com água racionada e sem instalações sanitárias. Registros de época indicam mortalidade elevada durante a viagem, sobretudo por desidratação, disenteria e escorbuto.",
+                         "enunciado":  "Essa mortalidade era tratada pelos traficantes como:",
+                         "alternativas":  {
+                                              "a":  "um custo previsto na operação, incorporado ao preço e reduzido apenas quando ameaçava a lucratividade da viagem",
+                                              "b":  "um impedimento absoluto ao comércio, que por isso foi abandonado pelos comerciantes europeus ainda no início do século XVIII",
+                                              "c":  "um problema resolvido pela presença obrigatória de médicos a bordo, exigida pela legislação portuguesa desde o início do tráfico atlântico",
+                                              "d":  "uma consequência de epidemias contraídas na América, e não das condições da travessia, conforme registravam os relatórios das companhias",
+                                              "e":  "questão de responsabilidade exclusiva dos capitães, punidos criminalmente sempre que a mortalidade ultrapassava limites fixados em lei"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Aumentar a lotação elevava a mortalidade e, ainda assim, compensava: foi esse cálculo que organizou o tráfico por três séculos. O mesmo raciocínio explica por que a alimentação melhorava perto da chegada, já que o corpo precisava chegar vendável. Imaginar regulação sanitária eficaz a bordo é projetar no passado uma preocupação que não existia.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "historia-163",
+                         "texto_apoio":  "As expedições paulistas mudaram de objetivo ao longo do tempo: primeiro o apresamento de indígenas, depois o combate a quilombos e a povos indígenas por contrato com autoridades coloniais e, por fim, a busca de metais e pedras preciosas.",
+                         "enunciado":  "Além dos objetivos imediatos, essas expedições tiveram como consequência de longo prazo:",
+                         "alternativas":  {
+                                              "a":  "o povoamento intensivo do litoral norte da colônia, área que concentrou a maior parte da população até o final do período colonial",
+                                              "b":  "a criação de uma rede de vilas autônomas em relação à Coroa, que não conseguiu cobrar tributos nas áreas alcançadas pelas expedições",
+                                              "c":  "a preservação das populações indígenas do interior, protegidas por acordos firmados entre os chefes das expedições e as lideranças locais",
+                                              "d":  "o fim da escravidão indígena na América portuguesa, substituída pela mão de obra africana por decisão das próprias expedições paulistas",
+                                              "e":  "a delimitação das fronteiras da América portuguesa muito além da linha de Tordesilhas, situação reconhecida no Tratado de Madri, em 1750"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O Tratado de Madri consagra o uti possidetis: vale a terra ocupada, e não a linha traçada em 1494. Foram as bandeiras, as missões e as tropas que produziram essa ocupação. Confundir expansão territorial com autonomia política desconhece que a Coroa acompanhou o movimento e cobrou o quinto assim que o ouro apareceu.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-164",
+                         "texto_apoio":  "Pesquisas recentes mostram que muitos quilombos mantinham trocas regulares com vilas próximas, vendendo alimentos e comprando ferramentas, armas e sal, e que alguns firmaram acordos temporários com autoridades coloniais.",
+                         "enunciado":  "Esses dados levaram a historiografia a rever a imagem do quilombo como:",
+                         "alternativas":  {
+                                              "a":  "espaço de resistência à escravidão, pois as trocas com as vilas indicariam adesão de seus habitantes à ordem colonial vigente",
+                                              "b":  "comunidade isolada e autossuficiente, mostrando que a resistência combinava distanciamento e relações com a sociedade do entorno",
+                                              "c":  "formação de curta duração, já que nenhum agrupamento teria resistido por mais de uma década às expedições enviadas para destruí-los",
+                                              "d":  "fenômeno restrito ao Nordeste açucareiro, quando há registros de agrupamentos semelhantes em praticamente todas as regiões da colônia",
+                                              "e":  "experiência limitada às primeiras décadas da colonização, período em que a vigilância sobre a população escravizada era menos organizada"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Fugir não significava sumir: sem comércio com o entorno não havia ferramenta, pólvora nem sal. Reconhecer isso não enfraquece o quilombo como resistência, e esse é o salto indevido que a questão testa; mostra apenas que a resistência operava dentro do mundo colonial, e não fora dele.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "historia-165",
+                         "texto_apoio":  "Para garantir a arrecadação sobre o ouro extraído em Minas Gerais, a Coroa portuguesa criou e substituiu mecanismos ao longo do século XVIII.",
+                         "enunciado":  "O tributo básico sobre a produção era ______; para evitar o contrabando, a Coroa criou ______; quando a arrecadação ficava abaixo do valor mínimo estipulado, previa-se ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "o dízimo – os armazéns reais – o confisco integral das lavras exploradas por particulares na região das minas durante aquele mesmo ano",
+                                              "b":  "o quinto – as casas de fundição, que transformavam o ouro em barras – a derrama, cobrança forçada do que faltava às cem arrobas anuais",
+                                              "c":  "a capitação – as companhias de comércio, encarregadas do transporte do metal – o perdão da dívida acumulada pelos mineradores no período",
+                                              "d":  "o quinto – os tribunais de relação instalados nas vilas mineradoras – a suspensão temporária da atividade nas lavras até a regularização",
+                                              "e":  "a sisa – as intendências de marinha – a transferência da cobrança aos comerciantes estabelecidos nas vilas do interior da capitania"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Quinto, casa de fundição e derrama formam a engrenagem: taxa de vinte por cento, controle no momento da fundição e cobrança coletiva do que faltasse para as cem arrobas anuais. A capitação existiu, mas como alternativa ao quinto, cobrada por escravizado; trocá-la pelo tributo básico embaralha dois sistemas fiscais distintos.",
+                         "formato":  "lacunas",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "historia-166",
+                         "texto_apoio":  "A colonização da América não se explica pelo simples deslocamento de populações europeias: ela se organiza para produzir gêneros destinados ao mercado europeu, com mão de obra compulsória e comércio monopolizado pela metrópole.",
+                         "enunciado":  "Essa leitura, associada à ideia de sentido da colonização, sustenta que a colônia:",
+                         "alternativas":  {
+                                              "a":  "funcionou como engrenagem da acumulação de capitais na Europa, e não como projeto de povoamento com fins próprios",
+                                              "b":  "desenvolveu-se de forma autônoma em relação à economia europeia, com produção voltada principalmente ao consumo de seus próprios habitantes",
+                                              "c":  "reproduziu na América a estrutura feudal europeia, com servidão da gleba e produção destinada ao abastecimento local de cada senhorio",
+                                              "d":  "constituiu desde o início um mercado consumidor de manufaturas, o que explica o incentivo metropolitano à elevação da renda dos colonos",
+                                              "e":  "organizou-se para atender às necessidades da população local, que definia o que produzir e para quem vender os excedentes obtidos"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Açúcar, ouro e escravizados alimentavam o comércio europeu, e o que se produzia aqui era decidido lá. A armadilha mais comum é chamar de feudal uma economia escravista, monocultora e voltada à exportação, que é o oposto de uma economia senhorial de subsistência.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-167",
+                         "texto_apoio":  "Em 1759, o governo português expulsou a Companhia de Jesus de todos os domínios da Coroa, confiscou seus bens e transferiu ao Estado a administração dos antigos aldeamentos.",
+                         "enunciado":  "Entre as razões e os efeitos dessa medida está:",
+                         "alternativas":  {
+                                              "a":  "o desejo da Coroa de ampliar a autonomia das populações indígenas, que passaram a administrar diretamente as terras dos antigos aldeamentos",
+                                              "b":  "a intenção de transferir a educação colonial a universidades criadas na América portuguesa logo após a saída dos religiosos do território",
+                                              "c":  "a decisão do papado de extinguir a ordem em todo o mundo católico, à qual Portugal apenas aderiu depois das demais monarquias europeias",
+                                              "d":  "a disputa pelo controle da mão de obra indígena e pelo patrimônio da ordem, além da desorganização do ensino colonial, então quase todo jesuítico",
+                                              "e":  "a substituição imediata dos aldeamentos por vilas autônomas, com plena igualdade jurídica entre indígenas e colonos no território colonial"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Pombal queria o indígena disponível para o colono e os bens da ordem para o Estado; de quebra, tirava do caminho um poder paralelo. O custo foi um vazio escolar que Portugal levaria décadas para preencher. Atribuir a expulsão a uma decisão do papa inverte a cronologia: a supressão papal da Companhia só veio em 1773.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-168",
+                         "texto_apoio":  "Convocados em 1789 diante da crise financeira do Estado francês, os Estados Gerais reuniam representantes do clero, da nobreza e do terceiro estado. A tradição previa que cada estado deliberasse separadamente e dispusesse de um voto.",
+                         "enunciado":  "A exigência do terceiro estado de que o voto fosse individual explica-se porque:",
+                         "alternativas":  {
+                                              "a":  "o terceiro estado dispunha de tantos representantes quanto os outros dois somados, e a contagem por cabeça lhe daria a maioria na assembleia",
+                                              "b":  "a contagem por ordem já vinha sendo abandonada nas assembleias anteriores, o que tornava a exigência apenas uma formalidade sem efeito prático",
+                                              "c":  "o clero e a nobreza defendiam o voto individual, e o terceiro estado buscava acompanhar a posição adotada pelos dois primeiros estados",
+                                              "d":  "o rei havia condicionado a aprovação de novos impostos à adoção do voto individual pelos representantes reunidos em Versalhes",
+                                              "e":  "o voto individual reduziria o número de deliberações necessárias, o que abreviaria os trabalhos da assembleia e diminuiria seus custos"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Por ordem, clero e nobreza somavam dois votos contra um e venciam sempre; por cabeça, o terceiro estado, que tinha tantos deputados quanto os outros dois juntos, passava a decidir. A recusa do rei em ceder leva ao Juramento do Jogo da Péla. Tratar a disputa como detalhe de procedimento é perder o momento exato em que a revolução começa.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-169",
+                         "texto_apoio":  "Diferentes autores do século XVIII formularam princípios que seriam invocados durante a Revolução Francesa e nos processos que a seguiram.",
+                         "enunciado":  "A separação entre os poderes do Estado foi formulada por ______; a ideia de que a soberania pertence ao conjunto dos cidadãos, por ______; a defesa da liberdade econômica contra a intervenção do Estado, por ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "Rousseau – Montesquieu – Voltaire, cuja obra defendeu a intervenção sistemática do Estado sobre a produção e o comércio entre os países",
+                                              "b":  "Voltaire – Diderot – Hobbes, autor que sustentou a soberania popular como fundamento do poder político em oposição ao direito divino dos reis",
+                                              "c":  "Montesquieu – Rousseau – Adam Smith, três autores cujas formulações foram invocadas em momentos distintos do processo revolucionário francês",
+                                              "d":  "Adam Smith – Voltaire – Montesquieu, que atribuiu ao monarca a função de árbitro entre os interesses econômicos dos diferentes grupos sociais",
+                                              "e":  "Locke – Adam Smith – Rousseau, para quem o contrato social deveria assegurar a livre concorrência entre os produtores em qualquer sociedade"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Montesquieu desenha o mecanismo que impede a concentração do poder; Rousseau desloca a soberania do rei para o povo; Smith formula o argumento contra a regulação mercantilista. Trocar Montesquieu por Rousseau é o embaralhamento mais frequente, porque os dois costumam ser lidos juntos como os iluministas políticos.",
+                         "formato":  "lacunas",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "historia-170",
+                         "texto_apoio":  "No verão de 1789, camponeses franceses invadiram propriedades senhoriais e queimaram os registros que comprovavam suas obrigações. Na noite de 4 de agosto, a Assembleia votou a supressão dos direitos feudais.",
+                         "enunciado":  "A relação entre os dois acontecimentos indica que:",
+                         "alternativas":  {
+                                              "a":  "a Assembleia agiu por iniciativa própria, sem qualquer relação com a agitação registrada no campo francês naquele mesmo verão",
+                                              "b":  "a revolta camponesa foi provocada pela decisão da Assembleia, tomada semanas antes da destruição dos registros senhoriais nas propriedades",
+                                              "c":  "a supressão dos direitos feudais foi meramente simbólica, já que as obrigações continuaram a ser cobradas normalmente até o fim do século",
+                                              "d":  "a pressão do campo forçou decisões que a Assembleia, composta sobretudo por proprietários urbanos, não tomaria espontaneamente",
+                                              "e":  "os camponeses defendiam a manutenção da ordem senhorial e reagiam contra as mudanças anunciadas pelos deputados reunidos em Versalhes"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Queimar o cartório é destruir a prova da dívida, e foi isso, mais que o debate, que levou a Assembleia a abolir o que já estava sendo abolido no chão. Inverter a causa, supondo que a revolta seguiu a decisão, é o erro central aqui. Vale lembrar que boa parte das obrigações foi declarada resgatável mediante pagamento, e só a Convenção as suprimiu sem indenização.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-171",
+                         "texto_apoio":  "Entre 1793 e 1794, a França enfrentava guerra contra uma coalizão de monarquias europeias, revolta na região da Vendeia, escassez de alimentos e inflação. Nesse período, o governo revolucionário adotou o tabelamento de preços, a requisição de gêneros, o recrutamento em massa e a repressão judicial acelerada aos suspeitos.",
+                         "enunciado":  "A historiografia contemporânea tende a interpretar esse conjunto de medidas como:",
+                         "alternativas":  {
+                                              "a":  "prova de que a revolução não enfrentava qualquer ameaça concreta, sendo a repressão motivada apenas por disputas pessoais entre os líderes",
+                                              "b":  "resposta de emergência a uma situação de guerra externa e civil, o que explica sua adoção sem eliminar o caráter violento da repressão",
+                                              "c":  "programa previsto desde 1789 pelos deputados da Assembleia Constituinte, aplicado quando as condições políticas finalmente o permitiram",
+                                              "d":  "fenômeno sem relação com o contexto militar, uma vez que as fronteiras francesas estavam asseguradas desde o início daquele período",
+                                              "e":  "episódio isolado da história francesa, sem qualquer paralelo com medidas de exceção adotadas por outros Estados em situação de guerra"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Explicar não é justificar: reconhecer o cerco militar, a fome e a revolta interna é o que permite entender por que o tabelamento e o tribunal revolucionário tiveram apoio popular. Descartar o contexto transforma o Terror em patologia pessoal dos líderes; supor um plano desde 1789 projeta programa onde havia improviso sob pressão.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "historia-172",
+                         "texto_apoio":  "Após a queda de Robespierre, em julho de 1794, o novo governo revogou o tabelamento de preços, restabeleceu o voto censitário e reprimiu tanto os movimentos populares quanto as tentativas de restauração monárquica.",
+                         "enunciado":  "Esse conjunto de medidas indica que a fase iniciada em 1794:",
+                         "alternativas":  {
+                                              "a":  "radicalizou o programa social da revolução, ampliando as medidas de controle de preços adotadas durante o período anterior",
+                                              "b":  "restaurou o Antigo Regime na França, com o retorno dos privilégios de nascimento e das obrigações feudais suprimidas em 1789",
+                                              "c":  "consolidou o domínio político da burguesia proprietária, afastando tanto o retorno monárquico quanto a participação popular",
+                                              "d":  "aboliu qualquer forma de restrição ao voto, estabelecendo o sufrágio universal masculino como base do novo regime instalado no país",
+                                              "e":  "transferiu o poder às camadas populares urbanas, que passaram a definir a política econômica adotada pelo governo naquele período"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O Diretório governa contra dois lados ao mesmo tempo, e é essa instabilidade que abre espaço para o golpe de Napoleão em 1799. Confundir reação com restauração é o deslize típico: nem os privilégios nem o feudalismo voltam. O que volta é o censo eleitoral, ou seja, o poder da propriedade.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-173",
+                         "texto_apoio":  "Sem condições de derrotar a Inglaterra no mar, Napoleão determinou em 1806 o fechamento dos portos europeus aos navios e produtos britânicos.",
+                         "enunciado":  "Para Portugal e para a América portuguesa, essa medida teve como consequência:",
+                         "alternativas":  {
+                                              "a":  "o rompimento imediato de Portugal com a Inglaterra, seguido da adesão portuguesa ao bloqueio e da manutenção da corte em Lisboa",
+                                              "b":  "a suspensão do comércio entre a colônia e a metrópole, substituído por acordos diretos entre o Brasil e as potências continentais europeias",
+                                              "c":  "a industrialização acelerada de Portugal, que passou a produzir internamente as manufaturas antes importadas do território britânico",
+                                              "d":  "a anexação da América portuguesa pela Espanha, medida negociada entre Napoleão e a corte espanhola durante o período do bloqueio",
+                                              "e":  "a invasão de Portugal e a transferência da corte para o Rio de Janeiro, com desdobramentos duradouros sobre a colônia"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Portugal dependia do comércio inglês e não podia aderir ao bloqueio; ceder à Inglaterra significava perder o reino para as tropas francesas. A saída foi embarcar a corte. Supor que Portugal aderiu ao bloqueio faz perder a cadeia inteira: sem a vinda da corte não há abertura dos portos, elevação a Reino Unido nem independência no formato que ela teve.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-174",
+                         "texto_apoio":  "A Revolução transferiu ao Estado os hospitais até então administrados pela Igreja, extinguiu as antigas corporações de médicos e cirurgiões e criou, em 1794, escolas de saúde nas quais o ensino passou a ocorrer junto ao leito dos doentes.",
+                         "enunciado":  "Essas mudanças são consideradas decisivas para a medicina porque:",
+                         "alternativas":  {
+                                              "a":  "eliminaram a necessidade de formação teórica, substituída integralmente pelo aprendizado prático realizado nas enfermarias dos hospitais públicos",
+                                              "b":  "transformaram o hospital, antes espaço de abrigo e caridade, em lugar de ensino, de observação sistemática e de produção de conhecimento",
+                                              "c":  "restringiram o acesso ao hospital às camadas proprietárias, que passaram a financiar diretamente o funcionamento dessas instituições no país",
+                                              "d":  "separaram definitivamente a cirurgia da medicina, atribuindo às duas atividades formações e instituições inteiramente independentes entre si",
+                                              "e":  "suprimiram o exame do doente como fonte de conhecimento, privilegiando a leitura dos autores clássicos consagrados pela tradição médica"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Reunir muitos doentes num mesmo lugar, examiná-los em série e confrontar os sinais com o que a autópsia revelava criou um método, e a clínica moderna nasce daí. Afirmar que a reforma separou cirurgia e medicina inverte o processo: até então eram carreiras distintas e de prestígio desigual, e foi a Revolução que unificou a formação.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "historia-175",
+                         "texto_apoio":  "A Declaração de 1789 e a Declaração que acompanhou a Constituição de 1793 partem dos mesmos princípios gerais, mas se distinguem em pontos importantes.",
+                         "enunciado":  "A de 1789 inscreve entre os direitos naturais ______; a de 1793 acrescenta ______ e reconhece ainda ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "a propriedade, declarada inviolável e sagrada – o direito ao trabalho, à subsistência e à instrução – o direito de insurreição contra o governo que viole os direitos do povo",
+                                              "b":  "o sufrágio universal masculino – a propriedade coletiva dos meios de produção – a supressão de qualquer desigualdade econômica entre os cidadãos franceses",
+                                              "c":  "a igualdade de condições materiais – a liberdade religiosa – o direito de propriedade, ausente do texto anterior por decisão dos deputados da Assembleia",
+                                              "d":  "a abolição da escravidão nas colônias – o direito de voto das mulheres – a gratuidade integral dos serviços de saúde prestados à população francesa",
+                                              "e":  "o direito de resistência à opressão – a supressão do direito de propriedade – a instituição do salário mínimo para os trabalhadores das cidades industriais"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "1789 é a declaração da igualdade jurídica com a propriedade no centro; 1793, escrita sob pressão popular, admite que sem meios de vida a liberdade é abstrata e legitima a revolta. A alternativa mais sedutora escorrega em dois detalhes: a resistência à opressão já estava em 1789, e a propriedade não é suprimida em 1793, apenas deixa de ser o único direito garantido.",
+                         "formato":  "lacunas",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "historia-176",
+                         "texto_apoio":  "A independência do subcontinente indiano, em 1947, combinou mobilização de massas e divisão territorial.",
+                         "enunciado":  "O movimento pela independência teve como método principal ______; o desfecho territorial foi ______, e sua consequência imediata foi ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "a guerrilha rural prolongada – a criação de um Estado único e laico – a integração pacífica das comunidades religiosas sob um mesmo governo central",
+                                              "b":  "a negociação exclusiva entre as elites locais e a metrópole – a manutenção do território sob administração britânica – a ausência de mudança política relevante",
+                                              "c":  "a desobediência civil e a não cooperação com a administração britânica – a partição entre Índia e Paquistão – o deslocamento forçado de milhões de pessoas e a violência entre comunidades",
+                                              "d":  "o levante armado das tropas coloniais indianas – a divisão do território em quatro Estados independentes – a adesão de todos eles ao bloco soviético no ano seguinte",
+                                              "e":  "a pressão diplomática das Nações Unidas – a criação de um protetorado internacional – a transferência da administração do território a uma comissão multilateral"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Boicote a produtos e instituições britânicas, marchas e recusa a colaborar: a arma foi tornar o território ingovernável sem disparar. O preço veio na partição, cuja violência entre hindus e muçulmanos matou centenas de milhares em poucos meses. Descrever o processo como pacífico do começo ao fim é justamente o que apaga esse desfecho.",
+                         "formato":  "lacunas"
+                     },
+                     {
+                         "id":  "historia-177",
+                         "texto_apoio":  "As fronteiras dos Estados africanos independentes correspondem, em grande parte, aos limites definidos entre potências europeias na Conferência de Berlim, no final do século XIX.",
+                         "enunciado":  "A manutenção desses limites após as independências contribuiu para:",
+                         "alternativas":  {
+                                              "a":  "a eliminação dos conflitos internos, uma vez que as fronteiras já estavam consolidadas e eram reconhecidas por todos os grupos de cada território",
+                                              "b":  "a formação de Estados etnicamente homogêneos, condição que facilitou a construção de identidades nacionais nos países recém-independentes",
+                                              "c":  "a reunificação dos grupos anteriormente separados pela administração colonial, objetivo alcançado logo após a saída das potências europeias",
+                                              "d":  "tensões internas e conflitos de fronteira, ao reunir num mesmo Estado grupos rivais e dividir outros entre dois ou mais países independentes",
+                                              "e":  "o desaparecimento da influência econômica europeia sobre o continente, substituída por acordos firmados apenas entre os próprios países africanos"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A linha foi traçada em Berlim, com régua e sem africanos na sala. Preservá-la evitou uma guerra generalizada por revisão de limites, mas transferiu o problema para dentro dos Estados, e é aí que Nigéria, Sudão e Ruanda entram na conta. Supor Estados etnicamente homogêneos afirma exatamente o contrário do que o mapa mostra.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-178",
+                         "texto_apoio":  "O regime sul-africano criou territórios chamados bantustões, apresentados como Estados independentes destinados à população negra, e vinculou a permanência dessa população nas áreas brancas à posse de documentos de trabalho.",
+                         "enunciado":  "A finalidade desse arranjo era:",
+                         "alternativas":  {
+                                              "a":  "conceder autonomia política efetiva à população negra, que passou a administrar territórios reconhecidos internacionalmente como Estados soberanos",
+                                              "b":  "promover a integração das populações no mesmo território nacional, com igualdade de direitos assegurada pela legislação do país naquele período",
+                                              "c":  "transferir a população branca para regiões delimitadas, invertendo a distribuição territorial vigente até então no território sul-africano",
+                                              "d":  "reduzir a dependência econômica das áreas urbanas em relação ao trabalho da população negra, dispensada das atividades industriais e domésticas",
+                                              "e":  "retirar a cidadania sul-africana da maioria da população, mantendo sua força de trabalho disponível nas áreas reservadas à população branca do país"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O truque jurídico era transformar a maioria em estrangeira no próprio país sem perder o trabalhador: ele entrava para trabalhar e não podia residir nem votar. Nenhum outro Estado reconheceu os bantustões, de modo que aceitar a tese da autonomia é comprar a versão oficial do regime.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "historia-179",
+                         "texto_apoio":  "Nos anos que se seguiram à dissolução da União Soviética, a Rússia adotou privatizações aceleradas, liberação de preços e corte de gastos públicos. No mesmo período, registraram-se queda da produção industrial, aumento do desemprego e redução da expectativa de vida masculina.",
+                         "enunciado":  "A relação entre esses dois conjuntos de dados é hoje interpretada como evidência de que:",
+                         "alternativas":  {
+                                              "a":  "a transição para a economia de mercado não produz efeitos sociais mensuráveis, sendo os indicadores de saúde determinados apenas por fatores biológicos",
+                                              "b":  "a queda da expectativa de vida decorreu exclusivamente do sistema de saúde herdado do período soviético, sem relação com a política econômica adotada",
+                                              "c":  "mudanças econômicas abruptas produzem efeitos sobre a saúde da população, por meio do desemprego, da insegurança e da desorganização dos serviços públicos",
+                                              "d":  "a expectativa de vida na União Soviética já vinha aumentando de forma contínua, o que torna o período posterior a 1991 irrelevante para a análise",
+                                              "e":  "os indicadores sociais melhoraram ao longo dos anos 1990, tendência interrompida apenas com a retomada do crescimento econômico na década seguinte"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Perder emprego, renda e horizonte adoece, e na Rússia dos anos 1990 isso apareceu em mortalidade ligada ao álcool, à violência e a doenças cardiovasculares, sobretudo entre homens em idade produtiva. Isolar o sistema de saúde como única causa ignora que ele foi desorganizado pelo mesmo processo que desorganizou o resto.",
+                         "formato":  "direta",
+                         "dificuldade":  "dificil"
+                     },
+                     {
+                         "id":  "historia-180",
+                         "texto_apoio":  "A partir dos anos 1980, ampliaram-se a mobilidade internacional de capitais, a fragmentação das etapas produtivas entre países e a formação de blocos econômicos regionais. No mesmo período, muitos países endureceram as regras de entrada de imigrantes.",
+                         "enunciado":  "Essa combinação evidencia que a globalização:",
+                         "alternativas":  {
+                                              "a":  "eliminou as fronteiras nacionais em todas as suas dimensões, tornando irrelevante a distinção entre países no funcionamento da economia mundial",
+                                              "b":  "liberou a circulação de mercadorias e capitais sem estender a mesma liberdade à circulação de pessoas",
+                                              "c":  "reduziu a desigualdade entre os países, uma vez que a fragmentação produtiva distribuiu de forma equilibrada a renda gerada em cada cadeia",
+                                              "d":  "restringiu-se ao campo cultural, sem consequências sobre a organização da produção industrial e sobre os fluxos financeiros internacionais",
+                                              "e":  "foi conduzida principalmente pelos países periféricos, que definiram as regras do comércio internacional adotadas a partir daquela década"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O contêiner atravessa a fronteira; o trabalhador esbarra nela. Essa assimetria é o traço que as bancas cobram e explica boa parte das tensões políticas recentes. O clichê do mundo sem fronteiras é desmentido pela própria existência de muros, vistos e cotas de imigração.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-181",
+                         "texto_apoio":  "Após 2001, diversos países aprovaram leis que ampliaram os poderes de vigilância, detenção e investigação das agências de segurança, com prazos e controles judiciais reduzidos.",
+                         "enunciado":  "O debate suscitado por essas medidas envolve:",
+                         "alternativas":  {
+                                              "a":  "a tensão entre segurança coletiva e garantias individuais, uma vez que medidas de exceção tendem a se prolongar além da emergência que as justificou",
+                                              "b":  "a impossibilidade técnica de vigiar comunicações eletrônicas, o que tornou as leis aprovadas inaplicáveis desde o momento de sua promulgação",
+                                              "c":  "a ausência de qualquer precedente histórico de restrição de direitos em nome da segurança, o que caracterizaria uma novidade do século XXI",
+                                              "d":  "a recusa unânime da opinião pública dos países envolvidos, que rejeitou desde o primeiro momento a ampliação dos poderes das agências",
+                                              "e":  "a exclusividade de aplicação dessas normas a cidadãos estrangeiros, restrição que afastou qualquer discussão sobre direitos no âmbito interno"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Medida de exceção nasce com prazo e envelhece sem ele, de Roma às leis antiterror. Supor que se trata de uma novidade do século XXI é a armadilha para quem estuda só o presente: restringir direitos em nome da emergência é figura recorrente, e é por isso que o precedente importa.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-182",
+                         "texto_apoio":  "Considere as afirmações a seguir sobre os movimentos iniciados no mundo árabe a partir do final de 2010. I. Entre os fatores que alimentaram os protestos estavam o desemprego entre jovens escolarizados, a alta dos preços dos alimentos e a permanência de governos autoritários por décadas. II. As redes sociais funcionaram como instrumento de convocação e de circulação de imagens, ainda que não expliquem por si sós a origem dos protestos. III. Os movimentos produziram desfechos semelhantes em todos os países atingidos, com a instalação de democracias estáveis em cada um deles.",
+                         "enunciado":  "Está correto o que se afirma em:",
+                         "alternativas":  {
+                                              "a":  "I, apenas",
+                                              "b":  "I e II, apenas",
+                                              "c":  "II e III, apenas",
+                                              "d":  "I e III, apenas",
+                                              "e":  "I, II e III"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "I reúne as causas materiais e políticas; II dá à internet o peso que ela teve, de meio e não de motor. III é falsa e é a pegadinha do conjunto: a Tunísia caminhou para eleições, o Egito voltou ao governo militar, e Líbia, Síria e Iêmen entraram em guerra civil. Tratar a Primavera Árabe como processo único leva a marcar as três.",
+                         "formato":  "escada",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "historia-183",
+                         "texto_apoio":  "As independências de Angola e de Moçambique, em 1975, foram seguidas por guerras civis prolongadas, nas quais os grupos em disputa receberam apoio militar e financeiro de potências externas.",
+                         "enunciado":  "Esse quadro mostra que a descolonização africana:",
+                         "alternativas":  {
+                                              "a":  "ocorreu à margem das disputas internacionais do período, uma vez que as potências evitaram envolver-se nos assuntos internos dos novos Estados",
+                                              "b":  "resultou em Estados imediatamente estáveis, cujos conflitos foram resolvidos por acordos firmados ainda no momento da independência",
+                                              "c":  "dependeu do apoio das antigas metrópoles, que financiaram a reconstrução econômica dos territórios logo após a retirada de suas administrações",
+                                              "d":  "foi atravessada pela lógica da Guerra Fria, e os conflitos internos foram convertidos em disputas por influência entre os dois blocos",
+                                              "e":  "foi conduzida integralmente pela Organização das Nações Unidas, responsável por administrar os territórios até a realização das primeiras eleições"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Independência não significou soberania plena: quem saiu foi Portugal, quem entrou foram apoios externos aos lados em disputa, com a África do Sul do apartheid no meio. Chamar esses conflitos de guerra por procuração é reconhecer que o tabuleiro era global; supor isolamento não se sustenta em nenhum continente durante a Guerra Fria.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-184",
+                         "texto_apoio":  "Entre 1947 e 1949, os dois blocos formalizaram instrumentos de organização política, econômica e militar dos países sob sua influência.",
+                         "enunciado":  "Do lado ocidental, a contenção do comunismo foi anunciada na ______ e a reconstrução econômica europeia foi financiada pelo ______; do lado soviético, a integração econômica coube ao ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "Doutrina Truman – Plano Marshall – Comecon, criado em 1949 para articular as economias dos países socialistas",
+                                              "b":  "Doutrina Monroe – Plano Dawes – Kominform, organismo encarregado do planejamento industrial dos países do Leste Europeu naquela década",
+                                              "c":  "Conferência de Ialta – Plano Schuman – Pacto de Varsóvia, aliança responsável pela distribuição de recursos entre as economias socialistas",
+                                              "d":  "Doutrina Brejnev – Plano Colombo – Comecon, organização que reuniu os países ocidentais interessados na reconstrução econômica do continente",
+                                              "e":  "Carta do Atlântico – Plano Marshall – Kominform, entidade encarregada da coordenação militar dos exércitos dos países socialistas do Leste"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Truman anuncia a política, Marshall a financia, o Comecon responde do outro lado. O par que mais confunde é Kominform e Comecon: o primeiro coordenava os partidos comunistas, o segundo, as economias. Trocar um pelo outro é o erro mais frequente do tema, e a Doutrina Monroe é um século mais antiga.",
+                         "formato":  "lacunas"
+                     },
+                     {
+                         "id":  "historia-185",
+                         "texto_apoio":  "Entre 1949 e 1955 foram criadas duas alianças militares que reuniam, de um lado, os Estados Unidos e países da Europa Ocidental e, de outro, a União Soviética e países do Leste Europeu. Nas décadas seguintes, ambos os blocos acumularam arsenais nucleares capazes de destruir o adversário mesmo depois de sofrer o primeiro ataque.",
+                         "enunciado":  "Essa situação, chamada equilíbrio do terror, ajuda a explicar por que:",
+                         "alternativas":  {
+                                              "a":  "os conflitos armados desapareceram do planeta durante todo o período, substituídos por negociações conduzidas pelas Nações Unidas",
+                                              "b":  "os arsenais nucleares foram desmontados ainda nos anos 1950, por acordo firmado entre as duas potências logo após a criação das alianças",
+                                              "c":  "as duas potências nunca chegaram a se enfrentar diretamente em larga escala, deslocando o confronto para conflitos periféricos e disputas indiretas",
+                                              "d":  "a corrida armamentista foi interrompida, uma vez que a capacidade de destruição já alcançada tornava desnecessário qualquer investimento adicional",
+                                              "e":  "os países europeus abandonaram as duas alianças, optando pela neutralidade militar diante do risco representado pelas armas nucleares"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Guerra direta significava destruição mútua, então a disputa foi terceirizada: Coreia, Vietnã, Afeganistão, América Latina, África. Confundir ausência de guerra entre as superpotências com ausência de guerra é o erro que a expressão guerra fria induz — as vítimas dos conflitos periféricos somam milhões.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-186",
+                         "texto_apoio":  "Em 1957 a União Soviética colocou em órbita o primeiro satélite artificial; em 1961, o primeiro ser humano no espaço. Em 1969, os Estados Unidos levaram uma tripulação à superfície da Lua.",
+                         "enunciado":  "Além do avanço técnico, essa disputa cumpria a função de:",
+                         "alternativas":  {
+                                              "a":  "substituir os investimentos militares dos dois países, que reduziram seus orçamentos de defesa para financiar os programas espaciais civis",
+                                              "b":  "estabelecer a exploração comercial imediata de recursos minerais fora da Terra, objetivo declarado pelos dois programas desde o início",
+                                              "c":  "viabilizar a ocupação humana permanente de outros corpos celestes, prevista para as duas décadas seguintes pelos planejadores dos dois países",
+                                              "d":  "encerrar a rivalidade entre as superpotências por meio da cooperação científica, iniciada com os primeiros lançamentos de satélites artificiais",
+                                              "e":  "demonstrar a superioridade de cada sistema político e econômico diante da opinião pública mundial, em disputa por prestígio e influência"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Quem chegasse primeiro provava que seu modelo funcionava melhor, e o susto do Sputnik chegou a reorganizar o ensino de ciências nos Estados Unidos. Tratar o programa espacial como substituto do militar ignora que eram o mesmo programa: o foguete que leva satélite leva ogiva.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-187",
+                         "texto_apoio":  "Antes de 1961, milhares de moradores da Alemanha Oriental passavam anualmente para o setor ocidental de Berlim, entre eles muitos profissionais com formação técnica e universitária. Em agosto daquele ano, o governo oriental ergueu um muro separando os dois setores da cidade.",
+                         "enunciado":  "A construção do muro respondia, sobretudo:",
+                         "alternativas":  {
+                                              "a":  "à necessidade de conter a saída de trabalhadores qualificados, cuja perda afetava setores inteiros da economia da Alemanha Oriental",
+                                              "b":  "a um acordo entre as quatro potências ocupantes, que decidiram dividir fisicamente a cidade logo após o fim da Segunda Guerra Mundial",
+                                              "c":  "ao risco de invasão militar da Alemanha Oriental por tropas ocidentais estacionadas na cidade desde o encerramento do conflito mundial",
+                                              "d":  "à intenção de impedir a entrada de moradores do setor ocidental na parte oriental, movimento que crescia desde o início daquela década",
+                                              "e":  "à exigência das Nações Unidas de delimitar as fronteiras entre os dois Estados alemães criados no final dos anos 1940"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O muro é anúncio de fraqueza, não de força: ele prende quem quer sair. Confundir a divisão da cidade em setores, de 1945, com a construção do muro, de 1961, erra a data e o agente — a obra foi do governo oriental, que a chamava oficialmente de barreira de proteção antifascista.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-188",
+                         "texto_apoio":  "Após 1959, o governo cubano universalizou o acesso a serviços de saúde, ampliou a formação de médicos e passou a enviar profissionais a países da África e da América Latina. O país convive, desde 1962, com um embargo comercial norte-americano.",
+                         "enunciado":  "O envio de profissionais de saúde a outros países funcionou para Cuba como:",
+                         "alternativas":  {
+                                              "a":  "única fonte de renda do país, que abandonou a produção agrícola e industrial para especializar-se na exportação de serviços médicos",
+                                              "b":  "instrumento de política externa, ampliando sua influência internacional apesar do isolamento comercial imposto pelo embargo",
+                                              "c":  "forma de reduzir o número de médicos no país, considerado excessivo pelo governo diante da demanda interna por atendimento",
+                                              "d":  "resposta a uma exigência das Nações Unidas, que condicionou o reconhecimento diplomático do governo cubano a esse tipo de cooperação",
+                                              "e":  "medida temporária, encerrada ainda nos anos 1960 com o restabelecimento das relações comerciais entre Cuba e os Estados Unidos"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Um país pequeno e bloqueado encontrou na formação de médicos uma moeda diplomática, e ela seguiu circulando muito depois do fim da Guerra Fria. A alternativa que fala em encerramento nos anos 1960 depende de um fato que nunca ocorreu: o embargo continua, com variações, há mais de seis décadas.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "historia-189",
+                         "texto_apoio":  "A guerra no Vietnã mobilizou centenas de milhares de soldados norte-americanos, foi transmitida diariamente pela televisão e envolveu o uso de desfolhantes químicos em larga escala sobre florestas e áreas cultivadas.",
+                         "enunciado":  "Entre as consequências desse conflito está:",
+                         "alternativas":  {
+                                              "a":  "o fortalecimento do consenso interno nos Estados Unidos em torno da política externa, apoiada de forma crescente pela opinião pública durante o conflito",
+                                              "b":  "a vitória militar norte-americana, seguida da instalação de um governo alinhado a Washington no território vietnamita ao final dos combates",
+                                              "c":  "o desgaste político dos Estados Unidos, com forte oposição interna, e efeitos duradouros sobre a saúde das populações expostas aos desfolhantes",
+                                              "d":  "a interrupção da cobertura jornalística de conflitos armados, prática abandonada pelos meios de comunicação a partir daquele momento",
+                                              "e":  "o abandono definitivo de intervenções militares norte-americanas fora de seu território, orientação mantida ao longo das décadas seguintes"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A imagem entrando na sala de casa mudou a política: foi a primeira guerra perdida também na opinião pública. E o agente laranja deixou herança médica, com contaminação por dioxina associada a cânceres e malformações em veteranos e vietnamitas décadas depois. Supor o fim das intervenções norte-americanas é desmentido pelo Golfo e pelo Iraque.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "historia-190",
+                         "texto_apoio":  "Em novembro de 1910, marinheiros da Marinha brasileira, em sua maioria negros, tomaram navios de guerra no Rio de Janeiro e exigiram o fim dos castigos físicos aplicados a bordo, além de melhores condições de alimentação e serviço.",
+                         "enunciado":  "Esse episódio, conhecido como Revolta da Chibata, evidencia:",
+                         "alternativas":  {
+                                              "a":  "a inexistência de hierarquia rígida na Marinha do período, o que permitiu a negociação direta entre marinheiros e oficiais sem qualquer conflito",
+                                              "b":  "o caráter estritamente político da revolta, cujas reivindicações se limitavam à substituição do presidente da República recém-empossado",
+                                              "c":  "o pioneirismo da Marinha na abolição dos castigos corporais, suprimidos das forças armadas brasileiras ainda no início do período republicano",
+                                              "d":  "a ausência de organização entre os revoltosos, que agiram isoladamente e sem qualquer articulação prévia entre as tripulações dos navios",
+                                              "e":  "a permanência de práticas do período escravista nas instituições republicanas, aplicadas sobretudo sobre os marinheiros, em sua maioria negros"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Vinte e dois anos depois da Lei Áurea, o Estado ainda açoitava trabalhadores negros, e a revolta foi anistiada no papel e punida na prática, com expulsões, prisões e mortes nos meses seguintes. Falar em ausência de organização é desmentido pela própria execução do movimento: houve articulação entre navios, escolha de comando e domínio técnico dos canhões.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "historia-191",
+                         "texto_apoio":  "Entre 1902 e 1906, a prefeitura do Rio de Janeiro abriu grandes avenidas no centro da cidade e demoliu cortiços e habitações coletivas, em obras justificadas pela necessidade de sanear a capital e de dar-lhe feição moderna.",
+                         "enunciado":  "Um efeito social dessas obras foi:",
+                         "alternativas":  {
+                                              "a":  "a construção de moradias populares no centro para as famílias removidas, que permaneceram nas mesmas áreas em condições melhores que as anteriores",
+                                              "b":  "a redução imediata da desigualdade urbana, uma vez que as novas avenidas beneficiaram igualmente todos os grupos sociais da capital federal",
+                                              "c":  "o fim das epidemias na cidade, resultado obtido exclusivamente pelas demolições, sem necessidade de campanhas sanitárias posteriores",
+                                              "d":  "a expulsão da população pobre do centro para os morros e para os subúrbios, processo ligado à formação das primeiras favelas cariocas",
+                                              "e":  "a interrupção do crescimento populacional da capital, que passou a perder habitantes para outras cidades a partir do início daquele período"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Sanear e embelezar significou, na prática, remover, e quem foi removido não recebeu casa: subiu o morro ou foi para o subúrbio. Vale separar duas coisas que costumam ser misturadas: a queda da febre amarela veio do combate ao mosquito e da vacinação, e não da picareta.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-192",
+                         "texto_apoio":  "Ao longo dos anos 1930 e do início dos anos 1940, o governo brasileiro manteve relações comerciais com a Alemanha e com os Estados Unidos e negociou sua posição diante do conflito mundial que se aproximava.",
+                         "enunciado":  "Essa política ficou conhecida como ______; seu resultado mais visível foi ______, obtido em troca ______. As lacunas são preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "política de boa vizinhança – a criação da Petrobras – da adesão brasileira ao bloco soviético durante o período final do conflito mundial",
+                                              "b":  "equidistância pragmática – o financiamento da usina siderúrgica de Volta Redonda – da cessão de bases militares no Nordeste e do alinhamento aos Estados Unidos",
+                                              "c":  "política de substituição de importações – a construção de Brasília – da abertura do mercado interno brasileiro aos produtos manufaturados alemães",
+                                              "d":  "neutralidade armada – a criação da Companhia Vale do Rio Doce – da recusa brasileira em participar do conflito e em ceder apoio a qualquer beligerante",
+                                              "e":  "diplomacia da cordialidade – a instalação da indústria automobilística – do rompimento imediato com a Alemanha ainda no início da década de 1930"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Vargas leiloou a posição estratégica do Nordeste e recebeu financiamento para a siderurgia; o Estado brasileiro entrou na indústria pesada por essa porta. Confundir a fase inicial de neutralidade com o desfecho é o erro do tema: o Brasil rompeu relações em 1942 e enviou tropas à Itália em 1944.",
+                         "formato":  "lacunas",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "historia-193",
+                         "texto_apoio":  "Em 1932, São Paulo pegou em armas contra o governo provisório, exigindo a convocação de uma assembleia constituinte. O movimento foi derrotado militarmente em poucos meses.",
+                         "enunciado":  "Apesar da derrota militar, o movimento:",
+                         "alternativas":  {
+                                              "a":  "levou à imediata renúncia de Getúlio Vargas, substituído por um governo civil escolhido pelas oligarquias paulistas ainda em 1932",
+                                              "b":  "resultou na separação de São Paulo do restante da federação, situação mantida até a instalação do Estado Novo em novembro de 1937",
+                                              "c":  "impediu qualquer alteração na legislação eleitoral brasileira, que permaneceu inalterada até o final do período conhecido como Era Vargas",
+                                              "d":  "provocou o cancelamento das medidas trabalhistas adotadas pelo governo provisório, revogadas por exigência dos vencedores do conflito",
+                                              "e":  "obteve seu objetivo político principal, com a eleição de uma constituinte em 1933 e a promulgação de nova Constituição no ano seguinte"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Perdeu no campo de batalha e ganhou a pauta: a Constituinte foi convocada, e a Constituição de 1934 trouxe voto feminino, voto secreto, Justiça do Trabalho e legislação social. Afirmar que nada mudou na legislação eleitoral ignora justamente a mudança mais importante do período, o Código Eleitoral de 1932.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "historia-194",
+                         "texto_apoio":  "A partir do final dos anos 1960, o governo militar abriu rodovias na Amazônia, incentivou projetos agropecuários com crédito subsidiado e promoveu a migração de famílias de outras regiões para as áreas de floresta, sob lemas de integração nacional.",
+                         "enunciado":  "Entre as consequências desse conjunto de políticas está:",
+                         "alternativas":  {
+                                              "a":  "a demarcação prévia das terras indígenas atingidas, condição estabelecida pelo governo antes do início das obras rodoviárias na região",
+                                              "b":  "a distribuição equitativa de terras entre as famílias migrantes, que receberam lotes regularizados e assistência técnica permanente no local",
+                                              "c":  "a interrupção da expansão da pecuária na região, substituída por projetos de manejo florestal financiados pelo governo federal no período",
+                                              "d":  "o desmatamento acelerado e o contato forçado com povos indígenas, com epidemias e mortes documentadas em investigações oficiais posteriores",
+                                              "e":  "a redução dos conflitos fundiários na Amazônia, resolvidos por acordos firmados entre posseiros, indígenas e empresas antes da chegada das estradas"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Estrada aberta em território indígena leva doença antes de levar desenvolvimento: sarampo, gripe e malária dizimaram grupos recém-contatados, episódios reconstituídos pela Comissão Nacional da Verdade. A alternativa dos lotes regularizados descreve a promessa dos programas de colonização; o resultado foi grilagem, conflito e concentração fundiária.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "historia-195",
+                         "texto_apoio":  "Durante o regime militar brasileiro, funcionaram órgãos como o Serviço Nacional de Informações, os DOI-CODI e os antigos DOPS, com orçamento próprio, quadro de pessoal e rotinas de interrogatório padronizadas.",
+                         "enunciado":  "A existência dessa estrutura sustenta a interpretação de que a repressão política do período:",
+                         "alternativas":  {
+                                              "a":  "limitou-se ao período posterior ao Ato Institucional n. 5, não havendo registro de prisões políticas antes de dezembro de 1968 no país",
+                                              "b":  "foi conduzida por grupos privados sem vínculo com as forças armadas, o que afastaria a responsabilidade das instituições do Estado brasileiro",
+                                              "c":  "restringiu-se à vigilância de informações, sem prática de detenção arbitrária ou de tortura nos órgãos mencionados durante o período",
+                                              "d":  "atingiu exclusivamente militantes de organizações armadas, poupando estudantes, sindicalistas, religiosos e jornalistas ao longo de todo o regime",
+                                              "e":  "constituiu política de Estado organizada, e não um conjunto de excessos cometidos por agentes isolados"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Orçamento, hierarquia, treinamento e rotina não são características de desvio individual, e sim de política. É por isso que a tese dos excessos de agentes isolados não se sustenta diante da documentação: a estrutura era oficial, e a violência, funcional a ela.",
+                         "formato":  "direta",
+                         "dificuldade":  "media"
                      }
                  ],
     "ingles":  [
@@ -21602,6 +23309,944 @@ window.QUESTION_BANKS = {
                                         },
                        "resposta":  "e",
                        "explicacao":  "A gramática aparece a serviço da leitura: identificar a que \"it\" se refere, o que \"however\" articula, o que um modal comunica. Quem lê bem resolve a maioria sem conjugar nada.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-151",
+                       "texto_apoio":  "Brazil once had one of the strongest childhood immunisation programmes in the world, and coverage above ninety-five per cent was normal for decades. Recent surveys, ______, show that the proportion of fully immunised children has fallen below eighty per cent in several states.",
+                       "enunciado":  "A lacuna é corretamente preenchida por:",
+                       "alternativas":  {
+                                            "a":  "therefore",
+                                            "b":  "moreover",
+                                            "c":  "so",
+                                            "d":  "however",
+                                            "e":  "because"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "A segunda frase contraria a expectativa criada pela primeira: cobertura alta por décadas, queda agora. Só um conectivo adversativo dá conta disso. \"Therefore\" e \"so\" anunciariam consequência e \"because\", causa; a armadilha real é \"moreover\", escolhido por quem lê \"recent surveys show\" como continuidade da mesma ideia e não percebe a oposição.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-152",
+                       "texto_apoio":  "Antibiotics act on bacteria and have no effect whatsoever on viruses. A common cold is caused by viruses. Prescribing an antibiotic for it is ______ useless, and it helps resistant strains spread in the community.",
+                       "enunciado":  "Considerando a relação lógica entre as três frases, a lacuna deve ser preenchida por:",
+                       "alternativas":  {
+                                            "a":  "nevertheless",
+                                            "b":  "although",
+                                            "c":  "whereas",
+                                            "d":  "unless",
+                                            "e":  "therefore"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "As duas primeiras frases são premissas e a terceira é a conclusão que decorre delas, o que exige conectivo conclusivo. \"Nevertheless\" é perfeitamente gramatical naquela posição, e é por isso que derruba: ele marcaria contraste e inverteria a relação lógica que o texto constrói.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-153",
+                       "texto_apoio":  "______ the vaccine was developed in record time, it went through every phase of clinical testing required by regulators. What was compressed was the waiting between the phases, not the phases themselves.",
+                       "enunciado":  "A lacuna admite \"although\", mas não \"despite\", porque:",
+                       "alternativas":  {
+                                            "a":  "os dois termos têm sentidos opostos, e apenas o primeiro é concessivo",
+                                            "b":  "\"despite\" pertence à língua falada, e o trecho exige registro formal escrito",
+                                            "c":  "depois da lacuna vem uma oração com sujeito e verbo, e \"despite\" rege substantivo ou gerúndio",
+                                            "d":  "\"although\" pode abrir período, ao passo que \"despite\" só ocorre no interior da frase",
+                                            "e":  "o verbo da oração seguinte está na voz passiva, o que exclui o emprego de \"despite\""
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"Although\" é conjunção e rege oração; \"despite\" é preposição e rege substantivo ou gerúndio. Os dois têm exatamente o mesmo sentido concessivo, o que elimina a alternativa (a) — e é justamente essa igualdade de sentido que faz o candidato escolher pelo significado, sem olhar a estrutura que vem depois da lacuna.",
+                       "formato":  "direta",
+                       "dificuldade":  "media"
+                   },
+                   {
+                       "id":  "ingles-154",
+                       "texto_apoio":  "Oral rehydration salts cost a few cents a sachet and can be given by anyone, at home, with clean water. ______ their low cost, they remain underused in many regions where diarrhoea is still a leading cause of death in children under five.",
+                       "enunciado":  "A lacuna é corretamente preenchida por:",
+                       "alternativas":  {
+                                            "a":  "Although",
+                                            "b":  "Despite",
+                                            "c":  "Even though",
+                                            "d":  "Whereas",
+                                            "e":  "Because of"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Depois da lacuna vem um sintagma nominal (\"their low cost\"), o que elimina de saída \"although\", \"even though\" e \"whereas\", todas conjunções que pedem oração. Restam \"despite\" e \"because of\", ambos regentes de substantivo — e aí decide o sentido: \"because of\" inverteria a lógica, porque o custo baixo deveria favorecer o uso, e o texto registra o contrário.",
+                       "formato":  "direta",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-155",
+                       "texto_apoio":  "The age at which people die of cancer says a great deal about the health system around them. In high-income countries most cancer deaths occur after the age of seventy, whereas in low-income countries a large share of patients die before sixty.",
+                       "enunciado":  "A relação que \"whereas\" estabelece entre as duas orações é de:",
+                       "alternativas":  {
+                                            "a":  "contraste entre duas situações paralelas e opostas",
+                                            "b":  "causa da situação descrita na primeira oração",
+                                            "c":  "conclusão a que a primeira oração conduz",
+                                            "d":  "finalidade das políticas adotadas nos países ricos",
+                                            "e":  "condição para que a primeira oração se verifique"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "As duas orações apresentam cenários paralelos e opostos, sem que um seja causa do outro: é o contraste comparativo, papel próprio de \"whereas\". Quem marca a relação de causa lê como explicação uma frase que apenas põe os dois casos lado a lado — nada no texto diz que a idade de morte num grupo de países determina a do outro.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-156",
+                       "texto_apoio":  "The trial found no benefit for the drug in mild cases, and the safety board recommended that it should not be used in that group. Nevertheless, the manufacturer went on promoting it for exactly those patients for another two years.",
+                       "enunciado":  "Assinale a alternativa em que a relação lógica do conectivo está INCORRETAMENTE descrita:",
+                       "alternativas":  {
+                                            "a":  "\"therefore\" introduz uma conclusão",
+                                            "b":  "\"whereas\" introduz uma finalidade",
+                                            "c":  "\"nevertheless\" introduz um contraste",
+                                            "d":  "\"moreover\" introduz um acréscimo",
+                                            "e":  "\"unless\" introduz uma condição negativa"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "\"Whereas\" marca contraste entre situações paralelas, nunca finalidade — papel que caberia a \"so that\" ou \"in order to\". As outras quatro descrições estão corretas, inclusive a de \"nevertheless\", conectivo efetivamente empregado no texto. A armadilha é procurar a descrição certa em vez da errada, hábito de quem lê o comando pela metade e marca (c).",
+                       "formato":  "direta",
+                       "dificuldade":  "media"
+                   },
+                   {
+                       "id":  "ingles-157",
+                       "texto_apoio":  "Air pollution is usually discussed as a problem of the lungs, and it does worsen asthma in children and adults. ______, it raises the risk of heart attack and stroke in people who have never smoked and have no respiratory disease at all.",
+                       "enunciado":  "Considerando o sentido do texto, a única expressão que NÃO pode preencher a lacuna é:",
+                       "alternativas":  {
+                                            "a":  "Moreover",
+                                            "b":  "Furthermore",
+                                            "c":  "In addition",
+                                            "d":  "However",
+                                            "e":  "What is more"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Quatro das cinco expressões são aditivas e intercambiáveis nessa posição; a segunda frase amplia o argumento, não o contraria. \"However\" é adversativo e inverteria a relação. A armadilha é o comando negativo: quem procura por hábito a alternativa que preenche a lacuna marca (a), que é correta justamente por isso.",
+                       "formato":  "direta",
+                       "dificuldade":  "media"
+                   },
+                   {
+                       "id":  "ingles-158",
+                       "texto_apoio":  "Screening programmes find tumours earlier, when treatment tends to work better. They also find lesions that would never have caused any harm, and those patients are treated all the same. Both effects, therefore, have to be weighed before a programme is recommended for a whole population.",
+                       "enunciado":  "No trecho, a palavra \"therefore\" introduz:",
+                       "alternativas":  {
+                                            "a":  "um exemplo que ilustra a frase imediatamente anterior",
+                                            "b":  "um contraste com aquilo que acaba de ser afirmado",
+                                            "c":  "uma condição para que as afirmações anteriores se sustentem",
+                                            "d":  "uma reformulação da primeira frase em termos mais simples",
+                                            "e":  "uma conclusão extraída das duas frases anteriores"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "As duas primeiras frases apresentam um efeito desejável e um efeito indesejável; a terceira tira daí o que se deve fazer. \"Therefore\" é sempre conclusivo. A alternativa de contraste atrai porque as duas primeiras frases realmente se opõem entre si — mas a oposição está entre elas, e não entre elas e a conclusão.",
+                       "formato":  "direta",
+                       "dificuldade":  "media"
+                   },
+                   {
+                       "id":  "ingles-159",
+                       "texto_apoio":  "Sleep deprivation slows reaction time about as much as alcohol does, and the evidence for this has been stable for thirty years. ______, hospitals in many countries still schedule shifts of twenty-four hours or more for residents. ______ some countries have reduced the maximum shift length by law, enforcement remains weak.",
+                       "enunciado":  "As lacunas são corretamente preenchidas, respectivamente, por:",
+                       "alternativas":  {
+                                            "a":  "therefore – Because",
+                                            "b":  "moreover – Unless",
+                                            "c":  "however – Although",
+                                            "d":  "thus – Despite",
+                                            "e":  "instead – Whether"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A primeira lacuna opõe o que se sabe ao que se pratica; a segunda concede um avanço antes de registrar o limite. A alternativa (d) acerta o sentido nas duas posições, e é por isso a mais perigosa: \"despite\" não pode reger a oração \"some countries have reduced\", porque exige substantivo ou gerúndio.",
+                       "formato":  "lacunas",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-160",
+                       "texto_apoio":  "Telemedicine has put specialist advice within reach of towns that have never had a resident cardiologist. ______, it has made it harder to notice the signs that only a face-to-face examination reveals: the smell of a wound, the way a patient stands up from a chair.",
+                       "enunciado":  "A lacuna pede uma expressão que apresente o outro lado do balanço, sem negar o que foi dito antes. Ela é preenchida por:",
+                       "alternativas":  {
+                                            "a":  "On the contrary",
+                                            "b":  "In other words",
+                                            "c":  "For instance",
+                                            "d":  "On the other hand",
+                                            "e":  "As a result"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "As duas frases são verdadeiras ao mesmo tempo e apontam para lados opostos do mesmo balanço: é \"on the other hand\". \"On the contrary\" só cabe quando a segunda frase nega a primeira, e é a troca mais frequente de todo o bloco de conectivos, porque as duas expressões costumam ser vertidas pela mesma fórmula em português.",
+                       "formato":  "direta",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-161",
+                       "texto_apoio":  "The bacterium was found in three water tanks that had not been cleaned for over a year. Every patient in the outbreak had been in the building supplied by those tanks. The outbreak was thus traced to a failure of routine maintenance, not to a new or unusually aggressive strain.",
+                       "enunciado":  "No trecho, a palavra \"thus\" pode ser substituída, sem alteração de sentido, por:",
+                       "alternativas":  {
+                                            "a":  "consequently",
+                                            "b":  "still",
+                                            "c":  "meanwhile",
+                                            "d":  "besides",
+                                            "e":  "instead"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"Thus\" apresenta o que decorre das evidências dadas antes, e \"consequently\" faz exatamente isso. \"Still\" seria adversativo e \"besides\", aditivo: são as duas alternativas que atraem quem traduz \"thus\" por \"assim\" sem notar que, nesse contexto, \"assim\" equivale a \"portanto\".",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-162",
+                       "texto_apoio":  "Fever, joint pain and rash appear in dengue and in chikungunya, and the first days of the two diseases can be indistinguishable at the bedside. ______ the symptoms overlap so closely, laboratory confirmation is often the only way to tell the two infections apart.",
+                       "enunciado":  "A relação entre as duas orações é de causa e consequência. A lacuna é preenchida por:",
+                       "alternativas":  {
+                                            "a":  "While",
+                                            "b":  "Whereas",
+                                            "c":  "Although",
+                                            "d":  "So that",
+                                            "e":  "Since"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "\"Since\" vale em inglês tanto para tempo quanto para causa, e aqui, com a relação causal dada no enunciado, é a única alternativa possível. A armadilha é descartá-lo por conhecê-lo apenas como \"desde\", o que empurra o candidato para \"while\" ou \"although\" — conectivos temporal e concessivo, não causais.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-163",
+                       "texto_apoio":  "Resistant bacteria are selected every time an antibiotic is used, in hospitals, in pharmacies and in animal feed. Resistance will keep growing ______ prescribing habits change in human medicine and in farming at the same time.",
+                       "enunciado":  "O sentido pretendido é o de que a resistência só deixará de crescer se os hábitos mudarem. A lacuna é preenchida por:",
+                       "alternativas":  {
+                                            "a":  "if",
+                                            "b":  "unless",
+                                            "c":  "in case",
+                                            "d":  "provided",
+                                            "e":  "although"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "\"Unless\" equivale a \"if not\": a resistência continua crescendo caso os hábitos não mudem. \"If\" e \"provided\" são gramaticais na lacuna, mas dizem o oposto — que a resistência cresce se os hábitos mudarem —, e é essa aparência de boa formação que faz a alternativa (a) ser tão escolhida.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-164",
+                       "texto_apoio":  "Most vaccines are kept between two and eight degrees Celsius from the factory to the health post. Freezing damages them as much as heat does. The temperature is controlled at every step ______ the active ingredient does not lose its effect before it reaches the patient.",
+                       "enunciado":  "A alternativa que preenche a lacuna, exprimindo a finalidade do controle de temperatura, é:",
+                       "alternativas":  {
+                                            "a":  "in order to",
+                                            "b":  "because of",
+                                            "c":  "such as",
+                                            "d":  "so that",
+                                            "e":  "even so"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Depois da lacuna vem uma oração com sujeito próprio (\"the active ingredient does not lose\"), e a finalidade nesse caso se expressa com \"so that\". \"In order to\" carrega o mesmo sentido, mas exige infinitivo sem sujeito expresso — a alternativa erra pela estrutura, não pelo significado, e por isso engana quem responde pelo enunciado sem reler a lacuna.",
+                       "formato":  "direta",
+                       "dificuldade":  "media"
+                   },
+                   {
+                       "id":  "ingles-165",
+                       "texto_apoio":  "Tuberculosis treatment lasts six months, and the patient stops feeling ill after three or four weeks. Adherence has to be monitored closely; ______, many people abandon the drugs as soon as the cough disappears, and the bacteria that survive are the hardest ones to kill.",
+                       "enunciado":  "A lacuna pede um termo que introduza o que ocorreria caso a recomendação anterior não fosse cumprida. Trata-se de:",
+                       "alternativas":  {
+                                            "a":  "otherwise",
+                                            "b":  "therefore",
+                                            "c":  "similarly",
+                                            "d":  "meanwhile",
+                                            "e":  "indeed"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"Otherwise\" equivale a \"se isso não for feito\" e liga a exigência de acompanhamento à consequência de não cumpri-la. \"Therefore\" transformaria o abandono do tratamento em resultado do acompanhamento próximo, exatamente o contrário do que o texto afirma.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-166",
+                       "texto_apoio":  "Almost every doctor now sees patients who arrive with a diagnosis already in hand. Many people search online ______ calling the clinic. What they find is rarely wrong in itself, but it is almost never organised around their own history.",
+                       "enunciado":  "A lacuna é corretamente preenchida por:",
+                       "alternativas":  {
+                                            "a":  "instead",
+                                            "b":  "rather",
+                                            "c":  "instead of",
+                                            "d":  "besides",
+                                            "e":  "in spite of"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Para introduzir a ação substituída é preciso a locução prepositiva \"instead of\" seguida de gerúndio. \"Instead\" sozinho é advérbio e não rege complemento — é a alternativa que pega quem confia no vocabulário e não na sintaxe. \"Besides\" e \"in spite of\" estão bem formados, mas somam ou concedem, quando o texto troca uma ação pela outra.",
+                       "formato":  "direta",
+                       "dificuldade":  "media"
+                   },
+                   {
+                       "id":  "ingles-167",
+                       "texto_apoio":  "During the second wave the bottleneck was not equipment. Even though the hospital had enough beds and enough ventilators, it could not open the extra ward: there were no trained nurses to staff it.",
+                       "enunciado":  "A reescrita que preserva a relação lógica do período destacado é:",
+                       "alternativas":  {
+                                            "a":  "Despite the hospital had enough beds, it could not open the extra ward.",
+                                            "b":  "Despite having enough beds and ventilators, the hospital could not open the extra ward.",
+                                            "c":  "Because the hospital had enough beds, it could not open the extra ward.",
+                                            "d":  "The hospital had enough beds; therefore, it could not open the extra ward.",
+                                            "e":  "Unless the hospital had enough beds, it could not open the extra ward."
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A concessão se mantém quando a conjunção \"even though\" dá lugar à preposição \"despite\", que exige gerúndio: \"despite having\". A alternativa (a) preserva o sentido e é a mais marcada, mas repete o erro de fazer \"despite\" reger oração; (c) e (d) trocam a concessão por causa e consequência, invertendo o argumento.",
+                       "formato":  "direta",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-168",
+                       "texto_apoio":  "Consider the three sentences below.\nI. The ward was full; consequently, patients waited in the corridor.\nII. The ward was full; nevertheless, patients waited in the corridor.\nIII. The ward was full; therefore, patients waited in the corridor.",
+                       "enunciado":  "O conectivo estabelece uma relação coerente entre as duas orações apenas em:",
+                       "alternativas":  {
+                                            "a":  "I, apenas",
+                                            "b":  "II, apenas",
+                                            "c":  "I e III, apenas",
+                                            "d":  "II e III, apenas",
+                                            "e":  "I, II e III"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Esperar no corredor é consequência de a enfermaria estar lotada, e \"consequently\" e \"therefore\" marcam consequência. \"Nevertheless\" exigiria que a segunda oração contrariasse a expectativa criada pela primeira, o que não ocorre. Quem marca (e) está conferindo apenas se as três frases estão gramaticais, sem avaliar a relação lógica que cada conectivo impõe.",
+                       "formato":  "escada",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-169",
+                       "texto_apoio":  "Mosquito control is usually justified by the number of infections it prevents. ______ reducing the number of new cases, it lowers the cost of hospital care during epidemic years and frees beds that would otherwise be occupied for days.",
+                       "enunciado":  "A lacuna é corretamente preenchida por:",
+                       "alternativas":  {
+                                            "a":  "In addition",
+                                            "b":  "Besides that",
+                                            "c":  "Additionally",
+                                            "d":  "In addition to",
+                                            "e":  "As well"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Diante de gerúndio, a única forma possível entre as oferecidas é a locução prepositiva \"in addition to\". \"In addition\" e \"additionally\" são advérbios conectivos e ligam orações completas, não sintagmas. A alternativa (e) é a mais cruel: \"as well as reducing\" seria correto, mas \"as well\" sozinho não rege nada.",
+                       "formato":  "direta",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-170",
+                       "texto_apoio":  "Three diseases account for most of the burden in the region and absorb most of the money spent on it — ______, malaria, tuberculosis and HIV. Everything else competes for what is left.",
+                       "enunciado":  "A lacuna pede um conectivo que apresente a lista completa anunciada na primeira oração. Ele é:",
+                       "alternativas":  {
+                                            "a":  "such as",
+                                            "b":  "for example",
+                                            "c":  "however",
+                                            "d":  "instead",
+                                            "e":  "namely"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "\"Namely\" especifica exatamente aquilo que foi anunciado: as três doenças mencionadas são essas três. \"Such as\" e \"for example\" apresentariam apenas uma amostra de um conjunto maior, o que contradiz o \"three diseases\" do início — a lista deixaria de ser fechada, e é aí que a maioria erra, por tratar os três conectivos como sinônimos.",
+                       "formato":  "direta",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-171",
+                       "texto_apoio":  "The effect of handwashing on infection has been known since the nineteenth century, and no other measure costs so little. Handwashing is the cheapest infection-control procedure ever described, yet compliance among hospital staff rarely goes above sixty per cent, even in units where the dispensers are within arm\u0027s reach.",
+                       "enunciado":  "No trecho, \"yet\" exprime:",
+                       "alternativas":  {
+                                            "a":  "o acréscimo de uma segunda medida à que já foi mencionada",
+                                            "b":  "o contraste entre o que se esperaria e o que de fato ocorre",
+                                            "c":  "o momento em que a medida começou a ser adotada nos hospitais",
+                                            "d":  "a finalidade para a qual a medida de controle foi criada",
+                                            "e":  "a condição necessária para que a adesão venha a aumentar"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Como conjunção, \"yet\" equivale a \"but\" e opõe o custo baixíssimo da medida à adesão baixa. A alternativa temporal atrai quem só conhece \"yet\" como advérbio de \"not yet\" e \"already\", uso que não cabe ligando duas orações coordenadas.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-172",
+                       "texto_apoio":  "Heat waves are getting longer in Brazilian cities, and the link between extreme heat and mortality is well documented in the literature. ______, the official number of deaths attributed to heat remains very low, ______ most death certificates record only the immediate cause of death.",
+                       "enunciado":  "As lacunas são corretamente preenchidas, respectivamente, por:",
+                       "alternativas":  {
+                                            "a":  "However – because",
+                                            "b":  "Moreover – although",
+                                            "c":  "Therefore – since",
+                                            "d":  "However – so",
+                                            "e":  "Nevertheless – whereas"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A primeira lacuna opõe o que a literatura mostra ao que os registros oficiais dizem; a segunda apresenta a causa desse número baixo. A alternativa (e) é a armadilha: acerta o primeiro conectivo, já que \"nevertheless\" também é adversativo, e erra o segundo, porque \"whereas\" contrastaria dois fatos paralelos, e a oração final explica a anterior em vez de se opor a ela.",
+                       "formato":  "lacunas",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-173",
+                       "texto_apoio":  "The study followed four thousand adults ______ parents had both been diagnosed with type 2 diabetes before the age of fifty. None of the participants had the disease when they entered the study.",
+                       "enunciado":  "Considerando a relação que a lacuna estabelece entre \"adults\" e \"parents\", ela é preenchida por:",
+                       "alternativas":  {
+                                            "a":  "who, relativo de pessoa em função de sujeito",
+                                            "b":  "which, relativo que retoma antecedente não humano",
+                                            "c":  "whose, relativo que liga o antecedente ao termo seguinte",
+                                            "d":  "that, relativo de pessoa ou de coisa em oração restritiva",
+                                            "e":  "whom, relativo de pessoa em função de objeto"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "O relativo liga os adultos aos pais deles, e essa relação de posse só é marcada por \"whose\". \"Who\" e \"that\" caberiam se o pronome fosse sujeito do verbo seguinte, mas o sujeito já está expresso — é \"parents\". Quem marca \"who\" enxerga apenas o traço humano do antecedente e não verifica a função sintática do relativo.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-174",
+                       "texto_apoio":  "The new protocol asks the triage nurse to start the blood tests before the doctor sees the patient. In the first six months it cut the average waiting time by half, ______ surprised even the team that had designed it.",
+                       "enunciado":  "O emprego de \"that\" na lacuna é impossível porque:",
+                       "alternativas":  {
+                                            "a":  "o antecedente da lacuna é um sintagma numérico, e não um substantivo",
+                                            "b":  "\"that\" não pode ocupar a posição de sujeito de uma oração relativa",
+                                            "c":  "\"that\" só retoma antecedentes humanos, e o antecedente aqui não é humano",
+                                            "d":  "a lacuna vem depois de um verbo no past simple, tempo que exige \"which\"",
+                                            "e":  "a oração relativa é explicativa, e \"that\" não introduz relativa explicativa"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "A oração vem depois de vírgula e retoma toda a informação anterior — a queda pela metade no tempo de espera. Nessa posição só cabe \"which\", porque \"that\" não entra em relativa explicativa nem retoma uma oração inteira. A alternativa (b) é a mais marcada e enuncia uma regra que não existe: \"that\" é sujeito em qualquer relativa restritiva, como no próprio \"the team that had designed it\" do texto.",
+                       "formato":  "direta",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-175",
+                       "texto_apoio":  "The report compares two districts of the same city, a few kilometres apart. It describes one ______ fewer than one in ten households is connected to the sewage network, and another where the figure is above ninety per cent.",
+                       "enunciado":  "Na lacuna, o relativo substitui um adjunto de lugar. A forma capaz de fazê-lo é:",
+                       "alternativas":  {
+                                            "a":  "which, que retoma coisas, sujeito ou objeto",
+                                            "b":  "that, restritivo, sujeito ou objeto",
+                                            "c":  "whose, que marca posse entre dois termos",
+                                            "d":  "what, que não retoma antecedente expresso",
+                                            "e":  "in which, com preposição antes do pronome"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "O relativo ocupa aqui o lugar de \"in the district\", e adjunto de lugar exige preposição diante do pronome. \"Which\" e \"that\" sozinhos são as escolhas mais frequentes, mas deixariam o relativo sem função: a oração seguinte já tem sujeito próprio (\"fewer than one in ten households\") e verbo próprio. A segunda metade da frase confirma a leitura ao usar \"where\", que não está entre as alternativas.",
+                       "formato":  "direta",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-176",
+                       "texto_apoio":  "Consider the two sentences below, in which the relative pronoun appears in brackets.\nI. The drug (that) the committee approved last year is now on the public list.\nII. The drug (that) causes the fewest side effects is not always the cheapest one.",
+                       "enunciado":  "O pronome entre parênteses pode ser omitido em:",
+                       "alternativas":  {
+                                            "a":  "II, apenas",
+                                            "b":  "I e II",
+                                            "c":  "nem I nem II",
+                                            "d":  "I, apenas",
+                                            "e":  "I e II, mas apenas em registro informal"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "O relativo só desaparece quando é objeto da oração adjetiva: em I, o comitê aprovou o remédio, e a omissão não deixa buraco nenhum. Em II ele é sujeito de \"causes\", e retirá-lo deixaria o verbo sem sujeito. A alternativa (b) é de quem generaliza a regra observada em I sem testar a função sintática em II — e a omissão em I não é informal, é a construção mais comum também na escrita.",
+                       "formato":  "escada",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-177",
+                       "texto_apoio":  "After the operation the families waited in the corridor for news, some of them for hours. The nurses ______ the families spoke that afternoon were the ones who had been in the operating room from the beginning.",
+                       "enunciado":  "Entre \"whom\" e \"to whom\", a lacuna só admite a segunda forma porque:",
+                       "alternativas":  {
+                                            "a":  "\"whom\" é forma da língua falada, incompatível com o registro do texto",
+                                            "b":  "o verbo \"speak\" exige a preposição \"to\", que no registro formal antecede o relativo",
+                                            "c":  "o antecedente está no plural, e \"whom\" só retoma antecedente singular",
+                                            "d":  "\"whom\" não introduz oração relativa restritiva, apenas explicativa",
+                                            "e":  "a oração relativa está na voz passiva, o que impõe preposição antes do pronome"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "\"Speak to somebody\" é regência fixa, e no registro formal a preposição sobe para antes do relativo. \"Whom\" sozinho é a alternativa mais escolhida porque a forma de objeto está certa — mas deixa \"spoke\" sem a preposição exigida, ausência que o português dispensa e o inglês não. A ordem alternativa \"whom the families spoke to\" também seria válida, e é ela que o registro formal evita.",
+                       "formato":  "direta",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-178",
+                       "texto_apoio":  "The bulletin recorded a sharp increase ______ the number of confirmed cases in the north of the state, and warned that the peak had probably not been reached.",
+                       "enunciado":  "A preposição exigida pelo substantivo \"increase\", na lacuna, é:",
+                       "alternativas":  {
+                                            "a":  "in",
+                                            "b":  "of",
+                                            "c":  "on",
+                                            "d":  "to",
+                                            "e":  "for"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"Increase\", \"rise\", \"fall\" e \"reduction\" pedem \"in\" diante daquilo que varia. A armadilha é \"of\", que transporta o \"aumento de\" do português: em inglês, \"an increase of\" só aparece diante da medida da variação, como em \"an increase of thirty per cent\", e não diante daquilo que aumentou.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-179",
+                       "texto_apoio":  "One paragraph of the bulletin covers three separate problems. The demand ______ intensive care beds doubled during the epidemic; access ______ treatment is still unequal between regions; and the shortage ______ trained nurses has not improved since last year.",
+                       "enunciado":  "As lacunas são preenchidas, na ordem, por:",
+                       "alternativas":  {
+                                            "a":  "to – of – in",
+                                            "b":  "for – to – of",
+                                            "c":  "of – for – in",
+                                            "d":  "for – of – in",
+                                            "e":  "of – to – from"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "As três regências são fixas: \"demand for\", \"access to\", \"shortage of\". Nenhuma delas acompanha o português, e é por isso que a alternativa (c), que decalca \"demanda de\" e \"acesso para\", atrai tanto. A alternativa (d) acerta a primeira e erra as outras duas — resolver a questão pela primeira lacuna e marcar sem conferir o resto é o erro de método que este tipo de item cobra.",
+                       "formato":  "lacunas",
+                       "dificuldade":  "media"
+                   },
+                   {
+                       "id":  "ingles-180",
+                       "texto_apoio":  "Lead was removed from petrol decades ago, but it is still found in old paint, in some ceramics and in informal battery recycling. Children exposed ______ high levels of lead may develop learning difficulties for which no other cause is ever found.",
+                       "enunciado":  "A lacuna é preenchida por \"to\". O que impede o emprego de \"of\", sugerido pelo português, é:",
+                       "alternativas":  {
+                                            "a":  "a presença de um substantivo incontável imediatamente depois da lacuna",
+                                            "b":  "o fato de o verbo aparecer no particípio, e não numa forma finita",
+                                            "c":  "a regência fixa de \"expose\", que o português não reproduz",
+                                            "d":  "a existência de outro complemento com \"of\" no mesmo sintagma nominal",
+                                            "e":  "a posição do adjunto, que em inglês antecede o núcleo do sintagma"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"Expose\" e \"exposed\" só admitem \"to\", no sentido literal e no epidemiológico, e a regência não muda com o tempo nem com a voz do verbo. A alternativa (d) é a mais engenhosa: o \"of\" de \"high levels of lead\" está de fato ali, mas pertence a \"levels\", não à regência de \"exposed\" — proibição de repetir preposição é regra que não existe em inglês.",
+                       "formato":  "direta",
+                       "dificuldade":  "media"
+                   },
+                   {
+                       "id":  "ingles-181",
+                       "texto_apoio":  "The committee meets four times a year and its decisions bind the whole public network. It is responsible ______ deciding which drugs enter the list and at what price they are bought.",
+                       "enunciado":  "Depois do adjetivo \"responsible\", a preposição adequada é:",
+                       "alternativas":  {
+                                            "a":  "of",
+                                            "b":  "about",
+                                            "c":  "with",
+                                            "d":  "for",
+                                            "e":  "to"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "\"Responsible\" rege \"for\", e o gerúndio \"deciding\" já impresso na frase confirma que ali cabe preposição, porque só preposição rege gerúndio. Quem marca \"to\" está montando \"responsible to decide\", construção inexistente que, além disso, não se sustenta diante da forma em -ing que o texto traz.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-182",
+                       "texto_apoio":  "During the consultation the patient said: \"I have been taking this medication for three weeks.\"",
+                       "enunciado":  "Transposta ao discurso indireto, a fala do paciente torna-se:",
+                       "alternativas":  {
+                                            "a":  "The patient said he has been taking that medication for the last three weeks.",
+                                            "b":  "The patient said he was taking that medication since three weeks.",
+                                            "c":  "The patient said that he takes that medication for three weeks.",
+                                            "d":  "The patient said he would take that medication for three weeks.",
+                                            "e":  "The patient said he had been taking that medication for three weeks."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Com o verbo introdutor no passado, o present perfect continuous recua para past perfect continuous, e \"this\" passa a \"that\". A alternativa (a) mantém o tempo original, descuido mais frequente do discurso indireto; a (b) soma um segundo erro ao trocar \"for\" por \"since\" diante de um período de duração, quando \"since\" só cabe diante do marco inicial.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-183",
+                       "texto_apoio":  "Before writing the prescription, the doctor asked: \"Have you ever had an allergic reaction to penicillin?\"",
+                       "enunciado":  "A forma correta da pergunta em discurso indireto é:",
+                       "alternativas":  {
+                                            "a":  "The doctor asked if had I ever had an allergic reaction to penicillin.",
+                                            "b":  "The doctor asked me have I had an allergic reaction to penicillin.",
+                                            "c":  "The doctor asked if I had ever had an allergic reaction to penicillin.",
+                                            "d":  "The doctor asked whether I have ever an allergic reaction to penicillin.",
+                                            "e":  "The doctor asked if I have ever had an allergic reaction to penicillin."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A pergunta indireta perde a inversão entre auxiliar e sujeito e entra com \"if\" ou \"whether\"; o present perfect recua para past perfect. As alternativas (a) e (b) preservam a ordem da interrogativa direta, erro que sobrevive porque a frase continua soando como pergunta na cabeça de quem lê. Já (e) acerta a ordem e esquece o recuo do tempo verbal.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-184",
+                       "texto_apoio":  "On the evening before the operation, the nurse told the patient: \"Don\u0027t eat anything after midnight.\"",
+                       "enunciado":  "No discurso indireto, uma ordem negativa como a da enfermeira é reproduzida por meio de:",
+                       "alternativas":  {
+                                            "a":  "\"not to\" seguido de infinitivo, com o objeto de pessoa depois de \"told\"",
+                                            "b":  "\"to not\" seguido de gerúndio, forma própria das ordens negativas",
+                                            "c":  "\"that\" seguido do imperativo, tal como na fala original",
+                                            "d":  "\"don\u0027t\" precedido do sujeito, mantida a estrutura da fala",
+                                            "e":  "\"if not\" seguido do verbo no passado, como nas perguntas relatadas"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Ordem negativa relatada vira \"not to\" mais infinitivo, e \"tell\" leva objeto de pessoa sem preposição: \"told the patient not to eat\". A alternativa (b) inverte a ordem das duas partículas e ainda troca o infinitivo por gerúndio; a (e) transporta para a ordem o esquema da pergunta indireta, confusão típica de quem decorou os dois padrões sem distinguir o que cada um relata.",
+                       "formato":  "direta",
+                       "dificuldade":  "media"
+                   },
+                   {
+                       "id":  "ingles-185",
+                       "texto_apoio":  "The generic version left the factory with the same active ingredient, the same dose and the same route of administration. It is ______ effective ______ the original, and it costs a third of the price.",
+                       "enunciado":  "As duas posições da estrutura comparativa são ocupadas, respectivamente, por:",
+                       "alternativas":  {
+                                            "a":  "as – as",
+                                            "b":  "more – than",
+                                            "c":  "as – than",
+                                            "d":  "so – as",
+                                            "e":  "more – as"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A comparação é de igualdade, e a estrutura é \"as + adjetivo + as\". A alternativa (c) é a mais escolhida porque abre certo e fecha com o \"than\" do comparativo de superioridade, mistura que o texto desautoriza: o genérico não é apresentado como mais eficaz, e sim como igualmente eficaz. \"So ... as\" existe, mas apenas em frases negativas.",
+                       "formato":  "lacunas"
+                   },
+                   {
+                       "id":  "ingles-186",
+                       "texto_apoio":  "The new emergency unit opened in March with twice the number of consulting rooms. Waiting times there are ______ than in the old one, and the difference is big enough to be noticed by anyone who has used both.",
+                       "enunciado":  "Assinale a alternativa em que a forma comparativa está corretamente construída e cabe na lacuna:",
+                       "alternativas":  {
+                                            "a":  "more shorter",
+                                            "b":  "very shorter",
+                                            "c":  "more short",
+                                            "d":  "the shortest",
+                                            "e":  "far shorter"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "\"Short\" é monossílabo e forma o comparativo com -er; quem intensifica comparativo é \"far\" ou \"much\", nunca \"very\". As demais reúnem um erro clássico cada: dupla marca de comparativo em (a), intensificador incompatível em (b), comparativo analítico com monossílabo em (c) e superlativo no lugar do comparativo em (d) — esta última atrai por causa do \"twice\" da primeira frase, que sugere um recorde onde há apenas uma comparação entre duas unidades.",
+                       "formato":  "direta",
+                       "dificuldade":  "media"
+                   },
+                   {
+                       "id":  "ingles-187",
+                       "texto_apoio":  "The reform gave the clinic more consulting rooms and a longer opening period, but the staff was not expanded. It now sees twice ______ patients per day as it did before, with the same number of nurses.",
+                       "enunciado":  "O \"as\" que aparece depois de \"per day\" determina a forma da lacuna, que é:",
+                       "alternativas":  {
+                                            "a":  "as much",
+                                            "b":  "more",
+                                            "c":  "so many",
+                                            "d":  "as many",
+                                            "e":  "many more"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "\"Patients\" é contável e a proporção se expressa por \"twice as many ... as\". \"As much\" só serve para incontáveis; \"more\" e \"many more\" pediriam \"than\", e não o \"as\" já impresso depois da lacuna. Esse segundo \"as\" é a pista que decide o item e passa despercebido por quem lê apenas até o espaço em branco.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-188",
+                       "texto_apoio":  "The company was asked about the missing safety data three times in the same week. It refused ______ the results before the end of the review, and denied ______ any information from the regulator at any point.",
+                       "enunciado":  "A forma do complemento é decidida pelo verbo que o rege. As lacunas recebem:",
+                       "alternativas":  {
+                                            "a":  "to release – withholding",
+                                            "b":  "releasing – to withhold",
+                                            "c":  "to release – to withhold",
+                                            "d":  "releasing – withholding",
+                                            "e":  "release – withhold"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "\"Refuse\" pede infinitivo com \"to\" e \"deny\" pede gerúndio; não há regra de sentido por trás disso, são listas que se memorizam. As alternativas (c) e (d) são as de quem uniformiza os dois verbos, resolvendo o segundo pelo primeiro ou o primeiro pelo segundo — e a (e), que deixa os dois no infinitivo sem \"to\", vem de quem lê os dois verbos como se fossem modais.",
+                       "formato":  "lacunas",
+                       "dificuldade":  "media"
+                   },
+                   {
+                       "id":  "ingles-189",
+                       "texto_apoio":  "Consider the two sentences below.\nI. She stopped smoking two years ago.\nII. She stopped to smoke outside the building.",
+                       "enunciado":  "A diferença de sentido entre I e II é que:",
+                       "alternativas":  {
+                                            "a":  "em I ela interrompeu uma atividade para fumar; em II abandonou o hábito",
+                                            "b":  "em I ela abandonou o hábito; em II interrompeu uma atividade para fumar",
+                                            "c":  "as duas frases dizem que ela abandonou o hábito, em momentos diferentes",
+                                            "d":  "as duas frases dizem que ela interrompeu uma atividade, em lugares diversos",
+                                            "e":  "em I a ação está concluída e em II ainda ocorre, sem outra diferença"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "\"Stop\" seguido de gerúndio significa abandonar a atividade; seguido de infinitivo, interromper outra coisa com a finalidade que o infinitivo expressa. É o par que mais derruba justamente porque as duas frases estão corretas: quem procura o erro de gramática não encontra nenhum e acaba marcando (c) ou (d), que tratam a alternância entre as duas formas como se fosse estilística.",
+                       "formato":  "direta",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-190",
+                       "texto_apoio":  "By the end of the first year, residents have already worked more hours than they thought possible. Many of them still look forward ______ in the new unit, and most say the experience is worth ______, even at that cost.",
+                       "enunciado":  "Em \"look forward ______\" e em \"worth ______\", as formas verbais adequadas são, respectivamente:",
+                       "alternativas":  {
+                                            "a":  "to work – to have",
+                                            "b":  "to working – having",
+                                            "c":  "working – having",
+                                            "d":  "to work – having",
+                                            "e":  "to working – to have"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "As duas lacunas pedem gerúndio, mas por motivos diferentes: em \"look forward to\" o \"to\" é preposição, e preposição rege gerúndio; depois de \"worth\" o gerúndio é exigido pelo próprio adjetivo. As alternativas (a) e (e) tratam aquele \"to\" como marca de infinitivo, engano quase inevitável para quem reconhece a sequência \"to + verbo\" sem verificar de que \"to\" se trata; a (c) elimina a preposição, que é obrigatória.",
+                       "formato":  "lacunas",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-191",
+                       "texto_apoio":  "The professor looked at the empty tray on the laboratory bench and turned to the group of students. \"The results haven\u0027t arrived yet, ______?\" she asked.",
+                       "enunciado":  "A question tag adequada é:",
+                       "alternativas":  {
+                                            "a":  "haven\u0027t they",
+                                            "b":  "didn\u0027t they",
+                                            "c":  "did they not",
+                                            "d":  "aren\u0027t they",
+                                            "e":  "have they"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Frase negativa pede tag afirmativa, com o mesmo auxiliar (\"have\") e um pronome que retome o sujeito (\"they\"). Repetir a negação, como em (a), é o erro mais comum e vem de quem traduz a tag por \"não é?\", fórmula que em português não muda de polaridade. As alternativas com \"did\" trocam o auxiliar do present perfect pelo do past simple.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-192",
+                       "texto_apoio":  "The supervisor closed the door and sat down with the intern, who had been on call all night. \"Let\u0027s review the case together, ______?\" she said.",
+                       "enunciado":  "Frases iniciadas por \"let\u0027s\" pedem uma tag fixa, que é:",
+                       "alternativas":  {
+                                            "a":  "will you, com o auxiliar \"will\"",
+                                            "b":  "don\u0027t we, com o auxiliar \"do\" na negativa",
+                                            "c":  "shall we, com o auxiliar \"shall\"",
+                                            "d":  "shan\u0027t we, com \"shall\" na negativa",
+                                            "e":  "do we, com o auxiliar \"do\" na afirmativa"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Depois de \"let\u0027s\" a tag não segue a regra de polaridade: é sempre \"shall we\". \"Will you\" é a tag do imperativo — \"Open the window, will you?\" — e marca quem lê \"let\u0027s\" como uma ordem dirigida ao outro, quando na verdade é um convite que inclui quem fala, e é justamente essa inclusão que a primeira pessoa do plural da tag registra.",
+                       "formato":  "direta",
+                       "dificuldade":  "media"
+                   },
+                   {
+                       "id":  "ingles-193",
+                       "enunciado":  "As frases abaixo tratam do mesmo assunto. Assinale aquela em que o emprego do artigo está INCORRETO:",
+                       "alternativas":  {
+                                            "a":  "The obesity is now treated as a chronic disease.",
+                                            "b":  "Obesity is now treated as a chronic disease.",
+                                            "c":  "She works as an epidemiologist in a public hospital.",
+                                            "d":  "Prevention costs far less than treatment.",
+                                            "e":  "Diabetes affects millions of adults in the country."
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Substantivo incontável em sentido geral não leva artigo em inglês: \"obesity\", \"prevention\", \"treatment\", \"diabetes\". A alternativa (a) é a transposição direta do português, em que \"a obesidade\" é obrigatório. A armadilha do comando é a alternativa (b), idêntica à (a) menos o artigo: quem lê rápido marca a que reconhece como certa em vez da que o enunciado pede.",
+                       "formato":  "direta",
+                       "dificuldade":  "media"
+                   },
+                   {
+                       "id":  "ingles-194",
+                       "texto_apoio":  "Her post was created after the last epidemic, and there is nothing like it anywhere else in the state. She works as an epidemiologist at the only university hospital in the region.",
+                       "enunciado":  "A escolha de \"an\" diante de \"epidemiologist\" e de \"the\" diante de \"only university hospital\" se explica, respectivamente, por:",
+                       "alternativas":  {
+                                            "a":  "o som inicial da palavra seguinte e a unicidade do referente",
+                                            "b":  "a letra inicial da palavra seguinte e a presença de um adjetivo",
+                                            "c":  "a origem estrangeira do substantivo e o caráter público do hospital",
+                                            "d":  "o número de sílabas da palavra seguinte e a menção anterior ao hospital",
+                                            "e":  "a classe gramatical da palavra seguinte e o grau superlativo de \"only\""
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "O que decide entre \"a\" e \"an\" é o som, não a letra — por isso \"an epidemiologist\" e, no mesmo trecho, \"a university\", que soa /ju/. \"Only\" identifica um referente único e torna o definido obrigatório. A alternativa (b) é a mais marcada porque a regra da letra inicial funciona na maioria dos casos e só falha justamente nas palavras que a prova escolhe.",
+                       "formato":  "direta",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-195",
+                       "texto_apoio":  "Brazil ______ free antiretroviral treatment to everyone who needs it since 1996. The policy ______ a model for other middle-income countries at the time, and it is still cited in international reports.",
+                       "enunciado":  "Cada verbo obedece ao seu próprio marcador temporal. As lacunas são preenchidas, na ordem, por:",
+                       "alternativas":  {
+                                            "a":  "offers – became",
+                                            "b":  "has offered – has become",
+                                            "c":  "offered – has become",
+                                            "d":  "has offered – became",
+                                            "e":  "is offering – became"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "\"Since 1996\" marca situação iniciada no passado e ainda em curso, o que exige present perfect; \"at the time\" fecha um momento passado e pede past simple. A alternativa (b) uniformiza os dois verbos no present perfect e ignora o segundo marcador — o item existe para mostrar que cada verbo responde ao adjunto que está na sua própria oração, não ao da oração vizinha.",
+                       "formato":  "lacunas",
+                       "dificuldade":  "media"
+                   },
+                   {
+                       "id":  "ingles-196",
+                       "texto_apoio":  "The laboratory sent the results two hours ago and the file is already in the system. The physician, who has been in the operating room since noon, ______ them yet.",
+                       "enunciado":  "O advérbio \"yet\", em frase negativa, determina a forma verbal da lacuna, que é:",
+                       "alternativas":  {
+                                            "a":  "didn\u0027t see",
+                                            "b":  "hadn\u0027t seen",
+                                            "c":  "won\u0027t see",
+                                            "d":  "hasn\u0027t seen",
+                                            "e":  "has not been seeing"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "\"Yet\" em frase negativa aponta para algo que não aconteceu até agora e combina com present perfect. \"Didn\u0027t see\" fecharia o fato no passado e deixaria \"yet\" sem função: é a escolha de quem se guia pelo \"two hours ago\" da frase anterior, marcador que rege apenas o verbo daquela frase. O past perfect de (b) exigiria um segundo fato passado como referência, que o texto não oferece.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-197",
+                       "texto_apoio":  "Consider the three sentences below.\nI. She has worked in the intensive care unit since 2015.\nII. She has worked in the intensive care unit in 2015.\nIII. She worked in the intensive care unit in 2015.",
+                       "enunciado":  "Está gramaticalmente aceitável o que se apresenta em:",
+                       "alternativas":  {
+                                            "a":  "I, apenas",
+                                            "b":  "III, apenas",
+                                            "c":  "I e II, apenas",
+                                            "d":  "I e III, apenas",
+                                            "e":  "II e III, apenas"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "\"Since + data\" marca o início de uma situação que segue até agora e pede present perfect (I). \"In 2015\" delimita um período encerrado, incompatível com o present perfect (II) e natural com o past simple (III). A armadilha é aceitar II por semelhança com I: a forma verbal é a mesma nas duas, e o que decide é o marcador temporal que vem depois dela.",
+                       "formato":  "escada",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-198",
+                       "texto_apoio":  "The night was quiet until a few minutes past three. The resident ______ a routine chart when the alarm ______ in the next room.",
+                       "enunciado":  "Considerando o que o \"when\" anuncia na segunda oração, os verbos vão para:",
+                       "alternativas":  {
+                                            "a":  "reviewed – was going off",
+                                            "b":  "was reviewing – went off",
+                                            "c":  "was reviewing – was going off",
+                                            "d":  "reviewed – went off",
+                                            "e":  "had reviewed – had gone off"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A ação em curso é o pano de fundo e vai para o past continuous; a que a interrompe é pontual e vai para o past simple. A alternativa (c) põe as duas em curso ao mesmo tempo e desfaz a interrupção que o \"when\" anuncia; a (d) transforma a revisão do prontuário em fato pontual, leitura possível em abstrato, mas que deixa a frase sem o contraste entre fundo e recorte que a estrutura pede.",
+                       "formato":  "lacunas",
+                       "dificuldade":  "media"
+                   },
+                   {
+                       "id":  "ingles-199",
+                       "texto_apoio":  "The programme delivered its first million doses in eighteen months and has been accelerating since then. By 2030, if the current pace is maintained, it ______ more than ten million doses.",
+                       "enunciado":  "A expressão \"by 2030\" impõe à lacuna a forma:",
+                       "alternativas":  {
+                                            "a":  "will deliver, futuro simples",
+                                            "b":  "delivers, presente simples",
+                                            "c":  "will have delivered, futuro perfeito",
+                                            "d":  "is delivering, presente contínuo",
+                                            "e":  "would deliver, futuro do pretérito"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "\"By + data futura\" aponta para uma ação já concluída quando aquele marco chegar, e essa é a função do future perfect. \"Will deliver\" apenas situa a entrega em algum ponto do futuro, sem a ideia de acumulado até 2030 que o \"by\" exige — a diferença desaparece para quem lê \"by 2030\" como se fosse \"in 2030\", que é o deslize que a questão cobra.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-200",
+                       "texto_apoio":  "The outbreak was only identified in the third week, when more than two hundred people had already been infected. \"If it ______ detected earlier, the campaign ______ hundreds of cases,\" the coordinator told the press.",
+                       "enunciado":  "A hipótese diz respeito a um passado que não se realizou. As lacunas são preenchidas, na ordem, por:",
+                       "alternativas":  {
+                                            "a":  "was – would prevent",
+                                            "b":  "has been – will have been prevented",
+                                            "c":  "were – would be preventing",
+                                            "d":  "had been – would prevent",
+                                            "e":  "had been – would have prevented"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "A terceira condicional pede \"if + past perfect\" na condição e \"would have + particípio\" no resultado, porque tanto a condição quanto a consequência ficaram no passado que não ocorreu. A alternativa (d) acerta a condição e resolve o resultado com a segunda condicional: essa mistura entre a segunda e a terceira é o erro mais frequente do tópico, e sobrevive porque a frase resultante soa bem.",
+                       "formato":  "lacunas",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-201",
+                       "texto_apoio":  "The city has a single CT scanner and it serves four hundred thousand people. \"If we ______ a second one, we would not have to transfer so many patients at night,\" the director said, without much hope.",
+                       "enunciado":  "O \"would\" da oração principal fixa o tipo de condicional e, com ele, a forma da lacuna:",
+                       "alternativas":  {
+                                            "a":  "have, no presente",
+                                            "b":  "had, no past simple",
+                                            "c":  "will have, no futuro",
+                                            "d":  "would have, com o modal",
+                                            "e":  "had had, no past perfect"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "O \"would\" no resultado fixa a segunda condicional, e nela a condição vai para o past simple ainda que se refira ao presente. \"Have\" construiria a primeira condicional e trataria a compra do aparelho como provável, leitura que o \"without much hope\" do fecho desmente. E \"would\" nunca aparece dentro da oração iniciada por \"if\", por mais que o paralelismo com o português sugira o contrário.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-202",
+                       "texto_apoio":  "Active voice: \"Nurses administer more than ninety per cent of the vaccines given in primary care.\"",
+                       "enunciado":  "A transposição para a voz passiva que preserva o tempo verbal do original é:",
+                       "alternativas":  {
+                                            "a":  "More than ninety per cent of the vaccines given in primary care are administered by nurses.",
+                                            "b":  "More than ninety per cent of the vaccines given in primary care were administered by nurses.",
+                                            "c":  "More than ninety per cent of the vaccines given in primary care have been administered by nurses.",
+                                            "d":  "Nurses are administered more than ninety per cent of the vaccines given in primary care.",
+                                            "e":  "By nurses are administered more than ninety per cent of the vaccines given in primary care."
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "O objeto passa a sujeito, o verbo assume \"be\" no mesmo tempo do original — presente — mais o particípio, e o agente entra com \"by\". As alternativas (b) e (c) trocam o tempo verbal sem que nada autorize a mudança; a (d) é a mais instrutiva, porque está bem formada e diz outra coisa: nela são as enfermeiras que recebem as vacinas.",
+                       "formato":  "direta",
+                       "dificuldade":  "media"
+                   },
+                   {
+                       "id":  "ingles-203",
+                       "texto_apoio":  "The power failed for four hours on a Sunday night and the backup generator did not start. The samples ______ before the failure, so nothing was lost.",
+                       "enunciado":  "A forma verbal que completa a lacuna sem alterar os fatos narrados é:",
+                       "alternativas":  {
+                                            "a":  "had already frozen",
+                                            "b":  "have already frozen",
+                                            "c":  "had already been frozen",
+                                            "d":  "were already freezing",
+                                            "e":  "already froze"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "As amostras sofrem a ação, e ela é anterior a outro fato passado: passiva no past perfect, \"had been + particípio\". As alternativas (a) e (e) põem as amostras congelando alguma coisa, confusão que sobrevive porque \"freeze\" também é intransitivo — mas aqui existe um agente implícito, alguém as congelou antes da queda de energia.",
+                       "formato":  "direta",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-204",
+                       "texto_apoio":  "The porter carried the whole box of files up to the fourth floor. Only when he put it down did someone tell him that the archive had been digitised the week before. He ______ them at all.",
+                       "enunciado":  "A forma que registra que a ação foi realizada, embora fosse desnecessária, é:",
+                       "alternativas":  {
+                                            "a":  "didn\u0027t need to carry",
+                                            "b":  "mustn\u0027t have carried",
+                                            "c":  "shouldn\u0027t have carried",
+                                            "d":  "can\u0027t have carried",
+                                            "e":  "needn\u0027t have carried"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "\"Needn\u0027t have + particípio\" diz que a ação foi feita e não era precisa, que é exatamente o caso do carregador. A alternativa (a) é a armadilha do item: \"didn\u0027t need to\" informa que a necessidade não existia e deixa em aberto — normalmente sugerindo o contrário — se a ação chegou a ocorrer. A (c) acrescentaria censura, e a (d) seria dedução negativa a partir de evidência, não avaliação de necessidade.",
+                       "formato":  "direta",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-205",
+                       "texto_apoio":  "The prescription in the chart reads ten milligrams per kilo, and the usual dose for that drug is one. The pharmacist stopped the order before it left the counter. Someone ______ the decimal point when transcribing it.",
+                       "enunciado":  "A lacuna exprime uma conclusão quase certa sobre um fato já ocorrido. Ela é preenchida por:",
+                       "alternativas":  {
+                                            "a":  "must miss",
+                                            "b":  "had to miss",
+                                            "c":  "should have missed",
+                                            "d":  "must have missed",
+                                            "e":  "might have missed"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Dedução quase certa sobre o passado se expressa com \"must have + particípio\". A alternativa (e) tem a estrutura certa e o grau errado: \"might\" rebaixa a conclusão a mera possibilidade, quando a diferença entre a dose prescrita e a usual não deixa margem. Já (c) trocaria a dedução por censura e (b), por obrigação — são os desvios de quem acerta o modal e erra o que ele exprime.",
+                       "formato":  "direta"
+                   },
+                   {
+                       "id":  "ingles-206",
+                       "texto_apoio":  "The pharmacist explained the prescription at the counter, twice, and wrote the times on the box. \"You ______ take the antibiotic every eight hours until the box is finished. You ______ come back for a new prescription — we already have it here.\"",
+                       "enunciado":  "A segunda orientação diz que algo não é necessário, e não que seja proibido. As lacunas são preenchidas, na ordem, por:",
+                       "alternativas":  {
+                                            "a":  "must – mustn\u0027t",
+                                            "b":  "must – don\u0027t have to",
+                                            "c":  "should – mustn\u0027t",
+                                            "d":  "may – don\u0027t have to",
+                                            "e":  "have to – shouldn\u0027t"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A primeira orientação é obrigação e a segunda é ausência de obrigação. Trocar \"don\u0027t have to\" por \"mustn\u0027t\", como fazem (a) e (c), transformaria \"não precisa voltar\" em \"está proibido de voltar\" — e a própria justificativa do farmacêutico, que já tem a receita ali, mostra qual das duas leituras cabe. A alternativa (d) enfraquece a primeira orientação, tornando facultativo o intervalo entre as doses.",
+                       "formato":  "lacunas",
+                       "dificuldade":  "media"
+                   },
+                   {
+                       "id":  "ingles-207",
+                       "texto_apoio":  "Discharge letters are written at the end of a hospital stay, usually by the most junior member of the team, at the end of a long shift. They are then read by a family doctor who has never met the patient and has ten minutes to decide what happens next. Nobody designed this arrangement; it settled into place over decades and no one has been asked to defend it since. If the letter is the only bridge between two systems that barely talk to each other, it is worth asking why so little training goes into writing one.",
+                       "enunciado":  "O propósito principal do texto é:",
+                       "alternativas":  {
+                                            "a":  "descrever as exigências legais que as cartas de alta precisam cumprir",
+                                            "b":  "responsabilizar os médicos mais jovens pelos erros dos documentos hospitalares",
+                                            "c":  "comparar o financiamento dos hospitais com o da atenção primária",
+                                            "d":  "anunciar um novo programa de treinamento para quem escreve essas cartas",
+                                            "e":  "defender que um documento de rotina merece mais atenção do que recebe hoje"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "O texto descreve as condições em que a carta é escrita e lida e fecha com uma pergunta retórica sobre a falta de treinamento — movimento típico de quem quer valorizar algo tratado como rotina. A alternativa (b) confunde a descrição dessas condições com uma acusação: o autor atribui o problema ao arranjo, que \"nobody designed\", e não a quem escreve.",
+                       "formato":  "direta",
+                       "dificuldade":  "media"
+                   },
+                   {
+                       "id":  "ingles-208",
+                       "texto_apoio":  "Every few months a new application promises to detect disease from a photograph, a voice recording or the way someone types on a phone. Some of them will work, and one or two may end up in routine care. Most, however, are tested only against the same data used to build them, which is a little like marking your own examination and then publishing the grade. The problem is not the ambition. It is the distance between a promising result and a tool that a clinic can safely put in front of a patient.",
+                       "enunciado":  "A atitude do autor diante dessas aplicações pode ser descrita como:",
+                       "alternativas":  {
+                                            "a":  "entusiasmada e sem reservas",
+                                            "b":  "hostil e abertamente irônica",
+                                            "c":  "crítica, mas sem descartar as aplicações",
+                                            "d":  "indiferente ao possível valor clínico delas",
+                                            "e":  "nostálgica em relação aos métodos antigos"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "O texto concede duas vezes — \"some of them will work\" e \"the problem is not the ambition\" — e concentra a crítica na validação, não na ideia. Isso é ceticismo com ressalva. A alternativa (b) se apoia apenas na ironia da autocorreção e ignora as concessões, que são justamente o que distingue crítica de hostilidade.",
+                       "formato":  "direta",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-209",
+                       "texto_apoio":  "Telling people to remove standing water from their yards has been the core of dengue campaigns for forty years. It is cheap, it is easy to say, and it puts the responsibility exactly where the state can most comfortably leave it. Water also stands in gutters the city does not clean, in tyres nobody collects, and in tanks that exist only because the supply is intermittent. A campaign that ignores all of that is not a campaign. It is a message.",
+                       "enunciado":  "Ao escrever \"It is a message\", o autor pretende:",
+                       "alternativas":  {
+                                            "a":  "sugerir que as campanhas substituíram ação por comunicação",
+                                            "b":  "elogiar a clareza da estratégia de comunicação adotada até aqui",
+                                            "c":  "explicar que mensagens são a intervenção mais barata em saúde pública",
+                                            "d":  "indicar que as campanhas vêm sendo eficazes há quatro décadas",
+                                            "e":  "recomendar que o material das campanhas seja traduzido para outras línguas"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A construção nega e substitui — \"is not a campaign. It is a message\" — e vem logo depois da lista do que o poder público deixa de fazer. Dizer que sobrou apenas mensagem é dizer que faltou ação. A alternativa (c) toma \"message\" pelo valor literal e transforma em elogio de eficiência aquilo que o texto usa como acusação.",
+                       "formato":  "direta",
+                       "dificuldade":  "dificil"
+                   },
+                   {
+                       "id":  "ingles-210",
+                       "texto_apoio":  "Students are told that the first two years of medical school are about memorising and the last four are about thinking. Anyone who has watched a good clinician work knows that this division is false. What looks like intuition at the bedside is a very large store of remembered patterns, retrieved faster than the doctor can explain. The division survives because it is comfortable: it lets the early years be dull and excuses the later ones from being precise.",
+                       "enunciado":  "O texto foi escrito principalmente para:",
+                       "alternativas":  {
+                                            "a":  "apresentar dados estatísticos sobre o desempenho dos estudantes de medicina",
+                                            "b":  "contestar uma crença corrente sobre a organização do curso de medicina",
+                                            "c":  "recomendar que os dois primeiros anos do curso sejam encurtados",
+                                            "d":  "descrever a história do ensino médico ao longo do século XX",
+                                            "e":  "defender a memorização como único método válido de ensino médico"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "O texto enuncia uma crença corrente (\"students are told\"), declara que ela é falsa e explica por que ela sobrevive: é estrutura de refutação, não de descrição. A alternativa (e) exagera a tese — o autor mostra que a memória sustenta o raciocínio clínico, o que está longe de proclamá-la método único de ensino.",
                        "formato":  "direta"
                    }
                ],
@@ -24611,9 +27256,9 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Considere duas escolas contemporâneas entre si no final do século XIX.",
                            "enunciado":  "Uma busca ______ e trabalha com ______; a outra busca ______ e trabalha com ______. As lacunas são preenchidas por:",
                            "alternativas":  {
-                                                "a":  "a precisão – contornos nítidos e formas fixas – a sugestão – sonoridade e imprecisão",
+                                                "a":  "a precisão – contornos nítidos e formas fixas – a sugestão – sonoridade e imprecisão, oposição entre esculpir e evocar",
                                                 "b":  "a sugestão – contornos nítidos e formas fixas – a precisão – sonoridade e imprecisão, distribuição que corresponde à ordem cronológica delas",
-                                                "c":  "o engajamento social – dados estatísticos sobre a população – a evasão da realidade – imagens extraídas do passado medieval europeu",
+                                                "c":  "o engajamento social – dados estatísticos – a evasão da realidade – imagens do passado medieval",
                                                 "d":  "a exatidão científica – experimentos de laboratório aplicados à ficção – a fidelidade histórica – documentos de arquivo consultados pelo autor",
                                                 "e":  "a ruptura formal – versos livres e linguagem coloquial – a continuidade – métrica regular herdada da tradição poética portuguesa do período"
                                             },
@@ -24631,7 +27276,7 @@ window.QUESTION_BANKS = {
                                                 "b":  "a descrição objetiva do ambiente hospitalar, a exatidão do vocabulário técnico e a organização cronológica dos acontecimentos narrados",
                                                 "c":  "a denúncia das condições de atendimento, o tom oratório dirigido ao leitor e a construção de imagens destinadas à declamação pública",
                                                 "d":  "a paródia de um texto consagrado da tradição, o humor irreverente e a incorporação de marcas da linguagem coloquial brasileira ao verso",
-                                                "e":  "a repetição obsessiva de uma cor, a aliteração e a imprecisão do sentido"
+                                                "e":  "a repetição obsessiva de uma cor até que ela perca o valor descritivo e vire atmosfera, a aliteração em b e l e a imprecisão do que se afirma"
                                             },
                            "resposta":  "e",
                            "explicacao":  "O branco volta em todos os versos até perder o valor descritivo e virar atmosfera; as sequências em b e l constroem a musicalidade; e o poema termina sem afirmar nada de verificável. É o programa simbolista em funcionamento.",
@@ -24644,9 +27289,9 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "abandonar por completo as formas herdadas do século anterior, substituindo-as por procedimentos experimentais criados coletivamente",
                                                 "b":  "seguir um programa estético comum, definido em manifesto publicado pelos participantes no início da primeira década do século passado",
-                                                "c":  "não constituir escola única, reunindo autores que revelam o país real",
+                                                "c":  "não constituir escola única, reunindo autores que, cada um a seu modo, revelam o país que a literatura oficial não mostrava",
                                                 "d":  "concentrar-se exclusivamente na produção poética, sem que houvesse contribuição relevante no campo da prosa de ficção durante o período",
-                                                "e":  "reproduzir com fidelidade as vanguardas europeias então em circulação, sem qualquer adaptação às condições particulares do país"
+                                                "e":  "reproduzir com fidelidade as vanguardas europeias então em circulação, sem adaptação ao país"
                                             },
                            "resposta":  "c",
                            "explicacao":  "Não há manifesto nem grupo: o que reúne Euclides, Lima Barreto, Lobato e Augusto dos Anjos é a atenção ao Brasil que a literatura oficial não mostrava — o sertão, o subúrbio, o caboclo doente.",
@@ -24657,7 +27302,7 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "\"Os Sertões\", de Euclides da Cunha, divide-se em três partes: \"A Terra\", \"O Homem\" e \"A Luta\".",
                            "enunciado":  "Essa organização reflete:",
                            "alternativas":  {
-                                                "a":  "o método determinista, que explica o conflito pelo meio e pela formação do povo",
+                                                "a":  "o método determinista, que explica o conflito pelo meio e pelo tipo humano que esse meio produz, antes de narrar o episódio",
                                                 "b":  "a divisão cronológica dos acontecimentos, apresentados na ordem em que teriam ocorrido durante o período abrangido pela narrativa da obra",
                                                 "c":  "a estrutura do romance de folhetim, dividido em partes de extensão semelhante para permitir a publicação periódica em jornais da época",
                                                 "d":  "a alternância entre passagens narrativas e passagens líricas, arranjo que o autor teria adotado por influência da tradição poética simbolista",
@@ -24672,11 +27317,11 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Em \"Os Sertões\", termos de geologia, botânica e antropologia convivem com imagens de forte carga expressiva.",
                            "enunciado":  "Essa combinação faz da obra um texto:",
                            "alternativas":  {
-                                                "a":  "de caráter memorialístico, centrado na reconstrução das lembranças pessoais do autor a respeito do período em que serviu no exército",
+                                                "a":  "de caráter memorialístico, centrado nas lembranças pessoais do autor sobre o período",
                                                 "b":  "estritamente científico, cuja linguagem obedece integralmente às convenções dos relatórios técnicos produzidos no período pelos institutos de pesquisa",
                                                 "c":  "estritamente ficcional, no qual os elementos técnicos funcionam apenas como recurso de verossimilhança para uma narrativa inteiramente inventada",
                                                 "d":  "de natureza jornalística, limitado ao registro dos fatos observados pelo autor durante sua permanência na região em que ocorreu o conflito",
-                                                "e":  "de fronteira entre o tratado científico e a literatura"
+                                                "e":  "de fronteira entre o tratado científico e a literatura, um livro que quer explicar como ciência e escreve como literatura"
                                             },
                            "resposta":  "e",
                            "explicacao":  "O livro quer explicar como ciência e escreve como literatura. Essa duplicidade é o que o torna difícil de classificar — e o que sustenta sua permanência muito depois de as teorias que o fundamentam terem caído.",
@@ -24688,7 +27333,7 @@ window.QUESTION_BANKS = {
                            "enunciado":  "Essa escolha o distingue de seus contemporâneos porque:",
                            "alternativas":  {
                                                 "a":  "adota linguagem hermética e vocabulário erudito, em contraste com a simplicidade praticada pelos demais prosadores brasileiros do período",
-                                                "b":  "desloca o foco da elite letrada para quem vivia à margem dela",
+                                                "b":  "desloca o foco da elite letrada para quem vivia à margem dela, retratando a repartição, o subúrbio e a humilhação cotidiana de quem não tinha proteção",
                                                 "c":  "situa a ação em passado remoto e idealizado, escolha que o aproxima dos romances históricos produzidos durante o Romantismo brasileiro",
                                                 "d":  "concentra-se na descrição da paisagem natural, tratada com o rigor documental característico da produção naturalista do século anterior",
                                                 "e":  "abandona a prosa de ficção em favor do ensaio político, gênero em que teria concentrado sua produção a partir da segunda década do século"
@@ -24702,10 +27347,10 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Em \"Triste Fim de Policarpo Quaresma\", a personagem-título dedica-se a projetos de valorização do país e termina destruída por eles.",
                            "enunciado":  "O desfecho permite ler a obra como:",
                            "alternativas":  {
-                                                "a":  "romance histórico centrado na reconstituição fiel dos acontecimentos políticos ocorridos no início do período republicano brasileiro",
+                                                "a":  "romance histórico centrado na reconstituição fiel da política do início da República",
                                                 "b":  "exaltação do patriotismo, apresentado como valor capaz de superar todas as dificuldades enfrentadas pela personagem ao longo da narrativa",
                                                 "c":  "estudo naturalista de um caso de degeneração hereditária, cuja evolução o narrador acompanha com o distanciamento próprio da ciência",
-                                                "d":  "crítica ao nacionalismo ingênuo e ao país que o desampara",
+                                                "d":  "crítica ao nacionalismo ingênuo e ao país que desampara justamente quem pretendia servi-lo com amor absoluto",
                                                 "e":  "narrativa de formação em que a personagem amadurece progressivamente e alcança, ao final, a integração plena à sociedade em que vive"
                                             },
                            "resposta":  "d",
@@ -24718,8 +27363,8 @@ window.QUESTION_BANKS = {
                            "enunciado":  "A revisão consistiu em atribuir aquele comportamento a:",
                            "alternativas":  {
                                                 "a":  "herança genética transmitida entre gerações, explicação que o autor teria adotado a partir da leitura das teorias raciais em circulação no período",
-                                                "b":  "doença e falta de saneamento, e não a defeito de caráter",
-                                                "c":  "influência do clima tropical sobre o organismo humano, fator que segundo ele determinaria o comportamento das populações do interior do país",
+                                                "b":  "doença e falta de saneamento, e não a defeito de caráter — revisão que a campanha sanitarista impôs à leitura do autor",
+                                                "c":  "influência do clima tropical sobre o organismo humano, fator apontado como determinante",
                                                 "d":  "escolha deliberada da personagem por um modo de vida afastado das exigências do trabalho, posição que o autor manteve ao longo de sua obra",
                                                 "e":  "efeito da urbanização acelerada sobre as comunidades rurais, processo que teria desorganizado as formas tradicionais de vida no campo brasileiro"
                                             },
@@ -24735,7 +27380,7 @@ window.QUESTION_BANKS = {
                                                 "a":  "descrever com exatidão os processos biológicos observados, sem que haja qualquer carga expressiva associada aos termos empregados",
                                                 "b":  "divulgar ao público leigo os avanços científicos do período, finalidade pedagógica que orienta a construção de cada uma de suas composições",
                                                 "c":  "aproximar a poesia da linguagem dos relatórios técnicos, escolha formal que o autor teria adotado por influência da produção parnasiana",
-                                                "d":  "tratar a decomposição da matéria como tema poético central",
+                                                "d":  "tratar a decomposição da matéria como tema poético central, com o estranhamento do léxico como parte do efeito",
                                                 "e":  "demonstrar erudição diante dos leitores de seu tempo, propósito que o próprio autor reconheceu em textos publicados posteriormente"
                                             },
                            "resposta":  "d",
@@ -24747,10 +27392,10 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Augusto dos Anjos é frequentemente descrito como autor de difícil classificação, com traços simbolistas, parnasianos e naturalistas.",
                            "enunciado":  "Essa dificuldade é típica do Pré-Modernismo porque:",
                            "alternativas":  {
-                                                "a":  "o período reúne autores individuais, sem programa estético comum",
+                                                "a":  "o período reúne autores individuais, sem programa estético comum, cada um misturando de um jeito próprio o que herdou",
                                                 "b":  "os autores desse momento produziram simultaneamente em várias escolas por exigência dos editores, que buscavam atingir públicos distintos",
                                                 "c":  "a crítica literária brasileira só se organizou décadas depois, o que impediu a classificação adequada das obras produzidas naquele momento",
-                                                "d":  "as escolas literárias europeias chegavam ao país com atraso e se sobrepunham, sem que houvesse produção original em nenhuma delas",
+                                                "d":  "as escolas europeias chegavam ao país com atraso, sem que houvesse produção original",
                                                 "e":  "os autores do período recusavam deliberadamente qualquer filiação estética, posição que assumiram em manifesto conjunto publicado à época"
                                             },
                            "resposta":  "a",
@@ -24766,7 +27411,7 @@ window.QUESTION_BANKS = {
                                                 "b":  "um estreitamento do campo temático, com abandono sucessivo dos assuntos tratados por cada uma das tendências que antecederam a seguinte",
                                                 "c":  "uma alternância entre ambientes urbanos e rurais sem qualquer relação com as transformações sociais em curso no país durante o período",
                                                 "d":  "a substituição da prosa pela poesia como gênero dominante, processo que se completa nas primeiras décadas do século vinte no Brasil",
-                                                "e":  "uma ampliação progressiva do que a literatura brasileira aceita retratar"
+                                                "e":  "uma ampliação progressiva do que a literatura brasileira aceita retratar, já que cada etapa incorpora um espaço e um tipo humano que a anterior não via"
                                             },
                            "resposta":  "e",
                            "explicacao":  "Cada etapa incorpora um espaço e um tipo humano que o anterior não via. É um alargamento do que se considera matéria literária, e ele prepara a virada modernista.",
@@ -24779,8 +27424,8 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "obteve aprovação imediata da crítica e do público, o que garantiu a difusão rápida das novas propostas em todo o território nacional",
                                                 "b":  "reuniu pela primeira vez artistas de diferentes linguagens em torno de um programa estético detalhadamente definido em documento prévio",
-                                                "c":  "tornou pública uma ruptura que já vinha sendo preparada",
-                                                "d":  "resultou na fundação de uma instituição permanente encarregada de organizar a produção artística brasileira nas décadas seguintes",
+                                                "c":  "tornou pública, com escândalo e vaias, uma ruptura que já vinha sendo preparada e já circulava antes dele",
+                                                "d":  "resultou na fundação de uma instituição permanente encarregada de organizar a arte brasileira",
                                                 "e":  "marcou o encerramento das atividades dos grupos ligados às escolas anteriores, que deixaram de publicar a partir daquele mesmo ano"
                                             },
                            "resposta":  "c",
@@ -24792,11 +27437,11 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "O Manifesto da Poesia Pau-Brasil, de Oswald de Andrade, propõe uma poesia de exportação, feita de coisas simples e da língua falada no país.",
                            "enunciado":  "A proposta implica:",
                            "alternativas":  {
-                                                "a":  "abandonar a produção poética em favor do ensaio crítico, gênero em que o movimento teria concentrado sua contribuição mais duradoura",
+                                                "a":  "abandonar a poesia em favor do ensaio crítico, gênero em que o movimento teria se firmado",
                                                 "b":  "retomar as formas fixas da tradição poética portuguesa, adaptando-as aos assuntos locais sem alterar a estrutura métrica herdada do período anterior",
                                                 "c":  "restringir a literatura brasileira a temas rurais, com abandono definitivo dos assuntos urbanos tratados pelos autores das gerações precedentes",
                                                 "d":  "aproximar a poesia da linguagem científica, incorporando ao verso o vocabulário técnico produzido pelas disciplinas experimentais do período",
-                                                "e":  "inverter a relação de dependência cultural com a Europa"
+                                                "e":  "inverter a relação de dependência cultural com a Europa, passando a exportar também a forma, e não apenas a matéria-prima"
                                             },
                            "resposta":  "e",
                            "explicacao":  "Se o Brasil sempre importou forma e exportou matéria-prima, a proposta é exportar também a forma. Daí o nome: pau-brasil, primeiro produto de exportação, agora como programa poético.",
@@ -24809,7 +27454,7 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "a exportação de produtos culturais brasileiros – importar bens de consumo – restringir a circulação de obras produzidas em outros países",
                                                 "b":  "a recusa integral de toda influência externa – aceitar contribuições estrangeiras – preservar as tradições culturais formadas no território brasileiro",
-                                                "c":  "a assimilação crítica do que vem de fora – copiar servilmente – recusar por nacionalismo fechado",
+                                                "c":  "a assimilação crítica do que vem de fora – copiar servilmente – recusar por nacionalismo fechado, extremos que a metáfora dissolve",
                                                 "d":  "o retorno às formas literárias do período colonial – experimentar procedimentos novos – manter o diálogo com as vanguardas europeias do período",
                                                 "e":  "a documentação científica dos rituais indígenas – interpretar livremente essas práticas – atribuir a elas qualquer valor simbólico para a arte moderna"
                                             },
@@ -24824,9 +27469,9 @@ window.QUESTION_BANKS = {
                            "enunciado":  "Essas composições são conhecidas como:",
                            "alternativas":  {
                                                 "a":  "soneto decassílabo, forma fixa retomada pelo autor a partir da tradição parnasiana e adaptada aos assuntos tratados pelo movimento modernista",
-                                                "b":  "poema-piada, forma que usa o humor como recurso de ruptura",
+                                                "b":  "poema-piada, forma breve em que o humor quebra a solenidade do poema e ataca a tradição que o sustentava",
                                                 "c":  "poema em prosa, gênero de fronteira em que o texto conserva a disposição gráfica da prosa e o tratamento formal característico da poesia",
-                                                "d":  "poesia concreta, produção que explora a disposição espacial das palavras na página como elemento constitutivo do sentido da composição",
+                                                "d":  "poesia concreta, produção que explora a disposição espacial das palavras na página",
                                                 "e":  "poema condoreiro, composição de tom elevado destinada à declamação pública e voltada à defesa de causas sociais de grande alcance coletivo"
                                             },
                            "resposta":  "b",
@@ -24841,7 +27486,7 @@ window.QUESTION_BANKS = {
                                                 "a":  "reproduz a estrutura da epopeia clássica, com invocação, proposição e narrativa organizada em cantos de extensão regular ao longo do volume",
                                                 "b":  "obedece rigorosamente à estrutura do romance de formação, acompanhando o amadurecimento progressivo da personagem principal ao longo do enredo",
                                                 "c":  "documenta com exatidão etnográfica os mitos de um único povo indígena, registrados pelo autor durante viagem de pesquisa ao interior do país",
-                                                "d":  "costura materiais de origens diversas num conjunto novo",
+                                                "d":  "costura materiais de origens diversas num conjunto novo, reunindo numa forma só lendas, provérbios e falares recolhidos em regiões distintas do país",
                                                 "e":  "apresenta enredo linear e desfecho conclusivo, características que a aproximam da tradição do romance realista do século anterior no Brasil"
                                             },
                            "resposta":  "d",
@@ -24853,11 +27498,11 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "O subtítulo de \"Macunaíma\" é \"o herói sem nenhum caráter\".",
                            "enunciado":  "A expressão deve ser entendida, sobretudo, como indicação de que a personagem:",
                            "alternativas":  {
-                                                "a":  "não tem traço fixo, mudando conforme a circunstância",
+                                                "a":  "não tem traço fixo, mudando de cor, de idade e de intenção conforme a circunstância em que é posta a cada episódio",
                                                 "b":  "é moralmente condenável em todos os episódios da narrativa, avaliação que o narrador reforça a cada uma de suas intervenções no texto",
                                                 "c":  "carece de qualquer relevância para o enredo, funcionando apenas como pretexto para a apresentação das lendas reunidas ao longo do livro",
                                                 "d":  "representa fielmente um povo indígena determinado, cuja cultura o autor teria buscado documentar com rigor científico ao longo da obra",
-                                                "e":  "permanece idêntica a si mesma do início ao fim, sem que os acontecimentos narrados produzam qualquer alteração em seu comportamento"
+                                                "e":  "permanece idêntica a si mesma do início ao fim, sem que os acontecimentos a alterem"
                                             },
                            "resposta":  "a",
                            "explicacao":  "\"Caráter\" está aí no sentido de marca distintiva, não de moral: Macunaíma muda de cor, de idade, de intenção. A falta de contorno fixo é a proposta — e uma hipótese sobre o próprio país.",
@@ -24868,8 +27513,8 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "\"Paulicéia Desvairada\", de Mário de Andrade, vem acompanhada de um \"Prefácio Interessantíssimo\" em que o autor discute suas escolhas formais.",
                            "enunciado":  "Entre essas escolhas está:",
                            "alternativas":  {
-                                                "a":  "o verso livre e o registro da cidade em transformação",
-                                                "b":  "o soneto em decassílabos e a descrição de objetos de arte, procedimentos herdados da tradição parnasiana ainda dominante naquele momento",
+                                                "a":  "o verso livre e o registro da cidade em transformação, com ritmo próximo da fala e imagens simultâneas do que se vê",
+                                                "b":  "o soneto em decassílabos e a descrição de objetos de arte, herdados do Parnasianismo",
                                                 "c":  "a narrativa em prosa organizada em capítulos curtos, forma que o autor teria adotado por influência da produção ficcional europeia do período",
                                                 "d":  "a métrica em redondilha maior e o vocabulário arcaico, escolhas destinadas a aproximar o livro da tradição popular do Nordeste brasileiro",
                                                 "e":  "o abandono completo da pontuação e a disposição espacial das palavras, procedimentos que só apareceriam na produção brasileira décadas depois"
@@ -24887,7 +27532,7 @@ window.QUESTION_BANKS = {
                                                 "b":  "o abandono da produção literária em favor da pesquisa acadêmica, atividade à qual o autor teria se dedicado exclusivamente na segunda metade da vida",
                                                 "c":  "a intenção de comprovar teorias raciais em circulação no período, mediante coleta sistemática de dados sobre as populações do interior do país",
                                                 "d":  "a busca de reconhecimento internacional para sua obra, objetivo que orientaria a escolha dos temas tratados em cada um de seus livros publicados",
-                                                "e":  "um projeto de fundar a cultura nacional em bases próprias"
+                                                "e":  "um projeto de fundar a cultura nacional em bases próprias, tratada como algo a conhecer e organizar"
                                             },
                            "resposta":  "e",
                            "explicacao":  "Recolher o folclore, defender a língua falada e escrever ficção são partes de uma coisa só. Mário trata a cultura brasileira como algo a ser conhecido e organizado, não apenas celebrado.",
@@ -24898,10 +27543,10 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "A primeira fase do Modernismo brasileiro costuma ser descrita como heroica ou destrutiva.",
                            "enunciado":  "A fase se caracteriza por ______, enquanto a fase seguinte se volta para ______; a passagem entre elas ocorre por volta de ______. As lacunas são preenchidas por:",
                            "alternativas":  {
-                                                "a":  "documentar a realidade social – explorar a subjetividade individual – 1960, quando surge no país a produção de poesia de vanguarda concreta",
+                                                "a":  "documentar a realidade social – explorar a subjetividade individual – 1960, com a poesia concreta",
                                                 "b":  "amadurecer e aprofundar temas – romper com o passado e experimentar – 1945, quando se encerra o período que a crítica identifica como segunda fase",
                                                 "c":  "recuperar as formas clássicas – abandoná-las em favor do verso livre – 1922, ano em que o movimento se torna público durante a Semana de Arte Moderna",
-                                                "d":  "romper com o passado e experimentar – amadurecer e aprofundar temas – 1930",
+                                                "d":  "romper com o passado e experimentar – amadurecer e aprofundar temas – 1930, quando o terreno aberto já pode ser ocupado",
                                                 "e":  "importar as vanguardas europeias – recusá-las integralmente – 1937, período em que a produção literária brasileira sofre restrições políticas severas"
                                             },
                            "resposta":  "d",
@@ -24915,8 +27560,8 @@ window.QUESTION_BANKS = {
                            "enunciado":  "A divergência entre as duas dizia respeito, sobretudo, a:",
                            "alternativas":  {
                                                 "a":  "se a produção literária deveria ser publicada em periódicos ou em volumes, questão editorial que dividiu o grupo em duas facções irreconciliáveis",
-                                                "b":  "qual das formas poéticas fixas deveria ser adotada como padrão pelos autores brasileiros nas décadas seguintes à realização da Semana",
-                                                "c":  "como tratar a herança estrangeira na construção da cultura nacional",
+                                                "b":  "qual das formas poéticas fixas deveria ser adotada como padrão pelos autores brasileiros",
+                                                "c":  "como tratar a herança estrangeira na construção da cultura nacional, pergunta comum a que davam respostas opostas",
                                                 "d":  "se o movimento deveria manter-se restrito a São Paulo ou expandir-se para outras capitais, disputa de natureza estritamente organizativa",
                                                 "e":  "qual seria a data adequada para considerar encerrado o período de ruptura e iniciada a fase de consolidação da produção modernista brasileira"
                                             },
@@ -24930,7 +27575,7 @@ window.QUESTION_BANKS = {
                            "enunciado":  "São procedimentos da primeira fase modernista presentes no poema:",
                            "alternativas":  {
                                                 "a":  "a métrica regular em decassílabos, o vocabulário erudito e a descrição minuciosa de objetos de arte segundo o modelo parnasiano do período",
-                                                "b":  "o verso livre, o registro urbano e o humor que desfaz a solenidade",
+                                                "b":  "o verso livre, o registro da cidade em movimento, o humor que desfaz a solenidade da pergunta grave e a recusa da pontuação e da maiúscula no título",
                                                 "c":  "a musicalidade obtida por aliteração, a sinestesia e a preferência pelo vago, recursos que caracterizam a produção simbolista brasileira",
                                                 "d":  "o tom oratório dirigido a auditórios, as imagens de multidão e a defesa explícita de causas sociais em versos destinados à declamação",
                                                 "e":  "a organização em estrofes regulares com esquema de rimas alternadas, estrutura herdada da tradição da poesia lírica portuguesa clássica"
@@ -24944,10 +27589,10 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Manuel Bandeira publicou seus primeiros livros ainda sob influência parnasiana e simbolista e, mais tarde, aderiu às propostas modernistas.",
                            "enunciado":  "Sua trajetória é relevante para o estudo do período porque:",
                            "alternativas":  {
-                                                "a":  "indica que a adesão ao movimento modernista exigia o abandono completo de qualquer forma poética herdada da tradição anterior a ele",
+                                                "a":  "indica que aderir ao Modernismo exigia abandonar por completo as formas herdadas",
                                                 "b":  "comprova que o Modernismo brasileiro se constituiu sem qualquer relação com as escolas literárias que o antecederam no país ao longo do século",
                                                 "c":  "demonstra que os autores do período mantiveram-se fiéis a uma única corrente estética ao longo de toda a sua produção literária publicada",
-                                                "d":  "mostra a transição entre a tradição e a ruptura dentro de um mesmo autor",
+                                                "d":  "mostra a transição entre a tradição e a ruptura dentro de um mesmo autor, que convive com as duas e leva o que herdou consigo",
                                                 "e":  "revela que a poesia produzida antes de 1922 não apresenta valor estético autônomo e só se justifica como preparação para o período seguinte"
                                             },
                            "resposta":  "d",
@@ -24960,7 +27605,7 @@ window.QUESTION_BANKS = {
                            "enunciado":  "Esse conjunto de escolhas caracteriza:",
                            "alternativas":  {
                                                 "a":  "o hermetismo, que dificulta deliberadamente o acesso ao sentido do poema e exige do leitor conhecimento prévio de repertório especializado",
-                                                "b":  "o coloquialismo, que aproxima o poema da fala comum",
+                                                "b":  "o coloquialismo, que aproxima o poema da fala comum e o deixa acessível na superfície sem lhe tirar densidade",
                                                 "c":  "o didatismo, que subordina a composição poética à transmissão de um conteúdo previamente definido por quem escreve o texto literário",
                                                 "d":  "o formalismo, que privilegia o cumprimento rigoroso das regras de métrica e de rima em detrimento do assunto tratado em cada composição",
                                                 "e":  "o descritivismo, que consiste em reproduzir com exatidão os elementos observados no mundo exterior sem qualquer intervenção subjetiva"
@@ -24975,8 +27620,8 @@ window.QUESTION_BANKS = {
                            "enunciado":  "Ela mantém ______ da fase anterior, mas acrescenta ______ e volta-se para ______. As lacunas são preenchidas por:",
                            "alternativas":  {
                                                 "a":  "o tom polêmico – rigor descritivo – a documentação etnográfica das manifestações populares recolhidas durante viagens pelo interior do país",
-                                                "b":  "a métrica regular – humor e ironia – a polêmica com as escolas literárias anteriores, retomada com maior intensidade a partir daquele momento",
-                                                "c":  "a liberdade formal – densidade reflexiva – questões existenciais e sociais",
+                                                "b":  "a métrica regular – humor e ironia – a polêmica com as escolas anteriores",
+                                                "c":  "a liberdade formal – densidade reflexiva – questões existenciais e sociais, usando a liberdade herdada para pensar o mundo",
                                                 "d":  "a brevidade extrema – vocabulário científico – a explicação do comportamento humano a partir de fatores hereditários e das condições do meio",
                                                 "e":  "a paródia sistemática – formas fixas herdadas – a recuperação do repertório da tradição clássica greco-latina abandonado no período anterior"
                                             },
@@ -24990,10 +27635,10 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Carlos Drummond de Andrade construiu uma figura poética frequentemente descrita como \"gauche\": desajustada, à margem, observadora do próprio constrangimento.",
                            "enunciado":  "Essa figura permite ao poeta:",
                            "alternativas":  {
-                                                "a":  "examinar o mundo a partir de quem não se encaixa nele",
+                                                "a":  "examinar o mundo a partir de quem não se encaixa nele, ligando o constrangimento pessoal à crítica do mundo",
                                                 "b":  "assumir posição de autoridade moral diante dos acontecimentos narrados, avaliando-os com a segurança de quem detém conhecimento superior",
                                                 "c":  "reproduzir com fidelidade documental o cotidiano das cidades mineiras, sem que haja qualquer elaboração subjetiva do material observado",
-                                                "d":  "abandonar qualquer referência à experiência pessoal, concentrando a composição em temas abstratos desvinculados da vida do autor",
+                                                "d":  "abandonar qualquer referência à experiência pessoal, tratando apenas temas abstratos",
                                                 "e":  "restringir sua produção ao registro humorístico, único adequado à posição marginal que a figura poética ocupa em relação ao mundo social"
                                             },
                            "resposta":  "a",
@@ -25009,7 +27654,7 @@ window.QUESTION_BANKS = {
                                                 "b":  "o abandono definitivo da produção poética, substituída pelo trabalho de cronista em periódicos de circulação diária durante aquela década",
                                                 "c":  "o retorno às formas fixas da tradição, adotadas como reação ao experimentalismo praticado durante a primeira fase do movimento modernista",
                                                 "d":  "a recusa de qualquer função social para a literatura, defendida pelo autor como atividade autônoma em relação aos acontecimentos do período",
-                                                "e":  "a passagem do individual para o histórico e social"
+                                                "e":  "a passagem do individual para o histórico e social: o eu constrangido dos livros anteriores não desaparece, mas passa a se medir contra a guerra e o coletivo"
                                             },
                            "resposta":  "e",
                            "explicacao":  "O eu constrangido dos livros anteriores não desaparece, mas passa a se medir contra a guerra e o coletivo. É o mesmo poeta perguntando o que a poesia pode fazer quando o mundo está em chamas.",
@@ -25022,8 +27667,8 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "concentrar-se na denúncia das condições sociais do Nordeste, tema que ocupa a maior parte de sua produção publicada durante o período",
                                                 "b":  "recusar integralmente qualquer forma herdada da tradição, posição que a aproxima das propostas defendidas pela primeira fase do movimento",
-                                                "c":  "combinar herança formal antiga com temas de inquietação moderna",
-                                                "d":  "produzir exclusivamente em prosa de ficção, gênero em que a autora se destacou entre os demais participantes de sua geração literária",
+                                                "c":  "combinar herança formal antiga com temas de inquietação moderna, usando a forma da tradição para falar do que não permanece",
+                                                "d":  "produzir exclusivamente em prosa de ficção, gênero em que a autora teria se destacado",
                                                 "e":  "adotar o humor e a paródia como recursos centrais de composição, procedimentos que caracterizam sua obra do início ao fim da trajetória"
                                             },
                            "resposta":  "c",
@@ -25035,7 +27680,7 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "A obra de Vinicius de Moraes costuma ser dividida entre uma fase de inspiração religiosa e transcendente e outra voltada ao amor concreto e às questões sociais.",
                            "enunciado":  "A segunda fase se caracteriza por:",
                            "alternativas":  {
-                                                "a":  "aproximar a poesia da vida cotidiana e da linguagem musical",
+                                                "a":  "aproximar a poesia da vida cotidiana e da linguagem musical, com o amor deixando de ser ideia para virar encontro concreto e o verso indo para a canção",
                                                 "b":  "abandonar completamente o tema amoroso, substituído pela reflexão filosófica sobre a condição humana e sobre o destino do indivíduo moderno",
                                                 "c":  "retomar as formas fixas da tradição parnasiana, com preferência pelo soneto em decassílabos e pelo vocabulário extraído da mitologia clássica",
                                                 "d":  "recusar a colaboração com outros artistas, posição que o autor teria assumido a partir da segunda metade de sua trajetória literária",
@@ -25052,9 +27697,9 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "hermetismo verbal – transparência coloquial – a recusa de qualquer diálogo com a produção literária realizada fora do território brasileiro",
                                                 "b":  "reflexão e alcance social – polêmica e experimento – o compromisso com as formas fixas herdadas da tradição poética anterior ao movimento",
-                                                "c":  "rigor descritivo – documentação científica – a explicação determinista do comportamento humano a partir do meio em que o indivíduo vive",
+                                                "c":  "rigor descritivo – documentação científica – a explicação determinista do comportamento humano",
                                                 "d":  "idealização amorosa – denúncia abolicionista – a construção de heróis nacionais extraídos do passado indígena anterior à colonização do país",
-                                                "e":  "polêmica e experimento – reflexão e alcance social – a liberdade formal conquistada"
+                                                "e":  "polêmica e experimento – reflexão e alcance social – a liberdade formal conquistada, que a segunda fase herda e não devolve"
                                             },
                            "resposta":  "e",
                            "explicacao":  "Uma fase abre o espaço, a outra o ocupa. O que a segunda herda e não devolve é a liberdade de escolher a forma — verso livre, coloquialismo, direito a qualquer assunto.",
@@ -25067,7 +27712,7 @@ window.QUESTION_BANKS = {
                            "enunciado":  "O poema apresenta ______, procedimento típico da segunda fase, e o efeito final depende de ______. As lacunas são preenchidas por:",
                            "alternativas":  {
                                                 "a":  "a idealização da figura do trabalhador – a acumulação de imagens grandiosas que se sucedem ao longo de todas as estrofes da composição",
-                                                "b":  "o cotidiano do trabalho tratado com densidade reflexiva – um deslocamento inesperado no encerramento",
+                                                "b":  "o cotidiano do trabalho tratado com densidade reflexiva – um deslocamento inesperado no encerramento do poema",
                                                 "c":  "a denúncia explícita das condições de trabalho – um apelo direto ao leitor formulado nos versos finais em tom de convocação coletiva",
                                                 "d":  "o rigor métrico em decassílabos e rimas ricas – a simetria entre a primeira e a última estrofe da composição poética apresentada ao leitor",
                                                 "e":  "a exploração da musicalidade por aliteração – a repetição obsessiva de uma mesma palavra ao longo dos versos que compõem cada estrofe"
@@ -25084,8 +27729,8 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "prova de que os autores modernistas desconheciam a produção literária anterior, o que os levava a reproduzi-la de forma imprecisa nos textos",
                                                 "b":  "homenagem respeitosa aos autores do passado, cujos textos são retomados sem qualquer alteração de sentido em relação ao original citado",
-                                                "c":  "recurso destinado exclusivamente a produzir humor, sem que haja intenção crítica em relação ao texto tomado como ponto de partida",
-                                                "d":  "forma de discutir criticamente a tradição sem simplesmente descartá-la",
+                                                "c":  "recurso destinado exclusivamente a produzir humor, sem qualquer intenção crítica",
+                                                "d":  "forma de discutir criticamente a tradição sem descartá-la, citando-a de viés para mostrar o que nela já não serve",
                                                 "e":  "estratégia comercial voltada a atrair leitores já familiarizados com os textos originais, ampliando assim o público das novas publicações"
                                             },
                            "resposta":  "d",
@@ -25098,9 +27743,9 @@ window.QUESTION_BANKS = {
                            "enunciado":  "Sua adoção pelo Modernismo não significa ausência de forma porque o poema passa a se organizar por:",
                            "alternativas":  {
                                                 "a":  "regras métricas alternativas fixadas coletivamente pelos participantes do movimento e publicadas em documento durante a década de 1920",
-                                                "b":  "ritmo interno, corte do verso e disposição das imagens",
+                                                "b":  "ritmo interno, corte do verso e disposição das imagens, decisões que substituem o metro sem eliminar o trabalho formal",
                                                 "c":  "critérios exclusivamente gráficos, definidos pelos editores no momento da composição tipográfica de cada uma das obras então publicadas",
-                                                "d":  "extensão predeterminada, uma vez que os poemas do período obedecem a limite fixo de versos estabelecido pela prática do movimento",
+                                                "d":  "extensão predeterminada, já que os poemas do período teriam limite fixo de versos",
                                                 "e":  "sucessão cronológica dos acontecimentos narrados, o que aproxima o poema moderno da estrutura própria dos gêneros em prosa de ficção"
                                             },
                            "resposta":  "b",
@@ -25115,7 +27760,7 @@ window.QUESTION_BANKS = {
                                                 "a":  "restringiu-se ao estado de São Paulo, sem que houvesse participação de artistas de outras regiões do país no conjunto de suas atividades",
                                                 "b":  "originou-se exclusivamente no campo das artes plásticas, tendo a literatura aderido a ele apenas na década seguinte à realização da Semana",
                                                 "c":  "manteve as duas áreas rigorosamente separadas, sem que houvesse contato entre os participantes de cada uma delas durante todo o período",
-                                                "d":  "articulou literatura e artes visuais em torno de propostas comuns",
+                                                "d":  "articulou literatura e artes visuais em torno de propostas comuns, com as duas áreas discutindo os mesmos problemas e alimentando uma à outra desde o início",
                                                 "e":  "dependeu de financiamento oficial para se organizar, o que teria limitado a liberdade dos participantes na formulação de suas propostas"
                                             },
                            "resposta":  "d",
@@ -25127,7 +27772,7 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "O romance brasileiro dos anos 1930 se desenvolve num contexto de crise econômica mundial, seca no Nordeste e forte polarização política.",
                            "enunciado":  "Essas circunstâncias se refletem na produção do período por meio:",
                            "alternativas":  {
-                                                "a":  "do interesse pela documentação da miséria e do conflito social",
+                                                "a":  "do interesse pela documentação da miséria e do conflito social, com a forma tendendo ao realismo direto",
                                                 "b":  "do afastamento em relação aos assuntos públicos, com preferência por temas domésticos e pela análise psicológica das personagens retratadas",
                                                 "c":  "da retomada dos temas indianistas, apresentados como resposta simbólica às dificuldades econômicas enfrentadas pelo país naquela década",
                                                 "d":  "da adoção do humor e da paródia como recursos dominantes, procedimentos herdados da primeira fase do movimento modernista brasileiro",
@@ -25146,7 +27791,7 @@ window.QUESTION_BANKS = {
                                                 "b":  "uma linguagem ornamental e abundante, que contrasta deliberadamente com a pobreza do ambiente descrito ao longo de todos os capítulos",
                                                 "c":  "um narrador em primeira pessoa que acompanha os fatos do ponto de vista de uma única personagem ao longo de toda a extensão do livro",
                                                 "d":  "um enredo de estrutura tradicional, com apresentação, desenvolvimento do conflito e desfecho que restabelece a ordem inicial rompida",
-                                                "e":  "uma linguagem seca, que reproduz na forma a escassez do mundo narrado"
+                                                "e":  "uma linguagem seca, de frase curta, vocabulário reduzido e adjetivo raro, que não apenas descreve a escassez do mundo narrado, mas a realiza na forma"
                                             },
                            "resposta":  "e",
                            "explicacao":  "A frase é curta, o vocabulário é reduzido, o adjetivo é raro. A forma não descreve a escassez — ela a realiza. É o caso mais citado de correspondência entre estilo e matéria na prosa brasileira.",
@@ -25159,9 +27804,9 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "reproduzir literalmente a fala de cada uma delas, com registro fiel das marcas regionais e das construções próprias do português nordestino",
                                                 "b":  "atribuir às personagens um grau de instrução incompatível com sua condição social, o que compromete a verossimilhança do conjunto da obra",
-                                                "c":  "dar forma verbal a uma experiência que as personagens não conseguem enunciar",
+                                                "c":  "dar forma verbal a uma experiência que as personagens não conseguem enunciar, com o narrador emprestando a língua que lhes falta",
                                                 "d":  "manter distanciamento absoluto em relação ao mundo interior das figuras retratadas, limitando-se ao registro de seus comportamentos visíveis",
-                                                "e":  "transferir ao leitor a tarefa de imaginar os pensamentos das personagens, que o narrador deliberadamente se abstém de apresentar no texto"
+                                                "e":  "transferir ao leitor a tarefa de imaginar os pensamentos das personagens"
                                             },
                            "resposta":  "c",
                            "explicacao":  "Fabiano não tem palavras para o que sente, e a cachorra Baleia não tem palavra nenhuma. O narrador empresta a língua que falta, sem fingir que ela é delas — e é aí que o livro comove.",
@@ -25174,9 +27819,9 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "foi a primeira obra brasileira traduzida para outras línguas, o que garantiu ao romance de 30 projeção internacional imediata na época",
                                                 "b":  "adota procedimentos formais de vanguarda inéditos na literatura brasileira, antecipando as experimentações realizadas nas décadas seguintes",
-                                                "c":  "recupera a estrutura do romance histórico romântico, aplicando-a a acontecimentos ocorridos no período republicano do país",
+                                                "c":  "recupera a estrutura do romance histórico romântico aplicada a fatos republicanos",
                                                 "d":  "concentra-se na análise psicológica das personagens urbanas, deixando o cenário rural como pano de fundo secundário da narrativa",
-                                                "e":  "inaugura o tratamento direto da seca como matéria romanesca"
+                                                "e":  "inaugura o tratamento direto da seca como matéria romanesca, com a retirada, a fome e a desagregação familiar no primeiro plano"
                                             },
                            "resposta":  "e",
                            "explicacao":  "A seca deixa de ser paisagem pitoresca e vira o assunto, com retirada, fome e desagregação familiar. O livro abre caminho para toda a linhagem que Graciliano e José Lins levariam adiante.",
@@ -25189,7 +27834,7 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "ciclo urbano, voltado às transformações sociais provocadas pela industrialização acelerada das capitais brasileiras naquele mesmo período",
                                                 "b":  "ciclo do cangaço, dedicado à reconstituição histórica dos bandos armados que atuaram no sertão nordestino durante as primeiras décadas",
-                                                "c":  "ciclo da cana-de-açúcar, marcado pelo tom memorialístico",
+                                                "c":  "ciclo da cana-de-açúcar, marcado pelo tom memorialístico e pelo percurso do engenho, do apogeu à ruína",
                                                 "d":  "ciclo indianista, retomada do projeto romântico de construção de heróis nacionais a partir do passado anterior à chegada dos colonizadores",
                                                 "e":  "ciclo da imigração, conjunto de obras dedicado à experiência das famílias estrangeiras chegadas ao país nas primeiras décadas do século"
                                             },
@@ -25203,9 +27848,9 @@ window.QUESTION_BANKS = {
                            "enunciado":  "A obra se organiza em torno do fato de que o narrador:",
                            "alternativas":  {
                                                 "a":  "desconhece integralmente os acontecimentos que narra, o que o obriga a reconstituí-los a partir de depoimentos colhidos junto a terceiros",
-                                                "b":  "trata as pessoas como propriedade e só percebe isso quando é tarde",
+                                                "b":  "trata as pessoas como propriedade, conquistando terra, gado e mulher com a mesma lógica, e só percebe isso quando é tarde",
                                                 "c":  "assume posição de observador neutro em relação aos fatos, sem envolvimento pessoal com nenhuma das personagens apresentadas no romance",
-                                                "d":  "é uma figura idealizada, cuja conduta moral serve de exemplo às demais personagens que participam dos acontecimentos narrados na obra",
+                                                "d":  "é uma figura idealizada, cuja conduta moral serve de exemplo às demais personagens",
                                                 "e":  "narra em terceira pessoa e tem acesso ao pensamento de todas as personagens, o que garante ao relato imparcialidade e amplitude de visão"
                                             },
                            "resposta":  "b",
@@ -25220,7 +27865,7 @@ window.QUESTION_BANKS = {
                                                 "a":  "concentrar-se na experimentação formal, com abandono do enredo tradicional e da construção de personagens ao longo de suas narrativas",
                                                 "b":  "adotar a análise psicológica introspectiva como procedimento central, aproximando-se da vertente intimista produzida na mesma década",
                                                 "c":  "recusar qualquer referência regional, com preferência por cenários urbanos genéricos que pudessem ser reconhecidos em qualquer parte do país",
-                                                "d":  "aliar denúncia social e valorização da cultura popular",
+                                                "d":  "aliar a denúncia social à valorização da cultura popular, pondo a exploração no cacau e nas docas ao lado da festa, do candomblé e da vida à beira-mar",
                                                 "e":  "documentar com rigor científico a organização econômica da produção cacaueira, sem qualquer elaboração ficcional dos dados apresentados"
                                             },
                            "resposta":  "d",
@@ -25232,11 +27877,11 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Ao lado do romance regionalista de denúncia, a década de 1930 produziu também romances centrados no conflito interior das personagens.",
                            "enunciado":  "As duas vertentes se distinguem porque a primeira privilegia ______ e a segunda, ______; ambas compartilham ______. As lacunas são preenchidas por:",
                            "alternativas":  {
-                                                "a":  "o meio social e a coletividade – a consciência individual – a recusa da idealização romântica",
+                                                "a":  "o meio social e a coletividade – a consciência individual – a recusa da idealização romântica de personagem e de desfecho",
                                                 "b":  "a consciência individual – o meio social e a coletividade – o compromisso com as formas fixas herdadas da tradição poética anterior ao período",
                                                 "c":  "a experimentação linguística – a documentação etnográfica – a preferência pelo conto em detrimento do romance de maior extensão publicado",
                                                 "d":  "a reconstituição histórica – a projeção do futuro – o abandono do narrador em terceira pessoa em favor do relato conduzido pela personagem",
-                                                "e":  "o humor e a paródia – o hermetismo verbal – a recusa de qualquer diálogo com a produção literária estrangeira contemporânea a elas"
+                                                "e":  "o humor e a paródia – o hermetismo verbal – a recusa de qualquer diálogo com o estrangeiro"
                                             },
                            "resposta":  "a",
                            "explicacao":  "Uma olha para fora, outra para dentro, e as duas nascem do mesmo momento. O que as une é a herança modernista: nenhuma volta a idealizar personagem, ambiente ou desfecho.",
@@ -25248,10 +27893,10 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "A chamada Geração de 45 reagiu ao que considerava excesso de liberdade e de coloquialismo na produção modernista anterior.",
                            "enunciado":  "Essa reação se traduziu na busca de:",
                            "alternativas":  {
-                                                "a":  "maior rigor formal e depuração da linguagem poética",
+                                                "a":  "maior rigor formal e depuração da linguagem poética, com retorno a formas trabalhadas e desconfiança da piada",
                                                 "b":  "aproximação ainda maior da fala cotidiana, com incorporação sistemática de gírias e de construções próprias da oralidade brasileira ao verso",
                                                 "c":  "retomada dos temas indianistas e da construção de heróis nacionais extraídos do passado anterior à chegada dos colonizadores ao território",
-                                                "d":  "abandono da poesia em favor da prosa de ficção, gênero em que a geração teria concentrado integralmente sua produção durante o período",
+                                                "d":  "abandono da poesia em favor da prosa de ficção, gênero em que teriam concentrado a produção",
                                                 "e":  "adesão ao programa naturalista, com aplicação das teorias sobre hereditariedade e meio à construção das personagens de suas narrativas"
                                             },
                            "resposta":  "a",
@@ -25267,7 +27912,7 @@ window.QUESTION_BANKS = {
                                                 "b":  "abandona a forma poética – narrativas em prosa organizadas em capítulos – um relato jornalístico produzido sob as exigências da publicação diária",
                                                 "c":  "renuncia à publicação em vida – manuscritos deixados sem revisão pelo autor – uma obra póstuma reconstituída a partir de fragmentos dispersos",
                                                 "d":  "elimina qualquer referência ao mundo exterior – estados de alma indefinidos – uma composição musical destituída de conteúdo semântico preciso",
-                                                "e":  "recusa o derramamento emotivo – imagens materiais e cálculo – uma engenharia"
+                                                "e":  "recusa o derramamento emotivo, não a emoção – imagens materiais e cálculo – uma engenharia de economia calculada"
                                             },
                            "resposta":  "e",
                            "explicacao":  "\"Antilírico\" não quer dizer sem emoção: quer dizer sem efusão. O poema se constrói como quem levanta uma estrutura, com material concreto — pedra, faca, rio — e economia calculada de meios.",
@@ -25282,8 +27927,8 @@ window.QUESTION_BANKS = {
                                                 "a":  "adotar linguagem hermética e vocabulário erudito, escolha que a distancia deliberadamente do público a que a tradição popular se dirige",
                                                 "b":  "reproduzir integralmente o enredo de um romance de cordel já existente, sem alteração de personagens nem do desfecho tradicionalmente adotado",
                                                 "c":  "abandonar qualquer estrutura formal reconhecível, o que aproxima o texto das experimentações de vanguarda contemporâneas à sua publicação",
-                                                "d":  "retomar a forma do auto e a métrica da poesia de cordel",
-                                                "e":  "situar a ação em ambiente urbano e industrial, deslocamento que rompe com o cenário rural característico da produção popular nordestina"
+                                                "d":  "retomar a forma do auto, vinda do teatro religioso medieval, e a métrica em redondilha maior que o cordel usa",
+                                                "e":  "situar a ação em ambiente urbano e industrial, rompendo com o cenário rural"
                                             },
                            "resposta":  "d",
                            "explicacao":  "O auto vem do teatro religioso medieval e o cordel dá a redondilha maior e a rima. Cabral usa as duas formas populares para tratar de morte, seca e nascimento — e o resultado não é folclórico, é rigoroso.",
@@ -25296,7 +27941,7 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "abandonar completamente o tema regional, substituído por assuntos urbanos sem qualquer relação com a paisagem nordestina anteriormente tratada",
                                                 "b":  "idealizar as condições de vida da população retratada, apresentando-as de modo mais favorável do que o fazia a produção da década anterior",
-                                                "c":  "buscar a contenção onde o romance social buscava a comoção",
+                                                "c":  "buscar a contenção onde o romance social buscava a comoção, de modo a deixar a miséria exposta sem a mediação do sentimento de quem escreve sobre ela",
                                                 "d":  "recorrer à documentação estatística sobre as condições sociais da região, incorporada ao texto sob a forma de dados oficiais citados no poema",
                                                 "e":  "adotar o tom oratório e as imagens de multidão característicos da poesia condoreira produzida durante o período romântico brasileiro"
                                             },
@@ -25310,9 +27955,9 @@ window.QUESTION_BANKS = {
                            "enunciado":  "Esse trabalho com a linguagem tem por objetivo:",
                            "alternativas":  {
                                                 "a":  "reproduzir com fidelidade documental a fala das populações do interior de Minas Gerais, registrada pelo autor durante suas viagens pela região",
-                                                "b":  "criar uma língua capaz de dizer o que a língua corrente não alcança",
+                                                "b":  "criar uma língua capaz de dizer o que a língua corrente não alcança, já que o assunto não cabe no português disponível",
                                                 "c":  "dificultar deliberadamente o acesso do leitor comum à obra, restringindo-a a um público especializado com formação em estudos linguísticos",
-                                                "d":  "aproximar o texto do padrão culto escrito da época, corrigindo os desvios que caracterizavam a prosa regionalista da década anterior",
+                                                "d":  "aproximar o texto do padrão culto escrito da época, corrigindo os desvios do regionalismo",
                                                 "e":  "demonstrar erudição diante da crítica literária então dominante, propósito que o próprio autor reconheceu em entrevistas publicadas na época"
                                             },
                            "resposta":  "b",
@@ -25324,10 +27969,10 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "\"Grande Sertão: Veredas\" é narrado por Riobaldo, que fala continuamente a um interlocutor que nunca se manifesta no texto.",
                            "enunciado":  "Essa estrutura produz o efeito de:",
                            "alternativas":  {
-                                                "a":  "estabelecer distanciamento entre narrador e matéria narrada, o que aproxima a obra dos procedimentos adotados pelo romance naturalista",
+                                                "a":  "estabelecer distanciamento entre narrador e matéria narrada, como no romance naturalista",
                                                 "b":  "garantir a imparcialidade do relato, uma vez que a presença de um segundo interlocutor obriga o narrador a apresentar todas as versões dos fatos",
                                                 "c":  "dividir a narração entre duas vozes de igual peso, cada uma responsável por apresentar sua interpretação dos acontecimentos relatados na obra",
-                                                "d":  "colocar o leitor no lugar de quem escuta sem poder responder",
+                                                "d":  "colocar o leitor no lugar de quem escuta e não pode interromper nem checar aquilo que o único narrador lhe conta",
                                                 "e":  "organizar os acontecimentos em ordem cronológica rigorosa, exigência imposta pela necessidade de tornar o relato compreensível ao ouvinte"
                                             },
                            "resposta":  "d",
@@ -25340,7 +27985,7 @@ window.QUESTION_BANKS = {
                            "enunciado":  "Isso permite afirmar que, em sua obra, o regional funciona como:",
                            "alternativas":  {
                                                 "a":  "limite temático deliberado, escolha que restringe o alcance da obra ao público familiarizado com as particularidades culturais daquela região",
-                                                "b":  "ponto de partida para questões universais",
+                                                "b":  "ponto de partida para questões universais, já que o sertão é ao mesmo tempo lugar concreto e condição humana",
                                                 "c":  "cenário sem função na narrativa, adotado apenas por conveniência biográfica do autor e substituível por qualquer outro sem prejuízo do sentido",
                                                 "d":  "objeto de documentação etnográfica, cuja descrição rigorosa constitui a finalidade principal do conjunto das obras publicadas pelo autor",
                                                 "e":  "recurso de denúncia social, empregado para expor as condições econômicas das populações rurais no período em que as obras foram escritas"
@@ -25354,9 +27999,9 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Nos contos de Guimarães Rosa reunidos em livros como \"Sagarana\" e \"Primeiras Estórias\", é frequente que a narrativa seja conduzida por crianças, loucos ou animais.",
                            "enunciado":  "Essa escolha de perspectiva permite:",
                            "alternativas":  {
-                                                "a":  "reduzir a complexidade da linguagem empregada, adequando o texto a um público leitor de menor familiaridade com a literatura de invenção",
+                                                "a":  "reduzir a complexidade da linguagem, adequando o texto a um público menos familiarizado",
                                                 "b":  "garantir a exatidão do relato, uma vez que essas figuras não teriam interesse pessoal nos acontecimentos que narram ao longo das histórias",
-                                                "c":  "apresentar o mundo sob um olhar que ainda não o organizou em categorias",
+                                                "c":  "apresentar o mundo sob um olhar que ainda não o organizou em categorias e por isso enxerga o que o adulto parou de ver",
                                                 "d":  "atribuir caráter documental às narrativas, que passariam a registrar com fidelidade os modos de vida observados nas comunidades retratadas",
                                                 "e":  "eliminar a figura do narrador, substituída pela apresentação direta dos acontecimentos sem qualquer mediação de um ponto de vista particular"
                                             },
@@ -25369,10 +28014,10 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Nos contos de Clarice Lispector, personagens em situações banais atravessam um instante de percepção que altera sua relação com a própria vida.",
                            "enunciado":  "Esse instante é chamado ______, costuma ocorrer ______ e produz ______. As lacunas são preenchidas por:",
                            "alternativas":  {
-                                                "a":  "epifania – a partir de um estímulo trivial – uma revelação que raramente se traduz em ação",
+                                                "a":  "epifania – a partir de um estímulo trivial – uma revelação que raramente vira ação e muda apenas o modo de suportar a vida",
                                                 "b":  "catarse – ao final de um conflito trágico – a purificação das emoções do público que acompanha a representação dramática da obra encenada",
                                                 "c":  "peripécia – no ponto culminante do enredo – a reviravolta dos acontecimentos em direção ao desfecho previsto pela estrutura da narrativa",
-                                                "d":  "anagnórise – no momento do reconhecimento – a descoberta da verdadeira identidade de uma personagem até então desconhecida das demais",
+                                                "d":  "anagnórise – no momento do reconhecimento – a descoberta da identidade de uma personagem",
                                                 "e":  "digressão – em qualquer ponto do texto – o afastamento momentâneo do assunto principal para o tratamento de tema secundário e independente"
                                             },
                            "resposta":  "a",
@@ -25389,7 +28034,7 @@ window.QUESTION_BANKS = {
                                                 "b":  "da personagem individual para o grupo social a que ela pertence, cuja descrição ocupa a maior parte das narrativas publicadas pela autora",
                                                 "c":  "do presente para a reconstituição histórica, procedimento que aproxima sua obra do romance histórico produzido durante o Romantismo",
                                                 "d":  "da prosa para a poesia, gênero ao qual a autora teria se dedicado com exclusividade a partir da segunda metade de sua trajetória literária",
-                                                "e":  "do acontecimento para a percepção do acontecimento"
+                                                "e":  "do acontecimento para a percepção do acontecimento, já que o enredo se reduz quando o que importa é o que a consciência da personagem faz com aquilo"
                                             },
                            "resposta":  "e",
                            "explicacao":  "O que acontece importa menos do que o que a consciência faz com aquilo. O enredo se reduz porque o assunto se deslocou — e é por isso que resumir um conto dela costuma soar como não ter entendido nada.",
@@ -25400,9 +28045,9 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Em \"A Hora da Estrela\", a história de Macabéa é contada por um narrador que se apresenta, discute suas dificuldades para narrar e comenta a própria posição social diante da personagem.",
                            "enunciado":  "Essa mediação explicitada serve para:",
                            "alternativas":  {
-                                                "a":  "acelerar o ritmo da narrativa, que precisaria ser concluída em extensão reduzida por exigência editorial imposta no momento da publicação",
+                                                "a":  "acelerar o ritmo da narrativa, que precisaria caber em extensão reduzida",
                                                 "b":  "garantir a objetividade do relato, uma vez que o narrador declara previamente suas limitações e assim neutraliza qualquer viés na apresentação",
-                                                "c":  "expor a distância entre quem escreve e quem é escrito",
+                                                "c":  "expor a distância entre quem escreve e quem é escrito, que o narrador não consegue atravessar sem constrangimento",
                                                 "d":  "atribuir à própria personagem a responsabilidade pela narração, procedimento que caracteriza o relato conduzido em primeira pessoa na obra",
                                                 "e":  "reproduzir a estrutura do romance de folhetim, com interrupções destinadas a manter o interesse do público entre uma edição e a seguinte"
                                             },
@@ -25415,7 +28060,7 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Guimarães Rosa e Clarice Lispector são frequentemente apresentados como os dois nomes centrais da prosa brasileira dos anos 1950 e 1960.",
                            "enunciado":  "O trabalho de um se volta para ______ e o do outro, para ______; ambos compartilham ______. As lacunas são preenchidas por:",
                            "alternativas":  {
-                                                "a":  "a invenção de uma língua para o sertão – a sondagem da consciência – a recusa da forma romanesca convencional",
+                                                "a":  "a invenção de uma língua para o sertão – a sondagem da consciência em silêncio – a recusa da forma romanesca convencional",
                                                 "b":  "a sondagem da consciência – a invenção de uma língua para o sertão – o compromisso com a documentação social característica do romance de 30",
                                                 "c":  "a denúncia das condições rurais – a crítica da vida urbana – o emprego de linguagem simples e direta destinada ao público leitor mais amplo",
                                                 "d":  "a reconstituição histórica do país – a projeção de um futuro possível – a organização cronológica rigorosa dos acontecimentos narrados em suas obras",
@@ -25433,9 +28078,9 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "a recuperação das formas fixas clássicas – moldura tradicional herdada – exercício de virtuosismo técnico voltado ao público especializado",
                                                 "b":  "o retorno à métrica regular – suporte neutro de registro – narrativa organizada segundo a sucessão cronológica dos acontecimentos relatados",
-                                                "c":  "a aproximação da fala coloquial – espaço de transcrição direta – documento das variedades linguísticas efetivamente faladas no país",
+                                                "c":  "a aproximação da fala coloquial – espaço de transcrição direta – documento das variedades faladas",
                                                 "d":  "a ampliação da extensão dos poemas – volume de longa duração – ciclo temático desenvolvido ao longo de vários livros publicados em sequência",
-                                                "e":  "a organização espacial das palavras – campo de composição – objeto verbivocovisual"
+                                                "e":  "a organização espacial das palavras – campo de composição – objeto verbivocovisual, que aciona as três dimensões ao mesmo tempo"
                                             },
                            "resposta":  "e",
                            "explicacao":  "Sem verso, o que organiza é o espaço: onde a palavra está na página passa a significar. O termo do grupo — verbivocovisual — junta as três dimensões que o poema deve acionar ao mesmo tempo.",
@@ -25448,7 +28093,7 @@ window.QUESTION_BANKS = {
                            "enunciado":  "Esse modo de circulação corresponde a uma poesia:",
                            "alternativas":  {
                                                 "a":  "de grande complexidade formal, dirigida a leitores especializados e produzida no interior das universidades brasileiras durante aquele período",
-                                                "b":  "de dicção coloquial e cotidiana, feita fora do circuito editorial",
+                                                "b":  "de dicção coloquial e cotidiana, feita fora do circuito editorial, com poema curto, humor e desabafo, num afastamento da editora que é parte da proposta",
                                                 "c":  "de temática histórica, voltada à reconstituição do passado nacional e publicada com apoio de instituições oficiais de fomento à cultura",
                                                 "d":  "de caráter religioso, produzida por grupos organizados em torno de instituições confessionais e distribuída em suas próprias comunidades",
                                                 "e":  "de rigor métrico estrito, com retomada das formas fixas herdadas da tradição e recusa das conquistas formais do período modernista"
@@ -25465,8 +28110,8 @@ window.QUESTION_BANKS = {
                                                 "a":  "estrutura de romance de formação e organização cronológica rigorosa dos episódios que compõem a trajetória da personagem principal do texto",
                                                 "b":  "documentação estatística sobre as condições sociais do Maranhão e análise econômica da produção regional durante o período retratado na obra",
                                                 "c":  "reconstituição histórica do período colonial brasileiro e crítica ao processo de ocupação do território pelos primeiros colonizadores europeus",
-                                                "d":  "memória pessoal e experiência histórica da ditadura",
-                                                "e":  "experimentação tipográfica radical e abandono completo da referência ao mundo exterior, procedimentos herdados da poesia concreta paulista"
+                                                "d":  "memória pessoal e experiência histórica da ditadura, inventário de infância e documento político sem separação possível",
+                                                "e":  "experimentação tipográfica radical e abandono completo da referência ao mundo exterior"
                                             },
                            "resposta":  "d",
                            "explicacao":  "Quem está fora do país e não sabe se volta reconstrói a cidade por dentro. O poema é ao mesmo tempo inventário de infância e documento de uma condição política — as duas coisas sem separação possível.",
@@ -25478,7 +28123,7 @@ window.QUESTION_BANKS = {
                            "enunciado":  "Essa produção é representativa da literatura brasileira contemporânea por:",
                            "alternativas":  {
                                                 "a":  "retomar o cenário rural do romance de 30, tratado com os mesmos procedimentos formais adotados pelos autores daquela geração literária",
-                                                "b":  "deslocar o centro da ficção para a cidade violenta e desigual",
+                                                "b":  "deslocar o centro da ficção para a cidade violenta e desigual, que a ficção anterior enxergava apenas de longe",
                                                 "c":  "concentrar-se na análise psicológica introspectiva das personagens, procedimento herdado da vertente intimista dos anos quarenta no país",
                                                 "d":  "recuperar as formas fixas da tradição poética, aplicadas à narrativa em prosa por meio de estruturas métricas distribuídas ao longo do texto",
                                                 "e":  "documentar com rigor científico as estatísticas criminais das capitais brasileiras, incorporadas ao texto sob a forma de relatórios oficiais"
@@ -25493,9 +28138,9 @@ window.QUESTION_BANKS = {
                            "enunciado":  "Entre essas formas indiretas está o uso de:",
                            "alternativas":  {
                                                 "a":  "métrica regular, cuja adoção sinalizaria adesão às formas tradicionais e afastaria o texto da suspeita das autoridades do período militar",
-                                                "b":  "documentação estatística, que apresenta os dados oficiais do período sem qualquer comentário por parte de quem organiza a exposição",
+                                                "b":  "documentação estatística, que apresenta os dados oficiais do período sem comentário",
                                                 "c":  "linguagem científica, adotada para conferir ao texto a neutralidade necessária à sua aprovação pelos órgãos responsáveis pela censura",
-                                                "d":  "alegoria, que diz uma coisa para significar outra",
+                                                "d":  "alegoria, que diz uma coisa para significar outra e desloca a história para outro tempo e lugar, a ser decifrado pelo leitor",
                                                 "e":  "narração em terceira pessoa, escolha que permitiria ao autor negar qualquer vínculo pessoal com as opiniões expressas por suas personagens"
                                             },
                            "resposta":  "d",
@@ -25507,8 +28152,8 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "A crônica brasileira se consolidou no espaço do jornal, com textos curtos publicados regularmente sobre assuntos do dia.",
                            "enunciado":  "Essa origem explica que o gênero seja marcado por:",
                            "alternativas":  {
-                                                "a":  "brevidade, tom conversado e ancoragem no cotidiano",
-                                                "b":  "extensão elevada, linguagem erudita e tratamento sistemático de temas abstratos desvinculados dos acontecimentos correntes do período",
+                                                "a":  "brevidade, tom conversado e ancoragem no cotidiano, ajuste ao espaço pequeno, ao prazo curto e ao leitor com pressa",
+                                                "b":  "extensão elevada, linguagem erudita e tratamento sistemático de temas abstratos",
                                                 "c":  "estrutura dramática dividida em atos, com predomínio do diálogo sobre as passagens de natureza narrativa ou descritiva ao longo do texto",
                                                 "d":  "métrica regular e esquema de rimas, herdados da tradição poética e aplicados ao registro dos assuntos tratados em cada publicação diária",
                                                 "e":  "rigor documental e apresentação de fontes verificáveis, exigências decorrentes da natureza jornalística do veículo em que o gênero circula"
@@ -25526,7 +28171,7 @@ window.QUESTION_BANKS = {
                                                 "b":  "retomar a estrutura da tragédia clássica grega sem qualquer alteração, aplicando-a a personagens extraídas da alta sociedade carioca do período",
                                                 "c":  "restringir sua produção ao teatro de revista, gênero de entretenimento popular predominante nos palcos brasileiros até aquele momento",
                                                 "d":  "abandonar o diálogo como recurso dramático, substituído por longos monólogos que ocupam integralmente cada um dos atos de suas peças",
-                                                "e":  "romper com a comédia de costumes e trazer o conflito para dentro da família"
+                                                "e":  "romper com a comédia de costumes, que fazia rir com tipos reconhecíveis, e trazer para dentro da família o conflito, pondo em cena aquilo que ela esconde"
                                             },
                            "resposta":  "e",
                            "explicacao":  "Antes dele, o palco brasileiro fazia rir com tipos reconhecíveis. Nelson põe em cena o que a família esconde, e o escândalo que provocou é a medida exata de quanto o teatro mudou de assunto.",
@@ -25537,9 +28182,9 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "\"Vestido de Noiva\", de Nelson Rodrigues, organiza-se em três planos simultâneos: o da realidade, o da memória e o da alucinação.",
                            "enunciado":  "Essa estrutura foi decisiva para o teatro brasileiro porque:",
                            "alternativas":  {
-                                                "a":  "eliminou a necessidade de cenário e de iluminação, reduzindo os custos de montagem e permitindo a circulação da peça por todo o território",
+                                                "a":  "eliminou a necessidade de cenário e de iluminação, reduzindo os custos de montagem",
                                                 "b":  "restabeleceu a unidade de tempo, espaço e ação herdada da tradição clássica, princípio que o teatro brasileiro havia abandonado no período anterior",
-                                                "c":  "rompeu com a encenação linear e abriu espaço para a experimentação cênica",
+                                                "c":  "rompeu com a encenação linear e abriu espaço para a experimentação cênica, exigindo outra luz, outra marcação e outro tempo",
                                                 "d":  "transferiu ao público a decisão sobre o desfecho, procedimento participativo que se tornaria corrente no teatro brasileiro das décadas seguintes",
                                                 "e":  "substituiu o texto escrito pela improvisação dos atores, método de criação coletiva adotado a partir daquele momento pelos grupos brasileiros"
                                             },
@@ -25556,7 +28201,7 @@ window.QUESTION_BANKS = {
                                                 "b":  "a substituição integral da tradição popular por modelos eruditos importados, considerados pelo autor mais adequados ao palco brasileiro do período",
                                                 "c":  "o registro documental das manifestações folclóricas do Nordeste, sem qualquer elaboração ficcional do material recolhido pelo autor na região",
                                                 "d":  "a recusa de qualquer diálogo com a tradição religiosa, posição que o autor teria assumido em manifesto publicado junto com a peça encenada",
-                                                "e":  "uma literatura erudita construída a partir de fontes populares"
+                                                "e":  "uma literatura erudita construída a partir de fontes populares, com o cordel e o auto medieval no teatro de repertório"
                                             },
                            "resposta":  "e",
                            "explicacao":  "Suassuna leva o cordel, o mamulengo e o auto medieval para o teatro de repertório sem os tratar como curiosidade. É o projeto do Movimento Armorial: cultura popular como base, não como enfeite.",
@@ -25569,8 +28214,8 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "leitura – convivência – seja produzida coletivamente por grupos organizados em oficinas comunitárias realizadas nas periferias das grandes cidades",
                                                 "b":  "escrita – ciência – reproduza os métodos das disciplinas acadêmicas na apresentação dos temas tratados por autoras contemporâneas brasileiras",
-                                                "c":  "escrita – vivência – seja feita a partir de um lugar concreto de experiência",
-                                                "d":  "descrição – evidência – apresente provas documentais que sustentem cada uma das situações narradas ao longo das obras de ficção publicadas",
+                                                "c":  "escrita – vivência – seja feita a partir de um lugar concreto de experiência, sem a neutralidade que o conceito recusa",
+                                                "d":  "descrição – evidência – apresente provas documentais de cada situação narrada",
                                                 "e":  "narrativa – sobrevivência – trate exclusivamente de situações extremas de risco enfrentadas pelas personagens ao longo de cada uma das histórias"
                                             },
                            "resposta":  "c",
@@ -25583,8 +28228,8 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Nas últimas décadas, autoras e autores negros, indígenas e periféricos passaram a ocupar espaço crescente no debate literário brasileiro.",
                            "enunciado":  "Esse movimento leva à discussão do cânone, entendido como:",
                            "alternativas":  {
-                                                "a":  "a lista definitiva das obras de maior valor estético, estabelecida por critérios objetivos e imunes a qualquer revisão ao longo do tempo",
-                                                "b":  "o conjunto de obras consagradas, resultado de escolhas historicamente situadas",
+                                                "a":  "a lista definitiva das obras de maior valor estético, imune a qualquer revisão",
+                                                "b":  "o conjunto de obras consagradas, resultado de escolhas historicamente situadas sobre quem teve acesso à publicação e à escola",
                                                 "c":  "o catálogo completo de tudo o que foi publicado em determinada língua, organizado em ordem cronológica pelas instituições de pesquisa do país",
                                                 "d":  "o repertório de obras aprovadas por órgãos oficiais para uso escolar, definido por comissões técnicas a cada ciclo de avaliação didática",
                                                 "e":  "o conjunto de textos ainda protegidos por direitos autorais, distinção de natureza jurídica sem qualquer implicação sobre o valor literário"
@@ -25601,7 +28246,7 @@ window.QUESTION_BANKS = {
                                                 "a":  "adota exclusivamente formas literárias europeias, o que a aproxima da produção romântica brasileira do século XIX em seus procedimentos formais",
                                                 "b":  "trata dos mesmos temas com maior rigor documental, mantendo no entanto a idealização das figuras retratadas conforme o modelo do período anterior",
                                                 "c":  "restringe-se ao registro de narrativas orais recolhidas por pesquisadores não indígenas, sem participação das comunidades na elaboração do texto",
-                                                "d":  "os próprios indígenas passam a escrever, em vez de serem representados",
+                                                "d":  "os próprios indígenas passam a escrever, em vez de serem representados por outros autores, e a mudança de quem segura a caneta altera tudo o que se diz",
                                                 "e":  "abandona qualquer referência à experiência coletiva, concentrando-se na expressão de estados subjetivos individuais de cada um dos autores"
                                             },
                            "resposta":  "d",
@@ -25613,9 +28258,9 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Muitas obras literárias brasileiras foram adaptadas para o cinema e a televisão, com alterações de enredo, de personagens e de desfecho.",
                            "enunciado":  "Do ponto de vista dos estudos literários, essas alterações devem ser entendidas como:",
                            "alternativas":  {
-                                                "a":  "consequência de linguagens distintas, e não como infidelidade",
+                                                "a":  "consequência de linguagens distintas, e não como infidelidade, já que o que a prosa faz com o narrador o cinema faz com imagem e corte",
                                                 "b":  "falhas de execução decorrentes do desconhecimento da obra original por parte das equipes responsáveis pela realização de cada uma das adaptações",
-                                                "c":  "exigências comerciais impostas pelos financiadores, sem qualquer relação com as características formais próprias de cada uma das duas linguagens",
+                                                "c":  "exigências comerciais impostas pelos financiadores, sem relação com a forma",
                                                 "d":  "provas de que a literatura não pode ser adaptada, uma vez que qualquer transposição para outro suporte descaracteriza integralmente a obra original",
                                                 "e":  "recursos destinados a facilitar a compreensão do público, que segundo os adaptadores não teria condições de acompanhar a obra em sua forma original"
                                             },
@@ -25628,7 +28273,7 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "A literatura brasileira contemporânea reúne autores de origens, temas e propostas formais muito diversos, sem que se possa apontar uma corrente dominante.",
                            "enunciado":  "Essa característica se explica, entre outros fatores, por:",
                            "alternativas":  {
-                                                "a":  "a ampliação do acesso à publicação e a pluralização das vozes autorais",
+                                                "a":  "a ampliação do acesso à publicação e a pluralização das vozes autorais, com editoras independentes, coletivos e saraus",
                                                 "b":  "a existência de um programa estético comum definido em manifesto publicado no início do período por representantes dos principais grupos literários",
                                                 "c":  "o encerramento das atividades das editoras comerciais, o que teria transferido a produção literária inteiramente para o âmbito universitário",
                                                 "d":  "a padronização crescente dos temas tratados, decorrente da concentração do mercado editorial em um número reduzido de grandes grupos empresariais",
@@ -25645,9 +28290,9 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "a defesa do isolamento da arte em relação aos acontecimentos políticos, posição sustentada pelos dois grupos ao longo de toda a sua atuação",
                                                 "b":  "o compromisso com a métrica regular e com as formas fixas herdadas da tradição poética portuguesa anterior ao período modernista brasileiro",
-                                                "c":  "a filiação declarada ao romance de 30 e a seu programa de documentação das condições sociais das populações rurais do Nordeste brasileiro",
+                                                "c":  "a filiação declarada ao romance de 30 e a seu programa de documentação social",
                                                 "d":  "a produção exclusiva no interior das universidades, com circulação restrita ao público acadêmico especializado em estudos literários no país",
-                                                "e":  "a recusa do lugar tradicional atribuído ao poema e ao livro"
+                                                "e":  "a recusa do lugar tradicional atribuído ao poema e ao livro: uma dissolve o verso, a outra dispensa a editora"
                                             },
                            "resposta":  "e",
                            "explicacao":  "Uma dissolve o verso, a outra dispensa a editora; as duas questionam o que o poema deve ser e onde deve estar. São respostas opostas à mesma insatisfação com o formato herdado.",
@@ -25660,8 +28305,8 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "a alternância entre heróis urbanos e rurais sem qualquer relação com as transformações sociais em curso no país durante cada um dos períodos",
                                                 "b":  "a consolidação do modelo heroico romântico, cujos traços se mantêm inalterados ao longo de todos os períodos da literatura brasileira citados",
-                                                "c":  "a substituição do protagonista individual pelo coletivo, processo que se completa já nas primeiras décadas do século dezenove no país",
-                                                "d":  "o afastamento progressivo do modelo heroico tradicional",
+                                                "c":  "a substituição do protagonista individual pelo coletivo já no século dezenove",
+                                                "d":  "o afastamento progressivo do modelo heroico tradicional, com o protagonista perdendo nobreza, coerência e por fim a palavra",
                                                 "e":  "o retorno cíclico ao modelo clássico da epopeia greco-latina, retomado por cada geração após períodos de experimentação com outras formas"
                                             },
                            "resposta":  "d",
@@ -25673,9 +28318,9 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Considere o tratamento da linguagem: o Parnasianismo busca precisão e vocabulário selecionado; o Modernismo incorpora a fala brasileira; Guimarães Rosa inventa palavras.",
                            "enunciado":  "A sequência mostra que a linguagem passa de:",
                            "alternativas":  {
-                                                "a":  "elemento secundário a preocupação central, deslocamento que só se verifica na produção literária brasileira a partir da década de mil novecentos e oitenta",
+                                                "a":  "elemento secundário a preocupação central, deslocamento que só se verificaria a partir da década de 1980",
                                                 "b":  "matéria a ser transformada a instrumento a ser dominado, percurso que acompanha o retorno progressivo às formas fixas da tradição literária",
-                                                "c":  "instrumento a ser dominado a matéria a ser transformada",
+                                                "c":  "instrumento a ser dominado a matéria a ser transformada, com a escrita deixando de ser meio transparente para se tornar o próprio objeto de trabalho",
                                                 "d":  "recurso de comunicação a obstáculo deliberado, com progressiva restrição do público leitor a especialistas em estudos linguísticos no país",
                                                 "e":  "traço regional a padrão nacional unificado, processo que se completa com a fixação de uma norma escrita única para todo o território brasileiro"
                                             },
@@ -25689,9 +28334,9 @@ window.QUESTION_BANKS = {
                            "enunciado":  "Essa apresentação é útil, mas exige a ressalva de que:",
                            "alternativas":  {
                                                 "a":  "as datas de início e de encerramento de cada período foram estabelecidas pelos próprios autores em documentos publicados no início de cada um",
-                                                "b":  "os períodos se sobrepõem e convivem, e muitos autores não cabem em nenhum",
+                                                "b":  "os períodos se sobrepõem e convivem, e muitos autores não cabem em nenhum: a periodização organiza o estudo, não a literatura",
                                                 "c":  "a sucessão obedece a uma lei histórica necessária, de modo que cada período só poderia ter surgido no momento exato em que efetivamente surgiu",
-                                                "d":  "cada autor pertence a um único período, definido pela data de publicação de sua primeira obra e mantido ao longo de toda a sua trajetória",
+                                                "d":  "cada autor pertence a um único período, fixado pela data de sua primeira obra",
                                                 "e":  "a divisão em períodos é criação recente da crítica universitária e não corresponde a nenhuma diferença real entre as obras assim classificadas"
                                             },
                            "resposta":  "b",
@@ -25706,7 +28351,7 @@ window.QUESTION_BANKS = {
                                                 "a":  "descritivo – dissertativo – injuntivo, tipos textuais que a tradição literária adota como critério de organização de seu repertório de obras",
                                                 "b":  "épico ou narrativo – dramático – lírico, distribuição que corresponde à ordem cronológica em que os três gêneros teriam surgido na tradição ocidental",
                                                 "c":  "dramático – lírico – épico ou narrativo, classificação que decorre da extensão média das obras produzidas em cada um dos três conjuntos citados",
-                                                "d":  "lírico – épico ou narrativo – dramático",
+                                                "d":  "lírico – épico ou narrativo – dramático, divisão vinda da Antiguidade cujas fronteiras, na prática, vazam",
                                                 "e":  "romântico – realista – modernista, denominações que correspondem a escolas literárias e não a categorias de organização dos gêneros literários"
                                             },
                            "resposta":  "d",
@@ -25720,8 +28365,8 @@ window.QUESTION_BANKS = {
                            "enunciado":  "A principal consequência da escolha do primeiro é:",
                            "alternativas":  {
                                                 "a":  "garantir maior objetividade ao relato, uma vez que quem participou dispõe de informações mais precisas sobre os acontecimentos que narra ao leitor",
-                                                "b":  "limitar o conhecimento ao que a personagem viu e quis contar",
-                                                "c":  "permitir acesso simultâneo ao pensamento de todas as personagens envolvidas, o que amplia a compreensão do conjunto dos fatos narrados",
+                                                "b":  "limitar o conhecimento ao que a personagem viu e quis contar, já que ela não sabe o que não presenciou e tem interesse no relato",
+                                                "c":  "permitir acesso simultâneo ao pensamento de todas as personagens envolvidas",
                                                 "d":  "eliminar a figura do narrador, substituída pela apresentação direta dos acontecimentos sem qualquer mediação de um ponto de vista particular",
                                                 "e":  "impor a organização cronológica rigorosa dos episódios, exigência que decorre da posição ocupada por quem conduz a narrativa dentro dela"
                                             },
@@ -25734,9 +28379,9 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Em algumas narrativas, o narrador em terceira pessoa informa o que cada personagem pensa e sente, inclusive o que elas ocultam umas das outras.",
                            "enunciado":  "Esse narrador é chamado:",
                            "alternativas":  {
-                                                "a":  "personagem, por participar diretamente dos acontecimentos que relata ao longo da narrativa conduzida em primeira pessoa do singular",
+                                                "a":  "personagem, por participar diretamente dos acontecimentos que relata",
                                                 "b":  "observador, por limitar-se ao registro dos comportamentos visíveis das personagens sem qualquer acesso ao que se passa na consciência delas",
-                                                "c":  "onisciente, por conhecer o que nenhuma personagem poderia conhecer",
+                                                "c":  "onisciente, por ter acesso ilimitado ao interior das personagens e conhecer o que nenhuma delas poderia conhecer",
                                                 "d":  "intruso, por interromper com frequência o curso da narrativa a fim de comentar os fatos e orientar a interpretação a ser feita pelo leitor",
                                                 "e":  "não confiável, por apresentar versão dos fatos que o leitor tem motivos para questionar ao longo do desenvolvimento da narrativa apresentada"
                                             },
@@ -25749,7 +28394,7 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Numa narrativa, uma tarde inteira pode ser resolvida em uma linha, e um instante pode ocupar dez páginas.",
                            "enunciado":  "O tempo medido pelo relógio é chamado ______, o tempo tal como a consciência o experimenta é chamado ______, e a diferença entre eles ______. As lacunas são preenchidas por:",
                            "alternativas":  {
-                                                "a":  "cronológico – psicológico – é um recurso de construção da narrativa",
+                                                "a":  "cronológico – psicológico – é um recurso de construção da narrativa, já que dilatar e comprimir o tempo é uma das principais ferramentas do narrador",
                                                 "b":  "psicológico – cronológico – configura falha de composição que a revisão do texto deveria corrigir antes da publicação da obra literária",
                                                 "c":  "histórico – ficcional – separa as narrativas baseadas em fatos reais daquelas inteiramente inventadas por quem as escreve em cada caso",
                                                 "d":  "linear – circular – depende exclusivamente do gênero em que a obra se inscreve, sem que o autor possa interferir nessa organização",
@@ -25768,8 +28413,8 @@ window.QUESTION_BANKS = {
                                                 "a":  "personagem, e não cenário, porque o lugar descrito passa a exercer função equivalente à de um agente dentro da estrutura da narrativa",
                                                 "b":  "espaço físico, e não ambiente, uma vez que apresenta com maior precisão os elementos concretos que compõem o lugar descrito na narrativa",
                                                 "c":  "tempo psicológico, e não espaço, já que a referência à duração da espera desloca o foco da descrição para a experiência subjetiva vivida",
-                                                "d":  "foco narrativo em primeira pessoa, uma vez que a percepção do cheiro só poderia ser atribuída a uma personagem presente naquele local",
-                                                "e":  "ambiente, e não apenas espaço físico"
+                                                "d":  "foco narrativo em primeira pessoa, já que só uma personagem presente sentiria o cheiro",
+                                                "e":  "ambiente, e não apenas espaço físico, já que a descrição informa sobre o estado de quem está naquele lugar"
                                             },
                            "resposta":  "e",
                            "explicacao":  "Espaço é onde a cena ocorre; ambiente é a carga afetiva que o lugar carrega. A segunda frase mede o mesmo cômodo, mas informa sobre o estado de quem está nele — e prepara o leitor para o que vem.",
@@ -25782,7 +28427,7 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "protagonistas e antagonistas, distinção que se estabelece pela posição ocupada por cada uma no conflito central da obra apresentada",
                                                 "b":  "redondas e planas, classificação que decorre da extensão do espaço que cada uma delas ocupa no interior da narrativa em que aparece",
-                                                "c":  "planas e redondas",
+                                                "c":  "planas e redondas, a primeira resumível numa frase e a segunda capaz de surpreender de modo convincente",
                                                 "d":  "principais e secundárias, categorias definidas pela quantidade de episódios em que cada uma das personagens participa ao longo do enredo",
                                                 "e":  "típicas e caricatas, denominações que se referem ao grau de semelhança entre a personagem e as pessoas reais do meio social retratado"
                                             },
@@ -25795,7 +28440,7 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Uma narrativa tradicional costuma apresentar situação inicial, desenvolvimento do conflito, ponto de maior tensão e resolução.",
                            "enunciado":  "Boa parte da ficção do século XX se afasta desse modelo ao:",
                            "alternativas":  {
-                                                "a":  "reduzir o conflito externo e recusar o desfecho conclusivo",
+                                                "a":  "reduzir o conflito externo e recusar o desfecho conclusivo, de modo que o que move o texto não é o que acontece e o leitor precisa trabalhar de outro jeito",
                                                 "b":  "ampliar a extensão de cada uma das quatro etapas, mantendo no entanto a mesma sequência herdada da tradição narrativa do século anterior",
                                                 "c":  "inverter a ordem das etapas, apresentando primeiro a resolução e depois os acontecimentos que a teriam produzido no interior da narrativa",
                                                 "d":  "eliminar a personagem como elemento organizador, substituída pela descrição sistemática dos espaços em que a ação se desenvolveria",
@@ -25814,7 +28459,7 @@ window.QUESTION_BANKS = {
                                                 "b":  "indireto, direto e indireto livre, ordem que decorre da presença ou da ausência de sinais de pontuação que delimitem a fala da personagem",
                                                 "c":  "indireto livre, indireto e direto, classificação determinada pela pessoa gramatical empregada em cada uma das três construções apresentadas",
                                                 "d":  "direto, indireto livre e indireto, sequência estabelecida a partir do grau de intervenção do narrador sobre o conteúdo do pensamento relatado",
-                                                "e":  "direto, indireto e indireto livre"
+                                                "e":  "direto, indireto e indireto livre, conforme haja marca explícita, subordinação por conjunção ou nenhuma das duas"
                                             },
                            "resposta":  "e",
                            "explicacao":  "O direto reproduz com marca explícita; o indireto subordina com \"que\" e ajusta os dêiticos; o indireto livre dispensa as duas coisas e deixa a voz da personagem invadir a narração sem aviso.",
@@ -25826,9 +28471,9 @@ window.QUESTION_BANKS = {
                            "enunciado":  "O ______ concentra-se em um conflito único e tende à unidade de efeito; o ______ tem extensão intermediária e ação encadeada; o ______ admite múltiplos núcleos e maior duração. As lacunas são preenchidas por:",
                            "alternativas":  {
                                                 "a":  "romance – conto – novela, ordem que corresponde ao número de personagens que cada um dos três gêneros costuma comportar em sua estrutura",
-                                                "b":  "conto – novela – romance",
+                                                "b":  "conto – novela – romance, do efeito único alcançado de uma vez às várias linhas sustentadas ao longo do tempo",
                                                 "c":  "novela – romance – conto, classificação estabelecida pela crítica a partir do público leitor a que cada um dos gêneros se dirige historicamente",
-                                                "d":  "crônica – conto – ensaio, gêneros que se distinguem pelo suporte em que circulam e pelo grau de elaboração ficcional de cada um deles",
+                                                "d":  "crônica – conto – ensaio, gêneros que se distinguem pelo suporte em que circulam",
                                                 "e":  "fábula – parábola – epopeia, formas narrativas cuja diferença reside na presença ou na ausência de finalidade moral explícita ao final"
                                             },
                            "resposta":  "b",
@@ -25841,10 +28486,10 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "\"Todo mundo tem um vizinho que rega planta às seis da manhã. O meu rega às cinco e quarenta, e eu sei disso porque também não durmo.\"",
                            "enunciado":  "O trecho apresenta traços característicos:",
                            "alternativas":  {
-                                                "a":  "do poema em prosa: exploração de recursos sonoros e construção de imagens por meio de metáforas encadeadas ao longo de todo o texto",
+                                                "a":  "do poema em prosa: recursos sonoros e imagens construídas por metáforas encadeadas",
                                                 "b":  "do conto: conflito único delimitado, tensão crescente e desfecho que produz efeito de surpresa sobre quem acompanha a narrativa apresentada",
                                                 "c":  "do ensaio: desenvolvimento de uma tese apoiada em argumentos e em referências a outros autores que trataram anteriormente do mesmo assunto",
-                                                "d":  "da crônica: fato miúdo, primeira pessoa e tom de conversa",
+                                                "d":  "da crônica: fato miúdo, primeira pessoa e tom de conversa, o pequeno olhado de perto por quem se expõe junto",
                                                 "e":  "da reportagem: apuração de fatos junto a fontes identificadas e apresentação de dados verificáveis sobre o assunto tratado pelo autor"
                                             },
                            "resposta":  "d",
@@ -25857,7 +28502,7 @@ window.QUESTION_BANKS = {
                            "enunciado":  "Esse verso é classificado como:",
                            "alternativas":  {
                                                 "a":  "decassílabo, verso de dez sílabas poéticas que constitui a forma tradicionalmente adotada nas composições em soneto da língua portuguesa",
-                                                "b":  "redondilha maior, de sete sílabas poéticas",
+                                                "b":  "redondilha maior, de sete sílabas poéticas, medida tradicional que sustenta o cordel e a quadra popular",
                                                 "c":  "alexandrino, verso de doze sílabas poéticas com pausa obrigatória depois da sexta, forma consagrada pela tradição poética francesa clássica",
                                                 "d":  "redondilha menor, de cinco sílabas poéticas, medida frequente na poesia popular e nas composições destinadas ao acompanhamento musical",
                                                 "e":  "verso livre, uma vez que a ausência de rima na composição dispensa qualquer contagem regular das sílabas em cada um dos versos do poema"
@@ -25873,8 +28518,8 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "internas, por ocorrerem no interior do verso e não em sua posição final, arranjo que produz efeito rítmico distinto do habitual na composição",
                                                 "b":  "ricas, por unirem palavras de classes gramaticais diferentes entre si, condição que a tradição poética considera indicativa de maior elaboração",
-                                                "c":  "toantes, por apresentarem coincidência apenas entre as vogais tônicas sem que haja correspondência entre os sons consonantais seguintes",
-                                                "d":  "pobres, por unirem palavras da mesma classe",
+                                                "c":  "toantes, por coincidirem apenas as vogais tônicas, sem os sons consonantais",
+                                                "d":  "pobres, por unirem palavras da mesma classe gramatical, como dois substantivos, enquanto a rima rica cruza classes",
                                                 "e":  "brancas, uma vez que a ausência de correspondência sonora entre os finais dos versos caracteriza esse tipo de composição na tradição poética"
                                             },
                            "resposta":  "d",
@@ -25886,7 +28531,7 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "O soneto é forma fixa consagrada na tradição ocidental desde o Renascimento.",
                            "enunciado":  "Sua estrutura clássica é composta por:",
                            "alternativas":  {
-                                                "a":  "dois quartetos seguidos de dois tercetos",
+                                                "a":  "dois quartetos seguidos de dois tercetos, num total de catorze versos cuja divisão acompanha o argumento: os quartetos expõem e os tercetos concluem",
                                                 "b":  "quatro quartetos de igual extensão, dispostos em sequência e ligados por esquema de rimas alternadas ao longo de toda a composição poética",
                                                 "c":  "três tercetos seguidos de um dístico final, arranjo que constitui a forma predominante nas composições produzidas em língua portuguesa",
                                                 "d":  "número variável de estrofes, definido livremente pelo autor conforme a extensão do assunto tratado em cada uma das composições escritas",
@@ -25905,7 +28550,7 @@ window.QUESTION_BANKS = {
                                                 "b":  "livre – branco, denominações que decorrem da presença ou da ausência de estrofação regular ao longo da composição poética apresentada",
                                                 "c":  "solto – preso, classificação que se refere ao grau de dependência de cada verso em relação aos demais dentro da estrutura do poema",
                                                 "d":  "heroico – sáfico, denominações que designam variantes do decassílabo conforme a posição das sílabas tônicas no interior de cada verso",
-                                                "e":  "branco – livre"
+                                                "e":  "branco – livre, já que o primeiro conserva o metro e dispensa a rima e o segundo não tem nem um nem outro"
                                             },
                            "resposta":  "e",
                            "explicacao":  "Verso branco tem metro e não tem rima; verso livre não tem nem um nem outro. A confusão entre os dois é frequente, e a diferença importa: o branco é forma tradicional, o livre é conquista moderna.",
@@ -25918,9 +28563,9 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "metonímia e sinédoque, figuras que operam pela substituição de um termo por outro com o qual mantém relação de contiguidade de sentido",
                                                 "b":  "comparação e metáfora, distinção que decorre da extensão de cada uma das duas construções apresentadas para análise no enunciado da questão",
-                                                "c":  "metáfora e comparação",
+                                                "c":  "metáfora e comparação, conforme a semelhança seja afirmada sem intermediário ou declarada por um conectivo",
                                                 "d":  "hipérbole e eufemismo, recursos que se distinguem pelo grau de intensidade atribuído ao fato descrito em cada uma das duas construções",
-                                                "e":  "prosopopeia e antítese, figuras que consistem, respectivamente, em atribuir vida ao inanimado e em aproximar termos de sentido oposto"
+                                                "e":  "prosopopeia e antítese, que atribuem vida ao inanimado e aproximam opostos"
                                             },
                            "resposta":  "c",
                            "explicacao":  "A metáfora identifica sem intermediário; a comparação declara a semelhança com \"parece\", \"como\", \"tal qual\". A presença ou ausência do conectivo comparativo é o critério.",
@@ -25934,8 +28579,8 @@ window.QUESTION_BANKS = {
                                                 "a":  "sinestesia, com cruzamento de sensações provenientes de campos sensoriais distintos dentro de uma mesma construção apresentada no texto",
                                                 "b":  "hipérbole, com exagero deliberado do número de pessoas efetivamente envolvidas na situação descrita pelo enunciado apresentado ao leitor",
                                                 "c":  "eufemismo, com substituição de uma expressão considerada dura por outra mais branda a fim de atenuar o impacto da informação transmitida",
-                                                "d":  "paradoxo, com afirmação que se contradiz internamente e produz efeito de estranhamento sobre quem acompanha a leitura do enunciado",
-                                                "e":  "metonímia, com o lugar designando as pessoas que nele estão"
+                                                "d":  "paradoxo, com afirmação que se contradiz internamente e produz estranhamento",
+                                                "e":  "metonímia, com o lugar designando as pessoas que nele estão, numa substituição do continente pelo conteúdo"
                                             },
                            "resposta":  "e",
                            "explicacao":  "Prédio não espera: quem espera são as pessoas. Substituir o continente pelo conteúdo é uma das relações clássicas de metonímia, ao lado de autor por obra e marca por produto.",
@@ -25948,7 +28593,7 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "pleonasmo, repetindo uma ideia já contida em outro termo da mesma construção sem que a repetição acrescente qualquer informação nova",
                                                 "b":  "onomatopeia, reproduzindo por meio de palavras o som efetivamente produzido no ambiente descrito ao longo do trecho apresentado ao leitor",
-                                                "c":  "sinestesia, cruzando sensações de sentidos diferentes",
+                                                "c":  "sinestesia, cruzando sensações de sentidos diferentes, já que silêncio é audição, áspero é tato e cinza é visão, todos reunidos numa mesma imagem",
                                                 "d":  "anacoluto, interrompendo a estrutura sintática iniciada e retomando outra construção na sequência do período apresentado no enunciado",
                                                 "e":  "zeugma, omitindo um termo já enunciado anteriormente e recuperável a partir do contexto em que a construção aparece dentro do texto"
                                             },
@@ -25962,10 +28607,10 @@ window.QUESTION_BANKS = {
                            "enunciado":  "O efeito produzido pela frase é de:",
                            "alternativas":  {
                                                 "a":  "hipérbole, ao ampliar deliberadamente a duração do turno de trabalho mencionado no início do período apresentado para análise no enunciado",
-                                                "b":  "ironia, ao afirmar o contrário do que se quer dizer",
+                                                "b":  "ironia, ao afirmar o contrário do que se quer dizer e contar que o leitor reconheça a impossibilidade da leitura literal",
                                                 "c":  "metonímia, ao substituir o nome do estado descrito por outro termo com o qual ele mantém relação de proximidade no mesmo campo de sentido",
                                                 "d":  "eufemismo, ao atenuar por meio de expressão mais branda a descrição de uma situação considerada penosa por quem a vivenciou naquele dia",
-                                                "e":  "prosopopeia, ao atribuir características humanas a um elemento inanimado presente no ambiente em que se desenvolve a cena apresentada"
+                                                "e":  "prosopopeia, ao atribuir características humanas a um elemento inanimado"
                                             },
                            "resposta":  "b",
                            "explicacao":  "Doze horas de plantão e \"descansadíssimo\" não combinam, e a comparação com férias fecha o descompasso. A ironia depende de o leitor reconhecer a impossibilidade da leitura literal.",
@@ -25979,7 +28624,7 @@ window.QUESTION_BANKS = {
                                                 "a":  "a elipse – o zeugma – de supressão, ligados à omissão de termos recuperáveis a partir do contexto em que cada construção aparece no texto",
                                                 "b":  "a assonância – a aliteração – sintáticos, ligados à ordem em que os termos se dispõem no interior de cada uma das construções apresentadas",
                                                 "c":  "a metáfora – a comparação – semânticos, ligados ao deslocamento de sentido entre os campos evocados por cada um dos termos empregados",
-                                                "d":  "a aliteração – a assonância – sonoros, ligados à repetição de fonemas",
+                                                "d":  "a aliteração – a assonância – sonoros, ligados à repetição de consoantes e de vogais, com o som carregando sentido",
                                                 "e":  "a hipérbole – o eufemismo – de intensidade, ligados ao grau de ênfase atribuído por quem escreve ao conteúdo transmitido em cada caso"
                                             },
                            "resposta":  "d",
@@ -25992,11 +28637,11 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Leia:\n\nEle esperou a noite inteira pela\nnotícia que não veio.",
                            "enunciado":  "A quebra do verso no meio do sintagma configura:",
                            "alternativas":  {
-                                                "a":  "enjambement, que estende a unidade sintática para o verso seguinte",
+                                                "a":  "enjambement, que estende a unidade sintática para o verso seguinte e suspende o leitor onde a espera é o assunto",
                                                 "b":  "elipse, que suprime um termo recuperável a partir do contexto em que a construção aparece no interior do poema apresentado ao leitor",
                                                 "c":  "anacoluto, que interrompe a estrutura sintática iniciada e a substitui por outra na continuação do período composto pelo autor do texto",
                                                 "d":  "hipérbato, que inverte a ordem direta dos termos da oração com finalidade expressiva dentro da estrutura da composição poética escrita",
-                                                "e":  "aliteração, que repete o mesmo fonema consonantal ao longo dos versos a fim de produzir efeito sonoro perceptível durante a leitura"
+                                                "e":  "aliteração, que repete o mesmo fonema consonantal ao longo dos versos"
                                             },
                            "resposta":  "a",
                            "explicacao":  "O verso termina em \"pela\", mas a frase não. O corte suspende o leitor exatamente onde a espera é o assunto — o recurso formal reproduz o conteúdo, e é isso que o justifica.",
@@ -26007,11 +28652,11 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Um poema é escrito em primeira pessoa e relata a perda de um irmão. Sabe-se que o autor não teve irmãos.",
                            "enunciado":  "Essa constatação:",
                            "alternativas":  {
-                                                "a":  "não invalida o poema, pois o eu lírico não se confunde com o autor",
+                                                "a":  "não invalida o poema, pois o eu lírico é construção do texto, como a personagem é do romance, e não se confunde com o autor",
                                                 "b":  "invalida o poema como documento literário, uma vez que a literatura exige correspondência verificável entre o relato e a biografia de quem escreve",
                                                 "c":  "obriga a reclassificar o texto como prosa de ficção, gênero em que a invenção de acontecimentos é admitida sem restrições pela tradição crítica",
                                                 "d":  "indica erro de análise por parte do leitor, que deveria ter identificado desde o início as marcas textuais que denunciam a natureza inventada",
-                                                "e":  "revela que o poema pertence necessariamente ao gênero dramático, único em que a voz que fala pode ser atribuída a uma figura inventada"
+                                                "e":  "revela que o poema pertence ao gênero dramático, único de voz inventada"
                                             },
                            "resposta":  "a",
                            "explicacao":  "O eu lírico é construção do texto, como a personagem é do romance. Confundir os dois leva a ler poesia como confissão — e a descartar como falso tudo o que não bate com a certidão de nascimento do autor.",
@@ -26026,7 +28671,7 @@ window.QUESTION_BANKS = {
                                                 "b":  "paródia – paráfrase – ambiguidade, fenômeno que consiste na possibilidade de atribuir mais de um sentido a um mesmo enunciado apresentado",
                                                 "c":  "citação – alusão – polissemia, propriedade pela qual uma mesma palavra assume sentidos distintos conforme o contexto em que é empregada",
                                                 "d":  "epígrafe – pastiche – metalinguagem, procedimento pelo qual um texto toma a si mesmo ou à própria linguagem como assunto de que trata",
-                                                "e":  "paráfrase – paródia – intertextualidade"
+                                                "e":  "paráfrase – paródia – intertextualidade, procedimentos que dependem de o leitor reconhecer o texto de partida"
                                             },
                            "resposta":  "e",
                            "explicacao":  "As duas dependem de o leitor reconhecer o texto de partida — sem isso, não funcionam. O Modernismo brasileiro fez da paródia arma crítica, e a \"Canção do Exílio\" é o alvo mais visitado.",
@@ -26041,7 +28686,7 @@ window.QUESTION_BANKS = {
                                                 "a":  "uma hipérbole que amplia desproporcionalmente a duração da noite descrita, com o objetivo de produzir efeito cômico sobre quem lê o texto",
                                                 "b":  "uma sucessão de comparações introduzidas por conectivos explícitos, cada uma delas aproximando a noite de um elemento diferente do cotidiano",
                                                 "c":  "uma antítese entre dois campos de sentido opostos, dispostos em versos alternados ao longo de toda a extensão da estrofe apresentada",
-                                                "d":  "uma metáfora sustentada ao longo de toda a estrofe",
+                                                "d":  "uma metáfora sustentada ao longo de toda a estrofe, em que a noite é dita bicho manso e continua sendo tratada como tal: deita, espera e tem paciência",
                                                 "e":  "uma metonímia que substitui o nome do estado descrito pelo do lugar em que ele ocorre, relação de contiguidade mantida em toda a estrofe"
                                             },
                            "resposta":  "d",
@@ -26053,9 +28698,9 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Considere a estrofe da questão anterior, cujas rimas seguem o esquema deita / pressa / convença / aceita.",
                            "enunciado":  "O esquema de rimas empregado é:",
                            "alternativas":  {
-                                                "a":  "alternado, com o primeiro verso rimando com o terceiro e o segundo rimando com o quarto dentro da estrutura da estrofe apresentada",
+                                                "a":  "alternado, com o primeiro verso rimando com o terceiro e o segundo com o quarto",
                                                 "b":  "emparelhado, com os versos rimando dois a dois em sequência ao longo de toda a extensão da estrofe apresentada para análise no enunciado",
-                                                "c":  "interpolado, com o primeiro verso rimando com o quarto",
+                                                "c":  "interpolado, com o primeiro verso rimando com o quarto e os do miolo entre si, no esquema ABBA do quarteto clássico",
                                                 "d":  "misto, com combinação irregular dos três esquemas anteriores ao longo dos versos que compõem a estrofe submetida à análise proposta",
                                                 "e":  "ausente, uma vez que as terminações apresentadas não estabelecem qualquer correspondência sonora entre si na leitura da composição"
                                             },
@@ -26069,10 +28714,10 @@ window.QUESTION_BANKS = {
                            "enunciado":  "O trecho é conduzido por narrador:",
                            "alternativas":  {
                                                 "a":  "em primeira pessoa, participante direto dos acontecimentos que relata ao longo do trecho apresentado para análise no enunciado da questão",
-                                                "b":  "em terceira pessoa com acesso à consciência da personagem",
+                                                "b":  "em terceira pessoa com acesso à consciência da personagem, onisciência restrita a ela e sem comentário sobre o que informa",
                                                 "c":  "observador externo, limitado ao registro dos comportamentos visíveis e sem qualquer acesso ao que se passa no interior da personagem",
                                                 "d":  "intruso, que interrompe repetidamente a narrativa para dirigir-se ao leitor e orientar a interpretação a ser feita dos fatos apresentados",
-                                                "e":  "não confiável, uma vez que o texto oferece indícios de que os fatos relatados não ocorreram da forma como estão sendo apresentados"
+                                                "e":  "não confiável, já que há indícios de que os fatos não ocorreram assim"
                                             },
                            "resposta":  "b",
                            "explicacao":  "\"Ele\" marca a terceira pessoa, e o narrador informa o motivo da conferência e a correção que a personagem faz de si mesma. É onisciência restrita a uma consciência, sem comentário do narrador sobre ela.",
@@ -26083,10 +28728,10 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Considere o mesmo trecho: quase toda a extensão do parágrafo é ocupada por um gesto que dura poucos segundos e por seu desdobramento mental.",
                            "enunciado":  "Esse tratamento revela predomínio do tempo:",
                            "alternativas":  {
-                                                "a":  "circular sobre o linear, com retorno ao ponto de partida ao final do parágrafo apresentado para análise no enunciado desta questão",
+                                                "a":  "circular sobre o linear, com retorno ao ponto de partida ao final do parágrafo",
                                                 "b":  "cronológico sobre o psicológico, uma vez que a sucessão dos acontecimentos obedece rigorosamente à ordem em que eles teriam ocorrido",
                                                 "c":  "histórico sobre o ficcional, já que o trecho situa a cena num período determinado e verificável do passado recente do país retratado",
-                                                "d":  "psicológico sobre o cronológico",
+                                                "d":  "psicológico sobre o cronológico, já que a consciência dilata o instante e o relógio recua diante desse gesto",
                                                 "e":  "futuro sobre o presente, deslocamento que decorre da antecipação de acontecimentos ainda não ocorridos no momento em que a cena se passa"
                                             },
                            "resposta":  "d",
@@ -26099,7 +28744,7 @@ window.QUESTION_BANKS = {
                            "enunciado":  "O deslocamento indica que a literatura passou a:",
                            "alternativas":  {
                                                 "a":  "abandonar qualquer referência ao espaço exterior, concentrando-se exclusivamente na expressão de estados subjetivos indefinidos do eu lírico",
-                                                "b":  "tomar o mundo moderno como matéria, em vez de fugir dele",
+                                                "b":  "tomar o mundo moderno como matéria, em vez de fugir dele: o bonde, a fábrica e a rua entram no poema sem serem transformados em símbolo de outra coisa",
                                                 "c":  "recusar a natureza como tema literário, posição assumida coletivamente pelos autores modernistas em manifesto publicado durante a década",
                                                 "d":  "documentar com rigor científico as transformações urbanas do período, com base em dados oficiais consultados pelos autores nos arquivos",
                                                 "e":  "idealizar o ambiente urbano do mesmo modo como o período anterior havia idealizado a paisagem natural retratada em suas composições"
@@ -26115,9 +28760,9 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "aparece sempre idealizada como espaço de progresso e de oportunidade, leitura que atravessa sem alteração os cinco momentos apresentados",
                                                 "b":  "mantém ao longo de todo o período a mesma função de pano de fundo neutro, sem qualquer influência sobre as personagens que nela circulam",
-                                                "c":  "deixa de ser cenário e passa a ser assunto e problema",
+                                                "c":  "deixa de ser cenário e passa a ser assunto e problema, aquilo de que a história trata e não apenas onde ela se passa",
                                                 "d":  "é progressivamente abandonada em favor do espaço rural, deslocamento que se completa com a produção do romance regionalista dos anos trinta",
-                                                "e":  "recebe tratamento exclusivamente documental, com registro estatístico das transformações urbanas em cada um dos períodos mencionados"
+                                                "e":  "recebe tratamento exclusivamente documental, com registro estatístico das mudanças"
                                             },
                            "resposta":  "c",
                            "explicacao":  "De pano de fundo da vida elegante a organismo que determina destinos, e daí a território de exclusão e violência: a cidade vai deixando de ser onde a história se passa para ser aquilo de que a história trata.",
@@ -26128,11 +28773,11 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "A morte aparece no Barroco como passagem e juízo, no ultrarromantismo como refúgio desejado, em Augusto dos Anjos como decomposição da matéria e em João Cabral como fato social do Nordeste.",
                            "enunciado":  "A comparação demonstra que:",
                            "alternativas":  {
-                                                "a":  "um mesmo tema muda de sentido conforme a visão de mundo de cada período",
+                                                "a":  "um mesmo tema muda de sentido conforme a visão de mundo de cada período, a ponto de o que se diz dele ficar irreconhecível",
                                                 "b":  "o tratamento do tema permanece essencialmente idêntico ao longo dos períodos, variando apenas o vocabulário empregado por cada geração de autores",
                                                 "c":  "apenas os períodos mais recentes conseguiram tratar o assunto com profundidade, uma vez que dispunham de recursos formais mais desenvolvidos",
                                                 "d":  "a recorrência do tema comprova a ausência de originalidade da literatura brasileira, que teria repetido os mesmos assuntos ao longo dos séculos",
-                                                "e":  "o assunto só adquire relevância literária quando tratado a partir de dados verificáveis sobre as condições sociais em que a morte ocorre"
+                                                "e":  "o assunto só ganha relevância quando tratado a partir de dados verificáveis"
                                             },
                            "resposta":  "a",
                            "explicacao":  "O tema é o mesmo e o que se diz dele é irreconhecível de um período a outro. Comparar tratamentos de um mesmo assunto é uma das formas mais produtivas de estudar periodização sem decorar datas.",
@@ -26143,11 +28788,11 @@ window.QUESTION_BANKS = {
                            "texto_apoio":  "Provas de vestibular costumam cobrar menos a memorização de datas e nomes do que a capacidade de relacionar um texto a seu contexto e de analisar seus procedimentos.",
                            "enunciado":  "Essa orientação supõe que estudar literatura serve, sobretudo, para:",
                            "alternativas":  {
-                                                "a":  "memorizar as datas de publicação das principais obras, informação que permite reconstituir com precisão a cronologia da produção nacional",
+                                                "a":  "memorizar as datas de publicação das principais obras da produção nacional",
                                                 "b":  "acumular informações biográficas sobre os autores consagrados, conhecimento que permite situar corretamente cada obra em seu período histórico",
                                                 "c":  "identificar a escola literária a que pertence cada obra, tarefa que constitui o objetivo final do estudo da disciplina no ensino médio brasileiro",
                                                 "d":  "reproduzir as interpretações consagradas pela crítica especializada, evitando leituras próprias que possam divergir do consenso estabelecido",
-                                                "e":  "aprender a ler com atenção ao modo como um texto é construído"
+                                                "e":  "aprender a ler com atenção ao modo como um texto é construído, com data e nome funcionando como apoio da leitura, não como substituto"
                                             },
                            "resposta":  "e",
                            "explicacao":  "Saber que um poema é simbolista vale pouco; perceber como a repetição sonora produz o efeito de vago vale muito, e serve para qualquer texto. Data e nome são apoio da leitura, não substituto dela.",

@@ -2325,6 +2325,944 @@
       "resposta": "e",
       "explicacao": "A gramática aparece a serviço da leitura: identificar a que \"it\" se refere, o que \"however\" articula, o que um modal comunica. Quem lê bem resolve a maioria sem conjugar nada.",
       "formato": "direta"
+    },
+    {
+      "id": "ingles-151",
+      "texto_apoio": "Brazil once had one of the strongest childhood immunisation programmes in the world, and coverage above ninety-five per cent was normal for decades. Recent surveys, ______, show that the proportion of fully immunised children has fallen below eighty per cent in several states.",
+      "enunciado": "A lacuna é corretamente preenchida por:",
+      "alternativas": {
+        "a": "therefore",
+        "b": "moreover",
+        "c": "so",
+        "d": "however",
+        "e": "because"
+      },
+      "resposta": "d",
+      "explicacao": "A segunda frase contraria a expectativa criada pela primeira: cobertura alta por décadas, queda agora. Só um conectivo adversativo dá conta disso. \"Therefore\" e \"so\" anunciariam consequência e \"because\", causa; a armadilha real é \"moreover\", escolhido por quem lê \"recent surveys show\" como continuidade da mesma ideia e não percebe a oposição.",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-152",
+      "texto_apoio": "Antibiotics act on bacteria and have no effect whatsoever on viruses. A common cold is caused by viruses. Prescribing an antibiotic for it is ______ useless, and it helps resistant strains spread in the community.",
+      "enunciado": "Considerando a relação lógica entre as três frases, a lacuna deve ser preenchida por:",
+      "alternativas": {
+        "a": "nevertheless",
+        "b": "although",
+        "c": "whereas",
+        "d": "unless",
+        "e": "therefore"
+      },
+      "resposta": "e",
+      "explicacao": "As duas primeiras frases são premissas e a terceira é a conclusão que decorre delas, o que exige conectivo conclusivo. \"Nevertheless\" é perfeitamente gramatical naquela posição, e é por isso que derruba: ele marcaria contraste e inverteria a relação lógica que o texto constrói.",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-153",
+      "texto_apoio": "______ the vaccine was developed in record time, it went through every phase of clinical testing required by regulators. What was compressed was the waiting between the phases, not the phases themselves.",
+      "enunciado": "A lacuna admite \"although\", mas não \"despite\", porque:",
+      "alternativas": {
+        "a": "os dois termos têm sentidos opostos, e apenas o primeiro é concessivo",
+        "b": "\"despite\" pertence à língua falada, e o trecho exige registro formal escrito",
+        "c": "depois da lacuna vem uma oração com sujeito e verbo, e \"despite\" rege substantivo ou gerúndio",
+        "d": "\"although\" pode abrir período, ao passo que \"despite\" só ocorre no interior da frase",
+        "e": "o verbo da oração seguinte está na voz passiva, o que exclui o emprego de \"despite\""
+      },
+      "resposta": "c",
+      "explicacao": "\"Although\" é conjunção e rege oração; \"despite\" é preposição e rege substantivo ou gerúndio. Os dois têm exatamente o mesmo sentido concessivo, o que elimina a alternativa (a) — e é justamente essa igualdade de sentido que faz o candidato escolher pelo significado, sem olhar a estrutura que vem depois da lacuna.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "ingles-154",
+      "texto_apoio": "Oral rehydration salts cost a few cents a sachet and can be given by anyone, at home, with clean water. ______ their low cost, they remain underused in many regions where diarrhoea is still a leading cause of death in children under five.",
+      "enunciado": "A lacuna é corretamente preenchida por:",
+      "alternativas": {
+        "a": "Although",
+        "b": "Despite",
+        "c": "Even though",
+        "d": "Whereas",
+        "e": "Because of"
+      },
+      "resposta": "b",
+      "explicacao": "Depois da lacuna vem um sintagma nominal (\"their low cost\"), o que elimina de saída \"although\", \"even though\" e \"whereas\", todas conjunções que pedem oração. Restam \"despite\" e \"because of\", ambos regentes de substantivo — e aí decide o sentido: \"because of\" inverteria a lógica, porque o custo baixo deveria favorecer o uso, e o texto registra o contrário.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-155",
+      "texto_apoio": "The age at which people die of cancer says a great deal about the health system around them. In high-income countries most cancer deaths occur after the age of seventy, whereas in low-income countries a large share of patients die before sixty.",
+      "enunciado": "A relação que \"whereas\" estabelece entre as duas orações é de:",
+      "alternativas": {
+        "a": "contraste entre duas situações paralelas e opostas",
+        "b": "causa da situação descrita na primeira oração",
+        "c": "conclusão a que a primeira oração conduz",
+        "d": "finalidade das políticas adotadas nos países ricos",
+        "e": "condição para que a primeira oração se verifique"
+      },
+      "resposta": "a",
+      "explicacao": "As duas orações apresentam cenários paralelos e opostos, sem que um seja causa do outro: é o contraste comparativo, papel próprio de \"whereas\". Quem marca a relação de causa lê como explicação uma frase que apenas põe os dois casos lado a lado — nada no texto diz que a idade de morte num grupo de países determina a do outro.",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-156",
+      "texto_apoio": "The trial found no benefit for the drug in mild cases, and the safety board recommended that it should not be used in that group. Nevertheless, the manufacturer went on promoting it for exactly those patients for another two years.",
+      "enunciado": "Assinale a alternativa em que a relação lógica do conectivo está INCORRETAMENTE descrita:",
+      "alternativas": {
+        "a": "\"therefore\" introduz uma conclusão",
+        "b": "\"whereas\" introduz uma finalidade",
+        "c": "\"nevertheless\" introduz um contraste",
+        "d": "\"moreover\" introduz um acréscimo",
+        "e": "\"unless\" introduz uma condição negativa"
+      },
+      "resposta": "b",
+      "explicacao": "\"Whereas\" marca contraste entre situações paralelas, nunca finalidade — papel que caberia a \"so that\" ou \"in order to\". As outras quatro descrições estão corretas, inclusive a de \"nevertheless\", conectivo efetivamente empregado no texto. A armadilha é procurar a descrição certa em vez da errada, hábito de quem lê o comando pela metade e marca (c).",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "ingles-157",
+      "texto_apoio": "Air pollution is usually discussed as a problem of the lungs, and it does worsen asthma in children and adults. ______, it raises the risk of heart attack and stroke in people who have never smoked and have no respiratory disease at all.",
+      "enunciado": "Considerando o sentido do texto, a única expressão que NÃO pode preencher a lacuna é:",
+      "alternativas": {
+        "a": "Moreover",
+        "b": "Furthermore",
+        "c": "In addition",
+        "d": "However",
+        "e": "What is more"
+      },
+      "resposta": "d",
+      "explicacao": "Quatro das cinco expressões são aditivas e intercambiáveis nessa posição; a segunda frase amplia o argumento, não o contraria. \"However\" é adversativo e inverteria a relação. A armadilha é o comando negativo: quem procura por hábito a alternativa que preenche a lacuna marca (a), que é correta justamente por isso.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "ingles-158",
+      "texto_apoio": "Screening programmes find tumours earlier, when treatment tends to work better. They also find lesions that would never have caused any harm, and those patients are treated all the same. Both effects, therefore, have to be weighed before a programme is recommended for a whole population.",
+      "enunciado": "No trecho, a palavra \"therefore\" introduz:",
+      "alternativas": {
+        "a": "um exemplo que ilustra a frase imediatamente anterior",
+        "b": "um contraste com aquilo que acaba de ser afirmado",
+        "c": "uma condição para que as afirmações anteriores se sustentem",
+        "d": "uma reformulação da primeira frase em termos mais simples",
+        "e": "uma conclusão extraída das duas frases anteriores"
+      },
+      "resposta": "e",
+      "explicacao": "As duas primeiras frases apresentam um efeito desejável e um efeito indesejável; a terceira tira daí o que se deve fazer. \"Therefore\" é sempre conclusivo. A alternativa de contraste atrai porque as duas primeiras frases realmente se opõem entre si — mas a oposição está entre elas, e não entre elas e a conclusão.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "ingles-159",
+      "texto_apoio": "Sleep deprivation slows reaction time about as much as alcohol does, and the evidence for this has been stable for thirty years. ______, hospitals in many countries still schedule shifts of twenty-four hours or more for residents. ______ some countries have reduced the maximum shift length by law, enforcement remains weak.",
+      "enunciado": "As lacunas são corretamente preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "therefore – Because",
+        "b": "moreover – Unless",
+        "c": "however – Although",
+        "d": "thus – Despite",
+        "e": "instead – Whether"
+      },
+      "resposta": "c",
+      "explicacao": "A primeira lacuna opõe o que se sabe ao que se pratica; a segunda concede um avanço antes de registrar o limite. A alternativa (d) acerta o sentido nas duas posições, e é por isso a mais perigosa: \"despite\" não pode reger a oração \"some countries have reduced\", porque exige substantivo ou gerúndio.",
+      "formato": "lacunas",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-160",
+      "texto_apoio": "Telemedicine has put specialist advice within reach of towns that have never had a resident cardiologist. ______, it has made it harder to notice the signs that only a face-to-face examination reveals: the smell of a wound, the way a patient stands up from a chair.",
+      "enunciado": "A lacuna pede uma expressão que apresente o outro lado do balanço, sem negar o que foi dito antes. Ela é preenchida por:",
+      "alternativas": {
+        "a": "On the contrary",
+        "b": "In other words",
+        "c": "For instance",
+        "d": "On the other hand",
+        "e": "As a result"
+      },
+      "resposta": "d",
+      "explicacao": "As duas frases são verdadeiras ao mesmo tempo e apontam para lados opostos do mesmo balanço: é \"on the other hand\". \"On the contrary\" só cabe quando a segunda frase nega a primeira, e é a troca mais frequente de todo o bloco de conectivos, porque as duas expressões costumam ser vertidas pela mesma fórmula em português.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-161",
+      "texto_apoio": "The bacterium was found in three water tanks that had not been cleaned for over a year. Every patient in the outbreak had been in the building supplied by those tanks. The outbreak was thus traced to a failure of routine maintenance, not to a new or unusually aggressive strain.",
+      "enunciado": "No trecho, a palavra \"thus\" pode ser substituída, sem alteração de sentido, por:",
+      "alternativas": {
+        "a": "consequently",
+        "b": "still",
+        "c": "meanwhile",
+        "d": "besides",
+        "e": "instead"
+      },
+      "resposta": "a",
+      "explicacao": "\"Thus\" apresenta o que decorre das evidências dadas antes, e \"consequently\" faz exatamente isso. \"Still\" seria adversativo e \"besides\", aditivo: são as duas alternativas que atraem quem traduz \"thus\" por \"assim\" sem notar que, nesse contexto, \"assim\" equivale a \"portanto\".",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-162",
+      "texto_apoio": "Fever, joint pain and rash appear in dengue and in chikungunya, and the first days of the two diseases can be indistinguishable at the bedside. ______ the symptoms overlap so closely, laboratory confirmation is often the only way to tell the two infections apart.",
+      "enunciado": "A relação entre as duas orações é de causa e consequência. A lacuna é preenchida por:",
+      "alternativas": {
+        "a": "While",
+        "b": "Whereas",
+        "c": "Although",
+        "d": "So that",
+        "e": "Since"
+      },
+      "resposta": "e",
+      "explicacao": "\"Since\" vale em inglês tanto para tempo quanto para causa, e aqui, com a relação causal dada no enunciado, é a única alternativa possível. A armadilha é descartá-lo por conhecê-lo apenas como \"desde\", o que empurra o candidato para \"while\" ou \"although\" — conectivos temporal e concessivo, não causais.",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-163",
+      "texto_apoio": "Resistant bacteria are selected every time an antibiotic is used, in hospitals, in pharmacies and in animal feed. Resistance will keep growing ______ prescribing habits change in human medicine and in farming at the same time.",
+      "enunciado": "O sentido pretendido é o de que a resistência só deixará de crescer se os hábitos mudarem. A lacuna é preenchida por:",
+      "alternativas": {
+        "a": "if",
+        "b": "unless",
+        "c": "in case",
+        "d": "provided",
+        "e": "although"
+      },
+      "resposta": "b",
+      "explicacao": "\"Unless\" equivale a \"if not\": a resistência continua crescendo caso os hábitos não mudem. \"If\" e \"provided\" são gramaticais na lacuna, mas dizem o oposto — que a resistência cresce se os hábitos mudarem —, e é essa aparência de boa formação que faz a alternativa (a) ser tão escolhida.",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-164",
+      "texto_apoio": "Most vaccines are kept between two and eight degrees Celsius from the factory to the health post. Freezing damages them as much as heat does. The temperature is controlled at every step ______ the active ingredient does not lose its effect before it reaches the patient.",
+      "enunciado": "A alternativa que preenche a lacuna, exprimindo a finalidade do controle de temperatura, é:",
+      "alternativas": {
+        "a": "in order to",
+        "b": "because of",
+        "c": "such as",
+        "d": "so that",
+        "e": "even so"
+      },
+      "resposta": "d",
+      "explicacao": "Depois da lacuna vem uma oração com sujeito próprio (\"the active ingredient does not lose\"), e a finalidade nesse caso se expressa com \"so that\". \"In order to\" carrega o mesmo sentido, mas exige infinitivo sem sujeito expresso — a alternativa erra pela estrutura, não pelo significado, e por isso engana quem responde pelo enunciado sem reler a lacuna.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "ingles-165",
+      "texto_apoio": "Tuberculosis treatment lasts six months, and the patient stops feeling ill after three or four weeks. Adherence has to be monitored closely; ______, many people abandon the drugs as soon as the cough disappears, and the bacteria that survive are the hardest ones to kill.",
+      "enunciado": "A lacuna pede um termo que introduza o que ocorreria caso a recomendação anterior não fosse cumprida. Trata-se de:",
+      "alternativas": {
+        "a": "otherwise",
+        "b": "therefore",
+        "c": "similarly",
+        "d": "meanwhile",
+        "e": "indeed"
+      },
+      "resposta": "a",
+      "explicacao": "\"Otherwise\" equivale a \"se isso não for feito\" e liga a exigência de acompanhamento à consequência de não cumpri-la. \"Therefore\" transformaria o abandono do tratamento em resultado do acompanhamento próximo, exatamente o contrário do que o texto afirma.",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-166",
+      "texto_apoio": "Almost every doctor now sees patients who arrive with a diagnosis already in hand. Many people search online ______ calling the clinic. What they find is rarely wrong in itself, but it is almost never organised around their own history.",
+      "enunciado": "A lacuna é corretamente preenchida por:",
+      "alternativas": {
+        "a": "instead",
+        "b": "rather",
+        "c": "instead of",
+        "d": "besides",
+        "e": "in spite of"
+      },
+      "resposta": "c",
+      "explicacao": "Para introduzir a ação substituída é preciso a locução prepositiva \"instead of\" seguida de gerúndio. \"Instead\" sozinho é advérbio e não rege complemento — é a alternativa que pega quem confia no vocabulário e não na sintaxe. \"Besides\" e \"in spite of\" estão bem formados, mas somam ou concedem, quando o texto troca uma ação pela outra.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "ingles-167",
+      "texto_apoio": "During the second wave the bottleneck was not equipment. Even though the hospital had enough beds and enough ventilators, it could not open the extra ward: there were no trained nurses to staff it.",
+      "enunciado": "A reescrita que preserva a relação lógica do período destacado é:",
+      "alternativas": {
+        "a": "Despite the hospital had enough beds, it could not open the extra ward.",
+        "b": "Despite having enough beds and ventilators, the hospital could not open the extra ward.",
+        "c": "Because the hospital had enough beds, it could not open the extra ward.",
+        "d": "The hospital had enough beds; therefore, it could not open the extra ward.",
+        "e": "Unless the hospital had enough beds, it could not open the extra ward."
+      },
+      "resposta": "b",
+      "explicacao": "A concessão se mantém quando a conjunção \"even though\" dá lugar à preposição \"despite\", que exige gerúndio: \"despite having\". A alternativa (a) preserva o sentido e é a mais marcada, mas repete o erro de fazer \"despite\" reger oração; (c) e (d) trocam a concessão por causa e consequência, invertendo o argumento.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-168",
+      "texto_apoio": "Consider the three sentences below.\nI. The ward was full; consequently, patients waited in the corridor.\nII. The ward was full; nevertheless, patients waited in the corridor.\nIII. The ward was full; therefore, patients waited in the corridor.",
+      "enunciado": "O conectivo estabelece uma relação coerente entre as duas orações apenas em:",
+      "alternativas": {
+        "a": "I, apenas",
+        "b": "II, apenas",
+        "c": "I e III, apenas",
+        "d": "II e III, apenas",
+        "e": "I, II e III"
+      },
+      "resposta": "c",
+      "explicacao": "Esperar no corredor é consequência de a enfermaria estar lotada, e \"consequently\" e \"therefore\" marcam consequência. \"Nevertheless\" exigiria que a segunda oração contrariasse a expectativa criada pela primeira, o que não ocorre. Quem marca (e) está conferindo apenas se as três frases estão gramaticais, sem avaliar a relação lógica que cada conectivo impõe.",
+      "formato": "escada",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-169",
+      "texto_apoio": "Mosquito control is usually justified by the number of infections it prevents. ______ reducing the number of new cases, it lowers the cost of hospital care during epidemic years and frees beds that would otherwise be occupied for days.",
+      "enunciado": "A lacuna é corretamente preenchida por:",
+      "alternativas": {
+        "a": "In addition",
+        "b": "Besides that",
+        "c": "Additionally",
+        "d": "In addition to",
+        "e": "As well"
+      },
+      "resposta": "d",
+      "explicacao": "Diante de gerúndio, a única forma possível entre as oferecidas é a locução prepositiva \"in addition to\". \"In addition\" e \"additionally\" são advérbios conectivos e ligam orações completas, não sintagmas. A alternativa (e) é a mais cruel: \"as well as reducing\" seria correto, mas \"as well\" sozinho não rege nada.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-170",
+      "texto_apoio": "Three diseases account for most of the burden in the region and absorb most of the money spent on it — ______, malaria, tuberculosis and HIV. Everything else competes for what is left.",
+      "enunciado": "A lacuna pede um conectivo que apresente a lista completa anunciada na primeira oração. Ele é:",
+      "alternativas": {
+        "a": "such as",
+        "b": "for example",
+        "c": "however",
+        "d": "instead",
+        "e": "namely"
+      },
+      "resposta": "e",
+      "explicacao": "\"Namely\" especifica exatamente aquilo que foi anunciado: as três doenças mencionadas são essas três. \"Such as\" e \"for example\" apresentariam apenas uma amostra de um conjunto maior, o que contradiz o \"three diseases\" do início — a lista deixaria de ser fechada, e é aí que a maioria erra, por tratar os três conectivos como sinônimos.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-171",
+      "texto_apoio": "The effect of handwashing on infection has been known since the nineteenth century, and no other measure costs so little. Handwashing is the cheapest infection-control procedure ever described, yet compliance among hospital staff rarely goes above sixty per cent, even in units where the dispensers are within arm's reach.",
+      "enunciado": "No trecho, \"yet\" exprime:",
+      "alternativas": {
+        "a": "o acréscimo de uma segunda medida à que já foi mencionada",
+        "b": "o contraste entre o que se esperaria e o que de fato ocorre",
+        "c": "o momento em que a medida começou a ser adotada nos hospitais",
+        "d": "a finalidade para a qual a medida de controle foi criada",
+        "e": "a condição necessária para que a adesão venha a aumentar"
+      },
+      "resposta": "b",
+      "explicacao": "Como conjunção, \"yet\" equivale a \"but\" e opõe o custo baixíssimo da medida à adesão baixa. A alternativa temporal atrai quem só conhece \"yet\" como advérbio de \"not yet\" e \"already\", uso que não cabe ligando duas orações coordenadas.",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-172",
+      "texto_apoio": "Heat waves are getting longer in Brazilian cities, and the link between extreme heat and mortality is well documented in the literature. ______, the official number of deaths attributed to heat remains very low, ______ most death certificates record only the immediate cause of death.",
+      "enunciado": "As lacunas são corretamente preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "However – because",
+        "b": "Moreover – although",
+        "c": "Therefore – since",
+        "d": "However – so",
+        "e": "Nevertheless – whereas"
+      },
+      "resposta": "a",
+      "explicacao": "A primeira lacuna opõe o que a literatura mostra ao que os registros oficiais dizem; a segunda apresenta a causa desse número baixo. A alternativa (e) é a armadilha: acerta o primeiro conectivo, já que \"nevertheless\" também é adversativo, e erra o segundo, porque \"whereas\" contrastaria dois fatos paralelos, e a oração final explica a anterior em vez de se opor a ela.",
+      "formato": "lacunas",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-173",
+      "texto_apoio": "The study followed four thousand adults ______ parents had both been diagnosed with type 2 diabetes before the age of fifty. None of the participants had the disease when they entered the study.",
+      "enunciado": "Considerando a relação que a lacuna estabelece entre \"adults\" e \"parents\", ela é preenchida por:",
+      "alternativas": {
+        "a": "who, relativo de pessoa em função de sujeito",
+        "b": "which, relativo que retoma antecedente não humano",
+        "c": "whose, relativo que liga o antecedente ao termo seguinte",
+        "d": "that, relativo de pessoa ou de coisa em oração restritiva",
+        "e": "whom, relativo de pessoa em função de objeto"
+      },
+      "resposta": "c",
+      "explicacao": "O relativo liga os adultos aos pais deles, e essa relação de posse só é marcada por \"whose\". \"Who\" e \"that\" caberiam se o pronome fosse sujeito do verbo seguinte, mas o sujeito já está expresso — é \"parents\". Quem marca \"who\" enxerga apenas o traço humano do antecedente e não verifica a função sintática do relativo.",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-174",
+      "texto_apoio": "The new protocol asks the triage nurse to start the blood tests before the doctor sees the patient. In the first six months it cut the average waiting time by half, ______ surprised even the team that had designed it.",
+      "enunciado": "O emprego de \"that\" na lacuna é impossível porque:",
+      "alternativas": {
+        "a": "o antecedente da lacuna é um sintagma numérico, e não um substantivo",
+        "b": "\"that\" não pode ocupar a posição de sujeito de uma oração relativa",
+        "c": "\"that\" só retoma antecedentes humanos, e o antecedente aqui não é humano",
+        "d": "a lacuna vem depois de um verbo no past simple, tempo que exige \"which\"",
+        "e": "a oração relativa é explicativa, e \"that\" não introduz relativa explicativa"
+      },
+      "resposta": "e",
+      "explicacao": "A oração vem depois de vírgula e retoma toda a informação anterior — a queda pela metade no tempo de espera. Nessa posição só cabe \"which\", porque \"that\" não entra em relativa explicativa nem retoma uma oração inteira. A alternativa (b) é a mais marcada e enuncia uma regra que não existe: \"that\" é sujeito em qualquer relativa restritiva, como no próprio \"the team that had designed it\" do texto.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-175",
+      "texto_apoio": "The report compares two districts of the same city, a few kilometres apart. It describes one ______ fewer than one in ten households is connected to the sewage network, and another where the figure is above ninety per cent.",
+      "enunciado": "Na lacuna, o relativo substitui um adjunto de lugar. A forma capaz de fazê-lo é:",
+      "alternativas": {
+        "a": "which, que retoma coisas, sujeito ou objeto",
+        "b": "that, restritivo, sujeito ou objeto",
+        "c": "whose, que marca posse entre dois termos",
+        "d": "what, que não retoma antecedente expresso",
+        "e": "in which, com preposição antes do pronome"
+      },
+      "resposta": "e",
+      "explicacao": "O relativo ocupa aqui o lugar de \"in the district\", e adjunto de lugar exige preposição diante do pronome. \"Which\" e \"that\" sozinhos são as escolhas mais frequentes, mas deixariam o relativo sem função: a oração seguinte já tem sujeito próprio (\"fewer than one in ten households\") e verbo próprio. A segunda metade da frase confirma a leitura ao usar \"where\", que não está entre as alternativas.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-176",
+      "texto_apoio": "Consider the two sentences below, in which the relative pronoun appears in brackets.\nI. The drug (that) the committee approved last year is now on the public list.\nII. The drug (that) causes the fewest side effects is not always the cheapest one.",
+      "enunciado": "O pronome entre parênteses pode ser omitido em:",
+      "alternativas": {
+        "a": "II, apenas",
+        "b": "I e II",
+        "c": "nem I nem II",
+        "d": "I, apenas",
+        "e": "I e II, mas apenas em registro informal"
+      },
+      "resposta": "d",
+      "explicacao": "O relativo só desaparece quando é objeto da oração adjetiva: em I, o comitê aprovou o remédio, e a omissão não deixa buraco nenhum. Em II ele é sujeito de \"causes\", e retirá-lo deixaria o verbo sem sujeito. A alternativa (b) é de quem generaliza a regra observada em I sem testar a função sintática em II — e a omissão em I não é informal, é a construção mais comum também na escrita.",
+      "formato": "escada",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-177",
+      "texto_apoio": "After the operation the families waited in the corridor for news, some of them for hours. The nurses ______ the families spoke that afternoon were the ones who had been in the operating room from the beginning.",
+      "enunciado": "Entre \"whom\" e \"to whom\", a lacuna só admite a segunda forma porque:",
+      "alternativas": {
+        "a": "\"whom\" é forma da língua falada, incompatível com o registro do texto",
+        "b": "o verbo \"speak\" exige a preposição \"to\", que no registro formal antecede o relativo",
+        "c": "o antecedente está no plural, e \"whom\" só retoma antecedente singular",
+        "d": "\"whom\" não introduz oração relativa restritiva, apenas explicativa",
+        "e": "a oração relativa está na voz passiva, o que impõe preposição antes do pronome"
+      },
+      "resposta": "b",
+      "explicacao": "\"Speak to somebody\" é regência fixa, e no registro formal a preposição sobe para antes do relativo. \"Whom\" sozinho é a alternativa mais escolhida porque a forma de objeto está certa — mas deixa \"spoke\" sem a preposição exigida, ausência que o português dispensa e o inglês não. A ordem alternativa \"whom the families spoke to\" também seria válida, e é ela que o registro formal evita.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-178",
+      "texto_apoio": "The bulletin recorded a sharp increase ______ the number of confirmed cases in the north of the state, and warned that the peak had probably not been reached.",
+      "enunciado": "A preposição exigida pelo substantivo \"increase\", na lacuna, é:",
+      "alternativas": {
+        "a": "in",
+        "b": "of",
+        "c": "on",
+        "d": "to",
+        "e": "for"
+      },
+      "resposta": "a",
+      "explicacao": "\"Increase\", \"rise\", \"fall\" e \"reduction\" pedem \"in\" diante daquilo que varia. A armadilha é \"of\", que transporta o \"aumento de\" do português: em inglês, \"an increase of\" só aparece diante da medida da variação, como em \"an increase of thirty per cent\", e não diante daquilo que aumentou.",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-179",
+      "texto_apoio": "One paragraph of the bulletin covers three separate problems. The demand ______ intensive care beds doubled during the epidemic; access ______ treatment is still unequal between regions; and the shortage ______ trained nurses has not improved since last year.",
+      "enunciado": "As lacunas são preenchidas, na ordem, por:",
+      "alternativas": {
+        "a": "to – of – in",
+        "b": "for – to – of",
+        "c": "of – for – in",
+        "d": "for – of – in",
+        "e": "of – to – from"
+      },
+      "resposta": "b",
+      "explicacao": "As três regências são fixas: \"demand for\", \"access to\", \"shortage of\". Nenhuma delas acompanha o português, e é por isso que a alternativa (c), que decalca \"demanda de\" e \"acesso para\", atrai tanto. A alternativa (d) acerta a primeira e erra as outras duas — resolver a questão pela primeira lacuna e marcar sem conferir o resto é o erro de método que este tipo de item cobra.",
+      "formato": "lacunas",
+      "dificuldade": "media"
+    },
+    {
+      "id": "ingles-180",
+      "texto_apoio": "Lead was removed from petrol decades ago, but it is still found in old paint, in some ceramics and in informal battery recycling. Children exposed ______ high levels of lead may develop learning difficulties for which no other cause is ever found.",
+      "enunciado": "A lacuna é preenchida por \"to\". O que impede o emprego de \"of\", sugerido pelo português, é:",
+      "alternativas": {
+        "a": "a presença de um substantivo incontável imediatamente depois da lacuna",
+        "b": "o fato de o verbo aparecer no particípio, e não numa forma finita",
+        "c": "a regência fixa de \"expose\", que o português não reproduz",
+        "d": "a existência de outro complemento com \"of\" no mesmo sintagma nominal",
+        "e": "a posição do adjunto, que em inglês antecede o núcleo do sintagma"
+      },
+      "resposta": "c",
+      "explicacao": "\"Expose\" e \"exposed\" só admitem \"to\", no sentido literal e no epidemiológico, e a regência não muda com o tempo nem com a voz do verbo. A alternativa (d) é a mais engenhosa: o \"of\" de \"high levels of lead\" está de fato ali, mas pertence a \"levels\", não à regência de \"exposed\" — proibição de repetir preposição é regra que não existe em inglês.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "ingles-181",
+      "texto_apoio": "The committee meets four times a year and its decisions bind the whole public network. It is responsible ______ deciding which drugs enter the list and at what price they are bought.",
+      "enunciado": "Depois do adjetivo \"responsible\", a preposição adequada é:",
+      "alternativas": {
+        "a": "of",
+        "b": "about",
+        "c": "with",
+        "d": "for",
+        "e": "to"
+      },
+      "resposta": "d",
+      "explicacao": "\"Responsible\" rege \"for\", e o gerúndio \"deciding\" já impresso na frase confirma que ali cabe preposição, porque só preposição rege gerúndio. Quem marca \"to\" está montando \"responsible to decide\", construção inexistente que, além disso, não se sustenta diante da forma em -ing que o texto traz.",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-182",
+      "texto_apoio": "During the consultation the patient said: \"I have been taking this medication for three weeks.\"",
+      "enunciado": "Transposta ao discurso indireto, a fala do paciente torna-se:",
+      "alternativas": {
+        "a": "The patient said he has been taking that medication for the last three weeks.",
+        "b": "The patient said he was taking that medication since three weeks.",
+        "c": "The patient said that he takes that medication for three weeks.",
+        "d": "The patient said he would take that medication for three weeks.",
+        "e": "The patient said he had been taking that medication for three weeks."
+      },
+      "resposta": "e",
+      "explicacao": "Com o verbo introdutor no passado, o present perfect continuous recua para past perfect continuous, e \"this\" passa a \"that\". A alternativa (a) mantém o tempo original, descuido mais frequente do discurso indireto; a (b) soma um segundo erro ao trocar \"for\" por \"since\" diante de um período de duração, quando \"since\" só cabe diante do marco inicial.",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-183",
+      "texto_apoio": "Before writing the prescription, the doctor asked: \"Have you ever had an allergic reaction to penicillin?\"",
+      "enunciado": "A forma correta da pergunta em discurso indireto é:",
+      "alternativas": {
+        "a": "The doctor asked if had I ever had an allergic reaction to penicillin.",
+        "b": "The doctor asked me have I had an allergic reaction to penicillin.",
+        "c": "The doctor asked if I had ever had an allergic reaction to penicillin.",
+        "d": "The doctor asked whether I have ever an allergic reaction to penicillin.",
+        "e": "The doctor asked if I have ever had an allergic reaction to penicillin."
+      },
+      "resposta": "c",
+      "explicacao": "A pergunta indireta perde a inversão entre auxiliar e sujeito e entra com \"if\" ou \"whether\"; o present perfect recua para past perfect. As alternativas (a) e (b) preservam a ordem da interrogativa direta, erro que sobrevive porque a frase continua soando como pergunta na cabeça de quem lê. Já (e) acerta a ordem e esquece o recuo do tempo verbal.",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-184",
+      "texto_apoio": "On the evening before the operation, the nurse told the patient: \"Don't eat anything after midnight.\"",
+      "enunciado": "No discurso indireto, uma ordem negativa como a da enfermeira é reproduzida por meio de:",
+      "alternativas": {
+        "a": "\"not to\" seguido de infinitivo, com o objeto de pessoa depois de \"told\"",
+        "b": "\"to not\" seguido de gerúndio, forma própria das ordens negativas",
+        "c": "\"that\" seguido do imperativo, tal como na fala original",
+        "d": "\"don't\" precedido do sujeito, mantida a estrutura da fala",
+        "e": "\"if not\" seguido do verbo no passado, como nas perguntas relatadas"
+      },
+      "resposta": "a",
+      "explicacao": "Ordem negativa relatada vira \"not to\" mais infinitivo, e \"tell\" leva objeto de pessoa sem preposição: \"told the patient not to eat\". A alternativa (b) inverte a ordem das duas partículas e ainda troca o infinitivo por gerúndio; a (e) transporta para a ordem o esquema da pergunta indireta, confusão típica de quem decorou os dois padrões sem distinguir o que cada um relata.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "ingles-185",
+      "texto_apoio": "The generic version left the factory with the same active ingredient, the same dose and the same route of administration. It is ______ effective ______ the original, and it costs a third of the price.",
+      "enunciado": "As duas posições da estrutura comparativa são ocupadas, respectivamente, por:",
+      "alternativas": {
+        "a": "as – as",
+        "b": "more – than",
+        "c": "as – than",
+        "d": "so – as",
+        "e": "more – as"
+      },
+      "resposta": "a",
+      "explicacao": "A comparação é de igualdade, e a estrutura é \"as + adjetivo + as\". A alternativa (c) é a mais escolhida porque abre certo e fecha com o \"than\" do comparativo de superioridade, mistura que o texto desautoriza: o genérico não é apresentado como mais eficaz, e sim como igualmente eficaz. \"So ... as\" existe, mas apenas em frases negativas.",
+      "formato": "lacunas"
+    },
+    {
+      "id": "ingles-186",
+      "texto_apoio": "The new emergency unit opened in March with twice the number of consulting rooms. Waiting times there are ______ than in the old one, and the difference is big enough to be noticed by anyone who has used both.",
+      "enunciado": "Assinale a alternativa em que a forma comparativa está corretamente construída e cabe na lacuna:",
+      "alternativas": {
+        "a": "more shorter",
+        "b": "very shorter",
+        "c": "more short",
+        "d": "the shortest",
+        "e": "far shorter"
+      },
+      "resposta": "e",
+      "explicacao": "\"Short\" é monossílabo e forma o comparativo com -er; quem intensifica comparativo é \"far\" ou \"much\", nunca \"very\". As demais reúnem um erro clássico cada: dupla marca de comparativo em (a), intensificador incompatível em (b), comparativo analítico com monossílabo em (c) e superlativo no lugar do comparativo em (d) — esta última atrai por causa do \"twice\" da primeira frase, que sugere um recorde onde há apenas uma comparação entre duas unidades.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "ingles-187",
+      "texto_apoio": "The reform gave the clinic more consulting rooms and a longer opening period, but the staff was not expanded. It now sees twice ______ patients per day as it did before, with the same number of nurses.",
+      "enunciado": "O \"as\" que aparece depois de \"per day\" determina a forma da lacuna, que é:",
+      "alternativas": {
+        "a": "as much",
+        "b": "more",
+        "c": "so many",
+        "d": "as many",
+        "e": "many more"
+      },
+      "resposta": "d",
+      "explicacao": "\"Patients\" é contável e a proporção se expressa por \"twice as many ... as\". \"As much\" só serve para incontáveis; \"more\" e \"many more\" pediriam \"than\", e não o \"as\" já impresso depois da lacuna. Esse segundo \"as\" é a pista que decide o item e passa despercebido por quem lê apenas até o espaço em branco.",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-188",
+      "texto_apoio": "The company was asked about the missing safety data three times in the same week. It refused ______ the results before the end of the review, and denied ______ any information from the regulator at any point.",
+      "enunciado": "A forma do complemento é decidida pelo verbo que o rege. As lacunas recebem:",
+      "alternativas": {
+        "a": "to release – withholding",
+        "b": "releasing – to withhold",
+        "c": "to release – to withhold",
+        "d": "releasing – withholding",
+        "e": "release – withhold"
+      },
+      "resposta": "a",
+      "explicacao": "\"Refuse\" pede infinitivo com \"to\" e \"deny\" pede gerúndio; não há regra de sentido por trás disso, são listas que se memorizam. As alternativas (c) e (d) são as de quem uniformiza os dois verbos, resolvendo o segundo pelo primeiro ou o primeiro pelo segundo — e a (e), que deixa os dois no infinitivo sem \"to\", vem de quem lê os dois verbos como se fossem modais.",
+      "formato": "lacunas",
+      "dificuldade": "media"
+    },
+    {
+      "id": "ingles-189",
+      "texto_apoio": "Consider the two sentences below.\nI. She stopped smoking two years ago.\nII. She stopped to smoke outside the building.",
+      "enunciado": "A diferença de sentido entre I e II é que:",
+      "alternativas": {
+        "a": "em I ela interrompeu uma atividade para fumar; em II abandonou o hábito",
+        "b": "em I ela abandonou o hábito; em II interrompeu uma atividade para fumar",
+        "c": "as duas frases dizem que ela abandonou o hábito, em momentos diferentes",
+        "d": "as duas frases dizem que ela interrompeu uma atividade, em lugares diversos",
+        "e": "em I a ação está concluída e em II ainda ocorre, sem outra diferença"
+      },
+      "resposta": "b",
+      "explicacao": "\"Stop\" seguido de gerúndio significa abandonar a atividade; seguido de infinitivo, interromper outra coisa com a finalidade que o infinitivo expressa. É o par que mais derruba justamente porque as duas frases estão corretas: quem procura o erro de gramática não encontra nenhum e acaba marcando (c) ou (d), que tratam a alternância entre as duas formas como se fosse estilística.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-190",
+      "texto_apoio": "By the end of the first year, residents have already worked more hours than they thought possible. Many of them still look forward ______ in the new unit, and most say the experience is worth ______, even at that cost.",
+      "enunciado": "Em \"look forward ______\" e em \"worth ______\", as formas verbais adequadas são, respectivamente:",
+      "alternativas": {
+        "a": "to work – to have",
+        "b": "to working – having",
+        "c": "working – having",
+        "d": "to work – having",
+        "e": "to working – to have"
+      },
+      "resposta": "b",
+      "explicacao": "As duas lacunas pedem gerúndio, mas por motivos diferentes: em \"look forward to\" o \"to\" é preposição, e preposição rege gerúndio; depois de \"worth\" o gerúndio é exigido pelo próprio adjetivo. As alternativas (a) e (e) tratam aquele \"to\" como marca de infinitivo, engano quase inevitável para quem reconhece a sequência \"to + verbo\" sem verificar de que \"to\" se trata; a (c) elimina a preposição, que é obrigatória.",
+      "formato": "lacunas",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-191",
+      "texto_apoio": "The professor looked at the empty tray on the laboratory bench and turned to the group of students. \"The results haven't arrived yet, ______?\" she asked.",
+      "enunciado": "A question tag adequada é:",
+      "alternativas": {
+        "a": "haven't they",
+        "b": "didn't they",
+        "c": "did they not",
+        "d": "aren't they",
+        "e": "have they"
+      },
+      "resposta": "e",
+      "explicacao": "Frase negativa pede tag afirmativa, com o mesmo auxiliar (\"have\") e um pronome que retome o sujeito (\"they\"). Repetir a negação, como em (a), é o erro mais comum e vem de quem traduz a tag por \"não é?\", fórmula que em português não muda de polaridade. As alternativas com \"did\" trocam o auxiliar do present perfect pelo do past simple.",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-192",
+      "texto_apoio": "The supervisor closed the door and sat down with the intern, who had been on call all night. \"Let's review the case together, ______?\" she said.",
+      "enunciado": "Frases iniciadas por \"let's\" pedem uma tag fixa, que é:",
+      "alternativas": {
+        "a": "will you, com o auxiliar \"will\"",
+        "b": "don't we, com o auxiliar \"do\" na negativa",
+        "c": "shall we, com o auxiliar \"shall\"",
+        "d": "shan't we, com \"shall\" na negativa",
+        "e": "do we, com o auxiliar \"do\" na afirmativa"
+      },
+      "resposta": "c",
+      "explicacao": "Depois de \"let's\" a tag não segue a regra de polaridade: é sempre \"shall we\". \"Will you\" é a tag do imperativo — \"Open the window, will you?\" — e marca quem lê \"let's\" como uma ordem dirigida ao outro, quando na verdade é um convite que inclui quem fala, e é justamente essa inclusão que a primeira pessoa do plural da tag registra.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "ingles-193",
+      "enunciado": "As frases abaixo tratam do mesmo assunto. Assinale aquela em que o emprego do artigo está INCORRETO:",
+      "alternativas": {
+        "a": "The obesity is now treated as a chronic disease.",
+        "b": "Obesity is now treated as a chronic disease.",
+        "c": "She works as an epidemiologist in a public hospital.",
+        "d": "Prevention costs far less than treatment.",
+        "e": "Diabetes affects millions of adults in the country."
+      },
+      "resposta": "a",
+      "explicacao": "Substantivo incontável em sentido geral não leva artigo em inglês: \"obesity\", \"prevention\", \"treatment\", \"diabetes\". A alternativa (a) é a transposição direta do português, em que \"a obesidade\" é obrigatório. A armadilha do comando é a alternativa (b), idêntica à (a) menos o artigo: quem lê rápido marca a que reconhece como certa em vez da que o enunciado pede.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "ingles-194",
+      "texto_apoio": "Her post was created after the last epidemic, and there is nothing like it anywhere else in the state. She works as an epidemiologist at the only university hospital in the region.",
+      "enunciado": "A escolha de \"an\" diante de \"epidemiologist\" e de \"the\" diante de \"only university hospital\" se explica, respectivamente, por:",
+      "alternativas": {
+        "a": "o som inicial da palavra seguinte e a unicidade do referente",
+        "b": "a letra inicial da palavra seguinte e a presença de um adjetivo",
+        "c": "a origem estrangeira do substantivo e o caráter público do hospital",
+        "d": "o número de sílabas da palavra seguinte e a menção anterior ao hospital",
+        "e": "a classe gramatical da palavra seguinte e o grau superlativo de \"only\""
+      },
+      "resposta": "a",
+      "explicacao": "O que decide entre \"a\" e \"an\" é o som, não a letra — por isso \"an epidemiologist\" e, no mesmo trecho, \"a university\", que soa /ju/. \"Only\" identifica um referente único e torna o definido obrigatório. A alternativa (b) é a mais marcada porque a regra da letra inicial funciona na maioria dos casos e só falha justamente nas palavras que a prova escolhe.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-195",
+      "texto_apoio": "Brazil ______ free antiretroviral treatment to everyone who needs it since 1996. The policy ______ a model for other middle-income countries at the time, and it is still cited in international reports.",
+      "enunciado": "Cada verbo obedece ao seu próprio marcador temporal. As lacunas são preenchidas, na ordem, por:",
+      "alternativas": {
+        "a": "offers – became",
+        "b": "has offered – has become",
+        "c": "offered – has become",
+        "d": "has offered – became",
+        "e": "is offering – became"
+      },
+      "resposta": "d",
+      "explicacao": "\"Since 1996\" marca situação iniciada no passado e ainda em curso, o que exige present perfect; \"at the time\" fecha um momento passado e pede past simple. A alternativa (b) uniformiza os dois verbos no present perfect e ignora o segundo marcador — o item existe para mostrar que cada verbo responde ao adjunto que está na sua própria oração, não ao da oração vizinha.",
+      "formato": "lacunas",
+      "dificuldade": "media"
+    },
+    {
+      "id": "ingles-196",
+      "texto_apoio": "The laboratory sent the results two hours ago and the file is already in the system. The physician, who has been in the operating room since noon, ______ them yet.",
+      "enunciado": "O advérbio \"yet\", em frase negativa, determina a forma verbal da lacuna, que é:",
+      "alternativas": {
+        "a": "didn't see",
+        "b": "hadn't seen",
+        "c": "won't see",
+        "d": "hasn't seen",
+        "e": "has not been seeing"
+      },
+      "resposta": "d",
+      "explicacao": "\"Yet\" em frase negativa aponta para algo que não aconteceu até agora e combina com present perfect. \"Didn't see\" fecharia o fato no passado e deixaria \"yet\" sem função: é a escolha de quem se guia pelo \"two hours ago\" da frase anterior, marcador que rege apenas o verbo daquela frase. O past perfect de (b) exigiria um segundo fato passado como referência, que o texto não oferece.",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-197",
+      "texto_apoio": "Consider the three sentences below.\nI. She has worked in the intensive care unit since 2015.\nII. She has worked in the intensive care unit in 2015.\nIII. She worked in the intensive care unit in 2015.",
+      "enunciado": "Está gramaticalmente aceitável o que se apresenta em:",
+      "alternativas": {
+        "a": "I, apenas",
+        "b": "III, apenas",
+        "c": "I e II, apenas",
+        "d": "I e III, apenas",
+        "e": "II e III, apenas"
+      },
+      "resposta": "d",
+      "explicacao": "\"Since + data\" marca o início de uma situação que segue até agora e pede present perfect (I). \"In 2015\" delimita um período encerrado, incompatível com o present perfect (II) e natural com o past simple (III). A armadilha é aceitar II por semelhança com I: a forma verbal é a mesma nas duas, e o que decide é o marcador temporal que vem depois dela.",
+      "formato": "escada",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-198",
+      "texto_apoio": "The night was quiet until a few minutes past three. The resident ______ a routine chart when the alarm ______ in the next room.",
+      "enunciado": "Considerando o que o \"when\" anuncia na segunda oração, os verbos vão para:",
+      "alternativas": {
+        "a": "reviewed – was going off",
+        "b": "was reviewing – went off",
+        "c": "was reviewing – was going off",
+        "d": "reviewed – went off",
+        "e": "had reviewed – had gone off"
+      },
+      "resposta": "b",
+      "explicacao": "A ação em curso é o pano de fundo e vai para o past continuous; a que a interrompe é pontual e vai para o past simple. A alternativa (c) põe as duas em curso ao mesmo tempo e desfaz a interrupção que o \"when\" anuncia; a (d) transforma a revisão do prontuário em fato pontual, leitura possível em abstrato, mas que deixa a frase sem o contraste entre fundo e recorte que a estrutura pede.",
+      "formato": "lacunas",
+      "dificuldade": "media"
+    },
+    {
+      "id": "ingles-199",
+      "texto_apoio": "The programme delivered its first million doses in eighteen months and has been accelerating since then. By 2030, if the current pace is maintained, it ______ more than ten million doses.",
+      "enunciado": "A expressão \"by 2030\" impõe à lacuna a forma:",
+      "alternativas": {
+        "a": "will deliver, futuro simples",
+        "b": "delivers, presente simples",
+        "c": "will have delivered, futuro perfeito",
+        "d": "is delivering, presente contínuo",
+        "e": "would deliver, futuro do pretérito"
+      },
+      "resposta": "c",
+      "explicacao": "\"By + data futura\" aponta para uma ação já concluída quando aquele marco chegar, e essa é a função do future perfect. \"Will deliver\" apenas situa a entrega em algum ponto do futuro, sem a ideia de acumulado até 2030 que o \"by\" exige — a diferença desaparece para quem lê \"by 2030\" como se fosse \"in 2030\", que é o deslize que a questão cobra.",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-200",
+      "texto_apoio": "The outbreak was only identified in the third week, when more than two hundred people had already been infected. \"If it ______ detected earlier, the campaign ______ hundreds of cases,\" the coordinator told the press.",
+      "enunciado": "A hipótese diz respeito a um passado que não se realizou. As lacunas são preenchidas, na ordem, por:",
+      "alternativas": {
+        "a": "was – would prevent",
+        "b": "has been – will have been prevented",
+        "c": "were – would be preventing",
+        "d": "had been – would prevent",
+        "e": "had been – would have prevented"
+      },
+      "resposta": "e",
+      "explicacao": "A terceira condicional pede \"if + past perfect\" na condição e \"would have + particípio\" no resultado, porque tanto a condição quanto a consequência ficaram no passado que não ocorreu. A alternativa (d) acerta a condição e resolve o resultado com a segunda condicional: essa mistura entre a segunda e a terceira é o erro mais frequente do tópico, e sobrevive porque a frase resultante soa bem.",
+      "formato": "lacunas",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-201",
+      "texto_apoio": "The city has a single CT scanner and it serves four hundred thousand people. \"If we ______ a second one, we would not have to transfer so many patients at night,\" the director said, without much hope.",
+      "enunciado": "O \"would\" da oração principal fixa o tipo de condicional e, com ele, a forma da lacuna:",
+      "alternativas": {
+        "a": "have, no presente",
+        "b": "had, no past simple",
+        "c": "will have, no futuro",
+        "d": "would have, com o modal",
+        "e": "had had, no past perfect"
+      },
+      "resposta": "b",
+      "explicacao": "O \"would\" no resultado fixa a segunda condicional, e nela a condição vai para o past simple ainda que se refira ao presente. \"Have\" construiria a primeira condicional e trataria a compra do aparelho como provável, leitura que o \"without much hope\" do fecho desmente. E \"would\" nunca aparece dentro da oração iniciada por \"if\", por mais que o paralelismo com o português sugira o contrário.",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-202",
+      "texto_apoio": "Active voice: \"Nurses administer more than ninety per cent of the vaccines given in primary care.\"",
+      "enunciado": "A transposição para a voz passiva que preserva o tempo verbal do original é:",
+      "alternativas": {
+        "a": "More than ninety per cent of the vaccines given in primary care are administered by nurses.",
+        "b": "More than ninety per cent of the vaccines given in primary care were administered by nurses.",
+        "c": "More than ninety per cent of the vaccines given in primary care have been administered by nurses.",
+        "d": "Nurses are administered more than ninety per cent of the vaccines given in primary care.",
+        "e": "By nurses are administered more than ninety per cent of the vaccines given in primary care."
+      },
+      "resposta": "a",
+      "explicacao": "O objeto passa a sujeito, o verbo assume \"be\" no mesmo tempo do original — presente — mais o particípio, e o agente entra com \"by\". As alternativas (b) e (c) trocam o tempo verbal sem que nada autorize a mudança; a (d) é a mais instrutiva, porque está bem formada e diz outra coisa: nela são as enfermeiras que recebem as vacinas.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "ingles-203",
+      "texto_apoio": "The power failed for four hours on a Sunday night and the backup generator did not start. The samples ______ before the failure, so nothing was lost.",
+      "enunciado": "A forma verbal que completa a lacuna sem alterar os fatos narrados é:",
+      "alternativas": {
+        "a": "had already frozen",
+        "b": "have already frozen",
+        "c": "had already been frozen",
+        "d": "were already freezing",
+        "e": "already froze"
+      },
+      "resposta": "c",
+      "explicacao": "As amostras sofrem a ação, e ela é anterior a outro fato passado: passiva no past perfect, \"had been + particípio\". As alternativas (a) e (e) põem as amostras congelando alguma coisa, confusão que sobrevive porque \"freeze\" também é intransitivo — mas aqui existe um agente implícito, alguém as congelou antes da queda de energia.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-204",
+      "texto_apoio": "The porter carried the whole box of files up to the fourth floor. Only when he put it down did someone tell him that the archive had been digitised the week before. He ______ them at all.",
+      "enunciado": "A forma que registra que a ação foi realizada, embora fosse desnecessária, é:",
+      "alternativas": {
+        "a": "didn't need to carry",
+        "b": "mustn't have carried",
+        "c": "shouldn't have carried",
+        "d": "can't have carried",
+        "e": "needn't have carried"
+      },
+      "resposta": "e",
+      "explicacao": "\"Needn't have + particípio\" diz que a ação foi feita e não era precisa, que é exatamente o caso do carregador. A alternativa (a) é a armadilha do item: \"didn't need to\" informa que a necessidade não existia e deixa em aberto — normalmente sugerindo o contrário — se a ação chegou a ocorrer. A (c) acrescentaria censura, e a (d) seria dedução negativa a partir de evidência, não avaliação de necessidade.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-205",
+      "texto_apoio": "The prescription in the chart reads ten milligrams per kilo, and the usual dose for that drug is one. The pharmacist stopped the order before it left the counter. Someone ______ the decimal point when transcribing it.",
+      "enunciado": "A lacuna exprime uma conclusão quase certa sobre um fato já ocorrido. Ela é preenchida por:",
+      "alternativas": {
+        "a": "must miss",
+        "b": "had to miss",
+        "c": "should have missed",
+        "d": "must have missed",
+        "e": "might have missed"
+      },
+      "resposta": "d",
+      "explicacao": "Dedução quase certa sobre o passado se expressa com \"must have + particípio\". A alternativa (e) tem a estrutura certa e o grau errado: \"might\" rebaixa a conclusão a mera possibilidade, quando a diferença entre a dose prescrita e a usual não deixa margem. Já (c) trocaria a dedução por censura e (b), por obrigação — são os desvios de quem acerta o modal e erra o que ele exprime.",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-206",
+      "texto_apoio": "The pharmacist explained the prescription at the counter, twice, and wrote the times on the box. \"You ______ take the antibiotic every eight hours until the box is finished. You ______ come back for a new prescription — we already have it here.\"",
+      "enunciado": "A segunda orientação diz que algo não é necessário, e não que seja proibido. As lacunas são preenchidas, na ordem, por:",
+      "alternativas": {
+        "a": "must – mustn't",
+        "b": "must – don't have to",
+        "c": "should – mustn't",
+        "d": "may – don't have to",
+        "e": "have to – shouldn't"
+      },
+      "resposta": "b",
+      "explicacao": "A primeira orientação é obrigação e a segunda é ausência de obrigação. Trocar \"don't have to\" por \"mustn't\", como fazem (a) e (c), transformaria \"não precisa voltar\" em \"está proibido de voltar\" — e a própria justificativa do farmacêutico, que já tem a receita ali, mostra qual das duas leituras cabe. A alternativa (d) enfraquece a primeira orientação, tornando facultativo o intervalo entre as doses.",
+      "formato": "lacunas",
+      "dificuldade": "media"
+    },
+    {
+      "id": "ingles-207",
+      "texto_apoio": "Discharge letters are written at the end of a hospital stay, usually by the most junior member of the team, at the end of a long shift. They are then read by a family doctor who has never met the patient and has ten minutes to decide what happens next. Nobody designed this arrangement; it settled into place over decades and no one has been asked to defend it since. If the letter is the only bridge between two systems that barely talk to each other, it is worth asking why so little training goes into writing one.",
+      "enunciado": "O propósito principal do texto é:",
+      "alternativas": {
+        "a": "descrever as exigências legais que as cartas de alta precisam cumprir",
+        "b": "responsabilizar os médicos mais jovens pelos erros dos documentos hospitalares",
+        "c": "comparar o financiamento dos hospitais com o da atenção primária",
+        "d": "anunciar um novo programa de treinamento para quem escreve essas cartas",
+        "e": "defender que um documento de rotina merece mais atenção do que recebe hoje"
+      },
+      "resposta": "e",
+      "explicacao": "O texto descreve as condições em que a carta é escrita e lida e fecha com uma pergunta retórica sobre a falta de treinamento — movimento típico de quem quer valorizar algo tratado como rotina. A alternativa (b) confunde a descrição dessas condições com uma acusação: o autor atribui o problema ao arranjo, que \"nobody designed\", e não a quem escreve.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "ingles-208",
+      "texto_apoio": "Every few months a new application promises to detect disease from a photograph, a voice recording or the way someone types on a phone. Some of them will work, and one or two may end up in routine care. Most, however, are tested only against the same data used to build them, which is a little like marking your own examination and then publishing the grade. The problem is not the ambition. It is the distance between a promising result and a tool that a clinic can safely put in front of a patient.",
+      "enunciado": "A atitude do autor diante dessas aplicações pode ser descrita como:",
+      "alternativas": {
+        "a": "entusiasmada e sem reservas",
+        "b": "hostil e abertamente irônica",
+        "c": "crítica, mas sem descartar as aplicações",
+        "d": "indiferente ao possível valor clínico delas",
+        "e": "nostálgica em relação aos métodos antigos"
+      },
+      "resposta": "c",
+      "explicacao": "O texto concede duas vezes — \"some of them will work\" e \"the problem is not the ambition\" — e concentra a crítica na validação, não na ideia. Isso é ceticismo com ressalva. A alternativa (b) se apoia apenas na ironia da autocorreção e ignora as concessões, que são justamente o que distingue crítica de hostilidade.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-209",
+      "texto_apoio": "Telling people to remove standing water from their yards has been the core of dengue campaigns for forty years. It is cheap, it is easy to say, and it puts the responsibility exactly where the state can most comfortably leave it. Water also stands in gutters the city does not clean, in tyres nobody collects, and in tanks that exist only because the supply is intermittent. A campaign that ignores all of that is not a campaign. It is a message.",
+      "enunciado": "Ao escrever \"It is a message\", o autor pretende:",
+      "alternativas": {
+        "a": "sugerir que as campanhas substituíram ação por comunicação",
+        "b": "elogiar a clareza da estratégia de comunicação adotada até aqui",
+        "c": "explicar que mensagens são a intervenção mais barata em saúde pública",
+        "d": "indicar que as campanhas vêm sendo eficazes há quatro décadas",
+        "e": "recomendar que o material das campanhas seja traduzido para outras línguas"
+      },
+      "resposta": "a",
+      "explicacao": "A construção nega e substitui — \"is not a campaign. It is a message\" — e vem logo depois da lista do que o poder público deixa de fazer. Dizer que sobrou apenas mensagem é dizer que faltou ação. A alternativa (c) toma \"message\" pelo valor literal e transforma em elogio de eficiência aquilo que o texto usa como acusação.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "ingles-210",
+      "texto_apoio": "Students are told that the first two years of medical school are about memorising and the last four are about thinking. Anyone who has watched a good clinician work knows that this division is false. What looks like intuition at the bedside is a very large store of remembered patterns, retrieved faster than the doctor can explain. The division survives because it is comfortable: it lets the early years be dull and excuses the later ones from being precise.",
+      "enunciado": "O texto foi escrito principalmente para:",
+      "alternativas": {
+        "a": "apresentar dados estatísticos sobre o desempenho dos estudantes de medicina",
+        "b": "contestar uma crença corrente sobre a organização do curso de medicina",
+        "c": "recomendar que os dois primeiros anos do curso sejam encurtados",
+        "d": "descrever a história do ensino médico ao longo do século XX",
+        "e": "defender a memorização como único método válido de ensino médico"
+      },
+      "resposta": "b",
+      "explicacao": "O texto enuncia uma crença corrente (\"students are told\"), declara que ela é falsa e explica por que ela sobrevive: é estrutura de refutação, não de descrição. A alternativa (e) exagera a tese — o autor mostra que a memória sustenta o raciocínio clínico, o que está longe de proclamá-la método único de ensino.",
+      "formato": "direta"
     }
   ]
 }

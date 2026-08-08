@@ -8,7 +8,7 @@
       "alternativas": {
         "a": "vegetação – relevo – a cobertura vegetal reduz a evaporação da água disponível no solo – as elevações barram as massas úmidas",
         "b": "latitude – longitude – os raios chegam inclinados longe do equador – os fusos mudam a insolação",
-        "c": "altitude – continentalidade – o ar se rarefaz e retém menos calor – a água regula a temperatura do ar próximo",
+        "c": "altitude – continentalidade – o ar se rarefaz e retém menos calor – longe do mar falta a água, que aquece e resfria devagar, regulando a temperatura",
         "d": "correntes marítimas – pressão atmosférica – as águas frias resfriam a costa – a alta pressão inibe nuvens",
         "e": "maritimidade – latitude – a proximidade do mar eleva a umidade relativa do ar – a distância ao equador define a duração das estações"
       },
@@ -41,7 +41,7 @@
         "b": "apresentar a maior amplitude térmica diária do território, resultado da grande distância em relação ao oceano nas áreas em que ocorre",
         "c": "concentrar as chuvas no verão, com estação seca prolongada durante os meses de inverno",
         "d": "registrar os menores índices pluviométricos entre todos os tipos climáticos do território brasileiro, em qualquer estação",
-        "e": "apresentar chuvas bem distribuídas ao longo do ano e as menores temperaturas médias do país, com geadas no inverno"
+        "e": "apresentar chuvas bem distribuídas ao longo do ano, sem estação seca definida, e as menores temperaturas médias do país, com ocorrência de geadas no inverno"
       },
       "resposta": "e",
       "explicacao": "Abaixo do Trópico de Capricórnio, o Sul não tem estação seca definida: chove o ano todo, com influência de frentes frias. As médias baixas e as geadas o separam de todos os demais climas brasileiros.",
@@ -70,7 +70,7 @@
         "a": "a proximidade de correntes marítimas quentes, que aquecem o ar e impedem a condensação do vapor",
         "b": "a latitude elevada da região, que reduz a radiação solar recebida e limita a evaporação necessária à formação das nuvens de chuva",
         "c": "a presença de extensas áreas de floresta densa, que retêm a umidade e impedem sua distribuição",
-        "d": "a atuação irregular das massas de ar úmidas, que chegam enfraquecidas ao interior depois de perder umidade no litoral",
+        "d": "a atuação irregular das massas de ar úmidas, que chegam enfraquecidas ao interior depois de perder umidade no litoral e no Planalto da Borborema",
         "e": "a ocorrência frequente de frentes frias vindas do sul, que promovem estabilidade atmosférica e bloqueiam a formação de chuvas"
       },
       "resposta": "d",
@@ -145,7 +145,7 @@
       "alternativas": {
         "a": "a intensificação do efeito estufa, com retenção adicional de calor na baixa atmosfera e elevação das temperaturas médias globais",
         "b": "a destruição da camada de ozônio, que amplia a incidência de radiação ultravioleta na superfície",
-        "c": "a chuva ácida, que corrói edificações e altera o pH de solos e águas, formada a partir de óxidos de enxofre e nitrogênio",
+        "c": "a chuva ácida, formada quando os óxidos viram ácidos sulfúrico e nítrico e voltam na precipitação, corroendo edificações e alterando o pH de solos e águas",
         "d": "a formação de nevoeiros densos que reduzem a visibilidade nas áreas urbanas nos meses mais frios",
         "e": "o aumento da umidade relativa do ar nas regiões industrializadas, condição que favorece a dispersão dos poluentes emitidos localmente"
       },
@@ -162,7 +162,7 @@
         "b": "dobramentos modernos – bacias sedimentares – escudos cristalinos – terremotos frequentes de grande magnitude",
         "c": "bacias sedimentares – dobramentos modernos – escudos cristalinos – a ausência completa de minerais metálicos no subsolo brasileiro",
         "d": "escudos cristalinos – dobramentos modernos – bacias sedimentares – a impossibilidade de ocorrer petróleo em qualquer porção do país",
-        "e": "escudos cristalinos – bacias sedimentares – dobramentos modernos – relevo de altitudes modestas e baixa atividade sísmica"
+        "e": "escudos cristalinos – bacias sedimentares – dobramentos modernos – relevo de altitudes modestas e baixa atividade sísmica, por estarmos no interior da placa"
       },
       "resposta": "e",
       "explicacao": "O Brasil está no interior da placa Sul-Americana, longe das bordas onde se formam as grandes cadeias. Daí não termos Andes nem terremotos de grande porte — e termos, em compensação, escudos ricos em minério e bacias com petróleo.",
@@ -207,7 +207,7 @@
         "a": "sedimentação – litificação – temperados, ambientes em que os processos de deposição predominam sobre os de desgaste",
         "b": "intemperismo químico – intemperismo físico – frios e secos, condições em que a reação entre a água e os minerais se intensifica",
         "c": "erosão eólica – erosão pluvial – áridos, pela escassez de vegetação que expõe os sedimentos",
-        "d": "intemperismo físico – intemperismo químico – quentes e úmidos, em que calor e água aceleram as reações",
+        "d": "intemperismo físico – intemperismo químico – quentes e úmidos, em que calor e água aceleram as reações e produzem solos profundos e lixiviados",
         "e": "vulcanismo – tectonismo – de altitude elevada, próximos às bordas das placas"
       },
       "resposta": "d",
@@ -235,7 +235,7 @@
       "texto_apoio": "Em áreas desmatadas de encosta, a água da chuva concentra-se em sulcos que se aprofundam progressivamente até atingir o lençol freático.",
       "enunciado": "A forma erosiva descrita é:",
       "alternativas": {
-        "a": "a voçoroca, estágio mais avançado da erosão linear, que se aprofunda até atingir o lençol freático",
+        "a": "a voçoroca, estágio mais avançado da erosão linear, que se aprofunda até atingir o lençol freático e a partir daí se autoalimenta",
         "b": "a duna, forma de acumulação produzida pelo transporte de sedimentos arenosos pelo vento em áreas de vegetação escassa",
         "c": "o delta, forma de deposição construída pelo acúmulo de sedimentos na foz de um rio",
         "d": "a laterita, camada endurecida de óxidos que se forma na superfície de solos tropicais",
@@ -254,7 +254,7 @@
         "b": "é a do São Francisco, cujo curso atravessa o semiárido e sustenta os projetos de irrigação do vale",
         "c": "é a do Paraná, responsável pela maior parte da geração hidrelétrica do país e pela integração fluvial entre os países do Cone Sul",
         "d": "é a do Tocantins-Araguaia, cuja extensão se restringe ao território nacional e cujo aproveitamento se concentra na navegação",
-        "e": "é a Amazônica, com grande potencial de navegação e menor aproveitamento hidrelétrico, por ser um rio de planície"
+        "e": "é a Amazônica, com grande potencial de navegação e menor aproveitamento hidrelétrico, por ser um rio de planície, com pouco desnível a aproveitar"
       },
       "resposta": "e",
       "explicacao": "Rio de planície tem pouco desnível e por isso baixo potencial hidrelétrico, mas é excelente via de transporte. A maior geração do país está na bacia do Paraná, que é de planalto — a inversão típica dessa questão.",
@@ -268,7 +268,7 @@
         "a": "estar situado a profundidades que inviabilizam qualquer forma de extração com as tecnologias hoje disponíveis nos quatro países",
         "b": "depender apenas da legislação brasileira, pois toda a sua extensão está em território nacional",
         "c": "apresentar água de qualidade inadequada ao consumo humano, o que restringe seu uso às atividades industriais e agrícolas",
-        "d": "exigir acordo entre Brasil, Argentina, Paraguai e Uruguai, por se tratar de um recurso transfronteiriço",
+        "d": "exigir acordo entre Brasil, Argentina, Paraguai e Uruguai, por ser recurso transfronteiriço em que a extração de um lado rebaixa o nível no outro",
         "e": "ter volume reduzido em comparação com as demais reservas subterrâneas do continente"
       },
       "resposta": "d",
@@ -282,7 +282,7 @@
       "alternativas": {
         "a": "a irrigação – a piscicultura – a especialização produtiva de cada bacia hidrográfica do país",
         "b": "a navegação – a geração hidrelétrica – a concentração das usinas na bacia Amazônica e das hidrovias no Sudeste do país",
-        "c": "a geração hidrelétrica – a navegação – a distribuição das usinas e das hidrovias pelas bacias brasileiras",
+        "c": "a geração hidrelétrica – a navegação – a distribuição das grandes usinas pelas bacias de planalto e das hidrovias pelas bacias de planície",
         "d": "o abastecimento urbano – o uso industrial – a localização das metrópoles junto aos cursos de água",
         "e": "a pesca artesanal – o transporte de cargas pesadas – a distribuição das comunidades ribeirinhas ao longo dos grandes rios"
       },
@@ -297,7 +297,7 @@
       "enunciado": "As unidades dessa classificação são chamadas:",
       "alternativas": {
         "a": "biomas, categorias definidas exclusivamente pela vegetação dominante de cada área",
-        "b": "domínios morfoclimáticos, seis no total, definidos pelo conjunto de relevo, clima, solo e vegetação",
+        "b": "domínios morfoclimáticos, seis no total, definidos pelo conjunto de relevo, clima, solo e vegetação, com faixas de transição entre eles",
         "c": "unidades de conservação, áreas delimitadas por lei para a proteção dos recursos naturais",
         "d": "regiões geoeconômicas, divisão que considera o processo histórico de ocupação e a especialização produtiva de cada área",
         "e": "zonas climáticas, faixas delimitadas segundo a latitude e a incidência de radiação solar sobre a superfície terrestre"
@@ -327,7 +327,7 @@
       "enunciado": "Esse processo foi possibilitado, sobretudo, por:",
       "alternativas": {
         "a": "pela ampliação da área de floresta nativa preservada, que elevou a umidade regional e viabilizou o cultivo em sequeiro",
-        "b": "pela pesquisa agronômica e pela calagem, que corrigiram a acidez e a pobreza em fósforo do solo do Cerrado",
+        "b": "pela pesquisa agronômica e pela calagem, que corrigiram a acidez e a pobreza em fósforo do solo, num relevo plano que permitiu mecanizar",
         "c": "pela abundância natural de nutrientes nos solos do domínio, que dispensou qualquer correção prévia",
         "d": "pela ocorrência de chuvas regulares o ano todo, que eliminou a necessidade de irrigação",
         "e": "pelo relevo acidentado da região, que favoreceu a drenagem natural das áreas de cultivo e reduziu os custos de preparo"
@@ -343,7 +343,7 @@
       "alternativas": {
         "a": "raízes superficiais e pouco desenvolvidas, que aproveitam a água da camada superior do solo",
         "b": "folhas largas e permanentes durante todo o ano, característica que amplia a superfície disponível para a fotossíntese",
-        "c": "caducifolia, espinhos e caules suculentos, que reduzem a perda de água e permitem estocá-la na estação seca",
+        "c": "caducifolia, espinhos e caules suculentos, que cortam a perda de água por transpiração e permitem estocá-la para atravessar a estação seca",
         "d": "porte arbóreo elevado e dossel contínuo, estrutura que reduz a incidência de radiação solar direta sobre o solo",
         "e": "presença de epífitas e lianas, plantas que se apoiam nas árvores para alcançar a luz"
       },
@@ -356,7 +356,7 @@
       "texto_apoio": "A Mata Atlântica cobria originalmente cerca de 15% do território brasileiro e hoje conserva uma fração reduzida de sua extensão original.",
       "enunciado": "A intensidade dessa devastação se explica principalmente por:",
       "alternativas": {
-        "a": "coincidir com a faixa de ocupação mais antiga e mais densa do país, por onde entraram a cana, o café e a indústria",
+        "a": "coincidir com a faixa litorânea de ocupação mais antiga do país, por onde entraram cana, café e indústria e onde vive a maioria da população",
         "b": "pela fragilidade natural de suas espécies vegetais, incapazes de se regenerar após qualquer forma de intervenção humana",
         "c": "pela baixa diversidade biológica do bioma, que desestimulou a criação de unidades de conservação",
         "d": "pela ocorrência de incêndios naturais de grande extensão, recorrentes no domínio desse bioma",
@@ -375,7 +375,7 @@
         "b": "Pantanal e Pampa, ordem que corresponde à posição de cada um em relação ao Trópico",
         "c": "Cerrado e Caatinga, domínios que se distinguem pelo regime pluviométrico de cada área",
         "d": "Mata Atlântica e Amazônia, biomas florestais que ocupam a faixa litorânea e a porção setentrional do território",
-        "e": "Pampa e Pantanal, o primeiro de campos no extremo sul e o segundo a maior planície alagável do mundo"
+        "e": "Pampa e Pantanal, o primeiro de campos no extremo sul e o segundo a maior planície alagável do mundo, com pulso periódico de inundação"
       },
       "resposta": "e",
       "explicacao": "O Pampa ocupa a metade sul do Rio Grande do Sul, com campos e pecuária extensiva. O Pantanal é a maior planície alagável do mundo, e seu pulso de inundação sustenta a biodiversidade que o caracteriza.",
@@ -388,7 +388,7 @@
       "alternativas": {
         "a": "independe das condições atmosféricas, sendo sua distribuição determinada exclusivamente pelo substrato rochoso local",
         "b": "determina o clima de cada região, uma vez que a cobertura vegetal é o principal fator responsável pelo regime de chuvas",
-        "c": "depende de temperatura e de disponibilidade hídrica, o que repete formações semelhantes em latitudes próximas",
+        "c": "depende de temperatura e de disponibilidade hídrica, o que repete formações semelhantes em latitudes próximas de continentes diferentes",
         "d": "acompanha a distribuição da população humana, cuja ocupação define quais formações permanecem",
         "e": "varia conforme a altitude apenas, sem que a latitude influa sobre a distribuição das formações"
       },
@@ -401,7 +401,7 @@
       "texto_apoio": "Apesar de concentrar cerca de 12% da água doce superficial do planeta, o Brasil enfrenta crises de abastecimento em suas maiores regiões metropolitanas.",
       "enunciado": "A aparente contradição se explica sobretudo por:",
       "alternativas": {
-        "a": "a água estar distribuída de forma desigual em relação à população, concentrada na Amazônia e escassa no Sudeste",
+        "a": "a água estar distribuída de forma desigual em relação à população, concentrada na Amazônia e escassa no Sudeste, somadas as perdas na distribuição",
         "b": "pelo volume total de água disponível ter diminuído de forma acentuada nas últimas décadas em todas as bacias hidrográficas",
         "c": "pela ausência de tecnologia adequada ao tratamento da água captada nos mananciais",
         "d": "pelo consumo doméstico responder pela maior parte da demanda nacional, o que torna insuficiente qualquer volume disponível",
@@ -450,7 +450,7 @@
         "a": "a expansão da cobertura florestal nativa em razão do aumento do dióxido de carbono disponível para a fotossíntese das plantas",
         "b": "a redução generalizada das temperaturas médias no território nacional, pelo aumento da nebulosidade",
         "c": "o aumento uniforme das precipitações em todas as regiões do país, o que ampliaria a disponibilidade hídrica das bacias",
-        "d": "maior frequência de secas e de chuvas concentradas em poucos eventos, com efeitos sobre a agricultura e as cidades",
+        "d": "maior frequência de secas e de chuvas concentradas em poucos eventos, que alagam as cidades sem recarregar os aquíferos e atingem a safra",
         "e": "a estabilização do nível dos oceanos, o que eliminaria os riscos nas áreas costeiras ocupadas"
       },
       "resposta": "d",
@@ -463,7 +463,7 @@
       "enunciado": "O dado caracteriza:",
       "alternativas": {
         "a": "a fragmentação da propriedade rural, decorrente das sucessivas partilhas por herança ao longo do último século no país",
-        "b": "a concentração fundiária, marca histórica da estrutura agrária brasileira desde as sesmarias e a Lei de Terras",
+        "b": "a concentração fundiária, herança das sesmarias e da Lei de Terras de 1850, que mantém o índice de Gini da terra entre os mais altos do mundo",
         "c": "a predominância da agricultura familiar em área ocupada, resultado das políticas de crédito recentes",
         "d": "o avanço da reforma agrária, que teria redistribuído parcela significativa das terras improdutivas",
         "e": "a equivalência entre número de estabelecimentos e área ocupada, situação que caracteriza uma distribuição equilibrada"
@@ -480,7 +480,7 @@
         "a": "a pecuária extensiva – a pecuária intensiva – o número de cabeças por hectare em cada sistema",
         "b": "a agricultura familiar – o agronegócio – o volume de área ocupada por cada estabelecimento – a origem do capital investido",
         "c": "a agricultura de subsistência – a agricultura comercial – a região do país de cada uma – o tipo de cultivo",
-        "d": "o agronegócio – a agricultura familiar – escala, destino e organização do trabalho – nível tecnológico necessariamente",
+        "d": "o agronegócio – a agricultura familiar – escala, destino e organização do trabalho – nível tecnológico, já que há produção familiar tecnificada",
         "e": "a produção orgânica – a produção convencional – o emprego de insumos químicos no processo produtivo desenvolvido em cada caso"
       },
       "resposta": "d",
@@ -493,7 +493,7 @@
       "texto_apoio": "A Constituição de 1988 estabelece que a propriedade rural deve cumprir sua função social, atendendo a critérios de produtividade, ambientais e trabalhistas.",
       "enunciado": "O descumprimento desses critérios torna o imóvel passível de:",
       "alternativas": {
-        "a": "desapropriação para fins de reforma agrária, mediante indenização em títulos da dívida agrária pela terra",
+        "a": "desapropriação para fins de reforma agrária, com indenização em títulos da dívida agrária pela terra e em dinheiro pelas benfeitorias",
         "b": "confisco imediato sem qualquer indenização ao proprietário, medida prevista para todos os casos de descumprimento",
         "c": "tombamento pelo poder público, que impede alterações nas características originais do imóvel",
         "d": "transferência automática para a União, sem processo administrativo ou judicial prévio",
@@ -586,7 +586,7 @@
         "a": "pelo desinteresse dos grandes proprietários em manter as terras produtivas",
         "b": "pela ausência de legislação sobre propriedade rural no país, lacuna que impede a solução dos casos judiciais",
         "c": "pela redução da área agrícola disponível no território nacional, processo intensificado nas últimas décadas",
-        "d": "indefinição de títulos, grilagem e disputa por terras nas áreas de expansão da fronteira agrícola",
+        "d": "indefinição de títulos, grilagem e disputa por terras nas áreas de expansão da fronteira agrícola, onde o conflito vira violência",
         "e": "pela migração da população rural para as cidades, que esvaziou o campo e eliminou as disputas"
       },
       "resposta": "d",
@@ -633,7 +633,7 @@
         "b": "a ampliação do crédito rural destinado aos pequenos produtores, política que fixou a população no campo ao longo de todo o período citado",
         "c": "a criação de assentamentos de reforma agrária em escala suficiente para absorver a população rural",
         "d": "a valorização das atividades extrativistas tradicionais, que passaram a oferecer remuneração superior à obtida nas atividades urbanas",
-        "e": "a mecanização agrícola, que substituiu dezenas de trabalhadores por máquina e reduziu a demanda por mão de obra"
+        "e": "a mecanização agrícola, que substituiu dezenas de trabalhadores por máquina, enquanto a concentração fundiária fechava a alternativa da pequena posse"
       },
       "resposta": "e",
       "explicacao": "A colheitadeira substitui dezenas de trabalhadores, e a concentração fundiária fecha a alternativa da pequena posse. Do outro lado, a industrialização puxava — mas a expulsão veio antes da atração, e por isso a cidade recebeu mais gente do que emprego.",
@@ -647,7 +647,7 @@
         "a": "cidade média – região metropolitana – aglomeração urbana, categorias da legislação urbanística brasileira",
         "b": "megalópole – metrópole – conurbação, ordem correspondente ao número de habitantes de cada formação",
         "c": "conurbação – megalópole – metrópole, classificação estabelecida a partir da extensão territorial ocupada por cada uma das formações citadas",
-        "d": "metrópole – conurbação – megalópole, isto é, a cidade que polariza, as manchas que se encostam e as metrópoles em sequência",
+        "d": "metrópole – conurbação – megalópole, isto é, a cidade que polariza, as manchas que se encostam e as metrópoles em sequência, como no eixo entre o Rio e São Paulo",
         "e": "capital regional – centro sub-regional – centro de zona, denominações adotadas na classificação da rede urbana elaborada pelo instituto oficial"
       },
       "resposta": "d",
@@ -706,7 +706,7 @@
       "enunciado": "A manutenção desses vazios se explica sobretudo por:",
       "alternativas": {
         "a": "pela ausência de demanda por moradia nas áreas centrais das cidades brasileiras",
-        "b": "especulação imobiliária, com o proprietário aguardando a valorização trazida pelo investimento público do entorno",
+        "b": "especulação imobiliária, com o proprietário aguardando a valorização trazida pelo investimento público do entorno, que ele embolsa sem ter gasto nada",
         "c": "por restrições ambientais que impedem qualquer edificação nessas áreas, conforme a legislação em vigor",
         "d": "pela inexistência de infraestrutura de água, esgoto e energia nessas áreas, condição que inviabiliza sua ocupação para fins residenciais",
         "e": "por determinação dos planos diretores municipais, que reservam essas áreas para a implantação futura de equipamentos públicos na cidade"
@@ -735,7 +735,7 @@
       "texto_apoio": "Em áreas centrais degradadas de várias cidades, investimentos em requalificação urbana elevaram os preços de imóveis e aluguéis, levando à saída dos antigos moradores.",
       "enunciado": "O processo descrito é ______, e sua característica central é ______; ele se distingue da simples requalificação por ______. As lacunas são preenchidas por:",
       "alternativas": {
-        "a": "a gentrificação – a substituição da população residente por outra de renda mais alta – produzir expulsão indireta pelo preço",
+        "a": "a gentrificação – a substituição da população residente por outra de renda mais alta – produzir expulsão indireta pelo preço do aluguel, e não por ordem judicial",
         "b": "a periferização – a ocupação de áreas distantes por população de baixa renda – ocorrer nas bordas da cidade",
         "c": "a conurbação – a fusão das manchas urbanas de municípios vizinhos – envolver mais de um município",
         "d": "a verticalização – a substituição de edificações horizontais por edifícios altos – alterar a densidade construída sem modificar quem ali reside",
@@ -768,7 +768,7 @@
       "alternativas": {
         "a": "a elevação do custo da energia elétrica nas regiões afetadas, pela necessidade de tratamento adicional da água",
         "b": "o aumento da incidência de doenças respiratórias crônicas na população residente",
-        "c": "a alta incidência de doenças de veiculação hídrica, como diarreias, hepatite A e leptospirose",
+        "c": "a alta incidência de doenças de veiculação hídrica — diarreias, hepatite A, leptospirose e verminoses —, que a rede de esgoto evita",
         "d": "a redução da disponibilidade de água subterrânea, decorrente da menor recarga dos aquíferos nas áreas urbanas",
         "e": "a diminuição da produtividade agrícola nas áreas próximas às regiões metropolitanas"
       },
@@ -829,7 +829,7 @@
         "a": "mais planejada – seguir diretrizes definidas por órgãos técnicos – cidades de traçado regular e ocupação formal",
         "b": "mais lenta – vir acompanhada de investimento público prévio – cidades com serviços distribuídos entre bairros",
         "c": "mais antiga – decorrer diretamente do processo de industrialização local – cidades de porte reduzido distribuídas de modo uniforme no território",
-        "d": "mais rápida – não ser acompanhada de oferta suficiente de emprego e infraestrutura – cidades com grandes áreas precárias",
+        "d": "mais rápida – não ser acompanhada de oferta suficiente de emprego e infraestrutura – cidades com grandes áreas precárias, ocupadas por quem o mercado formal não absorveu",
         "e": "mais reversível – permitir o retorno da população às áreas rurais de origem – redução progressiva da taxa de urbanização ao longo das décadas"
       },
       "resposta": "d",
@@ -921,7 +921,7 @@
         "b": "a natalidade – a mortalidade – na quarta fase, quando as duas taxas voltam a se aproximar em patamares baixos",
         "c": "a fecundidade – a expectativa de vida – na primeira fase, período em que ambas as taxas permanecem elevadas nas sociedades analisadas",
         "d": "a mortalidade infantil – a mortalidade adulta – na terceira fase, quando a população atinge o maior contingente absoluto de sua história",
-        "e": "a mortalidade – a natalidade – na segunda fase, quando as duas taxas mais se distanciam e a população cresce depressa"
+        "e": "a mortalidade – a natalidade – na segunda fase, quando as duas taxas mais se distanciam e a população cresce depressa, porque a natalidade demora a reagir"
       },
       "resposta": "e",
       "explicacao": "Saneamento e vacina derrubam a mortalidade antes que a natalidade reaja, e é nesse intervalo que a população explode. A queda da natalidade vem depois, com urbanização, escolaridade e trabalho feminino.",
@@ -1434,7 +1434,7 @@
       "enunciado": "Essa disputa é conhecida como guerra fiscal e tem como consequência:",
       "alternativas": {
         "a": "o aumento da arrecadação de todos os estados envolvidos, resultado da ampliação da base tributária proporcionada pelas novas empresas",
-        "b": "perda de arrecadação sem ganho líquido para o conjunto da federação, já que o investimento viria de todo modo",
+        "b": "perda de arrecadação sem ganho líquido para o conjunto da federação, já que o investimento viria de todo modo e só se disputa onde ele será feito",
         "c": "a distribuição equilibrada das plantas industriais pelo conjunto do território nacional",
         "d": "a elevação uniforme das alíquotas praticadas por todos os estados para compensar as renúncias",
         "e": "a transferência da competência tributária para a União, medida adotada como resposta à disputa travada entre as unidades da federação"
@@ -2277,6 +2277,196 @@
       "resposta": "e",
       "explicacao": "O conjunto B-F-G-Q é a informação mais contraintuitiva do estudo dos cadernos: quem monta o cronograma pela intuição reserva tempo para Matemática e trata Geografia como matéria secundária, invertendo exatamente o que a prova cobra.",
       "formato": "direta"
+    },
+    {
+      "id": "geografia-151",
+      "texto_apoio": "Num mapa na escala 1:25.000, a distância em linha reta entre uma unidade básica de saúde e o hospital de referência do município mede 8 cm.",
+      "enunciado": "A distância real entre os dois pontos é de:",
+      "alternativas": {
+        "a": "200 m",
+        "b": "2 km",
+        "c": "3,125 km",
+        "d": "20 km",
+        "e": "200 km"
+      },
+      "resposta": "b",
+      "explicacao": "Na escala 1:25.000, cada centímetro do mapa vale 25.000 cm no terreno: 8 x 25.000 = 200.000 cm. Convertendo, 200.000 cm equivalem a 2.000 m, ou 2 km. O tropeço mais comum está na conversão final, já que de centímetro para quilômetro se divide por 100.000, e não por 10.000, o que produziria 20 km. Dividir a escala pela medida, em vez de multiplicar, leva a 3,125 km.",
+      "formato": "direta"
+    },
+    {
+      "id": "geografia-152",
+      "texto_apoio": "Um trecho retilíneo de rodovia que mede 12 km no terreno aparece com 6 cm de comprimento num mapa.",
+      "enunciado": "A escala desse mapa é:",
+      "alternativas": {
+        "a": "1:2.000",
+        "b": "1:20.000",
+        "c": "1:72.000",
+        "d": "1:200.000",
+        "e": "1:2.000.000"
+      },
+      "resposta": "d",
+      "explicacao": "Escala é a razão entre a distância no mapa e a distância real, expressas na mesma unidade. Convertendo, 12 km equivalem a 1.200.000 cm; dividindo por 6 cm, chega-se a 1:200.000. Trabalhar em metros, fazendo 12.000 dividido por 6, dá 1:2.000 e é o deslize mais frequente: a conversão precisa ser para centímetros, que é a unidade da medida feita sobre o papel. Multiplicar 12 por 6 leva a 1:72.000.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "geografia-153",
+      "texto_apoio": "Um mapa impresso traz a escala numérica 1:100.000 e também uma escala gráfica, isto é, uma barra graduada em quilômetros. O documento é fotocopiado com redução para metade do tamanho original.",
+      "enunciado": "Depois da redução:",
+      "alternativas": {
+        "a": "as duas escalas permanecem corretas, porque a redução altera apenas o tamanho do papel, e não as distâncias representadas no documento",
+        "b": "as duas escalas perdem a validade, sendo necessário refazer o mapa a partir dos dados do levantamento topográfico",
+        "c": "a escala gráfica deixa de valer e a numérica continua correta, já que a fração numérica independe do tamanho em que o mapa é impresso",
+        "d": "a escala gráfica continua válida e a numérica passa a ser 1:50.000, pois a redução aproxima a representação da dimensão real do terreno",
+        "e": "a escala gráfica segue válida, por ter encolhido junto com o desenho, e a numérica passa a 1:200.000, já que cada centímetro cobre o dobro da distância"
+      },
+      "resposta": "e",
+      "explicacao": "A barra graduada encolhe na mesma proporção do desenho, então continua medindo certo, e é exatamente por isso que as cartas oficiais a trazem. Já a fração numérica fica desatualizada: com metade do tamanho, cada centímetro passa a representar o dobro da distância, ou seja, 1:200.000. Quem imagina que reduzir o mapa aumenta a escala inverte a relação e responde 1:50.000.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "geografia-154",
+      "texto_apoio": "Um terreno retangular destinado à construção de uma unidade de saúde aparece, num mapa na escala 1:2.000, com lados de 4 cm e 3 cm.",
+      "enunciado": "A área real desse terreno é de:",
+      "alternativas": {
+        "a": "2,4 m²",
+        "b": "480 m²",
+        "c": "4.800 m²",
+        "d": "48.000 m²",
+        "e": "480.000 m²"
+      },
+      "resposta": "c",
+      "explicacao": "Cada lado é convertido separadamente: 4 x 2.000 = 8.000 cm, ou 80 m, e 3 x 2.000 = 6.000 cm, ou 60 m. A área é 80 x 60 = 4.800 m². A armadilha é aplicar a escala diretamente sobre a área do desenho: 12 cm² multiplicados por 2.000 dariam 2,4 m². Em área, a escala entra ao quadrado, e é esse detalhe que a maioria esquece.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "geografia-155",
+      "texto_apoio": "Uma carga refrigerada de vacinas parte de Bruxelas, que opera no fuso GMT+1, às 20h de uma segunda-feira, e o voo até São Paulo, no fuso GMT-3, dura 12 horas.",
+      "enunciado": "O relógio de São Paulo marcará, na chegada:",
+      "alternativas": {
+        "a": "4h de terça-feira",
+        "b": "8h de terça-feira",
+        "c": "12h de terça-feira",
+        "d": "16h de terça-feira",
+        "e": "4h de quarta-feira"
+      },
+      "resposta": "a",
+      "explicacao": "Converta a partida para o horário de Greenwich: 20h de segunda em Bruxelas, que está uma hora à frente, correspondem a 19h UTC. Somando as 12 horas de voo, chega-se às 7h UTC de terça; em São Paulo, três horas atrás, são 4h de terça-feira. Somar a duração diretamente ao relógio de origem, sem descontar as quatro horas de diferença entre os dois fusos, produz 8h — e é esse erro que faz uma equipe perder o horário de recepção de uma carga com prazo.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "geografia-156",
+      "texto_apoio": "O território continental brasileiro estende-se aproximadamente entre 34° e 74° de longitude oeste.",
+      "enunciado": "Considerando apenas a longitude, a diferença de hora solar entre os dois extremos é de:",
+      "alternativas": {
+        "a": "40 minutos",
+        "b": "1 hora e 20 minutos",
+        "c": "2 horas",
+        "d": "2 horas e 40 minutos",
+        "e": "7 horas e 12 minutos"
+      },
+      "resposta": "d",
+      "explicacao": "Como a Terra gira 360° em 24 horas, cada hora corresponde a 15° e cada grau, a 4 minutos. A extensão é 74° - 34° = 40°, e 40 x 4 = 160 minutos, ou 2 horas e 40 minutos. Somar as duas longitudes, procedimento válido apenas quando os pontos estão em hemisférios opostos, daria 108° e mais de sete horas. Vale lembrar que o horário legal não segue essa conta: os limites dos fusos brasileiros acompanham divisas estaduais.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "geografia-157",
+      "texto_apoio": "Uma equipe de vigilância epidemiológica precisa produzir um mapa-múndi em que a proporção entre as áreas dos países seja preservada, para comparar a distribuição de casos de uma doença por unidade de território.",
+      "enunciado": "A projeção adequada é a ______, que preserva ______ e distorce ______. As lacunas são preenchidas por:",
+      "alternativas": {
+        "a": "conforme – os ângulos, o que a torna adequada à navegação – as áreas, ampliando as regiões de alta latitude em relação às tropicais",
+        "b": "equivalente – as proporções entre as áreas dos países – as formas dos continentes, que aparecem alongadas ou achatadas no mapa",
+        "c": "equidistante – ângulos, áreas e distâncias simultaneamente – apenas as altitudes do terreno, que nenhuma projeção representa",
+        "d": "afilática – todas as propriedades geométricas da superfície – somente a posição relativa dos meridianos e dos paralelos traçados",
+        "e": "de Mercator – as áreas dos países – os ângulos entre os meridianos, motivo pelo qual ela não é usada na navegação marítima"
+      },
+      "resposta": "b",
+      "explicacao": "Nenhuma projeção conserva tudo: achatar uma esfera obriga a escolher o que sacrificar. Para comparar quantidade por unidade de território é preciso que a área esteja certa, daí a projeção equivalente. Mercator é conforme, e não equivalente: usá-la aqui inflaria Groenlândia e Rússia e deformaria qualquer densidade calculada. Afilática, por sua vez, não significa ausência de distorção, e sim que nenhuma das duas propriedades é conservada integralmente.",
+      "formato": "lacunas",
+      "dificuldade": "media"
+    },
+    {
+      "id": "geografia-158",
+      "texto_apoio": "Numa carta topográfica na escala 1:10.000, dois pontos de uma encosta situam-se sobre as curvas de nível de 40 m e de 60 m de altitude. A distância entre eles, medida no mapa, é de 2 cm.",
+      "enunciado": "A declividade média do trecho é de:",
+      "alternativas": {
+        "a": "0,1%",
+        "b": "1%",
+        "c": "10%",
+        "d": "20%",
+        "e": "40%"
+      },
+      "resposta": "c",
+      "explicacao": "A distância horizontal real é 2 x 10.000 = 20.000 cm, ou 200 m, e o desnível é 60 - 40 = 20 m. A declividade é a razão entre os dois: 20 dividido por 200 resulta em 0,1, ou 10%. Os erros previsíveis estão na conversão e na leitura: tomar 20.000 cm como 2.000 m dá 1%, usar apenas um centímetro dá 20%, e adotar a altitude de 40 m como se fosse o desnível dá 40%.",
+      "formato": "direta",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "geografia-159",
+      "texto_apoio": "Dois pontos da superfície terrestre têm as coordenadas A (5° N, 60° W) e B (15° S, 45° W).",
+      "enunciado": "Sobre a posição relativa desses pontos, é correto afirmar que:",
+      "alternativas": {
+        "a": "A está mais próximo do equador, ainda que em hemisfério distinto, e B está situado mais a leste, por ter longitude oeste menor",
+        "b": "B está mais próximo do equador e A está situado mais a leste, por apresentar valor de longitude mais elevado que o do outro ponto",
+        "c": "os dois estão no hemisfério norte e no mesmo fuso horário, uma vez que a diferença entre suas longitudes é inferior a quinze graus",
+        "d": "A está a leste de B, e ambos se localizam ao sul do equador, conforme indicam os valores de latitude registrados para cada um deles",
+        "e": "B está mais distante do meridiano de Greenwich que A, por apresentar latitude maior que a registrada para o primeiro ponto"
+      },
+      "resposta": "a",
+      "explicacao": "Latitude mede o afastamento em relação ao equador: 5° é menos que 15°, logo A está mais perto dele, ainda que num hemisfério diferente. Longitude mede o afastamento em relação a Greenwich: 45° W está mais perto do meridiano zero e, portanto, mais a leste que 60° W. As duas armadilhas clássicas são supor que longitude oeste maior significa posição mais a leste e usar a latitude para julgar distância a Greenwich, que é medida pela longitude.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "geografia-160",
+      "texto_apoio": "Dois satélites monitoram a mesma região. O primeiro registra imagens cujo menor elemento corresponde a 30 m no terreno e repete a passagem sobre a área a cada 16 dias. O segundo tem elemento mínimo de 250 m e passa sobre a área todos os dias.",
+      "enunciado": "Para acompanhar dia a dia o avanço de uma queimada extensa, é preferível o segundo satélite porque:",
+      "alternativas": {
+        "a": "sua resolução espacial é maior, o que permite delimitar com exatidão o contorno de cada foco identificado na área monitorada",
+        "b": "elementos maiores registram a temperatura da superfície com precisão superior à obtida por sensores de elemento reduzido",
+        "c": "a resolução espacial e a resolução temporal medem a mesma propriedade, de modo que qualquer um dos dois sensores serviria igualmente",
+        "d": "uma revisita a cada 16 dias é suficiente para registrar variações diárias, desde que as imagens tenham alta resolução espacial",
+        "e": "sua resolução temporal é maior, e acompanhar um fenômeno diário exige frequência de imageamento, não detalhe"
+      },
+      "resposta": "e",
+      "explicacao": "São duas resoluções diferentes: a espacial diz qual é o menor objeto distinguível na imagem; a temporal, de quanto em quanto tempo o satélite volta ao mesmo ponto. Para um fenômeno que muda todo dia, frequência vale mais que detalhe, e o inverso vale para delimitar com precisão um polígono de desmatamento. Tratar elemento maior como sinônimo de precisão maior inverte o conceito de resolução espacial.",
+      "formato": "direta",
+      "dificuldade": "media"
+    },
+    {
+      "id": "geografia-161",
+      "texto_apoio": "Uma secretaria estadual de saúde precisa apresentar três informações num mesmo relatório: a taxa de internações por 100 mil habitantes em cada município; a localização exata de cada unidade de pronto atendimento; e o deslocamento de pacientes entre municípios em busca de atendimento especializado.",
+      "enunciado": "As representações adequadas são, respectivamente, ______, ______ e ______. As lacunas são preenchidas por:",
+      "alternativas": {
+        "a": "mapa de fluxos – anamorfose – carta topográfica com curvas de nível traçadas a intervalos regulares em toda a extensão do estado",
+        "b": "mapa coroplético – mapa de pontos – mapa de fluxos, com setas cuja espessura é proporcional ao número de pacientes que se deslocam",
+        "c": "carta topográfica – climograma – mapa coroplético, em que as tonalidades indicam o número de pacientes deslocados entre os municípios",
+        "d": "mapa de pontos – mapa coroplético – anamorfose, em que a área de cada município é proporcional ao número de unidades instaladas nele",
+        "e": "climograma – mapa de fluxos – imagem de satélite multiespectral obtida sobre a área correspondente a cada um dos municípios do estado"
+      },
+      "resposta": "b",
+      "explicacao": "Dado relativo por unidade territorial pede tonalidade, que é o mapa coroplético; posição exata pede ponto; movimento entre lugares pede seta proporcional, que é o mapa de fluxos. A troca mais comum é usar o coroplético para valores absolutos, o que faz o mapa reproduzir a distribuição da população em vez do fenômeno que se quer estudar.",
+      "formato": "lacunas"
+    },
+    {
+      "id": "geografia-162",
+      "texto_apoio": "As projeções cartográficas podem ser classificadas conforme a superfície geométrica sobre a qual a esfera terrestre é projetada: um cilindro, um cone ou um plano.",
+      "enunciado": "Sobre essa classificação e as deformações correspondentes, é correto afirmar que:",
+      "alternativas": {
+        "a": "a projeção cilíndrica apresenta deformação mínima nas regiões polares, o que a torna a mais indicada para representar o Ártico e a Antártida",
+        "b": "a projeção cônica representa o planeta inteiro com precisão num único documento, por manter a deformação constante em toda a superfície",
+        "c": "a projeção plana distribui igualmente a deformação por toda a extensão do mapa, independentemente do ponto de contato adotado",
+        "d": "a cilíndrica deforma menos perto do equador e mais rumo aos polos; a cônica serve às latitudes médias; e a plana, às regiões polares",
+        "e": "as três apresentam exatamente as mesmas deformações, já que toda representação plana da superfície terrestre distorce ângulos e áreas do mesmo modo"
+      },
+      "resposta": "d",
+      "explicacao": "A deformação é menor onde a superfície geométrica toca a esfera: no equador, no caso do cilindro; num paralelo de latitude média, no do cone; e num único ponto, no da projeção plana, razão pela qual ela é a escolha usual para mapas polares. Dizer que todas distorcem igualmente confunde duas coisas: é verdade que nenhuma é fiel, mas o padrão e a localização da distorção mudam conforme a superfície adotada, e é isso que orienta a escolha.",
+      "formato": "direta",
+      "dificuldade": "media"
     }
   ]
 }

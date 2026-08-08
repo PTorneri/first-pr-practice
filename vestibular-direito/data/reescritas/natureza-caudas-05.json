@@ -1,0 +1,91 @@
+{
+  "_comentario": [
+    "Lote 5: 84, 85, 86, 87, 88, 89. Dezessete distratores.",
+    "",
+    "Bloco de biologia e epidemiologia. Em TRES delas (84, 87, 89) a correta era a mais",
+    "longa, e nas tres o distrator que a superou nao ganhou enchimento: ganhou um",
+    "mecanismo biologico de verdade.",
+    "",
+    "  89(a) DERIVA GENETICA. Era 'ausencia completa de qualquer variacao genetica",
+    "        entre os individuos'. Passa a ser: a aplicacao reduz a populacao, e a",
+    "        frequencia das variantes sobreviventes varia ao acaso, sem que a",
+    "        sobrevivencia dependa da suscetibilidade de cada um. E o mecanismo",
+    "        evolutivo vizinho da selecao natural, e a distincao entre os dois -- a",
+    "        sobrevivencia e correlacionada ao fenotipo ou nao? -- e exatamente o que",
+    "        a questao deveria estar testando.",
+    "  89(d) FLUXO GENICO: os resistentes CHEGAM de lavouras vizinhas ja tratadas. Isso",
+    "        acontece de verdade no campo, e continua nao sendo o que explica o",
+    "        surgimento da resistencia na populacao local.",
+    "  87(b) a velocidade de disseminacao como criterio, em vez da abrangencia. Errado,",
+    "        e e como a maioria das pessoas entende as tres palavras.",
+    "  87(e) 'limites numericos fixos definidos pela OMS' -- essa e a crenca mais",
+    "        difundida sobre pandemia, e nao existe limiar numerico algum.",
+    "  85(d) fica intocada: dividir um ovulo fecundado em duas massas celulares e",
+    "        gemelaridade artificial, tecnica real em bovinos, e o melhor distrator do",
+    "        conjunto. So nao e o que fez Dolly, que veio de celula somatica adulta.",
+    "  86(b) fica intocada, e e a mais fina do banco nesse assunto: 'identificar a",
+    "        funcao biologica de cada gene e sua relacao com doencas'. O Projeto Genoma",
+    "        LEU a ordem dos nucleotideos; atribuir funcao a cada gene e o trabalho que",
+    "        veio depois e segue em curso. Distrator perfeito, sem uma palavra de aviso.",
+    "  88(a) passa a ser a confusao estatistica real: sensibilidade como proporcao de",
+    "        positivos e especificidade como proporcao de negativos, 'somando a",
+    "        totalidade da amostra'. Soa como se fechasse conta, e mistura os",
+    "        denominadores -- que e o erro que se ve em reportagem sobre teste.",
+    "  88(c) detectar em fase inicial e distinguir variantes: as duas coisas que as",
+    "        pessoas ACHAM que sensibilidade e especificidade significam.",
+    "",
+    "Tirei 'todas as fases', 'todos os individuos', 'toda a populacao', 'ausencia",
+    "completa de qualquer' e 'sem qualquer relacao' -- cinco alternativas que o",
+    "ABSOLUTO_RX descarta antes de o candidato acabar de ler."
+  ],
+  "subtopic": "ciencias-natureza",
+  "questoes": {
+    "ciencias-natureza-84": {
+      "alternativas": {
+        "b": "originarem tecidos apenas durante o desenvolvimento embrionário, período após o qual perdem a capacidade de divisão e passam a se comportar como células especializadas comuns",
+        "d": "existirem apenas em tecidos fetais e embrionários, o que restringe seu uso terapêutico ao material obtido de cordão umbilical e de embriões excedentes",
+        "e": "se dividirem indefinidamente em células idênticas a si mesmas, sem assumir função especializada em tecido algum do organismo adulto"
+      },
+      "explicacao": "O que torna as células-tronco úteis à medicina é a capacidade de se diferenciar em tipos celulares especializados e, em certos casos, de se autorrenovar, o que abre caminho para regenerar tecidos lesionados. Restringi-las a tecidos fetais e embrionários é o distrator mais forte, porque a fonte embrionária de fato existe e é a mais versátil — e há células-tronco adultas na medula óssea, na pele e em outros tecidos, usadas em terapia há décadas. Dizer que perdem a capacidade de divisão após o período embrionário nega justamente a autorrenovação. Supor divisão indefinida sem diferenciação descreve o oposto do que as torna úteis, porque é a diferenciação que gera o tecido novo. E atribuir-lhes material genético distinto do organismo confunde célula-tronco com transplante alheio."
+    },
+    "ciencias-natureza-85": {
+      "alternativas": {
+        "a": "misturar o material genético de dois indivíduos da mesma espécie em laboratório, de modo que o descendente reúna metade das características hereditárias de cada um deles",
+        "b": "substituir o material genético do organismo original por sequências sintetizadas em laboratório, preservando apenas a estrutura da célula que as recebe"
+      },
+      "explicacao": "A clonagem reprodutiva produz um organismo geneticamente idêntico, ou quase idêntico, a outro já existente, a partir do núcleo de uma célula somática do original — foi assim com Dolly. A divisão de um óvulo fecundado em duas massas celulares independentes é o distrator mais difícil de descartar: a técnica existe, é usada em bovinos, e gera gêmeos idênticos entre si, e não uma cópia de um indivíduo adulto preexistente. Misturar material genético de dois indivíduos descreve a reprodução sexuada. Substituir o genoma por sequências sintéticas é biologia sintética, não clonagem. E combinar material de duas espécies descreve um organismo transgênico ou quimérico."
+    },
+    "ciencias-natureza-86": {
+      "alternativas": {
+        "a": "sintetizar em laboratório um conjunto completo de genes humanos a partir de nucleotídeos isolados, para em seguida compará-lo ao material genético das células",
+        "d": "substituir trechos do material genético humano por sequências corrigidas, com o objetivo de eliminar mutações associadas a doenças hereditárias graves",
+        "e": "catalogar as variações genéticas que distinguem os indivíduos da espécie, de modo a estabelecer um perfil de referência para cada população humana"
+      },
+      "explicacao": "O sequenciamento do genoma humano determinou a ordem dos nucleotídeos que compõem o DNA da espécie, o que permitiu localizar genes ligados a características e doenças. A alternativa que fala em identificar a função biológica de cada gene é a mais enganosa de todas, porque essa é a etapa seguinte, iniciada depois da leitura e ainda em curso — o projeto entregou a sequência, não o significado de cada trecho. Sintetizar genes em laboratório é engenharia genética, e não leitura. Substituir trechos por sequências corrigidas descreve terapia gênica. E catalogar as variações entre indivíduos é o objeto de projetos posteriores de genômica populacional, que partiram do genoma de referência."
+    },
+    "ciencias-natureza-87": {
+      "alternativas": {
+        "b": "à velocidade de disseminação do agente infeccioso, de modo que o surto avança mais depressa que a epidemia, e a pandemia mais lentamente por depender do deslocamento de pessoas entre países distantes",
+        "c": "à gravidade clínica dos sintomas apresentados pelos pacientes, com o surto reunindo os casos leves e a pandemia reservada às doenças de maior letalidade",
+        "e": "ao número absoluto de casos registrados, a partir de limites numéricos fixos definidos pela Organização Mundial da Saúde para a passagem de cada categoria à seguinte"
+      },
+      "explicacao": "A distinção entre surto, epidemia e pandemia é de abrangência geográfica e escala de disseminação: o surto é localizado, a epidemia cobre região mais ampla e a pandemia atinge vários países ou continentes. A ideia de limites numéricos fixos definidos pela Organização Mundial da Saúde é a crença mais difundida sobre o assunto, e não existe: a declaração de pandemia é um juízo sobre disseminação geográfica, não a superação de um total de casos. Tomar a velocidade como critério inverte a relação, já que uma pandemia pode avançar muito rápido. A gravidade clínica é dimensão independente da escala — há pandemias de doença leve e surtos de doença gravíssima. E vincular cada termo a um tipo de patógeno restringe classificações que se aplicam a vírus, bactérias e parasitas igualmente."
+    },
+    "ciencias-natureza-88": {
+      "alternativas": {
+        "a": "à proporção de resultados positivos entre os examinados (sensibilidade) e à proporção de resultados negativos (especificidade), de modo que a soma das duas medidas corresponda ao conjunto inteiro da amostra testada",
+        "b": "ao custo do teste e ao tempo necessário para obter o resultado, parâmetros que orientam a escolha entre os métodos disponíveis na rede pública de saúde",
+        "c": "à capacidade de detectar a doença já em sua fase inicial (sensibilidade) e de distinguir entre variantes de um mesmo agente infeccioso (especificidade)"
+      },
+      "explicacao": "Sensibilidade é a capacidade de identificar corretamente quem tem a doença; especificidade, a de identificar corretamente quem não tem. A alternativa que fala em detectar a fase inicial e distinguir variantes é a mais tentadora, porque é assim que os dois termos são usados na conversa corrente — e os parâmetros se definem em relação ao estado real do paciente, não ao momento da infecção nem à cepa. A leitura em que as duas proporções somam o conjunto da amostra parece fechar a conta e troca os denominadores: sensibilidade se calcula entre os doentes, especificidade entre os sadios. Custo, tempo de resultado e distribuição de laboratórios são questões de logística e de política pública, não de desempenho do teste."
+    },
+    "ciencias-natureza-89": {
+      "alternativas": {
+        "a": "deriva genética: a redução do tamanho da população provocada pela aplicação do agrotóxico faz variar ao acaso a frequência das variantes genéticas entre os sobreviventes, sem que a sobrevivência de cada indivíduo dependa de sua suscetibilidade ao produto",
+        "b": "mutação induzida pelo próprio agrotóxico nas células dos indivíduos expostos, alteração transmitida à descendência já a partir da primeira geração tratada na lavoura",
+        "d": "fluxo gênico: os indivíduos resistentes chegam de lavouras vizinhas tratadas com o mesmo produto, sem que a população local desenvolva a característica por conta própria"
+      },
+      "explicacao": "A resistência se explica por seleção natural: como a variabilidade genética já existe na população, os indivíduos menos suscetíveis sobrevivem à aplicação, reproduzem-se mais, e a frequência dessas variantes cresce ao longo das gerações. A deriva genética é o distrator mais exigente, porque também é mecanismo evolutivo real e também opera sobre populações reduzidas — a diferença está em que na deriva a sobrevivência não se correlaciona com a característica, e aqui ela se correlaciona exatamente com a suscetibilidade ao produto. O fluxo gênico explica como a resistência se espalha entre áreas, e não como surge. Supor mutação induzida pelo agrotóxico atribui ao produto um poder dirigido que ele não tem, já que as mutações são aleatórias e anteriores à exposição. E a adaptação individual ao longo da vida é herança de caracteres adquiridos, que a genética descartou."
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "_comentario": [
+    "Lote 6 -- ULTIMO de ciencias-natureza. 92, 94, 95, 98, 100. Quinze distratores.",
+    "",
+    "Em 92, 94 e 100 a correta era a mais longa ou quase. Os substitutos que a superam:",
+    "",
+    "  94(b) o efeito da luz artificial restrito as especies DIURNAS, que estenderiam",
+    "        suas atividades pela noite, sem prejuizo para as noturnas 'ja adaptadas a",
+    "        escuridao'. Era 'ausencia completa de qualquer efeito sobre a fauna'. Agora",
+    "        a alternativa admite o efeito e erra em quem ele atinge -- e o raciocinio",
+    "        soa razoavel, porque de fato ha especies diurnas que estendem atividade.",
+    "  94(e) o EFEITO REBOTE do LED: trocar lampada antiga por LED de maior potencia",
+    "        luminosa faz o consumo cair por ponto e subir no total, porque se ilumina",
+    "        mais. E fenomeno documentado, e a alternativa erra so na conclusao.",
+    "  92(e) fica intocada -- 'area de vegetacao necessaria para absorver as emissoes'.",
+    "        Nao e cauda, e a definicao de OUTRO indicador (a area de compensacao), e",
+    "        confundi-la com a pegada de carbono e o erro que a questao deve pegar.",
+    "  100(b) inverti o eixo em vez de negar o impacto: o impacto das renovaveis se",
+    "        concentraria na OPERACAO e nao na fabricacao. E o contrario -- painel e",
+    "        turbina custam mineracao e energia para existir, e depois operam quase sem",
+    "        emitir. Quem entendeu ciclo de vida descarta; quem so sabe que 'renovavel",
+    "        tambem tem impacto' fica em duvida.",
+    "  100(d) o custo por megawatt-hora ao longo da vida util (LCOE) 'ja incorporaria",
+    "        os custos ambientais'. O indicador existe e e o mais usado no setor; a",
+    "        externalidade ambiental e justamente o que ele NAO precifica. Melhor que a",
+    "        antiga 'exclusivamente o custo financeiro imediato, sem qualquer outra",
+    "        consideracao', que ninguem marcaria.",
+    "",
+    "Com este lote, ciencias-natureza -- a frente com mais caudas do banco, 55 em 37",
+    "questoes -- fecha em zero pela leitura, nao pelo regex."
+  ],
+  "subtopic": "ciencias-natureza",
+  "questoes": {
+    "ciencias-natureza-92": {
+      "alternativas": {
+        "a": "à quantidade total de água consumida ao longo da vida útil de um produto, somando o volume empregado no cultivo, no processamento e no transporte da mercadoria até chegar ao consumidor final",
+        "c": "à quantidade de resíduos sólidos não recicláveis gerada por uma pessoa ao longo de um ano, convertida na massa de carbono contida no material que ela descarta",
+        "d": "ao número de árvores que uma empresa precisa plantar para compensar as emissões de determinado período, expresso em hectares de área reflorestada"
+      },
+      "explicacao": "A pegada de carbono é o total de gases de efeito estufa emitido de forma direta e indireta por uma atividade, produto ou estilo de vida, em geral expresso em equivalente de dióxido de carbono. A área de vegetação necessária para absorver essas emissões é o distrator mais difícil de recusar, porque é um indicador real e vizinho — só que ele mede a compensação necessária, e não a emissão em si. O mesmo vale para o número de árvores plantadas, que é medida de contrapartida. A água consumida ao longo da cadeia é a pegada hídrica, outro indicador do mesmo conjunto. E converter resíduo sólido em massa de carbono mede um fluxo de material, não a emissão de gases à atmosfera."
+    },
+    "ciencias-natureza-94": {
+      "alternativas": {
+        "b": "alteração de comportamento restrita às espécies de hábito diurno, que passariam a estender suas atividades pela noite, sem prejuízo para as espécies noturnas já adaptadas a operar na escuridão",
+        "c": "aumento da precisão dos telescópios instalados em áreas urbanas, que passam a contar com um fundo de céu uniformemente iluminado para calibração dos instrumentos",
+        "e": "redução do consumo de energia elétrica nas regiões afetadas, obtida com a substituição das lâmpadas antigas por modelos de LED de maior potência luminosa"
+      },
+      "explicacao": "A poluição luminosa interfere nos ciclos biológicos de aves migratórias e insetos, prejudica a observação astronômica e afeta o ritmo circadiano humano. A alternativa da redução de consumo pela troca para LED é a mais instrutiva: a substituição de fato reduz o gasto por ponto de luz, e o resultado observado é o efeito rebote, em que se ilumina mais e o consumo total sobe. Restringir o impacto às espécies diurnas admite o efeito e erra quem ele atinge, já que são as noturnas as mais prejudicadas pela desorientação. Supor melhora na observação astronômica inverte o problema, porque o brilho de fundo é justamente o que apaga os objetos tênues. E o aquecimento por conversão de luz em calor é efeito secundário e pequeno diante do pavimento e da falta de vegetação."
+    },
+    "ciencias-natureza-95": {
+      "alternativas": {
+        "b": "emitir radiação ionizante de baixa intensidade, que rompe ligações químicas das moléculas do alimento e libera nesse processo a energia responsável pelo aquecimento",
+        "d": "gerar um campo magnético que alinha as moléculas de água do alimento e reduz o atrito entre elas, o que permite aquecimento uniforme da porção interna à superfície",
+        "e": "aquecer resistências metálicas ocultas nas paredes internas da câmara, que transferem calor ao alimento por radiação infravermelha em vez de contato direto"
+      },
+      "explicacao": "O micro-ondas emite ondas eletromagnéticas de frequência que faz as moléculas de água do alimento oscilarem rapidamente, e é o atrito entre elas que gera calor. Chamar essa radiação de ionizante é o erro mais frequente sobre o aparelho: micro-ondas são radiação não ionizante, sem energia para romper ligações químicas ou alterar a estrutura atômica do alimento. A ideia de um campo que alinha as moléculas e reduz o atrito inverte o mecanismo, porque é o aumento do atrito que aquece. Resistências que irradiam calor descrevem o forno elétrico convencional. E condução direta pelas paredes metálicas é o que o micro-ondas justamente dispensa, já que aquece de dentro para fora."
+    },
+    "ciencias-natureza-98": {
+      "alternativas": {
+        "a": "ao acesso individual a planos de saúde privados e à capacidade de cada pessoa de custear os tratamentos de que venha a necessitar ao longo da vida",
+        "b": "aos fatores ambientais e climáticos de cada região, como temperatura, umidade e qualidade do ar, que condicionariam por si sós a incidência das principais doenças e a expectativa de vida da população local",
+        "d": "aos fatores genéticos e biológicos herdados que predispõem o indivíduo a determinadas doenças, identificáveis por exame antes mesmo do aparecimento de sintomas"
+      },
+      "explicacao": "Determinantes sociais da saúde são as condições sociais, econômicas e ambientais em que as pessoas nascem, vivem, trabalham e envelhecem, e que moldam seus níveis de saúde e sua vulnerabilidade a doenças. Os fatores ambientais e climáticos são o distrator mais forte porque integram esse conjunto: o erro está em tomá-los como explicação suficiente, o que deixaria de fora renda, escolaridade, moradia e trabalho. Reduzir o conceito ao acesso a plano privado troca determinante social por capacidade de pagamento individual. Os fatores genéticos operam em outro plano, o biológico, e é precisamente a ele que o conceito se opõe. E a disponibilidade de tecnologia médica de alta complexidade é uma característica do sistema de serviços, não das condições de vida."
+    },
+    "ciencias-natureza-100": {
+      "alternativas": {
+        "b": "os impactos ambientais das fontes renováveis se concentram na etapa de operação, e não na fabricação dos equipamentos, o que os torna integralmente reversíveis ao fim da vida útil da usina",
+        "d": "a escolha de uma fonte de energia deve se apoiar no custo por megawatt-hora ao longo da vida útil da instalação, indicador que já incorpora ao preço final os custos ambientais do projeto",
+        "e": "fontes renováveis, como a solar e a eólica, concentram seu impacto na área ocupada pela instalação, sem que a fabricação de painéis e de turbinas envolva extração mineral de porte relevante"
+      },
+      "explicacao": "Toda fonte de energia, inclusive as renováveis, produz algum impacto ambiental em pelo menos uma etapa de seu ciclo de vida, ainda que em graus e naturezas muito distintos — e é essa comparação por ciclo de vida que o raciocínio ambiental exige. As duas alternativas mais fortes acertam que há impacto e erram onde ele se localiza: solar e eólica concentram o seu na fabricação dos equipamentos, que demanda mineração e energia, e operam depois com emissão quase nula. Restringir o impacto à área ocupada segue a mesma inversão. O custo por megawatt-hora ao longo da vida útil é o indicador de referência do setor, e a externalidade ambiental é justamente o que ele não precifica. E exigir o mesmo princípio físico de geração impediria qualquer comparação útil entre matrizes."
+    }
+  }
+}

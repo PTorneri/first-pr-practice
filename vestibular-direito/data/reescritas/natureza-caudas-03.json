@@ -1,0 +1,117 @@
+{
+  "_comentario": [
+    "Lote 3: 59, 60, 61, 62, 63, 65, 69. Vinte e tres distratores.",
+    "",
+    "Aqui a leitura da questao inteira achou DOIS defeitos que o regex de cauda nunca",
+    "acharia, e que custam mais caro que a cauda.",
+    "",
+    "DEFEITO A -- a alternativa que ninguem marca. Aparece cinco vezes neste bloco:",
+    "",
+    "  59(c) 'ausencia completa de QUALQUER construcao humana nas areas urbanas'",
+    "  61(c) 'ausencia completa de QUALQUER atividade humana na regiao afetada'",
+    "  62(a) 'ausencia completa de QUALQUER influencia humana sobre os ecossistemas'",
+    "  63(e) 'impossibilidade tecnica de QUALQUER planta transgenica sobreviver fora",
+    "        de ambiente controlado de laboratorio'",
+    "  69(d) 'nao contem NENHUM material passivel de reaproveitamento'",
+    "",
+    "Sao cinco variacoes de uma mesma opcao vazia: negar que o ser humano tenha algo a",
+    "ver com um problema ambiental, num caderno em que toda questao pressupoe que tem.",
+    "O candidato descarta sem ler o final. Numa prova de cinco alternativas, isso",
+    "transforma a questao em quatro alternativas -- e, com as caudas, em duas.",
+    "",
+    "DEFEITO B -- alternativas gemeas, duas opcoes gastas no mesmo erro:",
+    "",
+    "  59(a) e 59(e): as duas dizem 'maior altitude das areas centrais'.",
+    "  62: nada a fazer, mas em 57 do lote anterior eram duas nucleares.",
+    "  65(c) e 65(e): as duas dizem 'sementes geneticamente modificadas'.",
+    "  61(a) e 61(e): as duas dizem 'excesso de chuva'.",
+    "",
+    "Mantive um de cada par e dei ao outro um erro proprio. 59(a) passa a ser o calor",
+    "liberado por veiculos e ar-condicionado -- que existe e e mesmo um fator, so nao o",
+    "principal; 59(c) passa a ser o revestimento claro e refletivo, que na verdade",
+    "REDUZ a ilha de calor, e por isso engana quem so lembra que fachada clara tem a",
+    "ver com temperatura.",
+    "",
+    "Substitutos que valem nota:",
+    "",
+    "  60(a) o problema real da ciencia da atribuicao: as mudancas climaticas se SOMAM",
+    "        a variabilidade natural, e por isso atribuir um evento isolado ao",
+    "        aquecimento exige analise estatistica. A alternativa afirma que nao exige.",
+    "        E o erro que aparece em jornal toda semana.",
+    "  61(d) o acumulo de sais trazidos a superficie pela evaporacao e mecanismo real",
+    "        de regiao arida -- e degrada o solo em vez de fertiliza-lo. O distrator",
+    "        agora acerta o mecanismo e erra o sinal.",
+    "  63(b) transferencia de genes de resistencia para bacterias do solo e uma das",
+    "        preocupacoes efetivamente levantadas na literatura. Tirei a consequencia",
+    "        inventada ('exigiria doses crescentes de fertilizante') e deixei o",
+    "        argumento de pe: ele nao e o que a questao pede, e nao e absurdo.",
+    "  65(c) o periodo de conversao de tres anos existe na certificacao organica. O",
+    "        erro passa a ser o que ele exige -- area sem uso agricola, e nao area sem",
+    "        insumo sintetico.",
+    "  69(d) a reciclagem de eletronico depender de subsidio e um argumento economico",
+    "        de verdade, e nao a mesma coisa que dizer que nao ha material recuperavel.",
+    "",
+    "Em 60, 61, 62, 63 e 69 a correta era a mais longa ou empatava; em cada uma delas",
+    "um distrator ganhou conteudo real ate passar dela."
+  ],
+  "subtopic": "ciencias-natureza",
+  "questoes": {
+    "ciencias-natureza-59": {
+      "alternativas": {
+        "a": "principalmente ao calor liberado por veículos e por aparelhos de ar-condicionado, cuja soma responderia pela quase totalidade da diferença de temperatura entre o centro e a periferia",
+        "c": "à substituição do concreto aparente por revestimentos claros e refletivos nas fachadas dos edifícios centrais, que devolvem à atmosfera a radiação recebida",
+        "d": "à maior presença de áreas verdes e de corpos d'água nas regiões centrais, que elevariam a umidade do ar e, com ela, a temperatura registrada nas estações"
+      },
+      "explicacao": "A ilha de calor urbana resulta da concentração de superfícies pavimentadas — asfalto e concreto — que absorvem e reemitem calor, somada à menor presença de vegetação no centro. O calor liberado por veículos e ar-condicionado é o distrator mais forte porque de fato contribui, e é fonte secundária diante da capacidade térmica do pavimento e da falta de sombra e evapotranspiração. O revestimento claro e refletivo engana pelo motivo oposto: ele existe, é recomendado, e reduz a ilha de calor em vez de causá-la. Atribuir o fenômeno a mais áreas verdes e água no centro inverte a distribuição real dessas superfícies na cidade. E explicá-lo pela altitude troca um fator geográfico por um fator de cobertura do solo: cidades planas apresentam o mesmo efeito."
+    },
+    "ciencias-natureza-60": {
+      "alternativas": {
+        "a": "as mudanças climáticas se somam à variabilidade natural do clima, o que torna cada evento extremo isoladamente atribuível ao aquecimento, sem necessidade de análise estatística que separe a contribuição de cada uma das duas causas",
+        "d": "o aquecimento global reduz a umidade atmosférica sobre os continentes, porque a evaporação mais intensa transfere água em definitivo para as bacias oceânicas",
+        "e": "o aumento da temperatura média distribui a energia atmosférica de modo mais uniforme pelo planeta, reduzindo os contrastes térmicos que dão origem a tempestades severas"
+      },
+      "explicacao": "O aumento da temperatura média eleva a energia e o vapor d'água disponíveis na atmosfera, o que intensifica chuvas concentradas e altera padrões de circulação ligados a secas em outras regiões. A alternativa que dispensa a análise estatística é a mais instrutiva de descartar: mudanças climáticas e variabilidade natural coexistem, e é justamente por isso que atribuir um evento isolado ao aquecimento exige estudo de atribuição, e não inspeção direta. Dizer que o aquecimento reduz a umidade contraria a relação física entre temperatura e capacidade do ar de retê-la, cerca de 7% a mais por grau. Supor distribuição uniforme de energia apaga os contrastes que geram tempestade. E reduzir a intensidade das chuvas parte da mesma premissa invertida sobre umidade."
+    },
+    "ciencias-natureza-61": {
+      "alternativas": {
+        "c": "expansão da irrigação e da adubação química em áreas de clima seco, que elevam a produtividade no curto prazo e tornam a lavoura dependente de insumos externos a cada safra",
+        "d": "aumento da fertilidade natural do solo em regiões áridas, resultado do acúmulo de sais minerais trazidos à superfície pela evaporação intensa da água de irrigação",
+        "e": "excesso de chuvas intensas e concentradas, que arrastam a camada superficial do solo e deixam exposto o material rochoso subjacente ao longo das encostas"
+      },
+      "explicacao": "A desertificação combina fatores climáticos, como secas prolongadas, e práticas humanas inadequadas, como desmatamento e superpastoreio, que retiram a cobertura vegetal e degradam o solo. O acúmulo de sais trazidos à superfície pela evaporação é o distrator mais fino, porque descreve um processo que ocorre de verdade em região árida irrigada — e ele empobrece o solo em vez de fertilizá-lo, de modo que a alternativa acerta o mecanismo e erra o sinal. A dependência de insumos é problema agrícola real e distinto da desertificação. E as duas alternativas que apelam ao excesso de chuva descrevem erosão, processo que degrada solo em ambiente úmido, quando a desertificação se define pelo avanço da aridez."
+    },
+    "ciencias-natureza-62": {
+      "alternativas": {
+        "a": "a fragmentação de habitats por estradas, cercas e áreas urbanas, isoladamente responsável pela maior parte das extinções de espécies registradas ao longo do último século",
+        "c": "a redução do ritmo de exploração comercial de recursos naturais, que teria concentrado a pressão sobre um número menor de espécies de maior valor de mercado",
+        "d": "principalmente fatores astronômicos e geológicos de longo prazo, como o vulcanismo e as variações na órbita terrestre, alheios à ação humana das últimas décadas"
+      },
+      "explicacao": "A perda acelerada de biodiversidade é atribuída à combinação de destruição de habitats, mudanças climáticas, poluição, superexploração de espécies e introdução de invasoras — nenhum desses fatores age sozinho. A fragmentação de habitats é o distrator mais forte porque está entre as causas principais: o erro está em torná-la a explicação isolada, o que dispensaria os outros quatro vetores. Supor que a exploração comercial diminuiu inverte a tendência das últimas décadas. Atribuir o processo a vulcanismo e variações orbitais transporta para a escala de dezenas de anos causas que operam em milhares. E a expansão de áreas de proteção integral sobre territórios tradicionalmente ocupados é objeto de crítica social legítima, e não é fator de perda de biodiversidade."
+    },
+    "ciencias-natureza-63": {
+      "alternativas": {
+        "a": "eliminação da capacidade reprodutiva das populações de insetos que se alimentam da lavoura, com colapso das cadeias alimentares regionais que dependem desses insetos",
+        "b": "transferência de genes de resistência a herbicidas para as bactérias do solo durante a decomposição das raízes, com alteração da composição da comunidade microbiana responsável pela ciclagem de nutrientes nas áreas cultivadas ao longo das safras",
+        "e": "necessidade de cultivo em ambiente controlado, uma vez que as variedades modificadas dependem de faixas de temperatura e de umidade mais estreitas que as convencionais"
+      },
+      "explicacao": "As críticas ao uso amplo de transgênicos apontam a redução da diversidade genética das lavouras concentradas em poucas variedades, o risco de fluxo gênico para espécies silvestres e a dependência de poucas fornecedoras de sementes. A transferência horizontal de genes para bactérias do solo é a alternativa mais difícil de descartar, porque essa preocupação foi efetivamente levantada na literatura: ela é um risco discutido, e não o conjunto de objeções centrais que o enunciado pede. Supor eliminação da capacidade reprodutiva das pragas ignora que elas desenvolvem resistência ao longo de gerações, que é a crítica oposta e mais documentada. A exigência de ambiente controlado contraria o cultivo comercial a campo em larga escala. E a rastreabilidade das sementes é problema regulatório, não risco agronômico."
+    },
+    "ciencias-natureza-65": {
+      "alternativas": {
+        "a": "dispensa o controle de pragas, porque a diversidade de espécies cultivadas na mesma área mantém as populações de insetos em equilíbrio sem intervenção",
+        "b": "permite o uso de agrotóxicos sintéticos em quantidade reduzida, desde que o resíduo no produto final fique abaixo do limite fixado pela vigilância sanitária",
+        "c": "exige que a área de cultivo permaneça sem uso agrícola por três anos antes da primeira safra certificada como orgânica",
+        "e": "depende, sobretudo, do uso de sementes geneticamente modificadas resistentes a pragas, que substituiriam a aplicação de defensivos ao longo do ciclo da cultura"
+      },
+      "explicacao": "A agricultura orgânica restringe ou proíbe agrotóxicos e fertilizantes sintéticos e prioriza adubação orgânica, rotação de culturas e controle biológico. O limite de resíduo fixado pela vigilância sanitária é o distrator mais forte, porque esse limite existe e vale para a produção convencional: na certificação orgânica o critério não é a dose, é a natureza do insumo. O período de conversão de três anos também existe, e o que ele exige é ausência de insumo sintético, não ausência de uso agrícola. Supor que o manejo orgânico dispensa o controle de pragas contraria a prática, que substitui o defensivo químico por manejo biológico. E as sementes geneticamente modificadas são vedadas pela certificação, o que inverte o sentido das duas alternativas que as invocam."
+    },
+    "ciencias-natureza-69": {
+      "alternativas": {
+        "b": "liberam sobretudo compostos orgânicos voláteis provenientes dos plásticos das carcaças, cuja dispersão no ar é o principal vetor de dano à saúde de quem trabalha na triagem desses resíduos",
+        "d": "não contêm material com valor de mercado suficiente para custear a coleta e a separação, o que faz da reciclagem desses equipamentos uma operação dependente de subsídio público",
+        "e": "são compostos, em sua maior parte, por materiais orgânicos que se decompõem no solo em prazo comparável ao dos resíduos domésticos comuns"
+      },
+      "explicacao": "O lixo eletrônico preocupa porque reúne metais pesados e substâncias tóxicas que contaminam solo e água quando descartados de forma inadequada, ao mesmo tempo que contém materiais de valor recuperáveis pela reciclagem. A alternativa que nega valor de mercado suficiente e conclui pela dependência de subsídio é a mais defensável entre as erradas, porque a economia da reciclagem eletrônica realmente depende de escala e de política pública — e isso não é o mesmo que dizer que não há material recuperável, já que ouro, cobre e terras-raras são extraídos das placas. Reduzir o problema a compostos orgânicos voláteis desloca o risco dos metais para os plásticos. Supor decomposição em prazo de resíduo doméstico contraria a composição metálica e plástica dos equipamentos. E a emissão de radiação ionizante não corresponde ao que esses materiais fazem no ambiente."
+    }
+  }
+}

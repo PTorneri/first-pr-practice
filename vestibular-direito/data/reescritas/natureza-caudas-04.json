@@ -1,0 +1,90 @@
+{
+  "_comentario": [
+    "Lote 4: 70, 75, 76, 79, 80, 81. Dezenove distratores.",
+    "",
+    "Bloco de fisica e quimica basicas -- compostagem, termoquimica, neutralizacao,",
+    "inercia, altitude, conducao termica. Aqui a cauda vem quase sempre na forma",
+    "'processo que nao ocorre', 'categoria inexistente', 'efeito desprezivel'.",
+    "",
+    "UMA ALTERNATIVA QUE EU DECIDI NAO TOCAR, e vale registrar por que: a 75(b),",
+    "'reacoes de dissolucao, categoria a parte na termoquimica porque a energia",
+    "envolvida na separacao dos ions do sal nao corresponde a uma ligacao quimica",
+    "rompida e sim a uma interacao com as moleculas de agua'. Tem 205 caracteres, e",
+    "longa, e nao e cauda: ela ARGUMENTA A FAVOR de si mesma, com quimica correta, e",
+    "erra so na conclusao (dissolucao nao e categoria a parte -- e endotermica ou",
+    "exotermica como qualquer outro processo). E o melhor distrator da frente, e",
+    "tambem o que segura o comprimento da questao acima da correta.",
+    "",
+    "A 79 tinha a correta como a mais longa (221 contra 217). O substituto da 79(a) e o",
+    "que mais me interessa do lote: conservacao da quantidade de movimento aplicada ao",
+    "sistema veiculo-passageiro. O principio E pertinente a colisao, o momento total",
+    "realmente se conserva, e o erro esta escondido numa clausula so -- 'a desaceleracao",
+    "da carroceria e acompanhada, NO MESMO INSTANTE, pela do corpo do ocupante'. E",
+    "exatamente isso que nao acontece, e e por isso que existe cinto. Quem sabe fisica",
+    "descarta; quem decorou a palavra 'conservacao' marca.",
+    "",
+    "Outros substitutos apoiados em coisa que existe:",
+    "",
+    "  70(b) bioplastico produzido por bacteria em reator existe de verdade (PHA). O",
+    "        erro passa a ser chamar isso de compostagem.",
+    "  76(a) substancia anfotera, que atua como acido ou como base conforme o meio --",
+    "        conceito real, e nao o produto de uma neutralizacao, que e sal e agua.",
+    "  80(b) parte do oxigenio de fato se converte em ozonio nas camadas altas. O erro",
+    "        passa a ser supor que isso subtrai gas respiravel do ar que se respira.",
+    "  80(e) a separacao dos gases por massa, com os leves em cima, e a intuicao certa",
+    "        para altitudes de centenas de quilometros e errada para uma montanha: na",
+    "        troposfera a proporcao de oxigenio nao muda, muda a pressao.",
+    "  81(a) a rugosidade da superficie afeta mesmo a area de contato e a sensacao ao",
+    "        toque. E fator secundario diante da condutividade, que e o que a questao",
+    "        pede -- distrator honesto no lugar de 'ausencia completa de conducao'."
+  ],
+  "subtopic": "ciencias-natureza",
+  "questoes": {
+    "ciencias-natureza-70": {
+      "alternativas": {
+        "b": "conversão dos resíduos orgânicos em plástico biodegradável por ação de bactérias selecionadas em reator industrial fechado",
+        "d": "redução dos resíduos orgânicos a cinzas minerais, aproveitadas em seguida como corretivo da acidez do solo agrícola",
+        "e": "incineração controlada dos resíduos orgânicos em fornos de alta temperatura, com aproveitamento do calor liberado na queima para a geração de energia elétrica"
+      },
+      "explicacao": "A compostagem é a decomposição de resíduos orgânicos por bactérias e fungos em condições controladas de umidade, aeração e temperatura, e o produto final é um material rico em nutrientes utilizável como adubo. A digestão anaeróbia com produção de biogás é o distrator mais forte: também é decomposição microbiana de resíduo orgânico, e se distingue pela ausência de oxigênio e pelo produto, que é gás e não composto. A produção de plástico biodegradável por bactérias em reator existe, com outra finalidade e outro processo. A incineração elimina o resíduo pelo calor, sem participação de microrganismos. E reduzir tudo a cinzas minerais descreve o que sobra de uma queima, não o composto orgânico que a compostagem gera."
+    },
+    "ciencias-natureza-75": {
+      "alternativas": {
+        "a": "exotérmicas, pois liberam para o ambiente ao redor o calor que estava armazenado nas ligações do sal antes de sua dissolução na água",
+        "c": "reações de equilíbrio, uma vez que a absorção de calor pode ser revertida pelo aquecimento externo da bolsa até que ela retorne ao estado inicial"
+      },
+      "explicacao": "Reações que absorvem calor do ambiente são endotérmicas, e a bolsa de gelo instantâneo resfria a vizinhança justamente por isso, ao dissolver certos sais. Classificar o caso como reação de dissolução à parte é o distrator mais difícil de recusar, porque a química que ele apresenta está correta — a energia envolvida é de interação com a água, e não de ligação rompida — e a conclusão não segue: a dissolução também é endotérmica ou exotérmica conforme o balanço energético. Chamá-la de exotérmica inverte o sentido do fluxo de calor observado. Tratá-la como reação de equilíbrio confunde reversibilidade com classificação térmica. E o termo catalítico se refere a quem acelera a reação, não a quanto calor ela troca."
+    },
+    "ciencias-natureza-76": {
+      "alternativas": {
+        "a": "uma substância de caráter anfótero, capaz de atuar como ácido diante de uma base e como base diante de um ácido, conforme o meio em que venha a ser dissolvida em uma etapa posterior",
+        "b": "um novo ácido, mais concentrado do que o original, formado pela soma dos íons de hidrogênio presentes nas duas soluções misturadas",
+        "c": "predominantemente gás hidrogênio, liberado à medida que os íons de hidrogênio do ácido se combinam entre si dentro da solução"
+      },
+      "explicacao": "A neutralização entre um ácido e uma base forma um sal e, com frequência, água, e o pH da mistura tende à neutralidade conforme as quantidades empregadas. A substância anfótera é o distrator mais atraente porque o conceito existe e é vizinho do assunto: anfótero é o que se comporta como ácido ou como base, e não o produto de uma neutralização. Supor um ácido mais concentrado inverte o efeito da reação, que consome íons de hidrogênio em vez de somá-los. O gás hidrogênio aparece em reações de metais com ácidos, não aqui. E óxido básico com gás carbônico descreve a decomposição de um carbonato, que é outra reação."
+    },
+    "ciencias-natureza-79": {
+      "alternativas": {
+        "a": "conservação da quantidade de movimento, segundo a qual o momento total do sistema formado pelo veículo e pelo passageiro permanece constante durante a colisão, de modo que a desaceleração da carroceria é acompanhada, no mesmo instante, pela desaceleração do corpo do ocupante",
+        "b": "gravitação universal, segundo a qual o corpo do passageiro é atraído para a frente pela massa concentrada no motor e no painel do veículo",
+        "e": "empuxo, segundo o qual o ar no interior do veículo exerce sobre o corpo do passageiro uma força capaz de conter seu deslocamento durante a freada"
+      },
+      "explicacao": "O cinto de segurança se justifica pela inércia: o corpo em movimento tende a manter direção e velocidade até que uma força externa atue sobre ele, e numa parada brusca a carroceria para enquanto o ocupante continua. A alternativa da quantidade de movimento é a mais perigosa, porque o princípio é pertinente à colisão e o momento total realmente se conserva — o erro está numa cláusula só, a de que a desaceleração da carroceria alcança o corpo do passageiro no mesmo instante. É precisamente o atraso entre as duas que o cinto existe para eliminar. A gravitação atua para baixo e sua intensidade entre painel e corpo é irrelevante. O empuxo do ar é desprezível frente à massa e à velocidade em jogo. E ação e reação descreve o par de forças no momento do impacto, sem explicar por que o corpo se desloca antes dele."
+    },
+    "ciencias-natureza-80": {
+      "alternativas": {
+        "b": "à conversão de parte do oxigênio atmosférico em ozônio nas camadas mais altas, o que subtrairia do ar disponível uma fração do gás respirável",
+        "d": "à queda da temperatura do ar conforme a altitude aumenta, que reduziria a capacidade dos alvéolos pulmonares de realizar as trocas gasosas com o sangue",
+        "e": "à redução da proporção percentual de oxigênio na composição do ar em altitudes elevadas, faixa em que os gases de menor massa molecular passam a predominar sobre os demais"
+      },
+      "explicacao": "A dificuldade respiratória em altitude vem da queda da pressão atmosférica, que reduz a pressão parcial de oxigênio disponível para as trocas gasosas nos pulmões. A alternativa que atribui o efeito à mudança na proporção percentual de oxigênio é a mais bem construída entre as erradas: a separação dos gases por massa molecular ocorre, mas só a centenas de quilômetros de altitude — na troposfera a composição do ar permanece praticamente a mesma, e o que muda é a pressão. A conversão de oxigênio em ozônio acontece de fato na estratosfera, sem retirar gás respirável do ar que se inspira numa montanha. A queda de temperatura é real e não altera a difusão alveolar. E a concentração de dióxido de carbono não aumenta com a altitude."
+    },
+    "ciencias-natureza-81": {
+      "alternativas": {
+        "a": "à rugosidade da superfície tocada, que determina a área efetiva de contato com a pele e, com ela, a intensidade da sensação térmica percebida na ponta dos dedos",
+        "b": "à cor da superfície tocada, mais escura no metal do que na madeira, o que aumenta a quantidade de calor que ele irradia em direção à mão"
+      },
+      "explicacao": "O metal parece mais frio porque conduz calor melhor que a madeira e retira calor da mão mais rapidamente, e é essa taxa de retirada, não a temperatura do objeto, que a pele registra. A rugosidade é o distrator mais defensável, porque a área efetiva de contato influencia de fato a sensação ao toque — é fator secundário diante da diferença de condutividade entre os dois materiais. A cor governa a troca por radiação, que é irrelevante no contato direto. O calor específico determina quanto a temperatura de cada material varia ao receber calor, e não a velocidade com que ele o retira da pele. E supor que o metal esteja realmente mais frio contraria a premissa do enunciado, segundo a qual ambos estão à temperatura do ambiente."
+    }
+  }
+}

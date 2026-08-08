@@ -1,0 +1,83 @@
+{
+  "_comentario": [
+    "Lote 1 de ciencias-natureza pelo METODO NOVO: o regex serve para achar a QUESTAO,",
+    "e dentro dela eu leio os quatro distratores e corrijo tudo que se anuncia.",
+    "",
+    "Por que mudei: nas tres frentes anteriores eu seguia a lista de LETRAS que o regex",
+    "devolvia, corrigia aquelas e deixava as vizinhas. Foi assim que artes e filosofia",
+    "reabriram depois de eu anuncia-las fechadas, e foi assim que 43, 61, 109 e 115 de",
+    "gramatica voltaram. O regex nunca vai cobrir todas as formulacoes de um habito de",
+    "autoria; ler as cinco alternativas da questao cobre.",
+    "",
+    "Neste primeiro lote a diferenca aparece de imediato. O regex marcou 9 distratores",
+    "em 6 questoes; lendo, sao 14. As caudas que ele nao pegou:",
+    "",
+    "  10(a) 'situacao em que nao haveria fluxo de calor por diferenca termica alguma'",
+    "  25(a) 'grandeza associada a outro parametro'",
+    "  35(b) 'quando na PRATICA a rotacao reduz a erosao' -- eu tinha catalogado",
+    "        'quando na verdade' e nao 'quando na pratica'",
+    "",
+    "E tres alternativas entraram no lote por outro motivo: 'sem qualquer trabalho",
+    "externo' (10b), 'dispensando qualquer reposicao' (35a) e 'eliminacao completa'",
+    "(14b) sao descartadas pelo ABSOLUTO_RX, e alternativa descartada nao disputa nada.",
+    "",
+    "O QUE FICOU DE PE, de proposito: 14(a) 'reducao do risco de deficiencias de",
+    "micronutrientes por enriquecimento industrial', 20(a) 'os decompositores nao",
+    "participam do fluxo de energia', 20(e) 'a energia se conserva integralmente entre",
+    "niveis', 24(d) 'e retido integralmente pelos pelos e pela mucosa nasal'. Sao",
+    "afirmacoes erradas e limpas -- exatamente o que um distrator deve ser. Nao mexi.",
+    "",
+    "O substituto de que mais gosto e o 14(c): a melhora nutricional atribuida ao",
+    "ENRIQUECIMENTO com vitaminas e minerais durante o processamento. Isso acontece de",
+    "verdade, esta no rotulo, e continua nao compensando o excesso de acucar e sodio --",
+    "e o argumento que a industria usa, e o candidato precisa saber por que ele nao",
+    "responde a pergunta."
+  ],
+  "subtopic": "ciencias-natureza",
+  "questoes": {
+    "ciencias-natureza-10": {
+      "alternativas": {
+        "a": "apenas entre corpos que já se encontram à mesma temperatura, condição em que a troca térmica passa a ocorrer nos dois sentidos com igual intensidade",
+        "b": "de corpos com menor temperatura para corpos com maior temperatura, desde que os dois estejam em contato direto e isolados do ambiente ao redor",
+        "e": "de forma proporcional à massa de cada corpo, de modo que o mais pesado cede calor ao mais leve até que ambos igualem sua energia interna"
+      },
+      "explicacao": "O calor flui espontaneamente do corpo mais quente para o mais frio, até que os dois atinjam o equilíbrio térmico — é o que a segunda lei da termodinâmica estabelece sobre o sentido dessa troca. Dizer que o fluxo ocorre entre corpos de mesma temperatura descreve justamente a situação de equilíbrio, em que não há fluxo líquido. Inverter o sentido, do mais frio para o mais quente, é possível apenas com trabalho externo, como no refrigerador, e não de forma espontânea. Fazer o fluxo depender da massa confunde temperatura com energia interna: um corpo pequeno e muito quente cede calor a um grande e frio. E a capacidade térmica determina quanto a temperatura varia, não para que lado o calor vai."
+    },
+    "ciencias-natureza-14": {
+      "alternativas": {
+        "b": "eliminação da necessidade de atividade física regular, uma vez que o alto valor energético desses alimentos já supriria o gasto calórico diário de quem os consome",
+        "c": "melhora da qualidade nutricional da dieta, já que boa parte desses produtos recebe adição de vitaminas e minerais durante o processamento industrial",
+        "e": "redução do risco de doenças cardiovasculares, atribuída ao menor teor de gordura de origem animal presente em parte desses produtos industrializados"
+      },
+      "explicacao": "O consumo excessivo e frequente de ultraprocessados está associado ao aumento do risco de obesidade, hipertensão e outras doenças crônicas não transmissíveis, e é isso que a epidemiologia registra. A melhora nutricional pelo enriquecimento com vitaminas e minerais é o distrator mais forte, porque a fortificação existe de verdade e vem no rótulo: ela não compensa o excesso de açúcar, sódio e gorduras, e é esse o argumento que a indústria costuma oferecer. Atribuir a esses alimentos a redução do risco cardiovascular pelo menor teor de gordura animal usa um dado parcial para inverter a conclusão. Supor que o valor energético dispensa atividade física troca calorias por saúde. E creditar-lhes a redução de deficiências de micronutrientes seria válido para alimentos fortificados de outra natureza, não para o padrão de consumo em questão."
+    },
+    "ciencias-natureza-20": {
+      "alternativas": {
+        "d": "a quantidade de energia disponível aumenta a cada nível trófico sucessivo, porque cada consumidor incorpora a energia dos organismos que ingere ao longo de sua vida inteira"
+      },
+      "explicacao": "Apenas uma fração da energia de um nível trófico chega ao seguinte: o restante se dissipa como calor nos processos metabólicos, e é por isso que as pirâmides de energia estreitam para o topo. Dizer que a energia aumenta a cada nível é o inverso disso, e a ideia de acumulação ao longo da vida é a intuição que induz ao erro — o consumidor de fato ingere muitos organismos, e gasta a maior parte do que obtém apenas para viver. Afirmar que a energia se conserva integralmente entre níveis aplica à cadeia alimentar um princípio que vale para o conjunto do universo, não para a fração transferida entre níveis. Excluir os decompositores do fluxo de energia ignora que eles também obtêm energia da matéria que reciclam. E vincular a transferência de energia à proporção de matéria reciclada mistura dois ciclos distintos."
+    },
+    "ciencias-natureza-24": {
+      "alternativas": {
+        "a": "é encontrado sobretudo em ambientes rurais, onde a queima de biomassa agrícola responde pela maior parte das partículas finas em suspensão no ar"
+      },
+      "explicacao": "O MP2,5 é perigoso porque seu diâmetro reduzido permite que ele atravesse as vias aéreas superiores, alcance os alvéolos e passe à corrente sanguínea. Localizá-lo sobretudo no meio rural é o distrator que exige atenção, porque a queima de biomassa agrícola de fato produz partículas finas — só que a poluição urbana, com veículos e indústria, é a fonte que a saúde pública monitora e a que o enunciado trata. Dizer que fica retido nas vias aéreas superiores descreve o comportamento do MP10, de diâmetro maior. Afirmar que é integralmente barrado pelos pelos e pela mucosa nasal nega justamente a capacidade de penetração que o define. E atribuir o dano à adsorção de gases na pele troca a via respiratória pela cutânea."
+    },
+    "ciencias-natureza-25": {
+      "alternativas": {
+        "a": "o pH mede a concentração de oxigênio dissolvido em uma solução aquosa, parâmetro usado para avaliar a qualidade da água de rios e de represas",
+        "b": "valores de pH menores que 7 indicam soluções básicas, porque a escala cresce na direção da acidez a partir do zero até o limite superior",
+        "d": "valores de pH maiores que 7 indicam soluções ácidas, uma vez que quanto maior o número da escala, maior a quantidade de íons de hidrogênio presentes"
+      },
+      "explicacao": "Na escala de pH, valores abaixo de 7 indicam soluções ácidas e valores acima de 7 indicam soluções básicas, com 7 marcando a neutralidade. As duas alternativas que invertem essa relação apoiam-se numa leitura plausível da escala — a de que o número cresce junto com a acidez — quando o que cresce com o número é a basicidade, porque o pH é o cologaritmo da concentração de íons de hidrogênio. Confundir pH com oxigênio dissolvido troca dois parâmetros que de fato aparecem juntos em análise de água, e são medidas distintas. E tratar a escala como linear ignora que ela é logarítmica: entre 3 e 5 há cem vezes de diferença na concentração, não duas unidades."
+    },
+    "ciencias-natureza-35": {
+      "alternativas": {
+        "a": "substitui a necessidade de adubação do solo, porque cada cultura devolve ao terreno os mesmos nutrientes que a cultura anterior havia retirado dele",
+        "b": "aumenta a erosão do solo em comparação com o cultivo de uma única espécie, por exigir revolvimento do terreno a cada troca de espécie cultivada",
+        "c": "esgota mais rapidamente os nutrientes do solo, uma vez que espécies diferentes retiram dele uma variedade maior de elementos ao longo das safras"
+      },
+      "explicacao": "A rotação de culturas preserva a fertilidade do solo e reduz a proliferação de pragas e doenças que se especializam em uma única espécie — é essa quebra do ciclo do agente que a torna prática sustentável. A ideia de que ela esgota mais rápido os nutrientes por variar os elementos retirados é o distrator mais fino: a variação existe, e é justamente ela que evita a exaustão de um único nutriente. Supor que a rotação dispensa adubação exagera o efeito, porque devolver ao solo depende de leguminosas fixadoras e de manejo, não da simples alternância. Atribuir-lhe aumento de erosão pelo revolvimento inverte um dos benefícios da prática. E dizer que ela elimina o pousio confunde duas técnicas que se combinam."
+    }
+  }
+}

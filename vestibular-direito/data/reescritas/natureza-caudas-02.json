@@ -1,0 +1,107 @@
+{
+  "_comentario": [
+    "Lote 2: 36, 40, 50, 52, 56, 57, 58. Vinte distratores.",
+    "",
+    "O regex marcou 9. Lendo as questoes inteiras, 20. Caudas novas que ele nao pega:",
+    "",
+    "  52(b) 'cenario oposto ao aquecimento que efetivamente desencadeia'",
+    "  52(e) 'efeito contrario a perda de pigmentacao observada'",
+    "  56(c) 'o distancia da classificacao de hidrogenio verde'",
+    "  56(d) 'rota que caracteriza, NA VERDADE, o hidrogenio de biomassa'",
+    "  57(c) 'quando na PRATICA essa fonte representa parcela reduzida'",
+    "  57(e) 'cenario inverso ao observado no pais'",
+    "  58(e) 'quando na REALIDADE polimeros sinteticos podem levar seculos'",
+    "",
+    "Nao vou mais acrescentar cada uma dessas ao CAUDA_RX. 'cenario oposto', 'efeito",
+    "contrario', 'quando na pratica', 'quando na realidade' sao a mesma frase com outra",
+    "palavra, e sempre havera outra palavra. A leitura da questao inteira e o que",
+    "fecha; o regex fica sendo so o farol que aponta quais questoes abrir.",
+    "",
+    "DOIS PROBLEMAS QUE A LEITURA ACHOU E O REGEX NUNCA ACHARIA:",
+    "",
+    "1. Em 52 e 57 a CORRETA e a alternativa mais longa (212 vs 192, 207 vs 197).",
+    "   Quem chuta pelo tamanho acerta as duas. Como a ferramenta se recusa a tocar no",
+    "   gabarito -- e ela esta certa em se recusar --, a saida e dar conteudo real a um",
+    "   distrator ate ele passar da correta. Foi o que fiz em 52(b) e 57(b).",
+    "",
+    "2. Em 57, as alternativas (c) e (d) eram a MESMA afirmacao: 'matriz majoritaria",
+    "   nuclear'. Duas das cinco opcoes gastas no mesmo erro. Troquei a (c) pela",
+    "   importacao de eletricidade dos vizinhos, sobretudo a parcela paraguaia de",
+    "   Itaipu -- que o Brasil de fato compra por contrato. E o distrator mais honesto",
+    "   da questao: o fato e verdadeiro, o 'majoritariamente' e que e falso.",
+    "",
+    "Substitutos de que vale a pena falar, porque nenhum deles e invencao:",
+    "",
+    "  52(b) branqueamento por agua FRIA existe -- corais estressados por queda de",
+    "        temperatura tambem expulsam as zooxantelas. O distrator agora esta certo",
+    "        no mecanismo e errado na causa que o enunciado pede, que e o aquecimento.",
+    "  56(b) hidrogenio natural em jazida subterranea deixou de ser 'processo",
+    "        inexistente': ha prospeccao em curso em varios paises. O que ele nao e e",
+    "        verde por eletrolise. Corrigi o distrator para dizer a verdade e continuar",
+    "        errado na pergunta.",
+    "  58(a) abrasao de pneu e desgaste de asfalto sao mesmo das maiores fontes de",
+    "        microplastico. O erro passa a ser afirmar que essas particulas nao chegam",
+    "        ao mar -- e chegam, pela drenagem urbana.",
+    "  50(b) e 50(e) usam mecanismos reais: agua fria de degelo interferindo na",
+    "        circulacao do Atlantico, e mais vapor disponivel gerando mais neve no",
+    "        interior da Antartica. Os dois acontecem; nenhum dos dois anula a elevacao",
+    "        do nivel do mar, que e o que a questao pergunta."
+  ],
+  "subtopic": "ciencias-natureza",
+  "questoes": {
+    "ciencias-natureza-36": {
+      "alternativas": {
+        "a": "conter apenas substâncias de baixa toxicidade, semelhantes às ligas metálicas empregadas em utensílios domésticos de uso corrente",
+        "b": "se degradar em compostos orgânicos simples pela ação dos microrganismos presentes no solo dos lixões e aterros a céu aberto"
+      },
+      "explicacao": "Pilhas e baterias contêm metais pesados — chumbo, mercúrio, cádmio — que, liberados no ambiente, contaminam o solo e os lençóis freáticos, e é por isso que a legislação exige logística reversa para esse resíduo. Supor que se degradam em compostos orgânicos pela ação de microrganismos aplica a esses materiais um processo que vale para matéria orgânica: metal não é biodegradável, apenas se dispersa. Compará-los a ligas de utensílios domésticos é o distrator mais plausível, porque também ali há metal em contato com alimento — a diferença está em quais metais, e nas condições de lixiviação de uma bateria rompida. Tratá-los como adubo confunde resíduo eletroquímico com resíduo compostável. E vincular o problema a gases de efeito estufa desloca o dano para outro vetor: o risco é de contaminação, não de emissão."
+    },
+    "ciencias-natureza-40": {
+      "alternativas": {
+        "d": "elimina o álcool por filtração, sem transformá-lo quimicamente, de modo que o dano do consumo crônico recai sobre os rins e não sobre o tecido hepático"
+      },
+      "explicacao": "O fígado é o principal órgão responsável por metabolizar o etanol, e a exposição crônica a esse processo produz inflamação, esteatose e cirrose. A alternativa que atribui ao fígado uma filtração sem transformação química é a mais enganosa, porque de fato existe eliminação renal e pulmonar de álcool — só que ela responde por uma fração pequena, e o dano se concentra onde ocorre a metabolização. Dizer que a maior parte sai pela urina inverte essa proporção. Supor armazenamento em vesículas descreve o que o fígado faz com lipídios, não com etanol. E converter álcool diretamente em glicose ignora a rota real, que passa por acetaldeído e acetato, e é justamente a produção desses subprodutos que explica a lesão."
+    },
+    "ciencias-natureza-50": {
+      "alternativas": {
+        "b": "a diminuição da temperatura média global do planeta, provocada pelo grande volume de água fria que o degelo despeja nos oceanos a cada verão",
+        "c": "a redução do nível médio dos oceanos, porque a água proveniente do degelo se acumula em lagos e represas continentais antes de alcançar o mar",
+        "e": "o aumento da área de gelo presente nos polos, resultado do maior volume de vapor de água disponível na atmosfera para precipitar na forma de neve"
+      },
+      "explicacao": "O derretimento de geleiras e calotas eleva o nível médio dos oceanos e amplia o risco de inundação em áreas costeiras e ilhas de baixa altitude. Os dois distratores mais fortes descrevem mecanismos que existem de verdade: a água fria do degelo interfere na circulação do Atlântico Norte e pode esfriar regiões específicas, e o ar mais úmido aumenta a precipitação de neve no interior da Antártida Oriental. Nenhum dos dois cancela a elevação do nível do mar, que é o efeito global que a questão pede — e é essa distinção entre efeito local e balanço planetário que o candidato precisa fazer. Reter a água de degelo em lagos continentais explicaria uma queda de nível, e a maior parte dela vai para o oceano. E a diluição altera a salinidade e afeta as correntes, de modo que dizer que não há efeito sobre elas nega justamente o que se observa."
+    },
+    "ciencias-natureza-52": {
+      "alternativas": {
+        "b": "há queda da temperatura da água do mar abaixo dos níveis habituais, condição em que os corais reduzem o metabolismo e perdem a coloração por falta de energia para sustentar as algas que abrigam nos tecidos, como se registra em recifes atingidos por massas de água fria",
+        "d": "os corais absorvem excesso de luz solar, radiação que degrada o pigmento das algas simbióticas e deixa o esqueleto calcário visível através do tecido",
+        "e": "os corais aumentam a absorção de nutrientes dissolvidos na água, o que favorece a proliferação de algas filamentosas sobre a superfície da colônia"
+      },
+      "explicacao": "O branqueamento ocorre quando o estresse térmico por aquecimento da água leva o coral a expulsar as zooxantelas, algas simbióticas que lhe dão cor e boa parte da energia — sem elas, o animal fica esbranquiçado e vulnerável. A alternativa da água fria é a mais difícil de descartar porque descreve um fenômeno real: recifes atingidos por massas de água fria também branqueiam, pelo mesmo caminho da perda das algas. Ela erra na causa que o enunciado pede, que é o aquecimento. O excesso de luz solar é cofator conhecido do branqueamento térmico, e por si só não é o mecanismo. A acidificação compromete a calcificação do esqueleto, que é processo distinto da perda de cor. E a proliferação de algas filamentosas descreve o que ocupa o recife depois da morte do coral, não o branqueamento."
+    },
+    "ciencias-natureza-56": {
+      "alternativas": {
+        "b": "a partir da extração de jazidas subterrâneas de hidrogênio livre, recurso cuja prospecção começou a ser investigada em alguns países e que ainda não responde pela oferta industrial do gás",
+        "c": "a partir da queima direta de gás natural em unidades equipadas com filtros de material particulado e sistemas de controle de emissão de enxofre",
+        "d": "por meio da fermentação de biomassa vegetal cultivada em regime de reflorestamento, com balanço de carbono declarado neutro pelo próprio produtor"
+      },
+      "explicacao": "O hidrogênio é dito verde quando obtido por eletrólise da água com eletricidade de fonte renovável, como solar ou eólica, o que mantém baixa a emissão no processo produtivo. A jazida subterrânea de hidrogênio livre é o distrator que mudou de status: a prospecção desse gás natural existe e avança em alguns países, e nem por isso o produto é verde, porque a classificação depende da rota de produção e não da origem do gás. A reforma a vapor com captura de carbono é o hidrogênio azul, e é a alternativa que mais se aproxima. A queima direta de gás natural, com filtros ou sem eles, continua emitindo CO2, e filtro de particulado não captura carbono. E a fermentação de biomassa dá o hidrogênio de biomassa, que é outra categoria — a declaração de neutralidade pelo produtor não a converte em eletrólise renovável."
+    },
+    "ciencias-natureza-57": {
+      "alternativas": {
+        "b": "utilizar fontes renováveis de forma marginal, com predominância de termelétricas movidas a carvão mineral extraído no próprio território, arranjo semelhante ao de outras grandes economias de industrialização tardia que dispõem de reservas domésticas desse combustível",
+        "c": "depender majoritariamente da importação de eletricidade de países vizinhos, sobretudo da parcela paraguaia de Itaipu, adquirida por contrato de longo prazo",
+        "e": "apresentar participação predominante de termelétricas a gás natural, com as hidrelétricas restritas ao atendimento dos picos de demanda ao longo do dia"
+      },
+      "explicacao": "A matriz elétrica brasileira se distingue pela participação historicamente elevada de renováveis, com destaque para a hidreletricidade, o que a torna proporcionalmente menos dependente de fósseis do que a de muitos países industrializados. A importação de eletricidade dos vizinhos é o distrator mais fino porque parte de um fato verdadeiro: o Brasil compra a parcela paraguaia de Itaipu, e essa compra não faz da importação a base da matriz. Atribuir predominância ao carvão descreve a trajetória de outras economias, não a brasileira. As duas alternativas que colocam a energia nuclear no centro da geração superestimam uma fonte que responde por parcela reduzida, concentrada em duas usinas. E inverter a relação entre gás e hidreletricidade troca o papel de base pelo de complemento: no Brasil, o térmico é que atende ponta e período seco."
+    },
+    "ciencias-natureza-58": {
+      "alternativas": {
+        "a": "têm origem, principalmente, na abrasão de pneus e no desgaste do asfalto, fontes terrestres cuja contribuição não alcançaria o ambiente marinho em quantidade capaz de afetar a fauna",
+        "b": "originam-se da fragmentação de embalagens descartadas diretamente no oceano, via de entrada que responderia pela quase totalidade das partículas encontradas na água",
+        "d": "permanecem concentrados na camada superficial do oceano, onde as correntes os reúnem nas grandes zonas de convergência subtropical em manchas de resíduo",
+        "e": "se decompõem em poucos meses ao entrar em contato com a água do mar, por ação combinada da radiação solar e da salinidade sobre as cadeias poliméricas"
+      },
+      "explicacao": "A preocupação com microplásticos vem de eles serem ingeridos por organismos marinhos de vários níveis tróficos, acumularem-se nos tecidos e chegarem, por essa via, à alimentação humana. A abrasão de pneus e o desgaste de asfalto são de fato fontes de primeira ordem — o erro da alternativa está em supor que essas partículas ficam em terra, quando a drenagem urbana as leva aos rios e ao mar. Atribuir quase tudo à fragmentação de embalagens no oceano ignora as fibras têxteis da lavagem de roupas e as fontes terrestres. A concentração em manchas de convergência existe e é visível, e não impede que microplástico seja encontrado em sedimentos abissais e no gelo polar. E supor decomposição em poucos meses inverte a escala de tempo dos polímeros sintéticos, que é o que torna o problema persistente."
+    }
+  }
+}

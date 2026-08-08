@@ -77,19 +77,35 @@ jobs:
     # ruim ou um bundle maior, e ainda assim curto o bastante para que um job
     # pendurado não segure a publicação por horas.
     timeout-minutes: 10
-    steps:
-      - uses: actions/checkout@v4
 
-      - uses: actions/configure-pages@v5
+    # 2026-08-08: as quatro actions subiram um major de uma vez.
+    #
+    # O motivo não foi "estar atualizado": o runner passou a AVISAR em cada
+    # publicação que checkout@v4, configure-pages@v5, deploy-pages@v4 e o
+    # upload-artifact@v4 de dentro do upload-pages-artifact@v3 pedem Node 20,
+    # descontinuado, e que estavam sendo forçados a rodar em Node 24. Enquanto é
+    # aviso, publica; quando o GitHub tirar o Node 20 do runner, vira falha — e
+    # falha aqui é o site inteiro parado numa versão antiga, que é exatamente o
+    # incidente que fez este arquivo existir.
+    #
+    # Conferido antes de trocar, e não deduzido do número: checkout@v7,
+    # configure-pages@v6 e deploy-pages@v5 declaram `using: node24` no próprio
+    # action.yml. O upload-pages-artifact@v5 é composite — quem carrega o Node
+    # é o upload-artifact que ele chama por dentro, e na v5 esse passou a ser
+    # v7.0.0 (na v3 era o v4 que aparecia no aviso).
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/configure-pages@v6
 
       # path: "." publica a raiz do repositório, que é como o site está
       # organizado — /vestibular-direito/, /vestibular-direito-v2/ e
       # /vestibular-medicina/data/ são servidos lado a lado, e o v2 carrega
       # dados do v1 por caminho relativo (../vestibular-direito/data/).
       # Empacotar só uma das pastas quebraria esse carregamento.
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: "."
 
       - id: deploy
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

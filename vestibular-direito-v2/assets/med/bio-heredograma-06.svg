@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 336" width="660" height="336" role="img" aria-label="Heredograma com uniao consanguinea entre primos em primeiro grau e um filho afetado">
+  <style>
+    /* Carregado via &lt;img&gt;, o SVG nao herda as variaveis da pagina: ele tem
+       o proprio contexto de estilo. Por isso as duas paletas ficam aqui. */
+    .traco { stroke: #0A2540; stroke-width: 2; fill: none; }
+    .simb  { stroke: #0A2540; stroke-width: 2.5; fill: #ffffff; }
+    .afet  { stroke: #0A2540; stroke-width: 2.5; fill: #0A2540; }
+    .rot   { fill: #475569; font: 600 15px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .id    { fill: #475569; font: 400 12px system-ui, -apple-system, "Segoe UI", sans-serif; text-anchor: middle; }
+    .leg   { fill: #475569; font: 400 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .traco { stroke: #E2E8F0; }
+      .simb  { stroke: #E2E8F0; fill: none; }
+      .afet  { stroke: #E2E8F0; fill: #E2E8F0; }
+      .rot   { fill: #E2E8F0; }
+      .id    { fill: #E2E8F0; }
+      .leg   { fill: #E2E8F0; }
+    }
+  </style>
+
+  <!-- Geracao I: dois casais, nenhum afetado -->
+  <text class="rot" x="16" y="58">I</text>
+  <rect class="simb" x="106" y="38" width="28" height="28"/>
+  <circle class="simb" cx="230" cy="52" r="14"/>
+  <path class="traco" d="M134 52 H216"/>
+  <path class="traco" d="M175 52 V130"/>
+  <rect class="simb" x="386" y="38" width="28" height="28"/>
+  <circle class="simb" cx="510" cy="52" r="14"/>
+  <path class="traco" d="M414 52 H496"/>
+  <path class="traco" d="M455 52 V130"/>
+  <text class="id" x="120" y="80">I-1</text> <text class="id" x="230" y="80">I-2</text> <text class="id" x="400" y="80">I-3</text> <text class="id" x="510" y="80">I-4</text>
+
+  <!-- Geracao II: II-1 e II-2 sao primos em primeiro grau; linha dupla = consanguinidade -->
+  <text class="rot" x="16" y="150">II</text>
+  <rect class="simb" x="161" y="130" width="28" height="28"/>
+  <circle class="simb" cx="455" cy="144" r="14"/>
+  <path class="traco" d="M189 141 H441 M189 147 H441"/>
+  <path class="traco" d="M315 147 V190"/>
+  <path class="traco" d="M250 190 H380 M250 190 V222 M380 190 V222"/>
+  <text class="id" x="175" y="172">II-1</text> <text class="id" x="455" y="172">II-2</text>
+
+  <!-- Geracao III: III-1 menino afetado, III-2 menina nao afetada -->
+  <text class="rot" x="16" y="242">III</text>
+  <rect class="afet" x="236" y="222" width="28" height="28"/>
+  <circle class="simb" cx="380" cy="236" r="14"/>
+  <text class="id" x="250" y="264">III-1</text> <text class="id" x="380" y="264">III-2</text>
+
+  <!-- Legenda -->
+  <g transform="translate(0,278)">
+    <rect class="simb" x="16" y="0" width="18" height="18"/>
+    <circle class="simb" cx="55" cy="9" r="9"/>
+    <text class="leg" x="72" y="14">não afetados</text>
+    <rect class="afet" x="196" y="0" width="18" height="18"/>
+    <circle class="afet" cx="235" cy="9" r="9"/>
+    <text class="leg" x="252" y="14">afetados</text>
+    <rect class="simb" x="356" y="0" width="18" height="18"/>
+    <text class="leg" x="380" y="14">homem</text>
+    <circle class="simb" cx="474" cy="9" r="9"/>
+    <text class="leg" x="491" y="14">mulher</text>
+  </g>
+  <text class="leg" x="16" y="322">Linha dupla entre II-1 e II-2: união consanguínea (primos em primeiro grau por parte de mãe).</text>
+</svg>

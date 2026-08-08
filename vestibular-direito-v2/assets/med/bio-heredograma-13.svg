@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 320" width="660" height="320" role="img" aria-label="Heredograma de doenca dominante que salta o individuo II-1, nao afetado entre o pai e o filho afetados">
+  <style>
+    /* Carregado via &lt;img&gt;, o SVG nao herda as variaveis da pagina: ele tem
+       o proprio contexto de estilo. Por isso as duas paletas ficam aqui. */
+    .traco { stroke: #0A2540; stroke-width: 2; fill: none; }
+    .simb  { stroke: #0A2540; stroke-width: 2.5; fill: #ffffff; }
+    .afet  { stroke: #0A2540; stroke-width: 2.5; fill: #0A2540; }
+    .rot   { fill: #475569; font: 600 15px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .id    { fill: #475569; font: 400 12px system-ui, -apple-system, "Segoe UI", sans-serif; text-anchor: middle; }
+    .leg   { fill: #475569; font: 400 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .traco { stroke: #E2E8F0; }
+      .simb  { stroke: #E2E8F0; fill: none; }
+      .afet  { stroke: #E2E8F0; fill: #E2E8F0; }
+      .rot   { fill: #E2E8F0; }
+      .id    { fill: #E2E8F0; }
+      .leg   { fill: #E2E8F0; }
+    }
+  </style>
+
+  <!-- Geracao I: I-1 homem afetado x I-2 mulher nao afetada -->
+  <text class="rot" x="16" y="58">I</text>
+  <rect class="afet" x="281" y="38" width="28" height="28"/>
+  <circle class="simb" cx="405" cy="52" r="14"/>
+  <path class="traco" d="M309 52 H391"/>
+  <path class="traco" d="M350 52 V130"/>
+  <text class="id" x="295" y="80">I-1</text> <text class="id" x="405" y="80">I-2</text>
+
+  <!-- Geracao II: II-1 nunca manifestou a doenca; casou-se com II-2, sem antecedentes -->
+  <text class="rot" x="16" y="150">II</text>
+  <rect class="simb" x="336" y="130" width="28" height="28"/>
+  <circle class="simb" cx="480" cy="144" r="14"/>
+  <path class="traco" d="M364 144 H466"/>
+  <path class="traco" d="M415 144 V190"/>
+  <path class="traco" d="M355 190 H475 M355 190 V222 M475 190 V222"/>
+  <text class="id" x="350" y="172">II-1</text> <text class="id" x="480" y="172">II-2</text>
+
+  <!-- Geracao III: III-1 homem afetado, III-2 mulher nao afetada -->
+  <text class="rot" x="16" y="242">III</text>
+  <rect class="afet" x="341" y="222" width="28" height="28"/>
+  <circle class="simb" cx="475" cy="236" r="14"/>
+  <text class="id" x="355" y="264">III-1</text> <text class="id" x="475" y="264">III-2</text>
+
+  <!-- Legenda -->
+  <g transform="translate(0,282)">
+    <rect class="simb" x="16" y="0" width="18" height="18"/>
+    <circle class="simb" cx="55" cy="9" r="9"/>
+    <text class="leg" x="72" y="14">não afetados</text>
+    <rect class="afet" x="196" y="0" width="18" height="18"/>
+    <circle class="afet" cx="235" cy="9" r="9"/>
+    <text class="leg" x="252" y="14">afetados</text>
+    <rect class="simb" x="356" y="0" width="18" height="18"/>
+    <text class="leg" x="380" y="14">homem</text>
+    <circle class="simb" cx="474" cy="9" r="9"/>
+    <text class="leg" x="491" y="14">mulher</text>
+  </g>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 330" width="680" height="330" role="img" aria-label="Mitocondria em corte com membrana externa, membrana interna dobrada em cristas e espaco intermembranar; setas mostram protons bombeados da matriz para esse espaco e voltando por um complexo proteico">
+  <style>
+    /* Carregado via img, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui e a media query responde a preferencia do sistema. */
+    .tr    { stroke: #0A2540; stroke-width: 2.2; fill: none; }
+    .cplx  { stroke: #0A2540; stroke-width: 2.2; fill: rgba(10,37,64,0.16); }
+    .seta  { stroke: #0A2540; stroke-width: 2; fill: none; }
+    .cheio { fill: #0A2540; stroke: none; }
+    .fio   { stroke: #94A3B8; stroke-width: 1.2; fill: none; }
+    .rot   { fill: #475569; font: 600 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .ion   { fill: #0A2540; font: 700 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 11px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .tr, .seta { stroke: #E2E8F0; }
+      .cplx  { stroke: #E2E8F0; fill: rgba(226,232,240,0.20); }
+      .cheio { fill: #E2E8F0; }
+      .fio   { stroke: #64748B; }
+      .rot, .ion, .leg { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <marker id="se" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" class="cheio"/>
+    </marker>
+  </defs>
+
+  <!-- Membrana externa -->
+  <path class="tr" d="M150 52 H450 A98 98 0 0 1 450 248 H150 A98 98 0 0 1 150 52 Z"/>
+  <!-- Membrana interna, com tres invaginacoes voltadas para a matriz -->
+  <path class="tr" d="M150 76 L200 76 L200 160 a14 14 0 0 0 28 0 L228 76 L300 76 L300 160 a14 14 0 0 0 28 0 L328 76 L400 76 L400 160 a14 14 0 0 0 28 0 L428 76 L450 76 A74 74 0 0 1 450 224 L150 224 A74 74 0 0 1 150 76 Z"/>
+
+  <!-- Protons bombeados da matriz para o espaco intermembranar -->
+  <path class="seta" d="M260 114 V64" marker-end="url(#se)"/>
+  <text class="ion" x="268" y="100">H+</text>
+  <path class="seta" d="M360 114 V64" marker-end="url(#se)"/>
+  <text class="ion" x="368" y="100">H+</text>
+
+  <!-- Retorno dos protons a matriz por um complexo proteico da membrana interna -->
+  <rect class="cplx" x="370" y="214" width="26" height="20" rx="5"/>
+  <path class="seta" d="M383 246 V196" marker-end="url(#se)"/>
+  <text class="ion" x="392" y="208">H+</text>
+
+  <text class="rot" x="36" y="26">membrana externa</text>
+  <path class="fio" d="M150 32 L210 52"/>
+  <text class="rot" x="644" y="26" text-anchor="end">espaço intermembranar</text>
+  <path class="fio" d="M556 32 L486 70"/>
+  <text class="rot" x="130" y="196" text-anchor="middle">matriz</text>
+  <text class="rot" x="250" y="148" text-anchor="end">cristas</text>
+  <path class="fio" d="M256 144 L302 150"/>
+  <text class="rot" x="150" y="288" text-anchor="end">membrana interna</text>
+  <path class="fio" d="M156 284 L200 227"/>
+  <text class="rot" x="450" y="292">complexo proteico</text>
+  <path class="fio" d="M446 288 L398 236"/>
+
+  <text class="leg" x="340" y="316" text-anchor="middle">as setas acompanham o movimento dos prótons (H+)</text>
+</svg>

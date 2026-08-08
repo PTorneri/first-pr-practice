@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 300" width="660" height="300" role="img" aria-label="Cloroplasto em corte com as duas etapas da fotossintese: na etapa I, nos tilacoides, a luz e absorvida e duas substancias sao produzidas; na etapa II, no estroma, o gas carbonico e incorporado a um composto de cinco carbonos">
+  <style>
+    /* Carregado via img, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui e a media query responde a preferencia do sistema. */
+    .tr    { stroke: #0A2540; stroke-width: 2.2; fill: none; }
+    .fina  { stroke: #0A2540; stroke-width: 1.8; fill: rgba(10,37,64,0.10); }
+    .trac  { stroke: #0A2540; stroke-width: 1.6; fill: none; stroke-dasharray: 7 5; }
+    .seta  { stroke: #0A2540; stroke-width: 2; fill: none; }
+    .cheio { fill: #0A2540; stroke: none; }
+    .rot   { fill: #475569; font: 600 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .inc   { fill: #0A2540; font: 700 17px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 11px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .tr, .trac, .seta { stroke: #E2E8F0; }
+      .fina  { stroke: #E2E8F0; fill: rgba(226,232,240,0.14); }
+      .cheio { fill: #E2E8F0; }
+      .rot, .inc, .leg { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <marker id="se" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" class="cheio"/>
+    </marker>
+  </defs>
+
+  <!-- Cloroplasto em corte -->
+  <rect class="tr" x="30" y="40" width="600" height="220" rx="110"/>
+
+  <!-- Etapa I: tilacoides -->
+  <rect class="trac" x="70" y="76" width="180" height="140" rx="10"/>
+  <ellipse class="fina" cx="160" cy="104" rx="64" ry="9"/>
+  <ellipse class="fina" cx="160" cy="132" rx="64" ry="9"/>
+  <ellipse class="fina" cx="160" cy="160" rx="64" ry="9"/>
+  <ellipse class="fina" cx="160" cy="188" rx="64" ry="9"/>
+  <text class="rot" x="160" y="240" text-anchor="middle">etapa I · tilacoides</text>
+  <text class="rot" x="26" y="46">luz</text>
+  <path class="seta" d="M18 62 L94 104" marker-end="url(#se)"/>
+  <path class="seta" d="M14 116 L90 140" marker-end="url(#se)"/>
+
+  <!-- Duas substancias produzidas na etapa I e consumidas na etapa II -->
+  <path class="seta" d="M256 118 H342" marker-end="url(#se)"/>
+  <text class="inc" x="300" y="110" text-anchor="middle">?</text>
+  <path class="seta" d="M256 172 H342" marker-end="url(#se)"/>
+  <text class="inc" x="300" y="164" text-anchor="middle">?</text>
+
+  <!-- Etapa II: estroma -->
+  <rect class="trac" x="350" y="76" width="240" height="140" rx="10"/>
+  <rect class="fina" x="385" y="133" width="170" height="34" rx="6"/>
+  <text class="rot" x="470" y="155" text-anchor="middle">composto de 5 carbonos</text>
+  <text class="rot" x="470" y="240" text-anchor="middle">etapa II · estroma</text>
+  <path class="seta" d="M646 150 H564" marker-end="url(#se)"/>
+  <text class="rot" x="644" y="138" text-anchor="end">CO2</text>
+
+  <text class="leg" x="330" y="288" text-anchor="middle">as duas substâncias produzidas na etapa I (?) são consumidas na etapa II</text>
+</svg>

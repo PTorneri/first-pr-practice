@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 300" width="660" height="300" role="img" aria-label="A molecula de agua desenhada angular, com angulo de 104,5 graus entre as duas ligacoes O-H, ao lado da molecula de gas carbonico desenhada linear, com angulo de 180 graus entre as duas ligacoes C=O; nas duas as ligacoes sao polares">
+  <style>
+    /* Duas paletas no proprio arquivo: o SVG carregado por &lt;img&gt; nao herda a da pagina. */
+    .traco { stroke: #0A2540; stroke-width: 2; fill: none; stroke-linecap: round; }
+    .arco  { stroke: #94A3B8; stroke-width: 1.4; fill: none; }
+    .pto   { fill: #0A2540; }
+    .simb  { fill: #0A2540; font: 600 17px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .del   { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .rot   { fill: #475569; font: 600 15px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .sub   { font-size: 11px; }
+    @media (prefers-color-scheme: dark) {
+      .traco { stroke: #E2E8F0; }
+      .arco  { stroke: #64748B; }
+      .pto   { fill: #E2E8F0; }
+      .simb  { fill: #E2E8F0; }
+      .del, .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+
+  <!-- Agua: duas ligacoes O-H e dois pares nao ligantes sobre o oxigenio -->
+  <path class="traco" d="M159.7 148.0 L131.3 170.0 M180.3 148.0 L208.7 170.0"/>
+  <path class="arco" d="M143.1 160.8 A34 34 0 0 0 196.9 160.8"/>
+  <circle class="pto" cx="150" cy="126" r="2.8"/>
+  <circle class="pto" cx="158" cy="118" r="2.8"/>
+  <circle class="pto" cx="182" cy="118" r="2.8"/>
+  <circle class="pto" cx="190" cy="126" r="2.8"/>
+  <text class="simb" x="170" y="146" text-anchor="middle">O</text>
+  <text class="simb" x="121" y="184" text-anchor="middle">H</text>
+  <text class="simb" x="219" y="184" text-anchor="middle">H</text>
+  <text class="del" x="170" y="106" text-anchor="middle">δ−</text>
+  <text class="del" x="98" y="190" text-anchor="middle">δ+</text>
+  <text class="del" x="242" y="190" text-anchor="middle">δ+</text>
+  <text class="leg" x="170" y="204" text-anchor="middle">104,5°</text>
+
+  <!-- Gas carbonico: duas ligacoes duplas em linha reta, quatro pares nao ligantes nos oxigenios -->
+  <path class="traco" d="M424 134 H476 M424 146 H476 M504 134 H556 M504 146 H556"/>
+  <path class="arco" d="M454 140 A36 36 0 0 0 526 140"/>
+  <circle class="pto" cx="404" cy="116" r="2.8"/>
+  <circle class="pto" cx="416" cy="116" r="2.8"/>
+  <circle class="pto" cx="404" cy="164" r="2.8"/>
+  <circle class="pto" cx="416" cy="164" r="2.8"/>
+  <circle class="pto" cx="564" cy="116" r="2.8"/>
+  <circle class="pto" cx="576" cy="116" r="2.8"/>
+  <circle class="pto" cx="564" cy="164" r="2.8"/>
+  <circle class="pto" cx="576" cy="164" r="2.8"/>
+  <text class="simb" x="410" y="146" text-anchor="middle">O</text>
+  <text class="simb" x="490" y="146" text-anchor="middle">C</text>
+  <text class="simb" x="570" y="146" text-anchor="middle">O</text>
+  <text class="del" x="410" y="100" text-anchor="middle">δ−</text>
+  <text class="del" x="490" y="100" text-anchor="middle">δ+</text>
+  <text class="del" x="570" y="100" text-anchor="middle">δ−</text>
+  <text class="leg" x="490" y="204" text-anchor="middle">180°</text>
+
+  <!-- Nomes e a condicao comum as duas moleculas -->
+  <text class="rot" x="170" y="244" text-anchor="middle">água  H<tspan class="sub" dy="4">2</tspan><tspan dy="-4">O</tspan></text>
+  <text class="rot" x="490" y="244" text-anchor="middle">gás carbônico  CO<tspan class="sub" dy="4">2</tspan></text>
+  <text class="leg" x="330" y="280" text-anchor="middle">nas duas moléculas as ligações entre átomos diferentes são polares</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 300" width="660" height="300" role="img" aria-label="Duas curvas de utilizacao de um mesmo recurso alimentar por duas especies, com ampla area de sobreposicao entre elas">
+  <style>
+    /* Carregado via img, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui e a media query responde a preferencia do sistema. */
+    .eixo { stroke: #475569; stroke-width: 1.6; fill: none; }
+    .curva{ stroke: #0A2540; stroke-width: 2.6; fill: none; stroke-linejoin: round; }
+    .c2   { stroke: #1E40AF; stroke-width: 2.6; fill: none; stroke-dasharray: 8 5; stroke-linejoin: round; }
+    .area { fill: rgba(10,37,64,0.14); stroke: none; }
+    .rot  { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg  { fill: #475569; font: 400 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .eixo { stroke: #94A3B8; }
+      .curva{ stroke: #E2E8F0; }
+      .c2   { stroke: #60A5FA; }
+      .area { fill: rgba(226,232,240,0.20); }
+      .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+
+  <!-- Area de sobreposicao: limitada, em cada ponto, pela curva de menor valor -->
+  <path class="area" d="M150 244 L150 243.9 L170 243.8 L190 243.3 L210 242.1 L230 239.2 L250 232.8 L270 221.0 L290 201.6 L310 174.1 L320 157.9 L330 174.1 L350 201.6 L370 221.0 L390 232.8 L410 239.2 L430 242.1 L450 243.3 L470 243.8 L490 244 Z"/>
+
+  <path class="eixo" d="M70 34 V244 H604"/>
+  <text class="rot" x="70" y="24">utilização do recurso</text>
+  <text class="rot" x="337" y="282" text-anchor="middle">faixas do recurso alimentar</text>
+
+  <!-- Especie A: curva centrada na parte esquerda do recurso -->
+  <path class="curva" d="M70 242.1 L90 239.2 L110 232.8 L130 221.0 L150 201.6 L170 174.1 L190 140.9 L210 107.9 L230 83.2 L250 74.0 L270 83.2 L290 107.9 L310 140.9 L330 174.1 L350 201.6 L370 221.0 L390 232.8 L410 239.2 L430 242.1 L450 243.3 L470 243.8 L490 244 L600 244"/>
+  <!-- Especie B: mesma largura de curva, deslocada para a direita -->
+  <path class="c2" d="M70 244 L190 243.3 L210 242.1 L230 239.2 L250 232.8 L270 221.0 L290 201.6 L310 174.1 L330 140.9 L350 107.9 L370 83.2 L390 74.0 L410 83.2 L430 107.9 L450 140.9 L470 174.1 L490 201.6 L510 221.0 L530 232.8 L550 239.2 L570 242.1 L590 243.3 L600 243.6"/>
+
+  <text class="rot" x="250" y="62" text-anchor="middle">espécie A</text>
+  <text class="rot" x="390" y="62" text-anchor="middle">espécie B</text>
+  <text class="leg" x="320" y="216" text-anchor="middle">sobreposição</text>
+</svg>

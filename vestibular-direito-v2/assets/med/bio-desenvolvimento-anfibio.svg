@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 212" width="720" height="212" role="img" aria-label="Cinco estagios do desenvolvimento inicial de um anfibio: zigoto, divisoes sucessivas, esfera de celulas, esfera com cavidade central e invaginacao de um polo, que forma um novo folheto e uma abertura para o exterior">
+  <style>
+    /* Carregado via img, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui e a media query responde a preferencia do sistema. */
+    .tr    { stroke: #0A2540; stroke-width: 2.2; fill: none; }
+    .fina  { stroke: #0A2540; stroke-width: 1.5; fill: none; }
+    .cheio { fill: #0A2540; stroke: none; }
+    .fio   { stroke: #94A3B8; stroke-width: 1.2; fill: none; }
+    .num   { fill: #475569; font: 700 15px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 11px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .tr, .fina { stroke: #E2E8F0; }
+      .cheio { fill: #E2E8F0; }
+      .fio   { stroke: #64748B; }
+      .num, .leg { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <marker id="se" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" class="cheio"/>
+    </marker>
+  </defs>
+
+  <path class="tr" d="M112 110 H162" marker-end="url(#se)"/>
+  <path class="tr" d="M252 110 H302" marker-end="url(#se)"/>
+  <path class="tr" d="M392 110 H442" marker-end="url(#se)"/>
+  <path class="tr" d="M532 110 H582" marker-end="url(#se)"/>
+
+  <!-- I: zigoto -->
+  <text class="num" x="70" y="32" text-anchor="middle">I</text>
+  <circle class="tr" cx="70" cy="110" r="38"/>
+  <circle class="fina" cx="70" cy="110" r="10"/>
+  <text class="leg" x="70" y="192" text-anchor="middle">zigoto</text>
+
+  <!-- II: divisoes sucessivas -->
+  <text class="num" x="210" y="32" text-anchor="middle">II</text>
+  <circle class="tr" cx="210" cy="110" r="38"/>
+  <path class="fina" d="M210 72 V148 M172 110 H248"/>
+  <text class="leg" x="210" y="192" text-anchor="middle">divisões sucessivas</text>
+
+  <!-- III: esfera macica de celulas -->
+  <text class="num" x="350" y="32" text-anchor="middle">III</text>
+  <circle class="tr" cx="350" cy="110" r="38"/>
+  <circle class="fina" cx="350" cy="110" r="7"/>
+  <circle class="fina" cx="367" cy="110" r="7"/><circle class="fina" cx="358.5" cy="95.3" r="7"/><circle class="fina" cx="341.5" cy="95.3" r="7"/>
+  <circle class="fina" cx="333" cy="110" r="7"/><circle class="fina" cx="341.5" cy="124.7" r="7"/><circle class="fina" cx="358.5" cy="124.7" r="7"/>
+  <circle class="fina" cx="373.4" cy="96.5" r="7"/><circle class="fina" cx="373.4" cy="123.5" r="7"/><circle class="fina" cx="350" cy="137" r="7"/>
+  <circle class="fina" cx="326.6" cy="123.5" r="7"/><circle class="fina" cx="326.6" cy="96.5" r="7"/><circle class="fina" cx="350" cy="83" r="7"/>
+  <text class="leg" x="350" y="192" text-anchor="middle">esfera de células</text>
+
+  <!-- IV: esfera com cavidade central -->
+  <text class="num" x="490" y="32" text-anchor="middle">IV</text>
+  <circle class="tr" cx="490" cy="110" r="38"/>
+  <circle class="tr" cx="490" cy="110" r="20"/>
+  <path class="fina" d="M510 110 H528 M507.3 120 L522.9 129 M500 127.3 L509 142.9 M490 130 V148 M480 127.3 L471 142.9 M472.7 120 L457.1 129 M470 110 H452 M472.7 100 L457.1 91 M480 92.7 L471 77.1 M490 90 V72 M500 92.7 L509 77.1 M507.3 100 L522.9 91"/>
+  <text class="leg" x="490" y="192" text-anchor="middle">cavidade central</text>
+
+  <!-- V: invaginacao de um dos polos, com novo folheto e abertura -->
+  <text class="num" x="630" y="32" text-anchor="middle">V</text>
+  <path class="tr" d="M618 146 A38 38 0 1 1 642 146"/>
+  <path class="tr" d="M618 146 L616 104 A15 15 0 0 1 646 104 L642 146"/>
+  <path class="fina" d="M608 110 H592 M610.9 99 L597.1 91 M619 90.9 L611 77.1 M630 88 V72 M641 90.9 L649 77.1 M649.1 99 L662.9 91 M652 110 H668"/>
+  <text class="leg" x="560" y="60" text-anchor="middle">novo folheto</text>
+  <path class="fio" d="M566 66 L614 106"/>
+  <text class="leg" x="630" y="166" text-anchor="middle">abertura</text>
+  <text class="leg" x="630" y="192" text-anchor="middle">invaginação de um polo</text>
+</svg>

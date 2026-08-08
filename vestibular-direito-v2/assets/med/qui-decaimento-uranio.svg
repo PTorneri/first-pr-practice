@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 280" width="660" height="280" role="img" aria-label="Serie de decaimento do uranio-238 ao chumbo-206 em catorze etapas, cada seta rotulada como emissao alfa ou beta, somando oito emissoes alfa e seis beta">
+  <style>
+    /* Duas paletas no proprio arquivo: o SVG carregado por &lt;img&gt; nao herda a da pagina. */
+    .fio  { stroke: #0A2540; stroke-width: 1.8; fill: none; }
+    .seta { fill: #0A2540; }
+    .nuc  { fill: #0A2540; font: 700 15px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .num  { fill: #0A2540; font: 500 10.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .emi  { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .rot  { fill: #475569; font: 600 14px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .fio  { stroke: #E2E8F0; }
+      .seta { fill: #E2E8F0; }
+      .nuc, .num, .emi, .rot { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <marker id="pf" viewBox="0 0 10 10" refX="9.5" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path class="seta" d="M0 0 L10 5 L0 10 Z"/>
+    </marker>
+  </defs>
+
+  <!-- Linha de cima: do uranio-238 ao polonio-218, da esquerda para a direita -->
+  <text class="num" x="35" y="85" text-anchor="middle">238</text><text class="num" x="35" y="98" text-anchor="middle">92</text><text class="nuc" x="45" y="95">U</text>
+  <text class="num" x="115" y="85" text-anchor="middle">234</text><text class="num" x="115" y="98" text-anchor="middle">90</text><text class="nuc" x="125" y="95">Th</text>
+  <text class="num" x="195" y="85" text-anchor="middle">234</text><text class="num" x="195" y="98" text-anchor="middle">91</text><text class="nuc" x="205" y="95">Pa</text>
+  <text class="num" x="275" y="85" text-anchor="middle">234</text><text class="num" x="275" y="98" text-anchor="middle">92</text><text class="nuc" x="285" y="95">U</text>
+  <text class="num" x="355" y="85" text-anchor="middle">230</text><text class="num" x="355" y="98" text-anchor="middle">90</text><text class="nuc" x="365" y="95">Th</text>
+  <text class="num" x="435" y="85" text-anchor="middle">226</text><text class="num" x="435" y="98" text-anchor="middle">88</text><text class="nuc" x="445" y="95">Ra</text>
+  <text class="num" x="515" y="85" text-anchor="middle">222</text><text class="num" x="515" y="98" text-anchor="middle">86</text><text class="nuc" x="525" y="95">Rn</text>
+  <text class="num" x="595" y="85" text-anchor="middle">218</text><text class="num" x="595" y="98" text-anchor="middle">84</text><text class="nuc" x="605" y="95">Po</text>
+  <path class="fio" d="M68 88 H98" marker-end="url(#pf)"/>
+  <path class="fio" d="M148 88 H178" marker-end="url(#pf)"/>
+  <path class="fio" d="M228 88 H258" marker-end="url(#pf)"/>
+  <path class="fio" d="M308 88 H338" marker-end="url(#pf)"/>
+  <path class="fio" d="M388 88 H418" marker-end="url(#pf)"/>
+  <path class="fio" d="M468 88 H498" marker-end="url(#pf)"/>
+  <path class="fio" d="M548 88 H578" marker-end="url(#pf)"/>
+  <text class="emi" x="86" y="77" text-anchor="middle">α</text>
+  <text class="emi" x="166" y="77" text-anchor="middle">β</text>
+  <text class="emi" x="246" y="77" text-anchor="middle">β</text>
+  <text class="emi" x="326" y="77" text-anchor="middle">α</text>
+  <text class="emi" x="406" y="77" text-anchor="middle">α</text>
+  <text class="emi" x="486" y="77" text-anchor="middle">α</text>
+  <text class="emi" x="566" y="77" text-anchor="middle">α</text>
+
+  <!-- Passagem para a linha de baixo -->
+  <path class="fio" d="M606 108 V172" marker-end="url(#pf)"/>
+  <text class="emi" x="622" y="145">α</text>
+
+  <!-- Linha de baixo: do chumbo-214 ao chumbo-206, da direita para a esquerda -->
+  <text class="num" x="595" y="193" text-anchor="middle">214</text><text class="num" x="595" y="206" text-anchor="middle">82</text><text class="nuc" x="605" y="203">Pb</text>
+  <text class="num" x="515" y="193" text-anchor="middle">214</text><text class="num" x="515" y="206" text-anchor="middle">83</text><text class="nuc" x="525" y="203">Bi</text>
+  <text class="num" x="435" y="193" text-anchor="middle">214</text><text class="num" x="435" y="206" text-anchor="middle">84</text><text class="nuc" x="445" y="203">Po</text>
+  <text class="num" x="355" y="193" text-anchor="middle">210</text><text class="num" x="355" y="206" text-anchor="middle">82</text><text class="nuc" x="365" y="203">Pb</text>
+  <text class="num" x="275" y="193" text-anchor="middle">210</text><text class="num" x="275" y="206" text-anchor="middle">83</text><text class="nuc" x="285" y="203">Bi</text>
+  <text class="num" x="195" y="193" text-anchor="middle">210</text><text class="num" x="195" y="206" text-anchor="middle">84</text><text class="nuc" x="205" y="203">Po</text>
+  <text class="num" x="115" y="193" text-anchor="middle">206</text><text class="num" x="115" y="206" text-anchor="middle">82</text><text class="nuc" x="125" y="203">Pb</text>
+  <path class="fio" d="M582 196 H552" marker-end="url(#pf)"/>
+  <path class="fio" d="M502 196 H472" marker-end="url(#pf)"/>
+  <path class="fio" d="M422 196 H392" marker-end="url(#pf)"/>
+  <path class="fio" d="M342 196 H312" marker-end="url(#pf)"/>
+  <path class="fio" d="M262 196 H232" marker-end="url(#pf)"/>
+  <path class="fio" d="M182 196 H152" marker-end="url(#pf)"/>
+  <text class="emi" x="564" y="185" text-anchor="middle">β</text>
+  <text class="emi" x="484" y="185" text-anchor="middle">β</text>
+  <text class="emi" x="404" y="185" text-anchor="middle">α</text>
+  <text class="emi" x="324" y="185" text-anchor="middle">β</text>
+  <text class="emi" x="244" y="185" text-anchor="middle">β</text>
+  <text class="emi" x="164" y="185" text-anchor="middle">α</text>
+
+  <!-- Fecho da serie: a soma das emissoes leva 238/92 a 206/82 -->
+  <text class="rot" x="330" y="252" text-anchor="middle">a série completa tem 14 etapas: 8 emissões α e 6 emissões β</text>
+</svg>

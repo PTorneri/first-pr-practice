@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 292" width="660" height="292" role="img" aria-label="Tres recipientes fechados identicos, de mesmo volume e mesma temperatura, com seis moleculas cada um: helio no primeiro, nitrogenio no segundo e gas carbonico no terceiro">
+  <style>
+    /* Duas paletas no proprio arquivo: o SVG carregado por &lt;img&gt; nao herda a da pagina. */
+    .frasco { stroke: #0A2540; stroke-width: 2.2; fill: none; }
+    .tampa  { stroke: #0A2540; stroke-width: 3.2; fill: none; stroke-linecap: round; }
+    .lig    { stroke: #0A2540; stroke-width: 2; fill: none; }
+    .pto    { fill: #0A2540; }
+    .rot    { fill: #475569; font: 600 15px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg    { fill: #475569; font: 400 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .sub    { font-size: 11px; }
+    @media (prefers-color-scheme: dark) {
+      .frasco, .tampa, .lig { stroke: #E2E8F0; }
+      .pto { fill: #E2E8F0; }
+      .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+
+  <!-- Recipiente 1: helio, seis moleculas monoatomicas -->
+  <rect class="frasco" x="45" y="64" width="150" height="126" rx="8"/>
+  <path class="tampa" d="M36 64 H204"/>
+  <circle class="pto" cx="78" cy="93" r="5"/>
+  <circle class="pto" cx="126" cy="85" r="5"/>
+  <circle class="pto" cx="160" cy="119" r="5"/>
+  <circle class="pto" cx="86" cy="139" r="5"/>
+  <circle class="pto" cx="150" cy="155" r="5"/>
+  <circle class="pto" cx="114" cy="171" r="5"/>
+
+  <!-- Recipiente 2: nitrogenio, seis moleculas diatomicas -->
+  <rect class="frasco" x="255" y="64" width="150" height="126" rx="8"/>
+  <path class="tampa" d="M246 64 H414"/>
+  <path class="lig" d="M280 93 H296 M328 85 H344 M362 119 H378 M288 139 H304 M352 155 H368 M316 171 H332"/>
+  <circle class="pto" cx="280" cy="93" r="5"/><circle class="pto" cx="296" cy="93" r="5"/>
+  <circle class="pto" cx="328" cy="85" r="5"/><circle class="pto" cx="344" cy="85" r="5"/>
+  <circle class="pto" cx="362" cy="119" r="5"/><circle class="pto" cx="378" cy="119" r="5"/>
+  <circle class="pto" cx="288" cy="139" r="5"/><circle class="pto" cx="304" cy="139" r="5"/>
+  <circle class="pto" cx="352" cy="155" r="5"/><circle class="pto" cx="368" cy="155" r="5"/>
+  <circle class="pto" cx="316" cy="171" r="5"/><circle class="pto" cx="332" cy="171" r="5"/>
+
+  <!-- Recipiente 3: gas carbonico, seis moleculas triatomicas -->
+  <rect class="frasco" x="465" y="64" width="150" height="126" rx="8"/>
+  <path class="tampa" d="M456 64 H624"/>
+  <path class="lig" d="M482 93 H514 M530 85 H562 M564 119 H596 M490 139 H522 M554 155 H586 M518 171 H550"/>
+  <circle class="pto" cx="482" cy="93" r="5"/><circle class="pto" cx="498" cy="93" r="5"/><circle class="pto" cx="514" cy="93" r="5"/>
+  <circle class="pto" cx="530" cy="85" r="5"/><circle class="pto" cx="546" cy="85" r="5"/><circle class="pto" cx="562" cy="85" r="5"/>
+  <circle class="pto" cx="564" cy="119" r="5"/><circle class="pto" cx="580" cy="119" r="5"/><circle class="pto" cx="596" cy="119" r="5"/>
+  <circle class="pto" cx="490" cy="139" r="5"/><circle class="pto" cx="506" cy="139" r="5"/><circle class="pto" cx="522" cy="139" r="5"/>
+  <circle class="pto" cx="554" cy="155" r="5"/><circle class="pto" cx="570" cy="155" r="5"/><circle class="pto" cx="586" cy="155" r="5"/>
+  <circle class="pto" cx="518" cy="171" r="5"/><circle class="pto" cx="534" cy="171" r="5"/><circle class="pto" cx="550" cy="171" r="5"/>
+
+  <!-- Identificacao dos gases e a condicao comum aos tres frascos -->
+  <text class="rot" x="120" y="222" text-anchor="middle">hélio  He</text>
+  <text class="rot" x="330" y="222" text-anchor="middle">nitrogênio  N<tspan class="sub" dy="4">2</tspan></text>
+  <text class="rot" x="540" y="222" text-anchor="middle">gás carbônico  CO<tspan class="sub" dy="4">2</tspan></text>
+  <text class="leg" x="330" y="262" text-anchor="middle">mesmo volume, mesma temperatura e o mesmo número de moléculas nos três recipientes</text>
+</svg>

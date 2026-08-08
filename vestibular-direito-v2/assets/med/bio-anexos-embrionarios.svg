@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 312" width="700" height="312" role="img" aria-label="Anexos embrionarios de um reptil e de um mamifero placentario: amnio, alantoide e saco vitelinico aparecem nos dois, com o saco vitelinico grande no reptil e reduzido no mamifero">
+  <style>
+    /* Carregado via img, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui e a media query responde a preferencia do sistema. */
+    .casca { stroke: #0A2540; stroke-width: 3.2; fill: none; }
+    .tr    { stroke: #0A2540; stroke-width: 2.2; fill: none; }
+    .fina  { stroke: #0A2540; stroke-width: 1.8; fill: rgba(10,37,64,0.09); }
+    .emb   { stroke: #0A2540; stroke-width: 2; fill: rgba(10,37,64,0.20); }
+    .tit   { fill: #475569; font: 700 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .num   { fill: #0A2540; font: 700 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .casca, .tr { stroke: #E2E8F0; }
+      .fina  { stroke: #E2E8F0; fill: rgba(226,232,240,0.12); }
+      .emb   { stroke: #E2E8F0; fill: rgba(226,232,240,0.26); }
+      .tit, .num, .leg { fill: #E2E8F0; }
+    }
+  </style>
+
+  <!-- Reptil: ovo com casca, saco vitelinico volumoso -->
+  <text class="tit" x="175" y="26" text-anchor="middle">réptil (ovo com casca)</text>
+  <ellipse class="casca" cx="175" cy="158" rx="140" ry="98"/>
+  <ellipse class="fina" cx="175" cy="202" rx="92" ry="44"/>
+  <text class="num" x="175" y="216" text-anchor="middle">3</text>
+  <ellipse class="fina" cx="248" cy="128" rx="34" ry="24"/>
+  <text class="num" x="248" y="133" text-anchor="middle">2</text>
+  <ellipse class="fina" cx="150" cy="118" rx="38" ry="28"/>
+  <text class="num" x="118" y="110" text-anchor="middle">1</text>
+  <ellipse class="emb" cx="150" cy="118" rx="22" ry="15"/>
+  <text class="num" x="150" y="123" text-anchor="middle">4</text>
+
+  <!-- Mamifero placentario: saco vitelinico reduzido -->
+  <text class="tit" x="525" y="26" text-anchor="middle">mamífero placentário (no útero)</text>
+  <ellipse class="tr" cx="525" cy="158" rx="140" ry="98"/>
+  <ellipse class="fina" cx="515" cy="202" rx="30" ry="16"/>
+  <text class="num" x="515" y="207" text-anchor="middle">3</text>
+  <ellipse class="fina" cx="592" cy="150" rx="20" ry="14"/>
+  <text class="num" x="592" y="155" text-anchor="middle">2</text>
+  <ellipse class="fina" cx="505" cy="140" rx="44" ry="34"/>
+  <text class="num" x="472" y="132" text-anchor="middle">1</text>
+  <ellipse class="emb" cx="505" cy="140" rx="22" ry="15"/>
+  <text class="num" x="505" y="145" text-anchor="middle">4</text>
+
+  <text class="leg" x="350" y="298" text-anchor="middle">1 âmnio · 2 alantoide · 3 saco vitelínico · 4 embrião</text>
+</svg>

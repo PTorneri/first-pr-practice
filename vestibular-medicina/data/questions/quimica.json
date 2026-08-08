@@ -153,7 +153,12 @@
       "resposta": "c",
       "explicacao": "Mesma fórmula molecular e funções diferentes — álcool e éter — caracterizam isomeria de função. O etanol tem hidrogênio ligado a oxigênio e forma ligações de hidrogênio entre suas moléculas; o éter, sem esse hidrogênio, conta apenas com dipolo permanente, bem mais fraco. Daí a diferença de mais de cem graus.",
       "formato": "lacunas",
-      "banca": "santacasa"
+      "banca": "santacasa",
+      "visual": {
+        "tipo": "Figura",
+        "arquivo": "assets/med/qui-etanol-eter.svg",
+        "descricao": "A estrutura do etanol e a do dimetil-éter, ambos com fórmula molecular C2H6O. Suas temperaturas de ebulição a 1 atm são, respectivamente, 78 °C e −24 °C."
+      }
     },
     {
       "id": "quimica-10",
@@ -379,7 +384,12 @@
       },
       "resposta": "e",
       "explicacao": "A distribuição dos quatro pares é tetraédrica nas três moléculas, mas a geometria é definida pelas posições dos átomos, não dos pares isolados. Sem par não ligante, o metano é tetraédrico; com um, a amônia é piramidal; com dois, a água é angular. A alternativa (c) confunde arranjo eletrônico com geometria molecular.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/med/qui-geometria-moleculas.svg",
+        "descricao": "A estrutura de três moléculas: metano (CH4), amônia (NH3) e água (H2O). Todas apresentam o átomo central com quatro pares de elétrons na camada de valência, mas com números diferentes de pares não ligantes."
+      }
     },
     {
       "id": "quimica-25",
@@ -716,7 +726,12 @@
       },
       "resposta": "b",
       "explicacao": "No metano, saturado, um hidrogênio é trocado por cloro e sai como cloreto de hidrogênio: substituição. No eteno, a dupla ligação se abre e os dois cloros se incorporam sem que nada saia: adição. A presença ou ausência de subproduto é o sinal mais direto para distinguir os dois mecanismos.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/med/qui-reacoes-organicas.svg",
+        "descricao": "A reação entre o gás cloro e o metano sob luz ultravioleta, produzindo clorometano e cloreto de hidrogênio. Outra reação, entre o eteno e o gás cloro, produz 1,2-dicloroetano sem qualquer subproduto."
+      }
     },
     {
       "id": "quimica-47",
@@ -806,7 +821,12 @@
       },
       "resposta": "d",
       "explicacao": "Pela equação dos gases ideais, a pressão depende de quantidade de matéria, volume e temperatura — todos iguais aqui —, e não da identidade do gás. Já a massa depende da massa molar, que difere entre hélio, nitrogênio e gás carbônico. É a hipótese de Avogadro aplicada a um caso concreto.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/med/qui-tres-recipientes.svg",
+        "descricao": "Três recipientes fechados de mesmo volume, à mesma temperatura, contendo respectivamente gás hélio, gás nitrogênio e gás carbônico. Todos apresentam o mesmo número de moléculas."
+      }
     },
     {
       "id": "quimica-53",
@@ -1048,7 +1068,12 @@
       },
       "resposta": "a",
       "explicacao": "A partícula alfa leva dois prótons e dois nêutrons: o número atômico cai duas unidades e o número de massa, quatro. A variação de +1 no número atômico sem mudança de massa, descrita em (b), corresponde à emissão beta, que a questão contrapõe deliberadamente.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/med/qui-decaimento-uranio.svg",
+        "descricao": "O decaimento do urânio-238 até o chumbo-206 por uma série de emissões alfa e beta. A partícula alfa corresponde a um núcleo de hélio, com dois prótons e dois nêutrons; a emissão beta corresponde à conversão de um nêutron em próton, com liberação de um elétron."
+      }
     },
     {
       "id": "quimica-69",
@@ -1456,7 +1481,12 @@
       },
       "resposta": "a",
       "explicacao": "A variação de entalpia é a diferença entre os níveis de produtos e reagentes, e ambos permanecem inalterados: o catalisador não mexe na termodinâmica. Ele abaixa a barreira, acelerando os dois sentidos igualmente — e por isso também não desloca o equilíbrio, o que descarta (c) e (e).",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Gráfico",
+        "arquivo": "assets/med/qui-catalisador-energia.svg",
+        "descricao": "Um diagrama de energia mostra o caminho de uma reação com e sem catalisador. A curva sem catalisador apresenta um pico mais alto; a curva com catalisador apresenta pico mais baixo. Os níveis de energia dos reagentes e dos produtos são idênticos nas duas curvas."
+      }
     },
     {
       "id": "quimica-96",
@@ -1593,7 +1623,12 @@
       },
       "resposta": "e",
       "explicacao": "A mesma carga atravessa as duas células, mas Ag⁺ precisa de um elétron por átomo e Cu²⁺ de dois. Com o mesmo número de elétrons, deposita-se o dobro de mols de prata em relação ao de cobre. Massa molar afeta a massa depositada, e não a quantidade de matéria, o que descarta (d).",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/med/qui-eletrolise-serie.svg",
+        "descricao": "Uma cuba eletrolítica com duas células ligadas em série, contendo respectivamente solução de nitrato de prata e solução de sulfato de cobre. A mesma corrente atravessa as duas células durante o mesmo intervalo de tempo."
+      }
     },
     {
       "id": "quimica-105",
@@ -1624,7 +1659,12 @@
       "resposta": "b",
       "explicacao": "No grafite, três ligações no plano indicam hibridação sp², e o elétron restante em orbital p forma um sistema deslocalizado entre as camadas — daí a condução elétrica. No diamante, quatro ligações simples indicam sp³, com todos os elétrons localizados, o que o torna isolante e extremamente duro.",
       "formato": "lacunas",
-      "banca": "santacasa"
+      "banca": "santacasa",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/med/qui-grafite-diamante.svg",
+        "descricao": "A estrutura do grafite e a do diamante. No grafite, cada átomo de carbono se liga a outros três no mesmo plano, formando camadas que deslizam umas sobre as outras. No diamante, cada carbono se liga a outros quatro numa rede tridimensional rígida."
+      }
     },
     {
       "id": "quimica-107",
@@ -2139,7 +2179,12 @@
       },
       "resposta": "d",
       "explicacao": "As duas moléculas têm ligações polares, mas no gás carbônico a geometria é linear e os dois vetores se cancelam. Na água, a geometria angular imposta pelos pares não ligantes do oxigênio impede o cancelamento, e resta um momento dipolar resultante. Polaridade da molécula depende da geometria, não só das ligações.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/med/qui-agua-gas-carbonico.svg",
+        "descricao": "A molécula de água e a de gás carbônico. As duas apresentam ligações polares entre átomos diferentes, mas apenas uma delas é uma molécula polar."
+      }
     },
     {
       "id": "quimica-141",
@@ -2260,7 +2305,12 @@
       },
       "resposta": "b",
       "explicacao": "A válvula libera vapor, ou seja, matéria atravessa a fronteira; e a chama transfere calor, ou seja, energia também. Os dois tipos de troca caracterizam sistema aberto. Se a válvula estivesse bloqueada, o sistema seria fechado — e a pressão subiria sem controle, que é justamente o risco que a válvula previne.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/med/qui-sistemas-termodinamicos.svg",
+        "descricao": "A diferença entre um sistema aberto, um sistema fechado e um sistema isolado, quanto às trocas de matéria e de energia com a vizinhança."
+      }
     },
     {
       "id": "quimica-149",

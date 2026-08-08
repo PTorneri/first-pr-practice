@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 356" width="680" height="356" role="img" aria-label="Dois destinos de um bacteriofago que infecta uma bacteria: na via I novas particulas sao montadas e a celula se rompe; na via II o material genetico viral se integra ao cromossomo bacteriano e e replicado com ele">
+  <style>
+    /* Carregado via img, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui e a media query responde a preferencia do sistema. */
+    .tr    { stroke: #0A2540; stroke-width: 2; fill: none; }
+    .fina  { stroke: #0A2540; stroke-width: 1.5; fill: none; }
+    .viral { stroke: #0A2540; stroke-width: 2; fill: none; stroke-dasharray: 4 3; }
+    .romp  { stroke: #0A2540; stroke-width: 2; fill: none; stroke-dasharray: 11 8; }
+    .cheio { fill: #0A2540; stroke: none; }
+    .guia  { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 5 5; }
+    .via   { fill: #475569; font: 700 14px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 11px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .tr, .fina, .viral, .romp { stroke: #E2E8F0; }
+      .cheio { fill: #E2E8F0; }
+      .guia  { stroke: #64748B; }
+      .via, .leg { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <marker id="se" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" class="cheio"/>
+    </marker>
+    <!-- particula viral em miniatura -->
+    <g id="mf"><path class="fina" d="M-5 -6 H5 L9 0 L5 6 H-5 L-9 0 Z M0 6 V12"/></g>
+  </defs>
+
+  <!-- Infeccao: o bacteriofago injeta seu material genetico na bacteria -->
+  <path class="tr" d="M332 20 H348 L355 32 L348 44 H332 L325 32 Z M340 44 V60 M332 66 L340 60 L348 66"/>
+  <path class="tr" d="M340 72 V90" marker-end="url(#se)"/>
+  <ellipse class="tr" cx="340" cy="116" rx="48" ry="28"/>
+  <ellipse class="fina" cx="328" cy="116" rx="20" ry="12"/>
+  <path class="viral" d="M358 108 q7 5 0 9 q-7 5 0 9"/>
+
+  <path class="tr" d="M308 138 C250 164 200 172 150 188" marker-end="url(#se)"/>
+  <path class="tr" d="M372 138 C392 158 398 170 404 186" marker-end="url(#se)"/>
+  <path class="guia" d="M340 168 V300"/>
+
+  <!-- Via I: replicacao, montagem de novas particulas e rompimento da celula -->
+  <text class="via" x="16" y="186">via I</text>
+  <ellipse class="tr" cx="140" cy="222" rx="50" ry="28"/>
+  <use href="#mf" x="116" y="206"/><use href="#mf" x="148" y="204"/><use href="#mf" x="166" y="222"/><use href="#mf" x="120" y="230"/>
+  <path class="tr" d="M194 222 H226" marker-end="url(#se)"/>
+  <ellipse class="romp" cx="278" cy="222" rx="44" ry="22"/>
+  <use href="#mf" x="238" y="178"/><use href="#mf" x="318" y="178"/><use href="#mf" x="278" y="264"/>
+  <text class="leg" x="175" y="292" text-anchor="middle">o material genético viral é replicado, novas partículas</text>
+  <text class="leg" x="175" y="310" text-anchor="middle">são montadas e a célula se rompe</text>
+
+  <!-- Via II: integracao do material genetico viral ao cromossomo bacteriano -->
+  <text class="via" x="664" y="186" text-anchor="end">via II</text>
+  <ellipse class="tr" cx="408" cy="222" rx="50" ry="28"/>
+  <path class="fina" d="M427.9 212.4 A26 15 0 1 0 427.9 231.6"/>
+  <path class="viral" d="M427.9 212.4 A26 15 0 0 1 427.9 231.6"/>
+  <path class="tr" d="M462 222 H494" marker-end="url(#se)"/>
+  <ellipse class="tr" cx="546" cy="200" rx="36" ry="20"/>
+  <path class="fina" d="M558.3 194.2 A16 9 0 1 0 558.3 205.8"/>
+  <path class="viral" d="M558.3 194.2 A16 9 0 0 1 558.3 205.8"/>
+  <ellipse class="tr" cx="590" cy="246" rx="36" ry="20"/>
+  <path class="fina" d="M602.3 240.2 A16 9 0 1 0 602.3 251.8"/>
+  <path class="viral" d="M602.3 240.2 A16 9 0 0 1 602.3 251.8"/>
+  <text class="leg" x="505" y="292" text-anchor="middle">o material genético viral se integra ao cromossomo bacteriano</text>
+  <text class="leg" x="505" y="310" text-anchor="middle">e é replicado junto com ele ao longo de várias gerações</text>
+
+  <!-- Legenda -->
+  <path class="fina" d="M172 332 H198"/>
+  <text class="leg" x="204" y="336">cromossomo da bactéria</text>
+  <path class="viral" d="M382 332 H408"/>
+  <text class="leg" x="414" y="336">material genético do vírus</text>
+</svg>

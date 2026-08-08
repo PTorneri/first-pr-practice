@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 290" width="660" height="290" role="img" aria-label="Bicamada de fosfolipidios com proteinas que a atravessam de lado a lado e proteinas associadas a apenas uma das faces">
+  <style>
+    /* Carregado via img, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui e a media query responde a preferencia do sistema. */
+    .tr   { stroke: #0A2540; stroke-width: 1.8; fill: none; }
+    .prot { stroke: #0A2540; stroke-width: 2.2; fill: rgba(10,37,64,0.13); }
+    .fio  { stroke: #94A3B8; stroke-width: 1.2; fill: none; }
+    .rot  { fill: #475569; font: 600 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg  { fill: #475569; font: 400 11.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .tr   { stroke: #E2E8F0; }
+      .prot { stroke: #E2E8F0; fill: rgba(226,232,240,0.18); }
+      .fio  { stroke: #64748B; }
+      .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <!-- fosfolipidio: cabeca polar e duas caudas voltadas para o interior -->
+    <g id="lu"><circle class="tr" cy="104" r="7"/><path class="tr" d="M-3 111V146M3 111V146"/></g>
+    <g id="ld"><circle class="tr" cy="188" r="7"/><path class="tr" d="M-3 181V146M3 181V146"/></g>
+  </defs>
+
+  <!-- Bicamada: duas fileiras de fosfolipidios, caudas frente a frente -->
+  <use href="#lu" x="34"/><use href="#lu" x="60"/><use href="#lu" x="86"/><use href="#lu" x="112"/><use href="#lu" x="138"/><use href="#lu" x="190"/><use href="#lu" x="216"/><use href="#lu" x="242"/>
+  <use href="#lu" x="268"/><use href="#lu" x="294"/><use href="#lu" x="320"/><use href="#lu" x="346"/><use href="#lu" x="372"/><use href="#lu" x="398"/><use href="#lu" x="450"/><use href="#lu" x="476"/>
+  <use href="#lu" x="502"/><use href="#lu" x="528"/><use href="#lu" x="554"/><use href="#lu" x="580"/><use href="#lu" x="606"/><use href="#lu" x="632"/>
+  <use href="#ld" x="34"/><use href="#ld" x="60"/><use href="#ld" x="86"/><use href="#ld" x="112"/><use href="#ld" x="138"/><use href="#ld" x="190"/><use href="#ld" x="216"/><use href="#ld" x="242"/>
+  <use href="#ld" x="268"/><use href="#ld" x="294"/><use href="#ld" x="320"/><use href="#ld" x="346"/><use href="#ld" x="372"/><use href="#ld" x="398"/><use href="#ld" x="450"/><use href="#ld" x="476"/>
+  <use href="#ld" x="502"/><use href="#ld" x="528"/><use href="#ld" x="554"/><use href="#ld" x="580"/><use href="#ld" x="606"/><use href="#ld" x="632"/>
+
+  <!-- Duas proteinas atravessam a bicamada de lado a lado -->
+  <rect class="prot" x="151" y="88" width="30" height="116" rx="14"/>
+  <rect class="prot" x="411" y="88" width="30" height="116" rx="14"/>
+
+  <!-- Duas proteinas associadas a apenas uma das faces -->
+  <ellipse class="prot" cx="300" cy="86" rx="29" ry="13"/>
+  <ellipse class="prot" cx="530" cy="206" rx="27" ry="13"/>
+
+  <text class="leg" x="16" y="36">meio extracelular</text>
+  <text class="leg" x="16" y="262">citoplasma</text>
+  <text class="rot" x="300" y="36" text-anchor="middle">associada a uma das faces</text>
+  <path class="fio" d="M300 42 V72"/>
+  <text class="rot" x="166" y="58" text-anchor="middle">atravessa a bicamada</text>
+  <path class="fio" d="M166 64 V86"/>
+  <text class="rot" x="140" y="262" text-anchor="middle">fosfolipídio</text>
+  <path class="fio" d="M132 252 L116 197"/>
+  <text class="rot" x="530" y="262" text-anchor="middle">associada a uma das faces</text>
+  <path class="fio" d="M530 252 V221"/>
+</svg>

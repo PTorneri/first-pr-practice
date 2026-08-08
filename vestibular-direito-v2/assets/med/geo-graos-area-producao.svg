@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 340" width="640" height="340" role="img" aria-label="Grafico em numeros indice: entre duas decadas a area plantada vai de 100 a 140, alta de 40 por cento, e a producao de graos vai de 100 a 250, alta de 150 por cento">
+  <style>
+    /* Carregado via &lt;img&gt;, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui, e a media query e avaliada contra o sistema. */
+    .eixo  { stroke: #475569; stroke-width: 1.6; fill: none; }
+    .curva { stroke: #0A2540; stroke-width: 2.6; fill: none; stroke-linejoin: round; stroke-linecap: round; }
+    .c2    { stroke: #1E40AF; stroke-width: 2.6; fill: none; stroke-dasharray: 8 5; stroke-linejoin: round; }
+    .guia  { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 4 4; }
+    .rot   { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .pto   { fill: #0A2540; }
+    @media (prefers-color-scheme: dark) {
+      .eixo  { stroke: #94A3B8; }
+      .curva { stroke: #E2E8F0; }
+      .c2    { stroke: #60A5FA; }
+      .guia  { stroke: #64748B; }
+      .rot, .leg { fill: #E2E8F0; }
+      .pto   { fill: #E2E8F0; }
+    }
+  </style>
+
+  <!-- Eixos: numeros indice com a primeira decada valendo 100 -->
+  <path class="eixo" d="M70 30 V260 H590"/>
+  <text class="rot" x="70" y="20" text-anchor="start">indice: Decada 1 = 100</text>
+
+  <!-- Escala vertical de 0 a 250, de 50 em 50 -->
+  <path class="guia" d="M70 218 H590 M70 176 H590 M70 134 H590 M70 92 H590 M70 50 H590"/>
+  <text class="rot" x="62" y="265" text-anchor="end">0</text>
+  <text class="rot" x="62" y="223" text-anchor="end">50</text>
+  <text class="rot" x="62" y="181" text-anchor="end">100</text>
+  <text class="rot" x="62" y="139" text-anchor="end">150</text>
+  <text class="rot" x="62" y="97" text-anchor="end">200</text>
+  <text class="rot" x="62" y="55" text-anchor="end">250</text>
+
+  <!-- Producao total de graos: de 100 para 250 -->
+  <path class="curva" d="M170 176 L490 50"/>
+  <text class="leg" x="502" y="44" text-anchor="start">+150%</text>
+
+  <!-- Area plantada: de 100 para 140 -->
+  <path class="c2" d="M170 176 L490 142"/>
+  <text class="leg" x="502" y="148" text-anchor="start">+40%</text>
+
+  <circle class="pto" cx="170" cy="176" r="4.5"/>
+  <circle class="pto" cx="490" cy="50" r="4.5"/>
+  <circle class="pto" cx="490" cy="142" r="4.5"/>
+
+  <!-- Eixo horizontal: as duas decadas comparadas -->
+  <text class="rot" x="170" y="278" text-anchor="middle">Decada 1</text>
+  <text class="rot" x="490" y="278" text-anchor="middle">Decada 2</text>
+
+  <!-- Legenda -->
+  <path class="curva" d="M150 320 h26"/>
+  <text class="leg" x="184" y="320">producao total de graos</text>
+  <path class="c2" d="M360 320 h26"/>
+  <text class="leg" x="394" y="320">area plantada</text>
+</svg>

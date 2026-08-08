@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 330" width="660" height="330" role="img" aria-label="Diagrama de energia com duas curvas para a mesma reacao: a curva sem catalisador tem pico mais alto e a com catalisador tem pico mais baixo, mas as duas partem do mesmo nivel de reagentes e chegam ao mesmo nivel de produtos">
+  <style>
+    /* Duas paletas no proprio arquivo: o SVG carregado por &lt;img&gt; nao herda a da pagina. */
+    .eixo  { stroke: #475569; stroke-width: 1.6; fill: none; }
+    .curva { stroke: #0A2540; stroke-width: 2.6; fill: none; stroke-linejoin: round; stroke-linecap: round; }
+    .c2    { stroke: #1E40AF; stroke-width: 2.6; fill: none; stroke-dasharray: 8 5; stroke-linejoin: round; }
+    .guia  { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 4 4; }
+    .medida{ stroke: #475569; stroke-width: 1.4; fill: none; }
+    .seta  { fill: #475569; }
+    .rot   { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .eixo  { stroke: #94A3B8; }
+      .curva { stroke: #E2E8F0; }
+      .c2    { stroke: #60A5FA; }
+      .guia  { stroke: #64748B; }
+      .medida{ stroke: #CBD5E1; }
+      .seta  { fill: #CBD5E1; }
+      .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <marker id="pf" viewBox="0 0 10 10" refX="9.5" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path class="seta" d="M0 0 L10 5 L0 10 Z"/>
+    </marker>
+    <marker id="pi" viewBox="0 0 10 10" refX="0.5" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path class="seta" d="M10 0 L0 5 L10 10 Z"/>
+    </marker>
+  </defs>
+
+  <path class="eixo" d="M70 40 V262 H616"/>
+  <text class="rot" x="70" y="30" text-anchor="start">energia</text>
+  <text class="rot" x="343" y="288" text-anchor="middle">caminho da reação</text>
+
+  <!-- Niveis de reagentes e de produtos, os mesmos para as duas curvas -->
+  <path class="guia" d="M70 190 H604 M70 226 H604 M130 62 H340 M165 114 H340"/>
+  <text class="leg" x="600" y="182" text-anchor="end">reagentes</text>
+  <text class="leg" x="600" y="248" text-anchor="end">produtos</text>
+
+  <!-- Caminho sem catalisador: pico mais alto -->
+  <path class="curva" d="M76 190 H195 C265 190 270 62 340 62 C410 62 415 226 485 226 H604"/>
+  <!-- Caminho com catalisador: mesmo inicio e mesmo fim, pico mais baixo -->
+  <path class="c2" d="M76 190 H195 C265 190 270 114 340 114 C410 114 415 226 485 226 H604"/>
+
+  <!-- Medidas assinaladas por algarismo, sem nomear -->
+  <path class="medida" d="M138 190 V62" marker-start="url(#pi)" marker-end="url(#pf)"/>
+  <text class="rot" x="130" y="130" text-anchor="end">I</text>
+  <path class="medida" d="M172 190 V114" marker-start="url(#pi)" marker-end="url(#pf)"/>
+  <text class="rot" x="180" y="156" text-anchor="start">II</text>
+  <path class="medida" d="M560 190 V226" marker-start="url(#pi)" marker-end="url(#pf)"/>
+  <text class="rot" x="568" y="214" text-anchor="start">III</text>
+
+  <!-- Legenda das duas curvas -->
+  <path class="curva" d="M170 314 h30"/>
+  <text class="leg" x="208" y="318">sem catalisador</text>
+  <path class="c2" d="M360 314 h30"/>
+  <text class="leg" x="398" y="318">com catalisador</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 250" width="620" height="250" role="img" aria-label="Estomato em dois momentos: no momento I as celulas-guarda estao distendidas e o ostiolo amplamente aberto; no momento II as celulas estao murchas e o ostiolo fechado">
+  <style>
+    /* Carregado via img, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui e a media query responde a preferencia do sistema. */
+    .cel   { stroke: #0A2540; stroke-width: 2.2; fill: rgba(10,37,64,0.13); }
+    .tr    { stroke: #0A2540; stroke-width: 2; fill: none; }
+    .fio   { stroke: #94A3B8; stroke-width: 1.2; fill: none; }
+    .cheio { fill: #0A2540; stroke: none; }
+    .tit   { fill: #475569; font: 700 14px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .rot   { fill: #475569; font: 600 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .cel   { stroke: #E2E8F0; fill: rgba(226,232,240,0.18); }
+      .tr    { stroke: #E2E8F0; }
+      .fio   { stroke: #64748B; }
+      .cheio { fill: #E2E8F0; }
+      .tit, .rot { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <marker id="se" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" class="cheio"/>
+    </marker>
+  </defs>
+
+  <!-- Momento I: duas celulas-guarda distendidas, ostiolo amplamente aberto -->
+  <text class="tit" x="165" y="34" text-anchor="middle">momento I</text>
+  <path class="cel" fill-rule="evenodd" transform="translate(165 120)" d="M-58 0 a58 44 0 1 0 116 0 a58 44 0 1 0 -116 0 M-15 0 a15 28 0 1 1 30 0 a15 28 0 1 1 -30 0 Z"/>
+  <path class="tr" d="M165 76 V92 M165 148 V164"/>
+  <text class="rot" x="40" y="60">célula-guarda</text>
+  <path class="fio" d="M110 64 L126 92"/>
+  <text class="rot" x="250" y="60" text-anchor="end">ostíolo</text>
+  <path class="fio" d="M244 64 L174 102"/>
+  <text class="rot" x="165" y="200" text-anchor="middle">células-guarda distendidas</text>
+  <text class="rot" x="165" y="220" text-anchor="middle">ostíolo amplamente aberto</text>
+
+  <path class="tr" d="M248 120 H382" marker-end="url(#se)"/>
+
+  <!-- Momento II: celulas murchas, ostiolo fechado -->
+  <text class="tit" x="455" y="34" text-anchor="middle">momento II</text>
+  <path class="cel" fill-rule="evenodd" transform="translate(455 120)" d="M-56 0 a56 32 0 1 0 112 0 a56 32 0 1 0 -112 0 M-3 0 a3 22 0 1 1 6 0 a3 22 0 1 1 -6 0 Z"/>
+  <path class="tr" d="M455 88 V98 M455 142 V152"/>
+  <text class="rot" x="455" y="200" text-anchor="middle">células-guarda murchas</text>
+  <text class="rot" x="455" y="220" text-anchor="middle">ostíolo fechado</text>
+</svg>

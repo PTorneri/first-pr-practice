@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320" width="700" height="320" role="img" aria-label="Celula em divisao, sem envoltorio nuclear: quatro cromossomos duplicados, em forma de X, alinhados sobre o plano equatorial, com fibras do fuso partindo dos dois polos e presas aos centromeros">
+  <style>
+    /* Carregado via &lt;img&gt;, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui, e a media query e avaliada contra o sistema. */
+    .memb  { stroke: #0A2540; stroke-width: 2.2; fill: none; }
+    .crom  { stroke: #0A2540; stroke-width: 2.8; fill: none; stroke-linecap: round; }
+    .fibra { stroke: #475569; stroke-width: 1.4; fill: none; }
+    .astro { stroke: #475569; stroke-width: 1.5; fill: none; stroke-linecap: round; }
+    .cent  { fill: #0A2540; }
+    .guia  { stroke: #94A3B8; stroke-width: 1.4; fill: none; stroke-dasharray: 5 5; }
+    .lider { stroke: #94A3B8; stroke-width: 1.1; fill: none; }
+    .rot   { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .memb  { stroke: #E2E8F0; }
+      .crom  { stroke: #E2E8F0; }
+      .fibra { stroke: #94A3B8; }
+      .astro { stroke: #94A3B8; }
+      .cent  { fill: #E2E8F0; }
+      .guia  { stroke: #64748B; }
+      .lider { stroke: #64748B; }
+      .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+
+  <!-- Membrana da celula; o envoltorio nuclear ja se desfez -->
+  <ellipse class="memb" cx="350" cy="158" rx="250" ry="118"/>
+
+  <!-- Plano equatorial: a linha do meio, onde os cromossomos se alinham -->
+  <text class="rot" x="350" y="28" text-anchor="middle">plano equatorial</text>
+  <path class="guia" d="M350 46 V270"/>
+
+  <!-- Centrossomos nos dois polos, com os asteres -->
+  <circle class="cent" cx="138" cy="158" r="5.5"/>
+  <path class="astro" d="M138 158 L117 150 M138 158 L114 158 M138 158 L117 166 M138 158 L127 142 M138 158 L127 174 M138 158 L138 136 M138 158 L138 180"/>
+  <circle class="cent" cx="562" cy="158" r="5.5"/>
+  <path class="astro" d="M562 158 L583 150 M562 158 L586 158 M562 158 L583 166 M562 158 L573 142 M562 158 L573 174 M562 158 L562 136 M562 158 L562 180"/>
+
+  <!-- Fibras do fuso: de cada polo ate o centromero de cada cromossomo -->
+  <path class="fibra" d="M138 158 L344 82 M138 158 L344 134 M138 158 L344 186 M138 158 L344 238"/>
+  <path class="fibra" d="M562 158 L356 82 M562 158 L356 134 M562 158 L356 186 M562 158 L356 238"/>
+
+  <!-- Quatro cromossomos duplicados: duas cromatides-irmas unidas pelo centromero -->
+  <path class="crom" d="M334 64 Q337 74 347 82 Q337 90 334 100"/>
+  <path class="crom" d="M366 64 Q363 74 353 82 Q363 90 366 100"/>
+  <circle class="cent" cx="350" cy="82" r="3.4"/>
+
+  <path class="crom" d="M334 116 Q337 126 347 134 Q337 142 334 152"/>
+  <path class="crom" d="M366 116 Q363 126 353 134 Q363 142 366 152"/>
+  <circle class="cent" cx="350" cy="134" r="3.4"/>
+
+  <path class="crom" d="M334 168 Q337 178 347 186 Q337 194 334 204"/>
+  <path class="crom" d="M366 168 Q363 178 353 186 Q363 194 366 204"/>
+  <circle class="cent" cx="350" cy="186" r="3.4"/>
+
+  <path class="crom" d="M334 220 Q337 230 347 238 Q337 246 334 256"/>
+  <path class="crom" d="M366 220 Q363 230 353 238 Q363 246 366 256"/>
+  <circle class="cent" cx="350" cy="238" r="3.4"/>
+
+  <!-- Rotulos com linhas de chamada -->
+  <text class="leg" x="16" y="162">centrossomo</text>
+  <path class="lider" d="M94 158 L108 158"/>
+
+  <text class="leg" x="16" y="272">fibras do fuso</text>
+  <path class="lider" d="M113 268 L204 186"/>
+
+  <text class="leg" x="688" y="64" text-anchor="end">cromatides-irmas</text>
+  <path class="lider" d="M578 62 L374 70"/>
+</svg>

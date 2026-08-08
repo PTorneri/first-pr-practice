@@ -179,7 +179,12 @@
       },
       "resposta": "e",
       "explicacao": "Espécies diferentes disputando o mesmo recurso caracterizam competição interespecífica, o que elimina (d). A sobreposição pressiona a seleção contra os indivíduos que competem mais diretamente, e um desfecho documentado é o deslocamento de caractere. Predação exigiria que uma espécie se alimentasse da outra, e não de um mesmo terceiro recurso.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Gráfico",
+        "arquivo": "assets/med/bio-nichos-sobreposicao.svg",
+        "descricao": "Duas espécies de aves insetívoras ocupam a mesma mata e utilizam um recurso alimentar comum. A figura representa seus nichos ecológicos como curvas de utilização desse recurso, com considerável área de sobreposição entre elas."
+      }
     },
     {
       "id": "biologia-11",
@@ -194,7 +199,12 @@
       },
       "resposta": "a",
       "explicacao": "Na esquistossomose os ovos saem pelas fezes, passam por caramujos em coleções de água e as cercárias infectam outra pessoa: o agente atravessa o ambiente, ciclo II. A dengue depende de um mosquito que retira e inocula o vírus, ciclo III. A febre amarela silvestre circula entre primatas e vetores da mata e atinge o ser humano acidentalmente, ciclo IV.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/med/bio-ciclos-transmissao.svg",
+        "descricao": "Quatro ciclos de transmissão de doenças infecciosas ao ser humano. No ciclo I, o agente passa diretamente de uma pessoa para outra. No ciclo II, o agente sai de uma pessoa, permanece no ambiente e depois infecta outra. No ciclo III, um artrópode retira o agente de um hospedeiro e o inocula em outro. No ciclo IV, o agente circula entre animais silvestres e eventualmente atinge o ser humano."
+      }
     },
     {
       "id": "biologia-12",
@@ -239,7 +249,12 @@
       },
       "resposta": "d",
       "explicacao": "O modelo do mosaico fluido, de Singer e Nicolson, descreve a membrana como um mosaico de proteínas distribuídas numa bicamada lipídica cujos componentes se deslocam lateralmente. A alternativa (a) acerta o modelo e erra a justificativa: a bicamada é justamente permeável a moléculas apolares pequenas, sendo restritiva a íons e a moléculas polares.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/med/bio-membrana-plasmatica.svg",
+        "descricao": "A estrutura da membrana plasmática, com uma bicamada de fosfolipídios na qual se encontram proteínas em posições variadas: algumas atravessam a bicamada de lado a lado, outras se associam apenas a uma das faces."
+      }
     },
     {
       "id": "biologia-15",
@@ -673,7 +688,12 @@
       "resposta": "c",
       "explicacao": "A pirâmide de energia é sempre ereta, porque a transferência entre níveis tróficos é sempre acompanhada de perda — decorrência direta da segunda lei da termodinâmica. A de números se inverte quando um produtor grande, como uma árvore, sustenta muitos consumidores pequenos. A de biomassa pode inverter em ambientes aquáticos com fitoplâncton de renovação rápida.",
       "formato": "lacunas",
-      "banca": "santacasa"
+      "banca": "santacasa",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/med/bio-cadeia-piramides.svg",
+        "descricao": "Uma cadeia alimentar de ambiente terrestre composta por capim, gafanhotos, sapos e gaviões. Ao lado, três pirâmides ecológicas construídas para essa mesma cadeia apresentam formatos diferentes entre si."
+      }
     },
     {
       "id": "biologia-43",
@@ -719,7 +739,12 @@
       },
       "resposta": "c",
       "explicacao": "As células-guarda abrem o ostíolo quando ganham água e turgor, e o fecham quando a perdem. Em déficit hídrico, o ácido abscísico promove a saída de íons e, com ela, de água, o que murcha as células e fecha o estômato — mecanismo que protege a planta da dessecação. A alternativa (d) descreve o estímulo que produz a abertura, e não o fechamento.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Figura",
+        "arquivo": "assets/med/bio-estomato-aberto-fechado.svg",
+        "descricao": "Células estomáticas da folha de uma planta de mata atlântica em dois momentos distintos. No momento I, as duas células-guarda estão distendidas e o ostíolo encontra-se amplamente aberto. No momento II, as células estão murchas e o ostíolo, fechado."
+      }
     },
     {
       "id": "biologia-46",
@@ -908,7 +933,12 @@
       },
       "resposta": "b",
       "explicacao": "Ingerir carne com cisticercos leva à teníase, com o verme adulto no intestino. Ingerir ovos leva à cisticercose, em que as larvas migram para tecidos — inclusive o nervoso, na neurocisticercose. Como a via da cisticercose é fecal-oral, cozinhar a carne não previne: o que previne é saneamento e higiene das mãos e dos alimentos.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/med/bio-ciclo-platelminto.svg",
+        "descricao": "O ciclo de vida de um verme platelminto. O ser humano ingere carne malpassada contendo larvas e desenvolve o verme adulto no intestino. Em outra via, o ser humano ingere ovos eliminados nas fezes de uma pessoa parasitada e as larvas se alojam em tecidos, inclusive no sistema nervoso."
+      }
     },
     {
       "id": "biologia-58",
@@ -953,7 +983,12 @@
       },
       "resposta": "b",
       "explicacao": "Nos dois grupos a planta visível é o esporófito diploide. A diferença está na fecundação: a pteridófita tem anterozoide flagelado, que precisa de lâmina de água para nadar até a oosfera, enquanto a angiosperma conduz os gametas pelo tubo polínico e por isso independe de água — uma das chaves da conquista de ambientes secos.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/med/bio-ciclos-pteridofita-angiosperma.svg",
+        "descricao": "O ciclo de vida de uma pteridófita e o de uma angiosperma. Nos dois há alternância entre uma fase haploide, produtora de gametas, e uma fase diploide, produtora de esporos. A proporção entre as duas fases, porém, é bastante diferente em cada grupo."
+      }
     },
     {
       "id": "biologia-61",
@@ -1001,7 +1036,12 @@
       "resposta": "c",
       "explicacao": "A via que monta partículas e rompe a célula é o ciclo lítico; a que integra o genoma viral ao cromossomo bacteriano é o lisogênico. Quando o vírus carrega, por engano, um trecho de DNA da bactéria hospedeira para outra célula, o processo é transdução. Conjugação envolve contato direto entre bactérias, e transformação, captação de DNA livre do meio.",
       "formato": "lacunas",
-      "banca": "einstein"
+      "banca": "einstein",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/med/bio-ciclos-bacteriofago.svg",
+        "descricao": "Dois destinos possíveis para um bacteriófago que infecta uma bactéria. Na via I, o material genético viral é replicado e novas partículas são montadas, com posterior rompimento da célula. Na via II, o material genético viral se integra ao cromossomo bacteriano e é replicado junto com ele ao longo de várias gerações."
+      }
     },
     {
       "id": "biologia-64",
@@ -1110,7 +1150,12 @@
       },
       "resposta": "c",
       "explicacao": "A cadeia transportadora de elétrons bombeia prótons para o espaço intermembranar, criando um gradiente eletroquímico. O retorno desses prótons pela ATP sintase movimenta o complexo e produz ATP — é a hipótese quimiosmótica. As cristas aumentam a superfície disponível para esse conjunto de proteínas.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/med/bio-mitocondria-protons.svg",
+        "descricao": "A mitocôndria em corte, com destaque para as invaginações da membrana interna e para o espaço entre as duas membranas. Setas indicam o bombeamento de prótons do interior da organela para esse espaço intermembranar, e a passagem de volta desses prótons por um complexo proteico específico."
+      }
     },
     {
       "id": "biologia-71",
@@ -1171,7 +1216,12 @@
       },
       "resposta": "b",
       "explicacao": "Alga e fungo formando estrutura única é líquen, e sua capacidade de colonizar rocha nua faz dele organismo pioneiro. Hifas associadas a raízes com ganho mútuo são micorrizas. Fungo causando lesão na pele de um hospedeiro é parasitismo. A alternativa (d) inverte micorriza e parasitismo e ainda descreve a micorriza como prejudicial.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/med/bio-associacoes-fungos.svg",
+        "descricao": "Três associações entre organismos de espécies diferentes. Na associação I, uma alga e um fungo formam uma estrutura única capaz de colonizar rochas nuas. Na associação II, hifas fúngicas envolvem raízes de plantas e ampliam a absorção de água e sais. Na associação III, um fungo se instala na pele de um mamífero e provoca lesões."
+      }
     },
     {
       "id": "biologia-75",
@@ -1233,7 +1283,12 @@
       },
       "resposta": "a",
       "explicacao": "O âmnio delimita a cavidade amniótica, cheia de líquido, que amortece choques e impede a dessecação — inovação que viabilizou a reprodução longe da água. Nos placentários o vitelo é reduzido porque a nutrição vem da placenta, e não de uma reserva armazenada no ovo. Armazenar excretas é função do alantoide.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/med/bio-anexos-embrionarios.svg",
+        "descricao": "Os anexos embrionários de um réptil e de um mamífero placentário. Em ambos aparecem âmnio, alantoide e saco vitelínico, mas com funções e proporções distintas em cada grupo."
+      }
     },
     {
       "id": "biologia-79",
@@ -1409,7 +1464,12 @@
       "resposta": "e",
       "explicacao": "A mórula é maciça; quando surge a cavidade central, a blastocele, o embrião passa a ser blástula. A invaginação que origina a endoderme e o intestino primitivo é a gastrulação, e a abertura que ela cria é o blastóporo. O arquêntero é a cavidade interna formada, e não a abertura externa.",
       "formato": "lacunas",
-      "banca": "einstein"
+      "banca": "einstein",
+      "visual": {
+        "tipo": "Figura",
+        "arquivo": "assets/med/bio-desenvolvimento-anfibio.svg",
+        "descricao": "O desenvolvimento inicial de um anfíbio: a partir do zigoto ocorrem divisões sucessivas que formam uma esfera de células, depois uma cavidade central, e em seguida uma invaginação que dá origem a um novo folheto e a uma abertura para o exterior."
+      }
     },
     {
       "id": "biologia-90",
@@ -1500,7 +1560,12 @@
       },
       "resposta": "c",
       "explicacao": "O envelope é uma bicamada lipídica, e sabões e álcool a desorganizam, o que inativa o vírus — base da recomendação de lavar as mãos. As glicoproteínas inseridas nele são justamente os principais antígenos reconhecidos pelo sistema imune, o que descarta (d). Nenhum vírus se replica fora de célula hospedeira.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Figura",
+        "arquivo": "assets/med/bio-virus-envelopado.svg",
+        "descricao": "A estrutura de um vírus envelopado, com material genético, capsídeo proteico e um envoltório externo derivado da membrana da célula hospedeira, no qual se inserem glicoproteínas virais."
+      }
     },
     {
       "id": "biologia-96",
@@ -1534,7 +1599,12 @@
       },
       "resposta": "a",
       "explicacao": "A etapa fotoquímica converte energia luminosa em energia química na forma de ATP e poder redutor na forma de NADPH, e libera oxigênio como subproduto da fotólise da água. Ambos são consumidos no ciclo de Calvin para reduzir o carbono. O oxigênio é liberado, e não reaproveitado, o que descarta (d).",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/med/bio-fotossintese-etapas.svg",
+        "descricao": "As duas etapas da fotossíntese. Na etapa I, que ocorre nos tilacoides, a luz é absorvida e há produção de duas substâncias que serão consumidas na etapa II. Na etapa II, que ocorre no estroma, o gás carbônico é incorporado a um composto de cinco carbonos."
+      }
     },
     {
       "id": "biologia-98",
@@ -2648,7 +2718,12 @@
       "resposta": "a",
       "explicacao": "Pais sem a anomalia com filhos afetados indicam herança recessiva, o que descarta os padrões dominantes de (b) e (d). Para escolher entre autossômica e ligada ao X vale a mulher afetada II-2: se o alelo estivesse no X, ela seria homozigota e teria recebido um alelo mutado de cada progenitor, o que obrigaria o pai I-1, que tem um único X, a manifestar a anomalia. Como I-1 é normal, a hipótese ligada ao X de (c) cai, e resta a autossômica recessiva.",
       "formato": "direta",
-      "dificuldade": "media"
+      "dificuldade": "media",
+      "visual": {
+        "tipo": "Heredograma",
+        "arquivo": "assets/med/bio-heredograma-02.svg",
+        "descricao": "Heredograma de duas gerações. Geração I: o casal I-1, homem sem a anomalia (quadrado vazio), e I-2, mulher sem a anomalia (círculo vazio). Geração II: os três filhos do casal, na ordem II-1, homem com a anomalia (quadrado preenchido), II-2, mulher com a anomalia (círculo preenchido), e II-3, mulher sem a anomalia."
+      }
     },
     {
       "id": "biologia-170",
@@ -2663,7 +2738,12 @@
       },
       "resposta": "c",
       "explicacao": "II-1 é afetada e teve um filho não afetado, III-2: logo ela é heterozigota, pois um homozigoto dominante só geraria descendentes afetados nesse casamento. Do cruzamento Aa x aa, metade da prole é afetada. O sexo é evento independente e vale 1/2. Portanto 1/2 x 1/2 = 1/4. A armadilha é (a): quem responde 1/2 calculou apenas a transmissão do alelo e ignorou a exigência de sexo feminino. Já (e) trata a herança como cota que se esgota, quando cada gestação é um evento independente.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Heredograma",
+        "arquivo": "assets/med/bio-heredograma-03.svg",
+        "descricao": "Heredograma de três gerações. Geração I: I-1, homem afetado, casado com I-2, mulher não afetada. Geração II: o casal teve II-1, mulher afetada, e II-2, homem não afetado; II-1 está casada com II-3, homem não afetado, desenhado à sua esquerda. Geração III: do casal II-1 x II-3 nasceram III-1, menina afetada, e III-2, menino não afetado, e um losango com interrogação representa a terceira gestação, ainda em curso e de sexo desconhecido."
+      }
     },
     {
       "id": "biologia-171",
@@ -2678,7 +2758,12 @@
       },
       "resposta": "d",
       "explicacao": "Um homem hemofílico tem um único X, e ele carrega o alelo da doença; esse X vai obrigatoriamente para todas as suas filhas. Logo II-1 é heterozigota necessariamente, mesmo sem manifestar a doença, e foi dela que veio o X afetado de III-1. A armadilha é (c): homens não são portadores assintomáticos em herança ligada ao X, pois, sendo hemizigotos, qualquer alelo do X se manifesta neles. A opção (b) usa o termo hemizigoto, que se aplica aos homens, não às mulheres.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Heredograma",
+        "arquivo": "assets/med/bio-heredograma-04.svg",
+        "descricao": "Heredograma de três gerações de hemofilia A. Geração I: I-1, homem hemofílico (quadrado preenchido), casado com I-2, mulher sem a doença. Geração II: a filha do casal, II-1, mulher sem a doença, casada com II-2, homem sem a doença. Geração III: III-1, menino hemofílico, e III-2, menina sem a doença."
+      }
     },
     {
       "id": "biologia-172",
@@ -2694,7 +2779,12 @@
       "resposta": "b",
       "explicacao": "II-1 é filha de pai daltônico e recebeu dele o único X que ele possui, com o alelo do daltonismo; da mãe homozigota normal recebeu o alelo normal. Logo é heterozigota obrigatória. No casamento com um homem daltônico, as filhas recebem do pai um X com o alelo do daltonismo e da mãe um X que tem 1/2 de chance de trazer o mesmo alelo: 1/2 das filhas são daltônicas. A armadilha é (c): supor II-1 homozigota dominante ignora que o pai daltônico transmite obrigatoriamente seu X a todas as filhas.",
       "formato": "lacunas",
-      "dificuldade": "media"
+      "dificuldade": "media",
+      "visual": {
+        "tipo": "Heredograma",
+        "arquivo": "assets/med/bio-heredograma-05.svg",
+        "descricao": "Heredograma de duas gerações referente ao daltonismo. Geração I: I-1, homem daltônico (quadrado preenchido), casado com I-2, mulher de visão normal. Geração II: a única filha do casal, II-1, mulher de visão normal, casada com II-2, homem daltônico."
+      }
     },
     {
       "id": "biologia-173",
@@ -2709,7 +2799,12 @@
       },
       "resposta": "e",
       "explicacao": "Alelos recessivos raros circulam em heterozigose sem se manifestar. Como primos herdaram parte de seus alelos dos mesmos avós, a chance de os dois carregarem a mesma versão rara é muito maior do que entre pessoas sem parentesco, e é essa coincidência que produz o homozigoto afetado. A armadilha é (a): a consanguinidade não cria mutações, apenas reúne em homozigose alelos que já existiam na família. E (b) inverte a lógica, pois alelo dominante raro se manifesta em heterozigose e não depende de consanguinidade alguma.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Heredograma",
+        "arquivo": "assets/med/bio-heredograma-06.svg",
+        "descricao": "Heredograma de três gerações. Geração I: dois casais, I-1 x I-2 à esquerda e I-3 x I-4 à direita, nenhum deles afetado. Geração II: II-1, homem não afetado, filho do primeiro casal, e II-2, mulher não afetada, filha do segundo; os dois estão ligados por uma linha horizontal dupla, que é a convenção de união consanguínea, por serem primos em primeiro grau. Geração III: III-1, menino afetado (quadrado preenchido), e III-2, menina não afetada."
+      }
     },
     {
       "id": "biologia-174",
@@ -2725,7 +2820,12 @@
       "resposta": "a",
       "explicacao": "A chave está na prole de I-1: todas as filhas afetadas, nenhum filho afetado. Isso é a assinatura da herança dominante ligada ao X, pois o pai transmite seu único X a todas as filhas e o Y a todos os filhos. A armadilha é (c): a herança autossômica dominante também apareceria em todas as gerações, mas atingiria filhos e filhas em proporções semelhantes, e não separaria os sexos de modo tão limpo. A opção (e) cai porque a condição atinge mulheres, o que é incompatível com um gene do Y.",
       "formato": "direta",
-      "dificuldade": "media"
+      "dificuldade": "media",
+      "visual": {
+        "tipo": "Heredograma",
+        "arquivo": "assets/med/bio-heredograma-07.svg",
+        "descricao": "Heredograma de três gerações. Geração I: I-1, homem afetado, casado com I-2, mulher não afetada. Geração II: os quatro filhos do casal, II-1 e II-2, mulheres, ambas afetadas, e II-3 e II-4, homens, nenhum deles afetado; II-1 está casada com um homem não afetado, que o enunciado não numera. Geração III: III-1, menino afetado, e III-2, menina não afetada."
+      }
     },
     {
       "id": "biologia-175",
@@ -2741,7 +2841,12 @@
       "resposta": "c",
       "explicacao": "Do cruzamento Aa x Aa saem 1 AA : 2 Aa : 1 aa. A informação de que II-2 não é afetada elimina a classe aa, e a probabilidade deve ser recalculada dentro do grupo restante: 2 Aa em 3 indivíduos, ou seja, 2/3. A armadilha é (b): quem responde 1/2 usou a proporção de heterozigotos sobre a descendência inteira, sem descontar a informação fenotípica já conhecida. Esse recálculo condicional é exatamente o que faz a diferença nos cálculos de aconselhamento genético.",
       "formato": "direta",
-      "dificuldade": "media"
+      "dificuldade": "media",
+      "visual": {
+        "tipo": "Heredograma",
+        "arquivo": "assets/med/bio-heredograma-08.svg",
+        "descricao": "Heredograma de duas gerações referente à fenilcetonúria. Geração I: I-1, homem não afetado, casado com I-2, mulher não afetada. Geração II: os três filhos do casal, II-1, homem afetado (quadrado preenchido), II-2, mulher não afetada, e II-3, homem não afetado."
+      }
     },
     {
       "id": "biologia-176",
@@ -2757,7 +2862,12 @@
       "resposta": "d",
       "explicacao": "São dois eventos encadeados. Primeiro, II-2 precisa ser heterozigota, o que tem probabilidade 2/3, calculada entre os irmãos não afetados. Segundo, dado que os dois pais sejam Aa, o filho precisa ser aa, o que tem probabilidade 1/4. Multiplicando: 2/3 x 1/4 = 1/6. A armadilha é (a): quem responde 1/4 tratou II-2 como heterozigota certa, quando ela é apenas provavelmente heterozigota. Já (b) para no primeiro fator e esquece a segregação.",
       "formato": "direta",
-      "dificuldade": "dificil"
+      "dificuldade": "dificil",
+      "visual": {
+        "tipo": "Heredograma",
+        "arquivo": "assets/med/bio-heredograma-09.svg",
+        "descricao": "Heredograma da mesma família da fenilcetonúria. Geração I: o casal I-1 x I-2, ambos não afetados. Geração II: seus filhos II-1, homem afetado, II-2, mulher não afetada, e II-3, homem não afetado. II-2 está unida a II-4, homem não afetado, e do casal desce um losango com interrogação, o primeiro filho ainda planejado, de sexo desconhecido. À direita, II-4 aparece também unido a uma parceira anterior, de fenótipo não informado (círculo com interrogação), com quem teve um filho afetado, representado por um losango preenchido."
+      }
     },
     {
       "id": "biologia-177",
@@ -2788,7 +2898,12 @@
       "resposta": "e",
       "explicacao": "Mulher afetada transmite a doença a todos os filhos, homens e mulheres; homem afetado não transmite a nenhum. Esse é o padrão da herança mitocondrial, pois as mitocôndrias do zigoto vêm do citoplasma do óvulo. A armadilha é (a): a herança dominante ligada ao X também faz a mãe afetada transmitir a filhos e filhas, mas um pai afetado transmitiria a doença a todas as suas filhas, o que a genealogia expressamente nega ao mostrar a prole de II-3 inteiramente livre.",
       "formato": "direta",
-      "dificuldade": "dificil"
+      "dificuldade": "dificil",
+      "visual": {
+        "tipo": "Heredograma",
+        "arquivo": "assets/med/bio-heredograma-10.svg",
+        "descricao": "Heredograma de três gerações. Geração I: I-1, mulher afetada (círculo preenchido), casada com I-2, homem não afetado. Geração II: os quatro filhos do casal, duas mulheres e dois homens, todos afetados; o enunciado numera apenas três deles, e o quarto, desenhado à esquerda, fica sem número. II-3, homem afetado, casou-se com II-4, mulher não afetada. Geração III: os três filhos de II-3 x II-4, dois homens e uma mulher, nenhum deles afetado."
+      }
     },
     {
       "id": "biologia-179",
@@ -2817,7 +2932,12 @@
       },
       "resposta": "c",
       "explicacao": "Em herança dominante com penetrância completa, quem não manifesta a doença não carrega o alelo: II-2 e II-3 são homozigotos recessivos, o que descarta (b). E como I-1 é afetado e gerou dois filhos não afetados, ele precisa ter transmitido o alelo normal a eles: logo é heterozigoto, e não homozigoto dominante como diz (a). A opção (d) esquece que a mãe não afetada só pode ter dado a II-1 o alelo normal, o que a torna obrigatoriamente heterozigota.",
-      "formato": "direta"
+      "formato": "direta",
+      "visual": {
+        "tipo": "Heredograma",
+        "arquivo": "assets/med/bio-heredograma-11.svg",
+        "descricao": "Heredograma de duas gerações. Geração I: I-1, homem afetado (quadrado preenchido), casado com I-2, mulher não afetada. Geração II: os três filhos do casal, II-1, mulher afetada, II-2, homem não afetado, e II-3, mulher não afetada."
+      }
     },
     {
       "id": "biologia-181",
@@ -2849,7 +2969,12 @@
       "resposta": "b",
       "explicacao": "I é falsa: sem mulheres afetadas na genealogia, nada exclui a hipótese ligada ao X, que aliás explica bem os dois homens afetados descendendo de mulheres não afetadas. III também é falsa, e essa é a armadilha aritmética: 1/4 valeria se os dois cônjuges fossem heterozigotos comprovados, mas II-3 não tem antecedentes familiares e sua condição de portador é apenas possível, de modo que o risco calculado seria menor que 1/4. II é verdadeira: sendo o gene autossômico, I-1 e I-2 são Aa; sendo ligado ao X, I-2 é heterozigota e I-1 transmite seu Y ao filho afetado, e ambos permanecem não afetados como a genealogia exige.",
       "formato": "escada",
-      "dificuldade": "dificil"
+      "dificuldade": "dificil",
+      "visual": {
+        "tipo": "Heredograma",
+        "arquivo": "assets/med/bio-heredograma-12.svg",
+        "descricao": "Heredograma de três gerações. Geração I: I-1, homem não afetado, casado com I-2, mulher não afetada. Geração II: II-1, homem afetado, e II-2, mulher não afetada; II-2 está casada com II-3, homem não afetado, que vem de fora da família. Geração III: do casal II-2 x II-3 nasceram III-1, menino afetado, e III-2, menina não afetada."
+      }
     },
     {
       "id": "biologia-183",
@@ -2865,7 +2990,12 @@
       "resposta": "e",
       "explicacao": "A doença é dominante e reaparece em III-1, cuja mãe não tem antecedentes: o alelo veio pela linha paterna, ou seja, passou por II-1. Ele possui o alelo e não manifestou o fenótipo, o que define penetrância incompleta, a proporção de portadores que expressam a condição. A armadilha é (d): supor mutação nova em III-1 é possível em tese, mas exige um evento raro justamente na família em que o alelo já circula, hipótese muito menos econômica. Note que penetrância é diferente de expressividade variável, em que o portador manifesta a doença com intensidades diferentes.",
       "formato": "direta",
-      "dificuldade": "dificil"
+      "dificuldade": "dificil",
+      "visual": {
+        "tipo": "Heredograma",
+        "arquivo": "assets/med/bio-heredograma-13.svg",
+        "descricao": "Heredograma de três gerações. Geração I: I-1, homem afetado, casado com I-2, mulher não afetada. Geração II: o filho do casal, II-1, desenhado como quadrado vazio por nunca ter manifestado a doença, casado com II-2, mulher não afetada e sem antecedentes familiares. Geração III: III-1, homem afetado, e III-2, mulher não afetada. A condição aparece em I-1 e em III-1 e salta II-1."
+      }
     },
     {
       "id": "biologia-184",
@@ -2881,7 +3011,12 @@
       "resposta": "a",
       "explicacao": "A mãe I-2 é afetada, portanto homozigota recessiva, e só pode transmitir o alelo mutado a todos os seus descendentes. Como II-1 não manifesta a doença, ela recebeu o alelo normal do pai: é heterozigota com certeza, sem probabilidade envolvida. A armadilha é (b): o valor 2/3 vale para irmãos não afetados de um afetado quando os pais são ambos heterozigotos, situação diferente desta, em que um progenitor é homozigoto recessivo. É o caso do cônjuge II-3, e não de II-1.",
       "formato": "direta",
-      "dificuldade": "media"
+      "dificuldade": "media",
+      "visual": {
+        "tipo": "Heredograma",
+        "arquivo": "assets/med/bio-heredograma-14.svg",
+        "descricao": "Heredograma de duas gerações com duas famílias lado a lado. À direita: I-1, homem não afetado, casado com I-2, mulher afetada (círculo preenchido); os filhos do casal são II-1, mulher não afetada, e II-2, homem não afetado. À esquerda: os pais de II-3, ambos não afetados e sem número no enunciado, com dois filhos, uma mulher afetada, também sem número, e II-3, homem não afetado. II-1 e II-3 estão casados entre si."
+      }
     },
     {
       "id": "biologia-185",
@@ -2911,7 +3046,12 @@
       "resposta": "d",
       "explicacao": "Se a herança fosse dominante ligada ao X, o pai afetado I-1 transmitiria seu único X, com o alelo da doença, a todas as filhas, que seriam obrigatoriamente afetadas. Mas II-1 é uma filha não afetada, e isso derruba a hipótese. A herança ligada ao Y também cai, mas por outra razão: há mulheres afetadas. A armadilha é (a): dois afetados com filhos não afetados é justamente o esperado em herança autossômica dominante quando ambos são heterozigotos, cruzamento que produz 3 afetados : 1 não afetado, e não uma exclusão.",
       "formato": "direta",
-      "dificuldade": "dificil"
+      "dificuldade": "dificil",
+      "visual": {
+        "tipo": "Heredograma",
+        "arquivo": "assets/med/bio-heredograma-15.svg",
+        "descricao": "Heredograma de duas gerações. Geração I: I-1, homem afetado, casado com I-2, mulher afetada; os dois símbolos aparecem preenchidos. Geração II: os quatro filhos do casal, II-1, mulher não afetada, II-2, homem afetado, II-3, mulher afetada, e II-4, homem não afetado."
+      }
     },
     {
       "id": "biologia-187",
@@ -3175,6 +3315,486 @@
       "explicacao": "Associação estatística não é determinação. A maioria das variantes de suscetibilidade desloca o risco em uma população, e a manifestação depende de outros genes, do ambiente e do acaso. Confundir risco relativo com certeza gera angústia desproporcional e decisões clínicas mal fundamentadas, e é por isso que o aconselhamento genético é parte do procedimento. A armadilha é (a), que trata a variante como sentença. Já (c) contraria o fato de a sequência germinativa ser estável ao longo da vida.",
       "formato": "direta",
       "dificuldade": "media"
+    },
+    {
+      "id": "biologia-204",
+      "texto_apoio": "O néfron é a unidade funcional do rim. Cada um dos dois rins humanos possui cerca de um milhão deles, e o conjunto filtra em torno de 180 litros de plasma por dia, dos quais menos de dois saem como urina.",
+      "enunciado": "A formação da urina no néfron envolve filtração glomerular, reabsorção tubular e secreção tubular. A ordem em que o filtrado percorre as estruturas e o sentido de cada processo são:",
+      "alternativas": {
+        "a": "cápsula de Bowman, túbulo contorcido proximal, alça de Henle e túbulo coletor, com reabsorção do túbulo para o sangue e secreção do sangue para o túbulo",
+        "b": "glomérulo, alça de Henle, cápsula de Bowman e ureter, com reabsorção e secreção ocorrendo ambas no sentido do sangue para a luz tubular do néfron",
+        "c": "túbulo coletor, alça de Henle, túbulo proximal e cápsula de Bowman, de modo que o filtrado se torna mais diluído à medida que avança pelo córtex renal",
+        "d": "cápsula de Bowman, ureter, bexiga e alça de Henle, com a composição final da urina definida apenas depois que ela deixa o rim e alcança a via urinária baixa",
+        "e": "alça de Henle, glomérulo e túbulo distal, com a secreção devolvendo ao sangue as substâncias que a filtração havia retirado dele no início do percurso"
+      },
+      "resposta": "a",
+      "explicacao": "O filtrado formado na cápsula de Bowman segue pelo túbulo contorcido proximal, alça de Henle, túbulo distal e ducto coletor. Reabsorção é a passagem do túbulo de volta ao sangue; secreção é o caminho inverso, do capilar peritubular para a luz tubular. Inverter os sentidos da reabsorção e da secreção, ou deslocar para o ureter um ajuste que já terminou dentro do néfron, são os dois erros mais comuns aqui.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-205",
+      "texto_apoio": "A parede do capilar glomerular, a membrana basal e os podócitos formam a barreira de filtração renal. A composição do filtrado que atravessa essas três camadas é praticamente a do plasma, com uma exceção importante.",
+      "enunciado": "A barreira de filtração glomerular retém as proteínas plasmáticas e deixa passar água, glicose e ureia. O critério que explica essa seletividade é:",
+      "alternativas": {
+        "a": "a solubilidade em lipídeos, de modo que apenas as substâncias apolares atravessam a parede do capilar glomerular e chegam à cápsula de Bowman",
+        "b": "o tamanho e a carga elétrica das moléculas, pois os poros do endotélio e a membrana basal, rica em cargas negativas, barram macromoléculas aniônicas como a albumina",
+        "c": "a existência de bombas de transporte ativo na cápsula de Bowman, que selecionam individualmente cada soluto que será ou não incorporado ao filtrado inicial",
+        "d": "a temperatura do sangue no glomérulo, que se mantém alta o bastante para desnaturar as proteínas antes que elas alcancem a luz do túbulo contorcido proximal e sigam adiante pelo néfron",
+        "e": "a velocidade do fluxo sanguíneo na arteríola aferente, que arrasta as moléculas menores e deixa para trás aquelas de massa molecular mais elevada"
+      },
+      "resposta": "b",
+      "explicacao": "A filtração glomerular é passiva e depende da pressão hidrostática; a seletividade vem do tamanho do poro e da carga negativa da membrana basal, que repele proteínas aniônicas. Não há transporte ativo nem seleção soluto a soluto na etapa de filtração. A presença de proteína na urina indica lesão dessa barreira.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-206",
+      "texto_apoio": "Mamíferos do deserto produzem urina muito mais concentrada que a humana, e a diferença acompanha o comprimento de um segmento específico do néfron. A observação levou à descrição do mecanismo que concentra a urina.",
+      "enunciado": "A alça de Henle permite que o rim humano produza urina mais concentrada que o plasma. O mecanismo responsável é:",
+      "alternativas": {
+        "a": "a secreção ativa de água do interstício para a luz tubular, processo que dilui a medula renal e permite ao ducto coletor devolver sódio ao plasma",
+        "b": "a filtração de sais diretamente do interstício medular para o interior da alça, que eleva a osmolaridade do filtrado antes mesmo da chegada do líquido ao túbulo contorcido distal",
+        "c": "a multiplicação contracorrente, em que o ramo ascendente transporta sais para o interstício e o ramo descendente, permeável à água, concentra o filtrado",
+        "d": "a contração rítmica da musculatura da alça, que empurra o filtrado contra o gradiente osmótico e força a saída de água pelas paredes do segmento fino",
+        "e": "a produção local de ureia pelas células tubulares da alça, que consome água do filtrado e responde sozinha pelo gradiente osmótico da medula renal"
+      },
+      "resposta": "c",
+      "explicacao": "O ramo ascendente espesso é impermeável à água e bombeia NaCl para o interstício; o ramo descendente é permeável à água e a perde para esse interstício hipertônico. O arranjo em U multiplica um gradiente pequeno ao longo da medula, e é esse gradiente que o hormônio antidiurético usa depois, no ducto coletor.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-207",
+      "texto_apoio": "Dois quadros clínicos distintos receberam historicamente o mesmo nome, diabetes, por compartilharem o aumento do volume urinário. A dosagem de glicose no sangue separa um do outro.",
+      "enunciado": "Uma pessoa com diabetes insipidus central elimina grande volume de urina muito diluída, sem alteração da glicemia. A causa desse quadro é:",
+      "alternativas": {
+        "a": "a elevação da aldosterona, que retém sódio no interstício medular e obriga o rim a excretar água em quantidade proporcional ao sal acumulado ali",
+        "b": "o excesso de insulina circulante, que arrasta água para a luz tubular junto com a glicose reabsorvida no túbulo contorcido proximal do néfron",
+        "c": "a destruição dos glomérulos, que impede a formação do filtrado e faz com que o volume eliminado corresponda apenas à secreção tubular residual",
+        "d": "a produção insuficiente de hormônio antidiurético, o que reduz a inserção de aquaporinas no ducto coletor e diminui a reabsorção de água",
+        "e": "a obstrução dos ureteres, que aumenta a pressão dentro da cápsula de Bowman e eleva de forma sustentada a taxa de filtração glomerular do paciente"
+      },
+      "resposta": "d",
+      "explicacao": "Sem hormônio antidiurético, o ducto coletor permanece impermeável à água: o gradiente da medula existe, mas a água não o acompanha, e a urina sai abundante e diluída. O nome 'diabetes' se refere ao volume urinário, não ao açúcar — a glicemia é normal, o que separa esse quadro do diabetes melito.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-208",
+      "texto_apoio": "O córtex das glândulas adrenais produz três classes de esteroides. Uma delas atua sobre o transporte de sais no néfron e participa do controle da pressão arterial e do potássio plasmático.",
+      "enunciado": "A aldosterona é produzida ______, atua principalmente ______ e tem como efeito ______. As lacunas são preenchidas por:",
+      "alternativas": {
+        "a": "pela tireoide – no ureter – o relaxamento da musculatura lisa da via urinária e a aceleração do esvaziamento da bexiga durante a diurese",
+        "b": "pela neuro-hipófise – na cápsula de Bowman – o aumento da taxa de filtração glomerular e a queda da pressão arterial média",
+        "c": "pelo rim – na alça de Henle – a eliminação de sódio pela urina e a retenção de potássio no compartimento extracelular do organismo",
+        "d": "pelo pâncreas endócrino – no túbulo proximal – a reabsorção de glicose e a excreção do excesso de bicarbonato produzido no metabolismo",
+        "e": "pelo córtex da glândula adrenal – no túbulo distal e no ducto coletor – a reabsorção de sódio e a secreção de potássio"
+      },
+      "resposta": "e",
+      "explicacao": "A aldosterona é um mineralocorticoide do córtex adrenal. Ela age no néfron distal reabsorvendo sódio — e água atrás dele — enquanto secreta potássio. Por isso o hiperaldosteronismo cursa com hipertensão e hipocalemia. O hormônio antidiurético, ao contrário, vem da neuro-hipófise e age sobre a água, não sobre o sódio.",
+      "formato": "lacunas"
+    },
+    {
+      "id": "biologia-209",
+      "texto_apoio": "A queda da perfusão renal, seja por hemorragia, desidratação ou estenose da artéria renal, dispara uma cascata hormonal que envolve rim, fígado, pulmão e glândula adrenal. Boa parte dos anti-hipertensivos atua sobre alguma etapa dela.",
+      "enunciado": "A queda da pressão arterial ativa o sistema renina-angiotensina-aldosterona. A sequência fisiológica desencadeada é:",
+      "alternativas": {
+        "a": "o rim libera renina, forma-se angiotensina II, que causa vasoconstrição e estimula a secreção de aldosterona, elevando a retenção de sódio e água",
+        "b": "o rim libera insulina, que dilata as arteríolas renais e aumenta a filtração glomerular até que o volume urinário reponha a pressão perdida",
+        "c": "a hipófise libera renina, que atua diretamente sobre o coração elevando a frequência dos batimentos e, com isso, o débito cardíaco em repouso",
+        "d": "o fígado libera angiotensina II pronta, que inibe a aldosterona e provoca a eliminação rápida de sódio, reduzindo ainda mais o volume plasmático",
+        "e": "a adrenal libera renina, que converte a ureia em amônia e assim reduz a osmolaridade do plasma até o restabelecimento do volume circulante normal"
+      },
+      "resposta": "a",
+      "explicacao": "A renina é secretada pelo aparelho justaglomerular do rim quando cai a perfusão renal. Ela inicia a cascata que gera angiotensina II, potente vasoconstritora e estimuladora da aldosterona. O fígado produz o angiotensinogênio, e não a angiotensina II pronta. É por essa via que os anti-hipertensivos que bloqueiam a enzima conversora atuam.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-210",
+      "texto_apoio": "Em pessoas saudáveis, a fita reagente do exame de urina não detecta glicose. Em quadros de diabetes descompensada ela detecta, e a mudança ocorre a partir de um valor de glicemia razoavelmente previsível.",
+      "enunciado": "Em uma pessoa saudável não há glicose na urina, mas ela aparece quando a glicemia se eleva muito. A explicação para o limiar é:",
+      "alternativas": {
+        "a": "a glicose deixa de ser filtrada no glomérulo quando sua concentração no plasma ultrapassa o valor de referência considerado normal para o jejum",
+        "b": "os transportadores de glicose do túbulo proximal são saturáveis, e acima de certa concentração no filtrado o excedente segue pelo túbulo e é excretado",
+        "c": "a insulina passa a ser secretada na luz tubular e leva a glicose consigo, o que explica por que a glicosúria acompanha a elevação desse hormônio",
+        "d": "a glicose é convertida em ureia pelas células do túbulo distal, e essa conversão cessa quando o fígado atinge o limite de sua própria capacidade metabólica de conversão",
+        "e": "a alça de Henle deixa de reabsorver água em concentrações elevadas de açúcar, e a urina resultante fica diluída o bastante para carregar a glicose"
+      },
+      "resposta": "b",
+      "explicacao": "A glicose é livremente filtrada e normalmente reabsorvida por inteiro no túbulo contorcido proximal por cotransporte com sódio. Como o número de transportadores é finito, existe um limiar — em torno de 180 mg/dL — acima do qual a reabsorção satura e o excedente aparece na urina, arrastando água por osmose e explicando a poliúria do diabetes descompensado.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-211",
+      "texto_apoio": "A creatina armazenada no músculo esquelético se converte espontaneamente em creatinina em ritmo proporcional à massa muscular do indivíduo. A substância cai na circulação e é eliminada pelos rins.",
+      "enunciado": "A dosagem de creatinina no sangue é usada na avaliação da função renal. A propriedade que torna essa substância útil para esse fim é:",
+      "alternativas": {
+        "a": "ela é reabsorvida por inteiro no túbulo proximal, e sua presença na urina significa que houve lesão da barreira de filtração do glomérulo renal",
+        "b": "ela é secretada pelo fígado apenas em situações de sobrecarga proteica, o que permite estimar a quantidade de proteína ingerida na dieta recente do paciente avaliado",
+        "c": "ela é produzida em taxa constante pelo músculo e filtrada no glomérulo sem reabsorção relevante, de modo que sua elevação no plasma indica queda da filtração",
+        "d": "ela se acumula na bexiga em proporção direta ao volume de água ingerido, servindo como medida indireta do estado de hidratação do organismo",
+        "e": "ela é degradada pelas células da alça de Henle, e a sua concentração plasmática reflete a integridade específica desse segmento do néfron"
+      },
+      "resposta": "c",
+      "explicacao": "A creatinina vem da degradação da creatina muscular em ritmo praticamente constante e é eliminada quase só por filtração. Se a filtração cai, ela se acumula no plasma. É por isso que a creatinina sérica sobe na insuficiência renal, e que o clearance de creatinina estima a taxa de filtração glomerular.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-212",
+      "texto_apoio": "Peixes ósseos de água doce, mamíferos e aves eliminam produtos nitrogenados diferentes. A escolha evolutiva de cada grupo se relaciona à toxicidade da molécula e à quantidade de água disponível para diluí-la.",
+      "enunciado": "Animais que excretam ______ gastam pouca energia e muita água; os que excretam ______ produzem uma excreta menos tóxica, própria de quem tem água disponível mas precisa acumulá-la no ovo ou no corpo; e os ______ eliminam ácido úrico, quase sem perda hídrica. As lacunas são preenchidas por:",
+      "alternativas": {
+        "a": "amônia – ácido úrico – ureotélicos",
+        "b": "ureia – ácido úrico – amoniotélicos",
+        "c": "ácido úrico – amônia – ureotélicos",
+        "d": "amônia – ureia – uricotélicos",
+        "e": "ureia – amônia – uricotélicos"
+      },
+      "resposta": "d",
+      "explicacao": "A amônia é muito tóxica e exige grande diluição, o que só compensa para animais aquáticos — são os amoniotélicos. A ureia, sintetizada no fígado, é menos tóxica e permite economia de água: mamíferos são ureotélicos. O ácido úrico é insolúvel e sai em pasta, com perda hídrica mínima, o que caracteriza aves e répteis uricotélicos.",
+      "formato": "lacunas"
+    },
+    {
+      "id": "biologia-213",
+      "texto_apoio": "A hemodiálise faz o sangue do paciente circular por um filtro externo, em sessões de algumas horas, três vezes por semana. Pacientes em programa crônico costumam receber medicamentos adicionais entre as sessões.",
+      "enunciado": "A hemodiálise é indicada quando os rins perdem a capacidade de depurar o sangue. A função renal que o procedimento substitui e a que ele não substitui são, respectivamente:",
+      "alternativas": {
+        "a": "a produção de renina pelo aparelho justaglomerular; e a eliminação de gás carbônico, que passa a ser feita pelo circuito extracorpóreo da máquina durante a sessão",
+        "b": "a produção de urina concentrada; e a filtração glomerular, que permanece preservada mesmo nos estágios finais da doença renal crônica do adulto",
+        "c": "a síntese de hormônio antidiurético; e a reabsorção de glicose no túbulo proximal, que passa a depender do transporte realizado pela máquina",
+        "d": "o armazenamento de urina na bexiga; e a secreção tubular de potássio, integralmente reposta pela composição do líquido usado na sessão de diálise",
+        "e": "a remoção de ureia e o ajuste de água e eletrólitos; e a produção de eritropoetina, que continua deficiente e explica a anemia do paciente renal crônico"
+      },
+      "resposta": "e",
+      "explicacao": "A diálise faz o trabalho depurativo e osmótico do rim: retira ureia, creatinina, potássio e água em excesso. O que ela não faz é o trabalho endócrino — o rim doente continua produzindo pouca eritropoetina e pouca vitamina D ativa, e é por isso que o paciente em diálise costuma precisar de eritropoetina sintética para tratar a anemia.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-214",
+      "texto_apoio": "O pH do sangue arterial é mantido entre 7,35 e 7,45. Dois órgãos participam desse controle, em escalas de tempo bastante diferentes: um responde em minutos e o outro em horas ou dias.",
+      "enunciado": "Além de filtrar o sangue, o rim participa da regulação do pH. O mecanismo renal envolvido nessa função é:",
+      "alternativas": {
+        "a": "a secreção de íons hidrogênio para a luz tubular e a reabsorção de bicarbonato, ajuste lento porém capaz de corrigir desvios prolongados do equilíbrio ácido-base",
+        "b": "a eliminação direta de gás carbônico pela urina, que compartilha com o pulmão a via de saída desse produto do metabolismo celular dos tecidos",
+        "c": "a produção de ácido clorídrico pelas células do túbulo distal, que acidifica o plasma quando a respiração se torna insuficiente para tanto",
+        "d": "a conversão de bicarbonato em ureia no glomérulo, reação que consome prótons e devolve ao sangue o pH que ele havia perdido durante o exercício físico mais intenso",
+        "e": "o bloqueio da filtração glomerular em situações de acidose, o que retém no sangue as bases necessárias à correção rápida do desvio observado"
+      },
+      "resposta": "a",
+      "explicacao": "Pulmão e rim dividem o controle do pH: o pulmão ajusta o CO2 em minutos, o rim ajusta H+ e bicarbonato em horas a dias. O túbulo secreta H+ e recupera bicarbonato filtrado, o que corrige distúrbios metabólicos persistentes. Gás carbônico sai pelo pulmão, e não pela urina.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-215",
+      "texto_apoio": "A anemia é achado frequente na doença renal crônica avançada e costuma não melhorar com suplementação de ferro isolada. O tratamento habitual envolve uma medicação de origem biotecnológica.",
+      "enunciado": "Um paciente com insuficiência renal crônica apresenta anemia que não responde à reposição de ferro. A explicação fisiológica é:",
+      "alternativas": {
+        "a": "a ureia acumulada no plasma se liga ao ferro da dieta e impede sua absorção intestinal, de modo que a reposição feita por via oral não alcança a medula óssea do paciente",
+        "b": "o rim lesado produz pouca eritropoetina, hormônio que estimula a medula óssea a formar hemácias, e sem esse estímulo o ferro disponível não é aproveitado",
+        "c": "o rim deixa de filtrar as hemácias velhas, que se acumulam na circulação e inibem por retroalimentação a produção de células novas pela medula óssea",
+        "d": "a queda da filtração glomerular reduz a oferta de oxigênio aos tecidos e desencadeia a destruição das hemácias recém-formadas pelo baço do paciente",
+        "e": "a diálise remove o ferro do plasma a cada sessão, em quantidade equivalente à que havia sido reposta, e o balanço do mineral permanece negativo"
+      },
+      "resposta": "b",
+      "explicacao": "A eritropoetina é produzida por células renais sensíveis à oxigenação. Na doença renal crônica essa produção cai, e a medula não recebe o sinal para produzir hemácias — daí a anemia refratária ao ferro e a indicação de eritropoetina recombinante. O rim não filtra hemácias: elas são grandes demais para a barreira glomerular.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-216",
+      "texto_apoio": "Mesmo em repouso, o neurônio mantém uma diferença de potencial elétrico entre o interior e o exterior da membrana. Manter essa diferença tem custo energético, e o tecido nervoso está entre os que mais consomem energia no organismo.",
+      "enunciado": "O potencial de repouso do neurônio é de cerca de -70 mV. A estrutura responsável por manter essa diferença de potencial é:",
+      "alternativas": {
+        "a": "a bainha de mielina, cuja natureza lipídica impede por completo o movimento de íons através da membrana em qualquer região do axônio do neurônio",
+        "b": "o canal de cálcio dependente de voltagem, que permanece aberto no repouso e permite a entrada contínua desse íon no interior do corpo celular",
+        "c": "a bomba de sódio e potássio, que retira três íons sódio para cada dois potássios que introduz, gastando ATP e mantendo o interior negativo em relação ao meio",
+        "d": "a fenda sináptica, que acumula neurotransmissores carregados negativamente e assim estabelece o potencial elétrico observado no interior do corpo celular durante o repouso",
+        "e": "o retículo endoplasmático rugoso, que sintetiza as proteínas responsáveis por transportar cargas positivas do citoplasma para o núcleo da célula"
+      },
+      "resposta": "c",
+      "explicacao": "A bomba de sódio e potássio é eletrogênica: ao trocar 3 Na+ por 2 K+ ela retira mais carga positiva do que introduz. Somada à permeabilidade de repouso ao potássio, ela mantém o interior negativo. O gasto de ATP é a razão de o tecido nervoso consumir tanta energia mesmo em repouso.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-217",
+      "texto_apoio": "Quando um estímulo leva a membrana do neurônio a atingir o valor limiar, desencadeia-se uma sequência rápida e estereotipada de alterações do potencial de membrana, que se propaga ao longo do axônio.",
+      "enunciado": "Durante o potencial de ação, a fase de despolarização decorre de:",
+      "alternativas": {
+        "a": "parada da bomba de sódio e potássio, cujo consumo de ATP se torna incompatível com a velocidade exigida pela transmissão do impulso nervoso",
+        "b": "saída de íons potássio pelos canais de vazamento, movimento que torna o interior da célula ainda mais negativo do que estava durante o repouso",
+        "c": "entrada de íons cloreto atraídos pelas cargas positivas acumuladas no citoplasma do neurônio ao longo do intervalo entre dois estímulos sucessivos",
+        "d": "abertura de canais de sódio dependentes de voltagem e entrada maciça desse íon, o que inverte momentaneamente a polaridade da membrana do axônio",
+        "e": "liberação de neurotransmissores pelo próprio axônio, que se ligam a receptores da mesma célula e alteram por conta disso o potencial de membrana"
+      },
+      "resposta": "d",
+      "explicacao": "Atingido o limiar, canais de sódio dependentes de voltagem se abrem e o íon entra a favor de seu gradiente eletroquímico, levando a membrana de -70 mV a valores positivos. A repolarização vem depois, com a saída de potássio. A bomba não para: ela restabelece os gradientes ao longo do tempo, e não a cada disparo.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-218",
+      "texto_apoio": "Fibras nervosas humanas conduzem impulsos em velocidades que vão de cerca de um a mais de cem metros por segundo. A diferença se relaciona ao diâmetro da fibra e à presença de um revestimento produzido por células da glia.",
+      "enunciado": "Fibras nervosas mielinizadas conduzem o impulso mais rápido que as amielínicas. O motivo dessa diferença é:",
+      "alternativas": {
+        "a": "os neurotransmissores atravessam a mielina por difusão simples e alcançam a célula seguinte sem depender da despolarização progressiva da membrana",
+        "b": "a mielina conduz eletricidade melhor que o citoplasma, e por isso o impulso percorre a bainha em vez de percorrer o interior do axônio revestido por ela ao longo da fibra nervosa",
+        "c": "as fibras mielinizadas possuem mais bombas de sódio e potássio por unidade de área, o que acelera a repolarização e reduz o período refratário absoluto",
+        "d": "a bainha de mielina aumenta o diâmetro do axônio a ponto de eliminar a resistência interna à passagem da corrente ao longo de todo o seu comprimento",
+        "e": "o potencial de ação só se regenera nos nodos de Ranvier, e a corrente salta de um nodo a outro pelo interior do axônio, num processo chamado condução saltatória"
+      },
+      "resposta": "e",
+      "explicacao": "A mielina isola eletricamente o axônio e concentra os canais de sódio nos nodos de Ranvier. O potencial de ação é regenerado apenas ali, e a corrente flui passivamente entre nodos — daí o nome condução saltatória. A mielina é isolante, e não condutora. Sua destruição, como na esclerose múltipla, lentifica ou bloqueia a condução.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-219",
+      "texto_apoio": "O exame neurológico de rotina inclui a percussão do tendão patelar com um martelo. A resposta é rápida e ocorre antes que a pessoa relate ter sentido a batida.",
+      "enunciado": "O reflexo patelar produz a extensão da perna antes que o indivíduo perceba conscientemente o estímulo. A explicação neural é:",
+      "alternativas": {
+        "a": "o arco reflexo se fecha na medula espinhal, com neurônio sensitivo e motor conectados ali, e o sinal só depois sobe ao encéfalo para se tornar consciente",
+        "b": "o estímulo é conduzido primeiro ao córtex cerebral, que envia a ordem motora de volta pela mesma via sensitiva por onde o sinal havia chegado",
+        "c": "a resposta parte do cerebelo, estrutura que recebe a informação diretamente do tendão e dispensa a participação da medula espinhal no circuito",
+        "d": "o músculo se contrai por estímulo mecânico direto, sem participação de neurônio algum, o que explica a rapidez observada durante o exame clínico de rotina no consultório",
+        "e": "o impulso percorre o nervo em velocidade superior à do potencial de ação comum, por se tratar de fibra amielínica de grande diâmetro no trajeto"
+      },
+      "resposta": "a",
+      "explicacao": "No arco reflexo medular a informação entra pela raiz dorsal, faz sinapse na medula e sai pela raiz ventral, sem esperar o encéfalo. A percepção consciente ocorre em paralelo, pelas vias ascendentes — por isso a pessoa vê a perna se mover e só então registra a batida. É essa a razão de o reflexo servir para avaliar a integridade de um segmento medular.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-220",
+      "texto_apoio": "O sistema nervoso autônomo controla vísceras, vasos e glândulas de modo involuntário e se organiza em duas divisões de efeitos em geral opostos sobre o mesmo órgão.",
+      "enunciado": "Diante de um susto, a divisão ______ do sistema nervoso autônomo é ativada, o que ______ a frequência cardíaca e ______ a motilidade do tubo digestório. As lacunas são preenchidas por:",
+      "alternativas": {
+        "a": "parassimpática – reduz – aumenta",
+        "b": "simpática – aumenta – reduz",
+        "c": "simpática – reduz – aumenta",
+        "d": "parassimpática – aumenta – reduz",
+        "e": "somática – aumenta – mantém inalterada"
+      },
+      "resposta": "b",
+      "explicacao": "O simpático prepara o organismo para gasto imediato de energia: acelera o coração, dilata os brônquios e a pupila, e desvia o fluxo do trato digestório para a musculatura esquelética. O parassimpático faz o oposto, e predomina no repouso e na digestão. O sistema somático controla músculo esquelético voluntário, e não vísceras.",
+      "formato": "lacunas"
+    },
+    {
+      "id": "biologia-221",
+      "texto_apoio": "Lesões de diferentes regiões do encéfalo produzem quadros clínicos característicos, e é essa correspondência que permite localizar a lesão pelo exame do paciente antes de qualquer exame de imagem.",
+      "enunciado": "Uma lesão restrita ao cerebelo produz, caracteristicamente:",
+      "alternativas": {
+        "a": "parada dos movimentos respiratórios e da atividade cardíaca, uma vez que os centros que comandam essas funções se localizam nessa estrutura",
+        "b": "paralisia completa do lado oposto do corpo, acompanhada da perda de toda a sensibilidade tátil e dolorosa daquele mesmo hemicorpo do paciente",
+        "c": "perda de equilíbrio e de coordenação dos movimentos, com preservação da força muscular e da capacidade de decidir realizar o movimento",
+        "d": "cegueira cortical, com pupilas que deixam de reagir à luz por interrupção da via que leva a informação da retina até o córtex occipital",
+        "e": "perda da memória de longo prazo e da capacidade de reconhecer rostos familiares, sintomas atribuídos à destruição das conexões do hipocampo"
+      },
+      "resposta": "c",
+      "explicacao": "O cerebelo ajusta e coordena o movimento planejado em outro lugar: ele não o inicia nem fornece força. A lesão dá ataxia e desequilíbrio com força preservada. Os centros cardiorrespiratórios ficam no bulbo, e a paralisia com perda sensitiva contralateral aponta lesão de hemisfério cerebral.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-222",
+      "texto_apoio": "Uma pessoa consegue prender a respiração voluntariamente por algum tempo, mas não indefinidamente. O centro que retoma o comando fica no tronco encefálico e responde a um sinal químico específico.",
+      "enunciado": "O bulbo aumenta a frequência e a profundidade dos movimentos respiratórios principalmente em resposta a:",
+      "alternativas": {
+        "a": "distensão da parede do estômago após a refeição, sinal conduzido pelo nervo vago até o centro respiratório e responsável pela taquipneia observada logo depois das refeições mais volumosas",
+        "b": "queda isolada da concentração de oxigênio, que é o estímulo mais sensível do controle da ventilação em pessoas com pulmões saudáveis em repouso",
+        "c": "aumento da temperatura da pele, informação enviada ao bulbo pelos receptores táteis e transformada ali em comando de aceleração da respiração",
+        "d": "elevação da concentração de gás carbônico e queda do pH do sangue, detectadas por quimiorreceptores centrais e periféricos que informam o centro respiratório",
+        "e": "elevação da glicemia detectada por receptores do tronco encefálico, que ajustam a ventilação à quantidade de substrato disponível para as células"
+      },
+      "resposta": "d",
+      "explicacao": "O estímulo primário da ventilação é o CO2, por meio do pH do líquido cefalorraquidiano lido pelos quimiorreceptores centrais do bulbo. A hipóxia atua por quimiorreceptores periféricos e só se torna dominante em quedas acentuadas de oxigênio. Por isso prender a respiração é vencido pelo acúmulo de CO2, e não pela falta de O2.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-223",
+      "texto_apoio": "A superfície total dos alvéolos de um adulto é comparável à de uma quadra de tênis, e a barreira que separa o ar do sangue tem menos de um micrômetro de espessura.",
+      "enunciado": "A hematose ocorre na interface entre alvéolo e capilar pulmonar. O processo físico responsável pela passagem dos gases é:",
+      "alternativas": {
+        "a": "a endocitose de bolhas de ar pelas células do alvéolo, que as transferem em seguida ao plasma na forma de vesículas ricas em oxigênio dissolvido",
+        "b": "o transporte ativo realizado pelo epitélio alveolar, que consome ATP para bombear oxigênio contra o gradiente até o interior do capilar sanguíneo pulmonar",
+        "c": "a osmose através da membrana alveolar, movimento de água que arrasta consigo os gases dissolvidos no ar contido no interior do alvéolo pulmonar",
+        "d": "a filtração provocada pela pressão hidrostática do sangue, que empurra o gás carbônico do capilar para o alvéolo durante a fase de expiração",
+        "e": "a difusão simples a favor do gradiente de pressão parcial de cada gás, sem gasto de energia pelas células que formam a parede alveolar e a capilar"
+      },
+      "resposta": "e",
+      "explicacao": "Oxigênio e gás carbônico atravessam a barreira alveolocapilar por difusão simples, cada um a favor de sua própria pressão parcial. A finura dessa barreira e a enorme superfície dos alvéolos tornam a troca eficiente sem qualquer gasto energético. Doenças que espessam a barreira, como a fibrose pulmonar, comprometem exatamente essa etapa.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-224",
+      "texto_apoio": "O gás carbônico produzido no metabolismo celular precisa chegar ao pulmão para ser eliminado. Apenas uma fração pequena viaja dissolvida no plasma na forma de gás.",
+      "enunciado": "A maior parte do gás carbônico produzido nos tecidos é transportada no sangue na forma de:",
+      "alternativas": {
+        "a": "íon bicarbonato dissolvido no plasma, formado dentro da hemácia pela ação da anidrase carbônica sobre o gás carbônico e a água",
+        "b": "gás dissolvido diretamente no plasma, uma vez que a solubilidade do gás carbônico dispensa qualquer transformação química para o transporte",
+        "c": "carboxi-hemoglobina, complexo estável em que o gás ocupa o mesmo sítio do heme utilizado pelo oxigênio durante o trajeto até o pulmão",
+        "d": "ácido úrico produzido no fígado a partir do carbono recebido dos tecidos periféricos e eliminado em seguida pelos rins junto com a urina",
+        "e": "bolhas microscópicas transportadas pelas plaquetas, que as liberam no capilar pulmonar no momento em que ocorre a troca gasosa alveolar"
+      },
+      "resposta": "a",
+      "explicacao": "Cerca de 70% do CO2 viaja como bicarbonato: a anidrase carbônica da hemácia acelera a reação com água, formando ácido carbônico que se dissocia em H+ e HCO3-. Uma parcela menor vai ligada à globina, como carbamino-hemoglobina, e o restante dissolvido. É essa química que liga a respiração ao equilíbrio ácido-base.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-225",
+      "texto_apoio": "Recém-nascidos prematuros com menos de 34 semanas apresentam com frequência dificuldade respiratória grave nas primeiras horas de vida. O tratamento inclui a administração da substância que lhes falta.",
+      "enunciado": "O surfactante pulmonar é produzido pelos pneumócitos tipo II e sua ausência caracteriza a síndrome do desconforto respiratório do recém-nascido prematuro. A função dessa substância é:",
+      "alternativas": {
+        "a": "aumentar a tensão superficial do líquido alveolar, tornando a parede mais rígida e protegendo o alvéolo contra a distensão excessiva na inspiração",
+        "b": "reduzir a tensão superficial no interior do alvéolo, o que diminui o esforço necessário para insuflá-lo e evita seu colapso ao final da expiração",
+        "c": "transportar o oxigênio do ar alveolar até o interior do capilar, função que substitui a difusão nos primeiros dias de vida fora do útero materno",
+        "d": "dissolver o muco acumulado nos bronquíolos terminais, mantendo as vias aéreas de menor calibre livres para a passagem do ar durante a respiração",
+        "e": "neutralizar os ácidos formados na superfície do epitélio respiratório, o que preserva o pH do líquido que recobre a parede interna dos alvéolos"
+      },
+      "resposta": "b",
+      "explicacao": "O surfactante é um fosfolipídeo que se interpõe entre as moléculas de água do filme alveolar e reduz a tensão superficial. Sem ele, a lei de Laplace faz os alvéolos menores colapsarem e o trabalho respiratório se torna insustentável. A produção se completa por volta da 34ª semana, o que explica a doença ser típica do prematuro.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-226",
+      "texto_apoio": "No enfisema, parte da estrutura interna do pulmão é destruída de forma irreversível e vários alvéolos se fundem em espaços aéreos maiores. O paciente relata dificuldade para esvaziar o pulmão.",
+      "enunciado": "No enfisema pulmonar há destruição das paredes alveolares. Isso ______ a superfície disponível para a hematose, ______ a elasticidade do pulmão e torna especialmente difícil a fase de ______. As lacunas são preenchidas por:",
+      "alternativas": {
+        "a": "reduz – aumenta – inspiração",
+        "b": "aumenta – aumenta – inspiração",
+        "c": "reduz – reduz – expiração",
+        "d": "aumenta – reduz – expiração",
+        "e": "mantém – reduz – inspiração"
+      },
+      "resposta": "c",
+      "explicacao": "A destruição dos septos funde vários alvéolos em espaços maiores: cai a área de troca e cai também o recuo elástico que devolve o ar na expiração. Como a expiração em repouso é passiva e depende justamente desse recuo, ela é a fase mais comprometida, e o ar fica represado no pulmão.",
+      "formato": "lacunas"
+    },
+    {
+      "id": "biologia-227",
+      "texto_apoio": "Atletas e montanhistas que sobem a altitudes acima de 2.500 metros passam por um período de adaptação de dias a semanas antes de recuperar o desempenho físico habitual.",
+      "enunciado": "Em grandes altitudes, a pressão parcial de oxigênio no ar é menor. Entre as respostas de aclimatação de quem permanece semanas nessa condição está:",
+      "alternativas": {
+        "a": "a substituição da hemoglobina adulta pela hemoglobina fetal nas hemácias circulantes, cuja afinidade menor pelo oxigênio favorece a entrega aos tecidos",
+        "b": "a elevação da porcentagem de oxigênio na composição do ar inspirado, ajustada pelo epitélio das vias aéreas superiores ao longo dos primeiros dias",
+        "c": "o aumento do diâmetro dos alvéolos, que passam a reter maior volume de ar a cada inspiração e compensam a queda da pressão atmosférica local",
+        "d": "o aumento da produção de eritropoetina pelo rim, com elevação do número de hemácias e da capacidade de transporte de oxigênio pelo sangue",
+        "e": "a redução da frequência respiratória, medida que economiza energia e reduz a perda de gás carbônico pelas vias aéreas durante a permanência na altitude"
+      },
+      "resposta": "d",
+      "explicacao": "A hipóxia sustentada estimula a produção renal de eritropoetina, que aumenta a eritropoese e o hematócrito. Nas primeiras horas a resposta é ventilatória — hiperventilação por quimiorreceptores periféricos; a resposta hematológica leva dias a semanas. A composição percentual do ar não muda com a altitude: o que cai é a pressão total.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-228",
+      "texto_apoio": "Casos de intoxicação por monóxido de carbono ocorrem em ambientes fechados com aquecedores, motores ou braseiros. A vítima costuma não perceber o quadro, e a oximetria de pulso comum pode aparecer normal.",
+      "enunciado": "A intoxicação por monóxido de carbono é grave mesmo quando o ar contém oxigênio suficiente. O motivo é:",
+      "alternativas": {
+        "a": "o monóxido reage com a água do filme alveolar formando um ácido que corrói a barreira alveolocapilar e provoca o extravasamento de plasma no alvéolo",
+        "b": "o monóxido destrói os alvéolos pulmonares em poucos minutos de exposição, o que reduz de forma permanente a área disponível para as trocas gasosas",
+        "c": "o monóxido se dissolve no plasma e eleva a viscosidade do sangue a ponto de interromper a circulação nos capilares de menor calibre do organismo",
+        "d": "o monóxido estimula os quimiorreceptores do bulbo e provoca parada respiratória de origem central antes que a oxigenação dos tecidos se altere",
+        "e": "o monóxido se liga à hemoglobina com afinidade muito maior que a do oxigênio, ocupando os sítios do heme e impedindo o transporte do gás aos tecidos"
+      },
+      "resposta": "e",
+      "explicacao": "A afinidade do CO pela hemoglobina é cerca de 200 vezes maior que a do oxigênio, e a carboxi-hemoglobina formada não transporta O2. A saturação medida pelo oxímetro comum não distingue as duas formas, e a pessoa pode estar gravemente hipoxêmica com aparência normal — daí a gravidade da intoxicação em ambientes fechados.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-229",
+      "texto_apoio": "A digestão das proteínas começa em um compartimento fortemente ácido e prossegue em outro, alcalino. Duas enzimas diferentes atuam em cada um deles.",
+      "enunciado": "A pepsina atua ______ e tem pH ótimo ______; a tripsina atua ______ e depende da alcalinização promovida pelo suco pancreático. As lacunas são preenchidas por:",
+      "alternativas": {
+        "a": "no estômago – ácido – no intestino delgado",
+        "b": "no intestino delgado – alcalino – no estômago",
+        "c": "na boca – neutro – no estômago",
+        "d": "no estômago – alcalino – no intestino grosso",
+        "e": "no intestino grosso – ácido – na boca"
+      },
+      "resposta": "a",
+      "explicacao": "Pepsina e tripsina são proteases que agem em compartimentos diferentes justamente por terem pH ótimos opostos. O suco gástrico, com ácido clorídrico, mantém o estômago em pH próximo de 2; o bicarbonato do suco pancreático neutraliza o quimo no duodeno e cria o meio alcalino em que a tripsina trabalha.",
+      "formato": "lacunas"
+    },
+    {
+      "id": "biologia-230",
+      "texto_apoio": "A obstrução das vias biliares por cálculo ou tumor provoca fezes claras e gordurosas. O achado indica que uma etapa específica da digestão dos lipídeos deixou de ocorrer.",
+      "enunciado": "A bile é produzida pelo fígado e armazenada na vesícula biliar. Sua ação sobre os lipídeos da dieta consiste em:",
+      "alternativas": {
+        "a": "hidrolisar as ligações éster dos triglicerídeos, liberando ácidos graxos e glicerol diretamente na luz do intestino delgado do indivíduo",
+        "b": "emulsificar as gorduras, fragmentando-as em gotículas menores que ampliam a superfície de contato para a ação da lipase pancreática",
+        "c": "transportar os lipídeos absorvidos até o fígado pela veia porta, o que dispensa a participação dos vasos linfáticos nesse trajeto inicial",
+        "d": "neutralizar o ácido clorídrico proveniente do estômago, sendo essa a única função atribuída à secreção biliar no processo digestivo humano",
+        "e": "converter os ácidos graxos em glicose, reação que ocorre no interior dos hepatócitos e fornece energia imediata durante o jejum prolongado"
+      },
+      "resposta": "b",
+      "explicacao": "A bile não tem enzimas: os sais biliares são detergentes que quebram as gotículas de gordura em outras menores. Quem hidrolisa é a lipase pancreática, e ela depende dessa emulsificação para trabalhar. A obstrução das vias biliares causa esteatorreia justamente porque a lipase perde o substrato acessível.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-231",
+      "texto_apoio": "A mucosa do intestino delgado apresenta pregas circulares, projeções em forma de dedo e, na superfície de cada célula, prolongamentos microscópicos. As três escalas se somam.",
+      "enunciado": "As vilosidades e microvilosidades do intestino delgado são apontadas como adaptação à função de absorção porque:",
+      "alternativas": {
+        "a": "impulsionam o bolo alimentar ao longo do tubo digestório por meio de contrações rítmicas coordenadas pela musculatura lisa da parede intestinal",
+        "b": "produzem as enzimas digestivas responsáveis pela quebra final das proteínas, que passam a ser absorvidas na forma de cadeias polipeptídicas longas",
+        "c": "multiplicam a superfície de contato com o quimo, o que eleva a quantidade de nutrientes absorvidos por unidade de tempo sem aumentar o comprimento do órgão",
+        "d": "impedem a passagem de bactérias da microbiota para a corrente sanguínea, sendo essa barreira mecânica a razão principal de sua existência ali",
+        "e": "armazenam a gordura absorvida até que o fígado sinalize a necessidade de liberá-la, funcionando como reserva energética de curto prazo do organismo humano adulto"
+      },
+      "resposta": "c",
+      "explicacao": "As pregas, as vilosidades e as microvilosidades atuam em três escalas e levam a área absortiva do intestino delgado a centenas de metros quadrados. É por isso que a doença celíaca, que atrofia as vilosidades, causa má absorção. O peristaltismo depende da musculatura lisa da parede, e não das vilosidades.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-232",
+      "texto_apoio": "A maioria da população adulta mundial apresenta redução da capacidade de digerir o açúcar do leite após a infância. A persistência dessa capacidade na vida adulta é a condição menos comum em termos globais.",
+      "enunciado": "A intolerância à lactose, na forma mais comum no adulto, decorre de:",
+      "alternativas": {
+        "a": "excesso de ácido clorídrico no estômago, que desnatura a lactose antes que ela chegue ao duodeno e possa ser absorvida pela parede intestinal",
+        "b": "resposta imunológica contra as proteínas do leite, mediada por anticorpos que provocam reação inflamatória sistêmica poucos minutos depois da ingestão do alimento",
+        "c": "ausência congênita de bile, que impede a emulsificação da gordura do leite e provoca a diarreia observada após o consumo de laticínios pela pessoa",
+        "d": "redução da produção de lactase pelas microvilosidades intestinais, o que deixa o dissacarídeo intacto para a fermentação pela microbiota do intestino grosso",
+        "e": "falta de insulina, hormônio necessário para a entrada da galactose nas células da mucosa intestinal durante a absorção dos açúcares da dieta"
+      },
+      "resposta": "d",
+      "explicacao": "A lactase da borda em escova quebra a lactose em glicose e galactose. Quando sua produção cai, o dissacarídeo chega ao cólon e é fermentado pela microbiota, gerando gases e puxando água por osmose — daí distensão e diarreia. Alergia à proteína do leite é outro quadro, de mecanismo imunológico e não enzimático.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-233",
+      "texto_apoio": "Pacientes que usam corticoide em dose alta por meses não podem interromper a medicação de forma abrupta, sob risco de insuficiência adrenal aguda. A retirada é feita de modo gradual.",
+      "enunciado": "O uso prolongado de corticoide sintético em dose alta leva à atrofia do córtex das glândulas adrenais. O mecanismo endócrino envolvido é:",
+      "alternativas": {
+        "a": "a conversão do corticoide em aldosterona no fígado, o que satura a via de síntese e reduz o volume do córtex por acúmulo de produtos intermediários",
+        "b": "a competição pelo mesmo receptor de membrana, que impede o cortisol produzido pela adrenal de alcançar seus órgãos alvo e provoca a atrofia da glândula",
+        "c": "a destruição direta das células adrenais pelo medicamento, efeito tóxico proporcional à dose e independente de qualquer sinalização hormonal do eixo",
+        "d": "o aumento da secreção de ACTH pela hipófise, que esgota a capacidade de síntese do córtex adrenal por hiperestimulação continuada ao longo de meses",
+        "e": "a retroalimentação negativa: o corticoide externo inibe a liberação de ACTH pela hipófise, e sem esse estímulo trófico o córtex adrenal regride"
+      },
+      "resposta": "e",
+      "explicacao": "O eixo hipotálamo-hipófise-adrenal funciona por retroalimentação negativa: cortisol alto, venha de onde vier, desliga CRH e ACTH. Sem ACTH o córtex adrenal perde o estímulo trófico e atrofia. É por isso que corticoide de uso prolongado não pode ser suspenso de forma abrupta — a adrenal leva semanas para retomar a produção própria.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-234",
+      "texto_apoio": "Os hormônios se dividem em duas grandes classes químicas, e a diferença determina onde fica o receptor, a velocidade da resposta e a sua duração.",
+      "enunciado": "Hormônios esteroides, como o cortisol, são ______ e por isso se ligam a receptores ______; hormônios peptídicos, como a insulina, se ligam a receptores ______ e agem por meio de segundos mensageiros. As lacunas são preenchidas por:",
+      "alternativas": {
+        "a": "hidrossolúveis – intracelulares – nucleares",
+        "b": "hidrossolúveis – de membrana – intracelulares",
+        "c": "lipossolúveis – de membrana – intracelulares",
+        "d": "lipossolúveis – intracelulares – de membrana",
+        "e": "lipossolúveis – nucleares – citoplasmáticos"
+      },
+      "resposta": "d",
+      "explicacao": "A natureza química define o tipo de receptor. Esteroides atravessam a bicamada lipídica e encontram receptores no citoplasma ou no núcleo, alterando diretamente a transcrição gênica — resposta lenta e duradoura. Peptídeos não atravessam a membrana e dependem de receptores de superfície e de segundos mensageiros, com resposta rápida.",
+      "formato": "lacunas"
+    },
+    {
+      "id": "biologia-235",
+      "texto_apoio": "A concentração de cálcio no sangue varia pouco, apesar de o esqueleto conter mais de 99% do cálcio do organismo. Duas glândulas do pescoço participam desse controle.",
+      "enunciado": "A calcemia é mantida dentro de faixa estreita pela ação antagônica de dois hormônios. A descrição correta dessa regulação é:",
+      "alternativas": {
+        "a": "o hormônio do crescimento eleva o cálcio no sangue e a tiroxina o reduz, ambos por ação direta sobre a velocidade de mineralização da matriz óssea",
+        "b": "a insulina eleva o cálcio no sangue estimulando sua absorção intestinal, e o glucagon o reduz promovendo a deposição do mineral na matriz óssea",
+        "c": "a calcitonina eleva o cálcio no sangue mobilizando o osso, e o paratormônio o reduz aumentando a excreção urinária do mineral pelos túbulos renais",
+        "d": "a aldosterona eleva o cálcio no sangue por reabsorção no túbulo distal, e o cortisol o reduz ao inibir a atividade dos osteoclastos presentes no tecido ósseo do adulto",
+        "e": "o paratormônio eleva o cálcio no sangue mobilizando o osso e aumentando a reabsorção renal, e a calcitonina atua no sentido oposto reduzindo essa concentração"
+      },
+      "resposta": "e",
+      "explicacao": "O paratormônio, da paratireoide, é o hormônio hipercalcemiante: estimula osteoclastos, aumenta a reabsorção tubular de cálcio e ativa a vitamina D no rim. A calcitonina, da tireoide, tem efeito oposto e menor peso fisiológico no adulto. Trocar os papéis dos dois hormônios é o erro mais frequente.",
+      "formato": "direta"
     }
   ]
 }

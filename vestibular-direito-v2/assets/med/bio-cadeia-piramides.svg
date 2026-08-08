@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 300" width="660" height="300" role="img" aria-label="Cadeia alimentar de capim, gafanhotos, sapos e gavioes e tres piramides ecologicas de quatro niveis com formatos diferentes entre si">
+  <style>
+    /* Carregado via img, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui e a media query responde a preferencia do sistema. */
+    .tr   { stroke: #0A2540; stroke-width: 2; fill: none; }
+    .bar  { stroke: #0A2540; stroke-width: 1.8; fill: rgba(10,37,64,0.13); }
+    .cheio{ fill: #0A2540; stroke: none; }
+    .rot  { fill: #475569; font: 600 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .num  { fill: #475569; font: 700 14px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg  { fill: #475569; font: 400 11px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .tr   { stroke: #E2E8F0; }
+      .bar  { stroke: #E2E8F0; fill: rgba(226,232,240,0.18); }
+      .cheio{ fill: #E2E8F0; }
+      .rot, .num, .leg { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <marker id="se" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" class="cheio"/>
+    </marker>
+  </defs>
+
+  <!-- Cadeia alimentar terrestre, com quatro niveis troficos -->
+  <rect class="tr" x="25" y="28" width="90" height="34" rx="6"/>
+  <text class="rot" x="70" y="50" text-anchor="middle">capim</text>
+  <path class="tr" d="M118 45 H138" marker-end="url(#se)"/>
+  <rect class="tr" x="145" y="28" width="120" height="34" rx="6"/>
+  <text class="rot" x="205" y="50" text-anchor="middle">gafanhotos</text>
+  <path class="tr" d="M268 45 H288" marker-end="url(#se)"/>
+  <rect class="tr" x="295" y="28" width="100" height="34" rx="6"/>
+  <text class="rot" x="345" y="50" text-anchor="middle">sapos</text>
+  <path class="tr" d="M398 45 H418" marker-end="url(#se)"/>
+  <rect class="tr" x="425" y="28" width="110" height="34" rx="6"/>
+  <text class="rot" x="480" y="50" text-anchor="middle">gaviões</text>
+
+  <!-- Os quatro niveis valem para as tres piramides -->
+  <text class="leg" x="4" y="104">nível trófico</text>
+  <text class="num" x="34" y="129" text-anchor="end">4</text>
+  <text class="num" x="34" y="157" text-anchor="end">3</text>
+  <text class="num" x="34" y="185" text-anchor="end">2</text>
+  <text class="num" x="34" y="213" text-anchor="end">1</text>
+
+  <!-- Piramide I: ereta, com estreitamento acentuado -->
+  <rect class="bar" x="127" y="112" width="26" height="24"/>
+  <rect class="bar" x="112" y="140" width="56" height="24"/>
+  <rect class="bar" x="90" y="168" width="100" height="24"/>
+  <rect class="bar" x="55" y="196" width="170" height="24"/>
+  <text class="num" x="140" y="244" text-anchor="middle">I</text>
+
+  <!-- Piramide II: ereta, com estreitamento suave -->
+  <rect class="bar" x="311" y="112" width="78" height="24"/>
+  <rect class="bar" x="298" y="140" width="104" height="24"/>
+  <rect class="bar" x="286" y="168" width="128" height="24"/>
+  <rect class="bar" x="275" y="196" width="150" height="24"/>
+  <text class="num" x="350" y="244" text-anchor="middle">II</text>
+
+  <!-- Piramide III: base mais estreita que o nivel imediatamente acima -->
+  <rect class="bar" x="534" y="112" width="52" height="24"/>
+  <rect class="bar" x="510" y="140" width="100" height="24"/>
+  <rect class="bar" x="484" y="168" width="152" height="24"/>
+  <rect class="bar" x="537" y="196" width="46" height="24"/>
+  <text class="num" x="560" y="244" text-anchor="middle">III</text>
+
+  <text class="leg" x="330" y="276" text-anchor="middle">as três pirâmides foram construídas para essa mesma cadeia; a grandeza representada em cada uma não está indicada</text>
+</svg>

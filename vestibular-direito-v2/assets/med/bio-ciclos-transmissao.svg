@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 296" width="700" height="296" role="img" aria-label="Quatro ciclos de transmissao numerados de I a IV: direto entre pessoas, com passagem pelo ambiente, por artropode e entre animais silvestres ate o ser humano">
+  <style>
+    /* Carregado via img, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui e a media query responde a preferencia do sistema. */
+    .tr    { stroke: #0A2540; stroke-width: 2; fill: none; }
+    .cheio { fill: #0A2540; stroke: none; }
+    .guia  { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 5 5; }
+    .num   { fill: #0A2540; font: 700 16px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .rot   { fill: #475569; font: 600 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 11px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .tr    { stroke: #E2E8F0; }
+      .cheio { fill: #E2E8F0; }
+      .guia  { stroke: #64748B; }
+      .num, .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <marker id="se" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" class="cheio"/>
+    </marker>
+    <!-- figura humana esquematica -->
+    <g id="p">
+      <circle class="tr" cx="0" cy="-16" r="8"/>
+      <path class="tr" d="M0 -8 V8 M-10 -2 H10 M0 8 L-8 22 M0 8 L8 22"/>
+    </g>
+  </defs>
+
+  <path class="guia" d="M175 14 V262 M350 14 V262 M525 14 V262"/>
+
+  <!-- Ciclo I: o agente passa diretamente de uma pessoa a outra -->
+  <text class="num" x="10" y="26">I</text>
+  <use href="#p" x="88" y="56"/>
+  <text class="rot" x="88" y="92" text-anchor="middle">pessoa</text>
+  <path class="tr" d="M88 100 V186" marker-end="url(#se)"/>
+  <use href="#p" x="88" y="216"/>
+  <text class="rot" x="88" y="252" text-anchor="middle">pessoa</text>
+
+  <!-- Ciclo II: o agente sai de uma pessoa, permanece no ambiente e infecta outra -->
+  <text class="num" x="185" y="26">II</text>
+  <use href="#p" x="263" y="56"/>
+  <text class="rot" x="263" y="92" text-anchor="middle">pessoa</text>
+  <path class="tr" d="M263 98 V126" marker-end="url(#se)"/>
+  <rect class="tr" x="213" y="130" width="100" height="32" rx="6"/>
+  <text class="rot" x="263" y="151" text-anchor="middle">ambiente</text>
+  <path class="tr" d="M263 166 V186" marker-end="url(#se)"/>
+  <use href="#p" x="263" y="216"/>
+  <text class="rot" x="263" y="252" text-anchor="middle">pessoa</text>
+
+  <!-- Ciclo III: um artropode retira o agente de um hospedeiro e o inocula em outro -->
+  <text class="num" x="360" y="26">III</text>
+  <use href="#p" x="438" y="56"/>
+  <text class="rot" x="438" y="92" text-anchor="middle">hospedeiro</text>
+  <path class="tr" d="M438 98 V126" marker-end="url(#se)"/>
+  <rect class="tr" x="388" y="130" width="100" height="32" rx="6"/>
+  <text class="rot" x="438" y="151" text-anchor="middle">artrópode</text>
+  <path class="tr" d="M438 166 V186" marker-end="url(#se)"/>
+  <use href="#p" x="438" y="216"/>
+  <text class="rot" x="438" y="252" text-anchor="middle">hospedeiro</text>
+
+  <!-- Ciclo IV: o agente circula entre animais silvestres e atinge o ser humano -->
+  <text class="num" x="535" y="26">IV</text>
+  <path class="tr" d="M573 44 C573 8 653 8 653 44" marker-end="url(#se)"/>
+  <rect class="tr" x="538" y="44" width="150" height="32" rx="6"/>
+  <text class="rot" x="613" y="65" text-anchor="middle">animais silvestres</text>
+  <path class="tr" d="M613 76 V186" marker-end="url(#se)"/>
+  <text class="leg" x="605" y="134" text-anchor="end">eventualmente</text>
+  <use href="#p" x="613" y="216"/>
+  <text class="rot" x="613" y="252" text-anchor="middle">ser humano</text>
+
+  <text class="leg" x="350" y="282" text-anchor="middle">as setas acompanham o trajeto do agente infeccioso</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 264" width="680" height="264" role="img" aria-label="Ciclos de vida de uma pteridofita e de uma angiosperma: nos dois ha uma fase 2n que produz esporos e uma fase n que produz gametas, com proporcao diferente entre as fases em cada grupo">
+  <style>
+    /* Carregado via img, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui e a media query responde a preferencia do sistema. */
+    .tr    { stroke: #0A2540; stroke-width: 2.2; fill: rgba(10,37,64,0.10); }
+    .seta  { stroke: #0A2540; stroke-width: 1.8; fill: none; }
+    .cheio { fill: #0A2540; stroke: none; }
+    .guia  { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 5 5; }
+    .tit   { fill: #475569; font: 700 14px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .fase  { fill: #0A2540; font: 700 20px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .fasep { fill: #0A2540; font: 700 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .rot   { fill: #475569; font: 600 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 11px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .tr    { stroke: #E2E8F0; fill: rgba(226,232,240,0.14); }
+      .seta  { stroke: #E2E8F0; }
+      .cheio { fill: #E2E8F0; }
+      .guia  { stroke: #64748B; }
+      .tit, .fase, .fasep, .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <marker id="se" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" class="cheio"/>
+    </marker>
+  </defs>
+
+  <path class="guia" d="M340 14 V236"/>
+
+  <!-- Pteridofita -->
+  <text class="tit" x="170" y="26" text-anchor="middle">pteridófita</text>
+  <rect class="tr" x="85" y="54" width="170" height="52" rx="8"/>
+  <text class="fase" x="170" y="88" text-anchor="middle">2n</text>
+  <text class="rot" x="170" y="124" text-anchor="middle">produz esporos</text>
+  <rect class="tr" x="122" y="176" width="96" height="34" rx="8"/>
+  <text class="fase" x="170" y="200" text-anchor="middle">n</text>
+  <text class="rot" x="170" y="230" text-anchor="middle">produz gametas</text>
+  <path class="seta" d="M255 92 C300 110 290 170 226 190" marker-end="url(#se)"/>
+  <text class="leg" x="296" y="146" text-anchor="middle">esporos</text>
+  <path class="seta" d="M114 190 C36 170 26 110 83 92" marker-end="url(#se)"/>
+  <text class="leg" x="48" y="134">gametas e</text>
+  <text class="leg" x="48" y="150">fecundação</text>
+
+  <!-- Angiosperma -->
+  <text class="tit" x="510" y="26" text-anchor="middle">angiosperma</text>
+  <rect class="tr" x="425" y="54" width="170" height="52" rx="8"/>
+  <text class="fase" x="510" y="88" text-anchor="middle">2n</text>
+  <text class="rot" x="510" y="124" text-anchor="middle">produz esporos</text>
+  <rect class="tr" x="490" y="184" width="40" height="18" rx="6"/>
+  <text class="fasep" x="510" y="198" text-anchor="middle">n</text>
+  <text class="rot" x="510" y="230" text-anchor="middle">produz gametas</text>
+  <path class="seta" d="M595 92 C648 112 636 172 538 194" marker-end="url(#se)"/>
+  <text class="leg" x="636" y="146" text-anchor="middle">esporos</text>
+  <path class="seta" d="M486 194 C392 176 372 112 423 92" marker-end="url(#se)"/>
+  <text class="leg" x="386" y="134">gametas e</text>
+  <text class="leg" x="386" y="150">fecundação</text>
+
+  <text class="leg" x="340" y="252" text-anchor="middle">o tamanho de cada caixa representa a proporção entre as duas fases dentro do grupo</text>
+</svg>

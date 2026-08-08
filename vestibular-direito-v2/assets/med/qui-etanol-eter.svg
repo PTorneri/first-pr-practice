@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 288" width="660" height="288" role="img" aria-label="Formulas estruturais do etanol e do dimetil-eter, ambos C2H6O: no etanol o oxigenio esta ligado a um hidrogenio; no eter o oxigenio fica entre dois grupos CH3">
+  <style>
+    /* Carregado via &lt;img&gt;, o SVG nao herda as variaveis da pagina:
+       as duas paletas ficam aqui dentro. */
+    .traco { stroke: #0A2540; stroke-width: 2; fill: none; stroke-linecap: round; }
+    .simb  { fill: #0A2540; font: 600 17px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .rot   { fill: #475569; font: 600 14px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .sub   { font-size: 11px; }
+    @media (prefers-color-scheme: dark) {
+      .traco { stroke: #E2E8F0; }
+      .simb  { fill: #E2E8F0; }
+      .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+
+  <!-- Etanol: cadeia C-C-O com o hidrogenio preso ao oxigenio -->
+  <path class="traco" d="M177 140 H213 M237 140 H273 M297 140 H323 M127 140 H153"/>
+  <path class="traco" d="M165 127 V108 M165 153 V172 M225 127 V108 M225 153 V172"/>
+  <text class="simb" x="165" y="146" text-anchor="middle">C</text>
+  <text class="simb" x="225" y="146" text-anchor="middle">C</text>
+  <text class="simb" x="285" y="146" text-anchor="middle">O</text>
+  <text class="simb" x="335" y="146" text-anchor="middle">H</text>
+  <text class="simb" x="115" y="146" text-anchor="middle">H</text>
+  <text class="simb" x="165" y="101" text-anchor="middle">H</text>
+  <text class="simb" x="165" y="191" text-anchor="middle">H</text>
+  <text class="simb" x="225" y="101" text-anchor="middle">H</text>
+  <text class="simb" x="225" y="191" text-anchor="middle">H</text>
+
+  <!-- Dimetil-eter: oxigenio entre dois grupos CH3, sem O-H -->
+  <path class="traco" d="M437 140 H473 M497 140 H533 M387 140 H413 M557 140 H583"/>
+  <path class="traco" d="M425 127 V108 M425 153 V172 M545 127 V108 M545 153 V172"/>
+  <text class="simb" x="425" y="146" text-anchor="middle">C</text>
+  <text class="simb" x="485" y="146" text-anchor="middle">O</text>
+  <text class="simb" x="545" y="146" text-anchor="middle">C</text>
+  <text class="simb" x="375" y="146" text-anchor="middle">H</text>
+  <text class="simb" x="595" y="146" text-anchor="middle">H</text>
+  <text class="simb" x="425" y="101" text-anchor="middle">H</text>
+  <text class="simb" x="425" y="191" text-anchor="middle">H</text>
+  <text class="simb" x="545" y="101" text-anchor="middle">H</text>
+  <text class="simb" x="545" y="191" text-anchor="middle">H</text>
+
+  <!-- Nomes e temperaturas de ebulicao a 1 atm -->
+  <text class="rot" x="225" y="236" text-anchor="middle">etanol  (C<tspan class="sub" dy="4">2</tspan><tspan dy="-4">H</tspan><tspan class="sub" dy="4">6</tspan><tspan dy="-4">O)</tspan></text>
+  <text class="leg" x="225" y="262" text-anchor="middle">ebulição a 1 atm: 78 °C</text>
+  <text class="rot" x="485" y="236" text-anchor="middle">dimetil-éter  (C<tspan class="sub" dy="4">2</tspan><tspan dy="-4">H</tspan><tspan class="sub" dy="4">6</tspan><tspan dy="-4">O)</tspan></text>
+  <text class="leg" x="485" y="262" text-anchor="middle">ebulição a 1 atm: −24 °C</text>
+</svg>

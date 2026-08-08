@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 340" width="660" height="340" role="img" aria-label="Duas cubas eletroliticas ligadas em serie a uma mesma fonte: a primeira com solucao de nitrato de prata e a segunda com solucao de sulfato de cobre, com o sentido do fluxo de eletrons marcado nos fios">
+  <style>
+    /* Duas paletas no proprio arquivo: o SVG carregado por &lt;img&gt; nao herda a da pagina. */
+    .fio    { stroke: #0A2540; stroke-width: 2; fill: none; stroke-linejoin: round; }
+    .cuba   { stroke: #0A2540; stroke-width: 2.4; fill: none; stroke-linejoin: round; }
+    .nivel  { stroke: #475569; stroke-width: 1.4; fill: none; }
+    .barra  { fill: #0A2540; stroke: none; }
+    .dep    { stroke: #475569; stroke-width: 1.6; fill: none; stroke-dasharray: 5 3; }
+    .seta   { fill: #0A2540; }
+    .rot    { fill: #475569; font: 600 13.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg    { fill: #475569; font: 400 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .pol    { fill: #0A2540; font: 700 19px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .sub    { font-size: 11px; }
+    @media (prefers-color-scheme: dark) {
+      .fio, .cuba { stroke: #E2E8F0; }
+      .nivel, .dep { stroke: #CBD5E1; }
+      .barra { fill: #E2E8F0; }
+      .seta  { fill: #E2E8F0; }
+      .rot, .leg, .pol { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <marker id="pf" viewBox="0 0 10 10" refX="9.5" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto">
+      <path class="seta" d="M0 0 L10 5 L0 10 Z"/>
+    </marker>
+  </defs>
+
+  <!-- Fonte de corrente continua, polo negativo a esquerda -->
+  <rect class="cuba" x="288" y="36" width="84" height="40" rx="6"/>
+  <text class="rot" x="330" y="61" text-anchor="middle">fonte</text>
+  <text class="pol" x="282" y="63" text-anchor="end">−</text>
+  <text class="pol" x="378" y="63" text-anchor="start">+</text>
+
+  <!-- Circuito em serie: fonte, celula 1, celula 2, fonte -->
+  <path class="fio" d="M288 56 H110 V112 M372 56 H550 V112 M230 112 V96 H430 V112"/>
+  <path class="fio" d="M215 56 H185" marker-end="url(#pf)"/>
+  <path class="fio" d="M310 96 H350" marker-end="url(#pf)"/>
+  <path class="fio" d="M475 56 H445" marker-end="url(#pf)"/>
+  <text class="leg" x="200" y="45" text-anchor="middle">e⁻</text>
+  <text class="leg" x="330" y="86" text-anchor="middle">e⁻</text>
+  <text class="leg" x="460" y="45" text-anchor="middle">e⁻</text>
+
+  <!-- Celula 1: solucao de nitrato de prata -->
+  <path class="cuba" d="M60 150 V268 H280 V150"/>
+  <path class="nivel" d="M60 168 H280"/>
+  <rect class="barra" x="105" y="112" width="10" height="134"/>
+  <rect class="barra" x="225" y="112" width="10" height="134"/>
+  <rect class="dep" x="98" y="176" width="24" height="64"/>
+  <text class="leg" x="170" y="238" text-anchor="middle">AgNO<tspan class="sub" dy="4">3</tspan><tspan dy="-4"> (aq)</tspan></text>
+
+  <!-- Celula 2: solucao de sulfato de cobre -->
+  <path class="cuba" d="M380 150 V268 H600 V150"/>
+  <path class="nivel" d="M380 168 H600"/>
+  <rect class="barra" x="425" y="112" width="10" height="134"/>
+  <rect class="barra" x="545" y="112" width="10" height="134"/>
+  <rect class="dep" x="418" y="176" width="24" height="64"/>
+  <text class="leg" x="490" y="238" text-anchor="middle">CuSO<tspan class="sub" dy="4">4</tspan><tspan dy="-4"> (aq)</tspan></text>
+
+  <!-- Identificacao dos eletrodos e a condicao comum as duas celulas -->
+  <text class="rot" x="110" y="292" text-anchor="middle">cátodo (Ag)</text>
+  <text class="rot" x="230" y="292" text-anchor="middle">ânodo</text>
+  <text class="rot" x="430" y="292" text-anchor="middle">cátodo (Cu)</text>
+  <text class="rot" x="550" y="292" text-anchor="middle">ânodo</text>
+  <text class="leg" x="330" y="322" text-anchor="middle">a mesma corrente atravessa as duas células durante o mesmo intervalo de tempo</text>
+</svg>

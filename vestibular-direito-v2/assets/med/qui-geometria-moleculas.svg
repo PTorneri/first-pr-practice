@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 316" width="660" height="316" role="img" aria-label="Metano, amonia e agua desenhados em perspectiva: o carbono do metano tem quatro hidrogenios e nenhum par nao ligante, o nitrogenio da amonia tem tres hidrogenios e um par nao ligante, o oxigenio da agua tem dois hidrogenios e dois pares nao ligantes">
+  <style>
+    /* Duas paletas no proprio arquivo: o SVG carregado por &lt;img&gt; nao herda a da pagina. */
+    .traco { stroke: #0A2540; stroke-width: 2; fill: none; stroke-linecap: round; }
+    .tras  { stroke: #0A2540; stroke-width: 2; fill: none; stroke-dasharray: 4 3.5; }
+    .cunha { fill: #0A2540; stroke: none; }
+    .pto   { fill: #0A2540; }
+    .simb  { fill: #0A2540; font: 600 17px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .rot   { fill: #475569; font: 600 14px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .sub   { font-size: 11px; }
+    @media (prefers-color-scheme: dark) {
+      .traco, .tras { stroke: #E2E8F0; }
+      .cunha, .pto  { fill: #E2E8F0; }
+      .simb  { fill: #E2E8F0; }
+      .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+
+  <!-- Metano: quatro hidrogenios, nenhum par nao ligante -->
+  <path class="traco" d="M110 137 V110 M99.8 158.1 L70.2 181.9"/>
+  <path class="tras" d="M120.0 141.7 L146.0 120.3"/>
+  <path class="cunha" d="M119.5 158.9 L142.4 186.4 L148.6 179.8 Z"/>
+  <text class="simb" x="110" y="156" text-anchor="middle">C</text>
+  <text class="simb" x="110" y="102" text-anchor="middle">H</text>
+  <text class="simb" x="60" y="196" text-anchor="middle">H</text>
+  <text class="simb" x="155" y="198" text-anchor="middle">H</text>
+  <text class="simb" x="156" y="118" text-anchor="middle">H</text>
+
+  <!-- Amonia: tres hidrogenios e um par nao ligante (dois pontos sobre o N) -->
+  <path class="traco" d="M320.6 159.0 L297.4 181.0 M339.4 159.0 L362.6 181.0"/>
+  <path class="cunha" d="M330 163 L325.5 201 L334.5 201 Z"/>
+  <circle class="pto" cx="324" cy="116" r="2.8"/>
+  <circle class="pto" cx="336" cy="116" r="2.8"/>
+  <text class="simb" x="330" y="156" text-anchor="middle">N</text>
+  <text class="simb" x="288" y="196" text-anchor="middle">H</text>
+  <text class="simb" x="372" y="196" text-anchor="middle">H</text>
+  <text class="simb" x="330" y="220" text-anchor="middle">H</text>
+
+  <!-- Agua: dois hidrogenios e dois pares nao ligantes -->
+  <path class="traco" d="M539.7 158.0 L511.3 180.0 M560.3 158.0 L588.7 180.0"/>
+  <circle class="pto" cx="530" cy="126" r="2.8"/>
+  <circle class="pto" cx="538" cy="118" r="2.8"/>
+  <circle class="pto" cx="562" cy="118" r="2.8"/>
+  <circle class="pto" cx="570" cy="126" r="2.8"/>
+  <text class="simb" x="550" y="156" text-anchor="middle">O</text>
+  <text class="simb" x="501" y="194" text-anchor="middle">H</text>
+  <text class="simb" x="599" y="194" text-anchor="middle">H</text>
+
+  <!-- Legendas: quatro pares na valencia em todas, com numeros diferentes de pares nao ligantes -->
+  <text class="rot" x="110" y="252" text-anchor="middle">metano  CH<tspan class="sub" dy="4">4</tspan></text>
+  <text class="leg" x="110" y="276" text-anchor="middle">4 pares ligantes, 0 não ligante</text>
+  <text class="leg" x="110" y="296" text-anchor="middle">H–C–H = 109,5°</text>
+  <text class="rot" x="330" y="252" text-anchor="middle">amônia  NH<tspan class="sub" dy="4">3</tspan></text>
+  <text class="leg" x="330" y="276" text-anchor="middle">3 pares ligantes, 1 não ligante</text>
+  <text class="leg" x="330" y="296" text-anchor="middle">H–N–H = 107°</text>
+  <text class="rot" x="550" y="252" text-anchor="middle">água  H<tspan class="sub" dy="4">2</tspan><tspan dy="-4">O</tspan></text>
+  <text class="leg" x="550" y="276" text-anchor="middle">2 pares ligantes, 2 não ligantes</text>
+  <text class="leg" x="550" y="296" text-anchor="middle">H–O–H = 104,5°</text>
+</svg>

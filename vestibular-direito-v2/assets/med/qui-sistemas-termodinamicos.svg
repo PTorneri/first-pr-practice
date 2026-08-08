@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 274" width="660" height="274" role="img" aria-label="Tres recipientes comparados: no sistema aberto materia e energia atravessam a fronteira, no sistema fechado so a energia atravessa e a materia e barrada, no sistema isolado nem materia nem energia atravessam">
+  <style>
+    /* Duas paletas no proprio arquivo: o SVG carregado por &lt;img&gt; nao herda a da pagina. */
+    .caixa { stroke: #0A2540; stroke-width: 2.2; fill: none; }
+    .fluxo { stroke: #0A2540; stroke-width: 2; fill: none; }
+    .seta  { fill: #0A2540; }
+    .bloq  { stroke: #0A2540; stroke-width: 2.6; fill: none; stroke-linecap: round; }
+    .pto   { fill: #0A2540; }
+    .rot   { fill: #475569; font: 700 15px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .caixa, .fluxo, .bloq { stroke: #E2E8F0; }
+      .seta, .pto { fill: #E2E8F0; }
+      .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <marker id="pf" viewBox="0 0 10 10" refX="9.5" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path class="seta" d="M0 0 L10 5 L0 10 Z"/>
+    </marker>
+  </defs>
+
+  <!-- Sistema aberto: as duas setas atravessam a fronteira -->
+  <rect class="caixa" x="48" y="92" width="124" height="104" rx="8"/>
+  <circle class="pto" cx="62" cy="128" r="4"/><circle class="pto" cx="112" cy="118" r="4"/>
+  <circle class="pto" cx="102" cy="168" r="4"/><circle class="pto" cx="156" cy="160" r="4"/>
+  <path class="fluxo" d="M80 150 V48" marker-end="url(#pf)"/>
+  <path class="fluxo" d="M140 48 V150" marker-end="url(#pf)"/>
+  <text class="leg" x="80" y="36" text-anchor="middle">matéria</text>
+  <text class="leg" x="140" y="36" text-anchor="middle">energia</text>
+
+  <!-- Sistema fechado: a materia e barrada na fronteira, a energia passa -->
+  <rect class="caixa" x="268" y="92" width="124" height="104" rx="8"/>
+  <circle class="pto" cx="282" cy="128" r="4"/><circle class="pto" cx="332" cy="118" r="4"/>
+  <circle class="pto" cx="322" cy="168" r="4"/><circle class="pto" cx="376" cy="160" r="4"/>
+  <path class="fluxo" d="M300 150 V104" marker-end="url(#pf)"/>
+  <path class="bloq" d="M294 86 L306 98 M294 98 L306 86"/>
+  <path class="fluxo" d="M360 48 V150" marker-end="url(#pf)"/>
+  <text class="leg" x="300" y="36" text-anchor="middle">matéria</text>
+  <text class="leg" x="360" y="36" text-anchor="middle">energia</text>
+
+  <!-- Sistema isolado: parede dupla, nenhuma das duas trocas acontece -->
+  <rect class="caixa" x="480" y="84" width="140" height="120" rx="10"/>
+  <rect class="caixa" x="488" y="92" width="124" height="104" rx="8"/>
+  <circle class="pto" cx="502" cy="128" r="4"/><circle class="pto" cx="552" cy="118" r="4"/>
+  <circle class="pto" cx="542" cy="168" r="4"/><circle class="pto" cx="596" cy="160" r="4"/>
+  <path class="fluxo" d="M520 150 V104" marker-end="url(#pf)"/>
+  <path class="bloq" d="M514 82 L526 94 M514 94 L526 82"/>
+  <path class="fluxo" d="M580 46 V74" marker-end="url(#pf)"/>
+  <path class="bloq" d="M574 82 L586 94 M574 94 L586 82"/>
+  <text class="leg" x="520" y="36" text-anchor="middle">matéria</text>
+  <text class="leg" x="580" y="36" text-anchor="middle">energia</text>
+
+  <!-- Legendas -->
+  <text class="rot" x="110" y="234" text-anchor="middle">sistema aberto</text>
+  <text class="leg" x="110" y="258" text-anchor="middle">troca matéria e energia</text>
+  <text class="rot" x="330" y="234" text-anchor="middle">sistema fechado</text>
+  <text class="leg" x="330" y="258" text-anchor="middle">troca energia, não matéria</text>
+  <text class="rot" x="550" y="234" text-anchor="middle">sistema isolado</text>
+  <text class="leg" x="550" y="258" text-anchor="middle">não troca matéria nem energia</text>
+</svg>

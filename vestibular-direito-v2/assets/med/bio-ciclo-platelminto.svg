@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 280" width="680" height="280" role="img" aria-label="Duas vias de infeccao por um platelminto: na via 1 a pessoa ingere carne malpassada com larvas e desenvolve o verme adulto no intestino; na via 2 ingere ovos eliminados nas fezes e as larvas se alojam em tecidos, inclusive no sistema nervoso">
+  <style>
+    /* Carregado via img, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui e a media query responde a preferencia do sistema. */
+    .tr    { stroke: #0A2540; stroke-width: 2; fill: none; }
+    .fina  { stroke: #0A2540; stroke-width: 1.6; fill: none; }
+    .cheio { fill: #0A2540; stroke: none; }
+    .fio   { stroke: #94A3B8; stroke-width: 1.2; fill: none; }
+    .guia  { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 5 5; }
+    .via   { fill: #475569; font: 700 14px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .rot   { fill: #475569; font: 600 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 11px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .tr, .fina { stroke: #E2E8F0; }
+      .cheio { fill: #E2E8F0; }
+      .fio, .guia { stroke: #64748B; }
+      .via, .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <marker id="se" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" class="cheio"/>
+    </marker>
+    <g id="h">
+      <circle class="tr" r="12"/>
+      <path class="tr" d="M0 12 V56 M-18 26 H18 M0 56 L-14 84 M0 56 L14 84"/>
+    </g>
+  </defs>
+
+  <!-- Via 1: ingestao de carne malpassada com larvas -->
+  <text class="via" x="12" y="70">via 1</text>
+  <rect class="tr" x="56" y="42" width="150" height="48" rx="6"/>
+  <text class="leg" x="131" y="62" text-anchor="middle">carne malpassada</text>
+  <text class="leg" x="131" y="78" text-anchor="middle">contendo larvas</text>
+  <path class="tr" d="M212 66 H258" marker-end="url(#se)"/>
+  <text class="leg" x="235" y="56" text-anchor="middle">ingere</text>
+  <use href="#h" x="310" y="32"/>
+  <ellipse class="fina" cx="312" cy="74" rx="26" ry="14"/>
+  <path class="fina" d="M292 74 q7 -8 13 0 q6 8 13 0 q6 -8 13 0"/>
+  <path class="fio" d="M340 74 H372"/>
+  <text class="rot" x="378" y="78">verme adulto no intestino</text>
+
+  <path class="guia" d="M12 142 H668"/>
+
+  <!-- Via 2: ingestao de ovos eliminados nas fezes de pessoa parasitada -->
+  <text class="via" x="12" y="212">via 2</text>
+  <rect class="tr" x="56" y="180" width="150" height="54" rx="6"/>
+  <text class="leg" x="131" y="197" text-anchor="middle">ovos eliminados</text>
+  <text class="leg" x="131" y="211" text-anchor="middle">nas fezes de uma</text>
+  <text class="leg" x="131" y="225" text-anchor="middle">pessoa parasitada</text>
+  <path class="tr" d="M212 207 H258" marker-end="url(#se)"/>
+  <text class="leg" x="235" y="197" text-anchor="middle">ingere</text>
+  <use href="#h" x="310" y="172"/>
+  <circle class="cheio" cx="310" cy="172" r="4.5"/>
+  <circle class="cheio" cx="310" cy="212" r="4.5"/>
+  <circle class="cheio" cx="297" cy="198" r="4"/>
+  <circle class="cheio" cx="318" cy="240" r="4"/>
+  <path class="fio" d="M324 166 L372 156"/>
+  <text class="rot" x="378" y="160">larvas alojadas em tecidos,</text>
+  <text class="rot" x="378" y="178">inclusive no sistema nervoso</text>
+</svg>

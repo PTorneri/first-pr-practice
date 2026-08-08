@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 220" width="660" height="220" role="img" aria-label="Reacao I: metano mais cloro sob luz ultravioleta produz clorometano e cloreto de hidrogenio. Reacao II: eteno mais cloro produz 1,2-dicloroetano, sem subproduto">
+  <style>
+    /* Duas paletas no proprio arquivo: o SVG carregado por &lt;img&gt; nao herda a da pagina. */
+    .traco { stroke: #0A2540; stroke-width: 2; fill: none; }
+    .seta  { fill: #0A2540; }
+    .simb  { fill: #0A2540; font: 600 17px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .rot   { fill: #475569; font: 700 15px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .sub   { font-size: 11px; }
+    @media (prefers-color-scheme: dark) {
+      .traco { stroke: #E2E8F0; }
+      .seta  { fill: #E2E8F0; }
+      .simb  { fill: #E2E8F0; }
+      .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <marker id="pf" viewBox="0 0 10 10" refX="9.5" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto">
+      <path class="seta" d="M0 0 L10 5 L0 10 Z"/>
+    </marker>
+  </defs>
+
+  <!-- Reacao I: substrato saturado, um hidrogenio sai como HCl -->
+  <text class="rot" x="22" y="86">I</text>
+  <text class="simb" x="76" y="86" text-anchor="middle">CH<tspan class="sub" dy="4">4</tspan></text>
+  <text class="simb" x="122" y="86" text-anchor="middle">+</text>
+  <text class="simb" x="160" y="86" text-anchor="middle">Cl<tspan class="sub" dy="4">2</tspan></text>
+  <path class="traco" d="M196 80 H282" marker-end="url(#pf)"/>
+  <text class="leg" x="240" y="66" text-anchor="middle">luz UV</text>
+  <text class="simb" x="330" y="86" text-anchor="middle">CH<tspan class="sub" dy="4">3</tspan><tspan dy="-4">Cl</tspan></text>
+  <text class="simb" x="402" y="86" text-anchor="middle">+</text>
+  <text class="simb" x="448" y="86" text-anchor="middle">HCl</text>
+  <text class="leg" x="76" y="110" text-anchor="middle">metano</text>
+  <text class="leg" x="160" y="110" text-anchor="middle">cloro</text>
+  <text class="leg" x="330" y="110" text-anchor="middle">clorometano</text>
+  <text class="leg" x="448" y="110" text-anchor="middle">cloreto de hidrogênio</text>
+
+  <!-- Reacao II: a dupla ligacao se abre e nada e liberado -->
+  <text class="rot" x="22" y="168">II</text>
+  <text class="simb" x="92" y="168" text-anchor="middle">H<tspan class="sub" dy="4">2</tspan><tspan dy="-4">C=CH</tspan><tspan class="sub" dy="4">2</tspan></text>
+  <text class="simb" x="152" y="168" text-anchor="middle">+</text>
+  <text class="simb" x="188" y="168" text-anchor="middle">Cl<tspan class="sub" dy="4">2</tspan></text>
+  <path class="traco" d="M224 162 H310" marker-end="url(#pf)"/>
+  <text class="simb" x="392" y="168" text-anchor="middle">ClH<tspan class="sub" dy="4">2</tspan><tspan dy="-4">C—CH</tspan><tspan class="sub" dy="4">2</tspan><tspan dy="-4">Cl</tspan></text>
+  <text class="leg" x="92" y="192" text-anchor="middle">eteno</text>
+  <text class="leg" x="188" y="192" text-anchor="middle">cloro</text>
+  <text class="leg" x="392" y="192" text-anchor="middle">1,2-dicloroetano</text>
+  <text class="leg" x="560" y="168" text-anchor="middle">sem subproduto</text>
+</svg>

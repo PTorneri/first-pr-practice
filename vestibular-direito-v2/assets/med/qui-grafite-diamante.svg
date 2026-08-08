@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 310" width="660" height="310" role="img" aria-label="A esquerda o grafite, tres camadas hexagonais planas e paralelas bem afastadas, com um atomo destacado ligado a tres vizinhos do mesmo plano; a direita o diamante, um carbono ligado a quatro vizinhos em arranjo tetraedrico que se repete no espaco">
+  <style>
+    /* Duas paletas no proprio arquivo: o SVG carregado por &lt;img&gt; nao herda a da pagina. */
+    .rede  { stroke: #0A2540; stroke-width: 1.6; fill: none; stroke-linecap: round; }
+    .lig   { stroke: #0A2540; stroke-width: 2.6; fill: none; stroke-linecap: round; }
+    .stub  { stroke: #0A2540; stroke-width: 1.6; fill: none; stroke-linecap: round; }
+    .tras  { stroke: #0A2540; stroke-width: 2.6; fill: none; stroke-dasharray: 5 4; }
+    .tetra { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 4 4; }
+    .entre { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 3 5; }
+    .cunha { fill: #0A2540; stroke: none; }
+    .pto   { fill: #0A2540; }
+    .rot   { fill: #475569; font: 700 16px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .rede, .lig, .stub, .tras { stroke: #E2E8F0; }
+      .tetra, .entre { stroke: #64748B; }
+      .cunha, .pto { fill: #E2E8F0; }
+      .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <!-- Uma camada hexagonal, reaproveitada tres vezes -->
+    <g id="cam"><path class="rede" d="M0 6.6L9.5 0M0 6.6L9.5 13.2M0 19.7L9.5 13.2M0 19.7L9.5 26.3M9.5 0L28.5 0M9.5 13.2L28.5 13.2M9.5 26.3L28.5 26.3M28.5 0L38 6.6M28.5 13.2L38 6.6M28.5 13.2L38 19.7M28.5 26.3L38 19.7M28.5 26.3L38 32.9M38 6.6L57 6.6M38 19.7L57 19.7M38 32.9L57 32.9M57 6.6L66.5 0M57 6.6L66.5 13.2M57 19.7L66.5 13.2M57 19.7L66.5 26.3M57 32.9L66.5 26.3M66.5 0L85.5 0M66.5 13.2L85.5 13.2M66.5 26.3L85.5 26.3M85.5 0L95 6.6M85.5 13.2L95 6.6M85.5 13.2L95 19.7M85.5 26.3L95 19.7M85.5 26.3L95 32.9M95 6.6L114 6.6M95 19.7L114 19.7M95 32.9L114 32.9M114 6.6L123.5 13.2M114 19.7L123.5 13.2M114 19.7L123.5 26.3M114 32.9L123.5 26.3"/></g>
+  </defs>
+
+  <!-- Grafite: tres camadas planas paralelas, com o afastamento entre elas a vista -->
+  <path class="entre" d="M99.5 60 V186 M204 66.6 V192.6"/>
+  <use href="#cam" x="90" y="186"/>
+  <use href="#cam" x="90" y="123"/>
+  <use href="#cam" x="90" y="60"/>
+  <!-- Um atomo da camada de cima e seus tres vizinhos, todos no mesmo plano -->
+  <path class="lig" d="M147 79.7 L128 79.7 M147 79.7 L156.5 73.2 M147 79.7 L156.5 86.3"/>
+  <circle class="pto" cx="147" cy="79.7" r="3.4"/>
+  <circle class="pto" cx="128" cy="79.7" r="3.4"/>
+  <circle class="pto" cx="156.5" cy="73.2" r="3.4"/>
+  <circle class="pto" cx="156.5" cy="86.3" r="3.4"/>
+
+  <!-- Diamante: um carbono e seus quatro vizinhos em tetraedro, a rede seguindo em todas as direcoes -->
+  <path class="tetra" d="M490 92 L542.8 166.6 L477.3 182.2 Z M490 92 L449.9 151.1 L477.3 182.2 M542.8 166.6 L449.9 151.1"/>
+  <path class="stub" d="M490 92 L466.2 83.6 M490 92 L495.7 76.6 M490 92 L508 90.6 M542.8 166.6 L542.8 191.8 M542.8 166.6 L548.5 151.2 M542.8 166.6 L560.8 165.2 M477.3 182.2 L477.3 207.4 M477.3 182.2 L453.5 173.8 M477.3 182.2 L495.3 180.8 M449.9 151.1 L449.9 176.3 M449.9 151.1 L426.1 142.7 M449.9 151.1 L455.6 135.7"/>
+  <path class="lig" d="M490 148 L490 92 M490 148 L542.8 166.6"/>
+  <path class="tras" d="M490 148 L449.9 151.1"/>
+  <path class="cunha" d="M490 148 L474.0 181.1 L481.4 183.8 Z"/>
+  <circle class="pto" cx="490" cy="148" r="4"/>
+  <circle class="pto" cx="490" cy="92" r="3.4"/>
+  <circle class="pto" cx="542.8" cy="166.6" r="3.4"/>
+  <circle class="pto" cx="477.3" cy="182.2" r="3.4"/>
+  <circle class="pto" cx="449.9" cy="151.1" r="3.4"/>
+
+  <!-- Legendas -->
+  <text class="rot" x="152" y="254" text-anchor="middle">grafite</text>
+  <text class="leg" x="152" y="277" text-anchor="middle">camadas planas e paralelas, afastadas</text>
+  <text class="leg" x="152" y="295" text-anchor="middle">cada C ligado a 3 vizinhos do mesmo plano</text>
+  <text class="rot" x="493" y="254" text-anchor="middle">diamante</text>
+  <text class="leg" x="493" y="277" text-anchor="middle">rede tridimensional rígida</text>
+  <text class="leg" x="493" y="295" text-anchor="middle">cada C ligado a 4 vizinhos, em tetraedro</text>
+</svg>

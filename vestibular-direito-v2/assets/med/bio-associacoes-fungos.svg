@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 280" width="680" height="280" role="img" aria-label="Tres associacoes numeradas: em I alga e fungo formam uma estrutura unica sobre rocha nua; em II hifas fungicas envolvem a raiz de uma planta; em III um fungo se instala na pele de um mamifero e provoca lesao">
+  <style>
+    /* Carregado via img, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui e a media query responde a preferencia do sistema. */
+    .tr     { stroke: #0A2540; stroke-width: 2; fill: none; }
+    .fina   { stroke: #0A2540; stroke-width: 1.5; fill: none; }
+    .crosta { stroke: #0A2540; stroke-width: 5; fill: none; stroke-linecap: round; }
+    .cheio  { fill: #0A2540; stroke: none; }
+    .fio    { stroke: #94A3B8; stroke-width: 1.2; fill: none; }
+    .guia   { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 5 5; }
+    .num    { fill: #475569; font: 700 16px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .rot    { fill: #475569; font: 600 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg    { fill: #475569; font: 400 11px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .tr, .fina, .crosta { stroke: #E2E8F0; }
+      .cheio { fill: #E2E8F0; }
+      .fio, .guia { stroke: #64748B; }
+      .num, .rot, .leg { fill: #E2E8F0; }
+    }
+  </style>
+  <defs>
+    <marker id="se" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" class="cheio"/>
+    </marker>
+  </defs>
+
+  <path class="guia" d="M227 12 V258 M453 12 V258"/>
+
+  <!-- I: alga e fungo formando uma estrutura unica sobre rocha nua -->
+  <text class="num" x="14" y="26">I</text>
+  <path class="tr" d="M26 196 L58 164 L106 154 L158 172 L196 198 L196 236 L26 236 Z"/>
+  <path class="crosta" d="M28 190 L58 158 L106 148 L158 166 L194 192"/>
+  <circle class="fina" cx="113" cy="80" r="40"/>
+  <path class="fio" d="M113 120 L108 146"/>
+  <path class="fina" d="M84 86 q14 -10 28 0 q14 10 28 -2 M86 66 q12 12 26 4 q12 -8 26 2"/>
+  <circle class="tr" cx="99" cy="70" r="5"/>
+  <circle class="tr" cx="122" cy="64" r="5"/>
+  <circle class="tr" cx="110" cy="96" r="5"/>
+  <text class="rot" x="60" y="34" text-anchor="end">alga</text>
+  <path class="fio" d="M64 38 L95 64"/>
+  <text class="rot" x="166" y="34">fungo</text>
+  <path class="fio" d="M164 38 L140 70"/>
+  <text class="leg" x="113" y="254" text-anchor="middle">estrutura única sobre rocha nua</text>
+
+  <!-- II: hifas fungicas envolvendo a raiz de uma planta -->
+  <text class="num" x="241" y="26">II</text>
+  <path class="tr" d="M326 56 L331 188 Q340 204 349 188 L354 56"/>
+  <path class="fina" d="M292 84 q30 -10 56 6 q28 16 56 4 M290 116 q32 14 54 -4 q26 -16 58 2 M292 150 q30 -12 56 4 q28 16 54 2"/>
+  <text class="rot" x="340" y="42" text-anchor="middle">água e sais</text>
+  <path class="fina" d="M300 56 L322 76" marker-end="url(#se)"/>
+  <path class="fina" d="M380 56 L358 76" marker-end="url(#se)"/>
+  <text class="rot" x="378" y="170">raiz</text>
+  <path class="fio" d="M374 166 L352 162"/>
+  <text class="rot" x="276" y="192" text-anchor="end">hifa</text>
+  <path class="fio" d="M280 188 L300 158"/>
+  <text class="leg" x="340" y="254" text-anchor="middle">hifas do fungo envolvem a raiz</text>
+
+  <!-- III: fungo instalado na pele de um mamifero, com lesao -->
+  <text class="num" x="466" y="26">III</text>
+  <path class="fina" d="M520 112 q10 16 4 30 q-6 14 6 26 M556 106 q12 18 2 32 q-8 14 4 26 M596 114 q8 16 0 28 q-8 12 2 24"/>
+  <rect class="tr" x="470" y="152" width="196" height="24"/>
+  <rect class="tr" x="470" y="176" width="196" height="34"/>
+  <path class="tr" d="M505 152 l11 -9 l11 9 l11 -9 l11 9 l11 -9 l11 9 l11 -9 l11 9 l11 -9 l11 9"/>
+  <text class="rot" x="508" y="96" text-anchor="end">fungo</text>
+  <path class="fio" d="M512 100 L536 116"/>
+  <text class="rot" x="646" y="126" text-anchor="end">lesão</text>
+  <path class="fio" d="M642 130 L606 146"/>
+  <text class="leg" x="567" y="254" text-anchor="middle">fungo instalado na pele de um mamífero</text>
+</svg>

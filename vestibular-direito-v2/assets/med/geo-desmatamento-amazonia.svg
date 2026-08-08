@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 296" width="640" height="296" role="img" aria-label="Grafico de linhas do desmatamento anual na Amazonia Legal em quatro anos: 10.000, 8.000, 7.000 e 9.000 km2, com queda em dois anos seguidos e alta no ultimo">
+  <style>
+    /* Carregado via &lt;img&gt;, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui, e a media query e avaliada contra o sistema. */
+    .eixo  { stroke: #475569; stroke-width: 1.6; fill: none; }
+    .curva { stroke: #0A2540; stroke-width: 2.6; fill: none; stroke-linejoin: round; stroke-linecap: round; }
+    .guia  { stroke: #94A3B8; stroke-width: 1.2; fill: none; stroke-dasharray: 4 4; }
+    .rot   { fill: #475569; font: 600 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .leg   { fill: #475569; font: 400 12.5px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .pto   { fill: #0A2540; }
+    @media (prefers-color-scheme: dark) {
+      .eixo  { stroke: #94A3B8; }
+      .curva { stroke: #E2E8F0; }
+      .guia  { stroke: #64748B; }
+      .rot, .leg { fill: #E2E8F0; }
+      .pto   { fill: #E2E8F0; }
+    }
+  </style>
+
+  <!-- Eixos: area desmatada por ano contra os quatro anos da serie -->
+  <path class="eixo" d="M70 30 V260 H590"/>
+  <text class="rot" x="70" y="20" text-anchor="start">km2 desmatados por ano</text>
+
+  <!-- Escala vertical de 0 a 12.000, de 3.000 em 3.000 -->
+  <path class="guia" d="M70 206 H590 M70 152 H590 M70 98 H590 M70 44 H590"/>
+  <text class="rot" x="62" y="265" text-anchor="end">0</text>
+  <text class="rot" x="62" y="211" text-anchor="end">3.000</text>
+  <text class="rot" x="62" y="157" text-anchor="end">6.000</text>
+  <text class="rot" x="62" y="103" text-anchor="end">9.000</text>
+  <text class="rot" x="62" y="49" text-anchor="end">12.000</text>
+
+  <!-- A serie: 10.000, 8.000, 7.000 e 9.000 -->
+  <path class="curva" d="M120 80 L270 116 L420 134 L570 98"/>
+  <circle class="pto" cx="120" cy="80" r="4.5"/>
+  <circle class="pto" cx="270" cy="116" r="4.5"/>
+  <circle class="pto" cx="420" cy="134" r="4.5"/>
+  <circle class="pto" cx="570" cy="98" r="4.5"/>
+
+  <!-- Valor de cada ano, ao lado do ponto -->
+  <text class="leg" x="120" y="66" text-anchor="middle">10.000</text>
+  <text class="leg" x="270" y="134" text-anchor="middle">8.000</text>
+  <text class="leg" x="420" y="120" text-anchor="middle">7.000</text>
+  <text class="leg" x="570" y="84" text-anchor="middle">9.000</text>
+
+  <!-- Eixo horizontal: os quatro anos consecutivos -->
+  <text class="rot" x="120" y="278" text-anchor="middle">Ano 1</text>
+  <text class="rot" x="270" y="278" text-anchor="middle">Ano 2</text>
+  <text class="rot" x="420" y="278" text-anchor="middle">Ano 3</text>
+  <text class="rot" x="570" y="278" text-anchor="middle">Ano 4</text>
+</svg>

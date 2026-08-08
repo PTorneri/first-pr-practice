@@ -10281,7 +10281,12 @@ window.QUESTION_BANKS = {
                                                    },
                                   "resposta":  "a",
                                   "explicacao":  "Homem tem um único X, então basta um alelo recessivo nele para manifestar; a mãe portadora tem o segundo X que a protege. Duas opções acertam o tipo de herança e oferecem evidências que não sustentam — inclusive uma que descreveria herança autossômica.",
-                                  "formato":  "lacunas"
+                                  "formato":  "lacunas",
+                                  "visual":  {
+                                                 "tipo":  "Heredograma",
+                                                 "arquivo":  "assets/med/bio-heredograma-cn-01.svg",
+                                                 "descricao":  "Heredograma de três gerações. Geração I: o casal I-1 e I-2, nenhum deles afetado. Geração II: II-1, homem afetado (quadrado preenchido), e sua irmã II-2, mulher não afetada, casada com II-3, homem não afetado. Geração III: os filhos de II-2 x II-3, III-1 e III-2, meninos afetados, e III-3, menina não afetada. Todos os afetados da figura são homens, nenhuma mulher aparece preenchida, e as mães dos homens afetados, I-2 e II-2, não são afetadas."
+                                             }
                               },
                               {
                                   "id":  "ciencias-natureza-108",
@@ -10371,7 +10376,12 @@ window.QUESTION_BANKS = {
                                                    },
                                   "resposta":  "c",
                                   "explicacao":  "Cromossomos alinhados no equador definem a metáfase, e o que vem a seguir é a anáfase, com separação das cromátides. Duas opções acertam \"metáfase\" e erram a sequência — o pareamento de homólogos, aliás, ocorre na meiose, não na mitose.",
-                                  "formato":  "lacunas"
+                                  "formato":  "lacunas",
+                                  "visual":  {
+                                                 "tipo":  "Esquema",
+                                                 "arquivo":  "assets/med/bio-mitose-plano-equatorial.svg",
+                                                 "descricao":  "Esquema de uma célula em divisão, sem envoltório nuclear. Quatro cromossomos já duplicados, cada um em forma de X, com duas cromátides-irmãs unidas pelo centrômero, aparecem alinhados lado a lado sobre uma única linha no meio da célula, o plano equatorial. De dois centrossomos, um em cada polo, partem fibras do fuso que se prendem aos centrômeros pelos dois lados. Nenhuma cromátide foi puxada para os polos."
+                                             }
                               },
                               {
                                   "id":  "ciencias-natureza-114",
@@ -10402,6 +10412,261 @@ window.QUESTION_BANKS = {
                                   "resposta":  "d",
                                   "explicacao":  "Na emissão de pósitron um próton vira nêutron: o número atômico cai uma unidade, mas o de massa não muda. E trinta minutos são três meias-vidas, então a atividade cai pela metade três vezes — um oitavo, não um terço. Duas opções acertam a primeira lacuna e erram justamente essa conta.",
                                   "formato":  "lacunas"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-116",
+                                  "texto_apoio":  "Campanhas do Ministério da Saúde recomendam reduzir o consumo diário de sal, apontado como um dos principais fatores modificáveis associados à hipertensão arterial na população brasileira.",
+                                  "enunciado":  "Campanhas de saúde recomendam reduzir o consumo de sal para controlar a pressão arterial. A relação fisiológica entre sódio e pressão passa pelo sistema excretor porque:",
+                                  "alternativas":  {
+                                                       "a":  "o sódio bloqueia a filtração glomerular e faz o rim interromper a produção de urina, de modo que a pressão sobe pela ausência completa de excreção",
+                                                       "b":  "o sódio se deposita na parede das artérias e reduz mecanicamente o diâmetro do vaso, sendo esse estreitamento o único caminho pelo qual o sal eleva a pressão arterial",
+                                                       "c":  "o sódio retido pelos túbulos renais puxa água por osmose, o que eleva o volume de sangue circulante e, com ele, a pressão exercida sobre a parede das artérias",
+                                                       "d":  "o sódio é convertido em ureia pelos rins, e é o acúmulo dessa substância no sangue que endurece os vasos e provoca a elevação da pressão arterial",
+                                                       "e":  "o sódio estimula a medula óssea a produzir mais hemácias, e o sangue mais espesso resultante exige pressão maior para circular pelos capilares do corpo"
+                                                   },
+                                  "resposta":  "c",
+                                  "explicacao":  "Água acompanha sódio. Quando o rim reabsorve mais sódio, retém mais água, e o volume plasmático maior se traduz em pressão maior. É por essa via que a dieta com muito sal e o hiperaldosteronismo elevam a pressão, e é por ela que os diuréticos a reduzem: eles fazem o rim eliminar sódio, e a água sai junto.",
+                                  "formato":  "direta"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-117",
+                                  "texto_apoio":  "O exame de urina tipo I está entre os exames laboratoriais mais pedidos na atenção primária, por ser barato, não invasivo e capaz de sinalizar doenças renais em fase ainda assintomática.",
+                                  "enunciado":  "O exame de urina é usado como triagem em consultas de rotina. A presença de proteína em quantidade elevada na urina sugere:",
+                                  "alternativas":  {
+                                                       "a":  "produção aumentada de ureia pelo fígado, que satura a capacidade de transporte do sangue e obriga o organismo a eliminar a proteína inteira pelo rim do paciente",
+                                                       "b":  "excesso de proteína na alimentação do dia anterior, situação em que o organismo saudável descarta pela urina toda a fração que não conseguiu absorver",
+                                                       "c":  "desidratação, quadro em que a urina fica concentrada e as proteínas normalmente presentes nela passam a ser detectadas pelo exame de laboratório",
+                                                       "d":  "lesão da barreira de filtração do glomérulo, que normalmente retém as proteínas do plasma por causa do tamanho e da carga elétrica dessas moléculas",
+                                                       "e":  "infecção da bexiga, uma vez que as bactérias que ali se multiplicam liberam proteínas próprias que aparecem no exame e caracterizam a proteinúria"
+                                                   },
+                                  "resposta":  "d",
+                                  "explicacao":  "O glomérulo filtra água e pequenas moléculas e retém proteínas plasmáticas. Proteinúria significa que essa barreira falhou, o que ocorre em doenças como a nefropatia diabética e a hipertensiva. Não é um achado dietético: o rim saudável não deixa passar albumina mesmo com dieta rica em proteína.",
+                                  "formato":  "direta"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-118",
+                                  "texto_apoio":  "A legislação brasileira permite a doação de rim entre vivos, observados os graus de parentesco e a autorização judicial nos demais casos. O doador passa por avaliação clínica prévia e por acompanhamento posterior.",
+                                  "enunciado":  "A doação de rim entre vivos é possível porque a pessoa continua com função renal adequada usando um só órgão. A base fisiológica dessa afirmação é:",
+                                  "alternativas":  {
+                                                       "a":  "a diálise passa a ser obrigatória para o doador, e é ela que garante a manutenção do equilíbrio de água e eletrólitos no organismo dele",
+                                                       "b":  "o rim remanescente se divide em dois ao longo dos meses seguintes, restaurando o número original de órgãos e a taxa de filtração anterior à cirurgia",
+                                                       "c":  "o fígado assume a filtração do sangue depois da doação, dividindo com o rim restante o trabalho de retirar ureia e creatinina da circulação",
+                                                       "d":  "a produção de urina deixa de ser necessária após a doação, pois o organismo passa a eliminar os resíduos nitrogenados pela pele e pelo pulmão",
+                                                       "e":  "a capacidade de filtração de cada rim excede com folga a demanda diária, e o rim remanescente aumenta seu trabalho para compensar a perda do outro"
+                                                   },
+                                  "resposta":  "e",
+                                  "explicacao":  "Há reserva funcional grande: os dois rins juntos filtram bem mais do que o mínimo necessário, e o rim que permanece aumenta a filtração por hipertrofia compensatória. Por isso o doador vive sem diálise e com função adequada — o que exige, ainda assim, avaliação prévia rigorosa e acompanhamento.",
+                                  "formato":  "direta"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-119",
+                                  "texto_apoio":  "Entre os efeitos do consumo de bebida alcoólica descritos na literatura médica está o aumento do volume urinário, que contribui para o quadro de desidratação relatado no dia seguinte.",
+                                  "enunciado":  "O álcool inibe a liberação do hormônio ______, o que ______ a reabsorção de água no ducto coletor e explica ______ observado após o consumo de bebida alcoólica. As lacunas são preenchidas por:",
+                                  "alternativas":  {
+                                                       "a":  "antidiurético – reduz – o aumento do volume de urina",
+                                                       "b":  "insulina – aumenta – o aumento da sede na manhã seguinte",
+                                                       "c":  "aldosterona – reduz – o acúmulo de líquido nos membros inferiores",
+                                                       "d":  "antidiurético – aumenta – a redução do volume de urina",
+                                                       "e":  "adrenalina – aumenta – a queda da pressão arterial durante a noite"
+                                                   },
+                                  "resposta":  "a",
+                                  "explicacao":  "O etanol suprime a secreção de hormônio antidiurético pela neuro-hipófise. Sem ele, o ducto coletor fica menos permeável à água, a reabsorção cai e o volume urinário sobe. A perda de água maior que a ingerida é parte do que produz a desidratação e a dor de cabeça do dia seguinte.",
+                                  "formato":  "lacunas"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-120",
+                                  "texto_apoio":  "Dados do Sistema Nacional de Transplantes mostram que a maior parte dos pacientes em fila para transplante renal depende de sessões de hemodiálise várias vezes por semana enquanto aguarda um órgão compatível.",
+                                  "enunciado":  "Notícias sobre filas de transplante mencionam pacientes que dependem de hemodiálise três vezes por semana. A razão de a diálise não substituir integralmente o rim é:",
+                                  "alternativas":  {
+                                                       "a":  "ela remove apenas a água em excesso, deixando intactas a ureia e a creatinina, que continuam a se acumular no sangue entre uma sessão e outra",
+                                                       "b":  "ela depura o sangue e ajusta água e sais, mas não repõe a função endócrina do rim, que produz eritropoetina e ativa a vitamina D",
+                                                       "c":  "ela funciona somente em pacientes que ainda produzem urina, e perde qualquer efeito quando a produção urinária cessa por completo no doente crônico",
+                                                       "d":  "ela substitui o rim de forma completa, e a fila de transplante se explica apenas pelo custo elevado do procedimento para o sistema de saúde",
+                                                       "e":  "ela precisa ser feita durante o sono porque depende dos hormônios liberados nesse período para filtrar adequadamente o sangue do paciente"
+                                                   },
+                                  "resposta":  "b",
+                                  "explicacao":  "A máquina faz o trabalho de depuração e de equilíbrio hidroeletrolítico, e o faz de modo intermitente, ao contrário do rim, que trabalha continuamente. O que ela não faz é produzir eritropoetina nem ativar a vitamina D — daí a anemia e a doença óssea do renal crônico, tratadas com reposição à parte.",
+                                  "formato":  "direta"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-121",
+                                  "texto_apoio":  "Alertas de onda de calor emitidos por órgãos de defesa civil costumam incluir a recomendação de aumentar a ingestão de água e evitar exposição ao sol nos horários de maior radiação.",
+                                  "enunciado":  "Recomenda-se aumentar a ingestão de água em dias quentes. A resposta do organismo à desidratação leve inclui:",
+                                  "alternativas":  {
+                                                       "a":  "aumento da filtração glomerular, medida que acelera a formação de urina e devolve rapidamente ao sangue a água perdida pela transpiração",
+                                                       "b":  "menor liberação de hormônio antidiurético, o que aumenta o volume de urina e ajuda a eliminar o calor acumulado durante a exposição ao sol",
+                                                       "c":  "maior liberação de hormônio antidiurético, que aumenta a reabsorção de água no rim e produz urina em menor volume e mais concentrada",
+                                                       "d":  "interrupção da produção de suor, mecanismo que preserva água e é a primeira resposta do organismo antes de qualquer ajuste renal ocorrer",
+                                                       "e":  "conversão da gordura corporal em água pelos rins, processo que compensa integralmente a perda hídrica e dispensa a reposição por via oral"
+                                                   },
+                                  "resposta":  "c",
+                                  "explicacao":  "A elevação da osmolaridade do plasma é detectada no hipotálamo, que dispara sede e liberação de hormônio antidiurético. O rim então reabsorve mais água e concentra a urina — por isso a urina escura é sinal clínico de desidratação. Interromper o suor pioraria a termorregulação, e não é o que ocorre.",
+                                  "formato":  "direta"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-122",
+                                  "texto_apoio":  "Os antidepressivos mais prescritos no Brasil pertencem à classe dos inibidores seletivos da recaptação de serotonina, cuja ação ocorre na comunicação entre neurônios.",
+                                  "enunciado":  "Vários medicamentos usados no tratamento da depressão atuam sobre a recaptação de serotonina. O efeito imediato desse mecanismo é:",
+                                  "alternativas":  {
+                                                       "a":  "substituir a serotonina por dopamina nas sinapses do encéfalo, alterando a via de sinalização usada pelos circuitos ligados ao humor",
+                                                       "b":  "aumentar a produção de serotonina pelo corpo celular do neurônio, elevando a quantidade total do neurotransmissor armazenada nas vesículas",
+                                                       "c":  "destruir a serotonina presente na fenda sináptica, o que reduz a intensidade do sinal transmitido entre os dois neurônios envolvidos",
+                                                       "d":  "prolongar a permanência do neurotransmissor na fenda sináptica, o que aumenta o estímulo sobre os receptores do neurônio seguinte",
+                                                       "e":  "impedir a chegada do potencial de ação ao terminal do axônio, o que interrompe a liberação de qualquer neurotransmissor naquela sinapse"
+                                                   },
+                                  "resposta":  "d",
+                                  "explicacao":  "A recaptação é o mecanismo que retira o neurotransmissor da fenda e o devolve ao neurônio pré-sináptico. Bloqueá-la mantém a serotonina disponível por mais tempo e intensifica a sinalização. O efeito bioquímico é imediato, mas a resposta clínica leva semanas, o que indica que a adaptação dos receptores também participa.",
+                                  "formato":  "direta"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-123",
+                                  "texto_apoio":  "A chamada Lei Seca fixa em zero a tolerância de álcool para condutores no Brasil, com base em estudos que relacionam a concentração da substância no sangue ao aumento do risco de acidentes.",
+                                  "enunciado":  "Legislações de trânsito fixam limite de álcool no sangue para condutores. Do ponto de vista do sistema nervoso, o álcool é classificado como depressor porque:",
+                                  "alternativas":  {
+                                                       "a":  "acelera a transmissão sináptica no córtex cerebral e provoca a euforia inicial, efeito que se mantém enquanto durar a presença da substância no sangue",
+                                                       "b":  "diminui a frequência dos batimentos cardíacos e da respiração, sendo esses os efeitos que caracterizam a substância como depressora do organismo",
+                                                       "c":  "provoca sonolência apenas em doses muito elevadas, sem qualquer efeito sobre a condução de impulsos nervosos nas doses toleradas pela legislação",
+                                                       "d":  "atua exclusivamente sobre os nervos periféricos dos membros, o que explica a alteração do equilíbrio sem interferência sobre a atividade encefálica",
+                                                       "e":  "reduz a excitabilidade dos neurônios do sistema nervoso central, o que retarda o tempo de reação e prejudica a coordenação motora e o julgamento"
+                                                   },
+                                  "resposta":  "e",
+                                  "explicacao":  "Depressor, aqui, se refere à atividade neural: o etanol potencia a sinalização inibitória e reduz a excitatória no sistema nervoso central. A euforia inicial vem da depressão dos circuitos de controle inibitório, e não de aceleração. O efeito sobre tempo de reação e coordenação é o que fundamenta o limite legal.",
+                                  "formato":  "direta"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-124",
+                                  "texto_apoio":  "Situações cotidianas ilustram a diferença entre respostas automáticas e respostas conscientes do organismo, como o que ocorre ao encostar em uma panela quente.",
+                                  "enunciado":  "Ao encostar a mão em uma superfície muito quente, a pessoa retira o braço antes de sentir a dor. A explicação para essa ordem é:",
+                                  "alternativas":  {
+                                                       "a":  "a retirada é um ato reflexo que se completa na medula espinhal, enquanto a sensação consciente depende de o sinal subir até o córtex cerebral",
+                                                       "b":  "a dor é conduzida por fibras mais rápidas que as motoras, e por isso chega ao encéfalo depois que o movimento de retirada já foi executado",
+                                                       "c":  "o movimento é comandado pelo cerebelo, que recebe o estímulo diretamente da pele sem intermediação de qualquer estrutura do sistema nervoso central",
+                                                       "d":  "a musculatura do braço se contrai por efeito direto do calor sobre as fibras musculares, sem participação de neurônio algum nesse primeiro momento",
+                                                       "e":  "a informação dolorosa é bloqueada na medula durante o movimento, e só é liberada para o encéfalo depois que o membro se afasta da fonte de calor"
+                                                   },
+                                  "resposta":  "a",
+                                  "explicacao":  "O arco reflexo de retirada envolve neurônio sensitivo, interneurônio e neurônio motor, todos na medula: a resposta sai sem esperar o encéfalo. Em paralelo, a informação sobe pelas vias ascendentes e vira dor consciente no córtex. A diferença de trajeto explica a ordem percebida.",
+                                  "formato":  "direta"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-125",
+                                  "texto_apoio":  "Campanhas de segurança viária associam o uso de celular ao volante e a privação de sono à queda do desempenho atencional dos motoristas, com efeito comparável ao de doses moderadas de álcool.",
+                                  "enunciado":  "Campanhas contra o uso de celular ao volante citam a queda da atenção. Entre as funções atribuídas ao sono adequado que se relacionam a esse tema está:",
+                                  "alternativas":  {
+                                                       "a":  "a reposição integral das reservas de neurotransmissores, que se esgotam por completo durante a vigília e só voltam a ser sintetizadas à noite",
+                                                       "b":  "a consolidação da memória e a restauração do desempenho atencional, processos que dependem das fases do sono e se degradam com a privação",
+                                                       "c":  "a substituição dos neurônios danificados durante o dia por células novas produzidas na medula óssea e transportadas até o encéfalo pelo sangue",
+                                                       "d":  "a interrupção completa da atividade elétrica do encéfalo, condição necessária para que o tecido nervoso descanse do esforço realizado na vigília",
+                                                       "e":  "a eliminação de gás carbônico acumulado no líquido cefalorraquidiano, que se torna possível apenas quando a pessoa permanece deitada por horas"
+                                                   },
+                                  "resposta":  "b",
+                                  "explicacao":  "O sono não é desligamento: a atividade elétrica continua, organizada em fases, e é durante elas que ocorrem consolidação de memória e restauração da atenção. A privação de sono degrada tempo de reação de forma comparável ao álcool, o que é a base das campanhas sobre direção.",
+                                  "formato":  "direta"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-126",
+                                  "texto_apoio":  "Padrões de qualidade do ar adotados pela Organização Mundial da Saúde estabelecem limites para o material particulado fino, conhecido como MP2,5, presente sobretudo na queima de combustíveis.",
+                                  "enunciado":  "Normas de qualidade do ar estabelecem limites para o material particulado fino. O motivo de esse poluente ser considerado mais perigoso que as partículas maiores é:",
+                                  "alternativas":  {
+                                                       "a":  "ele é retido pelos cílios da traqueia e permanece ali por anos, o que provoca a inflamação crônica responsável pelos sintomas dos moradores de grandes cidades",
+                                                       "b":  "ele se dissolve no muco do nariz e é eliminado antes de alcançar os brônquios, o que concentra o dano na porção inicial do sistema respiratório",
+                                                       "c":  "seu diâmetro reduzido permite que ele ultrapasse as defesas das vias aéreas superiores e alcance os alvéolos, onde a barreira de troca é muito fina",
+                                                       "d":  "seu tamanho impede a entrada nos pulmões e obriga a pessoa a respirar pela boca, alterando o aquecimento e a umidificação do ar inspirado",
+                                                       "e":  "ele reage com o surfactante e o converte em uma substância que aumenta a tensão superficial dos alvéolos, sendo esse o único mecanismo de dano descrito"
+                                                   },
+                                  "resposta":  "c",
+                                  "explicacao":  "Partículas maiores ficam retidas no nariz e na árvore brônquica e são removidas pelo transporte mucociliar. As de diâmetro inferior a 2,5 micrômetros escapam desse filtro e chegam ao alvéolo, onde a barreira alveolocapilar é finíssima — daí a associação com doença respiratória e cardiovascular.",
+                                  "formato":  "direta"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-127",
+                                  "texto_apoio":  "Manuais de mergulho livre advertem contra a prática de hiperventilar antes de submergir, associada a casos de desmaio dentro d\u0027água mesmo entre praticantes experientes.",
+                                  "enunciado":  "Uma pessoa que prende a respiração é obrigada a voltar a respirar depois de algum tempo. O estímulo que determina esse limite é:",
+                                  "alternativas":  {
+                                                       "a":  "a queda da temperatura do sangue que circula pelos pulmões parados, sinal enviado ao hipotálamo e traduzido em ordem para retomar a ventilação",
+                                                       "b":  "o esgotamento completo do oxigênio dos pulmões, que só então aciona os receptores responsáveis por retomar os movimentos respiratórios",
+                                                       "c":  "a distensão da caixa torácica, que atinge um limite mecânico e força a musculatura intercostal a relaxar independentemente da vontade da pessoa",
+                                                       "d":  "o acúmulo de gás carbônico no sangue e a queda do pH, detectados por quimiorreceptores que estimulam o centro respiratório no bulbo",
+                                                       "e":  "a produção de ácido láctico pelos músculos da respiração, cuja fadiga determina o momento em que a pessoa perde o controle voluntário do processo"
+                                                   },
+                                  "resposta":  "d",
+                                  "explicacao":  "O controle da ventilação é regido principalmente pelo CO2, e não pelo O2: a elevação do gás carbônico acidifica o líquido cefalorraquidiano e os quimiorreceptores centrais disparam. É por isso que hiperventilar antes de mergulhar é perigoso — reduz o CO2, adia o estímulo, e a pessoa pode desmaiar por falta de oxigênio sem sentir vontade de respirar.",
+                                  "formato":  "direta"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-128",
+                                  "texto_apoio":  "A doença pulmonar obstrutiva crônica está entre as principais causas de morte no mundo, e o tabagismo responde pela maior parte dos casos registrados em países de renda média.",
+                                  "enunciado":  "O tabagismo é apontado como fator de risco para a doença pulmonar obstrutiva crônica. Entre os mecanismos que ligam a fumaça à perda de função pulmonar está:",
+                                  "alternativas":  {
+                                                       "a":  "a redução do número de hemácias circulantes, que diminui o transporte de oxigênio sem que haja qualquer alteração da estrutura do tecido pulmonar",
+                                                       "b":  "a substituição do oxigênio pelo gás carbônico no ar inspirado, alteração da composição do ar que reduz a quantidade de gás disponível para a troca",
+                                                       "c":  "o aumento da produção de surfactante pelos pneumócitos, o que torna os alvéolos rígidos demais para se expandirem durante a inspiração normal",
+                                                       "d":  "a obstrução da traqueia por depósitos de alcatrão, único mecanismo pelo qual a fumaça compromete a passagem do ar até os pulmões do fumante",
+                                                       "e":  "a paralisia dos cílios do epitélio respiratório e a destruição das paredes alveolares, que reduzem a limpeza das vias aéreas e a área de hematose"
+                                                   },
+                                  "resposta":  "e",
+                                  "explicacao":  "A fumaça paralisa o transporte mucociliar, o que retém secreção e favorece infecção, e desencadeia inflamação que destrói septos alveolares — o enfisema. Perde-se área de troca e recuo elástico. O monóxido de carbono da fumaça agrava o quadro ocupando a hemoglobina, mas o dano estrutural é o que define a doença.",
+                                  "formato":  "direta"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-129",
+                                  "texto_apoio":  "A rotulagem nutricional brasileira passou a destacar na frente da embalagem informações sobre a composição dos alimentos, entre elas o conteúdo de fibras alimentares.",
+                                  "enunciado":  "Rótulos de alimentos destacam a presença de fibras. Do ponto de vista do sistema digestório humano, as fibras:",
+                                  "alternativas":  {
+                                                       "a":  "não são digeridas por enzimas humanas, aumentam o volume do bolo fecal e servem de substrato para a microbiota do intestino grosso",
+                                                       "b":  "são quebradas pela amilase salivar em açúcares simples, e é essa liberação lenta de glicose que explica a sensação de saciedade prolongada",
+                                                       "c":  "são absorvidas no intestino delgado junto com as gorduras e transportadas pelos vasos linfáticos até a corrente sanguínea do indivíduo",
+                                                       "d":  "estimulam a produção de bile pelo fígado e, com isso, aceleram a digestão das proteínas presentes na mesma refeição consumida pela pessoa",
+                                                       "e":  "substituem a ação do suco gástrico na quebra das proteínas, o que reduz a necessidade de ácido clorídrico e protege a parede do estômago"
+                                                   },
+                                  "resposta":  "a",
+                                  "explicacao":  "O ser humano não produz celulase, então a fibra atravessa o tubo digestório sem ser hidrolisada. Ela retém água, aumenta o volume e a velocidade do trânsito intestinal, e alimenta a microbiota do cólon, que a fermenta produzindo ácidos graxos de cadeia curta. Daí o efeito sobre o funcionamento do intestino.",
+                                  "formato":  "direta"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-130",
+                                  "texto_apoio":  "O consumo crônico e excessivo de álcool está associado a doenças hepáticas que evoluem da esteatose à cirrose, com comprometimento progressivo das funções do fígado.",
+                                  "enunciado":  "O consumo crônico de bebida alcoólica sobrecarrega o fígado. A relação entre esse órgão e a digestão que fica comprometida em quadros avançados é:",
+                                  "alternativas":  {
+                                                       "a":  "a produção de ácido clorídrico, cuja queda impede a ativação da pepsina e interrompe a digestão das proteínas ainda no estômago",
+                                                       "b":  "a produção de bile, secreção que emulsifica as gorduras e viabiliza a ação da lipase pancreática no intestino delgado",
+                                                       "c":  "a absorção dos nutrientes pelas vilosidades, uma vez que a mucosa do intestino delgado é formada por prolongamentos do tecido hepático",
+                                                       "d":  "o armazenamento do bolo alimentar antes da passagem para o duodeno, função que o fígado divide com a vesícula biliar em condições normais",
+                                                       "e":  "a produção da amilase que inicia a quebra do amido, enzima secretada pelo fígado e lançada na boca junto com a saliva durante a mastigação"
+                                                   },
+                                  "resposta":  "b",
+                                  "explicacao":  "O fígado produz a bile, armazenada na vesícula e lançada no duodeno. Sais biliares emulsificam a gordura e permitem que a lipase pancreática atue sobre gotículas menores. Na doença hepática avançada essa produção cai e aparece má absorção de gorduras. Ácido clorídrico é do estômago e amilase salivar é das glândulas salivares.",
+                                  "formato":  "direta"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-131",
+                                  "texto_apoio":  "O suco gástrico humano é uma das secreções mais ácidas produzidas por um organismo vivo, e a integridade da parede do estômago diante dessa acidez depende de mecanismos próprios de proteção.",
+                                  "enunciado":  "O estômago mantém pH próximo de ______ graças ao ácido clorídrico, e não se autodigere porque ______ e porque a enzima proteolítica é secretada ______. As lacunas são preenchidas por:",
+                                  "alternativas":  {
+                                                       "a":  "2 – as células da mucosa se renovam a cada ano – já na forma ativa de tripsina",
+                                                       "b":  "8 – a mucosa é impermeável a ácidos – já na forma ativa de pepsina",
+                                                       "c":  "7 – o bolo alimentar neutraliza o ácido – na forma inativa de tripsinogênio",
+                                                       "d":  "2 – uma camada de muco recobre a mucosa – na forma inativa de pepsinogênio",
+                                                       "e":  "5 – a bile neutraliza continuamente o ácido – na forma inativa de amilase"
+                                                   },
+                                  "resposta":  "d",
+                                  "explicacao":  "O suco gástrico é fortemente ácido, com pH em torno de 2, o que desnatura proteínas e cria o meio ótimo da pepsina. A parede se protege por uma barreira de muco e bicarbonato e pela renovação rápida do epitélio, e a enzima sai como pepsinogênio inativo, ativado só na luz do órgão. A falha dessa proteção é o que produz a úlcera.",
+                                  "formato":  "lacunas"
+                              },
+                              {
+                                  "id":  "ciencias-natureza-132",
+                                  "texto_apoio":  "Programas de rastreamento de diabetes na atenção básica utilizam a glicemia de jejum como primeiro exame, por seu baixo custo e pela simplicidade da coleta.",
+                                  "enunciado":  "Programas de rastreamento medem a glicemia de jejum da população adulta. A regulação normal da glicemia após uma refeição depende de:",
+                                  "alternativas":  {
+                                                       "a":  "aumento da filtração glomerular, ajuste que elimina pela urina toda a glicose absorvida acima do necessário para o metabolismo daquele momento",
+                                                       "b":  "secreção de glucagon pelo pâncreas endócrino, hormônio que retira glicose das células musculares e a devolve à corrente sanguínea",
+                                                       "c":  "liberação de adrenalina pela glândula adrenal, resposta que converte a glicose absorvida em glicogênio dentro do próprio intestino delgado",
+                                                       "d":  "produção de bile pelo fígado, secreção que se liga à glicose no duodeno e reduz a velocidade com que o açúcar chega à circulação do indivíduo",
+                                                       "e":  "secreção de insulina pelo pâncreas endócrino, hormônio que promove a entrada de glicose nas células e a reduz no sangue"
+                                                   },
+                                  "resposta":  "e",
+                                  "explicacao":  "A elevação da glicose no sangue estimula as células beta das ilhotas pancreáticas a liberar insulina, que promove a captação de glicose pelo músculo e pelo tecido adiposo e o armazenamento como glicogênio no fígado. O glucagon faz o oposto e predomina no jejum. Glicose na urina é sinal de descontrole, e não mecanismo normal de regulação.",
+                                  "formato":  "direta"
                               }
                           ],
     "direitos-humanos":  [
@@ -14653,7 +14918,12 @@ window.QUESTION_BANKS = {
                                                "e":  "A área de floresta aumentou no período, já que todos os valores são positivos"
                                            },
                           "resposta":  "d",
-                          "explicacao":  "Somando 10.000, 8.000, 7.000 e 9.000 chega-se a 34.000 km², e a série sobe de novo no último ano, depois de dois anos de queda. Em (e) está o erro de leitura que a questão testa: a taxa é de área desmatada por ano, de modo que valor positivo significa floresta perdida, e não ganha — só um valor zero interromperia a perda. Em (a), a soma é 34.000 e a média, 8.500. Em (b), o gráfico traz quatro anos e não autoriza afirmação sobre a série histórica. Em (c), tendência observada não garante comportamento futuro, como o próprio Ano 4 demonstra."
+                          "explicacao":  "Somando 10.000, 8.000, 7.000 e 9.000 chega-se a 34.000 km², e a série sobe de novo no último ano, depois de dois anos de queda. Em (e) está o erro de leitura que a questão testa: a taxa é de área desmatada por ano, de modo que valor positivo significa floresta perdida, e não ganha — só um valor zero interromperia a perda. Em (a), a soma é 34.000 e a média, 8.500. Em (b), o gráfico traz quatro anos e não autoriza afirmação sobre a série histórica. Em (c), tendência observada não garante comportamento futuro, como o próprio Ano 4 demonstra.",
+                          "visual":  {
+                                         "tipo":  "Gráfico",
+                                         "arquivo":  "assets/med/geo-desmatamento-amazonia.svg",
+                                         "descricao":  "Gráfico de linhas com quatro pontos, um por ano. No eixo vertical, os km² desmatados por ano, de 0 a 12.000; no eixo horizontal, Ano 1 a Ano 4. Os valores marcados são 10.000 km² no Ano 1, 8.000 km² no Ano 2, 7.000 km² no Ano 3 e 9.000 km² no Ano 4: a linha cai em dois anos seguidos e volta a subir no último."
+                                     }
                       },
                       {
                           "id":  "geografia-73",
@@ -14973,7 +15243,12 @@ window.QUESTION_BANKS = {
                                                "e":  "Uma redução da área plantada, compensada por importação recorde de grãos"
                                            },
                           "resposta":  "a",
-                          "explicacao":  "Área subiu 40% e produção 150%: se cada hectare rendesse o mesmo de antes, a produção teria crescido também 40%, e o excedente só pode vir de mais grão colhido no mesmo espaço. Em (b) e (d) está a mesma leitura, que atribui tudo à área e é aritmeticamente incompatível com a diferença entre os dois percentuais. Em (c), não há erro: produção e área crescerem em proporções distintas é o esperado quando a produtividade muda. Em (e), a área cresceu, e o Brasil é exportador líquido de grãos no período."
+                          "explicacao":  "Área subiu 40% e produção 150%: se cada hectare rendesse o mesmo de antes, a produção teria crescido também 40%, e o excedente só pode vir de mais grão colhido no mesmo espaço. Em (b) e (d) está a mesma leitura, que atribui tudo à área e é aritmeticamente incompatível com a diferença entre os dois percentuais. Em (c), não há erro: produção e área crescerem em proporções distintas é o esperado quando a produtividade muda. Em (e), a área cresceu, e o Brasil é exportador líquido de grãos no período.",
+                          "visual":  {
+                                         "tipo":  "Gráfico",
+                                         "arquivo":  "assets/med/geo-graos-area-producao.svg",
+                                         "descricao":  "Gráfico com duas linhas em números-índice, tomando a Década 1 como 100. A linha da área plantada vai de 100 na Década 1 a 140 na Década 2, aumento de 40%. A linha da produção total de grãos vai de 100 a 250, aumento de 150%. As duas partem do mesmo ponto na Década 1 e se afastam ao longo do período."
+                                     }
                       },
                       {
                           "id":  "geografia-93",
@@ -16006,7 +16281,12 @@ window.QUESTION_BANKS = {
                                                "e":  "o Sistema de Posicionamento Global - integra, armazena e analisa dados espaciais diversos"
                                            },
                           "resposta":  "e",
-                          "explicacao":  "As duas lacunas cobram tecnologias diferentes. Determinar coordenadas por triangulação de sinais de satélite é o GPS; o SIG não localiza nada por conta própria — ele recebe camadas de origens variadas, inclusive do GPS, e as cruza para análise. Em (b) e (d), a primeira lacuna está certa e a segunda troca o SIG por sensoriamento remoto e por aerofotogrametria, que produzem dado em vez de integrá-lo. Em (a) e (c), a segunda lacuna está certa e a primeira confunde o GPS com técnicas de imageamento, que registram a superfície mas não fornecem posição do receptor."
+                          "explicacao":  "As duas lacunas cobram tecnologias diferentes. Determinar coordenadas por triangulação de sinais de satélite é o GPS; o SIG não localiza nada por conta própria — ele recebe camadas de origens variadas, inclusive do GPS, e as cruza para análise. Em (b) e (d), a primeira lacuna está certa e a segunda troca o SIG por sensoriamento remoto e por aerofotogrametria, que produzem dado em vez de integrá-lo. Em (a) e (c), a segunda lacuna está certa e a primeira confunde o GPS com técnicas de imageamento, que registram a superfície mas não fornecem posição do receptor.",
+                          "visual":  {
+                                         "tipo":  "Esquema",
+                                         "arquivo":  "assets/med/geo-sinais-satelite-receptor.svg",
+                                         "descricao":  "Esquema em que quatro satélites em órbita, acima da linha curva da superfície terrestre, emitem sinais — as linhas tracejadas — que convergem para a antena de um único receptor no solo. Cada sinal está rotulado com a distância que mede entre o satélite e o receptor, de d1 a d4, e é o cruzamento dessas distâncias que fixa a posição do receptor na superfície."
+                                     }
                       },
                       {
                           "id":  "geografia-158",

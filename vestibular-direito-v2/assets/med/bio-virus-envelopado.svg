@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 300" width="660" height="300" role="img" aria-label="Virus envelopado em corte: material genetico no interior, capsideo proteico ao redor e envoltorio externo derivado da membrana da celula hospedeira, com glicoproteinas virais inseridas nele">
+  <style>
+    /* Carregado via img, o SVG nao herda as variaveis da pagina: as duas
+       paletas ficam aqui e a media query responde a preferencia do sistema. */
+    .tr   { stroke: #0A2540; stroke-width: 2.2; fill: none; }
+    .fina { stroke: #0A2540; stroke-width: 1.8; fill: none; }
+    .knob { stroke: #0A2540; stroke-width: 1.8; fill: rgba(10,37,64,0.18); }
+    .fio  { stroke: #94A3B8; stroke-width: 1.2; fill: none; }
+    .rot  { fill: #475569; font: 600 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .tr, .fina { stroke: #E2E8F0; }
+      .knob { stroke: #E2E8F0; fill: rgba(226,232,240,0.24); }
+      .fio  { stroke: #64748B; }
+      .rot  { fill: #E2E8F0; }
+    }
+  </style>
+
+  <!-- Glicoproteinas virais inseridas no envoltorio -->
+  <path class="fina" d="M350 150 L364 150 M336.6 200 L348.7 207 M300 236.6 L307 248.7 M250 250 V264 M200 236.6 L193 248.7 M163.4 200 L151.3 207 M150 150 H136 M163.4 100 L151.3 93 M200 63.4 L193 51.3 M250 50 V36 M300 63.4 L307 51.3 M336.6 100 L348.7 93"/>
+  <circle class="knob" cx="369" cy="150" r="4.5"/><circle class="knob" cx="353.1" cy="209.5" r="4.5"/><circle class="knob" cx="309.5" cy="253.1" r="4.5"/>
+  <circle class="knob" cx="250" cy="269" r="4.5"/><circle class="knob" cx="190.5" cy="253.1" r="4.5"/><circle class="knob" cx="146.9" cy="209.5" r="4.5"/>
+  <circle class="knob" cx="131" cy="150" r="4.5"/><circle class="knob" cx="146.9" cy="90.5" r="4.5"/><circle class="knob" cx="190.5" cy="46.9" r="4.5"/>
+  <circle class="knob" cx="250" cy="31" r="4.5"/><circle class="knob" cx="309.5" cy="46.9" r="4.5"/><circle class="knob" cx="353.1" cy="90.5" r="4.5"/>
+
+  <!-- Envoltorio externo: bicamada derivada da membrana da celula hospedeira -->
+  <circle class="tr" cx="250" cy="150" r="100"/>
+  <circle class="tr" cx="250" cy="150" r="92"/>
+
+  <!-- Capsideo proteico -->
+  <polygon class="tr" points="312,150 300.2,186.5 269.2,209 230.8,209 199.8,186.5 188,150 199.8,113.5 230.8,91 269.2,91 300.2,113.5"/>
+
+  <!-- Material genetico -->
+  <path class="fina" d="M214 150 q9 -16 18 0 q9 16 18 0 q9 -16 18 0 q9 16 18 0"/>
+
+  <text class="rot" x="420" y="60">glicoproteínas virais</text>
+  <path class="fio" d="M414 56 L354 84"/>
+  <text class="rot" x="420" y="112">envoltório externo, derivado da</text>
+  <text class="rot" x="420" y="128">membrana da célula hospedeira</text>
+  <path class="fio" d="M414 118 L346 134"/>
+  <text class="rot" x="420" y="190">capsídeo proteico</text>
+  <path class="fio" d="M414 186 L306 170"/>
+  <text class="rot" x="420" y="244">material genético</text>
+  <path class="fio" d="M414 240 L284 162"/>
+</svg>

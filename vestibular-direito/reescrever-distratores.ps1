@@ -144,7 +144,29 @@ $CAUDA_RX = "$CAUDA_NOUN[^.;]{0,60}\s+que\s+(ignora|desconsidera|contraria|confu
   # afirmação e não comentário sobre ela. Contrastar dois termos é português comum;
   # a cauda é dizer que a própria alternativa está errada.
   '|,\s*sem (relação com|qualquer relação)|quando na verdade|,\s*o oposto d' +
-  '|efeito oposto ao|o que contraria|em sentido invertido|tendência inversa|erroneamente'
+  '|efeito oposto ao|o que contraria|em sentido invertido|tendência inversa|erroneamente' +
+  # --- 6a ampliacao, e a primeira que veio de VERIFICACAO INDEPENDENTE, nao de mais
+  # um levantamento com o mesmo padrao. Depois de o banco marcar zero, reescrevi a
+  # regua do zero em JavaScript, no console, contra o bundle publicado: 46 achados.
+  # Triagem a mao: 37 reais, 9 falsos positivos. Aqui entram so os 37.
+  #
+  # A familia que faltava e uma so, e tem NOME PROPRIO diferente das anteriores: em
+  # vez de a cauda comecar por um substantivo de JUIZO (leitura, hipotese, inversao),
+  # ela comeca por um substantivo NEUTRO -- medida, quadro, cenario, processo, gas,
+  # pratica, termo, fenomeno, descricao, categoria -- e o juizo vem no adjetivo:
+  #     'medida contraria ao proprio objetivo de povoamento da Coroa'
+  #     'quadro desmentido por essas e outras revoltas do periodo'
+  #     'cenario incompativel com o consumo intensivo de agua'
+  #     'gas que nao forma acidos ao reagir com a agua atmosferica'
+  #     'pratica que nao interfere na reproducao do mosquito'
+  # O CAUDA_NOUN original nunca alcancaria isso, porque 'gas' e 'medida' nao sao
+  # palavras de juizo. Era um ponto cego de categoria, nao de vocabulario.
+  '|(medida|quadro|cenário|processo|prática|arranjo|descrição|alegação|premissa|categoria|regra|termo|fenômeno|gás|tendência)\s+(contrári[ao]|contrariad[ao]|desmentid[ao]|incompatível|inexistente|equivocad[ao])\b' +
+  '|(medida|quadro|cenário|processo|prática|arranjo|descrição|alegação|premissa|categoria|regra|termo|fenômeno|gás)\s+(comum\s+)?que\s+(não|ignora|desconsidera|contraria|dispensa)\b' +
+  # 'nunca/jamais + participio' fecha o mesmo habito pelo lado do verbo. Nao confundir
+  # com o ABSOLUTO_RX: la 'nunca' e a AFIRMACAO da alternativa; aqui e o AVISO sobre
+  # ela -- 'politica nunca adotada no Brasil', 'o que jamais ocorreu'.
+  '|(nunca|jamais)\s+(adotad[ao]|ocorreu|observad[ao]|produzid[ao]|registrad[ao]|implementad[ao]|verificad[ao])\b|o que jamais ocorreu'
 
 # As duas réguas do verify-banco.ps1, copiadas daqui de propósito.
 #

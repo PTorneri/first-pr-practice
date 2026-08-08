@@ -1988,14 +1988,14 @@
                          "texto_apoio":  "O princípio da não intervenção em assuntos internos de outros Estados, historicamente central ao sistema internacional, tem sido debatido diante de situações de graves violações de direitos humanos cometidas por governos contra suas próprias populações, levantando a questão de até que ponto a soberania estatal deveria prevalecer sobre a proteção de vidas humanas.",
                          "enunciado":  "Esse debate ilustra a tensão entre:",
                          "alternativas":  {
-                                              "a":  "diplomacia bilateral e diplomacia multilateral, sem relação com direitos humanos",
+                                              "a":  "diplomacia bilateral e diplomacia multilateral em foros regionais de negociação",
                                               "b":  "a jurisdição universal penal e a imunidade de chefes de Estado em exercício",
                                               "c":  "o princípio da não intervenção e a responsabilidade de proteger civis",
                                               "d":  "união aduaneira e zona de livre comércio regional consolidada",
                                               "e":  "livre comércio e protecionismo comercial entre nações desenvolvidas"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A tensão entre o princípio tradicional da não intervenção, que protege a soberania estatal, e a defesa de uma responsabilidade internacional de proteger populações civis de graves violações de direitos humanos, é um dos debates centrais e mais controversos das relações internacionais contemporâneas.",
+                         "explicacao":  "O debate ilustra a tensão entre o princípio da não intervenção, pilar da soberania estatal, e a responsabilidade de proteger civis, invocada quando um Estado falha em protegê-los ou é ele o agressor. A oposição entre diplomacia bilateral e multilateral é o distrator mais plausível, porque a discussão de fato se dá em foros multilaterais — só que se trata de uma distinção de método de negociação, e não do conflito de princípios em causa. A tensão entre jurisdição universal penal e imunidade de chefes de Estado é vizinha e diz respeito à responsabilização individual, não à intervenção. E as alternativas sobre união aduaneira, livre comércio e protecionismo pertencem à integração econômica.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -2180,14 +2180,14 @@
                          "texto_apoio":  "Enquanto o uso de satélites para fins de comunicação, monitoramento e navegação, inclusive por forças armadas, é amplamente praticado e considerado consistente com tratados internacionais vigentes, a instalação de armas ofensivas em órbita permanece uma linha mais controversa e formalmente restringida por parte desses mesmos tratados.",
                          "enunciado":  "Essa distinção reflete a diferença conceitual entre:",
                          "alternativas":  {
-                                              "a":  "diplomacia pública e diplomacia coercitiva, sem qualquer relação com o espaço sideral",
+                                              "a":  "diplomacia pública e diplomacia coercitiva, aplicadas à negociação de tratados sobre o uso pacífico do espaço",
                                               "b":  "zona econômica exclusiva e mar territorial, aplicados ao espaço sideral e marítimo",
-                                              "c":  "zona econômica exclusiva orbital e espaço aéreo soberano, sem relação com uso militar",
+                                              "c":  "zona econômica exclusiva orbital e espaço aéreo soberano, categorias que delimitariam a soberania de cada Estado sobre as órbitas situadas acima de seu território",
                                               "d":  "militarização do espaço (satélites para defesa e monitoramento) e weaponização (armas ofensivas em órbita)",
                                               "e":  "soft power e hard power, aplicados ao espaço sideral e às relações diplomáticas"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A distinção entre militarização do espaço — uso de satélites e tecnologia espacial para fins de defesa, comunicação e monitoramento, amplamente praticado — e weaponização do espaço — instalação de armas ofensivas em órbita, mais restringida por tratados internacionais — é central aos debates contemporâneos sobre segurança espacial.",
+                         "explicacao":  "A distinção é entre militarização do espaço — uso de satélites para defesa, comunicação e monitoramento, prática corrente desde a Guerra Fria — e weaponização, que significa colocar armas ofensivas em órbita, algo que os tratados buscam evitar. A proposta de uma zona econômica exclusiva orbital é o distrator mais elaborado, porque transpõe ao espaço categorias do direito do mar e essa transposição já foi discutida — o Tratado do Espaço de 1967 veda apropriação nacional, o que impede a soberania sobre órbitas. A oposição entre diplomacia pública e coercitiva descreve métodos de ação externa. As categorias de mar territorial e zona econômica exclusiva pertencem ao direito marítimo. E soft e hard power classificam formas de poder, não usos do espaço.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },

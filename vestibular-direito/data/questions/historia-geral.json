@@ -234,14 +234,14 @@
                          "texto_apoio":  "A Índia conquistou sua independência do Reino Unido em 1947, após décadas de mobilização.",
                          "enunciado":  "A estratégia de luta liderada por Mahatma Gandhi para a independência indiana caracterizava-se, sobretudo, por:",
                          "alternativas":  {
-                                              "a":  "A luta armada revolucionária contra o exército britânico, estratégia associada a outros movimentos anticoloniais do século XX",
+                                              "a":  "A luta armada revolucionária contra o exército britânico, organizada a partir de células urbanas em Calcutá e em Bombaim",
                                               "b":  "A resistência não violenta e a desobediência civil, com boicotes e marchas pacíficas",
                                               "c":  "A organização de uma guerrilha rural apoiada por potências estrangeiras, que forçou a retirada britânica do subcontinente",
-                                              "d":  "A aliança militar direta com a União Soviética, aproximação inexistente na trajetória política de Gandhi",
-                                              "e":  "A aceitação integral do domínio colonial britânico, postura oposta à defendida pelo Congresso Nacional Indiano"
+                                              "d":  "A aliança com o Exército Nacional Indiano de Subhas Chandra Bose, que combateu os britânicos ao lado das potências do Eixo",
+                                              "e":  "A aceitação do domínio britânico em troca de assentos indianos no Parlamento de Londres, como queriam os setores moderados do Congresso"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Gandhi liderou o movimento de independência indiano por meio da resistência não violenta (satyagraha) e da desobediência civil, com ações como boicotes a produtos britânicos e marchas pacíficas, influenciando posteriormente outros movimentos por direitos civis no mundo.",
+                         "explicacao":  "A estratégia de Gandhi foi a resistência não violenta e a desobediência civil: boicote a produtos e instituições britânicas, marchas como a do Sal, jejuns e não cooperação. A aliança com o Exército Nacional Indiano de Subhas Chandra Bose é o distrator mais forte, porque Bose foi presidente do Congresso Nacional Indiano, rompeu com Gandhi justamente por defender a via armada e chegou a combater ao lado do Eixo — era a alternativa real dentro do movimento, e não a linha de Gandhi. A proposta de assentos no Parlamento de Londres corresponde aos moderados do Congresso, que Gandhi superou. A guerrilha rural apoiada por potências estrangeiras descreve outros processos anticoloniais. E aceitar integralmente o domínio contraria a própria luta pela independência.",
                          "formato":  "direta"
                      },
                      {
@@ -265,14 +265,14 @@
                          "texto_apoio":  "",
                          "enunciado":  "A globalização contemporânea, intensificada a partir do final do século XX, caracteriza-se por:",
                          "alternativas":  {
-                                              "a":  "O fim das organizações econômicas internacionais e blocos regionais, tendência contrária ao observado desde os anos 1990",
+                                              "a":  "O enfraquecimento das organizações econômicas internacionais diante da multiplicação de acordos bilaterais entre países",
                                               "b":  "A redução dos fluxos internacionais de capital, contida pela retomada de barreiras alfandegárias nas principais economias",
-                                              "c":  "O isolamento crescente das economias nacionais, com redução do comércio internacional, tendência oposta à globalização",
-                                              "d":  "A eliminação total das desigualdades econômicas entre os países, resultado nunca observado nas últimas décadas de globalização",
+                                              "c":  "O isolamento crescente das economias nacionais, com substituição das importações por produção interna protegida",
+                                              "d":  "A convergência da renda média entre os países, com os emergentes alcançando o patamar dos desenvolvidos",
                                               "e":  "A intensificação dos fluxos de capitais, mercadorias, informações e pessoas, impulsionada por avanços tecnológicos"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A globalização é marcada pela intensificação das interconexões econômicas, tecnológicas e culturais entre países, impulsionada por avanços nas comunicações e no transporte, embora acompanhada de debates sobre o aumento das desigualdades entre nações e dentro delas.",
+                         "explicacao":  "A globalização contemporânea se caracteriza pela intensificação dos fluxos de capitais, mercadorias, informações e pessoas, impulsionada por avanços em transporte e telecomunicações. A convergência de renda entre países é o distrator mais respeitável, porque é uma hipótese econômica discutida a sério e verificada em alguns casos, como a Coreia do Sul — o padrão geral não confirmou o alcance dos desenvolvidos, e a desigualdade entre países persiste. O enfraquecimento das organizações multilaterais frente a acordos bilaterais descreve uma tendência real e recente, posterior ao movimento que a questão trata. A redução dos fluxos de capital contraria o dado central do período. E o isolamento com substituição de importações descreve o modelo anterior.",
                          "formato":  "direta"
                      },
                      {
@@ -567,14 +567,14 @@
                          "texto_apoio":  "Em 1688-1689, a Inglaterra viveu um processo político que resultou na deposição do rei Jaime II e na aprovação da Declaração de Direitos (Bill of Rights).",
                          "enunciado":  "A Revolução Gloriosa é considerada um marco histórico por:",
                          "alternativas":  {
-                                              "a":  "Restaurar o absolutismo monárquico na Inglaterra, hipótese contrária ao próprio sentido do evento",
+                                              "a":  "Restaurar no trono a dinastia Stuart, deposta durante a guerra civil, com a coroação de Jaime II",
                                               "b":  "Consolidar a supremacia do Parlamento sobre o poder real, com a Declaração de Direitos limitando a Coroa",
-                                              "c":  "Abolir definitivamente a monarquia inglesa, transformando o país em república, o que não ocorreu em 1688",
-                                              "d":  "Eliminar qualquer limitação ao poder do rei sobre os súditos, resultado oposto ao produzido pela revolução",
+                                              "c":  "Abolir a monarquia inglesa e transformar o país em república governada por um conselho de Estado",
+                                              "d":  "Ampliar o poder do rei sobre a Igreja da Inglaterra, por meio do Ato de Supremacia",
                                               "e":  "Instaurar uma república sob Cromwell após a execução do rei, período em que a monarquia foi abolida na Inglaterra"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A Revolução Gloriosa consolidou a supremacia do Parlamento sobre a Coroa, com a Declaração de Direitos limitando formalmente os poderes reais, estabelecendo as bases da monarquia parlamentar que caracterizaria o sistema político inglês nos séculos seguintes.",
+                         "explicacao":  "A Revolução Gloriosa de 1688 consolidou a supremacia do Parlamento sobre o poder real: Guilherme de Orange aceitou o trono já sob a Declaração de Direitos, que limitou a Coroa em matéria tributária, militar e judicial. A restauração dos Stuart com a coroação de Jaime II é o distrator mais fino, porque descreve fatos verdadeiros deslocados no tempo — a Restauração é de 1660, e Jaime II é precisamente o rei que a Revolução Gloriosa depôs. O Ato de Supremacia é de 1534, sob Henrique VIII. A república com conselho de Estado e a instauração sob Cromwell remetem à década de 1650, após a execução de Carlos I. E ampliar o poder do rei inverte o resultado do processo.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -583,14 +583,14 @@
                          "texto_apoio":  "Em 1776, as treze colônias britânicas na América do Norte declararam sua independência da metrópole.",
                          "enunciado":  "Entre os fatores que motivaram esse processo estava:",
                          "alternativas":  {
-                                              "a":  "A ausência completa de influência das ideias iluministas sobre os líderes coloniais, o que contraria fontes documentais do período",
+                                              "a":  "A influência das ideias iluministas restrita ao debate religioso entre as congregações protestantes das colônias",
                                               "b":  "A recusa da Coroa em manter o monopólio comercial com as colônias, que perderam mercado garantido para seus produtos",
-                                              "c":  "O apoio irrestrito da Coroa britânica à autonomia política e fiscal das colônias, cenário oposto ao vivido pelas Treze Colônias",
+                                              "c":  "O apoio da Coroa britânica à expansão colonial para oeste, além da linha dos Apalaches fixada em 1763",
                                               "d":  "A insatisfação colonial com a tributação sem representação no Parlamento, resumida no lema ‘no taxation without representation’",
-                                              "e":  "A decisão da metrópole de abolir todos os impostos cobrados das colônias, medida nunca adotada pela Coroa britânica"
+                                              "e":  "A decisão da metrópole de abolir os impostos internos das colônias, mantendo apenas as tarifas sobre o comércio com outras potências europeias"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A insatisfação com impostos como os da Lei do Selo e do Chá, cobrados sem que as colônias tivessem representação no Parlamento britânico, alimentou o lema \u0027no taxation without representation\u0027, um dos principais motores da mobilização que levou à independência dos Estados Unidos.",
+                         "explicacao":  "A independência das Treze Colônias foi motivada pela insatisfação com a tributação imposta sem representação no Parlamento, resumida no lema \u0027no taxation without representation\u0027. O apoio à expansão para oeste é o distrator mais bem construído, porque a linha dos Apalaches existiu de verdade — só que a Proclamação de 1763 proibiu a ocupação além dela, e essa proibição foi uma das queixas coloniais, o oposto de apoio. A recusa da Coroa em manter o monopólio inverte a política mercantilista em vigor. A abolição dos impostos internos contraria a série de leis tributárias do período, do Açúcar ao Selo. E restringir o iluminismo ao debate religioso ignora sua presença nos panfletos políticos.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -599,14 +599,14 @@
                          "texto_apoio":  "Entre 1791 e 1804, a colônia francesa de Saint-Domingue foi palco de uma revolta de escravizados que resultou na criação do Haiti, primeira nação independente da América Latina e primeiro país a abolir a escravidão em seu território.",
                          "enunciado":  "A Revolução Haitiana é considerada singular na história das revoluções atlânticas porque:",
                          "alternativas":  {
-                                              "a":  "Foi conduzida exclusivamente por proprietários de terra brancos interessados em maior autonomia comercial no Caribe",
+                                              "a":  "Foi conduzida pelos proprietários de terra brancos da colônia, que buscavam autonomia comercial diante do exclusivo francês",
                                               "b":  "Foi conduzida pela elite colonial de proprietários, que manteve a estrutura escravista após romper com a metrópole francesa",
-                                              "c":  "Manteve a escravidão mesmo após a independência do território, hipótese contrária ao próprio marco histórico do Haiti",
-                                              "d":  "Não teve qualquer relação com os acontecimentos revolucionários da França do mesmo período histórico",
+                                              "c":  "Manteve a escravidão após a independência, sob a forma de trabalho compulsório nas plantações administradas pelo novo Estado haitiano",
+                                              "d":  "Ocorreu antes da Revolução Francesa, servindo-lhe de exemplo na formulação da Declaração dos Direitos do Homem e do Cidadão",
                                               "e":  "Resultou da mobilização de escravizados que, inspirados também pela Revolução Francesa, conquistaram independência e abolição"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A Revolução Haitiana combinou a luta por independência política com a abolição da escravidão, sendo protagonizada por pessoas escravizadas que se apropriaram dos ideais de liberdade e igualdade difundidos pela Revolução Francesa para romper simultaneamente com o domínio colonial e com a escravidão.",
+                         "explicacao":  "A Revolução Haitiana é singular porque resultou da mobilização de escravizados que, inspirados também pela Revolução Francesa, conquistaram ao mesmo tempo a independência e a abolição — nenhuma outra revolução atlântica combinou as duas coisas. A alternativa do trabalho compulsório é a mais exigente do conjunto, porque toca um fato incômodo e verdadeiro: Toussaint Louverture e depois Dessalines aboliram a escravidão e impuseram trabalho forçado na lavoura de exportação para sustentar a economia. Isso não é manutenção da escravidão, e é a razão de a alternativa ser tentadora. A condução por proprietários brancos descreve o que ocorreu em outras colônias. E o Haiti veio depois de 1789, não antes.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -664,13 +664,13 @@
                          "enunciado":  "Em relação à primeira Revolução Industrial, a chamada Segunda Revolução Industrial caracterizou-se, sobretudo, por:",
                          "alternativas":  {
                                               "a":  "Ampliar a base tecnológica da produção, com eletricidade, aço e petróleo, favorecendo a concentração em cartéis",
-                                              "b":  "Reduzir drasticamente a escala da produção industrial, tendência oposta à concentração empresarial do período",
-                                              "c":  "Retomar a produção artesanal em pequenas oficinas, revertendo a concentração fabril característica da fase anterior",
-                                              "d":  "Manter o carvão e o ferro como únicas fontes relevantes, quadro típico apenas da primeira Revolução Industrial",
-                                              "e":  "Eliminar por completo a utilização de mão de obra assalariada na indústria, hipótese contrária ao próprio processo industrial"
+                                              "b":  "Reduzir a escala da produção industrial, com o retorno das fábricas às dimensões das oficinas do início do século XIX",
+                                              "c":  "Retomar a produção artesanal em pequenas oficinas especializadas, organizadas em torno de corporações de ofício",
+                                              "d":  "Manter o carvão e o ferro como base energética e material, com ganhos vindos apenas do aperfeiçoamento da máquina a vapor",
+                                              "e":  "Substituir a mão de obra assalariada pelo trabalho por peça executado em domicílio, sob encomenda das fábricas"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A Segunda Revolução Industrial ampliou a base tecnológica e energética da produção, incorporando eletricidade, aço e petróleo, e favoreceu a formação de grandes corporações, trustes e cartéis, alterando a escala e a organização da atividade industrial em relação à primeira fase.",
+                         "explicacao":  "A Segunda Revolução Industrial ampliou a base tecnológica da produção com eletricidade, aço e petróleo, e essa nova escala favoreceu a concentração empresarial em cartéis, trustes e monopólios. Manter carvão e ferro com ganhos apenas na máquina a vapor é o distrator mais forte, porque descreve com precisão a primeira fase: é a mudança de matriz energética e de material que separa uma da outra. O trabalho por peça em domicílio remete ao putting-out system, anterior à fábrica. A retomada da produção artesanal em corporações de ofício descreve a organização pré-industrial. E reduzir a escala da produção inverte o traço central do período, que é justamente a concentração.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -917,14 +917,14 @@
                          "texto_apoio":  "Em agosto de 1945, os Estados Unidos lançaram bombas atômicas sobre as cidades japonesas de Hiroshima e Nagasaki.",
                          "enunciado":  "Esse episódio é significativo na história do século XX porque:",
                          "alternativas":  {
-                                              "a":  "Não teve qualquer relação com o encerramento do conflito no Pacífico, contrariando o registro histórico",
-                                              "b":  "Marcou o início, e não o fim, da participação japonesa na Segunda Guerra Mundial, cronologia invertida",
-                                              "c":  "Resultou na ocupação permanente do Japão pela União Soviética, o que não ocorreu no pós-guerra japonês",
+                                              "a":  "Encerrou o conflito no Pacífico sem que fosse necessária a rendição formal do governo japonês",
+                                              "b":  "Marcou a entrada do Japão na Segunda Guerra Mundial, precipitada pelo ataque à base de Pearl Harbor",
+                                              "c":  "Resultou na divisão do Japão em zonas de ocupação entre Estados Unidos e União Soviética, como ocorreu na Alemanha",
                                               "d":  "Levou à assinatura imediata de um tratado de não proliferação, que impediu novos testes nucleares nas décadas seguintes",
                                               "e":  "Precipitou a rendição japonesa e inaugurou a era nuclear, que marcaria as relações internacionais na Guerra Fria"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Os bombardeios atômicos de Hiroshima e Nagasaki precipitaram a rendição japonesa e o fim da Segunda Guerra Mundial, ao mesmo tempo em que inauguraram a era nuclear, cujo potencial destrutivo passaria a moldar as relações internacionais e a lógica da dissuasão durante toda a Guerra Fria.",
+                         "explicacao":  "As bombas de Hiroshima e Nagasaki precipitaram a rendição japonesa e inauguraram a era nuclear, que passaria a organizar as relações internacionais na Guerra Fria. A divisão em zonas de ocupação é o distrator mais exigente, porque a comparação com a Alemanha é verdadeira para a Alemanha e para a Coreia — e o Japão ficou sob administração norte-americana, sem partilha com a União Soviética. O ataque a Pearl Harbor é real e marcou a entrada do Japão na guerra em 1941, não seu fim. O tratado de não proliferação só veio em 1968, e não impediu os testes das décadas seguintes. E a rendição formal ocorreu, assinada em setembro de 1945 a bordo do Missouri.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -982,13 +982,13 @@
                          "enunciado":  "Essa política, conhecida como Doutrina Truman, é considerada um marco porque:",
                          "alternativas":  {
                                               "a":  "Inaugurou a política de coexistência pacífica, baseada no reconhecimento mútuo das áreas de influência das duas potências",
-                                              "b":  "Expressava a disposição soviética de apoiar movimentos capitalistas ao redor do mundo, inversão dos fatos",
+                                              "b":  "Expressava a disposição norte-americana de apoiar regimes autoritários aliados, desde que declaradamente anticomunistas",
                                               "c":  "Formalizou a política de contenção norte-americana ao comunismo, pilar da postura dos EUA na Guerra Fria",
-                                              "d":  "Resultou na retirada completa dos Estados Unidos dos assuntos europeus, o oposto do que a doutrina propôs",
-                                              "e":  "Encerrou definitivamente qualquer tensão entre Estados Unidos e União Soviética, o que os anos seguintes desmentem"
+                                              "d":  "Resultou na criação de uma aliança militar permanente no Atlântico Norte, com cláusula de defesa mútua entre os signatários",
+                                              "e":  "Encerrou a colaboração militar entre Estados Unidos e União Soviética mantida durante a Segunda Guerra Mundial"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A Doutrina Truman formalizou a política de contenção (containment) ao comunismo, comprometendo os Estados Unidos a apoiar governos e movimentos ameaçados pela expansão soviética, tornando-se um dos pilares ideológicos da atuação americana ao longo de toda a Guerra Fria.",
+                         "explicacao":  "A Doutrina Truman, de 1947, formalizou a política de contenção do comunismo, que se tornaria o pilar da postura norte-americana na Guerra Fria: ajuda militar e econômica a países sob pressão soviética, começando por Grécia e Turquia. A criação da aliança militar no Atlântico Norte é o distrator mais exigente, porque a OTAN existe, decorre da mesma virada estratégica e traz de fato a cláusula de defesa mútua — só que é de 1949, dois anos depois, e não é o que a doutrina formalizou. O apoio a regimes autoritários anticomunistas descreve consequências posteriores da contenção, não o marco. A coexistência pacífica é formulação soviética dos anos 1950. E dizer que a doutrina encerrou qualquer tensão contraria as quatro décadas seguintes.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -1093,14 +1093,14 @@
                          "texto_apoio":  "Em maio de 1968, a França viveu uma onda de protestos estudantis e greves operárias que chegou a paralisar o país.",
                          "enunciado":  "O movimento de Maio de 1968 é interpretado como expressão de:",
                          "alternativas":  {
-                                              "a":  "Um movimento organizado exclusivamente pelo governo francês da época, hipótese contrária à sua origem popular",
+                                              "a":  "Um movimento organizado pelo Partido Comunista Francês, que conduziu a greve geral em coordenação com o movimento estudantil",
                                               "b":  "Uma disputa restrita ao meio sindical pela recomposição salarial, sem articulação com pautas estudantis ou culturais",
-                                              "c":  "A ausência completa de qualquer repercussão internacional do movimento, o que os protestos semelhantes contrariam",
-                                              "d":  "Uma crise estritamente econômica, sem qualquer dimensão cultural ou comportamental, leitura que ignora seu caráter contestatório",
+                                              "c":  "Uma mobilização restrita à França, sem repercussão nos movimentos estudantis de outros países no mesmo ano",
+                                              "d":  "Uma crise de origem econômica, provocada pelo fim do crescimento acelerado do pós-guerra e pelo desemprego entre os jovens",
                                               "e":  "Um questionamento mais amplo das estruturas sociais e políticas tradicionais, unindo demandas estudantis e trabalhistas"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "Maio de 1968 uniu demandas estudantis por reformas educacionais e comportamentais a reivindicações trabalhistas, expressando um questionamento mais amplo das estruturas sociais, culturais e políticas tradicionais da sociedade francesa, com repercussões que influenciaram movimentos semelhantes em outros países.",
+                         "explicacao":  "Maio de 1968 é lido como questionamento amplo das estruturas sociais e políticas tradicionais, unindo pautas estudantis, culturais e trabalhistas — autoridade, sexualidade, universidade e trabalho na mesma revolta. A organização pelo Partido Comunista Francês é o distrator mais forte, porque o partido e a CGT estavam no centro da greve geral: eles atuaram para conter o movimento estudantil, de que desconfiavam, e negociaram a saída com o governo nos acordos de Grenelle. A leitura estritamente econômica ignora a dimensão comportamental, e a França de 1968 ainda vivia o crescimento do pós-guerra. Restringir o episódio ao meio sindical apaga o Quartier Latin. E supor ausência de repercussão internacional contraria os protestos daquele mesmo ano no México, na Itália e nos Estados Unidos.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -1141,14 +1141,14 @@
                          "texto_apoio":  "A independência da Índia em relação ao Reino Unido, em 1947, foi acompanhada da divisão do território em dois países.",
                          "enunciado":  "Essa divisão, conhecida como Partição da Índia, resultou na criação da Índia e do Paquistão, tendo como um de seus efeitos mais dramáticos:",
                          "alternativas":  {
-                                              "a":  "O fim de qualquer tensão entre Índia e Paquistão desde então, o que os conflitos posteriores pela Caxemira desmentem",
-                                              "b":  "Uma transição negociada sem deslocamentos significativos de população, com as minorias permanecendo em seus locais de origem",
-                                              "c":  "A manutenção da Índia como colônia britânica por mais várias décadas, hipótese contrária à independência de 1947",
-                                              "d":  "Uma transição pacífica e sem qualquer deslocamento populacional, cenário desmentido pelos relatos históricos da partição",
+                                              "a":  "O fim das tensões entre Índia e Paquistão, seladas por acordo definitivo de fronteiras assinado sob mediação britânica ainda em 1947",
+                                              "b":  "Uma transição negociada com transferência ordenada de população, conduzida por comissões mistas de fronteira nas duas províncias divididas",
+                                              "c":  "A manutenção do subcontinente sob administração britânica até a retirada final das tropas, concluída na década de 1950",
+                                              "d":  "A criação de um terceiro Estado para a população sikh do Punjab, província que a nova fronteira dividiu entre os dois países",
                                               "e":  "Intensos deslocamentos populacionais entre hindus, muçulmanos e sikhs, com violência em massa entre comunidades religiosas"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A Partição da Índia, que criou a Índia e o Paquistão com base em critérios predominantemente religiosos, provocou um dos maiores deslocamentos populacionais forçados da história, acompanhado de violência em massa entre comunidades hindus, muçulmanas e sikhs, e lançou as bases de tensões entre os dois países que persistem até hoje.",
+                         "explicacao":  "O efeito mais dramático da Partição de 1947 foi o deslocamento de milhões de hindus, muçulmanos e sikhs entre os dois novos Estados, acompanhado de violência em massa entre comunidades religiosas. A criação de um Estado sikh é o distrator mais bem informado, porque a demanda existiu, a comunidade sikh se viu partida ao meio pela nova fronteira e o Punjab foi onde a violência atingiu o pior grau — e nenhum terceiro Estado foi criado. A comissão de fronteiras existiu, presidida por Radcliffe, e o traçado foi divulgado às pressas, sem transferência ordenada. As tensões com o Paquistão não cessaram, como mostram as guerras pela Caxemira. E a independência ocorreu em 1947, não na década seguinte.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -1175,12 +1175,12 @@
                          "alternativas":  {
                                               "a":  "A formação de um terceiro bloco militar, rival tanto dos Estados Unidos quanto da União Soviética",
                                               "b":  "A criação de um agrupamento de países em desenvolvimento voltado à coordenação de posições em negociações econômicas na ONU",
-                                              "c":  "A criação de uma moeda única para os países participantes, proposta ausente das discussões da conferência",
-                                              "d":  "A subordinação automática desses países ao bloco soviético, o que contraria o próprio espírito de Bandung",
+                                              "c":  "A criação de um banco de desenvolvimento comum aos países participantes, com capital formado por suas reservas em ouro",
+                                              "d":  "A subordinação desses países ao bloco soviético, em troca de apoio militar contra as antigas metrópoles coloniais",
                                               "e":  "O Movimento dos Países Não Alinhados, que buscava autonomia política para nações recém-independentes na Guerra Fria"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A Conferência de Bandung reuniu países da Ásia e da África dispostos a afirmar sua autonomia política diante da polarização da Guerra Fria, lançando as bases para o posterior Movimento dos Países Não Alinhados, que buscava uma terceira via entre os blocos capitalista e socialista.",
+                         "explicacao":  "A Conferência de Bandung, em 1955, lançou as bases do Movimento dos Países Não Alinhados, que buscava autonomia política para nações recém-independentes em um mundo dividido pela Guerra Fria. A criação de um agrupamento de países em desenvolvimento para coordenar posições econômicas na ONU é o distrator mais forte, porque isso realmente aconteceu, no Grupo dos 77, uma década depois e com outra finalidade, a de negociação comercial. Um banco de desenvolvimento comum não figurou entre os resultados. A subordinação ao bloco soviético contraria o próprio não alinhamento. E a formação de um terceiro bloco militar foi expressamente recusada, já que o movimento não constituiu aliança militar.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -1316,14 +1316,14 @@
                          "texto_apoio":  "Assinado em 1992, o Tratado de Maastricht estabeleceu as bases para a criação da União Europeia, aprofundando um processo de integração regional iniciado décadas antes.",
                          "enunciado":  "Entre os principais avanços trazidos por esse tratado estava:",
                          "alternativas":  {
-                                              "a":  "A criação de uma união estritamente militar entre os países europeus, sem qualquer integração econômica",
+                                              "a":  "A criação de uma união estritamente militar entre os países europeus, com comando integrado e orçamento comum de defesa",
                                               "b":  "A criação de uma força armada europeia unificada, subordinada a um comando único e independente da OTAN",
-                                              "c":  "A exclusão definitiva de qualquer novo país-membro no futuro, cláusula ausente do Tratado de Maastricht",
-                                              "d":  "O fim de qualquer forma de cooperação econômica entre os países europeus, o oposto do propósito do tratado",
+                                              "c":  "A fixação de um número máximo de países-membros, com encerramento das adesões após a entrada dos Estados nórdicos",
+                                              "d":  "A substituição da cooperação econômica por coordenação apenas intergovernamental, com devolução de competências aos Estados",
                                               "e":  "O estabelecimento de bases para uma moeda única e para maior integração política e econômica entre os membros"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O Tratado de Maastricht aprofundou a integração europeia ao estabelecer as bases institucionais para a criação de uma moeda única, o euro, e para maior integração política e econômica entre os países-membros, consolidando a transição da antiga Comunidade Econômica Europeia para a União Europeia.",
+                         "explicacao":  "O Tratado de Maastricht, de 1992, estabeleceu as bases da moeda única e ampliou a integração política e econômica, criando a União Europeia e os critérios de convergência que levariam ao euro. A criação de uma força armada europeia unificada e independente da OTAN é o distrator mais tentador, porque a política externa e de segurança comum foi de fato um dos pilares do tratado — sem comando único nem exército europeu, que continuam inexistentes. A união estritamente militar com orçamento de defesa comum comete o mesmo excesso. A devolução de competências aos Estados inverte o sentido do tratado. E não há cláusula de encerramento de adesões, como mostram as ampliações posteriores.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -1556,14 +1556,14 @@
                          "texto_apoio":  "Depois de 1865, o Oeste dos Estados Unidos foi ocupado com apoio de ferrovias transcontinentais, distribuição de lotes a colonos e campanhas militares contra povos indígenas, confinados em reservas. A caça comercial reduziu drasticamente os rebanhos de bisões, base da subsistência de vários desses povos.",
                          "enunciado":  "A relação entre a redução dos rebanhos de bisões e a ocupação do Oeste é que",
                          "alternativas":  {
-                                              "a":  "a escassez de bisões decorreu de doenças trazidas pelas ferrovias, sem relação com a caça.",
+                                              "a":  "a escassez de bisões decorreu de epizootias transmitidas pelo gado que as ferrovias levaram ao Oeste.",
                                               "b":  "os rebanhos foram preservados por acordo entre companhias ferroviárias e povos indígenas.",
                                               "c":  "a caça comercial atingiu a base material de subsistência de povos que resistiam ao avanço.",
                                               "d":  "a distribuição de lotes a colonos dependia da manutenção dos rebanhos em áreas abertas.",
                                               "e":  "a criação das reservas garantiu aos povos indígenas o acesso permanente aos rebanhos."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Sem os rebanhos, os povos das planícies perderam alimento, matéria-prima e mobilidade, e a resistência ao confinamento nas reservas tornou-se muito mais difícil de sustentar — a caça comercial teve efeito militar, mesmo quando não era essa a intenção de cada caçador. Atribuir a escassez a doenças exclui a caça, que o texto registra; não houve preservação por acordo; o loteamento agrícola dependia de terra livre de rebanhos, e não do contrário; e as reservas restringiram o acesso a eles."
+                         "explicacao":  "A caça comercial ao bisão atingiu a base material de subsistência dos povos que resistiam ao avanço sobre o Oeste, e essa destruição foi reconhecida na época como instrumento de submissão. A explicação pelas doenças trazidas com o gado é o distrator mais plausível, porque a chegada de rebanhos domésticos pelas ferrovias transmitiu de fato enfermidades à fauna nativa — foi fator secundário diante da matança sistemática por couro e língua. Supor acordo de preservação entre companhias ferroviárias e povos indígenas inverte o papel das ferrovias, que transportaram caçadores e couros. Vincular a distribuição de lotes à manutenção dos rebanhos contraria a lógica da cerca e do arado. E as reservas restringiram o acesso ao bisão, em vez de assegurá-lo."
                      },
                      {
                          "id":  "historia-geral-101",

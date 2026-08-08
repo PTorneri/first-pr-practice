@@ -1,0 +1,61 @@
+{
+  "_comentario": [
+    "literatura: 56, 88, 92, 97, 131. Seis distratores.",
+    "",
+    "Frente com a menor incidencia do banco, e as cinco caudas eram todas da mesma forma",
+    "curta: ', sem relacao com as condicoes de publicacao', ', sem relacao com a historia",
+    "colonial', ', invertendo a hierarquia entre elas', ', invertendo o genero dominante",
+    "do periodo', ', sem relacao com o assunto'.",
+    "",
+    "Duas substituicoes que valem registro:",
+    "",
+    "  56(c) 'preferencia estetica ESPONTANEA de uma geracao formada na leitura dos",
+    "        modernistas da decada de 1920', no lugar de 'preferencia estetica",
+    "        espontanea, SEM RELACAO com as condicoes de publicacao'. A questao trata de",
+    "        escolhas formais sob censura, e a alternativa antiga negava o vinculo que a",
+    "        questao investiga -- o que equivale a dizer 'nao sou a resposta'. Agora ela",
+    "        propoe uma FILIACAO ESTETICA concreta, que e como um critico defenderia essa",
+    "        posicao de verdade.",
+    "  92(b) 'consciencia de si equivalente a das personagens humanas do romance', no",
+    "        lugar de 'equivalente a humana, INVERTENDO A HIERARQUIA entre elas'. A",
+    "        resposta certa e que o narrador aproxima humanos e animais na precariedade",
+    "        SEM humanizar o animal; o distrator agora afirma a humanizacao, que e a",
+    "        leitura comum e errada de Vidas Secas, sem avisar que inverte nada.",
+    "",
+    "Em 56 a correta era a mais longa."
+  ],
+  "subtopic": "literatura",
+  "questoes": {
+    "literatura-56": {
+      "alternativas": {
+        "c": "uma preferência estética espontânea de uma geração formada na leitura dos modernistas da década de 1920"
+      },
+      "explicacao": "As escolhas formais em questão se explicam por exigência editorial de aproximar a produção brasileira do realismo mágico hispano-americano, então em alta no mercado internacional de livros. A hipótese da preferência estética espontânea, filiada aos modernistas dos anos 1920, é o distrator mais respeitável, porque essa herança existe e é rastreável na prosa do período — o que a questão pede, no entanto, é a razão do conjunto de escolhas, e ela está nas condições de publicação. O desvio para driblar a censura é a explicação mais forte entre as erradas, e responde por outra safra de obras. Supor desinteresse pela política contraria a produção do período. E não houve imposição legal de ambientação no passado."
+    },
+    "literatura-88": {
+      "alternativas": {
+        "a": "fenômeno de âmbito doméstico, cujas raízes estão nas relações familiares de cada geração"
+      },
+      "explicacao": "Nessas obras a opressão de gênero aparece atravessada por raça, classe e colonização, sem que um fator único a explique — é essa sobreposição que a leitura crítica destaca. Reduzi-la ao âmbito doméstico é o distrator mais plausível, porque a casa é de fato o cenário de muitas dessas narrativas: o que as obras mostram é que a hierarquia doméstica reproduz divisões que vêm de fora dela. Tratar o assunto como importado nega a experiência das sociedades retratadas. Dar o problema por resolvido pelas independências contraria o que os textos narram. E atribuí-lo às tradições locais, com a colonização apenas conservando, apaga a transformação que o processo colonial operou nessas relações."
+    },
+    "literatura-92": {
+      "alternativas": {
+        "b": "atribuir à cadela uma consciência de si equivalente à das personagens humanas do romance"
+      },
+      "explicacao": "A escolha narrativa aproxima humanos e animais numa mesma condição de precariedade, sem humanizar o animal: o discurso indireto livre alcança a cadela pelas sensações, não por raciocínio. Atribuir-lhe consciência equivalente à das personagens humanas é o distrator mais frequente, porque é a leitura imediata da passagem — e é justamente a que o texto recusa, ao manter o registro sensorial. Supor que o foco no animal poupa o leitor do sofrimento humano inverte o efeito, que é intensificá-lo. A pausa lírica suspenderia o realismo, e a cena o aprofunda. E ler o trecho como demonstração de domínio técnico do narrador troca o sentido pelo procedimento."
+    },
+    "literatura-97": {
+      "alternativas": {
+        "e": "a primeira fase se concentrou na prosa de ficção e a segunda na poesia de temática social"
+      },
+      "explicacao": "A diferença entre os dois momentos se explica porque a primeira fase precisou romper com a estética anterior, gastando energia na demolição, enquanto a seguinte construiu com os meios já conquistados. A alternativa que faz da segunda fase uma reação ao experimentalismo da primeira é a mais forte, porque houve de fato retomada de formas fixas em parte dos autores — sem que isso configure recusa do que a primeira abriu. Negar a dependência entre as duas fases desconhece o terreno preparado por 1922. A troca de gênero dominante entre prosa e poesia não corresponde à produção de nenhuma das duas. E o deslocamento geográfico para o Nordeste veio acompanhado de mudança de projeto, não sem ela."
+    },
+    "literatura-131": {
+      "alternativas": {
+        "c": "a alternância de registros reproduz a variedade de fontes documentais consultadas pelo autor.",
+        "e": "a descontinuidade demonstra que o romance recusa a ambientação em um Brasil reconhecível."
+      },
+      "explicacao": "A construção descontínua é coerente com o projeto do romance porque a formação de um povo não se resolve na trajetória de um indivíduo, e sim em muitas, distribuídas ao longo do tempo — a forma reproduz o objeto. A alternância de registros como reflexo das fontes documentais é o distrator mais elaborado, porque a pesquisa documental está de fato na base do livro: ela explica o material, e não a decisão formal de recusar um protagonista. Ler a ausência de foco narrativo como incapacidade do autor confunde procedimento com falha. O salto entre séculos serve para abarcar o tempo longo, não para evitar temas. E a descontinuidade não recusa o Brasil real, e sim o representa em muitas vozes."
+    }
+  }
+}

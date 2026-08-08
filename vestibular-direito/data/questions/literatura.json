@@ -912,12 +912,12 @@
                          "alternativas":  {
                                               "a":  "necessidade de driblar a censura, dizendo pelo desvio o que não podia ser dito diretamente",
                                               "b":  "exigência editorial de aproximar a literatura brasileira do realismo mágico hispano-americano",
-                                              "c":  "uma preferência estética espontânea, sem relação com as condições de publicação",
+                                              "c":  "uma preferência estética espontânea de uma geração formada na leitura dos modernistas da década de 1920",
                                               "d":  "desinteresse dos autores pelos acontecimentos políticos do período",
                                               "e":  "imposição legal de que toda obra de ficção se ambientasse no passado"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A alegoria não é ornamento nesse contexto: é técnica de sobrevivência. Deslocar o assunto no tempo ou no espaço permitia publicar. Ler essas obras como escolha estética desligada da política é perder o que as motivou.",
+                         "explicacao":  "As escolhas formais em questão se explicam por exigência editorial de aproximar a produção brasileira do realismo mágico hispano-americano, então em alta no mercado internacional de livros. A hipótese da preferência estética espontânea, filiada aos modernistas dos anos 1920, é o distrator mais respeitável, porque essa herança existe e é rastreável na prosa do período — o que a questão pede, no entanto, é a razão do conjunto de escolhas, e ela está nas condições de publicação. O desvio para driblar a censura é a explicação mais forte entre as erradas, e responde por outra safra de obras. Supor desinteresse pela política contraria a produção do período. E não houve imposição legal de ambientação no passado.",
                          "formato":  "direta"
                      },
                      {
@@ -1391,14 +1391,14 @@
                          "formato":  "direta",
                          "enunciado":  "Essa articulação mostra que, nessas obras, a opressão de gênero é apresentada como",
                          "alternativas":  {
-                                              "a":  "fenômeno isolado, sem relação com a história colonial ou com a economia local",
+                                              "a":  "fenômeno de âmbito doméstico, cujas raízes estão nas relações familiares de cada geração",
                                               "b":  "assunto importado, sem correspondência nas sociedades efetivamente retratadas",
                                               "c":  "problema resolvido pelas independências, que igualaram homens e mulheres",
                                               "d":  "questão atravessada por raça, classe e colonização, sem explicação por fator único",
                                               "e":  "efeito direto das tradições locais, que a herança colonial teria apenas conservado sem alterar"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "As obras recusam a explicação por uma causa só: gênero aparece amarrado a raça, a classe e à herança colonial, e é o cruzamento que produz a situação descrita. Em (e) está o distrator mais tentador, porque atribuir tudo à tradição local parece explicar — e é justamente a simplificação que essas autoras desmontam, ao mostrar que a colonização reorganizou aquelas relações em vez de apenas conservá-las. Em (a), o isolamento contraria a articulação do enunciado. Em (b), o tema nasce das sociedades retratadas. Em (c), a persistência do problema é o que motiva os livros."
+                         "explicacao":  "Nessas obras a opressão de gênero aparece atravessada por raça, classe e colonização, sem que um fator único a explique — é essa sobreposição que a leitura crítica destaca. Reduzi-la ao âmbito doméstico é o distrator mais plausível, porque a casa é de fato o cenário de muitas dessas narrativas: o que as obras mostram é que a hierarquia doméstica reproduz divisões que vêm de fora dela. Tratar o assunto como importado nega a experiência das sociedades retratadas. Dar o problema por resolvido pelas independências contraria o que os textos narram. E atribuí-lo às tradições locais, com a colonização apenas conservando, apaga a transformação que o processo colonial operou nessas relações."
                      },
                      {
                          "id":  "literatura-89",
@@ -1452,13 +1452,13 @@
                          "enunciado":  "Essa escolha narrativa produz o efeito de",
                          "alternativas":  {
                                               "a":  "introduzir uma pausa lírica que suspende por um capítulo o realismo do romance",
-                                              "b":  "atribuir à cadela uma consciência de si equivalente à humana, invertendo a hierarquia entre elas",
+                                              "b":  "atribuir à cadela uma consciência de si equivalente à das personagens humanas do romance",
                                               "c":  "deslocar o foco para o animal a fim de poupar o leitor do sofrimento das personagens humanas",
                                               "d":  "aproximar humanos e animais numa mesma condição de precariedade, sem humanizar o animal",
                                               "e":  "demonstrar que o narrador domina igualmente o discurso indireto livre de humanos e de animais"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A equivalência de tratamento não transforma Baleia em gente nem os retirantes em bichos: coloca todos sob a mesma escassez, e é isso que torna o capítulo devastador sem nenhum comentário do narrador. Em (b) está a distinção que a questão cobra: igualar a condição não é igualar a consciência, e o capítulo evita justamente esse passo. Em (a), o capítulo não suspende o realismo — o estende ao animal. Em (c), a cena intensifica o sofrimento em vez de poupar o leitor dele. Em (e), a proeza técnica existe, mas descreve o meio, não o efeito que o enunciado pede."
+                         "explicacao":  "A escolha narrativa aproxima humanos e animais numa mesma condição de precariedade, sem humanizar o animal: o discurso indireto livre alcança a cadela pelas sensações, não por raciocínio. Atribuir-lhe consciência equivalente à das personagens humanas é o distrator mais frequente, porque é a leitura imediata da passagem — e é justamente a que o texto recusa, ao manter o registro sensorial. Supor que o foco no animal poupa o leitor do sofrimento humano inverte o efeito, que é intensificá-lo. A pausa lírica suspenderia o realismo, e a cena o aprofunda. E ler o trecho como demonstração de domínio técnico do narrador troca o sentido pelo procedimento."
                      },
                      {
                          "id":  "literatura-93",
@@ -1530,10 +1530,10 @@
                                               "b":  "a segunda fase reagiu ao experimentalismo da primeira, retomando o verso metrificado e o vocabulário seleto",
                                               "c":  "as duas fases responderam a programas distintos, sem que a segunda dependesse do terreno aberto pela primeira",
                                               "d":  "a mudança decorre do deslocamento geográfico do movimento de São Paulo para o Nordeste, sem alteração de projeto",
-                                              "e":  "a primeira fase concentrou-se na prosa e a segunda na poesia, invertendo o gênero dominante do período"
+                                              "e":  "a primeira fase se concentrou na prosa de ficção e a segunda na poesia de temática social"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Manifesto e escândalo servem para abrir espaço; uma vez aberto, a energia se desloca para o que construir nele. Em (c) está a alternativa que mais engana, porque descreve corretamente a diferença de programa e erra só na conclusão: a segunda fase pôde ser o que foi porque a ruptura já estava feita. Em (b), a segunda geração não restaura métrica fixa nem vocabulário parnasiano — o que muda é o objeto, não o retorno à norma anterior. Em (d), o deslocamento para o Nordeste é real na prosa de 1930, mas seria efeito, não causa, e o projeto de fato se altera. Em (e), a inversão de gêneros não se sustenta: há poesia decisiva na primeira fase e romance decisivo na segunda."
+                         "explicacao":  "A diferença entre os dois momentos se explica porque a primeira fase precisou romper com a estética anterior, gastando energia na demolição, enquanto a seguinte construiu com os meios já conquistados. A alternativa que faz da segunda fase uma reação ao experimentalismo da primeira é a mais forte, porque houve de fato retomada de formas fixas em parte dos autores — sem que isso configure recusa do que a primeira abriu. Negar a dependência entre as duas fases desconhece o terreno preparado por 1922. A troca de gênero dominante entre prosa e poesia não corresponde à produção de nenhuma das duas. E o deslocamento geográfico para o Nordeste veio acompanhado de mudança de projeto, não sem ela."
                      },
                      {
                          "id":  "literatura-98",
@@ -2051,12 +2051,12 @@
                          "alternativas":  {
                                               "a":  "a formação de um povo não se resolve numa trajetória individual, e sim em muitas, ao longo do tempo.",
                                               "b":  "a ausência de um protagonista único indica que o autor não conseguiu definir um foco narrativo estável ao longo do livro.",
-                                              "c":  "a alternância de registros tem finalidade apenas decorativa, sem relação com o assunto.",
+                                              "c":  "a alternância de registros reproduz a variedade de fontes documentais consultadas pelo autor.",
                                               "d":  "o salto entre séculos serve para evitar o tratamento de temas históricos controversos.",
-                                              "e":  "a descontinuidade demonstra que o romance recusa qualquer referência ao Brasil real."
+                                              "e":  "a descontinuidade demonstra que o romance recusa a ambientação em um Brasil reconhecível."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Se o objeto é a formação de um povo, e não a vida de uma pessoa, então a forma precisa comportar muitas vidas e muitos tempos — a descontinuidade não é obstáculo ao assunto, é o modo de alcançá-lo. Ler a ausência de protagonista como falha de foco ignora essa coerência; a alternância de registros acompanha a variedade das vozes, e não decora; o salto entre séculos aproxima os temas históricos em vez de evitá-los; e o Brasil real é a referência permanente do livro."
+                         "explicacao":  "A construção descontínua é coerente com o projeto do romance porque a formação de um povo não se resolve na trajetória de um indivíduo, e sim em muitas, distribuídas ao longo do tempo — a forma reproduz o objeto. A alternância de registros como reflexo das fontes documentais é o distrator mais elaborado, porque a pesquisa documental está de fato na base do livro: ela explica o material, e não a decisão formal de recusar um protagonista. Ler a ausência de foco narrativo como incapacidade do autor confunde procedimento com falha. O salto entre séculos serve para abarcar o tempo longo, não para evitar temas. E a descontinuidade não recusa o Brasil real, e sim o representa em muitas vozes."
                      },
                      {
                          "id":  "literatura-132",

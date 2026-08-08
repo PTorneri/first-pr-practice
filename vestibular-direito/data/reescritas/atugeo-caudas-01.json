@@ -1,0 +1,44 @@
+{
+  "_comentario": [
+    "atualidades-geopolitica: 128 e 140. Tres distratores.",
+    "",
+    "As duas questoes sao do mesmo tipo -- 'esta tensao/distincao e entre X e Y' -- e nas",
+    "duas o defeito era identico: pares conceituais corretos com um aviso pendurado",
+    "dizendo que nao pertencem ao assunto.",
+    "",
+    "  128(a) 'diplomacia bilateral e diplomacia multilateral, SEM RELACAO COM DIREITOS",
+    "         HUMANOS'",
+    "  140(a) 'diplomacia publica e diplomacia coercitiva, SEM QUALQUER RELACAO COM O",
+    "         ESPACO SIDERAL'",
+    "  140(c) 'zona economica exclusiva orbital e espaco aereo soberano, SEM RELACAO COM",
+    "         USO MILITAR'",
+    "",
+    "Os pares em si sao bons: sao distincoes reais de relacoes internacionais, e um",
+    "candidato pode confundi-las com a pedida. O que estragava era o aviso. Tirado o",
+    "aviso e dado a cada par um enquadramento no tema da questao, os tres passam a",
+    "disputar.",
+    "",
+    "Na 140 isso importa mais, porque a correta era a mais longa por 21 caracteres: as",
+    "quatro erradas eram linhas curtas terminando em 'sem relacao com'. Agora a (c),",
+    "'zona economica exclusiva orbital e espaco aereo soberano, categorias que",
+    "delimitariam a soberania sobre as orbitas', propoe uma extensao do direito do mar ao",
+    "espaco -- que e um debate que existe -- e supera a certa em comprimento sem inventar",
+    "nada."
+  ],
+  "subtopic": "atualidades-geopolitica",
+  "questoes": {
+    "atualidades-geopolitica-128": {
+      "alternativas": {
+        "a": "diplomacia bilateral e diplomacia multilateral em foros regionais de negociação"
+      },
+      "explicacao": "O debate ilustra a tensão entre o princípio da não intervenção, pilar da soberania estatal, e a responsabilidade de proteger civis, invocada quando um Estado falha em protegê-los ou é ele o agressor. A oposição entre diplomacia bilateral e multilateral é o distrator mais plausível, porque a discussão de fato se dá em foros multilaterais — só que se trata de uma distinção de método de negociação, e não do conflito de princípios em causa. A tensão entre jurisdição universal penal e imunidade de chefes de Estado é vizinha e diz respeito à responsabilização individual, não à intervenção. E as alternativas sobre união aduaneira, livre comércio e protecionismo pertencem à integração econômica."
+    },
+    "atualidades-geopolitica-140": {
+      "alternativas": {
+        "a": "diplomacia pública e diplomacia coercitiva, aplicadas à negociação de tratados sobre o uso pacífico do espaço",
+        "c": "zona econômica exclusiva orbital e espaço aéreo soberano, categorias que delimitariam a soberania de cada Estado sobre as órbitas situadas acima de seu território"
+      },
+      "explicacao": "A distinção é entre militarização do espaço — uso de satélites para defesa, comunicação e monitoramento, prática corrente desde a Guerra Fria — e weaponização, que significa colocar armas ofensivas em órbita, algo que os tratados buscam evitar. A proposta de uma zona econômica exclusiva orbital é o distrator mais elaborado, porque transpõe ao espaço categorias do direito do mar e essa transposição já foi discutida — o Tratado do Espaço de 1967 veda apropriação nacional, o que impede a soberania sobre órbitas. A oposição entre diplomacia pública e coercitiva descreve métodos de ação externa. As categorias de mar territorial e zona econômica exclusiva pertencem ao direito marítimo. E soft e hard power classificam formas de poder, não usos do espaço."
+    }
+  }
+}

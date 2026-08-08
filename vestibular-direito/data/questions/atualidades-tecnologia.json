@@ -51,14 +51,14 @@
                          "texto_apoio":  "A crescente capacidade de sistemas automatizados de executar tarefas antes realizadas exclusivamente por seres humanos tem gerado debate sobre seus efeitos no mercado de trabalho.",
                          "enunciado":  "Uma visão frequente entre economistas sobre esse processo é que a automação tende a:",
                          "alternativas":  {
-                                              "a":  "afetar exclusivamente empregos de alta qualificação, ignorando o impacto sobre funções operacionais repetitivas",
-                                              "b":  "eliminar por completo a existência de qualquer emprego no longo prazo, tese sem respaldo em estudos econômicos",
-                                              "c":  "não ter nenhum efeito sobre a demanda por determinadas habilidades, contrariando dados sobre reconversão profissional",
+                                              "a":  "afetar sobretudo empregos de alta qualificação, hoje alcançados por sistemas capazes de analisar texto e imagem",
+                                              "b":  "eliminar mais postos de trabalho do que cria, com queda líquida do emprego no longo prazo",
+                                              "c":  "deslocar a demanda por habilidades sem alterar seu nível de exigência, mantendo o mesmo perfil de qualificação",
                                               "d":  "eliminar a demanda por qualificação, uma vez que os sistemas passam a operar sem supervisão",
                                               "e":  "substituir tarefas rotineiras, podendo criar novas ocupações e exigir requalificação da força de trabalho"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A automação tende a substituir tarefas rotineiras e repetitivas, tanto manuais quanto cognitivas, ao mesmo tempo em que pode criar novas ocupações ligadas ao desenvolvimento, manutenção e supervisão dessas tecnologias, exigindo requalificação da força de trabalho.",
+                         "explicacao":  "A visão predominante entre economistas é que a automação substitui tarefas rotineiras, pode criar ocupações novas e exige requalificação da força de trabalho. A alternativa que a faz atingir sobretudo empregos qualificados é a mais atual e a mais difícil de recusar, porque os sistemas capazes de tratar texto e imagem alcançam de fato trabalho de escritório antes protegido — a caracterização geral do processo continua sendo a substituição de tarefas rotineiras, manuais e cognitivas. A tese da queda líquida do emprego tem defensores e é minoritária. Supor deslocamento de habilidades sem mudança no nível de exigência contraria os dados de reconversão profissional. E eliminar a demanda por qualificação inverte o efeito observado.",
                          "formato":  "direta"
                      },
                      {
@@ -789,14 +789,14 @@
                          "dificuldade":  "dificil",
                          "enunciado":  "Esse conjunto de técnicas de design voltadas a capturar e prolongar a atenção do usuário, muitas vezes explorando mecanismos psicológicos de recompensa, é criticado por parte dos próprios profissionais que atuaram em seu desenvolvimento sob o argumento de que:",
                          "alternativas":  {
-                                              "a":  "são usados apenas em aplicativos profissionais, sem relação com entretenimento",
+                                              "a":  "são usados sobretudo em aplicativos corporativos de produtividade e de gestão de tarefas",
                                               "b":  "priorizam tempo de tela em detrimento do bem-estar, com efeito análogo ao jogo",
                                               "c":  "elevam o custo de manutenção da plataforma sem retorno correspondente em receita publicitária",
                                               "d":  "reduzem o custo de aquisição de usuários por indicação entre pares",
                                               "e":  "não têm efeito mensurável sobre o comportamento dos usuários finais"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A crítica vem de dentro e é sobre o critério de sucesso: o produto é otimizado para a métrica de tempo de uso, e a recompensa variável — não se sabe o que vem na próxima rolagem — é o mesmo mecanismo que sustenta a máquina caça-níqueis. Em (c) e (d) está a inversão do interesse comercial: engajamento é o que gera receita publicitária, e por isso a crítica não é de custo, é de efeito sobre quem usa. Em (e), a eficácia desses recursos é justamente o que os torna problemáticos. Em (a), eles predominam em aplicativos de entretenimento e rede social."
+                         "explicacao":  "A crítica feita por profissionais que atuaram no desenvolvimento dessas técnicas é que elas priorizam o tempo de tela em detrimento do bem-estar do usuário, com mecanismos de recompensa variável de efeito análogo ao do jogo de azar. Situá-las em aplicativos corporativos é o distrator mais plausível, porque a gamificação aparece de fato em ferramentas de trabalho — e a crítica se dirige às plataformas de entretenimento e redes sociais, cuja receita depende diretamente da atenção retida. O custo de manutenção da plataforma e o custo de aquisição de usuários são questões de operação, não o objeto da crítica. E dizer que essas técnicas não têm efeito mensurável contraria a razão de existirem."
                      },
                      {
                          "id":  "atualidades-tecnologia-53",

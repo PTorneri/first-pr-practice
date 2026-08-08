@@ -1,0 +1,53 @@
+{
+  "_comentario": [
+    "atualidades-politica: 45, 61, 77, 100. Quatro distratores, um por questao.",
+    "",
+    "Tres das quatro caudas eram a mesma frase: ', sem relacao com o orcamento publico',",
+    "', sem QUALQUER relacao com a liberdade pessoal', ', sem relacao com a prestacao do",
+    "servico publico'. Nas tres a alternativa avisa que esta fora do assunto da questao.",
+    "",
+    "A quarta e a melhor troca do lote:",
+    "",
+    "  61(b) era 'cobrar percentualmente mais de quem tem MENOR capacidade contributiva,",
+    "        INVERTENDO A LOGICA DE JUSTICA FISCAL ESPERADA'. Passa a ser a mesma",
+    "        afirmacao com um exemplo real no fim: 'como ocorre nos tributos sobre o",
+    "        consumo'. Isso e verdade -- a tributacao indireta brasileira e regressiva, e",
+    "        pesa proporcionalmente mais sobre quem ganha menos. A alternativa deixa de",
+    "        ser um absurdo autodenunciado e passa a descrever a REGRESSIVIDADE, que e o",
+    "        conceito oposto ao que a questao pede. Quem sabe distinguir progressivo de",
+    "        regressivo acerta; quem so viu a palavra 'contributiva' hesita.",
+    "",
+    "Os outros tres substitutos ficam dentro da materia de cada questao: no 45, a",
+    "autorizacao de operacao de credito externo, que passa pelo Senado e nao e nenhuma",
+    "das tres leis orcamentarias; no 77, o prejuizo patrimonial decorrente de ato de",
+    "autoridade, que pede mandado de seguranca e nao habeas corpus; no 100, a eleicao de",
+    "conselheiros setoriais, que e participacao social de outra especie."
+  ],
+  "subtopic": "atualidades-politica",
+  "questoes": {
+    "atualidades-politica-45": {
+      "alternativas": {
+        "d": "a autorização para operações de crédito externo, submetida à aprovação do Senado Federal"
+      },
+      "explicacao": "O Plano Plurianual estabelece o planejamento de médio prazo, a Lei de Diretrizes Orçamentárias fixa as prioridades do exercício seguinte e a Lei Orçamentária Anual traz a previsão de receitas e despesas do ano. A autorização de operações de crédito externo é o distrator mais plausível, porque é matéria orçamentária de verdade e envolve o Legislativo — só que compete ao Senado por resolução, sem integrar o tripé do planejamento. A fixação do salário mínimo se dá por lei própria, ainda que a LDO estabeleça parâmetros. A taxa básica de juros é definida pelo Comitê de Política Monetária. E normas eleitorais pertencem a outro ramo legislativo."
+    },
+    "atualidades-politica-61": {
+      "alternativas": {
+        "b": "cobrar percentualmente mais de quem tem menor capacidade contributiva, como ocorre nos tributos sobre o consumo"
+      },
+      "explicacao": "A progressividade tributária distribui a carga de forma proporcionalmente maior sobre quem tem maior capacidade contributiva, o que se obtém com alíquotas que crescem conforme a base. A alternativa que descreve a cobrança maior sobre quem tem menor capacidade é a mais instrutiva de descartar, porque ela é verdadeira a respeito de outro fenômeno: a regressividade dos tributos sobre o consumo, que no Brasil pesa proporcionalmente mais nas rendas baixas. Saber separar progressivo de regressivo é o conteúdo da questão. A uniformização de alíquota descreve a tributação proporcional. A vinculação da arrecadação a finalidade específica é outra classificação. E isentar as faixas altas seria o extremo da regressividade."
+    },
+    "atualidades-politica-77": {
+      "alternativas": {
+        "c": "prejuízo de natureza patrimonial decorrente de ato praticado por autoridade pública"
+      },
+      "explicacao": "O habeas corpus cabe sempre que alguém sofra ou se veja ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder. O prejuízo patrimonial por ato de autoridade é o distrator mais forte, porque também envolve ilegalidade de agente público — e o remédio adequado ali é o mandado de segurança, que protege direito líquido e certo não amparado por habeas corpus. A recusa de certidão por repartição pública é hipótese de habeas data ou de mandado de segurança. O impedimento ao voto tem via eleitoral própria. E o acesso a informações públicas se resolve pela Lei de Acesso à Informação."
+    },
+    "atualidades-politica-100": {
+      "alternativas": {
+        "d": "processos eleitorais de escolha de conselheiros setoriais nos municípios"
+      },
+      "explicacao": "As ouvidorias públicas fortalecem canais de participação e de controle social sobre a qualidade do serviço prestado, ao receber e encaminhar manifestações do cidadão. A eleição de conselheiros setoriais é o distrator mais próximo, porque também é mecanismo de participação social — só que de natureza representativa e deliberativa, distinto do canal direto e individual que a ouvidoria abre. O controle interno hierárquico existe e dispensa a participação do cidadão, que é justamente o elemento definidor da ouvidoria. O controle externo com poder de sanção cabe aos tribunais de contas e às corregedorias. E a resolução judicial de conflitos pertence ao Judiciário."
+    }
+  }
+}

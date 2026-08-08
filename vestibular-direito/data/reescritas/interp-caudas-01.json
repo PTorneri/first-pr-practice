@@ -1,0 +1,76 @@
+{
+  "_comentario": [
+    "Lote 1 de interpretacao-texto: 12, 13, 28, 36, 56. Dez distratores.",
+    "",
+    "Esta frente tem uma cauda propria, e e a pior de todas: o distrator INVOCA O TEXTO",
+    "para se desmentir. 'ao contrario do que afirma o texto', 'invertendo assim a relacao",
+    "real do texto', 'nao mencionados no texto', 'sem qualquer relacao com o trabalho",
+    "remoto' numa questao sobre uma tirinha de trabalho remoto.",
+    "",
+    "Numa prova de interpretacao isso e especialmente grave, porque a tarefa E comparar",
+    "a alternativa com o texto. Quando o distrator ja informa que discorda do texto, a",
+    "questao deixa de medir leitura e passa a medir obediencia.",
+    "",
+    "E HA UM CASO PIOR, na 12. A alternativa (a) dizia:",
+    "",
+    "  'os pesos numericos das redes neurais artificiais, E NAO AS CONEXOES ENTRE",
+    "   NEURONIOS BIOLOGICOS'",
+    "",
+    "A questao pergunta a que se refere a palavra 'sinapses'. A resposta correta e",
+    "'conexoes entre neuronios biologicos'. A alternativa (a) ENUNCIA A RESPOSTA CERTA",
+    "para dizer que nao e ela. Quem le so a (a) responde a questao sem precisar das",
+    "outras quatro. Nao e cauda delatora: e gabarito impresso no distrator.",
+    "",
+    "Reescrita para 'os pesos numericos ajustados a cada dado processado pela rede",
+    "neural artificial' -- que e o outro termo do paralelo feito no texto de apoio, e",
+    "portanto o distrator natural: quem inverte os dois lados da analogia marca essa.",
+    "",
+    "Os demais substitutos ficam dentro do que o texto permite discutir:",
+    "  13(b) oposicao entre calor no interior e mar no litoral, que e uma leitura",
+    "        possivel da estrutura e nao a que o texto estabelece (causa e consequencia)",
+    "  28(c) competicao com especies exoticas introduzidas nas areas de cultivo -- uma",
+    "        causa real do declinio de polinizadores, ausente deste texto",
+    "  28(d) abelhas polinizando sobretudo vegetacao nativa e nao lavoura, que inverte o",
+    "        dado do primeiro periodo (um terco das culturas consumidas)",
+    "  56(a) o horario do primeiro quadro e o anoitecer do terceiro, que existem na",
+    "        tirinha e sao o VEICULO do humor, nao o contraste que o produz"
+  ],
+  "subtopic": "interpretacao-texto",
+  "questoes": {
+    "interpretacao-texto-12": {
+      "alternativas": {
+        "a": "os pesos numéricos ajustados a cada novo dado processado pela rede neural artificial.",
+        "e": "componentes eletrônicos que reproduzem em hardware o comportamento de um neurônio."
+      },
+      "explicacao": "No texto, 'sinapses' nomeia as conexões entre neurônios biológicos, responsáveis pela transmissão dos impulsos nervosos — é o termo do lado biológico da analogia. Os pesos numéricos são o distrator mais forte, porque ocupam o outro lado dessa mesma comparação: o texto diz que, assim como as sinapses se fortalecem ou enfraquecem com a experiência, os pesos são ajustados a cada dado. Quem inverte os dois lados da analogia marca essa alternativa. Chamar sinapses de algoritmo de aprendizado troca a estrutura pelo procedimento. Componentes eletrônicos que imitam neurônios existem em pesquisa e não são o referente da palavra no texto. E as regiões de armazenamento de memória são estruturas cerebrais, não as junções entre células."
+    },
+    "interpretacao-texto-13": {
+      "alternativas": {
+        "b": "oposição, contrapondo as ondas de calor no interior ao avanço do mar nas áreas de litoral.",
+        "d": "definição, delimitando os conceitos técnicos de emissão de gases e de nível médio do mar."
+      },
+      "explicacao": "A relação é de causa e consequência, e o texto a encadeia explicitamente: as emissões elevam a frequência das ondas de calor, e o mesmo aquecimento faz avançar o nível do mar, o que já obriga o remanejamento de comunidades. A leitura como oposição entre interior e litoral é o distrator mais plausível, porque os dois efeitos se manifestam em lugares diferentes — só que o texto não os contrapõe, e sim os deriva da mesma causa. Tratar o trecho como definição de conceitos ignora o 'como consequência direta' que articula as orações. A comparação entre fenômenos independentes desfaz justamente o vínculo afirmado. E não há contradição entre dados de estudos distintos."
+    },
+    "interpretacao-texto-28": {
+      "alternativas": {
+        "b": "A segurança alimentar global é a causa do declínio das populações de abelhas, pressionadas pela expansão da agricultura de consumo mundial.",
+        "c": "O declínio das abelhas é causado pela competição com espécies exóticas introduzidas nas áreas de cultivo.",
+        "d": "As abelhas polinizam sobretudo a vegetação nativa, e não as culturas agrícolas de consumo humano."
+      },
+      "explicacao": "O texto encadeia: o uso intensivo de pesticidas e a perda de habitat estão associados ao declínio das abelhas, e esse declínio ameaça a segurança alimentar, já que elas polinizam cerca de um terço das culturas consumidas. A alternativa que faz da segurança alimentar a causa do declínio é o distrator mais forte, porque a expansão agrícola realmente pressiona os polinizadores — só que essa é uma cadeia diferente da que o texto constrói, em que a segurança alimentar é o efeito ameaçado e não o agente. A competição com espécies exóticas é fator real de declínio, ausente deste texto. Fazer da perda de habitat uma consequência inverte a ordem. E restringir a polinização à vegetação nativa contraria o dado do primeiro período."
+    },
+    "interpretacao-texto-36": {
+      "alternativas": {
+        "a": "uma comparação entre um bioma preservado e outro já degradado",
+        "b": "uma definição de desertificação a partir de seus indicadores de solo"
+      },
+      "explicacao": "O texto se organiza como uma cadeia de causas e consequências que se fecha em ciclo: o desmatamento reduz a retenção de umidade, o que diminui as chuvas, o que impede a regeneração da vegetação, o que realimenta o processo. A leitura como definição é o distrator mais próximo, porque o trecho de fato explica o que é desertificação — e o faz pelo encadeamento, não por delimitação de conceito. A comparação entre biomas exigiria dois objetos contrastados, e há apenas um processo. A crítica às políticas ambientais não aparece, já que o texto não avalia decisões. E a progressão cronológica descreveria etapas datadas, e não um circuito que se retroalimenta."
+    },
+    "interpretacao-texto-56": {
+      "alternativas": {
+        "a": "o horário marcado no primeiro quadro e o anoitecer do terceiro, que mostram a passagem do tempo."
+      },
+      "explicacao": "O humor nasce do contraste entre o discurso entusiasmado sobre a flexibilidade do home office e a rotina exaustiva que os quadros seguintes revelam: a mesma cadeira desde as sete da manhã, três notebooks e um bilhete que continua intocado à noite. A passagem do tempo entre o primeiro e o terceiro quadro é o distrator mais fino, porque ela está na tirinha e é indispensável — é o veículo da piada, não o contraste que a produz, que se dá entre o que a personagem diz e o que se vê. O vocabulário corporativo aparece sem que haja um interlocutor de fala informal. A quantidade de notebooks compõe a cena, e a internet não é mencionada. E não há explicação técnica sobre equipamentos."
+    }
+  }
+}

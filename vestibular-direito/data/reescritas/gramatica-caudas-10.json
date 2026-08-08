@@ -1,0 +1,57 @@
+{
+  "_comentario": [
+    "gramatica: 11 e 73. Seis distratores. Lote 10 -- o que fecha a frente.",
+    "",
+    "A 11 e a questao mais degradada que encontrei em gramatica, e nao pela cauda: pela",
+    "acumulacao de categoricas. As quatro alternativas erradas diziam:",
+    "",
+    "  a) 'o gerundio pode expressar QUALQUER relacao temporal'",
+    "  b) 'correta em QUALQUER registro... SEMPRE sinonimo PERFEITO'",
+    "  c) 'nao pode anteceder o verbo estar em NENHUMA construcao'",
+    "  d) 'O UNICO problema e a ausencia de virgula..., SEM QUALQUER RELACAO com o uso",
+    "     indevido do gerundio OU COM O GERUNDISMO MENCIONADO NO ENUNCIADO'",
+    "",
+    "A (d) e a mais franca do banco inteiro: ela cita o enunciado para dizer que nao trata",
+    "do que o enunciado trata. E a correta, com 187 caracteres, era a mais longa das cinco.",
+    "Ou seja: quatro alternativas descartaveis por palavra categorica, uma delas avisando",
+    "que fugia do tema, e a resposta certa sinalizada pelo tamanho.",
+    "",
+    "Reescritas para posicoes que alguem defende:",
+    "  a) o gerundio em locucao com 'estar' indicando acao prevista para depois da fala,",
+    "     'uso registrado na linguagem de atendimento comercial'. Isso e verdade como",
+    "     DESCRICAO de uso -- e o gerundismo existe e e assim que ele se espalhou. O erro",
+    "     e concluir que por isso esta correto.",
+    "  b) correta na fala e inadequada apenas na escrita formal -- que e a defesa",
+    "     sociolinguistica do gerundismo, feita a serio, e nao e o que a questao pede.",
+    "  c) mantem o diagnostico certo (ha gerundismo) e erra na explicacao, atribuindo o",
+    "     problema a incompatibilidade entre duas perifrases. Distrator dificil: quem",
+    "     identifica o desvio mas nao sabe nomea-lo para aqui.",
+    "  d) a virgula antes de 'e ja retorno', agora com uma justificativa gramatical",
+    "     propria (oracoes coordenadas de sujeitos distintos) em vez do aviso.",
+    "",
+    "Na 73, a (c) dizia que as aspas 'nao tem NENHUMA funcao no trecho, podendo ser",
+    "removidas SEM QUALQUER alteracao de sentido ou de efeito ironico PRETENDIDO PELO",
+    "AUTOR' -- a alternativa nega o efeito ironico e o nomeia na mesma frase, e o efeito",
+    "ironico e a resposta certa. Trocada pela atribuicao da expressao a um texto",
+    "publicitario da empresa, que e uma origem plausivel para uma frase entre aspas."
+  ],
+  "subtopic": "gramatica",
+  "questoes": {
+    "gramatica-11": {
+      "alternativas": {
+        "a": "A construção está correta, pois o gerúndio em locução com 'estar' pode indicar ação prevista para momento posterior ao da fala, uso amplamente registrado na linguagem de atendimento comercial e de teleatendimento",
+        "b": "A construção está correta na fala e inadequada apenas na escrita formal, em que 'ir + infinitivo' é a forma preferida pelos manuais de redação oficial",
+        "c": "Há gerundismo, e o problema está no auxiliar 'ir', que forma uma perífrase de futuro incompatível com a de 'estar + gerúndio' na mesma locução",
+        "d": "O problema da frase é a ausência de vírgula antes de 'e já retorno', que separa orações coordenadas com sujeitos distintos"
+      },
+      "explicacao": "Há gerundismo: o gerúndio é empregado para indicar ação futura, quando deveria expressar ação concomitante ou em andamento, e o adequado seria 'vou verificar' ou 'estou verificando'. A alternativa que descreve o uso na linguagem de atendimento é a mais difícil de recusar, porque a descrição é exata — foi por esse canal que a construção se difundiu — e o registro de um uso não o torna adequado à norma. A defesa que a admite na fala e a proíbe na escrita formal é a posição sociolinguística sobre o caso, e a questão pede o problema, não o registro. Localizar o defeito no auxiliar 'ir' acerta o diagnóstico e erra a explicação, porque 'vou estar' é perífrase legítima em outros contextos. E a vírgula antes de 'e já retorno' é questão de pontuação, alheia ao gerúndio."
+    },
+    "gramatica-73": {
+      "alternativas": {
+        "c": "assinalam que a expressão foi tomada de um texto publicitário da empresa, e não da fala do gerente",
+        "d": "indicam que a expressão foi traduzida de outro idioma pelo autor do texto, conforme convenção editorial"
+      },
+      "explicacao": "As aspas marcam citação direta da fala do gerente, e o contraste com a segunda oração produz efeito irônico em relação à promessa não cumprida. A atribuição da expressão a um texto publicitário é o distrator mais plausível, porque frases como 'rápido e sem burocracia' realmente circulam em peça de propaganda — o trecho, porém, apresenta a expressão como dita pelo gerente, e é dessa autoria que a ironia depende. Dizer que as aspas não têm função de citação em português restringe indevidamente seu uso. A tradução de outro idioma segue outra convenção, o itálico. E atribuir a ironia ao autor, e não ao contraste com o resultado, desloca a fonte do efeito: a expressão é sincera na boca do gerente e irônica no conjunto do período."
+    }
+  }
+}

@@ -173,14 +173,14 @@
                          "texto_apoio":  "Sistemas de inteligência artificial baseados em redes neurais artificiais são inspirados, ainda que de forma simplificada, no funcionamento de neurônios biológicos. Assim como sinapses se fortalecem ou enfraquecem conforme a experiência, os pesos numéricos de uma rede neural são ajustados a cada novo dado processado, em um mecanismo de aprendizado por repetição.",
                          "enunciado":  "No contexto do texto, a palavra \u0027sinapses\u0027 refere-se a",
                          "alternativas":  {
-                                              "a":  "os pesos numéricos das redes neurais artificiais, e não às conexões entre neurônios biológicos.",
+                                              "a":  "os pesos numéricos ajustados a cada novo dado processado pela rede neural artificial.",
                                               "b":  "um tipo de algoritmo de aprendizado de máquina distinto do funcionamento de neurônios biológicos.",
                                               "c":  "conexões entre neurônios biológicos, responsáveis pela transmissão de impulsos nervosos.",
                                               "d":  "as regiões cerebrais responsáveis pelo armazenamento permanente das memórias de longo prazo.",
-                                              "e":  "componentes eletrônicos utilizados exclusivamente em computadores, sem relação com neurônios biológicos."
+                                              "e":  "componentes eletrônicos que reproduzem em hardware o comportamento de um neurônio."
                                           },
                          "resposta":  "c",
-                         "explicacao":  "O texto emprega \u0027sinapses\u0027 em seu sentido biológico original, estabelecendo uma analogia com os pesos numéricos das redes neurais artificiais, que são elementos distintos, embora inspirados nesse conceito.",
+                         "explicacao":  "No texto, \u0027sinapses\u0027 nomeia as conexões entre neurônios biológicos, responsáveis pela transmissão dos impulsos nervosos — é o termo do lado biológico da analogia. Os pesos numéricos são o distrator mais forte, porque ocupam o outro lado dessa mesma comparação: o texto diz que, assim como as sinapses se fortalecem ou enfraquecem com a experiência, os pesos são ajustados a cada dado. Quem inverte os dois lados da analogia marca essa alternativa. Chamar sinapses de algoritmo de aprendizado troca a estrutura pelo procedimento. Componentes eletrônicos que imitam neurônios existem em pesquisa e não são o referente da palavra no texto. E as regiões de armazenamento de memória são estruturas cerebrais, não as junções entre células.",
                          "formato":  "direta"
                      },
                      {
@@ -189,13 +189,13 @@
                          "enunciado":  "A relação estabelecida entre os elementos do texto é predominantemente de",
                          "alternativas":  {
                                               "a":  "comparação entre dois fenômenos climáticos tratados no texto como independentes entre si.",
-                                              "b":  "oposição, apresentando o avanço do mar como fenômeno que contraria as previsões sobre ondas de calor.",
+                                              "b":  "oposição, contrapondo as ondas de calor no interior ao avanço do mar nas áreas de litoral.",
                                               "c":  "contradição entre dados sobre emissões apresentados por estudos climáticos diferentes.",
-                                              "d":  "definição de conceitos técnicos isolados, sem qualquer relação causal entre eles.",
+                                              "d":  "definição, delimitando os conceitos técnicos de emissão de gases e de nível médio do mar.",
                                               "e":  "causa e consequência, ligando emissões de gases, ondas de calor e avanço do mar."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O texto encadeia causas (emissões de gases) e efeitos (ondas de calor, avanço do mar, remanejamento de comunidades), estruturando-se claramente como uma relação de causa e consequência.",
+                         "explicacao":  "A relação é de causa e consequência, e o texto a encadeia explicitamente: as emissões elevam a frequência das ondas de calor, e o mesmo aquecimento faz avançar o nível do mar, o que já obriga o remanejamento de comunidades. A leitura como oposição entre interior e litoral é o distrator mais plausível, porque os dois efeitos se manifestam em lugares diferentes — só que o texto não os contrapõe, e sim os deriva da mesma causa. Tratar o trecho como definição de conceitos ignora o \u0027como consequência direta\u0027 que articula as orações. A comparação entre fenômenos independentes desfaz justamente o vínculo afirmado. E não há contradição entre dados de estudos distintos.",
                          "formato":  "direta"
                      },
                      {
@@ -417,13 +417,13 @@
                          "enunciado":  "Qual relação de causa e efeito é estabelecida no texto?",
                          "alternativas":  {
                                               "a":  "A perda de habitat é consequência, e não causa, do declínio das populações de abelhas.",
-                                              "b":  "A segurança alimentar global é a causa do declínio das populações de abelhas, invertendo assim a relação real do texto.",
-                                              "c":  "O declínio das abelhas é causado exclusivamente por fatores climáticos, não mencionados no texto.",
-                                              "d":  "As abelhas não têm qualquer papel na produção agrícola mundial, ao contrário do que afirma o texto.",
+                                              "b":  "A segurança alimentar global é a causa do declínio das populações de abelhas, pressionadas pela expansão da agricultura de consumo mundial.",
+                                              "c":  "O declínio das abelhas é causado pela competição com espécies exóticas introduzidas nas áreas de cultivo.",
+                                              "d":  "As abelhas polinizam sobretudo a vegetação nativa, e não as culturas agrícolas de consumo humano.",
                                               "e":  "O uso de pesticidas e a perda de habitat estão associados ao declínio das abelhas, ameaçando a segurança alimentar."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O texto estabelece uma cadeia causal explícita: pesticidas e perda de habitat causam o declínio das abelhas, que por sua vez ameaça a segurança alimentar mundial, dada sua importância na polinização.",
+                         "explicacao":  "O texto encadeia: o uso intensivo de pesticidas e a perda de habitat estão associados ao declínio das abelhas, e esse declínio ameaça a segurança alimentar, já que elas polinizam cerca de um terço das culturas consumidas. A alternativa que faz da segurança alimentar a causa do declínio é o distrator mais forte, porque a expansão agrícola realmente pressiona os polinizadores — só que essa é uma cadeia diferente da que o texto constrói, em que a segurança alimentar é o efeito ameaçado e não o agente. A competição com espécies exóticas é fator real de declínio, ausente deste texto. Fazer da perda de habitat uma consequência inverte a ordem. E restringir a polinização à vegetação nativa contraria o dado do primeiro período.",
                          "formato":  "direta"
                      },
                      {
@@ -538,14 +538,14 @@
                          "formato":  "direta",
                          "enunciado":  "A estrutura argumentativa do texto é organizada principalmente em torno de",
                          "alternativas":  {
-                                              "a":  "uma comparação entre dois biomas distintos, sem relação causal entre eles",
-                                              "b":  "uma definição isolada de desertificação, sem relação com o desmatamento",
+                                              "a":  "uma comparação entre um bioma preservado e outro já degradado",
+                                              "b":  "uma definição de desertificação a partir de seus indicadores de solo",
                                               "c":  "uma cadeia de causas e consequências que forma um ciclo",
                                               "d":  "uma crítica do autor às políticas ambientais vigentes na região",
                                               "e":  "uma progressão cronológica da evolução histórica do fenômeno"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Cada elo puxa o seguinte — menos mata, menos umidade no solo; menos umidade, menos chuva; menos chuva, menos regeneração — e o último elo realimenta o primeiro, o que fecha o ciclo. Em (e) está o distrator mais fino: há sim marcação temporal, quando o texto fala em décadas, mas o tempo indica a duração do processo, e não uma sucessão histórica de fases. Em (a) e (b), não há dois biomas comparados nem definição isolada do conceito. Em (d), o texto descreve o mecanismo sem julgar política alguma."
+                         "explicacao":  "O texto se organiza como uma cadeia de causas e consequências que se fecha em ciclo: o desmatamento reduz a retenção de umidade, o que diminui as chuvas, o que impede a regeneração da vegetação, o que realimenta o processo. A leitura como definição é o distrator mais próximo, porque o trecho de fato explica o que é desertificação — e o faz pelo encadeamento, não por delimitação de conceito. A comparação entre biomas exigiria dois objetos contrastados, e há apenas um processo. A crítica às políticas ambientais não aparece, já que o texto não avalia decisões. E a progressão cronológica descreveria etapas datadas, e não um circuito que se retroalimenta."
                      },
                      {
                          "id":  "interpretacao-texto-37",
@@ -856,14 +856,14 @@
                          "texto_apoio":  "No primeiro quadro, a pessoa está em reunião de vídeo, sorrindo e dizendo: \u0027Sim, total flexibilidade, adoro trabalhar de casa!\u0027. No segundo quadro, a câmera se afasta e mostra que ela está sentada na mesma cadeira desde as sete da manhã, com três notebooks abertos e um bilhete colado na parede: \u0027Só mais uma reunião e eu paro.\u0027 No terceiro quadro, é noite, e o bilhete continua ali, intocado.",
                          "enunciado":  "O humor da tirinha se constrói principalmente pelo contraste entre",
                          "alternativas":  {
-                                              "a":  "a hora da manhã e a hora da noite marcadas no relógio, sem qualquer relação com o trabalho remoto.",
+                                              "a":  "o horário marcado no primeiro quadro e o anoitecer do terceiro, que mostram a passagem do tempo.",
                                               "b":  "o discurso entusiasmado sobre a \u0027flexibilidade\u0027 do home office e a rotina exaustiva revelada nos quadros seguintes.",
                                               "c":  "o vocabulário corporativo usado pela personagem e a linguagem informal de quem responde a ela.",
                                               "d":  "a quantidade de notebooks usados pela personagem e a qualidade da internet disponível na casa.",
                                               "e":  "uma explicação técnica bem detalhada sobre a configuração de todos os equipamentos usados nas reuniões virtuais mostradas."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A tirinha ironiza o discurso da \u0027flexibilidade\u0027 do trabalho remoto ao revelar, nos quadros seguintes, uma rotina de trabalho contínuo e sem pausas, evidenciando a contradição entre o que é dito e o que de fato acontece.",
+                         "explicacao":  "O humor nasce do contraste entre o discurso entusiasmado sobre a flexibilidade do home office e a rotina exaustiva que os quadros seguintes revelam: a mesma cadeira desde as sete da manhã, três notebooks e um bilhete que continua intocado à noite. A passagem do tempo entre o primeiro e o terceiro quadro é o distrator mais fino, porque ela está na tirinha e é indispensável — é o veículo da piada, não o contraste que a produz, que se dá entre o que a personagem diz e o que se vê. O vocabulário corporativo aparece sem que haja um interlocutor de fala informal. A quantidade de notebooks compõe a cena, e a internet não é mencionada. E não há explicação técnica sobre equipamentos.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -1020,12 +1020,12 @@
                          "alternativas":  {
                                               "a":  "o uso de ervas da caatinga veio da gastronomia urbana, e não do saber local",
                                               "b":  "a escassez de água impede o preparo dos pratos tradicionais do sertão",
-                                              "c":  "as ervas da caatinga têm uso medicinal, sem relação com a alimentação",
+                                              "c":  "as ervas da caatinga têm uso sobretudo medicinal nas comunidades do sertão",
                                               "d":  "a culinária une sabor e adaptação ao bioma, transmitida entre gerações",
                                               "e":  "o uso dessas ervas seria prática recente, sem tradição histórica na região"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O texto recusa a leitura que reduz a culinária a gosto: o mesmo tempero que dá sabor aproveita o que a caatinga oferece, e o conhecimento de qual planta usar passa de uma geração à seguinte. São três camadas na mesma prática. Em (a) está a inversão de origem — o saber é local e anterior, não importado da cidade. Em (e), a transmissão entre gerações afirma o oposto de prática recente. Em (b), a escassez é o contexto que a prática enfrenta, não um impedimento. Em (c), o uso descrito é alimentar."
+                         "explicacao":  "A ideia central é que a culinária sertaneja une sabor e adaptação ao bioma, num saber transmitido entre gerações que persiste apesar da escassez de água. O uso medicinal das ervas é o distrator mais plausível, porque a caatinga tem de fato essa tradição — e o texto trata do tempero de carnes e caldos, isto é, do uso alimentar. Atribuir a prática à gastronomia urbana inverte a direção do saber, que o texto situa na transmissão local. Dizer que a escassez de água impede o preparo contraria o \u0027resiste mesmo diante da escassez\u0027. E tratar o uso como recente nega a transmissão entre gerações."
                      },
                      {
                          "id":  "interpretacao-texto-67",
@@ -1068,10 +1068,10 @@
                                               "b":  "O segundo parágrafo apresenta a versão do proprietário do casarão sobre o estado de conservação.",
                                               "c":  "O segundo parágrafo nega que o casarão esteja, de fato, tombado como patrimônio histórico.",
                                               "d":  "O segundo parágrafo explica a causa jurídica do paradoxo: proteção legal sem garantia de manutenção efetiva.",
-                                              "e":  "O segundo parágrafo apresenta um tema completamente novo, sem relação com o casarão do primeiro."
+                                              "e":  "O segundo parágrafo desloca o foco para a legislação de tombamento em geral, deixando de lado o caso do casarão."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O segundo parágrafo esclarece por que um bem tombado pode estar deteriorado: o tombamento protege contra demolição, mas não garante recursos de manutenção, explicando assim o paradoxo apresentado no primeiro parágrafo.",
+                         "explicacao":  "O segundo parágrafo explica a causa jurídica do paradoxo enunciado no primeiro: o tombamento impede demolição e descaracterização, sem obrigar a destinação de recursos, e é essa lacuna que produz um bem protegido e deteriorado. A leitura de que o parágrafo abandona o caso para tratar da legislação em geral é o distrator mais fino, porque ele realmente sobe ao plano da norma — e o faz para voltar ao casarão, que a última oração retoma. Dizer que o segundo parágrafo contradiz o primeiro é a confusão central: explicar um paradoxo não é negar a informação que o gerou. E o texto não traz versão do proprietário nem nega o tombamento.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -1355,11 +1355,11 @@
                                               "a":  "no contraste entre a linguagem técnica dos aplicativos de produtividade e a rotina caseira do narrador.",
                                               "b":  "na ironia de o narrador considerar produtivo cumprir apenas uma tarefa sobre planejar, sem executar nenhuma das originais.",
                                               "c":  "na descrição detalhada e séria de cada uma das sete tarefas originais da lista de afazeres do dia.",
-                                              "d":  "na afirmação categórica de que o narrador jamais faz absolutamente qualquer lista de tarefas em sua vida diária de trabalho.",
+                                              "d":  "na afirmação de que a nova lista, mais realista, substituiu integralmente as sete tarefas originais que o narrador deixara pendentes.",
                                               "e":  "em uma crítica direta e sem humor às técnicas modernas de gestão de tempo pessoal e produtividade."
                                           },
                          "resposta":  "b",
-                         "explicacao":  "O efeito cômico está na autoironia: o narrador reconhece que \u0027cumprir\u0027 apenas a tarefa de replanejar, sem executar nenhuma das sete originais, é um fracasso disfarçado de produtividade, contraste explícito entre \u0027tecnicamente\u0027 e \u0027espiritualmente\u0027.",
+                         "explicacao":  "O humor está na ironia de considerar produtivo cumprir apenas a tarefa de planejar, sem executar nenhuma das sete originais — o \u0027tecnicamente, produtivo\u0027 e o \u0027espiritualmente, um fracasso\u0027 dão a medida do contraste. A ideia de que a nova lista substituiu as tarefas pendentes é o distrator mais próximo, porque é exatamente o que o narrador finge acreditar: a graça está em ele saber que não substituiu, e é o reconhecimento do autoengano que produz o efeito. A linguagem técnica de aplicativos não aparece no trecho. As sete tarefas não são descritas. E a crítica às técnicas de gestão de tempo existe no texto de forma indireta e com humor, não de forma direta e séria.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -1867,11 +1867,11 @@
                                               "a":  "A criação da rede de ciclovias está associada ao aumento no uso da bicicleta e à redução no tempo de deslocamento.",
                                               "b":  "As ciclovias aumentaram o tempo de deslocamento dos moradores em trajetos curtos na cidade, segundo relatos.",
                                               "c":  "A rede de ciclovias foi construída em resposta a uma demanda já consolidada, e não a antecedeu.",
-                                              "d":  "Não há, segundo o texto, nenhuma relação entre a infraestrutura cicloviária e o comportamento dos moradores.",
-                                              "e":  "O aumento no uso de bicicleta ocorreu antes da criação da rede de ciclovias, sem qualquer relação entre os dois fatos."
+                                              "d":  "O texto apresenta os dois fatos como simultâneos, sem estabelecer entre eles vínculo de causa e efeito.",
+                                              "e":  "O aumento no uso da bicicleta precedeu a criação da rede, que apenas formalizou em ciclovias trajetos já consolidados pelos ciclistas."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O texto associa diretamente a implantação das ciclovias ao aumento no uso da bicicleta e à percepção de menor tempo de deslocamento, estabelecendo uma relação de causa e efeito clara entre a infraestrutura e os resultados relatados.",
+                         "explicacao":  "O texto associa a criação da rede de ciclovias conectadas ao aumento de 35% nas viagens diárias de bicicleta e à redução no tempo de deslocamento em trajetos curtos. A inversão em que o uso precede a infraestrutura é o distrator mais forte, porque isso acontece no urbanismo real — rotas espontâneas de ciclistas costumam anteceder a ciclovia oficial —, e não é o que este texto afirma, que parte da implantação e mede o efeito. A leitura cautelosa que vê apenas simultaneidade é defensável diante de contagem de prefeitura, e o texto explicita o vínculo. Dizer que as ciclovias aumentaram o tempo de deslocamento inverte o relato dos moradores. E a demanda consolidada como origem da obra recoloca a mesma inversão.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -2217,13 +2217,13 @@
                          "enunciado":  "O efeito de humor no trecho decorre principalmente",
                          "alternativas":  {
                                               "a":  "da comparação exagerada entre o relógio da avó e um instrumento de precisão científica.",
-                                              "b":  "da afirmação categórica de que a avó nunca mais utilizou relógio algum em nenhum cômodo da casa da família toda.",
+                                              "b":  "da afirmação de que a avó ajusta os relógios com dias de antecedência para poupar energia elétrica na casa durante o verão.",
                                               "c":  "de uma explicação técnica sobre o funcionamento do horário de verão adotado no país.",
                                               "d":  "do resultado contraditório e caótico gerado por uma estratégia que pretendia, ironicamente, trazer mais ordem.",
                                               "e":  "de uma crítica direta e sem humor à decisão de adotar o horário de verão no país inteiro."
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O humor nasce do contraste entre a intenção da avó (organizar a transição \u0027aos poucos\u0027) e o resultado prático caótico (relógios com horas diferentes, ninguém sabe a hora certa), ironia típica de crônicas sobre hábitos familiares.",
+                         "explicacao":  "O humor vem do resultado contraditório de uma estratégia que pretendia trazer ordem: ao adiantar os relógios aos poucos, a avó produz uma casa em que cada cômodo marca uma hora diferente e ninguém sabe mais que horas são. Atribuir o gesto à economia de energia é o distrator mais plausível, porque é um motivo verossímil para o mesmo hábito e o próprio horário de verão foi criado com esse fim — só que o texto dá outra razão, a de acostumar o corpo aos poucos, e é dessa intenção que o efeito cômico depende. A comparação com instrumento de precisão não está no trecho. Não há explicação técnica sobre o horário de verão. E a crítica à medida, se existe, vem em tom de brincadeira, não de forma direta e sem humor.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },

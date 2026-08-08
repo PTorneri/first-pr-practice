@@ -1,0 +1,112 @@
+{
+  "_comentario": [
+    "Lote 1 de historia-geral: 16, 18, 38, 39, 40, 44, 60. Vinte e tres distratores.",
+    "",
+    "Esta e a frente com as caudas mais curtas e mais mecanicas do banco. Sao quase todas",
+    "de duas ou tres palavras, penduradas depois da virgula:",
+    "",
+    "  'aproximacao inexistente na trajetoria politica de Gandhi'",
+    "  'tendencia contraria ao observado desde os anos 1990'",
+    "  'hipotese contraria ao proprio sentido do evento'",
+    "  'cenario oposto ao vivido pelas Treze Colonias'",
+    "  'quadro tipico apenas da primeira Revolucao Industrial'",
+    "  'cronologia invertida'",
+    "",
+    "A ultima e a mais franca de todas: a alternativa diz que inverteu a cronologia.",
+    "",
+    "QUATRO SUBSTITUTOS QUE VALEM A QUESTAO INTEIRA:",
+    "",
+    "  16(d) SUBHAS CHANDRA BOSE. Era 'A alianca militar direta com a Uniao Sovietica,",
+    "        APROXIMACAO INEXISTENTE na trajetoria politica de Gandhi'. Passa a ser a",
+    "        alianca com o Exercito Nacional Indiano de Bose, que combateu os britanicos",
+    "        ao lado do Eixo. Bose existiu, presidiu o Congresso Nacional Indiano, rompeu",
+    "        com Gandhi exatamente sobre isso, e e a alternativa armada real dentro do",
+    "        movimento pela independencia. A questao passa a distinguir duas estrategias",
+    "        que disputaram de fato, em vez de oferecer um absurdo.",
+    "  40(c) O CODE RURAL. Era 'Manteve a escravidao mesmo apos a independencia, hipotese",
+    "        CONTRARIA ao proprio marco historico do Haiti'. Passa a ser: manteve trabalho",
+    "        compulsorio nas plantacoes administradas pelo novo Estado. Isso e o que",
+    "        Toussaint e depois Dessalines fizeram -- aboliram a escravidao e impuseram",
+    "        trabalho forcado na lavoura de exportacao. A alternativa fica",
+    "        historiograficamente serissima e continua nao sendo a singularidade que a",
+    "        questao pede, que e escravizados conquistando independencia E abolicao.",
+    "  39(c) A LINHA DOS APALACHES. Era 'O apoio IRRESTRITO da Coroa a autonomia das",
+    "        colonias, CENARIO OPOSTO ao vivido pelas Treze Colonias'. Passa a ser o",
+    "        apoio da Coroa a expansao para oeste alem da linha de 1763. A Proclamacao de",
+    "        1763 fez o CONTRARIO -- proibiu a expansao -- e essa proibicao foi uma das",
+    "        queixas coloniais. Inverter um fato que existe vale mais que inventar um",
+    "        apoio que nunca houve.",
+    "  60(c) ZONAS DE OCUPACAO. Era 'ocupacao permanente do Japao pela Uniao Sovietica,",
+    "        O QUE NAO OCORREU no pos-guerra japones'. Passa a ser a divisao do Japao em",
+    "        zonas entre Estados Unidos e Uniao Sovietica, 'como ocorreu na Alemanha'. A",
+    "        comparacao e verdadeira para a Alemanha e para a Coreia, e falsa para o",
+    "        Japao, que ficou sob administracao americana. Exige saber qual dos tres.",
+    "",
+    "Outros: 38(a) restauracao dos Stuart com a coroacao de Jaime II, que e a Restauracao",
+    "de 1660 e nao 1688; 38(d) o Ato de Supremacia, que e de 1534; 44(e) o trabalho por",
+    "peca em domicilio, que e o putting-out system anterior a fabrica; 18(d) a",
+    "convergencia de renda entre paises, que e uma hipotese economica discutida a serio.",
+    "",
+    "Em 40 a correta era a mais longa."
+  ],
+  "subtopic": "historia-geral",
+  "questoes": {
+    "historia-geral-16": {
+      "alternativas": {
+        "a": "A luta armada revolucionária contra o exército britânico, organizada a partir de células urbanas em Calcutá e em Bombaim",
+        "d": "A aliança com o Exército Nacional Indiano de Subhas Chandra Bose, que combateu os britânicos ao lado das potências do Eixo",
+        "e": "A aceitação do domínio britânico em troca de assentos indianos no Parlamento de Londres, como queriam os setores moderados do Congresso"
+      },
+      "explicacao": "A estratégia de Gandhi foi a resistência não violenta e a desobediência civil: boicote a produtos e instituições britânicas, marchas como a do Sal, jejuns e não cooperação. A aliança com o Exército Nacional Indiano de Subhas Chandra Bose é o distrator mais forte, porque Bose foi presidente do Congresso Nacional Indiano, rompeu com Gandhi justamente por defender a via armada e chegou a combater ao lado do Eixo — era a alternativa real dentro do movimento, e não a linha de Gandhi. A proposta de assentos no Parlamento de Londres corresponde aos moderados do Congresso, que Gandhi superou. A guerrilha rural apoiada por potências estrangeiras descreve outros processos anticoloniais. E aceitar integralmente o domínio contraria a própria luta pela independência."
+    },
+    "historia-geral-18": {
+      "alternativas": {
+        "a": "O enfraquecimento das organizações econômicas internacionais diante da multiplicação de acordos bilaterais entre países",
+        "c": "O isolamento crescente das economias nacionais, com substituição das importações por produção interna protegida",
+        "d": "A convergência da renda média entre os países, com os emergentes alcançando o patamar dos desenvolvidos"
+      },
+      "explicacao": "A globalização contemporânea se caracteriza pela intensificação dos fluxos de capitais, mercadorias, informações e pessoas, impulsionada por avanços em transporte e telecomunicações. A convergência de renda entre países é o distrator mais respeitável, porque é uma hipótese econômica discutida a sério e verificada em alguns casos, como a Coreia do Sul — o padrão geral não confirmou o alcance dos desenvolvidos, e a desigualdade entre países persiste. O enfraquecimento das organizações multilaterais frente a acordos bilaterais descreve uma tendência real e recente, posterior ao movimento que a questão trata. A redução dos fluxos de capital contraria o dado central do período. E o isolamento com substituição de importações descreve o modelo anterior."
+    },
+    "historia-geral-38": {
+      "alternativas": {
+        "a": "Restaurar no trono a dinastia Stuart, deposta durante a guerra civil, com a coroação de Jaime II",
+        "c": "Abolir a monarquia inglesa e transformar o país em república governada por um conselho de Estado",
+        "d": "Ampliar o poder do rei sobre a Igreja da Inglaterra, por meio do Ato de Supremacia"
+      },
+      "explicacao": "A Revolução Gloriosa de 1688 consolidou a supremacia do Parlamento sobre o poder real: Guilherme de Orange aceitou o trono já sob a Declaração de Direitos, que limitou a Coroa em matéria tributária, militar e judicial. A restauração dos Stuart com a coroação de Jaime II é o distrator mais fino, porque descreve fatos verdadeiros deslocados no tempo — a Restauração é de 1660, e Jaime II é precisamente o rei que a Revolução Gloriosa depôs. O Ato de Supremacia é de 1534, sob Henrique VIII. A república com conselho de Estado e a instauração sob Cromwell remetem à década de 1650, após a execução de Carlos I. E ampliar o poder do rei inverte o resultado do processo."
+    },
+    "historia-geral-39": {
+      "alternativas": {
+        "a": "A influência das ideias iluministas restrita ao debate religioso entre as congregações protestantes das colônias",
+        "c": "O apoio da Coroa britânica à expansão colonial para oeste, além da linha dos Apalaches fixada em 1763",
+        "e": "A decisão da metrópole de abolir os impostos internos das colônias, mantendo apenas as tarifas sobre o comércio com outras potências europeias"
+      },
+      "explicacao": "A independência das Treze Colônias foi motivada pela insatisfação com a tributação imposta sem representação no Parlamento, resumida no lema 'no taxation without representation'. O apoio à expansão para oeste é o distrator mais bem construído, porque a linha dos Apalaches existiu de verdade — só que a Proclamação de 1763 proibiu a ocupação além dela, e essa proibição foi uma das queixas coloniais, o oposto de apoio. A recusa da Coroa em manter o monopólio inverte a política mercantilista em vigor. A abolição dos impostos internos contraria a série de leis tributárias do período, do Açúcar ao Selo. E restringir o iluminismo ao debate religioso ignora sua presença nos panfletos políticos."
+    },
+    "historia-geral-40": {
+      "alternativas": {
+        "a": "Foi conduzida pelos proprietários de terra brancos da colônia, que buscavam autonomia comercial diante do exclusivo francês",
+        "c": "Manteve a escravidão após a independência, sob a forma de trabalho compulsório nas plantações administradas pelo novo Estado haitiano",
+        "d": "Ocorreu antes da Revolução Francesa, servindo-lhe de exemplo na formulação da Declaração dos Direitos do Homem e do Cidadão"
+      },
+      "explicacao": "A Revolução Haitiana é singular porque resultou da mobilização de escravizados que, inspirados também pela Revolução Francesa, conquistaram ao mesmo tempo a independência e a abolição — nenhuma outra revolução atlântica combinou as duas coisas. A alternativa do trabalho compulsório é a mais exigente do conjunto, porque toca um fato incômodo e verdadeiro: Toussaint Louverture e depois Dessalines aboliram a escravidão e impuseram trabalho forçado na lavoura de exportação para sustentar a economia. Isso não é manutenção da escravidão, e é a razão de a alternativa ser tentadora. A condução por proprietários brancos descreve o que ocorreu em outras colônias. E o Haiti veio depois de 1789, não antes."
+    },
+    "historia-geral-44": {
+      "alternativas": {
+        "b": "Reduzir a escala da produção industrial, com o retorno das fábricas às dimensões das oficinas do início do século XIX",
+        "c": "Retomar a produção artesanal em pequenas oficinas especializadas, organizadas em torno de corporações de ofício",
+        "d": "Manter o carvão e o ferro como base energética e material, com ganhos vindos apenas do aperfeiçoamento da máquina a vapor",
+        "e": "Substituir a mão de obra assalariada pelo trabalho por peça executado em domicílio, sob encomenda das fábricas"
+      },
+      "explicacao": "A Segunda Revolução Industrial ampliou a base tecnológica da produção com eletricidade, aço e petróleo, e essa nova escala favoreceu a concentração empresarial em cartéis, trustes e monopólios. Manter carvão e ferro com ganhos apenas na máquina a vapor é o distrator mais forte, porque descreve com precisão a primeira fase: é a mudança de matriz energética e de material que separa uma da outra. O trabalho por peça em domicílio remete ao putting-out system, anterior à fábrica. A retomada da produção artesanal em corporações de ofício descreve a organização pré-industrial. E reduzir a escala da produção inverte o traço central do período, que é justamente a concentração."
+    },
+    "historia-geral-60": {
+      "alternativas": {
+        "a": "Encerrou o conflito no Pacífico sem que fosse necessária a rendição formal do governo japonês",
+        "b": "Marcou a entrada do Japão na Segunda Guerra Mundial, precipitada pelo ataque à base de Pearl Harbor",
+        "c": "Resultou na divisão do Japão em zonas de ocupação entre Estados Unidos e União Soviética, como ocorreu na Alemanha"
+      },
+      "explicacao": "As bombas de Hiroshima e Nagasaki precipitaram a rendição japonesa e inauguraram a era nuclear, que passaria a organizar as relações internacionais na Guerra Fria. A divisão em zonas de ocupação é o distrator mais exigente, porque a comparação com a Alemanha é verdadeira para a Alemanha e para a Coreia — e o Japão ficou sob administração norte-americana, sem partilha com a União Soviética. O ataque a Pearl Harbor é real e marcou a entrada do Japão na guerra em 1941, não seu fim. O tratado de não proliferação só veio em 1968, e não impediu os testes das décadas seguintes. E a rendição formal ocorreu, assinada em setembro de 1945 a bordo do Missouri."
+    }
+  }
+}

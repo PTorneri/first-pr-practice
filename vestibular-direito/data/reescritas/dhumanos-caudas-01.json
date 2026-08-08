@@ -1,0 +1,106 @@
+{
+  "_comentario": [
+    "direitos-humanos: 10, 11, 20, 35, 41, 49, 60, 76, 100. Vinte distratores.",
+    "",
+    "Frente juridica, e por isso a melhor de todas para trocar cauda por instituto que",
+    "existe. Quatro substituicoes que passam a exigir conhecimento em vez de leitura:",
+    "",
+    "  10(b) ACAO DIRETA DE INCONSTITUCIONALIDADE POR OMISSAO. Era 'Controle de",
+    "        constitucionalidade difuso exercido por juiz de primeira instancia, HIPOTESE",
+    "        INAPLICAVEL'. Passa a ser o controle CONCENTRADO por ADO. A resposta certa e",
+    "        'atuacao do Judiciario diante da omissao legislativa' -- e a ADO e",
+    "        exatamente o instrumento tipico dessa atuacao. O distrator fica encostado na",
+    "        certa e erra na via: a decisao descrita nao veio de ADO. E a distincao que a",
+    "        FGV cobra.",
+    "  10(a) tratado de direitos humanos com status de emenda -- que existe desde o",
+    "        paragrafo 3o do artigo 5o, no lugar de 'sem QUALQUER base constitucional,",
+    "        TESE REJEITADA PELO STF'.",
+    "  20(c) TRANSFERENCIA DO DIREITO DE CONSTRUIR. Era 'transferencia automatica da",
+    "        propriedade ao municipio apos um ano de vacancia, HIPOTESE NAO PREVISTA no",
+    "        Estatuto da Cidade' -- a alternativa informava que nao estava no Estatuto,",
+    "        numa questao que pergunta o que o Estatuto preve. Passa a ser a",
+    "        transferencia do direito de construir do imovel tombado, que o Estatuto",
+    "        preve DE VERDADE, no artigo 35. Agora as duas alternativas estao na lei, e a",
+    "        questao pede a que serve a funcao social por inducao de uso.",
+    "  76(b) a IMUNIDADE FISCAL dos templos, que a Constituicao reconhece, no lugar de",
+    "        'conforme entendimento EQUIVOCADO do CDC'.",
+    "",
+    "A 60 tinha duas alternativas seguidas terminando na mesma formula -- 'sem relacao",
+    "com esse direito' e 'sem relacao com acessibilidade' -- numa questao de cinco linhas",
+    "curtas. Duas de cinco se anunciavam.",
+    "",
+    "Tirei tambem 'proibicao TOTAL, sem QUALQUER excecao', 'Latrocinio EXCLUSIVAMENTE em",
+    "via publica', 'QUALQUER crime por motivo financeiro', 'elimina por si so QUALQUER",
+    "desigualdade', 'depende EXCLUSIVAMENTE de fatores geneticos', 'Eliminar QUALQUER",
+    "diferenca de tratamento', 'Impedir QUALQUER contato com atividades educacionais',",
+    "'prejuizo EXCLUSIVAMENTE patrimonial, sem QUALQUER relacao'."
+  ],
+  "subtopic": "direitos-humanos",
+  "questoes": {
+    "direitos-humanos-10": {
+      "alternativas": {
+        "a": "Aplicação direta de tratado internacional de direitos humanos incorporado com status de emenda constitucional",
+        "b": "Controle de constitucionalidade concentrado, exercido por meio de ação direta de inconstitucionalidade por omissão"
+      },
+      "explicacao": "A decisão configura atuação do Judiciário diante da omissão legislativa em matéria de direitos fundamentais: na ausência de lei, o tribunal supre a lacuna para tornar o direito exercitável. O controle concentrado por ação direta de inconstitucionalidade por omissão é o distrator mais exigente, porque a ADO é justamente o instrumento típico dessa atuação — o que se pede aqui é a natureza da atuação, e não a via processual por que ela se deu. A aplicação de tratado com status de emenda é possível desde o parágrafo 3º do artigo 5º e não descreve o caso. O poder constituinte derivado se exerce por emenda, competência do Legislativo. E mutação constitucional é mudança de interpretação sem alteração de texto, o que exclui a menção a emenda do artigo 60."
+    },
+    "direitos-humanos-11": {
+      "alternativas": {
+        "d": "Dependem de referendo popular para serem alterados, nos moldes do plebiscito de 1993 sobre a forma de governo"
+      },
+      "explicacao": "Cláusulas pétreas não podem ser abolidas nem por emenda constitucional, o que não impede regulamentação legislativa, desde que ela não esvazie o núcleo essencial do direito. O referendo popular é o distrator mais plausível, porque o plebiscito de 1993 existiu e tratou justamente de matéria constitucional — só que a proteção do artigo 60 é uma vedação material ao poder de reforma, não uma exigência de consulta. Dizer que valem apenas em estados de exceção inverte a lógica: é nesses períodos que as garantias sofrem restrição. Alteração por lei ordinária rebaixaria a cláusula pétrea ao nível infraconstitucional. E medida provisória não pode versar sobre direitos fundamentais."
+    },
+    "direitos-humanos-20": {
+      "alternativas": {
+        "a": "A proibição de novos loteamentos em áreas sem infraestrutura de água e de esgoto previamente instalada",
+        "b": "A isenção de IPTU para terrenos vazios mantidos como área de preservação permanente em zona urbana",
+        "c": "A transferência do direito de construir do imóvel tombado para outro terreno do mesmo proprietário, mediante autorização municipal"
+      },
+      "explicacao": "O Estatuto da Cidade prevê o parcelamento, a edificação ou a utilização compulsórios do imóvel subutilizado, com IPTU progressivo no tempo como sanção ao proprietário que não atende à notificação. A transferência do direito de construir é o distrator mais difícil de recusar, porque também está no Estatuto, no artigo 35 — é instrumento de compensação ao proprietário de imóvel tombado ou de interesse ambiental, e não de indução ao uso do imóvel ocioso. A isenção de IPTU para terreno vazio caminha no sentido oposto ao da progressividade. A proibição de loteamentos sem infraestrutura é matéria de parcelamento do solo. E a desapropriação exige notificação prévia e as etapas anteriores."
+    },
+    "direitos-humanos-35": {
+      "alternativas": {
+        "a": "Latrocínio praticado contra mulher, mediante emprego de arma de fogo em via pública",
+        "c": "Conflitos entre membros de facções criminosas rivais, com vítima mulher integrante de um dos grupos",
+        "d": "Crime cometido por motivo financeiro contra mulher, como na disputa por herança familiar"
+      },
+      "explicacao": "O feminicídio se caracteriza pelo homicídio de mulher praticado em contexto de violência doméstica e familiar ou por menosprezo e discriminação à condição de mulher — são essas duas hipóteses que a lei enumera. As alternativas que trazem vítima mulher em latrocínio, em conflito entre facções ou em disputa patrimonial são as mais instrutivas de descartar, porque mostram que o sexo da vítima não basta: o que qualifica é a razão de gênero. Homicídio no exercício de atividade profissional regulamentada não integra a definição. E crime por motivo financeiro, ainda que a vítima seja mulher, segue a qualificadora do motivo torpe."
+    },
+    "direitos-humanos-41": {
+      "alternativas": {
+        "a": "A universalização formal de um direito social é suficiente para assegurar sua efetivação em cada uma das regiões do território nacional",
+        "c": "A mortalidade infantil depende sobretudo de fatores genéticos e do perfil epidemiológico de cada população local"
+      },
+      "explicacao": "A persistência de diferenças regionais é lida como evidência de que o direito à saúde, formalmente universal, tem sua efetivação condicionada por desigualdades estruturais de infraestrutura, renda e saneamento entre regiões. Supor que a universalização formal basta é o distrator mais importante de recusar, porque é precisamente a distância entre norma e efetividade que o dado revela. Atribuir a mortalidade a fatores genéticos e ao perfil epidemiológico local desloca o problema para a biologia, quando ele responde a políticas públicas. Explicá-la pela variação de perfil etário confunde indicadores, já que a taxa se calcula sobre nascidos vivos. E dizer que ela é indicador irrelevante contraria seu uso como termômetro clássico de política de saúde."
+    },
+    "direitos-humanos-49": {
+      "alternativas": {
+        "c": "Uniformizar o tratamento entre apenados dos regimes fechado, semiaberto e aberto, conforme o tempo de pena já cumprido",
+        "e": "Restringir as atividades educacionais ao período posterior ao cumprimento de metade da pena imposta"
+      },
+      "explicacao": "O objetivo declarado desses instrumentos de execução penal é favorecer a ressocialização e a reintegração gradual do apenado à sociedade — a progressão de regime, o trabalho e o estudo compõem esse percurso. A uniformização do tratamento entre regimes é o distrator mais fino, porque a execução penal de fato considera o tempo cumprido: ela o faz para diferenciar regimes, e não para igualá-los, já que é na diferença que a progressão consiste. A redução de custos do sistema prisional é efeito colateral possível, não objetivo declarado. Prolongar ao máximo o regime fechado contraria a progressão. E restringir o estudo inverte a remição pela leitura e pelo trabalho, que a lei incentiva."
+    },
+    "direitos-humanos-60": {
+      "alternativas": {
+        "b": "Direito à livre iniciativa econômica e à exploração comercial de espaço público",
+        "c": "Direito de propriedade privada sobre bens imóveis urbanos e seu uso exclusivo",
+        "d": "Direito ao sigilo de correspondência e das comunicações privadas do cidadão"
+      },
+      "explicacao": "As normas técnicas de acessibilidade são condição para a efetivação do direito de ir e vir e da participação social em igualdade de condições: sem rampa, piso tátil ou elevador, a liberdade de locomoção existe no papel e não na rua. As demais alternativas apresentam direitos igualmente previstos e sem relação de dependência com a norma técnica descrita — a livre iniciativa, a propriedade, o sigilo das comunicações e a inviolabilidade do domicílio não se realizam por meio de projeto arquitetônico acessível. A pista está no objeto das normas: elas tratam de circulação e uso do espaço, e é sobre isso que o direito correspondente incide."
+    },
+    "direitos-humanos-76": {
+      "alternativas": {
+        "a": "Direito eleitoral e liberdade sindical, em razão do uso de templos como local de campanha e de organização de trabalhadores",
+        "b": "Direito do consumidor e direito tributário, aplicados à imunidade fiscal que a Constituição reconhece aos templos religiosos",
+        "c": "Direito de propriedade e liberdade de imprensa, em razão da divulgação de imagens do interior de templos sem autorização dos responsáveis pelo culto"
+      },
+      "explicacao": "A violação evidencia a interseção entre intolerância religiosa e racismo, porque a discriminação contra religiões de matriz africana se articula a preconceitos étnico-raciais historicamente dirigidos à população negra. A alternativa que aproxima direito do consumidor e direito tributário é a mais bem construída, porque a imunidade fiscal dos templos existe de fato na Constituição — e é matéria de arrecadação, sem relação com a discriminação em causa. O uso de templos em campanha eleitoral é tema real e distinto. A divulgação de imagens sem autorização convoca propriedade e imprensa, também alheias ao caso. E o direito de vizinhança sobre ruído é justamente o enquadramento que costuma mascarar a intolerância."
+    },
+    "direitos-humanos-100": {
+      "alternativas": {
+        "b": "privilégio comercial regulado por contrato de concessão firmado entre as operadoras e o Estado"
+      },
+      "explicacao": "Parte da doutrina passou a tratar o acesso à internet como direito social emergente, cuja ausência aprofunda desigualdades já existentes em educação, trabalho e acesso a serviços públicos. Descrevê-lo como privilégio comercial sob concessão é o distrator mais plausível, porque a prestação do serviço realmente se dá por concessão regulada — o que está em discussão é outra coisa: a natureza jurídica do acesso para o titular, não o regime de exploração. Chamá-lo de direito de terceira geração consolidado em tratado vinculante antecipa um reconhecimento que ainda não existe nesses termos. Tratá-lo como matéria estranha aos direitos humanos ignora o próprio debate. E supor acesso universalizado contraria os dados de exclusão digital."
+    }
+  }
+}

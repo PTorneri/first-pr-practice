@@ -159,14 +159,14 @@
                          "texto_apoio":  "\"Só um minuto, por favor: eu vou estar verificando o status do seu pedido agora mesmo e já retorno com a resposta.\"",
                          "enunciado":  "A construção \u0027vou estar verificando\u0027 exemplifica um desvio conhecido como gerundismo. Assinale a alternativa que explica corretamente o problema.",
                          "alternativas":  {
-                                              "a":  "A construção está correta, pois o gerúndio pode expressar qualquer relação temporal com o verbo principal, inclusive uma ação futura ainda não iniciada.",
-                                              "b":  "A construção está correta em qualquer registro, formal ou informal, pois \u0027estar + gerúndio\u0027 é sempre sinônimo perfeito de \u0027ir + infinitivo\u0027 na língua portuguesa.",
-                                              "c":  "Há gerundismo, mas o problema está no auxiliar \u0027ir\u0027, que não pode anteceder o verbo \u0027estar\u0027 em nenhuma construção.",
-                                              "d":  "O único problema da frase é a ausência de vírgula antes de \u0027e já retorno\u0027, sem qualquer relação com o uso indevido do gerúndio ou com o gerundismo mencionado no enunciado.",
+                                              "a":  "A construção está correta, pois o gerúndio em locução com \u0027estar\u0027 pode indicar ação prevista para momento posterior ao da fala, uso amplamente registrado na linguagem de atendimento comercial e de teleatendimento",
+                                              "b":  "A construção está correta na fala e inadequada apenas na escrita formal, em que \u0027ir + infinitivo\u0027 é a forma preferida pelos manuais de redação oficial",
+                                              "c":  "Há gerundismo, e o problema está no auxiliar \u0027ir\u0027, que forma uma perífrase de futuro incompatível com a de \u0027estar + gerúndio\u0027 na mesma locução",
+                                              "d":  "O problema da frase é a ausência de vírgula antes de \u0027e já retorno\u0027, que separa orações coordenadas com sujeitos distintos",
                                               "e":  "Há gerundismo: o gerúndio é usado para indicar uma ação futura, quando deveria expressar apenas ação concomitante ou em andamento; o adequado seria \u0027vou verificar\u0027 ou \u0027estou verificando\u0027."
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O gerundismo consiste em usar uma locução como \u0027vou estar + gerúndio\u0027 para expressar uma ação futura, função que não é própria do gerúndio; este deve indicar ação simultânea ou em processo (como em \u0027estou verificando agora\u0027). O mais adequado nesse contexto seria \u0027vou verificar o status\u0027 (ação futura simples) ou \u0027estou verificando\u0027 (ação em curso no momento da fala).",
+                         "explicacao":  "Há gerundismo: o gerúndio é empregado para indicar ação futura, quando deveria expressar ação concomitante ou em andamento, e o adequado seria \u0027vou verificar\u0027 ou \u0027estou verificando\u0027. A alternativa que descreve o uso na linguagem de atendimento é a mais difícil de recusar, porque a descrição é exata — foi por esse canal que a construção se difundiu — e o registro de um uso não o torna adequado à norma. A defesa que a admite na fala e a proíbe na escrita formal é a posição sociolinguística sobre o caso, e a questão pede o problema, não o registro. Localizar o defeito no auxiliar \u0027ir\u0027 acerta o diagnóstico e erra a explicação, porque \u0027vou estar\u0027 é perífrase legítima em outros contextos. E a vírgula antes de \u0027e já retorno\u0027 é questão de pontuação, alheia ao gerúndio.",
                          "formato":  "direta"
                      },
                      {
@@ -1118,12 +1118,12 @@
                          "alternativas":  {
                                               "a":  "marcam uma citação direta da fala do gerente, e o contraste com a segunda oração sugere um efeito irônico em relação à promessa não cumprida.",
                                               "b":  "deveriam ser substituídas por parênteses, já que aspas não têm função de citação em português, servindo apenas para destacar palavras estrangeiras.",
-                                              "c":  "não têm nenhuma função no trecho, podendo ser removidas sem qualquer alteração de sentido ou de efeito irônico pretendido pelo autor.",
-                                              "d":  "indicam apenas um erro ortográfico cometido pelo gerente durante a fala, sem qualquer relação com a citação direta de suas palavras.",
+                                              "c":  "assinalam que a expressão foi tomada de um texto publicitário da empresa, e não da fala do gerente",
+                                              "d":  "indicam que a expressão foi traduzida de outro idioma pelo autor do texto, conforme convenção editorial",
                                               "e":  "assinalam que a expressão foi empregada em sentido irônico pelo autor, e não pelo gerente."
                                           },
                          "resposta":  "a",
-                         "explicacao":  "As aspas reproduzem literalmente a fala do gerente, e o contraste com o fato narrado a seguir (espera de quarenta minutos) gera um efeito irônico, evidenciando a distância entre a promessa e a experiência real do cliente.",
+                         "explicacao":  "As aspas marcam citação direta da fala do gerente, e o contraste com a segunda oração produz efeito irônico em relação à promessa não cumprida. A atribuição da expressão a um texto publicitário é o distrator mais plausível, porque frases como \u0027rápido e sem burocracia\u0027 realmente circulam em peça de propaganda — o trecho, porém, apresenta a expressão como dita pelo gerente, e é dessa autoria que a ironia depende. Dizer que as aspas não têm função de citação em português restringe indevidamente seu uso. A tradução de outro idioma segue outra convenção, o itálico. E atribuir a ironia ao autor, e não ao contraste com o resultado, desloca a fonte do efeito: a expressão é sincera na boca do gerente e irônica no conjunto do período.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },

@@ -1,0 +1,94 @@
+{
+  "_comentario": [
+    "Lote 2 -- ULTIMO de historia-geral. 64, 71, 74, 76, 85, 100. Dezessete distratores.",
+    "",
+    "A 74 tinha um caso que ainda nao havia aparecido: duas alternativas eram a MESMA",
+    "afirmacao, e as duas erradas pelo mesmo motivo.",
+    "",
+    "  (b) 'Uma transicao negociada SEM DESLOCAMENTOS SIGNIFICATIVOS de populacao, com as",
+    "      minorias permanecendo em seus locais de origem'",
+    "  (d) 'Uma transicao pacifica e SEM QUALQUER DESLOCAMENTO POPULACIONAL, cenario",
+    "      desmentido pelos relatos historicos da particao'",
+    "",
+    "Numa questao cuja resposta e justamente o deslocamento em massa, duas das cinco",
+    "opcoes negavam o deslocamento -- e a segunda ainda avisava que estava desmentida",
+    "pelos relatos. Restavam tres alternativas, e uma delas dizia que a India continuou",
+    "colonia.",
+    "",
+    "A (d) passou a ser o TERCEIRO ESTADO SIQUE: a demanda por um pais proprio para a",
+    "populacao sique do Punjab, que existiu, nao foi atendida, e resultou no Punjab",
+    "partido entre India e Paquistao -- exatamente a regiao onde a violencia da particao",
+    "foi pior. Passa a exigir saber o que a particao criou e o que ela nao criou.",
+    "",
+    "OS OUTROS TRES QUE VALEM A QUESTAO:",
+    "",
+    "  64(d) A OTAN. Era 'Resultou na retirada COMPLETA dos Estados Unidos dos assuntos",
+    "        europeus, O OPOSTO do que a doutrina propos'. Passa a ser a alianca militar",
+    "        permanente no Atlantico Norte com clausula de defesa mutua. Isso existe, e",
+    "        de 1949, e e consequencia da mesma virada -- so nao e o que a Doutrina",
+    "        Truman de 1947 formalizou, que foi a contencao. Dois anos de diferenca e uma",
+    "        distincao que a prova cobra.",
+    "  71(a) O PARTIDO COMUNISTA FRANCES. Era 'movimento organizado EXCLUSIVAMENTE pelo",
+    "        governo frances, HIPOTESE CONTRARIA a sua origem popular'. Passa a ser a",
+    "        organizacao pelo PCF em coordenacao com os estudantes. O PCF e a CGT fizeram",
+    "        o contrario: tentaram conter o movimento estudantil e negociaram a saida com",
+    "        o governo. Inverter o papel de um ator real vale mais que inventar um ator.",
+    "  100(a) era 'a escassez de bisoes decorreu de doencas trazidas pelas ferrovias, SEM",
+    "        RELACAO COM A CACA'. Passa a ser epizootias transmitidas pelo gado que as",
+    "        ferrovias levaram ao Oeste. O gado foi mesmo e trouxe doencas; a causa",
+    "        principal foi a caca comercial, que e o que a questao pede.",
+    "",
+    "Em 85 e em 100 a correta era a mais longa ou empatava.",
+    "",
+    "Com este lote historia-geral fecha em zero pela leitura."
+  ],
+  "subtopic": "historia-geral",
+  "questoes": {
+    "historia-geral-64": {
+      "alternativas": {
+        "b": "Expressava a disposição norte-americana de apoiar regimes autoritários aliados, desde que declaradamente anticomunistas",
+        "d": "Resultou na criação de uma aliança militar permanente no Atlântico Norte, com cláusula de defesa mútua entre os signatários",
+        "e": "Encerrou a colaboração militar entre Estados Unidos e União Soviética mantida durante a Segunda Guerra Mundial"
+      },
+      "explicacao": "A Doutrina Truman, de 1947, formalizou a política de contenção do comunismo, que se tornaria o pilar da postura norte-americana na Guerra Fria: ajuda militar e econômica a países sob pressão soviética, começando por Grécia e Turquia. A criação da aliança militar no Atlântico Norte é o distrator mais exigente, porque a OTAN existe, decorre da mesma virada estratégica e traz de fato a cláusula de defesa mútua — só que é de 1949, dois anos depois, e não é o que a doutrina formalizou. O apoio a regimes autoritários anticomunistas descreve consequências posteriores da contenção, não o marco. A coexistência pacífica é formulação soviética dos anos 1950. E dizer que a doutrina encerrou qualquer tensão contraria as quatro décadas seguintes."
+    },
+    "historia-geral-71": {
+      "alternativas": {
+        "a": "Um movimento organizado pelo Partido Comunista Francês, que conduziu a greve geral em coordenação com o movimento estudantil",
+        "c": "Uma mobilização restrita à França, sem repercussão nos movimentos estudantis de outros países no mesmo ano",
+        "d": "Uma crise de origem econômica, provocada pelo fim do crescimento acelerado do pós-guerra e pelo desemprego entre os jovens"
+      },
+      "explicacao": "Maio de 1968 é lido como questionamento amplo das estruturas sociais e políticas tradicionais, unindo pautas estudantis, culturais e trabalhistas — autoridade, sexualidade, universidade e trabalho na mesma revolta. A organização pelo Partido Comunista Francês é o distrator mais forte, porque o partido e a CGT estavam no centro da greve geral: eles atuaram para conter o movimento estudantil, de que desconfiavam, e negociaram a saída com o governo nos acordos de Grenelle. A leitura estritamente econômica ignora a dimensão comportamental, e a França de 1968 ainda vivia o crescimento do pós-guerra. Restringir o episódio ao meio sindical apaga o Quartier Latin. E supor ausência de repercussão internacional contraria os protestos daquele mesmo ano no México, na Itália e nos Estados Unidos."
+    },
+    "historia-geral-74": {
+      "alternativas": {
+        "a": "O fim das tensões entre Índia e Paquistão, seladas por acordo definitivo de fronteiras assinado sob mediação britânica ainda em 1947",
+        "b": "Uma transição negociada com transferência ordenada de população, conduzida por comissões mistas de fronteira nas duas províncias divididas",
+        "c": "A manutenção do subcontinente sob administração britânica até a retirada final das tropas, concluída na década de 1950",
+        "d": "A criação de um terceiro Estado para a população sikh do Punjab, província que a nova fronteira dividiu entre os dois países"
+      },
+      "explicacao": "O efeito mais dramático da Partição de 1947 foi o deslocamento de milhões de hindus, muçulmanos e sikhs entre os dois novos Estados, acompanhado de violência em massa entre comunidades religiosas. A criação de um Estado sikh é o distrator mais bem informado, porque a demanda existiu, a comunidade sikh se viu partida ao meio pela nova fronteira e o Punjab foi onde a violência atingiu o pior grau — e nenhum terceiro Estado foi criado. A comissão de fronteiras existiu, presidida por Radcliffe, e o traçado foi divulgado às pressas, sem transferência ordenada. As tensões com o Paquistão não cessaram, como mostram as guerras pela Caxemira. E a independência ocorreu em 1947, não na década seguinte."
+    },
+    "historia-geral-76": {
+      "alternativas": {
+        "c": "A criação de um banco de desenvolvimento comum aos países participantes, com capital formado por suas reservas em ouro",
+        "d": "A subordinação desses países ao bloco soviético, em troca de apoio militar contra as antigas metrópoles coloniais"
+      },
+      "explicacao": "A Conferência de Bandung, em 1955, lançou as bases do Movimento dos Países Não Alinhados, que buscava autonomia política para nações recém-independentes em um mundo dividido pela Guerra Fria. A criação de um agrupamento de países em desenvolvimento para coordenar posições econômicas na ONU é o distrator mais forte, porque isso realmente aconteceu, no Grupo dos 77, uma década depois e com outra finalidade, a de negociação comercial. Um banco de desenvolvimento comum não figurou entre os resultados. A subordinação ao bloco soviético contraria o próprio não alinhamento. E a formação de um terceiro bloco militar foi expressamente recusada, já que o movimento não constituiu aliança militar."
+    },
+    "historia-geral-85": {
+      "alternativas": {
+        "a": "A criação de uma união estritamente militar entre os países europeus, com comando integrado e orçamento comum de defesa",
+        "c": "A fixação de um número máximo de países-membros, com encerramento das adesões após a entrada dos Estados nórdicos",
+        "d": "A substituição da cooperação econômica por coordenação apenas intergovernamental, com devolução de competências aos Estados"
+      },
+      "explicacao": "O Tratado de Maastricht, de 1992, estabeleceu as bases da moeda única e ampliou a integração política e econômica, criando a União Europeia e os critérios de convergência que levariam ao euro. A criação de uma força armada europeia unificada e independente da OTAN é o distrator mais tentador, porque a política externa e de segurança comum foi de fato um dos pilares do tratado — sem comando único nem exército europeu, que continuam inexistentes. A união estritamente militar com orçamento de defesa comum comete o mesmo excesso. A devolução de competências aos Estados inverte o sentido do tratado. E não há cláusula de encerramento de adesões, como mostram as ampliações posteriores."
+    },
+    "historia-geral-100": {
+      "alternativas": {
+        "a": "a escassez de bisões decorreu de epizootias transmitidas pelo gado que as ferrovias levaram ao Oeste."
+      },
+      "explicacao": "A caça comercial ao bisão atingiu a base material de subsistência dos povos que resistiam ao avanço sobre o Oeste, e essa destruição foi reconhecida na época como instrumento de submissão. A explicação pelas doenças trazidas com o gado é o distrator mais plausível, porque a chegada de rebanhos domésticos pelas ferrovias transmitiu de fato enfermidades à fauna nativa — foi fator secundário diante da matança sistemática por couro e língua. Supor acordo de preservação entre companhias ferroviárias e povos indígenas inverte o papel das ferrovias, que transportaram caçadores e couros. Vincular a distribuição de lotes à manutenção dos rebanhos contraria a lógica da cerca e do arado. E as reservas restringiram o acesso ao bisão, em vez de assegurá-lo."
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_comentario": [
+    "artes-cultura: 02 e 95. Tres distratores. Lote 20 -- e o que finalmente fecha esta",
+    "frente, que eu ja declarei fechada uma vez, cedo demais.",
+    "",
+    "Estas duas reapareceram quando o padrao ganhou 'sem qualquer relacao com' e 'apenas",
+    "porque'. Sao vizinhas de alternativas que eu corrigi nos lotes 1 a 19, nas mesmas",
+    "questoes -- exatamente o erro de metodo que me levou a anunciar artes e filosofia",
+    "prontas antes da hora, e a razao de eu ter passado a ler as cinco alternativas de",
+    "cada questao em vez de seguir a lista de letras do regex.",
+    "",
+    "A 95 tem o caso mais improdutivo: a alternativa (d) dizia que a producao cultural de",
+    "fas 'e um fenomeno restrito EXCLUSIVAMENTE ao publico brasileiro de rock nacional,",
+    "SEM EQUIVALENTE ALGUM em outros contextos'. Numa questao sobre K-pop, ou seja, sobre",
+    "um fenomeno coreano de alcance global. A alternativa era a mais longa da questao --",
+    "210 caracteres -- e a unica coisa que ela segurava era o comprimento da certa.",
+    "",
+    "Troquei pela comparacao com TORCIDA ORGANIZADA: rivalidade entre grupos, ocupacao",
+    "coordenada de espacos, mobilizacao em massa -- tudo isso os fandoms fazem, e a",
+    "comparacao e feita a serio nos estudos culturais. O erro fica sendo a parte final:",
+    "a torcida nao produz fanart, traducao coletiva nem campanha de conteudo, e e",
+    "justamente essa producao propria que define o fandom na resposta certa. A alternativa",
+    "continua sendo a mais longa da questao, e agora por ter conteudo.",
+    "",
+    "Na 02, a (d) era 'o fato de a escultura barroca representar temas religiosos, o que a",
+    "aproxima de QUALQUER producao artistica que tambem mencione religiao, SEM RELACAO com",
+    "sua estrategia de persuasao'. Passa a aproximar o Barroco das imagens devocionais que",
+    "circulam hoje nas redes -- comparacao de tema, e nao de estrategia, que e o que a",
+    "questao pede."
+  ],
+  "subtopic": "artes-cultura",
+  "questoes": {
+    "artes-cultura-02": {
+      "alternativas": {
+        "d": "o fato de a escultura barroca representar temas religiosos, o que a aproxima das manifestações de fé popular que hoje ocupam as redes sociais com imagens devocionais e orações compartilhadas"
+      },
+      "explicacao": "A estratégia barroca de mobilização emocional pela imagem se relaciona ao uso de imagens fortemente dramáticas em campanhas de ativismo digital, que buscam do público o mesmo engajamento afetivo que a arte religiosa buscava dos fiéis — em ambos os casos a comoção é o meio de adesão. A aproximação com as imagens devocionais que circulam hoje nas redes é o distrator mais fino, porque a continuidade de tema é real e verificável: a semelhança que a questão pede é de estratégia retórica, não de assunto religioso. O uso de imagens barrocas em campanhas de turismo explora o apelo visual com finalidade comercial. A produção de imagens sacras em série responde a demanda litúrgica. E o restauro com técnicas originais é questão de conservação."
+    },
+    "artes-cultura-95": {
+      "alternativas": {
+        "b": "existem em função da qualidade musical do produto, que dispensa a mediação de comunidades organizadas de admiradores",
+        "d": "reproduzem no ambiente digital a lógica das torcidas organizadas de futebol, com rivalidade entre grupos e ocupação coordenada de espaços públicos, sem que dessa organização resulte produção cultural própria comparável à das comunidades de fãs"
+      },
+      "explicacao": "Os estudos culturais analisam os fandoms como comunidades que desenvolvem produção cultural própria — fanarts, traduções, campanhas coletivas — e formas de sociabilidade e identidade em torno do consumo compartilhado de um produto globalizado. A comparação com as torcidas organizadas é o distrator mais bem construído, porque a semelhança é real e já foi explorada na bibliografia: rivalidade entre grupos, mobilização em massa e ocupação coordenada de espaços. Ela erra na parte decisiva, porque é a produção própria de conteúdo que caracteriza o fandom aqui. Os fã-clubes das gravadoras dos anos 1960 e 1970 giravam em torno de material oficial, sem criação dos fãs. Explicar o fandom pela qualidade musical apaga a dimensão de sociabilidade. E a redução de custos de divulgação descreve um efeito para a indústria, não a comunidade."
+    }
+  }
+}

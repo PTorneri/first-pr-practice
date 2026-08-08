@@ -1,0 +1,51 @@
+{
+  "_comentario": [
+    "atualidades-tecnologia: 04 e 52. Quatro distratores.",
+    "",
+    "A 04 e a que rende, e o substituto se apoia em algo que mudou depois de o banco ser",
+    "escrito. A alternativa (a) dizia:",
+    "",
+    "  'afetar EXCLUSIVAMENTE empregos de alta qualificacao, IGNORANDO o impacto sobre",
+    "   funcoes operacionais repetitivas'",
+    "",
+    "Dois defeitos numa linha: 'exclusivamente' descarta a alternativa, e a cauda diz o",
+    "que ela ignora -- ou seja, entrega a resposta. Passa a ser:",
+    "",
+    "  'afetar sobretudo empregos de alta qualificacao, hoje alcancados por sistemas",
+    "   capazes de analisar texto e imagem'",
+    "",
+    "Isso deixou de ser absurdo. A automacao classica atingia tarefa rotineira manual; os",
+    "sistemas de linguagem e visao alcancam trabalho de escritorio qualificado, e essa e",
+    "uma discussao seria hoje entre economistas. A alternativa continua errada para a",
+    "visao FREQUENTE que a questao pede -- substituir tarefas rotineiras, criar ocupacoes",
+    "novas e exigir requalificacao --, e agora exige saber por que.",
+    "",
+    "A (b) tambem melhora: era 'eliminar POR COMPLETO a existencia de QUALQUER emprego no",
+    "longo prazo, TESE SEM RESPALDO em estudos economicos' -- absurda e autodenunciada.",
+    "Passa a ser a queda LIQUIDA do emprego, que e a tese pessimista de verdade, com",
+    "defensores.",
+    "",
+    "Na 52, a (a) era 'usados APENAS em aplicativos profissionais, SEM RELACAO com",
+    "entretenimento' numa questao sobre design de captura de atencao. Passa a ser 'usados",
+    "sobretudo em aplicativos corporativos de produtividade e gestao de tarefas' -- que e",
+    "plausivel, porque gamificacao existe em ferramenta de trabalho, e continua nao sendo",
+    "onde a critica se concentra."
+  ],
+  "subtopic": "atualidades-tecnologia",
+  "questoes": {
+    "atualidades-tecnologia-04": {
+      "alternativas": {
+        "a": "afetar sobretudo empregos de alta qualificação, hoje alcançados por sistemas capazes de analisar texto e imagem",
+        "b": "eliminar mais postos de trabalho do que cria, com queda líquida do emprego no longo prazo",
+        "c": "deslocar a demanda por habilidades sem alterar seu nível de exigência, mantendo o mesmo perfil de qualificação"
+      },
+      "explicacao": "A visão predominante entre economistas é que a automação substitui tarefas rotineiras, pode criar ocupações novas e exige requalificação da força de trabalho. A alternativa que a faz atingir sobretudo empregos qualificados é a mais atual e a mais difícil de recusar, porque os sistemas capazes de tratar texto e imagem alcançam de fato trabalho de escritório antes protegido — a caracterização geral do processo continua sendo a substituição de tarefas rotineiras, manuais e cognitivas. A tese da queda líquida do emprego tem defensores e é minoritária. Supor deslocamento de habilidades sem mudança no nível de exigência contraria os dados de reconversão profissional. E eliminar a demanda por qualificação inverte o efeito observado."
+    },
+    "atualidades-tecnologia-52": {
+      "alternativas": {
+        "a": "são usados sobretudo em aplicativos corporativos de produtividade e de gestão de tarefas"
+      },
+      "explicacao": "A crítica feita por profissionais que atuaram no desenvolvimento dessas técnicas é que elas priorizam o tempo de tela em detrimento do bem-estar do usuário, com mecanismos de recompensa variável de efeito análogo ao do jogo de azar. Situá-las em aplicativos corporativos é o distrator mais plausível, porque a gamificação aparece de fato em ferramentas de trabalho — e a crítica se dirige às plataformas de entretenimento e redes sociais, cuja receita depende diretamente da atenção retida. O custo de manutenção da plataforma e o custo de aquisição de usuários são questões de operação, não o objeto da crítica. E dizer que essas técnicas não têm efeito mensurável contraria a razão de existirem."
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "_comentario": [
+    "Lote 2 -- ULTIMO de interpretacao-texto. 66, 69, 87, 119, 141. Sete distratores.",
+    "",
+    "Aqui aparece um distrator-molde que se repete em toda a frente nas questoes de humor,",
+    "e que vale nomear porque ele e o pior tipo de alternativa possivel numa prova de",
+    "leitura: A NEGACAO CATEGORICA DE UM FATO DO PROPRIO TEXTO.",
+    "",
+    "  87(d) 'na afirmacao CATEGORICA de que o narrador JAMAIS faz ABSOLUTAMENTE",
+    "        QUALQUER lista de tarefas em sua vida diaria' -- num texto que comeca com",
+    "        'Minha lista de tarefas de hoje tinha sete itens'",
+    "  141(b) 'na afirmacao CATEGORICA de que a avo NUNCA MAIS utilizou relogio ALGUM em",
+    "        NENHUM comodo da casa da familia TODA' -- num texto sobre a avo reajustando",
+    "        os relogios de cada comodo",
+    "",
+    "Sao alternativas que contradizem a primeira linha do texto de apoio, empilhando",
+    "quatro e cinco palavras categoricas. Ninguem marca, e nas duas questoes isso deixava",
+    "a disputa entre a certa e tres opcoes.",
+    "",
+    "Os substitutos ficam dentro do texto e propoem leituras que alguem faz de verdade:",
+    "  87(d)  a nova lista tendo SUBSTITUIDO as sete tarefas originais -- que e",
+    "         exatamente o que o narrador finge acreditar, e a ironia consiste em ele",
+    "         saber que nao substituiu",
+    "  141(b) a avo ajustando os relogios para poupar energia -- motivo plausivel para o",
+    "         mesmo gesto, e nao o que o texto da ('para o corpo ir se acostumando')",
+    "  119(d) os dois fatos apresentados como simultaneos, sem vinculo causal -- que e",
+    "         uma leitura cautelosa e legitima de dado de prefeitura, e nao a que este",
+    "         texto faz. Era 'NAO ha, segundo o texto, NENHUMA relacao'.",
+    "  119(e) o aumento do uso PRECEDENDO a rede, que 'apenas formalizou trajetos ja",
+    "         consolidados' -- inversao causal que acontece no urbanismo real, no lugar",
+    "         de 'sem QUALQUER relacao entre os dois fatos'",
+    "  69(e)  o segundo paragrafo deslocando o foco para a legislacao em geral: leitura",
+    "         possivel, e o paragrafo continua falando do casarao. Era 'tema",
+    "         COMPLETAMENTE NOVO, SEM RELACAO com o casarao do primeiro'.",
+    "",
+    "Deixei intocada a 69(a), 'o segundo paragrafo CONTRADIZ totalmente a informacao do",
+    "primeiro'. E o melhor distrator da questao e nao e cauda: explicar um paradoxo e",
+    "contradizer uma informacao sao coisas diferentes, e distinguir as duas e a tarefa.",
+    "",
+    "Com este lote interpretacao-texto fecha em zero pela leitura."
+  ],
+  "subtopic": "interpretacao-texto",
+  "questoes": {
+    "interpretacao-texto-66": {
+      "alternativas": {
+        "c": "as ervas da caatinga têm uso sobretudo medicinal nas comunidades do sertão"
+      },
+      "explicacao": "A ideia central é que a culinária sertaneja une sabor e adaptação ao bioma, num saber transmitido entre gerações que persiste apesar da escassez de água. O uso medicinal das ervas é o distrator mais plausível, porque a caatinga tem de fato essa tradição — e o texto trata do tempero de carnes e caldos, isto é, do uso alimentar. Atribuir a prática à gastronomia urbana inverte a direção do saber, que o texto situa na transmissão local. Dizer que a escassez de água impede o preparo contraria o 'resiste mesmo diante da escassez'. E tratar o uso como recente nega a transmissão entre gerações."
+    },
+    "interpretacao-texto-69": {
+      "alternativas": {
+        "e": "O segundo parágrafo desloca o foco para a legislação de tombamento em geral, deixando de lado o caso do casarão."
+      },
+      "explicacao": "O segundo parágrafo explica a causa jurídica do paradoxo enunciado no primeiro: o tombamento impede demolição e descaracterização, sem obrigar a destinação de recursos, e é essa lacuna que produz um bem protegido e deteriorado. A leitura de que o parágrafo abandona o caso para tratar da legislação em geral é o distrator mais fino, porque ele realmente sobe ao plano da norma — e o faz para voltar ao casarão, que a última oração retoma. Dizer que o segundo parágrafo contradiz o primeiro é a confusão central: explicar um paradoxo não é negar a informação que o gerou. E o texto não traz versão do proprietário nem nega o tombamento."
+    },
+    "interpretacao-texto-87": {
+      "alternativas": {
+        "d": "na afirmação de que a nova lista, mais realista, substituiu integralmente as sete tarefas originais que o narrador deixara pendentes."
+      },
+      "explicacao": "O humor está na ironia de considerar produtivo cumprir apenas a tarefa de planejar, sem executar nenhuma das sete originais — o 'tecnicamente, produtivo' e o 'espiritualmente, um fracasso' dão a medida do contraste. A ideia de que a nova lista substituiu as tarefas pendentes é o distrator mais próximo, porque é exatamente o que o narrador finge acreditar: a graça está em ele saber que não substituiu, e é o reconhecimento do autoengano que produz o efeito. A linguagem técnica de aplicativos não aparece no trecho. As sete tarefas não são descritas. E a crítica às técnicas de gestão de tempo existe no texto de forma indireta e com humor, não de forma direta e séria."
+    },
+    "interpretacao-texto-119": {
+      "alternativas": {
+        "d": "O texto apresenta os dois fatos como simultâneos, sem estabelecer entre eles vínculo de causa e efeito.",
+        "e": "O aumento no uso da bicicleta precedeu a criação da rede, que apenas formalizou em ciclovias trajetos já consolidados pelos ciclistas."
+      },
+      "explicacao": "O texto associa a criação da rede de ciclovias conectadas ao aumento de 35% nas viagens diárias de bicicleta e à redução no tempo de deslocamento em trajetos curtos. A inversão em que o uso precede a infraestrutura é o distrator mais forte, porque isso acontece no urbanismo real — rotas espontâneas de ciclistas costumam anteceder a ciclovia oficial —, e não é o que este texto afirma, que parte da implantação e mede o efeito. A leitura cautelosa que vê apenas simultaneidade é defensável diante de contagem de prefeitura, e o texto explicita o vínculo. Dizer que as ciclovias aumentaram o tempo de deslocamento inverte o relato dos moradores. E a demanda consolidada como origem da obra recoloca a mesma inversão."
+    },
+    "interpretacao-texto-141": {
+      "alternativas": {
+        "b": "da afirmação de que a avó ajusta os relógios com dias de antecedência para poupar energia elétrica na casa durante o verão."
+      },
+      "explicacao": "O humor vem do resultado contraditório de uma estratégia que pretendia trazer ordem: ao adiantar os relógios aos poucos, a avó produz uma casa em que cada cômodo marca uma hora diferente e ninguém sabe mais que horas são. Atribuir o gesto à economia de energia é o distrator mais plausível, porque é um motivo verossímil para o mesmo hábito e o próprio horário de verão foi criado com esse fim — só que o texto dá outra razão, a de acostumar o corpo aos poucos, e é dessa intenção que o efeito cômico depende. A comparação com instrumento de precisão não está no trecho. Não há explicação técnica sobre o horário de verão. E a crítica à medida, se existe, vem em tom de brincadeira, não de forma direta e sem humor."
+    }
+  }
+}

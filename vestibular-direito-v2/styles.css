@@ -605,6 +605,12 @@ h4 { font-size: 1.0625rem; }
 /* Navegação de dia: vive no cabeçalho da página, ao lado dos indicadores. */
 .day-nav { display: flex; align-items: center; gap: 8px; }
 .day-nav .btn { font-size: 0.8125rem; padding: 7px 12px; }
+/* "Dia anterior/Próximo dia" só faz sentido na aba Hoje, e é por isso que o
+   atualizarCabecalho() faz nav.hidden = tab !== "hoje". Sem esta regra o
+   `display: flex` acima vencia o [hidden] e os dois botões apareciam no
+   cabeçalho de Obras, de Redação, de todas — navegando um dia que a tela nem
+   estava mostrando. */
+.day-nav[hidden] { display: none !important; }
 .phase-label {
   display: inline-block; background: var(--warn-soft); color: var(--warn);
   border-radius: 5px; padding: 4px 8px; font-size: 0.656rem; font-weight: 700;
@@ -762,6 +768,13 @@ h4 { font-size: 1.0625rem; }
    só o "Verificar resposta" grava e revela o gabarito. Um toque acidental
    (ou um esbarrão no celular) passa a ser reversível. */
 .q-confirm { display: flex; align-items: center; gap: 14px; margin-top: 14px; padding-left: 32px; flex-wrap: wrap; }
+/* O lockQuestion() faz confirmRow.hidden = true depois de verificar, mas o
+   `display: flex` acima é declaração de autor e vence o [hidden] da folha do
+   navegador — então a linha de confirmação continuava na tela DEPOIS de
+   respondida, com o botão "Verificar resposta" e um "Marcada: B. Dá pra trocar
+   até verificar." que já não era verdade, logo abaixo do gabarito revelado.
+   Mesma armadilha que .tab-btn[hidden] resolve mais abaixo. */
+.q-confirm[hidden] { display: none !important; }
 .q-verify {
   background: var(--accent); color: var(--accent-ink); border-color: var(--accent);
   padding: 11px 20px; font-size: 0.875rem;
@@ -913,6 +926,9 @@ h4 { font-size: 1.0625rem; }
    não algo que se consulta a cada tela; e porque o cabeçalho passou a ser
    branco e a ser do ASSUNTO da página. */
 .user-chip { display: flex; align-items: center; gap: 10px; min-width: 0; }
+/* Mesmo motivo do .day-nav: o auth.js esconde o chip com .hidden enquanto não
+   há sessão, e sem isto o pé da lateral mostraria um usuário vazio. */
+.user-chip[hidden] { display: none !important; }
 .user-avatar { width: 30px; height: 30px; border-radius: 50%; display: block; flex: none; background: #2A415C; }
 .user-avatar[hidden] { display: none; }
 /* Sem foto, resta o círculo vazio do desenho no lugar da imagem. */

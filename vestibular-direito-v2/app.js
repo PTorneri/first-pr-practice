@@ -671,6 +671,14 @@
     if (foco) foco.replaceWith(renderFocoCard(day, content));
     sincronizarFrenteEmFoco(day, content);
 
+    // A faixa de métricas também sai do lugar a cada resposta: "acerto na
+    // semana" e "frente mais fraca" mudam com o que acabou de ser respondido.
+    // Sem isto, elas só se corrigiam ao trocar de aba e voltar — e a frente
+    // mais fraca ficava em "—" com doze respostas já gravadas.
+    // Vem depois do updateDayStateFromDom (ver renderQuestion), que é quem
+    // grava o vd_dayState de onde o acerto da semana é somado.
+    atualizarMetricas();
+
     // O contador da lateral conta a mesma coisa que este cartão: se um mudou,
     // o outro mudou junto.
     atualizarBadges();

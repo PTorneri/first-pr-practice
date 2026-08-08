@@ -301,10 +301,25 @@ window.ASSUNTOS = [
              "mitocondria", "ribossomo", "lisossomo", "complexo golgiense", "reticulo endoplasmatico",
              "osmose", "difusao", "transporte ativo", "cloroplasto"] },
 
-  { id: "genetica", frentes: ["biologia", "ciencias-natureza"], nome: "Genética", area: "Ciências da Natureza",
-    termos: ["genetica", "heredograma", "alelo", "genotipo", "fenotipo", "dominante",
-             "recessivo", "mendel", "cruzamento", "heterozigoto", "homozigoto",
-             "linkage", "codominancia", "grupo sanguineo", "daltonismo", "hemofilia"] },
+  // Genética foi partida em três. Era um assunto só, e a lista de conteúdo que
+  // as bancas publicam separa justamente estes: leis de Mendel, heredograma e
+  // genética molecular. Quem digita "heredograma" quer as questões de
+  // genealogia, não as 33 de genética em geral.
+  { id: "leis-de-mendel", frentes: ["biologia", "ciencias-natureza"], nome: "Leis de Mendel", area: "Ciências da Natureza",
+    termos: ["mendel", "primeira lei", "segunda lei", "segregacao", "monohibridismo",
+             "di-hibridismo", "proporcao fenotipica", "proporcao genotipica",
+             "quadro de punnett", "retrocruzamento", "cruzamento-teste", "epistasia",
+             "homozigoto", "heterozigoto"] },
+
+  { id: "heredograma", frentes: ["biologia", "ciencias-natureza"], nome: "Heredograma", area: "Ciências da Natureza",
+    termos: ["heredograma", "genealogia", "arvore genealogica", "probando",
+             "geracao i", "geracao ii", "afetado", "portador", "consanguineo"] },
+
+  { id: "genetica", frentes: ["biologia", "ciencias-natureza"], nome: "Genética: herança e alelos", area: "Ciências da Natureza",
+    termos: ["genetica", "alelo", "genotipo", "fenotipo", "dominante", "recessivo",
+             "codominancia", "dominancia incompleta", "alelos multiplos",
+             "grupo sanguineo", "sistema abo", "fator rh", "daltonismo", "hemofilia",
+             "ligada ao sexo", "linkage", "permutacao genica"] },
 
   { id: "dna-sintese-proteica", frentes: ["biologia", "ciencias-natureza"], nome: "DNA e síntese proteica", area: "Ciências da Natureza",
     termos: ["dna", "rna", "acido nucleico", "transcricao", "traducao", "codon",
@@ -362,18 +377,35 @@ window.ASSUNTOS = [
     termos: ["termoquimica", "entalpia", "exotermica", "endotermica", "calor de reacao",
              "lei de hess", "energia de ligacao", "combustao"] },
 
-  { id: "cinetica-equilibrio", frentes: ["quimica", "ciencias-natureza"], nome: "Cinética e equilíbrio químico", area: "Ciências da Natureza",
+  // Cinética e equilíbrio eram um assunto só. Foram separados porque são dois
+  // capítulos distintos no cronograma de qualquer aluno — e porque a busca
+  // precisa responder a "equilíbrio químico" sem trazer catalisador junto.
+  { id: "equilibrio-quimico", frentes: ["quimica", "ciencias-natureza"], nome: "Equilíbrio químico", area: "Ciências da Natureza",
+    termos: ["equilibrio quimico", "le chatelier", "constante de equilibrio",
+             "deslocamento do equilibrio", "kc", "kp", "grau de equilibrio",
+             "equilibrio dinamico", "quociente de reacao"] },
+
+  { id: "cinetica-quimica", frentes: ["quimica", "ciencias-natureza"], nome: "Cinética química", area: "Ciências da Natureza",
     termos: ["cinetica", "velocidade da reacao", "catalisador", "energia de ativacao",
-             "equilibrio quimico", "le chatelier", "constante de equilibrio", "deslocamento do equilibrio"] },
+             "ordem de reacao", "complexo ativado", "colisao efetiva"] },
 
   { id: "quimica-organica", frentes: ["quimica", "ciencias-natureza"], nome: "Química orgânica", area: "Ciências da Natureza",
     termos: ["quimica organica", "hidrocarboneto", "alcano", "alceno", "alcool", "aldeido",
              "cetona", "acido carboxilico", "ester", "amina", "funcao organica", "isomeria",
              "cadeia carbonica", "polimero", "nomenclatura"] },
 
+  // Oxirredução saiu de dentro de Eletroquímica e virou assunto próprio: ela é
+  // pré-requisito da pilha, mas também é cobrada sozinha (balancear por nox,
+  // identificar agente oxidante) em questão que não fala de eletroquímica.
+  { id: "oxirreducao", frentes: ["quimica", "ciencias-natureza"], nome: "Oxirredução", area: "Ciências da Natureza",
+    termos: ["oxirreducao", "oxidacao", "reducao", "nox", "numero de oxidacao",
+             "agente oxidante", "agente redutor", "balanceamento por oxirreducao",
+             "semirreacao"] },
+
   { id: "eletroquimica", frentes: ["quimica", "ciencias-natureza"], nome: "Eletroquímica", area: "Ciências da Natureza",
-    termos: ["eletroquimica", "pilha", "eletrolise", "oxidacao", "reducao", "oxirreducao",
-             "anodo", "catodo", "potencial padrao", "corrosao", "nox"] },
+    termos: ["eletroquimica", "pilha", "eletrolise", "anodo", "catodo",
+             "potencial padrao", "ddp", "corrosao", "galvanica", "faraday",
+             "eletrodo", "ponte salina"] },
 
   // ---------------------------------------------------------------------
   // FÍSICA
@@ -865,4 +897,100 @@ window.ASSUNTOS = [
     termos: ["parcela", "prestacao", "financiamento", "emprestimo", "mensal",
              "tarifa", "plano de assinatura", "custo fixo", "custo variavel",
              "lucro", "prejuizo", "margem"] },
+
+  // =====================================================================
+  // TERCEIRA LEVA — os temas do currículo que não tinham assunto nenhum
+  //
+  // As duas primeiras levas foram escritas a partir do que ESTAVA no banco:
+  // eu media o que as questões diziam e criava o assunto em cima. Isso tem um
+  // ponto cego — um tema que o banco não cobre não aparece na medição, e por
+  // isso nunca ganha assunto. Botânica, zoologia, gravitação, hidrostática,
+  // determinantes e sistemas lineares caíram exatamente nesse buraco.
+  //
+  // Estes vêm do caminho inverso: da LISTA DE CONTEÚDO do vestibular, não do
+  // banco. Vários nascem com pouca questão, e é de propósito — eles são o
+  // alvo do lote de questões novas que entra junto. Um assunto declarado é o
+  // que torna a lacuna visível; sem ele, "não tem questão de determinante"
+  // é invisível tanto para o aluno quanto para quem mantém o banco.
+  // =====================================================================
+
+  // ---------- Biologia ----------
+  { id: "botanica", frentes: ["biologia", "ciencias-natureza"], nome: "Botânica", area: "Ciências da Natureza",
+    termos: ["botanica", "xilema", "floema", "estomato", "angiosperma", "gimnosperma",
+             "briofita", "pteridofita", "polinizacao", "germinacao", "auxina",
+             "fitormonio", "tropismo", "transpiracao vegetal", "seiva"] },
+
+  { id: "zoologia", frentes: ["biologia", "ciencias-natureza"], nome: "Zoologia", area: "Ciências da Natureza",
+    termos: ["zoologia", "artropode", "molusco", "anelideo", "cordado", "vertebrado",
+             "invertebrado", "anfibio", "reptil", "cnidario", "platelminto",
+             "nematoda", "equinodermo", "metamorfose", "exoesqueleto"] },
+
+  { id: "biotecnologia", frentes: ["biologia", "ciencias-natureza"], nome: "Biotecnologia", area: "Ciências da Natureza",
+    termos: ["biotecnologia", "transgenico", "dna recombinante", "clonagem", "crispr",
+             "engenharia genetica", "organismo geneticamente modificado", "pcr",
+             "plasmideo", "enzima de restricao", "terapia genica", "celula-tronco",
+             "sequenciamento"] },
+
+  { id: "bioquimica", frentes: ["biologia", "ciencias-natureza", "quimica"], nome: "Bioquímica", area: "Ciências da Natureza",
+    termos: ["bioquimica", "proteina", "aminoacido", "enzima", "substrato",
+             "desnaturacao", "sitio ativo", "lipidio", "carboidrato", "glicose",
+             "peptidica", "metabolismo", "vitamina"] },
+
+  // ---------- Química ----------
+  { id: "funcoes-inorganicas", frentes: ["quimica", "ciencias-natureza"], nome: "Funções inorgânicas", area: "Ciências da Natureza",
+    termos: ["funcao inorganica", "oxido", "hidreto", "hidroxido", "nomenclatura inorganica",
+             "sal inorganico", "anidrido", "peroxido", "acido oxigenado"] },
+
+  // ---------- Física ----------
+  { id: "gravitacao", frentes: ["fisica", "ciencias-natureza"], nome: "Gravitação", area: "Ciências da Natureza",
+    termos: ["gravitacao", "lei da gravitacao", "kepler", "orbita", "satelite",
+             "campo gravitacional", "velocidade orbital", "periodo orbital",
+             "afelio", "perielio", "constante gravitacional"] },
+
+  { id: "hidrostatica", frentes: ["fisica", "ciencias-natureza"], nome: "Hidrostática", area: "Ciências da Natureza",
+    termos: ["hidrostatica", "empuxo", "arquimedes", "pressao hidrostatica",
+             "principio de pascal", "vasos comunicantes", "prensa hidraulica",
+             "flutuacao", "pressao atmosferica", "densidade do fluido"] },
+
+  { id: "gases", frentes: ["fisica", "ciencias-natureza", "quimica"], nome: "Estudo dos gases", area: "Ciências da Natureza",
+    termos: ["gas ideal", "gas perfeito", "clapeyron", "isotermica", "isobarica",
+             "isovolumetrica", "isocorica", "transformacao gasosa", "lei geral dos gases",
+             "boyle", "charles", "teoria cinetica dos gases", "volume molar"] },
+
+  { id: "eletrostatica", frentes: ["fisica", "ciencias-natureza"], nome: "Eletrostática", area: "Ciências da Natureza",
+    termos: ["eletrostatica", "carga eletrica", "lei de coulomb", "campo eletrico",
+             "potencial eletrico", "eletrizacao", "atrito", "inducao eletrostatica",
+             "linhas de campo", "blindagem", "capacitor", "diferenca de potencial"] },
+
+  // ---------- Matemática ----------
+  { id: "matrizes", frentes: ["matematica-rlm", "matematica"], nome: "Matrizes", area: "Matemática",
+    termos: ["matriz", "matriz identidade", "matriz transposta", "matriz inversa",
+             "produto de matrizes", "ordem da matriz", "lei de formacao",
+             "matriz quadrada", "matriz nula", "elemento aij"] },
+
+  { id: "determinantes", frentes: ["matematica-rlm", "matematica"], nome: "Determinantes", area: "Matemática",
+    termos: ["determinante", "regra de sarrus", "laplace", "cofator",
+             "menor complementar", "propriedades do determinante", "matriz singular"] },
+
+  { id: "sistemas-lineares", frentes: ["matematica-rlm", "matematica"], nome: "Sistemas lineares", area: "Matemática",
+    termos: ["sistema linear", "escalonamento", "sistema possivel", "sistema impossivel",
+             "determinado", "indeterminado", "regra de cramer", "matriz dos coeficientes",
+             "discussao do sistema"] },
+
+  { id: "geometria-analitica", frentes: ["matematica-rlm", "matematica"], nome: "Geometria analítica", area: "Matemática",
+    termos: ["geometria analitica", "plano cartesiano", "distancia entre pontos",
+             "ponto medio", "equacao da reta", "coeficiente angular", "retas paralelas",
+             "retas perpendiculares", "equacao da circunferencia", "baricentro",
+             "alinhamento de pontos", "distancia de ponto a reta"] },
+
+  // ---------- Português ----------
+  { id: "sintaxe", frentes: ["gramatica"], nome: "Sintaxe do período", area: "Linguagens",
+    termos: ["sintaxe", "sujeito", "predicado", "predicativo", "adjunto adnominal",
+             "adjunto adverbial", "complemento nominal", "agente da passiva",
+             "termo essencial", "analise sintatica", "periodo simples", "periodo composto"] },
+
+  { id: "semantica", frentes: ["gramatica", "interpretacao-texto"], nome: "Semântica", area: "Linguagens",
+    termos: ["semantica", "sinonimo", "antonimo", "polissemia", "ambiguidade",
+             "conotacao", "denotacao", "sentido figurado", "sentido literal",
+             "homonimo", "paronimo", "campo semantico"] },
 ];

@@ -19,9 +19,9 @@
 //        URIs. Esse é sobre PARA ONDE o Google devolve, e é o authDomain de
 //        firebase-init.js. Sem ele, o Google recusa com redirect_uri_mismatch.
 
-import { auth } from "./firebase-init.js?v=20";
-import "./sync.js?v=20"; // define window.VD_SYNC
-import "./feedback.js?v=20"; // define window.VD_FEEDBACK
+import { auth } from "./firebase-init.js?v=23";
+import "./sync.js?v=23"; // define window.VD_SYNC
+import "./feedback.js?v=23"; // define window.VD_FEEDBACK
 import {
   GoogleAuthProvider,
   signInWithPopup,
@@ -35,6 +35,7 @@ import {
 
 const provider = new GoogleAuthProvider();
 
+const viewLanding = document.getElementById("view-landing");
 const viewLogin = document.getElementById("view-login");
 const viewOnboarding = document.getElementById("view-onboarding");
 const viewMain = document.getElementById("view-main");
@@ -45,7 +46,10 @@ const btnLogout = document.getElementById("btn-logout");
 const errorBox = document.getElementById("login-error");
 const userChip = document.getElementById("user-chip");
 const userAvatar = document.getElementById("user-avatar");
+const userAvatarFallback = document.getElementById("user-avatar-fallback");
 const userName = document.getElementById("user-name");
+const userTrilha = document.getElementById("user-trilha");
+const btnVoltarLanding = document.getElementById("btn-voltar-landing");
 
 // Guarda quem está logado pra que o resto do app (sync, correção por IA,
 // ofensiva) possa perguntar sem precisar reimportar o Firebase.
@@ -130,11 +134,15 @@ async function showLoggedIn(user) {
   window.VD_AUTH.user = user;
 
   userName.textContent = user.displayName || user.email || "Minha conta";
+  // O círculo cinza do desenho é o que aparece quando não há foto — não um
+  // vazio. Os dois nós existem sempre; só um fica visível.
   if (user.photoURL) {
     userAvatar.src = user.photoURL;
     userAvatar.hidden = false;
+    userAvatarFallback.hidden = true;
   } else {
     userAvatar.hidden = true;
+    userAvatarFallback.hidden = false;
   }
   userChip.hidden = false;
 
@@ -183,10 +191,16 @@ async function abrirTrilha(trilha) {
     return;
   }
 
+  if (viewLanding) viewLanding.hidden = true;
   viewLogin.hidden = true;
   viewSyncError.hidden = true;
   viewEscolhaTrilha.hidden = true;
   viewOnboarding.hidden = false;
+
+  // O pé da barra lateral diz "Marina Alves / Direito · FGV": o curso e a
+  // banca vêm da trilha aberta, não da conta.
+  const cfg = window.VD_TRILHA.config();
+  if (userTrilha && cfg) userTrilha.textContent = cfg.subtitulo || cfg.nome || "";
 
   window.VD_BOOT();
 }
@@ -246,6 +260,7 @@ async function escolherTrilha(id, container) {
 // Tela de bloqueio: não conseguimos ler o progresso da conta. Só oferece tentar
 // de novo ou sair — nada que crie estado novo por cima do que está na nuvem.
 function mostrarFalhaDeSync() {
+  if (viewLanding) viewLanding.hidden = true;
   viewLogin.hidden = true;
   viewOnboarding.hidden = true;
   viewMain.hidden = true;
@@ -254,15 +269,55 @@ function mostrarFalhaDeSync() {
   userChip.hidden = true;
 }
 
+// Deslogado agora cai na landing, não no cartão de login. O login continua
+// existindo como tela própria — só deixou de ser a porta de entrada de quem
+// nunca ouviu falar do app.
 function showLoggedOut() {
   window.VD_AUTH.user = null;
-  viewLogin.hidden = false;
+  if (viewLanding) viewLanding.hidden = false;
+  viewLogin.hidden = true;
   viewOnboarding.hidden = true;
   viewMain.hidden = true;
   viewSyncError.hidden = true;
   viewEscolhaTrilha.hidden = true;
   userChip.hidden = true;
   setLoading(false);
+}
+
+// Landing → login. O "voltar" só existe neste caminho: quem já estava no login
+// (por ter recarregado a página no meio do fluxo) não tem para onde voltar.
+function mostrarLogin() {
+  if (viewLanding) viewLanding.hidden = true;
+  viewLogin.hidden = false;
+  if (btnVoltarLanding) btnVoltarLanding.hidden = false;
+  clearError();
+  window.scrollTo(0, 0);
+}
+
+document.querySelectorAll("[data-ir-para-login]").forEach((el) => {
+  el.addEventListener("click", mostrarLogin);
+});
+
+// A fita de 30 dias da janela ilustrativa da landing: onze dias feitos, o de
+// hoje em ouro, o resto por vir. É decoração — por isso é aria-hidden no HTML
+// e é montada aqui, e não escrita à mão como trinta elementos.
+const fita = document.getElementById("landing-fita");
+if (fita) {
+  for (let i = 0; i < 30; i++) {
+    const barra = document.createElement("i");
+    if (i < 11) barra.className = "feito";
+    else if (i === 11) barra.className = "hoje";
+    fita.appendChild(barra);
+  }
+}
+
+if (btnVoltarLanding) {
+  btnVoltarLanding.addEventListener("click", () => {
+    viewLogin.hidden = true;
+    if (viewLanding) viewLanding.hidden = false;
+    btnVoltarLanding.hidden = true;
+    window.scrollTo(0, 0);
+  });
 }
 
 btnLogin.addEventListener("click", login);

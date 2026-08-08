@@ -331,10 +331,104 @@ window.ASSUNTOS = [
              "populacao", "comunidade", "bioma", "ciclo do carbono", "ciclo do nitrogenio",
              "eutrofizacao", "predatismo", "competicao", "simbiose"] },
 
-  { id: "fisiologia-humana", frentes: ["biologia", "ciencias-natureza"], nome: "Fisiologia humana", area: "Ciências da Natureza",
-    termos: ["sistema digestorio", "sistema circulatorio", "sistema respiratorio",
-             "sistema nervoso", "sistema excretor", "hormonio", "insulina", "neuronio",
-             "hemoglobina", "rim", "nefron", "homeostase", "pressao arterial"] },
+  // Fisiologia humana foi partida em seis, um assunto por sistema. Era um
+  // assunto só com treze termos, e o aluno que digitava "sistema nervoso"
+  // recebia junto as questões de rim, de insulina e de hemoglobina — a lista
+  // de conteúdo de qualquer banca separa os sistemas, e o caderno da escola
+  // também. Quem quer revisar excretor não quer as 36 de fisiologia inteira.
+  //
+  // "fisiologia humana" e "fisiologia" ficam como termo nos SEIS: é o que faz o
+  // autocomplete devolver os seis chips para quem digita o nome guarda-chuva,
+  // que é a porta de entrada do currículo. Nenhuma questão do banco contém a
+  // palavra "fisiologia", então o termo não altera o alcance de nenhum deles —
+  // ele existe para a sugestão, e é o mesmo recurso da F1 do plano de busca.
+  //
+  // Gênero NÃO é resolvido pelo motor: buscaRadical corta -s/-es e nada mais,
+  // então "respiratorio" e "respiratoria" são tokens diferentes e as duas
+  // formas precisam estar listadas. Só o plural pode ser omitido.
+  { id: "sistema-digestorio", frentes: ["biologia", "ciencias-natureza"], nome: "Sistema digestório", area: "Ciências da Natureza",
+    termos: ["fisiologia humana", "fisiologia", "sistema digestorio", "digestorio", "digestoria",
+             "digestao", "aparelho digestivo", "digestivo", "digestiva", "tubo digestivo",
+             "estomago", "gastrico", "gastrica", "suco gastrico", "acido cloridrico",
+             "intestino", "intestino delgado", "intestino grosso", "intestinal",
+             "duodeno", "jejuno", "ileo", "colon", "esofago", "peristaltismo", "peristaltica",
+             // "quilo" sozinho fica de fora: em `ciencias-natureza` ele casa o
+             // quilograma, e o conceito já entra por "quilomicron".
+             "bolo alimentar", "quimo", "figado", "hepatico", "hepatica",
+             "bile", "biliar", "vesicula biliar", "sal biliar", "pancreas", "suco pancreatico",
+             "enzima digestiva", "amilase", "ptialina", "pepsina", "pepsinogenio", "tripsina",
+             "lipase", "sacarase", "lactase", "vilosidade", "microvilosidade",
+             "absorcao intestinal", "microbiota", "microbiota intestinal", "saliva", "salivar",
+             "esfincter", "quilomicron"] },
+
+  { id: "sistema-respiratorio", frentes: ["biologia", "ciencias-natureza"], nome: "Sistema respiratório", area: "Ciências da Natureza",
+    termos: ["fisiologia humana", "fisiologia", "sistema respiratorio", "respiratorio", "respiratoria",
+             "aparelho respiratorio", "via aerea", "pulmao", "pulmonar", "alveolo", "alveolar",
+             "bronquio", "bronquiolo", "traqueia", "laringe", "faringe", "epiglote",
+             "diafragma", "musculo intercostal", "caixa toracica", "pleura",
+             "hematose", "trocas gasosas", "troca gasosa", "ventilacao pulmonar",
+             "inspiracao", "expiracao", "ar inspirado", "ar expirado", "volume corrente",
+             "capacidade pulmonar", "espirometria", "surfactante", "centro respiratorio",
+             "pressao parcial", "saturacao de oxigenio", "quimiorreceptor",
+             "asma", "enfisema", "pneumonia", "tabagismo", "hipoxia"] },
+
+  { id: "sistema-circulatorio", frentes: ["biologia", "ciencias-natureza"], nome: "Sistema circulatório", area: "Ciências da Natureza",
+    termos: ["fisiologia humana", "fisiologia", "sistema circulatorio", "circulatorio", "circulatoria",
+             "sistema cardiovascular", "cardiovascular", "coracao", "cardiaco", "cardiaca",
+             "arteria", "arterial", "veia", "venoso", "venosa", "capilar", "vaso sanguineo",
+             "atrio", "ventriculo", "valva", "valvula cardiaca", "sistole", "diastole",
+             "sistolica", "diastolica", "no sinoatrial", "eletrocardiograma", "debito cardiaco",
+             "pressao arterial", "hipertensao", "aterosclerose", "infarto", "trombose",
+             "circulacao pulmonar", "circulacao sistemica", "pequena circulacao", "grande circulacao",
+             "sangue", "sanguineo", "sanguinea", "hemacia", "eritrocito", "leucocito", "plaqueta",
+             "plasma sanguineo", "hemoglobina", "hematocrito", "coagulacao", "fibrina",
+             "anemia", "linfa", "linfatico", "vaso linfatico", "batimento"] },
+
+  { id: "sistema-excretor", frentes: ["biologia", "ciencias-natureza"], nome: "Sistema excretor", area: "Ciências da Natureza",
+    termos: ["fisiologia humana", "fisiologia", "sistema excretor", "excretor", "excretora",
+             "sistema urinario", "urinario", "urinaria", "excrecao", "rim", "renal",
+             "nefron", "glomerulo", "glomerular", "capsula de bowman", "filtracao glomerular",
+             "tubulo", "tubulo contorcido", "alca de henle", "tubulo coletor", "ducto coletor",
+             // "reabsorcao" e "amonia" ficaram de fora, medidos: o primeiro casa a
+             // reabsorção de matriz óssea, o segundo o ciclo do nitrogênio. As
+             // formas específicas abaixo pegam o mesmo conteúdo renal sem o ruído.
+             "reabsorcao tubular", "reabsorcao renal", "secrecao tubular",
+             "amoniotelico", "ureotelico", "uricotelico",
+             "urina", "ureter", "bexiga", "uretra",
+             "ureia", "acido urico", "creatinina", "clearance",
+             "osmorregulacao", "balanco hidrico", "equilibrio hidrico",
+             "hormonio antidiuretico", "vasopressina", "aldosterona", "sistema renina",
+             "renina", "dialise", "hemodialise", "calculo renal", "insuficiencia renal",
+             "diurese", "diuretico", "homeostase"] },
+
+  { id: "sistema-nervoso", frentes: ["biologia", "ciencias-natureza"], nome: "Sistema nervoso", area: "Ciências da Natureza",
+    termos: ["fisiologia humana", "fisiologia", "sistema nervoso", "nervoso", "nervosa",
+             "neuronio", "neuronal", "axonio", "dendrito", "corpo celular", "sinapse", "sinaptica",
+             "fenda sinaptica", "neurotransmissor", "acetilcolina", "dopamina", "serotonina",
+             "gaba", "noradrenalina", "impulso nervoso", "potencial de acao", "potencial de repouso",
+             "despolarizacao", "repolarizacao", "bomba de sodio", "bainha de mielina", "mielina",
+             "celula de schwann", "nodo de ranvier", "conducao saltatoria",
+             "nervo", "ganglio", "medula espinhal", "encefalo", "cerebro", "cerebral",
+             "cerebelo", "bulbo", "hipotalamo", "tronco encefalico", "cortex cerebral",
+             "materia cinzenta", "materia branca", "meninge",
+             "ato reflexo", "arco reflexo", "reflexo medular",
+             "sistema nervoso central", "sistema nervoso periferico", "sistema nervoso autonomo",
+             "simpatico", "parassimpatico", "receptor sensorial", "orgao dos sentidos",
+             "retina", "coclea", "sinaptico", "psicoativo", "anestesico"] },
+
+  { id: "sistema-endocrino", frentes: ["biologia", "ciencias-natureza"], nome: "Sistema endócrino", area: "Ciências da Natureza",
+    termos: ["fisiologia humana", "fisiologia", "sistema endocrino", "endocrino", "endocrina",
+             "hormonio", "hormonal", "glandula", "glandula endocrina", "hipofise", "hipofisario",
+             "hipotalamo", "tireoide", "paratireoide", "adrenal", "suprarrenal", "pineal",
+             "ilhotas de langerhans", "pancreas endocrino",
+             "insulina", "glucagon", "adrenalina", "noradrenalina", "cortisol", "tiroxina",
+             "calcitonina", "paratormonio", "somatotrofina", "hormonio do crescimento",
+             "melatonina", "prolactina", "ocitocina", "testosterona", "estrogeno", "progesterona",
+             "fsh", "lh", "tsh", "acth",
+             "feedback negativo", "retroalimentacao negativa", "retroalimentacao",
+             "glicemia", "glicemico", "hiperglicemia", "hipoglicemia", "diabetes",
+             "hipertireoidismo", "hipotireoidismo", "bocio", "homeostase",
+             "receptor hormonal", "orgao alvo", "celula alvo"] },
 
   { id: "evolucao", frentes: ["biologia", "ciencias-natureza"], nome: "Evolução", area: "Ciências da Natureza",
     termos: ["evolucao", "selecao natural", "darwin", "lamarck", "especiacao",

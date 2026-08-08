@@ -38,51 +38,267 @@
      admin.html) — sem isso a correção leva até 10 minutos pra chegar em quem
      já visitou, e foi exatamente o que aconteceu na primeira publicação da
      reescrita das alternativas. -->
-<link rel="stylesheet" href="styles.css?v=20">
+<link rel="stylesheet" href="styles.css?v=23">
 </head>
 <body>
 <div id="app">
 
-  <!-- LOGIN (v2): porta de entrada. Enquanto não há usuário logado, nada mais aparece. -->
-  <section id="view-login" class="view">
-    <div class="card onboarding-card login-card">
-      <div class="onboarding-logo-wrap">
-        <img class="onboarding-logo" src="assets/logo.png" alt="sagax">
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       01 · LANDING (deslogado)
+
+       Primeira tela de quem chega sem conta. Existe porque o app pedia a conta
+       Google antes de dizer o que faz: a pessoa via um cartão de login e nada
+       mais. Aqui ela lê o que recebe todo dia, em que ordem e para quais
+       bancas — e só então encontra o botão de entrar.
+
+       Fica ANTES do #view-login e não na raiz do domínio porque a raiz
+       redireciona para cá (ver ../index.html): o app é o dono do endereço.
+       ═══════════════════════════════════════════════════════════════════ -->
+  <section id="view-landing" class="view" hidden>
+
+    <div class="landing-navy">
+      <nav class="landing-nav">
+        <span class="landing-brand">
+          <img class="sidebar-symbol" src="assets/sagax-symbol.png" alt="">
+          <img class="sidebar-wordmark" src="assets/sagax-wordmark-only.png" alt="sagax">
+        </span>
+        <div class="landing-nav-links">
+          <a href="#como-funciona">Como funciona</a>
+          <a href="#trilhas">Trilhas</a>
+          <a href="#bancas">Vestibulares</a>
+          <button type="button" class="btn-entrar" data-ir-para-login>Entrar</button>
+        </div>
+      </nav>
+
+      <div class="landing-hero">
+        <div class="landing-hero-copy">
+          <div class="landing-eyebrow">90 dias · Direito e Medicina · 9 bancas</div>
+          <h1>Todo dia o app diz exatamente o que você estuda hoje.</h1>
+          <p>Plano de estudos de 90 dias baseado no formato real das provas: Português, Inglês,
+          Matemática/Raciocínio Lógico e Ciências Humanas. Teoria antes, questões comentadas depois,
+          e um simulado por domingo que reprograma a semana seguinte a partir dos seus erros.</p>
+          <div class="landing-cta-row">
+            <button type="button" class="btn btn-ouro" data-ir-para-login>Começar meu plano hoje</button>
+            <a href="#como-funciona" class="btn btn-sobre-navy" style="text-decoration:none">Ver como funciona</a>
+          </div>
+          <div class="landing-stats">
+            <div class="landing-stat">
+              <span class="landing-stat-n">1.800</span>
+              <span class="landing-stat-label">questões comentadas</span>
+            </div>
+            <div class="landing-stat">
+              <span class="landing-stat-n">16</span>
+              <span class="landing-stat-label">frentes de estudo</span>
+            </div>
+            <div class="landing-stat">
+              <span class="landing-stat-n">90</span>
+              <span class="landing-stat-label">dias de plano</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- A "janela" com a tela de Hoje dentro. É a única promessa visual da
+             página: mostra o bloco de foco, as três métricas e a fita dos 90
+             dias exatamente como aparecem depois do login. -->
+        <div class="landing-mock">
+          <div class="landing-mock-chrome">
+            <span class="landing-mock-dot"></span><span class="landing-mock-dot"></span><span class="landing-mock-dot"></span>
+            <span class="landing-mock-url">sagaxedu.com.br/hoje</span>
+          </div>
+          <div class="landing-mock-body">
+            <div class="landing-mock-head">
+              <span class="landing-mock-dia">Dia 12 de 90</span>
+              <span class="landing-mock-data">sexta, 20 de março</span>
+            </div>
+            <div class="landing-mock-foco">
+              <div class="eyebrow eyebrow-ouro">Comece por aqui</div>
+              <div class="landing-mock-foco-titulo">Interpretação de texto · 12 questões</div>
+              <div class="landing-mock-foco-meta">~24 min no ritmo da prova · 2ª revisão deste tema</div>
+            </div>
+            <div class="landing-mock-stats">
+              <div class="landing-mock-stat">
+                <div class="landing-mock-stat-label">Ofensiva</div>
+                <div class="landing-mock-stat-v">7 dias</div>
+              </div>
+              <div class="landing-mock-stat">
+                <div class="landing-mock-stat-label">Acerto</div>
+                <div class="landing-mock-stat-v">72%</div>
+              </div>
+              <div class="landing-mock-stat">
+                <div class="landing-mock-stat-label">Prova em</div>
+                <div class="landing-mock-stat-v">63 d</div>
+              </div>
+            </div>
+            <!-- Trinta dias: onze feitos, o de hoje em ouro, o resto por vir. -->
+            <div class="landing-mock-fita" id="landing-fita" aria-hidden="true"></div>
+          </div>
+        </div>
       </div>
-      <!-- Sem o curso: nesta tela ainda não se sabe qual trilha é. Quem já
-           escolheu vê "sagax — Direito"/"— Medicina", posto por app.js. -->
-      <h1>saga<span class="brand-x">x</span></h1>
-      <!-- Slogan da marca. Escrito em caixa normal de propósito: quem põe em
-           caixa alta é o CSS, então o texto copiado e o lido por leitor de tela
-           saem legíveis. -->
-      <p class="brand-tagline">Estude. <span class="tagline-gold">Evolua.</span> Conquiste.</p>
-      <p class="subtitle">Entre com sua conta Google para salvar seu progresso na nuvem e continuar
-      de onde parou em qualquer aparelho — computador, celular ou tablet.</p>
-      <ul class="pitch-list">
-        <li>Seu progresso fica <strong>salvo na sua conta</strong>, não só neste navegador</li>
-        <li>Estude no computador e revise no celular, <strong>sempre sincronizado</strong></li>
-        <li><strong>Correção por IA</strong> das questões dissertativas, com feedback por critério</li>
-        <li><strong>Ofensiva</strong> diária pra manter o ritmo dos 90 dias</li>
-      </ul>
-      <button id="btn-login-google" class="btn btn-primary btn-google">
-        <svg class="google-icon" viewBox="0 0 18 18" aria-hidden="true">
-          <path fill="#4285F4" d="M17.64 9.2c0-.64-.06-1.25-.16-1.84H9v3.48h4.84a4.14 4.14 0 0 1-1.8 2.72v2.26h2.92c1.7-1.57 2.68-3.88 2.68-6.62z"/>
-          <path fill="#34A853" d="M9 18c2.43 0 4.47-.8 5.96-2.18l-2.92-2.26c-.81.54-1.84.86-3.04.86-2.34 0-4.32-1.58-5.03-3.7H.96v2.33A9 9 0 0 0 9 18z"/>
-          <path fill="#FBBC05" d="M3.97 10.72a5.4 5.4 0 0 1 0-3.44V4.95H.96a9 9 0 0 0 0 8.1l3.01-2.33z"/>
-          <path fill="#EA4335" d="M9 3.58c1.32 0 2.5.45 3.44 1.35l2.58-2.58C13.46.89 11.43 0 9 0A9 9 0 0 0 .96 4.95l3.01 2.33C4.68 5.16 6.66 3.58 9 3.58z"/>
-        </svg>
-        Entrar com Google
-      </button>
-      <p id="login-error" class="login-error" hidden></p>
-      <p class="login-note">Usamos sua conta Google só para identificar seu progresso. Não temos acesso
-      à sua senha nem aos seus e-mails.</p>
+    </div>
+
+    <div class="landing-secao" id="como-funciona">
+      <div class="landing-secao-head">
+        <div class="eyebrow">Como funciona</div>
+        <h2>Três decisões que você não precisa mais tomar sozinho</h2>
+      </div>
+      <div class="landing-passos">
+        <div class="landing-passo">
+          <div class="landing-passo-n">01</div>
+          <h3>Escolha a trilha</h3>
+          <p>Direito ou Medicina. O plano de 90 dias é montado com o peso real de cada frente na
+          banca do seu curso.</p>
+        </div>
+        <div class="landing-passo">
+          <div class="landing-passo-n">02</div>
+          <h3>Estude o dia de hoje</h3>
+          <p>Teoria com gatilhos e pegadinhas, uma aula sugerida e de 20 a 30 questões comentadas.
+          Nada além disso na tela.</p>
+        </div>
+        <div class="landing-passo">
+          <div class="landing-passo-n">03</div>
+          <h3>Domingo é simulado</h3>
+          <p>45 questões distribuídas entre as 16 frentes. Os erros reprogramam a semana seguinte,
+          sem sumir com os outros temas.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="landing-bancas" id="bancas">
+      <div class="landing-bancas-copy">
+        <h2>Bancas que o plano cobre</h2>
+        <p>Cada trilha é montada a partir do formato real das provas daquele curso — número de
+        questões, peso das frentes e a prova discursiva de cada banca.</p>
+      </div>
+      <div class="landing-bancas-lista">
+        <span class="landing-banca">FGV Direito SP</span>
+        <span class="landing-banca">Insper</span>
+        <span class="landing-banca">FUVEST</span>
+        <span class="landing-banca">Unicamp</span>
+        <span class="landing-banca">Unesp</span>
+        <span class="landing-banca">Unifesp</span>
+        <span class="landing-banca">Einstein</span>
+        <span class="landing-banca">Santa Casa</span>
+        <span class="landing-banca">PUC-SP</span>
+      </div>
+    </div>
+
+    <div class="landing-dia" id="trilhas">
+      <div class="landing-dia-copy">
+        <div class="eyebrow">Um dia de estudo</div>
+        <h2>Teoria, vídeo-aula e questões — nessa ordem, sem você montar nada</h2>
+        <p>Cada dia abre com os gatilhos e as pegadinhas da frente, indica a vídeo-aula daquele tema
+        e só então entrega as questões comentadas. O simulado de domingo reorganiza a semana
+        seguinte a partir do que você errou.</p>
+        <ul>
+          <li><strong>Caderno de Erros</strong>: toda questão errada volta até você acertar</li>
+          <li><strong>Flashcards</strong> com repetição espaçada, no dia certo</li>
+          <li><strong>Correção por IA</strong> das dissertativas, critério por critério</li>
+        </ul>
+      </div>
+      <div class="landing-dia-card">
+        <div class="landing-dia-card-head">
+          <h3>O seu dia 12, por dentro</h3>
+          <span class="landing-mock-data">~1h20 no total</span>
+        </div>
+        <div class="landing-bloco">
+          <span class="landing-bloco-etapa">Antes</span>
+          <div class="landing-bloco-corpo">
+            <span class="landing-bloco-titulo">Teoria da frente</span>
+            <span class="landing-bloco-texto">Gatilhos, pegadinhas e um exemplo resolvido — o
+            suficiente para reconhecer o padrão da banca.</span>
+          </div>
+        </div>
+        <div class="landing-bloco">
+          <span class="landing-bloco-etapa">Aula</span>
+          <div class="landing-bloco-corpo">
+            <span class="landing-bloco-titulo">Uma vídeo-aula sugerida</span>
+            <span class="landing-bloco-texto">O tema do dia com a busca já montada, direto no
+            YouTube.</span>
+          </div>
+        </div>
+        <div class="landing-bloco">
+          <span class="landing-bloco-etapa">Prática</span>
+          <div class="landing-bloco-corpo">
+            <span class="landing-bloco-titulo">12 questões essenciais</span>
+            <span class="landing-bloco-texto">Comentadas uma a uma. Extras ficam guardados para
+            quem quiser ir além.</span>
+          </div>
+        </div>
+        <div class="landing-bloco">
+          <span class="landing-bloco-etapa">Depois</span>
+          <div class="landing-bloco-corpo">
+            <span class="landing-bloco-titulo">Flashcards e dissertativa</span>
+            <span class="landing-bloco-texto">Repetição espaçada no dia certo e a discursiva
+            opcional, com meta de 4x por semana.</span>
+          </div>
+        </div>
+        <div class="landing-aula">
+          <div class="eyebrow eyebrow-ouro">Aula de hoje</div>
+          <div class="landing-aula-tema">Inferência e pressuposto</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="landing-fim">
+      <h2>Comece o dia 1 agora. O plano se ajusta ao resto.</h2>
+      <p>Entre com sua conta Google — o progresso fica salvo na conta e acompanha você no
+      computador, no celular e no tablet.</p>
+      <button type="button" class="btn btn-primary" data-ir-para-login>Começar meu plano hoje</button>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       02 · LOGIN — painel dividido
+
+       A metade navy carrega o argumento, a metade branca carrega o pedido.
+       Separar as duas deixa o botão de entrar sozinho no seu lado, sem
+       competir com a lista de benefícios.
+       ═══════════════════════════════════════════════════════════════════ -->
+  <section id="view-login" class="view" hidden>
+    <div class="login-split">
+      <div class="login-pitch">
+        <span class="login-pitch-brand">
+          <img class="sidebar-symbol" src="assets/sagax-symbol.png" alt="">
+          <img class="sidebar-wordmark" src="assets/sagax-wordmark-only.png" alt="sagax">
+        </span>
+        <div class="login-pitch-corpo">
+          <div class="login-pitch-frase">Seu progresso fica salvo na sua conta, não só neste navegador.</div>
+          <ul>
+            <li>Estude no computador e revise no celular, sempre sincronizado</li>
+            <li>Correção por IA das dissertativas, com feedback por critério</li>
+            <li>Ofensiva diária pra manter o ritmo dos 90 dias</li>
+          </ul>
+        </div>
+        <!-- Slogan da marca. Escrito em caixa normal de propósito: quem põe em
+             caixa alta é o CSS, então o texto copiado e o lido por leitor de
+             tela saem legíveis. -->
+        <div class="login-slogan">Estude. <span class="tagline-gold">Evolua.</span> Conquiste.</div>
+      </div>
+      <div class="login-form">
+        <h1>Entrar</h1>
+        <p>Entre com sua conta Google para salvar seu progresso na nuvem e continuar de onde parou
+        em qualquer aparelho.</p>
+        <button id="btn-login-google" class="btn btn-google">
+          <svg class="google-icon" viewBox="0 0 18 18" aria-hidden="true">
+            <path fill="#4285F4" d="M17.64 9.2c0-.64-.06-1.25-.16-1.84H9v3.48h4.84a4.14 4.14 0 0 1-1.8 2.72v2.26h2.92c1.7-1.57 2.68-3.88 2.68-6.62z"/>
+            <path fill="#34A853" d="M9 18c2.43 0 4.47-.8 5.96-2.18l-2.92-2.26c-.81.54-1.84.86-3.04.86-2.34 0-4.32-1.58-5.03-3.7H.96v2.33A9 9 0 0 0 9 18z"/>
+            <path fill="#FBBC05" d="M3.97 10.72a5.4 5.4 0 0 1 0-3.44V4.95H.96a9 9 0 0 0 0 8.1l3.01-2.33z"/>
+            <path fill="#EA4335" d="M9 3.58c1.32 0 2.5.45 3.44 1.35l2.58-2.58C13.46.89 11.43 0 9 0A9 9 0 0 0 .96 4.95l3.01 2.33C4.68 5.16 6.66 3.58 9 3.58z"/>
+          </svg>
+          Entrar com Google
+        </button>
+        <p id="login-error" class="login-error" hidden></p>
+        <p class="login-note">Usamos sua conta Google só para identificar seu progresso. Não temos
+        acesso à sua senha nem aos seus e-mails.</p>
+        <button type="button" id="btn-voltar-landing" class="login-voltar" hidden>← Voltar</button>
+      </div>
     </div>
   </section>
 
   <!-- FALHA AO LER O PROGRESSO: bloqueia em vez de deixar começar um plano novo
        por cima do que está salvo na conta. -->
   <section id="view-sync-error" class="view" hidden>
-    <div class="card onboarding-card login-card">
+    <div class="card onboarding-card">
       <div class="onboarding-logo-wrap">
         <img class="onboarding-logo" src="assets/logo.png" alt="">
       </div>
@@ -101,9 +317,7 @@
        não pode ser perguntado de novo (ver auth.js). -->
   <section id="view-escolha-trilha" class="view" hidden>
     <div class="card onboarding-card">
-      <div class="onboarding-logo-wrap">
-        <img class="onboarding-logo" src="assets/logo.png" alt="">
-      </div>
+      <div class="eyebrow">Primeiro acesso</div>
       <h1>Para qual curso você vai estudar?</h1>
       <p class="subtitle">Cada trilha tem seu próprio plano de 90 dias, montado a partir do formato
       real das provas daquele curso. Você pode trocar depois — seu progresso em cada trilha fica
@@ -148,123 +362,229 @@
     </div>
   </section>
 
-  <!-- MAIN APP -->
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       MAIN APP — barra lateral + cabeçalho de página
+
+       As nove abas em fila viraram três grupos que respondem perguntas
+       diferentes: PLANO (o que estudar), ESTUDO (com que treinar), VOCÊ (como
+       estou indo). Os botões continuam sendo .tab-btn[data-tab], que é o
+       contrato que o app.js usa — trocar a barra não mexeu na lógica de abas.
+       ═══════════════════════════════════════════════════════════════════ -->
   <div id="view-main" class="view" hidden>
-    <header class="topbar">
-      <div class="brand">
-        <img class="brand-logo" src="assets/logo.png" alt="">
-        <span>saga<span class="brand-x">x</span></span>
+
+    <aside class="sidebar">
+      <div class="sidebar-brand">
+        <img class="sidebar-symbol" src="assets/sagax-symbol.png" alt="">
+        <img class="sidebar-wordmark" src="assets/sagax-wordmark-only.png" alt="sagax">
       </div>
-      <nav class="tabs">
-        <button class="tab-btn active" data-tab="hoje">Hoje</button>
-        <button class="tab-btn" data-tab="calendario">Calendário (90 dias)</button>
-        <button class="tab-btn" data-tab="simulados">Simulados</button>
-        <button class="tab-btn" data-tab="buscar">Buscar</button>
-        <button class="tab-btn" data-tab="cards">Cards</button>
-        <button class="tab-btn" data-tab="redacao">Redação</button>
-        <button class="tab-btn" data-tab="obras">Obras</button>
-        <button class="tab-btn" data-tab="erros">Caderno de Erros</button>
-        <button class="tab-btn" data-tab="progresso">Meu progresso</button>
+
+      <nav class="nav-groups">
+        <div class="nav-group">
+          <div class="nav-group-title">Plano</div>
+          <button class="tab-btn active" data-tab="hoje">
+            <span>Hoje</span><span class="nav-badge" data-badge="hoje"></span>
+          </button>
+          <button class="tab-btn" data-tab="calendario">
+            <span>Calendário</span><span class="nav-badge" data-badge="calendario"></span>
+          </button>
+          <button class="tab-btn" data-tab="simulados">
+            <span>Simulados</span><span class="nav-badge" data-badge="simulados"></span>
+          </button>
+        </div>
+        <div class="nav-group">
+          <div class="nav-group-title">Estudo</div>
+          <button class="tab-btn" data-tab="buscar">
+            <span>Buscar questões</span><span class="nav-badge" data-badge="buscar"></span>
+          </button>
+          <button class="tab-btn" data-tab="cards">
+            <span>Flashcards</span><span class="nav-badge" data-badge="cards"></span>
+          </button>
+          <button class="tab-btn" data-tab="redacao">
+            <span>Redação</span><span class="nav-badge" data-badge="redacao"></span>
+          </button>
+          <button class="tab-btn" data-tab="obras">
+            <span>Obras obrigatórias</span><span class="nav-badge" data-badge="obras"></span>
+          </button>
+          <button class="tab-btn" data-tab="erros">
+            <span>Caderno de Erros</span><span class="nav-badge" data-badge="erros"></span>
+          </button>
+        </div>
+        <div class="nav-group">
+          <div class="nav-group-title">Você</div>
+          <button class="tab-btn" data-tab="progresso">
+            <span>Meu progresso</span><span class="nav-badge" data-badge="progresso"></span>
+          </button>
+          <button class="tab-btn" data-tab="perfil">
+            <span>Perfil e conta</span><span class="nav-badge" data-badge="perfil"></span>
+          </button>
+        </div>
       </nav>
-      <div class="user-chip" id="user-chip" hidden>
-        <span id="streak-chip" class="streak-chip" hidden></span>
-        <img id="user-avatar" class="user-avatar" alt="" referrerpolicy="no-referrer">
-        <span id="user-name" class="user-name"></span>
-        <span id="sync-status" class="sync-status" hidden></span>
-        <button id="btn-logout" class="btn btn-ghost btn-logout">Sair</button>
+
+      <div class="sidebar-user user-chip" id="user-chip" hidden>
+        <img id="user-avatar" class="user-avatar" alt="" referrerpolicy="no-referrer" hidden>
+        <span class="user-avatar-fallback" id="user-avatar-fallback"></span>
+        <span class="user-textos">
+          <span id="user-name" class="user-name"></span>
+          <span id="user-trilha" class="user-trilha"></span>
+        </span>
       </div>
-    </header>
+    </aside>
 
-    <main class="content">
-
-      <!-- TAB: HOJE -->
-      <section id="tab-hoje" class="tab-panel active">
-        <div class="day-nav">
-          <button id="btn-prev-day" class="btn btn-ghost">&larr; Dia anterior</button>
-          <div class="day-label">
-            <span id="day-number">Dia 1</span> de 90
-            <span id="phase-label" class="phase-label"></span>
-            <span id="day-date" class="day-date"></span>
+    <div class="page-main">
+      <!-- Cabeçalho da página: diz de que assunto é a tela, e carrega os dois
+           indicadores que valem em qualquer aba (ofensiva e sincronização).
+           A navegação de dia só aparece na aba Hoje, posta aqui pelo app.js. -->
+      <header class="page-header">
+        <div class="page-header-left">
+          <h2 class="page-title" id="page-title">Hoje</h2>
+          <span class="page-subtitle" id="page-subtitle"></span>
+          <span id="phase-label" class="phase-label"></span>
+        </div>
+        <div class="page-header-right">
+          <span id="streak-chip" class="streak-chip" hidden></span>
+          <span id="sync-status" class="sync-status" hidden></span>
+          <div class="day-nav" id="day-nav" hidden>
+            <button id="btn-prev-day" class="btn btn-secondary">&larr; Dia anterior</button>
+            <button id="btn-next-day" class="btn btn-secondary">Próximo dia &rarr;</button>
           </div>
-          <button id="btn-next-day" class="btn btn-ghost">Próximo dia &rarr;</button>
         </div>
+      </header>
 
-        <div id="day-content"></div>
-      </section>
+      <main class="content">
 
-      <!-- TAB: CALENDARIO -->
-      <section id="tab-calendario" class="tab-panel">
-        <h2>Mapa dos 90 dias</h2>
-        <p class="hint">Cada quadrado é um dia de estudo. A cor indica o quanto você já concluiu. Clique num dia para abri-lo.</p>
-        <div id="calendar-grid" class="calendar-grid"></div>
-        <div class="legend">
-          <span class="legend-item"><i class="dot dot-pending"></i> Não iniciado</span>
-          <span class="legend-item"><i class="dot dot-partial"></i> Em andamento</span>
-          <span class="legend-item"><i class="dot dot-done"></i> Concluído</span>
-          <span class="legend-item"><i class="dot dot-today"></i> Hoje</span>
-          <span class="legend-item"><i class="dot dot-simulado"></i> Domingo = Simulado (borda tracejada)</span>
-        </div>
-      </section>
+        <!-- TAB: HOJE -->
+        <section id="tab-hoje" class="tab-panel active">
+          <!-- O dia e a data vivem no cabeçalho; aqui embaixo fica só o que a
+               pessoa vai fazer. Estes dois nós seguem no DOM porque o app.js
+               escreve neles — o CSS os esconde. -->
+          <span id="day-number" hidden></span><span id="day-date" hidden></span>
+          <div id="day-content"></div>
+        </section>
 
-      <!-- TAB: SIMULADOS -->
-      <section id="tab-simulados" class="tab-panel">
-        <div id="simulados-content"></div>
-      </section>
+        <!-- TAB: CALENDARIO -->
+        <section id="tab-calendario" class="tab-panel">
+          <div class="painel-2col">
+            <div class="col-principal cal-card">
+              <div class="cal-card-head">
+                <div style="display:flex;flex-direction:column;gap:4px">
+                  <h3>Mapa dos 90 dias</h3>
+                  <p class="hint">Cada quadrado é um dia de estudo. Clique num dia para abri-lo.</p>
+                </div>
+                <div class="legend">
+                  <span class="legend-item"><i class="dot dot-done"></i> Concluído</span>
+                  <span class="legend-item"><i class="dot dot-partial"></i> Em andamento</span>
+                  <span class="legend-item"><i class="dot dot-today"></i> Hoje</span>
+                  <span class="legend-item"><i class="dot dot-pending"></i> Não iniciado</span>
+                  <span class="legend-item"><i class="dot dot-simulado"></i> Domingo · simulado</span>
+                </div>
+              </div>
+              <div id="calendar-grid" class="calendar-grid"></div>
+            </div>
+            <div class="col-apoio" id="calendario-apoio"></div>
+          </div>
+        </section>
 
-      <!-- TAB: BUSCAR (questões por assunto, nas duas trilhas) -->
-      <section id="tab-buscar" class="tab-panel">
-        <div id="buscar-content"></div>
-      </section>
+        <!-- TAB: SIMULADOS -->
+        <section id="tab-simulados" class="tab-panel">
+          <div id="simulados-content"></div>
+        </section>
 
-      <!-- TAB: CARDS (flashcards com repetição espaçada) -->
-      <section id="tab-cards" class="tab-panel">
-        <div id="cards-content"></div>
-      </section>
+        <!-- TAB: BUSCAR (questões por assunto, nas duas trilhas) -->
+        <section id="tab-buscar" class="tab-panel">
+          <div id="buscar-content"></div>
+        </section>
 
-      <!-- TAB: OBRAS OBRIGATÓRIAS (só FGV) -->
-      <!-- TAB: REDAÇÃO (prova própria, separada das dissertativas) -->
-      <section id="tab-redacao" class="tab-panel">
-        <div id="redacao-content"></div>
-      </section>
+        <!-- TAB: CARDS (flashcards com repetição espaçada) -->
+        <section id="tab-cards" class="tab-panel">
+          <div id="cards-content"></div>
+        </section>
 
-      <section id="tab-obras" class="tab-panel">
-        <div id="obras-content"></div>
-      </section>
+        <!-- TAB: REDAÇÃO (prova própria, separada das dissertativas) -->
+        <section id="tab-redacao" class="tab-panel">
+          <div id="redacao-content"></div>
+        </section>
 
-      <!-- TAB: CADERNO DE ERROS -->
-      <section id="tab-erros" class="tab-panel">
-        <div id="erros-content"></div>
-      </section>
+        <!-- TAB: OBRAS OBRIGATÓRIAS (só FGV) -->
+        <section id="tab-obras" class="tab-panel">
+          <div id="obras-content"></div>
+        </section>
 
-      <!-- TAB: PROGRESSO -->
-      <section id="tab-progresso" class="tab-panel">
-        <h2>Meu progresso por frente de estudo</h2>
-        <p class="hint" id="progresso-hint">Acompanhe seu desempenho em cada frente cobrada pelas provas.</p>
-        <div id="projected-score-container"></div>
-        <div id="progress-list" class="progress-list"></div>
+        <!-- TAB: CADERNO DE ERROS -->
+        <section id="tab-erros" class="tab-panel">
+          <div id="erros-content"></div>
+        </section>
 
-        <div class="card official-exams-card">
-          <h3>Provas oficiais anteriores (100% reais)</h3>
-          <p class="lesson-desc">Os exercícios deste app são originais, criados no estilo das provas — não são
-          cópias de provas reais (por direitos autorais). Para treinar com o material 100% autêntico, com gabarito
-          oficial, acesse diretamente os arquivos publicados pelas próprias instituições:</p>
-          <!-- Preenchido por app.js a partir de VD_TRILHA.config().provasOficiais -->
-          <div class="video-links" id="provas-oficiais-links"></div>
-        </div>
+        <!-- TAB: PROGRESSO -->
+        <section id="tab-progresso" class="tab-panel">
+          <div class="progresso-topo">
+            <div id="projected-score-container"></div>
+            <div class="frentes-card">
+              <div class="frentes-card-head">
+                <h3>Onde você perde ponto</h3>
+                <span class="hint" id="progresso-hint">ordenado pela frente mais fraca</span>
+              </div>
+              <div id="progress-list" class="progress-list"></div>
+            </div>
+          </div>
 
-        <!-- Troca de trilha: preenchido por app.js -->
-        <div id="trocar-trilha-container"></div>
+          <div id="diagnostico-container"></div>
 
-        <div id="corrigir-inicio-container"></div>
+          <div class="card official-exams-card">
+            <h3>Provas oficiais anteriores (100% reais)</h3>
+            <p class="lesson-desc">Os exercícios deste app são originais, criados no estilo das provas — não são
+            cópias de provas reais (por direitos autorais). Para treinar com o material 100% autêntico, com gabarito
+            oficial, acesse diretamente os arquivos publicados pelas próprias instituições:</p>
+            <!-- Preenchido por app.js a partir de VD_TRILHA.config().provasOficiais -->
+            <div class="video-links" id="provas-oficiais-links"></div>
+          </div>
+        </section>
 
-        <div id="sync-container"></div>
+        <!-- ═══════════════════════════════════════════════════════════════
+             TAB: PERFIL E CONTA
 
-        <div class="danger-zone">
-          <button id="btn-reset" class="btn btn-danger-outline">Reiniciar todo o progresso</button>
-        </div>
-      </section>
+             Tudo que é sobre a CONTA saiu da aba de progresso e veio pra cá:
+             quem sou eu, desde quando, qual trilha, e o botão que apaga tudo.
+             Antes, a zona de perigo ficava no fim da tela que a pessoa mais
+             visita pra se animar com o próprio avanço — lugar errado para o
+             botão de reiniciar.
+             ═══════════════════════════════════════════════════════════ -->
+        <section id="tab-perfil" class="tab-panel">
+          <div class="painel-2col">
+            <div class="col-principal" style="display:flex;flex-direction:column;gap:16px">
+              <div class="perfil-identidade">
+                <img id="perfil-avatar" class="perfil-avatar" alt="" referrerpolicy="no-referrer" hidden>
+                <span class="perfil-avatar" id="perfil-avatar-fallback"></span>
+                <span class="perfil-textos">
+                  <span class="perfil-nome" id="perfil-nome"></span>
+                  <span class="perfil-email" id="perfil-email"></span>
+                </span>
+                <button id="btn-logout" class="btn btn-secondary">Sair da conta</button>
+              </div>
 
-    </main>
+              <!-- Os dois ajustes da conta. O desenho os mostra como linhas de
+                   leitura ("Data de início · 9 de março"), mas aqui eles são
+                   editáveis de verdade — a data tem seletor e a sincronização
+                   tem exportar/importar. Ficam como cartões para caber o
+                   controle, em vez de virar linha e perder a função. -->
+              <div id="corrigir-inicio-container"></div>
+              <div id="sync-container"></div>
+            </div>
+
+            <div class="col-apoio col-apoio-larga perfil-lateral">
+              <div id="trocar-trilha-container"></div>
+              <div class="perfil-box perfil-box-perigo">
+                <div class="perfil-box-titulo">Zona de perigo</div>
+                <div class="perfil-box-nota">Reiniciar apaga respostas, ofensiva e score projetado desta trilha.</div>
+                <div class="danger-zone">
+                  <button id="btn-reset" class="btn btn-danger-outline">Reiniciar todo o progresso</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+      </main>
+    </div>
   </div>
 
 </div>
@@ -274,14 +594,14 @@
      escolheu — só os dados daquela trilha entram no navegador. O conteúdo de
      Direito continua sendo o mesmo do v1: corrigir uma questão lá corrige nos
      dois apps. -->
-<script src="trilhas.js?v=20"></script>
-<script src="schedule.js?v=20"></script>
+<script src="trilhas.js?v=23"></script>
+<script src="schedule.js?v=23"></script>
 <!-- Dicionário de assuntos da busca. Vive aqui, e não em data/ de uma trilha,
      porque a taxonomia atravessa as duas: "crase" e "função quadrática" são o
      mesmo assunto em Direito e em Medicina. Pôr em data/ obrigaria a duplicar
      as listas de gramática, literatura, interpretação, inglês e matemática. -->
-<script src="assuntos.js?v=20"></script>
-<script src="app.js?v=20"></script>
-<script type="module" src="auth.js?v=20"></script>
+<script src="assuntos.js?v=23"></script>
+<script src="app.js?v=23"></script>
+<script type="module" src="auth.js?v=23"></script>
 </body>
 </html>

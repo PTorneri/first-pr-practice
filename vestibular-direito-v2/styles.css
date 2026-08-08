@@ -1,26 +1,62 @@
-:root {
-  /* Identidade sagax: o cabeçalho fica sempre em azul-marinho — o mesmo azul da
-     placa do logo — independente do modo claro/escuro do restante do app. */
-  --header-bg: #0A2540;
-  --header-ink: #ffffff;
-  --header-ink-soft: #9fb2c9;
-  --header-pill-bg: rgba(255,255,255,0.10);
-  --header-border: rgba(255,255,255,0.08);
+/* ═══════════════════════════════════════════════════════════════════════════
+   REDESENHO v2 — "Um sistema só, do site à sala de estudo"
 
-  --bg: #f1f4f9;
+   A regra que organiza a paleta inteira, e que explica quase toda decisão
+   abaixo: o NAVY É ESTRUTURA, O OURO É UMA AÇÃO POR TELA. Antes o app tinha
+   um azul-royal de destaque (--accent: #1E40AF) disputando atenção com o ouro
+   da marca, e o resultado era que nada se destacava: barra de progresso, aba
+   ativa, selo de dificuldade e botão principal gritavam junto.
+
+   Agora o azul-marinho da marca faz o trabalho estrutural — é ele que preenche
+   barra, marca a aba ativa e assina o botão primário — e o ouro fica reservado
+   para o UM lugar que a pessoa deve olhar primeiro em cada tela (o "Comece por
+   aqui" de Hoje, o "Começar simulado", o dia de hoje no calendário).
+
+   Verde e vermelho não decoram nada: aparecem só em gabarito e em zona de
+   perigo. É por isso que --good e --bad seguem existindo mas não entram em
+   nenhum estado de navegação.
+   ═════════════════════════════════════════════════════════════════════════ */
+:root {
+  /* Identidade sagax: a barra lateral fica sempre em azul-marinho — o mesmo
+     azul da placa do logo — independente do modo claro/escuro do resto. */
+  --header-bg: #0A1F38;
+  --header-ink: #ffffff;
+  --header-ink-soft: #A8B6C8;
+  --header-pill-bg: rgba(255,255,255,0.10);
+  --header-border: rgba(255,255,255,0.09);
+  /* Título de grupo da barra lateral (PLANO / ESTUDO / VOCÊ). Mais apagado que
+     --header-ink-soft de propósito: rótulo de seção não compete com item. */
+  --header-group: #5E7189;
+
+  --bg: #F4F6F9;
   --surface: #ffffff;
   --ink: #0A2540;
-  --ink-soft: #475569;
-  --border: #E2E8F0;
-  --accent: #1E40AF;
+  --ink-soft: #4A5A6E;
+  /* Duas réguas, não uma. --border é a linha entre coisas (1px, discreta) e
+     --border-strong é a borda de um controle que a pessoa pode clicar — botão
+     secundário, campo de busca. Com uma régua só, ou o campo somia ou as
+     divisórias de tabela ficavam pesadas demais. */
+  --border: #E3E7EE;
+  --border-strong: #C9CFDA;
+  --ink-faint: #7A8798;
+  --ink-fainter: #9AA6B6;
+  --accent: #0A2540;
   --accent-ink: #ffffff;
-  --accent-soft: #DBEAFE;
+  --accent-soft: #EDEFF3;
   --good: #0F766E;
-  --good-soft: #CCFBF1;
+  --good-soft: #F0F8F6;
+  --good-border: #CFE7E0;
   --bad: #B91C1C;
-  --bad-soft: #FEE2E2;
-  --warn: #C9A227;
-  --warn-soft: #FBF1D6;
+  --bad-soft: #FCEBEB;
+  --bad-border: #E7C4C4;
+  /* O "warn" do redesenho é a família do ouro sobre branco: fundo creme, texto
+     ouro escuro. É o selo de "Revisão"/"Média" e o aviso da outra trilha. */
+  --warn: #7A5209;
+  --warn-soft: #FBF4E4;
+  --warn-border: #E0C88A;
+  /* Laranja-tijolo: usado só onde o redesenho o usa, na nota da frente mais
+     fraca e nos rótulos de problema do diagnóstico. Não é um estado de erro. */
+  --alert: #A8552F;
 
   /* O ouro da marca — o X de sagax e a palavra dourada do slogan. Separado do
      --warn de propósito: o warn também sinaliza atenção em selo e alerta, e
@@ -45,31 +81,53 @@
   --cat-musica: #0E7490;
   --cat-musica-soft: #DCF2F6;
 
-  --radius: 14px;
-  --shadow: 0 1px 2px rgba(10,37,64,0.06), 0 8px 24px rgba(10,37,64,0.08);
+  /* "Raio 8px (10px no cartão), régua 1px, sombra só no que flutua. Nada de
+     cartão gigante arredondado: a estrutura é a régua." — o cartão de 14px
+     com sombra permanente fazia tudo parecer flutuar, e quando tudo flutua
+     nada tem hierarquia. Agora o cartão é definido pela borda; a sombra
+     sobrou para o que de fato paira sobre a página (a gaveta do menu). */
+  --radius: 10px;
+  --radius-sm: 8px;
+  --shadow: none;
+  --shadow-float: 0 30px 70px rgba(10,31,56,0.28);
 }
 
+/* O redesenho especifica só a paleta clara. O modo escuro segue existindo —
+   quem revisa no celular à noite não deve perdê-lo — com os tons derivados da
+   paleta nova, não dos antigos.
+
+   A derivação tem uma regra e uma exceção. A regra: escurecer superfície e
+   clarear texto mantendo a família de cor. A exceção é o --accent: no claro
+   ele é o navy, que aqui É o fundo — um preenchimento navy sobre fundo navy
+   seria invisível. No escuro, então, quem faz o trabalho estrutural é o
+   próprio ouro da marca, que é a única cor da paleta que sobrevive aos dois
+   fundos. É a mesma lógica do claro ("uma cor carrega a estrutura"), com a
+   cor trocada porque o fundo trocou. */
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #0A2540;
-    --surface: #1F2937;
+    --bg: #0A1F38;
+    --surface: #12293F;
     --ink: #ffffff;
-    --ink-soft: #E2E8F0;
-    --border: rgba(226,232,240,0.14);
-    /* Tons mais claros que o modo claro (mesma família de cor) — os originais
-       (royal blue/emerald/gold escuros) foram calibrados pra contraste em
-       fundo branco e ficam ilegíveis como texto sobre fundo escuro. */
-    --accent: #60A5FA;
-    --accent-ink: #0A2540;
-    --accent-soft: rgba(96,165,250,0.22);
+    --ink-soft: #B9C6D6;
+    --ink-faint: #8FA0B5;
+    --ink-fainter: #7A8DA4;
+    --border: rgba(255,255,255,0.12);
+    --border-strong: rgba(255,255,255,0.24);
+    --accent: #F4C142;
+    --accent-ink: #0A1F38;
+    --accent-soft: rgba(244,193,66,0.16);
     --good: #5EEAD4;
-    --good-soft: rgba(15,118,110,0.28);
+    --good-soft: rgba(15,118,110,0.26);
+    --good-border: rgba(94,234,212,0.32);
     --bad: #F87171;
-    --bad-soft: rgba(248,113,113,0.20);
-    --warn: #E0C36B;
-    --warn-soft: rgba(201,162,39,0.22);
+    --bad-soft: rgba(248,113,113,0.18);
+    --bad-border: rgba(248,113,113,0.34);
+    --warn: #E7D3A3;
+    --warn-soft: rgba(244,193,66,0.16);
+    --warn-border: rgba(244,193,66,0.34);
+    --alert: #E9A182;
 
-    /* No cartão escuro cabe o ouro do logotipo, o mesmo do cabeçalho. */
+    /* No cartão escuro cabe o ouro do logotipo, o mesmo da barra lateral. */
     --brand-gold: #F4C142;
 
     --cat-ensaio: #A5A0F5;
@@ -83,7 +141,8 @@
     --cat-musica: #6BCBE0;
     --cat-musica-soft: rgba(107,203,224,0.16);
 
-    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px rgba(0,0,0,0.35);
+    --shadow: none;
+    --shadow-float: 0 30px 70px rgba(0,0,0,0.55);
   }
 }
 
@@ -101,7 +160,25 @@
 :root {
   --font-brand: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --font-text: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  /* A monoespaçada não é decoração: ela marca o que é RÓTULO e não conteúdo.
+     "COMECE POR AQUI", "ANTES/AULA/PRÁTICA", os títulos de grupo da lateral —
+     tudo que nomeia uma região em vez de dizer algo. Como ela nunca aparece
+     em texto corrido, a pessoa aprende a distinguir os dois sem pensar. */
+  --font-mono: ui-monospace, Menlo, Consolas, "Liberation Mono", monospace;
 }
+
+/* Rótulo em monoespaçada — o eyebrow que nomeia uma região da tela. */
+.eyebrow {
+  font: 700 0.625rem/1 var(--font-mono);
+  letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--ink-faint);
+}
+.eyebrow-ouro { color: var(--warn); }
+.eyebrow-sobre-navy { color: var(--brand-gold-on-navy); }
+
+/* Número em Montserrat: métrica, contador, score. O corpo do app segue na
+   pilha do sistema, mas número é identidade visual e ganha a geométrica. */
+.num { font-family: var(--font-brand); font-weight: 600; }
 
 body {
   margin: 0;
@@ -111,7 +188,14 @@ body {
   line-height: 1.5;
 }
 
-.brand, h1, h2, h3 { font-family: var(--font-brand); letter-spacing: -0.01em; }
+/* Escala 12 · 13 · 15 · 20 · 26 · 34. Os títulos levam a geométrica da marca;
+   o corpo segue na pilha do sistema, porque enunciado longo de questão e
+   comentário de gabarito pedem leitura, não personalidade. */
+.brand, h1, h2, h3, h4 { font-family: var(--font-brand); font-weight: 600; letter-spacing: -0.015em; }
+h1 { font-size: 2.125rem; }
+h2 { font-size: 1.625rem; }
+h3 { font-size: 1.25rem; }
+h4 { font-size: 1.0625rem; }
 
 #app { min-height: 100vh; }
 .view[hidden] { display: none !important; }
@@ -119,7 +203,8 @@ body {
 /* Onboarding, login e falha de sync: telas de entrada, centralizadas na janela */
 #view-onboarding,
 #view-login,
-#view-sync-error {
+#view-sync-error,
+#view-escolha-trilha {
   min-height: 100vh;
   display: flex;
   align-items: center;
@@ -127,10 +212,201 @@ body {
   padding: 24px;
 }
 .onboarding-card {
-  max-width: 520px;
+  max-width: 560px;
   text-align: left;
-  padding: 36px;
+  padding: 40px 38px;
 }
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   01 · LANDING (deslogado)
+
+   Antes, quem chegava em sagaxedu.com.br caía direto num cartão de login que
+   pedia a conta Google sem nunca ter dito o que o app faz. A landing existe
+   para responder três coisas antes do pedido: o que você recebe todo dia, em
+   que ordem, e para quais bancas. Só depois disso aparece o botão de entrar.
+   ═════════════════════════════════════════════════════════════════════════ */
+#view-landing { background: var(--surface); }
+.landing-navy { background: #0A1F38; color: #fff; padding: 0 64px; }
+.landing-nav {
+  display: flex; align-items: center; justify-content: space-between;
+  height: 76px; border-bottom: 1px solid rgba(255,255,255,.09);
+}
+.landing-nav-links { display: flex; align-items: center; gap: 30px; font-size: 0.875rem; color: #A8B6C8; }
+.landing-nav-links a { color: #A8B6C8; text-decoration: none; }
+.landing-nav-links a:hover { color: #fff; }
+.landing-brand { display: flex; align-items: center; gap: 10px; }
+.landing-brand .sidebar-symbol { height: 34px; }
+.landing-brand .sidebar-wordmark { height: 24px; }
+/* "Entrar" na barra: contorno de ouro, não ouro cheio. O ouro cheio pertence
+   ao "Começar meu plano hoje" logo abaixo — uma ação por tela. */
+.btn-entrar {
+  background: transparent; color: var(--brand-gold-on-navy);
+  border: 1px solid rgba(244,193,66,.45); border-radius: var(--radius-sm);
+  padding: 9px 18px; font: inherit; font-size: 0.875rem; font-weight: 600; cursor: pointer;
+}
+.btn-entrar:hover { background: rgba(244,193,66,.10); }
+
+.landing-hero {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 56px; align-items: center;
+  padding: 76px 0 84px;
+}
+.landing-hero-copy { display: flex; flex-direction: column; gap: 22px; max-width: 520px; }
+.landing-eyebrow {
+  font: 600 0.6875rem/1 var(--font-mono); letter-spacing: 0.14em;
+  text-transform: uppercase; color: var(--brand-gold-on-navy);
+}
+.landing-hero h1 { font-size: 3.25rem; line-height: 1.05; color: #fff; letter-spacing: -0.025em; margin: 0; }
+.landing-hero p { margin: 0; font-size: 1.0625rem; line-height: 1.6; color: #B9C6D6; }
+.landing-cta-row { display: flex; gap: 12px; flex-wrap: wrap; padding-top: 4px; }
+.landing-cta-row .btn { font-size: 0.9375rem; padding: 14px 26px; }
+.landing-stats {
+  display: flex; gap: 28px; padding-top: 14px;
+  border-top: 1px solid rgba(255,255,255,.09); margin-top: 8px;
+}
+.landing-stat { display: flex; flex-direction: column; gap: 2px; padding-top: 16px; }
+.landing-stat-n { font-family: var(--font-brand); font-size: 1.5rem; font-weight: 600; color: #fff; }
+.landing-stat-label { font-size: 0.78rem; color: #8FA0B5; }
+
+/* A "janela" com o app dentro. É a única promessa visual da página, então
+   mostra a tela real de Hoje: o dia, o bloco de "comece por aqui", as três
+   métricas e a fita dos 90 dias. */
+.landing-mock {
+  background: var(--bg); border: 1px solid rgba(255,255,255,.14); border-radius: 12px;
+  overflow: hidden; box-shadow: 0 30px 70px rgba(0,0,0,.45); color: var(--ink);
+}
+.landing-mock-chrome {
+  display: flex; align-items: center; gap: 8px; padding: 12px 16px;
+  background: #0A2540; border-bottom: 1px solid rgba(255,255,255,.08);
+}
+.landing-mock-dot { width: 9px; height: 9px; border-radius: 50%; background: #33455C; }
+.landing-mock-url { font-size: 0.72rem; color: #8FA0B5; margin-left: 8px; font-family: var(--font-mono); }
+.landing-mock-body { padding: 22px; display: flex; flex-direction: column; gap: 14px; background: var(--bg); }
+.landing-mock-head { display: flex; justify-content: space-between; align-items: baseline; }
+.landing-mock-dia { font-family: var(--font-brand); font-size: 1.0625rem; font-weight: 600; color: var(--ink); }
+.landing-mock-data { font-size: 0.75rem; color: var(--ink-faint); }
+/* A barra de ouro à esquerda é a mesma marca do "Comece por aqui" dentro do
+   app — quem entra reconhece o bloco que já viu aqui. */
+.landing-mock-foco {
+  border: 1px solid var(--border); border-left: 3px solid var(--brand-gold-on-navy);
+  border-radius: var(--radius-sm); padding: 16px 18px; background: var(--surface);
+  display: flex; flex-direction: column; gap: 8px;
+}
+.landing-mock-foco-titulo { font-family: var(--font-brand); font-size: 1.1875rem; font-weight: 600; color: var(--ink); }
+.landing-mock-foco-meta { font-size: 0.8125rem; color: var(--ink-soft); }
+.landing-mock-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+.landing-mock-stat {
+  border: 1px solid var(--border); border-radius: var(--radius-sm);
+  padding: 12px 14px; background: var(--surface);
+}
+.landing-mock-stat-label { font-size: 0.6875rem; color: var(--ink-faint); margin-bottom: 4px; }
+.landing-mock-stat-v { font-family: var(--font-brand); font-size: 1.25rem; font-weight: 600; color: var(--ink); }
+.landing-mock-fita { display: flex; gap: 4px; }
+.landing-mock-fita i { flex: 1; height: 26px; border-radius: 3px; background: var(--border); }
+.landing-mock-fita i.feito { background: var(--ink); }
+.landing-mock-fita i.hoje { background: var(--brand-gold-on-navy); }
+
+.landing-secao { padding: 76px 64px; display: flex; flex-direction: column; gap: 44px; }
+.landing-secao-head { max-width: 640px; display: flex; flex-direction: column; gap: 12px; }
+.landing-secao-head h2 { font-size: 2rem; letter-spacing: -0.02em; margin: 0; }
+/* Grade de 1px: as divisórias são o próprio fundo aparecendo entre as células.
+   É a "régua como estrutura" — sem cartão, sem sombra, sem raio. */
+.landing-passos {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px;
+  background: var(--border); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);
+}
+.landing-passo { background: var(--surface); padding: 32px 30px 34px; display: flex; flex-direction: column; gap: 12px; }
+.landing-passo-n { font-family: var(--font-brand); font-size: 0.8125rem; font-weight: 600; color: var(--brand-gold); }
+.landing-passo h3 { font-size: 1.25rem; margin: 0; }
+.landing-passo p { margin: 0; font-size: 0.9rem; line-height: 1.6; color: var(--ink-soft); }
+
+.landing-bancas {
+  background: #0A2540; color: #fff; padding: 56px 64px;
+  display: flex; align-items: center; justify-content: space-between; gap: 40px; flex-wrap: wrap;
+}
+.landing-bancas-copy { display: flex; flex-direction: column; gap: 10px; max-width: 560px; }
+.landing-bancas-copy h2 { font-size: 1.75rem; color: #fff; margin: 0; }
+.landing-bancas-copy p { margin: 0; font-size: 0.9rem; color: #A8B6C8; }
+.landing-bancas-lista { display: flex; gap: 10px; flex-wrap: wrap; }
+.landing-banca {
+  font-family: var(--font-brand); font-size: 0.9375rem; font-weight: 600; color: #fff;
+  border: 1px solid rgba(255,255,255,.20); border-radius: var(--radius-sm); padding: 12px 20px;
+}
+
+.landing-dia { padding: 76px 64px; display: grid; grid-template-columns: 1fr 1fr; gap: 56px; align-items: start; }
+.landing-dia-copy { display: flex; flex-direction: column; gap: 14px; max-width: 520px; }
+.landing-dia-copy h2 { font-size: 2rem; letter-spacing: -0.02em; margin: 0; }
+.landing-dia-copy p { margin: 0; font-size: 0.9375rem; line-height: 1.65; color: var(--ink-soft); }
+.landing-dia-copy ul { margin: 8px 0 0; padding-left: 18px; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.7; }
+.landing-dia-copy strong { color: var(--ink); }
+.landing-dia-card { border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface); overflow: hidden; }
+.landing-dia-card-head {
+  padding: 22px 26px; border-bottom: 1px solid var(--border);
+  display: flex; align-items: baseline; justify-content: space-between;
+}
+.landing-dia-card-head h3 { font-size: 1.0625rem; margin: 0; }
+.landing-bloco { padding: 18px 26px; border-bottom: 1px solid var(--border); display: flex; gap: 16px; align-items: flex-start; }
+.landing-bloco-etapa {
+  font: 700 0.625rem/1.6 var(--font-mono); letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--ink-faint); width: 62px; flex: none;
+}
+.landing-bloco-corpo { display: flex; flex-direction: column; gap: 5px; min-width: 0; }
+.landing-bloco-titulo { font-size: 0.9rem; font-weight: 600; color: var(--ink); }
+.landing-bloco-texto { font-size: 0.8125rem; color: var(--ink-soft); line-height: 1.55; }
+.landing-aula { padding: 20px 26px; background: var(--bg); display: flex; flex-direction: column; gap: 3px; }
+.landing-aula-tema { font-size: 0.9rem; font-weight: 600; color: var(--ink); }
+
+.landing-fim {
+  padding: 72px 64px 84px; background: var(--bg); border-top: 1px solid var(--border);
+  display: flex; flex-direction: column; align-items: flex-start; gap: 20px;
+}
+.landing-fim h2 { font-size: 2.125rem; letter-spacing: -0.02em; max-width: 620px; margin: 0; }
+.landing-fim p { margin: 0; font-size: 0.9375rem; color: var(--ink-soft); max-width: 560px; }
+.landing-fim .btn { font-size: 0.9375rem; padding: 14px 28px; }
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   02 · LOGIN — painel dividido
+
+   A metade navy carrega o argumento (progresso na conta, não no navegador) e
+   a metade branca carrega o pedido. Separar as duas deixa o botão de entrar
+   sozinho no seu lado, sem competir com a lista de benefícios.
+   ═════════════════════════════════════════════════════════════════════════ */
+#view-login { background: var(--bg); }
+.login-split {
+  width: 706px; max-width: 100%; min-height: 560px;
+  border: 1px solid var(--border-strong); border-radius: var(--radius); overflow: hidden;
+  display: grid; grid-template-columns: 1fr 1fr; background: var(--surface);
+}
+.login-pitch {
+  background: #0A1F38; padding: 40px 36px;
+  display: flex; flex-direction: column; justify-content: space-between; gap: 24px;
+}
+.login-pitch-brand { display: flex; align-items: center; gap: 10px; }
+.login-pitch-brand .sidebar-symbol { height: 42px; }
+.login-pitch-brand .sidebar-wordmark { height: 28px; }
+.login-pitch-corpo { display: flex; flex-direction: column; gap: 18px; }
+.login-pitch-frase {
+  font-family: var(--font-brand); font-size: 1.375rem; line-height: 1.35; color: #fff; font-weight: 500;
+}
+.login-pitch ul { margin: 0; padding-left: 16px; color: #A8B6C8; font-size: 0.845rem; line-height: 1.75; }
+.login-slogan {
+  font-family: var(--font-brand); font-size: 0.656rem; letter-spacing: 0.22em;
+  text-transform: uppercase; color: #7A8DA4;
+}
+.login-slogan .tagline-gold { color: var(--brand-gold-on-navy); }
+.login-form {
+  padding: 44px 38px; display: flex; flex-direction: column; justify-content: center; gap: 18px;
+}
+.login-form h1 { font-size: 1.5rem; margin: 0; }
+.login-form p { margin: 0; font-size: 0.875rem; color: var(--ink-soft); line-height: 1.6; }
+#view-login .login-form .btn { width: 100%; margin-bottom: 0; }
+/* O "voltar" some no primeiro acesso e aparece quando se chegou da landing —
+   quem entrou direto pelo endereço do app não tem para onde voltar. */
+.login-voltar {
+  align-self: flex-start; background: none; border: none; padding: 0;
+  font: inherit; font-size: 0.8125rem; color: var(--ink-faint); cursor: pointer;
+  text-decoration: underline; text-underline-offset: 3px;
+}
+.login-voltar:hover { color: var(--ink); }
 .onboarding-logo-wrap { text-align: center; margin-bottom: 18px; }
 .onboarding-logo { width: 92px; height: auto; }
 /* 600 e não o 700 padrão de h1: o logotipo de referência é de peso médio, e a
@@ -175,103 +451,184 @@ body {
   box-shadow: var(--shadow);
 }
 
-/* Buttons */
+/* Buttons.
+   Retângulo de raio 8, não mais pílula de 999px: a pílula é uma forma que
+   chama atenção sozinha, e num app com botão em quase todo cartão isso somava
+   ruído. O retângulo deixa a distinção por COR fazer o trabalho — e a cor é
+   que diz o que é ação principal.
+
+   Largura automática, e não os 100% de antes. Um botão que atravessa o cartão
+   inteiro anuncia "esta é a única coisa a fazer aqui", o que era mentira em
+   praticamente todo cartão do app. As telas de entrada, onde de fato só há uma
+   coisa a fazer, reativam o 100% mais abaixo. */
 .btn {
   font: inherit;
-  border-radius: 999px;
-  padding: 11px 20px;
+  font-size: 0.875rem;
+  border-radius: var(--radius-sm);
+  padding: 10px 18px;
   border: 1px solid transparent;
   cursor: pointer;
   font-weight: 600;
-  transition: transform 0.05s ease, opacity 0.15s ease;
+  transition: background-color 0.15s ease, border-color 0.15s ease, opacity 0.15s ease;
 }
-.btn:active { transform: scale(0.98); }
-.btn-primary { background: var(--accent); color: var(--accent-ink); width: 100%; margin-bottom: 10px; }
-.btn-secondary { background: transparent; border-color: var(--border); color: var(--ink); width: 100%; }
-.btn-ghost { background: transparent; border: none; color: var(--accent); font-weight: 600; padding: 8px 10px; }
+.btn-primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.btn-primary:hover:not(:disabled) { background: #14395F; border-color: #14395F; }
+.btn-secondary { background: var(--surface); border-color: var(--border-strong); color: var(--ink); }
+.btn-secondary:hover:not(:disabled) { border-color: var(--accent); background: #F7F9FB; }
+/* "Destaque": o botão cor de ouro sobre branco. É o terceiro nível, para a
+   ação que merece um olhar mas não é a principal da tela. */
+.btn-destaque { background: var(--warn-soft); color: var(--warn); border-color: var(--warn-border); }
+.btn-destaque:hover:not(:disabled) { background: #F6EBD2; }
+/* O ouro cheio só existe sobre navy — sobre branco ele dá 1,7:1 e some. */
+.btn-ouro { background: var(--brand-gold-on-navy); color: #0A1F38; border-color: var(--brand-gold-on-navy); }
+.btn-ouro:hover:not(:disabled) { background: #FFD469; border-color: #FFD469; }
+.btn-sobre-navy {
+  background: transparent; color: #fff; border-color: rgba(255,255,255,.25);
+}
+.btn-sobre-navy:hover:not(:disabled) { border-color: #fff; background: rgba(255,255,255,.06); }
+.btn-ghost { background: transparent; border: none; color: var(--ink); font-weight: 600; padding: 8px 10px; }
+.btn-ghost:hover:not(:disabled) { color: var(--accent); }
 .btn-ghost:disabled { opacity: 0.35; cursor: default; }
-.btn-danger-outline { background: transparent; border: 1px solid var(--bad); color: var(--bad); }
+.btn-danger-outline { background: var(--surface); border: 1px solid var(--bad-border); color: var(--bad); }
+.btn-danger-outline:hover:not(:disabled) { background: var(--bad-soft); }
+/* Link de saída (provas oficiais, YouTube): tem peso de botão secundário
+   porque leva para fora do app, e sair merece um clique deliberado. */
 .btn-link {
   display: inline-block;
-  background: var(--accent-soft);
-  color: var(--accent);
-  border-radius: 10px;
-  padding: 9px 14px;
+  background: var(--surface);
+  color: var(--ink);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-sm);
+  padding: 10px 16px;
   text-decoration: none;
   font-weight: 600;
-  font-size: 0.92rem;
+  font-size: 0.845rem;
   margin: 4px 8px 0 0;
 }
+.btn-link:hover { border-color: var(--accent); background: #F7F9FB; }
 
-/* Topbar */
-.topbar {
-  position: sticky; top: 0; z-index: 10;
-  background: var(--header-bg);
-  border-bottom: 1px solid var(--header-border);
-  display: flex; align-items: center; justify-content: space-between;
-  padding: 14px 20px;
-  flex-wrap: wrap; gap: 10px;
+/* Telas de entrada: aqui o botão de largura cheia está certo — é a única
+   ação da tela. */
+#view-login .btn, #view-onboarding .btn, #view-sync-error .btn { width: 100%; margin-bottom: 10px; }
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   O CASCO: barra lateral + cabeçalho de página
+
+   Nove abas numa fila horizontal davam a todas exatamente o mesmo peso, e o
+   preço disso era que "Hoje" — a única aba que 90% das sessões precisa —
+   ficava indistinguível de "Obras obrigatórias". A barra lateral resolve isso
+   com três grupos que respondem perguntas diferentes: PLANO (o que estudar),
+   ESTUDO (ferramentas de treino), VOCÊ (como estou indo).
+
+   O contrato com o app.js não mudou: os itens continuam sendo .tab-btn com
+   data-tab, então a troca de aba, o esconde-aba por trilha (cfg.abas) e os
+   .click() programáticos seguem funcionando sem alteração.
+   ═════════════════════════════════════════════════════════════════════════ */
+#view-main { display: flex; min-height: 100vh; background: var(--bg); }
+
+.sidebar {
+  width: 248px; flex: none; background: var(--header-bg);
+  display: flex; flex-direction: column; padding: 22px 16px; gap: 26px;
+  position: sticky; top: 0; height: 100vh; overflow-y: auto;
 }
-.brand { display: flex; align-items: center; gap: 10px; font-weight: 600; color: var(--header-ink); }
-.brand-logo { height: 32px; width: auto; display: block; }
-/* O cabeçalho é sempre azul-marinho, nos dois temas — por isso o X aqui leva
-   o ouro do logotipo sempre, sem depender do prefers-color-scheme. */
-.brand .brand-x { color: var(--brand-gold-on-navy); }
-.tabs { display: flex; gap: 4px; background: var(--header-pill-bg); border-radius: 999px; padding: 4px; }
+/* O logotipo é PNG com fundo próprio; o lighten deixa só a parte clara da
+   arte aparecer sobre o navy, sem halo de fundo em volta das letras. */
+.sidebar-brand { display: flex; align-items: center; gap: 10px; padding: 0 8px; }
+.sidebar-symbol { height: 26px; width: auto; object-fit: contain; display: block; mix-blend-mode: lighten; }
+.sidebar-wordmark { height: 18px; width: auto; object-fit: contain; display: block; mix-blend-mode: lighten; }
+
+.nav-groups { display: flex; flex-direction: column; gap: 22px; }
+.nav-group { display: flex; flex-direction: column; gap: 3px; }
+.nav-group-title {
+  font: 700 9.5px/1 var(--font-mono); letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--header-group); padding: 0 8px 6px;
+}
+/* Um grupo cujos itens sumiram todos (Obras não existe em Medicina) não pode
+   deixar o título órfão pairando sobre nada. */
+.nav-group:not(:has(.tab-btn:not([hidden]))) { display: none; }
+
 .tab-btn {
-  border: none; background: transparent; padding: 8px 16px; border-radius: 999px;
-  cursor: pointer; font: inherit; font-weight: 600; color: var(--header-ink-soft);
+  display: flex; align-items: center; justify-content: space-between; gap: 8px;
+  border: none; background: transparent; text-align: left;
+  padding: 9px 10px; border-radius: 7px;
+  cursor: pointer; font: inherit; font-size: 0.875rem; font-weight: 500;
+  color: var(--header-ink-soft);
+  transition: background-color 0.12s ease, color 0.12s ease;
 }
-.tab-btn.active { background: var(--accent); color: var(--accent-ink); }
+.tab-btn:hover { background: rgba(255,255,255,.07); color: #fff; }
+.tab-btn.active { background: rgba(255,255,255,.10); color: #fff; }
 
-@media (max-width: 640px) {
-  .topbar { padding: 14px; }
-  .tabs {
-    max-width: 100%; flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-  }
-  .tabs::-webkit-scrollbar { display: none; }
-  .tab-btn { flex: 0 0 auto; white-space: nowrap; padding: 7px 12px; font-size: 0.92rem; }
+/* Contador ao lado do item: quantas tarefas faltam hoje, quantos cards
+   venceram, quantas questões esperam revisão. Só o item ativo usa ouro —
+   um destaque por tela. */
+.nav-badge {
+  font-size: 11px; font-weight: 700; border-radius: 5px; padding: 2px 6px;
+  background: rgba(255,255,255,.10); color: var(--header-ink-soft);
+}
+.nav-badge:empty { display: none; }
+.tab-btn.active .nav-badge { background: var(--brand-gold-on-navy); color: #0A1F38; }
+
+.sidebar-user {
+  margin-top: auto; border-top: 1px solid var(--header-border);
+  padding: 14px 10px 0; display: flex; align-items: center; gap: 10px;
 }
 
-.content { max-width: 860px; margin: 0 auto; padding: 20px 16px 80px; }
+/* Cabeçalho branco de cada página: título, subtítulo e os dois indicadores
+   que valem em qualquer aba (ofensiva e sincronização). */
+.page-main { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+.page-header {
+  min-height: 64px; background: var(--surface); border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;
+  padding: 12px 28px; gap: 12px 16px;
+  position: sticky; top: 0; z-index: 10;
+}
+.page-header-left { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+.page-title { margin: 0; font-family: var(--font-brand); font-weight: 600; font-size: 1.1875rem; }
+.page-subtitle { font-size: 0.8125rem; color: var(--ink-faint); }
+.page-header-right { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+
+.content { padding: 28px; }
 .tab-panel { display: none; }
-.tab-panel.active { display: block; }
+/* Coluna com respiro fixo entre os blocos da tela. As margens verticais dos
+   filhos diretos são zeradas para não somar com o gap. */
+.tab-panel.active { display: flex; flex-direction: column; gap: 22px; }
+.tab-panel.active > * { margin-top: 0; margin-bottom: 0; }
 
-.hint { color: var(--ink-soft); font-size: 0.92rem; margin-top: -6px; }
+.hint { color: var(--ink-soft); font-size: 0.875rem; margin-top: 0; }
 
-/* Day nav */
-.day-nav {
-  display: flex; align-items: center; justify-content: space-between;
-  margin-bottom: 16px; gap: 8px; flex-wrap: wrap;
-}
-.day-label { font-weight: 700; text-align: center; }
-.day-date { display: block; font-weight: 400; color: var(--ink-soft); font-size: 0.85rem; }
+/* Navegação de dia: vive no cabeçalho da página, ao lado dos indicadores. */
+.day-nav { display: flex; align-items: center; gap: 8px; }
+.day-nav .btn { font-size: 0.8125rem; padding: 7px 12px; }
+.day-label { font-weight: 600; font-size: 0.8125rem; color: var(--ink-faint); }
+.day-date { color: var(--ink-faint); }
 .phase-label {
-  display: inline-block; margin-left: 8px; background: var(--warn-soft); color: var(--warn);
-  border-radius: 999px; padding: 2px 10px; font-size: 0.72rem; font-weight: 700;
-  text-transform: uppercase; letter-spacing: 0.03em; vertical-align: middle;
+  display: inline-block; background: var(--warn-soft); color: var(--warn);
+  border-radius: 5px; padding: 4px 8px; font-size: 0.656rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: 0.06em; vertical-align: middle;
 }
+.phase-label:empty { display: none; }
 .friday-note {
   background: var(--accent-soft); color: var(--ink); border-radius: 10px; padding: 10px 14px;
   font-size: 0.88rem; margin-bottom: 16px;
 }
 
-/* Lesson card */
+/* Lesson card — o cartão "questões do dia" de cada frente. */
 .lesson-card {
   background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
-  padding: 20px; margin-bottom: 18px; box-shadow: var(--shadow);
+  padding: 24px 26px; margin-bottom: 18px; box-shadow: none;
 }
+.lesson-card:last-child { margin-bottom: 0; }
 .lesson-eyebrow {
-  text-transform: uppercase; font-size: 0.72rem; letter-spacing: 0.06em;
-  color: var(--accent); font-weight: 700; margin-bottom: 4px;
+  font: 700 0.625rem/1 var(--font-mono); text-transform: uppercase; letter-spacing: 0.1em;
+  color: var(--ink-faint); font-weight: 700; margin-bottom: 8px;
 }
-.lesson-card h3 { margin: 0 0 6px; }
-.lesson-desc { color: var(--ink-soft); margin: 0 0 14px; }
+.lesson-card h3 { margin: 0 0 6px; font-size: 1.0625rem; }
+.lesson-desc { color: var(--ink-soft); margin: 0 0 14px; font-size: 0.875rem; line-height: 1.6; }
 .video-links { margin-bottom: 6px; }
 .visit-badge {
   display: inline-block; background: var(--warn-soft); color: var(--warn);
-  border-radius: 999px; padding: 3px 10px; font-size: 0.78rem; font-weight: 700; margin-left: 8px;
+  border-radius: 5px; padding: 4px 8px; font-size: 0.656rem; font-weight: 700;
+  letter-spacing: 0.06em; text-transform: uppercase; margin-left: 8px; vertical-align: middle;
 }
 
 /* Achado 1: teoria por frente (gatilhos e pegadinhas) */
@@ -311,28 +668,22 @@ body {
 /* Exercises */
 .exercise-block { margin-top: 18px; }
 .exercise-summary {
-  display: flex; justify-content: space-between; align-items: center;
-  font-weight: 700; margin-bottom: 10px;
+  display: flex; justify-content: space-between; align-items: center; gap: 14px; flex-wrap: wrap;
+  font-size: 0.78rem; color: var(--ink-faint); font-weight: 500;
+  padding-bottom: 14px; margin-bottom: 4px; border-bottom: 1px solid var(--border);
 }
+.score-label { display: flex; align-items: center; gap: 12px; }
 .question {
-  border-top: 1px solid var(--border); padding: 16px 0;
+  border-top: 1px solid var(--border); padding: 24px 0;
 }
 .question:first-child { border-top: none; }
+/* O texto de apoio vira citação com barra à esquerda em vez de caixa cinza:
+   ele É a leitura da questão, não um aviso do sistema. */
 .q-support {
-  background: var(--bg); border-radius: 10px; padding: 12px 14px; margin-bottom: 10px;
-  font-size: 0.92rem; color: var(--ink-soft); white-space: pre-wrap;
+  background: none; border-left: 2px solid var(--border); border-radius: 0;
+  padding: 0 0 0 14px; margin-bottom: 12px;
+  font-size: 0.845rem; color: var(--ink-soft); line-height: 1.6; white-space: pre-wrap;
 }
-/* Seletor de modo do simulado de domingo: adaptativo de 45 ou o caderno
-   oficial de 60 de cada banca. */
-.simulado-modos { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 12px; }
-.simulado-modo-btn {
-  border: 1px solid var(--border); background: var(--bg); color: var(--ink-soft);
-  border-radius: 999px; padding: 5px 13px; font-size: 0.82rem; font-weight: 600;
-  cursor: pointer; font-family: inherit;
-}
-.simulado-modo-btn:hover { border-color: var(--accent); color: var(--accent); }
-.simulado-modo-btn.ativo { background: var(--accent); border-color: var(--accent); color: #fff; }
-
 /* Fronteira de bloco no simulado oficial. É ela que o candidato precisa
    sentir: é onde ele decide se volta às questões que pulou. */
 .simulado-bloco {
@@ -360,11 +711,11 @@ body {
   padding-left: 10px; border-left: 3px solid var(--border);
 }
 .q-tag {
-  display: inline-block; text-transform: uppercase; font-size: 0.7rem; letter-spacing: 0.04em;
-  font-weight: 700; color: var(--accent); background: var(--accent-soft); border-radius: 999px;
-  padding: 3px 10px; margin-bottom: 8px;
+  display: inline-block; text-transform: uppercase; font-size: 0.656rem; letter-spacing: 0.06em;
+  font-weight: 700; color: var(--ink-soft); background: var(--accent-soft); border-radius: 5px;
+  padding: 4px 8px; margin-bottom: 8px;
 }
-.q-enunciado { font-weight: 600; margin-bottom: 10px; white-space: pre-wrap; }
+.q-enunciado { font-weight: 600; font-size: 0.97rem; line-height: 1.5; margin-bottom: 12px; white-space: pre-wrap; }
 .q-visual {
   margin: 0 0 10px; padding: 12px 14px; background: var(--bg); border-radius: 10px;
   border: 1px solid var(--border);
@@ -380,21 +731,24 @@ body {
   padding: 2px 8px; margin-right: 8px; vertical-align: middle;
 }
 .q-difficulty {
-  display: inline-block; font-size: 0.68rem; font-weight: 700; text-transform: uppercase;
-  letter-spacing: 0.03em; border-radius: 999px; padding: 2px 8px; vertical-align: middle;
+  display: inline-block; font-size: 0.656rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.06em; border-radius: 5px; padding: 3px 7px; vertical-align: middle;
   margin-left: 4px;
 }
 .q-difficulty-media { background: var(--warn-soft); color: var(--warn); }
 .q-difficulty-dificil { background: var(--bad-soft); color: var(--bad); }
-.simulado-card { border-color: var(--warn); }
-.q-alts { display: flex; flex-direction: column; gap: 8px; }
+.simulado-card { border-color: var(--warn-border); }
+/* As alternativas recuam sob o enunciado: o recuo é o que agrupa visualmente
+   pergunta e respostas quando várias questões dividem a mesma tela. */
+.q-alts { display: flex; flex-direction: column; gap: 8px; padding-left: 32px; }
 .q-alt {
-  display: flex; gap: 10px; align-items: flex-start; border: 1px solid var(--border);
-  border-radius: 10px; padding: 10px 12px; cursor: pointer; background: var(--surface);
+  display: flex; gap: 11px; align-items: flex-start; border: 1px solid var(--border-strong);
+  border-radius: var(--radius-sm); padding: 12px 14px; cursor: pointer; background: var(--surface);
+  font-size: 0.9rem; color: var(--ink);
 }
 /* Só a questão ainda aberta reage ao hover — depois de verificada, as bordas
    pertencem ao gabarito (.correct/.incorrect) e não devem piscar no mouse. */
-.question:not(.is-answered) .q-alt:hover { border-color: var(--accent); }
+.question:not(.is-answered) .q-alt:hover { border-color: var(--accent); background: #F7F9FB; }
 .q-alt input { margin-top: 3px; }
 .q-alt.correct { background: var(--good-soft); border-color: var(--good); }
 .q-alt.incorrect { background: var(--bad-soft); border-color: var(--bad); }
@@ -403,17 +757,30 @@ body {
 /* Confirmação em dois passos: marcar a alternativa não responde a questão —
    só o "Verificar resposta" grava e revela o gabarito. Um toque acidental
    (ou um esbarrão no celular) passa a ser reversível. */
-.q-confirm { display: flex; align-items: center; gap: 12px; margin-top: 12px; flex-wrap: wrap; }
+.q-confirm { display: flex; align-items: center; gap: 14px; margin-top: 14px; padding-left: 32px; flex-wrap: wrap; }
 .q-verify {
-  background: var(--accent); color: var(--accent-ink); padding: 9px 18px; font-size: 0.9rem;
+  background: var(--accent); color: var(--accent-ink); border-color: var(--accent);
+  padding: 11px 20px; font-size: 0.875rem;
 }
-.q-verify:disabled { opacity: 0.4; cursor: default; }
-.q-verify-hint { font-size: 0.82rem; color: var(--ink-soft); }
+/* Desabilitado é um estado próprio, não o botão principal com opacidade: em
+   cinza cheio ele deixa de parecer "quase clicável" e passa a dizer que falta
+   escolher uma alternativa. */
+.q-verify:disabled {
+  opacity: 1; cursor: default;
+  background: var(--accent-soft); color: var(--ink-fainter); border-color: var(--border-strong);
+}
+.q-verify-hint { font-size: 0.8125rem; color: var(--ink-faint); }
+/* O comentário do gabarito é citação, não caixa: a barra à esquerda na cor do
+   resultado diz se acertou sem pintar o parágrafo inteiro. */
 .q-feedback {
-  margin-top: 10px; padding: 10px 12px; border-radius: 10px; font-size: 0.92rem;
+  margin: 10px 0 0 32px; padding: 12px 16px; border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  font-size: 0.845rem; line-height: 1.6;
 }
-.q-feedback.correct { background: var(--good-soft); color: var(--good); }
-.q-feedback.incorrect { background: var(--bad-soft); color: var(--bad); }
+.q-feedback.correct { background: var(--good-soft); color: #155E56; border-left: 2px solid var(--good); }
+.q-feedback.incorrect { background: var(--bad-soft); color: var(--bad); border-left: 2px solid var(--bad); }
+@media (prefers-color-scheme: dark) {
+  .q-feedback.correct { color: var(--good); }
+}
 
 /* Achado 8: transparência do motor adaptativo (lista de foco pós-simulado) */
 .focus-list { margin: 6px 0 0; padding-left: 20px; }
@@ -428,64 +795,11 @@ body {
 }
 .extras-actions { margin-top: 14px; }
 
-/* Achado 14: checklist "X/Y do dia" */
-.day-checklist {
-  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
-  padding: 12px 16px; margin-bottom: 16px; box-shadow: var(--shadow);
-}
-.day-checklist-header { font-weight: 700; margin-bottom: 6px; }
-.day-checklist-list { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px 16px; }
-.day-checklist-list li { color: var(--ink-soft); font-size: 0.9rem; }
-.day-checklist-list li.task-done { color: var(--good); }
+/* Achado 14: checklist "X/Y do dia" — virou o cartão "Tarefas de hoje" ao
+   lado do cartão de foco (ver .tarefas-card no bloco de Hoje). */
 
-/* Calendar */
-.calendar-grid {
-  display: grid; grid-template-columns: repeat(10, 1fr); gap: 6px; margin: 16px 0;
-}
-@media (max-width: 640px) {
-  .calendar-grid { grid-template-columns: repeat(7, 1fr); }
-}
-.cal-day {
-  aspect-ratio: 1; border-radius: 8px; border: 1px solid var(--border);
-  display: flex; align-items: center; justify-content: center;
-  font-size: 0.78rem; font-weight: 700; cursor: pointer; background: var(--surface); color: var(--ink-soft);
-}
-.cal-day.status-pending { background: var(--surface); }
-.cal-day.status-partial { background: var(--warn-soft); color: var(--warn); border-color: var(--warn); }
-.cal-day.status-done { background: var(--good-soft); color: var(--good); border-color: var(--good); }
-.cal-day.is-today { outline: 2px solid var(--accent); outline-offset: 1px; }
-.cal-day--simulado { border-style: dashed; border-width: 2px; }
-
-.legend { display: flex; gap: 16px; flex-wrap: wrap; font-size: 0.85rem; color: var(--ink-soft); }
-.legend-item { display: flex; align-items: center; gap: 6px; }
-.dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
-.dot-pending { background: var(--border); }
-.dot-partial { background: var(--warn); }
-.dot-done { background: var(--good); }
-.dot-today { background: var(--accent); }
-.dot-simulado { background: var(--surface); border: 2px dashed var(--warn); }
-
-/* Progress */
-.progress-list { display: flex; flex-direction: column; gap: 10px; margin: 16px 0; }
-.progress-row {
-  background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
-  padding: 14px 16px;
-}
-.progress-row-top { display: flex; justify-content: space-between; margin-bottom: 8px; gap: 10px; flex-wrap: wrap; }
-.progress-row-top .name { font-weight: 700; }
-.progress-row-top .stat { color: var(--ink-soft); font-size: 0.88rem; }
-.bar-track { background: var(--bg); border-radius: 999px; height: 8px; overflow: hidden; }
-.bar-fill { background: var(--accent); height: 100%; border-radius: 999px; }
-
-/* Achado 5: score projetado */
-.projected-score-card { padding: 20px; margin: 16px 0; }
-.projected-score-card h3 { margin: 0 0 4px; }
-.projected-score-value { font-size: 2.4rem; font-weight: 800; color: var(--accent); margin: 8px 0 4px; }
-.score-sparkline {
-  display: flex; align-items: flex-end; gap: 3px; height: 40px; margin-top: 10px;
-  border-bottom: 1px solid var(--border);
-}
-.spark-bar { flex: 1; background: var(--accent-soft); border-radius: 2px 2px 0 0; min-height: 4px; }
+/* Calendário, progresso e score projetado: as regras vivem no bloco das telas
+   internas, no fim do arquivo, junto das outras do redesenho. */
 
 /* Achado 6: índice de prontidão por área */
 .readiness-row { display: flex; align-items: center; gap: 8px; margin-top: 8px; }
@@ -504,43 +818,12 @@ body {
 .diag-row { margin-bottom: 8px; }
 .diag-row-top { display: flex; justify-content: space-between; font-size: 0.85rem; margin-bottom: 4px; }
 
-.official-exams-card { padding: 20px; margin-top: 24px; }
-.official-exams-card h3 { margin: 0 0 8px; }
-.danger-zone { margin-top: 28px; text-align: right; }
-
-/* Simulados */
-.simulado-list-row {
-  display: block; width: 100%; text-align: left; font: inherit; cursor: pointer;
-  color: inherit; appearance: none;
-}
-.simulado-status { font-size: 0.9rem; font-weight: 600; }
-.simulado-status-pending { color: var(--ink-soft); }
-.simulado-status-partial { color: var(--warn); }
-.simulado-status-done { color: var(--good); }
-
-/* Achado 2: Flashcards com repetição espaçada */
-.flashcard-summary-card { padding: 20px; margin: 14px 0 20px; }
-.flashcard {
-  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
-  box-shadow: var(--shadow); padding: 28px 24px; margin: 16px 0; min-height: 140px;
-}
-.flashcard-front { font-size: 1.15rem; font-weight: 600; text-align: center; }
-.flashcard-back { border-top: 1px solid var(--border); margin-top: 20px; padding-top: 20px; }
-.flashcard-explicacao { color: var(--ink-soft); font-size: 0.92rem; text-align: center; }
-
-/* Achado 13: Obras obrigatórias */
-.obras-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; margin-top: 16px; }
-.obra-card { margin-bottom: 0; }
-.obra-card.obra-studied { border-color: var(--good); }
+/* Provas oficiais, zona de perigo, simulados, flashcards e obras: as regras
+   vivem no bloco das telas internas, no fim do arquivo. */
+.flashcard-summary-card { padding: 20px 22px; }
 
 /* "Capa" ilustrativa original (ícone + tipografia) — ver nota em app.js
    sobre por que não usamos imagens reais de capa/pintura/álbum aqui. */
-.obra-cover {
-  aspect-ratio: 3 / 4; border-radius: 10px; margin-bottom: 14px; padding: 18px;
-  display: flex; flex-direction: column; align-items: center; justify-content: center;
-  text-align: center; gap: 10px; background: var(--bg); color: var(--ink-soft);
-  border: 1px solid var(--border); overflow: hidden;
-}
 .obra-cover.cat-ensaio { background: var(--cat-ensaio-soft); color: var(--cat-ensaio); }
 .obra-cover.cat-literatura { background: var(--cat-literatura-soft); color: var(--cat-literatura); }
 .obra-cover.cat-artes { background: var(--cat-artes-soft); color: var(--cat-artes); }
@@ -570,13 +853,14 @@ body {
   font-size: 0.9rem;
 }
 .dissert-actions { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 14px; }
-.area-filter { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin: 4px 0 16px; }
-.area-filter-label { font-size: 0.85rem; color: var(--ink-soft); margin-right: 4px; }
+.area-filter { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin: 0; }
+.area-filter-label { font-size: 0.78rem; color: var(--ink-faint); margin-right: 4px; }
 .area-pill {
-  font: inherit; font-size: 0.82rem; font-weight: 600; border: 1px solid var(--border);
-  background: var(--surface); color: var(--ink-soft); border-radius: 999px; padding: 5px 12px;
+  font: inherit; font-size: 0.8125rem; font-weight: 600; border: 1px solid var(--border-strong);
+  background: var(--surface); color: var(--ink-soft); border-radius: 99px; padding: 6px 14px;
   cursor: pointer;
 }
+.area-pill:hover { border-color: var(--accent); }
 .area-pill.active { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
 .dissert-questions { display: flex; flex-direction: column; gap: 22px; }
 .dissert-question { border-top: 1px solid var(--border); padding-top: 16px; }
@@ -598,15 +882,13 @@ body {
 .dissert-gabarito input { margin-top: 3px; flex-shrink: 0; }
 
 /* ---------- v2: login com Google ---------- */
-.login-card { text-align: center; }
-.login-card .pitch-list { text-align: left; }
-
 .btn-google {
   display: flex; align-items: center; justify-content: center; gap: 10px;
   background: var(--surface); color: var(--ink);
-  border: 1px solid var(--border); font-weight: 600;
+  border: 1px solid var(--border-strong); font-weight: 600;
+  font-size: 0.9rem; padding: 13px 18px;
 }
-.btn-google:hover:not(:disabled) { background: var(--bg); }
+.btn-google:hover:not(:disabled) { background: #F7F9FB; border-color: var(--accent); }
 .btn-google:disabled { opacity: 0.6; cursor: default; }
 .btn-google.is-loading { color: transparent; position: relative; }
 .btn-google.is-loading::after {
@@ -622,61 +904,48 @@ body {
 }
 .login-note { margin: 14px 0 0; font-size: 0.85rem; color: var(--ink-soft); }
 
-/* Chip do usuário logado, no cabeçalho */
-.user-chip {
-  display: flex; align-items: center; gap: 8px;
-  background: var(--header-pill-bg); border-radius: 999px; padding: 4px 6px 4px 4px;
-}
-.user-avatar { width: 28px; height: 28px; border-radius: 50%; display: block; }
+/* Identificação do usuário — agora no pé da barra lateral, sobre o navy.
+   Saiu do cabeçalho porque "quem sou eu" é informação de contexto permanente,
+   não algo que se consulta a cada tela; e porque o cabeçalho passou a ser
+   branco e a ser do ASSUNTO da página. */
+.user-chip { display: flex; align-items: center; gap: 10px; min-width: 0; }
+.user-avatar { width: 30px; height: 30px; border-radius: 50%; display: block; flex: none; background: #2A415C; }
+.user-avatar[hidden] { display: none; }
+/* Sem foto, resta o círculo vazio do desenho no lugar da imagem. */
+.user-avatar-fallback { width: 30px; height: 30px; border-radius: 50%; background: #2A415C; flex: none; }
+.user-textos { display: flex; flex-direction: column; min-width: 0; }
 .user-name {
-  color: var(--header-ink); font-size: 0.88rem; font-weight: 600;
-  max-width: 140px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  color: #fff; font-size: 0.8125rem; font-weight: 600;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
 }
-.btn-logout { color: var(--header-ink-soft); padding: 4px 8px; font-size: 0.85rem; }
-.btn-logout:hover { color: var(--header-ink); }
+.user-trilha { font-size: 0.6875rem; color: #7A8DA4; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
-@media (max-width: 720px) {
-  .user-name { display: none; }
-}
-
-/* Indicador de sincronização, ao lado do nome do usuário */
+/* Os dois indicadores do cabeçalho branco. Ambos são contorno e não
+   preenchimento: informam sem pedir clique. */
 .sync-status {
-  font-size: 0.72rem; font-weight: 600; padding: 3px 8px; border-radius: 999px;
-  white-space: nowrap; background: var(--header-pill-bg); color: var(--header-ink-soft);
+  font-size: 0.75rem; font-weight: 500; padding: 7px 11px; border-radius: 7px;
+  white-space: nowrap; border: 1px solid var(--border); color: var(--ink-faint); background: var(--surface);
 }
-.sync-status[data-state="ok"] { color: #86EFAC; }
-.sync-status[data-state="saving"] { color: var(--header-ink-soft); }
-.sync-status[data-state="error"] { color: #FCA5A5; }
+.sync-status[data-state="ok"] { color: var(--good); border-color: var(--good-border); background: var(--good-soft); }
+.sync-status[data-state="saving"] { color: var(--ink-faint); }
+.sync-status[data-state="error"] { color: var(--bad); border-color: var(--bad-border); background: var(--bad-soft); }
 
-@media (max-width: 900px) {
-  /* No celular o cabeçalho é apertado: escondemos o status quando está tudo
-     certo, mas o aviso de "não estou salvando na nuvem" continua aparecendo —
-     é justamente o caso em que a pessoa precisa saber. */
-  .sync-status { display: none; }
-  .sync-status[data-state="error"] { display: inline-block; }
-}
-
-/* Ofensiva (streak) — chip no cabeçalho */
+/* Ofensiva (streak) — chip no cabeçalho da página */
 .streak-chip {
-  display: inline-flex; align-items: center; gap: 4px;
-  padding: 3px 10px 3px 8px; border-radius: 999px;
-  background: rgba(255,255,255,0.12); cursor: default; user-select: none;
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 0.8125rem; font-weight: 600; color: var(--ink);
+  border: 1px solid var(--border); border-radius: 7px; padding: 7px 11px;
+  cursor: default; user-select: none; white-space: nowrap;
 }
-.streak-flame { font-size: 0.95rem; line-height: 1; }
-.streak-count { font-weight: 800; font-size: 0.9rem; color: var(--header-ink); }
+.streak-flame { font-size: 0.875rem; line-height: 1; }
 
 /* Sem ofensiva ativa: chama menos atenção */
-.streak-chip[data-state="off"] { opacity: 0.5; }
-.streak-chip[data-state="off"] .streak-flame { filter: grayscale(1); }
+.streak-chip[data-state="off"] { color: var(--ink-fainter); }
+.streak-chip[data-state="off"] .streak-flame { filter: grayscale(1); opacity: 0.6; }
 
-/* Ofensiva viva hoje */
-.streak-chip[data-state="on"] { background: rgba(249,115,22,0.22); }
-.streak-chip[data-state="on"] .streak-count { color: #FDBA74; }
-
-/* Ofensiva em risco: existe, mas ainda não estudou hoje */
-.streak-chip[data-state="risco"] { background: rgba(201,162,39,0.22); }
-.streak-chip[data-state="risco"] .streak-count { color: #FDE68A; }
-.streak-chip[data-state="risco"] .streak-flame { opacity: 0.65; }
+/* Ofensiva em risco: existe, mas ainda não estudou hoje. É o único dos três
+   estados que pede ação, então é o único que ganha o creme do ouro. */
+.streak-chip[data-state="risco"] { background: var(--warn-soft); border-color: var(--warn-border); color: var(--warn); }
 
 /* Reportar problema numa questão (v2) — discreto: estudar vem primeiro */
 .q-report { margin-top: 8px; }
@@ -713,54 +982,41 @@ body {
   font: inherit; background: var(--surface); color: var(--ink);
 }
 
-/* ---------- Aba Redação ---------- */
-/* O contador de palavras usa .hint, que tem margin-top negativo pra colar em
-   títulos; logo abaixo de um textarea isso o gruda na borda. Aqui a margem é
-   redefinida. */
-.redacao-contador { margin: 2px 0 12px; font-size: 0.85rem; }
-.redacao-grade-wrap {
-  margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--border);
-}
-.redacao-grade-wrap .dissert-gabarito li { margin-bottom: 8px; }
-.redacao-grade-wrap .dissert-gabarito label {
-  display: flex; gap: 8px; align-items: flex-start; cursor: pointer;
-}
 /* ---------- Escolha de trilha (Direito / Medicina) ---------- */
 /* Cartões grandes e clicáveis: é a primeira decisão que a pessoa toma no app,
    e escolher errado custa um replanejamento inteiro. Por isso cada cartão diz
    não só o nome do curso, mas o que a prova daquele curso mede. */
 .trilha-cards {
-  display: grid;
-  gap: 12px;
-  margin: 4px 0 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 4px 0 0;
 }
 .trilha-card {
   display: flex;
   flex-direction: column;
-  gap: 4px;
+  gap: 5px;
   text-align: left;
-  padding: 18px 20px;
-  border: 1px solid var(--border);
+  padding: 20px 22px;
+  border: 1px solid var(--border-strong);
   border-radius: var(--radius);
   background: var(--surface);
   cursor: pointer;
   font: inherit;
   color: inherit;
-  transition: border-color .15s, box-shadow .15s, transform .15s;
+  transition: border-color .15s, background-color .15s;
 }
-.trilha-card:hover:not(:disabled) {
-  border-color: var(--accent);
-  box-shadow: 0 2px 10px rgba(30, 64, 175, .12);
-  transform: translateY(-1px);
-}
-.trilha-card:focus-visible {
-  outline: 2px solid var(--accent);
-  outline-offset: 2px;
-}
+.trilha-card:hover:not(:disabled) { border-color: var(--accent); background: #F7F9FB; }
+.trilha-card:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .trilha-card:disabled { opacity: .55; cursor: default; }
-.trilha-card-nome { font-size: 1.15rem; font-weight: 700; color: var(--ink); }
-.trilha-card-bancas { font-size: .82rem; font-weight: 600; color: var(--accent); }
-.trilha-card-resumo { font-size: .9rem; color: var(--ink-soft); line-height: 1.45; }
+.trilha-card-nome { font-family: var(--font-brand); font-size: 1.125rem; font-weight: 600; color: var(--ink); }
+/* O ouro escuro é legível sobre branco (5:1) e amarra o cartão à marca sem
+   usar o ouro claro, que sobre branco daria 1,7:1. */
+.trilha-card-bancas {
+  font-size: .78rem; font-weight: 700; color: var(--brand-gold);
+  letter-spacing: .04em; text-transform: uppercase;
+}
+.trilha-card-resumo { font-size: .845rem; color: var(--ink-soft); line-height: 1.5; }
 
 /* O card de troca de trilha fica na aba de progresso, acima da zona de perigo,
    e NÃO é destrutivo — por isso usa o botão secundário, não o vermelho. */
@@ -771,38 +1027,418 @@ body {
    o `display:flex` que a barra de abas aplica nos botões. */
 .tab-btn[hidden] { display: none !important; }
 
-/* ---------- Aba Buscar ----------
-   Tudo em cima das variáveis de :root, que o bloco @media (prefers-color-scheme:
-   dark) lá em cima redefine — então o modo escuro sai de graça, sem regra
-   própria aqui. Os filtros e as sugestões reaproveitam .area-filter/.area-pill,
-   já usados no filtro de categoria da aba Obras. */
-.busca-input {
-  width: 100%; box-sizing: border-box; padding: 13px 16px; margin: 4px 0 12px;
-  font: inherit; font-size: 1rem; color: var(--ink);
-  background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+/* Separador do bloco da outra trilha. A borda à esquerda é o sinal de que dali
+   pra baixo as questões não contam para o progresso de quem está estudando.
+   O resto das regras da busca vive no bloco das telas internas, no fim. */
+.busca-outra-trilha {
+  margin: 0; padding: 16px 26px;
+  border-left: 3px solid var(--warn-border); background: var(--warn-soft);
+  font-size: 0.8125rem; color: var(--warn);
 }
-.busca-input::placeholder { color: var(--ink-soft); opacity: .75; }
-.busca-input:focus {
-  outline: none; border-color: var(--accent);
-  box-shadow: 0 0 0 3px var(--accent-soft);
-}
-.busca-sugestoes { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
 
-/* O assunto escolhido. Fica em destaque porque muda o QUE a busca faz — com ele
-   a procura é pelos sinônimos do assunto, sem ele é pelo texto digitado. */
+/* ═══════════════════════════════════════════════════════════════════════════
+   PADRÕES COMPARTILHADOS DAS TELAS INTERNAS
+   ═════════════════════════════════════════════════════════════════════════ */
+
+/* Duas colunas: o assunto à esquerda, o apoio à direita. Repete-se em
+   Calendário, Flashcards, Redação e Progresso — sempre com o apoio numa
+   largura fixa, porque é ele que deve ceder espaço, nunca o conteúdo. */
+.painel-2col { display: flex; gap: 22px; align-items: flex-start; }
+.painel-2col > .col-principal { flex: 1; min-width: 0; }
+.painel-2col > .col-apoio { flex: none; width: 300px; display: flex; flex-direction: column; gap: 14px; }
+.painel-2col > .col-apoio-larga { width: 320px; }
+.painel-2col > .col-apoio-estreita { width: 280px; }
+
+/* Cartão navy: o bloco que responde "o que fazer agora". Um por tela, no
+   máximo — é o irmão escuro do botão de ouro. */
+.card-navy {
+  background: var(--accent); border-radius: var(--radius); padding: 24px 26px;
+  color: #fff; display: flex; flex-direction: column; gap: 14px;
+}
+.card-navy h3, .card-navy h2 { color: #fff; margin: 0; }
+.card-navy .texto-apoio { font-size: 0.845rem; color: #A8B6C8; line-height: 1.55; }
+/* No modo escuro o fundo da página já é navy: o cartão precisa de uma borda
+   para não desaparecer, e o texto de apoio precisa de mais contraste. */
+@media (prefers-color-scheme: dark) {
+  .card-navy { background: #12293F; border: 1px solid rgba(255,255,255,.14); }
+  .card-navy .texto-apoio { color: var(--ink-soft); }
+}
+
+/* Grade de células com divisória de 1px feita pelo fundo. */
+.grade-celulas {
+  display: grid; gap: 1px; background: var(--border);
+  border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden;
+}
+.grade-celulas > * { background: var(--surface); }
+
+/* Cartão com cabeçalho e linhas — tabela, lista de resultados, fila. */
+.card-lista { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; }
+.card-lista-head {
+  padding: 18px 24px; border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap;
+}
+.card-lista-head h3 { margin: 0; font-size: 1.0625rem; }
+.card-lista-linha { padding: 16px 24px; border-bottom: 1px solid var(--border); display: flex; gap: 18px; align-items: center; }
+.card-lista-linha:last-child { border-bottom: none; }
+
+/* Medidor fino: 3 de 12 respondidas, nota por critério, acerto por frente. */
+.medidor { height: 5px; border-radius: 99px; background: var(--accent-soft); overflow: hidden; }
+.medidor > i { display: block; height: 100%; border-radius: 99px; background: var(--accent); }
+.medidor-grosso { height: 6px; }
+
+/* Selos de estado. Verde e vermelho só aparecem aqui e no gabarito. */
+.selo {
+  display: inline-block; font-size: 0.656rem; font-weight: 700; letter-spacing: 0.06em;
+  text-transform: uppercase; border-radius: 5px; padding: 4px 8px; vertical-align: middle;
+}
+.selo-ok { color: var(--good); background: var(--good-soft); }
+.selo-revisao { color: var(--warn); background: var(--warn-soft); }
+.selo-erro { color: var(--bad); background: var(--bad-soft); }
+.selo-pendente { color: var(--ink-soft); background: var(--accent-soft); }
+
+/* ── 3a · HOJE ─────────────────────────────────────────────────────────── */
+/* O painel curto no topo responde, em ordem: o que estudar agora (o cartão
+   navy), o que falta hoje (as tarefas) e como estou indo (as métricas). As
+   questões vêm logo abaixo, sem nada ter saído da tela. */
+/* #day-content é o único filho da aba Hoje, então é ele que carrega a coluna
+   e o respiro entre painel curto, métricas e questões. */
+#day-content { display: flex; flex-direction: column; gap: 22px; }
+.hoje-topo { display: grid; grid-template-columns: 1.55fr 1fr; gap: 16px; align-items: start; }
+
+.foco-card-titulo { display: flex; flex-direction: column; gap: 6px; }
+.foco-card h3 { font-size: 1.625rem; }
+.foco-acoes { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 4px; }
+.foco-aula {
+  margin-top: 8px; border-top: 1px solid rgba(255,255,255,.12); padding-top: 16px;
+  display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap;
+}
+.foco-aula-tema { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.foco-aula-nome { font-size: 0.9rem; font-weight: 600; color: #fff; }
+.foco-aula-link {
+  display: inline-flex; align-items: center; gap: 9px; text-decoration: none;
+  font-size: 0.875rem; font-weight: 600; color: #fff; background: transparent;
+  border: 1px solid rgba(255,255,255,.25); border-radius: var(--radius-sm); padding: 11px 18px;
+}
+.foco-aula-link:hover { border-color: #fff; background: rgba(255,255,255,.06); }
+.foco-play {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 22px; height: 16px; border-radius: 4px;
+  background: var(--brand-gold-on-navy); color: #0A1F38; font-size: 8px; flex: none;
+}
+
+.tarefas-card {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 20px 22px; display: flex; flex-direction: column; gap: 14px;
+}
+.tarefas-head { display: flex; align-items: baseline; justify-content: space-between; }
+.tarefas-titulo { font-size: 0.8125rem; font-weight: 600; color: var(--ink); }
+.tarefas-contador { font-family: var(--font-brand); font-size: 0.8125rem; font-weight: 600; color: var(--ink-faint); }
+.tarefas-lista { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 9px; }
+.tarefas-lista li { display: flex; align-items: center; gap: 9px; font-size: 0.845rem; color: var(--ink); }
+.tarefa-marca {
+  width: 16px; height: 16px; border-radius: 50%; border: 1px solid var(--border-strong);
+  background: var(--surface); color: #fff; font-size: 10px;
+  display: flex; align-items: center; justify-content: center; flex: none;
+}
+.tarefas-lista li.task-done { color: var(--ink-soft); }
+.tarefas-lista li.task-done .tarefa-marca { border-color: var(--good); background: var(--good); }
+
+.metricas { grid-template-columns: repeat(4, 1fr); }
+.metrica { padding: 18px 20px; display: flex; flex-direction: column; gap: 5px; }
+.metrica-label {
+  font-size: 0.719rem; letter-spacing: 0.04em; text-transform: uppercase;
+  color: var(--ink-faint); font-weight: 700;
+}
+.metrica-valor { font-family: var(--font-brand); font-size: 1.625rem; font-weight: 600; color: var(--ink); }
+.metrica-nota { font-size: 0.78rem; color: var(--ink-faint); }
+.metrica-nota-boa { color: var(--good); }
+.metrica-nota-alerta { color: var(--alert); }
+
+.friday-note {
+  background: var(--warn-soft); color: var(--warn); border-left: 3px solid var(--warn-border);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0; padding: 12px 16px;
+  font-size: 0.8125rem; margin: 0;
+}
+
+/* ── 04 · CALENDÁRIO ───────────────────────────────────────────────────── */
+/* A grade virou treze linhas de sete dias porque a semana é a unidade real do
+   plano: o domingo é sempre simulado, e numa grade de dez colunas o domingo
+   caía numa coluna diferente a cada linha. */
+.cal-card {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 24px 26px; display: flex; flex-direction: column; gap: 18px;
+}
+.cal-card-head { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
+.cal-card-head h3 { margin: 0; font-size: 1.0625rem; }
+.calendar-grid { display: flex; flex-direction: column; gap: 6px; margin: 0; }
+.cal-semana { display: flex; align-items: center; gap: 14px; }
+.cal-semana-rotulo { font: 700 0.625rem/1 var(--font-mono); color: var(--ink-fainter); width: 56px; flex: none; }
+.cal-semana-dias { flex: 1; display: grid; grid-template-columns: repeat(7, 1fr); gap: 6px; }
+.cal-day {
+  height: 38px; border-radius: 6px; border: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.78rem; font-weight: 600; cursor: pointer;
+  background: var(--bg); color: var(--ink-fainter);
+  aspect-ratio: auto;
+}
+.cal-day:hover { border-color: var(--accent); }
+.cal-day.status-pending { background: var(--bg); }
+.cal-day.status-partial { background: var(--warn-soft); color: var(--warn); border-color: var(--warn-border); }
+.cal-day.status-done { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+/* Hoje é ouro e vence qualquer outro estado — é o único dia que a pessoa
+   precisa achar sem procurar. */
+.cal-day.is-today { background: var(--brand-gold-on-navy); color: #0A1F38; border-color: var(--brand-gold-on-navy); outline: none; }
+.cal-day--simulado { border-style: dashed; border-color: var(--brand-gold); }
+.cal-day.is-today.cal-day--simulado { border-style: solid; }
+
+.legend { display: flex; gap: 16px; flex-wrap: wrap; font-size: 0.78rem; color: var(--ink-faint); }
+.legend-item { display: flex; align-items: center; gap: 6px; }
+.dot { width: 9px; height: 9px; border-radius: 2px; display: inline-block; }
+.dot-pending { background: #DCE2EB; }
+.dot-partial { background: var(--warn-border); }
+.dot-done { background: var(--accent); }
+.dot-today { background: var(--brand-gold-on-navy); }
+.dot-simulado { background: transparent; border: 1px dashed var(--brand-gold); }
+
+.fases-card {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 20px 22px; display: flex; flex-direction: column; gap: 14px;
+}
+.fases-card-titulo { font-size: 0.8125rem; font-weight: 600; }
+.fase-row { display: flex; gap: 12px; align-items: flex-start; }
+.fase-barra { width: 3px; align-self: stretch; border-radius: 2px; background: #DCE2EB; flex: none; }
+.fase-row.fase-atual .fase-barra { background: var(--brand-gold-on-navy); }
+.fase-nome { font-size: 0.845rem; font-weight: 600; }
+.fase-intervalo { font-size: 0.78rem; color: var(--ink-faint); }
+
+/* ── 05 · SIMULADOS ────────────────────────────────────────────────────── */
+.simulado-hero { flex-direction: row; align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap; }
+.simulado-hero-copy { display: flex; flex-direction: column; gap: 8px; max-width: 560px; }
+.simulado-hero-titulo { font-family: var(--font-brand); font-size: 1.5rem; font-weight: 600; }
+.simulado-modos { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; }
+.simulado-modo-btn {
+  border: 1px solid var(--border); background: var(--surface); color: var(--ink-soft);
+  border-radius: 7px; padding: 9px 16px; font-size: 0.845rem; font-weight: 600;
+  cursor: pointer; font-family: inherit;
+}
+.simulado-modo-btn:hover { border-color: var(--accent); }
+.simulado-modo-btn.ativo { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+
+.sim-table-head, .sim-table-row { display: grid; grid-template-columns: 60px 1fr 130px 120px 100px; gap: 16px; align-items: center; }
+.sim-table-head {
+  padding: 14px 24px; border-bottom: 1px solid var(--border);
+  font: 700 0.625rem/1 var(--font-mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-faint);
+}
+.sim-table-row { padding: 16px 24px; border-bottom: 1px solid var(--border); font-size: 0.875rem; }
+.sim-table-row:last-child { border-bottom: none; }
+.sim-n { font-family: var(--font-brand); font-weight: 600; color: var(--ink-faint); }
+.sim-nome { font-weight: 600; }
+.sim-data { color: var(--ink-faint); font-size: 0.8125rem; }
+.sim-acao { justify-self: end; font-size: 0.8125rem; font-weight: 600; text-decoration: none; color: var(--ink); border-bottom: 1px solid var(--border-strong); }
+.sim-acao:hover { border-color: var(--accent); }
+.simulado-list-row { display: contents; text-align: left; font: inherit; cursor: pointer; color: inherit; appearance: none; background: none; border: none; }
+.simulado-status { font-size: 0.875rem; font-weight: 600; }
+.simulado-status-pending { color: var(--ink-fainter); }
+.simulado-status-partial { color: var(--warn); }
+.simulado-status-done { color: var(--ink); }
+
+/* ── 06 · BUSCAR ───────────────────────────────────────────────────────── */
+.busca-card {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 24px 26px; display: flex; flex-direction: column; gap: 16px;
+}
+.busca-input {
+  width: 100%; box-sizing: border-box; padding: 14px 16px; margin: 0;
+  font: inherit; font-size: 0.9375rem; color: var(--ink);
+  background: var(--surface); border: 1px solid var(--border-strong); border-radius: var(--radius-sm);
+}
+.busca-input::placeholder { color: var(--ink-fainter); }
+.busca-input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+.busca-sugestoes { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin: 0; }
+.busca-sugestoes-label { font-size: 0.78rem; color: var(--ink-faint); margin-right: 4px; }
 .busca-assunto-ativo {
   display: inline-flex; align-items: center; gap: 8px;
-  padding: 7px 14px; font: inherit; font-size: .88rem; font-weight: 600;
+  padding: 6px 14px; font: inherit; font-size: .8125rem; font-weight: 600;
   color: var(--accent-ink); background: var(--accent);
-  border: 1px solid var(--accent); border-radius: 999px; cursor: pointer;
+  border: 1px solid var(--accent); border-radius: 99px; cursor: pointer;
 }
-.busca-assunto-ativo:hover { opacity: .9; }
+.busca-status { margin: 0; }
 .busca-status:empty { display: none; }
-.busca-status { margin: 0 0 12px; }
+.busca-resultado { padding: 20px 26px; border-bottom: 1px solid var(--border); display: flex; gap: 18px; align-items: flex-start; }
+.busca-resultado-frente {
+  font: 700 0.625rem/1.6 var(--font-mono); letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--ink-faint); width: 120px; flex: none;
+}
+.busca-resultado-corpo { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.busca-resultado-enunciado { font-size: 0.9rem; color: var(--ink); line-height: 1.55; }
+.busca-resultado-meta { font-size: 0.78rem; color: var(--ink-faint); }
 
-/* Separador do bloco da outra trilha. A borda à esquerda é o sinal de que dali
-   pra baixo as questões não contam para o progresso de quem está estudando. */
-.busca-outra-trilha {
-  margin: 22px 0 12px; padding: 10px 14px;
-  border-left: 3px solid var(--warn); background: var(--warn-soft); border-radius: 0 8px 8px 0;
+/* ── 07 · FLASHCARDS ───────────────────────────────────────────────────── */
+.flashcard {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  box-shadow: none; padding: 44px 40px; margin: 0;
+  display: flex; flex-direction: column; align-items: center; gap: 26px;
+}
+.flashcard-front {
+  font-family: var(--font-brand); font-size: 1.625rem; font-weight: 600;
+  text-align: center; max-width: 560px; line-height: 1.35;
+}
+.flashcard-back { border-top: 1px solid var(--border); margin-top: 0; padding-top: 24px; max-width: 560px; }
+.flashcard-explicacao { color: var(--ink-soft); font-size: 0.9rem; text-align: center; line-height: 1.6; }
+.flashcard-acoes { display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; }
+.fila-card {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 20px 22px; display: flex; flex-direction: column; gap: 14px;
+}
+.fila-titulo { font-size: 0.8125rem; font-weight: 600; }
+.fila-row { display: flex; justify-content: space-between; align-items: center; font-size: 0.845rem; }
+.fila-row span:first-child { color: var(--ink-soft); }
+.fila-n { font-family: var(--font-brand); font-weight: 600; color: var(--ink); }
+.fila-nota { border-top: 1px solid var(--border); padding-top: 14px; font-size: 0.78rem; color: var(--ink-faint); line-height: 1.55; }
+
+/* ── 08 · REDAÇÃO ──────────────────────────────────────────────────────── */
+.redacao-contador { margin: 0; font-size: 0.78rem; color: var(--ink-faint); }
+.redacao-grade-wrap { margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--border); }
+.redacao-grade-wrap .dissert-gabarito li { margin-bottom: 8px; }
+.redacao-grade-wrap .dissert-gabarito label { display: flex; gap: 8px; align-items: flex-start; cursor: pointer; }
+/* A nota da banca ao lado do critério, com a barra logo abaixo. */
+.grade-card {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 22px 24px; display: flex; flex-direction: column; gap: 16px;
+}
+.grade-titulo { font-size: 0.8125rem; font-weight: 600; }
+.grade-item { display: flex; flex-direction: column; gap: 6px; }
+.grade-item-top { display: flex; justify-content: space-between; font-size: 0.8125rem; }
+.grade-item-top span:first-child { color: var(--ink-soft); }
+.grade-nota { font-family: var(--font-brand); font-weight: 600; }
+/* A regra da banca em citação: é o texto que a pessoa precisa reler antes de
+   escrever, e a barra dourada o separa do resto sem virar um cartão à parte. */
+.redacao-regra {
+  margin: 0; font-size: 0.8125rem; color: var(--ink-faint); line-height: 1.6;
+  border-left: 2px solid var(--warn-border); padding-left: 12px;
+}
+
+/* ── 09 · OBRAS OBRIGATÓRIAS ───────────────────────────────────────────── */
+.obras-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin: 0; }
+.obra-card {
+  margin-bottom: 0; background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius); overflow: hidden; display: flex; flex-direction: column; padding: 0;
+}
+.obra-card.obra-studied { border-color: var(--good-border); }
+.obra-cover {
+  aspect-ratio: 3 / 4; border-radius: 0; margin-bottom: 0; padding: 22px;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  text-align: center; gap: 10px; background: var(--bg); color: var(--ink-soft);
+  border: none; overflow: hidden;
+}
+.obra-corpo { padding: 14px 18px 16px; display: flex; flex-direction: column; gap: 8px; }
+.obra-eixo-label { font: 700 0.594rem/1 var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-faint); }
+.obra-eixo { font-size: 0.8125rem; color: var(--ink-soft); line-height: 1.5; }
+.obra-status { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: var(--ink-fainter); }
+.obra-status-estudada { color: var(--good); }
+.obra-status-lendo { color: var(--warn); }
+
+/* ── 10 · CADERNO DE ERROS ─────────────────────────────────────────────── */
+.erros-topo { display: flex; gap: 22px; align-items: flex-start; flex-wrap: wrap; }
+.erros-explicacao { margin: 0; flex: 1; min-width: 420px; font-size: 0.875rem; color: var(--ink-soft); line-height: 1.65; }
+.erros-contagem {
+  flex: none; background: var(--accent); border-radius: var(--radius); padding: 18px 22px;
+  color: #fff; display: flex; align-items: baseline; gap: 10px;
+}
+.erros-contagem-n { font-family: var(--font-brand); font-size: 1.75rem; font-weight: 600; }
+.erros-contagem-label { font-size: 0.845rem; color: #A8B6C8; }
+.erros-grupo-head { padding: 18px 26px; border-bottom: 1px solid var(--border); display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.erros-grupo-area { font: 700 0.625rem/1 var(--font-mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-faint); }
+.erros-grupo-nome { font-family: var(--font-brand); font-size: 1.0625rem; font-weight: 600; }
+.erros-q-n { font-family: var(--font-brand); font-size: 0.8125rem; font-weight: 600; color: var(--ink-faint); flex: none; }
+.erros-q-enunciado { font-size: 0.9rem; color: var(--ink); min-width: 0; line-height: 1.5; }
+
+/* ── 11 · MEU PROGRESSO ────────────────────────────────────────────────── */
+.progresso-topo { display: flex; gap: 22px; align-items: flex-start; }
+.score-card { width: 360px; flex: none; padding: 26px 28px; gap: 10px; }
+.projected-score-value { font-family: var(--font-brand); font-size: 3.5rem; font-weight: 600; line-height: 1; color: #fff; margin: 0; }
+.score-sparkline { display: flex; align-items: flex-end; gap: 3px; height: 56px; margin-top: 12px; border-bottom: none; }
+.spark-bar { flex: 1; background: rgba(244,193,66,.55); border-radius: 2px 2px 0 0; min-height: 4px; }
+.frentes-card {
+  flex: 1; min-width: 0; background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 24px 26px; display: flex; flex-direction: column; gap: 18px;
+}
+.frentes-card-head { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 8px; }
+.frentes-card-head h3 { margin: 0; font-size: 1.0625rem; }
+.progress-list { display: flex; flex-direction: column; gap: 18px; margin: 0; }
+.progress-row { background: none; border: none; border-radius: 0; padding: 0; display: flex; flex-direction: column; gap: 7px; }
+.progress-row-top { display: flex; justify-content: space-between; margin-bottom: 0; gap: 10px; font-size: 0.845rem; }
+.progress-row-top .name { font-weight: 600; }
+.progress-row-top .stat { color: var(--ink-faint); font-size: 0.845rem; }
+.bar-track { background: var(--accent-soft); border-radius: 99px; height: 6px; overflow: hidden; }
+.bar-fill { background: var(--accent); height: 100%; border-radius: 99px; }
+/* A frente fraca é ouro escuro, não vermelho: é onde estudar, não um erro. */
+.progress-row.is-fraca .bar-fill { background: var(--brand-gold); }
+.official-exams-card { padding: 24px 26px; }
+.official-exams-card h3 { margin: 0 0 8px; }
+
+/* ── 12 · PERFIL E CONTA ───────────────────────────────────────────────── */
+.perfil-identidade {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 24px 26px; display: flex; align-items: center; gap: 18px; flex-wrap: wrap;
+}
+.perfil-avatar { width: 56px; height: 56px; border-radius: 50%; background: #DCE2EB; flex: none; display: block; object-fit: cover; }
+.perfil-textos { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.perfil-nome { font-family: var(--font-brand); font-size: 1.1875rem; font-weight: 600; }
+.perfil-email { font-size: 0.845rem; color: var(--ink-faint); }
+.perfil-identidade .btn { margin-left: auto; }
+.ajuste-row { padding: 18px 26px; border-bottom: 1px solid var(--border); display: flex; align-items: center; gap: 20px; flex-wrap: wrap; }
+.ajuste-row:last-child { border-bottom: none; }
+.ajuste-textos { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.ajuste-nome { font-size: 0.9rem; font-weight: 600; }
+.ajuste-desc { font-size: 0.8125rem; color: var(--ink-faint); line-height: 1.5; }
+.ajuste-valor { margin-left: auto; flex: none; display: flex; align-items: center; gap: 10px; }
+.ajuste-valor-texto {
+  font-size: 0.845rem; font-weight: 600; color: var(--ink);
+  border: 1px solid var(--border-strong); border-radius: 7px; padding: 8px 14px;
+}
+.perfil-lateral { display: flex; flex-direction: column; gap: 16px; }
+.perfil-box {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 22px 24px; display: flex; flex-direction: column; gap: 10px;
+}
+.perfil-box-titulo { font-size: 0.8125rem; font-weight: 600; }
+.perfil-box-valor { font-family: var(--font-brand); font-size: 1.25rem; font-weight: 600; }
+.perfil-box-nota { font-size: 0.8125rem; color: var(--ink-faint); line-height: 1.55; }
+.perfil-box .btn { align-self: flex-start; margin-top: 4px; }
+/* A zona de perigo é a única região do app com borda vermelha. Não é alarde:
+   é o sinal de que dali não se volta. */
+.perfil-box-perigo { border-color: #F0D6D6; }
+.perfil-box-perigo .perfil-box-titulo { color: var(--bad); }
+.danger-zone { margin: 0; text-align: left; }
+
+/* Sem desenho de celular ainda (virá num turno próprio). Até lá, abaixo de
+   900px a lateral deixa de ser coluna e vira uma faixa no topo, e o conteúdo
+   ocupa a largura toda — é um arranjo de segurança para a tela não ficar
+   inutilizável, não o layout de celular definitivo. */
+@media (max-width: 900px) {
+  #view-main { display: block; }
+  .sidebar {
+    width: auto; height: auto; position: static; flex-direction: row; align-items: center;
+    gap: 14px; padding: 12px 14px; overflow-x: auto;
+  }
+  .sidebar-brand { flex: none; }
+  .nav-groups { flex-direction: row; gap: 14px; }
+  .nav-group { flex-direction: row; align-items: center; gap: 4px; }
+  .nav-group-title { display: none; }
+  .tab-btn { white-space: nowrap; flex: 0 0 auto; }
+  .sidebar-user { margin: 0 0 0 auto; border-top: none; padding: 0; flex: none; }
+  .page-header { padding: 12px 16px; }
+  .content { padding: 16px; }
+  .hoje-topo, .progresso-topo, .painel-2col { display: flex; flex-direction: column; }
+  .painel-2col > .col-apoio, .painel-2col > .col-apoio-larga,
+  .painel-2col > .col-apoio-estreita, .score-card { width: auto; }
+  .metricas { grid-template-columns: repeat(2, 1fr); }
+  .obras-grid { grid-template-columns: repeat(2, 1fr); }
+  .landing-navy, .landing-secao, .landing-dia, .landing-bancas, .landing-fim { padding-left: 20px; padding-right: 20px; }
+  .landing-hero, .landing-dia { grid-template-columns: 1fr; }
+  .landing-passos { grid-template-columns: 1fr; }
+  .login-split { grid-template-columns: 1fr; }
+  .sim-table-head, .sim-table-row { grid-template-columns: 40px 1fr 90px; }
+  .sim-table-head span:nth-child(4), .sim-table-head span:nth-child(5) { display: none; }
 }

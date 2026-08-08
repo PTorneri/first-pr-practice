@@ -310,6 +310,10 @@
     renderCalendar();
     renderProgress();
     renderStreak();
+    // O cabeçalho e os contadores da lateral só existem depois que o app
+    // abre: é aqui que eles ganham o primeiro valor.
+    atualizarCabecalho("hoje");
+    atualizarBadges();
   }
 
   // ---------- Trilha na interface ----------
@@ -327,8 +331,10 @@
     const marca = document.querySelector(".brand span");
     if (marca) marca.innerHTML = cfg.marca;
 
-    // Login e onboarding compartilham o mesmo par título/subtítulo.
-    document.querySelectorAll("#view-login h1, #view-onboarding h1").forEach((h) => {
+    // Só o onboarding leva o título da trilha ("sagax — Direito"). O login
+    // agora é um painel dividido cujo h1 é o verbo da tela ("Entrar"), e a
+    // marca aparece nele como logotipo, não como texto.
+    document.querySelectorAll("#view-onboarding h1").forEach((h) => {
       h.innerHTML = cfg.titulo;
     });
     document.querySelectorAll(".onboarding-logo").forEach((img) => {
@@ -381,13 +387,15 @@
     const outras = window.VD_TRILHA.lista().filter((t) => t.id !== TRILHA);
     if (outras.length === 0) return;
 
+    // "Trilha ativa" na coluna de apoio do perfil: primeiro o que está valendo
+    // agora, depois a saída. Não é destrutivo, então não usa o vermelho.
     const card = document.createElement("div");
-    card.className = "card";
+    card.className = "perfil-box";
     card.innerHTML =
-      "<h3>Trocar de trilha</h3>" +
-      '<p class="lesson-desc">Você está estudando para <strong>' + TRILHA_CFG.nome +
-      "</strong>. Trocar não apaga nada: seu progresso em cada trilha fica guardado em separado, " +
-      "e voltar devolve o plano no dia em que você parou.</p>";
+      '<div class="perfil-box-titulo">Trilha ativa</div>' +
+      '<div class="perfil-box-valor">' + escapeHtml(TRILHA_CFG.nome) + "</div>" +
+      '<div class="perfil-box-nota">Seu progresso em cada trilha fica guardado em separado — trocar ' +
+      "não apaga nada, e voltar devolve o plano no dia em que você parou.</div>";
 
     outras.forEach((t) => {
       const btn = document.createElement("button");
@@ -423,6 +431,122 @@
   }
 
   // ---------- Tabs ----------
+
+  // Cada aba diz, no cabeçalho da página, de que assunto ela é. O subtítulo
+  // não é decoração: é o número que dá escala ao que está embaixo (quantos
+  // cards venceram, quantas questões esperam revisão, em que dia do plano
+  // você está). Antes essa informação estava espalhada dentro de cada painel,
+  // em formatos diferentes.
+  const TITULOS_ABA = {
+    hoje: () => ({ titulo: "Hoje", subtitulo: subtituloDoDia() }),
+    calendario: () => ({
+      titulo: "Calendário",
+      // addDays devolve um Date (não uma string ISO), que é o que formatDate
+      // espera — daí o addDays(start, 0) em vez de passar a string direto.
+      subtitulo: "90 dias · começou em " + formatDate(addDays(localStorage.getItem(LS_START) || todayISO(), 0)),
+    }),
+    simulados: () => ({ titulo: "Simulados", subtitulo: "Todo domingo · simulado nos dias 7, 14, 21…" }),
+    buscar: () => ({ titulo: "Buscar questões", subtitulo: subtituloBusca() }),
+    cards: () => {
+      const n = contarCardsVencidos();
+      return {
+        titulo: "Flashcards",
+        subtitulo: (n === 1 ? "1 card vencido hoje" : n + " cards vencidos hoje") + " · repetição espaçada",
+      };
+    },
+    redacao: () => ({ titulo: "Redação", subtitulo: subtituloRedacao() }),
+    obras: () => ({ titulo: "Obras obrigatórias", subtitulo: subtituloObras() }),
+    erros: () => {
+      const n = contarErrosPendentes();
+      return {
+        titulo: "Caderno de Erros",
+        subtitulo: n === 1 ? "1 questão esperando revisão" : n + " questões esperando revisão",
+      };
+    },
+    progresso: () => ({ titulo: "Meu progresso", subtitulo: "Dia " + currentDayFromStart() + " de 90 · trilha " + TRILHA_CFG.nome }),
+    perfil: () => ({ titulo: "Perfil e conta", subtitulo: "Conta Google · sincronizado" }),
+  };
+
+  function subtituloDoDia() {
+    const start = localStorage.getItem(LS_START) || todayISO();
+    return "Dia " + currentDay + " de 90 · " + formatDate(addDays(start, currentDay - 1));
+  }
+
+  function subtituloBusca() {
+    let total = 0;
+    Object.keys(window.QUESTION_BANKS || {}).forEach((k) => {
+      total += (window.QUESTION_BANKS[k] || []).length;
+    });
+    return total > 0 ? total.toLocaleString("pt-BR") + " questões nesta trilha" : "";
+  }
+
+  function subtituloRedacao() {
+    const n = (window.REDACOES || []).length;
+    return n ? n + " propostas · grade oficial das bancas" : "Grade oficial das bancas";
+  }
+
+  function subtituloObras() {
+    const n = (window.OBRAS || []).length;
+    return n ? n + " obras do edital" : "Lista do edital";
+  }
+
+  function contarCardsVencidos() {
+    try {
+      const st = getFlashcardState();
+      return buildFlashcardPool().filter((c) => flashcardStatusFor(c.key, st) === "vencido").length;
+    } catch (e) { return 0; }
+  }
+
+  function contarErrosPendentes() {
+    try {
+      return computeWrongQuestions().reduce((soma, g) => soma + g.questions.length, 0);
+    } catch (e) { return 0; }
+  }
+
+  function atualizarCabecalho(tab) {
+    const fn = TITULOS_ABA[tab];
+    if (!fn) return;
+    let dados;
+    // Um subtítulo é sempre derivado do estado (contagens, datas). Se algum
+    // deles falhar, a aba ainda tem que abrir — o título sozinho basta.
+    try { dados = fn(); } catch (e) { dados = { titulo: tab, subtitulo: "" }; }
+    const t = document.getElementById("page-title");
+    const s = document.getElementById("page-subtitle");
+    if (t) t.textContent = dados.titulo;
+    if (s) s.textContent = dados.subtitulo || "";
+    // A navegação de dia e o selo de fase só fazem sentido na aba Hoje.
+    const nav = document.getElementById("day-nav");
+    if (nav) nav.hidden = tab !== "hoje";
+    const fase = document.getElementById("phase-label");
+    if (fase) fase.textContent = tab === "hoje" ? phaseLabelForDay(currentDay) : "";
+  }
+
+  // Contadores da barra lateral. São o que substitui o "tudo com o mesmo peso"
+  // da fila de abas antiga: sem abrir nada, dá pra ver que 18 cards venceram e
+  // que 23 questões esperam revisão.
+  function atualizarBadges() {
+    const badges = {
+      hoje: () => {
+        if (!plan) return "";
+        const tarefas = computeDayTasks(currentDay, getDayContent(plan, currentDay));
+        const faltam = tarefas.filter((t) => !t.done).length;
+        return faltam > 0 ? String(faltam) : "";
+      },
+      simulados: () => "dom",
+      cards: () => { const n = contarCardsVencidos(); return n > 0 ? String(n) : ""; },
+      erros: () => { const n = contarErrosPendentes(); return n > 0 ? String(n) : ""; },
+    };
+    document.querySelectorAll(".nav-badge").forEach((el) => {
+      const fn = badges[el.dataset.badge];
+      let valor = "";
+      try { valor = fn ? fn() : ""; } catch (e) { valor = ""; }
+      el.textContent = valor;
+    });
+  }
+  // O app.js é um IIFE; o auth.js e o sync.js precisam poder pedir uma
+  // atualização dos contadores depois de mexer no progresso.
+  window.VD_REFRESH_BADGES = atualizarBadges;
+
   function initTabs() {
     document.querySelectorAll(".tab-btn").forEach((btn) => {
       btn.addEventListener("click", () => {
@@ -438,6 +562,15 @@
         if (btn.dataset.tab === "obras") renderObrasTab();
         if (btn.dataset.tab === "erros") renderErrosTab();
         if (btn.dataset.tab === "buscar") renderBuscarTab();
+        if (btn.dataset.tab === "perfil") renderPerfilTab();
+        // Voltar para Hoje: as questões continuam como estavam, mas o painel
+        // curto do topo precisa refletir o que mudou nas outras abas.
+        if (btn.dataset.tab === "hoje") { atualizarMetricas(); updateDayChecklist(currentDay); }
+        atualizarCabecalho(btn.dataset.tab);
+        atualizarBadges();
+        // Trocar de aba com a página rolada deixaria a nova aba começando no
+        // meio. O cabeçalho é sticky, então o topo é sempre o título certo.
+        window.scrollTo(0, 0);
       });
     });
   }
@@ -496,11 +629,17 @@
     const tasks = computeDayTasks(day, content);
     const doneCount = tasks.filter((t) => t.done).length;
     const itemsHtml = tasks
-      .map((t) => `<li class="${t.done ? "task-done" : ""}">${t.done ? "✓" : "○"} ${escapeHtml(t.label)}</li>`)
+      .map((t) => `<li class="${t.done ? "task-done" : ""}">
+          <span class="tarefa-marca">${t.done ? "✓" : ""}</span>
+          <span>${escapeHtml(t.label)}</span>
+        </li>`)
       .join("");
-    return `<div class="day-checklist" id="day-checklist">
-      <div class="day-checklist-header">${doneCount}/${tasks.length} tarefas de hoje</div>
-      <ul class="day-checklist-list">${itemsHtml}</ul>
+    return `<div class="tarefas-card" id="day-checklist">
+      <div class="tarefas-head">
+        <span class="tarefas-titulo">Tarefas de hoje</span>
+        <span class="tarefas-contador">${doneCount}/${tasks.length}</span>
+      </div>
+      <ul class="tarefas-lista">${itemsHtml}</ul>
     </div>`;
   }
 
@@ -511,6 +650,264 @@
     const wrap = document.createElement("div");
     wrap.innerHTML = renderDayChecklist(day, content);
     el.replaceWith(wrap.firstElementChild);
+    // O contador da lateral conta a mesma coisa que este cartão: se um mudou,
+    // o outro mudou junto.
+    atualizarBadges();
+  }
+
+  // ---------- Cartão de foco: "comece por aqui" ----------
+  //
+  // A aba Hoje abria numa lista de aulas em que a primeira coisa da tela tinha
+  // o mesmo peso da última. Este cartão responde, sozinho, a pergunta que a
+  // pessoa traz ao abrir o app: o que eu faço AGORA. É o único bloco navy da
+  // tela e leva o único botão de ouro — quando ele acaba, o dia acabou.
+  //
+  // A frente escolhida é a primeira do dia que ainda tem questão essencial em
+  // aberto; se todas estiverem completas, o cartão passa a confirmar que o dia
+  // fechou, em vez de mandar continuar algo que não existe.
+  function pickFocoLesson(day, content) {
+    if (content.type === "simulado") return null;
+    const dayAnswers = getDayAnswers();
+    for (const lesson of content.lessons) {
+      const essentialCount = snapToGroupBoundary(
+        lesson.questions,
+        Math.min(ESSENTIAL_QUESTIONS_PER_LESSON, lesson.questions.length)
+      );
+      const essentials = lesson.questions.slice(0, essentialCount);
+      const respondidas = essentials.filter(
+        (q) => dayAnswers[dayAnswerKey(day, lesson.subtopicId, q.id)] !== undefined
+      ).length;
+      if (respondidas < essentials.length) {
+        return { lesson, respondidas, total: essentials.length };
+      }
+    }
+    return null;
+  }
+
+  function renderFocoCard(day, content) {
+    const card = document.createElement("div");
+    card.className = "card-navy foco-card";
+
+    if (content.type === "simulado") {
+      card.innerHTML = `
+        <div class="eyebrow eyebrow-sobre-navy">Domingo · simulado</div>
+        <div class="foco-card-titulo">
+          <h3>Simulado misto</h3>
+          <div class="texto-apoio">Questões distribuídas entre todas as frentes. Os erros daqui
+          pesam mais forte na programação da próxima semana.</div>
+        </div>
+        <div class="foco-acoes">
+          <button class="btn btn-ouro" data-foco-rolar>Ir para o simulado</button>
+        </div>`;
+      ligarFocoRolar(card);
+      return card;
+    }
+
+    const foco = pickFocoLesson(day, content);
+
+    if (!foco) {
+      // Dia fechado. Sem botão de ouro: não há próxima ação a destacar.
+      card.innerHTML = `
+        <div class="eyebrow eyebrow-sobre-navy">Dia concluído</div>
+        <div class="foco-card-titulo">
+          <h3>Você fechou as questões de hoje</h3>
+          <div class="texto-apoio">Os extras continuam abaixo, e os flashcards do dia entram
+          quando vencerem. Amanhã o plano segue sozinho.</div>
+        </div>`;
+      return card;
+    }
+
+    const { lesson, respondidas, total } = foco;
+    const visitLabel = lesson.visitNumber === 1
+      ? "1ª vez estudando este tema"
+      : lesson.visitNumber + "ª revisão deste tema";
+    const minutos = Math.round(total * MINUTES_PER_QUESTION_ESTIMATE);
+    const rotuloBotao = respondidas === 0
+      ? "Começar — " + total + " questões"
+      : "Continuar — questão " + (respondidas + 1) + " de " + total;
+
+    const video = pickLessonVideo(lesson.subtopicId, lesson.visitNumber);
+    const aulaHtml = video
+      ? `<div class="foco-aula">
+          <div class="foco-aula-tema">
+            <div class="eyebrow" style="color:#8FA0B5">Aula de hoje</div>
+            <div class="foco-aula-nome">${escapeHtml(video.tema)}</div>
+          </div>
+          <a class="foco-aula-link" target="_blank" rel="noopener" href="${youtubeSearchUrl(video.busca)}">
+            <span class="foco-play">▶</span> Assistir a vídeo-aula
+          </a>
+        </div>`
+      : "";
+
+    card.innerHTML = `
+      <div class="eyebrow eyebrow-sobre-navy">Comece por aqui</div>
+      <div class="foco-card-titulo">
+        <h3>${escapeHtml(lesson.nome)}</h3>
+        <div class="texto-apoio">${total} questões essenciais · ~${minutos} min no ritmo da prova · ${escapeHtml(visitLabel)}</div>
+      </div>
+      <div class="foco-acoes">
+        <button class="btn btn-ouro" data-foco-rolar>${escapeHtml(rotuloBotao)}</button>
+        ${window.THEORY && window.THEORY[lesson.subtopicId]
+          ? '<button class="btn btn-sobre-navy" data-foco-teoria>Ver teoria antes</button>' : ""}
+      </div>
+      ${aulaHtml}`;
+
+    ligarFocoRolar(card, lesson.subtopicId);
+    return card;
+  }
+
+  // Os dois botões do cartão de foco não navegam: levam a pessoa ao ponto da
+  // MESMA tela onde a coisa acontece. É o que mantém a promessa de "o painel
+  // curto não tirou nada de lugar".
+  function ligarFocoRolar(card, subtopicId) {
+    const alvo = () => {
+      if (subtopicId) {
+        const el = document.querySelector('[data-lesson-id="' + cssEscape(subtopicId) + '"]');
+        if (el) return el;
+      }
+      return document.querySelector("#day-content .lesson-card, #day-content .simulado-card");
+    };
+
+    const rolar = card.querySelector("[data-foco-rolar]");
+    if (rolar) {
+      rolar.addEventListener("click", () => {
+        const el = alvo();
+        if (!el) return;
+        const q = el.querySelector(".question:not(.is-answered)") || el;
+        q.scrollIntoView({ behavior: "smooth", block: "center" });
+      });
+    }
+
+    const teoria = card.querySelector("[data-foco-teoria]");
+    if (teoria) {
+      teoria.addEventListener("click", () => {
+        const el = alvo();
+        if (!el) return;
+        const toggle = el.querySelector(".theory-toggle");
+        const conteudo = el.querySelector(".theory-content");
+        if (toggle && conteudo && conteudo.hidden) toggle.click();
+        (conteudo || el).scrollIntoView({ behavior: "smooth", block: "center" });
+      });
+    }
+  }
+
+  // CSS.escape não existe no Safari antigo, e os ids de frente são gerados
+  // pelo banco — não vale confiar que sejam sempre seletores válidos.
+  function cssEscape(s) {
+    return window.CSS && CSS.escape ? CSS.escape(s) : String(s).replace(/["\\]/g, "\\$&");
+  }
+
+  // ---------- Faixa de métricas do topo ----------
+  //
+  // Quatro números que respondem "como estou indo" sem abrir a aba Progresso.
+  // Todos saem do estado real do app: nenhum é estimativa de fora.
+  function renderMetricas() {
+    const wrap = document.createElement("div");
+    wrap.className = "grade-celulas metricas";
+
+    const hoje = currentDayFromStart();
+    const faltam = Math.max(0, 90 - hoje);
+
+    // Acerto dos últimos sete DIAS DE PLANO. Tinha que ser assim: o
+    // vd_answers guarda só a letra escolhida, sem data, então não existe
+    // janela de calendário para consultar. O vd_dayState, esse sim, guarda
+    // acertos e respostas por dia do plano — é a única fonte com recorte
+    // temporal, e é dela que sai a comparação com a semana anterior.
+    const semana = acertoEntreDias(hoje - 6, hoje);
+    const semanaAnterior = acertoEntreDias(hoje - 13, hoje - 7);
+    let notaSemana = "sem respostas nos últimos 7 dias", classeSemana = "";
+    if (semana.total > 0) {
+      if (semanaAnterior.total > 0) {
+        const delta = Math.round(semana.pct - semanaAnterior.pct);
+        notaSemana = (delta >= 0 ? "+" : "") + delta + " pts vs. semana passada";
+        classeSemana = delta >= 0 ? "metrica-nota-boa" : "metrica-nota-alerta";
+      } else {
+        notaSemana = semana.total + " questões respondidas";
+      }
+    }
+
+    const dayState = getDayState();
+    let diasFeitos = 0;
+    for (let d = 1; d <= 90; d++) {
+      const st = dayState[d];
+      if (st && st.total > 0 && st.answered >= st.total) diasFeitos++;
+    }
+
+    const fraca = frenteMaisFraca();
+
+    const celulas = [
+      {
+        label: "Fim do plano",
+        valor: faltam + (faltam === 1 ? " dia" : " dias"),
+        nota: "dia " + hoje + " de 90",
+        classe: "",
+      },
+      {
+        label: "Acerto na semana",
+        valor: semana.total > 0 ? Math.round(semana.pct) + "%" : "—",
+        nota: notaSemana,
+        classe: classeSemana,
+      },
+      {
+        label: "Plano concluído",
+        valor: diasFeitos + "/90",
+        nota: Math.round((diasFeitos / 90) * 100) + "% do caminho",
+        classe: "",
+      },
+      {
+        label: "Frente mais fraca",
+        valor: fraca ? Math.round(fraca.pct) + "%" : "—",
+        nota: fraca ? fraca.nome : "responda algumas questões primeiro",
+        classe: fraca ? "metrica-nota-alerta" : "",
+      },
+    ];
+
+    wrap.innerHTML = celulas.map((c) => `
+      <div class="metrica">
+        <div class="metrica-label">${escapeHtml(c.label)}</div>
+        <div class="metrica-valor">${escapeHtml(c.valor)}</div>
+        <div class="metrica-nota ${c.classe}">${escapeHtml(c.nota)}</div>
+      </div>`).join("");
+
+    return wrap;
+  }
+
+  // As métricas são um retrato do estado, e o estado muda enquanto a pessoa
+  // responde — inclusive em OUTRAS abas (um simulado, o caderno de erros).
+  // Voltar para Hoje precisa mostrar o número de agora, não o do boot.
+  //
+  // Troca só a faixa, em vez de chamar renderDay: reconstruir o dia inteiro
+  // jogaria a pessoa de volta ao topo da tela e recarregaria todas as
+  // questões só para atualizar quatro números.
+  function atualizarMetricas() {
+    const antiga = document.querySelector("#day-content .metricas");
+    if (!antiga) return;
+    antiga.replaceWith(renderMetricas());
+  }
+
+  // Acerto somado dos dias de plano no intervalo [inicio, fim], inclusive.
+  function acertoEntreDias(inicio, fim) {
+    const dayState = getDayState();
+    let total = 0, certas = 0;
+    for (let d = Math.max(1, inicio); d <= fim; d++) {
+      const st = dayState[d];
+      if (!st || !st.answered) continue;
+      total += st.answered;
+      certas += st.correct || 0;
+    }
+    return { total, pct: total > 0 ? (certas / total) * 100 : 0 };
+  }
+
+  function frenteMaisFraca() {
+    const estado = computeTopicStateFromAnswers();
+    let pior = null;
+    (window.SUBTOPICS || []).forEach((s) => {
+      const st = estado[s.id];
+      if (!st || st.answered < 5) return; // amostra pequena demais pra acusar
+      const pct = (st.correct / st.answered) * 100;
+      if (!pior || pct < pior.pct) pior = { nome: s.nome, pct };
+    });
+    return pior;
   }
 
   function renderDay(day) {
@@ -527,9 +924,18 @@
     const container = document.getElementById("day-content");
     container.innerHTML = "";
 
+    // O painel curto do topo: o que fazer agora (navy), o que falta hoje
+    // (tarefas) e como estou indo (métricas). Nada saiu da tela — as questões
+    // continuam logo abaixo, no mesmo lugar de sempre.
+    const topo = document.createElement("div");
+    topo.className = "hoje-topo";
+    topo.appendChild(renderFocoCard(day, content));
     const checklistWrap = document.createElement("div");
     checklistWrap.innerHTML = renderDayChecklist(day, content);
-    container.appendChild(checklistWrap.firstElementChild);
+    topo.appendChild(checklistWrap.firstElementChild);
+    container.appendChild(topo);
+
+    container.appendChild(renderMetricas());
 
     // Achado 4 (interleaving): sextas-feiras que já incluem uma revisão
     // (visitNumber > 1, não a 1ª vez no tema) ganham um aviso explicando o
@@ -557,6 +963,10 @@
 
     updateDayStateFromDom(day);
     renderDissertSection(day);
+    // O cabeçalho mostra "Dia 12 de 90 · sexta, 20 de março": navegar entre
+    // dias tem que reescrevê-lo, e os contadores da lateral junto.
+    atualizarCabecalho("hoje");
+    atualizarBadges();
   }
 
   // Modo do simulado do domingo, por dia. O adaptativo de 45 é o padrão porque
@@ -1866,7 +2276,7 @@
   // prefixo — ver o comentário em buscaSubtopicId.
   function buscaMontarDocs(secundaria) {
     const docs = [];
-    function absorver(trilhaId, subtopics, banks) {
+    function absorver(trilhaId, subtopics, banks, textos) {
       (subtopics || []).forEach((s) => {
         const bank = (banks && banks[s.id]) || [];
         bank.forEach((q) => {
@@ -1876,15 +2286,45 @@
             frenteNome: s.nome,
             area: s.area,
             q: q,
+            // O mapa de textos compartilhados vem junto com o banco — ver
+            // buscaTextoApoio para o porquê de não bastar o global.
+            textos: textos || {},
           });
         });
       });
     }
-    absorver(TRILHA, window.SUBTOPICS, window.QUESTION_BANKS);
+    absorver(TRILHA, window.SUBTOPICS, window.QUESTION_BANKS, window.QUESTION_TEXTS);
     if (secundaria) {
-      absorver(secundaria.trilha, secundaria.SUBTOPICS, secundaria.QUESTION_BANKS);
+      absorver(secundaria.trilha, secundaria.SUBTOPICS, secundaria.QUESTION_BANKS,
+               secundaria.QUESTION_TEXTS);
     }
     return docs;
+  }
+
+  // O texto de apoio de um documento da busca.
+  //
+  // Por que não dá para usar resolveSupportText aqui: ele lê o global
+  // window.QUESTION_TEXTS, que é SEMPRE o da trilha ativa. carregarSecundaria
+  // (trilhas.js) devolve os globais ao estado original depois de colher o banco
+  // da outra trilha — é o que mantém "uma trilha por sessão" válido para o
+  // resto do app. Só que a busca é justamente o lugar que mistura as duas, e o
+  // resultado era que toda questão da trilha secundária com `textoId` entrava
+  // no índice sem o texto compartilhado.
+  //
+  // Medido antes desta correção: 255 questões em Medicina e 180 em Direito,
+  // ~10% de cada banco, e o efeito se concentrava em Inglês, onde o texto de
+  // apoio É a questão — "Vocabulário em contexto" caía de 79 para 38 alcances,
+  // e três assuntos ficavam abaixo do piso de 25 só por isso.
+  //
+  // Não havia troca de texto, só ausência: os ids das duas trilhas não colidem
+  // (med-bio-t1 contra ing-c01-t1), então o `[textoId]` dava undefined.
+  function buscaTextoApoio(doc) {
+    const q = doc && doc.q;
+    if (!q) return "";
+    if (q.texto_apoio) return q.texto_apoio;
+    if (!q.textoId) return "";
+    const t = doc.textos[q.textoId];
+    return (t && t.conteudo) || "";
   }
 
   // Questões da outra trilha respondem por um subtopicId prefixado.
@@ -1913,7 +2353,7 @@
       doc.enunciado = buscaNormalizar(q.enunciado || "");
       const texto = [
         q.enunciado,
-        resolveSupportText(q),
+        buscaTextoApoio(doc),
         Object.values(q.alternativas || {}).join(" "),
         q.explicacao,
       ].join(" ");
@@ -1965,7 +2405,7 @@
       const doc = buscaDocs[id];
       const q = doc.q;
       const full = buscaNormalizar([
-        q.enunciado, resolveSupportText(q),
+        q.enunciado, buscaTextoApoio(doc),
         Object.values(q.alternativas || {}).join(" "), q.explicacao,
       ].join(" "));
       return rx.test(full);
@@ -1988,12 +2428,23 @@
     return peso;
   }
 
+  // Aplica buscaRadical palavra por palavra, para comparar frases pelo radical.
+  //
+  // É o que faz "transgênicos" encontrar o termo "transgenico". O MOTOR de
+  // busca resolve plural desde sempre; só o autocomplete comparava as strings
+  // cruas — duas regras diferentes para a mesma palavra, na mesma tela, e a
+  // diferença aparecia como "esse assunto não existe".
+  function buscaRadicalFrase(s) {
+    return buscaNormalizar(s).replace(/[a-z0-9]+/g, (t) => buscaRadical(t));
+  }
+
   // Sugestões de assunto para o que está sendo digitado. É esta lista que
   // responde ao pedido original ("o assunto exato que quero estudar"): o aluno
   // deixa de ter que adivinhar qual palavra o banco usa.
   function buscaSugerirAssuntos(consulta, limite) {
     const n = buscaNormalizar(consulta).trim();
     if (n.length < 2) return [];
+    const nr = buscaRadicalFrase(consulta).trim();
     const frentesVivas = new Set((buscaDocs || []).map((d) => d.frente));
     // Fronteira nos DOIS lados. Só no início não basta: "\barte" casa o começo
     // de "arterial", que foi exatamente como "Fisiologia humana" apareceu ao se
@@ -2001,22 +2452,33 @@
     // "quadrat" ou "estequi" é atendido pelos degraus de cima, que comparam
     // contra o NOME do assunto; este degrau existe para a palavra inteira que
     // aparece no meio de um termo ("vértice" dentro de Função quadrática).
-    const rxPalavra = new RegExp("\\b" + n.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/\s+/g, "\\s+") + "\\b");
+    const escapar = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/\s+/g, "\\s+");
+    const rxPalavra = new RegExp("\\b" + escapar(n) + "\\b");
+    const rxPalavraRad = new RegExp("\\b" + escapar(nr) + "\\b");
     const pontuados = [];
     (window.ASSUNTOS || []).forEach((a) => {
       if (!a.frentes.some((f) => frentesVivas.has(f))) return;
       const nome = buscaNormalizar(a.nome);
+      const nomeRad = buscaRadicalFrase(a.nome);
       let p = 0;
-      if (nome.startsWith(n)) p = 100;
-      else if (nome.indexOf(n) !== -1) p = 60;
-      else if (a.termos.some((t) => buscaNormalizar(t).startsWith(n))) p = 40;
+      if (nome.startsWith(n) || nomeRad.startsWith(nr)) p = 100;
+      else if (nome.indexOf(n) !== -1 || nomeRad.indexOf(nr) !== -1) p = 60;
+      else if (a.termos.some((t) => buscaNormalizar(t).startsWith(n) ||
+                                    buscaRadicalFrase(t).startsWith(nr))) p = 40;
+      // O `id` não é sinônimo escrito à mão — é o nome interno do registro. Mas
+      // foi escolhido por quem sabia do que o assunto trata, e às vezes é
+      // exatamente a palavra que o aluno digita: "climatologia" é o id de
+      // "Clima e domínios naturais", e antes disto digitar a palavra inteira,
+      // certa, e igual ao id não sugeria nada.
+      else if (rxPalavraRad.test(buscaRadicalFrase(a.id.replace(/-/g, " ")))) p = 30;
       // Fronteira de palavra, e não `indexOf`, no degrau mais baixo. Com
       // substring, digitar "arte" sugeria "Fisiologia humana" — o pedaço está
       // dentro de "pressão ARTErial". A sugestão errada é pior que sugestão
       // nenhuma: ela ocupa a vaga de uma certa e manda o aluno para a frente
       // errada. O motor de busca já casa por palavra inteira; aqui era o único
       // ponto que ainda não casava.
-      else if (a.termos.some((t) => rxPalavra.test(buscaNormalizar(t)))) p = 20;
+      else if (a.termos.some((t) => rxPalavra.test(buscaNormalizar(t)) ||
+                                    rxPalavraRad.test(buscaRadicalFrase(t)))) p = 20;
       if (p > 0) pontuados.push({ assunto: a, peso: p });
     });
     pontuados.sort((x, y) => y.peso - x.peso || x.assunto.nome.localeCompare(y.assunto.nome));
@@ -2186,6 +2648,10 @@
         trilha: outras[0],
         SUBTOPICS: colhido.SUBTOPICS,
         QUESTION_BANKS: colhido.QUESTION_BANKS,
+        // carregarSecundaria já colhe QUESTION_TEXTS (é um dos três
+        // GLOBAIS_DE_DADOS de trilhas.js) — só não estava sendo repassado, e
+        // era esse o buraco que buscaTextoApoio descreve.
+        QUESTION_TEXTS: colhido.QUESTION_TEXTS,
       });
       atualizarBuscaStatus();
       renderBuscaResultados();
@@ -2526,6 +2992,8 @@
   function renderLessonCard(day, lesson) {
     const card = document.createElement("div");
     card.className = "lesson-card";
+    // O cartão de foco no topo da tela rola até a frente certa por este id.
+    card.dataset.lessonId = lesson.subtopicId;
 
     const visitLabel = lesson.visitNumber === 1
       ? "1ª vez estudando este tema"
@@ -3261,16 +3729,24 @@
       .map(([date, s]) => `<div class="spark-bar" style="height:${Math.max(4, Math.round(s * 100))}%" title="${date}: ${Math.round(s * 100)}%"></div>`)
       .join("");
 
+    // Quanto o score andou desde o registro mais antigo da janela. É o número
+    // que dá sentido ao número grande: 64% sozinho não diz se está indo bem.
+    let delta = "";
+    if (entries.length > 1) {
+      const primeiro = Math.round(entries[0][1] * 100);
+      const d = pct - primeiro;
+      delta = " " + (d >= 0 ? "Subiu " + d : "Caiu " + Math.abs(d)) +
+        " ponto" + (Math.abs(d) === 1 ? "" : "s") + " nos últimos " + entries.length + " dias com registro.";
+    }
+
     const wrap = document.createElement("div");
-    wrap.className = "card projected-score-card";
+    wrap.className = "card-navy score-card";
     wrap.innerHTML = `
-      <h3>Score projetado</h3>
-      <p class="hint">Sua nota estimada se a prova fosse hoje, ponderada pelo peso real de cada frente.
-      Frentes ainda não praticadas contam contra a nota — proposital, pra não mascarar o que falta.</p>
+      <div class="eyebrow eyebrow-sobre-navy">Score projetado na prova</div>
       <div class="projected-score-value">${pct}%</div>
-      ${entries.length > 1
-        ? `<div class="score-sparkline">${sparkHtml}</div><p class="hint" style="margin-top:6px;font-size:0.78rem;">últimos ${entries.length} dias com registro</p>`
-        : ""}
+      <div class="texto-apoio">Acerto ponderado pelo peso de cada frente na banca. Frentes ainda não
+      praticadas contam contra a nota — proposital, pra não mascarar o que falta.${escapeHtml(delta)}</div>
+      ${entries.length > 1 ? `<div class="score-sparkline">${sparkHtml}</div>` : ""}
     `;
     return wrap;
   }
@@ -3365,6 +3841,10 @@
   }
 
   // ---------- Calendar ----------
+  // O mapa dos 90 dias passou de uma grade de dez colunas para treze linhas de
+  // sete. A razão é que a SEMANA é a unidade real do plano — o domingo é
+  // sempre simulado — e numa grade de dez o domingo caía numa coluna diferente
+  // a cada linha, o que escondia justamente o ritmo que o plano tem.
   function renderCalendar() {
     rebuildPlan();
     const grid = document.getElementById("calendar-grid");
@@ -3372,7 +3852,21 @@
     const dayState = getDayState();
     const today = currentDayFromStart();
 
+    let semana = null;
     for (let day = 1; day <= 90; day++) {
+      if ((day - 1) % 7 === 0) {
+        semana = document.createElement("div");
+        semana.className = "cal-semana";
+        const rotulo = document.createElement("span");
+        rotulo.className = "cal-semana-rotulo";
+        rotulo.textContent = "Sem " + Math.ceil(day / 7);
+        semana.appendChild(rotulo);
+        const dias = document.createElement("div");
+        dias.className = "cal-semana-dias";
+        semana.appendChild(dias);
+        grid.appendChild(semana);
+      }
+
       const cell = document.createElement("div");
       const st = dayState[day];
       let status = "pending";
@@ -3389,20 +3883,71 @@
         document.querySelector('.tab-btn[data-tab="hoje"]').click();
         renderDay(day);
       });
-      grid.appendChild(cell);
+      semana.lastElementChild.appendChild(cell);
     }
+
+    renderCalendarioApoio();
+  }
+
+  // Coluna de apoio do calendário: o próximo simulado e em que fase o plano
+  // está. As duas coisas respondem "quanto falta" em escalas diferentes —
+  // a da semana e a dos 90 dias.
+  function renderCalendarioApoio() {
+    const apoio = document.getElementById("calendario-apoio");
+    if (!apoio) return;
+    apoio.innerHTML = "";
+
+    const hoje = currentDayFromStart();
+    const start = localStorage.getItem(LS_START) || todayISO();
+    const proximo = plan.find((e) => e.type === "simulado" && e.day >= hoje);
+
+    if (proximo) {
+      const card = document.createElement("div");
+      card.className = "card-navy";
+      // O índice da "visita" do simulado sai do conteúdo do dia, não do dia:
+      // é a contagem de simulados até aqui (simuladoNumber), base 0.
+      const conteudo = getDayContent(plan, proximo.day);
+      const quantas = (pickSimuladoQuestions((conteudo.simuladoNumber || 1) - 1) || []).length;
+      card.innerHTML = `
+        <div class="eyebrow eyebrow-sobre-navy">Próximo simulado</div>
+        <div class="num" style="font-size:1.25rem">${escapeHtml(formatDate(addDays(start, proximo.day - 1)))} · dia ${proximo.day}</div>
+        <div class="texto-apoio">${quantas ? quantas + " questões distribuídas entre as frentes. " : ""}Os erros reprogramam a semana seguinte.</div>`;
+      apoio.appendChild(card);
+    }
+
+    const fases = document.createElement("div");
+    fases.className = "fases-card";
+    fases.innerHTML = '<div class="fases-card-titulo">Fases do plano</div>';
+    [
+      { nome: "Fase 1 · Base", de: 1, ate: 30 },
+      { nome: "Fase 2 · Aprofundamento", de: 31, ate: 65 },
+      { nome: "Fase 3 · Reta final", de: 66, ate: 90 },
+    ].forEach((f) => {
+      const atual = hoje >= f.de && hoje <= f.ate;
+      const row = document.createElement("div");
+      row.className = "fase-row" + (atual ? " fase-atual" : "");
+      row.innerHTML = `
+        <span class="fase-barra"></span>
+        <div style="display:flex;flex-direction:column;gap:2px">
+          <span class="fase-nome">${escapeHtml(f.nome)}</span>
+          <span class="fase-intervalo">Dias ${f.de}–${f.ate}${atual ? " · em curso" : ""}</span>
+        </div>`;
+      fases.appendChild(row);
+    });
+    apoio.appendChild(fases);
   }
 
   // ---------- Progress tab ----------
   function renderProgress() {
     rebuildPlan();
-    renderCorrigirInicio();
 
     const list = document.getElementById("progress-list");
     const scoreContainer = document.getElementById("projected-score-container");
+    const diagContainer = document.getElementById("diagnostico-container");
 
     if (progressoSosId) {
       if (scoreContainer) scoreContainer.innerHTML = "";
+      if (diagContainer) diagContainer.innerHTML = "";
       list.innerHTML = "";
       list.appendChild(renderSosView(progressoSosId));
       return;
@@ -3411,32 +3956,44 @@
     if (scoreContainer) {
       scoreContainer.innerHTML = "";
       scoreContainer.appendChild(renderProjectedScoreCard());
-      scoreContainer.appendChild(renderErrorDiagnosticsCard());
     }
-
-    const syncContainer = document.getElementById("sync-container");
-    if (syncContainer) {
-      syncContainer.innerHTML = "";
-      syncContainer.appendChild(renderSyncCard());
+    // O diagnóstico qualitativo saiu de dentro do bloco do score: ele é uma
+    // leitura à parte, e empilhado lá dentro espremia os dois.
+    if (diagContainer) {
+      diagContainer.innerHTML = "";
+      diagContainer.appendChild(renderErrorDiagnosticsCard());
     }
 
     list.innerHTML = "";
     const topicState = getTopicState();
     const occurrences = countTopicOccurrences(plan);
 
-    window.SUBTOPICS.forEach((s) => {
+    // "Ordenado pela frente mais fraca" — é a promessa que o cabeçalho do
+    // cartão faz, e é o que transforma uma lista de dezesseis barras numa
+    // instrução: comece de cima. Frentes sem resposta ficam por último, não
+    // em primeiro com 0% — nunca praticadas não é o mesmo que mal praticadas.
+    const frentes = window.SUBTOPICS.map((s) => {
       const st = topicState[s.id] || { answered: 0, correct: 0 };
-      const bankSize = (window.QUESTION_BANKS && window.QUESTION_BANKS[s.id] || []).length;
       const pct = st.answered > 0 ? Math.round((st.correct / st.answered) * 100) : 0;
+      return { s, st, pct, virgem: st.answered === 0 };
+    }).sort((a, b) => {
+      if (a.virgem !== b.virgem) return a.virgem ? 1 : -1;
+      return a.pct - b.pct;
+    });
+
+    frentes.forEach(({ s, st, pct, virgem }, indice) => {
+      const bankSize = (window.QUESTION_BANKS && window.QUESTION_BANKS[s.id] || []).length;
       const readiness = computeReadinessIndex(s.id);
       const readinessPct = Math.round(readiness.index * 100);
 
       const row = document.createElement("div");
-      row.className = "progress-row";
+      // As três frentes mais fracas levam a barra em ouro escuro: é onde a
+      // pessoa perde ponto, e é isso que a tela promete mostrar.
+      row.className = "progress-row" + (!virgem && indice < 3 ? " is-fraca" : "");
       row.innerHTML = `
         <div class="progress-row-top">
           <span class="name">${escapeHtml(s.nome)}</span>
-          <span class="stat">${st.correct}/${st.answered} certas · aparece ${occurrences[s.id]}x no plano · ${bankSize} questões no banco</span>
+          <span class="stat">${virgem ? "ainda sem respostas" : st.correct + " de " + st.answered + " · " + pct + "%"} · ${occurrences[s.id]}x no plano · ${bankSize} no banco</span>
         </div>
         <div class="bar-track"><div class="bar-fill" style="width:${pct}%"></div></div>
         <div class="readiness-row" title="Combina acerto + recência + volume de prática">
@@ -3452,6 +4009,46 @@
       });
       list.appendChild(row);
     });
+  }
+
+  // ---------- Aba Perfil e conta ----------
+  //
+  // Tudo que é sobre a CONTA — quem sou, desde quando, qual trilha, e o botão
+  // que apaga tudo — saiu da aba de progresso e veio pra cá. A zona de perigo
+  // em especial estava no fim da tela que a pessoa mais abre pra se animar com
+  // o próprio avanço, que é o pior lugar possível pro botão de reiniciar.
+  function renderPerfilTab() {
+    const user = (window.VD_AUTH && window.VD_AUTH.user) || null;
+
+    const nome = document.getElementById("perfil-nome");
+    const email = document.getElementById("perfil-email");
+    const avatar = document.getElementById("perfil-avatar");
+    const fallback = document.getElementById("perfil-avatar-fallback");
+
+    if (nome) nome.textContent = user ? (user.displayName || "Minha conta") : "Minha conta";
+    if (email) {
+      const start = localStorage.getItem(LS_START);
+      const desde = start ? " · entrou em " + formatDate(addDays(start, 0)) : "";
+      email.textContent = (user && user.email ? user.email : "") + desde;
+    }
+    if (avatar && fallback) {
+      if (user && user.photoURL) {
+        avatar.src = user.photoURL;
+        avatar.hidden = false;
+        fallback.hidden = true;
+      } else {
+        avatar.hidden = true;
+        fallback.hidden = false;
+      }
+    }
+
+    renderCorrigirInicio();
+
+    const syncContainer = document.getElementById("sync-container");
+    if (syncContainer) {
+      syncContainer.innerHTML = "";
+      syncContainer.appendChild(renderSyncCard());
+    }
   }
 
   // ---------- Achado 10: sincronização entre aparelhos (Firebase, opcional) ----------

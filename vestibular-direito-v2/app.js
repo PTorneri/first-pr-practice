@@ -2323,7 +2323,11 @@
     const extras = aplicaFiltro(complementares);
     if (extras.length) {
       const subHeader = document.createElement("div");
-      subHeader.style.marginTop = "32px";
+      // O afastamento extra desta segunda seção mora no CSS (.obras-secao). Era
+      // um style inline de 32px, e inline vence por especificidade a regra que
+      // zera a margem dos filhos do wrapper — passaria por cima do contrato de
+      // espaçamento da tela sem aparecer em lugar nenhum da folha de estilo.
+      subHeader.className = "obras-secao";
       subHeader.innerHTML = `
         <h2>${escapeHtml(obrasUI.complementaresTitulo || "Leituras complementares")}</h2>
         <p class="hint">${escapeHtml(obrasUI.complementaresHint ||

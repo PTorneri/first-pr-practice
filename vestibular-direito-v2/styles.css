@@ -621,6 +621,37 @@ h4 { font-size: 1.0625rem; }
 .tab-panel.active { display: flex; flex-direction: column; gap: 22px; }
 .tab-panel.active > * { margin-top: 0; margin-bottom: 0; }
 
+/* O mesmo contrato, um nível abaixo.
+ *
+ * Redação, Obras e Buscar montam a tela inteira dentro de um wrapper único
+ * (#redacao-content, #obras-content, #buscar-content), e aí o gap do painel não
+ * separa nada: ele tem um filho só. O respiro passava a depender de cada bloco
+ * lá dentro trazer a própria margem — e três não traziam, porque .area-filter é
+ * `margin: 0` e é o último elemento de onde aparece. Medido nas três telas, em
+ * qualquer largura:
+ *
+ *   Redação   18, [0], 18, 18...   a fileira de filtros colada no card de baixo
+ *   Obras     [0], 32, 14          o cabeçalho colado na grade de obras
+ *   Buscar    22, 14, [0], [0], 4  campo, sugestões e filtros um no outro
+ *
+ * A correção é dar ao wrapper o contrato do painel em vez de pendurar margem em
+ * cada bloco — pendurar margem é o modelo que produziu o defeito, e o próximo
+ * bloco que alguém acrescentar nasceria colado de novo. */
+.tab-panel.active > [id$="-content"] { display: flex; flex-direction: column; gap: 18px; }
+.tab-panel.active > [id$="-content"] > * { margin-top: 0; margin-bottom: 0; }
+
+/* Bloco vazio continua consumindo um gap: os três abaixo só ganham conteúdo
+   depois que a pessoa digita, e sem isto a busca nasceria com 54px de vão entre
+   o campo e os resultados. */
+#busca-sugestoes:empty, #busca-filtros:empty, #busca-status:empty { display: none; }
+
+/* A quebra entre "Obras obrigatórias" e "Leituras complementares" é maior de
+   propósito — são duas seções, não dois blocos da mesma. Somada ao gap, dá os
+   mesmos 32px de antes. Vive aqui, e não num style inline no app.js, porque a
+   regra acima zera margem de filho direto e inline venceria por especificidade,
+   escapando do contrato sem que ninguém visse. */
+.tab-panel.active > #obras-content > .obras-secao { margin-top: 14px; }
+
 .hint { color: var(--ink-soft); font-size: 0.875rem; margin-top: 0; }
 
 /* Navegação de dia: vive no cabeçalho da página, ao lado dos indicadores. */
@@ -1597,6 +1628,9 @@ h4 { font-size: 1.0625rem; }
     padding: 18px 20px calc(88px + env(safe-area-inset-bottom));
   }
   .tab-panel.active { gap: 16px; }
+  /* O wrapper acompanha o painel: no celular o respiro entre blocos encolhe de
+     18 para 16, como todo o resto da tela. */
+  .tab-panel.active > [id$="-content"] { gap: 16px; }
   /* Tela empurrada não tem barra embaixo, então o rodapé volta a ser respiro
      comum em vez de espaço reservado. */
   .is-empurrada .content { padding-bottom: 44px; }

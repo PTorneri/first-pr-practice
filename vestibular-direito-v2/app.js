@@ -669,6 +669,7 @@
 
     const foco = document.querySelector("#day-content .foco-card");
     if (foco) foco.replaceWith(renderFocoCard(day, content));
+    sincronizarFrenteEmFoco(day, content);
 
     // O contador da lateral conta a mesma coisa que este cartão: se um mudou,
     // o outro mudou junto.
@@ -737,14 +738,31 @@
       return card;
     }
 
+    card.appendChild(renderFrenteNavy(day, foco, true));
+    ligarFocoRolar(card, foco.lesson.subtopicId);
+    return card;
+  }
+
+  // Cabeçalho navy de UMA frente do dia. É o mesmo bloco nos dois usos, e é de
+  // propósito: cada matéria do dia abre do mesmo jeito, com o mesmo desenho.
+  //
+  // `promovida` distingue a frente que o painel do topo está destacando (a
+  // primeira com questão em aberto) das demais, que ganham o mesmo quadrado
+  // logo acima do seu bloco de questões. Muda o rótulo e o peso do botão —
+  // ouro só na promovida, porque é uma ação em destaque por tela.
+  function renderFrenteNavy(day, foco, promovida) {
     const { lesson, respondidas, total } = foco;
+    const frag = document.createDocumentFragment();
+
     const visitLabel = lesson.visitNumber === 1
       ? "1ª vez estudando este tema"
       : lesson.visitNumber + "ª revisão deste tema";
     const minutos = Math.round(total * MINUTES_PER_QUESTION_ESTIMATE);
-    const rotuloBotao = respondidas === 0
-      ? "Começar — " + total + " questões"
-      : "Continuar — questão " + (respondidas + 1) + " de " + total;
+
+    let rotuloBotao;
+    if (respondidas >= total) rotuloBotao = "Rever as questões";
+    else if (respondidas === 0) rotuloBotao = "Começar — " + total + " questões";
+    else rotuloBotao = "Continuar — questão " + (respondidas + 1) + " de " + total;
 
     const video = pickLessonVideo(lesson.subtopicId, lesson.visitNumber);
     const aulaHtml = video
@@ -759,19 +777,40 @@
         </div>`
       : "";
 
-    card.innerHTML = `
-      <div class="eyebrow eyebrow-sobre-navy">Comece por aqui</div>
+    const wrap = document.createElement("div");
+    wrap.innerHTML = `
+      <div class="eyebrow eyebrow-sobre-navy">${promovida ? "Comece por aqui" : escapeHtml(lesson.area || "Depois desta")}</div>
       <div class="foco-card-titulo">
         <h3>${escapeHtml(lesson.nome)}</h3>
         <div class="texto-apoio">${total} questões essenciais · ~${minutos} min no ritmo da prova · ${escapeHtml(visitLabel)}</div>
       </div>
       <div class="foco-acoes">
-        <button class="btn btn-ouro" data-foco-rolar>${escapeHtml(rotuloBotao)}</button>
+        <button class="btn ${promovida ? "btn-ouro" : "btn-sobre-navy"}" data-foco-rolar>${escapeHtml(rotuloBotao)}</button>
         ${window.THEORY && window.THEORY[lesson.subtopicId]
           ? '<button class="btn btn-sobre-navy" data-foco-teoria>Ver teoria antes</button>' : ""}
       </div>
       ${aulaHtml}`;
 
+    while (wrap.firstChild) frag.appendChild(wrap.firstChild);
+    return frag;
+  }
+
+  // O quadrado de uma frente NÃO promovida, que abre o bloco dela mais abaixo.
+  function renderFrenteHeader(day, lesson) {
+    const dayAnswers = getDayAnswers();
+    const essentialCount = snapToGroupBoundary(
+      lesson.questions,
+      Math.min(ESSENTIAL_QUESTIONS_PER_LESSON, lesson.questions.length)
+    );
+    const essentials = lesson.questions.slice(0, essentialCount);
+    const respondidas = essentials.filter(
+      (q) => dayAnswers[dayAnswerKey(day, lesson.subtopicId, q.id)] !== undefined
+    ).length;
+
+    const card = document.createElement("div");
+    card.className = "card-navy foco-card frente-header";
+    card.dataset.frenteHeader = lesson.subtopicId;
+    card.appendChild(renderFrenteNavy(day, { lesson, respondidas, total: essentials.length }, false));
     ligarFocoRolar(card, lesson.subtopicId);
     return card;
   }
@@ -815,6 +854,45 @@
   // pelo banco — não vale confiar que sejam sempre seletores válidos.
   function cssEscape(s) {
     return window.CSS && CSS.escape ? CSS.escape(s) : String(s).replace(/["\\]/g, "\\$&");
+  }
+
+  // O cartão de foco é uma promoção de UMA frente do dia: ele já mostra a aula
+  // daquela frente e já oferece a teoria dela. Sem isto, a frente promovida
+  // aparecia duas vezes na mesma tela — "Aula de hoje: Concordância verbal e
+  // nominal" no topo e de novo no cartão dela logo abaixo, com o mesmo tema e
+  // o mesmo link do YouTube.
+  //
+  // Marcar em vez de não renderizar: as outras frentes do dia continuam com a
+  // aula e a teoria delas, porque nada acima está mostrando as suas. E como a
+  // frente promovida muda quando a anterior termina, a marca é recalculada a
+  // cada resposta (updateDayChecklist) — quando o dia fecha, não há frente
+  // promovida e todas voltam a exibir as suas.
+  function sincronizarFrenteEmFoco(day, content) {
+    if (!content || content.type === "simulado") return;
+    const foco = pickFocoLesson(day, content);
+    const idPromovida = foco ? foco.lesson.subtopicId : null;
+
+    content.lessons.forEach((lesson) => {
+      const sel = '[data-lesson-id="' + cssEscape(lesson.subtopicId) + '"]';
+      const bloco = document.querySelector("#day-content .lesson-card" + sel);
+      if (!bloco) return;
+      const header = document.querySelector(
+        '#day-content [data-frente-header="' + cssEscape(lesson.subtopicId) + '"]'
+      );
+      const precisaDeHeader = lesson.subtopicId !== idPromovida;
+
+      if (precisaDeHeader && !header) {
+        // A frente deixou de ser a promovida (a anterior terminou): ela perde
+        // o lugar no topo e ganha o quadrado dela aqui embaixo.
+        bloco.parentNode.insertBefore(renderFrenteHeader(day, lesson), bloco);
+      } else if (!precisaDeHeader && header) {
+        // Virou a promovida: sai daqui pra não aparecer duas vezes.
+        header.remove();
+      } else if (header) {
+        // Continua igual, mas o "questão N de M" dela envelheceu.
+        header.replaceWith(renderFrenteHeader(day, lesson));
+      }
+    });
   }
 
   // ---------- Faixa de métricas do topo ----------
@@ -972,7 +1050,17 @@
     if (content.type === "simulado") {
       container.appendChild(renderSimuladoCard(day, content));
     } else {
+      // Cada matéria do dia abre com o mesmo quadrado navy: nome da frente,
+      // quanto ela pesa em questões e minutos, a aula dela e o botão que leva
+      // às questões. A primeira já vem promovida no painel do topo, então só
+      // as seguintes precisam do quadrado aqui — sem isso a frente promovida
+      // apareceria duas vezes na mesma tela.
+      const foco = pickFocoLesson(day, content);
+      const idPromovida = foco ? foco.lesson.subtopicId : null;
       content.lessons.forEach((lesson) => {
+        if (lesson.subtopicId !== idPromovida) {
+          container.appendChild(renderFrenteHeader(day, lesson));
+        }
         container.appendChild(renderLessonCard(day, lesson));
       });
     }
@@ -983,6 +1071,9 @@
 
     updateDayStateFromDom(day);
     renderDissertSection(day);
+    // Só agora os cartões das frentes existem no DOM: é aqui que dá pra dizer
+    // qual delas o cartão de foco está promovendo.
+    sincronizarFrenteEmFoco(day, content);
     // O cabeçalho mostra "Dia 12 de 90 · sexta, 20 de março": navegar entre
     // dias tem que reescrevê-lo, e os contadores da lateral junto.
     atualizarCabecalho("hoje");

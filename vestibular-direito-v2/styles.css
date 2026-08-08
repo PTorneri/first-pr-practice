@@ -1107,6 +1107,20 @@ h4 { font-size: 1.0625rem; }
 /* #day-content é o único filho da aba Hoje, então é ele que carrega a coluna
    e o respiro entre painel curto, métricas e questões. */
 #day-content { display: flex; flex-direction: column; gap: 22px; }
+
+/* Cada matéria do dia abre com um quadrado navy; o bloco de questões dela vem
+   colado logo abaixo, sem o vão de 22px, pra ler como uma coisa só. */
+.frente-header { margin-bottom: -14px; }
+
+/* A aula e o botão de teoria vivem no quadrado navy da frente. Dentro do bloco
+   de questões eles eram a MESMA aula com o MESMO link, repetida a poucos
+   pixels de distância — some com a cópia, não com a função.
+   Escopado em #day-content: no Caderno de Erros e na Busca o .lesson-card
+   aparece sem quadrado navy nenhum acima, e lá a aula é o único acesso. */
+#day-content .lesson-card > .weekly-video-item { display: none; }
+#day-content .lesson-card .theory-toggle { display: none; }
+/* Colapsado e sem botão visível, o bloco da teoria não pode deixar um vão. */
+#day-content .lesson-card .theory-block:not(:has(.theory-content:not([hidden]))) { margin-bottom: 0; }
 .hoje-topo { display: grid; grid-template-columns: 1.55fr 1fr; gap: 16px; align-items: start; }
 
 .foco-card-titulo { display: flex; flex-direction: column; gap: 6px; }

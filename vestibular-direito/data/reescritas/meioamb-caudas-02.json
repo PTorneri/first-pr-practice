@@ -1,0 +1,110 @@
+{
+  "_comentario": [
+    "Lote 2 -- ULTIMO de atualidades-meioambiente. 73, 74, 78, 80, 81, 82, 88, 97.",
+    "Vinte e um distratores.",
+    "",
+    "Em CINCO das oito a correta era a mais longa ou empatava (73, 74, 80, 81, 82). E a",
+    "razao e sempre a mesma e vale nomear: o gerador escrevia a certa com conteudo e",
+    "enchia os distratores com negacao absoluta mais aviso -- 'nao possuem QUALQUER",
+    "capacidade de influenciar politicas publicas, CONTRARIADA POR campanhas que geraram",
+    "mudancas regulatorias'. Tirando as duas coisas sobra uma linha curta, e a certa fica",
+    "sozinha no alto. Por isso aqui nao houve poda: cada substituto precisou de conteudo",
+    "proprio.",
+    "",
+    "OS QUATRO QUE MAIS RENDEM, todos apoiados em coisa que existe:",
+    "",
+    "  74(c) TROCA DE DIVIDA POR NATUREZA. Era 'eliminar QUALQUER forma de divida",
+    "        publica dos paises em desenvolvimento, medida que EXTRAPOLA O MANDATO",
+    "        desses bancos'. Passa a ser a reducao do endividamento pela troca de divida",
+    "        por compromissos de conservacao. Os debt-for-nature swaps existem, foram",
+    "        feitos no Equador, em Belize e nas Seychelles, e envolvem justamente bancos",
+    "        multilaterais. A alternativa fica plausivel de verdade, e continua nao sendo",
+    "        o objetivo principal do financiamento climatico.",
+    "  97(a) RESFRIAMENTO POR AEROSSOL. Era 'aumento proporcional e AUTOMATICO da",
+    "        temperatura media local em QUALQUER estacao do ano'. Passa a ser o aumento",
+    "        da temperatura pela reducao do efeito de resfriamento dos aerossois em",
+    "        suspensao. Esse efeito e real e conhecido -- limpar o ar de particulado",
+    "        remove um sombreamento que esfria a superficie. Um distrator que so cai por",
+    "        nao ser o beneficio DIRETO que a questao pede, que e o de saude.",
+    "  97(d) e da mesma familia: mais radiacao solar chegando as lavouras periurbanas.",
+    "        Solar dimming existe, e o argumento inverte o sinal do que estava escrito",
+    "        antes ('REDUCAO da produtividade agricola, efeito NAO RESPALDADO pelos",
+    "        estudos' -- uma alternativa que informava nao ter respaldo).",
+    "  81(b) Era 'nao contribui para o sequestro de carbono, AO CONTRARIO da monocultura",
+    "        de eucalipto, QUE TAMBEM ABSORVE CO2' -- a alternativa se corrigia no fim.",
+    "        Passa a ser: sequestra MENOS carbono por hectare que o eucalipto, cujo",
+    "        crescimento rapido acumula biomassa em menos tempo. Isso e verdade no curto",
+    "        prazo, e nao e o que a questao pergunta, que e biodiversidade.",
+    "  81(c) plantio comercial com corredores de vegetacao nativa entre os talhoes --",
+    "        pratica real de mosaico, no lugar de 'gera resultados IDENTICOS, EQUIPARACAO",
+    "        QUE CONTRARIA estudos comparativos'.",
+    "  88(e) reducao dos voos curtos por acordo de codigo compartilhado com ferrovia,",
+    "        que a Air France e a Lufthansa fazem, no lugar de 'eliminacao IMEDIATA e",
+    "        TOTAL de TODOS os voos comerciais'.",
+    "",
+    "Com este lote atualidades-meioambiente fecha em zero pela leitura."
+  ],
+  "subtopic": "atualidades-meioambiente",
+  "questoes": {
+    "atualidades-meioambiente-73": {
+      "alternativas": {
+        "a": "atuam sobretudo no âmbito internacional, com sede e financiamento externos e pouca articulação com as organizações de base das regiões onde intervêm",
+        "e": "elaboram os planos de manejo das unidades de conservação por delegação formal dos órgãos ambientais competentes"
+      },
+      "explicacao": "As ONGs ambientais fiscalizam, pressionam e complementam a atuação do Estado e das empresas na proteção ambiental, sem dispor de poder coercitivo formal — sua força está na denúncia, na produção de dados e na mobilização. A atuação predominantemente internacional com pouca articulação local é o distrator mais plausível, porque descreve parte do financiamento do setor: as organizações que operam no Brasil trabalham com redes locais e conselhos comunitários. Atribuir-lhes a elaboração dos planos de manejo transfere a elas uma competência do órgão gestor, que pode contratar apoio técnico sem delegar a atribuição. Substituir o Estado extrapola o papel complementar. E poder de veto sobre licenças é competência administrativa que nenhuma ONG detém."
+    },
+    "atualidades-meioambiente-74": {
+      "alternativas": {
+        "c": "reduzir o endividamento dos países em desenvolvimento pela troca de parcelas de dívida por compromissos de conservação ambiental",
+        "e": "substituir o investimento privado nos setores de energia e infraestrutura, assumindo integralmente o risco dos projetos de longo prazo em países emergentes"
+      },
+      "explicacao": "Os bancos multilaterais atuam no financiamento climático para viabilizar recursos e condições mais favoráveis — prazos longos, juros abaixo do mercado, garantias — a projetos ambientais em países com menor capacidade fiscal. A troca de dívida por conservação é o distrator mais forte, porque esses acordos existem de verdade, foram firmados no Equador, em Belize e nas Seychelles, e contaram com participação de bancos multilaterais: é um instrumento entre outros, não o objetivo central da atuação. Condicionar empréstimos a metas verificadas descreve uma prática real dessas instituições, subordinada ao mesmo objetivo. Impor tarifas punitivas é competência comercial, não bancária. E substituir o capital privado inverte o papel desses bancos, que existem para atraí-lo."
+    },
+    "atualidades-meioambiente-78": {
+      "alternativas": {
+        "a": "isentos de emissão de material particulado e de óxidos de enxofre, poluentes ausentes tanto do cultivo quanto da queima desses combustíveis",
+        "b": "tecnicamente idênticos aos combustíveis fósseis, por compartilharem a mesma composição de hidrocarbonetos e o mesmo poder calorífico por litro",
+        "c": "mais poluentes que os fósseis quando se considera a expansão da área agrícola necessária para produzi-los em escala"
+      },
+      "explicacao": "Os biocombustíveis são considerados de menor impacto líquido de carbono ao longo do ciclo de vida, com a ressalva de que o balanço real depende do uso da terra e dos insumos empregados no cultivo. A alternativa da mudança indireta do uso da terra é a mais séria entre as erradas, porque esse é um argumento técnico consistente e discutido na literatura: ele mostra que o balanço pode se deteriorar em certos cenários, sem tornar os biocombustíveis mais poluentes em qualquer caso. A neutralidade em carbono por definição ignora as emissões de plantio, fertilizante e transporte. Supor ausência de enxofre no cultivo desconsidera os insumos agrícolas. E a identidade técnica com os fósseis apaga a origem biogênica recente do carbono, que é o ponto da comparação."
+    },
+    "atualidades-meioambiente-80": {
+      "alternativas": {
+        "b": "apenas o país onde o veículo foi fabricado, uma vez que a maior parte das emissões se concentra na produção da bateria e não no uso do veículo"
+      },
+      "explicacao": "A comparação correta exige análise de ciclo de vida completo: fabricação da bateria, origem da eletricidade usada na recarga e destinação final do veículo e de seus componentes. A alternativa que reduz tudo ao país de fabricação é a mais bem raciocinada entre as erradas, porque a produção da bateria concentra de fato uma fração grande das emissões de um elétrico — e o restante depende da matriz elétrica onde ele roda, o que faz o mesmo carro ter impactos muito distintos na Noruega e na Polônia. Olhar só a intensidade de carbono da recarga comete o erro simétrico, o de esquecer a fabricação. Considerar apenas o uso diário é a comparação mais comum e a mais incompleta. E o preço de venda não mede emissão."
+    },
+    "atualidades-meioambiente-81": {
+      "alternativas": {
+        "a": "é inviável economicamente sem subsídio público, uma vez que espécies nativas de crescimento lento não geram receita de madeira em prazo comparável ao do eucalipto",
+        "b": "sequestra menos carbono por hectare do que a monocultura de eucalipto, cujo crescimento rápido acumula biomassa em menos tempo",
+        "c": "gera resultados equivalentes em biodiversidade quando o plantio comercial mantém corredores de vegetação nativa entre os talhões"
+      },
+      "explicacao": "A restauração com espécies nativas diversas tende a recompor de forma mais completa a estrutura e a biodiversidade do ecossistema original, com estratos, fauna associada e teia de interações que a monocultura não reproduz. O sequestro de carbono por hectare é o distrator mais forte, porque no curto prazo o eucalipto de fato acumula biomassa mais rápido: acontece que a questão pergunta por biodiversidade, e velocidade de crescimento não é diversidade. Os corredores de vegetação nativa entre talhões são prática real de mosaico e melhoram a permeabilidade da paisagem, sem igualar a floresta restaurada. A inviabilidade econômica sem subsídio é discussão de custo, não de conservação. E a restauração com nativas exige investimento inicial maior, não menor."
+    },
+    "atualidades-meioambiente-82": {
+      "alternativas": {
+        "c": "dispensar a fiscalização estatal nas áreas certificadas, cuja auditoria privada substitui a vistoria dos órgãos ambientais competentes",
+        "d": "restringir a extração comercial de madeira às florestas plantadas, vedando o manejo em floresta nativa mesmo sob plano previamente aprovado",
+        "e": "assegurar preço mínimo à madeira certificada, fixado em acordo entre as certificadoras e os importadores dos mercados europeu e norte-americano"
+      },
+      "explicacao": "A certificação florestal atesta, por critérios verificáveis e auditoria periódica, que a madeira foi produzida de forma ambiental e socialmente responsável, com respeito a áreas de preservação, direitos trabalhistas e comunidades locais. A rastreabilidade da cadeia é o distrator mais difícil de recusar, porque a cadeia de custódia integra o sistema — é um meio pelo qual a certificação funciona, e não sua função principal, que é atestar a origem responsável. A auditoria privada convive com a fiscalização estatal, sem substituí-la. A certificação pressupõe manejo em floresta nativa, e não sua proibição. E ela costuma implicar preço maior, não menor, sem qualquer acordo de preço mínimo."
+    },
+    "atualidades-meioambiente-88": {
+      "alternativas": {
+        "a": "a substituição da frota de longo curso por aeronaves elétricas, já em operação comercial regular nas rotas transatlânticas",
+        "b": "a adesão a um esquema internacional que fixa cota máxima de emissões por companhia, com sanção pecuniária para quem a exceder",
+        "e": "a redução da frequência de voos curtos, substituídos por acordos de código compartilhado firmados com operadoras ferroviárias de alta velocidade"
+      },
+      "explicacao": "A estratégia mais adotada é a compra de créditos de carbono para compensar parte das emissões, o que não elimina as emissões diretas do setor e por isso é objeto de crítica. A substituição de voos curtos por acordos com ferrovias é o distrator mais atual, porque isso acontece na Europa, com companhias vendendo trecho ferroviário sob código de voo — é prática de algumas empresas em mercados específicos, não a estratégia geral de tratamento das emissões. A cota máxima com sanção pecuniária descreve um regime mais rígido que o esquema internacional em vigor, baseado em compensação. As metas de intensidade por unidade produzida existem e não reduzem o total. E aeronaves elétricas não operam rotas transatlânticas."
+    },
+    "atualidades-meioambiente-97": {
+      "alternativas": {
+        "a": "aumento proporcional da temperatura média local, pela redução do efeito de resfriamento dos aerossóis antes em suspensão",
+        "c": "eliminação da necessidade de regular o trânsito, já que a frota renovada passa a emitir abaixo dos limites legais",
+        "d": "aumento da produtividade agrícola nas áreas periurbanas, pela maior incidência de radiação solar sobre as lavouras"
+      },
+      "explicacao": "A evidência sustenta que reduzir a poluição do ar gera benefício direto de saúde: menos internações e mortes por doenças respiratórias e cardiovasculares, com queda de gastos públicos e privados e melhora da qualidade de vida. As duas alternativas mais fortes se apoiam em efeitos reais: aerossóis em suspensão de fato sombreiam e esfriam a superfície, e menos particulado significa mais radiação chegando ao solo. Nenhuma delas é o benefício direto que a questão pede, e a primeira é um efeito colateral indesejado. Supor que a frota renovada dispensa a regulação do trânsito ignora as demais fontes e o próprio volume de veículos. E a arrecadação sobre atividades poluidoras tende a cair quando a poluição cai."
+    }
+  }
+}

@@ -141,14 +141,14 @@
                          "texto_apoio":  "Investidores e empresas têm incorporado, na avaliação de riscos e oportunidades, critérios que vão além do desempenho financeiro tradicional.",
                          "enunciado":  "A sigla ESG, amplamente utilizada nesse contexto, refere-se a critérios de avaliação relacionados a:",
                          "alternativas":  {
-                                              "a":  "energia, sustentabilidade e gestão de recursos hídricos e minerais, tema setorial distinto",
-                                              "b":  "eficiência, segurança e governabilidade operacional, sem relação com a sigla ESG",
-                                              "c":  "ambiental, setorial e geracional, critérios de classificação de risco climático",
+                                              "a":  "energia, sustentabilidade e gestão, critérios usados na classificação de eficiência energética de edifícios",
+                                              "b":  "eficiência, segurança e governabilidade, critérios de avaliação de risco operacional em auditorias internas",
+                                              "c":  "ambiental, setorial e geracional, critérios de elegibilidade a financiamento de bancos de desenvolvimento",
                                               "d":  "ambiental, social e governança corporativa, critérios de sustentabilidade empresarial",
-                                              "e":  "ética, saúde e globalização, critérios frequentemente confundidos com a sigla ESG"
+                                              "e":  "ética, saúde e globalização, critérios adotados em relatórios de responsabilidade social corporativa"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "ESG é a sigla em inglês para Environmental, Social and Governance (ambiental, social e governança), conjunto de critérios utilizados para avaliar práticas de sustentabilidade, responsabilidade social e qualidade da governança corporativa de empresas.",
+                         "explicacao":  "ESG são as iniciais de ambiental, social e governança corporativa — em inglês, environmental, social and governance —, o conjunto de critérios pelos quais investidores avaliam a sustentabilidade e a conduta de uma empresa. As demais trincas combinam palavras do mesmo campo semântico com glosas plausíveis, e nenhuma corresponde à sigla: a de eficiência e risco operacional descreve auditoria interna, e a de responsabilidade social remete a um relatório que existe e é anterior ao ESG. A pista decisiva está no G: governança corporativa, e não gestão, governabilidade ou geracional — é o pilar que trata de conselho de administração, transparência e conflito de interesses.",
                          "formato":  "direta"
                      },
                      {
@@ -156,14 +156,14 @@
                          "texto_apoio":  "A expansão da fronteira agropecuária, a extração ilegal de madeira e a grilagem de terras públicas estão entre os fatores mais associados à perda de cobertura florestal em regiões tropicais.",
                          "enunciado":  "Esses fatores indicam que o desmatamento em larga escala é, sobretudo, um fenômeno:",
                          "alternativas":  {
-                                              "a":  "desconectado de qualquer política pública de fiscalização ou ordenamento territorial",
+                                              "a":  "determinado principalmente pela falta de agentes de fiscalização em campo, e não pelo valor econômico da terra",
                                               "b":  "determinado sobretudo por ciclos naturais de regeneração e queda da vegetação",
-                                              "c":  "exclusivamente natural, sem relação com atividades econômicas ou fundiárias",
-                                              "d":  "restrito unicamente a causas climáticas, sem relação com a posse da terra",
+                                              "c":  "resultante da expansão natural do fogo em anos de estiagem prolongada na região",
+                                              "d":  "restrito às áreas de fronteira agrícola já tituladas, onde a produção é regularizada",
                                               "e":  "associado a dinâmicas socioeconômicas e a interesses ligados ao uso da terra"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O desmatamento em larga escala está fortemente associado a dinâmicas econômicas, como a expansão da atividade agropecuária e a disputa pela posse da terra, o que torna políticas de fiscalização, ordenamento fundiário e incentivos econômicos centrais para seu combate.",
+                         "explicacao":  "O desmatamento em larga escala é fenômeno associado a dinâmicas socioeconômicas e a interesses ligados ao uso e à posse da terra — grilagem, pecuária extensiva, valorização fundiária. Atribuí-lo à falta de agentes de fiscalização é o distrator mais forte, porque a capacidade de fiscalização de fato pesa nos números anuais: ela é uma condição que modula o fenômeno, não a causa que o move, e é justamente o valor da terra que dá sentido econômico à derrubada. Restringi-lo às áreas já tituladas inverte o padrão, concentrado em terras públicas sem destinação. E explicá-lo por ciclos naturais de regeneração ou pela expansão do fogo em estiagem desliga o processo da economia que o organiza.",
                          "formato":  "direta"
                      },
                      {
@@ -336,14 +336,14 @@
                          "texto_apoio":  "A destinação inadequada de resíduos sólidos urbanos, como o descarte em lixões a céu aberto, ainda é uma realidade em diversas regiões do mundo.",
                          "enunciado":  "Em comparação com lixões a céu aberto, aterros sanitários adequadamente projetados diferenciam-se, sobretudo, por:",
                          "alternativas":  {
-                                              "a":  "não possuírem nenhum tipo de impacto ambiental, alegação incompatível com os relatórios de monitoramento geotécnico exigidos",
+                                              "a":  "reduzirem o volume dos resíduos pela compactação mecânica antes da disposição em célula",
                                               "b":  "conterem sistemas de impermeabilização do solo e tratamento de gases e do chorume, conforme normas técnicas",
-                                              "c":  "operarem exclusivamente com resíduos previamente triados na fonte geradora",
-                                              "d":  "serem construídos exclusivamente em áreas urbanas centrais e densamente povoadas, contrariando as diretrizes de zoneamento",
-                                              "e":  "dispensarem qualquer forma de monitoramento ambiental ou geotécnico contínuo, o que violaria as normas técnicas aplicáveis"
+                                              "c":  "operarem apenas com resíduos previamente triados na fonte geradora, o que dispensa a separação de recicláveis dentro da própria instalação",
+                                              "d":  "serem construídos em áreas urbanas centrais, o que reduz a distância e o custo do transporte dos resíduos",
+                                              "e":  "dispensarem o licenciamento ambiental prévio, por serem obras de interesse público municipal"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Aterros sanitários adequadamente projetados possuem sistemas de impermeabilização do solo e de captação e tratamento de gases (como o metano) e do chorume (líquido gerado pela decomposição dos resíduos), reduzindo significativamente a contaminação do solo, do ar e dos lençóis freáticos em comparação com lixões a céu aberto.",
+                         "explicacao":  "O que distingue um aterro sanitário de um lixão é a engenharia: impermeabilização do solo por manta, drenagem e tratamento do chorume e captação dos gases, conforme normas técnicas. A compactação mecânica é o distrator mais plausível, porque ela realmente ocorre no aterro e reduz o volume — e não é o que evita a contaminação do lençol freático, que é o problema do lixão. A triagem na fonte é desejável e não condição de operação. A localização segue diretrizes de zoneamento que a afastam de áreas densamente povoadas. E o licenciamento ambiental prévio é exigido, como o monitoramento geotécnico contínuo.",
                          "formato":  "direta"
                      },
                      {
@@ -381,14 +381,14 @@
                          "texto_apoio":  "Grandes volumes de resíduos plásticos, descartados de forma inadequada, acabam chegando a rios e, posteriormente, aos oceanos, onde se degradam lentamente.",
                          "enunciado":  "Um dos principais impactos ambientais associados à poluição plástica marinha é:",
                          "alternativas":  {
-                                              "a":  "a eliminação de espécies invasoras marinhas, efeito colateral benéfico atribuído erroneamente aos resíduos plásticos",
-                                              "b":  "o aumento da absorção de CO2 pelos oceanos, processo que supostamente neutralizaria os efeitos da poluição plástica marinha",
+                                              "a":  "a formação de recifes artificiais pelos resíduos acumulados, que passam a servir de substrato para a fixação de organismos marinhos",
+                                              "b":  "o aumento da absorção de CO2 pelos oceanos, favorecido pela camada de resíduos que reduz a troca de gases na superfície",
                                               "c":  "a ingestão e o enredamento de animais marinhos, além da formação de microplásticos que entram na cadeia alimentar",
-                                              "d":  "a redução da salinidade da água do mar, fenômeno associado à poluição plástica segundo estudos ainda não comprovados",
+                                              "d":  "a redução da salinidade superficial da água do mar, provocada pela liberação de aditivos plásticos solúveis",
                                               "e":  "o aumento da turbidez da água, que reduz a penetração de luz e prejudica a fotossíntese"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A poluição plástica nos oceanos causa impactos como a ingestão de plástico e o enredamento de animais marinhos, além da fragmentação em microplásticos, que são ingeridos por organismos em diferentes níveis da cadeia alimentar, incluindo espécies consumidas por humanos.",
+                         "explicacao":  "O impacto central da poluição plástica marinha é a ingestão e o enredamento de animais, somados à fragmentação em microplásticos que entram na cadeia alimentar e chegam ao consumo humano. A formação de substrato para organismos marinhos é o distrator mais interessante, porque isso ocorre de verdade — e o efeito documentado não é benéfico: o resíduo flutuante transporta espécies invasoras para longe de sua área de origem. Supor aumento da absorção de CO2 por barreira de superfície inverte o sentido da troca gasosa, que a poluição prejudica. A liberação de aditivos não altera a salinidade de forma mensurável. E o aumento da turbidez é efeito secundário, não o impacto principal.",
                          "formato":  "direta"
                      },
                      {
@@ -708,13 +708,13 @@
                          "enunciado":  "A principal diferença entre um mercado de carbono regulado e um mercado voluntário de carbono é que, no mercado regulado:",
                          "alternativas":  {
                                               "a":  "a participação e os limites de emissão são definidos por lei, ao passo que no voluntário a compensação decorre de decisão espontânea",
-                                              "b":  "não existe qualquer forma de fiscalização ou monitoramento de emissões, ao contrário do que ocorre no mercado voluntário de créditos",
+                                              "b":  "a fiscalização é feita pelas próprias empresas participantes, que declaram suas emissões sem verificação por terceiro independente",
                                               "c":  "apenas pessoas físicas podem negociar créditos de carbono, diferentemente do que ocorre no mercado voluntário, aberto a empresas",
-                                              "d":  "os créditos de carbono não podem ser precificados nem negociados entre empresas, afirmação incompatível com as bolsas internacionais existentes",
+                                              "d":  "os créditos são distribuídos gratuitamente às empresas conforme sua emissão histórica, e não podem ser transferidos ou negociados entre participantes do sistema",
                                               "e":  "apenas o mercado voluntário admite projetos de reflorestamento como fonte de créditos"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "No mercado regulado, governos estabelecem por lei limites de emissão para determinados setores, tornando obrigatórios a participação e o cumprimento de metas; no mercado voluntário, empresas e indivíduos compram créditos por iniciativa própria, sem exigência legal.",
+                         "explicacao":  "No mercado regulado, a participação e os limites de emissão são fixados por lei, com teto decrescente e sanção para quem o excede; no voluntário, a compensação decorre de decisão espontânea da empresa. A distribuição gratuita de créditos conforme emissão histórica é o distrator mais bem informado, porque essa alocação existiu na primeira fase do sistema europeu — e a negociabilidade é justamente o que define um mercado de carbono, de modo que proibi-la o descaracterizaria. Deixar a verificação nas mãos do próprio emissor descreve uma fragilidade do mercado voluntário, não do regulado. Restringir a negociação a pessoas físicas inverte quem opera nesses mercados. E projetos de reflorestamento geram créditos nos dois.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -774,13 +774,13 @@
                                               "a":  "produção agrícola e ausência de manejo integrado de pragas nas lavouras de larga escala",
                                               "b":  "produção de alimentos e produção de biocombustíveis, que disputam a mesma área cultivável",
                                               "c":  "produtividade agrícola de curto prazo e conservação da biodiversidade no longo prazo",
-                                              "d":  "agricultura familiar e agricultura de subsistência, sem relação com uso de insumos químicos",
+                                              "d":  "agricultura familiar e agronegócio exportador, que competem pelo mesmo crédito rural subsidiado pelo Estado",
                                               "e":  "exportação de commodities agrícolas e consumo interno de alimentos processados no mercado nacional"
                                           },
                          "resposta":  "c",
                          "dificuldade":  "media",
                          "formato":  "direta",
-                         "explicacao":  "O agrotóxico entrega safra maior agora e cobra depois, em polinizador morto, solo empobrecido e água contaminada — a tensão é entre horizontes de tempo. Em (a) está a alternativa mais próxima e ainda assim deslocada: o manejo integrado é a resposta possível a esse dilema, e não o polo que se opõe à produção. Em (b), alimentos contra biocombustíveis é outra disputa, por área. Em (d) e (e), nem os tipos de agricultura nem o destino da produção explicam o efeito descrito."
+                         "explicacao":  "Os efeitos descritos revelam a tensão entre produtividade agrícola no curto prazo e conservação da biodiversidade no longo prazo: o ganho imediato de safra se obtém por meio de práticas que corroem a base biológica da própria produção. A competição entre agricultura familiar e agronegócio pelo crédito rural é o distrator mais concreto, porque essa disputa orçamentária existe e é discutida a cada Plano Safra — e é uma tensão de política pública, não a tensão ecológica que o conjunto de efeitos ilustra. A disputa entre alimentos e biocombustíveis pela área cultivável também é real, e opera em outro eixo. E a ausência de manejo integrado de pragas é uma das causas do quadro, não a tensão que ele revela."
                      },
                      {
                          "id":  "atualidades-meioambiente-52",
@@ -885,12 +885,12 @@
                          "alternativas":  {
                                               "a":  "tecnologias associadas à redução de emissões dependem de cadeias de extração mineral com impactos ambientais e sociais relevantes",
                                               "b":  "o consumo de água na extração de lítio é integralmente compensado pela reciclagem das baterias",
-                                              "c":  "a mineração de lítio não gera impacto ambiental ou social nas regiões produtoras, conclusão contrária a relatórios socioambientais",
-                                              "d":  "baterias elétricas dispensam totalmente o uso de recursos minerais, afirmação incompatível com a dependência de lítio, cobalto e níquel",
-                                              "e":  "a extração de lítio está distribuída igualmente entre todos os países do mundo, sem concentração geográfica"
+                                              "c":  "a mineração de lítio gera impacto ambiental amplamente compensado pela receita de royalties que transfere às comunidades das regiões produtoras",
+                                              "d":  "baterias elétricas dependem de minerais abundantes na crosta terrestre, o que torna sua extração ambientalmente pouco onerosa",
+                                              "e":  "a extração de lítio se distribui entre dezenas de países produtores, sem concentração geográfica relevante"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O paradoxo discutido reside no fato de que tecnologias associadas à descarbonização, como baterias para veículos elétricos, dependem de cadeias de extração mineral (lítio, cobalto, níquel) que podem gerar impactos ambientais e sociais relevantes nas regiões produtoras, exigindo que a transição energética também considere os efeitos de toda a cadeia produtiva, e não apenas as emissões na etapa de uso.",
+                         "explicacao":  "O paradoxo da transição energética é que as tecnologias de baixa emissão dependem de cadeias de extração mineral com impactos ambientais e sociais consideráveis — o lítio do Salar de Atacama consome água em um dos lugares mais secos do mundo. A alternativa que reconhece o impacto e o dá por compensado pela receita local é a mais difícil de recusar, porque a compensação é o argumento das mineradoras e há royalties em jogo: ela apenas desloca o paradoxo, sem desfazê-lo. Chamar lítio, cobalto e níquel de abundantes e de extração pouco onerosa contraria a geografia dessas reservas. A produção é fortemente concentrada em poucos países. E a reciclagem de baterias ainda não compensa o consumo de água na extração.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -1012,13 +1012,13 @@
                          "enunciado":  "Uma crítica frequente a essa estratégia de compensação ambiental (offsetting) como resposta principal à crise climática é que ela pode:",
                          "alternativas":  {
                                               "a":  "concentrar os projetos de compensação em países com menor capacidade de fiscalização",
-                                              "b":  "obrigar automaticamente a substituição total da matriz energética da empresa em um único exercício fiscal, sem transição gradual",
+                                              "b":  "elevar o custo da compensação acima do custo de reduzir as emissões na própria operação da empresa",
                                               "c":  "adiar reduções efetivas nas emissões, transferindo o esforço de mitigação a terceiros e dependendo da permanência dos projetos compensatórios",
-                                              "d":  "ser tecnicamente impossível de ser realizada por qualquer empresa, afirmação contrariada pela ampla adoção desses mecanismos no mercado voluntário",
-                                              "e":  "eliminar de forma definitiva e permanente qualquer emissão futura da empresa, tornando desnecessária qualquer compensação adicional"
+                                              "d":  "depender de metodologias de cálculo de emissões evitadas que superestimam o carbono efetivamente retido pelos projetos certificados como compensação",
+                                              "e":  "eliminar a necessidade de relatar as emissões diretas da empresa, que passam a ser informadas apenas pelo valor total compensado"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Críticos apontam que a compensação ambiental pode se tornar um substituto, e não um complemento, à redução efetiva de emissões na fonte, além de depender de fatores como a permanência de longo prazo dos projetos de compensação (por exemplo, o risco de incêndios em áreas reflorestadas) e da correta mensuração da adicionalidade desses projetos.",
+                         "explicacao":  "A crítica principal ao offsetting é que ele adia reduções efetivas: transfere o esforço de mitigação a terceiros e faz o resultado depender da permanência de projetos que podem ser desfeitos por queimada, corte ou mudança de uso do solo. A superestimação do carbono retido pelas metodologias de emissão evitada é o distrator mais forte, porque é uma crítica verdadeira e severa, que já derrubou a credibilidade de certificadoras inteiras — é um problema de mensuração, e a objeção do enunciado é de substituição do esforço próprio. A concentração de projetos em países de fiscalização frágil é outra crítica real. E as alternativas que fazem a compensação sair mais caro que reduzir, ou dispensar o relato das emissões diretas, descrevem o contrário do que o mecanismo faz.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -1123,14 +1123,14 @@
                          "texto_apoio":  "Organizações não governamentais atuam em atividades como monitoramento de desmatamento por satélite, litígio estratégico em defesa de comunidades afetadas e pressão sobre empresas e governos para o cumprimento de metas ambientais.",
                          "enunciado":  "Esse conjunto de atuações caracteriza as ONGs ambientais, sobretudo, como atores que:",
                          "alternativas":  {
-                                              "a":  "atuam exclusivamente no âmbito internacional, sem qualquer relação com comunidades locais ou organizações de base",
+                                              "a":  "atuam sobretudo no âmbito internacional, com sede e financiamento externos e pouca articulação com as organizações de base das regiões onde intervêm",
                                               "b":  "substituem integralmente o papel do Estado na formulação e execução de políticas ambientais e de fiscalização",
                                               "c":  "fiscalizam, pressionam e complementam a atuação estatal e empresarial na proteção ambiental, sem deter poder coercitivo formal",
                                               "d":  "detêm poder de veto sobre licenças ambientais concedidas pelo órgão competente",
-                                              "e":  "não possuem qualquer capacidade de influenciar políticas públicas, contrariada por campanhas que geraram mudanças regulatórias"
+                                              "e":  "elaboram os planos de manejo das unidades de conservação por delegação formal dos órgãos ambientais competentes"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "ONGs ambientais atuam como atores da sociedade civil que fiscalizam, denunciam e pressionam governos e empresas, além de apoiar comunidades afetadas e monitorar dados ambientais, complementando — mas não substituindo — o papel do Estado, já que não possuem poder coercitivo formal.",
+                         "explicacao":  "As ONGs ambientais fiscalizam, pressionam e complementam a atuação do Estado e das empresas na proteção ambiental, sem dispor de poder coercitivo formal — sua força está na denúncia, na produção de dados e na mobilização. A atuação predominantemente internacional com pouca articulação local é o distrator mais plausível, porque descreve parte do financiamento do setor: as organizações que operam no Brasil trabalham com redes locais e conselhos comunitários. Atribuir-lhes a elaboração dos planos de manejo transfere a elas uma competência do órgão gestor, que pode contratar apoio técnico sem delegar a atribuição. Substituir o Estado extrapola o papel complementar. E poder de veto sobre licenças é competência administrativa que nenhuma ONG detém.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -1141,12 +1141,12 @@
                          "alternativas":  {
                                               "a":  "impor tarifas comerciais punitivas a países que não cumprem metas climáticas estabelecidas em acordos multilaterais",
                                               "b":  "condicionar empréstimos à adoção de metas de redução verificadas por auditoria independente",
-                                              "c":  "eliminar qualquer forma de dívida pública dos países em desenvolvimento, medida que extrapola o mandato desses bancos",
+                                              "c":  "reduzir o endividamento dos países em desenvolvimento pela troca de parcelas de dívida por compromissos de conservação ambiental",
                                               "d":  "viabilizar recursos e condições de financiamento mais favoráveis para projetos ambientais em países com menor capacidade fiscal própria",
-                                              "e":  "substituir integralmente investimentos privados, afirmação incompatível com o papel complementar desses bancos ao capital privado"
+                                              "e":  "substituir o investimento privado nos setores de energia e infraestrutura, assumindo integralmente o risco dos projetos de longo prazo em países emergentes"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Bancos multilaterais de desenvolvimento ampliam o financiamento climático oferecendo condições de crédito mais favoráveis do que o mercado privado tradicional para projetos de energia renovável, adaptação e conservação, sobretudo em países com menor capacidade fiscal para arcar sozinhos com esses investimentos.",
+                         "explicacao":  "Os bancos multilaterais atuam no financiamento climático para viabilizar recursos e condições mais favoráveis — prazos longos, juros abaixo do mercado, garantias — a projetos ambientais em países com menor capacidade fiscal. A troca de dívida por conservação é o distrator mais forte, porque esses acordos existem de verdade, foram firmados no Equador, em Belize e nas Seychelles, e contaram com participação de bancos multilaterais: é um instrumento entre outros, não o objetivo central da atuação. Condicionar empréstimos a metas verificadas descreve uma prática real dessas instituições, subordinada ao mesmo objetivo. Impor tarifas punitivas é competência comercial, não bancária. E substituir o capital privado inverte o papel desses bancos, que existem para atraí-lo.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -1203,14 +1203,14 @@
                          "texto_apoio":  "Combustíveis derivados de plantas, como cana-de-açúcar e milho, emitem CO2 durante a queima, mas parte desse carbono havia sido previamente absorvida pela planta durante seu crescimento, em um ciclo mais curto do que o do carbono fóssil.",
                          "enunciado":  "Por esse motivo, os biocombustíveis costumam ser considerados, em relação aos combustíveis fósseis:",
                          "alternativas":  {
-                                              "a":  "isentos de qualquer emissão de gases de efeito estufa em todo o seu ciclo de produção, transporte e uso final",
-                                              "b":  "tecnicamente idênticos aos combustíveis fósseis, equívoco que ignora a origem biogênica recente do carbono nos biocombustíveis",
-                                              "c":  "sempre mais poluentes do que os combustíveis fósseis em qualquer cenário de produção e transporte",
+                                              "a":  "isentos de emissão de material particulado e de óxidos de enxofre, poluentes ausentes tanto do cultivo quanto da queima desses combustíveis",
+                                              "b":  "tecnicamente idênticos aos combustíveis fósseis, por compartilharem a mesma composição de hidrocarbonetos e o mesmo poder calorífico por litro",
+                                              "c":  "mais poluentes que os fósseis quando se considera a expansão da área agrícola necessária para produzi-los em escala",
                                               "d":  "de menor impacto líquido de carbono no ciclo de vida, embora o balanço real dependa do uso da terra e dos insumos empregados",
                                               "e":  "neutros em carbono por definição, já que a combustão devolve à atmosfera apenas o CO2 absorvido"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Biocombustíveis tendem a apresentar menor impacto líquido de carbono ao longo do ciclo de vida, pois parte do CO2 emitido na queima havia sido absorvida durante o crescimento da planta; porém, esse balanço depende de fatores como mudança de uso da terra, insumos agrícolas e transporte, podendo variar significativamente entre diferentes cadeias produtivas.",
+                         "explicacao":  "Os biocombustíveis são considerados de menor impacto líquido de carbono ao longo do ciclo de vida, com a ressalva de que o balanço real depende do uso da terra e dos insumos empregados no cultivo. A alternativa da mudança indireta do uso da terra é a mais séria entre as erradas, porque esse é um argumento técnico consistente e discutido na literatura: ele mostra que o balanço pode se deteriorar em certos cenários, sem tornar os biocombustíveis mais poluentes em qualquer caso. A neutralidade em carbono por definição ignora as emissões de plantio, fertilizante e transporte. Supor ausência de enxofre no cultivo desconsidera os insumos agrícolas. E a identidade técnica com os fósseis apaga a origem biogênica recente do carbono, que é o ponto da comparação.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -1236,13 +1236,13 @@
                          "enunciado":  "Para avaliar corretamente o impacto climático de um veículo elétrico em comparação a um veículo a combustão, é necessário considerar:",
                          "alternativas":  {
                                               "a":  "apenas as emissões geradas durante o uso diário do veículo no trânsito urbano, sem considerar a fabricação",
-                                              "b":  "apenas o país onde o veículo foi fabricado, sem qualquer relação com a matriz elétrica local",
+                                              "b":  "apenas o país onde o veículo foi fabricado, uma vez que a maior parte das emissões se concentra na produção da bateria e não no uso do veículo",
                                               "c":  "exclusivamente o preço de venda do veículo elétrico no mercado consumidor final, sem considerar custos de manutenção",
                                               "d":  "apenas a intensidade de carbono da matriz elétrica do país onde o veículo é recarregado",
                                               "e":  "a análise de ciclo de vida completo, incluindo fabricação da bateria, origem da eletricidade da recarga e descarte final"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A avaliação climática correta de um veículo elétrico exige uma análise de ciclo de vida completo, que inclua as emissões da fabricação (sobretudo da bateria), a origem da eletricidade usada na recarga (que varia conforme a matriz elétrica de cada país) e o descarte final, e não apenas a ausência de emissões pelo escapamento durante o uso.",
+                         "explicacao":  "A comparação correta exige análise de ciclo de vida completo: fabricação da bateria, origem da eletricidade usada na recarga e destinação final do veículo e de seus componentes. A alternativa que reduz tudo ao país de fabricação é a mais bem raciocinada entre as erradas, porque a produção da bateria concentra de fato uma fração grande das emissões de um elétrico — e o restante depende da matriz elétrica onde ele roda, o que faz o mesmo carro ter impactos muito distintos na Noruega e na Polônia. Olhar só a intensidade de carbono da recarga comete o erro simétrico, o de esquecer a fabricação. Considerar apenas o uso diário é a comparação mais comum e a mais incompleta. E o preço de venda não mede emissão.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -1251,14 +1251,14 @@
                          "texto_apoio":  "Um projeto de recomposição florestal pode ser conduzido com espécies nativas diversas, buscando restabelecer um ecossistema próximo do original, ou com uma única espécie de crescimento rápido, voltada à produção de madeira ou celulose.",
                          "enunciado":  "Do ponto de vista da conservação da biodiversidade, a diferença central entre restauração florestal com espécies nativas diversas e plantio comercial de monocultura (como eucalipto) é que a primeira, em geral:",
                          "alternativas":  {
-                                              "a":  "é sempre inviável economicamente, ao contrário da monocultura comercial destinada à exportação em larga escala",
-                                              "b":  "não contribui para o sequestro de carbono, ao contrário da monocultura comercial de eucalipto ou pinus, que também absorve CO2",
-                                              "c":  "gera resultados idênticos à segunda em termos de biodiversidade, equiparação que contraria estudos comparativos de estrutura florestal",
+                                              "a":  "é inviável economicamente sem subsídio público, uma vez que espécies nativas de crescimento lento não geram receita de madeira em prazo comparável ao do eucalipto",
+                                              "b":  "sequestra menos carbono por hectare do que a monocultura de eucalipto, cujo crescimento rápido acumula biomassa em menos tempo",
+                                              "c":  "gera resultados equivalentes em biodiversidade quando o plantio comercial mantém corredores de vegetação nativa entre os talhões",
                                               "d":  "exige menor investimento inicial que o plantio de espécies nativas em área degradada",
                                               "e":  "tende a recompor de forma mais completa a estrutura e a biodiversidade do ecossistema original, diferentemente da monocultura, menos diversa"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A restauração florestal com espécies nativas diversas tende a recompor de forma mais completa a estrutura, a biodiversidade e os serviços ecossistêmicos do ambiente original, enquanto o plantio comercial de monocultura, embora também aumente a cobertura arbórea e possa sequestrar carbono, oferece menor diversidade de habitat e não substitui integralmente os benefícios ecológicos de uma floresta nativa restaurada.",
+                         "explicacao":  "A restauração com espécies nativas diversas tende a recompor de forma mais completa a estrutura e a biodiversidade do ecossistema original, com estratos, fauna associada e teia de interações que a monocultura não reproduz. O sequestro de carbono por hectare é o distrator mais forte, porque no curto prazo o eucalipto de fato acumula biomassa mais rápido: acontece que a questão pergunta por biodiversidade, e velocidade de crescimento não é diversidade. Os corredores de vegetação nativa entre talhões são prática real de mosaico e melhoram a permeabilidade da paisagem, sem igualar a floresta restaurada. A inviabilidade econômica sem subsídio é discussão de custo, não de conservação. E a restauração com nativas exige investimento inicial maior, não menor.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -1269,12 +1269,12 @@
                          "alternativas":  {
                                               "a":  "atestar, por meio de critérios verificáveis, que a madeira foi produzida de forma ambiental e socialmente responsável",
                                               "b":  "assegurar rastreabilidade da cadeia produtiva desde a origem até o consumidor final",
-                                              "c":  "eliminar toda necessidade de fiscalização estatal, o que contraria o papel dos órgãos ambientais",
-                                              "d":  "proibir totalmente a extração comercial de madeira em qualquer território nacional, mesmo sob manejo certificado",
-                                              "e":  "garantir automaticamente o menor preço da madeira certificada, benefício sem respaldo em estudos de mercado"
+                                              "c":  "dispensar a fiscalização estatal nas áreas certificadas, cuja auditoria privada substitui a vistoria dos órgãos ambientais competentes",
+                                              "d":  "restringir a extração comercial de madeira às florestas plantadas, vedando o manejo em floresta nativa mesmo sob plano previamente aprovado",
+                                              "e":  "assegurar preço mínimo à madeira certificada, fixado em acordo entre as certificadoras e os importadores dos mercados europeu e norte-americano"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "Certificações de manejo florestal sustentável atestam, com base em critérios técnicos verificáveis por auditorias independentes, que a madeira foi extraída de florestas geridas de forma ambiental e socialmente responsável, permitindo conciliar o uso econômico do recurso florestal com sua conservação de longo prazo.",
+                         "explicacao":  "A certificação florestal atesta, por critérios verificáveis e auditoria periódica, que a madeira foi produzida de forma ambiental e socialmente responsável, com respeito a áreas de preservação, direitos trabalhistas e comunidades locais. A rastreabilidade da cadeia é o distrator mais difícil de recusar, porque a cadeia de custódia integra o sistema — é um meio pelo qual a certificação funciona, e não sua função principal, que é atestar a origem responsável. A auditoria privada convive com a fiscalização estatal, sem substituí-la. A certificação pressupõe manejo em floresta nativa, e não sua proibição. E ela costuma implicar preço maior, não menor, sem qualquer acordo de preço mínimo.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -1363,14 +1363,14 @@
                          "texto_apoio":  "O transporte aéreo depende, hoje, majoritariamente de combustíveis fósseis, e alternativas como combustíveis sustentáveis de aviação ainda têm participação reduzida na matriz do setor.",
                          "enunciado":  "Diante desse cenário, uma estratégia adotada por algumas companhias aéreas para lidar com suas emissões, além de buscar maior eficiência operacional, é:",
                          "alternativas":  {
-                                              "a":  "a substituição integral e já concluída de toda a frota mundial por aeronaves elétricas de curto alcance",
-                                              "b":  "a proibição legal internacional de voos curtos, medida inexistente nos acordos vigentes da Organização da Aviação Civil Internacional",
+                                              "a":  "a substituição da frota de longo curso por aeronaves elétricas, já em operação comercial regular nas rotas transatlânticas",
+                                              "b":  "a adesão a um esquema internacional que fixa cota máxima de emissões por companhia, com sanção pecuniária para quem a exceder",
                                               "c":  "a adoção de metas de intensidade de emissões por unidade produzida, e não de redução absoluta",
                                               "d":  "a compra de créditos de carbono para compensar parte das emissões dos voos, embora não elimine as emissões diretas do setor",
-                                              "e":  "a eliminação imediata e total de todos os voos comerciais, cenário incompatível com as projeções de crescimento do setor aéreo"
+                                              "e":  "a redução da frequência de voos curtos, substituídos por acordos de código compartilhado firmados com operadoras ferroviárias de alta velocidade"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "Diante da dificuldade técnica atual de descarbonizar diretamente o transporte aéreo em larga escala, companhias aéreas têm recorrido à compra de créditos de carbono para compensar parte de suas emissões, estratégia que não elimina as emissões diretas do setor e é objeto de debate sobre sua real efetividade climática.",
+                         "explicacao":  "A estratégia mais adotada é a compra de créditos de carbono para compensar parte das emissões, o que não elimina as emissões diretas do setor e por isso é objeto de crítica. A substituição de voos curtos por acordos com ferrovias é o distrator mais atual, porque isso acontece na Europa, com companhias vendendo trecho ferroviário sob código de voo — é prática de algumas empresas em mercados específicos, não a estratégia geral de tratamento das emissões. A cota máxima com sanção pecuniária descreve um regime mais rígido que o esquema internacional em vigor, baseado em compensação. As metas de intensidade por unidade produzida existem e não reduzem o total. E aeronaves elétricas não operam rotas transatlânticas.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -1507,14 +1507,14 @@
                          "texto_apoio":  "Estudos de saúde pública associam a exposição prolongada a poluentes atmosféricos, como material particulado fino, a maior incidência de doenças respiratórias e cardiovasculares na população exposta.",
                          "enunciado":  "Esse tipo de evidência reforça o argumento de que políticas de redução da poluição do ar geram, além de benefícios ambientais, benefícios diretos em termos de:",
                          "alternativas":  {
-                                              "a":  "aumento proporcional e automático da temperatura média local em qualquer estação do ano",
+                                              "a":  "aumento proporcional da temperatura média local, pela redução do efeito de resfriamento dos aerossóis antes em suspensão",
                                               "b":  "redução de gastos públicos e privados com saúde e melhoria da qualidade de vida da população exposta",
-                                              "c":  "eliminação de qualquer necessidade de regulação do trânsito, ignorando outras fontes poluidoras",
-                                              "d":  "redução da produtividade agrícola em áreas urbanas, efeito não respaldado pelos estudos sobre qualidade do ar",
+                                              "c":  "eliminação da necessidade de regular o trânsito, já que a frota renovada passa a emitir abaixo dos limites legais",
+                                              "d":  "aumento da produtividade agrícola nas áreas periurbanas, pela maior incidência de radiação solar sobre as lavouras",
                                               "e":  "aumento proporcional da arrecadação tributária sobre atividades poluidoras"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "Além dos benefícios ambientais, a redução da poluição do ar gera benefícios diretos para a saúde pública, reduzindo a incidência de doenças respiratórias e cardiovasculares associadas à exposição a poluentes, o que se traduz também em menores gastos com saúde e ganhos de produtividade e qualidade de vida para a população exposta.",
+                         "explicacao":  "A evidência sustenta que reduzir a poluição do ar gera benefício direto de saúde: menos internações e mortes por doenças respiratórias e cardiovasculares, com queda de gastos públicos e privados e melhora da qualidade de vida. As duas alternativas mais fortes se apoiam em efeitos reais: aerossóis em suspensão de fato sombreiam e esfriam a superfície, e menos particulado significa mais radiação chegando ao solo. Nenhuma delas é o benefício direto que a questão pede, e a primeira é um efeito colateral indesejado. Supor que a frota renovada dispensa a regulação do trânsito ignora as demais fontes e o próprio volume de veículos. E a arrecadação sobre atividades poluidoras tende a cair quando a poluição cai.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },

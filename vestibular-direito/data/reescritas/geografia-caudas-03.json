@@ -1,0 +1,98 @@
+{
+  "_comentario": [
+    "Lote 3 -- ULTIMO de geografia. 131, 137, 141, 144, 146, 148. Dezessete distratores.",
+    "",
+    "Este bloco tinha a concentracao mais alta de palavra categorica de toda a campanha:",
+    "'EXCLUSIVAMENTE da falta de chuvas, sem QUALQUER relacao', 'metodo EXCLUSIVO,",
+    "sem QUALQUER relacao', 'elimina TOTALMENTE a necessidade de QUALQUER outra fonte',",
+    "'Impedir QUALQUER forma de mecanizacao', 'Eliminar POR COMPLETO a mao de obra em",
+    "TODAS as etapas', 'Substituir INTEGRALMENTE QUALQUER insumo em TODA a lavoura',",
+    "'elimina AUTOMATICAMENTE TODAS as desigualdades', 'NUNCA trazem QUALQUER beneficio',",
+    "'nao utilizam NENHUM tipo de tecnologia'. Nove alternativas de dezessete.",
+    "",
+    "Em cinco das seis questoes a correta era a mais longa ou quase, e nao por acaso: o",
+    "gerador punha o conteudo na certa e enchia os distratores com negacao absoluta mais",
+    "aviso. Tirando as duas coisas, sobra alternativa curta -- por isso cada substituto",
+    "aqui precisou de conteudo novo, nao de poda.",
+    "",
+    "OS QUE MAIS RENDEM:",
+    "",
+    "  146(b) MEMBRANA FILTRANTE. Era 'metodo EXCLUSIVO de purificacao de agua de rios",
+    "         poluidos, SEM QUALQUER RELACAO com a agua do mar'. Passa a ser purificacao",
+    "         de rio por passagem forcada atraves de membranas -- que e a MESMA",
+    "         tecnologia da dessalinizacao por osmose reversa. A alternativa fica",
+    "         tecnicamente vizinha da certa e erra so na fonte tratada. E o distrator",
+    "         que separa quem sabe o que a osmose reversa faz de quem decorou a palavra",
+    "         'dessalinizacao'.",
+    "  141(d) VIGILANCIA E PLATAFORMIZACAO. Era 'cidades inteligentes, POR DEFINICAO,",
+    "         nao utilizam NENHUM tipo de tecnologia digital' -- que nega o proprio",
+    "         enunciado. Passa a ser a coleta permanente de dados sobre moradores e a",
+    "         transferencia da operacao dos servicos urbanos a empresas de tecnologia.",
+    "         Essa e uma critica REAL e forte da geografia urbana; ela nao e a que a",
+    "         questao pede, que e a concentracao do investimento nas areas ja",
+    "         privilegiadas. Duas criticas verdadeiras disputando -- e assim que a FGV",
+    "         monta questao de conceito.",
+    "  137(e) o TRADE-OFF. Era 'a localizacao periferica elimina POR COMPLETO os custos",
+    "         de mobilidade e melhora AUTOMATICAMENTE a qualidade de vida, leitura que",
+    "         contraria os relatos de moradores'. Passa a ser: o menor custo da moradia",
+    "         compensa com folga o que o morador passa a gastar em transporte e tempo. E",
+    "         exatamente o calculo que se faz para defender esses conjuntos, e o que a",
+    "         critica dos urbanistas desmonta.",
+    "  131(d) a faixa de deserto tropical em torno de trinta graus de latitude, sob as",
+    "         altas pressoes subtropicais. Climatologia correta, no lugar de 'regioes",
+    "         situadas exatamente sobre a linha do Equador, O QUE EXCLUI o semiarido",
+    "         nordestino' -- que dava a resposta ao excluir a alternativa.",
+    "  148(a) tratores autonomos guiados por satelite, que existem, no lugar de 'Impedir",
+    "         QUALQUER forma de mecanizacao complementar'.",
+    "",
+    "Com este lote geografia fecha em zero pela leitura."
+  ],
+  "subtopic": "geografia",
+  "questoes": {
+    "geografia-131": {
+      "alternativas": {
+        "c": "Um processo que ocorre apenas em regiões naturalmente desérticas, onde a retirada da escassa cobertura vegetal acelera a erosão eólica do solo",
+        "d": "Um fenômeno restrito às faixas de deserto tropical situadas em torno de trinta graus de latitude, onde as altas pressões subtropicais impedem a formação de chuvas regulares",
+        "e": "Transformação do solo em areia estéril, com perda irreversível da capacidade produtiva já verificada na maior parte da área do semiárido nordestino"
+      },
+      "explicacao": "Desertificação é a degradação do solo em áreas de clima árido, semiárido ou subúmido seco, resultante da combinação entre fatores climáticos e práticas humanas inadequadas de uso da terra — e é por isso que ela atinge o semiárido nordestino, que não é um deserto. A restrição às faixas de deserto tropical em torno de trinta graus de latitude é o distrator mais bem informado, porque descreve corretamente onde se formam os grandes desertos do planeta, e não onde ocorre a desertificação, que é processo de degradação e não de expansão de deserto existente. Confundi-la com o avanço das areias adota justamente a imagem que o conceito técnico rejeita. Circunscrevê-la a regiões já desérticas retira dela o elemento humano. E supor perda irreversível já consumada na maior parte do semiárido extrapola a extensão das áreas efetivamente degradadas."
+    },
+    "geografia-137": {
+      "alternativas": {
+        "b": "O programa concentrou suas unidades em áreas centrais já consolidadas, o que elevou o custo por unidade e reduziu o número de moradias entregues",
+        "e": "A localização periférica reduz o custo da moradia para o beneficiário, compensando com folga o que ele passa a gastar em transporte e no tempo dedicado aos deslocamentos diários"
+      },
+      "explicacao": "A crítica dos urbanistas parte de um fato econômico: terrenos periféricos são mais baratos e permitem construir em escala maior, e o resultado é a produção de novas formas de segregação socioespacial, com moradia longe de emprego e serviços. A compensação entre o custo menor da moradia e o gasto com transporte é o distrator mais forte, porque é precisamente o cálculo que se apresenta em defesa desses conjuntos — e o que os estudos mostram é que o tempo e o dinheiro gastos em deslocamento consomem o ganho. Dizer que o programa se concentrou em áreas centrais inverte a localização criticada. A construção em área rural não corresponde ao padrão observado. E a exigência de área verde mínima por unidade não é o fator que empurra os empreendimentos para a periferia."
+    },
+    "geografia-141": {
+      "alternativas": {
+        "c": "Os ganhos de eficiência obtidos com essas tecnologias se concentram na redução de custos administrativos, sem alcançar a qualidade do serviço prestado ao cidadão",
+        "d": "O conceito depende da coleta permanente de dados sobre os moradores, o que transferiria a operação de serviços urbanos essenciais a empresas privadas de tecnologia, fora do controle público",
+        "e": "O conceito elimina as desigualdades urbanas ao democratizar o acesso à tecnologia, uma vez que a infraestrutura digital alcança a área inteira do município"
+      },
+      "explicacao": "A crítica que a geografia urbana faz às cidades inteligentes é que os investimentos tecnológicos tendem a se concentrar em áreas já privilegiadas, o que aprofunda desigualdades socioespaciais em nome da eficiência. A dependência de coleta permanente de dados, com a operação de serviços essenciais passando a empresas privadas de tecnologia, é o distrator mais exigente, porque também é uma crítica verdadeira e influente — e não é a que a questão pede, que trata da distribuição espacial do investimento. Restringir os ganhos ao custo administrativo subestima resultados já medidos em mobilidade e atendimento. Supor que a tecnologia reduz a desigualdade por si só ignora as barreiras de acesso. E dizer que essas cidades não usam tecnologia digital contraria a definição do conceito."
+    },
+    "geografia-144": {
+      "alternativas": {
+        "a": "Da falta de chuvas em anos de estiagem, único fator capaz de reduzir a oferta em sistemas metropolitanos de grande porte",
+        "e": "Do excesso de investimento em obras de captação em bacias distantes, que teria elevado o custo unitário da água e levado as concessionárias a operar abaixo da capacidade instalada dos sistemas metropolitanos"
+      },
+      "explicacao": "A escassez de água em áreas urbanas resulta da combinação entre fatores climáticos, como estiagens prolongadas, problemas de gestão dos recursos hídricos, crescimento da demanda e perdas na rede de distribuição, que em muitas cidades brasileiras passam de um terço do volume tratado. A hipótese do excesso de investimento em captação distante é a mais elaborada entre as erradas, porque a captação em bacias remotas de fato encarece a água — e o efeito observado é falta de investimento, não excesso. Atribuir tudo à falta de chuvas é o erro mais comum, porque isola o clima da gestão. A redução do consumo não sobrecarrega o tratamento. E o consumo industrial pesa nas metrópoles sem responder isoladamente pela escassez."
+    },
+    "geografia-146": {
+      "alternativas": {
+        "b": "Um método de purificação de água de rios poluídos por meio da passagem forçada da água através de membranas filtrantes",
+        "c": "Uma técnica que reduz a dependência de fontes de água doce em países áridos, onde já responde pela maior parte do abastecimento urbano e pela irrigação agrícola"
+      },
+      "explicacao": "A dessalinização remove o excesso de sal e outros minerais da água do mar, tornando-a própria para o consumo humano e para usos que exigem água doce. A purificação de água de rio por membranas filtrantes é o distrator mais fino, porque a tecnologia é a mesma — a osmose reversa força a água através de membranas tanto num caso como no outro —, e o que define a dessalinização é a fonte tratada, a água salgada. Dizer que ela já responde pela maior parte do abastecimento em países áridos exagera uma participação que é relevante em alguns deles e não majoritária. A remoção de matéria orgânica e patógenos descreve o tratamento de esgoto. E transformar água doce em salgada inverte o processo."
+    },
+    "geografia-148": {
+      "alternativas": {
+        "a": "Substituir a mecanização convencional da lavoura por equipamentos autônomos guiados por satélite, capazes de operar sem a presença de um condutor humano na cabine da máquina agrícola",
+        "b": "Reduzir a necessidade de mão de obra nas etapas de plantio e de colheita, transferindo-a para o monitoramento remoto das lavouras",
+        "d": "Reduzir a zero o uso de insumos nas áreas monitoradas, ao identificar por satélite as porções da lavoura que dispensam adubação"
+      },
+      "explicacao": "A agricultura de precisão usa GPS, sensores e imagens de satélite para monitorar com exatidão as condições do solo e da lavoura, o que permite aplicar água, fertilizantes e defensivos de forma localizada e mais eficiente — dose variável conforme o ponto do terreno. Os equipamentos autônomos guiados por satélite são o distrator mais atual, porque existem e se apoiam nas mesmas tecnologias: eles são um desdobramento, e a agricultura de precisão se define pelo manejo diferenciado, não pela ausência de operador. Reduzir os insumos a zero confunde aplicação localizada com supressão. A redução de mão de obra é efeito possível, e não a finalidade. E o desenvolvimento de variedades geneticamente modificadas pertence ao melhoramento genético."
+    }
+  }
+}

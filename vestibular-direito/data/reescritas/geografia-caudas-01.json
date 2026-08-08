@@ -1,0 +1,87 @@
+{
+  "_comentario": [
+    "Lote 1 de geografia: 34, 38, 66, 67, 74, 104. Doze distratores.",
+    "",
+    "Nesta frente as alternativas sao curtas -- 80 a 146 caracteres -- e a cauda tambem",
+    "encurtou. Ela quase sempre se reduz a tres palavras no fim: ', sem qualquer relacao",
+    "com', ', sem relacao com', ', invertendo o processo'. E o mesmo habito comprimido.",
+    "",
+    "Como o texto e curto, o defeito irmao pesa mais aqui: cinco das doze alternativas",
+    "eram descartaveis por palavra categorica ANTES da cauda -- 'Amplia EXCLUSIVAMENTE",
+    "a demanda', 'TODAS as cidades... sem QUALQUER hierarquia', 'TODO evento extremo",
+    "recente', 'medida EXCLUSIVA da area desmatada', 'GARANTE crescimento automatico'.",
+    "Numa alternativa de 85 caracteres, uma palavra dessas consome a alternativa inteira.",
+    "",
+    "Os substitutos que mais rendem, porque cada um e um conceito que a prova cobra:",
+    "",
+    "  38(e) a REGRA RANK-SIZE, em que o tamanho das cidades e proporcional a sua",
+    "        posicao na hierarquia. Era 'TODAS as cidades apresentam tamanho semelhante,",
+    "        SEM QUALQUER hierarquia urbana' -- que e o contrario de uma hierarquia. Com",
+    "        a regra rank-size a alternativa passa a descrever exatamente o modelo",
+    "        teorico oposto a macrocefalia, com nome proprio, e exige saber os dois.",
+    "  38(d) desconcentracao urbana, que e como se chama o processo de a metropole",
+    "        perder populacao para cidades medias. Existe, esta em curso no Brasil, e",
+    "        nao e macrocefalia -- e o inverso dela.",
+    "  67(e) a area de floresta necessaria para absorver as emissoes: e a pegada",
+    "        ecologica, indicador vizinho da pegada de carbono, no lugar de 'medida",
+    "        EXCLUSIVA da area desmatada, SEM RELACAO com emissoes'.",
+    "  74(d) a perda de polinizadores interrompendo a reproducao das arvores grandes. E",
+    "        um mecanismo real de degradacao florestal, so nao e o do ponto de nao",
+    "        retorno, que passa pela reciclagem de umidade. Era 'processo restrito a",
+    "        fauna, SEM RELACAO com o regime de chuvas ou a vegetacao' -- que negava a",
+    "        propria pergunta.",
+    "  66(c) a frequencia dependendo apenas de ciclos naturais como o El Nino. O El Nino",
+    "        existe e influencia mesmo os extremos; o erro fica sendo o 'apenas'. Era",
+    "        'varia ao acaso, SEM RELACAO com o aquecimento global'.",
+    "  34(c) creches e escolas por causa de netos sob a guarda de avos -- que acontece,",
+    "        e um efeito real do envelhecimento sobre o arranjo familiar, e nao e a",
+    "        pressao previdenciaria que a questao pede.",
+    "  34(e) reducao da necessidade de politicas previdenciarias porque a queda da",
+    "        natalidade diminui os futuros beneficiarios. E um raciocinio que alguem faz",
+    "        de verdade, e ignora que o problema e a razao entre ativos e inativos AGORA."
+  ],
+  "subtopic": "geografia",
+  "questoes": {
+    "geografia-34": {
+      "alternativas": {
+        "c": "Amplia a demanda por creches e escolas de ensino fundamental, em razão do aumento do número de netos criados sob a guarda dos avós",
+        "e": "Reduz a necessidade de novas políticas previdenciárias, uma vez que a queda da natalidade diminui o número de futuros beneficiários do sistema"
+      },
+      "explicacao": "O envelhecimento populacional pressiona ao mesmo tempo a previdência e a saúde, num quadro em que a população em idade ativa diminui e a razão entre contribuintes e beneficiários piora. A alternativa que deduz da queda da natalidade uma redução da necessidade de políticas previdenciárias é a mais bem raciocinada entre as erradas, porque o efeito de longo prazo existe — e o problema se apresenta agora, no descompasso entre quem contribui e quem recebe. A ampliação da demanda por creches e escolas por causa de netos sob guarda dos avós descreve um efeito real do envelhecimento sobre o arranjo familiar, sem ser o desafio central. Supor que a população idosa deixa o mercado consumidor ignora seu peso crescente no consumo. E dizer que ela recorre menos ao sistema público inverte o padrão de uso dos serviços de saúde."
+    },
+    "geografia-38": {
+      "alternativas": {
+        "b": "A população rural supera a população urbana em razão do avanço da fronteira agrícola sobre áreas antes desocupadas do território",
+        "d": "A capital de um país perde população para cidades médias do interior, processo conhecido como desconcentração urbana",
+        "e": "As cidades de um país apresentam tamanho populacional e influência proporcionais à sua posição na hierarquia, conforme prevê a regra rank-size"
+      },
+      "explicacao": "Macrocefalia urbana designa a situação em que uma única cidade concentra parcela desproporcional da população e das atividades econômicas de um país ou região, ofuscando a rede urbana ao redor. A regra rank-size é o distrator mais exigente, porque descreve justamente o modelo teórico contrário: uma hierarquia regular, em que o tamanho de cada cidade guarda proporção com sua posição — é a ausência dessa regularidade que caracteriza a macrocefalia. A desconcentração urbana também existe e é o processo inverso, de perda de peso relativo da metrópole. O crescimento das cidades médias é fenômeno real e distinto. E a superação da população urbana pela rural contraria a trajetória de urbanização brasileira."
+    },
+    "geografia-66": {
+      "alternativas": {
+        "c": "A frequência desses eventos depende apenas de ciclos naturais como o El Niño",
+        "e": "Cada evento extremo recente decorre do aquecimento, sem outro fator meteorológico"
+      },
+      "explicacao": "A posição da ciência do clima é que o aquecimento aumenta a probabilidade e a intensidade média dos eventos extremos, o que se afirma em termos estatísticos e não caso a caso. Atribuir a frequência apenas a ciclos naturais como o El Niño é o distrator mais forte, porque esses ciclos existem e influenciam de fato os extremos — o erro está no 'apenas', que exclui a componente antrópica que os estudos de atribuição isolam. Dizer que cada evento decorre do aquecimento comete o excesso oposto, o de dispensar os fatores meteorológicos de cada caso. Supor que os extremos se tornam mais raros contraria a projeção. E afirmar que a ciência do clima nada infere sobre eventos individuais desconhece a própria área de atribuição de eventos."
+    },
+    "geografia-67": {
+      "alternativas": {
+        "e": "Uma medida da área de floresta necessária para absorver as emissões geradas por determinada atividade ao longo de um ano"
+      },
+      "explicacao": "A pegada de carbono mede a quantidade total de gases de efeito estufa emitidos, direta e indiretamente, por uma atividade ou produto, em geral convertida em equivalente de dióxido de carbono. A área de floresta necessária para absorver essas emissões é o distrator mais próximo, porque também é indicador ambiental de uso corrente — só que mede a compensação necessária, e não a emissão. O limite de emissões fixado por tratado descreve uma meta ou cota, não uma medida. Restringir o índice ao transporte aéreo recorta um setor. E a pegada de carbono não é unidade de temperatura."
+    },
+    "geografia-74": {
+      "alternativas": {
+        "d": "Um processo desencadeado pela perda de polinizadores, que interromperia a reprodução das árvores de grande porte da floresta"
+      },
+      "explicacao": "O ponto de não retorno da Amazônia está associado a um patamar de desmatamento a partir do qual a floresta perde a capacidade de reciclar a própria umidade, e sem os rios voadores o regime de chuvas não se sustenta. A perda de polinizadores é o distrator mais respeitável, porque é mecanismo real de degradação florestal e afeta de fato a regeneração — e não é o que define o limiar, que passa pelo ciclo hidrológico. Um ciclo natural de savanização a cada poucos séculos não corresponde à história da floresta. A ideia de reversão em um ano contraria o próprio conceito de irreversibilidade. E o Acordo de Paris fixa metas de temperatura, não um limite jurídico de proteção."
+    },
+    "geografia-104": {
+      "alternativas": {
+        "a": "Produz crescimento econômico automático, independentemente de investimento em educação e em qualificação profissional",
+        "e": "Se repete a cada geração, à medida que novas coortes numerosas entram na idade economicamente ativa"
+      },
+      "explicacao": "O bônus demográfico é uma janela temporária, aberta enquanto a população em idade ativa é proporcionalmente grande, e precisa ser aproveitada com educação, qualificação e geração de emprego. A ideia de que ele se repete a cada geração é o distrator mais plausível, porque coortes numerosas realmente se sucedem — e a transição demográfica ocorre uma vez, com a queda da natalidade estreitando a base da pirâmide de forma permanente. Supor crescimento automático sem investimento apaga a condição que transforma a janela em ganho. Tratá-lo como situação consolidada ignora o envelhecimento que vem a seguir. E dizer que se encerrou nos anos 1980 antecipa em décadas o fim de um período que segue aberto."
+    }
+  }
+}

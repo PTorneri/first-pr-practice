@@ -1,0 +1,114 @@
+{
+  "_comentario": [
+    "Lote 1 de atualidades-meioambiente: 10, 11, 23, 26, 47, 51, 58, 66. Vinte e cinco",
+    "distratores.",
+    "",
+    "A 10 e um caso que vale descrever, porque e uma questao de SIGLA e o defeito muda",
+    "de forma. A pergunta e o que significa ESG. As cinco alternativas ofereciam trincas",
+    "de palavras -- e quatro delas vinham com um aviso pendurado:",
+    "",
+    "  a) 'energia, sustentabilidade e gestao..., TEMA SETORIAL DISTINTO'",
+    "  b) 'eficiencia, seguranca e governabilidade, SEM RELACAO COM A SIGLA ESG'",
+    "  e) 'etica, saude e globalizacao, criterios FREQUENTEMENTE CONFUNDIDOS COM A",
+    "     SIGLA ESG'",
+    "",
+    "A (b) chega a dizer que nao e a resposta, e a (e) diz que e uma confusao comum --",
+    "as duas se identificam como distratores. Substitui os avisos por glosas plausiveis:",
+    "criterios de eficiencia de edificios, de risco operacional em auditoria, de",
+    "elegibilidade a financiamento de banco de desenvolvimento, de relatorio de",
+    "responsabilidade social. Cada trinca passa a soar como uma sigla que existe, e a",
+    "questao volta a pedir que se saiba a certa.",
+    "",
+    "OS DOIS MELHORES SUBSTITUTOS DO LOTE:",
+    "",
+    "  26(a) RECIFE ARTIFICIAL. Era 'a eliminacao de especies invasoras marinhas, efeito",
+    "        colateral benefico ATRIBUIDO ERRONEAMENTE aos residuos plasticos'. Passa a",
+    "        ser a formacao de substrato para organismos marinhos sobre o residuo",
+    "        acumulado. Isso acontece e e observado -- e o oposto do que a alternativa",
+    "        antiga dizia: nao elimina invasoras, TRANSPORTA invasoras. Continua nao",
+    "        sendo o impacto principal, que e a ingestao e o enredamento.",
+    "  66(d) METODOLOGIA DE CREDITO. Era 'ser tecnicamente IMPOSSIVEL de ser realizada",
+    "        por QUALQUER empresa, afirmacao CONTRARIADA pela ampla adocao desses",
+    "        mecanismos'. Passa a ser a superestimacao do carbono retido pelas",
+    "        metodologias de emissao evitada. Essa e uma das criticas mais serias ao",
+    "        offsetting e ja derrubou certificadoras inteiras. Agora a questao poe duas",
+    "        criticas verdadeiras em disputa, e pede a que responde ao enunciado: adiar",
+    "        a reducao efetiva transferindo o esforco a terceiros.",
+    "",
+    "Tirei catorze palavras categoricas: 'nao possuirem NENHUM tipo de impacto',",
+    "'operarem EXCLUSIVAMENTE com residuos triados', 'construidos EXCLUSIVAMENTE em",
+    "areas centrais', 'dispensarem QUALQUER forma de monitoramento', 'nao existe",
+    "QUALQUER fiscalizacao', 'APENAS pessoas fisicas', 'desconectado de QUALQUER",
+    "politica publica', 'EXCLUSIVAMENTE natural', 'restrito UNICAMENTE a causas",
+    "climaticas', 'dispensam TOTALMENTE o uso de recursos minerais', 'distribuida",
+    "igualmente entre TODOS os paises', 'substituicao TOTAL da matriz', 'eliminar",
+    "DEFINITIVA e PERMANENTEMENTE QUALQUER emissao', 'desnecessaria QUALQUER",
+    "compensacao'. Em quatro questoes isso deixava tres das cinco alternativas fora."
+  ],
+  "subtopic": "atualidades-meioambiente",
+  "questoes": {
+    "atualidades-meioambiente-10": {
+      "alternativas": {
+        "a": "energia, sustentabilidade e gestão, critérios usados na classificação de eficiência energética de edifícios",
+        "b": "eficiência, segurança e governabilidade, critérios de avaliação de risco operacional em auditorias internas",
+        "c": "ambiental, setorial e geracional, critérios de elegibilidade a financiamento de bancos de desenvolvimento",
+        "e": "ética, saúde e globalização, critérios adotados em relatórios de responsabilidade social corporativa"
+      },
+      "explicacao": "ESG são as iniciais de ambiental, social e governança corporativa — em inglês, environmental, social and governance —, o conjunto de critérios pelos quais investidores avaliam a sustentabilidade e a conduta de uma empresa. As demais trincas combinam palavras do mesmo campo semântico com glosas plausíveis, e nenhuma corresponde à sigla: a de eficiência e risco operacional descreve auditoria interna, e a de responsabilidade social remete a um relatório que existe e é anterior ao ESG. A pista decisiva está no G: governança corporativa, e não gestão, governabilidade ou geracional — é o pilar que trata de conselho de administração, transparência e conflito de interesses."
+    },
+    "atualidades-meioambiente-11": {
+      "alternativas": {
+        "a": "determinado principalmente pela falta de agentes de fiscalização em campo, e não pelo valor econômico da terra",
+        "c": "resultante da expansão natural do fogo em anos de estiagem prolongada na região",
+        "d": "restrito às áreas de fronteira agrícola já tituladas, onde a produção é regularizada"
+      },
+      "explicacao": "O desmatamento em larga escala é fenômeno associado a dinâmicas socioeconômicas e a interesses ligados ao uso e à posse da terra — grilagem, pecuária extensiva, valorização fundiária. Atribuí-lo à falta de agentes de fiscalização é o distrator mais forte, porque a capacidade de fiscalização de fato pesa nos números anuais: ela é uma condição que modula o fenômeno, não a causa que o move, e é justamente o valor da terra que dá sentido econômico à derrubada. Restringi-lo às áreas já tituladas inverte o padrão, concentrado em terras públicas sem destinação. E explicá-lo por ciclos naturais de regeneração ou pela expansão do fogo em estiagem desliga o processo da economia que o organiza."
+    },
+    "atualidades-meioambiente-23": {
+      "alternativas": {
+        "a": "reduzirem o volume dos resíduos pela compactação mecânica antes da disposição em célula",
+        "c": "operarem apenas com resíduos previamente triados na fonte geradora, o que dispensa a separação de recicláveis dentro da própria instalação",
+        "d": "serem construídos em áreas urbanas centrais, o que reduz a distância e o custo do transporte dos resíduos",
+        "e": "dispensarem o licenciamento ambiental prévio, por serem obras de interesse público municipal"
+      },
+      "explicacao": "O que distingue um aterro sanitário de um lixão é a engenharia: impermeabilização do solo por manta, drenagem e tratamento do chorume e captação dos gases, conforme normas técnicas. A compactação mecânica é o distrator mais plausível, porque ela realmente ocorre no aterro e reduz o volume — e não é o que evita a contaminação do lençol freático, que é o problema do lixão. A triagem na fonte é desejável e não condição de operação. A localização segue diretrizes de zoneamento que a afastam de áreas densamente povoadas. E o licenciamento ambiental prévio é exigido, como o monitoramento geotécnico contínuo."
+    },
+    "atualidades-meioambiente-26": {
+      "alternativas": {
+        "a": "a formação de recifes artificiais pelos resíduos acumulados, que passam a servir de substrato para a fixação de organismos marinhos",
+        "b": "o aumento da absorção de CO2 pelos oceanos, favorecido pela camada de resíduos que reduz a troca de gases na superfície",
+        "d": "a redução da salinidade superficial da água do mar, provocada pela liberação de aditivos plásticos solúveis"
+      },
+      "explicacao": "O impacto central da poluição plástica marinha é a ingestão e o enredamento de animais, somados à fragmentação em microplásticos que entram na cadeia alimentar e chegam ao consumo humano. A formação de substrato para organismos marinhos é o distrator mais interessante, porque isso ocorre de verdade — e o efeito documentado não é benéfico: o resíduo flutuante transporta espécies invasoras para longe de sua área de origem. Supor aumento da absorção de CO2 por barreira de superfície inverte o sentido da troca gasosa, que a poluição prejudica. A liberação de aditivos não altera a salinidade de forma mensurável. E o aumento da turbidez é efeito secundário, não o impacto principal."
+    },
+    "atualidades-meioambiente-47": {
+      "alternativas": {
+        "b": "a fiscalização é feita pelas próprias empresas participantes, que declaram suas emissões sem verificação por terceiro independente",
+        "d": "os créditos são distribuídos gratuitamente às empresas conforme sua emissão histórica, e não podem ser transferidos ou negociados entre participantes do sistema"
+      },
+      "explicacao": "No mercado regulado, a participação e os limites de emissão são fixados por lei, com teto decrescente e sanção para quem o excede; no voluntário, a compensação decorre de decisão espontânea da empresa. A distribuição gratuita de créditos conforme emissão histórica é o distrator mais bem informado, porque essa alocação existiu na primeira fase do sistema europeu — e a negociabilidade é justamente o que define um mercado de carbono, de modo que proibi-la o descaracterizaria. Deixar a verificação nas mãos do próprio emissor descreve uma fragilidade do mercado voluntário, não do regulado. Restringir a negociação a pessoas físicas inverte quem opera nesses mercados. E projetos de reflorestamento geram créditos nos dois."
+    },
+    "atualidades-meioambiente-51": {
+      "alternativas": {
+        "d": "agricultura familiar e agronegócio exportador, que competem pelo mesmo crédito rural subsidiado pelo Estado"
+      },
+      "explicacao": "Os efeitos descritos revelam a tensão entre produtividade agrícola no curto prazo e conservação da biodiversidade no longo prazo: o ganho imediato de safra se obtém por meio de práticas que corroem a base biológica da própria produção. A competição entre agricultura familiar e agronegócio pelo crédito rural é o distrator mais concreto, porque essa disputa orçamentária existe e é discutida a cada Plano Safra — e é uma tensão de política pública, não a tensão ecológica que o conjunto de efeitos ilustra. A disputa entre alimentos e biocombustíveis pela área cultivável também é real, e opera em outro eixo. E a ausência de manejo integrado de pragas é uma das causas do quadro, não a tensão que ele revela."
+    },
+    "atualidades-meioambiente-58": {
+      "alternativas": {
+        "c": "a mineração de lítio gera impacto ambiental amplamente compensado pela receita de royalties que transfere às comunidades das regiões produtoras",
+        "d": "baterias elétricas dependem de minerais abundantes na crosta terrestre, o que torna sua extração ambientalmente pouco onerosa",
+        "e": "a extração de lítio se distribui entre dezenas de países produtores, sem concentração geográfica relevante"
+      },
+      "explicacao": "O paradoxo da transição energética é que as tecnologias de baixa emissão dependem de cadeias de extração mineral com impactos ambientais e sociais consideráveis — o lítio do Salar de Atacama consome água em um dos lugares mais secos do mundo. A alternativa que reconhece o impacto e o dá por compensado pela receita local é a mais difícil de recusar, porque a compensação é o argumento das mineradoras e há royalties em jogo: ela apenas desloca o paradoxo, sem desfazê-lo. Chamar lítio, cobalto e níquel de abundantes e de extração pouco onerosa contraria a geografia dessas reservas. A produção é fortemente concentrada em poucos países. E a reciclagem de baterias ainda não compensa o consumo de água na extração."
+    },
+    "atualidades-meioambiente-66": {
+      "alternativas": {
+        "b": "elevar o custo da compensação acima do custo de reduzir as emissões na própria operação da empresa",
+        "d": "depender de metodologias de cálculo de emissões evitadas que superestimam o carbono efetivamente retido pelos projetos certificados como compensação",
+        "e": "eliminar a necessidade de relatar as emissões diretas da empresa, que passam a ser informadas apenas pelo valor total compensado"
+      },
+      "explicacao": "A crítica principal ao offsetting é que ele adia reduções efetivas: transfere o esforço de mitigação a terceiros e faz o resultado depender da permanência de projetos que podem ser desfeitos por queimada, corte ou mudança de uso do solo. A superestimação do carbono retido pelas metodologias de emissão evitada é o distrator mais forte, porque é uma crítica verdadeira e severa, que já derrubou a credibilidade de certificadoras inteiras — é um problema de mensuração, e a objeção do enunciado é de substituição do esforço próprio. A concentração de projetos em países de fiscalização frágil é outra crítica real. E as alternativas que fazem a compensação sair mais caro que reduzir, ou dispensar o relato das emissões diretas, descrevem o contrário do que o mecanismo faz."
+    }
+  }
+}

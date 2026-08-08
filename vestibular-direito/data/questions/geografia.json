@@ -503,12 +503,12 @@
                          "alternativas":  {
                                               "a":  "Reduz a arrecadação de impostos sobre o consumo, já que a população idosa deixaria de participar do mercado consumidor",
                                               "b":  "Reduz a demanda por serviços de saúde, já que a população idosa recorreria menos ao sistema público do que a população jovem",
-                                              "c":  "Amplia exclusivamente a demanda por serviços educacionais, sem qualquer relação com saúde ou previdência da população idosa",
+                                              "c":  "Amplia a demanda por creches e escolas de ensino fundamental, em razão do aumento do número de netos criados sob a guarda dos avós",
                                               "d":  "Amplia a pressão sobre o sistema previdenciário e sobre a saúde da população idosa, à medida que a população em idade ativa diminui",
-                                              "e":  "Elimina a necessidade de políticas previdenciárias, uma vez que a população idosa já está coberta integralmente pela iniciativa privada"
+                                              "e":  "Reduz a necessidade de novas políticas previdenciárias, uma vez que a queda da natalidade diminui o número de futuros beneficiários do sistema"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "O envelhecimento populacional amplia a demanda por aposentadorias e serviços de saúde voltados a idosos, ao mesmo tempo em que reduz proporcionalmente a população em idade ativa. As demais alternativas contrariam esse quadro: a demanda por saúde tende a aumentar com o envelhecimento, a cobertura previdenciária pública segue relevante, e o desafio central não está na área educacional.",
+                         "explicacao":  "O envelhecimento populacional pressiona ao mesmo tempo a previdência e a saúde, num quadro em que a população em idade ativa diminui e a razão entre contribuintes e beneficiários piora. A alternativa que deduz da queda da natalidade uma redução da necessidade de políticas previdenciárias é a mais bem raciocinada entre as erradas, porque o efeito de longo prazo existe — e o problema se apresenta agora, no descompasso entre quem contribui e quem recebe. A ampliação da demanda por creches e escolas por causa de netos sob guarda dos avós descreve um efeito real do envelhecimento sobre o arranjo familiar, sem ser o desafio central. Supor que a população idosa deixa o mercado consumidor ignora seu peso crescente no consumo. E dizer que ela recorre menos ao sistema público inverte o padrão de uso dos serviços de saúde.",
                          "formato":  "direta"
                      },
                      {
@@ -564,13 +564,13 @@
                          "enunciado":  "O conceito de macrocefalia urbana descreve situações em que:",
                          "alternativas":  {
                                               "a":  "Uma única cidade concentra parcela desproporcional da população e das atividades econômicas do país ou região, ofuscando as demais",
-                                              "b":  "A população rural supera a população urbana em todas as regiões do território nacional, invertendo o processo histórico de urbanização",
+                                              "b":  "A população rural supera a população urbana em razão do avanço da fronteira agrícola sobre áreas antes desocupadas do território",
                                               "c":  "Um crescimento acelerado das cidades médias, que passam a disputar com a metrópole a atração de investimentos e de população",
-                                              "d":  "A capital de um país perde gradualmente população para cidades médias do interior, invertendo sua posição na hierarquia urbana",
-                                              "e":  "Todas as cidades de um país apresentam tamanho populacional e influência econômica semelhantes entre si, sem qualquer hierarquia urbana entre elas"
+                                              "d":  "A capital de um país perde população para cidades médias do interior, processo conhecido como desconcentração urbana",
+                                              "e":  "As cidades de um país apresentam tamanho populacional e influência proporcionais à sua posição na hierarquia, conforme prevê a regra rank-size"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A macrocefalia urbana refere-se à hipertrofia de um único centro urbano em relação aos demais, concentrando funções administrativas, econômicas e de serviços de forma desproporcional, fenômeno observado em países como o Chile (Santiago). As demais alternativas descrevem cenários opostos: equilíbrio entre cidades, perda de centralidade da capital, ou predomínio rural, nenhum compatível com o conceito de macrocefalia.",
+                         "explicacao":  "Macrocefalia urbana designa a situação em que uma única cidade concentra parcela desproporcional da população e das atividades econômicas de um país ou região, ofuscando a rede urbana ao redor. A regra rank-size é o distrator mais exigente, porque descreve justamente o modelo teórico contrário: uma hierarquia regular, em que o tamanho de cada cidade guarda proporção com sua posição — é a ausência dessa regularidade que caracteriza a macrocefalia. A desconcentração urbana também existe e é o processo inverso, de perda de peso relativo da metrópole. O crescimento das cidades médias é fenômeno real e distinto. E a superação da população urbana pela rural contraria a trajetória de urbanização brasileira.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -1015,12 +1015,12 @@
                          "alternativas":  {
                                               "a":  "O aquecimento aumenta a probabilidade e a intensidade média dos eventos extremos",
                                               "b":  "Eventos extremos se tornam mais raros à medida que a temperatura média sobe",
-                                              "c":  "A frequência desses eventos varia ao acaso, sem relação com o aquecimento global",
+                                              "c":  "A frequência desses eventos depende apenas de ciclos naturais como o El Niño",
                                               "d":  "A ciência do clima trata apenas de médias, sem inferir nada sobre eventos individuais",
-                                              "e":  "Todo evento extremo recente decorre do aquecimento, sem outro fator meteorológico"
+                                              "e":  "Cada evento extremo recente decorre do aquecimento, sem outro fator meteorológico"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A afirmação correta é probabilística: o aquecimento carrega os dados a favor do extremo, tornando certos eventos mais prováveis e mais intensos, sem que cada ocorrência tenha causa única. Em (d) está o distrator mais sofisticado e o mais errado por pouco — a ciência de atribuição justamente calcula quanto o aquecimento alterou a probabilidade de um evento específico, de modo que a cautela do enunciado não equivale a silêncio sobre casos individuais. Em (e) e (c) estão os dois excessos opostos, atribuir tudo e não atribuir nada. Em (b), a direção é contrária à observada."
+                         "explicacao":  "A posição da ciência do clima é que o aquecimento aumenta a probabilidade e a intensidade média dos eventos extremos, o que se afirma em termos estatísticos e não caso a caso. Atribuir a frequência apenas a ciclos naturais como o El Niño é o distrator mais forte, porque esses ciclos existem e influenciam de fato os extremos — o erro está no \u0027apenas\u0027, que exclui a componente antrópica que os estudos de atribuição isolam. Dizer que cada evento decorre do aquecimento comete o excesso oposto, o de dispensar os fatores meteorológicos de cada caso. Supor que os extremos se tornam mais raros contraria a projeção. E afirmar que a ciência do clima nada infere sobre eventos individuais desconhece a própria área de atribuição de eventos."
                      },
                      {
                          "id":  "geografia-67",
@@ -1031,10 +1031,10 @@
                                               "b":  "Uma unidade oficial de medida de temperatura, adotada por climatologistas em substituição ao grau Celsius",
                                               "c":  "Um limite máximo de emissões fixado por tratado internacional para cada setor produtivo, cujo descumprimento gera sanções",
                                               "d":  "Um índice que mede apenas as emissões de carbono provenientes do transporte aéreo internacional",
-                                              "e":  "Uma medida exclusiva da área de floresta desmatada anualmente em um país, sem relação com emissões"
+                                              "e":  "Uma medida da área de floresta necessária para absorver as emissões geradas por determinada atividade ao longo de um ano"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A pegada de carbono é um indicador que estima o total de gases de efeito estufa emitidos, direta ou indiretamente, por uma pessoa, empresa, produto ou atividade. Não é uma unidade de temperatura, não se limita à área desmatada, e não se restringe às emissões do transporte aéreo — abrange qualquer fonte de emissão.",
+                         "explicacao":  "A pegada de carbono mede a quantidade total de gases de efeito estufa emitidos, direta e indiretamente, por uma atividade ou produto, em geral convertida em equivalente de dióxido de carbono. A área de floresta necessária para absorver essas emissões é o distrator mais próximo, porque também é indicador ambiental de uso corrente — só que mede a compensação necessária, e não a emissão. O limite de emissões fixado por tratado descreve uma meta ou cota, não uma medida. Restringir o índice ao transporte aéreo recorta um setor. E a pegada de carbono não é unidade de temperatura.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -1144,11 +1144,11 @@
                                               "a":  "Um ciclo natural de savanização que ocorre a cada poucos séculos, independente do desmatamento",
                                               "b":  "Uma mudança reversível em curto prazo, bastando suspender o desmatamento por um ano",
                                               "c":  "Um patamar de desmatamento que comprometeria a reciclagem de umidade pela própria floresta",
-                                              "d":  "Um processo restrito à fauna da região, sem relação com o regime de chuvas ou a vegetação",
+                                              "d":  "Um processo desencadeado pela perda de polinizadores, que interromperia a reprodução das árvores de grande porte da floresta",
                                               "e":  "Um limite de temperatura fixado no Acordo de Paris, além do qual cessa a proteção jurídica"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "A floresta produz boa parte da própria chuva pela evapotranspiração; abaixo de certa área contínua, esse ciclo deixa de se sustentar e o clima local seca por conta própria — daí a irreversibilidade. Em (b) está a leitura que o conceito de tipping point exclui: passado o limiar, retirar a pressão não devolve o sistema ao estado anterior. Em (a), a savanização em causa é induzida pelo desmatamento, não cíclica. Em (d), a mudança é da vegetação e do regime de chuvas, com a fauna sofrendo por consequência. Em (e), o limiar é ecológico e físico, não uma cláusula jurídica."
+                         "explicacao":  "O ponto de não retorno da Amazônia está associado a um patamar de desmatamento a partir do qual a floresta perde a capacidade de reciclar a própria umidade, e sem os rios voadores o regime de chuvas não se sustenta. A perda de polinizadores é o distrator mais respeitável, porque é mecanismo real de degradação florestal e afeta de fato a regeneração — e não é o que define o limiar, que passa pelo ciclo hidrológico. Um ciclo natural de savanização a cada poucos séculos não corresponde à história da floresta. A ideia de reversão em um ano contraria o próprio conceito de irreversibilidade. E o Acordo de Paris fixa metas de temperatura, não um limite jurídico de proteção."
                      },
                      {
                          "id":  "geografia-75",
@@ -1621,14 +1621,14 @@
                          "dificuldade":  "dificil",
                          "enunciado":  "Entretanto, estudiosos alertam que esse bônus demográfico:",
                          "alternativas":  {
-                                              "a":  "Garante crescimento econômico automático, independentemente de investimento em educação",
+                                              "a":  "Produz crescimento econômico automático, independentemente de investimento em educação e em qualificação profissional",
                                               "b":  "É janela temporária, que precisa ser aproveitada com educação, qualificação e emprego",
                                               "c":  "Tende a se manter de forma permanente, já que decorre da estrutura etária consolidada",
                                               "d":  "Já se encerrou no Brasil na década de 1980, antes da transição demográfica avançada",
-                                              "e":  "É fenômeno permanente, que se repete a cada geração, sem relação com a estrutura etária"
+                                              "e":  "Se repete a cada geração, à medida que novas coortes numerosas entram na idade economicamente ativa"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A janela se fecha sozinha: a mesma queda de fecundidade que a abriu produz, décadas depois, uma população idosa numerosa, e o ganho só se converte em renda se houver escolaridade e emprego enquanto ela está aberta. Em (a) está o alerta invertido — o bônus é oportunidade, não garantia, e países que não investiram envelheceram sem enriquecer. Em (c) e (e), a permanência contraria a própria dinâmica etária que define o fenômeno. Em (d), o bônus brasileiro se estendeu bem além dos anos 1980 e se encerra por volta desta década."
+                         "explicacao":  "O bônus demográfico é uma janela temporária, aberta enquanto a população em idade ativa é proporcionalmente grande, e precisa ser aproveitada com educação, qualificação e geração de emprego. A ideia de que ele se repete a cada geração é o distrator mais plausível, porque coortes numerosas realmente se sucedem — e a transição demográfica ocorre uma vez, com a queda da natalidade estreitando a base da pirâmide de forma permanente. Supor crescimento automático sem investimento apaga a condição que transforma a janela em ganho. Tratá-lo como situação consolidada ignora o envelhecimento que vem a seguir. E dizer que se encerrou nos anos 1980 antecipa em décadas o fim de um período que segue aberto."
                      },
                      {
                          "id":  "geografia-105",
@@ -1651,14 +1651,14 @@
                          "texto_apoio":  "Dados aproximados do IBGE indicam que a taxa de fecundidade no Brasil, que era de cerca de 6,3 filhos por mulher em 1960, caiu para aproximadamente 1,6 filho por mulher nas estimativas mais recentes, valor abaixo da taxa de reposição populacional (2,1 filhos por mulher).",
                          "enunciado":  "Considerando esses dados, é correto afirmar que:",
                          "alternativas":  {
-                                              "a":  "A população brasileira continuará crescendo no mesmo ritmo de 1960, já que o tamanho da população não depende da taxa de fecundidade, equívoco que ignora o efeito da fecundidade sobre o crescimento populacional",
+                                              "a":  "A população brasileira continuará crescendo no mesmo ritmo observado em 1960, porque a inércia demográfica mantém elevado o número de nascimentos enquanto as coortes numerosas daquela década permanecem em idade reprodutiva",
                                               "b":  "A queda da fecundidade abaixo da reposição implica redução imediata da população total, já observada no país",
                                               "c":  "O Brasil ainda apresenta uma das maiores taxas de fecundidade entre os países da América Latina",
                                               "d":  "A queda acentuada da fecundidade brasileira para um patamar abaixo da taxa de reposição indica uma tendência, no longo prazo, de estabilização e posterior redução do crescimento populacional do país",
                                               "e":  "A taxa de fecundidade brasileira permaneceu estável desde 1960, com pequenas oscilações sem significado demográfico"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A redução da fecundidade de 6,3 para cerca de 1,6 filho por mulher, abaixo da taxa de reposição, evidencia estágio avançado de transição demográfica, associado à urbanização e à maior escolaridade, apontando para futura estabilização e redução do crescimento populacional. A taxa não permaneceu estável, o Brasil não está entre as maiores taxas da América Latina atualmente, e o crescimento populacional está diretamente ligado à taxa de fecundidade, não independente dela.",
+                         "explicacao":  "A queda acentuada da fecundidade para patamar abaixo da taxa de reposição aponta, no longo prazo, para estabilização e depois redução do crescimento populacional brasileiro. A alternativa que invoca a inércia demográfica é a mais exigente, porque o mecanismo é verdadeiro: uma população segue crescendo por décadas após a fecundidade cair, justamente porque as coortes grandes continuam tendo filhos — o erro está em concluir que o ritmo permanece o de 1960. Supor redução imediata da população total comete o excesso oposto, ignorando esse mesmo momento demográfico. A fecundidade brasileira está hoje entre as mais baixas da América Latina, não entre as maiores. E dizer que permaneceu estável desde 1960 contraria a queda de cerca de seis filhos por mulher para menos de dois.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -1669,12 +1669,12 @@
                          "alternativas":  {
                                               "a":  "Pode gerar novos empregos em setores como energia eólica, solar e hidrogênio verde, ao mesmo tempo em que exige requalificação de trabalhadores de setores fósseis tradicionais",
                                               "b":  "Tende a manter inalterada a estrutura de empregos do setor energético, já que as novas fontes exigem as mesmas funções",
-                                              "c":  "É um processo neutro do ponto de vista do mercado de trabalho, sem qualquer relação com requalificação profissional",
-                                              "d":  "Beneficia exclusivamente trabalhadores de países exportadores de petróleo, que passam a exportar também tecnologia renovável",
-                                              "e":  "Elimina automaticamente qualquer emprego relacionado a fontes fósseis, sem gerar nenhum posto de trabalho em setores renováveis emergentes, previsão contrariada pelos dados do setor"
+                                              "c":  "É processo neutro do ponto de vista do total de empregos, uma vez que cada posto perdido no setor fóssil é reposto no setor renovável",
+                                              "d":  "Beneficia sobretudo trabalhadores de países exportadores de petróleo, que passam a exportar também tecnologia renovável",
+                                              "e":  "Elimina os empregos ligados a fontes fósseis sem gerar postos equivalentes, por serem as fontes renováveis intensivas em capital e não em mão de obra ao longo da operação das usinas"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A transição energética tende a gerar empregos em setores emergentes, como eólica, solar e hidrogênio verde, mas também impõe desafios de requalificação para trabalhadores de setores fósseis tradicionais. O processo gera, e não apenas elimina, empregos em novos setores; não beneficia exclusivamente exportadores de petróleo; e tem impacto direto e relevante sobre o mercado de trabalho, não sendo neutro.",
+                         "explicacao":  "A transição energética cria postos em energia eólica, solar e hidrogênio verde e, ao mesmo tempo, exige requalificar trabalhadores dos setores fósseis — os dois movimentos ocorrem juntos e é essa simultaneidade que a discute sob a ótica do trabalho. A neutralidade por reposição posto a posto é o distrator mais forte, porque é a premissa da chamada transição justa: ela é um objetivo de política pública, não um efeito automático, e as vagas surgem em outros lugares, com outras qualificações. A tese de que as renováveis são intensivas em capital acerta a fase de operação e ignora a de fabricação e instalação. Manter inalterada a estrutura de empregos contraria a mudança de perfil técnico. E os países exportadores de petróleo são os mais expostos à transição, não seus beneficiários preferenciais.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -1721,10 +1721,10 @@
                                               "b":  "Impermeabilização do solo, ocupação de várzeas e encostas e drenagem insuficiente",
                                               "c":  "Queda na taxa de urbanização das grandes cidades, que reduziu a manutenção da drenagem",
                                               "d":  "Aumento da vegetação nativa nas cidades, que passou a reter água e sobrecarregar a rede",
-                                              "e":  "Aumento isolado do volume de chuvas, sem relação com a forma de ocupação do solo urbano"
+                                              "e":  "Aumento do volume de chuvas concentrado em poucos dias do ano, sem mudança no total anual precipitado"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A chave está no enunciado: a chuva não precisou aumentar para a enchente piorar. Asfalto e telhado impedem a infiltração, a várzea que armazenaria a cheia virou bairro, e o que sobra escoa para uma rede subdimensionada. Em (e) está o distrator mais tentador, porque eventos extremos realmente têm se intensificado — mas atribuir tudo à chuva ignora que a mesma precipitação de antes hoje alaga. Em (a) e (c), redução de chuva e queda de urbanização não se verificam. Em (d), a vegetação urbana favorece a infiltração e reduz o escoamento."
+                         "explicacao":  "As enchentes urbanas se agravaram sobretudo pela impermeabilização do solo, pela ocupação de várzeas e encostas e pela drenagem insuficiente — o mesmo volume de chuva encontra hoje uma cidade que não o absorve. A concentração da chuva em poucos dias é o distrator mais defensável, porque essa mudança no padrão de precipitação está documentada, e sozinha não explica enchentes em episódios que décadas atrás não seriam excepcionais. A redução do volume de chuvas contraria os registros. A taxa de urbanização das grandes cidades não caiu. E o aumento da vegetação nativa reduziria o escoamento superficial, em vez de sobrecarregar a rede."
                      },
                      {
                          "id":  "geografia-111",
@@ -1752,11 +1752,11 @@
                                               "a":  "Os dados de dois municípios isolados provam de forma definitiva uma relação de causa e efeito",
                                               "b":  "A diferença de nove vezes é consistente com a hipótese de associação entre os dois fatores",
                                               "c":  "O Município X tem cobertura pior, já que registrou número absoluto menor de casos",
-                                              "d":  "A diferença observada decorre do acaso, sem relação com as condições de saneamento",
+                                              "d":  "A diferença observada decorre da renda média distinta dos dois municípios, e não das condições de saneamento",
                                               "e":  "A diferença de 40 casos por 10 mil habitantes não tem relevância sanitária alguma"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A formulação prudente é a correta: dois municípios sustentam uma associação compatível com a hipótese, e não uma demonstração de causalidade, que exigiria controlar renda, densidade e acesso a serviço de saúde. Em (a) está o excesso simétrico ao de (d) — um conclui causa a partir de dois pontos, o outro descarta qualquer relação diante de uma diferença de nove vezes, e ambos erram na calibragem da inferência. Em (c), a leitura inverte os dados. Em (e), quarenta casos por dez mil habitantes é diferença sanitariamente expressiva."
+                         "explicacao":  "A diferença de nove vezes é consistente com a hipótese de associação entre saneamento e ocorrência da doença, e é assim que se formula a conclusão: consistência com a hipótese, não prova. A alternativa da renda média é a objeção metodológica mais séria, porque aponta uma variável de confusão real — renda e saneamento andam juntos, e por isso a comparação entre dois municípios não isola o efeito de cada um. Ainda assim ela não é a conclusão mais adequada, porque a associação permanece consistente. Afirmar que os dados provam causa e efeito extrapola dois casos. Comparar números absolutos em vez de taxas ignora o tamanho da população. E dizer que a diferença não tem relevância sanitária desconsidera sua magnitude."
                      },
                      {
                          "id":  "geografia-113",
@@ -1845,12 +1845,12 @@
                          "alternativas":  {
                                               "a":  "Promover a desapropriação imediata dos imóveis ociosos, transferindo-os ao patrimônio municipal sem etapas prévias",
                                               "b":  "Elevar a arrecadação municipal de forma linear, aplicando o mesmo percentual de aumento a todos os imóveis do município, utilizados ou não",
-                                              "c":  "Isentar integralmente do pagamento de IPTU os proprietários de grandes terrenos urbanos ociosos, como incentivo à manutenção de reservas de valor, leitura equivocada do instrumento tributário",
-                                              "d":  "Autorizar a desapropriação imediata, sem qualquer aviso prévio, de qualquer imóvel urbano não utilizado por mais de um ano",
+                                              "c":  "Isentar do pagamento de IPTU os proprietários de terrenos urbanos ociosos situados em áreas de interesse ambiental, como forma de preservar áreas verdes",
+                                              "d":  "Autorizar a desapropriação do imóvel que permaneça não utilizado após cinco anos de cobrança progressiva, com pagamento da indenização em títulos da dívida pública municipal resgatáveis em até dez anos",
                                               "e":  "Induzir os proprietários de imóveis ociosos ou subutilizados em áreas centrais a dar a eles uma função social adequada, sob pena de pagar alíquotas de IPTU progressivas ao longo do tempo"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "O IPTU progressivo no tempo permite ao poder público municipal aumentar progressivamente a alíquota sobre imóveis subutilizados, incentivando os proprietários a dar-lhes função social. Não isenta proprietários de terrenos ociosos (ao contrário, penaliza-os), não autoriza desapropriação imediata sem processo prévio, e não se aplica de forma linear a todos os imóveis — apenas aos subutilizados ou não utilizados.",
+                         "explicacao":  "O IPTU progressivo no tempo existe para induzir o proprietário de imóvel ocioso ou subutilizado em área central a dar-lhe função social, sob pena de alíquotas que crescem ano a ano. A alternativa da desapropriação é a mais difícil de recusar porque descreve com exatidão o passo seguinte previsto no Estatuto da Cidade — cinco anos de cobrança progressiva, indenização em títulos da dívida pública municipal — e não é o objetivo principal do instrumento: a desapropriação é o que ocorre quando a indução falha. A desapropriação imediata suprime a etapa de indução. Elevar a arrecadação de forma linear sobre todos os imóveis contraria a progressividade dirigida ao ocioso. E isentar terrenos vazios premiaria a especulação que o instrumento combate.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -1861,12 +1861,12 @@
                          "alternativas":  {
                                               "a":  "A posição de uma cidade na hierarquia é definida apenas por seu número de habitantes, sem considerar os serviços que oferece",
                                               "b":  "Uma metrópole regional, como uma capital estadual, tende a concentrar serviços mais especializados, influenciando um número maior de cidades menores ao seu redor, que dependem desses serviços",
-                                              "c":  "Todas as cidades de um mesmo país, independentemente de seu porte, oferecem serviços de complexidade equivalente à sua população, padrão desmentido pela distribuição real de serviços entre cidades e metrópoles",
+                                              "c":  "As cidades de um mesmo país oferecem serviços de complexidade proporcional à sua população, de modo que o porte demográfico de cada uma basta para prever quais serviços ela oferece aos seus moradores",
                                               "d":  "Cidades pequenas exercem, em regra, maior influência regional do que metrópoles, por concentrarem serviços mais especializados",
-                                              "e":  "A hierarquia urbana é definida exclusivamente pela extensão territorial do município, sem relação com a oferta de serviços"
+                                              "e":  "A hierarquia urbana é definida pela extensão territorial do município, critério adotado na classificação da rede urbana brasileira"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A hierarquia urbana descreve como metrópoles regionais concentram serviços mais especializados, exercendo influência sobre cidades menores que dependem desses serviços não disponíveis localmente. Cidades de portes diferentes não oferecem serviços de complexidade equivalente, cidades pequenas não exercem maior influência do que metrópoles, e a hierarquia se define pela oferta de serviços e funções urbanas, não pela extensão territorial do município.",
+                         "explicacao":  "A hierarquia urbana explica por que uma metrópole regional, como uma capital estadual, concentra serviços mais especializados e influencia uma rede de cidades menores que dependem deles — é a oferta de bens e serviços raros que define a posição, não o tamanho isolado. Supor que o porte demográfico basta para prever a oferta é o distrator mais fino, porque as duas coisas se correlacionam, e a hierarquia existe precisamente onde essa proporcionalidade se rompe: cidades de porte parecido oferecem serviços muito diferentes. Definir a posição apenas pelo número de habitantes comete o mesmo erro de forma mais crua. A extensão territorial não entra no critério. E cidades pequenas não exercem influência regional maior que metrópoles.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -2037,12 +2037,12 @@
                          "alternativas":  {
                                               "a":  "Todos os habitantes de uma cidade, independentemente de sua condição socioeconômica, têm direito de participar e usufruir de seus espaços e serviços, participando das decisões sobre o planejamento urbano",
                                               "b":  "O direito de adquirir e manter a propriedade de um imóvel urbano é assegurado a todos, sendo essa a base do conceito",
-                                              "c":  "As cidades devem priorizar, antes de qualquer outro objetivo, a valorização do mercado imobiliário como forma de garantir o bem-estar de todos os moradores, leitura que inverte a lógica original do conceito de Lefebvre",
-                                              "d":  "O planejamento urbano deve ser decidido exclusivamente por especialistas técnicos, sem qualquer participação da população nas decisões",
+                                              "c":  "As cidades devem priorizar a valorização do mercado imobiliário, cujo dinamismo financiaria, pela arrecadação de tributos sobre a propriedade urbana, a infraestrutura de que os moradores mais pobres necessitam",
+                                              "d":  "O planejamento urbano deve ser conduzido por corpo técnico especializado, cabendo à população manifestar-se apenas em audiências de caráter consultivo",
                                               "e":  "O direito à cidade se aplica apenas aos proprietários de imóveis localizados nas áreas centrais e mais valorizadas dos grandes centros urbanos"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "O conceito de \u0027direito à cidade\u0027, de Henri Lefebvre, incorporado no Brasil ao Estatuto da Cidade, defende que todos os habitantes urbanos têm direito de usufruir do espaço, dos serviços e de participar das decisões sobre o planejamento urbano. Ele se contrapõe, e não se resume, a um planejamento apenas técnico, a um privilégio de proprietários de áreas centrais, ou à priorização do mercado imobiliário sobre o bem-estar coletivo.",
+                         "explicacao":  "O direito à cidade, na formulação de Lefebvre, sustenta que todos os habitantes, independentemente de sua condição socioeconômica, têm direito de usufruir dos espaços e serviços urbanos e de participar das decisões sobre o planejamento. A alternativa que faz o mercado imobiliário financiar a infraestrutura dos mais pobres é a mais bem construída, porque é um argumento que se ouve em audiência pública e mobiliza um mecanismo real de arrecadação — e subordina o uso da cidade ao valor de troca, que é exatamente o que o conceito recusa. Reduzir a participação popular a audiências consultivas retira do direito sua dimensão decisória. Identificá-lo com o direito de propriedade troca o valor de uso pelo de troca. E restringi-lo a proprietários de áreas centrais o esvazia.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -2053,12 +2053,12 @@
                          "alternativas":  {
                                               "a":  "Avanço das areias de um deserto já existente sobre áreas vizinhas, processo determinado por dinâmicas naturais de longo prazo",
                                               "b":  "Degradação de solos em áreas de clima árido, semiárido ou subúmido seco, resultante da combinação de fatores climáticos com práticas humanas inadequadas de uso do solo",
-                                              "c":  "Um processo que ocorre apenas em regiões já naturalmente desérticas, sem qualquer relação com o clima semiárido, engano frequente que ignora a ação humana associada ao fenômeno",
-                                              "d":  "Um fenômeno restrito a regiões situadas exatamente sobre a linha do Equador, o que exclui o semiárido nordestino brasileiro",
-                                              "e":  "Transformação definitiva de qualquer bioma brasileiro em deserto, processo já concluído em toda a extensão do semiárido nordestino"
+                                              "c":  "Um processo que ocorre apenas em regiões naturalmente desérticas, onde a retirada da escassa cobertura vegetal acelera a erosão eólica do solo",
+                                              "d":  "Um fenômeno restrito às faixas de deserto tropical situadas em torno de trinta graus de latitude, onde as altas pressões subtropicais impedem a formação de chuvas regulares",
+                                              "e":  "Transformação do solo em areia estéril, com perda irreversível da capacidade produtiva já verificada na maior parte da área do semiárido nordestino"
                                           },
                          "resposta":  "b",
-                         "explicacao":  "A desertificação é a degradação de solos em áreas de clima árido, semiárido ou subúmido seco, combinando fatores climáticos com práticas humanas inadequadas, como desmatamento da caatinga e superpastoreio. Não se trata de um processo já concluído em toda a região, não está restrito a áreas equatoriais (o semiárido nordestino fica distante da linha do Equador), e ocorre justamente em áreas de clima semiárido, não em desertos já formados.",
+                         "explicacao":  "Desertificação é a degradação do solo em áreas de clima árido, semiárido ou subúmido seco, resultante da combinação entre fatores climáticos e práticas humanas inadequadas de uso da terra — e é por isso que ela atinge o semiárido nordestino, que não é um deserto. A restrição às faixas de deserto tropical em torno de trinta graus de latitude é o distrator mais bem informado, porque descreve corretamente onde se formam os grandes desertos do planeta, e não onde ocorre a desertificação, que é processo de degradação e não de expansão de deserto existente. Confundi-la com o avanço das areias adota justamente a imagem que o conceito técnico rejeita. Circunscrevê-la a regiões já desérticas retira dela o elemento humano. E supor perda irreversível já consumada na maior parte do semiárido extrapola a extensão das áreas efetivamente degradadas.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -2148,13 +2148,13 @@
                          "enunciado":  "Programas habitacionais de interesse social no Brasil, como o Minha Casa Minha Vida, foram criticados por parte de urbanistas por, em muitos casos, construir conjuntos habitacionais em áreas periféricas e distantes dos centros de emprego e serviços das cidades. Essa crítica está relacionada, sobretudo, ao fato de que:",
                          "alternativas":  {
                                               "a":  "Uma exigência legal de área verde mínima por unidade habitacional, que inviabilizaria empreendimentos em terrenos centrais",
-                                              "b":  "O programa construiu a totalidade de suas unidades habitacionais em áreas centrais já consolidadas e bem servidas de infraestrutura",
+                                              "b":  "O programa concentrou suas unidades em áreas centrais já consolidadas, o que elevou o custo por unidade e reduziu o número de moradias entregues",
                                               "c":  "Os conjuntos habitacionais desse programa foram construídos, em sua maioria, em áreas rurais, fora do perímetro urbano dos municípios",
                                               "d":  "Terrenos mais baratos, geralmente localizados na periferia, favorecem financeiramente a construção em maior escala, mas podem gerar novas formas de segregação socioespacial",
-                                              "e":  "A localização periférica elimina por completo os custos de mobilidade e melhora automaticamente a qualidade de vida dos beneficiários, leitura que contraria os relatos de moradores sobre o tempo gasto em deslocamentos"
+                                              "e":  "A localização periférica reduz o custo da moradia para o beneficiário, compensando com folga o que ele passa a gastar em transporte e no tempo dedicado aos deslocamentos diários"
                                           },
                          "resposta":  "d",
-                         "explicacao":  "A construção de conjuntos habitacionais em terrenos periféricos mais baratos é criticada por reproduzir padrões de segregação socioespacial, com longos e custosos deslocamentos diários até empregos e serviços. O programa não se concentrou em áreas centrais consolidadas, a localização periférica tende a aumentar, não eliminar, custos de mobilidade, e os conjuntos foram construídos majoritariamente dentro do perímetro urbano, ainda que em áreas periféricas dele.",
+                         "explicacao":  "A crítica dos urbanistas parte de um fato econômico: terrenos periféricos são mais baratos e permitem construir em escala maior, e o resultado é a produção de novas formas de segregação socioespacial, com moradia longe de emprego e serviços. A compensação entre o custo menor da moradia e o gasto com transporte é o distrator mais forte, porque é precisamente o cálculo que se apresenta em defesa desses conjuntos — e o que os estudos mostram é que o tempo e o dinheiro gastos em deslocamento consomem o ganho. Dizer que o programa se concentrou em áreas centrais inverte a localização criticada. A construção em área rural não corresponde ao padrão observado. E a exigência de área verde mínima por unidade não é o fator que empurra os empreendimentos para a periferia.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -2213,12 +2213,12 @@
                          "alternativas":  {
                                               "a":  "Projetos de cidade inteligente podem, em alguns casos, priorizar investimentos tecnológicos em áreas já privilegiadas da cidade, aprofundando desigualdades socioespaciais",
                                               "b":  "A adoção de tecnologia urbana reduz por si só as desigualdades socioespaciais, independentemente de onde os sistemas são instalados",
-                                              "c":  "Tecnologias de gestão urbana, segundo esses geógrafos, nunca trazem qualquer benefício mensurável para a cidade, crítica que desconsidera ganhos reais já obtidos em algumas cidades",
-                                              "d":  "Cidades inteligentes, por definição, não utilizam nenhum tipo de tecnologia digital em sua gestão, definição que ignora exatamente o uso intensivo de tecnologia que caracteriza o conceito",
-                                              "e":  "O conceito elimina automaticamente todas as desigualdades urbanas existentes ao democratizar o acesso à tecnologia, leitura ingênua que ignora as barreiras de acesso entre grupos sociais"
+                                              "c":  "Os ganhos de eficiência obtidos com essas tecnologias se concentram na redução de custos administrativos, sem alcançar a qualidade do serviço prestado ao cidadão",
+                                              "d":  "O conceito depende da coleta permanente de dados sobre os moradores, o que transferiria a operação de serviços urbanos essenciais a empresas privadas de tecnologia, fora do controle público",
+                                              "e":  "O conceito elimina as desigualdades urbanas ao democratizar o acesso à tecnologia, uma vez que a infraestrutura digital alcança a área inteira do município"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A crítica de parte dos geógrafos urbanos está no risco de que investimentos tecnológicos se concentrem em áreas já privilegiadas, aprofundando desigualdades caso não haja investimento equivalente em infraestrutura básica das periferias. O conceito não elimina desigualdades automaticamente, uma cidade inteligente por definição usa tecnologia digital (é sua característica central), e a crítica não nega todo benefício, mas aponta riscos de desigualdade na sua implementação.",
+                         "explicacao":  "A crítica que a geografia urbana faz às cidades inteligentes é que os investimentos tecnológicos tendem a se concentrar em áreas já privilegiadas, o que aprofunda desigualdades socioespaciais em nome da eficiência. A dependência de coleta permanente de dados, com a operação de serviços essenciais passando a empresas privadas de tecnologia, é o distrator mais exigente, porque também é uma crítica verdadeira e influente — e não é a que a questão pede, que trata da distribuição espacial do investimento. Restringir os ganhos ao custo administrativo subestima resultados já medidos em mobilidade e atendimento. Supor que a tecnologia reduz a desigualdade por si só ignora as barreiras de acesso. E dizer que essas cidades não usam tecnologia digital contraria a definição do conceito.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
                      },
@@ -2259,14 +2259,14 @@
                          "texto_apoio":  "Crises hídricas em grandes regiões metropolitanas brasileiras, como a enfrentada pela Região Metropolitana de São Paulo em 2014-2015, evidenciaram desafios na gestão da água em áreas urbanas.",
                          "enunciado":  "Essa escassez de água em áreas urbanas pode decorrer, entre outros fatores, de:",
                          "alternativas":  {
-                                              "a":  "Exclusivamente da falta de chuvas, sem qualquer relação com a gestão dos recursos hídricos disponíveis na região metropolitana",
+                                              "a":  "Da falta de chuvas em anos de estiagem, único fator capaz de reduzir a oferta em sistemas metropolitanos de grande porte",
                                               "b":  "Uma redução do consumo de água por parte da população urbana, que teria sobrecarregado os sistemas de tratamento",
                                               "c":  "Uma combinação de fatores climáticos (como estiagens prolongadas) com problemas de gestão dos recursos hídricos, crescimento da demanda urbana e, em alguns casos, perdas na rede de distribuição de água",
                                               "d":  "O consumo industrial concentrado nas regiões metropolitanas, responsável isoladamente pela redução da água disponível à população",
-                                              "e":  "Um excesso de investimentos em infraestrutura de captação e tratamento de água, que teria reduzido artificialmente a oferta disponível, hipótese que contraria o padrão observado nas regiões metropolitanas"
+                                              "e":  "Do excesso de investimento em obras de captação em bacias distantes, que teria elevado o custo unitário da água e levado as concessionárias a operar abaixo da capacidade instalada dos sistemas metropolitanos"
                                           },
                          "resposta":  "c",
-                         "explicacao":  "Crises hídricas metropolitanas geralmente resultam da combinação entre fatores climáticos e fatores de gestão, como crescimento da demanda urbana e perdas na rede de distribuição. Não decorrem apenas da falta de chuvas isoladamente, não são causadas por excesso de investimento em infraestrutura (pelo contrário, a subutilização é o problema comum), e não se relacionam a uma redução do consumo, mas sim ao crescimento da demanda.",
+                         "explicacao":  "A escassez de água em áreas urbanas resulta da combinação entre fatores climáticos, como estiagens prolongadas, problemas de gestão dos recursos hídricos, crescimento da demanda e perdas na rede de distribuição, que em muitas cidades brasileiras passam de um terço do volume tratado. A hipótese do excesso de investimento em captação distante é a mais elaborada entre as erradas, porque a captação em bacias remotas de fato encarece a água — e o efeito observado é falta de investimento, não excesso. Atribuir tudo à falta de chuvas é o erro mais comum, porque isola o clima da gestão. A redução do consumo não sobrecarrega o tratamento. E o consumo industrial pesa nas metrópoles sem responder isoladamente pela escassez.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -2292,13 +2292,13 @@
                          "enunciado":  "Esse processo consiste em:",
                          "alternativas":  {
                                               "a":  "Um processo que remove o excesso de sal e outros minerais da água do mar, tornando-a própria para consumo humano e outros usos que exigem água doce",
-                                              "b":  "Um método exclusivo de purificação de água de rios poluídos, sem qualquer relação com a água do mar",
-                                              "c":  "Uma técnica que elimina totalmente a necessidade de qualquer outra fonte de água doce em países que a adotam, afirmação exagerada mesmo nos países que mais a utilizam",
+                                              "b":  "Um método de purificação de água de rios poluídos por meio da passagem forçada da água através de membranas filtrantes",
+                                              "c":  "Uma técnica que reduz a dependência de fontes de água doce em países áridos, onde já responde pela maior parte do abastecimento urbano e pela irrigação agrícola",
                                               "d":  "Um processo que remove matéria orgânica e agentes patogênicos de águas residuais, devolvendo-as tratadas aos cursos d\u0027água",
                                               "e":  "Um processo que transforma água doce de rios e lagos em água salgada, para uso industrial em regiões costeiras"
                                           },
                          "resposta":  "a",
-                         "explicacao":  "A dessalinização remove o excesso de sal e outros minerais da água do mar (ou salobra), tornando-a própria para consumo humano, irrigação e uso industrial. Não transforma água doce em salgada, não se limita à purificação de rios poluídos, e mesmo países que a adotam em larga escala normalmente combinam essa fonte com outras, não a utilizam como única solução hídrica.",
+                         "explicacao":  "A dessalinização remove o excesso de sal e outros minerais da água do mar, tornando-a própria para o consumo humano e para usos que exigem água doce. A purificação de água de rio por membranas filtrantes é o distrator mais fino, porque a tecnologia é a mesma — a osmose reversa força a água através de membranas tanto num caso como no outro —, e o que define a dessalinização é a fonte tratada, a água salgada. Dizer que ela já responde pela maior parte do abastecimento em países áridos exagera uma participação que é relevante em alguns deles e não majoritária. A remoção de matéria orgânica e patógenos descreve o tratamento de esgoto. E transformar água doce em salgada inverte o processo.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },
@@ -2323,14 +2323,14 @@
                          "texto_apoio":  "",
                          "enunciado":  "A chamada \u0027agricultura de precisão\u0027, cada vez mais utilizada no agronegócio brasileiro, envolve o uso de tecnologias como GPS, sensores e imagens de satélite para:",
                          "alternativas":  {
-                                              "a":  "Impedir qualquer forma de mecanização complementar da agricultura nas áreas onde é adotada, leitura equivocada de uma tecnologia que frequentemente se soma à mecanização existente",
-                                              "b":  "Eliminar por completo a necessidade de mão de obra humana em todas as etapas da produção agrícola",
+                                              "a":  "Substituir a mecanização convencional da lavoura por equipamentos autônomos guiados por satélite, capazes de operar sem a presença de um condutor humano na cabine da máquina agrícola",
+                                              "b":  "Reduzir a necessidade de mão de obra nas etapas de plantio e de colheita, transferindo-a para o monitoramento remoto das lavouras",
                                               "c":  "Desenvolver variedades geneticamente modificadas resistentes a pragas, dispensando o monitoramento das condições do solo",
-                                              "d":  "Substituir integralmente a necessidade de qualquer insumo agrícola, como fertilizantes e defensivos, em toda a lavoura monitorada, cenário inviável mesmo com o avanço dessas tecnologias",
+                                              "d":  "Reduzir a zero o uso de insumos nas áreas monitoradas, ao identificar por satélite as porções da lavoura que dispensam adubação",
                                               "e":  "Monitorar com maior exatidão as condições do solo e das lavouras, permitindo a aplicação mais eficiente e localizada de insumos como água, fertilizantes e defensivos agrícolas"
                                           },
                          "resposta":  "e",
-                         "explicacao":  "A agricultura de precisão utiliza GPS, sensores e imagens de satélite para monitorar com exatidão as condições do solo e das lavouras, permitindo aplicação mais eficiente e localizada de insumos, o que aumenta a produtividade e reduz desperdícios. Não elimina a necessidade de insumos (apenas otimiza seu uso), não impede a mecanização (frequentemente depende dela), e não elimina a mão de obra humana em todas as etapas da produção.",
+                         "explicacao":  "A agricultura de precisão usa GPS, sensores e imagens de satélite para monitorar com exatidão as condições do solo e da lavoura, o que permite aplicar água, fertilizantes e defensivos de forma localizada e mais eficiente — dose variável conforme o ponto do terreno. Os equipamentos autônomos guiados por satélite são o distrator mais atual, porque existem e se apoiam nas mesmas tecnologias: eles são um desdobramento, e a agricultura de precisão se define pelo manejo diferenciado, não pela ausência de operador. Reduzir os insumos a zero confunde aplicação localizada com supressão. A redução de mão de obra é efeito possível, e não a finalidade. E o desenvolvimento de variedades geneticamente modificadas pertence ao melhoramento genético.",
                          "dificuldade":  "media",
                          "formato":  "direta"
                      },

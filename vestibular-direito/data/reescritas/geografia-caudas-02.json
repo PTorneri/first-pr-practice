@@ -1,0 +1,96 @@
+{
+  "_comentario": [
+    "Lote 2 de geografia: 106, 107, 110, 112, 118, 119, 130. Treze distratores.",
+    "",
+    "Estas sao as questoes longas da frente, e nelas a correta era a mais longa ou quase",
+    "em cinco das sete. Em cada caso o distrator que a superou ganhou conteudo tecnico.",
+    "",
+    "OS TRES SUBSTITUTOS QUE MUDAM O NIVEL DA QUESTAO:",
+    "",
+    "  118(d) o TERCEIRO PASSO DO ESTATUTO DA CIDADE. Era 'Autorizar a desapropriacao",
+    "         imediata, SEM QUALQUER aviso previo, de QUALQUER imovel urbano nao",
+    "         utilizado por mais de um ano' -- duas palavras categoricas e um prazo",
+    "         inventado. Passa a ser a desapropriacao apos CINCO ANOS de IPTU",
+    "         progressivo, com indenizacao em titulos da divida publica municipal",
+    "         resgataveis em ate dez anos. Isso e exatamente o que o artigo 8o preve. A",
+    "         alternativa fica quase certa, e erra so no que a questao pede: o objetivo",
+    "         PRINCIPAL do instrumento e induzir o uso, nao desapropriar -- a",
+    "         desapropriacao e o que acontece quando a inducao falha. Distrator que",
+    "         separa quem leu o Estatuto de quem decorou a palavra 'progressivo'.",
+    "  106(a) INERCIA DEMOGRAFICA. Era 'continuara crescendo no mesmo ritmo de 1960, ja",
+    "         que o tamanho da populacao NAO DEPENDE da taxa de fecundidade, EQUIVOCO",
+    "         QUE IGNORA o efeito da fecundidade' -- afirma um absurdo e o desmente na",
+    "         mesma frase. Passa a ser o momento demografico: os nascimentos seguem",
+    "         numerosos enquanto as coortes grandes permanecem em idade reprodutiva.",
+    "         Isso e verdade e e o que explica por que a populacao continua crescendo",
+    "         DEPOIS de a fecundidade cair -- o erro fica sendo 'no mesmo ritmo'.",
+    "  112(d) VARIAVEL DE CONFUSAO. Era 'A diferenca decorre do acaso, SEM RELACAO com",
+    "         as condicoes de saneamento'. Passa a ser: a diferenca decorre da renda",
+    "         media dos dois municipios, e nao do saneamento. Numa questao de geografia",
+    "         da saude que pede a conclusao mais adequada a partir de dois municipios,",
+    "         apontar um confundidor e a objecao metodologica certa -- e ainda assim nao",
+    "         e a melhor conclusao, porque a associacao segue consistente.",
+    "",
+    "Outros: 107(c) supoe que cada posto perdido no fossil e reposto no renovavel, que e",
+    "a premissa da 'transicao justa' e nao se verifica automaticamente; 119(c) supoe que",
+    "o porte demografico basta para prever a oferta de servicos, que e exatamente o que",
+    "a hierarquia urbana nega; 130(c) faz o mercado imobiliario financiar a",
+    "infraestrutura dos mais pobres pela arrecadacao de tributos sobre a propriedade --",
+    "argumento que se ouve em audiencia publica de verdade.",
+    "",
+    "Tirei 'TODAS as cidades', 'QUALQUER imovel', 'EXCLUSIVAMENTE por especialistas',",
+    "'EXCLUSIVAMENTE pela extensao territorial', 'Beneficia EXCLUSIVAMENTE trabalhadores'",
+    "e 'Elimina AUTOMATICAMENTE QUALQUER emprego... sem gerar NENHUM posto' -- seis",
+    "alternativas que a metrica descarta antes da cauda."
+  ],
+  "subtopic": "geografia",
+  "questoes": {
+    "geografia-106": {
+      "alternativas": {
+        "a": "A população brasileira continuará crescendo no mesmo ritmo observado em 1960, porque a inércia demográfica mantém elevado o número de nascimentos enquanto as coortes numerosas daquela década permanecem em idade reprodutiva"
+      },
+      "explicacao": "A queda acentuada da fecundidade para patamar abaixo da taxa de reposição aponta, no longo prazo, para estabilização e depois redução do crescimento populacional brasileiro. A alternativa que invoca a inércia demográfica é a mais exigente, porque o mecanismo é verdadeiro: uma população segue crescendo por décadas após a fecundidade cair, justamente porque as coortes grandes continuam tendo filhos — o erro está em concluir que o ritmo permanece o de 1960. Supor redução imediata da população total comete o excesso oposto, ignorando esse mesmo momento demográfico. A fecundidade brasileira está hoje entre as mais baixas da América Latina, não entre as maiores. E dizer que permaneceu estável desde 1960 contraria a queda de cerca de seis filhos por mulher para menos de dois."
+    },
+    "geografia-107": {
+      "alternativas": {
+        "c": "É processo neutro do ponto de vista do total de empregos, uma vez que cada posto perdido no setor fóssil é reposto no setor renovável",
+        "d": "Beneficia sobretudo trabalhadores de países exportadores de petróleo, que passam a exportar também tecnologia renovável",
+        "e": "Elimina os empregos ligados a fontes fósseis sem gerar postos equivalentes, por serem as fontes renováveis intensivas em capital e não em mão de obra ao longo da operação das usinas"
+      },
+      "explicacao": "A transição energética cria postos em energia eólica, solar e hidrogênio verde e, ao mesmo tempo, exige requalificar trabalhadores dos setores fósseis — os dois movimentos ocorrem juntos e é essa simultaneidade que a discute sob a ótica do trabalho. A neutralidade por reposição posto a posto é o distrator mais forte, porque é a premissa da chamada transição justa: ela é um objetivo de política pública, não um efeito automático, e as vagas surgem em outros lugares, com outras qualificações. A tese de que as renováveis são intensivas em capital acerta a fase de operação e ignora a de fabricação e instalação. Manter inalterada a estrutura de empregos contraria a mudança de perfil técnico. E os países exportadores de petróleo são os mais expostos à transição, não seus beneficiários preferenciais."
+    },
+    "geografia-110": {
+      "alternativas": {
+        "e": "Aumento do volume de chuvas concentrado em poucos dias do ano, sem mudança no total anual precipitado"
+      },
+      "explicacao": "As enchentes urbanas se agravaram sobretudo pela impermeabilização do solo, pela ocupação de várzeas e encostas e pela drenagem insuficiente — o mesmo volume de chuva encontra hoje uma cidade que não o absorve. A concentração da chuva em poucos dias é o distrator mais defensável, porque essa mudança no padrão de precipitação está documentada, e sozinha não explica enchentes em episódios que décadas atrás não seriam excepcionais. A redução do volume de chuvas contraria os registros. A taxa de urbanização das grandes cidades não caiu. E o aumento da vegetação nativa reduziria o escoamento superficial, em vez de sobrecarregar a rede."
+    },
+    "geografia-112": {
+      "alternativas": {
+        "d": "A diferença observada decorre da renda média distinta dos dois municípios, e não das condições de saneamento"
+      },
+      "explicacao": "A diferença de nove vezes é consistente com a hipótese de associação entre saneamento e ocorrência da doença, e é assim que se formula a conclusão: consistência com a hipótese, não prova. A alternativa da renda média é a objeção metodológica mais séria, porque aponta uma variável de confusão real — renda e saneamento andam juntos, e por isso a comparação entre dois municípios não isola o efeito de cada um. Ainda assim ela não é a conclusão mais adequada, porque a associação permanece consistente. Afirmar que os dados provam causa e efeito extrapola dois casos. Comparar números absolutos em vez de taxas ignora o tamanho da população. E dizer que a diferença não tem relevância sanitária desconsidera sua magnitude."
+    },
+    "geografia-118": {
+      "alternativas": {
+        "c": "Isentar do pagamento de IPTU os proprietários de terrenos urbanos ociosos situados em áreas de interesse ambiental, como forma de preservar áreas verdes",
+        "d": "Autorizar a desapropriação do imóvel que permaneça não utilizado após cinco anos de cobrança progressiva, com pagamento da indenização em títulos da dívida pública municipal resgatáveis em até dez anos"
+      },
+      "explicacao": "O IPTU progressivo no tempo existe para induzir o proprietário de imóvel ocioso ou subutilizado em área central a dar-lhe função social, sob pena de alíquotas que crescem ano a ano. A alternativa da desapropriação é a mais difícil de recusar porque descreve com exatidão o passo seguinte previsto no Estatuto da Cidade — cinco anos de cobrança progressiva, indenização em títulos da dívida pública municipal — e não é o objetivo principal do instrumento: a desapropriação é o que ocorre quando a indução falha. A desapropriação imediata suprime a etapa de indução. Elevar a arrecadação de forma linear sobre todos os imóveis contraria a progressividade dirigida ao ocioso. E isentar terrenos vazios premiaria a especulação que o instrumento combate."
+    },
+    "geografia-119": {
+      "alternativas": {
+        "c": "As cidades de um mesmo país oferecem serviços de complexidade proporcional à sua população, de modo que o porte demográfico de cada uma basta para prever quais serviços ela oferece aos seus moradores",
+        "e": "A hierarquia urbana é definida pela extensão territorial do município, critério adotado na classificação da rede urbana brasileira"
+      },
+      "explicacao": "A hierarquia urbana explica por que uma metrópole regional, como uma capital estadual, concentra serviços mais especializados e influencia uma rede de cidades menores que dependem deles — é a oferta de bens e serviços raros que define a posição, não o tamanho isolado. Supor que o porte demográfico basta para prever a oferta é o distrator mais fino, porque as duas coisas se correlacionam, e a hierarquia existe precisamente onde essa proporcionalidade se rompe: cidades de porte parecido oferecem serviços muito diferentes. Definir a posição apenas pelo número de habitantes comete o mesmo erro de forma mais crua. A extensão territorial não entra no critério. E cidades pequenas não exercem influência regional maior que metrópoles."
+    },
+    "geografia-130": {
+      "alternativas": {
+        "c": "As cidades devem priorizar a valorização do mercado imobiliário, cujo dinamismo financiaria, pela arrecadação de tributos sobre a propriedade urbana, a infraestrutura de que os moradores mais pobres necessitam",
+        "d": "O planejamento urbano deve ser conduzido por corpo técnico especializado, cabendo à população manifestar-se apenas em audiências de caráter consultivo"
+      },
+      "explicacao": "O direito à cidade, na formulação de Lefebvre, sustenta que todos os habitantes, independentemente de sua condição socioeconômica, têm direito de usufruir dos espaços e serviços urbanos e de participar das decisões sobre o planejamento. A alternativa que faz o mercado imobiliário financiar a infraestrutura dos mais pobres é a mais bem construída, porque é um argumento que se ouve em audiência pública e mobiliza um mecanismo real de arrecadação — e subordina o uso da cidade ao valor de troca, que é exatamente o que o conceito recusa. Reduzir a participação popular a audiências consultivas retira do direito sua dimensão decisória. Identificá-lo com o direito de propriedade troca o valor de uso pelo de troca. E restringi-lo a proprietários de áreas centrais o esvazia."
+    }
+  }
+}

@@ -2519,6 +2519,14 @@
   let buscaIndice = null;      // { termo -> Set<docId> }
   let buscaDocs = null;        // [{ trilha, frente, frenteNome, area, q, enunciado }]
   let buscaSecundariaEstado = "nao-iniciada"; // nao-iniciada | carregando | pronta | falhou
+  let buscaExtraEstado = "nao-iniciada";      // idem, para o banco complementar
+  let buscaSecundariaDados = null;            // guardados para reindexar com os dois
+  let buscaExtraDados = null;
+
+  // O identificador de "trilha" do banco complementar. NÃO é uma trilha de
+  // VD_TRILHAS de propósito: é justamente por não estar lá que ele fica fora do
+  // progresso e do caderno de erros (ver buscaMontarDocs e buscaSubtopicId).
+  const BUSCA_TRILHA_EXTRA = "extra";
   let buscaConsulta = "";
   let buscaAssuntoId = null;   // assunto escolhido na sugestão (null = texto livre)
   let buscaFiltroFrente = null;
@@ -2563,7 +2571,7 @@
   // Junta o banco da trilha ativa com o da secundária (quando já carregado) num
   // vetor único de documentos. `subtopicId` das questões da outra trilha ganha
   // prefixo — ver o comentário em buscaSubtopicId.
-  function buscaMontarDocs(secundaria) {
+  function buscaMontarDocs(secundaria, extra) {
     const docs = [];
     function absorver(trilhaId, subtopics, banks, textos) {
       (subtopics || []).forEach((s) => {
@@ -2587,6 +2595,15 @@
       absorver(secundaria.trilha, secundaria.SUBTOPICS, secundaria.QUESTION_BANKS,
                secundaria.QUESTION_TEXTS);
     }
+    // O banco complementar entra como uma "trilha" que não existe em
+    // VD_TRILHAS, e é isso que o mantém só aqui: buscaSubtopicId devolve
+    // "xt::extra::<frente>" para ele, um id que não está em window.SUBTOPICS e
+    // portanto é invisível para computeWrongQuestions() e renderProgress(). A
+    // questão continua respondível com feedback normal na busca, sem contaminar
+    // o Caderno de Erros nem o progresso — mesmo desenho já usado para a trilha
+    // secundária. As questões dele não usam textoId (o texto de apoio vem
+    // embutido em cada uma), então o mapa de textos vai vazio de propósito.
+    if (extra) absorver(BUSCA_TRILHA_EXTRA, extra.SUBTOPICS, extra.QUESTION_BANKS, null);
     return docs;
   }
 
@@ -2630,9 +2647,9 @@
 
   // Constrói o índice invertido. Roda uma vez por estado do banco: se a trilha
   // secundária chegar depois, é chamada de novo com o conjunto completo.
-  function buscaConstruirIndice(secundaria) {
+  function buscaConstruirIndice(secundaria, extra) {
     const t0 = performance.now();
-    buscaDocs = buscaMontarDocs(secundaria);
+    buscaDocs = buscaMontarDocs(secundaria, extra);
     buscaIndice = new Map();
 
     buscaDocs.forEach((doc, id) => {
@@ -2919,8 +2936,34 @@
   // trilha. As duas coisas são preguiçosas de propósito: quem nunca abre a aba
   // não paga nem os ~250 ms de indexação nem os 390 KB do outro banco.
   function buscaGarantirIndice() {
-    if (!buscaIndice) buscaConstruirIndice(null);
+    if (!buscaIndice) buscaConstruirIndice(null, null);
     renderBuscaResultados(); // renderiza também os filtros, com as facetas do resultado
+
+    // As duas fontes extras chegam por rede e em qualquer ordem, então cada
+    // chegada reindexa com TUDO o que já chegou — reindexar só com a própria
+    // apagaria a outra do índice.
+    function reindexar() {
+      buscaConstruirIndice(buscaSecundariaDados, buscaExtraDados);
+      atualizarBuscaStatus();
+      renderBuscaResultados();
+    }
+
+    if (buscaExtraEstado === "nao-iniciada") {
+      if (window.VD_TRILHA && window.VD_TRILHA.carregarExtra) {
+        buscaExtraEstado = "carregando";
+        window.VD_TRILHA.carregarExtra().then((colhido) => {
+          buscaExtraEstado = "pronta";
+          buscaExtraDados = colhido;
+          reindexar();
+        }).catch((err) => {
+          console.warn("[busca] banco complementar indisponível:", err);
+          buscaExtraEstado = "falhou";
+          atualizarBuscaStatus();
+        });
+      } else {
+        buscaExtraEstado = "pronta";
+      }
+    }
 
     if (buscaSecundariaEstado !== "nao-iniciada") return;
     const outras = (window.VD_TRILHA && window.VD_TRILHA.outras()) || [];
@@ -2933,7 +2976,7 @@
 
     window.VD_TRILHA.carregarSecundaria(outras[0]).then((colhido) => {
       buscaSecundariaEstado = "pronta";
-      buscaConstruirIndice({
+      buscaSecundariaDados = {
         trilha: outras[0],
         SUBTOPICS: colhido.SUBTOPICS,
         QUESTION_BANKS: colhido.QUESTION_BANKS,
@@ -2941,9 +2984,8 @@
         // GLOBAIS_DE_DADOS de trilhas.js) — só não estava sendo repassado, e
         // era esse o buraco que buscaTextoApoio descreve.
         QUESTION_TEXTS: colhido.QUESTION_TEXTS,
-      });
-      atualizarBuscaStatus();
-      renderBuscaResultados();
+      };
+      reindexar();
     }).catch((err) => {
       // Degradar, não quebrar: sem a segunda trilha a busca continua útil na
       // trilha do aluno, que é onde estão as questões que mais importam pra ele.
@@ -3112,8 +3154,15 @@
 
     // Trilha ativa primeiro, a outra num bloco separado e rotulado — mesmo
     // padrão do "Repertório complementar" da aba Obras.
+    //
+    // São TRÊS grupos e não dois: antes, "tudo que não é a trilha ativa" caía
+    // num bloco só, e o rótulo saía de VD_TRILHAS[primeiro resultado] — com o
+    // banco complementar junto, metade do bloco apareceria sob o nome da outra
+    // trilha, que é falso.
     const daTrilha = resultados.filter((r) => r.doc.trilha === TRILHA);
-    const daOutra = resultados.filter((r) => r.doc.trilha !== TRILHA);
+    const doExtra = resultados.filter((r) => r.doc.trilha === BUSCA_TRILHA_EXTRA);
+    const daOutra = resultados.filter(
+      (r) => r.doc.trilha !== TRILHA && r.doc.trilha !== BUSCA_TRILHA_EXTRA);
 
     // Os dois grupos têm ORÇAMENTOS SEPARADOS, e não um só dividido por ordem.
     //
@@ -3129,10 +3178,17 @@
     renderBuscaGrupo(el, daTrilha, buscaVisiveis, null);
     if (daOutra.length > 0) {
       const cfgOutra = window.VD_TRILHAS[daOutra[0].doc.trilha];
-      renderBuscaGrupo(el, daOutra, cotaOutra, cfgOutra ? cfgOutra.nome : daOutra[0].doc.trilha);
+      renderBuscaGrupo(el, daOutra, cotaOutra, cfgOutra ? cfgOutra.nome : daOutra[0].doc.trilha,
+                       "outra-trilha");
     }
+    // O banco complementar vem por último e com a mesma cota da outra trilha:
+    // é material de treino por assunto, e quem procura crase quer primeiro a
+    // questão do banco principal, que é a que foi montada no formato da prova.
+    if (doExtra.length > 0) renderBuscaGrupo(el, doExtra, cotaOutra, null, "extra");
 
-    const mostrados = Math.min(daTrilha.length, buscaVisiveis) + Math.min(daOutra.length, cotaOutra);
+    const mostrados = Math.min(daTrilha.length, buscaVisiveis) +
+                      Math.min(daOutra.length, cotaOutra) +
+                      Math.min(doExtra.length, cotaOutra);
     if (mostrados < total) {
       const mais = document.createElement("button");
       mais.type = "button";
@@ -3147,16 +3203,28 @@
   }
 
   // Renderiza um grupo de resultados até o limite de itens visíveis do grupo.
-  function renderBuscaGrupo(container, itens, orcamento, nomeTrilhaOutra) {
+  //
+  // `tipo` diz qual cabeçalho vai em cima: nenhum (trilha ativa),
+  // "outra-trilha" (usa nomeTrilhaOutra) ou "extra" (banco complementar).
+  function renderBuscaGrupo(container, itens, orcamento, nomeTrilhaOutra, tipo) {
     if (itens.length === 0 || orcamento <= 0) return;
     const mostrar = itens.slice(0, orcamento);
 
-    if (nomeTrilhaOutra) {
+    if (tipo === "outra-trilha" && nomeTrilhaOutra) {
       const aviso = document.createElement("p");
       aviso.className = "hint busca-outra-trilha";
       aviso.innerHTML = `<strong>Também em ${escapeHtml(nomeTrilhaOutra)}</strong> —
         ${itens.length} quest${itens.length === 1 ? "ão" : "ões"} do mesmo assunto na outra trilha.
         Valem como treino, mas não entram no seu Caderno de Erros nem no seu progresso por frente.`;
+      container.appendChild(aviso);
+    } else if (tipo === "extra") {
+      const aviso = document.createElement("p");
+      aviso.className = "hint busca-outra-trilha";
+      aviso.innerHTML = `<strong>Banco complementar</strong> —
+        ${itens.length} quest${itens.length === 1 ? "ão" : "ões"} de treino por assunto.
+        São questões curtas, sem texto longo nem asserções I/II/III, feitas para repetição:
+        servem para fixar conteúdo, não para simular a prova. Só aparecem aqui, e não entram
+        no seu Caderno de Erros nem no seu progresso por frente.`;
       container.appendChild(aviso);
     }
 

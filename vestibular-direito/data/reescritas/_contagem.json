@@ -1,70 +1,70 @@
 {
     "artes-cultura":  {
                           "total":  100,
-                          "cinco":  0
+                          "cinco":  100
                       },
     "interpretacao-texto":  {
-                                "total":  150,
-                                "cinco":  0
+                                "total":  210,
+                                "cinco":  210
                             },
     "atualidades-geopolitica":  {
                                     "total":  150,
-                                    "cinco":  15
+                                    "cinco":  150
                                 },
     "ciencias-natureza":  {
-                              "total":  100,
-                              "cinco":  0
+                              "total":  132,
+                              "cinco":  132
                           },
     "filosofia-sociologia":  {
                                  "total":  100,
-                                 "cinco":  0
+                                 "cinco":  100
                              },
     "atualidades-meioambiente":  {
                                      "total":  100,
-                                     "cinco":  0
+                                     "cinco":  100
                                  },
     "historia-brasil":  {
-                            "total":  100,
-                            "cinco":  100
+                            "total":  105,
+                            "cinco":  105
                         },
     "atualidades-tecnologia":  {
                                    "total":  100,
-                                   "cinco":  0
+                                   "cinco":  100
                                },
     "direitos-humanos":  {
                              "total":  100,
-                             "cinco":  0
+                             "cinco":  100
                          },
     "literatura":  {
-                       "total":  75,
-                       "cinco":  75
+                       "total":  150,
+                       "cinco":  150
                    },
     "historia-geral":  {
-                           "total":  100,
-                           "cinco":  100
+                           "total":  105,
+                           "cinco":  105
                        },
     "gramatica":  {
                       "total":  150,
-                      "cinco":  0
+                      "cinco":  150
                   },
     "ingles":  {
-                   "total":  150,
-                   "cinco":  0
+                   "total":  210,
+                   "cinco":  210
                },
     "matematica-rlm":  {
-                           "total":  150,
-                           "cinco":  0
+                           "total":  270,
+                           "cinco":  270
                        },
     "obras":  {
-                  "total":  280,
-                  "cinco":  55
+                  "total":  360,
+                  "cinco":  360
               },
     "geografia":  {
-                      "total":  150,
-                      "cinco":  150
+                      "total":  167,
+                      "cinco":  167
                   },
     "atualidades-politica":  {
                                  "total":  100,
-                                 "cinco":  0
+                                 "cinco":  100
                              }
 }

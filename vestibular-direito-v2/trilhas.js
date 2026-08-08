@@ -21,7 +21,7 @@
 (function () {
   // Contador de cache do CONTEÚDO, separado do ?v= do código (ver o comentário
   // longo no topo do index.html). Corrigiu uma questão? Incremente aqui.
-  const DATA_VERSION = 37;
+  const DATA_VERSION = 38;
 
   // A chave da trilha ativa é a única que vive FORA do namespace de trilha —
   // é ela que diz qual namespace usar. Sobe pra nuvem junto com o resto.
@@ -286,6 +286,43 @@
     });
   }
 
+  // Carrega o BANCO COMPLEMENTAR — só a aba Buscar o usa.
+  //
+  // São 1.374 questões adaptadas do PDF autoral de 1.500 (ver o cabeçalho de
+  // data/banco-extra.js). Elas não entram no cronograma, no simulado, no
+  // caderno de erros nem no progresso, e a garantia disso é estrutural: o
+  // arquivo escreve window.QUESTION_BANKS_EXTRA, um global que schedule.js não
+  // conhece. Quem monta o dia é pickQuestions/pickSimulado, e os dois indexam
+  // window.QUESTION_BANKS — só ele. Não há filtro para alguém esquecer de
+  // aplicar: a questão não está no lugar de onde o dia é montado.
+  //
+  // Caminho fixo, e não cfg.dataDir: o banco é um só e serve às duas trilhas,
+  // pela mesma razão que a busca já cruza trilhas — uma questão de crase é a
+  // mesma questão de crase independente do curso, e as 340 de Ciências da
+  // Natureza interessam mais a Medicina do que a Direito.
+  const EXTRA_URL = "../vestibular-direito/data/banco-extra.js";
+
+  function carregarExtra() {
+    if (window.QUESTION_BANKS_EXTRA) {
+      return Promise.resolve({
+        SUBTOPICS: window.SUBTOPICS_EXTRA, QUESTION_BANKS: window.QUESTION_BANKS_EXTRA,
+      });
+    }
+    return new Promise(function (resolve, reject) {
+      const el = document.createElement("script");
+      el.src = EXTRA_URL + "?d=" + DATA_VERSION;
+      el.async = false;
+      el.onload = function () {
+        if (!window.QUESTION_BANKS_EXTRA) return reject(new Error("banco-extra.js sem dados"));
+        resolve({
+          SUBTOPICS: window.SUBTOPICS_EXTRA, QUESTION_BANKS: window.QUESTION_BANKS_EXTRA,
+        });
+      };
+      el.onerror = function () { reject(new Error("não consegui carregar banco-extra.js")); };
+      document.head.appendChild(el);
+    });
+  }
+
   window.VD_TRILHA = {
     CHAVE: LS_TRILHA,
 
@@ -311,6 +348,7 @@
     ehValida: ehValida,
     carregar: carregar,
     carregarSecundaria: carregarSecundaria,
+    carregarExtra: carregarExtra,
 
     // A outra trilha — hoje sempre uma só, mas escrito para não quebrar se
     // aparecer uma terceira.

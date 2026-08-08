@@ -19,9 +19,9 @@
 //        URIs. Esse é sobre PARA ONDE o Google devolve, e é o authDomain de
 //        firebase-init.js. Sem ele, o Google recusa com redirect_uri_mismatch.
 
-import { auth } from "./firebase-init.js?v=29";
-import "./sync.js?v=29"; // define window.VD_SYNC
-import "./feedback.js?v=29"; // define window.VD_FEEDBACK
+import { auth } from "./firebase-init.js?v=30";
+import "./sync.js?v=30"; // define window.VD_SYNC
+import "./feedback.js?v=30"; // define window.VD_FEEDBACK
 import {
   GoogleAuthProvider,
   signInWithPopup,

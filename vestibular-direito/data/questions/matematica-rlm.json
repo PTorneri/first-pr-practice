@@ -2434,6 +2434,2046 @@
                          "dificuldade":  "dificil",
                          "formato":  "direta",
                          "banca":  "fgv"
+                     },
+                     {
+                         "id":  "matematica-rlm-162",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 180. No início do mês, sofreu aumento de 10% e, na semana seguinte, recebeu desconto de 5% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 188,10",
+                                              "b":  "R$ 189,00",
+                                              "c":  "R$ 180,00",
+                                              "d":  "R$ 198,00",
+                                              "e":  "R$ 171,00"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O aumento leva o preço a R$ 180,00 × 1,10 = R$ 198,00. O desconto incide sobre esse novo valor: R$ 198,00 × 0,95 = R$ 188,10. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-163",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 200. No início do mês, sofreu aumento de 15% e, na semana seguinte, recebeu desconto de 10% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 180",
+                                              "b":  "R$ 207",
+                                              "c":  "R$ 230",
+                                              "d":  "R$ 210",
+                                              "e":  "R$ 200"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O aumento leva o preço a R$ 200,00 × 1,15 = R$ 230,00. O desconto incide sobre esse novo valor: R$ 230,00 × 0,90 = R$ 207,00. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-164",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 220. No início do mês, sofreu aumento de 20% e, na semana seguinte, recebeu desconto de 15% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 231,00",
+                                              "b":  "R$ 187,00",
+                                              "c":  "R$ 224,40",
+                                              "d":  "R$ 220,00",
+                                              "e":  "R$ 264,00"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O aumento leva o preço a R$ 220,00 × 1,20 = R$ 264,00. O desconto incide sobre esse novo valor: R$ 264,00 × 0,85 = R$ 224,40. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-165",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 240. No início do mês, sofreu aumento de 25% e, na semana seguinte, recebeu desconto de 5% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 228",
+                                              "b":  "R$ 288",
+                                              "c":  "R$ 300",
+                                              "d":  "R$ 285",
+                                              "e":  "R$ 240"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O aumento leva o preço a R$ 240,00 × 1,25 = R$ 300,00. O desconto incide sobre esse novo valor: R$ 300,00 × 0,95 = R$ 285,00. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-166",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 260. No início do mês, sofreu aumento de 10% e, na semana seguinte, recebeu desconto de 10% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 234,00",
+                                              "b":  "R$ 283,14",
+                                              "c":  "R$ 260,00",
+                                              "d":  "R$ 286,00",
+                                              "e":  "R$ 257,40"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O aumento leva o preço a R$ 260,00 × 1,10 = R$ 286,00. O desconto incide sobre esse novo valor: R$ 286,00 × 0,90 = R$ 257,40. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-167",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 280. No início do mês, sofreu aumento de 15% e, na semana seguinte, recebeu desconto de 15% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 273,70",
+                                              "b":  "R$ 301,07",
+                                              "c":  "R$ 280,00",
+                                              "d":  "R$ 238,00",
+                                              "e":  "R$ 322,00"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O aumento leva o preço a R$ 280,00 × 1,15 = R$ 322,00. O desconto incide sobre esse novo valor: R$ 322,00 × 0,85 = R$ 273,70. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-168",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 300. No início do mês, sofreu aumento de 20% e, na semana seguinte, recebeu desconto de 5% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 345",
+                                              "b":  "R$ 342",
+                                              "c":  "R$ 285",
+                                              "d":  "R$ 360",
+                                              "e":  "R$ 300"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O aumento leva o preço a R$ 300,00 × 1,20 = R$ 360,00. O desconto incide sobre esse novo valor: R$ 360,00 × 0,95 = R$ 342,00. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-169",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 320. No início do mês, sofreu aumento de 25% e, na semana seguinte, recebeu desconto de 10% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 400",
+                                              "b":  "R$ 320",
+                                              "c":  "R$ 360",
+                                              "d":  "R$ 368",
+                                              "e":  "R$ 288"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O aumento leva o preço a R$ 320,00 × 1,25 = R$ 400,00. O desconto incide sobre esse novo valor: R$ 400,00 × 0,90 = R$ 360,00. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-170",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 340. No início do mês, sofreu aumento de 10% e, na semana seguinte, recebeu desconto de 15% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 323,00",
+                                              "b":  "R$ 374,00",
+                                              "c":  "R$ 289,00",
+                                              "d":  "R$ 317,90",
+                                              "e":  "R$ 340,00"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O aumento leva o preço a R$ 340,00 × 1,10 = R$ 374,00. O desconto incide sobre esse novo valor: R$ 374,00 × 0,85 = R$ 317,90. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-171",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 360. No início do mês, sofreu aumento de 15% e, na semana seguinte, recebeu desconto de 5% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 360,00",
+                                              "b":  "R$ 414,00",
+                                              "c":  "R$ 342,00",
+                                              "d":  "R$ 396,00",
+                                              "e":  "R$ 393,30"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O aumento leva o preço a R$ 360,00 × 1,15 = R$ 414,00. O desconto incide sobre esse novo valor: R$ 414,00 × 0,95 = R$ 393,30. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-172",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 380. No início do mês, sofreu aumento de 20% e, na semana seguinte, recebeu desconto de 10% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 410,40",
+                                              "b":  "R$ 342,00",
+                                              "c":  "R$ 380,00",
+                                              "d":  "R$ 418,00",
+                                              "e":  "R$ 456,00"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O aumento leva o preço a R$ 380,00 × 1,20 = R$ 456,00. O desconto incide sobre esse novo valor: R$ 456,00 × 0,90 = R$ 410,40. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-173",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 400. No início do mês, sofreu aumento de 25% e, na semana seguinte, recebeu desconto de 15% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 340",
+                                              "b":  "R$ 425",
+                                              "c":  "R$ 400",
+                                              "d":  "R$ 500",
+                                              "e":  "R$ 440"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O aumento leva o preço a R$ 400,00 × 1,25 = R$ 500,00. O desconto incide sobre esse novo valor: R$ 500,00 × 0,85 = R$ 425,00. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-174",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 420. No início do mês, sofreu aumento de 10% e, na semana seguinte, recebeu desconto de 5% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 462,00",
+                                              "b":  "R$ 399,00",
+                                              "c":  "R$ 438,90",
+                                              "d":  "R$ 441,00",
+                                              "e":  "R$ 420,00"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O aumento leva o preço a R$ 420,00 × 1,10 = R$ 462,00. O desconto incide sobre esse novo valor: R$ 462,00 × 0,95 = R$ 438,90. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-175",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 440. No início do mês, sofreu aumento de 15% e, na semana seguinte, recebeu desconto de 10% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 396,00",
+                                              "b":  "R$ 462,00",
+                                              "c":  "R$ 506,00",
+                                              "d":  "R$ 455,40",
+                                              "e":  "R$ 440,00"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O aumento leva o preço a R$ 440,00 × 1,15 = R$ 506,00. O desconto incide sobre esse novo valor: R$ 506,00 × 0,90 = R$ 455,40. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-176",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 460. No início do mês, sofreu aumento de 20% e, na semana seguinte, recebeu desconto de 15% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 552,00",
+                                              "b":  "R$ 483,00",
+                                              "c":  "R$ 460,00",
+                                              "d":  "R$ 391,00",
+                                              "e":  "R$ 469,20"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O aumento leva o preço a R$ 460,00 × 1,20 = R$ 552,00. O desconto incide sobre esse novo valor: R$ 552,00 × 0,85 = R$ 469,20. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-177",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 480. No início do mês, sofreu aumento de 25% e, na semana seguinte, recebeu desconto de 5% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 570",
+                                              "b":  "R$ 480",
+                                              "c":  "R$ 576",
+                                              "d":  "R$ 456",
+                                              "e":  "R$ 600"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O aumento leva o preço a R$ 480,00 × 1,25 = R$ 600,00. O desconto incide sobre esse novo valor: R$ 600,00 × 0,95 = R$ 570,00. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-178",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 500. No início do mês, sofreu aumento de 10% e, na semana seguinte, recebeu desconto de 10% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 500,00",
+                                              "b":  "R$ 495,00",
+                                              "c":  "R$ 550,00",
+                                              "d":  "R$ 450,00",
+                                              "e":  "R$ 544,50"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O aumento leva o preço a R$ 500,00 × 1,10 = R$ 550,00. O desconto incide sobre esse novo valor: R$ 550,00 × 0,90 = R$ 495,00. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-179",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 520. No início do mês, sofreu aumento de 15% e, na semana seguinte, recebeu desconto de 15% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 598,00",
+                                              "b":  "R$ 520,00",
+                                              "c":  "R$ 508,30",
+                                              "d":  "R$ 559,13",
+                                              "e":  "R$ 442,00"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O aumento leva o preço a R$ 520,00 × 1,15 = R$ 598,00. O desconto incide sobre esse novo valor: R$ 598,00 × 0,85 = R$ 508,30. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-180",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 540. No início do mês, sofreu aumento de 20% e, na semana seguinte, recebeu desconto de 5% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 648,00",
+                                              "b":  "R$ 513,00",
+                                              "c":  "R$ 540,00",
+                                              "d":  "R$ 615,60",
+                                              "e":  "R$ 621,00"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O aumento leva o preço a R$ 540,00 × 1,20 = R$ 648,00. O desconto incide sobre esse novo valor: R$ 648,00 × 0,95 = R$ 615,60. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-181",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Um serviço custava R$ 560. No início do mês, sofreu aumento de 25% e, na semana seguinte, recebeu desconto de 10% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                         "alternativas":  {
+                                              "a":  "R$ 644",
+                                              "b":  "R$ 504",
+                                              "c":  "R$ 700",
+                                              "d":  "R$ 560",
+                                              "e":  "R$ 630"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O aumento leva o preço a R$ 560,00 × 1,25 = R$ 700,00. O desconto incide sobre esse novo valor: R$ 700,00 × 0,90 = R$ 630,00. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-182",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 500 foi aplicado a juros compostos de 5% por período, durante 2 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 551,25",
+                                              "b":  "R$ 50,00",
+                                              "c":  "R$ 550,00",
+                                              "d":  "R$ 453,51",
+                                              "e":  "R$ 525,00"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 500,00 × 1,05^2 = R$ 551,25. No regime simples o montante seria R$ 550,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-183",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 600 foi aplicado a juros compostos de 8% por período, durante 3 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 144,00",
+                                              "b":  "R$ 755,83",
+                                              "c":  "R$ 648,00",
+                                              "d":  "R$ 476,30",
+                                              "e":  "R$ 744,00"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 600,00 × 1,08^3 = R$ 755,83. No regime simples o montante seria R$ 744,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-184",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 700 foi aplicado a juros compostos de 10% por período, durante 4 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 770,00",
+                                              "b":  "R$ 280,00",
+                                              "c":  "R$ 1.024,87",
+                                              "d":  "R$ 980,00",
+                                              "e":  "R$ 478,11"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 700,00 × 1,10^4 = R$ 1.024,87. No regime simples o montante seria R$ 980,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-185",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 800 foi aplicado a juros compostos de 5% por período, durante 2 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 80,00",
+                                              "b":  "R$ 880,00",
+                                              "c":  "R$ 725,62",
+                                              "d":  "R$ 882,00",
+                                              "e":  "R$ 840,00"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 800,00 × 1,05^2 = R$ 882,00. No regime simples o montante seria R$ 880,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-186",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 900 foi aplicado a juros compostos de 8% por período, durante 3 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 714,45",
+                                              "b":  "R$ 1.116,00",
+                                              "c":  "R$ 972,00",
+                                              "d":  "R$ 216,00",
+                                              "e":  "R$ 1.133,74"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 900,00 × 1,08^3 = R$ 1.133,74. No regime simples o montante seria R$ 1.116,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-187",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 1.000 foi aplicado a juros compostos de 10% por período, durante 4 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 1.464,10",
+                                              "b":  "R$ 1.400,00",
+                                              "c":  "R$ 1.100,00",
+                                              "d":  "R$ 683,01",
+                                              "e":  "R$ 400,00"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.000,00 × 1,10^4 = R$ 1.464,10. No regime simples o montante seria R$ 1.400,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-188",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 1.100 foi aplicado a juros compostos de 5% por período, durante 2 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 1.210,00",
+                                              "b":  "R$ 1.212,75",
+                                              "c":  "R$ 1.155,00",
+                                              "d":  "R$ 997,73",
+                                              "e":  "R$ 110,00"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.100,00 × 1,05^2 = R$ 1.212,75. No regime simples o montante seria R$ 1.210,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-189",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 1.200 foi aplicado a juros compostos de 8% por período, durante 3 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 1.488,00",
+                                              "b":  "R$ 1.296,00",
+                                              "c":  "R$ 1.511,65",
+                                              "d":  "R$ 288,00",
+                                              "e":  "R$ 952,60"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.200,00 × 1,08^3 = R$ 1.511,65. No regime simples o montante seria R$ 1.488,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-190",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 1.300 foi aplicado a juros compostos de 10% por período, durante 4 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 1.820,00",
+                                              "b":  "R$ 887,92",
+                                              "c":  "R$ 1.430,00",
+                                              "d":  "R$ 1.903,33",
+                                              "e":  "R$ 520,00"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.300,00 × 1,10^4 = R$ 1.903,33. No regime simples o montante seria R$ 1.820,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-191",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 1.400 foi aplicado a juros compostos de 5% por período, durante 2 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 1.540,00",
+                                              "b":  "R$ 1.470,00",
+                                              "c":  "R$ 140,00",
+                                              "d":  "R$ 1.269,84",
+                                              "e":  "R$ 1.543,50"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.400,00 × 1,05^2 = R$ 1.543,50. No regime simples o montante seria R$ 1.540,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-192",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 1.500 foi aplicado a juros compostos de 8% por período, durante 3 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 1.889,57",
+                                              "b":  "R$ 1.860,00",
+                                              "c":  "R$ 1.620,00",
+                                              "d":  "R$ 1.190,75",
+                                              "e":  "R$ 360,00"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.500,00 × 1,08^3 = R$ 1.889,57. No regime simples o montante seria R$ 1.860,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-193",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 1.600 foi aplicado a juros compostos de 10% por período, durante 4 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 640,00",
+                                              "b":  "R$ 2.342,56",
+                                              "c":  "R$ 2.240,00",
+                                              "d":  "R$ 1.760,00",
+                                              "e":  "R$ 1.092,82"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.600,00 × 1,10^4 = R$ 2.342,56. No regime simples o montante seria R$ 2.240,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-194",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 1.700 foi aplicado a juros compostos de 5% por período, durante 2 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 1.785,00",
+                                              "b":  "R$ 170,00",
+                                              "c":  "R$ 1.874,25",
+                                              "d":  "R$ 1.870,00",
+                                              "e":  "R$ 1.541,95"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.700,00 × 1,05^2 = R$ 1.874,25. No regime simples o montante seria R$ 1.870,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-195",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 1.800 foi aplicado a juros compostos de 8% por período, durante 3 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 1.944,00",
+                                              "b":  "R$ 432,00",
+                                              "c":  "R$ 2.232,00",
+                                              "d":  "R$ 2.267,48",
+                                              "e":  "R$ 1.428,90"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.800,00 × 1,08^3 = R$ 2.267,48. No regime simples o montante seria R$ 2.232,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-196",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 1.900 foi aplicado a juros compostos de 10% por período, durante 4 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 760,00",
+                                              "b":  "R$ 1.297,73",
+                                              "c":  "R$ 2.090,00",
+                                              "d":  "R$ 2.660,00",
+                                              "e":  "R$ 2.781,79"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.900,00 × 1,10^4 = R$ 2.781,79. No regime simples o montante seria R$ 2.660,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-197",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 2.000 foi aplicado a juros compostos de 5% por período, durante 2 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 2.205,00",
+                                              "b":  "R$ 2.200,00",
+                                              "c":  "R$ 200,00",
+                                              "d":  "R$ 1.814,06",
+                                              "e":  "R$ 2.100,00"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 2.000,00 × 1,05^2 = R$ 2.205,00. No regime simples o montante seria R$ 2.200,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-198",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 2.100 foi aplicado a juros compostos de 8% por período, durante 3 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 504,00",
+                                              "b":  "R$ 2.645,40",
+                                              "c":  "R$ 2.268,00",
+                                              "d":  "R$ 2.604,00",
+                                              "e":  "R$ 1.667,05"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 2.100,00 × 1,08^3 = R$ 2.645,40. No regime simples o montante seria R$ 2.604,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-199",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 2.200 foi aplicado a juros compostos de 10% por período, durante 4 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 2.420,00",
+                                              "b":  "R$ 880,00",
+                                              "c":  "R$ 3.221,02",
+                                              "d":  "R$ 1.502,63",
+                                              "e":  "R$ 3.080,00"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 2.200,00 × 1,10^4 = R$ 3.221,02. No regime simples o montante seria R$ 3.080,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-200",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 2.300 foi aplicado a juros compostos de 5% por período, durante 2 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 2.086,17",
+                                              "b":  "R$ 2.415,00",
+                                              "c":  "R$ 230,00",
+                                              "d":  "R$ 2.535,75",
+                                              "e":  "R$ 2.530,00"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 2.300,00 × 1,05^2 = R$ 2.535,75. No regime simples o montante seria R$ 2.530,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-201",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Um capital de R$ 2.400 foi aplicado a juros compostos de 8% por período, durante 3 períodos. Qual é o montante final?",
+                         "alternativas":  {
+                                              "a":  "R$ 2.592,00",
+                                              "b":  "R$ 1.905,20",
+                                              "c":  "R$ 576,00",
+                                              "d":  "R$ 2.976,00",
+                                              "e":  "R$ 3.023,31"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 2.400,00 × 1,08^3 = R$ 3.023,31. No regime simples o montante seria R$ 2.976,00 — a diferença é o juro sobre juro.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-202",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 100 será dividida entre dois projetos na razão 2:3. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 40,00",
+                                              "b":  "R$ 60,00",
+                                              "c":  "R$ 50,00",
+                                              "d":  "R$ 33,33",
+                                              "e":  "R$ 44,00"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A razão 2:3 divide a verba em 5 partes iguais de R$ 20,00. O primeiro termo recebe 2 delas: R$ 40,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-203",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 200 será dividida entre dois projetos na razão 3:5. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 66,67",
+                                              "b":  "R$ 75,00",
+                                              "c":  "R$ 40,00",
+                                              "d":  "R$ 125,00",
+                                              "e":  "R$ 100,00"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A razão 3:5 divide a verba em 8 partes iguais de R$ 25,00. O primeiro termo recebe 3 delas: R$ 75,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-204",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 330 será dividida entre dois projetos na razão 4:7. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 47,14",
+                                              "b":  "R$ 210,00",
+                                              "c":  "R$ 120,00",
+                                              "d":  "R$ 82,50",
+                                              "e":  "R$ 165,00"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A razão 4:7 divide a verba em 11 partes iguais de R$ 30,00. O primeiro termo recebe 4 delas: R$ 120,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-205",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 280 será dividida entre dois projetos na razão 5:3. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 93,33",
+                                              "b":  "R$ 105,00",
+                                              "c":  "R$ 56,00",
+                                              "d":  "R$ 175,00",
+                                              "e":  "R$ 140,00"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A razão 5:3 divide a verba em 8 partes iguais de R$ 35,00. O primeiro termo recebe 5 delas: R$ 175,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-206",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 440 será dividida entre dois projetos na razão 6:5. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 88,00",
+                                              "b":  "R$ 220,00",
+                                              "c":  "R$ 73,33",
+                                              "d":  "R$ 200,00",
+                                              "e":  "R$ 240,00"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A razão 6:5 divide a verba em 11 partes iguais de R$ 40,00. O primeiro termo recebe 6 delas: R$ 240,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-207",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 405 será dividida entre dois projetos na razão 2:7. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 90,00",
+                                              "b":  "R$ 315,00",
+                                              "c":  "R$ 99,00",
+                                              "d":  "R$ 202,50",
+                                              "e":  "R$ 57,86"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A razão 2:7 divide a verba em 9 partes iguais de R$ 45,00. O primeiro termo recebe 2 delas: R$ 90,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-208",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 350 será dividida entre dois projetos na razão 3:4. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 175,00",
+                                              "b":  "R$ 150,00",
+                                              "c":  "R$ 116,67",
+                                              "d":  "R$ 87,50",
+                                              "e":  "R$ 200,00"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A razão 3:4 divide a verba em 7 partes iguais de R$ 50,00. O primeiro termo recebe 3 delas: R$ 150,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-209",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 495 será dividida entre dois projetos na razão 4:5. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 123,75",
+                                              "b":  "R$ 247,50",
+                                              "c":  "R$ 220,00",
+                                              "d":  "R$ 275,00",
+                                              "e":  "R$ 99,00"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A razão 4:5 divide a verba em 9 partes iguais de R$ 55,00. O primeiro termo recebe 4 delas: R$ 220,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-210",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 720 será dividida entre dois projetos na razão 5:7. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 102,86",
+                                              "b":  "R$ 144,00",
+                                              "c":  "R$ 360,00",
+                                              "d":  "R$ 300,00",
+                                              "e":  "R$ 420,00"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A razão 5:7 divide a verba em 12 partes iguais de R$ 60,00. O primeiro termo recebe 5 delas: R$ 300,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-211",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 585 será dividida entre dois projetos na razão 6:3. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 97,50",
+                                              "b":  "R$ 429,00",
+                                              "c":  "R$ 292,50",
+                                              "d":  "R$ 195,00",
+                                              "e":  "R$ 390,00"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A razão 6:3 divide a verba em 9 partes iguais de R$ 65,00. O primeiro termo recebe 6 delas: R$ 390,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-212",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 490 será dividida entre dois projetos na razão 2:5. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 140",
+                                              "b":  "R$ 350",
+                                              "c":  "R$ 98",
+                                              "d":  "R$ 245",
+                                              "e":  "R$ 154"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A razão 2:5 divide a verba em 7 partes iguais de R$ 70,00. O primeiro termo recebe 2 delas: R$ 140,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-213",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 750 será dividida entre dois projetos na razão 3:7. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 250,00",
+                                              "b":  "R$ 225,00",
+                                              "c":  "R$ 107,14",
+                                              "d":  "R$ 375,00",
+                                              "e":  "R$ 525,00"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A razão 3:7 divide a verba em 10 partes iguais de R$ 75,00. O primeiro termo recebe 3 delas: R$ 225,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-214",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 560 será dividida entre dois projetos na razão 4:3. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 140,00",
+                                              "b":  "R$ 240,00",
+                                              "c":  "R$ 320,00",
+                                              "d":  "R$ 280,00",
+                                              "e":  "R$ 186,67"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A razão 4:3 divide a verba em 7 partes iguais de R$ 80,00. O primeiro termo recebe 4 delas: R$ 320,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-215",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 935 será dividida entre dois projetos na razão 5:6. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 187,00",
+                                              "b":  "R$ 467,50",
+                                              "c":  "R$ 510,00",
+                                              "d":  "R$ 425,00",
+                                              "e":  "R$ 155,83"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A razão 5:6 divide a verba em 11 partes iguais de R$ 85,00. O primeiro termo recebe 5 delas: R$ 425,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-216",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 1.170 será dividida entre dois projetos na razão 6:7. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 630,00",
+                                              "b":  "R$ 167,14",
+                                              "c":  "R$ 585,00",
+                                              "d":  "R$ 195,00",
+                                              "e":  "R$ 540,00"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A razão 6:7 divide a verba em 13 partes iguais de R$ 90,00. O primeiro termo recebe 6 delas: R$ 540,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-217",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 475 será dividida entre dois projetos na razão 2:3. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 190,00",
+                                              "b":  "R$ 285,00",
+                                              "c":  "R$ 237,50",
+                                              "d":  "R$ 209,00",
+                                              "e":  "R$ 158,33"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A razão 2:3 divide a verba em 5 partes iguais de R$ 95,00. O primeiro termo recebe 2 delas: R$ 190,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-218",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 800 será dividida entre dois projetos na razão 3:5. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 266,67",
+                                              "b":  "R$ 300,00",
+                                              "c":  "R$ 400,00",
+                                              "d":  "R$ 160,00",
+                                              "e":  "R$ 500,00"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A razão 3:5 divide a verba em 8 partes iguais de R$ 100,00. O primeiro termo recebe 3 delas: R$ 300,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-219",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 1.155 será dividida entre dois projetos na razão 4:7. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 165,00",
+                                              "b":  "R$ 288,75",
+                                              "c":  "R$ 420,00",
+                                              "d":  "R$ 735,00",
+                                              "e":  "R$ 577,50"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A razão 4:7 divide a verba em 11 partes iguais de R$ 105,00. O primeiro termo recebe 4 delas: R$ 420,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-220",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 880 será dividida entre dois projetos na razão 5:3. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 176,00",
+                                              "b":  "R$ 330,00",
+                                              "c":  "R$ 440,00",
+                                              "d":  "R$ 550,00",
+                                              "e":  "R$ 293,33"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A razão 5:3 divide a verba em 8 partes iguais de R$ 110,00. O primeiro termo recebe 5 delas: R$ 550,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-221",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma verba de R$ 1.265 será dividida entre dois projetos na razão 6:5. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                         "alternativas":  {
+                                              "a":  "R$ 210,83",
+                                              "b":  "R$ 253,00",
+                                              "c":  "R$ 632,50",
+                                              "d":  "R$ 575,00",
+                                              "e":  "R$ 690,00"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A razão 6:5 divide a verba em 11 partes iguais de R$ 115,00. O primeiro termo recebe 6 delas: R$ 690,00.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-222",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma urna contém 2 bolas vermelhas e 3 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                         "alternativas":  {
+                                              "a":  "2/3",
+                                              "b":  "2/5",
+                                              "c":  "3/5",
+                                              "d":  "1/3",
+                                              "e":  "1/5"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "São 2 casos favoráveis em 5 bolas: P = 2/5 = 2/5.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-223",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma urna contém 3 bolas vermelhas e 5 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                         "alternativas":  {
+                                              "a":  "9/64",
+                                              "b":  "15/56",
+                                              "c":  "3/28",
+                                              "d":  "2/7",
+                                              "e":  "3/4"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 3/8 × 2/7 = 3/28.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-224",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma urna contém 4 bolas vermelhas e 7 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                         "alternativas":  {
+                                              "a":  "4/7",
+                                              "b":  "7/11",
+                                              "c":  "1/3",
+                                              "d":  "4/11",
+                                              "e":  "1/11"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "São 4 casos favoráveis em 11 bolas: P = 4/11 = 4/11.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-225",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma urna contém 5 bolas vermelhas e 3 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                         "alternativas":  {
+                                              "a":  "15/56",
+                                              "b":  "5/4",
+                                              "c":  "25/64",
+                                              "d":  "4/7",
+                                              "e":  "5/14"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 5/8 × 4/7 = 5/14.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-226",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma urna contém 6 bolas vermelhas e 5 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                         "alternativas":  {
+                                              "a":  "6/11",
+                                              "b":  "5/11",
+                                              "c":  "6/5",
+                                              "d":  "1/11",
+                                              "e":  "1/2"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "São 6 casos favoráveis em 11 bolas: P = 6/11 = 6/11.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-227",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma urna contém 2 bolas vermelhas e 7 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                         "alternativas":  {
+                                              "a":  "1/8",
+                                              "b":  "1/36",
+                                              "c":  "4/81",
+                                              "d":  "7/36",
+                                              "e":  "4/9"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 2/9 × 1/8 = 1/36.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-228",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma urna contém 3 bolas vermelhas e 3 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                         "alternativas":  {
+                                              "a":  "1/6",
+                                              "b":  "2/3",
+                                              "c":  "1/2",
+                                              "d":  "1/1",
+                                              "e":  "3/7"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "São 3 casos favoráveis em 6 bolas: P = 3/6 = 1/2.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-229",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma urna contém 4 bolas vermelhas e 5 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                         "alternativas":  {
+                                              "a":  "8/9",
+                                              "b":  "16/81",
+                                              "c":  "5/18",
+                                              "d":  "1/6",
+                                              "e":  "3/8"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 4/9 × 3/8 = 1/6.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-230",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma urna contém 5 bolas vermelhas e 7 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                         "alternativas":  {
+                                              "a":  "5/13",
+                                              "b":  "5/7",
+                                              "c":  "7/12",
+                                              "d":  "1/12",
+                                              "e":  "5/12"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "São 5 casos favoráveis em 12 bolas: P = 5/12 = 5/12.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-231",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma urna contém 6 bolas vermelhas e 3 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                         "alternativas":  {
+                                              "a":  "5/12",
+                                              "b":  "4/3",
+                                              "c":  "4/9",
+                                              "d":  "1/4",
+                                              "e":  "5/8"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 6/9 × 5/8 = 5/12.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-232",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma urna contém 2 bolas vermelhas e 5 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                         "alternativas":  {
+                                              "a":  "5/7",
+                                              "b":  "2/7",
+                                              "c":  "1/4",
+                                              "d":  "2/5",
+                                              "e":  "1/7"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "São 2 casos favoráveis em 7 bolas: P = 2/7 = 2/7.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-233",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma urna contém 3 bolas vermelhas e 7 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                         "alternativas":  {
+                                              "a":  "9/100",
+                                              "b":  "3/5",
+                                              "c":  "1/15",
+                                              "d":  "2/9",
+                                              "e":  "7/30"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 3/10 × 2/9 = 1/15.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-234",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma urna contém 4 bolas vermelhas e 3 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                         "alternativas":  {
+                                              "a":  "3/7",
+                                              "b":  "1/7",
+                                              "c":  "1/2",
+                                              "d":  "4/7",
+                                              "e":  "4/3"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "São 4 casos favoráveis em 7 bolas: P = 4/7 = 4/7.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-235",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma urna contém 5 bolas vermelhas e 5 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                         "alternativas":  {
+                                              "a":  "1/1",
+                                              "b":  "4/9",
+                                              "c":  "1/4",
+                                              "d":  "5/18",
+                                              "e":  "2/9"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 5/10 × 4/9 = 2/9.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-236",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma urna contém 6 bolas vermelhas e 7 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                         "alternativas":  {
+                                              "a":  "6/13",
+                                              "b":  "6/7",
+                                              "c":  "3/7",
+                                              "d":  "1/13",
+                                              "e":  "7/13"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "São 6 casos favoráveis em 13 bolas: P = 6/13 = 6/13.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-237",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma urna contém 2 bolas vermelhas e 3 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                         "alternativas":  {
+                                              "a":  "4/25",
+                                              "b":  "1/10",
+                                              "c":  "3/10",
+                                              "d":  "1/4",
+                                              "e":  "4/5"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 2/5 × 1/4 = 1/10.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-238",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma urna contém 3 bolas vermelhas e 5 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                         "alternativas":  {
+                                              "a":  "1/8",
+                                              "b":  "1/3",
+                                              "c":  "3/8",
+                                              "d":  "3/5",
+                                              "e":  "5/8"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "São 3 casos favoráveis em 8 bolas: P = 3/8 = 3/8.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-239",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma urna contém 4 bolas vermelhas e 7 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                         "alternativas":  {
+                                              "a":  "14/55",
+                                              "b":  "16/121",
+                                              "c":  "3/10",
+                                              "d":  "6/55",
+                                              "e":  "8/11"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 4/11 × 3/10 = 6/55.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-240",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma urna contém 5 bolas vermelhas e 3 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                         "alternativas":  {
+                                              "a":  "5/3",
+                                              "b":  "1/8",
+                                              "c":  "3/8",
+                                              "d":  "5/9",
+                                              "e":  "5/8"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "São 5 casos favoráveis em 8 bolas: P = 5/8 = 5/8.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-241",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma urna contém 6 bolas vermelhas e 5 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                         "alternativas":  {
+                                              "a":  "3/11",
+                                              "b":  "1/11",
+                                              "c":  "36/121",
+                                              "d":  "1/2",
+                                              "e":  "12/11"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 6/11 × 5/10 = 3/11.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-242",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "De um grupo de 6 estudantes, serão escolhidos 2 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                         "alternativas":  {
+                                              "a":  "2",
+                                              "b":  "15",
+                                              "c":  "36",
+                                              "d":  "30",
+                                              "e":  "12"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(6,2) = 6!/(2!·4!) = 15.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-243",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Entre 7 finalistas, serão atribuídos 3 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                         "alternativas":  {
+                                              "a":  "6",
+                                              "b":  "35",
+                                              "c":  "210",
+                                              "d":  "21",
+                                              "e":  "343"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(7,3) = 7!/4! = 210.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-244",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "De um grupo de 8 estudantes, serão escolhidos 4 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                         "alternativas":  {
+                                              "a":  "32",
+                                              "b":  "1.680",
+                                              "c":  "24",
+                                              "d":  "70",
+                                              "e":  "4.096"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(8,4) = 8!/(4!·4!) = 70.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-245",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Entre 9 finalistas, serão atribuídos 2 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                         "alternativas":  {
+                                              "a":  "18",
+                                              "b":  "36",
+                                              "c":  "2",
+                                              "d":  "81",
+                                              "e":  "72"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(9,2) = 9!/7! = 72.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-246",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "De um grupo de 10 estudantes, serão escolhidos 3 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                         "alternativas":  {
+                                              "a":  "120",
+                                              "b":  "1.000",
+                                              "c":  "30",
+                                              "d":  "720",
+                                              "e":  "6"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(10,3) = 10!/(3!·7!) = 120.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-247",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Entre 11 finalistas, serão atribuídos 4 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                         "alternativas":  {
+                                              "a":  "14.641",
+                                              "b":  "7.920",
+                                              "c":  "44",
+                                              "d":  "330",
+                                              "e":  "24"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(11,4) = 11!/7! = 7920.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-248",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "De um grupo de 12 estudantes, serão escolhidos 2 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                         "alternativas":  {
+                                              "a":  "132",
+                                              "b":  "144",
+                                              "c":  "66",
+                                              "d":  "2",
+                                              "e":  "24"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(12,2) = 12!/(2!·10!) = 66.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-249",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Entre 6 finalistas, serão atribuídos 3 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                         "alternativas":  {
+                                              "a":  "216",
+                                              "b":  "20",
+                                              "c":  "6",
+                                              "d":  "120",
+                                              "e":  "18"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(6,3) = 6!/3! = 120.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-250",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "De um grupo de 7 estudantes, serão escolhidos 4 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                         "alternativas":  {
+                                              "a":  "2.401",
+                                              "b":  "840",
+                                              "c":  "24",
+                                              "d":  "28",
+                                              "e":  "35"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(7,4) = 7!/(4!·3!) = 35.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-251",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Entre 8 finalistas, serão atribuídos 2 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                         "alternativas":  {
+                                              "a":  "56",
+                                              "b":  "16",
+                                              "c":  "28",
+                                              "d":  "2",
+                                              "e":  "64"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(8,2) = 8!/6! = 56.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-252",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "De um grupo de 9 estudantes, serão escolhidos 3 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                         "alternativas":  {
+                                              "a":  "6",
+                                              "b":  "84",
+                                              "c":  "504",
+                                              "d":  "27",
+                                              "e":  "729"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(9,3) = 9!/(3!·6!) = 84.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-253",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Entre 10 finalistas, serão atribuídos 4 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                         "alternativas":  {
+                                              "a":  "40",
+                                              "b":  "24",
+                                              "c":  "5.040",
+                                              "d":  "210",
+                                              "e":  "10.000"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(10,4) = 10!/6! = 5040.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-254",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "De um grupo de 11 estudantes, serão escolhidos 2 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                         "alternativas":  {
+                                              "a":  "2",
+                                              "b":  "121",
+                                              "c":  "110",
+                                              "d":  "55",
+                                              "e":  "22"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(11,2) = 11!/(2!·9!) = 55.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-255",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Entre 12 finalistas, serão atribuídos 3 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                         "alternativas":  {
+                                              "a":  "36",
+                                              "b":  "1.728",
+                                              "c":  "6",
+                                              "d":  "220",
+                                              "e":  "1.320"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(12,3) = 12!/9! = 1320.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-256",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "De um grupo de 6 estudantes, serão escolhidos 4 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                         "alternativas":  {
+                                              "a":  "15,00",
+                                              "b":  "1.296,00",
+                                              "c":  "360,00",
+                                              "d":  "16,50",
+                                              "e":  "24,00"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(6,4) = 6!/(4!·2!) = 15.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-257",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Entre 7 finalistas, serão atribuídos 2 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                         "alternativas":  {
+                                              "a":  "49",
+                                              "b":  "42",
+                                              "c":  "14",
+                                              "d":  "21",
+                                              "e":  "2"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(7,2) = 7!/5! = 42.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-258",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "De um grupo de 8 estudantes, serão escolhidos 3 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                         "alternativas":  {
+                                              "a":  "6",
+                                              "b":  "336",
+                                              "c":  "56",
+                                              "d":  "24",
+                                              "e":  "512"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(8,3) = 8!/(3!·5!) = 56.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-259",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Entre 9 finalistas, serão atribuídos 4 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                         "alternativas":  {
+                                              "a":  "126",
+                                              "b":  "24",
+                                              "c":  "36",
+                                              "d":  "3.024",
+                                              "e":  "6.561"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(9,4) = 9!/5! = 3024.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-260",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "De um grupo de 10 estudantes, serão escolhidos 2 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                         "alternativas":  {
+                                              "a":  "100",
+                                              "b":  "90",
+                                              "c":  "2",
+                                              "d":  "20",
+                                              "e":  "45"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(10,2) = 10!/(2!·8!) = 45.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-261",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Entre 11 finalistas, serão atribuídos 3 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                         "alternativas":  {
+                                              "a":  "990",
+                                              "b":  "6",
+                                              "c":  "1.331",
+                                              "d":  "165",
+                                              "e":  "33"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(11,3) = 11!/8! = 990.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-262",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma tarifa é modelada por f(x) = 2x + 5. Qual é o valor de f(3)?",
+                         "alternativas":  {
+                                              "a":  "1",
+                                              "b":  "10",
+                                              "c":  "11",
+                                              "d":  "16",
+                                              "e":  "8"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Basta substituir x por 3 na lei da função: f(3) = 2×3 + 5 = 6 + 5 = 11. Numa função afim, 2 é a taxa de variação e 5 é o valor inicial.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-263",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma tarifa é modelada por f(x) = 4x + 7. Qual é o valor de f(5)?",
+                         "alternativas":  {
+                                              "a":  "16",
+                                              "b":  "13",
+                                              "c":  "48",
+                                              "d":  "12",
+                                              "e":  "27"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Basta substituir x por 5 na lei da função: f(5) = 4×5 + 7 = 20 + 7 = 27. Numa função afim, 4 é a taxa de variação e 7 é o valor inicial.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-264",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma tarifa é modelada por f(x) = 6x + 9. Qual é o valor de f(7)?",
+                         "alternativas":  {
+                                              "a":  "96",
+                                              "b":  "51",
+                                              "c":  "16",
+                                              "d":  "22",
+                                              "e":  "33"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Basta substituir x por 7 na lei da função: f(7) = 6×7 + 9 = 42 + 9 = 51. Numa função afim, 6 é a taxa de variação e 9 é o valor inicial.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-265",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma tarifa é modelada por f(x) = 3x + 11. Qual é o valor de f(9)?",
+                         "alternativas":  {
+                                              "a":  "23",
+                                              "b":  "20",
+                                              "c":  "60",
+                                              "d":  "38",
+                                              "e":  "16"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Basta substituir x por 9 na lei da função: f(9) = 3×9 + 11 = 27 + 11 = 38. Numa função afim, 3 é a taxa de variação e 11 é o valor inicial.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-266",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma tarifa é modelada por f(x) = 5x + 13. Qual é o valor de f(4)?",
+                         "alternativas":  {
+                                              "a":  "33",
+                                              "b":  "17",
+                                              "c":  "85",
+                                              "d":  "22",
+                                              "e":  "7"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Basta substituir x por 4 na lei da função: f(4) = 5×4 + 13 = 20 + 13 = 33. Numa função afim, 5 é a taxa de variação e 13 é o valor inicial.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-267",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma tarifa é modelada por f(x) = 2x + 15. Qual é o valor de f(6)?",
+                         "alternativas":  {
+                                              "a":  "-3",
+                                              "b":  "42",
+                                              "c":  "27",
+                                              "d":  "23",
+                                              "e":  "21"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Basta substituir x por 6 na lei da função: f(6) = 2×6 + 15 = 12 + 15 = 27. Numa função afim, 2 é a taxa de variação e 15 é o valor inicial.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-268",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma tarifa é modelada por f(x) = 4x + 17. Qual é o valor de f(8)?",
+                         "alternativas":  {
+                                              "a":  "100",
+                                              "b":  "29",
+                                              "c":  "25",
+                                              "d":  "15",
+                                              "e":  "49"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Basta substituir x por 8 na lei da função: f(8) = 4×8 + 17 = 32 + 17 = 49. Numa função afim, 4 é a taxa de variação e 17 é o valor inicial.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-269",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma tarifa é modelada por f(x) = 6x + 19. Qual é o valor de f(3)?",
+                         "alternativas":  {
+                                              "a":  "-1",
+                                              "b":  "37",
+                                              "c":  "28",
+                                              "d":  "22",
+                                              "e":  "132"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Basta substituir x por 3 na lei da função: f(3) = 6×3 + 19 = 18 + 19 = 37. Numa função afim, 6 é a taxa de variação e 19 é o valor inicial.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-270",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma tarifa é modelada por f(x) = 3x + 21. Qual é o valor de f(5)?",
+                         "alternativas":  {
+                                              "a":  "-6",
+                                              "b":  "26",
+                                              "c":  "78",
+                                              "d":  "36",
+                                              "e":  "29"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Basta substituir x por 5 na lei da função: f(5) = 3×5 + 21 = 15 + 21 = 36. Numa função afim, 3 é a taxa de variação e 21 é o valor inicial.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-271",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Uma tarifa é modelada por f(x) = 5x + 23. Qual é o valor de f(7)?",
+                         "alternativas":  {
+                                              "a":  "58",
+                                              "b":  "150",
+                                              "c":  "12",
+                                              "d":  "30",
+                                              "e":  "35"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Basta substituir x por 7 na lei da função: f(7) = 5×7 + 23 = 35 + 23 = 58. Numa função afim, 5 é a taxa de variação e 23 é o valor inicial.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-272",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma população de bactérias começa com 50 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 3 horas?",
+                         "alternativas":  {
+                                              "a":  "450",
+                                              "b":  "58",
+                                              "c":  "400",
+                                              "d":  "200",
+                                              "e":  "300"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 50 × 2^3 = 400.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-273",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma população de bactérias começa com 70 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 5 horas?",
+                         "alternativas":  {
+                                              "a":  "1.120",
+                                              "b":  "1.750",
+                                              "c":  "700",
+                                              "d":  "102",
+                                              "e":  "2.240"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 70 × 2^5 = 2.240.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-274",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma população de bactérias começa com 90 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 3 horas?",
+                         "alternativas":  {
+                                              "a":  "540",
+                                              "b":  "720",
+                                              "c":  "810",
+                                              "d":  "360",
+                                              "e":  "98"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 90 × 2^3 = 720.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-275",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma população de bactérias começa com 110 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 5 horas?",
+                         "alternativas":  {
+                                              "a":  "1.100",
+                                              "b":  "2.750",
+                                              "c":  "1.760",
+                                              "d":  "3.520",
+                                              "e":  "142"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 110 × 2^5 = 3.520.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-276",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma população de bactérias começa com 130 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 3 horas?",
+                         "alternativas":  {
+                                              "a":  "1.040",
+                                              "b":  "1.170",
+                                              "c":  "138",
+                                              "d":  "520",
+                                              "e":  "780"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 130 × 2^3 = 1.040.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-277",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma população de bactérias começa com 150 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 5 horas?",
+                         "alternativas":  {
+                                              "a":  "2.400",
+                                              "b":  "3.750",
+                                              "c":  "4.800",
+                                              "d":  "182",
+                                              "e":  "1.500"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 150 × 2^5 = 4.800.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-278",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma população de bactérias começa com 170 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 3 horas?",
+                         "alternativas":  {
+                                              "a":  "1.530",
+                                              "b":  "1.020",
+                                              "c":  "680",
+                                              "d":  "178",
+                                              "e":  "1.360"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 170 × 2^3 = 1.360.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-279",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma população de bactérias começa com 190 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 5 horas?",
+                         "alternativas":  {
+                                              "a":  "6.080",
+                                              "b":  "1.900",
+                                              "c":  "3.040",
+                                              "d":  "222",
+                                              "e":  "4.750"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 190 × 2^5 = 6.080.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-280",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma população de bactérias começa com 210 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 3 horas?",
+                         "alternativas":  {
+                                              "a":  "840",
+                                              "b":  "1.680",
+                                              "c":  "1.890",
+                                              "d":  "1.260",
+                                              "e":  "218"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 210 × 2^3 = 1.680.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "matematica-rlm-281",
+                         "formato":  "direta",
+                         "tipoItem":  "modelagem",
+                         "dificuldade":  "media",
+                         "enunciado":  "Uma população de bactérias começa com 230 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 5 horas?",
+                         "alternativas":  {
+                                              "a":  "5.750",
+                                              "b":  "2.300",
+                                              "c":  "7.360",
+                                              "d":  "262",
+                                              "e":  "3.680"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 230 × 2^5 = 7.360.",
+                         "origem":  "banco-extra"
                      }
                  ]
 }

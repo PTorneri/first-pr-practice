@@ -61,6 +61,9 @@ const PISO = parseInt(valorDe("--piso", "25"), 10);
 const SO_FIXTURE = temFlag("--fixture");
 const LEGADO = temFlag("--legado");
 const SAIDA_JSON = temFlag("--json");
+// Mede como era antes do banco complementar. Serve para responder "quanto deste
+// alcance veio dele?", que é a pergunta que o PLANO-BANCO-PISO-25 faz.
+const SEM_EXTRA = temFlag("--sem-extra");
 const TERMO_AVULSO = argv.includes("--termo") ? valorDe("--termo", "") : null;
 const TRILHA_ATIVA = valorDe("--trilha", "medicina");
 
@@ -95,6 +98,19 @@ function carregarBanco(trilha) {
     SUBTOPICS: ctx.window.SUBTOPICS || [],
     QUESTION_BANKS: ctx.window.QUESTION_BANKS || {},
     QUESTION_TEXTS: ctx.window.QUESTION_TEXTS || {},
+  };
+}
+
+// O banco complementar é a terceira fonte da aba Buscar (ver buscaMontarDocs em
+// app.js). Ele entra aqui porque este auditor mede o alcance de cada assunto na
+// BUSCA, e a busca o inclui — medir sem ele passaria a reportar um alcance
+// menor do que o aluno vê na tela.
+function carregarExtra() {
+  const ctx = contextoLimpo();
+  rodarArquivo(ctx, "vestibular-direito/data/banco-extra.js");
+  return {
+    SUBTOPICS: ctx.window.SUBTOPICS_EXTRA || [],
+    QUESTION_BANKS: ctx.window.QUESTION_BANKS_EXTRA || {},
   };
 }
 
@@ -157,6 +173,9 @@ function montarMotor() {
   // Os globais que as funções extraídas leem no app real.
   const preludio = `
     var TRILHA = ${JSON.stringify(TRILHA_ATIVA)};
+    // Mesmo valor de app.js. É um const de módulo lá, então não vem no recorte
+    // das funções — e buscaMontarDocs o lê ao absorver o banco complementar.
+    var BUSCA_TRILHA_EXTRA = "extra";
     var buscaDocs = null, buscaIndice = null;
     var buscaConsulta = "", buscaAssuntoId = null;
     var buscaFiltroFrente = null, buscaFiltroFormato = null, buscaFiltroStatus = null;
@@ -199,7 +218,7 @@ motor.buscaConstruirIndice({
   // No modo --legado a trilha secundária recebe o mapa da ATIVA, que é o que a
   // produção fazia antes da correção — ver o cabeçalho.
   QUESTION_TEXTS: LEGADO ? ativa.QUESTION_TEXTS : secundaria.QUESTION_TEXTS,
-});
+}, SEM_EXTRA ? null : carregarExtra());
 
 const ASSUNTOS = motor.window.ASSUNTOS;
 const TOTAL_DOCS = motor.buscaDocs.length;

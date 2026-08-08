@@ -13,3 +13,6 @@ vestibular-medicina/txt/
 
 # Cache local do deploy do Firebase Hosting (a CLI reescreve a cada `deploy`).
 .firebase/
+
+# Cache do interpretador Python (gerado ao importar pools.py).
+__pycache__/

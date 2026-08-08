@@ -24629,6 +24629,1086 @@ window.QUESTION_BANKS = {
                                         },
                        "resposta":  "e",
                        "explicacao":  "A tese do texto é a oposta de (e): a digitalização virou um modo de selecionar, e o terceiro parágrafo lista as linhas previsíveis da distorção — línguas faladas por muitos, países ricos, instituições em vez de indivíduos. As outras quatro estão sustentadas: (a) e (c) vêm do primeiro e do terceiro parágrafos, (b) é a frase sobre o pesquisador que busca em vez de folhear, e (d) descreve os projetos do último parágrafo, que invertem a prioridade e digitalizam primeiro os acervos menos visíveis."
+                   },
+                   {
+                       "id":  "ingles-151",
+                       "textoId":  "xtr-ing-t01",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "Dedicated bus lanes improved travel predictability despite early resistance",
+                                            "b":  "Surveys showed that drivers unanimously opposed the lanes",
+                                            "c":  "The surveys indicated that predictability mattered less to drivers than the road space they had lost",
+                                            "d":  "Average travel time increased once private cars lost road space",
+                                            "e":  "The city created the lanes in order to reduce the number of buses"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "The passage supports: Dedicated bus lanes improved travel predictability despite early resistance. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-152",
+                       "textoId":  "xtr-ing-t01",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "The surveys indicated that predictability mattered less to drivers than the road space they had lost",
+                                            "b":  "Some policies can gain support after their effects become visible",
+                                            "c":  "Predictable traffic flow was valued only by bus passengers",
+                                            "d":  "The city created the lanes in order to reduce the number of buses",
+                                            "e":  "The reduction in travel time followed a restriction on the number of buses using the corridor"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "The passage supports: Some policies can gain support after their effects become visible. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-153",
+                       "textoId":  "xtr-ing-t02",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "The researchers concluded that a uniform planting programme would produce the same cooling everywhere",
+                                            "b":  "A single citywide planting formula produced the best results",
+                                            "c":  "Blocks with mature trees recorded the highest temperatures",
+                                            "d":  "The measurements showed that shade from buildings was more effective than shade from mature trees",
+                                            "e":  "Urban tree planning should consider local conditions"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "The passage supports: Urban tree planning should consider local conditions. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-154",
+                       "textoId":  "xtr-ing-t02",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "The same planting plan may not work equally well in every neighborhood",
+                                            "b":  "The researchers concluded that a uniform planting programme would produce the same cooling everywhere",
+                                            "c":  "Shade from buildings made additional tree planting unnecessary",
+                                            "d":  "The cooling effect was identical in every part of the city",
+                                            "e":  "A single citywide planting formula produced the best results"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "The passage supports: The same planting plan may not work equally well in every neighborhood. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-155",
+                       "textoId":  "xtr-ing-t03",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "The explanatory notes replaced the datasets themselves",
+                                            "b":  "The agency withdrew the datasets once it recognised that varied file formats could not be standardised",
+                                            "c":  "Access to the portal was restricted to a small group of researchers",
+                                            "d":  "Open data requires usable formats and documentation",
+                                            "e":  "Publishing thousands of files was enough to open the agency\u0027s data to public scrutiny"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "The passage supports: Open data requires usable formats and documentation. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-156",
+                       "textoId":  "xtr-ing-t03",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "The agency withdrew the datasets after receiving complaints",
+                                            "b":  "Publishing thousands of files was enough to open the agency\u0027s data to public scrutiny",
+                                            "c":  "Publishing files in any format is enough to ensure scrutiny",
+                                            "d":  "Journalists found the datasets easy to use from the start",
+                                            "e":  "Making files public does not automatically make them useful"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "The passage supports: Making files public does not automatically make them useful. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-157",
+                       "textoId":  "xtr-ing-t04",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "Managers cancelled all meetings in order to protect flexibility",
+                                            "b":  "The company required every employee to return to the office full time",
+                                            "c":  "Remote work brought recruitment benefits but required deliberate social coordination",
+                                            "d":  "The managers scheduled regular meetings because productivity had fallen among employees working remotely",
+                                            "e":  "Applications for vacant positions declined after the policy"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "The passage supports: Remote work brought recruitment benefits but required deliberate social coordination. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-158",
+                       "textoId":  "xtr-ing-t04",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "The managers scheduled regular meetings because productivity had fallen among employees working remotely",
+                                            "b":  "Newer workers were the group least exposed to isolation",
+                                            "c":  "Productivity fell sharply once employees worked from home",
+                                            "d":  "The company did not treat remote work as a complete replacement for interaction",
+                                            "e":  "The increase in job applications convinced managers to end the remote-work arrangement"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "The passage supports: The company did not treat remote work as a complete replacement for interaction. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-159",
+                       "textoId":  "xtr-ing-t05",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "Doctors accepted the system\u0027s output as a final diagnosis",
+                                            "b":  "Medical AI can assist decisions but must be used with awareness of data limits",
+                                            "c":  "The alerts removed the need for a second opinion",
+                                            "d":  "The system was trained on data from every hospital in the country",
+                                            "e":  "A system trained in two hospitals was expected to perform identically in any other setting"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "The passage supports: Medical AI can assist decisions but must be used with awareness of data limits. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-160",
+                       "textoId":  "xtr-ing-t05",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "The doctors relied on the alerts as final diagnoses because the training data covered every hospital",
+                                            "b":  "The system was expected to perform equally well in any population",
+                                            "c":  "Performance may change when the patient population differs from the training data",
+                                            "d":  "The alerts removed the need for a second opinion",
+                                            "e":  "Unusual patterns in the images were ignored by the doctors"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "The passage supports: Performance may change when the patient population differs from the training data. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-161",
+                       "textoId":  "xtr-ing-t06",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "Reducing food waste required both a policy and operational changes",
+                                            "b":  "The reduction in waste was achieved without any change to how staff inspected and priced products",
+                                            "c":  "Food approaching its sell-by date was discarded rather than sold",
+                                            "d":  "The donation of surplus food was the reason staff had to inspect products and update prices",
+                                            "e":  "Prices were updated automatically, without any inspection"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "The passage supports: Reducing food waste required both a policy and operational changes. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-162",
+                       "textoId":  "xtr-ing-t06",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "Waste levels remained unchanged after the discounts",
+                                            "b":  "Implementation work was essential to the program\u0027s success",
+                                            "c":  "Donations were suspended because of inspection costs",
+                                            "d":  "Food approaching its sell-by date was discarded rather than sold",
+                                            "e":  "The programme required no adjustment to staff routines"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "The passage supports: Implementation work was essential to the program\u0027s success. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-163",
+                       "textoId":  "xtr-ing-t07",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "Essential services were left outside the project",
+                                            "b":  "The community relied entirely on the national network during the storm",
+                                            "c":  "The batteries were installed only after the storm",
+                                            "d":  "The community abandoned the microgrid after the storm showed that batteries could not sustain the clinic",
+                                            "e":  "A solar microgrid increased the reliability of essential local services"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "The passage supports: A solar microgrid increased the reliability of essential local services. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-164",
+                       "textoId":  "xtr-ing-t07",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "Local energy storage can reduce the impact of wider network failures",
+                                            "b":  "Local battery storage removed the community\u0027s need for a connection to the national network",
+                                            "c":  "The clinic lost refrigeration when the national network failed",
+                                            "d":  "The microgrid prevented every outage in the community",
+                                            "e":  "The community abandoned the microgrid after the storm showed that batteries could not sustain the clinic"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "The passage supports: Local energy storage can reduce the impact of wider network failures. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-165",
+                       "textoId":  "xtr-ing-t08",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "The library replaced the fees with a higher membership charge",
+                                            "b":  "Librarians recommended stronger penalties in order to restore access",
+                                            "c":  "Returns declined sharply once late fees were removed",
+                                            "d":  "Removing late fees helped restore access without reducing returns",
+                                            "e":  "Families continued to avoid the building after the change"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "The passage supports: Removing late fees helped restore access without reducing returns. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-166",
+                       "textoId":  "xtr-ing-t08",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "Late fees were removed for every category of book",
+                                            "b":  "The end of late fees produced a sharp fall in returns that librarians offset with replacement plans",
+                                            "c":  "Penalties proved to be the most effective instrument for restoring access to the library",
+                                            "d":  "The library replaced the fees with a higher membership charge",
+                                            "e":  "Some penalties may discourage the very users a public service hopes to reach"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "The passage supports: Some penalties may discourage the very users a public service hopes to reach. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-167",
+                       "textoId":  "xtr-ing-t09",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "Volunteers were asked to identify the species themselves",
+                                            "b":  "Broad public participation and professional verification proved to be incompatible goals",
+                                            "c":  "Citizen science can expand data collection when records are verified",
+                                            "d":  "Scientists used the uploaded images without any verification",
+                                            "e":  "The scientists published the volunteers\u0027 records without review in order to speed up data collection"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "The passage supports: Citizen science can expand data collection when records are verified. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-168",
+                       "textoId":  "xtr-ing-t09",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "The platform accepted photographs from professionals only",
+                                            "b":  "The scientists published the volunteers\u0027 records without review in order to speed up data collection",
+                                            "c":  "The records were collected in rural forests rather than urban gardens",
+                                            "d":  "Public participation and scientific standards can complement each other",
+                                            "e":  "Public participation reduced the quality of the final dataset"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "The passage supports: Public participation and scientific standards can complement each other. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-169",
+                       "textoId":  "xtr-ing-t10",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "Ecological restoration depended on technical procedures alone",
+                                            "b":  "Coral restoration benefited from cooperation with local communities",
+                                            "c":  "The damaged reefs recovered without any intervention",
+                                            "d":  "The higher survival rates were recorded precisely where fishing communities had no role in the decision",
+                                            "e":  "The restoration worked as a purely technical operation carried out by the biologists alone"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "The passage supports: Coral restoration benefited from cooperation with local communities. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-170",
+                       "textoId":  "xtr-ing-t10",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "The coral fragments were taken directly from healthy reefs",
+                                            "b":  "The restoration worked as a purely technical operation carried out by the biologists alone",
+                                            "c":  "Technical expertise alone may be insufficient for conservation projects",
+                                            "d":  "Fishing communities opposed the choice of protected sites",
+                                            "e":  "Survival was highest where communities were excluded from the decision"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "The passage supports: Technical expertise alone may be insufficient for conservation projects. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-171",
+                       "textoId":  "xtr-ing-t11",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "Language learning improved most when digital practice was combined with conversation",
+                                            "b":  "Repetition and interaction were found to develop the same skill",
+                                            "c":  "The app supplied the uncertainty of real communication",
+                                            "d":  "The weekly conversations reduced the amount of practice",
+                                            "e":  "The students who relied exclusively on the app developed spoken fluency faster than the other group"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "The passage supports: Language learning improved most when digital practice was combined with conversation. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-172",
+                       "textoId":  "xtr-ing-t11",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "Learners abandoned the app once the discussions began",
+                                            "b":  "Repetition and spontaneous interaction develop different skills",
+                                            "c":  "Repetition in the app and spontaneous conversation turned out to be the same kind of practice",
+                                            "d":  "Students who used only the app improved their speaking fastest",
+                                            "e":  "The students who relied exclusively on the app developed spoken fluency faster than the other group"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "The passage supports: Repetition and spontaneous interaction develop different skills. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-173",
+                       "textoId":  "xtr-ing-t12",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "Advocates argued that automated decisions should not be challenged",
+                                            "b":  "The ranking of benefit applications was a routine decision with no consequences for rights",
+                                            "c":  "Officials welcomed disclosure as a way to improve security",
+                                            "d":  "The court prohibited the agency from explaining the system",
+                                            "e":  "Algorithmic transparency involves a tension between oversight and system security"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "The passage supports: Algorithmic transparency involves a tension between oversight and system security. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-174",
+                       "textoId":  "xtr-ing-t12",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "Automated decisions can raise questions of accountability",
+                                            "b":  "Both sides agreed that transparency involved no trade-off",
+                                            "c":  "The court prohibited the agency from explaining the system",
+                                            "d":  "The system ranked applications without affecting any rights",
+                                            "e":  "The officials and the advocates agreed that publishing the criteria carried no risk of manipulation"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "The passage supports: Automated decisions can raise questions of accountability. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-175",
+                       "textoId":  "xtr-ing-t13",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "The newspaper ended its print edition entirely once online readership began to grow more quickly",
+                                            "b":  "Neighborhood reporting was the cost the paper had to cut in order to fund its digital shift",
+                                            "c":  "Daily print delivery was expanded alongside the website",
+                                            "d":  "The newspaper changed its format while preserving access for different audiences",
+                                            "e":  "The newspaper ended all of its print production"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "The passage supports: The newspaper changed its format while preserving access for different audiences. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-176",
+                       "textoId":  "xtr-ing-t13",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "Online readership fell after the weekly edition was introduced",
+                                            "b":  "Residents with limited internet access became the main online audience",
+                                            "c":  "The neighborhood reporters were dismissed to fund the digital shift",
+                                            "d":  "The newspaper ended all of its print production",
+                                            "e":  "Digital transition need not require abandoning all print services"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "The passage supports: Digital transition need not require abandoning all print services. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-177",
+                       "textoId":  "xtr-ing-t14",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "The redesign was reversed because traffic became slower",
+                                            "b":  "The crossings were redesigned before the population aged",
+                                            "c":  "Age-friendly street design produced both safety and commercial benefits",
+                                            "d":  "The shop owners\u0027 initial fears were confirmed, and the commercial center lost its older customers",
+                                            "e":  "Older residents began to avoid the commercial center"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "The passage supports: Age-friendly street design produced both safety and commercial benefits. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-178",
+                       "textoId":  "xtr-ing-t14",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "Shop owners reported fewer customers after the redesign",
+                                            "b":  "The crossings had been redesigned years before the town\u0027s population began to grow older",
+                                            "c":  "The shop owners\u0027 initial fears were confirmed, and the commercial center lost its older customers",
+                                            "d":  "Changes made for one group can benefit the wider community",
+                                            "e":  "The new crossings gave pedestrians less time than before"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "The passage supports: Changes made for one group can benefit the wider community. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-179",
+                       "textoId":  "xtr-ing-t15",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "Collection routes proved irrelevant to the environmental outcome",
+                                            "b":  "Reusable packaging is beneficial only when the return system works well",
+                                            "c":  "The environmental benefit was guaranteed by the material alone",
+                                            "d":  "The durability of the containers was enough to guarantee the environmental benefit of the programme",
+                                            "e":  "Customers were asked to discard the containers after one use"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "The passage supports: Reusable packaging is beneficial only when the return system works well. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-180",
+                       "textoId":  "xtr-ing-t15",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "Collection routes and return rates turned out to be irrelevant to the environmental outcome",
+                                            "b":  "The packaging lasted for a single delivery cycle",
+                                            "c":  "The material alone does not determine the environmental outcome",
+                                            "d":  "The durability of the containers was enough to guarantee the environmental benefit of the programme",
+                                            "e":  "High return rates reduced the benefit of the system"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "The passage supports: The material alone does not determine the environmental outcome. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-181",
+                       "textoId":  "xtr-ing-t16",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "The school combined specialist care with broader staff training",
+                                            "b":  "The training given to teachers replaced the counseling service once waiting times had been reduced",
+                                            "c":  "Waiting times for counseling increased after the hiring",
+                                            "d":  "Rising anxiety proved to be a problem only specialists inside the office could address",
+                                            "e":  "Teachers were kept outside the mental health programme"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "The passage supports: The school combined specialist care with broader staff training. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-182",
+                       "textoId":  "xtr-ing-t16",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "The training given to teachers replaced the counseling service once waiting times had been reduced",
+                                            "b":  "Mental health support can be strengthened by involving non-specialist adults",
+                                            "c":  "The counselors were hired before any anxiety was reported",
+                                            "d":  "Waiting times for counseling increased after the hiring",
+                                            "e":  "Training teachers removed the need for specialist care"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "The passage supports: Mental health support can be strengthened by involving non-specialist adults. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-183",
+                       "textoId":  "xtr-ing-t17",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "Cultural exchange occurred without any adaptation",
+                                            "b":  "Long-term residents opened the shops for the newcomers",
+                                            "c":  "The newcomers\u0027 shops served only other recently arrived residents of the same neighborhood",
+                                            "d":  "The shops succeeded by keeping their original recipes unchanged and refusing any local adaptation",
+                                            "e":  "Migration can produce cultural exchange and economic adaptation"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "The passage supports: Migration can produce cultural exchange and economic adaptation. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-184",
+                       "textoId":  "xtr-ing-t17",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "Cultural change often involves both continuity and modification",
+                                            "b":  "Local tastes were rejected in favour of imported recipes",
+                                            "c":  "The newcomers\u0027 shops served only other recently arrived residents of the same neighborhood",
+                                            "d":  "The shops served recently arrived residents only",
+                                            "e":  "The businesses avoided introducing unfamiliar products"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "The passage supports: Cultural change often involves both continuity and modification. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-185",
+                       "textoId":  "xtr-ing-t18",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "Elderly customers asked for the end of cash payments",
+                                            "b":  "The market adopted digital payments permanently, without exception",
+                                            "c":  "All vendors kept digital payment as the only option",
+                                            "d":  "Cashless systems may increase speed while creating access barriers",
+                                            "e":  "The vendors kept digital payment as the only option because customers adapted quickly to the change"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "The passage supports: Cashless systems may increase speed while creating access barriers. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-186",
+                       "textoId":  "xtr-ing-t18",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "The market adopted digital payments permanently, without exception",
+                                            "b":  "Every customer found the digital system easy to use",
+                                            "c":  "The speed of the transactions was reason enough for the market to exclude cash permanently",
+                                            "d":  "The vendors kept digital payment as the only option because customers adapted quickly to the change",
+                                            "e":  "Efficiency should be evaluated together with inclusion"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "The passage supports: Efficiency should be evaluated together with inclusion. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-187",
+                       "textoId":  "xtr-ing-t19",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "The low attendance showed that public discussion is an ineffective way to address concerns",
+                                            "b":  "Attendance at the meetings was unusually high",
+                                            "c":  "Direct conversation helped address vaccine concerns more effectively than leaflets alone",
+                                            "d":  "Nurses were absent from the public meetings",
+                                            "e":  "Leaflets proved more effective than conversation with nurses"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "The passage supports: Direct conversation helped address vaccine concerns more effectively than leaflets alone. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-188",
+                       "textoId":  "xtr-ing-t19",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "Those who spoke with nurses were less willing to schedule appointments",
+                                            "b":  "Nurses were absent from the public meetings",
+                                            "c":  "The meetings replaced the distribution of any written material",
+                                            "d":  "Trust may depend on opportunities to ask questions",
+                                            "e":  "The leaflets proved more persuasive than the nurses because they reached a much larger audience"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "The passage supports: Trust may depend on opportunities to ask questions. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-189",
+                       "textoId":  "xtr-ing-t20",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "Paper, ink and binding carry no information beyond the text they were used to record",
+                                            "b":  "Digital copies expand access while preserving the distinct value of original objects",
+                                            "c":  "The manuscripts were digitized because they were easy to handle",
+                                            "d":  "The curators presented the digital copies as a complete substitute for consulting the originals",
+                                            "e":  "The digital copies made the original manuscripts unnecessary"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "The passage supports: Digital copies expand access while preserving the distinct value of original objects. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-190",
+                       "textoId":  "xtr-ing-t20",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "Curators argued that paper and ink carry no information",
+                                            "b":  "Visitors were prevented from examining details of the images",
+                                            "c":  "Different formats provide different kinds of evidence",
+                                            "d":  "The digital copies made the original manuscripts unnecessary",
+                                            "e":  "Digitization reduced the number of visitors to the collection"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "The passage supports: Different formats provide different kinds of evidence. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-191",
+                       "textoId":  "xtr-ing-t21",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "Satellite data became useful when combined with field investigation",
+                                            "b":  "Soil inspections were abandoned in favour of remote data",
+                                            "c":  "The satellite images identified both the fields under stress and the reasons why the plants suffered",
+                                            "d":  "The images identified fields with an excess of water",
+                                            "e":  "Remote data alone was sufficient to guide the decision"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "The passage supports: Satellite data became useful when combined with field investigation. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-192",
+                       "textoId":  "xtr-ing-t21",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "The satellite images identified both the fields under stress and the reasons why the plants suffered",
+                                            "b":  "A detected pattern does not automatically explain its cause",
+                                            "c":  "Farmers changed irrigation before inspecting the soil",
+                                            "d":  "Soil inspection became unnecessary once the satellite images were available to the farmers",
+                                            "e":  "The satellite images explained why the plants were suffering"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "The passage supports: A detected pattern does not automatically explain its cause. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-193",
+                       "textoId":  "xtr-ing-t22",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "Community groups were asked to keep the buildings closed",
+                                            "b":  "The buildings were used most in the neighborhoods where no organisation contacted isolated residents",
+                                            "c":  "Isolated residents were the least likely group to use the service",
+                                            "d":  "Usage was highest where no community contact took place",
+                                            "e":  "Heat protection worked best when facilities and community outreach were combined"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "The passage supports: Heat protection worked best when facilities and community outreach were combined. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-194",
+                       "textoId":  "xtr-ing-t22",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "Availability alone may not reach vulnerable people",
+                                            "b":  "Opening the buildings at night was enough to guarantee that the service reached those at risk",
+                                            "c":  "Community groups were asked to keep the buildings closed",
+                                            "d":  "The buildings were used most in the neighborhoods where no organisation contacted isolated residents",
+                                            "e":  "Making the service available was enough to guarantee its use"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "The passage supports: Availability alone may not reach vulnerable people. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-195",
+                       "textoId":  "xtr-ing-t23",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "Low-income families saw the largest increase in their bills",
+                                            "b":  "The higher price applied to every level of consumption",
+                                            "c":  "The higher tariff applied to every level of consumption, which explains the fall in overall use",
+                                            "d":  "Tiered pricing reduced high consumption while protecting basic use",
+                                            "e":  "The basic household allowance was the part of consumption that became more expensive"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "The passage supports: Tiered pricing reduced high consumption while protecting basic use. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-196",
+                       "textoId":  "xtr-ing-t23",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "The higher tariff applied to every level of consumption, which explains the fall in overall use",
+                                            "b":  "Prices were reduced for consumption above the allowance",
+                                            "c":  "The basic household allowance was eliminated",
+                                            "d":  "Low-income families saw the largest increase in their bills",
+                                            "e":  "Pricing rules can be designed to distinguish essential and excessive consumption"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "The passage supports: Pricing rules can be designed to distinguish essential and excessive consumption. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-197",
+                       "textoId":  "xtr-ing-t24",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "The recorded lectures were restricted to the students who had joined the live discussion groups",
+                                            "b":  "Access to the same videos produced identical completion rates",
+                                            "c":  "Interaction was associated with higher completion in an online course",
+                                            "d":  "The live discussion groups were open to students not enrolled",
+                                            "e":  "Access to the same video material was enough to equalise completion rates among students"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "The passage supports: Interaction was associated with higher completion in an online course. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-198",
+                       "textoId":  "xtr-ing-t24",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "Only students in the discussion groups could watch the lectures",
+                                            "b":  "Completion rates were highest among students who avoided the discussions",
+                                            "c":  "Access to the same video material was enough to equalise completion rates among students",
+                                            "d":  "Access to content and participation in a learning community are not identical",
+                                            "e":  "The course withdrew its recorded lectures"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "The passage supports: Access to content and participation in a learning community are not identical. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-199",
+                       "textoId":  "xtr-ing-t25",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "The debate concerned the price of manuals rather than access",
+                                            "b":  "Right-to-repair policies balance access, waste reduction, and safety concerns",
+                                            "c":  "Companies argued that repairs would increase waste",
+                                            "d":  "The companies supported the law because trained repairs would reduce waste without any safety risk",
+                                            "e":  "Supporters and companies agreed that repairs carry no risk"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "The passage supports: Right-to-repair policies balance access, waste reduction, and safety concerns. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-200",
+                       "textoId":  "xtr-ing-t25",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "Companies argued that repairs would increase waste",
+                                            "b":  "The companies supported the law because trained repairs would reduce waste without any safety risk",
+                                            "c":  "The disagreement is not simply between repair and no repair",
+                                            "d":  "Manufacturers were prohibited from selling spare parts",
+                                            "e":  "The disagreement came down to a simple choice between allowing and forbidding repairs"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "The passage supports: The disagreement is not simply between repair and no repair. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-201",
+                       "textoId":  "xtr-ing-t26",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "Wildlife corridors support movement but cannot replace broader habitat protection",
+                                            "b":  "The corridor eliminated the effects of habitat loss",
+                                            "c":  "The cameras recorded no movement between the reserves",
+                                            "d":  "Researchers recommended replacing habitat protection with corridors",
+                                            "e":  "The recorded animal movement proved that further habitat protection had become unnecessary"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "The passage supports: Wildlife corridors support movement but cannot replace broader habitat protection. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-202",
+                       "textoId":  "xtr-ing-t26",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "Researchers recommended replacing habitat protection with corridors",
+                                            "b":  "A useful conservation tool may still have clear limits",
+                                            "c":  "The corridor compensated for the habitat loss occurring in the areas surrounding the two reserves",
+                                            "d":  "The restored strip was built from artificial materials",
+                                            "e":  "The two reserves were separated again after the study"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "The passage supports: A useful conservation tool may still have clear limits. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-203",
+                       "textoId":  "xtr-ing-t27",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "The educational value of the programme grew in proportion to the size of its audience",
+                                            "b":  "Educational value was measured by the size of the audience",
+                                            "c":  "The podcast avoided corrections so that its slow audience growth would not be further damaged",
+                                            "d":  "The podcast avoided publishing corrections in order to protect its guests",
+                                            "e":  "Transparent sourcing increased the educational value of a podcast"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "The passage supports: Transparent sourcing increased the educational value of a podcast. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-204",
+                       "textoId":  "xtr-ing-t27",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "Audience size is not the only measure of media impact",
+                                            "b":  "Teachers rejected the episodes because the sources were hidden",
+                                            "c":  "The podcast avoided publishing corrections in order to protect its guests",
+                                            "d":  "Its audience grew rapidly after the first episodes",
+                                            "e":  "Sources were listed only for episodes without guests"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "The passage supports: Audience size is not the only measure of media impact. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-205",
+                       "textoId":  "xtr-ing-t28",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "Sick leave increased during the experiment",
+                                            "b":  "The teams reached the same output by fitting five days of tasks into the four remaining days",
+                                            "c":  "The model succeeded without any change to deadlines",
+                                            "d":  "A shorter workweek required organizational redesign, not mere compression",
+                                            "e":  "Meetings became longer under the new schedule"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "The passage supports: A shorter workweek required organizational redesign, not mere compression. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-206",
+                       "textoId":  "xtr-ing-t28",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "Salaries were reduced along with the number of working days",
+                                            "b":  "The teams reached the same output by fitting five days of tasks into the four remaining days",
+                                            "c":  "Teams compressed five days of work into four",
+                                            "d":  "The fall in sick leave resulted from shorter salaries combined with shorter weekly meetings",
+                                            "e":  "Reducing days without changing workflow could undermine the experiment"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "The passage supports: Reducing days without changing workflow could undermine the experiment. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-207",
+                       "textoId":  "xtr-ing-t29",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "The buses still produced exhaust emissions along their routes",
+                                            "b":  "The city disregarded how the electricity was generated",
+                                            "c":  "The environmental assessment of electric buses must include the wider energy and battery system",
+                                            "d":  "Battery recycling was considered irrelevant to the assessment",
+                                            "e":  "The absence of exhaust emissions along the routes settled the environmental assessment of the buses"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "The passage supports: The environmental assessment of electric buses must include the wider energy and battery system. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-208",
+                       "textoId":  "xtr-ing-t29",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "Battery recycling and electricity generation fell outside the scope of the city\u0027s evaluation",
+                                            "b":  "The evaluation was limited to the vehicles themselves",
+                                            "c":  "The absence of exhaust emissions along the routes settled the environmental assessment of the buses",
+                                            "d":  "A technology can shift impacts rather than eliminate all of them",
+                                            "e":  "The buses still produced exhaust emissions along their routes"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "The passage supports: A technology can shift impacts rather than eliminate all of them. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-209",
+                       "textoId":  "xtr-ing-t30",
+                       "formato":  "direta",
+                       "tipoItem":  "ideia-central",
+                       "dificuldade":  "media",
+                       "enunciado":  "What is the main idea of the passage?",
+                       "alternativas":  {
+                                            "a":  "The headline had no influence on the speed at which the false story circulated online",
+                                            "b":  "Reducing misinformation may require changing how people share content",
+                                            "c":  "The corrections reached more people than the original story",
+                                            "d":  "The corrections spread more widely than the original story because readers had already opened it",
+                                            "e":  "The false story spread because it contradicted what readers believed"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "The passage supports: Reducing misinformation may require changing how people share content. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
+                   },
+                   {
+                       "id":  "ingles-210",
+                       "textoId":  "xtr-ing-t30",
+                       "formato":  "direta",
+                       "tipoItem":  "inferencia",
+                       "dificuldade":  "dificil",
+                       "enunciado":  "Which of the following is most likely supported by the passage?",
+                       "alternativas":  {
+                                            "a":  "The corrections reached more people than the original story",
+                                            "b":  "Readers shared the story only after reading it in full",
+                                            "c":  "Prior beliefs can increase the appeal of false information",
+                                            "d":  "The platform blocked users from opening the articles",
+                                            "e":  "Headlines had no influence on the story\u0027s circulation"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "The passage supports: Prior beliefs can increase the appeal of false information. The other options refer to the same text but state what it does not support or contradict what it says.",
+                       "origem":  "banco-extra"
                    }
                ],
     "interpretacao-texto":  [
@@ -27001,6 +28081,1086 @@ window.QUESTION_BANKS = {
                                     "explicacao":  "A proposta de manter a estátua acompanhada de uma placa explicativa busca equilibrar as duas posições em disputa: preservar a memória histórica e, ao mesmo tempo, contextualizar criticamente o que o monumento representa, sem simplesmente remover ou manter sem revisão.",
                                     "dificuldade":  "dificil",
                                     "formato":  "direta"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-151",
+                                    "textoId":  "xtr-int-t01",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "O acesso melhora quando horário e participação do público são considerados em conjunto",
+                                                         "b":  "A escolha dos novos títulos coube exclusivamente aos bibliotecários",
+                                                         "c":  "A biblioteca precisou reduzir o horário para atrair novos leitores",
+                                                         "d":  "A ampliação do horário foi, sozinha, responsável pelo aumento dos empréstimos",
+                                                         "e":  "A biblioteca concluiu que a participação do público na escolha do acervo não altera o uso do serviço"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "O trecho sustenta: O acesso melhora quando horário e participação do público são considerados em conjunto. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-152",
+                                    "textoId":  "xtr-int-t01",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "O número de empréstimos permaneceu estável durante todo o período",
+                                                         "b":  "A simples ampliação do horário não foi suficiente para aumentar os empréstimos",
+                                                         "c":  "A biblioteca concluiu que a participação do público na escolha do acervo não altera o uso do serviço",
+                                                         "d":  "O aumento dos empréstimos foi registrado antes de os moradores participarem da escolha dos títulos",
+                                                         "e":  "A escolha dos novos títulos coube exclusivamente aos bibliotecários"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "O trecho sustenta: A simples ampliação do horário não foi suficiente para aumentar os empréstimos. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-153",
+                                    "textoId":  "xtr-int-t01",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "conclusão anunciada antes dos dados que a sustentam",
+                                                         "b":  "descrição de um cenário sem marcas de posicionamento",
+                                                         "c":  "contraste introduzido pela conjunção mas",
+                                                         "d":  "uso de dados numéricos para dimensionar o problema",
+                                                         "e":  "paralelismo entre duas estruturas sintáticas idênticas"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "A estratégia empregada é: contraste introduzido pela conjunção mas. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-154",
+                                    "textoId":  "xtr-int-t02",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "As árvores foram removidas para ampliar a circulação de veículos",
+                                                         "b":  "A temperatura das calçadas se manteve igual nos trechos com e sem árvores antigas do bairro",
+                                                         "c":  "A temperatura das calçadas depende exclusivamente do tipo de pavimento",
+                                                         "d":  "A arborização interfere tanto no ambiente quanto no uso social das ruas",
+                                                         "e":  "O calor nas calçadas aumentou nos trechos arborizados"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "O trecho sustenta: A arborização interfere tanto no ambiente quanto no uso social das ruas. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-155",
+                                    "textoId":  "xtr-int-t02",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "A temperatura das calçadas se manteve igual nos trechos com e sem árvores antigas do bairro",
+                                                         "b":  "Os moradores passaram a evitar as ruas arborizadas por causa do sombreamento excessivo das calçadas",
+                                                         "c":  "A permanência nos espaços públicos diminuiu depois do plantio",
+                                                         "d":  "As árvores antigas têm valor apenas documental, registrado em fotografias",
+                                                         "e":  "A permanência nos espaços públicos pode ser favorecida pelo conforto térmico"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "O trecho sustenta: A permanência nos espaços públicos pode ser favorecida pelo conforto térmico. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-156",
+                                    "textoId":  "xtr-int-t02",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "articulação entre exemplo concreto e consequência",
+                                                         "b":  "citação de autoridade para sustentar a afirmação",
+                                                         "c":  "hipótese apresentada e em seguida descartada",
+                                                         "d":  "paralelismo entre duas estruturas sintáticas idênticas",
+                                                         "e":  "alternância entre discurso direto e discurso indireto"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "A estratégia empregada é: articulação entre exemplo concreto e consequência. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-157",
+                                    "textoId":  "xtr-int-t03",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "As atualizações simplificaram tanto a navegação que o retorno ao caderno de papel deixou de fazer sentido",
+                                                         "b":  "Uma tecnologia pode contrariar sua própria promessa de eficiência",
+                                                         "c":  "O caderno de papel passou a exigir mais passos que o aplicativo",
+                                                         "d":  "As atualizações reduziram o número de etapas de cada tarefa",
+                                                         "e":  "A rejeição do aplicativo veio da falta de atualizações, e não do número de etapas exigidas"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "O trecho sustenta: Uma tecnologia pode contrariar sua própria promessa de eficiência. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-158",
+                                    "textoId":  "xtr-int-t03",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "As atualizações reduziram o número de etapas de cada tarefa",
+                                                         "b":  "A rejeição decorreu do preço cobrado pelas novas versões",
+                                                         "c":  "A quantidade de etapas influenciou a rejeição do aplicativo",
+                                                         "d":  "Os usuários abandonaram o caderno de papel após a terceira atualização",
+                                                         "e":  "O aplicativo cumpriu integralmente a promessa de economizar tempo"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "O trecho sustenta: A quantidade de etapas influenciou a rejeição do aplicativo. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-159",
+                                    "textoId":  "xtr-int-t03",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "enumeração de exemplos em ordem crescente de importância",
+                                                         "b":  "definição técnica seguida de sua aplicação prática",
+                                                         "c":  "citação de autoridade para sustentar a afirmação",
+                                                         "d":  "ironia produzida pelo contraste entre promessa e resultado",
+                                                         "e":  "pergunta retórica respondida no período seguinte"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "A estratégia empregada é: ironia produzida pelo contraste entre promessa e resultado. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-160",
+                                    "textoId":  "xtr-int-t04",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "As condições climáticas daquela tarde eliminaram qualquer possibilidade de uso do espaço público",
+                                                         "b":  "A chuva impediu qualquer uso da praça naquele dia",
+                                                         "c":  "As crianças deixaram a praça assim que as poças se formaram",
+                                                         "d":  "A ocupação da praça permaneceu a mesma antes e depois da chuva",
+                                                         "e":  "Os usos do espaço podem mudar diante de uma mesma condição"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "O trecho sustenta: Os usos do espaço podem mudar diante de uma mesma condição. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-161",
+                                    "textoId":  "xtr-int-t04",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "A chuva não eliminou toda forma de convivência na praça",
+                                                         "b":  "As corridas nas poças aconteceram antes de a chuva começar",
+                                                         "c":  "O esvaziamento da praça resultou de uma interdição da prefeitura",
+                                                         "d":  "A praça ficou vazia até o fim da chuva, quando os frequentadores voltaram ao mesmo uso de antes",
+                                                         "e":  "A ocupação da praça permaneceu a mesma antes e depois da chuva"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "O trecho sustenta: A chuva não eliminou toda forma de convivência na praça. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-162",
+                                    "textoId":  "xtr-int-t04",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "gradação que intensifica a mesma ideia em três etapas",
+                                                         "b":  "sequência temporal que mostra mudança de perspectiva",
+                                                         "c":  "descrição de um cenário sem marcas de posicionamento",
+                                                         "d":  "retomada de um termo por sinônimo ao longo do parágrafo",
+                                                         "e":  "enumeração de exemplos em ordem crescente de importância"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "A estratégia empregada é: sequência temporal que mostra mudança de perspectiva. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-163",
+                                    "textoId":  "xtr-int-t05",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "O critério de seleção dos dados foi divulgado junto com o relatório",
+                                                         "b":  "O problema apontado é um erro de cálculo nos dados divulgados",
+                                                         "c":  "Dados sem transparência metodológica podem produzir uma aparência enganosa de precisão",
+                                                         "d":  "A quantidade de números apresentada foi suficiente para tornar transparente o critério de seleção",
+                                                         "e":  "A precisão dos números garantiu a clareza das conclusões"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "O trecho sustenta: Dados sem transparência metodológica podem produzir uma aparência enganosa de precisão. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-164",
+                                    "textoId":  "xtr-int-t05",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "O problema apontado é um erro de cálculo nos dados divulgados",
+                                                         "b":  "A precisão do relatório ficou assegurada pelo grande volume de dados que ele conseguiu reunir",
+                                                         "c":  "A quantidade de números apresentada foi suficiente para tornar transparente o critério de seleção",
+                                                         "d":  "A seleção dos dados interfere na interpretação do relatório",
+                                                         "e":  "O relatório apresentava poucos dados, o que comprometeu sua precisão"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "O trecho sustenta: A seleção dos dados interfere na interpretação do relatório. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-165",
+                                    "textoId":  "xtr-int-t05",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "uso de dados numéricos para dimensionar o problema",
+                                                         "b":  "paralelismo entre duas estruturas sintáticas idênticas",
+                                                         "c":  "descrição de um cenário sem marcas de posicionamento",
+                                                         "d":  "conclusão anunciada antes dos dados que a sustentam",
+                                                         "e":  "oposição entre quantidade de números e qualidade da explicação"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "A estratégia empregada é: oposição entre quantidade de números e qualidade da explicação. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-166",
+                                    "textoId":  "xtr-int-t06",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "Reconhecer limites faz parte de uma boa comunicação científica",
+                                                         "b":  "A premiação desconsiderou a explicação apresentada pelos estudantes",
+                                                         "c":  "Apontar as limitações do protótipo reduziu as chances de o projeto ser premiado na feira",
+                                                         "d":  "A banca premiou o protótipo apesar de os estudantes não explicarem como o filtro funcionava",
+                                                         "e":  "O projeto foi desclassificado por reconhecer as próprias limitações"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "O trecho sustenta: Reconhecer limites faz parte de uma boa comunicação científica. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-167",
+                                    "textoId":  "xtr-int-t06",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "Os estudantes omitiram os limites do filtro na apresentação",
+                                                         "b":  "O projeto foi valorizado por sua explicação, não apenas pelo objeto construído",
+                                                         "c":  "O prêmio foi atribuído à aparência sofisticada do protótipo",
+                                                         "d":  "O filtro foi construído com materiais caros e de difícil acesso",
+                                                         "e":  "Apontar as limitações do protótipo reduziu as chances de o projeto ser premiado na feira"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "O trecho sustenta: O projeto foi valorizado por sua explicação, não apenas pelo objeto construído. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-168",
+                                    "textoId":  "xtr-int-t06",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "paralelismo entre duas estruturas sintáticas idênticas",
+                                                         "b":  "alternância entre discurso direto e discurso indireto",
+                                                         "c":  "correção de expectativa por meio da estrutura não... mas",
+                                                         "d":  "citação de autoridade para sustentar a afirmação",
+                                                         "e":  "hipótese apresentada e em seguida descartada"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "A estratégia empregada é: correção de expectativa por meio da estrutura não... mas. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-169",
+                                    "textoId":  "xtr-int-t07",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "A fila diminuiu porque o preço da passagem foi aumentado",
+                                                         "b":  "A lotação no terminal não tinha relação com a quantidade de ônibus em circulação no pico",
+                                                         "c":  "A empresa reduziu a frota para diminuir custos operacionais",
+                                                         "d":  "Uma mudança operacional pode melhorar o serviço sem elevar o preço",
+                                                         "e":  "A diminuição da fila só ocorreu depois que a empresa reajustou o preço da passagem no horário de pico"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "O trecho sustenta: Uma mudança operacional pode melhorar o serviço sem elevar o preço. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-170",
+                                    "textoId":  "xtr-int-t07",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "A lotação permaneceu inalterada depois da mudança",
+                                                         "b":  "A frota foi ampliada em todos os horários do dia",
+                                                         "c":  "A diminuição da fila só ocorreu depois que a empresa reajustou o preço da passagem no horário de pico",
+                                                         "d":  "A empresa reduziu a frota para diminuir custos operacionais",
+                                                         "e":  "A lotação estava relacionada à oferta insuficiente no horário de pico"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "O trecho sustenta: A lotação estava relacionada à oferta insuficiente no horário de pico. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-171",
+                                    "textoId":  "xtr-int-t07",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "relação de causa e efeito sustentada por uma intervenção",
+                                                         "b":  "enumeração de exemplos em ordem crescente de importância",
+                                                         "c":  "citação de autoridade para sustentar a afirmação",
+                                                         "d":  "pergunta retórica respondida no período seguinte",
+                                                         "e":  "definição técnica seguida de sua aplicação prática"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "A estratégia empregada é: relação de causa e efeito sustentada por uma intervenção. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-172",
+                                    "textoId":  "xtr-int-t08",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "As versões em áudio foram descartadas por falta de público",
+                                                         "b":  "A acessibilidade também depende da forma de apresentar a informação",
+                                                         "c":  "A acessibilidade dependeu da renovação completa do acervo",
+                                                         "d":  "A troca das legendas por versões em linguagem simples exigiu a substituição de parte das peças expostas",
+                                                         "e":  "O museu substituiu os objetos da sala por réplicas mais simples"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "O trecho sustenta: A acessibilidade também depende da forma de apresentar a informação. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-173",
+                                    "textoId":  "xtr-int-t08",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "A acessibilidade da sala passou a depender do acervo exposto, e não da forma de apresentá-lo",
+                                                         "b":  "A troca das legendas por versões em linguagem simples exigiu a substituição de parte das peças expostas",
+                                                         "c":  "Mudanças de mediação podem ampliar o público sem alterar o acervo",
+                                                         "d":  "As legendas técnicas foram mantidas ao lado das novas versões",
+                                                         "e":  "A acessibilidade dependeu da renovação completa do acervo"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "O trecho sustenta: Mudanças de mediação podem ampliar o público sem alterar o acervo. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-174",
+                                    "textoId":  "xtr-int-t08",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "gradação que intensifica a mesma ideia em três etapas",
+                                                         "b":  "enumeração de exemplos em ordem crescente de importância",
+                                                         "c":  "retomada de um termo por sinônimo ao longo do parágrafo",
+                                                         "d":  "concessão marcada por embora",
+                                                         "e":  "descrição de um cenário sem marcas de posicionamento"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "A estratégia empregada é: concessão marcada por embora. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-175",
+                                    "textoId":  "xtr-int-t09",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "Os comerciantes desistiram de usar a praça",
+                                                         "b":  "Moradores e comerciantes disputavam exatamente o mesmo horário",
+                                                         "c":  "O impasse decorria de discordância sobre a propriedade do terreno",
+                                                         "d":  "A reunião avançou quando os dois grupos abandonaram suas reivindicações iniciais sobre o uso da praça",
+                                                         "e":  "Conflitos podem ser reduzidos quando se identifica com precisão o ponto de divergência"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "O trecho sustenta: Conflitos podem ser reduzidos quando se identifica com precisão o ponto de divergência. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-176",
+                                    "textoId":  "xtr-int-t09",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "Os grupos compartilhavam parte de seus objetivos",
+                                                         "b":  "A reunião avançou quando os dois grupos abandonaram suas reivindicações iniciais sobre o uso da praça",
+                                                         "c":  "Moradores e comerciantes defendiam projetos incompatíveis para o mesmo horário de uso da praça",
+                                                         "d":  "Os dois grupos concluíram que seus objetivos eram totalmente incompatíveis",
+                                                         "e":  "A reunião terminou sem que nenhuma divergência fosse identificada"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "O trecho sustenta: Os grupos compartilhavam parte de seus objetivos. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-177",
+                                    "textoId":  "xtr-int-t09",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "paralelismo entre duas estruturas sintáticas idênticas",
+                                                         "b":  "reformulação que desfaz uma falsa oposição",
+                                                         "c":  "uso de dados numéricos para dimensionar o problema",
+                                                         "d":  "conclusão anunciada antes dos dados que a sustentam",
+                                                         "e":  "descrição de um cenário sem marcas de posicionamento"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "A estratégia empregada é: reformulação que desfaz uma falsa oposição. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-178",
+                                    "textoId":  "xtr-int-t10",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "O acompanhamento mensal substituiu a geração de energia",
+                                                         "b":  "A instalação dos painéis, por si só, garantiu o efeito pedagógico",
+                                                         "c":  "Uma infraestrutura se torna recurso educativo quando é integrada à aprendizagem",
+                                                         "d":  "A economia na conta de energia foi suficiente para transformar a instalação em atividade pedagógica",
+                                                         "e":  "O caráter pedagógico do projeto veio da potência instalada, e não do acompanhamento dos dados"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "O trecho sustenta: Uma infraestrutura se torna recurso educativo quando é integrada à aprendizagem. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-179",
+                                    "textoId":  "xtr-int-t10",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "A economia na conta de energia foi suficiente para transformar a instalação em atividade pedagógica",
+                                                         "b":  "A instalação dos painéis, por si só, garantiu o efeito pedagógico",
+                                                         "c":  "Os estudantes foram impedidos de acompanhar os dados de consumo",
+                                                         "d":  "A instalação dos painéis, isoladamente, não garantia efeito pedagógico",
+                                                         "e":  "A conta de energia aumentou depois da instalação"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "O trecho sustenta: A instalação dos painéis, isoladamente, não garantia efeito pedagógico. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-180",
+                                    "textoId":  "xtr-int-t10",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "citação de autoridade para sustentar a afirmação",
+                                                         "b":  "alternância entre discurso direto e discurso indireto",
+                                                         "c":  "hipótese apresentada e em seguida descartada",
+                                                         "d":  "paralelismo entre duas estruturas sintáticas idênticas",
+                                                         "e":  "restrição introduzida pelo advérbio porém"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "A estratégia empregada é: restrição introduzida pelo advérbio porém. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-181",
+                                    "textoId":  "xtr-int-t11",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "A circulação digital pode prolongar informações mesmo após uma correção",
+                                                         "b":  "As capturas de tela reproduziam a versão já corrigida",
+                                                         "c":  "O jornal se recusou a publicar qualquer correção",
+                                                         "d":  "A correção interrompeu imediatamente a circulação do erro",
+                                                         "e":  "As capturas de tela funcionaram como forma eficiente de divulgar a correção publicada"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "O trecho sustenta: A circulação digital pode prolongar informações mesmo após uma correção. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-182",
+                                    "textoId":  "xtr-int-t11",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "A publicação da correção na página seguinte encerrou a circulação da versão equivocada da notícia",
+                                                         "b":  "Capturas de tela dificultaram a substituição da versão errada",
+                                                         "c":  "As capturas de tela reproduziam a versão já corrigida",
+                                                         "d":  "A informação equivocada circulou apenas na edição impressa",
+                                                         "e":  "A correção saiu na mesma página da notícia original"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "O trecho sustenta: Capturas de tela dificultaram a substituição da versão errada. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-183",
+                                    "textoId":  "xtr-int-t11",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "definição técnica seguida de sua aplicação prática",
+                                                         "b":  "pergunta retórica respondida no período seguinte",
+                                                         "c":  "generalização final construída a partir de um caso",
+                                                         "d":  "citação de autoridade para sustentar a afirmação",
+                                                         "e":  "enumeração de exemplos em ordem crescente de importância"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "A estratégia empregada é: generalização final construída a partir de um caso. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-184",
+                                    "textoId":  "xtr-int-t12",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "O experimento foi abandonado depois do resultado divergente",
+                                                         "b":  "A repetição confirmou exatamente o primeiro resultado",
+                                                         "c":  "A divergência foi atribuída ao acaso e não foi investigada",
+                                                         "d":  "A revisão de resultados é parte do método científico",
+                                                         "e":  "A falha estava na formulação da hipótese, não no instrumento"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "O trecho sustenta: A revisão de resultados é parte do método científico. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-185",
+                                    "textoId":  "xtr-int-t12",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "A divergência entre as medidas foi causada por um erro na formulação da hipótese inicial",
+                                                         "b":  "A pesquisadora manteve o resultado divergente sem investigá-lo, por considerá-lo variação aceitável",
+                                                         "c":  "A pesquisadora ocultou a divergência entre os resultados",
+                                                         "d":  "O experimento foi abandonado depois do resultado divergente",
+                                                         "e":  "A divergência levou à identificação de um problema de medição"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "O trecho sustenta: A divergência levou à identificação de um problema de medição. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-186",
+                                    "textoId":  "xtr-int-t12",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "oposição entre ocultar o problema e investigá-lo",
+                                                         "b":  "retomada de um termo por sinônimo ao longo do parágrafo",
+                                                         "c":  "enumeração de exemplos em ordem crescente de importância",
+                                                         "d":  "gradação que intensifica a mesma ideia em três etapas",
+                                                         "e":  "descrição de um cenário sem marcas de posicionamento"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "A estratégia empregada é: oposição entre ocultar o problema e investigá-lo. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-187",
+                                    "textoId":  "xtr-int-t13",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "A adesão à horta foi imediata e a divisão por turnos precisou ser abandonada por falta de necessidade",
+                                                         "b":  "A organização das tarefas pode ampliar a participação coletiva",
+                                                         "c":  "A baixa participação inicial decorreu do custo das mudas",
+                                                         "d":  "A baixa participação inicial se explicava pelo desinteresse dos moradores por atividades coletivas",
+                                                         "e":  "As tarefas passaram a ser executadas por um único morador"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "O trecho sustenta: A organização das tarefas pode ampliar a participação coletiva. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-188",
+                                    "textoId":  "xtr-int-t13",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "A participação foi alta desde o primeiro dia da horta",
+                                                         "b":  "A divisão por turnos afastou os moradores de rotinas distintas",
+                                                         "c":  "A baixa participação inicial estava ligada à dificuldade de conciliar rotinas",
+                                                         "d":  "A baixa participação inicial se explicava pelo desinteresse dos moradores por atividades coletivas",
+                                                         "e":  "A horta foi encerrada por falta de interessados"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "O trecho sustenta: A baixa participação inicial estava ligada à dificuldade de conciliar rotinas. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-189",
+                                    "textoId":  "xtr-int-t13",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "descrição de um cenário sem marcas de posicionamento",
+                                                         "b":  "paralelismo entre duas estruturas sintáticas idênticas",
+                                                         "c":  "conclusão anunciada antes dos dados que a sustentam",
+                                                         "d":  "progressão temporal com mudança de resultado",
+                                                         "e":  "uso de dados numéricos para dimensionar o problema"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "A estratégia empregada é: progressão temporal com mudança de resultado. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-190",
+                                    "textoId":  "xtr-int-t14",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "A obra produziu efeitos idênticos nos dois lados da região que ela passou a conectar",
+                                                         "b":  "A ponte distribuiu os benefícios da integração de forma equivalente entre todos os pontos da região",
+                                                         "c":  "A ponte beneficiou igualmente todos os pontos da região",
+                                                         "d":  "O comércio antigo passou a receber mais veículos depois da obra",
+                                                         "e":  "Uma obra de infraestrutura pode gerar efeitos positivos e perdas distribuídos de modo desigual"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "O trecho sustenta: Uma obra de infraestrutura pode gerar efeitos positivos e perdas distribuídos de modo desigual. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-191",
+                                    "textoId":  "xtr-int-t14",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "A redução da distância não beneficiou todos os locais da mesma maneira",
+                                                         "b":  "A integração regional ocorreu sem qualquer alteração no fluxo",
+                                                         "c":  "A ponte foi construída para atender exclusivamente o comércio antigo",
+                                                         "d":  "O comércio antigo passou a receber mais veículos depois da obra",
+                                                         "e":  "A ponte distribuiu os benefícios da integração de forma equivalente entre todos os pontos da região"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "O trecho sustenta: A redução da distância não beneficiou todos os locais da mesma maneira. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-192",
+                                    "textoId":  "xtr-int-t14",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "hipótese apresentada e em seguida descartada",
+                                                         "b":  "apresentação de efeitos simultâneos e contrastantes",
+                                                         "c":  "citação de autoridade para sustentar a afirmação",
+                                                         "d":  "paralelismo entre duas estruturas sintáticas idênticas",
+                                                         "e":  "alternância entre discurso direto e discurso indireto"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "A estratégia empregada é: apresentação de efeitos simultâneos e contrastantes. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-193",
+                                    "textoId":  "xtr-int-t15",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "As duas notícias tratavam de fatos distintos",
+                                                         "b":  "A comparação mostrou que as fontes ouvidas eram as mesmas",
+                                                         "c":  "A seleção e o enquadramento das informações influenciam a construção da notícia",
+                                                         "d":  "A comparação mostrou que as duas notícias diferiam principalmente nos dados numéricos apresentados",
+                                                         "e":  "As diferenças mais importantes estavam nos dados apresentados"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "O trecho sustenta: A seleção e o enquadramento das informações influenciam a construção da notícia. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-194",
+                                    "textoId":  "xtr-int-t15",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "O título e a escolha das fontes pouco interferiram na compreensão do fato pelas duas turmas",
+                                                         "b":  "A comparação mostrou que as duas notícias diferiam principalmente nos dados numéricos apresentados",
+                                                         "c":  "A atividade concluiu que notícias sobre um mesmo fato se equivalem",
+                                                         "d":  "Textos podem divergir mesmo quando compartilham dados básicos",
+                                                         "e":  "A comparação mostrou que as fontes ouvidas eram as mesmas"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "O trecho sustenta: Textos podem divergir mesmo quando compartilham dados básicos. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-195",
+                                    "textoId":  "xtr-int-t15",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "citação de autoridade para sustentar a afirmação",
+                                                         "b":  "pergunta retórica respondida no período seguinte",
+                                                         "c":  "definição técnica seguida de sua aplicação prática",
+                                                         "d":  "enumeração de exemplos em ordem crescente de importância",
+                                                         "e":  "comparação entre elementos explícitos e escolhas editoriais"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "A estratégia empregada é: comparação entre elementos explícitos e escolhas editoriais. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-196",
+                                    "textoId":  "xtr-int-t16",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "Políticas ambientais dependem de infraestrutura compatível com o comportamento esperado",
+                                                         "b":  "O parque revogou a proibição dos copos descartáveis",
+                                                         "c":  "A proibição dos copos descartáveis reduziu os resíduos independentemente da oferta de pontos de água",
+                                                         "d":  "A medida dispensou qualquer alteração na infraestrutura",
+                                                         "e":  "A abertura de novos pontos de água aumentou os resíduos"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "O trecho sustenta: Políticas ambientais dependem de infraestrutura compatível com o comportamento esperado. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-197",
+                                    "textoId":  "xtr-int-t16",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "A proibição dos copos descartáveis reduziu os resíduos independentemente da oferta de pontos de água",
+                                                         "b":  "A proibição, sem alternativas práticas, teve efeito limitado",
+                                                         "c":  "A proibição reduziu os resíduos logo depois de anunciada",
+                                                         "d":  "Os bebedouros foram dispensados porque o público do parque levava as próprias garrafas",
+                                                         "e":  "Os bebedouros existentes já atendiam ao público do parque"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "O trecho sustenta: A proibição, sem alternativas práticas, teve efeito limitado. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-198",
+                                    "textoId":  "xtr-int-t16",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "retomada de um termo por sinônimo ao longo do parágrafo",
+                                                         "b":  "gradação que intensifica a mesma ideia em três etapas",
+                                                         "c":  "relação entre condição necessária e resultado",
+                                                         "d":  "descrição de um cenário sem marcas de posicionamento",
+                                                         "e":  "enumeração de exemplos em ordem crescente de importância"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "A estratégia empregada é: relação entre condição necessária e resultado. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-199",
+                                    "textoId":  "xtr-int-t17",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "A construção dos ambientes coube ao público, sem participação do trabalho dos atores em cena",
+                                                         "b":  "A peça foi apresentada sem ensaios prévios",
+                                                         "c":  "A ausência de cenário comprometeu a compreensão da peça",
+                                                         "d":  "Recursos corporais podem substituir elementos materiais na construção cênica",
+                                                         "e":  "A ausência de cenário foi compensada pela projeção de imagens dos lugares descritos na peça"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "O trecho sustenta: Recursos corporais podem substituir elementos materiais na construção cênica. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-200",
+                                    "textoId":  "xtr-int-t17",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "O grupo montou um cenário detalhado depois de meses de ensaio",
+                                                         "b":  "A construção dos ambientes coube ao público, sem participação do trabalho dos atores em cena",
+                                                         "c":  "A ausência de cenário comprometeu a compreensão da peça",
+                                                         "d":  "O público recebeu descrições escritas dos lugares imaginados",
+                                                         "e":  "O cenário foi produzido pela imaginação orientada pela atuação"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "O trecho sustenta: O cenário foi produzido pela imaginação orientada pela atuação. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-201",
+                                    "textoId":  "xtr-int-t17",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "ressignificação de uma ausência como escolha estética",
+                                                         "b":  "uso de dados numéricos para dimensionar o problema",
+                                                         "c":  "conclusão anunciada antes dos dados que a sustentam",
+                                                         "d":  "paralelismo entre duas estruturas sintáticas idênticas",
+                                                         "e":  "descrição de um cenário sem marcas de posicionamento"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "A estratégia empregada é: ressignificação de uma ausência como escolha estética. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-202",
+                                    "textoId":  "xtr-int-t18",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "Os moradores receberam as rotas de saída junto com o mapa",
+                                                         "b":  "Informação sobre risco precisa ser acompanhada de orientação prática",
+                                                         "c":  "As áreas vulneráveis não foram identificadas no levantamento",
+                                                         "d":  "A divulgação do mapa completou a política de prevenção",
+                                                         "e":  "A identificação das áreas vulneráveis bastou para reduzir o risco de enchentes no bairro"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "O trecho sustenta: Informação sobre risco precisa ser acompanhada de orientação prática. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-203",
+                                    "textoId":  "xtr-int-t18",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "A cidade optou por não divulgar o mapa de risco",
+                                                         "b":  "As áreas vulneráveis não foram identificadas no levantamento",
+                                                         "c":  "A divulgação do mapa não completou a política de prevenção",
+                                                         "d":  "Os pontos de abrigo foram instalados antes da divulgação",
+                                                         "e":  "A divulgação do mapa veio acompanhada da sinalização das rotas de saída e dos pontos de abrigo"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "O trecho sustenta: A divulgação do mapa não completou a política de prevenção. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-204",
+                                    "textoId":  "xtr-int-t18",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "citação de autoridade para sustentar a afirmação",
+                                                         "b":  "paralelismo entre duas estruturas sintáticas idênticas",
+                                                         "c":  "alternância entre discurso direto e discurso indireto",
+                                                         "d":  "contraste entre diagnóstico e capacidade de ação",
+                                                         "e":  "hipótese apresentada e em seguida descartada"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "A estratégia empregada é: contraste entre diagnóstico e capacidade de ação. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-205",
+                                    "textoId":  "xtr-int-t19",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "O atleta aumentou a intensidade para evitar lesões",
+                                                         "b":  "A estratégia de recuperação exigia treinos diários mais longos",
+                                                         "c":  "A redução dos treinos foi determinada pela comissão organizadora",
+                                                         "d":  "A pausa foi motivada por uma lesão já instalada",
+                                                         "e":  "Uma pausa planejada pode fazer parte da preparação"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "O trecho sustenta: Uma pausa planejada pode fazer parte da preparação. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-206",
+                                    "textoId":  "xtr-int-t19",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "A redução do treino não indicava abandono do objetivo",
+                                                         "b":  "A redução dos treinos indicava que o atleta havia desistido de disputar a competição naquela temporada",
+                                                         "c":  "A pausa nos treinos foi consequência de uma lesão, e não parte planejada da preparação",
+                                                         "d":  "A estratégia de recuperação exigia treinos diários mais longos",
+                                                         "e":  "O atleta abandonou a competição durante a semana de descanso"
+                                                     },
+                                    "resposta":  "a",
+                                    "explicacao":  "O trecho sustenta: A redução do treino não indicava abandono do objetivo. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-207",
+                                    "textoId":  "xtr-int-t19",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "enumeração de exemplos em ordem crescente de importância",
+                                                         "b":  "negação seguida de explicação corretiva",
+                                                         "c":  "citação de autoridade para sustentar a afirmação",
+                                                         "d":  "pergunta retórica respondida no período seguinte",
+                                                         "e":  "definição técnica seguida de sua aplicação prática"
+                                                     },
+                                    "resposta":  "b",
+                                    "explicacao":  "A estratégia empregada é: negação seguida de explicação corretiva. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-208",
+                                    "textoId":  "xtr-int-t20",
+                                    "formato":  "direta",
+                                    "tipoItem":  "ideia-central",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                                    "alternativas":  {
+                                                         "a":  "O valor atribuído às peças decorria da raridade dos materiais empregados em cada um dos objetos",
+                                                         "b":  "Os depoimentos foram incluídos apenas para datar os objetos reunidos em cada década",
+                                                         "c":  "Objetos podem adquirir valor cultural pela memória que concentram",
+                                                         "d":  "As peças foram avaliadas por especialistas em mercado de arte",
+                                                         "e":  "As histórias associadas às peças contradiziam os depoimentos"
+                                                     },
+                                    "resposta":  "c",
+                                    "explicacao":  "O trecho sustenta: Objetos podem adquirir valor cultural pela memória que concentram. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-209",
+                                    "textoId":  "xtr-int-t20",
+                                    "formato":  "direta",
+                                    "tipoItem":  "inferencia",
+                                    "dificuldade":  "dificil",
+                                    "enunciado":  "Depreende-se do texto que:",
+                                    "alternativas":  {
+                                                         "a":  "O valor das peças foi atribuído ao material de que eram feitas",
+                                                         "b":  "A exposição reuniu objetos de uma única década",
+                                                         "c":  "Os depoimentos foram retirados da exposição pelos curadores",
+                                                         "d":  "O material dos objetos não explicava sozinho sua importância",
+                                                         "e":  "Os depoimentos foram incluídos apenas para datar os objetos reunidos em cada década"
+                                                     },
+                                    "resposta":  "d",
+                                    "explicacao":  "O trecho sustenta: O material dos objetos não explicava sozinho sua importância. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                                    "origem":  "banco-extra"
+                                },
+                                {
+                                    "id":  "interpretacao-texto-210",
+                                    "textoId":  "xtr-int-t20",
+                                    "formato":  "direta",
+                                    "tipoItem":  "estrategia",
+                                    "dificuldade":  "media",
+                                    "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                                    "alternativas":  {
+                                                         "a":  "gradação que intensifica a mesma ideia em três etapas",
+                                                         "b":  "descrição de um cenário sem marcas de posicionamento",
+                                                         "c":  "enumeração de exemplos em ordem crescente de importância",
+                                                         "d":  "retomada de um termo por sinônimo ao longo do parágrafo",
+                                                         "e":  "comparação que desloca o critério de valor"
+                                                     },
+                                    "resposta":  "e",
+                                    "explicacao":  "A estratégia empregada é: comparação que desloca o critério de valor. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                                    "origem":  "banco-extra"
                                 }
                             ],
     "literatura":  [
@@ -31744,6 +33904,2046 @@ window.QUESTION_BANKS = {
                                "dificuldade":  "dificil",
                                "formato":  "direta",
                                "banca":  "fgv"
+                           },
+                           {
+                               "id":  "matematica-rlm-162",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 180. No início do mês, sofreu aumento de 10% e, na semana seguinte, recebeu desconto de 5% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 188,10",
+                                                    "b":  "R$ 189,00",
+                                                    "c":  "R$ 180,00",
+                                                    "d":  "R$ 198,00",
+                                                    "e":  "R$ 171,00"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "O aumento leva o preço a R$ 180,00 × 1,10 = R$ 198,00. O desconto incide sobre esse novo valor: R$ 198,00 × 0,95 = R$ 188,10. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-163",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 200. No início do mês, sofreu aumento de 15% e, na semana seguinte, recebeu desconto de 10% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 180",
+                                                    "b":  "R$ 207",
+                                                    "c":  "R$ 230",
+                                                    "d":  "R$ 210",
+                                                    "e":  "R$ 200"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "O aumento leva o preço a R$ 200,00 × 1,15 = R$ 230,00. O desconto incide sobre esse novo valor: R$ 230,00 × 0,90 = R$ 207,00. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-164",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 220. No início do mês, sofreu aumento de 20% e, na semana seguinte, recebeu desconto de 15% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 231,00",
+                                                    "b":  "R$ 187,00",
+                                                    "c":  "R$ 224,40",
+                                                    "d":  "R$ 220,00",
+                                                    "e":  "R$ 264,00"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "O aumento leva o preço a R$ 220,00 × 1,20 = R$ 264,00. O desconto incide sobre esse novo valor: R$ 264,00 × 0,85 = R$ 224,40. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-165",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 240. No início do mês, sofreu aumento de 25% e, na semana seguinte, recebeu desconto de 5% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 228",
+                                                    "b":  "R$ 288",
+                                                    "c":  "R$ 300",
+                                                    "d":  "R$ 285",
+                                                    "e":  "R$ 240"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "O aumento leva o preço a R$ 240,00 × 1,25 = R$ 300,00. O desconto incide sobre esse novo valor: R$ 300,00 × 0,95 = R$ 285,00. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-166",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 260. No início do mês, sofreu aumento de 10% e, na semana seguinte, recebeu desconto de 10% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 234,00",
+                                                    "b":  "R$ 283,14",
+                                                    "c":  "R$ 260,00",
+                                                    "d":  "R$ 286,00",
+                                                    "e":  "R$ 257,40"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "O aumento leva o preço a R$ 260,00 × 1,10 = R$ 286,00. O desconto incide sobre esse novo valor: R$ 286,00 × 0,90 = R$ 257,40. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-167",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 280. No início do mês, sofreu aumento de 15% e, na semana seguinte, recebeu desconto de 15% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 273,70",
+                                                    "b":  "R$ 301,07",
+                                                    "c":  "R$ 280,00",
+                                                    "d":  "R$ 238,00",
+                                                    "e":  "R$ 322,00"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "O aumento leva o preço a R$ 280,00 × 1,15 = R$ 322,00. O desconto incide sobre esse novo valor: R$ 322,00 × 0,85 = R$ 273,70. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-168",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 300. No início do mês, sofreu aumento de 20% e, na semana seguinte, recebeu desconto de 5% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 345",
+                                                    "b":  "R$ 342",
+                                                    "c":  "R$ 285",
+                                                    "d":  "R$ 360",
+                                                    "e":  "R$ 300"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "O aumento leva o preço a R$ 300,00 × 1,20 = R$ 360,00. O desconto incide sobre esse novo valor: R$ 360,00 × 0,95 = R$ 342,00. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-169",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 320. No início do mês, sofreu aumento de 25% e, na semana seguinte, recebeu desconto de 10% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 400",
+                                                    "b":  "R$ 320",
+                                                    "c":  "R$ 360",
+                                                    "d":  "R$ 368",
+                                                    "e":  "R$ 288"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "O aumento leva o preço a R$ 320,00 × 1,25 = R$ 400,00. O desconto incide sobre esse novo valor: R$ 400,00 × 0,90 = R$ 360,00. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-170",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 340. No início do mês, sofreu aumento de 10% e, na semana seguinte, recebeu desconto de 15% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 323,00",
+                                                    "b":  "R$ 374,00",
+                                                    "c":  "R$ 289,00",
+                                                    "d":  "R$ 317,90",
+                                                    "e":  "R$ 340,00"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "O aumento leva o preço a R$ 340,00 × 1,10 = R$ 374,00. O desconto incide sobre esse novo valor: R$ 374,00 × 0,85 = R$ 317,90. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-171",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 360. No início do mês, sofreu aumento de 15% e, na semana seguinte, recebeu desconto de 5% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 360,00",
+                                                    "b":  "R$ 414,00",
+                                                    "c":  "R$ 342,00",
+                                                    "d":  "R$ 396,00",
+                                                    "e":  "R$ 393,30"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "O aumento leva o preço a R$ 360,00 × 1,15 = R$ 414,00. O desconto incide sobre esse novo valor: R$ 414,00 × 0,95 = R$ 393,30. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-172",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 380. No início do mês, sofreu aumento de 20% e, na semana seguinte, recebeu desconto de 10% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 410,40",
+                                                    "b":  "R$ 342,00",
+                                                    "c":  "R$ 380,00",
+                                                    "d":  "R$ 418,00",
+                                                    "e":  "R$ 456,00"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "O aumento leva o preço a R$ 380,00 × 1,20 = R$ 456,00. O desconto incide sobre esse novo valor: R$ 456,00 × 0,90 = R$ 410,40. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-173",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 400. No início do mês, sofreu aumento de 25% e, na semana seguinte, recebeu desconto de 15% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 340",
+                                                    "b":  "R$ 425",
+                                                    "c":  "R$ 400",
+                                                    "d":  "R$ 500",
+                                                    "e":  "R$ 440"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "O aumento leva o preço a R$ 400,00 × 1,25 = R$ 500,00. O desconto incide sobre esse novo valor: R$ 500,00 × 0,85 = R$ 425,00. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-174",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 420. No início do mês, sofreu aumento de 10% e, na semana seguinte, recebeu desconto de 5% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 462,00",
+                                                    "b":  "R$ 399,00",
+                                                    "c":  "R$ 438,90",
+                                                    "d":  "R$ 441,00",
+                                                    "e":  "R$ 420,00"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "O aumento leva o preço a R$ 420,00 × 1,10 = R$ 462,00. O desconto incide sobre esse novo valor: R$ 462,00 × 0,95 = R$ 438,90. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-175",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 440. No início do mês, sofreu aumento de 15% e, na semana seguinte, recebeu desconto de 10% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 396,00",
+                                                    "b":  "R$ 462,00",
+                                                    "c":  "R$ 506,00",
+                                                    "d":  "R$ 455,40",
+                                                    "e":  "R$ 440,00"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "O aumento leva o preço a R$ 440,00 × 1,15 = R$ 506,00. O desconto incide sobre esse novo valor: R$ 506,00 × 0,90 = R$ 455,40. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-176",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 460. No início do mês, sofreu aumento de 20% e, na semana seguinte, recebeu desconto de 15% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 552,00",
+                                                    "b":  "R$ 483,00",
+                                                    "c":  "R$ 460,00",
+                                                    "d":  "R$ 391,00",
+                                                    "e":  "R$ 469,20"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "O aumento leva o preço a R$ 460,00 × 1,20 = R$ 552,00. O desconto incide sobre esse novo valor: R$ 552,00 × 0,85 = R$ 469,20. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-177",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 480. No início do mês, sofreu aumento de 25% e, na semana seguinte, recebeu desconto de 5% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 570",
+                                                    "b":  "R$ 480",
+                                                    "c":  "R$ 576",
+                                                    "d":  "R$ 456",
+                                                    "e":  "R$ 600"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "O aumento leva o preço a R$ 480,00 × 1,25 = R$ 600,00. O desconto incide sobre esse novo valor: R$ 600,00 × 0,95 = R$ 570,00. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-178",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 500. No início do mês, sofreu aumento de 10% e, na semana seguinte, recebeu desconto de 10% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 500,00",
+                                                    "b":  "R$ 495,00",
+                                                    "c":  "R$ 550,00",
+                                                    "d":  "R$ 450,00",
+                                                    "e":  "R$ 544,50"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "O aumento leva o preço a R$ 500,00 × 1,10 = R$ 550,00. O desconto incide sobre esse novo valor: R$ 550,00 × 0,90 = R$ 495,00. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-179",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 520. No início do mês, sofreu aumento de 15% e, na semana seguinte, recebeu desconto de 15% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 598,00",
+                                                    "b":  "R$ 520,00",
+                                                    "c":  "R$ 508,30",
+                                                    "d":  "R$ 559,13",
+                                                    "e":  "R$ 442,00"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "O aumento leva o preço a R$ 520,00 × 1,15 = R$ 598,00. O desconto incide sobre esse novo valor: R$ 598,00 × 0,85 = R$ 508,30. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-180",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 540. No início do mês, sofreu aumento de 20% e, na semana seguinte, recebeu desconto de 5% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 648,00",
+                                                    "b":  "R$ 513,00",
+                                                    "c":  "R$ 540,00",
+                                                    "d":  "R$ 615,60",
+                                                    "e":  "R$ 621,00"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "O aumento leva o preço a R$ 540,00 × 1,20 = R$ 648,00. O desconto incide sobre esse novo valor: R$ 648,00 × 0,95 = R$ 615,60. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-181",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Um serviço custava R$ 560. No início do mês, sofreu aumento de 25% e, na semana seguinte, recebeu desconto de 10% sobre o novo preço. Qual passou a ser o valor do serviço?",
+                               "alternativas":  {
+                                                    "a":  "R$ 644",
+                                                    "b":  "R$ 504",
+                                                    "c":  "R$ 700",
+                                                    "d":  "R$ 560",
+                                                    "e":  "R$ 630"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "O aumento leva o preço a R$ 560,00 × 1,25 = R$ 700,00. O desconto incide sobre esse novo valor: R$ 700,00 × 0,90 = R$ 630,00. Aumento e desconto não se cancelam porque incidem sobre bases diferentes.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-182",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 500 foi aplicado a juros compostos de 5% por período, durante 2 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 551,25",
+                                                    "b":  "R$ 50,00",
+                                                    "c":  "R$ 550,00",
+                                                    "d":  "R$ 453,51",
+                                                    "e":  "R$ 525,00"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 500,00 × 1,05^2 = R$ 551,25. No regime simples o montante seria R$ 550,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-183",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 600 foi aplicado a juros compostos de 8% por período, durante 3 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 144,00",
+                                                    "b":  "R$ 755,83",
+                                                    "c":  "R$ 648,00",
+                                                    "d":  "R$ 476,30",
+                                                    "e":  "R$ 744,00"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 600,00 × 1,08^3 = R$ 755,83. No regime simples o montante seria R$ 744,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-184",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 700 foi aplicado a juros compostos de 10% por período, durante 4 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 770,00",
+                                                    "b":  "R$ 280,00",
+                                                    "c":  "R$ 1.024,87",
+                                                    "d":  "R$ 980,00",
+                                                    "e":  "R$ 478,11"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 700,00 × 1,10^4 = R$ 1.024,87. No regime simples o montante seria R$ 980,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-185",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 800 foi aplicado a juros compostos de 5% por período, durante 2 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 80,00",
+                                                    "b":  "R$ 880,00",
+                                                    "c":  "R$ 725,62",
+                                                    "d":  "R$ 882,00",
+                                                    "e":  "R$ 840,00"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 800,00 × 1,05^2 = R$ 882,00. No regime simples o montante seria R$ 880,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-186",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 900 foi aplicado a juros compostos de 8% por período, durante 3 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 714,45",
+                                                    "b":  "R$ 1.116,00",
+                                                    "c":  "R$ 972,00",
+                                                    "d":  "R$ 216,00",
+                                                    "e":  "R$ 1.133,74"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 900,00 × 1,08^3 = R$ 1.133,74. No regime simples o montante seria R$ 1.116,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-187",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 1.000 foi aplicado a juros compostos de 10% por período, durante 4 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 1.464,10",
+                                                    "b":  "R$ 1.400,00",
+                                                    "c":  "R$ 1.100,00",
+                                                    "d":  "R$ 683,01",
+                                                    "e":  "R$ 400,00"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.000,00 × 1,10^4 = R$ 1.464,10. No regime simples o montante seria R$ 1.400,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-188",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 1.100 foi aplicado a juros compostos de 5% por período, durante 2 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 1.210,00",
+                                                    "b":  "R$ 1.212,75",
+                                                    "c":  "R$ 1.155,00",
+                                                    "d":  "R$ 997,73",
+                                                    "e":  "R$ 110,00"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.100,00 × 1,05^2 = R$ 1.212,75. No regime simples o montante seria R$ 1.210,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-189",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 1.200 foi aplicado a juros compostos de 8% por período, durante 3 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 1.488,00",
+                                                    "b":  "R$ 1.296,00",
+                                                    "c":  "R$ 1.511,65",
+                                                    "d":  "R$ 288,00",
+                                                    "e":  "R$ 952,60"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.200,00 × 1,08^3 = R$ 1.511,65. No regime simples o montante seria R$ 1.488,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-190",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 1.300 foi aplicado a juros compostos de 10% por período, durante 4 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 1.820,00",
+                                                    "b":  "R$ 887,92",
+                                                    "c":  "R$ 1.430,00",
+                                                    "d":  "R$ 1.903,33",
+                                                    "e":  "R$ 520,00"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.300,00 × 1,10^4 = R$ 1.903,33. No regime simples o montante seria R$ 1.820,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-191",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 1.400 foi aplicado a juros compostos de 5% por período, durante 2 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 1.540,00",
+                                                    "b":  "R$ 1.470,00",
+                                                    "c":  "R$ 140,00",
+                                                    "d":  "R$ 1.269,84",
+                                                    "e":  "R$ 1.543,50"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.400,00 × 1,05^2 = R$ 1.543,50. No regime simples o montante seria R$ 1.540,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-192",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 1.500 foi aplicado a juros compostos de 8% por período, durante 3 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 1.889,57",
+                                                    "b":  "R$ 1.860,00",
+                                                    "c":  "R$ 1.620,00",
+                                                    "d":  "R$ 1.190,75",
+                                                    "e":  "R$ 360,00"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.500,00 × 1,08^3 = R$ 1.889,57. No regime simples o montante seria R$ 1.860,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-193",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 1.600 foi aplicado a juros compostos de 10% por período, durante 4 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 640,00",
+                                                    "b":  "R$ 2.342,56",
+                                                    "c":  "R$ 2.240,00",
+                                                    "d":  "R$ 1.760,00",
+                                                    "e":  "R$ 1.092,82"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.600,00 × 1,10^4 = R$ 2.342,56. No regime simples o montante seria R$ 2.240,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-194",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 1.700 foi aplicado a juros compostos de 5% por período, durante 2 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 1.785,00",
+                                                    "b":  "R$ 170,00",
+                                                    "c":  "R$ 1.874,25",
+                                                    "d":  "R$ 1.870,00",
+                                                    "e":  "R$ 1.541,95"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.700,00 × 1,05^2 = R$ 1.874,25. No regime simples o montante seria R$ 1.870,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-195",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 1.800 foi aplicado a juros compostos de 8% por período, durante 3 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 1.944,00",
+                                                    "b":  "R$ 432,00",
+                                                    "c":  "R$ 2.232,00",
+                                                    "d":  "R$ 2.267,48",
+                                                    "e":  "R$ 1.428,90"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.800,00 × 1,08^3 = R$ 2.267,48. No regime simples o montante seria R$ 2.232,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-196",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 1.900 foi aplicado a juros compostos de 10% por período, durante 4 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 760,00",
+                                                    "b":  "R$ 1.297,73",
+                                                    "c":  "R$ 2.090,00",
+                                                    "d":  "R$ 2.660,00",
+                                                    "e":  "R$ 2.781,79"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 1.900,00 × 1,10^4 = R$ 2.781,79. No regime simples o montante seria R$ 2.660,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-197",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 2.000 foi aplicado a juros compostos de 5% por período, durante 2 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 2.205,00",
+                                                    "b":  "R$ 2.200,00",
+                                                    "c":  "R$ 200,00",
+                                                    "d":  "R$ 1.814,06",
+                                                    "e":  "R$ 2.100,00"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 2.000,00 × 1,05^2 = R$ 2.205,00. No regime simples o montante seria R$ 2.200,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-198",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 2.100 foi aplicado a juros compostos de 8% por período, durante 3 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 504,00",
+                                                    "b":  "R$ 2.645,40",
+                                                    "c":  "R$ 2.268,00",
+                                                    "d":  "R$ 2.604,00",
+                                                    "e":  "R$ 1.667,05"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 2.100,00 × 1,08^3 = R$ 2.645,40. No regime simples o montante seria R$ 2.604,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-199",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 2.200 foi aplicado a juros compostos de 10% por período, durante 4 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 2.420,00",
+                                                    "b":  "R$ 880,00",
+                                                    "c":  "R$ 3.221,02",
+                                                    "d":  "R$ 1.502,63",
+                                                    "e":  "R$ 3.080,00"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 2.200,00 × 1,10^4 = R$ 3.221,02. No regime simples o montante seria R$ 3.080,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-200",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 2.300 foi aplicado a juros compostos de 5% por período, durante 2 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 2.086,17",
+                                                    "b":  "R$ 2.415,00",
+                                                    "c":  "R$ 230,00",
+                                                    "d":  "R$ 2.535,75",
+                                                    "e":  "R$ 2.530,00"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 2.300,00 × 1,05^2 = R$ 2.535,75. No regime simples o montante seria R$ 2.530,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-201",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Um capital de R$ 2.400 foi aplicado a juros compostos de 8% por período, durante 3 períodos. Qual é o montante final?",
+                               "alternativas":  {
+                                                    "a":  "R$ 2.592,00",
+                                                    "b":  "R$ 1.905,20",
+                                                    "c":  "R$ 576,00",
+                                                    "d":  "R$ 2.976,00",
+                                                    "e":  "R$ 3.023,31"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "Juros compostos: M = C(1+i)ⁿ = R$ 2.400,00 × 1,08^3 = R$ 3.023,31. No regime simples o montante seria R$ 2.976,00 — a diferença é o juro sobre juro.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-202",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 100 será dividida entre dois projetos na razão 2:3. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 40,00",
+                                                    "b":  "R$ 60,00",
+                                                    "c":  "R$ 50,00",
+                                                    "d":  "R$ 33,33",
+                                                    "e":  "R$ 44,00"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "A razão 2:3 divide a verba em 5 partes iguais de R$ 20,00. O primeiro termo recebe 2 delas: R$ 40,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-203",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 200 será dividida entre dois projetos na razão 3:5. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 66,67",
+                                                    "b":  "R$ 75,00",
+                                                    "c":  "R$ 40,00",
+                                                    "d":  "R$ 125,00",
+                                                    "e":  "R$ 100,00"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "A razão 3:5 divide a verba em 8 partes iguais de R$ 25,00. O primeiro termo recebe 3 delas: R$ 75,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-204",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 330 será dividida entre dois projetos na razão 4:7. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 47,14",
+                                                    "b":  "R$ 210,00",
+                                                    "c":  "R$ 120,00",
+                                                    "d":  "R$ 82,50",
+                                                    "e":  "R$ 165,00"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "A razão 4:7 divide a verba em 11 partes iguais de R$ 30,00. O primeiro termo recebe 4 delas: R$ 120,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-205",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 280 será dividida entre dois projetos na razão 5:3. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 93,33",
+                                                    "b":  "R$ 105,00",
+                                                    "c":  "R$ 56,00",
+                                                    "d":  "R$ 175,00",
+                                                    "e":  "R$ 140,00"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "A razão 5:3 divide a verba em 8 partes iguais de R$ 35,00. O primeiro termo recebe 5 delas: R$ 175,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-206",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 440 será dividida entre dois projetos na razão 6:5. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 88,00",
+                                                    "b":  "R$ 220,00",
+                                                    "c":  "R$ 73,33",
+                                                    "d":  "R$ 200,00",
+                                                    "e":  "R$ 240,00"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "A razão 6:5 divide a verba em 11 partes iguais de R$ 40,00. O primeiro termo recebe 6 delas: R$ 240,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-207",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 405 será dividida entre dois projetos na razão 2:7. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 90,00",
+                                                    "b":  "R$ 315,00",
+                                                    "c":  "R$ 99,00",
+                                                    "d":  "R$ 202,50",
+                                                    "e":  "R$ 57,86"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "A razão 2:7 divide a verba em 9 partes iguais de R$ 45,00. O primeiro termo recebe 2 delas: R$ 90,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-208",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 350 será dividida entre dois projetos na razão 3:4. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 175,00",
+                                                    "b":  "R$ 150,00",
+                                                    "c":  "R$ 116,67",
+                                                    "d":  "R$ 87,50",
+                                                    "e":  "R$ 200,00"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "A razão 3:4 divide a verba em 7 partes iguais de R$ 50,00. O primeiro termo recebe 3 delas: R$ 150,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-209",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 495 será dividida entre dois projetos na razão 4:5. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 123,75",
+                                                    "b":  "R$ 247,50",
+                                                    "c":  "R$ 220,00",
+                                                    "d":  "R$ 275,00",
+                                                    "e":  "R$ 99,00"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "A razão 4:5 divide a verba em 9 partes iguais de R$ 55,00. O primeiro termo recebe 4 delas: R$ 220,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-210",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 720 será dividida entre dois projetos na razão 5:7. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 102,86",
+                                                    "b":  "R$ 144,00",
+                                                    "c":  "R$ 360,00",
+                                                    "d":  "R$ 300,00",
+                                                    "e":  "R$ 420,00"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "A razão 5:7 divide a verba em 12 partes iguais de R$ 60,00. O primeiro termo recebe 5 delas: R$ 300,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-211",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 585 será dividida entre dois projetos na razão 6:3. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 97,50",
+                                                    "b":  "R$ 429,00",
+                                                    "c":  "R$ 292,50",
+                                                    "d":  "R$ 195,00",
+                                                    "e":  "R$ 390,00"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "A razão 6:3 divide a verba em 9 partes iguais de R$ 65,00. O primeiro termo recebe 6 delas: R$ 390,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-212",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 490 será dividida entre dois projetos na razão 2:5. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 140",
+                                                    "b":  "R$ 350",
+                                                    "c":  "R$ 98",
+                                                    "d":  "R$ 245",
+                                                    "e":  "R$ 154"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "A razão 2:5 divide a verba em 7 partes iguais de R$ 70,00. O primeiro termo recebe 2 delas: R$ 140,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-213",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 750 será dividida entre dois projetos na razão 3:7. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 250,00",
+                                                    "b":  "R$ 225,00",
+                                                    "c":  "R$ 107,14",
+                                                    "d":  "R$ 375,00",
+                                                    "e":  "R$ 525,00"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "A razão 3:7 divide a verba em 10 partes iguais de R$ 75,00. O primeiro termo recebe 3 delas: R$ 225,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-214",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 560 será dividida entre dois projetos na razão 4:3. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 140,00",
+                                                    "b":  "R$ 240,00",
+                                                    "c":  "R$ 320,00",
+                                                    "d":  "R$ 280,00",
+                                                    "e":  "R$ 186,67"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "A razão 4:3 divide a verba em 7 partes iguais de R$ 80,00. O primeiro termo recebe 4 delas: R$ 320,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-215",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 935 será dividida entre dois projetos na razão 5:6. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 187,00",
+                                                    "b":  "R$ 467,50",
+                                                    "c":  "R$ 510,00",
+                                                    "d":  "R$ 425,00",
+                                                    "e":  "R$ 155,83"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "A razão 5:6 divide a verba em 11 partes iguais de R$ 85,00. O primeiro termo recebe 5 delas: R$ 425,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-216",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 1.170 será dividida entre dois projetos na razão 6:7. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 630,00",
+                                                    "b":  "R$ 167,14",
+                                                    "c":  "R$ 585,00",
+                                                    "d":  "R$ 195,00",
+                                                    "e":  "R$ 540,00"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "A razão 6:7 divide a verba em 13 partes iguais de R$ 90,00. O primeiro termo recebe 6 delas: R$ 540,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-217",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 475 será dividida entre dois projetos na razão 2:3. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 190,00",
+                                                    "b":  "R$ 285,00",
+                                                    "c":  "R$ 237,50",
+                                                    "d":  "R$ 209,00",
+                                                    "e":  "R$ 158,33"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "A razão 2:3 divide a verba em 5 partes iguais de R$ 95,00. O primeiro termo recebe 2 delas: R$ 190,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-218",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 800 será dividida entre dois projetos na razão 3:5. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 266,67",
+                                                    "b":  "R$ 300,00",
+                                                    "c":  "R$ 400,00",
+                                                    "d":  "R$ 160,00",
+                                                    "e":  "R$ 500,00"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "A razão 3:5 divide a verba em 8 partes iguais de R$ 100,00. O primeiro termo recebe 3 delas: R$ 300,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-219",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 1.155 será dividida entre dois projetos na razão 4:7. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 165,00",
+                                                    "b":  "R$ 288,75",
+                                                    "c":  "R$ 420,00",
+                                                    "d":  "R$ 735,00",
+                                                    "e":  "R$ 577,50"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "A razão 4:7 divide a verba em 11 partes iguais de R$ 105,00. O primeiro termo recebe 4 delas: R$ 420,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-220",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 880 será dividida entre dois projetos na razão 5:3. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 176,00",
+                                                    "b":  "R$ 330,00",
+                                                    "c":  "R$ 440,00",
+                                                    "d":  "R$ 550,00",
+                                                    "e":  "R$ 293,33"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "A razão 5:3 divide a verba em 8 partes iguais de R$ 110,00. O primeiro termo recebe 5 delas: R$ 550,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-221",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma verba de R$ 1.265 será dividida entre dois projetos na razão 6:5. Quanto receberá o projeto associado ao primeiro termo da razão?",
+                               "alternativas":  {
+                                                    "a":  "R$ 210,83",
+                                                    "b":  "R$ 253,00",
+                                                    "c":  "R$ 632,50",
+                                                    "d":  "R$ 575,00",
+                                                    "e":  "R$ 690,00"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "A razão 6:5 divide a verba em 11 partes iguais de R$ 115,00. O primeiro termo recebe 6 delas: R$ 690,00.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-222",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma urna contém 2 bolas vermelhas e 3 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                               "alternativas":  {
+                                                    "a":  "2/3",
+                                                    "b":  "2/5",
+                                                    "c":  "3/5",
+                                                    "d":  "1/3",
+                                                    "e":  "1/5"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "São 2 casos favoráveis em 5 bolas: P = 2/5 = 2/5.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-223",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma urna contém 3 bolas vermelhas e 5 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                               "alternativas":  {
+                                                    "a":  "9/64",
+                                                    "b":  "15/56",
+                                                    "c":  "3/28",
+                                                    "d":  "2/7",
+                                                    "e":  "3/4"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 3/8 × 2/7 = 3/28.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-224",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma urna contém 4 bolas vermelhas e 7 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                               "alternativas":  {
+                                                    "a":  "4/7",
+                                                    "b":  "7/11",
+                                                    "c":  "1/3",
+                                                    "d":  "4/11",
+                                                    "e":  "1/11"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "São 4 casos favoráveis em 11 bolas: P = 4/11 = 4/11.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-225",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma urna contém 5 bolas vermelhas e 3 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                               "alternativas":  {
+                                                    "a":  "15/56",
+                                                    "b":  "5/4",
+                                                    "c":  "25/64",
+                                                    "d":  "4/7",
+                                                    "e":  "5/14"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 5/8 × 4/7 = 5/14.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-226",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma urna contém 6 bolas vermelhas e 5 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                               "alternativas":  {
+                                                    "a":  "6/11",
+                                                    "b":  "5/11",
+                                                    "c":  "6/5",
+                                                    "d":  "1/11",
+                                                    "e":  "1/2"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "São 6 casos favoráveis em 11 bolas: P = 6/11 = 6/11.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-227",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma urna contém 2 bolas vermelhas e 7 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                               "alternativas":  {
+                                                    "a":  "1/8",
+                                                    "b":  "1/36",
+                                                    "c":  "4/81",
+                                                    "d":  "7/36",
+                                                    "e":  "4/9"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 2/9 × 1/8 = 1/36.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-228",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma urna contém 3 bolas vermelhas e 3 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                               "alternativas":  {
+                                                    "a":  "1/6",
+                                                    "b":  "2/3",
+                                                    "c":  "1/2",
+                                                    "d":  "1/1",
+                                                    "e":  "3/7"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "São 3 casos favoráveis em 6 bolas: P = 3/6 = 1/2.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-229",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma urna contém 4 bolas vermelhas e 5 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                               "alternativas":  {
+                                                    "a":  "8/9",
+                                                    "b":  "16/81",
+                                                    "c":  "5/18",
+                                                    "d":  "1/6",
+                                                    "e":  "3/8"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 4/9 × 3/8 = 1/6.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-230",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma urna contém 5 bolas vermelhas e 7 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                               "alternativas":  {
+                                                    "a":  "5/13",
+                                                    "b":  "5/7",
+                                                    "c":  "7/12",
+                                                    "d":  "1/12",
+                                                    "e":  "5/12"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "São 5 casos favoráveis em 12 bolas: P = 5/12 = 5/12.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-231",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma urna contém 6 bolas vermelhas e 3 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                               "alternativas":  {
+                                                    "a":  "5/12",
+                                                    "b":  "4/3",
+                                                    "c":  "4/9",
+                                                    "d":  "1/4",
+                                                    "e":  "5/8"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 6/9 × 5/8 = 5/12.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-232",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma urna contém 2 bolas vermelhas e 5 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                               "alternativas":  {
+                                                    "a":  "5/7",
+                                                    "b":  "2/7",
+                                                    "c":  "1/4",
+                                                    "d":  "2/5",
+                                                    "e":  "1/7"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "São 2 casos favoráveis em 7 bolas: P = 2/7 = 2/7.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-233",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma urna contém 3 bolas vermelhas e 7 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                               "alternativas":  {
+                                                    "a":  "9/100",
+                                                    "b":  "3/5",
+                                                    "c":  "1/15",
+                                                    "d":  "2/9",
+                                                    "e":  "7/30"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 3/10 × 2/9 = 1/15.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-234",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma urna contém 4 bolas vermelhas e 3 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                               "alternativas":  {
+                                                    "a":  "3/7",
+                                                    "b":  "1/7",
+                                                    "c":  "1/2",
+                                                    "d":  "4/7",
+                                                    "e":  "4/3"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "São 4 casos favoráveis em 7 bolas: P = 4/7 = 4/7.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-235",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma urna contém 5 bolas vermelhas e 5 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                               "alternativas":  {
+                                                    "a":  "1/1",
+                                                    "b":  "4/9",
+                                                    "c":  "1/4",
+                                                    "d":  "5/18",
+                                                    "e":  "2/9"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 5/10 × 4/9 = 2/9.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-236",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma urna contém 6 bolas vermelhas e 7 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                               "alternativas":  {
+                                                    "a":  "6/13",
+                                                    "b":  "6/7",
+                                                    "c":  "3/7",
+                                                    "d":  "1/13",
+                                                    "e":  "7/13"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "São 6 casos favoráveis em 13 bolas: P = 6/13 = 6/13.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-237",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma urna contém 2 bolas vermelhas e 3 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                               "alternativas":  {
+                                                    "a":  "4/25",
+                                                    "b":  "1/10",
+                                                    "c":  "3/10",
+                                                    "d":  "1/4",
+                                                    "e":  "4/5"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 2/5 × 1/4 = 1/10.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-238",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma urna contém 3 bolas vermelhas e 5 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                               "alternativas":  {
+                                                    "a":  "1/8",
+                                                    "b":  "1/3",
+                                                    "c":  "3/8",
+                                                    "d":  "3/5",
+                                                    "e":  "5/8"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "São 3 casos favoráveis em 8 bolas: P = 3/8 = 3/8.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-239",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma urna contém 4 bolas vermelhas e 7 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                               "alternativas":  {
+                                                    "a":  "14/55",
+                                                    "b":  "16/121",
+                                                    "c":  "3/10",
+                                                    "d":  "6/55",
+                                                    "e":  "8/11"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 4/11 × 3/10 = 6/55.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-240",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma urna contém 5 bolas vermelhas e 3 azuis. Uma bola é retirada ao acaso. Qual é a probabilidade de ela ser vermelha?",
+                               "alternativas":  {
+                                                    "a":  "5/3",
+                                                    "b":  "1/8",
+                                                    "c":  "3/8",
+                                                    "d":  "5/9",
+                                                    "e":  "5/8"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "São 5 casos favoráveis em 8 bolas: P = 5/8 = 5/8.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-241",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma urna contém 6 bolas vermelhas e 5 azuis. Duas bolas são retiradas sem reposição. Qual é a probabilidade de ambas serem vermelhas?",
+                               "alternativas":  {
+                                                    "a":  "3/11",
+                                                    "b":  "1/11",
+                                                    "c":  "36/121",
+                                                    "d":  "1/2",
+                                                    "e":  "12/11"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Sem reposição a segunda retirada muda o espaço amostral: P = 6/11 × 5/10 = 3/11.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-242",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "De um grupo de 6 estudantes, serão escolhidos 2 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                               "alternativas":  {
+                                                    "a":  "2",
+                                                    "b":  "15",
+                                                    "c":  "36",
+                                                    "d":  "30",
+                                                    "e":  "12"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(6,2) = 6!/(2!·4!) = 15.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-243",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Entre 7 finalistas, serão atribuídos 3 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                               "alternativas":  {
+                                                    "a":  "6",
+                                                    "b":  "35",
+                                                    "c":  "210",
+                                                    "d":  "21",
+                                                    "e":  "343"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(7,3) = 7!/4! = 210.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-244",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "De um grupo de 8 estudantes, serão escolhidos 4 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                               "alternativas":  {
+                                                    "a":  "32",
+                                                    "b":  "1.680",
+                                                    "c":  "24",
+                                                    "d":  "70",
+                                                    "e":  "4.096"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(8,4) = 8!/(4!·4!) = 70.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-245",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Entre 9 finalistas, serão atribuídos 2 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                               "alternativas":  {
+                                                    "a":  "18",
+                                                    "b":  "36",
+                                                    "c":  "2",
+                                                    "d":  "81",
+                                                    "e":  "72"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(9,2) = 9!/7! = 72.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-246",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "De um grupo de 10 estudantes, serão escolhidos 3 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                               "alternativas":  {
+                                                    "a":  "120",
+                                                    "b":  "1.000",
+                                                    "c":  "30",
+                                                    "d":  "720",
+                                                    "e":  "6"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(10,3) = 10!/(3!·7!) = 120.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-247",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Entre 11 finalistas, serão atribuídos 4 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                               "alternativas":  {
+                                                    "a":  "14.641",
+                                                    "b":  "7.920",
+                                                    "c":  "44",
+                                                    "d":  "330",
+                                                    "e":  "24"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(11,4) = 11!/7! = 7920.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-248",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "De um grupo de 12 estudantes, serão escolhidos 2 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                               "alternativas":  {
+                                                    "a":  "132",
+                                                    "b":  "144",
+                                                    "c":  "66",
+                                                    "d":  "2",
+                                                    "e":  "24"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(12,2) = 12!/(2!·10!) = 66.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-249",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Entre 6 finalistas, serão atribuídos 3 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                               "alternativas":  {
+                                                    "a":  "216",
+                                                    "b":  "20",
+                                                    "c":  "6",
+                                                    "d":  "120",
+                                                    "e":  "18"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(6,3) = 6!/3! = 120.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-250",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "De um grupo de 7 estudantes, serão escolhidos 4 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                               "alternativas":  {
+                                                    "a":  "2.401",
+                                                    "b":  "840",
+                                                    "c":  "24",
+                                                    "d":  "28",
+                                                    "e":  "35"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(7,4) = 7!/(4!·3!) = 35.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-251",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Entre 8 finalistas, serão atribuídos 2 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                               "alternativas":  {
+                                                    "a":  "56",
+                                                    "b":  "16",
+                                                    "c":  "28",
+                                                    "d":  "2",
+                                                    "e":  "64"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(8,2) = 8!/6! = 56.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-252",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "De um grupo de 9 estudantes, serão escolhidos 3 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                               "alternativas":  {
+                                                    "a":  "6",
+                                                    "b":  "84",
+                                                    "c":  "504",
+                                                    "d":  "27",
+                                                    "e":  "729"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(9,3) = 9!/(3!·6!) = 84.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-253",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Entre 10 finalistas, serão atribuídos 4 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                               "alternativas":  {
+                                                    "a":  "40",
+                                                    "b":  "24",
+                                                    "c":  "5.040",
+                                                    "d":  "210",
+                                                    "e":  "10.000"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(10,4) = 10!/6! = 5040.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-254",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "De um grupo de 11 estudantes, serão escolhidos 2 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                               "alternativas":  {
+                                                    "a":  "2",
+                                                    "b":  "121",
+                                                    "c":  "110",
+                                                    "d":  "55",
+                                                    "e":  "22"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(11,2) = 11!/(2!·9!) = 55.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-255",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Entre 12 finalistas, serão atribuídos 3 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                               "alternativas":  {
+                                                    "a":  "36",
+                                                    "b":  "1.728",
+                                                    "c":  "6",
+                                                    "d":  "220",
+                                                    "e":  "1.320"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(12,3) = 12!/9! = 1320.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-256",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "De um grupo de 6 estudantes, serão escolhidos 4 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                               "alternativas":  {
+                                                    "a":  "15,00",
+                                                    "b":  "1.296,00",
+                                                    "c":  "360,00",
+                                                    "d":  "16,50",
+                                                    "e":  "24,00"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(6,4) = 6!/(4!·2!) = 15.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-257",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Entre 7 finalistas, serão atribuídos 2 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                               "alternativas":  {
+                                                    "a":  "49",
+                                                    "b":  "42",
+                                                    "c":  "14",
+                                                    "d":  "21",
+                                                    "e":  "2"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(7,2) = 7!/5! = 42.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-258",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "De um grupo de 8 estudantes, serão escolhidos 3 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                               "alternativas":  {
+                                                    "a":  "6",
+                                                    "b":  "336",
+                                                    "c":  "56",
+                                                    "d":  "24",
+                                                    "e":  "512"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(8,3) = 8!/(3!·5!) = 56.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-259",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Entre 9 finalistas, serão atribuídos 4 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                               "alternativas":  {
+                                                    "a":  "126",
+                                                    "b":  "24",
+                                                    "c":  "36",
+                                                    "d":  "3.024",
+                                                    "e":  "6.561"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(9,4) = 9!/5! = 3024.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-260",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "De um grupo de 10 estudantes, serão escolhidos 2 para formar uma comissão sem cargos definidos. Quantas comissões diferentes podem ser formadas?",
+                               "alternativas":  {
+                                                    "a":  "100",
+                                                    "b":  "90",
+                                                    "c":  "2",
+                                                    "d":  "20",
+                                                    "e":  "45"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "Comissão sem cargos: a ordem não importa, então é combinação. C(10,2) = 10!/(2!·8!) = 45.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-261",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Entre 11 finalistas, serão atribuídos 3 cargos distintos. De quantas maneiras os cargos podem ser distribuídos?",
+                               "alternativas":  {
+                                                    "a":  "990",
+                                                    "b":  "6",
+                                                    "c":  "1.331",
+                                                    "d":  "165",
+                                                    "e":  "33"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Cargos distintos: a ordem importa, então é arranjo. A(11,3) = 11!/8! = 990.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-262",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma tarifa é modelada por f(x) = 2x + 5. Qual é o valor de f(3)?",
+                               "alternativas":  {
+                                                    "a":  "1",
+                                                    "b":  "10",
+                                                    "c":  "11",
+                                                    "d":  "16",
+                                                    "e":  "8"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Basta substituir x por 3 na lei da função: f(3) = 2×3 + 5 = 6 + 5 = 11. Numa função afim, 2 é a taxa de variação e 5 é o valor inicial.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-263",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma tarifa é modelada por f(x) = 4x + 7. Qual é o valor de f(5)?",
+                               "alternativas":  {
+                                                    "a":  "16",
+                                                    "b":  "13",
+                                                    "c":  "48",
+                                                    "d":  "12",
+                                                    "e":  "27"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "Basta substituir x por 5 na lei da função: f(5) = 4×5 + 7 = 20 + 7 = 27. Numa função afim, 4 é a taxa de variação e 7 é o valor inicial.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-264",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma tarifa é modelada por f(x) = 6x + 9. Qual é o valor de f(7)?",
+                               "alternativas":  {
+                                                    "a":  "96",
+                                                    "b":  "51",
+                                                    "c":  "16",
+                                                    "d":  "22",
+                                                    "e":  "33"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Basta substituir x por 7 na lei da função: f(7) = 6×7 + 9 = 42 + 9 = 51. Numa função afim, 6 é a taxa de variação e 9 é o valor inicial.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-265",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma tarifa é modelada por f(x) = 3x + 11. Qual é o valor de f(9)?",
+                               "alternativas":  {
+                                                    "a":  "23",
+                                                    "b":  "20",
+                                                    "c":  "60",
+                                                    "d":  "38",
+                                                    "e":  "16"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Basta substituir x por 9 na lei da função: f(9) = 3×9 + 11 = 27 + 11 = 38. Numa função afim, 3 é a taxa de variação e 11 é o valor inicial.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-266",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma tarifa é modelada por f(x) = 5x + 13. Qual é o valor de f(4)?",
+                               "alternativas":  {
+                                                    "a":  "33",
+                                                    "b":  "17",
+                                                    "c":  "85",
+                                                    "d":  "22",
+                                                    "e":  "7"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Basta substituir x por 4 na lei da função: f(4) = 5×4 + 13 = 20 + 13 = 33. Numa função afim, 5 é a taxa de variação e 13 é o valor inicial.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-267",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma tarifa é modelada por f(x) = 2x + 15. Qual é o valor de f(6)?",
+                               "alternativas":  {
+                                                    "a":  "-3",
+                                                    "b":  "42",
+                                                    "c":  "27",
+                                                    "d":  "23",
+                                                    "e":  "21"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Basta substituir x por 6 na lei da função: f(6) = 2×6 + 15 = 12 + 15 = 27. Numa função afim, 2 é a taxa de variação e 15 é o valor inicial.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-268",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma tarifa é modelada por f(x) = 4x + 17. Qual é o valor de f(8)?",
+                               "alternativas":  {
+                                                    "a":  "100",
+                                                    "b":  "29",
+                                                    "c":  "25",
+                                                    "d":  "15",
+                                                    "e":  "49"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "Basta substituir x por 8 na lei da função: f(8) = 4×8 + 17 = 32 + 17 = 49. Numa função afim, 4 é a taxa de variação e 17 é o valor inicial.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-269",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma tarifa é modelada por f(x) = 6x + 19. Qual é o valor de f(3)?",
+                               "alternativas":  {
+                                                    "a":  "-1",
+                                                    "b":  "37",
+                                                    "c":  "28",
+                                                    "d":  "22",
+                                                    "e":  "132"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Basta substituir x por 3 na lei da função: f(3) = 6×3 + 19 = 18 + 19 = 37. Numa função afim, 6 é a taxa de variação e 19 é o valor inicial.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-270",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma tarifa é modelada por f(x) = 3x + 21. Qual é o valor de f(5)?",
+                               "alternativas":  {
+                                                    "a":  "-6",
+                                                    "b":  "26",
+                                                    "c":  "78",
+                                                    "d":  "36",
+                                                    "e":  "29"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Basta substituir x por 5 na lei da função: f(5) = 3×5 + 21 = 15 + 21 = 36. Numa função afim, 3 é a taxa de variação e 21 é o valor inicial.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-271",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "dificil",
+                               "enunciado":  "Uma tarifa é modelada por f(x) = 5x + 23. Qual é o valor de f(7)?",
+                               "alternativas":  {
+                                                    "a":  "58",
+                                                    "b":  "150",
+                                                    "c":  "12",
+                                                    "d":  "30",
+                                                    "e":  "35"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Basta substituir x por 7 na lei da função: f(7) = 5×7 + 23 = 35 + 23 = 58. Numa função afim, 5 é a taxa de variação e 23 é o valor inicial.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-272",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma população de bactérias começa com 50 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 3 horas?",
+                               "alternativas":  {
+                                                    "a":  "450",
+                                                    "b":  "58",
+                                                    "c":  "400",
+                                                    "d":  "200",
+                                                    "e":  "300"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 50 × 2^3 = 400.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-273",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma população de bactérias começa com 70 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 5 horas?",
+                               "alternativas":  {
+                                                    "a":  "1.120",
+                                                    "b":  "1.750",
+                                                    "c":  "700",
+                                                    "d":  "102",
+                                                    "e":  "2.240"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 70 × 2^5 = 2.240.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-274",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma população de bactérias começa com 90 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 3 horas?",
+                               "alternativas":  {
+                                                    "a":  "540",
+                                                    "b":  "720",
+                                                    "c":  "810",
+                                                    "d":  "360",
+                                                    "e":  "98"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 90 × 2^3 = 720.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-275",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma população de bactérias começa com 110 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 5 horas?",
+                               "alternativas":  {
+                                                    "a":  "1.100",
+                                                    "b":  "2.750",
+                                                    "c":  "1.760",
+                                                    "d":  "3.520",
+                                                    "e":  "142"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 110 × 2^5 = 3.520.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-276",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma população de bactérias começa com 130 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 3 horas?",
+                               "alternativas":  {
+                                                    "a":  "1.040",
+                                                    "b":  "1.170",
+                                                    "c":  "138",
+                                                    "d":  "520",
+                                                    "e":  "780"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 130 × 2^3 = 1.040.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-277",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma população de bactérias começa com 150 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 5 horas?",
+                               "alternativas":  {
+                                                    "a":  "2.400",
+                                                    "b":  "3.750",
+                                                    "c":  "4.800",
+                                                    "d":  "182",
+                                                    "e":  "1.500"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 150 × 2^5 = 4.800.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-278",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma população de bactérias começa com 170 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 3 horas?",
+                               "alternativas":  {
+                                                    "a":  "1.530",
+                                                    "b":  "1.020",
+                                                    "c":  "680",
+                                                    "d":  "178",
+                                                    "e":  "1.360"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 170 × 2^3 = 1.360.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-279",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma população de bactérias começa com 190 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 5 horas?",
+                               "alternativas":  {
+                                                    "a":  "6.080",
+                                                    "b":  "1.900",
+                                                    "c":  "3.040",
+                                                    "d":  "222",
+                                                    "e":  "4.750"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 190 × 2^5 = 6.080.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-280",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma população de bactérias começa com 210 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 3 horas?",
+                               "alternativas":  {
+                                                    "a":  "840",
+                                                    "b":  "1.680",
+                                                    "c":  "1.890",
+                                                    "d":  "1.260",
+                                                    "e":  "218"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 210 × 2^3 = 1.680.",
+                               "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-281",
+                               "formato":  "direta",
+                               "tipoItem":  "modelagem",
+                               "dificuldade":  "media",
+                               "enunciado":  "Uma população de bactérias começa com 230 indivíduos e dobra a cada hora. Quantos indivíduos haverá após 5 horas?",
+                               "alternativas":  {
+                                                    "a":  "5.750",
+                                                    "b":  "2.300",
+                                                    "c":  "7.360",
+                                                    "d":  "262",
+                                                    "e":  "3.680"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 230 × 2^5 = 7.360.",
+                               "origem":  "banco-extra"
                            }
                        ]
 };
@@ -31998,6 +36198,256 @@ window.QUESTION_TEXTS = {
                        "fonte":  "Texto original em genero de artigo sobre arquivos e pesquisa historica",
                        "conteudo":  "Digitisation is usually presented as a way of preserving everything, and it has quietly become a way of selecting. What gets scanned is what somebody funds, and what somebody funds is generally what is already catalogued, already in a widely spoken language, already held by an institution with a grants [financiamentos] office.\n\nThe consequence is a second-order effect that is easy to miss. A researcher today searches rather than browses [folheia], and a document that cannot be found by a search is, for practical purposes, absent. So a digitised collection does not merely become more accessible than one that is not; it becomes the evidence, and the undigitised collection stops being cited — not because anybody judged it unimportant, but because nobody encountered it. Within a generation, the record of a period can come to reflect the funding decisions of a decade.\n\nThe distortion runs along predictable lines. Material in widely spoken languages, held in wealthy countries, produced by institutions rather than by individuals, is over-represented in every digital archive. Letters, local newspapers and administrative papers from elsewhere exist, are often in better physical condition than the digitised material, and are read by almost nobody.\n\nSome of the most useful recent projects have therefore inverted the priority, scanning the least visible holdings [acervos] first, on the argument that the well-known ones will be scanned eventually by somebody. It is a slower way to build an archive and a faster way to change what can be asked."
                    },
+    "xtr-ing-t01":  {
+                        "id":  "xtr-ing-t01",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "After the city introduced dedicated bus lanes, average travel time fell by twelve minutes. The lanes were initially controversial because they reduced space for private cars, yet surveys later showed that even some drivers valued the more predictable traffic flow."
+                    },
+    "xtr-ing-t02":  {
+                        "id":  "xtr-ing-t02",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "Researchers mapped street temperatures and found that blocks with mature trees were consistently cooler. The effect was strongest in areas with little shade from buildings, suggesting that planting strategies should reflect local urban form rather than follow a single citywide formula."
+                    },
+    "xtr-ing-t03":  {
+                        "id":  "xtr-ing-t03",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "A government portal released thousands of public datasets, but journalists struggled to use them because file formats varied widely. The agency then published common standards and explanatory notes, turning formal access into information that could actually be examined."
+                    },
+    "xtr-ing-t04":  {
+                        "id":  "xtr-ing-t04",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "A company allowed employees to work remotely three days a week. Productivity remained stable, while applications for vacant positions increased. Managers concluded that flexibility was valuable, but they also scheduled regular meetings to prevent newer workers from becoming isolated."
+                    },
+    "xtr-ing-t05":  {
+                        "id":  "xtr-ing-t05",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "An artificial intelligence system identified unusual patterns in medical images. Doctors used the alerts as a second opinion rather than a final diagnosis, because the system had been trained on data from only two hospitals and might not perform equally well elsewhere."
+                    },
+    "xtr-ing-t06":  {
+                        "id":  "xtr-ing-t06",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "A supermarket discounted food approaching its sell-by date and donated what remained. Waste decreased sharply, although staff needed new routines to inspect products and update prices. The results show that a simple idea may still depend on careful daily operations."
+                    },
+    "xtr-ing-t07":  {
+                        "id":  "xtr-ing-t07",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "A rural community built a solar microgrid that stores electricity in batteries. During a storm, the national network failed, but the clinic kept its refrigerators running. The project did not eliminate every outage, yet it improved resilience for essential services."
+                    },
+    "xtr-ing-t08":  {
+                        "id":  "xtr-ing-t08",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "The library stopped charging late fees for children\u0027s books. Returns did not decline, and many families who had avoided the building came back. Librarians argued that reminders and replacement plans worked better than penalties for restoring access."
+                    },
+    "xtr-ing-t09":  {
+                        "id":  "xtr-ing-t09",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "Volunteers photographed insects in urban gardens and uploaded the images to a research platform. Scientists verified the records before using them, combining broad public participation with professional quality control."
+                    },
+    "xtr-ing-t10":  {
+                        "id":  "xtr-ing-t10",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "Marine biologists attached nursery-grown coral fragments to damaged reefs. Survival was higher where local fishing communities helped choose protected sites, indicating that ecological restoration also depends on social cooperation."
+                    },
+    "xtr-ing-t11":  {
+                        "id":  "xtr-ing-t11",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "Students using a language app practiced more often, but those who also held weekly conversations improved their speaking more rapidly. The app was useful for repetition; interaction supplied the uncertainty and feedback of real communication."
+                    },
+    "xtr-ing-t12":  {
+                        "id":  "xtr-ing-t12",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "A court required an agency to explain how an automated system ranked benefit applications. Officials feared that disclosure would make the tool easier to manipulate, while advocates argued that decisions affecting rights must be open to challenge."
+                    },
+    "xtr-ing-t13":  {
+                        "id":  "xtr-ing-t13",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "A local newspaper replaced daily print delivery with a weekly edition and invested in neighborhood reporters. Online readership grew, but editors kept a small print run for residents with limited internet access."
+                    },
+    "xtr-ing-t14":  {
+                        "id":  "xtr-ing-t14",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "As the population aged, the town redesigned crossings to allow more time for pedestrians. Shop owners first worried about slower traffic, but later noticed that safer streets brought more older customers to the commercial center."
+                    },
+    "xtr-ing-t15":  {
+                        "id":  "xtr-ing-t15",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "A delivery company tested reusable containers that customers returned on the next order. The packaging lasted many cycles, but the environmental benefit depended on efficient collection routes and high return rates."
+                    },
+    "xtr-ing-t16":  {
+                        "id":  "xtr-ing-t16",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "A school added counselors after teachers reported rising anxiety among students. Waiting times decreased, yet the counselors also trained teachers to recognize warning signs, extending support beyond the counseling office."
+                    },
+    "xtr-ing-t17":  {
+                        "id":  "xtr-ing-t17",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "Newcomers to the city created businesses that served both immigrant and long-term residents. Their shops introduced unfamiliar products while also adapting recipes and services to local tastes."
+                    },
+    "xtr-ing-t18":  {
+                        "id":  "xtr-ing-t18",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "A market accepted only digital payments for one month. Transactions became faster, but some elderly customers needed assistance and a few vendors restored a cash option to avoid excluding them."
+                    },
+    "xtr-ing-t19":  {
+                        "id":  "xtr-ing-t19",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "Health officials held public meetings about a new vaccine. Attendance was modest, but participants who spoke directly with nurses were more willing to schedule appointments than those who received leaflets alone."
+                    },
+    "xtr-ing-t20":  {
+                        "id":  "xtr-ing-t20",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "A museum digitized fragile manuscripts so visitors could zoom in on details. Curators emphasized that the digital copies expanded access but did not replace the material information contained in paper, ink, and binding."
+                    },
+    "xtr-ing-t21":  {
+                        "id":  "xtr-ing-t21",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "Farmers used satellite images to identify fields under water stress. The images did not tell them why plants were suffering, so they combined remote data with soil inspections before changing irrigation."
+                    },
+    "xtr-ing-t22":  {
+                        "id":  "xtr-ing-t22",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "During heatwaves, the city opened air-conditioned public buildings at night. Usage was highest in neighborhoods where community groups contacted isolated residents, showing that a service must be both available and actively connected to its users."
+                    },
+    "xtr-ing-t23":  {
+                        "id":  "xtr-ing-t23",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "A region introduced higher water prices only for consumption above a basic household allowance. Overall use fell, while low-income families using modest amounts saw little change in their bills."
+                    },
+    "xtr-ing-t24":  {
+                        "id":  "xtr-ing-t24",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "An online course offered recorded lectures and live discussion groups. Completion rates were higher among students who joined the discussions, even though all participants had access to the same videos."
+                    },
+    "xtr-ing-t25":  {
+                        "id":  "xtr-ing-t25",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "A repair law required manufacturers to provide manuals and spare parts. Supporters said it would reduce waste, while companies warned that poorly trained repairs could create safety risks. The debate focused on access as well as responsibility."
+                    },
+    "xtr-ing-t26":  {
+                        "id":  "xtr-ing-t26",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "Two forest reserves were connected by a restored strip of vegetation. Cameras later recorded animals moving between them, although researchers cautioned that a corridor cannot compensate for continued habitat loss elsewhere."
+                    },
+    "xtr-ing-t27":  {
+                        "id":  "xtr-ing-t27",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "A science podcast linked every episode to sources and published corrections when guests made errors. Its audience grew slowly, but teachers began assigning episodes because the production made its evidence visible."
+                    },
+    "xtr-ing-t28":  {
+                        "id":  "xtr-ing-t28",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "A firm tested a four-day week without reducing salaries. Meetings became shorter and sick leave declined, but the model worked only after teams redesigned deadlines rather than compressing five days of work into four."
+                    },
+    "xtr-ing-t29":  {
+                        "id":  "xtr-ing-t29",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "Electric buses eliminated exhaust emissions along their routes, yet the city still had to consider how the electricity was generated and how batteries would be recycled. The evaluation therefore extended beyond the vehicles themselves."
+                    },
+    "xtr-ing-t30":  {
+                        "id":  "xtr-ing-t30",
+                        "fonte":  "Texto autoral curto em ingles, no registro jornalistico/institucional da banca",
+                        "conteudo":  "A false story spread rapidly because its headline confirmed what many readers already believed. Corrections reached fewer people, so the platform tested prompts that asked users to open articles before sharing them."
+                    },
+    "xtr-int-t01":  {
+                        "id":  "xtr-int-t01",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "A biblioteca ampliou o horário de funcionamento, mas o número de empréstimos só cresceu depois que os moradores passaram a participar da escolha de novos títulos."
+                    },
+    "xtr-int-t02":  {
+                        "id":  "xtr-int-t02",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "No bairro, as árvores antigas não aparecem apenas nas fotografias. Elas reduzem o calor nas calçadas e fazem com que os moradores permaneçam mais tempo nos espaços públicos."
+                    },
+    "xtr-int-t03":  {
+                        "id":  "xtr-int-t03",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "O aplicativo prometia economizar tempo. Depois de três atualizações, passou a exigir tantos passos para uma tarefa simples que alguns usuários voltaram ao caderno de papel."
+                    },
+    "xtr-int-t04":  {
+                        "id":  "xtr-int-t04",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "Quando a chuva começou, a praça esvaziou. Minutos depois, crianças transformaram as poças em pistas de corrida, e o lugar voltou a ser ocupado de outro modo."
+                    },
+    "xtr-int-t05":  {
+                        "id":  "xtr-int-t05",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "O relatório apresentava muitos números, porém escondia o critério usado para escolher quais dados seriam divulgados. Sem esse critério, a precisão aparente pouco esclarecia."
+                    },
+    "xtr-int-t06":  {
+                        "id":  "xtr-int-t06",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "A feira de ciências premiou um filtro de água feito com materiais simples. O destaque não veio da aparência do protótipo, mas da clareza com que os estudantes explicaram seus limites."
+                    },
+    "xtr-int-t07":  {
+                        "id":  "xtr-int-t07",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "Toda semana, o ônibus chegava lotado ao terminal. A empresa aumentou a frota no horário de pico, e a fila diminuiu sem que o preço da passagem fosse alterado."
+                    },
+    "xtr-int-t08":  {
+                        "id":  "xtr-int-t08",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "O museu retirou as legendas técnicas de uma sala e ofereceu versões em linguagem simples e em áudio. A visita ficou mais acessível, embora nenhum objeto tenha sido substituído."
+                    },
+    "xtr-int-t09":  {
+                        "id":  "xtr-int-t09",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "Os moradores queriam silêncio, os comerciantes queriam movimento, e ambos diziam defender a praça. A reunião avançou quando perceberam que discutiam horários diferentes, não objetivos totalmente incompatíveis."
+                    },
+    "xtr-int-t10":  {
+                        "id":  "xtr-int-t10",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "A escola instalou painéis solares e reduziu a conta de energia. O projeto só se tornou pedagógico, porém, quando os estudantes passaram a acompanhar a produção e o consumo mensal."
+                    },
+    "xtr-int-t11":  {
+                        "id":  "xtr-int-t11",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "O jornal publicou a correção na página seguinte, mas a informação equivocada continuou circulando em capturas de tela. Na internet, corrigir não significa necessariamente interromper o erro."
+                    },
+    "xtr-int-t12":  {
+                        "id":  "xtr-int-t12",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "A pesquisadora repetiu o experimento e obteve resultado diferente. Em vez de esconder a divergência, refez as medidas e descobriu uma falha no instrumento."
+                    },
+    "xtr-int-t13":  {
+                        "id":  "xtr-int-t13",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "O condomínio criou uma horta coletiva. No começo, poucos participaram; depois, a distribuição das tarefas por turnos permitiu que pessoas com rotinas distintas colaborassem."
+                    },
+    "xtr-int-t14":  {
+                        "id":  "xtr-int-t14",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "A ponte encurtou o trajeto entre as cidades, mas também desviou o fluxo de veículos do comércio antigo. A mesma obra integrou a região e redistribuiu seus benefícios."
+                    },
+    "xtr-int-t15":  {
+                        "id":  "xtr-int-t15",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "A professora pediu que a turma comparasse duas notícias sobre o mesmo fato. As diferenças mais importantes não estavam nos dados, e sim nos títulos e nas fontes ouvidas."
+                    },
+    "xtr-int-t16":  {
+                        "id":  "xtr-int-t16",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "O parque proibiu copos descartáveis, mas instalou poucos bebedouros. A medida reduziu resíduos apenas depois que novos pontos de água foram abertos."
+                    },
+    "xtr-int-t17":  {
+                        "id":  "xtr-int-t17",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "O grupo ensaiou durante meses e apresentou uma peça sem cenário. A ausência não parecia falta: os movimentos dos atores construíam os lugares imaginados pelo público."
+                    },
+    "xtr-int-t18":  {
+                        "id":  "xtr-int-t18",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "A cidade divulgou um mapa de risco de enchentes. Moradores de áreas vulneráveis, porém, não receberam orientação sobre rotas de saída nem pontos de abrigo."
+                    },
+    "xtr-int-t19":  {
+                        "id":  "xtr-int-t19",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "O atleta reduziu a intensidade dos treinos durante uma semana. Não desistira da competição: seguia uma estratégia de recuperação para evitar lesões."
+                    },
+    "xtr-int-t20":  {
+                        "id":  "xtr-int-t20",
+                        "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                        "conteudo":  "A exposição reuniu objetos cotidianos de diferentes décadas. Ao lado deles, depoimentos mostravam que o valor de cada peça vinha menos do material e mais das histórias associadas a ela."
+                    },
     "lit-c1-cortico":  {
                            "id":  "lit-c1-cortico",
                            "fonte":  "Dossie original sobre O Cortico, de Aluisio Azevedo (1890)",

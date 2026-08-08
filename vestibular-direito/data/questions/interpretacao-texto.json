@@ -2370,6 +2370,1188 @@
                          "explicacao":  "A proposta de manter a estátua acompanhada de uma placa explicativa busca equilibrar as duas posições em disputa: preservar a memória histórica e, ao mesmo tempo, contextualizar criticamente o que o monumento representa, sem simplesmente remover ou manter sem revisão.",
                          "dificuldade":  "dificil",
                          "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-151",
+                         "textoId":  "xtr-int-t01",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "O acesso melhora quando horário e participação do público são considerados em conjunto",
+                                              "b":  "A escolha dos novos títulos coube exclusivamente aos bibliotecários",
+                                              "c":  "A biblioteca precisou reduzir o horário para atrair novos leitores",
+                                              "d":  "A ampliação do horário foi, sozinha, responsável pelo aumento dos empréstimos",
+                                              "e":  "A biblioteca concluiu que a participação do público na escolha do acervo não altera o uso do serviço"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O trecho sustenta: O acesso melhora quando horário e participação do público são considerados em conjunto. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-152",
+                         "textoId":  "xtr-int-t01",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "O número de empréstimos permaneceu estável durante todo o período",
+                                              "b":  "A simples ampliação do horário não foi suficiente para aumentar os empréstimos",
+                                              "c":  "A biblioteca concluiu que a participação do público na escolha do acervo não altera o uso do serviço",
+                                              "d":  "O aumento dos empréstimos foi registrado antes de os moradores participarem da escolha dos títulos",
+                                              "e":  "A escolha dos novos títulos coube exclusivamente aos bibliotecários"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O trecho sustenta: A simples ampliação do horário não foi suficiente para aumentar os empréstimos. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-153",
+                         "textoId":  "xtr-int-t01",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "conclusão anunciada antes dos dados que a sustentam",
+                                              "b":  "descrição de um cenário sem marcas de posicionamento",
+                                              "c":  "contraste introduzido pela conjunção mas",
+                                              "d":  "uso de dados numéricos para dimensionar o problema",
+                                              "e":  "paralelismo entre duas estruturas sintáticas idênticas"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A estratégia empregada é: contraste introduzido pela conjunção mas. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-154",
+                         "textoId":  "xtr-int-t02",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "As árvores foram removidas para ampliar a circulação de veículos",
+                                              "b":  "A temperatura das calçadas se manteve igual nos trechos com e sem árvores antigas do bairro",
+                                              "c":  "A temperatura das calçadas depende exclusivamente do tipo de pavimento",
+                                              "d":  "A arborização interfere tanto no ambiente quanto no uso social das ruas",
+                                              "e":  "O calor nas calçadas aumentou nos trechos arborizados"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O trecho sustenta: A arborização interfere tanto no ambiente quanto no uso social das ruas. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-155",
+                         "textoId":  "xtr-int-t02",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "A temperatura das calçadas se manteve igual nos trechos com e sem árvores antigas do bairro",
+                                              "b":  "Os moradores passaram a evitar as ruas arborizadas por causa do sombreamento excessivo das calçadas",
+                                              "c":  "A permanência nos espaços públicos diminuiu depois do plantio",
+                                              "d":  "As árvores antigas têm valor apenas documental, registrado em fotografias",
+                                              "e":  "A permanência nos espaços públicos pode ser favorecida pelo conforto térmico"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O trecho sustenta: A permanência nos espaços públicos pode ser favorecida pelo conforto térmico. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-156",
+                         "textoId":  "xtr-int-t02",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "articulação entre exemplo concreto e consequência",
+                                              "b":  "citação de autoridade para sustentar a afirmação",
+                                              "c":  "hipótese apresentada e em seguida descartada",
+                                              "d":  "paralelismo entre duas estruturas sintáticas idênticas",
+                                              "e":  "alternância entre discurso direto e discurso indireto"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A estratégia empregada é: articulação entre exemplo concreto e consequência. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-157",
+                         "textoId":  "xtr-int-t03",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "As atualizações simplificaram tanto a navegação que o retorno ao caderno de papel deixou de fazer sentido",
+                                              "b":  "Uma tecnologia pode contrariar sua própria promessa de eficiência",
+                                              "c":  "O caderno de papel passou a exigir mais passos que o aplicativo",
+                                              "d":  "As atualizações reduziram o número de etapas de cada tarefa",
+                                              "e":  "A rejeição do aplicativo veio da falta de atualizações, e não do número de etapas exigidas"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O trecho sustenta: Uma tecnologia pode contrariar sua própria promessa de eficiência. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-158",
+                         "textoId":  "xtr-int-t03",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "As atualizações reduziram o número de etapas de cada tarefa",
+                                              "b":  "A rejeição decorreu do preço cobrado pelas novas versões",
+                                              "c":  "A quantidade de etapas influenciou a rejeição do aplicativo",
+                                              "d":  "Os usuários abandonaram o caderno de papel após a terceira atualização",
+                                              "e":  "O aplicativo cumpriu integralmente a promessa de economizar tempo"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O trecho sustenta: A quantidade de etapas influenciou a rejeição do aplicativo. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-159",
+                         "textoId":  "xtr-int-t03",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "enumeração de exemplos em ordem crescente de importância",
+                                              "b":  "definição técnica seguida de sua aplicação prática",
+                                              "c":  "citação de autoridade para sustentar a afirmação",
+                                              "d":  "ironia produzida pelo contraste entre promessa e resultado",
+                                              "e":  "pergunta retórica respondida no período seguinte"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A estratégia empregada é: ironia produzida pelo contraste entre promessa e resultado. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-160",
+                         "textoId":  "xtr-int-t04",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "As condições climáticas daquela tarde eliminaram qualquer possibilidade de uso do espaço público",
+                                              "b":  "A chuva impediu qualquer uso da praça naquele dia",
+                                              "c":  "As crianças deixaram a praça assim que as poças se formaram",
+                                              "d":  "A ocupação da praça permaneceu a mesma antes e depois da chuva",
+                                              "e":  "Os usos do espaço podem mudar diante de uma mesma condição"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O trecho sustenta: Os usos do espaço podem mudar diante de uma mesma condição. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-161",
+                         "textoId":  "xtr-int-t04",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "A chuva não eliminou toda forma de convivência na praça",
+                                              "b":  "As corridas nas poças aconteceram antes de a chuva começar",
+                                              "c":  "O esvaziamento da praça resultou de uma interdição da prefeitura",
+                                              "d":  "A praça ficou vazia até o fim da chuva, quando os frequentadores voltaram ao mesmo uso de antes",
+                                              "e":  "A ocupação da praça permaneceu a mesma antes e depois da chuva"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O trecho sustenta: A chuva não eliminou toda forma de convivência na praça. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-162",
+                         "textoId":  "xtr-int-t04",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "gradação que intensifica a mesma ideia em três etapas",
+                                              "b":  "sequência temporal que mostra mudança de perspectiva",
+                                              "c":  "descrição de um cenário sem marcas de posicionamento",
+                                              "d":  "retomada de um termo por sinônimo ao longo do parágrafo",
+                                              "e":  "enumeração de exemplos em ordem crescente de importância"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A estratégia empregada é: sequência temporal que mostra mudança de perspectiva. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-163",
+                         "textoId":  "xtr-int-t05",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "O critério de seleção dos dados foi divulgado junto com o relatório",
+                                              "b":  "O problema apontado é um erro de cálculo nos dados divulgados",
+                                              "c":  "Dados sem transparência metodológica podem produzir uma aparência enganosa de precisão",
+                                              "d":  "A quantidade de números apresentada foi suficiente para tornar transparente o critério de seleção",
+                                              "e":  "A precisão dos números garantiu a clareza das conclusões"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O trecho sustenta: Dados sem transparência metodológica podem produzir uma aparência enganosa de precisão. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-164",
+                         "textoId":  "xtr-int-t05",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "O problema apontado é um erro de cálculo nos dados divulgados",
+                                              "b":  "A precisão do relatório ficou assegurada pelo grande volume de dados que ele conseguiu reunir",
+                                              "c":  "A quantidade de números apresentada foi suficiente para tornar transparente o critério de seleção",
+                                              "d":  "A seleção dos dados interfere na interpretação do relatório",
+                                              "e":  "O relatório apresentava poucos dados, o que comprometeu sua precisão"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O trecho sustenta: A seleção dos dados interfere na interpretação do relatório. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-165",
+                         "textoId":  "xtr-int-t05",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "uso de dados numéricos para dimensionar o problema",
+                                              "b":  "paralelismo entre duas estruturas sintáticas idênticas",
+                                              "c":  "descrição de um cenário sem marcas de posicionamento",
+                                              "d":  "conclusão anunciada antes dos dados que a sustentam",
+                                              "e":  "oposição entre quantidade de números e qualidade da explicação"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A estratégia empregada é: oposição entre quantidade de números e qualidade da explicação. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-166",
+                         "textoId":  "xtr-int-t06",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "Reconhecer limites faz parte de uma boa comunicação científica",
+                                              "b":  "A premiação desconsiderou a explicação apresentada pelos estudantes",
+                                              "c":  "Apontar as limitações do protótipo reduziu as chances de o projeto ser premiado na feira",
+                                              "d":  "A banca premiou o protótipo apesar de os estudantes não explicarem como o filtro funcionava",
+                                              "e":  "O projeto foi desclassificado por reconhecer as próprias limitações"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O trecho sustenta: Reconhecer limites faz parte de uma boa comunicação científica. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-167",
+                         "textoId":  "xtr-int-t06",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "Os estudantes omitiram os limites do filtro na apresentação",
+                                              "b":  "O projeto foi valorizado por sua explicação, não apenas pelo objeto construído",
+                                              "c":  "O prêmio foi atribuído à aparência sofisticada do protótipo",
+                                              "d":  "O filtro foi construído com materiais caros e de difícil acesso",
+                                              "e":  "Apontar as limitações do protótipo reduziu as chances de o projeto ser premiado na feira"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O trecho sustenta: O projeto foi valorizado por sua explicação, não apenas pelo objeto construído. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-168",
+                         "textoId":  "xtr-int-t06",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "paralelismo entre duas estruturas sintáticas idênticas",
+                                              "b":  "alternância entre discurso direto e discurso indireto",
+                                              "c":  "correção de expectativa por meio da estrutura não... mas",
+                                              "d":  "citação de autoridade para sustentar a afirmação",
+                                              "e":  "hipótese apresentada e em seguida descartada"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A estratégia empregada é: correção de expectativa por meio da estrutura não... mas. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-169",
+                         "textoId":  "xtr-int-t07",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "A fila diminuiu porque o preço da passagem foi aumentado",
+                                              "b":  "A lotação no terminal não tinha relação com a quantidade de ônibus em circulação no pico",
+                                              "c":  "A empresa reduziu a frota para diminuir custos operacionais",
+                                              "d":  "Uma mudança operacional pode melhorar o serviço sem elevar o preço",
+                                              "e":  "A diminuição da fila só ocorreu depois que a empresa reajustou o preço da passagem no horário de pico"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O trecho sustenta: Uma mudança operacional pode melhorar o serviço sem elevar o preço. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-170",
+                         "textoId":  "xtr-int-t07",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "A lotação permaneceu inalterada depois da mudança",
+                                              "b":  "A frota foi ampliada em todos os horários do dia",
+                                              "c":  "A diminuição da fila só ocorreu depois que a empresa reajustou o preço da passagem no horário de pico",
+                                              "d":  "A empresa reduziu a frota para diminuir custos operacionais",
+                                              "e":  "A lotação estava relacionada à oferta insuficiente no horário de pico"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O trecho sustenta: A lotação estava relacionada à oferta insuficiente no horário de pico. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-171",
+                         "textoId":  "xtr-int-t07",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "relação de causa e efeito sustentada por uma intervenção",
+                                              "b":  "enumeração de exemplos em ordem crescente de importância",
+                                              "c":  "citação de autoridade para sustentar a afirmação",
+                                              "d":  "pergunta retórica respondida no período seguinte",
+                                              "e":  "definição técnica seguida de sua aplicação prática"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A estratégia empregada é: relação de causa e efeito sustentada por uma intervenção. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-172",
+                         "textoId":  "xtr-int-t08",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "As versões em áudio foram descartadas por falta de público",
+                                              "b":  "A acessibilidade também depende da forma de apresentar a informação",
+                                              "c":  "A acessibilidade dependeu da renovação completa do acervo",
+                                              "d":  "A troca das legendas por versões em linguagem simples exigiu a substituição de parte das peças expostas",
+                                              "e":  "O museu substituiu os objetos da sala por réplicas mais simples"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O trecho sustenta: A acessibilidade também depende da forma de apresentar a informação. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-173",
+                         "textoId":  "xtr-int-t08",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "A acessibilidade da sala passou a depender do acervo exposto, e não da forma de apresentá-lo",
+                                              "b":  "A troca das legendas por versões em linguagem simples exigiu a substituição de parte das peças expostas",
+                                              "c":  "Mudanças de mediação podem ampliar o público sem alterar o acervo",
+                                              "d":  "As legendas técnicas foram mantidas ao lado das novas versões",
+                                              "e":  "A acessibilidade dependeu da renovação completa do acervo"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O trecho sustenta: Mudanças de mediação podem ampliar o público sem alterar o acervo. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-174",
+                         "textoId":  "xtr-int-t08",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "gradação que intensifica a mesma ideia em três etapas",
+                                              "b":  "enumeração de exemplos em ordem crescente de importância",
+                                              "c":  "retomada de um termo por sinônimo ao longo do parágrafo",
+                                              "d":  "concessão marcada por embora",
+                                              "e":  "descrição de um cenário sem marcas de posicionamento"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A estratégia empregada é: concessão marcada por embora. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-175",
+                         "textoId":  "xtr-int-t09",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "Os comerciantes desistiram de usar a praça",
+                                              "b":  "Moradores e comerciantes disputavam exatamente o mesmo horário",
+                                              "c":  "O impasse decorria de discordância sobre a propriedade do terreno",
+                                              "d":  "A reunião avançou quando os dois grupos abandonaram suas reivindicações iniciais sobre o uso da praça",
+                                              "e":  "Conflitos podem ser reduzidos quando se identifica com precisão o ponto de divergência"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O trecho sustenta: Conflitos podem ser reduzidos quando se identifica com precisão o ponto de divergência. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-176",
+                         "textoId":  "xtr-int-t09",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "Os grupos compartilhavam parte de seus objetivos",
+                                              "b":  "A reunião avançou quando os dois grupos abandonaram suas reivindicações iniciais sobre o uso da praça",
+                                              "c":  "Moradores e comerciantes defendiam projetos incompatíveis para o mesmo horário de uso da praça",
+                                              "d":  "Os dois grupos concluíram que seus objetivos eram totalmente incompatíveis",
+                                              "e":  "A reunião terminou sem que nenhuma divergência fosse identificada"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O trecho sustenta: Os grupos compartilhavam parte de seus objetivos. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-177",
+                         "textoId":  "xtr-int-t09",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "paralelismo entre duas estruturas sintáticas idênticas",
+                                              "b":  "reformulação que desfaz uma falsa oposição",
+                                              "c":  "uso de dados numéricos para dimensionar o problema",
+                                              "d":  "conclusão anunciada antes dos dados que a sustentam",
+                                              "e":  "descrição de um cenário sem marcas de posicionamento"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A estratégia empregada é: reformulação que desfaz uma falsa oposição. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-178",
+                         "textoId":  "xtr-int-t10",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "O acompanhamento mensal substituiu a geração de energia",
+                                              "b":  "A instalação dos painéis, por si só, garantiu o efeito pedagógico",
+                                              "c":  "Uma infraestrutura se torna recurso educativo quando é integrada à aprendizagem",
+                                              "d":  "A economia na conta de energia foi suficiente para transformar a instalação em atividade pedagógica",
+                                              "e":  "O caráter pedagógico do projeto veio da potência instalada, e não do acompanhamento dos dados"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O trecho sustenta: Uma infraestrutura se torna recurso educativo quando é integrada à aprendizagem. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-179",
+                         "textoId":  "xtr-int-t10",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "A economia na conta de energia foi suficiente para transformar a instalação em atividade pedagógica",
+                                              "b":  "A instalação dos painéis, por si só, garantiu o efeito pedagógico",
+                                              "c":  "Os estudantes foram impedidos de acompanhar os dados de consumo",
+                                              "d":  "A instalação dos painéis, isoladamente, não garantia efeito pedagógico",
+                                              "e":  "A conta de energia aumentou depois da instalação"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O trecho sustenta: A instalação dos painéis, isoladamente, não garantia efeito pedagógico. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-180",
+                         "textoId":  "xtr-int-t10",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "citação de autoridade para sustentar a afirmação",
+                                              "b":  "alternância entre discurso direto e discurso indireto",
+                                              "c":  "hipótese apresentada e em seguida descartada",
+                                              "d":  "paralelismo entre duas estruturas sintáticas idênticas",
+                                              "e":  "restrição introduzida pelo advérbio porém"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A estratégia empregada é: restrição introduzida pelo advérbio porém. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-181",
+                         "textoId":  "xtr-int-t11",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "A circulação digital pode prolongar informações mesmo após uma correção",
+                                              "b":  "As capturas de tela reproduziam a versão já corrigida",
+                                              "c":  "O jornal se recusou a publicar qualquer correção",
+                                              "d":  "A correção interrompeu imediatamente a circulação do erro",
+                                              "e":  "As capturas de tela funcionaram como forma eficiente de divulgar a correção publicada"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O trecho sustenta: A circulação digital pode prolongar informações mesmo após uma correção. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-182",
+                         "textoId":  "xtr-int-t11",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "A publicação da correção na página seguinte encerrou a circulação da versão equivocada da notícia",
+                                              "b":  "Capturas de tela dificultaram a substituição da versão errada",
+                                              "c":  "As capturas de tela reproduziam a versão já corrigida",
+                                              "d":  "A informação equivocada circulou apenas na edição impressa",
+                                              "e":  "A correção saiu na mesma página da notícia original"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O trecho sustenta: Capturas de tela dificultaram a substituição da versão errada. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-183",
+                         "textoId":  "xtr-int-t11",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "definição técnica seguida de sua aplicação prática",
+                                              "b":  "pergunta retórica respondida no período seguinte",
+                                              "c":  "generalização final construída a partir de um caso",
+                                              "d":  "citação de autoridade para sustentar a afirmação",
+                                              "e":  "enumeração de exemplos em ordem crescente de importância"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A estratégia empregada é: generalização final construída a partir de um caso. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-184",
+                         "textoId":  "xtr-int-t12",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "O experimento foi abandonado depois do resultado divergente",
+                                              "b":  "A repetição confirmou exatamente o primeiro resultado",
+                                              "c":  "A divergência foi atribuída ao acaso e não foi investigada",
+                                              "d":  "A revisão de resultados é parte do método científico",
+                                              "e":  "A falha estava na formulação da hipótese, não no instrumento"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O trecho sustenta: A revisão de resultados é parte do método científico. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-185",
+                         "textoId":  "xtr-int-t12",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "A divergência entre as medidas foi causada por um erro na formulação da hipótese inicial",
+                                              "b":  "A pesquisadora manteve o resultado divergente sem investigá-lo, por considerá-lo variação aceitável",
+                                              "c":  "A pesquisadora ocultou a divergência entre os resultados",
+                                              "d":  "O experimento foi abandonado depois do resultado divergente",
+                                              "e":  "A divergência levou à identificação de um problema de medição"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O trecho sustenta: A divergência levou à identificação de um problema de medição. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-186",
+                         "textoId":  "xtr-int-t12",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "oposição entre ocultar o problema e investigá-lo",
+                                              "b":  "retomada de um termo por sinônimo ao longo do parágrafo",
+                                              "c":  "enumeração de exemplos em ordem crescente de importância",
+                                              "d":  "gradação que intensifica a mesma ideia em três etapas",
+                                              "e":  "descrição de um cenário sem marcas de posicionamento"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A estratégia empregada é: oposição entre ocultar o problema e investigá-lo. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-187",
+                         "textoId":  "xtr-int-t13",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "A adesão à horta foi imediata e a divisão por turnos precisou ser abandonada por falta de necessidade",
+                                              "b":  "A organização das tarefas pode ampliar a participação coletiva",
+                                              "c":  "A baixa participação inicial decorreu do custo das mudas",
+                                              "d":  "A baixa participação inicial se explicava pelo desinteresse dos moradores por atividades coletivas",
+                                              "e":  "As tarefas passaram a ser executadas por um único morador"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O trecho sustenta: A organização das tarefas pode ampliar a participação coletiva. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-188",
+                         "textoId":  "xtr-int-t13",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "A participação foi alta desde o primeiro dia da horta",
+                                              "b":  "A divisão por turnos afastou os moradores de rotinas distintas",
+                                              "c":  "A baixa participação inicial estava ligada à dificuldade de conciliar rotinas",
+                                              "d":  "A baixa participação inicial se explicava pelo desinteresse dos moradores por atividades coletivas",
+                                              "e":  "A horta foi encerrada por falta de interessados"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O trecho sustenta: A baixa participação inicial estava ligada à dificuldade de conciliar rotinas. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-189",
+                         "textoId":  "xtr-int-t13",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "descrição de um cenário sem marcas de posicionamento",
+                                              "b":  "paralelismo entre duas estruturas sintáticas idênticas",
+                                              "c":  "conclusão anunciada antes dos dados que a sustentam",
+                                              "d":  "progressão temporal com mudança de resultado",
+                                              "e":  "uso de dados numéricos para dimensionar o problema"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A estratégia empregada é: progressão temporal com mudança de resultado. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-190",
+                         "textoId":  "xtr-int-t14",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "A obra produziu efeitos idênticos nos dois lados da região que ela passou a conectar",
+                                              "b":  "A ponte distribuiu os benefícios da integração de forma equivalente entre todos os pontos da região",
+                                              "c":  "A ponte beneficiou igualmente todos os pontos da região",
+                                              "d":  "O comércio antigo passou a receber mais veículos depois da obra",
+                                              "e":  "Uma obra de infraestrutura pode gerar efeitos positivos e perdas distribuídos de modo desigual"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O trecho sustenta: Uma obra de infraestrutura pode gerar efeitos positivos e perdas distribuídos de modo desigual. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-191",
+                         "textoId":  "xtr-int-t14",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "A redução da distância não beneficiou todos os locais da mesma maneira",
+                                              "b":  "A integração regional ocorreu sem qualquer alteração no fluxo",
+                                              "c":  "A ponte foi construída para atender exclusivamente o comércio antigo",
+                                              "d":  "O comércio antigo passou a receber mais veículos depois da obra",
+                                              "e":  "A ponte distribuiu os benefícios da integração de forma equivalente entre todos os pontos da região"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O trecho sustenta: A redução da distância não beneficiou todos os locais da mesma maneira. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-192",
+                         "textoId":  "xtr-int-t14",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "hipótese apresentada e em seguida descartada",
+                                              "b":  "apresentação de efeitos simultâneos e contrastantes",
+                                              "c":  "citação de autoridade para sustentar a afirmação",
+                                              "d":  "paralelismo entre duas estruturas sintáticas idênticas",
+                                              "e":  "alternância entre discurso direto e discurso indireto"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A estratégia empregada é: apresentação de efeitos simultâneos e contrastantes. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-193",
+                         "textoId":  "xtr-int-t15",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "As duas notícias tratavam de fatos distintos",
+                                              "b":  "A comparação mostrou que as fontes ouvidas eram as mesmas",
+                                              "c":  "A seleção e o enquadramento das informações influenciam a construção da notícia",
+                                              "d":  "A comparação mostrou que as duas notícias diferiam principalmente nos dados numéricos apresentados",
+                                              "e":  "As diferenças mais importantes estavam nos dados apresentados"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O trecho sustenta: A seleção e o enquadramento das informações influenciam a construção da notícia. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-194",
+                         "textoId":  "xtr-int-t15",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "O título e a escolha das fontes pouco interferiram na compreensão do fato pelas duas turmas",
+                                              "b":  "A comparação mostrou que as duas notícias diferiam principalmente nos dados numéricos apresentados",
+                                              "c":  "A atividade concluiu que notícias sobre um mesmo fato se equivalem",
+                                              "d":  "Textos podem divergir mesmo quando compartilham dados básicos",
+                                              "e":  "A comparação mostrou que as fontes ouvidas eram as mesmas"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O trecho sustenta: Textos podem divergir mesmo quando compartilham dados básicos. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-195",
+                         "textoId":  "xtr-int-t15",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "citação de autoridade para sustentar a afirmação",
+                                              "b":  "pergunta retórica respondida no período seguinte",
+                                              "c":  "definição técnica seguida de sua aplicação prática",
+                                              "d":  "enumeração de exemplos em ordem crescente de importância",
+                                              "e":  "comparação entre elementos explícitos e escolhas editoriais"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A estratégia empregada é: comparação entre elementos explícitos e escolhas editoriais. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-196",
+                         "textoId":  "xtr-int-t16",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "Políticas ambientais dependem de infraestrutura compatível com o comportamento esperado",
+                                              "b":  "O parque revogou a proibição dos copos descartáveis",
+                                              "c":  "A proibição dos copos descartáveis reduziu os resíduos independentemente da oferta de pontos de água",
+                                              "d":  "A medida dispensou qualquer alteração na infraestrutura",
+                                              "e":  "A abertura de novos pontos de água aumentou os resíduos"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O trecho sustenta: Políticas ambientais dependem de infraestrutura compatível com o comportamento esperado. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-197",
+                         "textoId":  "xtr-int-t16",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "A proibição dos copos descartáveis reduziu os resíduos independentemente da oferta de pontos de água",
+                                              "b":  "A proibição, sem alternativas práticas, teve efeito limitado",
+                                              "c":  "A proibição reduziu os resíduos logo depois de anunciada",
+                                              "d":  "Os bebedouros foram dispensados porque o público do parque levava as próprias garrafas",
+                                              "e":  "Os bebedouros existentes já atendiam ao público do parque"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O trecho sustenta: A proibição, sem alternativas práticas, teve efeito limitado. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-198",
+                         "textoId":  "xtr-int-t16",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "retomada de um termo por sinônimo ao longo do parágrafo",
+                                              "b":  "gradação que intensifica a mesma ideia em três etapas",
+                                              "c":  "relação entre condição necessária e resultado",
+                                              "d":  "descrição de um cenário sem marcas de posicionamento",
+                                              "e":  "enumeração de exemplos em ordem crescente de importância"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A estratégia empregada é: relação entre condição necessária e resultado. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-199",
+                         "textoId":  "xtr-int-t17",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "A construção dos ambientes coube ao público, sem participação do trabalho dos atores em cena",
+                                              "b":  "A peça foi apresentada sem ensaios prévios",
+                                              "c":  "A ausência de cenário comprometeu a compreensão da peça",
+                                              "d":  "Recursos corporais podem substituir elementos materiais na construção cênica",
+                                              "e":  "A ausência de cenário foi compensada pela projeção de imagens dos lugares descritos na peça"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O trecho sustenta: Recursos corporais podem substituir elementos materiais na construção cênica. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-200",
+                         "textoId":  "xtr-int-t17",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "O grupo montou um cenário detalhado depois de meses de ensaio",
+                                              "b":  "A construção dos ambientes coube ao público, sem participação do trabalho dos atores em cena",
+                                              "c":  "A ausência de cenário comprometeu a compreensão da peça",
+                                              "d":  "O público recebeu descrições escritas dos lugares imaginados",
+                                              "e":  "O cenário foi produzido pela imaginação orientada pela atuação"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O trecho sustenta: O cenário foi produzido pela imaginação orientada pela atuação. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-201",
+                         "textoId":  "xtr-int-t17",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "ressignificação de uma ausência como escolha estética",
+                                              "b":  "uso de dados numéricos para dimensionar o problema",
+                                              "c":  "conclusão anunciada antes dos dados que a sustentam",
+                                              "d":  "paralelismo entre duas estruturas sintáticas idênticas",
+                                              "e":  "descrição de um cenário sem marcas de posicionamento"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A estratégia empregada é: ressignificação de uma ausência como escolha estética. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-202",
+                         "textoId":  "xtr-int-t18",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "Os moradores receberam as rotas de saída junto com o mapa",
+                                              "b":  "Informação sobre risco precisa ser acompanhada de orientação prática",
+                                              "c":  "As áreas vulneráveis não foram identificadas no levantamento",
+                                              "d":  "A divulgação do mapa completou a política de prevenção",
+                                              "e":  "A identificação das áreas vulneráveis bastou para reduzir o risco de enchentes no bairro"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O trecho sustenta: Informação sobre risco precisa ser acompanhada de orientação prática. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-203",
+                         "textoId":  "xtr-int-t18",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "A cidade optou por não divulgar o mapa de risco",
+                                              "b":  "As áreas vulneráveis não foram identificadas no levantamento",
+                                              "c":  "A divulgação do mapa não completou a política de prevenção",
+                                              "d":  "Os pontos de abrigo foram instalados antes da divulgação",
+                                              "e":  "A divulgação do mapa veio acompanhada da sinalização das rotas de saída e dos pontos de abrigo"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O trecho sustenta: A divulgação do mapa não completou a política de prevenção. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-204",
+                         "textoId":  "xtr-int-t18",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "citação de autoridade para sustentar a afirmação",
+                                              "b":  "paralelismo entre duas estruturas sintáticas idênticas",
+                                              "c":  "alternância entre discurso direto e discurso indireto",
+                                              "d":  "contraste entre diagnóstico e capacidade de ação",
+                                              "e":  "hipótese apresentada e em seguida descartada"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A estratégia empregada é: contraste entre diagnóstico e capacidade de ação. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-205",
+                         "textoId":  "xtr-int-t19",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "O atleta aumentou a intensidade para evitar lesões",
+                                              "b":  "A estratégia de recuperação exigia treinos diários mais longos",
+                                              "c":  "A redução dos treinos foi determinada pela comissão organizadora",
+                                              "d":  "A pausa foi motivada por uma lesão já instalada",
+                                              "e":  "Uma pausa planejada pode fazer parte da preparação"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O trecho sustenta: Uma pausa planejada pode fazer parte da preparação. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-206",
+                         "textoId":  "xtr-int-t19",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "A redução do treino não indicava abandono do objetivo",
+                                              "b":  "A redução dos treinos indicava que o atleta havia desistido de disputar a competição naquela temporada",
+                                              "c":  "A pausa nos treinos foi consequência de uma lesão, e não parte planejada da preparação",
+                                              "d":  "A estratégia de recuperação exigia treinos diários mais longos",
+                                              "e":  "O atleta abandonou a competição durante a semana de descanso"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O trecho sustenta: A redução do treino não indicava abandono do objetivo. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-207",
+                         "textoId":  "xtr-int-t19",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "enumeração de exemplos em ordem crescente de importância",
+                                              "b":  "negação seguida de explicação corretiva",
+                                              "c":  "citação de autoridade para sustentar a afirmação",
+                                              "d":  "pergunta retórica respondida no período seguinte",
+                                              "e":  "definição técnica seguida de sua aplicação prática"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A estratégia empregada é: negação seguida de explicação corretiva. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-208",
+                         "textoId":  "xtr-int-t20",
+                         "formato":  "direta",
+                         "tipoItem":  "ideia-central",
+                         "dificuldade":  "media",
+                         "enunciado":  "É correto afirmar que a ideia central do texto é:",
+                         "alternativas":  {
+                                              "a":  "O valor atribuído às peças decorria da raridade dos materiais empregados em cada um dos objetos",
+                                              "b":  "Os depoimentos foram incluídos apenas para datar os objetos reunidos em cada década",
+                                              "c":  "Objetos podem adquirir valor cultural pela memória que concentram",
+                                              "d":  "As peças foram avaliadas por especialistas em mercado de arte",
+                                              "e":  "As histórias associadas às peças contradiziam os depoimentos"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O trecho sustenta: Objetos podem adquirir valor cultural pela memória que concentram. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-209",
+                         "textoId":  "xtr-int-t20",
+                         "formato":  "direta",
+                         "tipoItem":  "inferencia",
+                         "dificuldade":  "dificil",
+                         "enunciado":  "Depreende-se do texto que:",
+                         "alternativas":  {
+                                              "a":  "O valor das peças foi atribuído ao material de que eram feitas",
+                                              "b":  "A exposição reuniu objetos de uma única década",
+                                              "c":  "Os depoimentos foram retirados da exposição pelos curadores",
+                                              "d":  "O material dos objetos não explicava sozinho sua importância",
+                                              "e":  "Os depoimentos foram incluídos apenas para datar os objetos reunidos em cada década"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O trecho sustenta: O material dos objetos não explicava sozinho sua importância. As outras alternativas falam do mesmo texto, mas afirmam o que ele não diz ou contrariam o que ele diz.",
+                         "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-210",
+                         "textoId":  "xtr-int-t20",
+                         "formato":  "direta",
+                         "tipoItem":  "estrategia",
+                         "dificuldade":  "media",
+                         "enunciado":  "No texto, qual estratégia de construção se destaca?",
+                         "alternativas":  {
+                                              "a":  "gradação que intensifica a mesma ideia em três etapas",
+                                              "b":  "descrição de um cenário sem marcas de posicionamento",
+                                              "c":  "enumeração de exemplos em ordem crescente de importância",
+                                              "d":  "retomada de um termo por sinônimo ao longo do parágrafo",
+                                              "e":  "comparação que desloca o critério de valor"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A estratégia empregada é: comparação que desloca o critério de valor. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
+                         "origem":  "banco-extra"
                      }
-                 ]
+                 ],
+    "textos":  [
+                   {
+                       "id":  "xtr-int-t01",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "A biblioteca ampliou o horário de funcionamento, mas o número de empréstimos só cresceu depois que os moradores passaram a participar da escolha de novos títulos."
+                   },
+                   {
+                       "id":  "xtr-int-t02",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "No bairro, as árvores antigas não aparecem apenas nas fotografias. Elas reduzem o calor nas calçadas e fazem com que os moradores permaneçam mais tempo nos espaços públicos."
+                   },
+                   {
+                       "id":  "xtr-int-t03",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "O aplicativo prometia economizar tempo. Depois de três atualizações, passou a exigir tantos passos para uma tarefa simples que alguns usuários voltaram ao caderno de papel."
+                   },
+                   {
+                       "id":  "xtr-int-t04",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "Quando a chuva começou, a praça esvaziou. Minutos depois, crianças transformaram as poças em pistas de corrida, e o lugar voltou a ser ocupado de outro modo."
+                   },
+                   {
+                       "id":  "xtr-int-t05",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "O relatório apresentava muitos números, porém escondia o critério usado para escolher quais dados seriam divulgados. Sem esse critério, a precisão aparente pouco esclarecia."
+                   },
+                   {
+                       "id":  "xtr-int-t06",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "A feira de ciências premiou um filtro de água feito com materiais simples. O destaque não veio da aparência do protótipo, mas da clareza com que os estudantes explicaram seus limites."
+                   },
+                   {
+                       "id":  "xtr-int-t07",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "Toda semana, o ônibus chegava lotado ao terminal. A empresa aumentou a frota no horário de pico, e a fila diminuiu sem que o preço da passagem fosse alterado."
+                   },
+                   {
+                       "id":  "xtr-int-t08",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "O museu retirou as legendas técnicas de uma sala e ofereceu versões em linguagem simples e em áudio. A visita ficou mais acessível, embora nenhum objeto tenha sido substituído."
+                   },
+                   {
+                       "id":  "xtr-int-t09",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "Os moradores queriam silêncio, os comerciantes queriam movimento, e ambos diziam defender a praça. A reunião avançou quando perceberam que discutiam horários diferentes, não objetivos totalmente incompatíveis."
+                   },
+                   {
+                       "id":  "xtr-int-t10",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "A escola instalou painéis solares e reduziu a conta de energia. O projeto só se tornou pedagógico, porém, quando os estudantes passaram a acompanhar a produção e o consumo mensal."
+                   },
+                   {
+                       "id":  "xtr-int-t11",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "O jornal publicou a correção na página seguinte, mas a informação equivocada continuou circulando em capturas de tela. Na internet, corrigir não significa necessariamente interromper o erro."
+                   },
+                   {
+                       "id":  "xtr-int-t12",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "A pesquisadora repetiu o experimento e obteve resultado diferente. Em vez de esconder a divergência, refez as medidas e descobriu uma falha no instrumento."
+                   },
+                   {
+                       "id":  "xtr-int-t13",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "O condomínio criou uma horta coletiva. No começo, poucos participaram; depois, a distribuição das tarefas por turnos permitiu que pessoas com rotinas distintas colaborassem."
+                   },
+                   {
+                       "id":  "xtr-int-t14",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "A ponte encurtou o trajeto entre as cidades, mas também desviou o fluxo de veículos do comércio antigo. A mesma obra integrou a região e redistribuiu seus benefícios."
+                   },
+                   {
+                       "id":  "xtr-int-t15",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "A professora pediu que a turma comparasse duas notícias sobre o mesmo fato. As diferenças mais importantes não estavam nos dados, e sim nos títulos e nas fontes ouvidas."
+                   },
+                   {
+                       "id":  "xtr-int-t16",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "O parque proibiu copos descartáveis, mas instalou poucos bebedouros. A medida reduziu resíduos apenas depois que novos pontos de água foram abertos."
+                   },
+                   {
+                       "id":  "xtr-int-t17",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "O grupo ensaiou durante meses e apresentou uma peça sem cenário. A ausência não parecia falta: os movimentos dos atores construíam os lugares imaginados pelo público."
+                   },
+                   {
+                       "id":  "xtr-int-t18",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "A cidade divulgou um mapa de risco de enchentes. Moradores de áreas vulneráveis, porém, não receberam orientação sobre rotas de saída nem pontos de abrigo."
+                   },
+                   {
+                       "id":  "xtr-int-t19",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "O atleta reduziu a intensidade dos treinos durante uma semana. Não desistira da competição: seguia uma estratégia de recuperação para evitar lesões."
+                   },
+                   {
+                       "id":  "xtr-int-t20",
+                       "fonte":  "Texto autoral curto, no formato de frase densa que a FGV usa como base de interpretacao",
+                       "conteudo":  "A exposição reuniu objetos cotidianos de diferentes décadas. Ao lado deles, depoimentos mostravam que o valor de cada peça vinha menos do material e mais das histórias associadas a ela."
+                   }
+               ]
 }

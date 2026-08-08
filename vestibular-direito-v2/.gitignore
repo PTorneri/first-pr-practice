@@ -67,3 +67,9 @@ node_modules/
 
 # dataconnect generated files
 .dataconnect
+
+# Pacotes de skills instalados por ferramenta (Firebase, Xcode). Sao vendor:
+# vem de fora, ninguem edita aqui, e nao tem por que serem publicados junto
+# com o site -- o workflow do Pages empacota a raiz inteira (path: ".").
+.agents/
+.claude/

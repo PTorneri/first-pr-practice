@@ -35151,7 +35151,7 @@ window.QUESTION_BANKS = {
                     },
                     {
                         "id":  "quimica-133",
-                        "texto_apoio":  "Uma peça de ferro parcialmente submersa em água apresenta corrosão mais intensa na região próxima à linha d\u0027água, e não na porção mais profunda, onde o contato com a água é permanente.",
+                        "texto_apoio":  "Uma peça de ferro parcialmente submersa em água apresenta corrosão mais intensa na porção submersa, afastada da superfície, onde o oxigênio dissolvido chega com dificuldade — e não na região próxima à linha d\u0027água, em contato constante com o ar.",
                         "enunciado":  "O padrão observado é explicado pela formação de uma pilha de aeração diferencial, na qual:",
                         "alternativas":  {
                                              "a":  "o processo é puramente químico e independe de qualquer transferência de elétrons entre regiões distintas da mesma peça metálica submersa",

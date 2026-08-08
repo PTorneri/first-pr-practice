@@ -21,7 +21,7 @@
 (function () {
   // Contador de cache do CONTEÚDO, separado do ?v= do código (ver o comentário
   // longo no topo do index.html). Corrigiu uma questão? Incremente aqui.
-  const DATA_VERSION = 36;
+  const DATA_VERSION = 37;
 
   // A chave da trilha ativa é a única que vive FORA do namespace de trilha —
   // é ela que diz qual namespace usar. Sobe pra nuvem junto com o resto.
@@ -66,7 +66,7 @@
         "subtopics", "theory", "obras", "obras-questoes", "flashcards",
         "priority-weights", "video-topics", "bundle", "dissertativas", "redacoes",
       ],
-      abas: ["hoje", "calendario", "simulados", "buscar", "cards", "redacao", "obras", "erros", "progresso"],
+      abas: ["hoje", "calendario", "simulados", "buscar", "cards", "redacao", "obras", "erros", "progresso", "perfil"],
       // Rótulos da aba Redação. Ficavam fixos em app.js, escritos para a FGV —
       // e a trilha de Medicina exibia "como pedem os editais da FGV e do
       // Insper" sobre um caderno que é da VUNESP e da Unifesp. As propostas em
@@ -136,7 +136,7 @@
         "subtopics", "theory", "obras", "obras-questoes", "flashcards",
         "priority-weights", "video-topics", "bundle", "dissertativas", "redacoes",
       ],
-      abas: ["hoje", "calendario", "simulados", "buscar", "cards", "redacao", "obras", "erros", "progresso"],
+      abas: ["hoje", "calendario", "simulados", "buscar", "cards", "redacao", "obras", "erros", "progresso", "perfil"],
       redacaoUI: {
         desc: "Texto <strong>dissertativo-argumentativo em norma-padrão, com coletânea</strong>. O comando abaixo " +
               "é o dos cadernos, palavra por palavra: Unesp, Unifesp, Einstein e Santa Casa usam a mesma frase, e " +

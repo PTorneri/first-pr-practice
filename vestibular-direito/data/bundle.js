@@ -24,11 +24,11 @@ window.QUESTION_BANKS = {
                                                    "a":  "a preservação de igrejas coloniais mineiras por meio de restauro com técnicas e materiais originais",
                                                    "b":  "o uso de imagens do Barroco mineiro em campanhas de turismo das cidades históricas, que exploram o apelo visual das esculturas para atrair visitantes durante as festas religiosas do calendário local",
                                                    "c":  "a produção de imagens sacras em série por ateliês contemporâneos, que reproduzem modelos barrocos consagrados para atender à demanda de igrejas recém-construídas em bairros populares",
-                                                   "d":  "o fato de a escultura barroca representar temas religiosos, o que a aproxima de qualquer produção artística que também mencione religião, sem relação com sua estratégia de persuasão",
+                                                   "d":  "o fato de a escultura barroca representar temas religiosos, o que a aproxima das manifestações de fé popular que hoje ocupam as redes sociais com imagens devocionais e orações compartilhadas",
                                                    "e":  "o uso de imagens fortemente dramáticas e emocionais em campanhas de ativismo digital e mobilização política, buscando o mesmo engajamento afetivo que a arte religiosa barroca buscava dos fiéis"
                                                },
                               "resposta":  "e",
-                              "explicacao":  "A dramaticidade, o contraste de luz e sombra e o apelo emocional do Barroco funcionam como retórica: a imagem foi feita para comover e, comovendo, convencer. É essa mesma operação que reaparece em campanhas de ativismo digital que escolhem imagens de forte carga afetiva para mobilizar quem as vê. Usar as esculturas em peças de turismo aproveita seu apelo visual sem retomar a estratégia de persuasão, que é o que está em jogo. Reproduzir modelos barrocos em série para igrejas novas continua a tradição iconográfica, o que é questão de repertório e não de eficácia retórica. Aproximar a obra de qualquer produção que mencione religião fica no tema e perde o mecanismo. E restaurar igrejas com técnicas originais é problema de conservação do patrimônio.",
+                              "explicacao":  "A estratégia barroca de mobilização emocional pela imagem se relaciona ao uso de imagens fortemente dramáticas em campanhas de ativismo digital, que buscam do público o mesmo engajamento afetivo que a arte religiosa buscava dos fiéis — em ambos os casos a comoção é o meio de adesão. A aproximação com as imagens devocionais que circulam hoje nas redes é o distrator mais fino, porque a continuidade de tema é real e verificável: a semelhança que a questão pede é de estratégia retórica, não de assunto religioso. O uso de imagens barrocas em campanhas de turismo explora o apelo visual com finalidade comercial. A produção de imagens sacras em série responde a demanda litúrgica. E o restauro com técnicas originais é questão de conservação.",
                               "formato":  "direta"
                           },
                           {
@@ -1475,13 +1475,13 @@ window.QUESTION_BANKS = {
                               "enunciado":  "Do ponto de vista dos estudos culturais contemporâneos, os fandoms de fenômenos como o K-pop podem ser analisados como comunidades que",
                               "alternativas":  {
                                                    "a":  "reproduzem a lógica dos fã-clubes organizados pelas gravadoras nas décadas de 1960 e 1970, que reuniam admiradores em torno de material oficial distribuído pela própria indústria fonográfica",
-                                                   "b":  "existem apenas porque o produto cultural em questão é de boa qualidade musical, sem relação com dinâmicas de sociabilidade ou produção coletiva de conteúdo pelos fãs",
+                                                   "b":  "existem em função da qualidade musical do produto, que dispensa a mediação de comunidades organizadas de admiradores",
                                                    "c":  "desenvolvem intensa produção cultural própria (fanarts, traduções, campanhas coletivas) e formas de sociabilidade e identidade coletiva em torno do consumo compartilhado de um produto cultural globalizado",
-                                                   "d":  "essa produção cultural própria de fãs (fanarts, traduções coletivas) é um fenômeno restrito exclusivamente ao público brasileiro de rock nacional, sem equivalente algum em outros contextos musicais e culturais.",
+                                                   "d":  "reproduzem no ambiente digital a lógica das torcidas organizadas de futebol, com rivalidade entre grupos e ocupação coordenada de espaços públicos, sem que dessa organização resulte produção cultural própria comparável à das comunidades de fãs",
                                                    "e":  "reduzem o custo de divulgação suportado pelos estúdios responsáveis pela obra original"
                                                },
                               "resposta":  "c",
-                              "explicacao":  "Os estudos culturais leem os fandoms como comunidades que produzem cultura por conta própria — fanarts, traduções, campanhas coordenadas — e constroem sociabilidade e identidade coletiva em torno de um produto globalizado. Compará-los aos fã-clubes montados pelas gravadoras é a aproximação mais tentadora e falha no ponto decisivo: ali a produção vinha da indústria para o fã, e o que caracteriza o fandom é a produção que parte dele. Explicar sua existência pela qualidade musical do produto ignora as dinâmicas de sociabilidade que a análise localiza. Restringir o fenômeno ao público brasileiro de rock nacional contraria sua escala internacional. E reduzir custo de divulgação para os estúdios é efeito colateral, não o que define a comunidade.",
+                              "explicacao":  "Os estudos culturais analisam os fandoms como comunidades que desenvolvem produção cultural própria — fanarts, traduções, campanhas coletivas — e formas de sociabilidade e identidade em torno do consumo compartilhado de um produto globalizado. A comparação com as torcidas organizadas é o distrator mais bem construído, porque a semelhança é real e já foi explorada na bibliografia: rivalidade entre grupos, mobilização em massa e ocupação coordenada de espaços. Ela erra na parte decisiva, porque é a produção própria de conteúdo que caracteriza o fandom aqui. Os fã-clubes das gravadoras dos anos 1960 e 1970 giravam em torno de material oficial, sem criação dos fãs. Explicar o fandom pela qualidade musical apaga a dimensão de sociabilidade. E a redução de custos de divulgação descreve um efeito para a indústria, não a comunidade.",
                               "dificuldade":  "media",
                               "formato":  "direta"
                           },
@@ -3554,14 +3554,14 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "O princípio da não intervenção em assuntos internos de outros Estados, historicamente central ao sistema internacional, tem sido debatido diante de situações de graves violações de direitos humanos cometidas por governos contra suas próprias populações, levantando a questão de até que ponto a soberania estatal deveria prevalecer sobre a proteção de vidas humanas.",
                                         "enunciado":  "Esse debate ilustra a tensão entre:",
                                         "alternativas":  {
-                                                             "a":  "diplomacia bilateral e diplomacia multilateral, sem relação com direitos humanos",
+                                                             "a":  "diplomacia bilateral e diplomacia multilateral em foros regionais de negociação",
                                                              "b":  "a jurisdição universal penal e a imunidade de chefes de Estado em exercício",
                                                              "c":  "o princípio da não intervenção e a responsabilidade de proteger civis",
                                                              "d":  "união aduaneira e zona de livre comércio regional consolidada",
                                                              "e":  "livre comércio e protecionismo comercial entre nações desenvolvidas"
                                                          },
                                         "resposta":  "c",
-                                        "explicacao":  "A tensão entre o princípio tradicional da não intervenção, que protege a soberania estatal, e a defesa de uma responsabilidade internacional de proteger populações civis de graves violações de direitos humanos, é um dos debates centrais e mais controversos das relações internacionais contemporâneas.",
+                                        "explicacao":  "O debate ilustra a tensão entre o princípio da não intervenção, pilar da soberania estatal, e a responsabilidade de proteger civis, invocada quando um Estado falha em protegê-los ou é ele o agressor. A oposição entre diplomacia bilateral e multilateral é o distrator mais plausível, porque a discussão de fato se dá em foros multilaterais — só que se trata de uma distinção de método de negociação, e não do conflito de princípios em causa. A tensão entre jurisdição universal penal e imunidade de chefes de Estado é vizinha e diz respeito à responsabilização individual, não à intervenção. E as alternativas sobre união aduaneira, livre comércio e protecionismo pertencem à integração econômica.",
                                         "dificuldade":  "dificil",
                                         "formato":  "direta"
                                     },
@@ -3746,14 +3746,14 @@ window.QUESTION_BANKS = {
                                         "texto_apoio":  "Enquanto o uso de satélites para fins de comunicação, monitoramento e navegação, inclusive por forças armadas, é amplamente praticado e considerado consistente com tratados internacionais vigentes, a instalação de armas ofensivas em órbita permanece uma linha mais controversa e formalmente restringida por parte desses mesmos tratados.",
                                         "enunciado":  "Essa distinção reflete a diferença conceitual entre:",
                                         "alternativas":  {
-                                                             "a":  "diplomacia pública e diplomacia coercitiva, sem qualquer relação com o espaço sideral",
+                                                             "a":  "diplomacia pública e diplomacia coercitiva, aplicadas à negociação de tratados sobre o uso pacífico do espaço",
                                                              "b":  "zona econômica exclusiva e mar territorial, aplicados ao espaço sideral e marítimo",
-                                                             "c":  "zona econômica exclusiva orbital e espaço aéreo soberano, sem relação com uso militar",
+                                                             "c":  "zona econômica exclusiva orbital e espaço aéreo soberano, categorias que delimitariam a soberania de cada Estado sobre as órbitas situadas acima de seu território",
                                                              "d":  "militarização do espaço (satélites para defesa e monitoramento) e weaponização (armas ofensivas em órbita)",
                                                              "e":  "soft power e hard power, aplicados ao espaço sideral e às relações diplomáticas"
                                                          },
                                         "resposta":  "d",
-                                        "explicacao":  "A distinção entre militarização do espaço — uso de satélites e tecnologia espacial para fins de defesa, comunicação e monitoramento, amplamente praticado — e weaponização do espaço — instalação de armas ofensivas em órbita, mais restringida por tratados internacionais — é central aos debates contemporâneos sobre segurança espacial.",
+                                        "explicacao":  "A distinção é entre militarização do espaço — uso de satélites para defesa, comunicação e monitoramento, prática corrente desde a Guerra Fria — e weaponização, que significa colocar armas ofensivas em órbita, algo que os tratados buscam evitar. A proposta de uma zona econômica exclusiva orbital é o distrator mais elaborado, porque transpõe ao espaço categorias do direito do mar e essa transposição já foi discutida — o Tratado do Espaço de 1967 veda apropriação nacional, o que impede a soberania sobre órbitas. A oposição entre diplomacia pública e coercitiva descreve métodos de ação externa. As categorias de mar territorial e zona econômica exclusiva pertencem ao direito marítimo. E soft e hard power classificam formas de poder, não usos do espaço.",
                                         "dificuldade":  "dificil",
                                         "formato":  "direta"
                                     },
@@ -6163,11 +6163,11 @@ window.QUESTION_BANKS = {
                                                           "a":  "planejamento de médio prazo, prioridades do exercício seguinte e previsão anual",
                                                           "b":  "a fixação do salário mínimo e do piso das carreiras do funcionalismo",
                                                           "c":  "a definição da taxa básica de juros, atribuição do Comitê de Política Monetária do Banco Central",
-                                                          "d":  "questões de política externa, sem relação com o orçamento público",
+                                                          "d":  "a autorização para operações de crédito externo, submetida à aprovação do Senado Federal",
                                                           "e":  "normas eleitorais aplicáveis aos partidos políticos, em lei complementar"
                                                       },
                                      "resposta":  "a",
-                                     "explicacao":  "Os três formam um funil temporal: o PPA desenha as diretrizes de quatro anos, a LDO seleciona o que entra no ano seguinte e fixa metas fiscais, e a LOA estima a receita e autoriza a despesa daquele exercício. Em (b) está o distrator mais plausível, porque o salário mínimo tem impacto orçamentário direto e sua política costuma ser tratada na LDO — o reajuste, porém, é fixado em lei própria, e não é o objeto dos três instrumentos. Em (c), a taxa de juros é decidida pelo Copom. Em (d) e (e), política externa e norma eleitoral não integram o ciclo orçamentário."
+                                     "explicacao":  "O Plano Plurianual estabelece o planejamento de médio prazo, a Lei de Diretrizes Orçamentárias fixa as prioridades do exercício seguinte e a Lei Orçamentária Anual traz a previsão de receitas e despesas do ano. A autorização de operações de crédito externo é o distrator mais plausível, porque é matéria orçamentária de verdade e envolve o Legislativo — só que compete ao Senado por resolução, sem integrar o tripé do planejamento. A fixação do salário mínimo se dá por lei própria, ainda que a LDO estabeleça parâmetros. A taxa básica de juros é definida pelo Comitê de Política Monetária. E normas eleitorais pertencem a outro ramo legislativo."
                                  },
                                  {
                                      "id":  "atualidades-politica-46",
@@ -6415,13 +6415,13 @@ window.QUESTION_BANKS = {
                                      "enunciado":  "Essa característica, chamada de progressividade tributária, é geralmente associada a tributos como o Imposto de Renda, com o objetivo de:",
                                      "alternativas":  {
                                                           "a":  "vincular a arrecadação de cada tributo a uma finalidade específica definida em lei",
-                                                          "b":  "cobrar percentualmente mais de quem tem menor capacidade contributiva, invertendo a lógica de justiça fiscal esperada",
+                                                          "b":  "cobrar percentualmente mais de quem tem menor capacidade contributiva, como ocorre nos tributos sobre o consumo",
                                                           "c":  "distribuir a carga tributária de forma proporcionalmente maior sobre quem tem maior capacidade contributiva",
                                                           "d":  "uniformizar a alíquota cobrada de todos os contribuintes, independentemente da renda",
                                                           "e":  "isentar integralmente os contribuintes de maior renda, concentrando a arrecadação sobre as faixas mais pobres"
                                                       },
                                      "resposta":  "c",
-                                     "explicacao":  "A progressividade tributária busca distribuir a carga fiscal de forma proporcionalmente maior sobre quem tem maior capacidade contributiva, como no caso do Imposto de Renda, no qual alíquotas mais altas incidem sobre faixas de renda mais elevadas, contribuindo para reduzir desigualdades por meio da própria estrutura tributária.",
+                                     "explicacao":  "A progressividade tributária distribui a carga de forma proporcionalmente maior sobre quem tem maior capacidade contributiva, o que se obtém com alíquotas que crescem conforme a base. A alternativa que descreve a cobrança maior sobre quem tem menor capacidade é a mais instrutiva de descartar, porque ela é verdadeira a respeito de outro fenômeno: a regressividade dos tributos sobre o consumo, que no Brasil pesa proporcionalmente mais nas rendas baixas. Saber separar progressivo de regressivo é o conteúdo da questão. A uniformização de alíquota descreve a tributação proporcional. A vinculação da arrecadação a finalidade específica é outra classificação. E isentar as faixas altas seria o extremo da regressividade.",
                                      "dificuldade":  "media",
                                      "formato":  "direta"
                                  },
@@ -6672,12 +6672,12 @@ window.QUESTION_BANKS = {
                                      "alternativas":  {
                                                           "a":  "impedimento ao exercício do direito de voto, questão disciplinada pela legislação eleitoral",
                                                           "b":  "violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder",
-                                                          "c":  "prejuízo exclusivamente de natureza patrimonial, sem qualquer relação com a liberdade pessoal",
+                                                          "c":  "prejuízo de natureza patrimonial decorrente de ato praticado por autoridade pública",
                                                           "d":  "recusa de fornecimento de certidão por repartição pública para defesa de direitos",
                                                           "e":  "restrição ao direito de acesso a informações públicas, tema tratado pela Lei de Acesso à Informação"
                                                       },
                                      "resposta":  "b",
-                                     "explicacao":  "O habeas corpus é o remédio constitucional destinado a proteger o direito de ir e vir, podendo ser utilizado sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder, diferentemente de outros remédios voltados à proteção de direitos de natureza distinta.",
+                                     "explicacao":  "O habeas corpus cabe sempre que alguém sofra ou se veja ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder. O prejuízo patrimonial por ato de autoridade é o distrator mais forte, porque também envolve ilegalidade de agente público — e o remédio adequado ali é o mandado de segurança, que protege direito líquido e certo não amparado por habeas corpus. A recusa de certidão por repartição pública é hipótese de habeas data ou de mandado de segurança. O impedimento ao voto tem via eleitoral própria. E o acesso a informações públicas se resolve pela Lei de Acesso à Informação.",
                                      "dificuldade":  "media",
                                      "formato":  "direta"
                                  },
@@ -7043,11 +7043,11 @@ window.QUESTION_BANKS = {
                                                           "a":  "canais de participação e controle social sobre a qualidade do serviço",
                                                           "b":  "mecanismos de controle interno hierárquico, sem participação do cidadão",
                                                           "c":  "órgãos de controle externo com poder de sancionar servidores públicos",
-                                                          "d":  "processos eleitorais, sem relação com a prestação do serviço público",
+                                                          "d":  "processos eleitorais de escolha de conselheiros setoriais nos municípios",
                                                           "e":  "instâncias judiciais de resolução de conflito entre cidadão e Estado"
                                                       },
                                      "resposta":  "a",
-                                     "explicacao":  "A ouvidoria abre uma porta pela qual o usuário do serviço entra na avaliação dele: a reclamação vira dado, o dado vira diagnóstico, e o controle passa a ser exercido também de fora da estrutura administrativa. Em (c) está o distrator mais fino, porque também trata de controle — mas o controle externo é feito por tribunais de contas e Ministério Público, com poder sancionador, ao passo que a ouvidoria acolhe e encaminha, sem punir. Em (b), a participação do cidadão é o elemento definidor. Em (d) e (e), a ouvidoria é administrativa, e não eleitoral nem judicial."
+                                     "explicacao":  "As ouvidorias públicas fortalecem canais de participação e de controle social sobre a qualidade do serviço prestado, ao receber e encaminhar manifestações do cidadão. A eleição de conselheiros setoriais é o distrator mais próximo, porque também é mecanismo de participação social — só que de natureza representativa e deliberativa, distinto do canal direto e individual que a ouvidoria abre. O controle interno hierárquico existe e dispensa a participação do cidadão, que é justamente o elemento definidor da ouvidoria. O controle externo com poder de sanção cabe aos tribunais de contas e às corregedorias. E a resolução judicial de conflitos pertence ao Judiciário."
                                  }
                              ],
     "atualidades-tecnologia":  [
@@ -7101,14 +7101,14 @@ window.QUESTION_BANKS = {
                                        "texto_apoio":  "A crescente capacidade de sistemas automatizados de executar tarefas antes realizadas exclusivamente por seres humanos tem gerado debate sobre seus efeitos no mercado de trabalho.",
                                        "enunciado":  "Uma visão frequente entre economistas sobre esse processo é que a automação tende a:",
                                        "alternativas":  {
-                                                            "a":  "afetar exclusivamente empregos de alta qualificação, ignorando o impacto sobre funções operacionais repetitivas",
-                                                            "b":  "eliminar por completo a existência de qualquer emprego no longo prazo, tese sem respaldo em estudos econômicos",
-                                                            "c":  "não ter nenhum efeito sobre a demanda por determinadas habilidades, contrariando dados sobre reconversão profissional",
+                                                            "a":  "afetar sobretudo empregos de alta qualificação, hoje alcançados por sistemas capazes de analisar texto e imagem",
+                                                            "b":  "eliminar mais postos de trabalho do que cria, com queda líquida do emprego no longo prazo",
+                                                            "c":  "deslocar a demanda por habilidades sem alterar seu nível de exigência, mantendo o mesmo perfil de qualificação",
                                                             "d":  "eliminar a demanda por qualificação, uma vez que os sistemas passam a operar sem supervisão",
                                                             "e":  "substituir tarefas rotineiras, podendo criar novas ocupações e exigir requalificação da força de trabalho"
                                                         },
                                        "resposta":  "e",
-                                       "explicacao":  "A automação tende a substituir tarefas rotineiras e repetitivas, tanto manuais quanto cognitivas, ao mesmo tempo em que pode criar novas ocupações ligadas ao desenvolvimento, manutenção e supervisão dessas tecnologias, exigindo requalificação da força de trabalho.",
+                                       "explicacao":  "A visão predominante entre economistas é que a automação substitui tarefas rotineiras, pode criar ocupações novas e exige requalificação da força de trabalho. A alternativa que a faz atingir sobretudo empregos qualificados é a mais atual e a mais difícil de recusar, porque os sistemas capazes de tratar texto e imagem alcançam de fato trabalho de escritório antes protegido — a caracterização geral do processo continua sendo a substituição de tarefas rotineiras, manuais e cognitivas. A tese da queda líquida do emprego tem defensores e é minoritária. Supor deslocamento de habilidades sem mudança no nível de exigência contraria os dados de reconversão profissional. E eliminar a demanda por qualificação inverte o efeito observado.",
                                        "formato":  "direta"
                                    },
                                    {
@@ -7839,14 +7839,14 @@ window.QUESTION_BANKS = {
                                        "dificuldade":  "dificil",
                                        "enunciado":  "Esse conjunto de técnicas de design voltadas a capturar e prolongar a atenção do usuário, muitas vezes explorando mecanismos psicológicos de recompensa, é criticado por parte dos próprios profissionais que atuaram em seu desenvolvimento sob o argumento de que:",
                                        "alternativas":  {
-                                                            "a":  "são usados apenas em aplicativos profissionais, sem relação com entretenimento",
+                                                            "a":  "são usados sobretudo em aplicativos corporativos de produtividade e de gestão de tarefas",
                                                             "b":  "priorizam tempo de tela em detrimento do bem-estar, com efeito análogo ao jogo",
                                                             "c":  "elevam o custo de manutenção da plataforma sem retorno correspondente em receita publicitária",
                                                             "d":  "reduzem o custo de aquisição de usuários por indicação entre pares",
                                                             "e":  "não têm efeito mensurável sobre o comportamento dos usuários finais"
                                                         },
                                        "resposta":  "b",
-                                       "explicacao":  "A crítica vem de dentro e é sobre o critério de sucesso: o produto é otimizado para a métrica de tempo de uso, e a recompensa variável — não se sabe o que vem na próxima rolagem — é o mesmo mecanismo que sustenta a máquina caça-níqueis. Em (c) e (d) está a inversão do interesse comercial: engajamento é o que gera receita publicitária, e por isso a crítica não é de custo, é de efeito sobre quem usa. Em (e), a eficácia desses recursos é justamente o que os torna problemáticos. Em (a), eles predominam em aplicativos de entretenimento e rede social."
+                                       "explicacao":  "A crítica feita por profissionais que atuaram no desenvolvimento dessas técnicas é que elas priorizam o tempo de tela em detrimento do bem-estar do usuário, com mecanismos de recompensa variável de efeito análogo ao do jogo de azar. Situá-las em aplicativos corporativos é o distrator mais plausível, porque a gamificação aparece de fato em ferramentas de trabalho — e a crítica se dirige às plataformas de entretenimento e redes sociais, cuja receita depende diretamente da atenção retida. O custo de manutenção da plataforma e o custo de aquisição de usuários são questões de operação, não o objeto da crítica. E dizer que essas técnicas não têm efeito mensurável contraria a razão de existirem."
                                    },
                                    {
                                        "id":  "atualidades-tecnologia-53",
@@ -10545,14 +10545,14 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Em 2019, o STF equiparou a homofobia e a transfobia ao crime de racismo, enquanto a lei específica não fosse aprovada pelo Congresso.",
                                  "enunciado":  "Essa decisão do STF configura um exemplo de:",
                                  "alternativas":  {
-                                                      "a":  "Aplicação direta de tratado internacional sem qualquer base constitucional, tese rejeitada pelo STF",
-                                                      "b":  "Controle de constitucionalidade difuso exercido por juiz de primeira instância, hipótese inaplicável",
+                                                      "a":  "Aplicação direta de tratado internacional de direitos humanos incorporado com status de emenda constitucional",
+                                                      "b":  "Controle de constitucionalidade concentrado, exercido por meio de ação direta de inconstitucionalidade por omissão",
                                                       "c":  "Exercício do poder constituinte derivado, mediante emenda aprovada em dois turnos",
                                                       "d":  "Atuação do Judiciário diante da omissão legislativa em matéria de direitos fundamentais",
                                                       "e":  "Mutação constitucional por meio de emenda aprovada pelo Legislativo, prevista no art. 60"
                                                   },
                                  "resposta":  "d",
-                                 "explicacao":  "Diante da mora do Congresso em legislar sobre o tema, o STF reconheceu omissão inconstitucional e determinou a aplicação da Lei do Racismo à discriminação por orientação sexual e identidade de gênero até que lei específica seja editada.",
+                                 "explicacao":  "A decisão configura atuação do Judiciário diante da omissão legislativa em matéria de direitos fundamentais: na ausência de lei, o tribunal supre a lacuna para tornar o direito exercitável. O controle concentrado por ação direta de inconstitucionalidade por omissão é o distrator mais exigente, porque a ADO é justamente o instrumento típico dessa atuação — o que se pede aqui é a natureza da atuação, e não a via processual por que ela se deu. A aplicação de tratado com status de emenda é possível desde o parágrafo 3º do artigo 5º e não descreve o caso. O poder constituinte derivado se exerce por emenda, competência do Legislativo. E mutação constitucional é mudança de interpretação sem alteração de texto, o que exclui a menção a emenda do artigo 60.",
                                  "formato":  "direta"
                              },
                              {
@@ -10563,11 +10563,11 @@ window.QUESTION_BANKS = {
                                                       "a":  "Só valem durante estados de exceção, como o estado de sítio previsto no art. 137 da Constituição, sendo automaticamente suspensos fora desse contexto",
                                                       "b":  "Podem ser suspensos por medida provisória em caso de calamidade pública reconhecida",
                                                       "c":  "Podem ser livremente alterados por lei ordinária aprovada por maioria simples no Congresso, à semelhança de normas infraconstitucionais comuns",
-                                                      "d":  "Dependem de referendo popular para entrar em vigor, nos moldes do plebiscito de 1993 sobre a forma de governo, regra inexistente na Constituição de 1988",
+                                                      "d":  "Dependem de referendo popular para serem alterados, nos moldes do plebiscito de 1993 sobre a forma de governo",
                                                       "e":  "Não podem ser abolidos nem por emenda constitucional, embora admitam regulamentação legislativa que não esvazie seu núcleo essencial"
                                                   },
                                  "resposta":  "e",
-                                 "explicacao":  "O art. 60, §4º, da CF/88 estabelece que direitos e garantias individuais são cláusulas pétreas, ou seja, núcleo constitucional protegido contra qualquer tentativa de supressão, mesmo por emenda constitucional — a PEC hipotética descrita poderia, quando muito, regulamentar o exercício desses direitos, mas nunca aboli-los ou esvaziar seu conteúdo essencial.",
+                                 "explicacao":  "Cláusulas pétreas não podem ser abolidas nem por emenda constitucional, o que não impede regulamentação legislativa, desde que ela não esvazie o núcleo essencial do direito. O referendo popular é o distrator mais plausível, porque o plebiscito de 1993 existiu e tratou justamente de matéria constitucional — só que a proteção do artigo 60 é uma vedação material ao poder de reforma, não uma exigência de consulta. Dizer que valem apenas em estados de exceção inverte a lógica: é nesses períodos que as garantias sofrem restrição. Alteração por lei ordinária rebaixaria a cláusula pétrea ao nível infraconstitucional. E medida provisória não pode versar sobre direitos fundamentais.",
                                  "formato":  "direta"
                              },
                              {
@@ -10695,14 +10695,14 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "O Estatuto da Cidade (Lei 10.257/2001) regulamenta o capítulo constitucional de política urbana e consagra a função social da propriedade.",
                                  "enunciado":  "Entre os instrumentos previstos pelo Estatuto da Cidade para assegurar que a propriedade urbana cumpra sua função social está:",
                                  "alternativas":  {
-                                                      "a":  "A proibição total de imóveis não edificados nas cidades, sem qualquer exceção legal prevista, vedação incompatível com a função social da propriedade",
-                                                      "b":  "A isenção permanente de impostos para terrenos vazios em áreas centrais das cidades brasileiras, isenção inexistente na legislação municipal",
-                                                      "c":  "A transferência automática da propriedade ao município após um ano de vacância do imóvel, hipótese não prevista no Estatuto da Cidade",
+                                                      "a":  "A proibição de novos loteamentos em áreas sem infraestrutura de água e de esgoto previamente instalada",
+                                                      "b":  "A isenção de IPTU para terrenos vazios mantidos como área de preservação permanente em zona urbana",
+                                                      "c":  "A transferência do direito de construir do imóvel tombado para outro terreno do mesmo proprietário, mediante autorização municipal",
                                                       "d":  "O parcelamento, a edificação ou a utilização compulsórios de imóveis subutilizados, sob pena de IPTU progressivo no tempo",
                                                       "e":  "A desapropriação imediata, independentemente de prévia notificação ao proprietário"
                                                   },
                                  "resposta":  "d",
-                                 "explicacao":  "O Estatuto da Cidade prevê instrumentos como parcelamento, edificação ou utilização compulsórios e IPTU progressivo no tempo para desestimular a retenção especulativa de imóveis urbanos ociosos, concretizando a função social da propriedade.",
+                                 "explicacao":  "O Estatuto da Cidade prevê o parcelamento, a edificação ou a utilização compulsórios do imóvel subutilizado, com IPTU progressivo no tempo como sanção ao proprietário que não atende à notificação. A transferência do direito de construir é o distrator mais difícil de recusar, porque também está no Estatuto, no artigo 35 — é instrumento de compensação ao proprietário de imóvel tombado ou de interesse ambiental, e não de indução ao uso do imóvel ocioso. A isenção de IPTU para terreno vazio caminha no sentido oposto ao da progressividade. A proibição de loteamentos sem infraestrutura é matéria de parcelamento do solo. E a desapropriação exige notificação prévia e as etapas anteriores.",
                                  "formato":  "direta"
                              },
                              {
@@ -10920,14 +10920,14 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "A Lei 13.104/2015 alterou o Código Penal para incluir o feminicídio como circunstância qualificadora do crime de homicídio.",
                                  "enunciado":  "Segundo essa lei, o feminicídio caracteriza-se pelo homicídio de mulher cometido em contexto de:",
                                  "alternativas":  {
-                                                      "a":  "Latrocínio praticado exclusivamente em via pública, mediante emprego de arma de fogo",
+                                                      "a":  "Latrocínio praticado contra mulher, mediante emprego de arma de fogo em via pública",
                                                       "b":  "Homicídio praticado no exercício de atividade profissional regulamentada",
-                                                      "c":  "Conflitos entre membros de facções criminosas rivais, sem relação com o gênero da vítima",
-                                                      "d":  "Qualquer crime cometido por motivo financeiro, independentemente do gênero da vítima",
+                                                      "c":  "Conflitos entre membros de facções criminosas rivais, com vítima mulher integrante de um dos grupos",
+                                                      "d":  "Crime cometido por motivo financeiro contra mulher, como na disputa por herança familiar",
                                                       "e":  "Violência doméstica e familiar ou menosprezo e discriminação à condição de mulher"
                                                   },
                                  "resposta":  "e",
-                                 "explicacao":  "O feminicídio é reconhecido como qualificadora do homicídio quando praticado contra mulher por razões da condição de sexo feminino, o que inclui contextos de violência doméstica e familiar ou de menosprezo e discriminação à mulher, resultando em pena mais grave.",
+                                 "explicacao":  "O feminicídio se caracteriza pelo homicídio de mulher praticado em contexto de violência doméstica e familiar ou por menosprezo e discriminação à condição de mulher — são essas duas hipóteses que a lei enumera. As alternativas que trazem vítima mulher em latrocínio, em conflito entre facções ou em disputa patrimonial são as mais instrutivas de descartar, porque mostram que o sexo da vítima não basta: o que qualifica é a razão de gênero. Homicídio no exercício de atividade profissional regulamentada não integra a definição. E crime por motivo financeiro, ainda que a vítima seja mulher, segue a qualificadora do motivo torpe.",
                                  "formato":  "direta"
                              },
                              {
@@ -11015,14 +11015,14 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Indicadores de saúde pública, como a taxa de mortalidade infantil, costumam apresentar variação expressiva entre diferentes regiões de um mesmo país, refletendo diferenças de acesso a saneamento básico, pré-natal e atendimento hospitalar.",
                                  "enunciado":  "A persistência de diferenças regionais na taxa de mortalidade infantil dentro de um mesmo país é interpretada, do ponto de vista dos direitos humanos, sobretudo como evidência de que:",
                                  "alternativas":  {
-                                                      "a":  "A universalização formal de um direito social elimina, por si só, qualquer desigualdade regional em sua efetivação",
+                                                      "a":  "A universalização formal de um direito social é suficiente para assegurar sua efetivação em cada uma das regiões do território nacional",
                                                       "b":  "A mortalidade infantil é um indicador irrelevante para avaliar políticas públicas de saúde, sendo substituída, para esse fim, pelo Índice de Desenvolvimento Humano",
-                                                      "c":  "A mortalidade infantil depende exclusivamente de fatores genéticos da população local, sem relação com políticas públicas",
+                                                      "c":  "A mortalidade infantil depende sobretudo de fatores genéticos e do perfil epidemiológico de cada população local",
                                                       "d":  "As diferenças regionais decorrem sobretudo da variação de perfil etário entre as regiões",
                                                       "e":  "O direito à saúde, embora formalmente universal, tem sua efetivação condicionada por desigualdades estruturais de infraestrutura entre diferentes regiões"
                                                   },
                                  "resposta":  "e",
-                                 "explicacao":  "Diferenças regionais persistentes na taxa de mortalidade infantil evidenciam que a universalidade formal de um direito social, como a saúde, não garante, por si só, sua efetivação igualitária, que depende de investimentos concretos em infraestrutura, saneamento e acesso a serviços, distribuídos de forma desigual entre regiões de um mesmo país.",
+                                 "explicacao":  "A persistência de diferenças regionais é lida como evidência de que o direito à saúde, formalmente universal, tem sua efetivação condicionada por desigualdades estruturais de infraestrutura, renda e saneamento entre regiões. Supor que a universalização formal basta é o distrator mais importante de recusar, porque é precisamente a distância entre norma e efetividade que o dado revela. Atribuir a mortalidade a fatores genéticos e ao perfil epidemiológico local desloca o problema para a biologia, quando ele responde a políticas públicas. Explicá-la pela variação de perfil etário confunde indicadores, já que a taxa se calcula sobre nascidos vivos. E dizer que ela é indicador irrelevante contraria seu uso como termômetro clássico de política de saúde.",
                                  "dificuldade":  "dificil",
                                  "formato":  "direta"
                              },
@@ -11145,12 +11145,12 @@ window.QUESTION_BANKS = {
                                  "alternativas":  {
                                                       "a":  "Favorecer a ressocialização do apenado e sua reintegração gradual à sociedade após o cumprimento da pena",
                                                       "b":  "Reduzir o custo do sistema prisional por meio da diminuição do número de vagas necessárias",
-                                                      "c":  "Eliminar qualquer diferença de tratamento entre apenados de diferentes regimes, prevista erroneamente em normas já revogadas",
+                                                      "c":  "Uniformizar o tratamento entre apenados dos regimes fechado, semiaberto e aberto, conforme o tempo de pena já cumprido",
                                                       "d":  "Prolongar ao máximo o tempo de permanência do apenado em regime fechado, independentemente de seu comportamento carcerário",
-                                                      "e":  "Impedir que o apenado tenha qualquer contato com atividades educacionais durante o cumprimento da pena"
+                                                      "e":  "Restringir as atividades educacionais ao período posterior ao cumprimento de metade da pena imposta"
                                                   },
                                  "resposta":  "a",
-                                 "explicacao":  "Institutos como remição de pena por trabalho ou estudo e progressão de regime têm como objetivo favorecer a ressocialização do apenado, incentivando comportamentos que facilitem sua reintegração gradual à sociedade após o cumprimento da pena, em consonância com a função não apenas punitiva, mas também reeducativa atribuída à execução penal.",
+                                 "explicacao":  "O objetivo declarado desses instrumentos de execução penal é favorecer a ressocialização e a reintegração gradual do apenado à sociedade — a progressão de regime, o trabalho e o estudo compõem esse percurso. A uniformização do tratamento entre regimes é o distrator mais fino, porque a execução penal de fato considera o tempo cumprido: ela o faz para diferenciar regimes, e não para igualá-los, já que é na diferença que a progressão consiste. A redução de custos do sistema prisional é efeito colateral possível, não objetivo declarado. Prolongar ao máximo o regime fechado contraria a progressão. E restringir o estudo inverte a remição pela leitura e pelo trabalho, que a lei incentiva.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
                              },
@@ -11320,13 +11320,13 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "O cumprimento dessas normas técnicas de acessibilidade é considerado condição necessária para a efetivação de qual direito?",
                                  "alternativas":  {
                                                       "a":  "Direito de ir e vir e de participação social em igualdade de condições",
-                                                      "b":  "Direito à livre iniciativa econômica e à exploração comercial, sem relação com esse direito",
-                                                      "c":  "Direito de propriedade privada sobre bens imóveis urbanos, sem relação com acessibilidade",
-                                                      "d":  "Direito ao sigilo de correspondência e das comunicações privadas, segundo o CNJ",
+                                                      "b":  "Direito à livre iniciativa econômica e à exploração comercial de espaço público",
+                                                      "c":  "Direito de propriedade privada sobre bens imóveis urbanos e seu uso exclusivo",
+                                                      "d":  "Direito ao sigilo de correspondência e das comunicações privadas do cidadão",
                                                       "e":  "Direito à privacidade e à inviolabilidade do domicílio"
                                                   },
                                  "resposta":  "a",
-                                 "explicacao":  "Normas técnicas de acessibilidade arquitetônica são condição necessária, embora não suficiente, para a efetivação do direito de ir e vir e de participação social em igualdade de condições assegurado a pessoas com deficiência, já que barreiras físicas no ambiente construído restringem, na prática, o exercício desses direitos mesmo quando formalmente reconhecidos em lei.",
+                                 "explicacao":  "As normas técnicas de acessibilidade são condição para a efetivação do direito de ir e vir e da participação social em igualdade de condições: sem rampa, piso tátil ou elevador, a liberdade de locomoção existe no papel e não na rua. As demais alternativas apresentam direitos igualmente previstos e sem relação de dependência com a norma técnica descrita — a livre iniciativa, a propriedade, o sigilo das comunicações e a inviolabilidade do domicílio não se realizam por meio de projeto arquitetônico acessível. A pista está no objeto das normas: elas tratam de circulação e uso do espaço, e é sobre isso que o direito correspondente incide.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
                              },
@@ -11575,14 +11575,14 @@ window.QUESTION_BANKS = {
                                  "texto_apoio":  "Comunidades de terreiro, que praticam religiões de matriz africana, relatam episódios frequentes de discriminação, invasão de espaços de culto e discurso de ódio religioso, muitas vezes associados a preconceito racial.",
                                  "enunciado":  "Esse tipo de violação evidencia a interseção entre:",
                                  "alternativas":  {
-                                                      "a":  "Direito eleitoral e liberdade sindical, temas regulados por normas trabalhistas específicas, conforme a CLT e a legislação eleitoral",
-                                                      "b":  "Direito do consumidor e direito tributário aplicados a instituições religiosas, conforme entendimento equivocado do CDC",
-                                                      "c":  "Direito de propriedade e liberdade de imprensa, sem qualquer relação com discriminação religiosa",
+                                                      "a":  "Direito eleitoral e liberdade sindical, em razão do uso de templos como local de campanha e de organização de trabalhadores",
+                                                      "b":  "Direito do consumidor e direito tributário, aplicados à imunidade fiscal que a Constituição reconhece aos templos religiosos",
+                                                      "c":  "Direito de propriedade e liberdade de imprensa, em razão da divulgação de imagens do interior de templos sem autorização dos responsáveis pelo culto",
                                                       "d":  "Direito de vizinhança e poder de polícia municipal sobre ruído em áreas residenciais",
                                                       "e":  "Intolerância religiosa e racismo, já que a discriminação contra religiões de matriz africana está associada a preconceitos étnico-raciais"
                                                   },
                                  "resposta":  "e",
-                                 "explicacao":  "A discriminação contra comunidades de terreiro evidencia a interseção entre intolerância religiosa e racismo, já que a rejeição a religiões de matriz africana no Brasil está historicamente associada a preconceitos étnico-raciais, o que reforça a importância de políticas de proteção à liberdade religiosa articuladas ao combate ao racismo estrutural.",
+                                 "explicacao":  "A violação evidencia a interseção entre intolerância religiosa e racismo, porque a discriminação contra religiões de matriz africana se articula a preconceitos étnico-raciais historicamente dirigidos à população negra. A alternativa que aproxima direito do consumidor e direito tributário é a mais bem construída, porque a imunidade fiscal dos templos existe de fato na Constituição — e é matéria de arrecadação, sem relação com a discriminação em causa. O uso de templos em campanha eleitoral é tema real e distinto. A divulgação de imagens sem autorização convoca propriedade e imprensa, também alheias ao caso. E o direito de vizinhança sobre ruído é justamente o enquadramento que costuma mascarar a intolerância.",
                                  "dificuldade":  "media",
                                  "formato":  "direta"
                              },
@@ -11962,13 +11962,13 @@ window.QUESTION_BANKS = {
                                  "enunciado":  "Diante desse cenário, parte da doutrina de direitos humanos passou a discutir o acesso à internet como:",
                                  "alternativas":  {
                                                       "a":  "direito social emergente, cuja ausência aprofunda desigualdades existentes",
-                                                      "b":  "privilégio comercial, sem relação com os direitos fundamentais",
+                                                      "b":  "privilégio comercial regulado por contrato de concessão firmado entre as operadoras e o Estado",
                                                       "c":  "direito de terceira geração já consolidado em tratado vinculante",
                                                       "d":  "matéria estranha ao campo de estudo dos direitos humanos",
                                                       "e":  "direito já universalizado no conjunto dos países, sem desigualdade remanescente"
                                                   },
                                  "resposta":  "a",
-                                 "explicacao":  "O argumento é instrumental: a conexão não vale por si, e sim porque virou condição de acesso a serviços, trabalho e informação — quem está fora perde direitos que já tinha, e a exclusão digital se soma às desigualdades anteriores. Em (c) está o distrator que exige atenção ao verbo: a doutrina discute o reconhecimento, o que significa que ele ainda não está consolidado em tratado vinculante. Em (e), a universalização é o oposto do quadro descrito. Em (b) e (d), tratar o acesso como mercadoria ou como tema alheio aos direitos humanos é a posição que o debate contesta."
+                                 "explicacao":  "Parte da doutrina passou a tratar o acesso à internet como direito social emergente, cuja ausência aprofunda desigualdades já existentes em educação, trabalho e acesso a serviços públicos. Descrevê-lo como privilégio comercial sob concessão é o distrator mais plausível, porque a prestação do serviço realmente se dá por concessão regulada — o que está em discussão é outra coisa: a natureza jurídica do acesso para o titular, não o regime de exploração. Chamá-lo de direito de terceira geração consolidado em tratado vinculante antecipa um reconhecimento que ainda não existe nesses termos. Tratá-lo como matéria estranha aos direitos humanos ignora o próprio debate. E supor acesso universalizado contraria os dados de exclusão digital."
                              }
                          ],
     "filosofia-sociologia":  [
@@ -16318,14 +16318,14 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "\"Só um minuto, por favor: eu vou estar verificando o status do seu pedido agora mesmo e já retorno com a resposta.\"",
                           "enunciado":  "A construção \u0027vou estar verificando\u0027 exemplifica um desvio conhecido como gerundismo. Assinale a alternativa que explica corretamente o problema.",
                           "alternativas":  {
-                                               "a":  "A construção está correta, pois o gerúndio pode expressar qualquer relação temporal com o verbo principal, inclusive uma ação futura ainda não iniciada.",
-                                               "b":  "A construção está correta em qualquer registro, formal ou informal, pois \u0027estar + gerúndio\u0027 é sempre sinônimo perfeito de \u0027ir + infinitivo\u0027 na língua portuguesa.",
-                                               "c":  "Há gerundismo, mas o problema está no auxiliar \u0027ir\u0027, que não pode anteceder o verbo \u0027estar\u0027 em nenhuma construção.",
-                                               "d":  "O único problema da frase é a ausência de vírgula antes de \u0027e já retorno\u0027, sem qualquer relação com o uso indevido do gerúndio ou com o gerundismo mencionado no enunciado.",
+                                               "a":  "A construção está correta, pois o gerúndio em locução com \u0027estar\u0027 pode indicar ação prevista para momento posterior ao da fala, uso amplamente registrado na linguagem de atendimento comercial e de teleatendimento",
+                                               "b":  "A construção está correta na fala e inadequada apenas na escrita formal, em que \u0027ir + infinitivo\u0027 é a forma preferida pelos manuais de redação oficial",
+                                               "c":  "Há gerundismo, e o problema está no auxiliar \u0027ir\u0027, que forma uma perífrase de futuro incompatível com a de \u0027estar + gerúndio\u0027 na mesma locução",
+                                               "d":  "O problema da frase é a ausência de vírgula antes de \u0027e já retorno\u0027, que separa orações coordenadas com sujeitos distintos",
                                                "e":  "Há gerundismo: o gerúndio é usado para indicar uma ação futura, quando deveria expressar apenas ação concomitante ou em andamento; o adequado seria \u0027vou verificar\u0027 ou \u0027estou verificando\u0027."
                                            },
                           "resposta":  "e",
-                          "explicacao":  "O gerundismo consiste em usar uma locução como \u0027vou estar + gerúndio\u0027 para expressar uma ação futura, função que não é própria do gerúndio; este deve indicar ação simultânea ou em processo (como em \u0027estou verificando agora\u0027). O mais adequado nesse contexto seria \u0027vou verificar o status\u0027 (ação futura simples) ou \u0027estou verificando\u0027 (ação em curso no momento da fala).",
+                          "explicacao":  "Há gerundismo: o gerúndio é empregado para indicar ação futura, quando deveria expressar ação concomitante ou em andamento, e o adequado seria \u0027vou verificar\u0027 ou \u0027estou verificando\u0027. A alternativa que descreve o uso na linguagem de atendimento é a mais difícil de recusar, porque a descrição é exata — foi por esse canal que a construção se difundiu — e o registro de um uso não o torna adequado à norma. A defesa que a admite na fala e a proíbe na escrita formal é a posição sociolinguística sobre o caso, e a questão pede o problema, não o registro. Localizar o defeito no auxiliar \u0027ir\u0027 acerta o diagnóstico e erra a explicação, porque \u0027vou estar\u0027 é perífrase legítima em outros contextos. E a vírgula antes de \u0027e já retorno\u0027 é questão de pontuação, alheia ao gerúndio.",
                           "formato":  "direta"
                       },
                       {
@@ -17277,12 +17277,12 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "marcam uma citação direta da fala do gerente, e o contraste com a segunda oração sugere um efeito irônico em relação à promessa não cumprida.",
                                                "b":  "deveriam ser substituídas por parênteses, já que aspas não têm função de citação em português, servindo apenas para destacar palavras estrangeiras.",
-                                               "c":  "não têm nenhuma função no trecho, podendo ser removidas sem qualquer alteração de sentido ou de efeito irônico pretendido pelo autor.",
-                                               "d":  "indicam apenas um erro ortográfico cometido pelo gerente durante a fala, sem qualquer relação com a citação direta de suas palavras.",
+                                               "c":  "assinalam que a expressão foi tomada de um texto publicitário da empresa, e não da fala do gerente",
+                                               "d":  "indicam que a expressão foi traduzida de outro idioma pelo autor do texto, conforme convenção editorial",
                                                "e":  "assinalam que a expressão foi empregada em sentido irônico pelo autor, e não pelo gerente."
                                            },
                           "resposta":  "a",
-                          "explicacao":  "As aspas reproduzem literalmente a fala do gerente, e o contraste com o fato narrado a seguir (espera de quarenta minutos) gera um efeito irônico, evidenciando a distância entre a promessa e a experiência real do cliente.",
+                          "explicacao":  "As aspas marcam citação direta da fala do gerente, e o contraste com a segunda oração produz efeito irônico em relação à promessa não cumprida. A atribuição da expressão a um texto publicitário é o distrator mais plausível, porque frases como \u0027rápido e sem burocracia\u0027 realmente circulam em peça de propaganda — o trecho, porém, apresenta a expressão como dita pelo gerente, e é dessa autoria que a ironia depende. Dizer que as aspas não têm função de citação em português restringe indevidamente seu uso. A tradução de outro idioma segue outra convenção, o itálico. E atribuir a ironia ao autor, e não ao contraste com o resultado, desloca a fonte do efeito: a expressão é sincera na boca do gerente e irônica no conjunto do período.",
                           "dificuldade":  "media",
                           "formato":  "direta"
                       },
@@ -20392,14 +20392,14 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "A Índia conquistou sua independência do Reino Unido em 1947, após décadas de mobilização.",
                                "enunciado":  "A estratégia de luta liderada por Mahatma Gandhi para a independência indiana caracterizava-se, sobretudo, por:",
                                "alternativas":  {
-                                                    "a":  "A luta armada revolucionária contra o exército britânico, estratégia associada a outros movimentos anticoloniais do século XX",
+                                                    "a":  "A luta armada revolucionária contra o exército britânico, organizada a partir de células urbanas em Calcutá e em Bombaim",
                                                     "b":  "A resistência não violenta e a desobediência civil, com boicotes e marchas pacíficas",
                                                     "c":  "A organização de uma guerrilha rural apoiada por potências estrangeiras, que forçou a retirada britânica do subcontinente",
-                                                    "d":  "A aliança militar direta com a União Soviética, aproximação inexistente na trajetória política de Gandhi",
-                                                    "e":  "A aceitação integral do domínio colonial britânico, postura oposta à defendida pelo Congresso Nacional Indiano"
+                                                    "d":  "A aliança com o Exército Nacional Indiano de Subhas Chandra Bose, que combateu os britânicos ao lado das potências do Eixo",
+                                                    "e":  "A aceitação do domínio britânico em troca de assentos indianos no Parlamento de Londres, como queriam os setores moderados do Congresso"
                                                 },
                                "resposta":  "b",
-                               "explicacao":  "Gandhi liderou o movimento de independência indiano por meio da resistência não violenta (satyagraha) e da desobediência civil, com ações como boicotes a produtos britânicos e marchas pacíficas, influenciando posteriormente outros movimentos por direitos civis no mundo.",
+                               "explicacao":  "A estratégia de Gandhi foi a resistência não violenta e a desobediência civil: boicote a produtos e instituições britânicas, marchas como a do Sal, jejuns e não cooperação. A aliança com o Exército Nacional Indiano de Subhas Chandra Bose é o distrator mais forte, porque Bose foi presidente do Congresso Nacional Indiano, rompeu com Gandhi justamente por defender a via armada e chegou a combater ao lado do Eixo — era a alternativa real dentro do movimento, e não a linha de Gandhi. A proposta de assentos no Parlamento de Londres corresponde aos moderados do Congresso, que Gandhi superou. A guerrilha rural apoiada por potências estrangeiras descreve outros processos anticoloniais. E aceitar integralmente o domínio contraria a própria luta pela independência.",
                                "formato":  "direta"
                            },
                            {
@@ -20423,14 +20423,14 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "",
                                "enunciado":  "A globalização contemporânea, intensificada a partir do final do século XX, caracteriza-se por:",
                                "alternativas":  {
-                                                    "a":  "O fim das organizações econômicas internacionais e blocos regionais, tendência contrária ao observado desde os anos 1990",
+                                                    "a":  "O enfraquecimento das organizações econômicas internacionais diante da multiplicação de acordos bilaterais entre países",
                                                     "b":  "A redução dos fluxos internacionais de capital, contida pela retomada de barreiras alfandegárias nas principais economias",
-                                                    "c":  "O isolamento crescente das economias nacionais, com redução do comércio internacional, tendência oposta à globalização",
-                                                    "d":  "A eliminação total das desigualdades econômicas entre os países, resultado nunca observado nas últimas décadas de globalização",
+                                                    "c":  "O isolamento crescente das economias nacionais, com substituição das importações por produção interna protegida",
+                                                    "d":  "A convergência da renda média entre os países, com os emergentes alcançando o patamar dos desenvolvidos",
                                                     "e":  "A intensificação dos fluxos de capitais, mercadorias, informações e pessoas, impulsionada por avanços tecnológicos"
                                                 },
                                "resposta":  "e",
-                               "explicacao":  "A globalização é marcada pela intensificação das interconexões econômicas, tecnológicas e culturais entre países, impulsionada por avanços nas comunicações e no transporte, embora acompanhada de debates sobre o aumento das desigualdades entre nações e dentro delas.",
+                               "explicacao":  "A globalização contemporânea se caracteriza pela intensificação dos fluxos de capitais, mercadorias, informações e pessoas, impulsionada por avanços em transporte e telecomunicações. A convergência de renda entre países é o distrator mais respeitável, porque é uma hipótese econômica discutida a sério e verificada em alguns casos, como a Coreia do Sul — o padrão geral não confirmou o alcance dos desenvolvidos, e a desigualdade entre países persiste. O enfraquecimento das organizações multilaterais frente a acordos bilaterais descreve uma tendência real e recente, posterior ao movimento que a questão trata. A redução dos fluxos de capital contraria o dado central do período. E o isolamento com substituição de importações descreve o modelo anterior.",
                                "formato":  "direta"
                            },
                            {
@@ -20725,14 +20725,14 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 1688-1689, a Inglaterra viveu um processo político que resultou na deposição do rei Jaime II e na aprovação da Declaração de Direitos (Bill of Rights).",
                                "enunciado":  "A Revolução Gloriosa é considerada um marco histórico por:",
                                "alternativas":  {
-                                                    "a":  "Restaurar o absolutismo monárquico na Inglaterra, hipótese contrária ao próprio sentido do evento",
+                                                    "a":  "Restaurar no trono a dinastia Stuart, deposta durante a guerra civil, com a coroação de Jaime II",
                                                     "b":  "Consolidar a supremacia do Parlamento sobre o poder real, com a Declaração de Direitos limitando a Coroa",
-                                                    "c":  "Abolir definitivamente a monarquia inglesa, transformando o país em república, o que não ocorreu em 1688",
-                                                    "d":  "Eliminar qualquer limitação ao poder do rei sobre os súditos, resultado oposto ao produzido pela revolução",
+                                                    "c":  "Abolir a monarquia inglesa e transformar o país em república governada por um conselho de Estado",
+                                                    "d":  "Ampliar o poder do rei sobre a Igreja da Inglaterra, por meio do Ato de Supremacia",
                                                     "e":  "Instaurar uma república sob Cromwell após a execução do rei, período em que a monarquia foi abolida na Inglaterra"
                                                 },
                                "resposta":  "b",
-                               "explicacao":  "A Revolução Gloriosa consolidou a supremacia do Parlamento sobre a Coroa, com a Declaração de Direitos limitando formalmente os poderes reais, estabelecendo as bases da monarquia parlamentar que caracterizaria o sistema político inglês nos séculos seguintes.",
+                               "explicacao":  "A Revolução Gloriosa de 1688 consolidou a supremacia do Parlamento sobre o poder real: Guilherme de Orange aceitou o trono já sob a Declaração de Direitos, que limitou a Coroa em matéria tributária, militar e judicial. A restauração dos Stuart com a coroação de Jaime II é o distrator mais fino, porque descreve fatos verdadeiros deslocados no tempo — a Restauração é de 1660, e Jaime II é precisamente o rei que a Revolução Gloriosa depôs. O Ato de Supremacia é de 1534, sob Henrique VIII. A república com conselho de Estado e a instauração sob Cromwell remetem à década de 1650, após a execução de Carlos I. E ampliar o poder do rei inverte o resultado do processo.",
                                "dificuldade":  "media",
                                "formato":  "direta"
                            },
@@ -20741,14 +20741,14 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em 1776, as treze colônias britânicas na América do Norte declararam sua independência da metrópole.",
                                "enunciado":  "Entre os fatores que motivaram esse processo estava:",
                                "alternativas":  {
-                                                    "a":  "A ausência completa de influência das ideias iluministas sobre os líderes coloniais, o que contraria fontes documentais do período",
+                                                    "a":  "A influência das ideias iluministas restrita ao debate religioso entre as congregações protestantes das colônias",
                                                     "b":  "A recusa da Coroa em manter o monopólio comercial com as colônias, que perderam mercado garantido para seus produtos",
-                                                    "c":  "O apoio irrestrito da Coroa britânica à autonomia política e fiscal das colônias, cenário oposto ao vivido pelas Treze Colônias",
+                                                    "c":  "O apoio da Coroa britânica à expansão colonial para oeste, além da linha dos Apalaches fixada em 1763",
                                                     "d":  "A insatisfação colonial com a tributação sem representação no Parlamento, resumida no lema ‘no taxation without representation’",
-                                                    "e":  "A decisão da metrópole de abolir todos os impostos cobrados das colônias, medida nunca adotada pela Coroa britânica"
+                                                    "e":  "A decisão da metrópole de abolir os impostos internos das colônias, mantendo apenas as tarifas sobre o comércio com outras potências europeias"
                                                 },
                                "resposta":  "d",
-                               "explicacao":  "A insatisfação com impostos como os da Lei do Selo e do Chá, cobrados sem que as colônias tivessem representação no Parlamento britânico, alimentou o lema \u0027no taxation without representation\u0027, um dos principais motores da mobilização que levou à independência dos Estados Unidos.",
+                               "explicacao":  "A independência das Treze Colônias foi motivada pela insatisfação com a tributação imposta sem representação no Parlamento, resumida no lema \u0027no taxation without representation\u0027. O apoio à expansão para oeste é o distrator mais bem construído, porque a linha dos Apalaches existiu de verdade — só que a Proclamação de 1763 proibiu a ocupação além dela, e essa proibição foi uma das queixas coloniais, o oposto de apoio. A recusa da Coroa em manter o monopólio inverte a política mercantilista em vigor. A abolição dos impostos internos contraria a série de leis tributárias do período, do Açúcar ao Selo. E restringir o iluminismo ao debate religioso ignora sua presença nos panfletos políticos.",
                                "dificuldade":  "media",
                                "formato":  "direta"
                            },
@@ -20757,14 +20757,14 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Entre 1791 e 1804, a colônia francesa de Saint-Domingue foi palco de uma revolta de escravizados que resultou na criação do Haiti, primeira nação independente da América Latina e primeiro país a abolir a escravidão em seu território.",
                                "enunciado":  "A Revolução Haitiana é considerada singular na história das revoluções atlânticas porque:",
                                "alternativas":  {
-                                                    "a":  "Foi conduzida exclusivamente por proprietários de terra brancos interessados em maior autonomia comercial no Caribe",
+                                                    "a":  "Foi conduzida pelos proprietários de terra brancos da colônia, que buscavam autonomia comercial diante do exclusivo francês",
                                                     "b":  "Foi conduzida pela elite colonial de proprietários, que manteve a estrutura escravista após romper com a metrópole francesa",
-                                                    "c":  "Manteve a escravidão mesmo após a independência do território, hipótese contrária ao próprio marco histórico do Haiti",
-                                                    "d":  "Não teve qualquer relação com os acontecimentos revolucionários da França do mesmo período histórico",
+                                                    "c":  "Manteve a escravidão após a independência, sob a forma de trabalho compulsório nas plantações administradas pelo novo Estado haitiano",
+                                                    "d":  "Ocorreu antes da Revolução Francesa, servindo-lhe de exemplo na formulação da Declaração dos Direitos do Homem e do Cidadão",
                                                     "e":  "Resultou da mobilização de escravizados que, inspirados também pela Revolução Francesa, conquistaram independência e abolição"
                                                 },
                                "resposta":  "e",
-                               "explicacao":  "A Revolução Haitiana combinou a luta por independência política com a abolição da escravidão, sendo protagonizada por pessoas escravizadas que se apropriaram dos ideais de liberdade e igualdade difundidos pela Revolução Francesa para romper simultaneamente com o domínio colonial e com a escravidão.",
+                               "explicacao":  "A Revolução Haitiana é singular porque resultou da mobilização de escravizados que, inspirados também pela Revolução Francesa, conquistaram ao mesmo tempo a independência e a abolição — nenhuma outra revolução atlântica combinou as duas coisas. A alternativa do trabalho compulsório é a mais exigente do conjunto, porque toca um fato incômodo e verdadeiro: Toussaint Louverture e depois Dessalines aboliram a escravidão e impuseram trabalho forçado na lavoura de exportação para sustentar a economia. Isso não é manutenção da escravidão, e é a razão de a alternativa ser tentadora. A condução por proprietários brancos descreve o que ocorreu em outras colônias. E o Haiti veio depois de 1789, não antes.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
                            },
@@ -20822,13 +20822,13 @@ window.QUESTION_BANKS = {
                                "enunciado":  "Em relação à primeira Revolução Industrial, a chamada Segunda Revolução Industrial caracterizou-se, sobretudo, por:",
                                "alternativas":  {
                                                     "a":  "Ampliar a base tecnológica da produção, com eletricidade, aço e petróleo, favorecendo a concentração em cartéis",
-                                                    "b":  "Reduzir drasticamente a escala da produção industrial, tendência oposta à concentração empresarial do período",
-                                                    "c":  "Retomar a produção artesanal em pequenas oficinas, revertendo a concentração fabril característica da fase anterior",
-                                                    "d":  "Manter o carvão e o ferro como únicas fontes relevantes, quadro típico apenas da primeira Revolução Industrial",
-                                                    "e":  "Eliminar por completo a utilização de mão de obra assalariada na indústria, hipótese contrária ao próprio processo industrial"
+                                                    "b":  "Reduzir a escala da produção industrial, com o retorno das fábricas às dimensões das oficinas do início do século XIX",
+                                                    "c":  "Retomar a produção artesanal em pequenas oficinas especializadas, organizadas em torno de corporações de ofício",
+                                                    "d":  "Manter o carvão e o ferro como base energética e material, com ganhos vindos apenas do aperfeiçoamento da máquina a vapor",
+                                                    "e":  "Substituir a mão de obra assalariada pelo trabalho por peça executado em domicílio, sob encomenda das fábricas"
                                                 },
                                "resposta":  "a",
-                               "explicacao":  "A Segunda Revolução Industrial ampliou a base tecnológica e energética da produção, incorporando eletricidade, aço e petróleo, e favoreceu a formação de grandes corporações, trustes e cartéis, alterando a escala e a organização da atividade industrial em relação à primeira fase.",
+                               "explicacao":  "A Segunda Revolução Industrial ampliou a base tecnológica da produção com eletricidade, aço e petróleo, e essa nova escala favoreceu a concentração empresarial em cartéis, trustes e monopólios. Manter carvão e ferro com ganhos apenas na máquina a vapor é o distrator mais forte, porque descreve com precisão a primeira fase: é a mudança de matriz energética e de material que separa uma da outra. O trabalho por peça em domicílio remete ao putting-out system, anterior à fábrica. A retomada da produção artesanal em corporações de ofício descreve a organização pré-industrial. E reduzir a escala da produção inverte o traço central do período, que é justamente a concentração.",
                                "dificuldade":  "media",
                                "formato":  "direta"
                            },
@@ -21075,14 +21075,14 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em agosto de 1945, os Estados Unidos lançaram bombas atômicas sobre as cidades japonesas de Hiroshima e Nagasaki.",
                                "enunciado":  "Esse episódio é significativo na história do século XX porque:",
                                "alternativas":  {
-                                                    "a":  "Não teve qualquer relação com o encerramento do conflito no Pacífico, contrariando o registro histórico",
-                                                    "b":  "Marcou o início, e não o fim, da participação japonesa na Segunda Guerra Mundial, cronologia invertida",
-                                                    "c":  "Resultou na ocupação permanente do Japão pela União Soviética, o que não ocorreu no pós-guerra japonês",
+                                                    "a":  "Encerrou o conflito no Pacífico sem que fosse necessária a rendição formal do governo japonês",
+                                                    "b":  "Marcou a entrada do Japão na Segunda Guerra Mundial, precipitada pelo ataque à base de Pearl Harbor",
+                                                    "c":  "Resultou na divisão do Japão em zonas de ocupação entre Estados Unidos e União Soviética, como ocorreu na Alemanha",
                                                     "d":  "Levou à assinatura imediata de um tratado de não proliferação, que impediu novos testes nucleares nas décadas seguintes",
                                                     "e":  "Precipitou a rendição japonesa e inaugurou a era nuclear, que marcaria as relações internacionais na Guerra Fria"
                                                 },
                                "resposta":  "e",
-                               "explicacao":  "Os bombardeios atômicos de Hiroshima e Nagasaki precipitaram a rendição japonesa e o fim da Segunda Guerra Mundial, ao mesmo tempo em que inauguraram a era nuclear, cujo potencial destrutivo passaria a moldar as relações internacionais e a lógica da dissuasão durante toda a Guerra Fria.",
+                               "explicacao":  "As bombas de Hiroshima e Nagasaki precipitaram a rendição japonesa e inauguraram a era nuclear, que passaria a organizar as relações internacionais na Guerra Fria. A divisão em zonas de ocupação é o distrator mais exigente, porque a comparação com a Alemanha é verdadeira para a Alemanha e para a Coreia — e o Japão ficou sob administração norte-americana, sem partilha com a União Soviética. O ataque a Pearl Harbor é real e marcou a entrada do Japão na guerra em 1941, não seu fim. O tratado de não proliferação só veio em 1968, e não impediu os testes das décadas seguintes. E a rendição formal ocorreu, assinada em setembro de 1945 a bordo do Missouri.",
                                "dificuldade":  "media",
                                "formato":  "direta"
                            },
@@ -21140,13 +21140,13 @@ window.QUESTION_BANKS = {
                                "enunciado":  "Essa política, conhecida como Doutrina Truman, é considerada um marco porque:",
                                "alternativas":  {
                                                     "a":  "Inaugurou a política de coexistência pacífica, baseada no reconhecimento mútuo das áreas de influência das duas potências",
-                                                    "b":  "Expressava a disposição soviética de apoiar movimentos capitalistas ao redor do mundo, inversão dos fatos",
+                                                    "b":  "Expressava a disposição norte-americana de apoiar regimes autoritários aliados, desde que declaradamente anticomunistas",
                                                     "c":  "Formalizou a política de contenção norte-americana ao comunismo, pilar da postura dos EUA na Guerra Fria",
-                                                    "d":  "Resultou na retirada completa dos Estados Unidos dos assuntos europeus, o oposto do que a doutrina propôs",
-                                                    "e":  "Encerrou definitivamente qualquer tensão entre Estados Unidos e União Soviética, o que os anos seguintes desmentem"
+                                                    "d":  "Resultou na criação de uma aliança militar permanente no Atlântico Norte, com cláusula de defesa mútua entre os signatários",
+                                                    "e":  "Encerrou a colaboração militar entre Estados Unidos e União Soviética mantida durante a Segunda Guerra Mundial"
                                                 },
                                "resposta":  "c",
-                               "explicacao":  "A Doutrina Truman formalizou a política de contenção (containment) ao comunismo, comprometendo os Estados Unidos a apoiar governos e movimentos ameaçados pela expansão soviética, tornando-se um dos pilares ideológicos da atuação americana ao longo de toda a Guerra Fria.",
+                               "explicacao":  "A Doutrina Truman, de 1947, formalizou a política de contenção do comunismo, que se tornaria o pilar da postura norte-americana na Guerra Fria: ajuda militar e econômica a países sob pressão soviética, começando por Grécia e Turquia. A criação da aliança militar no Atlântico Norte é o distrator mais exigente, porque a OTAN existe, decorre da mesma virada estratégica e traz de fato a cláusula de defesa mútua — só que é de 1949, dois anos depois, e não é o que a doutrina formalizou. O apoio a regimes autoritários anticomunistas descreve consequências posteriores da contenção, não o marco. A coexistência pacífica é formulação soviética dos anos 1950. E dizer que a doutrina encerrou qualquer tensão contraria as quatro décadas seguintes.",
                                "dificuldade":  "media",
                                "formato":  "direta"
                            },
@@ -21251,14 +21251,14 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Em maio de 1968, a França viveu uma onda de protestos estudantis e greves operárias que chegou a paralisar o país.",
                                "enunciado":  "O movimento de Maio de 1968 é interpretado como expressão de:",
                                "alternativas":  {
-                                                    "a":  "Um movimento organizado exclusivamente pelo governo francês da época, hipótese contrária à sua origem popular",
+                                                    "a":  "Um movimento organizado pelo Partido Comunista Francês, que conduziu a greve geral em coordenação com o movimento estudantil",
                                                     "b":  "Uma disputa restrita ao meio sindical pela recomposição salarial, sem articulação com pautas estudantis ou culturais",
-                                                    "c":  "A ausência completa de qualquer repercussão internacional do movimento, o que os protestos semelhantes contrariam",
-                                                    "d":  "Uma crise estritamente econômica, sem qualquer dimensão cultural ou comportamental, leitura que ignora seu caráter contestatório",
+                                                    "c":  "Uma mobilização restrita à França, sem repercussão nos movimentos estudantis de outros países no mesmo ano",
+                                                    "d":  "Uma crise de origem econômica, provocada pelo fim do crescimento acelerado do pós-guerra e pelo desemprego entre os jovens",
                                                     "e":  "Um questionamento mais amplo das estruturas sociais e políticas tradicionais, unindo demandas estudantis e trabalhistas"
                                                 },
                                "resposta":  "e",
-                               "explicacao":  "Maio de 1968 uniu demandas estudantis por reformas educacionais e comportamentais a reivindicações trabalhistas, expressando um questionamento mais amplo das estruturas sociais, culturais e políticas tradicionais da sociedade francesa, com repercussões que influenciaram movimentos semelhantes em outros países.",
+                               "explicacao":  "Maio de 1968 é lido como questionamento amplo das estruturas sociais e políticas tradicionais, unindo pautas estudantis, culturais e trabalhistas — autoridade, sexualidade, universidade e trabalho na mesma revolta. A organização pelo Partido Comunista Francês é o distrator mais forte, porque o partido e a CGT estavam no centro da greve geral: eles atuaram para conter o movimento estudantil, de que desconfiavam, e negociaram a saída com o governo nos acordos de Grenelle. A leitura estritamente econômica ignora a dimensão comportamental, e a França de 1968 ainda vivia o crescimento do pós-guerra. Restringir o episódio ao meio sindical apaga o Quartier Latin. E supor ausência de repercussão internacional contraria os protestos daquele mesmo ano no México, na Itália e nos Estados Unidos.",
                                "dificuldade":  "media",
                                "formato":  "direta"
                            },
@@ -21299,14 +21299,14 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "A independência da Índia em relação ao Reino Unido, em 1947, foi acompanhada da divisão do território em dois países.",
                                "enunciado":  "Essa divisão, conhecida como Partição da Índia, resultou na criação da Índia e do Paquistão, tendo como um de seus efeitos mais dramáticos:",
                                "alternativas":  {
-                                                    "a":  "O fim de qualquer tensão entre Índia e Paquistão desde então, o que os conflitos posteriores pela Caxemira desmentem",
-                                                    "b":  "Uma transição negociada sem deslocamentos significativos de população, com as minorias permanecendo em seus locais de origem",
-                                                    "c":  "A manutenção da Índia como colônia britânica por mais várias décadas, hipótese contrária à independência de 1947",
-                                                    "d":  "Uma transição pacífica e sem qualquer deslocamento populacional, cenário desmentido pelos relatos históricos da partição",
+                                                    "a":  "O fim das tensões entre Índia e Paquistão, seladas por acordo definitivo de fronteiras assinado sob mediação britânica ainda em 1947",
+                                                    "b":  "Uma transição negociada com transferência ordenada de população, conduzida por comissões mistas de fronteira nas duas províncias divididas",
+                                                    "c":  "A manutenção do subcontinente sob administração britânica até a retirada final das tropas, concluída na década de 1950",
+                                                    "d":  "A criação de um terceiro Estado para a população sikh do Punjab, província que a nova fronteira dividiu entre os dois países",
                                                     "e":  "Intensos deslocamentos populacionais entre hindus, muçulmanos e sikhs, com violência em massa entre comunidades religiosas"
                                                 },
                                "resposta":  "e",
-                               "explicacao":  "A Partição da Índia, que criou a Índia e o Paquistão com base em critérios predominantemente religiosos, provocou um dos maiores deslocamentos populacionais forçados da história, acompanhado de violência em massa entre comunidades hindus, muçulmanas e sikhs, e lançou as bases de tensões entre os dois países que persistem até hoje.",
+                               "explicacao":  "O efeito mais dramático da Partição de 1947 foi o deslocamento de milhões de hindus, muçulmanos e sikhs entre os dois novos Estados, acompanhado de violência em massa entre comunidades religiosas. A criação de um Estado sikh é o distrator mais bem informado, porque a demanda existiu, a comunidade sikh se viu partida ao meio pela nova fronteira e o Punjab foi onde a violência atingiu o pior grau — e nenhum terceiro Estado foi criado. A comissão de fronteiras existiu, presidida por Radcliffe, e o traçado foi divulgado às pressas, sem transferência ordenada. As tensões com o Paquistão não cessaram, como mostram as guerras pela Caxemira. E a independência ocorreu em 1947, não na década seguinte.",
                                "dificuldade":  "dificil",
                                "formato":  "direta"
                            },
@@ -21333,12 +21333,12 @@ window.QUESTION_BANKS = {
                                "alternativas":  {
                                                     "a":  "A formação de um terceiro bloco militar, rival tanto dos Estados Unidos quanto da União Soviética",
                                                     "b":  "A criação de um agrupamento de países em desenvolvimento voltado à coordenação de posições em negociações econômicas na ONU",
-                                                    "c":  "A criação de uma moeda única para os países participantes, proposta ausente das discussões da conferência",
-                                                    "d":  "A subordinação automática desses países ao bloco soviético, o que contraria o próprio espírito de Bandung",
+                                                    "c":  "A criação de um banco de desenvolvimento comum aos países participantes, com capital formado por suas reservas em ouro",
+                                                    "d":  "A subordinação desses países ao bloco soviético, em troca de apoio militar contra as antigas metrópoles coloniais",
                                                     "e":  "O Movimento dos Países Não Alinhados, que buscava autonomia política para nações recém-independentes na Guerra Fria"
                                                 },
                                "resposta":  "e",
-                               "explicacao":  "A Conferência de Bandung reuniu países da Ásia e da África dispostos a afirmar sua autonomia política diante da polarização da Guerra Fria, lançando as bases para o posterior Movimento dos Países Não Alinhados, que buscava uma terceira via entre os blocos capitalista e socialista.",
+                               "explicacao":  "A Conferência de Bandung, em 1955, lançou as bases do Movimento dos Países Não Alinhados, que buscava autonomia política para nações recém-independentes em um mundo dividido pela Guerra Fria. A criação de um agrupamento de países em desenvolvimento para coordenar posições econômicas na ONU é o distrator mais forte, porque isso realmente aconteceu, no Grupo dos 77, uma década depois e com outra finalidade, a de negociação comercial. Um banco de desenvolvimento comum não figurou entre os resultados. A subordinação ao bloco soviético contraria o próprio não alinhamento. E a formação de um terceiro bloco militar foi expressamente recusada, já que o movimento não constituiu aliança militar.",
                                "dificuldade":  "media",
                                "formato":  "direta"
                            },
@@ -21474,14 +21474,14 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Assinado em 1992, o Tratado de Maastricht estabeleceu as bases para a criação da União Europeia, aprofundando um processo de integração regional iniciado décadas antes.",
                                "enunciado":  "Entre os principais avanços trazidos por esse tratado estava:",
                                "alternativas":  {
-                                                    "a":  "A criação de uma união estritamente militar entre os países europeus, sem qualquer integração econômica",
+                                                    "a":  "A criação de uma união estritamente militar entre os países europeus, com comando integrado e orçamento comum de defesa",
                                                     "b":  "A criação de uma força armada europeia unificada, subordinada a um comando único e independente da OTAN",
-                                                    "c":  "A exclusão definitiva de qualquer novo país-membro no futuro, cláusula ausente do Tratado de Maastricht",
-                                                    "d":  "O fim de qualquer forma de cooperação econômica entre os países europeus, o oposto do propósito do tratado",
+                                                    "c":  "A fixação de um número máximo de países-membros, com encerramento das adesões após a entrada dos Estados nórdicos",
+                                                    "d":  "A substituição da cooperação econômica por coordenação apenas intergovernamental, com devolução de competências aos Estados",
                                                     "e":  "O estabelecimento de bases para uma moeda única e para maior integração política e econômica entre os membros"
                                                 },
                                "resposta":  "e",
-                               "explicacao":  "O Tratado de Maastricht aprofundou a integração europeia ao estabelecer as bases institucionais para a criação de uma moeda única, o euro, e para maior integração política e econômica entre os países-membros, consolidando a transição da antiga Comunidade Econômica Europeia para a União Europeia.",
+                               "explicacao":  "O Tratado de Maastricht, de 1992, estabeleceu as bases da moeda única e ampliou a integração política e econômica, criando a União Europeia e os critérios de convergência que levariam ao euro. A criação de uma força armada europeia unificada e independente da OTAN é o distrator mais tentador, porque a política externa e de segurança comum foi de fato um dos pilares do tratado — sem comando único nem exército europeu, que continuam inexistentes. A união estritamente militar com orçamento de defesa comum comete o mesmo excesso. A devolução de competências aos Estados inverte o sentido do tratado. E não há cláusula de encerramento de adesões, como mostram as ampliações posteriores.",
                                "dificuldade":  "media",
                                "formato":  "direta"
                            },
@@ -21714,14 +21714,14 @@ window.QUESTION_BANKS = {
                                "texto_apoio":  "Depois de 1865, o Oeste dos Estados Unidos foi ocupado com apoio de ferrovias transcontinentais, distribuição de lotes a colonos e campanhas militares contra povos indígenas, confinados em reservas. A caça comercial reduziu drasticamente os rebanhos de bisões, base da subsistência de vários desses povos.",
                                "enunciado":  "A relação entre a redução dos rebanhos de bisões e a ocupação do Oeste é que",
                                "alternativas":  {
-                                                    "a":  "a escassez de bisões decorreu de doenças trazidas pelas ferrovias, sem relação com a caça.",
+                                                    "a":  "a escassez de bisões decorreu de epizootias transmitidas pelo gado que as ferrovias levaram ao Oeste.",
                                                     "b":  "os rebanhos foram preservados por acordo entre companhias ferroviárias e povos indígenas.",
                                                     "c":  "a caça comercial atingiu a base material de subsistência de povos que resistiam ao avanço.",
                                                     "d":  "a distribuição de lotes a colonos dependia da manutenção dos rebanhos em áreas abertas.",
                                                     "e":  "a criação das reservas garantiu aos povos indígenas o acesso permanente aos rebanhos."
                                                 },
                                "resposta":  "c",
-                               "explicacao":  "Sem os rebanhos, os povos das planícies perderam alimento, matéria-prima e mobilidade, e a resistência ao confinamento nas reservas tornou-se muito mais difícil de sustentar — a caça comercial teve efeito militar, mesmo quando não era essa a intenção de cada caçador. Atribuir a escassez a doenças exclui a caça, que o texto registra; não houve preservação por acordo; o loteamento agrícola dependia de terra livre de rebanhos, e não do contrário; e as reservas restringiram o acesso a eles."
+                               "explicacao":  "A caça comercial ao bisão atingiu a base material de subsistência dos povos que resistiam ao avanço sobre o Oeste, e essa destruição foi reconhecida na época como instrumento de submissão. A explicação pelas doenças trazidas com o gado é o distrator mais plausível, porque a chegada de rebanhos domésticos pelas ferrovias transmitiu de fato enfermidades à fauna nativa — foi fator secundário diante da matança sistemática por couro e língua. Supor acordo de preservação entre companhias ferroviárias e povos indígenas inverte o papel das ferrovias, que transportaram caçadores e couros. Vincular a distribuição de lotes à manutenção dos rebanhos contraria a lógica da cerca e do arado. E as reservas restringiram o acesso ao bisão, em vez de assegurá-lo."
                            },
                            {
                                "id":  "historia-geral-101",
@@ -24524,14 +24524,14 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "Sistemas de inteligência artificial baseados em redes neurais artificiais são inspirados, ainda que de forma simplificada, no funcionamento de neurônios biológicos. Assim como sinapses se fortalecem ou enfraquecem conforme a experiência, os pesos numéricos de uma rede neural são ajustados a cada novo dado processado, em um mecanismo de aprendizado por repetição.",
                                     "enunciado":  "No contexto do texto, a palavra \u0027sinapses\u0027 refere-se a",
                                     "alternativas":  {
-                                                         "a":  "os pesos numéricos das redes neurais artificiais, e não às conexões entre neurônios biológicos.",
+                                                         "a":  "os pesos numéricos ajustados a cada novo dado processado pela rede neural artificial.",
                                                          "b":  "um tipo de algoritmo de aprendizado de máquina distinto do funcionamento de neurônios biológicos.",
                                                          "c":  "conexões entre neurônios biológicos, responsáveis pela transmissão de impulsos nervosos.",
                                                          "d":  "as regiões cerebrais responsáveis pelo armazenamento permanente das memórias de longo prazo.",
-                                                         "e":  "componentes eletrônicos utilizados exclusivamente em computadores, sem relação com neurônios biológicos."
+                                                         "e":  "componentes eletrônicos que reproduzem em hardware o comportamento de um neurônio."
                                                      },
                                     "resposta":  "c",
-                                    "explicacao":  "O texto emprega \u0027sinapses\u0027 em seu sentido biológico original, estabelecendo uma analogia com os pesos numéricos das redes neurais artificiais, que são elementos distintos, embora inspirados nesse conceito.",
+                                    "explicacao":  "No texto, \u0027sinapses\u0027 nomeia as conexões entre neurônios biológicos, responsáveis pela transmissão dos impulsos nervosos — é o termo do lado biológico da analogia. Os pesos numéricos são o distrator mais forte, porque ocupam o outro lado dessa mesma comparação: o texto diz que, assim como as sinapses se fortalecem ou enfraquecem com a experiência, os pesos são ajustados a cada dado. Quem inverte os dois lados da analogia marca essa alternativa. Chamar sinapses de algoritmo de aprendizado troca a estrutura pelo procedimento. Componentes eletrônicos que imitam neurônios existem em pesquisa e não são o referente da palavra no texto. E as regiões de armazenamento de memória são estruturas cerebrais, não as junções entre células.",
                                     "formato":  "direta"
                                 },
                                 {
@@ -24540,13 +24540,13 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "A relação estabelecida entre os elementos do texto é predominantemente de",
                                     "alternativas":  {
                                                          "a":  "comparação entre dois fenômenos climáticos tratados no texto como independentes entre si.",
-                                                         "b":  "oposição, apresentando o avanço do mar como fenômeno que contraria as previsões sobre ondas de calor.",
+                                                         "b":  "oposição, contrapondo as ondas de calor no interior ao avanço do mar nas áreas de litoral.",
                                                          "c":  "contradição entre dados sobre emissões apresentados por estudos climáticos diferentes.",
-                                                         "d":  "definição de conceitos técnicos isolados, sem qualquer relação causal entre eles.",
+                                                         "d":  "definição, delimitando os conceitos técnicos de emissão de gases e de nível médio do mar.",
                                                          "e":  "causa e consequência, ligando emissões de gases, ondas de calor e avanço do mar."
                                                      },
                                     "resposta":  "e",
-                                    "explicacao":  "O texto encadeia causas (emissões de gases) e efeitos (ondas de calor, avanço do mar, remanejamento de comunidades), estruturando-se claramente como uma relação de causa e consequência.",
+                                    "explicacao":  "A relação é de causa e consequência, e o texto a encadeia explicitamente: as emissões elevam a frequência das ondas de calor, e o mesmo aquecimento faz avançar o nível do mar, o que já obriga o remanejamento de comunidades. A leitura como oposição entre interior e litoral é o distrator mais plausível, porque os dois efeitos se manifestam em lugares diferentes — só que o texto não os contrapõe, e sim os deriva da mesma causa. Tratar o trecho como definição de conceitos ignora o \u0027como consequência direta\u0027 que articula as orações. A comparação entre fenômenos independentes desfaz justamente o vínculo afirmado. E não há contradição entre dados de estudos distintos.",
                                     "formato":  "direta"
                                 },
                                 {
@@ -24768,13 +24768,13 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "Qual relação de causa e efeito é estabelecida no texto?",
                                     "alternativas":  {
                                                          "a":  "A perda de habitat é consequência, e não causa, do declínio das populações de abelhas.",
-                                                         "b":  "A segurança alimentar global é a causa do declínio das populações de abelhas, invertendo assim a relação real do texto.",
-                                                         "c":  "O declínio das abelhas é causado exclusivamente por fatores climáticos, não mencionados no texto.",
-                                                         "d":  "As abelhas não têm qualquer papel na produção agrícola mundial, ao contrário do que afirma o texto.",
+                                                         "b":  "A segurança alimentar global é a causa do declínio das populações de abelhas, pressionadas pela expansão da agricultura de consumo mundial.",
+                                                         "c":  "O declínio das abelhas é causado pela competição com espécies exóticas introduzidas nas áreas de cultivo.",
+                                                         "d":  "As abelhas polinizam sobretudo a vegetação nativa, e não as culturas agrícolas de consumo humano.",
                                                          "e":  "O uso de pesticidas e a perda de habitat estão associados ao declínio das abelhas, ameaçando a segurança alimentar."
                                                      },
                                     "resposta":  "e",
-                                    "explicacao":  "O texto estabelece uma cadeia causal explícita: pesticidas e perda de habitat causam o declínio das abelhas, que por sua vez ameaça a segurança alimentar mundial, dada sua importância na polinização.",
+                                    "explicacao":  "O texto encadeia: o uso intensivo de pesticidas e a perda de habitat estão associados ao declínio das abelhas, e esse declínio ameaça a segurança alimentar, já que elas polinizam cerca de um terço das culturas consumidas. A alternativa que faz da segurança alimentar a causa do declínio é o distrator mais forte, porque a expansão agrícola realmente pressiona os polinizadores — só que essa é uma cadeia diferente da que o texto constrói, em que a segurança alimentar é o efeito ameaçado e não o agente. A competição com espécies exóticas é fator real de declínio, ausente deste texto. Fazer da perda de habitat uma consequência inverte a ordem. E restringir a polinização à vegetação nativa contraria o dado do primeiro período.",
                                     "formato":  "direta"
                                 },
                                 {
@@ -24889,14 +24889,14 @@ window.QUESTION_BANKS = {
                                     "formato":  "direta",
                                     "enunciado":  "A estrutura argumentativa do texto é organizada principalmente em torno de",
                                     "alternativas":  {
-                                                         "a":  "uma comparação entre dois biomas distintos, sem relação causal entre eles",
-                                                         "b":  "uma definição isolada de desertificação, sem relação com o desmatamento",
+                                                         "a":  "uma comparação entre um bioma preservado e outro já degradado",
+                                                         "b":  "uma definição de desertificação a partir de seus indicadores de solo",
                                                          "c":  "uma cadeia de causas e consequências que forma um ciclo",
                                                          "d":  "uma crítica do autor às políticas ambientais vigentes na região",
                                                          "e":  "uma progressão cronológica da evolução histórica do fenômeno"
                                                      },
                                     "resposta":  "c",
-                                    "explicacao":  "Cada elo puxa o seguinte — menos mata, menos umidade no solo; menos umidade, menos chuva; menos chuva, menos regeneração — e o último elo realimenta o primeiro, o que fecha o ciclo. Em (e) está o distrator mais fino: há sim marcação temporal, quando o texto fala em décadas, mas o tempo indica a duração do processo, e não uma sucessão histórica de fases. Em (a) e (b), não há dois biomas comparados nem definição isolada do conceito. Em (d), o texto descreve o mecanismo sem julgar política alguma."
+                                    "explicacao":  "O texto se organiza como uma cadeia de causas e consequências que se fecha em ciclo: o desmatamento reduz a retenção de umidade, o que diminui as chuvas, o que impede a regeneração da vegetação, o que realimenta o processo. A leitura como definição é o distrator mais próximo, porque o trecho de fato explica o que é desertificação — e o faz pelo encadeamento, não por delimitação de conceito. A comparação entre biomas exigiria dois objetos contrastados, e há apenas um processo. A crítica às políticas ambientais não aparece, já que o texto não avalia decisões. E a progressão cronológica descreveria etapas datadas, e não um circuito que se retroalimenta."
                                 },
                                 {
                                     "id":  "interpretacao-texto-37",
@@ -25207,14 +25207,14 @@ window.QUESTION_BANKS = {
                                     "texto_apoio":  "No primeiro quadro, a pessoa está em reunião de vídeo, sorrindo e dizendo: \u0027Sim, total flexibilidade, adoro trabalhar de casa!\u0027. No segundo quadro, a câmera se afasta e mostra que ela está sentada na mesma cadeira desde as sete da manhã, com três notebooks abertos e um bilhete colado na parede: \u0027Só mais uma reunião e eu paro.\u0027 No terceiro quadro, é noite, e o bilhete continua ali, intocado.",
                                     "enunciado":  "O humor da tirinha se constrói principalmente pelo contraste entre",
                                     "alternativas":  {
-                                                         "a":  "a hora da manhã e a hora da noite marcadas no relógio, sem qualquer relação com o trabalho remoto.",
+                                                         "a":  "o horário marcado no primeiro quadro e o anoitecer do terceiro, que mostram a passagem do tempo.",
                                                          "b":  "o discurso entusiasmado sobre a \u0027flexibilidade\u0027 do home office e a rotina exaustiva revelada nos quadros seguintes.",
                                                          "c":  "o vocabulário corporativo usado pela personagem e a linguagem informal de quem responde a ela.",
                                                          "d":  "a quantidade de notebooks usados pela personagem e a qualidade da internet disponível na casa.",
                                                          "e":  "uma explicação técnica bem detalhada sobre a configuração de todos os equipamentos usados nas reuniões virtuais mostradas."
                                                      },
                                     "resposta":  "b",
-                                    "explicacao":  "A tirinha ironiza o discurso da \u0027flexibilidade\u0027 do trabalho remoto ao revelar, nos quadros seguintes, uma rotina de trabalho contínuo e sem pausas, evidenciando a contradição entre o que é dito e o que de fato acontece.",
+                                    "explicacao":  "O humor nasce do contraste entre o discurso entusiasmado sobre a flexibilidade do home office e a rotina exaustiva que os quadros seguintes revelam: a mesma cadeira desde as sete da manhã, três notebooks e um bilhete que continua intocado à noite. A passagem do tempo entre o primeiro e o terceiro quadro é o distrator mais fino, porque ela está na tirinha e é indispensável — é o veículo da piada, não o contraste que a produz, que se dá entre o que a personagem diz e o que se vê. O vocabulário corporativo aparece sem que haja um interlocutor de fala informal. A quantidade de notebooks compõe a cena, e a internet não é mencionada. E não há explicação técnica sobre equipamentos.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
                                 },
@@ -25371,12 +25371,12 @@ window.QUESTION_BANKS = {
                                     "alternativas":  {
                                                          "a":  "o uso de ervas da caatinga veio da gastronomia urbana, e não do saber local",
                                                          "b":  "a escassez de água impede o preparo dos pratos tradicionais do sertão",
-                                                         "c":  "as ervas da caatinga têm uso medicinal, sem relação com a alimentação",
+                                                         "c":  "as ervas da caatinga têm uso sobretudo medicinal nas comunidades do sertão",
                                                          "d":  "a culinária une sabor e adaptação ao bioma, transmitida entre gerações",
                                                          "e":  "o uso dessas ervas seria prática recente, sem tradição histórica na região"
                                                      },
                                     "resposta":  "d",
-                                    "explicacao":  "O texto recusa a leitura que reduz a culinária a gosto: o mesmo tempero que dá sabor aproveita o que a caatinga oferece, e o conhecimento de qual planta usar passa de uma geração à seguinte. São três camadas na mesma prática. Em (a) está a inversão de origem — o saber é local e anterior, não importado da cidade. Em (e), a transmissão entre gerações afirma o oposto de prática recente. Em (b), a escassez é o contexto que a prática enfrenta, não um impedimento. Em (c), o uso descrito é alimentar."
+                                    "explicacao":  "A ideia central é que a culinária sertaneja une sabor e adaptação ao bioma, num saber transmitido entre gerações que persiste apesar da escassez de água. O uso medicinal das ervas é o distrator mais plausível, porque a caatinga tem de fato essa tradição — e o texto trata do tempero de carnes e caldos, isto é, do uso alimentar. Atribuir a prática à gastronomia urbana inverte a direção do saber, que o texto situa na transmissão local. Dizer que a escassez de água impede o preparo contraria o \u0027resiste mesmo diante da escassez\u0027. E tratar o uso como recente nega a transmissão entre gerações."
                                 },
                                 {
                                     "id":  "interpretacao-texto-67",
@@ -25419,10 +25419,10 @@ window.QUESTION_BANKS = {
                                                          "b":  "O segundo parágrafo apresenta a versão do proprietário do casarão sobre o estado de conservação.",
                                                          "c":  "O segundo parágrafo nega que o casarão esteja, de fato, tombado como patrimônio histórico.",
                                                          "d":  "O segundo parágrafo explica a causa jurídica do paradoxo: proteção legal sem garantia de manutenção efetiva.",
-                                                         "e":  "O segundo parágrafo apresenta um tema completamente novo, sem relação com o casarão do primeiro."
+                                                         "e":  "O segundo parágrafo desloca o foco para a legislação de tombamento em geral, deixando de lado o caso do casarão."
                                                      },
                                     "resposta":  "d",
-                                    "explicacao":  "O segundo parágrafo esclarece por que um bem tombado pode estar deteriorado: o tombamento protege contra demolição, mas não garante recursos de manutenção, explicando assim o paradoxo apresentado no primeiro parágrafo.",
+                                    "explicacao":  "O segundo parágrafo explica a causa jurídica do paradoxo enunciado no primeiro: o tombamento impede demolição e descaracterização, sem obrigar a destinação de recursos, e é essa lacuna que produz um bem protegido e deteriorado. A leitura de que o parágrafo abandona o caso para tratar da legislação em geral é o distrator mais fino, porque ele realmente sobe ao plano da norma — e o faz para voltar ao casarão, que a última oração retoma. Dizer que o segundo parágrafo contradiz o primeiro é a confusão central: explicar um paradoxo não é negar a informação que o gerou. E o texto não traz versão do proprietário nem nega o tombamento.",
                                     "dificuldade":  "dificil",
                                     "formato":  "direta"
                                 },
@@ -25706,11 +25706,11 @@ window.QUESTION_BANKS = {
                                                          "a":  "no contraste entre a linguagem técnica dos aplicativos de produtividade e a rotina caseira do narrador.",
                                                          "b":  "na ironia de o narrador considerar produtivo cumprir apenas uma tarefa sobre planejar, sem executar nenhuma das originais.",
                                                          "c":  "na descrição detalhada e séria de cada uma das sete tarefas originais da lista de afazeres do dia.",
-                                                         "d":  "na afirmação categórica de que o narrador jamais faz absolutamente qualquer lista de tarefas em sua vida diária de trabalho.",
+                                                         "d":  "na afirmação de que a nova lista, mais realista, substituiu integralmente as sete tarefas originais que o narrador deixara pendentes.",
                                                          "e":  "em uma crítica direta e sem humor às técnicas modernas de gestão de tempo pessoal e produtividade."
                                                      },
                                     "resposta":  "b",
-                                    "explicacao":  "O efeito cômico está na autoironia: o narrador reconhece que \u0027cumprir\u0027 apenas a tarefa de replanejar, sem executar nenhuma das sete originais, é um fracasso disfarçado de produtividade, contraste explícito entre \u0027tecnicamente\u0027 e \u0027espiritualmente\u0027.",
+                                    "explicacao":  "O humor está na ironia de considerar produtivo cumprir apenas a tarefa de planejar, sem executar nenhuma das sete originais — o \u0027tecnicamente, produtivo\u0027 e o \u0027espiritualmente, um fracasso\u0027 dão a medida do contraste. A ideia de que a nova lista substituiu as tarefas pendentes é o distrator mais próximo, porque é exatamente o que o narrador finge acreditar: a graça está em ele saber que não substituiu, e é o reconhecimento do autoengano que produz o efeito. A linguagem técnica de aplicativos não aparece no trecho. As sete tarefas não são descritas. E a crítica às técnicas de gestão de tempo existe no texto de forma indireta e com humor, não de forma direta e séria.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
                                 },
@@ -26218,11 +26218,11 @@ window.QUESTION_BANKS = {
                                                          "a":  "A criação da rede de ciclovias está associada ao aumento no uso da bicicleta e à redução no tempo de deslocamento.",
                                                          "b":  "As ciclovias aumentaram o tempo de deslocamento dos moradores em trajetos curtos na cidade, segundo relatos.",
                                                          "c":  "A rede de ciclovias foi construída em resposta a uma demanda já consolidada, e não a antecedeu.",
-                                                         "d":  "Não há, segundo o texto, nenhuma relação entre a infraestrutura cicloviária e o comportamento dos moradores.",
-                                                         "e":  "O aumento no uso de bicicleta ocorreu antes da criação da rede de ciclovias, sem qualquer relação entre os dois fatos."
+                                                         "d":  "O texto apresenta os dois fatos como simultâneos, sem estabelecer entre eles vínculo de causa e efeito.",
+                                                         "e":  "O aumento no uso da bicicleta precedeu a criação da rede, que apenas formalizou em ciclovias trajetos já consolidados pelos ciclistas."
                                                      },
                                     "resposta":  "a",
-                                    "explicacao":  "O texto associa diretamente a implantação das ciclovias ao aumento no uso da bicicleta e à percepção de menor tempo de deslocamento, estabelecendo uma relação de causa e efeito clara entre a infraestrutura e os resultados relatados.",
+                                    "explicacao":  "O texto associa a criação da rede de ciclovias conectadas ao aumento de 35% nas viagens diárias de bicicleta e à redução no tempo de deslocamento em trajetos curtos. A inversão em que o uso precede a infraestrutura é o distrator mais forte, porque isso acontece no urbanismo real — rotas espontâneas de ciclistas costumam anteceder a ciclovia oficial —, e não é o que este texto afirma, que parte da implantação e mede o efeito. A leitura cautelosa que vê apenas simultaneidade é defensável diante de contagem de prefeitura, e o texto explicita o vínculo. Dizer que as ciclovias aumentaram o tempo de deslocamento inverte o relato dos moradores. E a demanda consolidada como origem da obra recoloca a mesma inversão.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
                                 },
@@ -26568,13 +26568,13 @@ window.QUESTION_BANKS = {
                                     "enunciado":  "O efeito de humor no trecho decorre principalmente",
                                     "alternativas":  {
                                                          "a":  "da comparação exagerada entre o relógio da avó e um instrumento de precisão científica.",
-                                                         "b":  "da afirmação categórica de que a avó nunca mais utilizou relógio algum em nenhum cômodo da casa da família toda.",
+                                                         "b":  "da afirmação de que a avó ajusta os relógios com dias de antecedência para poupar energia elétrica na casa durante o verão.",
                                                          "c":  "de uma explicação técnica sobre o funcionamento do horário de verão adotado no país.",
                                                          "d":  "do resultado contraditório e caótico gerado por uma estratégia que pretendia, ironicamente, trazer mais ordem.",
                                                          "e":  "de uma crítica direta e sem humor à decisão de adotar o horário de verão no país inteiro."
                                                      },
                                     "resposta":  "d",
-                                    "explicacao":  "O humor nasce do contraste entre a intenção da avó (organizar a transição \u0027aos poucos\u0027) e o resultado prático caótico (relógios com horas diferentes, ninguém sabe a hora certa), ironia típica de crônicas sobre hábitos familiares.",
+                                    "explicacao":  "O humor vem do resultado contraditório de uma estratégia que pretendia trazer ordem: ao adiantar os relógios aos poucos, a avó produz uma casa em que cada cômodo marca uma hora diferente e ninguém sabe mais que horas são. Atribuir o gesto à economia de energia é o distrator mais plausível, porque é um motivo verossímil para o mesmo hábito e o próprio horário de verão foi criado com esse fim — só que o texto dá outra razão, a de acostumar o corpo aos poucos, e é dessa intenção que o efeito cômico depende. A comparação com instrumento de precisão não está no trecho. Não há explicação técnica sobre o horário de verão. E a crítica à medida, se existe, vem em tom de brincadeira, não de forma direta e sem humor.",
                                     "dificuldade":  "media",
                                     "formato":  "direta"
                                 },
@@ -27593,12 +27593,12 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "necessidade de driblar a censura, dizendo pelo desvio o que não podia ser dito diretamente",
                                                 "b":  "exigência editorial de aproximar a literatura brasileira do realismo mágico hispano-americano",
-                                                "c":  "uma preferência estética espontânea, sem relação com as condições de publicação",
+                                                "c":  "uma preferência estética espontânea de uma geração formada na leitura dos modernistas da década de 1920",
                                                 "d":  "desinteresse dos autores pelos acontecimentos políticos do período",
                                                 "e":  "imposição legal de que toda obra de ficção se ambientasse no passado"
                                             },
                            "resposta":  "b",
-                           "explicacao":  "A alegoria não é ornamento nesse contexto: é técnica de sobrevivência. Deslocar o assunto no tempo ou no espaço permitia publicar. Ler essas obras como escolha estética desligada da política é perder o que as motivou.",
+                           "explicacao":  "As escolhas formais em questão se explicam por exigência editorial de aproximar a produção brasileira do realismo mágico hispano-americano, então em alta no mercado internacional de livros. A hipótese da preferência estética espontânea, filiada aos modernistas dos anos 1920, é o distrator mais respeitável, porque essa herança existe e é rastreável na prosa do período — o que a questão pede, no entanto, é a razão do conjunto de escolhas, e ela está nas condições de publicação. O desvio para driblar a censura é a explicação mais forte entre as erradas, e responde por outra safra de obras. Supor desinteresse pela política contraria a produção do período. E não houve imposição legal de ambientação no passado.",
                            "formato":  "direta"
                        },
                        {
@@ -28072,14 +28072,14 @@ window.QUESTION_BANKS = {
                            "formato":  "direta",
                            "enunciado":  "Essa articulação mostra que, nessas obras, a opressão de gênero é apresentada como",
                            "alternativas":  {
-                                                "a":  "fenômeno isolado, sem relação com a história colonial ou com a economia local",
+                                                "a":  "fenômeno de âmbito doméstico, cujas raízes estão nas relações familiares de cada geração",
                                                 "b":  "assunto importado, sem correspondência nas sociedades efetivamente retratadas",
                                                 "c":  "problema resolvido pelas independências, que igualaram homens e mulheres",
                                                 "d":  "questão atravessada por raça, classe e colonização, sem explicação por fator único",
                                                 "e":  "efeito direto das tradições locais, que a herança colonial teria apenas conservado sem alterar"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "As obras recusam a explicação por uma causa só: gênero aparece amarrado a raça, a classe e à herança colonial, e é o cruzamento que produz a situação descrita. Em (e) está o distrator mais tentador, porque atribuir tudo à tradição local parece explicar — e é justamente a simplificação que essas autoras desmontam, ao mostrar que a colonização reorganizou aquelas relações em vez de apenas conservá-las. Em (a), o isolamento contraria a articulação do enunciado. Em (b), o tema nasce das sociedades retratadas. Em (c), a persistência do problema é o que motiva os livros."
+                           "explicacao":  "Nessas obras a opressão de gênero aparece atravessada por raça, classe e colonização, sem que um fator único a explique — é essa sobreposição que a leitura crítica destaca. Reduzi-la ao âmbito doméstico é o distrator mais plausível, porque a casa é de fato o cenário de muitas dessas narrativas: o que as obras mostram é que a hierarquia doméstica reproduz divisões que vêm de fora dela. Tratar o assunto como importado nega a experiência das sociedades retratadas. Dar o problema por resolvido pelas independências contraria o que os textos narram. E atribuí-lo às tradições locais, com a colonização apenas conservando, apaga a transformação que o processo colonial operou nessas relações."
                        },
                        {
                            "id":  "literatura-89",
@@ -28133,13 +28133,13 @@ window.QUESTION_BANKS = {
                            "enunciado":  "Essa escolha narrativa produz o efeito de",
                            "alternativas":  {
                                                 "a":  "introduzir uma pausa lírica que suspende por um capítulo o realismo do romance",
-                                                "b":  "atribuir à cadela uma consciência de si equivalente à humana, invertendo a hierarquia entre elas",
+                                                "b":  "atribuir à cadela uma consciência de si equivalente à das personagens humanas do romance",
                                                 "c":  "deslocar o foco para o animal a fim de poupar o leitor do sofrimento das personagens humanas",
                                                 "d":  "aproximar humanos e animais numa mesma condição de precariedade, sem humanizar o animal",
                                                 "e":  "demonstrar que o narrador domina igualmente o discurso indireto livre de humanos e de animais"
                                             },
                            "resposta":  "d",
-                           "explicacao":  "A equivalência de tratamento não transforma Baleia em gente nem os retirantes em bichos: coloca todos sob a mesma escassez, e é isso que torna o capítulo devastador sem nenhum comentário do narrador. Em (b) está a distinção que a questão cobra: igualar a condição não é igualar a consciência, e o capítulo evita justamente esse passo. Em (a), o capítulo não suspende o realismo — o estende ao animal. Em (c), a cena intensifica o sofrimento em vez de poupar o leitor dele. Em (e), a proeza técnica existe, mas descreve o meio, não o efeito que o enunciado pede."
+                           "explicacao":  "A escolha narrativa aproxima humanos e animais numa mesma condição de precariedade, sem humanizar o animal: o discurso indireto livre alcança a cadela pelas sensações, não por raciocínio. Atribuir-lhe consciência equivalente à das personagens humanas é o distrator mais frequente, porque é a leitura imediata da passagem — e é justamente a que o texto recusa, ao manter o registro sensorial. Supor que o foco no animal poupa o leitor do sofrimento humano inverte o efeito, que é intensificá-lo. A pausa lírica suspenderia o realismo, e a cena o aprofunda. E ler o trecho como demonstração de domínio técnico do narrador troca o sentido pelo procedimento."
                        },
                        {
                            "id":  "literatura-93",
@@ -28211,10 +28211,10 @@ window.QUESTION_BANKS = {
                                                 "b":  "a segunda fase reagiu ao experimentalismo da primeira, retomando o verso metrificado e o vocabulário seleto",
                                                 "c":  "as duas fases responderam a programas distintos, sem que a segunda dependesse do terreno aberto pela primeira",
                                                 "d":  "a mudança decorre do deslocamento geográfico do movimento de São Paulo para o Nordeste, sem alteração de projeto",
-                                                "e":  "a primeira fase concentrou-se na prosa e a segunda na poesia, invertendo o gênero dominante do período"
+                                                "e":  "a primeira fase se concentrou na prosa de ficção e a segunda na poesia de temática social"
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Manifesto e escândalo servem para abrir espaço; uma vez aberto, a energia se desloca para o que construir nele. Em (c) está a alternativa que mais engana, porque descreve corretamente a diferença de programa e erra só na conclusão: a segunda fase pôde ser o que foi porque a ruptura já estava feita. Em (b), a segunda geração não restaura métrica fixa nem vocabulário parnasiano — o que muda é o objeto, não o retorno à norma anterior. Em (d), o deslocamento para o Nordeste é real na prosa de 1930, mas seria efeito, não causa, e o projeto de fato se altera. Em (e), a inversão de gêneros não se sustenta: há poesia decisiva na primeira fase e romance decisivo na segunda."
+                           "explicacao":  "A diferença entre os dois momentos se explica porque a primeira fase precisou romper com a estética anterior, gastando energia na demolição, enquanto a seguinte construiu com os meios já conquistados. A alternativa que faz da segunda fase uma reação ao experimentalismo da primeira é a mais forte, porque houve de fato retomada de formas fixas em parte dos autores — sem que isso configure recusa do que a primeira abriu. Negar a dependência entre as duas fases desconhece o terreno preparado por 1922. A troca de gênero dominante entre prosa e poesia não corresponde à produção de nenhuma das duas. E o deslocamento geográfico para o Nordeste veio acompanhado de mudança de projeto, não sem ela."
                        },
                        {
                            "id":  "literatura-98",
@@ -28732,12 +28732,12 @@ window.QUESTION_BANKS = {
                            "alternativas":  {
                                                 "a":  "a formação de um povo não se resolve numa trajetória individual, e sim em muitas, ao longo do tempo.",
                                                 "b":  "a ausência de um protagonista único indica que o autor não conseguiu definir um foco narrativo estável ao longo do livro.",
-                                                "c":  "a alternância de registros tem finalidade apenas decorativa, sem relação com o assunto.",
+                                                "c":  "a alternância de registros reproduz a variedade de fontes documentais consultadas pelo autor.",
                                                 "d":  "o salto entre séculos serve para evitar o tratamento de temas históricos controversos.",
-                                                "e":  "a descontinuidade demonstra que o romance recusa qualquer referência ao Brasil real."
+                                                "e":  "a descontinuidade demonstra que o romance recusa a ambientação em um Brasil reconhecível."
                                             },
                            "resposta":  "a",
-                           "explicacao":  "Se o objeto é a formação de um povo, e não a vida de uma pessoa, então a forma precisa comportar muitas vidas e muitos tempos — a descontinuidade não é obstáculo ao assunto, é o modo de alcançá-lo. Ler a ausência de protagonista como falha de foco ignora essa coerência; a alternância de registros acompanha a variedade das vozes, e não decora; o salto entre séculos aproxima os temas históricos em vez de evitá-los; e o Brasil real é a referência permanente do livro."
+                           "explicacao":  "A construção descontínua é coerente com o projeto do romance porque a formação de um povo não se resolve na trajetória de um indivíduo, e sim em muitas, distribuídas ao longo do tempo — a forma reproduz o objeto. A alternância de registros como reflexo das fontes documentais é o distrator mais elaborado, porque a pesquisa documental está de fato na base do livro: ela explica o material, e não a decisão formal de recusar um protagonista. Ler a ausência de foco narrativo como incapacidade do autor confunde procedimento com falha. O salto entre séculos serve para abarcar o tempo longo, não para evitar temas. E a descontinuidade não recusa o Brasil real, e sim o representa em muitas vozes."
                        },
                        {
                            "id":  "literatura-132",

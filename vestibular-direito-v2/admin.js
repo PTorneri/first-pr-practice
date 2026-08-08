@@ -9,7 +9,7 @@
 // Firestore recusar, ela mostra o seu UID e a regra pronta pra colar. Assim
 // existe uma fonte da verdade só, e ninguém ganha acesso editando o JavaScript.
 
-import { auth, db } from "./firebase-init.js?v=28";
+import { auth, db } from "./firebase-init.js?v=29";
 import {
   GoogleAuthProvider, signInWithPopup, signOut, onAuthStateChanged,
 } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-auth.js";

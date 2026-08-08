@@ -30,6 +30,13 @@
 
   --bg: #F4F6F9;
   --surface: #ffffff;
+  /* O realce de "o cursor está aqui" / "acabei de tocar". Precisa ser TOKEN e não
+     valor cravado: o #F7F9FB estava escrito à mão em cinco regras de :hover
+     (alternativa de questão, botão secundário, btn-link, botão do Google, cartão
+     de trilha) e, no modo escuro, pintava um fundo quase branco sob texto branco
+     — 1,06:1, ilegível. No claro é um degrau abaixo do branco; no escuro, um
+     degrau acima do --surface, porque no escuro quem "levanta" clareia. */
+  --surface-hover: #F7F9FB;
   --ink: #0A2540;
   --ink-soft: #4A5A6E;
   /* Duas réguas, não uma. --border é a linha entre coisas (1px, discreta) e
@@ -54,6 +61,10 @@
   --warn: #7A5209;
   --warn-soft: #FBF4E4;
   --warn-border: #E0C88A;
+  /* Mesmo motivo do --surface-hover, na família do ouro: o :hover do
+     .btn-destaque era um #F6EBD2 cravado, e no escuro o --warn é creme claro —
+     creme sobre creme. Aqui o realce é o próprio --warn-soft um passo mais forte. */
+  --warn-hover: #F6EBD2;
   /* Laranja-tijolo: usado só onde o redesenho o usa, na nota da frente mais
      fraca e nos rótulos de problema do diagnóstico. Não é um estado de erro. */
   --alert: #A8552F;
@@ -107,6 +118,9 @@
   :root {
     --bg: #0A1F38;
     --surface: #12293F;
+    /* Um degrau ACIMA do --surface, não abaixo: sobre fundo escuro o que levanta
+       é clarear. Dá 12,7:1 com o texto branco. */
+    --surface-hover: #1B3450;
     --ink: #ffffff;
     --ink-soft: #B9C6D6;
     --ink-faint: #8FA0B5;
@@ -125,6 +139,8 @@
     --warn: #E7D3A3;
     --warn-soft: rgba(244,193,66,0.16);
     --warn-border: rgba(244,193,66,0.34);
+    /* O mesmo ouro do --warn-soft, mais presente. Dá 5,6:1 com o --warn creme. */
+    --warn-hover: rgba(244,193,66,0.26);
     --alert: #E9A182;
 
     /* No cartão escuro cabe o ouro do logotipo, o mesmo da barra lateral. */
@@ -479,11 +495,11 @@ h4 { font-size: 1.0625rem; }
 .btn-primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
 .btn-primary:hover:not(:disabled) { background: #14395F; border-color: #14395F; }
 .btn-secondary { background: var(--surface); border-color: var(--border-strong); color: var(--ink); }
-.btn-secondary:hover:not(:disabled) { border-color: var(--accent); background: #F7F9FB; }
+.btn-secondary:hover:not(:disabled) { border-color: var(--accent); background: var(--surface-hover); }
 /* "Destaque": o botão cor de ouro sobre branco. É o terceiro nível, para a
    ação que merece um olhar mas não é a principal da tela. */
 .btn-destaque { background: var(--warn-soft); color: var(--warn); border-color: var(--warn-border); }
-.btn-destaque:hover:not(:disabled) { background: #F6EBD2; }
+.btn-destaque:hover:not(:disabled) { background: var(--warn-hover); }
 /* O ouro cheio só existe sobre navy — sobre branco ele dá 1,7:1 e some. */
 .btn-ouro { background: var(--brand-gold-on-navy); color: #0A1F38; border-color: var(--brand-gold-on-navy); }
 .btn-ouro:hover:not(:disabled) { background: #FFD469; border-color: #FFD469; }
@@ -510,7 +526,7 @@ h4 { font-size: 1.0625rem; }
   font-size: 0.845rem;
   margin: 4px 8px 0 0;
 }
-.btn-link:hover { border-color: var(--accent); background: #F7F9FB; }
+.btn-link:hover { border-color: var(--accent); background: var(--surface-hover); }
 
 /* Telas de entrada: aqui o botão de largura cheia está certo — é a única
    ação da tela. */
@@ -782,7 +798,7 @@ h4 { font-size: 1.0625rem; }
 }
 /* Só a questão ainda aberta reage ao hover — depois de verificada, as bordas
    pertencem ao gabarito (.correct/.incorrect) e não devem piscar no mouse. */
-.question:not(.is-answered) .q-alt:hover { border-color: var(--accent); background: #F7F9FB; }
+.question:not(.is-answered) .q-alt:hover { border-color: var(--accent); background: var(--surface-hover); }
 .q-alt input { margin-top: 3px; }
 .q-alt.correct { background: var(--good-soft); border-color: var(--good); }
 .q-alt.incorrect { background: var(--bad-soft); border-color: var(--bad); }
@@ -929,7 +945,7 @@ h4 { font-size: 1.0625rem; }
   border: 1px solid var(--border-strong); font-weight: 600;
   font-size: 0.9rem; padding: 13px 18px;
 }
-.btn-google:hover:not(:disabled) { background: #F7F9FB; border-color: var(--accent); }
+.btn-google:hover:not(:disabled) { background: var(--surface-hover); border-color: var(--accent); }
 .btn-google:disabled { opacity: 0.6; cursor: default; }
 .btn-google.is-loading { color: transparent; position: relative; }
 .btn-google.is-loading::after {
@@ -1050,7 +1066,7 @@ h4 { font-size: 1.0625rem; }
   color: inherit;
   transition: border-color .15s, background-color .15s;
 }
-.trilha-card:hover:not(:disabled) { border-color: var(--accent); background: #F7F9FB; }
+.trilha-card:hover:not(:disabled) { border-color: var(--accent); background: var(--surface-hover); }
 .trilha-card:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .trilha-card:disabled { opacity: .55; cursor: default; }
 .trilha-card-nome { font-family: var(--font-brand); font-size: 1.125rem; font-weight: 600; color: var(--ink); }

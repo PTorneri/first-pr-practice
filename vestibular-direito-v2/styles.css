@@ -531,6 +531,12 @@ h4 { font-size: 1.0625rem; }
   display: flex; flex-direction: column; padding: 22px 16px; gap: 26px;
   position: sticky; top: 0; height: 100vh; overflow-y: auto;
 }
+/* No claro, a lateral se separa do conteúdo pelo próprio contraste (navy
+   contra cinza-claro). No escuro o fundo da página TAMBÉM é navy, e as duas
+   regiões encostavam sem costura visível — daí a régua. */
+@media (prefers-color-scheme: dark) {
+  .sidebar { border-right: 1px solid var(--border); }
+}
 /* O logotipo é PNG com fundo próprio; o lighten deixa só a parte clara da
    arte aparecer sobre o navy, sem halo de fundo em volta das letras. */
 .sidebar-brand { display: flex; align-items: center; gap: 10px; padding: 0 8px; }
@@ -599,8 +605,6 @@ h4 { font-size: 1.0625rem; }
 /* Navegação de dia: vive no cabeçalho da página, ao lado dos indicadores. */
 .day-nav { display: flex; align-items: center; gap: 8px; }
 .day-nav .btn { font-size: 0.8125rem; padding: 7px 12px; }
-.day-label { font-weight: 600; font-size: 0.8125rem; color: var(--ink-faint); }
-.day-date { color: var(--ink-faint); }
 .phase-label {
   display: inline-block; background: var(--warn-soft); color: var(--warn);
   border-radius: 5px; padding: 4px 8px; font-size: 0.656rem; font-weight: 700;

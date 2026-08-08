@@ -328,8 +328,9 @@
     // document.title não aceita markup: aqui vai a forma de texto da marca.
     document.title = window.VD_MARCA.texto + " — " + cfg.nome + " · Plano de 90 dias";
 
-    const marca = document.querySelector(".brand span");
-    if (marca) marca.innerHTML = cfg.marca;
+    // A marca deixou de existir como TEXTO na interface do app: no redesenho
+    // ela é o logotipo no topo da barra lateral (símbolo + wordmark em PNG).
+    // O cfg.marca segue valendo no título da janela, logo acima.
 
     // Só o onboarding leva o título da trilha ("sagax — Direito"). O login
     // agora é um painel dividido cujo h1 é o verbo da tela ("Entrar"), e a
@@ -463,7 +464,14 @@
         subtitulo: n === 1 ? "1 questão esperando revisão" : n + " questões esperando revisão",
       };
     },
-    progresso: () => ({ titulo: "Meu progresso", subtitulo: "Dia " + currentDayFromStart() + " de 90 · trilha " + TRILHA_CFG.nome }),
+    // Lê a config VIVA, e não o TRILHA_CFG capturado no carregamento do
+    // módulo: quem troca de trilha passa por um reload, mas depender disso
+    // faria o subtítulo mentir em qualquer caminho que não recarregue.
+    progresso: () => ({
+      titulo: "Meu progresso",
+      subtitulo: "Dia " + currentDayFromStart() + " de 90 · trilha " +
+        ((window.VD_TRILHA && window.VD_TRILHA.config() || TRILHA_CFG).nome),
+    }),
     perfil: () => ({ titulo: "Perfil e conta", subtitulo: "Conta Google · sincronizado" }),
   };
 
@@ -643,13 +651,25 @@
     </div>`;
   }
 
+  // Atualiza o painel curto do topo de Hoje. É chamada depois de cada resposta
+  // (ver renderQuestion) e ao voltar para a aba.
+  //
+  // O cartão de foco entra aqui junto com as tarefas porque os dois leem a
+  // MESMA coisa — quantas questões essenciais ainda faltam. Deixar só o
+  // checklist se atualizando fazia o botão dourado continuar dizendo
+  // "questão 2 de 12" depois da sétima resposta.
   function updateDayChecklist(day) {
     const el = document.getElementById("day-checklist");
     if (!el || !plan) return;
     const content = getDayContent(plan, day);
+
     const wrap = document.createElement("div");
     wrap.innerHTML = renderDayChecklist(day, content);
     el.replaceWith(wrap.firstElementChild);
+
+    const foco = document.querySelector("#day-content .foco-card");
+    if (foco) foco.replaceWith(renderFocoCard(day, content));
+
     // O contador da lateral conta a mesma coisa que este cartão: se um mudou,
     // o outro mudou junto.
     atualizarBadges();

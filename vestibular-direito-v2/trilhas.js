@@ -66,7 +66,11 @@
         "subtopics", "theory", "obras", "obras-questoes", "flashcards",
         "priority-weights", "video-topics", "bundle", "dissertativas", "redacoes",
       ],
-      abas: ["hoje", "calendario", "simulados", "buscar", "cards", "redacao", "obras", "erros", "progresso", "perfil"],
+      // "mais" é a tela de menu do celular, não um assunto de estudo: ela existe
+      // nas duas trilhas e some no desktop pelo CSS, não por aqui. Está na lista
+      // porque o aplicarTrilha() esconde todo .tab-btn que não esteja nela — sem
+      // a entrada, a quinta aba da barra inferior nasceria oculta.
+      abas: ["hoje", "calendario", "simulados", "buscar", "cards", "redacao", "obras", "erros", "progresso", "perfil", "mais"],
       // Rótulos da aba Redação. Ficavam fixos em app.js, escritos para a FGV —
       // e a trilha de Medicina exibia "como pedem os editais da FGV e do
       // Insper" sobre um caderno que é da VUNESP e da Unifesp. As propostas em
@@ -136,7 +140,7 @@
         "subtopics", "theory", "obras", "obras-questoes", "flashcards",
         "priority-weights", "video-topics", "bundle", "dissertativas", "redacoes",
       ],
-      abas: ["hoje", "calendario", "simulados", "buscar", "cards", "redacao", "obras", "erros", "progresso", "perfil"],
+      abas: ["hoje", "calendario", "simulados", "buscar", "cards", "redacao", "obras", "erros", "progresso", "perfil", "mais"],
       redacaoUI: {
         desc: "Texto <strong>dissertativo-argumentativo em norma-padrão, com coletânea</strong>. O comando abaixo " +
               "é o dos cadernos, palavra por palavra: Unesp, Unifesp, Einstein e Santa Casa usam a mesma frase, e " +

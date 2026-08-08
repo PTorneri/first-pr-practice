@@ -363,6 +363,11 @@ h4 { font-size: 1.0625rem; }
 .landing-fim p { margin: 0; font-size: 0.9375rem; color: var(--ink-soft); max-width: 560px; }
 .landing-fim .btn { font-size: 0.9375rem; padding: 14px 28px; }
 
+/* A ressalva de autoria no pé da landing. É um pedido do desenho de CELULAR, e é
+   só lá que ela aparece: o desktop desta página não tinha rodapé e não é para
+   ganhar um agora. A regra que a mostra vive no bloco do celular. */
+.landing-nota { display: none; }
+
 /* ═══════════════════════════════════════════════════════════════════════════
    02 · LOGIN — painel dividido
 
@@ -1439,6 +1444,16 @@ h4 { font-size: 1.0625rem; }
   padding: 24px 26px; display: flex; align-items: center; gap: 18px; flex-wrap: wrap;
 }
 .perfil-avatar { width: 56px; height: 56px; border-radius: 50%; background: #DCE2EB; flex: none; display: block; object-fit: cover; }
+/* A foto e o círculo-vazio são o MESMO .perfil-avatar — um <img> e um <span> —, e
+   o renderPerfilTab mostra exatamente um dos dois pelo .hidden. Sem esta linha o
+   `display: block` acima, que é declaração de autor, vence o [hidden] da folha do
+   navegador: o escondido continuava ocupando os seus 56px e a tela de perfil
+   desenhava DOIS círculos lado a lado, um deles sempre vazio.
+
+   Mesma armadilha que o .day-nav[hidden], o .tab-btn[hidden] e o .q-confirm[hidden]
+   já resolvem, e o .user-avatar[hidden] é a cura equivalente do par da lateral —
+   este ficou de fora quando o perfil ganhou o seu próprio avatar. */
+.perfil-avatar[hidden] { display: none !important; }
 .perfil-textos { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
 .perfil-nome { font-family: var(--font-brand); font-size: 1.1875rem; font-weight: 600; }
 .perfil-email { font-size: 0.845rem; color: var(--ink-faint); }
@@ -1468,33 +1483,389 @@ h4 { font-size: 1.0625rem; }
 .perfil-box-perigo .perfil-box-titulo { color: var(--bad); }
 .danger-zone { margin: 0; text-align: left; }
 
-/* Sem desenho de celular ainda (virá num turno próprio). Até lá, abaixo de
-   900px a lateral deixa de ser coluna e vira uma faixa no topo, e o conteúdo
-   ocupa a largura toda — é um arranjo de segurança para a tela não ficar
-   inutilizável, não o layout de celular definitivo. */
+/* ═══════════════════════════════════════════════════════════════════════════
+   O CELULAR
+
+   Aqui o casco troca de eixo. No desktop a navegação é uma coluna navy à
+   esquerda, sempre visível; no celular ela é uma barra branca colada embaixo,
+   com cinco destinos, e o polegar alcança todos. Quatro deles são as abas que
+   se abrem todo dia (Hoje, Calendário, Simulados, Flashcards) e o quinto é
+   "Mais", a tela que guarda as outras cinco abas e os ajustes de conta.
+
+   As telas abertas de dentro de "Mais" são EMPURRADAS: a barra sai da frente e
+   o cabeçalho ganha a seta de voltar, do mesmo jeito que um aplicativo nativo
+   empilha telas. Quem decide isso é o app.js (ABAS_EMPURRADAS) pela classe
+   .is-empurrada em #view-main — o CSS não repete a lista de abas.
+
+   Duas coisas guiam os números daqui: nada tocável mede menos de 44px de lado,
+   e as gutters são de 20px (16px nas telas de questão, onde o texto é longo e
+   cada pixel de largura conta). Fora do casco, o que muda é quase só isso —
+   grades de várias colunas viram uma, e os paddings encolhem. As cores, os
+   selos e as réguas são as mesmas do desktop.
+   ═════════════════════════════════════════════════════════════════════════ */
+
+/* Ícone de sprite (ver o <svg> no topo do index.html). Herda currentColor, então
+   estado ativo/inativo é só cor de texto. */
+.ico { display: block; width: 20px; height: 20px; flex: none; }
+
+/* A barra inferior e a seta de voltar só existem no celular. Ficam escondidas
+   por padrão para que o desktop nunca as monte nem por um quadro. */
+.tabbar { display: none; }
+.voltar-mobile { display: none; }
+
 @media (max-width: 900px) {
-  #view-main { display: block; }
-  .sidebar {
-    width: auto; height: auto; position: static; flex-direction: row; align-items: center;
-    gap: 14px; padding: 12px 14px; overflow-x: auto;
+  /* ── O casco ─────────────────────────────────────────────────────────── */
+  #view-main { display: block; padding-bottom: 0; }
+  /* A lateral navy inteira sai: a marca não se repete em cada tela do celular
+     (o cabeçalho diz o assunto), e a identidade do usuário passa a viver na
+     tela "Mais", onde ela é a porta do perfil. */
+  .sidebar { display: none; }
+
+  .page-header {
+    min-height: 0; align-items: flex-start; gap: 8px 12px;
+    padding: calc(8px + env(safe-area-inset-top)) 20px 14px;
   }
-  .sidebar-brand { flex: none; }
-  .nav-groups { flex-direction: row; gap: 14px; }
-  .nav-group { flex-direction: row; align-items: center; gap: 4px; }
-  .nav-group-title { display: none; }
-  .tab-btn { white-space: nowrap; flex: 0 0 auto; }
-  .sidebar-user { margin: 0 0 0 auto; border-top: none; padding: 0; flex: none; }
-  .page-header { padding: 12px 16px; }
-  .content { padding: 16px; }
-  .hoje-topo, .progresso-topo, .painel-2col { display: flex; flex-direction: column; }
+  /* 60% de base para o bloco do título: quando o selo de sincronização aparece
+     ao lado da ofensiva, os dois indicadores passam a não caber na mesma linha e
+     descem inteiros para a segunda — em vez de comprimirem o título até
+     "Dia 12 de 90 · sexta, 20 de..." quebrar em duas linhas. */
+  .page-header-left { align-items: center; gap: 10px; flex: 1 1 60%; min-width: 0; }
+  /* Duas linhas, não três: título e selo de fase na primeira (do mesmo jeito que
+     no desktop), subtítulo inteiro na segunda. Com o selo embaixo, junto do
+     subtítulo, a soma dos dois passava dos 267px disponíveis e virava uma
+     terceira linha — 113px de cabeçalho, um sétimo da tela gasto em rótulo. */
+  .page-title { font-size: 1.5rem; line-height: 1.15; order: 1; }
+  .phase-label { order: 1; }
+  .page-subtitle { font-size: 0.78rem; width: 100%; order: 2; }
+  .page-header-right { align-items: center; gap: 8px; flex: 0 0 auto; }
+
+  /* A seta de voltar das telas empurradas. 44px de lado, contorno de controle
+     (--border-strong), à esquerda do título. */
+  .voltar-mobile {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 44px; height: 44px; flex: none; padding: 0; cursor: pointer;
+    background: var(--surface); color: var(--ink);
+    border: 1px solid var(--border-strong); border-radius: var(--radius-sm);
+  }
+  /* Declaração de autor vence o [hidden] do navegador — mesma armadilha do
+     .day-nav e do .tab-btn. */
+  .voltar-mobile[hidden] { display: none; }
+
+  /* Com a seta na tela, o cabeçalho deixa de ser linha embrulhada e vira grade
+     de duas colunas: a seta ocupa as duas fileiras à esquerda, e título e
+     subtítulo empilham ao lado dela. Embrulhado, o subtítulo caía ABAIXO do
+     botão de 44px e o cabeçalho ia a 96px — a grade o traz para dentro da
+     altura da própria seta e fecha em 69px, que é o do desenho. */
+  .page-header-left:has(.voltar-mobile:not([hidden])) {
+    display: grid; grid-template-columns: 44px 1fr;
+    grid-template-areas: "voltar titulo" "voltar sub";
+    column-gap: 12px; row-gap: 0; align-items: center;
+  }
+  .page-header-left:has(.voltar-mobile:not([hidden])) .voltar-mobile { grid-area: voltar; }
+  .page-header-left:has(.voltar-mobile:not([hidden])) .page-title {
+    grid-area: titulo; align-self: end; font-size: 1.3125rem;
+  }
+  .page-header-left:has(.voltar-mobile:not([hidden])) .page-subtitle {
+    grid-area: sub; align-self: start; width: auto; font-size: 0.75rem;
+  }
+
+  /* "Dia anterior / Próximo dia" saem do cabeçalho. Não é função perdida: o
+     Calendário é a segunda aba da barra e abrir um dia é tocar no quadrado dele,
+     que no celular é o gesto mais curto que existe para andar no plano. Mantidos
+     aqui, os dois botões custavam 82px da mesma linha do título — e o título de
+     Hoje quebrava para caber uma navegação que a barra de baixo já resolve.
+     No desktop, onde a lateral não disputa largura, eles continuam. */
+  .day-nav { display: none !important; }
+
+  .content {
+    padding: 18px 20px calc(88px + env(safe-area-inset-bottom));
+  }
+  .tab-panel.active { gap: 16px; }
+  /* Tela empurrada não tem barra embaixo, então o rodapé volta a ser respiro
+     comum em vez de espaço reservado. */
+  .is-empurrada .content { padding-bottom: 44px; }
+
+  /* ── Barra inferior ──────────────────────────────────────────────────── */
+  /* Fixa, não sticky: as telas internas rolam dentro de .content e a barra
+     precisa ficar parada mesmo quando o documento inteiro rola.
+     O padding de baixo é o env() do iPhone — sobre a faixa do indicador de
+     início, um item de 44px não é tocável. */
+  .tabbar {
+    display: grid; grid-template-columns: repeat(5, 1fr);
+    position: fixed; left: 0; right: 0; bottom: 0; z-index: 30;
+    background: var(--surface); border-top: 1px solid var(--border);
+    padding: 9px 8px calc(9px + env(safe-area-inset-bottom));
+  }
+  .is-empurrada .tabbar { display: none; }
+  /* Os itens são os mesmos .tab-btn da lateral, e lá eles são linhas navy com
+     texto à esquerda. Aqui viram coluna: ícone em cima, rótulo embaixo. */
+  .tabbar .tab-btn {
+    flex-direction: column; align-items: center; justify-content: flex-start; gap: 4px;
+    padding: 6px 0; min-height: 44px; border-radius: var(--radius-sm);
+    background: transparent; color: var(--ink-faint);
+    font-size: 0.656rem; font-weight: 500; line-height: 1.25; text-align: center;
+  }
+  .tabbar .tab-btn .ico { width: 22px; height: 22px; }
+  .tabbar .tab-btn:hover { background: transparent; color: var(--ink-faint); }
+  /* Aba aberta: navy e semibold. Sem pílula de fundo — cinco pílulas em fila
+     numa barra de 402px viram uma faixa listrada. */
+  .tabbar .tab-btn.active,
+  .tabbar .tab-btn.active:hover { background: transparent; color: var(--ink); font-weight: 600; }
+  .tabbar-label { overflow: hidden; text-overflow: ellipsis; max-width: 100%; white-space: nowrap; }
+
+  /* ── Tela "Mais" ─────────────────────────────────────────────────────── */
+  #mais-content { display: flex; flex-direction: column; gap: 22px; }
+  .mais-identidade {
+    display: flex; align-items: center; gap: 13px; width: 100%; text-align: left;
+    padding: 14px; cursor: pointer; font: inherit; color: var(--ink);
+    background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  }
+  .mais-avatar { width: 44px; height: 44px; border-radius: 50%; flex: none; display: block; object-fit: cover; }
+  /* --accent-ink, e não #fff: no escuro o --accent vira o ouro da marca, e a
+     inicial em branco sobre ouro dá 1,9:1. O par accent/accent-ink é justamente
+     o que acompanha essa troca — no claro é branco sobre navy, no escuro navy
+     sobre ouro. */
+  .mais-avatar-inicial {
+    display: flex; align-items: center; justify-content: center;
+    background: var(--accent); color: var(--accent-ink); font-size: 1rem; font-weight: 700;
+  }
+  .mais-identidade-textos { display: flex; flex-direction: column; gap: 1px; flex: 1; min-width: 0; }
+  .mais-identidade-nome { font-size: 0.9375rem; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .mais-identidade-meta { font-size: 0.78rem; color: var(--ink-faint); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+  .mais-grupo { display: flex; flex-direction: column; gap: 10px; }
+  .mais-grupo-titulo {
+    font: 700 0.656rem/1 var(--font-mono); letter-spacing: 0.12em;
+    text-transform: uppercase; color: var(--ink-faint);
+  }
+  .mais-lista {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: var(--radius); overflow: hidden;
+  }
+  .mais-row {
+    display: flex; align-items: center; gap: 13px; width: 100%; text-align: left;
+    min-height: 56px; padding: 0 16px; cursor: pointer;
+    font: inherit; font-size: 0.9375rem; color: var(--ink);
+    background: var(--surface); border: none; border-bottom: 1px solid var(--border);
+  }
+  .mais-row:last-child { border-bottom: none; }
+  .mais-row:active { background: var(--bg); }
+  .mais-row-rotulo { flex: 1; min-width: 0; }
+  /* Ouro escuro nas linhas de estudo, cinza nas de conta: é a mesma divisão de
+     peso que a lateral faz com os grupos ESTUDO e VOCÊ. */
+  .mais-row-ico { width: 19px; height: 19px; color: var(--brand-gold); }
+  .mais-row-ico-neutro { color: var(--ink-soft); }
+  .mais-row-selo {
+    font-size: 0.6875rem; font-weight: 700; border-radius: 5px; padding: 2px 7px;
+    color: var(--bad); background: var(--bad-soft);
+  }
+  .mais-row-valor { font-size: 0.8125rem; color: var(--ink-faint); }
+  .mais-caret { width: 16px; height: 16px; color: var(--ink-fainter); }
+
+  /* ── Duas colunas viram uma ──────────────────────────────────────────── */
+  /* align-items: stretch é obrigatório, não redundante: os três painéis trazem
+     align-items:start/flex-start do desktop (onde a coluna de apoio não deve
+     esticar até a altura da principal), e em flex-column esse mesmo valor passa
+     a valer no eixo HORIZONTAL — os cartões encolhiam até o tamanho do texto e
+     ficavam 16px mais estreitos que os vizinhos. */
+  .hoje-topo, .progresso-topo, .painel-2col {
+    display: flex; flex-direction: column; align-items: stretch; gap: 14px;
+  }
   .painel-2col > .col-apoio, .painel-2col > .col-apoio-larga,
   .painel-2col > .col-apoio-estreita, .score-card { width: auto; }
   .metricas { grid-template-columns: repeat(2, 1fr); }
-  .obras-grid { grid-template-columns: repeat(2, 1fr); }
-  .landing-navy, .landing-secao, .landing-dia, .landing-bancas, .landing-fim { padding-left: 20px; padding-right: 20px; }
-  .landing-hero, .landing-dia { grid-template-columns: 1fr; }
-  .landing-passos { grid-template-columns: 1fr; }
-  .login-split { grid-template-columns: 1fr; }
-  .sim-table-head, .sim-table-row { grid-template-columns: 40px 1fr 90px; }
-  .sim-table-head span:nth-child(4), .sim-table-head span:nth-child(5) { display: none; }
+  .metrica { padding: 15px 16px; }
+  .metrica-valor { font-size: 1.25rem; }
+  .obras-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+
+  /* ── Hoje ────────────────────────────────────────────────────────────── */
+  #day-content { gap: 14px; }
+  .card, .cal-card, .tarefas-card, .fases-card, .frentes-card,
+  .perfil-identidade, .perfil-box, .corrigir-inicio-card,
+  .error-diagnostics-card, .official-exams-card,
+  .flashcard-summary-card { padding: 16px 18px; }
+  /* Os cartões navy respiram um pouco mais: neles o conteúdo é o destaque da
+     tela (o "comece por aqui", o score projetado), não uma lista. */
+  .card-navy, .foco-card, .score-card { padding: 20px; }
+  .foco-card h3 { font-size: 1.375rem; }
+  /* Uma ação por tela, e no celular ela ocupa a largura toda: com dois botões
+     lado a lado nenhum dos dois cabe inteiro. */
+  .foco-acoes { flex-direction: column; align-items: stretch; }
+  .foco-acoes .btn { width: 100%; min-height: 50px; }
+  .foco-aula { flex-direction: column; align-items: stretch; gap: 12px; }
+  .foco-aula-link { justify-content: center; min-height: 46px; }
+  .questoes-head { padding: 14px 16px; gap: 10px 14px; }
+  .questoes-head-progresso .medidor { width: 88px; }
+  .questoes-corpo { padding: 18px 16px; }
+  .lesson-card:not(:has(.questoes-head)) { padding: 18px 16px; }
+  .frente-header { margin-bottom: -12px; }
+
+  /* ── Questões ────────────────────────────────────────────────────────── */
+  /* O recuo de 32px que agrupa enunciado e alternativas no desktop sai: em
+     402px ele é um terço da linha, e o agrupamento passa a ser feito pela
+     régua que separa uma questão da outra. */
+  .question { padding: 20px 0; }
+  .q-alts, .q-confirm { padding-left: 0; }
+  .q-feedback { margin-left: 0; }
+  .q-enunciado { font-size: 1.03rem; }
+  .q-alt { padding: 14px; gap: 12px; min-height: 52px; font-size: 0.906rem; }
+  /* Botão de largura cheia com a dica abaixo, centrada: a linha "Verificar
+     resposta + Escolha uma alternativa" não cabe lado a lado. */
+  .q-confirm { flex-direction: column; align-items: stretch; gap: 9px; }
+  .q-verify { width: 100%; min-height: 52px; font-size: 0.969rem; }
+  .q-verify-hint { text-align: center; font-size: 0.75rem; }
+  .q-report { margin-top: 6px; }
+  .q-report-btn { min-height: 44px; padding: 14px 0 6px; font-size: 0.75rem; opacity: 1; }
+  .dissert-textarea { min-height: 200px; }
+
+  /* ── Calendário ──────────────────────────────────────────────────────── */
+  /* Continua em treze semanas de sete dias, e não numa grade corrida: é o que
+     mantém o domingo — o dia do simulado — sempre na mesma coluna. O que sai é
+     o rótulo "Sem 1" à esquerda, que roubava 56px dos 362 disponíveis; a
+     numeração dos dias já diz onde a pessoa está. */
+  .cal-semana-rotulo { display: none; }
+  .cal-semana { gap: 0; }
+  .cal-semana-dias { gap: 5px; }
+  .cal-day { height: auto; aspect-ratio: 1; font-size: 0.72rem; }
+  .calendar-grid { gap: 5px; }
+  .cal-card-head { gap: 14px; }
+  /* A legenda vira lista: em fila, os cinco itens quebravam em três linhas
+     desalinhadas. */
+  .legend { flex-direction: column; gap: 9px; font-size: 0.8125rem; color: var(--ink-soft); }
+
+  /* ── Simulados ───────────────────────────────────────────────────────── */
+  /* Os três modos (adaptativo, caderno FGV, caderno Insper) empilham: em fila
+     eles quebravam no meio do nome da banca. */
+  .simulado-modos { display: grid; grid-template-columns: 1fr; }
+  .simulado-modo-btn { min-height: 46px; }
+
+  /* ── Flashcards ──────────────────────────────────────────────────────── */
+  .flashcard { padding: 28px 22px; gap: 20px; min-height: 300px; justify-content: center; }
+  .flashcard-front { font-size: 1.3125rem; max-width: none; }
+  .flashcard-back { padding-top: 18px; max-width: none; }
+
+  /* Linha de ação de largura cheia — vale no flashcard ("Virar card", "Não sei /
+     Sei"), na dissertativa e na redação. Os botões trazem width:auto inline do
+     app.js, e é o flex:1 que os faz dividir a linha igual. */
+  .dissert-actions { gap: 8px; }
+  .dissert-actions .btn { flex: 1 1 0; min-width: 0; min-height: 50px; margin: 0; padding: 0 12px; }
+
+  /* ── Buscar ──────────────────────────────────────────────────────────── */
+  .busca-input { min-height: 48px; padding: 12px 14px; }
+  .busca-resultado { flex-direction: column; gap: 7px; padding: 16px; }
+  .busca-resultado-frente { width: auto; }
+  .busca-outra-trilha { padding: 14px 16px; }
+
+  /* ── Obras ───────────────────────────────────────────────────────────── */
+  .obra-cover { padding: 16px 12px; gap: 9px; }
+  .obra-cover-icon { width: 26px; height: 26px; }
+  .obra-cover-title { font-size: 0.875rem; }
+  .obra-corpo { padding: 11px 12px 13px; }
+
+  /* ── Meu progresso ───────────────────────────────────────────────────── */
+  .projected-score-value { font-size: 2.75rem; }
+  .score-sparkline { height: 44px; }
+  .progress-list { gap: 16px; }
+  .progress-row-top { flex-direction: column; gap: 3px; }
+  .official-exams-card .btn-link { width: 100%; min-height: 44px; display: flex; align-items: center; margin: 0 0 8px; }
+
+  /* ── Perfil ──────────────────────────────────────────────────────────── */
+  /* Foto e nome dividem a primeira linha — a mesma linha de identidade da tela
+     "Mais" — e só o "Sair da conta" desce, de largura cheia. Em coluna os três
+     empilhados davam 270px de cartão para dizer duas informações. */
+  .perfil-identidade { align-items: center; gap: 14px; }
+  .perfil-avatar { width: 48px; height: 48px; }
+  /* base 120px, e não auto: com flex-wrap ligado o navegador decide a quebra pelo
+     tamanho ideal do item, não pelo encolhido — em `auto` o bloco de nome/e-mail
+     media a largura toda do texto e descia de linha antes de tentar encolher. */
+  .perfil-textos { flex: 1 1 120px; }
+  .perfil-identidade .btn { flex: 1 0 100%; width: auto; min-height: 46px; }
+  .perfil-box .btn { align-self: stretch; width: 100%; min-height: 46px; }
+
+  /* ── Landing ─────────────────────────────────────────────────────────── */
+  .landing-navy { padding: 0 24px 0; }
+  .landing-nav { height: 56px; border-bottom: none; }
+  /* Os três links de âncora saem da barra: sobra a marca e o "Entrar", que é o
+     que a barra precisa oferecer. As seções continuam no fim da rolagem. */
+  .landing-nav-links a { display: none; }
+  .landing-brand .sidebar-symbol { height: 28px; }
+  .landing-brand .sidebar-wordmark { height: 19px; }
+  .btn-entrar { min-height: 44px; padding: 0 16px; }
+  .landing-hero { grid-template-columns: 1fr; gap: 26px; padding: 28px 0 0; align-items: stretch; }
+  .landing-hero-copy { max-width: none; gap: 18px; }
+  .landing-hero h1 { font-size: 2rem; line-height: 1.1; }
+  .landing-hero p { font-size: 0.906rem; }
+  .landing-cta-row { flex-direction: column; gap: 10px; }
+  .landing-cta-row .btn { width: 100%; min-height: 52px; padding: 0 20px; display: flex; align-items: center; justify-content: center; }
+  .landing-stats { gap: 22px; padding-top: 16px; }
+  .landing-stat { padding-top: 0; }
+  .landing-stat-n { font-size: 1.3125rem; }
+  .landing-stat-label { font-size: 0.719rem; }
+  /* A janela do app atravessa a fronteira navy/branco: a margem negativa tira
+     58px da altura do bloco navy e deixa o cartão pousado meio dentro, meio
+     fora. É o que faz a promessa visual parecer estar SAINDO do produto em vez
+     de ilustrá-lo de longe. */
+  .landing-mock {
+    margin: 36px 0 -58px; position: relative; z-index: 1;
+    border-color: var(--border); border-radius: 10px;
+    box-shadow: 0 12px 30px rgba(10,37,64,.10);
+  }
+  .landing-mock-chrome { padding: 10px 14px; }
+  .landing-mock-body { padding: 16px; gap: 12px; }
+  .landing-mock-stats { gap: 8px; }
+  .landing-mock-stat { padding: 10px; }
+  .landing-mock-fita i { height: 20px; }
+  .landing-secao { padding: 92px 24px 32px; gap: 18px; }
+  .landing-secao-head { gap: 10px; }
+  .landing-secao-head h2 { font-size: 1.5rem; }
+  /* Os três passos deixam de ser cartões e viram lista com régua: empilhados,
+     três caixas brancas sobre cinza-claro só somam bordas. */
+  .landing-passos { grid-template-columns: 1fr; gap: 0; border-top: 1px solid var(--border); }
+  .landing-passo { background: none; padding: 20px 0; border-bottom: 1px solid var(--border); gap: 6px; }
+  .landing-passo h3 { font-size: 1.0625rem; }
+  .landing-passo p { font-size: 0.875rem; }
+  .landing-bancas { padding: 30px 24px; gap: 16px; flex-direction: column; align-items: flex-start; }
+  .landing-bancas-copy { max-width: none; }
+  .landing-bancas-copy h2 { font-size: 1.25rem; }
+  .landing-banca { font-size: 0.875rem; padding: 10px 16px; }
+  .landing-dia { padding: 32px 24px; grid-template-columns: 1fr; gap: 22px; }
+  .landing-dia-copy { max-width: none; }
+  .landing-dia-copy h2 { font-size: 1.5rem; }
+  .landing-fim { padding: 34px 24px 40px; gap: 12px; }
+  .landing-fim h2 { font-size: 1.5rem; }
+  .landing-fim .btn { width: 100%; min-height: 52px; padding: 0 20px; display: flex; align-items: center; justify-content: center; }
+  /* Letra pequena de propósito — é informação de rodapé —, mas sobre branco e não
+     sobre o cinza da seção acima, pra ficar claro que ela fala pela página
+     inteira e não pelo último bloco. */
+  .landing-nota {
+    display: block; margin: 0;
+    padding: 18px 24px 40px; background: var(--surface); border-top: 1px solid var(--border);
+    font-size: 0.719rem; color: var(--ink-faint); line-height: 1.5;
+  }
+
+  /* ── Entrar ──────────────────────────────────────────────────────────── */
+  /* O painel dividido empilha, e o navy encolhe para caber o pedido acima da
+     dobra: o logotipo grande e centrado, e a lista de motivos em seguida.
+
+     O padding de 24px que centraliza a tela na janela sai só aqui: o painel
+     dividido é fundo, não cartão, e com a moldura de 24px o navy virava um
+     retângulo solto no meio do cinza. As outras telas de entrada são cartões de
+     verdade e continuam com margem — só mais estreita. */
+  #view-login { padding: 0; align-items: stretch; }
+  #view-onboarding, #view-sync-error, #view-escolha-trilha { padding: 16px; }
+  .login-split { grid-template-columns: 1fr; min-height: 100vh; }
+  .login-pitch { padding: 40px 26px 32px; align-items: center; text-align: center; gap: 20px; }
+  .login-pitch-brand { flex-direction: column; gap: 12px; }
+  .login-pitch-brand .sidebar-symbol { height: 72px; }
+  .login-pitch-brand .sidebar-wordmark { height: 30px; }
+  .login-pitch-corpo { gap: 14px; text-align: left; }
+  .login-pitch-frase { font-size: 1.0625rem; }
+  .login-form { padding: 28px 26px 40px; }
+  .login-form h1 { font-size: 1.375rem; }
+  #view-login .login-form .btn { min-height: 52px; }
+  .login-note { text-align: center; }
+
+  /* ── Onboarding e cartões de decisão ─────────────────────────────────── */
+  .onboarding-card { padding: 26px 20px; }
+  .trilha-card { padding: 16px 18px; }
 }

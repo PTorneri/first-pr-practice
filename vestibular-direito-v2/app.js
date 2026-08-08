@@ -473,7 +473,17 @@
         ((window.VD_TRILHA && window.VD_TRILHA.config() || TRILHA_CFG).nome),
     }),
     perfil: () => ({ titulo: "Perfil e conta", subtitulo: "Conta Google · sincronizado" }),
+    mais: () => ({ titulo: "Mais", subtitulo: "" }),
   };
+
+  // ---------- Celular: quais telas são "empurradas" ----------
+  //
+  // A barra inferior alcança cinco destinos. As outras cinco abas são abertas de
+  // dentro de "Mais" e, no celular, comportam-se como tela empurrada: a barra
+  // sai da frente e o cabeçalho ganha a seta de voltar. Esta lista é a única
+  // fonte dessa distinção — o CSS a recebe pela classe .is-empurrada em
+  // #view-main, em vez de repetir os nomes das abas em seletor.
+  const ABAS_EMPURRADAS = ["buscar", "redacao", "obras", "erros", "progresso", "perfil"];
 
   function subtituloDoDia() {
     const start = localStorage.getItem(LS_START) || todayISO();
@@ -527,6 +537,11 @@
     if (nav) nav.hidden = tab !== "hoje";
     const fase = document.getElementById("phase-label");
     if (fase) fase.textContent = tab === "hoje" ? phaseLabelForDay(currentDay) : "";
+    // A seta de voltar existe só nas telas que a barra inferior não alcança. No
+    // desktop ela é escondida pelo CSS de qualquer jeito — o hidden aqui é para
+    // que ela não fique no caminho do foco por teclado nas outras abas.
+    const voltar = document.getElementById("btn-voltar-mobile");
+    if (voltar) voltar.hidden = ABAS_EMPURRADAS.indexOf(tab) === -1;
   }
 
   // Contadores da barra lateral. São o que substitui o "tudo com o mesmo peso"
@@ -558,10 +573,23 @@
   function initTabs() {
     document.querySelectorAll(".tab-btn").forEach((btn) => {
       btn.addEventListener("click", () => {
+        // Cada aba existe duas vezes como botão (barra lateral e barra inferior).
+        // O ".active" é aplicado ao par inteiro, por data-tab, e não só ao botão
+        // clicado — senão a barra inferior ficaria marcando a aba anterior quando
+        // a troca partisse de um atalho da lateral, ou de um .click() do código.
         document.querySelectorAll(".tab-btn").forEach((b) => b.classList.remove("active"));
         document.querySelectorAll(".tab-panel").forEach((p) => p.classList.remove("active"));
-        btn.classList.add("active");
+        document.querySelectorAll('.tab-btn[data-tab="' + btn.dataset.tab + '"]')
+          .forEach((b) => b.classList.add("active"));
         document.getElementById("tab-" + btn.dataset.tab).classList.add("active");
+        // A marca que o CSS do celular lê para tirar a barra inferior da frente
+        // nas telas empurradas. A lista mora só aqui, em ABAS_EMPURRADAS — o CSS
+        // não repete os nomes das abas.
+        const main = document.getElementById("view-main");
+        if (main) {
+          main.classList.toggle("is-empurrada", ABAS_EMPURRADAS.indexOf(btn.dataset.tab) !== -1);
+        }
+        if (btn.dataset.tab === "mais") renderMaisTab();
         if (btn.dataset.tab === "calendario") renderCalendar();
         if (btn.dataset.tab === "progresso") renderProgress();
         if (btn.dataset.tab === "simulados") renderSimuladosTab();
@@ -581,6 +609,148 @@
         window.scrollTo(0, 0);
       });
     });
+
+    // A seta do cabeçalho volta sempre para "Mais": é de lá que estas telas são
+    // abertas no celular, e é o único destino que não depende de lembrar por
+    // onde a pessoa entrou.
+    const voltar = document.getElementById("btn-voltar-mobile");
+    if (voltar) {
+      voltar.addEventListener("click", () => {
+        irParaAba("mais");
+      });
+    }
+  }
+
+  // Trocar de aba de dentro do código. O clique é no botão da barra lateral
+  // (querySelector devolve o primeiro do par), e não uma reimplementação da
+  // troca: assim renderização, cabeçalho, contadores e rolagem passam pelo mesmo
+  // caminho de sempre.
+  function irParaAba(tab) {
+    const btn = document.querySelector('.tab-btn[data-tab="' + tab + '"]');
+    if (btn) btn.click();
+  }
+
+  // ---------- Tela "Mais" (celular) ----------
+  //
+  // Duas listas e a identidade em cima. Nada aqui reimplementa uma função: as
+  // linhas de "Estudo" abrem a aba correspondente, e as de "Conta" levam à aba
+  // Perfil, onde os controles de verdade vivem (trocar de trilha tem confirmação,
+  // a data de início tem seletor). "Sair da conta" é a exceção: aciona o botão
+  // que já existe lá, porque é ação de um toque e não tem o que ajustar.
+  function renderMaisTab() {
+    const container = document.getElementById("mais-content");
+    if (!container) return;
+    container.innerHTML = "";
+
+    const cfg = (window.VD_TRILHA && window.VD_TRILHA.config()) || TRILHA_CFG;
+    const abasDaTrilha = cfg.abas || [];
+    const user = (window.VD_AUTH && window.VD_AUTH.user) || null;
+
+    // ── Identidade ──
+    const nome = user && user.displayName ? user.displayName : "Minha conta";
+    // Sem sessão o progresso existe só no localStorage deste navegador, e a linha
+    // não pode prometer nuvem — é a diferença que a tela de login vende.
+    const sincronia = user ? "salvo na nuvem" : "salvo neste aparelho";
+    const bancas = cfg.bancas || [];
+    const quaisBancas = bancas.length === 1
+      ? bancas[0].toUpperCase()
+      : (bancas.length > 1 ? bancas.length + " bancas" : "plano de 90 dias");
+    const identidade = document.createElement("button");
+    identidade.type = "button";
+    identidade.className = "mais-identidade";
+    identidade.innerHTML =
+      (user && user.photoURL
+        ? '<img class="mais-avatar" src="' + escapeHtml(user.photoURL) + '" alt="" referrerpolicy="no-referrer">'
+        : '<span class="mais-avatar mais-avatar-inicial">' + escapeHtml(nome.trim().charAt(0).toUpperCase() || "?") + "</span>") +
+      '<span class="mais-identidade-textos">' +
+        '<span class="mais-identidade-nome">' + escapeHtml(nome) + "</span>" +
+        '<span class="mais-identidade-meta">' + escapeHtml(cfg.nome) + " · " +
+          escapeHtml(quaisBancas) + " · " + sincronia + "</span>" +
+      "</span>" +
+      '<svg class="ico mais-caret" aria-hidden="true"><use href="#i-caret-right"></use></svg>';
+    identidade.addEventListener("click", () => irParaAba("perfil"));
+    container.appendChild(identidade);
+
+    // ── Estudo: as cinco abas que saíram da barra inferior ──
+    const estudo = [
+      { tab: "buscar", rotulo: "Buscar", icone: "i-search" },
+      { tab: "redacao", rotulo: "Redação", icone: "i-pen" },
+      { tab: "obras", rotulo: "Obras", icone: "i-books" },
+      { tab: "erros", rotulo: "Caderno de Erros", icone: "i-notebook", contagem: contarErrosPendentes },
+      { tab: "progresso", rotulo: "Meu progresso", icone: "i-chart" },
+    ].filter((item) => abasDaTrilha.indexOf(item.tab) !== -1);
+
+    container.appendChild(grupoMais("Estudo", estudo.map((item) => {
+      let contagem = 0;
+      try { contagem = item.contagem ? item.contagem() : 0; } catch (e) { contagem = 0; }
+      return {
+        rotulo: item.rotulo,
+        icone: item.icone,
+        selo: contagem > 0 ? String(contagem) : "",
+        aoClicar: () => irParaAba(item.tab),
+      };
+    })));
+
+    // ── Conta ──
+    const outrasTrilhas = window.VD_TRILHA
+      ? window.VD_TRILHA.lista().filter((t) => t.id !== TRILHA)
+      : [];
+    const linhasConta = [];
+    if (outrasTrilhas.length > 0) {
+      linhasConta.push({
+        rotulo: "Trocar de trilha",
+        icone: "i-swap",
+        valor: cfg.nome,
+        neutro: true,
+        aoClicar: () => irParaAba("perfil"),
+      });
+    }
+    linhasConta.push({
+      rotulo: "Corrigir a data de início",
+      icone: "i-calendar-check",
+      neutro: true,
+      aoClicar: () => irParaAba("perfil"),
+    });
+    linhasConta.push({
+      rotulo: "Sair da conta",
+      icone: "i-signout",
+      neutro: true,
+      semCaret: true,
+      aoClicar: () => {
+        const btn = document.getElementById("btn-logout");
+        if (btn) btn.click();
+        else irParaAba("perfil");
+      },
+    });
+    container.appendChild(grupoMais("Conta", linhasConta));
+  }
+
+  function grupoMais(titulo, linhas) {
+    const bloco = document.createElement("div");
+    bloco.className = "mais-grupo";
+    const rotulo = document.createElement("div");
+    rotulo.className = "mais-grupo-titulo";
+    rotulo.textContent = titulo;
+    bloco.appendChild(rotulo);
+
+    const lista = document.createElement("div");
+    lista.className = "mais-lista";
+    linhas.forEach((linha) => {
+      const row = document.createElement("button");
+      row.type = "button";
+      row.className = "mais-row";
+      row.innerHTML =
+        '<svg class="ico mais-row-ico' + (linha.neutro ? " mais-row-ico-neutro" : "") + '" aria-hidden="true">' +
+          '<use href="#' + linha.icone + '"></use></svg>' +
+        '<span class="mais-row-rotulo">' + escapeHtml(linha.rotulo) + "</span>" +
+        (linha.selo ? '<span class="mais-row-selo">' + escapeHtml(linha.selo) + "</span>" : "") +
+        (linha.valor ? '<span class="mais-row-valor">' + escapeHtml(linha.valor) + "</span>" : "") +
+        (linha.semCaret ? "" : '<svg class="ico mais-caret" aria-hidden="true"><use href="#i-caret-right"></use></svg>');
+      row.addEventListener("click", linha.aoClicar);
+      lista.appendChild(row);
+    });
+    bloco.appendChild(lista);
+    return bloco;
   }
 
   // ---------- Day view ----------

@@ -38,7 +38,7 @@
      admin.html) — sem isso a correção leva até 10 minutos pra chegar em quem
      já visitou, e foi exatamente o que aconteceu na primeira publicação da
      reescrita das alternativas. -->
-<link rel="stylesheet" href="styles.css?v=27">
+<link rel="stylesheet" href="styles.css?v=28">
 </head>
 <body>
 
@@ -305,6 +305,13 @@
       computador, no celular e no tablet.</p>
       <button type="button" class="btn btn-primary" data-ir-para-login>Começar meu plano hoje</button>
     </div>
+
+    <!-- A ressalva de autoria fecha a página. Ela já é dita na aba Meu
+         progresso, mas quem chega deslogado nunca vê aquela tela — e é
+         justamente antes de criar a conta que a promessa tem que estar
+         completa: o que este app entrega são exercícios originais no estilo
+         das provas, não as provas. -->
+    <p class="landing-nota">Os exercícios são originais, criados no estilo das provas.</p>
   </section>
 
   <!-- ═══════════════════════════════════════════════════════════════════════
@@ -510,16 +517,11 @@
         <div class="page-header-right">
           <span id="streak-chip" class="streak-chip" hidden></span>
           <span id="sync-status" class="sync-status" hidden></span>
-          <!-- O rótulo vive num <span> próprio para o celular poder esconder a
-               palavra e deixar só a seta, sem perder o nome para quem usa leitor
-               de tela (daí o aria-label no botão). -->
+          <!-- Só no desktop: no celular a navegação de dia é o Calendário (ver
+               a regra de .day-nav no bloco do celular em styles.css). -->
           <div class="day-nav" id="day-nav" hidden>
-            <button id="btn-prev-day" class="btn btn-secondary" aria-label="Dia anterior">
-              <span aria-hidden="true">&larr;</span> <span class="dn-label">Dia anterior</span>
-            </button>
-            <button id="btn-next-day" class="btn btn-secondary" aria-label="Próximo dia">
-              <span class="dn-label">Próximo dia</span> <span aria-hidden="true">&rarr;</span>
-            </button>
+            <button id="btn-prev-day" class="btn btn-secondary">&larr; Dia anterior</button>
+            <button id="btn-next-day" class="btn btn-secondary">Próximo dia &rarr;</button>
           </div>
         </div>
       </header>
@@ -675,6 +677,46 @@
 
       </main>
     </div>
+
+    <!-- ═══════════════════════════════════════════════════════════════════
+         BARRA INFERIOR — a navegação do celular
+
+         Mesmo contrato da barra lateral: são .tab-btn com data-tab, então a
+         troca de aba, o esconde-aba por trilha (cfg.abas) e os .click()
+         programáticos do app.js valem para os dois sem uma linha de lógica
+         nova. Cada item existe duas vezes no DOM — uma na lateral, uma aqui —
+         e o CSS mostra só a barra do tamanho de tela em questão.
+
+         Quatro destinos + "Mais": Hoje, Calendário, Simulados e Flashcards são
+         o que se abre todo dia; as cinco abas restantes moram na tela "Mais".
+
+         Sem contadores aqui, ao contrário da lateral: no celular cada número já
+         é dito por extenso no subtítulo da própria tela ("8 cards vencidos hoje")
+         e no selo da linha em "Mais" — repeti-los em cima do ícone só ocuparia a
+         altura que os cinco rótulos precisam.
+         ═══════════════════════════════════════════════════════════════ -->
+    <nav class="tabbar" aria-label="Navegação principal">
+      <button class="tab-btn active" data-tab="hoje">
+        <svg class="ico" aria-hidden="true"><use href="#i-sun"></use></svg>
+        <span class="tabbar-label">Hoje</span>
+      </button>
+      <button class="tab-btn" data-tab="calendario">
+        <svg class="ico" aria-hidden="true"><use href="#i-calendar"></use></svg>
+        <span class="tabbar-label">Calendário</span>
+      </button>
+      <button class="tab-btn" data-tab="simulados">
+        <svg class="ico" aria-hidden="true"><use href="#i-exam"></use></svg>
+        <span class="tabbar-label">Simulados</span>
+      </button>
+      <button class="tab-btn" data-tab="cards">
+        <svg class="ico" aria-hidden="true"><use href="#i-cards"></use></svg>
+        <span class="tabbar-label">Cards</span>
+      </button>
+      <button class="tab-btn" data-tab="mais">
+        <svg class="ico" aria-hidden="true"><use href="#i-dots"></use></svg>
+        <span class="tabbar-label">Mais</span>
+      </button>
+    </nav>
   </div>
 
 </div>
@@ -684,14 +726,14 @@
      escolheu — só os dados daquela trilha entram no navegador. O conteúdo de
      Direito continua sendo o mesmo do v1: corrigir uma questão lá corrige nos
      dois apps. -->
-<script src="trilhas.js?v=27"></script>
-<script src="schedule.js?v=27"></script>
+<script src="trilhas.js?v=28"></script>
+<script src="schedule.js?v=28"></script>
 <!-- Dicionário de assuntos da busca. Vive aqui, e não em data/ de uma trilha,
      porque a taxonomia atravessa as duas: "crase" e "função quadrática" são o
      mesmo assunto em Direito e em Medicina. Pôr em data/ obrigaria a duplicar
      as listas de gramática, literatura, interpretação, inglês e matemática. -->
-<script src="assuntos.js?v=27"></script>
-<script src="app.js?v=27"></script>
-<script type="module" src="auth.js?v=27"></script>
+<script src="assuntos.js?v=28"></script>
+<script src="app.js?v=28"></script>
+<script type="module" src="auth.js?v=28"></script>
 </body>
 </html>

@@ -4058,14 +4058,14 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "Investidores e empresas têm incorporado, na avaliação de riscos e oportunidades, critérios que vão além do desempenho financeiro tradicional.",
                                          "enunciado":  "A sigla ESG, amplamente utilizada nesse contexto, refere-se a critérios de avaliação relacionados a:",
                                          "alternativas":  {
-                                                              "a":  "energia, sustentabilidade e gestão de recursos hídricos e minerais, tema setorial distinto",
-                                                              "b":  "eficiência, segurança e governabilidade operacional, sem relação com a sigla ESG",
-                                                              "c":  "ambiental, setorial e geracional, critérios de classificação de risco climático",
+                                                              "a":  "energia, sustentabilidade e gestão, critérios usados na classificação de eficiência energética de edifícios",
+                                                              "b":  "eficiência, segurança e governabilidade, critérios de avaliação de risco operacional em auditorias internas",
+                                                              "c":  "ambiental, setorial e geracional, critérios de elegibilidade a financiamento de bancos de desenvolvimento",
                                                               "d":  "ambiental, social e governança corporativa, critérios de sustentabilidade empresarial",
-                                                              "e":  "ética, saúde e globalização, critérios frequentemente confundidos com a sigla ESG"
+                                                              "e":  "ética, saúde e globalização, critérios adotados em relatórios de responsabilidade social corporativa"
                                                           },
                                          "resposta":  "d",
-                                         "explicacao":  "ESG é a sigla em inglês para Environmental, Social and Governance (ambiental, social e governança), conjunto de critérios utilizados para avaliar práticas de sustentabilidade, responsabilidade social e qualidade da governança corporativa de empresas.",
+                                         "explicacao":  "ESG são as iniciais de ambiental, social e governança corporativa — em inglês, environmental, social and governance —, o conjunto de critérios pelos quais investidores avaliam a sustentabilidade e a conduta de uma empresa. As demais trincas combinam palavras do mesmo campo semântico com glosas plausíveis, e nenhuma corresponde à sigla: a de eficiência e risco operacional descreve auditoria interna, e a de responsabilidade social remete a um relatório que existe e é anterior ao ESG. A pista decisiva está no G: governança corporativa, e não gestão, governabilidade ou geracional — é o pilar que trata de conselho de administração, transparência e conflito de interesses.",
                                          "formato":  "direta"
                                      },
                                      {
@@ -4073,14 +4073,14 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "A expansão da fronteira agropecuária, a extração ilegal de madeira e a grilagem de terras públicas estão entre os fatores mais associados à perda de cobertura florestal em regiões tropicais.",
                                          "enunciado":  "Esses fatores indicam que o desmatamento em larga escala é, sobretudo, um fenômeno:",
                                          "alternativas":  {
-                                                              "a":  "desconectado de qualquer política pública de fiscalização ou ordenamento territorial",
+                                                              "a":  "determinado principalmente pela falta de agentes de fiscalização em campo, e não pelo valor econômico da terra",
                                                               "b":  "determinado sobretudo por ciclos naturais de regeneração e queda da vegetação",
-                                                              "c":  "exclusivamente natural, sem relação com atividades econômicas ou fundiárias",
-                                                              "d":  "restrito unicamente a causas climáticas, sem relação com a posse da terra",
+                                                              "c":  "resultante da expansão natural do fogo em anos de estiagem prolongada na região",
+                                                              "d":  "restrito às áreas de fronteira agrícola já tituladas, onde a produção é regularizada",
                                                               "e":  "associado a dinâmicas socioeconômicas e a interesses ligados ao uso da terra"
                                                           },
                                          "resposta":  "e",
-                                         "explicacao":  "O desmatamento em larga escala está fortemente associado a dinâmicas econômicas, como a expansão da atividade agropecuária e a disputa pela posse da terra, o que torna políticas de fiscalização, ordenamento fundiário e incentivos econômicos centrais para seu combate.",
+                                         "explicacao":  "O desmatamento em larga escala é fenômeno associado a dinâmicas socioeconômicas e a interesses ligados ao uso e à posse da terra — grilagem, pecuária extensiva, valorização fundiária. Atribuí-lo à falta de agentes de fiscalização é o distrator mais forte, porque a capacidade de fiscalização de fato pesa nos números anuais: ela é uma condição que modula o fenômeno, não a causa que o move, e é justamente o valor da terra que dá sentido econômico à derrubada. Restringi-lo às áreas já tituladas inverte o padrão, concentrado em terras públicas sem destinação. E explicá-lo por ciclos naturais de regeneração ou pela expansão do fogo em estiagem desliga o processo da economia que o organiza.",
                                          "formato":  "direta"
                                      },
                                      {
@@ -4253,14 +4253,14 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "A destinação inadequada de resíduos sólidos urbanos, como o descarte em lixões a céu aberto, ainda é uma realidade em diversas regiões do mundo.",
                                          "enunciado":  "Em comparação com lixões a céu aberto, aterros sanitários adequadamente projetados diferenciam-se, sobretudo, por:",
                                          "alternativas":  {
-                                                              "a":  "não possuírem nenhum tipo de impacto ambiental, alegação incompatível com os relatórios de monitoramento geotécnico exigidos",
+                                                              "a":  "reduzirem o volume dos resíduos pela compactação mecânica antes da disposição em célula",
                                                               "b":  "conterem sistemas de impermeabilização do solo e tratamento de gases e do chorume, conforme normas técnicas",
-                                                              "c":  "operarem exclusivamente com resíduos previamente triados na fonte geradora",
-                                                              "d":  "serem construídos exclusivamente em áreas urbanas centrais e densamente povoadas, contrariando as diretrizes de zoneamento",
-                                                              "e":  "dispensarem qualquer forma de monitoramento ambiental ou geotécnico contínuo, o que violaria as normas técnicas aplicáveis"
+                                                              "c":  "operarem apenas com resíduos previamente triados na fonte geradora, o que dispensa a separação de recicláveis dentro da própria instalação",
+                                                              "d":  "serem construídos em áreas urbanas centrais, o que reduz a distância e o custo do transporte dos resíduos",
+                                                              "e":  "dispensarem o licenciamento ambiental prévio, por serem obras de interesse público municipal"
                                                           },
                                          "resposta":  "b",
-                                         "explicacao":  "Aterros sanitários adequadamente projetados possuem sistemas de impermeabilização do solo e de captação e tratamento de gases (como o metano) e do chorume (líquido gerado pela decomposição dos resíduos), reduzindo significativamente a contaminação do solo, do ar e dos lençóis freáticos em comparação com lixões a céu aberto.",
+                                         "explicacao":  "O que distingue um aterro sanitário de um lixão é a engenharia: impermeabilização do solo por manta, drenagem e tratamento do chorume e captação dos gases, conforme normas técnicas. A compactação mecânica é o distrator mais plausível, porque ela realmente ocorre no aterro e reduz o volume — e não é o que evita a contaminação do lençol freático, que é o problema do lixão. A triagem na fonte é desejável e não condição de operação. A localização segue diretrizes de zoneamento que a afastam de áreas densamente povoadas. E o licenciamento ambiental prévio é exigido, como o monitoramento geotécnico contínuo.",
                                          "formato":  "direta"
                                      },
                                      {
@@ -4298,14 +4298,14 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "Grandes volumes de resíduos plásticos, descartados de forma inadequada, acabam chegando a rios e, posteriormente, aos oceanos, onde se degradam lentamente.",
                                          "enunciado":  "Um dos principais impactos ambientais associados à poluição plástica marinha é:",
                                          "alternativas":  {
-                                                              "a":  "a eliminação de espécies invasoras marinhas, efeito colateral benéfico atribuído erroneamente aos resíduos plásticos",
-                                                              "b":  "o aumento da absorção de CO2 pelos oceanos, processo que supostamente neutralizaria os efeitos da poluição plástica marinha",
+                                                              "a":  "a formação de recifes artificiais pelos resíduos acumulados, que passam a servir de substrato para a fixação de organismos marinhos",
+                                                              "b":  "o aumento da absorção de CO2 pelos oceanos, favorecido pela camada de resíduos que reduz a troca de gases na superfície",
                                                               "c":  "a ingestão e o enredamento de animais marinhos, além da formação de microplásticos que entram na cadeia alimentar",
-                                                              "d":  "a redução da salinidade da água do mar, fenômeno associado à poluição plástica segundo estudos ainda não comprovados",
+                                                              "d":  "a redução da salinidade superficial da água do mar, provocada pela liberação de aditivos plásticos solúveis",
                                                               "e":  "o aumento da turbidez da água, que reduz a penetração de luz e prejudica a fotossíntese"
                                                           },
                                          "resposta":  "c",
-                                         "explicacao":  "A poluição plástica nos oceanos causa impactos como a ingestão de plástico e o enredamento de animais marinhos, além da fragmentação em microplásticos, que são ingeridos por organismos em diferentes níveis da cadeia alimentar, incluindo espécies consumidas por humanos.",
+                                         "explicacao":  "O impacto central da poluição plástica marinha é a ingestão e o enredamento de animais, somados à fragmentação em microplásticos que entram na cadeia alimentar e chegam ao consumo humano. A formação de substrato para organismos marinhos é o distrator mais interessante, porque isso ocorre de verdade — e o efeito documentado não é benéfico: o resíduo flutuante transporta espécies invasoras para longe de sua área de origem. Supor aumento da absorção de CO2 por barreira de superfície inverte o sentido da troca gasosa, que a poluição prejudica. A liberação de aditivos não altera a salinidade de forma mensurável. E o aumento da turbidez é efeito secundário, não o impacto principal.",
                                          "formato":  "direta"
                                      },
                                      {
@@ -4625,13 +4625,13 @@ window.QUESTION_BANKS = {
                                          "enunciado":  "A principal diferença entre um mercado de carbono regulado e um mercado voluntário de carbono é que, no mercado regulado:",
                                          "alternativas":  {
                                                               "a":  "a participação e os limites de emissão são definidos por lei, ao passo que no voluntário a compensação decorre de decisão espontânea",
-                                                              "b":  "não existe qualquer forma de fiscalização ou monitoramento de emissões, ao contrário do que ocorre no mercado voluntário de créditos",
+                                                              "b":  "a fiscalização é feita pelas próprias empresas participantes, que declaram suas emissões sem verificação por terceiro independente",
                                                               "c":  "apenas pessoas físicas podem negociar créditos de carbono, diferentemente do que ocorre no mercado voluntário, aberto a empresas",
-                                                              "d":  "os créditos de carbono não podem ser precificados nem negociados entre empresas, afirmação incompatível com as bolsas internacionais existentes",
+                                                              "d":  "os créditos são distribuídos gratuitamente às empresas conforme sua emissão histórica, e não podem ser transferidos ou negociados entre participantes do sistema",
                                                               "e":  "apenas o mercado voluntário admite projetos de reflorestamento como fonte de créditos"
                                                           },
                                          "resposta":  "a",
-                                         "explicacao":  "No mercado regulado, governos estabelecem por lei limites de emissão para determinados setores, tornando obrigatórios a participação e o cumprimento de metas; no mercado voluntário, empresas e indivíduos compram créditos por iniciativa própria, sem exigência legal.",
+                                         "explicacao":  "No mercado regulado, a participação e os limites de emissão são fixados por lei, com teto decrescente e sanção para quem o excede; no voluntário, a compensação decorre de decisão espontânea da empresa. A distribuição gratuita de créditos conforme emissão histórica é o distrator mais bem informado, porque essa alocação existiu na primeira fase do sistema europeu — e a negociabilidade é justamente o que define um mercado de carbono, de modo que proibi-la o descaracterizaria. Deixar a verificação nas mãos do próprio emissor descreve uma fragilidade do mercado voluntário, não do regulado. Restringir a negociação a pessoas físicas inverte quem opera nesses mercados. E projetos de reflorestamento geram créditos nos dois.",
                                          "dificuldade":  "dificil",
                                          "formato":  "direta"
                                      },
@@ -4691,13 +4691,13 @@ window.QUESTION_BANKS = {
                                                               "a":  "produção agrícola e ausência de manejo integrado de pragas nas lavouras de larga escala",
                                                               "b":  "produção de alimentos e produção de biocombustíveis, que disputam a mesma área cultivável",
                                                               "c":  "produtividade agrícola de curto prazo e conservação da biodiversidade no longo prazo",
-                                                              "d":  "agricultura familiar e agricultura de subsistência, sem relação com uso de insumos químicos",
+                                                              "d":  "agricultura familiar e agronegócio exportador, que competem pelo mesmo crédito rural subsidiado pelo Estado",
                                                               "e":  "exportação de commodities agrícolas e consumo interno de alimentos processados no mercado nacional"
                                                           },
                                          "resposta":  "c",
                                          "dificuldade":  "media",
                                          "formato":  "direta",
-                                         "explicacao":  "O agrotóxico entrega safra maior agora e cobra depois, em polinizador morto, solo empobrecido e água contaminada — a tensão é entre horizontes de tempo. Em (a) está a alternativa mais próxima e ainda assim deslocada: o manejo integrado é a resposta possível a esse dilema, e não o polo que se opõe à produção. Em (b), alimentos contra biocombustíveis é outra disputa, por área. Em (d) e (e), nem os tipos de agricultura nem o destino da produção explicam o efeito descrito."
+                                         "explicacao":  "Os efeitos descritos revelam a tensão entre produtividade agrícola no curto prazo e conservação da biodiversidade no longo prazo: o ganho imediato de safra se obtém por meio de práticas que corroem a base biológica da própria produção. A competição entre agricultura familiar e agronegócio pelo crédito rural é o distrator mais concreto, porque essa disputa orçamentária existe e é discutida a cada Plano Safra — e é uma tensão de política pública, não a tensão ecológica que o conjunto de efeitos ilustra. A disputa entre alimentos e biocombustíveis pela área cultivável também é real, e opera em outro eixo. E a ausência de manejo integrado de pragas é uma das causas do quadro, não a tensão que ele revela."
                                      },
                                      {
                                          "id":  "atualidades-meioambiente-52",
@@ -4802,12 +4802,12 @@ window.QUESTION_BANKS = {
                                          "alternativas":  {
                                                               "a":  "tecnologias associadas à redução de emissões dependem de cadeias de extração mineral com impactos ambientais e sociais relevantes",
                                                               "b":  "o consumo de água na extração de lítio é integralmente compensado pela reciclagem das baterias",
-                                                              "c":  "a mineração de lítio não gera impacto ambiental ou social nas regiões produtoras, conclusão contrária a relatórios socioambientais",
-                                                              "d":  "baterias elétricas dispensam totalmente o uso de recursos minerais, afirmação incompatível com a dependência de lítio, cobalto e níquel",
-                                                              "e":  "a extração de lítio está distribuída igualmente entre todos os países do mundo, sem concentração geográfica"
+                                                              "c":  "a mineração de lítio gera impacto ambiental amplamente compensado pela receita de royalties que transfere às comunidades das regiões produtoras",
+                                                              "d":  "baterias elétricas dependem de minerais abundantes na crosta terrestre, o que torna sua extração ambientalmente pouco onerosa",
+                                                              "e":  "a extração de lítio se distribui entre dezenas de países produtores, sem concentração geográfica relevante"
                                                           },
                                          "resposta":  "a",
-                                         "explicacao":  "O paradoxo discutido reside no fato de que tecnologias associadas à descarbonização, como baterias para veículos elétricos, dependem de cadeias de extração mineral (lítio, cobalto, níquel) que podem gerar impactos ambientais e sociais relevantes nas regiões produtoras, exigindo que a transição energética também considere os efeitos de toda a cadeia produtiva, e não apenas as emissões na etapa de uso.",
+                                         "explicacao":  "O paradoxo da transição energética é que as tecnologias de baixa emissão dependem de cadeias de extração mineral com impactos ambientais e sociais consideráveis — o lítio do Salar de Atacama consome água em um dos lugares mais secos do mundo. A alternativa que reconhece o impacto e o dá por compensado pela receita local é a mais difícil de recusar, porque a compensação é o argumento das mineradoras e há royalties em jogo: ela apenas desloca o paradoxo, sem desfazê-lo. Chamar lítio, cobalto e níquel de abundantes e de extração pouco onerosa contraria a geografia dessas reservas. A produção é fortemente concentrada em poucos países. E a reciclagem de baterias ainda não compensa o consumo de água na extração.",
                                          "dificuldade":  "dificil",
                                          "formato":  "direta"
                                      },
@@ -4929,13 +4929,13 @@ window.QUESTION_BANKS = {
                                          "enunciado":  "Uma crítica frequente a essa estratégia de compensação ambiental (offsetting) como resposta principal à crise climática é que ela pode:",
                                          "alternativas":  {
                                                               "a":  "concentrar os projetos de compensação em países com menor capacidade de fiscalização",
-                                                              "b":  "obrigar automaticamente a substituição total da matriz energética da empresa em um único exercício fiscal, sem transição gradual",
+                                                              "b":  "elevar o custo da compensação acima do custo de reduzir as emissões na própria operação da empresa",
                                                               "c":  "adiar reduções efetivas nas emissões, transferindo o esforço de mitigação a terceiros e dependendo da permanência dos projetos compensatórios",
-                                                              "d":  "ser tecnicamente impossível de ser realizada por qualquer empresa, afirmação contrariada pela ampla adoção desses mecanismos no mercado voluntário",
-                                                              "e":  "eliminar de forma definitiva e permanente qualquer emissão futura da empresa, tornando desnecessária qualquer compensação adicional"
+                                                              "d":  "depender de metodologias de cálculo de emissões evitadas que superestimam o carbono efetivamente retido pelos projetos certificados como compensação",
+                                                              "e":  "eliminar a necessidade de relatar as emissões diretas da empresa, que passam a ser informadas apenas pelo valor total compensado"
                                                           },
                                          "resposta":  "c",
-                                         "explicacao":  "Críticos apontam que a compensação ambiental pode se tornar um substituto, e não um complemento, à redução efetiva de emissões na fonte, além de depender de fatores como a permanência de longo prazo dos projetos de compensação (por exemplo, o risco de incêndios em áreas reflorestadas) e da correta mensuração da adicionalidade desses projetos.",
+                                         "explicacao":  "A crítica principal ao offsetting é que ele adia reduções efetivas: transfere o esforço de mitigação a terceiros e faz o resultado depender da permanência de projetos que podem ser desfeitos por queimada, corte ou mudança de uso do solo. A superestimação do carbono retido pelas metodologias de emissão evitada é o distrator mais forte, porque é uma crítica verdadeira e severa, que já derrubou a credibilidade de certificadoras inteiras — é um problema de mensuração, e a objeção do enunciado é de substituição do esforço próprio. A concentração de projetos em países de fiscalização frágil é outra crítica real. E as alternativas que fazem a compensação sair mais caro que reduzir, ou dispensar o relato das emissões diretas, descrevem o contrário do que o mecanismo faz.",
                                          "dificuldade":  "dificil",
                                          "formato":  "direta"
                                      },
@@ -5040,14 +5040,14 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "Organizações não governamentais atuam em atividades como monitoramento de desmatamento por satélite, litígio estratégico em defesa de comunidades afetadas e pressão sobre empresas e governos para o cumprimento de metas ambientais.",
                                          "enunciado":  "Esse conjunto de atuações caracteriza as ONGs ambientais, sobretudo, como atores que:",
                                          "alternativas":  {
-                                                              "a":  "atuam exclusivamente no âmbito internacional, sem qualquer relação com comunidades locais ou organizações de base",
+                                                              "a":  "atuam sobretudo no âmbito internacional, com sede e financiamento externos e pouca articulação com as organizações de base das regiões onde intervêm",
                                                               "b":  "substituem integralmente o papel do Estado na formulação e execução de políticas ambientais e de fiscalização",
                                                               "c":  "fiscalizam, pressionam e complementam a atuação estatal e empresarial na proteção ambiental, sem deter poder coercitivo formal",
                                                               "d":  "detêm poder de veto sobre licenças ambientais concedidas pelo órgão competente",
-                                                              "e":  "não possuem qualquer capacidade de influenciar políticas públicas, contrariada por campanhas que geraram mudanças regulatórias"
+                                                              "e":  "elaboram os planos de manejo das unidades de conservação por delegação formal dos órgãos ambientais competentes"
                                                           },
                                          "resposta":  "c",
-                                         "explicacao":  "ONGs ambientais atuam como atores da sociedade civil que fiscalizam, denunciam e pressionam governos e empresas, além de apoiar comunidades afetadas e monitorar dados ambientais, complementando — mas não substituindo — o papel do Estado, já que não possuem poder coercitivo formal.",
+                                         "explicacao":  "As ONGs ambientais fiscalizam, pressionam e complementam a atuação do Estado e das empresas na proteção ambiental, sem dispor de poder coercitivo formal — sua força está na denúncia, na produção de dados e na mobilização. A atuação predominantemente internacional com pouca articulação local é o distrator mais plausível, porque descreve parte do financiamento do setor: as organizações que operam no Brasil trabalham com redes locais e conselhos comunitários. Atribuir-lhes a elaboração dos planos de manejo transfere a elas uma competência do órgão gestor, que pode contratar apoio técnico sem delegar a atribuição. Substituir o Estado extrapola o papel complementar. E poder de veto sobre licenças é competência administrativa que nenhuma ONG detém.",
                                          "dificuldade":  "media",
                                          "formato":  "direta"
                                      },
@@ -5058,12 +5058,12 @@ window.QUESTION_BANKS = {
                                          "alternativas":  {
                                                               "a":  "impor tarifas comerciais punitivas a países que não cumprem metas climáticas estabelecidas em acordos multilaterais",
                                                               "b":  "condicionar empréstimos à adoção de metas de redução verificadas por auditoria independente",
-                                                              "c":  "eliminar qualquer forma de dívida pública dos países em desenvolvimento, medida que extrapola o mandato desses bancos",
+                                                              "c":  "reduzir o endividamento dos países em desenvolvimento pela troca de parcelas de dívida por compromissos de conservação ambiental",
                                                               "d":  "viabilizar recursos e condições de financiamento mais favoráveis para projetos ambientais em países com menor capacidade fiscal própria",
-                                                              "e":  "substituir integralmente investimentos privados, afirmação incompatível com o papel complementar desses bancos ao capital privado"
+                                                              "e":  "substituir o investimento privado nos setores de energia e infraestrutura, assumindo integralmente o risco dos projetos de longo prazo em países emergentes"
                                                           },
                                          "resposta":  "d",
-                                         "explicacao":  "Bancos multilaterais de desenvolvimento ampliam o financiamento climático oferecendo condições de crédito mais favoráveis do que o mercado privado tradicional para projetos de energia renovável, adaptação e conservação, sobretudo em países com menor capacidade fiscal para arcar sozinhos com esses investimentos.",
+                                         "explicacao":  "Os bancos multilaterais atuam no financiamento climático para viabilizar recursos e condições mais favoráveis — prazos longos, juros abaixo do mercado, garantias — a projetos ambientais em países com menor capacidade fiscal. A troca de dívida por conservação é o distrator mais forte, porque esses acordos existem de verdade, foram firmados no Equador, em Belize e nas Seychelles, e contaram com participação de bancos multilaterais: é um instrumento entre outros, não o objetivo central da atuação. Condicionar empréstimos a metas verificadas descreve uma prática real dessas instituições, subordinada ao mesmo objetivo. Impor tarifas punitivas é competência comercial, não bancária. E substituir o capital privado inverte o papel desses bancos, que existem para atraí-lo.",
                                          "dificuldade":  "media",
                                          "formato":  "direta"
                                      },
@@ -5120,14 +5120,14 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "Combustíveis derivados de plantas, como cana-de-açúcar e milho, emitem CO2 durante a queima, mas parte desse carbono havia sido previamente absorvida pela planta durante seu crescimento, em um ciclo mais curto do que o do carbono fóssil.",
                                          "enunciado":  "Por esse motivo, os biocombustíveis costumam ser considerados, em relação aos combustíveis fósseis:",
                                          "alternativas":  {
-                                                              "a":  "isentos de qualquer emissão de gases de efeito estufa em todo o seu ciclo de produção, transporte e uso final",
-                                                              "b":  "tecnicamente idênticos aos combustíveis fósseis, equívoco que ignora a origem biogênica recente do carbono nos biocombustíveis",
-                                                              "c":  "sempre mais poluentes do que os combustíveis fósseis em qualquer cenário de produção e transporte",
+                                                              "a":  "isentos de emissão de material particulado e de óxidos de enxofre, poluentes ausentes tanto do cultivo quanto da queima desses combustíveis",
+                                                              "b":  "tecnicamente idênticos aos combustíveis fósseis, por compartilharem a mesma composição de hidrocarbonetos e o mesmo poder calorífico por litro",
+                                                              "c":  "mais poluentes que os fósseis quando se considera a expansão da área agrícola necessária para produzi-los em escala",
                                                               "d":  "de menor impacto líquido de carbono no ciclo de vida, embora o balanço real dependa do uso da terra e dos insumos empregados",
                                                               "e":  "neutros em carbono por definição, já que a combustão devolve à atmosfera apenas o CO2 absorvido"
                                                           },
                                          "resposta":  "d",
-                                         "explicacao":  "Biocombustíveis tendem a apresentar menor impacto líquido de carbono ao longo do ciclo de vida, pois parte do CO2 emitido na queima havia sido absorvida durante o crescimento da planta; porém, esse balanço depende de fatores como mudança de uso da terra, insumos agrícolas e transporte, podendo variar significativamente entre diferentes cadeias produtivas.",
+                                         "explicacao":  "Os biocombustíveis são considerados de menor impacto líquido de carbono ao longo do ciclo de vida, com a ressalva de que o balanço real depende do uso da terra e dos insumos empregados no cultivo. A alternativa da mudança indireta do uso da terra é a mais séria entre as erradas, porque esse é um argumento técnico consistente e discutido na literatura: ele mostra que o balanço pode se deteriorar em certos cenários, sem tornar os biocombustíveis mais poluentes em qualquer caso. A neutralidade em carbono por definição ignora as emissões de plantio, fertilizante e transporte. Supor ausência de enxofre no cultivo desconsidera os insumos agrícolas. E a identidade técnica com os fósseis apaga a origem biogênica recente do carbono, que é o ponto da comparação.",
                                          "dificuldade":  "media",
                                          "formato":  "direta"
                                      },
@@ -5153,13 +5153,13 @@ window.QUESTION_BANKS = {
                                          "enunciado":  "Para avaliar corretamente o impacto climático de um veículo elétrico em comparação a um veículo a combustão, é necessário considerar:",
                                          "alternativas":  {
                                                               "a":  "apenas as emissões geradas durante o uso diário do veículo no trânsito urbano, sem considerar a fabricação",
-                                                              "b":  "apenas o país onde o veículo foi fabricado, sem qualquer relação com a matriz elétrica local",
+                                                              "b":  "apenas o país onde o veículo foi fabricado, uma vez que a maior parte das emissões se concentra na produção da bateria e não no uso do veículo",
                                                               "c":  "exclusivamente o preço de venda do veículo elétrico no mercado consumidor final, sem considerar custos de manutenção",
                                                               "d":  "apenas a intensidade de carbono da matriz elétrica do país onde o veículo é recarregado",
                                                               "e":  "a análise de ciclo de vida completo, incluindo fabricação da bateria, origem da eletricidade da recarga e descarte final"
                                                           },
                                          "resposta":  "e",
-                                         "explicacao":  "A avaliação climática correta de um veículo elétrico exige uma análise de ciclo de vida completo, que inclua as emissões da fabricação (sobretudo da bateria), a origem da eletricidade usada na recarga (que varia conforme a matriz elétrica de cada país) e o descarte final, e não apenas a ausência de emissões pelo escapamento durante o uso.",
+                                         "explicacao":  "A comparação correta exige análise de ciclo de vida completo: fabricação da bateria, origem da eletricidade usada na recarga e destinação final do veículo e de seus componentes. A alternativa que reduz tudo ao país de fabricação é a mais bem raciocinada entre as erradas, porque a produção da bateria concentra de fato uma fração grande das emissões de um elétrico — e o restante depende da matriz elétrica onde ele roda, o que faz o mesmo carro ter impactos muito distintos na Noruega e na Polônia. Olhar só a intensidade de carbono da recarga comete o erro simétrico, o de esquecer a fabricação. Considerar apenas o uso diário é a comparação mais comum e a mais incompleta. E o preço de venda não mede emissão.",
                                          "dificuldade":  "dificil",
                                          "formato":  "direta"
                                      },
@@ -5168,14 +5168,14 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "Um projeto de recomposição florestal pode ser conduzido com espécies nativas diversas, buscando restabelecer um ecossistema próximo do original, ou com uma única espécie de crescimento rápido, voltada à produção de madeira ou celulose.",
                                          "enunciado":  "Do ponto de vista da conservação da biodiversidade, a diferença central entre restauração florestal com espécies nativas diversas e plantio comercial de monocultura (como eucalipto) é que a primeira, em geral:",
                                          "alternativas":  {
-                                                              "a":  "é sempre inviável economicamente, ao contrário da monocultura comercial destinada à exportação em larga escala",
-                                                              "b":  "não contribui para o sequestro de carbono, ao contrário da monocultura comercial de eucalipto ou pinus, que também absorve CO2",
-                                                              "c":  "gera resultados idênticos à segunda em termos de biodiversidade, equiparação que contraria estudos comparativos de estrutura florestal",
+                                                              "a":  "é inviável economicamente sem subsídio público, uma vez que espécies nativas de crescimento lento não geram receita de madeira em prazo comparável ao do eucalipto",
+                                                              "b":  "sequestra menos carbono por hectare do que a monocultura de eucalipto, cujo crescimento rápido acumula biomassa em menos tempo",
+                                                              "c":  "gera resultados equivalentes em biodiversidade quando o plantio comercial mantém corredores de vegetação nativa entre os talhões",
                                                               "d":  "exige menor investimento inicial que o plantio de espécies nativas em área degradada",
                                                               "e":  "tende a recompor de forma mais completa a estrutura e a biodiversidade do ecossistema original, diferentemente da monocultura, menos diversa"
                                                           },
                                          "resposta":  "e",
-                                         "explicacao":  "A restauração florestal com espécies nativas diversas tende a recompor de forma mais completa a estrutura, a biodiversidade e os serviços ecossistêmicos do ambiente original, enquanto o plantio comercial de monocultura, embora também aumente a cobertura arbórea e possa sequestrar carbono, oferece menor diversidade de habitat e não substitui integralmente os benefícios ecológicos de uma floresta nativa restaurada.",
+                                         "explicacao":  "A restauração com espécies nativas diversas tende a recompor de forma mais completa a estrutura e a biodiversidade do ecossistema original, com estratos, fauna associada e teia de interações que a monocultura não reproduz. O sequestro de carbono por hectare é o distrator mais forte, porque no curto prazo o eucalipto de fato acumula biomassa mais rápido: acontece que a questão pergunta por biodiversidade, e velocidade de crescimento não é diversidade. Os corredores de vegetação nativa entre talhões são prática real de mosaico e melhoram a permeabilidade da paisagem, sem igualar a floresta restaurada. A inviabilidade econômica sem subsídio é discussão de custo, não de conservação. E a restauração com nativas exige investimento inicial maior, não menor.",
                                          "dificuldade":  "dificil",
                                          "formato":  "direta"
                                      },
@@ -5186,12 +5186,12 @@ window.QUESTION_BANKS = {
                                          "alternativas":  {
                                                               "a":  "atestar, por meio de critérios verificáveis, que a madeira foi produzida de forma ambiental e socialmente responsável",
                                                               "b":  "assegurar rastreabilidade da cadeia produtiva desde a origem até o consumidor final",
-                                                              "c":  "eliminar toda necessidade de fiscalização estatal, o que contraria o papel dos órgãos ambientais",
-                                                              "d":  "proibir totalmente a extração comercial de madeira em qualquer território nacional, mesmo sob manejo certificado",
-                                                              "e":  "garantir automaticamente o menor preço da madeira certificada, benefício sem respaldo em estudos de mercado"
+                                                              "c":  "dispensar a fiscalização estatal nas áreas certificadas, cuja auditoria privada substitui a vistoria dos órgãos ambientais competentes",
+                                                              "d":  "restringir a extração comercial de madeira às florestas plantadas, vedando o manejo em floresta nativa mesmo sob plano previamente aprovado",
+                                                              "e":  "assegurar preço mínimo à madeira certificada, fixado em acordo entre as certificadoras e os importadores dos mercados europeu e norte-americano"
                                                           },
                                          "resposta":  "a",
-                                         "explicacao":  "Certificações de manejo florestal sustentável atestam, com base em critérios técnicos verificáveis por auditorias independentes, que a madeira foi extraída de florestas geridas de forma ambiental e socialmente responsável, permitindo conciliar o uso econômico do recurso florestal com sua conservação de longo prazo.",
+                                         "explicacao":  "A certificação florestal atesta, por critérios verificáveis e auditoria periódica, que a madeira foi produzida de forma ambiental e socialmente responsável, com respeito a áreas de preservação, direitos trabalhistas e comunidades locais. A rastreabilidade da cadeia é o distrator mais difícil de recusar, porque a cadeia de custódia integra o sistema — é um meio pelo qual a certificação funciona, e não sua função principal, que é atestar a origem responsável. A auditoria privada convive com a fiscalização estatal, sem substituí-la. A certificação pressupõe manejo em floresta nativa, e não sua proibição. E ela costuma implicar preço maior, não menor, sem qualquer acordo de preço mínimo.",
                                          "dificuldade":  "media",
                                          "formato":  "direta"
                                      },
@@ -5280,14 +5280,14 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "O transporte aéreo depende, hoje, majoritariamente de combustíveis fósseis, e alternativas como combustíveis sustentáveis de aviação ainda têm participação reduzida na matriz do setor.",
                                          "enunciado":  "Diante desse cenário, uma estratégia adotada por algumas companhias aéreas para lidar com suas emissões, além de buscar maior eficiência operacional, é:",
                                          "alternativas":  {
-                                                              "a":  "a substituição integral e já concluída de toda a frota mundial por aeronaves elétricas de curto alcance",
-                                                              "b":  "a proibição legal internacional de voos curtos, medida inexistente nos acordos vigentes da Organização da Aviação Civil Internacional",
+                                                              "a":  "a substituição da frota de longo curso por aeronaves elétricas, já em operação comercial regular nas rotas transatlânticas",
+                                                              "b":  "a adesão a um esquema internacional que fixa cota máxima de emissões por companhia, com sanção pecuniária para quem a exceder",
                                                               "c":  "a adoção de metas de intensidade de emissões por unidade produzida, e não de redução absoluta",
                                                               "d":  "a compra de créditos de carbono para compensar parte das emissões dos voos, embora não elimine as emissões diretas do setor",
-                                                              "e":  "a eliminação imediata e total de todos os voos comerciais, cenário incompatível com as projeções de crescimento do setor aéreo"
+                                                              "e":  "a redução da frequência de voos curtos, substituídos por acordos de código compartilhado firmados com operadoras ferroviárias de alta velocidade"
                                                           },
                                          "resposta":  "d",
-                                         "explicacao":  "Diante da dificuldade técnica atual de descarbonizar diretamente o transporte aéreo em larga escala, companhias aéreas têm recorrido à compra de créditos de carbono para compensar parte de suas emissões, estratégia que não elimina as emissões diretas do setor e é objeto de debate sobre sua real efetividade climática.",
+                                         "explicacao":  "A estratégia mais adotada é a compra de créditos de carbono para compensar parte das emissões, o que não elimina as emissões diretas do setor e por isso é objeto de crítica. A substituição de voos curtos por acordos com ferrovias é o distrator mais atual, porque isso acontece na Europa, com companhias vendendo trecho ferroviário sob código de voo — é prática de algumas empresas em mercados específicos, não a estratégia geral de tratamento das emissões. A cota máxima com sanção pecuniária descreve um regime mais rígido que o esquema internacional em vigor, baseado em compensação. As metas de intensidade por unidade produzida existem e não reduzem o total. E aeronaves elétricas não operam rotas transatlânticas.",
                                          "dificuldade":  "media",
                                          "formato":  "direta"
                                      },
@@ -5424,14 +5424,14 @@ window.QUESTION_BANKS = {
                                          "texto_apoio":  "Estudos de saúde pública associam a exposição prolongada a poluentes atmosféricos, como material particulado fino, a maior incidência de doenças respiratórias e cardiovasculares na população exposta.",
                                          "enunciado":  "Esse tipo de evidência reforça o argumento de que políticas de redução da poluição do ar geram, além de benefícios ambientais, benefícios diretos em termos de:",
                                          "alternativas":  {
-                                                              "a":  "aumento proporcional e automático da temperatura média local em qualquer estação do ano",
+                                                              "a":  "aumento proporcional da temperatura média local, pela redução do efeito de resfriamento dos aerossóis antes em suspensão",
                                                               "b":  "redução de gastos públicos e privados com saúde e melhoria da qualidade de vida da população exposta",
-                                                              "c":  "eliminação de qualquer necessidade de regulação do trânsito, ignorando outras fontes poluidoras",
-                                                              "d":  "redução da produtividade agrícola em áreas urbanas, efeito não respaldado pelos estudos sobre qualidade do ar",
+                                                              "c":  "eliminação da necessidade de regular o trânsito, já que a frota renovada passa a emitir abaixo dos limites legais",
+                                                              "d":  "aumento da produtividade agrícola nas áreas periurbanas, pela maior incidência de radiação solar sobre as lavouras",
                                                               "e":  "aumento proporcional da arrecadação tributária sobre atividades poluidoras"
                                                           },
                                          "resposta":  "b",
-                                         "explicacao":  "Além dos benefícios ambientais, a redução da poluição do ar gera benefícios diretos para a saúde pública, reduzindo a incidência de doenças respiratórias e cardiovasculares associadas à exposição a poluentes, o que se traduz também em menores gastos com saúde e ganhos de produtividade e qualidade de vida para a população exposta.",
+                                         "explicacao":  "A evidência sustenta que reduzir a poluição do ar gera benefício direto de saúde: menos internações e mortes por doenças respiratórias e cardiovasculares, com queda de gastos públicos e privados e melhora da qualidade de vida. As duas alternativas mais fortes se apoiam em efeitos reais: aerossóis em suspensão de fato sombreiam e esfriam a superfície, e menos particulado significa mais radiação chegando ao solo. Nenhuma delas é o benefício direto que a questão pede, e a primeira é um efeito colateral indesejado. Supor que a frota renovada dispensa a regulação do trânsito ignora as demais fontes e o próprio volume de veículos. E a arrecadação sobre atividades poluidoras tende a cair quando a poluição cai.",
                                          "dificuldade":  "media",
                                          "formato":  "direta"
                                      },
@@ -14040,12 +14040,12 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "Reduz a arrecadação de impostos sobre o consumo, já que a população idosa deixaria de participar do mercado consumidor",
                                                "b":  "Reduz a demanda por serviços de saúde, já que a população idosa recorreria menos ao sistema público do que a população jovem",
-                                               "c":  "Amplia exclusivamente a demanda por serviços educacionais, sem qualquer relação com saúde ou previdência da população idosa",
+                                               "c":  "Amplia a demanda por creches e escolas de ensino fundamental, em razão do aumento do número de netos criados sob a guarda dos avós",
                                                "d":  "Amplia a pressão sobre o sistema previdenciário e sobre a saúde da população idosa, à medida que a população em idade ativa diminui",
-                                               "e":  "Elimina a necessidade de políticas previdenciárias, uma vez que a população idosa já está coberta integralmente pela iniciativa privada"
+                                               "e":  "Reduz a necessidade de novas políticas previdenciárias, uma vez que a queda da natalidade diminui o número de futuros beneficiários do sistema"
                                            },
                           "resposta":  "d",
-                          "explicacao":  "O envelhecimento populacional amplia a demanda por aposentadorias e serviços de saúde voltados a idosos, ao mesmo tempo em que reduz proporcionalmente a população em idade ativa. As demais alternativas contrariam esse quadro: a demanda por saúde tende a aumentar com o envelhecimento, a cobertura previdenciária pública segue relevante, e o desafio central não está na área educacional.",
+                          "explicacao":  "O envelhecimento populacional pressiona ao mesmo tempo a previdência e a saúde, num quadro em que a população em idade ativa diminui e a razão entre contribuintes e beneficiários piora. A alternativa que deduz da queda da natalidade uma redução da necessidade de políticas previdenciárias é a mais bem raciocinada entre as erradas, porque o efeito de longo prazo existe — e o problema se apresenta agora, no descompasso entre quem contribui e quem recebe. A ampliação da demanda por creches e escolas por causa de netos sob guarda dos avós descreve um efeito real do envelhecimento sobre o arranjo familiar, sem ser o desafio central. Supor que a população idosa deixa o mercado consumidor ignora seu peso crescente no consumo. E dizer que ela recorre menos ao sistema público inverte o padrão de uso dos serviços de saúde.",
                           "formato":  "direta"
                       },
                       {
@@ -14101,13 +14101,13 @@ window.QUESTION_BANKS = {
                           "enunciado":  "O conceito de macrocefalia urbana descreve situações em que:",
                           "alternativas":  {
                                                "a":  "Uma única cidade concentra parcela desproporcional da população e das atividades econômicas do país ou região, ofuscando as demais",
-                                               "b":  "A população rural supera a população urbana em todas as regiões do território nacional, invertendo o processo histórico de urbanização",
+                                               "b":  "A população rural supera a população urbana em razão do avanço da fronteira agrícola sobre áreas antes desocupadas do território",
                                                "c":  "Um crescimento acelerado das cidades médias, que passam a disputar com a metrópole a atração de investimentos e de população",
-                                               "d":  "A capital de um país perde gradualmente população para cidades médias do interior, invertendo sua posição na hierarquia urbana",
-                                               "e":  "Todas as cidades de um país apresentam tamanho populacional e influência econômica semelhantes entre si, sem qualquer hierarquia urbana entre elas"
+                                               "d":  "A capital de um país perde população para cidades médias do interior, processo conhecido como desconcentração urbana",
+                                               "e":  "As cidades de um país apresentam tamanho populacional e influência proporcionais à sua posição na hierarquia, conforme prevê a regra rank-size"
                                            },
                           "resposta":  "a",
-                          "explicacao":  "A macrocefalia urbana refere-se à hipertrofia de um único centro urbano em relação aos demais, concentrando funções administrativas, econômicas e de serviços de forma desproporcional, fenômeno observado em países como o Chile (Santiago). As demais alternativas descrevem cenários opostos: equilíbrio entre cidades, perda de centralidade da capital, ou predomínio rural, nenhum compatível com o conceito de macrocefalia.",
+                          "explicacao":  "Macrocefalia urbana designa a situação em que uma única cidade concentra parcela desproporcional da população e das atividades econômicas de um país ou região, ofuscando a rede urbana ao redor. A regra rank-size é o distrator mais exigente, porque descreve justamente o modelo teórico contrário: uma hierarquia regular, em que o tamanho de cada cidade guarda proporção com sua posição — é a ausência dessa regularidade que caracteriza a macrocefalia. A desconcentração urbana também existe e é o processo inverso, de perda de peso relativo da metrópole. O crescimento das cidades médias é fenômeno real e distinto. E a superação da população urbana pela rural contraria a trajetória de urbanização brasileira.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
                       },
@@ -14552,12 +14552,12 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "O aquecimento aumenta a probabilidade e a intensidade média dos eventos extremos",
                                                "b":  "Eventos extremos se tornam mais raros à medida que a temperatura média sobe",
-                                               "c":  "A frequência desses eventos varia ao acaso, sem relação com o aquecimento global",
+                                               "c":  "A frequência desses eventos depende apenas de ciclos naturais como o El Niño",
                                                "d":  "A ciência do clima trata apenas de médias, sem inferir nada sobre eventos individuais",
-                                               "e":  "Todo evento extremo recente decorre do aquecimento, sem outro fator meteorológico"
+                                               "e":  "Cada evento extremo recente decorre do aquecimento, sem outro fator meteorológico"
                                            },
                           "resposta":  "a",
-                          "explicacao":  "A afirmação correta é probabilística: o aquecimento carrega os dados a favor do extremo, tornando certos eventos mais prováveis e mais intensos, sem que cada ocorrência tenha causa única. Em (d) está o distrator mais sofisticado e o mais errado por pouco — a ciência de atribuição justamente calcula quanto o aquecimento alterou a probabilidade de um evento específico, de modo que a cautela do enunciado não equivale a silêncio sobre casos individuais. Em (e) e (c) estão os dois excessos opostos, atribuir tudo e não atribuir nada. Em (b), a direção é contrária à observada."
+                          "explicacao":  "A posição da ciência do clima é que o aquecimento aumenta a probabilidade e a intensidade média dos eventos extremos, o que se afirma em termos estatísticos e não caso a caso. Atribuir a frequência apenas a ciclos naturais como o El Niño é o distrator mais forte, porque esses ciclos existem e influenciam de fato os extremos — o erro está no \u0027apenas\u0027, que exclui a componente antrópica que os estudos de atribuição isolam. Dizer que cada evento decorre do aquecimento comete o excesso oposto, o de dispensar os fatores meteorológicos de cada caso. Supor que os extremos se tornam mais raros contraria a projeção. E afirmar que a ciência do clima nada infere sobre eventos individuais desconhece a própria área de atribuição de eventos."
                       },
                       {
                           "id":  "geografia-67",
@@ -14568,10 +14568,10 @@ window.QUESTION_BANKS = {
                                                "b":  "Uma unidade oficial de medida de temperatura, adotada por climatologistas em substituição ao grau Celsius",
                                                "c":  "Um limite máximo de emissões fixado por tratado internacional para cada setor produtivo, cujo descumprimento gera sanções",
                                                "d":  "Um índice que mede apenas as emissões de carbono provenientes do transporte aéreo internacional",
-                                               "e":  "Uma medida exclusiva da área de floresta desmatada anualmente em um país, sem relação com emissões"
+                                               "e":  "Uma medida da área de floresta necessária para absorver as emissões geradas por determinada atividade ao longo de um ano"
                                            },
                           "resposta":  "a",
-                          "explicacao":  "A pegada de carbono é um indicador que estima o total de gases de efeito estufa emitidos, direta ou indiretamente, por uma pessoa, empresa, produto ou atividade. Não é uma unidade de temperatura, não se limita à área desmatada, e não se restringe às emissões do transporte aéreo — abrange qualquer fonte de emissão.",
+                          "explicacao":  "A pegada de carbono mede a quantidade total de gases de efeito estufa emitidos, direta e indiretamente, por uma atividade ou produto, em geral convertida em equivalente de dióxido de carbono. A área de floresta necessária para absorver essas emissões é o distrator mais próximo, porque também é indicador ambiental de uso corrente — só que mede a compensação necessária, e não a emissão. O limite de emissões fixado por tratado descreve uma meta ou cota, não uma medida. Restringir o índice ao transporte aéreo recorta um setor. E a pegada de carbono não é unidade de temperatura.",
                           "dificuldade":  "media",
                           "formato":  "direta"
                       },
@@ -14681,11 +14681,11 @@ window.QUESTION_BANKS = {
                                                "a":  "Um ciclo natural de savanização que ocorre a cada poucos séculos, independente do desmatamento",
                                                "b":  "Uma mudança reversível em curto prazo, bastando suspender o desmatamento por um ano",
                                                "c":  "Um patamar de desmatamento que comprometeria a reciclagem de umidade pela própria floresta",
-                                               "d":  "Um processo restrito à fauna da região, sem relação com o regime de chuvas ou a vegetação",
+                                               "d":  "Um processo desencadeado pela perda de polinizadores, que interromperia a reprodução das árvores de grande porte da floresta",
                                                "e":  "Um limite de temperatura fixado no Acordo de Paris, além do qual cessa a proteção jurídica"
                                            },
                           "resposta":  "c",
-                          "explicacao":  "A floresta produz boa parte da própria chuva pela evapotranspiração; abaixo de certa área contínua, esse ciclo deixa de se sustentar e o clima local seca por conta própria — daí a irreversibilidade. Em (b) está a leitura que o conceito de tipping point exclui: passado o limiar, retirar a pressão não devolve o sistema ao estado anterior. Em (a), a savanização em causa é induzida pelo desmatamento, não cíclica. Em (d), a mudança é da vegetação e do regime de chuvas, com a fauna sofrendo por consequência. Em (e), o limiar é ecológico e físico, não uma cláusula jurídica."
+                          "explicacao":  "O ponto de não retorno da Amazônia está associado a um patamar de desmatamento a partir do qual a floresta perde a capacidade de reciclar a própria umidade, e sem os rios voadores o regime de chuvas não se sustenta. A perda de polinizadores é o distrator mais respeitável, porque é mecanismo real de degradação florestal e afeta de fato a regeneração — e não é o que define o limiar, que passa pelo ciclo hidrológico. Um ciclo natural de savanização a cada poucos séculos não corresponde à história da floresta. A ideia de reversão em um ano contraria o próprio conceito de irreversibilidade. E o Acordo de Paris fixa metas de temperatura, não um limite jurídico de proteção."
                       },
                       {
                           "id":  "geografia-75",
@@ -15158,14 +15158,14 @@ window.QUESTION_BANKS = {
                           "dificuldade":  "dificil",
                           "enunciado":  "Entretanto, estudiosos alertam que esse bônus demográfico:",
                           "alternativas":  {
-                                               "a":  "Garante crescimento econômico automático, independentemente de investimento em educação",
+                                               "a":  "Produz crescimento econômico automático, independentemente de investimento em educação e em qualificação profissional",
                                                "b":  "É janela temporária, que precisa ser aproveitada com educação, qualificação e emprego",
                                                "c":  "Tende a se manter de forma permanente, já que decorre da estrutura etária consolidada",
                                                "d":  "Já se encerrou no Brasil na década de 1980, antes da transição demográfica avançada",
-                                               "e":  "É fenômeno permanente, que se repete a cada geração, sem relação com a estrutura etária"
+                                               "e":  "Se repete a cada geração, à medida que novas coortes numerosas entram na idade economicamente ativa"
                                            },
                           "resposta":  "b",
-                          "explicacao":  "A janela se fecha sozinha: a mesma queda de fecundidade que a abriu produz, décadas depois, uma população idosa numerosa, e o ganho só se converte em renda se houver escolaridade e emprego enquanto ela está aberta. Em (a) está o alerta invertido — o bônus é oportunidade, não garantia, e países que não investiram envelheceram sem enriquecer. Em (c) e (e), a permanência contraria a própria dinâmica etária que define o fenômeno. Em (d), o bônus brasileiro se estendeu bem além dos anos 1980 e se encerra por volta desta década."
+                          "explicacao":  "O bônus demográfico é uma janela temporária, aberta enquanto a população em idade ativa é proporcionalmente grande, e precisa ser aproveitada com educação, qualificação e geração de emprego. A ideia de que ele se repete a cada geração é o distrator mais plausível, porque coortes numerosas realmente se sucedem — e a transição demográfica ocorre uma vez, com a queda da natalidade estreitando a base da pirâmide de forma permanente. Supor crescimento automático sem investimento apaga a condição que transforma a janela em ganho. Tratá-lo como situação consolidada ignora o envelhecimento que vem a seguir. E dizer que se encerrou nos anos 1980 antecipa em décadas o fim de um período que segue aberto."
                       },
                       {
                           "id":  "geografia-105",
@@ -15188,14 +15188,14 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Dados aproximados do IBGE indicam que a taxa de fecundidade no Brasil, que era de cerca de 6,3 filhos por mulher em 1960, caiu para aproximadamente 1,6 filho por mulher nas estimativas mais recentes, valor abaixo da taxa de reposição populacional (2,1 filhos por mulher).",
                           "enunciado":  "Considerando esses dados, é correto afirmar que:",
                           "alternativas":  {
-                                               "a":  "A população brasileira continuará crescendo no mesmo ritmo de 1960, já que o tamanho da população não depende da taxa de fecundidade, equívoco que ignora o efeito da fecundidade sobre o crescimento populacional",
+                                               "a":  "A população brasileira continuará crescendo no mesmo ritmo observado em 1960, porque a inércia demográfica mantém elevado o número de nascimentos enquanto as coortes numerosas daquela década permanecem em idade reprodutiva",
                                                "b":  "A queda da fecundidade abaixo da reposição implica redução imediata da população total, já observada no país",
                                                "c":  "O Brasil ainda apresenta uma das maiores taxas de fecundidade entre os países da América Latina",
                                                "d":  "A queda acentuada da fecundidade brasileira para um patamar abaixo da taxa de reposição indica uma tendência, no longo prazo, de estabilização e posterior redução do crescimento populacional do país",
                                                "e":  "A taxa de fecundidade brasileira permaneceu estável desde 1960, com pequenas oscilações sem significado demográfico"
                                            },
                           "resposta":  "d",
-                          "explicacao":  "A redução da fecundidade de 6,3 para cerca de 1,6 filho por mulher, abaixo da taxa de reposição, evidencia estágio avançado de transição demográfica, associado à urbanização e à maior escolaridade, apontando para futura estabilização e redução do crescimento populacional. A taxa não permaneceu estável, o Brasil não está entre as maiores taxas da América Latina atualmente, e o crescimento populacional está diretamente ligado à taxa de fecundidade, não independente dela.",
+                          "explicacao":  "A queda acentuada da fecundidade para patamar abaixo da taxa de reposição aponta, no longo prazo, para estabilização e depois redução do crescimento populacional brasileiro. A alternativa que invoca a inércia demográfica é a mais exigente, porque o mecanismo é verdadeiro: uma população segue crescendo por décadas após a fecundidade cair, justamente porque as coortes grandes continuam tendo filhos — o erro está em concluir que o ritmo permanece o de 1960. Supor redução imediata da população total comete o excesso oposto, ignorando esse mesmo momento demográfico. A fecundidade brasileira está hoje entre as mais baixas da América Latina, não entre as maiores. E dizer que permaneceu estável desde 1960 contraria a queda de cerca de seis filhos por mulher para menos de dois.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
                       },
@@ -15206,12 +15206,12 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "Pode gerar novos empregos em setores como energia eólica, solar e hidrogênio verde, ao mesmo tempo em que exige requalificação de trabalhadores de setores fósseis tradicionais",
                                                "b":  "Tende a manter inalterada a estrutura de empregos do setor energético, já que as novas fontes exigem as mesmas funções",
-                                               "c":  "É um processo neutro do ponto de vista do mercado de trabalho, sem qualquer relação com requalificação profissional",
-                                               "d":  "Beneficia exclusivamente trabalhadores de países exportadores de petróleo, que passam a exportar também tecnologia renovável",
-                                               "e":  "Elimina automaticamente qualquer emprego relacionado a fontes fósseis, sem gerar nenhum posto de trabalho em setores renováveis emergentes, previsão contrariada pelos dados do setor"
+                                               "c":  "É processo neutro do ponto de vista do total de empregos, uma vez que cada posto perdido no setor fóssil é reposto no setor renovável",
+                                               "d":  "Beneficia sobretudo trabalhadores de países exportadores de petróleo, que passam a exportar também tecnologia renovável",
+                                               "e":  "Elimina os empregos ligados a fontes fósseis sem gerar postos equivalentes, por serem as fontes renováveis intensivas em capital e não em mão de obra ao longo da operação das usinas"
                                            },
                           "resposta":  "a",
-                          "explicacao":  "A transição energética tende a gerar empregos em setores emergentes, como eólica, solar e hidrogênio verde, mas também impõe desafios de requalificação para trabalhadores de setores fósseis tradicionais. O processo gera, e não apenas elimina, empregos em novos setores; não beneficia exclusivamente exportadores de petróleo; e tem impacto direto e relevante sobre o mercado de trabalho, não sendo neutro.",
+                          "explicacao":  "A transição energética cria postos em energia eólica, solar e hidrogênio verde e, ao mesmo tempo, exige requalificar trabalhadores dos setores fósseis — os dois movimentos ocorrem juntos e é essa simultaneidade que a discute sob a ótica do trabalho. A neutralidade por reposição posto a posto é o distrator mais forte, porque é a premissa da chamada transição justa: ela é um objetivo de política pública, não um efeito automático, e as vagas surgem em outros lugares, com outras qualificações. A tese de que as renováveis são intensivas em capital acerta a fase de operação e ignora a de fabricação e instalação. Manter inalterada a estrutura de empregos contraria a mudança de perfil técnico. E os países exportadores de petróleo são os mais expostos à transição, não seus beneficiários preferenciais.",
                           "dificuldade":  "media",
                           "formato":  "direta"
                       },
@@ -15258,10 +15258,10 @@ window.QUESTION_BANKS = {
                                                "b":  "Impermeabilização do solo, ocupação de várzeas e encostas e drenagem insuficiente",
                                                "c":  "Queda na taxa de urbanização das grandes cidades, que reduziu a manutenção da drenagem",
                                                "d":  "Aumento da vegetação nativa nas cidades, que passou a reter água e sobrecarregar a rede",
-                                               "e":  "Aumento isolado do volume de chuvas, sem relação com a forma de ocupação do solo urbano"
+                                               "e":  "Aumento do volume de chuvas concentrado em poucos dias do ano, sem mudança no total anual precipitado"
                                            },
                           "resposta":  "b",
-                          "explicacao":  "A chave está no enunciado: a chuva não precisou aumentar para a enchente piorar. Asfalto e telhado impedem a infiltração, a várzea que armazenaria a cheia virou bairro, e o que sobra escoa para uma rede subdimensionada. Em (e) está o distrator mais tentador, porque eventos extremos realmente têm se intensificado — mas atribuir tudo à chuva ignora que a mesma precipitação de antes hoje alaga. Em (a) e (c), redução de chuva e queda de urbanização não se verificam. Em (d), a vegetação urbana favorece a infiltração e reduz o escoamento."
+                          "explicacao":  "As enchentes urbanas se agravaram sobretudo pela impermeabilização do solo, pela ocupação de várzeas e encostas e pela drenagem insuficiente — o mesmo volume de chuva encontra hoje uma cidade que não o absorve. A concentração da chuva em poucos dias é o distrator mais defensável, porque essa mudança no padrão de precipitação está documentada, e sozinha não explica enchentes em episódios que décadas atrás não seriam excepcionais. A redução do volume de chuvas contraria os registros. A taxa de urbanização das grandes cidades não caiu. E o aumento da vegetação nativa reduziria o escoamento superficial, em vez de sobrecarregar a rede."
                       },
                       {
                           "id":  "geografia-111",
@@ -15289,11 +15289,11 @@ window.QUESTION_BANKS = {
                                                "a":  "Os dados de dois municípios isolados provam de forma definitiva uma relação de causa e efeito",
                                                "b":  "A diferença de nove vezes é consistente com a hipótese de associação entre os dois fatores",
                                                "c":  "O Município X tem cobertura pior, já que registrou número absoluto menor de casos",
-                                               "d":  "A diferença observada decorre do acaso, sem relação com as condições de saneamento",
+                                               "d":  "A diferença observada decorre da renda média distinta dos dois municípios, e não das condições de saneamento",
                                                "e":  "A diferença de 40 casos por 10 mil habitantes não tem relevância sanitária alguma"
                                            },
                           "resposta":  "b",
-                          "explicacao":  "A formulação prudente é a correta: dois municípios sustentam uma associação compatível com a hipótese, e não uma demonstração de causalidade, que exigiria controlar renda, densidade e acesso a serviço de saúde. Em (a) está o excesso simétrico ao de (d) — um conclui causa a partir de dois pontos, o outro descarta qualquer relação diante de uma diferença de nove vezes, e ambos erram na calibragem da inferência. Em (c), a leitura inverte os dados. Em (e), quarenta casos por dez mil habitantes é diferença sanitariamente expressiva."
+                          "explicacao":  "A diferença de nove vezes é consistente com a hipótese de associação entre saneamento e ocorrência da doença, e é assim que se formula a conclusão: consistência com a hipótese, não prova. A alternativa da renda média é a objeção metodológica mais séria, porque aponta uma variável de confusão real — renda e saneamento andam juntos, e por isso a comparação entre dois municípios não isola o efeito de cada um. Ainda assim ela não é a conclusão mais adequada, porque a associação permanece consistente. Afirmar que os dados provam causa e efeito extrapola dois casos. Comparar números absolutos em vez de taxas ignora o tamanho da população. E dizer que a diferença não tem relevância sanitária desconsidera sua magnitude."
                       },
                       {
                           "id":  "geografia-113",
@@ -15382,12 +15382,12 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "Promover a desapropriação imediata dos imóveis ociosos, transferindo-os ao patrimônio municipal sem etapas prévias",
                                                "b":  "Elevar a arrecadação municipal de forma linear, aplicando o mesmo percentual de aumento a todos os imóveis do município, utilizados ou não",
-                                               "c":  "Isentar integralmente do pagamento de IPTU os proprietários de grandes terrenos urbanos ociosos, como incentivo à manutenção de reservas de valor, leitura equivocada do instrumento tributário",
-                                               "d":  "Autorizar a desapropriação imediata, sem qualquer aviso prévio, de qualquer imóvel urbano não utilizado por mais de um ano",
+                                               "c":  "Isentar do pagamento de IPTU os proprietários de terrenos urbanos ociosos situados em áreas de interesse ambiental, como forma de preservar áreas verdes",
+                                               "d":  "Autorizar a desapropriação do imóvel que permaneça não utilizado após cinco anos de cobrança progressiva, com pagamento da indenização em títulos da dívida pública municipal resgatáveis em até dez anos",
                                                "e":  "Induzir os proprietários de imóveis ociosos ou subutilizados em áreas centrais a dar a eles uma função social adequada, sob pena de pagar alíquotas de IPTU progressivas ao longo do tempo"
                                            },
                           "resposta":  "e",
-                          "explicacao":  "O IPTU progressivo no tempo permite ao poder público municipal aumentar progressivamente a alíquota sobre imóveis subutilizados, incentivando os proprietários a dar-lhes função social. Não isenta proprietários de terrenos ociosos (ao contrário, penaliza-os), não autoriza desapropriação imediata sem processo prévio, e não se aplica de forma linear a todos os imóveis — apenas aos subutilizados ou não utilizados.",
+                          "explicacao":  "O IPTU progressivo no tempo existe para induzir o proprietário de imóvel ocioso ou subutilizado em área central a dar-lhe função social, sob pena de alíquotas que crescem ano a ano. A alternativa da desapropriação é a mais difícil de recusar porque descreve com exatidão o passo seguinte previsto no Estatuto da Cidade — cinco anos de cobrança progressiva, indenização em títulos da dívida pública municipal — e não é o objetivo principal do instrumento: a desapropriação é o que ocorre quando a indução falha. A desapropriação imediata suprime a etapa de indução. Elevar a arrecadação de forma linear sobre todos os imóveis contraria a progressividade dirigida ao ocioso. E isentar terrenos vazios premiaria a especulação que o instrumento combate.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
                       },
@@ -15398,12 +15398,12 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "A posição de uma cidade na hierarquia é definida apenas por seu número de habitantes, sem considerar os serviços que oferece",
                                                "b":  "Uma metrópole regional, como uma capital estadual, tende a concentrar serviços mais especializados, influenciando um número maior de cidades menores ao seu redor, que dependem desses serviços",
-                                               "c":  "Todas as cidades de um mesmo país, independentemente de seu porte, oferecem serviços de complexidade equivalente à sua população, padrão desmentido pela distribuição real de serviços entre cidades e metrópoles",
+                                               "c":  "As cidades de um mesmo país oferecem serviços de complexidade proporcional à sua população, de modo que o porte demográfico de cada uma basta para prever quais serviços ela oferece aos seus moradores",
                                                "d":  "Cidades pequenas exercem, em regra, maior influência regional do que metrópoles, por concentrarem serviços mais especializados",
-                                               "e":  "A hierarquia urbana é definida exclusivamente pela extensão territorial do município, sem relação com a oferta de serviços"
+                                               "e":  "A hierarquia urbana é definida pela extensão territorial do município, critério adotado na classificação da rede urbana brasileira"
                                            },
                           "resposta":  "b",
-                          "explicacao":  "A hierarquia urbana descreve como metrópoles regionais concentram serviços mais especializados, exercendo influência sobre cidades menores que dependem desses serviços não disponíveis localmente. Cidades de portes diferentes não oferecem serviços de complexidade equivalente, cidades pequenas não exercem maior influência do que metrópoles, e a hierarquia se define pela oferta de serviços e funções urbanas, não pela extensão territorial do município.",
+                          "explicacao":  "A hierarquia urbana explica por que uma metrópole regional, como uma capital estadual, concentra serviços mais especializados e influencia uma rede de cidades menores que dependem deles — é a oferta de bens e serviços raros que define a posição, não o tamanho isolado. Supor que o porte demográfico basta para prever a oferta é o distrator mais fino, porque as duas coisas se correlacionam, e a hierarquia existe precisamente onde essa proporcionalidade se rompe: cidades de porte parecido oferecem serviços muito diferentes. Definir a posição apenas pelo número de habitantes comete o mesmo erro de forma mais crua. A extensão territorial não entra no critério. E cidades pequenas não exercem influência regional maior que metrópoles.",
                           "dificuldade":  "media",
                           "formato":  "direta"
                       },
@@ -15574,12 +15574,12 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "Todos os habitantes de uma cidade, independentemente de sua condição socioeconômica, têm direito de participar e usufruir de seus espaços e serviços, participando das decisões sobre o planejamento urbano",
                                                "b":  "O direito de adquirir e manter a propriedade de um imóvel urbano é assegurado a todos, sendo essa a base do conceito",
-                                               "c":  "As cidades devem priorizar, antes de qualquer outro objetivo, a valorização do mercado imobiliário como forma de garantir o bem-estar de todos os moradores, leitura que inverte a lógica original do conceito de Lefebvre",
-                                               "d":  "O planejamento urbano deve ser decidido exclusivamente por especialistas técnicos, sem qualquer participação da população nas decisões",
+                                               "c":  "As cidades devem priorizar a valorização do mercado imobiliário, cujo dinamismo financiaria, pela arrecadação de tributos sobre a propriedade urbana, a infraestrutura de que os moradores mais pobres necessitam",
+                                               "d":  "O planejamento urbano deve ser conduzido por corpo técnico especializado, cabendo à população manifestar-se apenas em audiências de caráter consultivo",
                                                "e":  "O direito à cidade se aplica apenas aos proprietários de imóveis localizados nas áreas centrais e mais valorizadas dos grandes centros urbanos"
                                            },
                           "resposta":  "a",
-                          "explicacao":  "O conceito de \u0027direito à cidade\u0027, de Henri Lefebvre, incorporado no Brasil ao Estatuto da Cidade, defende que todos os habitantes urbanos têm direito de usufruir do espaço, dos serviços e de participar das decisões sobre o planejamento urbano. Ele se contrapõe, e não se resume, a um planejamento apenas técnico, a um privilégio de proprietários de áreas centrais, ou à priorização do mercado imobiliário sobre o bem-estar coletivo.",
+                          "explicacao":  "O direito à cidade, na formulação de Lefebvre, sustenta que todos os habitantes, independentemente de sua condição socioeconômica, têm direito de usufruir dos espaços e serviços urbanos e de participar das decisões sobre o planejamento. A alternativa que faz o mercado imobiliário financiar a infraestrutura dos mais pobres é a mais bem construída, porque é um argumento que se ouve em audiência pública e mobiliza um mecanismo real de arrecadação — e subordina o uso da cidade ao valor de troca, que é exatamente o que o conceito recusa. Reduzir a participação popular a audiências consultivas retira do direito sua dimensão decisória. Identificá-lo com o direito de propriedade troca o valor de uso pelo de troca. E restringi-lo a proprietários de áreas centrais o esvazia.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
                       },
@@ -15590,12 +15590,12 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "Avanço das areias de um deserto já existente sobre áreas vizinhas, processo determinado por dinâmicas naturais de longo prazo",
                                                "b":  "Degradação de solos em áreas de clima árido, semiárido ou subúmido seco, resultante da combinação de fatores climáticos com práticas humanas inadequadas de uso do solo",
-                                               "c":  "Um processo que ocorre apenas em regiões já naturalmente desérticas, sem qualquer relação com o clima semiárido, engano frequente que ignora a ação humana associada ao fenômeno",
-                                               "d":  "Um fenômeno restrito a regiões situadas exatamente sobre a linha do Equador, o que exclui o semiárido nordestino brasileiro",
-                                               "e":  "Transformação definitiva de qualquer bioma brasileiro em deserto, processo já concluído em toda a extensão do semiárido nordestino"
+                                               "c":  "Um processo que ocorre apenas em regiões naturalmente desérticas, onde a retirada da escassa cobertura vegetal acelera a erosão eólica do solo",
+                                               "d":  "Um fenômeno restrito às faixas de deserto tropical situadas em torno de trinta graus de latitude, onde as altas pressões subtropicais impedem a formação de chuvas regulares",
+                                               "e":  "Transformação do solo em areia estéril, com perda irreversível da capacidade produtiva já verificada na maior parte da área do semiárido nordestino"
                                            },
                           "resposta":  "b",
-                          "explicacao":  "A desertificação é a degradação de solos em áreas de clima árido, semiárido ou subúmido seco, combinando fatores climáticos com práticas humanas inadequadas, como desmatamento da caatinga e superpastoreio. Não se trata de um processo já concluído em toda a região, não está restrito a áreas equatoriais (o semiárido nordestino fica distante da linha do Equador), e ocorre justamente em áreas de clima semiárido, não em desertos já formados.",
+                          "explicacao":  "Desertificação é a degradação do solo em áreas de clima árido, semiárido ou subúmido seco, resultante da combinação entre fatores climáticos e práticas humanas inadequadas de uso da terra — e é por isso que ela atinge o semiárido nordestino, que não é um deserto. A restrição às faixas de deserto tropical em torno de trinta graus de latitude é o distrator mais bem informado, porque descreve corretamente onde se formam os grandes desertos do planeta, e não onde ocorre a desertificação, que é processo de degradação e não de expansão de deserto existente. Confundi-la com o avanço das areias adota justamente a imagem que o conceito técnico rejeita. Circunscrevê-la a regiões já desérticas retira dela o elemento humano. E supor perda irreversível já consumada na maior parte do semiárido extrapola a extensão das áreas efetivamente degradadas.",
                           "dificuldade":  "media",
                           "formato":  "direta"
                       },
@@ -15685,13 +15685,13 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Programas habitacionais de interesse social no Brasil, como o Minha Casa Minha Vida, foram criticados por parte de urbanistas por, em muitos casos, construir conjuntos habitacionais em áreas periféricas e distantes dos centros de emprego e serviços das cidades. Essa crítica está relacionada, sobretudo, ao fato de que:",
                           "alternativas":  {
                                                "a":  "Uma exigência legal de área verde mínima por unidade habitacional, que inviabilizaria empreendimentos em terrenos centrais",
-                                               "b":  "O programa construiu a totalidade de suas unidades habitacionais em áreas centrais já consolidadas e bem servidas de infraestrutura",
+                                               "b":  "O programa concentrou suas unidades em áreas centrais já consolidadas, o que elevou o custo por unidade e reduziu o número de moradias entregues",
                                                "c":  "Os conjuntos habitacionais desse programa foram construídos, em sua maioria, em áreas rurais, fora do perímetro urbano dos municípios",
                                                "d":  "Terrenos mais baratos, geralmente localizados na periferia, favorecem financeiramente a construção em maior escala, mas podem gerar novas formas de segregação socioespacial",
-                                               "e":  "A localização periférica elimina por completo os custos de mobilidade e melhora automaticamente a qualidade de vida dos beneficiários, leitura que contraria os relatos de moradores sobre o tempo gasto em deslocamentos"
+                                               "e":  "A localização periférica reduz o custo da moradia para o beneficiário, compensando com folga o que ele passa a gastar em transporte e no tempo dedicado aos deslocamentos diários"
                                            },
                           "resposta":  "d",
-                          "explicacao":  "A construção de conjuntos habitacionais em terrenos periféricos mais baratos é criticada por reproduzir padrões de segregação socioespacial, com longos e custosos deslocamentos diários até empregos e serviços. O programa não se concentrou em áreas centrais consolidadas, a localização periférica tende a aumentar, não eliminar, custos de mobilidade, e os conjuntos foram construídos majoritariamente dentro do perímetro urbano, ainda que em áreas periféricas dele.",
+                          "explicacao":  "A crítica dos urbanistas parte de um fato econômico: terrenos periféricos são mais baratos e permitem construir em escala maior, e o resultado é a produção de novas formas de segregação socioespacial, com moradia longe de emprego e serviços. A compensação entre o custo menor da moradia e o gasto com transporte é o distrator mais forte, porque é precisamente o cálculo que se apresenta em defesa desses conjuntos — e o que os estudos mostram é que o tempo e o dinheiro gastos em deslocamento consomem o ganho. Dizer que o programa se concentrou em áreas centrais inverte a localização criticada. A construção em área rural não corresponde ao padrão observado. E a exigência de área verde mínima por unidade não é o fator que empurra os empreendimentos para a periferia.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
                       },
@@ -15750,12 +15750,12 @@ window.QUESTION_BANKS = {
                           "alternativas":  {
                                                "a":  "Projetos de cidade inteligente podem, em alguns casos, priorizar investimentos tecnológicos em áreas já privilegiadas da cidade, aprofundando desigualdades socioespaciais",
                                                "b":  "A adoção de tecnologia urbana reduz por si só as desigualdades socioespaciais, independentemente de onde os sistemas são instalados",
-                                               "c":  "Tecnologias de gestão urbana, segundo esses geógrafos, nunca trazem qualquer benefício mensurável para a cidade, crítica que desconsidera ganhos reais já obtidos em algumas cidades",
-                                               "d":  "Cidades inteligentes, por definição, não utilizam nenhum tipo de tecnologia digital em sua gestão, definição que ignora exatamente o uso intensivo de tecnologia que caracteriza o conceito",
-                                               "e":  "O conceito elimina automaticamente todas as desigualdades urbanas existentes ao democratizar o acesso à tecnologia, leitura ingênua que ignora as barreiras de acesso entre grupos sociais"
+                                               "c":  "Os ganhos de eficiência obtidos com essas tecnologias se concentram na redução de custos administrativos, sem alcançar a qualidade do serviço prestado ao cidadão",
+                                               "d":  "O conceito depende da coleta permanente de dados sobre os moradores, o que transferiria a operação de serviços urbanos essenciais a empresas privadas de tecnologia, fora do controle público",
+                                               "e":  "O conceito elimina as desigualdades urbanas ao democratizar o acesso à tecnologia, uma vez que a infraestrutura digital alcança a área inteira do município"
                                            },
                           "resposta":  "a",
-                          "explicacao":  "A crítica de parte dos geógrafos urbanos está no risco de que investimentos tecnológicos se concentrem em áreas já privilegiadas, aprofundando desigualdades caso não haja investimento equivalente em infraestrutura básica das periferias. O conceito não elimina desigualdades automaticamente, uma cidade inteligente por definição usa tecnologia digital (é sua característica central), e a crítica não nega todo benefício, mas aponta riscos de desigualdade na sua implementação.",
+                          "explicacao":  "A crítica que a geografia urbana faz às cidades inteligentes é que os investimentos tecnológicos tendem a se concentrar em áreas já privilegiadas, o que aprofunda desigualdades socioespaciais em nome da eficiência. A dependência de coleta permanente de dados, com a operação de serviços essenciais passando a empresas privadas de tecnologia, é o distrator mais exigente, porque também é uma crítica verdadeira e influente — e não é a que a questão pede, que trata da distribuição espacial do investimento. Restringir os ganhos ao custo administrativo subestima resultados já medidos em mobilidade e atendimento. Supor que a tecnologia reduz a desigualdade por si só ignora as barreiras de acesso. E dizer que essas cidades não usam tecnologia digital contraria a definição do conceito.",
                           "dificuldade":  "dificil",
                           "formato":  "direta"
                       },
@@ -15796,14 +15796,14 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "Crises hídricas em grandes regiões metropolitanas brasileiras, como a enfrentada pela Região Metropolitana de São Paulo em 2014-2015, evidenciaram desafios na gestão da água em áreas urbanas.",
                           "enunciado":  "Essa escassez de água em áreas urbanas pode decorrer, entre outros fatores, de:",
                           "alternativas":  {
-                                               "a":  "Exclusivamente da falta de chuvas, sem qualquer relação com a gestão dos recursos hídricos disponíveis na região metropolitana",
+                                               "a":  "Da falta de chuvas em anos de estiagem, único fator capaz de reduzir a oferta em sistemas metropolitanos de grande porte",
                                                "b":  "Uma redução do consumo de água por parte da população urbana, que teria sobrecarregado os sistemas de tratamento",
                                                "c":  "Uma combinação de fatores climáticos (como estiagens prolongadas) com problemas de gestão dos recursos hídricos, crescimento da demanda urbana e, em alguns casos, perdas na rede de distribuição de água",
                                                "d":  "O consumo industrial concentrado nas regiões metropolitanas, responsável isoladamente pela redução da água disponível à população",
-                                               "e":  "Um excesso de investimentos em infraestrutura de captação e tratamento de água, que teria reduzido artificialmente a oferta disponível, hipótese que contraria o padrão observado nas regiões metropolitanas"
+                                               "e":  "Do excesso de investimento em obras de captação em bacias distantes, que teria elevado o custo unitário da água e levado as concessionárias a operar abaixo da capacidade instalada dos sistemas metropolitanos"
                                            },
                           "resposta":  "c",
-                          "explicacao":  "Crises hídricas metropolitanas geralmente resultam da combinação entre fatores climáticos e fatores de gestão, como crescimento da demanda urbana e perdas na rede de distribuição. Não decorrem apenas da falta de chuvas isoladamente, não são causadas por excesso de investimento em infraestrutura (pelo contrário, a subutilização é o problema comum), e não se relacionam a uma redução do consumo, mas sim ao crescimento da demanda.",
+                          "explicacao":  "A escassez de água em áreas urbanas resulta da combinação entre fatores climáticos, como estiagens prolongadas, problemas de gestão dos recursos hídricos, crescimento da demanda e perdas na rede de distribuição, que em muitas cidades brasileiras passam de um terço do volume tratado. A hipótese do excesso de investimento em captação distante é a mais elaborada entre as erradas, porque a captação em bacias remotas de fato encarece a água — e o efeito observado é falta de investimento, não excesso. Atribuir tudo à falta de chuvas é o erro mais comum, porque isola o clima da gestão. A redução do consumo não sobrecarrega o tratamento. E o consumo industrial pesa nas metrópoles sem responder isoladamente pela escassez.",
                           "dificuldade":  "media",
                           "formato":  "direta"
                       },
@@ -15829,13 +15829,13 @@ window.QUESTION_BANKS = {
                           "enunciado":  "Esse processo consiste em:",
                           "alternativas":  {
                                                "a":  "Um processo que remove o excesso de sal e outros minerais da água do mar, tornando-a própria para consumo humano e outros usos que exigem água doce",
-                                               "b":  "Um método exclusivo de purificação de água de rios poluídos, sem qualquer relação com a água do mar",
-                                               "c":  "Uma técnica que elimina totalmente a necessidade de qualquer outra fonte de água doce em países que a adotam, afirmação exagerada mesmo nos países que mais a utilizam",
+                                               "b":  "Um método de purificação de água de rios poluídos por meio da passagem forçada da água através de membranas filtrantes",
+                                               "c":  "Uma técnica que reduz a dependência de fontes de água doce em países áridos, onde já responde pela maior parte do abastecimento urbano e pela irrigação agrícola",
                                                "d":  "Um processo que remove matéria orgânica e agentes patogênicos de águas residuais, devolvendo-as tratadas aos cursos d\u0027água",
                                                "e":  "Um processo que transforma água doce de rios e lagos em água salgada, para uso industrial em regiões costeiras"
                                            },
                           "resposta":  "a",
-                          "explicacao":  "A dessalinização remove o excesso de sal e outros minerais da água do mar (ou salobra), tornando-a própria para consumo humano, irrigação e uso industrial. Não transforma água doce em salgada, não se limita à purificação de rios poluídos, e mesmo países que a adotam em larga escala normalmente combinam essa fonte com outras, não a utilizam como única solução hídrica.",
+                          "explicacao":  "A dessalinização remove o excesso de sal e outros minerais da água do mar, tornando-a própria para o consumo humano e para usos que exigem água doce. A purificação de água de rio por membranas filtrantes é o distrator mais fino, porque a tecnologia é a mesma — a osmose reversa força a água através de membranas tanto num caso como no outro —, e o que define a dessalinização é a fonte tratada, a água salgada. Dizer que ela já responde pela maior parte do abastecimento em países áridos exagera uma participação que é relevante em alguns deles e não majoritária. A remoção de matéria orgânica e patógenos descreve o tratamento de esgoto. E transformar água doce em salgada inverte o processo.",
                           "dificuldade":  "media",
                           "formato":  "direta"
                       },
@@ -15860,14 +15860,14 @@ window.QUESTION_BANKS = {
                           "texto_apoio":  "",
                           "enunciado":  "A chamada \u0027agricultura de precisão\u0027, cada vez mais utilizada no agronegócio brasileiro, envolve o uso de tecnologias como GPS, sensores e imagens de satélite para:",
                           "alternativas":  {
-                                               "a":  "Impedir qualquer forma de mecanização complementar da agricultura nas áreas onde é adotada, leitura equivocada de uma tecnologia que frequentemente se soma à mecanização existente",
-                                               "b":  "Eliminar por completo a necessidade de mão de obra humana em todas as etapas da produção agrícola",
+                                               "a":  "Substituir a mecanização convencional da lavoura por equipamentos autônomos guiados por satélite, capazes de operar sem a presença de um condutor humano na cabine da máquina agrícola",
+                                               "b":  "Reduzir a necessidade de mão de obra nas etapas de plantio e de colheita, transferindo-a para o monitoramento remoto das lavouras",
                                                "c":  "Desenvolver variedades geneticamente modificadas resistentes a pragas, dispensando o monitoramento das condições do solo",
-                                               "d":  "Substituir integralmente a necessidade de qualquer insumo agrícola, como fertilizantes e defensivos, em toda a lavoura monitorada, cenário inviável mesmo com o avanço dessas tecnologias",
+                                               "d":  "Reduzir a zero o uso de insumos nas áreas monitoradas, ao identificar por satélite as porções da lavoura que dispensam adubação",
                                                "e":  "Monitorar com maior exatidão as condições do solo e das lavouras, permitindo a aplicação mais eficiente e localizada de insumos como água, fertilizantes e defensivos agrícolas"
                                            },
                           "resposta":  "e",
-                          "explicacao":  "A agricultura de precisão utiliza GPS, sensores e imagens de satélite para monitorar com exatidão as condições do solo e das lavouras, permitindo aplicação mais eficiente e localizada de insumos, o que aumenta a produtividade e reduz desperdícios. Não elimina a necessidade de insumos (apenas otimiza seu uso), não impede a mecanização (frequentemente depende dela), e não elimina a mão de obra humana em todas as etapas da produção.",
+                          "explicacao":  "A agricultura de precisão usa GPS, sensores e imagens de satélite para monitorar com exatidão as condições do solo e da lavoura, o que permite aplicar água, fertilizantes e defensivos de forma localizada e mais eficiente — dose variável conforme o ponto do terreno. Os equipamentos autônomos guiados por satélite são o distrator mais atual, porque existem e se apoiam nas mesmas tecnologias: eles são um desdobramento, e a agricultura de precisão se define pelo manejo diferenciado, não pela ausência de operador. Reduzir os insumos a zero confunde aplicação localizada com supressão. A redução de mão de obra é efeito possível, e não a finalidade. E o desenvolvimento de variedades geneticamente modificadas pertence ao melhoramento genético.",
                           "dificuldade":  "media",
                           "formato":  "direta"
                       },

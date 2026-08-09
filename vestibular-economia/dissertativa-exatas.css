@@ -1,0 +1,223 @@
+/* Dissertativa de exatas — estilos.
+   ═══════════════════════════════════════════════════════════════════════════
+   Tudo aqui usa os tokens do styles.css do v2 (--surface, --ink, --good...),
+   e por isso o modo escuro sai de graça: quem troca os valores é o
+   @media (prefers-color-scheme: dark) de lá.
+
+   Duas regras da casa que este arquivo obedece:
+
+   1. NAVY É ESTRUTURA, OURO É UMA AÇÃO POR TELA. Nenhum ouro aqui — a ação
+      dourada da tela de estudo é outra. O botão de conferir é o primário navy.
+
+   2. VERDE E VERMELHO SÓ EM GABARITO. O veredito não pinta o próprio fundo:
+      ele fica sobre o verde pálido do gabarito e marca o estado numa barra à
+      esquerda, mesma solução que a correção por IA adotou. Cor de fundo sobre
+      cor de fundo vira semáforo e some a hierarquia.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.exatas-questao + .exatas-questao {
+  margin-top: 28px;
+  padding-top: 24px;
+  border-top: 1px solid var(--border);
+}
+
+/* Procedência da questão. Fica discreta: é informação de rodapé que só importa
+   quando o aluno quer conferir a fonte, não quando ele está resolvendo. */
+.exatas-origem {
+  display: inline-block;
+  font-size: 0.72rem;
+  color: var(--ink-fainter);
+  margin-bottom: 10px;
+}
+
+/* Figura da questão. `currentColor` no SVG é o que faz o desenho acompanhar o
+   modo escuro sem uma segunda versão do arquivo — por isso o validador exige
+   que as questões desenhem com stroke="currentColor" em vez de cor fixa. */
+.exatas-figura {
+  margin: 0 0 16px;
+  padding: 12px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--surface);
+  color: var(--ink);
+  overflow-x: auto;
+}
+/* O teto de 380px existe porque `max-width: 100%` sozinho estica um diagrama de
+   320 de viewBox até a largura do cartão — no desktop a rampa saía com o dobro
+   do tamanho natural, competindo com o enunciado. Continua fluido abaixo disso. */
+.exatas-figura svg {
+  display: block;
+  max-width: min(100%, 380px);
+  height: auto;
+  margin: 0 auto;
+}
+
+.exatas-item + .exatas-item {
+  margin-top: 24px;
+  padding-top: 20px;
+  border-top: 1px dashed var(--border);
+}
+
+.exatas-rotulo {
+  display: block;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--ink-soft);
+  margin-bottom: 5px;
+}
+.exatas-rotulo em {
+  font-weight: 400;
+  font-style: normal;
+  color: var(--ink-faint);
+}
+
+/* O campo curto vem ANTES do campo longo de propósito. A ordem na tela é a
+   ordem do pensamento: o aluno chega a um número e depois é cobrado a mostrar
+   como chegou. Invertido, o campo pequeno viraria um apêndice esquecido. */
+.exatas-campo-resposta {
+  display: block;
+  margin-bottom: 14px;
+}
+.exatas-resposta {
+  width: 100%;
+  max-width: 320px;
+  font: inherit;
+  border: 1px solid var(--border-strong);
+  border-radius: 10px;
+  padding: 10px 12px;
+  background: var(--surface);
+  color: var(--ink);
+}
+.exatas-resposta:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.exatas-campo-resolucao {
+  display: block;
+}
+.exatas-sem-gabarito {
+  margin-bottom: 12px;
+}
+
+.exatas-acoes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  margin-top: 4px;
+}
+/* Botão travado precisa PARECER travado sem parecer quebrado: some o contraste,
+   mantém a legenda. O title explica o porquê no hover, e o texto de apoio
+   embaixo explica para quem nunca passa o mouse (celular). */
+.exatas-btn-conferir:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+.exatas-acoes-fim {
+  margin-top: 14px;
+}
+
+.exatas-gabarito {
+  background: var(--good-soft);
+  border-radius: 12px;
+  padding: 16px 18px;
+  margin-top: 12px;
+  font-size: 0.93rem;
+  color: var(--ink);
+}
+
+.exatas-veredito {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--border-strong);
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin-bottom: 14px;
+  line-height: 1.5;
+}
+.exatas-veredito-ok { border-left-color: var(--good); }
+.exatas-veredito-alerta { border-left-color: var(--warn, #96660F); }
+.exatas-veredito-zero { border-left-color: var(--bad); }
+.exatas-veredito-neutro { border-left-color: var(--border-strong); }
+.exatas-veredito .btn-link {
+  margin-left: 4px;
+  vertical-align: baseline;
+}
+
+.exatas-oficial h4,
+.exatas-autoavaliacao h4 {
+  margin: 0 0 6px;
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-soft);
+}
+/* A resolução é passo a passo e as quebras de linha são o conteúdo: cada linha
+   é um passo da grade. <pre> preserva isso; um <p> colaria tudo. */
+.exatas-oficial pre {
+  margin: 0 0 16px;
+  padding: 0;
+  font: inherit;
+  white-space: pre-wrap;
+  line-height: 1.65;
+  color: var(--ink);
+}
+
+.exatas-faixa {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  padding: 9px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  line-height: 1.45;
+}
+.exatas-faixa:hover { background: var(--surface-hover); }
+.exatas-faixa input { margin-top: 4px; flex-shrink: 0; }
+/* O número da faixa é RÓTULO, não ação — por isso --ink-soft e não --accent.
+   No modo escuro --accent é o ouro (#F4C142), o mesmo do botão primário; cinco
+   porcentagens douradas por item disputariam a atenção com o único lugar que
+   deve ser dourado na tela. A faixa escolhida se destaca pelo fundo, abaixo. */
+.exatas-faixa-pct {
+  flex-shrink: 0;
+  min-width: 42px;
+  font-weight: 700;
+  color: var(--ink-soft);
+  font-variant-numeric: tabular-nums;
+}
+.exatas-faixa:has(input:checked) {
+  background: var(--surface);
+  box-shadow: inset 2px 0 0 var(--good);
+}
+.exatas-faixa:has(input:checked) .exatas-faixa-pct { color: var(--good); }
+.exatas-faixa-desc { color: var(--ink); }
+
+.exatas-faixa-trancada {
+  cursor: not-allowed;
+  opacity: 0.45;
+}
+.exatas-faixa-trancada:hover { background: none; }
+
+/* Nota da questão: família do gabarito (verde pálido), como o contador da
+   dissertativa de Humanas já faz. --accent-soft daria ouro no escuro. */
+.exatas-nota {
+  margin-top: 16px;
+  padding: 12px 14px;
+  border-radius: 10px;
+  background: var(--good-soft);
+  color: var(--ink);
+  font-size: 0.95rem;
+}
+.exatas-nota strong { color: var(--good); }
+.exatas-nota-parcial {
+  color: var(--ink-soft);
+  font-weight: 400;
+}
+
+@media (max-width: 560px) {
+  .exatas-resposta { max-width: 100%; }
+  .exatas-acoes { align-items: stretch; }
+  .exatas-acoes .btn { width: 100%; }
+  .exatas-faixa { padding: 10px 6px; }
+}

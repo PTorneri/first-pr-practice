@@ -1,0 +1,1358 @@
+{
+  "tema": "Geometria plana e analítica",
+  "questoes": [
+    {
+      "id": "geo-01",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Trigonometria no triângulo retângulo",
+      "tempoSugerido": 12,
+      "enunciado": "Uma rampa de acessibilidade tem 12 metros de comprimento e forma um ângulo de 30° com o piso horizontal. Use sen 30° = 0,5 e cos 30° = 0,866.",
+      "figura": "<svg viewBox=\"0 0 320 130\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M30 100 L280 100\"/><path d=\"M30 100 L280 30\" /><path d=\"M280 30 L280 100\"/><path d=\"M60 100 A30 30 0 0 0 60 92\" stroke-width=\"1.5\"/><text x=\"66\" y=\"96\" font-size=\"11\" fill=\"currentColor\" stroke=\"none\">30°</text><text x=\"140\" y=\"55\" font-size=\"11\" fill=\"currentColor\" stroke=\"none\">12 m</text><text x=\"288\" y=\"70\" font-size=\"11\" fill=\"currentColor\" stroke=\"none\">h</text></svg>",
+      "figuraAlt": "Triângulo retângulo com a hipotenusa de 12 metros formando 30 graus com a base horizontal e o cateto vertical marcado como h.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual é o desnível vencido pela rampa, ou seja, a altura entre suas extremidades?",
+          "respostaFinal": {
+            "rotulo": "altura em metros",
+            "aceitas": [
+              "6",
+              "6 m"
+            ]
+          },
+          "conferencia": "12 * 0.5",
+          "resolucao": "A altura é o cateto oposto ao ângulo de 30°, e a rampa é a hipotenusa.\nAltura = 12 × sen 30° = 12 × 0,5 = 6 metros.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou o cosseno em vez do seno, obtendo a projeção horizontal, ou dividiu 12 por 30."
+            },
+            {
+              "pct": 50,
+              "desc": "Identificou o cateto oposto e chegou a 6 metros."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é a distância horizontal coberta pela rampa?",
+          "respostaFinal": {
+            "rotulo": "distância em metros",
+            "aceitas": [
+              "10,39",
+              "10.39",
+              "10,392"
+            ],
+            "intervalo": [
+              10.3,
+              10.5
+            ]
+          },
+          "conferencia": "12 * 0.866",
+          "resolucao": "A distância horizontal é o cateto adjacente: 12 × cos 30° = 12 × 0,866 ≈ 10,39 metros.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou o seno, repetindo o resultado do item anterior, ou subtraiu 6 de 12."
+            },
+            {
+              "pct": 50,
+              "desc": "Usou o cosseno e chegou a aproximadamente 10,39 metros."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-02",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Semelhança de triângulos",
+      "tempoSugerido": 12,
+      "enunciado": "No mesmo instante do dia, um poste projeta uma sombra de 8 metros e uma vara vertical de 1,5 metro projeta uma sombra de 2 metros.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Qual é a altura do poste?",
+          "respostaFinal": {
+            "rotulo": "altura em metros",
+            "aceitas": [
+              "6",
+              "6 m"
+            ]
+          },
+          "conferencia": "1.5 * 8 / 2",
+          "resolucao": "Os raios solares chegam com a mesma inclinação, então os triângulos são semelhantes.\nA proporção é h/8 = 1,5/2.\nLogo h = 1,5 × 8/2 = 6 metros.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta, ou apenas o número, sem indicar o raciocínio."
+            },
+            {
+              "pct": 25,
+              "desc": "Montou a proporção invertida (h/1,5 = 2/8), chegando a 0,375, ou somou as medidas."
+            },
+            {
+              "pct": 50,
+              "desc": "Reconheceu a semelhança mas errou ao isolar a altura."
+            },
+            {
+              "pct": 75,
+              "desc": "Montou a proporção correta e errou apenas a conta."
+            },
+            {
+              "pct": 100,
+              "desc": "Concluiu que o poste tem 6 metros."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-03",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Setor circular",
+      "tempoSugerido": 12,
+      "enunciado": "Um setor circular tem raio 6 cm e ângulo central de 60°. Use π = 3,14.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual é a área do setor?",
+          "respostaFinal": {
+            "rotulo": "área em cm²",
+            "aceitas": [
+              "18,84",
+              "18.84"
+            ]
+          },
+          "conferencia": "(60/360) * 3.14 * 6 * 6",
+          "resolucao": "A área do círculo inteiro é π·6² = 113,04 cm².\nO setor de 60° corresponde a 60/360 = 1/6 do círculo.\nÁrea: 113,04/6 = 18,84 cm².",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou a fração 60/180, ou calculou a área do círculo inteiro sem aplicar a fração."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou a fração 1/6 à área do círculo e chegou a 18,84 cm²."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é o comprimento do arco desse setor?",
+          "respostaFinal": {
+            "rotulo": "comprimento em cm",
+            "aceitas": [
+              "6,28",
+              "6.28"
+            ]
+          },
+          "conferencia": "(60/360) * 2 * 3.14 * 6",
+          "resolucao": "O comprimento da circunferência é 2π·6 = 37,68 cm.\nO arco de 60° é 1/6 disso: 6,28 cm.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou a fórmula da área em vez do comprimento, ou esqueceu o fator 2 na circunferência."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou a fração ao perímetro e chegou a 6,28 cm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-04",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Volume de cilindro",
+      "tempoSugerido": 12,
+      "enunciado": "Um reservatório cilíndrico tem raio da base de 5 metros e altura de 12 metros. Use π = 3,14.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual é o volume do reservatório, em metros cúbicos?",
+          "respostaFinal": {
+            "rotulo": "volume em m³",
+            "aceitas": [
+              "942"
+            ]
+          },
+          "conferencia": "3.14 * 5 * 5 * 12",
+          "resolucao": "O volume do cilindro é área da base vezes altura: π·r²·h.\nV = 3,14 × 25 × 12 = 942 m³.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou o diâmetro no lugar do raio, ou aplicou a fórmula do cone (dividindo por 3)."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou π·r²·h e chegou a 942 m³."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Se o reservatório estiver com 3/4 da capacidade, quantos litros de água ele contém? (1 m³ = 1.000 litros)",
+          "respostaFinal": {
+            "rotulo": "litros",
+            "aceitas": [
+              "706500"
+            ]
+          },
+          "conferencia": "942 * 0.75 * 1000",
+          "resolucao": "Volume ocupado: 942 × 3/4 = 706,5 m³.\nEm litros: 706,5 × 1.000 = 706.500 litros.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Calculou a fração corretamente mas não converteu para litros, ou multiplicou por 100."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou a fração e a conversão e chegou a 706.500 litros."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-05",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Volume de cone",
+      "tempoSugerido": 12,
+      "enunciado": "Um cone circular reto tem raio da base 3 cm e altura 4 cm. Use π = 3,14.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Calcule o volume do cone.",
+          "respostaFinal": {
+            "rotulo": "volume em cm³",
+            "aceitas": [
+              "37,68",
+              "37.68"
+            ]
+          },
+          "conferencia": "(1/3) * 3.14 * 9 * 4",
+          "resolucao": "O volume do cone é um terço do cilindro de mesma base e altura: V = (1/3)·π·r²·h.\nV = (1/3) × 3,14 × 9 × 4 = 37,68 cm³.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Esqueceu o fator 1/3 e apresentou 113,04, ou usou a geratriz no lugar da altura."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou a fórmula do cone e chegou a 37,68 cm³."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é a medida da geratriz desse cone?",
+          "respostaFinal": {
+            "rotulo": "geratriz em cm",
+            "aceitas": [
+              "5",
+              "5 cm"
+            ]
+          },
+          "conferencia": "Math.sqrt(9 + 16)",
+          "resolucao": "A geratriz é a hipotenusa do triângulo formado pelo raio e pela altura.\ng = √(3² + 4²) = √25 = 5 cm.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Somou raio e altura, chegando a 7, ou subtraiu os quadrados."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou Pitágoras e chegou a 5 cm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-06",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Área de trapézio",
+      "tempoSugerido": 10,
+      "enunciado": "Um terreno tem a forma de um trapézio com bases de 10 m e 6 m e altura de 5 m.",
+      "figura": "<svg viewBox=\"0 0 300 140\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M40 110 L260 110 L210 40 L90 40 Z\"/><path d=\"M90 110 L90 40\" stroke-dasharray=\"4 4\" stroke-width=\"1.5\"/><text x=\"140\" y=\"126\" font-size=\"11\" fill=\"currentColor\" stroke=\"none\">10 m</text><text x=\"142\" y=\"33\" font-size=\"11\" fill=\"currentColor\" stroke=\"none\">6 m</text><text x=\"96\" y=\"80\" font-size=\"11\" fill=\"currentColor\" stroke=\"none\">5 m</text></svg>",
+      "figuraAlt": "Trapézio com base maior de 10 metros, base menor de 6 metros e altura tracejada de 5 metros.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Qual é a área do terreno?",
+          "respostaFinal": {
+            "rotulo": "área em m²",
+            "aceitas": [
+              "40",
+              "40 m²"
+            ]
+          },
+          "conferencia": "(10 + 6) * 5 / 2",
+          "resolucao": "A área do trapézio é a média das bases vezes a altura: A = (B + b)·h/2.\nA = (10 + 6) × 5/2 = 80/2 = 40 m².",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Multiplicou as duas bases pela altura sem dividir por 2, chegando a 80, ou usou só a base maior."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou a fórmula do trapézio mas errou a conta."
+            },
+            {
+              "pct": 75,
+              "desc": "Montou (10 + 6) × 5/2 e errou apenas a divisão."
+            },
+            {
+              "pct": 100,
+              "desc": "Chegou à área de 40 m²."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-07",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Distância entre pontos",
+      "tempoSugerido": 10,
+      "enunciado": "No plano cartesiano, considere os pontos A(1, 2) e B(7, 10).",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Calcule a distância entre A e B.",
+          "respostaFinal": {
+            "rotulo": "distância",
+            "aceitas": [
+              "10"
+            ]
+          },
+          "conferencia": "Math.sqrt(36 + 64)",
+          "resolucao": "d = √[(7 − 1)² + (10 − 2)²] = √(36 + 64) = √100 = 10.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Somou as diferenças sem elevar ao quadrado (6 + 8 = 14), ou esqueceu a raiz."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou a fórmula da distância e chegou a 10."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Determine as coordenadas do ponto médio de AB.",
+          "respostaFinal": {
+            "rotulo": "abscissa do ponto médio",
+            "aceitas": [
+              "4"
+            ]
+          },
+          "conferencia": "(1 + 7)/2",
+          "resolucao": "O ponto médio tem coordenadas [(1 + 7)/2, (2 + 10)/2] = (4, 6).",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Subtraiu as coordenadas em vez de fazer a média, ou trocou as coordenadas de lugar."
+            },
+            {
+              "pct": 50,
+              "desc": "Calculou a média das coordenadas e chegou a (4, 6)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-08",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Equação da reta",
+      "tempoSugerido": 12,
+      "enunciado": "Uma reta passa pelos pontos A(1, 2) e B(7, 10).",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Determine o coeficiente angular da reta.",
+          "respostaFinal": {
+            "rotulo": "coeficiente angular",
+            "aceitas": [
+              "4/3",
+              "1,333",
+              "1.333"
+            ],
+            "intervalo": [
+              1.33,
+              1.34
+            ]
+          },
+          "conferencia": "(10 - 2)/(7 - 1)",
+          "resolucao": "O coeficiente angular é a razão entre as variações: m = (10 − 2)/(7 − 1) = 8/6 = 4/3.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Inverteu a razão, chegando a 3/4, ou somou as coordenadas."
+            },
+            {
+              "pct": 50,
+              "desc": "Calculou a razão das variações e chegou a 4/3."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Escreva a equação da reta na forma y = mx + n.",
+          "resolucao": "Com m = 4/3 e passando por (1, 2): 2 = (4/3)(1) + n, logo n = 2 − 4/3 = 2/3.\nA equação é y = (4/3)x + 2/3.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou o coeficiente angular correto mas errou ao encontrar n, ou substituiu o ponto errado."
+            },
+            {
+              "pct": 50,
+              "desc": "Chegou a y = (4/3)x + 2/3, indicando a substituição do ponto."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-09",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Equação da circunferência",
+      "tempoSugerido": 12,
+      "enunciado": "Considere a circunferência de centro C(3, −2) e raio 5.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Escreva a equação dessa circunferência.",
+          "resolucao": "A equação reduzida é (x − x_C)² + (y − y_C)² = r².\nCom C(3, −2) e r = 5: (x − 3)² + (y + 2)² = 25.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Errou o sinal da ordenada do centro, escrevendo (y − 2)², ou não elevou o raio ao quadrado."
+            },
+            {
+              "pct": 50,
+              "desc": "Chegou a (x − 3)² + (y + 2)² = 25."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Verifique se o ponto P(0, 2) pertence à circunferência.",
+          "respostaFinal": {
+            "rotulo": "distância de P ao centro",
+            "aceitas": [
+              "5",
+              "5 unidades"
+            ]
+          },
+          "conferencia": "Math.sqrt(9 + 16)",
+          "resolucao": "Distância de P ao centro: √[(0 − 3)² + (2 + 2)²] = √(9 + 16) = √25 = 5.\nComo a distância é igual ao raio, o ponto P pertence à circunferência.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Substituiu na equação mas errou o sinal em (2 + 2), ou concluiu sem comparar com o raio."
+            },
+            {
+              "pct": 50,
+              "desc": "Calculou a distância igual a 5 e concluiu que P pertence à circunferência."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-10",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Interseção de reta e circunferência",
+      "tempoSugerido": 15,
+      "enunciado": "Considere a reta y = x e a circunferência x² + y² = 18.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Determine os pontos de interseção entre a reta e a circunferência.",
+          "respostaFinal": {
+            "rotulo": "abscissa positiva",
+            "aceitas": [
+              "3"
+            ]
+          },
+          "conferencia": "Math.sqrt(18/2)",
+          "resolucao": "Substituindo y = x na equação da circunferência: x² + x² = 18, ou seja, 2x² = 18.\nEntão x² = 9 e x = ±3.\nOs pontos de interseção são (3, 3) e (−3, −3).",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Substituiu corretamente mas esqueceu a raiz negativa, ou dividiu 18 por 2 sem extrair a raiz."
+            },
+            {
+              "pct": 50,
+              "desc": "Chegou a x² = 9 sem escrever os pontos."
+            },
+            {
+              "pct": 75,
+              "desc": "Encontrou os dois valores de x e errou ao montar os pares ordenados."
+            },
+            {
+              "pct": 100,
+              "desc": "Concluiu que os pontos são (3, 3) e (−3, −3)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-11",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Área por coordenadas",
+      "tempoSugerido": 12,
+      "enunciado": "Um triângulo tem vértices A(0, 0), B(6, 0) e C(2, 5).",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Calcule a área do triângulo.",
+          "respostaFinal": {
+            "rotulo": "área",
+            "aceitas": [
+              "15"
+            ]
+          },
+          "conferencia": "6 * 5 / 2",
+          "resolucao": "O lado AB está sobre o eixo x e mede 6 — é a base.\nA altura relativa a essa base é a ordenada de C, ou seja, 5.\nÁrea = 6 × 5/2 = 15.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou a abscissa de C como altura, ou multiplicou base por altura sem dividir por 2."
+            },
+            {
+              "pct": 50,
+              "desc": "Identificou base e altura mas errou a conta."
+            },
+            {
+              "pct": 75,
+              "desc": "Montou 6 × 5/2 e errou apenas a divisão."
+            },
+            {
+              "pct": 100,
+              "desc": "Chegou à área igual a 15."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-12",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Baricentro",
+      "tempoSugerido": 10,
+      "enunciado": "Um triângulo tem vértices A(1, 2), B(5, 4) e C(3, 9).",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Determine as coordenadas do baricentro do triângulo.",
+          "respostaFinal": {
+            "rotulo": "ordenada do baricentro",
+            "aceitas": [
+              "5"
+            ]
+          },
+          "conferencia": "(2 + 4 + 9)/3",
+          "resolucao": "O baricentro é a média aritmética das coordenadas dos vértices.\nx = (1 + 5 + 3)/3 = 3 e y = (2 + 4 + 9)/3 = 5.\nO baricentro é (3, 5).",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Somou as coordenadas sem dividir por 3, ou calculou o ponto médio de apenas um lado."
+            },
+            {
+              "pct": 50,
+              "desc": "Calculou uma das coordenadas corretamente e errou a outra."
+            },
+            {
+              "pct": 75,
+              "desc": "Montou as duas médias e errou apenas uma conta."
+            },
+            {
+              "pct": 100,
+              "desc": "Concluiu que o baricentro é (3, 5)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-13",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Retas perpendiculares",
+      "tempoSugerido": 12,
+      "enunciado": "Considere a reta r de equação y = 2x + 1.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Determine a equação da reta perpendicular a r que passa pelo ponto P(4, 3).",
+          "respostaFinal": {
+            "rotulo": "coeficiente linear da nova reta",
+            "aceitas": [
+              "5"
+            ]
+          },
+          "conferencia": "3 + 4/2",
+          "resolucao": "Duas retas perpendiculares têm coeficientes angulares cujo produto é −1.\nComo m_r = 2, a perpendicular tem m = −1/2.\nPassando por (4, 3): 3 = −1/2 × 4 + n, ou seja, 3 = −2 + n e n = 5.\nA equação é y = −x/2 + 5.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou o mesmo coeficiente angular (reta paralela), ou trocou o sinal sem inverter o valor."
+            },
+            {
+              "pct": 50,
+              "desc": "Achou m = −1/2 mas não determinou o coeficiente linear."
+            },
+            {
+              "pct": 75,
+              "desc": "Montou a substituição do ponto e errou apenas a conta."
+            },
+            {
+              "pct": 100,
+              "desc": "Concluiu que a equação é y = −x/2 + 5, com coeficiente linear 5."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-14",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Lei dos cossenos",
+      "tempoSugerido": 12,
+      "enunciado": "Em um triângulo, dois lados medem 5 cm e 8 cm e formam entre si um ângulo de 60°. Use cos 60° = 0,5.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Determine a medida do terceiro lado.",
+          "respostaFinal": {
+            "rotulo": "lado em cm",
+            "aceitas": [
+              "7",
+              "7 cm"
+            ]
+          },
+          "conferencia": "Math.sqrt(25 + 64 - 2*5*8*0.5)",
+          "resolucao": "Pela lei dos cossenos: a² = 5² + 8² − 2 × 5 × 8 × cos 60°.\na² = 25 + 64 − 40 = 49.\nLogo a = 7 cm.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Aplicou Pitágoras, ignorando que o ângulo não é reto, chegando a √89."
+            },
+            {
+              "pct": 50,
+              "desc": "Montou a lei dos cossenos mas errou o sinal do último termo."
+            },
+            {
+              "pct": 75,
+              "desc": "Chegou a a² = 49 e errou apenas a raiz."
+            },
+            {
+              "pct": 100,
+              "desc": "Concluiu que o terceiro lado mede 7 cm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-15",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Lei dos senos",
+      "tempoSugerido": 12,
+      "enunciado": "Em um triângulo ABC, o lado a mede 10 cm e o ângulo A é de 30°. O ângulo B mede 45°. Use sen 30° = 0,5 e sen 45° = 0,707.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Determine a medida do lado b.",
+          "respostaFinal": {
+            "rotulo": "lado b em cm",
+            "aceitas": [
+              "14,14",
+              "14.14"
+            ],
+            "intervalo": [
+              14,
+              14.2
+            ]
+          },
+          "conferencia": "10 * 0.707 / 0.5",
+          "resolucao": "Pela lei dos senos: a/sen A = b/sen B.\nEntão b = a · sen B/sen A = 10 × 0,707/0,5.\nLogo b ≈ 14,14 cm.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Inverteu a razão, chegando a cerca de 7,07, ou usou a lei dos cossenos sem ter o ângulo entre os lados."
+            },
+            {
+              "pct": 50,
+              "desc": "Montou a lei dos senos e chegou a aproximadamente 14,14 cm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-16",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Altura inacessível",
+      "tempoSugerido": 12,
+      "enunciado": "De um ponto no chão, a 40 metros da base de um prédio, o ângulo de elevação até o topo é de 30°. Use tg 30° = 0,577.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Qual é a altura do prédio?",
+          "respostaFinal": {
+            "rotulo": "altura em metros",
+            "aceitas": [
+              "23,08",
+              "23.08",
+              "23,1"
+            ],
+            "intervalo": [
+              23,
+              23.2
+            ]
+          },
+          "conferencia": "40 * 0.577",
+          "resolucao": "A tangente relaciona o cateto oposto (altura) com o adjacente (distância): tg 30° = h/40.\nEntão h = 40 × 0,577 ≈ 23,08 metros.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou o seno ou o cosseno em vez da tangente, ou dividiu 40 pela tangente."
+            },
+            {
+              "pct": 50,
+              "desc": "Usou a tangente e chegou a aproximadamente 23,08 metros."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-17",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Círculo inscrito",
+      "tempoSugerido": 12,
+      "enunciado": "Um círculo está inscrito em um quadrado de lado 10 cm, tangenciando os quatro lados. Use π = 3,14.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual é a área do círculo?",
+          "respostaFinal": {
+            "rotulo": "área em cm²",
+            "aceitas": [
+              "78,5",
+              "78.5"
+            ]
+          },
+          "conferencia": "3.14 * 5 * 5",
+          "resolucao": "O diâmetro do círculo é igual ao lado do quadrado, então o raio é 5 cm.\nÁrea = π × 25 = 78,5 cm².",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou 10 como raio, chegando a 314, confundindo raio com diâmetro."
+            },
+            {
+              "pct": 50,
+              "desc": "Identificou o raio 5 e chegou a 78,5 cm²."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é a área da região do quadrado que fica fora do círculo?",
+          "respostaFinal": {
+            "rotulo": "área em cm²",
+            "aceitas": [
+              "21,5",
+              "21.5"
+            ]
+          },
+          "conferencia": "100 - 3.14*25",
+          "resolucao": "Área do quadrado: 10 × 10 = 100 cm².\nSubtraindo o círculo: 100 − 78,5 = 21,5 cm².",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Subtraiu na ordem inversa, ou dividiu a área do quadrado pela do círculo."
+            },
+            {
+              "pct": 50,
+              "desc": "Fez a diferença entre as áreas e chegou a 21,5 cm²."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-18",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Prisma",
+      "tempoSugerido": 15,
+      "enunciado": "Um prisma reto tem por base um triângulo equilátero de lado 6 cm e altura 10 cm. Use √3 = 1,73.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Calcule a área da base do prisma.",
+          "respostaFinal": {
+            "rotulo": "área em cm²",
+            "aceitas": [
+              "15,57",
+              "15.57"
+            ],
+            "intervalo": [
+              15.5,
+              15.6
+            ]
+          },
+          "conferencia": "1.73 * 36 / 4",
+          "resolucao": "A área do triângulo equilátero de lado L é L²√3/4.\nA = 36 × 1,73/4 = 62,28/4 = 15,57 cm².",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou a fórmula do triângulo qualquer com altura 6, ou esqueceu de dividir por 4."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou a fórmula do triângulo equilátero e chegou a 15,57 cm²."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Calcule o volume do prisma.",
+          "respostaFinal": {
+            "rotulo": "volume em cm³",
+            "aceitas": [
+              "155,7",
+              "155.7"
+            ],
+            "intervalo": [
+              155,
+              156
+            ]
+          },
+          "conferencia": "(1.73*36/4) * 10",
+          "resolucao": "O volume do prisma é a área da base vezes a altura.\nV = 15,57 × 10 = 155,7 cm³.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Multiplicou o perímetro da base pela altura, calculando a área lateral em vez do volume."
+            },
+            {
+              "pct": 50,
+              "desc": "Multiplicou a área da base pela altura e chegou a 155,7 cm³."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-19",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Razão entre áreas",
+      "tempoSugerido": 12,
+      "enunciado": "Dois triângulos são semelhantes e a razão entre seus lados correspondentes é 3 para 5. O menor tem área de 27 cm².",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Qual é a área do triângulo maior?",
+          "respostaFinal": {
+            "rotulo": "área em cm²",
+            "aceitas": [
+              "75",
+              "75 cm²"
+            ]
+          },
+          "conferencia": "27 * 25 / 9",
+          "resolucao": "Em figuras semelhantes, a razão entre as áreas é o quadrado da razão entre os lados.\nRazão das áreas: (3/5)² = 9/25.\nEntão 27/A = 9/25, logo A = 27 × 25/9 = 75 cm².",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou a razão 3/5 diretamente nas áreas, chegando a 45, sem elevar ao quadrado."
+            },
+            {
+              "pct": 50,
+              "desc": "Reconheceu a razão quadrática mas montou a proporção invertida."
+            },
+            {
+              "pct": 75,
+              "desc": "Montou 27 × 25/9 e errou apenas a conta."
+            },
+            {
+              "pct": 100,
+              "desc": "Concluiu que a área do maior é 75 cm²."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-20",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Comprimento de arco",
+      "tempoSugerido": 10,
+      "enunciado": "Um pêndulo de 9 dm de comprimento descreve um arco de 120°. Use π = 3,14.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Qual é o comprimento do arco descrito pela ponta do pêndulo?",
+          "respostaFinal": {
+            "rotulo": "comprimento em dm",
+            "aceitas": [
+              "18,84",
+              "18.84"
+            ]
+          },
+          "conferencia": "(120/360) * 2 * 3.14 * 9",
+          "resolucao": "A circunferência completa mede 2π × 9 = 56,52 dm.\nO arco de 120° é 120/360 = 1/3 dela.\nComprimento: 56,52/3 = 18,84 dm.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Calculou a área do setor em vez do arco, ou usou a fração 120/180."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou a fração 1/3 ao perímetro e chegou a 18,84 dm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-21",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Hexágono regular",
+      "tempoSugerido": 12,
+      "enunciado": "Um mosaico é formado por hexágonos regulares de 4 cm de lado. Use √3 = 1,73.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Qual é a área de cada hexágono?",
+          "respostaFinal": {
+            "rotulo": "área em cm²",
+            "aceitas": [
+              "41,52",
+              "41.52"
+            ],
+            "intervalo": [
+              41.4,
+              41.6
+            ]
+          },
+          "conferencia": "6 * 1.73 * 16 / 4",
+          "resolucao": "O hexágono regular se decompõe em 6 triângulos equiláteros de lado 4.\nCada triângulo tem área 16 × 1,73/4 = 6,92 cm².\nTotal: 6 × 6,92 = 41,52 cm².",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou 4 triângulos em vez de 6, ou tratou o hexágono como um quadrado de lado 4."
+            },
+            {
+              "pct": 50,
+              "desc": "Decompôs em triângulos equiláteros mas errou a área de cada um."
+            },
+            {
+              "pct": 75,
+              "desc": "Montou 6 × 6,92 e errou apenas a conta."
+            },
+            {
+              "pct": 100,
+              "desc": "Chegou à área de 41,52 cm²."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-22",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Diagonal do cubo",
+      "tempoSugerido": 12,
+      "enunciado": "Uma caixa em forma de cubo tem 5 cm de aresta. Use √3 = 1,73 e √2 = 1,41.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual é a medida da diagonal de uma face do cubo?",
+          "respostaFinal": {
+            "rotulo": "diagonal da face em cm",
+            "aceitas": [
+              "7,05",
+              "7.05"
+            ],
+            "intervalo": [
+              7,
+              7.1
+            ]
+          },
+          "conferencia": "5 * 1.41",
+          "resolucao": "A diagonal de um quadrado de lado L é L√2.\nAqui: 5 × 1,41 = 7,05 cm.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou √3 em vez de √2, confundindo com a diagonal do cubo."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou L√2 e chegou a 7,05 cm."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é a medida da diagonal do cubo?",
+          "respostaFinal": {
+            "rotulo": "diagonal do cubo em cm",
+            "aceitas": [
+              "8,65",
+              "8.65"
+            ],
+            "intervalo": [
+              8.6,
+              8.7
+            ]
+          },
+          "conferencia": "5 * 1.73",
+          "resolucao": "A diagonal do cubo de aresta L é L√3.\nAqui: 5 × 1,73 = 8,65 cm.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Repetiu a diagonal da face, ou somou aresta e diagonal da face."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou L√3 e chegou a 8,65 cm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-23",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Pirâmide",
+      "tempoSugerido": 12,
+      "enunciado": "Uma pirâmide reta tem base quadrada de lado 6 cm e altura 4 cm.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Calcule o volume da pirâmide.",
+          "respostaFinal": {
+            "rotulo": "volume em cm³",
+            "aceitas": [
+              "48"
+            ]
+          },
+          "conferencia": "(1/3) * 36 * 4",
+          "resolucao": "O volume da pirâmide é (1/3) × área da base × altura.\nV = (1/3) × 36 × 4 = 48 cm³.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Esqueceu o fator 1/3 e apresentou 144, ou usou o lado da base como área."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou a fórmula e chegou a 48 cm³."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Calcule o apótema da pirâmide, isto é, a altura de uma face lateral.",
+          "respostaFinal": {
+            "rotulo": "apótema em cm",
+            "aceitas": [
+              "5",
+              "5 cm"
+            ]
+          },
+          "conferencia": "Math.sqrt(16 + 9)",
+          "resolucao": "O apótema é a hipotenusa do triângulo formado pela altura da pirâmide (4) e pelo apótema da base (metade do lado, 3).\nApótema = √(4² + 3²) = √25 = 5 cm.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou o lado inteiro (6) em vez da metade, ou somou 4 e 3."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou Pitágoras com a metade do lado e chegou a 5 cm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-24",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Corda e distância ao centro",
+      "tempoSugerido": 12,
+      "enunciado": "Em uma circunferência de raio 13 cm, uma corda está a 5 cm do centro.",
+      "figura": "<svg viewBox=\"0 0 260 200\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><circle cx=\"130\" cy=\"100\" r=\"78\"/><path d=\"M52 140 L208 140\"/><path d=\"M130 100 L130 140\" stroke-dasharray=\"4 4\" stroke-width=\"1.5\"/><path d=\"M130 100 L208 140\" stroke-width=\"1.5\"/><circle cx=\"130\" cy=\"100\" r=\"2.5\" fill=\"currentColor\"/><text x=\"136\" y=\"126\" font-size=\"11\" fill=\"currentColor\" stroke=\"none\">5</text><text x=\"176\" y=\"112\" font-size=\"11\" fill=\"currentColor\" stroke=\"none\">13</text></svg>",
+      "figuraAlt": "Circunferência com uma corda horizontal, o segmento de 5 unidades do centro até a corda e o raio de 13 unidades até a extremidade da corda.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Qual é o comprimento dessa corda?",
+          "respostaFinal": {
+            "rotulo": "comprimento em cm",
+            "aceitas": [
+              "24",
+              "24 cm"
+            ]
+          },
+          "conferencia": "2 * Math.sqrt(169 - 25)",
+          "resolucao": "O segmento que vai do centro à corda é perpendicular a ela e a divide ao meio.\nForma-se um triângulo retângulo com hipotenusa 13 (raio) e um cateto 5.\nA metade da corda é √(169 − 25) = √144 = 12.\nLogo, a corda mede 2 × 12 = 24 cm.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Achou a metade da corda e apresentou 12 como resposta, sem dobrar."
+            },
+            {
+              "pct": 50,
+              "desc": "Montou o triângulo retângulo mas errou o cateto."
+            },
+            {
+              "pct": 75,
+              "desc": "Chegou a 12 e errou apenas ao dobrar."
+            },
+            {
+              "pct": 100,
+              "desc": "Concluiu que a corda mede 24 cm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo-25",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Distância mínima",
+      "tempoSugerido": 15,
+      "enunciado": "Considere a reta y = x e o ponto P(4, 0) no plano cartesiano.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Determine o ponto da reta mais próximo de P.",
+          "respostaFinal": {
+            "rotulo": "abscissa do ponto",
+            "aceitas": [
+              "2"
+            ]
+          },
+          "conferencia": "8 / (2*2)",
+          "resolucao": "Um ponto da reta tem coordenadas (x, x).\nO quadrado da distância até P é d² = (x − 4)² + x² = 2x² − 8x + 16.\nÉ uma parábola de concavidade para cima, com mínimo em x = 8/4 = 2.\nO ponto mais próximo é (2, 2).",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Escreveu a expressão da distância mas não localizou o mínimo, ou tomou o pé da perpendicular por inspeção sem justificar."
+            },
+            {
+              "pct": 50,
+              "desc": "Minimizou a expressão e concluiu que o ponto é (2, 2)."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é essa distância mínima?",
+          "respostaFinal": {
+            "rotulo": "distância",
+            "aceitas": [
+              "2,83",
+              "2.83",
+              "2√2"
+            ],
+            "intervalo": [
+              2.8,
+              2.85
+            ]
+          },
+          "conferencia": "Math.sqrt(2*4 - 8*2 + 16)",
+          "resolucao": "Substituindo x = 2: d² = 2 × 4 − 16 + 16 = 8.\nLogo d = √8 = 2√2 ≈ 2,83.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Apresentou 8 como distância, esquecendo de extrair a raiz."
+            },
+            {
+              "pct": 50,
+              "desc": "Substituiu e chegou a 2√2, aproximadamente 2,83."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

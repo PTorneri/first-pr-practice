@@ -2726,7 +2726,12 @@
   let buscaDocs = null;        // [{ trilha, frente, frenteNome, area, q, enunciado }]
   let buscaSecundariaEstado = "nao-iniciada"; // nao-iniciada | carregando | pronta | falhou
   let buscaExtraEstado = "nao-iniciada";      // idem, para o banco complementar
-  let buscaSecundariaDados = null;            // guardados para reindexar com os dois
+  // Um ARRAY, e não um objeto: são todas as outras trilhas, não "a outra". Com
+  // duas trilhas no ar isso dava na mesma; com a terceira (Economia) a versão
+  // antiga indexava a primeira de VD_TRILHAS.outras() e descartava o resto em
+  // silêncio — sem erro, sem aviso, só resultados que não apareciam.
+  let buscaSecundariaDados = null;            // [{ trilha, SUBTOPICS, QUESTION_BANKS, QUESTION_TEXTS }]
+  let buscaSecundariaFalhas = [];             // ids das trilhas que não carregaram
   let buscaExtraDados = null;
 
   // O identificador de "trilha" do banco complementar. NÃO é uma trilha de
@@ -2777,7 +2782,7 @@
   // Junta o banco da trilha ativa com o da secundária (quando já carregado) num
   // vetor único de documentos. `subtopicId` das questões da outra trilha ganha
   // prefixo — ver o comentário em buscaSubtopicId.
-  function buscaMontarDocs(secundaria, extra) {
+  function buscaMontarDocs(secundarias, extra) {
     const docs = [];
     function absorver(trilhaId, subtopics, banks, textos) {
       (subtopics || []).forEach((s) => {
@@ -2797,10 +2802,11 @@
       });
     }
     absorver(TRILHA, window.SUBTOPICS, window.QUESTION_BANKS, window.QUESTION_TEXTS);
-    if (secundaria) {
-      absorver(secundaria.trilha, secundaria.SUBTOPICS, secundaria.QUESTION_BANKS,
-               secundaria.QUESTION_TEXTS);
-    }
+    // `secundarias` chega como lista porque podem ser várias — e vazia ou nula
+    // quando nenhuma carregou ainda, que é o caso da primeira indexação.
+    (secundarias || []).forEach((s) => {
+      absorver(s.trilha, s.SUBTOPICS, s.QUESTION_BANKS, s.QUESTION_TEXTS);
+    });
     // O banco complementar entra como uma "trilha" que não existe em
     // VD_TRILHAS, e é isso que o mantém só aqui: buscaSubtopicId devolve
     // "xt::extra::<frente>" para ele, um id que não está em window.SUBTOPICS e
@@ -2853,9 +2859,9 @@
 
   // Constrói o índice invertido. Roda uma vez por estado do banco: se a trilha
   // secundária chegar depois, é chamada de novo com o conjunto completo.
-  function buscaConstruirIndice(secundaria, extra) {
+  function buscaConstruirIndice(secundarias, extra) {
     const t0 = performance.now();
-    buscaDocs = buscaMontarDocs(secundaria, extra);
+    buscaDocs = buscaMontarDocs(secundarias, extra);
     buscaIndice = new Map();
 
     buscaDocs.forEach((doc, id) => {
@@ -3180,23 +3186,40 @@
     buscaSecundariaEstado = "carregando";
     atualizarBuscaStatus();
 
-    window.VD_TRILHA.carregarSecundaria(outras[0]).then((colhido) => {
-      buscaSecundariaEstado = "pronta";
-      buscaSecundariaDados = {
-        trilha: outras[0],
-        SUBTOPICS: colhido.SUBTOPICS,
-        QUESTION_BANKS: colhido.QUESTION_BANKS,
-        // carregarSecundaria já colhe QUESTION_TEXTS (é um dos três
-        // GLOBAIS_DE_DADOS de trilhas.js) — só não estava sendo repassado, e
-        // era esse o buraco que buscaTextoApoio descreve.
-        QUESTION_TEXTS: colhido.QUESTION_TEXTS,
-      };
-      reindexar();
-    }).catch((err) => {
-      // Degradar, não quebrar: sem a segunda trilha a busca continua útil na
-      // trilha do aluno, que é onde estão as questões que mais importam pra ele.
-      console.warn("[busca] trilha secundária indisponível:", err);
-      buscaSecundariaEstado = "falhou";
+    // UMA DE CADA VEZ, e não Promise.all. carregarSecundaria (trilhas.js)
+    // guarda os globais de dados, deixa o script da outra trilha sobrescrevê-los,
+    // colhe o que ele escreveu e devolve os originais. Duas dessas em paralelo
+    // se atropelam: a segunda guardaria como "original" o banco que a primeira
+    // acabou de escrever, e a sessão terminaria com o banco de outra trilha no
+    // lugar do da pessoa — em toda a aba Hoje, não só na busca.
+    const colhidos = [];
+    buscaSecundariaFalhas = [];
+
+    outras.reduce((fila, id) => fila.then(() => (
+      window.VD_TRILHA.carregarSecundaria(id).then((colhido) => {
+        colhidos.push({
+          trilha: id,
+          SUBTOPICS: colhido.SUBTOPICS,
+          QUESTION_BANKS: colhido.QUESTION_BANKS,
+          // carregarSecundaria já colhe QUESTION_TEXTS (é um dos três
+          // GLOBAIS_DE_DADOS de trilhas.js) — só não estava sendo repassado, e
+          // era esse o buraco que buscaTextoApoio descreve.
+          QUESTION_TEXTS: colhido.QUESTION_TEXTS,
+        });
+        // Reindexa a cada chegada: com três trilhas a espera vira soma, e não
+        // faz sentido segurar os resultados da segunda até a terceira responder.
+        buscaSecundariaDados = colhidos;
+        reindexar();
+      }).catch((err) => {
+        // Uma trilha que falha não leva as outras junto.
+        console.warn("[busca] trilha secundária indisponível (" + id + "):", err);
+        buscaSecundariaFalhas.push(id);
+      })
+    )), Promise.resolve()).then(() => {
+      // Degradar, não quebrar: se ao menos uma entrou, a busca está pronta e o
+      // status conta o que ficou de fora. Só é "falhou" quando nenhuma entrou.
+      buscaSecundariaEstado = colhidos.length > 0 ? "pronta" : "falhou";
+      buscaSecundariaDados = colhidos;
       atualizarBuscaStatus();
     });
   }
@@ -3204,11 +3227,24 @@
   function atualizarBuscaStatus() {
     const el = document.getElementById("busca-status");
     if (!el) return;
+    // O texto conta quantas trilhas são de verdade: com três no ar, "a outra
+    // trilha" no singular seria mentira, e "buscando só na sua" também, quando
+    // uma das duas entrou e a outra não.
+    const nomeDe = (id) => (window.VD_TRILHAS && window.VD_TRILHAS[id] ? window.VD_TRILHAS[id].nome : id);
+    const restantes = (window.VD_TRILHA && window.VD_TRILHA.outras()) || [];
+
     if (buscaSecundariaEstado === "carregando") {
-      el.textContent = "Carregando também o banco da outra trilha…";
+      el.textContent = restantes.length > 1
+        ? "Carregando também os bancos das outras trilhas…"
+        : "Carregando também o banco da outra trilha…";
     } else if (buscaSecundariaEstado === "falhou") {
-      el.textContent = "Não deu pra carregar o banco da outra trilha — buscando só em " +
+      el.textContent = (restantes.length > 1
+        ? "Não deu pra carregar os bancos das outras trilhas — buscando só em "
+        : "Não deu pra carregar o banco da outra trilha — buscando só em ") +
         (TRILHA_CFG ? TRILHA_CFG.nome : "sua trilha") + ".";
+    } else if (buscaSecundariaEstado === "pronta" && buscaSecundariaFalhas.length > 0) {
+      el.textContent = "Não deu pra carregar o banco de " +
+        buscaSecundariaFalhas.map(nomeDe).join(" e ") + " — buscando nas demais.";
     } else {
       el.textContent = "";
     }
@@ -3329,8 +3365,11 @@
 
     if (!buscaConsulta && !buscaAssuntoId) {
       renderBuscaFiltros(null);
+      // "nas duas trilhas" era um número escrito à mão. Agora sai da contagem
+      // real: a trilha ativa mais as que entraram no índice.
+      const trilhasIndexadas = 1 + ((buscaSecundariaDados || []).length);
       el.innerHTML = `<p class="hint">Comece digitando acima. São ${(buscaDocs || []).length}
-        questões indexadas${buscaSecundariaEstado === "pronta" ? " nas duas trilhas" : ""}.</p>`;
+        questões indexadas${trilhasIndexadas > 1 ? ` nas ${trilhasIndexadas} trilhas` : ""}.</p>`;
       return;
     }
 

@@ -1,0 +1,695 @@
+{
+  "tema": "Funções e álgebra",
+  "questoes": [
+    {
+      "id": "fun-01",
+      "area": "Matemática", "frente": "matematica", "tema": "Função quadrática e receita",
+      "tempoSugerido": 15,
+      "enunciado": "Uma loja observou que, ao cobrar p reais por um produto, vende q = 120 − 2p unidades por dia. A receita diária é o produto do preço pela quantidade vendida.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Escreva a receita diária em função do preço p e determine o preço que maximiza a receita.",
+          "respostaFinal": { "rotulo": "preço em reais", "aceitas": ["30", "R$ 30,00"] },
+          "conferencia": "120 / (2*2)",
+          "resolucao": "A receita é R(p) = p·(120 − 2p) = 120p − 2p².\nÉ uma parábola com concavidade para baixo, cujo máximo está no vértice: p = −b/(2a) = −120/(2 × (−2)) = 30.\nLogo, o preço que maximiza a receita é R$ 30,00.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Escreveu a receita corretamente mas procurou a raiz da parábola em vez do vértice, ou usou p = 120/2 = 60, que zera a quantidade vendida." },
+            { "pct": 50, "desc": "Montou R(p) = 120p − 2p² e chegou ao preço de R$ 30,00 pelo vértice." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é a receita diária máxima?",
+          "respostaFinal": { "rotulo": "receita em reais", "aceitas": ["1800", "R$ 1.800,00"] },
+          "conferencia": "30 * (120 - 2*30)",
+          "resolucao": "Com p = 30, a quantidade vendida é 120 − 60 = 60 unidades.\nA receita é 30 × 60 = R$ 1.800,00.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Substituiu o preço na expressão errada, ou usou a quantidade 120 sem descontar 2p." },
+            { "pct": 50, "desc": "Substituiu p = 30 e chegou a R$ 1.800,00." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-02",
+      "area": "Matemática", "frente": "matematica", "tema": "Sistema linear e mistura",
+      "tempoSugerido": 15,
+      "enunciado": "Um laboratório tem 40 litros de uma solução com 30% de álcool e quer obter uma solução com 45% de álcool, acrescentando uma segunda solução que tem 60% de álcool.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Quantos litros da solução de 60% devem ser acrescentados?",
+          "respostaFinal": { "rotulo": "litros", "aceitas": ["40", "40 L"] },
+          "conferencia": "(0.45*40 - 0.3*40) / (0.6 - 0.45)",
+          "resolucao": "Chamando de x os litros acrescentados, a quantidade de álcool é 0,3 × 40 + 0,6x e o volume final é 40 + x.\nA condição é (12 + 0,6x)/(40 + x) = 0,45.\nDaí 12 + 0,6x = 18 + 0,45x, ou 0,15x = 6, logo x = 40 litros.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta, ou apenas o número, sem indicar o raciocínio." },
+            { "pct": 25, "desc": "Somou as concentrações diretamente (30% + 60% = 90%), ou esqueceu de somar x ao volume final do denominador." },
+            { "pct": 50, "desc": "Montou a equação de balanço mas errou ao isolar x." },
+            { "pct": 75, "desc": "Equacionou e resolveu corretamente, errando apenas a conta final." },
+            { "pct": 100, "desc": "Concluiu que devem ser acrescentados 40 litros." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-03",
+      "area": "Matemática", "frente": "matematica", "tema": "Função exponencial",
+      "tempoSugerido": 15,
+      "enunciado": "O número de máquinas antigas em operação numa fábrica cai 20% a cada ano. Hoje são 200 máquinas.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Quantas máquinas estarão em operação daqui a 3 anos?",
+          "respostaFinal": { "rotulo": "máquinas", "aceitas": ["102,4", "102.4"] },
+          "conferencia": "200 * Math.pow(0.8, 3)",
+          "resolucao": "Cair 20% ao ano é multiplicar por 0,8: N(t) = 200 × 0,8ᵗ.\nPara t = 3: 200 × 0,512 = 102,4 máquinas.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Subtraiu 20% de 200 três vezes de forma linear (200 − 120 = 80), tratando a queda como constante." },
+            { "pct": 50, "desc": "Montou 200 × 0,8³ e chegou a 102,4 máquinas." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Depois de quantos anos completos restarão menos de 50 máquinas?",
+          "respostaFinal": { "rotulo": "anos", "aceitas": ["7", "7 anos"] },
+          "conferencia": "Math.ceil(Math.log(50/200) / Math.log(0.8))",
+          "resolucao": "Queremos 200 × 0,8ᵗ < 50, ou seja, 0,8ᵗ < 0,25.\nTestando: 0,8⁶ = 0,262 (ainda acima) e 0,8⁷ = 0,210 (abaixo).\nLogo, são necessários 7 anos.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Montou a inequação mas parou em 6 anos sem verificar que 0,8⁶ ainda deixa mais de 50 máquinas." },
+            { "pct": 50, "desc": "Resolveu a inequação exponencial e concluiu que são 7 anos." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-04",
+      "area": "Matemática", "frente": "matematica", "tema": "Logaritmo e tempo de dobra",
+      "tempoSugerido": 15,
+      "enunciado": "Um capital é aplicado a juros compostos de 6% ao ano. Use log 2 = 0,301 e log 1,06 = 0,0253.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Em quantos anos, aproximadamente, o capital dobra?",
+          "respostaFinal": { "rotulo": "anos", "aceitas": ["11,9", "11.9", "12"], "intervalo": [11.5, 12.2] },
+          "conferencia": "0.301 / 0.0253",
+          "resolucao": "Queremos 1,06ᵗ = 2.\nAplicando logaritmo: t · log 1,06 = log 2, ou seja, t = 0,301/0,0253.\nLogo t ≈ 11,9 anos — na prática, 12 anos.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Dividiu 100 por 6, ou multiplicou os logaritmos em vez de dividir." },
+            { "pct": 50, "desc": "Montou a equação exponencial mas não aplicou o logaritmo corretamente." },
+            { "pct": 75, "desc": "Montou t = log 2 / log 1,06 e errou apenas a divisão." },
+            { "pct": 100, "desc": "Chegou a aproximadamente 11,9 anos." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-05",
+      "area": "Matemática", "frente": "matematica", "tema": "Ponto de equilíbrio",
+      "tempoSugerido": 15,
+      "enunciado": "Uma pequena fábrica tem custo fixo mensal de R$ 5.000,00 e custo variável de R$ 12,00 por unidade produzida. Cada unidade é vendida por R$ 20,00.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Quantas unidades a fábrica precisa vender por mês para não ter prejuízo?",
+          "respostaFinal": { "rotulo": "unidades", "aceitas": ["625"] },
+          "conferencia": "5000 / (20 - 12)",
+          "resolucao": "Custo: C(q) = 5.000 + 12q. Receita: R(q) = 20q.\nNo ponto de equilíbrio, 20q = 5.000 + 12q, ou seja, 8q = 5.000.\nLogo q = 625 unidades.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Dividiu 5.000 por 20 ou por 12, sem usar a margem por unidade." },
+            { "pct": 50, "desc": "Igualou custo e receita e chegou a 625 unidades." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é o lucro mensal se forem vendidas 900 unidades?",
+          "respostaFinal": { "rotulo": "lucro em reais", "aceitas": ["2200", "R$ 2.200,00"] },
+          "conferencia": "20*900 - (5000 + 12*900)",
+          "resolucao": "Receita: 20 × 900 = 18.000.\nCusto: 5.000 + 12 × 900 = 5.000 + 10.800 = 15.800.\nLucro: 18.000 − 15.800 = R$ 2.200,00.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Esqueceu o custo fixo, chegando a 7.200, ou calculou apenas a receita." },
+            { "pct": 50, "desc": "Subtraiu o custo total da receita e chegou a R$ 2.200,00." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-06",
+      "area": "Matemática", "frente": "matematica", "tema": "Inequação do segundo grau",
+      "tempoSugerido": 12,
+      "enunciado": "Considere a inequação x² − 7x + 10 < 0.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Determine o conjunto solução da inequação.",
+          "respostaFinal": { "rotulo": "menor valor do intervalo", "aceitas": ["2"] },
+          "conferencia": "(7 - Math.sqrt(49 - 40)) / 2",
+          "resolucao": "As raízes de x² − 7x + 10 são x = 2 e x = 5.\nComo o coeficiente de x² é positivo, a parábola tem concavidade para cima e fica abaixo do eixo entre as raízes.\nLogo, a solução é 2 < x < 5.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Achou as raízes mas apontou o intervalo de fora (x < 2 ou x > 5), invertendo o sinal." },
+            { "pct": 50, "desc": "Achou as raízes mas não analisou o sinal da parábola." },
+            { "pct": 75, "desc": "Analisou o sinal corretamente e errou apenas ao escrever o intervalo." },
+            { "pct": 100, "desc": "Concluiu que a solução é 2 < x < 5." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-07",
+      "area": "Matemática", "frente": "matematica", "tema": "Função definida por partes",
+      "tempoSugerido": 15,
+      "enunciado": "A conta de água de uma cidade é calculada assim: até 10 m³ de consumo, paga-se uma taxa fixa de R$ 25,00; acima disso, paga-se a taxa fixa mais R$ 4,00 por metro cúbico excedente.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual é o valor da conta de quem consome 18 m³?",
+          "respostaFinal": { "rotulo": "valor em reais", "aceitas": ["57", "R$ 57,00"] },
+          "conferencia": "25 + 4*(18 - 10)",
+          "resolucao": "O excedente é 18 − 10 = 8 m³.\nConta: 25 + 4 × 8 = 25 + 32 = R$ 57,00.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Cobrou os R$ 4,00 sobre todo o consumo (25 + 72 = 97), sem descontar os 10 m³ da taxa fixa." },
+            { "pct": 50, "desc": "Aplicou a tarifa apenas sobre o excedente e chegou a R$ 57,00." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual foi o consumo de quem recebeu uma conta de R$ 89,00?",
+          "respostaFinal": { "rotulo": "consumo em m³", "aceitas": ["26", "26 m³"] },
+          "conferencia": "10 + (89 - 25)/4",
+          "resolucao": "Da conta, 25 são fixos, então 89 − 25 = 64 correspondem ao excedente.\nComo cada metro cúbico excedente custa 4, o excedente é 64/4 = 16 m³.\nO consumo total é 10 + 16 = 26 m³.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Dividiu 89 por 4 sem descontar a taxa fixa, ou esqueceu de somar os 10 m³ ao final." },
+            { "pct": 50, "desc": "Descontou a taxa fixa, converteu o excedente e chegou a 26 m³." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-08",
+      "area": "Matemática", "frente": "matematica", "tema": "Composição de funções",
+      "tempoSugerido": 12,
+      "enunciado": "Sejam f(x) = 2x − 3 e g(x) = x² + 1, funções reais.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Calcule f(g(2)).",
+          "respostaFinal": { "rotulo": "valor", "aceitas": ["7"] },
+          "conferencia": "2*(2*2 + 1) - 3",
+          "resolucao": "g(2) = 2² + 1 = 5.\nf(5) = 2 × 5 − 3 = 7.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Inverteu a ordem da composição e calculou g(f(2)) = 2." },
+            { "pct": 50, "desc": "Aplicou g primeiro, depois f, e chegou a 7." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Determine a expressão de g(f(x)).",
+          "resolucao": "g(f(x)) = (2x − 3)² + 1.\nExpandindo: 4x² − 12x + 9 + 1 = 4x² − 12x + 10.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Substituiu na ordem errada, ou errou o quadrado do binômio (esquecendo o termo do meio)." },
+            { "pct": 50, "desc": "Chegou a g(f(x)) = 4x² − 12x + 10, com a expansão indicada." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-09",
+      "area": "Matemática", "frente": "matematica", "tema": "Função inversa",
+      "tempoSugerido": 12,
+      "enunciado": "Considere a função real f(x) = (3x − 1)/2.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Determine a expressão da função inversa de f.",
+          "resolucao": "Escrevendo y = (3x − 1)/2 e trocando os papéis: x = (3y − 1)/2.\nDaí 2x = 3y − 1, ou seja, y = (2x + 1)/3.\nLogo, f⁻¹(x) = (2x + 1)/3.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Trocou x por y mas não isolou corretamente, ou apresentou 1/f(x) como inversa." },
+            { "pct": 50, "desc": "Chegou a f⁻¹(x) = (2x + 1)/3." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Calcule f⁻¹(4).",
+          "respostaFinal": { "rotulo": "valor", "aceitas": ["3"] },
+          "conferencia": "(2*4 + 1)/3",
+          "resolucao": "f⁻¹(4) = (2 × 4 + 1)/3 = 9/3 = 3.\nConferindo: f(3) = (9 − 1)/2 = 4.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Calculou f(4) em vez de f⁻¹(4), chegando a 5,5." },
+            { "pct": 50, "desc": "Substituiu na inversa e chegou a 3." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-10",
+      "area": "Matemática", "frente": "matematica", "tema": "Equação modular",
+      "tempoSugerido": 12,
+      "enunciado": "Considere a equação |2x − 6| = 10.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Determine as soluções da equação e a soma delas.",
+          "respostaFinal": { "rotulo": "soma das soluções", "aceitas": ["6"] },
+          "conferencia": "8 + (-2)",
+          "resolucao": "O módulo abre em dois casos: 2x − 6 = 10 e 2x − 6 = −10.\nNo primeiro, 2x = 16 e x = 8; no segundo, 2x = −4 e x = −2.\nA soma das soluções é 8 + (−2) = 6.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Considerou apenas o caso positivo e apresentou só x = 8." },
+            { "pct": 50, "desc": "Abriu os dois casos mas errou uma das soluções." },
+            { "pct": 75, "desc": "Achou as duas soluções e errou apenas a soma." },
+            { "pct": 100, "desc": "Encontrou x = 8 e x = −2, cuja soma é 6." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-11",
+      "area": "Matemática", "frente": "matematica", "tema": "Relações entre raízes",
+      "tempoSugerido": 12,
+      "enunciado": "A equação x² − 9x + 20 = 0 tem duas raízes reais.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Determine a soma dos inversos das raízes, sem calcular as raízes.",
+          "respostaFinal": { "rotulo": "soma dos inversos", "aceitas": ["9/20", "0,45", "0.45"] },
+          "conferencia": "9/20",
+          "resolucao": "Pelas relações de Girard, a soma das raízes é 9 e o produto é 20.\nA soma dos inversos é 1/x₁ + 1/x₂ = (x₁ + x₂)/(x₁·x₂) = 9/20.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Inverteu a razão e apresentou 20/9, ou calculou as raízes ignorando o comando de não calculá-las." },
+            { "pct": 50, "desc": "Usou as relações de Girard e chegou a 9/20." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Determine a soma dos quadrados das raízes.",
+          "respostaFinal": { "rotulo": "soma dos quadrados", "aceitas": ["41"] },
+          "conferencia": "9*9 - 2*20",
+          "resolucao": "Vale a identidade x₁² + x₂² = (x₁ + x₂)² − 2·x₁·x₂.\nSubstituindo: 9² − 2 × 20 = 81 − 40 = 41.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Elevou a soma ao quadrado sem subtrair o dobro do produto, chegando a 81." },
+            { "pct": 50, "desc": "Usou a identidade e chegou a 41." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-12",
+      "area": "Matemática", "frente": "matematica", "tema": "Sistema não linear",
+      "tempoSugerido": 12,
+      "enunciado": "Dois números reais têm soma 10 e produto 21.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Determine os dois números.",
+          "respostaFinal": { "rotulo": "o menor deles", "aceitas": ["3"] },
+          "conferencia": "(10 - Math.sqrt(100 - 84))/2",
+          "resolucao": "Os números são as raízes de t² − 10t + 21 = 0.\nO discriminante é 100 − 84 = 16, então t = (10 ± 4)/2.\nAs raízes são 3 e 7.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Montou o sistema mas travou na substituição, ou testou valores sem chegar ao par correto." },
+            { "pct": 50, "desc": "Usou a equação do segundo grau associada e encontrou 3 e 7." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Determine a soma dos quadrados desses dois números.",
+          "respostaFinal": { "rotulo": "soma dos quadrados", "aceitas": ["58"] },
+          "conferencia": "100 - 2*21",
+          "resolucao": "Pela identidade: x² + y² = (x + y)² − 2xy = 100 − 42 = 58.\nConferindo com os números encontrados: 9 + 49 = 58.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Somou os números e elevou ao quadrado, chegando a 100." },
+            { "pct": 50, "desc": "Usou a identidade ou os valores encontrados e chegou a 58." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-13",
+      "area": "Matemática", "frente": "matematica", "tema": "Custo médio",
+      "tempoSugerido": 15,
+      "enunciado": "O custo total de produção de q unidades de um produto é C(q) = 2.000 + 15q reais. O custo médio é o custo total dividido pela quantidade produzida.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Escreva o custo médio em função de q e explique o que acontece com ele quando q cresce muito.",
+          "resolucao": "O custo médio é CM(q) = (2.000 + 15q)/q = 2.000/q + 15.\nQuando q cresce, a parcela 2.000/q diminui e se aproxima de zero.\nEntão o custo médio se aproxima de 15 por unidade, mas nunca chega a esse valor: o custo fixo é diluído, não eliminado.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Escreveu a expressão sem interpretar o comportamento, ou afirmou que o custo médio tende a zero." },
+            { "pct": 50, "desc": "Escreveu CM = 2.000/q + 15 e explicou que ele tende a 15 pela diluição do custo fixo." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual quantidade produzida faz o custo médio ser igual a R$ 25,00 por unidade?",
+          "respostaFinal": { "rotulo": "unidades", "aceitas": ["200"] },
+          "conferencia": "2000 / (25 - 15)",
+          "resolucao": "De 2.000/q + 15 = 25 vem 2.000/q = 10.\nLogo q = 200 unidades.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Dividiu 2.000 por 25, esquecendo de descontar o custo variável unitário." },
+            { "pct": 50, "desc": "Isolou q corretamente e chegou a 200 unidades." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-14",
+      "area": "Matemática", "frente": "matematica", "tema": "Otimização com restrição",
+      "tempoSugerido": 15,
+      "enunciado": "Um terreno retangular será cercado com 40 metros de tela, aproveitando todo o material disponível.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Quais devem ser as dimensões do terreno para que a área cercada seja a maior possível? Qual é essa área?",
+          "respostaFinal": { "rotulo": "área máxima em m²", "aceitas": ["100", "100 m²"] },
+          "conferencia": "10 * 10",
+          "resolucao": "Se um lado mede x, o outro mede 20 − x, porque o perímetro é 40.\nA área é A(x) = x(20 − x) = 20x − x², uma parábola de concavidade para baixo.\nO máximo está no vértice: x = 10, e o outro lado também mede 10.\nA área máxima é 10 × 10 = 100 m² — o retângulo de área máxima com perímetro dado é o quadrado.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Usou 40 − x para o outro lado, esquecendo que o perímetro tem dois pares de lados." },
+            { "pct": 50, "desc": "Montou a área como função de um lado mas não localizou o máximo." },
+            { "pct": 75, "desc": "Chegou às dimensões 10 × 10 e errou apenas o cálculo da área." },
+            { "pct": 100, "desc": "Concluiu que o terreno é um quadrado de 10 m de lado, com área máxima de 100 m²." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-15",
+      "area": "Matemática", "frente": "matematica", "tema": "Equação exponencial",
+      "tempoSugerido": 10,
+      "enunciado": "Considere as equações exponenciais 2^(x+1) = 32 e 3^(2y) = 81.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Determine x.",
+          "respostaFinal": { "rotulo": "valor de x", "aceitas": ["4"] },
+          "conferencia": "5 - 1",
+          "resolucao": "Como 32 = 2⁵, temos 2^(x+1) = 2⁵.\nIgualando os expoentes: x + 1 = 5, logo x = 4.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Igualou x a 5, esquecendo de descontar o 1 do expoente." },
+            { "pct": 50, "desc": "Reduziu à mesma base e chegou a x = 4." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Determine y.",
+          "respostaFinal": { "rotulo": "valor de y", "aceitas": ["2"] },
+          "conferencia": "4/2",
+          "resolucao": "Como 81 = 3⁴, temos 3^(2y) = 3⁴.\nIgualando os expoentes: 2y = 4, logo y = 2.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Igualou 2y a 81, ou apresentou y = 4 sem dividir por 2." },
+            { "pct": 50, "desc": "Reduziu à mesma base e chegou a y = 2." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-16",
+      "area": "Matemática", "frente": "matematica", "tema": "Escala logarítmica",
+      "tempoSugerido": 15,
+      "enunciado": "O nível sonoro, em decibéis, é dado por N = 10·log(I/I₀), em que I é a intensidade do som e I₀ é uma intensidade de referência fixa.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Se a intensidade de um som for multiplicada por 100, de quanto aumenta o nível sonoro em decibéis?",
+          "respostaFinal": { "rotulo": "aumento em dB", "aceitas": ["20", "20 dB"] },
+          "conferencia": "10 * 2",
+          "resolucao": "O novo nível é 10·log(100·I/I₀) = 10·[log 100 + log(I/I₀)] = 10·log 100 + N.\nComo log 100 = 2, o aumento é 10 × 2 = 20 decibéis.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Respondeu que o nível é multiplicado por 100, confundindo escala logarítmica com escala linear." },
+            { "pct": 50, "desc": "Usou a propriedade do logaritmo do produto e chegou a um aumento de 20 dB." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Um som de 80 dB tem intensidade quantas vezes maior que a de um som de 50 dB?",
+          "respostaFinal": { "rotulo": "razão entre as intensidades", "aceitas": ["1000"] },
+          "conferencia": "Math.pow(10, (80-50)/10)",
+          "resolucao": "A diferença de níveis é 80 − 50 = 30 dB.\nComo 30 = 10·log(razão), temos log(razão) = 3 e a razão é 10³ = 1.000.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Dividiu 80 por 50, ou apresentou 30 como resposta, confundindo a diferença de níveis com a razão de intensidades." },
+            { "pct": 50, "desc": "Converteu a diferença de decibéis em potência de 10 e chegou a 1.000 vezes." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-17",
+      "area": "Matemática", "frente": "matematica", "tema": "Função quadrática e trajetória",
+      "tempoSugerido": 15,
+      "enunciado": "Um objeto é lançado verticalmente e sua altura, em metros, é dada por h(t) = −5t² + 20t, com t em segundos.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual é a altura máxima atingida e em que instante isso ocorre?",
+          "respostaFinal": { "rotulo": "altura máxima em metros", "aceitas": ["20", "20 m"] },
+          "conferencia": "-5*2*2 + 20*2",
+          "resolucao": "O instante do máximo é t = −b/(2a) = −20/(2 × (−5)) = 2 s.\nA altura é h(2) = −5 × 4 + 40 = 20 m.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Achou o instante do vértice mas não substituiu na função, ou usou a raiz da parábola como instante de altura máxima." },
+            { "pct": 50, "desc": "Encontrou t = 2 s e altura máxima de 20 m." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Em que instante o objeto volta ao solo?",
+          "respostaFinal": { "rotulo": "instante em segundos", "aceitas": ["4", "4 s"] },
+          "conferencia": "20/5",
+          "resolucao": "Fazendo h(t) = 0: −5t² + 20t = 0, ou t(−5t + 20) = 0.\nAs raízes são t = 0 (lançamento) e t = 4 s (volta ao solo).",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Apresentou t = 0 como resposta, ou dobrou a altura máxima em vez do instante do vértice." },
+            { "pct": 50, "desc": "Resolveu h(t) = 0 e chegou a t = 4 s." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-18",
+      "area": "Matemática", "frente": "matematica", "tema": "Sistema linear 3×3",
+      "tempoSugerido": 15,
+      "enunciado": "Uma cesta tem 32 frutas entre maçãs, peras e laranjas. Há 4 maçãs a mais que peras, e o número de laranjas é o dobro do de peras.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Quantas frutas de cada tipo há na cesta?",
+          "respostaFinal": { "rotulo": "número de peras", "aceitas": ["7"] },
+          "conferencia": "(32 - 4)/4",
+          "resolucao": "Chamando de p o número de peras: maçãs = p + 4 e laranjas = 2p.\nEntão (p + 4) + p + 2p = 32, ou 4p = 28, logo p = 7.\nSão 7 peras, 11 maçãs e 14 laranjas — que somam 32.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Montou o sistema com alguma relação invertida (peras = maçãs + 4, por exemplo), ou dividiu 32 por 3." },
+            { "pct": 50, "desc": "Montou o sistema corretamente mas errou ao isolar a variável." },
+            { "pct": 75, "desc": "Chegou a 4p = 28 e errou apenas a divisão ou a conta dos demais tipos." },
+            { "pct": 100, "desc": "Concluiu que são 7 peras, 11 maçãs e 14 laranjas, conferindo a soma 32." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-19",
+      "area": "Matemática", "frente": "matematica", "tema": "Inequação com fração",
+      "tempoSugerido": 15,
+      "enunciado": "Considere a inequação (x − 2)/(x + 3) ≥ 0.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Determine o conjunto solução, indicando as restrições de domínio.",
+          "respostaFinal": { "rotulo": "menor valor de x da parte à direita", "aceitas": ["2"] },
+          "conferencia": "2",
+          "resolucao": "O denominador não pode ser zero, então x ≠ −3.\nA fração é positiva quando numerador e denominador têm o mesmo sinal: x < −3 (ambos negativos) ou x ≥ 2 (ambos positivos ou numerador nulo).\nEntre −3 e 2 os sinais se opõem e a fração é negativa.\nLogo, a solução é x < −3 ou x ≥ 2.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Multiplicou os dois lados por (x + 3) sem analisar o sinal do denominador, chegando apenas a x ≥ 2." },
+            { "pct": 50, "desc": "Fez o estudo de sinais mas incluiu x = −3 na solução." },
+            { "pct": 75, "desc": "Acertou os intervalos e trocou um sinal de inclusão (≥ por > em x = 2, por exemplo)." },
+            { "pct": 100, "desc": "Concluiu que a solução é x < −3 ou x ≥ 2, com a restrição x ≠ −3." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-20",
+      "area": "Matemática", "frente": "matematica", "tema": "Função por partes e imposto progressivo",
+      "tempoSugerido": 18,
+      "enunciado": "Um imposto sobre a renda mensal funciona por faixas: até R$ 2.000,00 há isenção; sobre a parte da renda entre R$ 2.000,00 e R$ 5.000,00 incide 10%; sobre a parte que exceder R$ 5.000,00 incide 20%.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Quanto de imposto paga quem recebe R$ 4.200,00 por mês?",
+          "respostaFinal": { "rotulo": "imposto em reais", "aceitas": ["220", "R$ 220,00"] },
+          "conferencia": "0.10 * (4200 - 2000)",
+          "resolucao": "A renda cai na segunda faixa: só a parte acima de 2.000 é tributada.\nParte tributável: 4.200 − 2.000 = 2.200.\nImposto: 10% de 2.200 = R$ 220,00.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Aplicou 10% sobre os R$ 4.200,00 inteiros, chegando a 420, sem respeitar a faixa isenta." },
+            { "pct": 50, "desc": "Tributou apenas o excedente da faixa isenta e chegou a R$ 220,00." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é a renda de quem paga R$ 700,00 de imposto?",
+          "respostaFinal": { "rotulo": "renda em reais", "aceitas": ["7000", "R$ 7.000,00"] },
+          "conferencia": "5000 + (700 - 300)/0.20",
+          "resolucao": "Quem recebe exatamente 5.000 paga 10% de 3.000 = 300, que é o imposto acumulado até o fim da segunda faixa.\nComo 700 > 300, a renda está na terceira faixa.\nSobram 700 − 300 = 400 de imposto a 20%, o que corresponde a 400/0,2 = 2.000 de renda acima de 5.000.\nLogo, a renda é 5.000 + 2.000 = R$ 7.000,00.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Dividiu 700 por 0,2 e somou 5.000, sem descontar os 300 já pagos nas faixas anteriores, ou aplicou 20% sobre a renda inteira." },
+            { "pct": 50, "desc": "Identificou a faixa correta e chegou a R$ 7.000,00, descontando o imposto acumulado." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-21",
+      "area": "Matemática", "frente": "matematica", "tema": "Interpolação linear",
+      "tempoSugerido": 12,
+      "enunciado": "Uma tabela relaciona duas grandezas que variam de forma linear: quando x = 2, y = 50; quando x = 6, y = 90.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Escreva y em função de x.",
+          "resolucao": "A taxa de variação é (90 − 50)/(6 − 2) = 40/4 = 10.\nEntão y = 50 + 10(x − 2), ou seja, y = 10x + 30.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Calculou a taxa mas não montou a expressão, ou usou o ponto errado como referência." },
+            { "pct": 50, "desc": "Chegou a y = 10x + 30, indicando o cálculo da taxa." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é o valor de y quando x = 5?",
+          "respostaFinal": { "rotulo": "valor de y", "aceitas": ["80"] },
+          "conferencia": "10*5 + 30",
+          "resolucao": "Substituindo: y = 10 × 5 + 30 = 80.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Tomou a média entre 50 e 90, chegando a 70, sem considerar que x = 5 não é o ponto médio entre 2 e 6." },
+            { "pct": 50, "desc": "Substituiu na função e chegou a 80." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-22",
+      "area": "Matemática", "frente": "matematica", "tema": "Equação biquadrada",
+      "tempoSugerido": 12,
+      "enunciado": "Considere a equação x⁴ − 13x² + 36 = 0.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Determine todas as raízes reais e a soma das raízes positivas.",
+          "respostaFinal": { "rotulo": "soma das raízes positivas", "aceitas": ["5"] },
+          "conferencia": "2 + 3",
+          "resolucao": "Fazendo u = x², a equação vira u² − 13u + 36 = 0, cujas raízes são u = 4 e u = 9.\nDe x² = 4 vem x = ±2; de x² = 9 vem x = ±3.\nAs raízes positivas são 2 e 3, cuja soma é 5.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Resolveu em u e parou em 4 e 9, sem voltar para x." },
+            { "pct": 50, "desc": "Voltou para x mas esqueceu as raízes negativas ou uma das positivas." },
+            { "pct": 75, "desc": "Listou as quatro raízes e errou apenas a soma pedida." },
+            { "pct": 100, "desc": "Encontrou ±2 e ±3, com soma das positivas igual a 5." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-23",
+      "area": "Matemática", "frente": "matematica", "tema": "Translação de gráfico",
+      "tempoSugerido": 12,
+      "enunciado": "A partir da parábola f(x) = x², define-se g(x) = (x − 3)² + 2.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Descreva a transformação que leva o gráfico de f ao de g e indique o vértice de g.",
+          "resolucao": "Trocar x por (x − 3) desloca o gráfico 3 unidades para a direita; somar 2 desloca 2 unidades para cima.\nComo o vértice de f é (0, 0), o vértice de g é (3, 2).",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Inverteu o sentido do deslocamento horizontal (3 para a esquerda), erro típico do sinal dentro do parêntese." },
+            { "pct": 50, "desc": "Descreveu as duas translações e indicou o vértice (3, 2)." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Determine o valor mínimo de g e o valor de g(5).",
+          "respostaFinal": { "rotulo": "valor de g(5)", "aceitas": ["6"] },
+          "conferencia": "(5-3)*(5-3) + 2",
+          "resolucao": "O valor mínimo é a ordenada do vértice: 2.\ng(5) = (5 − 3)² + 2 = 4 + 2 = 6.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Calculou 5² + 2 = 27, esquecendo a translação, ou apontou 0 como valor mínimo." },
+            { "pct": 50, "desc": "Indicou mínimo 2 e g(5) = 6." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-24",
+      "area": "Matemática", "frente": "matematica", "tema": "Taxa de variação média",
+      "tempoSugerido": 12,
+      "enunciado": "Considere a função f(x) = x² + 2x.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Determine a taxa de variação média de f no intervalo de x = 1 a x = 4.",
+          "respostaFinal": { "rotulo": "taxa de variação média", "aceitas": ["7"] },
+          "conferencia": "((4*4 + 2*4) - (1 + 2)) / (4 - 1)",
+          "resolucao": "f(1) = 1 + 2 = 3 e f(4) = 16 + 8 = 24.\nA taxa média é [f(4) − f(1)]/(4 − 1) = 21/3 = 7.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Calculou apenas a diferença f(4) − f(1) = 21, sem dividir pela variação de x." },
+            { "pct": 50, "desc": "Calculou os dois valores da função mas errou a divisão." },
+            { "pct": 75, "desc": "Montou a razão corretamente e errou apenas a conta." },
+            { "pct": 100, "desc": "Chegou à taxa de variação média igual a 7." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fun-25",
+      "area": "Matemática", "frente": "matematica", "tema": "Sistema com duas incógnitas",
+      "tempoSugerido": 12,
+      "enunciado": "Em uma bilheteria foram vendidos 180 ingressos, entre inteiras a R$ 40,00 e meias a R$ 20,00, arrecadando R$ 5.600,00.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Quantos ingressos de cada tipo foram vendidos?",
+          "respostaFinal": { "rotulo": "ingressos inteiros", "aceitas": ["100"] },
+          "conferencia": "(5600 - 20*180) / (40 - 20)",
+          "resolucao": "Sejam i as inteiras e m as meias: i + m = 180 e 40i + 20m = 5.600.\nDa primeira, m = 180 − i. Substituindo: 40i + 20(180 − i) = 5.600.\nEntão 20i + 3.600 = 5.600, ou seja, 20i = 2.000 e i = 100.\nForam 100 inteiras e 80 meias.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Montou apenas uma das equações, ou dividiu 5.600 por 180 e trabalhou com o preço médio." },
+            { "pct": 50, "desc": "Montou o sistema corretamente mas errou a substituição." },
+            { "pct": 75, "desc": "Chegou a 20i = 2.000 e errou apenas a divisão ou o segundo tipo de ingresso." },
+            { "pct": 100, "desc": "Concluiu que foram 100 inteiras e 80 meias, conferindo a arrecadação." }
+          ]
+        }
+      ]
+    }
+  ]
+}

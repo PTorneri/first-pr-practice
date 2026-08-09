@@ -1,0 +1,112 @@
+{
+  "tema": "Referência — FGV EESP 2026.1 (questões reais)",
+  "questoes": [
+    {
+      "id": "mat-disc-fgv-2026-01",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Progressão aritmética em série temporal",
+      "origem": "FGV EESP 2026.1 · Matemática Discursiva, questão 1",
+      "tempoSugerido": 8,
+      "enunciado": "Em janeiro de 1984, um observatório registrou níveis de dióxido de carbono (CO₂) de 344 ppm (partes por milhão). A partir daí, a leitura média de CO₂ aumentou cerca de 1,5 ppm a cada ano.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Qual é o nível esperado de CO₂, em ppm, para janeiro de 2026?",
+          "respostaFinal": { "rotulo": "nível de CO₂, em ppm", "aceitas": ["407", "407 ppm", "407ppm"] },
+          "conferencia": "344 + 42*1.5",
+          "resolucao": "De janeiro de 1984 a janeiro de 2026 temos 42 anos.\nAssim, nesse período, o aumento foi de 42 × 1,5 = 63 ppm.\nLogo, em janeiro de 2026 o nível esperado de CO₂ é de 344 + 63 = 407 ppm.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Fez alguns cálculos coerentes, sem continuidade (por exemplo, 344×43 ou 2025×15), ou errou grosseiramente o número de anos entre 1984 e 2026, ou calculou 1,5×42 e apresentou 63 como resposta, ou apresentou somente a resposta correta, sem cálculo algum ou indicação de raciocínio." },
+            { "pct": 50, "desc": "Raciocinou corretamente, porém errou o cálculo do número de anos entre 1984 e 2026, com boa aproximação (41 ou 43), ou acertou a resposta pelo método de tentativa e erro." },
+            { "pct": 75, "desc": "Raciocinou corretamente, acertou o número de anos, adicionou ao valor inicial (344), porém cometeu erro de conta (42×1,5 = 630, por exemplo)." },
+            { "pct": 100, "desc": "Raciocinou corretamente, acertou o número de anos, adicionou ao valor inicial 344 e deu a resposta correta: 407." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat-disc-fgv-2026-02",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Média aritmética com remoção de subconjunto",
+      "origem": "FGV EESP 2026.1 · Matemática Discursiva, questão 2",
+      "tempoSugerido": 12,
+      "enunciado": "Em um conjunto de 30 números, alguns são iguais a 13. A média aritmética desses 30 números é igual a 25.\nRetiram-se desse conjunto todos os números iguais a 13 e a média aritmética dos números restantes passa a ser 33.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Determine a soma dos 30 números originais.",
+          "respostaFinal": { "rotulo": "soma", "aceitas": ["750"] },
+          "conferencia": "30*25",
+          "resolucao": "Como são 30 números e a média deles é 25, então a soma desses números é 30 × 25 = 750.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Deu a resposta correta sem demonstrar os cálculos ou indicar o raciocínio, ou apresentou algum raciocínio coerente porém sem continuidade, ou raciocinou corretamente e errou a conta (30×25)." },
+            { "pct": 50, "desc": "Raciocinou corretamente, acertou os cálculos e deu a resposta correta: 750." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Determine quantos números iguais a 13 havia no conjunto original.",
+          "respostaFinal": { "rotulo": "quantidade", "aceitas": ["12", "12 números", "n = 12"] },
+          "conferencia": "(990 - 750) / (33 - 13)",
+          "resolucao": "Seja N a quantidade de números iguais a 13.\nAssim, tem-se que: (750 − 13N) / (30 − N) = 33.\nDaí: 750 − 13N = 990 − 33N → 20N = 240 → N = 12.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta, ou apresentou apenas a resposta, sem fazer cálculos, tampouco indicar o raciocínio utilizado." },
+            { "pct": 25, "desc": "Equacionou o problema porém sem continuidade, ou equacionou corretamente e deu continuidade mas errou em conta, ou resolveu pelo método de tentativa e erro, com a resposta correta." },
+            { "pct": 50, "desc": "Equacionou corretamente o problema, deu continuidade aos cálculos e apresentou a resposta correta: 12." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat-disc-fgv-2026-05",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Curva de Lorenz e Índice de Gini",
+      "origem": "FGV EESP 2026.1 · Matemática Discursiva, questão 5",
+      "tempoSugerido": 25,
+      "enunciado": "A curva de Lorenz relaciona a porcentagem acumulada da população, ordenada por renda (eixo horizontal), com a porcentagem acumulada da renda que essa parcela possui (eixo vertical). A reta y = x representa a perfeita igualdade.\n\nO Índice de Gini é a razão entre a área compreendida entre a linha de igualdade e a curva de Lorenz e a área entre a linha de igualdade e o eixo horizontal; ele varia de 0 (perfeita igualdade) a 1 (perfeita desigualdade).\n\nSuponha que a curva de Lorenz de certo país seja dada por y = 1 − √(1 − x²), com x ∈ [0, 1].",
+      "itens": [
+        {
+          "id": "a",
+          "pontos": 1,
+          "comando": "Determine qual fração da riqueza deste país está concentrada nos 20% mais ricos.",
+          "respostaFinal": { "rotulo": "fração da riqueza", "aceitas": ["0,6", "0.6", "60%", "3/5", "60"] },
+          "conferencia": "1 - (1 - Math.sqrt(1 - 0.8*0.8))",
+          "resolucao": "Os 20% mais ricos detêm a renda acumulada entre x = 0,8 e x = 1, isto é, y(1) − y(0,8).\ny(1) = 1 − √(1 − 1) = 1 e y(0,8) = 1 − √(1 − 0,64) = 1 − 0,6 = 0,4.\nLogo, 1 − 0,4 = 0,6 — ou 60%, por leitura direta do gráfico.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou incorreta." },
+            { "pct": 100, "desc": "Chegou a 0,6 (60%), por cálculo ou por leitura direta do gráfico." }
+          ]
+        },
+        {
+          "id": "b",
+          "pontos": 1,
+          "comando": "Explique por que o gráfico dessa curva é um arco de circunferência. Determine o centro e o raio dessa circunferência.",
+          "resolucao": "De y = 1 − √(1 − x²) vem y − 1 = −√(1 − x²).\nElevando ao quadrado: (y − 1)² = 1 − x², ou seja, x² + (y − 1)² = 1.\nÉ a equação de uma circunferência de centro (0, 1) e raio 1 — o trecho com x ∈ [0, 1] e y ≤ 1 é o arco do quarto inferior direito.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou incorreta." },
+            { "pct": 50, "desc": "Manipulou a equação até uma forma reconhecível de circunferência, mas não identificou centro e raio, ou identificou um dos dois." },
+            { "pct": 100, "desc": "Chegou a x² + (y − 1)² = 1, com centro (0, 1) e raio 1, justificando a passagem." }
+          ]
+        },
+        {
+          "id": "c",
+          "pontos": 2,
+          "comando": "Determine o Índice de Gini desse país com duas casas decimais (considere π = 3,14).",
+          "respostaFinal": { "rotulo": "Índice de Gini", "aceitas": ["0,57", "0.57"], "intervalo": [0.54, 0.6] },
+          "conferencia": "(0.5 - (1 - 3.14/4)) / 0.5",
+          "resolucao": "Área entre a reta de igualdade e a curva = área do triângulo (0,5) menos a área sob a curva.\nA área sob a curva é a do quadrado menos a do quarto de círculo: 1 − (1/4)·π·1² ≅ 1 − 0,785 = 0,215.\nLogo a área entre as duas curvas é 0,5 − 0,215 = 0,285, e o Gini é 0,285 / 0,5 ≅ 0,57.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou incorreta." },
+            { "pct": 50, "desc": "Calculou a área do setor circular (≅ 0,285) ou a área do triângulo (0,5), mas não chegou ao índice." },
+            { "pct": 100, "desc": "Chegou ao Índice de Gini ≅ 0,57 (a banca aceita de 0,54 a 0,60)." }
+          ]
+        }
+      ]
+    }
+  ]
+}

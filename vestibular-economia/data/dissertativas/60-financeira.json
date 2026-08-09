@@ -1,0 +1,808 @@
+{
+  "tema": "Matemática financeira e porcentagem",
+  "questoes": [
+    {
+      "id": "fin-01",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Juros simples",
+      "tempoSugerido": 12,
+      "enunciado": "Um capital de R$ 2.000,00 é aplicado a juros simples de 5% ao mês durante 8 meses.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual é o valor dos juros no período?",
+          "respostaFinal": {
+            "rotulo": "juros em reais",
+            "aceitas": [
+              "800",
+              "R$ 800,00"
+            ]
+          },
+          "conferencia": "2000 * 0.05 * 8",
+          "resolucao": "Nos juros simples, J = C · i · t.\nJ = 2.000 × 0,05 × 8 = R$ 800,00.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Aplicou a fórmula dos juros compostos, ou esqueceu de multiplicar pelo número de meses."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou J = C·i·t e chegou a R$ 800,00."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é o montante ao fim dos 8 meses?",
+          "respostaFinal": {
+            "rotulo": "montante em reais",
+            "aceitas": [
+              "2800",
+              "R$ 2.800,00"
+            ]
+          },
+          "conferencia": "2000 + 2000*0.05*8",
+          "resolucao": "O montante é capital mais juros: 2.000 + 800 = R$ 2.800,00.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Apresentou apenas os juros, sem somar o capital."
+            },
+            {
+              "pct": 50,
+              "desc": "Somou capital e juros e chegou a R$ 2.800,00."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fin-02",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Juros compostos",
+      "tempoSugerido": 12,
+      "enunciado": "Um capital de R$ 2.000,00 é aplicado a juros compostos de 10% ao ano por 3 anos.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual é o montante ao fim dos 3 anos?",
+          "respostaFinal": {
+            "rotulo": "montante em reais",
+            "aceitas": [
+              "2662",
+              "R$ 2.662,00"
+            ]
+          },
+          "conferencia": "2000 * Math.pow(1.1, 3)",
+          "resolucao": "Nos juros compostos, M = C(1 + i)ᵗ.\nM = 2.000 × 1,1³ = 2.000 × 1,331 = R$ 2.662,00.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Calculou por juros simples (2.600), ou usou expoente 2."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou M = C(1 + i)ᵗ e chegou a R$ 2.662,00."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Quanto o regime composto rendeu a mais que o regime simples, no mesmo prazo e à mesma taxa?",
+          "respostaFinal": {
+            "rotulo": "diferença em reais",
+            "aceitas": [
+              "62",
+              "R$ 62,00"
+            ]
+          },
+          "conferencia": "2000*Math.pow(1.1,3) - (2000 + 2000*0.1*3)",
+          "resolucao": "No regime simples, o montante seria 2.000 + 2.000 × 0,1 × 3 = 2.600.\nA diferença é 2.662 − 2.600 = R$ 62,00.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Comparou apenas as taxas, ou calculou o montante simples errado."
+            },
+            {
+              "pct": 50,
+              "desc": "Comparou os dois montantes e chegou a R$ 62,00."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fin-03",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Descontos sucessivos",
+      "tempoSugerido": 12,
+      "enunciado": "Uma loja anuncia um desconto de 20% e, sobre o valor já reduzido, concede mais 10% de desconto no pagamento à vista.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Qual é o desconto total, em porcentagem, sobre o preço original?",
+          "respostaFinal": {
+            "rotulo": "desconto total em porcentagem",
+            "aceitas": [
+              "28%",
+              "28"
+            ]
+          },
+          "conferencia": "100 * (1 - 0.8*0.9)",
+          "resolucao": "Aplicar 20% de desconto é multiplicar por 0,8; aplicar 10%, por 0,9.\nO fator acumulado é 0,8 × 0,9 = 0,72, ou seja, paga-se 72% do preço.\nO desconto total é 100% − 72% = 28%.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Somou os descontos, chegando a 30%, erro clássico de tratar percentuais sucessivos como aditivos."
+            },
+            {
+              "pct": 50,
+              "desc": "Multiplicou os fatores mas não converteu de volta em desconto."
+            },
+            {
+              "pct": 75,
+              "desc": "Chegou ao fator 0,72 e errou apenas a conversão final."
+            },
+            {
+              "pct": 100,
+              "desc": "Concluiu que o desconto total é de 28%."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fin-04",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Aumentos sucessivos",
+      "tempoSugerido": 12,
+      "enunciado": "Um produto sofreu dois reajustes seguidos: 10% e depois 20%.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Qual foi o aumento acumulado, em porcentagem?",
+          "respostaFinal": {
+            "rotulo": "aumento acumulado em porcentagem",
+            "aceitas": [
+              "32%",
+              "32"
+            ]
+          },
+          "conferencia": "100 * (1.1*1.2 - 1)",
+          "resolucao": "O fator acumulado é 1,10 × 1,20 = 1,32.\nLogo, o aumento é de 32%.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Somou os aumentos, chegando a 30%, sem considerar que o segundo incide sobre o valor já reajustado."
+            },
+            {
+              "pct": 50,
+              "desc": "Multiplicou os fatores mas não converteu para porcentagem de aumento."
+            },
+            {
+              "pct": 75,
+              "desc": "Chegou ao fator 1,32 e errou apenas a conversão."
+            },
+            {
+              "pct": 100,
+              "desc": "Concluiu que o aumento acumulado é de 32%."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fin-05",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Aumento seguido de desconto",
+      "tempoSugerido": 12,
+      "enunciado": "O preço de um produto sofreu um aumento de 25% e, depois, um desconto de 20% sobre o novo preço.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "O preço final é maior, menor ou igual ao preço original? Justifique com o cálculo.",
+          "respostaFinal": {
+            "rotulo": "fator acumulado",
+            "aceitas": [
+              "1",
+              "1,0",
+              "1.0"
+            ]
+          },
+          "conferencia": "1.25 * 0.8",
+          "resolucao": "O fator acumulado é 1,25 × 0,80 = 1,00.\nO preço final é exatamente igual ao original.\nIsso acontece porque o desconto de 20% incide sobre um valor maior: 20% de 1,25 é exatamente os 0,25 que haviam sido acrescentados.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Afirmou que o preço aumenta 5% por subtrair os percentuais, sem multiplicar os fatores."
+            },
+            {
+              "pct": 50,
+              "desc": "Multiplicou os fatores mas não interpretou o resultado."
+            },
+            {
+              "pct": 75,
+              "desc": "Chegou ao fator 1,00 e não explicou por que a compensação é exata."
+            },
+            {
+              "pct": 100,
+              "desc": "Mostrou que o fator acumulado é 1,00 e concluiu que o preço final é igual ao original, com a justificativa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fin-06",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Taxas equivalentes",
+      "tempoSugerido": 15,
+      "enunciado": "Uma aplicação rende 1% ao mês em regime de juros compostos.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Qual é a taxa anual equivalente? Use 1,01¹² = 1,1268.",
+          "respostaFinal": {
+            "rotulo": "taxa anual em porcentagem",
+            "aceitas": [
+              "12,68%",
+              "12,68",
+              "12.68"
+            ]
+          },
+          "conferencia": "100 * (1.1268 - 1)",
+          "resolucao": "A taxa equivalente vem da composição dos 12 meses: (1 + i_a) = 1,01¹² = 1,1268.\nLogo i_a = 0,1268, ou seja, 12,68% ao ano.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Multiplicou 1% por 12, chegando a 12%, que é a taxa proporcional e não a equivalente."
+            },
+            {
+              "pct": 50,
+              "desc": "Usou a potência mas não converteu o fator em taxa."
+            },
+            {
+              "pct": 75,
+              "desc": "Chegou a 1,1268 e errou apenas a conversão em porcentagem."
+            },
+            {
+              "pct": 100,
+              "desc": "Concluiu que a taxa anual equivalente é 12,68%."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fin-07",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "À vista ou parcelado",
+      "tempoSugerido": 15,
+      "enunciado": "Um aparelho custa R$ 900,00 à vista ou pode ser pago em 3 parcelas mensais iguais de R$ 340,00.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual é o acréscimo total, em reais e em porcentagem, na compra parcelada?",
+          "respostaFinal": {
+            "rotulo": "acréscimo em porcentagem",
+            "aceitas": [
+              "13,33%",
+              "13,33",
+              "13.33"
+            ],
+            "intervalo": [
+              13.2,
+              13.4
+            ]
+          },
+          "conferencia": "100 * (3*340 - 900) / 900",
+          "resolucao": "Total parcelado: 3 × 340 = 1.020.\nAcréscimo: 1.020 − 900 = R$ 120,00.\nEm porcentagem: 120/900 ≈ 0,1333, ou seja, 13,33%.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Calculou o acréscimo em reais mas dividiu pelo total parcelado em vez do preço à vista."
+            },
+            {
+              "pct": 50,
+              "desc": "Chegou a R$ 120,00 de acréscimo e 13,33% sobre o preço à vista."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Se o comprador tem os R$ 900,00 e consegue uma aplicação que rende 2% ao mês, vale a pena parcelar? Justifique com números.",
+          "resolucao": "Parcelando, ele aplica os 900 e retira 340 por mês.\nApós o primeiro mês: 900 × 1,02 = 918; pagando 340, sobram 578.\nApós o segundo: 578 × 1,02 = 589,56; pagando 340, sobram 249,56.\nApós o terceiro: 249,56 × 1,02 = 254,55; pagando 340, faltam 85,45.\nComo ele fica devendo, o rendimento de 2% ao mês não cobre o acréscimo de 13,33%: não vale a pena parcelar.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Comparou 2% ao mês com 13,33% no total sem colocar as duas grandezas no mesmo prazo, ou apenas afirmou a conclusão sem contas."
+            },
+            {
+              "pct": 50,
+              "desc": "Simulou a aplicação com as retiradas mensais e concluiu, com números, que não compensa parcelar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fin-08",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Inflação e poder de compra",
+      "tempoSugerido": 15,
+      "enunciado": "Em um ano, a inflação foi de 8% e o salário de um trabalhador foi reajustado em 5%.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "O poder de compra do salário aumentou ou diminuiu? De quantos por cento foi essa perda ou ganho?",
+          "respostaFinal": {
+            "rotulo": "perda de poder de compra, em porcentagem",
+            "aceitas": [
+              "2,78%",
+              "2,78",
+              "2.78"
+            ],
+            "intervalo": [
+              2.7,
+              2.9
+            ]
+          },
+          "conferencia": "100 * (1 - 1.05/1.08)",
+          "resolucao": "O poder de compra varia pela razão entre o fator do salário e o fator dos preços: 1,05/1,08 ≈ 0,9722.\nIsso significa uma perda de aproximadamente 2,78%.\nNão são simplesmente os 3 pontos percentuais de diferença: a comparação é uma razão, não uma subtração.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Subtraiu as taxas e respondeu perda de 3%, tratando a comparação como diferença em vez de razão."
+            },
+            {
+              "pct": 50,
+              "desc": "Montou a razão entre os fatores mas não converteu em variação percentual."
+            },
+            {
+              "pct": 75,
+              "desc": "Chegou a 0,9722 e errou apenas a conversão."
+            },
+            {
+              "pct": 100,
+              "desc": "Concluiu que houve perda de aproximadamente 2,78% no poder de compra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fin-09",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Margem sobre custo e sobre venda",
+      "tempoSugerido": 15,
+      "enunciado": "Um comerciante compra um produto por R$ 80,00 e o revende por R$ 100,00.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual é o lucro percentual calculado sobre o custo?",
+          "respostaFinal": {
+            "rotulo": "porcentagem",
+            "aceitas": [
+              "25%",
+              "25"
+            ]
+          },
+          "conferencia": "100 * (100 - 80) / 80",
+          "resolucao": "Lucro: 100 − 80 = 20.\nSobre o custo: 20/80 = 0,25, ou seja, 25%.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Dividiu o lucro pelo preço de venda, respondendo 20%."
+            },
+            {
+              "pct": 50,
+              "desc": "Dividiu o lucro pelo custo e chegou a 25%."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é a margem percentual calculada sobre o preço de venda? Explique por que os dois números diferem.",
+          "respostaFinal": {
+            "rotulo": "porcentagem",
+            "aceitas": [
+              "20%",
+              "20"
+            ]
+          },
+          "conferencia": "100 * (100 - 80) / 100",
+          "resolucao": "Sobre a venda: 20/100 = 0,20, ou seja, 20%.\nOs números diferem porque a base de comparação muda: o mesmo lucro de R$ 20,00 representa uma fração maior de 80 do que de 100.\nPor isso é sempre necessário dizer sobre qual valor o percentual foi calculado.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Repetiu os 25% do item anterior, ou apresentou 20% sem explicar a diferença de base."
+            },
+            {
+              "pct": 50,
+              "desc": "Chegou a 20% e explicou que a diferença vem da base de cálculo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fin-10",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Juro real",
+      "tempoSugerido": 15,
+      "enunciado": "Uma aplicação rendeu 12% em um ano, período em que a inflação foi de 6%.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Qual foi o rendimento real da aplicação?",
+          "respostaFinal": {
+            "rotulo": "rendimento real em porcentagem",
+            "aceitas": [
+              "5,66%",
+              "5,66",
+              "5.66"
+            ],
+            "intervalo": [
+              5.6,
+              5.7
+            ]
+          },
+          "conferencia": "100 * (1.12/1.06 - 1)",
+          "resolucao": "O ganho real é a razão entre os fatores: 1,12/1,06 ≈ 1,0566.\nLogo, o rendimento real foi de aproximadamente 5,66% — e não os 6 pontos percentuais da subtração direta.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Subtraiu as taxas e respondeu 6%, ignorando que a correção é multiplicativa."
+            },
+            {
+              "pct": 50,
+              "desc": "Montou a razão entre os fatores sem converter em porcentagem."
+            },
+            {
+              "pct": 75,
+              "desc": "Chegou a 1,0566 e errou apenas a conversão."
+            },
+            {
+              "pct": 100,
+              "desc": "Concluiu que o rendimento real foi de aproximadamente 5,66%."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fin-11",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Porcentagem de porcentagem",
+      "tempoSugerido": 10,
+      "enunciado": "Em uma empresa com 500 funcionários, 40% trabalham na área comercial e, destes, 30% atuam em vendas externas.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Quantos funcionários atuam em vendas externas?",
+          "respostaFinal": {
+            "rotulo": "funcionários",
+            "aceitas": [
+              "60"
+            ]
+          },
+          "conferencia": "500 * 0.4 * 0.3",
+          "resolucao": "Na área comercial: 0,40 × 500 = 200 funcionários.\nEm vendas externas: 0,30 × 200 = 60 funcionários.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Somou os percentuais (70%) e aplicou ao total, ou aplicou 30% diretamente sobre os 500."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou os percentuais em cadeia mas errou uma das contas."
+            },
+            {
+              "pct": 75,
+              "desc": "Montou 0,4 × 0,3 × 500 e errou apenas o produto."
+            },
+            {
+              "pct": 100,
+              "desc": "Concluiu que são 60 funcionários."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fin-12",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Variação percentual",
+      "tempoSugerido": 12,
+      "enunciado": "A receita de um município passou de R$ 250 milhões em 2024 para R$ 288 milhões em 2026.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual foi a variação percentual da receita no período?",
+          "respostaFinal": {
+            "rotulo": "variação em porcentagem",
+            "aceitas": [
+              "15,2%",
+              "15,2",
+              "15.2"
+            ]
+          },
+          "conferencia": "100 * (288 - 250)/250",
+          "resolucao": "Variação: (288 − 250)/250 = 38/250 = 0,152.\nOu seja, um aumento de 15,2%.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Dividiu pela receita final (288) em vez da inicial, ou apresentou a diferença absoluta como percentual."
+            },
+            {
+              "pct": 50,
+              "desc": "Dividiu pela receita inicial e chegou a 15,2%."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual seria a receita de 2028 se a mesma variação percentual se repetisse no biênio seguinte?",
+          "respostaFinal": {
+            "rotulo": "receita em milhões",
+            "aceitas": [
+              "331,78",
+              "331.78",
+              "331,8"
+            ],
+            "intervalo": [
+              331.5,
+              332.1
+            ]
+          },
+          "conferencia": "288 * 1.152",
+          "resolucao": "Aplicando o mesmo fator: 288 × 1,152 = 331,776.\nA receita seria de aproximadamente R$ 331,78 milhões.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Somou novamente os 38 milhões, tratando o crescimento como constante em valor absoluto."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou o fator sobre a receita de 2026 e chegou a aproximadamente 331,78 milhões."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fin-13",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Divisão proporcional",
+      "tempoSugerido": 12,
+      "enunciado": "Um lucro de R$ 4.500,00 será dividido entre três sócios na proporção 2 : 3 : 4, conforme o capital que cada um investiu.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Quanto recebe cada sócio?",
+          "respostaFinal": {
+            "rotulo": "valor do maior quinhão em reais",
+            "aceitas": [
+              "2000",
+              "R$ 2.000,00"
+            ]
+          },
+          "conferencia": "4500 * 4 / 9",
+          "resolucao": "A soma das partes é 2 + 3 + 4 = 9.\nCada parte vale 4.500/9 = 500.\nOs sócios recebem 2 × 500 = 1.000, 3 × 500 = 1.500 e 4 × 500 = R$ 2.000,00.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Dividiu o total por 3, ignorando a proporção, ou dividiu por 4."
+            },
+            {
+              "pct": 50,
+              "desc": "Somou as partes mas errou o valor de cada uma."
+            },
+            {
+              "pct": 75,
+              "desc": "Achou o valor da parte e errou apenas a distribuição final."
+            },
+            {
+              "pct": 100,
+              "desc": "Concluiu que os sócios recebem R$ 1.000,00, R$ 1.500,00 e R$ 2.000,00."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fin-14",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Desconto comercial simples",
+      "tempoSugerido": 12,
+      "enunciado": "Um título de valor nominal R$ 5.000,00 é descontado 3 meses antes do vencimento, a uma taxa de desconto comercial simples de 2% ao mês.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Qual é o valor recebido no ato do desconto?",
+          "respostaFinal": {
+            "rotulo": "valor em reais",
+            "aceitas": [
+              "4700",
+              "R$ 4.700,00"
+            ]
+          },
+          "conferencia": "5000 - 5000*0.02*3",
+          "resolucao": "No desconto comercial simples, o desconto incide sobre o valor nominal: D = N · i · t.\nD = 5.000 × 0,02 × 3 = R$ 300,00.\nValor recebido: 5.000 − 300 = R$ 4.700,00.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Aplicou o desconto sobre o valor já descontado, ou esqueceu de multiplicar pelos 3 meses."
+            },
+            {
+              "pct": 50,
+              "desc": "Calculou o desconto de R$ 300,00 mas não subtraiu do nominal."
+            },
+            {
+              "pct": 75,
+              "desc": "Montou a subtração e errou apenas a conta."
+            },
+            {
+              "pct": 100,
+              "desc": "Concluiu que o valor recebido é R$ 4.700,00."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fin-15",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Amortização constante",
+      "tempoSugerido": 15,
+      "enunciado": "Uma dívida de R$ 12.000,00 será paga em 24 prestações mensais, com amortização constante do principal e juros de 1% ao mês sobre o saldo devedor do início de cada mês.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual é o valor da primeira prestação?",
+          "respostaFinal": {
+            "rotulo": "valor em reais",
+            "aceitas": [
+              "620",
+              "R$ 620,00"
+            ]
+          },
+          "conferencia": "12000/24 + 12000*0.01",
+          "resolucao": "A amortização mensal é 12.000/24 = R$ 500,00.\nOs juros do primeiro mês incidem sobre o saldo total: 1% de 12.000 = R$ 120,00.\nPrimeira prestação: 500 + 120 = R$ 620,00.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Apresentou apenas a amortização (500), sem somar os juros, ou aplicou os juros sobre a amortização."
+            },
+            {
+              "pct": 50,
+              "desc": "Somou amortização e juros do primeiro mês e chegou a R$ 620,00."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é o valor da segunda prestação?",
+          "respostaFinal": {
+            "rotulo": "valor em reais",
+            "aceitas": [
+              "615",
+              "R$ 615,00"
+            ]
+          },
+          "conferencia": "12000/24 + (12000 - 500)*0.01",
+          "resolucao": "Após a primeira prestação, o saldo devedor cai para 12.000 − 500 = 11.500.\nJuros do segundo mês: 1% de 11.500 = R$ 115,00.\nSegunda prestação: 500 + 115 = R$ 615,00.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Repetiu o valor da primeira prestação, sem atualizar o saldo devedor."
+            },
+            {
+              "pct": 50,
+              "desc": "Atualizou o saldo e chegou a R$ 615,00."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

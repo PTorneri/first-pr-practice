@@ -1,0 +1,1803 @@
+{
+  "tema": "Sequências e recorrências",
+  "questoes": [
+    {
+      "id": "seq-01",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Progressão aritmética",
+      "tempoSugerido": 10,
+      "enunciado": "Uma plataforma de streaming fechou janeiro com 1.200 assinantes e, desde então, tem ganhado exatamente 85 novos assinantes por mês, sem cancelamentos.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Quantos assinantes a plataforma terá 18 meses depois de janeiro?",
+          "respostaFinal": {
+            "rotulo": "assinantes",
+            "aceitas": [
+              "2730"
+            ]
+          },
+          "conferencia": "1200 + 18*85",
+          "resolucao": "É uma PA de primeiro termo 1.200 e razão 85, contada a partir de janeiro.\nEm 18 meses o ganho é 18 × 85 = 1.530.\nLogo, o total é 1.200 + 1.530 = 2.730 assinantes.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta, ou apresentou apenas o número, sem cálculo nem indicação de raciocínio."
+            },
+            {
+              "pct": 25,
+              "desc": "Reconheceu a progressão aritmética mas não somou ao valor inicial, ou usou 17 ou 19 meses, ou multiplicou 1.200 por 85."
+            },
+            {
+              "pct": 50,
+              "desc": "Montou 1.200 + 18 × 85 e chegou à resposta correta: 2.730."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "A partir de quantos meses depois de janeiro a plataforma passa de 5.000 assinantes?",
+          "respostaFinal": {
+            "rotulo": "meses",
+            "aceitas": [
+              "45",
+              "45 meses"
+            ]
+          },
+          "conferencia": "Math.ceil((5000 - 1200) / 85)",
+          "resolucao": "Queremos o menor n com 1.200 + 85n > 5.000.\nDaí 85n > 3.800, ou seja, n > 44,7.\nComo n é inteiro, n = 45. Conferindo: 1.200 + 45 × 85 = 5.025, e com 44 meses seriam 4.940.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta, ou apresentou apenas o número, sem indicar o raciocínio."
+            },
+            {
+              "pct": 25,
+              "desc": "Montou a inequação corretamente mas parou em 44,7 sem arredondar, ou arredondou para baixo (44), ou trocou o sinal e resolveu para 5.000 − 1.200 = 3.800 assinantes finais."
+            },
+            {
+              "pct": 50,
+              "desc": "Resolveu a inequação e concluiu corretamente que são 45 meses."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-02",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Soma de progressão aritmética",
+      "tempoSugerido": 10,
+      "enunciado": "Em um teatro, a primeira fila tem 18 poltronas e cada fila seguinte tem 3 poltronas a mais que a anterior. A plateia tem 22 filas.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Quantas poltronas tem a última fila?",
+          "respostaFinal": {
+            "rotulo": "poltronas",
+            "aceitas": [
+              "81"
+            ]
+          },
+          "conferencia": "18 + 21*3",
+          "resolucao": "O termo geral é a_n = 18 + (n − 1)·3.\nPara n = 22: a_22 = 18 + 21 × 3 = 18 + 63 = 81 poltronas.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou 22 em vez de 21 no número de saltos (chegando a 84), ou apresentou apenas o resultado sem indicar o termo geral."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou o termo geral com 21 saltos e chegou a 81."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é a capacidade total da plateia?",
+          "respostaFinal": {
+            "rotulo": "poltronas no total",
+            "aceitas": [
+              "1089"
+            ]
+          },
+          "conferencia": "(18 + 81) * 22 / 2",
+          "resolucao": "A soma dos termos de uma PA é S = (a_1 + a_n)·n/2.\nS = (18 + 81) × 22 / 2 = 99 × 11 = 1.089 poltronas.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Escreveu a fórmula da soma mas usou o termo errado (por exemplo, a última fila com 84), ou multiplicou a média das filas por 21."
+            },
+            {
+              "pct": 50,
+              "desc": "Somou a PA corretamente e chegou a 1.089."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-03",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Progressão geométrica e depreciação",
+      "tempoSugerido": 12,
+      "enunciado": "Uma transportadora comprou um caminhão por R$ 80.000,00. O valor de revenda do veículo cai 15% a cada ano em relação ao valor do ano anterior.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual será o valor de revenda do caminhão depois de 3 anos?",
+          "respostaFinal": {
+            "rotulo": "valor em reais",
+            "aceitas": [
+              "49130",
+              "R$ 49.130,00",
+              "49.130"
+            ]
+          },
+          "conferencia": "80000 * Math.pow(0.85, 3)",
+          "resolucao": "Perder 15% por ano é multiplicar por 0,85 a cada ano — uma PG de razão 0,85.\nDepois de 3 anos: 80.000 × 0,85³ = 80.000 × 0,614125.\nLogo, o valor é R$ 49.130,00.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta, ou apenas o número sem indicar o raciocínio."
+            },
+            {
+              "pct": 25,
+              "desc": "Descontou 15% de forma linear (80.000 − 3 × 12.000 = 44.000), tratando a queda como PA em vez de PG."
+            },
+            {
+              "pct": 50,
+              "desc": "Reconheceu a razão 0,85 mas elevou ao expoente errado (0,85² ou 0,85⁴), ou apresentou 0,85³ sem concluir o valor."
+            },
+            {
+              "pct": 75,
+              "desc": "Montou 80.000 × 0,85³ corretamente e errou apenas a conta final."
+            },
+            {
+              "pct": 100,
+              "desc": "Chegou ao valor correto de R$ 49.130,00."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-04",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Recorrência linear",
+      "tempoSugerido": 15,
+      "enunciado": "Uma sequência é definida por a₁ = 2 e, para todo n ≥ 1, a_{n+1} = 2·a_n − 1.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Determine a₅.",
+          "respostaFinal": {
+            "rotulo": "valor de a₅",
+            "aceitas": [
+              "17"
+            ]
+          },
+          "conferencia": "Math.pow(2,4) + 1",
+          "resolucao": "Aplicando a regra: a₂ = 3, a₃ = 5, a₄ = 9, a₅ = 17.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Aplicou a recorrência mas perdeu um passo (parou em a₄ = 9 ou avançou até a₆ = 33), ou subtraiu 1 antes de dobrar."
+            },
+            {
+              "pct": 50,
+              "desc": "Iterou corretamente até a₅ = 17."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Mostre que a_n = 2^(n−1) + 1 para todo n ≥ 1 e use essa fórmula para calcular a₁₀.",
+          "respostaFinal": {
+            "rotulo": "valor de a₁₀",
+            "aceitas": [
+              "513"
+            ]
+          },
+          "conferencia": "Math.pow(2,9) + 1",
+          "resolucao": "Escrevendo b_n = a_n − 1, a recorrência vira b_{n+1} = 2·b_n, com b₁ = 1.\nLogo b_n = 2^(n−1) e a_n = 2^(n−1) + 1.\nPara n = 10: a₁₀ = 2⁹ + 1 = 512 + 1 = 513.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta, ou apenas o valor de a₁₀ sem qualquer justificativa da fórmula."
+            },
+            {
+              "pct": 25,
+              "desc": "Verificou a fórmula em alguns termos sem justificar o caso geral, ou usou 2¹⁰ + 1 = 1.025 por errar o expoente."
+            },
+            {
+              "pct": 50,
+              "desc": "Justificou a fórmula (por substituição b_n = a_n − 1 ou por indução) e chegou a a₁₀ = 513."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-05",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Soma de PA com termo geral",
+      "tempoSugerido": 15,
+      "enunciado": "Uma cooperativa distribui cestas em etapas. Na etapa 1 são entregues 1 cesta; na etapa 2, 4 cestas; na etapa 3, 7 cestas; e assim por diante, sempre 3 cestas a mais que na etapa anterior.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Escreva, em função de N, quantas cestas são entregues na etapa N e quantas foram entregues no total até o fim da etapa N.",
+          "resolucao": "As quantidades formam uma PA de primeiro termo 1 e razão 3, então na etapa N são entregues 1 + (N − 1)·3 = 3N − 2 cestas.\nO total é a soma da PA: S_N = [1 + (3N − 2)]·N/2 = (3N − 1)·N/2, ou seja, (3N² − N)/2.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Acertou o termo geral 3N − 2 mas não chegou à soma, ou somou como se a razão fosse 2."
+            },
+            {
+              "pct": 50,
+              "desc": "Apresentou 3N − 2 para a etapa e (3N² − N)/2 para o total, com a passagem indicada."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Quantas cestas terão sido entregues ao fim da etapa 20?",
+          "respostaFinal": {
+            "rotulo": "cestas",
+            "aceitas": [
+              "590"
+            ]
+          },
+          "conferencia": "(3*20*20 - 20)/2",
+          "resolucao": "Usando S_N = (3N² − N)/2 com N = 20: (3 × 400 − 20)/2 = (1.200 − 20)/2 = 590 cestas.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Substituiu na fórmula mas errou a conta, ou respondeu 58 (a quantidade entregue apenas na etapa 20)."
+            },
+            {
+              "pct": 50,
+              "desc": "Chegou a 590 cestas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-06",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Progressão geométrica e soma",
+      "tempoSugerido": 12,
+      "enunciado": "Uma campanha de doações começou com 3 doadores no primeiro dia e, a cada dia, o número de novos doadores foi o dobro do dia anterior.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Quantos novos doadores a campanha recebeu no décimo dia?",
+          "respostaFinal": {
+            "rotulo": "doadores no 10º dia",
+            "aceitas": [
+              "1536"
+            ]
+          },
+          "conferencia": "3 * Math.pow(2,9)",
+          "resolucao": "É uma PG de primeiro termo 3 e razão 2: a_n = 3·2^(n−1).\nNo décimo dia: 3 × 2⁹ = 3 × 512 = 1.536 doadores.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou expoente 10 em vez de 9 (chegando a 3.072), ou somou 2 a cada dia em vez de dobrar."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou o termo geral da PG e chegou a 1.536."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Quantos doadores a campanha acumulou nos dez primeiros dias?",
+          "respostaFinal": {
+            "rotulo": "doadores acumulados",
+            "aceitas": [
+              "3069"
+            ]
+          },
+          "conferencia": "3 * (Math.pow(2,10) - 1)",
+          "resolucao": "A soma de uma PG é S = a₁·(qⁿ − 1)/(q − 1).\nS = 3 × (2¹⁰ − 1)/(2 − 1) = 3 × 1.023 = 3.069 doadores.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Escreveu a fórmula da soma mas usou 2⁹ ou esqueceu de subtrair 1, ou apenas dobrou o termo do décimo dia."
+            },
+            {
+              "pct": 50,
+              "desc": "Somou a PG corretamente e chegou a 3.069."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-07",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Soma telescópica",
+      "tempoSugerido": 15,
+      "enunciado": "Considere a soma S = 1/(1·2) + 1/(2·3) + 1/(3·4) + … + 1/(50·51).",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Mostre que 1/(n(n+1)) = 1/n − 1/(n+1) e explique por que essa igualdade simplifica o cálculo de S.",
+          "resolucao": "Somando as frações do lado direito: 1/n − 1/(n+1) = [(n+1) − n]/[n(n+1)] = 1/[n(n+1)].\nAo escrever cada parcela nessa forma, o termo −1/(n+1) de uma parcela cancela o +1/(n+1) da parcela seguinte: a soma é telescópica e sobram apenas o primeiro e o último termos.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Verificou a igualdade em um caso numérico sem fazer a conta geral, ou provou a igualdade sem explicar o cancelamento."
+            },
+            {
+              "pct": 50,
+              "desc": "Provou a igualdade somando as frações e explicou o cancelamento entre parcelas consecutivas."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Determine o valor exato de S.",
+          "respostaFinal": {
+            "rotulo": "valor de S",
+            "aceitas": [
+              "50/51"
+            ]
+          },
+          "conferencia": "1 - 1/51",
+          "resolucao": "Pelo cancelamento, S = 1/1 − 1/51.\nLogo S = 50/51.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Chegou à forma 1 − 1/51 mas não concluiu a fração, ou terminou em 1/1 − 1/50 por errar o último termo."
+            },
+            {
+              "pct": 50,
+              "desc": "Concluiu que S = 50/51."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-08",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "PA aplicada a parcelamento",
+      "tempoSugerido": 15,
+      "enunciado": "Uma dívida de R$ 9.750,00 será quitada em parcelas mensais crescentes: a primeira é de R$ 300,00 e cada parcela seguinte é R$ 50,00 maior que a anterior. O total pago corresponde exatamente à dívida.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Em quantas parcelas a dívida será quitada?",
+          "respostaFinal": {
+            "rotulo": "parcelas",
+            "aceitas": [
+              "15",
+              "15 parcelas"
+            ]
+          },
+          "conferencia": "(-275 + Math.sqrt(275*275 + 4*25*9750)) / (2*25)",
+          "resolucao": "A soma das n parcelas é S = n·[2·300 + (n − 1)·50]/2 = 25n² + 275n.\nIgualando a 9.750: 25n² + 275n − 9.750 = 0, ou n² + 11n − 390 = 0.\nAs raízes são n = 15 e n = −26; como n é positivo, são 15 parcelas.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta, ou apenas o número, sem equacionar."
+            },
+            {
+              "pct": 25,
+              "desc": "Montou a soma da PA mas errou ao isolar (esqueceu o fator n/2, por exemplo), ou dividiu 9.750 pela primeira parcela."
+            },
+            {
+              "pct": 50,
+              "desc": "Montou a equação do segundo grau, resolveu e concluiu que são 15 parcelas."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é o valor da última parcela?",
+          "respostaFinal": {
+            "rotulo": "valor em reais",
+            "aceitas": [
+              "1000",
+              "R$ 1.000,00",
+              "1.000"
+            ]
+          },
+          "conferencia": "300 + 14*50",
+          "resolucao": "A última parcela é a_15 = 300 + (15 − 1)·50 = 300 + 700 = R$ 1.000,00.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou 15 saltos em vez de 14 (chegando a 1.050), ou dividiu o total pelo número de parcelas."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou o termo geral e chegou a R$ 1.000,00."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-09",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Recorrência com estoque",
+      "tempoSugerido": 12,
+      "enunciado": "Um depósito começa a semana com 480 caixas. Toda semana saem 60% das caixas presentes no início da semana e, ao fim dela, chegam 100 caixas novas.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Escreva a recorrência que dá o estoque E_{n+1} do início da semana seguinte em função do estoque E_n e calcule o estoque no início da terceira semana.",
+          "respostaFinal": {
+            "rotulo": "caixas no início da 3ª semana",
+            "aceitas": [
+              "216,8",
+              "216.8"
+            ]
+          },
+          "conferencia": "0.4*(0.4*480 + 100) + 100",
+          "resolucao": "Se saem 60%, restam 40%: E_{n+1} = 0,4·E_n + 100.\nSemana 2: E₂ = 0,4 × 480 + 100 = 192 + 100 = 292.\nSemana 3: E₃ = 0,4 × 292 + 100 = 116,8 + 100 = 216,8 caixas.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Escreveu a recorrência com 0,6 em vez de 0,4, ou aplicou apenas um passo e parou em 292."
+            },
+            {
+              "pct": 50,
+              "desc": "Montou E_{n+1} = 0,4·E_n + 100 e chegou a 216,8 caixas."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Se o processo se repetir indefinidamente, de que valor o estoque se aproxima? Justifique.",
+          "respostaFinal": {
+            "rotulo": "estoque de equilíbrio",
+            "aceitas": [
+              "166,67",
+              "166.67",
+              "500/3"
+            ],
+            "intervalo": [
+              166,
+              167
+            ]
+          },
+          "conferencia": "100 / (1 - 0.4)",
+          "resolucao": "No equilíbrio o estoque para de mudar: E = 0,4·E + 100.\nDaí 0,6·E = 100 e E = 100/0,6 ≈ 166,67 caixas.\nComo o fator 0,4 é menor que 1, a diferença para esse valor é multiplicada por 0,4 a cada semana e tende a zero — o estoque converge para ele.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Calculou alguns termos e observou a estabilização sem equacionar o ponto fixo, ou resolveu E = 0,6E + 100 e chegou a 250."
+            },
+            {
+              "pct": 50,
+              "desc": "Equacionou o ponto fixo, chegou a ≈ 166,67 e justificou a convergência pelo fator menor que 1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-10",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Divisibilidade em sequência",
+      "tempoSugerido": 12,
+      "enunciado": "Os números naturais são distribuídos, em ordem crescente e um a um, em cinco colunas numeradas de 1 a 5, sempre da coluna 1 para a coluna 5 e recomeçando na coluna 1.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Em qual coluna cai o número 2.026?",
+          "respostaFinal": {
+            "rotulo": "coluna",
+            "aceitas": [
+              "1",
+              "coluna 1"
+            ]
+          },
+          "conferencia": "2026 - 5*Math.floor(2025/5)",
+          "resolucao": "A coluna depende do resto da divisão por 5: resto 1 vai para a coluna 1, resto 2 para a coluna 2, e assim por diante, com resto 0 na coluna 5.\nComo 2.026 = 5 × 405 + 1, o resto é 1.\nLogo, o número 2.026 cai na coluna 1.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Dividiu por 5 mas associou o resto à coluna errada (por exemplo, resto 1 na coluna 2), ou usou o quociente no lugar do resto."
+            },
+            {
+              "pct": 50,
+              "desc": "Usou o resto da divisão por 5 e concluiu corretamente que é a coluna 1."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é o menor número maior que 2.026 que cai na mesma coluna que 1.999? Justifique.",
+          "respostaFinal": {
+            "rotulo": "número",
+            "aceitas": [
+              "2029"
+            ]
+          },
+          "conferencia": "2029",
+          "resolucao": "1.999 = 5 × 399 + 4, então 1.999 está na coluna 4.\nOs números da coluna 4 são os que deixam resto 4 na divisão por 5.\nDepois de 2.026, os candidatos são 2.027 (resto 2), 2.028 (resto 3) e 2.029 = 5 × 405 + 4, que tem resto 4.\nLogo, o número procurado é 2.029.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Identificou a coluna de 1.999 mas não achou o próximo número, ou apresentou 2.024 (anterior a 2.026)."
+            },
+            {
+              "pct": 50,
+              "desc": "Identificou a coluna 4 pelo resto e concluiu que o número é 2.029."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-11",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Números figurados",
+      "tempoSugerido": 12,
+      "enunciado": "Um mosaico é montado em etapas com ladrilhos quadrados. A etapa 1 usa 1 ladrilho; a etapa 2 forma um quadrado 2×2; a etapa 3, um quadrado 3×3; e assim por diante. Em cada etapa, o quadrado anterior é refeito por inteiro.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Quantos ladrilhos são acrescentados da etapa N − 1 para a etapa N? Justifique.",
+          "resolucao": "A etapa N usa N² ladrilhos e a etapa anterior usa (N − 1)².\nA diferença é N² − (N − 1)² = N² − (N² − 2N + 1) = 2N − 1 ladrilhos.\nSão exatamente os ímpares: 3, 5, 7, …",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Percebeu que os acréscimos são ímpares por observação dos casos, sem chegar à expressão 2N − 1."
+            },
+            {
+              "pct": 50,
+              "desc": "Calculou N² − (N − 1)² e concluiu que são 2N − 1 ladrilhos."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Somando todas as etapas de 1 a 12, quantos ladrilhos foram usados no total?",
+          "respostaFinal": {
+            "rotulo": "ladrilhos",
+            "aceitas": [
+              "650"
+            ]
+          },
+          "conferencia": "12*13*25/6",
+          "resolucao": "O total é 1² + 2² + … + 12², que vale N(N + 1)(2N + 1)/6.\nCom N = 12: 12 × 13 × 25/6 = 3.900/6 = 650 ladrilhos.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Somou apenas os ladrilhos da última etapa (144), ou somou 1 + 2 + … + 12 = 78 em vez dos quadrados."
+            },
+            {
+              "pct": 50,
+              "desc": "Somou os quadrados e chegou a 650 ladrilhos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-12",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "PA e PA de segunda ordem",
+      "tempoSugerido": 15,
+      "enunciado": "Uma fábrica registrou a produção diária de uma nova linha: 12 unidades no primeiro dia, 17 no segundo, 24 no terceiro, 33 no quarto e 44 no quinto.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Mostre que as diferenças entre dias consecutivos formam uma progressão aritmética e determine a produção do oitavo dia.",
+          "respostaFinal": {
+            "rotulo": "unidades no 8º dia",
+            "aceitas": [
+              "89"
+            ]
+          },
+          "conferencia": "44 + 13 + 15 + 17",
+          "resolucao": "As diferenças são 5, 7, 9 e 11 — uma PA de razão 2.\nAs próximas diferenças são 13, 15 e 17.\n6º dia = 44 + 13 = 57; 7º dia = 57 + 15 = 72; 8º dia = 72 + 17 = 89 unidades.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Identificou as diferenças 5, 7, 9, 11 mas errou ao continuar a sequência, ou tratou a produção em si como PA de razão constante."
+            },
+            {
+              "pct": 50,
+              "desc": "Reconheceu a PA das diferenças e chegou a 89 unidades no oitavo dia."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual foi a produção acumulada nos cinco primeiros dias?",
+          "respostaFinal": {
+            "rotulo": "unidades acumuladas",
+            "aceitas": [
+              "130"
+            ]
+          },
+          "conferencia": "12+17+24+33+44",
+          "resolucao": "Basta somar os cinco valores dados: 12 + 17 + 24 + 33 + 44 = 130 unidades.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Errou a soma, ou aplicou a fórmula da soma de PA, que não vale aqui porque a sequência não é uma PA."
+            },
+            {
+              "pct": 50,
+              "desc": "Somou corretamente e chegou a 130 unidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-13",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "PG infinita",
+      "tempoSugerido": 12,
+      "enunciado": "Uma bola é solta de uma altura de 2,4 m. A cada choque com o chão, ela sobe até 3/4 da altura anterior.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Que altura a bola atinge após o terceiro choque?",
+          "respostaFinal": {
+            "rotulo": "altura em metros",
+            "aceitas": [
+              "1,0125",
+              "1.0125"
+            ]
+          },
+          "conferencia": "2.4 * Math.pow(0.75, 3)",
+          "resolucao": "É uma PG de razão 3/4 começando em 2,4.\nApós o terceiro choque: 2,4 × (3/4)³ = 2,4 × 27/64.\nLogo, a altura é 1,0125 m.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou expoente 2 ou 4, ou subtraiu 3/4 da altura em vez de multiplicar."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou a PG e chegou a 1,0125 m."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Somando a descida inicial e todas as subidas e descidas seguintes, qual é a distância total percorrida pela bola até parar?",
+          "respostaFinal": {
+            "rotulo": "distância em metros",
+            "aceitas": [
+              "16,8",
+              "16.8"
+            ]
+          },
+          "conferencia": "2.4 + 2 * (2.4*0.75) / (1 - 0.75)",
+          "resolucao": "A descida inicial vale 2,4 m.\nDepois disso, cada subida é acompanhada de uma descida igual, então a distância restante é 2 vezes a soma das subidas.\nAs subidas formam a PG 1,8; 1,35; … de razão 3/4, cuja soma é 1,8/(1 − 3/4) = 7,2.\nTotal: 2,4 + 2 × 7,2 = 16,8 m.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Somou a PG infinita mas esqueceu de dobrar as subidas, ou esqueceu de somar a descida inicial."
+            },
+            {
+              "pct": 50,
+              "desc": "Somou corretamente a PG infinita, dobrou as subidas e chegou a 16,8 m."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-14",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Recorrência com invariante",
+      "tempoSugerido": 18,
+      "enunciado": "Uma urna contém 5 fichas azuis e 8 fichas verdes. Em cada rodada, retira-se uma ficha ao acaso, ela é devolvida à urna e acrescentam-se 2 fichas azuis e 2 verdes, independentemente da cor sorteada.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Determine a quantidade de fichas verdes menos a quantidade de azuis após 30 rodadas.",
+          "respostaFinal": {
+            "rotulo": "diferença",
+            "aceitas": [
+              "3"
+            ]
+          },
+          "conferencia": "8 - 5",
+          "resolucao": "A cada rodada as duas cores recebem a mesma quantidade de fichas, então a diferença entre elas não muda: é um invariante.\nNo início a diferença é 8 − 5 = 3.\nDepois de 30 rodadas — ou de quantas forem — a diferença continua sendo 3.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Calculou as duas quantidades finais separadamente e errou a subtração, ou somou 2 apenas a uma das cores por rodada."
+            },
+            {
+              "pct": 50,
+              "desc": "Percebeu que a diferença é invariante e concluiu que ela vale 3."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Após quantas rodadas a urna terá 133 fichas no total?",
+          "respostaFinal": {
+            "rotulo": "rodadas",
+            "aceitas": [
+              "30",
+              "30 rodadas"
+            ]
+          },
+          "conferencia": "(133 - 13) / 4",
+          "resolucao": "A urna começa com 13 fichas e ganha 4 por rodada.\nApós n rodadas há 13 + 4n fichas.\nDe 13 + 4n = 133 vem 4n = 120 e n = 30 rodadas.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Montou a PA mas esqueceu o total inicial, ou usou 2 fichas por rodada em vez de 4."
+            },
+            {
+              "pct": 50,
+              "desc": "Montou 13 + 4n = 133 e concluiu que são 30 rodadas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-15",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "PA com termos em progressão",
+      "tempoSugerido": 12,
+      "enunciado": "Três números formam uma progressão aritmética crescente. Sua soma é 42 e o produto dos extremos é 180.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Determine os três números.",
+          "respostaFinal": {
+            "rotulo": "o menor dos três",
+            "aceitas": [
+              "10"
+            ]
+          },
+          "conferencia": "14 - 4",
+          "resolucao": "Chamando os termos de (x − r), x e (x + r), a soma é 3x = 42, logo x = 14.\nO produto dos extremos é (14 − r)(14 + r) = 196 − r² = 180, então r² = 16 e r = 4.\nOs três números são 10, 14 e 18 — e, de fato, 10 + 14 + 18 = 42 e 10 × 18 = 180.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Chamou os termos de x, x + r e x + 2r sem simetrizar e travou no sistema, ou achou x = 14 e parou."
+            },
+            {
+              "pct": 50,
+              "desc": "Usou a forma simétrica e chegou a r² = 16 sem concluir os três números."
+            },
+            {
+              "pct": 75,
+              "desc": "Montou tudo corretamente e errou apenas ao listar os termos."
+            },
+            {
+              "pct": 100,
+              "desc": "Concluiu que os números são 10, 14 e 18, sendo 10 o menor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-16",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Recorrência de duas etapas",
+      "tempoSugerido": 15,
+      "enunciado": "Uma sequência é definida por b₁ = 1, b₂ = 3 e b_{n+2} = b_{n+1} + 2·b_n para n ≥ 1.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Calcule b₆.",
+          "respostaFinal": {
+            "rotulo": "valor de b₆",
+            "aceitas": [
+              "43"
+            ]
+          },
+          "conferencia": "21 + 2*11",
+          "resolucao": "b₃ = 3 + 2 × 1 = 5.\nb₄ = 5 + 2 × 3 = 11.\nb₅ = 11 + 2 × 5 = 21.\nb₆ = 21 + 2 × 11 = 43.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Trocou a ordem dos termos na recorrência (usou 2·b_{n+1} + b_n), ou parou em b₅."
+            },
+            {
+              "pct": 50,
+              "desc": "Iterou corretamente e chegou a b₆ = 43."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Verifique que todos os termos dessa sequência são ímpares e explique por quê.",
+          "resolucao": "Os dois primeiros termos, 1 e 3, são ímpares.\nSe b_n e b_{n+1} são ímpares, então 2·b_n é par e b_{n+2} = b_{n+1} + 2·b_n é ímpar + par = ímpar.\nComo a propriedade vale para os dois primeiros e se propaga, todos os termos são ímpares.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Verificou a paridade nos primeiros termos calculados, sem argumento que valha para todos."
+            },
+            {
+              "pct": 50,
+              "desc": "Argumentou que 2·b_n é sempre par e que a soma com um ímpar mantém a paridade, cobrindo o caso geral."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-17",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Interpolação em PA",
+      "tempoSugerido": 10,
+      "enunciado": "Entre os números 7 e 63 devem ser inseridos alguns números de modo que a sequência inteira seja uma progressão aritmética de razão 4.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Quantos números devem ser inseridos entre 7 e 63?",
+          "respostaFinal": {
+            "rotulo": "quantidade inserida",
+            "aceitas": [
+              "13"
+            ]
+          },
+          "conferencia": "(63 - 7)/4 - 1",
+          "resolucao": "De 7 a 63 há uma diferença de 56.\nCom razão 4, são 56/4 = 14 saltos, o que corresponde a 15 termos no total.\nComo 7 e 63 já existem, devem ser inseridos 15 − 2 = 13 números.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta, ou apenas o número sem indicar o raciocínio."
+            },
+            {
+              "pct": 25,
+              "desc": "Calculou 56/4 = 14 e parou aí, sem descontar os extremos, ou dividiu 63 por 4."
+            },
+            {
+              "pct": 50,
+              "desc": "Contou os saltos e os termos, mas errou apenas ao descontar os extremos."
+            },
+            {
+              "pct": 75,
+              "desc": "Chegou a 15 termos totais e concluiu 14 inseridos, descontando só um extremo."
+            },
+            {
+              "pct": 100,
+              "desc": "Concluiu que devem ser inseridos 13 números."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-18",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "PG e crescimento populacional",
+      "tempoSugerido": 15,
+      "enunciado": "Uma colônia de bactérias dobra de tamanho a cada 20 minutos. Às 8h da manhã havia 500 bactérias.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Quantas bactérias haverá às 11h da manhã?",
+          "respostaFinal": {
+            "rotulo": "bactérias",
+            "aceitas": [
+              "256000"
+            ]
+          },
+          "conferencia": "500 * Math.pow(2, 9)",
+          "resolucao": "De 8h a 11h são 3 horas, ou seja, 180 minutos.\nEm intervalos de 20 minutos, isso dá 180/20 = 9 duplicações.\nLogo: 500 × 2⁹ = 500 × 512 = 256.000 bactérias.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Contou 3 duplicações (uma por hora), ou multiplicou 500 por 9."
+            },
+            {
+              "pct": 50,
+              "desc": "Contou 9 duplicações mas errou a potência ou a conta final."
+            },
+            {
+              "pct": 75,
+              "desc": "Montou 500 × 2⁹ corretamente e errou apenas o produto."
+            },
+            {
+              "pct": 100,
+              "desc": "Chegou a 256.000 bactérias."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Quantos minutos depois das 8h a colônia terá passado de 1 milhão de bactérias? Indique também o horário.",
+          "respostaFinal": {
+            "rotulo": "minutos após as 8h",
+            "aceitas": [
+              "220"
+            ]
+          },
+          "conferencia": "11 * 20",
+          "resolucao": "Precisamos de 500 × 2ⁿ > 1.000.000, ou seja, 2ⁿ > 2.000.\nComo 2¹⁰ = 1.024 e 2¹¹ = 2.048, o menor n é 11.\nSão 11 × 20 = 220 minutos após as 8h, isto é, 3h40 — às 11h40.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Montou a desigualdade 2ⁿ > 2.000 mas parou em n = 10 sem verificar que 1.024 não basta, ou não converteu as duplicações em minutos."
+            },
+            {
+              "pct": 50,
+              "desc": "Encontrou n = 11 e errou apenas a conversão para minutos."
+            },
+            {
+              "pct": 75,
+              "desc": "Chegou a 220 minutos e errou a conversão para o horário."
+            },
+            {
+              "pct": 100,
+              "desc": "Concluiu que são 220 minutos, ou seja, 11h40."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-19",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Somatório com termo geral",
+      "tempoSugerido": 12,
+      "enunciado": "Um edifício em construção tem, no primeiro andar, 3 apartamentos; no segundo, 6; no terceiro, 9; e assim por diante, sempre 3 a mais que o andar anterior.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Quantos apartamentos há no décimo andar?",
+          "respostaFinal": {
+            "rotulo": "apartamentos",
+            "aceitas": [
+              "30"
+            ]
+          },
+          "conferencia": "3*10",
+          "resolucao": "O andar n tem 3n apartamentos.\nPara n = 10: 3 × 10 = 30 apartamentos.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Somou os andares em vez de identificar o termo do décimo andar, ou usou 3 + 10."
+            },
+            {
+              "pct": 50,
+              "desc": "Identificou o termo geral 3n e chegou a 30 apartamentos."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Quantos apartamentos tem o edifício inteiro, se ele tem 10 andares?",
+          "respostaFinal": {
+            "rotulo": "apartamentos no total",
+            "aceitas": [
+              "165"
+            ]
+          },
+          "conferencia": "3 * 10 * 11 / 2",
+          "resolucao": "O total é 3 × (1 + 2 + … + 10) = 3 × 55.\nLogo, o edifício tem 165 apartamentos.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Multiplicou 30 por 10, tratando todos os andares como iguais ao último."
+            },
+            {
+              "pct": 50,
+              "desc": "Somou a PA e chegou a 165 apartamentos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-20",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Recorrência com desconto",
+      "tempoSugerido": 15,
+      "enunciado": "Um fundo começa com R$ 50.000,00. Todo mês ele rende 1% sobre o saldo do início do mês e, logo depois, o titular retira R$ 800,00.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Escreva a recorrência do saldo e calcule o saldo após dois meses.",
+          "respostaFinal": {
+            "rotulo": "saldo em reais",
+            "aceitas": [
+              "49397",
+              "R$ 49.397,00"
+            ]
+          },
+          "conferencia": "(50000*1.01 - 800)*1.01 - 800",
+          "resolucao": "A recorrência é S_{n+1} = 1,01·S_n − 800.\nMês 1: 50.000 × 1,01 − 800 = 50.500 − 800 = 49.700.\nMês 2: 49.700 × 1,01 − 800 = 50.197 − 800 = R$ 49.397,00.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Descontou os 800 antes de aplicar o rendimento, ou aplicou o rendimento sobre o valor inicial nos dois meses."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou a recorrência na ordem certa nos dois meses e chegou a R$ 49.397,00."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual saldo inicial faria o fundo se manter constante para sempre? Justifique.",
+          "respostaFinal": {
+            "rotulo": "saldo em reais",
+            "aceitas": [
+              "80000",
+              "R$ 80.000,00"
+            ]
+          },
+          "conferencia": "800 / 0.01",
+          "resolucao": "Para o saldo não mudar é preciso que S = 1,01·S − 800.\nDaí 0,01·S = 800 e S = R$ 80.000,00.\nNesse valor o rendimento mensal é exatamente 800, que é o que se retira.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Testou valores sem equacionar o ponto fixo, ou dividiu 800 por 1,01."
+            },
+            {
+              "pct": 50,
+              "desc": "Equacionou S = 1,01·S − 800 e concluiu que o saldo é R$ 80.000,00."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-21",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Termos negativos em PA",
+      "tempoSugerido": 10,
+      "enunciado": "Uma progressão aritmética tem primeiro termo 94 e razão −7.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Qual é o primeiro termo negativo dessa progressão e qual a sua posição?",
+          "respostaFinal": {
+            "rotulo": "posição do primeiro termo negativo",
+            "aceitas": [
+              "15",
+              "n = 15"
+            ]
+          },
+          "conferencia": "Math.floor(94/7) + 2",
+          "resolucao": "O termo geral é a_n = 94 − 7(n − 1) = 101 − 7n.\nQueremos 101 − 7n < 0, ou seja, n > 101/7 ≈ 14,4.\nO menor inteiro é n = 15, e a_15 = 101 − 105 = −4.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta, ou apenas a resposta sem indicar o raciocínio."
+            },
+            {
+              "pct": 25,
+              "desc": "Montou o termo geral mas errou a distribuição do sinal, ou resolveu a desigualdade e arredondou para 14."
+            },
+            {
+              "pct": 50,
+              "desc": "Resolveu a desigualdade e chegou a n ≈ 14,4 sem concluir a posição inteira."
+            },
+            {
+              "pct": 75,
+              "desc": "Chegou a n = 15 mas errou o valor do termo."
+            },
+            {
+              "pct": 100,
+              "desc": "Concluiu que a posição é 15 e o termo vale −4."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-22",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "PG com meia-vida",
+      "tempoSugerido": 12,
+      "enunciado": "Um medicamento tem meia-vida de 6 horas no organismo: a cada 6 horas, a quantidade presente cai pela metade. Um paciente recebe 640 mg.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Quantos miligramas restam depois de 30 horas?",
+          "respostaFinal": {
+            "rotulo": "miligramas",
+            "aceitas": [
+              "20",
+              "20 mg"
+            ]
+          },
+          "conferencia": "640 / Math.pow(2, 5)",
+          "resolucao": "Em 30 horas cabem 30/6 = 5 meias-vidas.\nEntão restam 640/2⁵ = 640/32 = 20 mg.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Contou 30 meias-vidas, ou dividiu 640 por 5, ou usou 6 divisões."
+            },
+            {
+              "pct": 50,
+              "desc": "Contou 5 meias-vidas e chegou a 20 mg."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Depois de quantas horas restará menos de 1 mg? Justifique.",
+          "respostaFinal": {
+            "rotulo": "horas",
+            "aceitas": [
+              "60",
+              "60 horas"
+            ]
+          },
+          "conferencia": "6 * 10",
+          "resolucao": "Queremos 640/2ⁿ < 1, ou seja, 2ⁿ > 640.\nComo 2⁹ = 512 e 2¹⁰ = 1.024, o menor n é 10.\nConferindo: em 10 meias-vidas restam 640/1.024 = 0,625 mg, já abaixo de 1 mg.\nSão 10 × 6 = 60 horas.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Montou a desigualdade 2ⁿ > 640 mas não converteu para horas, ou parou em n = 9."
+            },
+            {
+              "pct": 50,
+              "desc": "Concluiu que bastam 10 meias-vidas, isto é, 60 horas, verificando que restam 0,625 mg."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-23",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Sequência definida por partes",
+      "tempoSugerido": 15,
+      "enunciado": "Uma sequência começa em c₁ = 26 e segue esta regra: se o termo é par, o próximo é a sua metade; se é ímpar, o próximo é o triplo dele somado a 1.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Escreva os oito primeiros termos da sequência.",
+          "resolucao": "26 é par → 13. 13 é ímpar → 40. 40 é par → 20. 20 → 10. 10 → 5. 5 é ímpar → 16. 16 → 8.\nOs oito primeiros termos são: 26, 13, 40, 20, 10, 5, 16, 8.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Aplicou as duas regras trocadas em algum passo, ou parou antes do oitavo termo."
+            },
+            {
+              "pct": 50,
+              "desc": "Listou corretamente 26, 13, 40, 20, 10, 5, 16, 8."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "A partir de que termo a sequência entra no ciclo 4, 2, 1? Justifique.",
+          "respostaFinal": {
+            "rotulo": "posição do termo 4",
+            "aceitas": [
+              "9"
+            ]
+          },
+          "conferencia": "9",
+          "resolucao": "Continuando: o oitavo termo é 8, o nono é 4, o décimo é 2 e o décimo primeiro é 1.\nDe 1, a regra do ímpar leva a 4 outra vez, fechando o ciclo 4, 2, 1.\nLogo, a sequência entra no ciclo no nono termo.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Chegou ao ciclo mas contou a posição errada, ou parou em 8 sem prosseguir."
+            },
+            {
+              "pct": 50,
+              "desc": "Mostrou a continuação até 4, 2, 1 e concluiu que o ciclo começa no 9º termo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-24",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "PA de duas variáveis",
+      "tempoSugerido": 15,
+      "enunciado": "Dois planos de celular começam com preços diferentes e sofrem reajustes anuais fixos. O plano A custa hoje R$ 60,00 e sobe R$ 8,00 por ano; o plano B custa hoje R$ 96,00 e sobe R$ 3,00 por ano.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Daqui a quantos anos os dois planos custarão o mesmo?",
+          "respostaFinal": {
+            "rotulo": "anos",
+            "aceitas": [
+              "7,2",
+              "7.2"
+            ]
+          },
+          "conferencia": "(96 - 60) / (8 - 3)",
+          "resolucao": "Igualando os preços: 60 + 8t = 96 + 3t.\nDaí 5t = 36 e t = 7,2 anos.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Montou a equação com os reajustes trocados, ou subtraiu os preços sem dividir pela diferença de reajustes."
+            },
+            {
+              "pct": 50,
+              "desc": "Igualou as duas expressões e chegou a t = 7,2 anos."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "A partir de quantos anos completos o plano A passa a ser o mais caro?",
+          "respostaFinal": {
+            "rotulo": "anos completos",
+            "aceitas": [
+              "8",
+              "8 anos"
+            ]
+          },
+          "conferencia": "Math.floor((96-60)/(8-3)) + 1",
+          "resolucao": "O plano A ultrapassa B quando t > 7,2.\nComo a pergunta é por anos completos, o primeiro é t = 8.\nConferindo: em 8 anos, A custa 60 + 64 = 124 e B custa 96 + 24 = 120.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Arredondou 7,2 para baixo (7), ou repetiu o valor 7,2 sem tratar o pedido de anos completos."
+            },
+            {
+              "pct": 50,
+              "desc": "Concluiu que a partir de 8 anos o plano A é mais caro, conferindo os valores."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-25",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Soma dos ímpares",
+      "tempoSugerido": 12,
+      "enunciado": "Considere a soma dos números ímpares consecutivos: 1 + 3 + 5 + … + (2N − 1).",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Mostre que essa soma vale N² e verifique o resultado para N = 6.",
+          "respostaFinal": {
+            "rotulo": "soma para N = 6",
+            "aceitas": [
+              "36"
+            ]
+          },
+          "conferencia": "6*6",
+          "resolucao": "São N termos em PA, de primeiro termo 1 e último 2N − 1.\nA soma é [1 + (2N − 1)]·N/2 = 2N·N/2 = N².\nPara N = 6: 1 + 3 + 5 + 7 + 9 + 11 = 36 = 6².",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Verificou apenas o caso N = 6 sem demonstrar o caso geral, ou errou a contagem dos termos."
+            },
+            {
+              "pct": 50,
+              "desc": "Demonstrou pela soma da PA que o resultado é N² e conferiu que dá 36 para N = 6."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é a soma dos ímpares de 21 até 99, inclusive?",
+          "respostaFinal": {
+            "rotulo": "soma",
+            "aceitas": [
+              "2400"
+            ]
+          },
+          "conferencia": "50*50 - 10*10",
+          "resolucao": "A soma dos ímpares de 1 a 99 é 50² = 2.500, porque 99 = 2 × 50 − 1.\nA soma dos ímpares de 1 a 19 é 10² = 100, porque 19 = 2 × 10 − 1.\nLogo, a soma pedida é 2.500 − 100 = 2.400.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Subtraiu a soma até 21 em vez de até 19, descartando o próprio 21, ou errou o número de termos."
+            },
+            {
+              "pct": 50,
+              "desc": "Usou a diferença entre as duas somas de quadrados e chegou a 2.400."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-26",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "PG com razão fracionária",
+      "tempoSugerido": 12,
+      "enunciado": "O primeiro termo de uma progressão geométrica é 972 e o quarto termo é 36.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Determine a razão da progressão.",
+          "respostaFinal": {
+            "rotulo": "razão",
+            "aceitas": [
+              "1/3",
+              "0,333",
+              "0.333"
+            ],
+            "intervalo": [
+              0.33,
+              0.34
+            ]
+          },
+          "conferencia": "Math.pow(36/972, 1/3)",
+          "resolucao": "Da PG, a₄ = a₁·q³, logo 36 = 972·q³.\nEntão q³ = 36/972 = 1/27 e q = 1/3.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou expoente 4 em vez de 3, ou dividiu 972 por 36 e apresentou 27 como razão."
+            },
+            {
+              "pct": 50,
+              "desc": "Montou 972·q³ = 36 e concluiu que a razão é 1/3."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é a soma dos infinitos termos dessa progressão?",
+          "respostaFinal": {
+            "rotulo": "soma",
+            "aceitas": [
+              "1458"
+            ]
+          },
+          "conferencia": "972 / (1 - 1/3)",
+          "resolucao": "Como |q| < 1, a soma infinita é S = a₁/(1 − q).\nS = 972/(1 − 1/3) = 972/(2/3) = 1.458.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Usou a fórmula da soma finita, ou dividiu por (1 + q) em vez de (1 − q)."
+            },
+            {
+              "pct": 50,
+              "desc": "Aplicou a soma da PG infinita e chegou a 1.458."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-27",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Sequência e contagem de dígitos",
+      "tempoSugerido": 15,
+      "enunciado": "Os números naturais são escritos em sequência, sem espaços: 123456789101112131415…",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Quantos algarismos são usados para escrever todos os números de 1 a 99?",
+          "respostaFinal": {
+            "rotulo": "algarismos",
+            "aceitas": [
+              "189"
+            ]
+          },
+          "conferencia": "9*1 + 90*2",
+          "resolucao": "De 1 a 9 há 9 números de 1 algarismo: 9 algarismos.\nDe 10 a 99 há 90 números de 2 algarismos: 180 algarismos.\nTotal: 9 + 180 = 189 algarismos.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Contou 99 números de dois algarismos, ou esqueceu o bloco de 1 a 9."
+            },
+            {
+              "pct": 50,
+              "desc": "Separou por faixas de algarismos e chegou a 189."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é o 200º algarismo dessa sequência? Justifique.",
+          "respostaFinal": {
+            "rotulo": "algarismo",
+            "aceitas": [
+              "0"
+            ]
+          },
+          "conferencia": "0",
+          "resolucao": "Até o 99 são 189 algarismos.\nDe 100 a 102 são mais 3 × 3 = 9 algarismos, chegando a 198.\nO 199º algarismo é o \"1\" do número 103 e o 200º é o \"0\" do mesmo número.\nLogo, o 200º algarismo é 0.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Descontou os 189 algarismos mas errou a divisão por 3, ou contou os números de três algarismos a partir do 99."
+            },
+            {
+              "pct": 50,
+              "desc": "Contou até 198 algarismos no número 102 e concluiu que o 200º algarismo é o 0 do número 103."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-28",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "PA e média aritmética",
+      "tempoSugerido": 12,
+      "enunciado": "Em uma progressão aritmética de 40 termos, o primeiro termo é 12 e o último é 168.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Determine a razão da progressão.",
+          "respostaFinal": {
+            "rotulo": "razão",
+            "aceitas": [
+              "4"
+            ]
+          },
+          "conferencia": "(168 - 12) / 39",
+          "resolucao": "De a₄₀ = a₁ + 39r vem 168 = 12 + 39r.\nEntão 39r = 156 e r = 4.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Dividiu por 40 em vez de 39, ou dividiu 168 por 12."
+            },
+            {
+              "pct": 50,
+              "desc": "Usou 39 saltos e chegou à razão 4."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é a média aritmética dos 40 termos?",
+          "respostaFinal": {
+            "rotulo": "média",
+            "aceitas": [
+              "90"
+            ]
+          },
+          "conferencia": "(12 + 168) / 2",
+          "resolucao": "Em uma PA, a média de todos os termos é a média entre o primeiro e o último.\nLogo, (12 + 168)/2 = 90.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Somou toda a PA e errou a divisão por 40, ou tomou a média entre a razão e o primeiro termo."
+            },
+            {
+              "pct": 50,
+              "desc": "Usou a simetria da PA e chegou à média 90."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-29",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Recorrência com duas populações",
+      "tempoSugerido": 18,
+      "enunciado": "Duas cidades vizinhas trocam moradores todo ano. A cidade X começa com 90 mil habitantes e a cidade Y com 60 mil. A cada ano, 10% dos moradores de X mudam para Y e 20% dos moradores de Y mudam para X. Não há nascimentos, mortes nem outras migrações.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Determine a população de cada cidade depois de um ano.",
+          "respostaFinal": {
+            "rotulo": "população de X, em milhares",
+            "aceitas": [
+              "93"
+            ]
+          },
+          "conferencia": "0.9*90 + 0.2*60",
+          "resolucao": "X fica com 90% dos seus e recebe 20% de Y: 0,9 × 90 + 0,2 × 60 = 81 + 12 = 93 mil.\nY fica com 80% dos seus e recebe 10% de X: 0,8 × 60 + 0,1 × 90 = 48 + 9 = 57 mil.\nO total continua sendo 150 mil, como esperado.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Calculou só as saídas sem somar as entradas, ou trocou os percentuais entre as cidades."
+            },
+            {
+              "pct": 50,
+              "desc": "Chegou a 93 mil em X e 57 mil em Y, com o total preservado."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual distribuição entre as duas cidades permaneceria estável ano após ano? Justifique.",
+          "respostaFinal": {
+            "rotulo": "população de X, em milhares",
+            "aceitas": [
+              "100"
+            ]
+          },
+          "conferencia": "150 * 2 / 3",
+          "resolucao": "No equilíbrio, o número de pessoas que saem de X é igual ao número que entra: 0,1·X = 0,2·Y.\nLogo X = 2Y, e como X + Y = 150 mil, temos 3Y = 150 mil.\nEntão Y = 50 mil e X = 100 mil.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Iterou vários anos e observou a tendência sem equacionar o equilíbrio, ou escreveu 0,2·X = 0,1·Y."
+            },
+            {
+              "pct": 50,
+              "desc": "Equacionou a igualdade dos fluxos com o total constante e chegou a 100 mil em X e 50 mil em Y."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seq-30",
+      "area": "Matemática",
+      "frente": "matematica",
+      "tema": "Sequência e paridade",
+      "tempoSugerido": 15,
+      "enunciado": "Uma sequência é definida por d₁ = 4, d₂ = 7 e d_{n+2} = d_{n+1} + d_n.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Calcule d₈.",
+          "respostaFinal": {
+            "rotulo": "valor de d₈",
+            "aceitas": [
+              "123"
+            ]
+          },
+          "conferencia": "76 + 47",
+          "resolucao": "d₃ = 11, d₄ = 18, d₅ = 29, d₆ = 47, d₇ = 76.\nEntão d₈ = d₇ + d₆ = 76 + 47 = 123.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Perdeu um passo da iteração, ou somou os termos alternados."
+            },
+            {
+              "pct": 50,
+              "desc": "Iterou corretamente e chegou a d₈ = 123."
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Determine a paridade de d₂₀₂₆ sem calcular o termo. Justifique.",
+          "respostaFinal": {
+            "rotulo": "paridade",
+            "aceitas": [
+              "par"
+            ]
+          },
+          "resolucao": "As paridades dos termos são: par, ímpar, ímpar, par, ímpar, ímpar, …\nElas se repetem num ciclo de comprimento 3, e os termos pares são os de posição 1, 4, 7, … — isto é, posição ≡ 1 (mod 3).\nComo 2.026 = 3 × 675 + 1, o termo d₂₀₂₆ ocupa no ciclo a mesma posição de d₁.\nLogo, d₂₀₂₆ é par.",
+          "faixas": [
+            {
+              "pct": 0,
+              "desc": "Em branco ou totalmente incorreta."
+            },
+            {
+              "pct": 25,
+              "desc": "Listou as paridades iniciais sem identificar o ciclo, ou identificou o ciclo mas errou o resto da divisão."
+            },
+            {
+              "pct": 50,
+              "desc": "Identificou o ciclo de paridade de comprimento 3, usou o resto de 2.026 por 3 e concluiu que d₂₀₂₆ é par."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

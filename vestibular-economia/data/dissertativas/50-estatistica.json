@@ -1,0 +1,407 @@
+{
+  "tema": "Estatística e médias",
+  "questoes": [
+    {
+      "id": "est-01",
+      "area": "Matemática", "frente": "matematica", "tema": "Média, mediana e moda",
+      "tempoSugerido": 12,
+      "enunciado": "Os valores registrados em uma pesquisa foram: 4, 7, 7, 9 e 13.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Calcule a média aritmética dos valores.",
+          "respostaFinal": { "rotulo": "média", "aceitas": ["8"] },
+          "conferencia": "(4+7+7+9+13)/5",
+          "resolucao": "A soma é 4 + 7 + 7 + 9 + 13 = 40.\nDividindo pelos 5 valores: média = 8.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Dividiu por 4, ignorando o valor repetido, ou errou a soma." },
+            { "pct": 50, "desc": "Somou os cinco valores e chegou à média 8." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Determine a mediana e a moda, e explique por que elas diferem da média neste conjunto.",
+          "respostaFinal": { "rotulo": "mediana", "aceitas": ["7"] },
+          "conferencia": "7",
+          "resolucao": "Com os valores em ordem, a mediana é o valor central: 7.\nA moda é o valor mais frequente: 7, que aparece duas vezes.\nA média (8) é maior porque o valor 13 puxa a soma para cima; mediana e moda não se deixam afetar por um valor extremo isolado.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Acertou mediana e moda mas não explicou a diferença, ou tomou a mediana como a média dos extremos." },
+            { "pct": 50, "desc": "Indicou mediana e moda iguais a 7 e explicou o efeito do valor extremo sobre a média." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "est-02",
+      "area": "Matemática", "frente": "matematica", "tema": "Média ponderada",
+      "tempoSugerido": 12,
+      "enunciado": "Em uma disciplina, a nota final é a média ponderada de três avaliações: a primeira tem peso 2, a segunda peso 3 e a terceira peso 5. Um aluno tirou 6,0 na primeira, 8,0 na segunda e 7,0 na terceira.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Qual é a nota final do aluno?",
+          "respostaFinal": { "rotulo": "nota final", "aceitas": ["7,1", "7.1"] },
+          "conferencia": "(6*2 + 8*3 + 7*5)/10",
+          "resolucao": "Soma ponderada: 6 × 2 + 8 × 3 + 7 × 5 = 12 + 24 + 35 = 71.\nSoma dos pesos: 2 + 3 + 5 = 10.\nNota final: 71/10 = 7,1.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Calculou a média simples das três notas (7,0), ignorando os pesos." },
+            { "pct": 50, "desc": "Multiplicou pelos pesos mas dividiu por 3 em vez de pela soma dos pesos." },
+            { "pct": 75, "desc": "Montou a média ponderada e errou apenas a conta." },
+            { "pct": 100, "desc": "Chegou à nota final 7,1." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "est-03",
+      "area": "Matemática", "frente": "matematica", "tema": "Média com inclusão de valor",
+      "tempoSugerido": 12,
+      "enunciado": "A média de 9 valores é 15. Um décimo valor é acrescentado ao conjunto e a média passa a ser 16.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Qual é o décimo valor?",
+          "respostaFinal": { "rotulo": "valor", "aceitas": ["25"] },
+          "conferencia": "10*16 - 9*15",
+          "resolucao": "A soma dos 9 primeiros é 9 × 15 = 135.\nA soma dos 10 valores é 10 × 16 = 160.\nO valor acrescentado é 160 − 135 = 25.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta, ou apenas o número, sem indicar o raciocínio." },
+            { "pct": 25, "desc": "Somou a diferença das médias (16 − 15 = 1) ao total, ou dividiu 160 por 9." },
+            { "pct": 50, "desc": "Calculou uma das somas corretamente e errou a outra." },
+            { "pct": 75, "desc": "Montou 160 − 135 e errou apenas a subtração." },
+            { "pct": 100, "desc": "Concluiu que o décimo valor é 25." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "est-04",
+      "area": "Matemática", "frente": "matematica", "tema": "Mediana em conjunto par",
+      "tempoSugerido": 10,
+      "enunciado": "Foram registrados os seguintes tempos, em minutos: 3, 5, 8, 10, 12 e 15.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Determine a mediana dos tempos.",
+          "respostaFinal": { "rotulo": "mediana", "aceitas": ["9"] },
+          "conferencia": "(8 + 10)/2",
+          "resolucao": "Os valores já estão em ordem crescente e são 6 — número par.\nA mediana é a média dos dois centrais, que são 8 e 10.\nMediana: (8 + 10)/2 = 9.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Apontou 8 ou 10 como mediana, sem fazer a média dos dois centrais." },
+            { "pct": 50, "desc": "Calculou a média dos dois valores centrais e chegou a 9." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "est-05",
+      "area": "Matemática", "frente": "matematica", "tema": "Amplitude e dispersão",
+      "tempoSugerido": 10,
+      "enunciado": "Dois conjuntos têm a mesma média 20. O conjunto A é formado por 18, 20 e 22; o conjunto B, por 5, 20 e 35.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Calcule a amplitude de cada conjunto.",
+          "respostaFinal": { "rotulo": "amplitude do conjunto B", "aceitas": ["30"] },
+          "conferencia": "35 - 5",
+          "resolucao": "Amplitude é a diferença entre o maior e o menor valor.\nConjunto A: 22 − 18 = 4.\nConjunto B: 35 − 5 = 30.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Calculou a média em vez da amplitude, ou somou os extremos." },
+            { "pct": 50, "desc": "Calculou as duas amplitudes: 4 e 30." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Explique por que a média sozinha não distingue os dois conjuntos.",
+          "resolucao": "A média informa o centro dos dados, mas não diz quão espalhados eles estão em torno dele.\nOs dois conjuntos têm o mesmo centro (20) e comportamentos muito diferentes: em A os valores ficam colados na média, em B eles se afastam bastante.\nPor isso é preciso uma medida de dispersão — amplitude, variância ou desvio padrão — ao lado da média.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Afirmou que os conjuntos são diferentes sem explicar o que a média deixa de capturar." },
+            { "pct": 50, "desc": "Explicou que a média mede posição e não dispersão, citando uma medida de dispersão adequada." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "est-06",
+      "area": "Matemática", "frente": "matematica", "tema": "Média de grupos combinados",
+      "tempoSugerido": 12,
+      "enunciado": "Uma turma de 20 alunos teve média 6,0 em uma prova. Outra turma, de 30 alunos, teve média 8,0 na mesma prova.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Qual é a média das duas turmas juntas?",
+          "respostaFinal": { "rotulo": "média", "aceitas": ["7,2", "7.2"] },
+          "conferencia": "(20*6 + 30*8)/50",
+          "resolucao": "Soma da primeira turma: 20 × 6 = 120.\nSoma da segunda: 30 × 8 = 240.\nMédia geral: (120 + 240)/50 = 360/50 = 7,2.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Calculou a média das médias (7,0), ignorando que as turmas têm tamanhos diferentes." },
+            { "pct": 50, "desc": "Ponderou pelos tamanhos das turmas e chegou a 7,2." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "est-07",
+      "area": "Matemática", "frente": "matematica", "tema": "Quartis",
+      "tempoSugerido": 15,
+      "enunciado": "Os valores a seguir estão em ordem crescente: 2, 4, 5, 7, 8, 10, 12, 14, 15, 18 e 20.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Determine a mediana e os quartis inferior e superior.",
+          "respostaFinal": { "rotulo": "mediana", "aceitas": ["10"] },
+          "conferencia": "10",
+          "resolucao": "São 11 valores, então a mediana é o sexto: 10.\nO quartil inferior é a mediana dos cinco primeiros (2, 4, 5, 7, 8): 5.\nO quartil superior é a mediana dos cinco últimos (12, 14, 15, 18, 20): 15.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Acertou a mediana mas incluiu-a nas duas metades ao calcular os quartis, ou tomou a média dos extremos." },
+            { "pct": 50, "desc": "Indicou mediana 10, quartil inferior 5 e quartil superior 15." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Calcule a amplitude interquartil e explique o que ela mede.",
+          "respostaFinal": { "rotulo": "amplitude interquartil", "aceitas": ["10"] },
+          "conferencia": "15 - 5",
+          "resolucao": "A amplitude interquartil é a diferença entre os quartis: 15 − 5 = 10.\nEla mede a dispersão da metade central dos dados e, por isso, não é afetada por valores extremos nas pontas.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Calculou a diferença mas não explicou o que ela mede, ou usou a amplitude total (18)." },
+            { "pct": 50, "desc": "Chegou a 10 e explicou que a medida descreve a dispersão da metade central." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "est-08",
+      "area": "Matemática", "frente": "matematica", "tema": "Frequência relativa",
+      "tempoSugerido": 10,
+      "enunciado": "Em uma pesquisa com 200 pessoas, 60 escolheram a opção A, 90 escolheram B e as demais escolheram C.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual é a frequência relativa da opção A, em porcentagem?",
+          "respostaFinal": { "rotulo": "porcentagem", "aceitas": ["30%", "30", "0,3", "0.3"] },
+          "conferencia": "100 * 60 / 200",
+          "resolucao": "Frequência relativa = 60/200 = 0,30, ou seja, 30%.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Dividiu pelo número de opções em vez do total de pessoas, ou apresentou 60 como porcentagem." },
+            { "pct": 50, "desc": "Dividiu pelo total e chegou a 30%." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Em um gráfico de setores, qual seria o ângulo central do setor correspondente à opção C?",
+          "respostaFinal": { "rotulo": "ângulo em graus", "aceitas": ["90", "90°"] },
+          "conferencia": "360 * 50 / 200",
+          "resolucao": "A opção C teve 200 − 60 − 90 = 50 respostas, ou seja, 25% do total.\nO ângulo é 25% de 360°: 0,25 × 360 = 90°.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Errou a contagem de C, ou usou 180° como total do círculo." },
+            { "pct": 50, "desc": "Calculou a fração de C e chegou a 90°." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "est-09",
+      "area": "Matemática", "frente": "matematica", "tema": "Média móvel",
+      "tempoSugerido": 12,
+      "enunciado": "As vendas mensais de uma loja, em milhares de reais, foram: 12, 18, 24 e 30.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Calcule as médias móveis de três meses possíveis nessa série.",
+          "respostaFinal": { "rotulo": "segunda média móvel", "aceitas": ["24"] },
+          "conferencia": "(18+24+30)/3",
+          "resolucao": "A primeira média móvel usa os meses 1 a 3: (12 + 18 + 24)/3 = 18.\nA segunda usa os meses 2 a 4: (18 + 24 + 30)/3 = 24.\nSó é possível calcular duas médias móveis de três meses numa série de quatro pontos.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Calculou a média dos quatro meses, ou apresentou apenas uma das duas médias móveis." },
+            { "pct": 50, "desc": "Calculou as duas médias móveis, 18 e 24, indicando quais meses entram em cada uma." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "est-10",
+      "area": "Matemática", "frente": "matematica", "tema": "Efeito de valor discrepante",
+      "tempoSugerido": 12,
+      "enunciado": "Os salários mensais, em milhares de reais, de cinco funcionários de uma pequena empresa são: 10, 11, 12, 13 e 94.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Calcule a média e a mediana dos salários.",
+          "respostaFinal": { "rotulo": "média em milhares", "aceitas": ["28"] },
+          "conferencia": "(10+11+12+13+94)/5",
+          "resolucao": "Soma: 10 + 11 + 12 + 13 + 94 = 140. Média: 140/5 = 28.\nCom os valores em ordem, a mediana é o terceiro: 12.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Errou a soma, ou apontou como mediana a média entre os extremos." },
+            { "pct": 50, "desc": "Chegou a média 28 e mediana 12." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual das duas medidas descreve melhor o salário típico desta empresa? Justifique.",
+          "resolucao": "A mediana descreve melhor: 12 mil está próximo do que quatro dos cinco funcionários recebem.\nA média de 28 mil é maior do que o salário de 80% das pessoas da empresa, porque um único valor muito alto puxa a soma para cima.\nMédia é sensível a valores extremos; mediana, não.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Escolheu a mediana sem justificar, ou defendeu a média por ela usar todos os dados, sem tratar do efeito do valor extremo." },
+            { "pct": 50, "desc": "Escolheu a mediana e justificou pelo efeito do valor discrepante sobre a média." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "est-11",
+      "area": "Matemática", "frente": "matematica", "tema": "Variância e desvio padrão",
+      "tempoSugerido": 15,
+      "enunciado": "Considere o conjunto de valores: 2, 4, 4, 4, 5, 5, 7 e 9.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Calcule a média do conjunto.",
+          "respostaFinal": { "rotulo": "média", "aceitas": ["5"] },
+          "conferencia": "(2+4+4+4+5+5+7+9)/8",
+          "resolucao": "Soma: 2 + 4 + 4 + 4 + 5 + 5 + 7 + 9 = 40.\nMédia: 40/8 = 5.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Contou os valores repetidos uma só vez, dividindo por 5." },
+            { "pct": 50, "desc": "Somou os oito valores e chegou à média 5." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Calcule a variância e o desvio padrão do conjunto.",
+          "respostaFinal": { "rotulo": "desvio padrão", "aceitas": ["2"] },
+          "conferencia": "Math.sqrt(32/8)",
+          "resolucao": "Desvios em relação à média 5: −3, −1, −1, −1, 0, 0, 2, 4.\nQuadrados: 9, 1, 1, 1, 0, 0, 4, 16, que somam 32.\nVariância: 32/8 = 4. Desvio padrão: √4 = 2.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Somou os desvios sem elevar ao quadrado (o que dá zero), ou não extraiu a raiz ao final." },
+            { "pct": 50, "desc": "Calculou variância 4 e desvio padrão 2." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "est-12",
+      "area": "Matemática", "frente": "matematica", "tema": "Mediana em tabela de frequências",
+      "tempoSugerido": 15,
+      "enunciado": "Uma pesquisa registrou o número de filhos por família em 40 domicílios: 8 famílias sem filhos, 12 com 1 filho, 14 com 2 filhos e 6 com 3 filhos.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Determine a mediana do número de filhos.",
+          "respostaFinal": { "rotulo": "mediana", "aceitas": ["1,5", "1.5"] },
+          "conferencia": "(1 + 2)/2",
+          "resolucao": "São 40 dados, então a mediana é a média entre o 20º e o 21º valores em ordem.\nAcumulando: até 0 filho são 8 famílias; até 1 filho são 20; até 2 filhos são 34.\nEntão o 20º valor é 1 e o 21º é 2, e a mediana é (1 + 2)/2 = 1,5.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Tomou a categoria de maior frequência (2 filhos) como mediana, confundindo com a moda." },
+            { "pct": 50, "desc": "Montou a frequência acumulada mas identificou a posição errada." },
+            { "pct": 75, "desc": "Localizou o 20º e o 21º valores e errou apenas a média entre eles." },
+            { "pct": 100, "desc": "Concluiu que a mediana é 1,5." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Calcule a média do número de filhos por família.",
+          "respostaFinal": { "rotulo": "média", "aceitas": ["1,45", "1.45"] },
+          "conferencia": "(8*0 + 12*1 + 14*2 + 6*3)/40",
+          "resolucao": "Soma total de filhos: 8 × 0 + 12 × 1 + 14 × 2 + 6 × 3 = 0 + 12 + 28 + 18 = 58.\nMédia: 58/40 = 1,45 filhos por família.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Calculou a média das categorias (0, 1, 2, 3), ignorando as frequências, ou dividiu por 4." },
+            { "pct": 50, "desc": "Ponderou pelas frequências e chegou a 1,45." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "est-13",
+      "area": "Matemática", "frente": "matematica", "tema": "Nota necessária para atingir média",
+      "tempoSugerido": 12,
+      "enunciado": "Um estudante precisa de média 6,5 em três provas de mesmo peso para ser aprovado. Ele tirou 5,5 na primeira e 7,0 na segunda.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Qual é a nota mínima que ele precisa na terceira prova?",
+          "respostaFinal": { "rotulo": "nota", "aceitas": ["7", "7,0", "7.0"] },
+          "conferencia": "3*6.5 - 5.5 - 7",
+          "resolucao": "A soma das três notas precisa ser 3 × 6,5 = 19,5.\nEle já tem 5,5 + 7,0 = 12,5.\nFalta 19,5 − 12,5 = 7,0.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Fez a média das duas primeiras notas e comparou com 6,5, sem projetar a soma das três." },
+            { "pct": 50, "desc": "Calculou a soma necessária mas errou a subtração." },
+            { "pct": 75, "desc": "Montou 19,5 − 12,5 e errou apenas a conta." },
+            { "pct": 100, "desc": "Concluiu que a nota mínima é 7,0." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "est-14",
+      "area": "Matemática", "frente": "matematica", "tema": "Média geométrica",
+      "tempoSugerido": 15,
+      "enunciado": "As vendas de uma empresa cresceram 21% no primeiro ano e 44% no segundo ano.",
+      "itens": [
+        {
+          "id": "unico",
+          "comando": "Qual foi a taxa média anual de crescimento no período? Justifique por que não é a média aritmética entre 21% e 44%.",
+          "respostaFinal": { "rotulo": "taxa média anual", "aceitas": ["32%", "32", "0,32", "0.32"] },
+          "conferencia": "100 * (Math.sqrt(1.21 * 1.44) - 1)",
+          "resolucao": "O crescimento acumulado é 1,21 × 1,44 = 1,7424.\nA taxa média anual t satisfaz (1 + t)² = 1,7424, então 1 + t = √1,7424 = 1,32 e t = 32%.\nNão é a média aritmética (32,5%) porque taxas se compõem por multiplicação, não por soma: o segundo ano incide sobre um valor já aumentado.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Apresentou a média aritmética 32,5% sem justificar, ou somou as taxas chegando a 65%." },
+            { "pct": 50, "desc": "Multiplicou os fatores mas não extraiu a raiz." },
+            { "pct": 75, "desc": "Chegou a √1,7424 e errou apenas a conversão para porcentagem." },
+            { "pct": 100, "desc": "Chegou à taxa média de 32% ao ano e explicou por que as taxas se compõem multiplicativamente." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "est-15",
+      "area": "Matemática", "frente": "matematica", "tema": "Leitura de gráfico e proporção",
+      "tempoSugerido": 12,
+      "enunciado": "Um relatório mostra a distribuição de 1.200 atendimentos por canal: 45% por aplicativo, 30% por telefone e o restante presencialmente.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Quantos atendimentos foram presenciais?",
+          "respostaFinal": { "rotulo": "atendimentos", "aceitas": ["300"] },
+          "conferencia": "1200 * 0.25",
+          "resolucao": "O percentual presencial é 100% − 45% − 30% = 25%.\nAtendimentos: 0,25 × 1.200 = 300.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Somou 45% e 30% e aplicou o resultado ao total, ou esqueceu de converter a porcentagem." },
+            { "pct": 50, "desc": "Calculou os 25% restantes e chegou a 300 atendimentos." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Se os atendimentos por aplicativo crescerem 20% e os demais permanecerem iguais, qual passará a ser a participação do aplicativo no total?",
+          "respostaFinal": { "rotulo": "participação em porcentagem", "aceitas": ["50%", "50"], "intervalo": [49.5, 50.5] },
+          "conferencia": "100 * (540*1.2) / (1200 + 540*0.2)",
+          "resolucao": "Hoje o aplicativo tem 0,45 × 1.200 = 540 atendimentos; com 20% a mais, 648.\nO total passa a ser 1.200 + 108 = 1.308.\nParticipação: 648/1.308 ≈ 0,495, ou seja, cerca de 50%.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Somou 20 pontos percentuais aos 45%, chegando a 65%, sem recalcular o total." },
+            { "pct": 50, "desc": "Atualizou numerador e denominador e chegou a cerca de 50%." }
+          ]
+        }
+      ]
+    }
+  ]
+}

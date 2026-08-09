@@ -193,6 +193,94 @@
         { nome: "Unifesp", url: "https://ingresso.unifesp.br/vestibulares-anteriores.html" },
       ],
     },
+
+    // ---------- Economia ----------
+    //
+    // REGISTRADA E DESLIGADA. `emConstrucao` mantém a trilha fora de lista(),
+    // que é de onde saem os três lugares em que alguém escolhe curso: o cartão
+    // do onboarding (auth.js) e as duas saídas de "trocar de trilha" no perfil
+    // (app.js). Sem esse freio, escolher Economia levaria a um carregar() que
+    // rejeita no primeiro arquivo inexistente, e o app subiria sem banco —
+    // parecendo funcionar e mostrando dias vazios, que é o pior dos dois.
+    //
+    // ehValida() continua aceitando "economia", então dá para testar a trilha
+    // forçando localStorage.setItem("v2_trilha", "economia") no console.
+    //
+    // O QUE FALTA PARA LIGAR, na ordem em que trava:
+    //   subtopics.js         as frentes (o estudo já as define)
+    //   bundle.js            o banco objetivo
+    //   priority-weights.js  os pesos por frente
+    //   theory, flashcards, video-topics, redacoes
+    // O que já existe é dissertativas-matematica.js, com 150 questões autorais
+    // mais 3 reais — e ele NÃO entra em `arquivos` porque escreve
+    // window.DISSERTATIVAS_EXATAS, um global próprio, lido pelo renderizador de
+    // vestibular-economia/dissertativa-exatas.js e não pelo app.js.
+    //
+    // AO LIGAR, ver app.js:3183: a busca entre trilhas carrega outras[0], uma
+    // só. Com três trilhas oferecíveis, uma some da busca sem erro nenhum.
+    // Para quem usa o app hoje o defeito está dormindo, porque só duas trilhas
+    // saem de lista() e outras() devolve uma. Mas ele ACORDA no teste descrito
+    // acima: com economia ativa, outras() devolve direito e medicina, e a
+    // segunda é ignorada em silêncio. O conserto é trocar o outras[0] por um
+    // laço — está fora deste registro de propósito, para a mudança não vazar
+    // para app.js antes de a trilha existir.
+    //
+    // Tudo abaixo sai de estudo-anatomia-provas-economia-fgv-insper-2021-2026.md,
+    // não de suposição.
+    economia: {
+      id: "economia",
+      nome: "Economia",
+      prefixo: "eco_",
+      emConstrucao: true,
+      subtitulo: "FGV EESP e Insper",
+      // A frase do cartão é o que separa esta trilha da de Direito, onde
+      // Matemática vale 10% da nota e só o zero elimina. Aqui ela vale 40% nas
+      // duas escolas — e as duas bancas concordarem nesse peso é raro.
+      resumo: "Matemática vale 40% da nota nas duas escolas — e três quartos desse peso " +
+              "está numa prova discursiva, corrigida por faixa de 0 a 100%.",
+      logoAlt: MARCA_TXT,
+      titulo: MARCA_HTML + " — Economia",
+      marca: MARCA_HTML,
+      bancas: ["fgv", "insper"],
+      dataDir: "../vestibular-economia/data/",
+      arquivos: [
+        "subtopics", "theory", "flashcards", "priority-weights",
+        "video-topics", "bundle", "redacoes",
+      ],
+      // Sem "obras": a prova de Artes e a lista de leitura obrigatória são
+      // exclusivas da FGV Direito SP. O edital unificado não traz lista para a
+      // EESP, e o conteúdo programático dela troca Artes por Ciências da
+      // Natureza. Aba de obras aqui seria uma aba mentindo.
+      abas: ["hoje", "calendario", "simulados", "buscar", "cards", "redacao", "erros", "progresso", "perfil", "mais"],
+      redacaoUI: {
+        desc: "Texto <strong>dissertativo-argumentativo, em prosa</strong>. A proposta da <strong>FGV</strong> " +
+              "é a mesma da trilha de Direito — mesmo caderno, mesmo dia —, com 20 a 30 linhas e título livre. " +
+              "O <strong>Insper</strong> pede 10 a 30 linhas, apresenta dois temas para escolher um e exige que " +
+              "a questão-tema seja copiada como título.",
+        hint: "Aqui a redação pesa mais do que em qualquer outra trilha: <strong>20% da nota final</strong> na FGV " +
+              "EESP (o dobro do que vale em Direito) e <strong>25% da média final</strong> no Insper, com corte " +
+              "eliminatório nas duas. Nenhuma das duas exige proposta de intervenção — isso é regra do ENEM.",
+      },
+      plano: {
+        totalDias: 90,
+        frentesPorDia: 2,
+        exerciciosMin: 12,
+        exerciciosMax: 15,
+        // 60 e não 45: pela mesma régua das outras trilhas — o menor caderno
+        // objetivo entre as bancas da trilha. Aqui é o do Insper, com 60. A 1ª
+        // fase da FGV EESP tem 105 objetivas somando os dois dias (60 no dia 1
+        // e 45 de Natureza no dia 2).
+        simuladoQtd: 60,
+        simuladoMinPorFrente: 1,
+        // Terceira semente distinta: com a mesma de Direito ou de Medicina, as
+        // trilhas produziriam a mesma ordem de frentes ao longo dos 90 dias.
+        seed: 20260303,
+      },
+      provasOficiais: [
+        { nome: "FGV", url: "https://vestibular.fgv.br/provas-gabaritos" },
+        { nome: "Insper", url: "https://www.insper.edu.br/content/insper-portal/pt/cursos/vestibular/provas-e-gabaritos.html" },
+      ],
+    },
   };
 
   function ehValida(id) {
@@ -350,14 +438,30 @@
     carregarSecundaria: carregarSecundaria,
     carregarExtra: carregarExtra,
 
-    // A outra trilha — hoje sempre uma só, mas escrito para não quebrar se
-    // aparecer uma terceira.
+    // As outras trilhas, para a busca cruzada. Trilha em construção fica fora:
+    // carregar o banco dela terminaria em rejeição, porque os arquivos ainda
+    // não existem.
     outras: function () {
       const atual = this.atual();
-      return Object.keys(window.VD_TRILHAS).filter(function (k) { return k !== atual; });
+      return Object.keys(window.VD_TRILHAS).filter(function (k) {
+        return k !== atual && !window.VD_TRILHAS[k].emConstrucao;
+      });
     },
 
+    // As trilhas OFERECÍVEIS. É desta lista que saem o cartão do onboarding e
+    // as duas saídas de "trocar de trilha" no perfil — ou seja, é o único
+    // lugar em que alguém escolhe um curso. Filtrar aqui é o que impede que
+    // uma trilha sem banco chegue à tela; ehValida() continua aceitando o id,
+    // para dar pra testar forçando a chave no localStorage.
     lista: function () {
+      return Object.keys(window.VD_TRILHAS)
+        .filter(function (k) { return !window.VD_TRILHAS[k].emConstrucao; })
+        .map(function (k) { return window.VD_TRILHAS[k]; });
+    },
+
+    // Todas, inclusive as em construção. Existe para quem precisa do registro
+    // e não da oferta — o painel admin e os scripts de auditoria.
+    listaTodas: function () {
       return Object.keys(window.VD_TRILHAS).map(function (k) { return window.VD_TRILHAS[k]; });
     },
   };

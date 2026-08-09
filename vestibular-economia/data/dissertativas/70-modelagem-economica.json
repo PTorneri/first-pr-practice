@@ -1,0 +1,323 @@
+{
+  "tema": "Modelagem econômica",
+  "questoes": [
+    {
+      "id": "eco-01",
+      "area": "Matemática", "frente": "matematica", "tema": "Elasticidade-preço da demanda",
+      "tempoSugerido": 15,
+      "enunciado": "A elasticidade-preço da demanda é a razão entre a variação percentual da quantidade demandada e a variação percentual do preço. Quando um supermercado aumentou em 10% o preço de um produto, as vendas caíram 15%.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Calcule a elasticidade-preço da demanda desse produto.",
+          "respostaFinal": { "rotulo": "elasticidade", "aceitas": ["-1,5", "-1.5", "1,5", "1.5"] },
+          "conferencia": "-15/10",
+          "resolucao": "Elasticidade = variação percentual da quantidade / variação percentual do preço.\nE = (−15%)/(+10%) = −1,5.\nO sinal negativo apenas expressa que quantidade e preço se movem em sentidos opostos.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Inverteu a razão, chegando a −0,67, ou subtraiu as variações." },
+            { "pct": 50, "desc": "Montou a razão corretamente e chegou a −1,5." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "A receita do supermercado com esse produto aumentou ou diminuiu com o reajuste? Justifique.",
+          "resolucao": "A receita é preço × quantidade, então o fator acumulado é 1,10 × 0,85 = 0,935.\nA receita caiu cerca de 6,5%.\nÉ o que se espera de uma demanda elástica (|E| > 1): a queda proporcional na quantidade supera o aumento proporcional no preço, e subir o preço reduz a receita.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Afirmou que a receita cai por causa da queda nas vendas, sem calcular o efeito combinado dos dois movimentos." },
+            { "pct": 50, "desc": "Multiplicou os fatores, concluiu que a receita cai cerca de 6,5% e relacionou o resultado com a demanda elástica." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eco-02",
+      "area": "Matemática", "frente": "matematica", "tema": "Equilíbrio de mercado",
+      "tempoSugerido": 15,
+      "enunciado": "Em certo mercado, a quantidade ofertada é dada por Qo = 2p − 20 e a quantidade demandada por Qd = 100 − 3p, com p em reais.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Determine o preço de equilíbrio do mercado.",
+          "respostaFinal": { "rotulo": "preço em reais", "aceitas": ["24", "R$ 24,00"] },
+          "conferencia": "120/5",
+          "resolucao": "No equilíbrio, oferta e demanda se igualam: 2p − 20 = 100 − 3p.\nDaí 5p = 120 e p = R$ 24,00.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Somou as duas funções em vez de igualá-las, ou trocou os sinais ao passar os termos." },
+            { "pct": 50, "desc": "Igualou as duas quantidades e chegou a R$ 24,00." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é a quantidade negociada no equilíbrio?",
+          "respostaFinal": { "rotulo": "quantidade", "aceitas": ["28"] },
+          "conferencia": "2*24 - 20",
+          "resolucao": "Substituindo p = 24 em qualquer das duas funções: Qo = 2 × 24 − 20 = 28.\nConferindo pela demanda: Qd = 100 − 72 = 28. As duas coincidem, como esperado no equilíbrio.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Somou as quantidades das duas curvas, ou substituiu o preço na expressão errada e não conferiu na outra." },
+            { "pct": 50, "desc": "Substituiu o preço de equilíbrio e chegou a 28 unidades, conferindo nas duas funções." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eco-03",
+      "area": "Matemática", "frente": "matematica", "tema": "Índice de Gini com curva poligonal",
+      "tempoSugerido": 20,
+      "enunciado": "Em um país, a metade mais pobre da população detém 20% da renda total. Suponha que a curva de Lorenz desse país seja formada por dois segmentos de reta: um ligando (0; 0) a (0,5; 0,2) e outro ligando (0,5; 0,2) a (1; 1).",
+      "figura": "<svg viewBox=\"0 0 220 220\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M30 190 L200 190 M30 190 L30 20\" stroke-width=\"1.5\"/><path d=\"M30 190 L200 20\" stroke-dasharray=\"5 4\" stroke-width=\"1.5\"/><path d=\"M30 190 L115 156 L200 20\"/><text x=\"104\" y=\"208\" font-size=\"10\" fill=\"currentColor\" stroke=\"none\">população</text><text x=\"120\" y=\"96\" font-size=\"10\" fill=\"currentColor\" stroke=\"none\">igualdade</text></svg>",
+      "figuraAlt": "Curva de Lorenz formada por dois segmentos, abaixo da diagonal tracejada de perfeita igualdade.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Calcule a área sob a curva de Lorenz.",
+          "respostaFinal": { "rotulo": "área", "aceitas": ["0,35", "0.35"] },
+          "conferencia": "(0 + 0.2)/2*0.5 + (0.2 + 1)/2*0.5",
+          "resolucao": "A região sob a curva se decompõe em dois trapézios de base horizontal 0,5.\nPrimeiro: (0 + 0,2)/2 × 0,5 = 0,05.\nSegundo: (0,2 + 1)/2 × 0,5 = 0,30.\nÁrea total: 0,35.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Calculou apenas um dos trapézios, ou usou a fórmula do triângulo para a região inteira." },
+            { "pct": 50, "desc": "Somou os dois trapézios e chegou a 0,35." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Determine o Índice de Gini desse país.",
+          "respostaFinal": { "rotulo": "Índice de Gini", "aceitas": ["0,3", "0.3"] },
+          "conferencia": "(0.5 - 0.35)/0.5",
+          "resolucao": "A área entre a reta de igualdade e a curva é 0,5 − 0,35 = 0,15.\nO Gini é a razão entre essa área e a área total sob a reta de igualdade (0,5).\nG = 0,15/0,5 = 0,30.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Apresentou 0,15 como índice, esquecendo de dividir pela área de referência 0,5." },
+            { "pct": 50, "desc": "Dividiu a área entre as curvas por 0,5 e chegou ao Gini 0,30." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eco-04",
+      "area": "Matemática", "frente": "matematica", "tema": "Custo marginal",
+      "tempoSugerido": 15,
+      "enunciado": "O custo total de produção de uma fábrica, em reais, para q unidades, é C(q) = q² + 25q + 300.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual é o custo de produzir a 11ª unidade, isto é, o acréscimo de custo ao passar de 10 para 11 unidades?",
+          "respostaFinal": { "rotulo": "custo em reais", "aceitas": ["46", "R$ 46,00"] },
+          "conferencia": "(121 + 275 + 300) - (100 + 250 + 300)",
+          "resolucao": "C(10) = 100 + 250 + 300 = 650.\nC(11) = 121 + 275 + 300 = 696.\nO acréscimo é 696 − 650 = R$ 46,00.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Calculou o custo médio em vez do acréscimo, ou substituiu apenas q = 11." },
+            { "pct": 50, "desc": "Calculou os dois custos e chegou ao acréscimo de R$ 46,00." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é o custo médio por unidade quando são produzidas 10 unidades?",
+          "respostaFinal": { "rotulo": "custo médio em reais", "aceitas": ["65", "R$ 65,00"] },
+          "conferencia": "(100 + 250 + 300)/10",
+          "resolucao": "O custo médio é o custo total dividido pela quantidade: 650/10 = R$ 65,00.\nNote que ele é maior que o custo da unidade seguinte (R$ 46,00) — é a diluição do custo fixo de 300.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Confundiu custo médio com o acréscimo do item anterior, ou esqueceu o custo fixo." },
+            { "pct": 50, "desc": "Dividiu o custo total pela quantidade e chegou a R$ 65,00." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eco-05",
+      "area": "Matemática", "frente": "matematica", "tema": "Excedente do consumidor",
+      "tempoSugerido": 18,
+      "enunciado": "Em um mercado, a curva de demanda é dada por p = 100 − 2q, em que p é o preço em reais e q a quantidade. O preço praticado no mercado é R$ 40,00. O excedente do consumidor é a área entre a curva de demanda e a reta horizontal do preço, até a quantidade negociada.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual é a quantidade negociada ao preço de R$ 40,00?",
+          "respostaFinal": { "rotulo": "quantidade", "aceitas": ["30"] },
+          "conferencia": "(100 - 40)/2",
+          "resolucao": "De 40 = 100 − 2q vem 2q = 60, logo q = 30 unidades.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Substituiu q = 40 na expressão, confundindo preço com quantidade." },
+            { "pct": 50, "desc": "Isolou q corretamente e chegou a 30 unidades." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Calcule o excedente do consumidor.",
+          "respostaFinal": { "rotulo": "excedente em reais", "aceitas": ["900", "R$ 900,00"] },
+          "conferencia": "(100 - 40) * 30 / 2",
+          "resolucao": "A curva de demanda encontra o eixo dos preços em p = 100, e o preço de mercado é 40.\nA região é um triângulo de altura 100 − 40 = 60 e base 30.\nExcedente: 60 × 30/2 = R$ 900,00.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Calculou a área do retângulo (1.800), sem dividir por 2, ou usou 100 como altura do triângulo." },
+            { "pct": 50, "desc": "Identificou o triângulo mas errou uma das medidas." },
+            { "pct": 75, "desc": "Montou 60 × 30/2 e errou apenas a conta." },
+            { "pct": 100, "desc": "Chegou ao excedente de R$ 900,00." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eco-06",
+      "area": "Matemática", "frente": "matematica", "tema": "Índice de preços",
+      "tempoSugerido": 15,
+      "enunciado": "Uma cesta de produtos custava R$ 250,00 em 2020 e passou a custar R$ 320,00 em 2026. Adota-se 2020 como ano-base, com índice 100.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual é o índice de preços de 2026 nessa base?",
+          "respostaFinal": { "rotulo": "índice", "aceitas": ["128"] },
+          "conferencia": "100 * 320/250",
+          "resolucao": "O índice é a razão entre os custos, multiplicada por 100: (320/250) × 100 = 128.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Inverteu a razão, chegando a cerca de 78, ou apresentou a diferença 70 como índice." },
+            { "pct": 50, "desc": "Montou a razão na base 100 e chegou ao índice 128." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Quanto uma renda de R$ 3.000,00 em 2020 precisaria valer em 2026 para manter o mesmo poder de compra?",
+          "respostaFinal": { "rotulo": "renda em reais", "aceitas": ["3840", "R$ 3.840,00"] },
+          "conferencia": "3000 * 1.28",
+          "resolucao": "Manter o poder de compra significa corrigir a renda pelo mesmo fator dos preços: 1,28.\nRenda corrigida: 3.000 × 1,28 = R$ 3.840,00.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Somou os 70 reais de diferença da cesta à renda, ou aplicou o índice 128 como porcentagem de acréscimo." },
+            { "pct": 50, "desc": "Aplicou o fator 1,28 e chegou a R$ 3.840,00." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eco-07",
+      "area": "Matemática", "frente": "matematica", "tema": "Câmbio e tributos",
+      "tempoSugerido": 15,
+      "enunciado": "Um produto importado custa US$ 40,00 no exterior. A cotação do dólar é R$ 5,20 e, sobre o valor convertido, incidem tributos de 60%.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual é o custo final do produto em reais?",
+          "respostaFinal": { "rotulo": "valor em reais", "aceitas": ["332,8", "332.8", "R$ 332,80"] },
+          "conferencia": "40 * 5.20 * 1.6",
+          "resolucao": "Valor convertido: 40 × 5,20 = R$ 208,00.\nCom tributos de 60%: 208 × 1,60 = R$ 332,80.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Aplicou os tributos sobre o valor em dólar antes da conversão sem converter depois, ou somou 60 reais." },
+            { "pct": 50, "desc": "Converteu e aplicou o fator dos tributos, chegando a R$ 332,80." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Se o dólar subir para R$ 5,72, qual será a variação percentual do custo final?",
+          "respostaFinal": { "rotulo": "variação em porcentagem", "aceitas": ["10%", "10"] },
+          "conferencia": "100 * (5.72/5.20 - 1)",
+          "resolucao": "O custo final é proporcional à cotação, porque a conversão e o fator de tributos são multiplicações.\nA variação da cotação é 5,72/5,20 = 1,10, ou seja, 10%.\nLogo, o custo final também sobe 10%.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Recalculou o custo final mas errou a comparação, ou somou os 0,52 de diferença como porcentagem." },
+            { "pct": 50, "desc": "Percebeu a proporcionalidade e chegou a 10% de aumento." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eco-08",
+      "area": "Matemática", "frente": "matematica", "tema": "Custo médio mínimo",
+      "tempoSugerido": 18,
+      "enunciado": "O custo médio de produção, em reais por unidade, de certa fábrica é dado por CM(q) = q + 400/q, com q em centenas de unidades.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Mostre que o custo médio mínimo ocorre em q = 20.",
+          "resolucao": "Para q > 0, vale a desigualdade entre as médias aritmética e geométrica: q + 400/q ≥ 2·√(q × 400/q) = 2 × 20 = 40.\nA igualdade só acontece quando as duas parcelas são iguais, isto é, q = 400/q, ou q² = 400, logo q = 20.\nPortanto o custo médio é sempre pelo menos 40 e atinge esse valor exatamente em q = 20.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Testou alguns valores e observou que 20 dá o menor resultado, sem argumento que valha para todo q." },
+            { "pct": 50, "desc": "Igualou as duas parcelas ou usou a desigualdade das médias, concluindo que o mínimo é em q = 20." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é o custo médio mínimo?",
+          "respostaFinal": { "rotulo": "custo médio em reais", "aceitas": ["40", "R$ 40,00"] },
+          "conferencia": "20 + 400/20",
+          "resolucao": "Substituindo q = 20: CM = 20 + 400/20 = 20 + 20 = R$ 40,00 por unidade.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Substituiu na expressão errada, ou apresentou 20 como custo mínimo." },
+            { "pct": 50, "desc": "Substituiu q = 20 e chegou a R$ 40,00." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eco-09",
+      "area": "Matemática", "frente": "matematica", "tema": "Efeito multiplicador",
+      "tempoSugerido": 18,
+      "enunciado": "Suponha que, a cada real recebido, as famílias de uma economia gastem 80% e poupem o restante. O governo injeta R$ 10 bilhões nessa economia. Esse valor é gasto, vira renda de outras pessoas, que gastam 80% dele, e assim por diante.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Escreva a soma que representa o aumento total de renda gerado e explique por que ela é uma progressão geométrica.",
+          "resolucao": "O aumento total é 10 + 10 × 0,8 + 10 × 0,8² + 10 × 0,8³ + …\nCada rodada de gasto gera uma renda que é 80% da anterior, então a razão entre termos consecutivos é constante e igual a 0,8 — que é a definição de progressão geométrica.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Escreveu alguns termos sem identificar a razão constante, ou tratou a soma como progressão aritmética." },
+            { "pct": 50, "desc": "Escreveu a soma infinita com razão 0,8 e justificou por que é geométrica." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual é o aumento total de renda gerado pela injeção?",
+          "respostaFinal": { "rotulo": "aumento em bilhões de reais", "aceitas": ["50"] },
+          "conferencia": "10 / (1 - 0.8)",
+          "resolucao": "Como a razão 0,8 está entre 0 e 1, a soma infinita é S = a₁/(1 − q).\nS = 10/(1 − 0,8) = 10/0,2 = R$ 50 bilhões.\nO fator 1/(1 − 0,8) = 5 é o que os economistas chamam de multiplicador.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Somou apenas as primeiras rodadas, ou dividiu por 0,8 em vez de 0,2." },
+            { "pct": 50, "desc": "Aplicou a soma da PG infinita e chegou a R$ 50 bilhões." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eco-10",
+      "area": "Matemática", "frente": "matematica", "tema": "Salário real",
+      "tempoSugerido": 15,
+      "enunciado": "Um trabalhador ganhava R$ 3.000,00 no início do ano. Ao longo do ano, a inflação acumulada foi de 12% e ele recebeu um reajuste salarial de 8%.",
+      "itens": [
+        {
+          "id": "a",
+          "comando": "Qual é o salário nominal do trabalhador depois do reajuste?",
+          "respostaFinal": { "rotulo": "salário em reais", "aceitas": ["3240", "R$ 3.240,00"] },
+          "conferencia": "3000 * 1.08",
+          "resolucao": "Salário nominal: 3.000 × 1,08 = R$ 3.240,00.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Aplicou a inflação em vez do reajuste, ou somou 8 reais." },
+            { "pct": 50, "desc": "Aplicou o reajuste e chegou a R$ 3.240,00." }
+          ]
+        },
+        {
+          "id": "b",
+          "comando": "Qual seria o salário equivalente, em poder de compra do início do ano? O trabalhador ganhou ou perdeu?",
+          "respostaFinal": { "rotulo": "salário real em reais", "aceitas": ["2892,86", "2892.86", "2892,9"], "intervalo": [2892, 2894] },
+          "conferencia": "3000 * 1.08 / 1.12",
+          "resolucao": "Para comparar com o início do ano, divide-se o salário nominal pelo fator da inflação: 3.240/1,12 ≈ 2.892,86.\nComo esse valor é menor que os R$ 3.000,00 originais, o trabalhador perdeu poder de compra — cerca de 3,6%.",
+          "faixas": [
+            { "pct": 0, "desc": "Em branco ou totalmente incorreta." },
+            { "pct": 25, "desc": "Subtraiu as taxas e concluiu perda de 4% sem calcular o salário equivalente, ou multiplicou pela inflação em vez de dividir." },
+            { "pct": 50, "desc": "Deflacionou o salário nominal e chegou a aproximadamente R$ 2.892,86, concluindo que houve perda." }
+          ]
+        }
+      ]
+    }
+  ]
+}

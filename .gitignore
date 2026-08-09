@@ -16,3 +16,11 @@ vestibular-medicina/txt/
 
 # Cache do interpretador Python (gerado ao importar pools.py).
 __pycache__/
+
+# Cadernos oficiais da FGV EESP (Economia), mesma regra da pasta de Medicina:
+# 159 MB de material de ORIGEM, publico e rebaixavel, sem funcao no app.
+vestibular-economia/provas/
+
+# Texto extraido dos cadernos com pdftotext, para escrever os estudos. Sai de
+# novo em um comando a partir dos PDFs, e os PDFs ja estao fora do git.
+tmp/

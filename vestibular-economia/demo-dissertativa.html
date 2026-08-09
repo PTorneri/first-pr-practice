@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dissertativa de Matemática — sagax Economia</title>
+
+<!--
+  Página de prova da tela, não parte do app.
+
+  A trilha de Economia ainda não existe em trilhas.js, e app.js está com
+  trabalho de outra sessão em cima. Então a tela nasce aqui, isolada, rodando
+  contra três questões REAIS da FGV EESP 2026.1 — com a resolução e as faixas
+  da grade oficial. É o jeito de saber se o formato aguenta o original antes
+  de escrever 150 questões nele.
+
+  Quando a trilha entrar, o que migra é dissertativa-exatas.js + .css; esta
+  página pode ser apagada.
+
+  Rodar:  powershell -ExecutionPolicy Bypass -File serve-root.ps1
+          http://localhost:8844/vestibular-economia/demo-dissertativa.html
+-->
+
+<link rel="stylesheet" href="../vestibular-direito-v2/styles.css">
+<link rel="stylesheet" href="dissertativa-exatas.css">
+<style>
+  /* Só o enquadramento da página de prova — nada aqui vai para o app. */
+  body { background: var(--bg); color: var(--ink); }
+  .demo-wrap { max-width: 760px; margin: 0 auto; padding: 32px 20px 64px; }
+  .demo-head { margin-bottom: 24px; }
+  .demo-head h1 { font-size: 1.35rem; margin: 0 0 8px; }
+  .demo-head p { color: var(--ink-soft); font-size: 0.92rem; line-height: 1.6; margin: 0 0 6px; }
+  .demo-total {
+    position: sticky; bottom: 0; margin-top: 24px;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+    padding: 14px 16px; font-size: 0.95rem;
+  }
+  .demo-total strong { color: var(--ink); }
+  .demo-filtro { display: block; margin-top: 14px; font-size: 0.88rem; color: var(--ink-soft); }
+  .demo-filtro select {
+    font: inherit; margin-left: 6px; padding: 7px 10px; border-radius: 8px;
+    border: 1px solid var(--border-strong); background: var(--surface); color: var(--ink);
+  }
+</style>
+</head>
+<body>
+<div class="demo-wrap">
+  <div class="demo-head">
+    <h1>Matemática discursiva — FGV EESP</h1>
+    <p>
+      Oito questões destas valem <strong>30% da nota final</strong> do vestibular de Economia da FGV.
+      Escreva a resolução antes de abrir o gabarito: a grade da banca dá <strong>0% a 25%</strong> para
+      resposta certa sem conta.
+    </p>
+    <p id="resumo"></p>
+    <label class="demo-filtro">
+      Tema:
+      <select id="tema"></select>
+    </label>
+  </div>
+
+  <div class="lesson-card" id="questoes"></div>
+
+  <div class="demo-total" id="total">Nenhuma questão avaliada ainda.</div>
+</div>
+
+<script src="data/dissertativas-matematica.js"></script>
+<script src="dissertativa-exatas.js"></script>
+<script>
+(function () {
+  const container = document.getElementById("questoes");
+  const totalEl = document.getElementById("total");
+  const seletor = document.getElementById("tema");
+  const todas = window.DISSERTATIVAS_EXATAS || [];
+  let questoes = [];
+
+  // 153 questões numa página só dão 254 textareas — o navegador aguenta, mas
+  // ninguém estuda assim. O filtro por tema é o que torna a página utilizável
+  // como prova de mesa; no app, quem escolhe a questão do dia é o schedule.
+  const grupos = {};
+  todas.forEach(function (q) {
+    (grupos[q.grupo] = grupos[q.grupo] || []).push(q);
+  });
+  const chaves = Object.keys(grupos).sort();
+
+  document.getElementById("resumo").innerHTML =
+    "<strong>" + todas.length + " questões</strong> no banco — " +
+    (todas.length - 3) + " autorais e 3 reais da prova de 2026.1, estas com a resolução e as faixas oficiais.";
+
+  chaves.forEach(function (k) {
+    const opt = document.createElement("option");
+    opt.value = k;
+    opt.textContent = k + " (" + grupos[k].length + ")";
+    seletor.appendChild(opt);
+  });
+
+  function atualizarTotal() {
+    let soma = 0;
+    let avaliadas = 0;
+    questoes.forEach(function (q) {
+      const n = window.VD_EXATAS.nota(q, "demo_");
+      if (n.valor === null) return;
+      // Só entra no total a questão INTEIRA avaliada: média de questão pela
+      // metade puxaria a nota para baixo e mentiria sobre o desempenho.
+      if (n.avaliados < n.total) return;
+      soma += n.valor;
+      avaliadas += 1;
+    });
+    if (avaliadas === 0) {
+      totalEl.textContent = "Nenhuma questão avaliada ainda.";
+      return;
+    }
+    const media = (soma / avaliadas).toFixed(1).replace(".", ",");
+    totalEl.innerHTML =
+      "<strong>Média nas questões avaliadas: " + media + "</strong> — " +
+      avaliadas + " de " + questoes.length + " questões.";
+  }
+
+  function desenhar() {
+    questoes = grupos[seletor.value] || [];
+    container.innerHTML = "";
+    questoes.forEach(function (q) {
+      window.VD_EXATAS.render(container, q, { ns: "demo_", onNota: atualizarTotal });
+    });
+    atualizarTotal();
+  }
+
+  seletor.addEventListener("change", desenhar);
+  desenhar();
+})();
+</script>
+</body>
+</html>

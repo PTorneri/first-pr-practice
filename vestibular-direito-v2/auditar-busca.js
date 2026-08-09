@@ -199,8 +199,12 @@ function montarMotor() {
 // ------------------------------------------------------------------- montagem
 
 const ativa = carregarBanco(TRILHA_ATIVA);
-const outraId = Object.keys(BANCOS).find((k) => k !== TRILHA_ATIVA);
-const secundaria = carregarBanco(outraId);
+// TODAS as outras, não a primeira: buscaMontarDocs passou a receber uma lista
+// quando a terceira trilha entrou no registro. Auditar só a primeira mediria um
+// índice menor do que o que roda no navegador — exatamente o tipo de segurança
+// falsa que o cabeçalho deste arquivo diz que não queremos.
+const outrasIds = Object.keys(BANCOS).filter((k) => k !== TRILHA_ATIVA);
+const secundarias = outrasIds.map(carregarBanco);
 
 const motor = montarMotor();
 
@@ -211,14 +215,14 @@ motor.window.ASSUNTOS = ctxAssuntos.window.ASSUNTOS || [];
 motor.window.SUBTOPICS = ativa.SUBTOPICS;
 motor.window.QUESTION_BANKS = ativa.QUESTION_BANKS;
 motor.window.QUESTION_TEXTS = ativa.QUESTION_TEXTS;
-motor.buscaConstruirIndice({
-  trilha: secundaria.trilha,
-  SUBTOPICS: secundaria.SUBTOPICS,
-  QUESTION_BANKS: secundaria.QUESTION_BANKS,
+motor.buscaConstruirIndice(secundarias.map((s) => ({
+  trilha: s.trilha,
+  SUBTOPICS: s.SUBTOPICS,
+  QUESTION_BANKS: s.QUESTION_BANKS,
   // No modo --legado a trilha secundária recebe o mapa da ATIVA, que é o que a
   // produção fazia antes da correção — ver o cabeçalho.
-  QUESTION_TEXTS: LEGADO ? ativa.QUESTION_TEXTS : secundaria.QUESTION_TEXTS,
-}, SEM_EXTRA ? null : carregarExtra());
+  QUESTION_TEXTS: LEGADO ? ativa.QUESTION_TEXTS : s.QUESTION_TEXTS,
+})), SEM_EXTRA ? null : carregarExtra());
 
 const ASSUNTOS = motor.window.ASSUNTOS;
 const TOTAL_DOCS = motor.buscaDocs.length;
@@ -323,7 +327,7 @@ function main() {
     }, null, 2));
   } else {
     console.log(`banco: ${TOTAL_DOCS} questões indexadas ` +
-      `(${TRILHA_ATIVA} ativa + ${outraId})` + (LEGADO ? "  [--legado]" : ""));
+      `(${TRILHA_ATIVA} ativa + ${outrasIds.join(" + ")})` + (LEGADO ? "  [--legado]" : ""));
     console.log(`piso: ${PISO} questões por assunto\n`);
 
     if (!SO_FIXTURE) {

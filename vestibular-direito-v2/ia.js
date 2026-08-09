@@ -16,9 +16,32 @@
 // O Firebase AI Logic conversa com o Gemini a partir do próprio navegador,
 // usando a config pública do projeto — não existe chave de API neste arquivo,
 // nem haveria onde escondê-la. Quem faz o papel de porteiro é o App Check
-// (ver firebase-init.js). O modelo gemini-3.6-flash não exige faturamento no
-// Gemini Developer API, então nada disto depende do plano Blaze nem de um
-// segundo alvo de deploy: publicar continua sendo o commit na main.
+// (ver firebase-init.js). Publicar continua sendo o commit na main: não há
+// segundo alvo de deploy.
+//
+// ---------- Isto agora custa dinheiro ----------
+//
+// Até 09/08/2026 o projeto rodava sem faturamento, e a correção caía na cota
+// GRATUITA da Gemini Developer API. Era de graça e tinha um preço: nos termos
+// dessa cota, o Google pode usar o conteúdo enviado para melhorar seus
+// produtos, e revisores humanos podem lê-lo. O conteúdo enviado aqui é a
+// redação do aluno, e boa parte dos alunos é menor de idade.
+//
+// Com o projeto no Blaze, o mesmo SDK passa à cota PAGA — a fronteira é a
+// conta de faturamento vinculada ao projeto, não uma chave ou um parâmetro
+// deste arquivo. Nos termos da cota paga o Google não usa prompts nem
+// respostas para melhorar produtos, e o log fica limitado a detectar violação
+// da política de uso proibido. É o que a Política de Privacidade descreve.
+//
+// A conta: ~US$ 0,007 por correção (1.860 tokens de entrada, 550 de saída, a
+// US$1,50/M e US$7,50/M). Em uso realista dá ~1% da receita.
+//
+// O QUE MUDA DE RISCO: o LIMITE_DIARIO abaixo mora no localStorage e é
+// burlável. Na cota gratuita, burlar só esgotava a cota do Google e falhava —
+// o prejuízo era capado por construção. Agora burlar gasta dinheiro de
+// verdade. O freio passou a ser o teto de cota da Firebase AI Logic API, no
+// Google Cloud, e é ELE que precisa acompanhar o número de assinantes. Mover
+// esta contagem para fora do navegador exigiria Cloud Functions.
 //
 // ---------- O molde ----------
 //
@@ -34,9 +57,11 @@ import {
 } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-ai.js";
 import { app, appCheckPronto } from "./firebase-init.js?v=35";
 
-// gemini-3.6-flash é o recomendado que roda sem faturamento no Gemini
-// Developer API. Ao trocar, confira em firebase.google.com/docs/ai-logic/models
-// se o substituto também dispensa faturamento — o 3.1 Pro, por exemplo, não.
+// Com o projeto no Blaze, a escolha do modelo deixou de ser limitada pelo
+// "roda sem faturamento" e passou a ser sobre preço por token: este custa
+// US$1,50/M na entrada e US$7,50/M na saída. Ao trocar, confira o preço em
+// firebase.google.com/docs/ai-logic/pricing — um modelo Pro multiplica a
+// conta, e o gargalo aqui é julgar uma grade de critérios, não raciocinar.
 const MODELO = "gemini-3.6-flash";
 
 const LIMITE_DIARIO = 10;

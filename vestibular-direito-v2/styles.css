@@ -2118,13 +2118,6 @@ h4 { font-size: 1.0625rem; }
 .doc li { margin-bottom: 8px; line-height: 1.6; }
 .doc a { color: var(--accent); }
 
-/* O aviso sobre o que é enviado ao provedor de IA. É a única coisa nestas duas
-   páginas que alguém precisa ler mesmo passando o olho — daí a moldura. */
-.doc-aviso {
-  background: var(--warn-soft); border: 1px solid var(--warn-border); color: var(--warn);
-  border-radius: var(--radius-sm); padding: 14px 16px; margin: 0 0 12px;
-}
-
 .doc-pe {
   display: flex; gap: 20px; flex-wrap: wrap;
   margin-top: 48px; padding-top: 20px; border-top: 1px solid var(--border);

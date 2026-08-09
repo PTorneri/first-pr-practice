@@ -69,9 +69,17 @@ export const db = getFirestore(app);
 // loaded in api.js" — as duas famílias carregam scripts diferentes,
 // api.js e enterprise.js, e uma não valida chave da outra.
 //
-// Enterprise não exige faturamento aqui: sem conta de cobrança o projeto fica
-// com 4 níveis de limiar de risco em vez de 11, e nada mais. Continua valendo
-// a decisão de não depender do Blaze.
+// Sobre faturamento: este comentário dizia que o Enterprise não exigia conta
+// de cobrança, e que sem ela o projeto ficava com 4 níveis de limiar de risco
+// em vez de 11. As duas coisas continuam verdadeiras, mas a conclusão que
+// vinha depois — "continua valendo a decisão de não depender do Blaze" — não:
+// desde 09/08/2026 o projeto ESTÁ no Blaze, por causa da correção por IA (ver
+// o cabeçalho do ia.js). Então os 11 níveis estão disponíveis.
+//
+// Efeito colateral a não esquecer: o Blaze mede TODOS os serviços do projeto,
+// e o reCAPTCHA Enterprise é um deles — passa a ser tarifado depois da
+// franquia mensal. No volume atual isso é ruído, mas é a razão de existir um
+// alerta de orçamento configurado no Cloud Billing.
 //
 // Chave Enterprise NÃO tem segredo — só a site key, que é pública por design,
 // como a apiKey acima. É ela também que se cola no registro do App Check; se o

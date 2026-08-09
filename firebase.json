@@ -22,6 +22,25 @@
     "duvida sobre o /__/auth/*. 302 e nao 301 para nao ficar cacheado para sempre",
     "no navegador de ninguem, caso este arranjo mude."
   ],
+  "_comentario_firestore": [
+    "Aponta para o .local, e NAO para o firestore.rules versionado, de proposito.",
+    "",
+    "O arquivo versionado guarda COLE_SEU_UID_AQUI no lugar do UID do dono,",
+    "porque este repositorio e publico -- e a mesma razao pela qual o admin.html",
+    "gera as regras na hora em vez de manter uma lista de UIDs. Se este campo",
+    "apontasse para ele, um `firebase deploy` publicaria o placeholder e tiraria",
+    "o dono do proprio painel.",
+    "",
+    "O .local esta no .gitignore. Nao existe na maquina? Gere com:",
+    "  sed 's|COLE_SEU_UID_AQUI|<seu-uid>|' vestibular-direito-v2/firestore.rules > vestibular-direito-v2/firestore.rules.local",
+    "O UID sai de Authentication > Users, ou da tela de bootstrap do painel.",
+    "",
+    "Publicar so as regras:  firebase deploy --only firestore:rules",
+    "O console guarda historico das versoes, entao um deploy ruim se reverte por la."
+  ],
+  "firestore": {
+    "rules": "vestibular-direito-v2/firestore.rules.local"
+  },
   "hosting": {
     "public": "public",
     "ignore": [

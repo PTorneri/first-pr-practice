@@ -28,3 +28,14 @@ tmp/
 # PDFs gerados (o banco de 1.500 questoes ja virou data/banco-extra.js).
 # Sao saida, nao fonte: saem de novo rodando o gerador.
 output/
+
+# Regras do Firestore com o UID real do dono, geradas a partir do
+# vestibular-direito-v2/firestore.rules (que e a referencia versionada e guarda
+# COLE_SEU_UID_AQUI no lugar do UID). Este repositorio e publico: o UID nao
+# entra nele -- e a mesma razao pela qual o admin.html gera as regras na hora em
+# vez de guardar uma lista de UIDs.
+#
+# Regerar: trocar COLE_SEU_UID_AQUI pelo UID (Authentication > Users, ou a tela
+# de bootstrap do painel) e salvar como .local. E o arquivo que o firebase.json
+# manda para o deploy.
+*.rules.local

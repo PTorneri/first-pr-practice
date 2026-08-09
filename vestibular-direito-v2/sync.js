@@ -12,8 +12,8 @@
 // entrada (questão por questão, dia por dia), com uma regra por tipo de
 // dado — descritas em MERGE_STRATEGY logo abaixo.
 
-import { doc, getDoc, setDoc, deleteDoc } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js";
-import { db } from "./firebase-init.js?v=31";
+import { doc, getDoc, setDoc, deleteDoc } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-firestore.js";
+import { db } from "./firebase-init.js?v=32";
 
 const META_KEY = "v2_syncMeta"; // { "<chave>": <ms da última escrita local> } — não sobe pra nuvem
 const PUSH_DEBOUNCE_MS = 2500;
@@ -26,6 +26,8 @@ const PUSH_DEBOUNCE_MS = 2500;
 //                 frente foi praticada).
 //  "maisProgresso" -> contadores derivados (respondidas/acertos): vence a
 //                 entrada com mais respostas, que é a que viu mais história.
+//  "maior"     -> contadores que só sobem (correções por IA usadas no dia):
+//                 vence o número maior.
 //  "entrada"   -> padrão: união entrada a entrada; quando os DOIS lados têm
 //                 a mesma entrada com valores diferentes, vence o lado que
 //                 escreveu por último.
@@ -46,6 +48,11 @@ const MERGE_STRATEGY = {
   vd_topicLastAnswered: "maisRecente",
   vd_dayState: "maisProgresso",
   vd_topicState: "maisProgresso",
+  // Gasto do dia em correções por IA. Precisa ser "maior" e não a regra padrão:
+  // com "vence quem escreveu por último", gastar as dez no computador e depois
+  // abrir o celular (que ainda tem o contador em zero) devolveria as dez, e o
+  // limite viraria decoração.
+  vd_iaUsage: "maior",
 };
 
 // Tira o prefixo completo ("v2_dir_", "v2_med_" ou só "v2_") para achar a
@@ -114,6 +121,8 @@ function mergeValue(key, local, remote, localTs, remoteTs) {
 
     if (strategy === "ou") {
       out[entry] = l || r;
+    } else if (strategy === "maior") {
+      out[entry] = Math.max(Number(l) || 0, Number(r) || 0);
     } else if (strategy === "maisRecente") {
       out[entry] = String(r) > String(l) ? r : l;
     } else if (strategy === "maisProgresso") {
@@ -387,13 +396,15 @@ async function start(user) {
 }
 
 function markDirty(key) {
-  // Aceita as chaves da trilha ativa (v2_dir_* / v2_med_*) e também a chave da
-  // trilha em si, que vive fora do namespace justamente por ser quem decide
-  // qual namespace usar.
+  // Aceita as chaves da trilha ativa (v2_dir_* / v2_med_*) e também as que
+  // valem para a conta inteira e por isso vivem fora do namespace: a chave da
+  // trilha (que é quem decide qual namespace usar) e a cota diária de
+  // correções por IA (que é do bolso, não do curso).
   if (!key) return;
   const daTrilhaAtiva = key.indexOf(window.VD_KEYS.NS) === 0;
-  const ehChaveDeTrilha = key === window.VD_KEYS.TRILHA;
-  if (!daTrilhaAtiva && !ehChaveDeTrilha) return;
+  const globais = window.VD_KEYS.GLOBAIS || [window.VD_KEYS.TRILHA];
+  const ehGlobal = globais.indexOf(key) !== -1;
+  if (!daTrilhaAtiva && !ehGlobal) return;
   const meta = loadMeta();
   meta[key] = Date.now();
   saveMeta(meta);

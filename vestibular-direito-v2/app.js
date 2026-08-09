@@ -27,6 +27,12 @@
   const LS_REDACAO_ANSWERS = NS + "vd_redacaoAnswers"; // { "<redacaoId>": "texto do usuário" }, aba Redação (prova à parte, não é dissertativa)
   const LS_REDACAO_CHECKLIST = NS + "vd_redacaoChecklist"; // { "<redacaoId>::<pointIndex>": true }, autoavaliação pela grade oficial
   const LS_REDACAO_DONE = NS + "vd_redacaoDone"; // { "<redacaoId>": true }, propostas já treinadas
+  const LS_DISSERT_IA = NS + "vd_dissertIA"; // { "<day>::<questionId>::<itemId>": {criterios,faixa,...} }, correção por IA
+  const LS_REDACAO_IA = NS + "vd_redacaoIA"; // { "<redacaoId>": {criterios,faixa,...} }, correção por IA
+  // Fora do namespace da trilha, ao lado de v2_trilha: a cota de correções é do
+  // bolso, não do curso. Namespaceada, quem estuda Direito e Medicina no mesmo
+  // login teria vinte por dia em vez de dez.
+  const LS_IA_USAGE = "v2_vd_iaUsage"; // { "<isoDate>": n }, quantas correções por IA hoje
   const LS_CYCLE_WEIGHTS = NS + "vd_cycleWeights"; // { "<cycleIndex>": { "<subtopicId>": peso } }, travado após cada simulado
   const LS_SIMULADO_MODO = NS + "vd_simuladoModo"; // { "<dia>": "adaptativo" | "fgv" | "insper" }, modo do simulado daquele domingo
   const LS_SCORE_HISTORY = NS + "vd_scoreHistory"; // { "<isoDate>": score 0..1 }, achado 5 (score projetado)
@@ -48,6 +54,12 @@
     // estratégia padrão ("entrada") serve: por dia, vence a escolha mais
     // recente, que é a que o usuário acabou de fazer.
     LS_SIMULADO_MODO,
+    // A aba Redação ficou de fora do sync desde que ela existe, e isso não
+    // aparecia porque nada mais dependia dela. Com a correção por IA aparece:
+    // o parecer subiria pra nuvem e o texto corrigido não, então abrir no
+    // celular mostraria uma correção detalhada de uma redação em branco.
+    LS_REDACAO_ANSWERS, LS_REDACAO_CHECKLIST, LS_REDACAO_DONE,
+    LS_DISSERT_IA, LS_REDACAO_IA,
   ];
 
   // Lista de sufixos (chave sem o prefixo de trilha). É o que a migração de
@@ -61,11 +73,22 @@
   // TRILHA entra em SYNCABLE porque a escolha do curso precisa viajar entre
   // aparelhos: quem escolheu Medicina no celular não pode ser perguntado de
   // novo ao abrir no computador. Ela é a única chave fora do namespace.
+  // As chaves que valem para a CONTA inteira, e não para um curso: a trilha
+  // escolhida e a cota diária de correções por IA. sync.js precisa da lista
+  // porque ele descarta, por segurança, tudo que não pertença ao namespace
+  // ativo — sem estar aqui, a chave seria escrita no aparelho e nunca subiria.
+  const CHAVES_GLOBAIS = [
+    window.VD_TRILHA ? window.VD_TRILHA.CHAVE : "v2_trilha",
+    LS_IA_USAGE,
+  ];
+
   window.VD_KEYS = {
     NS: NS,
-    SYNCABLE: SYNCABLE_KEYS.concat([window.VD_TRILHA ? window.VD_TRILHA.CHAVE : "v2_trilha"]),
+    SYNCABLE: SYNCABLE_KEYS.concat(CHAVES_GLOBAIS),
     START: LS_START,
     TRILHA: window.VD_TRILHA ? window.VD_TRILHA.CHAVE : "v2_trilha",
+    IA_USAGE: LS_IA_USAGE,
+    GLOBAIS: CHAVES_GLOBAIS,
     BASES: BASE_KEYS,
   };
 
@@ -2044,6 +2067,171 @@
     },
   };
 
+  // ---------- Correção por IA ----------
+  //
+  // A dissertativa e a redação são corrigidas pelo mesmo desenho, e por isso
+  // dividem estas funções. O ponto do desenho: a IA NÃO ganha um parecer
+  // separado ao lado da autoavaliação — ela preenche a MESMA grade, critério a
+  // critério, e o veredito dela aparece embaixo da caixa que a pessoa marcou.
+  //
+  // É a divergência que ensina. Marcar "cumpri os cinco" e ver o corretor
+  // reconhecer dois, com a citação do que de fato está no texto, é a correção
+  // que a autoavaliação sozinha nunca dá — quem não percebe que errou é
+  // justamente quem marca o critério como cumprido.
+  //
+  // Quem fala com o Gemini é o ia.js (módulo ES); daqui só se chama.
+
+  function getDissertIA() { return loadJSON(LS_DISSERT_IA, {}); }
+  function getRedacaoIA() { return loadJSON(LS_REDACAO_IA, {}); }
+
+  // Quantas correções cada chave guarda. Elas moram no documento do usuário no
+  // Firestore, que é cortado em 1 MiB — e ao contrário do resto do progresso
+  // (uma letra por questão), cada correção tem alguns quilobytes de texto. Sem
+  // teto, 60 redações mais 90 itens de dissertativa chegariam perto do limite e
+  // derrubariam o sync do progresso INTEIRO, não só o da correção.
+  //
+  // Poda pela data: some a mais antiga. Com dez correções por dia, quarenta são
+  // várias semanas de histórico, e a correção que interessa reler é sempre a
+  // recente — a antiga é de um texto que já foi reescrito.
+  const MAX_CORRECOES_GUARDADAS = 40;
+
+  function salvarCorrecaoIA(chave, getter, id, correcao) {
+    const estado = getter();
+    estado[id] = correcao;
+    const ids = Object.keys(estado);
+    if (ids.length > MAX_CORRECOES_GUARDADAS) {
+      ids
+        .sort((a, b) => (estado[a].quando || 0) - (estado[b].quando || 0))
+        .slice(0, ids.length - MAX_CORRECOES_GUARDADAS)
+        .forEach((velho) => delete estado[velho]);
+    }
+    saveJSON(chave, estado);
+  }
+
+  // A grade guardada tem que ter o mesmo tamanho da grade atual. Quando uma
+  // questão é corrigida no banco e ganha ou perde um ponto esperado, a correção
+  // antiga passa a apontar para o critério errado — e um veredito preciso sobre
+  // o critério errado é pior do que nenhum, porque parece confiável.
+  function correcaoIAValida(correcao, pontos) {
+    return Boolean(
+      correcao && correcao.criterios && correcao.criterios.length === pontos.length
+    );
+  }
+
+  const FAIXA_ROTULO = {
+    competitiva: "Competitiva",
+    precisa_ajuste: "Precisa de ajuste",
+    refazer: "Vale refazer",
+  };
+  const VEREDITO_ROTULO = {
+    cumprido: "cumpriu",
+    parcial: "parcial",
+    nao_cumprido: "não cumpriu",
+  };
+
+  // Quantos critérios o corretor reconheceu de fato — o número que fica ao lado
+  // do que a pessoa marcou sozinha.
+  function iaCumpridos(correcao) {
+    if (!correcao || !correcao.criterios) return null;
+    return correcao.criterios.filter((c) => c.veredito === "cumprido").length;
+  }
+
+  // O veredito de UM critério, embutido no <li> da grade.
+  function vereditoIAHtml(v) {
+    if (!v) return "";
+    return `
+      <div class="ia-veredito" data-veredito="${v.veredito}">
+        <span class="ia-selo">${VEREDITO_ROTULO[v.veredito] || v.veredito}</span>
+        ${v.comentario ? `<span class="ia-comentario">${escapeHtml(v.comentario)}</span>` : ""}
+        ${v.evidencia ? `<blockquote class="ia-evidencia">${escapeHtml(v.evidencia)}</blockquote>` : ""}
+      </div>
+    `;
+  }
+
+  // Uma linha da grade: a caixa da autoavaliação e, quando existe, o veredito
+  // do corretor logo abaixo. Serve às duas telas.
+  function pontoGradeHtml(texto, indice, marcado, vIA) {
+    return `
+      <li${vIA ? ' class="com-ia"' : ""}>
+        <label>
+          <input type="checkbox" data-point="${indice}" ${marcado ? "checked" : ""}>
+          <span>${escapeHtml(texto)}</span>
+        </label>
+        ${vereditoIAHtml(vIA)}
+      </li>
+    `;
+  }
+
+  // O cabeçalho da correção: a faixa, o erro mais caro e o que fazer depois.
+  function correcaoIAResumoHtml(correcao) {
+    if (!correcao) return "";
+    return `
+      <div class="ia-resumo" data-faixa="${correcao.faixa}">
+        <div class="ia-faixa">${FAIXA_ROTULO[correcao.faixa] || correcao.faixa}</div>
+        ${correcao.erroMaisCaro ? `<p class="ia-erro"><strong>O que mais custa nota:</strong> ${escapeHtml(correcao.erroMaisCaro)}</p>` : ""}
+        ${correcao.oQueFazer ? `<p class="ia-fazer"><strong>Na próxima:</strong> ${escapeHtml(correcao.oQueFazer)}</p>` : ""}
+        <p class="hint ia-aviso">Correção automática. Ela erra — quando discordar de um
+        veredito, a grade oficial e o seu julgamento valem mais do que ela.</p>
+      </div>
+    `;
+  }
+
+  // O botão e a linha de recado. Fica desabilitado quando a cota do dia acabou,
+  // dizendo isso — um botão que só falha ao ser clicado é pior do que um botão
+  // que já avisa.
+  function botaoIAHtml(temCorrecao) {
+    // Três estados, e cada um diz a verdade sobre por que o botão está como
+    // está. O silencioso seria pior: um botão apagado sem explicação parece
+    // defeito do app, e um que só falha depois do clique gasta a paciência de
+    // quem já escreveu o texto.
+    if (!window.VD_IA || !window.VD_IA.pronto) {
+      return `
+        <div class="ia-acoes">
+          <button class="btn btn-secondary ia-btn" type="button" style="width:auto" disabled>Corrigir com IA</button>
+          <span class="hint ia-cota">A correção por IA ainda não foi ligada neste app.</span>
+        </div>
+        <p class="ia-erro-msg" hidden></p>
+      `;
+    }
+    const restantes = window.VD_IA.restantesHoje();
+    const semCota = restantes <= 0;
+    return `
+      <div class="ia-acoes">
+        <button class="btn btn-secondary ia-btn" type="button" style="width:auto"${semCota ? " disabled" : ""}>${
+          temCorrecao ? "Corrigir de novo" : "Corrigir com IA"
+        }</button>
+        <span class="hint ia-cota">${semCota
+          ? "Você já usou as " + window.VD_IA.LIMITE_DIARIO + " correções de hoje — elas voltam amanhã."
+          : restantes + " de " + window.VD_IA.LIMITE_DIARIO + " correções restantes hoje"}</span>
+      </div>
+      <p class="ia-erro-msg" hidden></p>
+    `;
+  }
+
+  // Liga o botão. `pedir` chama o VD_IA, `guardar` grava onde for (dissertativa
+  // ou redação) e `redesenhar` remonta a tela com a correção no lugar.
+  function ligarBotaoIA(escopo, pedir, guardar, redesenhar) {
+    const botao = escopo.querySelector(".ia-btn");
+    const recado = escopo.querySelector(".ia-erro-msg");
+    if (!botao) return;
+    botao.addEventListener("click", async () => {
+      const rotulo = botao.textContent;
+      botao.disabled = true;
+      botao.textContent = "Corrigindo…";
+      recado.hidden = true;
+      const resultado = await pedir();
+      if (!resultado.ok) {
+        recado.textContent = resultado.mensagem;
+        recado.hidden = false;
+        botao.disabled = false;
+        botao.textContent = rotulo;
+        return;
+      }
+      guardar(resultado.correcao);
+      redesenhar();
+    });
+  }
+
   // ---------- Aba Redação ----------
   // A Redação é prova separada nas duas bancas: na FGV ela é uma das provas
   // discursivas do 1º dia (20 a 30 linhas, dissertativo-argumentativo em prosa)
@@ -2145,14 +2333,12 @@
       const checklist = getRedacaoChecklist();
       const keyFor = (i) => p.id + "::" + i;
       const marcados = p.pontosEsperados.filter((_, i) => checklist[keyFor(i)]).length;
-      const pontosHtml = p.pontosEsperados.map((pt, i) => `
-        <li>
-          <label>
-            <input type="checkbox" data-point="${i}" ${checklist[keyFor(i)] ? "checked" : ""}>
-            <span>${escapeHtml(pt)}</span>
-          </label>
-        </li>
-      `).join("");
+      const guardada = getRedacaoIA()[p.id];
+      const correcaoIA = correcaoIAValida(guardada, p.pontosEsperados) ? guardada : null;
+      const vistosIA = iaCumpridos(correcaoIA);
+      const pontosHtml = p.pontosEsperados.map((pt, i) =>
+        pontoGradeHtml(pt, i, checklist[keyFor(i)], correcaoIA && correcaoIA.criterios[i])
+      ).join("");
 
       card.innerHTML = `
         <div class="lesson-eyebrow">Proposta${p.modelo ? " · " + escapeHtml(p.modelo) : ""} · ~${p.tempoSugerido} min</div>
@@ -2170,11 +2356,15 @@
         </div>` : ""}
         <textarea class="dissert-textarea" rows="18" placeholder="Escreva sua redação aqui (20 a 30 linhas)...">${escapeHtml(answers[p.id] || "")}</textarea>
         <div class="hint redacao-contador"></div>
-        <button class="btn-link redacao-toggle-grade" type="button">Ver grade de correção</button>
-        <div class="redacao-grade-wrap" hidden>
-          <div class="dissert-gabarito-counter">${marcados}/${p.pontosEsperados.length} critérios marcados</div>
+        ${botaoIAHtml(Boolean(correcaoIA))}
+        <button class="btn-link redacao-toggle-grade" type="button">${correcaoIA ? "Ocultar grade de correção" : "Ver grade de correção"}</button>
+        <div class="redacao-grade-wrap"${correcaoIA ? "" : " hidden"}>
+          <div class="dissert-gabarito-counter">${marcados}/${p.pontosEsperados.length} critérios marcados${
+            vistosIA === null ? "" : ` · <span class="ia-contraste">o corretor reconheceu ${vistosIA}</span>`
+          }</div>
           <p class="hint" style="margin:0 0 8px;">Releia o que você escreveu e marque os critérios que realmente
-          cumpriu — é autoavaliação, não há correção automática.</p>
+          cumpriu. Vale marcar antes de pedir a correção — a diferença entre as duas leituras é o que ensina.</p>
+          ${correcaoIAResumoHtml(correcaoIA)}
           <ul class="dissert-gabarito">${pontosHtml}</ul>
         </div>
         <div class="dissert-actions">
@@ -2232,9 +2422,21 @@
           if (cb.checked) estado[k] = true; else delete estado[k];
           saveJSON(LS_REDACAO_CHECKLIST, estado);
           const n = p.pontosEsperados.filter((_, i) => estado[keyFor(i)]).length;
-          counterEl.textContent = `${n}/${p.pontosEsperados.length} critérios marcados`;
+          // innerHTML, e não textContent: o contador carrega junto o que o
+          // corretor reconheceu, e reescrever só o número apagaria a metade que
+          // dá sentido à comparação.
+          counterEl.innerHTML = `${n}/${p.pontosEsperados.length} critérios marcados${
+            vistosIA === null ? "" : ` · <span class="ia-contraste">o corretor reconheceu ${vistosIA}</span>`
+          }`;
         });
       });
+
+      ligarBotaoIA(
+        card,
+        () => window.VD_IA.corrigirRedacao({ proposta: p, texto: textarea.value }),
+        (correcao) => salvarCorrecaoIA(LS_REDACAO_IA, getRedacaoIA, p.id, correcao),
+        renderRedacaoTab
+      );
 
       card.querySelector(".redacao-concluir").addEventListener("click", () => {
         const estado = getRedacaoDone();
@@ -3890,19 +4092,18 @@
     wrap.className = "question dissert-question";
     const savedAnswers = getDissertAnswers();
     const checklist = getDissertChecklist();
+    const correcoesIA = getDissertIA();
     const itens = dissertItens(q);
 
     const itensHtml = itens.map((item, itemIdx) => {
       const answerKey = dissertItemKey(day, q.id, item.id);
       const checklistKeyFor = (pointIdx) => answerKey + "::" + pointIdx;
-      const pontosHtml = item.pontosEsperados.map((p, i) => `
-        <li>
-          <label>
-            <input type="checkbox" data-point="${i}" ${checklist[checklistKeyFor(i)] ? "checked" : ""}>
-            <span>${escapeHtml(p)}</span>
-          </label>
-        </li>
-      `).join("");
+      const guardada = correcoesIA[answerKey];
+      const correcaoIA = correcaoIAValida(guardada, item.pontosEsperados) ? guardada : null;
+      const vistosIA = iaCumpridos(correcaoIA);
+      const pontosHtml = item.pontosEsperados.map((p, i) =>
+        pontoGradeHtml(p, i, checklist[checklistKeyFor(i)], correcaoIA && correcaoIA.criterios[i])
+      ).join("");
       const marcados = item.pontosEsperados.filter((_, i) => checklist[checklistKeyFor(i)]).length;
       // Um comando que pede "duas razões" é pontuado contando: o selo existe para
       // que o candidato veja o número antes de escrever, e não depois de perder
@@ -3917,11 +4118,15 @@
         <div class="dissert-item" data-item="${item.id}">
           <div class="q-enunciado">${rotulo}${escapeHtml(item.comando)} ${selo}</div>
           <textarea class="dissert-textarea" rows="6" placeholder="Escreva sua resposta aqui...">${escapeHtml(savedAnswers[answerKey] || "")}</textarea>
-          <button class="btn-link dissert-toggle-gabarito" type="button">Ver pontos esperados na correção</button>
-          <div class="dissert-gabarito-wrap" hidden>
-            <div class="dissert-gabarito-counter">${marcados}/${item.pontosEsperados.length} pontos marcados</div>
+          ${botaoIAHtml(Boolean(correcaoIA))}
+          <button class="btn-link dissert-toggle-gabarito" type="button">${correcaoIA ? "Ocultar pontos esperados" : "Ver pontos esperados na correção"}</button>
+          <div class="dissert-gabarito-wrap"${correcaoIA ? "" : " hidden"}>
+            <div class="dissert-gabarito-counter">${marcados}/${item.pontosEsperados.length} pontos marcados${
+              vistosIA === null ? "" : ` · <span class="ia-contraste">o corretor reconheceu ${vistosIA}</span>`
+            }</div>
             <p class="hint" style="margin:0 0 8px;">Depois de escrever, releia sua resposta e marque os pontos que você
-            realmente cobriu — é uma autoavaliação, não existe correção automática.</p>
+            realmente cobriu. Vale marcar antes de pedir a correção — a diferença entre as duas leituras é o que ensina.</p>
+            ${correcaoIAResumoHtml(correcaoIA)}
             <ul class="dissert-gabarito">${pontosHtml}</ul>
           </div>
         </div>
@@ -3954,6 +4159,15 @@
         toggleBtn.textContent = gabaritoWrap.hidden ? "Ver pontos esperados na correção" : "Ocultar pontos esperados";
       });
 
+      // Recalculado aqui porque a montagem do HTML acontece em outro escopo:
+      // o mesmo veredito que foi desenhado na grade, e passando pelo mesmo
+      // correcaoIAValida(), pra que o contador nunca anuncie um número que a
+      // grade não está mostrando.
+      const vistosIA = (() => {
+        const guardada = getDissertIA()[answerKey];
+        return correcaoIAValida(guardada, item.pontosEsperados) ? iaCumpridos(guardada) : null;
+      })();
+
       // Conta a partir da leitura mais recente do localStorage, e não de um
       // snapshot fechado por closure — do contrário, marcar um ponto no item (b)
       // apagaria o que já estava marcado no item (a) do mesmo dia.
@@ -3965,9 +4179,25 @@
           if (cb.checked) state[k] = true; else delete state[k];
           saveJSON(LS_DISSERT_CHECKLIST, state);
           const n = item.pontosEsperados.filter((_, i) => state[checklistKeyFor(i)]).length;
-          counterEl.textContent = `${n}/${item.pontosEsperados.length} pontos marcados`;
+          // innerHTML pelo mesmo motivo da aba Redação: o contador carrega o
+          // que o corretor reconheceu, e textContent apagaria a comparação.
+          //
+          // Usa o vistosIA do render, e não uma releitura do localStorage: a
+          // correção não muda enquanto se marca caixa, e reler aqui passaria por
+          // fora do correcaoIAValida() — o contador anunciaria um veredito que a
+          // grade, desatualizada, não está mostrando.
+          counterEl.innerHTML = `${n}/${item.pontosEsperados.length} pontos marcados${
+            vistosIA === null ? "" : ` · <span class="ia-contraste">o corretor reconheceu ${vistosIA}</span>`
+          }`;
         });
       });
+
+      ligarBotaoIA(
+        bloco,
+        () => window.VD_IA.corrigirDissertativa({ questao: q, item: item, resposta: textarea.value }),
+        (correcao) => salvarCorrecaoIA(LS_DISSERT_IA, getDissertIA, answerKey, correcao),
+        () => renderDissertSection(day)
+      );
     });
 
     return wrap;
@@ -4449,8 +4679,8 @@
     if (firebaseDb) return true;
     try {
       const [{ initializeApp }, firestoreMod] = await Promise.all([
-        import("https://www.gstatic.com/firebasejs/10.14.1/firebase-app.js"),
-        import("https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js"),
+        import("https://www.gstatic.com/firebasejs/12.17.1/firebase-app.js"),
+        import("https://www.gstatic.com/firebasejs/12.17.1/firebase-firestore.js"),
       ]);
       const app = initializeApp(window.FIREBASE_CONFIG);
       firebaseDb = firestoreMod.getFirestore(app);

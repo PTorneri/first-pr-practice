@@ -7,9 +7,13 @@
 // o projeto. Quem protege os dados são as regras do Firestore (cada usuário
 // só enxerga o próprio documento) e o Auth — não o segredo da chave.
 
-import { initializeApp } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-app.js";
-import { getAuth } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-auth.js";
-import { getFirestore } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js";
+import { initializeApp } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-app.js";
+import { getAuth } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-auth.js";
+import { getFirestore } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-firestore.js";
+import {
+  initializeAppCheck,
+  ReCaptchaV3Provider,
+} from "https://www.gstatic.com/firebasejs/12.17.1/firebase-app-check.js";
 
 export const FIREBASE_CONFIG = {
   apiKey: "AIzaSyDR63dF7wg4GuLzdy8CGSrsQ4iqP746sWU",
@@ -48,3 +52,50 @@ export const FIREBASE_CONFIG = {
 export const app = initializeApp(FIREBASE_CONFIG);
 export const auth = getAuth(app);
 export const db = getFirestore(app);
+
+// ---------- App Check ----------
+//
+// O App Check prova que quem está chamando é o NOSSO app, e não um script
+// qualquer com a config copiada da página. Isso não importava enquanto o
+// Firebase só guardava progresso (as regras do Firestore já barram quem tenta
+// ler o documento alheio), mas a correção por IA é diferente: ela gasta cota
+// de um recurso pago-por-uso, e cota é do projeto inteiro — quem abusar tira
+// de todo mundo ao mesmo tempo. Por isso o Google torna o App Check
+// OBRIGATÓRIO para o AI Logic a partir de 02/11/2026.
+//
+// A chave abaixo é do reCAPTCHA v3 (não o Enterprise): é o provedor que não
+// exige faturamento, na mesma linha da decisão de usar o Gemini pelo plano
+// gratuito. Ela é pública por design, como a apiKey acima — o segredo do
+// reCAPTCHA fica no console do Firebase, nunca aqui.
+//
+// COMO PREENCHER:
+//   1. google.com/recaptcha/admin > criar chave v3, com os domínios
+//      sagaxedu.com.br, www.sagaxedu.com.br, ptorneri.github.io e localhost.
+//   2. Firebase Console > App Check > registrar o app web com a chave secreta.
+//   3. Colar a SITE KEY aqui embaixo.
+//
+// IMPOSIÇÃO: ligue apenas no AI Logic. Impor no Firestore derrubaria o sync de
+// quem ainda estiver com a versão antiga do app em cache — o navegador guarda
+// os arquivos por até 10 minutos, e nesse intervalo as duas versões convivem.
+const RECAPTCHA_SITE_KEY = "6Lcws30tAAAAAGuZtuBYNT4NCuhNEVQeYqcJ5muM";
+
+// Enquanto a chave não existe, o app inteiro continua funcionando: login, sync
+// e relato de questão nunca dependeram do App Check. Só a correção por IA fica
+// de fora, e ia.js sabe dizer isso em português em vez de deixar o Google
+// responder com um 403 cru.
+export const appCheckPronto = Boolean(RECAPTCHA_SITE_KEY);
+
+if (appCheckPronto) {
+  // Em localhost não há como o reCAPTCHA atestar nada, então o SDK imprime um
+  // token de depuração no console; registre-o em App Check > Gerenciar tokens
+  // de depuração e a máquina passa a ser aceita. O token vale só para este
+  // navegador — não é segredo compartilhado, e não vai para produção porque
+  // esta linha só roda em localhost.
+  if (location.hostname === "localhost" || location.hostname === "127.0.0.1") {
+    self.FIREBASE_APPCHECK_DEBUG_TOKEN = true;
+  }
+  initializeAppCheck(app, {
+    provider: new ReCaptchaV3Provider(RECAPTCHA_SITE_KEY),
+    isTokenAutoRefreshEnabled: true,
+  });
+}

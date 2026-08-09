@@ -11,8 +11,8 @@
 // Onde ler os relatos: Firebase Console > Firestore Database > coleção
 // "feedback", mais recentes primeiro (campo createdAt).
 
-import { collection, addDoc } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js";
-import { db } from "./firebase-init.js?v=31";
+import { collection, addDoc } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-firestore.js";
+import { db } from "./firebase-init.js?v=32";
 
 // Guarda o que já foi enviado nesta sessão pra evitar relato duplicado por
 // clique repetido. Não persiste: relatar de novo amanhã é legítimo.

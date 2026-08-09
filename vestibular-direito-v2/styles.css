@@ -969,6 +969,76 @@ h4 { font-size: 1.0625rem; }
 .dissert-gabarito label { display: flex; gap: 8px; align-items: flex-start; cursor: pointer; }
 .dissert-gabarito input { margin-top: 3px; flex-shrink: 0; }
 
+/* ---------- v2: correção por IA ----------
+   A grade já vive sobre --good-soft (o verde pálido do gabarito). Por isso o
+   veredito NÃO pinta o próprio fundo com a cor do estado: sobre o verde, um
+   segundo fundo colorido vira sopa. Ele usa --surface, que é o fundo do cartão,
+   e leva a cor só na barra da esquerda e no selo — o mesmo recurso do
+   .dissert-card. Tudo em variáveis, que já existem nos dois temas: no escuro o
+   --good-soft é translúcido e o --surface por baixo dele continua legível. */
+.ia-acoes { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin: 8px 0 4px; }
+.ia-cota { margin: 0; }
+.ia-erro-msg {
+  margin: 6px 0 0; padding: 8px 10px; border-radius: 8px; font-size: 0.9rem;
+  background: var(--bad-soft); border: 1px solid var(--bad-border); color: var(--bad);
+}
+
+.ia-resumo {
+  background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--border-strong);
+  border-radius: 8px; padding: 10px 12px; margin: 8px 0 12px;
+}
+.ia-resumo[data-faixa="competitiva"] { border-left-color: var(--good); }
+.ia-resumo[data-faixa="precisa_ajuste"] { border-left-color: var(--warn); }
+.ia-resumo[data-faixa="refazer"] { border-left-color: var(--bad); }
+.ia-faixa { font-weight: 700; margin-bottom: 4px; }
+.ia-resumo[data-faixa="competitiva"] .ia-faixa { color: var(--good); }
+.ia-resumo[data-faixa="precisa_ajuste"] .ia-faixa { color: var(--warn); }
+.ia-resumo[data-faixa="refazer"] .ia-faixa { color: var(--bad); }
+.ia-resumo p { margin: 4px 0 0; }
+.ia-aviso { margin-top: 8px !important; }
+
+/* O número que o corretor reconheceu, ao lado do que a pessoa marcou. É o
+   contraste entre os dois que dá sentido à correção, então ele não pode herdar
+   o verde do contador — herdaria a leitura de "está tudo certo". */
+.ia-contraste { color: var(--ink-soft); font-weight: 600; }
+
+.dissert-gabarito li.com-ia { margin-bottom: 12px; }
+.ia-veredito {
+  margin: 6px 0 0 26px; padding: 8px 10px; border-radius: 8px;
+  background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--border-strong);
+  font-size: 0.9rem;
+}
+.ia-veredito[data-veredito="cumprido"] { border-left-color: var(--good); }
+.ia-veredito[data-veredito="parcial"] { border-left-color: var(--warn); }
+.ia-veredito[data-veredito="nao_cumprido"] { border-left-color: var(--bad); }
+.ia-selo {
+  display: inline-block; font-size: 0.76rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.04em; padding: 2px 7px; border-radius: 999px; margin-right: 6px;
+}
+.ia-veredito[data-veredito="cumprido"] .ia-selo {
+  background: var(--good-soft); color: var(--good); border: 1px solid var(--good-border);
+}
+.ia-veredito[data-veredito="parcial"] .ia-selo {
+  background: var(--warn-soft); color: var(--warn); border: 1px solid var(--warn-border);
+}
+.ia-veredito[data-veredito="nao_cumprido"] .ia-selo {
+  background: var(--bad-soft); color: var(--bad); border: 1px solid var(--bad-border);
+}
+.ia-comentario { color: var(--ink); }
+/* A citação do texto da própria pessoa. Itálico e recuada pra que ninguém a
+   leia como se fosse frase do corretor. */
+.ia-evidencia {
+  margin: 6px 0 0; padding: 0 0 0 10px; border-left: 2px solid var(--border-strong);
+  font-style: italic; color: var(--ink-soft);
+}
+.ia-evidencia::before { content: "“"; }
+.ia-evidencia::after { content: "”"; }
+
+@media (max-width: 700px) {
+  /* No celular o recuo de 26px comeria a largura útil do comentário. */
+  .ia-veredito { margin-left: 0; }
+}
+
 /* ---------- v2: login com Google ---------- */
 .btn-google {
   display: flex; align-items: center; justify-content: center; gap: 10px;

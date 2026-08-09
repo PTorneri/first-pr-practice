@@ -220,6 +220,7 @@ h4 { font-size: 1.0625rem; }
 #view-onboarding,
 #view-login,
 #view-sync-error,
+#view-assinatura,
 #view-escolha-trilha {
   min-height: 100vh;
   display: flex;
@@ -530,7 +531,36 @@ h4 { font-size: 1.0625rem; }
 
 /* Telas de entrada: aqui o botão de largura cheia está certo — é a única
    ação da tela. */
-#view-login .btn, #view-onboarding .btn, #view-sync-error .btn { width: 100%; margin-bottom: 10px; }
+#view-login .btn, #view-onboarding .btn, #view-sync-error .btn,
+#view-assinatura .btn { width: 100%; margin-bottom: 10px; }
+
+/* O "Assinar" do portão é <a> e não <button>: leva para fora, para o checkout.
+   Só que .btn foi escrito para botão, e âncora não herda text-align nem centra
+   sozinha — sem estas duas linhas o rótulo encosta na esquerda e o botão
+   principal da tela onde se paga fica torto. box-sizing porque o padding de
+   .btn somaria aos 100% de largura. */
+#view-assinatura a.btn {
+  display: flex;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+/* Com qual conta a pessoa entrou. Caixa e não parágrafo solto porque é a
+   informação que resolve o engano mais caro desta tela (pagou num e-mail,
+   entrou noutro) e precisa ser lida antes do botão, não depois dele. */
+.portao-conta {
+  background: var(--warn-soft);
+  border: 1px solid var(--warn-border);
+  color: var(--warn);
+  border-radius: var(--radius-sm);
+  padding: 12px 14px;
+  margin: 0 0 18px;
+  font-size: 0.845rem;
+  line-height: 1.5;
+}
+.portao-conta strong { word-break: break-all; }
 
 /* ═══════════════════════════════════════════════════════════════════════════
    O CASCO: barra lateral + cabeçalho de página
@@ -1972,7 +2002,11 @@ h4 { font-size: 1.0625rem; }
      retângulo solto no meio do cinza. As outras telas de entrada são cartões de
      verdade e continuam com margem — só mais estreita. */
   #view-login { padding: 0; align-items: stretch; }
-  #view-onboarding, #view-sync-error, #view-escolha-trilha { padding: 16px; }
+  #view-onboarding, #view-sync-error, #view-assinatura, #view-escolha-trilha { padding: 16px; }
+  /* A mesma régua de 52px do login. Aqui ela importa mais que em qualquer outra
+     tela: no tamanho herdado do desktop os botões saíam com 43px e 37px, abaixo
+     do alvo de toque, na única tela do app onde a pessoa está tentando pagar. */
+  #view-assinatura .btn { min-height: 52px; }
   .login-split { grid-template-columns: 1fr; min-height: 100vh; }
   .login-pitch { padding: 40px 26px 32px; align-items: center; text-align: center; gap: 20px; }
   .login-pitch-brand { flex-direction: column; gap: 12px; }

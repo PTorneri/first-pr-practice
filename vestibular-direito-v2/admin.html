@@ -10,8 +10,8 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap">
 <!-- Ao mudar admin.css ou admin.js, incremente o ?v= aqui (mesma regra do index.html:
      o GitHub Pages serve com max-age=600 e o navegador segura a versão antiga). -->
-<link rel="stylesheet" href="styles.css?v=33">
-<link rel="stylesheet" href="admin.css?v=33">
+<link rel="stylesheet" href="styles.css?v=35">
+<link rel="stylesheet" href="admin.css?v=35">
 </head>
 <body class="admin-body">
 
@@ -63,8 +63,11 @@
       <img class="brand-logo" src="assets/logo.png" alt="">
       <span>Painel</span>
     </div>
+    <!-- Assinaturas vem primeiro e já aberta: com o portão no ar, liberar
+         acesso é o que se faz aqui todo dia. Os relatos continuam a um clique. -->
     <nav class="tabs">
-      <button class="tab-btn active" data-tab="relatos">Relatos</button>
+      <button class="tab-btn active" data-tab="assinaturas">Assinaturas</button>
+      <button class="tab-btn" data-tab="relatos">Relatos</button>
       <button class="tab-btn" data-tab="uso">Uso</button>
       <button class="tab-btn" data-tab="frentes">Frentes</button>
       <button class="tab-btn" data-tab="questoes">Questões mais erradas</button>
@@ -77,7 +80,8 @@
 
   <main class="content admin-content">
     <p id="admin-carregando" class="hint">Carregando dados…</p>
-    <section id="tab-relatos" class="tab-panel active"></section>
+    <section id="tab-assinaturas" class="tab-panel active"></section>
+    <section id="tab-relatos" class="tab-panel"></section>
     <section id="tab-uso" class="tab-panel"></section>
     <section id="tab-frentes" class="tab-panel"></section>
     <section id="tab-questoes" class="tab-panel"></section>
@@ -88,6 +92,6 @@
      e dos nomes das frentes pra rotular. Mesma base do v1, sem cópia. -->
 <script src="../vestibular-direito/data/subtopics.js?d=38"></script>
 <script src="../vestibular-direito/data/bundle.js?d=38"></script>
-<script type="module" src="admin.js?v=33"></script>
+<script type="module" src="admin.js?v=35"></script>
 </body>
 </html>

@@ -24,3 +24,7 @@ vestibular-economia/provas/
 # Texto extraido dos cadernos com pdftotext, para escrever os estudos. Sai de
 # novo em um comando a partir dos PDFs, e os PDFs ja estao fora do git.
 tmp/
+
+# PDFs gerados (o banco de 1.500 questoes ja virou data/banco-extra.js).
+# Sao saida, nao fonte: saem de novo rodando o gerador.
+output/

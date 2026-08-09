@@ -103,7 +103,45 @@
 .admin-barra { height: 8px; background: var(--bg); border-radius: 999px; overflow: hidden; }
 .admin-barra-fill { height: 100%; border-radius: 999px; background: currentColor; }
 
+/* Assinaturas */
+.admin-liberar { padding: 20px 22px; margin-bottom: 28px; }
+.admin-liberar h3 { margin: 0 0 6px; }
+.admin-textarea {
+  width: 100%; box-sizing: border-box; font: inherit; font-size: 0.9rem;
+  background: var(--bg); color: var(--ink); border: 1px solid var(--border-strong);
+  border-radius: 8px; padding: 10px 12px; resize: vertical; margin: 10px 0 0;
+}
+.admin-textarea:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+/* Coluna no celular: o select e o botão lado a lado espremem os dois abaixo de
+   360px, e o rótulo do plano é justamente o que não pode ficar ilegível. */
+.admin-liberar-linha { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-top: 10px; }
+.admin-select {
+  font: inherit; font-size: 0.875rem; flex: 1; min-width: 180px;
+  background: var(--surface); color: var(--ink); border: 1px solid var(--border-strong);
+  border-radius: var(--radius-sm); padding: 10px 12px;
+}
+.admin-resultado { font-size: 0.85rem; margin: 12px 0 0; color: var(--ink-soft); }
+.admin-resultado.ok { color: var(--good); font-weight: 600; }
+.admin-resultado.erro { color: var(--bad); font-weight: 600; }
+
+/* O e-mail é a única coluna que pode ser longa; as outras são curtas e o
+   nowrap da tabela vale para elas. Sem isto, um e-mail de 40 caracteres empurra
+   as ações para fora da largura visível. */
+.admin-email { white-space: normal; word-break: break-all; max-width: 260px; }
+.admin-status {
+  display: inline-block; font-size: 0.72rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.04em; padding: 3px 8px; border-radius: 999px; border: 1px solid transparent;
+}
+.admin-status.ativa { background: var(--good-soft); color: var(--good); border-color: var(--good-border); }
+.admin-status.vencida { background: var(--warn-soft); color: var(--warn); border-color: var(--warn-border); }
+.admin-status.cancelada { background: var(--bad-soft); color: var(--bad); border-color: var(--bad-border); }
+.admin-acoes-cel { display: flex; gap: 6px; }
+.admin-btn-mini { font-size: 0.78rem; padding: 5px 10px; white-space: nowrap; }
+
 @media (max-width: 640px) {
   .admin-data { margin-left: 0; width: 100%; }
   .admin-num-valor { font-size: 1.6rem; }
+  .admin-liberar-linha { flex-direction: column; align-items: stretch; }
+  .admin-liberar-linha .admin-btn-inline { width: 100%; min-height: 48px; }
+  .admin-select { min-height: 48px; }
 }

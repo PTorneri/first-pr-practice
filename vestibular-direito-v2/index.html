@@ -18,7 +18,8 @@
      buscar de novo. AO PUBLICAR UMA MUDANÇA EM styles.css OU app.js, INCREMENTE
      ESTE NÚMERO nos três lugares (aqui e nos dois <script> no fim da página).
 
-     Os módulos internos (sync.js, feedback.js, ia.js, firebase-init.js) TAMBÉM
+     Os módulos internos (sync.js, feedback.js, ia.js, assinatura.js,
+     firebase-init.js) TAMBÉM
      levam ?v=, dentro dos próprios imports. Antes ficavam de fora, e isso escondeu
      uma correção crítica do sync: auth.js chegava novo, mas importava um
      sync.js velho, servido do cache.
@@ -27,7 +28,7 @@
      diferente — se dois arquivos importarem "firebase-init.js" com ?v=
      DIFERENTES, o Firebase é inicializado duas vezes e o app quebra. Por isso
      o número tem que ser o MESMO em todos os imports, em todos os arquivos
-     (auth.js, sync.js, feedback.js, admin.js). Ao publicar, incremente tudo
+     (auth.js, sync.js, feedback.js, assinatura.js, admin.js). Ao publicar, incremente tudo
      junto: aqui, nos <script> do fim, no admin.html e nos imports.
 
      O CONTEÚDO usa um contador separado, ?d=, nos scripts de dados no fim da
@@ -38,7 +39,7 @@
      admin.html) — sem isso a correção leva até 10 minutos pra chegar em quem
      já visitou, e foi exatamente o que aconteceu na primeira publicação da
      reescrita das alternativas. -->
-<link rel="stylesheet" href="styles.css?v=33">
+<link rel="stylesheet" href="styles.css?v=35">
 </head>
 <body>
 
@@ -376,6 +377,32 @@
       um plano do zero e isso sim bagunçaria o que está salvo.</p>
       <button id="btn-tentar-sync" class="btn btn-primary">Tentar de novo</button>
       <button id="btn-sair-sync" class="btn btn-secondary">Sair da conta</button>
+    </div>
+  </section>
+
+  <!-- PORTÃO DE ASSINATURA: entrou na conta, mas o acesso não está liberado.
+       Vem ANTES do sync (ver auth.js) — não faz sentido baixar o progresso de
+       quem não vai abrir o app.
+
+       O título e o texto são escritos pelo auth.js, porque mudam com o motivo
+       (nunca assinou / venceu / cancelou / sem rede). O que está aqui é o
+       esqueleto e a única frase que vale para todos os casos: com qual conta a
+       pessoa entrou. Essa linha não é decoração — pagar com um e-mail e entrar
+       com outro é o engano mais provável desta tela, e sem ela a pessoa não tem
+       como perceber sozinha. -->
+  <section id="view-assinatura" class="view" hidden>
+    <div class="card onboarding-card">
+      <div class="onboarding-logo-wrap">
+        <img class="onboarding-logo" src="assets/logo.png" alt="">
+      </div>
+      <div class="eyebrow" id="portao-eyebrow">Acesso</div>
+      <h1 id="portao-titulo"></h1>
+      <p class="subtitle" id="portao-texto"></p>
+      <p class="portao-conta">Você entrou como <strong id="portao-email"></strong> — o acesso é
+      liberado para o e-mail usado no pagamento. Se você pagou com outro, entre com ele.</p>
+      <a id="portao-cta" class="btn btn-primary" href="#" target="_blank" rel="noopener" hidden></a>
+      <button type="button" id="btn-portao-recheck" class="btn btn-secondary">Já paguei — verificar de novo</button>
+      <button type="button" id="btn-portao-sair" class="btn btn-ghost">Entrar com outra conta</button>
     </div>
   </section>
 
@@ -726,14 +753,14 @@
      escolheu — só os dados daquela trilha entram no navegador. O conteúdo de
      Direito continua sendo o mesmo do v1: corrigir uma questão lá corrige nos
      dois apps. -->
-<script src="trilhas.js?v=33"></script>
-<script src="schedule.js?v=33"></script>
+<script src="trilhas.js?v=35"></script>
+<script src="schedule.js?v=35"></script>
 <!-- Dicionário de assuntos da busca. Vive aqui, e não em data/ de uma trilha,
      porque a taxonomia atravessa as duas: "crase" e "função quadrática" são o
      mesmo assunto em Direito e em Medicina. Pôr em data/ obrigaria a duplicar
      as listas de gramática, literatura, interpretação, inglês e matemática. -->
-<script src="assuntos.js?v=33"></script>
-<script src="app.js?v=33"></script>
-<script type="module" src="auth.js?v=33"></script>
+<script src="assuntos.js?v=35"></script>
+<script src="app.js?v=35"></script>
+<script type="module" src="auth.js?v=35"></script>
 </body>
 </html>

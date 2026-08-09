@@ -19,10 +19,11 @@
 //        URIs. Esse é sobre PARA ONDE o Google devolve, e é o authDomain de
 //        firebase-init.js. Sem ele, o Google recusa com redirect_uri_mismatch.
 
-import { auth } from "./firebase-init.js?v=33";
-import "./sync.js?v=33"; // define window.VD_SYNC
-import "./feedback.js?v=33"; // define window.VD_FEEDBACK
-import "./ia.js?v=33"; // define window.VD_IA (correção das dissertativas e redações)
+import { auth } from "./firebase-init.js?v=35";
+import "./sync.js?v=35"; // define window.VD_SYNC
+import "./feedback.js?v=35"; // define window.VD_FEEDBACK
+import "./ia.js?v=35"; // define window.VD_IA (correção das dissertativas e redações)
+import "./assinatura.js?v=35"; // define window.VD_ASSINATURA (o portão)
 import {
   GoogleAuthProvider,
   signInWithPopup,
@@ -41,6 +42,7 @@ const viewLogin = document.getElementById("view-login");
 const viewOnboarding = document.getElementById("view-onboarding");
 const viewMain = document.getElementById("view-main");
 const viewSyncError = document.getElementById("view-sync-error");
+const viewAssinatura = document.getElementById("view-assinatura");
 const viewEscolhaTrilha = document.getElementById("view-escolha-trilha");
 const btnLogin = document.getElementById("btn-login-google");
 const btnLogout = document.getElementById("btn-logout");
@@ -147,6 +149,22 @@ async function showLoggedIn(user) {
   }
   userChip.hidden = false;
 
+  // ---------- O portão ----------
+  //
+  // Antes do sync de propósito, por duas razões. A barata: não faz sentido
+  // baixar o progresso de quem não vai abrir o app. A que importa: o sync tem
+  // um modo de falha próprio (a tela "não consegui carregar seu progresso"), e
+  // empilhar os dois faria alguém sem assinatura ver uma mensagem sobre
+  // conexão. Cada bloqueio tem que dizer o seu próprio motivo.
+  //
+  // Enquanto PORTAO_ATIVO for false em assinatura.js, isto devolve "entra" na
+  // hora e sem ir à rede — o caminho existe inteiro, mas não barra ninguém.
+  const acesso = await window.VD_ASSINATURA.verificar(user);
+  if (!acesso.entra) {
+    mostrarPortao(acesso);
+    return;
+  }
+
   // Baixa e mescla o progresso da conta ANTES de montar o plano — é isso que
   // faz "retomar de onde parou" valer em qualquer aparelho.
   //
@@ -195,6 +213,7 @@ async function abrirTrilha(trilha) {
   if (viewLanding) viewLanding.hidden = true;
   viewLogin.hidden = true;
   viewSyncError.hidden = true;
+  viewAssinatura.hidden = true;
   viewEscolhaTrilha.hidden = true;
   viewOnboarding.hidden = false;
 
@@ -210,6 +229,7 @@ async function abrirTrilha(trilha) {
 function mostrarEscolhaDeTrilha() {
   viewLogin.hidden = true;
   viewSyncError.hidden = true;
+  viewAssinatura.hidden = true;
   viewOnboarding.hidden = true;
   viewMain.hidden = true;
   viewEscolhaTrilha.hidden = false;
@@ -258,6 +278,106 @@ async function escolherTrilha(id, container) {
   location.reload();
 }
 
+// ---------- A tela do portão ----------
+//
+// Quatro motivos diferentes trazem alguém até aqui, e eles pedem quatro
+// conversas diferentes. Quem nunca assinou precisa saber o que está comprando;
+// quem venceu precisa ouvir, antes de qualquer outra coisa, que o progresso não
+// foi apagado — é o medo real de quem perdeu acesso a um plano de 90 dias no
+// meio. Um texto genérico serviria mal aos dois.
+const TEXTOS_PORTAO = {
+  ausente: {
+    eyebrow: "Acesso",
+    titulo: "Falta liberar seu acesso",
+    texto: "Sua conta está criada, mas ainda não há uma assinatura ligada a este e-mail. " +
+      "Com a assinatura você abre o plano de 90 dias completo, com o progresso salvo na sua " +
+      "conta e a correção por IA das dissertativas e redações.",
+    recheck: "Já paguei — verificar de novo",
+    mostrarCta: true,
+  },
+  expirada: {
+    eyebrow: "Assinatura vencida",
+    titulo: "Seu acesso venceu",
+    texto: "Nada foi apagado: seu progresso, suas questões resolvidas e suas redações continuam " +
+      "guardados na sua conta, e voltam exatamente de onde pararam quando você renovar.",
+    recheck: "Já renovei — verificar de novo",
+    mostrarCta: true,
+  },
+  cancelada: {
+    eyebrow: "Assinatura cancelada",
+    titulo: "Este acesso está cancelado",
+    texto: "Seu progresso segue guardado e intacto. Se isto foi engano, use o botão abaixo para " +
+      "verificar de novo — e, se continuar assim, responda o e-mail da sua compra que a gente resolve.",
+    recheck: "Verificar de novo",
+    mostrarCta: true,
+  },
+  // Sem rede e sem veredito recente em cache. Aqui NÃO se oferece assinatura:
+  // a pessoa pode muito bem já ter pago, e mandar pagar de novo quem só está
+  // sem sinal seria o pior erro possível desta tela.
+  offline: {
+    eyebrow: "Sem conexão",
+    titulo: "Não consegui confirmar seu acesso",
+    texto: "Você entrou na conta, mas não deu pra checar sua assinatura — normalmente é a conexão. " +
+      "Se você já assinou, é só tentar de novo com a internet de volta.",
+    recheck: "Tentar de novo",
+    mostrarCta: false,
+  },
+  "sem-email": {
+    eyebrow: "Acesso",
+    titulo: "Esta conta não tem e-mail",
+    texto: "O acesso é ligado ao e-mail usado no pagamento, e esta conta Google não expôs um. " +
+      "Entre com uma conta Google que tenha e-mail.",
+    recheck: "Verificar de novo",
+    mostrarCta: false,
+  },
+};
+
+function mostrarPortao(acesso) {
+  const t = TEXTOS_PORTAO[acesso.estado] || TEXTOS_PORTAO.ausente;
+
+  document.getElementById("portao-eyebrow").textContent = t.eyebrow;
+  document.getElementById("portao-titulo").textContent = t.titulo;
+
+  // A data de vencimento entra no texto só quando existe e já passou. "Venceu
+  // em 12/03/2026" responde sozinha a pergunta que vem depois do susto.
+  let texto = t.texto;
+  if (acesso.expiraEm && acesso.estado === "expirada") {
+    const d = new Date(acesso.expiraEm).toLocaleDateString("pt-BR");
+    texto = "Sua assinatura terminou em " + d + ". " + texto;
+  }
+  document.getElementById("portao-texto").textContent = texto;
+  document.getElementById("portao-email").textContent = acesso.email || "—";
+
+  // O botão de assinar só aparece quando há para onde mandar. Sem URL de
+  // checkout, um botão "Assinar" que não leva a nada é pior do que a ausência
+  // dele — esta é justamente a tela onde a pessoa está tentando te pagar.
+  const cta = document.getElementById("portao-cta");
+  const checkout = window.VD_ASSINATURA.checkout || {};
+  const temCta = Boolean(t.mostrarCta && checkout.url);
+  if (temCta) {
+    cta.href = checkout.url;
+    cta.textContent = checkout.rotulo || "Assinar";
+  }
+  cta.hidden = !temCta;
+
+  // Sem o botão de assinar, "verificar de novo" vira a ação principal da tela e
+  // recebe o peso visual que estava no outro.
+  const btnRecheck = document.getElementById("btn-portao-recheck");
+  btnRecheck.textContent = t.recheck;
+  btnRecheck.classList.toggle("btn-primary", !temCta);
+  btnRecheck.classList.toggle("btn-secondary", temCta);
+
+  if (viewLanding) viewLanding.hidden = true;
+  viewLogin.hidden = true;
+  viewOnboarding.hidden = true;
+  viewMain.hidden = true;
+  viewEscolhaTrilha.hidden = true;
+  viewSyncError.hidden = true;
+  viewAssinatura.hidden = false;
+  userChip.hidden = true;
+  window.scrollTo(0, 0);
+}
+
 // Tela de bloqueio: não conseguimos ler o progresso da conta. Só oferece tentar
 // de novo ou sair — nada que crie estado novo por cima do que está na nuvem.
 function mostrarFalhaDeSync() {
@@ -266,6 +386,7 @@ function mostrarFalhaDeSync() {
   viewOnboarding.hidden = true;
   viewMain.hidden = true;
   viewEscolhaTrilha.hidden = true;
+  viewAssinatura.hidden = true;
   viewSyncError.hidden = false;
   userChip.hidden = true;
 }
@@ -280,6 +401,7 @@ function showLoggedOut() {
   viewOnboarding.hidden = true;
   viewMain.hidden = true;
   viewSyncError.hidden = true;
+  viewAssinatura.hidden = true;
   viewEscolhaTrilha.hidden = true;
   userChip.hidden = true;
   setLoading(false);
@@ -325,6 +447,14 @@ btnLogin.addEventListener("click", login);
 btnLogout.addEventListener("click", logout);
 document.getElementById("btn-tentar-sync").addEventListener("click", () => location.reload());
 document.getElementById("btn-sair-sync").addEventListener("click", logout);
+
+// "Já paguei / tentar de novo" recarrega em vez de só reconsultar o documento.
+// Um veredito positivo muda tudo o que vem depois — sync, trilha, boot do plano
+// — e refazer essa sequência aqui seria manter uma segunda versão do fluxo de
+// entrada em pé, para divergir da primeira no primeiro descuido. O reload é a
+// forma barata e sempre correta, o mesmo raciocínio da troca de trilha.
+document.getElementById("btn-portao-recheck").addEventListener("click", () => location.reload());
+document.getElementById("btn-portao-sair").addEventListener("click", logout);
 
 // Mantém a sessão entre visitas: quem já entrou uma vez não precisa
 // logar de novo a cada vez que abre o app.

@@ -37,6 +37,46 @@ service cloud.firestore {
       allow read: if isAdmin();
     }
 
+    // --- V2: assinatura (quem pode abrir o app) ---
+    //
+    // A CHAVE É O E-MAIL, não o uid. Parece errado — todo o resto aqui é por
+    // uid — mas é o único que funciona: quem paga chega pelo checkout, que sabe
+    // o e-mail e não sabe o uid. O uid só passa a existir quando a pessoa entra
+    // com o Google, e ela entra DEPOIS de pagar. Com o e-mail na chave, dá pra
+    // liberar o acesso antes do primeiro login; com o uid, seria preciso pedir
+    // que a pessoa entrasse, falhasse, mandasse o uid e esperasse.
+    //
+    // Grave sempre em minúsculas. A regra compara com .lower() dos dois lados
+    // seria o ideal, mas o {email} do caminho é o nome do documento e não dá
+    // pra normalizar aqui dentro — então quem escreve normaliza.
+    //
+    // NINGUÉM ESCREVE PELO APP. Quem escreve é o webhook do pagamento (via
+    // service account) ou o dono pelo painel. É isto que segura a coisa toda:
+    // a config do Firebase é pública, está na página, e sem este `write: false`
+    // qualquer pessoa se liberaria pelo console do navegador em uma linha.
+    //
+    // email_verified é exigido de propósito. Hoje o Google é o único provedor e
+    // sempre entrega e-mail verificado, então a checagem não muda nada. Ela
+    // existe para o dia em que houver login por e-mail/senha: sem ela, bastaria
+    // criar uma conta com o e-mail de um assinante para ler — e depois entrar.
+    match /assinaturas/{email} {
+      allow read: if request.auth != null
+                  && request.auth.token.email != null
+                  && request.auth.token.email_verified == true
+                  && request.auth.token.email.lower() == email;
+      allow read, write: if isAdmin();
+    }
+
+    // NOTA — o passo seguinte, quando o portão já estiver de pé: amarrar o sync
+    // do progresso à assinatura, com um get() em /assinaturas/{email} aqui
+    // embaixo, no match de users. Isso transforma "salvo na nuvem em qualquer
+    // aparelho" em benefício pago de verdade, e não só de fachada.
+    //
+    // NÃO faça isso antes de existir um documento de assinatura para cada
+    // usuário atual: no instante em que a regra subir, todo mundo sem documento
+    // para de sincronizar. E lembre que get() em regra é uma leitura cobrada
+    // por operação — não é de graça.
+
     // --- V2: relatos de problema em questões ---
     // Quem está logado pode CRIAR um relato, e só com o próprio uid (ninguém
     // relata se passando por outra pessoa). O admin lê e atualiza — o update

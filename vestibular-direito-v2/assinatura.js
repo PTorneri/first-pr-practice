@@ -6,6 +6,9 @@
 // veredito. Essa separação é de propósito: trocar de Cakto para Asaas, ou
 // liberar alguém na mão, não deve tocar em uma linha de app.
 //
+// Entra quem tem assinatura ativa OU quem ainda está nos 7 dias de teste — o
+// teste está mais abaixo e não custa nem leitura nem escrita.
+//
 // ---------- Onde mora a verdade ----------
 //
 // Em /assinaturas/{email}, no Firestore, com as regras de firestore.rules:
@@ -55,14 +58,112 @@ import { doc, getDoc } from "https://www.gstatic.com/firebasejs/12.17.1/firebase
 
 const PORTAO_ATIVO = false;
 
-// Para onde vai o botão "Assinar". Enquanto estiver vazio, a tela do portão
-// mostra o recado de que a assinatura ainda não abriu, em vez de um botão que
-// não leva a lugar nenhum — um link quebrado nesta tela é pior que botão
-// nenhum, porque é aqui que a pessoa está tentando te pagar.
+// ---------- O preço, num lugar só ----------
+//
+// Ele aparece em três telas — a landing (duas vezes), a faixa do teste e o
+// muro — e é exatamente o tipo de coisa que se muda em dois lugares e se
+// esquece no terceiro. Aqui é o único lugar onde os números são escritos;
+// todo o resto compõe a partir daqui.
+//
+// A landing traz a frase escrita no HTML também, mas só como o que aparece
+// antes deste módulo carregar: o auth.js sobrescreve com o que está aqui. Se
+// as duas divergirem, quem ganha é esta constante — e o HTML é o que o leitor
+// vê por alguns milissegundos, não o que fica.
+const PRECO = {
+  valor: "R$ 97",
+  periodo: "90 dias",
+};
+
+// Para onde vai o botão "Assinar". Enquanto a url estiver vazia, a tela do
+// portão mostra o recado de que a assinatura ainda não abriu, em vez de um
+// botão que não leva a lugar nenhum — um link quebrado nesta tela é pior que
+// botão nenhum, porque é aqui que a pessoa está tentando te pagar.
 const CHECKOUT = {
   url: "",
-  rotulo: "Assinar — R$ 97 por 90 dias",
+  rotulo: "Assinar — " + PRECO.valor + " por " + PRECO.periodo,
 };
+
+// ---------- O teste de 7 dias ----------
+//
+// Todo mundo entra com o app inteiro por 7 dias, contados do nascimento da
+// conta. Inteiro mesmo, inclusive a correção por IA — é ela que vende, e um
+// teste que esconde justamente a parte boa não prova nada.
+//
+// A data de início NÃO é guardada em lugar nenhum nosso, e é isso que a torna
+// difícil de burlar: ela é o creationTime que o próprio Firebase Auth carimba
+// quando a conta nasce. Limpar o navegador não zera o teste — entrar de novo
+// com a mesma conta Google devolve o mesmo carimbo. Ganhar mais 7 dias exige
+// criar outra conta Google, e isso é barreira suficiente para o tamanho do
+// problema. Guardar no localStorage seria um botão de "recomeçar o teste"; no
+// documento do usuário, o próprio dono pode escrever (é a regra do users/{uid});
+// no /assinaturas, ninguém do app escreve, então não havia onde criar.
+//
+// De quebra não custa leitura nem escrita, e funciona sem rede: o carimbo já
+// veio dentro do objeto do usuário que o Auth entregou.
+//
+// ATENÇÃO ao ligar o portão: quem já tem conta há mais de 7 dias está com o
+// teste vencido no mesmo instante. É exatamente por isso que o passo de
+// cadastrar todo mundo que já usa o app vem ANTES de virar a chave.
+const TESTE_DIAS = 7;
+
+function estadoDoTeste(user) {
+  const carimbo = user && user.metadata ? user.metadata.creationTime : null;
+  const nasceu = carimbo ? Date.parse(carimbo) : NaN;
+
+  // Sem carimbo não dá pra afirmar que o teste está valendo, e na dúvida ele
+  // não vale: o teste é um presente, não um direito a se presumir.
+  if (isNaN(nasceu)) return { dentro: false, terminaEm: 0, diasRestantes: 0 };
+
+  const terminaEm = nasceu + TESTE_DIAS * 86400000;
+  return {
+    dentro: Date.now() < terminaEm,
+    terminaEm: terminaEm,
+    // Arredonda pra cima: faltando 6h ainda se diz "1 dia", e não "0 dias",
+    // que leria como acabado enquanto a pessoa ainda está estudando.
+    diasRestantes: Math.max(0, Math.ceil((terminaEm - Date.now()) / 86400000)),
+  };
+}
+
+// ---------- O aviso de vencimento ----------
+//
+// A partir de quantos dias do fim o app avisa quem já assinou. Sete, o mesmo
+// número do cartão "vencem em 7 dias" do painel — o que você vê e o que a
+// pessoa vê têm que ser a mesma régua, senão você cobra alguém que ainda não
+// foi avisado.
+//
+// Antes disto o aviso não existia de nenhum lado: o painel te mostrava quem ia
+// vencer, e a PESSOA descobria batendo no muro, no meio de um plano de 90
+// dias. Quem está estudando para uma prova não pode perder o app sem aviso.
+const AVISO_VENCIMENTO_DIAS = 7;
+
+// Diferença em dias de CALENDÁRIO, não em blocos de 24 horas. É o que permite
+// dizer "vence hoje" e "vence amanhã" sem mentir: uma assinatura que termina
+// hoje às 23h está a 0 dias daqui, e não a 1 — que é o que a divisão simples
+// por 86400000 responderia às 8h da manhã.
+//
+// O Math.round existe pelo horário de verão: zerando as horas dos dois lados,
+// um dia de 23 ou 25 horas sairia como 0,96 ou 1,04 e o truncamento erraria a
+// véspera. O Brasil não tem horário de verão hoje, mas já teve e o app não
+// depende disso para estar certo.
+function diasAte(ms) {
+  if (!ms) return Infinity;
+  const hoje = new Date();
+  hoje.setHours(0, 0, 0, 0);
+  const alvo = new Date(ms);
+  alvo.setHours(0, 0, 0, 0);
+  return Math.round((alvo - hoje) / 86400000);
+}
+
+// A frase que a landing mostra embaixo dos dois botões de começar. Vive aqui,
+// e não no HTML, porque junta o número do teste com o do preço — as duas
+// constantes deste arquivo. Escrita na página, sairia errada na primeira vez
+// que um dos dois mudasse.
+//
+// Ordem proposital: o grátis primeiro. Quem chega precisa saber que pode
+// entrar hoje sem pagar, e só depois quanto custa continuar.
+function chamada() {
+  return TESTE_DIAS + " dias grátis. Depois, " + PRECO.valor + " por " + PRECO.periodo + ".";
+}
 
 // ---------- A graça do offline ----------
 //
@@ -165,13 +266,29 @@ async function verificar(user) {
   // (ele sempre entrega), mas o veredito precisa existir para todo caminho.
   if (!email) return { entra: false, estado: "sem-email", email: "" };
 
-  try {
-    const v = await consultar(email);
-    gravarCache(email, v);
-    return Object.assign({ email: email }, v);
-  } catch (err) {
-    console.warn("[assinatura] não consegui ler o acesso:", err.code || err.message);
+  const teste = estadoDoTeste(user);
 
+  // A assinatura é consultada MESMO com o teste valendo. Parece leitura
+  // desperdiçada — quem está no teste entra de qualquer jeito — mas é esta
+  // passagem que grava o cache: sem ela, quem assina no primeiro dia chegaria
+  // ao dia 8 sem veredito guardado e seria barrado no primeiro acesso sem rede.
+  let v = null;
+  let falhou = false;
+  try {
+    v = await consultar(email);
+    gravarCache(email, v);
+  } catch (err) {
+    falhou = true;
+    console.warn("[assinatura] não consegui ler o acesso:", err.code || err.message);
+  }
+
+  if (v && v.entra) return Object.assign({ email: email, teste: teste }, v);
+
+  // Sem assinatura válida, o teste ainda abre a porta — e ele não depende da
+  // rede, então vale inclusive quando a leitura acima falhou.
+  if (teste.dentro) return { entra: true, estado: "teste", email: email, teste: teste };
+
+  if (falhou) {
     const c = lerCache(email);
     const dentroDaGraca = c &&
       c.entra &&
@@ -179,10 +296,23 @@ async function verificar(user) {
       (!c.expiraEm || c.expiraEm > Date.now());
 
     if (dentroDaGraca) {
-      return { entra: true, estado: "graca", email: email, expiraEm: c.expiraEm, plano: c.plano };
+      return { entra: true, estado: "graca", email: email, expiraEm: c.expiraEm, plano: c.plano, teste: teste };
     }
-    return { entra: false, estado: "offline", email: email };
+    return { entra: false, estado: "offline", email: email, teste: teste };
   }
+
+  // Leitura boa, sem assinatura e com o teste vencido. Quem nunca teve
+  // documento é justamente quem acabou de sair do teste, e a mensagem tem que
+  // ser essa — "sua assinatura venceu" soaria como cobrança de algo que a
+  // pessoa nunca teve.
+  return {
+    entra: false,
+    estado: v.estado === "ausente" ? "teste-acabou" : v.estado,
+    email: email,
+    expiraEm: v.expiraEm,
+    plano: v.plano,
+    teste: teste,
+  };
 }
 
 // O ensaio: mesma leitura, mesmas regras, sem bloquear nada. Serve para virar a
@@ -193,15 +323,25 @@ async function diagnostico() {
   if (!user) return { erro: "ninguém logado" };
 
   const email = (user.email || "").toLowerCase().trim();
-  const saida = { email: email, portaoAtivo: PORTAO_ATIVO };
+  const teste = estadoDoTeste(user);
+  const saida = {
+    email: email,
+    portaoAtivo: PORTAO_ATIVO,
+    contaCriadaEm: (user.metadata && user.metadata.creationTime) || "?",
+    testeAtivo: teste.dentro,
+    testeTerminaEm: teste.terminaEm ? new Date(teste.terminaEm).toLocaleString("pt-BR") : "?",
+    testeDiasRestantes: teste.diasRestantes,
+  };
 
   try {
     const v = await consultar(email);
-    saida.veredito = v;
-    saida.entraria = v.entra;
+    saida.assinatura = v.estado;
+    // O que vale é o OU: assinatura ativa ou teste correndo. Mostrar só a
+    // assinatura aqui faria parecer que quem está no teste seria barrado.
+    saida.entraria = v.entra || teste.dentro;
   } catch (err) {
     saida.erro = err.code || err.message;
-    saida.entraria = false;
+    saida.entraria = teste.dentro;
   }
 
   console.table(saida);
@@ -213,4 +353,10 @@ window.VD_ASSINATURA = {
   diagnostico: diagnostico,
   checkout: CHECKOUT,
   ativo: PORTAO_ATIVO,
+  preco: PRECO,
+  chamada: chamada,
+  testeDias: TESTE_DIAS,
+  avisoDias: AVISO_VENCIMENTO_DIAS,
+  diasAte: diasAte,
+  _estadoDoTeste: estadoDoTeste, // exposto para verificação
 };

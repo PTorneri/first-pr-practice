@@ -56,7 +56,14 @@ const btnVoltarLanding = document.getElementById("btn-voltar-landing");
 
 // Guarda quem está logado pra que o resto do app (sync, correção por IA,
 // ofensiva) possa perguntar sem precisar reimportar o Firebase.
-window.VD_AUTH = { user: null, auth: auth };
+// _textoDaFaixa vai junto para verificação: é a função que decide o que a
+// pessoa lê sobre o próprio acesso, e ela tem casos de véspera que só se
+// conferem chamando (mesma ideia dos _ de admin.js).
+window.VD_AUTH = { user: null, auth: auth, _textoDaFaixa: textoDaFaixa };
+
+// O veredito do portão de quem entrou. É dele que a faixa de acesso tira o
+// que dizer: quantos dias faltam de teste, ou quando a assinatura vence.
+let acessoAtual = null;
 
 function showError(msg) {
   errorBox.textContent = msg;
@@ -164,6 +171,9 @@ async function showLoggedIn(user) {
     mostrarPortao(acesso);
     return;
   }
+  // Guardado para depois do boot: a faixa de acesso só pode ser montada quando
+  // a tela do plano existir, e isso é lá embaixo, no fim de abrirTrilha().
+  acessoAtual = acesso;
 
   // Baixa e mescla o progresso da conta ANTES de montar o plano — é isso que
   // faz "retomar de onde parou" valer em qualquer aparelho.
@@ -223,6 +233,84 @@ async function abrirTrilha(trilha) {
   if (userTrilha && cfg) userTrilha.textContent = cfg.subtitulo || cfg.nome || "";
 
   window.VD_BOOT();
+  mostrarFaixaDeAcesso();
+}
+
+// ---------- A faixa de acesso, dentro do app ----------
+//
+// Ela serve a duas conversas, e as duas existem pelo mesmo motivo: ninguém
+// pode perder o app de surpresa.
+//
+//   No teste  — sem a faixa o teste é invisível. A pessoa usaria sete dias
+//               achando que o app é assim, e no oitavo bateria num muro que
+//               nunca foi anunciado, que é a pior forma possível de pedir
+//               dinheiro.
+//   Vencendo  — antes disto o aviso não existia de lado nenhum. O painel
+//               mostrava a VOCÊ quem ia vencer; a pessoa descobria no muro, no
+//               meio de um plano de 90 dias e possivelmente na véspera da
+//               prova.
+//
+// Nos dois casos ela fala do que falta, nunca do que passou.
+//
+// Fica fora do app.js de propósito. Quem sabe do portão é este arquivo; o
+// app.js monta o plano e não precisa aprender sobre assinatura para isso.
+function mostrarFaixaDeAcesso() {
+  const faixa = document.getElementById("faixa-acesso");
+  if (!faixa || !acessoAtual) return;
+
+  const texto = textoDaFaixa(acessoAtual);
+  if (!texto) return; // nada a dizer hoje: a faixa nem aparece
+
+  document.getElementById("faixa-acesso-texto").textContent = texto;
+
+  const cta = document.getElementById("faixa-acesso-cta");
+  const checkout = window.VD_ASSINATURA.checkout || {};
+  const temCta = Boolean(checkout.url);
+  if (temCta) {
+    cta.href = checkout.url;
+    // Quem já é assinante RENOVA; quem está no teste ASSINA. O verbo errado
+    // aqui faz o assinante achar que vai pagar duas vezes.
+    const p = window.VD_ASSINATURA.preco || {};
+    cta.textContent = acessoAtual.estado === "ativa"
+      ? "Renovar — " + p.valor + " por " + p.periodo
+      : (checkout.rotulo || "Assinar");
+  }
+  cta.hidden = !temCta;
+
+  faixa.hidden = false;
+}
+
+// Devolve o que a faixa diz hoje, ou "" para não aparecer.
+function textoDaFaixa(acesso) {
+  if (acesso.estado === "teste") {
+    const dias = (acesso.teste && acesso.teste.diasRestantes) || 0;
+    // "Último dia" em vez de "falta 1 dia": é a véspera, e nomear a véspera
+    // pesa mais do que um número que se lê de passagem.
+    return dias <= 1
+      ? "Último dia do seu teste grátis."
+      : "Teste grátis — faltam " + dias + " dias.";
+  }
+
+  if (acesso.estado === "ativa") {
+    // Sem prazo (vitalício, cortesia) nunca vence: diasAte devolve Infinity e
+    // a comparação abaixo já resolve, sem caso especial.
+    const dias = window.VD_ASSINATURA.diasAte(acesso.expiraEm);
+
+    // Longe do fim, a faixa NÃO aparece. Uma tarja permanente dizendo "está
+    // tudo certo" vira ruído que se aprende a ignorar — e aí ela não seria
+    // vista justamente no dia em que tivesse algo a dizer.
+    if (dias > window.VD_ASSINATURA.avisoDias) return "";
+
+    if (dias <= 0) return "Sua assinatura vence hoje.";
+    if (dias === 1) return "Sua assinatura vence amanhã.";
+    return "Sua assinatura vence em " + dias + " dias.";
+  }
+
+  // "graca" cai aqui e fica em silêncio de propósito: é o estado de quem está
+  // sem rede, com um veredito guardado. Cobrar renovação de quem talvez só
+  // esteja no metrô, a partir de um dado que não pudemos confirmar, seria
+  // errado nas duas pontas.
+  return "";
 }
 
 // Tela de escolha do curso — só para quem ainda não tem trilha na conta.
@@ -286,6 +374,18 @@ async function escolherTrilha(id, container) {
 // foi apagado — é o medo real de quem perdeu acesso a um plano de 90 dias no
 // meio. Um texto genérico serviria mal aos dois.
 const TEXTOS_PORTAO = {
+  // O caso mais comum de todos, e por isso o primeiro: acabaram os 7 dias.
+  // A pessoa NÃO é tratada como quem nunca teve nada — ela usou o app, tem
+  // progresso guardado, e é disso que a tela fala.
+  "teste-acabou": {
+    eyebrow: "Teste encerrado",
+    titulo: "Seus 7 dias de teste acabaram",
+    texto: "Nada foi apagado: as questões que você respondeu, suas redações e o dia em que " +
+      "você está no plano continuam guardados na sua conta, e voltam de onde pararam assim " +
+      "que você assinar.",
+    recheck: "Já paguei — verificar de novo",
+    mostrarCta: true,
+  },
   ausente: {
     eyebrow: "Acesso",
     titulo: "Falta liberar seu acesso",
@@ -420,6 +520,17 @@ function mostrarLogin() {
 document.querySelectorAll("[data-ir-para-login]").forEach((el) => {
   el.addEventListener("click", mostrarLogin);
 });
+
+// O preço na landing, escrito a partir das constantes de assinatura.js — as
+// mesmas que rotulam o botão de assinar no muro e na faixa do teste. O HTML já
+// traz a frase para o número não piscar vazio; aqui ela é reescrita, e é esta
+// que vale. Sem isto, mudar o preço exigiria lembrar de três arquivos.
+if (window.VD_ASSINATURA && window.VD_ASSINATURA.chamada) {
+  const frase = window.VD_ASSINATURA.chamada();
+  document.querySelectorAll("[data-preco]").forEach((el) => {
+    el.textContent = frase;
+  });
+}
 
 // A fita de 30 dias da janela ilustrativa da landing: onze dias feitos, o de
 // hoje em ouro, o resto por vir. É decoração — por isso é aria-hidden no HTML

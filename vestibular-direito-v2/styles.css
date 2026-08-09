@@ -274,6 +274,17 @@ h4 { font-size: 1.0625rem; }
 }
 .landing-hero h1 { font-size: 3.25rem; line-height: 1.05; color: #fff; letter-spacing: -0.025em; margin: 0; }
 .landing-hero p { margin: 0; font-size: 1.0625rem; line-height: 1.6; color: #B9C6D6; }
+/* O preço vive embaixo dos botões de começar, e NÃO tem regra própria de
+   propósito. Ele é um <p> dentro do herói e dentro do fecho, e os dois já
+   dizem como seus parágrafos se parecem — inclusive a cor certa para o fundo
+   de cada um, que são opostos (navy em cima, cinza claro embaixo). O respiro
+   vem do gap dos contêineres, que são flex.
+
+   Tentar reger isso numa classe .landing-preco não funciona e já não
+   funcionou: `.landing-hero p` e `.landing-fim p` têm um elemento a mais na
+   especificidade e vencem uma classe sozinha. O que passava era só a cor, num
+   seletor mais específico — e ela deixava o preço mais APAGADO que o texto ao
+   lado, que é o avesso do que se quer no número que decide a compra. */
 .landing-cta-row { display: flex; gap: 12px; flex-wrap: wrap; padding-top: 4px; }
 .landing-cta-row .btn { font-size: 0.9375rem; padding: 14px 26px; }
 .landing-stats {
@@ -384,6 +395,17 @@ h4 { font-size: 1.0625rem; }
    só lá que ela aparece: o desktop desta página não tinha rodapé e não é para
    ganhar um agora. A regra que a mostra vive no bloco do celular. */
 .landing-nota { display: none; }
+
+/* Rodapé da landing: Termos e Política. Diferente da .landing-nota acima, ele
+   aparece nas duas larguras — os documentos têm que estar alcançáveis antes do
+   cadastro em qualquer tela, e isso não é preferência de desenho. */
+.landing-rodape {
+  display: flex; gap: 24px; flex-wrap: wrap; justify-content: center;
+  padding: 28px 24px 36px; background: var(--bg);
+  border-top: 1px solid var(--border); font-size: 0.85rem;
+}
+.landing-rodape a { color: var(--ink-soft); text-decoration: none; font-weight: 600; }
+.landing-rodape a:hover { color: var(--accent); }
 
 /* ═══════════════════════════════════════════════════════════════════════════
    02 · LOGIN — painel dividido
@@ -643,6 +665,32 @@ h4 { font-size: 1.0625rem; }
 .page-title { margin: 0; font-family: var(--font-brand); font-weight: 600; font-size: 1.1875rem; }
 .page-subtitle { font-size: 0.8125rem; color: var(--ink-faint); }
 .page-header-right { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+
+/* Faixa de acesso, entre o cabeçalho e o conteúdo: os dias que faltam de teste
+ * ou o aviso de assinatura vencendo.
+ *
+ * Navy, e não creme de aviso: ela vale em TODAS as abas, e um aviso colorido
+ * repetido em cada tela por uma semana vira ruído que a pessoa aprende a não
+ * ver. No navy da barra lateral ela lê como parte do casco do app — presente,
+ * sem gritar. O .btn-ouro combina por obrigação e não por gosto: o ouro cheio
+ * só tem contraste sobre navy (sobre branco dá 1,7:1 e some).
+ *
+ * O [hidden] com !important é a mesma armadilha que o .day-nav já pagou: sem
+ * ele o `display: flex` daqui vence o atributo, e a faixa apareceria para todo
+ * assinante, inclusive o que acabou de renovar e não tem nada a ler aqui. */
+.faixa-acesso {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px; flex-wrap: wrap;
+  background: var(--header-bg); color: var(--header-ink);
+  padding: 10px 28px; font-size: 0.875rem; font-weight: 600;
+}
+.faixa-acesso[hidden] { display: none !important; }
+/* Largura automática: .btn nasce com 100% nas telas de entrada, e aqui ele é
+   um item de fileira, não a única ação da tela. */
+.faixa-acesso-cta {
+  width: auto; flex-shrink: 0; text-decoration: none;
+  display: inline-flex; align-items: center; padding: 7px 14px; font-size: 0.8125rem;
+}
 
 .content { padding: 28px; }
 .tab-panel { display: none; }
@@ -1091,6 +1139,7 @@ h4 { font-size: 1.0625rem; }
   background: var(--bad-soft); color: var(--bad); font-size: 0.92rem; text-align: left;
 }
 .login-note { margin: 14px 0 0; font-size: 0.85rem; color: var(--ink-soft); }
+.login-note a { color: var(--accent); }
 
 /* Identificação do usuário — agora no pé da barra lateral, sobre o navy.
    Saiu do cabeçalho porque "quem sou eu" é informação de contexto permanente,
@@ -1727,6 +1776,11 @@ h4 { font-size: 1.0625rem; }
   .content {
     padding: 18px 20px calc(88px + env(safe-area-inset-bottom));
   }
+  /* Acompanha o recuo lateral do conteúdo. O botão vai para a linha de baixo em
+     largura cheia: espremido ao lado do texto ele fica com uns 90px de área de
+     toque, e é o único botão de comprar que existe dentro do app. */
+  .faixa-acesso { padding: 10px 20px; }
+  .faixa-acesso-cta { width: 100%; justify-content: center; min-height: 44px; }
   .tab-panel.active { gap: 16px; }
   /* O wrapper acompanha o painel: no celular o respiro entre blocos encolhe de
      18 para 16, como todo o resto da tela. */
@@ -2022,4 +2076,66 @@ h4 { font-size: 1.0625rem; }
   /* ── Onboarding e cartões de decisão ─────────────────────────────────── */
   .onboarding-card { padding: 26px 20px; }
   .trilha-card { padding: 16px 18px; }
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PÁGINAS DE TEXTO — Termos de Uso e Política de Privacidade
+
+   São duas páginas soltas (termos.html, privacidade.html), fora do app: não
+   têm login, não têm barra lateral e precisam abrir para quem ainda não tem
+   conta — inclusive a partir do checkout, que é onde a lei quer que estejam.
+
+   Reaproveitam esta folha inteira em vez de terem CSS próprio: assim herdam a
+   marca, a tipografia, os tokens e o modo escuro de graça, e não existe uma
+   segunda paleta para sair de sincronia com esta.
+
+   A largura é curta de propósito. Texto corrido em 1200px de tela vira linha
+   de 200 caracteres, e o olho perde a linha seguinte na volta.
+   ═══════════════════════════════════════════════════════════════════════ */
+.doc {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 32px 24px 80px;
+}
+.doc-head {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 16px; margin-bottom: 40px;
+}
+.doc-voltar { color: var(--ink-soft); text-decoration: none; font-size: 0.875rem; font-weight: 600; }
+.doc-voltar:hover { color: var(--ink); }
+.doc-logo { height: 40px; width: auto; }
+
+.doc h1 { font-size: 2rem; letter-spacing: -0.02em; margin: 0 0 6px; }
+.doc-data { color: var(--ink-faint); font-size: 0.8125rem; margin: 0 0 28px; }
+.doc-intro { font-size: 1.0625rem; line-height: 1.65; margin: 0 0 8px; }
+
+/* Espaço generoso ANTES do título e curto depois: é o que faz a seção ler como
+   um bloco, em vez de um título solto no meio de dois parágrafos iguais. */
+.doc h2 { font-size: 1.3125rem; margin: 38px 0 10px; }
+.doc h3 { font-size: 1.0625rem; margin: 24px 0 6px; }
+.doc p { margin: 0 0 12px; line-height: 1.65; }
+.doc ul { margin: 0 0 12px; padding-left: 22px; }
+.doc li { margin-bottom: 8px; line-height: 1.6; }
+.doc a { color: var(--accent); }
+
+/* O aviso sobre o que é enviado ao provedor de IA. É a única coisa nestas duas
+   páginas que alguém precisa ler mesmo passando o olho — daí a moldura. */
+.doc-aviso {
+  background: var(--warn-soft); border: 1px solid var(--warn-border); color: var(--warn);
+  border-radius: var(--radius-sm); padding: 14px 16px; margin: 0 0 12px;
+}
+
+.doc-pe {
+  display: flex; gap: 20px; flex-wrap: wrap;
+  margin-top: 48px; padding-top: 20px; border-top: 1px solid var(--border);
+  font-size: 0.875rem;
+}
+.doc-pe a { color: var(--ink-soft); text-decoration: none; font-weight: 600; }
+.doc-pe a:hover { color: var(--accent); }
+
+@media (max-width: 640px) {
+  .doc { padding: 20px 18px 60px; }
+  .doc-head { margin-bottom: 28px; }
+  .doc h1 { font-size: 1.625rem; }
+  .doc h2 { font-size: 1.1875rem; margin-top: 30px; }
 }

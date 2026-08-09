@@ -142,6 +142,16 @@
             <button type="button" class="btn btn-ouro" data-ir-para-login>Começar meu plano hoje</button>
             <a href="#como-funciona" class="btn btn-sobre-navy" style="text-decoration:none">Ver como funciona</a>
           </div>
+          <!-- O preço, colado no botão: é aqui que a decisão acontece. Antes a
+               página inteira vendia o app e só falava em dinheiro depois do
+               login — a pessoa entregava a conta Google para então descobrir
+               que era pago, o que parece isca mesmo quando não é.
+
+               O texto abaixo é escrito de novo pelo auth.js a partir das
+               constantes de assinatura.js (ver PRECO). O que está aqui é só
+               para o número não piscar vazio enquanto o módulo carrega; a
+               verdade é a constante. -->
+          <p data-preco>7 dias grátis. Depois, R$ 97 por 90 dias.</p>
           <div class="landing-stats">
             <div class="landing-stat">
               <span class="landing-stat-n">1.800</span>
@@ -305,6 +315,9 @@
       <p>Entre com sua conta Google — o progresso fica salvo na conta e acompanha você no
       computador, no celular e no tablet.</p>
       <button type="button" class="btn btn-primary" data-ir-para-login>Começar meu plano hoje</button>
+      <!-- Repetido no fim de propósito: quem rolou a página inteira não tem que
+           subir de volta para lembrar quanto custa. -->
+      <p data-preco>7 dias grátis. Depois, R$ 97 por 90 dias.</p>
     </div>
 
     <!-- A ressalva de autoria fecha a página. Ela já é dita na aba Meu
@@ -313,6 +326,17 @@
          completa: o que este app entrega são exercícios originais no estilo
          das provas, não as provas. -->
     <p class="landing-nota">Os exercícios são originais, criados no estilo das provas.</p>
+
+    <!-- Rodapé com os documentos. A landing não tinha rodapé no desktop por
+         decisão de desenho (ver .landing-nota em styles.css), e essa decisão
+         muda aqui por um motivo que não é estético: a partir do momento em que
+         o app cobra, os Termos e a Política precisam estar alcançáveis ANTES do
+         cadastro e em qualquer tela — é onde a lei os quer, e é para onde o
+         checkout vai apontar. -->
+    <footer class="landing-rodape">
+      <a href="termos.html">Termos de Uso</a>
+      <a href="privacidade.html">Política de Privacidade</a>
+    </footer>
   </section>
 
   <!-- ═══════════════════════════════════════════════════════════════════════
@@ -358,6 +382,12 @@
         <p id="login-error" class="login-error" hidden></p>
         <p class="login-note">Usamos sua conta Google só para identificar seu progresso. Não temos
         acesso à sua senha nem aos seus e-mails.</p>
+        <!-- O aceite fica aqui, colado no botão que cria a conta: é este o
+             momento em que a pessoa contrata, e é aqui que os documentos têm
+             que estar a um clique. -->
+        <p class="login-note">Ao entrar, você concorda com os
+        <a href="termos.html">Termos de Uso</a> e com a
+        <a href="privacidade.html">Política de Privacidade</a>.</p>
         <button type="button" id="btn-voltar-landing" class="login-voltar" hidden>← Voltar</button>
       </div>
     </div>
@@ -552,6 +582,16 @@
           </div>
         </div>
       </header>
+
+      <!-- Faixa de acesso: os dias que faltam de teste, ou o aviso de que a
+           assinatura está para vencer. Fica entre o cabeçalho e o conteúdo para
+           valer em todas as abas — nenhuma das duas conversas é de uma tela só.
+           Montada pelo auth.js (é ele que conhece o portão) e escondida por
+           padrão: quem tem assinatura longe de vencer não vê nada aqui. -->
+      <div id="faixa-acesso" class="faixa-acesso" hidden>
+        <span id="faixa-acesso-texto"></span>
+        <a id="faixa-acesso-cta" class="btn btn-ouro faixa-acesso-cta" href="#" target="_blank" rel="noopener" hidden></a>
+      </div>
 
       <main class="content">
 

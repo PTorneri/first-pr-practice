@@ -32,7 +32,7 @@ import {
   GoogleAIBackend,
   Schema,
 } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-ai.js";
-import { app, appCheckPronto } from "./firebase-init.js?v=32";
+import { app, appCheckPronto } from "./firebase-init.js?v=33";
 
 // gemini-3.6-flash é o recomendado que roda sem faturamento no Gemini
 // Developer API. Ao trocar, confira em firebase.google.com/docs/ai-logic/models

@@ -12,7 +12,7 @@ import { getAuth } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-aut
 import { getFirestore } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-firestore.js";
 import {
   initializeAppCheck,
-  ReCaptchaV3Provider,
+  ReCaptchaEnterpriseProvider,
 } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-app-check.js";
 
 export const FIREBASE_CONFIG = {
@@ -63,16 +63,28 @@ export const db = getFirestore(app);
 // de todo mundo ao mesmo tempo. Por isso o Google torna o App Check
 // OBRIGATÓRIO para o AI Logic a partir de 02/11/2026.
 //
-// A chave abaixo é do reCAPTCHA v3 (não o Enterprise): é o provedor que não
-// exige faturamento, na mesma linha da decisão de usar o Gemini pelo plano
-// gratuito. Ela é pública por design, como a apiKey acima — o segredo do
-// reCAPTCHA fica no console do Firebase, nunca aqui.
+// A chave abaixo é do reCAPTCHA ENTERPRISE, e o provedor tem que combinar com
+// ela. Isto já custou um 403 em produção: o código pedia ReCaptchaV3Provider
+// (o clássico) e a chave era Enterprise, o que dá "Invalid site key or not
+// loaded in api.js" — as duas famílias carregam scripts diferentes,
+// api.js e enterprise.js, e uma não valida chave da outra.
 //
-// COMO PREENCHER:
-//   1. google.com/recaptcha/admin > criar chave v3, com os domínios
-//      sagaxedu.com.br, www.sagaxedu.com.br, ptorneri.github.io e localhost.
-//   2. Firebase Console > App Check > registrar o app web com a chave secreta.
-//   3. Colar a SITE KEY aqui embaixo.
+// Enterprise não exige faturamento aqui: sem conta de cobrança o projeto fica
+// com 4 níveis de limiar de risco em vez de 11, e nada mais. Continua valendo
+// a decisão de não depender do Blaze.
+//
+// Chave Enterprise NÃO tem segredo — só a site key, que é pública por design,
+// como a apiKey acima. É ela também que se cola no registro do App Check; se o
+// console estiver pedindo uma "chave secreta", o provedor selecionado ali é o
+// v3 clássico e não este.
+//
+// COMO TROCAR:
+//   1. Google Cloud Console > Segurança > reCAPTCHA: chave do tipo Website,
+//      sem o desafio de caixa de seleção, com os domínios sagaxedu.com.br,
+//      www.sagaxedu.com.br, ptorneri.github.io e localhost.
+//   2. Firebase Console > App Check > registrar o app web escolhendo o provedor
+//      reCAPTCHA ENTERPRISE, colando a mesma site key.
+//   3. Colar a site key aqui embaixo.
 //
 // IMPOSIÇÃO: ligue apenas no AI Logic. Impor no Firestore derrubaria o sync de
 // quem ainda estiver com a versão antiga do app em cache — o navegador guarda
@@ -95,7 +107,7 @@ if (appCheckPronto) {
     self.FIREBASE_APPCHECK_DEBUG_TOKEN = true;
   }
   initializeAppCheck(app, {
-    provider: new ReCaptchaV3Provider(RECAPTCHA_SITE_KEY),
+    provider: new ReCaptchaEnterpriseProvider(RECAPTCHA_SITE_KEY),
     isTokenAutoRefreshEnabled: true,
   });
 }

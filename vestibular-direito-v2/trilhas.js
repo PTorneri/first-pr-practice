@@ -196,52 +196,47 @@
 
     // ---------- Economia ----------
     //
-    // REGISTRADA E DESLIGADA. `emConstrucao` mantém a trilha fora de lista(),
-    // que é de onde saem os três lugares em que alguém escolhe curso: o cartão
-    // do onboarding (auth.js) e as duas saídas de "trocar de trilha" no perfil
-    // (app.js). Sem esse freio, escolher Economia levaria a um carregar() que
-    // rejeita no primeiro arquivo inexistente, e o app subiria sem banco —
-    // parecendo funcionar e mostrando dias vazios, que é o pior dos dois.
+    // NO AR desde 2026-08-10. Registrada e desligada até aqui; a chave virou
+    // depois de um clique real, logado — a primeira vez que alguém abriu a
+    // trilha de verdade, e não uma simulação headless. Esse teste ao vivo é o
+    // que achou o único defeito que as simulações não pegavam: ver o comentário
+    // sobre dissertativas-matematica.js logo abaixo.
     //
-    // ehValida() continua aceitando "economia", então dá para testar a trilha
-    // forçando localStorage.setItem("v2_trilha", "economia") no console.
+    // OS OITO ARQUIVOS de `arquivos` são a lista completa do que existe em
+    // vestibular-economia/data/*.js. subtopics.js e priority-weights.js foram
+    // escritos direto; bundle.js, theory.js, video-topics.js, redacoes.js e
+    // flashcards.js são COMPOSTOS do que já existe em Direito e Medicina, pelos
+    // scripts vestibular-economia/build-*.js — mesma lógica em todos: onde o
+    // conteúdo não depende do curso (banco de questões, fato de teoria,
+    // vídeo-aula, flashcard, tema de redação), reaproveita-se; onde depende (as
+    // cinco frentes de Matemática, que aqui valem 40% da nota contra 10% em
+    // Direito, e Natureza e Literatura na teoria, que Direito e Medicina
+    // calibram para provas que esta trilha não presta), escreve-se à mão
+    // dentro do próprio build. Cada build tem `--verificar`, que reprova se a
+    // fonte mudou e o composto não foi refeito.
     //
-    // OS OITO ARQUIVOS DE `arquivos` (abaixo) JÁ EXISTEM TODOS. subtopics.js e
-    // priority-weights.js foram escritos direto; bundle.js, theory.js,
-    // video-topics.js, redacoes.js e flashcards.js são COMPOSTOS do que já
-    // existe em Direito e Medicina, pelos scripts vestibular-economia/build-*.js
-    // — mesma lógica em todos: onde o conteúdo não depende do curso (banco de
-    // questões, fato de teoria, vídeo-aula, flashcard, tema de redação),
-    // reaproveita-se; onde depende (as cinco frentes de Matemática, que aqui
-    // valem 40% da nota contra 10% em Direito, e Natureza e Literatura na
-    // teoria, que Direito e Medicina calibram para provas que esta trilha não
-    // presta), escreve-se à mão dentro do próprio build. Cada build tem
-    // `--verificar`, que reprova se a fonte mudou e o composto não foi refeito.
     // dissertativas-matematica.js (150 questões autorais mais 3 reais da FGV
-    // EESP 2026.1) é o oitavo — ENTROU EM `arquivos` só depois de um vai-e-volta:
-    // nasceu fora (escreve window.DISSERTATIVAS_EXATAS, carregado só pela
-    // bancada de teste isolada em vestibular-economia/demo-dissertativa.html) e
-    // ficou assim mesmo depois do renderizador ser plugado em app.js — o
-    // gancho (renderDissertQuestion despachando para VD_EXATAS.render) foi
-    // testado e funcionava, mas com a bancada isolada como fonte, não com a
-    // trilha carregando o próprio dado. Resultado: alguém testando a trilha de
-    // verdade abria "Quer treinar dissertativas hoje?", clicava sim, e a
-    // seção vinha vazia — window.DISSERTATIVAS_EXATAS nunca tinha sido
-    // definido, porque nada em `carregar()` pedia esse arquivo. Só apareceu
-    // testando ao vivo; nenhuma das verificações headless anteriores (o motor
-    // dos 90 dias, a bancada isolada) passava por `carregar()` de Economia com
-    // a lista real de arquivos, então nenhuma delas tinha como pegar isso.
+    // EESP 2026.1) foi o último a entrar em `arquivos`, e o porquê vale
+    // lembrar: o renderizador (VD_EXATAS.render, plugado em app.js via
+    // renderDissertQuestion) já funcionava, testado contra a bancada isolada
+    // vestibular-economia/demo-dissertativa.html, que carrega o arquivo por
+    // conta própria. O que faltava era `carregar("economia")` pedir esse
+    // arquivo — e nenhuma simulação headless passa por `carregar()`, só um
+    // clique real pega isso. Foi o que aconteceu: a seção de dissertativas
+    // abriu vazia no primeiro teste ao vivo, o arquivo entrou em `arquivos`,
+    // e o segundo teste confirmou as questões aparecendo. Fica registrado
+    // como lição: testar o motor headless e testar `carregar()` são coisas
+    // diferentes, e passar num não garante passar no outro.
     //
-    // O RENDERIZADOR continua plugado como estava — index.html carrega
-    // vestibular-economia/dissertativa-exatas.js/.css incondicionalmente (como
-    // schedule.js e assuntos.js: código, não dado, inerte sem o global), e
-    // renderDissertQuestion (app.js) despacha para VD_EXATAS.render sempre que
-    // `q.itens[0].faixas` existir — dissertPool() concatena
-    // window.DISSERTATIVAS (Direito/Medicina, checklist) com
+    // O RENDERIZADOR: index.html carrega vestibular-economia/dissertativa-exatas.js/.css
+    // incondicionalmente (como schedule.js e assuntos.js: código, não dado,
+    // inerte sem o global), e renderDissertQuestion (app.js) despacha para
+    // VD_EXATAS.render sempre que `q.itens[0].faixas` existir — dissertPool()
+    // concatena window.DISSERTATIVAS (Direito/Medicina, checklist) com
     // window.DISSERTATIVAS_EXATAS (Economia, resolução por faixa), e nenhuma
     // trilha hoje define as duas. De brinde, a lista de matérias do filtro
     // "praticar uma matéria específica" passou a vir do pool de verdade em vez
-    // de fixa em código — a fixa estava ERRADA para Medicina (dizia
+    // de fixa em código — a fixa estava ERRADA para Medicina havia tempo (dizia
     // "Humanas/Linguagens/Artes", mas as áreas de lá são "Ciências da
     // Natureza"/"Ciências Humanas"/"Linguagens"; dois pills nunca casavam com
     // questão nenhuma).
@@ -272,30 +267,6 @@
     // outras duas trilhas o alinhamento é curadoria, e desalinhado não aparece
     // erro nenhum na tela.
     //
-    // O QUE JÁ FOI EXERCITADO, E COMO — sem depender de login, porque a tela
-    // real fica atrás do Firebase e ninguém de fora consegue entrar nela:
-    //   - O MOTOR: buildSchedule('2026-08-17', null) + getDayContent(plan, d)
-    //     rodados nos 90 dias, num contexto Node com os dados REAIS da
-    //     trilha (mesma técnica de auditar-busca.js). Zero erros; as 20
-    //     frentes aparecem no plano; toda lição tem teoria E vídeo-aula.
-    //   - A DISSERTATIVA DE EXATAS: vestibular-economia/demo-dissertativa.html
-    //     — que carrega os 153 cards reais e window.VD_EXATAS de verdade, sem
-    //     precisar do app nem de login — testada num navegador de ponta a
-    //     ponta: resposta certa reconhecida, trava de revelação (sem
-    //     resolução escrita, "Conferir" fica desabilitado), e a trava de teto
-    //     (resposta errada tranca só a faixa máxima, as outras continuam
-    //     abertas).
-    //   - O WIRING em si: index.html carrega dissertativa-exatas.js/.css sem
-    //     404, e window.VD_EXATAS.render existe no navegador depois do load.
-    //
-    // NENHUMA DESSAS SIMULAÇÕES PASSA POR `carregar()`, e foi exatamente aí
-    // que o primeiro defeito real apareceu: dissertativas-matematica.js só
-    // entrou em `arquivos` (acima) depois que um teste ao vivo, logado, achou
-    // a seção de dissertativas vazia — window.DISSERTATIVAS_EXATAS nunca
-    // tinha sido carregado pela trilha de verdade. É a prova de que testar o
-    // motor headless e testar `carregar()` são coisas diferentes; um passar
-    // não implica o outro passar.
-    //
     // A BUSCA JÁ ESTÁ PRONTA para esta trilha, e não estava: as CINCO frentes de
     // Matemática daqui não existiam no dicionário de assuntos.js, que aponta para
     // `matematica-rlm` e `matematica` — os ids de Direito e de Medicina. Como a
@@ -318,7 +289,6 @@
       id: "economia",
       nome: "Economia",
       prefixo: "eco_",
-      emConstrucao: true,
       subtitulo: "FGV EESP e Insper",
       // A frase do cartão é o que separa esta trilha da de Direito, onde
       // Matemática vale 10% da nota e só o zero elimina. Aqui ela vale 40% nas

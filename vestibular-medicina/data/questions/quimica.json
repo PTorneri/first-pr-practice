@@ -2426,13 +2426,13 @@
       "texto_apoio": "Um catalisador é adicionado a um sistema gasoso fechado no qual a reação ainda não atingiu o equilíbrio.",
       "enunciado": "Analise as afirmações a respeito do efeito dessa adição.\n\nI. O catalisador aumenta igualmente as velocidades das reações direta e inversa.\nII. O catalisador aumenta a quantidade de produto presente quando o equilíbrio for atingido.\nIII. O catalisador faz o sistema alcançar o equilíbrio em menos tempo.\n\nEstá correto o que se afirma em:",
       "alternativas": {
-        "a": "I, apenas.",
-        "b": "II, apenas.",
-        "c": "I e III, apenas.",
-        "d": "II e III, apenas.",
-        "e": "I, II e III."
+        "a": "I, apenas",
+        "b": "I e II, apenas",
+        "c": "II e III, apenas",
+        "d": "I e III, apenas",
+        "e": "I, II e III"
       },
-      "resposta": "c",
+      "resposta": "d",
       "explicacao": "O catalisador oferece um caminho de menor energia de ativação, e esse caminho é o mesmo nos dois sentidos: as duas velocidades crescem na mesma proporção (I correta) e o equilíbrio é alcançado antes (III correta). Justamente por afetar igualmente os dois sentidos, ele não altera o valor de Kc nem as concentrações finais, o que torna II falsa. Marcar (e) é o erro de quem confunde chegar mais rápido ao equilíbrio com produzir mais.",
       "formato": "escada"
     },
@@ -2986,13 +2986,13 @@
       "texto_apoio": "A lei de Hess permite calcular a variação de entalpia de uma reação a partir de equações termoquímicas conhecidas, combinadas convenientemente.",
       "enunciado": "Analise as afirmações a seguir.\n\nI. A variação de entalpia de uma reação depende apenas dos estados inicial e final, e não do número de etapas percorridas.\nII. Ao inverter uma equação termoquímica, o valor de ΔH mantém o módulo e troca de sinal.\nIII. Ao multiplicar por dois todos os coeficientes de uma equação, o valor de ΔH permanece o mesmo.\n\nEstá correto o que se afirma em:",
       "alternativas": {
-        "a": "I, apenas.",
-        "b": "II, apenas.",
-        "c": "I e III, apenas.",
-        "d": "I e II, apenas.",
-        "e": "I, II e III."
+        "a": "I, apenas",
+        "b": "I e II, apenas",
+        "c": "II e III, apenas",
+        "d": "I e III, apenas",
+        "e": "I, II e III"
       },
-      "resposta": "d",
+      "resposta": "b",
       "explicacao": "As afirmações I e II descrevem o comportamento da entalpia como função de estado: o caminho é irrelevante e inverter o processo inverte o sinal do calor trocado. A afirmação III é falsa, porque ΔH é grandeza extensiva, proporcional à quantidade de matéria — dobrar os coeficientes dobra o valor. Marcar (e) é o erro de quem trata ΔH como uma propriedade fixa da reação, esquecendo que ele se refere às quantidades escritas naquela equação.",
       "formato": "escada"
     },
@@ -3110,11 +3110,11 @@
       "texto_apoio": "Três substâncias sólidas foram submetidas a testes de ponto de fusão e de condutividade elétrica. A substância X funde a 801 °C, não conduz corrente no estado sólido e conduz quando fundida. A substância Y funde a 1 083 °C e conduz corrente tanto no estado sólido quanto quando fundida. A substância Z funde a −23 °C e não conduz corrente em nenhuma das duas condições.",
       "enunciado": "Analise as afirmações.\n\nI. X é um composto iônico, e sua condutividade após a fusão decorre da liberação dos íons antes presos ao retículo.\nII. Y é um metal, cujos elétrons deslocalizados conduzem corrente já no estado sólido.\nIII. Z é uma substância molecular, mantida no estado sólido por forças intermoleculares fracas.\n\nEstá correto o que se afirma em:",
       "alternativas": {
-        "a": "I, apenas.",
-        "b": "I e II, apenas.",
-        "c": "II e III, apenas.",
-        "d": "I e III, apenas.",
-        "e": "I, II e III."
+        "a": "I, apenas",
+        "b": "I e II, apenas",
+        "c": "II e III, apenas",
+        "d": "I e III, apenas",
+        "e": "I, II e III"
       },
       "resposta": "e",
       "explicacao": "Sólidos iônicos têm ponto de fusão alto e só conduzem quando os íons ganham mobilidade, na fusão ou em solução aquosa: é o caso de X. Metais conduzem já no estado sólido, porque os elétrons de valência são deslocalizados: é o caso de Y. Substâncias moleculares fundem em temperatura baixa e não têm portadores de carga livres: é o caso de Z. A armadilha está em ler não conduz no estado sólido e concluir de imediato molecular, o que confundiria X com Z e levaria a descartar a afirmação I.",

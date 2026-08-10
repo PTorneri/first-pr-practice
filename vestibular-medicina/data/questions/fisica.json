@@ -2500,9 +2500,9 @@
       "enunciado": "Analise as afirmações a respeito do movimento desse satélite.\nI. A energia mecânica total do satélite é a mesma no perigeu e no apogeu.\nII. A energia cinética do satélite é maior no perigeu.\nIII. A energia potencial gravitacional do satélite é maior no apogeu.\nEstá correto o que se afirma em:",
       "alternativas": {
         "a": "I, apenas",
-        "b": "II, apenas",
-        "c": "I e II, apenas",
-        "d": "II e III, apenas",
+        "b": "I e II, apenas",
+        "c": "II e III, apenas",
+        "d": "I e III, apenas",
         "e": "I, II e III"
       },
       "resposta": "e",
@@ -2808,12 +2808,12 @@
       "enunciado": "Analise as afirmações a seguir.\nI. Numa transformação isotérmica, o produto da pressão pelo volume permanece constante.\nII. Numa transformação isovolumétrica, a razão entre a pressão e a temperatura em graus Celsius permanece constante.\nIII. Numa transformação isobárica, o volume é diretamente proporcional à temperatura absoluta.\nEstá correto o que se afirma em:",
       "alternativas": {
         "a": "I, apenas",
-        "b": "III, apenas",
-        "c": "I e II, apenas",
-        "d": "II e III, apenas",
-        "e": "I e III, apenas"
+        "b": "I e II, apenas",
+        "c": "II e III, apenas",
+        "d": "I e III, apenas",
+        "e": "I, II e III"
       },
-      "resposta": "e",
+      "resposta": "d",
       "explicacao": "I e III são enunciados corretos das leis de Boyle e de Charles. II é falsa por uma única palavra: a razão constante é entre pressão e temperatura absoluta, em kelvin. A escala Celsius tem zero arbitrário, e nela um gás a 0 °C teria pressão nula pela fórmula, o que é absurdo. Marcar II como verdadeira é o erro que mais custa pontos em transformações gasosas.",
       "formato": "escada"
     },
@@ -3037,12 +3037,12 @@
       "enunciado": "Analise as afirmações a seguir.\nI. Todos os pontos do condutor, inclusive os internos, estão a um mesmo potencial elétrico.\nII. O campo elétrico é nulo em todos os pontos internos do condutor.\nIII. O excesso de carga distribui-se uniformemente por todo o volume do condutor.\nEstá correto o que se afirma em:",
       "alternativas": {
         "a": "I, apenas",
-        "b": "II, apenas",
-        "c": "III, apenas",
+        "b": "I e II, apenas",
+        "c": "II e III, apenas",
         "d": "I e III, apenas",
-        "e": "I e II, apenas"
+        "e": "I, II e III"
       },
-      "resposta": "e",
+      "resposta": "b",
       "explicacao": "No equilíbrio não há movimento ordenado de cargas, o que exige campo nulo no interior; sem campo interno, não há diferença de potencial entre dois pontos do condutor, e todo ele é equipotencial. I e II são corretas e uma decorre da outra. III é falsa por dois motivos: o excesso de carga fica na superfície externa, e sua distribuição só é uniforme se a superfície for esférica — em corpos com pontas ela se concentra nas regiões mais curvas.",
       "formato": "escada"
     },

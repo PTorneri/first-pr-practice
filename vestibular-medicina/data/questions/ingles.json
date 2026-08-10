@@ -2597,12 +2597,12 @@
       "enunciado": "O conectivo estabelece uma relação coerente entre as duas orações apenas em:",
       "alternativas": {
         "a": "I, apenas",
-        "b": "II, apenas",
-        "c": "I e III, apenas",
-        "d": "II e III, apenas",
+        "b": "I e II, apenas",
+        "c": "II e III, apenas",
+        "d": "I e III, apenas",
         "e": "I, II e III"
       },
-      "resposta": "c",
+      "resposta": "d",
       "explicacao": "Esperar no corredor é consequência de a enfermaria estar lotada, e \"consequently\" e \"therefore\" marcam consequência. \"Nevertheless\" exigiria que a segunda oração contrariasse a expectativa criada pela primeira, o que não ocorre. Quem marca (e) está conferindo apenas se as três frases estão gramaticais, sem avaliar a relação lógica que cada conectivo impõe.",
       "formato": "escada",
       "dificuldade": "dificil"
@@ -2730,7 +2730,6 @@
       },
       "resposta": "d",
       "explicacao": "O relativo só desaparece quando é objeto da oração adjetiva: em I, o comitê aprovou o remédio, e a omissão não deixa buraco nenhum. Em II ele é sujeito de \"causes\", e retirá-lo deixaria o verbo sem sujeito. A alternativa (b) é de quem generaliza a regra observada em I sem testar a função sintática em II — e a omissão em I não é informal, é a construção mais comum também na escrita.",
-      "formato": "escada",
       "dificuldade": "dificil"
     },
     {
@@ -3050,10 +3049,10 @@
       "enunciado": "Está gramaticalmente aceitável o que se apresenta em:",
       "alternativas": {
         "a": "I, apenas",
-        "b": "III, apenas",
-        "c": "I e II, apenas",
+        "b": "I e II, apenas",
+        "c": "II e III, apenas",
         "d": "I e III, apenas",
-        "e": "II e III, apenas"
+        "e": "I, II e III"
       },
       "resposta": "d",
       "explicacao": "\"Since + data\" marca o início de uma situação que segue até agora e pede present perfect (I). \"In 2015\" delimita um período encerrado, incompatível com o present perfect (II) e natural com o past simple (III). A armadilha é aceitar II por semelhança com I: a forma verbal é a mesma nas duas, e o que decide é o marcador temporal que vem depois dela.",

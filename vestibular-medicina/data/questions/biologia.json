@@ -2626,8 +2626,8 @@
       "enunciado": "Considere as afirmações a seguir sobre o trabalho de Mendel.\n\nI. A escolha da ervilha se justifica por ela permitir autofecundação e também cruzamentos controlados, o que possibilitou obter linhagens puras antes dos experimentos.\nII. A proporção 3:1 observada na geração F2 exige que os fatores se misturem no híbrido, produzindo um caráter de intensidade intermediária.\nIII. O tratamento de grandes números de descendentes e a expressão dos resultados como proporções foram decisivos para que os padrões emergissem.\n\nEstá correto o que se afirma em:",
       "alternativas": {
         "a": "I, apenas",
-        "b": "II, apenas",
-        "c": "I e II, apenas",
+        "b": "I e II, apenas",
+        "c": "II e III, apenas",
         "d": "I e III, apenas",
         "e": "I, II e III"
       },
@@ -2993,7 +2993,6 @@
       },
       "resposta": "b",
       "explicacao": "I é falsa: sem mulheres afetadas na genealogia, nada exclui a hipótese ligada ao X, que aliás explica bem os dois homens afetados descendendo de mulheres não afetadas. III também é falsa, e essa é a armadilha aritmética: 1/4 valeria se os dois cônjuges fossem heterozigotos comprovados, mas II-3 não tem antecedentes familiares e sua condição de portador é apenas possível, de modo que o risco calculado seria menor que 1/4. II é verdadeira: sendo o gene autossômico, I-1 e I-2 são Aa; sendo ligado ao X, I-2 é heterozigota e I-1 transmite seu Y ao filho afetado, e ambos permanecem não afetados como a genealogia exige.",
-      "formato": "escada",
       "dificuldade": "dificil",
       "visual": {
         "tipo": "Heredograma",
@@ -3315,8 +3314,8 @@
       "enunciado": "Considere as afirmações a seguir.\n\nI. A exigência de rotulagem se justifica pelo direito à informação do consumidor, independentemente de o produto ter sido aprovado como seguro para consumo.\nII. Todo alimento transgênico é, por definição, nocivo à saúde humana, e a análise de risco tem por finalidade medir o grau dessa nocividade.\nIII. A avaliação de risco de um organismo geneticamente modificado deve considerar não só o efeito sobre quem consome, mas também o impacto sobre o ambiente em que ele será cultivado.\n\nEstá correto o que se afirma em:",
       "alternativas": {
         "a": "I, apenas",
-        "b": "III, apenas",
-        "c": "I e II, apenas",
+        "b": "I e II, apenas",
+        "c": "II e III, apenas",
         "d": "I e III, apenas",
         "e": "I, II e III"
       },

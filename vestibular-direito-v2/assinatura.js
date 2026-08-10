@@ -75,8 +75,20 @@ const PORTAO_ATIVO = true;
 // antes deste módulo carregar: o auth.js sobrescreve com o que está aqui. Se
 // as duas divergirem, quem ganha é esta constante — e o HTML é o que o leitor
 // vê por alguns milissegundos, não o que fica.
+// O "à vista" NÃO é enfeite, e por isso não é opcional em nenhuma composição
+// abaixo. O checkout cobra valores diferentes conforme a forma de pagamento:
+// R$ 97,99 no Pix (os R$ 97 do produto mais R$ 0,99 de taxa de serviço da
+// Cakto, repassada ao comprador) e R$ 121,20 no cartão em 12x, com os juros da
+// plataforma. Anunciar um número seco daria a entender que ele é o total em
+// qualquer caminho — e preço anunciado obriga.
+//
+// "à vista" é a formulação padrão do comércio brasileiro exatamente para isto:
+// diz o piso e avisa que parcelar custa mais, sem precisar listar tabela.
+//
+// Se um dia a taxa passar a ser absorvida na configuração da oferta, o Pix
+// fecha em R$ 97,00 redondo e só este valor muda.
 const PRECO = {
-  valor: "R$ 97",
+  valor: "R$ 97,99",
   periodo: "90 dias",
 };
 
@@ -86,7 +98,7 @@ const PRECO = {
 // botão nenhum, porque é aqui que a pessoa está tentando te pagar.
 const CHECKOUT = {
   url: "https://pay.cakto.com.br/gmrnc42_1031217",
-  rotulo: "Assinar — " + PRECO.valor + " por " + PRECO.periodo,
+  rotulo: "Assinar — " + PRECO.periodo + " por " + PRECO.valor,
 };
 
 // ---------- O teste de 7 dias ----------
@@ -168,7 +180,11 @@ function diasAte(ms) {
 // Ordem proposital: o grátis primeiro. Quem chega precisa saber que pode
 // entrar hoje sem pagar, e só depois quanto custa continuar.
 function chamada() {
-  return TESTE_DIAS + " dias grátis. Depois, " + PRECO.valor + " por " + PRECO.periodo + ".";
+  // Ordem invertida em relação ao óbvio ("R$ 97,99 por 90 dias") para o "à
+  // vista" cair colado no valor, que é onde ele qualifica. Solto no fim da
+  // frase, ele pareceria qualificar o prazo.
+  return TESTE_DIAS + " dias grátis. Depois, " + PRECO.periodo + " por " +
+    PRECO.valor + " à vista.";
 }
 
 // ---------- A graça do offline ----------

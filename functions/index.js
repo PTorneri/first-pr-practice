@@ -28,11 +28,16 @@
 const { onRequest } = require("firebase-functions/v2/https");
 const { defineSecret } = require("firebase-functions/params");
 const logger = require("firebase-functions/logger");
-const admin = require("firebase-admin");
+// API modular, e não `require("firebase-admin").firestore()`: no
+// firebase-admin 14 o namespace antigo deixou de existir, e a forma legada
+// falha com "admin.firestore is not a function" — no ANALISE do deploy, antes
+// de subir nada, que é o melhor lugar para falhar.
+const { initializeApp } = require("firebase-admin/app");
+const { getFirestore } = require("firebase-admin/firestore");
 const crypto = require("crypto");
 
-admin.initializeApp();
-const db = admin.firestore();
+initializeApp();
+const db = getFirestore();
 
 // Guardado no Secret Manager, nunca no repositório (que é público) e nunca no
 // código. Definir com:  firebase functions:secrets:set CAKTO_SEGREDO
@@ -178,16 +183,35 @@ exports.caktoWebhook = onRequest(
     // A marca e a assinatura são gravadas na mesma transação: ou as duas, ou
     // nenhuma. Gravar a marca antes deixaria um evento contado sem ter sido
     // aplicado, que é a falha silenciosa pior de todas aqui.
-    const chaveEvento = String(transacao || "sem-id") + ":" + evento;
+    // SEM id, não há deduplicação — e isso é melhor do que fingir que há.
+    //
+    // A primeira versão usava "sem-id" como chave quando data.id faltava, e um
+    // teste real mostrou por que isso é uma bomba: os eventos de teste da Cakto
+    // vieram um COM id e outro SEM. O segundo gravou a marca "sem-id:...", e a
+    // partir dali qualquer evento futuro sem id seria descartado como repetido
+    // — em silêncio, para sempre. Uma compra paga sumiria sem deixar rastro
+    // além de um "repetido" no log.
+    //
+    // Entre arriscar conceder duas vezes e arriscar engolir uma compra paga, a
+    // escolha é a mesma que o resto deste sistema faz: o prejuízo de quem pagou
+    // vem primeiro. Sem id, processa e avisa.
+    const chaveEvento = transacao ? String(transacao) + ":" + evento : null;
+    if (!chaveEvento) {
+      logger.warn("[cakto] evento sem data.id: processando SEM deduplicacao", { evento, email });
+    }
 
     try {
       const resultado = await db.runTransaction(async (tx) => {
-        const marcaRef = db.collection("webhooksProcessados").doc(chaveEvento);
+        const marcaRef = chaveEvento
+          ? db.collection("webhooksProcessados").doc(chaveEvento)
+          : null;
         const assinaturaRef = db.collection("assinaturas").doc(email);
 
         // Toda leitura antes de qualquer escrita — exigência do Firestore.
-        const marca = await tx.get(marcaRef);
-        if (marca.exists) return "repetido";
+        if (marcaRef) {
+          const marca = await tx.get(marcaRef);
+          if (marca.exists) return "repetido";
+        }
         const atual = await tx.get(assinaturaRef);
         const dados = atual.exists ? atual.data() : {};
 
@@ -213,9 +237,13 @@ exports.caktoWebhook = onRequest(
           }, { merge: true });
         }
 
-        tx.set(marcaRef, {
-          evento, email, transacao: transacao || null, em: Date.now(),
-        });
+        // Só marca o que dá para reconhecer depois. Gravar marca sem id seria
+        // criar a armadilha descrita acima.
+        if (marcaRef) {
+          tx.set(marcaRef, {
+            evento, email, transacao: transacao, em: Date.now(),
+          });
+        }
         return "aplicado";
       });
 

@@ -376,7 +376,7 @@
 
   // Carrega o BANCO COMPLEMENTAR — só a aba Buscar o usa.
   //
-  // São 1.374 questões adaptadas do PDF autoral de 1.500 (ver o cabeçalho de
+  // São 1.134 questões adaptadas do PDF autoral de 1.500 (ver o cabeçalho de
   // data/banco-extra.js). Elas não entram no cronograma, no simulado, no
   // caderno de erros nem no progresso, e a garantia disso é estrutural: o
   // arquivo escreve window.QUESTION_BANKS_EXTRA, um global que schedule.js não

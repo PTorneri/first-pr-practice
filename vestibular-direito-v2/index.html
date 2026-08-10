@@ -39,7 +39,7 @@
      admin.html) — sem isso a correção leva até 10 minutos pra chegar em quem
      já visitou, e foi exatamente o que aconteceu na primeira publicação da
      reescrita das alternativas. -->
-<link rel="stylesheet" href="styles.css?v=35">
+<link rel="stylesheet" href="styles.css?v=36">
 </head>
 <body>
 
@@ -153,8 +153,24 @@
                verdade é a constante. -->
           <p data-preco>7 dias grátis. Depois, R$ 97 por 90 dias.</p>
           <div class="landing-stats">
+            <!-- 5.755 = 2.249 (vestibular-direito/data/bundle.js) + 2.372
+                 (vestibular-medicina/data/bundle.js) + 1.134 (banco-extra.js,
+                 o complementar da aba Buscar). É o que a pessoa alcança pela
+                 busca, que já cruza as duas trilhas.
+
+                 O número está escrito à mão de propósito: contar de verdade
+                 exigiria baixar os ~13 MB dos três arquivos de dados numa
+                 página que ainda nem sabe se a pessoa vai entrar. Por isso ele
+                 fica velho em silêncio — ficou parado em 1.800 enquanto o banco
+                 triplicou. AO RODAR build-bundle.ps1 / build-bundle.js,
+                 reconfira aqui com:
+
+                   node -e "global.window={};eval(require('fs').readFileSync('vestibular-direito/data/bundle.js','utf8'));console.log(Object.values(window.QUESTION_BANKS).reduce((s,a)=>s+a.length,0))"
+
+                 (o mesmo para medicina/data/bundle.js e para
+                 QUESTION_BANKS_EXTRA em banco-extra.js). -->
             <div class="landing-stat">
-              <span class="landing-stat-n">1.800</span>
+              <span class="landing-stat-n">5.755</span>
               <span class="landing-stat-label">questões comentadas</span>
             </div>
             <div class="landing-stat">
@@ -793,14 +809,14 @@
      escolheu — só os dados daquela trilha entram no navegador. O conteúdo de
      Direito continua sendo o mesmo do v1: corrigir uma questão lá corrige nos
      dois apps. -->
-<script src="trilhas.js?v=35"></script>
-<script src="schedule.js?v=35"></script>
+<script src="trilhas.js?v=36"></script>
+<script src="schedule.js?v=36"></script>
 <!-- Dicionário de assuntos da busca. Vive aqui, e não em data/ de uma trilha,
      porque a taxonomia atravessa as duas: "crase" e "função quadrática" são o
      mesmo assunto em Direito e em Medicina. Pôr em data/ obrigaria a duplicar
      as listas de gramática, literatura, interpretação, inglês e matemática. -->
-<script src="assuntos.js?v=35"></script>
-<script src="app.js?v=35"></script>
-<script type="module" src="auth.js?v=35"></script>
+<script src="assuntos.js?v=36"></script>
+<script src="app.js?v=36"></script>
+<script type="module" src="auth.js?v=36"></script>
 </body>
 </html>

@@ -23,7 +23,7 @@
 // ---------- O que este portão NÃO faz ----------
 //
 // Ele não esconde o conteúdo. Não tem como: o app é estático no GitHub Pages,
-// o repositório é público, e as 1.800 questões estão em data/bundle.js, que
+// o repositório é público, e as 5.755 questões estão em data/bundle.js, que
 // qualquer um baixa sem login. Quem quiser o JSON pega o JSON.
 //
 // O que se vende aqui é a CONTA — o cronograma montado, o progresso na nuvem
@@ -59,7 +59,7 @@
 // diagnóstico rodado por você NÃO prova que o caminho do aluno funciona. Quem
 // cobre esse caso é o ramo de permission-denied em verificar(), mais abaixo.
 
-import { db } from "./firebase-init.js?v=35";
+import { db } from "./firebase-init.js?v=36";
 import { doc, getDoc } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-firestore.js";
 
 const PORTAO_ATIVO = true;

@@ -215,17 +215,21 @@
     // global próprio, lido pelo renderizador de
     // vestibular-economia/dissertativa-exatas.js e não pelo app.js.
     //
-    // AO LIGAR, o dicionário de assuntos.js precisa conhecer as CINCO frentes de
-    // Matemática desta trilha. Hoje os 17 assuntos de Matemática apontam para
-    // `matematica-rlm` e `matematica` — os ids de Direito e de Medicina —, e com
-    // economia ativa a busca indexa as mesmas questões sob os ids daqui
-    // (matematica-geometria, -financeira, -sequencias, ...), porque a trilha
-    // ativa absorve primeiro. Resultado medido com
-    // `node auditar-busca.js --trilha economia`: os 17 caem de 26–244 questões
-    // para 0–20, nove deles a zero, e o auditor sai com 40 assuntos abaixo do
-    // piso em vez de 23. Nada disso afeta quem usa o app hoje — com Direito ou
-    // Medicina ativa o índice é o mesmo de antes, 5.755 questões —, mas é o
-    // primeiro pedregulho de quem virar esta chave.
+    // A BUSCA JÁ ESTÁ PRONTA para esta trilha, e não estava: as CINCO frentes de
+    // Matemática daqui não existiam no dicionário de assuntos.js, que aponta para
+    // `matematica-rlm` e `matematica` — os ids de Direito e de Medicina. Como a
+    // trilha ativa absorve as questões primeiro, com economia ativa elas entravam
+    // no índice sob os ids daqui e 17 assuntos de Matemática caíam de 26–244
+    // questões para 0–20, nove a zero. Resolvido no bloco no fim do assuntos.js;
+    // `node auditar-busca.js --trilha economia` agora acusa os mesmos 23 assuntos
+    // abaixo do piso que as outras duas trilhas, e não 40.
+    //
+    // Quem for ligar não precisa mexer nisso — mas precisa saber que Economia
+    // funde `historia-brasil` e `historia-geral` numa `historia` só, e que isso
+    // ALARGA o alcance de nove assuntos de História (Brasil Colônia vai de 103
+    // para 121, por exemplo). Nenhum deles cai abaixo do piso, então não é
+    // defeito hoje; é o preço de um escopo de frente mais grosso que o de
+    // Direito, e está medido no mesmo comando.
     //
     // Tudo abaixo sai de estudo-anatomia-provas-economia-fgv-insper-2021-2026.md,
     // não de suposição.

@@ -1,4 +1,4 @@
-// Dicionário de assuntos da busca — as duas trilhas.
+// Dicionário de assuntos da busca — as três trilhas.
 //
 // POR QUE ISTO EXISTE
 //
@@ -28,9 +28,11 @@
 // só conta em Química; "raiz" só em Matemática (senão pega raiz de planta em
 // Biologia e raiz de palavra em Gramática); "corrente" só em Física.
 //
-// Aceita id de frente das DUAS trilhas de propósito — "matematica-rlm" (Direito)
-// e "matematica" (Medicina) são a mesma coisa para quem estuda, e um registro só
-// evita manter duas listas que iam divergir com o tempo.
+// Aceita id de frente das TRÊS trilhas de propósito — "matematica-rlm"
+// (Direito) e "matematica" (Medicina) são a mesma coisa para quem estuda, e um
+// registro só evita manter duas listas que iam divergir com o tempo. Economia
+// parte a Matemática em cinco frentes, e as entradas daqui não as repetem uma a
+// uma: quem cuida disso é o bloco no fim do arquivo.
 //
 // COMO ESCREVER UM TERMO
 //
@@ -1107,3 +1109,55 @@ window.ASSUNTOS = [
              "conotacao", "denotacao", "sentido figurado", "sentido literal",
              "homonimo", "paronimo", "campo semantico"] },
 ];
+
+// ---------------------------------------------------------------------------
+// AS CINCO FRENTES DE MATEMÁTICA DA TRILHA DE ECONOMIA
+//
+// Toda entrada de Matemática acima aponta para "matematica-rlm" (Direito) e
+// "matematica" (Medicina). Economia parte a MESMA Matemática em cinco frentes,
+// porque o alocador do simulado é proporcional por frente e uma frente só dava 5
+// questões de 60 a uma matéria que vale 40% da nota nas duas bancas (o porquê
+// completo está em vestibular-economia/classificar-matematica.js).
+//
+// Sem o que vem abaixo, os assuntos de Matemática ficam sem lastro justamente
+// quando Economia é a trilha ativa: ela absorve as questões primeiro na busca,
+// então elas entram no índice sob os ids daqui, e o `escopo` do dicionário não
+// casa com nenhum. Medido com `node auditar-busca.js --trilha economia` antes
+// desta linha existir: os 17 assuntos de Matemática caíam de 26–244 questões
+// para 0–20, nove deles a zero.
+//
+// POR QUE CADA ASSUNTO GANHA AS CINCO, E NÃO A FRENTE CORRESPONDENTE
+//
+// "Geometria plana" recebe as cinco, não só matematica-geometria. Duas razões, e
+// a segunda é a que decide:
+//
+//   1. É o que já acontece nas outras duas trilhas, onde as questões de
+//      Matemática moram numa frente única — o escopo por frente nunca separou
+//      geometria de probabilidade, e este arquivo não passa a prometer que sim.
+//   2. A divisão em cinco é HEURÍSTICA, por pontuação de termos, e o cabeçalho
+//      do classificador diz que ela erra. Amarrar "Geometria plana" a
+//      matematica-geometria faria a busca ESCONDER a questão de geometria que a
+//      heurística mandou para álgebra. Filtro estreito apoiado em classificação
+//      incerta perde questão boa; largo, no máximo devolve uma vizinha — e o
+//      filtro de `termos`, que é o que segura o falso positivo, continua valendo
+//      inteiro.
+//
+// Feito aqui e não escrito nas entradas uma a uma para não manter duas listas:
+// assunto novo de Matemática, escrito com os dois ids de sempre, já nasce
+// cobrindo Economia. É a mesma razão pela qual um registro só serve às três
+// trilhas (ver o cabeçalho).
+(function () {
+  const MATEMATICA_ECONOMIA = [
+    "matematica-sequencias", "matematica-probabilidade", "matematica-algebra",
+    "matematica-geometria", "matematica-financeira",
+  ];
+
+  window.ASSUNTOS.forEach(function (a) {
+    const eMatematica = a.frentes.indexOf("matematica-rlm") !== -1 ||
+                        a.frentes.indexOf("matematica") !== -1;
+    if (!eMatematica) return;
+    a.frentes = a.frentes.concat(
+      MATEMATICA_ECONOMIA.filter(function (f) { return a.frentes.indexOf(f) === -1; })
+    );
+  });
+})();

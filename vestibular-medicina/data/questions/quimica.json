@@ -2424,7 +2424,7 @@
     {
       "id": "quimica-156",
       "texto_apoio": "Um catalisador é adicionado a um sistema gasoso fechado no qual a reação ainda não atingiu o equilíbrio.",
-      "enunciado": "Analise as afirmações a respeito do efeito dessa adição. I. O catalisador aumenta igualmente as velocidades das reações direta e inversa. II. O catalisador aumenta a quantidade de produto presente quando o equilíbrio for atingido. III. O catalisador faz o sistema alcançar o equilíbrio em menos tempo. Está correto o que se afirma em:",
+      "enunciado": "Analise as afirmações a respeito do efeito dessa adição.\n\nI. O catalisador aumenta igualmente as velocidades das reações direta e inversa.\nII. O catalisador aumenta a quantidade de produto presente quando o equilíbrio for atingido.\nIII. O catalisador faz o sistema alcançar o equilíbrio em menos tempo.\n\nEstá correto o que se afirma em:",
       "alternativas": {
         "a": "I, apenas.",
         "b": "II, apenas.",
@@ -2984,7 +2984,7 @@
     {
       "id": "quimica-192",
       "texto_apoio": "A lei de Hess permite calcular a variação de entalpia de uma reação a partir de equações termoquímicas conhecidas, combinadas convenientemente.",
-      "enunciado": "Analise as afirmações a seguir. I. A variação de entalpia de uma reação depende apenas dos estados inicial e final, e não do número de etapas percorridas. II. Ao inverter uma equação termoquímica, o valor de ΔH mantém o módulo e troca de sinal. III. Ao multiplicar por dois todos os coeficientes de uma equação, o valor de ΔH permanece o mesmo. Está correto o que se afirma em:",
+      "enunciado": "Analise as afirmações a seguir.\n\nI. A variação de entalpia de uma reação depende apenas dos estados inicial e final, e não do número de etapas percorridas.\nII. Ao inverter uma equação termoquímica, o valor de ΔH mantém o módulo e troca de sinal.\nIII. Ao multiplicar por dois todos os coeficientes de uma equação, o valor de ΔH permanece o mesmo.\n\nEstá correto o que se afirma em:",
       "alternativas": {
         "a": "I, apenas.",
         "b": "II, apenas.",
@@ -3108,7 +3108,7 @@
     {
       "id": "quimica-200",
       "texto_apoio": "Três substâncias sólidas foram submetidas a testes de ponto de fusão e de condutividade elétrica. A substância X funde a 801 °C, não conduz corrente no estado sólido e conduz quando fundida. A substância Y funde a 1 083 °C e conduz corrente tanto no estado sólido quanto quando fundida. A substância Z funde a −23 °C e não conduz corrente em nenhuma das duas condições.",
-      "enunciado": "Analise as afirmações. I. X é um composto iônico, e sua condutividade após a fusão decorre da liberação dos íons antes presos ao retículo. II. Y é um metal, cujos elétrons deslocalizados conduzem corrente já no estado sólido. III. Z é uma substância molecular, mantida no estado sólido por forças intermoleculares fracas. Está correto o que se afirma em:",
+      "enunciado": "Analise as afirmações.\n\nI. X é um composto iônico, e sua condutividade após a fusão decorre da liberação dos íons antes presos ao retículo.\nII. Y é um metal, cujos elétrons deslocalizados conduzem corrente já no estado sólido.\nIII. Z é uma substância molecular, mantida no estado sólido por forças intermoleculares fracas.\n\nEstá correto o que se afirma em:",
       "alternativas": {
         "a": "I, apenas.",
         "b": "I e II, apenas.",

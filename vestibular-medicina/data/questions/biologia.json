@@ -2623,7 +2623,7 @@
     {
       "id": "biologia-162",
       "texto_apoio": "Ao apresentar seus resultados com ervilhas, Mendel propôs que cada caráter é determinado por um par de fatores que se separam na formação dos gametas e se reúnem ao acaso na fecundação. A base citológica desse comportamento só seria descrita décadas mais tarde.",
-      "enunciado": "Considere as afirmações a seguir sobre o trabalho de Mendel. I. A escolha da ervilha se justifica por ela permitir autofecundação e também cruzamentos controlados, o que possibilitou obter linhagens puras antes dos experimentos. II. A proporção 3:1 observada na geração F2 exige que os fatores se misturem no híbrido, produzindo um caráter de intensidade intermediária. III. O tratamento de grandes números de descendentes e a expressão dos resultados como proporções foram decisivos para que os padrões emergissem. Está correto o que se afirma em:",
+      "enunciado": "Considere as afirmações a seguir sobre o trabalho de Mendel.\n\nI. A escolha da ervilha se justifica por ela permitir autofecundação e também cruzamentos controlados, o que possibilitou obter linhagens puras antes dos experimentos.\nII. A proporção 3:1 observada na geração F2 exige que os fatores se misturem no híbrido, produzindo um caráter de intensidade intermediária.\nIII. O tratamento de grandes números de descendentes e a expressão dos resultados como proporções foram decisivos para que os padrões emergissem.\n\nEstá correto o que se afirma em:",
       "alternativas": {
         "a": "I, apenas",
         "b": "II, apenas",
@@ -2983,7 +2983,7 @@
     {
       "id": "biologia-182",
       "texto_apoio": "Genealogia de uma anomalia rara. Geração I: I-1, homem não afetado, casado com I-2, mulher não afetada. Geração II: o casal teve II-1, homem afetado, e II-2, mulher não afetada. II-2 casou-se com II-3, homem não afetado e sem antecedentes familiares da anomalia. Geração III: o casal II-2 x II-3 teve III-1, menino afetado, e III-2, menina não afetada.",
-      "enunciado": "Considere as afirmações a seguir sobre essa genealogia. I. Os dados excluem definitivamente a hipótese de herança recessiva ligada ao cromossomo X. II. Os indivíduos I-1 e I-2 são obrigatoriamente heterozigotos, qualquer que seja a hipótese de localização do gene entre as compatíveis com a genealogia. III. Se a herança for autossômica recessiva, a probabilidade de o próximo filho do casal II-2 x II-3 ser afetado é de 1/4. Está correto o que se afirma em:",
+      "enunciado": "Considere as afirmações a seguir sobre essa genealogia.\n\nI. Os dados excluem definitivamente a hipótese de herança recessiva ligada ao cromossomo X.\nII. Os indivíduos I-1 e I-2 são obrigatoriamente heterozigotos, qualquer que seja a hipótese de localização do gene entre as compatíveis com a genealogia.\nIII. Se a herança for autossômica recessiva, a probabilidade de o próximo filho do casal II-2 x II-3 ser afetado é de 1/4.\n\nEstá correto o que se afirma em:",
       "alternativas": {
         "a": "I, apenas",
         "b": "II, apenas",
@@ -3312,7 +3312,7 @@
     {
       "id": "biologia-202",
       "texto_apoio": "A legislação brasileira de biossegurança submete a liberação comercial de organismos geneticamente modificados a análise prévia de risco por uma comissão técnica e exige a identificação, no rótulo, dos alimentos que contenham ingredientes transgênicos acima de determinado percentual.",
-      "enunciado": "Considere as afirmações a seguir. I. A exigência de rotulagem se justifica pelo direito à informação do consumidor, independentemente de o produto ter sido aprovado como seguro para consumo. II. Todo alimento transgênico é, por definição, nocivo à saúde humana, e a análise de risco tem por finalidade medir o grau dessa nocividade. III. A avaliação de risco de um organismo geneticamente modificado deve considerar não só o efeito sobre quem consome, mas também o impacto sobre o ambiente em que ele será cultivado. Está correto o que se afirma em:",
+      "enunciado": "Considere as afirmações a seguir.\n\nI. A exigência de rotulagem se justifica pelo direito à informação do consumidor, independentemente de o produto ter sido aprovado como seguro para consumo.\nII. Todo alimento transgênico é, por definição, nocivo à saúde humana, e a análise de risco tem por finalidade medir o grau dessa nocividade.\nIII. A avaliação de risco de um organismo geneticamente modificado deve considerar não só o efeito sobre quem consome, mas também o impacto sobre o ambiente em que ele será cultivado.\n\nEstá correto o que se afirma em:",
       "alternativas": {
         "a": "I, apenas",
         "b": "III, apenas",

@@ -2277,7 +2277,7 @@
     },
     {
       "id": "matematica-160",
-      "enunciado": "Considere as afirmações a seguir sobre determinantes de matrizes quadradas. I. Se uma linha é inteiramente formada por zeros, o determinante é nulo. II. Trocando duas linhas de posição, o determinante muda de sinal. III. O determinante de uma matriz triangular é a soma dos elementos da diagonal principal. Está correto o que se afirma em:",
+      "enunciado": "Considere as afirmações a seguir sobre determinantes de matrizes quadradas.\n\nI. Se uma linha é inteiramente formada por zeros, o determinante é nulo.\nII. Trocando duas linhas de posição, o determinante muda de sinal.\nIII. O determinante de uma matriz triangular é a soma dos elementos da diagonal principal.\n\nEstá correto o que se afirma em:",
       "alternativas": {
         "a": "apenas I",
         "b": "apenas III",
@@ -2597,7 +2597,7 @@
     },
     {
       "id": "matematica-182",
-      "enunciado": "Considere o sistema formado pelas equações x + y = 5 e 2x + 2y = 10 e as afirmações a seguir. I. O sistema é possível e determinado. II. O par (2, 3) é solução do sistema. III. As duas equações representam a mesma reta. Está correto o que se afirma em:",
+      "enunciado": "Considere o sistema formado pelas equações x + y = 5 e 2x + 2y = 10 e as afirmações a seguir.\n\nI. O sistema é possível e determinado.\nII. O par (2, 3) é solução do sistema.\nIII. As duas equações representam a mesma reta.\n\nEstá correto o que se afirma em:",
       "alternativas": {
         "a": "apenas I",
         "b": "apenas II",
@@ -2741,7 +2741,7 @@
     },
     {
       "id": "matematica-192",
-      "enunciado": "Considere as afirmações a seguir sobre matrizes quadradas de mesma ordem, em que I representa a matriz identidade. I. A·I = I·A = A, qualquer que seja a matriz A. II. Se o produto A·B é a matriz nula, então A é nula ou B é nula. III. A transposta do produto A·B é igual ao produto da transposta de B pela transposta de A. Está correto o que se afirma em:",
+      "enunciado": "Considere as afirmações a seguir sobre matrizes quadradas de mesma ordem, em que I representa a matriz identidade.\n\nI. A·I = I·A = A, qualquer que seja a matriz A.\nII. Se o produto A·B é a matriz nula, então A é nula ou B é nula.\nIII. A transposta do produto A·B é igual ao produto da transposta de B pela transposta de A.\n\nEstá correto o que se afirma em:",
       "alternativas": {
         "a": "apenas I",
         "b": "apenas I e II",

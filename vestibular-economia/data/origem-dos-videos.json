@@ -1,0 +1,17 @@
+{
+  "composto": "2026-08-10",
+  "frentes": 20,
+  "itens": 93,
+  "autorais": [
+    "matematica-sequencias",
+    "matematica-probabilidade",
+    "matematica-algebra",
+    "matematica-geometria",
+    "matematica-financeira"
+  ],
+  "origem": {
+    "direito/video-topics": "caf038c68abf",
+    "medicina/video-topics": "6c56b517a59d",
+    "economia/theory": "f3efd52cee1c"
+  }
+}

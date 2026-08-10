@@ -207,16 +207,24 @@
     // forçando localStorage.setItem("v2_trilha", "economia") no console.
     //
     // O QUE FALTA PARA LIGAR, na ordem em que trava:
-    //   flashcards, video-topics, redacoes
+    //   flashcards, redacoes
     // Já existem: subtopics.js, priority-weights.js, bundle.js (composto dos
-    // outros dois bancos por vestibular-economia/build-bundle.js) e theory.js
-    // (composto do theory.js de Direito, pelo mesmo motivo, com as cinco frentes
-    // de Matemática, as três de Natureza e Literatura escritas à mão dentro de
-    // vestibular-economia/build-theory.js — não havia o que copiar para elas).
-    // E dissertativas-matematica.js, com 150 questões autorais mais 3 reais —
-    // este NÃO entra em `arquivos` porque escreve window.DISSERTATIVAS_EXATAS,
-    // um global próprio, lido pelo renderizador de
+    // outros dois bancos por vestibular-economia/build-bundle.js), theory.js e
+    // video-topics.js (compostos do que já existe em Direito e Medicina, pelo
+    // mesmo motivo, com as cinco frentes de Matemática — e mais Natureza e
+    // Literatura, na teoria — escritas à mão dentro dos builds; não havia o que
+    // copiar para elas). E dissertativas-matematica.js, com 150 questões
+    // autorais mais 3 reais — este NÃO entra em `arquivos` porque escreve
+    // window.DISSERTATIVAS_EXATAS, um global próprio, lido pelo renderizador de
     // vestibular-economia/dissertativa-exatas.js e não pelo app.js.
+    //
+    // A teoria e o vídeo do dia GIRAM PELO MESMO ÍNDICE (pickLessonVideo e
+    // renderTheoryBlockHtml usam os dois (visitNumber - 1) % tamanho), e é isso
+    // que faz a aula sugerida falar do assunto que a teoria abriu. Aqui isso não
+    // depende de ninguém lembrar: build-video-topics.js LÊ os temas do
+    // theory.js já composto e reprova se sobrar, faltar ou divergir um. Nas
+    // outras duas trilhas o alinhamento é curadoria, e desalinhado não aparece
+    // erro nenhum na tela.
     //
     // A teoria nunca foi exercitada na tela: enquanto os três arquivos acima
     // faltarem, carregar() rejeita antes de qualquer render, e não há como abrir

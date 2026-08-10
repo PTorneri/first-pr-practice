@@ -145,6 +145,45 @@ const AUTORAIS = {
           resolucao: "(a) Apagar a e b e escrever |a−b| troca a soma S por S − a − b + |a−b|. Como a + b e |a−b| têm sempre a mesma paridade, a soma muda por um número par: a PARIDADE da soma se conserva a cada passo. (b) A soma inicial é 1+2+…+10 = 55, ímpar. Como a paridade não muda, o número final é ímpar — logo não pode ser 2. O que a grade premia aqui é a frase \"a paridade da soma se conserva\" com a conta que a sustenta; responder só \"não é possível\" cai na faixa mais baixa mesmo estando certo.",
         },
       },
+      {
+        tema: "Progressões em séries de dados reais",
+        resumo: "A banca raramente diz \"progressão aritmética\": ela dá uma tabela de anos com emissão de CO₂, população ou preço e deixa a regularidade para o candidato descobrir. Foi a questão 1 de 2026.1.",
+        gatilhos: [
+          "Tabela de valores ano a ano → calcule as diferenças entre consecutivos antes de qualquer coisa; diferença constante é PA, razão constante é PG.",
+          "Pergunta sobre \"em que ano o valor atinge X\" → escreva o termo geral e resolva a equação; depois confira se o n encontrado é inteiro, porque o enunciado costuma cobrar o primeiro ano que ULTRAPASSA.",
+          "Dado que não encaixa na regularidade → releia: em série real a banca costuma avisar que houve mudança de regime, e a resposta é por trechos.",
+        ],
+        pegadinhas: [
+          "Contar os anos errado ao converter n em data — o primeiro termo costuma ser o ano zero, não o ano um.",
+          "Extrapolar a progressão para além do intervalo em que o enunciado a declarou válida.",
+        ],
+      },
+      {
+        tema: "Somas e identidades de contagem",
+        resumo: "Somar termo a termo é o caminho que a prova quer que você evite. As identidades que a banca usa como atalho premiado são poucas e sempre as mesmas: soma de PA, soma dos n primeiros ímpares (que dá n²) e soma telescópica.",
+        gatilhos: [
+          "Soma dos n primeiros ímpares → é n², e escrever essa igualdade já é o raciocínio pontuado.",
+          "Soma em que cada termo é uma diferença (1/k − 1/(k+1), por exemplo) → é telescópica; escreva os três primeiros e os dois últimos termos e mostre o cancelamento.",
+          "Soma de PA longa → use (primeiro + último) × quantidade ÷ 2 e diga de onde saiu a quantidade de termos, que é onde mora o erro de contagem.",
+        ],
+        pegadinhas: [
+          "Errar a quantidade de termos por um (o clássico n − 1 no lugar de n + 1) — vale conferir contando um caso pequeno à mão.",
+          "Aplicar a soma de PA numa sequência que só parece regular nos primeiros termos.",
+        ],
+      },
+      {
+        tema: "Termos distantes: periodicidade e resto",
+        resumo: "Quando a pergunta é pelo termo 2026º, nunca é para calcular. A sequência ou é periódica, ou tem uma propriedade que depende só do resto da divisão do índice — e achar esse resto é a questão inteira.",
+        gatilhos: [
+          "Pergunta por um termo de índice muito grande → calcule os primeiros seis ou oito e procure repetição; achado o período p, o termo n é o termo (n mod p).",
+          "Sequência definida por paridade (\"se par, divide; se ímpar, soma\") → siga alguns termos e observe o ciclo; a resposta quase sempre é o ciclo, não o valor.",
+          "Enunciado que fala em resto de divisão → trabalhe com os restos desde o começo, sem calcular os valores cheios.",
+        ],
+        pegadinhas: [
+          "Achar o período e esquecer de conferir se ele começa no primeiro termo ou depois de um trecho inicial que não se repete.",
+          "Usar n mod p quando a numeração começa em 1 sem ajustar o índice — o erro que faz cair no termo vizinho.",
+        ],
+      },
     ],
   },
 
@@ -179,6 +218,46 @@ const AUTORAIS = {
           enunciado: "Um jogador começa com saldo zero. A cada rodada ele ganha 1 real com probabilidade 1/2 ou perde 1 real com probabilidade 1/2, e são jogadas 6 rodadas. (a) Quantas rodadas ele precisa ganhar para terminar com saldo +2? (b) Qual a probabilidade de terminar com saldo +2?",
           resolucao: "(a) Se ganha g rodadas, perde 6 − g, e o saldo é g − (6 − g) = 2g − 6. Saldo +2 exige 2g − 6 = 2, ou seja g = 4. (b) Terminar com 4 vitórias em 6 rodadas é binomial: C(6,4) · (1/2)⁴ · (1/2)² = 15/64. O ponto que a grade cobra é a tradução do saldo em número de vitórias, feita no item (a) — quem pula direto para 15/64 sem essa passagem entrega o número sem o raciocínio.",
         },
+      },
+      {
+        tema: "Contagem com restrição de posição",
+        resumo: "A contagem desta banca quase nunca é \"de quantos jeitos se enfileiram n pessoas\". É contagem com uma amarra geométrica ou aritmética embutida — posições igualmente espaçadas, nenhum vizinho junto, divisores de um número —, e a amarra é o que precisa virar conta.",
+        gatilhos: [
+          "\"Igualmente espaçados\" num círculo ou numa fila → a quantidade de arranjos possíveis depende dos DIVISORES do total; liste os divisores antes de contar.",
+          "\"Nenhum dos dois pode ficar junto\" → conte o total e subtraia os casos em que ficam juntos, tratando o par como bloco único.",
+          "Restrição de ordem (\"A antes de B\", sem dizer onde) → conte tudo e divida por 2, porque metade dos arranjos tem A antes.",
+          "Objetos idênticos entre si → é permutação com repetição; divida pelos fatoriais das repetições e escreva por quê.",
+        ],
+        pegadinhas: [
+          "Contar duas vezes o caso em que duas restrições se sobrepõem — desenhar o diagrama dos casos evita.",
+          "Tratar posições em círculo como posições em fila: no círculo, girar tudo não gera arranjo novo.",
+        ],
+      },
+      {
+        tema: "Probabilidade em torneios e chaveamentos",
+        resumo: "O formato de 2023.1: um chaveamento eliminatório e a pergunta sobre o encontro entre dois competidores. A dificuldade não é a probabilidade — é perceber que a resposta depende da rodada em que o encontro pode acontecer.",
+        gatilhos: [
+          "\"Qual a chance de A e B se enfrentarem\" → some as chances por rodada: eles precisam sobreviver até lá E cair no mesmo lado da chave.",
+          "Chaveamento com 2ⁿ competidores → o número de partidas é sempre 2ⁿ − 1; essa conta responde metade das perguntas sozinha.",
+          "Enunciado que diz que todos têm a mesma chance → use simetria: a probabilidade de um competidor específico vencer o torneio é 1 dividido pelo número de competidores.",
+        ],
+        pegadinhas: [
+          "Assumir que o encontro só pode ocorrer na final quando o sorteio pode colocá-los na mesma metade da chave.",
+          "Multiplicar as chances de sobreviver sem checar se os eventos são independentes — em chave, o avanço de um pode depender do outro.",
+        ],
+      },
+      {
+        tema: "Probabilidade que depende da etapa anterior",
+        resumo: "O item de 2025.1: a probabilidade de uma etapa é escrita em função da anterior. É a fronteira entre probabilidade e recorrência, e é onde as duas frentes se encontram nesta prova.",
+        gatilhos: [
+          "\"Se ganhou na rodada anterior, a chance passa a ser...\" → monte p(n+1) em função de p(n) e resolva como sequência, não como probabilidade.",
+          "Processo com dois estados que se alternam → escreva a relação para um dos estados só; o outro é o complemento.",
+          "Pergunta pelo comportamento \"a longo prazo\" → procure o valor que se repete (o ponto fixo da recorrência), igualando p(n+1) a p(n).",
+        ],
+        pegadinhas: [
+          "Somar as probabilidades dos estados e obter algo diferente de 1 — sinal de que a recorrência foi montada errado.",
+          "Confundir probabilidade condicional com probabilidade conjunta ao traduzir o enunciado.",
+        ],
       },
     ],
   },
@@ -217,6 +296,45 @@ const AUTORAIS = {
           resolucao: "(a) Δf(n) = [(n+1)² + 3(n+1)] − [n² + 3n] = (n² + 2n + 1 + 3n + 3) − (n² + 3n) = 2n + 4. (b) Aplicando de novo: Δ(Δf)(n) = [2(n+1) + 4] − [2n + 4] = 2, constante. O grau caiu de 2 para 1 e de 1 para 0 — cada diferença abaixa o grau em um, e a segunda diferença de um polinômio do 2º grau é constante (igual a duas vezes o coeficiente líder). O item (b) só fecha com essa frase escrita; a conta sozinha mostra o 2 mas não mostra que o aluno entendeu o mecanismo.",
         },
       },
+      {
+        tema: "Interpolação: a função que passa pelos pontos",
+        resumo: "A questão 6 de 2026.1 pede o polinômio de 2º grau que coincide com o cosseno em três pontos. O conteúdo é sistema linear; o que trava é entender que a função original não precisa ser conhecida — só os três valores dela.",
+        gatilhos: [
+          "\"Encontre o polinômio de grau n que coincide com f em n+1 pontos\" → monte uma equação por ponto e resolva o sistema nos coeficientes.",
+          "Valores da função dados em ângulos notáveis → substitua os valores conhecidos primeiro; a conta encolhe muito.",
+          "Pergunta sobre o erro da aproximação num quarto ponto → calcule os dois valores e subtraia; a questão quer o tamanho do desvio, não uma teoria de erro.",
+        ],
+        pegadinhas: [
+          "Tentar deduzir a função original a partir do polinômio — são coisas diferentes, e a prova não pede.",
+          "Montar o sistema com um ponto a menos do que os coeficientes a determinar, o que deixa infinitas soluções.",
+        ],
+      },
+      {
+        tema: "Funções definidas por partes",
+        resumo: "Aparece em duas roupas nesta prova: como mínimo (ou máximo) entre duas funções, em 2023.1, e como tabela de faixas de imposto ou tarifa. Nos dois casos a resposta é sempre por trechos, e o ponto de troca é o que vale ponto.",
+        gatilhos: [
+          "Função definida como o menor entre f e g → iguale f a g para achar onde trocam; antes e depois desse ponto vale uma delas.",
+          "Enunciado com faixas (\"até X, tal taxa; acima, outra\") → escreva a expressão de cada trecho com o domínio ao lado, e só então substitua.",
+          "Pergunta sobre continuidade ou \"salto\" no ponto de troca → compare os dois valores no ponto; se diferem, há degrau, e o enunciado costuma ser sobre isso.",
+        ],
+        pegadinhas: [
+          "Usar a expressão do trecho errado por não conferir em qual faixa o valor pedido cai.",
+          "Esquecer de dizer o domínio de cada trecho: expressão sem intervalo não é a função pedida, e a grade lê isso como resposta incompleta.",
+        ],
+      },
+      {
+        tema: "Lei de potência e leitura em escala logarítmica",
+        resumo: "A alometria de 2025.1: peso contra frequência, numa relação que vira RETA quando se aplica logaritmo nos dois eixos. É o disfarce favorito da banca para exponencial e potência, e o gráfico log-log é onde a leitura engana.",
+        gatilhos: [
+          "Gráfico que vira reta em escala log nos dois eixos → é lei de potência (y = a·x^b), e o coeficiente angular da reta é o expoente b.",
+          "Gráfico que vira reta com log em UM eixo só → é exponencial, e o coeficiente angular é a taxa de crescimento.",
+          "Enunciado que dá dois pares de valores e pede a lei → aplique log nos dois, monte o sistema e resolva no expoente antes da constante.",
+        ],
+        pegadinhas: [
+          "Ler o coeficiente angular do gráfico log-log como se fosse a taxa de variação da grandeza original.",
+          "Trocar a base do logaritmo no meio da conta — decida no começo e escreva qual está usando.",
+        ],
+      },
     ],
   },
 
@@ -252,6 +370,45 @@ const AUTORAIS = {
           resolucao: "(a) É um arco de circunferência de centro (0, 1) e raio 1 — o trecho no primeiro quadrante, que sai de (0, 0) e chega a (1, 1). (b) A área sob o arco, entre x = 0 e x = 1, é a área do quadrado de lado 1 menos a do quarto de círculo de raio 1: 1 − π/4. A área sob a diagonal é 1/2. A região entre as duas é 1/2 − (1 − π/4) = π/4 − 1/2 ≈ 0,285. O item (a) é o que trava a questão inteira: sem reconhecer a circunferência não há como montar a área, e é por isso que ele vale ponto sozinho.",
         },
       },
+      {
+        tema: "Semelhança e razão entre áreas",
+        resumo: "O item de 2025.1: dois triângulos semelhantes e a pergunta sobre a razão entre as áreas. É a armadilha aritmética mais previsível da geometria — e a que mais custa ponto por pressa.",
+        gatilhos: [
+          "Duas figuras semelhantes de razão k → perímetros na razão k, áreas em k², volumes em k³; escreva as três antes de escolher.",
+          "Reta paralela a um lado do triângulo → cria triângulo semelhante ao original; identifique a razão pelos segmentos que o enunciado deu.",
+          "Pergunta pela razão entre as áreas de duas regiões da mesma figura → tente escrever as duas como frações da área total, em vez de calcular cada uma.",
+        ],
+        pegadinhas: [
+          "Usar k onde precisava de k², que é o erro que a banca prevê no distrator mais escolhido.",
+          "Assumir semelhança porque as figuras \"parecem\" semelhantes; ela precisa vir de ângulos iguais ou de lados proporcionais declarados.",
+        ],
+      },
+      {
+        tema: "Áreas por decomposição",
+        resumo: "Setor, segmento circular, triângulo e trapézio são as peças com que esta prova monta qualquer área. A questão nunca dá a figura pronta: dá uma condição e espera que você recorte a região em peças conhecidas.",
+        gatilhos: [
+          "Região limitada por arco e corda → é segmento circular: área do setor menos a do triângulo formado pelos raios.",
+          "Área entre uma curva e uma reta → escreva como diferença de duas áreas que você sabe calcular, e diga qual é cada uma.",
+          "Figura com simetria → calcule a metade ou o quarto e multiplique; declarar a simetria usada é parte do raciocínio pontuado.",
+        ],
+        pegadinhas: [
+          "Somar áreas de peças que se sobrepõem, sem descontar a interseção.",
+          "Usar o raio no lugar do diâmetro (ou o contrário) na fórmula do setor.",
+        ],
+      },
+      {
+        tema: "Trigonometria em triângulos quaisquer",
+        resumo: "A lei dos cossenos com tangente do ângulo, em 2025.1, é o formato típico: o triângulo não é retângulo, e a escolha entre lei dos senos e lei dos cossenos é o passo que decide a questão.",
+        gatilhos: [
+          "Dois lados e o ângulo ENTRE eles → lei dos cossenos; dois ângulos e um lado → lei dos senos. Escrever essa escolha já vale como raciocínio indicado.",
+          "Pergunta pela área de triângulo não retângulo → use (1/2)·a·b·sen(C), que costuma ser mais curto que achar a altura.",
+          "Enunciado que dá a tangente e pede o cosseno → monte o triângulo auxiliar com cateto oposto e adjacente antes de usar identidade.",
+        ],
+        pegadinhas: [
+          "Aplicar Pitágoras em triângulo que não é retângulo porque o desenho sugere.",
+          "Esquecer que a lei dos senos pode dar dois ângulos possíveis (o agudo e o obtuso) e não conferir qual cabe no triângulo.",
+        ],
+      },
     ],
   },
 
@@ -286,6 +443,46 @@ const AUTORAIS = {
           enunciado: "Um imposto é cobrado assim: nada sobre os primeiros R$ 2.000 de renda mensal, 10% sobre a parte que excede R$ 2.000 até R$ 5.000, e 20% sobre o que excede R$ 5.000. (a) Escreva o imposto devido como função da renda r, para r > 5.000. (b) Uma pessoa pagou R$ 900 de imposto. Qual é a sua renda?",
           resolucao: "(a) Para r > 5.000, a segunda faixa está cheia e contribui 10% de 3.000 = 300; a terceira contribui 0,20·(r − 5.000). Logo I(r) = 300 + 0,20·(r − 5.000), ou I(r) = 0,20r − 700. (b) Como 900 > 300, a renda está na terceira faixa: 0,20r − 700 = 900, r = 8.000. Note que a resposta \"R$ 4.500\", de quem aplica 20% sobre a renda inteira, é a distratora prevista — e, na discursiva, a função escrita em (a) é o que garante os pontos mesmo que a conta de (b) escorregue.",
         },
+      },
+      {
+        tema: "Reajustes sucessivos e taxas equivalentes",
+        resumo: "Juros compostos foram a questão-assinatura de 2022.1, e a mecânica reaparece toda vez que há dois períodos. A regra é uma só: percentuais se MULTIPLICAM como fatores, nunca se somam.",
+        gatilhos: [
+          "Aumento seguido de desconto (ou dois aumentos) → multiplique os fatores (1 + i₁)·(1 + i₂) e escreva o produto antes de calcular.",
+          "\"Qual a taxa equivalente\" entre períodos → é raiz ou potência do fator, conforme se desce ou sobe de período; a mensal equivalente à anual é a raiz 12ª do fator anual.",
+          "Enunciado que fala em taxa real contra taxa nominal → divida o fator nominal pelo fator da inflação, não subtraia as taxas.",
+          "Pergunta \"em quanto tempo dobra\" → é equação exponencial; monte o fator elevado a n igual a 2 e resolva por logaritmo.",
+        ],
+        pegadinhas: [
+          "Somar 10% e 10% e concluir 20%: dois aumentos de 10% dão 21%, e aumento de 10% seguido de desconto de 10% dá 99% do valor original.",
+          "Aplicar a taxa sobre a base errada — o desconto incide sobre o valor JÁ aumentado, e é aí que o enunciado arma.",
+        ],
+      },
+      {
+        tema: "Médias que mudam quando o conjunto muda",
+        resumo: "A questão 2 de 2026.1: média aritmética com remoção de um subconjunto. É a família em que a intuição atrapalha mais, porque média de médias quase nunca é a média do todo.",
+        gatilhos: [
+          "Enunciado que remove ou acrescenta elementos a um conjunto de média conhecida → volte para a SOMA total (média × quantidade) e trabalhe com somas.",
+          "Dois grupos de tamanhos diferentes com médias conhecidas → média ponderada pelos tamanhos; escrever os dois tamanhos ao lado das médias evita o erro.",
+          "\"Qual nota preciso tirar para a média chegar a X\" → monte a equação na soma, não na média.",
+        ],
+        pegadinhas: [
+          "Tirar a média das médias de grupos de tamanhos diferentes — só vale se os tamanhos forem iguais, e a banca escolhe tamanhos diferentes de propósito.",
+          "Esquecer que remover um elemento abaixo da média FAZ a média subir; conferir o sentido do movimento pega metade dos erros de sinal.",
+        ],
+      },
+      {
+        tema: "Estatística descritiva e distribuição assimétrica",
+        resumo: "Média, mediana e moda respondem perguntas diferentes, e em distribuição de renda — o assunto natural desta escola — elas se afastam muito. A banca cobra saber qual delas o enunciado pediu.",
+        gatilhos: [
+          "Tabela de frequências com pergunta sobre mediana → acumule as frequências até passar da metade; a classe em que isso acontece é a resposta.",
+          "Distribuição de renda ou salário → é assimétrica à direita, e a média fica ACIMA da mediana; se a questão pergunta pelo \"valor típico\", é mediana.",
+          "Enunciado que cita desvio padrão ou dispersão → a pergunta costuma ser comparativa (qual conjunto é mais disperso), e não de cálculo bruto.",
+        ],
+        pegadinhas: [
+          "Calcular a mediana sem ordenar os dados.",
+          "Concluir que a distribuição é simétrica porque média e mediana estão próximas em dois conjuntos pequenos.",
+        ],
       },
     ],
   },

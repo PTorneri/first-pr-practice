@@ -32,31 +32,37 @@
 //
 // ---------- A chave de liga/desliga ----------
 //
-// PORTAO_ATIVO começa em false, e tem que começar. Todo push na main vai ao ar
-// sozinho (GitHub Pages): subir isto ligado, antes de existir um documento de
-// assinatura para cada pessoa que já usa o app, tranca todo mundo do lado de
-// fora no mesmo minuto — inclusive você.
+// LIGADO desde 09/08/2026. Nasceu em false e ficou assim de propósito: todo
+// push na main vai ao ar sozinho (GitHub Pages), e subir isto ligado antes de
+// existir um documento de assinatura para cada pessoa que já usava o app
+// trancaria todo mundo do lado de fora no mesmo minuto — inclusive o dono.
 //
-// Para conferir o que o portão DECIDIRIA sem bloquear ninguém, entre no app
-// normalmente e rode no console:
+// As três condições que precisavam valer antes, e valiam:
+//   1. Regras do firestore.rules publicadas — hoje por `firebase deploy
+//      --only firestore:rules`; ver o comentário do firebase.json sobre o
+//      arquivo .local e por que o UID não entra no repositório.
+//   2. /assinaturas/{email} criado para as 8 contas que já usavam o app.
+//      Quatro delas já tinham o teste vencido e teriam batido no muro.
+//   3. Checkout no ar, com a URL em CHECKOUT.
+//
+// PARA DESLIGAR: troque para false, commit, push. Conte uns 15 minutos até
+// chegar em todo mundo — o GitHub Pages publicar mais o cache de 10 minutos do
+// navegador.
+//
+// Para inspecionar o veredito sem depender de alguém relatar:
 //
 //     await VD_ASSINATURA.diagnostico()
 //
-// Ele faz a leitura de verdade, com a sua conta, contra as regras publicadas, e
-// devolve o veredito. É o ensaio antes de virar a chave.
-//
-// ANTES DE LIGAR:
-//   1. Publicar as regras do firestore.rules no console (o arquivo é só a
-//      referência; quem vale é o que está publicado).
-//   2. Criar /assinaturas/{email} para todo mundo que já usa o app hoje — a
-//      lista de e-mails está em Authentication > Users. Sem isso, quem estuda
-//      há semanas perde o acesso sem ter feito nada.
-//   3. Ter o checkout no ar e a URL preenchida em CHECKOUT, aqui embaixo.
+// CUIDADO ao ler isso com a conta do dono: a regra de /assinaturas tem duas
+// cláusulas que se somam — a do dono do e-mail e a do admin — e, para o dono, a
+// leitura passa pela segunda mesmo que a primeira esteja quebrada. O
+// diagnóstico rodado por você NÃO prova que o caminho do aluno funciona. Quem
+// cobre esse caso é o ramo de permission-denied em verificar(), mais abaixo.
 
 import { db } from "./firebase-init.js?v=35";
 import { doc, getDoc } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-firestore.js";
 
-const PORTAO_ATIVO = false;
+const PORTAO_ATIVO = true;
 
 // ---------- O preço, num lugar só ----------
 //
@@ -274,12 +280,14 @@ async function verificar(user) {
   // ao dia 8 sem veredito guardado e seria barrado no primeiro acesso sem rede.
   let v = null;
   let falhou = false;
+  let codigoFalha = "";
   try {
     v = await consultar(email);
     gravarCache(email, v);
   } catch (err) {
     falhou = true;
-    console.warn("[assinatura] não consegui ler o acesso:", err.code || err.message);
+    codigoFalha = (err && err.code) || "";
+    console.warn("[assinatura] não consegui ler o acesso:", codigoFalha || err.message);
   }
 
   if (v && v.entra) return Object.assign({ email: email, teste: teste }, v);
@@ -289,6 +297,29 @@ async function verificar(user) {
   if (teste.dentro) return { entra: true, estado: "teste", email: email, teste: teste };
 
   if (falhou) {
+    // ---------- Quando o erro é NOSSO ----------
+    //
+    // permission-denied aqui não é falta de rede. A pessoa está autenticada e
+    // pediu o PRÓPRIO documento; a regra de /assinaturas só recusa isso se a
+    // regra publicada estiver errada. Documento inexistente não dá este erro —
+    // dá leitura bem-sucedida com exists() falso, que vira "ausente".
+    //
+    // Então este ramo significa: eu errei a regra. Barrar quem pagou por causa
+    // disso é o pior desfecho possível — pior, inclusive, do que deixar entrar
+    // quem não pagou até o conserto sair. Entra, e o console diz o porquê.
+    //
+    // Isto não abre porta nova: quem edita o cliente para forçar o erro já
+    // podia pular o portão inteiro, que é client-side por natureza. O que
+    // segura o acesso de verdade nunca foi este arquivo (ver o cabeçalho).
+    if (codigoFalha === "permission-denied") {
+      console.error(
+        "[assinatura] A REGRA DE /assinaturas RECUSOU A LEITURA DO PRÓPRIO DOCUMENTO. " +
+        "Isso é erro de regra, não de rede. Liberando o acesso até o conserto. " +
+        "Confira o bloco match /assinaturas/{email} no firestore.rules publicado."
+      );
+      return { entra: true, estado: "regra-falhou", email: email, teste: teste };
+    }
+
     const c = lerCache(email);
     const dentroDaGraca = c &&
       c.entra &&

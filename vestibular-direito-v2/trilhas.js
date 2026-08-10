@@ -217,10 +217,23 @@
     // teoria, que Direito e Medicina calibram para provas que esta trilha não
     // presta), escreve-se à mão dentro do próprio build. Cada build tem
     // `--verificar`, que reprova se a fonte mudou e o composto não foi refeito.
-    // Falta só dissertativas-matematica.js, com 150 questões autorais mais 3
-    // reais — este NÃO entra em `arquivos` porque escreve
-    // window.DISSERTATIVAS_EXATAS, um global próprio, lido pelo renderizador de
-    // vestibular-economia/dissertativa-exatas.js e não pelo app.js.
+    // dissertativas-matematica.js (150 questões autorais mais 3 reais da FGV
+    // EESP 2026.1) existe e NÃO entra em `arquivos`: escreve
+    // window.DISSERTATIVAS_EXATAS, um global próprio, carregado só pela
+    // bancada de teste isolada em vestibular-economia/demo-dissertativa.html.
+    // O RENDERIZADOR dessas questões, sim, está plugado — index.html carrega
+    // vestibular-economia/dissertativa-exatas.js/.css incondicionalmente (como
+    // schedule.js e assuntos.js: código, não dado, inerte sem o global), e
+    // renderDissertQuestion (app.js) despacha para VD_EXATAS.render sempre que
+    // `q.itens[0].faixas` existir — dissertPool() concatena
+    // window.DISSERTATIVAS (Direito/Medicina, checklist) com
+    // window.DISSERTATIVAS_EXATAS (Economia, resolução por faixa), e nenhuma
+    // trilha hoje define as duas. De brinde, a lista de matérias do filtro
+    // "praticar uma matéria específica" passou a vir do pool de verdade em vez
+    // de fixa em código — a fixa estava ERRADA para Medicina (dizia
+    // "Humanas/Linguagens/Artes", mas as áreas de lá são "Ciências da
+    // Natureza"/"Ciências Humanas"/"Linguagens"; dois pills nunca casavam com
+    // questão nenhuma).
     //
     // AS REDAÇÕES são as únicas das composições em que a herança entra sem
     // tradução: a FGV e o Insper cobram desta trilha exatamente o formato que
@@ -248,14 +261,28 @@
     // outras duas trilhas o alinhamento é curadoria, e desalinhado não aparece
     // erro nenhum na tela.
     //
-    // NADA DISTO FOI EXERCITADO NA TELA — nenhum dia de Economia jamais foi
-    // aberto no navegador de ponta a ponta, com o cronograma montando lições
-    // reais a partir destes cinco arquivos juntos. Cada build valida o que
-    // produz isoladamente (campos completos, ids únicos, alinhamento com a
-    // teoria, contagens), e cada arquivo carrega sozinho num navegador de
-    // verdade — mas isso é diferente de `carregar()` rodar até o fim e
-    // schedule.js montar um dia sem quebrar. É esse teste, não a lista de
-    // arquivos, que decide quando faz sentido tirar `emConstrucao`.
+    // O QUE JÁ FOI EXERCITADO, E COMO — sem depender de login, porque a tela
+    // real fica atrás do Firebase e ninguém de fora consegue entrar nela:
+    //   - O MOTOR: buildSchedule('2026-08-17', null) + getDayContent(plan, d)
+    //     rodados nos 90 dias, num contexto Node com os dados REAIS da
+    //     trilha (mesma técnica de auditar-busca.js). Zero erros; as 20
+    //     frentes aparecem no plano; toda lição tem teoria E vídeo-aula.
+    //   - A DISSERTATIVA DE EXATAS: vestibular-economia/demo-dissertativa.html
+    //     — que carrega os 153 cards reais e window.VD_EXATAS de verdade, sem
+    //     precisar do app nem de login — testada num navegador de ponta a
+    //     ponta: resposta certa reconhecida, trava de revelação (sem
+    //     resolução escrita, "Conferir" fica desabilitado), e a trava de teto
+    //     (resposta errada tranca só a faixa máxima, as outras continuam
+    //     abertas).
+    //   - O WIRING em si: index.html carrega dissertativa-exatas.js/.css sem
+    //     404, e window.VD_EXATAS.render existe no navegador depois do load.
+    //
+    // O QUE CONTINUA SEM SER TESTADO: um clique real, logado, com Economia
+    // como trilha ativa — ninguém viu como fica a tela com 20 frentes em vez
+    // de 15/13 (filtro de área na busca, "Progresso"), nem o dia de verdade
+    // renderizando a lição + a dissertativa juntas via renderDissertSection.
+    // É esse teste, não a lista de arquivos nem as simulações acima, que
+    // decide quando faz sentido tirar `emConstrucao`.
     //
     // A BUSCA JÁ ESTÁ PRONTA para esta trilha, e não estava: as CINCO frentes de
     // Matemática daqui não existiam no dicionário de assuntos.js, que aponta para

@@ -156,6 +156,28 @@
     return [{ id: "a", comando: q.comando, pontosEsperados: q.pontosEsperados }];
   }
 
+  // A dissertativa "de exatas" (vestibular-economia/dissertativa-exatas.js,
+  // hoje só a Matemática de Economia) não é um comando/checklist — é
+  // resolução + resposta final + faixa de acerto, porque a grade da FGV EESP
+  // pontua por 0/25/50/75/100 e resposta sem conta vale pouco. As duas
+  // famílias de questão coexistem no MESMO pool (dissertPool, abaixo); o que
+  // as distingue é o formato do item: `pontosEsperados` (checklist) contra
+  // `faixas` (exatas). Checar pelo primeiro item basta — uma questão não
+  // mistura os dois formatos entre seus próprios itens.
+  function dissertEhExatas(q) {
+    const itens = q.itens;
+    return !!(itens && itens.length && itens[0].faixas);
+  }
+
+  // O pool inteiro de dissertativas desta trilha, dos dois formatos juntos.
+  // window.DISSERTATIVAS (checklist, Humanas/Linguagens/Artes/Natureza) só
+  // existe em Direito e Medicina; window.DISSERTATIVAS_EXATAS (resolução por
+  // faixa) só existe em Economia — nenhuma trilha define as duas hoje, mas a
+  // concatenação não presume isso, e continua certa no dia em que definirem.
+  function dissertPool() {
+    return (window.DISSERTATIVAS || []).concat(window.DISSERTATIVAS_EXATAS || []);
+  }
+
   // O item 'a' fica com a chave LEGADA, sem sufixo: quem já respondeu uma questão
   // antes da migração continua vendo sua resposta depois dela. Só os itens 'b' em
   // diante ganham sufixo. Como o sufixo do checklist é numérico ("::0", "::1") e o
@@ -187,7 +209,7 @@
   // (achado 12) restringe o sorteio a uma matéria específica, quando o
   // usuário escolhe "trocar matéria" no card do dia.
   function pickDissertQuestions(day, areaFilter) {
-    const fullPool = window.DISSERTATIVAS || [];
+    const fullPool = dissertPool();
     const pool = areaFilter ? fullPool.filter((q) => q.area === areaFilter) : fullPool;
     if (pool.length === 0) return [];
     const rng = mulberry32(day * 733 + 17);
@@ -4042,6 +4064,44 @@
 
     if (!isDayExerciseComplete(day)) return; // só aparece depois que os exercícios do dia acabam
 
+    // O pool desta trilha decide DUAS coisas antes de qualquer questão ser
+    // sorteada: quais matérias aparecem no filtro "praticar uma matéria
+    // específica" e qual texto de introdução descrever a prova.
+    //
+    // `areas` era uma lista fixa ["Humanas", "Linguagens", "Artes"] — certa
+    // para Direito, mas Medicina usa "Ciências da Natureza" e "Ciências
+    // Humanas" (não "Humanas" nem "Artes"), então dois dos três pills nunca
+    // batiam com nenhuma questão e a terceira matéria não tinha pill nenhum.
+    // Derivar de dissertPool() pela ordem real de aparição corrige os dois
+    // lados do mesmo problema, e é o que faz a Matemática de Economia
+    // aparecer sem precisar ensinar esta função a conhecer trilhas.
+    const poolCompleto = dissertPool();
+    const areas = [];
+    poolCompleto.forEach((q) => { if (areas.indexOf(q.area) === -1) areas.push(q.area); });
+
+    // `poolExatas`: true quando TODA a prova discursiva desta trilha é do
+    // formato de resolução por faixa (hoje, só Economia — Matemática pura).
+    // O eyebrow "Prova discursiva FGV" continua certo nos dois formatos: as
+    // discursivas de Matemática da EESP também são da FGV. O que muda é a
+    // descrição, que cita Humanas/Linguagens/Arte — errado para uma prova que
+    // é 100% Matemática — e o que a pessoa deve fazer antes de conferir.
+    const poolExatas = poolCompleto.length > 0 && poolCompleto.every(dissertEhExatas);
+    const introDesc = poolExatas
+      ? `Você concluiu os exercícios objetivos de hoje. A FGV também cobra questões discursivas de
+        Matemática, corrigidas por faixa de acerto (0/25/50/75/100) — resposta certa sem mostrar a conta
+        vale pouco. Praticar em pelo menos 4 dias por semana (você escolhe quais) ajuda a manter esse
+        treino em dia.`
+      : `Você concluiu os exercícios objetivos de hoje. A FGV também cobra questões
+        discursivas de Humanas, Linguagens e Arte. Praticar em pelo menos 4 dias por semana (você escolhe quais)
+        ajuda a manter esse treino em dia.`;
+    const questoesDesc = poolExatas
+      ? `Escreva a resolução completa antes de conferir a resposta final — é a resolução que a grade da FGV
+        pontua, não só o número certo. Depois de conferir, marque a faixa de acerto que sua resposta
+        alcançaria.`
+      : `Escreva sua resposta livremente e depois confira os pontos que a correção
+        discursiva da FGV normalmente espera. Não existe uma única resposta "certa" — o objetivo é treinar
+        argumentação estruturada.`;
+
     const status = getDissertStatus()[day];
     const isExpanded = status === "done" || expandedDissertDays.has(day);
     const week = weekNumberForDay(day);
@@ -4068,9 +4128,7 @@
       card.innerHTML = `
         <div class="lesson-eyebrow">Prova discursiva FGV</div>
         <h3>Quer treinar dissertativas hoje?</h3>
-        <p class="lesson-desc">Você concluiu os exercícios objetivos de hoje. A FGV também cobra questões
-        discursivas de Humanas, Linguagens e Arte. Praticar em pelo menos 4 dias por semana (você escolhe quais)
-        ajuda a manter esse treino em dia.</p>
+        <p class="lesson-desc">${introDesc}</p>
         ${counterHtml}
         <div class="dissert-actions">
           <button class="btn btn-primary dissert-btn-yes" style="width:auto">Sim, praticar hoje</button>
@@ -4109,18 +4167,23 @@
       const doneBadge = status === "done"
         ? `<span class="visit-badge">✓ concluído hoje</span>`
         : "";
-      const areas = ["Humanas", "Linguagens", "Artes"];
-      const filterPillsHtml = areas.map((a) => `
-        <button type="button" class="area-pill${areaFilter === a ? " active" : ""}" data-area="${a}">${a}</button>
-      `).join("") + `<button type="button" class="area-pill${!areaFilter ? " active" : ""}" data-area="">Sorteio normal</button>`;
+      // Filtro de matéria só faz sentido com mais de uma opção — com uma só
+      // (o caso de hoje em Economia, onde o pool inteiro é Matemática), o
+      // pill sozinho e o "Sorteio normal" ao lado seriam a mesma coisa duas
+      // vezes.
+      const filterHtml = areas.length > 1
+        ? `<div class="area-filter"><span class="area-filter-label">Praticar uma matéria específica:</span>${
+            areas.map((a) => `
+              <button type="button" class="area-pill${areaFilter === a ? " active" : ""}" data-area="${a}">${a}</button>
+            `).join("") + `<button type="button" class="area-pill${!areaFilter ? " active" : ""}" data-area="">Sorteio normal</button>`
+          }</div>`
+        : "";
       card.innerHTML = `
         <div class="lesson-eyebrow">Prova discursiva FGV</div>
         <h3>Questões dissertativas ${doneBadge}</h3>
-        <p class="lesson-desc">Escreva sua resposta livremente e depois confira os pontos que a correção
-        discursiva da FGV normalmente espera. Não existe uma única resposta "certa" — o objetivo é treinar
-        argumentação estruturada.</p>
+        <p class="lesson-desc">${questoesDesc}</p>
         ${counterHtml}
-        <div class="area-filter"><span class="area-filter-label">Praticar uma matéria específica:</span>${filterPillsHtml}</div>
+        ${filterHtml}
         <div class="dissert-questions"></div>
       `;
       card.querySelectorAll(".area-pill").forEach((pill) => {
@@ -4153,6 +4216,26 @@
   }
 
   function renderDissertQuestion(day, q, idx) {
+    // A dissertativa de exatas não usa checklist — usa VD_EXATAS.render, a
+    // tela própria de resolução + resposta final + faixa (ver o cabeçalho de
+    // vestibular-economia/dissertativa-exatas.js). O `ns` é o mesmo NS desta
+    // trilha ("v2_eco_"), então o progresso entra no namespace certo e some
+    // junto se um dia o usuário trocar de trilha — igual a tudo o mais aqui.
+    //
+    // Sem `day` na chave de persistência: diferente das dissertativas de
+    // checklist (dissertItemKey inclui o dia), aqui a chave é só
+    // questão+item — decisão de dissertativa-exatas.js, não deste gancho. Se
+    // a mesma questão de exatas voltar a ser sorteada num dia futuro, a
+    // resposta anterior persiste em vez de resetar; é intencional, porque a
+    // exatas guarda também a faixa marcada, e perder isso ao repetir a
+    // questão apagaria uma nota já dada.
+    if (dissertEhExatas(q)) {
+      const wrap = document.createElement("div");
+      wrap.className = "question dissert-question";
+      window.VD_EXATAS.render(wrap, q, { ns: NS });
+      return wrap;
+    }
+
     const wrap = document.createElement("div");
     wrap.className = "question dissert-question";
     const savedAnswers = getDissertAnswers();

@@ -40,11 +40,19 @@
 // A tela não corrige nada sozinha e não finge que corrige. Ela mostra a
 // resolução oficial e as palavras da grade, e o aluno se posiciona nelas.
 //
-// Este arquivo é autossuficiente de propósito: não depende de app.js. Quando a
-// trilha de Economia entrar, o gancho é uma linha em renderDissertQuestion —
-// se a questão tiver `faixas`, chamar VD_EXATAS.render em vez do renderizador
-// de checklist. app.js está com trabalho de outra sessão em cima; por isso a
-// tela nasce aqui e é plugada depois.
+// Este arquivo continua autossuficiente de propósito: não importa nada de
+// app.js, só expõe window.VD_EXATAS. JÁ PLUGADO (2026-08): renderDissertQuestion
+// (app.js) detecta `q.itens[0].faixas` e chama VD_EXATAS.render em vez do
+// renderizador de checklist; index.html carrega este arquivo e o CSS antes de
+// app.js, para toda trilha (inerte enquanto ninguém tiver
+// window.DISSERTATIVAS_EXATAS). O `ns` que app.js passa é o NS da trilha
+// ativa — hoje só Economia define DISSERTATIVAS_EXATAS, mas o gancho não
+// presume isso: qualquer trilha que definir esse global ganha a tela de graça.
+//
+// demo-dissertativa.html continua existindo como bancada de teste isolada —
+// carrega os 153 cards reais sem precisar de login, e foi assim que a
+// integração acima foi verificada (não dá para logar de fora do navegador do
+// usuário para testar o fluxo completo autenticado).
 
 (function () {
   "use strict";

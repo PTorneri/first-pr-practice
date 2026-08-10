@@ -206,7 +206,7 @@
     // ehValida() continua aceitando "economia", então dá para testar a trilha
     // forçando localStorage.setItem("v2_trilha", "economia") no console.
     //
-    // OS SETE ARQUIVOS DE `arquivos` (abaixo) JÁ EXISTEM TODOS. subtopics.js e
+    // OS OITO ARQUIVOS DE `arquivos` (abaixo) JÁ EXISTEM TODOS. subtopics.js e
     // priority-weights.js foram escritos direto; bundle.js, theory.js,
     // video-topics.js, redacoes.js e flashcards.js são COMPOSTOS do que já
     // existe em Direito e Medicina, pelos scripts vestibular-economia/build-*.js
@@ -218,10 +218,21 @@
     // presta), escreve-se à mão dentro do próprio build. Cada build tem
     // `--verificar`, que reprova se a fonte mudou e o composto não foi refeito.
     // dissertativas-matematica.js (150 questões autorais mais 3 reais da FGV
-    // EESP 2026.1) existe e NÃO entra em `arquivos`: escreve
-    // window.DISSERTATIVAS_EXATAS, um global próprio, carregado só pela
-    // bancada de teste isolada em vestibular-economia/demo-dissertativa.html.
-    // O RENDERIZADOR dessas questões, sim, está plugado — index.html carrega
+    // EESP 2026.1) é o oitavo — ENTROU EM `arquivos` só depois de um vai-e-volta:
+    // nasceu fora (escreve window.DISSERTATIVAS_EXATAS, carregado só pela
+    // bancada de teste isolada em vestibular-economia/demo-dissertativa.html) e
+    // ficou assim mesmo depois do renderizador ser plugado em app.js — o
+    // gancho (renderDissertQuestion despachando para VD_EXATAS.render) foi
+    // testado e funcionava, mas com a bancada isolada como fonte, não com a
+    // trilha carregando o próprio dado. Resultado: alguém testando a trilha de
+    // verdade abria "Quer treinar dissertativas hoje?", clicava sim, e a
+    // seção vinha vazia — window.DISSERTATIVAS_EXATAS nunca tinha sido
+    // definido, porque nada em `carregar()` pedia esse arquivo. Só apareceu
+    // testando ao vivo; nenhuma das verificações headless anteriores (o motor
+    // dos 90 dias, a bancada isolada) passava por `carregar()` de Economia com
+    // a lista real de arquivos, então nenhuma delas tinha como pegar isso.
+    //
+    // O RENDERIZADOR continua plugado como estava — index.html carrega
     // vestibular-economia/dissertativa-exatas.js/.css incondicionalmente (como
     // schedule.js e assuntos.js: código, não dado, inerte sem o global), e
     // renderDissertQuestion (app.js) despacha para VD_EXATAS.render sempre que
@@ -277,12 +288,13 @@
     //   - O WIRING em si: index.html carrega dissertativa-exatas.js/.css sem
     //     404, e window.VD_EXATAS.render existe no navegador depois do load.
     //
-    // O QUE CONTINUA SEM SER TESTADO: um clique real, logado, com Economia
-    // como trilha ativa — ninguém viu como fica a tela com 20 frentes em vez
-    // de 15/13 (filtro de área na busca, "Progresso"), nem o dia de verdade
-    // renderizando a lição + a dissertativa juntas via renderDissertSection.
-    // É esse teste, não a lista de arquivos nem as simulações acima, que
-    // decide quando faz sentido tirar `emConstrucao`.
+    // NENHUMA DESSAS SIMULAÇÕES PASSA POR `carregar()`, e foi exatamente aí
+    // que o primeiro defeito real apareceu: dissertativas-matematica.js só
+    // entrou em `arquivos` (acima) depois que um teste ao vivo, logado, achou
+    // a seção de dissertativas vazia — window.DISSERTATIVAS_EXATAS nunca
+    // tinha sido carregado pela trilha de verdade. É a prova de que testar o
+    // motor headless e testar `carregar()` são coisas diferentes; um passar
+    // não implica o outro passar.
     //
     // A BUSCA JÁ ESTÁ PRONTA para esta trilha, e não estava: as CINCO frentes de
     // Matemática daqui não existiam no dicionário de assuntos.js, que aponta para
@@ -320,7 +332,7 @@
       dataDir: "../vestibular-economia/data/",
       arquivos: [
         "subtopics", "theory", "flashcards", "priority-weights",
-        "video-topics", "bundle", "redacoes",
+        "video-topics", "bundle", "redacoes", "dissertativas-matematica",
       ],
       // Sem "obras": a prova de Artes e a lista de leitura obrigatória são
       // exclusivas da FGV Direito SP. O edital unificado não traz lista para a

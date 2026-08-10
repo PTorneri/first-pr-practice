@@ -206,27 +206,39 @@
     // ehValida() continua aceitando "economia", então dá para testar a trilha
     // forçando localStorage.setItem("v2_trilha", "economia") no console.
     //
-    // O QUE FALTA PARA LIGAR, na ordem em que trava:
-    //   flashcards
-    // Já existem: subtopics.js, priority-weights.js, bundle.js (composto dos
-    // outros dois bancos por vestibular-economia/build-bundle.js), theory.js,
-    // video-topics.js e redacoes.js (compostos do que já existe em Direito e
-    // Medicina, pelo mesmo motivo, com o que não tinha de onde copiar escrito à
-    // mão dentro dos builds: as cinco frentes de Matemática e mais Natureza e
-    // Literatura na teoria, e 20 propostas novas nas redações — ver abaixo). E
-    // dissertativas-matematica.js, com 150 questões autorais mais 3 reais —
-    // este NÃO entra em `arquivos` porque escreve window.DISSERTATIVAS_EXATAS,
-    // um global próprio, lido pelo renderizador de
+    // OS SETE ARQUIVOS DE `arquivos` (abaixo) JÁ EXISTEM TODOS. subtopics.js e
+    // priority-weights.js foram escritos direto; bundle.js, theory.js,
+    // video-topics.js, redacoes.js e flashcards.js são COMPOSTOS do que já
+    // existe em Direito e Medicina, pelos scripts vestibular-economia/build-*.js
+    // — mesma lógica em todos: onde o conteúdo não depende do curso (banco de
+    // questões, fato de teoria, vídeo-aula, flashcard, tema de redação),
+    // reaproveita-se; onde depende (as cinco frentes de Matemática, que aqui
+    // valem 40% da nota contra 10% em Direito, e Natureza e Literatura na
+    // teoria, que Direito e Medicina calibram para provas que esta trilha não
+    // presta), escreve-se à mão dentro do próprio build. Cada build tem
+    // `--verificar`, que reprova se a fonte mudou e o composto não foi refeito.
+    // Falta só dissertativas-matematica.js, com 150 questões autorais mais 3
+    // reais — este NÃO entra em `arquivos` porque escreve
+    // window.DISSERTATIVAS_EXATAS, um global próprio, lido pelo renderizador de
     // vestibular-economia/dissertativa-exatas.js e não pelo app.js.
     //
-    // AS REDAÇÕES são as ÚNICAS das quatro composições em que a herança entra
-    // sem tradução nenhuma: o repertório de Direito não muda de comando aqui,
-    // porque a FGV e o Insper cobram desta trilha exatamente o formato que
-    // `comando` e `comandoInsper` de lá já descrevem (ver redacaoUI abaixo). As
-    // 60 propostas entram intactas; 20 novas (redacao-61 a redacao-80, dez
-    // "entre X e Y" e dez "tema abstrato") ancoram a trilha em tensão
-    // econômica real — política monetária, guerra fiscal, crédito consignado,
-    // informalidade — sem repetir tema já coberto do lado de Direito.
+    // AS REDAÇÕES são as únicas das composições em que a herança entra sem
+    // tradução: a FGV e o Insper cobram desta trilha exatamente o formato que
+    // `comando` e `comandoInsper` de Direito já descrevem (ver redacaoUI
+    // abaixo). As 60 propostas entram intactas; 20 novas (redacao-61 a
+    // redacao-80, dez "entre X e Y" e dez "tema abstrato") ancoram a trilha em
+    // tensão econômica real — política monetária, guerra fiscal, crédito
+    // consignado, informalidade.
+    //
+    // OS FLASHCARDS são a composição mais ampla: quinze das vinte frentes vêm
+    // prontas de Direito ou Medicina, porque um flashcard é um FATO ("como fica
+    // a concordância quando o sujeito composto vem antes do verbo") e fato não
+    // muda com o edital — diferente da teoria, que é "gatilhos e pegadinhas"
+    // amarrados ao formato de uma banca. Só as cinco de Matemática são
+    // autorais, ~80 cada, seguindo o mesmo mapa de tópicos de
+    // classificar-matematica.js. Total: 1.674 cards, com história em 164
+    // (soma historia-brasil + historia-geral de Direito) e as demais entre 75
+    // e 85.
     //
     // A teoria e o vídeo do dia GIRAM PELO MESMO ÍNDICE (pickLessonVideo e
     // renderTheoryBlockHtml usam os dois (visitNumber - 1) % tamanho), e é isso
@@ -236,14 +248,14 @@
     // outras duas trilhas o alinhamento é curadoria, e desalinhado não aparece
     // erro nenhum na tela.
     //
-    // Teoria e redações nunca foram exercitadas na tela: enquanto flashcards
-    // faltar, carregar() rejeita antes de qualquer render, e não há como abrir
-    // um dia de Economia no navegador. O que está conferido é que os dois
-    // builds recusam bloco incompleto — a teoria, campo por campo (ver o
-    // comentário de build-theory.js); as redações, id repetido, tema repetido,
-    // menos de 4 textos de apoio ou modelo fora do prometido — e que os dois
-    // arquivos carregam num navegador de verdade. Quem ligar a trilha vê os
-    // dois pela primeira vez.
+    // NADA DISTO FOI EXERCITADO NA TELA — nenhum dia de Economia jamais foi
+    // aberto no navegador de ponta a ponta, com o cronograma montando lições
+    // reais a partir destes cinco arquivos juntos. Cada build valida o que
+    // produz isoladamente (campos completos, ids únicos, alinhamento com a
+    // teoria, contagens), e cada arquivo carrega sozinho num navegador de
+    // verdade — mas isso é diferente de `carregar()` rodar até o fim e
+    // schedule.js montar um dia sem quebrar. É esse teste, não a lista de
+    // arquivos, que decide quando faz sentido tirar `emConstrucao`.
     //
     // A BUSCA JÁ ESTÁ PRONTA para esta trilha, e não estava: as CINCO frentes de
     // Matemática daqui não existiam no dicionário de assuntos.js, que aponta para

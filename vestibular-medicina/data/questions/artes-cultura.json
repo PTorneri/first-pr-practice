@@ -1869,7 +1869,7 @@
     },
     {
       "id": "artes-cultura-122",
-      "texto_apoio": "Considere as afirmações sobre a leitura de imagens: I. Descrever o que se vê é etapa distinta de interpretar o que aquilo significa. II. Uma mesma imagem pode receber leituras diferentes conforme o repertório de quem a observa. III. O significado de uma imagem está integralmente determinado pela intenção declarada de seu autor.",
+      "texto_apoio": "Considere as afirmações sobre a leitura de imagens:\n\nI. Descrever o que se vê é etapa distinta de interpretar o que aquilo significa.\nII. Uma mesma imagem pode receber leituras diferentes conforme o repertório de quem a observa.\nIII. O significado de uma imagem está integralmente determinado pela intenção declarada de seu autor.",
       "enunciado": "Está correto o que se afirma em:",
       "alternativas": {
         "a": "I, apenas",
@@ -2150,7 +2150,7 @@
     },
     {
       "id": "artes-cultura-140",
-      "texto_apoio": "Considere as afirmações sobre as relações entre arte e saúde: I. Práticas artísticas em ambiente hospitalar têm efeitos documentados sobre ansiedade e dor percebida. II. A produção artística de pessoas em sofrimento psíquico tem valor exclusivamente diagnóstico, servindo para classificar o quadro apresentado por cada paciente. III. Atividades artísticas substituem o tratamento clínico nos quadros em que são oferecidas.",
+      "texto_apoio": "Considere as afirmações sobre as relações entre arte e saúde:\n\nI. Práticas artísticas em ambiente hospitalar têm efeitos documentados sobre ansiedade e dor percebida.\nII. A produção artística de pessoas em sofrimento psíquico tem valor exclusivamente diagnóstico, servindo para classificar o quadro apresentado por cada paciente.\nIII. Atividades artísticas substituem o tratamento clínico nos quadros em que são oferecidas.",
       "enunciado": "Está correto o que se afirma em:",
       "alternativas": {
         "a": "I, apenas",

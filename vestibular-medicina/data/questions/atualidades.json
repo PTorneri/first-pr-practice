@@ -1876,7 +1876,7 @@
     },
     {
       "id": "atualidades-122",
-      "texto_apoio": "Considere as afirmações sobre leitura crítica de notícias: I. Verificar quem publicou e com que interesse é parte da avaliação da informação. II. Uma correlação divulgada como manchete pode não indicar relação de causa e efeito. III. Um gráfico cujo eixo vertical não parte do zero apresenta necessariamente dados incorretos.",
+      "texto_apoio": "Considere as afirmações sobre leitura crítica de notícias:\n\nI. Verificar quem publicou e com que interesse é parte da avaliação da informação.\nII. Uma correlação divulgada como manchete pode não indicar relação de causa e efeito.\nIII. Um gráfico cujo eixo vertical não parte do zero apresenta necessariamente dados incorretos.",
       "enunciado": "Está correto o que se afirma em:",
       "alternativas": {
         "a": "I, apenas",
@@ -2189,7 +2189,7 @@
     },
     {
       "id": "atualidades-142",
-      "texto_apoio": "Considere as afirmações sobre a preparação em atualidades para provas de medicina: I. Temas de saúde pública aparecem com frequência e conectam biologia, humanas e bioética. II. Conhecer a ordem de grandeza dos principais indicadores é mais útil do que memorizar seus valores exatos. III. Compreender o mecanismo de um problema costuma ser mais útil do que memorizar o desfecho de um episódio.",
+      "texto_apoio": "Considere as afirmações sobre a preparação em atualidades para provas de medicina:\n\nI. Temas de saúde pública aparecem com frequência e conectam biologia, humanas e bioética.\nII. Conhecer a ordem de grandeza dos principais indicadores é mais útil do que memorizar seus valores exatos.\nIII. Compreender o mecanismo de um problema costuma ser mais útil do que memorizar o desfecho de um episódio.",
       "enunciado": "Está correto o que se afirma em:",
       "alternativas": {
         "a": "I, apenas",

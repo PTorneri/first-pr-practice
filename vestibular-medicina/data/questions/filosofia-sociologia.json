@@ -2061,7 +2061,7 @@
     },
     {
       "id": "filosofia-sociologia-135",
-      "texto_apoio": "Considere as afirmações sobre argumentação: I. Um argumento de forma válida cujas premissas sejam todas verdadeiras pode ter conclusão falsa. II. Distorcer a posição do adversário para refutá-la mais facilmente configura falácia do espantalho. III. Apresentar apenas duas alternativas quando existem outras configura falso dilema.",
+      "texto_apoio": "Considere as afirmações sobre argumentação:\n\nI. Um argumento de forma válida cujas premissas sejam todas verdadeiras pode ter conclusão falsa.\nII. Distorcer a posição do adversário para refutá-la mais facilmente configura falácia do espantalho.\nIII. Apresentar apenas duas alternativas quando existem outras configura falso dilema.",
       "enunciado": "Está correto o que se afirma em:",
       "alternativas": {
         "a": "I, apenas",
@@ -2213,7 +2213,7 @@
     },
     {
       "id": "filosofia-sociologia-145",
-      "texto_apoio": "Considere as afirmações sobre a relação entre condições sociais e saúde: I. Pessoas de menor renda apresentam pior autoavaliação de saúde e menor expectativa de vida. II. O gradiente social em saúde persiste mesmo em países com sistema universal de atendimento. III. Ampliar a oferta de serviços de saúde basta para eliminar as diferenças de desfecho entre os grupos sociais.",
+      "texto_apoio": "Considere as afirmações sobre a relação entre condições sociais e saúde:\n\nI. Pessoas de menor renda apresentam pior autoavaliação de saúde e menor expectativa de vida.\nII. O gradiente social em saúde persiste mesmo em países com sistema universal de atendimento.\nIII. Ampliar a oferta de serviços de saúde basta para eliminar as diferenças de desfecho entre os grupos sociais.",
       "enunciado": "Está correto o que se afirma em:",
       "alternativas": {
         "a": "I, apenas",

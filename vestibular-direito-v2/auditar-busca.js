@@ -87,6 +87,12 @@ function rodarArquivo(ctx, relativo) {
 const BANCOS = {
   medicina: "vestibular-medicina/data/",
   direito: "vestibular-direito/data/",
+  // Economia entra aqui assim que tem subtopics.js e bundle.js, mesmo com a
+  // trilha ainda desligada em trilhas.js: a busca cruza bancos, não trilhas
+  // oferecidas, e é com três bancos que este auditor passa a cobrir o caminho
+  // de DUAS trilhas secundárias -- o que o conserto do outras[0] habilitou e
+  // que não tinha como ser exercitado enquanto só existiam dois bancos.
+  economia: "vestibular-economia/data/",
 };
 
 function carregarBanco(trilha) {

@@ -1,0 +1,3132 @@
+{
+ "gerado": "2026-08-09",
+ "total": 525,
+ "residuo": [],
+ "mapa": {
+  "matematica-rlm-01": {
+   "frente": "matematica-geometria",
+   "pontos": 13,
+   "margem": 10,
+   "trilha": "direito"
+  },
+  "matematica-rlm-02": {
+   "frente": "matematica-financeira",
+   "pontos": 4,
+   "margem": 1,
+   "trilha": "direito"
+  },
+  "matematica-rlm-03": {
+   "frente": "matematica-geometria",
+   "pontos": 13,
+   "margem": 10,
+   "trilha": "direito"
+  },
+  "matematica-rlm-04": {
+   "frente": "matematica-geometria",
+   "pontos": 13,
+   "margem": 10,
+   "trilha": "direito"
+  },
+  "matematica-rlm-05": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "direito"
+  },
+  "matematica-rlm-06": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-07": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-08": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-09": {
+   "frente": "matematica-geometria",
+   "pontos": 16,
+   "margem": 13,
+   "trilha": "direito"
+  },
+  "matematica-rlm-10": {
+   "frente": "matematica-financeira",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "direito"
+  },
+  "matematica-rlm-11": {
+   "frente": "matematica-financeira",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-16": {
+   "frente": "matematica-financeira",
+   "pontos": 4,
+   "margem": 2,
+   "trilha": "direito"
+  },
+  "matematica-rlm-17": {
+   "frente": "matematica-financeira",
+   "pontos": 4,
+   "margem": 2,
+   "trilha": "direito"
+  },
+  "matematica-rlm-18": {
+   "frente": "matematica-financeira",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-rlm-19": {
+   "frente": "matematica-algebra",
+   "pontos": 2,
+   "margem": 0,
+   "trilha": "direito"
+  },
+  "matematica-rlm-20": {
+   "frente": "matematica-financeira",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-21": {
+   "frente": "matematica-geometria",
+   "pontos": 13,
+   "margem": 10,
+   "trilha": "direito"
+  },
+  "matematica-rlm-22": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "direito"
+  },
+  "matematica-rlm-23": {
+   "frente": "matematica-geometria",
+   "pontos": 7,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-rlm-24": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "direito"
+  },
+  "matematica-rlm-25": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "direito"
+  },
+  "matematica-rlm-26": {
+   "frente": "matematica-probabilidade",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "direito"
+  },
+  "matematica-rlm-27": {
+   "frente": "matematica-geometria",
+   "pontos": 6,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-28": {
+   "frente": "matematica-geometria",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "direito"
+  },
+  "matematica-rlm-29": {
+   "frente": "matematica-geometria",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-30": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "direito"
+  },
+  "matematica-rlm-31": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "direito"
+  },
+  "matematica-rlm-32": {
+   "frente": "matematica-financeira",
+   "pontos": 2,
+   "margem": 2,
+   "trilha": "direito"
+  },
+  "matematica-rlm-33": {
+   "frente": "matematica-financeira",
+   "pontos": 7,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-34": {
+   "frente": "matematica-geometria",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-35": {
+   "frente": "matematica-financeira",
+   "pontos": 3,
+   "margem": 1,
+   "trilha": "direito"
+  },
+  "matematica-rlm-36": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 3,
+   "trilha": "direito"
+  },
+  "matematica-rlm-37": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-38": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "direito"
+  },
+  "matematica-rlm-39": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "direito"
+  },
+  "matematica-rlm-40": {
+   "frente": "matematica-financeira",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-41": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "direito"
+  },
+  "matematica-rlm-42": {
+   "frente": "matematica-financeira",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "direito"
+  },
+  "matematica-rlm-43": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 1,
+   "trilha": "direito"
+  },
+  "matematica-rlm-44": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "direito"
+  },
+  "matematica-rlm-45": {
+   "frente": "matematica-financeira",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-46": {
+   "frente": "matematica-financeira",
+   "pontos": 4,
+   "margem": 1,
+   "trilha": "direito"
+  },
+  "matematica-rlm-47": {
+   "frente": "matematica-financeira",
+   "pontos": 7,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-rlm-48": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "direito"
+  },
+  "matematica-rlm-49": {
+   "frente": "matematica-financeira",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-50": {
+   "frente": "matematica-financeira",
+   "pontos": 7,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-51": {
+   "frente": "matematica-financeira",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-52": {
+   "frente": "matematica-financeira",
+   "revisado": true,
+   "trilha": "direito"
+  },
+  "matematica-rlm-53": {
+   "frente": "matematica-geometria",
+   "pontos": 12,
+   "margem": 12,
+   "trilha": "direito"
+  },
+  "matematica-rlm-54": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 3,
+   "trilha": "direito"
+  },
+  "matematica-rlm-55": {
+   "frente": "matematica-algebra",
+   "revisado": true,
+   "trilha": "direito"
+  },
+  "matematica-rlm-56": {
+   "frente": "matematica-algebra",
+   "revisado": true,
+   "trilha": "direito"
+  },
+  "matematica-rlm-57": {
+   "frente": "matematica-probabilidade",
+   "pontos": 10,
+   "margem": 10,
+   "trilha": "direito"
+  },
+  "matematica-rlm-58": {
+   "frente": "matematica-probabilidade",
+   "pontos": 7,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-59": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-60": {
+   "frente": "matematica-probabilidade",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-61": {
+   "frente": "matematica-financeira",
+   "pontos": 7,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-rlm-62": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-63": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-64": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 2,
+   "trilha": "direito"
+  },
+  "matematica-rlm-65": {
+   "frente": "matematica-probabilidade",
+   "pontos": 10,
+   "margem": 10,
+   "trilha": "direito"
+  },
+  "matematica-rlm-66": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-67": {
+   "frente": "matematica-sequencias",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-rlm-68": {
+   "frente": "matematica-sequencias",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-rlm-69": {
+   "frente": "matematica-geometria",
+   "pontos": 15,
+   "margem": 12,
+   "trilha": "direito"
+  },
+  "matematica-rlm-70": {
+   "frente": "matematica-sequencias",
+   "pontos": 9,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-71": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-72": {
+   "frente": "matematica-financeira",
+   "pontos": 2,
+   "margem": 2,
+   "trilha": "direito"
+  },
+  "matematica-rlm-73": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "direito"
+  },
+  "matematica-rlm-74": {
+   "frente": "matematica-financeira",
+   "pontos": 7,
+   "margem": 1,
+   "trilha": "direito"
+  },
+  "matematica-rlm-75": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 1,
+   "trilha": "direito"
+  },
+  "matematica-rlm-76": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "direito"
+  },
+  "matematica-rlm-77": {
+   "frente": "matematica-financeira",
+   "revisado": true,
+   "trilha": "direito"
+  },
+  "matematica-rlm-78": {
+   "frente": "matematica-financeira",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-79": {
+   "frente": "matematica-algebra",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-80": {
+   "frente": "matematica-geometria",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-86": {
+   "frente": "matematica-probabilidade",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "direito"
+  },
+  "matematica-rlm-87": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 10,
+   "trilha": "direito"
+  },
+  "matematica-rlm-88": {
+   "frente": "matematica-geometria",
+   "pontos": 18,
+   "margem": 18,
+   "trilha": "direito"
+  },
+  "matematica-rlm-89": {
+   "frente": "matematica-geometria",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "direito"
+  },
+  "matematica-rlm-90": {
+   "frente": "matematica-geometria",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-91": {
+   "frente": "matematica-geometria",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-92": {
+   "frente": "matematica-geometria",
+   "pontos": 2,
+   "margem": 2,
+   "trilha": "direito"
+  },
+  "matematica-rlm-93": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 1,
+   "trilha": "direito"
+  },
+  "matematica-rlm-94": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "direito"
+  },
+  "matematica-rlm-95": {
+   "frente": "matematica-algebra",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-96": {
+   "frente": "matematica-probabilidade",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "direito"
+  },
+  "matematica-rlm-97": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-98": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-99": {
+   "frente": "matematica-financeira",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-100": {
+   "frente": "matematica-financeira",
+   "pontos": 4,
+   "margem": 2,
+   "trilha": "direito"
+  },
+  "matematica-rlm-101": {
+   "frente": "matematica-algebra",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-102": {
+   "frente": "matematica-financeira",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-103": {
+   "frente": "matematica-sequencias",
+   "revisado": true,
+   "trilha": "direito"
+  },
+  "matematica-rlm-104": {
+   "frente": "matematica-sequencias",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-105": {
+   "frente": "matematica-sequencias",
+   "pontos": 9,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-rlm-106": {
+   "frente": "matematica-sequencias",
+   "pontos": 5,
+   "margem": 1,
+   "trilha": "direito"
+  },
+  "matematica-rlm-107": {
+   "frente": "matematica-algebra",
+   "pontos": 4,
+   "margem": 1,
+   "trilha": "direito"
+  },
+  "matematica-rlm-108": {
+   "frente": "matematica-probabilidade",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-109": {
+   "frente": "matematica-geometria",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-110": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-111": {
+   "frente": "matematica-geometria",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "direito"
+  },
+  "matematica-rlm-112": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-113": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 10,
+   "trilha": "direito"
+  },
+  "matematica-rlm-114": {
+   "frente": "matematica-financeira",
+   "pontos": 4,
+   "margem": 1,
+   "trilha": "direito"
+  },
+  "matematica-rlm-115": {
+   "frente": "matematica-financeira",
+   "revisado": true,
+   "trilha": "direito"
+  },
+  "matematica-rlm-116": {
+   "frente": "matematica-financeira",
+   "pontos": 2,
+   "margem": 2,
+   "trilha": "direito"
+  },
+  "matematica-rlm-117": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "direito"
+  },
+  "matematica-rlm-118": {
+   "frente": "matematica-probabilidade",
+   "pontos": 2,
+   "margem": 0,
+   "trilha": "direito"
+  },
+  "matematica-rlm-119": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 10,
+   "trilha": "direito"
+  },
+  "matematica-rlm-120": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-121": {
+   "frente": "matematica-geometria",
+   "pontos": 15,
+   "margem": 12,
+   "trilha": "direito"
+  },
+  "matematica-rlm-122": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "direito"
+  },
+  "matematica-rlm-123": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 10,
+   "trilha": "direito"
+  },
+  "matematica-rlm-124": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "direito"
+  },
+  "matematica-rlm-125": {
+   "frente": "matematica-sequencias",
+   "pontos": 9,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-126": {
+   "frente": "matematica-sequencias",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-rlm-127": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "direito"
+  },
+  "matematica-rlm-128": {
+   "frente": "matematica-probabilidade",
+   "pontos": 5,
+   "margem": 1,
+   "trilha": "direito"
+  },
+  "matematica-rlm-129": {
+   "frente": "matematica-probabilidade",
+   "pontos": 2,
+   "margem": 2,
+   "trilha": "direito"
+  },
+  "matematica-rlm-130": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "direito"
+  },
+  "matematica-rlm-131": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-132": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-133": {
+   "frente": "matematica-geometria",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-134": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-135": {
+   "frente": "matematica-geometria",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "direito"
+  },
+  "matematica-rlm-136": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-137": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "direito"
+  },
+  "matematica-rlm-138": {
+   "frente": "matematica-probabilidade",
+   "pontos": 2,
+   "margem": 0,
+   "trilha": "direito"
+  },
+  "matematica-rlm-141": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "direito"
+  },
+  "matematica-rlm-142": {
+   "frente": "matematica-algebra",
+   "pontos": 6,
+   "margem": 3,
+   "trilha": "direito"
+  },
+  "matematica-rlm-143": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-144": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-145": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-rlm-146": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-147": {
+   "frente": "matematica-financeira",
+   "pontos": 5,
+   "margem": 3,
+   "trilha": "direito"
+  },
+  "matematica-rlm-148": {
+   "frente": "matematica-algebra",
+   "pontos": 8,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-rlm-149": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 10,
+   "trilha": "direito"
+  },
+  "matematica-rlm-150": {
+   "frente": "matematica-financeira",
+   "pontos": 7,
+   "margem": 2,
+   "trilha": "direito"
+  },
+  "matematica-rlm-151": {
+   "frente": "matematica-probabilidade",
+   "pontos": 2,
+   "margem": 0,
+   "trilha": "direito"
+  },
+  "matematica-rlm-152": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "direito"
+  },
+  "matematica-rlm-153": {
+   "frente": "matematica-geometria",
+   "pontos": 6,
+   "margem": 3,
+   "trilha": "direito"
+  },
+  "matematica-rlm-154": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-155": {
+   "frente": "matematica-financeira",
+   "pontos": 2,
+   "margem": 2,
+   "trilha": "direito"
+  },
+  "matematica-rlm-156": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-157": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-158": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "direito"
+  },
+  "matematica-rlm-159": {
+   "frente": "matematica-financeira",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "direito"
+  },
+  "matematica-rlm-160": {
+   "frente": "matematica-geometria",
+   "pontos": 8,
+   "margem": 2,
+   "trilha": "direito"
+  },
+  "matematica-rlm-161": {
+   "frente": "matematica-financeira",
+   "pontos": 11,
+   "margem": 11,
+   "trilha": "direito"
+  },
+  "matematica-rlm-162": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-163": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-164": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-165": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-166": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-167": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-168": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-169": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-170": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-171": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-172": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-173": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-174": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-175": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-176": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-177": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-178": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-179": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-180": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-181": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-182": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-183": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-184": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-185": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-186": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-187": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-188": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-189": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-190": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-191": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-192": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-193": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-194": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-195": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-196": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-197": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-198": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-199": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-200": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-201": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "direito"
+  },
+  "matematica-rlm-202": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-203": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-204": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-205": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-206": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-207": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-208": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-209": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-210": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-211": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-212": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-213": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-214": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-215": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-216": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-217": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-218": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-219": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-220": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-221": {
+   "frente": "matematica-financeira",
+   "pontos": 8,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-222": {
+   "frente": "matematica-probabilidade",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "direito"
+  },
+  "matematica-rlm-223": {
+   "frente": "matematica-probabilidade",
+   "pontos": 10,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-224": {
+   "frente": "matematica-probabilidade",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "direito"
+  },
+  "matematica-rlm-225": {
+   "frente": "matematica-probabilidade",
+   "pontos": 10,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-226": {
+   "frente": "matematica-probabilidade",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "direito"
+  },
+  "matematica-rlm-227": {
+   "frente": "matematica-probabilidade",
+   "pontos": 10,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-228": {
+   "frente": "matematica-probabilidade",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "direito"
+  },
+  "matematica-rlm-229": {
+   "frente": "matematica-probabilidade",
+   "pontos": 10,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-230": {
+   "frente": "matematica-probabilidade",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "direito"
+  },
+  "matematica-rlm-231": {
+   "frente": "matematica-probabilidade",
+   "pontos": 10,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-232": {
+   "frente": "matematica-probabilidade",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "direito"
+  },
+  "matematica-rlm-233": {
+   "frente": "matematica-probabilidade",
+   "pontos": 10,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-234": {
+   "frente": "matematica-probabilidade",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "direito"
+  },
+  "matematica-rlm-235": {
+   "frente": "matematica-probabilidade",
+   "pontos": 10,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-236": {
+   "frente": "matematica-probabilidade",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "direito"
+  },
+  "matematica-rlm-237": {
+   "frente": "matematica-probabilidade",
+   "pontos": 10,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-238": {
+   "frente": "matematica-probabilidade",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "direito"
+  },
+  "matematica-rlm-239": {
+   "frente": "matematica-probabilidade",
+   "pontos": 10,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-240": {
+   "frente": "matematica-probabilidade",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "direito"
+  },
+  "matematica-rlm-241": {
+   "frente": "matematica-probabilidade",
+   "pontos": 10,
+   "margem": 6,
+   "trilha": "direito"
+  },
+  "matematica-rlm-242": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-243": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-244": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-245": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-246": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-247": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-248": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-249": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-250": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-251": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-252": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-253": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-254": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-255": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-256": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-257": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-258": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-259": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-260": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "direito"
+  },
+  "matematica-rlm-261": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "direito"
+  },
+  "matematica-rlm-262": {
+   "frente": "matematica-algebra",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-263": {
+   "frente": "matematica-algebra",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-264": {
+   "frente": "matematica-algebra",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-265": {
+   "frente": "matematica-algebra",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-266": {
+   "frente": "matematica-algebra",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-267": {
+   "frente": "matematica-algebra",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-268": {
+   "frente": "matematica-algebra",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-269": {
+   "frente": "matematica-algebra",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-270": {
+   "frente": "matematica-algebra",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-271": {
+   "frente": "matematica-algebra",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "direito"
+  },
+  "matematica-rlm-272": {
+   "frente": "matematica-algebra",
+   "pontos": 8,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-rlm-273": {
+   "frente": "matematica-algebra",
+   "pontos": 8,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-rlm-274": {
+   "frente": "matematica-algebra",
+   "pontos": 8,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-rlm-275": {
+   "frente": "matematica-algebra",
+   "pontos": 8,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-rlm-276": {
+   "frente": "matematica-algebra",
+   "pontos": 8,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-rlm-277": {
+   "frente": "matematica-algebra",
+   "pontos": 8,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-rlm-278": {
+   "frente": "matematica-algebra",
+   "pontos": 8,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-rlm-279": {
+   "frente": "matematica-algebra",
+   "pontos": 8,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-rlm-280": {
+   "frente": "matematica-algebra",
+   "pontos": 8,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-rlm-281": {
+   "frente": "matematica-algebra",
+   "pontos": 8,
+   "margem": 5,
+   "trilha": "direito"
+  },
+  "matematica-01": {
+   "frente": "matematica-probabilidade",
+   "pontos": 5,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-02": {
+   "frente": "matematica-probabilidade",
+   "pontos": 5,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-03": {
+   "frente": "matematica-probabilidade",
+   "pontos": 12,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-04": {
+   "frente": "matematica-probabilidade",
+   "pontos": 10,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-05": {
+   "frente": "matematica-probabilidade",
+   "pontos": 5,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-06": {
+   "frente": "matematica-algebra",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-07": {
+   "frente": "matematica-algebra",
+   "pontos": 4,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-08": {
+   "frente": "matematica-algebra",
+   "pontos": 17,
+   "margem": 14,
+   "trilha": "medicina"
+  },
+  "matematica-09": {
+   "frente": "matematica-probabilidade",
+   "pontos": 2,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-10": {
+   "frente": "matematica-sequencias",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-11": {
+   "frente": "matematica-sequencias",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-12": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "medicina"
+  },
+  "matematica-13": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "medicina"
+  },
+  "matematica-14": {
+   "frente": "matematica-financeira",
+   "pontos": 4,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-15": {
+   "frente": "matematica-geometria",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "medicina"
+  },
+  "matematica-16": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 7,
+   "trilha": "medicina"
+  },
+  "matematica-17": {
+   "frente": "matematica-geometria",
+   "pontos": 11,
+   "margem": 11,
+   "trilha": "medicina"
+  },
+  "matematica-18": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 10,
+   "trilha": "medicina"
+  },
+  "matematica-19": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 10,
+   "trilha": "medicina"
+  },
+  "matematica-20": {
+   "frente": "matematica-geometria",
+   "pontos": 12,
+   "margem": 9,
+   "trilha": "medicina"
+  },
+  "matematica-21": {
+   "frente": "matematica-geometria",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "medicina"
+  },
+  "matematica-22": {
+   "frente": "matematica-geometria",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "medicina"
+  },
+  "matematica-23": {
+   "frente": "matematica-algebra",
+   "pontos": 8,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-24": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-25": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-26": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-27": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "medicina"
+  },
+  "matematica-28": {
+   "frente": "matematica-financeira",
+   "pontos": 7,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-29": {
+   "frente": "matematica-financeira",
+   "pontos": 14,
+   "margem": 13,
+   "trilha": "medicina"
+  },
+  "matematica-30": {
+   "frente": "matematica-financeira",
+   "pontos": 11,
+   "margem": 8,
+   "trilha": "medicina"
+  },
+  "matematica-31": {
+   "frente": "matematica-geometria",
+   "pontos": 8,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-32": {
+   "frente": "matematica-geometria",
+   "pontos": 7,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-33": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-34": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-35": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-36": {
+   "frente": "matematica-algebra",
+   "pontos": 4,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-37": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-38": {
+   "frente": "matematica-algebra",
+   "pontos": 2,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-39": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 10,
+   "trilha": "medicina"
+  },
+  "matematica-40": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 10,
+   "trilha": "medicina"
+  },
+  "matematica-41": {
+   "frente": "matematica-geometria",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "medicina"
+  },
+  "matematica-42": {
+   "frente": "matematica-geometria",
+   "pontos": 13,
+   "margem": 10,
+   "trilha": "medicina"
+  },
+  "matematica-43": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-44": {
+   "frente": "matematica-sequencias",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "medicina"
+  },
+  "matematica-45": {
+   "frente": "matematica-sequencias",
+   "pontos": 6,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-46": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-47": {
+   "frente": "matematica-probabilidade",
+   "pontos": 5,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-48": {
+   "frente": "matematica-financeira",
+   "pontos": 15,
+   "margem": 13,
+   "trilha": "medicina"
+  },
+  "matematica-49": {
+   "frente": "matematica-algebra",
+   "pontos": 8,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-50": {
+   "frente": "matematica-financeira",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-51": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-52": {
+   "frente": "matematica-financeira",
+   "pontos": 3,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-53": {
+   "frente": "matematica-financeira",
+   "pontos": 4,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-54": {
+   "frente": "matematica-financeira",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-55": {
+   "frente": "matematica-financeira",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "medicina"
+  },
+  "matematica-56": {
+   "frente": "matematica-algebra",
+   "pontos": 4,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-57": {
+   "frente": "matematica-financeira",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "medicina"
+  },
+  "matematica-58": {
+   "frente": "matematica-geometria",
+   "pontos": 16,
+   "margem": 16,
+   "trilha": "medicina"
+  },
+  "matematica-59": {
+   "frente": "matematica-financeira",
+   "revisado": true,
+   "trilha": "medicina"
+  },
+  "matematica-60": {
+   "frente": "matematica-financeira",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-61": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 10,
+   "trilha": "medicina"
+  },
+  "matematica-62": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "medicina"
+  },
+  "matematica-63": {
+   "frente": "matematica-probabilidade",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-64": {
+   "frente": "matematica-algebra",
+   "pontos": 10,
+   "margem": 10,
+   "trilha": "medicina"
+  },
+  "matematica-65": {
+   "frente": "matematica-algebra",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-66": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-67": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-68": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-69": {
+   "frente": "matematica-geometria",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-70": {
+   "frente": "matematica-geometria",
+   "pontos": 15,
+   "margem": 15,
+   "trilha": "medicina"
+  },
+  "matematica-71": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-72": {
+   "frente": "matematica-geometria",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-73": {
+   "frente": "matematica-sequencias",
+   "pontos": 10,
+   "margem": 7,
+   "trilha": "medicina"
+  },
+  "matematica-74": {
+   "frente": "matematica-sequencias",
+   "pontos": 10,
+   "margem": 7,
+   "trilha": "medicina"
+  },
+  "matematica-75": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-76": {
+   "frente": "matematica-probabilidade",
+   "revisado": true,
+   "trilha": "medicina"
+  },
+  "matematica-77": {
+   "frente": "matematica-probabilidade",
+   "pontos": 5,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-78": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-79": {
+   "frente": "matematica-financeira",
+   "pontos": 11,
+   "margem": 11,
+   "trilha": "medicina"
+  },
+  "matematica-80": {
+   "frente": "matematica-financeira",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-81": {
+   "frente": "matematica-financeira",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-82": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-83": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-84": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-85": {
+   "frente": "matematica-geometria",
+   "pontos": 17,
+   "margem": 17,
+   "trilha": "medicina"
+  },
+  "matematica-86": {
+   "frente": "matematica-algebra",
+   "revisado": true,
+   "trilha": "medicina"
+  },
+  "matematica-87": {
+   "frente": "matematica-financeira",
+   "pontos": 11,
+   "margem": 11,
+   "trilha": "medicina"
+  },
+  "matematica-88": {
+   "frente": "matematica-financeira",
+   "pontos": 4,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-89": {
+   "frente": "matematica-algebra",
+   "revisado": true,
+   "trilha": "medicina"
+  },
+  "matematica-90": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-91": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 9,
+   "trilha": "medicina"
+  },
+  "matematica-92": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 10,
+   "trilha": "medicina"
+  },
+  "matematica-93": {
+   "frente": "matematica-geometria",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "medicina"
+  },
+  "matematica-94": {
+   "frente": "matematica-geometria",
+   "pontos": 12,
+   "margem": 12,
+   "trilha": "medicina"
+  },
+  "matematica-95": {
+   "frente": "matematica-geometria",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "medicina"
+  },
+  "matematica-96": {
+   "frente": "matematica-algebra",
+   "pontos": 9,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-97": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "medicina"
+  },
+  "matematica-98": {
+   "frente": "matematica-probabilidade",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "medicina"
+  },
+  "matematica-99": {
+   "frente": "matematica-probabilidade",
+   "pontos": 12,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-100": {
+   "frente": "matematica-financeira",
+   "pontos": 7,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-101": {
+   "frente": "matematica-financeira",
+   "pontos": 2,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-102": {
+   "frente": "matematica-financeira",
+   "pontos": 9,
+   "margem": 6,
+   "trilha": "medicina"
+  },
+  "matematica-103": {
+   "frente": "matematica-sequencias",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "medicina"
+  },
+  "matematica-104": {
+   "frente": "matematica-algebra",
+   "pontos": 11,
+   "margem": 8,
+   "trilha": "medicina"
+  },
+  "matematica-105": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-106": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-107": {
+   "frente": "matematica-financeira",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-108": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-109": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-110": {
+   "frente": "matematica-algebra",
+   "pontos": 4,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-111": {
+   "frente": "matematica-probabilidade",
+   "revisado": true,
+   "trilha": "medicina"
+  },
+  "matematica-112": {
+   "frente": "matematica-probabilidade",
+   "pontos": 10,
+   "margem": 10,
+   "trilha": "medicina"
+  },
+  "matematica-113": {
+   "frente": "matematica-algebra",
+   "revisado": true,
+   "trilha": "medicina"
+  },
+  "matematica-114": {
+   "frente": "matematica-algebra",
+   "revisado": true,
+   "trilha": "medicina"
+  },
+  "matematica-115": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-116": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-117": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-118": {
+   "frente": "matematica-geometria",
+   "pontos": 16,
+   "margem": 13,
+   "trilha": "medicina"
+  },
+  "matematica-119": {
+   "frente": "matematica-geometria",
+   "pontos": 8,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-120": {
+   "frente": "matematica-geometria",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-121": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-122": {
+   "frente": "matematica-algebra",
+   "pontos": 7,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-123": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-124": {
+   "frente": "matematica-geometria",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "medicina"
+  },
+  "matematica-125": {
+   "frente": "matematica-geometria",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "medicina"
+  },
+  "matematica-126": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 10,
+   "trilha": "medicina"
+  },
+  "matematica-127": {
+   "frente": "matematica-geometria",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-128": {
+   "frente": "matematica-geometria",
+   "pontos": 13,
+   "margem": 13,
+   "trilha": "medicina"
+  },
+  "matematica-129": {
+   "frente": "matematica-financeira",
+   "pontos": 7,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-130": {
+   "frente": "matematica-algebra",
+   "pontos": 6,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-131": {
+   "frente": "matematica-sequencias",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-132": {
+   "frente": "matematica-sequencias",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "medicina"
+  },
+  "matematica-133": {
+   "frente": "matematica-probabilidade",
+   "pontos": 11,
+   "margem": 11,
+   "trilha": "medicina"
+  },
+  "matematica-134": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-135": {
+   "frente": "matematica-probabilidade",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-136": {
+   "frente": "matematica-financeira",
+   "pontos": 7,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-137": {
+   "frente": "matematica-probabilidade",
+   "pontos": 5,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-138": {
+   "frente": "matematica-geometria",
+   "pontos": 8,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-139": {
+   "frente": "matematica-financeira",
+   "pontos": 7,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-140": {
+   "frente": "matematica-financeira",
+   "revisado": true,
+   "trilha": "medicina"
+  },
+  "matematica-141": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-142": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-143": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-144": {
+   "frente": "matematica-sequencias",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-145": {
+   "frente": "matematica-algebra",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "medicina"
+  },
+  "matematica-146": {
+   "frente": "matematica-financeira",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-147": {
+   "frente": "matematica-probabilidade",
+   "revisado": true,
+   "trilha": "medicina"
+  },
+  "matematica-148": {
+   "frente": "matematica-probabilidade",
+   "pontos": 5,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-149": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 10,
+   "trilha": "medicina"
+  },
+  "matematica-150": {
+   "frente": "matematica-financeira",
+   "pontos": 11,
+   "margem": 7,
+   "trilha": "medicina"
+  },
+  "matematica-151": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-152": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-153": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-154": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-155": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-156": {
+   "frente": "matematica-algebra",
+   "pontos": 8,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-157": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-158": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-159": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-160": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-161": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-162": {
+   "frente": "matematica-algebra",
+   "pontos": 7,
+   "margem": 7,
+   "trilha": "medicina"
+  },
+  "matematica-163": {
+   "frente": "matematica-geometria",
+   "pontos": 11,
+   "margem": 6,
+   "trilha": "medicina"
+  },
+  "matematica-164": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-165": {
+   "frente": "matematica-sequencias",
+   "pontos": 5,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-166": {
+   "frente": "matematica-algebra",
+   "pontos": 8,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-167": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-168": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-169": {
+   "frente": "matematica-probabilidade",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-170": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-171": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-172": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-173": {
+   "frente": "matematica-algebra",
+   "pontos": 12,
+   "margem": 9,
+   "trilha": "medicina"
+  },
+  "matematica-174": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-175": {
+   "frente": "matematica-financeira",
+   "pontos": 6,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-176": {
+   "frente": "matematica-algebra",
+   "revisado": true,
+   "trilha": "medicina"
+  },
+  "matematica-177": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-178": {
+   "frente": "matematica-probabilidade",
+   "pontos": 7,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-179": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-180": {
+   "frente": "matematica-algebra",
+   "pontos": 10,
+   "margem": 7,
+   "trilha": "medicina"
+  },
+  "matematica-181": {
+   "frente": "matematica-algebra",
+   "revisado": true,
+   "trilha": "medicina"
+  },
+  "matematica-182": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-183": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-184": {
+   "frente": "matematica-algebra",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "medicina"
+  },
+  "matematica-185": {
+   "frente": "matematica-algebra",
+   "revisado": true,
+   "trilha": "medicina"
+  },
+  "matematica-186": {
+   "frente": "matematica-algebra",
+   "pontos": 2,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-187": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-188": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-189": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-190": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-191": {
+   "frente": "matematica-algebra",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "medicina"
+  },
+  "matematica-192": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-193": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-194": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-195": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-196": {
+   "frente": "matematica-algebra",
+   "revisado": true,
+   "trilha": "medicina"
+  },
+  "matematica-197": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-198": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-199": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-200": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-201": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-202": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-203": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-204": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-205": {
+   "frente": "matematica-probabilidade",
+   "pontos": 8,
+   "margem": 8,
+   "trilha": "medicina"
+  },
+  "matematica-206": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-207": {
+   "frente": "matematica-probabilidade",
+   "revisado": true,
+   "trilha": "medicina"
+  },
+  "matematica-208": {
+   "frente": "matematica-probabilidade",
+   "revisado": true,
+   "trilha": "medicina"
+  },
+  "matematica-209": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-210": {
+   "frente": "matematica-probabilidade",
+   "revisado": true,
+   "trilha": "medicina"
+  },
+  "matematica-211": {
+   "frente": "matematica-probabilidade",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-212": {
+   "frente": "matematica-probabilidade",
+   "revisado": true,
+   "trilha": "medicina"
+  },
+  "matematica-213": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-214": {
+   "frente": "matematica-probabilidade",
+   "revisado": true,
+   "trilha": "medicina"
+  },
+  "matematica-215": {
+   "frente": "matematica-probabilidade",
+   "pontos": 7,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-216": {
+   "frente": "matematica-probabilidade",
+   "pontos": 5,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-217": {
+   "frente": "matematica-geometria",
+   "pontos": 11,
+   "margem": 8,
+   "trilha": "medicina"
+  },
+  "matematica-218": {
+   "frente": "matematica-geometria",
+   "pontos": 3,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-219": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-220": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-221": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 7,
+   "trilha": "medicina"
+  },
+  "matematica-222": {
+   "frente": "matematica-geometria",
+   "pontos": 7,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-223": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 7,
+   "trilha": "medicina"
+  },
+  "matematica-224": {
+   "frente": "matematica-geometria",
+   "pontos": 15,
+   "margem": 12,
+   "trilha": "medicina"
+  },
+  "matematica-225": {
+   "frente": "matematica-geometria",
+   "pontos": 15,
+   "margem": 10,
+   "trilha": "medicina"
+  },
+  "matematica-226": {
+   "frente": "matematica-algebra",
+   "pontos": 6,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-227": {
+   "frente": "matematica-algebra",
+   "pontos": 5,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-228": {
+   "frente": "matematica-financeira",
+   "pontos": 2,
+   "margem": 2,
+   "trilha": "medicina"
+  },
+  "matematica-229": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-230": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 7,
+   "trilha": "medicina"
+  },
+  "matematica-231": {
+   "frente": "matematica-geometria",
+   "pontos": 13,
+   "margem": 10,
+   "trilha": "medicina"
+  },
+  "matematica-232": {
+   "frente": "matematica-sequencias",
+   "pontos": 6,
+   "margem": 6,
+   "trilha": "medicina"
+  },
+  "matematica-233": {
+   "frente": "matematica-financeira",
+   "pontos": 7,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-234": {
+   "frente": "matematica-sequencias",
+   "pontos": 6,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-235": {
+   "frente": "matematica-financeira",
+   "pontos": 7,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-236": {
+   "frente": "matematica-sequencias",
+   "pontos": 8,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-237": {
+   "frente": "matematica-sequencias",
+   "pontos": 6,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-238": {
+   "frente": "matematica-sequencias",
+   "pontos": 8,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-239": {
+   "frente": "matematica-algebra",
+   "pontos": 4,
+   "margem": 0,
+   "trilha": "medicina"
+  },
+  "matematica-240": {
+   "frente": "matematica-sequencias",
+   "pontos": 8,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-241": {
+   "frente": "matematica-sequencias",
+   "revisado": true,
+   "trilha": "medicina"
+  },
+  "matematica-242": {
+   "frente": "matematica-sequencias",
+   "pontos": 8,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-243": {
+   "frente": "matematica-algebra",
+   "pontos": 3,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-244": {
+   "frente": "matematica-algebra",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-245": {
+   "frente": "matematica-algebra",
+   "pontos": 4,
+   "margem": 1,
+   "trilha": "medicina"
+  },
+  "matematica-246": {
+   "frente": "matematica-algebra",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-247": {
+   "frente": "matematica-algebra",
+   "pontos": 4,
+   "margem": 4,
+   "trilha": "medicina"
+  },
+  "matematica-248": {
+   "frente": "matematica-algebra",
+   "pontos": 6,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-249": {
+   "frente": "matematica-financeira",
+   "pontos": 7,
+   "margem": 3,
+   "trilha": "medicina"
+  },
+  "matematica-250": {
+   "frente": "matematica-algebra",
+   "pontos": 11,
+   "margem": 8,
+   "trilha": "medicina"
+  },
+  "matematica-251": {
+   "frente": "matematica-geometria",
+   "pontos": 10,
+   "margem": 10,
+   "trilha": "medicina"
+  },
+  "matematica-252": {
+   "frente": "matematica-geometria",
+   "pontos": 18,
+   "margem": 15,
+   "trilha": "medicina"
+  },
+  "matematica-253": {
+   "frente": "matematica-geometria",
+   "pontos": 17,
+   "margem": 14,
+   "trilha": "medicina"
+  },
+  "matematica-254": {
+   "frente": "matematica-geometria",
+   "pontos": 8,
+   "margem": 5,
+   "trilha": "medicina"
+  },
+  "matematica-255": {
+   "frente": "matematica-geometria",
+   "pontos": 15,
+   "margem": 12,
+   "trilha": "medicina"
+  }
+ }
+}

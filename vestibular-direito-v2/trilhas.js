@@ -207,23 +207,25 @@
     // forçando localStorage.setItem("v2_trilha", "economia") no console.
     //
     // O QUE FALTA PARA LIGAR, na ordem em que trava:
-    //   subtopics.js         as frentes (o estudo já as define)
-    //   bundle.js            o banco objetivo
-    //   priority-weights.js  os pesos por frente
     //   theory, flashcards, video-topics, redacoes
-    // O que já existe é dissertativas-matematica.js, com 150 questões autorais
-    // mais 3 reais — e ele NÃO entra em `arquivos` porque escreve
-    // window.DISSERTATIVAS_EXATAS, um global próprio, lido pelo renderizador de
+    // Já existem: subtopics.js, bundle.js (composto dos outros dois bancos por
+    // vestibular-economia/build-bundle.js) e priority-weights.js. E
+    // dissertativas-matematica.js, com 150 questões autorais mais 3 reais — este
+    // NÃO entra em `arquivos` porque escreve window.DISSERTATIVAS_EXATAS, um
+    // global próprio, lido pelo renderizador de
     // vestibular-economia/dissertativa-exatas.js e não pelo app.js.
     //
-    // AO LIGAR, ver app.js:3183: a busca entre trilhas carrega outras[0], uma
-    // só. Com três trilhas oferecíveis, uma some da busca sem erro nenhum.
-    // Para quem usa o app hoje o defeito está dormindo, porque só duas trilhas
-    // saem de lista() e outras() devolve uma. Mas ele ACORDA no teste descrito
-    // acima: com economia ativa, outras() devolve direito e medicina, e a
-    // segunda é ignorada em silêncio. O conserto é trocar o outras[0] por um
-    // laço — está fora deste registro de propósito, para a mudança não vazar
-    // para app.js antes de a trilha existir.
+    // AO LIGAR, o dicionário de assuntos.js precisa conhecer as CINCO frentes de
+    // Matemática desta trilha. Hoje os 17 assuntos de Matemática apontam para
+    // `matematica-rlm` e `matematica` — os ids de Direito e de Medicina —, e com
+    // economia ativa a busca indexa as mesmas questões sob os ids daqui
+    // (matematica-geometria, -financeira, -sequencias, ...), porque a trilha
+    // ativa absorve primeiro. Resultado medido com
+    // `node auditar-busca.js --trilha economia`: os 17 caem de 26–244 questões
+    // para 0–20, nove deles a zero, e o auditor sai com 40 assuntos abaixo do
+    // piso em vez de 23. Nada disso afeta quem usa o app hoje — com Direito ou
+    // Medicina ativa o índice é o mesmo de antes, 5.755 questões —, mas é o
+    // primeiro pedregulho de quem virar esta chave.
     //
     // Tudo abaixo sai de estudo-anatomia-provas-economia-fgv-insper-2021-2026.md,
     // não de suposição.

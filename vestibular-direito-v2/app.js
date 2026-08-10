@@ -2784,10 +2784,36 @@
   // prefixo — ver o comentário em buscaSubtopicId.
   function buscaMontarDocs(secundarias, extra) {
     const docs = [];
+    // A MESMA questão não pode entrar duas vezes no índice.
+    //
+    // O banco da trilha de Economia é COMPOSTO a partir dos de Direito e
+    // Medicina -- a objetiva do dia 1 da FGV EESP é o mesmo caderno da FGV
+    // Direito SP, então reescrevê-la seria reescrever pior o que já existe. A
+    // consequência é que 100% dos ids de Economia também existem em outro
+    // banco, e sem esta trava a busca devolveria a mesma questão duas vezes,
+    // com dois rótulos de trilha.
+    //
+    // A chave é ORIGEM + id, e não o id sozinho: "interpretacao-texto-01"
+    // existe em Direito E em Medicina sendo duas questões DIFERENTES, e o mesmo
+    // vale para geografia-01, gramatica-01, ingles-01 e literatura-01. Deduplicar
+    // só por id apagaria 1.022 questões legítimas -- medido, não suposto.
+    //
+    // `origemTrilha` só existe nas questões compostas, e é ele que faz a cópia
+    // apontar para o banco de onde veio: a questão de Economia que veio de
+    // Direito colide com a de Direito, como deve, e não com a de Medicina que
+    // por acaso tem o mesmo id. Isso só funciona porque a composição preserva o
+    // id original em vez de prefixá-lo (ver o MAPA em build-bundle.js).
+    //
+    // Quem absorve primeiro vence, e quem absorve primeiro é a trilha ativa --
+    // a atribuição certa: a questão pertence ao curso de quem está buscando.
+    const vistos = new Set();
     function absorver(trilhaId, subtopics, banks, textos) {
       (subtopics || []).forEach((s) => {
         const bank = (banks && banks[s.id]) || [];
         bank.forEach((q) => {
+          const chave = (q.origemTrilha || trilhaId) + "::" + q.id;
+          if (vistos.has(chave)) return;
+          vistos.add(chave);
           docs.push({
             trilha: trilhaId,
             frente: s.id,

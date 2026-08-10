@@ -886,6 +886,9 @@
     if (foco) foco.replaceWith(renderFocoCard(day, content));
     sincronizarFrenteEmFoco(day, content);
 
+    const resumo = document.getElementById("resumo-dia");
+    if (resumo) resumo.replaceWith(renderResumoDia(day, content));
+
     // A faixa de métricas também sai do lugar a cada resposta: "acerto na
     // semana" e "frente mais fraca" mudam com o que acabou de ser respondido.
     // Sem isto, elas só se corrigiam ao trocar de aba e voltar — e a frente
@@ -897,6 +900,57 @@
     // O contador da lateral conta a mesma coisa que este cartão: se um mudou,
     // o outro mudou junto.
     atualizarBadges();
+  }
+
+  // ---------- Resumo do dia: as duas matérias, num só olhar ----------
+  //
+  // O cartão de foco só promove UMA frente, e a segunda ficava depois das
+  // tarefas e das métricas — quem queria ver as duas matérias do dia de cara
+  // tinha que rolar a tela. Este é um atalho: duas chips lado a lado, e cada
+  // uma rola até o card da frente correspondente, sem trocar de aba.
+  function renderResumoDia(day, content) {
+    const wrap = document.createElement("div");
+    wrap.className = "resumo-dia";
+    wrap.id = "resumo-dia";
+    if (content.type === "simulado") {
+      wrap.hidden = true;
+      return wrap;
+    }
+
+    const dayAnswers = getDayAnswers();
+    const chipsHtml = content.lessons.map((lesson) => {
+      const essentialCount = snapToGroupBoundary(
+        lesson.questions,
+        Math.min(ESSENTIAL_QUESTIONS_PER_LESSON, lesson.questions.length)
+      );
+      const essentials = lesson.questions.slice(0, essentialCount);
+      const respondidas = essentials.filter(
+        (q) => dayAnswers[dayAnswerKey(day, lesson.subtopicId, q.id)] !== undefined
+      ).length;
+      const feita = essentials.length > 0 && respondidas >= essentials.length;
+      return `
+        <button type="button" class="resumo-chip${feita ? " resumo-chip-feita" : ""}"
+                data-resumo-chip="${escapeHtml(lesson.subtopicId)}">
+          <span class="resumo-chip-marca">${feita ? "✓" : ""}</span>
+          <span class="resumo-chip-texto">
+            <span class="resumo-chip-area">${escapeHtml(lesson.area)}</span>
+            <span class="resumo-chip-nome">${escapeHtml(lesson.nome)}</span>
+          </span>
+        </button>`;
+    }).join("");
+
+    wrap.innerHTML = `
+      <span class="resumo-dia-titulo">Questões do dia</span>
+      <div class="resumo-dia-chips">${chipsHtml}</div>`;
+
+    wrap.querySelectorAll("[data-resumo-chip]").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const el = document.querySelector('[data-lesson-id="' + cssEscape(btn.dataset.resumoChip) + '"]');
+        if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+    });
+
+    return wrap;
   }
 
   // ---------- Cartão de foco: "comece por aqui" ----------
@@ -1244,6 +1298,8 @@
     const content = getDayContent(plan, day);
     const container = document.getElementById("day-content");
     container.innerHTML = "";
+
+    container.appendChild(renderResumoDia(day, content));
 
     // O painel curto do topo: o que fazer agora (navy), o que falta hoje
     // (tarefas) e como estou indo (métricas). Nada saiu da tela — as questões

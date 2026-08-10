@@ -1360,6 +1360,34 @@ h4 { font-size: 1.0625rem; }
 #day-content .lesson-card .theory-toggle { display: none; }
 /* Colapsado e sem botão visível, o bloco da teoria não pode deixar um vão. */
 #day-content .lesson-card .theory-block:not(:has(.theory-content:not([hidden]))) { margin-bottom: 0; }
+.resumo-dia {
+  display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+  margin-bottom: 16px;
+}
+.resumo-dia-titulo {
+  font-size: 0.719rem; letter-spacing: 0.04em; text-transform: uppercase;
+  color: var(--ink-faint); font-weight: 700; flex: none;
+}
+.resumo-dia-chips { display: flex; gap: 10px; flex-wrap: wrap; }
+.resumo-chip {
+  display: flex; align-items: center; gap: 10px;
+  background: var(--surface); border: 1px solid var(--border-strong); border-radius: var(--radius-sm);
+  padding: 9px 14px; cursor: pointer; text-align: left; font-family: inherit;
+}
+.resumo-chip:hover { background: var(--surface-hover); }
+.resumo-chip-marca {
+  width: 18px; height: 18px; border-radius: 50%; border: 1px solid var(--border-strong);
+  color: #fff; font-size: 11px; flex: none;
+  display: flex; align-items: center; justify-content: center;
+}
+.resumo-chip-feita .resumo-chip-marca { border-color: var(--good); background: var(--good); }
+.resumo-chip-texto { display: flex; flex-direction: column; gap: 1px; }
+.resumo-chip-area {
+  font-size: 0.688rem; letter-spacing: 0.02em; text-transform: uppercase;
+  color: var(--ink-faint); font-weight: 700;
+}
+.resumo-chip-nome { font-size: 0.845rem; font-weight: 600; color: var(--ink); }
+
 .hoje-topo { display: grid; grid-template-columns: 1.55fr 1fr; gap: 16px; align-items: start; }
 
 .foco-card-titulo { display: flex; flex-direction: column; gap: 6px; }

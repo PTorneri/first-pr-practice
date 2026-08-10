@@ -127,6 +127,46 @@ $CHUTE_ALVO_FRENTE = 30.0
 # um padrao vazio e deixou passar tudo (build-bundle.ps1:20-23).
 $MOJIBAKE_RX = "[$([char]0xC3)$([char]0xC2)][$([char]0x80)-$([char]0xBF)]"
 
+# Achado em 2026-08: 57 questões (enunciado ou texto_apoio) tinham a lista de
+# afirmativas "I. ... II. ... III. ..." escrita em texto corrido, sem o '\n'
+# que separa cada item. O CSS (.q-enunciado / .q-support) já usa
+# white-space: pre-wrap nos dois apps — o defeito era só a falta da quebra de
+# linha nos dados, e por isso passava batido em toda validação de estrutura.
+#
+# O marcador é 'I. ' com ponto e espaço, de propósito: 'I) ' e '(I) ' não
+# disparam. É o formato que a comparação gramatical de gramatica.json usa
+# ('(I) "frase" (II) "frase"'), lado a lado por escolha — não é a mesma lista
+# de afirmativas e não deveria ser quebrado.
+#
+# Só varre 'enunciado' e 'texto_apoio': 'explicacao' pode legitimamente citar
+# "confirmando I." e "a afirmativa III é falsa" em prosa, reexplicando itens já
+# apresentados alhures — isso não é uma lista nova e não precisa de quebra de
+# linha (caso real: geografia-149).
+function Test-ItensCorridos {
+  param([string]$campo, [string]$texto)
+
+  $erros = @()
+  if (-not $texto) { return $erros }
+
+  $mI = [regex]::Match($texto, '\bI\. ')
+  if (-not $mI.Success) { return $erros }
+  $mII = [regex]::Match($texto, '\bII\. ')
+  if (-not $mII.Success) { return $erros }
+
+  if ($mII.Index -gt $mI.Index) {
+    $entreIeII = $texto.Substring($mI.Index, $mII.Index - $mI.Index)
+    if ($entreIeII -notmatch "`n") { $erros += "itens I/II do campo '$campo' em texto corrido (falta quebra de linha)" }
+  }
+
+  $mIII = [regex]::Match($texto, '\bIII\. ')
+  if ($mIII.Success -and $mIII.Index -gt $mII.Index) {
+    $entreIIeIII = $texto.Substring($mII.Index, $mIII.Index - $mII.Index)
+    if ($entreIIeIII -notmatch "`n") { $erros += "itens II/III do campo '$campo' em texto corrido (falta quebra de linha)" }
+  }
+
+  return $erros
+}
+
 # ---------------------------------------------------------------- validação
 
 function Test-Questao {
@@ -174,6 +214,12 @@ function Test-Questao {
     if (-not $q.visual.descricao) { $erros += "$id : visual sem 'descricao' (é obrigatória — serve de fallback e de acessibilidade)" }
     if ($q.visual.arquivo -and $q.visual.arquivo -notlike "assets/*") {
       $erros += "$id : visual.arquivo '$($q.visual.arquivo)' fora de assets/"
+    }
+  }
+
+  foreach ($campo in @("enunciado", "texto_apoio")) {
+    if ($q.PSObject.Properties.Name.Contains($campo) -and $q.$campo) {
+      foreach ($e in (Test-ItensCorridos $campo $q.$campo)) { $erros += "$id : $e" }
     }
   }
 
@@ -364,6 +410,24 @@ function Invoke-SelfTest {
 
   $visualSemDesc = '{"id":"x-07","enunciado":"e","visual":{"tipo":"charge","arquivo":"assets/v/a.svg"},"alternativas":{"a":"1","b":"2","c":"3","d":"4","e":"5"},"resposta":"a","explicacao":"x"}' | ConvertFrom-Json
   if ((Test-Questao $visualSemDesc $true).erros.Count -eq 0) { throw "self-test: visual sem descricao passou" }
+
+  # itens I/II/III em texto corrido têm que reprovar, tanto em enunciado quanto
+  # em texto_apoio — as duas ocorrências reais encontradas em 2026-08
+  $itensCorridos = '{"id":"x-08","enunciado":"Considere: I. Primeira afirmativa. II. Segunda afirmativa. III. Terceira afirmativa. Está correto:","alternativas":{"a":"1","b":"2","c":"3","d":"4","e":"5"},"resposta":"a","explicacao":"x"}' | ConvertFrom-Json
+  if ((Test-Questao $itensCorridos $true).erros.Count -eq 0) { throw "self-test: itens I/II/III em texto corrido (enunciado) passaram" }
+
+  $apoioCorrido = '{"id":"x-09","enunciado":"Está correto o que se afirma em:","texto_apoio":"Considere: I. Um. II. Dois. III. Três.","alternativas":{"a":"1","b":"2","c":"3","d":"4","e":"5"},"resposta":"a","explicacao":"x"}' | ConvertFrom-Json
+  if ((Test-Questao $apoioCorrido $true).erros.Count -eq 0) { throw "self-test: itens I/II/III em texto corrido (texto_apoio) passaram" }
+
+  # a mesma lista com a quebra de linha certa (o formato que a correção grava)
+  # tem que passar
+  $itensQuebrados = '{"id":"x-10","enunciado":"Considere:\n\nI. Primeira afirmativa.\nII. Segunda afirmativa.\nIII. Terceira afirmativa.\n\nEstá correto:","alternativas":{"a":"1","b":"2","c":"3","d":"4","e":"5"},"resposta":"a","explicacao":"x"}' | ConvertFrom-Json
+  if ((Test-Questao $itensQuebrados $true).erros.Count -ne 0) { throw "self-test: itens I/II/III com quebra de linha foram reprovados à toa" }
+
+  # '(I) ... (II) ...' é comparação gramatical lado a lado (gramatica.json), não
+  # lista de afirmativas — não pode disparar o mesmo detector
+  $itensParenteses = '{"id":"x-11","enunciado":"Considere: (I) \"frase um\" (II) \"frase dois\".","alternativas":{"a":"1","b":"2","c":"3","d":"4","e":"5"},"resposta":"a","explicacao":"x"}' | ConvertFrom-Json
+  if ((Test-Questao $itensParenteses $true).erros.Count -ne 0) { throw "self-test: '(I) ... (II) ...' de comparação gramatical foi reprovado à toa" }
 
   # obras: id tem que casar com a chave da obra E com a posição na lista
   if (-not (Test-ObraQuestaoId "obra-macbeth-q3" "obra-macbeth" 3)) { throw "self-test: id de obra válido foi reprovado" }

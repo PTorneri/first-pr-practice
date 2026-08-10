@@ -12920,13 +12920,13 @@ window.QUESTION_BANKS = {
    "id": "matematica-242",
    "enunciado": "Considere a sequência 3, 6, 12, 24, ... e as afirmações a seguir.\nI. Trata-se de uma progressão geométrica de razão 2.\nII. O sétimo termo é 192.\nIII. A soma dos seis primeiros termos é 192.\nEstá correto o que se afirma em:",
    "alternativas": {
-    "a": "I e II, apenas",
-    "b": "I, apenas",
+    "a": "I, apenas",
+    "b": "I e II, apenas",
     "c": "II e III, apenas",
     "d": "I e III, apenas",
     "e": "I, II e III"
    },
-   "resposta": "a",
+   "resposta": "b",
    "explicacao": "Cada termo é o dobro do anterior, então I é correta. O sétimo termo é 3 x 2⁶ = 192, e II também. A soma dos seis primeiros é 3 x (2⁶ − 1) ÷ (2 − 1) = 3 x 63 = 189, e não 192: III é falsa. A armadilha é exatamente essa proximidade — numa progressão geométrica de razão 2, a soma dos n primeiros termos é o termo seguinte menos o primeiro, isto é, 192 − 3 = 189.",
    "formato": "escada",
    "dificuldade": "media"
@@ -14679,12 +14679,12 @@ window.QUESTION_BANKS = {
    "enunciado": "Um comitê será formado escolhendo-se 3 pessoas de um grupo de 6. Analise as afirmações.\nI. Se os três escolhidos ocuparem cargos distintos, há 120 escolhas possíveis.\nII. Se não houver cargos, há 20 escolhas possíveis.\nIII. O número de escolhas com cargos é o dobro do número de escolhas sem cargos.\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
-    "b": "II, apenas",
-    "c": "I e III, apenas",
-    "d": "I e II, apenas",
+    "b": "I e II, apenas",
+    "c": "II e III, apenas",
+    "d": "I e III, apenas",
     "e": "I, II e III"
    },
-   "resposta": "d",
+   "resposta": "b",
    "explicacao": "Com cargos é arranjo: A(6,3) = 6 x 5 x 4 = 120, e I está correta. Sem cargos é combinação: C(6,3) = 120 ÷ 6 = 20, e II também. A III é a armadilha: a razão entre os dois números não é 2, e sim 3! = 6, porque cada conjunto de três pessoas pode ser distribuído nos três cargos de seis maneiras diferentes.",
    "formato": "escada",
    "dificuldade": "media"
@@ -16211,15 +16211,15 @@ window.QUESTION_BANKS = {
   {
    "origemTrilha": "medicina",
    "id": "matematica-160",
-   "enunciado": "Considere as afirmações a seguir sobre determinantes de matrizes quadradas. I. Se uma linha é inteiramente formada por zeros, o determinante é nulo. II. Trocando duas linhas de posição, o determinante muda de sinal. III. O determinante de uma matriz triangular é a soma dos elementos da diagonal principal. Está correto o que se afirma em:",
+   "enunciado": "Considere as afirmações a seguir sobre determinantes de matrizes quadradas.\n\nI. Se uma linha é inteiramente formada por zeros, o determinante é nulo.\nII. Trocando duas linhas de posição, o determinante muda de sinal.\nIII. O determinante de uma matriz triangular é a soma dos elementos da diagonal principal.\n\nEstá correto o que se afirma em:",
    "alternativas": {
-    "a": "apenas I",
-    "b": "apenas III",
-    "c": "apenas I e III",
-    "d": "apenas I e II",
+    "a": "I, apenas",
+    "b": "I e II, apenas",
+    "c": "II e III, apenas",
+    "d": "I e III, apenas",
     "e": "I, II e III"
    },
-   "resposta": "d",
+   "resposta": "b",
    "explicacao": "I é verdadeira: todo termo do desenvolvimento contém um fator daquela linha, e todos se anulam. II é verdadeira: cada troca de filas paralelas inverte o sinal do determinante. III é falsa — na matriz triangular o determinante é o produto, e não a soma, dos elementos da diagonal principal. Marcar (e) é o deslize de quem lembra da regra da triangular mas troca produto por soma.",
    "formato": "escada"
   },
@@ -16459,15 +16459,15 @@ window.QUESTION_BANKS = {
   {
    "origemTrilha": "medicina",
    "id": "matematica-182",
-   "enunciado": "Considere o sistema formado pelas equações x + y = 5 e 2x + 2y = 10 e as afirmações a seguir. I. O sistema é possível e determinado. II. O par (2, 3) é solução do sistema. III. As duas equações representam a mesma reta. Está correto o que se afirma em:",
+   "enunciado": "Considere o sistema formado pelas equações x + y = 5 e 2x + 2y = 10 e as afirmações a seguir.\n\nI. O sistema é possível e determinado.\nII. O par (2, 3) é solução do sistema.\nIII. As duas equações representam a mesma reta.\n\nEstá correto o que se afirma em:",
    "alternativas": {
-    "a": "apenas I",
-    "b": "apenas II",
-    "c": "apenas I e III",
-    "d": "apenas II e III",
+    "a": "I, apenas",
+    "b": "I e II, apenas",
+    "c": "II e III, apenas",
+    "d": "I e III, apenas",
     "e": "I, II e III"
    },
-   "resposta": "d",
+   "resposta": "c",
    "explicacao": "A segunda equação é o dobro da primeira, então há uma única reta e infinitas soluções: I é falsa e III é verdadeira. O par (2, 3) satisfaz as duas equações, o que torna II verdadeira — mas ele é apenas uma entre infinitas soluções. Quem marca (e) aceita I por reflexo, supondo que exibir uma solução implique que ela seja a única.",
    "formato": "escada"
   },
@@ -16598,15 +16598,15 @@ window.QUESTION_BANKS = {
   {
    "origemTrilha": "medicina",
    "id": "matematica-192",
-   "enunciado": "Considere as afirmações a seguir sobre matrizes quadradas de mesma ordem, em que I representa a matriz identidade. I. A·I = I·A = A, qualquer que seja a matriz A. II. Se o produto A·B é a matriz nula, então A é nula ou B é nula. III. A transposta do produto A·B é igual ao produto da transposta de B pela transposta de A. Está correto o que se afirma em:",
+   "enunciado": "Considere as afirmações a seguir sobre matrizes quadradas de mesma ordem, em que I representa a matriz identidade.\n\nI. A·I = I·A = A, qualquer que seja a matriz A.\nII. Se o produto A·B é a matriz nula, então A é nula ou B é nula.\nIII. A transposta do produto A·B é igual ao produto da transposta de B pela transposta de A.\n\nEstá correto o que se afirma em:",
    "alternativas": {
-    "a": "apenas I",
-    "b": "apenas I e II",
-    "c": "apenas I e III",
-    "d": "apenas II e III",
+    "a": "I, apenas",
+    "b": "I e II, apenas",
+    "c": "II e III, apenas",
+    "d": "I e III, apenas",
     "e": "I, II e III"
    },
-   "resposta": "c",
+   "resposta": "d",
    "explicacao": "A identidade é o elemento neutro da multiplicação, o que valida a primeira afirmação, e a transposta de um produto inverte a ordem dos fatores, o que valida a terceira. A segunda é falsa: com A = [1 0; 0 0] e B = [0 0; 0 1], notação em que o ponto e vírgula separa as linhas, o produto é a matriz nula sem que nenhum dos fatores seja nulo. Marcar (e) é transportar para as matrizes uma regra dos números reais que não sobrevive à mudança de contexto.",
    "formato": "escada"
   },
@@ -18582,12 +18582,12 @@ window.QUESTION_BANKS = {
    "enunciado": "Considere a circunferência de equação (x − 1)² + (y − 2)² = 25 e as afirmações a seguir.\nI. O ponto P(4, 6) pertence à circunferência.\nII. O ponto Q(−2, 0) é exterior à circunferência.\nIII. O ponto R(6, 6) é exterior à circunferência.\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
-    "b": "I e III, apenas",
-    "c": "I e II, apenas",
-    "d": "II e III, apenas",
+    "b": "I e II, apenas",
+    "c": "II e III, apenas",
+    "d": "I e III, apenas",
     "e": "I, II e III"
    },
-   "resposta": "b",
+   "resposta": "d",
    "explicacao": "O centro é (1, 2) e o raio, 5. Para P: d² = 3² + 4² = 25, então d = 5 e o ponto está sobre a curva, e I é correta. Para Q: d² = (−3)² + (−2)² = 13, e como 13 < 25 o ponto é interior, o que torna II falsa. Para R: d² = 5² + 4² = 41 > 25, logo é exterior e III é correta. A armadilha está em julgar a posição pelo aspecto das coordenadas: Q parece distante por ter valores negativos, mas está dentro da circunferência.",
    "formato": "escada",
    "dificuldade": "dificil"
@@ -21296,7 +21296,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-10",
    "texto_apoio": "Trecho (recriação livre, no estilo de crônica jornalística da época) atribuído a um cronista carioca, publicado dias após 15 de novembro de 1889: 'O povo, verdadeiramente, assistiu a tudo bestializado, sem saber ao certo o que significava aquilo. Foram os batalhões, e não as ruas, que decidiram a sorte do Império.'",
-   "enunciado": "Considerando o trecho anterior e o processo histórico da Proclamação da República, em 15 de novembro de 1889, analise as afirmativas a seguir: I. O movimento foi conduzido essencialmente por setores militares, com apoio de parcelas da elite política e cafeicultora. II. A ampla maioria da população, sobretudo nas cidades, participou ativamente e por iniciativa própria da mobilização que derrubou a monarquia. III. A proclamação resultou de um processo eleitoral direto, no qual a população foi consultada sobre a forma de governo. Está correto o que se afirma em:",
+   "enunciado": "Considerando o trecho anterior e o processo histórico da Proclamação da República, em 15 de novembro de 1889, analise as afirmativas a seguir:\n\nI. O movimento foi conduzido essencialmente por setores militares, com apoio de parcelas da elite política e cafeicultora.\nII. A ampla maioria da população, sobretudo nas cidades, participou ativamente e por iniciativa própria da mobilização que derrubou a monarquia.\nIII. A proclamação resultou de um processo eleitoral direto, no qual a população foi consultada sobre a forma de governo.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -21344,7 +21344,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-13",
    "texto_apoio": "Trecho (recriação livre, no estilo de preâmbulo de ato institucional) inspirado no discurso de outorga de uma nova ordem institucional, 1937: 'Ao Estado cabe a tarefa de organizar a Nação e conter as paixões partidárias que ameaçam sua unidade, competindo-lhe dispor, com energia, sobre a segurança interna e a disciplina do trabalho.'",
-   "enunciado": "A partir do trecho anterior e do que se sabe sobre o Estado Novo (1937-1945), avalie as afirmativas: I. O período foi marcado por ampla liberdade de imprensa e pelo funcionamento regular de múltiplos partidos políticos. II. O regime concentrou poderes no Executivo, fechou o Congresso Nacional e ampliou a censura e a repressão a opositores políticos. III. Paralelamente ao autoritarismo político, o governo promoveu políticas nacionalistas e trabalhistas, como a criação da CLT. É correto o que se afirma em:",
+   "enunciado": "A partir do trecho anterior e do que se sabe sobre o Estado Novo (1937-1945), avalie as afirmativas:\n\nI. O período foi marcado por ampla liberdade de imprensa e pelo funcionamento regular de múltiplos partidos políticos.\nII. O regime concentrou poderes no Executivo, fechou o Congresso Nacional e ampliou a censura e a repressão a opositores políticos.\nIII. Paralelamente ao autoritarismo político, o governo promoveu políticas nacionalistas e trabalhistas, como a criação da CLT.\n\nÉ correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -21376,7 +21376,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-15",
    "texto_apoio": "Trecho (recriação livre, no estilo de panfleto distribuído por um comitê civil em março de 1964): 'Convocamos os cidadãos de bem a comparecer às ruas em defesa da família, da religião e da propriedade, ameaçadas pelo avanço de reformas que, sob disfarce de justiça social, conduziriam o país ao comunismo.'",
-   "enunciado": "Considerando o panfleto acima e o contexto do golpe civil-militar de 1964, analise as afirmativas: I. Setores civis e militares se mobilizaram em nome do combate ao que percebiam como avanço comunista, associado às reformas de base propostas pelo governo João Goulart. II. O golpe resultou de uma crise estritamente econômica, sem qualquer dimensão ideológica ou internacional. III. A polarização política interna se inseriu no contexto mais amplo da Guerra Fria, com apoio de setores empresariais e do governo dos Estados Unidos ao movimento contra Goulart. Está correto o que se afirma em:",
+   "enunciado": "Considerando o panfleto acima e o contexto do golpe civil-militar de 1964, analise as afirmativas:\n\nI. Setores civis e militares se mobilizaram em nome do combate ao que percebiam como avanço comunista, associado às reformas de base propostas pelo governo João Goulart.\nII. O golpe resultou de uma crise estritamente econômica, sem qualquer dimensão ideológica ou internacional.\nIII. A polarização política interna se inseriu no contexto mais amplo da Guerra Fria, com apoio de setores empresariais e do governo dos Estados Unidos ao movimento contra Goulart.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -21392,7 +21392,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-16",
    "texto_apoio": "Trecho (recriação livre, no estilo de comunicado oficial de dezembro de 1968): 'Ficam suspensas, na forma que a lei determinar, as garantias constitucionais de que gozam os cidadãos, sempre que assim o exigir a segurança nacional e a preservação da ordem pública.'",
-   "enunciado": "Com base no trecho anterior e nos efeitos do AI-5 (1968), avalie as afirmativas: I. O ato concedeu poderes excepcionais ao Executivo, incluindo o fechamento do Congresso Nacional e a suspensão de garantias constitucionais. II. O AI-5 inaugurou a fase mais repressiva da ditadura, conhecida como 'anos de chumbo', com recrudescimento da censura. III. O ato restabeleceu, já em 1968, as eleições diretas para presidente da República. Está correto o que se afirma em:",
+   "enunciado": "Com base no trecho anterior e nos efeitos do AI-5 (1968), avalie as afirmativas:\n\nI. O ato concedeu poderes excepcionais ao Executivo, incluindo o fechamento do Congresso Nacional e a suspensão de garantias constitucionais.\nII. O AI-5 inaugurou a fase mais repressiva da ditadura, conhecida como 'anos de chumbo', com recrudescimento da censura.\nIII. O ato restabeleceu, já em 1968, as eleições diretas para presidente da República.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -21408,7 +21408,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-17",
    "texto_apoio": "Trecho (recriação livre, no estilo de discurso presidencial de meados dos anos 1970): 'A abertura que propomos há de ser lenta, gradual e segura, para que a Nação amadureça suas instituições sem sobressaltos que comprometam a ordem conquistada.'",
-   "enunciado": "A partir do discurso acima e do processo de redemocratização brasileira ao longo da década de 1980, analise as afirmativas: I. A transição ocorreu de forma abrupta e revolucionária, rompendo imediatamente com todas as estruturas do regime militar. II. A abertura política foi conduzida, em boa medida, pelos próprios militares no poder, de forma negociada e gradual. III. O processo culminou na eleição indireta de Tancredo Neves pelo Colégio Eleitoral, em 1985. Está correto o que se afirma em:",
+   "enunciado": "A partir do discurso acima e do processo de redemocratização brasileira ao longo da década de 1980, analise as afirmativas:\n\nI. A transição ocorreu de forma abrupta e revolucionária, rompendo imediatamente com todas as estruturas do regime militar.\nII. A abertura política foi conduzida, em boa medida, pelos próprios militares no poder, de forma negociada e gradual.\nIII. O processo culminou na eleição indireta de Tancredo Neves pelo Colégio Eleitoral, em 1985.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -21424,7 +21424,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-18",
    "texto_apoio": "A Constituição de 1988 é conhecida como 'Constituição Cidadã', expressão cunhada pelo então presidente da Assembleia Nacional Constituinte, Ulysses Guimarães.",
-   "enunciado": "Considerando a informação acima sobre a Constituição de 1988, avalie as afirmativas: I. A denominação 'Cidadã' relaciona-se à ampliação de direitos individuais, sociais e políticos e ao restabelecimento pleno do Estado Democrático de Direito. II. A Constituição manteve a censura à imprensa como instrumento de segurança nacional, herdada do regime anterior. III. O texto constitucional foi elaborado com participação de emendas populares apresentadas por assinatura de eleitores, além dos parlamentares eleitos. Está correto o que se afirma em:",
+   "enunciado": "Considerando a informação acima sobre a Constituição de 1988, avalie as afirmativas:\n\nI. A denominação 'Cidadã' relaciona-se à ampliação de direitos individuais, sociais e políticos e ao restabelecimento pleno do Estado Democrático de Direito.\nII. A Constituição manteve a censura à imprensa como instrumento de segurança nacional, herdada do regime anterior.\nIII. O texto constitucional foi elaborado com participação de emendas populares apresentadas por assinatura de eleitores, além dos parlamentares eleitos.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -21584,7 +21584,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-28",
    "texto_apoio": "Em julho de 1932, São Paulo pegou em armas contra o governo provisório de Getúlio Vargas.",
-   "enunciado": "Sobre a Revolução Constitucionalista de 1932, movimento paulista contra o governo provisório de Vargas, analise as afirmativas: I. A principal reivindicação do movimento era a convocação de uma Assembleia Constituinte e o fim do governo provisório instaurado após 1930. II. Apesar da derrota militar de São Paulo, o movimento contribuiu para a convocação da Assembleia que elaborou a Constituição de 1934. III. O movimento defendia a separação definitiva de São Paulo do restante do território nacional. Está correto o que se afirma em:",
+   "enunciado": "Sobre a Revolução Constitucionalista de 1932, movimento paulista contra o governo provisório de Vargas, analise as afirmativas:\n\nI. A principal reivindicação do movimento era a convocação de uma Assembleia Constituinte e o fim do governo provisório instaurado após 1930.\nII. Apesar da derrota militar de São Paulo, o movimento contribuiu para a convocação da Assembleia que elaborou a Constituição de 1934.\nIII. O movimento defendia a separação definitiva de São Paulo do restante do território nacional.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -21649,7 +21649,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-32",
    "texto_apoio": "Vargas e Kubitschek são frequentemente citados como exemplos de líderes populistas na história política brasileira.",
-   "enunciado": "A partir da informação acima, avalie as afirmativas sobre o populismo brasileiro (1930-1964): I. Rejeitava sistematicamente qualquer política trabalhista ou social como forma de angariar apoio popular. II. Caracterizava-se pela relação direta entre lideranças carismáticas e as massas urbanas em ascensão, com discurso nacionalista e desenvolvimentista. III. Combinava, com frequência, políticas sociais e trabalhistas com fraca mediação de partidos políticos programáticos. Está correto o que se afirma em:",
+   "enunciado": "A partir da informação acima, avalie as afirmativas sobre o populismo brasileiro (1930-1964):\n\nI. Rejeitava sistematicamente qualquer política trabalhista ou social como forma de angariar apoio popular.\nII. Caracterizava-se pela relação direta entre lideranças carismáticas e as massas urbanas em ascensão, com discurso nacionalista e desenvolvimentista.\nIII. Combinava, com frequência, políticas sociais e trabalhistas com fraca mediação de partidos políticos programáticos.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -21698,7 +21698,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-35",
    "texto_apoio": "Fundado em 1984, o Movimento dos Trabalhadores Rurais Sem Terra (MST) tornou-se um dos principais movimentos sociais do Brasil pós-1988.",
-   "enunciado": "Sobre o MST e sua atuação no Brasil redemocratizado, analise as afirmativas: I. Sua principal bandeira é a reforma agrária, tendo como tática a ocupação de terras consideradas improdutivas para pressionar por desapropriação e redistribuição. II. O MST defende o fim da agricultura familiar em favor da concentração de terras em grandes propriedades monocultoras. III. O movimento consolidou-se como um dos principais atores da sociedade civil organizada no debate sobre desigualdade fundiária no país. Está correto o que se afirma em:",
+   "enunciado": "Sobre o MST e sua atuação no Brasil redemocratizado, analise as afirmativas:\n\nI. Sua principal bandeira é a reforma agrária, tendo como tática a ocupação de terras consideradas improdutivas para pressionar por desapropriação e redistribuição.\nII. O MST defende o fim da agricultura familiar em favor da concentração de terras em grandes propriedades monocultoras.\nIII. O movimento consolidou-se como um dos principais atores da sociedade civil organizada no debate sobre desigualdade fundiária no país.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -21714,7 +21714,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-36",
    "texto_apoio": "Em junho de 2013, manifestações de rua tomaram diversas cidades brasileiras, inicialmente motivadas pelo aumento das tarifas de transporte público.",
-   "enunciado": "A respeito das Jornadas de Junho de 2013, avalie as afirmativas: I. As manifestações, iniciadas pelo Movimento Passe Livre contra o aumento das tarifas, rapidamente incorporaram outras pautas, como críticas à corrupção e à qualidade dos serviços públicos. II. O movimento se restringiu geograficamente às capitais estaduais, sem repercussão em outras cidades. III. As manifestações foram organizadas exclusivamente por partidos políticos tradicionais. Está correto o que se afirma em:",
+   "enunciado": "A respeito das Jornadas de Junho de 2013, avalie as afirmativas:\n\nI. As manifestações, iniciadas pelo Movimento Passe Livre contra o aumento das tarifas, rapidamente incorporaram outras pautas, como críticas à corrupção e à qualidade dos serviços públicos.\nII. O movimento se restringiu geograficamente às capitais estaduais, sem repercussão em outras cidades.\nIII. As manifestações foram organizadas exclusivamente por partidos políticos tradicionais.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -22218,7 +22218,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-66",
    "texto_apoio": "Em 1904, no Rio de Janeiro, parte da população se rebelou contra medidas sanitárias do governo, incluindo a vacinação obrigatória contra a varíola conduzida por Oswaldo Cruz.",
-   "enunciado": "Sobre a Revolta da Vacina (1904), analise as afirmativas: I. A revolta expressou insatisfação popular com o autoritarismo das reformas urbanas e sanitárias, que removiam moradores pobres de suas casas sem consulta prévia. II. A vacinação obrigatória, imposta sem diálogo com a população, foi um dos estopins diretos do movimento. III. O episódio contou com pleno apoio popular às reformas urbanas de Pereira Passos, sem qualquer resistência relevante. Está correto o que se afirma em:",
+   "enunciado": "Sobre a Revolta da Vacina (1904), analise as afirmativas:\n\nI. A revolta expressou insatisfação popular com o autoritarismo das reformas urbanas e sanitárias, que removiam moradores pobres de suas casas sem consulta prévia.\nII. A vacinação obrigatória, imposta sem diálogo com a população, foi um dos estopins diretos do movimento.\nIII. O episódio contou com pleno apoio popular às reformas urbanas de Pereira Passos, sem qualquer resistência relevante.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -22269,7 +22269,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-69",
    "texto_apoio": "Ao longo da década de 1920, jovens oficiais do Exército protagonizaram levantes contra as oligarquias dominantes na República Velha.",
-   "enunciado": "Sobre o tenentismo e a Coluna Prestes, analise as afirmativas: I. O movimento defendia a entrega definitiva do poder político às oligarquias cafeeiras de São Paulo e Minas Gerais. II. O movimento defendia reformas políticas como o voto secreto e o combate ao coronelismo e à fraude eleitoral. III. O tenentismo mantinha um programa social pouco definido, priorizando reformas institucionais e maior centralização política. Está correto o que se afirma em:",
+   "enunciado": "Sobre o tenentismo e a Coluna Prestes, analise as afirmativas:\n\nI. O movimento defendia a entrega definitiva do poder político às oligarquias cafeeiras de São Paulo e Minas Gerais.\nII. O movimento defendia reformas políticas como o voto secreto e o combate ao coronelismo e à fraude eleitoral.\nIII. O tenentismo mantinha um programa social pouco definido, priorizando reformas institucionais e maior centralização política.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -22320,7 +22320,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-72",
    "texto_apoio": "Em contraposição ao integralismo, setores de esquerda organizaram a Aliança Nacional Libertadora, que teve entre seus líderes Luís Carlos Prestes.",
-   "enunciado": "Sobre a Intentona Comunista de 1935 e seus desdobramentos, analise as afirmativas: I. A derrota do levante foi utilizada pelo governo Vargas para intensificar a repressão a opositores políticos. II. A tentativa de levante resultou no reconhecimento oficial do Partido Comunista como legenda partidária legal. III. O episódio foi mobilizado como argumento para justificar o golpe que instauraria o Estado Novo em 1937. Está correto o que se afirma em:",
+   "enunciado": "Sobre a Intentona Comunista de 1935 e seus desdobramentos, analise as afirmativas:\n\nI. A derrota do levante foi utilizada pelo governo Vargas para intensificar a repressão a opositores políticos.\nII. A tentativa de levante resultou no reconhecimento oficial do Partido Comunista como legenda partidária legal.\nIII. O episódio foi mobilizado como argumento para justificar o golpe que instauraria o Estado Novo em 1937.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -22439,7 +22439,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-79",
    "texto_apoio": "No início dos anos 1960, o governo João Goulart defendia um conjunto de mudanças estruturais na sociedade brasileira.",
-   "enunciado": "Sobre as reformas de base propostas pelo governo João Goulart, analise as afirmativas: I. Incluíam propostas como a reforma agrária, a reforma urbana e mudanças na legislação eleitoral e tributária. II. Foram vistas por setores conservadores e militares como ameaça à ordem social e econômica vigente, contribuindo para o clima que resultou no golpe de 1964. III. Previam a privatização de todas as empresas estatais e a redução do papel do Estado na economia. Está correto o que se afirma em:",
+   "enunciado": "Sobre as reformas de base propostas pelo governo João Goulart, analise as afirmativas:\n\nI. Incluíam propostas como a reforma agrária, a reforma urbana e mudanças na legislação eleitoral e tributária.\nII. Foram vistas por setores conservadores e militares como ameaça à ordem social e econômica vigente, contribuindo para o clima que resultou no golpe de 1964.\nIII. Previam a privatização de todas as empresas estatais e a redução do papel do Estado na economia.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -22456,7 +22456,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-80",
    "texto_apoio": "Entre 1969 e 1973, durante o regime militar, a economia brasileira registrou altas taxas de crescimento, período conhecido como milagre econômico.",
-   "enunciado": "Sobre o chamado milagre econômico (1969-1973), analise as afirmativas: I. O crescimento veio acompanhado de uma distribuição de renda mais equitativa entre a população brasileira. II. O crescimento acelerado foi sustentado por forte endividamento externo e investimentos em infraestrutura. III. O período de maior crescimento coincidiu com a fase mais repressiva da ditadura militar, após o AI-5, e com o aumento da concentração de renda. Está correto o que se afirma em:",
+   "enunciado": "Sobre o chamado milagre econômico (1969-1973), analise as afirmativas:\n\nI. O crescimento veio acompanhado de uma distribuição de renda mais equitativa entre a população brasileira.\nII. O crescimento acelerado foi sustentado por forte endividamento externo e investimentos em infraestrutura.\nIII. O período de maior crescimento coincidiu com a fase mais repressiva da ditadura militar, após o AI-5, e com o aumento da concentração de renda.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -22490,7 +22490,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-82",
    "texto_apoio": "Em 1979, o Congresso Nacional aprovou uma lei que concedia anistia a crimes políticos cometidos desde 1961.",
-   "enunciado": "Sobre a Lei da Anistia de 1979, analise as afirmativas: I. A lei permitiu o retorno de exilados políticos e a libertação de presos políticos ao país. II. A lei foi aplicada exclusivamente a opositores do regime militar, sem qualquer benefício a agentes do próprio Estado. III. Setores do governo militar interpretaram a lei como anistia recíproca, alcançando também agentes estatais acusados de violações de direitos humanos, interpretação que permanece controversa. Está correto o que se afirma em:",
+   "enunciado": "Sobre a Lei da Anistia de 1979, analise as afirmativas:\n\nI. A lei permitiu o retorno de exilados políticos e a libertação de presos políticos ao país.\nII. A lei foi aplicada exclusivamente a opositores do regime militar, sem qualquer benefício a agentes do próprio Estado.\nIII. Setores do governo militar interpretaram a lei como anistia recíproca, alcançando também agentes estatais acusados de violações de direitos humanos, interpretação que permanece controversa.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -22507,7 +22507,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-83",
    "texto_apoio": "Entre 1983 e 1984, o Brasil viveu uma das maiores mobilizações populares de sua história, reivindicando eleições diretas para presidente.",
-   "enunciado": "Sobre a campanha das Diretas Já (1983-1984), analise as afirmativas: I. Apesar da forte mobilização popular, a emenda não obteve os votos necessários no Congresso Nacional em 1984. II. A derrota da emenda levou à eleição indireta de Tancredo Neves pelo Colégio Eleitoral, em janeiro de 1985. III. A campanha resultou na aprovação imediata do voto direto para presidente ainda em 1984. Está correto o que se afirma em:",
+   "enunciado": "Sobre a campanha das Diretas Já (1983-1984), analise as afirmativas:\n\nI. Apesar da forte mobilização popular, a emenda não obteve os votos necessários no Congresso Nacional em 1984.\nII. A derrota da emenda levou à eleição indireta de Tancredo Neves pelo Colégio Eleitoral, em janeiro de 1985.\nIII. A campanha resultou na aprovação imediata do voto direto para presidente ainda em 1984.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -22592,7 +22592,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-88",
    "texto_apoio": "Em 1992, Fernando Collor de Mello, primeiro presidente eleito por voto direto após a redemocratização, renunciou ao cargo em meio a um processo de impeachment por denúncias de corrupção.",
-   "enunciado": "Sobre o processo de impeachment de Fernando Collor, analise as afirmativas: I. O episódio revelou a fragilidade das instituições democráticas recém-restabelecidas, que não resistiram à crise política. II. O processo foi conduzido com base nos mecanismos constitucionais previstos pela Constituição de 1988. III. A mobilização popular, como o movimento dos 'caras-pintadas', teve papel relevante na pressão pelo impeachment. Está correto o que se afirma em:",
+   "enunciado": "Sobre o processo de impeachment de Fernando Collor, analise as afirmativas:\n\nI. O episódio revelou a fragilidade das instituições democráticas recém-restabelecidas, que não resistiram à crise política.\nII. O processo foi conduzido com base nos mecanismos constitucionais previstos pela Constituição de 1988.\nIII. A mobilização popular, como o movimento dos 'caras-pintadas', teve papel relevante na pressão pelo impeachment.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -22643,7 +22643,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-91",
    "texto_apoio": "Desde a redemocratização, o movimento LGBT no Brasil ampliou sua organização e visibilidade, obtendo avanços por via judicial e, em menor medida, legislativa.",
-   "enunciado": "Sobre o reconhecimento de direitos de casais do mesmo sexo no Brasil, analise as afirmativas: I. O reconhecimento da união estável e, posteriormente, do casamento civil entre pessoas do mesmo sexo ocorreu majoritariamente por decisões do Supremo Tribunal Federal. II. O Congresso Nacional aprovou, ainda nos anos 1990, lei específica reconhecendo o casamento entre pessoas do mesmo sexo. III. A ausência de lei federal específica aprovada pelo Congresso Nacional sobre o tema evidencia o papel do Judiciário na garantia de direitos ainda não regulados pelo Legislativo. Está correto o que se afirma em:",
+   "enunciado": "Sobre o reconhecimento de direitos de casais do mesmo sexo no Brasil, analise as afirmativas:\n\nI. O reconhecimento da união estável e, posteriormente, do casamento civil entre pessoas do mesmo sexo ocorreu majoritariamente por decisões do Supremo Tribunal Federal.\nII. O Congresso Nacional aprovou, ainda nos anos 1990, lei específica reconhecendo o casamento entre pessoas do mesmo sexo.\nIII. A ausência de lei federal específica aprovada pelo Congresso Nacional sobre o tema evidencia o papel do Judiciário na garantia de direitos ainda não regulados pelo Legislativo.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -22728,7 +22728,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-brasil-96",
    "texto_apoio": "A partir de 2014, uma ampla investigação sobre desvio de recursos públicos e corrupção envolvendo estatais e empreiteiras ganhou grande repercussão nacional, resultando em prisões e condenações de agentes públicos e privados.",
-   "enunciado": "Sobre operações de combate à corrupção conduzidas a partir de 2014, analise as afirmativas: I. Evidenciam o funcionamento de instituições de investigação e controle fortalecidas pela Constituição de 1988, como o Ministério Público e a Polícia Federal. II. Seus métodos e desdobramentos políticos e jurídicos geraram intenso debate público, inclusive sobre limites de atuação do Judiciário e do Ministério Público. III. Representam a criação, pela primeira vez na história republicana, de mecanismos de combate à corrupção no país. Está correto o que se afirma em:",
+   "enunciado": "Sobre operações de combate à corrupção conduzidas a partir de 2014, analise as afirmativas:\n\nI. Evidenciam o funcionamento de instituições de investigação e controle fortalecidas pela Constituição de 1988, como o Ministério Público e a Polícia Federal.\nII. Seus métodos e desdobramentos políticos e jurídicos geraram intenso debate público, inclusive sobre limites de atuação do Judiciário e do Ministério Público.\nIII. Representam a criação, pela primeira vez na história republicana, de mecanismos de combate à corrupção no país.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -22893,7 +22893,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-01",
    "texto_apoio": "Trecho (recriação livre, no estilo de panfleto do Terceiro Estado, 1789): 'Que é o Terceiro Estado? Tudo. Que tem sido até agora na ordem política? Nada. Que pede? Tornar-se alguma coisa, pois sustenta com seu trabalho e seus impostos privilégios que já não pode mais suportar.'",
-   "enunciado": "Considerando o panfleto acima e a crise do Antigo Regime francês, avalie as afirmativas: I. A França do século XVIII vivia um contexto de ausência completa de desigualdades sociais, o que tornou a Revolução um evento inesperado. II. O sistema de estamentos privilegiados (clero e nobreza) e a grave crise fiscal do Estado contribuíram para a eclosão da Revolução de 1789. III. Uma burguesia economicamente pujante, mas politicamente excluída dos privilégios do Antigo Regime, integrou o chamado Terceiro Estado. Está correto o que se afirma em:",
+   "enunciado": "Considerando o panfleto acima e a crise do Antigo Regime francês, avalie as afirmativas:\n\nI. A França do século XVIII vivia um contexto de ausência completa de desigualdades sociais, o que tornou a Revolução um evento inesperado.\nII. O sistema de estamentos privilegiados (clero e nobreza) e a grave crise fiscal do Estado contribuíram para a eclosão da Revolução de 1789.\nIII. Uma burguesia economicamente pujante, mas politicamente excluída dos privilégios do Antigo Regime, integrou o chamado Terceiro Estado.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -22973,7 +22973,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-06",
    "texto_apoio": "Trecho (recriação livre, no estilo de editorial de jornal europeu, 1914): 'As alianças que deveriam garantir a paz transformaram-se em engrenagens de guerra: basta um disparo em uma província distante para que todo o continente seja arrastado ao conflito.'",
-   "enunciado": "A partir do trecho acima e dos fatores estruturais que levaram à Primeira Guerra Mundial, analise as afirmativas: I. O sistema de alianças militares rígidas transformou uma crise regional nos Bálcãs em um conflito de escala continental. II. A ausência de disputas coloniais entre as potências europeias foi um dos principais fatores que evitaram, até 1914, qualquer tensão internacional. III. A corrida armamentista e as rivalidades imperialistas entre as potências europeias também contribuíram para a escalada do conflito. Está correto o que se afirma em:",
+   "enunciado": "A partir do trecho acima e dos fatores estruturais que levaram à Primeira Guerra Mundial, analise as afirmativas:\n\nI. O sistema de alianças militares rígidas transformou uma crise regional nos Bálcãs em um conflito de escala continental.\nII. A ausência de disputas coloniais entre as potências europeias foi um dos principais fatores que evitaram, até 1914, qualquer tensão internacional.\nIII. A corrida armamentista e as rivalidades imperialistas entre as potências europeias também contribuíram para a escalada do conflito.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -22989,7 +22989,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-07",
    "texto_apoio": "O Tratado de Versalhes, assinado em 1919, impôs duras condições à Alemanha derrotada na Primeira Guerra Mundial.",
-   "enunciado": "Sobre as condições impostas pelo Tratado de Versalhes e suas consequências, analise as afirmativas: I. As pesadas indenizações de guerra e a redução territorial e militar alimentaram o ressentimento nacionalista alemão. II. Esse ressentimento foi posteriormente explorado pelo discurso nazista, que o associou a uma narrativa de humilhação nacional. III. As condições do tratado consolidaram uma paz duradoura, sem qualquer efeito sobre a política alemã das décadas seguintes. Está correto o que se afirma em:",
+   "enunciado": "Sobre as condições impostas pelo Tratado de Versalhes e suas consequências, analise as afirmativas:\n\nI. As pesadas indenizações de guerra e a redução territorial e militar alimentaram o ressentimento nacionalista alemão.\nII. Esse ressentimento foi posteriormente explorado pelo discurso nazista, que o associou a uma narrativa de humilhação nacional.\nIII. As condições do tratado consolidaram uma paz duradoura, sem qualquer efeito sobre a política alemã das décadas seguintes.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -23005,7 +23005,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-08",
    "texto_apoio": "Trecho (recriação livre, no estilo de carta de um soldado russo ao front, 1917): 'Aqui não há mais pão nem esperança; dizem que o czar ainda acredita vencer esta guerra, mas nós já perdemos há muito tempo, nas trincheiras e nas filas por comida.'",
-   "enunciado": "A partir do trecho acima e do contexto da Revolução Russa de 1917, avalie as afirmativas: I. A Rússia czarista vivia, às vésperas de 1917, uma situação de prosperidade econômica generalizada e forte apoio popular ao czar. II. O desgaste do czarismo pelas perdas na Primeira Guerra Mundial e a crise econômica contribuíram para a insatisfação popular crescente. III. A fome e as dificuldades cotidianas da população, somadas ao desgaste militar, abriram caminho para as revoluções de fevereiro e outubro de 1917. Está correto o que se afirma em:",
+   "enunciado": "A partir do trecho acima e do contexto da Revolução Russa de 1917, avalie as afirmativas:\n\nI. A Rússia czarista vivia, às vésperas de 1917, uma situação de prosperidade econômica generalizada e forte apoio popular ao czar.\nII. O desgaste do czarismo pelas perdas na Primeira Guerra Mundial e a crise econômica contribuíram para a insatisfação popular crescente.\nIII. A fome e as dificuldades cotidianas da população, somadas ao desgaste militar, abriram caminho para as revoluções de fevereiro e outubro de 1917.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -23021,7 +23021,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-09",
    "texto_apoio": "A quebra da Bolsa de Nova York, em outubro de 1929, deu início a uma das maiores crises econômicas da história.",
-   "enunciado": "Sobre os fatores que explicam a Crise de 1929, analise as afirmativas: I. A superprodução industrial e agrícola, aliada à intensa especulação no mercado de ações, esteve entre as principais causas da crise. II. A crise resultou exclusivamente da escassez generalizada de bens de consumo nos Estados Unidos. III. O estouro da bolha especulativa gerou falências em cadeia e uma profunda recessão de alcance global. Está correto o que se afirma em:",
+   "enunciado": "Sobre os fatores que explicam a Crise de 1929, analise as afirmativas:\n\nI. A superprodução industrial e agrícola, aliada à intensa especulação no mercado de ações, esteve entre as principais causas da crise.\nII. A crise resultou exclusivamente da escassez generalizada de bens de consumo nos Estados Unidos.\nIII. O estouro da bolha especulativa gerou falências em cadeia e uma profunda recessão de alcance global.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -23037,7 +23037,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-10",
    "texto_apoio": "Trecho (recriação livre, no estilo de discurso de campanha de um partido nacionalista alemão, início dos anos 1930): 'Enquanto milhões de alemães perdem seus empregos e sua dignidade, os responsáveis pela humilhação de Versalhes seguem impunes; é hora de restaurar a honra e o trabalho da nossa Nação.'",
-   "enunciado": "A partir do discurso acima e da ascensão do nazismo na Alemanha nos anos 1930, avalie as afirmativas: I. O agravamento da crise econômica após 1929 e o desemprego em massa criaram terreno fértil para discursos nacionalistas radicais. II. O ressentimento nacional decorrente do Tratado de Versalhes foi explorado politicamente pelo discurso nazista. III. A República de Weimar vivia, nesse período, de estabilidade econômica plena, sem qualquer crise que explicasse o crescimento de partidos radicais. Está correto o que se afirma em:",
+   "enunciado": "A partir do discurso acima e da ascensão do nazismo na Alemanha nos anos 1930, avalie as afirmativas:\n\nI. O agravamento da crise econômica após 1929 e o desemprego em massa criaram terreno fértil para discursos nacionalistas radicais.\nII. O ressentimento nacional decorrente do Tratado de Versalhes foi explorado politicamente pelo discurso nazista.\nIII. A República de Weimar vivia, nesse período, de estabilidade econômica plena, sem qualquer crise que explicasse o crescimento de partidos radicais.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -23053,7 +23053,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-11",
    "texto_apoio": "",
-   "enunciado": "Sobre os fatores que desencadearam a Segunda Guerra Mundial, avalie as afirmativas: I. A democracia se fortaleceu em toda a Europa ao longo dos anos 1930, o que ajuda a explicar a ausência de conflitos até 1939. II. A política de apaziguamento adotada por potências como Reino Unido e França diante do expansionismo alemão não conteve Hitler. III. Anexações como a da Áustria e dos Sudetos, toleradas pelas potências ocidentais, precederam a invasão da Polônia em 1939. Está correto o que se afirma em:",
+   "enunciado": "Sobre os fatores que desencadearam a Segunda Guerra Mundial, avalie as afirmativas:\n\nI. A democracia se fortaleceu em toda a Europa ao longo dos anos 1930, o que ajuda a explicar a ausência de conflitos até 1939.\nII. A política de apaziguamento adotada por potências como Reino Unido e França diante do expansionismo alemão não conteve Hitler.\nIII. Anexações como a da Áustria e dos Sudetos, toleradas pelas potências ocidentais, precederam a invasão da Polônia em 1939.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -23069,7 +23069,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-12",
    "texto_apoio": "",
-   "enunciado": "Sobre o Holocausto promovido pelo regime nazista, avalie as afirmativas: I. Consistiu no extermínio sistemático de aproximadamente seis milhões de judeus europeus. II. Restringiu-se exclusivamente a membros de partidos comunistas europeus, sem atingir outros grupos sociais. III. Atingiu também outros grupos perseguidos pela ideologia racial nazista, como ciganos, pessoas com deficiência, homossexuais e opositores políticos. Está correto o que se afirma em:",
+   "enunciado": "Sobre o Holocausto promovido pelo regime nazista, avalie as afirmativas:\n\nI. Consistiu no extermínio sistemático de aproximadamente seis milhões de judeus europeus.\nII. Restringiu-se exclusivamente a membros de partidos comunistas europeus, sem atingir outros grupos sociais.\nIII. Atingiu também outros grupos perseguidos pela ideologia racial nazista, como ciganos, pessoas com deficiência, homossexuais e opositores políticos.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -23378,7 +23378,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-31",
    "texto_apoio": "Instituído oficialmente em 1948 pelo Partido Nacional sul-africano, o apartheid foi um sistema de segregação racial institucionalizada.",
-   "enunciado": "Sobre o sistema de apartheid na África do Sul, analise as afirmativas: I. Separava legalmente a população por critérios raciais, restringindo direitos políticos, de moradia e de circulação da maioria negra sul-africana. II. Era um sistema institucionalizado por lei, e não uma prática apenas informal ou social. III. Garantia direitos civis e políticos iguais a todos os grupos raciais do país. Está correto o que se afirma em:",
+   "enunciado": "Sobre o sistema de apartheid na África do Sul, analise as afirmativas:\n\nI. Separava legalmente a população por critérios raciais, restringindo direitos políticos, de moradia e de circulação da maioria negra sul-africana.\nII. Era um sistema institucionalizado por lei, e não uma prática apenas informal ou social.\nIII. Garantia direitos civis e políticos iguais a todos os grupos raciais do país.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -23394,7 +23394,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-32",
    "texto_apoio": "Nelson Mandela, líder do Congresso Nacional Africano (CNA), foi preso por quase três décadas por sua luta contra o apartheid.",
-   "enunciado": "Sobre a libertação de Nelson Mandela, em 1990, e sua eleição em 1994, avalie as afirmativas: I. Esses eventos representaram a manutenção do apartheid sob uma nova liderança política. II. Esses eventos marcaram o fim formal do apartheid e a transição para um regime democrático multirracial na África do Sul. III. A eleição de 1994 foi a primeira com participação de todas as raças na história sul-africana. Está correto o que se afirma em:",
+   "enunciado": "Sobre a libertação de Nelson Mandela, em 1990, e sua eleição em 1994, avalie as afirmativas:\n\nI. Esses eventos representaram a manutenção do apartheid sob uma nova liderança política.\nII. Esses eventos marcaram o fim formal do apartheid e a transição para um regime democrático multirracial na África do Sul.\nIII. A eleição de 1994 foi a primeira com participação de todas as raças na história sul-africana.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -23410,7 +23410,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-33",
    "texto_apoio": "A chamada Primavera Árabe teve início na Tunísia, no final de 2010, espalhando-se por diversos países do Oriente Médio e do Norte da África.",
-   "enunciado": "Sobre os fatores que impulsionaram a Primavera Árabe, analise as afirmativas: I. O desemprego, sobretudo entre os jovens, e o autoritarismo político prolongado estiveram entre os principais fatores dos protestos. II. Os protestos contaram com amplo apoio popular aos governos autoritários então vigentes na região. III. As redes sociais tiveram papel relevante na mobilização e organização dos protestos em diversos países. Está correto o que se afirma em:",
+   "enunciado": "Sobre os fatores que impulsionaram a Primavera Árabe, analise as afirmativas:\n\nI. O desemprego, sobretudo entre os jovens, e o autoritarismo político prolongado estiveram entre os principais fatores dos protestos.\nII. Os protestos contaram com amplo apoio popular aos governos autoritários então vigentes na região.\nIII. As redes sociais tiveram papel relevante na mobilização e organização dos protestos em diversos países.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -23426,7 +23426,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-34",
    "texto_apoio": "",
-   "enunciado": "Sobre os desdobramentos da Primavera Árabe na Síria, avalie as afirmativas: I. Os protestos iniciais transformaram-se em uma guerra civil prolongada, com graves consequências humanitárias. II. O conflito sírio gerou um dos maiores fluxos de refugiados do século XXI. III. Os protestos na Síria levaram a uma rápida e pacífica transição democrática, sem qualquer conflito armado. Está correto o que se afirma em:",
+   "enunciado": "Sobre os desdobramentos da Primavera Árabe na Síria, avalie as afirmativas:\n\nI. Os protestos iniciais transformaram-se em uma guerra civil prolongada, com graves consequências humanitárias.\nII. O conflito sírio gerou um dos maiores fluxos de refugiados do século XXI.\nIII. Os protestos na Síria levaram a uma rápida e pacífica transição democrática, sem qualquer conflito armado.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -23795,7 +23795,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-56",
    "texto_apoio": "Entre 1936 e 1939, a Espanha viveu um sangrento conflito entre as forças republicanas, de orientação mais à esquerda, e as forças nacionalistas lideradas pelo general Francisco Franco.",
-   "enunciado": "Sobre a Guerra Civil Espanhola (1936-1939) e seu papel como prenúncio da Segunda Guerra Mundial, analise as afirmativas: I. A guerra não envolveu qualquer participação ou interesse de potências estrangeiras, tratando-se de um conflito estritamente interno. II. A Alemanha nazista e a Itália fascista apoiaram militarmente as forças franquistas, enquanto a União Soviética apoiou as forças republicanas. III. O conflito funcionou como um campo de testes para armamentos, táticas e alianças que seriam usados na Segunda Guerra Mundial. Está correto o que se afirma em:",
+   "enunciado": "Sobre a Guerra Civil Espanhola (1936-1939) e seu papel como prenúncio da Segunda Guerra Mundial, analise as afirmativas:\n\nI. A guerra não envolveu qualquer participação ou interesse de potências estrangeiras, tratando-se de um conflito estritamente interno.\nII. A Alemanha nazista e a Itália fascista apoiaram militarmente as forças franquistas, enquanto a União Soviética apoiou as forças republicanas.\nIII. O conflito funcionou como um campo de testes para armamentos, táticas e alianças que seriam usados na Segunda Guerra Mundial.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -23812,7 +23812,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-57",
    "texto_apoio": "Em agosto de 1939, dias antes da invasão da Polônia, Alemanha nazista e União Soviética assinaram um pacto de não agressão que surpreendeu a comunidade internacional.",
-   "enunciado": "Sobre o Pacto Molotov-Ribbentrop (1939), analise as afirmativas: I. Revelou convergências táticas de curto prazo entre Alemanha nazista e União Soviética, apesar da rivalidade ideológica entre os dois regimes. II. Estabeleceu uma aliança militar permanente entre nazismo e comunismo, mantida até o fim da Segunda Guerra Mundial. III. Incluía cláusulas secretas de partilha de territórios no Leste Europeu entre as duas potências. Está correto o que se afirma em:",
+   "enunciado": "Sobre o Pacto Molotov-Ribbentrop (1939), analise as afirmativas:\n\nI. Revelou convergências táticas de curto prazo entre Alemanha nazista e União Soviética, apesar da rivalidade ideológica entre os dois regimes.\nII. Estabeleceu uma aliança militar permanente entre nazismo e comunismo, mantida até o fim da Segunda Guerra Mundial.\nIII. Incluía cláusulas secretas de partilha de territórios no Leste Europeu entre as duas potências.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -24033,7 +24033,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-70",
    "texto_apoio": "Em 1968, a Tchecoslováquia viveu um breve período de reformas liberalizantes conduzido por Alexander Dubček, conhecido como Primavera de Praga.",
-   "enunciado": "Sobre a Primavera de Praga (1968), analise as afirmativas: I. O movimento de abertura política foi interrompido por uma intervenção militar das forças do Pacto de Varsóvia, lideradas pela União Soviética. II. A intervenção teve como objetivo restabelecer o controle soviético sobre a Tchecoslováquia e reprimir as reformas liberalizantes. III. O episódio evidencia que, mesmo dentro do bloco socialista, havia limites impostos pela União Soviética a experiências de maior abertura política. Está correto o que se afirma em:",
+   "enunciado": "Sobre a Primavera de Praga (1968), analise as afirmativas:\n\nI. O movimento de abertura política foi interrompido por uma intervenção militar das forças do Pacto de Varsóvia, lideradas pela União Soviética.\nII. A intervenção teve como objetivo restabelecer o controle soviético sobre a Tchecoslováquia e reprimir as reformas liberalizantes.\nIII. O episódio evidencia que, mesmo dentro do bloco socialista, havia limites impostos pela União Soviética a experiências de maior abertura política.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -24253,7 +24253,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-83",
    "texto_apoio": "Após a morte de Tito e o enfraquecimento do bloco socialista no início dos anos 1990, a Iugoslávia, país multiétnico dos Bálcãs, mergulhou em uma série de guerras.",
-   "enunciado": "Sobre os conflitos que fragmentaram a Iugoslávia na década de 1990, analise as afirmativas: I. O enfraquecimento de estruturas estatais multiétnicas, no contexto do fim do socialismo no Leste Europeu, contribuiu para reacender rivalidades nacionais e religiosas antigas. II. Os conflitos resultaram na formação de diversos novos Estados independentes na região dos Bálcãs. III. O fim da Guerra Fria eliminou automaticamente quaisquer tensões étnicas e nacionalistas na Europa. Está correto o que se afirma em:",
+   "enunciado": "Sobre os conflitos que fragmentaram a Iugoslávia na década de 1990, analise as afirmativas:\n\nI. O enfraquecimento de estruturas estatais multiétnicas, no contexto do fim do socialismo no Leste Europeu, contribuiu para reacender rivalidades nacionais e religiosas antigas.\nII. Os conflitos resultaram na formação de diversos novos Estados independentes na região dos Bálcãs.\nIII. O fim da Guerra Fria eliminou automaticamente quaisquer tensões étnicas e nacionalistas na Europa.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -24270,7 +24270,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-84",
    "texto_apoio": "Em 1994, Ruanda foi palco de um dos genocídios mais rápidos e violentos do século XX, no qual membros da etnia hutu majoritária mataram um grande número de tútsis e hutus moderados.",
-   "enunciado": "Sobre o genocídio de Ruanda (1994), analise as afirmativas: I. Tratou-se de um conflito exclusivamente religioso, sem qualquer componente étnico ou colonial. II. Esteve associado a tensões étnicas historicamente exploradas, inclusive durante o período colonial belga, que hierarquizou grupos populacionais. III. A comunidade internacional foi apontada por sua omissão em intervir a tempo de evitar ou conter o massacre. Está correto o que se afirma em:",
+   "enunciado": "Sobre o genocídio de Ruanda (1994), analise as afirmativas:\n\nI. Tratou-se de um conflito exclusivamente religioso, sem qualquer componente étnico ou colonial.\nII. Esteve associado a tensões étnicas historicamente exploradas, inclusive durante o período colonial belga, que hierarquizou grupos populacionais.\nIII. A comunidade internacional foi apontada por sua omissão em intervir a tempo de evitar ou conter o massacre.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -24354,7 +24354,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-89",
    "texto_apoio": "Durante a Primavera Árabe, o Egito viveu, em 2011, protestos em massa que resultaram na renúncia do presidente Hosni Mubarak, no poder havia quase três décadas.",
-   "enunciado": "Sobre os anos seguintes à queda de Mubarak no Egito, analise as afirmativas: I. O país viveu eleições e um governo civil eleito nos anos seguintes à queda de Mubarak. II. A transição democrática egípcia ocorreu de forma linear e sem qualquer novo episódio de instabilidade política. III. Poucos anos após a eleição de um governo civil, o Egito viveu um novo golpe militar, evidenciando a instabilidade prolongada do processo. Está correto o que se afirma em:",
+   "enunciado": "Sobre os anos seguintes à queda de Mubarak no Egito, analise as afirmativas:\n\nI. O país viveu eleições e um governo civil eleito nos anos seguintes à queda de Mubarak.\nII. A transição democrática egípcia ocorreu de forma linear e sem qualquer novo episódio de instabilidade política.\nIII. Poucos anos após a eleição de um governo civil, o Egito viveu um novo golpe militar, evidenciando a instabilidade prolongada do processo.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -24489,7 +24489,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-97",
    "texto_apoio": "Em 1973, um golpe militar depôs o presidente chileno Salvador Allende, eleito democraticamente, dando início a um longo regime ditatorial no país.",
-   "enunciado": "Sobre o golpe de 1973 no Chile, analise as afirmativas: I. Tensões da Guerra Fria também se manifestaram na América Latina, com setores internos e apoio externo contribuindo para a deposição de governos vistos como ameaça aos interesses ocidentais. II. O golpe depôs um presidente eleito democraticamente, dando início a um longo regime autoritário no país. III. Os Estados Unidos jamais demonstraram qualquer interesse pela política interna de países latino-americanos durante a Guerra Fria. Está correto o que se afirma em:",
+   "enunciado": "Sobre o golpe de 1973 no Chile, analise as afirmativas:\n\nI. Tensões da Guerra Fria também se manifestaram na América Latina, com setores internos e apoio externo contribuindo para a deposição de governos vistos como ameaça aos interesses ocidentais.\nII. O golpe depôs um presidente eleito democraticamente, dando início a um longo regime autoritário no país.\nIII. Os Estados Unidos jamais demonstraram qualquer interesse pela política interna de países latino-americanos durante a Guerra Fria.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -24506,7 +24506,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "direito",
    "id": "historia-geral-98",
    "texto_apoio": "Ao longo das décadas de 1970 e 1980, diversas ditaduras militares da América do Sul coordenaram ações de repressão a opositores políticos, inclusive além de suas fronteiras.",
-   "enunciado": "Sobre a Operação Condor, analise as afirmativas: I. As ditaduras militares latino-americanas do período agiam de forma isolada, sem qualquer cooperação entre si. II. Regimes autoritários de diferentes países da América do Sul compartilhavam informações de inteligência entre si. III. A articulação envolvia cooperação na perseguição, sequestro e eliminação de opositores políticos além das fronteiras nacionais. Está correto o que se afirma em:",
+   "enunciado": "Sobre a Operação Condor, analise as afirmativas:\n\nI. As ditaduras militares latino-americanas do período agiam de forma isolada, sem qualquer cooperação entre si.\nII. Regimes autoritários de diferentes países da América do Sul compartilhavam informações de inteligência entre si.\nIII. A articulação envolvia cooperação na perseguição, sequestro e eliminação de opositores políticos além das fronteiras nacionais.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "I e II, apenas",
@@ -41035,11 +41035,11 @@ window.QUESTION_BANKS = {
    "origemTrilha": "medicina",
    "id": "biologia-162",
    "texto_apoio": "Ao apresentar seus resultados com ervilhas, Mendel propôs que cada caráter é determinado por um par de fatores que se separam na formação dos gametas e se reúnem ao acaso na fecundação. A base citológica desse comportamento só seria descrita décadas mais tarde.",
-   "enunciado": "Considere as afirmações a seguir sobre o trabalho de Mendel. I. A escolha da ervilha se justifica por ela permitir autofecundação e também cruzamentos controlados, o que possibilitou obter linhagens puras antes dos experimentos. II. A proporção 3:1 observada na geração F2 exige que os fatores se misturem no híbrido, produzindo um caráter de intensidade intermediária. III. O tratamento de grandes números de descendentes e a expressão dos resultados como proporções foram decisivos para que os padrões emergissem. Está correto o que se afirma em:",
+   "enunciado": "Considere as afirmações a seguir sobre o trabalho de Mendel.\n\nI. A escolha da ervilha se justifica por ela permitir autofecundação e também cruzamentos controlados, o que possibilitou obter linhagens puras antes dos experimentos.\nII. A proporção 3:1 observada na geração F2 exige que os fatores se misturem no híbrido, produzindo um caráter de intensidade intermediária.\nIII. O tratamento de grandes números de descendentes e a expressão dos resultados como proporções foram decisivos para que os padrões emergissem.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
-    "b": "II, apenas",
-    "c": "I e II, apenas",
+    "b": "I e II, apenas",
+    "c": "II e III, apenas",
     "d": "I e III, apenas",
     "e": "I, II e III"
    },
@@ -41415,7 +41415,7 @@ window.QUESTION_BANKS = {
    "origemTrilha": "medicina",
    "id": "biologia-182",
    "texto_apoio": "Genealogia de uma anomalia rara. Geração I: I-1, homem não afetado, casado com I-2, mulher não afetada. Geração II: o casal teve II-1, homem afetado, e II-2, mulher não afetada. II-2 casou-se com II-3, homem não afetado e sem antecedentes familiares da anomalia. Geração III: o casal II-2 x II-3 teve III-1, menino afetado, e III-2, menina não afetada.",
-   "enunciado": "Considere as afirmações a seguir sobre essa genealogia. I. Os dados excluem definitivamente a hipótese de herança recessiva ligada ao cromossomo X. II. Os indivíduos I-1 e I-2 são obrigatoriamente heterozigotos, qualquer que seja a hipótese de localização do gene entre as compatíveis com a genealogia. III. Se a herança for autossômica recessiva, a probabilidade de o próximo filho do casal II-2 x II-3 ser afetado é de 1/4. Está correto o que se afirma em:",
+   "enunciado": "Considere as afirmações a seguir sobre essa genealogia.\n\nI. Os dados excluem definitivamente a hipótese de herança recessiva ligada ao cromossomo X.\nII. Os indivíduos I-1 e I-2 são obrigatoriamente heterozigotos, qualquer que seja a hipótese de localização do gene entre as compatíveis com a genealogia.\nIII. Se a herança for autossômica recessiva, a probabilidade de o próximo filho do casal II-2 x II-3 ser afetado é de 1/4.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
     "b": "II, apenas",
@@ -41425,7 +41425,6 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "I é falsa: sem mulheres afetadas na genealogia, nada exclui a hipótese ligada ao X, que aliás explica bem os dois homens afetados descendendo de mulheres não afetadas. III também é falsa, e essa é a armadilha aritmética: 1/4 valeria se os dois cônjuges fossem heterozigotos comprovados, mas II-3 não tem antecedentes familiares e sua condição de portador é apenas possível, de modo que o risco calculado seria menor que 1/4. II é verdadeira: sendo o gene autossômico, I-1 e I-2 são Aa; sendo ligado ao X, I-2 é heterozigota e I-1 transmite seu Y ao filho afetado, e ambos permanecem não afetados como a genealogia exige.",
-   "formato": "escada",
    "dificuldade": "dificil",
    "visual": {
     "tipo": "Heredograma",
@@ -41764,11 +41763,11 @@ window.QUESTION_BANKS = {
    "origemTrilha": "medicina",
    "id": "biologia-202",
    "texto_apoio": "A legislação brasileira de biossegurança submete a liberação comercial de organismos geneticamente modificados a análise prévia de risco por uma comissão técnica e exige a identificação, no rótulo, dos alimentos que contenham ingredientes transgênicos acima de determinado percentual.",
-   "enunciado": "Considere as afirmações a seguir. I. A exigência de rotulagem se justifica pelo direito à informação do consumidor, independentemente de o produto ter sido aprovado como seguro para consumo. II. Todo alimento transgênico é, por definição, nocivo à saúde humana, e a análise de risco tem por finalidade medir o grau dessa nocividade. III. A avaliação de risco de um organismo geneticamente modificado deve considerar não só o efeito sobre quem consome, mas também o impacto sobre o ambiente em que ele será cultivado. Está correto o que se afirma em:",
+   "enunciado": "Considere as afirmações a seguir.\n\nI. A exigência de rotulagem se justifica pelo direito à informação do consumidor, independentemente de o produto ter sido aprovado como seguro para consumo.\nII. Todo alimento transgênico é, por definição, nocivo à saúde humana, e a análise de risco tem por finalidade medir o grau dessa nocividade.\nIII. A avaliação de risco de um organismo geneticamente modificado deve considerar não só o efeito sobre quem consome, mas também o impacto sobre o ambiente em que ele será cultivado.\n\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
-    "b": "III, apenas",
-    "c": "I e II, apenas",
+    "b": "I e II, apenas",
+    "c": "II e III, apenas",
     "d": "I e III, apenas",
     "e": "I, II e III"
    },
@@ -44870,15 +44869,15 @@ window.QUESTION_BANKS = {
    "origemTrilha": "medicina",
    "id": "quimica-156",
    "texto_apoio": "Um catalisador é adicionado a um sistema gasoso fechado no qual a reação ainda não atingiu o equilíbrio.",
-   "enunciado": "Analise as afirmações a respeito do efeito dessa adição. I. O catalisador aumenta igualmente as velocidades das reações direta e inversa. II. O catalisador aumenta a quantidade de produto presente quando o equilíbrio for atingido. III. O catalisador faz o sistema alcançar o equilíbrio em menos tempo. Está correto o que se afirma em:",
+   "enunciado": "Analise as afirmações a respeito do efeito dessa adição.\n\nI. O catalisador aumenta igualmente as velocidades das reações direta e inversa.\nII. O catalisador aumenta a quantidade de produto presente quando o equilíbrio for atingido.\nIII. O catalisador faz o sistema alcançar o equilíbrio em menos tempo.\n\nEstá correto o que se afirma em:",
    "alternativas": {
-    "a": "I, apenas.",
-    "b": "II, apenas.",
-    "c": "I e III, apenas.",
-    "d": "II e III, apenas.",
-    "e": "I, II e III."
+    "a": "I, apenas",
+    "b": "I e II, apenas",
+    "c": "II e III, apenas",
+    "d": "I e III, apenas",
+    "e": "I, II e III"
    },
-   "resposta": "c",
+   "resposta": "d",
    "explicacao": "O catalisador oferece um caminho de menor energia de ativação, e esse caminho é o mesmo nos dois sentidos: as duas velocidades crescem na mesma proporção (I correta) e o equilíbrio é alcançado antes (III correta). Justamente por afetar igualmente os dois sentidos, ele não altera o valor de Kc nem as concentrações finais, o que torna II falsa. Marcar (e) é o erro de quem confunde chegar mais rápido ao equilíbrio com produzir mais.",
    "formato": "escada"
   },
@@ -45466,15 +45465,15 @@ window.QUESTION_BANKS = {
    "origemTrilha": "medicina",
    "id": "quimica-192",
    "texto_apoio": "A lei de Hess permite calcular a variação de entalpia de uma reação a partir de equações termoquímicas conhecidas, combinadas convenientemente.",
-   "enunciado": "Analise as afirmações a seguir. I. A variação de entalpia de uma reação depende apenas dos estados inicial e final, e não do número de etapas percorridas. II. Ao inverter uma equação termoquímica, o valor de ΔH mantém o módulo e troca de sinal. III. Ao multiplicar por dois todos os coeficientes de uma equação, o valor de ΔH permanece o mesmo. Está correto o que se afirma em:",
+   "enunciado": "Analise as afirmações a seguir.\n\nI. A variação de entalpia de uma reação depende apenas dos estados inicial e final, e não do número de etapas percorridas.\nII. Ao inverter uma equação termoquímica, o valor de ΔH mantém o módulo e troca de sinal.\nIII. Ao multiplicar por dois todos os coeficientes de uma equação, o valor de ΔH permanece o mesmo.\n\nEstá correto o que se afirma em:",
    "alternativas": {
-    "a": "I, apenas.",
-    "b": "II, apenas.",
-    "c": "I e III, apenas.",
-    "d": "I e II, apenas.",
-    "e": "I, II e III."
+    "a": "I, apenas",
+    "b": "I e II, apenas",
+    "c": "II e III, apenas",
+    "d": "I e III, apenas",
+    "e": "I, II e III"
    },
-   "resposta": "d",
+   "resposta": "b",
    "explicacao": "As afirmações I e II descrevem o comportamento da entalpia como função de estado: o caminho é irrelevante e inverter o processo inverte o sinal do calor trocado. A afirmação III é falsa, porque ΔH é grandeza extensiva, proporcional à quantidade de matéria — dobrar os coeficientes dobra o valor. Marcar (e) é o erro de quem trata ΔH como uma propriedade fixa da reação, esquecendo que ele se refere às quantidades escritas naquela equação.",
    "formato": "escada"
   },
@@ -45598,13 +45597,13 @@ window.QUESTION_BANKS = {
    "origemTrilha": "medicina",
    "id": "quimica-200",
    "texto_apoio": "Três substâncias sólidas foram submetidas a testes de ponto de fusão e de condutividade elétrica. A substância X funde a 801 °C, não conduz corrente no estado sólido e conduz quando fundida. A substância Y funde a 1 083 °C e conduz corrente tanto no estado sólido quanto quando fundida. A substância Z funde a −23 °C e não conduz corrente em nenhuma das duas condições.",
-   "enunciado": "Analise as afirmações. I. X é um composto iônico, e sua condutividade após a fusão decorre da liberação dos íons antes presos ao retículo. II. Y é um metal, cujos elétrons deslocalizados conduzem corrente já no estado sólido. III. Z é uma substância molecular, mantida no estado sólido por forças intermoleculares fracas. Está correto o que se afirma em:",
+   "enunciado": "Analise as afirmações.\n\nI. X é um composto iônico, e sua condutividade após a fusão decorre da liberação dos íons antes presos ao retículo.\nII. Y é um metal, cujos elétrons deslocalizados conduzem corrente já no estado sólido.\nIII. Z é uma substância molecular, mantida no estado sólido por forças intermoleculares fracas.\n\nEstá correto o que se afirma em:",
    "alternativas": {
-    "a": "I, apenas.",
-    "b": "I e II, apenas.",
-    "c": "II e III, apenas.",
-    "d": "I e III, apenas.",
-    "e": "I, II e III."
+    "a": "I, apenas",
+    "b": "I e II, apenas",
+    "c": "II e III, apenas",
+    "d": "I e III, apenas",
+    "e": "I, II e III"
    },
    "resposta": "e",
    "explicacao": "Sólidos iônicos têm ponto de fusão alto e só conduzem quando os íons ganham mobilidade, na fusão ou em solução aquosa: é o caso de X. Metais conduzem já no estado sólido, porque os elétrons de valência são deslocalizados: é o caso de Y. Substâncias moleculares fundem em temperatura baixa e não têm portadores de carga livres: é o caso de Z. A armadilha está em ler não conduz no estado sólido e concluir de imediato molecular, o que confundiria X com Z e levaria a descartar a afirmação I.",
@@ -48345,9 +48344,9 @@ window.QUESTION_BANKS = {
    "enunciado": "Analise as afirmações a respeito do movimento desse satélite.\nI. A energia mecânica total do satélite é a mesma no perigeu e no apogeu.\nII. A energia cinética do satélite é maior no perigeu.\nIII. A energia potencial gravitacional do satélite é maior no apogeu.\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
-    "b": "II, apenas",
-    "c": "I e II, apenas",
-    "d": "II e III, apenas",
+    "b": "I e II, apenas",
+    "c": "II e III, apenas",
+    "d": "I e III, apenas",
     "e": "I, II e III"
    },
    "resposta": "e",
@@ -48673,12 +48672,12 @@ window.QUESTION_BANKS = {
    "enunciado": "Analise as afirmações a seguir.\nI. Numa transformação isotérmica, o produto da pressão pelo volume permanece constante.\nII. Numa transformação isovolumétrica, a razão entre a pressão e a temperatura em graus Celsius permanece constante.\nIII. Numa transformação isobárica, o volume é diretamente proporcional à temperatura absoluta.\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
-    "b": "III, apenas",
-    "c": "I e II, apenas",
-    "d": "II e III, apenas",
-    "e": "I e III, apenas"
+    "b": "I e II, apenas",
+    "c": "II e III, apenas",
+    "d": "I e III, apenas",
+    "e": "I, II e III"
    },
-   "resposta": "e",
+   "resposta": "d",
    "explicacao": "I e III são enunciados corretos das leis de Boyle e de Charles. II é falsa por uma única palavra: a razão constante é entre pressão e temperatura absoluta, em kelvin. A escala Celsius tem zero arbitrário, e nela um gás a 0 °C teria pressão nula pela fórmula, o que é absurdo. Marcar II como verdadeira é o erro que mais custa pontos em transformações gasosas.",
    "formato": "escada"
   },
@@ -48917,12 +48916,12 @@ window.QUESTION_BANKS = {
    "enunciado": "Analise as afirmações a seguir.\nI. Todos os pontos do condutor, inclusive os internos, estão a um mesmo potencial elétrico.\nII. O campo elétrico é nulo em todos os pontos internos do condutor.\nIII. O excesso de carga distribui-se uniformemente por todo o volume do condutor.\nEstá correto o que se afirma em:",
    "alternativas": {
     "a": "I, apenas",
-    "b": "II, apenas",
-    "c": "III, apenas",
+    "b": "I e II, apenas",
+    "c": "II e III, apenas",
     "d": "I e III, apenas",
-    "e": "I e II, apenas"
+    "e": "I, II e III"
    },
-   "resposta": "e",
+   "resposta": "b",
    "explicacao": "No equilíbrio não há movimento ordenado de cargas, o que exige campo nulo no interior; sem campo interno, não há diferença de potencial entre dois pontos do condutor, e todo ele é equipotencial. I e II são corretas e uma decorre da outra. III é falsa por dois motivos: o excesso de carga fica na superfície externa, e sua distribuição só é uniforme se a superfície for esférica — em corpos com pontas ela se concentra nas regiões mais curvas.",
    "formato": "escada"
   },

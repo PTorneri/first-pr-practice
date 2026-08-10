@@ -1869,7 +1869,7 @@ window.QUESTION_BANKS = {
                           },
                           {
                               "id":  "artes-cultura-122",
-                              "texto_apoio":  "Considere as afirmações sobre a leitura de imagens: I. Descrever o que se vê é etapa distinta de interpretar o que aquilo significa. II. Uma mesma imagem pode receber leituras diferentes conforme o repertório de quem a observa. III. O significado de uma imagem está integralmente determinado pela intenção declarada de seu autor.",
+                              "texto_apoio":  "Considere as afirmações sobre a leitura de imagens:\n\nI. Descrever o que se vê é etapa distinta de interpretar o que aquilo significa.\nII. Uma mesma imagem pode receber leituras diferentes conforme o repertório de quem a observa.\nIII. O significado de uma imagem está integralmente determinado pela intenção declarada de seu autor.",
                               "enunciado":  "Está correto o que se afirma em:",
                               "alternativas":  {
                                                    "a":  "I, apenas",
@@ -2150,7 +2150,7 @@ window.QUESTION_BANKS = {
                           },
                           {
                               "id":  "artes-cultura-140",
-                              "texto_apoio":  "Considere as afirmações sobre as relações entre arte e saúde: I. Práticas artísticas em ambiente hospitalar têm efeitos documentados sobre ansiedade e dor percebida. II. A produção artística de pessoas em sofrimento psíquico tem valor exclusivamente diagnóstico, servindo para classificar o quadro apresentado por cada paciente. III. Atividades artísticas substituem o tratamento clínico nos quadros em que são oferecidas.",
+                              "texto_apoio":  "Considere as afirmações sobre as relações entre arte e saúde:\n\nI. Práticas artísticas em ambiente hospitalar têm efeitos documentados sobre ansiedade e dor percebida.\nII. A produção artística de pessoas em sofrimento psíquico tem valor exclusivamente diagnóstico, servindo para classificar o quadro apresentado por cada paciente.\nIII. Atividades artísticas substituem o tratamento clínico nos quadros em que são oferecidas.",
                               "enunciado":  "Está correto o que se afirma em:",
                               "alternativas":  {
                                                    "a":  "I, apenas",
@@ -4197,7 +4197,7 @@ window.QUESTION_BANKS = {
                         },
                         {
                             "id":  "atualidades-122",
-                            "texto_apoio":  "Considere as afirmações sobre leitura crítica de notícias: I. Verificar quem publicou e com que interesse é parte da avaliação da informação. II. Uma correlação divulgada como manchete pode não indicar relação de causa e efeito. III. Um gráfico cujo eixo vertical não parte do zero apresenta necessariamente dados incorretos.",
+                            "texto_apoio":  "Considere as afirmações sobre leitura crítica de notícias:\n\nI. Verificar quem publicou e com que interesse é parte da avaliação da informação.\nII. Uma correlação divulgada como manchete pode não indicar relação de causa e efeito.\nIII. Um gráfico cujo eixo vertical não parte do zero apresenta necessariamente dados incorretos.",
                             "enunciado":  "Está correto o que se afirma em:",
                             "alternativas":  {
                                                  "a":  "I, apenas",
@@ -4510,7 +4510,7 @@ window.QUESTION_BANKS = {
                         },
                         {
                             "id":  "atualidades-142",
-                            "texto_apoio":  "Considere as afirmações sobre a preparação em atualidades para provas de medicina: I. Temas de saúde pública aparecem com frequência e conectam biologia, humanas e bioética. II. Conhecer a ordem de grandeza dos principais indicadores é mais útil do que memorizar seus valores exatos. III. Compreender o mecanismo de um problema costuma ser mais útil do que memorizar o desfecho de um episódio.",
+                            "texto_apoio":  "Considere as afirmações sobre a preparação em atualidades para provas de medicina:\n\nI. Temas de saúde pública aparecem com frequência e conectam biologia, humanas e bioética.\nII. Conhecer a ordem de grandeza dos principais indicadores é mais útil do que memorizar seus valores exatos.\nIII. Compreender o mecanismo de um problema costuma ser mais útil do que memorizar o desfecho de um episódio.",
                             "enunciado":  "Está correto o que se afirma em:",
                             "alternativas":  {
                                                  "a":  "I, apenas",
@@ -7250,11 +7250,11 @@ window.QUESTION_BANKS = {
                      {
                          "id":  "biologia-162",
                          "texto_apoio":  "Ao apresentar seus resultados com ervilhas, Mendel propôs que cada caráter é determinado por um par de fatores que se separam na formação dos gametas e se reúnem ao acaso na fecundação. A base citológica desse comportamento só seria descrita décadas mais tarde.",
-                         "enunciado":  "Considere as afirmações a seguir sobre o trabalho de Mendel. I. A escolha da ervilha se justifica por ela permitir autofecundação e também cruzamentos controlados, o que possibilitou obter linhagens puras antes dos experimentos. II. A proporção 3:1 observada na geração F2 exige que os fatores se misturem no híbrido, produzindo um caráter de intensidade intermediária. III. O tratamento de grandes números de descendentes e a expressão dos resultados como proporções foram decisivos para que os padrões emergissem. Está correto o que se afirma em:",
+                         "enunciado":  "Considere as afirmações a seguir sobre o trabalho de Mendel.\n\nI. A escolha da ervilha se justifica por ela permitir autofecundação e também cruzamentos controlados, o que possibilitou obter linhagens puras antes dos experimentos.\nII. A proporção 3:1 observada na geração F2 exige que os fatores se misturem no híbrido, produzindo um caráter de intensidade intermediária.\nIII. O tratamento de grandes números de descendentes e a expressão dos resultados como proporções foram decisivos para que os padrões emergissem.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "I, apenas",
-                                              "b":  "II, apenas",
-                                              "c":  "I e II, apenas",
+                                              "b":  "I e II, apenas",
+                                              "c":  "II e III, apenas",
                                               "d":  "I e III, apenas",
                                               "e":  "I, II e III"
                                           },
@@ -7610,7 +7610,7 @@ window.QUESTION_BANKS = {
                      {
                          "id":  "biologia-182",
                          "texto_apoio":  "Genealogia de uma anomalia rara. Geração I: I-1, homem não afetado, casado com I-2, mulher não afetada. Geração II: o casal teve II-1, homem afetado, e II-2, mulher não afetada. II-2 casou-se com II-3, homem não afetado e sem antecedentes familiares da anomalia. Geração III: o casal II-2 x II-3 teve III-1, menino afetado, e III-2, menina não afetada.",
-                         "enunciado":  "Considere as afirmações a seguir sobre essa genealogia. I. Os dados excluem definitivamente a hipótese de herança recessiva ligada ao cromossomo X. II. Os indivíduos I-1 e I-2 são obrigatoriamente heterozigotos, qualquer que seja a hipótese de localização do gene entre as compatíveis com a genealogia. III. Se a herança for autossômica recessiva, a probabilidade de o próximo filho do casal II-2 x II-3 ser afetado é de 1/4. Está correto o que se afirma em:",
+                         "enunciado":  "Considere as afirmações a seguir sobre essa genealogia.\n\nI. Os dados excluem definitivamente a hipótese de herança recessiva ligada ao cromossomo X.\nII. Os indivíduos I-1 e I-2 são obrigatoriamente heterozigotos, qualquer que seja a hipótese de localização do gene entre as compatíveis com a genealogia.\nIII. Se a herança for autossômica recessiva, a probabilidade de o próximo filho do casal II-2 x II-3 ser afetado é de 1/4.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "I, apenas",
                                               "b":  "II, apenas",
@@ -7620,7 +7620,6 @@ window.QUESTION_BANKS = {
                                           },
                          "resposta":  "b",
                          "explicacao":  "I é falsa: sem mulheres afetadas na genealogia, nada exclui a hipótese ligada ao X, que aliás explica bem os dois homens afetados descendendo de mulheres não afetadas. III também é falsa, e essa é a armadilha aritmética: 1/4 valeria se os dois cônjuges fossem heterozigotos comprovados, mas II-3 não tem antecedentes familiares e sua condição de portador é apenas possível, de modo que o risco calculado seria menor que 1/4. II é verdadeira: sendo o gene autossômico, I-1 e I-2 são Aa; sendo ligado ao X, I-2 é heterozigota e I-1 transmite seu Y ao filho afetado, e ambos permanecem não afetados como a genealogia exige.",
-                         "formato":  "escada",
                          "dificuldade":  "dificil",
                          "visual":  {
                                         "tipo":  "Heredograma",
@@ -7939,11 +7938,11 @@ window.QUESTION_BANKS = {
                      {
                          "id":  "biologia-202",
                          "texto_apoio":  "A legislação brasileira de biossegurança submete a liberação comercial de organismos geneticamente modificados a análise prévia de risco por uma comissão técnica e exige a identificação, no rótulo, dos alimentos que contenham ingredientes transgênicos acima de determinado percentual.",
-                         "enunciado":  "Considere as afirmações a seguir. I. A exigência de rotulagem se justifica pelo direito à informação do consumidor, independentemente de o produto ter sido aprovado como seguro para consumo. II. Todo alimento transgênico é, por definição, nocivo à saúde humana, e a análise de risco tem por finalidade medir o grau dessa nocividade. III. A avaliação de risco de um organismo geneticamente modificado deve considerar não só o efeito sobre quem consome, mas também o impacto sobre o ambiente em que ele será cultivado. Está correto o que se afirma em:",
+                         "enunciado":  "Considere as afirmações a seguir.\n\nI. A exigência de rotulagem se justifica pelo direito à informação do consumidor, independentemente de o produto ter sido aprovado como seguro para consumo.\nII. Todo alimento transgênico é, por definição, nocivo à saúde humana, e a análise de risco tem por finalidade medir o grau dessa nocividade.\nIII. A avaliação de risco de um organismo geneticamente modificado deve considerar não só o efeito sobre quem consome, mas também o impacto sobre o ambiente em que ele será cultivado.\n\nEstá correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "I, apenas",
-                                              "b":  "III, apenas",
-                                              "c":  "I e II, apenas",
+                                              "b":  "I e II, apenas",
+                                              "c":  "II e III, apenas",
                                               "d":  "I e III, apenas",
                                               "e":  "I, II e III"
                                           },
@@ -10510,7 +10509,7 @@ window.QUESTION_BANKS = {
                                  },
                                  {
                                      "id":  "filosofia-sociologia-135",
-                                     "texto_apoio":  "Considere as afirmações sobre argumentação: I. Um argumento de forma válida cujas premissas sejam todas verdadeiras pode ter conclusão falsa. II. Distorcer a posição do adversário para refutá-la mais facilmente configura falácia do espantalho. III. Apresentar apenas duas alternativas quando existem outras configura falso dilema.",
+                                     "texto_apoio":  "Considere as afirmações sobre argumentação:\n\nI. Um argumento de forma válida cujas premissas sejam todas verdadeiras pode ter conclusão falsa.\nII. Distorcer a posição do adversário para refutá-la mais facilmente configura falácia do espantalho.\nIII. Apresentar apenas duas alternativas quando existem outras configura falso dilema.",
                                      "enunciado":  "Está correto o que se afirma em:",
                                      "alternativas":  {
                                                           "a":  "I, apenas",
@@ -10662,7 +10661,7 @@ window.QUESTION_BANKS = {
                                  },
                                  {
                                      "id":  "filosofia-sociologia-145",
-                                     "texto_apoio":  "Considere as afirmações sobre a relação entre condições sociais e saúde: I. Pessoas de menor renda apresentam pior autoavaliação de saúde e menor expectativa de vida. II. O gradiente social em saúde persiste mesmo em países com sistema universal de atendimento. III. Ampliar a oferta de serviços de saúde basta para eliminar as diferenças de desfecho entre os grupos sociais.",
+                                     "texto_apoio":  "Considere as afirmações sobre a relação entre condições sociais e saúde:\n\nI. Pessoas de menor renda apresentam pior autoavaliação de saúde e menor expectativa de vida.\nII. O gradiente social em saúde persiste mesmo em países com sistema universal de atendimento.\nIII. Ampliar a oferta de serviços de saúde basta para eliminar as diferenças de desfecho entre os grupos sociais.",
                                      "enunciado":  "Está correto o que se afirma em:",
                                      "alternativas":  {
                                                           "a":  "I, apenas",
@@ -13245,9 +13244,9 @@ window.QUESTION_BANKS = {
                        "enunciado":  "Analise as afirmações a respeito do movimento desse satélite.\nI. A energia mecânica total do satélite é a mesma no perigeu e no apogeu.\nII. A energia cinética do satélite é maior no perigeu.\nIII. A energia potencial gravitacional do satélite é maior no apogeu.\nEstá correto o que se afirma em:",
                        "alternativas":  {
                                             "a":  "I, apenas",
-                                            "b":  "II, apenas",
-                                            "c":  "I e II, apenas",
-                                            "d":  "II e III, apenas",
+                                            "b":  "I e II, apenas",
+                                            "c":  "II e III, apenas",
+                                            "d":  "I e III, apenas",
                                             "e":  "I, II e III"
                                         },
                        "resposta":  "e",
@@ -13553,12 +13552,12 @@ window.QUESTION_BANKS = {
                        "enunciado":  "Analise as afirmações a seguir.\nI. Numa transformação isotérmica, o produto da pressão pelo volume permanece constante.\nII. Numa transformação isovolumétrica, a razão entre a pressão e a temperatura em graus Celsius permanece constante.\nIII. Numa transformação isobárica, o volume é diretamente proporcional à temperatura absoluta.\nEstá correto o que se afirma em:",
                        "alternativas":  {
                                             "a":  "I, apenas",
-                                            "b":  "III, apenas",
-                                            "c":  "I e II, apenas",
-                                            "d":  "II e III, apenas",
-                                            "e":  "I e III, apenas"
+                                            "b":  "I e II, apenas",
+                                            "c":  "II e III, apenas",
+                                            "d":  "I e III, apenas",
+                                            "e":  "I, II e III"
                                         },
-                       "resposta":  "e",
+                       "resposta":  "d",
                        "explicacao":  "I e III são enunciados corretos das leis de Boyle e de Charles. II é falsa por uma única palavra: a razão constante é entre pressão e temperatura absoluta, em kelvin. A escala Celsius tem zero arbitrário, e nela um gás a 0 °C teria pressão nula pela fórmula, o que é absurdo. Marcar II como verdadeira é o erro que mais custa pontos em transformações gasosas.",
                        "formato":  "escada"
                    },
@@ -13782,12 +13781,12 @@ window.QUESTION_BANKS = {
                        "enunciado":  "Analise as afirmações a seguir.\nI. Todos os pontos do condutor, inclusive os internos, estão a um mesmo potencial elétrico.\nII. O campo elétrico é nulo em todos os pontos internos do condutor.\nIII. O excesso de carga distribui-se uniformemente por todo o volume do condutor.\nEstá correto o que se afirma em:",
                        "alternativas":  {
                                             "a":  "I, apenas",
-                                            "b":  "II, apenas",
-                                            "c":  "III, apenas",
+                                            "b":  "I e II, apenas",
+                                            "c":  "II e III, apenas",
                                             "d":  "I e III, apenas",
-                                            "e":  "I e II, apenas"
+                                            "e":  "I, II e III"
                                         },
-                       "resposta":  "e",
+                       "resposta":  "b",
                        "explicacao":  "No equilíbrio não há movimento ordenado de cargas, o que exige campo nulo no interior; sem campo interno, não há diferença de potencial entre dois pontos do condutor, e todo ele é equipotencial. I e II são corretas e uma decorre da outra. III é falsa por dois motivos: o excesso de carga fica na superfície externa, e sua distribuição só é uniforme se a superfície for esférica — em corpos com pontas ela se concentra nas regiões mais curvas.",
                        "formato":  "escada"
                    },
@@ -21110,7 +21109,7 @@ window.QUESTION_BANKS = {
                      },
                      {
                          "id":  "historia-159",
-                         "texto_apoio":  "Considere as afirmações a seguir sobre a urbanização produzida pela Revolução Industrial. I. O crescimento das cidades industriais foi mais rápido que a instalação de redes de água, esgoto e habitação, o que produziu bairros insalubres e mortalidade elevada. II. A concentração de trabalhadores num mesmo espaço facilitou a organização de sociedades de auxílio mútuo, sindicatos e partidos operários. III. As leis de proteção ao trabalho, como a limitação da jornada de menores, foram adotadas espontaneamente pelos industriais, sem pressão social ou parlamentar.",
+                         "texto_apoio":  "Considere as afirmações a seguir sobre a urbanização produzida pela Revolução Industrial.\n\nI. O crescimento das cidades industriais foi mais rápido que a instalação de redes de água, esgoto e habitação, o que produziu bairros insalubres e mortalidade elevada.\nII. A concentração de trabalhadores num mesmo espaço facilitou a organização de sociedades de auxílio mútuo, sindicatos e partidos operários.\nIII. As leis de proteção ao trabalho, como a limitação da jornada de menores, foram adotadas espontaneamente pelos industriais, sem pressão social ou parlamentar.",
                          "enunciado":  "Está correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "I, apenas",
@@ -21466,7 +21465,7 @@ window.QUESTION_BANKS = {
                      },
                      {
                          "id":  "historia-182",
-                         "texto_apoio":  "Considere as afirmações a seguir sobre os movimentos iniciados no mundo árabe a partir do final de 2010. I. Entre os fatores que alimentaram os protestos estavam o desemprego entre jovens escolarizados, a alta dos preços dos alimentos e a permanência de governos autoritários por décadas. II. As redes sociais funcionaram como instrumento de convocação e de circulação de imagens, ainda que não expliquem por si sós a origem dos protestos. III. Os movimentos produziram desfechos semelhantes em todos os países atingidos, com a instalação de democracias estáveis em cada um deles.",
+                         "texto_apoio":  "Considere as afirmações a seguir sobre os movimentos iniciados no mundo árabe a partir do final de 2010.\n\nI. Entre os fatores que alimentaram os protestos estavam o desemprego entre jovens escolarizados, a alta dos preços dos alimentos e a permanência de governos autoritários por décadas.\nII. As redes sociais funcionaram como instrumento de convocação e de circulação de imagens, ainda que não expliquem por si sós a origem dos protestos.\nIII. Os movimentos produziram desfechos semelhantes em todos os países atingidos, com a instalação de democracias estáveis em cada um deles.",
                          "enunciado":  "Está correto o que se afirma em:",
                          "alternativas":  {
                                               "a":  "I, apenas",
@@ -24227,12 +24226,12 @@ window.QUESTION_BANKS = {
                        "enunciado":  "O conectivo estabelece uma relação coerente entre as duas orações apenas em:",
                        "alternativas":  {
                                             "a":  "I, apenas",
-                                            "b":  "II, apenas",
-                                            "c":  "I e III, apenas",
-                                            "d":  "II e III, apenas",
+                                            "b":  "I e II, apenas",
+                                            "c":  "II e III, apenas",
+                                            "d":  "I e III, apenas",
                                             "e":  "I, II e III"
                                         },
-                       "resposta":  "c",
+                       "resposta":  "d",
                        "explicacao":  "Esperar no corredor é consequência de a enfermaria estar lotada, e \"consequently\" e \"therefore\" marcam consequência. \"Nevertheless\" exigiria que a segunda oração contrariasse a expectativa criada pela primeira, o que não ocorre. Quem marca (e) está conferindo apenas se as três frases estão gramaticais, sem avaliar a relação lógica que cada conectivo impõe.",
                        "formato":  "escada",
                        "dificuldade":  "dificil"
@@ -24360,7 +24359,6 @@ window.QUESTION_BANKS = {
                                         },
                        "resposta":  "d",
                        "explicacao":  "O relativo só desaparece quando é objeto da oração adjetiva: em I, o comitê aprovou o remédio, e a omissão não deixa buraco nenhum. Em II ele é sujeito de \"causes\", e retirá-lo deixaria o verbo sem sujeito. A alternativa (b) é de quem generaliza a regra observada em I sem testar a função sintática em II — e a omissão em I não é informal, é a construção mais comum também na escrita.",
-                       "formato":  "escada",
                        "dificuldade":  "dificil"
                    },
                    {
@@ -24680,10 +24678,10 @@ window.QUESTION_BANKS = {
                        "enunciado":  "Está gramaticalmente aceitável o que se apresenta em:",
                        "alternativas":  {
                                             "a":  "I, apenas",
-                                            "b":  "III, apenas",
-                                            "c":  "I e II, apenas",
+                                            "b":  "I e II, apenas",
+                                            "c":  "II e III, apenas",
                                             "d":  "I e III, apenas",
-                                            "e":  "II e III, apenas"
+                                            "e":  "I, II e III"
                                         },
                        "resposta":  "d",
                        "explicacao":  "\"Since + data\" marca o início de uma situação que segue até agora e pede present perfect (I). \"In 2015\" delimita um período encerrado, incompatível com o present perfect (II) e natural com o past simple (III). A armadilha é aceitar II por semelhança com I: a forma verbal é a mesma nas duas, e o que decide é o marcador temporal que vem depois dela.",
@@ -31709,15 +31707,15 @@ window.QUESTION_BANKS = {
                        },
                        {
                            "id":  "matematica-160",
-                           "enunciado":  "Considere as afirmações a seguir sobre determinantes de matrizes quadradas. I. Se uma linha é inteiramente formada por zeros, o determinante é nulo. II. Trocando duas linhas de posição, o determinante muda de sinal. III. O determinante de uma matriz triangular é a soma dos elementos da diagonal principal. Está correto o que se afirma em:",
+                           "enunciado":  "Considere as afirmações a seguir sobre determinantes de matrizes quadradas.\n\nI. Se uma linha é inteiramente formada por zeros, o determinante é nulo.\nII. Trocando duas linhas de posição, o determinante muda de sinal.\nIII. O determinante de uma matriz triangular é a soma dos elementos da diagonal principal.\n\nEstá correto o que se afirma em:",
                            "alternativas":  {
-                                                "a":  "apenas I",
-                                                "b":  "apenas III",
-                                                "c":  "apenas I e III",
-                                                "d":  "apenas I e II",
+                                                "a":  "I, apenas",
+                                                "b":  "I e II, apenas",
+                                                "c":  "II e III, apenas",
+                                                "d":  "I e III, apenas",
                                                 "e":  "I, II e III"
                                             },
-                           "resposta":  "d",
+                           "resposta":  "b",
                            "explicacao":  "I é verdadeira: todo termo do desenvolvimento contém um fator daquela linha, e todos se anulam. II é verdadeira: cada troca de filas paralelas inverte o sinal do determinante. III é falsa — na matriz triangular o determinante é o produto, e não a soma, dos elementos da diagonal principal. Marcar (e) é o deslize de quem lembra da regra da triangular mas troca produto por soma.",
                            "formato":  "escada"
                        },
@@ -32029,15 +32027,15 @@ window.QUESTION_BANKS = {
                        },
                        {
                            "id":  "matematica-182",
-                           "enunciado":  "Considere o sistema formado pelas equações x + y = 5 e 2x + 2y = 10 e as afirmações a seguir. I. O sistema é possível e determinado. II. O par (2, 3) é solução do sistema. III. As duas equações representam a mesma reta. Está correto o que se afirma em:",
+                           "enunciado":  "Considere o sistema formado pelas equações x + y = 5 e 2x + 2y = 10 e as afirmações a seguir.\n\nI. O sistema é possível e determinado.\nII. O par (2, 3) é solução do sistema.\nIII. As duas equações representam a mesma reta.\n\nEstá correto o que se afirma em:",
                            "alternativas":  {
-                                                "a":  "apenas I",
-                                                "b":  "apenas II",
-                                                "c":  "apenas I e III",
-                                                "d":  "apenas II e III",
+                                                "a":  "I, apenas",
+                                                "b":  "I e II, apenas",
+                                                "c":  "II e III, apenas",
+                                                "d":  "I e III, apenas",
                                                 "e":  "I, II e III"
                                             },
-                           "resposta":  "d",
+                           "resposta":  "c",
                            "explicacao":  "A segunda equação é o dobro da primeira, então há uma única reta e infinitas soluções: I é falsa e III é verdadeira. O par (2, 3) satisfaz as duas equações, o que torna II verdadeira — mas ele é apenas uma entre infinitas soluções. Quem marca (e) aceita I por reflexo, supondo que exibir uma solução implique que ela seja a única.",
                            "formato":  "escada"
                        },
@@ -32173,15 +32171,15 @@ window.QUESTION_BANKS = {
                        },
                        {
                            "id":  "matematica-192",
-                           "enunciado":  "Considere as afirmações a seguir sobre matrizes quadradas de mesma ordem, em que I representa a matriz identidade. I. A·I = I·A = A, qualquer que seja a matriz A. II. Se o produto A·B é a matriz nula, então A é nula ou B é nula. III. A transposta do produto A·B é igual ao produto da transposta de B pela transposta de A. Está correto o que se afirma em:",
+                           "enunciado":  "Considere as afirmações a seguir sobre matrizes quadradas de mesma ordem, em que I representa a matriz identidade.\n\nI. A·I = I·A = A, qualquer que seja a matriz A.\nII. Se o produto A·B é a matriz nula, então A é nula ou B é nula.\nIII. A transposta do produto A·B é igual ao produto da transposta de B pela transposta de A.\n\nEstá correto o que se afirma em:",
                            "alternativas":  {
-                                                "a":  "apenas I",
-                                                "b":  "apenas I e II",
-                                                "c":  "apenas I e III",
-                                                "d":  "apenas II e III",
+                                                "a":  "I, apenas",
+                                                "b":  "I e II, apenas",
+                                                "c":  "II e III, apenas",
+                                                "d":  "I e III, apenas",
                                                 "e":  "I, II e III"
                                             },
-                           "resposta":  "c",
+                           "resposta":  "d",
                            "explicacao":  "A identidade é o elemento neutro da multiplicação, o que valida a primeira afirmação, e a transposta de um produto inverte a ordem dos fatores, o que valida a terceira. A segunda é falsa: com A = [1 0; 0 0] e B = [0 0; 0 1], notação em que o ponto e vírgula separa as linhas, o produto é a matriz nula sem que nenhum dos fatores seja nulo. Marcar (e) é transportar para as matrizes uma regra dos números reais que não sobrevive à mudança de contexto.",
                            "formato":  "escada"
                        },
@@ -32511,12 +32509,12 @@ window.QUESTION_BANKS = {
                            "enunciado":  "Um comitê será formado escolhendo-se 3 pessoas de um grupo de 6. Analise as afirmações.\nI. Se os três escolhidos ocuparem cargos distintos, há 120 escolhas possíveis.\nII. Se não houver cargos, há 20 escolhas possíveis.\nIII. O número de escolhas com cargos é o dobro do número de escolhas sem cargos.\nEstá correto o que se afirma em:",
                            "alternativas":  {
                                                 "a":  "I, apenas",
-                                                "b":  "II, apenas",
-                                                "c":  "I e III, apenas",
-                                                "d":  "I e II, apenas",
+                                                "b":  "I e II, apenas",
+                                                "c":  "II e III, apenas",
+                                                "d":  "I e III, apenas",
                                                 "e":  "I, II e III"
                                             },
-                           "resposta":  "d",
+                           "resposta":  "b",
                            "explicacao":  "Com cargos é arranjo: A(6,3) = 6 x 5 x 4 = 120, e I está correta. Sem cargos é combinação: C(6,3) = 120 ÷ 6 = 20, e II também. A III é a armadilha: a razão entre os dois números não é 2, e sim 3! = 6, porque cada conjunto de três pessoas pode ser distribuído nos três cargos de seis maneiras diferentes.",
                            "formato":  "escada",
                            "dificuldade":  "media"
@@ -32628,12 +32626,12 @@ window.QUESTION_BANKS = {
                            "enunciado":  "Considere a circunferência de equação (x − 1)² + (y − 2)² = 25 e as afirmações a seguir.\nI. O ponto P(4, 6) pertence à circunferência.\nII. O ponto Q(−2, 0) é exterior à circunferência.\nIII. O ponto R(6, 6) é exterior à circunferência.\nEstá correto o que se afirma em:",
                            "alternativas":  {
                                                 "a":  "I, apenas",
-                                                "b":  "I e III, apenas",
-                                                "c":  "I e II, apenas",
-                                                "d":  "II e III, apenas",
+                                                "b":  "I e II, apenas",
+                                                "c":  "II e III, apenas",
+                                                "d":  "I e III, apenas",
                                                 "e":  "I, II e III"
                                             },
-                           "resposta":  "b",
+                           "resposta":  "d",
                            "explicacao":  "O centro é (1, 2) e o raio, 5. Para P: d² = 3² + 4² = 25, então d = 5 e o ponto está sobre a curva, e I é correta. Para Q: d² = (−3)² + (−2)² = 13, e como 13 \u003c 25 o ponto é interior, o que torna II falsa. Para R: d² = 5² + 4² = 41 \u003e 25, logo é exterior e III é correta. A armadilha está em julgar a posição pelo aspecto das coordenadas: Q parece distante por ter valores negativos, mas está dentro da circunferência.",
                            "formato":  "escada",
                            "dificuldade":  "dificil"
@@ -32903,13 +32901,13 @@ window.QUESTION_BANKS = {
                            "id":  "matematica-242",
                            "enunciado":  "Considere a sequência 3, 6, 12, 24, ... e as afirmações a seguir.\nI. Trata-se de uma progressão geométrica de razão 2.\nII. O sétimo termo é 192.\nIII. A soma dos seis primeiros termos é 192.\nEstá correto o que se afirma em:",
                            "alternativas":  {
-                                                "a":  "I e II, apenas",
-                                                "b":  "I, apenas",
+                                                "a":  "I, apenas",
+                                                "b":  "I e II, apenas",
                                                 "c":  "II e III, apenas",
                                                 "d":  "I e III, apenas",
                                                 "e":  "I, II e III"
                                             },
-                           "resposta":  "a",
+                           "resposta":  "b",
                            "explicacao":  "Cada termo é o dobro do anterior, então I é correta. O sétimo termo é 3 x 2⁶ = 192, e II também. A soma dos seis primeiros é 3 x (2⁶ − 1) ÷ (2 − 1) = 3 x 63 = 189, e não 192: III é falsa. A armadilha é exatamente essa proximidade — numa progressão geométrica de razão 2, a soma dos n primeiros termos é o termo seguinte menos o primeiro, isto é, 192 − 3 = 189.",
                            "formato":  "escada",
                            "dificuldade":  "media"
@@ -35513,15 +35511,15 @@ window.QUESTION_BANKS = {
                     {
                         "id":  "quimica-156",
                         "texto_apoio":  "Um catalisador é adicionado a um sistema gasoso fechado no qual a reação ainda não atingiu o equilíbrio.",
-                        "enunciado":  "Analise as afirmações a respeito do efeito dessa adição. I. O catalisador aumenta igualmente as velocidades das reações direta e inversa. II. O catalisador aumenta a quantidade de produto presente quando o equilíbrio for atingido. III. O catalisador faz o sistema alcançar o equilíbrio em menos tempo. Está correto o que se afirma em:",
+                        "enunciado":  "Analise as afirmações a respeito do efeito dessa adição.\n\nI. O catalisador aumenta igualmente as velocidades das reações direta e inversa.\nII. O catalisador aumenta a quantidade de produto presente quando o equilíbrio for atingido.\nIII. O catalisador faz o sistema alcançar o equilíbrio em menos tempo.\n\nEstá correto o que se afirma em:",
                         "alternativas":  {
-                                             "a":  "I, apenas.",
-                                             "b":  "II, apenas.",
-                                             "c":  "I e III, apenas.",
-                                             "d":  "II e III, apenas.",
-                                             "e":  "I, II e III."
+                                             "a":  "I, apenas",
+                                             "b":  "I e II, apenas",
+                                             "c":  "II e III, apenas",
+                                             "d":  "I e III, apenas",
+                                             "e":  "I, II e III"
                                          },
-                        "resposta":  "c",
+                        "resposta":  "d",
                         "explicacao":  "O catalisador oferece um caminho de menor energia de ativação, e esse caminho é o mesmo nos dois sentidos: as duas velocidades crescem na mesma proporção (I correta) e o equilíbrio é alcançado antes (III correta). Justamente por afetar igualmente os dois sentidos, ele não altera o valor de Kc nem as concentrações finais, o que torna II falsa. Marcar (e) é o erro de quem confunde chegar mais rápido ao equilíbrio com produzir mais.",
                         "formato":  "escada"
                     },
@@ -36073,15 +36071,15 @@ window.QUESTION_BANKS = {
                     {
                         "id":  "quimica-192",
                         "texto_apoio":  "A lei de Hess permite calcular a variação de entalpia de uma reação a partir de equações termoquímicas conhecidas, combinadas convenientemente.",
-                        "enunciado":  "Analise as afirmações a seguir. I. A variação de entalpia de uma reação depende apenas dos estados inicial e final, e não do número de etapas percorridas. II. Ao inverter uma equação termoquímica, o valor de ΔH mantém o módulo e troca de sinal. III. Ao multiplicar por dois todos os coeficientes de uma equação, o valor de ΔH permanece o mesmo. Está correto o que se afirma em:",
+                        "enunciado":  "Analise as afirmações a seguir.\n\nI. A variação de entalpia de uma reação depende apenas dos estados inicial e final, e não do número de etapas percorridas.\nII. Ao inverter uma equação termoquímica, o valor de ΔH mantém o módulo e troca de sinal.\nIII. Ao multiplicar por dois todos os coeficientes de uma equação, o valor de ΔH permanece o mesmo.\n\nEstá correto o que se afirma em:",
                         "alternativas":  {
-                                             "a":  "I, apenas.",
-                                             "b":  "II, apenas.",
-                                             "c":  "I e III, apenas.",
-                                             "d":  "I e II, apenas.",
-                                             "e":  "I, II e III."
+                                             "a":  "I, apenas",
+                                             "b":  "I e II, apenas",
+                                             "c":  "II e III, apenas",
+                                             "d":  "I e III, apenas",
+                                             "e":  "I, II e III"
                                          },
-                        "resposta":  "d",
+                        "resposta":  "b",
                         "explicacao":  "As afirmações I e II descrevem o comportamento da entalpia como função de estado: o caminho é irrelevante e inverter o processo inverte o sinal do calor trocado. A afirmação III é falsa, porque ΔH é grandeza extensiva, proporcional à quantidade de matéria — dobrar os coeficientes dobra o valor. Marcar (e) é o erro de quem trata ΔH como uma propriedade fixa da reação, esquecendo que ele se refere às quantidades escritas naquela equação.",
                         "formato":  "escada"
                     },
@@ -36197,13 +36195,13 @@ window.QUESTION_BANKS = {
                     {
                         "id":  "quimica-200",
                         "texto_apoio":  "Três substâncias sólidas foram submetidas a testes de ponto de fusão e de condutividade elétrica. A substância X funde a 801 °C, não conduz corrente no estado sólido e conduz quando fundida. A substância Y funde a 1 083 °C e conduz corrente tanto no estado sólido quanto quando fundida. A substância Z funde a −23 °C e não conduz corrente em nenhuma das duas condições.",
-                        "enunciado":  "Analise as afirmações. I. X é um composto iônico, e sua condutividade após a fusão decorre da liberação dos íons antes presos ao retículo. II. Y é um metal, cujos elétrons deslocalizados conduzem corrente já no estado sólido. III. Z é uma substância molecular, mantida no estado sólido por forças intermoleculares fracas. Está correto o que se afirma em:",
+                        "enunciado":  "Analise as afirmações.\n\nI. X é um composto iônico, e sua condutividade após a fusão decorre da liberação dos íons antes presos ao retículo.\nII. Y é um metal, cujos elétrons deslocalizados conduzem corrente já no estado sólido.\nIII. Z é uma substância molecular, mantida no estado sólido por forças intermoleculares fracas.\n\nEstá correto o que se afirma em:",
                         "alternativas":  {
-                                             "a":  "I, apenas.",
-                                             "b":  "I e II, apenas.",
-                                             "c":  "II e III, apenas.",
-                                             "d":  "I e III, apenas.",
-                                             "e":  "I, II e III."
+                                             "a":  "I, apenas",
+                                             "b":  "I e II, apenas",
+                                             "c":  "II e III, apenas",
+                                             "d":  "I e III, apenas",
+                                             "e":  "I, II e III"
                                          },
                         "resposta":  "e",
                         "explicacao":  "Sólidos iônicos têm ponto de fusão alto e só conduzem quando os íons ganham mobilidade, na fusão ou em solução aquosa: é o caso de X. Metais conduzem já no estado sólido, porque os elétrons de valência são deslocalizados: é o caso de Y. Substâncias moleculares fundem em temperatura baixa e não têm portadores de carga livres: é o caso de Z. A armadilha está em ler não conduz no estado sólido e concluir de imediato molecular, o que confundiria X com Z e levaria a descartar a afirmação I.",

@@ -1,5 +1,5 @@
 {
-  "composto": "2026-08-09",
+  "composto": "2026-08-10",
   "total": 2922,
   "origem": {
     "direito/interpretacao-texto": "dfa2c9939c15",
@@ -7,9 +7,9 @@
     "direito/gramatica": "839d70231ce9",
     "direito/ingles": "d11ede3436a2",
     "direito/matematica-rlm": "3fbaa7daac49",
-    "medicina/matematica": "6b7e8576fde2",
-    "direito/historia-brasil": "3eccdbcc6c5c",
-    "direito/historia-geral": "94d4fbd105cf",
+    "medicina/matematica": "f33aff71e10b",
+    "direito/historia-brasil": "e28a972c2aa7",
+    "direito/historia-geral": "979971270291",
     "direito/geografia": "32d3cc9ff2e0",
     "direito/filosofia-sociologia": "feda856efa6e",
     "direito/direitos-humanos": "fd7bc51928c0",
@@ -17,8 +17,8 @@
     "direito/atualidades-geopolitica": "27d19388be49",
     "direito/atualidades-meioambiente": "fe79fed6e5f8",
     "direito/atualidades-tecnologia": "01e020799744",
-    "medicina/biologia": "fe0fffba715d",
-    "medicina/quimica": "111761744c0e",
-    "medicina/fisica": "75ff9b4e3823"
+    "medicina/biologia": "73b70af567e8",
+    "medicina/quimica": "fa6047cbeb20",
+    "medicina/fisica": "fe2f3b37036b"
   }
 }

@@ -41,6 +41,24 @@
   "firestore": {
     "rules": "vestibular-direito-v2/firestore.rules.local"
   },
+  "_comentario_functions": [
+    "O UNICO servidor deste projeto: o webhook de pagamento (ver functions/index.js).",
+    "",
+    "A partir daqui existem DOIS alvos de deploy, e eles nao sobem juntos:",
+    "  app     git push        -> GitHub Pages",
+    "  funcao  firebase deploy --only functions",
+    "",
+    "Mexeu so no app? git push basta. Mexeu na funcao? o push NAO a publica."
+  ],
+  "functions": {
+    "source": "functions",
+    "ignore": [
+      "node_modules",
+      ".git",
+      "firebase-debug.log",
+      "firebase-debug.*.log"
+    ]
+  },
   "hosting": {
     "public": "public",
     "ignore": [

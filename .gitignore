@@ -39,3 +39,8 @@ output/
 # de bootstrap do painel) e salvar como .local. E o arquivo que o firebase.json
 # manda para o deploy.
 *.rules.local
+
+# Dependencias da funcao. O package-lock.json ENTRA no repo (e ele que trava as
+# versoes que foram para producao); a pasta instalada, nao -- o `firebase deploy`
+# reinstala a partir do lock.
+functions/node_modules/

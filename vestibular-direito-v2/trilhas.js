@@ -207,16 +207,26 @@
     // forçando localStorage.setItem("v2_trilha", "economia") no console.
     //
     // O QUE FALTA PARA LIGAR, na ordem em que trava:
-    //   flashcards, redacoes
+    //   flashcards
     // Já existem: subtopics.js, priority-weights.js, bundle.js (composto dos
-    // outros dois bancos por vestibular-economia/build-bundle.js), theory.js e
-    // video-topics.js (compostos do que já existe em Direito e Medicina, pelo
-    // mesmo motivo, com as cinco frentes de Matemática — e mais Natureza e
-    // Literatura, na teoria — escritas à mão dentro dos builds; não havia o que
-    // copiar para elas). E dissertativas-matematica.js, com 150 questões
-    // autorais mais 3 reais — este NÃO entra em `arquivos` porque escreve
-    // window.DISSERTATIVAS_EXATAS, um global próprio, lido pelo renderizador de
+    // outros dois bancos por vestibular-economia/build-bundle.js), theory.js,
+    // video-topics.js e redacoes.js (compostos do que já existe em Direito e
+    // Medicina, pelo mesmo motivo, com o que não tinha de onde copiar escrito à
+    // mão dentro dos builds: as cinco frentes de Matemática e mais Natureza e
+    // Literatura na teoria, e 20 propostas novas nas redações — ver abaixo). E
+    // dissertativas-matematica.js, com 150 questões autorais mais 3 reais —
+    // este NÃO entra em `arquivos` porque escreve window.DISSERTATIVAS_EXATAS,
+    // um global próprio, lido pelo renderizador de
     // vestibular-economia/dissertativa-exatas.js e não pelo app.js.
+    //
+    // AS REDAÇÕES são as ÚNICAS das quatro composições em que a herança entra
+    // sem tradução nenhuma: o repertório de Direito não muda de comando aqui,
+    // porque a FGV e o Insper cobram desta trilha exatamente o formato que
+    // `comando` e `comandoInsper` de lá já descrevem (ver redacaoUI abaixo). As
+    // 60 propostas entram intactas; 20 novas (redacao-61 a redacao-80, dez
+    // "entre X e Y" e dez "tema abstrato") ancoram a trilha em tensão
+    // econômica real — política monetária, guerra fiscal, crédito consignado,
+    // informalidade — sem repetir tema já coberto do lado de Direito.
     //
     // A teoria e o vídeo do dia GIRAM PELO MESMO ÍNDICE (pickLessonVideo e
     // renderTheoryBlockHtml usam os dois (visitNumber - 1) % tamanho), e é isso
@@ -226,13 +236,14 @@
     // outras duas trilhas o alinhamento é curadoria, e desalinhado não aparece
     // erro nenhum na tela.
     //
-    // A teoria nunca foi exercitada na tela: enquanto os três arquivos acima
-    // faltarem, carregar() rejeita antes de qualquer render, e não há como abrir
-    // um dia de Economia no navegador. O que está conferido é que o build recusa
-    // bloco sem resumo, sem gatilhos, sem pegadinhas ou com subtema incompleto —
-    // exatamente os campos que renderTheorySubtemaHtml dereferencia sem
-    // defender — e que o arquivo carrega num navegador de verdade com as 20
-    // frentes. Quem ligar a trilha vê a teoria pela primeira vez.
+    // Teoria e redações nunca foram exercitadas na tela: enquanto flashcards
+    // faltar, carregar() rejeita antes de qualquer render, e não há como abrir
+    // um dia de Economia no navegador. O que está conferido é que os dois
+    // builds recusam bloco incompleto — a teoria, campo por campo (ver o
+    // comentário de build-theory.js); as redações, id repetido, tema repetido,
+    // menos de 4 textos de apoio ou modelo fora do prometido — e que os dois
+    // arquivos carregam num navegador de verdade. Quem ligar a trilha vê os
+    // dois pela primeira vez.
     //
     // A BUSCA JÁ ESTÁ PRONTA para esta trilha, e não estava: as CINCO frentes de
     // Matemática daqui não existiam no dicionário de assuntos.js, que aponta para

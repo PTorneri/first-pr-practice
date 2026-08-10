@@ -1,0 +1,19 @@
+{
+  "composto": "2026-08-10",
+  "total": 80,
+  "herdadas": 60,
+  "novas": 20,
+  "porModelo": {
+    "pergunta binária": 23,
+    "pergunta disjuntiva": 7,
+    "entre X e Y": 19,
+    "a quem cabe": 4,
+    "frase-provocação": 3,
+    "tema abstrato": 16,
+    "caso concreto": 3,
+    "tema-afirmação": 5
+  },
+  "origem": {
+    "direito/redacoes": "7af1aa6bc7bd"
+  }
+}

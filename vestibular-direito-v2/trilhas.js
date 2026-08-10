@@ -207,13 +207,24 @@
     // forçando localStorage.setItem("v2_trilha", "economia") no console.
     //
     // O QUE FALTA PARA LIGAR, na ordem em que trava:
-    //   theory, flashcards, video-topics, redacoes
-    // Já existem: subtopics.js, bundle.js (composto dos outros dois bancos por
-    // vestibular-economia/build-bundle.js) e priority-weights.js. E
-    // dissertativas-matematica.js, com 150 questões autorais mais 3 reais — este
-    // NÃO entra em `arquivos` porque escreve window.DISSERTATIVAS_EXATAS, um
-    // global próprio, lido pelo renderizador de
+    //   flashcards, video-topics, redacoes
+    // Já existem: subtopics.js, priority-weights.js, bundle.js (composto dos
+    // outros dois bancos por vestibular-economia/build-bundle.js) e theory.js
+    // (composto do theory.js de Direito, pelo mesmo motivo, com as cinco frentes
+    // de Matemática, as três de Natureza e Literatura escritas à mão dentro de
+    // vestibular-economia/build-theory.js — não havia o que copiar para elas).
+    // E dissertativas-matematica.js, com 150 questões autorais mais 3 reais —
+    // este NÃO entra em `arquivos` porque escreve window.DISSERTATIVAS_EXATAS,
+    // um global próprio, lido pelo renderizador de
     // vestibular-economia/dissertativa-exatas.js e não pelo app.js.
+    //
+    // A teoria nunca foi exercitada na tela: enquanto os três arquivos acima
+    // faltarem, carregar() rejeita antes de qualquer render, e não há como abrir
+    // um dia de Economia no navegador. O que está conferido é que o build recusa
+    // bloco sem resumo, sem gatilhos, sem pegadinhas ou com subtema incompleto —
+    // exatamente os campos que renderTheorySubtemaHtml dereferencia sem
+    // defender — e que o arquivo carrega num navegador de verdade com as 20
+    // frentes. Quem ligar a trilha vê a teoria pela primeira vez.
     //
     // A BUSCA JÁ ESTÁ PRONTA para esta trilha, e não estava: as CINCO frentes de
     // Matemática daqui não existiam no dicionário de assuntos.js, que aponta para

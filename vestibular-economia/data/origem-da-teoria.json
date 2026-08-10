@@ -1,0 +1,20 @@
+{
+  "composto": "2026-08-10",
+  "frentes": 20,
+  "compostas": 11,
+  "autorais": [
+    "literatura",
+    "matematica-sequencias",
+    "matematica-probabilidade",
+    "matematica-algebra",
+    "matematica-geometria",
+    "matematica-financeira",
+    "biologia",
+    "quimica",
+    "fisica"
+  ],
+  "origem": {
+    "direito/theory": "6bd81921ef20",
+    "medicina/theory": "3a1d741c0ae0"
+  }
+}

@@ -1,0 +1,1311 @@
+// GERADO por vestibular-economia/build-theory.js -- nao edite a mao.
+// Teoria por frente da trilha de Economia.
+//
+// Onze frentes sao COMPOSTAS de vestibular-direito/data/theory.js: a prova
+// objetiva do dia 1 da FGV EESP e o mesmo caderno da FGV Direito SP, entao a
+// teoria de formato de item da banca vale palavra por palavra nas duas trilhas.
+// Historia soma as duas Historias de la, que aqui sao uma frente so.
+//
+// Nove sao escritas a mao dentro do build (as cinco de Matematica, as tres de
+// Ciencias da Natureza e Literatura), porque nao havia o que copiar: Matematica
+// vale 40% aqui e 10% em Direito, a Natureza da EESP e objetiva pura enquanto a
+// de Medicina e calibrada em discursiva de VUNESP e FUVEST, e nenhuma das duas
+// trilhas tem teoria de literatura sem lista de leitura obrigatoria.
+//
+// Corrigiu a teoria da trilha de origem? Rode o build de novo.
+// `--verificar` reprova quando alguma fonte mudou e este arquivo nao.
+window.THEORY = {
+  "interpretacao-texto": {
+    "resumo": "A banca cobra leitura crítica, não decoreba: ideia central, relação entre parágrafos, função de conectivos e a diferença entre \"o que o texto diz\" e \"o que se pode inferir dele\".",
+    "gatilhos": [
+      "\"Qual a ideia central/tese do texto?\" → releia o último parágrafo antes de decidir; ele costuma retomar/resumir a tese.",
+      "\"De acordo com o texto...\" → a resposta precisa ter base literal no texto; elimine alternativas plausíveis mas não sustentadas por ele.",
+      "Pergunta sobre a função de um conectivo (mas, portanto, embora, contudo) → identifique a relação lógica (oposição, conclusão, concessão) antes de olhar as alternativas.",
+      "\"Sentido conotativo/figurado de uma palavra no texto\" → substitua mentalmente a palavra pelo sentido literal e veja se o parágrafo ainda faz sentido; se sim, é conotativo.",
+      "Pergunta sobre o público-alvo ou veículo de publicação do texto → observe o registro de linguagem (formal/informal) e referências temporais/culturais.",
+      "Texto-base muito curto (1 parágrafo ou até uma frase só) → não espere confirmação redundante; a banca testa se você capta a relação lógica implícita num espaço mínimo de texto.",
+      "Pedido de reescrita/equivalência semântica (\"pode ser reescrito, sem alteração de sentido, por\") → cuidado com reformulações que trocam uma relação de concessão por uma de causa — é o erro mais citado nesse formato."
+    ],
+    "pegadinhas": [
+      "Alternativa que repete palavras do texto mas inverte a relação de causa e efeito.",
+      "Alternativa \"quase certa\" que generaliza demais algo que o texto disse com ressalvas.",
+      "Confundir a opinião do autor com a opinião de uma voz citada dentro do texto (discurso indireto ou citação).",
+      "Escolher a alternativa mais \"bem escrita\" em vez da mais fiel ao texto — a banca testa fidelidade, não estilo.",
+      "Quando o texto de apoio é curto e denso, a banca não dá \"sobra\" de informação — cada frase carrega peso; não descarte um detalhe por parecer secundário."
+    ],
+    "subtemas": [
+      {
+        "tema": "Interpretação de notícias e artigos de opinião",
+        "resumo": "Notícias relatam fatos com atribuição de fonte, buscando (idealmente) minimizar a intenção autoral aparente; artigos de opinião/editoriais defendem uma tese explícita, misturando fato verificável com juízo de valor. A habilidade central é identificar em que ponto exato um texto deixa de relatar e passa a argumentar.",
+        "gatilhos": [
+          "Texto é uma notícia (não opinião) → busque o \"lide\" (quem, o quê, quando, onde, por quê) nos primeiros parágrafos; a tese, se houver, é do fato relatado, não do jornalista.",
+          "Texto é artigo de opinião/editorial → identifique a tese defendida logo no início ou fim, e separe fato (dado verificável) de opinião (juízo de valor) linha a linha.",
+          "Pergunta sobre \"intenção\" do autor de uma notícia → cuidado: notícia bem escrita minimiza intenção autoral aparente; se o enunciado sugere forte intenção, provavelmente é texto de opinião disfarçado de notícia."
+        ],
+        "pegadinhas": [
+          "Tratar toda afirmação dentro de uma notícia como opinião do jornalista — pode ser fala atribuída a uma fonte citada, não posição do veículo.",
+          "Confundir manchete (resumo/chamariz) com a tese completa do texto — a manchete simplifica, às vezes de forma enganosa."
+        ],
+        "exemplo": {
+          "enunciado": "Uma reportagem descreve, com dados de uma pesquisa oficial, o aumento do desemprego em determinado setor, sem emitir juízo de valor sobre as causas. Um artigo de opinião publicado no dia seguinte, no mesmo veículo, defende que esse aumento é consequência direta de uma política econômica específica. A diferença central entre os dois textos está em:",
+          "resolucao": "A reportagem se limita a relatar um dado verificável (aumento do desemprego) sem julgar suas causas — função informativa. O artigo de opinião vai além: atribui uma causa específica e defende essa interpretação — função argumentativa. A resposta correta identifica essa diferença de função textual (informar vs. argumentar); a pegadinha comum é achar que o texto de opinião é menos confiável só por ser opinativo — não é isso que a banca testa aqui."
+        }
+      },
+      {
+        "tema": "Argumentação e tipos de argumento em textos",
+        "resumo": "Tipos de argumento recorrentes: de autoridade (citar especialista/dado), por exemplo/ilustração (usar um caso pra sustentar afirmação geral) e por analogia (comparar duas situações). Reconhecer o TIPO de argumento usado ajuda a identificar sua força ou fragilidade, algo frequentemente cobrado.",
+        "gatilhos": [
+          "Texto cita um especialista ou instituição pra sustentar um ponto → é argumento de autoridade; questione se a autoridade citada é pertinente ao tema, não só \"famosa\".",
+          "Texto usa um caso específico pra sustentar uma afirmação geral → é argumento por exemplo/ilustração; verifique se o caso é realmente representativo ou é exceção isolada.",
+          "Texto compara duas situações pra defender um ponto → é argumento por analogia; a força do argumento depende de quão semelhantes as duas situações realmente são."
+        ],
+        "pegadinhas": [
+          "Aceitar automaticamente um argumento de autoridade sem verificar se a autoridade citada tem relação com o tema específico do texto.",
+          "Confundir argumento por exemplo (um caso ilustrando uma tese já colocada) com generalização apressada (tirar uma regra geral de um único caso, sem essa tese prévia)."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto defende que um determinado modelo de gestão pública é eficiente citando o caso de uma única cidade que o adotou com sucesso, sem mencionar outros exemplos ou dados mais amplos. Essa estratégia argumentativa é mais bem descrita como:",
+          "resolucao": "O texto sustenta uma afirmação de alcance geral (o modelo é eficiente) usando apenas um caso particular como evidência — argumento por exemplo/ilustração usado de forma frágil: um único caso não comprova eficácia geral, é apenas um indício. A resposta correta reconhece o tipo de argumento e sua fragilidade lógica; a pegadinha é tratar o argumento como \"comprovação\" só porque há um caso real citado."
+        }
+      },
+      {
+        "tema": "Interpretação de textos publicitários e persuasivos",
+        "resumo": "Textos publicitários usam técnicas específicas: apelo emocional, informação incompleta destacando só benefícios, linguagem figurada (hipérbole, duplo sentido). A habilidade central é separar a técnica persuasiva da afirmação factual por trás dela.",
+        "gatilhos": [
+          "Texto publicitário com apelo emocional explícito (medo, desejo, pertencimento) → identifique a emoção-alvo e o que ela tenta fazer você aceitar sem checar dados.",
+          "Slogan com duplo sentido ou trocadilho → não pare no sentido literal; a eficácia está na ambiguidade proposital entre dois significados.",
+          "Texto que promove um produto/ideia listando só vantagens → desconfie de omissão seletiva; pergunte o que NÃO está sendo dito."
+        ],
+        "pegadinhas": [
+          "Tratar linguagem publicitária figurada (hipérbole, metáfora) como afirmação literal a ser julgada como verdadeira ou falsa.",
+          "Ignorar o público-alvo implícito de uma peça publicitária — o mesmo produto é vendido com argumentos diferentes pra públicos diferentes."
+        ],
+        "exemplo": {
+          "enunciado": "Uma peça publicitária de um banco apresenta a frase \"Sua liberdade financeira começa aqui\", associada a imagens de uma pessoa viajando sozinha. O texto não menciona taxas, juros ou condições do produto anunciado. Essa construção ilustra, principalmente:",
+          "resolucao": "O anúncio usa apelo emocional (liberdade, autonomia) associado a uma imagem aspiracional, sem fornecer informação factual sobre o produto — a técnica clássica de vender uma sensação, não especificações técnicas. A resposta correta identifica o apelo emocional combinado à omissão seletiva de informação; a pegadinha é tratar a frase como uma promessa literal e objetiva a ser avaliada por sua veracidade financeira."
+        }
+      },
+      {
+        "tema": "Leitura de textos científicos de divulgação",
+        "resumo": "Textos de divulgação científica simplificam achados de pesquisa para um público geral, às vezes exagerando ou distorcendo nuances do estudo original. A habilidade central é distinguir o que a pesquisa de fato encontrou (frequentemente correlação) do que a versão popularizada afirma (às vezes causalidade indevida).",
+        "gatilhos": [
+          "Texto de divulgação científica cita \"um estudo mostrou que...\" → preste atenção à diferença entre correlação (dois fatores aparecem juntos) e causalidade (um causa o outro) — é a pegadinha mais comum nesse gênero.",
+          "Texto usa dado numérico de uma pesquisa → confira se o texto está generalizando um resultado específico (uma amostra, um contexto) pra uma conclusão ampla demais.",
+          "Comparação entre \"o que a pesquisa disse\" e \"o que a manchete/resumo popular disse\" → é comum a versão popularizada simplificar ou distorcer uma nuance do estudo original."
+        ],
+        "pegadinhas": [
+          "Tratar toda afirmação de um texto de divulgação científica como cientificamente comprovada sem checar se o texto está de fato citando causalidade ou só correlação.",
+          "Assumir que um resultado obtido numa amostra pequena/específica se aplica automaticamente à população em geral."
+        ],
+        "exemplo": {
+          "enunciado": "Uma reportagem de divulgação científica afirma: \"pesquisa relaciona consumo de determinado alimento a menor incidência de uma doença\" e conclui, no título, que \"comer esse alimento previne a doença\". O texto da pesquisa original, porém, menciona apenas uma associação estatística observada, sem mecanismo causal comprovado. Essa diferença entre título e pesquisa ilustra:",
+          "resolucao": "O título transforma uma correlação estatística em uma afirmação causal (\"previne\"), o que a pesquisa original não afirma. A resposta correta reconhece esse salto indevido de correlação para causalidade, comum em textos de divulgação científica que simplificam pra ganhar apelo de manchete; a pegadinha é aceitar a conclusão do título como cientificamente estabelecida só porque cita \"uma pesquisa\" como fonte."
+        }
+      }
+    ]
+  },
+  "literatura": {
+    "resumo": "Não há lista de leitura obrigatória nesta trilha — o edital da EESP não traz nenhuma. A literatura cai dentro das 15 objetivas de Língua Portuguesa, e o que se cobra é reconhecer a escola pelo traço do texto, não ter lido o livro: em 2026.1, nove das quinze objetivas de Português saíram de dois romances, com o trecho inteiro impresso na prova.",
+    "gatilhos": [
+      "Trecho longo de romance do século XIX com descrição minuciosa de ambiente e de temperamento → Realismo/Naturalismo; procure o narrador que analisa a personagem em vez de acompanhá-la.",
+      "Narrador que conversa com o leitor, interrompe a própria história ou ironiza o que acabou de contar → Machado; o traço é a quebra da ilusão narrativa, não o tema.",
+      "Texto com sintaxe quebrada, coloquialismo deliberado ou humor com a língua → Modernismo de 22; a marca é a ruptura formal, e ela aparece antes de qualquer tema nacional.",
+      "Pergunta que pede a \"escola literária\" a partir de um trecho → decida pelo COMO (foco narrativo, sintaxe, adjetivação) e não pelo assunto; miséria urbana aparece em Naturalismo e em 30, e é o tratamento que separa os dois.",
+      "Duas ou três questões seguidas penduradas no mesmo trecho → leia o trecho uma vez com atenção antes de olhar qualquer alternativa; a banca cobra releitura, e o tempo economizado aqui é o que sobra para a Matemática."
+    ],
+    "pegadinhas": [
+      "Responder pelo que se lembra do livro em vez do que está no trecho impresso — a banca imprime justamente para cobrar leitura, e a alternativa \"certa pelo enredo\" costuma ser a errada pelo texto.",
+      "Confundir o narrador com o autor: a opinião dentro do trecho pode ser de uma personagem ou de um narrador não confiável.",
+      "Tratar \"escola literária\" como caixa estanque — obras de transição existem, e a banca escolhe trechos que exibem o traço dominante, não o rótulo puro.",
+      "Gastar tempo de Literatura como se ela valesse o que vale na trilha de Direito. Português inteiro é 15% da nota final da FGV EESP, somando objetiva e discursiva, contra os 40% de Matemática."
+    ]
+  },
+  "gramatica": {
+    "resumo": "Concordância verbal/nominal, regência, crase, pontuação e coesão textual — sempre aplicados a frases de contexto real, não frases soltas de decoreba.",
+    "gatilhos": [
+      "Sujeito composto antes do verbo → concorda no plural; se resumido por \"tudo/nada/ninguém\", o verbo vai para o singular.",
+      "\"a\"/\"à\" antes de palavra feminina → confira a regência do verbo (ele exige \"a\"?) e se há artigo antes do substantivo.",
+      "Vírgula antes de \"que\" → confira se a oração é explicativa (usa vírgula) ou restritiva (sem vírgula) — muda o sentido da frase.",
+      "\"Reescreva mantendo o sentido\" → cuidado com mudança de regência ao trocar o verbo (ex.: \"assistir o filme\" informal vs. \"assistir ao filme\" norma culta).",
+      "Frase com gerúndio expressando algo que ainda vai acontecer (\"vou estar analisando\", \"estarei enviando\") → é gerundismo, considerado incorreto; só é aceito o gerúndio de ação concomitante/simultânea.",
+      "Frase reescrita com \"é que\" no meio (partícula expletiva) → confira se ela desloca indevidamente o foco/ênfase da oração original; a banca testa reconhecer esse deslocamento como estilístico, não como erro automático."
+    ],
+    "pegadinhas": [
+      "Concordância com \"a maioria dos/a maior parte de\" — pode concordar no singular (com o núcleo) ou no plural (com o termo posposto); a banca cobra reconhecer que ambas existem, não decorar uma única regra.",
+      "Crase antes de palavra masculina — nunca ocorre; é a pegadinha mais repetida em provas objetivas.",
+      "Regência distinta entre verbos como \"perceber\" (transitivo direto) e \"aspirar a\" (transitivo indireto), confundida pelo uso oral comum.",
+      "Pontuação de aposto e vocativo — esquecer a vírgula de fechamento quando o aposto está no meio da frase.",
+      "A questão de gramática quase sempre reaproveita o texto-base da questão de interpretação anterior — não trate como tópico isolado; procure o trecho sublinhado ou reescrito dentro do mesmo texto."
+    ],
+    "subtemas": [
+      {
+        "tema": "Concordância verbal e nominal",
+        "resumo": "Concordância verbal (verbo concorda com o sujeito) e nominal (adjetivo/artigo concorda com o substantivo) parecem simples isoladamente, mas são cobradas por meio de estruturas de sujeito mais elaboradas: sujeito composto posposto, substantivo coletivo, expressões partitivas como \"a maioria de\".",
+        "gatilhos": [
+          "Sujeito composto posposto ao verbo (o verbo vem antes) → pode concordar no plural (com todo o sujeito) ou no singular (com o núcleo mais próximo) — ambas as formas existem na norma culta.",
+          "Substantivo coletivo no singular como sujeito (\"a equipe\", \"o grupo\") → o verbo concorda no singular com o coletivo, mesmo se o sentido for de várias pessoas.",
+          "Expressão partitiva (\"a maioria de\", \"grande parte de\") seguida de substantivo plural → o verbo pode concordar tanto com a expressão (singular) quanto com o substantivo plural — a banca testa reconhecer as duas possibilidades."
+        ],
+        "pegadinhas": [
+          "Achar que existe só UMA forma correta de concordância com sujeito composto posposto ou expressão partitiva — a norma culta aceita mais de uma.",
+          "Aplicar a mesma regra de concordância verbal (com o núcleo) à concordância nominal (adjetivo com múltiplos substantivos), que segue lógica própria de gênero/proximidade."
+        ],
+        "exemplo": {
+          "enunciado": "Na frase \"Chegaram ao evento o diretor e sua equipe\", a concordância verbal está correta porque:",
+          "resolucao": "O sujeito composto (\"o diretor e sua equipe\") vem depois do verbo — nessa posição, a norma culta aceita a concordância no plural com o sujeito composto inteiro, reconhecendo os dois elementos coordenados como núcleo somado. A resposta correta identifica que essa é uma das formas aceitas justamente pela posposição do sujeito; a pegadinha seria achar que o verbo deveria concordar obrigatoriamente só com o elemento mais próximo (\"equipe\", singular) — não é obrigatória, é uma alternativa válida também."
+        }
+      },
+      {
+        "tema": "Regência verbal e nominal",
+        "resumo": "Regência define qual preposição (se alguma) liga um verbo ou nome ao seu complemento. Pares clássicos contrastam uso formal e coloquial (\"assistir a\" vs. o coloquial sem preposição), e a regência muda conforme o sentido do verbo (\"aspirar\" desejar × inalar).",
+        "gatilhos": [
+          "Verbo \"assistir\" no sentido de \"ver\" → exige a preposição \"a\" na norma culta (\"assistir ao filme\"), mesmo sendo comum na fala cotidiana omitir a preposição.",
+          "Verbo \"aspirar\" no sentido de \"desejar\" → é transitivo indireto, exige \"a\" (\"aspirar a um cargo\"); no sentido de \"inalar\", é transitivo direto, sem preposição.",
+          "Adjetivo seguido de complemento (\"favorável a\", \"apto para\") → cada adjetivo tem regência própria; não generalize a preposição de um adjetivo pra outro parecido."
+        ],
+        "pegadinhas": [
+          "Aplicar a regência do uso oral/informal (sem preposição) em contexto que exige norma culta — a prova sempre testa o padrão formal.",
+          "Confundir dois sentidos do mesmo verbo que mudam a regência (\"assistir\" ver × ajudar; \"aspirar\" desejar × inalar) e aplicar a regência errada pro sentido do enunciado."
+        ],
+        "exemplo": {
+          "enunciado": "Na frase \"O médico aspira uma vaga na diretoria do hospital\", há um desvio de regência verbal porque, na norma culta, o verbo \"aspirar\" no sentido de \"desejar\" deveria ser seguido de:",
+          "resolucao": "No sentido de \"desejar/almejar\", o verbo \"aspirar\" é transitivo indireto e exige a preposição \"a\" (\"aspira a uma vaga\"), diferente do sentido de \"inalar\", transitivo direto. A frase do enunciado usa o verbo sem a preposição no sentido de desejo, o que é desvio da norma culta. A resposta correta identifica a ausência da preposição \"a\"; a pegadinha é confundir os dois sentidos do verbo e não perceber qual dos dois está sendo usado."
+        }
+      },
+      {
+        "tema": "Uso da crase",
+        "resumo": "Crase é a fusão da preposição \"a\" com o artigo feminino \"a\"/\"as\", marcada pelo acento (à/às); ocorre quando um verbo/expressão exige a preposição \"a\" E a palavra seguinte admite o artigo feminino. Gatilhos comuns: locuções adverbiais femininas, horas, verbos que regem \"a\".",
+        "gatilhos": [
+          "Locução adverbial feminina de tempo/modo (\"à noite\", \"às pressas\", \"à vontade\") → geralmente leva crase, mesmo sem artigo explícito visível — são expressões cristalizadas.",
+          "Antes de palavra masculina → NUNCA há crase; é o teste mais rápido pra descartar a hipótese.",
+          "Antes de verbo no infinitivo → NUNCA há crase (o \"a\" antes de verbo é preposição pura, sem artigo possível)."
+        ],
+        "pegadinhas": [
+          "Colocar crase por \"força do hábito\" antes de qualquer palavra feminina, sem checar se o verbo/expressão realmente exige a preposição \"a\".",
+          "Esquecer que \"à distância\" e horas específicas (\"às 14h\") seguem a mesma lógica de locução feminina, mesmo não parecendo um \"lugar\" clássico com artigo."
+        ],
+        "exemplo": {
+          "enunciado": "Na frase \"Ele se referiu a situação de forma cuidadosa\", falta a crase porque:",
+          "resolucao": "O verbo \"referir-se\" exige a preposição \"a\", e \"situação\" é palavra feminina que admite artigo definido — a fusão da preposição exigida pelo verbo com o artigo feminino produz a crase: \"referiu-se à situação\". A resposta correta identifica os dois requisitos simultâneos (preposição exigida pelo regente + artigo feminino possível no regido); a pegadinha é achar que basta a palavra ser feminina para haver crase, sem checar se o verbo de fato exige a preposição \"a\"."
+        }
+      },
+      {
+        "tema": "Coesão textual e conectivos",
+        "resumo": "Coesão são os elos gramaticais/lexicais que amarram o texto entre frases e parágrafos (pronomes retomando algo, sinônimos evitando repetição, conectivos sinalizando relações lógicas de oposição/causa/adição). É cobrada perguntando a função de um conectivo ou pronome específicos.",
+        "gatilhos": [
+          "Pronome (\"ele\", \"isso\", \"tal fato\") no meio/fim de um parágrafo → identifique exatamente a QUE elemento anterior do texto ele se refere, não assuma pelo contexto geral.",
+          "Conectivo de oposição (\"mas\", \"porém\", \"contudo\", \"no entanto\") → confirme que a segunda oração de fato contraria/restringe a primeira, não apenas acrescenta informação.",
+          "Conectivo de causa/consequência (\"portanto\", \"logo\", \"por isso\") → verifique que a relação lógica é mesmo causal, não apenas uma sequência temporal de fatos."
+        ],
+        "pegadinhas": [
+          "Assumir que um pronome retoma sempre o substantivo mais próximo no texto — às vezes retoma um elemento mais distante, ou a ideia de uma oração inteira.",
+          "Trocar mentalmente um conectivo por outro de sentido parecido sem checar se a relação lógica muda (ex.: trocar \"embora\" (concessão) por \"porque\" (causa) altera completamente o sentido)."
+        ],
+        "exemplo": {
+          "enunciado": "No trecho \"A cidade cresceu rapidamente nas últimas décadas; isso trouxe tanto oportunidades quanto desafios de infraestrutura\", o termo \"isso\" retoma:",
+          "resolucao": "O pronome \"isso\" não se refere a uma palavra isolada da frase anterior, mas à ideia completa expressa por ela — o crescimento rápido da cidade. A resposta correta reconhece que pronomes desse tipo frequentemente retomam uma oração ou fato inteiro, não um substantivo específico; a pegadinha é tentar encaixar \"isso\" numa única palavra do texto, perdendo a retomada da ideia como um todo."
+        }
+      },
+      {
+        "tema": "Colocação pronominal e paralelismo sintático",
+        "resumo": "Colocação pronominal (próclise/ênclise/mesóclise) depende do que precede o verbo (palavras negativas e certas conjunções atraem próclise); paralelismo sintático exige que elementos coordenados em uma lista mantenham a mesma estrutura gramatical (ex.: não misturar infinitivos com substantivos numa mesma enumeração).",
+        "gatilhos": [
+          "Frase iniciada por palavra negativa, pronome relativo ou certas conjunções (\"não\", \"que\", \"quando\") → atrai o pronome pra antes do verbo (próclise), mesmo em início de oração.",
+          "Enunciado pedindo pra identificar erro de paralelismo → localize uma lista/enumeração e confira se todos os itens seguem a MESMA estrutura gramatical (todos substantivos, todos infinitivos, etc.).",
+          "Início absoluto de frase com pronome oblíquo átono → na norma culta escrita formal, evite começar frase com pronome átono; espere a banca testar isso como erro a corrigir."
+        ],
+        "pegadinhas": [
+          "Aplicar próclise ou ênclise \"de ouvido\", sem checar se há palavra atrativa (negação, conjunção subordinativa, pronome relativo) antes do verbo.",
+          "Não perceber quebra de paralelismo quando os itens de uma lista são gramaticalmente parecidos mas não idênticos."
+        ],
+        "exemplo": {
+          "enunciado": "Na frase \"O projeto busca incentivar a leitura, promover debates e a escrita criativa\", há uma quebra de paralelismo porque:",
+          "resolucao": "A enumeração começa com dois verbos no infinitivo (\"incentivar\", \"promover\") mas o terceiro item muda pra um substantivo (\"a escrita criativa\") em vez de manter a estrutura verbal. A resposta correta identifica a mudança de categoria gramatical no meio da lista como quebra de paralelismo; a pegadinha é não perceber a inconsistência porque as três ideias fazem sentido juntas — paralelismo é sobre estrutura gramatical, não sobre coerência de conteúdo."
+        }
+      }
+    ]
+  },
+  "ingles": {
+    "resumo": "100% reading comprehension — não há gramática isolada. O desafio é vocabulário em contexto, inferência e identificar a ideia central de um texto jornalístico ou de opinião. Prova própria e obrigatória para todo candidato nesta banca — sem opção de Espanhol como em outros vestibulares.",
+    "gatilhos": [
+      "Palavra desconhecida no meio do texto → não pare; o contexto ao redor (frase anterior e seguinte) quase sempre entrega o sentido aproximado.",
+      "\"What is the main idea of the passage?\" → confira o título e a primeira/última frase do parágrafo-chave antes de decidir.",
+      "\"According to the author...\" → a resposta precisa ter base literal no texto, não no que você acha que é verdade sobre o tema.",
+      "Falsos cognatos (\"actually\", \"pretend\", \"parents\", \"push\") → desconfie sempre que a tradução literal para o português soar estranha na frase.",
+      "Texto em inglês tratando de tema institucional/de direitos humanos ou debate público → é o padrão mais provável de texto-base nesta banca; não espere texto puramente literário ou de entretenimento."
+    ],
+    "pegadinhas": [
+      "Escolher a alternativa que é verdadeira no mundo real mas não é o que o texto especificamente afirma.",
+      "Traduzir um falso cognato pelo sentido em português (\"actually\" = \"na verdade\", não \"atualmente\").",
+      "Confundir o tom do autor (crítico, irônico, neutro) com o tom de uma citação dentro do texto."
+    ],
+    "subtemas": [
+      {
+        "tema": "Reading comprehension: textos sobre tecnologia e sociedade",
+        "resumo": "Como a prova é 100% reading comprehension, textos sobre tecnologia e sociedade recorrem com frequência. A habilidade cobrada é a mesma de interpretação de texto em português (ideia central, posição do autor, inferência) aplicada em inglês — o vocabulário técnico tende a ser mais cognato do que parece à primeira vista.",
+        "gatilhos": [
+          "Texto em inglês sobre tecnologia (IA, redes sociais, privacidade) → aplique a mesma estratégia de interpretação de português: ideia central primeiro, detalhes depois.",
+          "Palavra técnica em inglês que você não reconhece (ex.: \"algorithm\", \"surveillance\") → normalmente são cognatos parecidos com o português (\"algoritmo\", \"vigilância\") — teste a semelhança antes de assumir que não sabe a palavra.",
+          "Pergunta sobre a posição do autor em relação à tecnologia discutida → releia o parágrafo final; textos de opinião em inglês, como em português, costumam fechar retomando a tese."
+        ],
+        "pegadinhas": [
+          "Tentar traduzir o texto palavra por palavra em vez de buscar a ideia geral do parágrafo — trava a leitura e consome tempo desnecessário na prova.",
+          "Assumir que um texto sobre tecnologia em inglês será mais técnico/difícil do que realmente é — a banca usa vocabulário de divulgação geral, não jargão especializado."
+        ],
+        "exemplo": {
+          "enunciado": "A text in English discusses how social media platforms use algorithms to keep users engaged for longer periods. The author states: \"This is not accidental — it is the business model.\" What is the author's main point?",
+          "resolucao": "A frase \"it is the business model\" indica que o autor afirma que a retenção de atenção do usuário é uma escolha deliberada e estrutural das plataformas, não um efeito colateral não intencional. A resposta correta capta essa ideia central; a pegadinha é escolher uma alternativa que trate o fenômeno como acidental ou puramente técnico, ignorando a palavra-chave \"business model\", que aponta pra intencionalidade econômica."
+        }
+      },
+      {
+        "tema": "Falsos cognatos (false friends) em inglês",
+        "resumo": "Falsos cognatos são palavras parecidas com o português mas com sentido diferente. Além dos exemplos já cobertos no bloco geral (actually, pretend, parents, push), o padrão de reconhecimento é sempre o mesmo: se a tradução literal soa estranha na frase, desconfie.",
+        "gatilhos": [
+          "Palavra em inglês parecida com uma em português, mas o sentido da frase fica estranho se traduzida literalmente → é sinal de falso cognato; procure o sentido real pelo contexto.",
+          "\"Actually\" no meio de uma frase → significa \"na verdade\", não \"atualmente\" (que seria \"currently\" ou \"nowadays\").",
+          "\"Pretend\" → significa \"fingir\", não \"pretender\" (que seria \"intend\" ou \"plan to\")."
+        ],
+        "pegadinhas": [
+          "Traduzir \"parents\" como \"parentes\" — na verdade significa especificamente \"pais\"; \"parentes\" em geral seria \"relatives\".",
+          "Traduzir \"push\" como algo relacionado a \"puxar\" — na verdade significa \"empurrar\"; \"puxar\" é \"pull\"."
+        ],
+        "exemplo": {
+          "enunciado": "In the sentence \"She was pretending to be interested in the meeting\", the word \"pretending\" means, in Portuguese:",
+          "resolucao": "\"Pretend\" é falso cognato de \"pretender\" — na verdade significa \"fingir\". A frase diz que ela estava FINGINDO estar interessada na reunião, não que ela \"pretendia\" estar interessada — isso mudaria completamente o sentido. A pegadinha é traduzir pelo som parecido com \"pretendendo\", produzindo um sentido que faz sentido gramatical mas está semanticamente errado."
+        }
+      },
+      {
+        "tema": "Vocabulário e interpretação de textos em inglês",
+        "resumo": "Além dos falsos cognatos, a habilidade geral de vocabulário em contexto é inferir o sentido de palavras desconhecidas pela frase anterior/seguinte, sem precisar traduzir cada palavra — muitas perguntas podem ser respondidas sem conhecer 100% do vocabulário do texto.",
+        "gatilhos": [
+          "Palavra desconhecida cujo sentido não é óbvio nem por semelhança com o português → olhe a frase anterior e a seguinte; o contexto normalmente entrega uma pista suficiente, mesmo sem tradução exata.",
+          "Palavra desconhecida aparece só UMA vez e a pergunta não depende diretamente dela → não perca tempo tentando traduzi-la; foque no que a pergunta realmente exige saber.",
+          "Pergunta de vocabulário pede o sinônimo mais próximo de uma palavra sublinhada → releia a frase substituindo mentalmente cada opção e veja qual mantém o sentido original."
+        ],
+        "pegadinhas": [
+          "Parar a leitura inteira por causa de uma única palavra desconhecida, perdendo tempo de prova.",
+          "Escolher o sinônimo \"mais parecido na forma\" com a palavra original em vez do que realmente mantém o SENTIDO da frase."
+        ],
+        "exemplo": {
+          "enunciado": "In the sentence \"The company's revenue plummeted after the scandal\", the word \"plummeted\" most likely means:",
+          "resolucao": "Mesmo sem conhecer a palavra \"plummeted\", o contexto (receita da empresa após um escândalo) sugere fortemente uma queda acentuada. A resposta correta aponta pra \"caiu bruscamente\"; a pegadinha é escolher uma opção que soe parecida com alguma palavra conhecida em português em vez de usar o contexto da frase pra inferir o sentido."
+        }
+      }
+    ]
+  },
+  "matematica-sequencias": {
+    "resumo": "É o miolo da discursiva desta banca: sequências, recorrências e contagem aparecem em todos os ciclos lidos (2021 a 2026) e quase sempre como o item mais difícil da prova. Em 2026.1 foram três das oito questões — progressão aritmética em série temporal, sequência dos ímpares com soma N² e recorrência com invariante.",
+    "gatilhos": [
+      "Série de valores medidos ano a ano (emissão, população, preço) com crescimento constante → é progressão aritmética disfarçada de dado real; escreva o termo geral antes de tentar qualquer conta.",
+      "Sequência definida pelo termo anterior (\"cada termo é obtido a partir do anterior por...\") → é recorrência; calcule os quatro ou cinco primeiros termos à mão antes de procurar padrão, e escreva esses termos na folha — eles são o \"raciocínio indicado\" que a grade exige.",
+      "Pergunta sobre um termo MUITO distante (o 2026º, o milésimo) → não é para calcular; procure periodicidade, paridade ou uma quantidade que não muda de etapa para etapa (invariante).",
+      "\"Mostre que o valor não depende de...\" ou \"prove que a soma é sempre\" → a resposta é uma combinação que se conserva; exiba a conta que mostra a conservação, porque aqui o número final é quase irrelevante para a grade.",
+      "Soma dos n primeiros termos de algo regular → verifique se é a soma dos ímpares (dá N²) antes de somar termo a termo; a banca usa essa identidade como atalho premiado.",
+      "Operador que subtrai termos consecutivos, aplicado duas ou três vezes → é a diferença finita de 2025.1; cada aplicação abaixa em um o grau do polinômio, e é isso que a questão está testando.",
+      "Questão discursiva com itens (a) e (b) → resolva na ordem e escreva a resposta de cada parte explicitamente, mesmo que a segunda dependa da primeira; as partes são pontuadas em separado, e a (b) certa a partir de uma (a) errada ainda pontua."
+    ],
+    "pegadinhas": [
+      "Entregar o número certo sem a conta. É o erro mais caro desta prova: a grade da FGV dá 25% — e, em alguns itens, 0% — para a resposta correta \"sem cálculo algum ou indicação de raciocínio\". Quem treina chutar e conferir treina exatamente o que a banca zera.",
+      "Abandonar a questão por não chegar ao número. A grade recompensa, em ordem: equacionar certo mesmo sem terminar, terminar com erro de conta, chegar ao número. Um erro de aritmética depois de um raciocínio correto custa UM degrau (75% em vez de 100%); folha em branco custa tudo.",
+      "Responder um subitem e achar que respondeu a questão. Seis das oito discursivas de 2026.1 têm partes (a)/(b), com pontuação própria por parte — cada uma é corrigida sozinha, na escala 0/25/50.",
+      "Confundir a razão com o primeiro termo ao montar o termo geral — o erro clássico, e ele derruba os dois subitens de uma vez.",
+      "Tratar como PA uma série que cresce por percentual fixo (é PG) só porque os dados vieram numa tabela de anos."
+    ],
+    "subtemas": [
+      {
+        "tema": "Recorrência com invariante",
+        "resumo": "A família mais difícil da prova, e a mais previsível: um processo muda de estado por uma regra, e existe uma quantidade que a regra não altera. Achada a quantidade, a questão vira uma linha.",
+        "gatilhos": [
+          "Processo que repete uma operação sobre um conjunto de números → teste soma, soma dos quadrados, paridade da soma e diferença entre dois grupos; uma delas costuma se conservar.",
+          "Pergunta na forma \"é possível chegar a...\" → quase sempre a resposta é não, e a prova é exibir o invariante que separa o estado inicial do estado pedido."
+        ],
+        "pegadinhas": [
+          "Testar casos pequenos, ver o padrão e parar aí: mostrar cinco casos não é demonstrar, e a faixa de 100% costuma exigir o argumento geral."
+        ],
+        "exemplo": {
+          "enunciado": "Numa lousa estão escritos os números de 1 a 10. A cada passo, apagam-se dois números quaisquer e escreve-se, no lugar deles, a diferença positiva entre os dois. O processo continua até sobrar um único número na lousa. (a) Após o primeiro passo, o que acontece com a paridade da soma de todos os números escritos? (b) É possível que o último número seja 2?",
+          "resolucao": "(a) Apagar a e b e escrever |a−b| troca a soma S por S − a − b + |a−b|. Como a + b e |a−b| têm sempre a mesma paridade, a soma muda por um número par: a PARIDADE da soma se conserva a cada passo. (b) A soma inicial é 1+2+…+10 = 55, ímpar. Como a paridade não muda, o número final é ímpar — logo não pode ser 2. O que a grade premia aqui é a frase \"a paridade da soma se conserva\" com a conta que a sustenta; responder só \"não é possível\" cai na faixa mais baixa mesmo estando certo."
+        }
+      }
+    ]
+  },
+  "matematica-probabilidade": {
+    "resumo": "Probabilidade e contagem dividem com sequências o posto de miolo da discursiva — a distribuição sugerida para o banco reserva 30 das 150 questões para elas, o mesmo tanto. O formato favorito da banca é o processo que se repete: passeio aleatório de saldo em 2026.1, recorrência de probabilidade em 2025.1, chaveamento de torneio em 2023.1.",
+    "gatilhos": [
+      "Experimento repetido n vezes com dois resultados possíveis e probabilidade fixa → binomial; escreva o coeficiente, a potência do sucesso e a do fracasso separados antes de multiplicar.",
+      "Saldo, posição ou pontuação que sobe ou desce a cada rodada → passeio aleatório; conte de quantos jeitos se chega ao valor pedido, não some probabilidades caso a caso.",
+      "Torneio, chaveamento ou eliminatória → desenhe a árvore dos confrontos possíveis; a pergunta quase sempre é \"qual a chance de dois deles se encontrarem\", e depende da rodada.",
+      "Contagem com restrição de posição (\"igualmente espaçados\", \"nenhum vizinho\", \"em ordem\") → traduza a restrição em divisores ou em espaços entre objetos antes de contar.",
+      "\"De quantas maneiras\" com repetição permitida → decida primeiro se a ordem importa e se há reposição; escrever essas duas respostas na folha já é parte do raciocínio que a grade lê.",
+      "Probabilidade que se define em função da anterior (\"se ganhou na rodada k, então...\") → é recorrência probabilística; monte a relação e resolva como sequência.",
+      "Questão discursiva com itens (a) e (b) → resolva na ordem e escreva a resposta de cada parte explicitamente, mesmo que a segunda dependa da primeira; as partes são pontuadas em separado, e a (b) certa a partir de uma (a) errada ainda pontua."
+    ],
+    "pegadinhas": [
+      "Entregar o número certo sem a conta. É o erro mais caro desta prova: a grade da FGV dá 25% — e, em alguns itens, 0% — para a resposta correta \"sem cálculo algum ou indicação de raciocínio\". Quem treina chutar e conferir treina exatamente o que a banca zera.",
+      "Abandonar a questão por não chegar ao número. A grade recompensa, em ordem: equacionar certo mesmo sem terminar, terminar com erro de conta, chegar ao número. Um erro de aritmética depois de um raciocínio correto custa UM degrau (75% em vez de 100%); folha em branco custa tudo.",
+      "Responder um subitem e achar que respondeu a questão. Seis das oito discursivas de 2026.1 têm partes (a)/(b), com pontuação própria por parte — cada uma é corrigida sozinha, na escala 0/25/50.",
+      "Somar probabilidades de eventos que podem acontecer juntos, sem descontar a interseção.",
+      "Contar arranjos onde o problema pede combinações — a pergunta \"a ordem muda o resultado?\" resolve, e vale escrevê-la na folha.",
+      "Esquecer o coeficiente binomial e entregar só a potência: a chance de uma sequência específica não é a chance de qualquer sequência com aquele número de sucessos."
+    ],
+    "subtemas": [
+      {
+        "tema": "Passeio aleatório e saldo",
+        "resumo": "Um valor que anda para cima ou para baixo a cada etapa, com probabilidade fixa. É o vestido preferido da probabilidade nesta prova porque junta contagem e binomial num enunciado de duas linhas.",
+        "gatilhos": [
+          "Pergunta pelo saldo APÓS n etapas → o saldo só depende de quantas subidas houve; converta o valor pedido em número de subidas antes de qualquer conta.",
+          "Pergunta se o saldo PASSOU por um valor em algum momento → é outro problema, bem mais difícil que o anterior; não confunda \"terminar em\" com \"tocar em\"."
+        ],
+        "pegadinhas": [
+          "Tratar como equiprovável cada valor final de saldo — os do meio têm muito mais caminhos que os das pontas."
+        ],
+        "exemplo": {
+          "enunciado": "Um jogador começa com saldo zero. A cada rodada ele ganha 1 real com probabilidade 1/2 ou perde 1 real com probabilidade 1/2, e são jogadas 6 rodadas. (a) Quantas rodadas ele precisa ganhar para terminar com saldo +2? (b) Qual a probabilidade de terminar com saldo +2?",
+          "resolucao": "(a) Se ganha g rodadas, perde 6 − g, e o saldo é g − (6 − g) = 2g − 6. Saldo +2 exige 2g − 6 = 2, ou seja g = 4. (b) Terminar com 4 vitórias em 6 rodadas é binomial: C(6,4) · (1/2)⁴ · (1/2)² = 15/64. O ponto que a grade cobra é a tradução do saldo em número de vitórias, feita no item (a) — quem pula direto para 15/64 sem essa passagem entrega o número sem o raciocínio."
+        }
+      }
+    ]
+  },
+  "matematica-algebra": {
+    "resumo": "Funções e álgebra são a espinha da parte média da prova — 25 das 150 questões sugeridas para o banco. Aqui aparece a matemática que NÃO está no programa da FGV Direito: a interpolação polinomial de 2026.1 e o operador diferença de 2025.1 são itens de raciocínio abstrato, não de conteúdo de ensino médio aplicado. Não há cálculo diferencial, mas há a ideia de aproximação e de taxa de variação discreta.",
+    "gatilhos": [
+      "\"Encontre o polinômio de grau 2 que coincide com f em três pontos\" → é interpolação; monte o sistema com os três valores e resolva — não tente adivinhar a forma da função original.",
+      "Função definida como o MENOR (ou o maior) entre duas funções → desenhe as duas e marque onde se cruzam; a resposta é sempre por trechos, e o ponto de cruzamento é a fronteira.",
+      "Relação entre duas grandezas que vira reta quando se aplica logaritmo nos dois eixos → é lei de potência (alometria); o coeficiente angular do gráfico log-log é o expoente.",
+      "Enunciado que descreve regra de reajuste, alíquota ou desconto e pergunta o resultado final → escreva a função explicitamente antes de substituir número; é a tradução que a grade lê como \"equacionou o problema\".",
+      "Sistema com parâmetro (\"para quais valores de k o sistema tem solução única\") → discuta pelo determinante e diga o que acontece nos casos de fronteira, que é onde estão os pontos.",
+      "Matriz apresentada como tabela de dados reais → a operação pedida costuma ter significado no enunciado (total por linha, variação por coluna); dizer qual é esse significado costuma valer um degrau.",
+      "Questão discursiva com itens (a) e (b) → resolva na ordem e escreva a resposta de cada parte explicitamente, mesmo que a segunda dependa da primeira; as partes são pontuadas em separado, e a (b) certa a partir de uma (a) errada ainda pontua."
+    ],
+    "pegadinhas": [
+      "Entregar o número certo sem a conta. É o erro mais caro desta prova: a grade da FGV dá 25% — e, em alguns itens, 0% — para a resposta correta \"sem cálculo algum ou indicação de raciocínio\". Quem treina chutar e conferir treina exatamente o que a banca zera.",
+      "Abandonar a questão por não chegar ao número. A grade recompensa, em ordem: equacionar certo mesmo sem terminar, terminar com erro de conta, chegar ao número. Um erro de aritmética depois de um raciocínio correto custa UM degrau (75% em vez de 100%); folha em branco custa tudo.",
+      "Responder um subitem e achar que respondeu a questão. Seis das oito discursivas de 2026.1 têm partes (a)/(b), com pontuação própria por parte — cada uma é corrigida sozinha, na escala 0/25/50.",
+      "Confundir o expoente com o coeficiente angular ao ler um gráfico em escala log — em log-log o coeficiente é o expoente, em mono-log é a taxa.",
+      "Resolver a inequação e esquecer de checar o domínio (denominador, raiz par, logaritmando).",
+      "Aplicar a fórmula de Bhaskara em algo que não é equação do segundo grau porque \"tem x²\" — em interpolação e em sistemas, o x² é dado, não incógnita."
+    ],
+    "subtemas": [
+      {
+        "tema": "Raciocínio abstrato: o item que não é conteúdo aplicado",
+        "resumo": "Todo ano a prova traz um item que não sai do programa de ensino médio aplicado — o operador diferença de 2025.1, a interpolação polinomial de 2026.1. Não há cálculo diferencial, mas há a ideia de aproximação e de taxa de variação discreta. Um treino só de situação-problema deixa o aluno sem defesa justamente na questão mais difícil.",
+        "gatilhos": [
+          "Enunciado que DEFINE uma operação nova e pede propriedades dela → não procure fórmula conhecida; aplique a definição a casos pequenos e observe o que acontece com o grau, com a paridade ou com o sinal.",
+          "\"Aplique a operação três vezes\" → faça as três, uma por linha; cada aplicação de diferença finita abaixa em um o grau do polinômio, e é essa regularidade que a questão quer ver enunciada.",
+          "Pedido de aproximar uma função por outra em alguns pontos → é sistema linear nos coeficientes; escreva uma equação por ponto dado."
+        ],
+        "pegadinhas": [
+          "Tentar reconhecer a função original a partir da aproximação — a questão não pede isso, e o tempo gasto aí é o que falta no fim da prova.",
+          "Parar na observação (\"o grau cai\") sem escrever por quê: a faixa alta pede o argumento, não o padrão notado."
+        ],
+        "exemplo": {
+          "enunciado": "Para uma função f definida nos inteiros, define-se Δf(n) = f(n+1) − f(n). Seja f(n) = n² + 3n. (a) Calcule Δf(n) em função de n. (b) Calcule Δ(Δf)(n) e diga o que aconteceu com o grau a cada aplicação.",
+          "resolucao": "(a) Δf(n) = [(n+1)² + 3(n+1)] − [n² + 3n] = (n² + 2n + 1 + 3n + 3) − (n² + 3n) = 2n + 4. (b) Aplicando de novo: Δ(Δf)(n) = [2(n+1) + 4] − [2n + 4] = 2, constante. O grau caiu de 2 para 1 e de 1 para 0 — cada diferença abaixa o grau em um, e a segunda diferença de um polinômio do 2º grau é constante (igual a duas vezes o coeficiente líder). O item (b) só fecha com essa frase escrita; a conta sozinha mostra o 2 mas não mostra que o aluno entendeu o mecanismo."
+        }
+      }
+    ]
+  },
+  "matematica-geometria": {
+    "resumo": "Geometria plana e analítica valem 25 das 150 questões sugeridas, e nesta banca elas raramente vêm sozinhas: a questão de geometria de 2026.1 é a do Índice de Gini, em que a parte difícil é RECONHECER um arco de circunferência dentro de uma equação antes de calcular área de setor. Semelhança com razão de áreas (2025.1) e razão entre áreas de segmentos de parábola (2023.1) seguem a mesma receita — a figura está escondida numa expressão.",
+    "gatilhos": [
+      "Equação com x² e y² e coeficientes iguais → complete os quadrados e leia centro e raio; é circunferência, mesmo que o enunciado esteja falando de economia.",
+      "Pergunta por ÁREA entre duas curvas ou dentro de um setor → identifique a figura elementar (setor, triângulo, segmento) e escreva a área como soma ou diferença dessas figuras.",
+      "Duas figuras semelhantes com razão de semelhança k → a razão entre áreas é k² e entre volumes é k³; escrever essa linha antes de contar já vale como raciocínio indicado.",
+      "Triângulo com dois lados e o ângulo entre eles → lei dos cossenos; com dois ângulos e um lado → lei dos senos. Decidir qual das duas usar é o passo pontuado.",
+      "Coordenadas dadas com letra em vez de número → é geometria analítica com parâmetro; siga com as letras até o fim e só depois substitua, senão a conta explode.",
+      "Enunciado que descreve um gráfico acumulado (renda, população, custo) e pergunta uma área → a área tem significado no enunciado; diga qual é, porque a interpretação costuma ser um item inteiro.",
+      "Questão discursiva com itens (a) e (b) → resolva na ordem e escreva a resposta de cada parte explicitamente, mesmo que a segunda dependa da primeira; as partes são pontuadas em separado, e a (b) certa a partir de uma (a) errada ainda pontua."
+    ],
+    "pegadinhas": [
+      "Entregar o número certo sem a conta. É o erro mais caro desta prova: a grade da FGV dá 25% — e, em alguns itens, 0% — para a resposta correta \"sem cálculo algum ou indicação de raciocínio\". Quem treina chutar e conferir treina exatamente o que a banca zera.",
+      "Abandonar a questão por não chegar ao número. A grade recompensa, em ordem: equacionar certo mesmo sem terminar, terminar com erro de conta, chegar ao número. Um erro de aritmética depois de um raciocínio correto custa UM degrau (75% em vez de 100%); folha em branco custa tudo.",
+      "Responder um subitem e achar que respondeu a questão. Seis das oito discursivas de 2026.1 têm partes (a)/(b), com pontuação própria por parte — cada uma é corrigida sozinha, na escala 0/25/50.",
+      "Elevar a razão de semelhança ao quadrado quando a pergunta é de perímetro (aí ela é linear) ou esquecer de elevá-la quando é de área.",
+      "Assumir que a figura está desenhada em escala — quando há figura, ela é esquema; quando não há, desenhar a sua é parte do trabalho.",
+      "Calcular a área do setor com o ângulo em graus dentro de uma fórmula escrita para radianos."
+    ],
+    "subtemas": [
+      {
+        "tema": "Figura escondida numa equação",
+        "resumo": "A assinatura geométrica desta banca: o enunciado dá uma relação algébrica com significado econômico e a questão só anda depois que se reconhece a curva. É por isso que a geometria daqui não se treina só com figura pronta.",
+        "gatilhos": [
+          "Relação entre duas variáveis normalizadas (as duas entre 0 e 1) → desconfie de arco de circunferência, parábola ou reta; teste os pontos (0,0) e (1,1), que costumam pertencer à curva.",
+          "\"Qual a área entre a curva e a diagonal\" → é a estrutura do Gini; a diagonal é a referência de igualdade e a área mede o afastamento dela."
+        ],
+        "pegadinhas": [
+          "Calcular a área sob a curva quando o enunciado pede a área ENTRE a curva e a diagonal — são coisas diferentes, e a segunda é a que tem significado."
+        ],
+        "exemplo": {
+          "enunciado": "Numa população, a fração acumulada da renda y recebida pela fração acumulada mais pobre x da população satisfaz x² + (y − 1)² = 1, com 0 ≤ x ≤ 1 e 0 ≤ y ≤ 1. (a) Que curva a relação descreve, e qual é o seu centro? (b) Calcule a área da região entre a diagonal y = x e essa curva.",
+          "resolucao": "(a) É um arco de circunferência de centro (0, 1) e raio 1 — o trecho no primeiro quadrante, que sai de (0, 0) e chega a (1, 1). (b) A área sob o arco, entre x = 0 e x = 1, é a área do quadrado de lado 1 menos a do quarto de círculo de raio 1: 1 − π/4. A área sob a diagonal é 1/2. A região entre as duas é 1/2 − (1 − π/4) = π/4 − 1/2 ≈ 0,285. O item (a) é o que trava a questão inteira: sem reconhecer a circunferência não há como montar a área, e é por isso que ele vale ponto sozinho."
+        }
+      }
+    ]
+  },
+  "matematica-financeira": {
+    "resumo": "Estatística, porcentagem e proporção somam 30 das 150 questões sugeridas — 15 de financeira e porcentagem, 15 de estatística e médias — e são a porta da questão-assinatura da escola. A banca ancora UMA questão por ano na identidade dela: Gini em 2026.1, alíquota de imposto em 2023.1, juros compostos em 2022.1. Não é decoração: é a questão que exige traduzir economia em modelo, e ela cai todo ano.",
+    "gatilhos": [
+      "Enunciado com faixas de tributação, desconto progressivo ou tarifa por escalão → é função definida por partes; escreva os intervalos antes de escolher em qual deles a resposta cai.",
+      "Reajuste sobre reajuste (aumento seguido de desconto, inflação em dois períodos) → multiplique os fatores, nunca some os percentuais; escrever o produto dos fatores é o passo pontuado.",
+      "Média de um conjunto do qual se REMOVE ou ao qual se ACRESCENTA um subconjunto → volte para a soma total; média não se combina por média, e foi exatamente essa a questão 2 de 2026.1.",
+      "\"Qual a taxa equivalente\" entre períodos diferentes → é potência, não regra de três; a taxa mensal equivalente à anual sai da raiz de ordem 12 do fator.",
+      "Tabela de distribuição (renda, notas, salários) com pergunta sobre mediana ou moda → ordene ou acumule antes; em distribuição assimétrica a média e a mediana respondem coisas diferentes, e a banca cobra saber qual delas o enunciado pediu.",
+      "Grandezas que variam proporcionalmente com restrição de números inteiros (\"quantos, no mínimo\") → é porcentagem com divisibilidade, o formato de 2023.1; a resposta é o menor total que torna a conta exata.",
+      "Questão discursiva com itens (a) e (b) → resolva na ordem e escreva a resposta de cada parte explicitamente, mesmo que a segunda dependa da primeira; as partes são pontuadas em separado, e a (b) certa a partir de uma (a) errada ainda pontua."
+    ],
+    "pegadinhas": [
+      "Entregar o número certo sem a conta. É o erro mais caro desta prova: a grade da FGV dá 25% — e, em alguns itens, 0% — para a resposta correta \"sem cálculo algum ou indicação de raciocínio\". Quem treina chutar e conferir treina exatamente o que a banca zera.",
+      "Abandonar a questão por não chegar ao número. A grade recompensa, em ordem: equacionar certo mesmo sem terminar, terminar com erro de conta, chegar ao número. Um erro de aritmética depois de um raciocínio correto custa UM degrau (75% em vez de 100%); folha em branco custa tudo.",
+      "Responder um subitem e achar que respondeu a questão. Seis das oito discursivas de 2026.1 têm partes (a)/(b), com pontuação própria por parte — cada uma é corrigida sozinha, na escala 0/25/50.",
+      "Somar percentuais de bases diferentes: 10% de aumento seguido de 10% de desconto não volta ao valor original.",
+      "Aplicar a alíquota da faixa mais alta sobre a renda inteira, quando o sistema é progressivo e ela incide só sobre o excedente da faixa.",
+      "Tomar a média das médias de grupos de tamanhos diferentes — só vale se os grupos tiverem o mesmo tamanho, e a banca escolhe tamanhos diferentes de propósito."
+    ],
+    "subtemas": [
+      {
+        "tema": "Traduzir economia em modelo",
+        "resumo": "A questão-assinatura da escola. O conteúdo matemático é sempre acessível — porcentagem, área, progressão —, e a dificuldade está em transformar a descrição econômica numa expressão. É o item que separa esta prova da de qualquer outra banca.",
+        "gatilhos": [
+          "Termo econômico no enunciado (alíquota, elasticidade, índice de concentração, juro real) → o enunciado SEMPRE define o termo; leia a definição dada e ignore o que você acha que a palavra significa.",
+          "Pergunta em duas partes, a primeira \"escreva a expressão que representa\" → a expressão é a resposta pontuada; o número da segunda parte vale menos que ela."
+        ],
+        "pegadinhas": [
+          "Usar a definição de mercado de um conceito no lugar da definição dada pelo enunciado — a banca costuma simplificar o conceito de propósito, e a conta só fecha com a versão dela."
+        ],
+        "exemplo": {
+          "enunciado": "Um imposto é cobrado assim: nada sobre os primeiros R$ 2.000 de renda mensal, 10% sobre a parte que excede R$ 2.000 até R$ 5.000, e 20% sobre o que excede R$ 5.000. (a) Escreva o imposto devido como função da renda r, para r > 5.000. (b) Uma pessoa pagou R$ 900 de imposto. Qual é a sua renda?",
+          "resolucao": "(a) Para r > 5.000, a segunda faixa está cheia e contribui 10% de 3.000 = 300; a terceira contribui 0,20·(r − 5.000). Logo I(r) = 300 + 0,20·(r − 5.000), ou I(r) = 0,20r − 700. (b) Como 900 > 300, a renda está na terceira faixa: 0,20r − 700 = 900, r = 8.000. Note que a resposta \"R$ 4.500\", de quem aplica 20% sobre a renda inteira, é a distratora prevista — e, na discursiva, a função escrita em (a) é o que garante os pontos mesmo que a conta de (b) escorregue."
+        }
+      }
+    ]
+  },
+  "historia": {
+    "resumo": "História do Brasil e Geral numa frente só, dentro das 15 objetivas de Ciências Humanas — 5% da nota final da FGV EESP, a menor fatia depois de Inglês, mas com o mesmo corte de 20% de acertos das outras seis provas objetivas. No Insper, Humanas vale 25% para Economia, quase o mesmo peso de Linguagens: é lá que esta frente decide nota.",
+    "gatilhos": [
+      "Pergunta sobre \"causas\" de um evento → pense em pelo menos 2 fatores (econômico + político/social), a banca raramente aceita causa única.",
+      "Comparação entre dois períodos (ex.: Primeira República × Era Vargas) → organize por eixo (economia, política, sociedade) antes de comparar.",
+      "Trecho de fonte primária (discurso, carta, manifesto) → identifique quem fala, pra quem, e com que intenção, antes de ligar ao contexto histórico.",
+      "Enunciado com afirmativas numeradas I, II, III (, IV) sobre um processo histórico → julgue cada uma isoladamente antes de olhar as combinações de resposta; é o formato mais comum desta banca em História, não pergunta única direta.",
+      "Trecho de manifesto/carta/decreto histórico ligado a um movimento de direitos civis → espere uma afirmativa que generalize indevidamente o alcance do documento histórico para um debate político atual — é o distrator mais citado quando a banca cruza História com Direitos Humanos.",
+      "Pergunta sobre \"consequências\" de um evento → pense em curto E longo prazo; a banca gosta de testar efeitos que só apareceram décadas depois.",
+      "Comparação entre dois blocos/ideologias (capitalismo × socialismo, por exemplo) → organize por critério (economia, poder político, direitos individuais) antes de escrever.",
+      "Mapa ou linha do tempo no enunciado → localize primeiro o período/região exatos antes de aplicar conhecimento geral do tema.",
+      "Enunciado com afirmativas numeradas I, II, III (, IV) sobre um processo histórico mundial → julgue cada afirmativa isoladamente antes de olhar as combinações — é o formato mais comum desta banca.",
+      "Regime autoritário do século XX (nazismo, fascismo, ditaduras latino-americanas) → cruze sempre com um debate atual de democracia/direitos humanos — a banca tende a ligar os dois."
+    ],
+    "pegadinhas": [
+      "Datar eventos por \"década aproximada\" quando a prova pede o marco exato (ex.: confundir Proclamação da República com Constituição de 1891).",
+      "Atribuir uma mudança social só à vontade de um governante, ignorando pressão de movimentos sociais/econômicos que a antecederam.",
+      "Confundir nomes de instituições/siglas semelhantes de períodos diferentes.",
+      "Uma das afirmativas do bloco costuma ser \"quase certa\" por trocar a causa real de um evento por outra plausível do mesmo período — não decida pela plausibilidade isolada, decida pela precisão da relação causal.",
+      "Tratar processos históricos como binários (\"só causa X\" ou \"só causa Y\") quando o gabarito espera reconhecer multicausalidade.",
+      "Confundir a cronologia de eventos próximos (ex.: ordem entre tratados/conferências de um mesmo período).",
+      "Aplicar um conceito europeu (ex.: \"revolução industrial\") de forma genérica demais a um contexto fora da Europa sem as devidas ressalvas.",
+      "Cuidado com afirmativa que estica um processo histórico (ex.: \"Era das Revoluções\") para além do período em que de fato ocorreu — é o tipo de erro de generalização temporal mais citado neste cluster."
+    ],
+    "subtemas": [
+      {
+        "tema": "Brasil Colônia: economia açucareira e mineração",
+        "resumo": "A economia colonial se organizou em ciclos de exportação ligados à demanda europeia: açúcar (século XVII, Nordeste, mão de obra escravizada em plantation) e depois ouro/mineração (século XVIII, Minas Gerais, deslocando o eixo demográfico e político pra região Centro-Sul). Ambos os ciclos se estruturaram sob o pacto colonial (comércio exclusivo com Portugal) e dependeram fortemente de trabalho escravizado.",
+        "gatilhos": [
+          "Texto sobre ciclo econômico colonial (açúcar ou mineração) → identifique sempre três elementos: região concentrada, tipo de mão de obra predominante (majoritariamente escravizada), e a relação com o pacto colonial.",
+          "Mudança do eixo econômico da colônia (Nordeste açucareiro → Minas Gerais mineradora) → ligue à mudança de eixo demográfico e político da colônia.",
+          "Pergunta sobre \"decadência\" de um ciclo econômico → pense em concorrência externa (para o açúcar, produção antilhana) e esgotamento de reservas (para o ouro), não um fator único isolado."
+        ],
+        "pegadinhas": [
+          "Tratar os ciclos econômicos coloniais como fases estanques e totalmente separadas — havia sobreposição temporal e regional entre atividades econômicas diferentes.",
+          "Reduzir a mineração em Minas Gerais só ao ouro, esquecendo a importância também dos diamantes e da estrutura fiscal específica criada pela Coroa (como a derrama)."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto descreve a transição do eixo econômico da colônia portuguesa na América, do litoral nordestino açucareiro para a região das Minas Gerais no século XVIII, acompanhada de intensa fiscalização da Coroa sobre a extração de metais preciosos. Essa transição é mais bem explicada por:",
+          "resolucao": "A descoberta de ouro em Minas Gerais deslocou o centro econômico e demográfico da colônia para o interior, exigindo da Coroa um aparato fiscal mais rígido (como o quinto e a derrama) pra garantir sua parte da riqueza extraída, dentro da lógica do pacto colonial. A resposta correta liga a mudança de eixo econômico à descoberta do ouro e à resposta fiscal da metrópole; a pegadinha é tratar a mineração como continuação direta do modelo açucareiro, ignorando as diferenças entre os dois ciclos."
+        }
+      },
+      {
+        "tema": "Independência e Império do Brasil",
+        "resumo": "A independência (1822) foi uma ruptura negociada e relativamente conservadora — manteve a monarquia, a escravidão e boa parte da elite colonial no poder, diferente de rupturas populares mais radicais. O Império (1822-1889) se divide em Primeiro Reinado, período Regencial e Segundo Reinado, cada um com tensões políticas próprias entre centralização e autonomia provincial.",
+        "gatilhos": [
+          "Pergunta sobre \"o que mudou e o que continuou\" na independência → pense no que permaneceu (monarquia, escravidão, elite agrária no poder) tanto quanto no que mudou (ruptura formal com Portugal).",
+          "Trecho sobre revoltas regionais durante o período Regencial (Cabanagem, Farroupilha, Sabinada) → ligue a tensões entre centralização do poder imperial e autonomia das províncias.",
+          "Pergunta sobre abolição gradual da escravidão no Império (Lei do Ventre Livre, Lei dos Sexagenários, Lei Áurea) → organize cronologicamente e associe cada lei ao grupo social que ela afetava."
+        ],
+        "pegadinhas": [
+          "Tratar a independência do Brasil como uma ruptura total e revolucionária, no estilo das independências hispano-americanas — o processo brasileiro manteve monarquia e boa parte da estrutura social colonial.",
+          "Confundir Primeiro Reinado, período Regencial e Segundo Reinado como uma fase única e homogênea do Império."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto aponta que, diferentemente da maior parte das independências na América espanhola, a independência do Brasil manteve a forma de governo monárquica e preservou a instituição da escravidão por décadas. Essa característica é mais bem interpretada como evidência de que a independência brasileira foi, sobretudo, um processo de:",
+          "resolucao": "A manutenção da monarquia e da escravidão logo após a independência mostra que a ruptura política com Portugal não implicou uma transformação radical da estrutura social e econômica da antiga colônia. A resposta correta identifica isso como continuidade estrutural combinada a ruptura política formal; a pegadinha é tratar a independência brasileira como equivalente, em profundidade de ruptura social, às independências republicanas da América espanhola."
+        }
+      },
+      {
+        "tema": "Era Vargas e Estado Novo",
+        "resumo": "O período Vargas (1930-1945) se divide em uma fase inicial mais pluralista (1930-37) e o Estado Novo (1937-45), ditadura com censura, partidos banidos e poder concentrado no Executivo. O tema central é a tensão entre as reformas trabalhistas de Vargas (CLT, direitos trabalhistas via sindicalismo corporativista controlado pelo Estado) e a repressão política simultânea.",
+        "gatilhos": [
+          "Texto sobre legislação trabalhista da Era Vargas (CLT, salário mínimo, carteira de trabalho) → ligue ao projeto corporativista do Estado Novo de controlar sindicatos via Estado, não só \"dar direitos\".",
+          "Pergunta sobre o Estado Novo (1937-1945) → identifique elementos de regime autoritário (censura, partidos políticos banidos, poder concentrado no Executivo) — diferente do período anterior de Vargas, mais pluralista.",
+          "Comparação entre Vargas \"pai dos pobres\" e Vargas \"ditador\" → a banca testa se você reconhece as duas facetas simultâneas."
+        ],
+        "pegadinhas": [
+          "Tratar toda a Era Vargas (1930-1945) como um único bloco autoritário — o Estado Novo é uma fase específica e mais repressiva dentro do período.",
+          "Descrever os direitos trabalhistas da CLT como conquista puramente popular, sem mencionar o controle estatal sobre os sindicatos que acompanhava essas leis."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto descreve que, durante o Estado Novo, o governo simultaneamente ampliou direitos trabalhistas por meio de legislação específica e reprimiu duramente a oposição política, banindo partidos e censurando a imprensa. Essa combinação de medidas é característica de um projeto político:",
+          "resolucao": "A combinação de concessões sociais com repressão política e controle centralizado do Estado é típica de regimes autoritários de base populista/corporativista, que buscam legitimidade popular por meio de benefícios concretos enquanto eliminam a competição política organizada. A pegadinha é escolher uma alternativa que descreva o período como puramente repressivo ou puramente progressista, ignorando uma das duas faces."
+        }
+      },
+      {
+        "tema": "Ditadura militar e redemocratização",
+        "resumo": "A ditadura militar (1964-1985) teve intensidade repressiva variável, com o AI-5 (1968) marcando o agravamento máximo (censura ampla, fechamento do Congresso, cassação de direitos políticos). A redemocratização foi um processo gradual conduzido em boa parte pelos próprios militares (\"abertura lenta, gradual e segura\"), culminando na Constituição de 1988; eleições diretas para presidente só retornaram em 1989.",
+        "gatilhos": [
+          "Pergunta sobre o AI-5 (1968) → é o marco do recrudescimento da repressão — não confunda com o golpe de 1964 em si, que é anterior e menos repressivo em comparação.",
+          "Texto sobre \"abertura\" política nos anos 1970-80 → identifique que foi um processo gradual e controlado pelo próprio regime militar, não uma ruptura súbita.",
+          "Pergunta sobre a Constituição de 1988 → ligue ao processo de redemocratização e à ampliação de direitos sociais/civis em reação ao período autoritário anterior."
+        ],
+        "pegadinhas": [
+          "Tratar a ditadura militar como um bloco homogêneo de repressão constante — houve variação de intensidade, com o AI-5 marcando um agravamento específico.",
+          "Confundir a primeira eleição direta pós-ditadura (1989) com o fim formal do regime militar (1985, eleição indireta de Tancredo Neves) — são marcos distintos."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto afirma que a transição do regime militar brasileiro para a democracia foi conduzida, em boa parte, pelos próprios líderes militares, por meio de um processo definido oficialmente como gradual, ao longo da década de 1970 e início dos anos 1980. Essa característica da redemocratização brasileira é conhecida como:",
+          "resolucao": "O processo de abertura política controlada pelo próprio regime militar é conhecido pela expressão oficial da época: abertura \"lenta, gradual e segura\". A pegadinha é confundir isso com uma ruptura popular repentina, quando o texto descreve exatamente o oposto: uma transição negociada e administrada pelos próprios militares."
+        }
+      },
+      {
+        "tema": "Revolução Francesa e Iluminismo",
+        "resumo": "O Iluminismo forneceu a base intelectual (razão, direitos naturais, soberania popular, separação de poderes) que alimentou a Revolução Francesa (1789). A Revolução em si passou por fases distintas — moderada inicial, radicalização do Terror, e ascensão napoleônica — cada uma com atores e lógicas diferentes; tratá-la como evento único é o erro mais comum.",
+        "gatilhos": [
+          "Texto cita valores como razão, direitos naturais, soberania popular ou separação de poderes → ligue ao Iluminismo como base intelectual, mesmo sem citar nome de filósofo.",
+          "Pergunta sobre uma fase específica da Revolução Francesa → identifique se é a fase moderada inicial, o Terror (radicalização jacobina) ou o período napoleônico posterior — são fases bem diferentes.",
+          "Comparação entre a Revolução Francesa e outro processo revolucionário → organize por critério (quem liderou, que classe se beneficiou, o que mudou na estrutura de poder) antes de comparar."
+        ],
+        "pegadinhas": [
+          "Tratar a Revolução Francesa como um evento único e homogêneo — teve fases com objetivos e violência política muito diferentes entre si.",
+          "Atribuir a Revolução Francesa exclusivamente às ideias iluministas, ignorando fatores econômicos e sociais concretos (crise fiscal, desigualdade entre os \"estados\" sociais)."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto descreve que, entre 1789 e 1799, a Revolução Francesa passou por momentos de reforma moderada, depois por intensa violência política contra opositores internos, e terminou com a ascensão de um líder militar ao poder centralizado. Essa descrição evidencia, principalmente, que a Revolução Francesa foi:",
+          "resolucao": "A descrição de fases distintas evidencia que a Revolução Francesa não foi um evento uniforme, mas um processo com múltiplas fases e rupturas internas ao longo de uma década. A pegadinha é escolher uma alternativa que descreva a Revolução como um movimento único e coerente do início ao fim."
+        }
+      },
+      {
+        "tema": "Revolução Industrial",
+        "resumo": "A industrialização (Inglaterra, final do século XVIII) transformou a produção de artesanal para mecanizada/fabril, causando urbanização acelerada e novas classes sociais (burguesia industrial, proletariado urbano); ocorreu em ondas sucessivas (não um evento pontual), cada uma associada a tecnologias diferentes (vapor, depois eletricidade/petróleo).",
+        "gatilhos": [
+          "Pergunta sobre \"causas\" da Revolução Industrial começar na Inglaterra → pense em múltiplos fatores combinados (capital do comércio colonial, carvão disponível, mão de obra disponível, estabilidade política) — não aceite causa única.",
+          "Texto sobre condições de trabalho no início da industrialização → ligue à formação da classe operária urbana e ao surgimento posterior de movimentos sociais/sindicais.",
+          "Menção a \"primeira\", \"segunda\" revolução industrial → identifique a tecnologia-chave de cada fase (vapor/carvão na primeira; eletricidade e petróleo na segunda)."
+        ],
+        "pegadinhas": [
+          "Tratar a Revolução Industrial como um evento pontual e instantâneo, quando foi um processo de décadas com fases tecnológicas distintas.",
+          "Reduzir os impactos da industrialização só ao avanço tecnológico, sem considerar as mudanças sociais profundas (urbanização, novas classes sociais)."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto descreve que a industrialização inglesa do século XVIII combinou capital acumulado do comércio internacional, reservas abundantes de carvão, disponibilidade de mão de obra migrante do campo e um ambiente político relativamente estável. A partir desse texto, é correto afirmar que a Revolução Industrial inglesa é mais bem explicada por:",
+          "resolucao": "O texto lista explicitamente múltiplos fatores combinados como condições conjuntas, não um fator isolado. A pegadinha é escolher uma alternativa que aponte um único fator (só o carvão, ou só o capital comercial) como \"a\" causa, quando o próprio texto já apresenta multicausalidade."
+        }
+      },
+      {
+        "tema": "Primeira e Segunda Guerras Mundiais",
+        "resumo": "A Primeira Guerra (1914-18) teve um estopim (assassinato em Sarajevo) distinto de suas causas estruturais (sistema de alianças, corrida armamentista, imperialismo, nacionalismo). A Segunda Guerra (1939-45) tem raízes parcialmente nas tensões não resolvidas da Primeira (Tratado de Versalhes) somadas à ascensão de regimes totalitários. Separar \"estopim\" de \"causa estrutural\" é a habilidade central testada.",
+        "gatilhos": [
+          "Pergunta sobre a \"causa\" da Primeira Guerra Mundial → separe o estopim (assassinato do arquiduque Francisco Ferdinando) das causas estruturais (alianças, corrida armamentista, imperialismo, nacionalismo).",
+          "Texto liga o Tratado de Versalhes ao surgimento do nazismo → é conexão causal real e frequentemente cobrada: as duras condições impostas à Alemanha alimentaram ressentimento nacionalista explorado depois pelo nazismo.",
+          "Comparação entre as duas guerras mundiais → organize por escala e por resultado geopolítico (reconfiguração de fronteiras e blocos de poder)."
+        ],
+        "pegadinhas": [
+          "Tratar o assassinato em Sarajevo como \"a causa\" da Primeira Guerra, em vez de reconhecê-lo como o estopim de tensões estruturais já existentes.",
+          "Isolar o nazismo como fenômeno puramente alemão/individual, sem conectar às condições criadas pelo Tratado de Versalhes."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto afirma que o assassinato do arquiduque Francisco Ferdinando, em 1914, é frequentemente citado como o evento que iniciou a Primeira Guerra Mundial, mas argumenta que esse evento, isoladamente, não explica por que o conflito se espalhou rapidamente por praticamente toda a Europa. O texto está destacando a diferença entre:",
+          "resolucao": "O texto distingue o evento desencadeador imediato (o estopim) das condições estruturais pré-existentes que transformaram um conflito bilateral potencial numa guerra continental. A pegadinha é tratar o assassinato como suficiente, sozinho, para explicar a escala do conflito."
+        }
+      },
+      {
+        "tema": "Guerra Fria e descolonização afro-asiática",
+        "resumo": "A Guerra Fria (1947-1991) foi disputa ideológica/geopolítica bipolar sem confronto militar direto entre as superpotências, mas com conflitos por procuração. A descolonização da África e Ásia ocorreu majoritariamente NESSE contexto, com nações recém-independentes frequentemente cortejadas ou pressionadas pelos dois blocos — o Movimento dos Países Não Alinhados foi a tentativa de uma terceira via.",
+        "gatilhos": [
+          "Texto sobre conflito regional durante a Guerra Fria (Coreia, Vietnã) → identifique que raramente foi conflito bilateral isolado; costuma ser confronto por procuração entre as duas superpotências.",
+          "Processo de independência de um país africano ou asiático no século XX → ligue ao contexto simultâneo da Guerra Fria: potências recém-independentes eram cortejadas ou pressionadas pelos dois blocos.",
+          "Menção a \"Movimento dos Países Não Alinhados\" → é a tentativa de países recém-independentes de não se filiarem formalmente a nenhum dos dois blocos."
+        ],
+        "pegadinhas": [
+          "Tratar processos de descolonização como desconectados da disputa Guerra Fria — na prática os dois processos se sobrepõem e se influenciam mutuamente.",
+          "Achar que a Guerra Fria envolveu confronto militar direto entre EUA e URSS — o confronto direto nunca ocorreu; os conflitos armados foram sempre por procuração."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto descreve que, ao conquistar sua independência na década de 1960, um país africano recebeu simultaneamente ofertas de apoio econômico e militar de potências alinhadas a dois blocos ideológicos rivais, o que gerou pressão interna para que o novo governo escolhesse um lado. Esse cenário ilustra a relação entre:",
+          "resolucao": "O texto descreve um país recém-independente sendo disputado por duas potências rivais — ilustra como a descolonização afro-asiática ocorreu sob influência da disputa bipolar da Guerra Fria. A pegadinha é tratar a independência como processo puramente interno, desconectado da geopolítica global da época."
+        }
+      }
+    ]
+  },
+  "geografia": {
+    "resumo": "Urbanização, migrações, geopolítica de recursos e questão ambiental — o subtema mais estável entre as provas: quase sempre aparece ligado a um dado ou mapa concreto, não teoria pura. Geopolítica internacional é \"o foco\" declarado oficialmente desta banca em Geografia — mais forte que os demais subtemas.",
+    "gatilhos": [
+      "Gráfico ou tabela com dados de população/produção → leia o eixo e a unidade antes de qualquer alternativa; erros de leitura de escala são o erro nº 1 aqui.",
+      "\"Consequência da urbanização acelerada\" → pense em pelo menos: infraestrutura, moradia irregular, mobilidade — não pare na primeira ideia.",
+      "Questão sobre matriz energética → separe fontes renováveis de não-renováveis antes de avaliar vantagens/desvantagens.",
+      "Mapa de fluxo migratório → identifique origem, destino e o motivo (econômico, ambiental, conflito) antes de aplicar teoria.",
+      "Enunciado com afirmativas numeradas I, II, III sobre tema geopolítico ou econômico → julgue cada afirmativa isoladamente antes de olhar as combinações de resposta; é o formato dominante desta banca em Geografia.",
+      "Charge política representando muro/fronteira fechada → não assuma o caso real específico; identifique a causa geopolítica mais plausível (conflito territorial, crise econômica, disputa por recursos) sem forçar um país/conflito não indicado."
+    ],
+    "pegadinhas": [
+      "Confundir êxodo rural (do campo para a cidade) com fluxos migratórios internacionais no mesmo enunciado.",
+      "Aplicar um dado desatualizado de memória (ex.: ranking de maiores economias) quando a prova fornece um gráfico com dado atual diferente — sempre priorize o dado do enunciado.",
+      "Tratar \"país desenvolvido\" e \"baixa taxa de natalidade\" como sinônimos sem checar exceções apontadas no próprio texto/gráfico.",
+      "Extrapolar uma tendência observada em UM país/bloco para o mundo todo (ou o inverso) — sempre confira a abrangência exata do dado/gráfico antes de generalizar."
+    ],
+    "subtemas": [
+      {
+        "tema": "Urbanização e migrações no Brasil",
+        "resumo": "A urbanização brasileira foi rápida e concentrada num período curto (a partir de meados do século XX), impulsionada pelo êxodo rural — mecanização do campo expulsando mão de obra combinada à industrialização atraindo pra cidade. Isso gerou crescimento urbano mais rápido do que a infraestrutura conseguiu acompanhar. É diferente de padrões mais recentes de migração interna (entre estados/regiões), que têm outros motivadores.",
+        "gatilhos": [
+          "Texto sobre crescimento acelerado de cidades brasileiras no século XX → ligue ao êxodo rural (mecanização do campo + industrialização urbana), não a um fator único.",
+          "Pergunta sobre \"consequência da urbanização acelerada\" → pense em pelo menos: infraestrutura insuficiente, moradia irregular (favelas), mobilidade urbana precária.",
+          "Dado sobre migração interna recente (entre estados/regiões) → verifique se o motivo apontado é econômico — os fluxos migratórios internos do Brasil mudaram bastante de direção nas últimas décadas."
+        ],
+        "pegadinhas": [
+          "Confundir êxodo rural (do campo pra cidade, histórico) com fluxos migratórios internos mais recentes entre regiões urbanas, que têm outras causas.",
+          "Tratar a urbanização brasileira como processo gradual e planejado — foi historicamente rápida e desigual."
+        ],
+        "exemplo": {
+          "enunciado": "Um gráfico mostra que a população urbana brasileira passou de menos de 40% do total, em 1950, para mais de 80% nas décadas seguintes, num intervalo de tempo relativamente curto para os padrões internacionais. Esse ritmo acelerado de urbanização é mais diretamente associado a:",
+          "resolucao": "A urbanização ocorreu num intervalo comprimido, associada à mecanização do campo (liberando mão de obra) e à industrialização urbana (atraindo essa mão de obra) — o êxodo rural. A pegadinha é atribuir o crescimento urbano só ao crescimento populacional natural das cidades, ignorando o papel central da migração campo-cidade."
+        }
+      },
+      {
+        "tema": "Geopolítica dos recursos naturais",
+        "resumo": "O controle/acesso a recursos naturais (água, fontes de energia, minerais, terra agricultável) gera influência e conflito geopolítico. Recursos concentrados em poucos países geram dependência estratégica para os demais; a capacidade de transformar e controlar toda a cadeia de valor do recurso importa tanto quanto tê-lo.",
+        "gatilhos": [
+          "Texto sobre um recurso natural concentrado geograficamente em poucos países → pense no poder de barganha geopolítica que essa concentração gera pros países produtores.",
+          "Pergunta sobre disputa por recurso hídrico compartilhado entre países → identifique os interesses de cada país envolvido antes de julgar qualquer solução proposta.",
+          "Menção a \"dependência energética\" de um país → separe se é dependência de importação ou de um tipo específico de fonte, já que os riscos geopolíticos de cada tipo são diferentes."
+        ],
+        "pegadinhas": [
+          "Tratar todo recurso natural como igualmente estratégico — o peso geopolítico depende de quão concentrada é sua produção mundial.",
+          "Assumir que um país rico em recursos naturais é automaticamente forte geopoliticamente — controlar a cadeia de valor importa tanto quanto ter o recurso."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto explica que um pequeno número de países concentra a maior parte da produção mundial de um determinado mineral essencial para a fabricação de baterias, o que gera preocupação em países que dependem totalmente da importação desse insumo. Essa situação ilustra, principalmente:",
+          "resolucao": "A concentração da produção de um recurso estratégico em poucos países gera dependência e vulnerabilidade geopolítica para os importadores. A pegadinha é tratar a situação apenas como questão de mercado/preço, sem reconhecer a dimensão de vulnerabilidade estratégica nacional."
+        }
+      },
+      {
+        "tema": "Biomas brasileiros e desmatamento",
+        "resumo": "O Brasil tem múltiplos biomas distintos (Amazônia, Cerrado, Caatinga, Mata Atlântica, Pantanal, Pampa), cada um com pressões de desmatamento diferentes (Amazônia: pecuária/mineração; Cerrado: expansão agrícola de grãos; Mata Atlântica: já historicamente a mais devastada). Tratar \"desmatamento no Brasil\" como sinônimo só de Amazônia ignora essa diversidade.",
+        "gatilhos": [
+          "Pergunta sobre desmatamento no Brasil → identifique QUAL bioma está sendo discutido antes de generalizar causas.",
+          "Dado sobre bioma com baixo percentual de vegetação nativa remanescente → não assuma que é sempre a Amazônia; a Mata Atlântica já perdeu historicamente proporção muito maior de sua cobertura original.",
+          "Texto sobre expansão agrícola associada a desmatamento → verifique se é pecuária extensiva, monocultura de grãos, ou outro uso — cada bioma tende a ter um vetor econômico predominante diferente."
+        ],
+        "pegadinhas": [
+          "Tratar \"desmatamento no Brasil\" como sinônimo automático de \"desmatamento na Amazônia\" — outros biomas também enfrentam desmatamento significativo.",
+          "Achar que todos os biomas brasileiros têm o mesmo nível de proteção legal ou de cobertura vegetal remanescente."
+        ],
+        "exemplo": {
+          "enunciado": "Um relatório aponta que, embora a Amazônia concentre grande atenção internacional sobre desmatamento, o Cerrado brasileiro vem perdendo vegetação nativa numa taxa proporcionalmente comparável, impulsionada principalmente pela expansão da agricultura de grãos. Esse dado evidencia, principalmente, que:",
+          "resolucao": "O texto contrasta a atenção concentrada na Amazônia com pressão comparável em outro bioma, por vetor econômico diferente. A pegadinha é tratar a questão ambiental brasileira como sinônimo exclusivo da Amazônia, ignorando a pressão sobre outros biomas."
+        }
+      },
+      {
+        "tema": "Cartografia: fusos horários e escalas",
+        "resumo": "Fusos horários: cada fuso equivale a 15° de longitude e 1 hora; deslocar-se pra LESTE avança o horário, pra OESTE atrasa. Escala de mapa: quanto MAIOR o denominador (ex.: 1:1.000.000), MENOR o detalhe (escala \"pequena\", cobrindo grande área) — nomenclatura contraintuitiva que costuma ser testada diretamente.",
+        "gatilhos": [
+          "Problema de fuso horário → cada fuso equivale a 15° de longitude e 1 hora; ao se mover pra LESTE, a hora AVANÇA; ao se mover pra OESTE, a hora ATRASA.",
+          "Pergunta sobre escala de mapa (ex.: 1:100.000) → quanto MAIOR o denominador, MENOR o nível de detalhe (escala \"pequena\") — é contraintuitivo.",
+          "Cálculo de distância real a partir de um mapa → meça a distância no mapa e multiplique pelo denominador da escala, conferindo a unidade de medida."
+        ],
+        "pegadinhas": [
+          "Inverter o sentido do avanço/atraso de horário ao cruzar fusos.",
+          "Confundir \"escala grande\" com \"mapa que cobre grande área\" — é o oposto: escala grande representa área pequena com muito detalhe."
+        ],
+        "exemplo": {
+          "enunciado": "Um viajante parte de uma cidade situada num fuso horário e voa em direção a outra cidade situada três fusos horários a leste. Ao pousar, ele deve ajustar seu relógio de que forma, e por quantas horas?",
+          "resolucao": "Deslocamentos para LESTE avançam o horário local; cruzando três fusos para leste, o viajante deve ADIANTAR o relógio em 3 horas. A pegadinha mais comum é inverter a direção (atrasar em vez de adiantar) ao mover-se para leste."
+        }
+      }
+    ]
+  },
+  "filosofia-sociologia": {
+    "resumo": "Ética, pensamento crítico e teorias sociológicas clássicas — decore a definição precisa de cada conceito, não só o nome do pensador associado a ele.",
+    "gatilhos": [
+      "Personagem/situação submissa, incapaz de romper com autoridade externa → pense em Kant: menoridade (incapacidade de usar o próprio entendimento sem tutela) → maioridade (uso autônomo e corajoso da razão).",
+      "Situação envolvendo mercantilização de algo (arte, dado pessoal, trabalho) → pense em Marx: mercadoria e fetichismo da mercadoria (o valor de troca ganha vida própria e esconde a relação de trabalho por trás do objeto).",
+      "Regime que anula a individualidade das pessoas → pense em Arendt: totalitarismo (forma de poder que torna indivíduos supérfluos e intercambiáveis).",
+      "Burocrata \"comum\" cometendo uma atrocidade → pense em Arendt: banalidade do mal (conceito diferente de totalitarismo — o mal cometido por quem renuncia a pensar/julgar por conta própria).",
+      "Conceito filosófico/sociológico citado (mesmo sem nome do pensador) cruzado com uma obra de arte, música ou filme → é o padrão mais característico desta banca: nunca pergunta \"sobre\" o pensador isolado, sempre pede a articulação entre conceito e manifestação cultural.",
+      "Argumento sobre desigualdade que toca mais de um eixo (raça, gênero, classe) → pense em Sueli Carneiro (interseccionalidade) — não aceite uma alternativa que isole só um dos eixos como resposta suficiente.",
+      "Diagnóstico sobre aceleração/fluidez das relações sociais na modernidade → pense em Anthony Giddens (\"Mundo em Descontrole\") — nome confirmado no repertório oficial de Sociologia desta banca."
+    ],
+    "pegadinhas": [
+      "Citar o nome de um pensador sem explicar o conceito com precisão — bancas de discursiva costumam exigir \"precisão conceitual\", não só repertório decorativo.",
+      "Confundir conceitos de obras diferentes do mesmo autor (ex.: totalitarismo × banalidade do mal, em Arendt, vêm de livros diferentes).",
+      "Tratar contrato social como uma teoria única — Hobbes, Locke e Rousseau partem de premissas bem diferentes sobre o estado de natureza."
+    ],
+    "subtemas": [
+      {
+        "tema": "Contratualismo: Hobbes, Locke e Rousseau",
+        "resumo": "Os três contratualistas concordam que a sociedade/poder político surge de um pacto, mas discordam sobre o estado de natureza que motiva esse pacto: Hobbes o vê como violento (\"guerra de todos contra todos\"), justificando um soberano absoluto; Locke o vê como relativamente pacífico mas inseguro quanto à propriedade, justificando um governo limitado que protege direitos naturais; Rousseau vê o homem como originalmente livre e bom, corrompido pela propriedade privada, justificando a soberania popular pela vontade geral.",
+        "gatilhos": [
+          "Texto descreve estado de natureza como violento, \"guerra de todos contra todos\" → é Hobbes; a saída é um soberano absoluto.",
+          "Texto descreve estado de natureza como relativamente pacífico mas inseguro quanto à propriedade → é Locke; a saída é um governo limitado que protege direitos naturais já existentes.",
+          "Texto descreve o homem como originalmente bom/livre, corrompido pela sociedade e pela propriedade privada → é Rousseau; a saída é a soberania popular pela \"vontade geral\"."
+        ],
+        "pegadinhas": [
+          "Tratar \"contrato social\" como teoria única — os três partem de premissas radicalmente diferentes e chegam a conclusões políticas distintas.",
+          "Confundir Locke com Rousseau por ambos criticarem poder absoluto — Locke defende propriedade privada como direito a proteger; Rousseau a vê como origem da desigualdade."
+        ],
+        "exemplo": {
+          "enunciado": "Um filósofo argumenta que, antes da formação da sociedade, os seres humanos viviam livres e relativamente iguais, mas que o surgimento da propriedade privada gerou desigualdade e conflito, tornando necessário um pacto baseado na vontade coletiva para restaurar a liberdade em novas bases. Esse argumento é característico do pensamento de:",
+          "resolucao": "A ideia de estado de natureza originalmente livre, corrompido pela propriedade privada, e solução pela vontade coletiva é marca de Rousseau, diferente de Hobbes (estado violento, soberano absoluto) e Locke (propriedade como direito a proteger). A pegadinha é confundir com Locke só por ambos tratarem de propriedade."
+        }
+      },
+      {
+        "tema": "Correntes sociológicas: Durkheim, Weber e Marx",
+        "resumo": "Três abordagens fundadoras com métodos distintos: Durkheim estuda \"fatos sociais\" externos e coercitivos ao indivíduo, focado em coesão/solidariedade social; Weber foca no sentido SUBJETIVO que o indivíduo dá à própria ação (\"ação social\") e em processos como racionalização/burocratização; Marx explica fenômenos sociais a partir do conflito de classe ligado ao modo de produção econômico (materialismo histórico).",
+        "gatilhos": [
+          "Texto trata a sociedade como algo externo ao indivíduo, que o coage (normas, leis, moral coletiva) → é Durkheim; pense em \"fato social\" e solidariedade mecânica/orgânica.",
+          "Texto foca no SENTIDO SUBJETIVO que o indivíduo dá à própria ação → é Weber; pense em \"ação social\" e racionalização/burocratização.",
+          "Texto explica um fenômeno a partir de interesses de classe ligados ao modo de produção econômico → é Marx; a estrutura econômica molda ideias e instituições, não o contrário."
+        ],
+        "pegadinhas": [
+          "Tratar \"sociologia clássica\" como escola única — os três partem de métodos e unidades de análise bem diferentes.",
+          "Aplicar \"fato social\" de Durkheim a um argumento que na verdade é sobre sentido subjetivo (que seria Weber)."
+        ],
+        "exemplo": {
+          "enunciado": "Um sociólogo argumenta que, para compreender por que um funcionário segue rigorosamente um procedimento burocrático mesmo sem supervisão direta, é preciso entender o significado que essa pessoa atribui subjetivamente ao cumprimento da regra, e não apenas constatar a existência da norma. Essa abordagem é característica do método de:",
+          "resolucao": "O foco no significado subjetivo é a marca do método weberiano de \"ação social\". A pegadinha é confundir com Durkheim, que trataria a norma apenas como fato social coercitivo externo, sem se preocupar com o sentido subjetivo."
+        }
+      },
+      {
+        "tema": "Ética kantiana e utilitarismo",
+        "resumo": "Ética kantiana (deontológica) julga uma ação pelo PRINCÍPIO/DEVER por trás dela (imperativo categórico: aja só segundo máxima universalizável), independente das consequências. Utilitarismo (consequencialista) julga uma ação pelo RESULTADO, buscando maximizar o bem-estar agregado do maior número — a mesma ação pode ser julgada diferente por cada critério.",
+        "gatilhos": [
+          "Texto julga uma ação pelo PRINCÍPIO/DEVER, independente do resultado → é ética kantiana; pense no imperativo categórico.",
+          "Texto julga uma ação pelo RESULTADO/CONSEQUÊNCIA, buscando o maior bem-estar pro maior número → é utilitarismo.",
+          "Dilema ético clássico → aplique os dois critérios separadamente: pelo dever (Kant) e pela consequência (utilitarismo) — a banca pode pedir as duas respostas separadas pro mesmo caso."
+        ],
+        "pegadinhas": [
+          "Achar que ética kantiana e utilitarismo sempre chegam à mesma conclusão prática — frequentemente divergem por avaliarem critérios diferentes.",
+          "Tratar utilitarismo como \"fazer o que dá mais prazer pra mim\" — o critério é o bem-estar AGREGADO do maior número, não satisfação individual isolada."
+        ],
+        "exemplo": {
+          "enunciado": "Diante do dilema de mentir para proteger um amigo de uma situação constrangedora, um filósofo argumenta que a mentira é moralmente errada independentemente de suas boas intenções ou de seu resultado, pois a mentira, se universalizada como regra para todos, tornaria a própria confiança social impossível. Esse argumento é característico de qual corrente ética?",
+          "resolucao": "O argumento avalia a ação pelo princípio universalizável, não pelo resultado favorável — é a lógica do imperativo categórico kantiano. A pegadinha é confundir com utilitarismo, que avaliaria a mesma mentira pelo resultado (proteger o amigo) e poderia chegar a uma conclusão oposta."
+        }
+      },
+      {
+        "tema": "Foucault, biopolítica e pensamento contemporâneo",
+        "resumo": "Foucault estuda como o PODER opera não só por repressão visível, mas por mecanismos difusos e normalizadores presentes em instituições (prisões, escolas, hospitais) que disciplinam corpos e comportamentos. \"Biopolítica\" refere-se especificamente ao poder exercido sobre a vida biológica de populações (saúde, natalidade) como objeto de gestão do Estado, distinto do poder soberano tradicional (direito de matar/punir).",
+        "gatilhos": [
+          "Texto descreve poder exercido através de vigilância constante, normas institucionais e disciplina de corpos (escola, prisão, hospital) → pense em Foucault: poder disciplinar, difuso, presente em instituições cotidianas.",
+          "Texto sobre políticas de saúde pública, controle de natalidade, gestão de populações inteiras → é biopolítica: o Estado administrando a vida biológica da população.",
+          "Comparação entre poder \"antigo\" (soberano, direito de punir) e poder \"moderno\" (gestão da vida) → a mudança de eixo é o ponto central."
+        ],
+        "pegadinhas": [
+          "Tratar \"poder\" em Foucault como sinônimo de \"repressão do Estado\" — o conceito é mais amplo e difuso, presente em relações cotidianas.",
+          "Confundir biopolítica com política de saúde pública genérica — biopolítica é sobre a vida biológica da POPULAÇÃO como objeto de gestão."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto argumenta que, a partir de certo momento histórico, o poder estatal deixou de se concentrar apenas no direito de punir ou executar indivíduos e passou a se ocupar cada vez mais da gestão da saúde, natalidade e expectativa de vida da população como um todo, por meio de políticas públicas. Esse deslocamento é analisado teoricamente pelo conceito de:",
+          "resolucao": "A mudança do poder centrado em punir corpos para o poder centrado em administrar a vida biológica populacional é exatamente a biopolítica de Foucault. A pegadinha é confundir isso com descrição genérica de \"política de saúde\", sem reconhecer o conceito analítico específico."
+        }
+      }
+    ]
+  },
+  "direitos-humanos": {
+    "resumo": "Direitos fundamentais, movimentos sociais e igualdade — sempre ligados a um caso ou dado concreto de desigualdade, não a definições abstratas isoladas.",
+    "gatilhos": [
+      "Pergunta sobre um direito fundamental → identifique se é um direito civil, político ou social antes de aplicar ao caso do enunciado.",
+      "Texto sobre um movimento social → identifique a demanda central e o obstáculo que ele enfrenta antes de avaliar estratégias.",
+      "\"Direito a ter direitos\" (Arendt) → lembre que a autora fala de apátridas/refugiados perderem a condição de sujeitos de direito por não pertencerem a nenhuma comunidade política.",
+      "Caso de desigualdade que toca mais de um eixo (raça + gênero + classe) → pense em Sueli Carneiro (interseccionalidade) — não aceite resposta que isole só um dos eixos.",
+      "Trecho de manifesto/carta histórica sobre direitos civis, seguido de referência a um debate atual → desconfie de alternativa que generaliza demais o alcance do documento histórico original para o contexto de hoje."
+    ],
+    "pegadinhas": [
+      "Tratar igualdade formal (perante a lei) e igualdade material (de condições reais) como sinônimos.",
+      "Reduzir uma pauta de direitos humanos a uma questão só jurídica, ignorando a dimensão social/econômica.",
+      "Confundir direitos humanos (universais) com direitos constitucionais de um país específico."
+    ],
+    "subtemas": [
+      {
+        "tema": "Gerações de direitos humanos e a DUDH",
+        "resumo": "Direitos humanos costumam ser organizados em gerações: primeira (liberdades civis/políticas — expressão, voto, devido processo), segunda (direitos sociais/econômicos/culturais — educação, saúde, trabalho), terceira (direitos coletivos/difusos — meio ambiente, autodeterminação dos povos). A Declaração Universal dos Direitos Humanos de 1948 (DUDH) é o marco fundador pós-guerra, mas é um documento declaratório — sua efetivação depende de outros instrumentos jurídicos.",
+        "gatilhos": [
+          "Texto sobre liberdade de expressão, voto, devido processo legal → é direito de primeira geração (civil e político).",
+          "Texto sobre educação, saúde, trabalho, previdência → é direito de segunda geração (social, econômico e cultural).",
+          "Texto sobre meio ambiente saudável, autodeterminação dos povos, direitos que pertencem a coletividades → é direito de terceira geração."
+        ],
+        "pegadinhas": [
+          "Tratar a DUDH (1948) como um tratado com força jurídica de execução direta e automática — é um marco declaratório fundamental, mas sua efetivação depende de outros instrumentos.",
+          "Achar que a ordem das \"gerações\" significa que uma substitui a anterior — elas se acumulam."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto discute o direito de um povo indígena a um meio ambiente preservado e à autodeterminação sobre o uso de suas terras tradicionais, tratando isso como um direito que pertence à coletividade, não apenas a indivíduos isolados. Esse tipo de direito é classificado como:",
+          "resolucao": "Direitos que pertencem a coletividades inteiras são classificados como direitos de terceira geração — direitos difusos/coletivos. A pegadinha é confundir com direitos de segunda geração só por envolver prestação positiva do Estado, sem reconhecer o caráter especificamente coletivo/difuso."
+        }
+      },
+      {
+        "tema": "Direitos da criança, do adolescente e das pessoas com deficiência",
+        "resumo": "O ECA (Estatuto da Criança e do Adolescente) estabelece proteção integral e prioridade absoluta, tratando crianças e adolescentes com regime jurídico próprio, não como \"adultos em miniatura\". Direitos das pessoas com deficiência hoje seguem o modelo social (as barreiras do ambiente são o problema a corrigir), substituindo o antigo modelo médico (a deficiência como problema individual a \"consertar\").",
+        "gatilhos": [
+          "Texto sobre criança/adolescente em situação de vulnerabilidade → pense no princípio da proteção integral e prioridade absoluta do ECA.",
+          "Texto sobre pessoa com deficiência enfrentando barreira de acesso → ligue à acessibilidade como obrigação ativa da sociedade/Estado de adaptar ambientes, não um favor.",
+          "Comparação entre modelo \"médico\" e modelo \"social\" de deficiência → modelo médico trata a deficiência como problema individual; modelo social trata as barreiras do ambiente como o problema — a legislação atual adota o modelo social."
+        ],
+        "pegadinhas": [
+          "Tratar direitos da criança e do adolescente como versão \"reduzida\" dos direitos de um adulto — o ECA estabelece regime jurídico próprio de proteção integral.",
+          "Reduzir inclusão de pessoas com deficiência a adaptações físicas — acessibilidade abrange também barreiras comunicacionais e atitudinais."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto descreve que uma escola, ao receber um aluno com deficiência visual, não se limita a adaptar o espaço físico, mas também revisa seu material didático para formatos acessíveis e capacita professores para lidar com preconceitos e barreiras atitudinais entre os colegas. Essa abordagem exemplifica principalmente:",
+          "resolucao": "A escola trata a inclusão como responsabilidade ativa de adaptar múltiplas dimensões — a lógica do modelo social de deficiência. A pegadinha é reduzir a resposta apenas à adaptação física, ignorando as dimensões comunicacional e atitudinal também descritas."
+        }
+      },
+      {
+        "tema": "Ações afirmativas e cotas raciais no Brasil",
+        "resumo": "Ações afirmativas (como cotas raciais em universidades) buscam corrigir desigualdade estrutural de ponto de partida — ligadas ao conceito de igualdade MATERIAL, não igualdade formal (mesma regra pra todos, independente do histórico). A justificativa histórica no Brasil se conecta à desigualdade estrutural herdada do período escravista.",
+        "gatilhos": [
+          "Texto sobre política de cotas raciais em universidades/concursos públicos → ligue ao conceito de igualdade material, não igualdade formal.",
+          "Argumento contrário a cotas baseado em \"mérito individual\" → identifique que o debate central não é sobre mérito em si, mas sobre se as condições de partida são equivalentes entre os grupos comparados.",
+          "Pergunta sobre justificativa histórica das cotas raciais no Brasil → ligue à desigualdade estrutural resultante do período escravista sem políticas de reparação equivalentes depois."
+        ],
+        "pegadinhas": [
+          "Tratar ações afirmativas como \"privilégio\" desconectado de justificativa histórica de desigualdade estrutural.",
+          "Confundir igualdade formal com igualdade material ao avaliar um argumento sobre ações afirmativas."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto argumenta que aplicar exatamente os mesmos critérios de seleção a candidatos que tiveram acesso muito desigual a recursos educacionais ao longo da vida não garante, na prática, igualdade de oportunidade real entre eles. Esse argumento é usado com mais frequência para justificar:",
+          "resolucao": "O argumento de que tratar todos com as mesmas regras não corrige desigualdades reais de ponto de partida é a justificativa central das ações afirmativas: buscar igualdade material, não apenas formal. A pegadinha é tratar isso como argumento contra meritocracia em geral, quando é um argumento sobre condições desiguais para desenvolver esse mérito."
+        }
+      },
+      {
+        "tema": "Direito à moradia e refugiados",
+        "resumo": "Direito à moradia (direito social) vai além de \"ter um teto\" — inclui segurança de posse, habitabilidade e acesso a serviços. Conecta-se a deslocamento forçado (refugiados, deslocados internos) quando o deslocamento retira das pessoas segurança habitacional, sobrepondo vulnerabilidades. Refugiados cruzam fronteira internacional; deslocados internos permanecem no próprio país — proteções legais diferem.",
+        "gatilhos": [
+          "Texto sobre pessoa/família sem moradia adequada, mesmo com algum abrigo → verifique se falta segurança de posse, acesso a serviços ou habitabilidade, não só \"ter um teto\".",
+          "Texto sobre despejo/remoção forçada de comunidade → ligue ao direito à moradia como incluindo proteção contra remoção arbitrária.",
+          "Texto cruzando deslocamento forçado com precariedade habitacional → reconheça a sobreposição de vulnerabilidades."
+        ],
+        "pegadinhas": [
+          "Tratar direito à moradia como sinônimo simples de \"ter uma casa\" — o conceito é mais amplo.",
+          "Tratar refugiados e deslocados internos como a mesma categoria jurídica — deslocados internos não cruzam fronteira."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto descreve famílias que, após um conflito armado interno, permaneceram dentro do próprio território nacional, mas perderam suas casas e vivem em assentamentos temporários sem segurança sobre a permanência no local. Essas famílias são classificadas juridicamente como:",
+          "resolucao": "Como permaneceram dentro do próprio país, sem cruzar fronteira internacional, são deslocados internos, não refugiados. A pegadinha é classificá-las como \"refugiados\" só por terem perdido moradia por conflito, sem observar que a definição de refugiado exige deslocamento internacional."
+        }
+      }
+    ]
+  },
+  "atualidades-politica": {
+    "resumo": "Conjuntura política e econômica brasileira: reformas, instituições, relação entre poderes — sempre ancorada em fatos recentes, não opinião pessoal.",
+    "gatilhos": [
+      "Pergunta sobre uma reforma (tributária, administrativa, etc.) → identifique o problema que ela tenta resolver antes de avaliar prós/contras.",
+      "Texto de opinião/editorial no enunciado → separe o fato relatado da opinião do autor antes de responder.",
+      "Pergunta sobre relação entre poderes (Executivo/Legislativo/Judiciário) → pense em freios e contrapesos, não em qual poder \"manda mais\".",
+      "Texto sobre evento político recente (eleição, crise institucional) → a FGV trata isso dentro do bloco nomeado \"Ciências Humanas\"/Atualidades, sempre com texto de apoio jornalístico ou de opinião — nunca pergunta \"solta\" sem esse ancoradouro."
+    ],
+    "pegadinhas": [
+      "Confundir a posição do autor de um texto de opinião com a posição \"correta\" do gabarito — a banca testa compreensão do argumento, não concordância com ele.",
+      "Generalizar uma medida pontual como se fosse uma mudança estrutural permanente.",
+      "Misturar conjuntura (fato recente) com estrutura (regra permanente da Constituição) como se fossem a mesma coisa."
+    ],
+    "subtemas": [
+      {
+        "tema": "Presidencialismo de coalizão e sistema político brasileiro",
+        "resumo": "É o arranjo em que um presidente eleito por voto direto, mas sem maioria própria num Congresso fragmentado entre muitos partidos, precisa negociar apoio legislativo distribuindo ministérios, cargos e recursos orçamentários entre partidos aliados. É diferente do parlamentarismo, onde o chefe de governo já nasce de uma maioria formada dentro do próprio Legislativo. O arranjo é estrutural no Brasil desde a redemocratização — não é sinal de crise pontual, embora tenha custos (instabilidade, fisiologismo) amplamente debatidos.",
+        "gatilhos": [
+          "Texto menciona presidente que \"negocia\" com o Congresso pra aprovar uma pauta → é presidencialismo de coalizão em ação; não confunda com parlamentarismo, onde o chefe de governo já nasce da maioria.",
+          "Pergunta sobre fragmentação partidária (muitos partidos pequenos) → ligue à necessidade de coalizões amplas — quanto mais fragmentado o Congresso, mais custosa a governabilidade.",
+          "Menção a \"emendas parlamentares\" ou \"ministérios distribuídos entre partidos\" → é a moeda de troca típica da coalizão, não corrupção por definição — a banca testa se você distingue prática institucional legal de desvio."
+        ],
+        "pegadinhas": [
+          "Tratar \"presidencialismo de coalizão\" como sinônimo de crise institucional — é um arranjo estrutural do sistema brasileiro desde a redemocratização, não um sintoma passageiro.",
+          "Confundir coalizão de governo (base parlamentar) com coligação eleitoral (aliança pra eleição) — são conceitos distintos, mesmo que relacionados."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto jornalístico afirma que o governo federal, mesmo tendo vencido a eleição presidencial, precisou nomear ministros de partidos que não participaram de sua campanha para conseguir aprovar seu orçamento no Congresso. Essa situação exemplifica:",
+          "resolucao": "O enunciado descreve um presidente eleito que negocia cargos com partidos fora de sua base original de campanha para garantir apoio legislativo — isso é a definição operacional de presidencialismo de coalizão: o Executivo, mesmo legitimado pelo voto direto, depende de uma maioria construída no Congresso (fragmentado entre muitos partidos) para governar. A resposta correta identificaria isso como o funcionamento normal do sistema político brasileiro, não como uma anomalia ou crise — esse é o ponto que costuma diferenciar a alternativa certa das erradas, que tendem a superdimensionar o episódio como sinal de ruptura institucional."
+        }
+      },
+      {
+        "tema": "Reforma tributária brasileira",
+        "resumo": "O sistema tributário brasileiro sobre consumo historicamente reuniu vários tributos distintos (ICMS estadual, ISS municipal, PIS/Cofins federais, entre outros), cada um com regras próprias, gerando complexidade, efeitos cumulativos e disputa entre estados por empresas (a chamada \"guerra fiscal\"). O núcleo de propostas de reforma tributária é simplificar e unificar esses tributos num modelo mais próximo de um imposto sobre valor agregado, com período de transição plurianual — mudança estrutural, não apenas ajuste de alíquota.",
+        "gatilhos": [
+          "Texto menciona \"simplificação tributária\" ou \"unificação de impostos\" → pense no problema que a reforma resolve: múltiplos tributos sobre consumo, cada um com regra própria, gerando cumulatividade e guerra fiscal entre estados.",
+          "Pergunta sobre \"guerra fiscal entre estados\" → é a prática de estados reduzirem ICMS pra atrair empresas; a reforma tributária mira reduzir esse incentivo, não eliminá-lo por decreto único.",
+          "Menção a período de transição de vários anos → reformas tributárias amplas raramente são imediatas; a banca gosta de testar se você sabe que mudança estrutural desse tipo é gradual."
+        ],
+        "pegadinhas": [
+          "Tratar a reforma tributária como mudança só na alíquota (quanto se paga) — o núcleo do debate é a estrutura (quantos tributos, sobre o quê, cobrados por quem), não apenas o valor cobrado.",
+          "Assumir que \"simplificação\" significa automaticamente \"redução de carga tributária total\" — são objetivos diferentes; simplificar a estrutura não implica necessariamente pagar menos no total."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto explica que, antes de uma reforma tributária, uma mesma cadeia produtiva podia ser tributada por impostos estaduais, municipais e federais distintos, cada um com regras próprias, tornando o sistema mais complexo do que em países que adotam um único imposto sobre valor agregado. O objetivo central da reforma discutida no texto é:",
+          "resolucao": "O texto descreve fragmentação de tributos sobre consumo entre os três níveis de governo, cada um com regras próprias — esse é exatamente o problema que motiva propostas de unificação em um modelo de IVA (imposto sobre valor agregado). A resposta correta aponta para simplificação/unificação da estrutura tributária sobre consumo, não para redução de arrecadação nem para centralização política — a banca costuma oferecer alternativas que confundem \"simplificar a estrutura\" com \"baixar impostos\" ou com \"tirar autonomia dos estados\", que são efeitos colaterais possíveis, não o objetivo central declarado."
+        }
+      },
+      {
+        "tema": "Reforma da previdência e transição demográfica",
+        "resumo": "Reformas previdenciárias costumam ser motivadas por transição demográfica: expectativa de vida crescente e natalidade em queda alteram a proporção entre trabalhadores contribuintes e aposentados num sistema de repartição (onde quem trabalha hoje financia quem se aposenta hoje). Os mecanismos mais discutidos são idade mínima e tempo de contribuição, geralmente acompanhados de regras de transição pra quem já estava próximo de se aposentar pela regra anterior.",
+        "gatilhos": [
+          "Texto menciona \"aumento da expectativa de vida\" ou \"envelhecimento da população\" → ligue direto à sustentabilidade do sistema de repartição: menos trabalhadores jovens sustentando mais aposentados por mais tempo.",
+          "Pergunta sobre \"regra de transição\" → identifique que ela existe pra não aplicar a regra nova de uma vez a quem já estava perto de se aposentar pela regra antiga.",
+          "Comparação entre sistema de \"repartição\" e \"capitalização\" → repartição é solidariedade entre gerações (quem trabalha hoje paga quem se aposenta hoje); capitalização é poupança individual — não são a mesma lógica."
+        ],
+        "pegadinhas": [
+          "Tratar reforma da previdência como medida isolada de \"corte de direitos\" sem mencionar o fator demográfico que a motiva — a banca cobra entendimento da causa estrutural, não só do efeito político.",
+          "Confundir idade mínima com tempo de contribuição — são dois requisitos distintos que costumam aparecer juntos nas regras, não intercambiáveis."
+        ],
+        "exemplo": {
+          "enunciado": "Um gráfico mostra que, em 1980, havia cerca de sete trabalhadores em idade ativa para cada pessoa com 65 anos ou mais no Brasil, e que essa proporção vem caindo continuamente. Esse dado é citado por especialistas como argumento central para justificar:",
+          "resolucao": "A razão entre trabalhadores ativos e pessoas idosas caindo ao longo do tempo é a definição de transição demográfica aplicada à previdência: um sistema de repartição depende de uma proporção favorável entre quem contribui e quem recebe benefício; quando essa proporção cai, o sistema fica sob pressão financeira crescente. A resposta correta liga o dado demográfico à necessidade de ajustar regras (idade, tempo de contribuição) para manter o sistema sustentável — alternativas erradas tendem a tratar o dado como argumento puramente político ou ideológico, ignorando o mecanismo atuarial que o texto está de fato descrevendo."
+        }
+      },
+      {
+        "tema": "Federalismo fiscal e financiamento de campanhas",
+        "resumo": "São dois temas relacionados por envolverem dinheiro público, mas conceitualmente distintos. Federalismo fiscal trata de como a arrecadação e as responsabilidades de gasto são divididas entre União, estados e municípios, incluindo transferências (como fundos de participação) que compensam entes com arrecadação própria insuficiente. Financiamento de campanhas trata das regras sobre como candidatos e partidos custeiam eleições — no Brasil, hoje majoritariamente por fundo público (Fundo Eleitoral) e doações de pessoas físicas, após a proibição de doações de empresas.",
+        "gatilhos": [
+          "Texto sobre \"repasses da União pra estados e municípios\" → é federalismo fiscal: entes menores dependem de transferências porque não arrecadam o suficiente sozinhos pras suas responsabilidades.",
+          "Menção a \"Fundo Eleitoral\" ou \"financiamento público de campanha\" → lembre que o Brasil proibiu doação de empresas a campanhas; hoje o financiamento é majoritariamente público (fundo) e por pessoas físicas.",
+          "Pergunta que mistura os dois temas (dinheiro público indo pra campanhas E pra estados) → separe: um é sobre organização territorial do Estado, o outro é sobre regras eleitorais — não trate como a mesma discussão só porque envolve \"dinheiro público\"."
+        ],
+        "pegadinhas": [
+          "Assumir que municípios pobres recebem menos transferência por serem menos importantes — na prática, fundos como o FPM existem justamente pra compensar desigualdade de arrecadação própria.",
+          "Confundir \"financiamento público de campanha\" com \"gasto público em geral\" — o Fundo Eleitoral é uma rubrica orçamentária específica, debatida à parte do orçamento geral."
+        ],
+        "exemplo": {
+          "enunciado": "Um município pequeno, com pouca atividade econômica e arrecadação própria baixa, consegue manter serviços básicos de saúde e educação principalmente graças a repasses vindos da União e do estado. Esse mecanismo é um exemplo de:",
+          "resolucao": "O texto descreve um ente federativo (município) que depende de recursos vindos de outro nível de governo pra cumprir suas competências — isso é federalismo fiscal na prática: a Constituição divide competências e arrecadação de forma desigual entre União, estados e municípios, e usa transferências (como fundos de participação) pra equilibrar a capacidade de cada ente prestar serviços. A resposta certa aponta pro mecanismo de transferências intergovernamentais; um erro comum é confundir isso com financiamento de campanha eleitoral só porque ambos envolvem \"repasse de dinheiro público\" — são mecanismos institucionais diferentes."
+        }
+      }
+    ]
+  },
+  "atualidades-geopolitica": {
+    "resumo": "Conflitos internacionais, blocos econômicos e organismos multilaterais — cobrada quase sempre com um argumento a favor e um desafio real da instituição/processo em questão.",
+    "gatilhos": [
+      "Pergunta sobre um organismo multilateral (ONU, OMC, etc.) → explique a função central dele (cooperação, regulação, segurança) antes de julgar sua eficácia.",
+      "Conflito internacional no enunciado → identifique os atores, o interesse de cada um e o contexto histórico antes de avaliar soluções.",
+      "\"Discuta um benefício e um desafio de X\" → estruture a resposta nesses dois blocos separados, não misture.",
+      "Questão sobre bloco econômico ou conflito internacional pode vir em formato de afirmativas numeradas (I, II, III) para julgar — não assuma pergunta única; leia cada afirmativa isoladamente antes de combinar.",
+      "Tema de totalitarismo/autoritarismo cruzado com organismo internacional → pense em Hannah Arendt (repertório oficial confirmado desta banca) como referência conceitual de fundo, mesmo que o nome não apareça no enunciado."
+    ],
+    "pegadinhas": [
+      "Reduzir um conflito complexo a uma única causa (só econômica, ou só religiosa, ou só territorial).",
+      "Usar generalizações vagas (\"a ONU é importante\") sem justificar com um mecanismo concreto.",
+      "Confundir bloco econômico (união aduaneira, mercado comum) com aliança política/militar."
+    ],
+    "subtemas": [
+      {
+        "tema": "Mercosul e União Europeia: blocos econômicos",
+        "resumo": "Blocos econômicos variam por grau de integração: o Mercosul é primariamente uma união aduaneira (tarifa externa comum entre membros, barreiras internas reduzidas), com integração institucional/política mais limitada; a União Europeia representa um modelo de integração muito mais profundo (mercado comum, instituições supranacionais robustas, e moeda comum pra maioria dos membros). Comparar os dois testa reconhecer GRAUS de integração, não tratá-los como equivalentes.",
+        "gatilhos": [
+          "Texto compara Mercosul e União Europeia → não trate como blocos equivalentes; a UE tem integração institucional muito mais profunda que o Mercosul.",
+          "Pergunta sobre \"tipo\" de bloco econômico → identifique o grau: zona de livre comércio < união aduaneira (caso do Mercosul) < mercado comum < união econômica/monetária (caso avançado da UE).",
+          "Texto sobre dificuldade de avançar a integração do Mercosul → pense em assimetrias econômicas entre os países-membros e resistência política a ceder soberania."
+        ],
+        "pegadinhas": [
+          "Tratar Mercosul e UE como blocos de mesmo nível de integração só porque ambos são \"blocos econômicos regionais\".",
+          "Achar que todo bloco econômico regional necessariamente evolui pra ter moeda única, como a UE — é trajetória específica europeia, não regra geral."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto compara dois blocos econômicos regionais, observando que um deles adota uma moeda comum entre a maioria dos seus membros e possui instituições com poder de decisão supranacional, enquanto o outro mantém tarifa externa comum, mas preserva moedas e boa parte da soberania decisória de cada país-membro. Esses dois blocos são, respectivamente:",
+          "resolucao": "O bloco com moeda comum e instituições supranacionais é a União Europeia; o bloco com tarifa externa comum mas soberania preservada é o Mercosul. A pegadinha é inverter os dois ou tratá-los como equivalentes só por serem ambos \"blocos econômicos regionais\"."
+        }
+      },
+      {
+        "tema": "ONU, OMC e FMI: organismos multilaterais",
+        "resumo": "Cada organismo multilateral tem função central distinta, frequentemente confundida: ONU (política/segurança internacional, direitos humanos, mediação de conflitos), OMC (regras de comércio internacional, resolução de disputas comerciais), FMI (estabilidade financeira internacional, empréstimos a países em crise, geralmente com condicionalidades). Reconhecer QUAL organização trata de QUAL tipo de questão é a habilidade central testada.",
+        "gatilhos": [
+          "Texto sobre mediação de conflito internacional, direitos humanos ou segurança global → é competência típica da ONU.",
+          "Texto sobre disputa comercial entre países, tarifas, regras de comércio internacional → é competência típica da OMC.",
+          "Texto sobre empréstimo a país em crise financeira/cambial, com condições de ajuste fiscal exigidas → é competência típica do FMI."
+        ],
+        "pegadinhas": [
+          "Confundir as três organizações por serem todas \"multilaterais\" — cada uma tem escopo bem definido e distinto.",
+          "Achar que FMI e Banco Mundial são a mesma instituição — têm funções distintas (estabilidade financeira de curto prazo × financiamento de desenvolvimento de longo prazo)."
+        ],
+        "exemplo": {
+          "enunciado": "Um país enfrentando grave crise cambial busca um empréstimo internacional condicionado à adoção de reformas fiscais específicas, enquanto simultaneamente disputa, em outro fórum internacional, a legalidade de tarifas impostas por um parceiro comercial. Esses dois processos envolvem, respectivamente:",
+          "resolucao": "O empréstimo condicionado é operação típica do FMI; a disputa sobre tarifas é competência da OMC. A pegadinha é confundir as duas instituições ou incluir a ONU, que não tem competência central sobre finanças ou tarifas comerciais."
+        }
+      },
+      {
+        "tema": "Multipolaridade e guerras por procuração",
+        "resumo": "\"Multipolaridade\" descreve uma estrutura de poder global com vários centros relevantes (em contraste com a bipolaridade da Guerra Fria ou a unipolaridade dos EUA pós-Guerra Fria). \"Guerra por procuração\" (proxy war) é o conflito em que potências apoiam lados opostos num terceiro país sem confronto direto entre si — padrão recorrente tanto na Guerra Fria quanto em tensões multipolares recentes.",
+        "gatilhos": [
+          "Texto descreve múltiplos centros de poder relevantes simultaneamente → é multipolaridade; contraste com bipolaridade (Guerra Fria) e unipolaridade (EUA pós-Guerra Fria).",
+          "Conflito armado num país onde potências externas apoiam lados opostos sem confronto direto entre si → é guerra por procuração; identifique quem apoia cada lado e o interesse estratégico.",
+          "Pergunta pede pra comparar a ordem internacional atual com a da Guerra Fria → não assuma que hoje ainda é bipolar; a análise contemporânea tende a descrever multipolaridade."
+        ],
+        "pegadinhas": [
+          "Tratar qualquer conflito envolvendo mais de um país como automaticamente \"guerra por procuração\" — o termo requer apoio de potências a lados opostos SEM confronto direto entre elas.",
+          "Confundir multipolaridade com ausência de hierarquia de poder — multipolaridade significa vários centros relevantes, não ausência de hierarquia."
+        ],
+        "exemplo": {
+          "enunciado": "Um conflito armado interno em um país é descrito como recebendo apoio militar e financeiro de duas potências externas rivais, cada uma apoiando um lado oposto do conflito, sem que essas duas potências entrem em confronto militar direto entre si. Esse padrão de envolvimento internacional é conhecido como:",
+          "resolucao": "O padrão descrito é a definição clássica de guerra por procuração. A pegadinha é tratar isso apenas como \"guerra civil com ajuda externa\" genérica, sem reconhecer o conceito específico de confronto indireto entre potências rivais."
+        }
+      },
+      {
+        "tema": "Cadeias globais de valor e geopolítica dos semicondutores",
+        "resumo": "A manufatura moderna é fragmentada entre países (cadeia global de valor: design num país, componentes de vários outros, montagem em outro ainda), tornando cadeias de suprimento interdependentes e vulneráveis a interrupções. Semicondutores (chips) são o caso paradigmático — produção concentrada em pouquíssimos países/empresas, criando dependência estratégica.",
+        "gatilhos": [
+          "Texto descreve um produto cujas etapas de produção acontecem em vários países diferentes → é cadeia global de valor; pense na interdependência e na vulnerabilidade a interrupções em qualquer elo.",
+          "Menção a semicondutores/chips concentrados na produção de poucos países/empresas → ligue à vulnerabilidade estratégica de países que dependem dessa importação.",
+          "Pergunta sobre restrição de exportação de tecnologia entre potências → no caso de semicondutores, essas restrições têm peso geopolítico desproporcional por sua concentração produtiva."
+        ],
+        "pegadinhas": [
+          "Tratar cadeias globais de valor como fenômeno neutro e puramente econômico — também criam vulnerabilidades exploradas geopoliticamente.",
+          "Achar que qualquer país com fábricas de eletrônicos domina a produção de semicondutores — a etapa mais avançada (chips de ponta) está concentrada num número muito pequeno de empresas/países."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto descreve que a produção de um componente eletrônico essencial está concentrada em poucas fábricas ao redor do mundo, de modo que uma interrupção nessa produção afeta simultaneamente a fabricação de automóveis, celulares e equipamentos militares em dezenas de países. Essa situação ilustra, principalmente:",
+          "resolucao": "A concentração da produção de um componente essencial afetando múltiplos setores globalmente ilustra tanto cadeia global de valor quanto a vulnerabilidade estratégica associada à geopolítica dos semicondutores. A pegadinha é tratar a situação como problema puramente logístico, sem reconhecer a dimensão de poder e dependência estratégica."
+        }
+      },
+      {
+        "tema": "Refugiados e direito internacional humanitário",
+        "resumo": "\"Refugiado\" tem definição jurídica específica (pessoa que foge de perseguição por motivos de raça, religião, nacionalidade, opinião política ou grupo social), distinta de \"migrante econômico\" (deslocamento primariamente por oportunidade econômica, sem perseguição). A distinção importa juridicamente — as proteções internacionais diferem — mesmo que a mídia trate os dois como sinônimos de \"crise migratória\".",
+        "gatilhos": [
+          "Texto descreve pessoa fugindo de perseguição (política, religiosa, étnica) → é refugiado, no sentido jurídico específico, com proteções internacionais associadas.",
+          "Texto descreve pessoa se deslocando primariamente por oportunidades econômicas, sem relato de perseguição → é migrante econômico, categoria juridicamente distinta.",
+          "Pergunta sobre obrigação de um país receptor em relação a refugiados → pense no princípio de non-refoulement (não devolver a pessoa a um país onde sofreria perseguição)."
+        ],
+        "pegadinhas": [
+          "Tratar \"refugiado\" e \"migrante econômico\" como sinônimos — juridicamente são categorias distintas.",
+          "Achar que qualquer pessoa fugindo de uma situação difícil se qualifica automaticamente como refugiado — a definição exige fundado temor de perseguição por motivos específicos."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto descreve dois grupos de pessoas cruzando a mesma fronteira: um grupo foge de perseguição política em seu país de origem, e o outro se desloca buscando melhores oportunidades de emprego, sem relatar perseguição. Do ponto de vista do direito internacional, esses dois grupos:",
+          "resolucao": "Apesar de cruzarem a mesma fronteira, os dois grupos se enquadram em categorias jurídicas distintas: refugiado (com proteções específicas) e migrante econômico (sem essas mesmas proteções). A pegadinha é tratar os dois grupos como juridicamente equivalentes só por compartilharem a rota migratória."
+        }
+      }
+    ]
+  },
+  "atualidades-meioambiente": {
+    "resumo": "Mudanças climáticas, acordos internacionais e transição energética — com foco no princípio de \"responsabilidades comuns, porém diferenciadas\" entre países desenvolvidos e em desenvolvimento. Nota: entre as 4 frentes de Atualidades, esta é a que tem menos confirmação direta como repertório oficial da FGV — trate como preparo geral robusto (forte em outras bancas de vestibular), não como aposta garantida desta banca especificamente.",
+    "gatilhos": [
+      "Pergunta sobre acordo climático (Paris, COP) → identifique se é sobre meta, financiamento ou mecanismo de cumprimento antes de julgar.",
+      "\"Desafio da transição energética\" → pense em pelo menos dois ângulos: técnico/econômico E social (empregos, desigualdade regional).",
+      "Dado de emissões per capita vs. emissões totais de um país → confira qual das duas métricas o enunciado está usando antes de comparar países."
+    ],
+    "pegadinhas": [
+      "Tratar \"país que mais emite em termos absolutos\" e \"país que mais emite per capita\" como a mesma coisa.",
+      "Ignorar o histórico de industrialização ao avaliar responsabilidade climática (o argumento central do princípio \"comum, porém diferenciada\").",
+      "Assumir que toda fonte renovável é automaticamente livre de impacto ambiental (ex.: hidrelétricas e alagamento de áreas)."
+    ],
+    "subtemas": [
+      {
+        "tema": "Efeito estufa e acordos climáticos internacionais",
+        "resumo": "O efeito estufa é um fenômeno natural e necessário: sem ele, a Terra seria fria demais pra vida como a conhecemos. O problema ambiental não é sua existência, mas a intensificação causada pelo excesso de emissões humanas de gases como CO2 e metano, que retêm mais calor do que o equilíbrio natural. Acordos internacionais (como Paris) estabelecem metas e mecanismos de redução e financiamento, muitas vezes organizados pelo princípio de \"responsabilidades comuns, porém diferenciadas\" — países que historicamente mais emitiram têm responsabilidade maior, mesmo que hoje outro país emita mais em termos absolutos.",
+        "gatilhos": [
+          "Texto trata efeito estufa como se fosse, em si, o problema → cuidado: o efeito estufa é natural e necessário pra vida na Terra; o problema é a intensificação por excesso de emissões humanas.",
+          "Menção a \"meta de redução de emissões\" num acordo internacional → identifique se é meta obrigatória (com sanção) ou voluntária (compromisso sem punição formal) — muda a força do instrumento.",
+          "Comparação entre países desenvolvidos e em desenvolvimento num acordo climático → lembre do princípio de \"responsabilidades comuns, porém diferenciadas\": quem historicamente mais emitiu tem responsabilidade maior, mesmo que hoje outro país emita mais em termos absolutos."
+        ],
+        "pegadinhas": [
+          "Tratar \"efeito estufa\" e \"aquecimento global\" como sinônimos exatos — efeito estufa é o mecanismo físico; aquecimento global é a consequência observada do mecanismo intensificado.",
+          "Achar que todo acordo climático internacional tem força de lei com punição garantida — muitos mecanismos dependem de compromisso voluntário e pressão diplomática, não sanção automática."
+        ],
+        "exemplo": {
+          "enunciado": "Um texto afirma que, sem o efeito estufa, a temperatura média da Terra seria muito mais baixa e incompatível com a vida como a conhecemos, mas que o aumento acelerado das emissões de gases de efeito estufa nas últimas décadas vem intensificando esse fenômeno além do equilíbrio natural. A partir desse texto, é correto afirmar que:",
+          "resolucao": "O texto distingue claramente o efeito estufa como fenômeno natural necessário (sem ele a Terra seria mais fria) da intensificação artificial causada por emissões humanas — a resposta correta reconhece essa distinção: o problema ambiental não é a existência do efeito estufa, mas seu reforço além do patamar natural por ação humana. A pegadinha mais comum aqui é escolher uma alternativa que trate o efeito estufa em si como algo a ser eliminado, quando na verdade ele é a base da habitabilidade do planeta — o alvo do debate é a intensidade excessiva, não o fenômeno."
+        }
+      },
+      {
+        "tema": "Transição energética e energias renováveis",
+        "resumo": "Transição energética é a mudança de uma matriz dominada por combustíveis fósseis para fontes renováveis (solar, eólica, hídrica, biomassa), motivada por metas climáticas — mas não é só uma troca técnica. Envolve tradeoffs reais: fontes como solar e eólica são intermitentes (não geram o tempo todo, exigindo armazenamento ou backup), a mudança de infraestrutura tem custo alto, e regiões dependentes economicamente de combustíveis fósseis enfrentam impacto real sobre emprego e renda durante a transição.",
+        "gatilhos": [
+          "Texto trata transição energética como decisão puramente técnica → lembre de incluir também o ângulo social: empregos em setores fósseis, custo de infraestrutura, desigualdade regional na adoção.",
+          "Menção a \"fonte intermitente\" (solar, eólica) → ligue ao desafio de armazenamento/backup — a fonte não gera energia o tempo todo, então a rede precisa de solução complementar.",
+          "Comparação da matriz energética brasileira com a de outros países → o Brasil já tem matriz elétrica majoritariamente renovável (hidrelétrica historicamente), diferente de países com matriz majoritariamente fóssil — não generalize o debate global pro caso brasileiro sem checar essa diferença de ponto de partida."
+        ],
+        "pegadinhas": [
+          "Tratar toda fonte renovável como automaticamente livre de impacto ambiental — hidrelétricas alagam áreas e deslocam populações, por exemplo; \"renovável\" não é sinônimo de \"sem impacto\".",
+          "Ignorar o custo social da transição (empregos em regiões dependentes de combustíveis fósseis) como se fosse só uma questão de trocar uma fonte por outra sem custo de adaptação."
+        ],
+        "exemplo": {
+          "enunciado": "Uma região historicamente dependente da extração de carvão enfrenta resistência de trabalhadores locais a um plano nacional de fechamento acelerado de usinas térmicas a carvão, mesmo que o plano inclua metas ambientais amplamente aceitas. Esse conflito ilustra principalmente:",
+          "resolucao": "O enunciado mostra uma meta ambiental (fechar usinas a carvão) gerando resistência não por discordância do objetivo climático em si, mas pelo impacto econômico e social concreto sobre uma região que depende daquele setor pra emprego — isso ilustra que a transição energética tem uma dimensão social/econômica que vai além do argumento técnico-ambiental. A resposta correta reconhece esse conflito distributivo (quem arca com o custo da transição); um erro comum é reduzir o caso a \"resistência à mudança\" ou \"negacionismo climático\", ignorando que a resistência descrita é sobre emprego e renda, não sobre a ciência do clima."
+        }
+      },
+      {
+        "tema": "Economia circular e critérios ESG",
+        "resumo": "Economia circular é um modelo de produção que busca minimizar descarte reaproveitando materiais dentro do próprio ciclo produtivo (produzir-usar-reciclar-reintroduzir), em contraste com o modelo linear tradicional (extrair-produzir-descartar). ESG (Ambiental, Social, Governança) é um conjunto de critérios cada vez mais usado por investidores e empresas pra avaliar riscos e impactos além do lucro puro — são conceitos relacionados, mas distintos: economia circular é sobre como se produz, ESG é sobre como se avalia uma empresa (e práticas circulares podem ser um dos critérios avaliados).",
+        "gatilhos": [
+          "Texto menciona \"reaproveitar materiais em vez de descartar\" → é economia circular: o objetivo é fechar o ciclo (produzir-usar-reciclar-reintroduzir), não só \"reciclar mais\".",
+          "Menção a empresa avaliada por critérios além do lucro (impacto ambiental, tratamento de funcionários, transparência de gestão) → são os três pilares de ESG (Ambiental, Social, Governança) — não confunda com uma certificação única e obrigatória.",
+          "Pergunta que junta economia circular e ESG no mesmo enunciado → trate como conceitos relacionados mas distintos: economia circular é sobre COMO se produz; ESG é sobre COMO se avalia uma empresa."
+        ],
+        "pegadinhas": [
+          "Tratar \"economia circular\" como sinônimo simples de \"reciclagem\" — reciclagem é uma ferramenta dentro do conceito mais amplo, que também inclui reduzir uso de matéria-prima virgem e prolongar vida útil de produtos.",
+          "Achar que ESG é uma lei ou certificação obrigatória única — na prática é um conjunto de critérios usado de forma variada por investidores e empresas, sem um padrão único e universal."
+        ],
+        "exemplo": {
+          "enunciado": "Uma fabricante de eletrônicos passou a projetar seus produtos para que peças possam ser desmontadas e reaproveitadas em novos aparelhos ao final da vida útil, reduzindo a extração de matéria-prima nova. Ao mesmo tempo, investidores começaram a avaliar essa empresa não só pelo lucro, mas também por seu impacto ambiental e pela transparência de sua gestão. O texto descreve, respectivamente:",
+          "resolucao": "A primeira parte do texto — projetar produtos pra desmontar e reaproveitar peças, reduzindo extração de matéria-prima nova — descreve economia circular: um modelo de produção que fecha o ciclo em vez de seguir a lógica linear de extrair-produzir-descartar. A segunda parte — investidores avaliando a empresa por impacto ambiental e transparência de gestão, além do lucro — descreve critérios ESG (Ambiental, Social, Governança) sendo aplicados. A resposta correta identifica os dois conceitos na ordem certa; a pegadinha é inverter os dois ou tratá-los como a mesma coisa, quando um é sobre o modelo de produção e o outro é sobre o critério de avaliação do investidor."
+        }
+      },
+      {
+        "tema": "Perda de biodiversidade e escassez hídrica",
+        "resumo": "Perda de biodiversidade é a redução na variedade de espécies e ecossistemas, causada por destruição de habitat, mudança climática, poluição e espécies invasoras — sua consequência mais cobrada não é a extinção da espécie em si, mas a perda de serviços ecossistêmicos (polinização, purificação de água, regulação climática). Escassez hídrica pode ser física (não há água suficiente disponível na região) ou de gestão/infraestrutura (a água existe, mas falta captação, tratamento ou distribuição adequados) — os dois temas se conectam porque degradação ambiental (como desmatamento) altera o próprio ciclo hídrico local.",
+        "gatilhos": [
+          "Texto sobre perda de espécies → não pare na espécie em si; pense no serviço ecossistêmico perdido junto (polinização, purificação de água, regulação climática) — é isso que a banca costuma cobrar como consequência.",
+          "Pergunta sobre escassez hídrica → identifique se é escassez física (não tem água suficiente na região) ou escassez de gestão/infraestrutura (tem água, mas falta captação/distribuição adequada) — são causas e soluções diferentes.",
+          "Texto ligando desmatamento a mudança no regime de chuvas → é a conexão entre perda de vegetação e ciclo hídrico (ex.: função de \"bombeamento\" de umidade de florestas como a Amazônia) — não trate os dois temas como desconectados."
+        ],
+        "pegadinhas": [
+          "Tratar escassez hídrica só como problema de regiões áridas — cidades grandes com infraestrutura de saneamento precária também enfrentam escassez, mesmo com chuva regular na região.",
+          "Reduzir perda de biodiversidade a \"extinção de animais fofos/carismáticos\" — o impacto mais cobrado em prova costuma ser o funcional (perda de serviço ecossistêmico), não o apelo estético da espécie."
+        ],
+        "exemplo": {
+          "enunciado": "Uma cidade grande enfrenta racionamento de água mesmo estando localizada em uma região de índices pluviométricos regulares, devido à perda de mata ciliar ao redor dos mananciais e à infraestrutura de captação insuficiente para a população atual. Esse caso ilustra que a escassez hídrica descrita é, principalmente, do tipo:",
+          "resolucao": "O enunciado deixa explícito que a região tem chuva regular — ou seja, água não falta fisicamente em termos de precipitação —, mas o problema está na degradação ambiental dos mananciais (perda de mata ciliar) e na infraestrutura insuficiente pra captar e distribuir a água disponível. Isso caracteriza escassez hídrica de natureza econômica/de gestão, não escassez física — a diferença central que a banca costuma cobrar nesse tema. A pegadinha mais comum seria associar automaticamente \"racionamento de água\" a \"seca\" ou \"pouca chuva\", ignorando que o próprio texto descreve um regime pluviométrico regular como causa já descartada pelo enunciado."
+        }
+      }
+    ]
+  },
+  "atualidades-tecnologia": {
+    "resumo": "Inteligência artificial, redes sociais e privacidade de dados — cobrada quase sempre ligando a tecnologia a um impacto social ou econômico concreto, não a aspectos técnicos. Nota: nesta banca, o repertório oficial confirmado é mais voltado a cultura de massa/mídia (cinema, TV, música) do que a tecnologia digital propriamente dita — vale filtrar o tema por esse ângulo.",
+    "gatilhos": [
+      "Pergunta sobre IA/algoritmos → pense no impacto sobre trabalho, desinformação ou privacidade, os três eixos mais cobrados.",
+      "Texto sobre redes sociais → identifique se o argumento é sobre modelo de negócio (atenção/publicidade) ou sobre efeito social (polarização, saúde mental).",
+      "\"Discuta um benefício e um risco de X tecnologia\" → estruture a resposta nesses dois blocos, com exemplo concreto em cada um.",
+      "Questão sobre tecnologia/redes sociais nesta banca tende a vir filtrada pela lente de \"cultura de massa e mídia\" (mass-media, cinema, TV) — que É repertório oficial confirmado da FGV — mais do que por um ângulo técnico puro de inteligência artificial."
+    ],
+    "pegadinhas": [
+      "Tratar toda tecnologia nova como puramente positiva ou puramente negativa — a banca valoriza nuance.",
+      "Confundir automação (substituição de tarefas) com desemprego estrutural garantido — o efeito real é debatido, não um fato consensual.",
+      "Usar jargão técnico sem explicar o conceito (ex.: citar \"algoritmo\" sem dizer o que ele otimiza)."
+    ],
+    "subtemas": [
+      {
+        "tema": "Machine learning e inteligência artificial generativa",
+        "resumo": "Sistemas de machine learning são treinados em grandes volumes de dados pra reconhecer padrões e gerar respostas estatisticamente prováveis dado o que foi pedido — não \"entendem\" o conteúdo como um humano entende. Dois pontos são os mais cobrados: (1) viés algorítmico — se os dados de treino carregam padrões discriminatórios, o modelo tende a reproduzi-los; (2) \"alucinação\" — o sistema pode gerar respostas erradas com aparência de confiança, porque está otimizando plausibilidade estatística, não verdade factual.",
+        "gatilhos": [
+          "Texto menciona \"a IA aprende com dados\" → ligue ao problema de viés: se os dados de treino têm padrões discriminatórios, a IA tende a reproduzi-los, não corrigi-los sozinha.",
+          "Menção a resposta de IA \"convincente mas errada\" → é o fenômeno de \"alucinação\" (a ferramenta gera texto plausível estatisticamente, não necessariamente verdadeiro).",
+          "Pergunta sobre \"substituição de empregos por IA\" → pense em automação de tarefas específicas (não profissões inteiras de uma vez) e no debate sobre requalificação da força de trabalho."
+        ],
+        "pegadinhas": [
+          "Tratar inteligência artificial generativa como algo que \"pensa\" ou \"entende\" como um humano — o texto costuma testar se você reconhece que é reconhecimento estatístico de padrão, não cognição.",
+          "Assumir que IA é neutra por ser \"só matemática\" — ignora que ela herda vieses dos dados usados pra treiná-la, que são produzidos por pessoas."
+        ],
+        "exemplo": {
+          "enunciado": "Uma reportagem relata que um sistema de inteligência artificial usado para triagem de currículos favorecia candidatos de um determinado perfil demográfico, mesmo sem essa informação estar explícita nos dados de entrada. Esse caso ilustra principalmente:",
+          "resolucao": "O sistema reproduziu um padrão discriminatório sem que ninguém tenha programado essa regra explicitamente — isso acontece porque modelos de IA aprendem estatisticamente com dados históricos, e se esses dados refletem desigualdades passadas (por exemplo, quem foi contratado no passado), o modelo tende a repetir esse padrão. A resposta correta aponta pro viés algorítmico herdado dos dados de treinamento; a pegadinha mais comum é escolher uma alternativa que trate isso como \"falha técnica pontual\" ou \"erro de programação\", quando na verdade é uma consequência estrutural de como esses sistemas aprendem."
+        }
+      },
+      {
+        "tema": "LGPD e proteção de dados pessoais",
+        "resumo": "A LGPD (Lei Geral de Proteção de Dados) regula como dados pessoais podem ser coletados, tratados e armazenados no Brasil, exigindo uma base legal (como consentimento) pra qualquer tratamento e garantindo direitos ao titular dos dados — acessar, corrigir, excluir e saber pra que seus dados estão sendo usados. Ela é frequentemente comparada ao GDPR europeu, que a inspirou, mas são leis de jurisdições diferentes. A lei também distingue dado pessoal comum de dado sensível (saúde, origem racial, orientação sexual etc.), que recebe proteção reforçada.",
+        "gatilhos": [
+          "Texto menciona empresa coletando dados \"sem consentimento claro\" → é violação do princípio de finalidade/consentimento da LGPD, que exige base legal explícita pra tratamento de dado pessoal.",
+          "Pergunta sobre \"direito do titular dos dados\" → pense nos direitos garantidos pela lei: acessar, corrigir, excluir e saber pra que seus dados estão sendo usados.",
+          "Comparação com legislação europeia → a LGPD é frequentemente descrita como inspirada no GDPR (regulamento europeu), mas são leis de jurisdições diferentes — não trate como idênticas."
+        ],
+        "pegadinhas": [
+          "Achar que a LGPD proíbe qualquer coleta de dado pessoal — ela regula como e sob que condições o dado pode ser coletado/usado, não proíbe a coleta em si.",
+          "Confundir \"dado pessoal\" com \"dado sensível\" — a lei trata dados sensíveis (saúde, origem racial, orientação sexual etc.) com regras mais rígidas do que dados pessoais em geral."
+        ],
+        "exemplo": {
+          "enunciado": "Um aplicativo de saúde coletou informações sobre condições médicas dos usuários e as compartilhou com anunciantes sem informar essa finalidade no momento do cadastro. Do ponto de vista da LGPD, essa prática é problemática principalmente porque:",
+          "resolucao": "O caso envolve dado de saúde (categoria de dado sensível, com proteção reforçada pela LGPD) sendo usado para uma finalidade (publicidade) diferente da que foi informada ao usuário no momento da coleta — isso viola o princípio de finalidade e transparência, que exige que o titular saiba, desde o início, para que seus dados serão usados. A resposta certa aponta pro desvio de finalidade sem consentimento adequado para dado sensível; um erro comum é responder genericamente \"porque a empresa coletou dados pessoais\", ignorando que a coleta em si não é proibida — o problema é a falta de transparência e a natureza sensível do dado."
+        }
+      },
+      {
+        "tema": "Bolhas de filtro e desinformação nas redes sociais",
+        "resumo": "\"Bolha de filtro\" descreve o efeito de algoritmos de recomendação que, aprendendo com o engajamento passado do usuário, passam a mostrar cada vez mais conteúdo parecido com o que ele já consome — reduzindo, sem ação deliberada do usuário, a diversidade de pontos de vista apresentados. É diferente de \"câmara de eco\", que descreve o usuário escolhendo ativamente se cercar de quem pensa igual. O modelo de negócio das redes (receita por atenção/engajamento) favorece conteúdo emocional e polarizador, o que ajuda a explicar a velocidade de espalhamento de desinformação.",
+        "gatilhos": [
+          "Texto menciona algoritmo que \"mostra mais do que você já curte\" → é bolha de filtro: curadoria automática reduz diversidade de conteúdo, não é decisão consciente do usuário de se isolar.",
+          "Pergunta sobre por que desinformação se espalha rápido → ligue ao modelo de negócio das redes: engajamento (cliques, tempo de tela) é o que gera receita publicitária, e conteúdo emocional/polarizador tende a engajar mais.",
+          "Distinção entre \"bolha de filtro\" e \"câmara de eco\" → bolha é efeito do algoritmo (técnico); câmara de eco é efeito social (pessoas se cercando de quem pensa igual) — a banca pode cobrar a diferença."
+        ],
+        "pegadinhas": [
+          "Tratar desinformação como problema só de \"pessoas mal-intencionadas espalhando notícia falsa\" — ignora o papel estrutural do algoritmo e do modelo de negócio de atenção na amplificação desse conteúdo.",
+          "Assumir que bolha de filtro é escolha deliberada do usuário — na maior parte dos casos é resultado de curadoria automática que o usuário nem percebe."
+        ],
+        "exemplo": {
+          "enunciado": "Um estudo constatou que usuários de uma rede social passaram a ver, ao longo do tempo, um conteúdo cada vez mais homogêneo e alinhado às suas opiniões prévias, mesmo sem terem alterado ativamente suas configurações de busca. Esse fenômeno é conhecido como:",
+          "resolucao": "A mudança gradual e não intencional no tipo de conteúdo exibido — sem ação deliberada do usuário — é a marca registrada da bolha de filtro: o algoritmo de recomendação aprende com o engajamento passado (curtidas, tempo de visualização) e passa a priorizar conteúdo semelhante, estreitando o leque de visões apresentadas. A resposta correta é \"bolha de filtro\"; a pegadinha é confundir com \"câmara de eco\", que descreveria o usuário buscando ativamente grupos/pessoas que pensam como ele — o enunciado deixa claro que a mudança foi automática, não uma escolha ativa."
+        }
+      },
+      {
+        "tema": "Blockchain e criptomoedas",
+        "resumo": "Blockchain é uma tecnologia de registro distribuído entre vários participantes de uma rede, sem depender de uma autoridade central única, onde cada novo bloco referencia criptograficamente o anterior — o que torna alterar um registro já confirmado extremamente difícil sem que as demais partes percebam. Criptomoeda é apenas UMA aplicação dessa tecnologia (a mais conhecida); blockchain também é usada em rastreamento de cadeia produtiva, contratos e outros registros que se beneficiam de auditabilidade e resistência a fraude retroativa.",
+        "gatilhos": [
+          "Texto menciona \"registro distribuído\" ou \"sem intermediário/banco central\" → é blockchain: o controle não fica numa única entidade, mas replicado entre vários participantes da rede.",
+          "Pergunta separando \"blockchain\" de \"criptomoeda\" → criptomoeda é UMA aplicação da tecnologia blockchain (a mais conhecida), não sinônimo dela — blockchain também é usada em rastreamento de cadeia produtiva, contratos, etc.",
+          "Menção a \"dificuldade de alterar um registro já feito\" → é a característica de imutabilidade: cada bloco novo referencia criptograficamente o anterior, tornando fraude retroativa difícil de passar despercebida."
+        ],
+        "pegadinhas": [
+          "Tratar blockchain e criptomoeda como sinônimos — é o erro mais comum nesse tema; blockchain é a tecnologia de base, criptomoeda é uma aplicação específica dela.",
+          "Assumir que \"descentralizado\" significa \"sem nenhuma regra ou controle\" — a rede ainda opera sob regras de consenso definidas no protocolo, só não depende de uma autoridade central única."
+        ],
+        "exemplo": {
+          "enunciado": "Uma empresa de logística passou a registrar cada etapa do transporte de seus produtos em um sistema onde nenhuma parte envolvida consegue alterar sozinha um registro já confirmado pelas demais, aumentando a rastreabilidade da cadeia produtiva. Essa aplicação é um exemplo do uso de:",
+          "resolucao": "O texto descreve um registro distribuído entre várias partes, onde a alteração unilateral de um dado já confirmado não é possível — essa é a característica central de blockchain (registro descentralizado e resistente a alteração retroativa), aplicada aqui a rastreamento logístico, não a uma moeda. A resposta correta é \"blockchain\"; a pegadinha típica é marcar \"criptomoeda\", que seria válida se o texto estivesse falando de uma moeda digital especificamente — o enunciado deixa claro que a aplicação é rastreamento de produtos, um uso da tecnologia que não envolve dinheiro."
+        }
+      }
+    ]
+  },
+  "biologia": {
+    "resumo": "15 questões objetivas no dia 2, peso 1, dentro dos 15% da Natureza — e com corte próprio: menos de 20% de acertos aqui elimina, do mesmo jeito que em Matemática. O enunciado é técnico e convencional, sem âncora de notícia, com uma exceção temática: saúde pública e saneamento entram como recorte de atualidade. Em 2026.1 a prova varreu quase todo o programa — ecologia, fisiologia (digestiva, vegetal, reprodutiva, do sangue), microbiologia, genética em duas questões, especiação, parasitologia, metabolismo, origem da vida e evolução.",
+    "gatilhos": [
+      "Questão que abre com experimento descrito (grupos, controle, medida) → a pergunta é sobre o que o experimento MOSTRA, não sobre o conteúdo em volta; identifique a variável controlada antes de olhar as alternativas.",
+      "Heredograma ou cruzamento → marque os afetados, teste dominante contra recessivo no primeiro casal que gera filho diferente dos pais, e só então leia os itens.",
+      "Gráfico com duas curvas ao longo do tempo (população × recurso, concentração × volume) → descreva cada trecho antes de decidir; a alternativa errada costuma inverter causa e efeito entre as curvas.",
+      "Tema de saneamento, verminose ou vacinação → é o recorte de saúde pública da banca; a resposta liga o mecanismo biológico à medida coletiva, e não a uma conduta individual.",
+      "Enunciado que cita um processo com nome próprio (especiação, hibridação, quimiossíntese) → volte ao mecanismo básico; a questão testa o conceito, não o vocabulário.",
+      "Alternativa que compara duas estruturas de espécies diferentes → separe homologia de analogia antes de julgar; é o par que a banca usa para separar quem sabe evolução de quem decorou exemplos."
+    ],
+    "pegadinhas": [
+      "Responder o que a figura mostra em vez do que o comando pergunta.",
+      "Tratar as 15 questões como fáceis por serem \"só objetivas\": o corte de 20% incide sobre esta prova sozinha, e três acertos não bastam.",
+      "Estudar Biologia no volume de quem presta Medicina. Aqui são 15 questões dentro de 15% da nota, contra os 40% de Matemática — a frente é obrigatória, não prioritária.",
+      "Confundir potencial biótico com resistência ambiental; os dois aparecem no mesmo enunciado justamente para separar quem sabe.",
+      "Em genética, entregar o genótipo quando o enunciado pediu a probabilidade."
+    ]
+  },
+  "quimica": {
+    "resumo": "A mais jornalística das três Naturezas, e é isso que a separa de qualquer banco calibrado em VUNESP ou FUVEST: oito das quinze questões de 2026.1 abrem com uma frase de manchete, e quatro trazem fonte datada — três delas de julho de 2025, a três meses da aplicação. É a mesma janela de recência que a FGV usa em Humanas e Linguagens. Duas questões partiram de um livro de divulgação em quadrinhos; só as cinco restantes têm enunciado técnico convencional.",
+    "gatilhos": [
+      "Enunciado que abre com manchete (odor corporal, energia limpa, terras raras, adoçante, produto de limpeza) → a notícia é embalagem; localize a substância ou a reação citada e responda pelo conteúdo, não pela matéria.",
+      "Menção a mistura de produtos de limpeza ou a gás liberado numa situação doméstica → é reação com produto tóxico; identifique os reagentes reais por trás dos nomes comerciais.",
+      "Tema de energia, bateria ou corrosão → eletroquímica; escreva as semirreações e decida quem oxida antes de olhar as alternativas.",
+      "Estrutura orgânica exibida com nome de produto (adoçante, cosmético, polímero) → a pergunta é sobre o grupo funcional ou a interação intermolecular; nomeie os grupos na própria figura.",
+      "Questão sobre propriedade de material (dureza, ponto de fusão, solubilidade) → decida primeiro o tipo de ligação e de interação; a propriedade decorre daí.",
+      "Fonte datada dos últimos doze meses no rodapé → o tema é o da notícia, mas a química cobrada é de programa; não deixe o assunto novo sugerir conteúdo fora do ensino médio."
+    ],
+    "pegadinhas": [
+      "Estudar Química só pelo conteúdo e ignorar a atualidade: metade das questões nasce de notícia recente, e é a leitura de jornal que faz reconhecer o contexto rápido.",
+      "Deixar a manchete decidir a resposta — a notícia costuma trazer um juízo (\"faz mal\", \"é sustentável\") que a alternativa correta não repete.",
+      "Confundir o nome comercial com a substância: o enunciado dá o nome de mercado e cobra a fórmula.",
+      "Balancear a equação e esquecer que a pergunta era sobre a quantidade de um só reagente — o limitante.",
+      "Achar que o corte de 20% se compensa entre as três Naturezas: cada uma é uma prova, e cada uma elimina sozinha."
+    ]
+  },
+  "fisica": {
+    "resumo": "15 questões objetivas de enunciado técnico convencional — sem âncora jornalística, ao contrário da Química — e com a maior dispersão de temas das três: em 2026.1 caíram cinemática circular, eletromagnetismo, eletrostática, ondulatória, óptica em três questões, hidrostática, dinâmica com atrito, estática, quantidade de movimento, física moderna, termodinâmica, física nuclear e calorimetria. É o oitavo dos doze critérios de desempate, à frente de Química, Biologia, Humanas e Inglês — mas o corte de 20% vale aqui igual ao de Matemática.",
+    "gatilhos": [
+      "Enunciado com corpo em trajetória circular → separe o que é velocidade angular do que é linear antes de qualquer conta; a alternativa errada troca as duas.",
+      "Situação com plano inclinado e atrito → decomponha o peso nos eixos do plano ANTES de escrever a segunda lei; a decomposição é metade da questão.",
+      "Duas superfícies, raios ou lentes → é óptica geométrica; desenhe o raio antes de aplicar fórmula, porque a convenção de sinal é onde a questão pega.",
+      "Corpo que ejeta massa (foguete, jato d'água) ou colisão → é conservação da quantidade de movimento; escreva o antes e o depois em duas linhas separadas.",
+      "Gráfico de processo termodinâmico → identifique o tipo de transformação por qual grandeza fica constante, e lembre que a área sob a curva P×V é trabalho.",
+      "Enunciado que cita decaimento, meia-vida ou energia de ligação → física nuclear; a conta é de proporção, e o erro típico é contar meias-vidas a mais."
+    ],
+    "pegadinhas": [
+      "Misturar unidades (cm com m, g com kg) — em prova objetiva de 15 questões, é o erro que mais custa acerto barato.",
+      "Aplicar fórmula de movimento uniforme em trecho acelerado do gráfico.",
+      "Esquecer que o corte de 20% desta prova é independente: é a frente que mais aparece como \"deixo para o fim\" e a que mais elimina por isso.",
+      "Tratar a força de atrito como sempre igual a μN — isso vale no escorregamento, não no repouso iminente.",
+      "Confundir calor com temperatura em questão de calorimetria, especialmente quando há mudança de fase no meio."
+    ]
+  }
+};

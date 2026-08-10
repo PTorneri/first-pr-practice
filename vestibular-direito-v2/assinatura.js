@@ -79,7 +79,7 @@ const PRECO = {
 // botão que não leva a lugar nenhum — um link quebrado nesta tela é pior que
 // botão nenhum, porque é aqui que a pessoa está tentando te pagar.
 const CHECKOUT = {
-  url: "",
+  url: "https://pay.cakto.com.br/gmrnc42_1031217",
   rotulo: "Assinar — " + PRECO.valor + " por " + PRECO.periodo,
 };
 

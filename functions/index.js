@@ -207,20 +207,29 @@ exports.caktoWebhook = onRequest(
 
     // ---------- O que este evento faz ----------
     //
-    // purchase_approved serve TANTO a compra única de 90 dias quanto a
-    // primeira cobrança (e, ao que a documentação sugere, as renovações) de
-    // uma assinatura — só d.product.type diferencia. subscription_renewed
-    // dispara numa renovação bem-sucedida; subscription_canceled quando a
-    // pessoa cancela a renovação FUTURA, não o acesso já pago (por isso ele
-    // não entra na mesma ação de "revogar" do refund/chargeback — ver o
-    // comentário dentro da transação, mais abaixo).
+    // A doc pública da Cakto (cakto-dece4a15.mintlify.app/webhooks/eventos)
+    // lista dez eventos e NÃO inclui subscription_created — mas é ele, não
+    // purchase_approved, que a Cakto disparou de verdade num teste real de
+    // "Assinatura criada" em 11/08/2026. A doc perdeu, como o comentário lá
+    // em cima já previa. purchase_approved segue tratado do mesmo jeito
+    // (cobre compra única E, aparentemente, cobranças de assinatura também
+    // — não custa aceitar os dois formatos), mas quem efetivamente confirma
+    // a primeira cobrança de uma assinatura, na prática observada, é
+    // subscription_created. subscription_renewed dispara numa renovação
+    // bem-sucedida; subscription_canceled quando a pessoa cancela a
+    // renovação FUTURA, não o acesso já pago (por isso ele não entra na
+    // mesma ação de "revogar" do refund/chargeback — ver o comentário
+    // dentro da transação, mais abaixo).
     const assinatura = ehAssinatura(d);
     const proximaCobranca = paraMillisISO(d.subscription && d.subscription.next_payment_date);
 
     let acao = null;
     if (evento === "purchase_approved" && d.status === "paid") {
       acao = assinatura ? "assinatura-cobranca" : "liberar";
-    } else if (evento === "subscription_renewed" && d.status === "paid") {
+    } else if (
+      (evento === "subscription_created" || evento === "subscription_renewed") &&
+      d.status === "paid"
+    ) {
       acao = "assinatura-cobranca";
     } else if (evento === "subscription_canceled") {
       acao = "assinatura-cancelada";
@@ -236,8 +245,11 @@ exports.caktoWebhook = onRequest(
 
     if (!acao) {
       // Evento que não nos interessa (pix gerado, checkout abandonado...) ou
-      // compra aprovada com status inesperado. 200 e segue a vida.
-      logger.info("[cakto] evento ignorado", { evento, status: d.status, email });
+      // compra aprovada com status inesperado. 200 e segue a vida. O corpo
+      // inteiro (sem segredo) vai junto: subscription_created não estava em
+      // nenhuma doc até aparecer aqui, e um "ignorado" sem o corpo não
+      // ensina nada sobre o PRÓXIMO evento desconhecido.
+      logger.info("[cakto] evento ignorado", { evento, status: d.status, email, corpo: semSegredo(body) });
       res.status(200).send("ignorado");
       return;
     }

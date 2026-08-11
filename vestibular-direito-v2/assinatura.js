@@ -59,7 +59,7 @@
 // diagnóstico rodado por você NÃO prova que o caminho do aluno funciona. Quem
 // cobre esse caso é o ramo de permission-denied em verificar(), mais abaixo.
 
-import { db } from "./firebase-init.js?v=40";
+import { db } from "./firebase-init.js?v=41";
 import { doc, getDoc } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-firestore.js";
 
 const PORTAO_ATIVO = true;
@@ -274,14 +274,19 @@ function julgar(dados) {
 
   const expiraEm = paraMillis(dados.expiraEm);
   const plano = dados.plano || "";
+  // Só o webhook da assinatura recorrente escreve este campo (ver
+  // functions/index.js) — no plano de 90 dias ele nunca existe. É o que
+  // diferencia "tem uma renovação futura pra cancelar" de "não tem nada a
+  // cancelar", sem depender do texto solto de `plano`.
+  const renovacaoAtiva = dados.renovacaoAtiva === true;
 
   if (dados.ativa !== true) {
-    return { entra: false, estado: "cancelada", expiraEm: expiraEm, plano: plano };
+    return { entra: false, estado: "cancelada", expiraEm: expiraEm, plano: plano, renovacaoAtiva: renovacaoAtiva };
   }
   if (expiraEm && expiraEm <= Date.now()) {
-    return { entra: false, estado: "expirada", expiraEm: expiraEm, plano: plano };
+    return { entra: false, estado: "expirada", expiraEm: expiraEm, plano: plano, renovacaoAtiva: renovacaoAtiva };
   }
-  return { entra: true, estado: "ativa", expiraEm: expiraEm, plano: plano };
+  return { entra: true, estado: "ativa", expiraEm: expiraEm, plano: plano, renovacaoAtiva: renovacaoAtiva };
 }
 
 async function consultar(email) {

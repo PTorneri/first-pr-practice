@@ -4862,12 +4862,106 @@
     }
 
     renderCorrigirInicio();
+    renderAssinaturaPerfil();
 
     const syncContainer = document.getElementById("sync-container");
     if (syncContainer) {
       syncContainer.innerHTML = "";
       syncContainer.appendChild(renderSyncCard());
     }
+  }
+
+  // ---------- A caixa "Minha assinatura", na aba de Perfil ----------
+  //
+  // Não existe API confirmada da Cakto para cancelar uma assinatura por trás
+  // do nosso servidor — o spec público deles (mintlify) é um exemplo de
+  // template, nunca preenchido com a API real. Quem cancela de verdade é o
+  // PRÓPRIO comprador, dentro da conta dele na Cakto, em "Minhas Assinaturas".
+  // Este botão não pula essa etapa: ele leva até lá e explica o caminho, em
+  // vez de fingir que o clique aqui já cancelou algo.
+  const CAKTO_LOGIN_URL = "https://app.cakto.com.br/auth/login";
+
+  function renderAssinaturaPerfil() {
+    const container = document.getElementById("assinatura-perfil-container");
+    if (!container) return;
+
+    const acesso = (window.VD_AUTH && window.VD_AUTH.acesso) || null;
+    container.innerHTML = "";
+    // Sem veredito (ex: portão desligado) não há o que mostrar — a caixa
+    // some em vez de exibir um estado inventado.
+    if (!acesso) return;
+
+    const box = document.createElement("div");
+    box.className = "perfil-box";
+
+    const titulo = document.createElement("div");
+    titulo.className = "perfil-box-titulo";
+    titulo.textContent = "Minha assinatura";
+    box.appendChild(titulo);
+
+    const nota = document.createElement("div");
+    nota.className = "perfil-box-nota";
+
+    if (acesso.estado === "teste") {
+      nota.textContent = "Você está no teste grátis — ainda não tem assinatura paga.";
+      box.appendChild(nota);
+      container.appendChild(box);
+      return;
+    }
+
+    const dataExpira = acesso.expiraEm ? new Date(acesso.expiraEm).toLocaleDateString("pt-BR") : "";
+
+    if (acesso.plano === "mensal") {
+      nota.textContent = acesso.renovacaoAtiva
+        ? "Plano mensal — R$ 44,99/mês. Renova em " + dataExpira + "."
+        : "Plano mensal cancelado — seu acesso segue até " + dataExpira + ", sem nova cobrança.";
+    } else {
+      nota.textContent = "Plano de " + (acesso.plano || "90 dias") + " — vence em " + dataExpira +
+        ". Pagamento único, sem renovação automática.";
+    }
+    box.appendChild(nota);
+
+    // Só existe o que cancelar quando há uma renovação futura de verdade —
+    // plano de 90 dias e assinatura já cancelada não mostram o botão.
+    if (acesso.plano === "mensal" && acesso.renovacaoAtiva) {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "btn btn-secondary";
+      btn.textContent = "Cancelar assinatura";
+
+      const instrucoes = document.createElement("div");
+      instrucoes.className = "perfil-box-nota assinatura-cancelar-passos";
+      instrucoes.hidden = true;
+      instrucoes.innerHTML =
+        "Quem cobra é a Cakto, e é lá que se cancela — não tem como fazer isso por aqui. " +
+        "Entre com o e-mail ou telefone que você usou na hora de assinar, abra " +
+        "<strong>Minhas Assinaturas</strong>, toque nos três pontinhos ao lado da sua " +
+        "assinatura do sagax e escolha <strong>Cancelar</strong>. Isso não corta seu acesso " +
+        "agora: você continua estudando normalmente até " + dataExpira + ".";
+
+      const link = document.createElement("a");
+      link.className = "btn btn-primary";
+      link.href = CAKTO_LOGIN_URL;
+      link.target = "_blank";
+      link.rel = "noopener";
+      link.textContent = "Abrir a Cakto";
+      // display inline-block explícito: fora de #view-assinatura não existe
+      // regra que tire a âncora do display:inline padrão, e um botão inline
+      // não centra o padding/borda direito (mesmo motivo do .btn-link).
+      link.style.display = "inline-block";
+      link.style.marginTop = "8px";
+
+      btn.addEventListener("click", () => {
+        instrucoes.hidden = !instrucoes.hidden;
+      });
+
+      box.appendChild(btn);
+      box.appendChild(instrucoes);
+      instrucoes.appendChild(document.createElement("br"));
+      instrucoes.appendChild(link);
+    }
+
+    container.appendChild(box);
   }
 
   // ---------- Achado 10: sincronização entre aparelhos (Firebase, opcional) ----------

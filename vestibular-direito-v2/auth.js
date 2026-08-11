@@ -19,11 +19,11 @@
 //        URIs. Esse é sobre PARA ONDE o Google devolve, e é o authDomain de
 //        firebase-init.js. Sem ele, o Google recusa com redirect_uri_mismatch.
 
-import { auth } from "./firebase-init.js?v=40";
-import "./sync.js?v=40"; // define window.VD_SYNC
-import "./feedback.js?v=40"; // define window.VD_FEEDBACK
-import "./ia.js?v=40"; // define window.VD_IA (correção das dissertativas e redações)
-import "./assinatura.js?v=40"; // define window.VD_ASSINATURA (o portão)
+import { auth } from "./firebase-init.js?v=41";
+import "./sync.js?v=41"; // define window.VD_SYNC
+import "./feedback.js?v=41"; // define window.VD_FEEDBACK
+import "./ia.js?v=41"; // define window.VD_IA (correção das dissertativas e redações)
+import "./assinatura.js?v=41"; // define window.VD_ASSINATURA (o portão)
 import {
   GoogleAuthProvider,
   signInWithPopup,
@@ -174,6 +174,9 @@ async function showLoggedIn(user) {
   // Guardado para depois do boot: a faixa de acesso só pode ser montada quando
   // a tela do plano existir, e isso é lá embaixo, no fim de abrirTrilha().
   acessoAtual = acesso;
+  // Exposto para o app.js montar a caixa "Minha assinatura" na aba de
+  // Perfil, sem precisar reimportar assinatura.js pra isso.
+  window.VD_AUTH.acesso = acesso;
 
   // Baixa e mescla o progresso da conta ANTES de montar o plano — é isso que
   // faz "retomar de onde parou" valer em qualquer aparelho.

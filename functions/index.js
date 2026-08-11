@@ -15,11 +15,22 @@
 //
 // ---------- O formato ----------
 //
-// A Cakto não documenta o payload publicamente; ele veio do campo "Modelo" do
-// próprio painel, ao escolher o tipo de disparo. O que importa:
+// O formato da compra única (purchase_approved) veio do campo "Modelo" do
+// próprio painel, ao escolher o tipo de disparo — a Cakto não documentava
+// isso publicamente na época. O que importa:
 //
 //   { secret, event, data: { id, customer: { email }, product: { short_id },
 //                            status, amount, ... } }
+//
+// Os três eventos de assinatura recorrente (purchase_approved-com-assinatura,
+// subscription_renewed, subscription_canceled), por outro lado, ESTÃO
+// documentados: cakto-dece4a15.mintlify.app/webhooks/eventos e as páginas
+// vizinhas (pagamento-recorrente, renovacao, cancelamento). Os exemplos de
+// payload de lá são a base do bloco "O que este evento faz", mais abaixo —
+// nenhum evento real de assinatura passou por aqui ainda. Se o primeiro
+// disparo real vier com um formato diferente do documentado, é a documentação
+// que perde: teste real já provou uma vez, no purchase_approved, que o campo
+// que "sempre vem" às vezes não vem (ver o comentário da idempotência).
 //
 // O SEGREDO VEM NO CORPO, não em cabeçalho. Isso tem duas consequências: a
 // comparação é sobre req.body.secret, e o corpo NÃO pode mais ser registrado
@@ -45,6 +56,28 @@ const CAKTO_SEGREDO = defineSecret("CAKTO_SEGREDO");
 
 const REGIAO = "southamerica-east1";
 const DIAS_POR_COMPRA = 90;
+
+// Assinatura recorrente não soma dias: cada cobrança aprovada (primeira ou
+// renovação) diz exatamente quando a PRÓXIMA vai acontecer
+// (data.subscription.next_payment_date), e é isso que vira expiraEm — não um
+// cálculo nosso de "+30 dias". Duas vantagens: sobrevive a um mês de 28, 30 ou
+// 31 dias sem cair a régua, e é IDEMPOTENTE por construção — se o mesmo ciclo
+// de cobrança chegar duas vezes (a documentação da Cakto não deixa claro se
+// purchase_approved e subscription_renewed disparam os dois para a mesma
+// renovação), gravar o mesmo expiraEm duas vezes dá o mesmo resultado. A
+// idempotência por chaveEvento, mais abaixo, segue existindo, mas aqui é
+// cinto e suspensório — lá embaixo, no "liberar" de compra única, ela é a
+// única coisa que impede dobrar o prazo.
+const GRACA_RENOVACAO_MS = 2 * 86400000;
+
+// Se o payload de uma cobrança de assinatura chegar sem next_payment_date
+// utilizável (documentação incompleta, campo renomeado, o que já aconteceu
+// uma vez com outro campo neste mesmo webhook), o padrão é conceder acesso
+// por este tanto, não zerar o prazo. Mesma régua do resto deste arquivo:
+// barrar quem pagou por um payload estranho é pior que o contrário, e o log
+// de aviso fica para alguém investigar sem que ninguém tenha ficado de fora
+// enquanto isso.
+const DIAS_ASSINATURA_FALLBACK = 30;
 
 // short_id do produto na Cakto. Enquanto estiver vazio, qualquer produto é
 // aceito e a função registra um aviso.
@@ -99,6 +132,21 @@ function normalizarEmail(bruto) {
 // diferentes para a mesma coisa acabariam divergindo.
 function novaValidade(dias, expiraAtual) {
   return Math.max(Date.now(), expiraAtual || 0) + dias * 86400000;
+}
+
+// Só existe para o next_payment_date da assinatura, que a Cakto entrega como
+// texto ISO 8601. Sem isto cada chamador reimplementaria o mesmo Date.parse.
+function paraMillisISO(v) {
+  if (!v) return 0;
+  const t = Date.parse(v);
+  return isNaN(t) ? 0 : t;
+}
+
+// O único jeito documentado de separar uma cobrança de assinatura de uma
+// compra única: purchase_approved serve os dois, e só o product.type diz
+// qual é qual.
+function ehAssinatura(d) {
+  return !!(d.product && d.product.type === "subscription");
 }
 
 // ---------- A função ----------
@@ -158,9 +206,33 @@ exports.caktoWebhook = onRequest(
     }
 
     // ---------- O que este evento faz ----------
+    //
+    // purchase_approved serve TANTO a compra única de 90 dias quanto a
+    // primeira cobrança (e, ao que a documentação sugere, as renovações) de
+    // uma assinatura — só d.product.type diferencia. subscription_renewed
+    // dispara numa renovação bem-sucedida; subscription_canceled quando a
+    // pessoa cancela a renovação FUTURA, não o acesso já pago (por isso ele
+    // não entra na mesma ação de "revogar" do refund/chargeback — ver o
+    // comentário dentro da transação, mais abaixo).
+    const assinatura = ehAssinatura(d);
+    const proximaCobranca = paraMillisISO(d.subscription && d.subscription.next_payment_date);
+
     let acao = null;
-    if (evento === "purchase_approved" && d.status === "paid") acao = "liberar";
-    else if (evento === "refund" || evento === "chargeback") acao = "revogar";
+    if (evento === "purchase_approved" && d.status === "paid") {
+      acao = assinatura ? "assinatura-cobranca" : "liberar";
+    } else if (evento === "subscription_renewed" && d.status === "paid") {
+      acao = "assinatura-cobranca";
+    } else if (evento === "subscription_canceled") {
+      acao = "assinatura-cancelada";
+    } else if (evento === "refund" || evento === "chargeback") {
+      acao = "revogar";
+    }
+
+    if (acao === "assinatura-cobranca" && !proximaCobranca) {
+      logger.warn("[cakto] assinatura sem next_payment_date utilizavel — usando prazo padrao", {
+        evento, email, subscription: d.subscription || null,
+      });
+    }
 
     if (!acao) {
       // Evento que não nos interessa (pix gerado, checkout abandonado...) ou
@@ -227,8 +299,42 @@ exports.caktoWebhook = onRequest(
             liberadoPor: "webhook:cakto",
             ultimaTransacao: transacao || null,
           }, { merge: true });
+        } else if (acao === "assinatura-cobranca") {
+          // Nunca soma: expiraEm vira exatamente o próximo vencimento que a
+          // própria Cakto informou (mais a graça, ver GRACA_RENOVACAO_MS), ou
+          // o padrão de segurança se o campo não veio. Ver o comentário da
+          // constante para o porquê de não replicar a lógica de "somar dias"
+          // do plano de 90 dias aqui.
+          const expiraEm = (proximaCobranca || Date.now() + DIAS_ASSINATURA_FALLBACK * 86400000) +
+            GRACA_RENOVACAO_MS;
+          tx.set(assinaturaRef, {
+            ativa: true,
+            plano: "mensal",
+            expiraEm: expiraEm,
+            renovacaoAtiva: true,
+            assinaturaId: (d.subscription && d.subscription.id) || null,
+            liberadoEm: Date.now(),
+            liberadoPor: "webhook:cakto:" + evento,
+            ultimaTransacao: transacao || null,
+          }, { merge: true });
+        } else if (acao === "assinatura-cancelada") {
+          // A pessoa cancelou a RENOVAÇÃO, não pediu reembolso do que já
+          // pagou — a própria Cakto trata isso como "última cobrança
+          // programada antes de finalizar o cancelamento", não como
+          // estorno. Por isso este ramo NÃO toca em ativa nem em expiraEm:
+          // quem cancela continua dentro até o prazo que já pagou vencer
+          // sozinho, e é o mesmo julgar() de sempre (em assinatura.js) que
+          // vai barrar quando chegar a hora. Tratar isto como "revogar"
+          // cortaria um acesso que a pessoa pagou por engano.
+          tx.set(assinaturaRef, {
+            renovacaoAtiva: false,
+            canceladoEm: Date.now(),
+            canceladoPor: "webhook:cakto:subscription_canceled",
+          }, { merge: true });
         } else {
-          // Não apaga o documento: o histórico de quem já foi assinante vale
+          // revogar: refund ou chargeback, de compra única ou de assinatura.
+          // Aqui sim é dinheiro voltando, então o acesso cai na hora — não
+          // apaga o documento: o histórico de quem já foi assinante vale
           // mais que a linha a menos, e o painel reativa num clique.
           tx.set(assinaturaRef, {
             ativa: false,

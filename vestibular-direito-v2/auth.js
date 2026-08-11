@@ -19,11 +19,11 @@
 //        URIs. Esse é sobre PARA ONDE o Google devolve, e é o authDomain de
 //        firebase-init.js. Sem ele, o Google recusa com redirect_uri_mismatch.
 
-import { auth } from "./firebase-init.js?v=38";
-import "./sync.js?v=38"; // define window.VD_SYNC
-import "./feedback.js?v=38"; // define window.VD_FEEDBACK
-import "./ia.js?v=38"; // define window.VD_IA (correção das dissertativas e redações)
-import "./assinatura.js?v=38"; // define window.VD_ASSINATURA (o portão)
+import { auth } from "./firebase-init.js?v=40";
+import "./sync.js?v=40"; // define window.VD_SYNC
+import "./feedback.js?v=40"; // define window.VD_FEEDBACK
+import "./ia.js?v=40"; // define window.VD_IA (correção das dissertativas e redações)
+import "./assinatura.js?v=40"; // define window.VD_ASSINATURA (o portão)
 import {
   GoogleAuthProvider,
   signInWithPopup,
@@ -263,21 +263,43 @@ function mostrarFaixaDeAcesso() {
 
   document.getElementById("faixa-acesso-texto").textContent = texto;
 
-  const cta = document.getElementById("faixa-acesso-cta");
-  const checkout = window.VD_ASSINATURA.checkout || {};
-  const temCta = Boolean(checkout.url);
-  if (temCta) {
-    cta.href = checkout.url;
-    // Quem já é assinante RENOVA; quem está no teste ASSINA. O verbo errado
-    // aqui faz o assinante achar que vai pagar duas vezes.
-    const p = window.VD_ASSINATURA.preco || {};
-    cta.textContent = acessoAtual.estado === "ativa"
-      ? "Renovar — " + p.valor + " por " + p.periodo
-      : (checkout.rotulo || "Assinar");
-  }
-  cta.hidden = !temCta;
+  // Quem já é assinante RENOVA; quem está no teste ASSINA. O verbo errado
+  // aqui faz o assinante achar que vai pagar duas vezes.
+  montarCtasDePlano(
+    document.getElementById("faixa-acesso-ctas"),
+    acessoAtual.estado === "ativa" ? "Renovar" : "Assinar",
+    // faixa-acesso-cta dá o tamanho compacto de faixa; ouro puxa o olho no
+    // plano de 90 dias, sobre-navy é o segundo nível numa faixa escura.
+    ["btn-ouro faixa-acesso-cta", "btn-sobre-navy faixa-acesso-cta"]
+  );
 
   faixa.hidden = false;
+}
+
+// Cria um <a class="btn"> por plano dentro do container, na ordem de
+// window.VD_ASSINATURA.planos (90 dias primeiro, mensal depois — a mesma
+// ordem em que o preço é anunciado em toda parte). Reaproveitado pela faixa
+// e pelo muro porque as duas telas fazem exatamente a mesma pergunta
+// ("qual plano?"), só que com botões de cor diferente. Sem URL de checkout
+// nenhum plano aparece: um botão que não leva a lugar nenhum é pior que
+// botão nenhum, justamente na tela onde a pessoa está tentando pagar.
+function montarCtasDePlano(container, verbo, classesPorOrdem) {
+  if (!container) return;
+  container.innerHTML = "";
+  const planos = (window.VD_ASSINATURA && window.VD_ASSINATURA.planos) || [];
+
+  planos.forEach((plano, i) => {
+    if (!plano.checkoutUrl) return;
+    const a = document.createElement("a");
+    a.className = "btn " + (classesPorOrdem[i] || classesPorOrdem[classesPorOrdem.length - 1]);
+    a.href = plano.checkoutUrl;
+    a.target = "_blank";
+    a.rel = "noopener";
+    a.textContent = plano.id === "mensal"
+      ? verbo + " — " + plano.valor + "/mês"
+      : verbo + " — " + plano.periodo + " por " + plano.valor;
+    container.appendChild(a);
+  });
 }
 
 // Devolve o que a faixa diz hoje, ou "" para não aparecer.
@@ -448,20 +470,22 @@ function mostrarPortao(acesso) {
   document.getElementById("portao-texto").textContent = texto;
   document.getElementById("portao-email").textContent = acesso.email || "—";
 
-  // O botão de assinar só aparece quando há para onde mandar. Sem URL de
+  // Os botões de assinar só aparecem quando há para onde mandar. Sem URL de
   // checkout, um botão "Assinar" que não leva a nada é pior do que a ausência
   // dele — esta é justamente a tela onde a pessoa está tentando te pagar.
-  const cta = document.getElementById("portao-cta");
-  const checkout = window.VD_ASSINATURA.checkout || {};
-  const temCta = Boolean(t.mostrarCta && checkout.url);
+  const ctas = document.getElementById("portao-ctas");
+  const planosComCheckout = ((window.VD_ASSINATURA && window.VD_ASSINATURA.planos) || [])
+    .filter((p) => p.checkoutUrl);
+  const temCta = Boolean(t.mostrarCta) && planosComCheckout.length > 0;
   if (temCta) {
-    cta.href = checkout.url;
-    cta.textContent = checkout.rotulo || "Assinar";
+    montarCtasDePlano(ctas, "Assinar", ["btn-primary", "btn-secondary"]);
+  } else if (ctas) {
+    ctas.innerHTML = "";
   }
-  cta.hidden = !temCta;
+  ctas.hidden = !temCta;
 
-  // Sem o botão de assinar, "verificar de novo" vira a ação principal da tela e
-  // recebe o peso visual que estava no outro.
+  // Sem os botões de assinar, "verificar de novo" vira a ação principal da
+  // tela e recebe o peso visual que estava no outro.
   const btnRecheck = document.getElementById("btn-portao-recheck");
   btnRecheck.textContent = t.recheck;
   btnRecheck.classList.toggle("btn-primary", !temCta);

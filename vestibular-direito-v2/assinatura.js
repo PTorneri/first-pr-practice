@@ -43,7 +43,7 @@
 //      arquivo .local e por que o UID não entra no repositório.
 //   2. /assinaturas/{email} criado para as 8 contas que já usavam o app.
 //      Quatro delas já tinham o teste vencido e teriam batido no muro.
-//   3. Checkout no ar, com a URL em CHECKOUT.
+//   3. Checkout no ar, com a URL em PLANO_NOVENTA.checkoutUrl.
 //
 // PARA DESLIGAR: troque para false, commit, push. Conte uns 15 minutos até
 // chegar em todo mundo — o GitHub Pages publicar mais o cache de 10 minutos do
@@ -59,47 +59,60 @@
 // diagnóstico rodado por você NÃO prova que o caminho do aluno funciona. Quem
 // cobre esse caso é o ramo de permission-denied em verificar(), mais abaixo.
 
-import { db } from "./firebase-init.js?v=38";
+import { db } from "./firebase-init.js?v=40";
 import { doc, getDoc } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-firestore.js";
 
 const PORTAO_ATIVO = true;
 
-// ---------- O preço, num lugar só ----------
+// ---------- Os planos, num lugar só ----------
 //
-// Ele aparece em três telas — a landing (duas vezes), a faixa do teste e o
-// muro — e é exatamente o tipo de coisa que se muda em dois lugares e se
-// esquece no terceiro. Aqui é o único lugar onde os números são escritos;
-// todo o resto compõe a partir daqui.
+// Dois planos coexistem de propósito: quem quer o desconto de comprometer 90
+// dias de uma vez, e quem prefere pagar mês a mês sem travar nada. Cada um
+// aparece em dois lugares — a faixa de acesso dentro do app e o muro — e é
+// exatamente o tipo de coisa que se muda em dois lugares e se esquece no
+// terceiro. Aqui é o único lugar onde os números são escritos; todo o resto
+// compõe a partir daqui.
 //
 // A landing traz a frase escrita no HTML também, mas só como o que aparece
 // antes deste módulo carregar: o auth.js sobrescreve com o que está aqui. Se
 // as duas divergirem, quem ganha é esta constante — e o HTML é o que o leitor
 // vê por alguns milissegundos, não o que fica.
-// O "à vista" NÃO é enfeite, e por isso não é opcional em nenhuma composição
-// abaixo. O checkout cobra valores diferentes conforme a forma de pagamento:
-// R$ 97,99 no Pix (os R$ 97 do produto mais R$ 0,99 de taxa de serviço da
-// Cakto, repassada ao comprador) e R$ 121,20 no cartão em 12x, com os juros da
-// plataforma. Anunciar um número seco daria a entender que ele é o total em
-// qualquer caminho — e preço anunciado obriga.
 //
-// "à vista" é a formulação padrão do comércio brasileiro exatamente para isto:
-// diz o piso e avisa que parcelar custa mais, sem precisar listar tabela.
+// O plano de 90 dias é PAGAMENTO ÚNICO, e o "à vista" no valor não é enfeite:
+// o checkout cobra diferente conforme a forma de pagamento — R$ 97,99 no Pix
+// (os R$ 97 do produto mais R$ 0,99 de taxa de serviço da Cakto, repassada ao
+// comprador) e R$ 121,20 no cartão em 12x, com os juros da plataforma.
+// Anunciar um número seco daria a entender que ele é o total em qualquer
+// caminho — e preço anunciado obriga. "à vista" é a formulação padrão do
+// comércio brasileiro exatamente para isto: diz o piso e avisa que parcelar
+// custa mais, sem precisar listar tabela. Se um dia a taxa passar a ser
+// absorvida na configuração da oferta, o Pix fecha em R$ 97,00 redondo e só
+// este valor muda.
 //
-// Se um dia a taxa passar a ser absorvida na configuração da oferta, o Pix
-// fecha em R$ 97,00 redondo e só este valor muda.
-const PRECO = {
-  valor: "R$ 97,99",
+// O plano mensal é ASSINATURA RECORRENTE (Pix Automático ou cartão, cobrados
+// pela Cakto a cada 30 dias) e, ao contrário do de 90 dias, cobra o MESMO
+// valor pelos dois meios — checkout conferido em 11/08/2026: R$ 44,99 no Pix
+// Automático e 1x de R$ 44,99 no cartão. Sem tabela de parcelamento, então sem
+// "à vista" para qualificar: não existe um caminho mais caro para avisar.
+const PLANO_NOVENTA = {
+  id: "noventa",
   periodo: "90 dias",
+  valor: "R$ 97,99",
+  // Vazio? A tela do portão mostra o recado de que a assinatura ainda não
+  // abriu, em vez de um botão que não leva a lugar nenhum — um link quebrado
+  // nesta tela é pior que botão nenhum, porque é aqui que a pessoa está
+  // tentando te pagar.
+  checkoutUrl: "https://pay.cakto.com.br/gmrnc42_1031217",
 };
 
-// Para onde vai o botão "Assinar". Enquanto a url estiver vazia, a tela do
-// portão mostra o recado de que a assinatura ainda não abriu, em vez de um
-// botão que não leva a lugar nenhum — um link quebrado nesta tela é pior que
-// botão nenhum, porque é aqui que a pessoa está tentando te pagar.
-const CHECKOUT = {
-  url: "https://pay.cakto.com.br/gmrnc42_1031217",
-  rotulo: "Assinar — " + PRECO.periodo + " por " + PRECO.valor,
+const PLANO_MENSAL = {
+  id: "mensal",
+  periodo: "mês",
+  valor: "R$ 44,99",
+  checkoutUrl: "https://pay.cakto.com.br/rddoaeh_1035086",
 };
+
+const PLANOS = [PLANO_NOVENTA, PLANO_MENSAL];
 
 // ---------- O teste de 7 dias ----------
 //
@@ -182,9 +195,11 @@ function diasAte(ms) {
 function chamada() {
   // Ordem invertida em relação ao óbvio ("R$ 97,99 por 90 dias") para o "à
   // vista" cair colado no valor, que é onde ele qualifica. Solto no fim da
-  // frase, ele pareceria qualificar o prazo.
-  return TESTE_DIAS + " dias grátis. Depois, " + PRECO.periodo + " por " +
-    PRECO.valor + " à vista.";
+  // frase, ele pareceria qualificar o prazo. O mensal entra depois, sem "à
+  // vista" — não existe caminho mais caro pra avisar nesse plano (ver o
+  // comentário de PLANO_MENSAL).
+  return TESTE_DIAS + " dias grátis. Depois, " + PLANO_NOVENTA.periodo + " por " +
+    PLANO_NOVENTA.valor + " à vista — ou " + PLANO_MENSAL.valor + "/mês.";
 }
 
 // ---------- A graça do offline ----------
@@ -398,9 +413,8 @@ async function diagnostico() {
 window.VD_ASSINATURA = {
   verificar: verificar,
   diagnostico: diagnostico,
-  checkout: CHECKOUT,
+  planos: PLANOS,
   ativo: PORTAO_ATIVO,
-  preco: PRECO,
   chamada: chamada,
   testeDias: TESTE_DIAS,
   avisoDias: AVISO_VENCIMENTO_DIAS,

@@ -1615,13 +1615,21 @@
     const start = localStorage.getItem(LS_START) || todayISO();
     const simuladoDays = listSimuladoDays(start);
 
+    // Nomes das bancas oficiais da trilha ativa, pra não deixar "FGV ou Insper"
+    // hardcoded onde Medicina tem sete (ver simuladoOficial em trilhas.js).
+    const bancasNomes = Object.values(SIMULADO_OFICIAL).map((m) => m.nome);
+    const bancasTexto = bancasNomes.length <= 1
+      ? (bancasNomes[0] || "")
+      : bancasNomes.slice(0, -1).join(", ") + " ou " + bancasNomes[bancasNomes.length - 1];
+    const totalFrentes = (window.SUBTOPICS || []).length;
+
     const header = document.createElement("div");
     header.innerHTML = `
       <h2>Todos os simulados</h2>
-      <p class="hint">Todo domingo do seu plano vira um simulado. No modo padrão são ~45 questões misturadas entre as
-      16 frentes por prioridade, e os erros pesam na programação da semana seguinte; no card do dia você pode trocar
-      para o caderno oficial de 60 questões da FGV ou da Insper, em quatro blocos de 15, na ordem da prova. Clique em
-      um simulado para ver o resultado detalhado, frente por frente.</p>
+      <p class="hint">Todo domingo do seu plano vira um simulado. No modo padrão são ~${SIMULADO_TOTAL_QUESTIONS} questões
+      misturadas entre as ${totalFrentes} frentes por prioridade, e os erros pesam na programação da semana seguinte; no
+      card do dia você pode trocar para o caderno oficial de uma das bancas (${escapeHtml(bancasTexto)}), na ordem exata
+      da prova real. Clique em um simulado para ver o resultado detalhado, frente por frente.</p>
     `;
     wrap.appendChild(header);
 

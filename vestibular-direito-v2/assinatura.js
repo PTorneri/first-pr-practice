@@ -59,7 +59,7 @@
 // diagnóstico rodado por você NÃO prova que o caminho do aluno funciona. Quem
 // cobre esse caso é o ramo de permission-denied em verificar(), mais abaixo.
 
-import { db } from "./firebase-init.js?v=41";
+import { db } from "./firebase-init.js?v=42";
 import { doc, getDoc } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-firestore.js";
 
 const PORTAO_ATIVO = true;
@@ -79,25 +79,25 @@ const PORTAO_ATIVO = true;
 // vê por alguns milissegundos, não o que fica.
 //
 // O plano de 90 dias é PAGAMENTO ÚNICO, e o "à vista" no valor não é enfeite:
-// o checkout cobra diferente conforme a forma de pagamento — R$ 97,99 no Pix
-// (os R$ 97 do produto mais R$ 0,99 de taxa de serviço da Cakto, repassada ao
-// comprador) e R$ 121,20 no cartão em 12x, com os juros da plataforma.
-// Anunciar um número seco daria a entender que ele é o total em qualquer
-// caminho — e preço anunciado obriga. "à vista" é a formulação padrão do
-// comércio brasileiro exatamente para isto: diz o piso e avisa que parcelar
-// custa mais, sem precisar listar tabela. Se um dia a taxa passar a ser
-// absorvida na configuração da oferta, o Pix fecha em R$ 97,00 redondo e só
-// este valor muda.
+// o checkout cobra diferente conforme a forma de pagamento — R$ 49,99 no Pix
+// (os R$ 49 do produto mais R$ 0,99 de taxa de serviço da Cakto, repassada ao
+// comprador) e R$ 61,80 no cartão em 12x, com os juros da plataforma —
+// checkout conferido em 12/08/2026. Anunciar um número seco daria a entender
+// que ele é o total em qualquer caminho — e preço anunciado obriga. "à vista"
+// é a formulação padrão do comércio brasileiro exatamente para isto: diz o
+// piso e avisa que parcelar custa mais, sem precisar listar tabela. Se um dia
+// a taxa passar a ser absorvida na configuração da oferta, o Pix fecha em
+// R$ 49,00 redondo e só este valor muda.
 //
 // O plano mensal é ASSINATURA RECORRENTE (Pix Automático ou cartão, cobrados
 // pela Cakto a cada 30 dias) e, ao contrário do de 90 dias, cobra o MESMO
-// valor pelos dois meios — checkout conferido em 11/08/2026: R$ 44,99 no Pix
-// Automático e 1x de R$ 44,99 no cartão. Sem tabela de parcelamento, então sem
+// valor pelos dois meios — checkout conferido em 12/08/2026: R$ 19,99 no Pix
+// Automático e 1x de R$ 19,99 no cartão. Sem tabela de parcelamento, então sem
 // "à vista" para qualificar: não existe um caminho mais caro para avisar.
 const PLANO_NOVENTA = {
   id: "noventa",
   periodo: "90 dias",
-  valor: "R$ 97,99",
+  valor: "R$ 49,99",
   // Vazio? A tela do portão mostra o recado de que a assinatura ainda não
   // abriu, em vez de um botão que não leva a lugar nenhum — um link quebrado
   // nesta tela é pior que botão nenhum, porque é aqui que a pessoa está
@@ -108,7 +108,7 @@ const PLANO_NOVENTA = {
 const PLANO_MENSAL = {
   id: "mensal",
   periodo: "mês",
-  valor: "R$ 44,99",
+  valor: "R$ 19,99",
   checkoutUrl: "https://pay.cakto.com.br/rddoaeh_1035086",
 };
 
@@ -193,7 +193,7 @@ function diasAte(ms) {
 // Ordem proposital: o grátis primeiro. Quem chega precisa saber que pode
 // entrar hoje sem pagar, e só depois quanto custa continuar.
 function chamada() {
-  // Ordem invertida em relação ao óbvio ("R$ 97,99 por 90 dias") para o "à
+  // Ordem invertida em relação ao óbvio ("R$ 49,99 por 90 dias") para o "à
   // vista" cair colado no valor, que é onde ele qualifica. Solto no fim da
   // frase, ele pareceria qualificar o prazo. O mensal entra depois, sem "à
   // vista" — não existe caminho mais caro pra avisar nesse plano (ver o

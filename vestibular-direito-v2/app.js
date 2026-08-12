@@ -4913,7 +4913,7 @@
 
     if (acesso.plano === "mensal") {
       nota.textContent = acesso.renovacaoAtiva
-        ? "Plano mensal — R$ 44,99/mês. Renova em " + dataExpira + "."
+        ? "Plano mensal — R$ 19,99/mês. Renova em " + dataExpira + "."
         : "Plano mensal cancelado — seu acesso segue até " + dataExpira + ", sem nova cobrança.";
     } else {
       nota.textContent = "Plano de " + (acesso.plano || "90 dias") + " — vence em " + dataExpira +

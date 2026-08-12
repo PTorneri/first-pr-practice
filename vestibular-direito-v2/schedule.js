@@ -478,46 +478,21 @@ function pickSimuladoQuestions(simuladoVisitIndex) {
 
 // ---------------------------------------------------------------- simulado oficial
 //
-// O simulado adaptativo de 45 questões acima serve ao TREINO: ele segue os
-// pesos do estudo e reage ao erro. O que ele não faz é ensaiar a prova.
+// O simulado adaptativo de 45 (ou 50) questões acima serve ao TREINO: ele
+// segue os pesos do estudo e reage ao erro. O que ele não faz é ensaiar a
+// prova. O modo oficial monta o caderno de uma banca específica, na ordem
+// exata dos blocos: fazer nessa ordem treina o ritmo, a decisão de quando
+// abandonar uma questão, e o cansaço do fim da prova, que é onde a nota
+// costuma cair.
 //
-// As duas bancas usam o mesmo formato geral -- 60 objetivas em quatro blocos
-// de 15, em ordem fixa -- e composições diferentes dentro dele. Fazer 60 na
-// ordem certa treina três coisas que o adaptativo não alcança: o ritmo (a FGV
-// dá ~3,5 min por questão), a decisão de quando abandonar uma questão, e o
-// cansaço do quarto bloco, que é onde a nota costuma cair.
-//
-// As composições abaixo saíram da contagem dos cadernos, e não do edital. Onde
-// os dois divergem, vale o caderno: em Humanas da Insper o edital prevê
-// Filosofia 2 e Sociologia 2, e os dois cadernos de 2026 trouxeram Filosofia 1
-// e Sociologia 3, sempre nas quatro últimas questões do bloco.
-const SIMULADO_OFICIAL = {
-  fgv: {
-    nome: "FGV Direito SP",
-    duracaoMin: 210,
-    blocos: [
-      { nome: "Matemática", frentes: { "matematica-rlm": 15 } },
-      // Na FGV 2026.1, 9 das 15 questões de Português saíram de dois romances
-      // da lista. É a razão de literatura pesar mais que gramática aqui.
-      { nome: "Língua Portuguesa", frentes: { "literatura": 9, "interpretacao-texto": 3, "gramatica": 3 } },
-      { nome: "Inglês", frentes: { "ingles": 15 } },
-      { nome: "Ciências Humanas", frentes: { "geografia": 5, "historia-brasil": 3, "historia-geral": 3, "atualidades-geopolitica": 2, "atualidades-meioambiente": 1, "artes-cultura": 1 } }
-    ]
-  },
-  insper: {
-    nome: "Insper",
-    duracaoMin: 300,
-    blocos: [
-      { nome: "Linguagens e Códigos", frentes: { "literatura": 8, "interpretacao-texto": 4, "gramatica": 3 } },
-      { nome: "Matemática", frentes: { "matematica-rlm": 15 } },
-      { nome: "Ciências Humanas", frentes: { "geografia": 6, "historia-brasil": 3, "historia-geral": 2, "filosofia-sociologia": 4 } },
-      // 5 de Biologia, 5 de Química e 5 de Física, nessa ordem, nos dois
-      // cadernos de 2026. Não é aproximação, é gabarito de montagem -- mas o
-      // banco tem uma frente única de Natureza, então o bloco sai inteiro dela.
-      { nome: "Ciências da Natureza", frentes: { "ciencias-natureza": 15 } }
-    ]
-  }
-};
+// Desde 2026-08 a lista de bancas vem da trilha ativa (ver
+// simuladoOficial em trilhas.js) — Direito tem duas (FGV, Insper), Medicina
+// tem sete. O fallback existe para o caso de este arquivo ser carregado sem
+// trilhas.js, como acontece nos testes.
+const SIMULADO_OFICIAL = (function () {
+  const cfg = window.VD_TRILHA && window.VD_TRILHA.config();
+  return (cfg && cfg.simuladoOficial) || {};
+})();
 
 // Monta as 60 questões do simulado oficial de uma banca, na ORDEM dos blocos.
 //
@@ -532,6 +507,13 @@ function pickSimuladoOficial(banca, visitIndex) {
   const areaPorId = {};
   (window.SUBTOPICS || []).forEach((s) => { nomePorId[s.id] = s.nome; areaPorId[s.id] = s.area; });
 
+  // Deslocamento fixo por banca: sem ele, duas bancas pedindo a mesma frente
+  // (ex. "matematica" no Einstein e na Santa Casa) comeriam a mesma janela do
+  // banco e o candidato veria as mesmas questões nos dois cadernos. hashString
+  // troca o antigo "banca === 'insper' ? 3 : 0", que só conhecia duas bancas —
+  // agora funciona para qualquer id, das duas de Direito às sete de Medicina.
+  const bancaNudge = Math.abs(hashString(banca));
+
   const itens = [];
   modelo.blocos.forEach((bloco, bIdx) => {
     const doBloco = [];
@@ -542,7 +524,7 @@ function pickSimuladoOficial(banca, visitIndex) {
       // Rotação própria por banca e por bloco: sem o deslocamento, o simulado
       // oficial e o adaptativo comeriam a mesma janela de cada banco e o
       // candidato veria as mesmas questões nos dois.
-      const semente = visitIndex * count + (bIdx + 1) * 7 + (banca === "insper" ? 3 : 0);
+      const semente = visitIndex * count + (bIdx + 1) * 7 + (bancaNudge % 97);
       const offset = snapOffsetToGroup(bank, semente, (q) => clusterKey(q));
       const circular = [];
       for (let j = 0; j < bank.length; j++) circular.push(bank[(offset + j) % bank.length]);
@@ -550,7 +532,7 @@ function pickSimuladoOficial(banca, visitIndex) {
         doBloco.push({ question: q, subtopicId: id, subtopicNome: nomePorId[id] || id, area: areaPorId[id] || "", bloco: bloco.nome, blocoIndex: bIdx });
       });
     });
-    const rng = mulberry32(visitIndex * 613 + bIdx * 29 + (banca === "insper" ? 101 : 0));
+    const rng = mulberry32(visitIndex * 613 + bIdx * 29 + (bancaNudge % 101));
     shuffleGroups(doBloco, rng, (it) => clusterKey(it.question, it.subtopicId)).forEach((it) => itens.push(it));
   });
   return itens;

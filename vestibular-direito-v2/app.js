@@ -34,7 +34,7 @@
   // login teria vinte por dia em vez de dez.
   const LS_IA_USAGE = "v2_vd_iaUsage"; // { "<isoDate>": n }, quantas correções por IA hoje
   const LS_CYCLE_WEIGHTS = NS + "vd_cycleWeights"; // { "<cycleIndex>": { "<subtopicId>": peso } }, travado após cada simulado
-  const LS_SIMULADO_MODO = NS + "vd_simuladoModo"; // { "<dia>": "adaptativo" | "fgv" | "insper" }, modo do simulado daquele domingo
+  const LS_SIMULADO_MODO = NS + "vd_simuladoModo"; // { "<dia>": "adaptativo" | "<id-da-banca>" }, modo do simulado daquele domingo — os ids de banca vêm de simuladoOficial na trilha ativa (ver trilhas.js)
   const LS_SCORE_HISTORY = NS + "vd_scoreHistory"; // { "<isoDate>": score 0..1 }, achado 5 (score projetado)
   const LS_TOPIC_LAST_ANSWERED = NS + "vd_topicLastAnswered"; // { "<subtopicId>": isoDate }, achado 6 (índice de prontidão)
   const LS_THEORY_SEEN = NS + "vd_theorySeen"; // { "<subtopicId>": true }, achado 1 (teoria por frente)
@@ -1359,9 +1359,9 @@
     atualizarBadges();
   }
 
-  // Modo do simulado do domingo, por dia. O adaptativo de 45 é o padrão porque
-  // é ele que alimenta os pesos do ciclo seguinte; os oficiais de 60 são
-  // ensaio de prova e não realimentam nada.
+  // Modo do simulado do domingo, por dia. O adaptativo é o padrão porque é ele
+  // que alimenta os pesos do ciclo seguinte; os cadernos oficiais são ensaio
+  // de prova e não realimentam nada.
   function getSimuladoModo(day) { return loadJSON(LS_SIMULADO_MODO, {})[day] || "adaptativo"; }
   function setSimuladoModo(day, modo) {
     const s = loadJSON(LS_SIMULADO_MODO, {});
@@ -1369,31 +1369,45 @@
     saveJSON(LS_SIMULADO_MODO, s);
   }
 
+  // Total de questões de um caderno oficial, somando todos os blocos — usado
+  // no rótulo do botão antes de o candidato escolher o modo (pickSimuladoOficial
+  // só monta os itens depois do clique).
+  function totalSimuladoOficial(modelo) {
+    return modelo.blocos.reduce((soma, b) => soma + Object.values(b.frentes).reduce((s, n) => s + n, 0), 0);
+  }
+
   function renderSimuladoCard(day, content) {
     const card = document.createElement("div");
     card.className = "lesson-card simulado-card";
-    const modo = getSimuladoModo(day);
-    const oficial = modo === "fgv" || modo === "insper";
+    // A lista de bancas vem da trilha ativa (1 a 7, ver simuladoOficial em
+    // trilhas.js) — se o modo salvo apontar para uma banca que não existe mais
+    // aqui (troca de trilha, ou o dia foi respondido antes de a banca entrar
+    // no catálogo), cai para o adaptativo em vez de travar em modelo.nome de
+    // undefined.
+    let modo = getSimuladoModo(day);
+    if (modo !== "adaptativo" && !SIMULADO_OFICIAL[modo]) modo = "adaptativo";
+    const oficial = modo !== "adaptativo";
     const modelo = oficial ? SIMULADO_OFICIAL[modo] : null;
     const items = oficial
       ? pickSimuladoOficial(modo, content.simuladoNumber - 1)
       : content.items;
 
-    const abas = [
-      ["adaptativo", "Adaptativo · 45"],
-      ["fgv", "Oficial FGV · 60"],
-      ["insper", "Oficial Insper · 60"]
-    ].map(([id, rotulo]) =>
+    const opcoes = [["adaptativo", `Adaptativo · ${SIMULADO_TOTAL_QUESTIONS}`]];
+    Object.keys(SIMULADO_OFICIAL).forEach((id) => {
+      opcoes.push([id, `Oficial ${SIMULADO_OFICIAL[id].nome} · ${totalSimuladoOficial(SIMULADO_OFICIAL[id])}`]);
+    });
+    const abas = opcoes.map(([id, rotulo]) =>
       `<button type="button" class="simulado-modo-btn${modo === id ? " ativo" : ""}" data-modo="${id}">${rotulo}</button>`
     ).join("");
 
     const descricao = oficial
-      ? `Ensaio da prova real: ${items.length} questões em quatro blocos de 15, na ordem exata do caderno da
-         ${escapeHtml(modelo.nome)}, com ${modelo.duracaoMin} minutos de duração. Fazer nessa ordem treina o que o
-         simulado adaptativo não alcança — o ritmo, a decisão de abandonar uma questão e o cansaço do quarto bloco,
-         que é onde a nota costuma cair. Este modo não altera a programação da próxima semana.`
-      : `Hoje não tem vídeo-aula: são ${items.length} questões, distribuídas entre as 16 frentes por prioridade
-         (pelo menos uma de cada), para revisar tudo o que você já estudou. Os erros daqui pesam mais forte na
+      ? `Ensaio da prova real: ${items.length} questões em ${modelo.blocos.length} ${modelo.blocos.length === 1 ? "bloco" : "blocos"},
+         na ordem exata do caderno da ${escapeHtml(modelo.nome)}, com ${modelo.duracaoMin} minutos de duração. Fazer
+         nessa ordem treina o que o simulado adaptativo não alcança — o ritmo, a decisão de abandonar uma questão e
+         o cansaço do fim da prova, que é onde a nota costuma cair. Este modo não altera a programação da próxima
+         semana.`
+      : `Hoje não tem vídeo-aula: são ${items.length} questões, distribuídas entre as frentes por prioridade (pelo
+         menos uma de cada), para revisar tudo o que você já estudou. Os erros daqui pesam mais forte na
          programação da próxima semana — sem sumir os outros temas.`;
 
     card.innerHTML = `
@@ -1418,18 +1432,34 @@
       });
     });
 
+    // Início (1-based) de cada bloco, pelo TAMANHO real dele — não dá pra supor
+    // 15 por bloco como quando só existiam os cadernos de 60 da FGV e do
+    // Insper: os de Medicina vão de blocos de 5 (Matemática da PUC-SP) a um
+    // único bloco de 89 (a FUVEST, que não separa por disciplina).
+    const blocoInicios = [];
+    if (oficial) {
+      let acc = 1;
+      modelo.blocos.forEach((b) => {
+        blocoInicios.push(acc);
+        acc += Object.values(b.frentes).reduce((s, n) => s + n, 0);
+      });
+    }
+
     const questionsContainer = card.querySelector(".questions");
     let blocoAtual = null;
     items.forEach((item, idx) => {
-      // Cabeçalho de bloco: sem ele, 60 questões em sequência não ensaiam nada
-      // além de resistência. É a fronteira do bloco que o candidato precisa
-      // sentir, porque é onde ele decide se vai voltar às que pulou.
-      if (oficial && item.bloco !== blocoAtual) {
+      // Cabeçalho de bloco: sem ele, um caderno inteiro em sequência não
+      // ensaia nada além de resistência. É a fronteira do bloco que o
+      // candidato precisa sentir, porque é onde ele decide se vai voltar às
+      // que pulou. Com um único bloco (a FUVEST, organizada por tema) não há
+      // fronteira para marcar.
+      if (oficial && modelo.blocos.length > 1 && item.bloco !== blocoAtual) {
         blocoAtual = item.bloco;
+        const tamanho = Object.values(modelo.blocos[item.blocoIndex].frentes).reduce((s, n) => s + n, 0);
+        const faixa = blocoInicios[item.blocoIndex];
         const cab = document.createElement("div");
         cab.className = "simulado-bloco";
-        const faixa = item.blocoIndex * 15 + 1;
-        cab.textContent = `Bloco ${item.blocoIndex + 1} · ${item.bloco} · questões ${faixa} a ${faixa + 14}`;
+        cab.textContent = `Bloco ${item.blocoIndex + 1} · ${item.bloco} · questões ${faixa} a ${faixa + tamanho - 1}`;
         questionsContainer.appendChild(cab);
       }
       appendGrouped(

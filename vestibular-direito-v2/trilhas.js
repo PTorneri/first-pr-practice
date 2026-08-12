@@ -111,6 +111,54 @@
         simuladoMinPorFrente: 1,
         seed: 20260101,
       },
+      // Caderno oficial do modo "ensaio de prova" da aba Simulados (ver
+      // pickSimuladoOficial em schedule.js). Morava fixo em schedule.js até
+      // 2026-08, quando a trilha de Medicina precisou do mesmo recurso com
+      // sete bancas em vez de duas — schedule.js virou genérico e cada trilha
+      // passou a trazer o próprio caderno aqui, do lado do resto da sua UI
+      // (redacaoUI, obrasUI, provasOficiais).
+      //
+      // As duas bancas usam o mesmo formato geral -- 60 objetivas em quatro
+      // blocos de 15, em ordem fixa -- e composições diferentes dentro dele.
+      // Fazer 60 na ordem certa treina três coisas que o adaptativo não
+      // alcança: o ritmo (a FGV dá ~3,5 min por questão), a decisão de quando
+      // abandonar uma questão, e o cansaço do quarto bloco, que é onde a nota
+      // costuma cair.
+      //
+      // As composições abaixo saíram da contagem dos cadernos, e não do
+      // edital. Onde os dois divergem, vale o caderno: em Humanas da Insper o
+      // edital prevê Filosofia 2 e Sociologia 2, e os dois cadernos de 2026
+      // trouxeram Filosofia 1 e Sociologia 3, sempre nas quatro últimas
+      // questões do bloco.
+      simuladoOficial: {
+        fgv: {
+          nome: "FGV Direito SP",
+          duracaoMin: 210,
+          blocos: [
+            { nome: "Matemática", frentes: { "matematica-rlm": 15 } },
+            // Na FGV 2026.1, 9 das 15 questões de Português saíram de dois
+            // romances da lista. É a razão de literatura pesar mais que
+            // gramática aqui.
+            { nome: "Língua Portuguesa", frentes: { "literatura": 9, "interpretacao-texto": 3, "gramatica": 3 } },
+            { nome: "Inglês", frentes: { "ingles": 15 } },
+            { nome: "Ciências Humanas", frentes: { "geografia": 5, "historia-brasil": 3, "historia-geral": 3, "atualidades-geopolitica": 2, "atualidades-meioambiente": 1, "artes-cultura": 1 } }
+          ]
+        },
+        insper: {
+          nome: "Insper",
+          duracaoMin: 300,
+          blocos: [
+            { nome: "Linguagens e Códigos", frentes: { "literatura": 8, "interpretacao-texto": 4, "gramatica": 3 } },
+            { nome: "Matemática", frentes: { "matematica-rlm": 15 } },
+            { nome: "Ciências Humanas", frentes: { "geografia": 6, "historia-brasil": 3, "historia-geral": 2, "filosofia-sociologia": 4 } },
+            // 5 de Biologia, 5 de Química e 5 de Física, nessa ordem, nos dois
+            // cadernos de 2026. Não é aproximação, é gabarito de montagem --
+            // mas o banco tem uma frente única de Natureza, então o bloco sai
+            // inteiro dela.
+            { nome: "Ciências da Natureza", frentes: { "ciencias-natureza": 15 } }
+          ]
+        }
+      },
       provasOficiais: [
         { nome: "FGV", url: "https://vestibular.fgv.br/provas-gabaritos" },
         { nome: "Insper", url: "https://www.insper.edu.br/content/insper-portal/pt/cursos/vestibular/provas-e-gabaritos.html" },
@@ -185,6 +233,160 @@
         // Semente diferente da de Direito de propósito: com a mesma, as duas
         // trilhas produziriam a mesma ordem de frentes ao longo dos 90 dias.
         seed: 20260202,
+      },
+      // Caderno oficial do modo "ensaio de prova" da aba Simulados — sete
+      // bancas em vez das duas de Direito, uma para cada uma que a trilha
+      // cobre. Tudo abaixo sai de
+      // estudo-anatomia-provas-medicina-sp-2025-2026.md (seções 2 e 3, leitura
+      // integral de 25 cadernos), não de suposição — MAS a granularidade
+      // varia: quando o caderno separa a prova em blocos por disciplina
+      // (Santa Casa, Einstein), a contagem por frente é exata; quando o bloco
+      // do caderno junta mais de uma frente (ex. "Língua Portuguesa e
+      // Literaturas", "Ciências Humanas"), a divisão interna entre
+      // interpretacao-texto/gramatica/literatura ou historia/geografia/
+      // filosofia-sociologia é uma ESTIMATIVA, marcada como tal no comentário
+      // do bloco — a banca não publica esse nível de detalhe, e nenhum dos 25
+      // cadernos lidos contava questão a questão dentro de um bloco misto.
+      //
+      // O TOTAL de cada bloco, esse sim, é sempre o número verificado no
+      // caderno (ou no edital, quando citado) — só a partição interna é
+      // aproximada.
+      simuladoOficial: {
+        // Única banca das sete cuja prova NÃO tem blocos fixos por disciplina
+        // — o próprio estudo (seção 3.1) classifica a FUVEST como organizada
+        // por TEMA, com a mesma questão mudando de posição entre as quatro
+        // versões do caderno. Um único bloco reproduz isso melhor que blocos
+        // inventados: nenhuma ordem fixa é mais fiel ao caderno real do que
+        // outra. A contagem por disciplina é a da própria seção 3.1
+        // ("classificação minha, não oficial" — a FUVEST não rotula as
+        // questões), com Português+Literatura (~12) dividido ao meio entre
+        // interpretacao-texto e literatura e Sociologia+Filosofia (5+1) somadas
+        // em filosofia-sociologia, a única frente que cobre as duas.
+        fuvest: {
+          nome: "FUVEST",
+          duracaoMin: 300,
+          blocos: [
+            {
+              nome: "Prova completa (organizada por tema, não por disciplina)",
+              frentes: {
+                "biologia": 15, "historia": 10, "geografia": 10, "quimica": 9, "fisica": 8,
+                "matematica": 8, "artes-cultura": 7, "filosofia-sociologia": 6,
+                "interpretacao-texto": 6, "literatura": 6, "ingles": 4,
+              },
+            },
+          ],
+        },
+        // Blocos rígidos, na ordem exata do caderno Q/X 2026 (seção 3.2). Só o
+        // bloco "Língua Portuguesa e Literaturas" (12) e o de abertura
+        // "Linguagens, Inglês e Artes" (7) não vêm com sub-contagem oficial —
+        // divididos por peso relativo (window.PRIORITY_WEIGHTS_POR_BANCA.unicamp:
+        // gramática pesa menos que interpretação e literatura nesta banca).
+        unicamp: {
+          nome: "Unicamp",
+          duracaoMin: 300,
+          blocos: [
+            { nome: "Linguagens, Inglês e Artes", frentes: { "ingles": 3, "interpretacao-texto": 2, "artes-cultura": 2 } },
+            { nome: "Física", frentes: { "fisica": 7 } },
+            { nome: "Geografia", frentes: { "geografia": 7 } },
+            { nome: "Filosofia e Sociologia", frentes: { "filosofia-sociologia": 6 } },
+            { nome: "História", frentes: { "historia": 7 } },
+            { nome: "Biologia", frentes: { "biologia": 7 } },
+            { nome: "Matemática", frentes: { "matematica": 12 } },
+            { nome: "Língua Portuguesa e Literaturas", frentes: { "literatura": 5, "interpretacao-texto": 5, "gramatica": 2 } },
+            { nome: "Química", frentes: { "quimica": 7 } },
+          ],
+        },
+        // As seis faixas verificadas na tabela da seção 2.3 (idêntica nos três
+        // cadernos lidos: 2025.2, 2026.1, 2026.2), viradas em blocos. Só
+        // "Português, Literatura e Arte" (20) e "Ciências Humanas" (30) não têm
+        // sub-contagem publicada — divididos por peso relativo
+        // (PRIORITY_WEIGHTS_POR_BANCA.unesp trata historia/geografia/
+        // filosofia-sociologia como iguais, por isso saem 10/10/10).
+        unesp: {
+          nome: "Unesp",
+          duracaoMin: 300,
+          blocos: [
+            { nome: "Português, Literatura e Arte", frentes: { "interpretacao-texto": 8, "literatura": 6, "gramatica": 3, "artes-cultura": 3 } },
+            { nome: "Língua Inglesa", frentes: { "ingles": 10 } },
+            { nome: "Ciências Humanas", frentes: { "historia": 10, "geografia": 10, "filosofia-sociologia": 10 } },
+            { nome: "Biologia e Química", frentes: { "biologia": 7, "quimica": 7 } },
+            { nome: "Física", frentes: { "fisica": 7 } },
+            { nome: "Matemática", frentes: { "matematica": 8 } },
+          ],
+        },
+        // A única banca sem Ciências (seção 3.4): 15 de Português, 10 de
+        // Inglês, nada mais. O bloco de Português não separa
+        // gramática/interpretação/literatura na leitura, mas o estudo o
+        // descreve como "o mais gramatical do conjunto" — dá o peso maior à
+        // gramática, o oposto do que as outras bancas sugerem.
+        //
+        // duracaoMin é a Prova I inteira (4h), que também inclui a Redação —
+        // a banca não isola quanto tempo é só das 25 objetivas.
+        unifesp: {
+          nome: "Unifesp",
+          duracaoMin: 240,
+          blocos: [
+            { nome: "Língua Portuguesa", frentes: { "interpretacao-texto": 7, "gramatica": 6, "literatura": 2 } },
+            { nome: "Língua Inglesa", frentes: { "ingles": 10 } },
+          ],
+        },
+        // Blocos fixos e batendo com o edital nos dois anos lidos (seção 3.3).
+        // Só o bloco de Português (10) não tem sub-contagem oficial.
+        //
+        // duracaoMin é uma ESTIMATIVA: o edital só dá "5 horas, saída após 3h"
+        // para o dia inteiro (Prova I de 50 objetivas + Prova II de 5
+        // discursivas + Redação), sem isolar a Prova I.
+        einstein: {
+          nome: "Einstein",
+          duracaoMin: 150,
+          blocos: [
+            { nome: "Língua Portuguesa", frentes: { "interpretacao-texto": 5, "gramatica": 3, "literatura": 2 } },
+            { nome: "Língua Inglesa", frentes: { "ingles": 5 } },
+            { nome: "História", frentes: { "historia": 5 } },
+            { nome: "Geografia", frentes: { "geografia": 5 } },
+            { nome: "Biologia", frentes: { "biologia": 5 } },
+            { nome: "Química", frentes: { "quimica": 5 } },
+            { nome: "Física", frentes: { "fisica": 5 } },
+            { nome: "Matemática", frentes: { "matematica": 10 } },
+          ],
+        },
+        // Dez de cada disciplina, sem exceção, verificado questão a questão no
+        // caderno de 2026 (seção 2.6/3.6) — a estrutura mais limpa do
+        // conjunto. Só o bloco de Português (10) não separa
+        // gramática/interpretação/literatura. duracaoMin é o valor exato da
+        // prova de Conhecimentos Gerais (4h) — aqui não há Redação misturada.
+        santacasa: {
+          nome: "Santa Casa",
+          duracaoMin: 240,
+          blocos: [
+            { nome: "Língua Portuguesa e Literatura", frentes: { "interpretacao-texto": 4, "literatura": 4, "gramatica": 2 } },
+            { nome: "Língua Inglesa", frentes: { "ingles": 10 } },
+            { nome: "História", frentes: { "historia": 10 } },
+            { nome: "Geografia", frentes: { "geografia": 10 } },
+            { nome: "Biologia", frentes: { "biologia": 10 } },
+            { nome: "Química", frentes: { "quimica": 10 } },
+            { nome: "Física", frentes: { "fisica": 10 } },
+            { nome: "Matemática", frentes: { "matematica": 10 } },
+          ],
+        },
+        // Matriz ENEM por área (seção 2.7/3.7): os quatro totais por bloco são
+        // do edital, a ordem do caderno também. Nenhum dos quatro blocos tem
+        // sub-contagem oficial por frente — divididos por peso relativo
+        // (Natureza sai igual entre bio/quím/fís; Humanas dá menos a
+        // artes-cultura, que pesa 1 contra 1,5 das outras três).
+        //
+        // duracaoMin é a prova única inteira (4h), que também inclui a
+        // Redação.
+        pucsp: {
+          nome: "PUC-SP",
+          duracaoMin: 240,
+          blocos: [
+            { nome: "Matemática", frentes: { "matematica": 5 } },
+            { nome: "Ciências da Natureza", frentes: { "biologia": 5, "quimica": 5, "fisica": 5 } },
+            { nome: "Ciências Humanas", frentes: { "historia": 4, "geografia": 4, "filosofia-sociologia": 4, "artes-cultura": 3 } },
+            { nome: "Linguagens", frentes: { "interpretacao-texto": 4, "literatura": 4, "gramatica": 3, "ingles": 4 } },
+          ],
+        },
       },
       provasOficiais: [
         { nome: "FUVEST", url: "https://www.fuvest.br/acervo-vestibular-2026/" },
